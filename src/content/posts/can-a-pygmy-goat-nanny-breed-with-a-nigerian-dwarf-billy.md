@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy.webp"
 imageAlt: "Can a Pygmy Goat Nanny breed with a Nigerian Dwarf Billy?"
 readTime: "6 min read"
 quickAnswer:

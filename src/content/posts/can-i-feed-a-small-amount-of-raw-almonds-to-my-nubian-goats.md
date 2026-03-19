@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-12
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats.webp"
 imageAlt: "Can I Feed A Small Amount Of Raw Almonds To My Nubian Goats?"
 readTime: "6 min read"
 quickAnswer:

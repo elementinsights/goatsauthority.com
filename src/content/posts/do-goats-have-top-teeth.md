@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-03
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/do-goats-have-top-teeth.webp"
 imageAlt: "Do Goats Have Top Teeth?"
 readTime: "6 min read"
 quickAnswer:

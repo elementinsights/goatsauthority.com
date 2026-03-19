@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-be-kept-in-the-house.webp"
 imageAlt: "Can Goats Be Kept In The House?"
 readTime: "6 min read"
 quickAnswer:

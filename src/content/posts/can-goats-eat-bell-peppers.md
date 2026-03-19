@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-10
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-bell-peppers.webp"
 imageAlt: "Can Goats Eat Bell Peppers?"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-02
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-get-addicted-to-human-urine.webp"
 imageAlt: "Can a Goat Get Addicted to Human Urine?"
 readTime: "6 min read"
 quickAnswer:

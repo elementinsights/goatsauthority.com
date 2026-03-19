@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-26
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-baby-have-powdered-goats-milk.webp"
 imageAlt: "Can a Baby Have Powdered Goats Milk?"
 readTime: "7 min read"
 quickAnswer:

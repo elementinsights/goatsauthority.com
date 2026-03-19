@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-pass-afterbirth-between-kids.webp"
 imageAlt: "Can a Goat Pass Afterbirth Between Kids?"
 readTime: "7 min read"
 quickAnswer:

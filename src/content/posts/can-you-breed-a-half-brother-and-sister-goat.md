@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-14
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-breed-a-half-brother-and-sister-goat.webp"
 imageAlt: "Can You Breed A Half Brother And Sister Goat?"
 readTime: "6 min read"
 quickAnswer:

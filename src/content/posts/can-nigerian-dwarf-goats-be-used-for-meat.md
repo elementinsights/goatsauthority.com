@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-10
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-nigerian-dwarf-goats-be-used-for-meat.webp"
 imageAlt: "Can Nigerian Dwarf Goats Be Used For Meat?"
 readTime: "6 min read"
 quickAnswer:

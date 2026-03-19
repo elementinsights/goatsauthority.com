@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-13
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-citrus-fruits.webp"
 imageAlt: "Can Goats Eat Citrus Fruits?"
 readTime: "7 min read"
 quickAnswer:

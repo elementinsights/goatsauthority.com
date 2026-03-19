@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-mix-goat-milk-replacer-with-cow-milk.webp"
 imageAlt: "Can I Mix Goat Milk Replacer With Cow Milk?"
 readTime: "7 min read"
 quickAnswer:

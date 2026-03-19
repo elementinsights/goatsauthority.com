@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-02
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-eat-too-many-dewormer-pellets.webp"
 imageAlt: "Can A Goat Eat Too Many Dewormer Pellets?"
 readTime: "6 min read"
 quickAnswer:

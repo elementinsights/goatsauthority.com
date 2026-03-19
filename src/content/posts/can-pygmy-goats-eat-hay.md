@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-pygmy-goats-eat-hay.webp"
 imageAlt: "Can Pygmy Goats Eat Hay?"
 readTime: "6 min read"
 quickAnswer:

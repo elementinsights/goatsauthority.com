@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-give-my-goat-pepto-bismol.webp"
 imageAlt: "Can I Give My Goat Pepto Bismol?"
 readTime: "6 min read"
 quickAnswer:

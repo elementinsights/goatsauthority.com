@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-14
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/how-many-babies-do-goats-have-at-a-time.webp"
 imageAlt: "How Many Babies Do Goats Have At A Time?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny.webp"
 imageAlt: "Can You Adopt A Goat And Keep It At A Farm In Rochester NY?"
 readTime: "6 min read"
 quickAnswer:

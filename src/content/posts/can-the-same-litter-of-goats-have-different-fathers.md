@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-the-same-litter-of-goats-have-different-fathers.webp"
 imageAlt: "Can The Same Litter Of Goats Have Different Fathers?"
 readTime: "7 min read"
 quickAnswer:

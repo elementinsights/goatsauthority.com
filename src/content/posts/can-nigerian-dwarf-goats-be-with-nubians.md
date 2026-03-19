@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-11
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-nigerian-dwarf-goats-be-with-nubians.webp"
 imageAlt: "Can Nigerian Dwarf Goats Be With Nubians"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-13
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-give-goat-trazodone.webp"
 imageAlt: "Can I Give Goat Trazodone?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-18
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-a-cow-shell-with-goat-liners.webp"
 imageAlt: "Can I Use A Cow Shell With Goat Liners?"
 readTime: "7 min read"
 quickAnswer:

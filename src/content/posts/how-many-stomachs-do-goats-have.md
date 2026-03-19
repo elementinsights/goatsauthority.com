@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-04
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/how-many-stomachs-do-goats-have.webp"
 imageAlt: "How Many Stomachs Do Goats Have?"
 readTime: "6 min read"
 quickAnswer:

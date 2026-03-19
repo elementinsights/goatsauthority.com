@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats.webp"
 imageAlt: "Can You Do Oral And Injection Of Ivermectin At The Same Time In Goats?"
 readTime: "6 min read"
 quickAnswer:

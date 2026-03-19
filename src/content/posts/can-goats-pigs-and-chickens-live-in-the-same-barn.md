@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-05
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-pigs-and-chickens-live-in-the-same-barn.webp"
 imageAlt: "Can Goats Pigs and Chickens Live In The Same Barn?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-13
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-get-goat-milk-at-luckys-market.webp"
 imageAlt: "Can I Get Goat Milk At Lucky's Market?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-08
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-weather-affect-goats-poop.webp"
 imageAlt: "Can Weather Affect Goats Poop?"
 readTime: "7 min read"
 quickAnswer:

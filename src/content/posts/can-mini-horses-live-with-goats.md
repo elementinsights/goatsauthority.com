@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-mini-horses-live-with-goats.webp"
 imageAlt: "Can Mini Horses Live With Goats"
 readTime: "6 min read"
 quickAnswer:

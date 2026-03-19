@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-sweet-potatoes.webp"
 imageAlt: "Can Goats Eat Sweet Potatoes?"
 readTime: "6 min read"
 quickAnswer:

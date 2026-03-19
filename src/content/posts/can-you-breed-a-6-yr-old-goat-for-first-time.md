@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-13
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-breed-a-6-yr-old-goat-for-first-time.webp"
 imageAlt: "Can You Breed A 6 yr Old Goat For First Time?"
 readTime: "6 min read"
 quickAnswer:

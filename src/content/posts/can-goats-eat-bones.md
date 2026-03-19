@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-12
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-bones.webp"
 imageAlt: "Can Goats Eat Bones?"
 readTime: "6 min read"
 quickAnswer:

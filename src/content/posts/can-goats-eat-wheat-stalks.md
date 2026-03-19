@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-wheat-stalks.webp"
 imageAlt: "Can Goats Eat Wheat Stalks?"
 readTime: "6 min read"
 quickAnswer:

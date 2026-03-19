@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-nigerian-buck-goat-mount-a-female-boer-goat.webp"
 imageAlt: "Can a Nigerian Buck Goat Mount a Female Boer Goat?"
 readTime: "6 min read"
 quickAnswer:

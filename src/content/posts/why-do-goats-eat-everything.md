@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-08
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/why-do-goats-eat-everything.webp"
 imageAlt: "Why Do Goats Eat Everything?"
 readTime: "6 min read"
 quickAnswer:

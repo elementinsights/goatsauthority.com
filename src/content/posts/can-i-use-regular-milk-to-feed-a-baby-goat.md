@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-regular-milk-to-feed-a-baby-goat.webp"
 imageAlt: "Can I Use Regular Milk To Feed A Baby Goat?"
 readTime: "6 min read"
 quickAnswer:

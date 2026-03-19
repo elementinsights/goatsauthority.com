@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-pink-eye-in-goats-be-transmitted-to-cattle.webp"
 imageAlt: "Can Pink Eye In Goats Be Transmitted To Cattle?"
 readTime: "6 min read"
 quickAnswer:

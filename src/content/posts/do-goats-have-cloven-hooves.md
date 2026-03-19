@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-16
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/do-goats-have-cloven-hooves.webp"
 imageAlt: "Do Goats Have Cloven Hooves?"
 readTime: "6 min read"
 quickAnswer:

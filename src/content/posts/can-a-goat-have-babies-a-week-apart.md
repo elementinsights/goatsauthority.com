@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-19
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-have-babies-a-week-apart.webp"
 imageAlt: "Can a Goat Have Babies a Week Apart?"
 readTime: "6 min read"
 quickAnswer:

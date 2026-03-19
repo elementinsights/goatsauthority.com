@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-04
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goat-poop-be-used-as-fertilizer.webp"
 imageAlt: "Can Goat Poop Be Used As Fertilizer?"
 readTime: "7 min read"
 quickAnswer:

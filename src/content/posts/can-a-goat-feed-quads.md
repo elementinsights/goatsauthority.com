@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-01
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-feed-quads.webp"
 imageAlt: "Can a Goat Feed Quads?"
 readTime: "7 min read"
 quickAnswer:

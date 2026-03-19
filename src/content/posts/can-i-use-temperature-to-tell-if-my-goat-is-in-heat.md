@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-26
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-temperature-to-tell-if-my-goat-is-in-heat.webp"
 imageAlt: "Can I Use Temperature To Tell If My Goat Is In Heat?"
 readTime: "6 min read"
 quickAnswer:

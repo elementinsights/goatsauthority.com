@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-18
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat.webp"
 imageAlt: "Can You Change A Bottle Fed Goat Back To Nursing Off Another Goat?"
 readTime: "6 min read"
 quickAnswer:

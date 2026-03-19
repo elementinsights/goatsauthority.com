@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-give-my-goats-human-fish-pills.webp"
 imageAlt: "Can I Give My Goats Human Fish Pills?"
 readTime: "6 min read"
 quickAnswer:

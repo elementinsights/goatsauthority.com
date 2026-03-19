@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-29
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-be-housed-trained.webp"
 imageAlt: "Can a Goat Be Housed Trained?"
 readTime: "7 min read"
 quickAnswer:

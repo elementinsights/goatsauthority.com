@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-walk-a-goat-in-skippack-pa.webp"
 imageAlt: "Can I Walk A Goat In Skippack PA?"
 readTime: "6 min read"
 quickAnswer:

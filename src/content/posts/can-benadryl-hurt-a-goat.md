@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-benadryl-hurt-a-goat.webp"
 imageAlt: "Can Benadryl Hurt a Goat?"
 readTime: "6 min read"
 quickAnswer:

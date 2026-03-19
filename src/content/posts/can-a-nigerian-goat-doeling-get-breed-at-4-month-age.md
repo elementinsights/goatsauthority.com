@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-nigerian-goat-doeling-get-breed-at-4-month-age.webp"
 imageAlt: "Can a Nigerian Goat Doeling Get Breed at 4 Month Age?"
 readTime: "6 min read"
 quickAnswer:

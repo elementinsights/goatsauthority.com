@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-11
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-make-yogurt-with-canned-goat-milk.webp"
 imageAlt: "Can I Make Yogurt With Canned Goat Milk?"
 readTime: "6 min read"
 quickAnswer:

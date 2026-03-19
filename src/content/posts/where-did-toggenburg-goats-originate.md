@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/where-did-toggenburg-goats-originate.webp"
 imageAlt: "Where Did Toggenburg Goats Originate?"
 readTime: "6 min read"
 quickAnswer:

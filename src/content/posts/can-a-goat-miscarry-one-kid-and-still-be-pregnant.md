@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-miscarry-one-kid-and-still-be-pregnant.webp"
 imageAlt: "Can a Goat Miscarry One Kid and Still be Pregnant?"
 readTime: "6 min read"
 quickAnswer:

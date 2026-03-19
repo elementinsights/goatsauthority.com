@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-21
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-describe-a-herd-of-sheep-and-goats.webp"
 imageAlt: "Can You Describe A Herd Of Sheep And Goats?"
 readTime: "6 min read"
 quickAnswer:

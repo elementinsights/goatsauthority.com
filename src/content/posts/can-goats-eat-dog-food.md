@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-dog-food.webp"
 imageAlt: "Can Goats Eat Dog Food?"
 readTime: "10 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-20
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-germall-plus-in-goat-milk-lotion.webp"
 imageAlt: "Can I Use Germall Plus In Goat Milk Lotion?"
 readTime: "6 min read"
 quickAnswer:

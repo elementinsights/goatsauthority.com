@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-alpacas-have-nutri-drench-for-goats.webp"
 imageAlt: "Can Alpacas Have Nutri Drench for Goats?"
 readTime: "6 min read"
 quickAnswer:

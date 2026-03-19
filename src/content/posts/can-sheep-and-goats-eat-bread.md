@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-29
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-sheep-and-goats-eat-bread.webp"
 imageAlt: "Can Sheep And Goats Eat Bread?"
 readTime: "6 min read"
 quickAnswer:

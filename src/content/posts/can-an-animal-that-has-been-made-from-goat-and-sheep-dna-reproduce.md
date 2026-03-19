@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce.webp"
 imageAlt: "Can an Animal that has Been Made From Goat and Sheep DNA Reproduce?"
 readTime: "6 min read"
 quickAnswer:

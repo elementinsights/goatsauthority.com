@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-dog-get-sick-from-a-goat.webp"
 imageAlt: "Can a Dog Get Sick From a Goat?"
 readTime: "7 min read"
 quickAnswer:

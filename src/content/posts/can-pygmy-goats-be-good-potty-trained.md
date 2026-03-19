@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-07
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-pygmy-goats-be-good-potty-trained.webp"
 imageAlt: "Can Pygmy Goats Be Good Potty Trained?"
 readTime: "6 min read"
 quickAnswer:

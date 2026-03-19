@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-kiwi.webp"
 imageAlt: "Can Goats Eat Kiwi?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-swim-everything-you-need-to-know.webp"
 imageAlt: "Can a Goat Swim?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-rams-be-in-with-goat-bucks.webp"
 imageAlt: "Can Rams Be In With Goat Bucks?"
 readTime: "6 min read"
 quickAnswer:

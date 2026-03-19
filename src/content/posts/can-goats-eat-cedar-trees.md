@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-12
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-cedar-trees.webp"
 imageAlt: "Can Goats Eat Cedar Trees?"
 readTime: "6 min read"
 quickAnswer:

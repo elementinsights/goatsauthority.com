@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-29
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-black-widow-spider-kill-a-goat.webp"
 imageAlt: "Can Black Widow Spider Kill a Goat?"
 readTime: "6 min read"
 quickAnswer:

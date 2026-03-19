@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-01
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-get-a-cold-sore.webp"
 imageAlt: "Can a Goat Get a Cold Sore?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/what-kind-of-hay-do-goats-eat.webp"
 imageAlt: "What Kind Of Hay Do Goats Eat?"
 readTime: "6 min read"
 quickAnswer:

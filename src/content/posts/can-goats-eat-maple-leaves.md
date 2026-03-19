@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-maple-leaves.jpg"
 imageAlt: "Can Goats Eat Maple Leaves?"
 readTime: "7 min read"
 quickAnswer:

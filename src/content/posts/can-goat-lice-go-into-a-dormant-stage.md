@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-02
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goat-lice-go-into-a-dormant-stage.webp"
 imageAlt: "Can Goat Lice Go Into a Dormant Stage?"
 readTime: "6 min read"
 quickAnswer:

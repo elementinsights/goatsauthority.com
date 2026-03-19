@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-have-a-stroke-anemia.webp"
 imageAlt: "Can Goats Have A Stroke Anemia?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-31
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-dogs-have-goat-formula.webp"
 imageAlt: "Can Dogs Have Goat Formula?"
 readTime: "6 min read"
 quickAnswer:

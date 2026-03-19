@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-12
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-feed-my-goat-pine-needles-when-it-is-pregnant.webp"
 imageAlt: "Can I Feed My Goat Pine Needles When It Is Pregnant?"
 readTime: "6 min read"
 quickAnswer:

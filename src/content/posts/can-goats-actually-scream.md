@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-05
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-actually-scream.webp"
 imageAlt: "Can Goats Actually Scream?"
 readTime: "7 min read"
 quickAnswer:

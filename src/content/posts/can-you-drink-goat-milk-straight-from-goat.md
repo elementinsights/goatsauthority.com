@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-15
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-drink-goat-milk-straight-from-goat.webp"
 imageAlt: "Can You Drink Goat Milk Straight From Goat?"
 readTime: "6 min read"
 quickAnswer:

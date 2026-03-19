@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-an-over-due-goat-be-induced-to-labor.webp"
 imageAlt: "Can an Overdue Goat be Induced to Labor?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-drink-cows-milk.webp"
 imageAlt: "Can Goats Drink Cows Milk?"
 readTime: "7 min read"
 quickAnswer:

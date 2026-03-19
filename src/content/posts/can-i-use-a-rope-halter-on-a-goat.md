@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-18
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-a-rope-halter-on-a-goat.webp"
 imageAlt: "Can I Use A Rope Halter On A Goat?"
 readTime: "6 min read"
 quickAnswer:

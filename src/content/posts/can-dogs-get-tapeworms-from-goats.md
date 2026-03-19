@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-31
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-dogs-get-tapeworms-from-goats.webp"
 imageAlt: "Can Dogs Get Tapeworms From Goats?"
 readTime: "7 min read"
 quickAnswer:

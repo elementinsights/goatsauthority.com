@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-11
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-put-safeguard-in-my-goats-milk.webp"
 imageAlt: "Can I Put Safeguard In My Goats Milk?"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-climb-trees.webp"
 imageAlt: "Can a Goat Climb Trees?"
 readTime: "7 min read"
 quickAnswer:

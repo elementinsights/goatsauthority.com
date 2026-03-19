@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-get-listeriosis-from-chicken-feces.webp"
 imageAlt: "Can Goats Get Listeriosis From Chicken Feces?"
 readTime: "7 min read"
 quickAnswer:

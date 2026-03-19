@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-05
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-deworm-a-pregnant-goat.webp"
 imageAlt: "Can You Deworm A Pregnant Goat?"
 readTime: "6 min read"
 quickAnswer:

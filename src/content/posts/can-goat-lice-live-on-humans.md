@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-02
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goat-lice-live-on-humans.webp"
 imageAlt: "Can Goat Lice Live on Humans?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-dairy-goats-udder-skin-have-varying-colors.webp"
 imageAlt: "Can a Dairy Goats Udder Skin Have Varying Colors?"
 readTime: "7 min read"
 quickAnswer:

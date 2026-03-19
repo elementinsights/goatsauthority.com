@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-own-a-goat-in-wyoming.webp"
 imageAlt: "Can I Own A Goat In Wyoming?"
 readTime: "6 min read"
 quickAnswer:

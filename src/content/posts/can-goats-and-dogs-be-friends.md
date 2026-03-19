@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-05
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-and-dogs-be-friends.webp"
 imageAlt: "Can Goats And Dogs Be Friends?"
 readTime: "6 min read"
 quickAnswer:

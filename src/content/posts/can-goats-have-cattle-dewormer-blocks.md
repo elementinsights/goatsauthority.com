@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-have-cattle-dewormer-blocks.webp"
 imageAlt: "Can Goats Have Cattle Dewormer Blocks?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-water-kefir-grains-with-goat-cheese.webp"
 imageAlt: "Can I Use Water Kefir Grains With Goat Cheese?"
 readTime: "6 min read"
 quickAnswer:

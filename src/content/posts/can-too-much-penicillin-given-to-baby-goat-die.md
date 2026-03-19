@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-02
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-too-much-penicillin-given-to-baby-goat-die.webp"
 imageAlt: "Can Too Much Penicillin Given To Baby Goat Die?"
 readTime: "6 min read"
 quickAnswer:

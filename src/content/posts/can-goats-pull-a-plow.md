@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-05
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-pull-a-plow.webp"
 imageAlt: "Can Goats Pull A Plow?"
 readTime: "7 min read"
 quickAnswer:

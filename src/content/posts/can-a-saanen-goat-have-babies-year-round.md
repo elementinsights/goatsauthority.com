@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-saanen-goat-have-babies-year-round.webp"
 imageAlt: "Can a Saanen Goat Have Babies Year round?"
 readTime: "7 min read"
 quickAnswer:

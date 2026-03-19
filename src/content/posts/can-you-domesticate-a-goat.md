@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-20
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-domesticate-a-goat.webp"
 imageAlt: "Can You Domesticate A Goat?"
 readTime: "6 min read"
 quickAnswer:

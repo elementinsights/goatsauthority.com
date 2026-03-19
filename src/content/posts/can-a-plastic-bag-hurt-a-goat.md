@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-plastic-bag-hurt-a-goat.webp"
 imageAlt: "Can a Plastic Bag Hurt a Goat?"
 readTime: "7 min read"
 quickAnswer:

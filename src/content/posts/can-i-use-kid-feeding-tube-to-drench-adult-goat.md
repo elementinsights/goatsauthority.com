@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-kid-feeding-tube-to-drench-adult-goat.webp"
 imageAlt: "Can I Use Kid Feeding Tube To Drench Adult Goat?"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-12-01
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-sunflower-seeds.jpg"
 imageAlt: "Can Goats Eat Sunflower Seeds?"
 readTime: "8 min read"
 quickAnswer:

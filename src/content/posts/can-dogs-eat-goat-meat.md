@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-dogs-eat-goat-meat.webp"
 imageAlt: "Can Dogs Eat Goat Meat?"
 readTime: "6 min read"
 quickAnswer:

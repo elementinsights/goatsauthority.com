@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-breed-with-sheep.webp"
 imageAlt: "Can a Goat Breed with Sheep?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-20
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-kohlrabi.webp"
 imageAlt: "Can Goats Eat Kohlrabi?"
 readTime: "6 min read"
 quickAnswer:

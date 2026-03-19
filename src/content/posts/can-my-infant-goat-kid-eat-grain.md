@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-my-infant-goat-kid-eat-grain.webp"
 imageAlt: "Can My Infant Goat Kid Eat Grain?"
 readTime: "6 min read"
 quickAnswer:

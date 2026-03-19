@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-04
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-save-sperm.webp"
 imageAlt: "Can Goats Save Sperm?"
 readTime: "6 min read"
 quickAnswer:

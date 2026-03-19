@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-rice.webp"
 imageAlt: "Can Goats Eat Rice?"
 readTime: "8 min read"
 quickAnswer:

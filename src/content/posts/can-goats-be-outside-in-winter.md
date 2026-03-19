@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-be-outside-in-winter.webp"
 imageAlt: "Can Goats Be Outside In Winter?"
 readTime: "6 min read"
 quickAnswer:

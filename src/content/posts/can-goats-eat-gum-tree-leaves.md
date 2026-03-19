@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-16
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-gum-tree-leaves.webp"
 imageAlt: "Can Goats Eat Gum Tree Leaves?"
 readTime: "6 min read"
 quickAnswer:

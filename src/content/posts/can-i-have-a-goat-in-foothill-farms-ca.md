@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-have-a-goat-in-foothill-farms-ca.webp"
 imageAlt: "Can I Have A Goat In Foothill Farms CA"
 readTime: "6 min read"
 quickAnswer:

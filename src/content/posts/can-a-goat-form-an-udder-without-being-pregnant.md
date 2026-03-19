@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-01
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-form-an-udder-without-being-pregnant.webp"
 imageAlt: "Can a Goat Form An Udder Without Being Pregnant?"
 readTime: "6 min read"
 quickAnswer:

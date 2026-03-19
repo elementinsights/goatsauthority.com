@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-24
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-nubian-goat-climb-trees.webp"
 imageAlt: "Can a Nubian Goat Climb Trees?"
 readTime: "6 min read"
 quickAnswer:

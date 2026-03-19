@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-27
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-the-thorns-of-a-citrus-tree-branch.webp"
 imageAlt: "Can Goats Eat The Thorns Of A Citrus Tree Branch?"
 readTime: "6 min read"
 quickAnswer:

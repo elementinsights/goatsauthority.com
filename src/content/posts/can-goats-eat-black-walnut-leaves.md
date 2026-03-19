@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-11
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-black-walnut-leaves.webp"
 imageAlt: "Can Goats Eat Black Walnut Leaves?"
 readTime: "7 min read"
 quickAnswer:

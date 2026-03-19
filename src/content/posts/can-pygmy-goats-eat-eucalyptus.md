@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-pygmy-goats-eat-eucalyptus.webp"
 imageAlt: "Can Pygmy Goats Eat Eucalyptus?"
 readTime: "6 min read"
 quickAnswer:

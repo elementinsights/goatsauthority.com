@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-13
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers.webp"
 imageAlt: "Can I Register My Nigerian Dwarf Goat If It Doesn't Have Papers?"
 readTime: "6 min read"
 quickAnswer:

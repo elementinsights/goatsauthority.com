@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-hoof-rot-kill-a-goat.webp"
 imageAlt: "Can Hoof Rot Kill A Goat?"
 readTime: "6 min read"
 quickAnswer:

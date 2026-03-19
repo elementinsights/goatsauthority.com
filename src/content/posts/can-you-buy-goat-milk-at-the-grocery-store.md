@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-buy-goat-milk-at-the-grocery-store.webp"
 imageAlt: "Can You Buy Goat Milk At The Grocery Store?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-live-in-a-house.webp"
 imageAlt: "Can a Goat Live in a House?"
 readTime: "6 min read"
 quickAnswer:

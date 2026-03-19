@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-moldy-hay.webp"
 imageAlt: "Can Goats Eat Moldy Hay?"
 readTime: "8 min read"
 quickAnswer:

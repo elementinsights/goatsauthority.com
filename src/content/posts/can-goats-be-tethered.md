@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-07
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-be-tethered.webp"
 imageAlt: "Can Goats Be Tethered?"
 readTime: "7 min read"
 quickAnswer:

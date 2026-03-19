@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-09
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-drink-vinegar.webp"
 imageAlt: "Can Goats Drink Vinegar?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed.webp"
 imageAlt: "Can Milk Be Used From Goats That Have Had Sore Mouths And Healed?"
 readTime: "7 min read"
 quickAnswer:

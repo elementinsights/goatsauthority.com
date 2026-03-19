@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-26
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-baby-goats-be-house-trained.webp"
 imageAlt: "Can Baby Goats be House Trained?"
 readTime: "6 min read"
 quickAnswer:

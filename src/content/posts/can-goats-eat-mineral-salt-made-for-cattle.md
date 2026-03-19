@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-21
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-mineral-salt-made-for-cattle.webp"
 imageAlt: "Can Goats Eat Mineral Salt Made For Cattle?"
 readTime: "6 min read"
 quickAnswer:

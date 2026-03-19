@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-06
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-mix-goat-milk-with-whey-protein.webp"
 imageAlt: "Can I Mix Goat Milk With Whey Protein?"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-female-goat-produce-milk-without-being-pregnant.webp"
 imageAlt: "Can a Female Goat Produce Milk Without Being Pregnant?"
 readTime: "8 min read"
 quickAnswer:

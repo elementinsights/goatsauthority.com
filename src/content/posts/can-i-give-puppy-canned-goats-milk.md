@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-26
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-give-puppy-canned-goats-milk.webp"
 imageAlt: "Can I Give Puppy Canned Goats Milk?"
 readTime: "7 min read"
 quickAnswer:

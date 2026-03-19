@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-29
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-get-the-bubonic-plague.webp"
 imageAlt: "Can Goats Get The Bubonic Plague?"
 readTime: "6 min read"
 quickAnswer:

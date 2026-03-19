@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-04
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goat-urine-kill-trees.webp"
 imageAlt: "Can Goat Urine Kill Trees?"
 readTime: "7 min read"
 quickAnswer:

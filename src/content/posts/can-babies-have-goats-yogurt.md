@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-babies-have-goats-yogurt.webp"
 imageAlt: "Can Babies Have Goat's Yogurt?"
 readTime: "6 min read"
 quickAnswer:

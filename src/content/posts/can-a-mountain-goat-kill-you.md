@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-mountain-goat-kill-you.webp"
 imageAlt: "Can a Mountain Goat Kill You?"
 readTime: "8 min read"
 quickAnswer:

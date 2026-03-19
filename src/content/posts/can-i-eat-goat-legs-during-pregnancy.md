@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-12
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-eat-goat-legs-during-pregnancy.webp"
 imageAlt: "Can I Eat Goat Legs During Pregnancy?"
 readTime: "6 min read"
 quickAnswer:

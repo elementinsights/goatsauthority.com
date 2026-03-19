@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-any-diseases-spread-from-swine-to-goats.webp"
 imageAlt: "Can Any Diseases Spread from Swine to Goats?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-06-15
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-sheep-eat-goat-food.webp"
 imageAlt: "Can Sheep Eat Goat Food?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-10-30
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-have-goats-where-i-live.webp"
 imageAlt: "Can I Have Goats Where I Live?"
 readTime: "6 min read"
 quickAnswer:

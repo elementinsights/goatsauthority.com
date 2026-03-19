@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-01-15
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-you-breed-screaming-and-fainting-goats.webp"
 imageAlt: "Can You Breed Screaming And Fainting Goats?"
 readTime: "6 min read"
 quickAnswer:

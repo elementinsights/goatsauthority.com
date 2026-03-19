@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-17
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/do-goats-have-good-eyesight.webp"
 imageAlt: "Do Goats Have Good Eyesight?"
 readTime: "6 min read"
 quickAnswer:

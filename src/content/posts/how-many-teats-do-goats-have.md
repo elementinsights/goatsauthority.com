@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-08
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/how-many-teats-do-goats-have.webp"
 imageAlt: "How Many Teats Do Goats Have?"
 readTime: "6 min read"
 quickAnswer:

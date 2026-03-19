@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-26
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-use-vaseline-on-goat-birth.webp"
 imageAlt: "Can I Use Vaseline On Goat Birth?"
 readTime: "7 min read"
 quickAnswer:

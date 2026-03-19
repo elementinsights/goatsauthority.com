@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-29
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-get-worms-from-acorns.webp"
 imageAlt: "Can Goats Get Worms From Acorns?"
 readTime: "6 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-28
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-bag-up-without-being-pregnant.webp"
 imageAlt: "Can a Goat Bag Up Without Being Pregnant?"
 readTime: "7 min read"
 quickAnswer:

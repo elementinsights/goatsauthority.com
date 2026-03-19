@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-goat-pen-have-pine-trees-in-it.webp"
 imageAlt: "Can a Goat Pen Have Pine Trees in it?"
 readTime: "6 min read"
 quickAnswer:

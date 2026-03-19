@@ -24,7 +24,9 @@ const PROJECT_ROOT = resolve(__dirname, "..");
 const POSTS_DIR = resolve(PROJECT_ROOT, "src/content/posts");
 const IMAGES_DIR = resolve(PROJECT_ROOT, "public/images/posts");
 
-const CONCURRENCY = 10;
+const CONCURRENCY = 3;
+const DELAY_BETWEEN_MS = 300; // delay after each download in a worker
+const MAX_RETRIES = 5;
 
 // ---------------------------------------------------------------------------
 // CLI
@@ -38,7 +40,7 @@ if (!existsSync(resolvedXmlPath)) {
 }
 
 // ---------------------------------------------------------------------------
-// XML helpers (same approach as import-wp.mjs — no dependencies)
+// XML helpers
 // ---------------------------------------------------------------------------
 
 function stripCDATA(str) {
@@ -63,10 +65,6 @@ function extractItems(xml) {
   return items;
 }
 
-/**
- * Extract all <wp:postmeta> blocks from an item, returning an array of
- * { key, value } objects.
- */
 function extractPostMeta(itemXml) {
   const metas = [];
   const re = /<wp:postmeta>([\s\S]*?)<\/wp:postmeta>/gi;
@@ -81,36 +79,48 @@ function extractPostMeta(itemXml) {
 }
 
 // ---------------------------------------------------------------------------
-// Download helper with redirect following
+// Helpers
+// ---------------------------------------------------------------------------
+
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+// ---------------------------------------------------------------------------
+// Download with redirect following
 // ---------------------------------------------------------------------------
 
 function downloadFile(url, destPath, maxRedirects = 5) {
   return new Promise((resolveP, rejectP) => {
     if (maxRedirects <= 0) {
-      return rejectP(new Error(`Too many redirects for ${url}`));
+      return rejectP(new Error(`Too many redirects`));
     }
 
-    const client = url.startsWith("https") ? https : http;
+    // Encode spaces in URL
+    const safeUrl = url.replace(/ /g, "%20");
+    const client = safeUrl.startsWith("https") ? https : http;
 
-    const request = client.get(url, { timeout: 30000 }, (response) => {
-      // Follow redirects
+    const request = client.get(safeUrl, { timeout: 30000 }, (response) => {
       if ([301, 302, 303, 307, 308].includes(response.statusCode)) {
+        response.resume();
         const location = response.headers.location;
         if (!location) {
-          return rejectP(new Error(`Redirect with no location for ${url}`));
+          return rejectP(new Error(`Redirect with no location`));
         }
-        // Resolve relative redirects
         const redirectUrl = location.startsWith("http")
           ? location
-          : new URL(location, url).href;
+          : new URL(location, safeUrl).href;
         return resolveP(downloadFile(redirectUrl, destPath, maxRedirects - 1));
       }
 
+      if (response.statusCode === 429) {
+        response.resume();
+        return rejectP(new Error(`RATE_LIMITED`));
+      }
+
       if (response.statusCode !== 200) {
-        response.resume(); // drain the response
-        return rejectP(
-          new Error(`HTTP ${response.statusCode} for ${url}`)
-        );
+        response.resume();
+        return rejectP(new Error(`HTTP ${response.statusCode}`));
       }
 
       const chunks = [];
@@ -118,7 +128,7 @@ function downloadFile(url, destPath, maxRedirects = 5) {
       response.on("end", () => {
         const buffer = Buffer.concat(chunks);
         if (buffer.length === 0) {
-          return rejectP(new Error(`Empty response for ${url}`));
+          return rejectP(new Error(`Empty response`));
         }
         writeFileSync(destPath, buffer);
         resolveP(buffer.length);
@@ -129,74 +139,83 @@ function downloadFile(url, destPath, maxRedirects = 5) {
     request.on("error", rejectP);
     request.on("timeout", () => {
       request.destroy();
-      rejectP(new Error(`Timeout downloading ${url}`));
+      rejectP(new Error(`Timeout`));
     });
   });
 }
 
+async function downloadWithRetry(url, destPath) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      return await downloadFile(url, destPath);
+    } catch (err) {
+      if (err.message === "RATE_LIMITED" && attempt < MAX_RETRIES) {
+        const backoff = Math.pow(2, attempt) * 1000 + Math.random() * 1000;
+        await sleep(backoff);
+        continue;
+      }
+      if (attempt < MAX_RETRIES && (err.message === "Timeout" || err.code === "ECONNRESET")) {
+        await sleep(2000);
+        continue;
+      }
+      throw err;
+    }
+  }
+}
+
 // ---------------------------------------------------------------------------
-// Concurrency limiter
+// Worker pool — each worker picks the next task from a shared queue
 // ---------------------------------------------------------------------------
 
-async function runWithConcurrency(tasks, concurrency) {
-  const results = [];
-  let index = 0;
+async function runWorkerPool(taskFns, concurrency, delayMs) {
+  let nextIndex = 0;
 
-  async function worker() {
-    while (index < tasks.length) {
-      const i = index++;
-      results[i] = await tasks[i]();
+  async function worker(workerId) {
+    while (nextIndex < taskFns.length) {
+      const i = nextIndex++;
+      await taskFns[i]();
+      if (delayMs > 0) await sleep(delayMs);
     }
   }
 
   const workers = [];
-  for (let i = 0; i < Math.min(concurrency, tasks.length); i++) {
-    workers.push(worker());
+  for (let w = 0; w < Math.min(concurrency, taskFns.length); w++) {
+    // Stagger worker starts slightly
+    if (w > 0) await sleep(100);
+    workers.push(worker(w));
   }
   await Promise.all(workers);
-  return results;
 }
 
 // ---------------------------------------------------------------------------
-// Update frontmatter `image` field in a markdown file
+// Update frontmatter `image` field
 // ---------------------------------------------------------------------------
 
 function updateFrontmatterImage(mdPath, imagePath) {
   const content = readFileSync(mdPath, "utf-8");
 
-  // Match the frontmatter block
   const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!fmMatch) {
-    console.warn(`  Warning: No frontmatter found in ${mdPath}`);
-    return false;
-  }
+  if (!fmMatch) return false;
 
   const frontmatter = fmMatch[1];
-  // Replace the image field — handles image: "" or image: "/some/path"
-  const imageLineRe = /^image:\s*".*?"$/m;
-  if (!imageLineRe.test(frontmatter)) {
-    // Try without quotes
-    const imageLineRe2 = /^image:\s*.*$/m;
-    if (!imageLineRe2.test(frontmatter)) {
-      console.warn(`  Warning: No image field in frontmatter of ${mdPath}`);
-      return false;
-    }
-    const newFrontmatter = frontmatter.replace(
-      imageLineRe2,
-      `image: "${imagePath}"`
-    );
-    const newContent = content.replace(fmMatch[0], `---\n${newFrontmatter}\n---`);
-    writeFileSync(mdPath, newContent, "utf-8");
+
+  // Try quoted form first: image: "..."
+  const quotedRe = /^image:\s*".*?"$/m;
+  if (quotedRe.test(frontmatter)) {
+    const newFm = frontmatter.replace(quotedRe, `image: "${imagePath}"`);
+    writeFileSync(mdPath, content.replace(fmMatch[0], `---\n${newFm}\n---`), "utf-8");
     return true;
   }
 
-  const newFrontmatter = frontmatter.replace(
-    imageLineRe,
-    `image: "${imagePath}"`
-  );
-  const newContent = content.replace(fmMatch[0], `---\n${newFrontmatter}\n---`);
-  writeFileSync(mdPath, newContent, "utf-8");
-  return true;
+  // Try unquoted: image: ...
+  const unquotedRe = /^image:\s*.*$/m;
+  if (unquotedRe.test(frontmatter)) {
+    const newFm = frontmatter.replace(unquotedRe, `image: "${imagePath}"`);
+    writeFileSync(mdPath, content.replace(fmMatch[0], `---\n${newFm}\n---`), "utf-8");
+    return true;
+  }
+
+  return false;
 }
 
 // ---------------------------------------------------------------------------
@@ -211,119 +230,104 @@ async function main() {
   const items = extractItems(xml);
   console.log(`Found ${items.length} total items in XML\n`);
 
-  // Step 1: Build attachment map (post_id → attachment_url)
-  const attachmentMap = new Map(); // post_id string → URL
-  let attachmentCount = 0;
-
+  // Step 1: Build attachment map (post_id -> attachment_url)
+  const attachmentMap = new Map();
   for (const item of items) {
     const postType = getTagContent(item, "wp:post_type");
     if (postType !== "attachment") continue;
-
     const postId = getTagContent(item, "wp:post_id");
     const attachmentUrl = getTagContent(item, "wp:attachment_url");
-
     if (postId && attachmentUrl) {
       attachmentMap.set(postId, attachmentUrl);
-      attachmentCount++;
     }
   }
-  console.log(`Built attachment map: ${attachmentCount} attachments\n`);
+  console.log(`Built attachment map: ${attachmentMap.size} attachments\n`);
 
   // Step 2: Find published posts with _thumbnail_id
-  const postsToProcess = []; // { slug, thumbnailId, attachmentUrl }
-
+  const postsToProcess = [];
   for (const item of items) {
     const postType = getTagContent(item, "wp:post_type");
     if (postType !== "post") continue;
-
     const status = getTagContent(item, "wp:status");
     if (status !== "publish") continue;
-
     const slug = getTagContent(item, "wp:post_name");
     if (!slug) continue;
 
-    // Find _thumbnail_id in postmeta
     const metas = extractPostMeta(item);
     const thumbnailMeta = metas.find((m) => m.key === "_thumbnail_id");
     if (!thumbnailMeta || !thumbnailMeta.value) continue;
 
-    const thumbnailId = thumbnailMeta.value;
-    const attachmentUrl = attachmentMap.get(thumbnailId);
-
+    const attachmentUrl = attachmentMap.get(thumbnailMeta.value);
     if (!attachmentUrl) {
-      console.warn(`  Post "${slug}": thumbnail_id=${thumbnailId} not found in attachments — skipping`);
+      console.warn(`  Post "${slug}": thumbnail_id=${thumbnailMeta.value} not found in attachments`);
       continue;
     }
-
-    postsToProcess.push({ slug, thumbnailId, attachmentUrl });
+    postsToProcess.push({ slug, attachmentUrl });
   }
-
   console.log(`Found ${postsToProcess.length} published posts with featured images\n`);
 
   // Step 3: Create output directory
   mkdirSync(IMAGES_DIR, { recursive: true });
 
-  // Step 4: Download images with concurrency
+  // Step 4: Build tasks and run
   let successCount = 0;
   let failCount = 0;
   let skippedCount = 0;
   const failures = [];
+  let processed = 0;
 
-  const tasks = postsToProcess.map(({ slug, attachmentUrl }) => {
+  const taskFns = postsToProcess.map(({ slug, attachmentUrl }) => {
     return async () => {
-      // Determine extension from the URL
-      const urlPath = new URL(attachmentUrl).pathname;
-      let ext = extname(urlPath).toLowerCase();
-      // Clean up extensions like ".jpg?v=123" (shouldn't happen from WP but just in case)
-      ext = ext.replace(/\?.*$/, "");
-      if (!ext) ext = ".jpg"; // fallback
+      processed++;
+      const progress = `[${processed}/${postsToProcess.length}]`;
 
-      // Remove "-scaled" from extension area if present in the URL
-      // (WP sometimes appends -scaled before extension)
+      // Determine extension from URL
+      const urlPath = new URL(attachmentUrl.replace(/ /g, "%20")).pathname;
+      let ext = extname(decodeURIComponent(urlPath)).toLowerCase();
+      if (!ext) ext = ".jpg";
+
       const destFilename = `${slug}${ext}`;
       const destPath = resolve(IMAGES_DIR, destFilename);
       const publicPath = `/images/posts/${destFilename}`;
 
       // Skip if already downloaded
       if (existsSync(destPath)) {
-        // Still update frontmatter
         const mdPath = resolve(POSTS_DIR, `${slug}.md`);
-        if (existsSync(mdPath)) {
-          updateFrontmatterImage(mdPath, publicPath);
-        }
+        if (existsSync(mdPath)) updateFrontmatterImage(mdPath, publicPath);
         skippedCount++;
-        process.stdout.write(`  [SKIP] ${slug} (already exists)\n`);
-        return { slug, success: true, skipped: true };
+        console.log(`${progress} [SKIP] ${slug}`);
+        return;
       }
 
       try {
-        const bytes = await downloadFile(attachmentUrl, destPath);
+        const bytes = await downloadWithRetry(attachmentUrl, destPath);
         const kb = (bytes / 1024).toFixed(0);
-        process.stdout.write(`  [OK]   ${slug}${ext} (${kb} KB)\n`);
+        console.log(`${progress} [OK]   ${destFilename} (${kb} KB)`);
 
-        // Update frontmatter
         const mdPath = resolve(POSTS_DIR, `${slug}.md`);
         if (existsSync(mdPath)) {
           updateFrontmatterImage(mdPath, publicPath);
         } else {
-          console.warn(`  Warning: No markdown file found for slug "${slug}"`);
+          console.warn(`  Warning: No .md file for "${slug}"`);
         }
-
         successCount++;
-        return { slug, success: true };
       } catch (err) {
-        process.stdout.write(`  [FAIL] ${slug}: ${err.message}\n`);
+        const msg = err.message === "RATE_LIMITED"
+          ? "Rate limited (exhausted retries)"
+          : err.message;
+        console.log(`${progress} [FAIL] ${slug}: ${msg}`);
         failCount++;
-        failures.push({ slug, url: attachmentUrl, error: err.message });
-        return { slug, success: false };
+        failures.push({ slug, url: attachmentUrl, error: msg });
       }
     };
   });
 
-  console.log(`Downloading ${postsToProcess.length} images (concurrency: ${CONCURRENCY})...\n`);
-  await runWithConcurrency(tasks, CONCURRENCY);
+  console.log(`Downloading with concurrency=${CONCURRENCY}, delay=${DELAY_BETWEEN_MS}ms, retries=${MAX_RETRIES}\n`);
+  const startTime = Date.now();
+  await runWorkerPool(taskFns, CONCURRENCY, DELAY_BETWEEN_MS);
+  const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
 
-  // Step 5: Summary
+  // Summary
   console.log("\n" + "=".repeat(60));
   console.log("SUMMARY");
   console.log("=".repeat(60));
@@ -331,12 +335,13 @@ async function main() {
   console.log(`Successfully downloaded: ${successCount}`);
   console.log(`Already existed (skipped): ${skippedCount}`);
   console.log(`Failed: ${failCount}`);
+  console.log(`Time: ${elapsed}s`);
 
   if (failures.length > 0) {
-    console.log("\nFailed downloads:");
+    console.log(`\nFailed downloads (${failures.length}):`);
     for (const f of failures) {
       console.log(`  - ${f.slug}: ${f.error}`);
-      console.log(`    URL: ${f.url}`);
+      console.log(`    ${f.url}`);
     }
   }
 

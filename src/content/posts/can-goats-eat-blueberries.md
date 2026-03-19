@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-blueberries.webp"
 imageAlt: "Can Goats Eat Blueberries?"
 readTime: "9 min read"
 quickAnswer:

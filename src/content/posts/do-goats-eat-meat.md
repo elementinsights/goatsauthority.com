@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-04
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/do-goats-eat-meat.webp"
 imageAlt: "Do Goats Eat Meat?"
 readTime: "6 min read"
 quickAnswer:

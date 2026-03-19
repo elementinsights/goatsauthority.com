@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-16
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-substitute-goat-cheese-for-feta-cheese.webp"
 imageAlt: "Can I Substitute Goat Cheese For Feta Cheese?"
 readTime: "7 min read"
 quickAnswer:

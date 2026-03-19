@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-07-22
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-a-pregnant-goat-have-penicillin.webp"
 imageAlt: "Can a Pregnant Goat Have Penicillin?"
 readTime: "8 min read"
 quickAnswer:

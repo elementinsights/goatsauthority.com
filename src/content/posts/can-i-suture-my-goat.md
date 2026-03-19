@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-11-16
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-i-suture-my-goat.webp"
 imageAlt: "Can I Suture My Goat?"
 readTime: "6 min read"
 quickAnswer:

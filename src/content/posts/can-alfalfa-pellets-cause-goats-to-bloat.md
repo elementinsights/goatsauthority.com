@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-alfalfa-pellets-cause-goats-to-bloat.webp"
 imageAlt: "Can Alfalfa Pellets Cause Goats to Bloat?"
 readTime: "6 min read"
 quickAnswer:

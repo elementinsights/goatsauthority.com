@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-09-21
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-oregon-grape.webp"
 imageAlt: "Can Goats Eat Oregon Grape?"
 readTime: "6 min read"
 quickAnswer:
