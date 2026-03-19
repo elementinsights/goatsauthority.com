@@ -61,7 +61,7 @@ So, it is important to be aware of the symptoms of listeriosis in goats and to t
 
 Listeriosis is a disease caused by the bacteria Listeria monocytogenes. This bacteria can infect goats, causing a range of symptoms including fever, diarrhea, and weakness.
 
-In severe cases, listeriosis can lead to death.
+In severe cases, listeriosis can lead to [death](/can-goats-die-in-cold-weather/).
 
 The bacteria are usually found in contaminated food or water, and can also be spread through contact with infected animals. goats can become infected if they eat contaminated hay or grass, or drink contaminated water.
 
@@ -79,7 +79,7 @@ Listeriosis is a bacterial infection that can spread through the consumption of 
 
 The bacteria can also spread through contact with contaminated water.
 
-Once a goat is infected, the bacteria can spread to other animals in the same herd. Listeriosis can also be spread to humans who consume unpasteurized milk or milk products from infected goats.
+Once a goat is infected, the bacteria can spread to other animals in the [same herd](/can-you-catch-diseases-from-goats/). Listeriosis can also be spread to humans who consume unpasteurized milk or milk products from infected goats.
 
 In severe cases, listeriosis can lead to death. Therefore, it is important for goat owners to take measures to prevent the spread of this disease.
 
@@ -87,7 +87,7 @@ In severe cases, listeriosis can lead to death. Therefore, it is important for g
 
 Listeriosis is a serious bacterial infection that primarily affects goats. The bacteria typically enter the body through the nose and can cause severe respiratory illness.
 
-Listeriosis can also cause pneumonia, encephalitis, and meningitis.
+Listeriosis can also cause [pneumonia](/can-goats-carry-distemper/), encephalitis, and meningitis.
 
 Treatment for listeriosis generally includes a course of antibiotics. In severe cases, hospitalization may be necessary.
 
@@ -105,7 +105,7 @@ One of the most important things that goat owners can do is to practice good hyg
 
 It's also important to clean and disinfect any equipment that comes into contact with goats, such as brushes, collars, and feeders. In addition, goats should be vaccinated against listeriosis.
 
-This vaccine is typically given annually and is available from most goat experts.
+This [vaccine](/can-a-cdt-shot-kill-a-goat/) is typically given annually and is available from most goat experts.
 
 Finally, if a goat does become sick, it's crucial to seek goat expert care immediately. With prompt treatment, most goats make a full recovery.
 
@@ -133,7 +133,7 @@ Enterotoxemia is a bacterial infection that affects the digestive system. Sympto
 
 If left untreated, enterotoxemia can be fatal.
 
-Coccidiosis is a parasitic infection that affects the intestine. Symptoms include diarrhea, weight loss, and anemia.
+[Coccidiosis](/can-i-treat-coccidia-in-goats-in-their-water-bowl/) is a parasitic infection that affects the intestine. Symptoms include diarrhea, weight loss, and anemia.
 
 Coccidiosis can be deadly if not treated promptly.
 

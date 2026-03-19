@@ -52,11 +52,11 @@ Lastly, we'll also explore the different types of CDT vaccines available, as wel
 
 **Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound.**
 
-The bacteria then multiply in the blood, causing inflammation and damage to the organs. Left untreated, septicemia can be fatal.
+The bacteria then multiply in the blood, causing inflammation and damage to the organs. Left untreated, [septicemia](/can-goats-carry-distemper/) can be fatal.
 
 As well, goats are particularly susceptible to tetanus, which is another potentially fatal infection that can be caused by a CDT shot. Tetanus occurs when the bacterium Clostridium tetani enter the body through an open wound.
 
-The bacterium produces toxins that cause muscle spasms, paralysis, and eventually death. While both septicemia and tetanus are serious conditions, they can be prevented by vaccinating goats against CDT.
+The bacterium produces toxins that cause [muscle spasms](/can-goats-have-a-stroke-anemia/), paralysis, and eventually death. While both septicemia and tetanus are serious conditions, they can be prevented by vaccinating goats against CDT.
 
 ## What is a CDT shot and why is it important to goats?
 
@@ -76,7 +76,7 @@ The CDT shot is typically given as a series of three shots, with the second shot
 
 The CDT vaccine is considered safe for goats, but there are a few potential risks associated with its use. In rare cases, the vaccine can cause an allergic reaction.
 
-Symptoms of an allergic reaction include hives, swelling, difficulty breathing, and shock.
+Symptoms of an [allergic reaction](/can-benadryl-hurt-a-goat/) include hives, swelling, difficulty breathing, and shock.
 
 Another potential risk is septicemia, which is an infection of the bloodstream. Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound.
 
@@ -112,15 +112,15 @@ Vaccinating your goats is an important step in protecting them from common disea
 
 For most goats, the core vaccinations should include protection against clostridial diseases, rabies, and tetanus.
 
-In addition, many goat owners also choose to vaccinate for other diseases, such as bluetongue and West Nile virus. Vaccinating your goats on a regular basis will help to keep them healthy and protect them from potentially deadly diseases.
+In addition, many goat owners also choose to vaccinate for other [diseases](/can-you-catch-diseases-from-goats/), such as bluetongue and West Nile virus. Vaccinating your goats on a regular basis will help to keep them healthy and protect them from potentially deadly diseases.
 
 There are a few things to keep in mind when creating a vaccination schedule for your goats.
 
-First, consider the age and health of your animals. Young goats are typically more vulnerable to disease, so they may need to be vaccinated more frequently than older goats.
+First, consider the age and health of your animals. [Young goats](/can-i-worm-my-three-day-old-goat/) are typically more vulnerable to disease, so they may need to be vaccinated more frequently than older goats.
 
-Secondly, think about the environment in which your goats live. If they are exposed to other animals, they may be at greater risk for contracting diseases.
+Secondly, think about the environment in which your goats live. If they are [exposed to other animals](/can-any-diseases-spread-from-swine-to-goats/), they may be at greater risk for contracting diseases.
 
-Finally, consider the specific needs of your herd. If you have any animals that are pregnant or nursing, they will have different vaccination requirements than other members of your herd.
+Finally, consider the specific needs of your herd. If you have any animals that are [pregnant or nursing](/can-pregnant-goats-eat-medicated-feed/), they will have different vaccination requirements than other members of your herd.
 
 By taking all of these factors into account, you can create a vaccination schedule that meets the specific needs of your goats.
 
@@ -146,7 +146,7 @@ The CDT shot is available from most large animal veterinarians. You can also pur
 
 ### What are the signs of CDT in goats?
 
-The signs of CDT include lethargy, loss of appetite, diarrhea, dehydration, and fever. In severe cases, goats may also experience seizures, paralysis, and death.
+The signs of CDT include [lethargy](/can-a-goat-get-sick-from-cold/), loss of appetite, diarrhea, dehydration, and fever. In severe cases, goats may also experience seizures, paralysis, and death.
 
 ## Final Thoughts
 
@@ -154,4 +154,4 @@ The CDT shot is a core vaccine for goats and should be given on a regular basis 
 
 Overall, the CDT shot is a safe and effective way to protect your goats from this potentially deadly disease. However, as with any vaccine, there's always a small risk of side effects.
 
-If you have any concerns about the CDT shot, be sure to talk to your veterinarian before administering the vaccine to your goats.
+If you have any concerns about the CDT shot, be sure to talk to your [veterinarian](/can-i-give-my-goat-pepto-bismol/) before administering the vaccine to your goats.

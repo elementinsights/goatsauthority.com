@@ -74,7 +74,7 @@ Before getting any type of livestock, there are a few important things that you 
 
 On top of that, it is crucial to take into account the local climate and weather patterns in your area, as this can play a significant role in the well-being of your animals.
 
-Other factors to consider include your own experience level with raising livestock and any potential concerns or objections from your neighbors.
+Other factors to consider include your own [experience level with raising livestock](/can-i-have-goats-where-i-live/) and any potential concerns or objections from your neighbors.
 
 Overall, it is essential to do thorough research and make informed decisions before bringing home any animals like goats in Medford, Oregon.
 

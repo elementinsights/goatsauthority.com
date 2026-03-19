@@ -60,13 +60,13 @@ If your goat does get scoured, it is crucial to treat them immediately. Scours c
 
 The first thing you should do is contact your veterinarian.
 
-They will likely prescribe antibiotics to treat the infection and may also recommend other treatments, such as probiotics or fluid therapy.
+They will likely prescribe antibiotics to treat the infection and may also recommend other treatments, such as probiotics or [fluid therapy](/can-baby-goats-have-any-electrolytes/).
 
 ## What is scours and what are the symptoms of scours in goats?
 
 Scours is the name for diarrhea in goats. It can be caused by a number of different things, including viruses, bacteria, and parasites.
 
-Scours can also be a symptom of other diseases, such as kidding sickness and coccidiosis. Regardless of the cause, scours can quickly lead to dehydration, so it's important to keep an eye out for the symptoms.
+Scours can also be a symptom of other diseases, such as kidding sickness and [coccidiosis](/can-i-treat-coccidia-in-goats-in-their-water-bowl/). Regardless of the cause, scours can quickly lead to dehydration, so it's important to keep an eye out for the symptoms.
 
 The most common symptom of scours is watery diarrhea, but other signs include lack of appetite, lethargy, and weight loss.
 
@@ -74,7 +74,7 @@ If you think your goat might have scoured, it's important to contact a veterinar
 
 ## Causes of scours in goats
 
-Scours, or diarrhea, is a common problem in goats. There are many different potential causes, including infection, parasites, stress, and changes in diet.
+Scours, or diarrhea, is a common problem in goats. There are many different potential causes, including infection, [parasites](/can-goats-get-worms-from-acorns/), stress, and changes in diet.
 
 In most cases, scours is not a serious issue and will resolve on their own.
 
@@ -96,7 +96,7 @@ Preventing scours in goats can be a challenge, but there are a few things you ca
 
 First, make sure you provide plenty of fresh, clean [water for your goat to drink](/can-horses-drink-water-that-has-goat-poop-in-it/). Goats are very susceptible to dehydration, so it's important to keep their water supply fresh and readily available.
 
-Second, pay close attention to your goat's diet. Avoid sudden changes in their food, and make sure they're getting plenty of roughage to help keep their digestive system healthy.
+Second, pay close attention to your goat's diet. Avoid sudden changes in their food, and make sure they're getting plenty of roughage to help keep their [digestive system healthy](/can-you-debloat-a-goat/).
 
 Finally, keep an eye out for early signs of scours, such as diarrhea or vomiting. If you see any of these signs, isolate the [affected goat](/can-weather-affect-goats-poop/) and contact your veterinarian immediately.
 
@@ -110,7 +110,7 @@ Although scours can be dangerous, particularly for kids, it is often treatable w
 
 The most important thing is to identify the cause of the scours so that the appropriate treatment can be administered.
 
-A veterinarian can usually help with this. In some cases, scours may resolve on their own if the goat is otherwise healthy.
+A veterinarian can usually help with this. In some cases, scours may resolve on their own if the [goat is otherwise healthy](/can-a-goat-get-sick-from-cold/).
 
 But, it is always best to consult with a vet to be sure.
 
@@ -120,11 +120,11 @@ To prevent your goat from getting sick in the first place, there are a few key t
 
 First, make sure they have access to fresh, clean water at all times. Goats are prone to dehydration, so it's important to keep their water supply fresh and replenished.
 
-Second, feed them a balanced diet of hay, grains, and vegetables. Goats are grazing animals animals, so hay should make up the majority of their diet.
+Second, feed them a [balanced diet](/can-goats-have-horse-electrolytes/) of hay, grains, and vegetables. Goats are grazing animals animals, so hay should make up the majority of their diet.
 
 But, they also need some grain and veg to stay healthy. Finally, keep their living area clean and free of debris.
 
-Goats are susceptible to diseases and parasites, so it's important to keep their environment clean and sanitary.
+Goats are susceptible to [diseases and parasites](/can-goats-get-mites/), so it's important to keep their environment clean and sanitary.
 
 By following these simple tips, you can help prevent your goat from getting sick.
 
@@ -134,13 +134,13 @@ There are a few alternative treatments for scours in goats, but it's always best
 
 Some common alternative treatments include probiotics, electrolytes, and essential oils. Probiotics can help restore the balance of bacteria in the gut, which can help reduce the symptoms of scours.
 
-Electrolytes can help replace lost fluids and minerals, which is important in preventing dehydration.
+[Electrolytes](/can-baby-goats-have-any-electrolytes/) can help replace lost fluids and minerals, which is important in preventing dehydration.
 
 Essential oils, such as peppermint oil, can also help reduce the symptoms of scours. However, it's important to use them sparingly and only under the guidance of a veterinarian.
 
 ## When should you call the vet?
 
-Scours can be a serious problem, particularly for kids, so it's important to call the vet if you see any signs of diarrhea or dehydration.
+Scours can be a serious problem, particularly for [kids](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), so it's important to call the vet if you see any signs of diarrhea or dehydration.
 
 If you're unsure whether or not your goat has scours, it's always best to err on the side of caution and give them a call.
 

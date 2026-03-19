@@ -55,7 +55,7 @@ In addition to their sense of smell, goats also have a special ability to find t
 
 This eyelid allows them to see ultraviolet light. This means that they can see truffles that are hidden underground.
 
-However, it is important to note that not all goats can find truffles. Only certain breeds of goats, such as the Alpine breed, have this ability.
+However, it is important to note that not all goats can find truffles. Only certain breeds of goats, such as the Alpine breed, have this ability. You can also [domesticate a goat](/can-you-domesticate-a-goat/) of these breeds specifically for truffle hunting.
 
 ## How do goats find truffles?
 
@@ -65,11 +65,11 @@ As a matter of fact, their sense of smell is so sensitive that they can often de
 
 Pigs are especially well-suited to the task, as they have a similar sense of smell to goats and are also relatively easy to control.
 
-However, dogs are generally considered to be the best truffle hunters, as they can be more easily taught specific commands and are less likely to eat the truffles they find.
+However, dogs are generally considered to be the best truffle hunters, as they can be more easily taught specific commands and are less likely to eat the truffles they find. It is worth noting that [goats and dogs can be friends](/can-goats-and-dogs-be-friends/), so you could even pair them for truffle hunting.
 
 ## Tips for training your goat to find truffles
 
-While most people think of goats as farm animals, there is a growing trend of keeping them as pets. Goats are intelligent and interactive creatures that can bond with their owners just like any other pet.
+While most people think of goats as farm animals, there is a growing trend of keeping them as pets. [Goats can be tamed](/can-goats-be-tamed/) and are intelligent and interactive creatures that can bond with their owners just like any other pet.
 
 One unusual but rewarding activity you can do with your goat is to [train them to find truffles](/can-baby-goats-be-house-trained/). Truffles are a type of fungus that grows underground, and they are prized for their unique flavor.
 
@@ -77,11 +77,11 @@ While truffle hunting is usually associated with trained dogs, goats can be just
 
 Here are a few tips to get you started:
 
-- Start by hiding a small piece of truffle somewhere in your yard or garden. Let your goat out to explore, and praise them when they find the treat. You may need to give them a few hints at first, but soon they will get the hang of it.
+- Start by hiding a small piece of truffle somewhere in your yard or garden. Let your goat out to explore, and praise them when they find the treat. Since [goats love humans](/can-goats-love-humans/), positive reinforcement works well. You may need to give them a few hints at first, but soon they will get the hang of it.
 - Once your goat has mastered finding hidden truffles, you can start hiding them in harder-to-reach places. This will help them learn to use their sense of smell to track down the fungus.
 - Be sure to reward your goat generously whenever they find a truffle. Not only will this motivate them to keep hunting, but it will also create a positive association with the activity.
 
-With a little practice, your goat will be leading you to hidden caches of truffles in no time. Who knows, you may even make some money selling your bounty to local restaurants.
+With a little practice, your goat will be leading you to hidden caches of truffles in no time. If your goat gets unruly during training, learn how [an aggressive goat can be fixed](/can-an-aggressive-goat-be-fixed/). Who knows, you may even make some money selling your bounty to local restaurants.
 
 ## Can goats eat truffles?
 
@@ -103,13 +103,13 @@ Of course, finding that many truffles are not always easy. Truffles are a type o
 
 As a result, many people who go hunting for truffles enlist the help of specially trained dogs or pigs.
 
-These animals have a keen sense of smell and are able to sniff out even the faintest trace of truffle aroma. While there is no guarantee of success, following the nose of a trained dog or pig can often lead you straight to a buried treasure.
+These animals have a keen sense of smell and are able to sniff out even the faintest trace of truffle aroma. Some people wonder if [domestic goats can jump](/can-domestic-goats-jump/) over obstacles to reach truffle sites. While there is no guarantee of success, following the nose of a trained dog or pig can often lead you straight to a buried treasure.
 
 While finding truffles can be a challenge, there are a few things you can do to increase your chances of success. First, it is important to learn what kind of habitat truffles prefer.
 
 They are most likely to be found in areas with cool, moist conditions and well-drained soils.
 
-Look for areas where trees such as oak, hazelnut, and beech are growing, as these are some of the most common hosts for truffles. On top of that, try to visit potential hunting grounds during wet weather, as this is when truffles are most likely to release their distinctive aroma.
+Look for areas where trees such as oak, hazelnut, and beech are growing, as these are some of the most common hosts for truffles. Be aware that [goats can climb 92 degrees](/can-goats-climb-92-degrees/) on steep terrain, so they can access tricky hillside locations. On top of that, try to visit potential hunting grounds during wet weather, as this is when truffles are most likely to release their distinctive aroma.
 
 With a little knowledge and a lot of patience, you may just be able to unearth your own hidden treasure.
 
@@ -139,4 +139,4 @@ Though they come from different parts of the world and have different flavors, b
 
 Goats can find truffles, but they are not the only animals that can do so. Pigs, dogs, and even chickens can be trained to locate these valuable fungi.
 
-While goats may be the most popular choice for truffle hunting, any animal with a good sense of smell can be taught to find these elusive treasures.
+While goats may be the most popular choice for truffle hunting, any animal with a good sense of smell can be taught to find these elusive treasures. You might also consider training your [goats to pull a plow](/can-goats-pull-a-plow/) or using a [rope halter on a goat](/can-i-use-a-rope-halter-on-a-goat/) to keep them controlled in the field.

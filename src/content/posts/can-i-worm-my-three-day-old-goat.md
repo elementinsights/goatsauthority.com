@@ -52,7 +52,7 @@ In this article, we will answer those questions and provide you with additional 
 
 **This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms.**
 
-There are many different types of worming products available on the market, so it’s important to speak with a goat expert to determine which one is best for your goat. They will also be able to advise you on how often to worm them.
+There are many different types of [worming products](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat/) available on the market, so it’s important to speak with a goat expert to determine which one is best for your goat. They will also be able to advise you on how often to worm them.
 
 As a general rule of thumb, kids ([baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/)) should be wormed every two weeks until they are six months old. After that, they can be wormed every month.
 
@@ -72,7 +72,7 @@ There are a few different signs that may indicate your goat needs to be wormed, 
 - Diarrhea
 - Worms in their feces
 
-If you notice any of these signs, it’s important to take them to the goat expert right away. They will be able to determine if worming is necessary and can prescribe the appropriate medication.
+If you notice any of these signs, it’s important to take them to the [goat expert](/can-i-give-a-sick-goat-water-through-a-syringe/) right away. They will be able to determine if worming is necessary and can prescribe the appropriate medication.
 
 On top of that, it’s a good idea to have your goat checked by a goat expert at least once a year. This will help to [catch any potential problems early on](/can-a-plastic-bag-hurt-a-goat/) and keep your goat healthy and happy.
 
@@ -80,7 +80,7 @@ On top of that, it’s a good idea to have your goat checked by a goat expert at
 
 Worming, or deworming, is an important part of maintaining the health of your goats. Worms are [parasitic organisms that live inside the digestive system of goats and other livestock](/can-a-pygmy-goat-live-with-a-mini-pig/).
 
-They can cause a variety of problems for your animals, including weight loss, stunted growth, and even death in severe cases. In order to prevent these problems, it is important to regularly treat your goats for worms with worming medications.
+They can cause a variety of problems for your animals, including weight loss, stunted growth, and even [death in severe cases](/can-a-goat-eat-too-many-dewormer-pellets/). In order to prevent these problems, it is important to regularly treat your goats for worms with worming medications.
 
 This is typically done by administering an oral medication or [giving your goats a medicated feed](/can-pregnant-goats-eat-medicated-feed/) that contains worm-control agents.
 
@@ -130,11 +130,11 @@ Doing so will help keep your goat healthy and strong, and ensure that you can co
 
 There are a few key steps that you can take to prevent your goat from getting worms in the first place. The first is to keep your goat's living space and food sources as clean and sanitary as possible.
 
-This means removing any manure or other waste regularly and keeping their diet free from potential contaminants such as straw or bedding materials.
+This means removing any manure or other waste regularly and keeping their diet free from potential contaminants such as [straw](/can-goats-be-outside-in-winter/) or bedding materials.
 
-Additionally, you should regularly inspect your goat for signs of parasites, such as a change in appetite, weight loss, or scabs on the skin.
+Additionally, you should regularly inspect your goat for signs of parasites, such as a change in appetite, weight loss, or [scabs on the skin](/can-goat-lice-live-on-humans/).
 
-Depending on the type of worm problem that you are dealing with, there may also be certain medications or treatments available to combat worms in goats.
+Depending on the type of worm problem that you are dealing with, there may also be certain [medications or treatments](/can-goats-have-cattle-dewormer-blocks/) available to combat worms in goats.
 
 In general, by taking these proactive measures, you can help minimize your goat's chances of getting worms and ensure that they stay healthy and happy for years to come.
 

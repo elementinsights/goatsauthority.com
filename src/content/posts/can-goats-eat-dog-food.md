@@ -45,7 +45,7 @@ After all, both animals are part of our homes and sometimes their paths cross in
 
 It’s designed to meet the nutritional needs of dogs, not ruminants like goats. Dogs are carnivores while goats are herbivores with very different dietary requirements.
 
-Feeding your goat dog food once in a blue moon won’t harm them but it shouldn’t be their main diet source. Goat diets need plenty of hay or pasture grasses and grains for energy and growth.
+Feeding your goat dog food once in a blue moon won’t harm them but it shouldn’t be their main diet source. Goat diets need plenty of [hay or pasture grasses](/what-kind-of-hay-do-goats-eat/) and grains for energy and growth.
 
 Dog foods often contain meat products which aren’t suitable for our plant-eating friends, the humble goat. Too much protein from these sources could lead to health problems in your furry friend over time.
 
@@ -65,7 +65,7 @@ There’s also fiber in dog food which helps keep a goat’s digestive system ru
 
 But while these elements make dog food appealing to our four-legged friends, we must remember something important: Dog food isn’t designed specifically for goats’ dietary needs.
 
-So even though your goat might enjoy snacking on some kibble now and then, it shouldn’t replace its regular diet of hay or pasture grasses entirely.
+So even though your goat might enjoy snacking on some kibble now and then, it shouldn’t replace its regular diet of [hay](/can-goats-eat-timothy-hay/) or pasture grasses entirely.
 
 It’s always best to consult with a vet before making any major changes to your pet’s diet, whether you own dogs or goats.
 
@@ -75,7 +75,7 @@ Goats can eat dry dog food, but it’s not the best choice for them. Dog food is
 
 It often contains meat and other ingredients that aren’t ideal for a goat’s diet.
 
-The main part of a goat’s diet should be hay or pasture. They also enjoy fruits, vegetables and grains like oats and barley.
+The main part of a goat’s diet should be hay or pasture. They also enjoy fruits, vegetables and grains like [oats](/can-goats-eat-oats/) and barley.
 
 Feeding your goat dog food might lead to health problems over time because it doesn’t have all the nutrients they need.
 
@@ -95,7 +95,7 @@ Goats are ruminants, which means they have a unique way of breaking down food.
 
 Dog food doesn’t fit into this process well. It often contains meat and fats that can upset the balance in a goat’s stomach.
 
-Also, many types of dog foods include ingredients like corn or wheat gluten meal. These grains aren’t healthy for goats as they might cause bloating and other health issues.
+Also, many types of dog foods include ingredients like [corn](/can-goats-eat-corn/) or wheat gluten meal. These grains aren’t healthy for goats as they might cause bloating and other health issues.
 
 Another reason is nutritional imbalance. Dog foods are formulated specifically for dogs’ dietary needs which differ greatly from those of goats’.
 
@@ -115,7 +115,7 @@ This helps them digest and extract necessary nutrients efficiently.
 
 Dog food lacks this essential component. It also has higher protein levels than what goats typically need, leading to potential health issues over time such as kidney damage.
 
-Moreover, some ingredients common in dog foods might be harmful to goats, even toxic at times. For instance, onions are often used for flavoring but can cause anemia in our caprine friends.
+Moreover, some ingredients common in dog foods might be harmful to goats, even toxic at times. For instance, [onions](/can-goats-eat-onions/) are often used for flavoring but can cause anemia in our caprine friends.
 
 In short: stick with goat-specific feeds and supplements when possible. They’re designed keeping the unique dietary requirements of these animals in mind.
 
@@ -181,7 +181,7 @@ Fruits and vegetables make good treats too but should only form a small part of 
 
 While dog food isn’t the best choice for goats, there are many healthier alternatives. Fresh fruits and vegetables make great snacks.
 
-Apples, carrots, lettuce or celery can be a tasty treat.
+[Apples](/can-goats-eat-apples/), [carrots](/can-goats-eat-carrots/), [lettuce](/can-goats-eat-lettuce/) or [celery](/can-goats-eat-celery/) can be a tasty treat.
 
 Hay is also essential in a goat’s diet. It helps their digestion and keeps them full.
 
@@ -219,7 +219,7 @@ They have a unique ability to digest many different types of feed.
 
 Hay is one common option. It’s often used as the main part of a goat’s diet.
 
-Alfalfa hay and grass hays like timothy or bermuda are all good choices.
+[Alfalfa](/can-goats-eat-alfalfa/) hay and grass hays like timothy or bermuda are all good choices.
 
 Pelleted grain mixes made for goats are another choice. These usually contain corn, oats, barley and soybeans in them.
 

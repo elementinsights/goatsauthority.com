@@ -47,7 +47,7 @@ This question might seem simple at first glance, but there’s more to consider 
 
 **The answer is yes, they can.**
 
-Bamboo belongs to the grass family, making it similar in nature to what goats naturally graze on. Goats find bamboo leaves particularly appetizing due its high nutrient content.
+Bamboo belongs to the grass family, making it similar in nature to what goats naturally graze on, such as [kentucky bluegrass](/can-goats-eat-kentucky-bluegrass/) and [timothy hay](/can-goats-eat-timothy-hay/). Goats find bamboo leaves particularly appetizing due its high nutrient content.
 
 But before you let your herd loose in a bamboo grove, there’s more information that needs consideration. It’s not just about whether or not they can eat it, but should they?
 
@@ -109,15 +109,15 @@ Goats are known for their wide-ranging diet. Apart from bamboo, they eat a varie
 
 Some of these include grasses, shrubs and trees.
 
-Fruits and vegetables are also part of the goat’s menu. They enjoy apples, carrots and peas among others.
+Fruits and vegetables are also part of the goat’s menu. They enjoy [apples](/can-goats-eat-apples/), [carrots](/can-goats-eat-carrots/) and peas among others.
 
 But remember to remove seeds before feeding them fruits as some can be harmful.
 
-They like grains too such as corn or oats which provide energy needed for daily activities. Alfalfa is another favorite because it offers high protein content beneficial for growth and milk production in dairy goats.
+They like grains too such as [corn](/can-goats-eat-corn/) or [oats](/can-goats-eat-oats/) which provide energy needed for daily activities. [Alfalfa](/can-goats-eat-alfalfa/) is another favorite because it offers high protein content beneficial for growth and milk production in dairy goats.
 
-Weeds aren’t off-limits either with dandelions being particularly popular among our hoofed friends. Even poison ivy doesn’t deter them, goats have natural immunity against this plant that causes rashes in humans.
+Weeds aren’t off-limits either with [dandelions](/can-goats-eat-dandelions/) being particularly popular among our hoofed friends. Even poison ivy doesn’t deter them, goats have natural immunity against this plant that causes rashes in humans.
 
-Despite having a broad palate though, not all plants are safe for goats to consume.
+Despite having a broad palate though, [not all plants are safe for goats to consume](/can-goats-eat-any-plant/).
 
 ## Health and Nutritional Benefits of Bamboo for Goats
 
@@ -131,7 +131,7 @@ It also keeps their gut healthy.
 
 **The protein level in bamboo is quite impressive too**. Protein helps build strong muscles and tissues in goats, promoting overall health and growth.
 
-There’s plenty of minerals found within bamboo as well, like calcium and phosphorus. These two work together to support bone development and maintenance among our hoofed friends.
+There’s plenty of minerals found within bamboo as well, like calcium and phosphorus. These two work together to support bone development and maintenance among our hoofed friends. Other plants rich in minerals include [pine trees](/can-goats-eat-pine-trees/) and [hawthorn](/can-goats-eat-hawthorn/).
 
 But remember moderation is key here.
 

@@ -47,7 +47,7 @@ Do you have a goat? I do.
 
 They’re interesting creatures, aren’t they?
 
-Goats are known for eating almost anything. But there’s always that one food item we question whether it’s safe or not.
+Goats are known for eating almost anything. From [bananas](/can-goats-eat-bananas/) to [pumpkin](/can-goats-eat-pumpkin/), the list of safe treats is long. But there’s always that one food item we question whether it’s safe or not.
 
 In my case, and perhaps yours too, the mystery revolves around cucumbers. Can goats eat them without any harm?
 
@@ -59,11 +59,11 @@ It might seem like an odd question but as a responsible owner, it’s important 
 
 **Cucumbers are safe for your goat as they contain a high amount of water which is good for their digestion.**
 
-However, like all foods, it should be given in moderation. Too many cucumbers might cause bloating or diarrhea due to its high water content.
+However, like all foods, it should be given in moderation. Too many cucumbers might cause [bloating](/can-alfalfa-pellets-cause-goats-to-bloat/) or diarrhea due to its high water content.
 
 A small cucumber slice per day would suffice.
 
-Remember that while treats like these are fine occasionally, a balanced diet is crucial for your goat’s health. Their main food source should still be hay or grasses with fruits and vegetables as supplements only.
+Remember that while treats like these are fine occasionally, a balanced diet is crucial for your goat’s health. Their main food source should still be [hay](/what-kind-of-hay-do-goats-eat/) or grasses with fruits and vegetables as supplements only.
 
 ## Can Goats Eat Cucumber Skins and Seeds?
 
@@ -83,7 +83,7 @@ Cucumber seeds are safe for goats to eat. They’re not harmful in any way.
 
 In fact, they can be a healthy snack.
 
-The seeds have nutrients that benefit the goat’s health. These include fiber and vitamins like A and C which support their immune system.
+The seeds have nutrients that benefit the goat’s health. These include fiber and vitamins like A and C which support their immune system. For another vitamin-rich treat, try feeding your goats [blueberries](/can-goats-eat-blueberries/).
 
 But remember, cucumbers should only make up a small part of your goat’s diet. Too much cucumber might cause digestive issues because it is high in water content.
 
@@ -111,7 +111,7 @@ Cucumber plants fall into this category.
 
 The plant parts of cucumbers aren’t harmful for your goat friends at all. They contain nutrients like vitamin A which help keep their immune system strong.
 
-Plus, these green treats add variety to a goat’s diet that usually consists mostly of hay or grain.
+Plus, these green treats add variety to a goat’s diet that usually consists mostly of hay or [grain](/can-goats-eat-oats/).
 
 However, remember moderation is key when feeding any type of fresh produce to your goats. Too much could upset their stomachs causing discomfort or health issues over time.
 
@@ -155,7 +155,7 @@ There’s even more good stuff inside these green veggies like magnesium, potass
 
 ## Do Goats Enjoy Eating Cucumbers and Are They Good as a Treat?
 
-Goats do enjoy eating cucumbers. They are not picky eaters and will try almost anything once, including cucumbers.
+Goats do enjoy eating cucumbers. They are not picky eaters and will try almost anything once, including cucumbers and [squash](/can-goats-eat-squash/).
 
 These green veggies can be a tasty treat for them.
 

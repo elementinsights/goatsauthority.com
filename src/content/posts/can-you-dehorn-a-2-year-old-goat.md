@@ -50,7 +50,7 @@ In this article, we will answer all of your questions about dehorning a 2 year o
 
 **You can dehorn a 2-year-old goat as long as it is healthy and the horns are not too big. If the horns are too big, it may be difficult to remove them without causing injury to the goat, and it is not recommended.**
 
-In addition, you should only dehorn a goat if absolutely necessary, as it is a painful procedure. If you do decide to dehorn your goat, be sure to use pain management techniques, such as local anesthesia, to minimize the pain and discomfort for your goat.
+In addition, you should only [dehorn a goat](/can-you-disbud-a-goat-without-medication/) if absolutely necessary, as it is a painful procedure. If you do decide to dehorn your goat, be sure to use [pain management](/can-i-give-my-goat-vicodin-for-pain/) techniques, such as local anesthesia, to minimize the pain and discomfort for your goat.
 
 ## What are the benefits of dehorning a 2 year old goat?
 
@@ -72,9 +72,9 @@ Dehorning is a common practice in goat husbandry, and it carries with it a numbe
 
 But, dehorning is not without its risks. The most significant risk is damage to the blood vessels or nerves in the horns.
 
-If these are damaged, it can lead to excessive bleeding or even paralysis.
+If these are damaged, it can lead to excessive bleeding or even [paralysis](/can-goats-have-a-stroke-anemia/).
 
-In addition, there is a risk of infection at the site where the horns are removed. For these reasons, dehorning should only be carried out by a qualified veterinarian.
+In addition, there is a [risk of infection](/can-i-put-neosporin-on-my-goats/) at the site where the horns are removed. For these reasons, dehorning should only be carried out by a qualified veterinarian.
 
 ## How to prevent the risks when dehorning a 2 year old goat?
 
@@ -98,7 +98,7 @@ To help the goat heal, you can apply a healing ointment to the area and provide 
 
 The goat should also be kept away from other animals so that they can heal without being disturbed.
 
-Lastly, you will need to monitor the goat closely for any signs of infection. If an infection does develop, it will need to be treated promptly with antibiotics.
+Lastly, you will need to monitor the goat closely for any signs of infection. If an infection does develop, it will need to be treated promptly with [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/).
 
 By following these steps, you can help your [goat recover quickly](/can-goats-recover-from-polio-without-medication/) and safely from the dehorning procedure.
 
@@ -126,7 +126,7 @@ Despite that, by taking the time to weigh all of the factors involved, you can m
 
 If you're not comfortable with the idea of dehorning your goat, there are a few other options available. One option is to trim the horns down to a manageable size.
 
-This can be done with a file or a Dremel tool, and it's typically less painful for the goat than full dehorning. Despite that, it's important to note that this method does not completely remove the horns, and there is still a [risk of injury to both the goat](/can-a-cdt-shot-kill-a-goat/) and the handler.
+This can be done with a file or a Dremel tool, and it's typically less painful for the goat than full [dehorning](/can-you-band-an-adult-goats-horns-to-dehorn-them/). Despite that, it's important to note that this method does not completely remove the horns, and there is still a [risk of injury to both the goat](/can-a-cdt-shot-kill-a-goat/) and the handler.
 
 Another option is to cap the horns with a plastic or rubber material. This will help to blunt the sharp edges of the horns and make them less dangerous.
 

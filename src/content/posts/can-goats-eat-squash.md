@@ -45,7 +45,7 @@ faq:
 ---
 Do you own a goat? If so, then you know how tricky it can be to figure out what they should eat.
 
-You might even have a garden full of squash and wonder if your goats would enjoy them as much as you do.
+You might even have a garden full of squash and wonder if your goats would enjoy them as much as you do. After all, you probably already know they love [bananas](/can-goats-eat-bananas/) and [cucumbers](/can-goats-eat-cucumbers/).
 
 As someone who has owned goats for years, I’ve had the same question. In my quest to provide the best diet for my furry friends, I’ve done quite a bit of research on this topic.
 
@@ -75,7 +75,7 @@ However, like all foods, squash should be fed in moderation. **Too much could le
 
 It’s also important that the squash is fresh and clean before feeding it to your goat. Rotting or moldy squash could make your goat sick.
 
-Finally, remember that while treats like squash are nice once in a while. They shouldn’t replace hay or grasses as the main part of their diet.
+Finally, remember that while treats like squash are nice once in a while. They shouldn’t replace [hay](/what-kind-of-hay-do-goats-eat/) or grasses as the main part of their diet.
 
 These provide essential nutrients needed by goats on daily basis.
 
@@ -109,7 +109,7 @@ In conclusion, while some caution is needed with seeds especially, most elements
 
 ## Can Goats Eat Different Types of Squash. Butternut, Pumpkin, Yellow, Acorn?
 
-**Yes, goats can eat different types of squash**. Butternut, pumpkin, yellow and acorn squashes are all safe for them to consume.
+**Yes, goats can eat different types of squash**. Butternut, [pumpkin](/can-goats-eat-pumpkin/), yellow and acorn squashes are all safe for them to consume.
 
 Squash is rich in vitamins that are good for their health.
 
@@ -161,7 +161,7 @@ These include vitamins A, C and E, which help boost their immune system.
 
 **The fiber in squash aids digestion too**. This can keep your goat’s gut healthy and prevent bloating issues common to these animals.
 
-Beta-carotene found in squash helps improve eyesight in goats as well. Goats need sharp vision to navigate their surroundings safely.
+Beta-carotene found in squash helps improve eyesight in goats as well. You can also find beta-carotene in [carrots](/can-goats-eat-carrots/) and [sweet potatoes](/can-goats-eat-sweet-potatoes/). Goats need sharp vision to navigate their surroundings safely.
 
 There are also minerals like potassium and magnesium present in this vegetable. **Potassium keeps the heart of your goat strong while magnesium contributes to bone health**.
 
@@ -209,7 +209,7 @@ When you think about feeding your goat squash, consider where it comes from. **S
 
 This can be harmful to goats if eaten in large amounts.
 
-Prepared squash dishes might seem like a good idea too but hold off for now. They often contain ingredients that aren’t safe for goats such as onions and garlic, which are toxic to them.
+Prepared squash dishes might seem like a good idea too but hold off for now. They often contain ingredients that aren’t safe for goats such as [onions](/can-goats-eat-onions/) and garlic, which are toxic to them.
 
 Even spices used in these dishes could upset their stomachs or cause other health issues. So while raw squash is generally safe and healthy for goats, always remember to wash it thoroughly before serving it up.
 
@@ -235,12 +235,12 @@ Sometimes, your goat may not be a fan of squash. That’s okay.
 
 **There are many other vegetables that goats can eat safely**.
 
-Carrots and apples are popular choices for most goats. They’re sweet, crunchy and full of nutrients.
+[Carrots](/can-goats-eat-carrots/) and [apples](/can-goats-eat-apples/) are popular choices for most goats. They’re sweet, crunchy and full of nutrients.
 
-You could also try feeding them peas or beans which they might find tasty too.
+You could also try feeding them [peanuts](/can-goats-eat-peanuts/) or [radishes](/can-goats-eat-radishes/) which they might find tasty too.
 
-Leafy greens like lettuce or spinach make good options as well but in moderation to avoid digestive issues.
+Leafy greens like [lettuce](/can-goats-eat-lettuce/) or [spinach](/can-goats-eat-spinach/) make good options as well but in moderation to avoid digestive issues.
 
-If you want something more substantial, consider potatoes but only cooked ones because raw potatoes can harm their stomachs due to solanine content present in it.
+If you want something more substantial, consider [potatoes](/can-goats-eat-potatoes/) but only cooked ones because raw potatoes can harm their stomachs due to solanine content present in it.
 
 Remember variety is key when it comes to a healthy diet for your goat just like us humans so don’t limit yourself with what you feed them.

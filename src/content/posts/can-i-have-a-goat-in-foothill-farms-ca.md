@@ -54,7 +54,7 @@ Even though there are no specific laws against owning goats, there are some thin
 
 If you live in a small home or apartment, a goat is probably not the right pet for you.
 
-Goats also require special care and attention. They need to be vaccinated and dewormed regularly, and their hooves need to be trimmed every few months.
+Goats also require special care and attention. They need to be [vaccinated and dewormed](/can-i-have-goats-where-i-live/) regularly, and their hooves need to be trimmed every few months.
 
 If you're not up for the challenge of caring for a goat, you might want to reconsider getting one.
 
@@ -68,7 +68,7 @@ Housing can range from simple outdoor shelters to more elaborate indoor barns, d
 
 Costs for feed, medical care, and other necessities will also vary depending on things like climate conditions and the size of your herd. For these reasons, it is difficult to give a single estimate for the cost of raising goats in Foothill Farms.
 
-Despite that, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, goats are an excellent choice for anyone looking to build a sustainable agricultural business.
+Despite that, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, [goats](/can-goats-make-money/) are an excellent choice for anyone looking to build a sustainable agricultural business.
 
 So if you're considering getting into the goat-farming game, just be sure to do your research ahead of time and plan accordingly, with careful planning and management, you too can turn your love for goats into a profitable venture.
 
@@ -128,4 +128,4 @@ Overall, while a goat can certainly be a valuable addition to any community, pro
 
 Overall, there are many things to consider before getting a goat in Foothill Farms. However, if you are prepared to take on the challenges and responsibilities that come with owning a goat, then this can be a highly rewarding experience.
 
-Just be sure to do your research beforehand and consult with experts if you have any questions or concerns.
+Just be sure to do your research beforehand and consult with experts if you have any [questions or concerns](/can-i-own-goats-in-medford-oregon/).

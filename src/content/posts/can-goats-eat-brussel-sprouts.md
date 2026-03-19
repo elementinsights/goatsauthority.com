@@ -43,7 +43,7 @@ faq:
 ---
 Have you ever looked at a goat and wondered what it can eat? It’s an interesting question, isn’t it?
 
-Goats are known for their ability to munch on almost anything.
+[Goats are known for their ability to munch on almost anything](/why-do-goats-eat-everything/).
 
 In my own experience as a goat owner, I’ve seen them enjoy many types of food. But when it comes to brussel sprouts, things might be different.
 
@@ -103,9 +103,9 @@ Young goats, also known as kids, can indeed eat Brussels sprouts. These small gr
 
 But remember moderation is key. Too many at once could cause bloating or other tummy troubles.
 
-Brussels sprouts have good nutrients like vitamins C and K which support goat health. They also contain fiber that aids digestion in these ruminant animals.
+Brussels sprouts have good nutrients like vitamins C and K which support goat health. They also contain fiber that aids digestion in these ruminant animals, much like [cabbage](/can-goats-eat-cabbage/) and [broccoli](/can-goats-eat-broccoli/).
 
-However, don’t make Brussels sprouts the main part of their diet. Goats need a balanced mix of grains, hay and fresh water daily with vegetables as an occasional treat only.
+However, don’t make Brussels sprouts the main part of their diet. Goats need a balanced mix of grains, [hay](/what-kind-of-hay-do-goats-eat/) and fresh water daily with vegetables as an occasional treat only.
 
 ## Can Goats Eat Brussels Sprout Leaves?
 
@@ -147,11 +147,11 @@ Remember, every goat is different. What works for one might not work for another
 
 Goats are known for their broad diet. Apart from brussel sprouts, they can eat other vegetables too.
 
-Carrots and lettuce are good choices that most goats enjoy.
+[Carrots](/can-goats-eat-carrots/) and [lettuce](/can-goats-eat-lettuce/) are good choices that most goats enjoy.
 
-Pumpkins and squash also make a healthy addition to their meal plan. These veggies provide essential nutrients needed by the goat’s body.
+[Pumpkins](/can-goats-eat-pumpkin/) and [squash](/can-goats-eat-squash/) also make a healthy addition to their meal plan. These veggies provide essential nutrients needed by the goat’s body.
 
-But remember, not all vegetables are safe for them to consume in large amounts or frequently, like onions or potatoes which could cause health issues if eaten excessively.
+But remember, not all vegetables are safe for them to consume in large amounts or frequently, like [onions](/can-goats-eat-onions/) or [potatoes](/can-goats-eat-potatoes/) which could cause health issues if eaten excessively.
 
 It’s always best to research before introducing new food items into your goat’s diet. Ensuring what you feed is safe will keep your furry friend happy and healthy.
 
@@ -173,7 +173,7 @@ Goats can indeed eat cooked Brussels sprouts. However, it’s not the best choic
 
 While these veggies are packed with nutrients that humans love, they don’t offer much benefit to goats.
 
-Cooking removes some of the nutritional value found in raw vegetables. So if you’re thinking about feeding your goat Brussels sprouts, consider giving them raw instead of cooked ones.
+Cooking removes some of the nutritional value found in raw vegetables. So if you’re thinking about feeding your goat Brussels sprouts, consider giving them raw instead of cooked ones. The same principle applies to other vegetables like [bell peppers](/can-goats-eat-bell-peppers/) and [kale](/can-goats-eat-kale/).
 
 Also remember that moderation is key when introducing new foods into a goat’s diet. Too many at once could upset their stomachs and cause health problems down the line.
 

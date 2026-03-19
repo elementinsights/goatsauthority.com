@@ -51,7 +51,7 @@ We will also provide you with information on the [benefits and risks](/can-a-goa
 
 **It can also help settle their stomachs. Goat yogurt also contains live and active cultures, which can help improve your dog's digestion.**
 
-However, it's important to only give your dog plain, unsweetened goat yogurt. Sweetened yogurts can contain too much sugar for your dog and may cause them to develop an upset stomach.
+However, it's important to only give your dog plain, unsweetened goat yogurt. Sweetened yogurts can contain too much sugar for your dog and may cause them to develop an upset stomach. Just like [goats shouldn't eat chocolate](/can-goats-eat-chocolate/), dogs should also avoid sweetened dairy products.
 
 ## What is goat yogurt and what are the benefits of feeding it to dogs?
 
@@ -59,7 +59,7 @@ Goat yogurt is a type of yogurt made from goat's milk. It has a similar nutritio
 
 Goat yogurt is a good source of protein, calcium, and probiotics, which can help support a healthy digestive system.
 
-Some dog owners choose to feed their dogs goat yogurt as a treat or add it to their dog's food as a way to boost nutrition. While there are many benefits to feeding goats' milk products to dogs, you need to talk with a goat expert first to make sure it's the right choice for your pet.
+Some dog owners choose to feed their dogs goat yogurt as a treat or add it to their dog's food as a way to boost nutrition. Others also explore whether [dogs can have goat formula](/can-dogs-have-goat-formula/) or [dogs can eat goat meat](/can-dogs-eat-goat-meat/). While there are many benefits to feeding goats' milk products to dogs, you need to talk with a goat expert first to make sure it's the right choice for your pet.
 
 On top of that, since goat yogurt is a dairy product, you need to introduce it slowly into your dog's diet to avoid an upset stomach. Start by mixing a small amount of goat yogurt into your dog's food and gradually increase the amount over time.
 
@@ -97,7 +97,7 @@ Maintaining a healthy weight is one of the most important things you can do for 
 
 You should talk to a goat expert about what a healthy weight is for your dog, and make sure to monitor their food intake and exercise levels.
 
-Another important step in keeping your dog healthy is ensuring they are up-to-date on their vaccinations.
+For more about what's safe for your pets, you might also want to learn whether [Rottweilers can drink goat milk](/can-rottweilers-drink-goat-milk/). Another important step in keeping your dog healthy is ensuring they are up-to-date on their vaccinations.
 
 Vaccinations help protect against a number of deadly diseases, including rabies, distemper, and hepatitis. You should talk to a goat expert about which vaccinations are appropriate for your dog based on their age, health, and lifestyle.
 
@@ -119,7 +119,7 @@ By following these guidelines, you can ensure that your dog enjoys the many bene
 
 ## What breed of dogs is best suited for goat's milk?
 
-All breeds of [dogs can benefit from goat's milk](/can-dogs-drink-goat-milk-everyday/), but it's especially beneficial for those with sensitive stomachs. Because goat's milk is easier to digest than cow's milk, it's often less likely to cause digestive upset.
+All breeds of [dogs can benefit from goat's milk](/can-dogs-drink-goat-milk-everyday/), but it's especially beneficial for those with sensitive stomachs. Because goat's milk is easier to digest than [cow's milk](/can-goats-drink-cow-milk/), it's often less likely to cause digestive upset.
 
 If you are unsure whether goat's milk is right for your dog, talk to a goat expert. They can help you determine whether [goat's milk](/can-a-baby-have-powdered-goats-milk/) is a good option for your dog based on their individual health needs.
 
@@ -127,7 +127,7 @@ If you are unsure whether goat's milk is right for your dog, talk to a goat expe
 
 Dogs can have goat yogurt as part of a healthy, balanced diet. Goat yogurt is a good source of protein and minerals, and it provides a number of [health benefits](/can-goats-eat-hamburger/).
 
-When feeding goat yogurt to dogs, you need to give the correct amount per day and feed it at regular intervals.
+When feeding goat yogurt to dogs, you need to give the correct amount per day and feed it at regular intervals. If you also have [baby kittens](/can-baby-kittens-drink-goats-milk/), goat milk products can benefit them too.
 
 You should also make sure to choose plain, unsweetened yogurt and to feed it to your dog in moderation.
 

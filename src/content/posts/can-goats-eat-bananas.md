@@ -53,7 +53,7 @@ Let’s look into this topic more closely without wasting any time.
 
 **Goats enjoy the sweet taste of this tropical fruit. But don’t feed them too many at once.**
 
-Bananas have high sugar content which isn’t good in large amounts for goats’ digestive systems.
+Bananas have high sugar content which isn’t good in large amounts for goats’ digestive systems. For a lower-sugar treat option, consider feeding your goats [cucumbers](/can-goats-eat-cucumbers/) instead.
 
 You should also be mindful of banana peels. While they aren’t harmful to goats, some may not like their tough texture.
 
@@ -71,7 +71,7 @@ The next step is feeding the goats. You should not give a whole banana at once a
 
 Cut up the fruit into smaller pieces instead.
 
-Also, don’t make bananas their main diet source because of high sugar content that could lead to health issues over time if fed excessively.
+Also, don’t make bananas their main diet source because of high sugar content that could lead to health issues over time if fed excessively. A more balanced treat could be [squash](/can-goats-eat-squash/) or [pumpkin](/can-goats-eat-pumpkin/).
 
 Remember moderation is key when giving any treat including fruits like bananas to avoid upsetting stomachs or causing other potential problems due to imbalance in nutritional intake.
 
@@ -87,7 +87,7 @@ Remember that these are treats, not meals.
 
 Bananas should make up no more than 10% of your goat’s daily food intake. This is because too much fruit can upset their stomachs due to high sugar content.
 
-Feeding them properly means balancing fruits like bananas with other foods such as hay and grains which provide essential nutrients for healthy growth.
+Feeding them properly means balancing fruits like bananas with other foods such as [hay](/what-kind-of-hay-do-goats-eat/) and [oats](/can-goats-eat-oats/) which provide essential nutrients for healthy growth.
 
 So next time you’re peeling a banana, feel free to share some with your furry friend but remember moderation is key in keeping them happy and healthy.
 
@@ -117,7 +117,7 @@ The real problem lies in what might be on the outside of those grocery-bought ba
 
 While they’re good for keeping bugs at bay, they aren’t so great for your goat’s health.
 
-**Feeding your goat a banana with pesticide residue could lead to problems** like stomach upset or even more serious health concerns over time. To avoid this issue altogether, consider buying organic bananas instead.
+**Feeding your goat a banana with pesticide residue could lead to problems** like stomach upset or even more serious health concerns over time. The same pesticide concerns apply when feeding goats [strawberries](/can-goats-eat-strawberries/) or [grapes](/can-goats-eat-grapes/). To avoid this issue altogether, consider buying organic bananas instead.
 
 Organic fruits don’t use harmful pesticides during farming process which makes them safer for both humans and animals alike, including our beloved goats.
 
@@ -183,7 +183,7 @@ So yes, while goats can enjoy eating a tasty banana now and then just like us hu
 
 Bananas are safe for goats to eat. They’re full of vitamins and minerals that can benefit a goat’s health.
 
-Vitamins like C, B6, and A help with their immune system.
+Vitamins like C, B6, and A help with their immune system. Similar vitamins can be found in [blueberries](/can-goats-eat-blueberries/) and [watermelon](/can-goats-eat-watermelon/).
 
 The fiber in bananas is good too. It aids digestion in goats which keeps them healthy inside out.
 
@@ -209,7 +209,7 @@ It is recommended to give bananas in moderation only. A few slices per week woul
 
 Why so little? Well, the main food source for goats should always be hay or grasses, around 90% of their diet actually.
 
-The remaining 10% could include fresh vegetables and fruit like banana slices.
+The remaining 10% could include fresh vegetables and fruit like banana slices, [carrots](/can-goats-eat-carrots/), or [apples](/can-goats-eat-apples/).
 
 Remember though: each goat is unique with its own dietary needs and preferences. So observe your pet carefully when introducing new foods into its meal plan.
 
@@ -225,7 +225,7 @@ Firstly, baby goats have smaller stomachs. This means that the amount of banana 
 
 A small slice or two is usually enough for these little ones.
 
-Secondly, remember that bananas are not their main food source. Kids need milk and hay primarily for growth and development.
+Secondly, remember that bananas are not their main food source. Kids need milk and hay primarily for growth and development. Once they are old enough for solid food, you can also try [sweet potatoes](/can-goats-eat-sweet-potatoes/) as a nutritious treat.
 
 Lastly but importantly: peel off the skin before feeding it to your kid goat. The tough outer layer can cause digestive issues if eaten by your tiny pet.
 

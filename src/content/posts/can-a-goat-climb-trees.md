@@ -58,7 +58,7 @@ But in other instances, it could be out of necessity.
 
 For example, if a goat is trying to escape from a predator, he may climb up into a tree to safety. Or if a goat is trying to reach food that's out of his grazing range, he may use a tree as a ladder.
 
-Whatever the reason, there's no doubt that goats are capable climbers. So if you see one scaling a tree, don't be too surprised.
+Whatever the reason, there's no doubt that goats are capable climbers. Their physical abilities also extend to water, and you might be surprised to learn that [a goat can swim](/can-a-goat-swim-everything-you-need-to-know/). So if you see one scaling a tree, don't be too surprised.
 
 ## Do all goats climb trees?
 
@@ -76,7 +76,7 @@ Goats are known for their ability to climb mountains, but did you know that they
 
 For one thing, it helps them to stay cool in hot weather. The shade provided by the leaves and branches can be a welcome relief from the heat of the sun.
 
-In addition, climbing trees gives goats a chance to graze on leaves and branches that they might not otherwise have access to. This can help them to get the nutrients they need, and it can also provide them with an interesting change of scenery.
+In addition, climbing trees gives goats a chance to graze on leaves and branches that they might not otherwise have access to. This can help them to get the nutrients they need, and it can also provide them with an interesting change of scenery. Beyond climbing, goats have other impressive physical skills, such as the ability to [pull a cart](/can-a-goat-pull-a-cart/).
 
 ## Are there any dangers associated with goats climbing trees?
 

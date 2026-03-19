@@ -55,7 +55,7 @@ If you decide to remove your goat's horns, be sure to do so in a safe and humane
 
 With that said, removing a goat's horns is generally a safe and straightforward process.
 
-If you have any questions or concerns, be sure to speak with a goat expert or another professional before taking any action. They will be able to provide you with more information and guidance on this matter.
+If you have any questions or concerns, be sure to speak with a [goat expert](/can-i-have-goats-where-i-live/) or another professional before taking any action. They will be able to provide you with more information and guidance on this matter.
 
 ## What do goats use their horns for?
 
@@ -139,7 +139,7 @@ For one thing, horn removal is a fairly invasive and painful procedure. In order
 
 Not only does this procedure require anesthesia and pain medication, but it can also [cause discomfort and swelling once the goats have recovered](/can-goats-cause-slope/).
 
-Another concern with horn removal is that it can leave goats more vulnerable to predators. With their horns removed, goats may no longer be able to defend themselves against attacks from larger animals like wolves or coyotes.
+Another concern with horn removal is that it can leave [goats more vulnerable to predators](/can-mountain-goats-climb-cliffs/). With their horns removed, goats may no longer be able to defend themselves against attacks from larger animals like wolves or coyotes.
 
 This means that farmers might need to take additional steps, like installing predator fences or raising goats in enclosures away from other animals.
 
@@ -153,4 +153,4 @@ While there are many reasons for removing goat horns, it is important to conside
 
 Overall, there are both advantages and disadvantages to removing goat horns. While horn removal can prevent injuries and make goats easier to manage, it is also a painful procedure that can leave the animals more vulnerable to predators.
 
-Ultimately, the decision about whether or not to remove goat horns should be made on a case-by-case basis, taking into account the needs of both the individual goats and the farm as a whole.
+Ultimately, the decision about whether or not to remove goat horns should be made on a case-by-case basis, taking into account the needs of both the individual goats and the [farm](/can-goats-make-money/) as a whole.

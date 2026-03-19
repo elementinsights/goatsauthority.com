@@ -55,7 +55,7 @@ In this article, we will answer those questions about provide you with additiona
 
 **This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision.**
 
-There are other methods to remove horns without medication, though they come with their own risks. For example, some people use a caustic paste or electrically heated instruments to burn the horn off.
+There are other methods to remove horns without medication, though they come with their own risks. For example, some people use a [caustic paste or electrically heated instruments](/can-you-dehorn-a-2-year-old-goat/) to burn the horn off.
 
 Keep in mind that this is dangerous and should only be done by someone experienced.
 
@@ -65,7 +65,7 @@ Disbudding is the process of removal of horns in goats. It is usually performed 
 
 The main purpose of disbudding is to prevent injury that can be caused by the horns. Goats with horns can easily hurt each other and people handling them.
 
-In addition, horns can get caught in fences and other objects, which may cause serious injuries or even death.
+In addition, horns can get caught in fences and other objects, which may cause serious injuries or even [death](/can-goats-die-from-their-own-horns-grow-into-heads/).
 
 While some people argue that goats should not be Disbudded because it is cruel, the reality is that it is a necessary procedure that helps to keep both goats and humans safe.
 
@@ -81,7 +81,7 @@ This method is generally considered to be more humane, but it does require anest
 
 There are also several non-chemical methods of disbudding that can be performed at home, though these should only be attempted by experienced individuals.
 
-The most common non-chemical method is known as "banding," which involves tightly wrapping a rubber band around the base of the horn bud to cut off its blood supply.
+The most common non-chemical method is known as "[banding](/can-you-band-an-adult-goats-horns-to-dehorn-them/)," which involves tightly wrapping a rubber band around the base of the horn bud to cut off its blood supply.
 
 This method is considered to be low-risk and relatively painless, but it must be done carefully to avoid injuring the goat. With proper care and attention, any goat can be safely and humanely disbudded.
 
@@ -99,7 +99,7 @@ Disbudding is the process of [removing horns from goats](/can-i-remove-my-goat-f
 
 There are risks associated with both methods. If disbudding is done without medication, there is a risk of pain and stress for the goat.
 
-There is also a risk of infection since the area where the horns are removed will be open and susceptible to bacteria. If disbudding is done with surgery, there is a risk of anesthesia complications, as well as bleeding and infection.
+There is also a [risk of infection](/can-a-goat-get-a-cold-sore/) since the area where the horns are removed will be open and susceptible to bacteria. If disbudding is done with surgery, there is a risk of anesthesia complications, as well as bleeding and infection.
 
 In addition, there is always a risk of scarring, no matter which method is used. Therefore, it is crucial to weigh the [risks and benefits](/can-benadryl-hurt-a-goat/) of both methods before deciding which one to use.
 
@@ -115,7 +115,7 @@ It is also important to properly dispose of any dead tissue or blood that may be
 
 After a goat has been disbudded, it is crucial to provide proper treatment and care to ensure its recovery. This includes providing adequate nutrition, monitoring for infection, and ensuring the wound is kept clean.
 
-Pain relief can also be given if needed. It may also be necessary to apply a dressing to protect the wound and promote healing.
+[Pain relief](/can-i-give-my-goat-vicodin-for-pain/) can also be given if needed. It may also be necessary to apply a dressing to protect the wound and promote healing.
 
 On top of that, it's important to observe the goat for any signs of infection or other complications. With proper care, most goats make a full recovery after being disbudded.
 
@@ -135,7 +135,7 @@ Disbudding is a painful procedure, but it is necessary in order to prevent injur
 
 It is important to care for the wound properly in order to prevent infection. The best way to do this is to clean the wound with soap and water twice a day.
 
-You should also apply a thin layer of antibiotic ointment to the wound. Once the wound has healed, you can then apply a Hoof Dressing to help protect the hooves from cracked and chipped nails.
+You should also apply a thin layer of [antibiotic ointment](/can-i-put-neosporin-on-my-goats/) to the wound. Once the wound has healed, you can then apply a [Hoof Dressing](/do-goats-have-cloven-hooves/) to help protect the hooves from cracked and chipped nails.
 
 By following these simple steps, you can ensure that your goat stays healthy after being disbudded.
 

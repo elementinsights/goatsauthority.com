@@ -48,13 +48,13 @@ Finally, we'll offer some advice on what to do if a fox is discovered in your go
 
 **Foxes are predators, and their main diet consists of small mammals like rabbits and rodents. However, they will also eat birds, reptiles, amphibians, fish, insects, fruits, and veggies.**
 
-So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down.
+So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down. You should also learn whether [raccoons can kill goats](/can-raccoons-kill-goat/) since they pose similar risks.
 
 Still, young kids are vulnerable. A fox might also steal pet goats for food.
 
 If a goat is sick or injured, a fox might attack it as well.
 
-In general, though, foxes pose little threat to healthy adult goats since they are not on the same level in the food chain.
+In general, though, foxes pose little threat to healthy adult goats since they are not on the same level in the food chain. For perspective, you may want to know if [a mountain goat can kill you](/can-a-mountain-goat-kill-you/) to understand how strong goats truly are.
 
 ## What kind of fox can kill a goat?
 
@@ -80,9 +80,9 @@ If you find a fox in your goat pasture, the best thing to do is to contact a loc
 
 Foxes are wild animals and can be dangerous, so it's best to leave them to trained professionals. If you attempt to remove the fox yourself, you could be bitten or scratched, which could lead to infection.
 
-Additionally, it's important to make sure that all of your goats are vaccinated against rabies, as this disease is common in foxes.
+Additionally, it's important to make sure that all of your goats are vaccinated against rabies, as this disease is common in foxes. You should also consider whether [a goat can be left out for hours](/can-a-goat-be-left-out-for-hours/) without supervision.
 
-Once the fox has been removed from your property, take steps to fox-proof your pasture, such as installing a fence with tight wire spacing. This will help to prevent future fox invasions.
+Once the fox has been removed from your property, take steps to fox-proof your pasture, such as installing a fence with tight wire spacing. You can also explore whether [goats can be tethered](/can-goats-be-tethered/) as an additional safety measure. This will help to prevent future fox invasions.
 
 ## How do you protect your goats from foxes?
 
@@ -92,9 +92,9 @@ One of the most common predators of goats is the fox. While they are not typical
 
 Here are some tips for keeping your goats safe from foxes:
 
-- First, it's important to make sure that your goat pen is well-built and secure. The pen should have sturdy walls and a tight-fitting door or gate to keep foxes out. You may also want to consider installing a fence around the perimeter of the pen. If you live in an area with a lot of foxes, an electric fence may be your best option.
+- First, it's important to make sure that your goat pen is well-built and secure. The pen should have sturdy walls and a tight-fitting door or gate to keep foxes out. You may also want to consider installing a fence around the perimeter of the pen since [goats and cows can graze in the same field](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting/) and shared fencing is common. If you live in an area with a lot of foxes, an electric fence may be your best option.
 
-- Second, don't forget to provide plenty of shelter for your goats. Goats like to stay dry and out of the wind, so make sure their shelter is solidly built and has a good roof. If possible, position the shelter so that it backs up against a wall or fence. This will give the goats extra protection from predators.
+- Second, don't forget to provide plenty of shelter for your goats. Goats like to stay dry and out of the wind, so make sure their shelter is solidly built and has a good roof. If possible, position the shelter so that it backs up against a wall or fence. You may also want to explore [goats being tied up for selective area grazing](/can-goats-be-tied-up-for-selective-area-grazing/) to keep them in safe zones. This will give the goats extra protection from predators.
 
 - Third, keep an eye on your goats and be aware of their surroundings. If you see a fox near the goat pen, scare it off by making noise or throwing rocks. And, if you notice any signs that a fox has been in the pen, such as footprints or scat, be sure to report it to your local animal control.
 
@@ -110,11 +110,11 @@ Some examples of breeds that could be used as guard dogs include the Anatolian s
 
 Another animal that can help to protect your goat from a fox is a donkey. Donkeys are very territorial and will chase away any animals that they perceive as a threat.
 
-In addition, they are very Loud and will make a lot of noise if they sense danger.
+In addition, they are very loud and will make a lot of noise if they sense danger. Even [goats can actually scream](/can-goats-actually-scream/) to alert others of predators.
 
 This can help to scare off predators such as foxes before they have a chance to attack.
 
-Lastly, llamas can also be used to protect goats from foxes. Like donkeys, llamas are very territorial and will chase away any animals that they see as a threat.
+Lastly, llamas can also be used to protect goats from foxes. Even keeping [rams with goat bucks](/can-rams-be-in-with-goat-bucks/) can add a layer of protection. Like donkeys, llamas are very territorial and will chase away any animals that they see as a threat.
 
 In addition, llamas are very strong and can easily overpower a fox if necessary. Consequently, all of these animals can be useful in protecting your goat from a fox.
 
@@ -124,7 +124,7 @@ Electric fences are a safe, effective way to contain goats. When used properly, 
 
 Electric fences are also relatively inexpensive and easy to install.
 
-But it's also important to keep in mind that goats are curious creatures and may try to test the fence by chewing on it or leaning against it.
+But it's also important to keep in mind that goats are curious creatures and may try to test the fence by chewing on it or leaning against it. Be aware that [goats can bite](/can-goats-bite/) when agitated.
 
 it's also important to ensure that the fence is securely fastened to ground posts so that goats cannot push it over. If you have any concerns about electric fences, be sure to consult with a qualified fence installer before proceeding.
 
@@ -140,4 +140,4 @@ Foxes can pose a serious threat to goats, but you can take precautions to keep t
 
 In general, taking preventative measures is the best course of action to protect your goats from foxes.
 
-You must also keep an eye on your goats and consider their surroundings.
+You must also keep an eye on your goats and consider their surroundings. Learn whether [a pygmy goat can live with a mini pig](/can-a-pygmy-goat-live-with-a-mini-pig/) and how [goat urine can kill trees](/can-goat-urine-kill-trees/) to better manage your pasture.

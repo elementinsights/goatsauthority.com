@@ -71,7 +71,7 @@ Adult goats have 24 teeth: 12 incisors, 4 canines, 16 premolars, 0 molars in the
 
 In order to understand what kind of teeth goats have, it's necessary to first understand a bit about their anatomy.
 
-Goats are quadrupeds, meaning they have four legs. They also have cloven hooves, which are split into two toes.
+Goats are quadrupeds, meaning they have four legs. They also have [cloven hooves](/do-goats-have-cloven-hooves/), which are split into two toes.
 
 Their upper jaws contain 12 incisors, while their lower jaws have 24 incisors. And also, they have two canine teeth on each jaw.
 
@@ -89,11 +89,11 @@ This means that they do not go through a teething process as human babies do. Fu
 
 Luckily, their diet of tough vegetation wears down their teeth so that they do not become overgrown. If allowed to grow unchecked, however, a goat's teeth can start to curl inward and cause problems with eating and drinking.
 
-Sometimes these overgrown teeth must be trimmed by a vet in order to maintain the health of the goat.
+Sometimes these overgrown teeth must be trimmed by a [vet](/can-i-give-baby-aspirin-to-my-baby-goat/) in order to maintain the health of the goat.
 
 ## Why are goat's teeth important?
 
-Goats are herbivores, which means that their diet consists entirely of plants. In order to efficiently digest their food, goats need a strong set of teeth.
+Goats are herbivores, which means that their diet consists entirely of plants. In order to efficiently digest their food, goats need a strong set of [teeth](/do-goats-have-top-teeth/).
 
 The front teeth, called incisors, are used for trimming grass and other plants. The back teeth, known as molars, are wider and flatter, allowing goats to grind up tough plant matter.
 
@@ -103,11 +103,11 @@ While the primary purpose of goat's teeth is to aid in digestion, they also play
 
 Goats are constantly grazing on grass and other vegetation, which can leave their mouths full of dirt and debris. The goat's teeth help to remove this debris and keep the mouth clean.
 
-Also, the constant grinding motion helps to keep the gums healthy and prevent infection.
+Also, the constant grinding motion helps to keep the gums healthy and [prevent infection](/can-goats-get-the-bubonic-plague/).
 
-Without their teeth, goats would be unable to properly care for their mouths, which could lead to serious health problems.
+Without their teeth, goats would be unable to properly care for their mouths, which could lead to serious [health problems](/can-goats-recover-from-polio-without-medication/).
 
-Goat teeth are essential for the animal's overall health and well-being. Without them, goats would be unable to properly digest their food or care for their mouths.
+Goat teeth are essential for the animal's overall health and well-being. Without them, goats would be unable to properly [digest their food](/how-many-stomachs-do-goats-have/) or care for their mouths.
 
 As a result, goat's teeth play a vital role in maintaining the health of these animals.
 
@@ -117,23 +117,23 @@ One might not think that teeth could have such a big impact on a Goat's life, bu
 
 If they don't have all their teeth, or if their teeth are not sharp enough, they may have trouble eating.
 
-This can lead to malnutrition and even death. Additionally, goats use their teeth for self-defense.
+This can lead to [malnutrition](/can-goats-have-a-stroke-anemia/) and even death. Additionally, goats use their teeth for self-defense.
 
 If a predator is attacking, the goat will use its teeth to bite and hopefully escape.
 
-Finally, healthy teeth are important for breeding purposes. If a buck (a male goat) does not have healthy teeth, he may not be able to mate successfully.
+Finally, healthy teeth are important for breeding purposes. If a buck (a male goat) does not have healthy teeth, he may not be able to [mate successfully](/do-goats-have-udders/).
 
 Therefore, it's essential that goats have healthy teeth in order to live long and prosperous lives.
 
 ## What are the common diseases of goat's teeth?
 
-Good oral health is essential for goats, just like it's for humans. Unfortunately, goats are susceptible to a number of dental problems, including tooth decay, gum disease, and abscesses.
+Good oral health is essential for goats, just like it's for humans. Unfortunately, goats are susceptible to a number of [dental problems](/can-you-catch-diseases-from-goats/), including tooth decay, gum disease, and abscesses.
 
 Tooth decay is caused by bacteria that produce acids that eat away at the enamel. Gum disease is an inflammation of the gums that can be caused by plaque buildup.
 
 And abscesses are pockets of pus that form around infections.
 
-All of these problems can lead to pain and difficulty eating, so it's important to be on the lookout for signs of trouble.
+All of these problems can lead to [pain](/can-i-give-my-goat-vicodin-for-pain/) and difficulty eating, so it's important to be on the lookout for signs of trouble.
 
 Common symptoms include drooling, head shaking, and loss of appetite. If you think your goat might have a dental problem, take them to see a veterinarian as soon as possible.
 

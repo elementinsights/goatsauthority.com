@@ -54,7 +54,7 @@ In this article, we will answer those questions and provide you with additional 
 
 When feeding brown sugar to pygmy goats, it is crucial to consider the following:
 
-- Brown sugar should only be given in small amounts as a treat.
+- Brown sugar should only be given in small amounts as a treat, similar to how you'd portion [peanut butter](/can-goats-eat-peanut-butter/) or other sweet snacks.
 - It should be introduced slowly to avoid digestive upset.
 - Make sure the brown sugar does not contain any added molasses.
 - Avoid feeding brown sugar to goats that are pregnant or nursing.
@@ -69,7 +69,7 @@ In addition, it provides an enjoyable treat that can keep these adorable little 
 
 Finally, the amount of sugar in brown sugar is not high enough to be harmful, making it a safe option for keeping your goats healthy and happy.
 
-Whether you raise pygmy goats as pets or as part of a small farm enterprise, feeding them brown sugar is sure to be a win-win.
+Whether you raise pygmy goats as pets or as part of a small farm enterprise, feeding them brown sugar is sure to be a win-win. You might also consider [pygmy goats and hay](/can-pygmy-goats-eat-hay/) as a staple part of their diet.
 
 ## Are there any risks associated with feeding brown sugar to pygmy goats?
 
@@ -77,7 +77,7 @@ There is no clear consensus on whether feeding brown sugar to pygmy goats presen
 
 Some experts believe that consuming large amounts of sugar can make goats more prone to metabolic diseases, while others note that the amount of sugar in a typical serving of brown sugar would be unlikely to cause significant harm.
 
-Ultimately, the decision whether or not to feed your pygmy goat brown sugar will depend on a variety of individual factors, including the goat's overall health and their current diet.
+Ultimately, the decision whether or not to feed your pygmy goat brown sugar will depend on a variety of individual factors, including the goat's overall health and their current diet. Understanding [what goats can eat](/can-goats-eat-everything/) is essential for making informed feeding choices.
 
 However, it is crucial to be aware of this potential risk, so that you can give your goats the best care possible.
 
@@ -127,11 +127,11 @@ Ultimately, if you are concerned about any health or nutritional issues related 
 
 ## Are there any alternative treats can pygmy goat eat?
 
-There are many different types of [treats that pygmy goats can eat](/can-pygmy-goats-eat-eucalyptus/). Some popular options include apples, melons, celery, carrots, and oranges.
+There are many different types of [treats that pygmy goats can eat](/can-pygmy-goats-eat-eucalyptus/). Some popular options include [apples](/can-goats-eat-apples/), melons, celery, [carrots](/can-goats-eat-carrots/), and [oranges](/can-goats-eat-oranges/).
 
 These foods provide important nutrients that help to support the health and well-being of pygmy goats. Additionally, many animals enjoy savoring these tasty treats right out of the hand or locker, making them a fun way to engage with your pet goats and bond with them.
 
-Just be sure to avoid giving your goats any food that is too sweet or sugary, like candy or chocolate, as those can make them sick.
+Just be sure to avoid giving your goats any food that is too sweet or sugary, like candy or [chocolate](/can-goats-eat-chocolate/), as those can make them sick.
 
 Overall, providing occasional treats is a great way to pamper your [pygmy goats](/can-dogs-and-pygmy-goats-live-together/) and ensure that they stay happy and healthy.
 
@@ -141,6 +141,6 @@ Brown sugar toxicity in goats can be a serious condition that can lead to death 
 
 There is no hard and fast rule when it comes to how much brown sugar you can give your pygmy goat each day. There are many different types of treats that pygmy goats can eat.
 
-Some popular options include apples, melons, celery, carrots, and oranges.
+Some popular options include apples, melons, celery, carrots, and [oranges](/can-goats-eat-oranges/).
 
 Providing occasional treats is a great way to pamper your pygmy goats and ensure that they stay happy and healthy.

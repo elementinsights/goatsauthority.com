@@ -54,7 +54,7 @@ In this article, we will answer all of your questions regarding goats and pepper
 
 In addition, peppermint treats can be a fun and tasty way to bond with your goats. However, it's crucial to only give them in moderation since too much mint can cause stomach upset.
 
-So, if you're looking for a healthy and tasty treat for your goats, peppermint may be the way to go.
+So, if you're looking for a healthy and tasty treat for your goats, peppermint may be the way to go. Other popular treat options include [bananas](/can-goats-eat-bananas/) and [watermelon](/can-goats-eat-watermelon/).
 
 ## What are the benefits of giving goats peppermint treats?
 
@@ -98,7 +98,7 @@ For these reasons, it is best to avoid giving goats peppermint treats altogether
 
 The best way to prevent health problems associated with giving goats peppermint treats is to simply avoid giving them mint-flavored treats altogether.
 
-If you must give them a treat, opt for something that is safe for them to eat, such as carrots or apples. By following this simple guideline, you can ensure that your goat stays healthy and happy.
+If you must give them a treat, opt for something that is safe for them to eat, such as [carrots](/can-goats-eat-carrots/) or [apples](/can-goats-eat-apples/). By following this simple guideline, you can ensure that your goat stays healthy and happy.
 
 What are the treatments for health problems associated with giving goats peppermint treats?
 
@@ -110,7 +110,7 @@ Finally, monitor the goat closely for any signs of illness, such as vomiting or 
 
 ## Are there any other types of mint that can be given to goats instead of peppermint treats?
 
-There are many different types of mint, and most of them can be safely given to goats. Peppermint is one of the most popular choices, but spearmint, chocolate mint, and lemon balm are also good options.
+There are many different types of mint, and most of them can be safely given to goats. Peppermint is one of the most popular choices, but spearmint, chocolate mint, and lemon balm are also good options. Just make sure to never confuse mint with [chocolate](/can-goats-eat-chocolate/), which is toxic to goats.
 
 In general, anything that smells strongly of mint will be [safe for goats to eat](/can-a-goat-eat-sticker-bushes/). There are a few exceptions, such as pennyroyal and wintergreen, which can be toxic in large quantities.
 
@@ -122,7 +122,7 @@ When it comes to goat care, there are a few key things to keep in mind. One of t
 
 Goats are browsers, which means they like to eat a variety of plants and leaves.
 
-In addition to hay and grass, you can give them some occasional treats, such as mint leaves. But how much should you give them?
+In addition to [hay](/what-kind-of-hay-do-goats-eat/) and grass, you can give them some occasional treats, such as mint leaves. But how much should you give them?
 
 A good rule of thumb is to offer about 1-2 cups per day for every 10 goats.
 
@@ -146,4 +146,4 @@ Goats can have peppermint treats, but they should be introduced slowly and in mo
 
 If you see any adverse effects, stop giving them the treats and consult with a goat expert. In general, it's best to give goats peppermint treats in the morning or evening, and only offer a small amount per day.
 
-By following these guidelines, you can ensure that your goats stay healthy and happy.
+By following these guidelines, you can ensure that your goats stay healthy and happy. For more goat feeding guides, check out our articles on [cucumbers](/can-goats-eat-cucumbers/) and [squash](/can-goats-eat-squash/).

@@ -56,7 +56,7 @@ Pink eye, also known as conjunctivitis, is a bacterial infection that affects bo
 
 This condition can be caused by either viruses or bacteria, and it typically manifests in two main symptoms: significant redness and swelling of the eyes, along with discharge from the eyes that is usually milky or yellowish in color.
 
-In most cases, pink eye can be treated fairly easily with the use of antibiotics. Despite that, if left untreated, the infection can become much more serious and even lead to blindness in some cases.
+In most cases, pink eye can be treated fairly easily with the use of [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/). Despite that, if left untreated, the infection can become much more serious and even lead to blindness in some cases.
 
 For this reason, it is crucial to seek medical attention for any animal suspected of having pink eye as soon as possible.
 
@@ -74,7 +74,7 @@ There are a number of different ways to prevent the spread of pink eye between a
 
 This can be done by physically separating them or by using barriers that prevent contact between infected and healthy individuals.
 
-Another option is to frequently disinfect items that are shared, such as food bowls or bedding. Additionally, it is crucial to take sanitary precautions when handling or cleaning up affected animals.
+Another option is to frequently disinfect items that are shared, such as [food bowls](/can-goats-drink-vinegar/) or bedding. Additionally, it is crucial to take sanitary precautions when handling or cleaning up affected animals.
 
 For example, wearing gloves when dumping out litter boxes or washing your hands thoroughly after bathing an animal with the pink eye can help reduce the risk of transmission.
 
@@ -86,7 +86,7 @@ There are a number of different treatments for pink eye, or conjunctivitis, in b
 
 This will help to remove any debris and irritants from the eye, reducing inflammation and discomfort. For more serious cases, antibiotics may be needed to eliminate the infection.
 
-Anti-inflammatory drugs may also be prescribed in order to relieve inflammation of the mucous membrane surrounding the eye.
+[Anti-inflammatory drugs](/can-ibuprofen-be-given-to-lactating-goats/) may also be prescribed in order to relieve inflammation of the mucous membrane surrounding the eye.
 
 Other potential treatments include steroid injections directly into the eye, surgical removal of the eyelid when it is completely infected or wrapped around an eyeball, and even diet changes to boost immune function.
 
@@ -100,7 +100,7 @@ This is especially true if the animal is showing signs of severe discomfort or i
 
 Early [diagnosis and treatment are crucial in order to prevent the condition from becoming more serious](/can-a-goat-get-a-cold-sore/) and potentially causing permanent damage to the eye.
 
-Waiting too long to seek help can also increase the risk of the infection spreading to other animals in your herd.
+Waiting too long to seek help can also increase the risk of the [infection spreading to other animals](/can-goats-spread-lice-to-llamas/) in your herd.
 
 Therefore, if you have any concerns that your animal may be suffering from pink eye, it is always best to err on the side of caution and contact your veterinarian right away.
 
@@ -108,11 +108,11 @@ On top of that, your veterinarian can also give you specific instructions on how
 
 ## Are there any other diseases that can cause similar symptoms?
 
-There are a number of other diseases that can cause symptoms similar to those of pink eye. These include bacterial infections, viral infections, allergies, and chemical burns.
+There are a number of other [diseases](/can-any-diseases-spread-from-swine-to-goats/) that can cause symptoms similar to those of pink eye. These include bacterial infections, viral infections, allergies, and chemical burns.
 
 Therefore, it is important to consult with your veterinarian if you notice any changes in your animal's eye health so that an accurate diagnosis can be made and appropriate treatment can be administered.
 
-Left untreated, pink eye can lead to serious complications, such as corneal ulcers, scarring, and even blindness.
+Left untreated, pink eye can lead to serious complications, such as corneal ulcers, scarring, and even [blindness](/do-goats-have-good-eyesight/).
 
 It is therefore important to be aware of the symptoms of the condition and to seek veterinary help as soon as possible if you suspect that your animal may be affected.
 

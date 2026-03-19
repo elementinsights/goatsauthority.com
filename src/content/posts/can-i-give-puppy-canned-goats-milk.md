@@ -68,11 +68,11 @@ On top of that, canned [goat milk](/can-i-use-goats-milk-soap-on-my-beard/) has 
 
 There are several benefits to giving your puppy canned goat milk. First and foremost, [goat milk](/can-goats-milk-be-frozen/) is an excellent source of nutrients that can help to promote healthy growth and development in puppies.
 
-It contains high levels of protein, calcium, magnesium, and vitamins A, B12, C, D, and E. In addition, goat milk is easier for puppies to digest than cow's milk or other commercial formulas.
+It contains high levels of [protein](/can-goats-have-36-protein/), calcium, magnesium, and vitamins A, B12, C, D, and E. In addition, goat milk is easier for puppies to digest than cow's milk or other commercial formulas.
 
 This is due to the fact that [it contains lower levels of lactose and casein proteins](/can-i-raise-goats-for-milk-protein/) than most other kinds of milk.
 
-Finally, some evidence suggests that the fatty acids in goat milk may even have anti-inflammatory properties that can help soothe achy joints or itchy skin.
+Finally, some evidence suggests that the fatty acids in goat milk may even have anti-inflammatory properties that can help soothe achy joints or [itchy skin](/can-goat-lice-live-on-humans/).
 
 So if you want to give your puppy the very best start in life, consider adding some [canned goat milk to their daily diet](/can-you-drink-raw-goat-milk-on-gaps-diet/).
 
@@ -84,7 +84,7 @@ Some of the most important considerations include your puppy's age and general h
 
 Generally speaking, younger puppies will require more milk than older dogs, as they are still growing and need high levels of nutrients to support their development.
 
-Additionally, if your puppy has any medical conditions or is underweight, you may need to give them additional milk in order to help them gain weight or recover from illness.
+Additionally, if your puppy has any medical conditions or is underweight, you may need to give them additional milk in order to help them gain weight or [recover from illness](/can-a-dog-get-sick-from-a-goat/).
 
 Ultimately, it is best to consult with your vet or a canine nutrition expert in order to determine the right amount of [goat milk](/can-i-get-goat-milk-at-luckys-market/) for your specific pup.
 
@@ -92,7 +92,7 @@ Ultimately, it is best to consult with your vet or a canine nutrition expert in 
 
 There are several risks associated with [giving your puppy canned goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats/). First and foremost, it is crucial to be aware that most puppies do not have the proper digestive systems to properly process dairy products like goat's milk.
 
-This can lead to diarrhea or other gastrointestinal issues, which may cause dehydration or other health complications. Additionally, many popular brands of canned goat milk use added sugars and chemicals to flavor the product.
+This can lead to [diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/) or other gastrointestinal issues, which may cause dehydration or other health complications. Additionally, many popular brands of canned goat milk use added sugars and chemicals to flavor the product.
 
 These additives can wreak havoc on a young dog's developing digestive system, potentially leading to further health issues.
 
@@ -128,7 +128,7 @@ Despite that, it's important to talk to your vet before giving your puppy any ki
 
 The best time to start giving your [puppy goat milk](/can-puppies-have-normal-goats-milk/) is around 8 weeks of age. At this point, their digestive system should be developed enough to handle dairy products like goat's milk.
 
-Despite that, it's still important to introduce it slowly and in small amounts at first. If you notice any negative side effects, such as diarrhea or vomiting, be sure to stop feeding them goat milk and consult with your vet right away.
+Despite that, it's still important to introduce it slowly and in small amounts at first. If you notice any negative side effects, such as diarrhea or [vomiting](/can-dogs-get-tapeworms-from-goats/), be sure to stop feeding them goat milk and consult with your vet right away.
 
 ## What are some alternative milk options for my puppy?
 

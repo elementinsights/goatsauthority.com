@@ -60,7 +60,7 @@ In this article, we will answer those questions and provide more information abo
 
 **Cooked white rice also has some health benefits for goats, such as being a good source of energy and providing essential nutrients.**
 
-While cooked white rice is safe for goats to eat, there are a few things to keep in mind. [Goats should not eat large amounts of rice](/can-goats-eat-rice-bran/) at one time, as it can cause digestive issues.
+While cooked white rice is safe for goats to eat, there are a few things to keep in mind. [Goats should not eat large amounts of rice](/can-goats-eat-rice-bran/) at one time, as it can cause digestive issues. For a more fiber-rich grain alternative, consider feeding your goats [oats](/can-goats-eat-oats/).
 
 Additionally, cooked white rice should be fed to goats in moderation and as part of a balanced diet.
 
@@ -98,7 +98,7 @@ Not all goats can eat cooked white rice. In fact, most goats should not eat cook
 
 Despite that, there are a few goat breeds that are known to be able to digest cooked white rice without any problems. These breeds include the Alpine, LaMancha, Nubian, and Oberhasli.
 
-While all other goat breeds should avoid eating cooked white rice, these four breeds can safely consume it as part of their diet.
+While all other goat breeds should avoid eating cooked white rice, these four breeds can safely consume it as part of their diet. Regardless of breed, all goats can enjoy safer treats like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/).
 
 ## What is white rice and what are its nutritional benefits?
 
@@ -120,7 +120,7 @@ Finally, cooked white rice should be fed to goats in moderation and as part of a
 
 The best way to prevent the risks associated with feeding goats cooked white rice is to feed them in moderation. [Goats should not eat large amounts of rice](/can-goats-eat-watermelon/) at one time, as this can cause digestive issues.
 
-White rice can be a part of a goat's diet, but it should not be the only [grain they eat](/can-male-goats-eat-grain/). A diet that is too high in carbohydrates can lead to weight gain and other problems.
+White rice can be a part of a goat's diet, but it should not be the only [grain they eat](/can-male-goats-eat-grain/). A diet that is too high in carbohydrates can lead to weight gain and other problems. For this reason, some owners also explore whether [goats can eat lentils](/can-goats-eat-lentils/) as a protein-rich alternative.
 
 it's also important to [feed goats a variety of other foods](/can-a-goat-feed-quads/), such as hay, vegetables, and fruits. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 
@@ -134,7 +134,7 @@ You should also [feed goats](/can-baking-soda-cause-urinary-issues-in-goats/) a 
 
 ## Are there any alternative food options for goats?
 
-There are a variety of food options for goats, including hay, vegetables, and fruits. You can also feed them grain mixes, which are specially formulated to meet their nutritional needs.
+There are a variety of food options for goats, including [hay](/what-kind-of-hay-do-goats-eat/), vegetables, and fruits. Some popular options include [bananas](/can-goats-eat-bananas/), [cucumbers](/can-goats-eat-cucumbers/), and [squash](/can-goats-eat-squash/). You can also feed them grain mixes, which are specially formulated to meet their nutritional needs.
 
 When feeding goats, it's important to give them a variety of different foods. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 

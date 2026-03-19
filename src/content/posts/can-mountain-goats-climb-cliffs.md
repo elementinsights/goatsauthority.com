@@ -63,7 +63,7 @@ Their extra hooves also help them grip the snow and ice, which is often found on
 
 ## What are mountain goats and what do they look like?
 
-Mountain goats are not actually goats, but they are a type of antelope. They have woolly white coats and long horns that curve backward.
+Mountain goats are not actually goats, but they are a type of antelope. They have woolly white coats and long [horns](/can-i-remove-my-goat-full-grown-horns/) that curve backward.
 
 They are native to North America and can be found in the Rocky Mountains and the Cascade Range.
 
@@ -99,7 +99,7 @@ Mountain goats are also susceptible to climate change, as melting snow and ice c
 
 ## Are there any other types of goats besides mountain goats?
 
-There are several other types of goats, including [dairy goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), meat goats, and cashmere goats. Dairy goats are used for their milk, while meat goats are raised for their meat.
+There are several other types of goats, including [dairy goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), meat goats, and [cashmere goats](/can-i-grow-goats-for-cashmere-and-angola/). Dairy goats are used for their milk, while meat goats are raised for their meat.
 
 Cashmere goats produce a type of wool that is often used in high-end clothing. Mountain goats are the only type of [goat that is able to climb cliffs](/can-goats-climb-92-degrees/).
 

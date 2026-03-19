@@ -41,7 +41,7 @@ It might surprise you.
 
 **Blackberries fall into the category of safe foods for them.**
 
-Goats love variety in their meals. They’re like us humans in that way.
+Goats love variety in their meals. They’re like us humans in that way. In fact, [goats eat a wide variety of fruits](/can-goats-eat-blueberries/) and plants.
 
 And just as we relish the sweet tanginess of ripe blackberries, so do our goat friends.
 
@@ -55,7 +55,7 @@ Baby goats, also known as kids, have a different diet than adult goats. Their di
 
 This makes them prone to upset stomachs if they eat something new or unfamiliar.
 
-Blackberries can be part of an adult goat’s diet. They’re high in fiber and vitamins that help keep the goat healthy.
+[Blackberries can be part of an adult goat’s diet](/can-goats-eat-strawberries/). They’re high in fiber and vitamins that help keep the goat healthy.
 
 But what about baby goats?
 
@@ -87,7 +87,7 @@ Goats can eat blackberries. They enjoy the taste and it’s safe for them too.
 
 But how often should they munch on these juicy fruits? Let’s find out.
 
-First, remember that goats need a balanced diet to stay healthy. Their main food is hay or pasture grasses which make up about 80% of their meals.
+First, remember that goats need a balanced diet to stay healthy. Their main food is [hay or pasture grasses](/can-goats-eat-timothy-hay/) which make up about 80% of their meals.
 
 Blackberries are considered treats and shouldn’t replace this primary feed source.
 
@@ -103,13 +103,13 @@ Goats are known for their hearty appetites. They can eat a wide range of plants,
 
 But there are things to watch out for when feeding them these fruits.
 
-Blackberries contain antioxidants that benefit goats’ health. Yet, moderation is key here.
+Blackberries contain antioxidants that benefit goats’ health, similar to other fruits like [grapes](/can-goats-eat-grapes/) and [cranberries](/can-goats-eat-cranberries/). Yet, moderation is key here.
 
 Too many blackberries may cause digestive issues in your goat.
 
 Remember not all parts of the plant are safe either. The leaves and stems have small thorns which could harm your goat’s mouth or throat if eaten raw.
 
-Also be aware of pesticides on store-bought berries too as they might pose a risk to your pet’s health.
+Also be aware of pesticides on store-bought berries too as they might pose a risk to your pet’s health. The same caution applies when feeding [apples](/can-goats-eat-apples/) or other store-bought fruits.
 
 Lastly, gradually introduce new foods like blackberries into their diet over time instead of all at once, this helps prevent upset stomachs from sudden changes in diet.
 
@@ -129,7 +129,7 @@ In conclusion, preparing blackberries for your goat isn’t hard at all but reme
 
 ### Potential Downsides of Goats Eating Blackberry Bushes
 
-While goats are known for their robust digestive systems, there can be potential downsides to them eating blackberry bushes. One of the main concerns is thorns.
+While [goats are known for their robust digestive systems](/can-goats-digest-anything/), there can be potential downsides to them eating blackberry bushes. One of the main concerns is thorns.
 
 Blackberries have sharp thorns that could potentially harm your goat’s mouth or throat.
 
@@ -137,7 +137,7 @@ Another downside relates to pesticides. If the blackberry bush has been sprayed 
 
 It’s always important to know where your food comes from and this applies equally when feeding our four-legged friends.
 
-Lastly, while blackberries themselves aren’t toxic for goats, they should not make up the majority of their diet. Goats need a balanced intake which includes hay and grains along with fruits like berries in moderation.
+Lastly, while blackberries themselves aren’t toxic for goats, they should not make up the majority of their diet. Goats need a balanced intake which includes [hay](/what-kind-of-hay-do-goats-eat/) and grains along with fruits like berries in moderation.
 
 ## the Benefits of Eating Blackberries for Goats
 
@@ -163,7 +163,7 @@ So yes. Goats can eat blackberries but do monitor how many you give them daily f
 
 These small-sized goats can easily navigate through thickets of blackberries.
 
-Pygmy goats also find blackberry leaves and fruits quite tasty. Despite their size, they’re agile climbers and love exploring new foods.
+[Pygmy goats](/can-pygmy-goats-eat-hay/) also find blackberry leaves and fruits quite tasty. Despite their size, they’re agile climbers and love exploring new foods.
 
 Then there’s the Spanish Goat breed that doesn’t shy away from feasting on thorny plants like blackberries either. They have a reputation as excellent brush clearers because of this trait.
 
@@ -195,7 +195,7 @@ However, there’s a small catch here. Blackberry bushes have thorns that could 
 
 The best way is to pick the berries for them and offer it as a treat. It’s good practice not only because you avoid any potential injuries but also because too many blackberries might upset their stomachs due to high sugar content.
 
-In moderation though, blackberries are healthy snacks packed with vitamins C and K plus fiber which helps in digestion process for both goats and sheep alike.
+In moderation though, blackberries are healthy snacks packed with vitamins C and K plus fiber which helps in digestion process for both [goats and sheep](/can-sheep-eat-goat-food/) alike.
 
 **Remember always monitor what your livestock eats so nothing harmful gets into their system inadvertently while grazing on pastures containing wild plants including berry bushes**.
 
@@ -211,7 +211,7 @@ It’s like nature designed them to be great garden helpers.
 
 However, while they can eat blackberries, it shouldn’t make up all their diet. Goats need a balanced meal that includes hay or grasses too.
 
-So if you’ve got some pesky blackberry bushes in your yard, let your goat at them. Just remember not to rely solely on this food source for your four-legged friend.
+So if you’ve got some pesky blackberry bushes in your yard, let your goat at them. Just remember not to rely solely on this food source for your four-legged friend. You might also consider offering treats like [watermelon](/can-goats-eat-watermelon/) or [bananas](/can-goats-eat-bananas/) for variety.
 
 Not only do goats enjoy eating these berries but other animals such as birds also feed on both the berries and leaves of the plant too.
 

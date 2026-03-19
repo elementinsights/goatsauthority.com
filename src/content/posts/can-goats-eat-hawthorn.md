@@ -73,7 +73,7 @@ Hawthorn is a small tree or shrub that is native to Europe, Asia, and North Amer
 
 Hawthorn leaves, flowers, and berries are all rich in compounds that have been shown to improve heart health.
 
-In particular, hawthorn extract has been shown to dilate blood vessels, increase blood flow, and reduce stress on the cardiovascular system. Additionally, hawthorn extract is known to be a powerful antioxidant that can help protect cells from damage.
+In particular, hawthorn extract has been shown to dilate blood vessels, increase blood flow, and reduce stress on the cardiovascular system. Similar to how [honeysuckle](/can-goats-eat-honeysuckle/) provides browse benefits, hawthorn offers nutritional value as a shrub. Additionally, hawthorn extract is known to be a powerful antioxidant that can help protect cells from damage.
 
 Hawthorn extract is also sometimes used as a natural treatment for anxiety and insomnia. The calming effects of hawthorn may help to promote relaxation and improve sleep quality.
 
@@ -105,7 +105,7 @@ By following these simple guidelines, you can [prevent health hazards when feedi
 
 Hawthorn is a type of shrub that is commonly found in hedgerows and woodlands. Its small, pinkish-white flowers blooming in early summer, followed by red berries in autumn, make it a popular choice for gardens.
 
-Despite that, hawthorn is also an important food source for livestock, particularly goats. Goats are browsers, meaning that they prefer to eat leaves and shoots rather than grass.
+Despite that, hawthorn is also an important food source for livestock, particularly goats. Goats are browsers, meaning that they prefer to eat leaves and shoots rather than grass. They also enjoy browsing on other hedgerow plants like [bamboo](/can-goats-eat-bamboo/) and [cedar trees](/can-goats-eat-cedar-trees/).
 
 Hawthorn is an excellent browse plant for goats, as it's high in protein and phosphorus, and low in calcium. But, there are a few things to consider when feeding Hawthorn to goats.
 
@@ -121,9 +121,9 @@ When fed properly, Hawthorn can be an excellent addition to the diet of your goa
 
 Goats are browsers, which means they naturally eat a variety of foliage. In the wild, they would graze on young shoots and leaves, as well as the occasional fruit or flower.
 
-Despite that, when kept as livestock, goats need to be given a more balanced diet in order to stay healthy. This includes providing them with hay or pasture, as well as supplemented feed.
+Despite that, when kept as livestock, goats need to be given a more balanced diet in order to stay healthy. This includes providing them with [hay](/what-kind-of-hay-do-goats-eat/) or pasture, as well as supplemented feed.
 
-When it comes to supplemented feed, there are a variety of options available, including Hawthorn. Hawthorn is a shrub that is native to Europe, and its leaves and berries are often used in herbal medicine.
+When it comes to supplemented feed, there are a variety of options available, including Hawthorn. Other browse options include [blackberries](/can-goats-eat-blackberries/) and [pine trees](/can-goats-eat-pine-trees/). Hawthorn is a shrub that is native to Europe, and its leaves and berries are often used in herbal medicine.
 
 It [should be fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) in moderation, as too much can cause stomach upset.
 

@@ -70,6 +70,8 @@ Some of the potential benefits of giving goat milk formula to dogs include:
 - Improved hydration
 - Better joint and bone health
 
+If you also have a dog that enjoys dairy, you might want to learn about [goat yogurt for dogs](/can-dogs-have-goat-yogurt/) as another option.
+
 ## What are the risks of giving goat milk formula to dogs, and how can they be minimized?
 
 While [goat milk is often touted as a healthy alternative to cow's milk](/can-goats-drink-cows-milk/), it's not necessarily safe for dogs. [Goat milk formula can cause digestive upset](/can-goat-milk-cause-acne/) in dogs, including diarrhea, vomiting, and gas.
@@ -101,7 +103,7 @@ There are a few alternative milk products that are safe for dogs. These include:
 - Coconut milk: Coconut milk is a dairy-free alternative to cow's milk that is rich in nutrients and easy for dogs to digest.
 - Almond milk: Almond milk is another dairy-free alternative to cow's milk that is high in vitamins and minerals.
 - Soy milk: Soy [milk is plant-based milk that is rich in protein](/can-i-raise-goats-for-milk-protein/) and low in fat.
-- Rice milk: Rice milk is non-dairy milk made from rice it's hypoallergenic and easy for dogs to digest.
+- Rice milk: Rice milk is non-dairy milk made from [rice](/can-goats-eat-rice/) it's hypoallergenic and easy for dogs to digest.
 
 As always, it's best to consult with a dog expert before giving your dog any new food or supplement, including alternative milk products.
 
@@ -113,7 +115,7 @@ Some dogs can have goat formula without any problem, but you need to know which 
 
 One breed of dog that can have goat formula without any problem is the Labrador Retriever. This is because they are a very versatile breed of dog and are able to easily adapt to different types of food.
 
-Another breed of dog that can have goat formula without any problem is the golden retriever. This is because they share many of the same characteristics as the Labrador Retriever, including being a very versatile breed of dog.
+Another breed of dog that can have goat formula without any problem is the golden retriever. For more on dogs and goat products, see our guide on whether [dogs can eat goat meat](/can-dogs-eat-goat-meat/). This is because they share many of the same characteristics as the Labrador Retriever, including being a very versatile breed of dog.
 
 Finally, the last type of dog that can have goat formula without any problem is the Australian Shepherd. This is because they are also a very versatile breed of dog and are able to adapt to different types of food.
 
@@ -127,7 +129,7 @@ But, you [need to remember that goats are herbivores and their milk is not inten
 
 As such, goat milk should only be given to your dog in limited quantities as a treat or supplement, not as a replacement for their regular dog food.
 
-There are a few alternative milk products that are safe for dogs. These include coconut milk, almond milk, soy milk, and rice milk.
+There are a few alternative milk products that are safe for dogs. These include coconut milk, almond milk, soy milk, and rice milk. Interestingly, [sheep can also drink raw goat's milk](/can-sheep-drink-raw-goats-milk/) when alternative milk sources are needed.
 
 However, it's always best to consult with your veterinarian before giving your dog any new food or supplement, including alternative milk products.
 

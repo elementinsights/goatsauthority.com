@@ -54,7 +54,7 @@ In this article, we will answer all of your questions regarding goats and Lyme d
 
 Despite that, it's important to note that not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
 
-However, if a goat is not treated for Lyme disease, the infection can spread to the joints, heart, and nervous system, which can eventually lead to death.
+However, if a goat is not treated for Lyme disease, the infection can spread to the joints, heart, and [nervous system](/can-a-goat-get-a-concussion/), which can eventually lead to death.
 
 ## What is Lyme disease and how is it transmitted to goats?
 
@@ -68,7 +68,7 @@ The bacteria Borrelia burgdorferi, which causes Lyme disease, is [transferred to
 
 In goats, an aberrant change in gait, marked by a stiff, stilted walk, is the most typical sign of Lyme disease. Lameness or joint discomfort is frequently present in addition to this.
 
-Fever, a loss of appetite, and lethargic behavior are further signs of Lyme disease. Lyme disease can cause renal failure and even death in extreme situations.
+Fever, a loss of appetite, and [lethargic behavior](/can-a-goat-get-sick-from-cold/) are further signs of Lyme disease. Lyme disease can cause renal failure and even death in extreme situations.
 
 it's critical to get veterinarian care as soon as you suspect that your goat has Lyme disease. Most [goats recover completely](/can-goats-recover-from-polio-without-medication/) with prompt care.
 
@@ -100,7 +100,7 @@ Therefore, if you suspect that your goat may have contracted Lyme disease, you [
 
 There are a number of different treatments available for Lyme disease in goats, and they are generally effective.
 
-The most common treatment is antibiotics, which can be administered either orally or intravenously.
+The most common treatment is [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/), which can be administered either orally or intravenously.
 
 In some cases, more aggressive treatment may be necessary, such as hospitalization and intravenous antibiotic therapy. But, with prompt and proper treatment, most goats make a full recovery from Lyme disease.
 
@@ -132,13 +132,13 @@ Not only can ticks transmit deadly diseases to goats, but they can also be a maj
 
 They are most commonly found in warm, humid environments and often attach themselves to animals, such as goats, in order to feed.
 
-Ticks can transmit a number of diseases to goats, including Lyme disease, anaplasmosis, and ehrlichiosis. These diseases can cause fever, weakness, and lethargy in [affected goats](/can-weather-affect-goats-poop/).
+Ticks can transmit a number of diseases to goats, including Lyme disease, anaplasmosis, and ehrlichiosis. These [diseases](/can-any-diseases-spread-from-swine-to-goats/) can cause fever, weakness, and lethargy in [affected goats](/can-weather-affect-goats-poop/).
 
 In some cases, the diseases can be fatal.
 
-Ticks can also transmit other parasites, such as worms, to goats. Therefore, it's important to take measures to prevent ticks from infesting your goat herd.
+Ticks can also transmit other parasites, such as [worms](/can-goats-get-worms-from-acorns/), to goats. Therefore, it's important to take measures to prevent ticks from infesting your goat herd.
 
-Some steps you can take include maintaining a clean and well-ventilated barn, treating your goats with tick prevention products, and regularly inspecting your goats for ticks.
+Some steps you can take include maintaining a clean and well-ventilated barn, treating your goats with [tick prevention products](/can-goat-lice-go-into-a-dormant-stage/), and regularly inspecting your goats for ticks.
 
 ## Final Thoughts
 

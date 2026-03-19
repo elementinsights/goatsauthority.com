@@ -56,7 +56,7 @@ In this article, we will answer all of your questions regarding goats and diarrh
 
 However, it's important to remember that not all humans who come into contact with these animals will develop diarrhea. In fact, most people will not experience any symptoms at all.
 
-it's only when a person's immune system is weak or they have another underlying health condition that they may be more susceptible to developing diarrhea after coming into contact with goats.
+it's only when a person's immune system is weak or they have another [underlying health condition](/can-goats-have-a-stroke-anemia/) that they may be more susceptible to developing diarrhea after coming into contact with goats.
 
 ## What are the symptoms of diarrhea caused by contact with goats?
 
@@ -79,7 +79,7 @@ If you experience any of these symptoms after coming into contact with goats, it
 
 You should contact your doctor if you experience any of the above symptoms after coming into contact with goats. They will be able to confirm whether or not you have contracted a bacterial infection and prescribe the appropriate course of treatment.
 
-They may also recommend that you stay hydrated by drinking plenty of fluids and eating small, frequent meals. In severe cases, hospitalization may be necessary in order to receive intravenous fluids and other treatment.
+They may also recommend that you stay hydrated by drinking plenty of fluids and eating small, frequent meals. In severe cases, hospitalization may be necessary in order to receive [intravenous fluids](/can-baby-goats-have-any-electrolytes/) and other treatment.
 
 ## How can you prevent diarrhea from goats?
 
@@ -89,7 +89,7 @@ This means washing your hands thoroughly after coming into contact with goats or
 
 You should also avoid consuming raw milk or unpasteurized dairy products from goats. Pasteurization kills the bacteria that can cause diarrhea.
 
-it's also a good idea to have your goats checked for parasites on a regular basis. Your veterinarian can prescribe deworming medication that will help to keep the animals healthy and free of parasites.
+it's also a good idea to have your goats checked for parasites on a regular basis. Your veterinarian can prescribe [deworming medication](/can-you-deworm-a-pregnant-goat/) that will help to keep the animals healthy and free of parasites.
 
 Finally, you should make sure that your goats have access to clean food and water. This will help to prevent them from becoming infected with bacteria or parasites.
 
