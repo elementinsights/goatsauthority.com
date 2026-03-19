@@ -1,0 +1,55 @@
+---
+interface Props {
+  winner: { name: string; image: string; rating: string; score: string; ctaUrl: string };
+  loser: { name: string; image: string; rating: string; score: string; ctaUrl: string };
+  summary: string;
+}
+const { winner, loser, summary } = Astro.props;
+const winnerStars = Math.round(parseFloat(winner.rating));
+const loserStars = Math.round(parseFloat(loser.rating));
+---
+
+<div class="widget sidebar-verdict">
+
+  <h3 class="widget-title">Quick Verdict</h3>
+  <div class="verdict-winner">
+    <div class="verdict-badge">Winner</div>
+    <div class="verdict-winner-img">
+      <img src={winner.image} alt={winner.name} loading="lazy" />
+    </div>
+    <div class="verdict-winner-name">{winner.name}</div>
+    <div class="verdict-winner-rating"><span class="stars">{'★'.repeat(winnerStars)}{'☆'.repeat(5 - winnerStars)}</span> <span class="rating-text">{winner.rating}</span></div>
+    <div class="verdict-winner-score">Our Rating: {winner.score}</div>
+    <a href={winner.ctaUrl} class="verdict-cta">Check Price</a>
+  </div>
+  <div class="verdict-divider">vs.</div>
+  <div class="verdict-loser">
+    <div class="verdict-loser-img">
+      <img src={loser.image} alt={loser.name} loading="lazy" />
+    </div>
+    <div class="verdict-loser-name">{loser.name}</div>
+    <div class="verdict-loser-rating"><span class="stars">{'★'.repeat(loserStars)}{'☆'.repeat(5 - loserStars)}</span> <span class="rating-text">{loser.rating}</span></div>
+    <div class="verdict-loser-score">Our Rating: {loser.score}</div>
+    <a href={loser.ctaUrl} class="verdict-cta">Check Price</a>
+  </div>
+  <div class="verdict-summary">
+    <p>{summary}</p>
+  </div>
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: block;
+  }
+</style>
