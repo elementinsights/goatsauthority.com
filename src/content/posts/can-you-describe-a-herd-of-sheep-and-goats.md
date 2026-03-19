@@ -48,7 +48,9 @@ In this article, we will answer your questions and give you some tips on how to 
 
 ## Can you describe a herd of sheep and goats?
 
-**You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock. A flock is a group of animals that live together. Sheep and goats are social animals, and they live in flocks.**
+**You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock.**
+
+**A flock is a group of animals that live together. Sheep and goats are social animals, and they live in flocks.**
 
 Flock and herd are not only words used to describe a group of sheep and goats but they can be applied more generally to any group of animals.
 
@@ -88,7 +90,9 @@ Both sheep and goats play an important role in the ecosystem by eating plants th
 
 Sheep and goats are often kept together, but they are actually two different species. Both are members of the Bovidae family, which includes animals such as cows, buffalo, and antelope.
 
-Despite that, sheep are more closely related to deer, and goats are more closely related to cows. Though they share some similarities, there are also some important differences between these two animals. For example, sheep are grazers and goats are browsers.
+Despite that, sheep are more closely related to deer, and goats are more closely related to cows. Though they share some similarities, there are also some important differences between these two animals.
+
+For example, sheep are grazers and goats are browsers.
 
 This means that sheep prefer to eat grasses and other plants that grow close to the ground, while goats prefer to eat leaves and other vegetation that is higher up.
 

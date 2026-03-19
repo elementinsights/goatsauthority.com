@@ -23,7 +23,7 @@ toc:
     href: "#can-i-milk-a-goat-without-an-udder"
   - label: "Is there a difference between male and female goats when it comes to forming udders?"
     href: "#is-there-a-difference-between-male-and-female-goats-when-it-comes-to-forming-udders"
-  - label: "How can you tell if a goat has an udder or not – are there any physical signs that you can look for?"
+  - label: "How can you tell if a goat has an udder or not, are there any physical signs that you can look for?"
     href: "#how-can-you-tell-if-a-goat-has-an-udder-or-not-are-there-any-physical-signs-that-you-can-look-for"
   - label: "Final Thoughts"
     href: "#final-thoughts"
@@ -44,7 +44,9 @@ Some people say that it's possible, while others believe that it's not. The jury
 
 ## Can a goat form an udder without being pregnant?
 
-**A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy. It can be caused by a hormonal imbalance, stress, or even just coming into contact with a baby goat. The goat's brain is tricked into thinking it's pregnant and will start to produce milk.**
+**A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy.**
+
+**It can be caused by a hormonal imbalance, stress, or even just coming into contact with a baby goat. The goat's brain is tricked into thinking it's pregnant and will start to produce milk.**
 
 The udder will swell just like it would if the goat was pregnant and about to give birth. Pseudopregnancy is not harmful to the goat and usually goes away on its own after a few weeks.
 
@@ -58,7 +60,9 @@ When the goat is not feeding her young, the milk is stored in the udder and kept
 
 ## Do all goats have udders?
 
-Not all goats have udders. Male goats, or bucks, usually don't have udders. Some does, or female goats may be born without udders or may develop partial udders.
+Not all goats have udders. Male goats, or bucks, usually don't have udders.
+
+Some does, or female goats may be born without udders or may develop partial udders.
 
 Udders may also differ in size and shape between breeds of goat. Nigerian Dwarf goats, for example, typically have smaller udders than dairy goats.
 
@@ -92,7 +96,9 @@ Male goats, or billies, generally have larger and more muscular bodies than fema
 
 When it comes to their reproductive organs, billies have larger testicles and their penis has a baculum or bone. This bone helps to support the goat during breeding.
 
-Female goats, or nannies, typically have smaller bodies and shorter horns. Unlike billies, their horns tend to curve inward. Nannies also do not have a baculum. Instead, they have a small opening at the tip of their penis called a papilla.
+Female goats, or nannies, typically have smaller bodies and shorter horns. Unlike billies, their horns tend to curve inward.
+
+Nannies also do not have a baculum. Instead, they have a small opening at the tip of their penis called a papilla.
 
 Both male and female goats have two teats or breasts, which are located just behind the front legs. However, only female goats produce milk.
 
@@ -100,17 +106,23 @@ So, what about udders? Male goats do have udders, but they are much smaller than
 
 Female goats’ udders are larger and have four compartments that each produce milk. The milk produced by each compartment drains into a common duct before being released through the teat.
 
-Male goats also lack another key reproductive organ found in females – the ovaries. Without ovaries, billies cannot produce offspring. So, when it comes to forming udders, there's a big difference between male and female goats.
+Male goats also lack another key reproductive organ found in females, the ovaries. Without ovaries, billies cannot produce offspring.
 
-## How can you tell if a goat has an udder or not – are there any physical signs that you can look for?
+So, when it comes to forming udders, there's a big difference between male and female goats.
 
-When most people think of goats, they picture a farm animal with long, furry ears and a short snout. However, not all goats are created equal. One of the most notable differences between breeds is the presence or absence of an udder.
+## How can you tell if a goat has an udder or not, are there any physical signs that you can look for?
 
-An udder is a fleshy protrusion that hangs down from the lower jaw and is typically used to store excess fat. While all male goats have an udder, not all females do. To determine whether a goat has an udder, you can look for several physical signs.
+When most people think of goats, they picture a farm animal with long, furry ears and a short snout. However, not all goats are created equal.
+
+One of the most notable differences between breeds is the presence or absence of an udder.
+
+An udder is a fleshy protrusion that hangs down from the lower jaw and is typically used to store excess fat. While all male goats have an udder, not all females do.
+
+To determine whether a goat has an udder, you can look for several physical signs.
 
 One of the most obvious indicators of an udder is the presence of a dewlap. This is a flap of skin that hangs down from the neck, and it's often more pronounced in goats with an udder.
 
-Another sign to look for is jowls – these are the fatty deposits that can be seen hanging from the lower jaw.
+Another sign to look for is jowls, these are the fatty deposits that can be seen hanging from the lower jaw.
 
 Finally, if you gently lift up the skin on a goat's neck, you should be able to feel a small protuberance near the jawline. This protuberance is the glandular tissue that makes up the udder.
 
@@ -118,4 +130,6 @@ While not all goats have this physical trait, it's a good way to tell if a goat 
 
 ## Final Thoughts
 
-Overall, there's a big difference between male and female goats when it comes to forming udders. Male goats cannot produce offspring, so they do not need an udder. Female goats, on the other hand, do need an udder in order to produce milk.
+Overall, there's a big difference between male and female goats when it comes to forming udders. Male goats cannot produce offspring, so they do not need an udder.
+
+Female goats, on the other hand, do need an udder in order to produce milk.

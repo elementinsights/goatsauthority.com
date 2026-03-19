@@ -48,7 +48,9 @@ In this article, we will answer all of your questions regarding goats and their 
 
 ## Can goats have 36 Protein Blocks?
 
-**Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein. The rest of their diet should be made up of other nutrients, such as carbohydrates, fats, vitamins, and minerals.**
+**Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein.**
+
+**The rest of their diet should be made up of other nutrients, such as carbohydrates, fats, vitamins, and minerals.**
 
 On top of that, goats should not be given more than 3 pounds of hay per day. This is because too much hay can lead to digestive problems, such as bloat and diarrhea.
 
@@ -68,9 +70,13 @@ In order for the body to manufacture enzymes and hormones, repair and regenerate
 
 So, goats can produce high-quality protein from fodder that is of low grade. For both people and animals, this makes them a fantastic source of nutrients.
 
-There are three main types of protein blocks for goats: legume, grass, and grain. Legume protein blocks are made from soybeans, alfalfa, or clover. They are high in fiber and fat, and they provide essential vitamins and minerals.
+There are three main types of protein blocks for goats: legume, grass, and grain. Legume protein blocks are made from soybeans, alfalfa, or clover.
 
-Grass protein blocks are made from [Timothy hay](/can-goats-eat-timothy-hay/), orchard grass, or bermudagrass. They are lower in fiber than legume blocks, but they are higher in calcium. Grain protein blocks are made from corn, oats, barley, or wheat.
+They are high in fiber and fat, and they provide essential vitamins and minerals.
+
+Grass protein blocks are made from [Timothy hay](/can-goats-eat-timothy-hay/), orchard grass, or bermudagrass. They are lower in fiber than legume blocks, but they are higher in calcium.
+
+Grain protein blocks are made from corn, oats, barley, or wheat.
 
 They are higher in energy than other types of protein blocks, making them ideal for growing goats or during periods of high activity.
 
@@ -82,7 +88,9 @@ For example, growing kids or pregnant does will need more energy than [adult goa
 
 [Goats need to eat a variety of different plants](/can-goats-eat-any-plant/) in order to get all the nutrients they need. However, there are some basic guidelines that you can follow when it comes to [feeding goats](/can-baking-soda-cause-urinary-issues-in-goats/).
 
-For example, adult [goats should consume about 2-3% of their body weight](/can-sheep-eat-goat-food/) in dry food per day. This includes both hay and grain. As for protein, goats need around 14-18% protein in their diet. This can be provided by things like alfalfa hay, soybeans, or even cottonseeds.
+For example, adult [goats should consume about 2-3% of their body weight](/can-sheep-eat-goat-food/) in dry food per day. This includes both hay and grain.
+
+As for protein, goats need around 14-18% protein in their diet. This can be provided by things like alfalfa hay, soybeans, or even cottonseeds.
 
 If you're ever unsure about how much of something to [feed your goat](/can-a-goat-feed-quads/), it's always best to err on the side of caution and give them a little less rather than a little more. Too much food can lead to health problems just as easily as too little food.
 
@@ -114,18 +122,30 @@ It is crucial to note that goat protein blocks are not a complete feed, and shou
 
 ## How to store goat protein blocks?
 
-Goat protein blocks are an important part of a goat's diet. They provide the necessary protein and nutrients that [goats need to stay healthy and grow](/can-i-grow-goats-for-cashmere-and-angola/). But how do you store them?
+Goat protein blocks are an important part of a goat's diet. They provide the necessary protein and nutrients that [goats need to stay healthy and grow](/can-i-grow-goats-for-cashmere-and-angola/).
 
-Protein blocks should be stored in a cool, dry place. If they are exposed to moisture, they will absorb it and become hard. This can make it [difficult for goats to eat them](/can-a-goat-eat-too-many-dewormer-pellets/). Once a block is wet, it should be thrown away.
+But how do you store them?
 
-Goats should have access to fresh water at all times. A [water bowl](/can-i-treat-coccidia-in-goats-in-their-water-bowl/) or trough should be placed near their food so they can drink whenever they want. Protein blocks can dehydrate goats, so it's important to provide plenty of water.
+Protein blocks should be stored in a cool, dry place. If they are exposed to moisture, they will absorb it and become hard.
 
-Blocks can last for several months if stored properly. But if they start to break down or become infested with insects, they should be thrown away. Inspect your blocks regularly and discard any that are damaged or no longer usable.
+This can make it [difficult for goats to eat them](/can-a-goat-eat-too-many-dewormer-pellets/). Once a block is wet, it should be thrown away.
+
+Goats should have access to fresh water at all times. A [water bowl](/can-i-treat-coccidia-in-goats-in-their-water-bowl/) or trough should be placed near their food so they can drink whenever they want.
+
+Protein blocks can dehydrate goats, so it's important to provide plenty of water.
+
+Blocks can last for several months if stored properly. But if they start to break down or become infested with insects, they should be thrown away.
+
+Inspect your blocks regularly and discard any that are damaged or no longer usable.
 
 With proper storage, goat protein blocks can be a nutritious and convenient way to feed your goats. Just be sure to keep them dry, and provide plenty of [water for your goats to drink](/can-horses-drink-water-that-has-goat-poop-in-it/).
 
 ## Final Thoughts
 
-Goats don't need a lot of protein, but it is an important part of their diet. Protein blocks are a convenient and easy way to provide goats with the nutrients they need. Just be sure to store them properly, and provide plenty of water for your [goats to drink](/can-goats-drink-cows-milk/).
+Goats don't need a lot of protein, but it is an important part of their diet. Protein blocks are a convenient and easy way to provide goats with the nutrients they need.
 
-Goats are interesting creatures, and there is a lot to learn about them. If you have any questions about goats, be sure to ask a goat expert. They can help you determine the best way to care for your goats and keep them healthy.
+Just be sure to store them properly, and provide plenty of water for your [goats to drink](/can-goats-drink-cows-milk/).
+
+Goats are interesting creatures, and there is a lot to learn about them. If you have any questions about goats, be sure to ask a goat expert.
+
+They can help you determine the best way to care for your goats and keep them healthy.

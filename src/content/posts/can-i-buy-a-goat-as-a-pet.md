@@ -37,16 +37,21 @@ faq:
   - question: "What to feed your pet goat?"
     answer: "There is no single answer to the question of what to feed your pet goat, as different factors will affect the type of diet that is best for your specific animal. Some general principles, however, can help guide you in making the right choices for your goat's nutrition."
 ---
+We all know that dogs are a man’s best friend. But what about goats?
 
-We all know that dogs are a man’s best friend. But what about goats? Can you buy a goat as a pet? And if so, how can you take care of it?
+Can you buy a goat as a pet? And if so, how can you take care of it?
 
 In this article, we’ll tell you everything you need to know about buying and taking care of a pet goat. We will provide tips on what to look for when choosing a goat as well as how to care for it properly.
 
 ## Can I buy a goat as a pet?
 
-**You can purchase a goat as a pet from many different places. The best place to start looking is your local farm supply store or online. There are also many breeders who specialize in goats and can ship them directly to your home.**
+**You can purchase a goat as a pet from many different places. The best place to start looking is your local farm supply store or online.**
 
-When choosing a goat, it’s crucial to pick one that is friendly and docile. You also want to make sure the goat is healthy and has no medical problems. Once you’ve found the perfect goat, it’s time to start thinking about how to take care of it.
+**There are also many breeders who specialize in goats and can ship them directly to your home.**
+
+When choosing a goat, it’s crucial to pick one that is friendly and docile. You also want to make sure the goat is healthy and has no medical problems.
+
+Once you’ve found the perfect goat, it’s time to start thinking about how to take care of it.
 
 ## What do you need to know before buying a pet goat?
 

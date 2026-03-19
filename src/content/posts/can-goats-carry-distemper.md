@@ -62,13 +62,17 @@ Distemper is a highly contagious viral disease that affects a wide range of anim
 
 The disease is caused by a virus belonging to the family Paramyxoviridae, which also includes viruses that cause measles and mumps in humans.
 
-Distemper is typically spread through close contact with an infected animal, or contact with contaminated surfaces. There's no specific treatment for distemper, and it's often fatal, particularly in puppies and kittens. vaccination is the best way to prevent the disease.
+Distemper is typically spread through close contact with an infected animal, or contact with contaminated surfaces. There's no specific treatment for distemper, and it's often fatal, particularly in puppies and kittens.
+
+vaccination is the best way to prevent the disease.
 
 ## What are the symptoms of distemper in goats?
 
 Distemper in goats is a highly contagious disease that can have serious consequences. Early symptoms include fever, runny nose, and watery eyes.
 
-As the disease progresses, [goats may develop a cough](/can-old-goats-develop-rickets/), pneumonia, and diarrhea. In severe cases, distemper can lead to seizures and even death. vaccination is the best way to prevent goats from contracting distemper.
+As the disease progresses, [goats may develop a cough](/can-old-goats-develop-rickets/), pneumonia, and diarrhea. In severe cases, distemper can lead to seizures and even death.
+
+vaccination is the best way to prevent goats from contracting distemper.
 
 However, if a goat does become infected, prompt treatment by a goat expert is essential. With prompt treatment, many [goats will recover from distemper](/can-goats-recover-from-polio-without-medication/) and go on to live healthy lives.
 
@@ -76,9 +80,13 @@ However, if a goat does become infected, prompt treatment by a goat expert is es
 
 Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal.
 
-Despite that, early diagnosis and [treatment of symptoms](/can-a-goat-get-rabies/) can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea. If your goat shows any of these signs, call a goat expert immediately.
+Despite that, early diagnosis and [treatment of symptoms](/can-a-goat-get-rabies/) can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
 
-Treatment will focus on supportive care, such as hydration and nutrition. In severe cases, hospitalization may be necessary. Unfortunately, there's no vaccine available for goats, so the best way to prevent distemper is to maintain a clean and healthy environment.
+If your goat shows any of these signs, call a goat expert immediately.
+
+Treatment will focus on supportive care, such as hydration and nutrition. In severe cases, hospitalization may be necessary.
+
+Unfortunately, there's no vaccine available for goats, so the best way to prevent distemper is to maintain a clean and healthy environment.
 
 ## Can goats recover from distemper?
 
@@ -86,7 +94,9 @@ Many goats will recover from distemper if they receive prompt treatment. However
 
 If your goat has contracted a distemper, call a goat expert immediately and follow their instructions. With prompt treatment and supportive care, many [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
-Distemper is a highly contagious and potentially fatal disease that can [affect goats](/can-weather-affect-goats-poop/). If your goat shows any signs of distemper, call a goat expert immediately. With prompt treatment, many goats will make a full recovery.
+Distemper is a highly contagious and potentially fatal disease that can [affect goats](/can-weather-affect-goats-poop/). If your goat shows any signs of distemper, call a goat expert immediately.
+
+With prompt treatment, many goats will make a full recovery.
 
 ## Can I vaccinate my goats against distemper?
 

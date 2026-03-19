@@ -48,7 +48,9 @@ In this article, we will answer those questions about ibuprofen and goats, so yo
 
 ## Can ibuprofen be given to lactating goats?
 
-**Ibuprofen can be administered to a breastfeeding goat, but only with the advice and consent of a goat expert. Ibuprofen can enter the milk and harm infants and children. A lactating goat may also be given acetaminophen, but it is less effective than ibuprofen.**
+**Ibuprofen can be administered to a breastfeeding goat, but only with the advice and consent of a goat expert. Ibuprofen can enter the milk and harm infants and children.**
+
+**A lactating goat may also be given acetaminophen, but it is less effective than ibuprofen.**
 
 On top of that, ibuprofen may decrease milk production in some lactating goats. If you are considering giving ibuprofen to a lactating goat, be sure to consult with a goat expert first.
 

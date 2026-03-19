@@ -39,28 +39,39 @@ faq:
   - question: "What are the risks associated with goats eating potato shavings?"
     answer: "There are a few risks associated with goats eating potato shavings. The most serious is the possibility of choking. Potato shavings are small and dry, and if a goat inhales them, they could get caught in its throat and block the airway."
 ---
+We are all aware that goats have different digestive systems from humans. What can they consume, then, and what can they not?
 
-We are all aware that goats have different digestive systems from humans. What can they consume, then, and what can they not? You might also be asking if goats can consume potato shavings. What specific information do you require, if so?
+You might also be asking if goats can consume potato shavings. What specific information do you require, if so?
 
 In order for you to fully understand what goats can and cannot eat, we will address any of your questions about their nutrition. Additionally, we'll discuss why goats can eat potato shavings in this article.
 
 ## Can goats eat potato shavings?
 
-**Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things. The main reason that goats can eat potato shavings is that their intestines are long. This allows them to digest roughage better than other animals.**
+**Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things.**
 
-While goats can eat potato shavings, you should not give them too much. Too much of anything is not good for them, and this includes potato shavings. You should also make sure that the potato shavings are fresh. If they are old, they could [cause digestive problems for the goat](/can-alfalfa-pellets-cause-goats-to-bloat/).
+**The main reason that goats can eat potato shavings is that their intestines are long. This allows them to digest roughage better than other animals.**
 
-Now that you know goats can eat potato shavings, you might be wondering what else they can eat. Goats are actually very versatile when it comes to their diet. They can eat a variety of things, including grass, hay, vegetables, fruit, and even some types of grain.
+While goats can eat potato shavings, you should not give them too much. Too much of anything is not good for them, and this includes potato shavings.
+
+You should also make sure that the potato shavings are fresh. If they are old, they could [cause digestive problems for the goat](/can-alfalfa-pellets-cause-goats-to-bloat/).
+
+Now that you know goats can eat potato shavings, you might be wondering what else they can eat. Goats are actually very versatile when it comes to their diet.
+
+They can eat a variety of things, including grass, hay, vegetables, fruit, and even some types of grain.
 
 Of course, you should always consult with a goat expert before making any changes to your goat's diet. They will be able to give you the best advice for your specific situation.
 
-Overall, goats can eat potato shavings without any problems. Despite that, you should not give them too much and you should make sure that the potato shavings are fresh. If you have any questions about your goat's diet, you should consult with a goat expert.
+Overall, goats can eat potato shavings without any problems. Despite that, you should not give them too much and you should make sure that the potato shavings are fresh.
+
+If you have any questions about your goat's diet, you should consult with a goat expert.
 
 ## Why goats can eat potato shavings?
 
 Goats are able to eat potato shavings because they have a four-chamber stomach. The first chamber, the rumen, ferments the food and breaks down cellulose.
 
-The second chamber, the reticulum, filters out large pieces of undigested food. The third chamber, the omasum, absorbs water and nutrients. The fourth chamber, the abomasum, is where digestion occurs.
+The second chamber, the reticulum, filters out large pieces of undigested food. The third chamber, the omasum, absorbs water and nutrients.
+
+The fourth chamber, the abomasum, is where digestion occurs.
 
 This unique stomach system [allows goats to digest food](/can-goats-digest-cotton/) that other animals cannot, such as potato shavings. On top of that, [goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/) due to their strong digestive system and lack of taste buds.
 
@@ -78,7 +89,9 @@ They are absorbent and help to keep the goat's environment clean and comfortable
 
 ## What are the risks associated with goats eating potato shavings?
 
-There are a few risks associated with goats eating potato shavings. The most serious is the possibility of choking. Potato shavings are small and dry, and if a goat inhales them, they could get caught in its throat and block the airway.
+There are a few risks associated with goats eating potato shavings. The most serious is the possibility of choking.
+
+Potato shavings are small and dry, and if a goat inhales them, they could get caught in its throat and block the airway.
 
 Another risk is that the potato shavings could become lodged in the [goat's intestines](/can-i-eat-goat-intestine-during-pregnancy/) and cause an obstruction. This could lead to serious health problems or even death.
 
@@ -98,11 +111,15 @@ Goats can consume a range of items, but there are also some things they should s
 
 Despite this, it does not follow that [everything they eat is in fact healthy](/can-goats-eat-everything/) for them. You must understand what your [goat can and cannot eat](/can-goats-eat-grapes/) if you want to keep them healthy.
 
-One of the main [things that goats need to avoid](/can-a-dog-get-sick-from-a-goat/) is anything that is poisonous. This includes plants like azaleas, rhododendrons, and yew. You need to remove these plants from your goat's environment and make sure they do not have access to them.
+One of the main [things that goats need to avoid](/can-a-dog-get-sick-from-a-goat/) is anything that is poisonous. This includes plants like azaleas, rhododendrons, and yew.
+
+You need to remove these plants from your goat's environment and make sure they do not have access to them.
 
 In addition, you should avoid [feeding your goat](/can-baking-soda-cause-urinary-issues-in-goats/) any kind of processed food or junk food as this can upset their stomach and lead to health problems.
 
-While there are some things that goats need to avoid, there are also many things that they can eat. Goats are herbivores and their diet should consist mostly of hay, grass, and other plants. They also enjoy eating fruits and vegetables as treats.
+While there are some things that goats need to avoid, there are also many things that they can eat. Goats are herbivores and their diet should consist mostly of hay, grass, and other plants.
+
+They also enjoy eating fruits and vegetables as treats.
 
 Some of the best fruits and vegetables for goats include apples, carrots, celery, and grapes. If you are ever unsure about whether or not something is safe for your [goat to eat](/can-goats-eat-watermelon/), it is always best to err on the side of caution and refrain from feeding it to them.
 

@@ -37,8 +37,9 @@ faq:
   - question: "Are there any alternative methods for drenching adult goats?"
     answer: "There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option."
 ---
+Taking care of goats can be a rewarding experience. But, there are certain things you need to know in order to do it properly.
 
-Taking care of goats can be a rewarding experience. But, there are certain things you need to know in order to do it properly. One of those things is how to properly feed them.
+One of those things is how to properly feed them.
 
 One question that often comes up is whether or not you can use a kid feeding tube to drench an adult goat.
 
@@ -52,7 +53,9 @@ In addition, you'll [need to make sure the tube is long enough to reach the bott
 
 Kid feeding tubes are typically made of flexible plastic or rubber. They have a small diameter, which makes them ideal for drenching goats.
 
-The process of drenching a goat is relatively simple. First, you'll need to mix the appropriate amount of liquid with the correct type of food. Next, you'll need to insert the tube into the goat's mouth and down their throat.
+The process of drenching a goat is relatively simple. First, you'll need to mix the appropriate amount of liquid with the correct type of food.
+
+Next, you'll need to insert the tube into the goat's mouth and down their throat.
 
 Once the tube is in place, you'll need to slowly pour the liquid into the tube. The goat will then drink the liquid and it will go into their stomach.
 
@@ -77,7 +80,7 @@ However, when used correctly, these tubes can help ensure the health and well-be
 
 For many people, the thought of using a kid feeding tube to drench an adult goat may seem a bit daunting.
 
-After all, kid feeding tubes are typically designed to make it easy for kids – or young animals – to take in their [feedings or medications](/can-pregnant-goats-eat-medicated-feed/).
+After all, kid feeding tubes are typically designed to make it easy for kids, or young animals, to take in their [feedings or medications](/can-pregnant-goats-eat-medicated-feed/).
 
 However, while the process may take a bit of trial and error to get right, there are several practical steps that you can follow in order to successfully use a kid feeding tube to drench an adult goat.
 

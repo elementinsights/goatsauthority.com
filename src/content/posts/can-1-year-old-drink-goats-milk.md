@@ -29,7 +29,7 @@ toc:
     href: "#can-you-use-lactose-free-goat-milk-formula"
   - label: "Is Goat Milk Safe For Babies With Eczema?"
     href: "#is-goat-milk-safe-for-babies-with-eczema"
-  - label: "Goat Milk vs. Cow Milk – Which Is Better?"
+  - label: "Goat Milk vs. Cow Milk. Which Is Better?"
     href: "#goat-milk-vs-cow-milk-which-is-better"
   - label: "How To Choose Goat Milk For A Baby?"
     href: "#how-to-choose-goat-milk-for-a-baby"
@@ -68,9 +68,13 @@ Furthermore, [goat's milk](/can-sheep-drink-raw-goats-milk/) falls short in prov
 
 ## Is Goat Milk Safe For Babies and Toddlers?
 
-Goat milk formula is often presented as a healthier option compared to the conventional cow milk formula. It's known for being gentler on delicate digestive systems and causing fewer allergies. However, there are some valid concerns about its usage as a formula.
+Goat milk formula is often presented as a healthier option compared to the conventional cow milk formula. It's known for being gentler on delicate digestive systems and causing fewer allergies.
 
-While goat milk contains less lactose and casein (common allergens in cow milk formula), it also has a lower iron content. Iron is vital for a child's growth and development, so children who consume only [goat milk formula](/can-baby-kittens-drink-goats-milk/) may need iron supplementation. Additionally, [goat milk's higher fat content may prove challenging for some infants to digest](/can-goats-digest-anything/).
+However, there are some valid concerns about its usage as a formula.
+
+While goat milk contains less lactose and casein (common allergens in cow milk formula), it also has a lower iron content. Iron is vital for a child's growth and development, so children who consume only [goat milk formula](/can-baby-kittens-drink-goats-milk/) may need iron supplementation.
+
+Additionally, [goat milk's higher fat content may prove challenging for some infants to digest](/can-goats-digest-anything/).
 
 ## When Can Babies Have Goat Milk?
 
@@ -116,7 +120,7 @@ However, it's important to note that every baby is unique and their reaction to 
 
 Additionally, it's crucial to understand that goat milk does contain allergens and may trigger a reaction in some babies with eczema.
 
-## Goat Milk vs. Cow Milk – Which Is Better?
+## Goat Milk vs. Cow Milk. Which Is Better?
 
 The question of whether goat milk is safe for infants with eczema has been a source of much discussion. Proponents of goat milk often claim it is easier to digest than cow's milk and could provide comfort to eczema-sufferers.
 
@@ -182,6 +186,8 @@ Goat milk has a distinct protein composition and is easier for some toddlers to 
 
 So, what's the deal with goat milk for the little ones? If you're considering this option for your 1-year-old, it's essential to approach it with caution.
 
-A pediatrician's guidance is crucial in this scenario. Introduce the milk gradually and pay close attention to your child's reaction. Remember, each child is unique and their bodies may respond differently to goat milk.
+A pediatrician's guidance is crucial in this scenario. Introduce the milk gradually and pay close attention to your child's reaction.
+
+Remember, each child is unique and their bodies may respond differently to goat milk.
 
 Ultimately, the choice to include it in their diet should be based on their specific needs and dietary restrictions.

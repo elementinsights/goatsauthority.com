@@ -37,8 +37,9 @@ faq:
   - question: "What treatments are available for both goat and human lice infestations?"
     answer: "Lice are small, wingless insects that feed on human blood. They are a common problem in schools and daycare centers and can be passed from person to person through close contact."
 ---
+We all know those goat lice are a problem for our goats, but can you get them from your goats? or can they live on humans?
 
-We all know those goat lice are a problem for our goats, but can you get them from your goats? or can they live on humans? And if so, what are the signs, symptoms, and treatments?
+And if so, what are the signs, symptoms, and treatments?
 
 In this article, we will answer all of your questions about goat lice and humans, so you can keep your family safe and healthy.
 
@@ -52,15 +53,21 @@ So, while it's technically possible for goat lice to live on humans, it's unlike
 
 ## What are goat lice, and how do they differ from human lice?
 
-Goat lice are tiny parasitic insects that feed on the blood of goats. There are three main types of goat lice: chewing lice, sucking lice, and biting lice. Chewing lice are the most common type of goat lice, and they live in the hair follicles of the [goat's skin](/can-a-dairy-goats-udder-skin-have-varying-colors/).
+Goat lice are tiny parasitic insects that feed on the blood of goats. There are three main types of goat lice: chewing lice, sucking lice, and biting lice.
+
+Chewing lice are the most common type of goat lice, and they live in the hair follicles of the [goat's skin](/can-a-dairy-goats-udder-skin-have-varying-colors/).
 
 Sucking [lice feed on the blood of the goat](/can-goat-lice-go-into-a-dormant-stage/), and they live on the surface of the skin. Biting lice are larger than chewing and sucking lice, and they bite the skin of the [goat to feed](/can-baking-soda-cause-urinary-issues-in-goats/) on their blood.
 
 Goat lice can cause a variety of problems for goats, including hair loss, itching, and skin irritation. In severe cases, goat lice can lead to anemia and even death.
 
-Human lice are different from goat lice in a few key ways. First, human lice live on different parts of the body than goat lice. Human head lice live in the hair on the head, while human body lice live in clothing.
+Human lice are different from goat lice in a few key ways. First, human lice live on different parts of the body than goat lice.
 
-Second, human lice are much smaller than goat lice. Third, human lice feed on different things than goat lice. Head lice feed on human blood, while body lice feed on dead skin cells.
+Human head lice live in the hair on the head, while human body lice live in clothing.
+
+Second, human lice are much smaller than goat lice. Third, human lice feed on different things than goat lice.
+
+Head lice feed on human blood, while body lice feed on dead skin cells.
 
 Finally, human lice do not cause nearly as many problems for humans as goat lice can cause for goats. Head lice may cause itching and hair loss, but they do not usually lead to serious [health problems in humans](/can-a-goat-get-addicted-to-human-urine/).
 
@@ -90,7 +97,9 @@ In addition to treating human lice, there are also a number of products availabl
 
 These products must be applied directly to the animal, and [care should be taken to avoid contact with humans or other animals](/can-goats-die-from-lymes/).
 
-As with human lice, it's crucial to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur. In severe cases, oral ivermectin may be necessary.
+As with human lice, it's crucial to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur.
+
+In severe cases, oral ivermectin may be necessary.
 
 ## How can you prevent your family from getting infected with goat lice in the first place?
 
@@ -110,18 +119,26 @@ If you think you or someone in your family has a goat lice infestation, you need
 
 Left untreated, lice infestations can cause serious health problems. Your doctor will likely prescribe a course of treatment that includes using a topical insecticide and combing the lice and eggs out of your hair.
 
-If you have goats, it's also important to treat them for lice. Goats should be treated with a pesticide such as a diazinon or fipronil. These products must be applied directly to the animal, and care should be taken to avoid contact with humans or other animals.
+If you have goats, it's also important to treat them for lice. Goats should be treated with a pesticide such as a diazinon or fipronil.
 
-As with human lice, it's important to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur. In severe cases, oral ivermectin may be necessary.
+These products must be applied directly to the animal, and care should be taken to avoid contact with humans or other animals.
+
+As with human lice, it's important to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur.
+
+In severe cases, oral ivermectin may be necessary.
 
 By taking these steps, you can help prevent the spread of goat lice and protect your family's health.
 
 ## Final Thoughts
 
-Overall, goat lice are not a serious threat to human health. However, they can cause a lot of discomforts and should be treated as soon as possible. If you think you or someone in your family has a lice infestation, see a doctor or other medical professional for treatment.
+Overall, goat lice are not a serious threat to human health. However, they can cause a lot of discomforts and should be treated as soon as possible.
+
+If you think you or someone in your family has a lice infestation, see a doctor or other medical professional for treatment.
 
 Left untreated, lice infestations can cause serious health problems. In addition to treating human lice, there are also several products available for treating goat lice.
 
 Goat lice infestations are treated with pesticides such as diazinon or fipronil. These products must be applied directly to the animal, and care should be taken to avoid contact with humans or other animals.
 
-As with human lice, it's important to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur. In severe cases, oral ivermectin may be necessary.
+As with human lice, it's important to retreat after 7-10 days to prevent re-infestation. Nit combs can also be used to remove lice and eggs from the animal's fur.
+
+In severe cases, oral ivermectin may be necessary.

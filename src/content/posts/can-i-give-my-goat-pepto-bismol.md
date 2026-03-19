@@ -62,7 +62,7 @@ Pepto Bismol is a popular over-the-counter medication that is used to treat upse
 
 The main ingredients of Pepto Bismol include bismuth subsalicylate, as well as inactive ingredients like flavors and dyes.
 
-In addition to its medicinal effects, the active ingredient in Pepto Bismol—bismuth subsalicylate—also happens to have a pinkish tint that gives the medication its distinctive color.
+In addition to its medicinal effects, the active ingredient in Pepto Bismol, bismuth subsalicylate, also happens to have a pinkish tint that gives the medication its distinctive color.
 
 Because of its effectiveness in soothing digestive problems and its beneficial coloring properties, Pepto Bismol has become one of the most popular remedies for stomach aches and nausea worldwide.
 

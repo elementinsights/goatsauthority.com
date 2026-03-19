@@ -46,7 +46,9 @@ In this article, we will answer these questions for you, as well as provide you 
 
 ## Can alpacas have Nutri Drench for goats?
 
-**Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal. This is due to their long intestines, which extract a greater amount of nutrients from vegetation. Alpacas also have a four-chamber stomach that ferments food for longer.**
+**Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal.**
+
+**This is due to their long intestines, which extract a greater amount of nutrients from vegetation. Alpacas also have a four-chamber stomach that ferments food for longer.**
 
 However, it's important to note that alpacas should not have too much Nutri Drench. Too much of this supplement can lead to obesity and other health problems.
 
@@ -76,7 +78,9 @@ Despite that, it's always best to consult with a livestock expert before startin
 
 Nutri Drench is a nutritional supplement that is designed for goats. It's a liquid supplement that contains vitamins, minerals, and amino acids.
 
-Nutri Drench is administered orally, and there are no known side effects. However, it's crucial to follow the recommended dosage when giving Nutri Drench to goats. Overdosing goats on Nutri
+Nutri Drench is administered orally, and there are no known side effects. However, it's crucial to follow the recommended dosage when giving Nutri Drench to goats.
+
+Overdosing goats on Nutri
 
 Drench can lead to health problems such as diarrhea, bloating, and liver damage. Therefore, you must consult with a livestock expert before giving Nutri Drench to goats.
 
@@ -104,19 +108,27 @@ Alpacas and goats are both browsers, meaning that they primarily eat leaves, twi
 
 For example, alpacas are more efficient at [digesting cellulose than goats](/can-goats-digest-anything/), meaning that they can get more nutrients from the same amount of food. In addition, alpacas have four stomachs that work together to break down their food, while goats only have one.
 
-As a result, goats require a higher protein level in their diet than alpacas. For these reasons, it's generally not advisable to feed alpacas leftovers from a [goat's food](/can-sheep-eat-goat-food/) bowl. While they may be able to eat the food, it's unlikely to provide them with the nutrients they need to stay healthy.
+As a result, goats require a higher protein level in their diet than alpacas. For these reasons, it's generally not advisable to feed alpacas leftovers from a [goat's food](/can-sheep-eat-goat-food/) bowl.
+
+While they may be able to eat the food, it's unlikely to provide them with the nutrients they need to stay healthy.
 
 ## How do I know if my alpaca is getting enough nutrients?
 
 Alpacas are camelids that originate from South America. They are historically bred for their fiber, which is used to make clothing and other textiles.
 
-Today, alpacas are also kept as pets. When it comes to their diet, alpacas are herbivores and primarily graze on grass. They also consume hay and other plant-based foods.
+Today, alpacas are also kept as pets. When it comes to their diet, alpacas are herbivores and primarily graze on grass.
+
+They also consume hay and other plant-based foods.
 
 Since they are grazing animals, alpacas require a constant supply of fresh, green vegetation in order to get the nutrients they need. If an alpaca's diet is lacking in nutrients, it can lead to health problems.
 
-There are a few ways to tell if an alpaca is getting enough nutrients. One way is to observe the animal's behavior. If an alpaca is lethargic or seems uninterested in its surroundings, it may be indicative of a nutritional deficiency.
+There are a few ways to tell if an alpaca is getting enough nutrients. One way is to observe the animal's behavior.
 
-Another way to tell if an animal is getting enough nutrients is to look at its coat. Alpacas have thick, luscious fur that should be shiny and free of bald spots. If an animal's coat looks dull or patchy, it could be a sign of a nutrient deficiency.
+If an alpaca is lethargic or seems uninterested in its surroundings, it may be indicative of a nutritional deficiency.
+
+Another way to tell if an animal is getting enough nutrients is to look at its coat. Alpacas have thick, luscious fur that should be shiny and free of bald spots.
+
+If an animal's coat looks dull or patchy, it could be a sign of a nutrient deficiency.
 
 Lastly, you can have your alpaca's blood tested by a livestock expert to check for nutrient levels. By doing this, you can ensure that your alpaca is getting the nutrition it needs to stay healthy and thrive.
 

@@ -50,7 +50,7 @@ In this article, we will answer those questions and provide you with additional 
 
 **Pygmy goats can be potty trained with some effort and consistency on your part. The process will be easier if you start training them when they're young and if you have multiple goats, as they will learn from each other.**
 
-As with any type of animal, there are always going to be accidents – but with [Pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/), these will be fewer and farther between if you put in the time to train them properly.
+As with any type of animal, there are always going to be accidents, but with [Pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/), these will be fewer and farther between if you put in the time to train them properly.
 
 In addition, it's crucial to note that not all [Pygmy goats](/can-a-pygmy-goat-take-care-of-triplets/) will be equally easy to potty train. Some may pick it up quickly, while others may need more time and patience.
 
@@ -59,7 +59,7 @@ In addition, it's crucial to note that not all [Pygmy goats](/can-a-pygmy-goat-t
 When potty training pygmy goats, there are a few things you need to keep in mind, such as:
 
 - Make sure you have a designated area for them to go to the bathroom. This can be a small fenced-in area with grass or straw, for example.
-- Take them to this designated area regularly – at least once per day – and encourage them to relieve themselves there. You can do this by placing food or treats in the area.
+- Take them to this designated area regularly, at least once per day, and encourage them to relieve themselves there. You can do this by placing food or treats in the area.
 - When they do relieve themselves in the designated area, praise them and give them a treat. This will reinforce positive behavior.
 - If they have an accident, clean it up immediately and do not scold them. This will only make them scared and less likely to want to use the designated area in the future.
 - Be patient and consistent with your training, as it may take some time for them to fully understand what you're trying to teach them.

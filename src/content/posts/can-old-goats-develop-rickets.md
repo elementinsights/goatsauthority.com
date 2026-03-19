@@ -50,15 +50,21 @@ In this article, we will answer those questions about old goats and rickets. We 
 
 ## Can old goats develop rickets?
 
-**Old goats can develop rickets. This is a condition that affects the bones and causes them to become weak and deformed. It is most common in young children, but it can also occur in adults, including older adults and seniors.**
+**Old goats can develop rickets. This is a condition that affects the bones and causes them to become weak and deformed.**
 
-However, rickets is not as common in goats as it is in other animals, such as sheep and cows. And it is even less common in older goats than in younger ones. But it can still happen, so it's important to be aware of the [signs and symptoms](/can-a-goat-get-rabies/).
+**It is most common in young children, but it can also occur in adults, including older adults and seniors.**
+
+However, rickets is not as common in goats as it is in other animals, such as sheep and cows. And it is even less common in older goats than in younger ones.
+
+But it can still happen, so it's important to be aware of the [signs and symptoms](/can-a-goat-get-rabies/).
 
 ## What is rickets and what causes it in old goats?
 
 Rickets is a condition that affects [old goats and other livestock](/can-you-band-a-2-year-old-buck-goat/). It is caused by a lack of certain important nutrients in their diet, usually due to poor-quality feed or exposure to stressful conditions.
 
-Symptoms of rickets include muscle weakness, loss of appetite, stunted growth, and difficulty walking or standing. If left untreated, the goat's health may decline significantly and it may even die. Thankfully, rickets can easily be prevented and treated if caught early on.
+Symptoms of rickets include muscle weakness, loss of appetite, stunted growth, and difficulty walking or standing. If left untreated, the goat's health may decline significantly and it may even die.
+
+Thankfully, rickets can easily be prevented and treated if caught early on.
 
 By feeding [old goats](/can-i-worm-my-three-day-old-goat/) a healthy diet rich in essential nutrients, providing them with plenty of opportunities for exercise, and minimizing stress levels whenever possible, we can help keep this dangerous condition at bay.
 
@@ -70,7 +76,7 @@ You may also notice changes in your goat's skeletal structure, such as bowed leg
 
 Not only can rickets cause much discomfort for your goat and affect its ability to carry out its normal activities, but they can also be quite dangerous if left untreated.
 
-So remember: if you think your goat might have rickets, don't wait – get in touch with a goat expert right away.
+So remember: if you think your goat might have rickets, don't wait, get in touch with a goat expert right away.
 
 ## What are the symptoms of rickets?
 

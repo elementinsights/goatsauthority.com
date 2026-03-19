@@ -48,15 +48,21 @@ In this article, we will answer those questions about whether pygmy goats can ea
 
 ## Can pygmy goats eat hay?
 
-**Pygmy goats can eat hay because it is a good source of fiber. In fact, hay is essential to the diet of all goats, including pygmy goats. While hay is not as nutritionally dense as fresh grass, it is a more consistent source of food for pygmy goats.**
+**Pygmy goats can eat hay because it is a good source of fiber. In fact, hay is essential to the diet of all goats, including pygmy goats.**
+
+**While hay is not as nutritionally dense as fresh grass, it is a more consistent source of food for pygmy goats.**
 
 In addition to being a good source of fiber, hay also provides pygmy goats with essential vitamins and minerals. Hay is particularly high in calcium, which is important for the health of bones and teeth.
 
 ## What are some things to consider when feeding hay to pygmy goats?
 
-There are two primary types of hay: legume hay and grass hay. Legume hay, for example, alfalfa, consists of more protein than grass hay does. On the other hand, grasses like timothy or Bermuda contain less protein but greater fiber.
+There are two primary types of hay: legume hay and grass hay. Legume hay, for example, alfalfa, consists of more protein than grass hay does.
 
-The amount of hay you feed your pygmy goats will depend on their age, size, and activity level. Adult pygmy goats need about 2% of their body weight in hay per day. For example, if you have a 10-pound (4.5 kg) pygmy goat, they should eat about 0.2 pounds (90 grams) of hay per day.
+On the other hand, grasses like timothy or Bermuda contain less protein but greater fiber.
+
+The amount of hay you feed your pygmy goats will depend on their age, size, and activity level. Adult pygmy goats need about 2% of their body weight in hay per day.
+
+For example, if you have a 10-pound (4.5 kg) pygmy goat, they should eat about 0.2 pounds (90 grams) of hay per day.
 
 If you are feeding hay to [pygmy goats](/can-pygmy-goats-sleep-with-chickens/), it is also important to provide them with fresh water and a source of salt. [Goats need salt to help them absorb the nutrients in the hay](/what-kind-of-hay-do-goats-eat/).
 
@@ -72,7 +78,9 @@ Overall, hay plays a vital role in keeping pygmy goats healthy, strong, and full
 
 ## Are there any risks associated with feeding hay to pygmy goats?
 
-Although pygmy goats require hay in their diet, feeding them too much can be harmful. The first issue is that hay may contain dust or other particles which can inflame the respiratory system. In order to avoid this, you should pick a hay variety that is free of debris and clean.
+Although pygmy goats require hay in their diet, feeding them too much can be harmful. The first issue is that hay may contain dust or other particles which can inflame the respiratory system.
+
+In order to avoid this, you should pick a hay variety that is free of debris and clean.
 
 Second, inspect your hay for mold or other toxins before feeding it to pygmy goats as these can be harmful. If you see any sign of mold or discoloration, don't feed it to the goats.
 

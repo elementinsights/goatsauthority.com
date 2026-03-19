@@ -39,14 +39,17 @@ faq:
   - question: "What are the benefits of feeding oats to goats?"
     answer: "Goats are known for being hardy animals that can survive on a relatively low-quality diet. However, this doesn't mean that they don't benefit from having access to a variety of nutritious foods."
 ---
+Let's take a closer look at some questions about goats. Can goats eat oats?
 
-Let's take a closer look at some questions about goats. Can goats eat oats? What are the benefits and risks associated with feeding them oats, and what would be the appropriate serving size?
+What are the benefits and risks associated with feeding them oats, and what would be the appropriate serving size?
 
 We will answer all those questions in this article and provide you with some feed options for your goats as well.
 
 ## Can goats eat oats?
 
-**Goats can consume oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy. And also, the high vitamin content of oats can help to reduce stress levels and promote a sense of calm.**
+**Goats can consume oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy.**
+
+**And also, the high vitamin content of oats can help to reduce stress levels and promote a sense of calm.**
 
 However, it's important to introduce oats gradually into a goat's diet, as too much of this grain can cause stomach upset. When fed in moderation, oats can be a healthy and nutritious part of a goat's diet.
 
@@ -70,7 +73,9 @@ Just be sure to cook the oats before feeding them to your goat, as raw oats can 
 
 Goats are known for being hardy animals that can survive on a relatively low-quality diet. However, this doesn't mean that they don't benefit from having access to a variety of nutritious foods.
 
-One type of food that goats can enjoy is oats. Oats are a type of cereal grain that is popular among humans and livestock alike. They are a good source of carbohydrates, fiber, vitamins, and minerals. When fed to goats, oats can help to improve their overall health and well-being.
+One type of food that goats can enjoy is oats. Oats are a type of cereal grain that is popular among humans and livestock alike.
+
+They are a good source of carbohydrates, fiber, vitamins, and minerals. When fed to goats, oats can help to improve their overall health and well-being.
 
 Goats require a diet that is high in fiber in order to maintain proper digestive health. Oats are a good source of soluble and insoluble fiber, both of which are essential for goats.
 
@@ -86,13 +91,17 @@ Generally speaking, feeding oats to goats can have a positive impact on their he
 
 While oats are a common food for horses, donkeys, and cows, they are not typically fed to goats. There are a few reasons for this, as goats are more susceptible to some of the risks associated with oats.
 
-One such risk is choking. When goats eat oats, the hulls can swell in their throats and cause them to choke. This is more likely to happen if the oats are not ground up or soaked before feeding. In severe cases, the choke can be fatal.
+One such risk is choking. When goats eat oats, the hulls can swell in their throats and cause them to choke.
+
+This is more likely to happen if the oats are not ground up or soaked before feeding. In severe cases, the choke can be fatal.
 
 Additionally, goats are more likely than other animals to develop something called enterotoxemia after consuming oats. Enterotoxemia is caused by bacteria that live in the gut and produce toxins that can be deadly.
 
 While all animals are susceptible to this condition, goats are particularly prone to it due to their high-fiber diet. For these reasons, it's generally recommended that oats be avoided when feeding goats.
 
-Given the risks associated with feeding oats to goats, many farmers choose to use alternative feeds instead. Hay is a good option, as it's high in fiber and low in sugar. This helps goats stay full without exposing them to the same risks as oats.
+Given the risks associated with feeding oats to goats, many farmers choose to use alternative feeds instead. Hay is a good option, as it's high in fiber and low in sugar.
+
+This helps goats stay full without exposing them to the same risks as oats.
 
 Other options include alfalfa hay, grass hay, and legume hay. Each of these has its own benefits and can be fed alone or mixed with other types of hay to create a balanced diet for goats.
 
@@ -112,9 +121,13 @@ When feeding goats oats, always offer hay as well. Hay will help them maintain t
 
 ## What are oats and where do they come from?
 
-Oats are a type of cereal grain that comes from the plant Avena sativa. The oat plant is a member of the grass family, and it's thought to be native to the Mediterranean region. Oats are harvested in the late summer or early fall, and they can be used in a variety of ways.
+Oats are a type of cereal grain that comes from the plant Avena sativa. The oat plant is a member of the grass family, and it's thought to be native to the Mediterranean region.
 
-Oats can be eaten whole, either as porridge or in baked goods. They can also be ground into flour or processed into flakes. Besides being a food source, oats are also used as animal feed and as a cover crop.
+Oats are harvested in the late summer or early fall, and they can be used in a variety of ways.
+
+Oats can be eaten whole, either as porridge or in baked goods. They can also be ground into flour or processed into flakes.
+
+Besides being a food source, oats are also used as animal feed and as a cover crop.
 
 Oats are nutritious cereal grains that are high in fiber and protein. They are also a good source of vitamins and minerals, including iron and magnesium.
 
@@ -126,7 +139,9 @@ If you're unsure whether your oats are still good, give them a sniff. If they sm
 
 ## Final Thoughts
 
-Goats can eat oats, but there are some risks involved. Oats are high in sugar and can cause enterotoxemia, a condition that is deadly to goats. Oats can also cause choking or digestive upset.
+Goats can eat oats, but there are some risks involved. Oats are high in sugar and can cause enterotoxemia, a condition that is deadly to goats.
+
+Oats can also cause choking or digestive upset.
 
 For these reasons, it's generally recommended that farmers avoid feeding oats to their goats. There are many other options available that can provide goats with the nutrients they need without exposing them to the same risks.
 

@@ -48,9 +48,13 @@ We will answer a few of the most frequently asked questions regarding goats in t
 
 ## Can goats climb 92 degrees?
 
-**Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet. They also have a double-jointed ankle that allows for a greater range of motion.**
+**Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet.**
 
-Despite that, there are some [things that goats can't do](/can-a-dog-get-sick-from-a-goat/). For example, they can't jump very high. Their legs are too short in comparison to their bodies.
+**They also have a double-jointed ankle that allows for a greater range of motion.**
+
+Despite that, there are some [things that goats can't do](/can-a-dog-get-sick-from-a-goat/). For example, they can't jump very high.
+
+Their legs are too short in comparison to their bodies.
 
 ## What breed of goat is best for climbing?
 
@@ -70,7 +74,9 @@ Some [goat owners even choose to keep multiple breeds](/can-a-goat-breed-with-sh
 
 When it comes to goats, there are a few things they love more than climbing. Whether it’s a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces.
 
-While this behavior may seem like simple mischief, there are actually several benefits to letting your [goats climb](/can-a-goat-climb-trees/). For starters, climbing is a great way for goats to stay active and exercise their muscles. Additionally, climbing can help [goats to develop balance](/can-old-goats-develop-rickets/) and coordination.
+While this behavior may seem like simple mischief, there are actually several benefits to letting your [goats climb](/can-a-goat-climb-trees/). For starters, climbing is a great way for goats to stay active and exercise their muscles.
+
+Additionally, climbing can help [goats to develop balance](/can-old-goats-develop-rickets/) and coordination.
 
 Finally, climbing is simply fun for goats, and it can help to reduce boredom and stress levels. So, if you have a few goats on your property, be sure to give them plenty of opportunities to climb and play.
 
@@ -84,7 +90,9 @@ For example, many goat owners choose to build hay bales towers for their animals
 
 If you are interested in giving your goats a hay bale tower of their own, be sure to build it with sturdy materials that can support the weight of your animals. Additionally, make sure the tower is tall enough to give your goats a good workout, but not so tall that they are in danger of injuring themselves.
 
-Another option for [goat owners is to purchase a set of Goat Climbing Pads](/can-a-nubian-goat-climb-trees/). These pads are specifically designed to help goats grip surfaces and stay steady on their feet. They can be placed on walls, fences, or other structures to create a fun climbing area for your animals.
+Another option for [goat owners is to purchase a set of Goat Climbing Pads](/can-a-nubian-goat-climb-trees/). These pads are specifically designed to help goats grip surfaces and stay steady on their feet.
+
+They can be placed on walls, fences, or other structures to create a fun climbing area for your animals.
 
 [Goat climbing pads](/can-goats-climb-fences/) are made from a variety of materials, including rubber, carpet, and fabric. They are typically very durable and can withstand heavy use from even the most enthusiastic climbers.
 
@@ -96,7 +104,9 @@ Do some research to figure out what will work best for your animals and your pro
 
 Before letting your goats climb, there are a few things you should take into consideration.
 
-First, goats are naturally curious animals and will likely want to explore any new heights they have access to. This can mean climbing on furniture, fences, or even trees. While goats are sure-footed creatures, there's always the potential for them to fall and injure themselves.
+First, goats are naturally curious animals and will likely want to explore any new heights they have access to. This can mean climbing on furniture, fences, or even trees.
+
+While goats are sure-footed creatures, there's always the potential for them to fall and injure themselves.
 
 If you have any concerns about your goat's safety, it's best to consult with a veterinarian or professional goat keeper before letting them climb.
 
@@ -108,13 +118,17 @@ In addition, it's always a good idea to supervise your goat while they are climb
 
 ## What are the risks of letting goats climb?
 
-There are some risks associated with letting goats climb, such as injury. Goats can fall and break their legs or horns. They can also get caught on something and strangle themselves.
+There are some risks associated with letting goats climb, such as injury. Goats can fall and break their legs or horns.
+
+They can also get caught on something and strangle themselves.
 
 Another risk is that of losing the goat. If a goat gets loose, it may be difficult to find it again, especially if it has climbed to a high place.
 
 Lastly, there's the risk of damaging property. [Goats can cause damage](/can-alfalfa-pellets-cause-goats-to-bloat/) to crops, gardens, and fences.
 
-Despite these risks, many goat owners feel that the [benefits of letting their goats climb](/can-benadryl-hurt-a-goat/) outweigh the dangers. Goats are natural climbers, and it gives them exercise and stimulation. It also helps them to socialize and bond with their owners.
+Despite these risks, many goat owners feel that the [benefits of letting their goats climb](/can-benadryl-hurt-a-goat/) outweigh the dangers. Goats are natural climbers, and it gives them exercise and stimulation.
+
+It also helps them to socialize and bond with their owners.
 
 ## How to prevent your goats from climbing?
 

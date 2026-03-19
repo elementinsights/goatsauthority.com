@@ -46,13 +46,19 @@ In this article, we will answer those questions about goat milk for people with 
 
 ## Can someone allergic to milk use goats milk?
 
-**People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk. The proteins in goat milk are different from the proteins in cow's milk, so it's possible that you may not be allergic to goat milk.**
+**People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk.**
+
+**The proteins in goat milk are different from the proteins in cow's milk, so it's possible that you may not be allergic to goat milk.**
 
 Despite that, it's always best to consult with your allergist or doctor first before trying [goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/). They can help you determine if you're actually allergic to cow's milk proteins or if you have other food allergies that could make [drinking goat milk](/can-you-drink-goat-milk-while-pregnant/) problematic.
 
-There are a few things to consider if you decide to [drink goat milk](/can-baby-kittens-drink-goats-milk/). First, make sure that the goat milk is pasteurized. This will help reduce the risk of foodborne illness.
+There are a few things to consider if you decide to [drink goat milk](/can-baby-kittens-drink-goats-milk/). First, make sure that the goat milk is pasteurized.
 
-Second, some people find that [goat milk](/can-children-have-goat-milk-ayurveda/) has a strong flavor. If you're not used to [drinking goat milk](/can-dogs-drink-goat-milk-everyday/), start by mixing it with other liquids, such as water or juice. You can also try using goat milk in recipes that call for cow's milk.
+This will help reduce the risk of foodborne illness.
+
+Second, some people find that [goat milk](/can-children-have-goat-milk-ayurveda/) has a strong flavor. If you're not used to [drinking goat milk](/can-dogs-drink-goat-milk-everyday/), start by mixing it with other liquids, such as water or juice.
+
+You can also try using goat milk in recipes that call for cow's milk.
 
 ## What is goat milk and what are the benefits of drinking it?
 

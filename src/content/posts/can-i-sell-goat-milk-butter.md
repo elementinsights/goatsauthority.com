@@ -48,7 +48,9 @@ In this article, we will go over everything you need to know about selling goat 
 
 ## Can I sell goat milk butter?
 
-**You can sell goat milk butter because of the 2018 Farm Bill. This bill legalized the interstate sale of raw milk and raw milk products. So, as long as you are following the regulations set out in the bill, you can sell your goat milk butter.**
+**You can sell goat milk butter because of the 2018 Farm Bill. This bill legalized the interstate sale of raw milk and raw milk products.**
+
+**So, as long as you are following the regulations set out in the bill, you can sell your goat milk butter.**
 
 In addition to the 2018 Farm Bill, there are also state laws that you need to be aware of. Each state has its own set of laws governing the sale of raw milk and raw milk products.
 
@@ -56,7 +58,9 @@ So, it is important to check with your state’s Department of Agriculture to se
 
 ## What do I need to consider when selling goat milk butter?
 
-There are a few things you need to consider when selling goat milk butter. First, you need to make sure that your product is safe. You can do this by testing your goat milk for bacteria before you make the butter.
+There are a few things you need to consider when selling goat milk butter. First, you need to make sure that your product is safe.
+
+You can do this by testing your goat milk for bacteria before you make the butter.
 
 You also need to make sure that your product is labeled correctly. The label should include the name of the product, the ingredients, the weight, and the date of manufacture.
 

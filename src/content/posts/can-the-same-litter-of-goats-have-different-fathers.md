@@ -39,14 +39,17 @@ faq:
   - question: "How to take care of your goat during pregnancy?"
     answer: "Assuming that your goat is in good health, there are several important things to keep in mind during her pregnancy."
 ---
+Taking care of a family of goats can be a lot of fun. If you're thinking about breeding your goats, you may be wondering if the same litter of goats can have different fathers.
 
-Taking care of a family of goats can be a lot of fun. If you're thinking about breeding your goats, you may be wondering if the same litter of goats can have different fathers. And if so, what are the things you need to consider?
+And if so, what are the things you need to consider?
 
 In this article, we will answer the question, "Can the same litter of goats have different fathers?" and discuss some of the things you need to know about goat breeding.
 
 ## Can the same litter of goats have different fathers?
 
-**It is possible for the same litter of goats to have different fathers. This is because goats are induced ovulators, which means that they can be bred at any time of the year. They are also polyestrous, meaning they can have multiple breeding cycles in a year.**
+**It is possible for the same litter of goats to have different fathers. This is because goats are induced ovulators, which means that they can be bred at any time of the year.**
+
+**They are also polyestrous, meaning they can have multiple breeding cycles in a year.**
 
 So, if you have a doe that is bred multiple times in a year, it is possible for her to have multiple litters with different fathers.
 
@@ -54,7 +57,9 @@ Of course, this is not the only factor to consider when determining whether the 
 
 For example, younger does tend to have shorter breeding cycles than older does. This means that they are more likely to have multiple litters in a year with different fathers.
 
-Likewise, the time of year can also affect [goat breeding](/can-a-goat-breed-with-sheep/). Does are more likely to have multiple litters in the spring and summer months than in the fall and winter months. This is because they are able to breed more often during the warmer months.
+Likewise, the time of year can also affect [goat breeding](/can-a-goat-breed-with-sheep/). Does are more likely to have multiple litters in the spring and summer months than in the fall and winter months.
+
+This is because they are able to breed more often during the warmer months.
 
 So, if you have a doe that is bred multiple times in a year, it is possible for her to have multiple litters with different fathers. However, the age of the doe and the time of year also play a role in [goat breeding](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/).
 

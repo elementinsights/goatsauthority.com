@@ -46,7 +46,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I use temperature to tell if my goat is in heat?
 
-**You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners. They are also relatively accurate when it comes to determining if a doe is in heat.**
+**You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners.**
+
+**They are also relatively accurate when it comes to determining if a doe is in heat.**
 
 In addition to taking your goat's temperature, you will also need to be on the lookout for other [signs and symptoms](/can-a-goat-get-rabies/) of heatstroke. These can include changes in behavior, such as restlessness, increased appetite, and excessive urination.
 
@@ -104,7 +106,9 @@ Some people argue that a change in body temperature could be an indication that 
 
 For example, several studies have shown that average core body temperatures actually drop during the birthing process, suggesting that a drop in temperature may be one indicator of active labor.
 
-There are also physical symptoms that commonly show that a goat is pregnant and about to give birth. For example, the stomach may be bloated, and the goat may pace around restlessly. You can check for these signs by carefully touching or feeling the mother-to-be's stomach.
+There are also physical symptoms that commonly show that a goat is pregnant and about to give birth. For example, the stomach may be bloated, and the goat may pace around restlessly.
+
+You can check for these signs by carefully touching or feeling the mother-to-be's stomach.
 
 Furthermore, there are certain behavioral changes to look out for as well, such as persistently licking at her udder or pacing around her pen.
 
@@ -130,6 +134,8 @@ You can use a thermometer to help determine if your goat is pregnant, but it sho
 
 There are a number of other physical signs to look out for, and you should always consult with a goat expert if you have any questions about your goat's health. When it comes to caring for a newborn kid goat, there are a few key things to keep in mind.
 
-First, you need to provide a comfortable and safe environment. Second, you should give the kid regular feedings. Third, monitor the kid's health closely. And fourth, make sure the kid gets plenty of time outside to play and explore.
+First, you need to provide a comfortable and safe environment. Second, you should give the kid regular feedings.
+
+Third, monitor the kid's health closely. And fourth, make sure the kid gets plenty of time outside to play and explore.
 
 By following these tips, you can help ensure that your [newborn goat receives the best care possible](/can-i-grow-goats-for-cashmere-and-angola/) and grows into a strong and healthy adult.

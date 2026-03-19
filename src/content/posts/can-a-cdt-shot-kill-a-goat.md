@@ -48,7 +48,9 @@ Lastly, we'll also explore the different types of CDT vaccines available, as wel
 
 ## Can a CDT shot kill a goat?
 
-**it's possible for a CDT shot to kill a goat. The most common cause of death from a CDT shot is septicemia, which is an infection of the bloodstream. Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound.**
+**it's possible for a CDT shot to kill a goat. The most common cause of death from a CDT shot is septicemia, which is an infection of the bloodstream.**
+
+**Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound.**
 
 The bacteria then multiply in the blood, causing inflammation and damage to the organs. Left untreated, septicemia can be fatal.
 
@@ -88,7 +90,9 @@ The bacterium produces toxins that cause muscle spasms, paralysis, and eventuall
 
 The effects of the CDT shot on goats are generally positive. The shot helps to protect against three serious diseases: cholera, diphtheria, and tetanus.
 
-The most common side effect is soreness at the injection site. In rare cases, the vaccine can cause an allergic reaction or septicemia. Tetanus is another potential risk, but it can be prevented by vaccinating goats against CDT.
+The most common side effect is soreness at the injection site. In rare cases, the vaccine can cause an allergic reaction or septicemia.
+
+Tetanus is another potential risk, but it can be prevented by vaccinating goats against CDT.
 
 Furthermore, the CDT shot is an important vaccine that helps to protect against two potentially deadly diseases. Overall, the benefits of the CDT shot outweigh the risks.
 
@@ -148,4 +152,6 @@ The signs of CDT include lethargy, loss of appetite, diarrhea, dehydration, and 
 
 The CDT shot is a core vaccine for goats and should be given on a regular basis to help prevent this deadly disease.
 
-Overall, the CDT shot is a safe and effective way to protect your goats from this potentially deadly disease. However, as with any vaccine, there's always a small risk of side effects. If you have any concerns about the CDT shot, be sure to talk to your veterinarian before administering the vaccine to your goats.
+Overall, the CDT shot is a safe and effective way to protect your goats from this potentially deadly disease. However, as with any vaccine, there's always a small risk of side effects.
+
+If you have any concerns about the CDT shot, be sure to talk to your veterinarian before administering the vaccine to your goats.

@@ -46,17 +46,25 @@ We shall delve into the subject of feeding goats in this article and respond to 
 
 ## Can a goat feed Quads?
 
-**Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem. The number of teats on a goat does not determine how much milk she can produce.**
+**Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem.**
 
-Some goats with just two teats can produce more milk than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads. If this is the case, you will need to supplement with bottle-feeding.
+**The number of teats on a goat does not determine how much milk she can produce.**
+
+Some goats with just two teats can produce more milk than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads.
+
+If this is the case, you will need to supplement with bottle-feeding.
 
 ## What breed of goat usually has quadruplets?
 
 There are many breeds of goats, yet not all of them are known for having quadruplets. One breed that is particularly well-known for this is the Saanen goat.
 
-Saanen goats are a dairy breed, and they are known for their high milk production. But, they are also known for their prolific breeding. It's not uncommon for a Saanen doe (female goat) to have quadruplets, and in some cases, even more.
+Saanen goats are a dairy breed, and they are known for their high milk production. But, they are also known for their prolific breeding.
 
-This high reproductive rate is one of the reasons why Saanen goats are so popular on dairy farms. In addition to their high milk production, they can quickly replenish the herd with new offspring. As an outcome, Saanen goats are an important part of the dairy industry.
+It's not uncommon for a Saanen doe (female goat) to have quadruplets, and in some cases, even more.
+
+This high reproductive rate is one of the reasons why Saanen goats are so popular on dairy farms. In addition to their high milk production, they can quickly replenish the herd with new offspring.
+
+As an outcome, Saanen goats are an important part of the dairy industry.
 
 Other breeds of goat can also have quadruplets. These include the Alpine, LaMancha, and Nubian.
 
@@ -72,7 +80,9 @@ Goats are creatures of habit and prefer to eat the same things every day. A good
 
 Goats also need access to fresh water at all times. When it comes to feeding goats, more is not better.
 
-Overfeeding can lead to health problems, such as digestive issues and obesity. Instead, goats should be fed twice a day, with each meal providing about 1-2% of the goat's body weight in dry food. For example, a 50-pound goat should eat about one pound of food per day.
+Overfeeding can lead to health problems, such as digestive issues and obesity. Instead, goats should be fed twice a day, with each meal providing about 1-2% of the goat's body weight in dry food.
+
+For example, a 50-pound goat should eat about one pound of food per day.
 
 ## What are some of the benefits of feeding goats?
 
@@ -80,11 +90,17 @@ Goats are often thought of as unruly animals that eat anything in sight, but the
 
 In addition to grass, hay, and straw, goats also like to eat fruit and vegetables. Most goats also enjoy a handful of grain each day.
 
-Goats are interesting creatures with unique eating habits. For example, did you know that goats actually have four stomachs? That's right - goats have four stomachs that work together to help them digest their food.
+Goats are interesting creatures with unique eating habits. For example, did you know that goats actually have four stomachs?
+
+That's right - goats have four stomachs that work together to help them digest their food.
 
 The first two stomachs store the food that the goat has eaten. The third stomach breaks down the food, and the fourth stomach absorbs nutrients from the food.
 
-So what are some of the benefits of feeding goats? First, it helps them to stay healthy and strong. Second, it helps them to produce milk that is high in nutrients. Third, it helps them to produce meat that is lean and nutritious. Finally, it helps to keep their coat soft and healthy.
+So what are some of the benefits of feeding goats? First, it helps them to stay healthy and strong.
+
+Second, it helps them to produce milk that is high in nutrients. Third, it helps them to produce meat that is lean and nutritious.
+
+Finally, it helps to keep their coat soft and healthy.
 
 ## How can you tell if a goat is malnourished or not getting enough to eat?
 
@@ -94,27 +110,41 @@ As a result, it's crucial to make sure that goats have access to a healthy diet 
 
 There are several signs that you can look for to tell if a goat is not getting enough to eat, including weight loss, lethargy, and a dull coat. If you suspect that your goat is not getting enough to eat, be sure to consult with an animal expert to create a plan of action.
 
-Generally speaking, goats need a diet that is high in fiber and low in sugar. Goats should also have access to fresh water at all times. A healthy diet is essential for keeping goats happy and healthy, so be sure to do your research and consult with experts if you have any questions.
+Generally speaking, goats need a diet that is high in fiber and low in sugar. Goats should also have access to fresh water at all times.
+
+A healthy diet is essential for keeping goats happy and healthy, so be sure to do your research and consult with experts if you have any questions.
 
 ## How can you prevent your goat from becoming malnourished in the first place?
 
 Pay attention to the following five areas to keep your goat healthy and free from malnutrition.
 
-First, make sure you are providing enough food and water. Goats are browsers and require a diet that is high in fiber. But, they also need a source of energy, so their diet should include a mix of hay, pasture, and grain.
+First, make sure you are providing enough food and water. Goats are browsers and require a diet that is high in fiber.
+
+But, they also need a source of energy, so their diet should include a mix of hay, pasture, and grain.
 
 And also, goats need access to fresh water at all times. Check their water for cleanliness and debris, and consider using a water heater in cold weather.
 
-Second, keep an eye on your goat's body condition. A healthy goat will have a firm body with no visible bones or ribs. You should also be able to feel their spine and ribs when you run your hand along their side.
+Second, keep an eye on your goat's body condition. A healthy goat will have a firm body with no visible bones or ribs.
 
-Third, pay attention to your goat's coat. A healthy coat should be dense and shiny. If you notice that your goat's coat is dry or brittle, it may be a sign of malnutrition.
+You should also be able to feel their spine and ribs when you run your hand along their side.
 
-Fourth, take note of your goat's appetite. A healthy goat will have a strong appetite and will eat its food eagerly. If you notice that your goat is not eating as much as usual, it may be a sign of an underlying health problem.
+Third, pay attention to your goat's coat. A healthy coat should be dense and shiny.
 
-Lastly, watch for changes in your goat's behavior. A healthy goat will be active and playful. If you notice that your goat is lethargic or seems withdrawn, it may be a sign of illness.
+If you notice that your goat's coat is dry or brittle, it may be a sign of malnutrition.
+
+Fourth, take note of your goat's appetite. A healthy goat will have a strong appetite and will eat its food eagerly.
+
+If you notice that your goat is not eating as much as usual, it may be a sign of an underlying health problem.
+
+Lastly, watch for changes in your goat's behavior. A healthy goat will be active and playful.
+
+If you notice that your goat is lethargic or seems withdrawn, it may be a sign of illness.
 
 ## What should you do if you think your goat isn't getting enough to eat?
 
-There are certain things you may do if you believe your goat is not receiving enough food. Make sure there's adequate food on hand first. If food is readily available yet your goat isn't eating it, there can be a medical explanation.
+There are certain things you may do if you believe your goat is not receiving enough food. Make sure there's adequate food on hand first.
+
+If food is readily available yet your goat isn't eating it, there can be a medical explanation.
 
 Be sure to visit a veterinarian with your goat to rule out any potential health issues. If there are no health issues and there's still a plentiful supply of food, it can simply be a matter of preference.
 

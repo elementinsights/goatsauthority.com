@@ -52,7 +52,9 @@ In this article, we will answer all of your questions about feeding gum tree lea
 
 ## Can goats eat gum tree leaves?
 
-**Leafy gum trees are edible to goats. They might even find the taste enjoyable. Goats can benefit from the minerals included in gum tree leaves, which are also beneficial to their health. You don't have to worry about them getting sick because they are low-risk food.**
+**Leafy gum trees are edible to goats. They might even find the taste enjoyable.**
+
+**Goats can benefit from the minerals included in gum tree leaves, which are also beneficial to their health. You don't have to worry about them getting sick because they are low-risk food.**
 
 Despite that, it's important to note that there are some risks associated with feeding goats gum tree leaves. These leaves can contain toxins that can be harmful to goats if they consume too much of them.
 
@@ -60,9 +62,13 @@ it's crucial to carefully monitor your goats when they are eating leaves from an
 
 ## What are gum trees and what do they look like?
 
-Gum trees are a type of tree that is native to Australia. They are also known as eucalyptus trees. Gum trees can range in height from 30 to 50 feet. They have smooth, bark that is white or gray in color.
+Gum trees are a type of tree that is native to Australia. They are also known as eucalyptus trees.
 
-The leaves of gum trees are narrow and have a blue-green hue. The flowers of gum trees are small and white. The fruit of gum trees is a capsule that contains seeds. Gum trees can live for hundreds of years.
+Gum trees can range in height from 30 to 50 feet. They have smooth, bark that is white or gray in color.
+
+The leaves of gum trees are narrow and have a blue-green hue. The flowers of gum trees are small and white.
+
+The fruit of gum trees is a capsule that contains seeds. Gum trees can live for hundreds of years.
 
 In some parts of Australia, gum trees are considered to be a nuisance because they can prevent other plants from growing.
 
@@ -100,9 +106,13 @@ Chewing gum made from eucalyptus leaves is considered safe, but chewing large am
 
 ## How to harvest and prepare gum tree leaves for goat consumption?
 
-Gum trees are a type of evergreen tree that is native to Australia. The leaves of these trees are high in nutrients and are a favored [food source for goats](/can-sheep-eat-goat-food/). In order to harvest the leaves, it's best to wait until they have fallen from the tree naturally.
+Gum trees are a type of evergreen tree that is native to Australia. The leaves of these trees are high in nutrients and are a favored [food source for goats](/can-sheep-eat-goat-food/).
 
-Once they have fallen, the leaves can be collected and stored for later use. When it comes time to feed the goats, the leaves can be chopped into small pieces and mixed with their regular feed. The leaves can also be used as bedding material, as they are soft and absorbent.
+In order to harvest the leaves, it's best to wait until they have fallen from the tree naturally.
+
+Once they have fallen, the leaves can be collected and stored for later use. When it comes time to feed the goats, the leaves can be chopped into small pieces and mixed with their regular feed.
+
+The leaves can also be used as bedding material, as they are soft and absorbent.
 
 Goat owners should be aware that gum tree leaves can cause digestive upset if they are consumed in large quantities, so it's crucial to start with a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the amount over time.
 
@@ -116,7 +126,9 @@ If you are unsure how much to give your goat, it's best to consult with a veteri
 
 ## Can all kinds of goats eat gum tree leaves?
 
-As with any new food, it's always best to start slowly and increase gradually to avoid any adverse reactions. That said, all kinds of goats can eat gum tree leaves. However, you [need to note that some goats may be more prone to digestive upset](/can-goats-digest-anything/) than others.
+As with any new food, it's always best to start slowly and increase gradually to avoid any adverse reactions. That said, all kinds of goats can eat gum tree leaves.
+
+However, you [need to note that some goats may be more prone to digestive upset](/can-goats-digest-anything/) than others.
 
 If you are unsure how your goat will react to gum tree leaves, it's best to start with a small amount and increase gradually over time.
 

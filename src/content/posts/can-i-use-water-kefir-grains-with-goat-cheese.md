@@ -44,9 +44,13 @@ In this article, we will explore the question of whether or not it is possible t
 
 ## Can I use water kefir grains with goat cheese?
 
-**You can use water kefir grains with goat cheese, but it is not necessary. Goat cheese is a type of cheese that is made from goat milk. Water kefir grains are a type of probiotic that can be used to make a fermented drink.**
+**You can use water kefir grains with goat cheese, but it is not necessary. Goat cheese is a type of cheese that is made from goat milk.**
 
-In addition to water kefir grains, you will need a source of sugar, water, and goat cheese. You can use any type of sugar, but cane sugar is the most commonly used. You will also need a clean glass jar with a tight-fitting lid.
+**Water kefir grains are a type of probiotic that can be used to make a fermented drink.**
+
+In addition to water kefir grains, you will need a source of sugar, water, and goat cheese. You can use any type of sugar, but cane sugar is the most commonly used.
+
+You will also need a clean glass jar with a tight-fitting lid.
 
 ## What are water kefir grains and what are their benefits?
 

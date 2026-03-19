@@ -48,7 +48,9 @@ In this article, we will answer those questions and more so you can keep your ho
 
 ## Can horses drink water that has goat poop in it?
 
-**Horses should not drink water that has goat poop in it. Goat poop can contain harmful bacteria that can make your horse sick. If you must give your horse water that has been contaminated with goat poop, make sure to boil it first to kill any bacteria.**
+**Horses should not drink water that has goat poop in it. Goat poop can contain harmful bacteria that can make your horse sick.**
+
+**If you must give your horse water that has been contaminated with goat poop, make sure to boil it first to kill any bacteria.**
 
 In addition to bacteria, goat poop can also contain parasites that can infect your horse. These parasites can cause severe health problems including colic, diarrhea, and weight loss.
 
@@ -100,7 +102,9 @@ At first glance, it might seem that horses and goats have a lot in common. Both 
 
 However, when we look more closely at their bodies, we can see some key differences between these two animals.
 
-For one thing, horses tend to be much larger than goats. Compared to the average horse, a typical goat is significantly smaller and more compact, with shorter limbs and a stockier build. In addition, horses tend to be faster than goats, due to their long legs and powerful muscles.
+For one thing, horses tend to be much larger than goats. Compared to the average horse, a typical goat is significantly smaller and more compact, with shorter limbs and a stockier build.
+
+In addition, horses tend to be faster than goats, due to their long legs and powerful muscles.
 
 Finally, while both horses and [goats have beautiful coats that vary in color](/can-a-dairy-goats-udder-skin-have-varying-colors/) depending on their breed or species, only the mane of a horse is truly notable; unlike goats who tend to go bareheaded, horses are often seen with flowing, majestic manes that help to set them apart as elegant and regal creatures.
 

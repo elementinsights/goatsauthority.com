@@ -48,7 +48,9 @@ In this article, we will answer those questions for you, as well as provide some
 
 ## Can goats eat brush in winter?
 
-**Goats are actually very good at eating brush, and they can do so year-round. In fact, goats are often used to clear the land of overgrown brush. They are also known to eat other plants, such as tree leaves and bark.**
+**Goats are actually very good at eating brush, and they can do so year-round. In fact, goats are often used to clear the land of overgrown brush.**
+
+**They are also known to eat other plants, such as tree leaves and bark.**
 
 Despite that, it's important to make sure that [goats have access to other food sources](/can-sheep-eat-goat-food/), such as hay and grain. This is because the plants they eat may not have all the nutrients they need.
 
@@ -74,7 +76,9 @@ And because they are able to reach higher branches, goats can also help to contr
 
 As anyone who has ever tried to clear a patch of land knows, the brush can be incredibly stubborn. Fortunately, there's a natural way to get rid of it - by letting goats loose on the property.
 
-Goats are browsers, which means that they like to eat leaves, twigs, and other vegetation. In fact, they can consume up to 3% of their body weight in vegetation each day. This is especially useful for clearing areas that are too steep or uneven to mow.
+Goats are browsers, which means that they like to eat leaves, twigs, and other vegetation. In fact, they can consume up to 3% of their body weight in vegetation each day.
+
+This is especially useful for clearing areas that are too steep or uneven to mow.
 
 And since [goats are able to digest](/can-goats-digest-anything/) most types of vegetation, they can even help to improve the fertility of the soil. Best of all, once the goats have cleared the area, all you need to do is fence them out - no messy clean-up required.
 
@@ -92,7 +96,9 @@ On top of that, it's crucial to keep an eye on the goats when they are grazing. 
 
 ## What should goat owners do if their goats don't want to eat brush in winter?
 
-If your goats don't want to eat brush in winter, there are a few things you can do to encourage them. First, make sure they have plenty of fresh, clean water. Goats are more likely to eat if they're well hydrated.
+If your goats don't want to eat brush in winter, there are a few things you can do to encourage them. First, make sure they have plenty of fresh, clean water.
+
+Goats are more likely to eat if they're well hydrated.
 
 Second, try offering a variety of different types of browsing. Goats can be picky eaters, so offering a range of options may give them the motivation to start eating.
 

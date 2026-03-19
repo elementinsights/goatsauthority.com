@@ -37,20 +37,27 @@ faq:
   - question: "What to feed a goat?"
     answer: "Goats are interesting creatures. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses."
 ---
+Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners.
 
-Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners. Goats will consume almost anything, including paper, plants, clothes, and even furniture. Some even refer to them as "the ultimate omnivores."
+Goats will consume almost anything, including paper, plants, clothes, and even furniture. Some even refer to them as "the ultimate omnivores."
 
-What then makes goats so inclined to nibble on anything they can find? A more pressing question is if there's anything we can do to stop them. In order to get some answers, let's take a closer look at this intriguing creature.
+What then makes goats so inclined to nibble on anything they can find? A more pressing question is if there's anything we can do to stop them.
+
+In order to get some answers, let's take a closer look at this intriguing creature.
 
 ## Why do goats eat everything?
 
-**Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass. Additionally, goats frequently turn to other objects to sate their hunger because there aren't always enough leaves and twigs available.**
+**Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass.**
+
+**Additionally, goats frequently turn to other objects to sate their hunger because there aren't always enough leaves and twigs available.**
 
 This explains why it's common to observe goats chewing on items of furniture, clothing, or even paper. They are merely looking for food; they are not acting in an obnoxious manner.
 
 ## What makes goats eat everything?
 
-Goats are often called "the lawnmowers of the animal kingdom" because they will pretty much eat anything. Goats are browsers, not grazers like cows. This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation.
+Goats are often called "the lawnmowers of the animal kingdom" because they will pretty much eat anything. Goats are browsers, not grazers like cows.
+
+This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation.
 
 As a result, goats will often chew on whatever is around them, including fence posts, trees, and even clothes. Some people think that goats will eat anything because they're curious or mischievous, but the reality is that goats simply have a very different diet than other animals.
 
@@ -66,9 +73,13 @@ Finally, goats should not eat any food that has mold or other fungi growing on i
 
 One of the dangers of letting goats eat everything is that they can destroy your vegetation. Goats are known for their insatiable appetites, and they will usually eat anything that they can reach.
 
-This can include the leaves, stems, and even the roots of your plants. If you have a lot of goats, they can quickly strip your entire garden or field bare. In addition to destroying your vegetation, goats can also cause soil erosion.
+This can include the leaves, stems, and even the roots of your plants. If you have a lot of goats, they can quickly strip your entire garden or field bare.
 
-Their constant grazing can damage the grass, exposing the soil beneath to wind and rain. Over time, this can lead to significant erosion, which can make it difficult for new plants to take root. In severe cases, erosion can also lead to landslides.
+In addition to destroying your vegetation, goats can also cause soil erosion.
+
+Their constant grazing can damage the grass, exposing the soil beneath to wind and rain. Over time, this can lead to significant erosion, which can make it difficult for new plants to take root.
+
+In severe cases, erosion can also lead to landslides.
 
 As a result, it's important to be careful about how many goats you allow to graze in one area. Otherwise, you run the risk of damaging your land.
 
@@ -84,7 +95,9 @@ If you provide them with hay, grass, and other fresh browse, they'll be less lik
 
 Goats are very thirsty creatures and will often eat things simply because they're thirsty. By giving them plenty of food and water, you'll help them stay healthy and satisfied so they won't feel the need to nibble on everything in sight.
 
-Of course, there will still be times when your goats decide to sample something they're not supposed to. In these cases, you'll need to take corrective action. If possible, remove the item in question from their reach.
+Of course, there will still be times when your goats decide to sample something they're not supposed to. In these cases, you'll need to take corrective action.
+
+If possible, remove the item in question from their reach.
 
 If that's not possible or if the item is something like a flower bed or garden, you may need fencing to keep them out. You can also train your goats using positive reinforcement; give them a treat when they don't nibble on something they're not supposed to.
 
@@ -94,15 +107,21 @@ With time and patience, you can train your goats to only eat what's good for the
 
 Goats are interesting creatures. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses.
 
-For example, goats can be used for their milk, meat, and fiber. They can also be used as pack animals or as companions. Regardless of their use, all goats need a balanced diet in order to stay healthy.
+For example, goats can be used for their milk, meat, and fiber. They can also be used as pack animals or as companions.
+
+Regardless of their use, all goats need a balanced diet in order to stay healthy.
 
 A basic goat diet should consist of hay, fresh vegetables, and a small amount of grain. Goat hay is different from other types of hay, so be sure to purchase hay specifically designed for goats.
 
-Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating fruits and berries, so feel free to offer these as treats. When it comes to grain, goats only need a small amount each day.
+Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating fruits and berries, so feel free to offer these as treats.
+
+When it comes to grain, goats only need a small amount each day.
 
 Too much grain can lead to health problems, so it's best to consult with a veterinarian before feeding grain to your goat.
 
-In addition to a balanced diet, goats also need access to clean water at all times. Water plays an important role in helping goats stay hydrated and maintain proper body temperature. It's also essential for digesting food properly.
+In addition to a balanced diet, goats also need access to clean water at all times. Water plays an important role in helping goats stay hydrated and maintain proper body temperature.
+
+It's also essential for digesting food properly.
 
 For these reasons, it's important to ensure that your goat always has access to clean water.
 

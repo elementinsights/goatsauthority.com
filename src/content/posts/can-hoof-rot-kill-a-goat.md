@@ -48,15 +48,21 @@ In this article, we will answer those questions and provide you with everything 
 
 ## Can hoof rot kill a goat?
 
-**Hoof rot can kill a goat. If left untreated, hoof rot can cause sepsis, which is a life-threatening condition. In fact, hoof rot is one of the most common causes of death in goats and other livestock animals and can kill a goat within 48 hours.**
+**Hoof rot can kill a goat. If left untreated, hoof rot can cause sepsis, which is a life-threatening condition.**
 
-Hoof rot is caused by bacteria that invade the tissues of the hoof. The bacteria cause the tissue to break down, which can lead to infection. If the infection spreads to the bloodstream, it can cause sepsis.
+**In fact, hoof rot is one of the most common causes of death in goats and other livestock animals and can kill a goat within 48 hours.**
+
+Hoof rot is caused by bacteria that invade the tissues of the hoof. The bacteria cause the tissue to break down, which can lead to infection.
+
+If the infection spreads to the bloodstream, it can cause sepsis.
 
 Sepsis is a medical emergency and requires immediate treatment. If not treated quickly, sepsis can lead to organ failure and death.
 
 Hoof rot is most commonly seen in goats that are kept in wet and muddy conditions. The bacteria that cause hoof rot thrive in moist environments.
 
-So, if you're wondering, "Can hoof rot kill a goat?", the answer is yes. Hoof rot can kill a goat within 48 hours if left untreated. If you suspect your goat has hoof rot, [it's important to seek goat expert care](/can-a-pygmy-goat-take-care-of-triplets/) immediately. Early treatment is essential for a successful outcome.
+So, if you're wondering, "Can hoof rot kill a goat?", the answer is yes. Hoof rot can kill a goat within 48 hours if left untreated.
+
+If you suspect your goat has hoof rot, [it's important to seek goat expert care](/can-a-pygmy-goat-take-care-of-triplets/) immediately. Early treatment is essential for a successful outcome.
 
 ## What is hoof rot and what causes it in goats?
 

@@ -39,8 +39,9 @@ faq:
   - question: "How is strangles transmitted?"
     answer: "Strangles is a highly contagious disease that can affect horses and other equines. It is caused by the bacteria Streptococcus equi and is transmitted primarily through direct contact with infected animals."
 ---
+Taking care of goats and horses can be a challenging but rewarding experience. Both animals have unique needs and characteristics and have you ever wondered if strangles from horses can be passed to goats?
 
-Taking care of goats and horses can be a challenging but rewarding experience. Both animals have unique needs and characteristics and have you ever wondered if strangles from horses can be passed to goats? And if so, what are the things you need to know?
+And if so, what are the things you need to know?
 
 In this article, we will answer those questions and provide you with additional information about strangles and their transmission.
 
@@ -66,7 +67,9 @@ The symptoms of strangles in goats can vary depending on the strain of bacteria 
 
 In some cases, [goats may also develop a thick mucus discharge](/can-old-goats-develop-rickets/) from their nose and/or abscesses on their skin. These abscesses can rupture and release the pus, which can spread the infection to other animals or people.
 
-If you see any of these symptoms in your goat, quickly call a veterinarian. They will tell you what to do and how to treat the infection before it gets worse. Early treatment is important for preventing sickness and avoiding the virus from spreading.
+If you see any of these symptoms in your goat, quickly call a veterinarian. They will tell you what to do and how to treat the infection before it gets worse.
+
+Early treatment is important for preventing sickness and avoiding the virus from spreading.
 
 Strangles is a serious disease that can be deadly in some cases, so it is crucial to take precautions to prevent its spread.
 

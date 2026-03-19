@@ -43,14 +43,17 @@ faq:
   - question: "How much penicillin can a baby goat safely take?"
     answer: "According to the National Safety Council, the maximum recommended dose of penicillin for a baby goat is 50,000 units per pound of body weight."
 ---
+We all know that penicillin is an antibiotic. It's used to treat bacterial infections.
 
-We all know that penicillin is an antibiotic. It's used to treat bacterial infections. But have you ever wondered if it is safe for baby goats? And if so, can too much penicillin kill them?
+But have you ever wondered if it is safe for baby goats? And if so, can too much penicillin kill them?
 
 In this article, we will answer those questions about penicillin and [baby goats](/can-baby-goats-have-any-electrolytes/). We'll also tell you everything else you need to know about using this antibiotic on your little ones.
 
 ## Can too much penicillin given to baby goat die?
 
-**Too much penicillin can kill your baby goat. This is because penicillin works by killing bacteria. And when there are too many bacteria in the body, it can overwhelm the organs and cause death. They may also suffer from anemia, diarrhea, and vomiting.**
+**Too much penicillin can kill your baby goat. This is because penicillin works by killing bacteria.**
+
+**And when there are too many bacteria in the body, it can overwhelm the organs and cause death. They may also suffer from anemia, diarrhea, and vomiting.**
 
 So, it's important to only give the recommended dosage of penicillin to your baby goat. And if you're not sure how much to give, always ask a goat expert first.
 
@@ -70,7 +73,9 @@ Penicillin is a common antibiotic used to treat bacterial infections in humans a
 
 First, penicillin should only be used if the goat is actually suffering from a bacterial infection. It will not work against viral infections, and using it unnecessarily can lead to the development of antibiotic-resistant bacteria.
 
-Second, care should be taken to avoid overdosing on the goat. The recommended dosage for baby goats is 10-20 milligrams per kilogram of body weight, given two or three times per day. Higher doses may be needed if the goat has a particularly severe infection.
+Second, care should be taken to avoid overdosing on the goat. The recommended dosage for baby goats is 10-20 milligrams per kilogram of body weight, given two or three times per day.
+
+Higher doses may be needed if the goat has a particularly severe infection.
 
 Finally, [penicillin should not be used on pregnant goats](/can-a-pregnant-goat-have-penicillin/) unless absolutely necessary, as it may lead to birth defects.
 
@@ -128,7 +133,9 @@ If your baby goat is allergic to penicillin, there are other antibiotics that ca
 
 Other options include tetracyclines, sulfonamides, and macrolides. A goat expert will be able to recommend the best antibiotic for your baby goat based on their individual needs.
 
-In general, it's important to be aware of the potential side effects of giving a baby goat too much penicillin. If you think your baby goat has been given too much medication, it is important to seek immediate goat expert care. With prompt treatment, the chances of a full recovery are excellent.
+In general, it's important to be aware of the potential side effects of giving a baby goat too much penicillin. If you think your baby goat has been given too much medication, it is important to seek immediate goat expert care.
+
+With prompt treatment, the chances of a full recovery are excellent.
 
 ## Final Thoughts
 

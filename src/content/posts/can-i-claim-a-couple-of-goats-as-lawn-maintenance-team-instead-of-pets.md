@@ -37,8 +37,9 @@ faq:
   - question: "Would it be cheaper to use goats as a lawn maintenance team than traditional methods?"
     answer: "There is no clear answer to the question of whether goats make a better lawn maintenance team than traditional methods like mowing and aeration. On the one hand, goats are able to help maintain a lawn in several key ways."
 ---
+Taking care of goats is a lot of work. Goats are social creatures and need companionship, so you would need to have at least two.
 
-Taking care of goats is a lot of work. Goats are social creatures and need companionship, so you would need to have at least two. They also need a lot of space to roam and explore. If you're thinking of keeping goats as pets, you need to be prepared for the extra work involved.
+They also need a lot of space to roam and explore. If you're thinking of keeping goats as pets, you need to be prepared for the extra work involved.
 
 But, have you ever wondered if you could claim goats as a lawn maintenance team instead of pets? And if so, would it be cheaper?
 
@@ -46,9 +47,13 @@ In this article, we'll explore the possibility of using goats as a lawn maintena
 
 ## Can you claim goats as a lawn maintenance team instead of pets?
 
-**You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you. In fact, some farmers use goats as a natural way to keep their pastures clear.**
+**You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you.**
 
-In addition to their food, goats also consume grass, weeds, and brush. This can help keep your lawn clear of unwanted growth. And, since they're browsers rather than grazers, they don't tend to destroy the grassroots like some other animals.
+**In fact, some farmers use goats as a natural way to keep their pastures clear.**
+
+In addition to their food, goats also consume grass, weeds, and brush. This can help keep your lawn clear of unwanted growth.
+
+And, since they're browsers rather than grazers, they don't tend to destroy the grassroots like some other animals.
 
 ## What are the benefits of using goats as a lawn maintenance team?
 

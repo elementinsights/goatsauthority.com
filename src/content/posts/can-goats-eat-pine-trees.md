@@ -45,8 +45,9 @@ faq:
   - question: "Can a lactating goat eat pine trees?"
     answer: "Lactating goats generally have a very high nutritional demand. They need a diet that is high in energy, protein, and minerals. While goats are known for being able to eat a variety of plants, not all plants are safe for them to consume."
 ---
+Pine trees are a popular source of food for most animals since they are full of nutrients. But, how about your goats?
 
-Pine trees are a popular source of food for most animals since they are full of nutrients. But, how about your goats? Can they eat pine trees too? And if so, what are the benefits and risks?
+Can they eat pine trees too? And if so, what are the benefits and risks?
 
 In this article, we will address all of these questions so that you can make an informed decision about whether or not to feed your goat's pine trees.
 
@@ -54,9 +55,13 @@ In this article, we will address all of these questions so that you can make an 
 
 ## Can goats eat pine trees?
 
-**Goats can consume pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats. They also contain a lot of fiber, which is essential for a goat's diet and helps them stay healthy.**
+**Goats can consume pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats.**
 
-Despite that, it's important to note that pine trees are also a source of toxins. The needles of the pine tree contain a substance called turpentine. This substance is toxic to goats in large amounts and can cause serious health problems.
+**They also contain a lot of fiber, which is essential for a goat's diet and helps them stay healthy.**
+
+Despite that, it's important to note that pine trees are also a source of toxins. The needles of the pine tree contain a substance called turpentine.
+
+This substance is toxic to goats in large amounts and can cause serious health problems.
 
 ## Can a goat eat pine tree seeds?
 
@@ -70,15 +75,21 @@ Although goats are known for their propensity to consume almost everything, preg
 
 Pine trees are one food that pregnant goats should stay away from. Terpenes, a substance found in pine trees, can be hazardous to pregnant goats.
 
-Pine trees can also interfere with the goat's reproductive and digestive systems. It's advised to steer clear of giving pine trees to pregnant goats for these reasons. Remove any pine trees from the goat's pasture if you have a pregnant goat on your property.
+Pine trees can also interfere with the goat's reproductive and digestive systems. It's advised to steer clear of giving pine trees to pregnant goats for these reasons.
+
+Remove any pine trees from the goat's pasture if you have a pregnant goat on your property.
 
 ## Can a lactating goat eat pine trees?
 
-Lactating goats generally have a very high nutritional demand. They need a diet that is high in energy, protein, and minerals. While goats are known for being able to eat a variety of plants, not all plants are safe for them to consume.
+Lactating goats generally have a very high nutritional demand. They need a diet that is high in energy, protein, and minerals.
+
+While goats are known for being able to eat a variety of plants, not all plants are safe for them to consume.
 
 For example, pine trees contain high levels of saponins, which can cause digestive issues in goats. Saponins are Naturally occurring surfactants that can cause problems by binding to proteins and causing them to denature.
 
-This can lead to malnutrition and dehydration. In severe cases, it can even be fatal. For this reason, it's best to avoid feeding pine trees to lactating goats. But, if you do choose to do so, make sure to monitor them closely for any signs of distress.
+This can lead to malnutrition and dehydration. In severe cases, it can even be fatal.
+
+For this reason, it's best to avoid feeding pine trees to lactating goats. But, if you do choose to do so, make sure to monitor them closely for any signs of distress.
 
 ## Can a baby goat eat pine trees?
 
@@ -86,11 +97,15 @@ Baby goats, like all grazing animals, are designed to eat plants. Their mouths a
 
 They also have a four-chamber stomach that ferments the plants they eat, allowing them to extract a lot of nutrients from their food. While this digestive system is very effective at breaking down plant material, it's not designed to deal with tough or woody plants.
 
-This is why pine trees are generally not part of a goat's diet. Pine needles are too tough for goats to chew, and the high resin content can irritate their stomachs. As a result, baby goats should stick to softer plants like grasses, leaves, and herbs.
+This is why pine trees are generally not part of a goat's diet. Pine needles are too tough for goats to chew, and the high resin content can irritate their stomachs.
+
+As a result, baby goats should stick to softer plants like grasses, leaves, and herbs.
 
 ## Do all goats eat pine trees?
 
-Not all goats eat pine trees. In fact, most goats are browsers and prefer to eat leaves, twigs, and other plant matter. Despite that, there are a few species of goats, such as the African bush goat and the Markhor, that will occasionally consume pine needles.
+Not all goats eat pine trees. In fact, most goats are browsers and prefer to eat leaves, twigs, and other plant matter.
+
+Despite that, there are a few species of goats, such as the African bush goat and the Markhor, that will occasionally consume pine needles.
 
 These goats live in regions where pine trees are the dominant form of vegetation, and they have likely developed a taste for pine needles out of necessity.
 
@@ -114,9 +129,13 @@ Finally, pine trees can help to improve the appearance of your pasture or ranch 
 
 Many people enjoy feeding their goats pine trees, as the goats seem to enjoy the taste and it provides them with a source of roughage. Even so, there are some risks associated with this practice.
 
-Pine trees contain aromatic oils that can be toxic to goats if consumed in large quantities. These oils can cause gastrointestinal distress, including vomiting and diarrhea. In severe cases, it can lead to liver damage and death.
+Pine trees contain aromatic oils that can be toxic to goats if consumed in large quantities. These oils can cause gastrointestinal distress, including vomiting and diarrhea.
 
-In addition, pine needles are sharp and can cause injury to the goat's mouth and digestive tract. This can lead to infection and other health problems. For these reasons, it's crucial to be cautious when feeding pine trees to goats and to give them only small quantities at a time.
+In severe cases, it can lead to liver damage and death.
+
+In addition, pine needles are sharp and can cause injury to the goat's mouth and digestive tract. This can lead to infection and other health problems.
+
+For these reasons, it's crucial to be cautious when feeding pine trees to goats and to give them only small quantities at a time.
 
 ## What is the appropriate serving size for goats?
 

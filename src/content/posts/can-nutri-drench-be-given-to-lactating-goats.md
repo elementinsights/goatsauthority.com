@@ -48,11 +48,17 @@ In this article, we will answer those questions regarding giving Nutri Drench to
 
 ## Can Nutri drench be given to lactating goats?
 
-**It is safe to give Nutri Drench to lactating goats because it is a source of vitamins and minerals. In fact, it can help them produce more milk. They can also benefit from the additional nutrition that it provides and the fact that it can help them stay hydrated.**
+**It is safe to give Nutri Drench to lactating goats because it is a source of vitamins and minerals. In fact, it can help them produce more milk.**
 
-Despite that, there are some [things you need to consider before giving it to your goats](/can-a-dog-get-sick-from-a-goat/). For one, you [need to make sure that the goats have access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/). They should also be given the right amount of food so they can get the nutrition they need.
+**They can also benefit from the additional nutrition that it provides and the fact that it can help them stay hydrated.**
 
-In addition, you need to be careful about giving too much Nutri Drench to your goats. If you do, they may develop diarrhea or other health problems. So, you need to give them the right amount and only when they need it.
+Despite that, there are some [things you need to consider before giving it to your goats](/can-a-dog-get-sick-from-a-goat/). For one, you [need to make sure that the goats have access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/).
+
+They should also be given the right amount of food so they can get the nutrition they need.
+
+In addition, you need to be careful about giving too much Nutri Drench to your goats. If you do, they may develop diarrhea or other health problems.
+
+So, you need to give them the right amount and only when they need it.
 
 Overall, Nutri Drench is safe to give to lactating goats. Just make sure that you consider the things we mentioned above and give them to them in moderation.
 

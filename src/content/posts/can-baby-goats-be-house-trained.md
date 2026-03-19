@@ -90,7 +90,9 @@ Instead, it’s best to let them socialize with their mother and other goats as 
 
 If you are bottle-feeding, make sure to do it slowly and carefully so that the baby doesn’t choke or suffer from indigestion.
 
-Lastly, remember that [baby goats](/can-baby-goats-have-any-electrolytes/) are very active and playful. They need plenty of space to run around and explore. So, when training a baby goat, be patient and keep these things in mind, and you’ll be well on your way to success.
+Lastly, remember that [baby goats](/can-baby-goats-have-any-electrolytes/) are very active and playful. They need plenty of space to run around and explore.
+
+So, when training a baby goat, be patient and keep these things in mind, and you’ll be well on your way to success.
 
 ## What are the common problem areas when house training a baby goat?
 
@@ -142,7 +144,7 @@ First, always start with small, manageable tasks and gradually increase the diff
 
 Secondly, be sure to use positive reinforcement techniques such as offering treats or praise when your goats complete a task successfully.
 
-Finally, remain patient and consistent throughout the training process – even if it takes a little longer than expected to see results.
+Finally, remain patient and consistent throughout the training process, even if it takes a little longer than expected to see results.
 
 By following these simple tips, you can help ensure that your baby goats have a successful training experience.
 

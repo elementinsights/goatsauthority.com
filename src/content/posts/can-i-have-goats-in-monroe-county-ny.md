@@ -118,7 +118,9 @@ This can be a great option for those who do not have the space or resources to c
 
 ## Final Thoughts
 
-In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other [goats and humans](/can-i-give-my-goats-human-fish-pills/). They also require a relatively simple diet of hay, grass, and pellets.
+In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other [goats and humans](/can-i-give-my-goats-human-fish-pills/).
+
+They also require a relatively simple diet of hay, grass, and pellets.
 
 However, there are some [potential risks associated with keeping goats](/can-a-plastic-bag-hurt-a-goat/) in Monroe County, NY. These risks can be mitigated by taking proper precautions such as investing in a good fence, being aware of goat health and nutrition, and consulting with local experts when necessary.
 

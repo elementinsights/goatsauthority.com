@@ -42,13 +42,19 @@ The fundamentals of planning and building a goat barn will be covered in this ar
 
 ## Can a goat barn be 12x 2?
 
-**A goat barn can be 12x2, but it's not ideal. Goats need a lot of space to roam and explore. They also need plenty of fresh air and sunlight. If a goat barn is too small, the goats will be cramped and uncomfortable.**
+**A goat barn can be 12x2, but it's not ideal. Goats need a lot of space to roam and explore.**
 
-They may also become stressed, which can lead to health problems. In addition, a small barn will be difficult to keep clean and spacious for the goats to play in. It's best to give them as much space as possible so they can be happy and healthy.
+**They also need plenty of fresh air and sunlight. If a goat barn is too small, the goats will be cramped and uncomfortable.**
+
+They may also become stressed, which can lead to health problems. In addition, a small barn will be difficult to keep clean and spacious for the goats to play in.
+
+It's best to give them as much space as possible so they can be happy and healthy.
 
 ## What are the benefits of having a goat barn?
 
-Goats are social animals and enjoy being around other goats. A goat barn provides a space for the goats to interact with each other. It also protects them from the elements, and predators, and gives them a place to sleep.
+Goats are social animals and enjoy being around other goats. A goat barn provides a space for the goats to interact with each other.
+
+It also protects them from the elements, and predators, and gives them a place to sleep.
 
 A well-built goat barn can also be a valuable asset if you ever decide to sell your property. Goats are becoming increasingly popular as pets, and having a goat barn on your property will make it more attractive to potential buyers.
 
@@ -82,11 +88,15 @@ With these considerations in mind, you can begin planning and building your perf
 
 ## What do goats need in their barn?
 
-Goats are social creatures and need the company of other goats. A minimum of two goats is recommended, but four or more is even better. Goats are curious and active animals, so they need plenty of space to roam and explore.
+Goats are social creatures and need the company of other goats. A minimum of two goats is recommended, but four or more is even better.
+
+Goats are curious and active animals, so they need plenty of space to roam and explore.
 
 Depending on the climate, goats may also need access to shelter from the sun, wind, and rain. In general, a goat barn should be clean, dry, and well-ventilated.
 
-Goats are natural browsers and love to chew on things. As such, they need a variety of hay, grass, and other roughage to stay healthy. Hay should always be available, as it provides essential nutrients and helps keep goats' digestion working properly.
+Goats are natural browsers and love to chew on things. As such, they need a variety of hay, grass, and other roughage to stay healthy.
+
+Hay should always be available, as it provides essential nutrients and helps keep goats' digestion working properly.
 
 Grass and other greens can be given fresh or dried (as hay). Goats also like to eat browse (leaves from trees and shrubs), but it should not make up more than 10-15% of their diet as it's low in nutrients.
 
@@ -100,7 +110,9 @@ Finally, goats' pets also enjoy some fresh fruits and vegetables as a treat.
 
 To ensure the health and safety of your goats, it's crucial to clean their barn regularly. How often you need to clean will depend on a number of factors, such as the size of the barn, the number of goats, and the type of bedding you use.
 
-A good rule of thumb is to do a deep clean once a week and spot-cleaning as needed. During the deep clean, you will need to remove all the bedding and thoroughly scrub down all surfaces. Be sure to pay special attention to areas where mold or mildew might be present.
+A good rule of thumb is to do a deep clean once a week and spot-cleaning as needed. During the deep clean, you will need to remove all the bedding and thoroughly scrub down all surfaces.
+
+Be sure to pay special attention to areas where mold or mildew might be present.
 
 Once everything is clean and dry, you can add fresh bedding and allow your goats back into their barn. In between deep cleans, you should still check the barn daily for any waste or debris that needs to be removed.
 
@@ -112,7 +124,9 @@ Let us answer the commonly asked question so you can get back to enjoying your g
 
 ### Do goat barns need to be insulated?
 
-Goat barns do not need to be insulated. Still, it's a good idea to insulate them if you live in a climate with extreme temperatures. Insulation helps to keep the barn warm in the winter and cool in the summer, which can help to keep your goats comfortable.
+Goat barns do not need to be insulated. Still, it's a good idea to insulate them if you live in a climate with extreme temperatures.
+
+Insulation helps to keep the barn warm in the winter and cool in the summer, which can help to keep your goats comfortable.
 
 ### Do I need a permit to build a goat barn?
 
@@ -120,15 +134,21 @@ The requirements for building a goat barn vary from state to state, so you need 
 
 ### What type of flooring is best for a goat barn?
 
-The type of flooring you use in a goat barn is not as important as the cleanliness of the floor. Goats are very susceptible to respiratory illness, so it's crucial to keep their barn clean and dry. A concrete or dirt floor is easy to clean and helps to prevent the spread of disease.
+The type of flooring you use in a goat barn is not as important as the cleanliness of the floor. Goats are very susceptible to respiratory illness, so it's crucial to keep their barn clean and dry.
+
+A concrete or dirt floor is easy to clean and helps to prevent the spread of disease.
 
 ### What type of bedding is best for a goat barn?
 
-The type of bedding you use in a goat barn is not as important as the cleanliness of the floor. Goats are very susceptible to respiratory illness, so it's important to keep their barn clean and dry. A concrete or dirt floor is easy to clean and helps to prevent the spread of disease.
+The type of bedding you use in a goat barn is not as important as the cleanliness of the floor. Goats are very susceptible to respiratory illness, so it's important to keep their barn clean and dry.
+
+A concrete or dirt floor is easy to clean and helps to prevent the spread of disease.
 
 ### How do I ventilate a goat barn?
 
-Good ventilation is important in a goat barn to help prevent respiratory illness. You can ventilate a goat barn by opening doors and windows, or by installing a fan. If you live in a climate with extreme temperatures, you should also insulate the barn to keep it comfortable for your goats.
+Good ventilation is important in a goat barn to help prevent respiratory illness. You can ventilate a goat barn by opening doors and windows, or by installing a fan.
+
+If you live in a climate with extreme temperatures, you should also insulate the barn to keep it comfortable for your goats.
 
 ### How much does a goat barn cost?
 
@@ -140,4 +160,6 @@ Many people enjoy having goats as pets. If you are thinking about getting a goat
 
 Goats need a place to sleep, eat, and exercise. A goat barn provides shelter from the sun, wind, and rain, and helps keep them safe from predators.
 
-Overall, goats are relatively low-maintenance pets. However, they do require some care and attention. By taking the time to build a goat barn, you can create a safe and comfortable environment for your goats.
+Overall, goats are relatively low-maintenance pets. However, they do require some care and attention.
+
+By taking the time to build a goat barn, you can create a safe and comfortable environment for your goats.

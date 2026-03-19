@@ -46,7 +46,9 @@ Before you get goats, consider if they are allowed where you live. Some areas do
 
 ## Can I have goats where I live?
 
-**You can [have goats where you live as long as your local government allows it](/can-you-band-a-2-year-old-buck-goat/). Some areas do not allow livestock, so it is essential to check with your local government first. You can also check with your local zoning department to see if there are any restrictions.**
+**You can [have goats where you live as long as your local government allows it](/can-you-band-a-2-year-old-buck-goat/). Some areas do not allow livestock, so it is essential to check with your local government first.**
+
+**You can also check with your local zoning department to see if there are any restrictions.**
 
 If you live in a rural area, there may be more leniency when it comes to having goats. However, if you live in an urban or suburban area, it is likely that you will need to get a permit or special permission before keeping goats.
 
@@ -54,7 +56,9 @@ Check with your local government to see if goats are allowed in your area.
 
 Despite their reputation, goats are relatively clean animals and do not smell bad. They are also less likely to make noise than other animals, such as dogs.
 
-Goats are intelligent creatures and can be easy to train. They can learn their names and come when they are called. [Goats can also be trained to do tricks](/can-baby-goats-be-house-trained/) and walk on a leash.
+Goats are intelligent creatures and can be easy to train. They can learn their names and come when they are called.
+
+[Goats can also be trained to do tricks](/can-baby-goats-be-house-trained/) and walk on a leash.
 
 Goats are social animals and do best when they have companions, whether that is another goat, a dog, or even a human. If you [live in an area where goats are not allowed](/can-dogs-and-pygmy-goats-live-together/), consider getting a different type of pet.
 
@@ -70,13 +74,19 @@ Goats also make great companion animals. They are social creatures and do best w
 
 Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first.
 
-You will also need to decide what type of goats you want. There are many different breeds of goats, each with their own unique characteristics. Do some research to find the right breed for your needs.
+You will also need to decide what type of goats you want. There are many different breeds of goats, each with their own unique characteristics.
 
-Goats require a lot of care and attention. They need to be brushed and have their hooves trimmed regularly. They also need access to fresh water and hay. If you are not able to provide this type of care, goats may not be the right pet for you.
+Do some research to find the right breed for your needs.
+
+Goats require a lot of care and attention. They need to be brushed and have their hooves trimmed regularly.
+
+They also need access to fresh water and hay. If you are not able to provide this type of care, goats may not be the right pet for you.
 
 ## How to take care of goats?
 
-There are a few key things that you need to know in order to properly care for goats. The first thing is that goats are very social animals and thrive when they live in herds. In addition, they require regular exercise and access to fresh hay and water.
+There are a few key things that you need to know in order to properly care for goats. The first thing is that goats are very social animals and thrive when they live in herds.
+
+In addition, they require regular exercise and access to fresh hay and water.
 
 Another important aspect of goat care is vaccinations, as most types of goats require annual vaccines to help prevent common diseases like scours and pneumonia.
 
@@ -98,7 +108,9 @@ Overall, providing a safe, clean environment for your goats is essential for fos
 
 ## How to breed goats?
 
-There are several key steps involved in [breeding goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/). The first and most important step is to select the right goat for breeding. Potential parents should be healthy, strong females that are of an appropriate age and size.
+There are several key steps involved in [breeding goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/). The first and most important step is to select the right goat for breeding.
+
+Potential parents should be healthy, strong females that are of an appropriate age and size.
 
 Once a suitable female has been chosen, you will need to choose a suitable male partner as well. This can be done through careful selection of your herd's males, or if necessary by introducing a new buck into the mix.
 

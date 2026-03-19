@@ -39,8 +39,9 @@ faq:
   - question: "Are there any risks associated with keeping sheep and goats together?"
     answer: "While it may seem like an unusual pairing, there are actually several benefits to keeping sheep and goats together in the same herd."
 ---
+We all know that sheep and goats are two separate species. But can they live together?
 
-We all know that sheep and goats are two separate species. But can they live together? And if so, what are the best practices?
+And if so, what are the best practices?
 
 In this article, we'll answer all of your questions about keeping sheep and goats together. We'll discuss their different needs and how to best accommodate both animals.
 
@@ -48,7 +49,9 @@ In this article, we'll answer all of your questions about keeping sheep and goat
 
 **A sheep can live with goats without any problem because they are both herbivores, and even though they are different species, they can get along very well. The most important thing is to have enough space for both animals so they can coexist peacefully.**
 
-Goats are very curious about nature and will want to explore everything. This includes the sheep's wool. So it's important to keep an eye on them and make sure they don't eat too much of the sheep's wool.
+Goats are very curious about nature and will want to explore everything. This includes the sheep's wool.
+
+So it's important to keep an eye on them and make sure they don't eat too much of the sheep's wool.
 
 Sheep are very social animals and need to be around other sheep. So if you're only going to have one sheep, it's best to get another animal for company, like a goat.
 

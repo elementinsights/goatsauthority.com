@@ -41,14 +41,17 @@ faq:
   - question: "How to identify milkweed plants?"
     answer: "The first step in identifying milkweed plants is to familiarize yourself with the appearance of the plant. Milkweed typically has soft, velvety leaves that are heart-shaped and slightly elongated at the base, tapering to a point at the tips."
 ---
+We all know that goats are pretty much down for eating anything. But what about milkweed?
 
-We all know that goats are pretty much down for eating anything. But what about milkweed? Can pygmy goats eat milkweed? And if so, what are the things you need to look out for?
+Can pygmy goats eat milkweed? And if so, what are the things you need to look out for?
 
 Those are the common questions about goats and milkweed that we will be discussing in this article. So, if you want to know whether or not your pygmy goat can enjoy munching on milkweed, read on.
 
 ## Can pygmy goats eat milkweed?
 
-**[Pygmy goats can eat milkweed](/can-pygmy-goats-eat-brown-sugar/) as long as it is fresh and free from any chemicals. Milkweed is a good source of nutrients for goats, including protein, calcium, and phosphorus. They are also a source of fiber and can help with digestive problems**.
+**[Pygmy goats can eat milkweed](/can-pygmy-goats-eat-brown-sugar/) as long as it is fresh and free from any chemicals. Milkweed is a good source of nutrients for goats, including protein, calcium, and phosphorus.
+
+They are also a source of fiber and can help with digestive problems**.
 
 However, there are a few things you need to be aware of when feeding milkweed to your goats. The first is that milkweed contains a substance called saponin, which can be toxic to goats in large amounts.
 

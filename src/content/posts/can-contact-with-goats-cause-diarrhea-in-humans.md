@@ -50,7 +50,9 @@ In this article, we will answer all of your questions regarding goats and diarrh
 
 ## Can contact with goats cause diarrhea in humans?
 
-**Humans who come into contact with goats may develop diarrhea due to the bacteria that these animals carry. Campylobacter jejuni and Cryptosporidium parvum are the names of these microorganisms. Giardia lamblia and other parasites that cause diarrhea in people are also carried by goats.**
+**Humans who come into contact with goats may develop diarrhea due to the bacteria that these animals carry. Campylobacter jejuni and Cryptosporidium parvum are the names of these microorganisms.**
+
+**Giardia lamblia and other parasites that cause diarrhea in people are also carried by goats.**
 
 However, it's important to remember that not all humans who come into contact with these animals will develop diarrhea. In fact, most people will not experience any symptoms at all.
 
@@ -81,7 +83,9 @@ They may also recommend that you stay hydrated by drinking plenty of fluids and 
 
 ## How can you prevent diarrhea from goats?
 
-There are several steps that you can take to prevent diarrhea from goats. First, you need to practice good hygiene. This means washing your hands thoroughly after coming into contact with goats or their feces.
+There are several steps that you can take to prevent diarrhea from goats. First, you need to practice good hygiene.
+
+This means washing your hands thoroughly after coming into contact with goats or their feces.
 
 You should also avoid consuming raw milk or unpasteurized dairy products from goats. Pasteurization kills the bacteria that can cause diarrhea.
 
@@ -123,7 +127,9 @@ Q fever can also be prevented by vaccinating goats against the [bacteria that ca
 
 ## How can you protect yourself against these diseases when interacting with goats?
 
-There are a few [things you can do to protect yourself against diseases when interacting with goats](/can-a-dog-get-sick-from-a-goat/). First, you need to practice good hygiene. This means washing your hands thoroughly after coming into contact with goats or their feces.
+There are a few [things you can do to protect yourself against diseases when interacting with goats](/can-a-dog-get-sick-from-a-goat/). First, you need to practice good hygiene.
+
+This means washing your hands thoroughly after coming into contact with goats or their feces.
 
 You should also avoid consuming raw milk or unpasteurized dairy products from goats. Pasteurization kills the bacteria that can cause these diseases.
 

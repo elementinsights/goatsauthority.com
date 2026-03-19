@@ -48,9 +48,13 @@ If you think that your goat may be suffering from a stroke or a heart attack, it
 
 ## What is a stroke in goats and what are the symptoms to look out for?
 
-A stroke is a medical emergency that occurs when the blood supply to the brain is disrupted. This can happen due to a blockage, such as a clot, or a bleed. When the brain doesn't get the oxygen it needs, damage can occur.
+A stroke is a medical emergency that occurs when the blood supply to the brain is disrupted. This can happen due to a blockage, such as a clot, or a bleed.
 
-Symptoms of a stroke can include weakness, paralysis, seizures, and changes in mental status. If you suspect your goat is having a stroke, you need to seek a goat expert care immediately. With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+When the brain doesn't get the oxygen it needs, damage can occur.
+
+Symptoms of a stroke can include weakness, paralysis, seizures, and changes in mental status. If you suspect your goat is having a stroke, you need to seek a goat expert care immediately.
+
+With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
 Despite that, if the brain is without oxygen for too long, permanent damage can occur. If you are raising goats, you need to be aware of the signs of a stroke so that you can get your animal the help it needs as quickly as possible.
 
@@ -58,7 +62,9 @@ Despite that, if the brain is without oxygen for too long, permanent damage can 
 
 A stroke is a serious medical condition that can have devastating consequences. While strokes are relatively rare in goats, they can occur due to a variety of causes.
 
-One of the most common [causes of strokes in goats](/can-alfalfa-pellets-cause-goats-to-bloat/) is head trauma. If a goat hits its head hard enough, it can damage the blood vessels and cause them to bleed. This can lead to a build-up of pressure in the brain, which can eventually result in a stroke.
+One of the most common [causes of strokes in goats](/can-alfalfa-pellets-cause-goats-to-bloat/) is head trauma. If a goat hits its head hard enough, it can damage the blood vessels and cause them to bleed.
+
+This can lead to a build-up of pressure in the brain, which can eventually result in a stroke.
 
 Another common [cause of strokes in goats](/can-goats-cause-slope/) is infection. If a goat is infected with a virus or bacteria, it can damage the blood vessels and lead to a stroke.
 
@@ -68,7 +74,9 @@ While strokes are dangerous, they can often be treated if caught early enough. I
 
 ## Treatment for strokes in goats
 
-When a goat has a stroke, you need to seek treatment as quickly as possible. A stroke is a medical emergency and can be fatal if not treated promptly. There are three main types of strokes that can [affect goats](/can-weather-affect-goats-poop/): cerebral, cerebellar, and brainstem.
+When a goat has a stroke, you need to seek treatment as quickly as possible. A stroke is a medical emergency and can be fatal if not treated promptly.
+
+There are three main types of strokes that can [affect goats](/can-weather-affect-goats-poop/): cerebral, cerebellar, and brainstem.
 
 Each type of stroke requires different treatment, so you need to receive a diagnosis from a goat expert as soon as possible. Treatment for a cerebral stroke may include surgery to remove the clot or relieve pressure on the brain.
 
@@ -96,7 +104,9 @@ Lastly, keeping your goat up-to-date on their vaccinations can help to protect t
 
 ### When is it time to see a goat expert?
 
-If you think your goat may be having a stroke, you need to seek goat expert care immediately. A stroke is a medical emergency and can be fatal if not treated promptly. There are three main types of strokes that can affect goats: cerebral, cerebellar, and brainstem.
+If you think your goat may be having a stroke, you need to seek goat expert care immediately. A stroke is a medical emergency and can be fatal if not treated promptly.
+
+There are three main types of strokes that can affect goats: cerebral, cerebellar, and brainstem.
 
 Each type of stroke requires different treatment, so you need to receive a diagnosis from a goat expert as soon as possible. Treatment for a cerebral stroke may include surgery to remove the clot or relieve pressure on the brain.
 
@@ -116,4 +126,6 @@ Goats can have a stroke due to many different factors, including head trauma, di
 
 Some of the most common signs of a stroke in goats include paralysis, weakness, incoordination, and collapse. If you suspect that your goat may be having a stroke, you need to act quickly and seek goat expert care.
 
-With prompt treatment, most goats make a full recovery from strokes. Despite that, some may experience long-term neurological deficits. Prevention of strokes in goats is best achieved through early detection and treatment of underlying conditions that can lead to strokes.
+With prompt treatment, most goats make a full recovery from strokes. Despite that, some may experience long-term neurological deficits.
+
+Prevention of strokes in goats is best achieved through early detection and treatment of underlying conditions that can lead to strokes.

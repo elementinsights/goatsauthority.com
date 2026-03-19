@@ -82,21 +82,31 @@ Appropriately, there are several good reasons to keep pigs and chickens together
 
 ## Are there any risks to keeping pigs, and chickens in the same barn?
 
-There are a few risks to consider before keeping pigs and chickens together in the same barn. First, there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals.
+There are a few risks to consider before keeping pigs and chickens together in the same barn. First, there is the risk of disease.
 
-For this reason, it's important to make sure that both animals are vaccinated and that the barn is kept clean. There is also the risk of aggression. Pigs can be aggressive animals, and they may not take kindly to the presence of chickens in their space.
+Pigs and chickens can both carry diseases that can be passed to other animals.
+
+For this reason, it's important to make sure that both animals are vaccinated and that the barn is kept clean. There is also the risk of aggression.
+
+Pigs can be aggressive animals, and they may not take kindly to the presence of chickens in their space.
 
 For this reason, it's important to introduce the animals slowly and to keep a close eye on them at first to make sure that there are no problems.
 
 Finally, there is the risk of escape. Chickens are good flyers, and they may be able to escape from the barn if there are not enough perches or if the barn doors are left open.
 
-Pigs, on the other hand, are good diggers. They may be able to tunnel out of the barn if they are not contained properly. These are just a few of the risks to consider before keeping pigs and chickens together in the same barn.
+Pigs, on the other hand, are good diggers. They may be able to tunnel out of the barn if they are not contained properly.
+
+These are just a few of the risks to consider before keeping pigs and chickens together in the same barn.
 
 ## How to manage the different types of animals in your barn?
 
-There are many different types of animals that you might find on a farm. Cattle, pigs, chickens, and horses are just a few of the most common. Each type of animal has its own unique needs in terms of food, shelter, and care.
+There are many different types of animals that you might find on a farm. Cattle, pigs, chickens, and horses are just a few of the most common.
 
-For example, cattle require a lot of space to graze and sufficient access to fresh water. Pigs, on the other hand, are relatively clean animals and can be kept in smaller pens. Chickens need a place to roost and lay their eggs, while horses need plenty of room to run and exercise.
+Each type of animal has its own unique needs in terms of food, shelter, and care.
+
+For example, cattle require a lot of space to graze and sufficient access to fresh water. Pigs, on the other hand, are relatively clean animals and can be kept in smaller pens.
+
+Chickens need a place to roost and lay their eggs, while horses need plenty of room to run and exercise.
 
 As a result, it is important to [carefully consider the needs of each type of animal](/can-goats-die-from-lymes/) when planning your barn. By ensuring that each animal has the space and resources it needs, you can keep your barn happy and healthy.
 

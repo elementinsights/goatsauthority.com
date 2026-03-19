@@ -46,7 +46,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I substitute goat cheese for feta cheese?
 
-**You can substitute goat cheese for feta cheese because they have a similar taste and texture. Both kinds of cheese are tangy and slightly salty with a crumbly texture. They also have a similar white color and can be used in similar ways.**
+**You can substitute goat cheese for feta cheese because they have a similar taste and texture. Both kinds of cheese are tangy and slightly salty with a crumbly texture.**
+
+**They also have a similar white color and can be used in similar ways.**
 
 The main difference between goat cheese and feta cheese is that goat cheese is made from goat’s milk while feta cheese is made from sheep’s milk. Goat cheese has a slightly sweeter taste than feta cheese.
 
@@ -120,7 +122,7 @@ Some of the most popular cheeses for this type of cooking include mozzarella, pa
 
 One particularly delicious recipe that uses both types of cheese is macaroni and cheese. This classic comfort food combines hearty pasta with gooey, melty cheese for a dish that is satisfyingly rich and indulgent.
 
-Another option is to make a grilled cheese sandwich with two types of cheese – perhaps mixing mild cheddar with creamy brie or tangy mozzarella with nutty parmesan.
+Another option is to make a grilled cheese sandwich with two types of cheese, perhaps mixing mild cheddar with creamy brie or tangy mozzarella with nutty parmesan.
 
 Whether you’re making a simple snack or an elegant dinner party dish, there are many delicious options when it comes to combining hard and soft cheeses.
 

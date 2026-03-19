@@ -46,7 +46,9 @@ Lastly, we will touch on some preventative measures you can take to keep your go
 
 ## Can a goat get a cold sore?
 
-**A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1). HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils.**
+**A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1).**
+
+**HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils.**
 
 There are other animals that can get cold sores, such as dogs and cats, but again, it's relatively rare. So, if you see a goat with a cold sore, it's most likely due to an underlying health condition.
 
@@ -72,15 +74,21 @@ there's no cure for the virus, but early intervention can help to lessen the sev
 
 ## How to treat cold sores in goats
 
-If you have a goat with a cold sore, the first thing you'll want to do is clean the affected area. This can be done with a gentle cleanser and warm water. Be sure to rinse the area well afterward.
+If you have a goat with a cold sore, the first thing you'll want to do is clean the affected area. This can be done with a gentle cleanser and warm water.
 
-You'll also want to apply a topical cream or ointment to the sore. This will help to soothe and protect the skin. You may need to reapply the cream several times a day, depending on the severity of the sore.
+Be sure to rinse the area well afterward.
+
+You'll also want to apply a topical cream or ointment to the sore. This will help to soothe and protect the skin.
+
+You may need to reapply the cream several times a day, depending on the severity of the sore.
 
 In some cases, you may also need to give your goat an oral antiviral medication. If you're unsure about how to treat your goat's cold sore, always consult with an animal expert for guidance.
 
 ## How is a cold sore in goats diagnosed?
 
-Cold sores in goats are diagnosed in much the same way as they are in humans. In some cases, a blood test may be ordered to confirm the diagnosis. There's no cure for HSV, but treatments are available to help manage the symptoms and prevent outbreaks.
+Cold sores in goats are diagnosed in much the same way as they are in humans. In some cases, a blood test may be ordered to confirm the diagnosis.
+
+There's no cure for HSV, but treatments are available to help manage the symptoms and prevent outbreaks.
 
 These may include topical antiviral medications, topical disinfectants, and oral antiviral drugs. In severe cases, hospitalization may be necessary to provide supportive care and prevent complications.
 
@@ -88,9 +96,13 @@ Prevention is key to managing HSV in goats, and strict biosecurity measures shou
 
 ## Prevention tips for avoiding cold sores in goats
 
-While cold sores are not typically life-threatening, they can cause a great deal of discomfort for goats. These sores are caused by the herpes simplex virus and are highly contagious. And also, there are several steps that you can take to prevent your herd from becoming infected.
+While cold sores are not typically life-threatening, they can cause a great deal of discomfort for goats. These sores are caused by the herpes simplex virus and are highly contagious.
 
-One of the most important things that you can do is to isolate any goats that show signs of cold sores. These animals should be kept in a separate pen away from the rest of the herd. This will help to prevent the spread of the virus.
+And also, there are several steps that you can take to prevent your herd from becoming infected.
+
+One of the most important things that you can do is to isolate any goats that show signs of cold sores. These animals should be kept in a separate pen away from the rest of the herd.
+
+This will help to prevent the spread of the virus.
 
 In addition, all equipment and supplies that come into contact with an infected goat should be thoroughly cleaned and disinfected before being used with other animals.
 
@@ -104,11 +116,15 @@ By taking these precautions, you can help reduce the risk of their goats contrac
 
 A lesion known as a cold sore develops on the lips or the area around the mouth. The herpes simplex virus is to blame for these sores (HSV).
 
-HSV comes in two different varieties: HSV-1 and HSV-2. Cold sores may develop from either form of HSV. Close contact with a person who has an active sore is the most typical way that cold sores are transmitted.
+HSV comes in two different varieties: HSV-1 and HSV-2. Cold sores may develop from either form of HSV.
+
+Close contact with a person who has an active sore is the most typical way that cold sores are transmitted.
 
 Additionally, the virus can be transmitted by coming into contact with contaminated items like towels, cutlery, or razors. The virus can enter the body and cause an infection if it comes into touch with the mucous membranes of the lips or mouth.
 
-Cold sores are usually not serious and will resolve on their own within 2-3 weeks. However, they can be uncomfortable and painful. In some cases, HSV can lead to more serious health problems, such as encephalitis (inflammation of the brain) or meningitis (inflammation of the lining of the brain).
+Cold sores are usually not serious and will resolve on their own within 2-3 weeks. However, they can be uncomfortable and painful.
+
+In some cases, HSV can lead to more serious health problems, such as encephalitis (inflammation of the brain) or meningitis (inflammation of the lining of the brain).
 
 Fortunately, cold sores in goats are not considered to be contagious. There's no evidence that humans can contract the virus from goats.
 
@@ -118,4 +134,6 @@ Even so, it's still important to practice good hygiene and avoid close contact w
 
 Goats can get cold sores, but they are not contagious to humans. If you have a goat with a cold sore, you should clean the sore and practice good hygiene.
 
-Finally, you should consult with an animal expert to determine the best course of treatment. prevent outbreaks. These may include topical antiviral medications, topical disinfectants, and oral antiviral drugs. In severe cases, hospitalization may be necessary to provide supportive care and prevent complications.
+Finally, you should consult with an animal expert to determine the best course of treatment. prevent outbreaks.
+
+These may include topical antiviral medications, topical disinfectants, and oral antiviral drugs. In severe cases, hospitalization may be necessary to provide supportive care and prevent complications.

@@ -52,17 +52,25 @@ However, if you're determined to feed your goat peanut butter, do so in moderati
 
 ## Can a pregnant goat eat peanut butter?
 
-Peanuts are high in fat and protein, and they also contain many essential vitamins and minerals. For these reasons, peanut butter can be a healthy part of a pregnant goat's diet. Even so, there are a few things to keep in mind.
+Peanuts are high in fat and protein, and they also contain many essential vitamins and minerals. For these reasons, peanut butter can be a healthy part of a pregnant goat's diet.
 
-First, choose a peanut butter that does not contain added sugar or salt. Second, limit the amount of peanut butter you give to your pregnant goat. Too much peanut butter can lead to obesity, which can be dangerous for both the mother and the baby. Third, make sure the peanut butter is fresh.
+Even so, there are a few things to keep in mind.
+
+First, choose a peanut butter that does not contain added sugar or salt. Second, limit the amount of peanut butter you give to your pregnant goat.
+
+Too much peanut butter can lead to obesity, which can be dangerous for both the mother and the baby. Third, make sure the peanut butter is fresh.
 
 Peanut butter can spoil quickly, so it's crucial to check the expiration date before feeding it to your goat. By following these guidelines, you can safely include peanut butter as part of a healthy diet for your pregnant goat.
 
 ## Can a lactating goat eat peanut butter?
 
-A lactating goat cannot eat peanut butter. Peanut butter is high in fat and goats need a low-fat diet. Peanut butter also contains a substance that can inhibit the production of milk. For these reasons, it's best to avoid giving peanut butter to lactating goats.
+A lactating goat cannot eat peanut butter. Peanut butter is high in fat and goats need a low-fat diet.
 
-In addition to being high in fat, peanut butter is also high in sugar. Lactating goats need a diet that is high in fiber and low in sugar. Sugar can cause problems with digestion and can also lead to weight gain. Therefore, it's best to avoid giving peanut butter to lactating goats.
+Peanut butter also contains a substance that can inhibit the production of milk. For these reasons, it's best to avoid giving peanut butter to lactating goats.
+
+In addition to being high in fat, peanut butter is also high in sugar. Lactating goats need a diet that is high in fiber and low in sugar.
+
+Sugar can cause problems with digestion and can also lead to weight gain. Therefore, it's best to avoid giving peanut butter to lactating goats.
 
 ## Can a baby goat eat peanut butter?
 
@@ -74,7 +82,9 @@ As a general rule, it's best to avoid giving baby goats peanut butter until they
 
 ## What are the benefits of peanut butter to goats?
 
-Peanut butter is a popular food made from peanuts. Peanuts are a type of legume, which is a plant that produces its own nitrogen-rich fertilizer. This means that peanuts are a very nutrient-dense food, and they're also a good source of protein, fiber, vitamins, and minerals.
+Peanut butter is a popular food made from peanuts. Peanuts are a type of legume, which is a plant that produces its own nitrogen-rich fertilizer.
+
+This means that peanuts are a very nutrient-dense food, and they're also a good source of protein, fiber, vitamins, and minerals.
 
 Peanut butter is also a good source of healthy fats, which are essential for goats. Goats need fat in their diet to help them absorb certain vitamins and minerals and to provide them with energy.
 
@@ -92,7 +102,9 @@ For this reason, it's important to be careful when feeding peanut butter to goat
 
 ## Serving size of peanut butter for goats
 
-Goats need a lot of food every day. They're constantly growing, so they have a high metabolism. As a result, they need a diet that is high in calories and nutrients.
+Goats need a lot of food every day. They're constantly growing, so they have a high metabolism.
+
+As a result, they need a diet that is high in calories and nutrients.
 
 Peanut butter is a great source of both. It's also a very versatile food, so you can use it in many different ways to help meet your goats' nutritional needs.
 

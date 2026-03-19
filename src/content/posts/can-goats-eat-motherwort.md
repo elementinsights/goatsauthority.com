@@ -42,13 +42,19 @@ faq:
 
 Taking care of a goat can be a fun and rewarding experience. Goats are curious, inquisitive creatures that are known for their playful personalities.
 
-As a pet owner, you need to understand what your goat needs to stay healthy and happy. This includes [knowing what kinds of food they can eat](/what-kind-of-hay-do-goats-eat/). So, can goats eat motherwort? And if so, what are the benefits?
+As a pet owner, you need to understand what your goat needs to stay healthy and happy. This includes [knowing what kinds of food they can eat](/what-kind-of-hay-do-goats-eat/).
 
-In this article, we will answer all of your questions about goats and motherwort. We'll discuss the nutritional value of this herb, as well as its potential benefits for goats. We'll also provide some tips on how to incorporate motherwort into your goat's diet.
+So, can goats eat motherwort? And if so, what are the benefits?
+
+In this article, we will answer all of your questions about goats and motherwort. We'll discuss the nutritional value of this herb, as well as its potential benefits for goats.
+
+We'll also provide some tips on how to incorporate motherwort into your goat's diet.
 
 ## Can goats eat motherwort?
 
-**Goats can consume motherwort without any harmful effects. This herb is actually a common ingredient in many commercial [goat feeds](/can-a-goat-feed-quads/). Motherwort is high in protein and fiber, which are both essential nutrients for goats. The herb also contains a variety of vitamins and minerals, including iron, calcium, and magnesium.**
+**Goats can consume motherwort without any harmful effects. This herb is actually a common ingredient in many commercial [goat feeds](/can-a-goat-feed-quads/).**
+
+**Motherwort is high in protein and fiber, which are both essential nutrients for goats. The herb also contains a variety of vitamins and minerals, including iron, calcium, and magnesium.**
 
 On top of being nutritious, motherwort is also known for its medicinal properties. The herb has been used to treat a variety of conditions in both humans and animals for centuries.
 
@@ -56,13 +62,17 @@ Motherwort is thought to be a natural relaxant, and it has traditionally been us
 
 However, you need to note that goats should not consume large quantities of motherwort. This herb can be toxic in large doses, and it can cause side effects like diarrhea, vomiting, and bloating.
 
-As with any new food, it's best to introduce motherwort to your goat gradually. Start by giving them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), and then increase the amount over time. If you notice any adverse reactions, discontinue use and consult a goat expert.
+As with any new food, it's best to introduce motherwort to your goat gradually. Start by giving them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), and then increase the amount over time.
+
+If you notice any adverse reactions, discontinue use and consult a goat expert.
 
 ## What is motherwort and what do they look like?
 
 Motherwort is a perennial herb that can be found in temperate regions around the world. The plant gets its name from its traditional use in supporting women's health, particularly during pregnancy and childbirth.
 
-Motherwort typically grows to be about two or three feet tall and has dark green leaves that are serrated along the edges. The plant also produces small clusters of pink or purple flowers. In herbal medicine, motherwort is most commonly used as a tincture or tea.
+Motherwort typically grows to be about two or three feet tall and has dark green leaves that are serrated along the edges. The plant also produces small clusters of pink or purple flowers.
+
+In herbal medicine, motherwort is most commonly used as a tincture or tea.
 
 When taken internally, motherwort is thought to help with cramps, anxiety, and menopausal symptoms. The herb can also be applied topically to relax muscles and relieve pain.
 
@@ -76,9 +86,13 @@ Motherwort is sometimes used as a natural remedy for anxiety and stress, and it 
 
 Some people also use motherwort to help regulate their menstrual cycles and ease period cramps. While there is not a lot of scientific evidence to support these uses, many people believe that motherwort is an effective herbal remedy.
 
-Goats can also benefit from motherwort. The herb is rich in nutrients and [minerals that are essential for goat health](/can-goats-eat-mineral-salt-made-for-cattle/). Motherwort can be given to goats fresh or dried, and it can also be added to their feed.
+Goats can also benefit from motherwort. The herb is rich in nutrients and [minerals that are essential for goat health](/can-goats-eat-mineral-salt-made-for-cattle/).
 
-Some goat keepers believe that motherwort helps to keep their goats healthy and stress-free. Others say that it makes goats more playful and friendly. If you are considering giving your goats motherwort, be sure to talk to a goat expert first to make sure it is right for them.
+Motherwort can be given to goats fresh or dried, and it can also be added to their feed.
+
+Some goat keepers believe that motherwort helps to keep their goats healthy and stress-free. Others say that it makes goats more playful and friendly.
+
+If you are considering giving your goats motherwort, be sure to talk to a goat expert first to make sure it is right for them.
 
 ## What are the consequences of goats eating motherwort?
 
@@ -92,7 +106,9 @@ As a result, goats who eat motherwort may experience dehydration and electrolyte
 
 Goats are curious creatures by nature and will often put anything they can find into their mouths. This can pose a problem for goat owners, as goats are known to eat just about anything, including plants that are poisonous to them.
 
-Motherwort is one such plant. Motherwort is a member of the mint family and is commonly found in gardens. The plant is safe for humans, but it can be deadly for goats. If ingested, motherwort can cause tremors, convulsions, and even death.
+Motherwort is one such plant. Motherwort is a member of the mint family and is commonly found in gardens.
+
+The plant is safe for humans, but it can be deadly for goats. If ingested, motherwort can cause tremors, convulsions, and even death.
 
 To prevent your goats from eating motherwort, it is crucial to remove the plant from their pasture. If you have a garden, make sure that your goats cannot access it.
 
@@ -102,7 +118,9 @@ You should also keep an eye on your goats when they are grazing, as they may try
 
 Motherwort is a herb that is sometimes used in goat husbandry. In small doses, it can help to regulate the reproductive cycle and promote milk production.
 
-Despite that, motherwort is also poisonous to goats, and ingestion can lead to serious health problems. Symptoms of motherwort poisoning include vomiting, diarrhea, tremors, and seizures. If left untreated, motherwort poisoning can be fatal.
+Despite that, motherwort is also poisonous to goats, and ingestion can lead to serious health problems. Symptoms of motherwort poisoning include vomiting, diarrhea, tremors, and seizures.
+
+If left untreated, motherwort poisoning can be fatal.
 
 Treatment typically involves giving the goat supportive care and administering activated charcoal to absorb the poison.
 
@@ -110,9 +128,15 @@ In severe cases, it may also be necessary to provide respiratory support or intr
 
 ## How to care for motherwort?
 
-In the mint family, motherwort (Leonurus cardiaca) is a perennial herbaceous plant that is indigenous to Europe and Asia. It is a widespread weed throughout much of the planet. The opposing, strongly lobed, and hairy leaves are present.
+In the mint family, motherwort (Leonurus cardiaca) is a perennial herbaceous plant that is indigenous to Europe and Asia. It is a widespread weed throughout much of the planet.
 
-The white, tiny flowers are borne in whorls. From June to August, the plant blooms. For its therapeutic qualities, motherwort is a herb that has been utilized for generations. According to some, it is good for the heart and circulatory system.
+The opposing, strongly lobed, and hairy leaves are present.
+
+The white, tiny flowers are borne in whorls. From June to August, the plant blooms.
+
+For its therapeutic qualities, motherwort is a herb that has been utilized for generations.
+
+According to some, it is good for the heart and circulatory system.
 
 Additionally, it has calming and anxiety-relieving properties. The plant can be used physically as a compress or poultice or consumed orally as a tea or tincture.
 

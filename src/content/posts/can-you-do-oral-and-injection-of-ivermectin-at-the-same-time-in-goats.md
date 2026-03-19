@@ -44,7 +44,9 @@ faq:
 
 Taking care of goats is an important part of any farm. To keep them healthy, it can be necessary to administer both oral and injectable medications.
 
-In particular, the drug ivermectin has long been used to treat parasites in goats. But can you give your goat both an oral and injection dose of ivermectin at the same time? And if so, what is the best way to do it?
+In particular, the drug ivermectin has long been used to treat parasites in goats. But can you give your goat both an oral and injection dose of ivermectin at the same time?
+
+And if so, what is the best way to do it?
 
 In this article, we will answer those questions and provide you with advice on the best way to administer ivermectin to your goats.
 
@@ -100,7 +102,9 @@ To give your goat an oral dose of ivermectin, mix the drug with a small amount o
 
 Then, using a syringe (without the needle), draw up the mixture and squirt it into the back of your goat's mouth. Be sure to aim for the area between the teeth and the gum line.
 
-Finally, rub your goat's throat to encourage swallowing. Repeat this process for each goat in your herd. giving them all the same dose. Ivermectin can be given orally to goats on a monthly basis to prevent heartworm disease and control parasites.
+Finally, rub your goat's throat to encourage swallowing. Repeat this process for each goat in your herd.
+
+giving them all the same dose. Ivermectin can be given orally to goats on a monthly basis to prevent heartworm disease and control parasites.
 
 It is important to follow the dosage instructions on the package insert, as overdoses can be fatal. If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
 

@@ -43,8 +43,9 @@ faq:
   - question: "Can a lactating goat eat black walnut leaves?"
     answer: "Native to the eastern United States, black walnut trees (Juglans nigra) are a class of deciduous trees. The tree also yields a nut that is prized for its flavor, and its leaves and bark have been further used."
 ---
+Taking care of a goat can be a rewarding experience. They are intelligent animals and have personality traits that make them unique and fun to be around.
 
-Taking care of a goat can be a rewarding experience. They are intelligent animals and have personality traits that make them unique and fun to be around. Part of being a responsible goat owner is providing them with a healthy diet that meets their nutritional needs.
+Part of being a responsible goat owner is providing them with a healthy diet that meets their nutritional needs.
 
 One question that sometimes comes up is whether or not goats can eat black walnut leaves. And if so, what are the benefits?
 
@@ -52,7 +53,9 @@ In this article, we will answer those questions and provide you with everything 
 
 ## Can goats eat black walnut leaves?
 
-**Black walnut leaves are safe for goats to eat and can actually be beneficial for their health. The leaves contain tannins, which have astringent and antimicrobial properties. Tannins can help improve gut health and digestion, as well as reduce inflammation.**
+**Black walnut leaves are safe for goats to eat and can actually be beneficial for their health. The leaves contain tannins, which have astringent and antimicrobial properties.**
+
+**Tannins can help improve gut health and digestion, as well as reduce inflammation.**
 
 However, it's important to note that black walnut leaves should only be fed in moderation. They can be drying to the gut and too much can lead to constipation.
 
@@ -96,9 +99,13 @@ Native to the eastern United States, black walnut trees (Juglans nigra) produce 
 
 However, juglone, a substance found in black walnut leaves, is deadly to goats. Juglone is found in all parts of the black walnut tree, but it's most concentrated in the leaves.
 
-When ingested, juglone can cause vomiting, diarrhea, and loss of appetite. In severe cases, it can lead to death. Because of this, black walnut leaves should be avoided as goat feed. If goats do eat black walnut leaves, they should be monitored closely for signs of juglone poisoning.
+When ingested, juglone can cause vomiting, diarrhea, and loss of appetite. In severe cases, it can lead to death.
 
-Symptoms usually appear within 24 hours after ingestion and can be treated with supportive care. Despite that, prevention is the best way to [protect goats](/can-a-fox-kill-a-goat/) from juglone poisoning. If you have black walnut trees on your property, make sure to keep your goats away from the leaves.
+Because of this, black walnut leaves should be avoided as goat feed. If goats do eat black walnut leaves, they should be monitored closely for signs of juglone poisoning.
+
+Symptoms usually appear within 24 hours after ingestion and can be treated with supportive care. Despite that, prevention is the best way to [protect goats](/can-a-fox-kill-a-goat/) from juglone poisoning.
+
+If you have black walnut trees on your property, make sure to keep your goats away from the leaves.
 
 ## What are the benefits of feeding black walnut leaves?
 
@@ -114,7 +121,9 @@ Additionally, the leaves can be used as bedding material, which helps to keep th
 
 Black walnut leaves contain high levels of tannins, which can be toxic to livestock if ingested in large quantities. Tannins bind to proteins in the digestive tract, preventing them from being properly digested and absorbed.
 
-This can lead to weight loss, malnutrition, and digestive problems. In severe cases, it can even be fatal. Black walnut leaves also contain juglone, a compound that is poisonous to many plants.
+This can lead to weight loss, malnutrition, and digestive problems. In severe cases, it can even be fatal.
+
+Black walnut leaves also contain juglone, a compound that is poisonous to many plants.
 
 Juglone inhibits plant growth and can kill plants that are exposed to it for extended periods of time. For these reasons, it's important to be careful when feeding black walnut leaves to livestock, as they can pose serious health risks.
 

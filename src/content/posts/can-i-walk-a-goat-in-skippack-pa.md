@@ -46,7 +46,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I walk a goat in Skippack PA?
 
-**You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so. You also need to make sure that your goat is healthy and up to date on its vaccinations.**
+**You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so.**
+
+**You also need to make sure that your goat is healthy and up to date on its vaccinations.**
 
 Before you take your goat out for a walk, you should also brush it and check its hooves. This will help prevent any problems while you are out walking.
 
@@ -56,7 +58,9 @@ When you are ready to go, put a leash on your goat and enjoy the walk. Just be s
 
 There are a few things you should know about taking care of goats in Skippack PA.
 
-First, you [need to make sure that your goats have access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and food. Goats are browsers, which means they like to eat leaves, twigs, and other vegetation. You should also provide them with hay or straw to help them stay healthy.
+First, you [need to make sure that your goats have access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and food. Goats are browsers, which means they like to eat leaves, twigs, and other vegetation.
+
+You should also provide them with hay or straw to help them stay healthy.
 
 Second, you need to keep an eye on their hooves and trim them when necessary. This will help prevent problems such as overgrown hooves and foot rot.
 
@@ -82,7 +86,9 @@ First, you should put a leash on your goat. This will help prevent them from run
 
 Second, you should stay on designated trails. This will help you avoid areas where there might be hazards such as traffic or other animals.
 
-Third, you should keep an eye on your goat at all times. They can be curious creatures and may try to eat things they shouldn’t. If you see your goat eating something, you should remove it from their mouth and discard it.
+Third, you should keep an eye on your goat at all times. They can be curious creatures and may try to eat things they shouldn’t.
+
+If you see your goat eating something, you should remove it from their mouth and discard it.
 
 Lastly, you should clean up after your goat. This will help prevent the spread of disease and parasites.
 
@@ -108,7 +114,9 @@ First, it is a great way to bond with your goat. Walking side by side with your 
 
 Second, it is a great [form of exercise for both you and your goat](/can-a-goat-form-an-udder-without-being-pregnant/). Getting some fresh air and moving your body is good for your health, and it can also help your goat stay healthy.
 
-Third, it can help socialize your goat. If you take your goat to different places, they will have the opportunity to meet new people and animals. This can help them become more well-rounded and less shy.
+Third, it can help socialize your goat. If you take your goat to different places, they will have the opportunity to meet new people and animals.
+
+This can help them become more well-rounded and less shy.
 
 Lastly, it is a great way to explore Skippack PA. Walking with your goat will allow you to see parts of the town you might not have seen before.
 
@@ -118,9 +126,13 @@ Taking your goat for a walk in Skippack PA can be a great experience for both yo
 
 There are a few risks associated with taking your goat for a walk in Skippack PA.
 
-First, your goat could get lost. If you take your goat off of a leash, they may run off and get lost. Be sure to keep an eye on your goat at all times and keep them on a leash to prevent this from happening.
+First, your goat could get lost. If you take your goat off of a leash, they may run off and get lost.
 
-Second, your goat could get injured. If you take your goat on a hike, they may step on something sharp or come into contact with a hazardous plant. Be sure to stay on designated trails and keep an eye on your goat to prevent this from happening.
+Be sure to keep an eye on your goat at all times and keep them on a leash to prevent this from happening.
+
+Second, your goat could get injured. If you take your goat on a hike, they may step on something sharp or come into contact with a hazardous plant.
+
+Be sure to stay on designated trails and keep an eye on your goat to prevent this from happening.
 
 Lastly, your goat could contract a disease or parasite. If you take your goat to different places, they may come into contact with contaminated water or food.
 

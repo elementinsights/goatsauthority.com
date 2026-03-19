@@ -41,16 +41,21 @@ faq:
   - question: "Can a lactating goat eat beautyberry?"
     answer: "Many people are interested in goats and what they can and cannot eat. Goats are known for being able to eat just about anything, but that doesn't mean that everything is good for them."
 ---
+Taking care of goat's nutrition is vital to their health and well-being. If you're wondering whether goats can eat beautyberry or not.
 
-Taking care of goat's nutrition is vital to their health and well-being. If you're wondering whether goats can eat beautyberry or not. And if so, what are the nutrition facts and risks associated with it?
+And if so, what are the nutrition facts and risks associated with it?
 
 In this article, we will answer all of your questions so that you can make an informed decision about what to [feed your goats](/can-a-goat-feed-quads/).
 
 ## Can goats eat beautyberry?
 
-**Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium. Beautyberry also contains tannins, which can help to protect goats from certain parasites, such as stomach worms.**
+**Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium.**
 
-However, it's important to note that beautyberry is a [nutritionally poor food source for goats](/can-sheep-eat-goat-food/). This means that [goats should not rely on beautyberries as their sole source of nutrition](/can-i-use-regular-milk-to-feed-a-baby-goat/). They should only be fed as a supplement to their diet.
+**Beautyberry also contains tannins, which can help to protect goats from certain parasites, such as stomach worms.**
+
+However, it's important to note that beautyberry is a [nutritionally poor food source for goats](/can-sheep-eat-goat-food/). This means that [goats should not rely on beautyberries as their sole source of nutrition](/can-i-use-regular-milk-to-feed-a-baby-goat/).
+
+They should only be fed as a supplement to their diet.
 
 ## Can a pregnant goat eat beautyberry?
 
@@ -74,7 +79,9 @@ The leaves are high in nutrients and are a good source of fiber, making them an 
 
 Many people are interested in [goats and what they can and cannot eat](/can-goats-eat-carrots/). [Goats are known for being able to eat](/can-goats-eat-grapes/) just about anything, but that doesn't mean that everything is good for them.
 
-So, can a lactating goat eat beautyberry? The answer is yes, but it's crucial to note that beautyberry is not a food source that is rich in nutrients. Actually, it's actually quite low in nutrients. But, [goats will often eat beautyberry](/can-goats-eat-watermelon/) because it tastes good.
+So, can a lactating goat eat beautyberry? The answer is yes, but it's crucial to note that beautyberry is not a food source that is rich in nutrients.
+
+Actually, it's actually quite low in nutrients. But, [goats will often eat beautyberry](/can-goats-eat-watermelon/) because it tastes good.
 
 Beautyberry can be a good occasional treat for goats, but it should not be relied upon as a primary source of food.
 
@@ -102,13 +109,17 @@ So, how much beautyberry can [goats eat](/can-a-goat-eat-sticker-bushes/) withou
 
 While they will eat some grass, it's not their preferred diet. Beautyberries are high in fiber and low in protein, which makes them a good food source for goats.
 
-Despite that, as with all things, moderation is key. A [goat can safely eat](/can-goats-eat-tomatoes/) about 0.5% of its body weight in beautyberries per day. Eating more than this amount could result in digestive issues such as diarrhea or constipation.
+Despite that, as with all things, moderation is key. A [goat can safely eat](/can-goats-eat-tomatoes/) about 0.5% of its body weight in beautyberries per day.
+
+Eating more than this amount could result in digestive issues such as diarrhea or constipation.
 
 So, if you have a goat that weighs 100 pounds, it could safely eat about half a pound of beautyberries per day.
 
 ## Are there any risks associated with feeding beautyberry to goats?
 
-Beautyberry is a shrub that is native to Asia. The berries of the plant are often used in traditional Chinese medicine. Goats are known to be curious animals, and they will often eat plants that they find.
+Beautyberry is a shrub that is native to Asia. The berries of the plant are often used in traditional Chinese medicine.
+
+Goats are known to be curious animals, and they will often eat plants that they find.
 
 While beautyberry is not poisonous to goats, there are some risks associated with feeding it to them. The biggest concern is that the berries of the plant can [cause diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
 
@@ -122,9 +133,13 @@ Assuming you have already consulted with a goat expert about whether beautyberry
 
 One option is to mix dried beautyberry leaves into their daily ration of hay. If you have fresh beautyberry bushes, you can also chop up the leaves and add them to their hay.
 
-Another way to incorporate beautyberry into your goat's diet is to give them fresh beautyberry branches to browse on. If you have a lot of beautyberry bushes, you can even let your goats graze on them. Just be sure to supervise them closely, as they may eat too much and get sick.
+Another way to incorporate beautyberry into your goat's diet is to give them fresh beautyberry branches to browse on. If you have a lot of beautyberry bushes, you can even let your goats graze on them.
 
-Finally, you can also make a beautyberry tea and add it to your [goat's water](/can-i-give-a-sick-goat-water-through-a-syringe/). This can help ensure they are getting enough of the nutrients found in beautyberry. But, you choose to incorporate it, just be sure to do so slowly and carefully so as not to upset your goat's stomach.
+Just be sure to supervise them closely, as they may eat too much and get sick.
+
+Finally, you can also make a beautyberry tea and add it to your [goat's water](/can-i-give-a-sick-goat-water-through-a-syringe/). This can help ensure they are getting enough of the nutrients found in beautyberry.
+
+But, you choose to incorporate it, just be sure to do so slowly and carefully so as not to upset your goat's stomach.
 
 ## Final Thoughts
 

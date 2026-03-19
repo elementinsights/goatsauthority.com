@@ -39,14 +39,17 @@ faq:
   - question: "What are the benefits of using cow shells with goat liners?"
     answer: "There are many benefits to using cow shells with goat liners, including improved airflow, easier maintenance, and better containment."
 ---
+Taking care of animals is a big responsibility. As a farmer, you want to make sure you are using the best products for your animals.
 
-Taking care of animals is a big responsibility. As a farmer, you want to make sure you are using the best products for your animals. You may be wondering if you can use a cow shell with goat liners.
+You may be wondering if you can use a cow shell with goat liners.
 
 In this article, we will answer those questions and provide you with additional information about [caring for your animals](/can-goats-die-from-lymes/).
 
 ## Can I use a cow shell with goat liners?
 
-**You can use a cow shell with goat liners. The cow shell will provide support and comfort for the goat. The liner will help to keep the goat warm and dry. They can also be used to protect the goat from injury.**
+**You can use a cow shell with goat liners. The cow shell will provide support and comfort for the goat.**
+
+**The liner will help to keep the goat warm and dry. They can also be used to protect the goat from injury.**
 
 When using a cow shell with goat liners, you will need to make sure that the liner is the correct size for the goat. You will also need to make sure that the liner is clean and dry before you put it on the goat.
 

@@ -96,15 +96,21 @@ The best time to neuter your male goat is typically between the ages of 4 and 6 
 
 Not all male goats need to be neutered. Despite that, it is generally recommended for male [goats that are at risk](/can-a-cdt-shot-kill-a-goat/) for developing urinary calculi.
 
-Neutering helps to prevent the goat from developing urinary calculi later in life. It is also important to note that neutering does not guarantee that the goat will not develop urinary calculi. But, it is still the best prevention method available.
+Neutering helps to prevent the goat from developing urinary calculi later in life. It is also important to note that neutering does not guarantee that the goat will not develop urinary calculi.
 
-If you have a male goat, talk to a goat expert about whether or not he should be neutered. In most cases, it is recommended for male goats that are at risk for developing urinary calculi. Neutering helps to prevent the goat from developing urinary calculi later in life.
+But, it is still the best prevention method available.
+
+If you have a male goat, talk to a goat expert about whether or not he should be neutered. In most cases, it is recommended for male goats that are at risk for developing urinary calculi.
+
+Neutering helps to prevent the goat from developing urinary calculi later in life.
 
 ## Are there any alternative methods to prevent urinary calculi in male goats?
 
 There are a few alternative methods that may help to prevent urinary calculi in male goats. One method is to feed the goat a diet that is low in protein and calcium.
 
-Another method is to have the goat undergo surgery to remove the stones. In some cases, the goat may also be placed on a special diet that is low in protein and calcium. In severe cases, male goats may need to be euthanized.
+Another method is to have the goat undergo surgery to remove the stones. In some cases, the goat may also be placed on a special diet that is low in protein and calcium.
+
+In severe cases, male goats may need to be euthanized.
 
 If your male goat has urinary calculi, it is best to consult a goat expert about the ideal treatment option for your individual case.
 

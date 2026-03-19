@@ -44,15 +44,21 @@ We will answer all of your questions regarding goats and the bubonic plague in t
 
 ## Can goats get the bubonic plague?
 
-**Goats can get the bubonic plague because they are mammals. The bubonic plague is caused by the bacterium Yersinia pestis, which is found in rodents and their fleas. When an infected animal dies, its carcass can infect other animals that come into contact with it.**
+**Goats can get the bubonic plague because they are mammals. The bubonic plague is caused by the bacterium Yersinia pestis, which is found in rodents and their fleas.**
 
-If you live in an area where the bubonic plague is present, there are some [things you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/). First, you should get them vaccinated against the disease. You should also avoid letting them roam free in areas where there is a risk of exposure to infected animals.
+**When an infected animal dies, its carcass can infect other animals that come into contact with it.**
+
+If you live in an area where the bubonic plague is present, there are some [things you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/). First, you should get them vaccinated against the disease.
+
+You should also avoid letting them roam free in areas where there is a risk of exposure to infected animals.
 
 So, it is important to take some precautions if you live in an area where the bubonic plague is present. But if you do, there is no reason why you can't enjoy having goats as pets.
 
 ## What is the bubonic plague and what are the symptoms of this disease in goats?
 
-The bubonic plague is a disease that affects both humans and animals. It is caused by the bacteria Yersinia pestis. Symptoms of the bubonic plague in goats include fever, lethargy, loss of appetite, and enlarged lymph nodes. 
+The bubonic plague is a disease that affects both humans and animals. It is caused by the bacteria Yersinia pestis.
+
+Symptoms of the bubonic plague in goats include fever, lethargy, loss of appetite, and enlarged lymph nodes.
 
 In some cases, the lymph nodes may become pus-filled and bleed. The disease can be transmitted from animals to humans through contact with infected body fluids or tissues.
 
@@ -64,7 +70,9 @@ Septicemic plague happens when the bacteria enters the bloodstream and spreads t
 
 This particular plague is frequently lethal and can spread through the air. All three plague varieties are dangerous illnesses that need to be treated very away.
 
-The bubonic plague was responsible for some of the deadliest pandemics in history, including the Black Death of the 14th century. Today, it is relatively rare due to advances in medicine and sanitation. However, it still occurs in parts of Africa, Asia, and South America.
+The bubonic plague was responsible for some of the deadliest pandemics in history, including the Black Death of the 14th century. Today, it is relatively rare due to advances in medicine and sanitation.
+
+However, it still occurs in parts of Africa, Asia, and South America.
 
 In recent years, there have been a few cases of bubonic plague in the United States, mostly in rural areas where rodents are common.
 
@@ -94,11 +102,17 @@ By taking these steps, you can help to protect your goats from this deadly disea
 
 ## Are there any other diseases that can affect goats and how can they be prevented/treated?
 
-There are a variety of diseases that can [affect goats](/can-weather-affect-goats-poop/). Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease. Pneumonia is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
+There are a variety of diseases that can [affect goats](/can-weather-affect-goats-poop/). Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease.
 
-Enterotoxemia is a bacterial infection that affects the digestive system. Johne's disease is a chronic bacterial infection that primarily affects the intestines. There are a variety of ways to prevent and treat these diseases.
+Pneumonia is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
 
-Pneumonia can be prevented by vaccination and treated with antibiotics. Enterotoxemia can be prevented by vaccination and treated with antibiotics. Johne's disease can be treated with antibiotics, but there is no effective vaccine available.
+Enterotoxemia is a bacterial infection that affects the digestive system. Johne's disease is a chronic bacterial infection that primarily affects the intestines.
+
+There are a variety of ways to prevent and treat these diseases.
+
+Pneumonia can be prevented by vaccination and treated with antibiotics. Enterotoxemia can be prevented by vaccination and treated with antibiotics.
+
+Johne's disease can be treated with antibiotics, but there is no effective vaccine available.
 
 ## Tips on keeping your goats healthy and safe from all diseases.
 
@@ -118,7 +132,9 @@ By following these simple tips, you can help keep your goats healthy and safe fr
 
 ## Final Thoughts
 
-Goats can get the bubonic plague, but it is a rare disease that can be treated with antibiotics. Vaccination is the best method of prevention. If you suspect your goat has the bubonic plague, seek goat expert care immediately.
+Goats can get the bubonic plague, but it is a rare disease that can be treated with antibiotics. Vaccination is the best method of prevention.
+
+If you suspect your goat has the bubonic plague, seek goat expert care immediately.
 
 In addition, take precautions to prevent your other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
 

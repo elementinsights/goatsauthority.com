@@ -116,7 +116,9 @@ But if you're willing to put in the work, goats can be rewarding and entertainin
 
 The best time to get a goat is in the spring when they are typically born. This allows you to bond with the goat from a young age, and it also gives the goat time to adjust to its new home before winter arrives.
 
-Goats are interesting creatures that have been domesticated for centuries. If you're considering getting a goat, then spring is the best season to do so. They provide milk and meat, but can also be used for their wool or as working animals.
+Goats are interesting creatures that have been domesticated for centuries. If you're considering getting a goat, then spring is the best season to do so.
+
+They provide milk and meat, but can also be used for their wool or as working animals.
 
 ## When is the best time to see a doctor if you think you caught a disease from a goat?
 

@@ -41,22 +41,29 @@ faq:
   - question: "What are the risks of feeding hollyhocks to goats?"
     answer: "Hollyhocks are a type of flowering plant that is commonly found in gardens. While they are not poisonous to goats, hollyhocks can cause digestive problems if they are eaten in large quantities."
 ---
+Taking care of goats can be a fun and rewarding experience. Part of this is knowing what kinds of foods they can and cannot eat.
 
-Taking care of goats can be a fun and rewarding experience. Part of this is knowing what kinds of foods they can and cannot eat. So, can goats eat hollyhocks? And if so, what are the [benefits and risks](/can-a-goat-eat-sticker-bushes/)?
+So, can goats eat hollyhocks? And if so, what are the [benefits and risks](/can-a-goat-eat-sticker-bushes/)?
 
 In this article, we will answer these questions and more. We'll also give you some information on hollyhocks, including their [nutritional content and the best way to feed them to your goats](/can-goats-eat-cattle-feed/).
 
 ## Can goats eat hollyhocks?
 
-**Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits. Hollyhocks are a type of flower that is safe for goats to eat. Hollyhocks also contain nutrients that are beneficial for goats, such as vitamin C and iron.**
+**Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits.**
 
-Despite that, it's important to note that hollyhocks are not a necessary part of a goat's diet. [Goats can live without eating](/can-goats-eat-grapes/) hollyhocks. In fact, [feeding goats hollyhocks is more for your benefit](/can-goats-eat-chicken-feed/) than theirs.
+**Hollyhocks are a type of flower that is safe for goats to eat. Hollyhocks also contain nutrients that are beneficial for goats, such as vitamin C and iron.**
+
+Despite that, it's important to note that hollyhocks are not a necessary part of a goat's diet. [Goats can live without eating](/can-goats-eat-grapes/) hollyhocks.
+
+In fact, [feeding goats hollyhocks is more for your benefit](/can-goats-eat-chicken-feed/) than theirs.
 
 This is because hollyhocks are a source of food that is high in sugar and calories. As a result, [feeding goats](/can-a-goat-feed-quads/) hollyhocks can lead to weight gain and other health problems.
 
 ## What are hollyhocks and what do they look like?
 
-Hollyhocks are a type of flowering plant that belongs to the mallow family. They are tall plants with thin stems, and their leaves are broad and oval-shaped. Hollyhocks usually bloom in the summer, and their flowers come in a variety of colors, including white, pink, purple, and red.
+Hollyhocks are a type of flowering plant that belongs to the mallow family. They are tall plants with thin stems, and their leaves are broad and oval-shaped.
+
+Hollyhocks usually bloom in the summer, and their flowers come in a variety of colors, including white, pink, purple, and red.
 
 The flowers are often double-bloomed, meaning that they have multiple petals. Hollyhocks typically grow to be about 3-6 feet tall, although some varieties can grow even taller.
 
@@ -64,13 +71,19 @@ When hollyhocks are not in bloom, they can be used as ornamental plants. Some pe
 
 ## What are the benefits of feeding hollyhocks to goats?
 
-The Alcea genus of flowering plants includes hollyhocks as a subspecies. These plants have been domesticated for many years; they are native to Asia. Hollyhocks have a number of purposes in conventional medicine in addition to being frequently grown as aesthetic plants.
+The Alcea genus of flowering plants includes hollyhocks as a subspecies. These plants have been domesticated for many years; they are native to Asia.
 
-Hollyhocks, for instance, have both leaves and blossoms that can be used to make tea as well as therapeutic ointments. Hollyhocks are also a well-liked [food source for goats](/can-sheep-eat-goat-food/). Since they are herbivores, goats primarily eat grasses and other types of plants.
+Hollyhocks have a number of purposes in conventional medicine in addition to being frequently grown as aesthetic plants.
+
+Hollyhocks, for instance, have both leaves and blossoms that can be used to make tea as well as therapeutic ointments. Hollyhocks are also a well-liked [food source for goats](/can-sheep-eat-goat-food/).
+
+Since they are herbivores, goats primarily eat grasses and other types of plants.
 
 Goats will, however, also consume other foods, including fruits, vegetables, and even flowers. Due to their high vitamin and fiber content, hollyhocks are a particularly beneficial food source for goats.
 
-[Goats need both of these things](/can-a-dog-get-sick-from-a-goat/) in their diet in order to stay healthy. On top of that, hollyhocks can help goats to keep their digestive system clean and free from parasites. For all these reasons, it's beneficial to [feed hollyhocks to goats](/can-baking-soda-cause-urinary-issues-in-goats/).
+[Goats need both of these things](/can-a-dog-get-sick-from-a-goat/) in their diet in order to stay healthy. On top of that, hollyhocks can help goats to keep their digestive system clean and free from parasites.
+
+For all these reasons, it's beneficial to [feed hollyhocks to goats](/can-baking-soda-cause-urinary-issues-in-goats/).
 
 ## What are the risks of feeding hollyhocks to goats?
 
@@ -96,7 +109,9 @@ If you are unsure whether your [goats are getting enough to eat](/can-goats-eat-
 
 Hollyhocks are a species of flowering plant that is native to Asia. However, they have been introduced to other parts of the world and can now be found in North America, Europe, and Australia.
 
-Hollyhocks typically grow in sunny locations and prefer moist soil. They can reach a height of six feet and produce large flowers that range in color from white to pink to purple. Hollyhocks are often used as ornamental plants, and their flowers are popular with bees and butterflies.
+Hollyhocks typically grow in sunny locations and prefer moist soil. They can reach a height of six feet and produce large flowers that range in color from white to pink to purple.
+
+Hollyhocks are often used as ornamental plants, and their flowers are popular with bees and butterflies.
 
 While hollyhocks can be grown from seed, they are also commonly propagated by division. This involves digging up an existing plant and dividing its roots into several sections.
 
@@ -104,7 +119,9 @@ Each section can then be replanted to create a new hollyhock plant. Hollyhocks a
 
 ## How to prepare hollyhocks for feeding goats?
 
-Hollyhocks are a type of flowering plant that can reach up to six feet in height. They have large, showy flowers that come in a variety of colors, including white, pink, purple, and red. Hollyhocks are relatively easy to grow, and they make an excellent addition to any garden.
+Hollyhocks are a type of flowering plant that can reach up to six feet in height. They have large, showy flowers that come in a variety of colors, including white, pink, purple, and red.
+
+Hollyhocks are relatively easy to grow, and they make an excellent addition to any garden.
 
 Despite that, before you can feed them to your goats, you will need to take some steps to prepare the plants.
 
@@ -118,12 +135,18 @@ Finally, it's crucial to wash the plants thoroughly to remove any dirt or debris
 
 In addition to providing shelter and food, there are a few other important things to keep in mind when taking care of goats.
 
-First, you need to provide them with plenty of fresh water. [Goats are very thirsty animals and can drink up to four gallons of water](/can-goats-drink-baby-formula/) per day. They also like to nibble on grass, so you need to have a well-grazed pasture for them to graze on.
+First, you need to provide them with plenty of fresh water. [Goats are very thirsty animals and can drink up to four gallons of water](/can-goats-drink-baby-formula/) per day.
 
-Lastly, [goats need to have their hooves trimmed](/do-goats-have-cloven-hooves/) regularly. This helps to prevent problems like overgrown hooves and foot rot. By following these simple tips, you can help your goats stay healthy and happy.
+They also like to nibble on grass, so you need to have a well-grazed pasture for them to graze on.
+
+Lastly, [goats need to have their hooves trimmed](/do-goats-have-cloven-hooves/) regularly. This helps to prevent problems like overgrown hooves and foot rot.
+
+By following these simple tips, you can help your goats stay healthy and happy.
 
 ## Final Thoughts
 
-Overall, hollyhocks can be a great addition to your goats' diet. They are an excellent source of nutrients, and they can also help to keep your [goats' digestive system](/can-goats-digest-cotton/) healthy. But, it's important to take some steps to prepare the plants before feeding them to your goats.
+Overall, hollyhocks can be a great addition to your goats' diet. They are an excellent source of nutrients, and they can also help to keep your [goats' digestive system](/can-goats-digest-cotton/) healthy.
+
+But, it's important to take some steps to prepare the plants before feeding them to your goats.
 
 Be sure to choose hollyhocks that are free of pesticides and other chemicals, and wash them thoroughly before feeding. If you follow these simple tips, you can help your goats enjoy a healthy and nutritious meal.

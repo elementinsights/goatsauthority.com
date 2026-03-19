@@ -41,18 +41,25 @@ faq:
   - question: "Are there any risks to domesticating a goat?"
     answer: "There are certain risks associated with owning a pet goat. Goats can be difficult to contain and may escape or wander off if not properly supervised. They also have sharp hooves that can cause injury if they aren’t handled correctly."
 ---
+We all know that dogs, cats, and parrots can be domesticated, but what about goats? Can you domesticate a goat?
 
-We all know that dogs, cats, and parrots can be domesticated, but what about goats? Can you domesticate a goat? And if so, what are the things you need to consider before you take the plunge?
+And if so, what are the things you need to consider before you take the plunge?
 
 In this article, we will answer those questions about domesticating a goat and provide you with the information you need to make sure this is the right decision for you.
 
 ## Can you domesticate a goat?
 
-**You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive. If you plan on keeping multiple goats, make sure the space you provide them is large enough for them to roam and play freely.**
+**You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive.**
 
-In addition, goats need plenty of food, water, and space to exercise. A balanced diet is key to keeping your goat healthy and happy. Access to fresh hay and high-quality [feed will ensure that your goat gets all the nutrition](/can-goats-eat-cattle-feed/) it needs.
+**If you plan on keeping multiple goats, make sure the space you provide them is large enough for them to roam and play freely.**
 
-Goats can be trained like other domesticated animals. Although they may not respond as quickly or with as much enthusiasm as other animals, goats can be taught to walk on a leash and do basic tricks. Proper [training can help ensure](/can-baby-goats-be-house-trained/) that your goat remains safe when you take it out in public.
+In addition, goats need plenty of food, water, and space to exercise. A balanced diet is key to keeping your goat healthy and happy.
+
+Access to fresh hay and high-quality [feed will ensure that your goat gets all the nutrition](/can-goats-eat-cattle-feed/) it needs.
+
+Goats can be trained like other domesticated animals. Although they may not respond as quickly or with as much enthusiasm as other animals, goats can be taught to walk on a leash and do basic tricks.
+
+Proper [training can help ensure](/can-baby-goats-be-house-trained/) that your goat remains safe when you take it out in public.
 
 ## What else should I consider before domesticating a goat?
 
@@ -62,21 +69,29 @@ You should also consider the amount of time you will have to commit to caring fo
 
 If you do decide to domesticate a goat, it is crucial to spay or neuter them. This can help prevent unwanted behavior and reduce their chances of developing certain health issues.
 
-Lastly, keep in mind that goats are loud animals and may make noise throughout the day. If you live in a neighborhood with close neighbors, this could be disruptive for them. Make sure to check your local laws before getting a goat to make sure that it is allowed.
+Lastly, keep in mind that goats are loud animals and may make noise throughout the day. If you live in a neighborhood with close neighbors, this could be disruptive for them.
+
+Make sure to check your local laws before getting a goat to make sure that it is allowed.
 
 ## What are the benefits of domesticating a goat?
 
-Although it takes dedication and commitment, there are many benefits to owning a pet goat. Goats are intelligent creatures that form strong bonds with their owners. They can also be trained to do tricks and even pull carts or carry backpacks.
+Although it takes dedication and commitment, there are many benefits to owning a pet goat. Goats are intelligent creatures that form strong bonds with their owners.
+
+They can also be trained to do tricks and even pull carts or carry backpacks.
 
 Goats are good company and provide hours of entertainment with their unique personalities. They can be a great addition to any family and provide years of fun, companionship, and laughter.
 
 All in all, goats can make great pets if you’re willing to put in the time and effort necessary to properly care for them. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 
-So, can you domesticate a goat? Yes, but like any pet, there are certain considerations to make before taking the plunge. With the right care, goats can make great pets that will reward your commitment with years of love and entertainment.
+So, can you domesticate a goat? Yes, but like any pet, there are certain considerations to make before taking the plunge.
+
+With the right care, goats can make great pets that will reward your commitment with years of love and entertainment.
 
 ## Are there any risks to domesticating a goat?
 
-There are certain [risks associated with owning a pet goat](/can-a-cdt-shot-kill-a-goat/). Goats can be difficult to contain and may escape or wander off if not properly supervised. They also have sharp hooves that can cause injury if they aren’t handled correctly.
+There are certain [risks associated with owning a pet goat](/can-a-cdt-shot-kill-a-goat/). Goats can be difficult to contain and may escape or wander off if not properly supervised.
+
+They also have sharp hooves that can cause injury if they aren’t handled correctly.
 
 [Goats can also spread disease](/can-goats-spread-lice-to-llamas/), so it is crucial to keep up with their vaccinations and deworming schedules.
 
@@ -106,7 +121,9 @@ Goats are intelligent creatures that form strong bonds with their owners, so mak
 
 ## What are the treatments for common goat illnesses?
 
-Like any other animal, goats can be prone to certain illnesses. Some of the most common ailments that [affect goats](/can-weather-affect-goats-poop/) include internal parasites, respiratory infections, and foot rot. It’s important to know how to recognize signs of illness so that you can take action when needed.
+Like any other animal, goats can be prone to certain illnesses. Some of the most common ailments that [affect goats](/can-weather-affect-goats-poop/) include internal parasites, respiratory infections, and foot rot.
+
+It’s important to know how to recognize signs of illness so that you can take action when needed.
 
 If your goat is displaying signs of illness, you should consult a veterinarian for the appropriate treatment. Depending on the problem, your vet may [prescribe medication](/can-you-disbud-a-goat-without-medication/) or recommend a change in diet to help your goat return to health.
 

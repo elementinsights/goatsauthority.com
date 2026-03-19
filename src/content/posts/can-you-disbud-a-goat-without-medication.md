@@ -43,16 +43,21 @@ faq:
   - question: "What are the benefits of disbudding goats without medication or surgery?"
     answer: "There are a few benefits to disbudding goats without medication or surgery. For one, it's a lot less expensive than the alternative methods."
 ---
+We all know that goats need regular healthcare to stay healthy, but what about disbudding? Is it possible to do this without medication?
 
-We all know that goats need regular healthcare to stay healthy, but what about disbudding? Is it possible to do this without medication? And if so, what are the things you need to consider before doing so?
+And if so, what are the things you need to consider before doing so?
 
 In this article, we will answer those questions about provide you with additional information about disbudding and goat health care in general.
 
 ## Can you disbud a goat without medication?
 
-**Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns. This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision.**
+**Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns.**
 
-There are other methods to remove horns without medication, though they come with their own risks. For example, some people use a caustic paste or electrically heated instruments to burn the horn off. Keep in mind that this is dangerous and should only be done by someone experienced.
+**This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision.**
+
+There are other methods to remove horns without medication, though they come with their own risks. For example, some people use a caustic paste or electrically heated instruments to burn the horn off.
+
+Keep in mind that this is dangerous and should only be done by someone experienced.
 
 ## What is disbudding and why is it necessary for goats?
 

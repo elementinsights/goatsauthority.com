@@ -46,13 +46,21 @@ This article will explore the topic in-depth, and provide some answers to common
 
 ## Can Nigerian dwarf goats be with Nubians?
 
-**Nigerian dwarf goats can live with Nubians. In fact, many people choose to keep them together because they get along so well. They can also provide good company for each other, which is important for their mental health and well-being.**
+**Nigerian dwarf goats can live with Nubians. In fact, many people choose to keep them together because they get along so well.**
 
-However, there are a few things that you need to keep in mind if you decide to keep Nigerian dwarf goats with Nubians. First of all, you need to make sure that they have enough space. They should have their own pasture or enclosure where they can roam freely and explore.
+**They can also provide good company for each other, which is important for their mental health and well-being.**
 
-You also need to be aware of the fact that Nigerian dwarf goats are much smaller than Nubians. This means that they can be easily injured by their larger companions. For this reason, it is crucial to supervise them closely when they are together.
+However, there are a few things that you need to keep in mind if you decide to keep Nigerian dwarf goats with Nubians. First of all, you need to make sure that they have enough space.
 
-Another thing to consider is the fact that Nigerian dwarf goats tend to be very active. They may not be able to keep up with the Nubians if they are constantly on the move. This can lead to frustration and even aggression.
+They should have their own pasture or enclosure where they can roam freely and explore.
+
+You also need to be aware of the fact that Nigerian dwarf goats are much smaller than Nubians. This means that they can be easily injured by their larger companions.
+
+For this reason, it is crucial to supervise them closely when they are together.
+
+Another thing to consider is the fact that Nigerian dwarf goats tend to be very active. They may not be able to keep up with the Nubians if they are constantly on the move.
+
+This can lead to frustration and even aggression.
 
 It is also important to note that Nigerian dwarf goats require a lot of care and attention. They are very social creatures and need to be around people or other animals in order to stay happy and healthy.
 

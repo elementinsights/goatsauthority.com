@@ -46,19 +46,27 @@ In this article, we'll answer all of those questions for you and provide some ti
 
 ## Can goats eat poison hemlock?
 
-**Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances. The four-chamber stomach also allows goats to eat large quantities of food quickly, which is helpful when they're grazing.**
+**Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances.**
 
-However, just because goats can eat poison hemlock doesn't mean that they should. Poison hemlock is a highly toxic plant that can cause serious health problems in goats, including death. If a goat eats enough poison hemlock, it can result in respiratory paralysis and death within hours.
+**The four-chamber stomach also allows goats to eat large quantities of food quickly, which is helpful when they're grazing.**
+
+However, just because goats can eat poison hemlock doesn't mean that they should. Poison hemlock is a highly toxic plant that can cause serious health problems in goats, including death.
+
+If a goat eats enough poison hemlock, it can result in respiratory paralysis and death within hours.
 
 So while goats can technically eat poison hemlock, it's not something that you should allow them to do. If you're concerned that your goat may have eaten poison hemlock, contact a livestock expert immediately.
 
 ## What kind of goat can eat poison hemlock without any problem?
 
-Some goats are immune to poison hemlock. They can eat it without any problem. Other goats are not immune and will get sick or die if they eat poisoned hemlock.
+Some goats are immune to poison hemlock. They can eat it without any problem.
+
+Other goats are not immune and will get sick or die if they eat poisoned hemlock.
 
 The difference is in the goats' genes. Some goats have genes that make them immune to poison hemlock and some goats don't.
 
-We don't know why some goats are immune and some aren't. It's just the way they are. When we breed goats, we try to breed the ones that are immune to poison hemlock so that we can have more of them.
+We don't know why some goats are immune and some aren't. It's just the way they are.
+
+When we breed goats, we try to breed the ones that are immune to poison hemlock so that we can have more of them.
 
 But there's no guarantee that every goat we breed will be immune. It all depends on which genes the goat gets from its parents.
 
@@ -80,7 +88,9 @@ Symptoms of poisoning include tremors, incoordination, seizures, and respiratory
 
 While goats are usually good at avoiding poisonous plants, they may be more likely to eat poison hemlock if they are bored or hungry.
 
-Therefore, it's important to provide them with plenty of fresh hay and other forage. You should also keep an eye on them when they are grazing and remove any poison hemlock plants that you see. By taking these precautions, you can help keep your goats safe from this dangerous plant.
+Therefore, it's important to provide them with plenty of fresh hay and other forage. You should also keep an eye on them when they are grazing and remove any poison hemlock plants that you see.
+
+By taking these precautions, you can help keep your goats safe from this dangerous plant.
 
 ## How to prevent your goats from eating poison hemlock?
 

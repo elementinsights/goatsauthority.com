@@ -52,7 +52,9 @@ In this article, we’ll cover everything you need to know about goats and their
 
 ## Can a cat drink goats milk?
 
-**Milk from goats or any other mammal is not an ideal source of nutrition for cats since cats are obligate carnivores. This means that they require animal-based proteins to thrive. In fact, milk can actually cause digestive problems for cats, such as diarrhea and vomiting.**
+**Milk from goats or any other mammal is not an ideal source of nutrition for cats since cats are obligate carnivores. This means that they require animal-based proteins to thrive.**
+
+**In fact, milk can actually cause digestive problems for cats, such as diarrhea and vomiting.**
 
 Additionally, goat's milk contains a lot of lactose, a sugar that cats find challenging to digest. Because of these factors, it's recommended to only provide your cat food and water.
 
@@ -108,9 +110,13 @@ In general, you can give your cat goat's milk as often as you like. Just be sure
 
 Assuming you're weaning a kitten onto goat's milk, start by mixing 3 parts whole milk goat's milk with 1 part evaporated milk. For the first week, give 4 tablespoons (60 ml) of this mixture per 4 ounces (120 ml) of body weight per day.
 
-For example, a 3-pound (1.4 kg) kitten would get 6 tablespoons (90 ml) of goat's milk mixture per day. Divide this amount into 4 equal servings and feed it to the kitten at mealtimes. Kittens should be weaned by 6 weeks of age, at which point they can be switched to whole milk goat's milk.
+For example, a 3-pound (1.4 kg) kitten would get 6 tablespoons (90 ml) of goat's milk mixture per day. Divide this amount into 4 equal servings and feed it to the kitten at mealtimes.
 
-For the first 2 weeks, continue to mix evaporated milk with the goat's milk, but use equal parts of each. After 2 weeks, you can stop using evaporated milk and just offer whole milk goat's milk. kittens should have free access to fresh water at all times.
+Kittens should be weaned by 6 weeks of age, at which point they can be switched to whole milk goat's milk.
+
+For the first 2 weeks, continue to mix evaporated milk with the goat's milk, but use equal parts of each. After 2 weeks, you can stop using evaporated milk and just offer whole milk goat's milk.
+
+kittens should have free access to fresh water at all times.
 
 Once a kitten is fully weaned, he can continue drinking goat's milk as long as he wants. There's no need to switch to cow's milk or another type of milk unless he starts showing signs of lactose intolerance, such as diarrhea or vomiting.
 

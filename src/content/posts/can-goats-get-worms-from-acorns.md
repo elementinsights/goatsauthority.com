@@ -39,14 +39,17 @@ faq:
   - question: "How many acorns should a goat eat per day?"
     answer: "There is no set amount of acorns that a goat should eat per day. However, you should consult with a goat expert to make sure that your goat is getting enough to meet their nutritional needs."
 ---
+We all know that goats are notorious for eating just about anything. So, it's no surprise that they would be curious about acorns.
 
-We all know that goats are notorious for eating just about anything. So, it's no surprise that they would be curious about acorns. But can goats actually get worms from eating acorns? And if so, what are the symptoms
+But can goats actually get worms from eating acorns? And if so, what are the symptoms
 
 In this article, we will answer the question, can goats get worms from acorns. We will also discuss the symptoms of worms in goats, and how to treat them.
 
 ## Can goats get worms from acorns?
 
-**Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats. Acorns also contain tannins, which are unpalatable to goats and other animals. Tannins have also been known to have anti-parasitic properties.**
+**Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats.**
+
+**Acorns also contain tannins, which are unpalatable to goats and other animals. Tannins have also been known to have anti-parasitic properties.**
 
 On top of that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when [goats were fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) a diet of 80% acorns, they did not develop any parasites.
 
@@ -62,7 +65,9 @@ In addition to plants, [goats will also consume small amounts](/can-i-feed-a-sma
 
 Although goats will consume practically any kind of plant, they particularly enjoy acorns. Acorns are actually a nutritious [food source for goats](/can-sheep-eat-goat-food/), which may seem surprising to say.
 
-They are rich in protein and fat and have important vitamins and minerals. Acorns can also [benefit the condition of a goat's coat](/can-benadryl-hurt-a-goat/). Because of these factors, goats frequently seek out acorns when they are there.
+They are rich in protein and fat and have important vitamins and minerals. Acorns can also [benefit the condition of a goat's coat](/can-benadryl-hurt-a-goat/).
+
+Because of these factors, goats frequently seek out acorns when they are there.
 
 ## What are the benefits of feeding goats acorns?
 
@@ -70,13 +75,17 @@ They are rich in protein and fat and have important vitamins and minerals. Acorn
 
 Additionally, they provide important vitamins and minerals like calcium, phosphorus, potassium, and magnesium. A [goat's coat can benefit from eating acorns](/can-a-goat-eat-too-many-dewormer-pellets/) as well.
 
-One of the most important [benefits of feeding goats](/can-goats-eat-chicken-feed/) acorns is that they can help to reduce parasites. This is due to the fact that acorns contain tannins, which have anti-parasitic properties. Tannins are also unpalatable to goats and other animals, so they are less likely to eat them.
+One of the most important [benefits of feeding goats](/can-goats-eat-chicken-feed/) acorns is that they can help to reduce parasites. This is due to the fact that acorns contain tannins, which have anti-parasitic properties.
+
+Tannins are also unpalatable to goats and other animals, so they are less likely to eat them.
 
 ## How many acorns should a goat eat per day?
 
 There is no set amount of acorns that a [goat should eat](/can-a-goat-eat-sticker-bushes/) per day. However, you should consult with a goat expert to make sure that your goat is getting enough to meet their nutritional needs.
 
-In general, goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage. For a 100-pound goat, this would be 2-3 pounds of dry matter per day. If you are [feeding your goat](/can-baking-soda-cause-urinary-issues-in-goats/) acorns, they can make up a significant portion of their diet.
+In general, goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage.
+
+For a 100-pound goat, this would be 2-3 pounds of dry matter per day. If you are [feeding your goat](/can-baking-soda-cause-urinary-issues-in-goats/) acorns, they can make up a significant portion of their diet.
 
 If you are unsure about how many acorns to [feed your goat](/can-a-goat-feed-quads/), it is best to start with a small amount and increase it gradually. This will help you to avoid overfeeding, which can lead to health problems.
 
@@ -110,10 +119,14 @@ If your goat is infected with worms, the best course of treatment is to deworm t
 
 Deworming is typically done on a regular basis, in order to prevent re-infection. In some cases, a single dose of dewormer may be all that is needed to clear an infection.
 
-Despite that, in other cases, multiple doses may be required. If your goat is seriously ill as a result of worms, it may need to be hospitalized and treated with medication. In some cases, surgery may also be necessary.
+Despite that, in other cases, multiple doses may be required. If your goat is seriously ill as a result of worms, it may need to be hospitalized and treated with medication.
+
+In some cases, surgery may also be necessary.
 
 ## Final Thoughts
 
-Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for. The best way to prevent worms in goats is to practice good hygiene and regularly deworm your animals.
+Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.
+
+The best way to prevent worms in goats is to practice good hygiene and regularly deworm your animals.
 
 You should also provide them with a healthy diet and plenty of clean, fresh water. If you suspect that your goat has worms, you should take them to a goat expert for diagnosis and treatment.

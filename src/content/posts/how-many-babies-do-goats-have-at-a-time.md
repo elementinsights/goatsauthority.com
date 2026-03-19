@@ -48,7 +48,9 @@ We will address all these questions, and more, in this article and provide you w
 
 ## How many babies do goats have at a time?
 
-**Goats usually have between two and four kids at a time, although some may have more. Twins are the most common, but triplets and quadruplets are not uncommon. On average, a doe will give birth to about 2.5 kids per year.**
+**Goats usually have between two and four kids at a time, although some may have more. Twins are the most common, but triplets and quadruplets are not uncommon.**
+
+**On average, a doe will give birth to about 2.5 kids per year.**
 
 However, every now and again, a doe will have what is known as a "dry year," where she doesn't produce any offspring. Dry years are relatively rare, but they can happen from time to time.
 
@@ -82,11 +84,15 @@ Therefore, it's always important to consult with a livestock expert if any conce
 
 Caring for a nursing goat and her baby is not difficult, but there are a few things you need to do to make sure they are healthy and happy.
 
-First, you will need to provide them with plenty of fresh water and hay. Goats are very active and need a lot of water to stay hydrated. Hay is important for their digestion and also provides them with essential nutrients.
+First, you will need to provide them with plenty of fresh water and hay. Goats are very active and need a lot of water to stay hydrated.
+
+Hay is important for their digestion and also provides them with essential nutrients.
 
 Secondly, you will need to give them access to a pasture or other grazing area. Goats are natural foragers and love to graze on grasses and other plants.
 
-Finally, you will need to provide them with shelter from the elements. Goats are fairly hardy animals, but they still need protection from the sun, wind, and rain. A simple three-sided shed will suffice. By following these simple tips, you can easily care for a nursing goat and her baby.
+Finally, you will need to provide them with shelter from the elements. Goats are fairly hardy animals, but they still need protection from the sun, wind, and rain.
+
+A simple three-sided shed will suffice. By following these simple tips, you can easily care for a nursing goat and her baby.
 
 ## When do goat kids start to eat solid food and drink water?
 
@@ -100,7 +106,9 @@ It's normal for them to want to nurse, even though they're eating solid food and
 
 What kind of solid food do goat kids eat? They eat the same things that adult goats eat: hay, grain, pellets, vegetables, fruits, etc.
 
-The only difference is that kids eat less of it because their stomachs are smaller. Don't worry about giving them too much food - they'll let you know when they're full. Just make sure they have plenty of hay and fresh water available at all times.
+The only difference is that kids eat less of it because their stomachs are smaller. Don't worry about giving them too much food - they'll let you know when they're full.
+
+Just make sure they have plenty of hay and fresh water available at all times.
 
 Kids are very active and playful, so they need a lot of energy to keep up with their brothers and sisters. That's why it's important to give them a high-quality diet that meets all their nutritional needs.
 
@@ -122,7 +130,9 @@ In order to raise goats, you will need to understand their specific needs at ea
 
 When they're young, kids will need a diet of milk replacer or whole milk, hay, and grain. As they get older, you can gradually introduce them to fresh pasture, and by six months old they should be mostly eating grass.
 
-Adult goats require hay, fresh water, and a mineral supplement. They also enjoy occasional treats like fresh fruits or vegetables. With proper care, your goats will provide you with years of companionship and enjoyment.
+Adult goats require hay, fresh water, and a mineral supplement. They also enjoy occasional treats like fresh fruits or vegetables.
+
+With proper care, your goats will provide you with years of companionship and enjoyment.
 
 ## Final Thoughts
 

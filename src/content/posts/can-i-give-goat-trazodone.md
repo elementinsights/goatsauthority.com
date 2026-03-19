@@ -50,7 +50,9 @@ In this article, we will answer those questions and provide some tips on goat ca
 
 ## Can I give goat trazodone?
 
-**You can give goats trazodone. This medication is used to treat depression in humans, but it can also be used to treat anxiety in animals. It works by increasing the levels of serotonin in the brain, which has a calming effect.**
+**You can give goats trazodone. This medication is used to treat depression in humans, but it can also be used to treat anxiety in animals.**
+
+**It works by increasing the levels of serotonin in the brain, which has a calming effect.**
 
 The recommended dose for goats is 2.5 mg per kg body weight, given once daily. This can be increased to 5 mg per kg body weight if needed.
 
@@ -110,7 +112,9 @@ With proper care and attention, your goat will be on their way back to good heal
 
 ## What are the possible side effects of Trazodone?
 
-Like any medication, Trazodone comes with a [risk of side effects](/can-a-cdt-shot-kill-a-goat/). The most common ones include dizziness, drowsiness, and dry mouth. In some cases, goats may also experience nausea, vomiting, or diarrhea.
+Like any medication, Trazodone comes with a [risk of side effects](/can-a-cdt-shot-kill-a-goat/). The most common ones include dizziness, drowsiness, and dry mouth.
+
+In some cases, goats may also experience nausea, vomiting, or diarrhea.
 
 More serious side effects are rare but can include difficulty breathing, changes in heart rate, and seizures. If you notice any of these signs after administering Trazodone to your goat, it is important to seek immediate goat expert assistance.
 

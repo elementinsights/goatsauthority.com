@@ -39,8 +39,9 @@ faq:
   - question: "Are there any risks associated with using Neosporin on goats?"
     answer: "There are several potential risks associated with using Neosporin on goats. For one thing, the use of antibiotics like Neosporin can lead to antibiotic resistance in both people and animals."
 ---
+Taking care of goats can be a rewarding experience. They are interesting creatures with their own unique behaviors and personalities.
 
-Taking care of goats can be a rewarding experience. They are interesting creatures with their own unique behaviors and personalities. If you're thinking about getting goats, it's important to do your research so that you can provide them with the best possible care.
+If you're thinking about getting goats, it's important to do your research so that you can provide them with the best possible care.
 
 One question that often comes up is whether or not you can put Neosporin on your goats. And if so, what are the [things you need to consider](/can-a-dog-get-sick-from-a-goat/)?
 

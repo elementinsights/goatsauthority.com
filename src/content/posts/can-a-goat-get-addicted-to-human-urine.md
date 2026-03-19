@@ -56,7 +56,9 @@ But what many people don't realize is that goats will also consume human urine. 
 
 Urine contains high levels of nitrogen, which is an essential nutrient for plants. When applied to soil, it can help to encourage growth.
 
-Urine is also a good source of phosphorus, another key nutrient for plants. Besides that, urine can help to control the spread of diseases in goats. By applying urine to their coats, farmers can help to prevent the spread of lice and other parasites.
+Urine is also a good source of phosphorus, another key nutrient for plants. Besides that, urine can help to control the spread of diseases in goats.
+
+By applying urine to their coats, farmers can help to prevent the spread of lice and other parasites.
 
 Lastly, urine can also repel predators. The strong smell of urine can deter lions and other predators from attacking a herd of goats.
 
@@ -86,7 +88,9 @@ While this is not common, it's something to be aware of if you choose to let you
 
 The bottom line
 
-Overall, the risks of letting a goat drink human urine are low. But, there are a few potential risks to consider. If you have any concerns, be sure to consult a professional.
+Overall, the risks of letting a goat drink human urine are low. But, there are a few potential risks to consider.
+
+If you have any concerns, be sure to consult a professional.
 
 ## What breed of goat drinks human urine?
 
@@ -94,7 +98,9 @@ Contrary to popular belief, not all goats are attracted to human urine. In fact,
 
 Native to the island of Questris, these goats have a long history of drinking urine from humans. The practice is thought to have originated as a way to prevent dehydration, as Questris is a very dry and arid climate.
 
-Over time, the goats began to enjoy the taste of urine and would actively seek it out from humans. While the practice may seem unsavory to some, it's actually considered quite normal on Questris. In fact, many residents even believe that drinking urine helps to promote good health and vitality.
+Over time, the goats began to enjoy the taste of urine and would actively seek it out from humans. While the practice may seem unsavory to some, it's actually considered quite normal on Questris.
+
+In fact, many residents even believe that drinking urine helps to promote good health and vitality.
 
 If you're interested in trying this unusual practice, be sure to purchase a Questris goat. These goats are the only known breed that actively seeks out and enjoys drinking human urine.
 
@@ -110,7 +116,9 @@ When choosing a supplier, it's important to consider factors such as price, geog
 
 The Questris goat is a rare breed of goat that is native to the island of Questris. There are only an estimated 200 of these goats in the world, making them one of the most endangered animal species on the planet.
 
-The Questris goat is distinctive for its long, curved horns and its thick, shaggy coat. These goats are also known for their intelligence and playful nature. Unfortunately, the Questris goat is under threat from habitat loss and hunting.
+The Questris goat is distinctive for its long, curved horns and its thick, shaggy coat. These goats are also known for their intelligence and playful nature.
+
+Unfortunately, the Questris goat is under threat from habitat loss and hunting.
 
 As a result, the Questris goat is considered to be one of the most endangered animals in the world.
 
@@ -122,6 +130,8 @@ Still, it's important to note that any trade in Questris goats is illegal and pu
 
 ## Final Thoughts
 
-A goat can get addicted to human urine. However, this is rare and only occurs in one specific breed of a goat: the Questris goat. These goats are native to the island of Questris and have developed a taste for human urine over time.
+A goat can get addicted to human urine. However, this is rare and only occurs in one specific breed of a goat: the Questris goat.
+
+These goats are native to the island of Questris and have developed a taste for human urine over time.
 
 While there are some potential risks associated with letting a goat drink human urine, many people believe that the practice can actually promote good health and vitality.

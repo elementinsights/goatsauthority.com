@@ -104,7 +104,9 @@ One of the most important things to consider when breeding Nigerian dwarf goats 
 
 A healthy diet for a Nigerian dwarf goat doeling should include plenty of hay, fresh vegetables, and a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of grain.
 
-it's also important to make sure that the doeling has access to fresh water at all times. In terms of exercise, you need to allow the doeling ample opportunities to play and run around. This will help to keep the doeling muscles and bones strong.
+it's also important to make sure that the doeling has access to fresh water at all times. In terms of exercise, you need to allow the doeling ample opportunities to play and run around.
+
+This will help to keep the doeling muscles and bones strong.
 
 Finally, it's also important to provide the doeling with plenty of socialization opportunities. This will help to ensure that the doeling grows up to be a well-rounded and social animal.
 

@@ -68,9 +68,13 @@ Additionally, another study found that people who followed a goat milk ayurveda 
 
 Goat milk has been used as a traditional remedy in Ayurvedic medicine for centuries. But, there's little scientific evidence to support its use, and some experts have raised concerns about its safety.
 
-Goat milk is often touted as a natural source of enzymes, vitamins, and minerals. It's also said to be easier to digest than cow's milk. Despite that, goat milk also contains high levels of fat and cholesterol. In addition, it may contain harmful bacteria if it's not properly pasteurized.
+Goat milk is often touted as a natural source of enzymes, vitamins, and minerals. It's also said to be easier to digest than cow's milk.
 
-there's no data on the long-term effects of consuming goat milk. But, some experts believe that it may increase the risk of developing obesity, heart disease, and cancer. Therefore, it's crucial to speak with a healthcare provider before giving goat milk to children.
+Despite that, goat milk also contains high levels of fat and cholesterol. In addition, it may contain harmful bacteria if it's not properly pasteurized.
+
+there's no data on the long-term effects of consuming goat milk. But, some experts believe that it may increase the risk of developing obesity, heart disease, and cancer.
+
+Therefore, it's crucial to speak with a healthcare provider before giving goat milk to children.
 
 ## How can you safely give your child goat milk ayurveda?
 

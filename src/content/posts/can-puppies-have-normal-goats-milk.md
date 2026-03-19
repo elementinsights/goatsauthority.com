@@ -41,8 +41,9 @@ faq:
   - question: "How much goat milk should the puppy drink?"
     answer: "There is no one-size-fits-all answer to the question of how much goat milk a puppy should drink. This will depend greatly on factors such as the size and age of the dog, as well as its general health and dietary habits."
 ---
+A crucial part of having a puppy is feeding them properly to ensure they grow into healthy dogs. With that in mind, can puppies have normal goat's milk?
 
-A crucial part of having a puppy is feeding them properly to ensure they grow into healthy dogs. With that in mind, can puppies have normal goat's milk? And if so, what are the things you need to consider before giving it to them?
+And if so, what are the things you need to consider before giving it to them?
 
 In this article, we will answer those questions and provide you with additional information about [goats and their milk](/can-i-get-goat-milk-at-luckys-market/), as well as some tips on how to care for your puppy.
 
@@ -118,7 +119,7 @@ This can come in the form of regular playtime and bonding with your pup, which i
 
 In addition, consistent potty training is essential if you want to prevent accidents in the house. This can mean taking your dog outside frequently throughout the day as well as practicing proper cues like "go potty" or "go pee."
 
-Another important tip is to make sure that your puppy gets lots of exercises. This doesn't just mean physical exercises like walks or runs – mental stimulation is equally important for keeping your dog healthy and happy.
+Another important tip is to make sure that your puppy gets lots of exercises. This doesn't just mean physical exercises like walks or runs, mental stimulation is equally important for keeping your dog healthy and happy.
 
 Some ideas for getting your puppy's brain moving include puzzle toys, sports that require coordination and timing (like fetch or Frisbee), and even social interaction with other pets or humans. With these simple tips, you'll be well on your way to raising a happy and healthy puppy.
 

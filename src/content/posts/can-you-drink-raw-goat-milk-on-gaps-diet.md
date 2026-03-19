@@ -84,7 +84,9 @@ Also, consuming high-quality, fermented dairy products like kefir and yogurt can
 
 When incorporating dairy into the GAPS diet, it's important to pick dairy products that are of high quality and grass-fed. These types of dairy contain fewer hormones, antibiotics, and harmful additives, and are more nutritious compared to conventional dairy products.
 
-It's also important to keep in mind personal tolerance. Some individuals can consume dairy without any problems, while others may experience digestive discomfort or other symptoms. If this is the case, it's best to avoid dairy or introduce it gradually in small amounts to see how it affects you.
+It's also important to keep in mind personal tolerance. Some individuals can consume dairy without any problems, while others may experience digestive discomfort or other symptoms.
+
+If this is the case, it's best to avoid dairy or introduce it gradually in small amounts to see how it affects you.
 
 Adding high-quality dairy to the GAPS diet can bring numerous advantages to gut health and overall wellness.
 

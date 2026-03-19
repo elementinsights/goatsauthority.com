@@ -43,16 +43,21 @@ faq:
   - question: "How do you go about getting raw goat's milk for your sheep?"
     answer: "There are a few steps involved in getting raw goat's milk for your sheep. First, you'll need to identify local farms or businesses that produce and sell goat's milk."
 ---
+Taking care of sheep can be a lot of fun. If you're thinking about getting sheep, you may be wondering if they can drink raw goat's milk or not.
 
-Taking care of sheep can be a lot of fun. If you're thinking about getting sheep, you may be wondering if they can drink raw goat's milk or not. And if so, what are the things you need to consider?
+And if so, what are the things you need to consider?
 
 In this article, we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
 
 ## Can sheep drink raw goats milk?
 
-**Sheep can drink raw goat's milk because they are both mammals. In fact, raw goat's milk is actually good for sheep. It is a source of nutrition that contains essential vitamins and minerals, as well as other benefits and nutrients that help keep sheep healthy.**
+**Sheep can drink raw goat's milk because they are both mammals. In fact, raw goat's milk is actually good for sheep.**
 
-In addition, raw goat's milk is easier for sheep to digest than cow's milk. This is because sheep have a different type of stomach than cows. Sheep stomachs are more similar to human stomachs, so they can better digest the fat and [proteins in raw goat's milk](/can-i-mix-goat-milk-with-whey-protein/).
+**It is a source of nutrition that contains essential vitamins and minerals, as well as other benefits and nutrients that help keep sheep healthy.**
+
+In addition, raw goat's milk is easier for sheep to digest than cow's milk. This is because sheep have a different type of stomach than cows.
+
+Sheep stomachs are more similar to human stomachs, so they can better digest the fat and [proteins in raw goat's milk](/can-i-mix-goat-milk-with-whey-protein/).
 
 ## What is raw goat's milk and what are the benefits for sheep?
 

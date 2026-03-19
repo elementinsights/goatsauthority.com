@@ -48,7 +48,9 @@ We will answer those questions in this article and provide you with additional i
 
 ## Can you band a 2 year old buck goat?
 
-**You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population. They are also more likely to mate if they are not banded, so this may be something you want to consider as well.**
+**You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population.**
+
+**They are also more likely to mate if they are not banded, so this may be something you want to consider as well.**
 
 If you do decide to band your goat, there are a few things you need to take into account. First of all, you will need to make sure that the bands are tight enough so that they won't slip off but not too tight that they will cut off the circulation.
 
@@ -98,7 +100,9 @@ There are many [risks associated with not banding your goat](/can-a-cdt-shot-kil
 - They will be more aggressive, and may even hurt other animals or people.
 - Their meat will be tough and gamey, making it less desirable for consumption.
 
-Overall, it is simply not worth the risk to not band your goat. Not only will they be less healthy and happy, but they will also pose a danger to themselves and others. So do yourself (and your goat) a favor and make sure to get them properly banded.
+Overall, it is simply not worth the risk to not band your goat. Not only will they be less healthy and happy, but they will also pose a danger to themselves and others.
+
+So do yourself (and your goat) a favor and make sure to get them properly banded.
 
 ## How to prevent your goat from getting loose?
 
@@ -112,13 +116,17 @@ Finally, you can also consider banding your goat. This will help to discourage t
 
 ## What are the treatments for an escaped goat?
 
-If your goat does manage to escape, there are a few things you can do to treat them. One is to give them a bath. This will help to remove any dirt or debris that they may have picked up while they were loose.
+If your goat does manage to escape, there are a few things you can do to treat them. One is to give them a bath.
+
+This will help to remove any dirt or debris that they may have picked up while they were loose.
 
 You should also check them for ticks or fleas. If you find any, you will need to remove them and treat the area with a topical ointment.
 
 Finally, you should give your goat a thorough examination to make sure they did not injure themselves while they were out. If you find any cuts or scrapes, you will need to clean and bandage them.
 
-With a little preparation, you can help to ensure that your goat stays safe and healthy. By banding them and keeping their enclosure secure, you can help to prevent them from getting loose. And if they do happen to escape, you will know how to properly treat them.
+With a little preparation, you can help to ensure that your goat stays safe and healthy. By banding them and keeping their enclosure secure, you can help to prevent them from getting loose.
+
+And if they do happen to escape, you will know how to properly treat them.
 
 ## Additional information on goats
 
@@ -126,7 +134,9 @@ Though often thought of as dirty and smelly animals, goats are actually very cle
 
 They are also intelligent and can be trained to perform tricks or tasks. In addition, goats are very social creatures and enjoy spending time with other goats as well as with humans.
 
-Did you know that there are over 300 different [breeds of goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/)? And that they come in all sorts of colors, from black and white to brown and red? Some people even keep miniature goats as pets. So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
+Did you know that there are over 300 different [breeds of goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/)? And that they come in all sorts of colors, from black and white to brown and red?
+
+Some people even keep miniature goats as pets. So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
 
 ## Final Thoughts
 

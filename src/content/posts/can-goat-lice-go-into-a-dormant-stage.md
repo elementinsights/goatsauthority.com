@@ -48,7 +48,9 @@ In this article about goat lice and dormancy, we will address all of your concer
 
 ## Can goat lice go into a dormant stage?
 
-**Goat lice can go into a dormant stage. In this state, the lice are not feeding and are less active. The length of time that goat lice can stay in this stage depends on the temperature and humidity levels, as well as the amount of food available.**
+**Goat lice can go into a dormant stage. In this state, the lice are not feeding and are less active.**
+
+**The length of time that goat lice can stay in this stage depends on the temperature and humidity levels, as well as the amount of food available.**
 
 Despite that, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your [goats have lice](/can-goat-lice-live-on-humans/), it's best to consult a goat expert.
 
@@ -74,7 +76,9 @@ Goat lice are most often found on the head, neck, and shoulders, but they can al
 
 Lice can also be a nuisance to humans, causing itching and irritation. To control goat lice, you need to maintain good hygiene and cleanliness around goats.
 
-Prompt removal of dead and [dying animals](/can-goats-die-from-lymes/) from pasture is also important. Chemical control products are available but should be used according to label directions. Consult with a veterinarian or animal health specialist for more information on controlling goat lice.
+Prompt removal of dead and [dying animals](/can-goats-die-from-lymes/) from pasture is also important. Chemical control products are available but should be used according to label directions.
+
+Consult with a veterinarian or animal health specialist for more information on controlling goat lice.
 
 ## What effect does food availability have on the dormancy of goat lice?
 
@@ -92,7 +96,9 @@ As a result, food availability is an important factor that can affect the dorman
 
 There are two main types of goat lice: the body louse and the head louse. Body lice are larger than head lice and are typically found in areas where the hair is thinner, such as around the neck and under the forelegs.
 
-Head lice are smaller and tend to cling to the hair near the [goat's head](/can-goats-die-from-their-own-horns-grow-into-heads/). Both types of lice feed on skin cells and can cause irritation and itching. In severe infestations, lice can lead to anemia and even death.
+Head lice are smaller and tend to cling to the hair near the [goat's head](/can-goats-die-from-their-own-horns-grow-into-heads/). Both types of lice feed on skin cells and can cause irritation and itching.
+
+In severe infestations, lice can lead to anemia and even death.
 
 Goat lice are most commonly found on animals that are not well-groomed or that live in cramped, unsanitary conditions.
 

@@ -50,9 +50,13 @@ In this article, we'll provide everything you need to know about tethering goats
 
 ## Can goats be tethered?
 
-**Goats can be tethered because they have a strong natural instinct to stay with their herd. When goats are tethered, they will usually stay close to the other goats in the herd. They are also very social animals and will often seek out the company of other goats.**
+**Goats can be tethered because they have a strong natural instinct to stay with their herd. When goats are tethered, they will usually stay close to the other goats in the herd.**
 
-However, there are some things to consider before tethering your goats. Goats need a lot of space to roam and explore. When they are tethered, they may not be able to get the exercise they need. This can lead to boredom and health problems.
+**They are also very social animals and will often seek out the company of other goats.**
+
+However, there are some things to consider before tethering your goats. Goats need a lot of space to roam and explore.
+
+When they are tethered, they may not be able to get the exercise they need. This can lead to boredom and health problems.
 
 ## The benefits of tethering goats
 

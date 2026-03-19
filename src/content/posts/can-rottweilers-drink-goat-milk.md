@@ -50,7 +50,9 @@ In this article, we will answer those questions about goat's milk and rottweiler
 
 ## Can rottweilers drink goat milk?
 
-**Rottweilers can drink goat's milk as long as it is raw and unpasteurized. Goat's milk is a good alternative to**cow's milk for rottweilers who are lactose intolerant. It is also higher in calcium, phosphorus, and fat than cow's milk.
+**Rottweilers can drink goat's milk as long as it is raw and unpasteurized. Goat's milk is a good alternative to**cow's milk for rottweilers who are lactose intolerant.
+
+It is also higher in calcium, phosphorus, and fat than cow's milk.
 
 When choosing goat's milk for your rottweiler, make sure to get it from a reputable source. The milk should be free of synthetic hormones and antibiotics.
 

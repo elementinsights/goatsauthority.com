@@ -41,16 +41,21 @@ faq:
   - question: "How can you help ensure your goat has good vision?"
     answer: "Vision is an important sense for goats and good vision is necessary for their safety and well-being. There are a few things you can do to help ensure your goat has a good vision."
 ---
+The saying goes that the eyes are the windows to the soul. But what about goats?
 
-The saying goes that the eyes are the windows to the soul. But what about goats? Do they have good eyesight? What kind of things do they see when they look around?
+Do they have good eyesight? What kind of things do they see when they look around?
 
 In this article, we'll explore everything you need to know about goat vision.
 
 ## Do goats have good eyesight?
 
-**Goats have very good eyesight. Their eyes are among the most advanced in the animal kingdom. Goats have horizontal pupils, which gives them a wider field of view than other animals. They can also see in near-darkness and have excellent depth perception.**
+**Goats have very good eyesight. Their eyes are among the most advanced in the animal kingdom.**
 
-However, goats don't see colors the way we do. They can only see blues and yellows. This is because their retinas have fewer cones, which are the cells that detect colors.
+**Goats have horizontal pupils, which gives them a wider field of view than other animals. They can also see in near-darkness and have excellent depth perception.**
+
+However, goats don't see colors the way we do. They can only see blues and yellows.
+
+This is because their retinas have fewer cones, which are the cells that detect colors.
 
 ## What do goats see when they look around?
 
@@ -100,11 +105,19 @@ So, in answer to the question, “What kind of eye care should be provided for g
 
 ## What are some common myths about goats' vision that you may have heard before?
 
-There are many myths about goats' vision. One myth is that goats have poor vision. However, this is not true. Goats have very good eyesight and can see clearly at long distances.
+There are many myths about goats' vision. One myth is that goats have poor vision.
 
-Another myth is that goats are colorblind. This is also not true. Goats can see all colors, although they may not be as vibrant as we see them. Another common myth is that goats only see in black and white. Again, this is not true.
+However, this is not true. Goats have very good eyesight and can see clearly at long distances.
 
-Goats can see all colors, but they are not as vibrant as we see them. The last myth is that goats have poor night vision. This is false as well. Goats have very good night vision and can see in low light conditions better than many other animals.
+Another myth is that goats are colorblind. This is also not true.
+
+Goats can see all colors, although they may not be as vibrant as we see them. Another common myth is that goats only see in black and white.
+
+Again, this is not true.
+
+Goats can see all colors, but they are not as vibrant as we see them. The last myth is that goats have poor night vision.
+
+This is false as well. Goats have very good night vision and can see in low light conditions better than many other animals.
 
 ## How does their eyesight compare to other animals?
 
@@ -114,7 +127,9 @@ This is because mammals typically rely on other senses, such as smell and hearin
 
 On top of that, most mammals are active during the nighttime hours, when vision is not as effective. In contrast, birds and reptiles have much better vision than mammals.
 
-These animals tend to be diurnal, meaning they are active during the daytime hours. In addition, their eyes are typically larger in proportion to their body size, which gives them a greater ability to gather light. As a result, they are able to see objects in greater detail than mammals.
+These animals tend to be diurnal, meaning they are active during the daytime hours. In addition, their eyes are typically larger in proportion to their body size, which gives them a greater ability to gather light.
+
+As a result, they are able to see objects in greater detail than mammals.
 
 Finally, some animals, such as bats and moles, have very poor eyesight. These animals rely heavily on other senses, such as echolocation, to navigate their environment.
 
@@ -128,6 +143,8 @@ So, if you are ever in doubt about whether or not a goat can see something, rest
 
 ## Final Thoughts
 
-Goats do have good eyesight. They are able to see all colors, although they may not be as vibrant as we see them. Additionally, goats have very good night vision and can see in low light conditions better than many other animals.
+Goats do have good eyesight. They are able to see all colors, although they may not be as vibrant as we see them.
+
+Additionally, goats have very good night vision and can see in low light conditions better than many other animals.
 
 So, if you ever have a question about whether or not a goat can see something, the answer is probably yes. Goats are very perceptive animals and their eyesight is just one more way that they are able to navigate and understand their environment.

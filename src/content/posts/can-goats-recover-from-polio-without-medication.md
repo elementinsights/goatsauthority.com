@@ -52,7 +52,9 @@ In this article, we will answer this question and provide you with some tips on 
 
 ## Can goats recover from polio without medication?
 
-**Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment. Make sure they have plenty of fresh water and food.**
+**Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment.**
+
+**Make sure they have plenty of fresh water and food.**
 
 However, it is important to note that there is no known cure for polio. So, while your goat may recover from the disease, they may still be susceptible to it in the future.
 
@@ -60,9 +62,13 @@ If you suspect that your goat has polio, you need to contact a veterinarian imme
 
 ## What is polio and what are the symptoms in goats?
 
-Polio is a viral disease that primarily affects children under the age of five. The virus is spread through contact with contaminated feces and can cause paralysis and death. Early symptoms of polio include fever, vomiting, and muscle weakness.
+Polio is a viral disease that primarily affects children under the age of five. The virus is spread through contact with contaminated feces and can cause paralysis and death.
 
-In goats, the polio virus typically affects the legs first, resulting in lameness. In severe cases, the [goat may be unable to stand or eat](/can-a-goat-eat-too-many-dewormer-pellets/). If you suspect that your goat has polio, you need to seek veterinary care immediately.
+Early symptoms of polio include fever, vomiting, and muscle weakness.
+
+In goats, the polio virus typically affects the legs first, resulting in lameness. In severe cases, the [goat may be unable to stand or eat](/can-a-goat-eat-too-many-dewormer-pellets/).
+
+If you suspect that your goat has polio, you need to seek veterinary care immediately.
 
 There is no cure for polio, but early treatment can help to reduce the severity of the disease.
 
@@ -80,7 +86,9 @@ You need to ensure that all goats are properly vaccinated against polio, as this
 
 ## What are the treatments for polio in goats?
 
-There are two primary treatments for polio in goats: supportive care and vaccination. Supportive care involves providing the goat with plenty of rest, clean water, and good quality food. If the goat is having trouble breathing, it may also need to be given oxygen.
+There are two primary treatments for polio in goats: supportive care and vaccination. Supportive care involves providing the goat with plenty of rest, clean water, and good quality food.
+
+If the goat is having trouble breathing, it may also need to be given oxygen.
 
 In severe cases, goats may need to be hospitalized so that they can receive around-the-clock care. Vaccination is the best way to prevent polio, and all goats should be vaccinated against the disease.
 

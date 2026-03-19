@@ -50,7 +50,9 @@ In this article, we will answer all of your questions about feeding your goat de
 
 ## Can a goat eat too many dewormer pellets?
 
-**A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages. Dewormer pellets also contain toxins that can be harmful to goats in large quantities.**
+**A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages.**
+
+**Dewormer pellets also contain toxins that can be harmful to goats in large quantities.**
 
 However, it's important to note that [goats need to eat a certain amount of dewormer pellets](/can-postpartum-women-eat-goats/) in order to be effective. The number of dewormer pellets a goat needs to eat will depend on their weight and the type of dewormer being used.
 
@@ -82,7 +84,9 @@ In order to protect their goats from worms, many farmers use dewormer pellets. H
 
 Giving a goat too many dewormer pellets can cause an imbalance in the goat's digestive system and lead to serious health problems.
 
-The pellets can also build up in the goat's system, causing liver and kidney damage. In extreme cases, this can be fatal. To avoid these risks, you need to follow the manufacturer's instructions carefully and only give the goat the recommended amount of dewormer pellets.
+The pellets can also build up in the goat's system, causing liver and kidney damage. In extreme cases, this can be fatal.
+
+To avoid these risks, you need to follow the manufacturer's instructions carefully and only give the goat the recommended amount of dewormer pellets.
 
 ## What are the benefits of feeding a goat the right amount of dewormer pellets?
 
@@ -100,7 +104,9 @@ Therefore, you need to consult with a goat expert to ensure that your goat is re
 
 On top of that dewormer pellets, there are a variety of other types of dewormers available for goats. These include liquids, powders, and injections.
 
-Each type of dewormer has its own advantages and disadvantages. For example, liquids are easy to administer but can be messy. Injections are effective but can be stressful for goats.
+Each type of dewormer has its own advantages and disadvantages. For example, liquids are easy to administer but can be messy.
+
+Injections are effective but can be stressful for goats.
 
 Powders are good middle ground, as they are relatively easy to give and tend to cause fewer side effects than other types of dewormers.
 
@@ -124,7 +130,9 @@ When storing dewormer pellets, be sure to follow the manufacturer's instructions
 
 There are a number of alternative methods of deworming goats. These include using natural products such as diatomaceous earth or garlic, as well as fecal egg counts and pasture management.
 
-Each method has its own advantages and disadvantages. For example, natural products are generally safe but may not be as effective as traditional dewormers. Fecal egg counts require special equipment and training but can be used to tailor a goat's deworming schedule to its individual needs.
+Each method has its own advantages and disadvantages. For example, natural products are generally safe but may not be as effective as traditional dewormers.
+
+Fecal egg counts require special equipment and training but can be used to tailor a goat's deworming schedule to its individual needs.
 
 Pasture management involves taking measures to prevent worms from getting into a goat's system in the first place, such as keeping the pasture clean and free of manure.
 

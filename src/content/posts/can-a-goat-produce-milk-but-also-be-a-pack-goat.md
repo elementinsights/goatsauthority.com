@@ -44,9 +44,13 @@ We will answer all of your questions and provide some tips on how to get started
 
 ## Can a goat produce milk but also be a pack goat?
 
-**A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes. Furthermore, because goats are less expensive than other animals such as cows or horses, many people choose to use them for both purposes.**
+**A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes.**
 
-Despite that, it's important to remember that not all goats are created equal. Some goats may be better at producing milk while others may be better at being pack goats. It really depends on the individual goat and its abilities.
+**Furthermore, because goats are less expensive than other animals such as cows or horses, many people choose to use them for both purposes.**
+
+Despite that, it's important to remember that not all goats are created equal. Some goats may be better at producing milk while others may be better at being pack goats.
+
+It really depends on the individual goat and its abilities.
 
 ## What is a pack goat and what are its uses?
 
@@ -64,7 +68,9 @@ For these reasons, pack goats have become an increasingly popular choice for bac
 
 When it comes to choosing a pack goat, there are a few things you'll want to keep in mind.
 
-First, think about the size of the goat you'll need. If you're planning on using your [goat for carrying heavy loads](/can-goats-carry-distemper/), then you'll want to choose a larger breed. However, if you're only planning on using your goat for light packing, then a smaller breed will suffice.
+First, think about the size of the goat you'll need. If you're planning on using your [goat for carrying heavy loads](/can-goats-carry-distemper/), then you'll want to choose a larger breed.
+
+However, if you're only planning on using your goat for light packing, then a smaller breed will suffice.
 
 Next, consider the coat of the goat. If you live in a climate that gets very hot, then you'll want to choose a goat with a short coat that won't overheat.
 

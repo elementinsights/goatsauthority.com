@@ -50,7 +50,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can wether goats be as mean as billy goats?
 
-**Wether goats are as cruel as [Billy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/). In fact, they may even be more aggressive since they are not neutered. They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans.**
+**Wether goats are as cruel as [Billy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/). In fact, they may even be more aggressive since they are not neutered.**
+
+**They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans.**
 
 In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to jump over fences.
 
@@ -62,7 +64,9 @@ Goats are members of the Caprae subfamily, which includes all wild and [domestic
 
 Goats are hardy creatures that can survive in a wide range of climates, and they are known for their sure-footedness.
 
-They are also versatile animals, and their milk, meat, and fiber can all be used by humans. Billy goats are male goats over the age of one year, while wether goats are neutered males or females. But, the term “billy goat” is often used to refer to any [male goat](/can-male-goats-eat-grain/), regardless of age.
+They are also versatile animals, and their milk, meat, and fiber can all be used by humans. Billy goats are male goats over the age of one year, while wether goats are neutered males or females.
+
+But, the term “billy goat” is often used to refer to any [male goat](/can-male-goats-eat-grain/), regardless of age.
 
 ## How do you tell the difference between a male and a female goat?
 
@@ -78,7 +82,9 @@ But by taking note of these physical differences, you should be able to tell the
 
 Billy goats are very aggressive compared to wether goats. They will paw the ground, bare their teeth, and even butt heads with each other.
 
-On the other hand, wether goats are much more laid back. They are usually content to just eat and hang out with their goat buddies. But, both types of goats are known for being curious and adventurous.
+On the other hand, wether goats are much more laid back. They are usually content to just eat and hang out with their goat buddies.
+
+But, both types of goats are known for being curious and adventurous.
 
 They love to explore their surroundings and will often climb on things that they're not supposed to. So, if you're looking for a pet goat, it's important to consider both the personality traits and the behaviors of each type before making your decision.
 

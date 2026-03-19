@@ -42,13 +42,17 @@ faq:
 
 Protecting your goat herd from predators is an important part of being a responsible goats owner.
 
-But what do you do when the predator is something as small and seemingly harmless as a raccoon? Can raccoons kill goats? And if so, how can you protect your animals?
+But what do you do when the predator is something as small and seemingly harmless as a raccoon? Can raccoons kill goats?
+
+And if so, how can you protect your animals?
 
 In this article, we will answer those questions and provide you with additional information about raccoons and other predators that may threaten your goats.
 
 ## Can raccoons kill goats?
 
-**Raccoons can kill goats. In fact, they are one of the most common predators of goats in North America. Raccoons are attracted to goat herds because they offer an easy food source. Goats are small and agile, making them easy prey for raccoons.**
+**Raccoons can kill goats. In fact, they are one of the most common predators of goats in North America.**
+
+**Raccoons are attracted to goat herds because they offer an easy food source. Goats are small and agile, making them easy prey for raccoons.**
 
 There are a few [things that you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/) from raccoons. First, make sure that their living area is well-lit and free of hiding places for predators.
 

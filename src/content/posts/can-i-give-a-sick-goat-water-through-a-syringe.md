@@ -124,6 +124,8 @@ Nevertheless, by exploring all of their possible treatment options, dehydration 
 
 ## Final Thoughts
 
-Overall, hydration therapy can be a safe and effective way to treat various medical conditions. However, it is important to be aware of potential complications that may arise during treatment. These can include dehydration, electrolyte imbalances, and hyponatremia.
+Overall, hydration therapy can be a safe and effective way to treat various medical conditions. However, it is important to be aware of potential complications that may arise during treatment.
+
+These can include dehydration, electrolyte imbalances, and hyponatremia.
 
 To avoid these problems, it is essential to monitor fluid intake carefully and consult with a doctor if any concerns arise. Additionally, patients should consider all of their treatment options before deciding on a particular approach.

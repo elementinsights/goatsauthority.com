@@ -48,7 +48,9 @@ In this article, we will answer those questions about feeding baby goats regular
 
 ## Can I use regular milk to feed a baby goat?
 
-**You can feed a baby goat pasteurized milk from the grocery store as long as it is whole milk. Skimmed milk will not provide enough fat for proper energy and development in young goats. You can also feed them raw milk from a goat.**
+**You can feed a baby goat pasteurized milk from the grocery store as long as it is whole milk. Skimmed milk will not provide enough fat for proper energy and development in young goats.**
+
+**You can also feed them raw milk from a goat.**
 
 If you are feeding raw milk, make sure to heat it to at least 160 degrees Fahrenheit for at least two minutes to kill any harmful bacteria.
 

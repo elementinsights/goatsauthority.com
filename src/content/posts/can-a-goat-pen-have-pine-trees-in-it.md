@@ -46,7 +46,9 @@ We will answer all of these questions for you so that you can be sure whether or
 
 ## Can a goat pen have pine trees in it?
 
-**It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats. They can also help keep the goats cool in the summer and warm in the winter, as well as provide them with a place to play and exercise.**
+**It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats.**
+
+**They can also help keep the goats cool in the summer and warm in the winter, as well as provide them with a place to play and exercise.**
 
 However, it's important to make sure that the [pine trees are not poisonous to goats](/can-pine-chips-be-used-as-bedding-for-goats/). Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
 
@@ -80,7 +82,9 @@ There are many different types of pine trees, and each has its own set of charac
 
 For example, the eastern white pine is a popular choice for goat pens because it's strong and durable. Eastern white pines also have thick bark that can help protect goats from predators.
 
-Additionally, these trees are known for their ability to withstand heavy browsing from goats. Other good choices for goat pens include the Scotch pine and the Austrian black pine. Both of these species are known for their strength and stability.
+Additionally, these trees are known for their ability to withstand heavy browsing from goats. Other good choices for goat pens include the Scotch pine and the Austrian black pine.
+
+Both of these species are known for their strength and stability.
 
 Additionally, they are both relatively resistant to browsing by goats. When choosing a type of pine tree for a goat pen, it's important to consider the specific needs of the goats.
 
@@ -94,11 +98,15 @@ The trench helps to protect the seedlings from being trampled by goats, and it a
 
 Another method that can be used to plant pine trees in a goat pen is known as "bundling." With bundling, you group together several small seedlings and tie them together at the base with twine or string.
 
-Then, you plant the bundled seedlings in the goat pen. This method is often used when planting large areas with pine trees. Bundling helps to protect the seedlings from being trampled, and it also makes it easier to transplant them if they need to be moved later on.
+Then, you plant the bundled seedlings in the goat pen. This method is often used when planting large areas with pine trees.
+
+Bundling helps to protect the seedlings from being trampled, and it also makes it easier to transplant them if they need to be moved later on.
 
 ## What kind of maintenance is required for pine trees in a goat pen?
 
-Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and shelter for goats. Despite that, pine trees do require some maintenance in order to stay healthy and look their best.
+Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and shelter for goats.
+
+Despite that, pine trees do require some maintenance in order to stay healthy and look their best.
 
 Here are a few tips for caring for pine trees in a goat pen:
 
@@ -115,7 +123,9 @@ There are a few risks associated with having pine trees in a goat pen. The first
 
 Pine needles are also sharp, so they may scratch the goats or get caught in their fur. In addition, [pine trees can drop branches](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/), which could injure the goats.
 
-Finally, pine trees produce sap, which can be sticky and attract insects. If the sap gets on the goats, it could cause skin irritations. For these reasons, it's crucial to monitor goats carefully if there are pine trees in their pen.
+Finally, pine trees produce sap, which can be sticky and attract insects. If the sap gets on the goats, it could cause skin irritations.
+
+For these reasons, it's crucial to monitor goats carefully if there are pine trees in their pen.
 
 ## Final Thoughts
 

@@ -48,7 +48,9 @@ In this article, we'll cover the nutritional value and benefits of giving goats 
 
 **You can give your goats horse treats as long as they are healthy and not overweight. The main thing you need to consider is the sugar content in the treats, as too much sugar can lead to health problems for goats.**
 
-Despite their small size, goats are actually very strong and hardy animals. They're known for being able to eat just about anything, which is why they're often used as "trash collectors" on farms. However, this doesn't mean that you should give them just any old thing to eat.
+Despite their small size, goats are actually very strong and hardy animals. They're known for being able to eat just about anything, which is why they're often used as "trash collectors" on farms.
+
+However, this doesn't mean that you should give them just any old thing to eat.
 
 The [treats you give your goats should be nutritionally dense](/can-goats-have-peppermint-treats/), so they can get the most out of them. Horse treats are a great option, as they are usually high in fiber and low in sugar.
 
@@ -124,7 +126,7 @@ Additionally, many horse treats may contain toxins or have been sourced from con
 
 Fortunately, there are a number of steps that you can take to prevent the [risks associated with feeding horse treats to goats](/can-goats-eat-chicken-feed/).
 
-One important step is to choose your horse treats carefully, opting for natural and healthy alternatives whenever possible. You should also be mindful about where you get your horse treats from–opting for reputable suppliers who follow strict quality standards.
+One important step is to choose your horse treats carefully, opting for natural and healthy alternatives whenever possible. You should also be mindful about where you get your horse treats from, opting for reputable suppliers who follow strict quality standards.
 
 Finally, it is important to avoid overfeeding your goats and monitor their eating habits closely for any signs of digestive distress or other health issues.
 
@@ -136,4 +138,4 @@ Overall, when feeding horse treats to goats, it is important to balance the pote
 
 By taking into account things like ingredient toxicity and portion size, you can ensure that your goat gets all the nutrients they need from their delicious snacks while minimizing any potential health hazards.
 
-So go ahead and enjoy giving your furry friend a tasty treat every now and then – just be sure to do so safely.
+So go ahead and enjoy giving your furry friend a tasty treat every now and then, just be sure to do so safely.

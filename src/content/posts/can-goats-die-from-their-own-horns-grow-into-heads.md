@@ -39,14 +39,17 @@ faq:
   - question: "How big do goat horns get, and can they cause injury to the goat or other animals?"
     answer: "Goat horns can grow to be quite large, and they can cause injury to the goat or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull."
 ---
+We all know that goats are pretty tough animals. But can they actually die from their own horns growing into their head?
 
-We all know that goats are pretty tough animals. But can they actually die from their own horns growing into their head? And if so, what are the symptoms?
+And if so, what are the symptoms?
 
 In this article, we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you [think your goat may be at risk](/can-a-cdt-shot-kill-a-goat/).
 
 ## Can goats die from their own horns growing into heads?
 
-**Unfortunately, goats can die from their own horns growing into their heads. This happens when the horns get too long and start to grow into the goat's skull. The pressure from the horns can cause serious damage to the brain and other vital organs and eventually lead to death.**
+**Unfortunately, goats can die from their own horns growing into their heads. This happens when the horns get too long and start to grow into the goat's skull.**
+
+**The pressure from the horns can cause serious damage to the brain and other vital organs and eventually lead to death.**
 
 However, it's important to note that this is relatively rare. Goats usually only die from this condition if they are not properly cared for and their horns are allowed to grow unchecked.
 
@@ -76,11 +79,15 @@ Goat horns can grow to be quite large, and they can [cause injury to the goat](/
 
 Horns can grow to be quite large, and they can [cause injury to the goat](/can-goats-cause-slope/) or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
 
-They are used for protection, but they can also be used for digging or climbing. When horns get too big, they can cause problems for the goat. They may get caught on things, or they may grow into the goat's flesh.
+They are used for protection, but they can also be used for digging or climbing. When horns get too big, they can cause problems for the goat.
+
+They may get caught on things, or they may grow into the goat's flesh.
 
 If horns are not trimmed, they can also grow into the ground and cause an injury. In some cases, horns can grow so big that they need to be surgically removed.
 
-Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all. There are even some breeds of goats that have been bred to have no horns.
+Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
+
+There are even some breeds of goats that have been bred to have no horns.
 
 ## Are there any health benefits to goats with horns?
 
@@ -88,11 +95,15 @@ Goat horns can grow to be quite large, and they can cause injury to the goat or 
 
 Horns can grow to be quite large, and they can cause injury to the goat or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
 
-They are used for protection, but they can also be used for digging or climbing. When horns get too big, they can cause problems for the goat. They may get caught on things, or they may grow into the goat's flesh.
+They are used for protection, but they can also be used for digging or climbing. When horns get too big, they can cause problems for the goat.
+
+They may get caught on things, or they may grow into the goat's flesh.
 
 If horns are not trimmed, they can also grow into the ground and cause an injury. In some cases, horns can grow so big that they need to be surgically removed.
 
-Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all. There are even some breeds of goats that have been bred to have no horns.
+Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
+
+There are even some breeds of goats that have been bred to have no horns.
 
 ## How can you care for a goat with horns safely and effectively?
 
@@ -102,9 +113,13 @@ However, many goats will grow horns over the course of their lifetime. For those
 
 First and foremost, you need to remember that horns are made of keratin, which is the same material as human fingernails.
 
-As such, they can be just as sharp as nails and should be treated with care. When cleaning or trimming a goat's horns, always use sharp tools and handle them with care. In addition, you need to avoid touching the root of the horn, as this can be painful for the goat.
+As such, they can be just as sharp as nails and should be treated with care. When cleaning or trimming a goat's horns, always use sharp tools and handle them with care.
 
-Goats will typically shed their horns once per year. During this time, their horns will become softer and more pliable. This is the best time to clean or trim them, if necessary.
+In addition, you need to avoid touching the root of the horn, as this can be painful for the goat.
+
+Goats will typically shed their horns once per year. During this time, their horns will become softer and more pliable.
+
+This is the best time to clean or trim them, if necessary.
 
 Once the shed Horns are removed, new ones will typically grow back within a few months. Goat owners should inspect their goats' horns on a regular basis to ensure that they are healthy and free of dirt and debris.
 
@@ -118,7 +133,9 @@ There are also several mixed-breed goats that may be hornless. Breeding two horn
 
 If you are interested in owning a goat but want to avoid horns, consider choosing one of these breeds.
 
-No matter what breed of goat you choose, you need to remember that all goats require proper care and attention. Goats are social animals and need regular interaction with their owners. They also need a clean and safe environment, plenty of food and water, and regular exercise.
+No matter what breed of goat you choose, you need to remember that all goats require proper care and attention. Goats are social animals and need regular interaction with their owners.
+
+They also need a clean and safe environment, plenty of food and water, and regular exercise.
 
 By providing your goat with everything they need, you can help to ensure a long and happy life.
 

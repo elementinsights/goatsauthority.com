@@ -41,16 +41,21 @@ faq:
   - question: "When is the best time to feed alfalfa to pregnant Boer goats?"
     answer: "There is no clear answer to the question of when to feed alfalfa to pregnant Boer goats, as different types of goats and different stages of pregnancy will require different levels of nutrition."
 ---
+It's no secret that nutrition is key for all animals, but it becomes even more important during pregnancy. However, with so many different options on the market, it can be tough to decide what's best for your goat.
 
-It's no secret that nutrition is key for all animals, but it becomes even more important during pregnancy. However, with so many different options on the market, it can be tough to decide what's best for your goat. So, the question remains - can pregnant Boer goats eat alfalfa?
+So, the question remains - can pregnant Boer goats eat alfalfa?
 
 We will answer those questions in this article and provide you with additional information about alfalfa and its benefits for your goats.
 
 ## Can pregnant Boer goats eat alfalfa?
 
-**Alfalfa is safe for pregnant Boer goats to consume. Alfalfa is actually a fantastic source of nutrients for pregnant goats. It contains a lot of calcium, which is important for creating strong bones and teeth. Additionally, alfalfa is a wonderful source of protein, which the [newborn goat](/can-i-mix-newborn-goats-and-older-goats/) needs for growth.**
+**Alfalfa is safe for pregnant Boer goats to consume. Alfalfa is actually a fantastic source of nutrients for pregnant goats.**
 
-Despite that, you should still be cautious when [feeding alfalfa to your goats](/can-a-goat-feed-quads/). Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume. Too much alfalfa can lead to obesity and other health problems.
+**It contains a lot of calcium, which is important for creating strong bones and teeth. Additionally, alfalfa is a wonderful source of protein, which the [newborn goat](/can-i-mix-newborn-goats-and-older-goats/) needs for growth.**
+
+Despite that, you should still be cautious when [feeding alfalfa to your goats](/can-a-goat-feed-quads/). Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume.
+
+Too much alfalfa can lead to obesity and other health problems.
 
 ## What is alfalfa and what are its benefits for pregnant Boer goats?
 

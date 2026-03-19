@@ -44,9 +44,13 @@ Additionally, we will also provide some tips on how to keep your goats safe from
 
 ## Can a goat get poisoned on clover that has been frosted on?
 
-**Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots. The nitrogen in the air is transformed by these bacteria into a form that plants can utilize.**
+**Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots.**
 
-When the plant dies, the nitrogen is released back into the soil. This cycle of fixing and releasing nitrogen is an important part of maintaining soil fertility. However, if the clover is killed by frost, this process is disrupted.
+**The nitrogen in the air is transformed by these bacteria into a form that plants can utilize.**
+
+When the plant dies, the nitrogen is released back into the soil. This cycle of fixing and releasing nitrogen is an important part of maintaining soil fertility.
+
+However, if the clover is killed by frost, this process is disrupted.
 
 The dead plants decompose more slowly, and the nitrogen is not released back into the soil. As a result, the soil becomes less fertile and goats that graze on frost-killed clover can suffer from malnutrition.
 
@@ -100,9 +104,13 @@ Other symptoms of clover poisoning include:
 
 One of the best ways to prevent your goats from eating clover that has been frosted on is to let them graze in a pasture that has been protected from the frost. If you do not have a pasture, you can try to feed your goats hay or grass instead.
 
-You should also make sure that your goats have plenty of fresh water to drink. If they are eating frosted clover, they will likely be very thirsty. Finally, you should check your goats for signs of frostbite and take them to the vet if necessary.
+You should also make sure that your goats have plenty of fresh water to drink. If they are eating frosted clover, they will likely be very thirsty.
 
-Another way to prevent your goats from eating clover that has been frosted on is to keep them away from the clover. This can be done by fencing in the area where the clover is growing. If you cannot fence in the area, you may need to put a net over the clover.
+Finally, you should check your goats for signs of frostbite and take them to the vet if necessary.
+
+Another way to prevent your goats from eating clover that has been frosted on is to keep them away from the clover. This can be done by fencing in the area where the clover is growing.
+
+If you cannot fence in the area, you may need to put a net over the clover.
 
 You should also keep an eye on your goats and make sure they do not have any open wounds. If they do, the frosted clover could cause an infection.
 
@@ -130,7 +138,9 @@ By following these tips, you can help keep your goats safe from potential poison
 
 ## Final Thoughts
 
-Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an animal expert immediately. With prompt treatment, most goats recover from clover poisoning without any lasting effects.
+Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an animal expert immediately.
+
+With prompt treatment, most goats recover from clover poisoning without any lasting effects.
 
 To prevent this from happening, provide them with other types of browse, such as hay or straw, and train them to avoid frosted plants.
 

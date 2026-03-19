@@ -46,7 +46,9 @@ We will answer all of your questions about goat milk and acne in this article an
 
 ## Can goat milk cause acne?
 
-**Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores. They also contain a higher level of fat than [cow's milk](/can-goats-drink-cows-milk/). This fat can also clog pores and lead to breakouts.**
+**Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores.**
+
+**They also contain a higher level of fat than [cow's milk](/can-goats-drink-cows-milk/). This fat can also clog pores and lead to breakouts.**
 
 Despite that, it's important to note that there's no scientific evidence to support that goat milk causes acne. So, if you're struggling with breakouts, you may want to try eliminating dairy from your diet to see if it makes a difference.
 
@@ -79,19 +81,27 @@ In the meantime, if you are concerned about your skin health, it may be best to 
 
 Acne is a common skin condition that affects people of all ages. While it's most commonly associated with adolescence, acne can occur at any age.
 
-There are two main types of acne: inflammatory and non-inflammatory. inflammatory acne is characterized by redness, swelling, and pus-filled pimples. Non-inflammatory acne includes blackheads and whiteheads.
+There are two main types of acne: inflammatory and non-inflammatory. inflammatory acne is characterized by redness, swelling, and pus-filled pimples.
+
+Non-inflammatory acne includes blackheads and whiteheads.
 
 Both types of acne can be unsightly and painful. There are several treatments available for acne, both medical and natural.
 
 Medical treatments for acne include topical creams and gels, oral antibiotics, and isotretinoin ( Accutane). Topical creams and gels are applied directly to the skin and work to kill bacteria, dry up oil, and reduce inflammation.
 
-Oral antibiotics work by killing bacteria and reducing inflammation from the inside out. They are typically used for more severe cases of acne. Isotretinoin is a powerful medication that is taken orally.
+Oral antibiotics work by killing bacteria and reducing inflammation from the inside out. They are typically used for more severe cases of acne.
+
+Isotretinoin is a powerful medication that is taken orally.
 
 It works by dramatically reducing the amount of oil produced by the sebaceous glands. It's typically used for severe cases of acne that have not responded to other treatments.
 
-There are also several natural treatments that can be effective in treating acne. These include aloe vera gel, apple cider vinegar, green tea, honey, and lemon juice. Aloe vera gel has anti-inflammatory properties that can help to reduce redness and swelling.
+There are also several natural treatments that can be effective in treating acne. These include aloe vera gel, apple cider vinegar, green tea, honey, and lemon juice.
 
-Apple cider vinegar helps to kill bacteria and dry up the oil. Green tea contains antioxidants that help to reduce inflammation. Honey has anti-bacterial properties that can help to kill bacteria on the skin. Lemon juice helps to dry up oil and exfoliate dead skin cells.
+Aloe vera gel has anti-inflammatory properties that can help to reduce redness and swelling.
+
+Apple cider vinegar helps to kill bacteria and dry up the oil. Green tea contains antioxidants that help to reduce inflammation.
+
+Honey has anti-bacterial properties that can help to kill bacteria on the skin. Lemon juice helps to dry up oil and exfoliate dead skin cells.
 
 Natural treatments may take longer to work than medical treatments, but they are often less harsh on the skin.
 
@@ -140,4 +150,6 @@ If you are struggling with acne, you may want to avoid these milk products and o
 
 Goat milk can cause acne in some people, though the exact mechanism is not fully understood. If you think that goat milk is causing your acne, be sure to speak to a dermatologist about treatment options.
 
-In addition, there are several things that you can do to help prevent and treat acne. These include cleansing your face regularly, exfoliating, and using a light, non-comedogenic moisturizer. By following these tips, you can improve your skin health and reduce the severity of your acne.
+In addition, there are several things that you can do to help prevent and treat acne. These include cleansing your face regularly, exfoliating, and using a light, non-comedogenic moisturizer.
+
+By following these tips, you can improve your skin health and reduce the severity of your acne.

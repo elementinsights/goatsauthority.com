@@ -58,7 +58,9 @@ So, if your goat is not purebred, you will need to provide proof that it is at l
 
 The last thing you need to take into consideration is the registration fee. The registration fee for the NDGA is $30, and this is non-refundable.
 
-So, if you're looking to register your Nigerian dwarf goat without papers, keep these things in mind. The process is a bit more complicated, but it is possible. Just make sure that your goat meets the breed standards, is purebred, and that you're willing to pay the registration fee.
+So, if you're looking to register your Nigerian dwarf goat without papers, keep these things in mind. The process is a bit more complicated, but it is possible.
+
+Just make sure that your goat meets the breed standards, is purebred, and that you're willing to pay the registration fee.
 
 ## What are the benefits of registering a Nigerian dwarf goat without papers?
 

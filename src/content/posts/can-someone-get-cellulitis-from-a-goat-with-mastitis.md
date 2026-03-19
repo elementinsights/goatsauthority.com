@@ -41,16 +41,21 @@ faq:
   - question: "How is cellulitis treated?"
     answer: "Cellulitis is a type of infection that occurs when bacteria enter the skin, typically through a minor wound or scrape. For mild cases, treatment typically involves a course of antibiotics to help clear the bacteria from the body."
 ---
+You may be wondering whether you can get cellulitis from a goat with mastitis or not. And if so, what are the things you need to consider?
 
-You may be wondering whether you can get cellulitis from a goat with mastitis or not. And if so, what are the things you need to consider? Here's what you need to know.
+Here's what you need to know.
 
 In this article, we will answer those questions about cellulitis and goats with mastitis. We will also provide information on the symptoms, treatment, and prevention of cellulitis.
 
 ## Can someone get cellulitis from a goat with mastitis?
 
-**You can get cellulitis from a goat with mastitis because the same bacteria that cause mastitis can also cause cellulitis. Cellulitis is a skin infection caused by bacteria. The streptococcal or staphylococcal strains of bacteria are typically to blame and can be found on the skin of both humans and animals.**
+**You can get cellulitis from a goat with mastitis because the same bacteria that cause mastitis can also cause cellulitis. Cellulitis is a skin infection caused by bacteria.**
 
-The bacteria that cause mastitis can enter the skin through cuts, scratches, or insect bites. They can also enter the body through open wounds. Once the bacteria are in the skin, they can multiply and cause an infection.
+**The streptococcal or staphylococcal strains of bacteria are typically to blame and can be found on the skin of both humans and animals.**
+
+The bacteria that cause mastitis can enter the skin through cuts, scratches, or insect bites. They can also enter the body through open wounds.
+
+Once the bacteria are in the skin, they can multiply and cause an infection.
 
 ## Are goats with mastitis a risk for contracting cellulitis?
 
@@ -62,7 +67,9 @@ So, while [mastitis may be a good indicator of overall herd health](/can-you-dri
 
 ## What is cellulitis and what are the symptoms?
 
-Cellulitis is a common bacterial infection that affects the soft tissues of the skin. Symptoms of cellulitis typically include inflammation, swelling, redness, warmth, and pain in the affected area. Other symptoms may include fever, chills, weakness, fatigue, and generally feeling unwell.
+Cellulitis is a common bacterial infection that affects the soft tissues of the skin. Symptoms of cellulitis typically include inflammation, swelling, redness, warmth, and pain in the affected area.
+
+Other symptoms may include fever, chills, weakness, fatigue, and generally feeling unwell.
 
 The infection typically spreads quickly through the underlying tissues and can cause severe damage if left untreated.
 
@@ -84,7 +91,7 @@ If you suspect that you might have cellulitis, it is important to see your docto
 
 ## Can you prevent cellulitis?
 
-Although there may be certain lifestyle changes and practices that can reduce your risk of developing this condition, there are also a number of factors that may make cellulitis more likely – including things like poor diet, lack of exercise, or even underlying medical conditions.
+Although there may be certain lifestyle changes and practices that can reduce your risk of developing this condition, there are also a number of factors that may make cellulitis more likely, including things like poor diet, lack of exercise, or even underlying medical conditions.
 
 Additionally, some people may be at higher risk due to repeated exposures to environmental irritants or old trauma injuries near the area where cellulitis tends to develop.
 
@@ -120,7 +127,7 @@ So if you're concerned about cellulitis, be sure to schedule an appointment with
 
 If cellulitis is left untreated, it can lead to serious health complications. The infection can spread to other parts of the body, causing additional inflammation and damage.
 
-In some cases, cellulitis may even lead to sepsis – a potentially life-threatening condition caused by an infection in the blood.
+In some cases, cellulitis may even lead to sepsis, a potentially life-threatening condition caused by an infection in the blood.
 
 Additionally, people with cellulitis may be at risk for developing skin abscesses or other types of infections.
 

@@ -41,16 +41,21 @@ faq:
   - question: "What are the symptoms of transmittal diseases in goats?"
     answer: "The symptoms of transmittal diseases in goats can vary depending on the disease."
 ---
+Taking care of goats can be a fun and rewarding experience. But before you bring home your new furry friends, it's important to do your research.
 
-Taking care of goats can be a fun and rewarding experience. But before you bring home your new furry friends, it's important to do your research. One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats.
+One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats.
 
 In this article, we will answer that question and provide you with some more information on diseases that can be transmitted between animals.
 
 ## Can any diseases spread from swine to goats?
 
-**It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food. They also have similar physiology, which makes them susceptible to the same diseases and parasites.**
+**It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food.**
 
-it's important to remember, nevertheless, that not all diseases can be passed from one species to another. For instance, the extremely contagious viral disease foot-and-mouth disease affects animals with [cloven hooves](/do-goats-have-cloven-hooves/) like pigs, lambs, and cattle. However, goats are immune to this illness.
+**They also have similar physiology, which makes them susceptible to the same diseases and parasites.**
+
+it's important to remember, nevertheless, that not all diseases can be passed from one species to another. For instance, the extremely contagious viral disease foot-and-mouth disease affects animals with [cloven hooves](/do-goats-have-cloven-hooves/) like pigs, lambs, and cattle.
+
+However, goats are immune to this illness.
 
 ## What are some diseases that can be transmitted between animals?
 
@@ -70,7 +75,9 @@ Therefore, it's important for pet owners to be aware of the risks of both contag
 
 ## How do you protect your goats from these diseases?
 
-Goats are susceptible to a number of diseases, many of which can be fatal. For example, goats can contract chlamydia, salmonella, and E. coli from contact with contaminated water or food.
+Goats are susceptible to a number of diseases, many of which can be fatal. For example, goats can contract chlamydia, salmonella, and E.
+
+coli from contact with contaminated water or food.
 
 They can also catch parasites such as worms and coccidia from coming into contact with infected feces.
 
@@ -90,7 +97,9 @@ Goats infected with chlamydia may have a runny nose, watery eyes, and difficulty
 
 Salmonella-infected goats may display symptoms such as fever, lethargy, diarrhea, and vomiting. In some cases, the infection can lead to death.
 
-E. coli-infected goats may have bloody diarrhea, dehydration, and difficulty breathing. They may also go into shock and die.
+E. coli-infected goats may have bloody diarrhea, dehydration, and difficulty breathing.
+
+They may also go into shock and die.
 
 Finally, goats infected with worms may have a pot-bellied appearance, poor appetite, weight loss, and diarrhea. In severe cases, the worms can cause blockages in the intestines, which can be fatal.
 
@@ -100,7 +109,9 @@ Left untreated, transmittal diseases can be fatal for goats. Therefore, you need
 
 ## Can transmittal disease kill a goat?
 
-Transmittal diseases can kill a goat. For example, chlamydia, salmonella, and E. coli are all [potentially fatal diseases that can be transmitted from animals to goats](/can-a-plastic-bag-hurt-a-goat/). [Worms can also cause serious health problems in goats](/can-goats-get-worms-from-acorns/), including weight loss, diarrhea, and even death.
+Transmittal diseases can kill a goat. For example, chlamydia, salmonella, and E.
+
+coli are all [potentially fatal diseases that can be transmitted from animals to goats](/can-a-plastic-bag-hurt-a-goat/). [Worms can also cause serious health problems in goats](/can-goats-get-worms-from-acorns/), including weight loss, diarrhea, and even death.
 
 Therefore, you [need to take steps to protect your goats](/can-you-coat-angora-goats-to-protect-fleece/) from these diseases, such as providing them with clean water and food and keeping their living area clean. If you suspect that your goat has a transmittal disease, you must seek goat expert care immediately.
 

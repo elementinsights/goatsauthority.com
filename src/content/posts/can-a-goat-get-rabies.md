@@ -46,7 +46,9 @@ But there's one frequently asked question that has been asked since a long time 
 
 ## Can a goat get rabies?
 
-**Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals. But it's still important to be aware of the signs of rabies in goats, as the disease can be deadly.**
+**Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals.**
+
+**But it's still important to be aware of the signs of rabies in goats, as the disease can be deadly.**
 
 There are three main ways that a goat can contract rabies.
 
@@ -88,7 +90,9 @@ Transmission from mother to offspring is also possible, though it's uncommon. Th
 
 ## How is rabies treated in goats?
 
-Though rabies is more commonly associated with dogs, any mammal can contract the virus. This includes goats, which are particularly susceptible to the disease. There are two primary methods of treating rabies in goats.
+Though rabies is more commonly associated with dogs, any mammal can contract the virus. This includes goats, which are particularly susceptible to the disease.
+
+There are two primary methods of treating rabies in goats.
 
 The first is to vaccinate all healthy animals in the herd. This creates what is known as "herd immunity," which helps to protect against the spread of the disease.
 
@@ -102,7 +106,9 @@ Though rabies is rare in goats, it's still a serious concern for farmers and ran
 
 Treatment for rabies involves a series of injections, which can be costly and time-consuming. In addition, there are a number of side effects that can occur as a result of the treatment.
 
-These include fever, swelling at the injection site, and lethargy. In some cases, goats may also experience digestive problems or muscle weakness. While these side effects are typically mild, they can still be disruptive to the animal's health.
+These include fever, swelling at the injection site, and lethargy. In some cases, goats may also experience digestive problems or muscle weakness.
+
+While these side effects are typically mild, they can still be disruptive to the animal's health.
 
 As such, farmers must weigh the risks and benefits of rabies treatment before deciding whether or not to vaccinate their flock.
 

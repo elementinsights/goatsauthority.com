@@ -41,10 +41,15 @@ faq:
   - question: "How can goats benefit from eating calf starter pellets?"
     answer: "Goats benefit from eating calf starter pellets in a number of ways. First, the pellets provide a concentrated source of nutrients that can help goats to grow and develop properly."
 ---
+Chances are you’ve heard that goats eat anything. But is that really true?
 
-Chances are you’ve heard that goats eat anything. But is that really true? What do goats eat, and what can they not eat? How do their diets vary by region? And what about calf starter pellets – can goats eat those too?
+What do goats eat, and what can they not eat? How do their diets vary by region?
 
-In this article, we’ll explore the diet of the goat in detail. We’ll look at what they typically eat, as well as some of the benefits of a goat diet. Plus, we’ll answer some frequently asked questions about goats and their diets.
+And what about calf starter pellets, can goats eat those too?
+
+In this article, we’ll explore the diet of the goat in detail. We’ll look at what they typically eat, as well as some of the benefits of a goat diet.
+
+Plus, we’ll answer some frequently asked questions about goats and their diets.
 
 ## Can goats eat calf starter pellets?
 
@@ -62,7 +67,9 @@ Calf starter pellets are a type of livestock feed that is designed for calves. D
 
 The pellets are made from a variety of ingredients, including corn, soybeans, and Alfalfa. While all goats can eat calf starter pellets, you need to choose the right type of pellet based on the age and size of the goat.
 
-For example, kids (baby goats) generally need a higher protein diet than adult goats. Additionally, larger breeds of goats will need more food than smaller breeds. Respectively, you need to speak with a veterinarian or livestock specialist before feeding calf starter pellets to goats.
+For example, kids (baby goats) generally need a higher protein diet than adult goats. Additionally, larger breeds of goats will need more food than smaller breeds.
+
+Respectively, you need to speak with a veterinarian or livestock specialist before feeding calf starter pellets to goats.
 
 ## What are calf starter pellets and what do they contain?
 
@@ -102,7 +109,9 @@ First, consider the size of your goat and its current stage of growth. A larger 
 
 Second, take into account the type of hay that you are providing. If you are giving your goat high-quality hay, then it will need less grain than if you are giving it lower-quality hay.
 
-Finally, keep an eye on your goat's body condition. If your goat is looking thin, then it may need more food. On the other hand, if it's looking overweight, then you may need to reduce the amount of grain you are giving it.
+Finally, keep an eye on your goat's body condition. If your goat is looking thin, then it may need more food.
+
+On the other hand, if it's looking overweight, then you may need to reduce the amount of grain you are giving it.
 
 By taking all of these factors into account, you can ensure that you are feeding your goat the right amount of food.
 

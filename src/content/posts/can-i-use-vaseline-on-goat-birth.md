@@ -46,9 +46,13 @@ In this article, we will answer those questions for you and provide you with add
 
 ## Can I use vaseline on goat birth?
 
-**You can use Vaseline as a lubricant during goat birth. However, it is paramount that the Vaseline does not come into contact with the goat's eyes, nose, or mouth. To play it safe, avoid using any petroleum-based products on your goats altogether; they can be harmful if ingested.**
+**You can use Vaseline as a lubricant during goat birth. However, it is paramount that the Vaseline does not come into contact with the goat's eyes, nose, or mouth.**
 
-In addition to using Vaseline, you will need to have a bucket of warm water and soap nearby. After each goat is born, wash your hands and arms thoroughly with soap and water. This will help to prevent the spread of infection.
+**To play it safe, avoid using any petroleum-based products on your goats altogether; they can be harmful if ingested.**
+
+In addition to using Vaseline, you will need to have a bucket of warm water and soap nearby. After each goat is born, wash your hands and arms thoroughly with soap and water.
+
+This will help to prevent the spread of infection.
 
 That said, there are other lubricants that are safe to use on goats, such as K-Y Jelly. If you're unsure about what to use, ask a goat expert for recommendations.
 

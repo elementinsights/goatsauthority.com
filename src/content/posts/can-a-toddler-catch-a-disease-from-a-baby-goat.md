@@ -41,16 +41,21 @@ faq:
   - question: "What diseases can baby goats carry and how serious are they?"
     answer: "Goats can be infected by a variety of parasites, both internal and external. Common internal parasites include stomach worms, lungworms, and intestinal worms."
 ---
+You may be wondering if it's safe for your toddler to play with baby goats. After all, they are adorable creatures.
 
-You may be wondering if it's safe for your toddler to play with baby goats. After all, they are adorable creatures. But you may have also heard that goats can carry diseases. So, can a toddler catch a disease from a baby goat?
+But you may have also heard that goats can carry diseases. So, can a toddler catch a disease from a baby goat?
 
 In this article, we will answer this question and give you all the information you need to know about letting your toddler play with goats.
 
 ## Can a toddler catch a disease from a baby goat?
 
-**A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E. coli, that are dangerous to them.**
+**A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E.**
 
-However, it's still possible for a vaccinated toddler to catch a disease from a baby goat. This is because vaccinations are not 100% effective. They may help reduce the risk of catching a disease, but they do not eliminate the risk entirely.
+**coli, that are dangerous to them.**
+
+However, it's still possible for a vaccinated toddler to catch a disease from a baby goat. This is because vaccinations are not 100% effective.
+
+They may help reduce the risk of catching a disease, but they do not eliminate the risk entirely.
 
 ## Are there any benefits to letting your toddler play with baby goats aside from being adorable creatures?
 
@@ -68,7 +73,9 @@ While there are many benefits to letting your toddler play with baby goats, ther
 
 As we mentioned before, [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) can carry bacteria and viruses that can cause serious illnesses in people. This is why it's so important to make sure that the goats are healthy and up-to-date on their vaccinations before allowing your child to interact with them.
 
-Another risk to consider is the possibility of injury. [Baby goats](/can-baby-goats-be-house-trained/) can be very active, and toddlers can easily get knocked over or stepped on. For this reason, you need to closely supervise your child while they are playing with the baby goats.
+Another risk to consider is the possibility of injury. [Baby goats](/can-baby-goats-be-house-trained/) can be very active, and toddlers can easily get knocked over or stepped on.
+
+For this reason, you need to closely supervise your child while they are playing with the baby goats.
 
 By taking these risks into consideration, you can help to ensure that your child has a safe and enjoyable experience while playing with baby goats.
 
@@ -76,13 +83,19 @@ By taking these risks into consideration, you can help to ensure that your child
 
 Goats can be infected by a variety of parasites, both internal and external. Common internal parasites include stomach worms, lungworms, and intestinal worms.
 
-All of these parasites can [cause serious health problems in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), including weight loss, diarrhea, and anemia. External parasites include lice, mites, and ticks. These parasites can cause irritation and skin infections.
+All of these parasites can [cause serious health problems in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), including weight loss, diarrhea, and anemia. External parasites include lice, mites, and ticks.
 
-In addition, ticks can transmit diseases such as Lyme disease to goats. To protect your goats from parasites, you need to regularly deworm them and check them for external parasites. You should also quarantine new goats before introducing them to your herd.
+These parasites can cause irritation and skin infections.
+
+In addition, ticks can transmit diseases such as Lyme disease to goats. To protect your goats from parasites, you need to regularly deworm them and check them for external parasites.
+
+You should also quarantine new goats before introducing them to your herd.
 
 ## What is the common disease that baby goats can transmit to toddlers?
 
-The most common disease that baby goats can transmit to toddlers is brucellosis. Brucellosis is a bacterial infection that can cause flu-like symptoms, such as fever, chills, and body aches. In some cases, it can also lead to more serious complications, such as infertility or miscarriage.
+The most common disease that baby goats can transmit to toddlers is brucellosis. Brucellosis is a bacterial infection that can cause flu-like symptoms, such as fever, chills, and body aches.
+
+In some cases, it can also lead to more serious complications, such as infertility or miscarriage.
 
 Brucellosis is most commonly spread through contact with infected animal products, such as milk or meat. Despite that, it can also be spread through contact with the placenta or fluids from an infected animal.
 
@@ -90,7 +103,9 @@ For this reason, it's crucial to take precautions when handling baby goats, such
 
 ## How can you protect your toddler from getting sick while playing with baby goats?
 
-it's no secret that baby goats are adorable. They are also known for being very friendly, which can make them seem like the perfect playmates for toddlers. But, there are a few things to keep in mind before allowing your child to interact with baby goats.
+it's no secret that baby goats are adorable. They are also known for being very friendly, which can make them seem like the perfect playmates for toddlers.
+
+But, there are a few things to keep in mind before allowing your child to interact with baby goats.
 
 First, it's important to make sure that the goats are healthy and up-to-date on their vaccinations. [Baby goats can carry bacteria that can make people very sick](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), so you need to take precautions.
 
@@ -104,7 +119,9 @@ When it comes to finding the right farm for your toddler to play with baby goats
 
 First and foremost, safety is of the utmost importance. Make sure to visit the farm ahead of time to assess any potential hazards, and talk to the owners about their safety protocols.
 
-Once you've determined that the farm is safe, you'll also want to make sure that the goats are well-cared for. This means checking for clean living conditions, plenty of food and water, and signs of good health. Finally, you'll want to consider the overall environment of the farm.
+Once you've determined that the farm is safe, you'll also want to make sure that the goats are well-cared for. This means checking for clean living conditions, plenty of food and water, and signs of good health.
+
+Finally, you'll want to consider the overall environment of the farm.
 
 ## What are some things to keep in mind when choosing a farm to visit with your toddler and baby goats?
 

@@ -56,7 +56,9 @@ However, there are a few things you need to take into account.
 
 It is necessary to understand that there are two types of goats- screaming and fainting- before you breed them. This way, you can ensure they are paired up correctly.
 
-Screaming goats are usually larger and more [aggressive](/can-an-aggressive-goat-be-fixed/) than fainting goats. On the other hand, fainting goats are smaller and more docile. Therefore, you need to make sure that the [male screaming goat](/can-goats-actually-scream/) goat is not too aggressive for the female fainting goat and vice versa.
+Screaming goats are usually larger and more [aggressive](/can-an-aggressive-goat-be-fixed/) than fainting goats. On the other hand, fainting goats are smaller and more docile.
+
+Therefore, you need to make sure that the [male screaming goat](/can-goats-actually-scream/) goat is not too aggressive for the female fainting goat and vice versa.
 
 Secondly, you will need to make sure that both types of goats are healthy and free from any genetic diseases. This is important because if one of the goats is sick, it can [pass on the disease to the other goat](/can-a-goat-pass-afterbirth-between-kids/) and their offspring.
 
@@ -126,7 +128,9 @@ Although there may be some challenges that come along with breeding screaming an
 
 ## How long does it take for kids to be weaned?
 
-It is generally recommended that kids be weaned at around six to eight weeks of age. However, this may vary depending on the individual goat and its needs. It is crucial to monitor the health of the kid during this time and seek veterinary advice if necessary.
+It is generally recommended that kids be weaned at around six to eight weeks of age. However, this may vary depending on the individual goat and its needs.
+
+It is crucial to monitor the health of the kid during this time and seek veterinary advice if necessary.
 
 In addition to the care requirements mentioned above, there are a few [things you should keep in mind when breeding screaming and fainting goats](/can-a-dog-get-sick-from-a-goat/).
 

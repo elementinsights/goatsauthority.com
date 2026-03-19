@@ -41,14 +41,17 @@ faq:
   - question: "How can you induce labor in a goat that is overdue?"
     answer: "If a goat is overdue, there are several things that can be done in order to induce labor. One option is to give the goat a shot of oxytocin. This hormone helps to stimulate contractions and can be very effective in inducing labor."
 ---
+Every goat owner has to deal with the potential of an overdue goat at some point in their lives. What choices do you have if this occurs?
 
-Every goat owner has to deal with the potential of an overdue goat at some point in their lives. What choices do you have if this occurs? Can you induce labor in a goat that is past due?
+Can you induce labor in a goat that is past due?
 
 We will address all of your questions on nursing an overdue goat in this article and more.
 
 ## Can an overdue goat be Induced to labor?
 
-**An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce. And if a goat is carrying multiple kids, it may be necessary to induce earlier.**
+**An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce.**
+
+**And if a goat is carrying multiple kids, it may be necessary to induce earlier.**
 
 Despite that, it's crucial to speak with a goat expert before inducing labor in a goat. There are several drugs that can be used to induce labor, and a vet will be able to recommend the best one for your goat's situation.
 
@@ -78,11 +81,15 @@ Some may only show one or two, while others may not show any at all. Therefore, 
 
 ## How can you induce labor in a goat that is overdue?
 
-If a goat is overdue, there are several things that can be done in order to induce labor. One option is to give the goat a shot of oxytocin. This hormone helps to stimulate contractions and can be very effective in inducing labor.
+If a goat is overdue, there are several things that can be done in order to induce labor. One option is to give the goat a shot of oxytocin.
+
+This hormone helps to stimulate contractions and can be very effective in inducing labor.
 
 Another option is to place a cup of warm [water on the goat's vulva](/can-i-give-a-sick-goat-water-through-a-syringe/). This helps to relax the muscles and can encourage the start of labor.
 
-Lastly, it's also possible to insert a [small amount of olive oil or coffee into the goat's vagina](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This helps to stimulate contractions and can often be enough to induce labor. If these methods do not work, it may be necessary to call a goat expert for help.
+Lastly, it's also possible to insert a [small amount of olive oil or coffee into the goat's vagina](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This helps to stimulate contractions and can often be enough to induce labor.
+
+If these methods do not work, it may be necessary to call a goat expert for help.
 
 ## What are the risks associated with inducing labor in a goat?
 
@@ -98,7 +105,9 @@ Finally, inducing labor may also [cause anxiety and stress for both the goat](/c
 
 If you're a farmer or keep backyard goats, chances are you've had to deal with the occasional overdue doe. While it's not the most pleasant task, knowing how to care for an overdue goat is an essential part of being a responsible owner.
 
-The first thing you need to do is contact your veterinarian. They will be able to help you determine if there are any medical reasons why your goat is overdue. Once you've ruled out any health concerns, it's time to start preparing for the delivery.
+The first thing you need to do is contact your veterinarian. They will be able to help you determine if there are any medical reasons why your goat is overdue.
+
+Once you've ruled out any health concerns, it's time to start preparing for the delivery.
 
 First, make sure you have all the supplies you'll need on hand, including clean towels, disinfectant, and a warming lamp. Next, clear out an area of the stall or pen where the doe can deliver her kids.
 
@@ -114,7 +123,9 @@ Overeating can lead to obesity, which can put unnecessary stress on the goat's b
 
 Other common problems during pregnancy include uterine infections, prolapse, and twins. Uterine infections can be very dangerous and may even lead to death if left untreated.
 
-Prolapse occurs when the uterus or other organs protrude from the vagina. This can be very [painful for the goat and may cause serious health complications](/can-goats-cause-slope/). Twins are also relatively common in goats and can often lead to complications during labor.
+Prolapse occurs when the uterus or other organs protrude from the vagina. This can be very [painful for the goat and may cause serious health complications](/can-goats-cause-slope/).
+
+Twins are also relatively common in goats and can often lead to complications during labor.
 
 ## What are the signs that a goat is in labor?
 

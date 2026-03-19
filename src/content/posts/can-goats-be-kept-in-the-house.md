@@ -41,8 +41,9 @@ faq:
   - question: "How do I care for a goat in the house?"
     answer: "If you decide to keep a goat in the house, there are some important considerations to keep in mind. First, you will need to provide a large enclosure for your goat."
 ---
+Livestock farming is a difficult but rewarding task that requires a lot of commitment and dedication. If you're thinking about adding goats to your farm, you may be wondering if they can be kept in the house.
 
-Livestock farming is a difficult but rewarding task that requires a lot of commitment and dedication. If you're thinking about adding goats to your farm, you may be wondering if they can be kept in the house. And if so, what are the best ways to do so?
+And if so, what are the best ways to do so?
 
 In this article, we will answer all of your questions about keeping goats in the house, including what type of housing is best and what you need to know about care and management.
 
@@ -88,11 +89,15 @@ Finally, you will need to provide plenty of fresh hay, water, and grazing areas 
 
 While most people think of goats as outdoor animals, they can actually make surprisingly good indoor pets. When choosing a housing option for your indoor goat, there are a few things to keep in mind.
 
-First, [goats are very active and love to climb](/can-goats-climb-fences/), so they need plenty of space to run and play. A small pen or dog crate will not be sufficient. Instead, opt for a larger enclosure that gives your goat room to roam.
+First, [goats are very active and love to climb](/can-goats-climb-fences/), so they need plenty of space to run and play. A small pen or dog crate will not be sufficient.
+
+Instead, opt for a larger enclosure that gives your goat room to roam.
 
 Secondly, goats are very social creatures and do their best when they have companionship. If you only have one goat, consider getting two so that they can keep each other company.
 
-Finally, goats are very curious animals and love to explore their surroundings. Make sure that their enclosure is securely fenced so that they cannot escape and get into trouble. With a little bit of planning, you can create a safe and comfortable home for your indoor goats.
+Finally, goats are very curious animals and love to explore their surroundings. Make sure that their enclosure is securely fenced so that they cannot escape and get into trouble.
+
+With a little bit of planning, you can create a safe and comfortable home for your indoor goats.
 
 ## What do you need to know about goat care and management when they're living indoors?
 

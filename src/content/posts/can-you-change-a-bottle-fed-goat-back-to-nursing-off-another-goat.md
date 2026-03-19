@@ -39,8 +39,9 @@ faq:
   - question: "How to prevent risks when changing a bottle fed goat back to nursing?"
     answer: "As a farm kid, I learned early on that goats are creatures of habit. Once they get used to a certain way of doing things, they don't like change."
 ---
+It's common knowledge that baby goats are the cutest, but what you may not know is that it's best for them to nurse off their mothers. If your goat was bottle-fed and you're wondering if they can switch back to nursing or not.
 
-It's common knowledge that baby goats are the cutest, but what you may not know is that it's best for them to nurse off their mothers. If your goat was bottle-fed and you're wondering if they can switch back to nursing or not. And if so, what are the benefits?
+And if so, what are the benefits?
 
 In this article, we will answer the question, can you change a bottle-fed goat back to nursing off another goat? We'll also touch on the benefits of doing so.
 
@@ -48,13 +49,17 @@ In this article, we will answer the question, can you change a bottle-fed goat b
 
 **You can easily change a bottle-fed goat back to nursing off another goat because it is their natural way of getting nutrition. There are many benefits that come with this transition, such as easier digestion and access to essential nutrients.**
 
-On top of that, it's great for bonding purposes and helps them socialize with other goats. The process of switching a bottle-fed goat back to nursing is actually quite simple. Just put them in [contact with a nursing goat](/contact/) and they will start to nurse. It's really that easy.
+On top of that, it's great for bonding purposes and helps them socialize with other goats. The process of switching a bottle-fed goat back to nursing is actually quite simple.
+
+Just put them in [contact with a nursing goat](/contact/) and they will start to nurse. It's really that easy.
 
 Despite that, there are a few things you should keep in mind. Make sure the nursing [goat is healthy and free of disease, as you don't want your bottle-fed goat to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 In addition, it's important to monitor the situation closely at first, as bottle-fed goats may not know how to properly nurse and could end up hurting the nursing goat.
 
-Overall, changing a bottle-fed goat back to nursing is a great idea. There are many benefits that come with it, and it's really not that difficult to do. Just be sure to keep a few things in mind and you'll be fine.
+Overall, changing a bottle-fed goat back to nursing is a great idea. There are many benefits that come with it, and it's really not that difficult to do.
+
+Just be sure to keep a few things in mind and you'll be fine.
 
 ## What are the benefits of changing a bottle fed goat back to nursing off another goat?
 
@@ -98,7 +103,9 @@ If you have a bottle-fed goat that is rejected by the nursing goat, there are a 
 
 One thing you can do is to try and feed the goat yourself. This will allow the goat to get used to your scent and hopefully make them more accepting of you.
 
-Another thing you can try is to put a little bit of food on your hand and let the goat smell it and lick it off. This may help the goat to realize that you are not a threat. If all else fails, you can always consult with a veterinarian or another animal expert for more advice.
+Another thing you can try is to put a little bit of food on your hand and let the goat smell it and lick it off. This may help the goat to realize that you are not a threat.
+
+If all else fails, you can always consult with a veterinarian or another animal expert for more advice.
 
 ## When is the best time to change a bottle fed goat back to nursing?
 

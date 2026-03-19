@@ -41,14 +41,17 @@ faq:
   - question: "How to prevent foodborne illness when eating goat meat?"
     answer: "As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly. To reduce your risk of contracting a foodborne illness, be sure to:"
 ---
+Taking care of a baby is a full-time job. If you’re a new mom, you might be wondering if you can eat goat meat or not.
 
-Taking care of a baby is a full-time job. If you’re a new mom, you might be wondering if you can eat goat meat or not. And if so, what are the things you need to consider?
+And if so, what are the things you need to consider?
 
 In this article, we will answer those questions regarding eating goats for postpartum women. We’ll also discuss the nutrients found in goat meat and how they can benefit you and your baby.
 
 ## Can postpartum women eat goats?
 
-**Postpartum women can safely eat goat meat. In fact, goat meat is an excellent source of protein and iron, which are two nutrients that new moms need. Goat meat is also lower in fat and calories than other types of red meat, making it a healthier option.**
+**Postpartum women can safely eat goat meat. In fact, goat meat is an excellent source of protein and iron, which are two nutrients that new moms need.**
+
+**Goat meat is also lower in fat and calories than other types of red meat, making it a healthier option.**
 
 In addition, [goat meat is easy to digest and is unlikely to cause any digestive problems](/can-contact-with-goats-cause-diarrhea-in-humans/). Therefore, it’s a great option for postpartum women who are struggling with constipation or other gastrointestinal issues.
 
@@ -76,7 +79,9 @@ Until then, it may be advisable for postpartum women to steer clear of this pote
 
 ## How to prevent foodborne illness when eating goat meat?
 
-As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly. To reduce your risk of contracting a foodborne illness, be sure to:
+As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly.
+
+To reduce your risk of contracting a foodborne illness, be sure to:
 
 - Purchase goat meat from a reputable source
 - Store goat meat properly

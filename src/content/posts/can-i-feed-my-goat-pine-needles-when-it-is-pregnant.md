@@ -46,9 +46,13 @@ In this article, we will answer some of the frequently asked questions about fee
 
 ## Can I feed my goat pine needles when it is pregnant?
 
-**You can feed your goat pine needles when it is pregnant. In fact, this is a good way to provide them with the nutrients they need. They also contain a substance called pycnogenol, which is known to be beneficial for pregnant women.**
+**You can feed your goat pine needles when it is pregnant. In fact, this is a good way to provide them with the nutrients they need.**
 
-However, there are a few things you need to consider when feeding your goat pine needles. First, make sure that the needles are fresh and not old. Second, [don't feed your goat too many pine needles](/can-a-goat-feed-quads/) as they can be harmful if ingested in large quantities.
+**They also contain a substance called pycnogenol, which is known to be beneficial for pregnant women.**
+
+However, there are a few things you need to consider when feeding your goat pine needles. First, make sure that the needles are fresh and not old.
+
+Second, [don't feed your goat too many pine needles](/can-a-goat-feed-quads/) as they can be harmful if ingested in large quantities.
 
 Lastly, make sure that the pine needles are not treated with any chemicals or pesticides. If you're unsure, it's always best to err on the side of caution and avoid feeding your goat pine needles that have been treated.
 

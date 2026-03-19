@@ -46,7 +46,9 @@ In this article, we will answer those questions and provide you with more detail
 
 ## Can you own a goat in Wyoming?
 
-**You can own a goat in Wyoming as long as you follow the local zoning regulations. Some areas may allow goats while others may not, so it's important to check with your local municipality first. There are also some counties in Wyoming that require a permit to keep goats.**
+**You can own a goat in Wyoming as long as you follow the local zoning regulations. Some areas may allow goats while others may not, so it's important to check with your local municipality first.**
+
+**There are also some counties in Wyoming that require a permit to keep goats.**
 
 In addition to following local zoning regulations, you will also need to take care of your goats and provide them with proper shelter, food, and water. Goats are social animals and need to be around other goats, so you will need to have at least two.
 
@@ -92,7 +94,9 @@ Whether you're just starting out with your first fluffy kid or are looking to ad
 
 ## What kind of care do goats need in Wyoming?
 
-In order to thrive in the harsh climate of Wyoming, goats require special care and attention. The first thing that is [essential for goat health is a good diet](/can-you-drink-raw-goat-milk-on-gaps-diet/). In general, [goats should be fed a balanced diet](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) rich in nutrients like protein, fat, carbohydrates, and vitamins.
+In order to thrive in the harsh climate of Wyoming, goats require special care and attention. The first thing that is [essential for goat health is a good diet](/can-you-drink-raw-goat-milk-on-gaps-diet/).
+
+In general, [goats should be fed a balanced diet](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) rich in nutrients like protein, fat, carbohydrates, and vitamins.
 
 This can include fresh fruits and vegetables, as well as nutritious grains and hay. Additionally, regular access to clean water is important for digestion and hydration.
 

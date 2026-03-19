@@ -41,12 +41,17 @@ faq:
   - question: "Can goats eat onion roots?"
     answer: "Goats should not eat onion roots. Onion roots contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion root can cause red blood cells to break down, leading to anemia. It can also cause difficulty breathing, stomach pain, and vomiting. Onion roots should be avoided, and cooked onions should be given in moderation."
 ---
+Onions are a popular vegetable that is enjoyed by many. But what about goats?
 
-Onions are a popular vegetable that is enjoyed by many. But what about goats? Can they eat onions too? And if so, what are the benefits and risks? In this article, we will explore these questions and more.
+Can they eat onions too? And if so, what are the benefits and risks?
+
+In this article, we will explore these questions and more.
 
 ## Can goats eat onions?
 
-**Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions. They also contain quercetin, which is a flavonoid with antioxidant and anti-inflammatory properties that can be beneficial to a goat's health.**
+**Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions.**
+
+**They also contain quercetin, which is a flavonoid with antioxidant and anti-inflammatory properties that can be beneficial to a goat's health.**
 
 However, there are also some risks associated with feeding onions to goats. For example, onions can cause digestive problems in goats, and they may also be toxic in large quantities.
 
@@ -68,7 +73,9 @@ Despite that, it's important to make sure that they are properly cooked before f
 
 Onions are a common ingredient in many dishes, but they are not usually considered to be safe for goats. Baby goats are especially sensitive to the effects of onions, and even a small amount can cause digestive problems.
 
-Onions contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion can cause red blood cells to break down, leading to anemia. In severe cases, onion poisoning can be fatal.
+Onions contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion can cause red blood cells to break down, leading to anemia.
+
+In severe cases, onion poisoning can be fatal.
 
 While onions are generally considered to be unsafe for goats, there are some instances in which they can be eaten without causing any harm.
 
@@ -78,9 +85,13 @@ Regardless of how it's crucial to make sure that the onions are cooked all the w
 
 ## What are the benefits of feeding onions to goats?
 
-Onions are a type of allium, which also includes garlic, chives, and leeks. They are characterized by their pungent aroma and their ability to make us cry when we slice into them. Even so, onions are also a nutritious food that can offer many benefits to goats.
+Onions are a type of allium, which also includes garlic, chives, and leeks. They are characterized by their pungent aroma and their ability to make us cry when we slice into them.
 
-Onions are a good source of fiber and vitamin C, and vitamin B6, which can help goats to stay healthy and prevent deficiencies. In addition, onions can help to deter parasites, both internal and external. When fed in moderation, onions can be a valuable part of a goat's diet.
+Even so, onions are also a nutritious food that can offer many benefits to goats.
+
+Onions are a good source of fiber and vitamin C, and vitamin B6, which can help goats to stay healthy and prevent deficiencies. In addition, onions can help to deter parasites, both internal and external.
+
+When fed in moderation, onions can be a valuable part of a goat's diet.
 
 ## What are the things to keep in mind when feeding onions to goats?
 
@@ -118,25 +129,33 @@ Find out here the answer to the commonly asked questions about feeding onions to
 
 ### Can goats eat raw onions?
 
-Goats should not eat raw onions. Onions contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion can cause red blood cells to break down, leading to anemia.
+Goats should not eat raw onions. Onions contain a substance known as thiosulfate, which can be toxic to goats.
+
+Eating too much onion can cause red blood cells to break down, leading to anemia.
 
 It can also cause difficulty breathing, stomach pain, and vomiting. Raw onions should be avoided, and cooked onions should be given in moderation.
 
 ### Can goats eat onion skins?
 
-Goats should not eat onion skins. Onion skins contain a substance known as quercetin, which can be toxic to goats. Quercetin is an antioxidant that can help to protect plants from pests and diseases.
+Goats should not eat onion skins. Onion skins contain a substance known as quercetin, which can be toxic to goats.
+
+Quercetin is an antioxidant that can help to protect plants from pests and diseases.
 
 However, it can also cause gastrointestinal irritation when consumed in large quantities. For this reason, onion skins should be avoided.
 
 ### Can goats eat onion leaves?
 
-Goats can eat onion leaves. Onion leaves are a good source of fiber and vitamins A and C. They also contain antioxidants that can help protect goats from disease.
+Goats can eat onion leaves. Onion leaves are a good source of fiber and vitamins A and C.
+
+They also contain antioxidants that can help protect goats from disease.
 
 Even so, onion leaves should be given in moderation, as they can cause digestive problems if eaten in large quantities.
 
 ### Can goats eat onion roots?
 
-Goats should not eat onion roots. Onion roots contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion root can cause red blood cells to break down, leading to anemia.
+Goats should not eat onion roots. Onion roots contain a substance known as thiosulfate, which can be toxic to goats.
+
+Eating too much onion root can cause red blood cells to break down, leading to anemia.
 
 It can also cause difficulty breathing, stomach pain, and vomiting. Onion roots should be avoided, and cooked onions should be given in moderation.
 

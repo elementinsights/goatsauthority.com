@@ -52,21 +52,33 @@ In this article, we’re going to take a closer look at what kind of hay do goat
 
 ## What kind of hay do goats eat?
 
-**Goats eat all kinds of hay, including alfalfa hay, Timothy hay, and brome hay. You can also give them a mix of all three hays. The important thing is that the hay is fresh and free of mold or mildew.**
+**Goats eat all kinds of hay, including alfalfa hay, Timothy hay, and brome hay. You can also give them a mix of all three hays.**
 
-However, goats prefer alfalfa hay over all other types of hay. Alfalfa hay is higher in protein and calcium, which are two essential nutrients for goats. If you can, try to find alfalfa hay that’s been grown without the use of pesticides or herbicides.
+**The important thing is that the hay is fresh and free of mold or mildew.**
+
+However, goats prefer alfalfa hay over all other types of hay. Alfalfa hay is higher in protein and calcium, which are two essential nutrients for goats.
+
+If you can, try to find alfalfa hay that’s been grown without the use of pesticides or herbicides.
 
 ## What is hay, and why do goats eat it?
 
-Hay is a type of animal feed that is made from dried grass or other plants. It's typically fed to livestock, such as cattle, horses, sheep, and goats. Goats are particularly fond of hay, and it can make up a large part of their diet.
+Hay is a type of animal feed that is made from dried grass or other plants. It's typically fed to livestock, such as cattle, horses, sheep, and goats.
 
-Hay is an important source of nutrition for goats, providing them with essential vitamins and minerals. In addition, hay helps to keep goats' digestive systems healthy and prevents boredom. As a result, hay is an essential part of Goat care.
+Goats are particularly fond of hay, and it can make up a large part of their diet.
+
+Hay is an important source of nutrition for goats, providing them with essential vitamins and minerals. In addition, hay helps to keep goats' digestive systems healthy and prevents boredom.
+
+As a result, hay is an essential part of Goat care.
 
 ## Do all goats eat hay?
 
-All goats are herbivores, which means they only eat plant material. Despite that, not all goats eat hay. Some goats may prefer other types of plants, such as grass or leaves. Hay is a type of dried grass that is often fed to livestock.
+All goats are herbivores, which means they only eat plant material. Despite that, not all goats eat hay.
 
-it's a good source of nutrition and can help to keep animals healthy. Even so, it can also be expensive, so not all farmers choose to feed their goat's hay. Instead, they may provide other types of plants or even food scraps.
+Some goats may prefer other types of plants, such as grass or leaves. Hay is a type of dried grass that is often fed to livestock.
+
+it's a good source of nutrition and can help to keep animals healthy. Even so, it can also be expensive, so not all farmers choose to feed their goat's hay.
+
+Instead, they may provide other types of plants or even food scraps.
 
 Ultimately, it's up to the farmer to decide what type of food to give their goats, but all goats are capable of eating hay if it's available.
 
@@ -128,7 +140,9 @@ You can also give your goats leftover fruits and vegetables from your kitchen. J
 
 Goat minerals are also an important part of their diet. A good mineral supplement will provide your goats with the calcium, phosphorus, and other minerals they need to stay healthy.
 
-Lastly, don't forget about water. Goats need access to clean, fresh water at all times. By offering your goats a variety of food and water options, you can help them stay healthy and happy.
+Lastly, don't forget about water. Goats need access to clean, fresh water at all times.
+
+By offering your goats a variety of food and water options, you can help them stay healthy and happy.
 
 ## Final Thoughts
 

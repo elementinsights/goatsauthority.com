@@ -43,14 +43,17 @@ faq:
   - question: "What are the pros and cons of line breeding?"
     answer: "There are both pros and cons to line breeding. Some of the pros include:"
 ---
+We all know that inbreeding is generally not a good idea. It can lead to health problems and weakened offspring.
 
-We all know that inbreeding is generally not a good idea. It can lead to health problems and weakened offspring. So, what about line breeding? Can you breed a half-brother and sister goat?
+So, what about line breeding? Can you breed a half-brother and sister goat?
 
 In this article, we'll discuss [line breeding](/can-you-breed-a-father-and-daughter-goat/), inbreeding, and some of the pros and cons to help you make the best decision for your herd.
 
 ## Can you breed a half-brother and sister goat?
 
-**It is possible to breed a half-brother and sister goat, but it is not recommended. This is because there is a higher chance of inbreeding occurring when breeding close relatives. They are also more likely to inherit any recessive genetic disorders that may be present in the family line.**
+**It is possible to breed a half-brother and sister goat, but it is not recommended. This is because there is a higher chance of inbreeding occurring when breeding close relatives.**
+
+**They are also more likely to inherit any recessive genetic disorders that may be present in the family line.**
 
 In addition, when two closely related animals are bred, there is a higher chance of offspring being born with birth defects. This is due to the fact that close relatives are more likely to share the same genetic defects.
 
@@ -58,7 +61,9 @@ So, while you can breed a half-brother and sister goat, it is not recommended. I
 
 ## What is line breeding?
 
-Line breeding is a type of breeding that involves mating animals that are closely related. This can be done by breeding a father and daughter, or a mother and son. It can also be done by breeding two siblings, or a half-brother and sister.
+Line breeding is a type of breeding that involves mating animals that are closely related. This can be done by breeding a father and daughter, or a mother and son.
+
+It can also be done by breeding two siblings, or a half-brother and sister.
 
 The goal of line breeding is to produce offspring that inherit the best traits of both parents. For example, if you have a [goat that is particularly good at producing milk](/can-a-female-goat-produce-milk-without-being-pregnant/), you may want to line breed them in order to produce offspring that are also good at producing milk.
 
@@ -66,7 +71,9 @@ Line breeding can be an effective way to improve certain traits in a herd. Howev
 
 ## What is inbreeding?
 
-Inbreeding is the breeding of two closely related animals. This can be done by breeding a father and daughter, or a mother and son. It can also be done by breeding two siblings, or a half-brother and sister.
+Inbreeding is the breeding of two closely related animals. This can be done by breeding a father and daughter, or a mother and son.
+
+It can also be done by breeding two siblings, or a half-brother and sister.
 
 Inbreeding can lead to health problems in offspring, as well as weakened immune systems. In addition, inbreeding can cause birth defects and increase the chances of genetic disorders being passed down to future generations.
 
@@ -100,7 +107,9 @@ So, while line breeding can have some benefits, there are also some risks to con
 
 One of the best ways to prevent inbreeding in goats is to keep a wide gene pool. This can be done by ensuring that there are multiple generations of goats and that each goat has a different bloodline.
 
-On top of that, it is crucial to avoid [breeding closely related goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), such as siblings or cousins. Another way to prevent inbreeding is to bring new goats into the herd from time to time. This will help to keep the gene pool diverse and will reduce the likelihood of genetic defects.
+On top of that, it is crucial to avoid [breeding closely related goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), such as siblings or cousins. Another way to prevent inbreeding is to bring new goats into the herd from time to time.
+
+This will help to keep the gene pool diverse and will reduce the likelihood of genetic defects.
 
 Finally, it is important to monitor the health of the goats and to cull any animals that seem unhealthy or have congenital defects. By taking these precautions, it is possible to maintain a healthy and genetically diverse herd of goats.
 

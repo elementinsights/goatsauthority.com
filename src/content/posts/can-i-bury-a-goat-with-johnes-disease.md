@@ -40,13 +40,17 @@ faq:
 
 We all know that goats are interesting creatures. They're known for their playful and curious nature, and they're also pretty good at escaping fences.
 
-But did you know that goats can also get sick? One of the diseases that goats can get is called Johne's disease. And you may be wondering if you can bury a goat with Johne's disease.
+But did you know that goats can also get sick? One of the diseases that goats can get is called Johne's disease.
+
+And you may be wondering if you can bury a goat with Johne's disease.
 
 In this article, we will discuss everything you need to know about Johne's disease in goats, including how it is transmitted and if you can bury a goat with the disease.
 
 ## Can you bury a goat with Johne's disease?
 
-**You can bury a goat with Johne's disease. In fact, it is the recommended method of disposing of a goat with Johne's disease. The reason for this is that Johne's disease is a contagious disease, and burying the goat will help to prevent the spread of the disease.**
+**You can bury a goat with Johne's disease. In fact, it is the recommended method of disposing of a goat with Johne's disease.**
+
+**The reason for this is that Johne's disease is a contagious disease, and burying the goat will help to prevent the spread of the disease.**
 
 When burying a goat with Johne's disease, it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
 
@@ -56,15 +60,21 @@ If you have other animals on your property, you need to keep them away from the 
 
 Johne's disease is a serious disease that can be fatal in goats. If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
 
-Johne's disease is a contagious disease that [affects goats](/can-weather-affect-goats-poop/). The disease is caused by a bacteria called Mycobacterium avium paratuberculosis. This bacteria is found in the environment, and it can [infect goats through contaminated food or water](/can-i-give-a-sick-goat-water-through-a-syringe/).
+Johne's disease is a contagious disease that [affects goats](/can-weather-affect-goats-poop/). The disease is caused by a bacteria called Mycobacterium avium paratuberculosis.
+
+This bacteria is found in the environment, and it can [infect goats through contaminated food or water](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 The bacteria can also be [spread from goat to goat](/can-goats-spread-lice-to-llamas/) through contact with contaminated fecal matter. Once a goat is infected with the bacteria, it can take months or even years for the disease to develop.
 
-Johne's disease is a serious disease that can be fatal in goats. The symptoms of Johne's disease include weight loss, diarrhea, and loss of appetite. If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
+Johne's disease is a serious disease that can be fatal in goats. The symptoms of Johne's disease include weight loss, diarrhea, and loss of appetite.
+
+If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
 
 ## What is Johne's disease in goats and how is it transmitted?
 
-Johne's disease, also known as paratuberculosis, is a serious illness that affects goats and other animals. It is caused by a bacteria called Mycobacterium avium subsp. Paratuberculosis, or MAP for short.
+Johne's disease, also known as paratuberculosis, is a serious illness that affects goats and other animals. It is caused by a bacteria called Mycobacterium avium subsp.
+
+Paratuberculosis, or MAP for short.
 
 This type of bacteria is highly contagious and can be transmitted through direct contact with infected animals as well as through indirect contact via contaminated water or food sources.
 
@@ -108,7 +118,9 @@ With these tools, a goat expert can accurately diagnose Johne's disease and begi
 
 ## When is the best time to test for Johne's disease in goats?
 
-The best time to test for Johne's disease in goats is when they are between 6 and 12 months old. This is because of the bacteria that cause Johne's disease, Mycobacterium avium subsp. paratuberculosis (MAP), can take several months to incubate in an animal's system.
+The best time to test for Johne's disease in goats is when they are between 6 and 12 months old. This is because of the bacteria that cause Johne's disease, Mycobacterium avium subsp.
+
+paratuberculosis (MAP), can take several months to incubate in an animal's system.
 
 Therefore, testing too early could result in false negatives, while waiting too long could mean that the disease has already progressed to a more advanced stage. Additionally, you need to note that [not all goats will test positive for Johne's disease](/can-goats-eat-st-johns-wort/) even if they are infected with MAP.
 

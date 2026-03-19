@@ -50,11 +50,17 @@ We'll go over everything you need to know about eating goat liver in this articl
 
 ## Can we eat goat liver?
 
-**We can eat goat liver as long as it is cooked properly. In fact, it is a good source of protein and nutrients. Goat liver also has a relatively low-fat content and is low in calories, making it a healthy option for those looking to lose weight.**
+**We can eat goat liver as long as it is cooked properly. In fact, it is a good source of protein and nutrients.**
 
-However, there are some things you need to consider before eating goat liver. For example, the liver is where toxins are stored in the body. So, if the goat has been exposed to toxic substances, those toxins will be concentrated in its liver.
+**Goat liver also has a relatively low-fat content and is low in calories, making it a healthy option for those looking to lose weight.**
 
-Furthermore, goat liver is high in cholesterol. While cholesterol is not necessarily bad for you, too much can lead to health problems. Therefore, it is crucial to talk to your doctor before eating goat liver if you have any concerns.
+However, there are some things you need to consider before eating goat liver. For example, the liver is where toxins are stored in the body.
+
+So, if the goat has been exposed to toxic substances, those toxins will be concentrated in its liver.
+
+Furthermore, goat liver is high in cholesterol. While cholesterol is not necessarily bad for you, too much can lead to health problems.
+
+Therefore, it is crucial to talk to your doctor before eating goat liver if you have any concerns.
 
 Finally, it is crucial to cooking goat liver properly. The undercooked liver can be dangerous, as it may contain harmful bacteria.
 

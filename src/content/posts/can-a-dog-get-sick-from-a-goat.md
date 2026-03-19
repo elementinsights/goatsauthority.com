@@ -41,8 +41,9 @@ faq:
   - question: "What is the best dog breed to guard your goats?"
     answer: "When it comes to guarding your goats, there are a number of different dog breeds that can get the job done. But there are some breeds that are better suited for the task than others."
 ---
+Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat?
 
-Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat? In this article, we'll cover the basics of what you need to know about dog-goat interactions, including how to prevent your dog from getting sick from a goat.
+In this article, we'll cover the basics of what you need to know about dog-goat interactions, including how to prevent your dog from getting sick from a goat.
 
 And also, we'll tell you how to choose the right dog breed for your goats, in case you're thinking about getting both animals.
 
@@ -56,7 +57,9 @@ Finally, if the dog comes into contact with the goat's feces, there's a chance t
 
 ## What disease can a dog get from a goat?
 
-There are a number of diseases that can affect both dogs and goats, but some are more common than others. One of the most common diseases is parvovirus, which is highly contagious and can be deadly. Dogs can also contract rabies from goats, although this is relatively rare.
+There are a number of diseases that can affect both dogs and goats, but some are more common than others. One of the most common diseases is parvovirus, which is highly contagious and can be deadly.
+
+Dogs can also contract rabies from goats, although this is relatively rare.
 
 Other diseases that can be passed from goats to dogs include leptospirosis, giardia, and salmonella.
 
@@ -70,7 +73,9 @@ Dogs typically eat meat and crunchy dog biscuits while goats prefer to graze on 
 
 In terms of personality, dogs are often seen as loyal and friendly companions while goats are more independent and inquisitive.
 
-Despite these differences, however, dogs and goats can get along quite well. Goats are social creatures and enjoy the company of other animals, including dogs. In fact, a dog can provide a goat with valuable protection from predators.
+Despite these differences, however, dogs and goats can get along quite well. Goats are social creatures and enjoy the company of other animals, including dogs.
+
+In fact, a dog can provide a goat with valuable protection from predators.
 
 In return, the goat will often serve as a friend and companion to the dog. Though they have different personality traits and dietary needs, dogs and goats can form strong bonds with one another.
 
@@ -110,7 +115,9 @@ By spending time with your goats and working together as a team, you and your go
 
 Dogs who herd goats may suffer from multiple health problems. One common issue is hip and elbow dysplasia, which occurs when the joints do not develop properly.
 
-This can lead to pain and arthritis later in life. Another issue that can affect herding dogs is heatstroke, as they are often working in hot weather without access to shade or water. Without proper hydration, dogs can quickly overheat, leading to organ damage or even death.
+This can lead to pain and arthritis later in life. Another issue that can affect herding dogs is heatstroke, as they are often working in hot weather without access to shade or water.
+
+Without proper hydration, dogs can quickly overheat, leading to organ damage or even death.
 
 Eventually, herding dogs may also suffer from anxiety or stress due to the demanding nature of their job. If not properly managed, this stress can lead to serious health problems such as ulcers or heart disease.
 
@@ -142,4 +149,6 @@ In the end, you need to keep an eye on the dog's food and water bowls, as goats 
 
 Many people enjoy the companionship of both dogs and goats. However, it's important to be aware of the potential health risks that can occur when these two animals interact.
 
-Overall, goats and dogs can get sick of each other if they are not properly cared for. It's crucial to practice good hygiene, keep up-to-date on vaccinations, and monitor both animals closely for signs of illness. By taking these precautions, you can help to keep both goats and dogs safe and healthy.
+Overall, goats and dogs can get sick of each other if they are not properly cared for. It's crucial to practice good hygiene, keep up-to-date on vaccinations, and monitor both animals closely for signs of illness.
+
+By taking these precautions, you can help to keep both goats and dogs safe and healthy.

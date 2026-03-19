@@ -41,20 +41,25 @@ faq:
   - question: "What are the benefits of owning Toggenburg goats?"
     answer: "There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk. In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine."
 ---
+Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering about their origins.
 
-Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering about their origins. Where did Toggenburg goats originate?
+Where did Toggenburg goats originate?
 
 In this article, we will answer those questions for you and provide some additional information about these popular goats.
 
 ## Where did Toggenburg goats originate?
 
-**Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain. The Toggenburg goat was first brought to America in 1904 by Mrs. E. Pardee of Ohio.**
+**Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain.**
+
+**The Toggenburg goat was first brought to America in 1904 by Mrs. E. Pardee of Ohio.**
 
 Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of milk per day, which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
 
 In addition to their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 
-If you are thinking about getting goats, Toggenburgs make an excellent choice. They are hardy animals that are well-suited to a variety of climates and conditions. With proper care, they can provide you with years of enjoyment.
+If you are thinking about getting goats, Toggenburgs make an excellent choice. They are hardy animals that are well-suited to a variety of climates and conditions.
+
+With proper care, they can provide you with years of enjoyment.
 
 ## What are Toggenburg goats?
 
@@ -78,7 +83,9 @@ They are hardy animals that can thrive in a variety of different climates and te
 
 ## What are the benefits of owning Toggenburg goats?
 
-There are many [benefits to owning Toggenburg goats](/can-benadryl-hurt-a-goat/). As a dairy breed, they are capable of producing large quantities of milk. In fact, Toggenburg [goats are known to produce up to 3 gallons of milk per day](/can-a-female-goat-produce-milk-without-being-pregnant/), which is more than other popular dairy breeds such as the Saanen and the Alpine.
+There are many [benefits to owning Toggenburg goats](/can-benadryl-hurt-a-goat/). As a dairy breed, they are capable of producing large quantities of milk.
+
+In fact, Toggenburg [goats are known to produce up to 3 gallons of milk per day](/can-a-female-goat-produce-milk-without-being-pregnant/), which is more than other popular dairy breeds such as the Saanen and the Alpine.
 
 On top of their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 

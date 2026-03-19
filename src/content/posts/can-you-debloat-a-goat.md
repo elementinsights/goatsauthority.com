@@ -52,27 +52,39 @@ In this article, we will answer those questions and provide you with some tips o
 
 ## Can you debloat a goat?
 
-**You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size. They are also susceptible to bloating from overeating or drinking too much water at once.**
+**You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size.**
 
-However, it is best to avoid letting your goat get bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times. If you think your goat may be bloated, contact your veterinarian immediately.
+**They are also susceptible to bloating from overeating or drinking too much water at once.**
+
+However, it is best to avoid letting your goat get bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times.
+
+If you think your goat may be bloated, contact your veterinarian immediately.
 
 ## What is the best way to debloat a goat?
 
-The best way to debloat a goat is to prevent it from becoming bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times. If you think your goat may be bloated, contact your veterinarian immediately.
+The best way to debloat a goat is to prevent it from becoming bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times.
+
+If you think your goat may be bloated, contact your veterinarian immediately.
 
 If your goat does become bloated, you will need to administer mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size.
 
 ## What is debloating and why do goats need it?
 
-Debloating is the process of relieving pressure in the stomach caused by gas buildup. [Goats can become bloated from overeating or drinking too much water](/can-horses-drink-water-that-has-goat-poop-in-it/) at once. Bloating can be dangerous for goats as it can cause the stomach to twist, cutting off blood flow and leading to death.
+Debloating is the process of relieving pressure in the stomach caused by gas buildup. [Goats can become bloated from overeating or drinking too much water](/can-horses-drink-water-that-has-goat-poop-in-it/) at once.
 
-If you think your goat may be bloated, contact your veterinarian immediately. They will likely recommend administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size.
+Bloating can be dangerous for goats as it can cause the stomach to twist, cutting off blood flow and leading to death.
+
+If you think your goat may be bloated, contact your veterinarian immediately. They will likely recommend administering mineral oil via a nasogastric tube.
+
+The amount of mineral oil you give your goat will be determined by its size.
 
 Preventing bloating is the best way to keep your goat healthy and avoid a trip to the vet. You can do this by ensuring they have a balanced diet and access to fresh water at all times.
 
 ## How to tell if your goat needs to be debloated?
 
-A common health problem for goats is something called bloat. Bloat occurs when the goat's stomach becomes filled with gas, causing it to expand and put pressure on the lungs. This can make it difficult for the goat to breathe, and if left untreated, bloat can be fatal.
+A common health problem for goats is something called bloat. Bloat occurs when the goat's stomach becomes filled with gas, causing it to expand and put pressure on the lungs.
+
+This can make it difficult for the goat to breathe, and if left untreated, bloat can be fatal.
 
 There are several signs that a goat may be bloated, including appearing anxious or restless, standing with its head down, frequently shifting position, grunting or bleating, and feeling hard or tight in the abdomen.
 
@@ -84,7 +96,9 @@ If this doesn't work, you'll need to contact a veterinarian for further treatmen
 
 Well, after you've successfully debloated your goat, there are a few things you should do to follow up. First, check the area where the bloat was for any signs of infection.
 
-If everything looks good, you can start feeding your goat again. Make sure to give them [small meals at first](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the amount of food as they adjust. It's also important to make sure they have access to plenty of water to prevent dehydration.
+If everything looks good, you can start feeding your goat again. Make sure to give them [small meals at first](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the amount of food as they adjust.
+
+It's also important to make sure they have access to plenty of water to prevent dehydration.
 
 Finally, keep an eye on them for the next few days and call your vet if you see any unusual symptoms. With a little care, your goat will be back to their old self in no time.
 
@@ -118,7 +132,9 @@ If you suspect your goat is bloated, it's important to act quickly and contact a
 
 ## Can you debloat all kinds of goats?
 
-You can debloat all kinds of goats. Whether your goat is a [dairy goat](/can-a-dairy-goats-udder-skin-have-varying-colors/), meat goat, or pet goat, they can all be susceptible to bloat. The best way to debloat a goat is through the administration of mineral oil via a nasogastric tube.
+You can debloat all kinds of goats. Whether your goat is a [dairy goat](/can-a-dairy-goats-udder-skin-have-varying-colors/), meat goat, or pet goat, they can all be susceptible to bloat.
+
+The best way to debloat a goat is through the administration of mineral oil via a nasogastric tube.
 
 The amount of mineral oil you give your goat will be determined by its size. You can also try gently massaging the goat's stomach or giving them small meals, but these methods are not as effective as using mineral oil.
 

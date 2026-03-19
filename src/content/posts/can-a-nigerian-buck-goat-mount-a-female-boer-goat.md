@@ -48,7 +48,9 @@ We will answer all of your questions about Nigerian buck goats and their potenti
 
 ## Can a nigerian buck goat mount a female boer goat?
 
-**Nigerian buck goats can mate with female Boer goats. Because they are both subspecies of the same species - Capra aegagrus hircus. And while there are some differences between the two subspecies, they are not enough to prevent them from being able to mate and produce offspring.**
+**Nigerian buck goats can mate with female Boer goats. Because they are both subspecies of the same species - Capra aegagrus hircus.**
+
+**And while there are some differences between the two subspecies, they are not enough to prevent them from being able to mate and produce offspring.**
 
 However, it's important to note that the offspring of a Nigerian buck and Boer goat pairing will not be 100% purebred. They will be what is known as a crossbreed or hybrid.
 
@@ -62,7 +64,9 @@ Despite that, crossbreeds can sometimes be healthier and harder than purebreds. 
 
 ## Do Nigerian buck goats make good fathers?
 
-Nigerian buck goats are a popular choice for many goat farmers. They are known for their hardiness and their ability to produce large litters. But what about their parenting skills? Do Nigerian buck goats make good fathers?
+Nigerian buck goats are a popular choice for many goat farmers. They are known for their hardiness and their ability to produce large litters.
+
+But what about their parenting skills? Do Nigerian buck goats make good fathers?
 
 there's no easy answer to this question. It depends on a number of factors, including the individual goat's personality and the size of the litter.
 
@@ -74,9 +78,13 @@ Despite that, they can also be very aggressive, especially when it comes to othe
 
 ## Do female boer goats make good mothers?
 
-Boer goats are known for their docile and gentle nature. And this extends to their parenting skills. Boer goats make excellent mothers and are very protective of their young.
+Boer goats are known for their docile and gentle nature. And this extends to their parenting skills.
 
-They are also known for being very attentive mothers, often spending hours grooming and playing with their kids. But, they can also be very aggressive, especially when it comes to other bucks. So you need to carefully consider whether a Boer goat is the right mother for your farm.
+Boer goats make excellent mothers and are very protective of their young.
+
+They are also known for being very attentive mothers, often spending hours grooming and playing with their kids. But, they can also be very aggressive, especially when it comes to other bucks.
+
+So you need to carefully consider whether a Boer goat is the right mother for your farm.
 
 ## What are the benefits of a Nigerian buck goat mounting a female boer goat?
 

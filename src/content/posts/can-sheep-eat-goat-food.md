@@ -48,9 +48,13 @@ In this article, we will answer those questions for you and provide some tips on
 
 ## Can sheep eat goat food?
 
-**Sheep can eat goat food and can be added to their diet. In fact, it is generally recommended to add some goat food to their diet as it is a good source of nutrients. They can also get some benefits from the added nutrition, such as improved wool quality.**
+**Sheep can eat goat food and can be added to their diet. In fact, it is generally recommended to add some goat food to their diet as it is a good source of nutrients.**
 
-There are a few things to keep in mind when feeding sheep goat food, however. First, make sure that the food is of good quality and free from toxins. Second, remember that sheep have different nutritional needs than goats, so you'll need to adjust the amount of food accordingly.
+**They can also get some benefits from the added nutrition, such as improved wool quality.**
+
+There are a few things to keep in mind when feeding sheep goat food, however. First, make sure that the food is of good quality and free from toxins.
+
+Second, remember that sheep have different nutritional needs than goats, so you'll need to adjust the amount of food accordingly.
 
 On top of that, keep in mind that sheep may not be able to digest all of the nutrients in goat food as efficiently as goats can. This means that they may not get all of the [benefits from the food](/can-goats-eat-dog-food/).
 

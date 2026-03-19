@@ -48,7 +48,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can the federal government use goats to clear federal lands?
 
-**The federal government can use goats to clear federal lands. In fact, this is a common practice in many areas around the world, as goats are very effective at clearing overgrown vegetation. And also, they don't need any special equipment or chemicals, which makes them environmentally friendly.**
+**The federal government can use goats to clear federal lands. In fact, this is a common practice in many areas around the world, as goats are very effective at clearing overgrown vegetation.**
+
+**And also, they don't need any special equipment or chemicals, which makes them environmentally friendly.**
 
 On top of that, goats are very efficient at clearing large areas of land in a short period of time. So, if the federal government needs to clear a large area of overgrown vegetation quickly, using goats is a great option.
 
@@ -112,7 +114,9 @@ Upon completion of the course, you will be required to take and pass a written e
 
 ## Are there any potential drawbacks to using goats for federal land clearance?
 
-In recent years, the U.S. government has been considering using goats for federal land clearance projects. The proposal is that these animals could be used to clear overgrown areas and reduce the risk of wildfires.
+In recent years, the U.S. government has been considering using goats for federal land clearance projects.
+
+The proposal is that these animals could be used to clear overgrown areas and reduce the risk of wildfires.
 
 Despite that, there are some potential drawbacks to this plan. First, goats are not native to the United States, so there is a risk that they could escape and establish themselves as an invasive species.
 
@@ -134,10 +138,14 @@ The cost of using goats for federal land clearance varies depending on the size 
 
 Generally speaking, it costs about $200 per acre to graze by a herd of goats. Given that most federal land projects involve hundreds or even thousands of acres, the total cost can reach the millions.
 
-Who pays for this? Ultimately, taxpayers foot the bill. Despite that, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
+Who pays for this? Ultimately, taxpayers foot the bill.
+
+Despite that, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
 
 ## Final Thoughts
 
 Overall, the use of goats for federal land clearance is a viable option with several benefits. But, there are also some potential drawbacks that should be considered before moving forward with this plan.
 
-Ultimately, the decision of whether or not to use goats for federal land clearance will come down to a cost-benefit analysis. If the benefits outweigh the costs, then it may be worth pursuing. If not, then another method of land clearance will need to be explored.
+Ultimately, the decision of whether or not to use goats for federal land clearance will come down to a cost-benefit analysis. If the benefits outweigh the costs, then it may be worth pursuing.
+
+If not, then another method of land clearance will need to be explored.

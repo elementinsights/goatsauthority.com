@@ -44,11 +44,13 @@ faq:
 
 Breeding goats can be a lucrative and enjoyable endeavor, but it's important to remember that there are many things to consider before starting down this path.
 
-One such issue is the question of afterbirth – specifically, can a goat pass afterbirth between kids? This article will explore the answer to that question as well as provide tips on how to care for newborn goats.
+One such issue is the question of afterbirth, specifically, can a goat pass afterbirth between kids? This article will explore the answer to that question as well as provide tips on how to care for newborn goats.
 
 ## Can a goat pass afterbirth between kids?
 
-**A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them. This is known as "passing afterbirth" and it's perfectly normal.**
+**A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them.**
+
+**This is known as "passing afterbirth" and it's perfectly normal.**
 
 However, it's important to keep an eye on the doe and make sure that she doesn't pass too much afterbirth. If a doe passes more than about two-thirds of her afterbirth, she may be at risk for complications such as hemorrhage or retained placenta.
 
@@ -70,7 +72,9 @@ First, you need to ensure that the kid has access to fresh, clean water at all t
 
 Second, kids need a source of nutritious food. A commercial [kid feed](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) is ideal, but if you're unable to get your hands on some, a mixture of whole milk, powdered milk replacer, and plain yogurt will do in a pinch.
 
-Third, kids need a place to sleep. A small box or kiddie pool filled with straw makes a perfect bed. Just be sure to place it in a draught-free area to keep your kid warm and comfortable.
+Third, kids need a place to sleep. A small box or kiddie pool filled with straw makes a perfect bed.
+
+Just be sure to place it in a draught-free area to keep your kid warm and comfortable.
 
 Lastly, keep an eye out for signs of illness, such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
 
@@ -102,11 +106,17 @@ After a goat gives birth, it's crucial to check that the afterbirth has been com
 
 The most common symptom of retained afterbirth is a foul-smelling discharge from the vulva. Other signs include lethargy, lack of appetite, and fever.
 
-Treatment typically involves manually removing the remaining portion of the afterbirth and administering antibiotics to prevent infection. With prompt treatment, most [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/). But, if left untreated, retained afterbirth can be fatal.
+Treatment typically involves manually removing the remaining portion of the afterbirth and administering antibiotics to prevent infection. With prompt treatment, most [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
-As a goat owner, there are some things you can do to help prevent this condition. First, make sure that the birthing area is clean and dry. It's also important to provide plenty of fresh water and hay during the last few weeks of pregnancy.
+But, if left untreated, retained afterbirth can be fatal.
 
-Finally, do not allow the goat to become too stressed during labor. If everything goes smoothly, there's a much lower risk of retained afterbirth. By taking these precautions, you can help [keep your goat healthy and avoid this potentially deadly condition](/can-a-plastic-bag-hurt-a-goat/).
+As a goat owner, there are some things you can do to help prevent this condition. First, make sure that the birthing area is clean and dry.
+
+It's also important to provide plenty of fresh water and hay during the last few weeks of pregnancy.
+
+Finally, do not allow the goat to become too stressed during labor. If everything goes smoothly, there's a much lower risk of retained afterbirth.
+
+By taking these precautions, you can help [keep your goat healthy and avoid this potentially deadly condition](/can-a-plastic-bag-hurt-a-goat/).
 
 ## How often do goats give birth?
 
@@ -120,11 +130,15 @@ Consequently, it's not unusual for a doe to produce eight offspring over the cou
 
 ## How many kids do goats usually have?
 
-On average, goats usually have two kids at a time. Even so, it's not uncommon for them to have more. In fact, it's not uncommon for them to have up to six kids at a time.
+On average, goats usually have two kids at a time. Even so, it's not uncommon for them to have more.
+
+In fact, it's not uncommon for them to have up to six kids at a time.
 
 Goats are able to have multiple kids because they are able to store sperm in their reproductive system. This means that they can mate multiple times and still produce offspring.
 
-The number of kids a goat has is also determined by the breed. Some breeds of goats are known to have more kids than others. For example, the Alpine breed is known to have up to six kids at a time.
+The number of kids a goat has is also determined by the breed. Some breeds of goats are known to have more kids than others.
+
+For example, the Alpine breed is known to have up to six kids at a time.
 
 So, if you're wondering how many [kids goats](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat/) usually have, the answer is two, but they can have up to six.
 

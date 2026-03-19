@@ -48,7 +48,9 @@ In this article, we will answer those questions about ivermectin and provide som
 
 ## Can I use ivermectin pour on in sheep and goats?
 
-**You can use ivermectin spray on sheep and goats if you need to. Ivermectin is effective in treating a variety of parasites, including those that cause scabies, lice, and worms. They can also be used to treat other conditions, such as ear mites or mange.**
+**You can use ivermectin spray on sheep and goats if you need to. Ivermectin is effective in treating a variety of parasites, including those that cause scabies, lice, and worms.**
+
+**They can also be used to treat other conditions, such as ear mites or mange.**
 
 On top of that, ivermectin can be used to prevent certain parasites, such as heartworm, from infecting your sheep or goats.
 

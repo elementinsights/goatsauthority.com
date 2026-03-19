@@ -64,7 +64,9 @@ Lastly, you need to make sure that the [dog's food and water are not accessible 
 
 ## What are the benefits of having a dog and a pygmy goat?
 
-Pets offer many benefits to their owners. They can provide companionship, love, and support, and they can also help to reduce stress and anxiety levels. For some people, having a dog or a cat is not enough- they also want the unique companionship of a [pygmy goat](/can-pygmy-goats-eat-brown-sugar/).
+Pets offer many benefits to their owners. They can provide companionship, love, and support, and they can also help to reduce stress and anxiety levels.
+
+For some people, having a dog or a cat is not enough- they also want the unique companionship of a [pygmy goat](/can-pygmy-goats-eat-brown-sugar/).
 
 [Pygmy goats](/can-pygmy-goats-eat-eucalyptus/) are social animals that enjoy being around people, and they are known for their playful and curious personalities.
 

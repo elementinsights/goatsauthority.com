@@ -50,11 +50,15 @@ In this article, we will go over the things you need to consider before getting 
 
 You will also need to get a livestock permit from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
 
-In addition to the city ordinances, there are also some state laws that you need to be aware of. The Ohio Department of Agriculture requires that all goats have a Rabies Vaccination Certificate. You will need to get this certificate from a licensed veterinarian.
+In addition to the city ordinances, there are also some state laws that you need to be aware of. The Ohio Department of Agriculture requires that all goats have a Rabies Vaccination Certificate.
+
+You will need to get this certificate from a licensed veterinarian.
 
 The State also has a law that requires all goats to be registered with the Ohio Division of Animal Health. The registration fee is $10 per goat.
 
-Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of hay and other tough vegetation. They will also require easy access to freshwater constantly.
+Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of hay and other tough vegetation.
+
+They will also require easy access to freshwater constantly.
 
 If you are considering getting goats in the City of Lorain, Ohio, be sure to do your research and consider all of the factors involved before making your final decision.
 
@@ -78,7 +82,7 @@ For many people, this means that keeping goats in urban areas can be difficult o
 
 For example, you could build a small shelter or pen in your backyard using recycled materials or built-up dirt from a nearby vacant lot.
 
-You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to keep goats successfully in the city – despite their reputation for being hard to handle.
+You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to keep goats successfully in the city, despite their reputation for being hard to handle.
 
 ## What kind of goat fencing is needed in the city?
 
@@ -96,7 +100,9 @@ Ultimately, the best option for your situation will depend on a number of differ
 
 When considering whether or not to keep goats in the city, there are a number of factors that you need to take into account.
 
-The first is location. Within the city, it's important to carefully choose a space where your goats will be able to graze and roam freely. Depending on the size of your herd, you may also want to consider zoning regulations and safety measures such as fencing.
+The first is location. Within the city, it's important to carefully choose a space where your goats will be able to graze and roam freely.
+
+Depending on the size of your herd, you may also want to consider zoning regulations and safety measures such as fencing.
 
 Additionally, you need to make sure that you have access to proper veterinary care in case of illness or injury, as well as [reliable source of feed for your goats](/can-a-goat-feed-quads/).
 
@@ -128,6 +134,6 @@ By taking these precautions, you can be sure that your goats will be happy and h
 
 ## Final Thoughts
 
-You can have a great time keeping goats in the city – but it's important to do your research first. Make sure you understand the challenges associated with this endeavor and take the time to plan and prepare accordingly.
+You can have a great time keeping goats in the city, but it's important to do your research first. Make sure you understand the challenges associated with this endeavor and take the time to plan and prepare accordingly.
 
 With a little bit of effort, you can be sure that your herd will be happy and healthy for years to come.

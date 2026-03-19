@@ -41,14 +41,17 @@ faq:
   - question: "How to Prevent Coccidiosis in Goats?"
     answer: "The best way to prevent coccidiosis is to practice good hygiene and keep your goats' environment clean. This means regular cleaning of their pens and bedding, as well as providing clean, fresh water at all times."
 ---
+While all animals need water to live, it is especially important for goats. Goats require constant access to clean water, but sometimes their bowl becomes contaminated with coccidia.
 
-While all animals need water to live, it is especially important for goats. Goats require constant access to clean water, but sometimes their bowl becomes contaminated with coccidia. Is adding something to the goat's water bowl enough to treat coccidia?
+Is adding something to the goat's water bowl enough to treat coccidia?
 
 In this article, we will answer those questions and more. We will discuss what coccidia are, the symptoms of coccidiosis in goats, and how to treat it effectively.
 
 ## Can I treat coccidia in goats in their water bowl?
 
-**You can treat coccidia in goats by adding a medication to their water bowl. The most common medication used is sulfadimethoxine, also known as Albon. This medication will kill the coccidia in the goat's intestines and allow them to start absorbing nutrients from their food again.**
+**You can treat coccidia in goats by adding a medication to their water bowl. The most common medication used is sulfadimethoxine, also known as Albon.**
+
+**This medication will kill the coccidia in the goat's intestines and allow them to start absorbing nutrients from their food again.**
 
 It is crucial to follow the instructions on the package carefully and make sure that the entire dose is given. If you are not sure how to treat coccidia in goats, you should consult your veterinarian.
 
@@ -94,11 +97,15 @@ Coccidiosis is a serious disease, and it can be fatal if left untreated. If you 
 
 The best way to prevent coccidiosis is to practice good hygiene and keep your goats' environment clean. This means regular cleaning of their pens and bedding, as well as providing clean, fresh water at all times.
 
-You should also avoid mixing goats of different ages together. [Baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/) are especially susceptible to coccidiosis, so they should be kept separate from older goats. If you have multiple goats, you should have separate pens for each age group.
+You should also avoid mixing goats of different ages together. [Baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/) are especially susceptible to coccidiosis, so they should be kept separate from older goats.
+
+If you have multiple goats, you should have separate pens for each age group.
 
 You can also vaccinate your goats against coccidiosis. This is typically done by your veterinarian and is [most effective when given to baby goats](/can-too-much-penicillin-given-to-baby-goat-die/) before they are exposed to the disease.
 
-Coccidiosis is a serious disease, but it can be prevented with proper care. If you think your goat may have coccidiosis, contact your veterinarian immediately. They will be able to diagnose and treat the disease quickly and help your goat regain its health.
+Coccidiosis is a serious disease, but it can be prevented with proper care. If you think your goat may have coccidiosis, contact your veterinarian immediately.
+
+They will be able to diagnose and treat the disease quickly and help your goat regain its health.
 
 ## How do you treat coccidia in goats?
 

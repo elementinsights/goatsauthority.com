@@ -46,13 +46,17 @@ In addition, we will also look at what kinds of pears are best for goats and how
 
 ## Can goats eat pears?
 
-**Goats can eat pears. Pears are a good source of vitamins and minerals, and they're also a good source of fiber. Goats need both of these things in their diet. Pears are also a low-sugar fruit, which is important for goats because too much sugar can lead to health problems.**
+**Goats can eat pears. Pears are a good source of vitamins and minerals, and they're also a good source of fiber.**
+
+**Goats need both of these things in their diet. Pears are also a low-sugar fruit, which is important for goats because too much sugar can lead to health problems.**
 
 So, if you're looking for a healthy treat for your goat, pears are a great option. Just be sure to remove the core and seeds before giving them to your goat, as both of these can be harmful.
 
 ## Can goats eat pear skin?
 
-Pear skin is safe for goats to eat. There are a few things to keep in mind. First of all, goats should only consume small amounts of pear skin.
+Pear skin is safe for goats to eat. There are a few things to keep in mind.
+
+First of all, goats should only consume small amounts of pear skin.
 
 Too much pear skin can cause digestive problems such as diarrhea. In addition, it's crucial to make sure that the pear skin is clean before feeding it to a goat.
 

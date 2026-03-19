@@ -46,7 +46,9 @@ We will answer those questions and provide you additional with tips and factual 
 
 ## Can I give my goat tamsulosin?
 
-**You can give your goat tamsulosin. In fact, it is often prescribed for goats who have been diagnosed with urinary calculi (stones). Tamsulosin is an alpha-blocker. It works by relaxing the smooth muscles in the bladder, neck, and prostate, which makes it easier to urinate.**
+**You can give your goat tamsulosin. In fact, it is often prescribed for goats who have been diagnosed with urinary calculi (stones).**
+
+**Tamsulosin is an alpha-blocker. It works by relaxing the smooth muscles in the bladder, neck, and prostate, which makes it easier to urinate.**
 
 In addition, benign prostatic hyperplasia can be treated with tamsulosin (BPH). BPH is a benign growth of the prostate gland.
 

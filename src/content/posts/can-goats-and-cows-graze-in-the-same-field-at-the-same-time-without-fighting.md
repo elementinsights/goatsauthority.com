@@ -112,7 +112,9 @@ For one, cows are generally much larger than goats, with [adult cows averaging a
 
 This difference in digestive systems means that cows are better at grazing on grass and other roughage, while goats prefer to eat leaves and other soft vegetation. Cows also have a reputation for being docile and easy to handle, while goats are often seen as skittish and difficult to control.
 
-As a result of these differences, cows and goats play very different roles on most farms. Cows are typically used for their milk, while goats are more often kept for their meat or fiber. But, both animals play an important role in the agricultural industry.
+As a result of these differences, cows and goats play very different roles on most farms. Cows are typically used for their milk, while goats are more often kept for their meat or fiber.
+
+But, both animals play an important role in the agricultural industry.
 
 ## Final Thoughts
 

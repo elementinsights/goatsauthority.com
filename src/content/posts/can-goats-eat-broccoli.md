@@ -46,9 +46,13 @@ Many people are curious about the benefits of broccoli and whether or not goats 
 
 ## Can goats eat broccoli?
 
-**Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats. Goats are browsers, which means that they like to eat a variety of different plants. Broccoli is a good option for goats because it's high in fiber and low in sugar.**
+**Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats.**
 
-Fiber is important for goats because it helps them stay full and provides them with energy. Sugar can be harmful to goats, so it's important to choose plants that are low in sugar. Broccoli is also a good source of vitamins and minerals, which are essential for goat health.
+**Goats are browsers, which means that they like to eat a variety of different plants. Broccoli is a good option for goats because it's high in fiber and low in sugar.**
+
+Fiber is important for goats because it helps them stay full and provides them with energy. Sugar can be harmful to goats, so it's important to choose plants that are low in sugar.
+
+Broccoli is also a good source of vitamins and minerals, which are essential for goat health.
 
 ## What is broccoli and what are its benefits to goats?
 
@@ -58,7 +62,9 @@ The word broccoli comes from the Italian word "broccolo," which means "cauliflow
 
 It also contains compounds that may boost goats' health. Some of the potential health benefits of broccoli include: reducing inflammation, boosting immunity, improving digestion, and preventing cancer.
 
-Including broccoli in goats' diet may help them to stay healthy and disease-free. Goats enjoy eating broccoli leaves, stems, and flowers. When feeding broccoli to goats, it's crucial to chop it into small pieces to prevent choking.
+Including broccoli in goats' diet may help them to stay healthy and disease-free. Goats enjoy eating broccoli leaves, stems, and flowers.
+
+When feeding broccoli to goats, it's crucial to chop it into small pieces to prevent choking.
 
 Other benefits of broccoli to goats include:
 
@@ -73,7 +79,9 @@ While goats will eat just about anything, that doesn't mean that everything is g
 
 One such plant is broccoli. While a few nibbles here and there likely won't hurt your goat, eating large amounts of broccoli can lead to serious health problems.
 
-When consumed in large quantities, broccoli can cause digestive issues in goats. The plant is high in fiber which can cause bloating, gas, and diarrhea. In severe cases, this can lead to intestinal blockages and other life-threatening problems.
+When consumed in large quantities, broccoli can cause digestive issues in goats. The plant is high in fiber which can cause bloating, gas, and diarrhea.
+
+In severe cases, this can lead to intestinal blockages and other life-threatening problems.
 
 Furthermore, broccoli contains compounds that can inhibit the absorption of essential nutrients, leading to malnutrition.
 
@@ -121,7 +129,9 @@ For example, goats will not eat straw or hay that has been soiled with urine or 
 
 Additionally, goats will not eat poisonous plants or plants that have thorns or sharp edges.
 
-However, there are many types of plants and vegetables that goats enjoy eating, such as broccoli. Goats generally prefer to eat leafy greens and other vegetation that is high in moisture content. So, while not all goats eat broccoli, many goats do enjoy eating this particular type of vegetable.
+However, there are many types of plants and vegetables that goats enjoy eating, such as broccoli. Goats generally prefer to eat leafy greens and other vegetation that is high in moisture content.
+
+So, while not all goats eat broccoli, many goats do enjoy eating this particular type of vegetable.
 
 ## Can you feed the pregnant goats broccoli?
 
@@ -133,16 +143,28 @@ All of these nutrients are important for pregnant goats (and all other animals) 
 
 ## Can you feed a baby goat broccoli?
 
-You can certainly feed a baby goat broccoli. As a matter of fact, broccoli is a great source of nutrients for goats of all ages. Goats are browsers, which means that they prefer to eat their food in small pieces.
+You can certainly feed a baby goat broccoli. As a matter of fact, broccoli is a great source of nutrients for goats of all ages.
 
-Broccoli florets are the perfect size for goat mouths, and they are also packed with vitamins and minerals. There are a few things to keep in mind when feeding broccoli to goats. First, make sure that the broccoli is fresh.
+Goats are browsers, which means that they prefer to eat their food in small pieces.
 
-Goats dislike eating wilted or yellowed leaves, so it's crucial to offer them only the best. Second, don't overdo it. A few florets per day is plenty for most goats. Too much broccoli can lead to digestive upset.
+Broccoli florets are the perfect size for goat mouths, and they are also packed with vitamins and minerals. There are a few things to keep in mind when feeding broccoli to goats.
 
-Lastly, be sure to introduce broccoli slowly. Goats' stomachs take time to adjust to new foods, so it's best to add broccoli to their diet gradually. With these guidelines in mind, you can feel confident feeding your baby goat broccoli.
+First, make sure that the broccoli is fresh.
+
+Goats dislike eating wilted or yellowed leaves, so it's crucial to offer them only the best. Second, don't overdo it.
+
+A few florets per day is plenty for most goats.
+
+Too much broccoli can lead to digestive upset.
+
+Lastly, be sure to introduce broccoli slowly. Goats' stomachs take time to adjust to new foods, so it's best to add broccoli to their diet gradually.
+
+With these guidelines in mind, you can feel confident feeding your baby goat broccoli.
 
 ## Final Thoughts
 
-Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many essential nutrients. Just be sure not to overdo it.
+Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many essential nutrients.
+
+Just be sure not to overdo it.
 
 When introducing new foods to a goat's diet, it's best to do so gradually in order to allow their stomachs time to adjust.

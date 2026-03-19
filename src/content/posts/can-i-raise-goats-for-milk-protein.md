@@ -58,7 +58,9 @@ There are a few things you need to consider before getting started with raising 
 
 First, you need to make sure that you have enough space for the goats. They will need access to pasture or hay, and a shelter that is large enough for them to lie down in and move around freely.
 
-You will also need to have access to fresh, clean water, and a source of [salt or minerals](/can-goats-eat-mineral-salt-made-for-cattle/). [Goats need to be fed a balanced diet of hay](/what-kind-of-hay-do-goats-eat/), pasture, and grain. You should talk to your veterinarian or a goat nutritionist to develop a [feeding plan](/can-a-goat-feed-quads/) that is right for your goats.
+You will also need to have access to fresh, clean water, and a source of [salt or minerals](/can-goats-eat-mineral-salt-made-for-cattle/). [Goats need to be fed a balanced diet of hay](/what-kind-of-hay-do-goats-eat/), pasture, and grain.
+
+You should talk to your veterinarian or a goat nutritionist to develop a [feeding plan](/can-a-goat-feed-quads/) that is right for your goats.
 
 Finally, you will need to decide whether you want to milk your goats by hand or with a machine. If you are going to milk by hand, you will need to learn how to do it correctly so that you don't hurt the goat or yourself.
 

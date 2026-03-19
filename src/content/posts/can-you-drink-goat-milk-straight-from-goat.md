@@ -58,7 +58,9 @@ Despite that, there are still a few ways you can enjoy the taste of fresh goat m
 
 ## What is goat milk and where does it come from?
 
-Goat milk is milk that comes from goats. [Goats are a type of livestock that is often raised for their milk](/can-a-baby-have-powdered-goats-milk/), meat, and fiber. There are many different breeds of goats, but all goats produce milk that is high in protein and fat.
+Goat milk is milk that comes from goats. [Goats are a type of livestock that is often raised for their milk](/can-a-baby-have-powdered-goats-milk/), meat, and fiber.
+
+There are many different breeds of goats, but all goats produce milk that is high in protein and fat.
 
 Goat milk is often used to make cheese and other dairy products. It can also be consumed on its own or used in recipes.
 
@@ -70,7 +72,9 @@ Though you may not have considered it before, goat milk can be a great addition 
 
 It also contains less lactose, making it easier to digest for those who are lactose intolerant. Additionally, goat milk contains more of certain vitamins and minerals than cow milk, including vitamin A, potassium, and niacin.
 
-And since goats are easier to care for than cows, drinking goat milk is also more environmentally friendly. So if you're looking for a healthy and sustainable alternative to cow milk, give goat milk a try. You might just be pleasantly surprised.
+And since goats are easier to care for than cows, drinking goat milk is also more environmentally friendly. So if you're looking for a healthy and sustainable alternative to cow milk, give goat milk a try.
+
+You might just be pleasantly surprised.
 
 ## What things do you need to consider before drinking goat milk?
 
@@ -126,7 +130,9 @@ However, if you have special health considerations or are trying to manage a spe
 
 As you can see, there are many benefits to drinking goat milk. Whether you're looking for an alternative to cow's [milk that is less likely to cause allergies](/can-goat-milk-cause-acne/) or digestive issues, then goat milk might be right for you.
 
-With its unique nutrient profile, goat milk can be a delicious and nutritious part of your diet. Just make sure to follow proper safety precautions, such as pasteurizing the milk and avoiding it if you have an allergy. With these tips in mind, you can enjoy all the benefits that goat milk has to offer.
+With its unique nutrient profile, goat milk can be a delicious and nutritious part of your diet. Just make sure to follow proper safety precautions, such as pasteurizing the milk and avoiding it if you have an allergy.
+
+With these tips in mind, you can enjoy all the benefits that goat milk has to offer.
 
 ## Final Thoughts
 

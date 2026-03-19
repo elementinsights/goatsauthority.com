@@ -82,7 +82,9 @@ If you suspect your goat has worms, it's important to have them checked out by a
 
 ## Which worms can infect goats and what are their symptoms?
 
-There are many different types of worms that can infect goats, and the symptoms can vary depending on the type of worm. One of the most common types of worms is the stomach worm. Stomach worms live in the goat's stomach and cause issues with digestion.
+There are many different types of worms that can infect goats, and the symptoms can vary depending on the type of worm. One of the most common types of worms is the stomach worm.
+
+Stomach worms live in the goat's stomach and cause issues with digestion.
 
 The most common symptom of stomach worms is weight loss, as the worms take away nutrients from the [food the goat eats](/can-goats-eat-dog-food/). Another type of common worm is the lungworm.
 
@@ -92,9 +94,13 @@ If you suspect your goat has any type of worm, it's important to take them to th
 
 ## How do you go about deworming pregnant goats safely and effectively?
 
-If you have a pregnant goat, it's important to deworm her safely and effectively. The best way to do this is to talk to a goat expert. They will be able to give you the specific dewormer that is safe for use in pregnant goats and tell you how much to use.
+If you have a pregnant goat, it's important to deworm her safely and effectively. The best way to do this is to talk to a goat expert.
 
-It's important to follow their directions exactly. You don't want to underdose or overdose on the goat. Once you have the dewormer, you can give it to the goat orally or inject it intramuscularly.
+They will be able to give you the specific dewormer that is safe for use in pregnant goats and tell you how much to use.
+
+It's important to follow their directions exactly. You don't want to underdose or overdose on the goat.
+
+Once you have the dewormer, you can give it to the goat orally or inject it intramuscularly.
 
 If you're not comfortable doing this yourself, you can take the goat to a goat expert or livestock health specialist to have it done.
 
@@ -106,9 +112,13 @@ Goats are relatively easy to care for, but there are a few things you need to do
 
 Goats are very thirsty animals and will drink a lot of water, so make sure their water dish is always full. Second, feed them good quality hay or grass.
 
-Goats are browsers, not grazers, so they need a diet that includes hay or grass. Third, keep their shelter clean and dry. Goats are susceptible to diseases if they live in dirty, wet conditions.
+Goats are browsers, not grazers, so they need a diet that includes hay or grass. Third, keep their shelter clean and dry.
 
-Finally, have your goats checked regularly by a goat expert. A goat expert can check for parasites and other health problems and vaccinate your goats against diseases. By following these tips, you can help keep your goats healthy and free of parasites.
+Goats are susceptible to diseases if they live in dirty, wet conditions.
+
+Finally, have your goats checked regularly by a goat expert. A goat expert can check for parasites and other health problems and vaccinate your goats against diseases.
+
+By following these tips, you can help keep your goats healthy and free of parasites.
 
 ## Are there any other alternative treatments for worm infections in goats?
 

@@ -48,9 +48,13 @@ In this article, we'll discuss whether or not it's safe to feed your Nubian goat
 
 ## Can I feed a small amount of raw almonds to my Nubian goats?
 
-**For a small amount of raw almonds, you can feed your Nubian goats. There are no known risks or dangers associated with doing so, and the goats will likely enjoy the treat. They can also help to improve the health of your goats' coats and hooves.**
+**For a small amount of raw almonds, you can feed your Nubian goats. There are no known risks or dangers associated with doing so, and the goats will likely enjoy the treat.**
 
-That said, it's important to remember that goats are browsers, not grazers. This means that their stomachs are designed to digest a variety of different plant materials rather than just grass. Therefore, they can't digest large amounts of any one thing.
+**They can also help to improve the health of your goats' coats and hooves.**
+
+That said, it's important to remember that goats are browsers, not grazers. This means that their stomachs are designed to digest a variety of different plant materials rather than just grass.
+
+Therefore, they can't digest large amounts of any one thing.
 
 So, while feeding your Nubian goats a small amount of raw almonds is perfectly safe, you shouldn't make them the mainstay of their diet.
 
@@ -60,7 +64,9 @@ They should always have access to fresh hay and water, and their meals should be
 
 There are a few [benefits to feeding your Nubian goats raw almonds](/can-sheep-drink-raw-goats-milk/). First, they can help to improve the health of your goats' coat and hooves.
 
-Almonds are a good source of biotin, which is an essential nutrient for healthy skin and coat. They're also rich in fatty acids, which can help to protect the skin and keep it hydrated. In addition, almonds contain selenium, which is a mineral that's essential for healthy hooves.
+Almonds are a good source of biotin, which is an essential nutrient for healthy skin and coat. They're also rich in fatty acids, which can help to protect the skin and keep it hydrated.
+
+In addition, almonds contain selenium, which is a mineral that's essential for healthy hooves.
 
 Another benefit of feeding your Nubian goats raw almonds is that they'll likely enjoy the treat. Goats are curious creatures, and they're known to be particularly fond of nuts and seeds.
 
@@ -70,7 +76,9 @@ Finally, [feeding your Nubian goats raw almonds](/can-a-goat-feed-quads/) can h
 
 If you have a particularly active goat or [one that likes to chew on things](/can-a-dog-get-sick-from-a-goat/), a handful of raw almonds can help to keep them occupied and distracted. This can be a lifesaver for farmers who are trying to keep their goats from getting into trouble.
 
-Of course, it's crucial to remember that goats should never be given large amounts of any one food. They're browsers, not grazers, which means that their stomachs are designed to digest a variety of different plant materials. As a result, they can't digest large amounts of any one thing.
+Of course, it's crucial to remember that goats should never be given large amounts of any one food. They're browsers, not grazers, which means that their stomachs are designed to digest a variety of different plant materials.
+
+As a result, they can't digest large amounts of any one thing.
 
 So, while feeding your Nubian goats a small number of raw almonds is perfectly safe, you shouldn't make them the mainstay of their diet.
 
@@ -100,7 +108,9 @@ This means that their stomachs are designed to digest a variety of different pla
 
 If you're concerned that your Nubian [goat might get sick from eating raw almonds](/can-goats-eat-raw-green-beans/), there are a few things you can do to prevent it.
 
-First, make sure that you're only giving them a small number of raw almonds per day. Second, supplement their diet with other healthy foods like vegetables and fruits. Finally, always make sure they have access to fresh water.
+First, make sure that you're only giving them a small number of raw almonds per day. Second, supplement their diet with other healthy foods like vegetables and fruits.
+
+Finally, always make sure they have access to fresh water.
 
 By following these simple guidelines, you can help to ensure that your Nubian goat stays healthy and happy.
 

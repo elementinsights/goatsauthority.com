@@ -46,7 +46,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can we apply goat milk for underarm whitening?
 
-**You can use goat milk for underarm whitening. Goat milk contains lactic acid, which is an alpha-hydroxy acid (AHA) that can help to exfoliate the skin and improve its tone and texture. Lactic acid is also known to be effective in fading pigmentation and dark spots.**
+**You can use goat milk for underarm whitening. Goat milk contains lactic acid, which is an alpha-hydroxy acid (AHA) that can help to exfoliate the skin and improve its tone and texture.**
+
+**Lactic acid is also known to be effective in fading pigmentation and dark spots.**
 
 So, if you are looking for a natural and gentle way to whiten your underarms, goat milk may be a good option for you.
 
@@ -58,7 +60,9 @@ Second, while lactic acid can be beneficial for the skin, it can also be drying.
 
 And, if you have sensitive skin, it is best to do a patch test on a small area of your skin first before using it on your underarms.
 
-Lastly, it is crucial to note that goat milk soap will not lighten your skin overnight. It can take several weeks of regular use before you start to see results. So, be patient and consistent with your application.
+Lastly, it is crucial to note that goat milk soap will not lighten your skin overnight. It can take several weeks of regular use before you start to see results.
+
+So, be patient and consistent with your application.
 
 ## What is goat milk and what are its benefits for skin care?
 
@@ -84,7 +88,9 @@ On top of that, you need to use a deodorant or antiperspirant that contains alum
 
 Additionally, you need to wear loose-fitting clothing made from breathable fabrics. This will help to reduce friction and allow the skin to breathe.
 
-Finally, be sure to moisturize the skin regularly. This will help to keep it soft and supple, and less likely to darken. By following these simple tips, you can help prevent underarm darkening.
+Finally, be sure to moisturize the skin regularly. This will help to keep it soft and supple, and less likely to darken.
+
+By following these simple tips, you can help prevent underarm darkening.
 
 ## How to use goat milk for underarm whitening?
 
@@ -128,6 +134,10 @@ Just be sure to purchase [milk that is raw](/can-you-drink-raw-goat-milk-on-gaps
 
 You can use goat milk for underarm whitening by applying it to the area with a cotton ball or makeup brush.
 
-Leave it on for 10-15 minutes, then rinse it off with warm water. You can do this once or twice a week for the best results. Be sure to follow up with a moisturizer to soothe any irritation.
+Leave it on for 10-15 minutes, then rinse it off with warm water. You can do this once or twice a week for the best results.
 
-Goat milk is a versatile skincare product that can be used in a variety of ways. Whether you use it as a cleanser, toner, or moisturizer, goat milk can help to nourish and hydrate your skin. Just be sure to purchase milk that is raw and unpasteurized for the best results.
+Be sure to follow up with a moisturizer to soothe any irritation.
+
+Goat milk is a versatile skincare product that can be used in a variety of ways. Whether you use it as a cleanser, toner, or moisturizer, goat milk can help to nourish and hydrate your skin.
+
+Just be sure to purchase milk that is raw and unpasteurized for the best results.

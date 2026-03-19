@@ -43,14 +43,17 @@ faq:
   - question: "How much cotton can goats eat?"
     answer: "The amount of cotton that goats can eat depends on the individual goat and the type of plants they are eating. Younger, smaller goats will likely not be able to eat as much as older, larger goats."
 ---
+You may have heard that goats can digest cotton, but is this true? What other things can goats eat?
 
-You may have heard that goats can digest cotton, but is this true? What other things can goats eat? How do they digest food?
+How do they digest food?
 
 In this article, we will explore the dietary habits of goats and answer all of your questions about their ability to digest cotton and other plants. We will also discuss some of the [benefits of having goats as pets](/can-benadryl-hurt-a-goat/) or farm animals.
 
 ## Can goats digest cotton?
 
-**Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use. They also have a specially adapted liver that helps them detoxify plants that might be poisonous to other animals.**
+**Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use.**
+
+**They also have a specially adapted liver that helps them detoxify plants that might be poisonous to other animals.**
 
 However, it's important to note that just because [goats can eat something](/can-a-goat-eat-sticker-bushes/), doesn't mean that they should. Goats are browsers, not grazers like cows.
 
@@ -60,7 +63,9 @@ it's also important to make sure that the cotton plants that you are [feeding yo
 
 ## What are the benefits of goats eating cotton?
 
-Goats are versatile animals that can provide a variety of benefits to farmers. One lesser-known use for goats is as cotton eaters. Cotton plants are often treated with dangerous pesticides and herbicides, which can contaminate the soil and water.
+Goats are versatile animals that can provide a variety of benefits to farmers. One lesser-known use for goats is as cotton eaters.
+
+Cotton plants are often treated with dangerous pesticides and herbicides, which can contaminate the soil and water.
 
 Goats can help to mitigate this problem by eating cotton plants, thus reducing the number of chemicals in the environment. On top of that, goats can also help to control weeds, as they will eat just about anything.
 
@@ -88,7 +93,9 @@ They will also consume [small amounts](/can-i-feed-a-small-amount-of-raw-almonds
 
 One of the benefits of goats is that they can help to clear overgrown areas on your property. They will eat weeds, briars, and other plants that you may not want on your land.
 
-[Goats are also known for their ability to climb](/can-a-goat-climb-trees/). This means that they can reach high places where other animals cannot go. This can be helpful if you have a problem with overgrown plants in hard-to-reach areas.
+[Goats are also known for their ability to climb](/can-a-goat-climb-trees/). This means that they can reach high places where other animals cannot go.
+
+This can be helpful if you have a problem with overgrown plants in hard-to-reach areas.
 
 ## How do goats digest food?
 
@@ -121,7 +128,9 @@ Goats can also contract several viral diseases, such as foot-and-mouth disease, 
 
 ## What are some tips for caring for goats?
 
-Caring for goats is not difficult, but there are a few things you need to keep in mind. [Goats need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and plenty of grass or hay to eat. They also need a safe place to sleep and shelter from the elements.
+Caring for goats is not difficult, but there are a few things you need to keep in mind. [Goats need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and plenty of grass or hay to eat.
+
+They also need a safe place to sleep and shelter from the elements.
 
 In addition, goats need to be vaccinated against common diseases and should be wormed regularly. Finally, it's crucial to handle goats with care, as they can easily become injured.
 
@@ -129,7 +138,9 @@ By following these simple tips, you can ensure that your goats stay healthy and 
 
 ## Final Thoughts
 
-Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals. Goats also have a four-chamber stomach, which helps them to break down tough plants.
+Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.
+
+Goats also have a four-chamber stomach, which helps them to break down tough plants.
 
 The benefits of having goats include their ability to clear overgrown areas and their versatility as eaters. However, goats can also be susceptible to a number of diseases, many of which can be passed on to humans.
 

@@ -42,7 +42,9 @@ faq:
 
 When it comes to a pregnant goat, making sure that it has the proper nutrition is extremely important. This means that you need to pay attention to what you feed her and how much of it.
 
-You also need to ensure that she gets the appropriate amount of exercise. But, what about when your pregnant goat becomes sick? Is it safe to give her penicillin?
+You also need to ensure that she gets the appropriate amount of exercise. But, what about when your pregnant goat becomes sick?
+
+Is it safe to give her penicillin?
 
 We're going to answer this question and tell you about the benefits, risks and FAQs surrounding penicillin and pregnant goats.
 
@@ -50,7 +52,9 @@ We're going to answer this question and tell you about the benefits, risks and F
 
 ## Can a Pregnant Goat Have Penicillin?
 
-**Pregnant goats should only be given penicillin if it's absolutely necessary. While penicillin is not known to cause birth defects, it can cross the placenta and enter the bloodstream of the developing fetus. In rare cases, this can lead to an allergic reaction in the fetus.**
+**Pregnant goats should only be given penicillin if it's absolutely necessary. While penicillin is not known to cause birth defects, it can cross the placenta and enter the bloodstream of the developing fetus.**
+
+**In rare cases, this can lead to an allergic reaction in the fetus.**
 
 If possible, alternative antibiotics should be used instead. If penicillin must be used, the lowest possible dose should be given and the goat should be closely monitored for any signs of adverse reactions.
 
@@ -60,7 +64,9 @@ Keep in mind that penicillin should only be used when necessary in pregnant goat
 
 ### Penicillin is an effective antibiotic
 
-Penicillin is an effective antibiotic that can treat a variety of bacterial infections in goats. It works by interfering with the bacteria's ability to produce proteins. Without protein synthesis, the bacteria cannot grow and reproduce.
+Penicillin is an effective antibiotic that can treat a variety of bacterial infections in goats. It works by interfering with the bacteria's ability to produce proteins.
+
+Without protein synthesis, the bacteria cannot grow and reproduce.
 
 Penicillin is most effective against gram-positive bacteria, such as Staphylococcus aureus and Streptococcus pyogenes. It's also active against certain gram-negative bacteria, such as Neisseria gonorrhoeae and Haemophilus influenzae.
 
@@ -92,19 +98,25 @@ Although penicillin is generally considered safe to give to pregnant goats, ther
 
 ### Penicillin can cross the placenta and enter the bloodstream of the developing fetus
 
-Penicillin can cross the placenta and enter the bloodstream of the developing fetus. This can occur during pregnancy or delivery. If penicillin enters the fetus’ bloodstream, it can cause a variety of side effects, including diarrhea, vomiting, and rash.
+Penicillin can cross the placenta and enter the bloodstream of the developing fetus. This can occur during pregnancy or delivery.
+
+If penicillin enters the fetus’ bloodstream, it can cause a variety of side effects, including diarrhea, vomiting, and rash.
 
 In severe cases, penicillin can cause anemia, low blood sugar levels, and convulsions. For example, one study found that four out of five newborns who were exposed to penicillin during delivery developed anemia.
 
 ### Penicillin can cause allergic reactions
 
-Penicillin can cause allergic reactions in some people. The symptoms of an allergic reaction can range from mild (such as a rash) to severe (such as difficulty breathing). In rare cases, anaphylactic shock can occur.
+Penicillin can cause allergic reactions in some people. The symptoms of an allergic reaction can range from mild (such as a rash) to severe (such as difficulty breathing).
+
+In rare cases, anaphylactic shock can occur.
 
 If you or your goat has ever had a reaction to penicillin, it's important to avoid giving it to them.
 
 ### Penicillin can interact with other drugs
 
-Penicillin can interact with other drugs. For example, it can increase the effects of warfarin (a blood-thinning medication). As a result, people taking warfarin should be monitored closely if they are also taking penicillin.
+Penicillin can interact with other drugs. For example, it can increase the effects of warfarin (a blood-thinning medication).
+
+As a result, people taking warfarin should be monitored closely if they are also taking penicillin.
 
 ### Increased risk of neonatal jaundice
 

@@ -102,7 +102,9 @@ Lastly, you should also keep in mind that the fiber from angora goats is often f
 
 ## When is the best time to breed angora goats with dairy goats for fiber?
 
-The best time to breed angora goats with dairy goats for fiber is in the spring. This is because the weather is not too hot and the days are longer, which means that the angora goats will have more time to graze. Additionally, you should make sure that the [goats have access to plenty of water](/can-i-give-a-sick-goat-water-through-a-syringe/).
+The best time to breed angora goats with dairy goats for fiber is in the spring. This is because the weather is not too hot and the days are longer, which means that the angora goats will have more time to graze.
+
+Additionally, you should make sure that the [goats have access to plenty of water](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 You should also keep in mind that the fiber from angora goats is often finer and softer than the fiber from dairy goats. This means that it may be more difficult to spin into yarn.
 

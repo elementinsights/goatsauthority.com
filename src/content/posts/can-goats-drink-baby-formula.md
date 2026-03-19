@@ -46,7 +46,9 @@ faq:
 
 It can be enjoyable and gratifying to care for goats. But there are a few things you should be aware of before bringing your new pet home.
 
-What to feed your goat is among the most crucial factors to take into account. Because they are browsers, goats like eating a wide variety of plants and leaves. But what if you are unable to locate any new browse? Can [goats consume infant formula](/can-my-infant-goat-kid-eat-grain/)?
+What to feed your goat is among the most crucial factors to take into account. Because they are browsers, goats like eating a wide variety of plants and leaves.
+
+But what if you are unable to locate any new browse? Can [goats consume infant formula](/can-my-infant-goat-kid-eat-grain/)?
 
 This article will provide you with the answer to that question as well as some advice on how to take care of your goat. Additionally, we will give you instructions on what to do if your goat is unable to obtain fresh browse.
 
@@ -54,7 +56,9 @@ This article will provide you with the answer to that question as well as some a
 
 **Goats can [drink baby formula because it contains the nutrients that they need](/can-baby-kittens-drink-goats-milk/). Goats also have a natural liking for sweet things, so the sweetness of the baby formula may make it more appealing to them and encourage them to drink more.**
 
-it's important to note, but, that baby formula is not a substitute for a fresh browse. [Goats still need to consume fresh leaves and plants](/can-goats-eat-any-plant/) in order to stay healthy. If you are unable to provide your goat with fresh browse, you should supplement their diet with hay or pasture.
+it's important to note, but, that baby formula is not a substitute for a fresh browse. [Goats still need to consume fresh leaves and plants](/can-goats-eat-any-plant/) in order to stay healthy.
+
+If you are unable to provide your goat with fresh browse, you should supplement their diet with hay or pasture.
 
 ## Can pregnant goats drink baby formula?
 
@@ -68,9 +72,13 @@ Despite that, it's crucial to talk to a goat expert before giving any supplement
 
 ## Can baby goats drink baby formula?
 
-[Baby goats](/can-baby-goats-have-any-electrolytes/), like all other baby animals, need milk to survive. Despite that, goat's milk is very different from cow's milk or human milk. It's much higher in fat and protein, and it also has a different balance of minerals.
+[Baby goats](/can-baby-goats-have-any-electrolytes/), like all other baby animals, need milk to survive. Despite that, goat's milk is very different from cow's milk or human milk.
 
-For this reason, baby goats cannot digest cow's milk or human baby formula. They will often become sick if they drink these products, and they can even die. Instead, baby goats must consume [goat's milk or a specially formulated milk replacer](/can-i-mix-goat-milk-replacer-with-cow-milk/).
+It's much higher in fat and protein, and it also has a different balance of minerals.
+
+For this reason, baby goats cannot digest cow's milk or human baby formula. They will often become sick if they drink these products, and they can even die.
+
+Instead, baby goats must consume [goat's milk or a specially formulated milk replacer](/can-i-mix-goat-milk-replacer-with-cow-milk/).
 
 These products are designed to more closely match the composition of goat's [milk and provide the nutrients that baby goats need](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) to grow and thrive.
 
@@ -78,7 +86,9 @@ So while you might be tempted to give a cute little kid a bottle of baby formula
 
 ## Can lactating goats drink baby formula?
 
-Goat's milk is very similar to human milk and is often used as a substitute for infant formula. So, it stands to reason that lactating goats could also drink baby formula. But, there are a few important things to keep in mind.
+Goat's milk is very similar to human milk and is often used as a substitute for infant formula. So, it stands to reason that lactating goats could also drink baby formula.
+
+But, there are a few important things to keep in mind.
 
 First of all, baby formula is designed for human [babies and may not provide all the nutrients a goat needs](/can-a-toddler-catch-a-disease-from-a-baby-goat/).
 
@@ -88,7 +98,9 @@ Lastly, [goat's milk is much higher in fat and protein than baby formula](/can-i
 
 ## What are the benefits of feeding baby formula to goats?
 
-Baby formula is a highly nutritious food that is designed to meet the needs of human infants. But, it can also be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) with great success. Formula-fed [goats tend to grow faster](/can-i-grow-goats-for-cashmere-and-angola/) and achieve greater body weights than those that are not fed formula.
+Baby formula is a highly nutritious food that is designed to meet the needs of human infants. But, it can also be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) with great success.
+
+Formula-fed [goats tend to grow faster](/can-i-grow-goats-for-cashmere-and-angola/) and achieve greater body weights than those that are not fed formula.
 
 On top of that, formula-fed [goats are less likely to develop nutritional deficiencies](/can-old-goats-develop-rickets/), and their coat condition is often better than that of goats that are not fed formula.
 

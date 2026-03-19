@@ -72,7 +72,9 @@ By taking these simple steps, you can help ensure that your goats stay healthy a
 
 One option is to build a three-sided shed that is open at the front. The shed should be large enough to comfortably accommodate all of your goats, with plenty of room for them to lie down and move around.
 
-It should also be well-ventilated to prevent condensation from building up inside. Another option is to provide each goat with its own individual shelter. These can be anything from simple huts to converted dog houses.
+It should also be well-ventilated to prevent condensation from building up inside. Another option is to provide each goat with its own individual shelter.
+
+These can be anything from simple huts to converted dog houses.
 
 Whatever type of shelter you choose, make sure it's sturdy and secure, and that it will protect your goats from wind, rain, and snow.
 
@@ -106,7 +108,9 @@ Finally, provide the [goat with plenty of fresh water and food to help them reco
 
 Many people believe that all goats are well-suited for cold weather, but this is not the case. Some breeds of goats are actually quite sensitive to the cold and can suffer from problems like frostbite.
 
-So, what [breed of goats](/can-a-goat-breed-with-sheep/) are best for the winter? The answer depends on several factors, including the climate in your area and the type of housing you have available. If you live in an area with severe winters, you'll need a hardy breed that can withstand sub-zero temperatures.
+So, what [breed of goats](/can-a-goat-breed-with-sheep/) are best for the winter? The answer depends on several factors, including the climate in your area and the type of housing you have available.
+
+If you live in an area with severe winters, you'll need a hardy breed that can withstand sub-zero temperatures.
 
 The [Nubian goat](/can-a-nubian-goat-climb-trees/) is a good choice, as it originates from the deserts of Sudan and Egypt and is therefore used to extreme heat and cold. If you live in a milder climate, almost any [breed of goat](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) will be able to handle the occasional cold snap.
 

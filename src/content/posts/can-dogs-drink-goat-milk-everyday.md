@@ -50,7 +50,9 @@ But you need to be aware of the risks associated with giving your dog too much g
 
 **Dogs can safely drink goat milk every day because it's packed with nutrients that can be beneficial for your dog's health. Dogs who drink goat milk on a regular basis may experience improved digestion, stronger bones, and a shinier coat.**
 
-However, it's important to be aware of the risks associated with giving your dog too much goat milk. Goat milk is high in fat and calories, which can lead to weight gain and obesity in dogs. On top of that, too much goat milk can cause diarrhea and an upset stomach.
+However, it's important to be aware of the risks associated with giving your dog too much goat milk. Goat milk is high in fat and calories, which can lead to weight gain and obesity in dogs.
+
+On top of that, too much goat milk can cause diarrhea and an upset stomach.
 
 When giving your dog goat milk, you [need to start slowly and increase the amount gradually over time](/how-many-babies-do-goats-have-at-a-time/). It's also important to monitor your dog for any signs of digestive upset, such as diarrhea or vomiting.
 
@@ -78,7 +80,9 @@ Give your dog goat milk preferably at mealtimes or in between meals. They can av
 
 ## What are the risks associated with giving my dog goat milk?
 
-As any pet owner knows, you need to make sure your furry friend is getting the right nutrition. For some dogs, that means supplementing their diet with goat milk. While goat milk can be a healthy addition to your dog's diet, there are also some risks to consider.
+As any pet owner knows, you need to make sure your furry friend is getting the right nutrition. For some dogs, that means supplementing their diet with goat milk.
+
+While goat milk can be a healthy addition to your dog's diet, there are also some risks to consider.
 
 One of the biggest risks is that goat milk may not contain enough of the nutrients your dog needs. Unlike [cow's milk](/can-goats-drink-cows-milk/), which is fortified with vitamins and minerals, goat milk is not.
 

@@ -48,7 +48,9 @@ We'll also address some often asked questions regarding giving peanuts to goats 
 
 ## Can goats eat peanuts?
 
-**Goats can consume peanuts. As a matter of fact, peanuts are high in vitamin B3, copper, manganese, and biotin. They are also a good source of protein and fat that can help keep your goats healthy and provide them with energy.**
+**Goats can consume peanuts. As a matter of fact, peanuts are high in vitamin B3, copper, manganese, and biotin.**
+
+**They are also a good source of protein and fat that can help keep your goats healthy and provide them with energy.**
 
 However, it's important to note that peanuts are a high-fat food, so they should be given in moderation. Too much fat can lead to obesity and other health problems in goats.
 
@@ -70,15 +72,21 @@ If you think your baby goat has eaten peanuts and is having an allergic reaction
 
 ## Can goats eat peanut shells?
 
-Goats are known for their nibbling habits. They will pretty much eat anything they can get their mouths on, including peanut shells. While goats can technically eat peanut shells, that does not mean that it's good for them.
+Goats are known for their nibbling habits. They will pretty much eat anything they can get their mouths on, including peanut shells.
+
+While goats can technically eat peanut shells, that does not mean that it's good for them.
 
 Peanut shells are hard and difficult to digest, and they can cause digestive problems for goats. On top of that, peanut shells can be a choking hazard, so it's best to avoid giving them to your goat.
 
-If you have a goat that is particularly fond of peanut shells, you can give them a small amount as a treat. Despite that, it's important to monitor their intake and make sure that they do not eat too much. When in doubt, it's always best to err on the side of caution when feeding your goat.
+If you have a goat that is particularly fond of peanut shells, you can give them a small amount as a treat. Despite that, it's important to monitor their intake and make sure that they do not eat too much.
+
+When in doubt, it's always best to err on the side of caution when feeding your goat.
 
 ## Can goats eat peanut stems?
 
-Peanut stems are the tough, fibrous stalk that connects the peanut plant to the ground. They are inedible to humans, but goats can eat them. In fact, goats will often eat anything they can get their mouths around, including plants and small rocks.
+Peanut stems are the tough, fibrous stalk that connects the peanut plant to the ground. They are inedible to humans, but goats can eat them.
+
+In fact, goats will often eat anything they can get their mouths around, including plants and small rocks.
 
 Even so, just because goats can eat peanut stems doesn't mean that they should. Peanut stems are very low in nutritional value and can actually cause digestive problems for goats if they eat too many of them.
 
@@ -86,11 +94,15 @@ It's best to limit the amount of peanut stems your goat eats and make sure that 
 
 ## Can goats eat peanut leaves?
 
-Peanut leaves are a source of forage for goats. They are high in crude protein, calcium, and phosphorus. Peanut leaves can be fed to goats as fresh forage, hay, or silage.
+Peanut leaves are a source of forage for goats. They are high in crude protein, calcium, and phosphorus.
+
+Peanut leaves can be fed to goats as fresh forage, hay, or silage.
 
 Peanut leaves are also a good source of vitamins A and C. Goats should have access to fresh, clean water at all times when eating peanut leaves.
 
-Peanut leaves contain tannins which can reduce the absorption of nutrients from the feed. Tannins can also cause digestive upset in goats. To avoid digestive upset, goats should be gradually introduced to peanut leaves.
+Peanut leaves contain tannins which can reduce the absorption of nutrients from the feed. Tannins can also cause digestive upset in goats.
+
+To avoid digestive upset, goats should be gradually introduced to peanut leaves.
 
 Peanut leaves can be mixed with other forages such as alfalfa or grass hay. Goats should not consume more than 2% of their body weight in peanut leaves per day.
 
@@ -120,11 +132,17 @@ When feeding peanuts to goats, always give them in small amounts and make sure t
 
 ## What is the serving size of peanuts for goats?
 
-Goats are browsers, not grazers like cattle. That means they naturally eat a lot of different kinds of vegetation in small amounts throughout the day. This includes leaves, twigs, flowers, and fruits.
+Goats are browsers, not grazers like cattle. That means they naturally eat a lot of different kinds of vegetation in small amounts throughout the day.
 
-They also eat seeds, which is why peanuts make such a good treat for them. Peanuts are a good source of protein, fat, and essential nutrients like vitamins A and E. They also contain minerals like copper, manganese, and selenium.
+This includes leaves, twigs, flowers, and fruits.
 
-For all these reasons, peanuts can be a healthy part of a goat's diet. Even so, it's important to remember that goats should only eat peanuts in moderation. Too many peanuts can lead to weight gain and digestive problems.
+They also eat seeds, which is why peanuts make such a good treat for them. Peanuts are a good source of protein, fat, and essential nutrients like vitamins A and E.
+
+They also contain minerals like copper, manganese, and selenium.
+
+For all these reasons, peanuts can be a healthy part of a goat's diet. Even so, it's important to remember that goats should only eat peanuts in moderation.
+
+Too many peanuts can lead to weight gain and digestive problems.
 
 As a general rule of thumb, the serving size for peanuts is about 1/4 cup per 100 pounds of body weight. So, for a 10-pound goat, the serving size would be about 1 tablespoon.
 

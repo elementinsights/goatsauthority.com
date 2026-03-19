@@ -48,9 +48,13 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can milk be used from goats that have had sore mouths and healed?
 
-**Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth. The main thing you need to consider is the quality of the milk.**
+**Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth.**
 
-When a goat has a sore mouth, you should clean its udder and teats before milking it. This will help stop the infection from spreading. You should also [milk the goat in a clean container](/can-a-goat-produce-milk-but-also-be-a-pack-goat/).
+**The main thing you need to consider is the quality of the milk.**
+
+When a goat has a sore mouth, you should clean its udder and teats before milking it. This will help stop the infection from spreading.
+
+You should also [milk the goat in a clean container](/can-a-goat-produce-milk-but-also-be-a-pack-goat/).
 
 You should always discard milk from a goat with a sore mouth if you notice any signs of infection, such as bad odor, changed color, or clumping.
 
@@ -64,7 +68,9 @@ To start, it is crucial to clean the udder and teats before milking. This way, y
 
 Second, you will want to milk the goat in a clean container.
 
-Third, it is crucial to watch for signs of infection in the milk. These include bad odor, changed color, or clumping. If you notice any of these signs, it is best to discard the milk.
+Third, it is crucial to watch for signs of infection in the milk. These include bad odor, changed color, or clumping.
+
+If you notice any of these signs, it is best to discard the milk.
 
 Fourth, you may want to give the goat some pain relief medication. This can help the animal to feel more comfortable.
 
@@ -84,7 +90,9 @@ Goats can get sore mouths from time to time, and it's important for goat owners 
 
 There are several [benefits of using milk from a goat](/can-a-cat-drink-goats-milk/) with a sore mouth. First, it is a good source of nutrition for the animal.
 
-Second, it can help to speed up the healing process. Third, it can help to prevent the spread of infection. Lastly, it can provide relief from pain.
+Second, it can help to speed up the healing process. Third, it can help to prevent the spread of infection.
+
+Lastly, it can provide relief from pain.
 
 The main thing you [need to consider when using milk from a goat](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) with a sore mouth is the quality of the milk. If you are unsure about the quality of the milk, it is best to discard it.
 
@@ -104,7 +112,9 @@ The best way to prevent the spread of sore mouth is to isolate any animals that 
 
 Furthermore, it is key to practice good hygiene when working with goats. After coming into contact with an affected animal, you should wash your hands before coming into contact with any healthy animals.
 
-It is also important to avoid sharing equipment between goats that are sick and those that are healthy. This includes items such as buckets, feeders, water troughs, and brushes. If you must share equipment, it should be thoroughly cleaned and disinfected between use.
+It is also important to avoid sharing equipment between goats that are sick and those that are healthy. This includes items such as buckets, feeders, water troughs, and brushes.
+
+If you must share equipment, it should be thoroughly cleaned and disinfected between use.
 
 Lastly, it is important to vaccinate all goats against sore mouths. There are two types of vaccines available, and both are effective in protecting goats from the disease.
 

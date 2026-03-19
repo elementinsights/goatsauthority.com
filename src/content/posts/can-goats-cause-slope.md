@@ -84,7 +84,9 @@ For all these reasons, goats are an increasingly popular option for both farmers
 
 Goats are often used for grazing purposes on slopes, as they are known to be efficient at clearing vegetation.
 
-However, there are some dangers associated with this practice. One of the most significant dangers is the risk of soil erosion. Goats can significantly damage vegetation, leaving the soil vulnerable to wind and water erosion.
+However, there are some dangers associated with this practice. One of the most significant dangers is the risk of soil erosion.
+
+Goats can significantly damage vegetation, leaving the soil vulnerable to wind and water erosion.
 
 Additionally, [goats tend to concentrate their grazing in certain areas](/can-goats-be-tied-up-for-selective-area-grazing/), which can further degrade the soil. Another danger of grazing goats on slopes is the risk of wildfires.
 

@@ -48,11 +48,15 @@ In this article, we will answer those questions and provide you with additional 
 
 In addition, you need to make sure that the band is not too tight. If it is too tight, it could cut off circulation to the horns and potentially kill them.
 
-Finally, you need to be careful when removing the bands. If you remove them too quickly, it could tear the skin. If you remove them too slowly, the horns could grow back.
+Finally, you need to be careful when removing the bands. If you remove them too quickly, it could tear the skin.
+
+If you remove them too slowly, the horns could grow back.
 
 ## What are the things you need to consider before dehorning a goat?
 
-There are a few things you need to consider before dehorning a goat. First, you need to decide if you want to do it yourself or have someone else do it. If you do it yourself, you need to be very careful and make sure you know what you are doing.
+There are a few things you need to consider before dehorning a goat. First, you need to decide if you want to do it yourself or have someone else do it.
+
+If you do it yourself, you need to be very careful and make sure you know what you are doing.
 
 Second, you need to decide how you are going to dehorn the goat. There are a few different methods, but the most common is called "banding." This involves using a special tool to place a tight band around the base of the horns.
 
@@ -66,7 +70,9 @@ Finally, you need to think about the cost. Dehorning is not a cheap procedure, s
 
 Dehorning is the process of [removing horns from goats](/can-i-remove-my-goat-full-grown-horns/). It is typically done for two reasons: to prevent injuries to other animals and to make the goat easier to handle.
 
-Dehorning is a painful procedure, so it should only be done if absolutely necessary. In most cases, dehorning is only done on young goats whose horns have not yet grown in fully. This is because the horns are not as well attached to the skull at this age and the process is less painful.
+Dehorning is a painful procedure, so it should only be done if absolutely necessary. In most cases, dehorning is only done on young goats whose horns have not yet grown in fully.
+
+This is because the horns are not as well attached to the skull at this age and the process is less painful.
 
 Dehorning should only be done by a trained professional. It is a risky procedure and if it is not done properly, it can [cause serious injury or even death to the goat](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
@@ -94,7 +100,9 @@ While this behavior may be cute when the goats are young, it can become a proble
 
 There are a few different methods that can be used to dehorn a goat, but the most common is called “disbudding”.
 
-This involves using a hot iron to burn the [horn buds off of the goat’s head](/can-goats-die-from-their-own-horns-grow-into-heads/). It is a relatively quick and painless procedure, although it does require some aftercare to prevent infection. Disbudding is often done when the goat is still a youngster, but it can also be done on older goats.
+This involves using a hot iron to burn the [horn buds off of the goat’s head](/can-goats-die-from-their-own-horns-grow-into-heads/). It is a relatively quick and painless procedure, although it does require some aftercare to prevent infection.
+
+Disbudding is often done when the goat is still a youngster, but it can also be done on older goats.
 
 There are both advantages and disadvantages to dehorning adult goats. On the plus side, it can help to prevent injuries that can occur when animals butt heads during play or fighting.
 
@@ -106,11 +114,15 @@ There is also a risk of infection if the wound is not properly cared for. Ultima
 
 Dehorning is a common practice for goats kept for dairy production, meat, or fiber. Banding is a common method for dehorning [adult goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat/).
 
-A band is placed around the base of the horn and tightened over time. This cuts off the blood supply to the horn, causing it to fall off. The procedure is relatively simple and can be done with minimal equipment.
+A band is placed around the base of the horn and tightened over time. This cuts off the blood supply to the horn, causing it to fall off.
+
+The procedure is relatively simple and can be done with minimal equipment.
 
 First, the goat's head should be restrained so that it cannot move around during the procedure. Next, a rubber band is placed around the base of the horn, just above the point where it meets the skull.
 
-The band should be tight enough to cut off circulation but not so tight that it causes discomfort. The band is left in place for several weeks, during which time the horn will slowly detach from the skull. Once the horn has fallen off, the band can be removed and the area will heal on its own. Banding is a safe and effective way to remove horns from adult goats with minimal stress or discomfort.
+The band should be tight enough to cut off circulation but not so tight that it causes discomfort. The band is left in place for several weeks, during which time the horn will slowly detach from the skull.
+
+Once the horn has fallen off, the band can be removed and the area will heal on its own. Banding is a safe and effective way to remove horns from adult goats with minimal stress or discomfort.
 
 ## Final Thoughts
 

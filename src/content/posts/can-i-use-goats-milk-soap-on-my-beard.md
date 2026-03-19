@@ -37,8 +37,9 @@ faq:
   - question: "How to make your own goat's milk soap for beards?"
     answer: "There are a few key steps that are involved in making your own goat's milk soap for beards. The first step is to acquire high-quality, fresh goat's milk."
 ---
+Many factors contribute to a luxurious, healthy beard. Of course, using the appropriate products is paramount--but can you use goats milk soap on your facial hair?
 
-Many factors contribute to a luxurious, healthy beard. Of course, using the appropriate products is paramount--but can you use goats milk soap on your facial hair? And if so, what are the things you need to consider?
+And if so, what are the things you need to consider?
 
 In this article, we will answer those questions and more. We'll tell you everything you need to know about using goat's milk soap on your beard.
 

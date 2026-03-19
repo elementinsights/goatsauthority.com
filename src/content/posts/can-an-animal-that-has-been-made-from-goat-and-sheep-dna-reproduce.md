@@ -52,7 +52,9 @@ Interspecies genetic engineering is a controversial practice, and it's currently
 
 ## What happens when two different species' DNA are combined?
 
-When two different species' DNA are combined, the result is called hybridization. This can happen naturally when members of different species mate and produce offspring with mixed DNA. It can also happen in a laboratory when scientists manually mix the DNA of two different species.
+When two different species' DNA are combined, the result is called hybridization. This can happen naturally when members of different species mate and produce offspring with mixed DNA.
+
+It can also happen in a laboratory when scientists manually mix the DNA of two different species.
 
 Hybridization can have a variety of effects, depending on the specific combination of DNA. In some cases, the resulting hybrid may be sterile and unable to produce offspring.
 

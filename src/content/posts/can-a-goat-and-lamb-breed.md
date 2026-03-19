@@ -46,7 +46,9 @@ So if you're interested in breeding these animals or are simply curious about th
 
 ## Can a goat and lamb breed?
 
-**A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates. This means that they are able to interbreed and produce fertile offspring. The most common hybrid of a goat and lamb is called a geep.**
+**A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates.**
+
+**This means that they are able to interbreed and produce fertile offspring. The most common hybrid of a goat and lamb is called a geep.**
 
 Geeps are born with some characteristics of each parent species, though they more closely resemble goats in appearance, despite that they are usually smaller than either parent species.
 
@@ -58,19 +60,27 @@ The majority of geeps live in zoos or on farms where they are carefully bred. Ge
 
 This is a reminder that all life is connected, and that we are all ultimately descended from the same ancestors.
 
-Geeps are usually smaller than either of their parent species. They have the body of a goat and the head of a sheep. They also have horns, like sheep, yet these are not as large as those of a full-grown sheep.
+Geeps are usually smaller than either of their parent species. They have the body of a goat and the head of a sheep.
+
+They also have horns, like sheep, yet these are not as large as those of a full-grown sheep.
 
 The coat of a gerbil is usually white with black spots, though it can be any color. Geeps are born with wool, and this is usually shed after a few months.
 
 ## What do geeps eat?
 
-Like both goats and sheep, geeps are browsers. This means that they primarily eat leaves, twigs, and other vegetation. Geeps will also eat grass. Even so, they do not graze like cattle or other grazing animals.
+Like both goats and sheep, geeps are browsers. This means that they primarily eat leaves, twigs, and other vegetation.
 
-Instead, they prefer to browse shrubs and other woody plants. This diet is relatively easy to maintain, as it does not require special feeds or supplements. As long as there's enough vegetation available, geeps will happily browse away.
+Geeps will also eat grass. Even so, they do not graze like cattle or other grazing animals.
+
+Instead, they prefer to browse shrubs and other woody plants. This diet is relatively easy to maintain, as it does not require special feeds or supplements.
+
+As long as there's enough vegetation available, geeps will happily browse away.
 
 ## Do geeps make good pets?
 
-Geeps are not common pets, but there are a few people who keep them. They are generally friendly and can be trained to do tricks. Geeps are also known for being very curious, so they can be entertaining to watch.
+Geeps are not common pets, but there are a few people who keep them. They are generally friendly and can be trained to do tricks.
+
+Geeps are also known for being very curious, so they can be entertaining to watch.
 
 If you are considering getting a geep as a pet, be aware that they require a lot of space. They also need to be around other animals, so they do not get lonely.
 
@@ -128,7 +138,9 @@ there's no law against breeding goats and lamps, as long as the animals are heal
 
 ### What are the benefits of breeding goats and lambs?
 
-By breeding goats and lamps, farmers and ranchers can create animals that are hardy and adaptable. Geeps are able to graze on steep hillsides that would be inaccessible to other livestock. They are also known for being friendly and docile, making them popular as pets or farm animals.
+By breeding goats and lamps, farmers and ranchers can create animals that are hardy and adaptable. Geeps are able to graze on steep hillsides that would be inaccessible to other livestock.
+
+They are also known for being friendly and docile, making them popular as pets or farm animals.
 
 ### Are geeps endangered?
 

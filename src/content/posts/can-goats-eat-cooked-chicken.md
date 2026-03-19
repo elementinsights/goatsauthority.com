@@ -48,13 +48,19 @@ In this article, we will answer all of your questions about feeding cooked chick
 
 ## Can goats eat cooked chicken?
 
-**[Goats can eat cooked chicken](/can-goats-eat-cooked-pasta/) because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium. They are also a source of essential amino acids such as leucine, isoleucine, and valine.**
+**[Goats can eat cooked chicken](/can-goats-eat-cooked-pasta/) because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium.**
 
-However, it's important to remember that [goats are herbivores and their digestive system is not designed to digest meat](/can-dogs-eat-goat-meat/). This means that they should only eat small amounts of cooked chicken as part of a balanced diet. Too much chicken can [cause digestive problems such as diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), bloating, and gas.
+**They are also a source of essential amino acids such as leucine, isoleucine, and valine.**
+
+However, it's important to remember that [goats are herbivores and their digestive system is not designed to digest meat](/can-dogs-eat-goat-meat/). This means that they should only eat small amounts of cooked chicken as part of a balanced diet.
+
+Too much chicken can [cause digestive problems such as diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), bloating, and gas.
 
 ## Are there any benefits to feeding cooked chicken to goats?
 
-Goats are notoriously picky eaters, and their [diets must be carefully balanced in order to ensure their health](/can-you-drink-raw-goat-milk-on-gaps-diet/). While goats will nibble on just about anything, they prefer to eat hay, grass, and other plants. However, cooked chicken can also be a good source of nutrients for goats.
+Goats are notoriously picky eaters, and their [diets must be carefully balanced in order to ensure their health](/can-you-drink-raw-goat-milk-on-gaps-diet/). While goats will nibble on just about anything, they prefer to eat hay, grass, and other plants.
+
+However, cooked chicken can also be a good source of nutrients for goats.
 
 Chicken is a good source of protein, which is essential for muscle development, and it also contains essential fatty acids that help to maintain healthy skin and coat.
 
@@ -84,7 +90,7 @@ Second, remove any skin or fat from the chicken before feeding it to your goats.
 
 Lastly, only [feed small amounts of cooked chicken to your goats](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at a time. This will help to prevent digestive problems and ensure that they are getting the nutrients they need from other sources.
 
-When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a lot of things to consider. But, if you have questions about whether or not [goats can eat cooked chicken](/can-goats-eat-cooked-white-rice/), the answer is yes – but only in moderation.
+When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a lot of things to consider. But, if you have questions about whether or not [goats can eat cooked chicken](/can-goats-eat-cooked-white-rice/), the answer is yes, but only in moderation.
 
 Feeding too much chicken to [goats can cause digestive problems](/can-goats-cause-slope/), so you need to make sure that they are getting a balanced diet. If you have any concerns about feeding your goat, be sure to talk to a goat expert.
 
@@ -126,7 +132,9 @@ Just be sure to supervise them so they don't gorge themselves and end up with an
 
 ## Are there any alternative options to feeding goats cooked chicken?
 
-There are many alternative options for [feeding goats](/can-baking-soda-cause-urinary-issues-in-goats/). As mentioned above, goats are primarily herbivores and their diet should consist mostly of grass and other vegetation. But, there are a variety of other foods that can be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) in moderation.
+There are many alternative options for [feeding goats](/can-baking-soda-cause-urinary-issues-in-goats/). As mentioned above, goats are primarily herbivores and their diet should consist mostly of grass and other vegetation.
+
+But, there are a variety of other foods that can be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) in moderation.
 
 This includes fruits, vegetables, grains, and even small amounts of meat. Ultimately, you need to consult with a goat expert before making any major changes to a goat's diet.
 
@@ -134,6 +142,8 @@ They will be able to provide guidance on what types of [food are safe for goats 
 
 ## Final Thoughts
 
-Overall, cooked chicken is [safe for goats to eat](/can-goats-eat-pumpkin/) on occasion. Despite that, you need to take precautions such as removing any bones or other potential hazards. In addition, it's best to avoid feeding chickens that have been fed hormones or other chemicals.
+Overall, cooked chicken is [safe for goats to eat](/can-goats-eat-pumpkin/) on occasion. Despite that, you need to take precautions such as removing any bones or other potential hazards.
+
+In addition, it's best to avoid feeding chickens that have been fed hormones or other chemicals.
 
 Finally, you need to monitor goats closely after they eat cooked chicken, as some may experience digestive upset. Ultimately, cooked chicken can be a healthy and nutritious part of a goat's diet, but it's important to consult with a goat expert before making any major changes to their diet.

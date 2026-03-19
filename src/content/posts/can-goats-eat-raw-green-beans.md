@@ -37,8 +37,9 @@ faq:
   - question: "How to prevent risks when feeding goats raw green beans?"
     answer: "As with any food, there are some risks associated with feeding raw green beans to goats. But, these risks can be easily avoided by taking a few simple precautions."
 ---
+Taking care of a goat can be a fun and rewarding experience. As you probably know, goats are interesting creatures with unique dietary needs.
 
-Taking care of a goat can be a fun and rewarding experience. As you probably know, goats are interesting creatures with unique dietary needs. So, what exactly can goats eat?
+So, what exactly can goats eat?
 
 One common question we get is: can goats eat raw green beans? If so, what are the benefits?
 
@@ -46,9 +47,13 @@ In this article, we will answer all of your questions about goats and raw green 
 
 ## Can goats eat raw green beans?
 
-**Raw green beans are edible to goats. In actuality, goats may get a lot of nourishment from green beans. They are a good source of fiber, iron, and potassium as well as vitamins A, C, and K. They also have a lot of protein in them.**
+**Raw green beans are edible to goats. In actuality, goats may get a lot of nourishment from green beans.**
 
-Raw green beans are packed with nutrients that are essential for goat health. For example, the vitamins and minerals found in green beans can help to keep a goat's coat healthy and shiny. Green beans are also a good source of energy, which is important for goats who are active.
+**They are a good source of fiber, iron, and potassium as well as vitamins A, C, and K. They also have a lot of protein in them.**
+
+Raw green beans are packed with nutrients that are essential for goat health. For example, the vitamins and minerals found in green beans can help to keep a goat's coat healthy and shiny.
+
+Green beans are also a good source of energy, which is important for goats who are active.
 
 If you're looking for a healthy and nutritious treat for your goat, raw green beans are a great option. Just be sure to wash them thoroughly before [feeding them to your goat](/can-baking-soda-cause-urinary-issues-in-goats/) to avoid any bacteria or parasites.
 
@@ -72,9 +77,13 @@ However, it is important to note that green beans should only be given to goats 
 
 ## Are there any risks associated with feeding goats raw green beans?
 
-When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a variety of different options. One popular option is raw green beans. Despite that, there are a few potential risks associated with this food. For one thing, raw green beans contain a substance called solanine.
+When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a variety of different options. One popular option is raw green beans.
 
-This substance can be toxic to goats in large quantities. On top of that, raw green beans are difficult for goats to digest. As a result, they may experience stomach discomfort after eating them.
+Despite that, there are a few potential risks associated with this food. For one thing, raw green beans contain a substance called solanine.
+
+This substance can be toxic to goats in large quantities. On top of that, raw green beans are difficult for goats to digest.
+
+As a result, they may experience stomach discomfort after eating them.
 
 Finally, raw green beans can harbor bacteria that can make goats sick. For these reasons, it is crucial to exercise caution when feeding raw green beans to goats.
 
@@ -96,7 +105,9 @@ By following these simple guidelines, you can help ensure that feeding raw green
 
 ## What are the treatments for anorexia in goats?
 
-Anorexia, or a loss of appetite, is a common problem in goats. There are many possible causes of anorexia, including disease, stress, and gastrointestinal problems. If your goat appears to have lost its appetite, it is important to take action quickly.
+Anorexia, or a loss of appetite, is a common problem in goats. There are many possible causes of anorexia, including disease, stress, and gastrointestinal problems.
+
+If your goat appears to have lost its appetite, it is important to take action quickly.
 
 Anorexia can lead to weight loss and malnutrition, which can be serious and even life-threatening. There are a few different options for treating anorexia in goats.
 
@@ -104,7 +115,9 @@ One option is to [offer your goat a variety of foods to see if it will eat](/can
 
 If your goat still refuses to eat, it may need to be hospitalized and given fluids and nutrients intravenously. Anorexia can be a serious problem, but with prompt treatment, most [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
-Goats are interesting creatures that are known for their hardy nature. Despite that, this does not mean that they do not require proper care. Goats need to be given a balanced diet that includes plenty of fresh hay, grass, and water.
+Goats are interesting creatures that are known for their hardy nature. Despite that, this does not mean that they do not require proper care.
+
+Goats need to be given a balanced diet that includes plenty of fresh hay, grass, and water.
 
 They also need access to a clean and spacious enclosure. In addition, goats need to be vaccinated against common diseases, such as rabies and tetanus.
 

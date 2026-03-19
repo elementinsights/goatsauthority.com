@@ -82,9 +82,13 @@ Kidding season is a hectic time for any goat farmer. Not only do you have to kee
 
 Here are a few tips to help make the kidding season go as smoothly as possible:
 
-First, it's crucial to have a clean, dry kidding pen set up before your does start giving birth. This will help to reduce the risk of infection and will make it easier to keep an eye on the does and kids. Make sure that the pen is large enough for the doe to lie down comfortably, and that there's plenty of fresh bedding available.
+First, it's crucial to have a clean, dry kidding pen set up before your does start giving birth. This will help to reduce the risk of infection and will make it easier to keep an eye on the does and kids.
 
-Second, it's crucial that the does have access to fresh water at all times during kidding season. They will be nursing their kids frequently and will require extra hydration to keep up their milk production. Make sure to check water buckets regularly and top them off as needed.
+Make sure that the pen is large enough for the doe to lie down comfortably, and that there's plenty of fresh bedding available.
+
+Second, it's crucial that the does have access to fresh water at all times during kidding season. They will be nursing their kids frequently and will require extra hydration to keep up their milk production.
+
+Make sure to check water buckets regularly and top them off as needed.
 
 Finally, be prepared for anything during the kidding season. Have a first aid kit on hand in case of an emergency, and know how to care for newborn kids if they need assistance nursing or are otherwise not doing well.
 
@@ -92,7 +96,9 @@ With a little preparation, you can help make the kidding season go as smoothly a
 
 ## The basics of goat reproduction
 
-Goats are mammals, and like all mammals, they reproduce by sexual intercourse. Two goats, a male, and a female come together, and the male mounts the female from behind. He penetrates her with his penis and inserts his sperm into her vagina.
+Goats are mammals, and like all mammals, they reproduce by sexual intercourse. Two goats, a male, and a female come together, and the male mounts the female from behind.
+
+He penetrates her with his penis and inserts his sperm into her vagina.
 
 The sperm travel up through the cervix and into the uterus, where they fertilize the eggs. The fertilized eggs then implant themselves in the wall of the uterus and begin to grow.
 
@@ -104,13 +110,17 @@ Giving birth is called parturition, and in goats, it typically occurs without an
 
 These can include excessive panting, restlessness, or bleeding. If you see any of these signs, you need to contact a veterinarian for help.
 
-After giving birth, the mother [goat will produce milk](/can-a-female-goat-produce-milk-without-being-pregnant/) for her young. This milk is called colostrum, and it's essential for the baby's health. Colostrum is high in nutrients and antibodies, which help to protect the newborn from disease.
+After giving birth, the mother [goat will produce milk](/can-a-female-goat-produce-milk-without-being-pregnant/) for her young. This milk is called colostrum, and it's essential for the baby's health.
+
+Colostrum is high in nutrients and antibodies, which help to protect the newborn from disease.
 
 Baby goats will typically start drinking milk from a bottle or bucket after about two weeks, but they should continue to nurse from their mothers for at least four weeks. After that, they can be slowly introduced to solid food like hay or pellets.
 
 ## Final Thoughts
 
-Goats can miscarry one kid and still be pregnant. This is because they are mammals and reproduce by sexual intercourse. Pregnancy in goats usually lasts around 145 days or about five months.
+Goats can miscarry one kid and still be pregnant. This is because they are mammals and reproduce by sexual intercourse.
+
+Pregnancy in goats usually lasts around 145 days or about five months.
 
 Giving birth is called parturition, and in goats, it typically occurs without any assistance from humans. However, sometimes complications can arise during labor, so you must be aware of the signs of distress in mothers who are giving birth.
 

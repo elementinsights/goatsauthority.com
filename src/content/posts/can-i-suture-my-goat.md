@@ -40,17 +40,23 @@ faq:
 
 We all know that goats are very curious creatures. They will try to eat just about anything they can get their mouths on, including things that they really shouldn’t be eating.
 
-This can sometimes lead to injuries that may require sutures or stitches. But can you actually suture a goat? And if so, what are the [things you need to consider](/can-a-dog-get-sick-from-a-goat/) before doing so?
+This can sometimes lead to injuries that may require sutures or stitches. But can you actually suture a goat?
+
+And if so, what are the [things you need to consider](/can-a-dog-get-sick-from-a-goat/) before doing so?
 
 In this article, we’ll answer all your questions about suturing goats, so you can make the best decision for your furry friend.
 
 ## Can I suture my goat?
 
-**You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection. They are also less likely to have an adverse reaction to the anesthesia.**
+**You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection.**
+
+**They are also less likely to have an adverse reaction to the anesthesia.**
 
 Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the suturing process.
 
-Before you stitch up your goat, there are a few things to take into consideration. The first is that the wound is clean and without any dirt or other particles. If there's anything blocking the wound, it might lead to an infection developing.
+Before you stitch up your goat, there are a few things to take into consideration. The first is that the wound is clean and without any dirt or other particles.
+
+If there's anything blocking the wound, it might lead to an infection developing.
 
 You also need to make sure that the wound is not too deep. If the wound is too deep, it may require staples or stitches instead of sutures.
 
@@ -58,7 +64,9 @@ Finally, you need to make sure that you have the proper supplies. This includes 
 
 ## What are the risks of suturing my goat?
 
-There are some [risks associated with suturing your goat](/can-a-plastic-bag-hurt-a-goat/). First of all, there is always a risk of infection. This is why it’s so important to make sure that the wound is clean before you begin the suturing process.
+There are some [risks associated with suturing your goat](/can-a-plastic-bag-hurt-a-goat/). First of all, there is always a risk of infection.
+
+This is why it’s so important to make sure that the wound is clean before you begin the suturing process.
 
 Another risk is that the goat could have an adverse reaction to the anesthesia. This is why it’s important to talk to your vet about the best way to sedate your goat.
 

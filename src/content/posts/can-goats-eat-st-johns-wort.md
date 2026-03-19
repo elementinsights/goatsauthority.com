@@ -39,14 +39,17 @@ faq:
   - question: "What should you do if your goat eats St Johns Wort?"
     answer: "If your goat eats St Johns Wort, the first thing you should do is consult a goat expert. St Johns Wort is a plant that is poisonous to goats and can cause serious health problems."
 ---
+We all know that goats are browsers and will eat just about anything. So, it's natural to wonder if they can eat St Johns Wort.
 
-We all know that goats are browsers and will eat just about anything. So, it's natural to wonder if they can eat St Johns Wort. And if so, what are the things to consider?
+And if so, what are the things to consider?
 
 In this article, we will answer all these questions so that you will know everything there is to know about feeding St Johns Wort to goats.
 
 ## Can goats eat St Johns Wort?
 
-**Goats should not eat St. John's Wort. The reason is that St. John's Wort is poisonous to goats. It can cause photosensitivity and gastrointestinal problems, among other things. So, it's best to err on the side of caution and keep your goats away from this herb.**
+**Goats should not eat St. John's Wort. The reason is that St. John's Wort is poisonous to goats.**
+
+**It can cause photosensitivity and gastrointestinal problems, among other things. So, it's best to err on the side of caution and keep your goats away from this herb.**
 
 On top of that, St. John's Wort can also interfere with the effectiveness of certain medications. So, if your goat is taking any medication, it's best to avoid giving them this herb.
 
@@ -68,11 +71,15 @@ In some cases, [feeding goats](/can-a-goat-feed-quads/) St. John's wort can be f
 
 ## How to prevent your goats from eating St Johns Wort?
 
-Goats are notorious for their ability to eat just about anything. This can be a problem when they get into the garden and start nibbling on delicate plants. One plant that is particularly attractive to goats is St. Johns wort.
+Goats are notorious for their ability to eat just about anything. This can be a problem when they get into the garden and start nibbling on delicate plants.
+
+One plant that is particularly attractive to goats is St. Johns wort.
 
 This herb is actually toxic to goats and [can cause serious health problems](/can-alfalfa-pellets-cause-goats-to-bloat/) if consumed in large quantities. Thankfully, there are a few things you can do to prevent your goats from eating St. Johns wort.
 
-One of the most effective methods is to simply remove the plant from their environment. If you have St. Johns wort growing in your pasture, consider fencing it off or physically removing it. You can also try using repellents.
+One of the most effective methods is to simply remove the plant from their environment. If you have St. Johns wort growing in your pasture, consider fencing it off or physically removing it.
+
+You can also try using repellents.
 
 There are commercial goat repellents available, or you can make your own by mixing crushed garlic, fresh chili peppers, and water.
 
@@ -82,7 +89,9 @@ Spray this mixture around the perimeter of your pasture, and be sure to reapply 
 
 If your goat eats St Johns Wort, the first [thing you should do is consult a goat expert](/can-a-dog-get-sick-from-a-goat/). St Johns Wort is a plant that is poisonous to goats and [can cause serious health problems](/can-contact-with-goats-cause-diarrhea-in-humans/).
 
-Symptoms of poisoning include loss of appetite, depression, diarrhea, and tremors. If left untreated, St Johns Wort poisoning can be fatal. Treatment typically involves providing supportive care and administering detoxifying drugs.
+Symptoms of poisoning include loss of appetite, depression, diarrhea, and tremors. If left untreated, St Johns Wort poisoning can be fatal.
+
+Treatment typically involves providing supportive care and administering detoxifying drugs.
 
 With prompt treatment, [most goats recover](/can-goats-recover-from-polio-without-medication/) from St Johns Wort poisoning. Despite that, it is important to prevent future exposure to the plant to avoid further health complications.
 
@@ -128,7 +137,9 @@ By following these simple guidelines, you can ensure that your goats stay health
 
 ## Final Thoughts
 
-Goats cannot eat St Johns Wort because it is poisonous to them. If your goat eats St Johns Wort, the first thing you should do is consult a goat expert. With prompt treatment, most goats recover from St Johns Wort poisoning.
+Goats cannot eat St Johns Wort because it is poisonous to them. If your goat eats St Johns Wort, the first thing you should do is consult a goat expert.
+
+With prompt treatment, most goats recover from St Johns Wort poisoning.
 
 Despite that, it is important to prevent future exposure to the plant to avoid further health complications. You can do this by feeding your goat other plants and making sure they don't have access to St Johns Wort.
 

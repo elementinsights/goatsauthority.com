@@ -41,8 +41,9 @@ faq:
   - question: "Are there any risks associated with owning a pygmy goat?"
     answer: "As with any animal, there are some risks associated with owning a pygmy goat. These goats are known for being very curious, so they may try to eat things that they shouldn't, like poisonous plants or plastics."
 ---
+Taking care of a goat is a challenging but rewarding task. Goats are interesting creatures that are known for their playful and curious nature.
 
-Taking care of a goat is a challenging but rewarding task. Goats are interesting creatures that are known for their playful and curious nature. Pygmy goats are a popular breed of goat that is known for being friendly and easy to care for.
+Pygmy goats are a popular breed of goat that is known for being friendly and easy to care for.
 
 If you're thinking about getting a pygmy goat, you may be wondering if you can wash and groom them.
 
@@ -50,7 +51,9 @@ In this article, we will answer those questions for you and provide you with eve
 
 ## Can I wash and groom my pygmy goat?
 
-**You can wash and groom your pygmy goat, but there are a few things you need to keep in mind. Pygmy goats have sensitive skin, so you'll need to use a gentle shampoo and conditioner. You should also avoid getting water in their ears and eyes.**
+**You can wash and groom your pygmy goat, but there are a few things you need to keep in mind. Pygmy goats have sensitive skin, so you'll need to use a gentle shampoo and conditioner.**
+
+**You should also avoid getting water in their ears and eyes.**
 
 It's best to wash your [pygmy goat](/can-pygmy-goats-eat-brown-sugar/) in the summer months when the weather is warm. This will help to prevent your goat from getting chilled.
 

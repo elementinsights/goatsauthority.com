@@ -41,8 +41,9 @@ faq:
   - question: "What can miniature horses eat?"
     answer: "Miniature horses are popular pets because they are small, friendly, and easy to care for. Despite that, one of the most common questions that people have about these animals is what they can eat."
 ---
+Everyone is aware that goats are social animals. They take delight in the company of other creatures, but what about miniature horses?
 
-Everyone is aware that goats are social animals. They take delight in the company of other creatures, but what about miniature horses? Can they survive living with goats?
+Can they survive living with goats?
 
 In this article, we will explore the possibility of keeping miniature horses with goats as pets. We will cover everything you need to know, from their living arrangements to their compatible personalities.
 

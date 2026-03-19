@@ -50,7 +50,9 @@ In this article, we will answer all of your questions regarding grazing goats an
 
 ## Can goats and horses pasture together?
 
-**Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds. Goats will also eat grass that is too short for horses to reach, which can help prevent horses from getting colic.**
+**Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds.**
+
+**Goats will also eat grass that is too short for horses to reach, which can help prevent horses from getting colic.**
 
 Despite that, it's important to have a separate area for each animal to graze. [Goats and horses have different nutritional needs](/can-i-give-a-moldy-pumpkin-to-goats/), and each animal should have its own space to ensure that it's getting the proper nutrition.
 
@@ -62,11 +64,17 @@ The main difference between goats and horses is that goats are browsers and hors
 
 ## What are the benefits of goats and horses grazing together?
 
-There are several benefits to grazing goats and horses together. One [benefit's that it can help save on hay costs](/can-goats-eat-timothy-hay/). If your animals can graze together, you will not need to feed them as much hay.
+There are several benefits to grazing goats and horses together. One [benefit's that it can help save on hay costs](/can-goats-eat-timothy-hay/).
 
-Another benefits that goats can help improve the quality of the pasture. As we mentioned before, [goats will eat weeds](/can-goats-eat-lambsquarter-weed/) and other plants that horses cannot reach. This can help keep the pasture clean and free of harmful plants.
+If your animals can graze together, you will not need to feed them as much hay.
 
-Lastly, grazing goats and horses together can provide socialization for both animals. Goats are social animals and enjoy being around other animals. This can help prevent boredom and loneliness.
+Another benefits that goats can help improve the quality of the pasture. As we mentioned before, [goats will eat weeds](/can-goats-eat-lambsquarter-weed/) and other plants that horses cannot reach.
+
+This can help keep the pasture clean and free of harmful plants.
+
+Lastly, grazing goats and horses together can provide socialization for both animals. Goats are social animals and enjoy being around other animals.
+
+This can help prevent boredom and loneliness.
 
 ## What are some tips for grazing goats and horses together?
 
@@ -96,7 +104,9 @@ By taking into account the needs of both animals, it's possible to create a bala
 
 ## How to create a goat-horse pasture?
 
-You may be wondering how to create a goat-horse pasture. If so, you are not alone. This is a common question among those who are new to raising goats.
+You may be wondering how to create a goat-horse pasture. If so, you are not alone.
+
+This is a common question among those who are new to raising goats.
 
 While goats are generally considered to be independent animals, they can benefit from being grazing partners with horses.
 
@@ -110,7 +120,9 @@ By taking these factors into account, you can create a safe and productive grazi
 
 ## What do you need to consider before grazing them together?
 
-There are a few things you need to consider before grazing animals together. The first is compatibility. Some animals get along better than others and can graze peacefully together, while others may fight or bully each other.
+There are a few things you need to consider before grazing animals together. The first is compatibility.
+
+Some animals get along better than others and can graze peacefully together, while others may fight or bully each other.
 
 You also need to consider the size of the animals. If you have large and small animals grazing together, the smaller ones may have a hard time getting their share of food.
 
@@ -124,7 +136,9 @@ So, you need to make sure that all of the animals are healthy before putting the
 
 One of the most common questions pet owners ask is how to make sure their new pet gets along peacefully with their existing pets. The good news is that there are a few simple things you can do to help encourage harmony in your home.
 
-First, you need to give each pet their own space. This means providing each pet with its food and [water bowls](/can-i-treat-coccidia-in-goats-in-their-water-bowl/), bed, and toys. This will help to prevent competition over resources and give each pet a sense of control over its environment.
+First, you need to give each pet their own space. This means providing each pet with its food and [water bowls](/can-i-treat-coccidia-in-goats-in-their-water-bowl/), bed, and toys.
+
+This will help to prevent competition over resources and give each pet a sense of control over its environment.
 
 Second, make sure to provide plenty of opportunities for exercise and play. A tired pet is a happy pet, and this will help to reduce boredom and stress levels.
 
@@ -138,14 +152,20 @@ Since animals graze so close to the ground, they can easily spread diseases betw
 
 Another risk is injury. If the animals are not compatible, they may fight or bully each other, which can lead to injuries.
 
-Lastly, you need to be aware of the potential for parasites. When animals graze together, they can easily spread parasites between them. So, you need to have a good deworming and parasite control program in place.
+Lastly, you need to be aware of the potential for parasites. When animals graze together, they can easily spread parasites between them.
+
+So, you need to have a good deworming and parasite control program in place.
 
 ## Final Thoughts
 
-Goats and horses can pasture together, but there are a few things you need to consider before doing so. The most important thing is compatibility. Some animals get along better than others, and you don't want your animals to fight or bully each other.
+Goats and horses can pasture together, but there are a few things you need to consider before doing so. The most important thing is compatibility.
+
+Some animals get along better than others, and you don't want your animals to fight or bully each other.
 
 You also need to consider the size of the animals. If you have large and small animals grazing together, the smaller ones may have a hard time getting their share of food.
 
 Another thing to think about is the type of pasture. Some plants are more palatable than others, so you'll need to make sure there's a good mix of grasses and other plants for the animals to graze on.
 
-Finally, you need to be aware of the potential for disease transmission. When animals graze together, they can easily spread diseases between them. So, you need to make sure that all of the animals are healthy before putting them out to pasture together.
+Finally, you need to be aware of the potential for disease transmission. When animals graze together, they can easily spread diseases between them.
+
+So, you need to make sure that all of the animals are healthy before putting them out to pasture together.

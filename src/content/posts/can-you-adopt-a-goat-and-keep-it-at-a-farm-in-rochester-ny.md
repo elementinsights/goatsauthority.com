@@ -52,7 +52,9 @@ In addition, you will need to provide your goat with a shelter that is large eno
 
 You will also need to have a fence that is high enough to keep your goat contained. It is important to note that [goats are known for their climbing abilities](/can-a-goat-climb-trees/), so the fence will need to be made of materials that they cannot climb or jump over.
 
-Finally, you will [need to provide your goat with food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation. You can either grow your own food for them or purchase hay from a local farm.
+Finally, you will [need to provide your goat with food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation.
+
+You can either grow your own food for them or purchase hay from a local farm.
 
 Water should be available to them at all times, and it should be fresh and clean. Goats will also need access to minerals, such as salt blocks, which they can use to supplement their diet.
 
@@ -68,13 +70,17 @@ After the adoption is complete, you'll need to provide the farm with proof of in
 
 ## What are the benefits of owning a pet goat?
 
-Owning a pet goat comes with a number of benefits. First, goats are intelligent and resourceful animals. They are known for their problem-solving skills, and they are quick learners.
+Owning a pet goat comes with a number of benefits. First, goats are intelligent and resourceful animals.
+
+They are known for their problem-solving skills, and they are quick learners.
 
 This means that they can be trained to do tricks, perform tasks, and even compete in agility trials. Secondly, goats are very social creatures.
 
 They form strong bonds with their owners and enjoy spending time with them. They are also very curious animals, which can make them great companions.
 
-Thirdly, goats are relatively low-maintenance pets. They don't require a lot of space, and they can live on a diet of hay and pellets. fourth, goats can provide dairy products such as milk and cheese.
+Thirdly, goats are relatively low-maintenance pets. They don't require a lot of space, and they can live on a diet of hay and pellets.
+
+fourth, goats can provide dairy products such as milk and cheese.
 
 And finally, goats can be used for their fur or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
 
@@ -86,7 +92,9 @@ First of all, goats are very social creatures, so it's important to spend some t
 
 Secondly, goats need plenty of space to roam and play. if you confine them to a small space, they will quickly become bored and destructive.
 
-Lastly, goats are browsers, not grazers like cows. this means that they prefer to eat shrubs and leaves rather than grass. so, make sure to provide your goat with plenty of fresh browse to munch on.
+Lastly, goats are browsers, not grazers like cows. this means that they prefer to eat shrubs and leaves rather than grass.
+
+so, make sure to provide your goat with plenty of fresh browse to munch on.
 
 ## What kind of food and shelter do goats need?
 
@@ -108,11 +116,15 @@ But, there are a few things to keep in mind before taking the plunge into goat o
 
 They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
 
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet. But with a little planning and preparation, raising goats can be a fun and rewarding experience.
+Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet.
+
+But with a little planning and preparation, raising goats can be a fun and rewarding experience.
 
 ## Fun facts about goats
 
-Goats are intelligent creatures that have a reputation for being Stubborn. But, goats are also known to be gentle, curious, and affectionate animals. Here are a few fun facts about goats:
+Goats are intelligent creatures that have a reputation for being Stubborn. But, goats are also known to be gentle, curious, and affectionate animals.
+
+Here are a few fun facts about goats:
 
 - [Goats were one of the first animals to be domesticated by humans](/can-domestic-goats-jump/).
 - [Goats are able to climb mountains](/can-mountain-goats-climb-cliffs/) and live in high altitudes.
@@ -128,6 +140,10 @@ Goats are intelligent creatures that have a reputation for being Stubborn. But, 
 
 Overall, you can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
 
-However, there are a few things to keep in mind before taking the plunge into goat ownership. First, goats need plenty of space to roam and explore. They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
+However, there are a few things to keep in mind before taking the plunge into goat ownership. First, goats need plenty of space to roam and explore.
 
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet. But with a little planning and preparation, raising goats can be a fun and rewarding experience.
+They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
+
+Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet.
+
+But with a little planning and preparation, raising goats can be a fun and rewarding experience.

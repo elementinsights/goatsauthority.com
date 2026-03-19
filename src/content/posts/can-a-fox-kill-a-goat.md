@@ -44,21 +44,33 @@ Finally, we'll offer some advice on what to do if a fox is discovered in your go
 
 ## Can a fox kill a goat?
 
-**A fox could kill a goat if the circumstances were right. Though it's unlikely. Foxes are predators, and their main diet consists of small mammals like rabbits and rodents. However, they will also eat birds, reptiles, amphibians, fish, insects, fruits, and veggies.**
+**A fox could kill a goat if the circumstances were right. Though it's unlikely.**
 
-So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down. Still, young kids are vulnerable. A fox might also steal pet goats for food. If a goat is sick or injured, a fox might attack it as well.
+**Foxes are predators, and their main diet consists of small mammals like rabbits and rodents. However, they will also eat birds, reptiles, amphibians, fish, insects, fruits, and veggies.**
+
+So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down.
+
+Still, young kids are vulnerable. A fox might also steal pet goats for food.
+
+If a goat is sick or injured, a fox might attack it as well.
 
 In general, though, foxes pose little threat to healthy adult goats since they are not on the same level in the food chain.
 
 ## What kind of fox can kill a goat?
 
-The type of fox that can kill a goat is the red fox. The red fox is the largest and most common type of fox. It's characterized by its reddish-brown fur, white chest, and black legs.
+The type of fox that can kill a goat is the red fox. The red fox is the largest and most common type of fox.
+
+It's characterized by its reddish-brown fur, white chest, and black legs.
 
 The red fox is a predatory animal with sharp teeth and powerful jaws. It's also an excellent jumper and runner, which allows it to chase down its prey.
 
-When hunting, the red fox will first attempt to kill its prey with a quick bite to the neck. If this does not work, it will then try to suffocate its prey by biting its nose or mouth. In some cases, the red fox will also eat its prey alive.
+When hunting, the red fox will first attempt to kill its prey with a quick bite to the neck. If this does not work, it will then try to suffocate its prey by biting its nose or mouth.
 
-While the red fox is capable of killing a goat, it's not their preferred food source. The red fox typically feeds on small mammals such as rabbits, rodents, and birds. However, if food is scarce, the red fox will consume just about anything, including garbage and carrion.
+In some cases, the red fox will also eat its prey alive.
+
+While the red fox is capable of killing a goat, it's not their preferred food source. The red fox typically feeds on small mammals such as rabbits, rodents, and birds.
+
+However, if food is scarce, the red fox will consume just about anything, including garbage and carrion.
 
 Consequently, if a red fox does kill a goat, it's likely because it was desperate or starving.
 
@@ -90,11 +102,15 @@ Here are some tips for keeping your goats safe from foxes:
 
 ## What kind of animal can protect your goat from a fox?
 
-One animal that can protect your goat from a fox is a guard dog. A guard dog will stay with the goats and protect them from predators. The best breeds of dogs for this purpose are those that are large and have a strong bark.
+One animal that can protect your goat from a fox is a guard dog. A guard dog will stay with the goats and protect them from predators.
+
+The best breeds of dogs for this purpose are those that are large and have a strong bark.
 
 Some examples of breeds that could be used as guard dogs include the Anatolian shepherd, the Great Pyrenees, and the Kuvasz.
 
-Another animal that can help to protect your goat from a fox is a donkey. Donkeys are very territorial and will chase away any animals that they perceive as a threat. In addition, they are very Loud and will make a lot of noise if they sense danger.
+Another animal that can help to protect your goat from a fox is a donkey. Donkeys are very territorial and will chase away any animals that they perceive as a threat.
+
+In addition, they are very Loud and will make a lot of noise if they sense danger.
 
 This can help to scare off predators such as foxes before they have a chance to attack.
 
@@ -104,7 +120,9 @@ In addition, llamas are very strong and can easily overpower a fox if necessary.
 
 ## Is the electric fence safe for goats?
 
-Electric fences are a safe, effective way to contain goats. When used properly, they provide a physical barrier that goats cannot cross. Electric fences are also relatively inexpensive and easy to install.
+Electric fences are a safe, effective way to contain goats. When used properly, they provide a physical barrier that goats cannot cross.
+
+Electric fences are also relatively inexpensive and easy to install.
 
 But it's also important to keep in mind that goats are curious creatures and may try to test the fence by chewing on it or leaning against it.
 

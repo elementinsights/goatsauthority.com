@@ -50,15 +50,21 @@ In this article, we will answer all of your questions about whether or not domes
 
 ## Can domestic goats jump?
 
-**[Domestic goats](/can-i-eat-goat-legs-during-pregnancy/) can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground. They also have a strong sense of balance, which helps them to land on their feet after they have jumped.**
+**[Domestic goats](/can-i-eat-goat-legs-during-pregnancy/) can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground.**
 
-However, it's important to note that not all goats enjoy jumping. Some goats may be timider and prefer to stay on the ground. If you have a goat that does not like to jump, it's crucial to not force them to do so. This could lead to them becoming injured or stressed.
+**They also have a strong sense of balance, which helps them to land on their feet after they have jumped.**
+
+However, it's important to note that not all goats enjoy jumping. Some goats may be timider and prefer to stay on the ground.
+
+If you have a goat that does not like to jump, it's crucial to not force them to do so. This could lead to them becoming injured or stressed.
 
 ## How high can domestic goats jump?
 
 Domestic goats are members of the Capra genus, which includes all goat-antelope species. Interestingly, the word Capra is derived from an Indo-European root meaning "rocky place."
 
-Domestic goats are descendants of the wild bezoar goat, which still roams the mountains of central and southwestern Asia. Fully grown, bezoars stand about 3 feet tall at the shoulder and can weigh up to 200 pounds. Though stoutly built, these hardy creatures are amazingly agile.
+Domestic goats are descendants of the wild bezoar goat, which still roams the mountains of central and southwestern Asia. Fully grown, bezoars stand about 3 feet tall at the shoulder and can weigh up to 200 pounds.
+
+Though stoutly built, these hardy creatures are amazingly agile.
 
 They can sure-footedly scale steep, rocky slopes that would leave a [mountain goat gasping for breath](/can-a-mountain-goat-kill-you/), and they have been known to jump 6 feet high from a standing start.
 
@@ -70,7 +76,9 @@ Domestic [goats are known for their habit of jumping and climbing](/can-goats-cl
 
 For one thing, jumping is a great way for goats to get exercise. Goats are very active animals, and they need to expend a lot of energy to stay healthy.
 
-In addition, jumping helps goats to stretch their muscles and keep their joints flexible. Goats also use jumping as a way to communicate with other members of their herd. By jumping up and down, they can signal their excitement or displeasure.
+In addition, jumping helps goats to stretch their muscles and keep their joints flexible. Goats also use jumping as a way to communicate with other members of their herd.
+
+By jumping up and down, they can signal their excitement or displeasure.
 
 Finally, goats jump simply because they enjoy it. Just like humans, goats sometimes just feel the need to let loose and have some fun.
 
@@ -90,7 +98,9 @@ With patience and perseverance, you can [train your goat](/can-baby-goats-be-hou
 
 ## What are some common obstacles that goats are trained to jump over?
 
-[Goats are agile creatures that enjoy jumping and climbing](/can-a-goat-climb-trees/). As such, they can be trained to jump over a variety of obstacles. Common obstacles that goats are trained to jump over include barrels, hurdles, and fences.
+[Goats are agile creatures that enjoy jumping and climbing](/can-a-goat-climb-trees/). As such, they can be trained to jump over a variety of obstacles.
+
+Common obstacles that goats are trained to jump over include barrels, hurdles, and fences.
 
 Goats are natural jumpers and will often jump simply for the fun of it. But, they can also be taught to jump on command.
 
@@ -100,7 +110,9 @@ With patience and positive reinforcement, most goats can be easily trained to ju
 
 ## Are there any benefits to training your goat to jump?
 
-Many people think of goats as lazy animals that spend their days eating and lounging around. However, goats are actually very intelligent and trainable creatures. One popular trick that goats can learn is jumping.
+Many people think of goats as lazy animals that spend their days eating and lounging around. However, goats are actually very intelligent and trainable creatures.
+
+One popular trick that goats can learn is jumping.
 
 While this may seem like a pointless party trick, there are actually several [benefits to teaching your goat](/can-benadryl-hurt-a-goat/) to jump.
 
@@ -128,7 +140,9 @@ Training a goat to jump may sound like a daunting task, but it's actually quite 
 
 All you need is some patience and basic goat-training supplies, which can be easily found at any pet store.
 
-The first step is to get the goat accustomed to being around people. Once the goat is comfortable, you can begin teaching it simple tricks like sitting and lying down. As the goat gets more comfortable with you, you can start adding obstacles for it to jump over.
+The first step is to get the goat accustomed to being around people. Once the goat is comfortable, you can begin teaching it simple tricks like sitting and lying down.
+
+As the goat gets more comfortable with you, you can start adding obstacles for it to jump over.
 
 A low hurdle is a good place to start; gradually increase the height of the hurdle as the goat becomes more adept at jumping.
 

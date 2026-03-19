@@ -48,11 +48,15 @@ The advantages and drawbacks of letting your goat munch on some sticker bushes w
 
 ## Can a goat eat sticker bushes?
 
-**A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm. Sticker bushes are a member of the family Euphorbiaceae, which also includes several hazardous plants.**
+**A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm.**
+
+**Sticker bushes are a member of the family Euphorbiaceae, which also includes several hazardous plants.**
 
 However, goats are resistant to the poisonous effects of these plants thanks to a special enzyme in their gut. This enzyme breaks down the toxic compounds in the plants, making them safe for goats to consume.
 
-Goats will often eat sticker bushes when other food sources are scarce. Still, it's important to provide goats with a balanced diet and not let them graze on sticker bushes all the time. Over-consumption of these plants can lead to health problems such as liver damage.
+Goats will often eat sticker bushes when other food sources are scarce. Still, it's important to provide goats with a balanced diet and not let them graze on sticker bushes all the time.
+
+Over-consumption of these plants can lead to health problems such as liver damage.
 
 ## What are sticker bushes and what do they look like?
 
@@ -70,7 +74,9 @@ They are relatively drought-tolerant but will need more water if they are growin
 
 ## What are the benefits of goats eating sticker bushes?
 
-Goats are very versatile creatures. They can be used for their milk, meat, hair, and skin. They can also be used as pack animals and for agricultural purposes such as clearing land.
+Goats are very versatile creatures. They can be used for their milk, meat, hair, and skin.
+
+They can also be used as pack animals and for agricultural purposes such as clearing land.
 
 One way that goats are particularly useful is their ability to eat sticker bushes. Sticker bushes are a type of plant that is not palatable to most animals, so it's considered a nuisance by many farmers and landowners.
 
@@ -90,7 +96,9 @@ Consequently, there are many reasons why goats eating sticker bushes can be adva
 
 Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them.
 
-One type of plant that can be particularly dangerous for goats is the sticker bush. Sticker bushes are common in many parts of the world, and they can be found in both cultivated and wild areas. The plants are easily recognizable by their sharp, thin leaves.
+One type of plant that can be particularly dangerous for goats is the sticker bush. Sticker bushes are common in many parts of the world, and they can be found in both cultivated and wild areas.
+
+The plants are easily recognizable by their sharp, thin leaves.
 
 While sticker bushes aren't poisonous, they can cause a number of problems for goats who consume them. The sharp leaves can cut the inside of a goat's mouth and throat, causing pain and irritation.
 
@@ -140,7 +148,9 @@ There are also many types of sticker bushes that are perfectly safe for goats to
 
 When selecting sticker bushes for goats, it's important to choose ones that are known to be safe for the animal. Otherwise, you run the risk of causing serious health problems.
 
-Can all goats eat sticker bushes? The answer is no, only some types of these bushes are safe for consumption by goats. The rest can pose a serious health hazard to the animal.
+Can all goats eat sticker bushes? The answer is no, only some types of these bushes are safe for consumption by goats.
+
+The rest can pose a serious health hazard to the animal.
 
 When choosing sticker bushes for your goat, be sure to select ones that are known to be safe for the animal. This will help to ensure that your goat remains healthy and happy.
 

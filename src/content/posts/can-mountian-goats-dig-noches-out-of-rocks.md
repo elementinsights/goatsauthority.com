@@ -41,14 +41,17 @@ faq:
   - question: "Are there any risks associated with mountain goats digging noches out of rocks?"
     answer: "The presence of mountain goats in some areas can lead to the formation and expansion of their characteristic noches, or pits, in rocky terrain."
 ---
+Mountain goats are well known for their climbing abilities, but how about digging? Can mountian goats dig noches out of rocks?
 
-Mountain goats are well known for their climbing abilities, but how about digging? Can mountian goats dig noches out of rocks? And if so, what do they use them for?
+And if so, what do they use them for?
 
 In this article, we'll explore the possibility of mountain goats digging noches out of rocks, and what they might use them for.
 
 ## Can mountain goats dig noches out of rocks?
 
-**[Mountain goats](/can-a-mountain-goat-kill-you/) can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole. They also use their horns to help them climb steep cliffs and scramble over obstacles.**
+**[Mountain goats](/can-a-mountain-goat-kill-you/) can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole.**
+
+**They also use their horns to help them climb steep cliffs and scramble over obstacles.**
 
 In addition to their hooves and horns, mountain goats have another tool that helps them break up rocks: their teeth. Mountain [goats have very strong teeth that can bite through tough materials](/can-goats-bite/) like wood and bone.
 
@@ -80,7 +83,9 @@ Whether you're a casual hiker or a seasoned wilderness explorer, it's worth a tr
 
 The presence of mountain goats in some areas can lead to the formation and expansion of their characteristic noches, or pits, in rocky terrain.
 
-These noches play an important role for mountain goats by providing a safe place for them to rest and giving them easy access to nutrients found within the rocks. There are, however, some risks associated with this behavior. For example, noches can fill with rainwater, which can make them unstable and [potentially dangerous for goats](/can-a-plastic-bag-hurt-a-goat/) that are resting inside.
+These noches play an important role for mountain goats by providing a safe place for them to rest and giving them easy access to nutrients found within the rocks. There are, however, some risks associated with this behavior.
+
+For example, noches can fill with rainwater, which can make them unstable and [potentially dangerous for goats](/can-a-plastic-bag-hurt-a-goat/) that are resting inside.
 
 Additionally, as goats continue to excavate new holes, there is greater potential for rockslides or other accidents caused by destabilized terrain.
 

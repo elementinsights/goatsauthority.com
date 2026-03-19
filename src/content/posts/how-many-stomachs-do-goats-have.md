@@ -46,7 +46,9 @@ And also, we'll provide you with more details regarding goats' stomachs in gener
 
 ## How many stomachs do goats have?
 
-**There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently. The rumen, reticulum, omasum, and abomasum are the four stomachs. The goat's stomachs each serve a distinct function in the digestion of the food it consumes.**
+**There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently.**
+
+**The rumen, reticulum, omasum, and abomasum are the four stomachs. The goat's stomachs each serve a distinct function in the digestion of the food it consumes.**
 
 The largest of the four stomachs is the rumen, which acts as a holding tank for food. The rumen is filled with bacteria that help break down the food.
 
@@ -76,11 +78,15 @@ Although goats are mostly herbivores, their stomachs are designed to digest both
 
 ## Do all goats have four stomachs?
 
-Not all goats have four stomachs. In fact, the majority of goats only have three stomachs. The fourth stomach, the abomasum, is only found in about 10% of goats.
+Not all goats have four stomachs. In fact, the majority of goats only have three stomachs.
+
+The fourth stomach, the abomasum, is only found in about 10% of goats.
 
 The reason for this difference is due to a genetic mutation that occurred at some point in time. This mutation resulted in the abomasum being absent in some goats.
 
-While this may not seem like a big deal, it actually is. Goats with only three stomachs are not able to digest food as efficiently as those with four. This can lead to health problems down the road.
+While this may not seem like a big deal, it actually is. Goats with only three stomachs are not able to digest food as efficiently as those with four.
+
+This can lead to health problems down the road.
 
 ## What are some common problems with goats' stomachs?
 
@@ -102,9 +108,13 @@ Here are some other common digestive problems in goats:
 
 ## How can you prevent problems with your goat's stomach?
 
-One of the most common problems that can affect a goat's stomach is known as bloat. Bloat occurs when the stomach fills with gas, causing it to become distended. If left untreated, bloat can be fatal.
+One of the most common problems that can affect a goat's stomach is known as bloat. Bloat occurs when the stomach fills with gas, causing it to become distended.
 
-There are several things that you can do to help prevent bloat from occurring. First, make sure that your goat has access to plenty of fresh water. Goats are notorious for being messy drinkers, so you may need to provide multiple water sources to encourage them to stay hydrated.
+If left untreated, bloat can be fatal.
+
+There are several things that you can do to help prevent bloat from occurring. First, make sure that your goat has access to plenty of fresh water.
+
+Goats are notorious for being messy drinkers, so you may need to provide multiple water sources to encourage them to stay hydrated.
 
 Second, avoid feeding your goats too much at one time. It's best to split their meals into multiple small feedings throughout the day.
 
@@ -120,7 +130,9 @@ In some cases, it may also be necessary to provide electrolytes or other fluids 
 
 ## How can you keep your goat's stomach healthy?
 
-There are several things that you can do to keep your goat's stomach healthy. First, you need to feed them a variety of different foods. Hay, grass, and grains are all good options. You should also make sure that they have access to clean water at all times.
+There are several things that you can do to keep your goat's stomach healthy. First, you need to feed them a variety of different foods.
+
+Hay, grass, and grains are all good options. You should also make sure that they have access to clean water at all times.
 
 Second, you need to maintain a balance of good bacteria in their stomach. This can be done by feeding them probiotics or fermented foods.
 
@@ -128,6 +140,10 @@ Finally, you should avoid giving them any food that could potentially be contami
 
 ## Final Thoughts
 
-Goats are interesting creatures with a lot of quirks. One of the most curious things about them is the fact that they have multiple stomachs. While this may seem confusing, it actually helps them to digest their food more efficiently.
+Goats are interesting creatures with a lot of quirks. One of the most curious things about them is the fact that they have multiple stomachs.
 
-If you have goats, it's crucial to be aware of the common stomach problems that can affect them. Overall, goats are relatively easy to care for animals. However, their stomachs can be delicate and require special care.
+While this may seem confusing, it actually helps them to digest their food more efficiently.
+
+If you have goats, it's crucial to be aware of the common stomach problems that can affect them. Overall, goats are relatively easy to care for animals.
+
+However, their stomachs can be delicate and require special care.

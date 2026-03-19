@@ -46,13 +46,17 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I own goats in Medford, Oregon?
 
-**[You can own goats in Medford, Oregon](/can-i-have-goats-in-the-city-of-lincoln-city-oregon/) as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon. They are also allowed in most zoned agricultural and rural residential areas.**
+**[You can own goats in Medford, Oregon](/can-i-have-goats-in-the-city-of-lincoln-city-oregon/) as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon.**
+
+**They are also allowed in most zoned agricultural and rural residential areas.**
 
 There are a few [things to consider before getting goats](/can-a-dog-get-sick-from-a-goat/), such as whether you have enough space for them and whether you're prepared to handle their care.
 
 Goats need plenty of space to roam and exercise, so you'll need at least a half-acre of land for two goats. They also need access to shelter, fresh water, and food.
 
-As far as their care, [goats need to be vaccinated and dewormed](/can-goats-have-cattle-dewormer-blocks/) regularly. They also need their hooves trimmed every few months. If you're not prepared to do this yourself, you'll need to hire a professional.
+As far as their care, [goats need to be vaccinated and dewormed](/can-goats-have-cattle-dewormer-blocks/) regularly. They also need their hooves trimmed every few months.
+
+If you're not prepared to do this yourself, you'll need to hire a professional.
 
 ## What are the requirements for owning goats in Medford, Oregon?
 
@@ -96,7 +100,7 @@ Depending on your climate and the specific needs of your herd, this shelter migh
 
 You will also need to invest in sturdy fencing that will keep your goats appropriately contained but also give them plenty of room to roam and graze. Ideally, your goat enclosure should be at least six feet high, with no gaps or holes through which a goat could potentially escape.
 
-When it comes to providing the right housing and fencing for your goats in Medford, there are many factors to consider – but with careful planning and research, you can create the ideal environment for raising happy and healthy herds.
+When it comes to providing the right housing and fencing for your goats in Medford, there are many factors to consider, but with careful planning and research, you can create the ideal environment for raising happy and healthy herds.
 
 ## How to care for your goats in Medford, Oregon?
 

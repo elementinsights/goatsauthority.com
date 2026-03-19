@@ -48,9 +48,13 @@ So, it's no surprise that some people wonder if goats can climb trees. We'll loo
 
 ## Can a goat climb trees?
 
-**Goats have amazing climbing skills. They can squeeze into tight areas thanks to their adaptable bodies, and their sharp hooves help them grip uneven ground. In search of food or a better view, they may also climb up trees or rocks due to a natural impulse to explore their surroundings.**
+**Goats have amazing climbing skills. They can squeeze into tight areas thanks to their adaptable bodies, and their sharp hooves help them grip uneven ground.**
 
-There are many reasons why goats climb trees. In some cases, it's simply because they're curious and want to explore their surroundings. But in other instances, it could be out of necessity.
+**In search of food or a better view, they may also climb up trees or rocks due to a natural impulse to explore their surroundings.**
+
+There are many reasons why goats climb trees. In some cases, it's simply because they're curious and want to explore their surroundings.
+
+But in other instances, it could be out of necessity.
 
 For example, if a goat is trying to escape from a predator, he may climb up into a tree to safety. Or if a goat is trying to reach food that's out of his grazing range, he may use a tree as a ladder.
 
@@ -58,7 +62,9 @@ Whatever the reason, there's no doubt that goats are capable climbers. So if you
 
 ## Do all goats climb trees?
 
-No, not all goats climb trees. In fact, most goats avoid climbing altogether. It's generally only the young ones who are curious enough to explore their surroundings in this way.
+No, not all goats climb trees. In fact, most goats avoid climbing altogether.
+
+It's generally only the young ones who are curious enough to explore their surroundings in this way.
 
 That said, there are some breeds of goats that are more likely to climb than others. Pygmy goats and mountain goats, for instance, are known for their impressive climbing abilities.
 
@@ -74,9 +80,13 @@ In addition, climbing trees gives goats a chance to graze on leaves and branches
 
 ## Are there any dangers associated with goats climbing trees?
 
-It's not uncommon to see goats climbing trees. Indeed, this behavior is often normal and harmless. However, there are some potential dangers associated with it.
+It's not uncommon to see goats climbing trees. Indeed, this behavior is often normal and harmless.
 
-First, if a goat climbs too high, it may fall and injure itself. Second, a goat's hooves can damage the bark of a tree, which can lead to the tree eventually dying. Finally, if a goat climbs a fruit tree, it may eat all of the fruit, leaving none for humans to enjoy.
+However, there are some potential dangers associated with it.
+
+First, if a goat climbs too high, it may fall and injure itself. Second, a goat's hooves can damage the bark of a tree, which can lead to the tree eventually dying.
+
+Finally, if a goat climbs a fruit tree, it may eat all of the fruit, leaving none for humans to enjoy.
 
 While these dangers are real, they can be easily avoided by supervising goats when they are near trees and keeping them from climbing too high. With a little care, goats and trees can coexist peacefully.
 
@@ -92,9 +102,13 @@ You can also place some food or treats at the top of the tree to encourage him t
 
 ## How to get a goat down from a tree if necessary?
 
-Just like any other pet, goats can sometimes get themselves into places they're not supposed to be. If you have a goat that's gotten up into a tree, don't panic. There are a few things you can do to safely get your goat down.
+Just like any other pet, goats can sometimes get themselves into places they're not supposed to be. If you have a goat that's gotten up into a tree, don't panic.
 
-If the goat is small enough, you may be able to simply lift it down from the tree. Have someone hold the goat's front legs while you support its back end. Then, gently lower the goat to the ground. If the goat is too heavy to lift, you'll need to use a rope or ladder to get it down.
+There are a few things you can do to safely get your goat down.
+
+If the goat is small enough, you may be able to simply lift it down from the tree. Have someone hold the goat's front legs while you support its back end.
+
+Then, gently lower the goat to the ground. If the goat is too heavy to lift, you'll need to use a rope or ladder to get it down.
 
 Tie one end of the rope around the base of the tree and the other end around the goat's waist, being careful not to pull too tight. Then, have someone hold onto the goat while you climb up and help lower it down slowly.
 
@@ -130,6 +144,8 @@ So, while it may seem like a strange phenomenon now, goat tree-climbing could be
 
 ## Final Thoughts
 
-A goat can climb a tree for many reasons. Some goats climb trees to escape predators or to get food that is out of reach. Others may do it simply because they are curious creatures that like to explore.
+A goat can climb a tree for many reasons. Some goats climb trees to escape predators or to get food that is out of reach.
+
+Others may do it simply because they are curious creatures that like to explore.
 
 Whatever the reason, goat tree-climbing can be a dangerous activity if not supervised properly. Tree limbs can break and cause the goat to fall, which could lead to serious injury.

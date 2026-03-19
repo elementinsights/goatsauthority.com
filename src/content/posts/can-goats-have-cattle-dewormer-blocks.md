@@ -46,7 +46,9 @@ In this article, we will answer all of your questions so that you can make an in
 
 ## Can goats have cattle dewormer blocks?
 
-**Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats. Goats have a higher tolerance to fenbendazole than cattle and can therefore safely consume larger doses of it.**
+**Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats.**
+
+**Goats have a higher tolerance to fenbendazole than cattle and can therefore safely consume larger doses of it.**
 
 In addition, cattle dewormer blocks usually contain other ingredients that are beneficial for goats such as vitamins A, D, and E.
 
@@ -56,7 +58,9 @@ However, it is important to note that not all cattle dewormer blocks are created
 
 If you need to give your goat a medication called Bute, also known as phenylbutazone, there are some important things to keep in mind.
 
-First, always follow the dosage instructions provided by a goat expert. Second, since Bute can be hard on the stomach, it's best to give it with food or milk. Lastly, be sure to have the proper supplies on hand, including a syringe and gloves.
+First, always follow the dosage instructions provided by a goat expert. Second, since Bute can be hard on the stomach, it's best to give it with food or milk.
+
+Lastly, be sure to have the proper supplies on hand, including a syringe and gloves.
 
 Here's a step-by-step guide to giving your goat Bute:
 
@@ -71,11 +75,17 @@ By following these simple steps, you can ensure that your goat receives the Bute
 
 ## What are the benefits of using cattle dewormer blocks on goats?
 
-There are many [benefits to using cattle dewormer blocks on goats](/can-benadryl-hurt-a-goat/). One of the most important benefits is that it helps to prevent parasites from infecting your goats. Deworming your goats on a regular basis can help to keep them healthy and free from disease.
+There are many [benefits to using cattle dewormer blocks on goats](/can-benadryl-hurt-a-goat/). One of the most important benefits is that it helps to prevent parasites from infecting your goats.
 
-In addition, using cattle dewormer blocks on goats can also help to improve their overall health. Goats that are free from parasites tend to have more energy and are better able to absorb nutrients from their food. This can lead to healthier [goats that are less likely to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
+Deworming your goats on a regular basis can help to keep them healthy and free from disease.
 
-Lastly, using cattle dewormer blocks on goats can also save you money in the long run. By preventing parasites from infecting your goats, you will not have to spend money on treating them for parasitic infections. This can save you a significant amount of money over time.
+In addition, using cattle dewormer blocks on goats can also help to improve their overall health. Goats that are free from parasites tend to have more energy and are better able to absorb nutrients from their food.
+
+This can lead to healthier [goats that are less likely to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
+
+Lastly, using cattle dewormer blocks on goats can also save you money in the long run. By preventing parasites from infecting your goats, you will not have to spend money on treating them for parasitic infections.
+
+This can save you a significant amount of money over time.
 
 ## Are there any risks associated with using cattle dewormer blocks on goats?
 
@@ -101,7 +111,9 @@ The blocks should be placed in an area that is inaccessible to goats, such as in
 
 When it comes to deworming cattle, there are a few things to take into account before selecting a dewormer block.
 
-First, it's important to consider the age and weight of the cattle. Younger, smaller cattle are more susceptible to liver fluke, so a dewormer block that targets this parasite is ideal. It's also important to consider the environment in which the cattle live.
+First, it's important to consider the age and weight of the cattle. Younger, smaller cattle are more susceptible to liver fluke, so a dewormer block that targets this parasite is ideal.
+
+It's also important to consider the environment in which the cattle live.
 
 If they [graze in areas](/can-goats-be-tied-up-for-selective-area-grazing/) with a lot of standing water, for example, they're at a higher risk for contracting parasites that thrive in damp conditions.
 
@@ -117,7 +129,9 @@ This option is safer than using cattle dewormer blocks, as it minimizes the risk
 
 This option is also safe and effective, but it may be more expensive than using cattle dewormer blocks.
 
-Finally, you can also consider using a natural wormer such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products. Talk to a goat expert to see if one of these options is right for your goats.
+Finally, you can also consider using a natural wormer such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products.
+
+Talk to a goat expert to see if one of these options is right for your goats.
 
 ## Final thoughts
 

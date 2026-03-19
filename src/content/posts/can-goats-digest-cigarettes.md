@@ -52,17 +52,25 @@ In this article, we will answer those questions and provide you with more inform
 
 ## Can goats digest cigarettes?
 
-**Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything. They also have a four-chambered stomach that helps them break down their food, which includes cigarettes and other things that most people would not think of as food.**
+**Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything.**
 
-However, it's important to note that just because goats can digest cigarettes does not mean that it's good for them. In fact, cigarettes are one of the worst [things you can give to a goat](/can-a-dog-get-sick-from-a-goat/). They can cause serious health problems, including cancer.
+**They also have a four-chambered stomach that helps them break down their food, which includes cigarettes and other things that most people would not think of as food.**
+
+However, it's important to note that just because goats can digest cigarettes does not mean that it's good for them. In fact, cigarettes are one of the worst [things you can give to a goat](/can-a-dog-get-sick-from-a-goat/).
+
+They can cause serious health problems, including cancer.
 
 ## What is a goat's digestive system like?
 
 They are able to digest a wide variety of food, including plants and leaves that other animals would find indigestible. The goat's stomach is divided into four sections: the rumen, the reticulum, the omasum, and the abomasum.
 
-The rumen is the largest section of the stomach and acts as a storage chamber for food. The reticulum is where food is ground up and mixed with saliva. The omasum helps to absorb water and nutrients from the food.
+The rumen is the largest section of the stomach and acts as a storage chamber for food. The reticulum is where food is ground up and mixed with saliva.
 
-Lastly, the abomasum is where digestion takes place. Goats also have a specially adapted liver that helps to detoxify their bodies. Thanks to their digestive system, goats can thrive on a diet that would leave other animals malnourished.
+The omasum helps to absorb water and nutrients from the food.
+
+Lastly, the abomasum is where digestion takes place. Goats also have a specially adapted liver that helps to detoxify their bodies.
+
+Thanks to their digestive system, goats can thrive on a diet that would leave other animals malnourished.
 
 ## What are the benefits of having a goat that can digest cigarettes?
 
@@ -70,7 +78,9 @@ Goats are interesting animals with unique digestive systems. They are able to di
 
 The goat's stomach is divided into four sections: the rumen, the reticulum, the omasum, and the abomasum. The rumen is the largest section of the stomach and acts as a storage chamber for food.
 
-The reticulum is where food is ground up and mixed with saliva. The omasum helps to absorb water and nutrients from the food. Finally, the abomasum is where digestion takes place. Goats also have a specially adapted liver that helps to detoxify their bodies.
+The reticulum is where food is ground up and mixed with saliva. The omasum helps to absorb water and nutrients from the food.
+
+Finally, the abomasum is where digestion takes place. Goats also have a specially adapted liver that helps to detoxify their bodies.
 
 Thanks to their digestive system, goats can thrive on a diet that would leave other animals malnourished.
 
@@ -112,9 +122,13 @@ it's important to follow a goat expert's guidance and not try to treat your goat
 
 ## Can cigarettes kill goats?
 
-Cigarettes are often touted as being harmful to health, and for good reason. The chemicals in cigarettes can lead to cancer, heart disease, and a host of other health problems. But, cigarettes can also be deadly to animals.
+Cigarettes are often touted as being harmful to health, and for good reason. The chemicals in cigarettes can lead to cancer, heart disease, and a host of other health problems.
 
-In particular, cigarettes have been known to kill goats. Goats are highly sensitive to nicotine, and just a few cigarettes can be enough to cause fatal toxicity. In addition, the chemicals in cigarettes can damage the [goat's liver and kidneys](/can-we-eat-goat-liver/), leading to organ failure.
+But, cigarettes can also be deadly to animals.
+
+In particular, cigarettes have been known to kill goats. Goats are highly sensitive to nicotine, and just a few cigarettes can be enough to cause fatal toxicity.
+
+In addition, the chemicals in cigarettes can damage the [goat's liver and kidneys](/can-we-eat-goat-liver/), leading to organ failure.
 
 Cigarettes are also particularly dangerous to young goats, as their bodies are not yet fully developed and are thus more vulnerable to the toxins in tobacco. As a result, it's best to avoid giving cigarettes to goats, or any other animals for that matter.
 

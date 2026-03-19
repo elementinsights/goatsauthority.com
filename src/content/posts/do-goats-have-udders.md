@@ -43,8 +43,9 @@ faq:
   - question: "What breed of goat has more than two udders?"
     answer: "There are many goat breeds that have more than two udders. These include the Alpine, LaMancha, Nubian, Oberhasli, Toggenburg, and Saanen."
 ---
+Do goats have udders? It's a question that has baffled farmers and pet owners for a long time.
 
-Do goats have udders? It's a question that has baffled farmers and pet owners for a long time. It turns out that the solution is a little more intricate than you initially thought.
+It turns out that the solution is a little more intricate than you initially thought.
 
 The solution to this question will be thoroughly examined in this article, along with community feedback and frequently asked questions.
 
@@ -52,7 +53,9 @@ The solution to this question will be thoroughly examined in this article, along
 
 **Technically speaking, goats have udders, but udders can only be found in female goats (does), which they use for nursing their young and producing milk. Male goats (bucks) lack udders, but they do have teats that are much smaller in size.**
 
-Despite that, there's another type of goat that does not have udders, and that is the Cashmere goat. These goats are bred for their soft, luxurious wool, which is often used in high-end clothing. As a result, they do not produce milk and do not need udders.
+Despite that, there's another type of goat that does not have udders, and that is the Cashmere goat. These goats are bred for their soft, luxurious wool, which is often used in high-end clothing.
+
+As a result, they do not produce milk and do not need udders.
 
 ## What do udders look like?
 
@@ -62,17 +65,25 @@ The udder may be any color, including black, tan, pink, or spotted. Some goats h
 
 ## Do all females have udders?
 
-Not all females have udders. Udders are a secondary sex characteristic in mammals, meaning they only develop in animals that are sexually mature. In order for a female to develop udders, she must first reach sexual maturity and produce the hormone estrogen.
+Not all females have udders. Udders are a secondary sex characteristic in mammals, meaning they only develop in animals that are sexually mature.
 
-Not all females reach sexual maturity. Despite that. Some animals are born without functioning ovaries and can never produce estrogen. These animals will never develop udders, even if they mate.
+In order for a female to develop udders, she must first reach sexual maturity and produce the hormone estrogen.
+
+Not all females reach sexual maturity. Despite that.
+
+Some animals are born without functioning ovaries and can never produce estrogen. These animals will never develop udders, even if they mate.
 
 ## What breed of goat has more than two udders?
 
 There are many goat breeds that have more than two udders. These include the Alpine, LaMancha, Nubian, Oberhasli, Toggenburg, and Saanen.
 
-All of these breeds are known for their large milk production. However, they also have a number of other distinguishing features. For example, the Alpine is a hardy breed that can thrive in cold climates.
+All of these breeds are known for their large milk production. However, they also have a number of other distinguishing features.
 
-The LaMancha is known for its long ears, which help to protect it from predators. The Nubian is a very social breed that enjoys interacting with humans. The Oberhasli is a calm and docile breed that is easy to handle.
+For example, the Alpine is a hardy breed that can thrive in cold climates.
+
+The LaMancha is known for its long ears, which help to protect it from predators. The Nubian is a very social breed that enjoys interacting with humans.
+
+The Oberhasli is a calm and docile breed that is easy to handle.
 
 The Toggenburg is a vigorous and energetic breed that loves to play. Finally, the Saanen is a gentle and affectionate breed that makes an excellent pet.
 
@@ -108,9 +119,13 @@ Ultimately, the best type of udder for a particular goat depends on the animal's
 
 Though often considered a humorous topic, the science behind why goats produce milk without udders is actually quite interesting. To understand how this occurs, one must first understand a bit about goat anatomy.
 
-Rather than having teats, goats have two mammary glands located in their groin area. Each gland is divided into several compartments, each of which contains a teat. When a goat is milked, the milk flows from the compartments and out through the teats.
+Rather than having teats, goats have two mammary glands located in their groin area. Each gland is divided into several compartments, each of which contains a teat.
 
-Though goats lack udders, they do have a small amount of breast tissue. This tissue is located just behind the mammary glands and is used to produce milk for their young. However, this milk is not suitable for human consumption and so is not generally collected.
+When a goat is milked, the milk flows from the compartments and out through the teats.
+
+Though goats lack udders, they do have a small amount of breast tissue. This tissue is located just behind the mammary glands and is used to produce milk for their young.
+
+However, this milk is not suitable for human consumption and so is not generally collected.
 
 When milking a goat, one must be careful not to damage the breast tissue, as this can cause serious health problems for the animal.
 

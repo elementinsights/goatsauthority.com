@@ -90,7 +90,9 @@ Lyme disease is a serious illness that can have a significant impact on both hum
 
 A tick bite from an infected animal transmits the bacteria known as Borrelia burgdorferi, which causes Lyme disease. Fever, sluggishness, appetite loss, and joint pain are some of the signs of Lyme disease in goats.
 
-In some cases, the disease can also lead to more serious health problems such as kidney damage or heart failure. If treated early, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/) from Lyme disease. But, if left untreated, the disease can be fatal.
+In some cases, the disease can also lead to more serious health problems such as kidney damage or heart failure. If treated early, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/) from Lyme disease.
+
+But, if left untreated, the disease can be fatal.
 
 Therefore, if you suspect that your goat may have contracted Lyme disease, you [need to contact a goat expert](/can-contact-with-goats-cause-diarrhea-in-humans/) immediately.
 
@@ -104,7 +106,9 @@ In some cases, more aggressive treatment may be necessary, such as hospitalizati
 
 ## What are the long-term effects of Lyme disease in goats?
 
-Lyme disease is a serious illness that can have a significant impact on both humans and animals. If left untreated, Lyme disease can be fatal. Despite that, with prompt and proper treatment, most goats make a full recovery from the disease.
+Lyme disease is a serious illness that can have a significant impact on both humans and animals. If left untreated, Lyme disease can be fatal.
+
+Despite that, with prompt and proper treatment, most goats make a full recovery from the disease.
 
 In some cases, there may be long-term effects such as joint pain or stiffness, but these are typically mild and resolve with time.
 
@@ -116,7 +120,9 @@ Lyme disease is a serious health concern for both humans and animals, and goats 
 
 Lyme disease is a bacterial infection that is typically transmitted to humans by the bite of an infected tick. While the chances of contracting Lyme disease from a goat are relatively low, it's still possible for the bacteria to be transmitted from an infected animal to a human.
 
-This can occur if the [goat's blood comes into contact](/contact/) with an open wound or if the bacteria are inhaled. In most cases, Lyme disease can be treated successfully with antibiotics. But, if the infection is not caught early, it can lead to serious health complications.
+This can occur if the [goat's blood comes into contact](/contact/) with an open wound or if the bacteria are inhaled. In most cases, Lyme disease can be treated successfully with antibiotics.
+
+But, if the infection is not caught early, it can lead to serious health complications.
 
 As a result, it's crucial for anyone who comes into contact with an infected [goat to be aware of the potential risks](/can-a-plastic-bag-hurt-a-goat/).
 
@@ -126,7 +132,9 @@ Not only can ticks transmit deadly diseases to goats, but they can also be a maj
 
 They are most commonly found in warm, humid environments and often attach themselves to animals, such as goats, in order to feed.
 
-Ticks can transmit a number of diseases to goats, including Lyme disease, anaplasmosis, and ehrlichiosis. These diseases can cause fever, weakness, and lethargy in [affected goats](/can-weather-affect-goats-poop/). In some cases, the diseases can be fatal.
+Ticks can transmit a number of diseases to goats, including Lyme disease, anaplasmosis, and ehrlichiosis. These diseases can cause fever, weakness, and lethargy in [affected goats](/can-weather-affect-goats-poop/).
+
+In some cases, the diseases can be fatal.
 
 Ticks can also transmit other parasites, such as worms, to goats. Therefore, it's important to take measures to prevent ticks from infesting your goat herd.
 
@@ -134,6 +142,10 @@ Some steps you can take include maintaining a clean and well-ventilated barn, tr
 
 ## Final Thoughts
 
-Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick. Lyme disease is a serious illness that can have a significant impact on both humans and animals.
+Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.
 
-If left untreated, Lyme disease can be fatal. But, with prompt and proper treatment, most goats make a full recovery from the disease. In some cases, there may be long-term effects such as joint pain or stiffness, but these are typically mild and resolve with time.
+Lyme disease is a serious illness that can have a significant impact on both humans and animals.
+
+If left untreated, Lyme disease can be fatal. But, with prompt and proper treatment, most goats make a full recovery from the disease.
+
+In some cases, there may be long-term effects such as joint pain or stiffness, but these are typically mild and resolve with time.

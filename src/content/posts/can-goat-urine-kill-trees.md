@@ -43,14 +43,17 @@ faq:
   - question: "Is there any other use for goat urine?"
     answer: "Goat urine can also be used as a pesticide. It contains high levels of ammonia, which is toxic to many insects. When diluted with water, it can be sprayed on plants to kill bugs."
 ---
+It can be challenging to take care of trees and goats, but it's worthwhile to have both, so you might be wondering whether there's anything you can do to keep them both healthy. You might also be curious as to whether goat urine can destroy trees.
 
-It can be challenging to take care of trees and goats, but it's worthwhile to have both, so you might be wondering whether there's anything you can do to keep them both healthy. You might also be curious as to whether goat urine can destroy trees. What are the odds, if such is the case?
+What are the odds, if such is the case?
 
 In this article, we'll address all of your questions about whether or not goat urine may destroy trees. And also, we will give you instructions on how to take care of your trees and goats.
 
 ## Can goat urine kill trees?
 
-**[Goat urine will not kill trees](/can-a-goat-get-addicted-to-human-urine/). In fact, it can actually be good for them. Goat urine contains nitrogen, which is an essential nutrient for plants. This means that goat urine can actually help trees to grow and stay healthy.**
+**[Goat urine will not kill trees](/can-a-goat-get-addicted-to-human-urine/). In fact, it can actually be good for them.**
+
+**Goat urine contains nitrogen, which is an essential nutrient for plants. This means that goat urine can actually help trees to grow and stay healthy.**
 
 Despite this, it's important not to let the goats urinate on the same spot on the ground for too long as this could lead to the development of patches of bare earth.
 
@@ -80,7 +83,9 @@ As a general rule of thumb, mix one-part goat urine with nine parts water. Once 
 
 ## The dangers of using too much goat urine on trees
 
-Goat urine is rich in nitrogen, which is an essential nutrient for plants. But, too much nitrogen can be harmful to trees. It can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
+Goat urine is rich in nitrogen, which is an essential nutrient for plants. But, too much nitrogen can be harmful to trees.
+
+It can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
 
 On top of that, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
@@ -88,7 +93,9 @@ Appropriately, you [need to use goat urine sparingly on trees](/can-a-goat-climb
 
 ## Other ways to take care of your trees and goats
 
-Trees are an important part of any ecosystem. They provide oxygen, help to regulate the climate, and provide homes for wildlife. But, trees can also be a liability if they are not properly cared for.
+Trees are an important part of any ecosystem. They provide oxygen, help to regulate the climate, and provide homes for wildlife.
+
+But, trees can also be a liability if they are not properly cared for.
 
 Storms can topple them, and overgrown roots can damage sidewalks and foundations. To keep your trees healthy and safe, you need to prune them regularly and remove any dead or damaged branches.
 
@@ -102,7 +109,9 @@ To keep your goats healthy and safe, you need to provide them with plenty of fre
 
 ## Is there any other use for goat urine?
 
-Goat urine can also be used as a pesticide. It contains high levels of ammonia, which is toxic to many insects. When diluted with water, it can be sprayed on plants to kill bugs.
+Goat urine can also be used as a pesticide. It contains high levels of ammonia, which is toxic to many insects.
+
+When diluted with water, it can be sprayed on plants to kill bugs.
 
 You need to take note that this method should only be used as a last resort, as it can also kill beneficial insects. On top of that, goat urine can also be used to make biogas.
 
@@ -112,7 +121,9 @@ Biogas is a type of renewable energy that can be used to power homes and busines
 
 ## What happens if goat urine kills a tree?
 
-If [goat urine kills a tree](/can-a-mountain-goat-kill-you/), it's most likely due to the high levels of nitrogen. Nitrogen is an essential nutrient for plants, but too much can be harmful. High levels of nitrogen can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
+If [goat urine kills a tree](/can-a-mountain-goat-kill-you/), it's most likely due to the high levels of nitrogen. Nitrogen is an essential nutrient for plants, but too much can be harmful.
+
+High levels of nitrogen can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
 
 In addition, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
@@ -120,9 +131,13 @@ As a result, you [need to use goat urine sparingly on trees](/can-a-nubian-goat-
 
 ## Why do goats pee on trees?
 
-There are a few reasons why goats might pee on trees. One reason is that they are marking their territory. Goats have a strong sense of smell and they use their urine to communicate with other goats.
+There are a few reasons why goats might pee on trees. One reason is that they are marking their territory.
 
-Another reason is that [goats like to eat the bark of trees](/can-goats-eat-cedar-trees/). This can be harmful to the tree, so the goat urine might deter other goats from eating the bark. Lastly, some people believe that the ammonia in goat urine can kill insects or help to fertilize the soil.
+Goats have a strong sense of smell and they use their urine to communicate with other goats.
+
+Another reason is that [goats like to eat the bark of trees](/can-goats-eat-cedar-trees/). This can be harmful to the tree, so the goat urine might deter other goats from eating the bark.
+
+Lastly, some people believe that the ammonia in goat urine can kill insects or help to fertilize the soil.
 
 However, you need to use caution when using goat urine on trees, as too much can be harmful.
 
@@ -130,13 +145,17 @@ However, you need to use caution when using goat urine on trees, as too much can
 
 If you want to keep your goats from peeing on your trees, you can try a few different things. One option is to [provide them with plenty of fresh water so that they don't need to drink from puddles](/can-horses-drink-water-that-has-goat-poop-in-it/) or streams.
 
-Another option is to build a fence around your trees. This will prevent the goats from getting to the trees and will also deter other animals from entering your property. Finally, you can try training your goats not to pee on the trees.
+Another option is to build a fence around your trees. This will prevent the goats from getting to the trees and will also deter other animals from entering your property.
+
+Finally, you can try training your goats not to pee on the trees.
 
 This can be done by rewarding them with treats when they stay away from the trees. However, you [need to remember that goats are naturally curious creatures](/how-many-babies-do-goats-have-at-a-time/) and they might still try to pee on the trees from time to time.
 
 ## Final Thoughts
 
-Goat urine can have a harmful effect on trees if there's too much nitrogen in the urine. Nitrogen is an essential nutrient for plants, but too much can be harmful. High levels of nitrogen can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
+Goat urine can have a harmful effect on trees if there's too much nitrogen in the urine. Nitrogen is an essential nutrient for plants, but too much can be harmful.
+
+High levels of nitrogen can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
 
 In addition, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 

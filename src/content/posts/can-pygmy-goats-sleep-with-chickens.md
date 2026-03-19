@@ -52,7 +52,9 @@ Despite that, there are a few things you need to consider before letting your py
 
 First, make sure that the chicken coop is big enough for both the chickens and the goats. There should be enough space for the goats to move around and lay down without being crowded.
 
-Second, you will need to provide the goats with their own food and water. Goats are browsers and need a diet that is high in fiber. They also require more water than chickens, so make sure there is a water source that they can access.
+Second, you will need to provide the goats with their own food and water. Goats are browsers and need a diet that is high in fiber.
+
+They also require more water than chickens, so make sure there is a water source that they can access.
 
 Lastly, you will need to keep an eye on the goats to make sure they are not bothering the chickens too much. Pygmy goats are curious by nature and may try to nibble on the feathers of the chickens or their eggs.
 

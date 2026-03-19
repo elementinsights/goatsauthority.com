@@ -54,7 +54,9 @@ In addition, you need to make sure that the bucks are big enough and strong enou
 
 Lastly, you should only put one ram in with a group of bucks. If you have more than one ram, they will fight each other for dominance and this could lead to serious injury or even death.
 
-So, in answer to the question, can rams be in with goat bucks? Yes, but only if the bucks are castrated and big enough to defend themselves. Otherwise, it is best to keep them separate.
+So, in answer to the question, can rams be in with goat bucks? Yes, but only if the bucks are castrated and big enough to defend themselves.
+
+Otherwise, it is best to keep them separate.
 
 ## What are the benefits of keeping rams and goat bucks together?
 

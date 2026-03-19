@@ -48,13 +48,17 @@ In this article, we'll answer the question: can too much field time cause scours
 
 ## Can too much field time cause scours in goats?
 
-**Too much field time can cause scours in goats. If a goat is allowed to graze for too long, they can develop an infection of the gastrointestinal tract, which can lead to scours. They also may eat things that are contaminated with bacteria, which can cause scours.**
+**Too much field time can cause scours in goats. If a goat is allowed to graze for too long, they can develop an infection of the gastrointestinal tract, which can lead to scours.**
+
+**They also may eat things that are contaminated with bacteria, which can cause scours.**
 
 Despite that, there are some things you can do to prevent scours in goats. First, make sure that the pasture is clean and free of any contaminated food or water.
 
 Second, limit the amount of time your goat spends in the pasture. And third, provide your goat with plenty of fresh, clean water to drink.
 
-If your goat does get scoured, it is crucial to treat them immediately. Scours can be fatal if left untreated. The first thing you should do is contact your veterinarian.
+If your goat does get scoured, it is crucial to treat them immediately. Scours can be fatal if left untreated.
+
+The first thing you should do is contact your veterinarian.
 
 They will likely prescribe antibiotics to treat the infection and may also recommend other treatments, such as probiotics or fluid therapy.
 
@@ -70,7 +74,9 @@ If you think your goat might have scoured, it's important to contact a veterinar
 
 ## Causes of scours in goats
 
-Scours, or diarrhea, is a common problem in goats. There are many different potential causes, including infection, parasites, stress, and changes in diet. In most cases, scours is not a serious issue and will resolve on their own.
+Scours, or diarrhea, is a common problem in goats. There are many different potential causes, including infection, parasites, stress, and changes in diet.
+
+In most cases, scours is not a serious issue and will resolve on their own.
 
 Despite that, it can be dangerous if it leads to dehydration. Therefore, it is crucial to keep an eye on goats that are experiencing scours and seek veterinary care if the problem persists.
 
@@ -104,7 +110,9 @@ Although scours can be dangerous, particularly for kids, it is often treatable w
 
 The most important thing is to identify the cause of the scours so that the appropriate treatment can be administered.
 
-A veterinarian can usually help with this. In some cases, scours may resolve on their own if the goat is otherwise healthy. But, it is always best to consult with a vet to be sure.
+A veterinarian can usually help with this. In some cases, scours may resolve on their own if the goat is otherwise healthy.
+
+But, it is always best to consult with a vet to be sure.
 
 ## How to prevent your goat from getting sick in the first place?
 
@@ -114,7 +122,9 @@ First, make sure they have access to fresh, clean water at all times. Goats are 
 
 Second, feed them a balanced diet of hay, grains, and vegetables. Goats are grazing animals animals, so hay should make up the majority of their diet.
 
-But, they also need some grain and veg to stay healthy. Finally, keep their living area clean and free of debris. Goats are susceptible to diseases and parasites, so it's important to keep their environment clean and sanitary.
+But, they also need some grain and veg to stay healthy. Finally, keep their living area clean and free of debris.
+
+Goats are susceptible to diseases and parasites, so it's important to keep their environment clean and sanitary.
 
 By following these simple tips, you can help prevent your goat from getting sick.
 
@@ -136,7 +146,9 @@ If you're unsure whether or not your goat has scours, it's always best to err on
 
 They will be able to help you determine whether or not your goat needs treatment and, if so, what the best course of action is.
 
-Scours is a common problem in goats, but it can be treated with the right medication. If you see any signs of scours, such as diarrhea or vomiting, isolate the affected goat and contact your veterinarian immediately. By taking these simple precautions, you can help prevent scours in goats and keep your herd healthy and happy.
+Scours is a common problem in goats, but it can be treated with the right medication. If you see any signs of scours, such as diarrhea or vomiting, isolate the affected goat and contact your veterinarian immediately.
+
+By taking these simple precautions, you can help prevent scours in goats and keep your herd healthy and happy.
 
 ## Final Thoughts
 

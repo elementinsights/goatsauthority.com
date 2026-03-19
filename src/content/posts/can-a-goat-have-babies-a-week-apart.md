@@ -72,7 +72,9 @@ Although most birthing complications can be resolved without any lasting problem
 
 ## How can you tell when a goat is about to give birth?
 
-There are several signs that a goat is about to give birth. One of the most obvious signs is that the goat's belly will begin to swell as the kids develop. The goat may also become more restless and may start to build a nest in which to give birth.
+There are several signs that a goat is about to give birth. One of the most obvious signs is that the goat's belly will begin to swell as the kids develop.
+
+The goat may also become more restless and may start to build a nest in which to give birth.
 
 Another sign that a goat is about to give birth is that its milk production will decrease. This is due to the fact that the goat's body is redirecting nutrients to the developing kids.
 
@@ -90,11 +92,17 @@ Next, check the vulva for any swelling or discharge and clean it if necessary. F
 
 ## How long does it take for a baby goat to be weaned?
 
-It takes about two months for a [baby goat](/can-8-week-old-baby-goats-be-in-with-each-other/) to be weaned. The process usually begins when the kid is around six weeks old. The first step is to introduce the kid to solid food.
+It takes about two months for a [baby goat](/can-8-week-old-baby-goats-be-in-with-each-other/) to be weaned. The process usually begins when the kid is around six weeks old.
 
-This can be done by offering it a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of hay or grain. The kid will likely be hesitant at first, but it will eventually start to nibble on the food. Once the kid is eating solid food, the next step is to slowly [reduce its milk intake](/can-goat-milk-reduce-wrinkles/).
+The first step is to introduce the kid to solid food.
 
-This can be done by gradually mixing less and less milk into its feed. After a few weeks, the kid should be able to survive on solid food alone. Weaning is an important milestone in a goat's life, and it marks the end of its dependence on its mother's milk.
+This can be done by offering it a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of hay or grain. The kid will likely be hesitant at first, but it will eventually start to nibble on the food.
+
+Once the kid is eating solid food, the next step is to slowly [reduce its milk intake](/can-goat-milk-reduce-wrinkles/).
+
+This can be done by gradually mixing less and less milk into its feed. After a few weeks, the kid should be able to survive on solid food alone.
+
+Weaning is an important milestone in a goat's life, and it marks the end of its dependence on its mother's milk.
 
 The weaning process can be stressful for both the mother and the kid. The mother goat may experience a drop in milk production, and the kid may become anxious and restless.
 
@@ -104,7 +112,9 @@ Weaning can be a difficult time for both [goats and humans](/can-i-give-my-goats
 
 ## Can a goat have babies more than once a year?
 
-A goat can have babies more than once a year. In fact, many goats will have two or even three litters in a single year. This is possible because goats are polyestrous, meaning that they can go into heat multiple times throughout the year.
+A goat can have babies more than once a year. In fact, many goats will have two or even three litters in a single year.
+
+This is possible because goats are polyestrous, meaning that they can go into heat multiple times throughout the year.
 
 Despite that, the length of each [heat cycle varies depending on the breed of goat](/can-a-goat-get-pregnant-when-not-in-heat/) and the time of year.
 
@@ -114,9 +124,13 @@ For example, Alpine goats tend to have longer heat cycles during the winter mont
 
 There are a few other things that you [need to know about breeding goats](/can-you-breed-a-4yr-old-goat/). First, it's important to understand the difference between bucks and does.
 
-Bucks are male goats that are used for breeding purposes. They usually reach sexual maturity at around [six months of age](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/). Bucks typically have larger horns and a more muscular build than does.
+Bucks are male goats that are used for breeding purposes. They usually reach sexual maturity at around [six months of age](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/).
 
-Does are [female goats that are used for breeding purposes](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/). They usually reach sexual maturity at around six months of age. Does typically have smaller horns and a more slender build than bucks.
+Bucks typically have larger horns and a more muscular build than does.
+
+Does are [female goats that are used for breeding purposes](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/). They usually reach sexual maturity at around six months of age.
+
+Does typically have smaller horns and a more slender build than bucks.
 
 It's also important to understand the different types of goat breeds. There are three main types of goat breeds: dairy, meat, and fiber.
 

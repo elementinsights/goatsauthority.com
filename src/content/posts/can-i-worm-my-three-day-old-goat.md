@@ -48,11 +48,15 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I worm my three day old goat?
 
-**You can [worm your three-day-old goat](/can-goats-get-worms-from-acorns/). In fact, it’s recommended that you start worming on them as soon as possible. This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms.**
+**You can [worm your three-day-old goat](/can-goats-get-worms-from-acorns/). In fact, it’s recommended that you start worming on them as soon as possible.**
+
+**This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms.**
 
 There are many different types of worming products available on the market, so it’s important to speak with a goat expert to determine which one is best for your goat. They will also be able to advise you on how often to worm them.
 
-As a general rule of thumb, kids ([baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/)) should be wormed every two weeks until they are six months old. After that, they can be wormed every month. However, this may vary depending on the type of wormer used and your goat’s individual needs.
+As a general rule of thumb, kids ([baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/)) should be wormed every two weeks until they are six months old. After that, they can be wormed every month.
+
+However, this may vary depending on the type of wormer used and your goat’s individual needs.
 
 Worming your goat is an important part of their care, so make sure to add it to your list of regular tasks. This will help to ensure they stay healthy and happy for years to come.
 

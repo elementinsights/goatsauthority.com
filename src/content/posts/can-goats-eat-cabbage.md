@@ -43,12 +43,17 @@ faq:
   - question: "What kind of cabbage is poisonous to goats?"
     answer: "There are many different varieties of cabbage, including green, red, and Savoy. Though cabbage is safe for most animals to eat, there are some types that can be poisonous to goats."
 ---
+Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage?
 
-Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage? What are the risks? And how much should be served at once? This article will answer all of those questions and more.
+What are the risks? And how much should be served at once?
+
+This article will answer all of those questions and more.
 
 ## Can goats eat cabbage?
 
-**Goats can eat cabbage and is a healthy addition to a goat's diet. Cabbage is high in Vitamins A, C as well as fiber and potassium. Cabbage also contains sulfur which has antibacterial properties. For these reasons, cabbage is a healthy addition to a goat's diet.**
+**Goats can eat cabbage and is a healthy addition to a goat's diet. Cabbage is high in Vitamins A, C as well as fiber and potassium.**
+
+**Cabbage also contains sulfur which has antibacterial properties. For these reasons, cabbage is a healthy addition to a goat's diet.**
 
 Cabbage is a leafy green vegetable that is part of the Brassica genus. This genus also includes broccoli, Brussels sprouts, and kale.
 
@@ -56,15 +61,21 @@ However, it's important to feed cabbage in moderation, as too much can cause dig
 
 ## What are the benefits of feeding cabbage to goats?
 
-Cabbage is a leafy green vegetable that is often used in salads and slaws. Despite that, it can also be a portion of valuable food for goats. Goats are browsing animals, which means that they prefer to eat leaves and other foliage rather than grasses.
+Cabbage is a leafy green vegetable that is often used in salads and slaws. Despite that, it can also be a portion of valuable food for goats.
 
-Cabbage is an excellent source of nutrients for goats, and it can help to boost their overall health. And also, cabbage is a relatively low-maintenance crop, and it can be easily grown in most climates. As a result, cabbage can be a valuable addition to any goat diet.
+Goats are browsing animals, which means that they prefer to eat leaves and other foliage rather than grasses.
+
+Cabbage is an excellent source of nutrients for goats, and it can help to boost their overall health. And also, cabbage is a relatively low-maintenance crop, and it can be easily grown in most climates.
+
+As a result, cabbage can be a valuable addition to any goat diet.
 
 ## What are the different kinds of cabbage?
 
 There are many different types of cabbage, and each has its own distinct flavor and texture. The most common type of cabbage is green cabbage, which has a crunchy texture and a slightly sweet flavor.
 
-Red cabbage is another popular variety, and it has a slightly peppery taste and a softer texture. Savoy cabbage is another type of cabbage that is often used in salads and stir-fries. It has a crinkly appearance and a mild, slightly sweet flavor.
+Red cabbage is another popular variety, and it has a slightly peppery taste and a softer texture. Savoy cabbage is another type of cabbage that is often used in salads and stir-fries.
+
+It has a crinkly appearance and a mild, slightly sweet flavor.
 
 Finally, there's the Brussels sprout, which is actually a type of mini cabbage. Brussels sprouts have a nutty flavor and a firm texture.
 
@@ -120,7 +131,9 @@ In addition, baby goats should only eat shredded or chopped cabbage, as large pi
 
 There are many different breeds of goats, and each one has its own unique set of dietary preferences. However, there's one breed of goat that is particularly fond of cabbage: the Pygmy goat.
 
-Pygmy goats are a small breed of domestic goat native to Africa. They are known for their lively personalities and their love of eating foliage. WhilePygmy goats will eat just about anything, they seem to have a particular liking for cabbage.
+Pygmy goats are a small breed of domestic goat native to Africa. They are known for their lively personalities and their love of eating foliage.
+
+WhilePygmy goats will eat just about anything, they seem to have a particular liking for cabbage.
 
 This may be due to the fact that cabbage is rich in nutrients and minerals, which are essential for the health of Pygmy goats.
 
@@ -128,7 +141,9 @@ Cabbage is also a good source of fiber, which helps keep the digestive system of
 
 ## Final Thoughts
 
-Goats can eat cabbage. Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates. The outcome is that it should only be fed to goats in moderation.
+Goats can eat cabbage. Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
+
+The outcome is that it should only be fed to goats in moderation.
 
 Pregnant and nursing goats should avoid cabbage altogether, as nitrates can be harmful to their health. Baby goats can eat cabbage, but only in small quantities.
 

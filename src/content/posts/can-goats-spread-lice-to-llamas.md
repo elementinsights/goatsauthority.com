@@ -50,9 +50,13 @@ In this article, we will answer those questions and provide you with some helpfu
 
 ## Can goats spread lice to llamas?
 
-**Goats cannot spread lice to llamas. Lice are host-specific, meaning they can only live on one type of animal. So, if a goat has lice, the lice will not be able to survive on a llama. They are also not capable of jumping from one animal to another.**
+**Goats cannot spread lice to llamas. Lice are host-specific, meaning they can only live on one type of animal.**
 
-However, it is possible for goats and llamas to share other parasites, such as mites. Mites are not host-specific and can live on multiple types of animals. So, if a goat has mites, they can spread to a llama.
+**So, if a goat has lice, the lice will not be able to survive on a llama. They are also not capable of jumping from one animal to another.**
+
+However, it is possible for goats and llamas to share other parasites, such as mites. Mites are not host-specific and can live on multiple types of animals.
+
+So, if a goat has mites, they can spread to a llama.
 
 ## What are the things you need to do to prevent it?
 
@@ -66,9 +70,13 @@ Some other things you can do to prevent the spread of parasites include:
 
 ## What to do if you think your goats may have lice?
 
-If you think your goats may have lice, there are a few things you can do to confirm your suspicions and get rid of the problem. First, take a close look at your goats' fur. If you see any crawling insects, this is a good indication that your goat has lice.
+If you think your goats may have lice, there are a few things you can do to confirm your suspicions and get rid of the problem. First, take a close look at your goats' fur.
 
-You may also notice that your goats are scratching more than usual, as lice can be quite irritating. Another telltale sign of lice is dull, patchy fur. If you notice any of these signs, it's time to take action.
+If you see any crawling insects, this is a good indication that your goat has lice.
+
+You may also notice that your goats are scratching more than usual, as lice can be quite irritating. Another telltale sign of lice is dull, patchy fur.
+
+If you notice any of these signs, it's time to take action.
 
 There are a few different ways to treat goats with lice. One popular method is to use an insecticide spray specifically designed for livestock.
 
@@ -90,7 +98,9 @@ Whichever treatment you choose, be sure to follow the instructions carefully and
 
 Some people believe that using essential oils can help to treat and prevent lice. There are a few different essential oils that are thought to be effective, including lavender oil, neem oil, and peppermint oil.
 
-These oils can be diluted with [water and sprayed on your goat's fur](/can-i-give-a-sick-goat-water-through-a-syringe/). You can also add a few drops to your goat's shampoo. While there is no scientific evidence to support these claims, some people find that using essential oils is a safe and effective way to treat lice.
+These oils can be diluted with [water and sprayed on your goat's fur](/can-i-give-a-sick-goat-water-through-a-syringe/). You can also add a few drops to your goat's shampoo.
+
+While there is no scientific evidence to support these claims, some people find that using essential oils is a safe and effective way to treat lice.
 
 ## What to do if you think your llama may have lice?
 

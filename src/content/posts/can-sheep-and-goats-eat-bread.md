@@ -100,7 +100,9 @@ By taking these simple steps, you can help to ensure that your sheep and goats s
 
 If you do notice health problems in your sheep or goats after feeding them bread, it is important to consult with a veterinarian as soon as possible.
 
-They will be able to assess the situation and recommend the best course of treatment. In some cases, the problem may be resolved simply by discontinuing the feeding of bread. Despite that, more serious [health problems may require medication](/can-you-disbud-a-goat-without-medication/) or even surgery.
+They will be able to assess the situation and recommend the best course of treatment. In some cases, the problem may be resolved simply by discontinuing the feeding of bread.
+
+Despite that, more serious [health problems may require medication](/can-you-disbud-a-goat-without-medication/) or even surgery.
 
 Regardless, it is always best to seek professional medical help if you are concerned about the health of your animals.
 

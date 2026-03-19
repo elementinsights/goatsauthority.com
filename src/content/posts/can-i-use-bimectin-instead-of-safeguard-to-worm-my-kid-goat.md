@@ -37,14 +37,17 @@ faq:
   - question: "What are the things you need to keep in mind when using Bimectin on your kid goats?"
     answer: "When using Bimectin on your kid goats, there are a few important things to keep in mind. First and foremost, you should always follow the dosing instructions carefully."
 ---
+We all know that goats need to be wormed, but what's the best way to do it? Can you use Bimectin instead of Safeguard?
 
-We all know that goats need to be wormed, but what's the best way to do it? Can you use Bimectin instead of Safeguard? And if so, what are the things you need to keep in mind?
+And if so, what are the things you need to keep in mind?
 
 In this article, we will answer those questions and provide you with addition information on worming your kid goats.
 
 ## Can I use bimectin instead of safeguard to worm my kid goat?
 
-**You can use Bimectin instead of safeguard to treat your kid goat as long as you follow the dosage and administration recommendations. Bimectin is an injectable wormer that is effective against a variety of parasites, including gastrointestinal roundworms. It can be given to**[goats as young as two weeks old](/can-8-week-old-baby-goats-be-in-with-each-other/).
+**You can use Bimectin instead of safeguard to treat your kid goat as long as you follow the dosage and administration recommendations. Bimectin is an injectable wormer that is effective against a variety of parasites, including gastrointestinal roundworms.
+
+It can be given to**[goats as young as two weeks old](/can-8-week-old-baby-goats-be-in-with-each-other/).
 
 Bimectin is not only effective against bots, but it's also ideal for kid goats. Safeguard, however, while being an oral wormer itself, isn't as effective against bots.
 
@@ -120,7 +123,7 @@ Antibiotics help to address many common infections including foot rot and pneumo
 
 Just like with any other type of medication though, antibiotics should only be prescribed after consulting with a licensed veterinarian who has the proper knowledge about which specific antibiotics will work best for each individual animal on your farm.
 
-Overall, there are many factors that come into play when choosing a worming method for your livestock – but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
+Overall, there are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
 
 ## Final Thoughts
 

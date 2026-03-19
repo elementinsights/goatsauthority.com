@@ -44,9 +44,13 @@ In this article, we will answer those questions and provide you with additional 
 
 **Rope halters are often used on goats because they provide owners with versatility while training, leading, and tethering their goats. In addition, rope halters cause less injury to the goat's head and neck in comparison to other types of halters.**
 
-Despite that, there are a few things you need to keep in mind before using a rope halter on your goat. First, make sure that the halter fits properly. A too-tight halter can cause pain and discomfort, while a too-loose halter can slip off easily.
+Despite that, there are a few things you need to keep in mind before using a rope halter on your goat. First, make sure that the halter fits properly.
 
-In addition, you need to be careful when tying the rope halter onto the goat. If the knot is not tied correctly, it can come undone and the goat could escape. Finally, always supervise your goat when it is wearing a rope halter to prevent it from getting caught on something and injuring itself.
+A too-tight halter can cause pain and discomfort, while a too-loose halter can slip off easily.
+
+In addition, you need to be careful when tying the rope halter onto the goat. If the knot is not tied correctly, it can come undone and the goat could escape.
+
+Finally, always supervise your goat when it is wearing a rope halter to prevent it from getting caught on something and injuring itself.
 
 So, can you use a rope halter on a goat? Yes, but make sure to do so safely and correctly.
 

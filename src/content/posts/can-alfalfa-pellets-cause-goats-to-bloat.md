@@ -48,7 +48,9 @@ One of the things you need to be very careful about is what type of hay you feed
 
 ## Can alfalfa pellets cause goats to bloat?
 
-**Alfalfa pellets can cause goats to bloat. Because of the high protein content in alfalfa pellets, goats can easily overeat and consume too much nitrogen. This can lead to a condition called ruminal acidosis, which can cause bloating, diarrhea, and even death.**
+**Alfalfa pellets can cause goats to bloat. Because of the high protein content in alfalfa pellets, goats can easily overeat and consume too much nitrogen.**
+
+**This can lead to a condition called ruminal acidosis, which can cause bloating, diarrhea, and even death.**
 
 Despite that, alfalfa pellets can be a part of a healthy diet for goats, as long as they are fed in moderation and mixed with other types of hay.
 
@@ -68,7 +70,9 @@ Alfalfa is a nutrient-rich forage that is [often fed to goats](/can-you-change-a
 
 One of the biggest concerns is the potential for gastrointestinal blockage. Alfalfa pellets are larger and harder than hay, and they can potentially cause an obstruction in the [goat's digestive tract](/can-goats-digest-anything/).
 
-Another concern is the possibility of bloat. Bloat is a condition that occurs when gas accumulates in the goat's stomach, and it can be fatal if not treated quickly. For these reasons, you need to talk to a goat expert before feeding alfalfa pellets to goats.
+Another concern is the possibility of bloat. Bloat is a condition that occurs when gas accumulates in the goat's stomach, and it can be fatal if not treated quickly.
+
+For these reasons, you need to talk to a goat expert before feeding alfalfa pellets to goats.
 
 ## What is bloat and what are the symptoms in goats?
 
@@ -76,7 +80,9 @@ Bloat is a condition that can [affect goats](/can-weather-affect-goats-poop/) of
 
 In severe cases, bloat can be fatal. There are several possible [causes of bloat in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), including overeating, eating too much lush green grass, or drinking water too rapidly.
 
-Symptoms of bloat include a swollen abdomen, an increased heart rate, and difficulty breathing. If you suspect your goat is suffering from bloat, you need to seek a goat expert assistance immediately. With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+Symptoms of bloat include a swollen abdomen, an increased heart rate, and difficulty breathing. If you suspect your goat is suffering from bloat, you need to seek a goat expert assistance immediately.
+
+With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
 ## What causes bloat in goats?
 
@@ -88,7 +94,9 @@ Regardless of the cause, bloat can be a very serious condition and may even be f
 
 If you suspect that your goat is suffering from bloat, you need to take action immediately. The first step is to try to relieve the gas pressure by gently massaging the goat's stomach.
 
-If this does not work, you may [need to insert a tube into the goat's stomach](/how-many-stomachs-do-goats-have/) in order to release the gas. In severe cases, surgery may be necessary. However, even with prompt treatment, bloat can still be deadly, so it's important to do everything you can to prevent it.
+If this does not work, you may [need to insert a tube into the goat's stomach](/how-many-stomachs-do-goats-have/) in order to release the gas. In severe cases, surgery may be necessary.
+
+However, even with prompt treatment, bloat can still be deadly, so it's important to do everything you can to prevent it.
 
 Some measures you can take include feeding hay instead of fresh grass, avoiding sudden changes in diet, and ensuring that your goats have access to clean water at all times.
 
@@ -122,7 +130,9 @@ Lastly, avoid feeding your goats large meals or allowing them to eat too much a
 
 If you suspect that your goat is bloated, there are some steps you can take to treat the condition.
 
-First, remove any food or water from its reach. Then, gently massage the goat's stomach in a clockwise direction to help release the gas. If the bloating does not improve within a few minutes, contact your veterinarian for further treatment.
+First, remove any food or water from its reach. Then, gently massage the goat's stomach in a clockwise direction to help release the gas.
+
+If the bloating does not improve within a few minutes, contact your veterinarian for further treatment.
 
 They may recommend giving the goat an antacid or prokinetic medication to help relieve the symptoms and prevent further episodes of bloating.
 
@@ -132,4 +142,6 @@ In severe cases, surgery may be necessary to remove the gas from the stomach. Wi
 
 Alfalfa pellets can cause goats to bloat. Bloating is a serious condition that can be fatal if not treated promptly.
 
-To prevent bloating, make sure that your goats have access to plenty of fresh water and that they are fed a balanced diet. If you suspect that your goat is bloated, contact your veterinarian immediately for treatment. With prompt treatment, most goats will make a full recovery.
+To prevent bloating, make sure that your goats have access to plenty of fresh water and that they are fed a balanced diet. If you suspect that your goat is bloated, contact your veterinarian immediately for treatment.
+
+With prompt treatment, most goats will make a full recovery.

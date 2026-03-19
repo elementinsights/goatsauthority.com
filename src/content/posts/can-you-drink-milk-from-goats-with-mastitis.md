@@ -48,7 +48,9 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you drink milk from goats with mastitis?
 
-**You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus. This makes it dangerous to consume milk containing these bacteria and viruses. If you do drink contaminated milk, you could get sick.**
+**You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus.**
+
+**This makes it dangerous to consume milk containing these bacteria and viruses. If you do drink contaminated milk, you could get sick.**
 
 In addition, it is illegal in many countries to sell or drink milk from goats with mastitis. So even if you could, it's not something you should do.
 
@@ -64,7 +66,9 @@ Finally, make sure you [store your goat's milk properly](/can-you-buy-goat-milk-
 
 ## What is mastitis and what are the symptoms?
 
-Mastitis is a common infection of the breast tissue that affects women who are breastfeeding. The most common symptom is a painful, red, and swollen breast. Other symptoms can include a fever, chills, and a general feeling of malaise.
+Mastitis is a common infection of the breast tissue that affects women who are breastfeeding. The most common symptom is a painful, red, and swollen breast.
+
+Other symptoms can include a fever, chills, and a general feeling of malaise.
 
 Mastitis is usually caused by bacteria that enter the breast through cracked or damaged nipples. The good news is that mastitis is usually easily treated with antibiotics and rest.
 
@@ -78,7 +82,9 @@ Mastitis is a bacterial infection of the breast tissue that most commonly affect
 
 Symptoms of mastitis include pain, swelling, redness, and warmth in the affected area. In some cases, the mother may also experience fever, chills, and fatigue.
 
-Treatment for mastitis typically involves a course of antibiotics, as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing. In most cases, mastitis resolves without any lasting complications.
+Treatment for mastitis typically involves a course of antibiotics, as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
+
+In most cases, mastitis resolves without any lasting complications.
 
 However, if the infection is left untreated, it can lead to serious health problems, such as abscess formation or blood poisoning.
 
@@ -94,7 +100,7 @@ Therefore, even if you could find and purchase such milk, it's not worth the ris
 
 Maintaining proper hygiene is the key to preventing mastitis in goats. Before milking, make sure your hands and equipment are clean and sanitized to reduce the risk of contamination.
 
-During milking, try to avoid touching any part of the udder or teats with your fingers—use a separate cloth or towel instead.
+During milking, try to avoid touching any part of the udder or teats with your fingers, use a separate cloth or towel instead.
 
 Additionally, make sure you [milk your goats regularly](/can-i-use-regular-milk-to-feed-a-baby-goat/) and on the same schedule each day to reduce the risk of engorgement and infection.
 

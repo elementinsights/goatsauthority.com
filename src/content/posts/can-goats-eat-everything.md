@@ -64,7 +64,9 @@ Finally, browsing helps [goats keep their teeth clean and their digestive system
 
 ## What are the disadvantages of a goat's diet?
 
-There are some disadvantages to a goat's diet as well. First, since browse is less calorie-dense than grass, [goats typically require more food](/can-sheep-eat-goat-food/) in order to maintain their body weight. This can be a challenge in areas where browsing is scarce.
+There are some disadvantages to a goat's diet as well. First, since browse is less calorie-dense than grass, [goats typically require more food](/can-sheep-eat-goat-food/) in order to maintain their body weight.
+
+This can be a challenge in areas where browsing is scarce.
 
 Second, [goats that consume large quantities of browse may be at risk](/can-a-cdt-shot-kill-a-goat/) for developing painfulular thorns in their stomach or intestine.
 
@@ -78,7 +80,9 @@ For example, alfalfa and clover are good sources of protein and fiber, while dan
 
 On top of that, goats enjoy eating leaves, fruit, and even bark. When choosing plants for your goats, it's important to choose ones that are not poisonous and that will not cause digestive problems.
 
-Some common edible plants for goats include grasses, weeds, herbs, and shrubs. Goats also like to eat hay, which is a dried form of grass that is often used as animal feed. Hay is a good source of nutrients and can help keep goats healthy and happy.
+Some common edible plants for goats include grasses, weeds, herbs, and shrubs. Goats also like to eat hay, which is a dried form of grass that is often used as animal feed.
+
+Hay is a good source of nutrients and can help keep goats healthy and happy.
 
 ## What plants are poisonous to goats?
 
@@ -88,13 +92,17 @@ Ragwort can cause liver damage, while yarrow can cause gastrointestinal irritati
 
 Other plants that are poisonous to goats include hemlock, nightshade, and henbane. Goat owners should familiarize themselves with these plants and make sure their goats do not have access to them.
 
-If a [goat does eat a poisonous plant](/can-goats-eat-poison-hemlock/), prompt medical attention is required. Symptoms of toxicity can include vomiting, diarrhea, seizures, and respiratory distress. By being aware of which plants are poisonous to goats, owners can help keep their animals safe and healthy.
+If a [goat does eat a poisonous plant](/can-goats-eat-poison-hemlock/), prompt medical attention is required. Symptoms of toxicity can include vomiting, diarrhea, seizures, and respiratory distress.
+
+By being aware of which plants are poisonous to goats, owners can help keep their animals safe and healthy.
 
 ## What are the nutritional requirements of goats?
 
 Since goats are ruminant animals, their four-chambered stomachs digest food before it passes into the intestines. [Goats can therefore digest a variety of plant components](/can-goats-digest-cotton/), such as leaves, twigs, and bark.
 
-Goats still need a varied diet of nutrients, though, in order to keep healthy. To maintain their rapid rate of growth, goats require a diet rich in protein. Goats also need a lot of calcium and other minerals for their bones to develop properly.
+Goats still need a varied diet of nutrients, though, in order to keep healthy. To maintain their rapid rate of growth, goats require a diet rich in protein.
+
+Goats also need a lot of calcium and other minerals for their bones to develop properly.
 
 Goats may graze on grass and other plants to provide the majority of their nutritional needs, but they occasionally need additional feed, particularly during times of rapid development or when they are pregnant or lactating.
 

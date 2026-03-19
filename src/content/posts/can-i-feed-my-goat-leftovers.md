@@ -48,19 +48,27 @@ In this article, we will answer those questions and provide you with additional 
 
 **You can feed your goat leftovers, but you need to be careful about what kind of leftovers you're giving them. Certain foods can be harmful to goats, so it's important to do your research before feeding them anything new and to make sure the leftovers are safe to eat.**
 
-When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a few things you need to keep in mind. Goats are browsers, not grazers. This means that they prefer to eat leaves and twigs off of plants rather than grass. In their natural habitat, they would also eat a lot of fruit and nuts.
+When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a few things you need to keep in mind. Goats are browsers, not grazers.
 
-Since goats are browsers, they need a diet that is high in fiber. The recommended amount of fiber for goats is between 18-22%. Goats also need a lot of protein in their diet. The recommended amount of protein for goats is between 12-16%.
+This means that they prefer to eat leaves and twigs off of plants rather than grass. In their natural habitat, they would also eat a lot of fruit and nuts.
+
+Since goats are browsers, they need a diet that is high in fiber. The recommended amount of fiber for goats is between 18-22%.
+
+Goats also need a lot of protein in their diet. The recommended amount of protein for goats is between 12-16%.
 
 When feeding your goat leftovers, make sure that the food is safe for them to eat and that it is high in fiber and protein. You should also avoid feeding them any food that is spoiled or moldy.
 
 ## What are some things I need to consider before feeding my goat leftovers?
 
-There are a few [things you need to consider before feeding your goat leftovers](/can-a-dog-get-sick-from-a-goat/). First, you need to make sure that the leftovers are safe for them to eat. Some foods can be harmful to goats, so it's important to do your research before feeding them anything new.
+There are a few [things you need to consider before feeding your goat leftovers](/can-a-dog-get-sick-from-a-goat/). First, you need to make sure that the leftovers are safe for them to eat.
+
+Some foods can be harmful to goats, so it's important to do your research before feeding them anything new.
 
 You should also avoid feeding your goats any food that is spoiled or moldy. Spoiled food can make [goats sick](/can-i-give-a-sick-goat-water-through-a-syringe/), so it's important to throw away any food that looks or smells bad.
 
-Finally, you need to make sure that the leftovers are high in fiber and protein. Goats need a lot of fiber in their diet, so leftovers like fruits and vegetables are a good option. You should also avoid feeding them any processed foods or foods that are high in sugar.
+Finally, you need to make sure that the leftovers are high in fiber and protein. Goats need a lot of fiber in their diet, so leftovers like fruits and vegetables are a good option.
+
+You should also avoid feeding them any processed foods or foods that are high in sugar.
 
 ## What kind of leftovers can I feed my goat?
 
@@ -71,7 +79,9 @@ Some examples of safe leftovers to feed your goat include:
 - Nutshells
 - Cooked rice or pasta
 
-When feeding your goat leftovers, make sure that the food is safe for them to eat and that it is high in fiber and protein. You should also avoid feeding them any food that is spoiled or moldy. By following these guidelines, you can be sure that you're giving your goat the best possible diet.
+When feeding your goat leftovers, make sure that the food is safe for them to eat and that it is high in fiber and protein. You should also avoid feeding them any food that is spoiled or moldy.
+
+By following these guidelines, you can be sure that you're giving your goat the best possible diet.
 
 ## The benefits of feeding your goat leftovers
 
@@ -91,9 +101,13 @@ By following these guidelines, you can be sure that you're giving your goat the 
 
 There are a few risks associated with feeding your goat leftovers. First, you need to make sure that the food is safe for them to eat.
 
-Some foods can be harmful to goats, so it's important to do your research before feeding them anything new. You should also avoid feeding your goats any food that is spoiled or moldy. Spoiled food can make goats sick, so it's important to throw away any food that looks or smells bad.
+Some foods can be harmful to goats, so it's important to do your research before feeding them anything new. You should also avoid feeding your goats any food that is spoiled or moldy.
 
-Finally, you need to make sure that the leftovers are high in fiber and protein. Goats need a lot of fiber in their diet, so leftovers like fruits and vegetables are a good option. You should also avoid feeding them any processed foods or foods that are high in sugar.
+Spoiled food can make goats sick, so it's important to throw away any food that looks or smells bad.
+
+Finally, you need to make sure that the leftovers are high in fiber and protein. Goats need a lot of fiber in their diet, so leftovers like fruits and vegetables are a good option.
+
+You should also avoid feeding them any processed foods or foods that are high in sugar.
 
 By following these guidelines, you can be sure that you're giving your goat the best possible diet.
 
@@ -111,7 +125,7 @@ By following these simple tips for feeding your goat leftovers safely, you can h
 
 In addition, this will also help protect the larger ecosystem by reducing waste and preventing the buildup of potentially harmful compounds in soil and water sources.
 
-So the next time you have extra food scraps lying around in the kitchen or garden shed, don't throw them away – instead, donate them to your local herd of friendly goats!
+So the next time you have extra food scraps lying around in the kitchen or garden shed, don't throw them away, instead, donate them to your local herd of friendly goats!
 
 ## Recipes for leftover goat feed
 

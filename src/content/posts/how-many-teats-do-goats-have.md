@@ -37,14 +37,17 @@ faq:
   - question: "What are some common problems with goat nursing?"
     answer: "Nursing is a vital part of goat care, but it can also be one of the most challenging. There are several common problems that can occur, including poor milk production, mastitis, and sore nipples."
 ---
+It's easy to think of goats as just animals that provide milk and meat, but did you know that they also have an important role in agriculture? Goats are great for clearing brush and weeds, and they can even be used to clear landmines.
 
-It's easy to think of goats as just animals that provide milk and meat, but did you know that they also have an important role in agriculture? Goats are great for clearing brush and weeds, and they can even be used to clear landmines. They're also useful for their milk, meat, and hides.
+They're also useful for their milk, meat, and hides.
 
 In this article, we'll answer some common questions about goats, including how many teats they have.
 
 ## How many teats do goats have?
 
-**Most goats have two teats, which are located on the underside of the animal just behind the goat's front legs. However, some breeds of goats may have four or even six teats. The number of teats a goat has is determined by its genes and cannot be changed.**
+**Most goats have two teats, which are located on the underside of the animal just behind the goat's front legs. However, some breeds of goats may have four or even six teats.**
+
+**The number of teats a goat has is determined by its genes and cannot be changed.**
 
 In addition to the number of teats, another factor that determines how much milk a goat can produce is the size of the teat. A large teat can hold more milk than a small teat, so a goat with four large teats will likely produce more milk than a goat with six small teats.
 
@@ -54,19 +57,25 @@ Goat teats are used for a variety of purposes, the most common of which is milki
 
 In addition to milking, goat teats can also be used to provide nourishment for young goats. When a goat is first born, its mother will clean its teats and then offer them to the kid to suckle on.
 
-This provides the kid with essential colostrum, which helps to boost immunity and protect against disease. Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats. Despite that, goat teats can still play an important role in social interactions between goats.
+This provides the kid with essential colostrum, which helps to boost immunity and protect against disease. Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats.
+
+Despite that, goat teats can still play an important role in social interactions between goats.
 
 For example, adult goats will often gently nibble on each other's teats as part of their bonding ritual. Goat teats are thus multi-purpose organs that serve a variety of functions within the goat community.
 
 ## What is the average number of kids a goat can give birth to?
 
-Goats are experts at giving birth. A doe (female goat) can have anywhere from 1-4 kids in a single birth, with the average being 2.3. Some recorded cases show does giving birth to up to 7 kids, but this is very rare. Triplets and quads are much more common and often happen without any complications.
+Goats are experts at giving birth. A doe (female goat) can have anywhere from 1-4 kids in a single birth, with the average being 2.3.
+
+Some recorded cases show does giving birth to up to 7 kids, but this is very rare. Triplets and quads are much more common and often happen without any complications.
 
 While multiple births are the norm for goats, there are some does who only have a single kid. This is more common in first-time mothers or does over the age of 10.
 
 Does will also sometimes have twins, although this is less common than triplets or quads. Regardless of how many kids a doe has, they are all capable of producing plenty of milk to feed their young.
 
-So why do goats have so many kids? The answer lies in their evolution. Goats are members of the Caprinae family, which includes other small ruminants like sheep and deer. This family of animals is characterized by having multiple births, as it increases the chances of at least some of the offspring surviving to adulthood.
+So why do goats have so many kids? The answer lies in their evolution.
+
+Goats are members of the Caprinae family, which includes other small ruminants like sheep and deer. This family of animals is characterized by having multiple births, as it increases the chances of at least some of the offspring surviving to adulthood.
 
 In contrast, animals like cats and dogs usually only have one or two offspring at a time, as they can better care for a smaller number of young.
 
@@ -80,15 +89,21 @@ Nursing is a vital part of goat care, but it can also be one of the most challen
 
 One of the most common problems is poor milk production. This can be due to a number of factors, including an inadequate diet, stress, or illness.
 
-Mastitis is another common problem that can occur during goat nursing. This is an infection of the udder that can cause pain, swelling, and reduced milk production. If you think your goat may have mastitis, it's important to seek veterinary care as soon as possible.
+Mastitis is another common problem that can occur during goat nursing. This is an infection of the udder that can cause pain, swelling, and reduced milk production.
+
+If you think your goat may have mastitis, it's important to seek veterinary care as soon as possible.
 
 Sore nipples are another common complaint among goat owners. This can be caused by several things, including improper nursing techniques or an underlying health condition.
 
 ## How do you milk a goat?
 
-To milk a goat, you will need to have a clean milk pail, a clean stool, and clean hands. The first step is to wash the goat's udder with warm water. Next, place the milk pail under the udder and allow the goat to get used to the sensation of being milked.
+To milk a goat, you will need to have a clean milk pail, a clean stool, and clean hands. The first step is to wash the goat's udder with warm water.
 
-Once the goat is comfortable, gently squeeze the udders and release the milk into the pail. Continue milking until the flow of milk slows to a trickle. Be sure to wash your hands and equipment thoroughly after milking.
+Next, place the milk pail under the udder and allow the goat to get used to the sensation of being milked.
+
+Once the goat is comfortable, gently squeeze the udders and release the milk into the pail. Continue milking until the flow of milk slows to a trickle.
+
+Be sure to wash your hands and equipment thoroughly after milking.
 
 ## How often should you milk a goat?
 
@@ -112,4 +127,6 @@ In general, milking twice per day is a good rule of thumb for most goat keepers.
 
 ## Final Thoughts
 
-Goats have 2 -4 teats, with most having 2. There are a few things to keep in mind when milking a goat, including hygiene and the goat's comfort level. It's also important to consider your own schedule and milking routine. Most goat keepers milk their goats twice per day.
+Goats have 2 -4 teats, with most having 2. There are a few things to keep in mind when milking a goat, including hygiene and the goat's comfort level.
+
+It's also important to consider your own schedule and milking routine. Most goat keepers milk their goats twice per day.

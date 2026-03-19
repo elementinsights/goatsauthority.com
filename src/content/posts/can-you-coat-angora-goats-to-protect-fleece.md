@@ -58,7 +58,9 @@ On top of that, coating an angora goat can also help protect the fleece from dam
 
 ## What are the things you need to take into account when coating an angora goat?
 
-When coating an angora goat, there are a few things you need to take into account. First, you need to make sure that the coat is properly fitted. An ill-fitting coat can be uncomfortable for the goat and can also cause the coat to rub against the fleece, which can damage it.
+When coating an angora goat, there are a few things you need to take into account. First, you need to make sure that the coat is properly fitted.
+
+An ill-fitting coat can be uncomfortable for the goat and can also cause the coat to rub against the fleece, which can damage it.
 
 Second, you need to choose a coat that is made from a breathable fabric. Angora goats are very sensitive to heat and can easily overheat if they are wearing a coat that is not made from a breathable fabric.
 
@@ -68,9 +70,13 @@ Lastly, you need to make sure that the coat does not restrict the goat's movemen
 
 Fleece is the coat of wool that angora goats have. The main purpose of fleece is to protect the goat from predators and the environment.
 
-Coats of wool are also used to make clothes and other items. The angora goat is a type of goat that is bred for its fleece. Angora goats are usually white, but they can also be black, brown, or grey.
+Coats of wool are also used to make clothes and other items. The angora goat is a type of goat that is bred for its fleece.
 
-They have long, dense coats of wool that are soft and silky. Angora goats are native to Turkey, but they are now found all over the world. In addition to their fleece, angora [goats also produce milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and meat.
+Angora goats are usually white, but they can also be black, brown, or grey.
+
+They have long, dense coats of wool that are soft and silky. Angora goats are native to Turkey, but they are now found all over the world.
+
+In addition to their fleece, angora [goats also produce milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and meat.
 
 ## How does the coat protect the fleece from damage?
 

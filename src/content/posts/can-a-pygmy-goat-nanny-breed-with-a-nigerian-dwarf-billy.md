@@ -44,7 +44,9 @@ In this article, we'll answer that question for you and give you some helpful ti
 
 ## Can a pygmy goat nanny breed with a nigerian dwarf billy?
 
-**A Pygmy Goat Nanny can breed with a Nigerian Dwarf Billy. Because there's only a size difference and not a breed difference, the offspring will be a mix of the two. The offspring will most likely be smaller than either parent but will have the characteristics of both breeds.**
+**A Pygmy Goat Nanny can breed with a Nigerian Dwarf Billy. Because there's only a size difference and not a breed difference, the offspring will be a mix of the two.**
+
+**The offspring will most likely be smaller than either parent but will have the characteristics of both breeds.**
 
 However, it's important to note that both the Pygmy Goat and Nigerian Dwarf Billy must be healthy and free of any genetic defects in order for this to work. Otherwise, the offspring may inherit those defects and be unhealthy.
 
@@ -52,11 +54,15 @@ However, it's important to note that both the Pygmy Goat and Nigerian Dwarf Bill
 
 Pygmy goats are a breed of miniature domestic goats. Pygmy goats tend to be kept as pets, although they can also be used for milk production or meat.
 
-Nigerian dwarf goats are a breed of miniature dairy goats. Nigerian dwarf goats are typically used for milk production, but they can also be kept as pets. Males of both breeds are called "bucks", while females are called "does". Young pygmy and Nigerian dwarf goats are known as "kids".
+Nigerian dwarf goats are a breed of miniature dairy goats. Nigerian dwarf goats are typically used for milk production, but they can also be kept as pets.
+
+Males of both breeds are called "bucks", while females are called "does". Young pygmy and Nigerian dwarf goats are known as "kids".
 
 Pygmy goats originated in West Africa, while Nigerian dwarf goats originated in Nigeria. [Pygmy goats](/can-dogs-and-pygmy-goats-live-together/) were first imported into the United States in the 1950s, while Nigerian dwarf goats were imported in the 1970s.
 
-Both breeds are now common in the United States. [Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) typically weigh between 20 and 40 pounds, while Nigerian dwarf goats typically weigh between 20 and 35 pounds. Both breeds have short legs and small bodies.
+Both breeds are now common in the United States. [Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) typically weigh between 20 and 40 pounds, while Nigerian dwarf goats typically weigh between 20 and 35 pounds.
+
+Both breeds have short legs and small bodies.
 
 Pygmy goats typically have longer hair than Nigerian dwarf goats. Nigerian dwarf goats come in a variety of colors, while [pygmy goats typically have dark brown](/can-pygmy-goats-eat-brown-sugar/) or black fur.
 
@@ -80,7 +86,9 @@ In sum, cross-breeding different types of goats can be a valuable tool for goat 
 
 [Goat breeding](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) can be a rewarding experience, but it's also important to do some research before getting started.
 
-One of the most important [things to consider is the breed of goat](/can-a-dog-get-sick-from-a-goat/) you are interested in. Some breeds are better suited for milk production, while others are more resistant to disease. Once you have chosen a breed, it's crucial to find healthy and well-bred animals.
+One of the most important [things to consider is the breed of goat](/can-a-dog-get-sick-from-a-goat/) you are interested in. Some breeds are better suited for milk production, while others are more resistant to disease.
+
+Once you have chosen a breed, it's crucial to find healthy and well-bred animals.
 
 A reputable breeder will be able to provide you with information about the animal's parents and grandparents, as well as any health problems that have been seen in the family line.
 

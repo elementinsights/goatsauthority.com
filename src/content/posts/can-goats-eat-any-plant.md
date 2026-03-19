@@ -69,7 +69,9 @@ Symptoms of poisoning vary depending on the plant in question but may include: v
 
 While goats are often thought of as being strict herbivores, they are actually quite adaptable in terms of their diet.
 
-In addition to grasses and other typical grazing plants, goats will also consume a wide variety of other plants, including many that are considered to be weeds. In fact, there are very few types of plants that goats will not eat. But, not all plants are equally nutritious for goats.
+In addition to grasses and other typical grazing plants, goats will also consume a wide variety of other plants, including many that are considered to be weeds. In fact, there are very few types of plants that goats will not eat.
+
+But, not all plants are equally nutritious for goats.
 
 For example, legumes such as clover and alfalfa are a good source of protein, while grasses provide a higher level of fiber.
 

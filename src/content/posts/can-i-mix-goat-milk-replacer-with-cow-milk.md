@@ -44,7 +44,9 @@ To provide you with the answer to those questions, we've created this helpful gu
 
 ## Can I mix goat milk replacer with cow milk?
 
-**You can [mix goat milk](/can-i-mix-goat-milk-with-whey-protein/) replacer with cow milk. In fact, many people do it without any problems. They are also more likely to have better results when they mix the two kinds of milk together than if they only use one or the other.**
+**You can [mix goat milk](/can-i-mix-goat-milk-with-whey-protein/) replacer with cow milk. In fact, many people do it without any problems.**
+
+**They are also more likely to have better results when they mix the two kinds of milk together than if they only use one or the other.**
 
 There are a few things you should keep in mind, though, before you mix [goat milk](/can-a-cat-drink-goats-milk/) replacer with cow milk:
 

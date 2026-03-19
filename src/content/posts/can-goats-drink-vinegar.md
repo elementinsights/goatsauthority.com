@@ -52,7 +52,9 @@ We will explore all of that in this article and the answer to all your questions
 
 **[Goats can drink vinegar](/can-goats-drink-baby-formula/) because it has a high acid content, and goats are attracted to anything that is high in acid. Goats like the taste of vinegar and will often drink it if it's available and if they are thirsty.**
 
-However, you should be aware that [goats can only tolerate a small amount of vinegar](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) in their diet. Too much vinegar can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/). So, it's best to only offer goats vinegar as a treat and not as a regular part of their diet.
+However, you should be aware that [goats can only tolerate a small amount of vinegar](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) in their diet. Too much vinegar can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
+
+So, it's best to only offer goats vinegar as a treat and not as a regular part of their diet.
 
 ## What are the benefits of giving your goats vinegar?
 
@@ -110,7 +112,9 @@ Despite that, it's crucial not to give goats too much vinegar, as this can cause
 
 [Baby goats](/can-baby-goats-have-any-electrolytes/), like any other mammal, need to consume water to stay hydrated. While plain water is the best option for baby goats, in some instances vinegar can also be beneficial.
 
-Vinegar helps to increase the acidity of the stomach, which can aid in digestion. It can also help to replenish electrolytes, which are important for proper muscle function. But, it's crucial to dilute the vinegar before giving it to a baby goat, as undiluted vinegar can cause irritation.
+Vinegar helps to increase the acidity of the stomach, which can aid in digestion. It can also help to replenish electrolytes, which are important for proper muscle function.
+
+But, it's crucial to dilute the vinegar before giving it to a baby goat, as undiluted vinegar can cause irritation.
 
 [Baby goats also need to consume a balanced diet](/can-a-toddler-catch-a-disease-from-a-baby-goat/) that includes hay, pellets, and fresh vegetables. While vinegar can be part of a healthy diet for [baby goats](/can-i-use-regular-milk-to-feed-a-baby-goat/), it should not be the only source of hydration.
 
@@ -128,7 +132,9 @@ In addition, vinegar can break down the [proteins in milk](/can-i-raise-goats-fo
 
 Goats are susceptible to a number of different health problems, and one of the most common is stomach upset. If your [goat is experiencing digestive issues](/can-goats-digest-cigarettes/), you may be wondering if you can give them vinegar to help.
 
-The answer is yes, vinegar can be beneficial for goats with an upset stomach. Vinegar helps to break down food in the stomach and can also help to kill harmful bacteria. It's important to use raw, unfiltered vinegar for the best results.
+The answer is yes, vinegar can be beneficial for goats with an upset stomach. Vinegar helps to break down food in the stomach and can also help to kill harmful bacteria.
+
+It's important to use raw, unfiltered vinegar for the best results.
 
 You can give your goat vinegar by adding a few tablespoons to their water or mixing it with some wet food. If your goat is particularly sick, you may want to consult with a goat expert before giving them vinegar.
 

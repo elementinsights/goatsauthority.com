@@ -66,7 +66,9 @@ There are a few reasons why you might want to consider letting your female goat 
 
 One reason is that it can help increase the size of her udder. This is especially beneficial if you plan on showing your goats or selling their milk.
 
-Another reason is that it can help keep your goats healthy and free from diseases. Goats that are constantly pregnant are more prone to developing health problems. Allowing them to take a break from pregnancy can help them stay healthy and strong.
+Another reason is that it can help keep your goats healthy and free from diseases. Goats that are constantly pregnant are more prone to developing health problems.
+
+Allowing them to take a break from pregnancy can help them stay healthy and strong.
 
 ## What is the downside of a female goat producing milk without being pregnant?
 
@@ -80,7 +82,9 @@ If you're considering letting your female goat produce milk without being pregna
 
 First, you'll need to make sure that she has a high-quality diet. Goats require a lot of nutrients to produce milk, so you'll need to give her food that is rich in vitamins and minerals.
 
-You'll also need to make sure that she has plenty of water. Goats need to drink a lot of water to stay hydrated, especially if they're producing milk. Make sure that she always has access to clean, fresh water.
+You'll also need to make sure that she has plenty of water. Goats need to drink a lot of water to stay hydrated, especially if they're producing milk.
+
+Make sure that she always has access to clean, fresh water.
 
 Eventually, you'll need to be prepared for the possibility that your goat could dry up. If this happens, you'll need to give her supplemental food and water until she starts producing milk again.
 
@@ -98,7 +102,9 @@ Therefore, if you're looking for a goat that can provide you with a steady suppl
 
 ## How much milk will my goat produce if she's not pregnant?
 
-Dairy goats can produce between 6 and 10 pounds (2.7 to 4.5 kilograms) of milk per day. This will vary depending on the breed, age, diet, and health of the goat. A pregnant goat will produce less milk than one who is not pregnant.
+Dairy goats can produce between 6 and 10 pounds (2.7 to 4.5 kilograms) of milk per day. This will vary depending on the breed, age, diet, and health of the goat.
+
+A pregnant goat will produce less milk than one who is not pregnant.
 
 If a goat is not producing enough milk, there are several steps that can be taken to improve production such as changing the type of feed, increasing the amount of access to pasture, or adding a mineral supplement to the diet.
 
@@ -110,7 +116,9 @@ Furthermore, goats should be given time to rest after milking so that their udde
 
 ## Will my goat's milk taste different if she's not pregnant?
 
-One of the main factors that determine the taste of goat milk is what the goat is eating. If a goat is eating grass, her milk will have a slightly sweet flavor. If she's eating hay, her milk will have a more neutral flavor.
+One of the main factors that determine the taste of goat milk is what the goat is eating. If a goat is eating grass, her milk will have a slightly sweet flavor.
+
+If she's eating hay, her milk will have a more neutral flavor.
 
 Other factors, such as the time of day or the season, can also affect the taste of goat's milk.
 
@@ -134,21 +142,31 @@ And lastly, it can simply be fun! So even if your goat isn't currently expecting
 
 ## Can I breed my goat even if she's not pregnant?
 
-If you want to breed your goat, you will need to wait until she is pregnant. Once a goat is pregnant, she will be able to give birth to kids. If you try to breed a goat that is not pregnant, she will not be able to produce any offspring.
+If you want to breed your goat, you will need to wait until she is pregnant. Once a goat is pregnant, she will be able to give birth to kids.
 
-Therefore, it's important to wait until your goat is pregnant before breeding her. There are a few ways to tell if a goat is pregnant. One way is to check her udder. A pregnant goat's udder will start to fill out and become larger than usual.
+If you try to breed a goat that is not pregnant, she will not be able to produce any offspring.
+
+Therefore, it's important to wait until your goat is pregnant before breeding her. There are a few ways to tell if a goat is pregnant.
+
+One way is to check her udder. A pregnant goat's udder will start to fill out and become larger than usual.
 
 Another way to tell if a goat is pregnant is to observe her behavior. Pregnant goats typically become more mellow and docile, and they may also start eating more than usual.
 
 ## Things to consider before getting a goat
 
-If you're thinking about getting a goat, there are a few things you need to take into account. First and foremost, goats require a lot of space. Unlike other small animals, such as rabbits or guinea pigs, goats need to be able to roam and explore.
+If you're thinking about getting a goat, there are a few things you need to take into account. First and foremost, goats require a lot of space.
+
+Unlike other small animals, such as rabbits or guinea pigs, goats need to be able to roam and explore.
 
 Without enough space, they can become restless and even destructive. So, before you bring a goat home, make sure you have a large fenced-in area for them to play in.
 
-Secondly, goats are very social creatures and do best when they have companionship. If you're only planning on getting one goat, make sure you spend extra time bonding with them. And if you're getting more than one, be prepared to do a lot of goat play.
+Secondly, goats are very social creatures and do best when they have companionship. If you're only planning on getting one goat, make sure you spend extra time bonding with them.
 
-Finally, goats are notoriously messy eaters. They will try to eat just about anything, including garbage and other animals' food. This can lead to digestive problems, so it's important to keep their diet clean and healthy.
+And if you're getting more than one, be prepared to do a lot of goat play.
+
+Finally, goats are notoriously messy eaters. They will try to eat just about anything, including garbage and other animals' food.
+
+This can lead to digestive problems, so it's important to keep their diet clean and healthy.
 
 If you're willing to put in the time and effort, then goats can make wonderful pets. Just be sure to do your research first.
 

@@ -54,9 +54,13 @@ In addition, you should only dehorn a goat if absolutely necessary, as it is a p
 
 ## What are the benefits of dehorning a 2 year old goat?
 
-Dehorning is the process of removing the horns from livestock. It is a common practice in many parts of the world, particularly where livestock are kept close to humans. There are several reasons for dehorning goats.
+Dehorning is the process of removing the horns from livestock. It is a common practice in many parts of the world, particularly where livestock are kept close to humans.
 
-One is that horns can be quite dangerous, both to the goat themselves and to other animals and humans. Goats with horns can easily get them caught on fencing or other objects, which can lead to serious injuries. They can also use their horns to defend themselves, which can result in injuries to their owners or other animals.
+There are several reasons for dehorning goats.
+
+One is that horns can be quite dangerous, both to the goat themselves and to other animals and humans. Goats with horns can easily get them caught on fencing or other objects, which can lead to serious injuries.
+
+They can also use their horns to defend themselves, which can result in injuries to their owners or other animals.
 
 Additionally, horns can be used to damage property, so dehorned goats are less likely to cause collateral damage. Finally, many people simply prefer the look of dehorned goats, as it gives them a more traditional appearance.
 
@@ -66,7 +70,9 @@ Dehorning is a fairly simple and low-risk procedure, so there are very few downs
 
 Dehorning is a common practice in goat husbandry, and it carries with it a number of benefits. Goats with horns are more likely to injure themselves, and they can also [cause injury to other goats](/can-goats-cause-slope/) or people.
 
-But, dehorning is not without its risks. The most significant risk is damage to the blood vessels or nerves in the horns. If these are damaged, it can lead to excessive bleeding or even paralysis.
+But, dehorning is not without its risks. The most significant risk is damage to the blood vessels or nerves in the horns.
+
+If these are damaged, it can lead to excessive bleeding or even paralysis.
 
 In addition, there is a risk of infection at the site where the horns are removed. For these reasons, dehorning should only be carried out by a qualified veterinarian.
 

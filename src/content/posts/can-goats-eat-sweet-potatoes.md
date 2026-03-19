@@ -46,9 +46,13 @@ Everything you need to know about goats and sweet potatoes will be covered in th
 
 ## Can goats eat sweet potatoes?
 
-**Goats can consume sweet potatoes. As a matter of fact, sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats. It also contains a substance called carotene, which helps to protect goats from disease.**
+**Goats can consume sweet potatoes. As a matter of fact, sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats.**
 
-That said, not all goats enjoy eating sweet potatoes. Some may find the taste to be too sweet. If this is the case with your goat, you can try roasting the sweet potatoes to see if that makes them more palatable.
+**It also contains a substance called carotene, which helps to protect goats from disease.**
+
+That said, not all goats enjoy eating sweet potatoes. Some may find the taste to be too sweet.
+
+If this is the case with your goat, you can try roasting the sweet potatoes to see if that makes them more palatable.
 
 ## Can goats eat sweet potato leaves?
 
@@ -56,7 +60,9 @@ Sweet potatoes are a type of root vegetable that is often eaten by humans. The l
 
 While goats will eat sweet potato leaves, they should not be the only source of food. Goats are browsers, which means that their diet should consist of a variety of different plants.
 
-Sweet potato leaves are a good source of vitamin A and copper, but they are low in protein. Therefore, goats should only eat sweet potato leaves as part of a balanced diet. Forage, hay, and other types of vegetation should also be included in their diet to provide the nutrients they need.
+Sweet potato leaves are a good source of vitamin A and copper, but they are low in protein. Therefore, goats should only eat sweet potato leaves as part of a balanced diet.
+
+Forage, hay, and other types of vegetation should also be included in their diet to provide the nutrients they need.
 
 ## Can goats eat sweet potato roots?
 
@@ -72,25 +78,37 @@ Overfeeding sweet potatoes can lead to health problems, such as diarrhea and blo
 
 Sweet potatoes are a type of root vegetable that is often touted for their health benefits. Though they are commonly thought of as being part of the potato family, sweet potatoes are actually more closely related to morning glories.
 
-Sweet potatoes come in a variety of colors, including white, yellow, orange, and purple. They are a good source of vitamins A and C, as well as fiber and potassium. Sweet potatoes can be eaten roasted, baked, or mashed, and are often used in traditional dishes such as pies and casseroles.
+Sweet potatoes come in a variety of colors, including white, yellow, orange, and purple. They are a good source of vitamins A and C, as well as fiber and potassium.
 
-Goats are a type of livestock animal that is commonly used for milk production. Though they are also sometimes kept as pets, goats require more care and attention than many other animals. Goats are very curious and active creatures and need plenty of space to roam.
+Sweet potatoes can be eaten roasted, baked, or mashed, and are often used in traditional dishes such as pies and casseroles.
 
-They also require a diet that is high in fiber in order to maintain their digestive health. For these reasons, sweet potatoes can make an excellent addition to a goat's diet. Sweet potatoes provide goats with essential nutrients, as well as the fiber they need to stay healthy.
+Goats are a type of livestock animal that is commonly used for milk production. Though they are also sometimes kept as pets, goats require more care and attention than many other animals.
+
+Goats are very curious and active creatures and need plenty of space to roam.
+
+They also require a diet that is high in fiber in order to maintain their digestive health. For these reasons, sweet potatoes can make an excellent addition to a goat's diet.
+
+Sweet potatoes provide goats with essential nutrients, as well as the fiber they need to stay healthy.
 
 On top of that, sweet potatoes can help to keep goats feeling full and satisfied between meals. As a result, sweet potatoes can be an excellent way to help goats stay healthy and happy.
 
 ## Are there any risks associated with feeding sweet potatoes to goats?
 
-Sweet potatoes are healthy and nutritious food for goats. They are a good source of fiber, vitamins, and minerals. Even so, there are a few risks to consider when feeding sweet potatoes to goats.
+Sweet potatoes are healthy and nutritious food for goats. They are a good source of fiber, vitamins, and minerals.
+
+Even so, there are a few risks to consider when feeding sweet potatoes to goats.
 
 First, sweet potatoes can be a choking hazard. To prevent this, make sure the sweet potatoes are cut into small pieces.
 
-Second, sweet potatoes can cause diarrhea in goats. This is because they are high in sugar. To avoid this, feed sweet potatoes to goats in moderation and monitor their stool for signs of diarrhea.
+Second, sweet potatoes can cause diarrhea in goats. This is because they are high in sugar.
+
+To avoid this, feed sweet potatoes to goats in moderation and monitor their stool for signs of diarrhea.
 
 Finally, sweet potatoes can attract insects. To avoid this, store sweet potatoes in a cool, dry place.
 
-Overall, sweet potatoes are a portion of healthy food for goats. Despite that, there are a few risks to consider when feeding them to goats. by following these tips, you can help ensure that your goats stay healthy and happy.
+Overall, sweet potatoes are a portion of healthy food for goats. Despite that, there are a few risks to consider when feeding them to goats.
+
+by following these tips, you can help ensure that your goats stay healthy and happy.
 
 ## What is the recommended serving size for sweet potatoes?
 

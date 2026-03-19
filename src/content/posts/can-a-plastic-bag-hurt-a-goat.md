@@ -52,7 +52,9 @@ In this article, we will take a look at the potential risks of a plastic bag to 
 
 ## Can a plastic bag hurt a goat?
 
-**A plastic bag can hurt a goat. If a goat eats a plastic bag, it can cause blockages in the digestive system, which can be fatal. Plastic bags can also cause choking and suffocation. They can also get stuck in the goat’s horns, which can cause injury.**
+**A plastic bag can hurt a goat. If a goat eats a plastic bag, it can cause blockages in the digestive system, which can be fatal.**
+
+**Plastic bags can also cause choking and suffocation. They can also get stuck in the goat’s horns, which can cause injury.**
 
 Despite this, goats are curious creatures and will often investigate anything that they come across, including plastic bags. If you have goats, you need to be aware of the dangers and take steps to prevent them from getting access to plastic bags.
 
@@ -116,7 +118,9 @@ However, it's crucial to monitor the goat for any signs of digestive distress an
 
 ## How to prevent a goat from eating a plastic bag?
 
-Goats are curious creatures, and they will often try to eat anything that catches their eye. This can include things like plastic bags, which can be dangerous for the goat if swallowed. There are a few steps you can take to prevent your goat from eating a plastic bag.
+Goats are curious creatures, and they will often try to eat anything that catches their eye. This can include things like plastic bags, which can be dangerous for the goat if swallowed.
+
+There are a few steps you can take to prevent your goat from eating a plastic bag.
 
 First, make sure that all of your trash is properly disposed of and out of reach of the goat. This may mean keeping the garbage can in a secure area or investing in a trashcan with a lid that the goat cannot open.
 

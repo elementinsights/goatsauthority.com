@@ -48,7 +48,9 @@ In this article, we will answer the question, can goats eat centipede grass? We 
 
 ## Can goats eat centipede grass?
 
-**[Goats can safely eat centipede grass](/can-goats-eat-applesauce/). This type of grass is a good source of nutrition for goats and it's also a type of grass that is easy for them to digest. Centipede also has a high moisture content, which is good for goats who live in hot climates.**
+**[Goats can safely eat centipede grass](/can-goats-eat-applesauce/). This type of grass is a good source of nutrition for goats and it's also a type of grass that is easy for them to digest.**
+
+**Centipede also has a high moisture content, which is good for goats who live in hot climates.**
 
 When [feeding your goat centipede grass](/can-a-goat-feed-quads/), you should make sure that the grass is fresh and not wilted. You should also avoid giving your goat too much centipede grass at one time, as this can cause them to have an upset stomach.
 
@@ -96,7 +98,9 @@ You get rid of the thatch, use a garden rake or a machine scarifier, and be sure
 
 ## Tips for growing centipede grass
 
-Centipede grass is a warm-season turfgrass that is native to China and Southeast Asia. It's known for its low-maintenance care requirements and ability to thrive in poor soil conditions. Centipede grass is also relatively tolerant to shade and drought.
+Centipede grass is a warm-season turfgrass that is native to China and Southeast Asia. It's known for its low-maintenance care requirements and ability to thrive in poor soil conditions.
+
+Centipede grass is also relatively tolerant to shade and drought.
 
 If you are thinking of planting centipede grass in your yard, here are a few tips to help you get started:
 
@@ -134,6 +138,8 @@ it's always best to consult with a veterinarian or experienced goat keeper to de
 
 ## Final Thoughts
 
-Goats can eat centipede grass with no problems. In fact, centipede grass is a great source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/). Just be sure to take into account the different needs of each goat when deciding how much to give them.
+Goats can eat centipede grass with no problems. In fact, centipede grass is a great source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/).
+
+Just be sure to take into account the different needs of each goat when deciding how much to give them.
 
 With a little bit of care, your goats will be able to enjoy a healthy and nutritious diet of centipede grass.

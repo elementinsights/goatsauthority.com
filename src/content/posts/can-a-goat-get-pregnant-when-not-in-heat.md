@@ -48,7 +48,9 @@ In the end, we'll address some commonly asked issues concerning goats and their 
 
 ## Can a goat get pregnant when not in heat?
 
-**A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year. In addition, does are more likely to conceive in the fall and winter.**
+**A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year.**
+
+**In addition, does are more likely to conceive in the fall and winter.**
 
 The average gestation period for a goat is 145 days. And also, it's not uncommon for does to deliver their kids anywhere between 130 and 155 days.
 
@@ -66,13 +68,17 @@ Once bred, gestation lasts for approximately five months. During this time, the 
 
 Her udder will swell and fill with milk, and her belly will grow larger as the kids develop. Towards the end of pregnancy, the doe's appetite will increase significantly as she begins to eat for two.
 
-Just before giving birth, the doe's temperature will drop and she will start to produce a thick mucus discharge. These are called "signs of kindling" and indicate that labor is imminent. Kidney-born usually arrives within 24 hours of these signs appearing.
+Just before giving birth, the doe's temperature will drop and she will start to produce a thick mucus discharge. These are called "signs of kindling" and indicate that labor is imminent.
+
+Kidney-born usually arrives within 24 hours of these signs appearing.
 
 After giving birth, the doe's milk will come in and she will continue to care for her young until they are weaned at around two to three months old. At this point, the cycle begins anew and the process repeats itself.
 
 ## How do you know when a goat is in heat?
 
-There are a few telltale signs that indicate when a goat is in heat. One of the most obvious signs is changes in behavior. A doe in heat may become more agitated and restless, bleating more often than usual.
+There are a few telltale signs that indicate when a goat is in heat. One of the most obvious signs is changes in behavior.
+
+A doe in heat may become more agitated and restless, bleating more often than usual.
 
 She may also urinate more frequently, and her urine may contain a higher level of testosterone. Another sign of heat is swelling of the vulva and increased vaginal discharge.
 

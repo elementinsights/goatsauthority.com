@@ -56,7 +56,9 @@ So, if you're wondering whether powdered goat milk is a good idea for your sick 
 
 Powdered goat milk, also known simply as powdered goat milk formula, is a concentrated form of goat milk. It is typically made by first homogenizing and pasteurizing goat milk, then drying the resulting liquid to remove any excess moisture.
 
-Powdered goat milk can offer a variety of benefits for sick baby goats. For one thing, it is easier for sick goats to digest than fresh or raw goat milk. In addition, powdered goat milk contains all of the nutrients that baby goats require for proper growth and development.
+Powdered goat milk can offer a variety of benefits for sick baby goats. For one thing, it is easier for sick goats to digest than fresh or raw goat milk.
+
+In addition, powdered goat milk contains all of the nutrients that baby goats require for proper growth and development.
 
 And since powdered goat milk is shelf stable and easy to transport, it can be used in remote areas where fresh or raw goat milk may not be readily available. Ultimately, powdered goat milk plays an important role in helping newborn baby goats thrive and grow in challenging conditions.
 

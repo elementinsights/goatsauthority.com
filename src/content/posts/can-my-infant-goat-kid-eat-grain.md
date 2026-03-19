@@ -84,7 +84,7 @@ The amount of food that your particular goat will need will depend on several fa
 
 Generally speaking, most kids should start with small amounts of food when they are first weaned from their mothers' milk, and increase feeding frequency as they grow older and larger.
 
-Furthermore, it's recommended that you feed your goat kid at regular intervals throughout the day – perhaps once or twice per day – rather than in one or two large meals.
+Furthermore, it's recommended that you feed your goat kid at regular intervals throughout the day, perhaps once or twice per day, rather than in one or two large meals.
 
 By following these guidelines, you can help to ensure that your kid gets all of the nutrients it needs to live a happy and healthy life.
 

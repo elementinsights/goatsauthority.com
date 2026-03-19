@@ -50,7 +50,9 @@ And also, we will explore the signs and symptoms of a goat in heat, as well as s
 
 ## Can a goat bag up without being pregnant?
 
-**A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during pregnancy. Without pregnancy, there's no stimulus for the goat's body to produce milk-producing cells in the mammary glands.**
+**A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during pregnancy.**
+
+**Without pregnancy, there's no stimulus for the goat's body to produce milk-producing cells in the mammary glands.**
 
 In addition, milk production requires energy and nutrients that are only available when a goat is nursing her young.
 
@@ -72,9 +74,13 @@ If you do choose to breed your does during the fall, it's important to keep an e
 
 ## How can you tell if a goat is pregnant?
 
-There are a number of ways to tell if a goat is pregnant. One of the most obvious signs is a change in the size and shape of the goat's udder. As the goat's due date approaches, her udder will become larger and more rounded, with the teats lengthening and pointing downwards.
+There are a number of ways to tell if a goat is pregnant. One of the most obvious signs is a change in the size and shape of the goat's udder.
 
-Another sign of pregnancy is a change in the goat's behavior. She may become more lethargic and have less of an appetite, or she may start to nest and seek out secluded areas. Additionally, her vulva may swell and secrete a cloudy discharge.
+As the goat's due date approaches, her udder will become larger and more rounded, with the teats lengthening and pointing downwards.
+
+Another sign of pregnancy is a change in the goat's behavior. She may become more lethargic and have less of an appetite, or she may start to nest and seek out secluded areas.
+
+Additionally, her vulva may swell and secrete a cloudy discharge.
 
 However, the most accurate way to determine if a goat is pregnant is through ultrasound or palpation by a veterinarian. Ultrasound can be performed as early as 28 days into the pregnancy, while palpation becomes possible after approximately 45 days.
 
@@ -140,7 +146,9 @@ Here are some tips on how to take care of a pregnant goat:
 
 If you're not able to provide enough hay or grass, you can supplement with a good quality goat feed.
 
-Make sure the goat has plenty of room to move around and exercise. Pregnant goats need exercise to stay healthy and prevent complications during pregnancy. However, you should avoid letting the goat get too stressed or fatigued.
+Make sure the goat has plenty of room to move around and exercise. Pregnant goats need exercise to stay healthy and prevent complications during pregnancy.
+
+However, you should avoid letting the goat get too stressed or fatigued.
 
 Allow her to roam freely in a safe area, and provide plenty of toys or objects to keep her occupied.
 

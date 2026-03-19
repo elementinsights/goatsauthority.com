@@ -43,8 +43,9 @@ faq:
   - question: "How to prevent leaving a goat out for too long?"
     answer: "A common mistake that people make when keeping goats is leaving them out for too long. Goats are social animals and need to interact with their herd mates on a regular basis."
 ---
+You may be wondering whether it's okay to leave your goat out for hours at a time. After all, they are notoriously independent creatures.
 
-You may be wondering whether it's okay to leave your goat out for hours at a time. After all, they are notoriously independent creatures. And if so, how long can they stay out?
+And if so, how long can they stay out?
 
 In this article, we will answer all of your questions regarding leaving goats out and unsupervised.
 
@@ -52,7 +53,9 @@ In this article, we will answer all of your questions regarding leaving goats ou
 
 **A goat can be left out for hours because it's an independent creature. Goats also don't need much sleep, so they can stay up for long periods of time and still be fine, as long as they have access to food and water.**
 
-However, it's important to note that goats are social creatures. They thrive on companionship and may become lonely if left alone for too long. If you do need to leave your goat out for extended periods of time, consider putting them in a [pen with other goats](/can-a-goat-pen-have-pine-trees-in-it/) so they can socialize.
+However, it's important to note that goats are social creatures. They thrive on companionship and may become lonely if left alone for too long.
+
+If you do need to leave your goat out for extended periods of time, consider putting them in a [pen with other goats](/can-a-goat-pen-have-pine-trees-in-it/) so they can socialize.
 
 ## How long can a goat stay out?
 
@@ -102,7 +105,9 @@ Keep in mind that goats also require some initial investment in terms of housing
 
 We hope this article has answered all of your questions about leaving goats out unsupervised. Remember, goats are independent creatures that don't need much sleep.
 
-However, they are social animals that thrive on companionship. If you must leave your goat out for extended periods of time, be sure to provide adequate shelter and check on them regularly. With proper care and attention, goats can be a versatile and low-maintenance addition to any farm.
+However, they are social animals that thrive on companionship. If you must leave your goat out for extended periods of time, be sure to provide adequate shelter and check on them regularly.
+
+With proper care and attention, goats can be a versatile and low-maintenance addition to any farm.
 
 ## What to do if you can't take care of your goat anymore?
 
@@ -118,9 +123,13 @@ Lastly, you could always give the goat away for free to someone who is willing a
 
 There are a number of pros and cons to owning a goat.
 
-On the plus side, [goats are relatively low-maintenance animals that provide milk](/can-a-baby-have-powdered-goats-milk/), meat, and fiber. They can also be used as pack animals or for weed control. In addition, goats are social creatures that enjoy companionship.
+On the plus side, [goats are relatively low-maintenance animals that provide milk](/can-a-baby-have-powdered-goats-milk/), meat, and fiber. They can also be used as pack animals or for weed control.
 
-Despite that, there are also some drawbacks to owning a goat. Goats require a significant amount of space, and they can be destructive if not properly supervised. They also need access to shelter, food, and water. Lastly, goats are susceptible to several diseases and parasites.
+In addition, goats are social creatures that enjoy companionship.
+
+Despite that, there are also some drawbacks to owning a goat. Goats require a significant amount of space, and they can be destructive if not properly supervised.
+
+They also need access to shelter, food, and water. Lastly, goats are susceptible to several diseases and parasites.
 
 Overall, goats can make wonderful pets or working animals. But, it's important to do your research before you decide to bring one home.
 

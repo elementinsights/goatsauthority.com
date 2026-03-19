@@ -46,7 +46,9 @@ We will also look at community reviews of Kabuli Palao made with goats to get a 
 
 ## Can Kabuli Palao be made with goat?
 
-**You can make Kabuli Palao with a goat. In fact, many people argue that the dish tastes even better when made with goat meat. The key to making a good Kabuli Palao with a goat is properly cooking the meat until it is tender and juicy.**
+**You can make Kabuli Palao with a goat. In fact, many people argue that the dish tastes even better when made with goat meat.**
+
+**The key to making a good Kabuli Palao with a goat is properly cooking the meat until it is tender and juicy.**
 
 In addition to goat, Kabuli Palao can also be made with chicken, lamb, or beef. So, if you are looking for a change from the traditional chicken Kabuli Palao, why not try making it with a goat?
 
@@ -92,13 +94,13 @@ Many people have strong feelings about Kabuli Palao, the popular Afghan dish mad
 
 For some, the dish conjures up images of warm family meals and comfort food, while for others it is associated with a particular culture or region.
 
-There seems to be less disagreement about the meat that is typically used to prepare Kabuli Palao—most people prefer either goat meat or lamb over beef.
+There seems to be less disagreement about the meat that is typically used to prepare Kabuli Palao, most people prefer either goat meat or lamb over beef.
 
 Some people claim that goat meat tastes better and has a richer flavor than other meats. They say that this texture is ideal for absorbing the spicy and aromatic flavors in the dish, making each bite as delicious as the one before it.
 
 Others prefer lamb because they feel that it offers a milder flavor and is more tender than the goat.
 
-However, not everyone agrees on these points—some people actually enjoy the stronger flavor of goat and even find it to be more versatile than lamb when preparing Kabuli Palao.
+However, not everyone agrees on these points, some people actually enjoy the stronger flavor of goat and even find it to be more versatile than lamb when preparing Kabuli Palao.
 
 Regardless of personal preferences, most people seem to agree that introducing new variations of Kabuli Palao could help to expand its global appeal by appealing to different culinary tastes around the world.
 

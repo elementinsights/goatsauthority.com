@@ -35,8 +35,9 @@ faq:
   - question: "How and when are goat horns removed?"
     answer: "The process of removing goat horns is somewhat complex, as there are a number of factors that must be taken into consideration when determining how and when the horns should be removed."
 ---
+We usually think of goats as cute, cuddly animals. But what happens when they get older and their horns start to become a problem?
 
-We usually think of goats as cute, cuddly animals. But what happens when they get older and their horns start to become a problem? Is it possible to remove a goat's horns once they're fully grown? And if so, how would you go about doing that?
+Is it possible to remove a goat's horns once they're fully grown? And if so, how would you go about doing that?
 
 In this article, we will discuss whether or not it is possible to remove a goat's horns once they're fully grown. We'll also provide some tips and information on how to go about doing that if you choose to.
 
@@ -44,11 +45,15 @@ In this article, we will discuss whether or not it is possible to remove a goat'
 
 **You can remove your goat's full-grown horns because they are not fully attached to the skull. In fact, they are only attached at the base, which is why they can be removed without harming the goat and without causing any permanent damage.**
 
-The best way to remove a goat's horns is by using a sharp knife or a pair of scissors. First, you will need to make a small cut at the base of the horn. Then, you can carefully pull the horn away from the head. Be sure to exercise caution while doing this so that you do not harm the goat.
+The best way to remove a goat's horns is by using a sharp knife or a pair of scissors. First, you will need to make a small cut at the base of the horn.
+
+Then, you can carefully pull the horn away from the head. Be sure to exercise caution while doing this so that you do not harm the goat.
 
 Once the horns have been removed, you can either dispose of them or keep them for other purposes. For example, some people use them for crafts or as souvenirs.
 
-If you decide to remove your goat's horns, be sure to do so in a safe and humane manner. Do not cause any unnecessary pain or harm to the animal. With that said, removing a goat's horns is generally a safe and straightforward process.
+If you decide to remove your goat's horns, be sure to do so in a safe and humane manner. Do not cause any unnecessary pain or harm to the animal.
+
+With that said, removing a goat's horns is generally a safe and straightforward process.
 
 If you have any questions or concerns, be sure to speak with a goat expert or another professional before taking any action. They will be able to provide you with more information and guidance on this matter.
 
@@ -56,7 +61,9 @@ If you have any questions or concerns, be sure to speak with a goat expert or an
 
 When it comes to the use of their horns, goats are a very versatile species. Unlike most other animals with horns, goats make use of their horns for a variety of activities ranging from defense and fighting to foraging and communication.
 
-One of the primary functions of goat horns is defense. These sturdy antlers make them a formidable opponent against predators, both large and small. Goats will often run at an aggressor while lowering their head and butting it into the other animal in order to drive it away.
+One of the primary functions of goat horns is defense. These sturdy antlers make them a formidable opponent against predators, both large and small.
+
+Goats will often run at an aggressor while lowering their head and butting it into the other animal in order to drive it away.
 
 The hooves on the bottom of their feet also work as a powerful weapon, allowing them to kick and stomp their way out of danger.
 
