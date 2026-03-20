@@ -53,7 +53,7 @@ One question that goat owners often have is whether or not goats can eat laurel 
 
 **This substance is poisonous to goats and can cause health problems if ingested in large quantities. Some of the symptoms that may be seen include weakness, paralysis, difficulty breathing, and even death.**
 
-While Laurel leaves may be off-limits for goats, there are plenty of other plants that they can enjoy. Some good options include alfalfa, clover, and grass.
+While Laurel leaves may be off-limits for goats, there are plenty of other plants that they can enjoy. Some good options include [alfalfa](/can-goats-eat-alfalfa/), clover, and grass.
 
 These plants provide essential nutrients that help keep goats healthy and happy.
 
@@ -75,13 +75,13 @@ Finally, if your goats eat too many laurel leaves, they could experience digesti
 
 The [fact that goats are browsers, as opposed to herbivores, means they favor eating leaves](/can-goats-eat-black-walnut-leaves/) and other types of vegetation. When goats are permitted to travel freely through an area with poisonous plants, this can be problematic.
 
-A good example of one of these plants is the laurel tree, which makes cyanogenic glycoside, a poisonous substance. It's possible for goats to become cyanide poisoned after ingesting this substance, which can result in respiratory problems, paralysis, and death.
+A good example of one of these plants is the laurel tree, which makes cyanogenic glycoside, a [poisonous substance](/can-goats-eat-poison-hemlock/). It's possible for goats to become cyanide poisoned after ingesting this substance, which can result in respiratory problems, paralysis, and death.
 
 The easiest approach to stop your goats from consuming laurel leaves is to keep them contained in a space without laurel trees, either by fencing them in or keeping them there in some other way.
 
 If that's not possible, you might try spraying the leaves with something that has a bitter flavor, such as hot sauce or apple cider vinegar.
 
-Finally, make sure to provide your goats with plenty of hay or other fresh browse so that they will not be tempted to eat laurel leaves.
+Finally, make sure to provide your goats with plenty of [hay](/what-kind-of-hay-do-goats-eat/) or other fresh browse so that they will not be tempted to eat laurel leaves.
 
 ## What are the treatments for goats that have eaten laurel leaves?
 
@@ -135,4 +135,4 @@ Be sure to give them plenty of room to grow, as they can become quite large over
 
 [Goats can eat a variety of different plants](/can-goats-eat-any-plant/), but laurel leaves are not one of them. Laurel leaves are poisonous to goats, and ingesting them can lead to cyanide poisoning.
 
-If you have laurel leaf plants in your garden, be sure to keep them away from your goats. With just a little care and vigilance, you can ensure that your goats stay healthy and safe.
+If you have laurel leaf plants in your garden, be sure to keep them away from your goats. With just a little care and vigilance, you can ensure that your [goats stay healthy](/can-goats-eat-everything/) and safe.

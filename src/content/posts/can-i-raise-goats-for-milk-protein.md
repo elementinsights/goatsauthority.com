@@ -66,7 +66,7 @@ Finally, you will need to decide whether you want to milk your goats by hand or 
 
 If you are going to use a machine, you will need to purchase one that is designed for milking goats.
 
-Raising goats for milk protein is a rewarding experience, and with proper care and management, it can be a successful enterprise. Use the resources below to learn more about raising goats for milk protein.
+Raising goats for [milk protein](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) is a rewarding experience, and with proper care and management, it can be a successful enterprise. Use the resources below to learn more about raising goats for milk protein.
 
 ## What is a goat milk protein and what are its benefits?
 

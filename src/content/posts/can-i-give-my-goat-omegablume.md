@@ -71,7 +71,7 @@ And because it is so effective at promoting healthy long-term growth, many goat 
 
 While there are many benefits associated with giving goats Omegablume, there are also several risks that should be considered. The most important of these risks is the possibility of an allergic reaction.
 
-As Omegablume contains a number of different nutrients and growth factors, it can sometimes have unexpected effects on the bodies of individual animals. This can result in a range of symptoms, including nausea, vomiting, and skin rashes.
+As Omegablume contains a number of different nutrients and growth factors, it can sometimes have unexpected effects on the bodies of individual animals. This can result in a range of symptoms, including nausea, vomiting, and [skin rashes](/can-goat-lice-live-on-humans/).
 
 And also, some studies have suggested that giving goats Omegablume may affect the development of their internal organs, especially the liver and kidneys.
 
@@ -117,7 +117,7 @@ With these simple tips and the help of Omegablume supplements, you can be sure t
 
 In addition to the above tips, there are a few other things you can do to support your goats' health. For instance, it is crucial to keep their living quarters clean and free of potential hazards.
 
-Additionally, be sure to provide them with access to fresh grass or hay at all times, as this will help to ensure that they are getting the fiber they need to stay regular.
+Additionally, be sure to provide them with access to fresh grass or hay at all times, as this will help to ensure that they are getting the [fiber they need to stay regular](/can-goats-recover-from-polio-without-medication/).
 
 And lastly, make sure to keep an eye on their body condition and weight, as this can be an indication of overall health. With these simple steps, you can be sure that your goats are getting the very best care possible.
 

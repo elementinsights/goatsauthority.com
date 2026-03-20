@@ -53,13 +53,13 @@ In this piece, we’re going to look at whether cantaloupes are good eats for go
 
 **But remember to feed in moderation as too much fruit can upset their stomach.**
 
-Cantaloupes are rich in vitamins A and C which help boost the goat’s immune system. They also contain fiber that aids digestion.
+Cantaloupes are rich in vitamins A and C which help boost the goat’s immune system. They also contain [fiber that aids digestion](/can-goats-digest-anything/).
 
 However, this doesn’t mean you should make cantaloupe a large part of your goat’s diet.
 
 It is best used as an occasional snack or reward during training sessions with your furry friend. Always remove the seeds before feeding because they could pose a choking hazard.
 
-Also consider mixing up fruits to give variety in taste and nutrition benefits to your pet goat.
+Also consider mixing up [fruits to give variety](/can-goats-eat-watermelon/) in taste and nutrition benefits to your pet goat.
 
 ### Can Baby Goats Eat Cantaloupe?
 
@@ -71,7 +71,7 @@ Kids have sensitive stomachs and are still developing their digestion system. Ca
 
 The best way is to introduce any new food slowly into your goat’s diet including fruits like cantaloupes. Start with small pieces and watch for any signs of discomfort or changes in behavior.
 
-Remember though, while they love treats, hay should make up most of a kid’s diet followed by grains and greens. Fruits like cantaloupe are just an occasional treat.
+Remember though, while they love treats, [hay should make up most](/what-kind-of-hay-do-goats-eat/) of a kid’s diet followed by grains and greens. Fruits like cantaloupe are just an occasional treat.
 
 ### Can Goats Eat Cantaloupe Rind?
 
@@ -83,7 +83,7 @@ The rind provides essential nutrients that are beneficial for their health. Thes
 
 But remember, moderation is key when feeding your goat cantaloupe rinds.
 
-Too much of anything isn’t good, even if it’s healthy food like cantaloupes or its peelings. So be sure to mix up their diet with other fruits and vegetables too.
+Too much of anything isn’t good, even if it’s healthy food like cantaloupes or its peelings. So be sure to mix up their diet with other [fruits and vegetables](/can-goats-eat-apples/) too.
 
 In conclusion, you don’t have to throw away those melon skins anymore. Your furry friends will happily munch on them while getting some nutritional benefits as well.
 
@@ -109,7 +109,7 @@ But remember, it should only be given in moderation.
 
 Cantaloupes are packed with nutrients like vitamins A and C. These boost the immune system of your goat and keep them healthy.
 
-**Feeding too much fruit to goats is not good though**. Too much sugar can upset their stomachs.
+**Feeding too much fruit to goats is not good though**. Too much sugar can [upset their stomachs](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 A few pieces of cantaloupe make for an ideal snack once or twice a week. This way, you’re ensuring variety in their diet without overdoing it on the sweets.
 
@@ -123,7 +123,7 @@ Goats love to eat a variety of fruits and vegetables, including cantaloupe. This
 
 **Cantaloupes are rich in water content** which can keep your goat hydrated especially during hot weather.
 
-But there’s more to it than just hydration. Cantaloupes have fewer calories compared to other fruits like bananas or apples.
+But there’s more to it than just hydration. Cantaloupes have fewer calories compared to other fruits like [bananas](/can-goats-eat-bananas/) or apples.
 
 So if you’re trying to maintain the weight of your goats, giving them some slices of this melon could be helpful.
 
@@ -153,7 +153,7 @@ However, too much of a good thing can be harmful.
 
 Cantaloupes are high in sugar which isn’t great for your goat’s diet if overdone. To keep them healthy, limit their intake to small portions once or twice a week as an occasional snack.
 
-Remember that the main part of a goat’s diet should always be hay or pasture grasses. Treats like cantaloupe should only make up about 10% of what they eat each day.
+Remember that the main part of a goat’s diet should always be [hay or pasture grasses](/can-goats-eat-alfalfa/). Treats like cantaloupe should only make up about 10% of what they eat each day.
 
 ## Things to Watch Out for When Feeding Cantaloupe to Goats
 
@@ -271,9 +271,9 @@ Goats love to eat a variety of fruits. Cantaloupe is just one item on their menu
 
 Apples are another favorite for these animals. But remember, seeds should be removed as they can cause harm.
 
-Pears and peaches also make good treats for goats. Again, remove the pits before feeding them to your goat.
+[Pears](/can-goats-eat-pears/) and [peaches](/can-goats-eat-peaches/) also make good treats for goats. Again, remove the pits before feeding them to your goat.
 
-Berries like strawberries or blueberries can be enjoyed too.
+Berries like [strawberries](/can-goats-eat-strawberries/) or blueberries can be enjoyed too.
 
 Bananas? Yes.
 

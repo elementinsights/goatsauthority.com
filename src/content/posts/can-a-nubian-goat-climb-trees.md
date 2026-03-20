@@ -41,7 +41,7 @@ faq:
 ---
 Taking care of a Nubian goat is a lot of fun. They are very friendly animals and love to play.
 
-Though they are not as big as some other breeds of goats, they are still fairly large. And like all goats, they are curious creatures that love to explore their surroundings.
+Though they are not as big as some other [breeds of goats](/can-you-breed-screaming-and-fainting-goats/), they are still fairly large. And like all goats, they are curious creatures that love to explore their surroundings.
 
 One thing that you might be wondering about your Nubian goat is whether or not they can climb trees. And if so, is it safe for them to do so?
 
@@ -83,7 +83,7 @@ They typically produce more milk than other [dairy goat breeds](/can-you-breed-a
 
 Their milk is also higher in butterfat, making it ideal for use in cheese and other dairy products. Nubians are also known for their friendly personalities.
 
-They are often considered to be the “clowns” of the goat world. Due to their outgoing nature, Nubians are a popular choice for pet goats.
+They are often considered to be the “clowns” of the goat world. Due to their outgoing nature, Nubians are a popular choice for [pet goats](/can-i-have-goats-where-i-live/).
 
 If you’re looking for a friendly, high-yielding [dairy goat](/can-a-dairy-goats-udder-skin-have-varying-colors/), a Nubian may be the right breed for you.
 
@@ -129,7 +129,7 @@ Here are some fun activities you can do with your Nubian goat that involve climb
 
 ## Tips for taking care of a Nubian goat that likes to climb trees
 
-Nubian goats are a type of domestic goat that is known for their large size and distinctive floppy ears. Nubians originated in Africa, and they were brought to the United States in the early 1900s.
+Nubian goats are a type of domestic goat that is known for their large size and distinctive floppy ears. [Nubians](/can-nigerian-dwarf-goats-be-with-nubians/) originated in Africa, and they were brought to the United States in the early 1900s.
 
 Today, they are one of the most popular breeds of goats in the world. Nubians are known for their playful personalities, and they often enjoy climbing trees.
 

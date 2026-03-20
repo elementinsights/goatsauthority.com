@@ -48,7 +48,7 @@ In this article, we will go over the things you need to consider before getting 
 
 **You can have goats in the city of Lorain, Ohio as long as you adhere to the city's animal control ordinances. These ordinances state that you can have a maximum of two goats per household and that the goats must be confined to your property.**
 
-You will also need to get a livestock permit from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
+You will also need to get a [livestock permit](/can-i-have-goats-where-i-live/) from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
 
 In addition to the city ordinances, there are also some state laws that you need to be aware of. The Ohio Department of Agriculture requires that all goats have a Rabies Vaccination Certificate.
 
@@ -56,7 +56,7 @@ You will need to get this certificate from a licensed veterinarian.
 
 The State also has a law that requires all goats to be registered with the Ohio Division of Animal Health. The registration fee is $10 per goat.
 
-Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of hay and other tough vegetation.
+Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of [hay](/can-my-goats-eat-horse-treats/) and other tough vegetation.
 
 They will also require easy access to freshwater constantly.
 
@@ -66,7 +66,7 @@ If you are considering getting goats in the City of Lorain, Ohio, be sure to do 
 
 There are several different factors to consider when deciding which types of goats are best suited for a city environment. On the one hand, smaller goat breeds like pygmy goats may be more suitable due to their lower space requirements and smaller overall size.
 
-On the other hand, larger goat breeds like Alpine or Saanen goats may have greater milk production potential, making them a better choice for families looking to raise their own dairy products.
+On the other hand, larger goat breeds like Alpine or [Saanen goats](/can-i-raise-goats-for-milk-protein/) may have greater milk production potential, making them a better choice for families looking to raise their own dairy products.
 
 Ultimately, [which type of goat is best for city life](/can-i-have-goats-in-the-city-of-lincoln-city-oregon/) will depend on your individual needs and preferences as well as your local climate and environmental conditions.
 
@@ -82,7 +82,7 @@ For many people, this means that keeping goats in urban areas can be difficult o
 
 For example, you could build a small shelter or pen in your backyard using recycled materials or built-up dirt from a nearby vacant lot.
 
-You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to keep goats successfully in the city, despite their reputation for being hard to handle.
+You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to [keep goats successfully](/can-i-have-goats-in-monroe-county-ny/) in the city, despite their reputation for being hard to handle.
 
 ## What kind of goat fencing is needed in the city?
 
@@ -112,7 +112,7 @@ Ensuring the well-being of your herd is key when keeping goats in the city, and 
 
 There are always risks associated with keeping animals, regardless of whether you live in the city or the country. However, there are a few risks that are specific to city living.
 
-For example, because goats are often kept in small spaces, they can be more susceptible to disease and injury. Additionally, if your goats escape their enclosure, they may be at risk of being hit by a car or getting lost.
+For example, because goats are often kept in [small spaces](/can-i-have-goats-in-warrenville/), they can be more susceptible to disease and injury. Additionally, if your goats [escape their enclosure](/can-i-walk-a-goat-in-skippack-pa/), they may be at risk of being hit by a car or getting lost.
 
 Finally, because goats are social animals, they [need interaction and contact with other goats](/can-contact-with-goats-cause-diarrhea-in-humans/) in order to stay healthy and happy.
 

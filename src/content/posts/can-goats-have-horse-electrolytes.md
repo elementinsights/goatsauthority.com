@@ -85,7 +85,7 @@ Always consult with a goat expert before giving your goat any new supplement, in
 
 There are a few things you can do to prevent electrolyte imbalance in goats. First, make sure that you give them the right type of electrolytes.
 
-Second, be sure to follow the directions on the package carefully. And third, always consult with a goat expert before giving your goat any new supplement, including electrolytes.
+Second, be sure to follow the directions on the package carefully. And third, always consult with a goat expert before giving your goat any new [supplement](/can-baby-goats-have-any-electrolytes/), including electrolytes.
 
 In addition, you can help prevent electrolyte imbalance in goats by making sure they have access to fresh water at all times. [Goats need to drink a lot of water](/can-horses-drink-water-that-has-goat-poop-in-it/) to stay hydrated, so it is important to make sure they always have fresh, clean water available.
 
@@ -127,7 +127,7 @@ So, for a 30-pound kid goat, you would need to provide at least 240 ounces of wa
 
 ## When should you give your goats electrolytes?
 
-Goats are especially susceptible to dehydration and electrolyte imbalance during times of stress, such as during hot weather, drought, or sickness. To help prevent these conditions, it is important to give your goats electrolytes on a regular basis.
+Goats are especially susceptible to dehydration and electrolyte imbalance during times of stress, such as during [hot weather](/can-goats-be-outside-in-winter/), drought, or sickness. To help prevent these conditions, it is important to give your goats electrolytes on a regular basis.
 
 The best time to give them electrolytes is before they become dehydrated or sick. For example, if you know that hot weather is on the way, start giving your goats electrolytes a few days in advance.
 

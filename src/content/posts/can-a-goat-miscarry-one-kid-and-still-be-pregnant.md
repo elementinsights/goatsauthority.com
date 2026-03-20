@@ -52,9 +52,9 @@ Despite that, there's no guarantee that a doe (female goat) will not miscarry al
 
 If your goat has a miscarriage, the first thing you should do is contact a goat expert. They will be able to help you determine the [cause of the miscarriage and provide you with information on how to care for your goat](/can-alfalfa-pellets-cause-goats-to-bloat/) during this difficult time.
 
-Miscarriage can be caused by many different things, including infection, stress, or even dietary deficiencies.
+[Miscarriage](/can-a-goat-get-pregnant-when-not-in-heat/) can be caused by many different things, including infection, stress, or even dietary deficiencies.
 
-Once the cause has been determined, your vet will be able to recommend the best course of treatment. In some cases, goats may need antibiotics to clear an infection or special care to minimize stress.
+Once the cause has been determined, your vet will be able to recommend the best course of treatment. In some cases, goats may need [antibiotics](/can-a-pregnant-goat-have-penicillin/) to clear an infection or special care to minimize stress.
 
 Providing your [goat with the best possible care will help them recover from their loss](/can-goats-recover-from-polio-without-medication/) and ensure a healthy pregnancy in the future.
 
@@ -102,11 +102,11 @@ He penetrates her with his penis and inserts his sperm into her vagina.
 
 The sperm travel up through the cervix and into the uterus, where they fertilize the eggs. The fertilized eggs then implant themselves in the wall of the uterus and begin to grow.
 
-Pregnancy in goats usually lasts around 145 days or about five months. During this time, the mother's body will undergo a number of changes to accommodate the growing fetus.
+[Pregnancy in goats](/can-a-saanen-goat-have-babies-year-round/) usually lasts around 145 days or about five months. During this time, the mother's body will undergo a number of changes to accommodate the growing fetus.
 
 Her abdomen will enlarge as the baby grows, and she may gain weight. The mother will also [produce more milk during pregnancy](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) to nourish her growing offspring.
 
-Giving birth is called parturition, and in goats, it typically occurs without any assistance from humans. However, sometimes complications can arise during labor, so it's crucial to be aware of the signs of distress in mothers who are giving birth.
+[Giving birth](/can-i-use-vaseline-on-goat-birth/) is called parturition, and in goats, it typically occurs without any assistance from humans. However, sometimes complications can arise during labor, so it's crucial to be aware of the signs of distress in mothers who are giving birth.
 
 These can include excessive panting, restlessness, or bleeding. If you see any of these signs, you need to contact a veterinarian for help.
 

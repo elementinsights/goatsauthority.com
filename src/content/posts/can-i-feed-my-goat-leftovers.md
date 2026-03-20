@@ -52,7 +52,7 @@ When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a few thing
 
 This means that they prefer to eat leaves and twigs off of plants rather than grass. In their natural habitat, they would also eat a lot of fruit and nuts.
 
-Since goats are browsers, they need a diet that is high in fiber. The recommended amount of fiber for goats is between 18-22%.
+Since goats are browsers, they need a diet that is high in [fiber](/can-goats-eat-oats/). The recommended amount of fiber for goats is between 18-22%.
 
 Goats also need a lot of protein in their diet. The recommended amount of protein for goats is between 12-16%.
 

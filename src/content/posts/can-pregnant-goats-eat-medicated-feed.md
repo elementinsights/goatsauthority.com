@@ -50,7 +50,7 @@ In this article, we will answer those questions about feeding medicated feed to 
 
 When choosing a medicated feed for your pregnant goats, you need to consider the type of parasite that you are trying to control.
 
-Some common parasites that can affect goats are stomach worms, lungworms, lice, and mites. There are many different types of wormers and medicated feeds available, so be sure to ask your veterinarian or goat breeder for advice on which one is best for your situation.
+Some common parasites that can affect goats are stomach worms, lungworms, [lice](/can-goat-lice-live-on-humans/), and mites. There are many different types of wormers and medicated feeds available, so be sure to ask your veterinarian or goat breeder for advice on which one is best for your situation.
 
 ## What is medicated feed, and why would you want to give it to pregnant goats?
 
@@ -118,7 +118,7 @@ By taking the steps necessary to address any adverse effects and ensuring that y
 
 There are a number of different treatments that you can give your pregnant goats to help prevent them from getting sick.
 
-One option is to vaccinate them against common diseases, such as rabies, chlamydia, and toxoplasmosis. You can also provide them with regular health check-ups and deworm them on a regular basis.
+One option is to vaccinate them against common diseases, such as [rabies](/can-a-goat-get-rabies/), chlamydia, and toxoplasmosis. You can also provide them with regular health check-ups and deworm them on a regular basis.
 
 Additionally, it is important to make sure that they have access to clean water and food, as well as shelter from the elements.
 

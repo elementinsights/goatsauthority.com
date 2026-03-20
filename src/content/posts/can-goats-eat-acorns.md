@@ -51,17 +51,17 @@ This article will shed light on whether or not these woodland treats are safe fo
 
 **The short answer is yes, but with caution. Acorns are not toxic to goats in small amounts.**
 
-They can be an extra source of nutrients for them. Acorns contain protein and fat which are good for your goat’s health.
+They can be an extra source of nutrients for them. Acorns contain [protein and fat](/can-goats-eat-oats/) which are good for your goat’s health.
 
 However, there’s a catch you need to know about. Acorns also have tannins, these substances can harm your goat if they eat too many at once or over time.
 
-Tannins give the bitter taste in acorn that some animals dislike. More importantly, high levels of tannin intake may lead to digestive problems in goats like bloating and constipation.
+Tannins give the bitter taste in acorn that some animals dislike. More importantly, high levels of tannin intake may lead to [digestive problems in goats](/can-goats-digest-anything/) like bloating and constipation.
 
 It gets worse when the acorn consumption becomes habitual because it could cause kidney damage or even death due to poisoning from excessive tannin ingestion over time.
 
 So what should you do as a responsible owner? It’s simple: moderation is key here just like any other food item on their menu.
 
-Make sure that eating acorns doesn’t become daily routine for your pet. Instead treat it as occasional snack only.
+Make sure that eating acorns doesn’t become daily routine for your pet. Instead treat it as [occasional snack](/can-goats-eat-pumpkin/) only.
 
 Also keep an eye out during fall season since this is when most oak trees drop their fruits thus increasing chances of your herd stumbling upon them while grazing outside.
 
@@ -75,7 +75,7 @@ Remember, happy healthy goats make happy satisfied owners.
 
 They can be harmful to goats if consumed in large amounts.
 
-**Soaking and boiling the acorns** before feeding them to your goats is one way of cooking them. This process helps remove some of the tannins making it safer for your furry friends.
+**[Soaking and boiling the acorns](/can-goats-eat-potatoes/)** before feeding them to your goats is one way of cooking them. This process helps remove some of the tannins making it safer for your furry friends.
 
 But remember, even cooked or processed, they should only make up a small part of your goat’s diet. Too much could still lead to health problems like stomach upset or kidney damage over time.
 
@@ -115,7 +115,7 @@ Goat breeds differ in how much tannin they can tolerate. Some types may eat more
 
 Age is another factor affecting goat’s intake of acorns. Younger ones might not digest them as well as mature goats do due to developing digestive systems.
 
-Availability plays a role too: If other foods like grass or hay aren’t available, your goat might turn to eating more acorns out of necessity rather than preference.
+Availability plays a role too: If other foods like grass or [hay](/what-kind-of-hay-do-goats-eat/) aren’t available, your goat might turn to eating more acorns out of necessity rather than preference.
 
 Lastly but importantly is taste: Not all goats find the flavor appealing so some may avoid them even when there’s nothing else around to eat.
 
@@ -207,17 +207,17 @@ But can goats eat acorns? The answer is yes and no.
 
 Goats can technically consume acorns without immediate harm. However, too many may cause health issues over time due to tannins found in them.
 
-Let’s compare this with other snacks goats enjoy like apples or carrots. These foods provide essential nutrients that support goat health while being safe to eat in larger quantities.
+Let’s compare this with other snacks goats enjoy like [apples](/can-goats-eat-apples/) or [carrots](/can-goats-eat-carrots/). These foods provide essential nutrients that support goat health while being safe to eat in larger quantities.
 
-On the flip side, you have things like chocolate which should never be given to your goat because it contains substances harmful to them similar to dogs and cats.
+On the flip side, you have things like [chocolate](/can-goats-eat-chocolate/) which should never be given to your goat because it contains substances harmful to them similar to dogs and cats.
 
 The key takeaway here is moderation, just as humans shouldn’t binge on junk food regularly. Similarly we need balance for our pet’s diet too.
 
-So next time you see your goat eyeing an oak tree full of tasty looking acorns remember: A few won’t hurt but don’t let it become a habit. And always make sure they’re getting plenty of healthy fruits and veggies along with their regular feed so they stay strong and happy all year round.
+So next time you see your goat eyeing an oak tree full of tasty looking acorns remember: A few won’t hurt but don’t let it become a habit. And always make sure they’re getting plenty of healthy [fruits and veggies](/can-goats-eat-watermelon/) along with their regular feed so they stay strong and happy all year round.
 
 ## Real-Life Experiences and Nutritional Composition of Acorns
 
-As a goat owner, I’ve seen firsthand how goats are curious eaters. They nibble on many things to explore their environment.
+As a goat owner, I’ve seen firsthand how goats are curious eaters. They nibble on [many things](/why-do-goats-eat-everything/) to explore their environment.
 
 Acorns have been part of this exploration too.
 

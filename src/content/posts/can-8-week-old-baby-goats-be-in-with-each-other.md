@@ -42,7 +42,7 @@ faq:
     answer: "Baby goats, or kids, need to drink between 2 and 4 quarts of milk per day. In addition, they should have access to water at all times."
 ---
 
-As you may or may not know, baby goats are absolutely adorable. In fact, they’re so cute that many people choose to keep them as pets.
+As you may or may not know, baby goats are absolutely adorable. In fact, they’re so cute that many people choose to [keep them as pets](/can-i-buy-a-goat-as-a-pet/).
 
 But what happens when those baby goats reach 8 weeks old? Can they still be around other baby goats, or do they need to be kept separate?
 
@@ -56,7 +56,7 @@ These are all valid questions, and ones that we’re going to answer for you. So
 
 **If you put two baby goats together that are of different sexes, they may try to mate and could hurt each other.**
 
-So, if you have two baby goats that are both males or both females, you can put them together. But if you have a male and female goat, it’s best to keep them separate.
+So, if you have two baby goats that are both males or both females, you can put them together. But if you have a male and female goat, it’s best to [keep them separate](/can-goats-be-kept-in-the-house/).
 
 Lastly, if you have more than two baby goats, you can put them all together regardless of their sex. The more the merrier for baby goats and they will enjoy each other’s company.
 
@@ -68,9 +68,9 @@ You can tell the difference between a boy and a girl goat by their tails. If a g
 
 If a goat's tail is pointing down, it's a girl. Male goats also have larger horns than female goats.
 
-Goats are social animals and like to live in groups. They are very curious and playful, and they love to explore their surroundings.
+[Goats are social animals](/can-dogs-and-pygmy-goats-live-together/) and like to live in groups. They are very curious and playful, and they love to explore their surroundings.
 
-Goats are also very good at jumping and climbing. Baby goats are especially active and playful.
+Goats are also very good at jumping and [climbing](/can-goats-climb-fences/). Baby goats are especially active and playful.
 
 They love to run and jump around, and they often butt heads with each other while playing.
 
@@ -86,11 +86,11 @@ Secondly, baby goats need a lot of fresh food and water. Goats are browsers, whi
 
 Make sure to provide plenty of hay, fresh vegetables, and water for your baby goats to munch on.
 
-In addition to the basic needs of food, water, and shelter, there are a few other things you should keep in mind when taking care of baby goats. One is that baby goats love to play.
+In addition to the basic needs of food, water, and [shelter](/can-a-goat-barn-be-12x-2/), there are a few other things you should keep in mind when taking care of baby goats. One is that baby goats love to play.
 
 They are very active creatures, so it's crucial to provide them with plenty of toys and space to run around.
 
-Another thing to keep in mind is that baby goats are very social animals. They love being around people and other animals, so make sure to provide them with plenty of socialization opportunities.
+Another thing to keep in mind is that baby goats are very social animals. They love being around people and [other animals](/can-ducks-and-goats-coexist/), so make sure to provide them with plenty of socialization opportunities.
 
 Lastly, baby goats are very curious creatures. They will try to eat anything they can get their mouths on, so you need to be aware of what they are eating and to keep an eye on them at all times.
 
@@ -142,7 +142,7 @@ Finally, if there are any visible injuries on the goat, we advise you to seek ve
 
 There are a few diseases that are particularly common in baby goats. One of the most common is diarrhea, which can be caused by several different things, including overeating, eating too much sugar or starch, or drinking contaminated water.
 
-Another common disease is pneumonia, which can be caused by exposure to cold temperatures or dusty conditions. Kidney disease is also relatively common in baby goats, and it can be caused by quite of few different things, including congenital defects, infection, or trauma.
+Another common disease is pneumonia, which can be caused by exposure to [cold temperatures](/can-weather-affect-goats-poop/) or dusty conditions. Kidney disease is also relatively common in baby goats, and it can be caused by quite of few different things, including congenital defects, infection, or trauma.
 
 ## Frequently asked questions (FAQs) and More
 
@@ -150,7 +150,7 @@ Let's dive in to some commonly asked questions about baby goats and if they can 
 
 ### What are the benefits of keeping baby goats together in one pen versus separating them into individual pens?
 
-There are a few benefits to keeping baby goats together in one pen. For starters, it can help to socialize them and make them more comfortable around humans.
+There are a few benefits to keeping baby goats together in [one pen](/can-goats-pigs-and-chickens-live-in-the-same-barn/). For starters, it can help to socialize them and make them more comfortable around humans.
 
 Additionally, it can be easier to keep an eye on them if they are all in one place.
 
@@ -178,7 +178,7 @@ Finally, their coat should be shiny and free of any bald spots or other irregula
 
 If baby goats are not kept in a clean and safe environment, they could be at risk for a number of different problems.
 
-For starters, they could develop health problems due to unsanitary conditions. Additionally, they could be injured if they are left in a pen that is not safe.
+For starters, they could develop health problems due to unsanitary conditions. Additionally, they could be injured if they are left in a [pen](/can-a-goat-pen-have-pine-trees-in-it/) that is not safe.
 
 Finally, baby goats are very curious and can get into mischief if they are not supervised. This could result in them ingesting something that is harmful or getting lost.
 
@@ -192,4 +192,4 @@ However, it's important to remember that they require a lot of care and attentio
 
 By understanding their needs and taking the time to provide them with a clean and safe environment, you can help to ensure that your baby goats are happy and healthy.
 
-Overall, baby goats are relatively easy to care for, but they do require some special attention. By providing them with a clean and safe environment and meeting their other needs, you can help to ensure that they are happy and healthy.
+Overall, baby goats are relatively easy to care for, but they do require some special attention. By providing them with a [clean and safe environment](/can-pine-chips-be-used-as-bedding-for-goats/) and meeting their other needs, you can help to ensure that they are happy and healthy.

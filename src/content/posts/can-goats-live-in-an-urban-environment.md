@@ -45,7 +45,7 @@ In this article, we will answer those questions for you. We will also provide so
 
 ## Can goats live in an urban environment?
 
-**Goats can live in an urban environment. In fact, goats are becoming increasingly popular as pets in urban areas.**
+**Goats can live in an urban environment. In fact, goats are becoming increasingly [popular as pets](/can-i-buy-a-goat-as-a-pet/) in urban areas.**
 
 **They are also being used more and more for landscaping in urban areas, as they are very effective at eating weeds and other unwanted plants.**
 
@@ -73,7 +73,7 @@ Furthermore, goats are relatively quiet and low-maintenance animals, making them
 
 ## What are the risks of keeping goats in an urban environment?
 
-One of the main risks of keeping goats in an urban environment is the risk of escape. Goats are curious animals, and they are often able to find ways out of even the most secure enclosures.
+One of the main risks of keeping goats in an urban environment is the risk of escape. Goats are curious animals, and they are often able to [find ways out of even the most secure enclosures](/can-goats-climb-fences/).
 
 If a goat escapes, it may be difficult to find and capture it, especially if it has gotten loose in a busy city. In addition, [goats can cause problems](/can-alfalfa-pellets-cause-goats-to-bloat/) for other urban dwellers if they manage to get into gardens or trash cans.
 
@@ -117,7 +117,7 @@ If you're thinking about getting a goat, be sure to do your research so that you
 
 ## How to provide water for your goats in an urban environment?
 
-Goats are uniquely suited to urban environments. They are relatively small and clean animals that can be kept in even the smallest yards.
+Goats are uniquely suited to urban environments. They are relatively small and clean animals that [can be kept in even the smallest yards](/can-goats-be-kept-in-the-house/).
 
 Best of all, goats are browsers rather than grazers, which means they can thrive on a diet of weeds, leaves, and other vegetation that would otherwise go to waste. However, one challenge of keeping goats in an urban environment is providing them with enough water.
 

@@ -72,7 +72,7 @@ This will allow the ivermectin to be properly absorbed. If you have any question
 
 [Ivermectin is a medication](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body.
 
-Ivermectin is most commonly used to treat worms, but it can also be used to treat mites and lice. Goats can become infected with parasites through contact with contaminated soil or water.
+Ivermectin is most commonly used to treat worms, but it can also be used to treat [mites](/can-goats-get-mites/) and [lice](/can-goat-lice-go-into-a-dormant-stage/). Goats can become infected with parasites through contact with contaminated soil or water.
 
 They can also pick up parasites from other animals, such as sheep and cattle. Treatment with ivermectin will kill the existing parasites and help to prevent new infections from developing.
 
@@ -84,13 +84,13 @@ When given via injection, ivermectin can help to kill parasites that are living 
 
 Goats are particularly susceptible to parasitic infections, so the administration of ivermectin can help to keep them healthy.
 
-In addition to preventing parasitic infections, ivermectin can also be used to treat certain types of skin conditions in goats. When used correctly, ivermectin is safe and effective for goats of all ages.
+In addition to preventing [parasitic infections](/can-goats-get-worms-from-acorns/), ivermectin can also be used to treat certain types of skin conditions in goats. When used correctly, ivermectin is safe and effective for goats of all ages.
 
 ## What are the risks associated with giving ivermectin to goats?
 
 It is crucial to note that, while administering ivermectin can be beneficial for goats, there are some risks associated with using this medication.
 
-Ivermectin can be toxic if given in too high of a dose, so it is essential to consult with your veterinarian before giving any form of ivermectin to your goats.
+Ivermectin can be [toxic](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/) if given in too high of a dose, so it is essential to consult with your veterinarian before giving any form of ivermectin to your goats.
 
 The correct dose and type of ivermectin should be used to ensure the safety of your animals. Additionally, there is a risk that the parasites may become resistant to ivermectin over time, so it is important to discuss other parasite control methods with your veterinarian as well.
 
@@ -106,7 +106,7 @@ Finally, rub your goat's throat to encourage swallowing. Repeat this process for
 
 giving them all the same dose. Ivermectin can be given orally to goats on a monthly basis to prevent heartworm disease and control parasites.
 
-It is important to follow the dosage instructions on the package insert, as overdoses can be fatal. If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
+It is important to follow the dosage instructions on the package insert, as [overdoses can be fatal](/can-too-much-penicillin-given-to-baby-goat-die/). If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
 
 ## How to give your goat an injection dose of ivermectin?
 

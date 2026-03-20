@@ -48,7 +48,7 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you drink milk from goats with mastitis?
 
-**You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus.**
+**You cannot drink milk from goats with mastitis. Mastitis is an infection of the [mammary glands](/do-goats-have-udders/) that causes pain, swelling, and milk to become discolored or contain pus.**
 
 **This makes it dangerous to consume milk containing these bacteria and viruses. If you do drink contaminated milk, you could get sick.**
 
@@ -74,7 +74,7 @@ Mastitis is usually caused by bacteria that enter the breast through cracked or 
 
 Most women who develop mastitis make a full recovery and are able to continue breastfeeding without any problems. Despite that, some women may experience recurrent episodes of mastitis or may develop a more serious form of infection known as puerperal sepsis.
 
-Therefore, it is crucial to see your doctor if you think you might have mastitis. Treatment for mastitis is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
+Therefore, it is crucial to see your doctor if you think you might have mastitis. Treatment for [mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
 
 ## How do you get mastitis and how is it treated?
 
@@ -82,7 +82,7 @@ Mastitis is a bacterial infection of the breast tissue that most commonly affect
 
 Symptoms of mastitis include pain, swelling, redness, and warmth in the affected area. In some cases, the mother may also experience fever, chills, and fatigue.
 
-Treatment for mastitis typically involves a course of antibiotics, as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
+Treatment for mastitis typically involves a course of [antibiotics](/can-ibuprofen-be-given-to-lactating-goats/), as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
 
 In most cases, mastitis resolves without any lasting complications.
 

@@ -51,9 +51,9 @@ In this article, we will answer all of your questions about keeping goats in the
 
 ## Can goats be kept in the house?
 
-**Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be used as fertilizer.**
+**Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be [used as fertilizer](/can-goat-poop-be-used-as-fertilizer/).**
 
-However, it's important to note that goats are social animals and need to be kept in pairs or groups. They also need access to grazing areas and should not be kept indoors all the time.
+However, it's important to note that goats are social animals and need to be [kept in pairs or groups](/can-8-week-old-baby-goats-be-in-with-each-other/). They also need access to grazing areas and should not be kept indoors all the time.
 
 ## What are the benefits of keeping goats in the house?
 
@@ -83,7 +83,7 @@ The enclosure should be big enough for the [goat to move around freely and have 
 
 You will also need to provide a litter box for your goat. Goats are relatively clean animals and can be easily trained to use a litter box.
 
-Finally, you will need to provide plenty of fresh hay, water, and grazing areas for your goat. Goats are social animals and need to be around other goats, so it's crucial to have more than one goat in the house.
+Finally, you will need to provide plenty of [fresh hay](/can-pine-chips-be-used-as-bedding-for-goats/), water, and grazing areas for your goat. Goats are social animals and need to be around other goats, so it's crucial to have more than one goat in the house.
 
 ## What type of housing is best for goats kept inside the home?
 
@@ -91,9 +91,9 @@ While most people think of goats as outdoor animals, they can actually make surp
 
 First, [goats are very active and love to climb](/can-goats-climb-fences/), so they need plenty of space to run and play. A small pen or dog crate will not be sufficient.
 
-Instead, opt for a larger enclosure that gives your goat room to roam.
+Instead, opt for a [larger enclosure](/can-a-goat-barn-be-12x-2/) that gives your goat room to roam.
 
-Secondly, goats are very social creatures and do their best when they have companionship. If you only have one goat, consider getting two so that they can keep each other company.
+Secondly, goats are very social creatures and do their best when they have companionship. If you only have one goat, consider getting two so that they can [keep each other company](/can-dogs-and-pygmy-goats-live-together/).
 
 Finally, goats are very curious animals and love to explore their surroundings. Make sure that their enclosure is securely fenced so that they cannot escape and get into trouble.
 
@@ -123,7 +123,7 @@ There are a few breeds of goats that make good house pets. Some of the most popu
 
 These breeds are all small in size, which makes them well-suited for life indoors. They're also relatively easy to care for, and they make great companions.
 
-If you're considering keeping a goat as a house pet, be sure to do your research and choose a breed that will be a good fit for your lifestyle.
+If you're considering [keeping a goat as a house pet](/can-i-buy-a-goat-as-a-pet/), be sure to do your research and choose a breed that will be a good fit for your lifestyle.
 
 ## Final Thoughts
 

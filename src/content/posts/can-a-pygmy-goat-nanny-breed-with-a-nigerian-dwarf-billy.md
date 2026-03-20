@@ -54,7 +54,7 @@ However, it's important to note that both the Pygmy Goat and Nigerian Dwarf Bill
 
 Pygmy goats are a breed of miniature domestic goats. Pygmy goats tend to be kept as pets, although they can also be used for milk production or meat.
 
-Nigerian dwarf goats are a breed of miniature dairy goats. Nigerian dwarf goats are typically used for milk production, but they can also be kept as pets.
+[Nigerian dwarf goats](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/) are a breed of miniature dairy goats. Nigerian dwarf goats are typically used for milk production, but they can also be kept as pets.
 
 Males of both breeds are called "bucks", while females are called "does". Young pygmy and Nigerian dwarf goats are known as "kids".
 
@@ -98,7 +98,7 @@ When it comes time to breed your goats, there are a few different options to con
 
 This method can be helpful if you are trying to breed specific traits into your herd, or if you do not have access to a buck (a male goat).
 
-Another option is natural mating, which involves putting a buck and doe (female goat) together during the breeding season. This method is less controlled than artificial insemination, but it can be more fun for both the [goats and the humans](/can-i-give-my-goats-human-fish-pills/) involved.
+Another option is [natural mating](/can-you-breed-a-half-brother-and-sister-goat/), which involves putting a buck and doe (female goat) together during the breeding season. This method is less controlled than artificial insemination, but it can be more fun for both the [goats and the humans](/can-i-give-my-goats-human-fish-pills/) involved.
 
 Whichever method you choose, it's important to keep detailed records of the breeding process. This will help you track the health and progress of your herd over time.
 

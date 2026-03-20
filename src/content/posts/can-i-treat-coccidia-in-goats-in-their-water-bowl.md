@@ -79,7 +79,7 @@ In general, investing in coccidia treatment for your herd is a decision that wil
 
 ## What are the risks of not treating coccidia in goats?
 
-Coccidia are a common parasitic infection in goats, affecting both young and adult animals alike. Without proper treatment, coccidia can cause severe digestive issues, weight loss, and even death in extreme cases.
+Coccidia are a common [parasitic infection](/can-goats-get-worms-from-acorns/) in goats, affecting both young and adult animals alike. Without proper treatment, coccidia can cause severe digestive issues, weight loss, and even death in extreme cases.
 
 In addition to these potentially life-threatening complications, untreated coccidia also puts other livestock at risk by introducing the parasite into shared pastures and water sources.
 
@@ -89,7 +89,7 @@ For these reasons, it is absolutely essential to manage coccidian infections in 
 
 The most common symptom of coccidiosis in goats is diarrhea. This can range from mild to severe, and it may be watery or contain blood.
 
-Coccidiosis can also cause weight loss, dehydration, and anemia. If your goat is showing any of these symptoms, they should be seen by a veterinarian as soon as possible.
+Coccidiosis can also cause weight loss, dehydration, and [anemia](/can-goats-have-a-stroke-anemia/). If your goat is showing any of these symptoms, they should be seen by a veterinarian as soon as possible.
 
 Coccidiosis is a serious disease, and it can be fatal if left untreated. If you think your goat may have coccidiosis, you should contact your veterinarian immediately.
 
@@ -111,9 +111,9 @@ They will be able to diagnose and treat the disease quickly and help your goat r
 
 There are a few different things that you can do to treat coccidia in goats. One option is to use antinausea medication, which can help to relieve the stomach discomfort caused by the disease.
 
-Another excellent approach is to supplement your goat's diet with probiotics, which encourage good gut health and help to keep the digestive system balanced and protected from infection.
+Another excellent approach is to supplement your goat's diet with probiotics, which encourage good [gut health](/can-you-debloat-a-goat/) and help to keep the digestive system balanced and protected from infection.
 
-You may also consider giving your goat an electrolyte solution, which will ensure that he or she has adequate hydration during this time and supports overall health.
+You may also consider giving your goat an [electrolyte solution](/can-goats-have-horse-electrolytes/), which will ensure that he or she has adequate hydration during this time and supports overall health.
 
 By focusing on these strategies and getting expert guidance from a veterinarian, you can effectively treat coccidia in your goats and help them to regain their health.
 

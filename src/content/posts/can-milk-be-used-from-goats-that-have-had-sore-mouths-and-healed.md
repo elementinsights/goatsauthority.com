@@ -80,7 +80,7 @@ Finally, it is crucial to [provide the goat with plenty of fresh water](/can-i-g
 
 A sore mouth is a [disease that affects goats](/can-weather-affect-goats-poop/), primarily young kids, and adult dairy cows. It is caused by a bacteria called parapoxvirus ovis, which can be transmitted between animals by direct contact.
 
-Symptoms of a sore mouth include swelling and open sores in the mouth and on the tongue. In addition, affected animals may show signs of weakness and lethargy, along with difficulty eating and drinking.
+Symptoms of a sore mouth include swelling and open sores in the mouth and on the tongue. In addition, affected animals may show signs of [weakness and lethargy](/can-a-goat-get-sick-from-cold/), along with difficulty eating and drinking.
 
 If left untreated, a sore mouth can have serious consequences for the health and productivity of goats. However, with early diagnosis and appropriate treatment, most cases can be successfully managed.
 
@@ -134,7 +134,7 @@ If you think that your goat may have a sore mouth, it is important to contact yo
 
 Goat's milk is often used in infant formula, as it is similar to human breast milk. It is also commonly used in cheese and ice cream production.
 
-Goat's milk has a higher fat content than cow's milk, making it richer and more creamy. It is also lower in lactose, making it easier to digest for some people.
+Goat's milk has a higher fat content than cow's milk, making it richer and more creamy. It is also lower in lactose, making it easier to [digest](/can-someone-allergic-to-milk-use-goats-milk/) for some people.
 
 In addition to its culinary uses, [goat's milk](/can-goat-milk-reduce-wrinkles/) is also used in a number of cosmetic and skincare products. This includes soaps, lotions, and shampoos.
 

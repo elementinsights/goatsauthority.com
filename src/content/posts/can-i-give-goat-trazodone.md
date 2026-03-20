@@ -40,9 +40,9 @@ faq:
     answer: "Many goat owners struggle with knowing when their goats need medication. It can be difficult to detect subtle signs of health problems, particularly in animals that are known for hiding illness."
 ---
 
-Taking care of goats can be a rewarding experience. They are interesting animals with their own unique personalities.
+Taking care of [goats](/how-many-stomachs-do-goats-have/) can be a rewarding experience. They are interesting animals with their own unique personalities.
 
-However, like any animal, they can also get sick. When a goat is sick, it's important to get the proper treatment so it can recover quickly and get back to their normal self.
+However, like any animal, they can also [get sick](/can-a-goat-get-a-cold-sore/). When a goat is sick, it's important to get the proper treatment so it can recover quickly and get back to their normal self.
 
 One question that sometimes comes up is whether or not you can give a goat Trazodone. And if so, what is the proper dosage?
 
@@ -68,7 +68,7 @@ Many people use trazodone as an antidepressant because it increases the levels o
 
 However, this neurological effect can have unintended consequences for other animals, including goats.
 
-Studies have shown that high doses of trazodone can lead to vomiting and diarrhea in goats, which is likely due to the drug's inhibition of transport proteins that regulate gastrointestinal processes.
+Studies have shown that high doses of trazodone can lead to [vomiting and diarrhea](/can-goats-drink-cows-milk/) in goats, which is likely due to the drug's inhibition of transport proteins that regulate gastrointestinal processes.
 
 Additionally, trazodone has been found to disrupt various hormonal processes in goats, particularly those related to reproduction.
 
@@ -90,11 +90,11 @@ Ultimately, optimal dosing will depend on factors such as breed and overall heal
 
 Many goat owners struggle with knowing when their goats need medication. It can be difficult to detect subtle signs of health problems, particularly in animals that are known for hiding illness.
 
-Despite that, there are some common signs that can indicate that a goat needs treatment. One such sign is lethargy or sluggishness, which may manifest as dull eyes, weak movements, and a general lack of energy.
+Despite that, there are some common signs that can indicate that a goat needs treatment. One such sign is lethargy or sluggishness, which may manifest as dull eyes, weak movements, and a general [lack of energy](/can-nutri-drench-be-given-to-lactating-goats/).
 
-In addition, a change in appetite is often a sign that something is wrong, either due to gastrointestinal distress or another health issue. Changes in behavior can also be a red flag, such as increased aggression or an unwillingness to interact with other animals or people.
+In addition, a change in appetite is often a sign that something is wrong, either due to [gastrointestinal distress](/can-dogs-get-tapeworms-from-goats/) or another health issue. Changes in behavior can also be a red flag, such as increased aggression or an unwillingness to interact with other animals or people.
 
-And of course, elevated body temperatures are usually a clear indication of an infection or illness. By keeping a close eye on these common indicators, goat owners can help to ensure the optimal health and well-being of their beloved pets.
+And of course, elevated body temperatures are usually a clear indication of an [infection or illness](/can-goats-get-the-bubonic-plague/). By keeping a close eye on these common indicators, goat owners can help to ensure the optimal health and well-being of their beloved pets.
 
 ## How do you administer Trazodone to a goat?
 

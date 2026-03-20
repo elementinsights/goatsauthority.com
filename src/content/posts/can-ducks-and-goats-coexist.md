@@ -75,7 +75,7 @@ Ultimately, there are many reasons why keeping goats and ducks together is a goo
 
 Before deciding to keep goats and ducks together on your farmstead, there are a few things you need to take into consideration.
 
-One is the amount of space you have available. Both goats and ducks need a certain amount of space to roam and stay healthy, so you'll need to make sure you have enough room for both species.
+One is the [amount of space](/can-a-goat-barn-be-12x-2/) you have available. Both goats and ducks need a certain amount of space to roam and stay healthy, so you'll need to make sure you have enough room for both species.
 
 Another thing to consider is whether or not you have enough time to [care for both types of animals](/can-goats-die-from-lymes/).
 
@@ -115,7 +115,7 @@ There are a number of different livestock combinations that farmers and ranchers
 
 One of the main benefits of this combination is that it requires less space than other types of livestock.
 
-This is because both goats and ducks are relatively small animals. In addition, they can be kept in the same enclosure, which further reduces the amount of space that is needed.
+This is because both goats and ducks are relatively [small animals](/can-pygmy-goats-sleep-with-chickens/). In addition, they can be kept in the same enclosure, which further reduces the amount of space that is needed.
 
 Another advantage of this combination is that it can provide a good source of income.
 

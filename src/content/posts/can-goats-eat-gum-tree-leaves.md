@@ -62,7 +62,7 @@ it's crucial to carefully monitor your goats when they are eating leaves from an
 
 ## What are gum trees and what do they look like?
 
-Gum trees are a type of tree that is native to Australia. They are also known as eucalyptus trees.
+Gum trees are a type of tree that is native to Australia. They are also known as [eucalyptus](/can-pygmy-goats-eat-eucalyptus/) trees.
 
 Gum trees can range in height from 30 to 50 feet. They have smooth, bark that is white or gray in color.
 
@@ -106,7 +106,7 @@ Chewing gum made from eucalyptus leaves is considered safe, but chewing large am
 
 ## How to harvest and prepare gum tree leaves for goat consumption?
 
-Gum trees are a type of evergreen tree that is native to Australia. The leaves of these trees are high in nutrients and are a favored [food source for goats](/can-sheep-eat-goat-food/).
+Gum trees are a type of [evergreen tree](/can-goats-eat-pine-trees/) that is native to Australia. The leaves of these trees are high in nutrients and are a favored [food source for goats](/can-sheep-eat-goat-food/).
 
 In order to harvest the leaves, it's best to wait until they have fallen from the tree naturally.
 

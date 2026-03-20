@@ -50,7 +50,7 @@ In this article, we will answer your questions and give you some tips on how to 
 
 **You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock.**
 
-**A flock is a group of animals that live together. Sheep and goats are social animals, and they live in flocks.**
+**A flock is a group of animals that live together. Sheep and [goats are social animals](/can-i-mix-newborn-goats-and-older-goats/), and they live in flocks.**
 
 Flock and herd are not only words used to describe a group of sheep and goats but they can be applied more generally to any group of animals.
 
@@ -68,11 +68,11 @@ They are both social animals that live in groups, which are called herds. Herds 
 
 A herd is a group of sheep and goats that live together. The size of a herd can vary depending on the amount of food and water available, as well as the amount of space.
 
-A typical herd usually consists of between 10 and 100 animals, although some herds can be much larger. Herds are typically led by a dominant male, who will mate with the females in the group.
+A typical herd usually consists of between 10 and 100 animals, although some herds can be much larger. Herds are typically led by a [dominant male](/can-you-band-a-2-year-old-buck-goat/), who will mate with the females in the group.
 
 The rest of the herd members will typically be made up of females and their young offspring. While sheep and goats are often kept together in a herd, they do have some differences.
 
-Sheep are generally larger and have thicker wool coats, while goats are sleeker and have longer horns. Despite that, both animals are social creatures that prefer to live in groups.
+Sheep are generally larger and have thicker wool coats, while goats are sleeker and have [longer horns](/can-i-remove-my-goat-full-grown-horns/). Despite that, both animals are social creatures that prefer to live in groups.
 
 By living in a herd, sheep and goats can benefit from mutual protection against predators and the elements.
 
@@ -116,7 +116,7 @@ Similarly, [goats that live in a harsh environment](/can-goats-live-in-an-urban-
 
 ## How much does it cost to raise them?
 
-The cost of raising sheep and goats can vary depending on a number of factors, such as the type of animal, the climate, and the amount of land available.
+The cost of [raising sheep and goats](/can-goats-make-money/) can vary depending on a number of factors, such as the type of animal, the climate, and the amount of land available.
 
 In general, sheep are more expensive to raise than goats. This is because they require more food and shelter, and they are also more susceptible to disease.
 
@@ -140,4 +140,4 @@ Ultimately, there are a few health concerns that sheep and goats can experience,
 
 Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
 
-If you are considering getting a sheep or goat, be sure to do your research and find an animal that is right for you.
+If you are considering getting a sheep or goat, be sure to do your research and find an [animal that is right for you](/where-did-kiko-goats-originate/).

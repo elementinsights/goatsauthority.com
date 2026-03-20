@@ -61,13 +61,13 @@ As an outcome, it's crucial to exercise caution when allowing goats to eat cedar
 
 ## Can a pregnant goat eat cedar trees?
 
-Pregnant goats should not eat cedar trees. Cedar trees contain a toxin that can cause abortion in pregnant goats.
+[Pregnant goats](/can-i-feed-my-goat-pine-needles-when-it-is-pregnant/) should not eat cedar trees. Cedar trees contain a toxin that can cause abortion in pregnant goats.
 
 The toxin is found in the leaves and stems of the cedar tree. If a pregnant goat eats any part of the cedar tree, it's likely that she will miscarry.
 
 In addition, cedar trees can also cause digestive problems in goats.
 
-The leaves of the cedar tree are sharp, and they can irritate a goat's stomach and intestines. eating cedar leaves can also lead to diarrhea and vomiting.
+The leaves of the cedar tree are sharp, and they can irritate a goat's stomach and intestines. eating cedar leaves can also lead to diarrhea and [bloating](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 For these reasons, it's best to keep pregnant goats away from cedar trees.
 
@@ -95,11 +95,11 @@ So if you're looking for a safe, healthy tree for your baby goat to eat, cedar i
 
 A sick goat can eat cedar trees. Cedar trees are evergreens that provide goats with a source of food and shelter year-round.
 
-Goats are browsers and prefer to eat the leaves and twigs of plants. Despite that, they will also eat the bark of trees if they are hungry enough.
+Goats are browsers and prefer to eat the [leaves and twigs](/can-goats-eat-maple-leaves/) of plants. Despite that, they will also eat the bark of trees if they are hungry enough.
 
 While cedar trees are not the first choice for browse, they can provide essential nutrients for goats that are sick or recovering from an illness.
 
-On top of that, cedar trees can help goats to stay warm in cold weather and protect them from the elements. As a result, sick goats can benefit from eating cedar trees.
+On top of that, cedar trees can help goats to stay warm in [cold weather](/can-goats-eat-brush-in-winter/) and protect them from the elements. As a result, sick goats can benefit from eating cedar trees.
 
 ## Do all goats eat cedar trees?
 
@@ -115,7 +115,7 @@ Cedar is a type of evergreen tree that is native to North America. The tree grow
 
 The leaves of the tree are dark green and have a needle-shaped form. Cedar trees are an important source of food and shelter for many animals, including goats.
 
-Goats are able to eat cedar leaves without any ill effects. In fact, the cedar leaves contain tannins that can help to prevent gastrointestinal parasites in goats.
+Goats are able to eat cedar leaves without any ill effects. In fact, the cedar leaves contain tannins that can help to prevent [gastrointestinal parasites](/can-goats-get-worms-from-acorns/) in goats.
 
 Cedar also provides shelter for goats from the wind and rain. The leaves of the cedar tree create a dense network that helps to deflect both wind and water.
 
@@ -123,7 +123,7 @@ As a result, cedar is an important tree for goats and other animals that live in
 
 ## The risks associated with goats eating cedar trees
 
-Goats are known for their adventurous eating habits, and they will often nibble on plants that other animals avoid. This can be a problem if they eat cedar trees, as these trees contain toxins that can be harmful to goats.
+Goats are known for their adventurous [eating habits](/why-do-goats-eat-everything/), and they will often nibble on plants that other animals avoid. This can be a problem if they eat cedar trees, as these trees contain toxins that can be harmful to goats.
 
 The most common symptom of cedar poisoning in goats is gastrointestinal distress, which can lead to diarrhea, vomiting, and dehydration.
 
@@ -137,13 +137,13 @@ If you're looking for a way to add some variety to your goat's diet, cedar may b
 
 Here are a few things to keep in mind when feeding cedar to your goats:
 
-Cedar is high in tannins, which can have a negative impact on a goat's digestion. To make it more digestible, soak the cedar in water for 24 hours before feeding.
+Cedar is high in tannins, which can have a negative impact on a goat's [digestion](/can-goats-digest-anything/). To make it more digestible, soak the cedar in water for 24 hours before feeding.
 
 Cedar should only be fed in small amounts at first. Goats can develop an intolerance to tannins if they eat too much cedar too quickly.
 
-Start with just a few leaves or needles and gradually increase the amount over time.
+Start with just a few leaves or [needles](/can-goats-eat-pine-needles/) and gradually increase the amount over time.
 
-Make sure the cedar you're feeding is safe for goats. Some types of cedar, like Eastern red cedar, are poisonous to goats.
+Make sure the cedar you're feeding is safe for goats. Some types of cedar, like Eastern red cedar, are [poisonous to goats](/can-goats-eat-poison-hemlock/).
 
 Do your research to make sure the cedar you're feeding is safe for your goats to eat.
 
@@ -155,4 +155,4 @@ Overall, cedar trees can be a healthy and nutritious addition to your goat's die
 
 Start with just a few leaves or needles and increase the amount gradually over time.
 
-If you have any concerns, talk to your veterinarian about whether cedar is right for your goats. They can help you create a tailored feeding plan that meets your goats' individual needs.
+If you have any concerns, talk to your veterinarian about whether cedar is right for your goats. They can help you create a tailored [feeding plan](/can-goats-eat-alfalfa/) that meets your goats' individual needs.

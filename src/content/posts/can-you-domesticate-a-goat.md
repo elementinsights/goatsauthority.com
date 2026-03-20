@@ -57,7 +57,7 @@ In addition, goats need plenty of food, water, and space to exercise. A balanced
 
 Access to fresh hay and high-quality [feed will ensure that your goat gets all the nutrition](/can-goats-eat-cattle-feed/) it needs.
 
-Goats can be trained like other domesticated animals. Although they may not respond as quickly or with as much enthusiasm as other animals, goats can be taught to walk on a leash and do basic tricks.
+Goats can be trained like other domesticated animals. Although they may not respond as quickly or with as much enthusiasm as other animals, goats can be taught to [walk on a leash](/can-i-use-a-rope-halter-on-a-goat/) and do basic tricks.
 
 Proper [training can help ensure](/can-baby-goats-be-house-trained/) that your goat remains safe when you take it out in public.
 
@@ -79,7 +79,7 @@ Although it takes dedication and commitment, there are many benefits to owning a
 
 They can also be trained to do tricks and even pull carts or carry backpacks.
 
-Goats are good company and provide hours of entertainment with their unique personalities. They can be a great addition to any family and provide years of fun, companionship, and laughter.
+[Goats are good company](/can-goats-love-humans/) and provide hours of entertainment with their unique personalities. They can be a great addition to any family and provide years of fun, companionship, and laughter.
 
 All in all, goats can make great pets if you’re willing to put in the time and effort necessary to properly care for them. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 
@@ -113,7 +113,7 @@ There are many types of training that can be done with your goat, depending on t
 
 Many [goats can be trained to pull carts](/can-a-goat-pull-a-cart/) or carry backpacks, which is a great way to give them exercise and mental stimulation. You can also teach them to do tricks like rearing up on their hind legs or jumping through hoops.
 
-Goats can learn basic commands like “sit” and “stay”, as well as more complex behaviors like walking on a leash. With patience and dedication, you can create an exciting bond with your goat that will bring you both joy and companionship.
+Goats can learn basic commands like “sit” and “stay”, as well as more complex behaviors like walking on a leash. With patience and dedication, you can create an exciting bond with your [goat that will bring you both joy](/can-a-goat-be-housed-trained/) and companionship.
 
 Overall, goats can be great pets if given the proper care and attention. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 

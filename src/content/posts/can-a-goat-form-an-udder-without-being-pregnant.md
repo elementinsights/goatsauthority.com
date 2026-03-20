@@ -38,13 +38,13 @@ faq:
     answer: "Milking a goat can be done in a number of ways, the most common being using an udder. Also, it's possible to milk a goat without an udder, though it requires a bit more effort."
 ---
 
-No one knows for sure. Goats are known for being able to give birth without a male present, but it's still unclear whether or not they can form an udder without being pregnant.
+No one knows for sure. Goats are known for being able to [give birth](/how-many-babies-do-goats-have-at-a-time/) without a male present, but it's still unclear whether or not they can form an udder without being pregnant.
 
 Some people say that it's possible, while others believe that it's not. The jury is still out on this one.
 
 ## Can a goat form an udder without being pregnant?
 
-**A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy.**
+**A goat can form an udder without being pregnant. This is called pseudopregnancy or [false pregnancy](/can-a-goat-bag-up-without-being-pregnant/).**
 
 **It can be caused by a hormonal imbalance, stress, or even just coming into contact with a baby goat. The goat's brain is tricked into thinking it's pregnant and will start to produce milk.**
 
@@ -52,7 +52,7 @@ The udder will swell just like it would if the goat was pregnant and about to gi
 
 ## What is the purpose of goats udder?
 
-The udder helps to store milk until the goat is ready to feed her young. It also provides a way for the goat to keep her milk clean and free from bacteria.
+The udder helps to store milk until the goat is ready to [feed her young](/can-a-goat-feed-quads/). It also provides a way for the goat to keep her milk clean and free from bacteria.
 
 The udder is made up of two compartments, each of which has a teat that the goat uses to suckle her young.
 
@@ -64,19 +64,19 @@ Not all goats have udders. Male goats, or bucks, usually don't have udders.
 
 Some does, or female goats may be born without udders or may develop partial udders.
 
-Udders may also differ in size and shape between breeds of goat. Nigerian Dwarf goats, for example, typically have smaller udders than dairy goats.
+Udders may also differ in size and shape between breeds of goat. [Nigerian Dwarf goats](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/), for example, typically have smaller udders than dairy goats.
 
-And also, all goats that produce milk will have at least some growth of tissue in their udder leading up to kidding or giving birth. During early pregnancy, the teats of a doe's udder will begin to fill with colostrum, a yellowish fluid that is secreted in the first few days after kidding.
+And also, all goats that produce milk will have at least some growth of tissue in their udder leading up to kidding or [giving birth](/can-a-goat-have-babies-a-week-apart/). During early pregnancy, the teats of a doe's udder will begin to fill with colostrum, a yellowish fluid that is secreted in the first few days after kidding.
 
-This fluid is rich in antibodies and nutrients that help protect newborn kids from disease. The amount of colostrum produced by a doe is directly proportional to the number of kids she is nursing.
+This fluid is rich in antibodies and nutrients that help protect newborn kids from disease. The amount of colostrum produced by a doe is directly proportional to the [number of kids](/can-the-same-litter-of-goats-have-different-fathers/) she is nursing.
 
 A doe with triplets will produce three times as much colostrum as a doe with a single kid. As kidding time approaches, the teats of a doe's udder will continue to enlarge and fill with milk.
 
-The milk production process is stimulated by the release of hormones during parturition, or childbirth. After the kids are born, they will nurse frequently to stimulate the doe's mammary glands to continue producing milk.
+The [milk production](/can-goats-save-sperm/) process is stimulated by the release of hormones during parturition, or childbirth. After the kids are born, they will nurse frequently to stimulate the doe's mammary glands to continue producing milk.
 
 Goat's milk usually contains more fat than cow's milk, making it higher in calories. It's also lower in lactose, making it easier for some people to digest.
 
-Goat's milk has a distinct flavor that some people find unpleasant. Despite that, many people enjoy the rich flavor of goat's milk cheese and other products made from goat's milk.
+Goat's milk has a distinct flavor that some people find unpleasant. Despite that, many people enjoy the rich flavor of [goat's milk cheese](/can-goats-eat-cheese/) and other products made from goat's milk.
 
 ## Can I milk a goat without an udder?
 
@@ -94,7 +94,7 @@ As a result, it's often quicker and easier to milk a goat using an udder. But, i
 
 Male goats, or billies, generally have larger and more muscular bodies than females. They also have longer horns and beards.
 
-When it comes to their reproductive organs, billies have larger testicles and their penis has a baculum or bone. This bone helps to support the goat during breeding.
+When it comes to their reproductive organs, billies have larger testicles and their penis has a baculum or bone. This bone helps to support the goat during [breeding](/can-a-goat-and-lamb-breed/).
 
 Female goats, or nannies, typically have smaller bodies and shorter horns. Unlike billies, their horns tend to curve inward.
 
@@ -106,7 +106,7 @@ So, what about udders? Male goats do have udders, but they are much smaller than
 
 Female goats’ udders are larger and have four compartments that each produce milk. The milk produced by each compartment drains into a common duct before being released through the teat.
 
-Male goats also lack another key reproductive organ found in females, the ovaries. Without ovaries, billies cannot produce offspring.
+Male goats also lack another key reproductive organ found in females, the ovaries. Without ovaries, billies cannot [produce offspring](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/).
 
 So, when it comes to forming udders, there's a big difference between male and female goats.
 
@@ -132,4 +132,4 @@ While not all goats have this physical trait, it's a good way to tell if a goat 
 
 Overall, there's a big difference between male and female goats when it comes to forming udders. Male goats cannot produce offspring, so they do not need an udder.
 
-Female goats, on the other hand, do need an udder in order to produce milk.
+Female goats, on the other hand, do need an udder in order to [produce milk](/can-a-goat-breed-with-sheep/).

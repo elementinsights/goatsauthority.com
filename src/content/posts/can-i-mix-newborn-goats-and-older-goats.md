@@ -68,7 +68,7 @@ In addition, they typically have less developed senses and behaviors, making it 
 
 Conversely, older goats tend to be larger, more agile, and more experienced in terms of their physical abilities and social interactions.
 
-They also exhibit certain behaviors that are rarely seen in young goats, such as herds forming top-down hierarchies or males competing with each other for mating opportunities.
+They also exhibit certain behaviors that are rarely seen in young goats, such as herds forming top-down hierarchies or [males competing with each other](/can-you-band-a-2-year-old-buck-goat/) for mating opportunities.
 
 In general, the differences between newborns and older goats reflect their different stages of maturity and experience, which help to ensure the survival and success of both groups in the wild.
 

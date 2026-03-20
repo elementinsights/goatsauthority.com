@@ -62,7 +62,7 @@ Evergreens, such as pines and spruces, provide goats with a source of food that 
 
 Shrubs, such as rhododendrons and azaleas, are also a good source of food for goats in the wintertime. In addition to these three types of brush, there are also a variety of other [plants that goats can eat](/can-goats-eat-any-plant/) in the wintertime.
 
-These include grasses, herbs, and clovers. Each of these plants provides goats with a different set of nutrients that are essential for their health.
+These include grasses, herbs, and clovers. Each of these [plants provides goats](/can-goats-eat-dandelions/) with a different set of nutrients that are essential for their health.
 
 ## What are the benefits of goats eating brushes in winter?
 

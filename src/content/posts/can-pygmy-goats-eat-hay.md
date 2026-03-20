@@ -56,9 +56,9 @@ In addition to being a good source of fiber, hay also provides pygmy goats with 
 
 ## What are some things to consider when feeding hay to pygmy goats?
 
-There are two primary types of hay: legume hay and grass hay. Legume hay, for example, alfalfa, consists of more protein than grass hay does.
+There are two primary types of hay: legume hay and grass hay. Legume hay, for example, [alfalfa](/can-goats-eat-alfalfa/), consists of more protein than grass hay does.
 
-On the other hand, grasses like timothy or Bermuda contain less protein but greater fiber.
+On the other hand, grasses like [timothy](/can-goats-eat-timothy-hay/) or Bermuda contain less protein but greater fiber.
 
 The amount of hay you feed your pygmy goats will depend on their age, size, and activity level. Adult pygmy goats need about 2% of their body weight in hay per day.
 
@@ -82,7 +82,7 @@ Although pygmy goats require hay in their diet, feeding them too much can be har
 
 In order to avoid this, you should pick a hay variety that is free of debris and clean.
 
-Second, inspect your hay for mold or other toxins before feeding it to pygmy goats as these can be harmful. If you see any sign of mold or discoloration, don't feed it to the goats.
+Second, inspect your hay for [mold](/can-goats-eat-moldy-hay/) or other toxins before feeding it to pygmy goats as these can be harmful. If you see any sign of mold or discoloration, don't feed it to the goats.
 
 Avoid overfeeding your pygmy goats, as this can lead to obesity and other health problems. Instead, only give them the amount of hay they need based on their age, size, and activity level.
 
@@ -124,7 +124,7 @@ For a richer source of protein, some goat farmers turn to fermentation-based fod
 
 This feed has a long shelf life and is packed full of essential nutrients that help to support the health and growth of pygmy goats.
 
-Additionally, coarse grains like barley and oats can be added to a goat's diet either as supplements or as the main feed source.
+Additionally, coarse grains like barley and [oats](/can-goats-eat-oats/) can be added to a goat's diet either as supplements or as the main feed source.
 
 Choosing the right alternative food source for [pygmy goats often comes down to the specific dietary needs](/can-i-wash-and-groom-a-pygmy-goat/) of the animal, so it's important to do your research and consult a veterinarian before making any changes to their diet.
 

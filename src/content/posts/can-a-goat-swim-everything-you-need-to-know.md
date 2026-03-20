@@ -51,7 +51,7 @@ In this article, we will answer this question in full detail. We will [also look
 
 **Goats can swim. In fact, they are pretty good swimmers.
 
-Goats are able to use their strong front legs to paddle, and their long tails help them steer. They are also able to hold their breath for a long time, which comes in handy when they are swimming underwater**.
+Goats are able to use their [strong front legs](/can-a-goat-pull-a-cart/) to paddle, and their long tails help them steer. They are also able to hold their breath for a long time, which comes in handy when they are swimming underwater**.
 
 However, there are some goats who do not like to swim and will avoid it if they can. If you have a goat who does not like to swim, you can try to encourage them by putting them in a shallow pool of water and letting them walk around.
 
@@ -63,7 +63,7 @@ Despite that, there are a few goats who do not like the water and will avoid it 
 
 These goats usually have no problem crossing small streams or walking through dewy grass, but they will not go near larger bodies of water. It's believed that this aversion to water is due to a genetic mutation that [affects a small minority of the goat](/can-weather-affect-goats-poop/) population.
 
-Regardless of their feelings towards the water, all goats are sure-footed climbers and can easily scale steep hillsides and cliffs. Their agile bodies and sharp hooves make them well-suited for life in mountainous regions.
+Regardless of their feelings towards the water, all goats are sure-footed climbers and can easily [scale steep hillsides and cliffs](/can-a-goat-climb-trees/). Their agile bodies and sharp hooves make them well-suited for life in mountainous regions.
 
 ## What kind of goat is the best swimmer?
 

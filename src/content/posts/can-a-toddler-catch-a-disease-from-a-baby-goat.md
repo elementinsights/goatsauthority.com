@@ -87,9 +87,9 @@ All of these parasites can [cause serious health problems in goats](/can-contact
 
 These parasites can cause irritation and skin infections.
 
-In addition, ticks can transmit diseases such as Lyme disease to goats. To protect your goats from parasites, you need to regularly deworm them and check them for external parasites.
+In addition, ticks can transmit [diseases](/can-you-catch-diseases-from-goats/) such as Lyme disease to goats. To protect your goats from parasites, you need to regularly deworm them and check them for external parasites.
 
-You should also quarantine new goats before introducing them to your herd.
+You should also [quarantine new goats](/can-a-goat-get-rabies/) before introducing them to your herd.
 
 ## What is the common disease that baby goats can transmit to toddlers?
 

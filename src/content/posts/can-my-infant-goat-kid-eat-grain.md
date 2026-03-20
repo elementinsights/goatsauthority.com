@@ -52,7 +52,7 @@ In addition, always choose a [high-quality feed that is designed specifically f
 
 Despite their small size, [goats are able to eat a wide variety of food](/can-goats-eat-dog-food/). This includes both plants and animals.
 
-That said, the majority of their diet should be made up of hay, fresh vegetables, and other green vegetation.
+That said, the majority of their diet should be made up of [hay](/what-kind-of-hay-do-goats-eat/), fresh vegetables, and other green vegetation.
 
 Grain can be fed to goats as well, but it should only make up a small part of their overall diet. This is because grain is generally high in carbohydrates and can cause digestive problems if goats eat too much of it.
 
@@ -70,7 +70,7 @@ While there is no right or wrong choice when it comes to [feeding baby goats](/c
 
 For one thing, goat milk is higher in fat than cow's milk, making it an excellent source of energy and nutrition for growing goats.
 
-Grain also helps to stimulate digestion and regulate the metabolic process, leading to healthier growth rates overall.
+[Grain](/can-goats-eat-oats/) also helps to stimulate digestion and regulate the metabolic process, leading to healthier growth rates overall.
 
 And perhaps most importantly, feeding grain can help ensure that your infant goats get all the nutrients they need for healthy development and a strong immune system.
 
@@ -96,7 +96,7 @@ Many people mistakenly believe that pellets and mash have the same nutritional c
 
 On top of that, some people will choose to over-supplement the grain with extra minerals or vitamins, thinking that more is better.
 
-Lastly, it is important to remember that goat kids have very sensitive digestive systems, so it is crucial to be careful not to overload them with food or introduce new feeds too quickly.
+Lastly, it is important to remember that goat kids have very [sensitive digestive systems](/can-goats-eat-everything/), so it is crucial to be careful not to overload them with food or introduce new feeds too quickly.
 
 By avoiding these common mistakes, you can help ensure that your goat kids grow up healthy and strong.
 

@@ -64,7 +64,7 @@ While most people associate vaseline with cosmetic applications like lip balm or
 
 For [pregnant goats](/can-a-pregnant-goat-have-penicillin/), for example, vaseline can play an important role in ensuring that the babies are delivered safely and without complications.
 
-One way in which vaseline helps during pregnancy is by lubricating the birth canal of the [pregnant goat](/can-pregnant-goats-have-injectable-b12/). This prevents tearing or excessive abrasions along this sensitive area of the body.
+One way in which vaseline helps during pregnancy is by lubricating the birth canal of the [pregnant goat](/can-pregnant-goats-have-injectable-b12/). This prevents [tearing](/can-an-over-due-goat-be-induced-to-labor/) or excessive abrasions along this sensitive area of the body.
 
 Vaseline can also be used to coat the ears of newborn kids, helping to prevent frostbite during [cold weather](/can-goats-die-in-cold-weather/) and keeping them warm and protected in their early weeks of life.
 
@@ -84,13 +84,13 @@ When done correctly, using vaseline during goat births can help ensure optimal h
 
 ## How to use vaseline during goat births?
 
-There is no one right way to use vaseline during goat births. Some people recommend applying a thin layer to the birthing canal, while others prefer to use a thicker coat of vaseline, especially if their does are known for having difficult or long births.
+There is no one right way to use vaseline during goat births. Some people recommend applying a thin layer to the birthing canal, while others prefer to use a thicker coat of vaseline, especially if their does are known for having [difficult or long births](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/).
 
 Another popular technique is to mix the vaseline with powdered lubricant, which can help to reduce friction and increase slipperiness in the birthing canal.
 
 Ultimately, how you choose to use vaseline during goat births will depend heavily on your individual preferences, as well as the needs and circumstances of each specific birth.
 
-Whether you want to experiment and try out different methods or stick to tried-and-true techniques, staying informed about what works best for you and your goats will always be key when it comes to successful breeding and birthing.
+Whether you want to experiment and try out different methods or stick to tried-and-true techniques, staying informed about what works best for you and your goats will always be key when it comes to successful [breeding](/can-a-saanen-goat-have-babies-year-round/) and birthing.
 
 ## What are the benefits of using vaseline during goat births?
 

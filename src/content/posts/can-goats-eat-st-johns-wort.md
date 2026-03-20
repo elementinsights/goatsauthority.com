@@ -51,7 +51,7 @@ In this article, we will answer all these questions so that you will know everyt
 
 **It can cause photosensitivity and gastrointestinal problems, among other things. So, it's best to err on the side of caution and keep your goats away from this herb.**
 
-On top of that, St. John's Wort can also interfere with the effectiveness of certain medications. So, if your goat is taking any medication, it's best to avoid giving them this herb.
+On top of that, St. John's Wort can also interfere with the effectiveness of certain [medications](/can-goats-eat-mushrooms/). So, if your goat is taking any medication, it's best to avoid giving them this herb.
 
 Now that you know that goats shouldn't eat St. John's Wort, let's talk about what you can feed them instead.
 

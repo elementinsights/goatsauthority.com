@@ -52,11 +52,11 @@ When the plant dies, the nitrogen is released back into the soil. This cycle of 
 
 However, if the clover is killed by frost, this process is disrupted.
 
-The dead plants decompose more slowly, and the nitrogen is not released back into the soil. As a result, the soil becomes less fertile and goats that graze on frost-killed clover can suffer from malnutrition.
+The dead plants decompose more slowly, and the nitrogen is not released back into the soil. As a result, the soil becomes less fertile and goats that graze on frost-killed clover can suffer from [malnutrition](/can-old-goats-develop-rickets/).
 
 Besides causing malnutrition, frost-killed clover can also be poisonous to goats. Clover contains compounds that are toxic to goats, and these compounds become more concentrated when the plant dies.
 
-As a result, goats that eat frost-killed clover may suffer from liver damage or other health problems. For these reasons, it's crucial to monitor goats closely if they are grazing on the clover that has been frosted.
+As a result, goats that eat frost-killed clover may suffer from [liver damage](/can-goats-die-from-lymes/) or other health problems. For these reasons, it's crucial to monitor goats closely if they are grazing on the clover that has been frosted.
 
 ## What is clover, and what are the different types of clover that goats can eat?
 
@@ -86,7 +86,7 @@ Also, goats that eat frost-killed clover may suffer from liver damage or other h
 
 Clover is a common ingredient in goat feed, but it can also be poisonous. There are several different species of clover that are toxic to goats, and all parts of the plant are dangerous.
 
-Symptoms of clover poisoning include vomiting, diarrhea, lethargy, and difficulty breathing. Treatment typically involves the administration of activated charcoal to bind the toxins in the gut, as well as supportive care to manage dehydration and other symptoms.
+Symptoms of clover poisoning include vomiting, [diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), lethargy, and difficulty breathing. Treatment typically involves the administration of [activated charcoal](/can-benadryl-hurt-a-goat/) to bind the toxins in the gut, as well as supportive care to manage [dehydration](/can-i-give-a-sick-goat-water-through-a-syringe/) and other symptoms.
 
 With prompt treatment, most goats recover from clover poisoning without any lasting effects. Despite that, you must also be aware of the signs of poisoning so that you can seek treatment as soon as possible.
 
@@ -104,9 +104,9 @@ Other symptoms of clover poisoning include:
 
 One of the best ways to prevent your goats from eating clover that has been frosted on is to let them graze in a pasture that has been protected from the frost. If you do not have a pasture, you can try to feed your goats hay or grass instead.
 
-You should also make sure that your goats have plenty of fresh water to drink. If they are eating frosted clover, they will likely be very thirsty.
+You should also make sure that your goats have plenty of [fresh water](/can-goats-drink-vinegar/) to drink. If they are eating frosted clover, they will likely be very thirsty.
 
-Finally, you should check your goats for signs of frostbite and take them to the vet if necessary.
+Finally, you should check your goats for signs of [frostbite](/can-goats-die-in-cold-weather/) and take them to the vet if necessary.
 
 Another way to prevent your goats from eating clover that has been frosted on is to keep them away from the clover. This can be done by fencing in the area where the clover is growing.
 
@@ -128,17 +128,17 @@ While there are some potential risks associated with eating clover, as long as y
 
 In addition to the usual fencing and housing considerations for goats, there are also some special considerations when it comes to keeping your goats safe from potential poisoning risks. Here are a few additional tips to keep in mind:
 
-- Be aware of common plants that are poisonous to goats. Some of the most common include azaleas, rhododendrons, oleanders, yews, and foxgloves. If you have any of these plants on your property, make sure they are out of reach of your goats.
+- Be aware of common plants that are [poisonous to goats](/can-a-goat-get-sick-from-cold/). Some of the most common include azaleas, rhododendrons, oleanders, yews, and foxgloves. If you have any of these plants on your property, make sure they are out of reach of your goats.
 
 - Inspect your pasture regularly for any potentially poisonous plants that may have sprung up. If you see any suspicious plants, remove them immediately.
 
-- Keep an eye out for signs of poisoning in your goats, such as vomiting, diarrhea, tremors, or seizures.
+- Keep an eye out for signs of [poisoning](/can-goats-get-the-bubonic-plague/) in your goats, such as vomiting, diarrhea, tremors, or seizures.
 
 By following these tips, you can help keep your goats safe from potential poisoning risks.
 
 ## Final Thoughts
 
-Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an animal expert immediately.
+Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an [animal expert](/can-i-give-my-goat-pepto-bismol/) immediately.
 
 With prompt treatment, most goats recover from clover poisoning without any lasting effects.
 

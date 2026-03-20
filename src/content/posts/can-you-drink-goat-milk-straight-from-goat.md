@@ -62,7 +62,7 @@ Goat milk is milk that comes from goats. [Goats are a type of livestock that is 
 
 There are many different breeds of goats, but all goats produce milk that is high in protein and fat.
 
-Goat milk is often used to make cheese and other dairy products. It can also be consumed on its own or used in recipes.
+Goat milk is often used to make [cheese](/can-you-freeze-goat-cheese/) and other dairy products. It can also be consumed on its own or used in recipes.
 
 Goat milk is a popular choice for those who are looking for an alternative to cow's milk. While it does have a distinct flavor, many people find that it is a delicious and healthy option.
 
@@ -70,7 +70,7 @@ Goat milk is a popular choice for those who are looking for an alternative to co
 
 Though you may not have considered it before, goat milk can be a great addition to your diet. Goat milk is lower in fat and calories than cow milk, but higher in protein and calcium.
 
-It also contains less lactose, making it easier to digest for those who are lactose intolerant. Additionally, goat milk contains more of certain vitamins and minerals than cow milk, including vitamin A, potassium, and niacin.
+It also contains less lactose, making it easier to digest for those who are [lactose intolerant](/can-goat-cheese-make-you-bloated/). Additionally, goat milk contains more of certain vitamins and minerals than cow milk, including vitamin A, potassium, and niacin.
 
 And since goats are easier to care for than cows, drinking goat milk is also more environmentally friendly. So if you're looking for a healthy and sustainable alternative to cow milk, give goat milk a try.
 

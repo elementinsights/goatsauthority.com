@@ -65,7 +65,7 @@ Just be sure to keep a few things in mind and you'll be fine.
 
 There are actually quite a few benefits to changing a bottle-fed goat back to nursing off another goat. For one thing, it's more natural for the goat.
 
-They are designed to nurse, after all. Nursing also helps to build up immunity in the goat and can help them to develop faster and grow stronger.
+They are designed to nurse, after all. Nursing also helps to [build up immunity](/can-i-mix-newborn-goats-and-older-goats/) in the goat and can help them to develop faster and grow stronger.
 
 On top of that, nursing is a bonding experience for mother and child and can help to reduce stress levels in both.
 
@@ -109,11 +109,11 @@ If all else fails, you can always consult with a veterinarian or another animal 
 
 ## When is the best time to change a bottle fed goat back to nursing?
 
-The best time to change a bottle-fed goat back to nursing is when the goat is around two months old.
+The best time to change a bottle-fed goat back to nursing is when the [goat is around two months old](/can-you-band-a-2-year-old-buck-goat/).
 
 This is because they are old enough to start eating solid food, but they are still young enough that they will be able to easily adapt to changes.
 
-Additionally, this is usually around the time when a goat's dam will start weaning them off of her milk.
+Additionally, this is usually around the time when a [goat's dam will start weaning](/can-you-breed-a-father-and-daughter-goat/) them off of her milk.
 
 So, if you can time it right, the transition back to nursing should be fairly seamless for the goat. Just be sure to introduce the change gradually and monitor the goat closely to make sure they are adjusting well.
 
@@ -123,7 +123,7 @@ If you are unable to slowly transition a bottle fed goat back to nursing, there 
 
 One is to feed the [goat milk replacer](/can-i-mix-goat-milk-replacer-with-cow-milk/) from a bucket instead of a bottle. This will allow the goat to drink milk in a more natural way and may make the transition back to nursing easier.
 
-Another option is to feed the goat raw milk from a cow or another animal. This is a more natural way of feeding and may be more appealing to the goat.
+Another option is to feed the goat [raw milk from a cow](/can-i-raise-goats-for-milk-protein/) or another animal. This is a more natural way of feeding and may be more appealing to the goat.
 
 Lastly, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
 

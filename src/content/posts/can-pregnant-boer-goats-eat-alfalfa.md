@@ -55,7 +55,7 @@ We will answer those questions in this article and provide you with additional i
 
 Despite that, you should still be cautious when [feeding alfalfa to your goats](/can-a-goat-feed-quads/). Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume.
 
-Too much alfalfa can lead to obesity and other health problems.
+Too much alfalfa can lead to obesity and other health problems. Be aware that [alfalfa pellets can also cause bloating](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 ## What is alfalfa and what are its benefits for pregnant Boer goats?
 
@@ -71,7 +71,7 @@ Overall, if you're looking for an effective and nutritious feed for your pregnan
 
 Generally speaking, [pregnant goats](/can-a-pregnant-goat-have-penicillin/) will require more nutrients in order to support the growth of their young and satisfy the demands of milk production.
 
-This can include an increased need for protein, minerals such as calcium and phosphorus, and fiber from sources like alfalfa.
+This can include an increased need for protein, minerals such as calcium and phosphorus, and fiber from sources like alfalfa or [timothy hay](/can-goats-eat-timothy-hay/).
 
 Therefore, a good starting point for determining the ideal amount of alfalfa for [pregnant goats](/can-pregnant-goats-have-injectable-b12/) would be to first consult with a goat expert or a certified animal nutritionist.
 
@@ -103,7 +103,7 @@ Ultimately, the best way to determine whether or not there are any negative side
 
 One of the best ways to prevent health problems in Boer goats is to ensure that they are receiving a balanced diet.
 
-This means providing them with access to fresh, clean water at all times, as well as a variety of nutritious foods that will meet their individual needs.
+This means providing them with access to fresh, clean water at all times, as well as a variety of nutritious foods like [oats](/can-goats-eat-oats/) and vegetables that will meet their individual needs.
 
 On top of that, it is important to keep an eye on the goats for any signs of illness or injury and to consult with a goat expert if any problems arise.
 
@@ -121,7 +121,7 @@ The most important thing is to catch the problem early and to get professional h
 
 There are a few key signs that can indicate whether your pregnant goat is getting enough nutrition from her food.
 
-For starters, it's important to look at the quality of the goat's coat and skin. A nutritious diet will result in healthy, shiny fur, while a malnourished animal may have dull, dry skin and hair.
+For starters, it's important to look at the quality of the goat's coat and skin. A nutritious diet will result in healthy, shiny fur, while a malnourished animal may have dull, dry skin and hair. Supplementing with [sunflower seeds](/can-goats-eat-sunflower-seeds/) can help improve coat quality.
 
 In addition, you should check for weight loss or weight gain, as this can be an indicator of whether the goat is getting adequate nutrition from its food.
 
@@ -137,4 +137,4 @@ However, overall, feeding alfalfa to these goats at some point during pregnancy 
 
 There is some debate among farmers about whether or not there are any negative side effects of doing so, but ultimately the decision should be based on the individual needs of each goat.
 
-If you have any concerns, be sure to speak with a goat expert about the best way to proceed. By following their advice and taking care of your goats, you can help them stay healthy and happy for many years to come.
+If you have any concerns, be sure to speak with a goat expert about the best way to proceed. You may also want to learn about [what kind of hay goats eat](/what-kind-of-hay-do-goats-eat/). By following their advice and taking care of your goats, you can help them stay healthy and happy for many years to come.

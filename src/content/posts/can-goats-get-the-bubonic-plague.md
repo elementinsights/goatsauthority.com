@@ -58,7 +58,7 @@ So, it is important to take some precautions if you live in an area where the bu
 
 The bubonic plague is a disease that affects both humans and animals. It is caused by the bacteria Yersinia pestis.
 
-Symptoms of the bubonic plague in goats include fever, lethargy, loss of appetite, and enlarged lymph nodes.
+Symptoms of the bubonic plague in goats include fever, [lethargy](/can-i-give-goat-trazodone/), loss of appetite, and enlarged lymph nodes.
 
 In some cases, the lymph nodes may become pus-filled and bleed. The disease can be transmitted from animals to humans through contact with infected body fluids or tissues.
 
@@ -94,9 +94,9 @@ There is no specific treatment for the bubonic plague, but antibiotics may be us
 
 Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals.
 
-Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and swollen lymph nodes. If you suspect that your goat has bubonic plague, it is crucial to seek goat expert care immediately.
+Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and [swollen lymph nodes](/can-a-goat-get-a-cold-sore/). If you suspect that your goat has bubonic plague, it is crucial to seek goat expert care immediately.
 
-The disease can be treated with antibiotics, but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
+The disease can be treated with [antibiotics](/can-pregnant-goats-eat-medicated-feed/), but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
 
 By taking these steps, you can help to protect your goats from this deadly disease.
 
@@ -104,7 +104,7 @@ By taking these steps, you can help to protect your goats from this deadly disea
 
 There are a variety of diseases that can [affect goats](/can-weather-affect-goats-poop/). Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease.
 
-Pneumonia is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
+[Pneumonia](/can-goats-be-outside-in-winter/) is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
 
 Enterotoxemia is a bacterial infection that affects the digestive system. Johne's disease is a chronic bacterial infection that primarily affects the intestines.
 
@@ -126,7 +126,7 @@ First, make sure they have access to clean water at all times. [Goats are very f
 
 Second, keep their living area clean and free of debris. Debris can harbor disease-causing parasites, so it is crucial to remove it on a regular basis.
 
-Finally, provide your goats with a balanced diet that includes plenty of fresh grass or hay. A healthy diet will help them stay strong and resistant to disease.
+Finally, provide your goats with a [balanced diet](/how-many-stomachs-do-goats-have/) that includes plenty of fresh grass or hay. A healthy diet will help them stay strong and resistant to disease.
 
 By following these simple tips, you can help keep your goats healthy and safe from all diseases.
 

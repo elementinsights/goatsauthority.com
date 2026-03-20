@@ -106,7 +106,7 @@ Finally, provide the [goat with plenty of fresh water and food to help them reco
 
 ## What breed of goats are best for the winter?
 
-Many people believe that all goats are well-suited for cold weather, but this is not the case. Some breeds of goats are actually quite sensitive to the cold and can suffer from problems like frostbite.
+Many people believe that all goats are well-suited for [cold weather](/can-a-goat-get-sick-from-cold/), but this is not the case. Some breeds of goats are actually quite sensitive to the cold and can suffer from problems like frostbite.
 
 So, what [breed of goats](/can-a-goat-breed-with-sheep/) are best for the winter? The answer depends on several factors, including the climate in your area and the type of housing you have available.
 

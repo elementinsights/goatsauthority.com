@@ -54,7 +54,7 @@ In this article, we will answer those questions and provide you with some helpfu
 
 **So, if a goat has lice, the lice will not be able to survive on a llama. They are also not capable of jumping from one animal to another.**
 
-However, it is possible for goats and llamas to share other parasites, such as mites. Mites are not host-specific and can live on multiple types of animals.
+However, it is possible for goats and llamas to share other [parasites](/can-goats-get-mites/), such as mites. Mites are not host-specific and can live on multiple types of animals.
 
 So, if a goat has mites, they can spread to a llama.
 
@@ -64,7 +64,7 @@ The best way to prevent parasites from spreading between goats and llamas is to 
 
 Some other things you can do to prevent the spread of parasites include:
 
-- Regularly cleaning and disinfecting kennels, stalls, and pens
+- Regularly cleaning and [disinfecting](/can-i-put-neosporin-on-my-goats/) kennels, stalls, and pens
 - Not sharing equipment between animals
 - Washing your hands after handling animals
 
@@ -74,7 +74,7 @@ If you think your goats may have lice, there are a few things you can do to conf
 
 If you see any crawling insects, this is a good indication that your goat has lice.
 
-You may also notice that your goats are scratching more than usual, as lice can be quite irritating. Another telltale sign of lice is dull, patchy fur.
+You may also notice that your goats are scratching more than usual, as [lice](/can-dogs-get-tapeworms-from-goats/) can be quite irritating. Another telltale sign of lice is dull, patchy fur.
 
 If you notice any of these signs, it's time to take action.
 
@@ -118,7 +118,7 @@ If you have any other questions about goats or llamas, be sure to contact a qual
 
 ## What are the treatments for lice on llamas?
 
-There are a few different options for treating lice on llamas. One is to use an insecticide specifically designed for lice, which can be found at most agricultural supply stores.
+There are a few different options for [treating lice](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) on llamas. One is to use an insecticide specifically designed for lice, which can be found at most agricultural supply stores.
 
 Another option is to douse the affected area with rubbing alcohol, which will kill the lice but may also irritate the llama's skin.
 
@@ -130,9 +130,9 @@ With a little patience and care, you should be able to get rid of the lice in no
 
 While both goats and llamas can be affected by lice, there are a few key differences between the two. For one, llamas are more likely to suffer from infestations of chewing lice, while goats are more likely to be affected by sucking lice.
 
-Chewing lice feed on dead skin and hair while sucking lice feed on the blood of their host. Chewing lice are more likely to cause itching and irritation while sucking lice can lead to anemia and weight loss.
+Chewing lice feed on dead skin and hair while sucking lice feed on the [blood of their host](/can-goats-have-a-stroke-anemia/). Chewing lice are more likely to cause itching and irritation while sucking lice can lead to anemia and weight loss.
 
-In addition, llamas are more susceptible to infestations of lice than goats, due to their long fur and lack of immunity to the parasites. For this reason, it is important to be extra vigilant in checking for lice if you have llamas in your herd.
+In addition, llamas are more susceptible to [infestations](/can-goats-get-worms-from-acorns/) of lice than goats, due to their long fur and lack of immunity to the parasites. For this reason, it is important to be extra vigilant in checking for lice if you have llamas in your herd.
 
 In addition to the different types of lice that can [affect goats](/can-weather-affect-goats-poop/) and llamas, there are also different species of lice that prefer one host over the other. For example, the blue-backed louse only affects llamas, while the yak louse only affects goats.
 
@@ -148,4 +148,4 @@ Lice are a common problem for both goats and llamas. But, with a little effort, 
 
 Goats cannot spread lice to llamas and vice versa. However, both goats and llamas can be affected by lice.
 
-If you think your animal has lice, be sure to contact a veterinarian for diagnosis and treatment. With a little patience, you can get rid of the lice and prevent them from coming back.
+If you think your animal has lice, be sure to contact a [veterinarian](/can-a-goat-eat-too-many-dewormer-pellets/) for diagnosis and treatment. With a little patience, you can get rid of the lice and prevent them from coming back.

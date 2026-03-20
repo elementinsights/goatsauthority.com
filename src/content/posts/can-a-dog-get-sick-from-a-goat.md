@@ -41,7 +41,7 @@ faq:
   - question: "What is the best dog breed to guard your goats?"
     answer: "When it comes to guarding your goats, there are a number of different dog breeds that can get the job done. But there are some breeds that are better suited for the task than others."
 ---
-Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat?
+Dogs have been used to herd goats, and both animals have benefited from the relationship. But [can a dog get sick](/can-dogs-get-tapeworms-from-goats/) from a goat?
 
 In this article, we'll cover the basics of what you need to know about dog-goat interactions, including how to prevent your dog from getting sick from a goat.
 
@@ -61,21 +61,21 @@ There are a number of diseases that can affect both dogs and goats, but some are
 
 Dogs can also contract rabies from goats, although this is relatively rare.
 
-Other diseases that can be passed from goats to dogs include leptospirosis, giardia, and salmonella.
+Other [diseases that can be passed from goats](/can-any-diseases-spread-from-swine-to-goats/) to dogs include leptospirosis, giardia, and salmonella.
 
-Fortunately, most of these diseases can be prevented with proper vaccination. By keeping up-to-date on their shots and taking other precautions, such as avoiding contact with sick animals, dogs and their owners can minimize the risk of contracting a serious disease.
+Fortunately, most of these diseases can be prevented with [proper vaccination](/can-a-cdt-shot-kill-a-goat/). By keeping up-to-date on their shots and taking other precautions, such as avoiding contact with sick animals, dogs and their owners can minimize the risk of contracting a serious disease.
 
 ## How do dogs and goats interact with each other?
 
 Though they are both four-legged animals with fur, dogs and goats are vastly different creatures. Dogs are carnivores while goats are herbivores, meaning that their diets vary greatly.
 
-Dogs typically eat meat and crunchy dog biscuits while goats prefer to graze on grass, leaves, and other vegetation.
+Dogs typically eat meat and crunchy dog biscuits while [goats prefer to graze](/can-goats-be-outside-in-winter/) on grass, leaves, and other vegetation.
 
 In terms of personality, dogs are often seen as loyal and friendly companions while goats are more independent and inquisitive.
 
 Despite these differences, however, dogs and goats can get along quite well. Goats are social creatures and enjoy the company of other animals, including dogs.
 
-In fact, a dog can provide a goat with valuable protection from predators.
+In fact, a dog can provide a [goat with valuable protection](/can-goats-carry-distemper/) from predators.
 
 In return, the goat will often serve as a friend and companion to the dog. Though they have different personality traits and dietary needs, dogs and goats can form strong bonds with one another.
 
@@ -115,7 +115,7 @@ By spending time with your goats and working together as a team, you and your go
 
 Dogs who herd goats may suffer from multiple health problems. One common issue is hip and elbow dysplasia, which occurs when the joints do not develop properly.
 
-This can lead to pain and arthritis later in life. Another issue that can affect herding dogs is heatstroke, as they are often working in hot weather without access to shade or water.
+This can lead to pain and arthritis later in life. Another issue that can affect herding dogs is heatstroke, as they are often working in [hot weather without access to shade](/can-goats-die-in-cold-weather/) or water.
 
 Without proper hydration, dogs can quickly overheat, leading to organ damage or even death.
 
@@ -125,13 +125,13 @@ By understanding the potential health risks, owners of herding dogs can take ste
 
 ## How can I prevent my dog from getting sick while herding goats?
 
-Dogs are susceptible to a number of diseases and parasites that can be passed on to goats. To help prevent your dog from getting sick, it's important to practice good hygiene and to keep your dog up-to-date on its vaccinations.
+Dogs are susceptible to a number of [diseases and parasites](/can-goat-lice-live-on-humans/) that can be passed on to goats. To help prevent your dog from getting sick, it's important to practice good hygiene and to keep your dog up-to-date on its vaccinations.
 
 When herding goats, your dog will come into contact with a variety of potential sources of infection, including the animals themselves, their feces, and their food and water.
 
 All of these can harbor disease-causing organisms that your dog can contract. Good hygiene practices, such as regular hand-washing and disinfecting all surfaces that come into contact with the goats, can help reduce the risk of disease transmission.
 
-Keeping your dog vaccinated against common diseases, such as rabies and distemper, will also help to reduce the risk of illness.
+Keeping your dog vaccinated against common diseases, such as [rabies](/can-a-goat-get-rabies/) and distemper, will also help to reduce the risk of illness.
 
 By following these simple recommendations, you can help keep your dog healthy while it enjoys the activity of herding goats.
 
@@ -139,9 +139,9 @@ By following these simple recommendations, you can help keep your dog healthy wh
 
 When goats and dogs are living together, there are a few precautions that should be taken in order to ensure the safety of both animals.
 
-First, you need to make sure that the goats have plenty of space to roam and that the area is free of potential hazards such as sharp objects or poisonous plants.
+First, you need to make sure that the goats have plenty of space to roam and that the area is free of potential hazards such as sharp objects or [poisonous plants](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/).
 
-Second, it's necessary to monitor the goats closely for signs of illness or injury, as dogs can sometimes be rough when playing.
+Second, it's necessary to monitor the goats closely for [signs of illness](/can-a-goat-get-sick-from-cold/) or injury, as dogs can sometimes be rough when playing.
 
 In the end, you need to keep an eye on the dog's food and water bowls, as goats may try to drink from them. By taking these precautions, you can help to keep both goats and dogs safe and healthy.
 

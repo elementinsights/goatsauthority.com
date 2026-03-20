@@ -44,7 +44,7 @@ We will answer all of your questions about goats and plows so that you can make 
 
 ## Can goats pull a plow?
 
-**Goats can pull a plow because they are very strong animals. Goats are very intelligent and can be trained to do many different things and tricks, including pulling a plow.**
+**Goats can pull a plow because they are very strong animals. Goats are very intelligent and [can be trained](/can-goats-be-tamed/) to do many different things and tricks, including pulling a plow.**
 
 **They are also very good at following commands and directions.**
 

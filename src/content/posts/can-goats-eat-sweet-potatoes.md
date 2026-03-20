@@ -56,23 +56,23 @@ If this is the case with your goat, you can try roasting the sweet potatoes to s
 
 ## Can goats eat sweet potato leaves?
 
-Sweet potatoes are a type of root vegetable that is often eaten by humans. The leaves of the sweet potato plant are also edible and can be a good source of vitamins and minerals.
+Sweet potatoes are a type of [root vegetable](/can-goats-eat-turnip/) that is often eaten by humans. The leaves of the sweet potato plant are also edible and can be a good source of vitamins and minerals.
 
-While goats will eat sweet potato leaves, they should not be the only source of food. Goats are browsers, which means that their diet should consist of a variety of different plants.
+While goats will eat sweet potato leaves, they should not be the only source of food. Goats are browsers, which means that their diet should consist of a [variety of different plants](/can-goats-eat-any-plant/).
 
 Sweet potato leaves are a good source of vitamin A and copper, but they are low in protein. Therefore, goats should only eat sweet potato leaves as part of a balanced diet.
 
-Forage, hay, and other types of vegetation should also be included in their diet to provide the nutrients they need.
+Forage, [hay](/what-kind-of-hay-do-goats-eat/), and other types of vegetation should also be included in their diet to provide the nutrients they need.
 
 ## Can goats eat sweet potato roots?
 
 Sweet potatoes are a highly nutritious root vegetable that can be enjoyed by humans and animals alike. Goats are particularly fond of sweet potatoes, and they can safely eat both the flesh and the skin of the vegetable.
 
-In addition to being a good source of vitamins and minerals, sweet potatoes contain high levels of fiber, which can help keep a goat's digestive system healthy.
+In addition to being a good source of vitamins and minerals, sweet potatoes contain high levels of fiber, which can help keep a goat's [digestive system](/can-goats-digest-anything/) healthy.
 
-Sweet potato roots are also a good source of energy, making them an ideal treat for goats that are pregnant or nursing. However, as with all things, moderation is key when feeding sweet potatoes to goats.
+Sweet potato roots are also a good source of energy, making them an ideal treat for goats that are [pregnant or nursing](/can-pregnant-boer-goats-eat-alfalfa/). However, as with all things, moderation is key when feeding sweet potatoes to goats.
 
-Overfeeding sweet potatoes can lead to health problems, such as diarrhea and bloating. Therefore, it's important to only give goats a small number of sweet potatoes at a time.
+Overfeeding sweet potatoes can lead to health problems, such as diarrhea and [bloating](/can-alfalfa-pellets-cause-goats-to-bloat/). Therefore, it's important to only give goats a small number of sweet potatoes at a time.
 
 ## Are sweet potatoes good for goats?
 
@@ -86,7 +86,7 @@ Goats are a type of livestock animal that is commonly used for milk production. 
 
 Goats are very curious and active creatures and need plenty of space to roam.
 
-They also require a diet that is high in fiber in order to maintain their digestive health. For these reasons, sweet potatoes can make an excellent addition to a goat's diet.
+They also require a diet that is high in [fiber](/can-goats-eat-timothy-hay/) in order to maintain their digestive health. For these reasons, sweet potatoes can make an excellent addition to a goat's diet.
 
 Sweet potatoes provide goats with essential nutrients, as well as the fiber they need to stay healthy.
 
@@ -94,7 +94,7 @@ On top of that, sweet potatoes can help to keep goats feeling full and satisfied
 
 ## Are there any risks associated with feeding sweet potatoes to goats?
 
-Sweet potatoes are healthy and nutritious food for goats. They are a good source of fiber, vitamins, and minerals.
+Sweet potatoes are [healthy and nutritious food for goats](/can-goats-eat-everything/). They are a good source of fiber, vitamins, and minerals.
 
 Even so, there are a few risks to consider when feeding sweet potatoes to goats.
 
@@ -116,7 +116,7 @@ The recommended serving size for sweet potatoes is 1/2 cup. This serving size pr
 
 For people with diabetes, it's important to count the number of carbohydrate exchanges they eat at each meal and snack.
 
-Exchange lists can be found in many diabetes books and online. The average sweet potato contains about 112 calories, which is relatively low compared to other starchy vegetables like corn or white potatoes.
+Exchange lists can be found in many diabetes books and online. The average sweet potato contains about 112 calories, which is relatively low compared to other starchy vegetables like [corn](/can-goats-eat-corn/) or white [potatoes](/can-goats-eat-potatoes/).
 
 However, sweet potatoes are a good source of fiber and contain more vitamins and minerals than other types of potatoes. They're also a good source of beta-carotene, an antioxidant that helps to protect cells from damage.
 

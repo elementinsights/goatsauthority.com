@@ -117,7 +117,7 @@ Goats are curious animals by nature, and their inquisitive nature often leads to
 
 Though goat biting might seem like harmless fun, it can actually be quite dangerous for both the goat and the person they're biting. Here are a few tips to help prevent goat biting:
 
-- Establish your dominance from an early age. When you first get your goat, make sure to assert yourself as the alpha straight away. This will help to prevent them from challenging you later on.
+- Establish your [dominance](/can-wether-goats-be-as-mean-as-billy-goats/) from an early age. When you first get your goat, make sure to assert yourself as the alpha straight away. This will help to prevent them from challenging you later on.
 
 - Be consistent with your rules and discipline. If you allow them to get away with biting once, they'll think it's acceptable behavior and will continue to do it.
 

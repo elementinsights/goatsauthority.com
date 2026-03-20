@@ -97,11 +97,11 @@ Always remember moderation is key when feeding fruits or treats to your goats. I
 
 Goats are not picky eaters. They can enjoy a variety of fruits besides apples.
 
-Pears, peaches, and bananas are some they love to munch on. However, it’s best to remove the seeds first as these may be harmful.
+Pears, [peaches](/can-goats-eat-peaches/), and [bananas](/can-goats-eat-bananas/) are some they love to munch on. However, it’s best to remove the seeds first as these may be harmful.
 
-Oranges too can be given but in moderation due to their high acid content. Watermelon is another favorite treat for goats during hot summer days.
+[Oranges](/can-goats-eat-oranges/) too can be given but in moderation due to their high acid content. [Watermelon](/can-goats-eat-watermelon/) is another favorite treat for goats during hot summer days.
 
-It’s important though that fruit only makes up about 10% of your goat’s diet because excess sugar isn’t good for them. The rest should consist mainly of hay or pasture grasses which provide essential nutrients needed by goats.
+It’s important though that fruit only makes up about 10% of your goat’s diet because excess sugar isn’t good for them. The rest should consist mainly of [hay](/what-kind-of-hay-do-goats-eat/) or pasture grasses which provide essential nutrients needed by goats.
 
 ## Is It Safe to Feed Apples to Goats?
 
@@ -133,7 +133,7 @@ When your goat eats too many apples, it may face health issues. Apples are rich 
 
 This can upset the balance of bacteria in a goat’s stomach. Too much sugar can cause bloating or even diarrhea.
 
-Feeding them small amounts is key to avoid these problems. Cut up one apple into slices and feed them as treats throughout the day instead of all at once.
+Feeding them small amounts is key to avoid these problems. Cut up one apple into slices and feed them as [treats](/can-goats-have-peppermint-treats/) throughout the day instead of all at once.
 
 So yes, goats can eat apples but moderation is important for their overall well-being.
 
@@ -179,9 +179,9 @@ It’s important to know what you should avoid giving them.
 
 Apples may seem harmless but they aren’t the best choice for goats. They contain seeds that have traces of cyanide which is harmful if ingested in large amounts by these animals.
 
-Other risky items include avocados and chocolate as they contain substances toxic to goats. Avoid feeding onions too since it causes anemia in them.
+Other risky items include [avocados](/can-goats-eat-avocado/) and [chocolate](/can-goats-eat-chocolate/) as they contain substances toxic to goats. Avoid feeding [onions](/can-goats-eat-onions/) too since it causes anemia in them.
 
-Lastly, never give your goat processed food or scraps from your kitchen table as their digestive system isn’t built like ours.
+Lastly, never give your goat processed food or [scraps from your kitchen table](/can-i-feed-my-goat-leftovers/) as their digestive system isn’t built like ours.
 
 ## Frequently Asked Questions (FAQs)
 

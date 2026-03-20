@@ -52,7 +52,7 @@ In this article, we will take a closer look at the mountain goat and explore som
 
 **it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous.**
 
-**Mountain goats also have sharp horns that they can use to defend themselves and their territory, which can cause serious injuries.**
+**Mountain goats also have sharp horns that they can use to [defend themselves](/can-goats-bite/) and their territory, which can cause serious injuries.**
 
 Despite that, it's very rare for mountain goats to attack humans. In most cases, they will only do so if they feel threatened or are trying to protect their young.
 
@@ -66,7 +66,7 @@ Mountain goats are well-adapted to life in the mountains.
 
 They have thick fur coats that protect them from the cold and their hooves are split, which helps them grip steep slopes. Although they are strong and agile, mountain goats can be dangerous animals.
 
-Mountain goats are known for being aggressive towards humans. In recent years, there have been several reports of mountain goats attacking hikers and campers in national parks.
+Mountain goats are known for being aggressive towards humans. In recent years, there have been several reports of mountain goats [attacking hikers and campers](/can-wether-goats-be-as-mean-as-billy-goats/) in national parks.
 
 In some cases, the attacks have been fatal.
 
@@ -106,11 +106,11 @@ Mountain goats are herbivores, and their diet consists mostly of grasses and sed
 
 In areas where food is scarce, mountain goats will sometimes eat bark or shed antlers.
 
-Mountain goats are social animals and live in small herds composed of females, young males, and kids. Adult males usually live alone or in small groups.
+Mountain goats are social animals and live in [small herds](/can-rams-be-in-with-goat-bucks/) composed of females, young males, and kids. Adult males usually live alone or in small groups.
 
 Mountain goats are capable of climbing steep slopes and jumping long distances. Their hooves are split into two toes which help them to grip the rocks and maintain balance.
 
-Mountain goats are relatively resistant to cold weather, and their thick fur coats keep them warm in even the most extreme conditions. But, they are not immune to predators such as coyotes, wolves, and eagles.
+Mountain goats are relatively resistant to cold weather, and their thick fur coats keep them warm in even the most extreme conditions. But, they are not immune to [predators such as coyotes](/can-raccoons-kill-goat/), wolves, and eagles.
 
 ## What do mountain goats eat?
 

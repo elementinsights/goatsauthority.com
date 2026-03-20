@@ -67,7 +67,7 @@ Non-contagious diseases, on the other hand, are not passed from one animal to an
 
 Some examples of contagious diseases that can be transmitted between animals include rabies, distemper, and parvovirus.
 
-Non-contagious diseases that can affect animals include heartworm, Lyme disease, and cancer. In some cases, such as rabies, certain animals may be vaccinated against the disease in order to help prevent its spread.
+Non-contagious diseases that can affect animals include heartworm, [Lyme disease](/can-goats-die-from-lymes/), and cancer. In some cases, such as rabies, certain animals may be vaccinated against the disease in order to help prevent its spread.
 
 Despite that, there's no guarantee that a vaccinated animal will not contract the disease, as vaccination does not provide 100% protection.
 
@@ -79,7 +79,7 @@ Goats are susceptible to a number of diseases, many of which can be fatal. For e
 
 coli from contact with contaminated water or food.
 
-They can also catch parasites such as worms and coccidia from coming into contact with infected feces.
+They can also catch [parasites such as worms](/can-goats-have-cattle-dewormer-blocks/) and coccidia from coming into contact with infected feces.
 
 To protect your goats from these diseases, you need to provide them with clean water and food and to keep their living area clean and free of manure.
 
@@ -135,13 +135,13 @@ However, there's a vaccine available for salmonella. This vaccine is not 100% ef
 
 In addition, there are vaccines available for some of the parasites that can infect goats, such as coccidia and worms. These vaccines can help prevent your goats from becoming infected in the first place.
 
-Talk to a goat expert about which vaccines are right for your goats and make sure to follow their recommended vaccination schedule.
+Talk to a goat expert about which [vaccines](/can-a-cdt-shot-kill-a-goat/) are right for your goats and make sure to follow their recommended vaccination schedule.
 
 ## What are some other ways I can protect my goats?
 
 In addition to vaccinations, there are other steps you can take to protect your goats from diseases. For example, you should provide them with clean water and food and keep their living area clean.
 
-You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your goats healthy and free from disease.
+You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your [goats healthy](/can-goats-be-outside-in-winter/) and free from disease.
 
 ## Final Thoughts
 

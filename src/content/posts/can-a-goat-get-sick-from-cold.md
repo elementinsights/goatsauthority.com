@@ -45,7 +45,7 @@ Here are some health facts, FAQs, and more about keeping your goats healthy in t
 
 ## Can a goat get sick from cold?
 
-**Goats can get sick from cold weather. Just like humans, goats are susceptible to colds and respiratory infections when they are exposed to cold, damp conditions.**
+**Goats can get sick from cold weather. Just like humans, goats are susceptible to colds and respiratory infections when they are exposed to [cold, damp conditions](/can-goats-die-in-cold-weather/).**
 
 **Goat owners need to be especially vigilant in the winter months when their animals are most at risk from exposure to the cold.**
 
@@ -59,11 +59,11 @@ Early diagnosis and treatment can often help to resolve the problem quickly and 
 
 When the weather starts to turn cold, goats need to be taken care of differently than in the warmer months. While they are generally hardy animals, goats are susceptible to several cold weather-related health problems.
 
-One of the most common is pneumonia, which can be caused by exposure to wet and cold conditions.
+One of the most common is [pneumonia](/can-goats-carry-distemper/), which can be caused by exposure to wet and cold conditions.
 
 Symptoms include a runny nose, fever, and difficulty breathing. Another common problem is gastroenteritis, which is an inflammation of the stomach and intestines.
 
-This can be caused by eating moldy or spoiled hay, drinking contaminated water, or being stressed from the cold weather. Gastroenteritis can cause severe diarrhea, dehydration, and even death.
+This can be caused by eating moldy or spoiled hay, drinking contaminated water, or being stressed from the cold weather. Gastroenteritis can cause severe [diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), dehydration, and even death.
 
 To help prevent these problems, it's important to make sure that goats have access to shelter from the wind and rain. They should also have plenty of fresh, clean water available at all times.
 
@@ -82,7 +82,7 @@ There are a few key things you can do to make sure your goats stay happy and hea
 
 First, it's important that your goats have access to fresh, clean water at all times. Goats are sensitive to changes in temperature, so in the winter months, you'll need to make sure their water doesn't freeze.
 
-Second, make sure your goats have plenty of fresh hay to eat. Hay is an important source of nutrients for goats, and it will help them stay warm in the colder months.
+Second, make sure your goats have plenty of fresh hay to eat. [Hay](/can-goats-have-36-protein/) is an important source of nutrients for goats, and it will help them stay warm in the colder months.
 
 It's also a good idea to feed your goats some grain or pellets during the winter, as this will give them extra energy to stay warm.
 
@@ -96,11 +96,11 @@ If you think your goat is sick, the first thing you should do is take its temper
 
 If the goat's temperature is above 103 degrees, it may have a fever and be sick.
 
-The next thing you should look for are signs of dehydration. To check for dehydration, pull up the skin on the back of the goat's neck.
+The next thing you should look for are signs of dehydration. To check for [dehydration](/can-i-give-a-sick-goat-water-through-a-syringe/), pull up the skin on the back of the goat's neck.
 
 If the skin stays up in a "tent" shape, the goat is dehydrated and needs immediate vet care.
 
-Another sign of illness in goats is diarrhea. If your goat has watery or bloody diarrhea, it needs to see a vet as soon as possible.
+Another sign of illness in goats is diarrhea. If your goat has watery or bloody diarrhea, it needs to see a [vet](/can-i-give-baby-aspirin-to-my-baby-goat/) as soon as possible.
 
 In the end, if your goat is not eating or drinking, appears lethargic, or has any other unusual symptoms, it's best to err on the side of caution and have it seen by a professional.
 
@@ -108,11 +108,11 @@ In the end, if your goat is not eating or drinking, appears lethargic, or has an
 
 Winter is a tough time for any animal, and goats are no exception. They are susceptible to a lot of common illnesses during the winter months, including frostbite, pneumonia, and hypothermia.
 
-Frostbite is a serious danger for goats, as their ears and horns are particularly vulnerable to the cold.
+[Frostbite](/can-goats-be-outside-in-winter/) is a serious danger for goats, as their ears and horns are particularly vulnerable to the cold.
 
-Pneumonia is another risk, as goats are highly prone to respiratory infections.
+Pneumonia is another risk, as goats are highly prone to [respiratory infections](/can-a-goat-get-a-cold-sore/).
 
-And finally, hypothermia is a real danger for any animal during the winter months.
+And finally, [hypothermia](/can-hoof-rot-kill-a-goat/) is a real danger for any animal during the winter months.
 
 Goats are no exception, and they can quickly succumb to the cold if they are not properly cared for. Thankfully, there are a number of steps that owners can take to help keep their goats healthy during the winter months.
 
@@ -132,7 +132,7 @@ First, you will need to make sure they have access to fresh, clean water at all 
 
 Secondly, you will need to provide them with good-quality hay or forage. Goats need to eat more in the winter months to maintain their body temperature, so make sure they have plenty of food available.
 
-Lastly, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the winter months, so make sure their shelter is well-insulated and draft-free.
+Lastly, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the [winter months](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/), so make sure their shelter is well-insulated and draft-free.
 
 ## Final Thoughts
 

@@ -59,7 +59,7 @@ Despite that, it's still fairly uncommon for dogs to contract tapeworms from goa
 
 ## What are tapeworms in dogs and how do they spread?
 
-Tapeworms are parasitic worms that infect the intestines of dogs (and other animals). They are typically spread through contaminated food or water, or by contact with an infected animal.
+[Tapeworms](/can-i-put-safeguard-in-my-goats-milk/) are parasitic worms that infect the intestines of dogs (and other animals). They are typically spread through contaminated food or water, or by contact with an infected animal.
 
 Dogs can also contract tapeworms from fleas. This is because the larvae of the worm live in the flea's gut.
 
@@ -127,7 +127,7 @@ Dogs and goats are both susceptible to a variety of diseases, many of which can 
 
 For example, both dogs and goats can contract rabies, a potentially fatal virus that is transmitted through bites or scratches from an infected animal.
 
-Dogs can also transmit canine distemper to goats, while [goats can pass on brucellosis](/can-a-goat-pass-afterbirth-between-kids/), a bacterial infection that causes reproductive problems in dogs.
+Dogs can also transmit [canine distemper](/can-goats-carry-distemper/) to goats, while [goats can pass on brucellosis](/can-a-goat-pass-afterbirth-between-kids/), a bacterial infection that causes reproductive problems in dogs.
 
 On top of that, both species can suffer from respiratory infections, internal parasites, and other health problems. While some of these diseases can be treated, others are fatal.
 

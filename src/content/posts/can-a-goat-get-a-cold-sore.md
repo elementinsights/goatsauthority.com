@@ -50,13 +50,13 @@ Lastly, we will touch on some preventative measures you can take to keep your go
 
 **HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils.**
 
-There are other animals that can get cold sores, such as dogs and cats, but again, it's relatively rare. So, if you see a goat with a cold sore, it's most likely due to an underlying health condition.
+There are other animals that can get cold sores, such as [dogs](/can-dogs-get-tapeworms-from-goats/) and cats, but again, it's relatively rare. So, if you see a goat with a cold sore, it's most likely due to an underlying health condition.
 
 ## What are the causes of cold sores in goats?
 
 There are several possible causes of cold sores in goats. One is a virus known as the caprine herpesvirus, which is closely related to the virus that causes eruptions in humans.
 
-This virus can be spread through contact with infected goats, or through contact with contaminated surfaces such as fences or feed troughs. In addition, cold sores can also be caused by bacterial infections, fungal infections, or even scrapes and cuts on the skin.
+This virus can be spread through contact with [infected goats](/can-goats-get-the-bubonic-plague/), or through contact with contaminated surfaces such as fences or feed troughs. In addition, cold sores can also be caused by bacterial infections, fungal infections, or even scrapes and cuts on the skin.
 
 Whichever the cause, cold sores in goats are generally treated in the same way. The lesions will usually heal on their own within a week or two, but some topical ointments can speed up the healing process.
 
@@ -66,9 +66,9 @@ In serious cases, antibiotics may be necessary to clear up any secondary Infecti
 
 Cold sores are viral infections that can affect both humans and animals. In goats, the symptoms of cold sores include blisters on the lips and around the nostrils.
 
-These blisters are usually filled with clear fluid and can be painful for the animal. In some cases, the virus can also cause ulcers on the tongue or inside the mouth.
+These blisters are usually filled with clear fluid and can be painful for the animal. In some cases, the virus can also cause ulcers on the tongue or inside the [mouth](/do-goats-have-teeth/).
 
-In critical cases, cold sores can lead to difficulty eating and drinking, which can lead to dehydration. If you think your goat has cold sores, it's important to contact a veterinarian for treatment.
+In critical cases, cold sores can lead to difficulty eating and [drinking](/can-goats-drink-cows-milk/), which can lead to dehydration. If you think your goat has cold sores, it's important to contact a veterinarian for treatment.
 
 there's no cure for the virus, but early intervention can help to lessen the severity of the symptoms and prevent dehydration.
 
@@ -78,11 +78,11 @@ If you have a goat with a cold sore, the first thing you'll want to do is clean 
 
 Be sure to rinse the area well afterward.
 
-You'll also want to apply a topical cream or ointment to the sore. This will help to soothe and protect the skin.
+You'll also want to apply a topical cream or [ointment](/can-benadryl-hurt-a-goat/) to the sore. This will help to soothe and protect the skin.
 
 You may need to reapply the cream several times a day, depending on the severity of the sore.
 
-In some cases, you may also need to give your goat an oral antiviral medication. If you're unsure about how to treat your goat's cold sore, always consult with an animal expert for guidance.
+In some cases, you may also need to give your goat an oral [antiviral medication](/can-i-give-goat-trazodone/). If you're unsure about how to treat your goat's cold sore, always consult with an animal expert for guidance.
 
 ## How is a cold sore in goats diagnosed?
 
@@ -92,7 +92,7 @@ There's no cure for HSV, but treatments are available to help manage the symptom
 
 These may include topical antiviral medications, topical disinfectants, and oral antiviral drugs. In severe cases, hospitalization may be necessary to provide supportive care and prevent complications.
 
-Prevention is key to managing HSV in goats, and strict biosecurity measures should be put in place to reduce the risk of transmission. This includes isolating affected animals from healthy ones and disinfecting any equipment or surfaces that come into contact with them.
+Prevention is key to managing HSV in goats, and strict [biosecurity measures](/can-goats-be-outside-in-winter/) should be put in place to reduce the risk of transmission. This includes isolating affected animals from healthy ones and disinfecting any equipment or surfaces that come into contact with them.
 
 ## Prevention tips for avoiding cold sores in goats
 
@@ -106,9 +106,9 @@ This will help to prevent the spread of the virus.
 
 In addition, all equipment and supplies that come into contact with an infected goat should be thoroughly cleaned and disinfected before being used with other animals.
 
-You should also be sure to provide your goats with a balanced diet. A healthy immune system is one of the best ways to prevent any kind of viral infection.
+You should also be sure to provide your goats with a [balanced diet](/how-many-stomachs-do-goats-have/). A healthy immune system is one of the best ways to prevent any kind of viral infection.
 
-Finally, you should avoid introducing new goats into their herd if possible. If it's necessary to add new animals, they should be quarantined and monitored for any signs of illness prior to being introduced to the rest of the herd.
+Finally, you should avoid introducing new goats into their [herd](/can-nutri-drench-be-given-to-lactating-goats/) if possible. If it's necessary to add new animals, they should be quarantined and monitored for any signs of illness prior to being introduced to the rest of the herd.
 
 By taking these precautions, you can help reduce the risk of their goats contracting cold sores.
 
@@ -128,7 +128,7 @@ In some cases, HSV can lead to more serious health problems, such as encephaliti
 
 Fortunately, cold sores in goats are not considered to be contagious. There's no evidence that humans can contract the virus from goats.
 
-Even so, it's still important to practice good hygiene and avoid close contact with goats that have cold sores. If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
+Even so, it's still important to practice good hygiene and avoid close contact with goats that have [cold sores](/can-pregnant-goats-eat-medicated-feed/). If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
 
 ## Final Thoughts
 

@@ -48,7 +48,7 @@ Many people are curious about the benefits of broccoli and whether or not goats 
 
 **Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats.**
 
-**Goats are browsers, which means that they like to eat a variety of different plants. Broccoli is a good option for goats because it's high in fiber and low in sugar.**
+**Goats are browsers, which means that they like to eat a [variety of different plants](/why-do-goats-eat-everything/). Broccoli is a good option for goats because it's high in fiber and low in [sugar](/can-goats-eat-strawberries/).**
 
 Fiber is important for goats because it helps them stay full and provides them with energy. Sugar can be harmful to goats, so it's important to choose plants that are low in sugar.
 
@@ -56,13 +56,13 @@ Broccoli is also a good source of vitamins and minerals, which are essential for
 
 ## What is broccoli and what are its benefits to goats?
 
-Broccoli is a type of vegetable that belongs to the cabbage family. It's an annual plant that produces green flowers.
+Broccoli is a type of vegetable that belongs to the [cabbage](/can-goats-eat-cabbage/) family. It's an annual plant that produces green flowers.
 
 The word broccoli comes from the Italian word "broccolo," which means "cauliflower." Broccoli is a nutrient-dense food that is rich in vitamins, minerals, and antioxidants.
 
 It also contains compounds that may boost goats' health. Some of the potential health benefits of broccoli include: reducing inflammation, boosting immunity, improving digestion, and preventing cancer.
 
-Including broccoli in goats' diet may help them to stay healthy and disease-free. Goats enjoy eating broccoli leaves, stems, and flowers.
+Including broccoli in goats' diet may help them to stay healthy and disease-free. Goats enjoy eating broccoli [leaves](/can-goats-eat-maple-leaves/), stems, and flowers.
 
 When feeding broccoli to goats, it's crucial to chop it into small pieces to prevent choking.
 
@@ -79,7 +79,7 @@ While goats will eat just about anything, that doesn't mean that everything is g
 
 One such plant is broccoli. While a few nibbles here and there likely won't hurt your goat, eating large amounts of broccoli can lead to serious health problems.
 
-When consumed in large quantities, broccoli can cause digestive issues in goats. The plant is high in fiber which can cause bloating, gas, and diarrhea.
+When consumed in large quantities, broccoli can cause digestive issues in goats. The plant is high in [fiber](/can-goats-eat-timothy-hay/) which can cause bloating, gas, and diarrhea.
 
 In severe cases, this can lead to intestinal blockages and other life-threatening problems.
 
@@ -93,7 +93,7 @@ Goats are notorious for being picky eaters. However, there are a few key things 
 
 First, chop the broccoli into small pieces. This will make it easier for your goats to eat and digest.
 
-Second, add a little bit of salt or sugar. Goats have a strong sense of taste, so a little bit of seasoning can go a long way.
+Second, add a little bit of [salt](/can-goats-eat-mineral-salt-made-for-cattle/) or sugar. Goats have a strong sense of taste, so a little bit of seasoning can go a long way.
 
 Finally, serve the broccoli with other foods that your goats enjoy. This will help to make the experience more enjoyable for them.
 
@@ -105,7 +105,7 @@ Goats are browsers, not grazers like cattle. They dislike eating grass but will 
 
 The primary diet of a goat should be hay, hay, and more hay with supplemental grains, mineral salt licks, and occasional fresh vegetables as treats.
 
-A rule of thumb is that goats should have 1 to 2% of their body weight in dry matter available to them daily. About 60% of the dry matter should be good-quality hay.
+A rule of thumb is that goats should have 1 to 2% of their body weight in dry matter available to them daily. About 60% of the dry matter should be good-quality [hay](/what-kind-of-hay-do-goats-eat/).
 
 In general, an adult goat can eat approximately 4 to 5 lbs per day of dry matter. An average-sized adult male goat (Boer) weighs about 250 lbs; therefore, he can consume 10-12 lbs or 2-3 square bales of hay per day along with some grain mix (concentrate).
 
@@ -129,7 +129,7 @@ For example, goats will not eat straw or hay that has been soiled with urine or 
 
 Additionally, goats will not eat poisonous plants or plants that have thorns or sharp edges.
 
-However, there are many types of plants and vegetables that goats enjoy eating, such as broccoli. Goats generally prefer to eat leafy greens and other vegetation that is high in moisture content.
+However, there are many types of plants and vegetables that goats enjoy eating, such as broccoli. Goats generally prefer to eat [leafy greens](/can-goats-eat-kale/) and other vegetation that is high in moisture content.
 
 So, while not all goats eat broccoli, many goats do enjoy eating this particular type of vegetable.
 
@@ -147,7 +147,7 @@ You can certainly feed a baby goat broccoli. As a matter of fact, broccoli is a 
 
 Goats are browsers, which means that they prefer to eat their food in small pieces.
 
-Broccoli florets are the perfect size for goat mouths, and they are also packed with vitamins and minerals. There are a few things to keep in mind when feeding broccoli to goats.
+Broccoli florets are the perfect size for goat mouths, and they are also packed with [vitamins and minerals](/can-goats-eat-cauliflower/). There are a few things to keep in mind when feeding broccoli to goats.
 
 First, make sure that the broccoli is fresh.
 
@@ -163,7 +163,7 @@ With these guidelines in mind, you can feel confident feeding your baby goat bro
 
 ## Final Thoughts
 
-Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many essential nutrients.
+Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many [essential nutrients](/can-goats-eat-spinach/).
 
 Just be sure not to overdo it.
 

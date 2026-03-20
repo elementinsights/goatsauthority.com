@@ -53,7 +53,7 @@ One way to achieve this is to use a portable electric fence. You can set up the 
 
 This will allow your goats to graze in a specific area while still being able to see and interact with their herd mates.
 
-Another way to tie up your goats for grazing is to use a tether system. This involves attaching a rope to each goat's collar and then staking the rope to the ground.
+Another way to tie up your goats for grazing is to use a [tether system](/can-goats-be-tethered/). This involves attaching a rope to each goat's collar and then staking the rope to the ground.
 
 The goat will then have a limited range of movement, but will still be able to see and interact with their herd mates.
 
@@ -95,7 +95,7 @@ If you just need to keep them away from something, then using a physical barrier
 
 Here are some tips for tying up your goats:
 
-- Make sure the area is safe. There should be no sharp objects or anything that could hurt the goat.
+- Make sure the area is safe. There should be no sharp objects or anything that could [hurt the goat](/can-goats-bite/).
 - Make sure the area is free of debris. Goats like to eat everything, so you don't want them eating something they shouldn't.
 - Make sure the area is big enough. Goats need room to move around and lie down.
 - Use a strong rope. [Goats are strong animals and can pull hard](/can-a-goat-pull-a-cart/).
@@ -119,11 +119,11 @@ They should also be able to lie down and move around freely.
 
 While goats are not typically thought of as companion animals, in recent years they have become popular pets.
 
-Goats are intelligent and social creatures, and they can bond with their owners just like any other pet. However, goats need plenty of room to roam, and they are not well suited to life in a small enclosure.
+Goats are intelligent and social creatures, and they can bond with their owners just like any other [pet](/can-wether-goats-be-as-mean-as-billy-goats/). However, goats need plenty of room to roam, and they are not well suited to life in a small enclosure.
 
 For this reason, you need to consider whether goats can be tied up for transport before bringing one home.
 
-Goats are naturally curious creatures, and they will often try to explore their surroundings. This can lead to them getting lost or wandering into unsafe areas.
+Goats are naturally curious creatures, and they will often try to explore their surroundings. This can lead to them getting lost or wandering into [unsafe areas](/can-a-fox-kill-a-goat/).
 
 If a goat is tied up for transport, it will be unable to move around and explore its new surroundings.
 

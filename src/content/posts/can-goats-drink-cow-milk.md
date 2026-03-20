@@ -43,9 +43,9 @@ Let’s explore this topic together. It might surprise you what we find out abou
 
 **Feeding baby goats cow milk is a topic that often raises questions. Can they drink it?**
 
-**The short answer is yes, but there’s more to the story. Cow milk isn’t bad for goat kids.**
+**The short answer is yes, but there’s more to the story. [Cow milk](/can-goats-eat-dairy/) isn’t bad for goat kids.**
 
-It has essential nutrients like proteins and fats which are vital for their growth. However, it lacks some key elements found in goat milk.
+It has essential [nutrients like proteins and fats](/can-goats-have-cheese/) which are vital for their growth. However, it lacks some key elements found in goat milk.
 
 Goat milk contains higher levels of vitamins A and B2 than cow’s milk does. These help with bone development and energy production respectively.
 
@@ -67,7 +67,7 @@ These kinds have been heated too high and lost their nutritional value.
 
 Whole pasteurized cow’s milk from the grocery store works well in most cases. You could also use raw fresh-from-the-cow whole fat dairy if you have access to it.
 
-Mixing up powdered kid replacer formula with water is another choice but only as a last resort due its lower quality nutrition compared to real animal milks.
+Mixing up [powdered kid replacer formula](/can-dogs-have-goat-formula/) with water is another choice but only as a last resort due its lower quality nutrition compared to real animal milks.
 
 Remember, successful bottle feeding isn’t just about what goes into the bottle though. Timing matters too.
 
@@ -85,7 +85,7 @@ Cow’s milk has more nutrients than a goat would need naturally. It could cause
 
 So what should you feed them? Goat milk is the top pick when available because it matches their nutritional needs perfectly.
 
-But sometimes, that isn’t possible or practical to get hold of. In these cases, there are special formulas made just for baby goats that mimic the nutrition found in mother’s milk closely.
+But sometimes, that isn’t possible or practical to get hold of. In these cases, there are special formulas made just for baby goats that mimic the nutrition found in [mother’s milk](/can-goats-eat-cheese/) closely.
 
 #### When to Start a Baby Goat on a Bottle?
 
@@ -177,7 +177,7 @@ The answer is yes and no. Cow’s milk can be given to baby goats but it shouldn
 
 **Cow’s milk has less protein and fat than goat’s milk which are essential nutrients for growing kids**. If you choose to feed them cow’s milk, make sure it comes from a healthy source free of antibiotics or hormones.
 
-In addition to this, when they reach about 1 month old, introduce hay into their diet gradually along with fresh water at all times. At around two months old you can begin introducing grains slowly too.
+In addition to this, when they reach about 1 month old, introduce [hay](/what-kind-of-hay-do-goats-eat/) into their diet gradually along with fresh water at all times. At around two months old you can begin introducing [grains](/can-goats-eat-oats/) slowly too.
 
 Remember though: every kid is unique so monitor your baby goat closely during feeding changes just in case any issues arise.
 
@@ -223,7 +223,7 @@ However, proper care and preparation are crucial.
 
 Cow’s milk needs to be pasteurized before giving it to your goat. This process kills harmful bacteria that could make the goat sick.
 
-Pasteurization involves heating the milk up then cooling it down quickly.
+Pasteurization involves heating the [milk](/can-goats-drink-juice/) up then cooling it down quickly.
 
 After pasteurizing, you should cool the milk right away for best results. Room temperature or slightly warmer is ideal when serving your goat this treat.
 
@@ -237,13 +237,13 @@ But what happens after weaning? Can goats drink cow milk?
 
 **After a goat kid is weaned, it can indeed consume cow’s milk**. This might be surprising to some but it makes sense if you think about it.
 
-Cow’s milk has nutrients that help in the growth of the goat kid during this crucial period. It contains proteins and vitamins essential for healthy development.
+Cow’s milk has nutrients that help in the growth of the goat kid during this crucial period. It contains [proteins and vitamins](/can-goats-eat-alfalfa/) essential for healthy development.
 
 But remember, moderation is key here as well because too much could upset their stomachs.
 
-**However, one should not rely solely on cow’s milk for nour**ishment post-weaning. Goat kids also require solid food such as grains and hay to ensure balanced nutrition.
+**However, one should not rely solely on cow’s milk for nour**ishment post-weaning. Goat kids also require [solid food such as grains](/can-my-infant-goat-kid-eat-grain/) and hay to ensure balanced nutrition.
 
-In conclusion, while cow’s milk can supplement a goat kid’s diet after weaning, variety in feed remains vital for overall health and proper growth.
+In conclusion, while cow’s milk can supplement a goat kid’s diet after weaning, [variety in feed](/can-goats-eat-corn/) remains vital for overall health and proper growth.
 
 ### Weaning Method for Baby Goats
 

@@ -59,7 +59,7 @@ Let's take a closer look at the answer to these questions in this article.
 
 However, there are some risks associated with feeding basil to goats. Basil can be toxic to goats if they eat too much of it.
 
-Eating large amounts of basil can cause vomiting, diarrhea, and other gastrointestinal problems.
+Eating large amounts of basil can cause vomiting, diarrhea, and other [gastrointestinal problems](/can-goats-eat-chocolate/).
 
 If you're going to feed your goat's basil, make sure you do so in moderation and keep an eye on them for any adverse reactions.
 
@@ -71,7 +71,7 @@ It's native to India and other tropical countries, but it's also grown in temper
 
 The leaves are used to flavor many dishes, and the plant is also used to make essential oils. Basil is generally safe for pregnant goats, but it's crucial to consult with a livestock expert before feeding any new food to a pregnant goat.
 
-Goat diets should be carefully balanced to ensure that they get all the nutrients they need during pregnancy. Too much or too little of certain nutrients can cause problems for the developing fetus.
+[Goat diets](/why-do-goats-eat-everything/) should be carefully balanced to ensure that they get all the nutrients they need during pregnancy. Too much or too little of certain nutrients can cause problems for the developing fetus.
 
 ## Can a lactating goat eat basil?
 
@@ -79,7 +79,7 @@ A lactating goat can eat basil. Basil is a safe, non-toxic herb that has many be
 
 Goats love the taste of basil, and the herb can help to increase milk production.
 
-Basil is also rich in vitamins and minerals, making it an excellent supplement to a goat's diet. In addition, basil helps to stimulate the appetite and aids in digestion.
+Basil is also rich in [vitamins and minerals](/can-goats-eat-kale/), making it an excellent supplement to a goat's diet. In addition, basil helps to stimulate the appetite and aids in digestion.
 
 So, if you're looking for a way to improve your goat's milk production or health, consider adding some basil to their diet.
 
@@ -111,7 +111,7 @@ Despite that, there are also some goats that love basil and will eat it right of
 
 So, it really depends on the individual goat. Some goats will even eat other kinds of herbs, like mint or oregano.
 
-If you have a goat that loves to eat basil, then you're lucky. Just make sure to keep an eye on how much they're eating, because too much basil can give them an upset stomach.
+If you have a goat that loves to eat basil, then you're lucky. Just make sure to keep an eye on how much they're eating, because too much basil can give them an [upset stomach](/can-goats-eat-onions/).
 
 ## Are all parts of basil edible to goats?
 
@@ -119,7 +119,7 @@ All parts of basil are not necessarily edible to goats. But, the vast majority o
 
 The leaves, stems, and flowers of the plant are all typically eaten by goats without any problems. There are a few varieties of basil that are not recommended for goats.
 
-These varieties generally have higher levels of oxalates, which can cause health problems if consumed in large quantities. For this reason, it's always best to check with an animal expert before feeding any new type of plant to a goat.
+These varieties generally have higher levels of [oxalates](/can-goats-eat-spinach/), which can cause health problems if consumed in large quantities. For this reason, it's always best to check with an animal expert before feeding any new type of plant to a goat.
 
 ## What are the benefits of feeding basil to goats?
 
@@ -127,7 +127,7 @@ Basil is a herb that can offer many benefits to goats. Goats like the taste of b
 
 Basil is high in nutrients and antioxidants, which can help to improve the health of goats.
 
-Additionally, basil can help to prevent goat diseases such as scours and enterotoxemia. Basil also has anti-inflammatory properties, which can be beneficial for goats with arthritis or other joint problems.
+Additionally, basil can help to prevent goat diseases such as [scours](/can-goats-eat-corn/) and enterotoxemia. Basil also has anti-inflammatory properties, which can be beneficial for goats with arthritis or other joint problems.
 
 Furthermore, feeding goats basil can help to increase milk production. Basil is known as a galactagogue, which means that it increases milk production in mammals.
 
@@ -139,11 +139,11 @@ Basil (Ocimum basilicum) is a popular herb that is used in many cuisines around 
 
 While there are some benefits to feeding goats basil, there are also certain risks that should be considered.
 
-Basil contains high levels of oxalic acid, which can be toxic to goats in large amounts. ingesting too much oxalic acid can cause health problems such as kidney stones, respiratory distress, and paralysis.
+Basil contains high levels of oxalic acid, which can be toxic to goats in large amounts. Ingesting too much oxalic acid can cause health problems such as [kidney stones](/can-goats-eat-celery/), respiratory distress, and paralysis.
 
 Therefore, it's important to monitor how much basil your goats are consuming and make sure that they are not eating too much of the herb.
 
-In addition, basil also contains compounds that can be harmful to pregnant goats and their unborn offspring. These compounds can cause birth defects and miscarriage.
+In addition, basil also contains compounds that can be harmful to [pregnant goats](/can-goats-eat-cilantro/) and their unborn offspring. These compounds can cause birth defects and miscarriage.
 
 For this reason, it's best to avoid feeding basil to pregnant goats or those that are likely to become pregnant. If you do choose to feed basil to your goats, make sure to do so in moderation and only give them small amounts at a time.
 
@@ -151,7 +151,7 @@ For this reason, it's best to avoid feeding basil to pregnant goats or those tha
 
 The serving size of basil for goats will depend on the age and size of the goat. A general rule of thumb is to give goats 1-2 tablespoons of basil per day.
 
-For baby goats or kids, start with a small amount of basil and gradually increase the amount as they get older. Kids under 6 months old should only be given a few leaves of basil at a time.
+For [baby goats](/can-goats-eat-applesauce/) or kids, start with a small amount of basil and gradually increase the amount as they get older. Kids under 6 months old should only be given a few leaves of basil at a time.
 
 Older goats can handle more basil, Despite that, it's still important to monitor their intake and make sure they are not eating too much. If you are unsure about how much basil to give your goat, talk to a livestock expert for guidance.
 

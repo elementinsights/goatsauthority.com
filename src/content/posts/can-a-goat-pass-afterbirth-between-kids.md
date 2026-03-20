@@ -62,7 +62,7 @@ The allantochorion is the outermost layer of the placenta and helps to protect t
 
 The afterbirth is typically expelled within 30 minutes to two hours after the birth of the kid. It's crucial for the farmer to check the afterbirth to make sure that it's complete and that there are no pieces left inside the goat.
 
-If any part of the afterbirth is left inside, it can lead to serious health problems for the goat. After the afterbirth has been checked, it can be removed from the pen and disposed of.
+If any part of the afterbirth is left inside, it can lead to serious [health problems](/can-goats-die-in-cold-weather/) for the goat. After the afterbirth has been checked, it can be removed from the pen and disposed of.
 
 ## How do you care for a newborn goat kid?
 
@@ -76,7 +76,7 @@ Third, kids need a place to sleep. A small box or kiddie pool filled with straw 
 
 Just be sure to place it in a draught-free area to keep your kid warm and comfortable.
 
-Lastly, keep an eye out for signs of illness, such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
+Lastly, keep an eye out for signs of [illness](/can-a-dog-get-sick-from-a-goat/), such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
 
 Caring for a newborn goat kid may seem daunting at first, but with a little knowledge and patience, you'll be a pro in no time.
 
@@ -90,7 +90,7 @@ Afterbirth is normally expelled within 12 hours of kidding (giving birth). Despi
 
 Retained afterbirth occurs when all or part of the placenta and fluids are not expelled within 12 hours after kidding.
 
-Retained afterbirth can lead to a number of health problems in goats, including metritis (infection of the uterus), septicemia (blood poisoning), and mastitis (infection of the mammary glands). Retained afterbirth can also cause [reduced milk production](/can-goat-milk-reduce-wrinkles/), weight loss, and death.
+Retained afterbirth can lead to a number of health problems in goats, including metritis (infection of the uterus), septicemia (blood poisoning), and [mastitis](/can-you-drink-milk-from-goats-with-mastitis/) (infection of the mammary glands). Retained afterbirth can also cause [reduced milk production](/can-goat-milk-reduce-wrinkles/), weight loss, and death.
 
 There are several factors that can contribute to retained afterbirth in goats. One factor is dystocia, which is difficulty giving birth.
 

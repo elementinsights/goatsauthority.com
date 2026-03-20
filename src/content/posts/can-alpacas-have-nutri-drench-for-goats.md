@@ -50,15 +50,15 @@ In this article, we will answer these questions for you, as well as provide you 
 
 **This is due to their long intestines, which extract a greater amount of nutrients from vegetation. Alpacas also have a four-chamber stomach that ferments food for longer.**
 
-However, it's important to note that alpacas should not have too much Nutri Drench. Too much of this supplement can lead to obesity and other health problems.
+However, it's important to note that alpacas should not have too much Nutri Drench. Too much of this supplement can lead to [obesity and other health problems](/can-goats-eat-pop-tarts/).
 
 ## What is Nutri Drench for goats and what are its benefits?
 
 Nutri Drench for goats is a vitamin and mineral supplement that is added to their water. It's a quick and easy way to give your goats the nutrients they need on a daily basis.
 
-Nutri Drench for goats is a liquid concentrate that contains vitamins A, D, and E, as well as minerals such as iron, copper, and manganese. It also contains biotin, which is essential for healthy hooves and coats.
+Nutri Drench for goats is a liquid concentrate that contains vitamins A, D, and E, as well as [minerals such as iron, copper, and manganese](/can-goats-eat-mineral-salt-made-for-cattle/). It also contains biotin, which is essential for healthy hooves and coats.
 
-Goats are notorious for being picky eaters, so adding Nutri Drench to their water is an easy way to make sure they are getting the nutrients they need.
+[Goats are notorious for being picky eaters](/can-goats-eat-everything/), so adding Nutri Drench to their water is an easy way to make sure they are getting the nutrients they need.
 
 Nutri Drench is also helpful in times of stress, such as during kidding or when recovering from an illness. [Adding it to your goats’ water](/can-i-give-a-sick-goat-water-through-a-syringe/) will help them to bounce back quickly and remain healthy.
 
@@ -82,9 +82,9 @@ Nutri Drench is administered orally, and there are no known side effects. Howeve
 
 Overdosing goats on Nutri
 
-Drench can lead to health problems such as diarrhea, bloating, and liver damage. Therefore, you must consult with a livestock expert before giving Nutri Drench to goats.
+Drench can lead to health problems such as [diarrhea, bloating](/can-alfalfa-pellets-cause-goats-to-bloat/), and liver damage. Therefore, you must consult with a livestock expert before giving Nutri Drench to goats.
 
-Additionally, Nutri Drench should not be given to pregnant goats or kids (baby goats). Pregnant goats may experience abortion if they are given too much Nutri Drench.
+Additionally, Nutri Drench should not be given to pregnant goats or kids (baby goats). [Pregnant goats](/can-i-feed-my-goat-pine-needles-when-it-is-pregnant/) may experience abortion if they are given too much Nutri Drench.
 
 Kids may also experience liver damage if they are given too much of the supplement. Therefore, you must consult with a livestock expert before giving Nutri Drench to any goat that falls into either of these categories.
 
@@ -104,7 +104,7 @@ If you are unsure about whether or not a product is genuine, you can contact the
 
 ## Is it okay to give your alpaca leftovers from your goat's food bowl?
 
-Alpacas and goats are both browsers, meaning that they primarily eat leaves, twigs, and other vegetation. While they have some similarities in their diet, there are also important differences to keep in mind.
+Alpacas and goats are both browsers, meaning that they primarily eat [leaves, twigs, and other vegetation](/can-goats-eat-any-plant/). While they have some similarities in their diet, there are also important differences to keep in mind.
 
 For example, alpacas are more efficient at [digesting cellulose than goats](/can-goats-digest-anything/), meaning that they can get more nutrients from the same amount of food. In addition, alpacas have four stomachs that work together to break down their food, while goats only have one.
 
@@ -118,7 +118,7 @@ Alpacas are camelids that originate from South America. They are historically br
 
 Today, alpacas are also kept as pets. When it comes to their diet, alpacas are herbivores and primarily graze on grass.
 
-They also consume hay and other plant-based foods.
+They also consume [hay and other plant-based foods](/what-kind-of-hay-do-goats-eat/).
 
 Since they are grazing animals, alpacas require a constant supply of fresh, green vegetation in order to get the nutrients they need. If an alpaca's diet is lacking in nutrients, it can lead to health problems.
 

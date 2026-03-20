@@ -53,7 +53,7 @@ In this article, we will answer all of your questions about whether or not goats
 
 In addition to being a good source of sugar, liquid amber is also high in other nutrients that are essential for goats. These include proteins, minerals, and vitamins.
 
-Liquid amber is a particularly good source of Vitamin C, which is important for goats' immune system function.
+Liquid amber is a particularly good source of Vitamin C, which is important for [goats' immune system](/can-goats-eat-kiwi/) function.
 
 It follows that goats can consume liquid amber. If you choose to [feed your goats](/can-a-goat-feed-quads/) this meal, there are a few things to bear in mind.
 
@@ -71,7 +71,7 @@ Another option is to mix liquid amber with water. This will make it easier for g
 
 Finally, you can also purchase liquid amber supplements from your local goat feed store. These supplements are designed to be mixed with water and given to goats.
 
-Liquid amber is a good source of nutrition for goats. However, it's important to give it to them in moderation.
+Liquid amber is a good source of nutrition for goats. However, it's important to give it to them in [moderation](/can-goats-eat-everything/).
 
 If you have any questions about whether or not goats can eat liquid amber, please talk to a goat expert.
 
@@ -89,7 +89,7 @@ On top of that, the sticky residue left behind by the resin can help to keep goa
 
 Liquid amber is a type of tree sap that can be found in various parts of the world. In some regions, it's considered a valuable resource and is collected for use in making products such as jewelry, cosmetics, and food additives.
 
-Despite that, liquid amber can also be poisonous to animals if ingested in large quantities. This is because it contains a substance called succinic acid, which can be harmful to the liver and kidneys.
+Despite that, liquid amber can also be [poisonous to animals](/can-goats-eat-laurel-leaves/) if ingested in large quantities. This is because it contains a substance called succinic acid, which can be harmful to the liver and kidneys.
 
 Goats are particularly vulnerable to the effects of liquid amber, as they are attracted to its sweet taste. Appropriately, farmers must be careful to keep their goats away from areas where liquid amber is present.
 
@@ -125,7 +125,7 @@ There are several alternative options to liquid amber for goats. These include o
 
 You can also give your goat a variety of fruits and vegetables to munch on.
 
-Goats enjoy eating leaves, stems, and flowers, so you can try feeding them plants such as dandelions, clover, and alfalfa. As always, be sure to consult with a goat expert before making any changes to your goat's diet.
+Goats enjoy eating leaves, stems, and flowers, so you can try feeding them plants such as [dandelions](/can-goats-eat-dandelions/), clover, and alfalfa. As always, be sure to consult with a goat expert before making any changes to your goat's diet.
 
 Liquid amber is a type of tree sap that can be found in various parts of the world. In some regions, it's considered a valuable resource and is collected for use in making products such as jewelry, cosmetics, and food additives.
 

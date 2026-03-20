@@ -51,7 +51,7 @@ In this article, we will answer all of your questions regarding Oregon grapes an
 
 **This substance is known to be toxic to goats and can cause severe digestive problems.**
 
-On top of that, the Oregon grape is also very high in sugar. Too much sugar can lead to obesity and other health problems in goats.
+On top of that, the Oregon grape is also very high in sugar. Too much sugar can lead to obesity and other [health problems in goats](/can-goats-eat-chocolate/).
 
 So, if you're looking for a safe and healthy treat for your goat, Oregon grapes are not the way to go. However, there are plenty of other fruits and vegetables that make great snacks for goats.
 
@@ -95,7 +95,7 @@ Goats are curious creatures and will nibble on just about anything. This can be 
 
 The good news is that there are a few [things you can do to keep your goats away](/can-a-dog-get-sick-from-a-goat/) from these plants.
 
-First, make sure that they have plenty of other food options available. A well-fed goat is less likely to nibble on something that it shouldn't.
+First, make sure that they have plenty of other [food options available](/what-kind-of-hay-do-goats-eat/). A well-fed goat is less likely to nibble on something that it shouldn't.
 
 Second, provide plenty of enrichment in their environment. Goats are intelligent animals and can get bored easily.
 
@@ -111,7 +111,7 @@ Oregon grapes are extremely poisonous to goats and can cause serious health prob
 
 Some of the most common symptoms of Oregon grape toxicity include gastrointestinal distress, kidney damage, and paralysis. If a goat has consumed Oregon grapes, it is crucial to seek goat expert care immediately.
 
-Treatment may involve administering drugs to control nausea and vomiting, providing supportive care, and giving the goat intravenous fluids. In severe cases, surgery may be necessary to remove the plant material from the gastrointestinal tract.
+Treatment may involve administering drugs to control nausea and vomiting, providing supportive care, and giving the goat [intravenous fluids](/can-goats-drink-vinegar/). In severe cases, surgery may be necessary to remove the plant material from the gastrointestinal tract.
 
 With prompt treatment, most goats will recover from Oregon grape toxicity without any long-term effects.
 

@@ -92,7 +92,7 @@ To avoid these risks, you need to follow the manufacturer's instructions careful
 
 Goats are susceptible to a variety of parasitic worms, which can cause them to become ill and even die if left untreated. Worms can enter a goat's body through their nose or mouth, and then live in their intestine, where they feed off the goat's blood.
 
-This can lead to anemia, weight loss, and diarrhea. Goat owners must therefore take care to deworm their goats on a regular basis.
+This can lead to [anemia](/can-goats-have-a-stroke-anemia/), weight loss, and diarrhea. Goat owners must therefore take care to deworm their goats on a regular basis.
 
 Dewormer pellets are one of the most common types of dewormers used for goats. When given the proper dosage, dewormer pellets are effective at [killing worms while causing minimal side effects in goats](/can-a-cdt-shot-kill-a-goat/).
 

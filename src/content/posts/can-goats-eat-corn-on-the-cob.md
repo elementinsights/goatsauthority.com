@@ -40,7 +40,7 @@ faq:
     answer: "Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other seasonings to the corn on the cob before feeding it to goats."
 ---
 
-The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can consume corn on the cob.
+The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can consume [corn on the cob](/can-goats-eat-corn/).
 
 The advantages, drawbacks, and serving size of corn on the cob for goats will all be covered in this article. We will also respond to some of the most common questions about this subject.
 
@@ -50,7 +50,7 @@ The advantages, drawbacks, and serving size of corn on the cob for goats will al
 
 **And also, corn cobs can help goats with digestive problems.**
 
-Moreover, corn on the cob is a good source of energy for active and working goats. However, since corn on the cob is high in sugar, it should only be given to goats in moderation.
+Moreover, corn on the cob is a good source of energy for active and working goats. However, since corn on the cob is high in [sugar](/can-goats-eat-gingerbread/), it should only be given to goats in moderation.
 
 ## Can a pregnant goat eat corn on the cob?
 
@@ -58,7 +58,7 @@ Corn on the cob is a popular summertime treat, but you may wonder if it's safe f
 
 While most goats can eat small amounts of corn without any problems, it's crucial to feed it in moderation.
 
-Corn is a starchy food that is high in carbohydrates, and it can cause digestive upset if your goat eats too much. And also, the kernels can be a choking hazard for baby goats.
+Corn is a starchy food that is high in [carbohydrates](/can-goats-eat-rice/), and it can cause digestive upset if your goat eats too much. And also, the kernels can be a choking hazard for baby goats.
 
 If you do feed corn to your pregnant goat, make sure to supervise her closely and remove any kernels that she drops. All in all, corn on the cob is a tasty treat that your pregnant goat can enjoy in moderation.
 
@@ -76,7 +76,7 @@ Goats are known for being popular pets. They are often described as being friend
 
 One important part of caring for goats is providing them with a nutritious diet. While goats are able to eat a variety of different foods, corn on the cob is an especially good option.
 
-Corn on the cob is an excellent source of many important nutrients, including protein, vitamins, and minerals. It also provides goats with a good source of energy.
+Corn on the cob is an excellent source of many important [nutrients](/can-goats-eat-oats/), including protein, vitamins, and minerals. It also provides goats with a good source of energy.
 
 And also, corn on the cob is a good way to keep goats entertained and occupied.
 
@@ -104,7 +104,7 @@ Make sure to break up the corn on the cob before giving it to your goat to preve
 
 ## What is the serving size for goats?
 
-The serving size for goats depends on the goat's age, weight, and activity level.
+The [serving size](/can-goats-eat-carrots/) for goats depends on the goat's age, weight, and activity level.
 
 As a general rule of thumb, a good serving size for an adult goat is 1-2 ears of corn per day. For kids and baby goats, a good serving size is 1 ear of corn per day.
 
@@ -116,11 +116,11 @@ You may also just put the corn in their enclosure. The corn on the cob is freque
 
 Another choice is to remove the corn from the cob and combine it with other foods.
 
-This may be an effective technique to give your goat's diet more diversity. No matter whatever technique you use, keep an eye on how much corn on the cob your goat is eating.
+This may be an effective technique to give your goat's diet more [diversity](/can-goats-eat-pumpkin/). No matter whatever technique you use, keep an eye on how much corn on the cob your goat is eating.
 
 Too much corn can lead to obesity and other health problems. When fed in moderation, Even so, corn on the cob can be a healthy and delicious addition to your goat's diet.
 
-As you can see, corn on the cob can be a healthy and delicious part of your goat's diet. Just be sure to feed it in moderation and cut it into smaller pieces before feeding it to goats.
+As you can see, corn on the cob can be a healthy and delicious part of your [goat's diet](/can-goats-eat-alfalfa/). Just be sure to feed it in moderation and cut it into smaller pieces before feeding it to goats.
 
 With these tips in mind, you can safely and enjoyably add corn on the cob to your goat's diet.
 
@@ -132,7 +132,7 @@ Here are some answers to frequently asked questions about feeding goats corn on 
 
 All goats can consume corn on the cob. Despite that, it's important to keep in mind that corn on the cob is a high-calorie food.
 
-This means that it should only be fed to goats in moderation.
+This means that it should only be fed to goats in [moderation](/can-goats-eat-potatoes/).
 
 ### Can corn on the cob be fed to goats raw?
 
@@ -142,10 +142,10 @@ This is due to the possibility of goats choking on corn on the cob.
 
 ### Can corn on the cob be fed to goats cooked?
 
-Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other seasonings to the corn on the cob before feeding it to goats.
+Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other [seasonings](/can-goats-eat-cabbage/) to the corn on the cob before feeding it to goats.
 
 ## Final Thoughts
 
-Corn on the cob can be a healthy and delicious part of your goat's diet. Just be sure to feed it in moderation and cut it into smaller pieces before feeding it to goats.
+Corn on the cob can be a healthy and delicious part of your goat's diet. Just be sure to feed it in moderation and cut it into [smaller pieces](/can-goats-eat-sunflower-seeds/) before feeding it to goats.
 
 With these tips in mind, you can safely and enjoyably add corn on the cob to your goat's diet.

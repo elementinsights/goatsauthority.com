@@ -62,7 +62,7 @@ Peanut butter cake is a good source of protein for goats. Protein is essential f
 
 Peanut butter cake also contains essential vitamins and minerals, such as vitamin B12, which is important for the proper function of the nervous system.
 
-On top of that, peanut butter cake contains some fat and carbohydrates. While fat is an important energy source for goats, too much fat can lead to obesity and health problems.
+On top of that, peanut butter cake contains some fat and carbohydrates. While fat is an important energy source for goats, too much fat can lead to obesity and [health problems](/can-goats-eat-chocolate/).
 
 Therefore, you need to feed peanut butter cake to goats in moderation.
 
@@ -100,7 +100,7 @@ Another risk is digestive upset. Peanut butter cake is high in sugar and fat, wh
 
 If your goat seems uncomfortable or has loose stools after eating peanut butter cake, it's best to avoid giving it to them in the future.
 
-Lastly, peanut butter cake can contribute to obesity in goats. Like all animals, goats need a balanced diet to stay healthy.
+Lastly, peanut butter cake can contribute to obesity in goats. Like all animals, goats need a [balanced diet](/can-goats-eat-alfalfa/) to stay healthy.
 
 feeding them too much sugar and fat can lead to weight gain and other health problems.
 
@@ -134,7 +134,7 @@ Therefore, it should only be given to goats in moderation.
 
 A good rule of thumb is to offer no more than 1-2 ounces of cake per day for an average-sized goat. If you have a large goat, you can offer up to 4 ounces per day.
 
-But, it's best to start with a smaller amount and increase it gradually to avoid digestive upset.
+But, it's best to start with a smaller amount and increase it gradually to avoid [digestive upset](/can-goats-eat-dog-food/).
 
 ## Final Thoughts
 

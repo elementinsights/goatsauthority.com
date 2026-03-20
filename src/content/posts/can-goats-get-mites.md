@@ -55,7 +55,7 @@ The most common type of mite that [affects goats](/can-weather-affect-goats-poop
 
 It is a tiny, eight-legged creature that feeds on the skin and causes severe itching.
 
-Goats can also get ear mites. These mites live in the ear canal and cause a lot of discomforts.
+Goats can also get ear mites. These mites live in the ear canal and cause a lot of [discomforts](/can-goat-lice-live-on-humans/).
 
 They can also lead to secondary infections.
 
@@ -65,7 +65,7 @@ Mites are tiny arthropods that thrive in warm, humid environments. There are man
 
 Goat mites are a type of mite that specifically target goats.
 
-They feed on the blood of their host, and they can cause anemia and general weakness. In severe cases, goat mites can even lead to death.
+They feed on the blood of their host, and they can cause [anemia](/can-goats-have-a-stroke-anemia/) and general weakness. In severe cases, goat mites can even lead to death.
 
 To prevent an infestation, it is important to regularly inspect goats for signs of mites.
 
@@ -107,7 +107,7 @@ There are several steps that farmers can take to prevent mites from infesting th
 
 One is to keep the goats' living area clean and free of debris, which can provide shelter for mites. It's also important to avoid overcrowding, as mites thrive in close quarters.
 
-Another preventative measure is to treat the goats with an insecticide every few months. This will kill any mites that are present and help to keep new infestations from taking hold.
+Another preventative measure is to treat the goats with an [insecticide](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) every few months. This will kill any mites that are present and help to keep new infestations from taking hold.
 
 By taking these precautions, farmers can help to ensure that their goats remain healthy and free of pests.
 
@@ -133,7 +133,7 @@ This type of mite is also known as the scaly leg mite, as it often leads to the 
 
 Another common type of mite is the Chorioptes mange mite, which burrows into the skin and causes intense itching. This type of mite can also infest the ears, leading to Scabby Ear.
 
-Finally, there is the Sarcoptes scabies mite, which is the most dangerous of all. This mite burrows into the skin, causing severe irritation and leading to hair loss.
+Finally, there is the Sarcoptes scabies mite, which is the most dangerous of all. This mite burrows into the skin, causing severe irritation and leading to [hair loss](/can-goats-spread-lice-to-llamas/).
 
 If left untreated, this type of mite can cause anemia and even death.
 

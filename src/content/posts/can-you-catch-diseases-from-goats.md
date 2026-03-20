@@ -104,11 +104,11 @@ If you're thinking about adding a goat or two to your farm, there are a few thin
 
 First, goats are social animals and do best when they have companions, so you'll need to plan on getting at least two.
 
-Secondly, goats are escape artists and will need a sturdy fence to keep them contained.
+Secondly, goats are escape artists and will need a [sturdy fence](/can-goats-climb-fences/) to keep them contained.
 
 Thirdly, goats are browsers and not grazers, so they'll need a diet of hay, fresh browse, and grain to stay healthy.
 
-Lastly, goats are susceptible to a number of diseases, so you'll need to make sure you have a good veterinarian on hand.
+Lastly, goats are susceptible to a number of [diseases](/can-any-diseases-spread-from-swine-to-goats/), so you'll need to make sure you have a good veterinarian on hand.
 
 But if you're willing to put in the work, goats can be rewarding and entertaining animals that will add a lot of character to your farm.
 
@@ -126,7 +126,7 @@ If you think you may have caught a disease from a goat, it's important to see a 
 
 Early diagnosis and treatment are key to avoiding serious complications from diseases like giardiasis, brucellosis, and cryptosporidiosis. So if you think you may have been exposed to a disease, don't wait - see a doctor right away.
 
-In addition to the diseases mentioned above, there are also other conditions that can be caught from goats, such as ringworm and lice.
+In addition to the diseases mentioned above, there are also other conditions that can be caught from goats, such as ringworm and [lice](/can-goat-lice-live-on-humans/).
 
 However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
 
@@ -136,4 +136,4 @@ Goats can carry diseases that can be passed on to humans, so it's important to p
 
 If you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
 
-Goats require space, regular vet check-ups, and vaccinations, so be prepared to take on the responsibility of owning a goat before getting one.
+Goats require space, regular vet check-ups, and [vaccinations](/can-strangles-from-horse-be-passed-to-goats/), so be prepared to take on the responsibility of owning a goat before getting one.

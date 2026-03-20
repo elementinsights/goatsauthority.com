@@ -78,7 +78,7 @@ When it comes to keeping rams and goat bucks together, there are several potenti
 
 Firstly, goats and sheep have very different social structures, with rams tending to be more dominant than goat bucks.
 
-As a result, there is a risk of aggression and injury if the two animals are kept in close proximity to each other.
+As a result, there is a risk of [aggression](/can-wether-goats-be-as-mean-as-billy-goats/) and injury if the two animals are kept in close proximity to each other.
 
 Secondly, rams and [goat bucks have different nutritional needs that may not be met when they share the same feed source](/can-a-goat-feed-quads/).
 
@@ -90,7 +90,7 @@ Ultimately, the best solution is to keep them separate and provide individualize
 
 There are a few different things that you can do to prevent fighting between rams and goat bucks.
 
-First, it is crucial to keep the herd well-fed, as hunger can trigger competition for food and may lead to aggressive behavior.
+First, it is crucial to keep the herd well-fed, as hunger can trigger competition for food and may lead to [aggressive behavior](/can-goats-bite/).
 
 Additionally, you should always provide plenty of space for your herd and make sure not to overcrowd them.
 

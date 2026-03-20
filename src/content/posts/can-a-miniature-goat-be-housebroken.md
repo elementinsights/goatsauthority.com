@@ -52,7 +52,7 @@ In this article, we will give you all the information you need to know about min
 
 **They also have a natural instinct to not soil their sleeping area, so with proper training, they can learn to sleep inside like a dog.**
 
-Despite that, it's crucial to remember that goats are still animals and they will have accidents from time to time. Just be patient and consistent with your training, and eventually, your miniature goat will be successfully housebroken.
+Despite that, it's crucial to remember that goats are still animals and they will have accidents from time to time. Just be patient and [consistent with your training](/can-pygmy-goats-be-good-potty-trained/), and eventually, your miniature goat will be successfully housebroken.
 
 ## How to housebreak a miniature goat?
 
@@ -94,7 +94,7 @@ So if you're looking for a pet that is fun, easy to care for, and useful, a mini
 
 ## How to take care of a miniature goat?
 
-there's much to consider when it comes to how to take care of a miniature goat. They are social creatures and need companionship, so if you are only planning on keeping one, you should reconsider.
+there's much to consider when it comes to how to take care of a miniature goat. They are social creatures and need [companionship](/can-goats-love-humans/), so if you are only planning on keeping one, you should reconsider.
 
 Miniature goats also need a lot of space to roam and play. A good rule of thumb is that they need at least 30 square feet per goat.
 
@@ -108,11 +108,11 @@ In the end, [goats need regular vaccinations and deworming](/can-goats-have-catt
 
 Miniature goats are becoming increasingly popular as pets, but there are some risks to consider before welcoming one into your home.
 
-First of all, miniature goats are escape artists and will need a secure fence or enclosure to keep them from wandering off.
+First of all, miniature goats are [escape artists](/can-domestic-goats-jump/) and will need a secure fence or enclosure to keep them from wandering off.
 
 Secondly, they are very social animals and do best in groups, so you will need to be prepared to care for more than one goat if you decide to get one.
 
-Lastly, miniature goats can be destructive and may damage your property if not given enough space to roam and play. However, if you are prepared to take on the challenges of owning a miniature goat, you may find that it's a rewarding and fun experience.
+Lastly, miniature goats can be [destructive](/can-an-aggressive-goat-be-fixed/) and may damage your property if not given enough space to roam and play. However, if you are prepared to take on the challenges of owning a miniature goat, you may find that it's a rewarding and fun experience.
 
 ## Can all goats be housebroken?
 
@@ -140,7 +140,7 @@ Lastly, you'll need to consider where you'll keep your goat. Goats require a lot
 
 If you have enough space for a goat enclosure, but, they make excellent pets.
 
-They're curious and playful creatures that will quickly bond with their human companions. So if you're looking for an affectionate pet with plenty of personalities, a goat might just be the perfect choice for you.
+They're curious and playful creatures that will quickly [bond with their human companions](/can-you-domesticate-a-goat/). So if you're looking for an affectionate pet with plenty of personalities, a goat might just be the perfect choice for you.
 
 ## Final Thoughts
 

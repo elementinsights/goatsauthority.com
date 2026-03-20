@@ -54,7 +54,7 @@ We will answer all of your questions about Nigerian buck goats and their potenti
 
 However, it's important to note that the offspring of a Nigerian buck and Boer goat pairing will not be 100% purebred. They will be what is known as a crossbreed or hybrid.
 
-So, if you are looking to breed Boer goats, it's best to use a purebred Boer buck. But if you are just curious about what the offspring of a Nigerian buck and Boer goat pairing would be like, then go ahead and give it a try.
+So, if you are looking to breed Boer goats, it's best to use a [purebred Boer buck](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/). But if you are just curious about what the offspring of a Nigerian buck and Boer goat pairing would be like, then go ahead and give it a try.
 
 ## What are the results of a Nigerian buck goat and female Boer goat pairing?
 
@@ -64,7 +64,7 @@ Despite that, crossbreeds can sometimes be healthier and harder than purebreds. 
 
 ## Do Nigerian buck goats make good fathers?
 
-Nigerian buck goats are a popular choice for many goat farmers. They are known for their hardiness and their ability to produce large litters.
+Nigerian buck goats are a popular choice for many goat farmers. They are known for their hardiness and their ability to [produce large litters](/can-you-breed-a-4yr-old-goat/).
 
 But what about their parenting skills? Do Nigerian buck goats make good fathers?
 
@@ -72,9 +72,9 @@ there's no easy answer to this question. It depends on a number of factors, incl
 
 Nigerian buck goats are typically very protective of their young and will do everything they can to keep them safe.
 
-They are also known for being very attentive fathers, often spending hours grooming and playing with their kids.
+They are also known for being very attentive fathers, often spending hours grooming and playing with [their kids](/can-i-mix-newborn-goats-and-older-goats/).
 
-Despite that, they can also be very aggressive, especially when it comes to other bucks. So it's crucial to carefully consider whether a Nigerian buck is the right father for your farm.
+Despite that, they can also be very aggressive, especially when it comes to [other bucks](/can-you-band-a-2-year-old-buck-goat/). So it's crucial to carefully consider whether a Nigerian buck is the right father for your farm.
 
 ## Do female boer goats make good mothers?
 
@@ -104,7 +104,7 @@ They have the high milk production of Nigerian dwarf does, with the added bonus 
 
 ## Are there any risks associated with a Nigerian buck goat mounting a female boer goat?
 
-Bucks of different breeds can be safely bred to does of another breed with very few risks, and the offspring are called F1 hybrids.
+[Bucks of different breeds](/can-you-breed-a-half-brother-and-sister-goat/) can be safely bred to does of another breed with very few risks, and the offspring are called F1 hybrids.
 
 However, because Boer goats were bred for meat production and Nigerian dwarf goats were bred for milk production, there are some potential risks to consider before allowing a Nigerian buck to mount a female Boer goat.
 
@@ -130,7 +130,7 @@ As with any animal, it's crucial to carefully consider the individual personalit
 
 ## What is the lifespan of the offspring of a Nigerian buck goat and a female boer goat?
 
-The lifespan of the offspring of a Nigerian buck goat and a female boer goat will depend on a number of factors, including diet, exercise, and genetics.
+The lifespan of the offspring of a Nigerian buck goat and a female boer goat will depend on a number of factors, including [diet, exercise, and genetics](/can-you-breed-a-6-yr-old-goat-for-first-time/).
 
 Generally speaking, crossbreeds tend to have longer lifespans than their purebred counterparts.
 

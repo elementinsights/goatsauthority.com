@@ -50,7 +50,7 @@ In this article, we will answer those questions about old goats and rickets. We 
 
 ## Can old goats develop rickets?
 
-**Old goats can develop rickets. This is a condition that affects the bones and causes them to become weak and deformed.**
+**Old goats can develop rickets. This is a condition that affects the bones and causes them to become [weak and deformed](/do-goats-have-cloven-hooves/).**
 
 **It is most common in young children, but it can also occur in adults, including older adults and seniors.**
 
@@ -62,7 +62,7 @@ But it can still happen, so it's important to be aware of the [signs and symptom
 
 Rickets is a condition that affects [old goats and other livestock](/can-you-band-a-2-year-old-buck-goat/). It is caused by a lack of certain important nutrients in their diet, usually due to poor-quality feed or exposure to stressful conditions.
 
-Symptoms of rickets include muscle weakness, loss of appetite, stunted growth, and difficulty walking or standing. If left untreated, the goat's health may decline significantly and it may even die.
+Symptoms of rickets include [muscle weakness](/can-goats-have-a-stroke-anemia/), loss of appetite, stunted growth, and difficulty walking or standing. If left untreated, the goat's health may decline significantly and it may even die.
 
 Thankfully, rickets can easily be prevented and treated if caught early on.
 
@@ -96,7 +96,7 @@ Rickets is a condition that affects older goats, causing issues with bone develo
 
 Unfortunately, there is no specific cure for rickets in old goats; treatment tends to be focused on managing the symptoms of the disease and supporting health and well-being.
 
-This can involve administering supplements that contain key nutrients, such as vitamin D, calcium, and phosphorus. In addition, goat owners may also need to make adjustments to diet and exercise plans to encourage better bone health.
+This can involve administering [supplements that contain key nutrients](/can-goats-have-horse-electrolytes/), such as vitamin D, calcium, and phosphorus. In addition, goat owners may also need to make adjustments to diet and exercise plans to encourage better bone health.
 
 Ultimately, though there is no single answer when it comes to treating rickets in old goats, there are many different options for supporting their overall well-being and helping them to manage this condition effectively.
 
@@ -124,13 +124,13 @@ You should also be sure to provide plenty of fresh water, as [goats can quickly 
 
 And finally, it's important to be aware of potential health problems in your goat and take appropriate steps to keep them from getting sick.
 
-Whether it's protecting against parasites with regular deworming or seeking help for a bad case of lice or mange, a little bit of proactive care can go a long way toward keeping your goat happy and healthy for years to come.
+Whether it's protecting against [parasites with regular deworming](/can-goats-get-mites/) or seeking help for a bad case of [lice](/can-goat-lice-live-on-humans/) or mange, a little bit of proactive care can go a long way toward keeping your goat happy and healthy for years to come.
 
 ## How to prevent rickets in old goats?
 
 To prevent rickets in old goats, it is important to provide them with the proper nutrients and minerals.
 
-This can be done by feeding them a balanced diet that includes lots of fresh grass, leafy greens, and certain types of grain.
+This can be done by feeding them a balanced diet that includes lots of fresh grass, leafy greens, and certain types of [grain](/can-goats-have-36-protein/).
 
 In addition, it is crucial to avoid overfeeding your goats or exposing them to stress, as this can hinder their ability to absorb certain vitamins and minerals.
 

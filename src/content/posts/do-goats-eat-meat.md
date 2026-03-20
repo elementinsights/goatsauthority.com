@@ -91,11 +91,11 @@ You should not feed meat to a sick goat. Goats are herbivores, so their stomachs
 
 If you try to feed sick goat meat, it's likely that the goat will vomit or have diarrhea.
 
-Meat can also contain harmful bacteria that can make your goat even sicker. So, if your goat is sick, it's best to stick to a diet of hay and other plants.
+Meat can also contain harmful bacteria that can make your goat even sicker. So, if your goat is sick, it's best to stick to a diet of [hay](/can-goats-eat-alfalfa/) and other plants.
 
 ## The benefits of feeding goats meat
 
-Goats are browsers and like to eat a variety of things. They will browse just about anything they can reach including twigs, bark, leaves, and flowers.
+Goats are browsers and like to eat a variety of things. They will browse just about [anything they can reach](/why-do-goats-eat-everything/) including twigs, bark, leaves, and flowers.
 
 If you have goats, you may be wondering if you can feed them meat. There are several benefits to feeding goats meat.
 
@@ -115,11 +115,11 @@ As you can see, there are several benefits to feeding goats meat. If you decide 
 
 You might think that since goats are herbivores, feeding them meat would be harmless. Despite that, there are actually a number of hazards associated with feeding goats meat.
 
-First of all, goats are not able to digest meat properly. This can lead to digestive problems and potentially deadly gastrointestinal blockages.
+First of all, goats are not able to digest meat properly. This can lead to [digestive problems](/can-goats-digest-anything/) and potentially deadly gastrointestinal blockages.
 
-In addition, meat is high in fat and calories, which can cause obesity and other health problems in goats.
+In addition, meat is high in fat and calories, which can cause [obesity](/can-goats-eat-corn/) and other health problems in goats.
 
-In the end, feeding goats meat can encourage aggressive behavior. So, while it might seem like a good idea to mix things up and feed your goat some meat, it's actually much safer to stick to their normal diet of hay, grass, and grains.
+In the end, feeding goats meat can encourage aggressive behavior. So, while it might seem like a good idea to mix things up and feed your goat some meat, it's actually much safer to stick to their normal diet of hay, [grass](/can-goats-eat-kentucky-bluegrass/), and grains.
 
 ## Risks and diseases associated with feeding goats meat
 
@@ -127,11 +127,11 @@ Aside from the hazards listed above, there are a few other risks associated with
 
 Goats that eat meat are at a higher risk of contracting diseases such as tuberculosis and brucellosis. These diseases can be deadly, so it's important to make sure that your goats are vaccinated against them.
 
-Another risk is parasites. Goats that eat meat are more likely to develop internal parasites, which can cause a number of problems including anemia, weight loss, and diarrhea.
+Another risk is parasites. Goats that eat meat are more likely to develop internal parasites, which can cause a number of problems including anemia, weight loss, and [diarrhea](/can-goats-eat-chicken-feed/).
 
 Finally, there's the risk of food poisoning. Goats can contract food poisoning from eating meat that is contaminated with bacteria or other toxins.
 
-Food poisoning can lead to vomiting, diarrhea, and potentially death.
+[Food poisoning](/can-goats-eat-chocolate/) can lead to vomiting, diarrhea, and potentially death.
 
 As you can see, there are several risks associated with feeding goats meat. If you decide to feed your goat meat, be sure to talk to an animal expert first to ensure that it's the right decision for your herd.
 
@@ -139,10 +139,10 @@ As you can see, there are several risks associated with feeding goats meat. If y
 
 If you decide to feed your goat meat, it's crucial to make sure that you are feeding them the proper serving size. Goats should only be given a small amount of meat at each meal.
 
-A good rule of thumb is to give them no more than 1/4 pound of meat per day. If you are feeding them a diet that includes other protein sources, such as hay or grains, you can give them a slightly larger portion of meat.
+A good rule of thumb is to give them no more than 1/4 pound of meat per day. If you are feeding them a diet that includes other protein sources, such as hay or [grains](/can-goats-eat-rice/), you can give them a slightly larger portion of meat.
 
 ## Final Thoughts
 
 Goats can eat meat, but there are several hazards and risks associated with doing so. If you decide to feed your goat meat, be sure to talk to an animal expert first to ensure that it's the right decision for your herd.
 
-Overall, it's best to stick to a diet of hay, grass, and grains for your goat. This will help them stay healthy and avoid any potential problems.
+Overall, it's best to stick to a diet of [hay](/what-kind-of-hay-do-goats-eat/), grass, and [grains](/can-goats-eat-oats/) for your goat. This will help them stay healthy and avoid any potential problems.

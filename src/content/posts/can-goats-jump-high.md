@@ -121,7 +121,7 @@ By taking these measures, you can help to keep your goats safe and happy.
 
 While all goats are capable of jumping, some breeds are more prone to it than others. One of the most notorious jumping breeds is the Pygmy goat.
 
-Pygmy goats are small, compact creatures that are full of energy. They are known for their playful and mischievous nature, and they often jump and play around.
+[Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) are small, compact creatures that are full of energy. They are known for their playful and mischievous nature, and they often jump and play around.
 
 Other breeds that are known for their jumping ability include the [Nubian goat](/can-a-nubian-goat-climb-trees/), the Alpine goat, and the LaMancha goat. These breeds are all relatively large, and they have a lot of energy.
 

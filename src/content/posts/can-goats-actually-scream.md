@@ -61,7 +61,7 @@ It turns out there are a few reasons why these animals might let out a blood-cur
 
 One possibility is that the goat is in pain. Goats are very stoic creatures, so if they're screaming, it's likely because they're experiencing a significant amount of discomfort.
 
-Another explanation is that the goat is terrified. Goats are prey animals, so if they feel threatened, they may let out a scream as a way of warning others of danger.
+Another explanation is that the goat is terrified. [Goats are prey animals](/can-a-fox-kill-a-goat/), so if they feel threatened, they may let out a scream as a way of warning others of danger.
 
 Finally, it's also possible that the goat is simply communicating its needs. For example, a [goat might scream when it's hungry or wants to be let out of its pen](/can-a-goat-pen-have-pine-trees-in-it/).
 
@@ -125,7 +125,7 @@ If you cannot have more than one goat, consider getting your goat a companion an
 
 Secondly, provide your goat with plenty of stimulating activities. Goats like to explore and play, so make sure their environment is enriching.
 
-Lastly, avoid handling your goat too much. Goats can become agitated if they are handled too much, so only pet them when they are calm.
+Lastly, avoid handling your goat too much. [Goats can become agitated](/can-goats-bite/) if they are handled too much, so only pet them when they are calm.
 
 By following these tips, you can prevent your goat from becoming stressed and reduce the chances of them screaming unnecessarily.
 

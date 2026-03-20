@@ -44,7 +44,7 @@ faq:
     answer: "You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help them stay in good condition and to ensure that their kids get the best start in life."
 ---
 
-Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and leaves to weeds.
+Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and [leaves](/can-goats-eat-maple-leaves/) to weeds.
 
 In this article, we’re going to take a closer look at what kind of hay do goats eat, and how you can provide your goat with a healthy diet.
 
@@ -52,7 +52,7 @@ In this article, we’re going to take a closer look at what kind of hay do goat
 
 ## What kind of hay do goats eat?
 
-**Goats eat all kinds of hay, including alfalfa hay, Timothy hay, and brome hay. You can also give them a mix of all three hays.**
+**Goats eat all kinds of hay, including [alfalfa hay](/can-goats-eat-alfalfa/), [Timothy hay](/can-goats-eat-timothy-hay/), and brome hay. You can also give them a mix of all three hays.**
 
 **The important thing is that the hay is fresh and free of mold or mildew.**
 
@@ -74,11 +74,11 @@ As a result, hay is an essential part of Goat care.
 
 All goats are herbivores, which means they only eat plant material. Despite that, not all goats eat hay.
 
-Some goats may prefer other types of plants, such as grass or leaves. Hay is a type of dried grass that is often fed to livestock.
+Some goats may prefer other types of plants, such as grass or leaves. [Hay is a type of dried grass](/can-goats-eat-straw/) that is often fed to livestock.
 
 it's a good source of nutrition and can help to keep animals healthy. Even so, it can also be expensive, so not all farmers choose to feed their goat's hay.
 
-Instead, they may provide other types of plants or even food scraps.
+Instead, they may provide other types of plants or even [food scraps](/can-i-feed-my-goat-leftovers/).
 
 Ultimately, it's up to the farmer to decide what type of food to give their goats, but all goats are capable of eating hay if it's available.
 
@@ -102,13 +102,13 @@ Ultimately, whether or not to feed hay to baby goats is a decision that should b
 
 There are many different types of hay available for goats to eat, and each type has its own set of benefits.
 
-One of the most popular types of hay is alfalfa hay, which is rich in protein and calcium. Goat owners often use alfalfa hay as a supplement for pregnant or nursing goats, as it can help them to produce more milk.
+One of the most popular types of hay is [alfalfa hay](/can-goats-eat-alfalfa/), which is rich in protein and calcium. Goat owners often use alfalfa hay as a supplement for pregnant or nursing goats, as it can help them to produce more milk.
 
-Another popular type of hay is timothy hay, which is lower in protein but higher in fiber. Timothy hay is a good choice for goats who are prone to digestive problems, as the extra fiber can help to keep their gut healthy.
+Another popular type of hay is [timothy hay](/can-goats-eat-timothy-hay/), which is lower in protein but higher in fiber. Timothy hay is a good choice for goats who are prone to digestive problems, as the extra fiber can help to keep their gut healthy.
 
 Orchard grass hay is another option that offers a balance of protein and fiber, making it a good all-around choice for most goats.
 
-Regardless of which type of hay you choose, be sure to offer your goats plenty of fresh water to drink. Hay can be dusty, and drinking water will help to keep your goats' respiratory systems healthy.
+Regardless of which type of hay you choose, be sure to offer your goats plenty of fresh water to drink. [Hay can be dusty](/can-goats-eat-moldy-hay/), and drinking water will help to keep your goats' respiratory systems healthy.
 
 ## How can you tell if your goat is getting enough hay in its diet?
 
@@ -134,9 +134,9 @@ By taking these steps, you can help ensure that your goats have access to fresh,
 
 ## What are some other things you can feed your goats besides hay?
 
-In addition to hay, there are a number of other things that you can feed your goats. Grain, for example, is a good source of protein and essential nutrients.
+In addition to hay, there are a number of other things that you can feed your goats. [Grain](/can-goats-eat-oats/), for example, is a good source of protein and essential nutrients.
 
-You can also give your goats leftover fruits and vegetables from your kitchen. Just be sure to avoid anything that is moldy or spoiled.
+You can also give your goats leftover [fruits and vegetables](/can-goats-eat-apples/) from your kitchen. Just be sure to avoid anything that is moldy or spoiled.
 
 Goat minerals are also an important part of their diet. A good mineral supplement will provide your goats with the calcium, phosphorus, and other minerals they need to stay healthy.
 
@@ -150,4 +150,4 @@ Hay is an important part of a goat's diet, providing essential nutrients and fib
 
 Be sure to store the hay properly to keep it fresh and nutritious, and monitor it regularly for signs of degradation.
 
-And also hay, there are a number of other things that you can feed your goats, such as grain, vegetables, and minerals. By offering a variety of food and water options, you can help your goats stay healthy and happy.
+And also hay, there are a number of other things that you can feed your goats, such as grain, [vegetables](/can-goats-eat-carrots/), and minerals. By offering a variety of food and water options, you can help your goats stay healthy and happy.

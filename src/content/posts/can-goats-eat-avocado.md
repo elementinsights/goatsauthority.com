@@ -45,7 +45,7 @@ faq:
 ---
 Have you ever wondered what goats can eat? It’s a question I’ve asked myself many times as an owner of these interesting animals.
 
-The diet of a goat is something that should be carefully considered.
+The [diet of a goat](/why-do-goats-eat-everything/) is something that should be carefully considered.
 
 One food item often in our kitchens is the avocado. Is it safe for your four-legged friend to consume this green fruit, or could it potentially harm them?
 
@@ -91,7 +91,7 @@ Goats have a wide-ranging diet, but avocados aren’t part of it. The fruit’s 
 
 Even the flesh can cause mild upset stomachs in some cases. So while you might enjoy this creamy treat, your goat is better off without it.
 
-Keep their meals balanced with hay, grains and fresh water instead for optimal health.
+Keep their meals balanced with [hay](/what-kind-of-hay-do-goats-eat/), grains and fresh water instead for optimal health.
 
 ### Why Aren’t Avocados Safe for Goats? All Parts of the Avocado Plant Are Toxic
 
@@ -105,7 +105,7 @@ Goats are curious creatures that will try eating almost anything green. But with
 
 ### What Fruits Can Goats Eat? Alternative Fruits That Are Safe for Goats
 
-Goats enjoy a variety of fruits. Apples and pears are among their favorites.
+Goats enjoy a variety of fruits. [Apples](/can-goats-eat-apples/) and [pears](/can-goats-eat-pears/) are among their favorites.
 
 These provide essential nutrients without any harm.
 
@@ -113,7 +113,7 @@ However, not all fruits are safe for goats. Avocados, for instance, should be av
 
 They contain persin which is toxic to goats.
 
-Instead of avocados, consider giving your goat peaches or plums as an alternative treat.
+Instead of avocados, consider giving your goat [peaches](/can-goats-eat-peaches/) or [plums](/can-goats-eat-plums/) as an alternative treat.
 
 ## Avocado and Goats: Is It Safe?
 
@@ -161,7 +161,7 @@ Monitor your goat closely after it eats an avocado and call the vet if you notic
 
 ## Feeding Avocados to Goats: Pros and Cons
 
-Feeding avocados to goats has both pros and cons. Avocado flesh is a healthy snack for your goat, packed with nutrients like potassium.
+Feeding avocados to goats has both pros and cons. Avocado flesh is a [healthy snack](/can-goats-eat-watermelon/) for your goat, packed with nutrients like potassium.
 
 But remember the pit and skin are toxic for them. These parts contain persin, harmful to many animals including goats.
 
@@ -193,7 +193,7 @@ Goats have a wide diet, but not all fruits and vegetables are safe. Avocados, fo
 
 This fruit contains persin, a toxin that causes health issues in goats. Similarly, rhubarb and wild cherry are also dangerous due to their toxic components.
 
-It’s crucial to know what your goat should avoid eating so you can keep it healthy and happy.
+It’s crucial to know [what your goat should avoid eating](/can-goats-eat-any-plant/) so you can keep it healthy and happy.
 
 ## Can Goats Eat Avocado Flesh?
 
@@ -217,7 +217,7 @@ Can goats eat avocado leaves? The answer is no.
 
 Avocado leaves contain a toxin called persin. This can be harmful to your goat’s health if ingested in large amounts.
 
-It may cause breathing difficulties, bloating and even death in severe cases. Therefore, it’s best to keep avocados, including the tree, fruit and leaves, away from your goat’s reach for their safety.
+It may cause breathing difficulties, [bloating](/can-alfalfa-pellets-cause-goats-to-bloat/) and even death in severe cases. Therefore, it’s best to keep avocados, including the tree, fruit and leaves, away from your goat’s reach for their safety.
 
 ## Unusual Goat Diets: A Closer Look at Avocados
 
@@ -227,4 +227,4 @@ Avocados are not good for goats. They contain persin, a toxin harmful to many an
 
 The leaves and bark of the avocado tree also carry this substance.
 
-So while we humans love our guacamole, it’s best to keep it away from your goat friends. Instead offer them safe fruits like apples or pears which they will enjoy just as much without any risk.
+So while we humans love our guacamole, it’s best to keep it away from your goat friends. Instead offer them [safe fruits](/can-goats-eat-strawberries/) like apples or pears which they will enjoy just as much without any risk.

@@ -98,7 +98,7 @@ Finally, goats need to be supervised when around citrus trees. They should never
 
 If you have citrus trees on your property, you may be wondering if it's okay to let your goats eat the branches.
 
-After all, citrus fruits are known to be a good source of Vitamin C. Despite that, there are a few [things you should keep in mind before letting your goats munch](/can-a-dog-get-sick-from-a-goat/) on citrus branches.
+After all, [citrus fruits](/can-goats-eat-citrus-fruits/) are known to be a good source of Vitamin C. Despite that, there are a few [things you should keep in mind before letting your goats munch](/can-a-dog-get-sick-from-a-goat/) on citrus branches.
 
 First of all, the leaves and twigs of citrus trees can be quite sharp, so it's important to make sure that your goats have access to plenty of fresh, clean water. Sharp edges can damage a goat's mouth and tongue, so it's important to monitor their intake of citrus branches.
 

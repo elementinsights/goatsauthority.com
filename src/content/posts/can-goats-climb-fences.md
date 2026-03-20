@@ -65,7 +65,7 @@ First, goats are adept climbers, so the fence will need to be tall enough to dis
 
 Second, goats are curious creatures and will try to stick their heads through any opening they can find. Appropriately, the fence will need to be free of any holes or gaps.
 
-Finally, goats are notorious for chewing on anything within reach, so the fence will need to be made of material that is resistant to chewing.
+Finally, [goats are notorious for chewing](/can-goat-poop-be-used-as-fertilizer/) on anything within reach, so the fence will need to be made of material that is resistant to chewing.
 
 With these factors in mind, many goat owners find that a wire mesh fence is the best option. It's tall enough to deter climbing, has no openings that could injure a goat's head, and is made of durable material that can withstand chewing.
 
@@ -84,7 +84,7 @@ Here are a few tips:
 - Use a wire mesh fence with small openings to prevent injury.
 - Check the fence regularly for signs of chewing.
 
-By following these tips, you can help ensure that your goats are safe and secure.
+By following these tips, you can help ensure that your [goats are safe and secure](/can-goats-live-in-an-urban-environment/).
 
 ## What is the point of fences, if goats can just climb over them anyway?
 

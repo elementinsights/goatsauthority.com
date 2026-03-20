@@ -50,13 +50,13 @@ The advantages and drawbacks of letting your goat munch on some sticker bushes w
 
 **A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm.**
 
-**Sticker bushes are a member of the family Euphorbiaceae, which also includes several hazardous plants.**
+**Sticker bushes are a member of the family Euphorbiaceae, which also includes several [hazardous plants](/can-goats-eat-any-plant/).**
 
 However, goats are resistant to the poisonous effects of these plants thanks to a special enzyme in their gut. This enzyme breaks down the toxic compounds in the plants, making them safe for goats to consume.
 
 Goats will often eat sticker bushes when other food sources are scarce. Still, it's important to provide goats with a balanced diet and not let them graze on sticker bushes all the time.
 
-Over-consumption of these plants can lead to health problems such as liver damage.
+Over-consumption of these plants can lead to [health problems](/can-alfalfa-pellets-cause-goats-to-bloat/) such as liver damage.
 
 ## What are sticker bushes and what do they look like?
 
@@ -74,7 +74,7 @@ They are relatively drought-tolerant but will need more water if they are growin
 
 ## What are the benefits of goats eating sticker bushes?
 
-Goats are very versatile creatures. They can be used for their milk, meat, hair, and skin.
+Goats are very versatile creatures. They can be used for their [milk](/can-goats-drink-cow-milk/), meat, hair, and skin.
 
 They can also be used as pack animals and for agricultural purposes such as clearing land.
 
@@ -102,9 +102,9 @@ The plants are easily recognizable by their sharp, thin leaves.
 
 While sticker bushes aren't poisonous, they can cause a number of problems for goats who consume them. The sharp leaves can cut the inside of a goat's mouth and throat, causing pain and irritation.
 
-In addition, the leaves can also get caught in a goat's digestive tract, leading to an obstruction. If not treated promptly, an obstruction can be fatal.
+In addition, the leaves can also get caught in a goat's [digestive tract](/can-goats-digest-anything/), leading to an obstruction. If not treated promptly, an obstruction can be fatal.
 
-Moreover, sticker bushes contain high levels of tannins, which can lead to gastrointestinal distress when consumed in large quantities.
+Moreover, sticker bushes contain high levels of [tannins](/can-goats-eat-acorns/), which can lead to gastrointestinal distress when consumed in large quantities.
 
 For these reasons, it's best to keep goats away from sticker bushes whenever possible.
 
@@ -128,13 +128,13 @@ If you notice any of these changes in your goat, you need to take action immedia
 
 ## How can I prevent my goat from getting sick?
 
-First and foremost, it's crucial to ensure that your goat has access to clean, fresh water at all times.
+First and foremost, it's crucial to ensure that your goat has access to clean, [fresh water](/can-goats-drink-juice/) at all times.
 
 Goats are susceptible to a variety of waterborne illnesses, so it's essential to clean and disinfect their water bowl on a regular basis.
 
-it's also important to provide your goat with a balanced diet that includes plenty of fresh hay, grass, and vegetables.
+it's also important to provide your goat with a balanced diet that includes plenty of fresh [hay](/what-kind-of-hay-do-goats-eat/), grass, and [vegetables](/can-goats-eat-carrots/).
 
-Goats are notoriously curious creatures, so be sure to keep them away from any potential hazards, such as chemicals or sharp objects.
+Goats are notoriously curious creatures, so be sure to keep them away from any potential hazards, such as chemicals or [sharp objects](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/).
 
 Lastly, make sure to have your goat vaccinated against common diseases such as rabies and tetanus.
 
@@ -144,7 +144,7 @@ By taking these simple precautions, you can help keep your goat healthy and happ
 
 There are over 300 different types of sticker bushes, and not all of them are safe for goats to eat. Some sticker bushes contain toxins that can cause liver damage or even death in goats.
 
-There are also many types of sticker bushes that are perfectly safe for goats to consume. These plants are a valuable source of nutrients for goats, and they can help to improve the health of the animal's coat.
+There are also many types of sticker bushes that are perfectly safe for goats to consume. These plants are a valuable source of [nutrients for goats](/can-goats-eat-pumpkin/), and they can help to improve the health of the animal's coat.
 
 When selecting sticker bushes for goats, it's important to choose ones that are known to be safe for the animal. Otherwise, you run the risk of causing serious health problems.
 

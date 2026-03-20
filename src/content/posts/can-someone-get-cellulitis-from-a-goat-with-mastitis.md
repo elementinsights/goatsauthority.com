@@ -55,7 +55,7 @@ In this article, we will answer those questions about cellulitis and goats with 
 
 The bacteria that cause mastitis can enter the skin through cuts, scratches, or insect bites. They can also enter the body through open wounds.
 
-Once the bacteria are in the skin, they can multiply and cause an infection.
+Once the bacteria are in the skin, they can multiply and cause an [infection](/can-goats-carry-distemper/).
 
 ## Are goats with mastitis a risk for contracting cellulitis?
 
@@ -71,7 +71,7 @@ Cellulitis is a common bacterial infection that affects the soft tissues of the 
 
 Other symptoms may include fever, chills, weakness, fatigue, and generally feeling unwell.
 
-The infection typically spreads quickly through the underlying tissues and can cause severe damage if left untreated.
+The [infection](/can-you-catch-diseases-from-goats/) typically spreads quickly through the underlying tissues and can cause severe damage if left untreated.
 
 Because of its fast spread and potentially serious consequences, it is important to seek medical attention as soon as possible if you experience any of the above symptoms or believe that you may have contracted cellulitis.
 
@@ -127,7 +127,7 @@ So if you're concerned about cellulitis, be sure to schedule an appointment with
 
 If cellulitis is left untreated, it can lead to serious health complications. The infection can spread to other parts of the body, causing additional inflammation and damage.
 
-In some cases, cellulitis may even lead to sepsis, a potentially life-threatening condition caused by an infection in the blood.
+In some cases, cellulitis may even lead to sepsis, a potentially [life-threatening condition](/can-contact-with-goats-cause-diarrhea-in-humans/) caused by an infection in the blood.
 
 Additionally, people with cellulitis may be at risk for developing skin abscesses or other types of infections.
 

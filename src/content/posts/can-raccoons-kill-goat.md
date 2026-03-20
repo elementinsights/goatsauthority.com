@@ -56,7 +56,7 @@ In this article, we will answer those questions and provide you with additional 
 
 There are a few [things that you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/) from raccoons. First, make sure that their living area is well-lit and free of hiding places for predators.
 
-Second, keep them in a secure enclosure at night. And lastly, consider installing an electric fence around their pasture.
+Second, keep them in a [secure enclosure](/can-a-goat-be-left-out-for-hours/) at night. And lastly, consider installing an electric fence around their pasture.
 
 With a little bit of effort, you can keep your goats safe from raccoons and other predators.
 
@@ -76,7 +76,7 @@ Whether you're an outdoor enthusiast or simply looking for an interesting animal
 
 Raccoons are notorious predators of goats, with a wide variety of strategies for killing and consuming their prey.
 
-One common method that raccoons use is to simply crush their victims to death by leaping onto their backs or necks and biting down hard with their powerful jaws.
+One common method that raccoons use is to simply crush their victims to death by leaping onto their backs or necks and biting down hard with their [powerful jaws](/can-goats-bite/).
 
 In some cases, a group of raccoons may even work together to take down a much larger animal, such as a full-grown goat.
 
@@ -88,7 +88,7 @@ Whether by strength, speed, or cunning, raccoons are devastating predators of th
 
 ## What are some preventative measures you can take to protect your goats from raccoons?
 
-There are many things that you can do to prevent raccoons from targeting your goats. For starters, it's a good idea to make sure that your fences are in good condition and tall enough to keep the animals safe.
+There are many things that you can do to prevent raccoons from targeting your goats. For starters, it's a good idea to make sure that your fences are in good condition and [tall enough to keep the animals safe](/can-goats-be-tethered/).
 
 You should also consider installing lighting in your pastures at night, as this can help to discourage raccoons from hanging around.
 
@@ -118,7 +118,7 @@ Raccoons and other predators can be a serious threat to your goats since they ca
 
 Raccoons are particularly notorious for their hunting skills, often targeting weaker or younger goats. They are most active at night, and will typically use stealthy movements and sharp claws to make quick work of their prey.
 
-Other common goat predators include weasels, foxes, and coyotes, all of which can cause serious damage if left unchecked.
+Other common goat predators include weasels, [foxes](/can-a-fox-kill-a-goat/), and coyotes, all of which can cause serious damage if left unchecked.
 
 Fortunately, there are several strategies that you can use to protect your goats from these predators. For example, you may wish to invest in sturdy fencing that prevents animals from entering your property or pen.
 
@@ -134,7 +134,7 @@ Another solution is to purchase a guardian animal, such as a llama or an alpaca,
 
 These animals are often larger and more [aggressive than goats](/can-an-aggressive-goat-be-fixed/), making them less likely to be targeted by predators.
 
-Additionally, they can provide an early warning system against potential threats, as they will often make noise or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
+Additionally, they can provide an early warning system against potential threats, as they will often [make noise](/can-goats-actually-scream/) or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
 
 ## Final Thoughts
 

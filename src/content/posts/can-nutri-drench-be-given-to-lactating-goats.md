@@ -88,11 +88,11 @@ With these key considerations in mind, you can help give your goats everything t
 
 ## Why is beneficial of Nutri Drench for lactating goats?
 
-There are a number of benefits to using Nutri Drench for lactating goats. First and foremost, this supplement is packed full of essential nutrients that are critical for the health and well-being of both mother and baby goats.
+There are a number of benefits to using Nutri Drench for lactating goats. First and foremost, this supplement is packed full of essential nutrients that are critical for the health and well-being of both mother and [baby goats](/can-goats-drink-cows-milk/).
 
 The unique combination of ingredients helps the [goat's digestive system](/can-goats-digest-cigarettes/) to absorb nutrients from food more efficiently, which in turn helps ensure that both the mother and her babies get all the nutrition they need for growth, development, and milk production.
 
-Additionally, Nutri Drench also supports immune function and promotes rapid wound healing, making it an excellent choice for any goat farmer who wants to keep their herd healthy and strong.
+Additionally, Nutri Drench also supports [immune function](/can-goats-be-outside-in-winter/) and promotes rapid wound healing, making it an excellent choice for any goat farmer who wants to keep their herd healthy and strong.
 
 Whether you're just starting out with a small farm or have been working with livestock for years, Nutri Drench is sure to be a valuable addition to your farm management toolkit.
 
@@ -132,7 +132,7 @@ With these risks in mind, you need to consult with your vet or an experienced go
 
 There are a few simple steps that you can take to prevent common problems associated with giving Nutri Drench to lactating goats.
 
-First, be sure to properly hydrate the goat before administering the supplement. On top of that, you need to make sure that you are using a clean and sterile syringe or measuring cup when giving Nutri Drench to goats.
+First, be sure to properly [hydrate](/can-i-put-safeguard-in-my-goats-milk/) the goat before administering the supplement. On top of that, you need to make sure that you are using a clean and sterile syringe or measuring cup when giving Nutri Drench to goats.
 
 Finally, be sure to follow the recommended dosage for your particular herd. By taking these simple precautions, you can minimize the risk of developing any problems while giving Nutri Drench to your lactating goats.
 

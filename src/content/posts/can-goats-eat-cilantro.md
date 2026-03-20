@@ -61,9 +61,9 @@ Remember, every animal has different dietary needs so what works for one might n
 
 **The herb is packed with vitamins A, C, and K which are beneficial for their health.**
 
-However, moderation is key when feeding goats cilantro. Too much of any food item could upset their stomachs or cause other issues.
+However, moderation is key when feeding goats cilantro. Too much of any food item could upset their stomachs or cause other issues. This is true for many foods, including [dandelions](/can-goats-eat-dandelions/).
 
-Remember that a goat’s diet should be primarily hay or pasture grasses. Treats like cilantro should make up only about 10% of what they consume daily.
+Remember that a goat’s diet should be primarily [hay](/what-kind-of-hay-do-goats-eat/) or pasture grasses. Treats like cilantro should make up only about 10% of what they consume daily.
 
 Always introduce new foods slowly into your goat’s diet to avoid digestive problems.
 
@@ -71,7 +71,7 @@ Always introduce new foods slowly into your goat’s diet to avoid digestive pro
 
 Goats can indeed have cilantro juice. Cilantro is a safe and healthy herb for goats to consume.
 
-It’s packed with vitamins, minerals, and antioxidants that are beneficial for their health.
+It’s packed with vitamins, minerals, and antioxidants that are beneficial for their health, much like [kale](/can-goats-eat-kale/).
 
 However, like any other food item outside of their regular diet, it should be given in moderation. Too much cilantro juice might upset the goat’s stomach because they’re not used to it.
 
@@ -111,7 +111,7 @@ Cilantro is packed with vitamins, which are good for your goat’s health.
 
 Making a salad out of it? That could be fun.
 
-**Goats like variety in their diet just as we do**. You might mix cilantro with other greens goats love such as spinach or lettuce.
+**Goats like variety in their diet just as we do**. You might mix cilantro with other greens goats love such as [spinach](/can-goats-eat-spinach/) or [lettuce](/can-goats-eat-lettuce/).
 
 But remember to introduce new foods slowly into their diet. Sudden changes can upset a goat’s stomach causing discomfort or even illness.
 
@@ -151,7 +151,7 @@ Next, chop it into small pieces. This makes it easier for your goat to eat and d
 
 Finally, mix the chopped cilantro with their regular feed. You don’t need a lot of cilantro, just enough to add some variety in their diet.
 
-Remember that while goats love eating different foods like cilantro, too much can cause digestive issues. So moderation is key when feeding them this herb.
+Remember that while goats love eating different foods like cilantro, too much can cause digestive issues. So moderation is key when feeding them this herb. The same applies to treats like [celery](/can-goats-eat-celery/).
 
 ### Can You Serve Cilantro With Cabbage for the Goats?
 
@@ -161,7 +161,7 @@ Goats love variety in their diet and these two provide just that.
 
 Cilantro is packed with vitamins A, C, and K. It’s also rich in antioxidants which help keep the goat’s immune system strong.
 
-On the other hand, cabbage has a high water content. This helps keep your goats hydrated especially during hot weather conditions.
+On the other hand, [cabbage](/can-goats-eat-cabbage/) has a high water content. This helps keep your goats hydrated especially during hot weather conditions.
 
 However, moderation is key when feeding these items to avoid digestive issues like bloating or diarrhea from overeating fresh greens.
 
@@ -169,7 +169,7 @@ However, moderation is key when feeding these items to avoid digestive issues li
 
 Yes, you can serve cilantro with banana peels for your goats. Goats love variety in their diet and these two items are safe to eat.
 
-Cilantro is a herb that’s packed with vitamins A, K, and C which boost the goat’s immune system. Banana peels also have nutrients like potassium and fiber.
+Cilantro is a herb that’s packed with vitamins A, K, and C which boost the goat’s immune system. [Banana](/can-goats-eat-bananas/) peels also have nutrients like potassium and fiber.
 
 But remember not to overfeed them as it might upset their stomachs. Keep things balanced by mixing these treats with hay or grasses they usually eat daily.
 
@@ -197,7 +197,7 @@ These herbs are safe for goats to consume in moderation.
 
 Mint is a favorite among many goats. It helps with digestion and gives them fresh breath too.
 
-Basil, on the other hand, provides vitamins A and K which are essential for their health.
+[Basil](/can-goats-eat-basil/), on the other hand, provides vitamins A and K which are essential for their health.
 
 Parsley offers additional benefits as well. This herb contains vitamin C that boosts their immune system.
 
@@ -253,7 +253,7 @@ Your goat might simply not like the taste of cilantro.
 
 Secondly, the freshness of the cilantro matters too. Goats prefer fresh food over wilted or old ones.
 
-Lastly and importantly is health concern. Some plants look similar to toxic ones which may cause them to avoid certain greens out of instinct.
+Lastly and importantly is health concern. Some plants look similar to toxic ones, such as [poison hemlock](/can-goats-eat-poison-hemlock/), which may cause them to avoid certain greens out of instinct.
 
 ## How Do I Introduce Cilantro to My Goats?
 

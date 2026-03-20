@@ -54,7 +54,7 @@ In this article, we will answer those questions and provide you with additional 
 
 **They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans.**
 
-In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to jump over fences.
+In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to [jump over fences](/can-goats-be-tethered/).
 
 If they are successful in escaping, they can quickly become a nuisance to farmers and homeowners alike.
 

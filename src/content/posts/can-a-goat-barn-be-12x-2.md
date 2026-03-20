@@ -42,7 +42,7 @@ The fundamentals of planning and building a goat barn will be covered in this ar
 
 ## Can a goat barn be 12x 2?
 
-**A goat barn can be 12x2, but it's not ideal. Goats need a lot of space to roam and explore.**
+**A goat barn can be 12x2, but it's not ideal. [Goats](/can-i-buy-a-goat-as-a-pet/) need a lot of space to roam and explore.**
 
 **They also need plenty of fresh air and sunlight. If a goat barn is too small, the goats will be cramped and uncomfortable.**
 
@@ -52,11 +52,11 @@ It's best to give them as much space as possible so they can be happy and health
 
 ## What are the benefits of having a goat barn?
 
-Goats are social animals and enjoy being around other goats. A goat barn provides a space for the goats to interact with each other.
+Goats are social animals and enjoy being around other goats. A [goat barn](/can-pine-chips-be-used-as-bedding-for-goats/) provides a space for the goats to interact with each other.
 
-It also protects them from the elements, and predators, and gives them a place to sleep.
+It also protects them from the elements, and [predators](/can-goats-climb-fences/), and gives them a place to sleep.
 
-A well-built goat barn can also be a valuable asset if you ever decide to sell your property. Goats are becoming increasingly popular as pets, and having a goat barn on your property will make it more attractive to potential buyers.
+A well-built goat barn can also be a valuable asset if you ever decide to sell your property. [Goats are becoming increasingly popular as pets](/can-a-goat-live-in-a-house/), and having a goat barn on your property will make it more attractive to potential buyers.
 
 ## What factors go into deciding how big a goat barn needs to be?
 
@@ -68,9 +68,9 @@ On the other hand, if you live in a more temperate climate, your goats may be ab
 
 The second factor is the number of goats you have. Obviously, the more goats you have, the more space they'll need.
 
-And lastly, you'll need to take into account the type of goats you have. Dairy goats, for example, tend to be larger than meat goats, so they'll need more room.
+And lastly, you'll need to take into account the type of goats you have. [Dairy goats](/can-ducks-and-goats-coexist/), for example, tend to be larger than meat goats, so they'll need more room.
 
-So, when it comes time to build a goat barn, make sure to keep all of these factors in mind. By doing so, you can be sure that your goats will have the comfortable and spacious home they deserve.
+So, when it comes time to build a goat barn, make sure to keep all of these factors in mind. By doing so, you can be sure that your goats will have the comfortable and spacious [home](/can-goats-live-in-an-urban-environment/) they deserve.
 
 ## The basics of planning and building a goat barn
 
@@ -88,7 +88,7 @@ With these considerations in mind, you can begin planning and building your perf
 
 ## What do goats need in their barn?
 
-Goats are social creatures and need the company of other goats. A minimum of two goats is recommended, but four or more is even better.
+[Goats are social creatures](/can-dogs-and-pygmy-goats-live-together/) and need the company of other goats. A minimum of two goats is recommended, but four or more is even better.
 
 Goats are curious and active animals, so they need plenty of space to roam and explore.
 
@@ -102,13 +102,13 @@ Grass and other greens can be given fresh or dried (as hay). Goats also like to 
 
 In addition to hay, grass, and browse, goats need a source of fresh water at all times. A water bucket or automatic waterer works well for this purpose.
 
-Goat mineral supplements should also be available for free choice. Goat minerals provide important vitamins and minerals that goats need for good health.
+[Goat mineral supplements](/can-weather-affect-goats-poop/) should also be available for free choice. Goat minerals provide important vitamins and minerals that goats need for good health.
 
 Finally, goats' pets also enjoy some fresh fruits and vegetables as a treat.
 
 ## How often should I clean my goat barn?
 
-To ensure the health and safety of your goats, it's crucial to clean their barn regularly. How often you need to clean will depend on a number of factors, such as the size of the barn, the number of goats, and the type of bedding you use.
+To ensure the health and safety of your goats, it's crucial to clean their barn regularly. How often you need to clean will depend on a number of factors, such as the size of the barn, the number of goats, and the [type of bedding](/can-goats-be-kept-in-the-house/) you use.
 
 A good rule of thumb is to do a deep clean once a week and spot-cleaning as needed. During the deep clean, you will need to remove all the bedding and thoroughly scrub down all surfaces.
 
@@ -138,7 +138,7 @@ The type of flooring you use in a goat barn is not as important as the cleanline
 
 A concrete or dirt floor is easy to clean and helps to prevent the spread of disease.
 
-### What type of bedding is best for a goat barn?
+### What type of bedding is best for a [goat barn](/can-a-goat-pen-have-pine-trees-in-it/)?
 
 The type of bedding you use in a goat barn is not as important as the cleanliness of the floor. Goats are very susceptible to respiratory illness, so it's important to keep their barn clean and dry.
 

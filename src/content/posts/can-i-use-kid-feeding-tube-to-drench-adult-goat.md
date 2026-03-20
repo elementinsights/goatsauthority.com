@@ -51,7 +51,7 @@ In this article, we will answer those questions about kid feeding tubes and dren
 
 In addition, you'll [need to make sure the tube is long enough to reach the bottom of the goat's stomach](/can-a-dog-get-sick-from-a-goat/). A good rule of thumb is to make the tube about one and a half times the length of the goat's head.
 
-Kid feeding tubes are typically made of flexible plastic or rubber. They have a small diameter, which makes them ideal for drenching goats.
+Kid feeding tubes are typically made of flexible plastic or rubber. They have a small diameter, which makes them ideal for [drenching goats](/can-you-deworm-a-pregnant-goat/).
 
 The process of drenching a goat is relatively simple. First, you'll need to mix the appropriate amount of liquid with the correct type of food.
 
@@ -59,7 +59,7 @@ Next, you'll need to insert the tube into the goat's mouth and down their throat
 
 Once the tube is in place, you'll need to slowly pour the liquid into the tube. The goat will then drink the liquid and it will go into their stomach.
 
-Kid feeding tubes are an easy and effective way to drench a goat. They're also relatively inexpensive, which makes them a great option for goat owners.
+Kid feeding tubes are an easy and effective way to drench a goat. They're also relatively inexpensive, which makes them a great option for [goat owners](/can-goats-have-cattle-dewormer-blocks/).
 
 ## What is a kid feeding tube and what are its uses on adult goats?
 
@@ -68,13 +68,13 @@ A kid feeding tube, also known simply as a feeding tube, is a medical device tha
 This tube is typically made from soft silicone rubber or similar materials, and it is flexible enough to allow for easy placement in the goat's esophagus. There are several different uses for feeding tubes in adult goats, including:
 
 - Providing nutrition and hydration when the animal is unable to eat or drink normally due to injury, illness, or disease
-- Administering medications and other treatments directly into the digestive tract, with faster absorption and greater effectiveness than oral administration
+- Administering [medications and other treatments](/can-i-give-my-goat-pepto-bismol/) directly into the digestive tract, with faster absorption and greater effectiveness than oral administration
 - Giving antibiotics and other prescription drugs even when there is no apparent sign of illness
 - Transporting food or supplements directly into the stomach where they can be better digested
 
-Like any medical device, kid feeding tubes must be used with care and under the supervision of trained professionals such as veterinarians or livestock specialists.
+Like any medical device, kid feeding tubes must be used with care and under the supervision of trained professionals such as [veterinarians or livestock specialists](/can-hoof-rot-kill-a-goat/).
 
-However, when used correctly, these tubes can help ensure the health and well-being of our beloved goats.
+However, when used correctly, these tubes can help ensure the [health and well-being](/can-baby-goats-have-any-electrolytes/) of our beloved goats.
 
 ## How to use a kid feeding tube to drench an adult goat?
 
@@ -104,7 +104,7 @@ The tube fits easily into the mouth of the goat and can be maneuvered around the
 
 On top of that, because kid feeding tubes are designed specifically for young animals, they are often made from materials that are soft, pliable, and more comfortable for adult goats to swallow.
 
-This means that goats treated with a kid feeding tube may experience less discomfort than they would if they were given medication by other methods. In general, then, there are many good reasons to opt for this simple yet effective way of treating your adult herd.
+This means that goats treated with a kid feeding tube may experience less discomfort than they would if they were given [medication by other methods](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/). In general, then, there are many good reasons to opt for this simple yet effective way of treating your adult herd.
 
 ## Things you need to keep in mind when using a kid feeding tube for drenching adult goats
 
@@ -120,7 +120,7 @@ Additionally, it is crucial to take extra care when handling any kind of restrai
 
 There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option.
 
-One common alternative is to use an esophageal feeder, which is a long tube that is inserted through the goat's nose and down into its stomach. Despite that, this method can be quite uncomfortable for the animal and may cause them to choke or gag.
+One common alternative is to use an [esophageal feeder](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), which is a long tube that is inserted through the goat's nose and down into its stomach. Despite that, this method can be quite uncomfortable for the animal and may cause them to choke or gag.
 
 Additionally, it is crucial to be very careful when using an esophageal feeder so as not to damage the goat's delicate throat or windpipe. Another alternative method is to give the medication orally, either by syringe or by pouring it directly into the goat's mouth.
 
@@ -134,4 +134,4 @@ Overall, using a kid feeding tube for drenching adult goats is a safe, easy, and
 
 With the right equipment and some careful handling, you can ensure that your process goes smoothly and that your goat remains healthy and comfortable.
 
-If you have any questions or concerns, be sure to speak with your veterinarian before proceeding.
+If you have any questions or concerns, be sure to speak with your [veterinarian](/can-goats-drink-vinegar/) before proceeding.

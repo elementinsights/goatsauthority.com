@@ -57,7 +57,7 @@ When using any wormer, it is crucial to follow the dosage and administration rec
 
 ## What is Bimectin and how does it work on your kid goats?
 
-Bimectin is a popular medication used to treat parasite infestations in livestock, including goats. This drug contains ivermectin, which is an antiparasitic agent that works by disrupting the nervous system of certain parasites, such as scabies mites, and intestinal worms.
+Bimectin is a popular medication used to treat parasite infestations in livestock, including goats. This drug contains [ivermectin](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/), which is an antiparasitic agent that works by disrupting the nervous system of certain parasites, such as scabies mites, and intestinal worms.
 
 When given to goats, Bimectin quickly gets to work eliminating any existing parasites, while also providing protection against future infestations. In addition, this drug can be administered orally or topically with minimal [risk of side effects](/can-a-cdt-shot-kill-a-goat/).
 
@@ -69,7 +69,7 @@ There is no single definitive answer to the question of when you should use Bime
 
 The best approach is to take into account a range of factors, including the age and general health of the animal as well as any specific characteristics or conditions that may affect its treatment.
 
-For example, if you're dealing with a very young goat that is underweight or weak, it may be better to choose Bimectin over Safeguard.
+For example, if you're dealing with a very young goat that is [underweight or weak](/can-goats-have-a-stroke-anemia/), it may be better to choose Bimectin over Safeguard.
 
 That's because this particular breed tends to be more delicate and can have trouble tolerating strong medications like Safeguard.
 
@@ -85,7 +85,7 @@ When using Bimectin on your kid goats, there are a few important things to keep 
 
 This will help ensure that you administer the correct amount of medication and that you do not overdose your goats.
 
-Additionally, it is crucial to make sure that your kids have access to plenty of water while they are taking this medication. Water helps to flush out the system and prevent any potential side effects or complications from occurring.
+Additionally, it is crucial to make sure that your kids have access to [plenty of water](/can-goats-have-horse-electrolytes/) while they are taking this medication. Water helps to flush out the system and prevent any potential side effects or complications from occurring.
 
 You should also be aware of any potential interactions with other drugs or medications that your kid goats may be taking, and avoid mixing Bimectin with these substances to protect their health.
 
@@ -119,7 +119,7 @@ For this reason, it is important to speak with a vet before choosing an endectoc
 
 Finally, if what you are trying to treat is bacterial in nature rather than worm-related, then antibiotic therapy may be a better option for you and your goats.
 
-Antibiotics help to address many common infections including foot rot and pneumonia so they can be extremely useful when it comes time to get those pesky bacteria under control.
+Antibiotics help to address many common infections including [foot rot](/can-hoof-rot-kill-a-goat/) and pneumonia so they can be extremely useful when it comes time to get those pesky bacteria under control.
 
 Just like with any other type of medication though, antibiotics should only be prescribed after consulting with a licensed veterinarian who has the proper knowledge about which specific antibiotics will work best for each individual animal on your farm.
 

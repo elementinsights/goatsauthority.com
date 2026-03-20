@@ -46,7 +46,7 @@ In this article, we will answer all of your questions regarding breeding Nigeria
 
 ## Can a nigerian goat doeling get breed at 4 month age?
 
-**A Nigerian goat doeling cannot successfully be bred until she reaches at least six months of age. At four months, she is still too young and her body is not yet ready to support a pregnancy, give birth, and raise a kid.**
+**A Nigerian goat doeling cannot successfully be bred until she reaches at least six months of age. At four months, she is still too young and her body is not yet ready to support a pregnancy, [give birth](/how-many-babies-do-goats-have-at-a-time/), and raise a kid.**
 
 So, while it may be tempting to breed your Nigerian Goat Doeling at 4 months old, it's best to wait until she is at least 6 months old before attempting to breed her.
 
@@ -54,11 +54,11 @@ By doing so, you will help ensure a safer and healthier pregnancy for both your 
 
 ## What is a Nigerian Goat Doeling?
 
-A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturity. Once she reaches 6 months of age, she will be considered a doe and will be able to breed.
+A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturity. Once she reaches 6 months of age, she will be considered a doe and will be [able to breed](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/).
 
 Nigerian Goat Doelings are usually born weighing between 2-4 pounds (0.9-1.8 kg). They are able to stand and walk on their own within a few hours after birth and will be fully weaned by 8 weeks of age.
 
-Nigerian Goat Doelings are usually bred for meat production, but can also be kept as pets or used for milk production.
+Nigerian Goat Doelings are usually bred for meat production, but can also be kept as pets or used for [milk production](/can-a-goat-bag-up-without-being-pregnant/).
 
 ## When can a Nigerian goat doeling be bred?
 
@@ -66,7 +66,7 @@ Nigerian Dwarf goats are a relatively small breed of dairy goat. Does (females) 
 
 One of the benefits of Nigerian Dwarf goats is that they can be bred at a young age. Does can be safely bred as early as five months old, while bucks can be safely bred as early as six months old.
 
-When choosing a breeding partner for your doeling, you need to select a buck that is from a different bloodline in order to avoid inbreeding.
+When choosing a breeding partner for your doeling, you need to select a buck that is from a different bloodline in order to [avoid inbreeding](/can-the-same-litter-of-goats-have-different-fathers/).
 
 it's also important to make sure that the buck is large enough to properly cover the doe; if he is too small, there's a risk of the doe being injured during breeding.
 
@@ -76,7 +76,7 @@ Ultimately, the decision of when to breed a Nigerian Dwarf goat doeling will dep
 
 Nigerian Dwarf goats are a popular choice for small-scale dairy farmers and hobbyists alike. But before you bring home a Nigerian Dwarf doeling, it's important to consider some health concerns that may impact her future wellbeing.
 
-First and foremost, Nigerian Dwarf goats are prone to chlamydia, which is a bacterial infection that can cause respiratory problems, infertility, and even death.
+First and foremost, Nigerian Dwarf goats are prone to chlamydia, which is a bacterial infection that can cause respiratory problems, [infertility](/can-a-goat-form-an-udder-without-being-pregnant/), and even death.
 
 Be sure to have your doeling tested for chlamydia before breeding her. Nigerian Dwarf goats are also susceptible to caprine arthritis encephalitis (CAE), which is a viral condition that causes joint pain and swelling, as well as neurological symptoms such as head-tilting and paralysis.
 
@@ -120,7 +120,7 @@ The doeling may experience some discomfort after breeding, so you need to provid
 
 it's also important to continue to provide the doeling with a healthy diet and plenty of exercises during this time.
 
-If everything goes well, the doeling should give birth to healthy baby goats within 150 days.
+If everything goes well, the doeling should [give birth to healthy baby goats](/can-a-goat-have-babies-a-week-apart/) within 150 days.
 
 After the [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
 
@@ -132,4 +132,4 @@ The doeling should also be from a reputable breeder and have a healthy diet and 
 
 After the breeding process is complete, you must keep a close eye on the doeling to make sure that she is healthy and comfortable.
 
-If everything goes well, the doeling should give birth to healthy baby goats within 150 days.
+If everything goes well, the doeling should give birth to [healthy baby goats](/can-a-goat-feed-quads/) within 150 days.

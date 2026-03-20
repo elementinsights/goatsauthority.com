@@ -57,7 +57,7 @@ There are also some different strains of the bacteria that cause strangles, and 
 
 The best way to prevent the transmission of strangles from horse to goat (or vice versa) is to practice good hygiene and biosecurity measures.
 
-This includes quarantine procedures for new animals, regular cleaning and disinfection of stalls and equipment, and avoiding contact between sick and healthy animals.
+This includes quarantine procedures for new animals, regular cleaning and disinfection of stalls and equipment, and avoiding [contact between sick and healthy animals](/can-any-diseases-spread-from-swine-to-goats/).
 
 If you think your animal has been strangled, take them to the vet right away. Early diagnosis and treatment can help reduce the severity of the disease and stop it from spreading to other animals.
 
@@ -69,7 +69,7 @@ In some cases, [goats may also develop a thick mucus discharge](/can-old-goats-d
 
 If you see any of these symptoms in your goat, quickly call a veterinarian. They will tell you what to do and how to treat the infection before it gets worse.
 
-Early treatment is important for preventing sickness and avoiding the virus from spreading.
+Early treatment is important for preventing sickness and avoiding the [virus from spreading](/can-you-catch-diseases-from-goats/).
 
 Strangles is a serious disease that can be deadly in some cases, so it is crucial to take precautions to prevent its spread.
 
@@ -111,7 +111,7 @@ There are a number of different treatment options available for strangles, a hig
 
 One commonly used strategy is medication, which helps to reduce swelling and suppress the immune response. Other treatment options include things like antibiotics and ointments to soothe irritated skin.
 
-Ultimately, the choice of treatment will depend on a variety of factors including the severity of the symptoms, cost-effectiveness, and safety considerations.
+Ultimately, the choice of treatment will depend on a variety of factors including the severity of the [symptoms](/can-goats-die-from-lymes/), cost-effectiveness, and safety considerations.
 
 Whatever route you choose, it's important to consult with a qualified veterinary professional to ensure the best possible outcomes for your equine or caprine companion.
 
@@ -125,9 +125,9 @@ Symptoms of strangles include high fever, coughing, loss of appetite, nasal disc
 
 In many cases, this infection will resolve on its own with supportive care and antibiotics; but, if left untreated it can be fatal. Luckily, there are several ways to prevent this disease from spreading.
 
-For example, you can quarantine any animals that are showing signs of illness until they have fully recovered. Another good strategy is to use proper biosecurity measures when working with new or unfamiliar animals.
+For example, you can quarantine any animals that are showing [signs of illness](/can-a-goat-get-sick-from-cold/) until they have fully recovered. Another good strategy is to use proper biosecurity measures when working with new or unfamiliar animals.
 
-By taking these simple precautions, horse owners and goat herders can help protect their animals from strangles and keep them healthy for many years to come.
+By taking these simple precautions, horse owners and [goat herders](/can-goats-be-outside-in-winter/) can help protect their animals from strangles and keep them healthy for many years to come.
 
 ## Final Thoughts
 

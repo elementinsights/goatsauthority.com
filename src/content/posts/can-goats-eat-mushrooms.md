@@ -39,7 +39,7 @@ faq:
   - question: "How to Serve Mushrooms to Your Goat Herd"
     answer: "Mushrooms can be a tricky food for goats. Some types are safe, while others aren’t. It’s best to know which is which before feeding them to your herd."
 ---
-Have you ever wondered what goats can eat? As a goat owner, I often find myself asking this question.
+Have you ever wondered [what goats can eat](/can-goats-eat-everything/)? As a goat owner, I often find myself asking this question.
 
 It’s important to know what foods are safe for our four-legged friends.
 
@@ -59,7 +59,7 @@ But there’s a catch: wild mushrooms could be dangerous if ingested by your fur
 
 So what should you do? If you’re unsure about the type of mushroom, it’s best to keep them away from your goat’s reach altogether.
 
-What if they accidentally ingest one during their grazing adventures? Monitor closely for any signs of discomfort, loss of appetite, drooling excessively, acting lethargic etc., and contact a vet immediately if needed.
+What if they accidentally ingest one during their [grazing](/can-goats-eat-kentucky-bluegrass/) adventures? Monitor closely for any signs of discomfort, loss of appetite, drooling excessively, acting lethargic etc., and contact a vet immediately if needed.
 
 In conclusion, yes goats can eat certain kinds of mushrooms but exercise caution when allowing them access to these fungi treats.
 
@@ -117,13 +117,13 @@ Try not to feed them anything else as this could make things worse.
 
 It can be hard to know which mushrooms are safe for goats because there are so many types out there. **Some common harmful ones include death cap and destroying angel mushrooms**.
 
-A good rule of thumb is that if you’re unsure about a mushroom type, don’t let your goat eat it. Instead provide plenty of fresh hay, grasses or commercial feeds designed specifically for goats’ nutritional needs.
+A good rule of thumb is that if you’re unsure about a mushroom type, don’t let your goat eat it. Instead provide plenty of fresh [hay](/can-goats-eat-alfalfa/), grasses or commercial feeds designed specifically for goats’ nutritional needs.
 
 Remember: quick action can save lives when dealing with poison ingestion in animals like goats.
 
 #### the Dangers of Wild Mushrooms for Goats
 
-Goats are known for their curious eating habits. They can eat a wide variety of foods, but not everything is safe for them.
+Goats are known for their curious eating habits. They can eat a [wide variety of foods](/why-do-goats-eat-everything/), but not everything is safe for them.
 
 This includes wild mushrooms.
 
@@ -159,7 +159,7 @@ Some types of mushrooms can be harmful to baby goats. These include the death ca
 
 They contain toxins which can cause serious health problems or even lead to death.
 
-On the other hand, some kinds of edible mushrooms like button or portobello are generally harmless if consumed by your little goat friends. However, it’s still important not to overfeed these items because too much could upset their stomachs.
+On the other hand, some kinds of edible mushrooms like button or portobello are generally harmless if consumed by your little goat friends. However, it’s still important not to [overfeed](/can-goats-eat-overripe-fruit/) these items because too much could upset their stomachs.
 
 In conclusion, while some types of mushrooms won’t harm your baby goats directly, many wild varieties pose a risk due to potential toxicity levels within them.
 
@@ -179,7 +179,7 @@ Wild mushrooms though, should be avoided completely. Many of these can cause ser
 
 If you want to feed wild mushrooms, get an expert opinion first on whether it’s safe or not.
 
-Also remember that variety is key when it comes to a goat’s diet. Too much of anything isn’t good.
+Also remember that variety is key when it comes to a [goat’s diet](/can-goats-eat-any-plant/). Too much of anything isn’t good.
 
 ## Nutritional Profile of Mushrooms for Goats
 
@@ -189,7 +189,7 @@ Some mushrooms are safe, but others aren’t.
 
 Let’s talk about the nutritional value first. Mushrooms have protein and fiber which goats need.
 
-But they also contain water, making them less nutrient-dense than other foods like hay or grain.
+But they also contain water, making them less nutrient-dense than other foods like [hay](/can-goats-eat-timothy-hay/) or [grain](/can-goats-eat-oats/).
 
 The real problem is toxicity though. Certain types of mushrooms can harm your goat severely or even cause death if eaten by mistake.
 
@@ -213,4 +213,4 @@ Yet, even these should not make up a large part of their diet. Goats need variet
 
 You might wonder how often is it safe then? A small serving once every week or two would likely be fine if you choose to feed them store-bought mushrooms at all.
 
-Remember though, goats love hay, grains and fresh greens more than anything else. So keep those as the main parts of their meals with other foods as occasional treats only.
+Remember though, goats love hay, grains and [fresh greens](/can-goats-eat-lettuce/) more than anything else. So keep those as the main parts of their meals with other foods as occasional [treats](/can-goats-have-peppermint-treats/) only.

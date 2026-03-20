@@ -117,7 +117,7 @@ If you have any questions or concerns about the risks of feeding Rhus ovata to g
 
 Rhus ovata is not the only option for feeding goats. There are many other plants that can be used as forage for goats.
 
-Some of these include alfalfa, clover, and grasses.
+Some of these include [alfalfa](/can-goats-eat-alfalfa/), clover, and grasses.
 
 On top of that, there are many commercial goat [feeds available that are designed to meet the nutritional needs](/can-goats-eat-cattle-feed/) of goats. When choosing a [goat feed](/can-a-goat-feed-quads/), you need to consult with a goat expert or livestock specialist to ensure that the feed is appropriate for the goats.
 

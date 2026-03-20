@@ -48,7 +48,7 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you breed a father and daughter goat?
 
-**You can breed a father and daughter goat, but it is not ideal because it is considered inbreeding. This can lead to health problems for the offspring.**
+**You can breed a father and daughter goat, but it is not ideal because it is considered inbreeding. This can lead to [health problems for the offspring](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/).**
 
 **But if you decide to breed them, make sure the father and daughter are not too closely related.**
 
@@ -118,9 +118,9 @@ Additionally, line breeding can make it difficult to introduce new blood into th
 
 As a result, there is always the risk that a line-bred goat will eventually produce offspring that are less desirable than the original stock. There are some alternatives to line-breeding, though they come with their own set of risks and challenges.
 
-One option is outcrossing, which is breeding two animals from different lines. This can help to prevent inbreeding but it also means that you lose the progress that has been made through line-breeding.
+One option is outcrossing, which is [breeding two animals from different lines](/can-you-breed-screaming-and-fainting-goats/). This can help to prevent inbreeding but it also means that you lose the progress that has been made through line-breeding.
 
-Another option is cross-breeding, which is breeding two animals from different species. This can be effective in introducing new blood into the gene pool but it also carries the risk of producing offspring that are sterile or have other health problems.
+Another option is [cross-breeding](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), which is breeding two animals from different species. This can be effective in introducing new blood into the gene pool but it also carries the risk of producing offspring that are sterile or have other health problems.
 
 Ultimately, there is no perfect solution when it comes to breeding goats (or any other animal). Each method has its own advantages and disadvantages, and it ultimately comes down to what you are looking for in your animals.
 
@@ -130,7 +130,7 @@ The best time to line-breed your goats is when you have a specific desired trait
 
 However, it is crucial to carefully consider the risks and rewards of line breeding before embarking on a breeding program.
 
-Additionally, it is important to consult with a veterinarian or other expert before line breeding your goats, as there are some health risks associated with this technique.
+Additionally, it is important to consult with a veterinarian or other expert before [line breeding your goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/), as there are some health risks associated with this technique.
 
 Ultimately, the best time to line-breed your goats is when you have done your research and you are confident that you understand the risks and rewards involved.
 

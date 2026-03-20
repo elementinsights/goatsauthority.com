@@ -98,11 +98,11 @@ There are two main types of goat lice: the body louse and the head louse. Body l
 
 Head lice are smaller and tend to cling to the hair near the [goat's head](/can-goats-die-from-their-own-horns-grow-into-heads/). Both types of lice feed on skin cells and can cause irritation and itching.
 
-In severe infestations, lice can lead to anemia and even death.
+In severe infestations, lice can lead to [anemia](/can-goats-have-a-stroke-anemia/) and even death.
 
-Goat lice are most commonly found on animals that are not well-groomed or that live in cramped, unsanitary conditions.
+Goat lice are most commonly found on animals that are not [well-groomed](/can-i-wash-and-groom-a-pygmy-goat/) or that live in cramped, unsanitary conditions.
 
-To prevent infestations, goats should be regularly groomed and their living quarters should be clean and spacious. If a goat does become infested with lice, there are several of treatment options available, including insecticide sprays and shampoos.
+To prevent infestations, goats should be regularly groomed and their living quarters should be clean and spacious. If a goat does become infested with lice, there are several of [treatment options](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) available, including insecticide sprays and shampoos.
 
 In most cases, a single treatment is sufficient to eliminate the infestation. But, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
 

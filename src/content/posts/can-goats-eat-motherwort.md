@@ -104,7 +104,7 @@ As a result, goats who eat motherwort may experience dehydration and electrolyte
 
 ## How to prevent your goats from eating motherwort?
 
-Goats are curious creatures by nature and will often put anything they can find into their mouths. This can pose a problem for goat owners, as goats are known to eat just about anything, including plants that are poisonous to them.
+Goats are curious creatures by nature and will often put anything they can find into their mouths. This can pose a problem for goat owners, as goats are known to eat [just about anything](/can-goats-eat-any-plant/), including plants that are poisonous to them.
 
 Motherwort is one such plant. Motherwort is a member of the mint family and is commonly found in gardens.
 

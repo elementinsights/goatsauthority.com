@@ -52,7 +52,7 @@ In this article, we’ll answer all your questions about suturing goats, so you 
 
 **They are also less likely to have an adverse reaction to the anesthesia.**
 
-Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the suturing process.
+Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the [suturing process](/can-i-give-my-goat-vicodin-for-pain/).
 
 Before you stitch up your goat, there are a few things to take into consideration. The first is that the wound is clean and without any dirt or other particles.
 
@@ -68,7 +68,7 @@ There are some [risks associated with suturing your goat](/can-a-plastic-bag-hur
 
 This is why it’s so important to make sure that the wound is clean before you begin the suturing process.
 
-Another risk is that the goat could have an adverse reaction to the anesthesia. This is why it’s important to talk to your vet about the best way to sedate your goat.
+Another risk is that the goat could have an [adverse reaction](/can-benadryl-hurt-a-goat/) to the anesthesia. This is why it’s important to talk to your vet about the best way to sedate your goat.
 
 Finally, there is a risk that the wound will not heal properly. This is why it’s so important to follow your vet’s instructions for caring for the wound after the suturing process is complete.
 
@@ -84,11 +84,11 @@ By providing animals with this form of care, we can help to foster a sense of tr
 
 When suturing a goat, it is crucial to have the right tools and supplies on hand. First, you will need basic medical supplies such as sterile gloves, bandages, and gauze.
 
-You may also want to have disinfectant or antiseptic wipes on hand in order to clean wounds and prevent infection.
+You may also want to have disinfectant or antiseptic wipes on hand in order to clean wounds and [prevent infection](/can-i-put-neosporin-on-my-goats/).
 
 Different types of suture threads and needles of various sizes are crucial for a good set of sutures. This way, you can be prepared to treat all sorts of wounds.
 
-Lastly, having a strong pair of scissors or clippers can help you make quick work of trimming away any excess hair or tissue around the wound site. With these essential tools at your disposal, you will be able to suture a goat effectively and safely.
+Lastly, having a strong pair of scissors or clippers can help you make quick work of trimming away any [excess hair or tissue](/can-i-use-germall-plus-in-goat-milk-lotion/) around the wound site. With these essential tools at your disposal, you will be able to suture a goat effectively and safely.
 
 ## How do you go about suturing a goat wound correctly and efficiently?
 
@@ -124,7 +124,7 @@ First, it is crucial to thoroughly clean both the wound site and your hands with
 
 Next, you will need to carefully cut each stitch with a pair of scissors or clippers, being careful not to damage the surrounding tissue. Once all of the stitches have been cut, you can then gently pull them out, starting with the ones that are farthest away from the wound site.
 
-If done correctly, removing stitches from a goat wound should be a relatively quick and painless process. However, it is important to take your time and be as gentle as possible in order to avoid any further discomfort or irritation for your patient.
+If done correctly, removing stitches from a [goat wound](/can-hoof-rot-kill-a-goat/) should be a relatively quick and painless process. However, it is important to take your time and be as gentle as possible in order to avoid any further discomfort or irritation for your patient.
 
 ## Final Thoughts
 

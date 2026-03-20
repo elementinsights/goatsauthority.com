@@ -62,7 +62,7 @@ Second, you need to decide how you are going to dehorn the goat. There are a few
 
 Third, [you need to think about the pain that the goat will experience](/can-i-give-my-goat-vicodin-for-pain/). Dehorning is a painful process, so you need to make sure that you are prepared to deal with the goat's pain and distress.
 
-Fourth, you need to consider the risks involved. There is a small risk of infection and a slightly larger risk of bleeding.
+Fourth, you need to consider the risks involved. There is a small risk of [infection](/can-you-catch-diseases-from-goats/) and a slightly larger risk of bleeding.
 
 Finally, you need to think about the cost. Dehorning is not a cheap procedure, so you need to be sure that you are prepared to pay for it.
 
@@ -88,7 +88,7 @@ The most common method of dehorning livestock is through the use of cautery inst
 
 However, cautery dehorning can be difficult to achieve consistently good results with, and it can also be quite painful for the animal. For these reasons, many farmers choose to dehorn their animals chemically.
 
-The most common chemical used for this purpose is sodium hydroxide, which is applied directly to the horn buds. This caustic substance quickly dissolves the horns, causing them to fall off within a few days.
+The most common chemical used for this purpose is sodium hydroxide, which is applied directly to the [horn buds](/can-you-disbud-a-goat-without-medication/). This caustic substance quickly dissolves the horns, causing them to fall off within a few days.
 
 Chemical dehorning is generally considered to be less painful than cautery dehorning, although it does carry the risk of chemical burns if not done properly. Ultimately, the decision of whether to dehorn an animal and which method to use should be based on the individual needs of the farm.
 
@@ -96,7 +96,7 @@ Chemical dehorning is generally considered to be less painful than cautery dehor
 
 As most goat owners know, goats are notorious for their inquisitive and mischievous nature. They love to explore their surroundings and will often use their horns to playfully butt heads with other goats (or even people).
 
-While this behavior may be cute when the goats are young, it can become a problem as they grow older and their horns become sharp and pointy. This is why many goat owners choose to dehorn their adult goats.
+While this behavior may be cute when the goats are young, it can become a problem as they grow older and their [horns become sharp and pointy](/can-goats-die-from-their-own-horns-grow-into-heads/). This is why many goat owners choose to dehorn their adult goats.
 
 There are a few different methods that can be used to dehorn a goat, but the most common is called “disbudding”.
 
@@ -108,7 +108,7 @@ There are both advantages and disadvantages to dehorning adult goats. On the plu
 
 It can also make it easier to handle the goats, as they will no longer have sharp horns that could potentially hurt you. On the downside, dehorning can be a stressful experience for the goat and [it may take several weeks for them to recover](/can-goats-recover-from-polio-without-medication/) from the procedure.
 
-There is also a risk of infection if the wound is not properly cared for. Ultimately, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
+There is also a risk of infection if the wound is not properly [cared for](/can-i-put-neosporin-on-my-goats/). Ultimately, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
 
 ## How to band an adult goat's horns for dehorning?
 

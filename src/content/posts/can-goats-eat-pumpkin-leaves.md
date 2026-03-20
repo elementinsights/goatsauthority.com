@@ -57,7 +57,7 @@ We will answer all of your questions about goats and pumpkin leaves in this arti
 
 **Eating just a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of the leaves can lead to vomiting, diarrhea, and difficulty breathing. In severe cases, it can even be fatal.**
 
-In addition to being poisonous, pumpkin leaves are also very sharp and can cause mouth injuries. If you have a goat that likes to nibble on everything, it's best to keep them away from pumpkin plants.
+In addition to being poisonous, pumpkin leaves are also very sharp and can cause mouth injuries. If you have a goat that likes to nibble on [everything](/can-goats-eat-everything/), it's best to keep them away from pumpkin plants.
 
 So, it is not a good idea to let your goats eat pumpkin leaves. If you have a pumpkin patch on your farm, make sure that your goats are not able to get to the plants.
 
@@ -67,7 +67,7 @@ Pumpkin leaves are a common source of [food for goats](/can-sheep-eat-goat-food/
 
 When ingested in large quantities, cucurbitacin can cause gastrointestinal problems and even death.
 
-In most cases, however, the leaves only cause mild digestive upset. Cucurbitacin is also found in other plants in the cucurbit family, such as watermelons and cantaloupes.
+In most cases, however, the leaves only cause mild digestive upset. Cucurbitacin is also found in other plants in the cucurbit family, such as [watermelons](/can-goats-eat-watermelon/) and cantaloupes.
 
 But, these plants are not typically fed to goats because of the [potential for toxicity](/can-a-plastic-bag-hurt-a-goat/).
 
@@ -83,7 +83,7 @@ If you have a goat that likes to nibble on everything, it's best to keep them aw
 
 The best way to prevent your goats from eating pumpkin leaves is to make sure they have plenty of other food options available.
 
-If you have a pumpkin patch on your farm, make sure that your goats are not able to get to the plants. You can also try feeding them other vegetables or fruits that they enjoy.
+If you have a pumpkin patch on your farm, make sure that your goats are not able to get to the plants. You can also try feeding them other [vegetables](/can-goats-eat-zucchini/) or fruits that they enjoy.
 
 ## What should you do if a goat eats pumpkin leaves?
 
@@ -137,7 +137,7 @@ This may involve removing all pumpkins and pumpkin leaves from the pen or feedin
 
 ## Are there any other plants that are poisonous to goats?
 
-There are many plants that are poisonous to goats. Some common plants that are poisonous to goats include azaleas, rhododendrons, oleander, yews, and lilies.
+There are many plants that are poisonous to goats. Some common plants that are poisonous to goats include azaleas, rhododendrons, oleander, yews, and [lilies](/can-goats-eat-any-plant/).
 
 These plants can cause gastrointestinal upset, seizures, and even death.
 

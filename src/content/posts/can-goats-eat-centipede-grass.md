@@ -52,7 +52,7 @@ In this article, we will answer the question, can goats eat centipede grass? We 
 
 **Centipede also has a high moisture content, which is good for goats who live in hot climates.**
 
-When [feeding your goat centipede grass](/can-a-goat-feed-quads/), you should make sure that the grass is fresh and not wilted. You should also avoid giving your goat too much centipede grass at one time, as this can cause them to have an upset stomach.
+When [feeding your goat centipede grass](/can-a-goat-feed-quads/), you should make sure that the grass is fresh and not wilted. You should also avoid giving your goat too much centipede grass at one time, as this can cause them to have an [upset stomach](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 ## What is centipede grass and what are its benefits?
 
@@ -132,9 +132,9 @@ All goats can eat centipede grass. However, you will need to take into account t
 
 Factors such as age, activity level, and time of year will all play a role in how much grass your goat needs. In general, [adult goats](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will need 1-2% of their body weight in dry grass per day.
 
-This means that a 50 lb Goat will need between 0.5 and 1 lb of dry grass per day. For kids and pregnant or lactating does, the amount of dry grass needed will be higher.
+This means that a 50 lb Goat will need between 0.5 and 1 lb of dry grass per day. For kids and [pregnant or lactating does](/can-pregnant-boer-goats-eat-alfalfa/), the amount of dry grass needed will be higher.
 
-it's always best to consult with a veterinarian or experienced goat keeper to determine the best diet for your goats.
+it's always best to consult with a veterinarian or experienced goat keeper to determine the [best diet](/why-do-goats-eat-everything/) for your goats.
 
 ## Final Thoughts
 

@@ -40,13 +40,13 @@ faq:
 
 Goats are a popular pet among people. They are sociable, perceptive creatures that can be a source of entertainment and company.
 
-However, what should one do if they wish to keep a goat as a pet? Can they be trained to work at home?
+However, what should one do if they wish to keep a goat as a pet? Can they be [trained to work at home](/can-pygmy-goats-be-good-potty-trained/)?
 
 Is it possible to breed them? We shall address these queries and others in this article.
 
 ## Can a goat be housed trained?
 
-**A goat can be house trained using the same methods as you would train a dog. You'll need to have patience and consistency when training your goat.**
+**A goat can be [house trained](/can-baby-goats-be-house-trained/) using the same methods as you would train a dog. You'll need to have patience and consistency when training your goat.**
 
 **The most important step is to create a designated area for your goat to use as their bathroom.**
 
@@ -60,15 +60,15 @@ There are a few things to keep in mind when house training your goat. First, goa
 
 This can sometimes lead to accidents, so it's important to keep an eye on them and confine them to a small area until they learn where their bathroom is.
 
-Second, goats are herd animals and feel more comfortable with others around them. If possible, house train your goat with another animal companion nearby.
+Second, goats are herd animals and feel more comfortable with others around them. If possible, house train your goat with another [animal companion](/can-goats-and-dogs-be-friends/) nearby.
 
-Finally, goats are very intelligent creatures and can easily learn tricks and commands. So don't hesitate to use positive reinforcement when training your goat - they'll catch on quickly!
+Finally, goats are very intelligent creatures and can easily learn tricks and commands. So don't hesitate to use positive reinforcement when [training your goat](/can-goats-be-tamed/) - they'll catch on quickly!
 
 ## What is a goat and what are its characteristics?
 
 A goat is a four-legged mammal that belongs to the family Bovidae. There are many different breeds of goats, but all goats share certain common characteristics.
 
-Goats are generally curious and intelligent animals, and they are known for their mischievous nature. Goats are also very social creatures, and they enjoy being around other goats.
+Goats are generally curious and intelligent animals, and they are known for their mischievous nature. [Goats are also very social creatures](/can-goats-love-humans/), and they enjoy being around other goats.
 
 They are able to communicate with each other using a variety of vocalizations, including bleating, grunting, and coughing.
 
@@ -100,11 +100,11 @@ With proper care, your goat will be happy and healthy for many years to come.
 
 When considering adding a goat to your family as a pet, there are many things to consider. If you live in the city, you will need to make sure that goats are allowed as pets according to your city ordinances.
 
-You will also want to consider whether you have enough space for a goat. They need room to roam and explore, and they are climbers by nature so they will need plenty of things to climb on.
+You will also want to consider whether you have enough space for a goat. They need room to roam and explore, and they are [climbers by nature](/can-goats-climb-92-degrees/) so they will need plenty of things to climb on.
 
-If you live in an apartment, a goat is probably not the right pet for you.
+If you live in an apartment, a [miniature goat](/can-a-miniature-goat-be-housebroken/) is probably not the right pet for you.
 
-If you have children, you will want to choose a breed of goat that is known for being good with kids. Some goats can be very friendly, while others can be more aloof.
+If you have children, you will want to choose a breed of goat that is known for being good with kids. Some goats can be very friendly, while others can be [more aloof](/can-an-aggressive-goat-be-fixed/).
 
 You will also want to make sure that you are prepared to take care of a goat. They require fresh food and water at all times, and they need to be groomed on a regular basis.
 
@@ -114,9 +114,9 @@ If you are ready to take on the challenge of owning a goat, then there are many 
 
 There are many benefits to owning a goat. Goats are very social animals, and they will quickly become a part of the family.
 
-They are also known for being very intelligent, and they can be trained to do a variety of tricks.
+They are also known for being very intelligent, and they can be [trained to do a variety of tricks](/can-you-domesticate-a-goat/).
 
-Goats are also very versatile creatures. They can be used for their milk, meat, or fiber.
+Goats are also very versatile creatures. They can be used for their milk, meat, or [fiber](/can-goats-pull-a-plow/).
 
 Their manure is an excellent fertilizer for gardens and crops. And, of course, goats are just plain fun to be around.
 

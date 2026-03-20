@@ -58,7 +58,7 @@ Despite that, it's important to note that [goat manure should not be used fresh 
 
 Goat manure is an organic fertilizer that is high in nutrients and can be used to improve the fertility of both soil and plants.
 
-Unlike chemical fertilizers, goat manure contains no harmful toxins or chemicals. It's also relatively easy to spread and can be used on both small and large properties.
+Unlike chemical fertilizers, goat manure contains no harmful toxins or chemicals. It's also relatively easy to spread and can be used on both [small and large properties](/can-goats-live-in-an-urban-environment/).
 
 On top of that its nutrient content, goat manure also helps to improve the structure of soils. This improved structure leads to better aeration and drainage, which in turn helps plants to grow more vigorously.
 
@@ -66,7 +66,7 @@ On top of that its nutrient content, goat manure also helps to improve the struc
 
 ## How to collect goat droppings?
 
-Goat droppings are an excellent source of fertilizer for gardens and can be collected in a number of ways. One method is to simply sweep them up with a broom, being careful to avoid any that have been contaminated with urine.
+Goat droppings are an excellent source of fertilizer for gardens and can be collected in a number of ways. One method is to simply sweep them up with a broom, being careful to avoid any that have been [contaminated with urine](/can-weather-affect-goats-poop/).
 
 Another option is to use a shovel or rake to gather them into a pile, which can then be transferred to a bucket or other container. If the droppings are dry, they can also be gathered by hand.
 
@@ -126,7 +126,7 @@ Overall, goat manure can be an excellent fertilizer for your garden, but just be
 
 In addition to using it as fertilizer, goat manure can also be used in several other ways.
 
-For example, it can be used as mulch around plants. This will help to suppress weeds and also help retain moisture in the soil.
+For example, it can be used as [mulch](/can-a-goat-pen-have-pine-trees-in-it/) around plants. This will help to suppress weeds and also help retain moisture in the soil.
 
 Another option is to use goat manure as fuel for a compost pile. The high nitrogen content will help to speed up the composting process, resulting in finished compost in a shorter amount of time.
 
@@ -134,7 +134,7 @@ Finally, goat manure can also be used to make liquid fertilizer. This is a conce
 
 Liquid fertilizer is a great way to give plants a quick boost of nutrients and can be made easily at home with goat manure.
 
-No matter how you choose to use it, goat manure can be a valuable asset in your gardening arsenal. Just be sure to take the necessary precautions to avoid any potential problems.
+No matter how you choose to use it, goat manure can be a valuable asset in your [gardening arsenal](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/). Just be sure to take the necessary precautions to avoid any potential problems.
 
 ## Final Thoughts
 

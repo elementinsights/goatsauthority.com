@@ -70,7 +70,7 @@ Just remember to keep the above things in mind, and you'll be on your way to a s
 
 ## What is potty training a Pygmy goat like compared to other animals?
 
-Potty training a [Pygmy goat is similar to potty training other animals like dogs](/can-dogs-and-pygmy-goats-live-together/) or cats in many ways. For one, goats are very intelligent and generally quick learners, so they can usually grasp the basics of going to the bathroom outside in a relatively short period of time.
+Potty training a [Pygmy goat is similar to potty training other animals like dogs](/can-dogs-and-pygmy-goats-live-together/) or cats in many ways. For one, [goats are very intelligent](/can-goats-love-humans/) and generally quick learners, so they can usually grasp the basics of going to the bathroom outside in a relatively short period of time.
 
 Secondly, it's crucial to start training early and be patient with your goat; this will help them get comfortable with using their new "potty" spot and prevent them from becoming picky about the area that you designate for this purpose.
 
@@ -78,7 +78,7 @@ Finally, as with other animals, you will [need to set up a solid reward system f
 
 Treats, praise, and toys can all be used as incentives to encourage your Pygmy goat to continue doing well at potty training.
 
-Ultimately, with some time, patience, and positive reinforcement, you'll be able to successfully train your Pygmy goat just like any other pet.
+Ultimately, with some time, patience, and positive reinforcement, you'll be able to successfully [train your Pygmy goat](/can-a-miniature-goat-be-housebroken/) just like any other pet.
 
 ## How can you get started with potty training your Pygmy goat?
 
@@ -118,7 +118,7 @@ Overall, with a little bit of time, effort, and consistency, it is possible to p
 
 There are a few potential risks associated with not potty training your Pygmy goat. Perhaps the most significant is the risk of health problems, as [goats that are not properly trained may be more likely to urinate or defecate in their living area](/can-a-goat-live-in-a-house/).
 
-This can lead to unsanitary conditions and an increased risk of infection, illness, and disease. Additionally, not potty training your goat may also make it more likely to damage property or injure itself, as it may attempt to relieve itself in inappropriate places.
+This can lead to unsanitary conditions and an increased risk of infection, illness, and disease. Additionally, not potty training your goat may also make it more likely to damage property or [injure itself](/can-an-aggressive-goat-be-fixed/), as it may attempt to relieve itself in inappropriate places.
 
 Ultimately, by taking the time to potty train your Pygmy goat properly, you can help keep them healthy and safe for years to come.
 
@@ -126,4 +126,4 @@ Ultimately, by taking the time to potty train your Pygmy goat properly, you can 
 
 In general, potty training a Pygmy goat is much like potty training any other animal. It takes time, patience, and consistency to see results.
 
-However, by following the tips and advice in this article, you should be well on your way to successfully teaching your goat where and when to relieve itself. With a little bit of time and effort, you can have a well-trained goat in no time.
+However, by following the tips and advice in this article, you should be well on your way to successfully teaching your goat where and when to relieve itself. With a little bit of time and effort, you can have a [well-trained goat](/can-a-goat-be-housed-trained/) in no time.

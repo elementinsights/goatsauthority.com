@@ -56,7 +56,7 @@ In this article, we will take a look at the potential risks of a plastic bag to 
 
 **Plastic bags can also cause choking and suffocation. They can also get stuck in the goat’s horns, which can cause injury.**
 
-Despite this, goats are curious creatures and will often investigate anything that they come across, including plastic bags. If you have goats, you need to be aware of the dangers and take steps to prevent them from getting access to plastic bags.
+Despite this, [goats](/can-goats-die-in-cold-weather/) are curious creatures and will often investigate anything that they come across, including plastic bags. If you have goats, you need to be aware of the dangers and take steps to prevent them from getting access to plastic bags.
 
 ## How can I tell if my goat has eaten a plastic bag?
 
@@ -64,7 +64,7 @@ If you suspect your goat has eaten a plastic bag, the first thing you should do 
 
 You should also look for signs of digestive distress, such as bloating, vomiting, or diarrhea. If your goat is exhibiting any of these symptoms, it's crucial to [seek animal expert care](/can-goats-die-from-lymes/) immediately.
 
-Plastic can cause serious gastrointestinal blockages, and it may be necessary to surgically remove the plastic from your [goat's digestive tract](/can-goats-digest-cigarettes/). With prompt treatment, most [goats recover fully](/can-goats-recover-from-polio-without-medication/) from ingesting plastic.
+Plastic can cause serious [gastrointestinal blockages](/can-you-debloat-a-goat/), and it may be necessary to surgically remove the plastic from your [goat's digestive tract](/can-goats-digest-cigarettes/). With prompt treatment, most [goats recover fully](/can-goats-recover-from-polio-without-medication/) from ingesting plastic.
 
 ## Do plastic bags stay in a goat's stomach?
 
@@ -94,7 +94,7 @@ In some cases, goats may need to undergo surgery to remove the ingested plastic.
 
 Plastic bags are often used to store food, but they can also pose a serious risk to livestock. When animals ingest plastic, it can cause digestive blockages and other health problems.
 
-In addition, plastics can release toxins into the environment, which can be harmful to both animals and humans.
+In addition, plastics can release [toxins](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/) into the environment, which can be harmful to both animals and humans.
 
 Goats are particularly at risk of health problems from ingesting plastic bags. They are curious creatures who will often investigate anything that smells interesting, including garbage.
 
@@ -124,7 +124,7 @@ There are a few steps you can take to prevent your goat from eating a plastic ba
 
 First, make sure that all of your trash is properly disposed of and out of reach of the goat. This may mean keeping the garbage can in a secure area or investing in a trashcan with a lid that the goat cannot open.
 
-Second, keep an eye on the goat when it's outside. If you see it approaching a plastic bag or another piece of trash, distract it with a toy or treat so that it does not have a chance to eat the trash.
+Second, keep an eye on the [goat when it's outside](/can-goats-be-outside-in-winter/). If you see it approaching a plastic bag or another piece of trash, distract it with a toy or treat so that it does not have a chance to eat the trash.
 
 Third, consider investing in some goat-safe fencing. This type of fencing is designed to keep goats from reaching areas where there may be potential dangers, like piles of trash.
 

@@ -65,7 +65,7 @@ Finally, black widow spiders are typically much larger than other types of spide
 
 Black widow spiders are found throughout the world, and their venom can be dangerous to both humans and animals. While the symptoms of black widow spider venom in goats may vary depending on the amount of venom injected, there are some general signs that you can look for.
 
-Symptoms may include muscle spasms, twitching, tremors, weakness, paralysis, difficulty breathing, and cardiac arrest. In severe cases, black widow spider venom can be fatal.
+Symptoms may include muscle spasms, twitching, tremors, [weakness](/can-goats-have-a-stroke-anemia/), paralysis, difficulty breathing, and cardiac arrest. In severe cases, black widow spider venom can be fatal.
 
 If you suspect that your [goat has been bitten by a black widow spider](/can-goats-eat-black-walnut-leaves/), it's crucial to seek a goat expert care immediately. With prompt treatment, the chances of recovery are good.
 
@@ -85,7 +85,7 @@ Black widow spiders are a serious threat to goats. These venomous spiders are fo
 
 In order to protect your goats from black widow spiders, it's crucial to take some simple precautions.
 
-First, keep your goats' living area clean and free of debris. This will help to reduce the chances of the spiders hiding in their environment.
+First, keep your goats' living area clean and free of debris. This will help to reduce the chances of the spiders hiding in their [environment](/can-goats-be-outside-in-winter/).
 
 Second, regularly inspect your goats for signs of spider bites. If you see any symptoms, contact a veterinarian immediately.
 
@@ -119,7 +119,7 @@ While the female black widows are infamous for their aggressive behavior, the ma
 
 Black widow spiders generally only attack humans when they feel threatened or when their webs are disturbed.
 
-When a black widow bites, it injects a powerful neurotoxin that can cause muscle cramps, nausea, and even paralysis. However, most bites are not fatal and can be treated with medical care.
+When a black widow bites, it injects a powerful neurotoxin that can cause muscle cramps, [nausea](/can-benadryl-hurt-a-goat/), and even paralysis. However, most bites are not fatal and can be treated with medical care.
 
 Although they have a reputation for being dangerous creatures, black widow spiders are actually quite shy and rarely pose a threat to humans.
 

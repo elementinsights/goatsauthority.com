@@ -41,7 +41,7 @@ faq:
   - question: "What can miniature horses eat?"
     answer: "Miniature horses are popular pets because they are small, friendly, and easy to care for. Despite that, one of the most common questions that people have about these animals is what they can eat."
 ---
-Everyone is aware that goats are social animals. They take delight in the company of other creatures, but what about miniature horses?
+Everyone is aware that [goats are social animals](/can-you-describe-a-herd-of-sheep-and-goats/). They take delight in the company of other creatures, but what about miniature horses?
 
 Can they survive living with goats?
 
@@ -61,7 +61,7 @@ Their ears are large and often floppy, giving them a playful and curious appeara
 
 With their gentle nature, strong intellect, and loyalty towards humans, miniature horses make excellent companions both for children as well as adults.
 
-Whether you're looking for a unique pet or simply enjoy spending time with these adorable creatures, there's no doubt that miniature horses are truly one-of-a-kind animals.
+Whether you're looking for a unique pet or simply enjoy spending time with these adorable creatures, there's no doubt that [miniature horses](/can-goats-make-money/) are truly one-of-a-kind animals.
 
 ## How do you take care of a miniature horse?
 
@@ -91,7 +91,7 @@ Overall, with a little research and some careful planning, it is easy to create 
 
 ## How to introduce a miniature horse to a goat?
 
-If you have a miniature horse and a goat in your backyard, it can be challenging to introduce the two animals to each other.
+If you have a [miniature horse and a goat](/can-a-horse-get-attached-to-a-goat/) in your backyard, it can be challenging to introduce the two animals to each other.
 
 The key is to be patient and to take things slowly. One good approach is to let the two animals get used to each other's scent before making any physical contact.
 
@@ -119,7 +119,7 @@ In addition, there may also be health concerns associated with close contact, pa
 
 Furthermore, some animal species have unique behavioral traits that could cause problems if they aren't properly managed.
 
-For these reasons, it is often advisable to do some research on potential pairings before deciding whether or not to house two animals together.
+For these reasons, it is often advisable to do some research on [potential pairings](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) before deciding whether or not to house two animals together.
 
 Though this may add an additional layer of complexity to [animal care](/can-goats-die-from-lymes/) and management, it will ultimately result in a more well-informed decision and a safer, healthier environment for all involved.
 

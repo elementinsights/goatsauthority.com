@@ -58,7 +58,7 @@ So, if your goat weighs 50 pounds, you would give them 2-4 grains of aspirin.
 In addition to the proper dosage, there are a few things you need to keep in mind when giving aspirin to your baby goat:
 
 - Aspirin can cause stomach upset, so it's important to give it food.
-- Never give aspirin to a goat that is dehydrated or suffering from diarrhea, as it can worsen these conditions.
+- Never give aspirin to a goat that is dehydrated or suffering from [diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), as it can worsen these conditions.
 - If your [goat is pregnant](/can-pregnant-goats-eat-medicated-feed/), you should not give her aspirin unless it is prescribed by a goat expert.
 - Never give aspirin to a goat that is younger than 6 months old.
 - If you are unsure about giving aspirin to your goat, always check with a goat expert first.
@@ -89,7 +89,7 @@ Symptoms of Reye's syndrome include lethargy, vomiting, and seizures. If you not
 
 The proper dosage of aspirin for a baby goat is 3-5 grains per 100 pounds of body weight and should not exceed 10 grains per day. For example, if your baby goat weighs 10 pounds, you would give them 0.3-0.5 grains of aspirin.
 
-Aspirin can be given orally or rectally. If you are giving it orally, mix the aspirin with some food to avoid gastrointestinal upset.
+Aspirin can be given orally or rectally. If you are giving it [orally](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/), mix the aspirin with some food to avoid gastrointestinal upset.
 
 If you are giving it rectally, use a syringe without the needle to insert the aspirin into the rectum.
 
@@ -133,11 +133,11 @@ If you notice any of these side effects, stop giving the aspirin and contact a g
 
 There are a number of alternative options for pain relief and anti-inflammatory medication for baby goats. Some of the most commonly used alternatives include herbal remedies, such as topical gels made from comfrey or arnica.
 
-These natural remedies can be highly effective at reducing inflammation and easing pain in young goats, while also being safer than traditional medications that may have harmful side effects.
+These natural remedies can be highly effective at reducing inflammation and easing [pain in young goats](/can-i-give-my-goat-vicodin-for-pain/), while also being safer than traditional medications that may have harmful side effects.
 
 Other options include massage therapy and acupuncture, both of which can help to relieve stress and tension in baby goats and[promote better overall health](/can-baby-goats-have-any-electrolytes/).
 
-Ultimately, the best approach will depend on the specific needs of each individual animal, so it is crucial to work with a trusted goat expert or other trusted medical professional when determining the most appropriate course of treatment.
+Ultimately, the best approach will depend on the specific needs of each individual animal, so it is crucial to work with a trusted goat expert or other trusted medical professional when determining the most appropriate [course of treatment](/can-i-put-neosporin-on-my-goats/).
 
 ## Final Thoughts
 

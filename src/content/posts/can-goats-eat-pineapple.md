@@ -111,7 +111,7 @@ Pineapples are rich in vitamin C which boosts immunity. This can be good for goa
 
 But remember, **moderation is key when feeding fruits like pineapple to your goat**.
 
-Too much sugar from any fruit can upset their stomachs or lead to weight gain over time. So make sure not just to feed pineapples but also other low-sugar fruits and veggies along with hay, which should form the bulk of their diet.
+Too much sugar from any fruit can upset their stomachs or lead to weight gain over time. So make sure not just to feed pineapples but also other low-sugar fruits and veggies along with [alfalfa](/can-goats-eat-alfalfa/), which should form the bulk of their diet.
 
 ## Health Benefits of Feeding Pineapples to Goats
 
@@ -215,7 +215,7 @@ If there is no sign of discomfort, you may continue feeding them this fruit occa
 
 However, avoid canned pineapples or those soaked in syrup as these contain added sugars that could harm the health of your goat over time.
 
-Also remember, while treats like pineapples can add variety to their diet, they shouldn’t replace hay and other essential foods that provide necessary nutrients for healthy growth and development.
+Also remember, while treats like pineapples can add variety to their diet, they shouldn’t replace [hay](/what-kind-of-hay-do-goats-eat/) and other essential foods that provide necessary nutrients for healthy growth and development.
 
 ## Can Baby Goats Eat Pineapple?
 
@@ -241,7 +241,7 @@ Too much acid could upset their tummies.
 
 That said, it doesn’t mean you should avoid feeding them pineapples completely. A small piece of fresh pineapple as an occasional treat would be fine.
 
-Also remember that like all treats, these shouldn’t make up more than 10% of your goat’s diet. The rest should consist mainly of hay or pasture grasses which provide necessary fiber for healthy digestion.
+Also remember that like all treats, these shouldn’t make up more than 10% of your goat’s diet. The rest should consist mainly of hay or pasture grasses which provide necessary fiber for healthy [digestion](/can-goats-digest-anything/).
 
 **Remember not to feed canned or processed pineapple due its high sugar content and additives** that may harm your furry friend’s health over time.
 
@@ -259,12 +259,12 @@ These studies show that whether or not goats can eat pineapple depends largely o
 
 ## Alternatives to Pineapple in a Goat’s Diet
 
-Pineapple is a tasty treat for goats, but it’s not the only option. Apples and carrots are also safe to feed your goat.
+Pineapple is a tasty treat for goats, but it’s not the only option. [Apples](/can-goats-eat-apples/) and [carrots](/can-goats-eat-carrots/) are also safe to feed your goat.
 
 They’re rich in nutrients that can help keep your pet healthy.
 
-You might want to try feeding them bananas too. Just remember to remove the peel first as it could be hard for them to digest.
+You might want to try feeding them [bananas](/can-goats-eat-bananas/) too. Just remember to remove the peel first as it could be hard for them to digest.
 
-If you have some leftover lettuce or spinach from dinner, feel free to share with your goat. These leafy greens are packed full of vitamins they need.
+If you have some leftover [lettuce](/can-goats-eat-lettuce/) or [spinach](/can-goats-eat-spinach/) from dinner, feel free to share with your goat. These leafy greens are packed full of vitamins they need.
 
-In moderation, grains like oats and corn can be added into their diet as well. But always consult with a vet before making any major changes in what you feed your furry friend.
+In moderation, grains like [oats](/can-goats-eat-oats/) and [corn](/can-goats-eat-corn/) can be added into their diet as well. But always consult with a vet before making any major changes in what you feed your furry friend.

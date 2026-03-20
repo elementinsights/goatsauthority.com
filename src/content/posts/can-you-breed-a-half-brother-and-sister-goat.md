@@ -55,7 +55,7 @@ In this article, we'll discuss [line breeding](/can-you-breed-a-father-and-daugh
 
 **They are also more likely to inherit any recessive genetic disorders that may be present in the family line.**
 
-In addition, when two closely related animals are bred, there is a higher chance of offspring being born with birth defects. This is due to the fact that close relatives are more likely to share the same genetic defects.
+In addition, when two [closely related animals](/can-you-breed-screaming-and-fainting-goats/) are bred, there is a higher chance of offspring being born with birth defects. This is due to the fact that close relatives are more likely to share the same genetic defects.
 
 So, while you can breed a half-brother and sister goat, it is not recommended. If you do decide to breed them, be sure to monitor the health of the offspring closely.
 
@@ -105,11 +105,11 @@ So, while line breeding can have some benefits, there are also some risks to con
 
 ## How to prevent inbreeding in goats?
 
-One of the best ways to prevent inbreeding in goats is to keep a wide gene pool. This can be done by ensuring that there are multiple generations of goats and that each goat has a different bloodline.
+One of the best ways to prevent inbreeding in goats is to keep a [wide gene pool](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/). This can be done by ensuring that there are multiple generations of goats and that each goat has a different bloodline.
 
 On top of that, it is crucial to avoid [breeding closely related goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), such as siblings or cousins. Another way to prevent inbreeding is to bring new goats into the herd from time to time.
 
-This will help to keep the gene pool diverse and will reduce the likelihood of genetic defects.
+This will help to keep the gene pool diverse and will reduce the likelihood of [genetic defects](/can-you-breed-a-6-yr-old-goat-for-first-time/).
 
 Finally, it is important to monitor the health of the goats and to cull any animals that seem unhealthy or have congenital defects. By taking these precautions, it is possible to maintain a healthy and genetically diverse herd of goats.
 
@@ -127,7 +127,7 @@ When it comes to goat breeding, timing is everything. If you breed your goats to
 
 If you breed them too late, the kids will be born just before the next breeding season, when they'll be competing with the new crop of kids for food and attention.
 
-The ideal time to breed your goats is in the fall when they'll have plenty of time to recover before the next breeding season and grass and other food is still plentiful.
+The ideal time to [breed your goats](/can-you-breed-a-4yr-old-goat/) is in the fall when they'll have plenty of time to recover before the next breeding season and grass and other food is still plentiful.
 
 By following these guidelines, you can ensure that your goats are healthy and productive members of your farm.
 
@@ -137,7 +137,7 @@ Inbreeding is the process of breeding closely related animals, usually with the 
 
 While inbreeding can have some benefits, it can also lead to genetic defects and health problems. When done carefully, inbreeding can help to preserve desirable traits in a population of animals.
 
-For example, if you have a goat with particularly good milk production, you may want to breed that goat with one of its offspring to try to produce more goats with that trait.
+For example, if you have a goat with particularly good [milk production](/can-i-raise-goats-for-milk-protein/), you may want to breed that goat with one of its offspring to try to produce more goats with that trait.
 
 However, inbreeding can also cause animals to inherit genes for diseases and other health problems. In some cases, these problems may not become apparent until later in life.
 

@@ -49,11 +49,11 @@ In this article, we will answer those questions for you and provide some additio
 
 ## Where did Toggenburg goats originate?
 
-**Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain.**
+**Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its [mountainous terrain](/can-mountain-goats-climb-cliffs/).**
 
 **The Toggenburg goat was first brought to America in 1904 by Mrs. E. Pardee of Ohio.**
 
-Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of milk per day, which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
+Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of [milk per day](/can-i-raise-goats-for-milk-protein/), which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
 
 In addition to their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 
@@ -113,11 +113,11 @@ In general, a typical Toggenburg goat will typically cost between $300 and $500.
 
 ## What do you need to take into consideration before getting goats?
 
-There are a number of [things that you need to take into consideration before getting goats](/can-a-dog-get-sick-from-a-goat/). Firstly, it is important to consider your local zoning laws and regulations.
+There are a number of [things that you need to take into consideration before getting goats](/can-a-dog-get-sick-from-a-goat/). Firstly, it is important to consider your [local zoning laws](/can-i-have-goats-where-i-live/) and regulations.
 
 Many areas have strict rules about livestock in residential areas, so it is essential to check with your town or city before moving forward with this decision. Additionally, you need to think about the right breed of goat for your needs and lifestyle.
 
-For example, if you have small children or pets and want a docile animal, a Nigerian dwarf might be more suitable than a larger breed such as an alpine goat.
+For example, if you have small children or pets and want a docile animal, a [Nigerian dwarf](/can-nigerian-dwarf-goats-be-with-nubians/) might be more suitable than a larger breed such as an alpine goat.
 
 You also need to take into account things like fencing requirements and access to water, as well as herd management practices such as regular veterinary care and record-keeping. With proper planning and preparation, but, goats can make great additions to any homestead or farm.
 

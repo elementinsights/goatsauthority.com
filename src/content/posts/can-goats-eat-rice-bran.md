@@ -39,7 +39,7 @@ faq:
   - question: "When is the best time to feed goats rice bran?"
     answer: "There are a few things to consider when deciding when to feed goats rice bran. First, it is important to know that goats are able to digest rice bran more effectively when it is cooked. For this reason, many goat owners choose to feed their goats cooked rice bran."
 ---
-Goats are very adaptable animals, as is well knowledge. You do realize that they can eat just about anything?
+Goats are very adaptable animals, as is well knowledge. You do realize that they can [eat just about anything](/why-do-goats-eat-everything/)?
 
 But that's not quite accurate.
 
@@ -99,7 +99,7 @@ There are a few things to consider when deciding when to feed goats rice bran. F
 
 For this reason, many goat owners choose to feed their goats cooked rice bran.
 
-Despite that, goats can also consume raw rice bran, and some owners find that their goats prefer it this way.
+Despite that, goats can also consume [raw rice](/can-goats-eat-rice/) bran, and some owners find that their goats prefer it this way.
 
 Another thing to keep in mind is that rice bran contains a high level of fat. As a result, it should be fed in moderation and should not make up more than 10% of a goat's diet.
 
@@ -117,7 +117,7 @@ If you're not sure how much to give them, it's always best to start with a small
 
 There are other options for [feeding goats](/can-a-goat-feed-quads/). Despite that, rice bran is a perfectly healthy and nutritious option that many goat owners choose to feed their animals.
 
-Other options include things like hay, grass, and grain. You can also talk to a goat expert about what other options might be available.
+Other options include things like [hay](/what-kind-of-hay-do-goats-eat/), grass, and grain. You can also talk to a goat expert about what other options might be available.
 
 No matter what you decide to feed your goats, though, make sure that you're giving them the right amount of food based on their individual needs.
 

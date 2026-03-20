@@ -70,7 +70,7 @@ By blocking these chemicals, ibuprofen reduces the severity of these symptoms, m
 
 Interestingly, ibuprofen can also have an effect on lactating goats. Studies have shown that the drug can slightly decrease milk production in lactating goats from 2-10%, though this reduction is generally dose-dependent and does not occur at low doses.
 
-On top of that, certain studies have found that ibuprofen may help to relieve some symptoms of mastitis in goats; but, more research is needed in this area before definitive conclusions can be made.
+On top of that, certain studies have found that ibuprofen may help to relieve some symptoms of [mastitis](/can-you-drink-milk-from-goats-with-mastitis/) in goats; but, more research is needed in this area before definitive conclusions can be made.
 
 Overall, while ibuprofen may not be appropriate as a long-term solution for treating diseases in lactating goats, it can be a useful tool to help relieve some of their associated symptoms.
 
@@ -128,7 +128,7 @@ With careful attention and a little luck, you should be able to successfully tre
 
 There are a number of alternative treatments for pain in goats, many of which can be just as effective as ibuprofen.
 
-For example, some herbal supplements such as eucalyptus oil or turmeric have been shown to provide relief from inflammation and reduce pain.
+For example, some herbal supplements such as eucalyptus oil or turmeric have been shown to provide relief from [inflammation](/can-i-put-neosporin-on-my-goats/) and reduce pain.
 
 In addition, techniques like acupressure or massage can be effective tools for alleviating both acute and chronic pain.
 

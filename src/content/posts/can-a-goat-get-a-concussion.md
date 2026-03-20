@@ -45,7 +45,7 @@ Lastly, we will provide you with some interesting facts about this animal that y
 
 **Goats are susceptible to concussions for many of the same reasons that humans are. Some of those reasons are that when the head hits something hard or there’s a sudden change in momentum, the brain can collide with the skull and become injured.**
 
-In addition, goats are more likely to get a concussion if they have a preexisting condition such as osteoporosis and if they are older because their skulls are more fragile.
+In addition, goats are more likely to get a concussion if they have a preexisting condition such as osteoporosis and if they are [older](/can-old-goats-develop-rickets/) because their skulls are more fragile.
 
 ## What are the causes of concussions in goats?
 
@@ -55,7 +55,7 @@ If a goat hits its head on a hard object, it can suffer a concussion.
 
 Another possibility is a brain disease. If a goat has an infection or inflammation of the brain, it may also suffer from concussion-like symptoms.
 
-Finally, certain toxins can also cause concussion-like symptoms in goats. For example, if a goat ingests lead or mercury, it may become disoriented and experience other neurological symptoms.
+Finally, certain [toxins](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/) can also cause concussion-like symptoms in goats. For example, if a goat ingests lead or mercury, it may become disoriented and experience other neurological symptoms.
 
 ## What are the symptoms of a concussion in goats?
 
@@ -63,7 +63,7 @@ Symptoms of concussion in goats can be divided into three categories: neurologic
 
 The most common neurological sign is disorientation, which may manifest as stumbling, walking in circles, or head pressing. Head tilt is another common symptom and may be accompanied by incoordination and unsteady gait.
 
-Seizures are also seen occasionally in goats with concussions. In terms of behavior changes, affected goats may appear agitated or confused and may also have a decreased appetite.
+[Seizures](/can-goats-have-a-stroke-anemia/) are also seen occasionally in goats with concussions. In terms of behavior changes, affected goats may appear agitated or confused and may also have a decreased appetite.
 
 Respiratory signs such as increased breathing rate or grunting are also occasionally seen in goats with concussions.
 
@@ -90,9 +90,9 @@ Goats are particularly susceptible to concussions because of their high center o
 
 there's no one-size-fits-all approach to treating a concussion in a goat. Mild concussions may resolve on their own, but more severe cases may require veterinary care.
 
-If your goat has been hit on the head or otherwise seems to be suffering from a concussion, it's important to seek professional help as soon as possible.
+If your goat has been hit on the head or otherwise seems to be suffering from a concussion, it's important to [seek professional help](/can-i-give-a-sick-goat-water-through-a-syringe/) as soon as possible.
 
-Untreated concussions can lead to serious health complications, including paralysis and death.
+Untreated concussions can lead to serious [health complications](/can-goats-recover-from-polio-without-medication/), including paralysis and death.
 
 ## Prevention measures for concussions in goats
 
@@ -102,15 +102,15 @@ First, be aware of your goat’s environment and make sure there are no potentia
 
 Second, provide plenty of space for your goats to run and play. This will help them stay active and healthy, and will also reduce the chance of them running into something and getting hurt.
 
-Third, make sure your goats are up to date on their vaccinations. This will help reduce the risk of diseases that can weaken the skull and lead to concussions.
+Third, make sure your goats are up to date on their [vaccinations](/can-a-cdt-shot-kill-a-goat/). This will help reduce the risk of diseases that can weaken the skull and lead to concussions.
 
-Lastly, provide your goats with plenty of clean, fresh water to drink. Dehydration can lead to weakness, which increases the risk of falls and head injuries.
+Lastly, provide your goats with plenty of clean, fresh water to drink. [Dehydration](/can-goats-have-horse-electrolytes/) can lead to weakness, which increases the risk of falls and head injuries.
 
 By taking these precautions, you can help keep your goat safe from concussions and other head injuries.
 
 ## Interesting facts about goat
 
-Goats are one of the oldest domesticated animals in the world, with a history that stretches back thousands of years. Today, they are kept as pets, used for their milk and meat, and even employed as working animals.
+Goats are one of the oldest domesticated animals in the world, with a history that stretches back thousands of years. Today, they are kept as pets, used for their [milk](/can-you-drink-goat-milk-while-pregnant/) and meat, and even employed as working animals.
 
 Despite their ubiquity, there are still many things that most people don’t know about goats.
 
@@ -124,7 +124,7 @@ Here are some interesting facts about goats:
 
 - Many breeds of goats can be vocal, and they are known to bleat when they are hungry or thirsty.
 
-- Goats are intelligent animals, and they can learn simple tricks and commands.
+- [Goats are intelligent animals](/do-goats-have-good-eyesight/), and they can learn simple tricks and commands.
 
 So there you have it, five interesting facts about goats that you may not have known before. Whether you’re a farmer raising them for milk or meat, or you’re simply considering adding a goat to your menagerie of pets, there’s no denying that these fascinating creatures deserve our attention and respect.
 
@@ -134,7 +134,7 @@ Let's find out the answers to some commonly asked questions about concussions in
 
 ### How is a concussion diagnosed in a goat?
 
-A concussion is typically diagnosed based on the signs and symptoms that are present. A veterinarian may also order imaging tests, such as an MRI or CT scan, to rule out other potential causes of the symptoms.
+A concussion is typically diagnosed based on the signs and symptoms that are present. A veterinarian may also order [imaging tests](/can-i-suture-my-goat/), such as an MRI or CT scan, to rule out other potential causes of the symptoms.
 
 ### What are the long-term effects of a concussion on a goat?
 
@@ -150,7 +150,7 @@ A goat can die from a concussion if the injury is severe enough. However, most g
 
 ### What should I do if my goat has a concussion?
 
-If you suspect that your goat has a concussion, it’s crucial to seek animal expert care immediately. The sooner you can get your goat treatment, the better its chances of making a full recovery.
+If you suspect that your goat has a concussion, it’s crucial to seek animal expert care immediately. The sooner you can get your [goat treatment](/can-i-give-my-goat-pepto-bismol/), the better its chances of making a full recovery.
 
 ## Final Thoughts
 

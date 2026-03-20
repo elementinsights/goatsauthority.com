@@ -39,7 +39,7 @@ faq:
 ---
 Have you ever wondered what kind of fruits goats can eat? As a goat owner, I often find myself in the same boat.
 
-It’s not always easy to know what is safe for our four-legged friends.
+It’s not always easy to know what is [safe for our four-legged friends](/can-goats-eat-any-plant/).
 
 One question that comes up quite a bit is about oranges. Are these citrusy treats okay for them or should we keep them away from their reach?
 
@@ -53,7 +53,7 @@ Let me share some insights based on my personal experience and research. This mi
 
 **In fact, they provide several health benefits for them too.**
 
-They’re rich in vitamin C and other nutrients that boost their immune system.
+They’re rich in [vitamin C and other nutrients](/can-goats-eat-citrus-fruits/) that boost their immune system.
 
 So next time when you have some leftover oranges don’t throw them away. Instead feed those slices carefully peeled off from the rind.
 
@@ -61,7 +61,7 @@ So next time when you have some leftover oranges don’t throw them away. Instea
 
 Goats can eat oranges, but there’s more to it. The peels and seeds are also safe for them.
 
-Goats have a diverse diet and they love variety.
+Goats have a [diverse diet](/can-goats-eat-watermelon/) and they love variety.
 
 Oranges offer this variety with their sweet, tangy taste. They’re not just tasty treats though.
 
@@ -109,7 +109,7 @@ Oranges are high in sugar and too much of this sweet fruit could upset their sto
 
 Oranges offer some health benefits for your baby goat though. They provide a good source of vitamin C which helps boost the immune system.
 
-The fiber content aids digestion as well.
+The [fiber content](/can-goats-eat-raisins/) aids digestion as well.
 
 **When feeding oranges to your kid, be sure to remove the peel first**. This part isn’t easily digestible by goats and might cause problems if eaten in large amounts.
 
@@ -119,7 +119,7 @@ Remember always introduce new foods slowly into their diet so they have time to 
 
 Oranges are a common fruit that many of us enjoy. But can goats eat oranges?
 
-The answer is yes, they can. Goats love to munch on various fruits and vegetables, including oranges.
+The answer is yes, they can. Goats love to munch on various [fruits and vegetables](/can-goats-eat-grapes/), including oranges.
 
 However, it’s important not to overfeed them with this citrus delight. **Oranges contain high levels of sugar which could upset their stomach if consumed in large amounts**.
 
@@ -195,7 +195,7 @@ Oranges are a good source of vitamins for goats. They contain vitamin C, which b
 
 Vitamin A in oranges promotes healthy skin and eyesight.
 
-The peel is also beneficial to goats. It has fiber that aids digestion.
+The peel is also beneficial to goats. It has fiber that aids [digestion](/can-goats-digest-anything/).
 
 But remember, moderation is key when feeding your goat with oranges or any other fruit.
 
@@ -223,15 +223,15 @@ Also keep an eye out while they’re eating for choking hazards since some parts
 
 Goats are known for their diverse diet. Apart from oranges, they can eat a variety of fruits.
 
-Apples and pears are among the favorites. They provide good nutrition and goats seem to enjoy them.
+[Apples](/can-goats-eat-apples/) and [pears](/can-goats-eat-pears/) are among the favorites. They provide good nutrition and goats seem to enjoy them.
 
-Bananas too make an excellent treat for your goat friends. You don’t even need to peel them first, goats will happily munch on the entire thing.
+[Bananas](/can-goats-eat-bananas/) too make an excellent treat for your goat friends. You don’t even need to peel them first, goats will happily munch on the entire thing.
 
 But remember moderation is key here as bananas have high sugar content.
 
 Watermelons also get a big thumbs up from our caprine pals, especially during hot weather conditions when hydration becomes crucially important.
 
-Berries like strawberries or blueberries can be offered in small amounts due to their higher sugar levels compared with other fruits.
+Berries like [strawberries](/can-goats-eat-strawberries/) or [blueberries](/can-goats-eat-blueberries/) can be offered in small amounts due to their higher sugar levels compared with other fruits.
 
 So next time you think about what fruit treats to give your pet goat apart from oranges, there’s quite a list that comes handy.
 

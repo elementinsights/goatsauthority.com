@@ -51,7 +51,7 @@ In this article, we will answer that question, and we'll also give you some tips
 
 **Saanen goats also have a shorter gestation period than most other goat breeds, so they can have multiple births in a year.**
 
-However, it's important to note that goats are seasonal breeders. This means that their bodies are designed to give birth during the spring and early summer months when food is plentiful.
+However, it's important to note that [goats are seasonal breeders](/can-a-goat-get-pregnant-when-not-in-heat/). This means that their bodies are designed to [give birth](/can-i-use-vaseline-on-goat-birth/) during the spring and early summer months when food is plentiful.
 
 If you choose to breed your Saanen goat year-round, you will need to provide them with extra food and care.
 
@@ -89,7 +89,7 @@ Goats are hardy animals, and with proper care, they can live healthy lives. But,
 
 One of the most pressing health concerns is parasites. Internal parasites, such as stomach worms, can cause weight loss, diarrhea, and anemia.
 
-External parasites, such as lice and mites, can cause irritation and restlessness. To help prevent these problems, it's crucial to deworm your goats on a regular basis and to routinely check them for signs of infestation.
+External parasites, such as lice and mites, can cause irritation and restlessness. To help prevent these problems, it's crucial to [deworm your goats](/can-a-pregnant-goat-have-penicillin/) on a regular basis and to routinely check them for signs of infestation.
 
 Another health concern for Saanen goats is a respiratory disease. Because they are prone to allergies, they are at an increased risk for developing problems like pneumonia.
 
@@ -103,13 +103,13 @@ Saanen goats are a medium-sized breed of dairy goat that originates from the wes
 
 Despite that, Saanen goats can also make excellent pets, and they are often kept on small farms or homesteads. One of the most common questions about Saanen goats is how many kids they can have at one time.
 
-Saanen goats usually have twins or triplets, although they may occasionally have single births. Most does will [produce between 2 and 3 quarts of milk](/can-a-female-goat-produce-milk-without-being-pregnant/) per day, which is enough to feed two or three kids.
+Saanen goats usually have twins or triplets, although they may occasionally have [single births](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/). Most does will [produce between 2 and 3 quarts of milk](/can-a-female-goat-produce-milk-without-being-pregnant/) per day, which is enough to feed two or three kids.
 
 Despite that, some does may produce more milk, and in these cases, it may be necessary to supplement the kids with bottle feedings.
 
 The kidding rate for Saanen goats is typically between 150 and 200 percent. This means that for every 100 does, there will be between 150 and 200 offspring born each year.
 
-With such a high reproductive potential, it's important to manage the breeding of Saanen goats carefully to prevent overpopulation.
+With such a high reproductive potential, it's important to manage the breeding of Saanen goats carefully to [prevent overpopulation](/can-an-over-due-goat-be-induced-to-labor/).
 
 ## What do Saanen goat kids eat?
 
@@ -129,7 +129,7 @@ Adult Saanen goats typically weigh between 120 and 200 pounds. bucks (males) ten
 
 Bucks also have larger horns than does.
 
-Saanen goats can live for 10-12 years in captivity, but their lifespan is usually shorter in the wild due to predation and other risks.
+Saanen goats can live for 10-12 years in captivity, but their lifespan is usually shorter in the wild due to [predation](/can-a-fox-kill-a-goat/) and other risks.
 
 ## Final Thoughts
 

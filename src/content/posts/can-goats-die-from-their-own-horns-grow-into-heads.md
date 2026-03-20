@@ -59,15 +59,15 @@ One of the most common [ways for a goat to die](/can-goats-die-in-cold-weather/)
 
 If a goat's horn gets caught on a fence, for example, the animal may try to pull away and end up choking itself. In addition to strangulation, other common [causes of death for goats](/can-contact-with-goats-cause-diarrhea-in-humans/) include infection, predation, and exposure.
 
-Infectious diseases are always a risk for livestock animals, and goats are no exception. They can also be killed by predators such as coyotes or dogs, or simply by being left out in the cold without shelter.
+[Infectious diseases](/can-you-catch-diseases-from-goats/) are always a risk for livestock animals, and goats are no exception. They can also be killed by predators such as coyotes or dogs, or simply by being left out in the cold without shelter.
 
 ## How to prevent your goat from dying from its own horn?
 
 The best way to prevent your goat from dying from its own horn is to make sure that you regularly trim its horns. This will help to keep them at a safe length and prevent them from growing into the goat's skull.
 
-If you are not comfortable trimming your goat's horns yourself, you can always take it to a veterinarian or a professional hoof trimmer. Just be sure to do it regularly, as horns can grow back quickly.
+If you are not comfortable trimming your goat's horns yourself, you can always take it to a veterinarian or a professional [hoof trimmer](/can-hoof-rot-kill-a-goat/). Just be sure to do it regularly, as horns can grow back quickly.
 
-On top of that trimming their horns, you should also make sure that your goats have access to clean water and plenty of food. A healthy diet will help to keep them strong and less susceptible to disease.
+On top of that trimming their horns, you should also make sure that your goats have access to clean water and plenty of food. A [healthy diet](/can-goats-eat-alfalfa/) will help to keep them strong and less susceptible to disease.
 
 Finally, keep an eye on your goats and look for any signs of illness or injury. If you think something is wrong, don't hesitate to call a goat expert.
 
@@ -135,7 +135,7 @@ If you are interested in owning a goat but want to avoid horns, consider choosin
 
 No matter what breed of goat you choose, you need to remember that all goats require proper care and attention. Goats are social animals and need regular interaction with their owners.
 
-They also need a clean and safe environment, plenty of food and water, and regular exercise.
+They also need a clean and safe environment, plenty of [food and water](/can-goats-drink-vinegar/), and regular exercise.
 
 By providing your goat with everything they need, you can help to ensure a long and happy life.
 

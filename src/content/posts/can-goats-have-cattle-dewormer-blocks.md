@@ -52,7 +52,7 @@ In this article, we will answer all of your questions so that you can make an in
 
 In addition, cattle dewormer blocks usually contain other ingredients that are beneficial for goats such as vitamins A, D, and E.
 
-However, it is important to note that not all cattle dewormer blocks are created equal. Some products may contain ingredients that are harmful to goats so it is crucial to read the label carefully before purchasing.
+However, it is important to note that not all [cattle dewormer blocks](/can-goats-eat-mineral-salt-made-for-cattle/) are created equal. Some products may contain ingredients that are harmful to goats so it is crucial to read the label carefully before purchasing.
 
 ## What are cattle dewormer blocks and what do they do for goats?
 
@@ -123,13 +123,13 @@ By taking all of these factors into account, you can be sure to select the best 
 
 ## Are there any alternative options to using cattle dewormer blocks on goats?
 
-Yes, there are a few alternative options for deworming goats. One option is to use an oral ivermectin solution, which is available by prescription from a goat expert.
+Yes, there are a few alternative options for deworming goats. One option is to use an [oral ivermectin solution](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/), which is available by prescription from a goat expert.
 
 This option is safer than using cattle dewormer blocks, as it minimizes the risk of side effects and resistance. Another option is to use a topical ivermectin product, which is available over the counter.
 
 This option is also safe and effective, but it may be more expensive than using cattle dewormer blocks.
 
-Finally, you can also consider using a natural wormer such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products.
+Finally, you can also consider using a [natural wormer](/can-goats-get-worms-from-acorns/) such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products.
 
 Talk to a goat expert to see if one of these options is right for your goats.
 

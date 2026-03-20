@@ -49,7 +49,7 @@ We will answer all of your questions in this article and explain [everything you
 
 **Horses can indeed get attached to goats. This is most likely to occur when the horse and goat have been raised together from a young age and have had little to no contact with other members of their own species or other animals.**
 
-The bond between a horse and goat is not as strong as the bond between two horses or two goats, but it's still a real and meaningful connection.
+The bond between a horse and goat is not as strong as the bond between two horses or two goats, but it's still a real and [meaningful connection](/can-you-describe-a-herd-of-sheep-and-goats/).
 
 Horses and goats that are attached to each other will often spend most of their time together, grazing and resting side by side. They may also groom each other and stand close together when they sleep.
 
@@ -61,15 +61,15 @@ However, the term can also refer to the positive interactions between two differ
 
 Though they are different animals, they share many similarities, which can help them to form a strong bond.
 
-For instance, both horses and goats are social creatures that enjoy spending time with others. They are also curious and intelligent, which helps them to communicate and understand each other.
+For instance, both horses and goats are [social creatures](/can-i-mix-newborn-goats-and-older-goats/) that enjoy spending time with others. They are also curious and intelligent, which helps them to communicate and understand each other.
 
-Furthermore, they are both gentle and non-aggressive, making them compatible roommates. As a result of these shared traits, horses and [goats often develop strong bonds](/can-old-goats-develop-rickets/) with each other, forming lasting relationships.
+Furthermore, they are both gentle and [non-aggressive](/can-i-remove-my-goat-full-grown-horns/), making them compatible roommates. As a result of these shared traits, horses and [goats often develop strong bonds](/can-old-goats-develop-rickets/) with each other, forming lasting relationships.
 
 ## How can you encourage bonding between your horses and goats?
 
 One of the best ways to encourage bonding between your horses and [goats is to feed them](/can-a-goat-feed-quads/) together. If you have a separate area for each animal, bring their food bowls close together so they have to eat side-by-side.
 
-You can also offer them treats at the same time, such as slices of apples or carrots. If possible, let them graze in the same pasture so they can get to know each other better.
+You can also offer them [treats](/can-my-goats-eat-horse-treats/) at the same time, such as slices of apples or carrots. If possible, let them graze in the same pasture so they can get to know each other better.
 
 Another way to encourage bonding is to groom them both at the same time. This will help them get used to being around each other and build up a trusting relationship.
 
@@ -109,7 +109,7 @@ However, there are also times when an owner may want to prevent or break up an u
 
 One approach is to simply keep the two groups separated. If they are unable to see or interact with each other on a regular basis, they will eventually lose interest in one another.
 
-Another approach is to provide each group with their own separate space and resources. This means giving the horses their own pasture or field and giving the goats their own pen or area to roam.
+Another approach is to provide each group with their own separate space and resources. This means giving the horses their own [pasture](/can-i-have-goats-where-i-live/) or field and giving the goats their own pen or area to roam.
 
 By doing this, the animals will learn that they each have their own territory and that they don't need to rely on or be close to the other group in order to survive.
 

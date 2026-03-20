@@ -62,7 +62,7 @@ Antihistamine Benadryl is frequently used to treat allergies in people. However,
 
 [Goats that are sick](/can-i-give-a-sick-goat-water-through-a-syringe/) with the flu or a cold may have trouble breathing because of congestion.
 
-Benadryl can help to reduce congestion and make it easier for the goat to breathe. On top of that, Benadryl can also be used to treat diarrhea in goats.
+Benadryl can help to reduce congestion and make it easier for the goat to breathe. On top of that, Benadryl can also be used to treat [diarrhea in goats](/can-goats-drink-cows-milk/).
 
 It works by slowing down the movement of the intestines, which helps to reduce the amount of fluid that is lost.
 
@@ -98,7 +98,7 @@ it's important to start with a lower dose and increase it as needed, as goats ar
 
 There are several reasons why a goat might need Benadryl. The most common reason is to treat an allergic reaction.
 
-Allergic reactions can be caused by a variety of things, including bee stings, insect bites, and certain plants.
+Allergic reactions can be caused by a variety of things, including bee stings, [insect bites](/can-goats-get-the-bubonic-plague/), and certain plants.
 
 When a goat has an allergic reaction, they may experience symptoms such as swelling, hives, and difficulty breathing. Benadryl can help to reduce these symptoms and make the goat more comfortable.
 
@@ -106,7 +106,7 @@ On top of that, Benadryl can also be used to treat respiratory conditions, such 
 
 Benadryl can help to reduce congestion and make it easier for the goat to breathe.
 
-In the end, Benadryl can also be used to treat diarrhea in goats. It works by slowing down the movement of the intestines, which helps to reduce the amount of fluid that is lost.
+In the end, Benadryl can also be used to treat diarrhea in goats. It works by slowing down the movement of the [intestines](/how-many-stomachs-do-goats-have/), which helps to reduce the amount of fluid that is lost.
 
 Appropriately, Benadryl can help to keep goats hydrated and prevent them from becoming dehydrated.
 
@@ -140,7 +140,7 @@ Therefore, it's best to avoid [giving Benadryl to goats](/can-i-give-goat-trazod
 
 ## Can all goats take Benadryl?
 
-Not all goats can take Benadryl. This is because Benadryl has not been well-studied in goats and the correct dosage has not been determined.
+Not all goats can take Benadryl. This is because Benadryl has not been well-studied in [goats](/can-goats-be-outside-in-winter/) and the correct dosage has not been determined.
 
 As a result, giving Benadryl to a goat could potentially lead to an overdose. In severe cases, an overdose of Benadryl can cause respiratory depression, which can be fatal.
 

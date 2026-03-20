@@ -44,7 +44,7 @@ faq:
     answer: "A common health problem for goats is something called bloat. Bloat occurs when the goat's stomach becomes filled with gas, causing it to expand and put pressure on the lungs. This can make it difficult for the goat to breathe, and if left untreated, bloat can be fatal."
 ---
 
-Many people enjoy taking care of goats as they are low-maintenance animals that provide rewards. Though not requiring much attention, there are still some goat husbandry skills you should learn to keep your pet healthy and content.
+Many people enjoy taking care of goats as they are low-maintenance animals that provide rewards. Though not requiring much attention, there are still some goat husbandry skills you should learn to keep your pet [healthy and content](/can-goats-be-outside-in-winter/).
 
 A common question we receive is Can you debloat a goat? And if so, what is the best way to do it?
 
@@ -56,7 +56,7 @@ In this article, we will answer those questions and provide you with some tips o
 
 **They are also susceptible to bloating from overeating or drinking too much water at once.**
 
-However, it is best to avoid letting your goat get bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times.
+However, it is best to avoid letting your goat get bloated in the first place. You can do this by ensuring they have a [balanced diet](/can-goats-have-36-protein/) and access to fresh water at all times.
 
 If you think your goat may be bloated, contact your veterinarian immediately.
 
@@ -72,7 +72,7 @@ If your goat does become bloated, you will need to administer mineral oil via a 
 
 Debloating is the process of relieving pressure in the stomach caused by gas buildup. [Goats can become bloated from overeating or drinking too much water](/can-horses-drink-water-that-has-goat-poop-in-it/) at once.
 
-Bloating can be dangerous for goats as it can cause the stomach to twist, cutting off blood flow and leading to death.
+[Bloating can be dangerous for goats](/can-baking-soda-cause-urinary-issues-in-goats/) as it can cause the stomach to twist, cutting off blood flow and leading to death.
 
 If you think your goat may be bloated, contact your veterinarian immediately. They will likely recommend administering mineral oil via a nasogastric tube.
 
@@ -86,7 +86,7 @@ A common health problem for goats is something called bloat. Bloat occurs when t
 
 This can make it difficult for the goat to breathe, and if left untreated, bloat can be fatal.
 
-There are several signs that a goat may be bloated, including appearing anxious or restless, standing with its head down, frequently shifting position, grunting or bleating, and feeling hard or tight in the abdomen.
+There are several [signs that a goat may be bloated](/can-goats-have-a-stroke-anemia/), including appearing anxious or restless, standing with its head down, frequently shifting position, grunting or bleating, and feeling hard or tight in the abdomen.
 
 If you suspect your goat is bloated, it's important to act quickly. You can try to relieve the gas by gently massaging the goat's stomach.
 
@@ -94,11 +94,11 @@ If this doesn't work, you'll need to contact a veterinarian for further treatmen
 
 ## What to do after debloating your goat?
 
-Well, after you've successfully debloated your goat, there are a few things you should do to follow up. First, check the area where the bloat was for any signs of infection.
+Well, after you've successfully debloated your goat, there are a few things you should do to follow up. First, check the area where the bloat was for any [signs of infection](/can-a-goat-get-a-cold-sore/).
 
 If everything looks good, you can start feeding your goat again. Make sure to give them [small meals at first](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the amount of food as they adjust.
 
-It's also important to make sure they have access to plenty of water to prevent dehydration.
+It's also important to make sure they have access to plenty of water to prevent [dehydration](/can-goats-have-horse-electrolytes/).
 
 Finally, keep an eye on them for the next few days and call your vet if you see any unusual symptoms. With a little care, your goat will be back to their old self in no time.
 
@@ -114,7 +114,7 @@ If you suspect your goat is bloated, it's important to act quickly and contact a
 
 There's no hard and fast rule for how often you should debloat a goat, but it's generally recommended to do it at least once a week.
 
-This will help to prevent the build-up of gas in the stomach, which can cause uncomfortable bloating and even pain.
+This will help to prevent the build-up of gas in the stomach, which can cause uncomfortable [bloating and even pain](/can-i-give-my-goat-pepto-bismol/).
 
 To debloat your goat, simply place one hand on the animal's belly and massage gently in a clockwise direction. This will help to loosen any trapped gas and allow it to escape.
 

@@ -64,7 +64,7 @@ If you suspect that your goat has polio, you need to contact a veterinarian imme
 
 Polio is a viral disease that primarily affects children under the age of five. The virus is spread through contact with contaminated feces and can cause paralysis and death.
 
-Early symptoms of polio include fever, vomiting, and muscle weakness.
+Early symptoms of polio include fever, vomiting, and [muscle weakness](/can-goats-have-a-stroke-anemia/).
 
 In goats, the polio virus typically affects the legs first, resulting in lameness. In severe cases, the [goat may be unable to stand or eat](/can-a-goat-eat-too-many-dewormer-pellets/).
 
@@ -76,23 +76,23 @@ There is no cure for polio, but early treatment can help to reduce the severity 
 
 There are three main ways that goats can contract polio: through contaminated food or water, contact with an infected animal, or contact with an infected person.
 
-The disease is most commonly spread through contaminated food or water, as the virus can survive in the environment for several weeks. Contact with an infected animal is also a common way for goats to contract polio, as the virus can be present in an animal's saliva, feces, and milk.
+The disease is most commonly spread through contaminated food or water, as the virus can survive in the environment for several weeks. [Contact with an infected animal](/can-any-diseases-spread-from-swine-to-goats/) is also a common way for goats to contract polio, as the virus can be present in an animal's saliva, feces, and milk.
 
 Finally, contact with an infected person is a less common but still possible route of transmission. The virus can be present in a person's saliva and mucus, and it can be spread through close contact with an infected individual.
 
-Polio is a serious disease that can cause paralysis and even death. However, there are effective vaccines available that can protect both humans and animals from the virus.
+Polio is a serious disease that can cause paralysis and even death. However, there are [effective vaccines](/can-goats-carry-distemper/) available that can protect both humans and animals from the virus.
 
-You need to ensure that all goats are properly vaccinated against polio, as this will help to prevent the spread of the disease.
+You need to ensure that all goats are [properly vaccinated](/can-a-cdt-shot-kill-a-goat/) against polio, as this will help to prevent the spread of the disease.
 
 ## What are the treatments for polio in goats?
 
-There are two primary treatments for polio in goats: supportive care and vaccination. Supportive care involves providing the goat with plenty of rest, clean water, and good quality food.
+There are two primary treatments for polio in goats: supportive care and vaccination. Supportive care involves providing the goat with plenty of rest, [clean water](/can-i-give-a-sick-goat-water-through-a-syringe/), and good quality food.
 
 If the goat is having trouble breathing, it may also need to be given oxygen.
 
 In severe cases, goats may need to be hospitalized so that they can receive around-the-clock care. Vaccination is the best way to prevent polio, and all goats should be vaccinated against the disease.
 
-Despite that, if a goat does become infected with polio, prompt treatment can help to reduce the severity of the disease and improve the chances of a full recovery.
+Despite that, if a goat does become infected with polio, [prompt treatment](/can-i-give-my-goat-pepto-bismol/) can help to reduce the severity of the disease and improve the chances of a full recovery.
 
 ## Are there any side effects to the polio treatments in goats?
 
@@ -108,7 +108,7 @@ One of the best ways to prevent your goats from getting polio is to make sure t
 
 There are two types of vaccines available for goats: live and inactivated. Live vaccines are more effective at preventing polio, but they are also riskier, so it's important to talk to your veterinarian about which vaccine is right for your flock.
 
-In addition to vaccination, good hygiene practices can also help to prevent the spread of polio. Make sure to clean and disinfect any equipment that comes in contact with your goats, and wash your hands thoroughly after working with them.
+In addition to vaccination, good hygiene practices can also help to prevent the spread of polio. Make sure to clean and disinfect any equipment that comes in [contact with your goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/), and wash your hands thoroughly after working with them.
 
 By taking these precautions, you can help to ensure that your goats stay healthy and happy.
 
@@ -116,7 +116,7 @@ By taking these precautions, you can help to ensure that your goats stay healthy
 
 In addition to vaccination and good hygiene practices, there are a few other steps you can take to prevent your goats from getting polio.
 
-First, avoid contact with any animals that may be infected with the virus.
+First, avoid contact with any animals that may be [infected with the virus](/can-you-catch-diseases-from-goats/).
 
 Second, if you must come into contact with an infected animal, make sure to wear protective clothing, such as gloves and a mask.
 
@@ -130,7 +130,7 @@ All kinds of goats can get polio. Despite that, some types of goats are more sus
 
 For example, Alpine and Saanen goats are more resistant to the virus than other breeds, such as Boer and Angora goats.
 
-Additionally, younger goats are more likely to contract the disease than older goats. This is because their immune systems are not yet fully developed, and they are more likely to come into contact with the virus.
+Additionally, [younger goats](/can-baby-goats-have-any-electrolytes/) are more likely to contract the disease than older goats. This is because their immune systems are not yet fully developed, and they are more likely to come into contact with the virus.
 
 Therefore, you need to take extra precautions if you have young goats in your flock.
 

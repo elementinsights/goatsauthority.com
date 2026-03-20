@@ -56,17 +56,17 @@ Some things to consider when feeding goat cheese to infants:
 - It is lower in lactose than [cow's milk](/can-i-mix-goat-milk-replacer-with-cow-milk/), making it easier to digest for some people.
 - Some infants may be allergic to goat cheese. Check with your pediatrician before feeding it to your infant.
 - Start with a small amount of goat cheese and see how your infant tolerates it.
-- Choose and store goat cheese carefully to avoid foodborne illness.
+- Choose and store [goat cheese](/can-you-freeze-goat-cheese/) carefully to avoid foodborne illness.
 
 ## What is goat cheese and where does it come from?
 
 Goat cheese is a type of cheese made from the milk of goats. It is typically produced in regions where goat farming is popular and has a long history, with many different variations and types around the world.
 
-Goat cheese originated in Asia and the Middle East, but these days it is also widely produced and enjoyed in Europe, North America, and elsewhere.
+Goat cheese originated in Asia and the Middle East, but these days it is also widely produced and enjoyed in Europe, North America, and [elsewhere](/can-you-buy-goat-milk-at-the-grocery-store/).
 
 Compared to cow's milk cheese, goat cheese tends to be tangier, due to its higher acid content. This gives it a unique flavor that many people find quite appealing.
 
-In addition, goat cheese tends to be lower in fat than cow's milk cheeses, making it a healthier and more nutritious choice for many people.
+In addition, goat cheese tends to be lower in fat than cow's milk cheeses, making it a [healthier and more nutritious choice](/can-babies-have-goats-yogurt/) for many people.
 
 So if you're looking for something different from the usual varieties of soft or hard cheeses, why not give goat cheese a try? You might just find that it's your new favorite.
 

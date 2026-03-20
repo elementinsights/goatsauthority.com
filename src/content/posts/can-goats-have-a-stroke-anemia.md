@@ -44,7 +44,7 @@ In this article, we will answer all your questions about strokes in goats, inclu
 
 In addition to stroke anemia, goats can also suffer from heart attacks, which are when the heart muscle is damaged due to a lack of blood flow.
 
-If you think that your goat may be suffering from a stroke or a heart attack, it is important to get them to a goat expert as soon as possible.
+If you think that your goat may be suffering from a stroke or a [heart attack](/can-a-cdt-shot-kill-a-goat/), it is important to get them to a goat expert as soon as possible.
 
 ## What is a stroke in goats and what are the symptoms to look out for?
 
@@ -100,7 +100,7 @@ For example, if your goat has a disease of the brain or blood vessels, you need 
 
 Head trauma can also be prevented by ensuring that your [goat has a safe environment to live](/can-goats-live-in-an-urban-environment/) in and avoiding situations that could put them at risk for injury.
 
-Lastly, keeping your goat up-to-date on their vaccinations can help to protect them from certain diseases that could lead to strokes.
+Lastly, keeping your goat up-to-date on their [vaccinations](/can-goats-recover-from-polio-without-medication/) can help to protect them from certain diseases that could lead to strokes.
 
 ### When is it time to see a goat expert?
 

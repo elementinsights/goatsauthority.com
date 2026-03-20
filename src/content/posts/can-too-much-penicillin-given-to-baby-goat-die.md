@@ -53,13 +53,13 @@ In this article, we will answer those questions about penicillin and [baby goats
 
 **Too much penicillin can kill your baby goat. This is because penicillin works by killing bacteria.**
 
-**And when there are too many bacteria in the body, it can overwhelm the organs and cause death. They may also suffer from anemia, diarrhea, and vomiting.**
+**And when there are too many bacteria in the body, it can overwhelm the organs and cause death. They may also suffer from [anemia](/can-goats-have-a-stroke-anemia/), diarrhea, and vomiting.**
 
 So, it's important to only give the recommended dosage of penicillin to your baby goat. And if you're not sure how much to give, always ask a goat expert first.
 
 ## What is penicillin and what is it used for baby goats?
 
-Penicillin is an antibiotic that helps to fight bacteria in the body. It can be used to treat a wide range of infections, including ear infections, skin infections, and respiratory infections.
+Penicillin is an antibiotic that helps to fight bacteria in the body. It can be used to treat a wide range of infections, including ear infections, [skin infections](/can-i-put-neosporin-on-my-goats/), and respiratory infections.
 
 Penicillin is also sometimes used to prevent infection after surgery. When it comes to baby goats, penicillin can be used to treat bacterial infections, such as pneumonia.
 
@@ -121,7 +121,7 @@ If you're unsure about whether or not to give your kid penicillin, it's always b
 
 ## What to do if your baby goat has an allergic reaction to the antibiotic?
 
-If your baby goat has an allergic reaction to the antibiotic, the first thing you should do is call a goat expert. Allergic reactions can range from mild to severe, and in some cases, they can be life-threatening.
+If your baby goat has an allergic reaction to the antibiotic, the first thing you should do is call a goat expert. [Allergic reactions](/can-benadryl-hurt-a-goat/) can range from mild to severe, and in some cases, they can be life-threatening.
 
 A goat expert will be able to assess the situation and recommend the best course of treatment. If the reaction is mild, they may recommend giving the goat antihistamines or corticosteroids.
 

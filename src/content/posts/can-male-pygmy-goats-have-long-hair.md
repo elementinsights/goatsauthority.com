@@ -45,7 +45,7 @@ faq:
   - question: "Are there any risks associated with having a long-haired male pygmy goat?"
     answer: "There are some risks associated with having a long-haired male pygmy goat. One risk is that they are more susceptible to parasites. This is because their long hair provides a perfect place for parasites to hide."
 ---
-We all know that goats are pretty amazing creatures. But did you know that there are different types of goats?
+We all know that goats are pretty amazing creatures. But did you know that there are [different types of goats](/can-you-describe-a-herd-of-sheep-and-goats/)?
 
 One type is the male pygmy goat.
 
@@ -65,7 +65,7 @@ Male [pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) 
 
 They also have shorter hair coats. But, their most distinguishing feature is their beards.
 
-Male pygmy goats have long, thick beards that reach down to their chests.
+[Male pygmy goats](/can-you-band-a-2-year-old-buck-goat/) have long, thick beards that reach down to their chests.
 
 ## What are the benefits of having a long-haired male pygmy goat?
 
@@ -143,13 +143,13 @@ If you are looking for a goat that does not shed its hair, then a male pygmy goa
 
 ## Do male pygmy goats need to be vaccinated?
 
-All goats, including male pygmy goats, need to be vaccinated against rabies and other diseases. Goats are susceptible to a variety of diseases, so it is important to keep them up-to-date on their vaccinations.
+All goats, including male pygmy goats, need to be [vaccinated](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/) against rabies and other diseases. Goats are susceptible to a variety of diseases, so it is important to keep them up-to-date on their vaccinations.
 
-Male pygmy goats are also susceptible to parasites. This is why it is important to deworm them on a regular basis.
+Male pygmy goats are also susceptible to parasites. This is why it is important to [deworm them](/can-i-raise-goats-for-milk-protein/) on a regular basis.
 
 ## How much do male pygmy goats cost?
 
-The cost of a male pygmy goat varies depending on many factors, such as age, health, and coat type. Generally, male pygmy goats cost between $75 and $250.
+The cost of a male pygmy goat varies depending on many factors, such as age, health, and coat type. Generally, [male pygmy goats cost](/can-goats-make-money/) between $75 and $250.
 
 If you are looking for a gentle, social creature that is also aesthetically pleasing, then a male pygmy goat is the perfect choice for you. They are easy to care for and make great companions.
 

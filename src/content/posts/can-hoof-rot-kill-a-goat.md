@@ -58,7 +58,7 @@ If the infection spreads to the bloodstream, it can cause sepsis.
 
 Sepsis is a medical emergency and requires immediate treatment. If not treated quickly, sepsis can lead to organ failure and death.
 
-Hoof rot is most commonly seen in goats that are kept in wet and muddy conditions. The bacteria that cause hoof rot thrive in moist environments.
+Hoof rot is most commonly seen in goats that are kept in [wet and muddy conditions](/can-goats-be-outside-in-winter/). The bacteria that cause hoof rot thrive in moist environments.
 
 So, if you're wondering, "Can hoof rot kill a goat?", the answer is yes. Hoof rot can kill a goat within 48 hours if left untreated.
 
@@ -92,7 +92,7 @@ This includes cleaning out stalls regularly and disinfecting any tools or equipm
 
 In cases where hoof rot is more severe, there are a number of medical treatments that can be used to address the infection. These might include anti-fungal medications or special hoof dressings that help to dry out and heal damaged tissue.
 
-On top of that, it is crucial to provide goats with a healthy diet and plenty of exercises, as these elements are known to support overall immune function and prevent secondary infections from occurring.
+On top of that, it is crucial to provide goats with a [healthy diet](/can-goats-drink-vinegar/) and plenty of exercises, as these elements are known to support overall immune function and prevent secondary infections from occurring.
 
 With the right care and attention, it should be possible to treat hoof rot effectively and ensure a full recovery for your goats.
 
@@ -100,7 +100,7 @@ With the right care and attention, it should be possible to treat hoof rot effec
 
 There are a number of steps that can be taken to help prevent or treat hoof rot in goats. First and foremost, regular maintenance of your goat's hooves is essential.
 
-This can include trimming hooves on a regular basis or checking for any changes or abnormalities in the structure or shape of the hooves.
+This can include trimming hooves on a regular basis or checking for any changes or abnormalities in the structure or shape of the [hooves](/do-goats-have-cloven-hooves/).
 
 You may also want to consider covering or wrapping your goat's hooves, especially during wet and muddy weather, as this can help reduce exposure to moisture and bacteria that can lead to rot.
 
@@ -125,7 +125,7 @@ In addition to the above, here are a few other important things to keep in mind 
 
 There are several other diseases that can [affect goats' hooves](/can-weather-affect-goats-poop/). These include bacterial infection known as foot rot, which causes similar symptoms to hoof rot, and fungal infections such as ringworm, which can cause the hooves to become brittle and cracked.
 
-Additionally, certain types of parasites, such as mites, can also infest goats' hooves and [cause irritation and discomfort](/can-alfalfa-pellets-cause-goats-to-bloat/). If you notice any changes in your goat's hooves, be sure to seek professional medical advice to ensure an accurate diagnosis and appropriate treatment.
+Additionally, certain types of [parasites](/can-goats-get-mites/), such as mites, can also infest goats' hooves and [cause irritation and discomfort](/can-alfalfa-pellets-cause-goats-to-bloat/). If you notice any changes in your goat's hooves, be sure to seek professional medical advice to ensure an accurate diagnosis and appropriate treatment.
 
 ## When is the best time to see a vet about hoof rot?
 

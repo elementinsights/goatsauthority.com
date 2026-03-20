@@ -50,7 +50,7 @@ In this article, we will take a look at the history of the Kiko goat and how the
 
 **Kiko goats originated in New Zealand in the 1980s. Farmers wanted a breed of goat that was hardy and could thrive in a variety of different climates.**
 
-**To create the Kiko goat, farmers used three different breeds of goats, the Saanen, Toggenburg, and British Alpine.**
+**To create the Kiko goat, farmers used three different [breeds of goats](/where-did-toggenburg-goats-originate/), the Saanen, Toggenburg, and British Alpine.**
 
 The name “Kiko” comes from the Maori word for “meat”. This is because the primary purpose of the Kiko [goat is to be used for meat production](/can-dogs-eat-goat-meat/).
 
@@ -97,7 +97,7 @@ Some of the other characteristics of Kiko goats include:
 - Hardiness. Kiko goats are known for their hardiness and ability to survive in harsh conditions.
 - Adaptability. Kiko goats are a very adaptable breed, able to thrive in both hot and cold climates.
 - Foraging ability. Kiko goats are very proficient at foraging, which makes them well-suited to life on a farm.
-- Good mothering instincts. Kiko goats make good mothers and are known for their strong maternal instincts.
+- Good mothering instincts. Kiko goats make [good mothers](/can-you-breed-a-6-yr-old-goat-for-first-time/) and are known for their strong maternal instincts.
 - Docile nature. Kiko goats are generally a very docile breed, making them good companion animals.
 
 If you are thinking about getting goats, the Kiko breed is a great option. They are hardy, adaptable, and make great companion animals.

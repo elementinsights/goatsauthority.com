@@ -33,7 +33,7 @@ Let’s talk more on this subject and see if we can clear things up.
 
 **The short answer is no, they should not eat moldy hay.**
 
-Goats are ruminants and have complex digestive systems. This system can handle many things but mold isn’t one of them.
+Goats are ruminants and have [complex digestive systems](/can-goats-digest-anything/). This system can handle many things but mold isn’t one of them.
 
 Mold in the diet could lead to serious health problems like respiratory issues or even poisoning.
 
@@ -63,13 +63,13 @@ Feeding goats can seem like a complex task. But once you know the basics, it’s
 
 Goats are ruminants, which means they have unique digestive systems.
 
-Their diet should be mainly hay or pasture. Fresh and clean is best for their health.
+Their diet should be mainly [hay](/what-kind-of-hay-do-goats-eat/) or pasture. Fresh and clean is best for their health.
 
 So what about moldy hay? Can goats eat that?
 
 The answer is no, don’t feed your goat moldy hay. It may harm them severely as it often contains harmful toxins.
 
-These toxins can cause illness in your goat such as respiratory issues or even more serious conditions like listeriosis and mycotic abortions.
+These toxins can cause illness in your goat such as respiratory issues or even more serious conditions like [listeriosis](/can-goats-eat-chicken-feed/) and mycotic abortions.
 
 To avoid these problems, always check the quality of the hay before feeding it to your goats.
 
@@ -85,11 +85,11 @@ These are harmful for your goat’s digestive system.
 
 The most common issue is a condition called mycotoxicosis. This happens when they ingest too many toxins from the mold.
 
-Symptoms include loss of appetite and changes in behavior like acting tired or depressed.
+Symptoms include [loss of appetite](/can-goats-eat-everything/) and changes in behavior like acting tired or depressed.
 
 In severe cases, these symptoms may progress into more dangerous conditions such as respiratory distress or even neurological disorders if left untreated over time.
 
-It’s also important to note that some molds found on hays produce aflatoxins which have been linked with liver damage in animals including goats.
+It’s also important to note that some molds found on hays produce aflatoxins which have been linked with [liver damage in animals](/can-goats-eat-poison-hemlock/) including goats.
 
 Remember prevention is always better than cure so keep their feed dry and fresh at all times. If you suspect any signs of illness due to ingestion of moldy food, consult your vet immediately.
 
@@ -103,7 +103,7 @@ These toxins are harmful to a goat’s health. They cause issues like respirator
 
 These may seem minor but they’re not.
 
-If your goat breathes in the spores from the mold, it could get lung infections or pneumonia. If your goat eats this bad hay, it might suffer from colic or bloat which can be deadly if left untreated.
+If your goat breathes in the spores from the mold, it could get lung infections or pneumonia. If your goat eats this bad hay, it might suffer from colic or [bloat](/can-alfalfa-pellets-cause-goats-to-bloat/) which can be deadly if left untreated.
 
 The effects of these illnesses on goats should never be underestimated as they can lead to serious complications including death in severe cases.
 
@@ -123,7 +123,7 @@ The short answer is no, goats should not eat moldy hay. Mold can be harmful to t
 
 It may cause respiratory issues or digestive problems like bloating and diarrhea.
 
-Mold produces toxins called mycotoxins which can harm your goat’s health in many ways including damaging the liver or kidneys over time.
+Mold produces toxins called mycotoxins which can harm your goat’s health in many ways including damaging the [liver or kidneys](/can-goats-eat-liquid-amber/) over time.
 
 Even if you don’t see visible signs of illness right away, long-term exposure could lead to serious health complications down the line.
 
@@ -145,7 +145,7 @@ On the other hand, Mycotoxicosis affects a goat’s digestive tract leading to d
 
 It’s crucial then that you always check your feed before giving it out. Mold isn’t always visible so when in doubt throw it away because no amount of money saved on feed is worth risking your beloved pet’s life.
 
-In conclusion: No moldy hay for goats! Always ensure they have fresh clean food instead.
+In conclusion: No moldy hay for goats! Always ensure they have [fresh clean food](/can-goats-eat-timothy-hay/) instead.
 
 ### Dangers of Feeding Goats on Moldy Hay
 
@@ -181,7 +181,7 @@ So it’s clear, no matter how hardy our four-legged friends might be; feeding t
 
 #### Goat Nutrition and the Role of Hay
 
-Hay plays a key role in goat nutrition. It’s the main food source for these animals, providing them with necessary fiber and nutrients.
+[Hay plays a key role in goat nutrition](/can-goats-eat-alfalfa/). It’s the main food source for these animals, providing them with necessary fiber and nutrients.
 
 When you’re feeding your goats hay, it should be clean and dry.
 
@@ -195,4 +195,4 @@ So if you notice any signs of mold on your hay, don’t feed it to your goats. I
 
 It’s also crucial to store hay properly so that it doesn’t get damp and develop mold growths over time.
 
-Remember always prioritize quality when choosing what type of food sources will best meet the nutritional needs of our four-legged friends!
+Remember always prioritize quality when choosing what type of [food sources](/can-goats-eat-straw/) will best meet the nutritional needs of our four-legged friends!

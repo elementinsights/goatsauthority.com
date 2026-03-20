@@ -52,7 +52,7 @@ In this article, we will discuss everything you need to know about Johne's disea
 
 **The reason for this is that Johne's disease is a contagious disease, and burying the goat will help to prevent the spread of the disease.**
 
-When burying a goat with Johne's disease, it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
+When burying a [goat with Johne's disease](/can-goats-carry-distemper/), it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
 
 It is also important to use a heavy-duty tarp when burying a goat with Johne's disease. The tarp will help to prevent the spread of the disease if the carcass should happen to leak fluids.
 
@@ -66,7 +66,7 @@ This bacteria is found in the environment, and it can [infect goats through cont
 
 The bacteria can also be [spread from goat to goat](/can-goats-spread-lice-to-llamas/) through contact with contaminated fecal matter. Once a goat is infected with the bacteria, it can take months or even years for the disease to develop.
 
-Johne's disease is a serious disease that can be fatal in goats. The symptoms of Johne's disease include weight loss, diarrhea, and loss of appetite.
+Johne's disease is a serious disease that can be fatal in goats. The [symptoms](/can-goats-have-a-stroke-anemia/) of Johne's disease include weight loss, diarrhea, and loss of appetite.
 
 If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
 
@@ -76,7 +76,7 @@ Johne's disease, also known as paratuberculosis, is a serious illness that affec
 
 Paratuberculosis, or MAP for short.
 
-This type of bacteria is highly contagious and can be transmitted through direct contact with infected animals as well as through indirect contact via contaminated water or food sources.
+This type of bacteria is highly contagious and can be transmitted through [direct contact with infected animals](/can-you-catch-diseases-from-goats/) as well as through indirect contact via contaminated water or food sources.
 
 The main symptoms of Johne's disease include persistent diarrhea, weight loss, [reduced milk production](/can-goat-milk-reduce-wrinkles/), and weakness and lethargy in the afflicted animal. If left untreated, this disease can have severe consequences for both individual animals and the wider goat population.
 
@@ -92,7 +92,7 @@ There are several steps that can be taken to help prevent Johne's disease in goa
 
 This means ensuring that their pens and enclosures are kept free of dirt, manure, and other debris that could harbor harmful bacteria or parasites.
 
-And also, you need to provide your goats with regular vaccinations and checkups with a licensed goat expert. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
+And also, you need to provide your goats with regular [vaccinations](/can-a-cdt-shot-kill-a-goat/) and checkups with a licensed goat expert. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
 
 Finally, another key component to preventing Johne's disease is the quality of their food. [Feeding your goats](/can-baking-soda-cause-urinary-issues-in-goats/) a high-quality diet that includes plenty of fresh fruits, vegetables, and protein will help boost their immune system, making them less susceptible to infection from disease-causing pathogens.
 
@@ -110,7 +110,7 @@ In severe cases, it may be necessary to euthanize the affected animal in order t
 
 There are several ways to test for Johne's disease in goats. The most common method is the fecal culture test, which involves taking a sample of the goat's feces and incubating it in a special culture medium.
 
-This allows the bacteria to grow, allowing goat experts to confirm the presence of MAP. Blood tests are also available, though they are not as accurate as fecal cultures.
+This allows the bacteria to grow, allowing goat experts to confirm the presence of MAP. [Blood tests](/can-any-diseases-spread-from-swine-to-goats/) are also available, though they are not as accurate as fecal cultures.
 
 However, they can be useful in cases where a goat is too young or sick to produce a feces sample. Ultimately, the best way to confirm a diagnosis of Johne's disease is through a combination of both fecal and blood testing.
 

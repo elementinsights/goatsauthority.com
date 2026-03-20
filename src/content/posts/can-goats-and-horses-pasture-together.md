@@ -58,7 +58,7 @@ Despite that, it's important to have a separate area for each animal to graze. [
 
 ## What is the difference between goats and horses?
 
-The main difference between goats and horses is that goats are browsers and horses are grazers. This means that goats prefer to eat leaves, twigs, and other woody plants, while horses prefer to eat grasses and other plants that grow close to the ground.
+The main difference between goats and horses is that goats are browsers and horses are grazers. This means that goats prefer to eat [leaves, twigs, and other woody plants](/can-goats-eat-any-plant/), while horses prefer to eat grasses and other plants that grow close to the ground.
 
 [Goats are also able to digest cellulose](/can-goats-digest-anything/) better than horses. This means that they can digest tough plants that horses would have trouble digesting.
 
@@ -110,9 +110,9 @@ This is a common question among those who are new to raising goats.
 
 While goats are generally considered to be independent animals, they can benefit from being grazing partners with horses.
 
-Horse manure is an excellent source of nutrients for goats, and the two animals can help keep each other's [grazing areas clean](/can-goats-be-tied-up-for-selective-area-grazing/).
+Horse manure is an excellent [source of nutrients for goats](/can-goats-eat-alfalfa/), and the two animals can help keep each other's [grazing areas clean](/can-goats-be-tied-up-for-selective-area-grazing/).
 
-Furthermore, goats can help horses to control weeds and parasites. When creating a goat-horse pasture, it's important to consider the needs of both species.
+Furthermore, goats can help horses to control [weeds](/can-goats-eat-dandelions/) and parasites. When creating a goat-horse pasture, it's important to consider the needs of both species.
 
 The pasture should be large enough to allow each animal plenty of space to graze, and it should have access to shelter from the sun and wind. Water should also be readily available.
 
@@ -126,7 +126,7 @@ Some animals get along better than others and can graze peacefully together, whi
 
 You also need to consider the size of the animals. If you have large and small animals grazing together, the smaller ones may have a hard time getting their share of food.
 
-Another thing to think about is the type of pasture. Some plants are more palatable than others, so you'll need to make sure there's a good mix of grasses and other plants for the animals to graze on.
+Another thing to think about is the type of pasture. Some plants are more palatable than others, so you'll need to make sure there's a good mix of [grasses and other plants](/can-goats-eat-centipede-grass/) for the animals to graze on.
 
 Lastly, you need to be aware of the potential for disease transmission. When animals graze together, they can easily spread diseases between them.
 

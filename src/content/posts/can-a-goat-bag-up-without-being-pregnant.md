@@ -50,7 +50,7 @@ And also, we will explore the signs and symptoms of a goat in heat, as well as s
 
 ## Can a goat bag up without being pregnant?
 
-**A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during pregnancy.**
+**A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during [pregnancy](/can-a-goat-form-an-udder-without-being-pregnant/).**
 
 **Without pregnancy, there's no stimulus for the goat's body to produce milk-producing cells in the mammary glands.**
 
@@ -60,13 +60,13 @@ For these reasons, it's impossible for a Goat to produce milk without being preg
 
 ## What are the signs and symptoms of a goat in heat?
 
-One of the first signs that a doe is in heat is that she will begin to urinate more frequently. She may also urinate on herself, or rub her hindquarters against objects.
+One of the first signs that a doe is [in heat](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/) is that she will begin to urinate more frequently. She may also urinate on herself, or rub her hindquarters against objects.
 
 Another sign of heat is restlessness; a doe in heat may pace back and forth or switch her tail excessively. She may also bleat more often than usual, and she may become more aggressive towards other goats.
 
 If you suspect that a doe is in heat, the best way to confirm it's to observe her behavior over several days. If she continues to exhibit these signs for two to three days, then she is likely in heat.
 
-Some farmers choose to breed theirs during the fall so that the kids will be born in the spring. This allows the young goats to graze on grass and other vegetation that is more plentiful during the warmer months.
+Some farmers choose to [breed](/can-a-goat-and-lamb-breed/) theirs during the fall so that the kids will be born in the spring. This allows the young goats to graze on grass and other vegetation that is more plentiful during the warmer months.
 
 It also ensures that there will be enough food for the does who are nursing their young.
 
@@ -74,7 +74,7 @@ If you do choose to breed your does during the fall, it's important to keep an e
 
 ## How can you tell if a goat is pregnant?
 
-There are a number of ways to tell if a goat is pregnant. One of the most obvious signs is a change in the size and shape of the goat's udder.
+There are a number of ways to tell if a goat is pregnant. One of the most obvious signs is a change in the size and shape of the [goat's udder](/can-a-goat-form-an-udder-without-being-pregnant/).
 
 As the goat's due date approaches, her udder will become larger and more rounded, with the teats lengthening and pointing downwards.
 
@@ -106,11 +106,11 @@ It's important to note that goats bred for dairy products are typically bred twi
 
 As a result, it's not unusual for a dairy goat to be pregnant and lactating at the same time.
 
-Goats are induced ovulators, which means that they will ovulate in response to mating. This means that it's possible to get an accurate estimate of the due date by counting back from the date of mating.
+Goats are induced ovulators, which means that they will ovulate in response to [mating](/can-a-goat-breed-with-sheep/). This means that it's possible to get an accurate estimate of the due date by counting back from the date of mating.
 
-Although it's also worth noting that goats have been known to conceive twins or even triplets, so the due date may be less certain if more than one kid is expected.
+Although it's also worth noting that goats have been known to conceive [twins or even triplets](/how-many-babies-do-goats-have-at-a-time/), so the due date may be less certain if more than one kid is expected.
 
-Once the kids are born, they will typically be weaned at around eight weeks of age. But some kids may be kept with their mothers for longer in order to benefit from their milk production.
+Once the [kids are born](/can-a-goat-have-babies-a-week-apart/), they will typically be weaned at around eight weeks of age. But some kids may be kept with their mothers for longer in order to benefit from their [milk production](/can-a-goat-feed-quads/).
 
 After weaning, kids will typically be ready for slaughter at around four to six months old.
 
@@ -158,6 +158,6 @@ Watch for changes in appetite, drinking habits, or behavior. If you notice anyth
 
 ## Final Thoughts
 
-A goat cannot bag up without being pregnant. Bagging up is one of the first signs of pregnancy in goats, and it typically occurs within the first month or two of gestation.
+A goat cannot bag up without being pregnant. Bagging up is one of the first [signs of pregnancy](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/) in goats, and it typically occurs within the first month or two of gestation.
 
 If you suspect your goat may be pregnant, it's important to monitor her closely and provide proper care to ensure a healthy pregnancy.

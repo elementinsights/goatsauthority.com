@@ -50,7 +50,7 @@ In this article, we will answer those questions and provide you with additional 
 
 **You also need to make sure that your goat is healthy and up to date on its vaccinations.**
 
-Before you take your goat out for a walk, you should also brush it and check its hooves. This will help prevent any problems while you are out walking.
+Before you take your goat out for a walk, you should also brush it and [check its hooves](/can-i-remove-my-goat-full-grown-horns/). This will help prevent any problems while you are out walking.
 
 When you are ready to go, put a leash on your goat and enjoy the walk. Just be sure to clean up after your goat and keep an eye on it, as they can be curious creatures.
 
@@ -62,11 +62,11 @@ First, you [need to make sure that your goats have access to fresh water](/can-i
 
 You should also provide them with hay or straw to help them stay healthy.
 
-Second, you need to keep an eye on their hooves and trim them when necessary. This will help prevent problems such as overgrown hooves and foot rot.
+Second, you need to keep an eye on their hooves and trim them when necessary. This will help prevent problems such as [overgrown hooves](/can-you-band-a-2-year-old-buck-goat/) and foot rot.
 
-Third, you need to make sure that your goats are vaccinated. Goats can get a variety of diseases, so it is important to keep them up to date on their shots.
+Third, you need to make sure that your goats are vaccinated. [Goats can get a variety of diseases](/can-i-have-goats-where-i-live/), so it is important to keep them up to date on their shots.
 
-Finally, you should brush your goats regularly. This will help remove any dirt, debris, or parasites that could be living in their fur.
+Finally, you should brush your goats regularly. This will help remove any dirt, debris, or [parasites](/can-you-describe-a-herd-of-sheep-and-goats/) that could be living in their fur.
 
 Taking care of goats in Skippack PA is not difficult, but it does require some time and effort. If you are willing to put in the work, you will be rewarded with the companionship of these fun and friendly creatures.
 
@@ -88,7 +88,7 @@ Second, you should stay on designated trails. This will help you avoid areas whe
 
 Third, you should keep an eye on your goat at all times. They can be curious creatures and may try to eat things they shouldn’t.
 
-If you see your goat eating something, you should remove it from their mouth and discard it.
+If you see your goat [eating something](/can-my-goats-eat-horse-treats/), you should remove it from their mouth and discard it.
 
 Lastly, you should clean up after your goat. This will help prevent the spread of disease and parasites.
 
@@ -116,7 +116,7 @@ Second, it is a great [form of exercise for both you and your goat](/can-a-goat-
 
 Third, it can help socialize your goat. If you take your goat to different places, they will have the opportunity to meet new people and animals.
 
-This can help them become more well-rounded and less shy.
+This can help them become more [well-rounded](/can-i-have-goats-in-monroe-county-ny/) and less shy.
 
 Lastly, it is a great way to explore Skippack PA. Walking with your goat will allow you to see parts of the town you might not have seen before.
 
@@ -130,7 +130,7 @@ First, your goat could get lost. If you take your goat off of a leash, they may 
 
 Be sure to keep an eye on your goat at all times and keep them on a leash to prevent this from happening.
 
-Second, your goat could get injured. If you take your goat on a hike, they may step on something sharp or come into contact with a hazardous plant.
+Second, your goat could get injured. If you take your goat on a hike, they may step on something sharp or come into contact with a [hazardous plant](/can-i-mix-newborn-goats-and-older-goats/).
 
 Be sure to stay on designated trails and keep an eye on your goat to prevent this from happening.
 

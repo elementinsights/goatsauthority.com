@@ -80,9 +80,9 @@ They form strong bonds with their owners and enjoy spending time with them. They
 
 Thirdly, goats are relatively low-maintenance pets. They don't require a lot of space, and they can live on a diet of hay and pellets.
 
-fourth, goats can provide dairy products such as milk and cheese.
+fourth, goats can provide dairy products such as [milk](/can-i-raise-goats-for-milk-protein/) and cheese.
 
-And finally, goats can be used for their fur or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
+And finally, goats can be used for their [fur](/can-male-pygmy-goats-have-long-hair/) or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
 
 ## How to care for your new goat friend?
 
@@ -130,7 +130,7 @@ Here are a few fun facts about goats:
 - [Goats are able to climb mountains](/can-mountain-goats-climb-cliffs/) and live in high altitudes.
 - Goats have an excellent sense of smell and can be trained to be detection animals.
 - Goats are known for their distinctive "beards", which are actually long hairs that grow on the chin and throat.
-- Male goats are called "bucks" while female goats goats are called "does".
+- Male goats are called "bucks" while female goats goats are called "[does](/can-i-have-goats-where-i-live/)".
 - Young goats are called "kids".
 - A group of goats is known as a "flock" or a "herd".
 - [Goats are proficient swimmers](/can-a-goat-swim-everything-you-need-to-know/) and have been known to swim for miles.

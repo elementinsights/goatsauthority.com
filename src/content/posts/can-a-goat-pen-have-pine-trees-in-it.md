@@ -48,7 +48,7 @@ We will answer all of these questions for you so that you can be sure whether or
 
 **It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats.**
 
-**They can also help keep the goats cool in the summer and warm in the winter, as well as provide them with a place to play and exercise.**
+**They can also help keep the [goats cool in the summer and warm in the winter](/can-weather-affect-goats-poop/), as well as provide them with a place to play and exercise.**
 
 However, it's important to make sure that the [pine trees are not poisonous to goats](/can-pine-chips-be-used-as-bedding-for-goats/). Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
 
@@ -58,7 +58,7 @@ Finally, you will need to prune the pine trees regularly to keep them from getti
 
 ## How many pine trees should be in a goat pen?
 
-Depending on the size of your goat pen, you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
+Depending on the size of your [goat pen](/can-a-goat-barn-be-12x-2/), you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
 
 Despite that, if you have a larger pen, then you will need to plant more trees. The number of pine trees that you will need to plant will also depend on the climate.
 
@@ -104,7 +104,7 @@ Bundling helps to protect the seedlings from being trampled, and it also makes i
 
 ## What kind of maintenance is required for pine trees in a goat pen?
 
-Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and shelter for goats.
+Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and [shelter for goats](/can-goats-be-kept-in-the-house/).
 
 Despite that, pine trees do require some maintenance in order to stay healthy and look their best.
 
@@ -125,7 +125,7 @@ Pine needles are also sharp, so they may scratch the goats or get caught in thei
 
 Finally, pine trees produce sap, which can be sticky and attract insects. If the sap gets on the goats, it could cause skin irritations.
 
-For these reasons, it's crucial to monitor goats carefully if there are pine trees in their pen.
+For these reasons, it's crucial to monitor goats carefully if there are [pine trees in their pen](/can-goats-climb-fences/).
 
 ## Final Thoughts
 

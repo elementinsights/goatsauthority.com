@@ -42,7 +42,7 @@ faq:
     answer: "There are a few reasons why you might want to consider banding your goat. For one thing, it can help to prevent overgrooming."
 ---
 
-It's not uncommon for people to wonder if they are able to band a 2-year-old buck goat or not. And if so, what are the things you need to consider before doing so?
+It's not uncommon for people to wonder if they are able to [band a 2-year-old buck goat](/can-you-band-a-goat-at-3-years-old/) or not. And if so, what are the things you need to consider before doing so?
 
 We will answer those questions in this article and provide you with additional information on goats in general so that you can make the best decision for your situation.
 
@@ -60,8 +60,8 @@ Second, you need to be careful not to put the bands on too tight as this can cau
 
 Banding a goat is the process of putting a rubber ring around the base of their scrotum in order to castrate them. This is usually done for one of two reasons:
 
-- To help control the goat population
-- To stop the goat from mating
+- To help [control the goat population](/can-i-have-goats-where-i-live/)
+- To [stop the goat from mating](/can-you-breed-a-father-and-daughter-goat/)
 
 Banding a 2-year-old buck goat is something that you can do if you need to, but there are a few things you need to consider first.
 
@@ -108,7 +108,7 @@ So do yourself (and your goat) a favor and make sure to get them properly banded
 
 There are a few things you can do to prevent your goat from getting loose. One is to make sure their enclosure is secure.
 
-This means ensuring that the fence is tall enough and made of sturdy materials. You should also check the fence regularly for holes or gaps.
+This means ensuring that the [fence is tall enough](/can-goats-climb-fences/) and made of sturdy materials. You should also check the fence regularly for holes or gaps.
 
 Another way to keep your goat contained is to use a collar and leash. This is especially effective if you have a goat that likes to wander.
 
@@ -122,7 +122,7 @@ This will help to remove any dirt or debris that they may have picked up while t
 
 You should also check them for ticks or fleas. If you find any, you will need to remove them and treat the area with a topical ointment.
 
-Finally, you should give your goat a thorough examination to make sure they did not injure themselves while they were out. If you find any cuts or scrapes, you will need to clean and bandage them.
+Finally, you should give your goat a [thorough examination](/can-i-remove-my-goat-full-grown-horns/) to make sure they did not injure themselves while they were out. If you find any cuts or scrapes, you will need to clean and bandage them.
 
 With a little preparation, you can help to ensure that your goat stays safe and healthy. By banding them and keeping their enclosure secure, you can help to prevent them from getting loose.
 
@@ -132,11 +132,11 @@ And if they do happen to escape, you will know how to properly treat them.
 
 Though often thought of as dirty and smelly animals, goats are actually very clean and have a natural scent that is pleasing to humans.
 
-They are also intelligent and can be trained to perform tricks or tasks. In addition, goats are very social creatures and enjoy spending time with other goats as well as with humans.
+They are also intelligent and can be [trained to perform tricks](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) or tasks. In addition, goats are very social creatures and enjoy spending time with other goats as well as with humans.
 
 Did you know that there are over 300 different [breeds of goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/)? And that they come in all sorts of colors, from black and white to brown and red?
 
-Some people even keep miniature goats as pets. So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
+Some people even keep [miniature goats as pets](/can-male-pygmy-goats-have-long-hair/). So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
 
 ## Final Thoughts
 
