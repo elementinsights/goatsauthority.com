@@ -134,7 +134,7 @@ This is because crossbreeds are often more resistant to disease and pests, and t
 
 With proper care, the offspring of a Nigerian buck goat and a female boer goat can expect to live between 10 and 12 years.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, Nigerian dwarf goats make excellent breeding partners for female boer goats.
 

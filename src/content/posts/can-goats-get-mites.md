@@ -79,7 +79,7 @@ If your goat is continually scratching and seems to be in discomfort, it may be 
 
 Another sign to look for is hair loss. Mites can [cause goats to lose patches of hair](/can-contact-with-goats-cause-diarrhea-in-humans/), which may leave their skin exposed and vulnerable to further irritation.
 
-Lastly, mites can also lead to secondary infections. If you notice any of these signs, it's crucial to seek goat expert attention as soon as possible to prevent the infestation from spreading.
+Finally, mites can also lead to secondary infections. If you notice any of these signs, it's crucial to seek goat expert attention as soon as possible to prevent the infestation from spreading.
 
 ## How to treat a goat for mites?
 
@@ -133,7 +133,7 @@ Finally, there is the Sarcoptes scabies mite, which is the most dangerous of all
 
 If left untreated, this type of mite can cause anemia and even death.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can get mites, but there are a few things you can do to treat and prevent them. With some care and attention, you can keep your goats healthy and free of pests.
 

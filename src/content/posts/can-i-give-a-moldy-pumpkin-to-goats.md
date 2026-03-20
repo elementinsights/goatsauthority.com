@@ -134,7 +134,7 @@ There are many alternative foods that you can give your goats. Some examples inc
 
 You should always consult with a veterinarian or animal nutritionist to determine which foods are best for your particular herd.
 
-## Final Thoughts
+## The Bottom Line
 
 You cannot give a moldy pumpkin to goats. If they eat it, they could get sick.
 

@@ -126,7 +126,7 @@ Goat-sheep hybrids are typically more expensive than traditional goats or sheep,
 
 Despite these concerns, there's still much excitement about the future of goat-sheep hybrids. These animals have the potential to greatly improve meat and dairy products around the world, and many farmers are eager to get started with them.
 
-## Final Thoughts
+## What to Remember
 
 A goat can breed with a sheep, and the resulting offspring is called a geep. Geeps are very rare, and they usually have the head of a goat and the [body of a sheep](/can-a-goat-have-babies-a-week-apart/).
 

@@ -46,7 +46,7 @@ faq:
 
 Many people are wondering if goats can cause slope failure or not. And if so, what is the best way to deal with this problem?
 
-In this article, we will answer all of your questions regarding goats and slope failure. We'll also provide some tips on how to deal with this problem if it does occur.
+we will answer all of your questions regarding goats and slope failure. We'll also provide some tips on how to deal with this problem if it does occur.
 
 ## Can goats cause slope?
 
@@ -142,7 +142,7 @@ As a result, using goats to clear land may require close supervision to ensure t
 
 Finally, goats reproduce quickly and can quickly become a nuisance if their population is not kept in check. For these reasons, you need to consider all of the potential drawbacks before using goats for land clearing
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goats can be an effective tool for slope stabilization. Their ability to eat vegetation helps to keep the ground in place and their hooves compact the soil, making it less likely to erode.
 

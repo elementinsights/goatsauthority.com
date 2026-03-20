@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if it's okay to give your kids goat milk ayurveda or not. And if so, what are the benefits and risks?
 
-In this article, we will answer all of your questions and provide you with some tips on how to incorporate goat milk ayurveda into your child's diet safely.
+Read on for the full breakdown.we will answer all of your questions and provide you with some tips on how to incorporate goat milk ayurveda into your child's diet safely.
 
 ## Can children have goat milk ayurveda?
 
@@ -124,7 +124,7 @@ Pasteurized goat milk is safe for children to consume, as it will not harbor any
 
 That's why it's so important to make sure that any goat milk your child consumes is pasteurized.
 
-## Final Thoughts
+## What to Remember
 
 Children can have goat milk ayurveda, as it's easy to digest and contains more vitamins and minerals than cow's milk. However, it's important to choose milk that has been sourced from healthy, pasture-raised goats.
 

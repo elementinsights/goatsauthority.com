@@ -195,7 +195,7 @@ You’ll need to feed your kids often at first, about every four hours works wel
 
 After that time period, reduce the frequency gradually over several months as they start eating solid food more regularly and drinking water independently.
 
-**Remember not all kids are alike**.  Monitor their health closely during this process.
+**Remember not all kids are alike**. Monitor their health closely during this process.
 
 ### Nursed by Dam or Separated From Dam
 
@@ -239,7 +239,7 @@ But remember, moderation is key here as well because too much could upset their 
 
 **However, one should not rely solely on cow’s milk for nour**ishment post-weaning. Goat kids also require [solid food such as grains](/can-my-infant-goat-kid-eat-grain/) and hay to ensure balanced nutrition.
 
-In conclusion, while cow’s milk can supplement a goat kid’s diet after weaning, [variety in feed](/can-goats-eat-corn/) remains vital for overall health and proper growth.
+In short, while cow’s milk can supplement a goat kid’s diet after weaning, [variety in feed](/can-goats-eat-corn/) remains vital for overall health and proper growth.
 
 ### Weaning Method for Baby Goats
 

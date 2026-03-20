@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether or not you can use Germall plus in goat milk lotion. And if so, what are the things you need to consider before using it?
 
-In this article, we will answer those questions about using Germall plus in goat milk lotion, as well as provide some tips and facts about this preservative.
+we will answer those questions about using Germall plus in goat milk lotion, as well as provide some tips and facts about this preservative.
 
 ## Can I use Germall Plus in goat milk lotion?
 
@@ -98,7 +98,7 @@ Because it is non-toxic and mild, Germall Plus can be safely incorporated into a
 
 In addition to its antimicrobial properties, Germall Plus also has several other benefits for skin care. For example, it can help to balance pH levels and maintain proper hydration levels in the skin.
 
-Furthermore, it can help to soothe [irritations like dryness](/can-i-suture-my-goat/) or flaking, as well as prevent breakouts caused by acne-causing bacteria.
+Plus, it can help to soothe [irritations like dryness](/can-i-suture-my-goat/) or flaking, as well as prevent breakouts caused by acne-causing bacteria.
 
 Overall, Germall Plus is an ideal preservative for any personal care product looking for long-lasting protection from the effects of bacteria and other microbes.
 
@@ -124,7 +124,7 @@ Germall Plus should be added to the lotion during the cool-down phase after the 
 
 To make sure the [preservative](/can-i-put-safeguard-in-my-goats-milk/) works optimally, stir it well into the mixture until it is completely dissolved. Keep in mind that Germall Plus must be dissolved before use; stirring thoroughly beforehand will guarantee its effectiveness.
 
-## Final Thoughts
+## The Bottom Line
 
 You can use Germall Plus in your goat milk lotion, but you should consider the pH of your product and perform a patch test prior to use.
 

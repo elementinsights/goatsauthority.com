@@ -42,13 +42,13 @@ faq:
     answer: "Goats are social creatures that enjoy the company of other goats, as well as humans. When taming a goat, it's crucial to building up a bond of trust and respect."
 ---
 
-Taking care of goats can be a very rewarding experience. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and fiber.
+Goats are hardy animals, but they still depend on good management. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and fiber.
 
 Goats are relatively easy to take care of, but there are a few things you need to know before getting started.
 
 One of the most important [things to consider when raising goats](/can-a-dog-get-sick-from-a-goat/) is whether or not they can be tamed. And if so, what is the best way to go about it?
 
-In this article, we will answer the question "can goats be tamed?" and provide you with a few tips on how to tame them.
+we will answer the question "can goats be tamed?" and provide you with a few tips on how to tame them.
 
 ## Can goats be tamed?
 

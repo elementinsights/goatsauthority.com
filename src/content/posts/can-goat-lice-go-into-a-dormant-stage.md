@@ -44,7 +44,7 @@ faq:
 
 You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case?
 
-In this article about goat lice and dormancy, we will address all of your concerns and provide all the information you require.
+Here's what you need to know.about goat lice and dormancy, we will address all of your concerns and provide all the information you require.
 
 ## Can goat lice go into a dormant stage?
 
@@ -145,7 +145,7 @@ There are a number of different treatment options available for goat lice. The m
 
 In most cases, a single treatment is sufficient to eliminate the infestation. However, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
 
-## Final Thoughts
+## What to Remember
 
 Goat lice can go into a dormant stage when food availability is low. This can happen when goats are not well-groomed or when they live in cramped, unsanitary conditions.
 

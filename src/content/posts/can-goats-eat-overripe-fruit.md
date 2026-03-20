@@ -44,7 +44,7 @@ faq:
 
 Many people are wondering if goats can eat overripe fruit or not. And if so, what are the things to consider?
 
-In this article, we will answer those questions and give you more information about goats and their diet. We will also discuss the [nutritional value of overripe fruit for goats](/can-i-give-a-moldy-pumpkin-to-goats/) and the benefits that they can get from it.
+we will answer those questions and give you more information about goats and their diet. We will also discuss the [nutritional value of overripe fruit for goats](/can-i-give-a-moldy-pumpkin-to-goats/) and the benefits that they can get from it.
 
 ## Can goats eat overripe fruit?
 
@@ -134,7 +134,7 @@ Overripe avocados can be mashed and used as a spread or dip. And overripe tomato
 
 While overripe fruit may not be ideal for fresh eating, with a little creativity, it can still be used in a variety of dishes.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can eat overripe fruit](/can-goats-eat-grapes/), but there are some risks to consider. Overripe fruit is high in sugar, which can [cause digestive problems in goats](/can-goats-cause-slope/).
 

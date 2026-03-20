@@ -70,7 +70,7 @@ And while there are many types of over-the-counter medications available on the 
 
 There are numerous benefits to giving Pepto Bismol to goats. For one, this over-the-counter medication can help alleviate digestive issues by soothing the stomach and reducing inflammation.
 
-Additionally, it can help to promote optimal [gut health](/can-you-debloat-a-goat/) by boosting the production of beneficial gut bacteria. Furthermore, Pepto Bismol has been shown to be effective in speeding up recovery time after an illness or injury.
+Additionally, it can help to promote optimal [gut health](/can-you-debloat-a-goat/) by boosting the production of beneficial gut bacteria. What's more, Pepto Bismol has been shown to be effective in speeding up recovery time after an illness or injury.
 
 And finally, this medication is generally very well tolerated by goats, with few side effects when administered at recommended doses.
 

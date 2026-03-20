@@ -45,7 +45,7 @@ Taking care of a baby is a full-time job. If you’re a new mom, you might be wo
 
 And if so, what are the things you need to consider?
 
-In this article, we will answer those questions regarding eating goats for [postpartum women](/can-you-drink-goat-milk-while-pregnant/). We’ll also discuss the nutrients found in goat meat and how they can benefit you and your baby.
+we will answer those questions regarding eating goats for [postpartum women](/can-you-drink-goat-milk-while-pregnant/). We’ll also discuss the nutrients found in goat meat and how they can benefit you and your baby.
 
 ## Can postpartum women eat goats?
 

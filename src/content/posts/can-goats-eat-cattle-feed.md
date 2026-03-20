@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if goats can eat cattle feed since they are both members of the Bovidae family. And if so, what are the benefits and risks associated with this diet?
 
-In this article, we'll explore the answers to these questions and more, so you can make an informed decision about what's best for your goats.
+we'll explore the answers to these questions and more, so you can make an informed decision about what's best for your goats.
 
 ## Can goats eat cattle feed?
 
@@ -126,7 +126,7 @@ Another option is to purchase feed from a local farm or Feed store. This is a go
 
 Finally, you can also supplement your goats' diet with kitchen scraps or other leftover food. While you need to make sure that your goats are getting the nutrients they need, a little variety in their diet can go a long way toward keeping them healthy and happy.
 
-## Final Thoughts
+## Summary
 
 Goats are intelligent creatures with specific dietary needs. Cattle feed can be a good option for goats, but you need to choose the right type and provide a balance of hay and grain.
 

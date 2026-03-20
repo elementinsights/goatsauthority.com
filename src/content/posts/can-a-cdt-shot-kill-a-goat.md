@@ -42,9 +42,9 @@ faq:
     answer: "The signs of CDT include lethargy, loss of appetite, diarrhea, dehydration, and fever."
 ---
 
-Many people are concerned about the safety of the CDT vaccine for goats. In this article, we'll answer the question: "Can a CDT shot kill a goat?" And we'll take a look at the risks, effects, and FAQs about this important topic.
+Many people are concerned about the safety of the CDT vaccine for goats. we'll answer the question: "Can a CDT shot kill a goat?" And we'll take a look at the risks, effects, and FAQs about this important topic.
 
-Lastly, we'll also explore the different types of CDT vaccines available, as well as the recommended vaccination schedule for goats.
+And finally, we'll also explore the different types of CDT vaccines available, as well as the recommended vaccination schedule for goats.
 
 ## Can a CDT shot kill a goat?
 
@@ -90,7 +90,7 @@ The most common side effect is soreness at the injection site. In rare cases, th
 
 Tetanus is another potential risk, but it can be prevented by vaccinating goats against CDT.
 
-Furthermore, the CDT shot is an important vaccine that helps to protect against two potentially deadly diseases. Overall, the benefits of the CDT shot outweigh the risks.
+And, the CDT shot is an important vaccine that helps to protect against two potentially deadly diseases. Overall, the benefits of the CDT shot outweigh the risks.
 
 ## Types of CDT Vaccines Available for goats
 
@@ -114,7 +114,7 @@ There are a few things to keep in mind when creating a vaccination schedule for 
 
 First, consider the age and health of your animals. [Young goats](/can-i-worm-my-three-day-old-goat/) are typically more vulnerable to disease, so they may need to be vaccinated more frequently than older goats.
 
-Secondly, think about the environment in which your goats live. If they are [exposed to other animals](/can-any-diseases-spread-from-swine-to-goats/), they may be at greater risk for contracting diseases.
+Then, think about the environment in which your goats live. If they are [exposed to other animals](/can-any-diseases-spread-from-swine-to-goats/), they may be at greater risk for contracting diseases.
 
 Finally, consider the specific needs of your herd. If you have any animals that are [pregnant or nursing](/can-pregnant-goats-eat-medicated-feed/), they will have different vaccination requirements than other members of your herd.
 
@@ -144,7 +144,7 @@ The CDT shot is available from most large animal veterinarians. You can also pur
 
 The signs of CDT include [lethargy](/can-a-goat-get-sick-from-cold/), loss of appetite, diarrhea, dehydration, and fever. In severe cases, goats may also experience seizures, paralysis, and death.
 
-## Final Thoughts
+## Wrapping Up
 
 The CDT shot is a core vaccine for goats and should be given on a regular basis to help prevent this deadly disease.
 

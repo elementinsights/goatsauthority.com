@@ -42,7 +42,7 @@ faq:
 
 It is difficult to determine whether or not you can feed your goat leftovers. And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions and provide you with additional information on goats and their dietary needs.
+Read on for the full breakdown.we will answer those questions and provide you with additional information on goats and their dietary needs.
 
 ## Can I feed my goat leftovers?
 
@@ -133,7 +133,7 @@ Another option is to bake the feed into bread or scones, adding an extra boost o
 
 No matter how you choose to use your leftover [goat food](/can-sheep-eat-goat-food/), one thing is certain: with a little creativity and some simple cooking techniques, there is no limit to what you can make with this nutritious ingredient.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, feeding your goat leftovers is a great way to provide them with extra nutrients and energy. However, it is important to be mindful of what types of foods you feed them and to avoid any that could potentially be harmful.
 

@@ -46,7 +46,7 @@ faq:
 
 It is difficult to determine whether or not male goats can eat grain. And if so, what are the things you need to consider before feeding them this food?
 
-In this article, we will answer those questions and provide you with additional information about goat nutrition and the benefits of grain for goats.
+we will answer those questions and provide you with additional information about goat nutrition and the benefits of grain for goats.
 
 ## Can male goats eat grain?
 
@@ -58,7 +58,7 @@ If you want to feed your male goat grain as part of a balanced diet, then cook a
 
 While feeding male goats a grain-rich diet may seem like a good idea, there are certain risks that should be considered. For one thing, grain is highly caloric, and can lead to obesity in goats if consumed in excess.
 
-Furthermore, too much grain can cause digestive problems and other health issues. In addition, overfeeding male goats has been shown to compromise the effectiveness of their [breeding processes](/can-pregnant-goats-eat-medicated-feed/), which could have far-reaching consequences for animal populations.
+And, too much grain can cause digestive problems and other health issues. In addition, overfeeding male goats has been shown to compromise the effectiveness of their [breeding processes](/can-pregnant-goats-eat-medicated-feed/), which could have far-reaching consequences for animal populations.
 
 With all of this in mind, it is clear that feeding male goats grain should be done carefully and only after careful consideration of their individual health needs.
 
@@ -132,7 +132,7 @@ Another benefit is that grain can provide the goat with extra energy. However, t
 
 These risks include digestive problems, health issues, and breeding problems. Therefore, it is important to talk to a goat expert about the best way to feed grain to your male goat.
 
-## Final Thoughts
+## What to Remember
 
 Male goats can develop a condition called urinary calculi, which can be very painful and potentially life-threatening.
 

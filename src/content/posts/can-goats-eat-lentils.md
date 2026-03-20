@@ -35,7 +35,7 @@ faq:
   - question: "What are lentils and what do they offer nutritionally?"
     answer: "Lentils are a type of legume that is commonly used in Indian and Middle Eastern cooking. They are an excellent source of protein and fiber, and they are also low in calories and fat. Lentils are a good source of iron, folate, and manganese."
 ---
-Taking care of goats can be a fun and rewarding experience, but it's important to make sure they're getting the proper nutrition. So, can goats eat lentils?
+Raising goats is a hands-on commitment. So, can goats eat lentils?
 
 And if so, what are the things to consider?
 
@@ -101,7 +101,7 @@ In addition to the above tips, there are a few other things to keep in mind when
 
 And also, you need to mix lentils with other goat feeds such as hay or grain. This will help prevent your goats from becoming bored with their food and ensure that they are getting a well-rounded diet.
 
-Lastly, be sure to always offer fresh water along with any dry feeds like lentils. [Goats need access to plenty of water](/can-i-give-a-sick-goat-water-through-a-syringe/) in order to stay hydrated and healthy.
+Finally, be sure to always offer fresh water along with any dry feeds like lentils. [Goats need access to plenty of water](/can-i-give-a-sick-goat-water-through-a-syringe/) in order to stay hydrated and healthy.
 
 By following these tips, you can successfully add lentils to your goat's diet without any problems. Lentils are a great source of nutrition for goats and can help them stay healthy and happy.
 
@@ -131,7 +131,7 @@ Additionally, lentils are low in calories and fat, making them a healthy choice 
 
 Finally, lentils contain phytochemicals, which have been linked to a number of [health benefits](/can-goats-eat-gum-tree-leaves/), including reducing the risk of some chronic diseases.
 
-## Final Thoughts
+## What to Remember
 
 Overall, [goats can eat lentils](/can-goats-eat-grapes/) without any problems. Lentils are a nutritious and versatile food that can be easily added to a goat's diet.
 

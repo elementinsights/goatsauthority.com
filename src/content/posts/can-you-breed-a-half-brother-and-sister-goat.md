@@ -47,7 +47,7 @@ We all know that inbreeding is generally not a good idea. It can lead to health 
 
 So, what about line breeding? Can you breed a half-brother and sister goat?
 
-In this article, we'll discuss [line breeding](/can-you-breed-a-father-and-daughter-goat/), inbreeding, and some of the pros and cons to help you make the best decision for your herd.
+We'll cover everything below.we'll discuss [line breeding](/can-you-breed-a-father-and-daughter-goat/), inbreeding, and some of the pros and cons to help you make the best decision for your herd.
 
 ## Can you breed a half-brother and sister goat?
 
@@ -139,7 +139,7 @@ However, inbreeding can also cause animals to inherit genes for diseases and oth
 
 As a result, it is important to be aware of the [risks before you decide to inbreed your goats](/can-a-cdt-shot-kill-a-goat/).
 
-## Final Thoughts
+## Summary
 
 Overall, inbreeding can have both [benefits and risks](/can-a-pregnant-goat-have-penicillin/). Be sure to weigh the pros and cons carefully before deciding whether or not to inbreed your goats.
 

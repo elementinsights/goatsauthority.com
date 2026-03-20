@@ -48,7 +48,7 @@ In particular, the drug ivermectin has long been used to treat parasites in goat
 
 And if so, what is the best way to do it?
 
-In this article, we will answer those questions and provide you with advice on the best way to administer ivermectin to your goats.
+Here's what you need to know.we will answer those questions and provide you with advice on the best way to administer ivermectin to your goats.
 
 ## Can you do oral and injection of ivermectin at the same time in goats?
 
@@ -122,7 +122,7 @@ One way to help ensure that your goats receive the correct dosage of medication 
 
 If you're having difficulty getting your goats to consume their medication, directly administering the dose into their mouths with a syringe can be more effective. Though it may take some practice at first, soon you'll be able to do it without any trouble.
 
-## Final Thoughts
+## What to Remember
 
 Overall, ivermectin is a safe and effective way to treat parasites in goats. When used correctly, it can help protect your animals from the dangers of parasites while also providing them with relief from common symptoms.
 

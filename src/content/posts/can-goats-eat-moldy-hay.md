@@ -51,7 +51,7 @@ This sickness might not show up right away but could cause long-term health prob
 
 The toxins produced by certain types of mold found in old or damp hay can harm the liver and other organs over time. They may also affect a goat’s digestive system negatively causing discomfort and bloating.
 
-In conclusion, while goats have robust digestive systems capable of breaking down many tough plants and materials, feeding them moldy hay should be avoided due to potential health risks involved.
+So, while goats have robust digestive systems capable of breaking down many tough plants and materials, feeding them moldy hay should be avoided due to potential health risks involved.
 
 #### the Basics of Goat Feeding
 
@@ -171,7 +171,7 @@ Another risk comes from mycotoxins found in moldy hay. These toxins can lead to 
 
 It’s also worth noting that while some goats may seem fine after eating moldy hay once or twice, repeated exposure increases these risks significantly.
 
-Lastly, remember that good nutrition plays a vital role in keeping your goat healthy and happy. Feeding them quality food ensures they get all necessary nutrients without risking their health on potentially harmful substances like molds present in spoiled hays.
+And finally, remember that good nutrition plays a vital role in keeping your goat healthy and happy. Feeding them quality food ensures they get all necessary nutrients without risking their health on potentially harmful substances like molds present in spoiled hays.
 
 So it’s clear, no matter how hardy our four-legged friends might be; feeding them with anything less than fresh and clean fodder should always be avoided for their well-being.
 

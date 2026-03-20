@@ -45,7 +45,7 @@ Taking care of goats is a lot of fun and a great way to get outside, but you nee
 
 And if so, what are the benefits, hazards, and serving size?
 
-In this article, we will answer the question: can goats eat hawthorn? We'll also discuss the benefits, hazards, and [serving size of this food for goats](/can-goats-eat-dog-food/).
+Here's the short version.we will answer the question: can goats eat hawthorn? We'll also discuss the benefits, hazards, and [serving size of this food for goats](/can-goats-eat-dog-food/).
 
 ## Can goats eat hawthorn?
 
@@ -91,7 +91,7 @@ When feeding hawthorn to goats, there are a few things to keep in mind in order 
 
 First of all, it's crucial to make sure that the hawthorn is free from pesticides and other chemicals. Goats are very sensitive to these substances and can become sick if they ingest them.
 
-Secondly, only feed hawthorn to [goats that are over the age of six months](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/). Younger goats have not yet developed the [digestive system](/can-goats-digest-cotton/) necessary to properly process hawthorn.
+Second, only feed hawthorn to [goats that are over the age of six months](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/). Younger goats have not yet developed the [digestive system](/can-goats-digest-cotton/) necessary to properly process hawthorn.
 
 Finally, avoid [feeding goats](/can-a-goat-feed-quads/) moldy or spoiled hawthorn. This can cause digestive issues and make the goat sick.
 
@@ -137,7 +137,7 @@ Third, only give Hawthorn to healthy goats, as it can worsen digestive problems 
 
 By following these simple tips, you can ensure that your goats reap the maximum benefits from Hawthorn supplementation.
 
-## Final Thoughts
+## Summary
 
 Overall, Hawthorn is a safe and healthy herb for goats. It's high in protein and phosphorus, and low in calcium, making it an excellent browse plant.
 

@@ -47,7 +47,7 @@ But that's not quite accurate.
 
 What should you keep in mind, if that's the case?
 
-In this article, we will address each of these concerns and [give you some fascinating information on the nutritional value of goats](/can-i-give-a-moldy-pumpkin-to-goats/).
+We'll cover everything below.we will address each of these concerns and [give you some fascinating information on the nutritional value of goats](/can-i-give-a-moldy-pumpkin-to-goats/).
 
 ## Can Goats Eat Rice Bran?
 
@@ -73,7 +73,7 @@ Another benefit of feeding goats rice bran is that it's a good source of essenti
 
 All of these nutrients are important for goats (and all animals, really) because they help to keep them healthy and strong.
 
-Lastly, rice bran is also a good source of fiber. Fiber is important for goats because it [helps to keep their digestive system healthy](/can-goats-digest-anything/).
+Last but not least, rice bran is also a good source of fiber. Fiber is important for goats because it [helps to keep their digestive system healthy](/can-goats-digest-anything/).
 
 And since we all know that a [healthy digestive system](/can-goats-digest-cotton/) is important for overall health, this is another great reason to feed your goats rice bran.
 
@@ -123,7 +123,7 @@ Rice bran can go bad pretty quickly, so it's important to make sure that it's st
 
 You can also put it in the refrigerator or freezer if you want to keep it fresh for a longer period of time. Whatever you do, just make sure that you're checking the rice bran frequently to make sure that it's still fresh and safe for your goats to eat.
 
-## Final Thoughts
+## Summary
 
 Goats can rice bran as part of a healthy and nutritious diet. However, there are a few things you need to keep in mind, such as the fact that it's high in fat and can go bad quickly.
 

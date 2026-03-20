@@ -44,7 +44,7 @@ But did you know that goats can also get sick? One of the diseases that goats ca
 
 And you may be wondering if you can bury a goat with Johne's disease.
 
-In this article, we will discuss everything you need to know about Johne's disease in goats, including how it is transmitted and if you can bury a goat with the disease.
+Read on for the full breakdown.we will discuss everything you need to know about Johne's disease in goats, including how it is transmitted and if you can bury a goat with the disease.
 
 ## Can you bury a goat with Johne's disease?
 
@@ -124,7 +124,7 @@ This is because bacteria can cause different levels of infection, with some anim
 
 They will be able to help you determine the best course of action for testing and treatment, based on the individual needs of your herd.
 
-## Final Thoughts
+## Wrapping Up
 
 You can bury a goat with Johne's disease, but you should consult with a veterinarian first. There are several ways to test for Johne's disease in goats, and the best time to do so is when they are between 6 and 12 months old.
 

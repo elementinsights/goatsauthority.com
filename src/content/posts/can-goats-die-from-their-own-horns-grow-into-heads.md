@@ -43,7 +43,7 @@ We all know that goats are pretty tough animals. But can they actually die from 
 
 And if so, what are the symptoms?
 
-In this article, we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you [think your goat may be at risk](/can-a-cdt-shot-kill-a-goat/).
+Let's break it down.we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you [think your goat may be at risk](/can-a-cdt-shot-kill-a-goat/).
 
 ## Can goats die from their own horns growing into heads?
 
@@ -135,7 +135,7 @@ They also need a clean and safe environment, plenty of [food and water](/can-goa
 
 By providing your goat with everything they need, you can help to ensure a long and happy life.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goats are relatively low-maintenance animals. But, those who are new to goat ownership may be surprised to learn that some goats can have horns.
 

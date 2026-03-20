@@ -53,7 +53,7 @@ We’ll look at this topic in detail next, but for now let’s just say the answ
 
 Raw potatoes contain solanine which is harmful for them. It’s found mainly in green parts and sprouts of the [potato plant](/can-goats-eat-potato-shavings/).
 
-Secondly, moderation is key when feeding any kind of treat or non-regular diet item to your goat including potatoes. Too much could lead to health problems like bloating or indigestion.
+Then, moderation is key when feeding any kind of treat or non-regular diet item to your goat including potatoes. Too much could lead to health problems like bloating or indigestion.
 
 Thirdly, always remove any green spots from the potato as they also contain solanine which again isn’t good for goats’ digestive system.
 

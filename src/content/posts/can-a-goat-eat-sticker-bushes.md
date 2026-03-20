@@ -132,7 +132,7 @@ it's also important to provide your goat with a balanced diet that includes plen
 
 Goats are notoriously curious creatures, so be sure to keep them away from any potential hazards, such as chemicals or [sharp objects](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/).
 
-Lastly, make sure to have your goat vaccinated against common diseases such as rabies and tetanus.
+To wrap up, make sure to have your goat vaccinated against common diseases such as rabies and tetanus.
 
 By taking these simple precautions, you can help keep your goat healthy and happy for years to come.
 
@@ -164,7 +164,7 @@ Finally, you should supervise your goat while it's eating the sticker bushes to 
 
 By following these simple tips, you can ensure that your goat stays safe and healthy while enjoying its favorite food.
 
-## Final Thoughts
+## Wrapping Up
 
 Many people are hesitant to let their goats eat sticker bushes because of the possible risks. However, as long as you take the proper precautions, there's no reason why your goat can't enjoy this delicious and nutritious treat.
 

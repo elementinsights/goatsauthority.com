@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if alpacas can have Nutri Drench for goats since they are both herbivores or not. And if so, how much should I give them?
 
-In this article, we will answer these questions for you, as well as provide you with more information on alpacas and their nutrient needs.
+Here's the short version.we will answer these questions for you, as well as provide you with more information on alpacas and their nutrient needs.
 
 ## Can alpacas have Nutri Drench for goats?
 
@@ -126,9 +126,9 @@ Another way to tell if an animal is getting enough nutrients is to look at its c
 
 If an animal's coat looks dull or patchy, it could be a sign of a nutrient deficiency.
 
-Lastly, you can have your alpaca's blood tested by a livestock expert to check for nutrient levels. By doing this, you can ensure that your alpaca is getting the nutrition it needs to stay healthy and thrive.
+Last but not least, you can have your alpaca's blood tested by a livestock expert to check for nutrient levels. By doing this, you can ensure that your alpaca is getting the nutrition it needs to stay healthy and thrive.
 
-## Final Thoughts
+## Summary
 
 Alpacas can have Nutri Drench for goats, but it's important to make sure that they are getting enough of the right nutrients. There are a few ways to tell if an alpaca is getting enough nutrients, including observing the animal's behavior and looking at its coat.
 

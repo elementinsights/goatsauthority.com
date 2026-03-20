@@ -125,7 +125,7 @@ Basil is high in nutrients and antioxidants, which can help to improve the healt
 
 Additionally, basil can help to prevent goat diseases such as [scours](/can-goats-eat-corn/) and enterotoxemia. Basil also has anti-inflammatory properties, which can be beneficial for goats with arthritis or other joint problems.
 
-Furthermore, feeding goats basil can help to increase milk production. Basil is known as a galactagogue, which means that it increases milk production in mammals.
+Beyond that, feeding goats basil can help to increase milk production. Basil is known as a galactagogue, which means that it increases milk production in mammals.
 
 Thus, feeding goats basil can be a great way to improve their overall health and increase milk production.
 
@@ -151,7 +151,7 @@ For [baby goats](/can-goats-eat-applesauce/) or kids, start with a small amount 
 
 Older goats can handle more basil, Still, it's still important to monitor their intake and make sure they are not eating too much. If you are unsure about how much basil to give your goat, talk to a livestock expert for guidance.
 
-## Final Thoughts
+## What to Remember
 
 Goats can eat basil, and there are some benefits to doing so. However, there are also certain risks associated with feeding basil to goats.
 

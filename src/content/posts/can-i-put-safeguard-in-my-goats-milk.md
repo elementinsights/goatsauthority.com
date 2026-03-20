@@ -46,7 +46,7 @@ But what about safeguarding goats? Can you put a safeguard in goat's milk?
 
 And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions and provide you with additional information about [goats and their milk](/can-i-sell-goat-milk-butter/).
+we will answer those questions and provide you with additional information about [goats and their milk](/can-i-sell-goat-milk-butter/).
 
 ## Can I put safeguard in my goats milk?
 
@@ -56,7 +56,7 @@ First of all, you need to make sure that the safeguard you use is approved for u
 
 Make sure to read the labels carefully and consult with a veterinarian if you are unsure.
 
-Secondly, you need to be aware of the dosage. Too much safeguard can be just as harmful as too little.
+Second, you need to be aware of the dosage. Too much safeguard can be just as harmful as too little.
 
 The general rule is to use 1-2 tablespoons per gallon of milk.
 
@@ -136,7 +136,7 @@ Additionally, because goat's milk is often easier to digest than cow's milk, it 
 
 Whether you are making a creamy pasta dish or whipping up a batch of your favorite homemade dressing, chances are goat's milk will be the perfect ingredient.
 
-## Final Thoughts
+## Wrapping Up
 
 You can put safeguards on goat's milk to protect it from contaminants and harmful bacteria. It is important to store the milk properly to maintain its freshness, and you can use it in a variety of recipes.
 

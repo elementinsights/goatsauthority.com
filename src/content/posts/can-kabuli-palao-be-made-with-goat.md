@@ -40,7 +40,7 @@ faq:
 
 Given the recent popularity of Kabuli Palao, many people have been asking whether it can be made with goats.
 
-In this article, we will explore the question of whether Kabuli Palao can be made with goat, as well as answer some other frequently asked questions about the dish.
+Here's what you need to know.we will explore the question of whether Kabuli Palao can be made with goat, as well as answer some other frequently asked questions about the dish.
 
 We will also look at community reviews of Kabuli Palao made with goats to get a sense of how people feel about this variation of the dish.
 
@@ -116,7 +116,7 @@ Sites like these can be great resources if you want to learn more about Afghan c
 
 So no matter what your preferences or skill level, you're sure to find a suitable recipe for Kabuli Palao that includes goat meat online.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, [goat meat](/can-you-freeze-goat-cheese/) is a popular choice for Kabuli Palao among many people because of its rich flavor and versatility.
 

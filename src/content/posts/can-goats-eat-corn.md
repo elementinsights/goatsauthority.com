@@ -96,7 +96,7 @@ Another issue with feeding corn to goats is that it can cause them to become ove
 
 In fact, too much corn can lead to obesity and other health problems in goats. If you do decide to feed your goats corn, be sure to do so in moderation and monitor their weight closely.
 
-Lastly, it's important to note that corn is not a natural part of a goat's diet. Goats are grazing animals, and they should primarily eat [grasses](/can-goats-eat-kentucky-bluegrass/) and other plants.
+One more thing: it's important to note that corn is not a natural part of a goat's diet. Goats are grazing animals, and they should primarily eat [grasses](/can-goats-eat-kentucky-bluegrass/) and other plants.
 
 Feeding them large quantities of corn can upset their digestive system and cause health problems.
 
@@ -136,7 +136,7 @@ Field corn is used for animal feed or to make ethanol fuel. Popcorn is made from
 
 When heated, the water inside the kernel turns to steam and expands, causing the kernel to pop.
 
-## Final Thoughts
+## Summary
 
 Goats can eat corn, However, there are some risks to consider before adding it to their diet. Corn is high in sugar and can lead to blackheads if not fed in moderation.
 

@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if it's safe to feed your pregnant goat pine needles or not. And if so, what are the things you need to consider?
 
-In this article, we will answer some of the frequently asked questions about feeding pregnant goats pine needles.
+we will answer some of the frequently asked questions about feeding pregnant goats pine needles.
 
 ## Can I feed my goat pine needles when it is pregnant?
 
@@ -50,7 +50,7 @@ However, there are a few things you need to consider when feeding your goat pine
 
 Second, [don't feed your goat too many pine needles](/can-a-goat-feed-quads/) as they can be harmful if ingested in large quantities.
 
-Lastly, make sure that the pine needles are not treated with any chemicals or pesticides. If you're unsure, it's always best to err on the side of caution and avoid feeding your goat pine needles that have been treated.
+Finally, make sure that the pine needles are not treated with any chemicals or pesticides. If you're unsure, it's always best to err on the side of caution and avoid feeding your goat pine needles that have been treated.
 
 ## What are pine needles and what are they used for?
 
@@ -82,7 +82,7 @@ There are a number of [benefits to feeding pine needles to pregnant goats](/can-
 
 Beyond that, pine needles can help improve the overall [health of both the mother and baby goats](/can-baby-goats-have-any-electrolytes/). They contain a range of antioxidants and other immune-boosting compounds that help to protect against disease and illness.
 
-Furthermore, due to their low levels of toxic compounds such as cyanide, [pine needles are considered safe for pregnant goats to eat](/can-goats-eat-pine-needles/). All in all, there are many good reasons to add pine needles to a pregnancy diet for goats.
+What's more, due to their low levels of toxic compounds such as cyanide, [pine needles are considered safe for pregnant goats to eat](/can-goats-eat-pine-needles/). All in all, there are many good reasons to add pine needles to a pregnancy diet for goats.
 
 ## How much should you feed your pregnant goat pine needles per day?
 

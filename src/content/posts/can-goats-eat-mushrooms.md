@@ -57,7 +57,7 @@ So what should you do? If you’re unsure about the type of mushroom, it’s bes
 
 What if they accidentally ingest one during their [grazing](/can-goats-eat-kentucky-bluegrass/) adventures? Monitor closely for any signs of discomfort, loss of appetite, drooling excessively, acting lethargic etc., and contact a vet immediately if needed.
 
-In conclusion, yes goats can eat certain kinds of mushrooms but exercise caution when allowing them access to these fungi treats.
+Bottom line: yes goats can eat certain kinds of mushrooms but exercise caution when allowing them access to these fungi treats.
 
 ## Which Mushrooms Are Safe for Goats?
 
@@ -73,7 +73,7 @@ The problem is identifying these dangerous fungi isn’t easy even for experts s
 
 It’s best to keep an eye on what they’re munching while grazing outdoors then especially during damp weather when fungi thrive most abundantly
 
-In conclusion, stick with store-bought edible varieties if you want to feed your goat some fungus-based treats safely and without worry of poisoning them.
+To sum up, stick with store-bought edible varieties if you want to feed your goat some fungus-based treats safely and without worry of poisoning them.
 
 ### Safe Types of Mushrooms for Goats
 
@@ -87,7 +87,7 @@ These store-bought varieties have been grown under controlled conditions making 
 
 But beware of wild mushrooms growing in pastures or forests where you let your goats graze freely. Many species could be poisonous causing severe illness or worse death if ingested by animals including goats.
 
-In conclusion, it’s best to stick with store-bought kinds when feeding your pet some fungi goodness while avoiding any wild ones at all costs due to safety concerns.
+All in all, it’s best to stick with store-bought kinds when feeding your pet some fungi goodness while avoiding any wild ones at all costs due to safety concerns.
 
 ## the Risks and Benefits of Feeding Mushrooms to Goats
 
@@ -157,7 +157,7 @@ They contain toxins which can cause serious health problems or even lead to deat
 
 On the other hand, some kinds of edible mushrooms like button or portobello are generally harmless if consumed by your little goat friends. However, it’s still important not to [overfeed](/can-goats-eat-overripe-fruit/) these items because too much could upset their stomachs.
 
-In conclusion, while some types of mushrooms won’t harm your baby goats directly, many wild varieties pose a risk due to potential toxicity levels within them.
+To sum up, while some types of mushrooms won’t harm your baby goats directly, many wild varieties pose a risk due to potential toxicity levels within them.
 
 To keep things on a safer side always supervise what your kid eats especially when you’re unsure about certain foods such as fungi found around their habitat areas.
 

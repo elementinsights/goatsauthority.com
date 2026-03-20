@@ -45,7 +45,7 @@ Livestock farming is a great way to be self-sufficient and provide healthy food 
 
 If you're thinking about goats and ducks, you might be wondering if they can live together.
 
-In this article, we will answer all of your questions about keeping goats and ducks together, including whether or not they can live together, what benefits there are to keeping them together, and what challenges you might face.
+we will answer all of your questions about keeping goats and ducks together, including whether or not they can live together, what benefits there are to keeping them together, and what challenges you might face.
 
 ## Can ducks and goats coexist?
 
@@ -77,7 +77,7 @@ Another thing to consider is whether or not you have enough time to [care for bo
 
 Goats are very high-maintenance, and ducks can be as well. If you don't think you can handle the responsibility of caring for both, it might be best to just stick with one or the other.
 
-Lastly, you need to think about what kinds of foods each animal needs. Goats are browsers and need access to fresh vegetation, while ducks are mostly herbivores but also require a diet that includes some insects.
+To wrap up, you need to think about what kinds of foods each animal needs. Goats are browsers and need access to fresh vegetation, while ducks are mostly herbivores but also require a diet that includes some insects.
 
 If you can provide both kinds of food and meet all the other requirements, then keeping [goats and ducks together on your farmstead can be a great way to diversify your livestock](/can-too-much-field-time-cause-scours-in-goats/).
 
@@ -91,7 +91,7 @@ First, provide each animal with its own space. This way, they won't feel like th
 
 Second, give them plenty of opportunities to socialize. This can be done by letting them out to graze together or providing a communal water trough.
 
-Lastly, be sure to keep an eye on their interactions and intervene if necessary. With a little patience and effort, you can create a harmonious environment for your goats and ducks.
+To wrap up, be sure to keep an eye on their interactions and intervene if necessary. With a little patience and effort, you can create a harmonious environment for your goats and ducks.
 
 ## Are there any risks associated with keeping these animals together in one space?
 
@@ -137,6 +137,6 @@ Second, you need to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-
 
 By understanding these risks and taking steps to minimize them, you can create a safe and harmonious environment for your goats and ducks.
 
-## Final Thoughts
+## Summary
 
 Goats and ducks can live together harmoniously with a little patience and effort. By providing each animal with its own space, giving them plenty of opportunities to socialize, and monitoring their health closely, you can create a safe and healthy environment for both species.

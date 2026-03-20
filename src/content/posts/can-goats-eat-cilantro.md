@@ -223,7 +223,7 @@ Cilantro has many nutrients beneficial to goats. It contains vitamins A, C and K
 
 However, moderation is key when feeding them cilantro. Too much might upset their stomachs because it’s rich in fiber.
 
-Lastly, always ensure the cilantro isn’t sprayed with pesticides or other harmful chemicals before giving it to your goat for safety reasons.
+One more thing: always ensure the cilantro isn’t sprayed with pesticides or other harmful chemicals before giving it to your goat for safety reasons.
 
 ## Things to Watch Out for When Feeding Cilantro to Your Goat
 
@@ -235,7 +235,7 @@ Cilantro is rich in vitamins A, C, and K but it’s not enough on its own. Your 
 
 Also remember, moderation is key when feeding goats anything new including cilantro. Too much at once might upset their stomachs because it’s different from what they’re used to eating regularly.
 
-Lastly, always give fresh herbs as wilted ones may contain harmful bacteria which could make your goat sick.
+Last thing to note: always give fresh herbs as wilted ones may contain harmful bacteria which could make your goat sick.
 
 ## Why Are My Goats Not Eating Cilantro?
 
@@ -243,11 +243,11 @@ Goats are known for their diverse diet. They can eat a lot of things, including 
 
 But if your goats aren’t eating it, there could be several reasons.
 
-Firstly, every goat has its own taste preferences. Just like humans enjoy different foods, so do goats.
+Right off the bat, every goat has its own taste preferences. Just like humans enjoy different foods, so do goats.
 
 Your goat might simply not like the taste of cilantro.
 
-Secondly, the freshness of the cilantro matters too. Goats prefer fresh food over wilted or old ones.
+Following that, the freshness of the cilantro matters too. Goats prefer fresh food over wilted or old ones.
 
 Lastly and importantly is health concern. Some plants look similar to toxic ones, such as [poison hemlock](/can-goats-eat-poison-hemlock/), which may cause them to avoid certain greens out of instinct.
 

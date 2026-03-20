@@ -141,7 +141,7 @@ Ultimately, there's no definitive answer when it comes to determining the ideal 
 
 However, by taking into account the age and size of the goat, as well as the type of zucchini being fed, you can develop a feeding plan that meets the unique needs of your animal.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can eat zucchini. Zucchini is a healthy vegetable that can be safely added to your goat's diet.
 

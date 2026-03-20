@@ -118,7 +118,7 @@ Finally, be sure to pack your gear in such a way that it doesn't put too much st
 
 With these tips in mind, you're sure to have a safe and enjoyable trip with your pack goat by your side.
 
-## Final Thoughts
+## Summary
 
 A pack goat can be a valuable asset on any camping or hiking trip. These versatile animals are capable of carrying a significant amount of weight, making them perfect for carrying gear and supplies.
 

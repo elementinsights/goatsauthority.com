@@ -124,7 +124,7 @@ Cheese made from goat milk is also a good source of protein and calcium, and it 
 
 Alternative dairy products for goats can be found at most grocery stores.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, Dairy is a healthy and nutritious part of a Goat's diet, but there are some risks associated with feeding dairy to goats. One of the biggest dangers is the risk of bloat.
 

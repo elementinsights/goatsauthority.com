@@ -72,7 +72,7 @@ Second, registering a Nigerian dwarf goat without papers can also help to streng
 
 Many Nigerians like to keep small livestock as a way of connecting with their history and culture, and registering these animals allows them to connect with others who share their same interests and traditions.
 
-Furthermore, having [registered goats](/can-you-breed-a-4yr-old-goat/) can help promote camaraderie among local farmers by bringing them together for livestock shows and other related events.
+Also, having [registered goats](/can-you-breed-a-4yr-old-goat/) can help promote camaraderie among local farmers by bringing them together for livestock shows and other related events.
 
 In general, then, there are many good reasons for Nigerians to register their goats without papers. Whether we're talking about improving market value or building stronger bonds among farmers, this simple act can bring great benefits to all individuals involved.
 
@@ -84,7 +84,7 @@ Without documentation or registration, it can be challenging to [know whether th
 
 Another potential risk is that an unregistered goat may not meet minimum health and welfare standards, which could increase its susceptibility to illness and injury.
 
-Furthermore, registering an animal without papers often requires additional fees and paperwork, which adds another layer of risk and expense.
+Also, registering an animal without papers often requires additional fees and paperwork, which adds another layer of risk and expense.
 
 Overall, then, it is generally advisable to register any Nigerian dwarf goats that you own in order to mitigate these various risks and ensure their well-being and longevity.
 
@@ -120,7 +120,7 @@ Regardless of which route you choose, the key is simply to do your research and 
 
 With some patience and persistence, you should be able to successfully navigate through the process and [register your goats](/can-you-breed-a-father-and-daughter-goat/) without having any official papers or documents.
 
-## Final Thoughts
+## Summary
 
 You can register your Nigerian dwarf goats without papers by contacting established breed associations or registries, looking for reputable breeders in your area, or directly submitting DNA samples and milk tests for review.
 

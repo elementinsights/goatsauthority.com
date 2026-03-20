@@ -178,7 +178,7 @@ After giving your goat penicillin, it's important to clean the injection site wi
 
 It's also important to make sure that she has access to plenty of clean water to drink.
 
-## Final Thoughts
+## The Bottom Line
 
 Pregnant goats require special care and attention, especially when it comes to their diet and nutrition.
 

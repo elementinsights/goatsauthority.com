@@ -44,7 +44,7 @@ Taking care of lactating goats can be a rewarding experience. However, it is imp
 
 Ibuprofen is a common pain reliever that is used in humans, but is it safe to give to lactating goats?
 
-In this article, we will answer those questions about ibuprofen and goats, so you can make the best decision for your herd.
+Here's the short version.we will answer those questions about ibuprofen and goats, so you can make the best decision for your herd.
 
 ## Can ibuprofen be given to lactating goats?
 
@@ -88,7 +88,7 @@ The dosage depends on factors such as the size and age of the goat, as well as t
 
 Generally speaking, though, it is recommended that ibuprofen doses should not exceed 200 milligrams per kilogram of body weight or about 22 milligrams per pound.
 
-Furthermore, trained goat experts must carefully monitor ibuprofen intake for goats to [reduce the likelihood of harmful side effects](/can-a-cdt-shot-kill-a-goat/).
+Plus, trained goat experts must carefully monitor ibuprofen intake for goats to [reduce the likelihood of harmful side effects](/can-a-cdt-shot-kill-a-goat/).
 
 In general, while there is no easy answer to this question, it is clear that ibuprofen should be administered with caution when treating goats.
 
@@ -134,7 +134,7 @@ Ultimately, the best way to determine which treatment is right for your goat wil
 
 So whether you choose traditional medication or explore alternative solutions, rest assured that there are a variety of options available to help your goat feel better.
 
-## Final Thoughts
+## Wrapping Up
 
 In general, while there is no easy answer to the question of whether or not ibuprofen is safe for goats, it is clear that this medication should be used with caution.
 

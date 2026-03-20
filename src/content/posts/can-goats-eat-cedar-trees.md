@@ -47,7 +47,7 @@ Many people enjoy keeping goats as pets. Goats are interesting animals that can 
 
 However, one question that often comes up is whether or not it's safe for these animals to eat cedar trees.
 
-In this article, we will explore the benefits and risks of allowing goats to consume cedar trees, as well as provide tips on how much of this type of tree can be safely consumed by these animals.
+we will explore the benefits and risks of allowing goats to consume cedar trees, as well as provide tips on how much of this type of tree can be safely consumed by these animals.
 
 ## Can goats eat cedar trees?
 
@@ -145,7 +145,7 @@ Do your research to make sure the cedar you're feeding is safe for your goats to
 
 If you're unsure about how your goats will react to cedar, start by offering just a small amount and observe them closely for any adverse reactions. Introducing new foods slowly and carefully is the best way to ensure your goats stay healthy and happy.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, cedar trees can be a healthy and nutritious addition to your goat's diet. But you must do your research and take some precautions before feeding cedar to your goats.
 

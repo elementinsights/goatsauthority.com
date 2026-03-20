@@ -46,7 +46,7 @@ faq:
 
 You might be wondering whether or not goat milk can smooth out wrinkles. And if so, how should it be applied?
 
-In this article, we'll address all of your questions about goat milk's anti-wrinkle effects and offer some advice on how to make the most of this herbal treatment.
+we'll address all of your questions about goat milk's anti-wrinkle effects and offer some advice on how to make the most of this herbal treatment.
 
 ## Can goat milk reduce wrinkles?
 
@@ -116,7 +116,7 @@ There are a few potential side effects associated with using goat milk for wrink
 
 First, the lactic acid in [goat milk can cause skin irritation](/can-goat-milk-cause-acne/) in some people.
 
-Secondly, those with dairy allergies may experience an [allergic reaction to goat milk](/can-someone-allergic-to-milk-use-goats-milk/).
+Second, those with dairy allergies may experience an [allergic reaction to goat milk](/can-someone-allergic-to-milk-use-goats-milk/).
 
 Finally, [goat milk](/can-i-mix-goat-milk-replacer-with-cow-milk/) may not be as effective as other wrinkle-reducing treatments, such as retinoids or hyaluronic acid fillers.
 

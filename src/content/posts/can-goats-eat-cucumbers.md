@@ -97,7 +97,7 @@ The same rule applies to all types of veggies they eat.
 
 Cooked cucumbers are also okay for goats as long as no spices or oils were used in cooking it. Spices may upset their stomachs while oil is hard for them to digest.
 
-In conclusion, feeding your goat with either wild or cooked cucumbers is fine but always ensure its freshness before giving it.
+At the end of the day, feeding your goat with either wild or cooked cucumbers is fine but always ensure its freshness before giving it.
 
 ## Can Goats Eat Cucumber Plants and Leaves?
 
@@ -123,7 +123,7 @@ So moderation is key here.
 
 Always remember to chop up the cucumber into small pieces before feeding your goat kid. This prevents choking hazards and makes digestion easier for them.
 
-In conclusion, while cucumbers aren’t harmful to baby goats, proper portion control ensures they remain healthy.
+In short, while cucumbers aren’t harmful to baby goats, proper portion control ensures they remain healthy.
 
 ## How Often and How to Feed Cucumbers to Your Goat
 
@@ -191,11 +191,11 @@ But remember, balance is key when it comes to feeding goats anything new or diff
 
 **Feeding cucumbers to goats is generally safe**. However, there are a few things you should keep in mind.
 
-Firstly, make sure the cucumber isn’t spoiled or rotten. Goats have strong stomachs but they can still get sick from bad food.
+For starters, make sure the cucumber isn’t spoiled or rotten. Goats have strong stomachs but they can still get sick from bad food.
 
-Secondly, it’s best not to feed them too many at once. Cucumbers are mostly water and don’t provide much nutrition.
+After that, it’s best not to feed them too many at once. Cucumbers are mostly water and don’t provide much nutrition.
 
-Lastly, remember that while goats love variety in their diet, any new food should be introduced slowly. This helps prevent digestive upset as their system adjusts to the change.
+One more thing: remember that while goats love variety in their diet, any new food should be introduced slowly. This helps prevent digestive upset as their system adjusts to the change.
 
 So yes, your goat can enjoy a tasty cucumber snack now and then. Just use common sense when feeding them this crunchy treat.
 

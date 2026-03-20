@@ -44,7 +44,7 @@ Dogs are known for being loyal and loving companions. But what many dog owners m
 
 In fact, goat milk has several health benefits for dogs that range from improved digestion to stronger bones.
 
-But you need to be aware of the risks associated with giving your dog too much goat milk as well. In this article, we'll explore the benefits and risks of giving your dog goat milk, as well as provide tips on how much goat milk to give your dog and how often.
+But you need to be aware of the risks associated with giving your dog too much goat milk as well. we'll explore the benefits and risks of giving your dog goat milk, as well as provide tips on how much goat milk to give your dog and how often.
 
 ## Can dogs drink goat milk everyday?
 
@@ -114,7 +114,7 @@ Many pet stores sell cow's milk that is specifically designed for dogs, and this
 
 Talk to a dog expert about what option would be best for your pet, and remember that you can always supplement your dog's diet with other healthy foods, like [fruits and vegetables](/can-goats-eat-overripe-fruit/), to make sure they're getting everything they need.
 
-## Final Thoughts
+## What to Remember
 
 Dogs can drink goat milk every day, but there are some risks to consider before making the switch.
 

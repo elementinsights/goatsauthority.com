@@ -41,7 +41,7 @@ faq:
   - question: "What are the treatments for goats that have eaten laurel leaves?"
     answer: "If a goat has eaten laurel leaves, the first step is to remove the plant material from their mouth and prevent them from consuming any more. If the goat is showing signs of illness, such as lethargy or vomiting, then it should be seen by a goat expert immediately."
 ---
-Taking care of goats can be a rewarding experience. These endearing creatures are known for their curious and intelligent personalities.
+Whether you have two goats or twenty, proper care matters. These endearing creatures are known for their curious and intelligent personalities.
 
 They are also relatively easy to take care of, as they are resistant to diseases and can browse a wide variety of plants.
 
@@ -127,7 +127,7 @@ Water your seeds regularly, and be sure to keep them in a warm location until th
 
 Be sure to give them plenty of room to grow, as they can become quite large over time. With just a little care and attention, your laurel leaf plants will thrive and provide you with years of enjoyment.
 
-## Final Thoughts
+## Summary
 
 [Goats can eat a variety of different plants](/can-goats-eat-any-plant/), but laurel leaves are not one of them. Laurel leaves are poisonous to goats, and ingesting them can lead to cyanide poisoning.
 

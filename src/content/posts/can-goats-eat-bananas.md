@@ -55,7 +55,7 @@ You should also be mindful of banana peels. While they aren’t harmful to goats
 
 Cutting up the banana into smaller pieces is a smart move before feeding it to your goat. This makes it easier for them to chew and digest properly.
 
-In conclusion, yes you can give your goat raw bananas as an occasional treat but always do so responsibly considering their overall health needs.
+Bottom line: yes you can give your goat raw bananas as an occasional treat but always do so responsibly considering their overall health needs.
 
 ### Preparing and Feeding Bananas for Your Goat Herd
 
@@ -101,7 +101,7 @@ However, it’s best not to feed too many at once as this could lead to stomach 
 
 Also ensure that any stickers or labels on the bananas are removed before feeding them to your goat since these aren’t digestible and may cause harm if ingested by accident.
 
-In conclusion, yes you can treat your furry friend with some banana peel snacks but remember moderation is key when introducing new foods into their diet.
+In short, yes you can treat your furry friend with some banana peel snacks but remember moderation is key when introducing new foods into their diet.
 
 ### Beware of Pesticides on Grocery-Bought Bananas
 
@@ -171,7 +171,7 @@ When you feed bananas, make sure they’re fresh and raw. This is because some i
 
 For example, sugar syrup often used in canned fruits isn’t good for them. It can cause stomach upset or other health problems if eaten too much.
 
-Lastly, don’t forget about pesticides on the skin of non-organic bananas which might harm your pet if not washed off properly before feeding it to them
+Last thing to note: don’t forget about pesticides on the skin of non-organic bananas which might harm your pet if not washed off properly before feeding it to them
 
 So yes, while goats can enjoy eating a tasty banana now and then just like us humans do. Always ensure that what you’re offering has been prepared safely.
 
@@ -189,7 +189,7 @@ But remember moderation is key when feeding bananas to your goat. Too much sugar
 
 Peel on or off? Both ways work fine for goats but ensure it’s clean before serving up this treat.
 
-Lastly, make sure other parts of your goat’s diet are balanced too because they need more than just fruits.
+Last but not least, make sure other parts of your goat’s diet are balanced too because they need more than just fruits.
 
 ## How Often Can Goats Have Bananas?
 
@@ -217,11 +217,11 @@ Baby goats, also known as kids, can indeed eat bananas. Just like adult goats, t
 
 However, there are a few things to keep in mind.
 
-Firstly, baby goats have smaller stomachs. This means that the amount of banana you feed them should be less than what you’d give an adult goat.
+First, baby goats have smaller stomachs. This means that the amount of banana you feed them should be less than what you’d give an adult goat.
 
 A small slice or two is usually enough for these little ones.
 
-Secondly, remember that bananas are not their main food source. Kids need milk and hay primarily for growth and development. Once they are old enough for solid food, you can also try [sweet potatoes](/can-goats-eat-sweet-potatoes/) as a nutritious treat.
+After that, remember that bananas are not their main food source. Kids need milk and hay primarily for growth and development. Once they are old enough for solid food, you can also try [sweet potatoes](/can-goats-eat-sweet-potatoes/) as a nutritious treat.
 
 Lastly but importantly: peel off the skin before feeding it to your kid goat. The tough outer layer can cause digestive issues if eaten by your tiny pet.
 

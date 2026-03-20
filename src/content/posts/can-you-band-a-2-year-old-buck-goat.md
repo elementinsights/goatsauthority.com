@@ -69,7 +69,7 @@ To band a goat, you'll need a few supplies: a tube of tattoo ink, a sharpie, a p
 
 First, use the sharpie to mark the spot on the goat's ear where you want to place the band. Next, insert the ink-filled tube into the tagging gun, and position the gun over the marked spot.
 
-Squeeze the trigger to puncture the skin and inject the ink. Lastly, use the pliers to twist the end of the tag until it's tight against the ear.
+Squeeze the trigger to puncture the skin and inject the ink. One more thing: use the pliers to twist the end of the tag until it's tight against the ear.
 
 The whole process should take less than two minutes per goat. With a little practice, you'll be able to band goats quickly and efficiently.
 
@@ -81,7 +81,7 @@ When goats are left unchecked, they will often groom themselves excessively, whi
 
 By banding the goat, you can help to discourage this behavior. Additionally, banding can also make it easier to keep track of your goat's whereabouts.
 
-If your goat gets loose, it will be much easier to spot if it is wearing a brightly colored band around its neck. Lastly, banding can also help to identify goats that belong to the same herd.
+If your goat gets loose, it will be much easier to spot if it is wearing a brightly colored band around its neck. Finally, banding can also help to identify goats that belong to the same herd.
 
 This can be especially helpful if you are dealing with a large number of goats. All in all, banding a goat can have a number of benefits.
 
@@ -134,7 +134,7 @@ Did you know that there are over 300 different [breeds of goats](/can-a-nigerian
 
 Some people even keep [miniature goats as pets](/can-male-pygmy-goats-have-long-hair/). So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
 
-## Final Thoughts
+## The Bottom Line
 
 You can band your goat for a number of reasons, including preventing them from getting loose, reducing their aggression, and making their meat more desirable.
 

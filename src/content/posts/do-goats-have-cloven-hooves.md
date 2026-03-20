@@ -45,7 +45,7 @@ We all know that goats are pretty special animals. They're known for being indep
 
 But what about their feet? Do goats have cloven hooves?
 
-In this article, we will answer those questions and provide you with everything you need to know about goat hooves.
+we will answer those questions and provide you with everything you need to know about goat hooves.
 
 ## Do goats have cloven hooves?
 
@@ -67,7 +67,7 @@ Cloven hooves are a distinctive feature of goats, and they play an important rol
 
 In addition, the specialized structure of these hooves makes it easy for goats to travel long distances without expending too much energy or causing undue stress on their bodies.
 
-Furthermore, the broad surface area of cloven hooves helps to distribute weight evenly, minimizing any impact and reducing the risk of injury.
+And, the broad surface area of cloven hooves helps to distribute weight evenly, minimizing any impact and reducing the risk of injury.
 
 By allowing goats to navigate difficult landscapes with ease, and ensuring that their movements are as gentle as possible, cloven hooves make it possible for these animals to lead healthy and happy lives.
 

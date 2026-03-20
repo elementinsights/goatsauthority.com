@@ -58,7 +58,7 @@ Too much pear skin can cause [digestive problems](/can-goats-digest-anything/) s
 
 Pear skins can sometimes contain toxins or pesticides that can be harmful to goats. Therefore, it's always best to wash the pear skin thoroughly before giving it to a goat.
 
-Lastly, you need to remember that goats need a balanced diet in order to stay healthy. Pear skin should only be given as an occasional treat and not fed as a regular part of a goat's diet.
+And finally, you need to remember that goats need a balanced diet in order to stay healthy. Pear skin should only be given as an occasional treat and not fed as a regular part of a goat's diet.
 
 ## Can goats eat pear leaves?
 
@@ -122,9 +122,9 @@ Also, the seeds of pears contain cyanogenic glycosides, which can be toxic to go
 
 When given in moderation, pears can be a delicious and healthy treat for your goat. Pears are an excellent source of fiber and vitamins C and K, making them a nutritious snack for goats.
 
-Furthermore, the natural sugars in pears provide a boost of energy without causing a digestive upset as some other fruits can. If you have access to fresh pears, they make a great occasional treat for your goat friend.
+And, the natural sugars in pears provide a boost of energy without causing a digestive upset as some other fruits can. If you have access to fresh pears, they make a great occasional treat for your goat friend.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats can eat pears, but there are a few things to keep in mind when feeding them this fruit. Pears contain sugar and fiber, which can cause digestive problems in goats if consumed in large quantities.
 

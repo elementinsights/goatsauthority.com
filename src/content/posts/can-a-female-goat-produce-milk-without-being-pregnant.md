@@ -110,7 +110,7 @@ However, it's important to consult with a veterinarian before making any changes
 
 For example, they should have access to plenty of fresh water, hay, and a balanced ration of grain and minerals. A well-fed goat is more likely to produce milk than one who is not getting enough to eat.
 
-Furthermore, goats should be given time to rest after milking so that their udders can refill. By following these tips, you can ensure that your dairy goats are able to produce milk even if they are not pregnant.
+And, goats should be given time to rest after milking so that their udders can refill. By following these tips, you can ensure that your dairy goats are able to produce milk even if they are not pregnant.
 
 ## Will my goat's milk taste different if she's not pregnant?
 
@@ -158,7 +158,7 @@ Unlike other small animals, such as rabbits or guinea pigs, goats need to be abl
 
 Without enough space, they can become restless and even destructive. So, before you bring a goat home, make sure you have a large fenced-in area for them to play in.
 
-Secondly, goats are very social creatures and do best when they have companionship. If you're only planning on getting one goat, make sure you spend extra time bonding with them.
+Following that, goats are very social creatures and do best when they have companionship. If you're only planning on getting one goat, make sure you spend extra time bonding with them.
 
 And if you're getting more than one, be prepared to do a lot of goat play.
 
@@ -168,7 +168,7 @@ This can lead to digestive problems, so it's important to keep their diet clean 
 
 If you're willing to put in the time and effort, then [goats](/can-goats-drink-baby-formula/) can make wonderful pets. Just be sure to do your research first.
 
-## Final Thoughts
+## Summary
 
 Goats can produce milk without being pregnant, but the milk will likely be of lower quality. If you want to breed your goat, you will need to wait until she is pregnant.
 

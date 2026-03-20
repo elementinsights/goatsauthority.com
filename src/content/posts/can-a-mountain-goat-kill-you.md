@@ -46,7 +46,7 @@ faq:
 
 Mountain goats are not your average backyard animal. They may look small and cute, but these creatures are capable of inflicting serious damage if they feel threatened.
 
-In this article, we will take a closer look at the mountain goat and explore some of the dangers they pose to humans. We'll also provide tips on how to stay safe around these animals.
+Here's what you need to know.we will take a closer look at the mountain goat and explore some of the dangers they pose to humans. We'll also provide tips on how to stay safe around these animals.
 
 ## Can a mountain goat kill you?
 

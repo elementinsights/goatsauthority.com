@@ -48,7 +48,7 @@ Goats need to be well-fed and healthy, so knowing what they should eat is critic
 
 And if so, what nutritional benefits do they offer?
 
-In this article, we will answer those questions and more, so you can feel confident that your pygmy goat is getting the proper nutrition.
+Let's break it down.we will answer those questions and more, so you can feel confident that your pygmy goat is getting the proper nutrition.
 
 ## Can pygmy goats eat eucalyptus?
 
@@ -70,11 +70,11 @@ Overall, these nutrient-rich leaves make an excellent addition to any diet and a
 
 There are indeed several risks associated with feeding eucalyptus leaves to pygmy goats.
 
-Firstly, as these leaves are highly toxic, they can cause serious health problems in these animals if ingested in large quantities.
+First, as these leaves are highly toxic, they can cause serious health problems in these animals if ingested in large quantities.
 
 Another thing to note is some goat breeds may lack a sufficient tolerance for the high levels of tannins found in eucalyptus leaves, leading to digestive issues or even death.
 
-Furthermore, feeding too many eucalyptus leaves may lead to a subsequent deficiency in other types of feed, resulting in poor nutrition and weight loss.
+Plus, feeding too many eucalyptus leaves may lead to a subsequent deficiency in other types of feed, resulting in poor nutrition and weight loss.
 
 While it is true that there are some minor [potential risks associated with feeding eucalyptus leaves to pygmy goats](/can-a-plastic-bag-hurt-a-goat/), they can easily be avoided by maintaining proper doses and monitoring your goat's health carefully.
 
@@ -140,7 +140,7 @@ When in doubt, it's always best to consult with a professional veterinarian or l
 
 With proper care and attention, you can help to keep your pygmy goat healthy and happy for years to come.
 
-## Final Thoughts
+## Summary
 
 Overall, it's important to remember that each pygmy goat is an individual and will require different amounts of care and attention.
 

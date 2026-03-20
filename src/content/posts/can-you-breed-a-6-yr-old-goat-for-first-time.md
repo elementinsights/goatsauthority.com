@@ -45,7 +45,7 @@ We all know how important it is to get our animals spayed or neutered at a young
 
 And if so, can you breed a 6 yr old goat for the first time?
 
-In this article, we will answer those questions for you so that you can make the best decision for your animals.
+we will answer those questions for you so that you can make the best decision for your animals.
 
 ## Can you breed a 6 yr old goat for the first time?
 
@@ -99,7 +99,7 @@ First, you can consult with a professional. A veterinarian or experienced breede
 
 Second, you can try breeding your goat at a different time of year. Dairy goats, for example, typically have a shorter breeding season than meat goats.
 
-Lastly, you can try using a different buck. If the [goat is not compatible with the buck](/can-rams-be-in-with-goat-bucks/) you are using for breeding, the breeding process may be more difficult and may result in fewer offspring.
+Last thing to note: you can try using a different buck. If the [goat is not compatible with the buck](/can-rams-be-in-with-goat-bucks/) you are using for breeding, the breeding process may be more difficult and may result in fewer offspring.
 
 It's also worth noting that if the goat is not healthy, it may have difficulty conceiving or carrying a pregnancy to term. If this is the case, you may need to consult with a veterinarian to see if there are any medical conditions that need to be addressed.
 
@@ -111,7 +111,7 @@ One of the most obvious signs is that the goat's udder will start to swell as th
 
 Another sign is that the goat will start to gain weight as the pregnancy progresses.
 
-Lastly, the goat's behavior may change as the pregnancy progresses. The [goat may become more restless or aggressive](/can-an-aggressive-goat-be-fixed/), for example.
+One more thing: the goat's behavior may change as the pregnancy progresses. The [goat may become more restless or aggressive](/can-an-aggressive-goat-be-fixed/), for example.
 
 If you are unsure about whether or not your goat is having a successful pregnancy, you can always consult with a professional. A veterinarian or experienced breeder will be able to give you more specific advice based on your goat's individual needs.
 
@@ -125,7 +125,7 @@ Another common problem is dystocia, or difficulty giving birth. This can be caus
 
 If you are unsure about whether or not your goat is having a successful pregnancy, you can always consult with a professional. A veterinarian or experienced breeder will be able to give you more specific advice based on your goat's individual needs.
 
-## Final Thoughts
+## Summary
 
 Breeding a 6 yr old goat can be beneficial for many reasons. However, it is important to consult with a professional and make sure that the goat is healthy and compatible with the buck you are using for breeding.
 

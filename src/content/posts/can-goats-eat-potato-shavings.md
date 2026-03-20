@@ -91,7 +91,7 @@ Potato shavings are small and dry, and if a goat inhales them, they could get ca
 
 Another risk is that the potato shavings could become lodged in the [goat's intestines](/can-i-eat-goat-intestine-during-pregnancy/) and cause an obstruction. This could lead to serious health problems or even death.
 
-Lastly, potato shavings may contain harmful bacteria that can make [goats sick](/can-i-give-a-sick-goat-water-through-a-syringe/). For these reasons, it is important to supervise goats carefully if they are eating potato shavings and to provide plenty of fresh water for them to drink.
+To wrap up, potato shavings may contain harmful bacteria that can make [goats sick](/can-i-give-a-sick-goat-water-through-a-syringe/). For these reasons, it is important to supervise goats carefully if they are eating potato shavings and to provide plenty of fresh water for them to drink.
 
 ## How much potato shavings can a goat eat?
 
@@ -133,7 +133,7 @@ Finally, you should offer your goats a variety of fresh vegetables as a treat. V
 
 By following these simple guidelines, you can ensure that your goat's diet is healthy and well-rounded.
 
-## Final Thoughts
+## Wrapping Up
 
 Although goats can consume potato shavings, there are some dangers. Choking, intestinal obstruction, and bacterial illness are the main dangers.
 

@@ -52,7 +52,7 @@ But what about hay cubes? Can goats eat hay cubes?
 
 And if so, what are the benefits?
 
-In this article, we will answer all of your questions about feeding hay cubes to goats. We'll discuss the nutritional value of hay cubes, the benefits of feeding them to goats, and some common FAQs.
+we will answer all of your questions about feeding hay cubes to goats. We'll discuss the nutritional value of hay cubes, the benefits of feeding them to goats, and some common FAQs.
 
 ## Can goats eat hay cubes?
 
@@ -94,7 +94,7 @@ Second, the cubes are less likely to [mold than loose hay](/can-goats-eat-moldy-
 
 Third, the cubes are easy to store and transport, making them convenient for farmers.
 
-Lastly, some goats simply prefer the taste of hay cubes over loose hay.
+To wrap up, some goats simply prefer the taste of hay cubes over loose hay.
 
 Overall, there are many benefits to feeding hay cubes to goats, and it's an important part of their diet.
 

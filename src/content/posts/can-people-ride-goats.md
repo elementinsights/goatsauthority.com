@@ -45,7 +45,7 @@ Taking care of goats is a big responsibility, but it can be very rewarding. If y
 
 And if so, what are the things you need to consider?
 
-In this article, we will answer those questions and give you some tips on how to care for your goat. We will answer the following questions:
+Read on for the full breakdown.we will answer those questions and give you some tips on how to care for your goat. We will answer the following questions:
 
 ## Can people ride goats?
 
@@ -53,7 +53,7 @@ Another thing to consider is that goats are very social creatures. They like to 
 
 So if you're going to ride a goat, make sure you have another goat for company.
 
-Lastly, goats need a lot of exercises. If you're going to ride a goat, make sure you take them for a walk or a run every day.
+Last thing to note: goats need a lot of exercises. If you're going to ride a goat, make sure you take them for a walk or a run every day.
 
 Goats are very active creatures and they need to be able to run and play. Understanding whether [wether goats can be as mean as billy goats](/can-wether-goats-be-as-mean-as-billy-goats/) helps you choose a suitable riding companion.
 
@@ -141,7 +141,7 @@ Finally, goats need a lot of exercises, so be sure to take them for a walk or a 
 
 By following these simple tips, you can make sure that both you and your goat have a safe and enjoyable ride.
 
-## Final Thoughts
+## Key Takeaways
 
 Riding a goat can be a fun and unique experience, but it's important to be aware of the risks involved.
 

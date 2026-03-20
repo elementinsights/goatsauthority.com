@@ -47,7 +47,7 @@ Many people are curious about the dietary habits of goats. Can they eat citrus f
 
 What other types of food do they enjoy? If so, what are the nutritional benefits, and what are the risks?
 
-In this article, we will explore the [nutritional value of citrus fruits for goats](/can-goats-eat-overripe-fruit/), as well as some common questions people have about their diet.
+we will explore the [nutritional value of citrus fruits for goats](/can-goats-eat-overripe-fruit/), as well as some common questions people have about their diet.
 
 ## Can goats eat citrus fruits?
 
@@ -147,7 +147,7 @@ This nutritional diversity is one of the things that makes goats such versatile 
 
 As long as they have access to fresh water, goats can make do with surprisingly little.
 
-## Final Thoughts
+## What to Remember
 
 Citrus fruits are a good source of nutrients like vitamin C, folate, and potassium. At the same time, too much citrus can cause digestive problems.
 

@@ -147,7 +147,7 @@ Some gardeners also use pine needles as insulation for plants that need extra pr
 
 When used in this way, pine needles can be helpful in protecting delicate plants and keeping them warm during freezing weather conditions.
 
-## Final Thoughts
+## Summary
 
 Goats can eat pine needles, but it's not recommended. Pine needles are full of terpenes, which are [toxic to goats](/can-goats-eat-poison-hemlock/).
 

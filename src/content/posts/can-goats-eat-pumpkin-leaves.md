@@ -139,7 +139,7 @@ These plants can cause gastrointestinal upset, seizures, and even death.
 
 If you have any of these plants on your property, you need to make sure that your goats cannot access them. If you are unsure whether a plant is poisonous to goats, you can contact a goat expert.
 
-## Final Thoughts
+## Wrapping Up
 
 Pumpkin leaves are poisonous to goats and can cause them to become very sick. Eating just a small amount of the leaves can lead to vomiting, diarrhea, and difficulty breathing.
 

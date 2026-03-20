@@ -60,7 +60,7 @@ While this sounds scary, don’t worry too much. Goats are smart and usually avo
 
 However, it’s always better to be safe than sorry when feeding your goat treats like peaches or other fruits with pits in them.
 
-In conclusion, yes, goats can enjoy eating peaches as long as you take out the pit before giving it to them.
+All in all, yes, goats can enjoy eating peaches as long as you take out the pit before giving it to them.
 
 ### Beware of Pesticide on Grocery-Bought Peaches
 
@@ -82,7 +82,7 @@ However, moderation is key here. Goats should not be fed too many peaches at onc
 
 It’s also important to remember that peach pits can pose a risk. The pit of a peach contains small amounts of cyanide which can harm your goat if eaten in large quantities.
 
-Lastly, always wash the peaches before feeding them to your goats. This removes any [pesticides or chemicals](/can-goats-eat-any-plant/) on the skin that could potentially harm your furry friend.
+Finally, always wash the peaches before feeding them to your goats. This removes any [pesticides or chemicals](/can-goats-eat-any-plant/) on the skin that could potentially harm your furry friend.
 
 ## Can Goats Eat Peach Leaves?
 
@@ -112,11 +112,11 @@ Peach skin is safe for goats to eat. They enjoy the taste and it’s not harmful
 
 But, there are a few things you should know before feeding peaches to your goat.
 
-Firstly, while peach skins aren’t toxic, they can be tough on a goat’s digestive system if eaten in large amounts. So keep portions small.
+For starters, while peach skins aren’t toxic, they can be tough on a goat’s digestive system if eaten in large amounts. So keep portions small.
 
-Secondly, make sure the peaches are clean of pesticides or chemicals often used on fruit crops as these can harm your goat’s health.
+Then, make sure the peaches are clean of pesticides or chemicals often used on fruit crops as these can harm your goat’s health.
 
-Lastly, remember that fruits like peaches should only form part of their diet alongside [hay](/what-kind-of-hay-do-goats-eat/) and other essential nutrients needed by goats.
+To wrap up, remember that fruits like peaches should only form part of their diet alongside [hay](/what-kind-of-hay-do-goats-eat/) and other essential nutrients needed by goats.
 
 ## How Often Can Goats Have Peaches?
 
@@ -154,7 +154,7 @@ Next, cut the fruit into bite-sized pieces. This makes it easier for them to eat
 
 You don’t need too many slices, just enough for each goat in your herd.
 
-Lastly, mix these peach pieces with their regular feed or offer as a treat separately. [Goats love variety in their diet](/why-do-goats-eat-everything/) so this sweet addition will surely please them.
+And finally, mix these peach pieces with their regular feed or offer as a treat separately. [Goats love variety in their diet](/why-do-goats-eat-everything/) so this sweet addition will surely please them.
 
 ## Can You Cook Peaches to Give Them to Goats?
 
@@ -176,7 +176,7 @@ Feeding your goat too many peaches could cause issues. This fruit has [high suga
 
 Another potential problem lies within the peach pit. It contains small amounts of cyanide that can harm your goat if eaten regularly or in big quantities.
 
-Lastly, always remember to wash any fruits before feeding them to remove pesticides or harmful bacteria.
+Last but not least, always remember to wash any fruits before feeding them to remove pesticides or harmful bacteria.
 
 ## Are Peach Leaves Toxic to Goats
 

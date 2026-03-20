@@ -48,7 +48,7 @@ faq:
 
 You may be wondering whether you can feed radishes to your goat. And if so, are there any benefits or risks to doing so?
 
-In this article, we will answer all of your questions about feeding radishes to goats, including the benefits and risks, as well as the appropriate serving size.
+we will answer all of your questions about feeding radishes to goats, including the benefits and risks, as well as the appropriate serving size.
 
 ## Can goats eat radishes?
 

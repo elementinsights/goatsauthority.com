@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat?
 
-In this article, we will answer all of your questions about what goats can and cannot eat. We will also explore what kind of diet is best for goats and how you can ensure your goat is getting all the nutrients they need.
+we will answer all of your questions about what goats can and cannot eat. We will also explore what kind of diet is best for goats and how you can ensure your goat is getting all the nutrients they need.
 
 ## Can goats eat any plant?
 
@@ -125,7 +125,7 @@ With prompt and proper treatment, most [goats will recover from plant poisoning]
 
 But, you need to note that some plants can cause permanent damage or even be fatal, so it's always best to err on the side of caution and seek professional help as soon as possible.
 
-## Final Thoughts
+## Summary
 
 Overall, goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.
 

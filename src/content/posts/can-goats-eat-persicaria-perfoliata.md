@@ -137,7 +137,7 @@ However, you [need to remember that not all plants are safe for goats to eat](/c
 
 As a result, it is always best to consult with a qualified veterinarian before feeding any new plant to goats.
 
-## Final Thoughts
+## Wrapping Up
 
 [Goats can eat Persicaria perfoliata](/can-goats-eat-bananas/), but it is important to be aware of the potential risks. This plant contains high levels of oxalates, which can bind with calcium and other minerals in the goat's gut, causing constipation and diarrhea.
 

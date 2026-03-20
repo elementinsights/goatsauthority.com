@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether or not you can breed a father and daughter-goat. And if so, what are the things you need to consider before taking this step?
 
-In this article, we will answer those questions and provide you with additional information about line breeding, inbreeding, and outbreeding.
+Here's what you need to know.we will answer those questions and provide you with additional information about line breeding, inbreeding, and outbreeding.
 
 ## Can you breed a father and daughter goat?
 
@@ -130,7 +130,7 @@ Additionally, it is important to consult with a veterinarian or other expert bef
 
 Ultimately, the best time to line-breed your goats is when you have done your research and you are confident that you understand the risks and rewards involved.
 
-## Final Thoughts
+## What to Remember
 
 You can breed your goats using different methods, each with its own advantages and disadvantages. Line breeding is a tool that can be used to improve desired traits in your herd but it comes with the risk of inbreeding.
 

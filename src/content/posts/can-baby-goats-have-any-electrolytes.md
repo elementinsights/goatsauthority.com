@@ -42,7 +42,7 @@ faq:
 
 When it comes to baby goats, many people are curious about their health and what they need in order to thrive.
 
-In this article, we'll explore the topic of electrolytes and baby goats and how they can benefit from them. We'll also provide some helpful tips on breeding your own baby goats.
+Read on for the full breakdown.we'll explore the topic of electrolytes and baby goats and how they can benefit from them. We'll also provide some helpful tips on breeding your own baby goats.
 
 ## Can baby goats have any electrolytes?
 
@@ -124,7 +124,7 @@ Additionally, kids may need to be supplemented with vitamins and minerals if the
 
 Baby goats also require plenty of clean water and should have access to fresh hay and other green fodder at all times. By providing these basic needs, you can help ensure that your [baby goats grow up](/can-i-grow-goats-for-cashmere-and-angola/) healthy and strong.
 
-## Final Thoughts
+## Summary
 
 [Baby goats need electrolytes](/can-a-toddler-catch-a-disease-from-a-baby-goat/) and can become dehydrated if they do not have access to them. The best way to prevent this is to offer them a goat electrolyte solution or add supplements to their diet that contain electrolytes.
 

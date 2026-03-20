@@ -85,7 +85,7 @@ The leafy greens are packed with nutrients that are essential for good health.
 
 For example, spinach is high in iron, which is necessary for proper blood circulation. And also, spinach contains vitamin A, which is important for maintaining a strong immune system.
 
-Furthermore, the folate in spinach can help goats produce new cells and promote tissue growth. As a result, feeding spinach to sick goats can provide them with the nutrition they need to recover from illness and regain their strength.
+And, the folate in spinach can help goats produce new cells and promote tissue growth. As a result, feeding spinach to sick goats can provide them with the nutrition they need to recover from illness and regain their strength.
 
 ## What are the benefits of feeding spinach to goats?
 
@@ -135,7 +135,7 @@ Semi-savoy spinach has intermediate between flat-leaf and savoy spinach, with sm
 
 No matter what kinds of spinach you have available, they can all be [fed to goats](/can-goats-eat-spring-mix/). Just be sure to wash the leaves thoroughly to remove any dirt or debris.
 
-## Final Thoughts
+## Summary
 
 Goats can eat spinach. Just be sure to feed them the appropriate amount and keep an eye out for signs of nitrate poisoning.
 

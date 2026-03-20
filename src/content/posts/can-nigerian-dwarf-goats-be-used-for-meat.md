@@ -44,7 +44,7 @@ We all know that Nigerian dwarf goats are amazing little creatures. They're frie
 
 But can they also be used for meat? And if so, what are the things you need to consider before making this decision?
 
-In this article, we will answer those questions about Nigerian dwarf goats and [meat production](/can-you-buy-goat-meat-at-walmart/). We will also provide some tips on how to raise healthy and happy Nigerian dwarf goats, whether you're raising them for pets or for meat production.
+Let's break it down.we will answer those questions about Nigerian dwarf goats and [meat production](/can-you-buy-goat-meat-at-walmart/). We will also provide some tips on how to raise healthy and happy Nigerian dwarf goats, whether you're raising them for pets or for meat production.
 
 ## Can Nigerian dwarf goats be used for meat?
 
@@ -120,7 +120,7 @@ Another benefit of raising Nigerian dwarf goats is that they're less likely to e
 
 This makes them easier to keep contained, which can save you time and money.
 
-Lastly, Nigerian dwarf goats are a hardy breed. They're resistant to many of the diseases that affect other [breeds of goats](/can-a-goat-breed-with-sheep/), and they have a long lifespan.
+Last thing to note: Nigerian dwarf goats are a hardy breed. They're resistant to many of the diseases that affect other [breeds of goats](/can-a-goat-breed-with-sheep/), and they have a long lifespan.
 
 With proper care, they can live for 10-12 years.
 
@@ -130,7 +130,7 @@ In addition, their meat is just as tasty as the meat from larger breeds. They're
 
 With proper care, they can live for 10-12 years.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.
 

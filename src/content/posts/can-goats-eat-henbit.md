@@ -47,7 +47,7 @@ We all know that goats have a veracious appetite. They will try to eat anything 
 
 So, can goats eat henbit? And if so, what are the [benefits and nutrition facts](/can-goats-drink-juice/)?
 
-In this article, we will answer all of your questions regarding goats and henbit. We will also provide some [tips on how to properly feed your goats](/can-baking-soda-cause-urinary-issues-in-goats/) this herb.
+Let's break it down.we will answer all of your questions regarding goats and henbit. We will also provide some [tips on how to properly feed your goats](/can-baking-soda-cause-urinary-issues-in-goats/) this herb.
 
 ## Can goats eat henbit?
 
@@ -103,7 +103,7 @@ If not treated immediately, Nitrate Poisoning can be fatal.
 
 To prevent the [risks of feeding goats henbit](/can-goats-eat-chicken-feed/), farmers should test the nitrate levels in the plant before allowing their goats to graze on it. They should also make sure that the [goats have access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times, as this will help to flush the nitrates out of their system.
 
-Lastly, farmers should monitor their goats closely for any signs of Nitrate Poisoning and seek goat expert care immediately if any symptoms are observed. By taking these precautions, farmers can safely allow their goats to graze on henbit without putting them at risk of Nitrate Poisoning.
+One more thing: farmers should monitor their goats closely for any signs of Nitrate Poisoning and seek goat expert care immediately if any symptoms are observed. By taking these precautions, farmers can safely allow their goats to graze on henbit without putting them at risk of Nitrate Poisoning.
 
 ## What are the treatment options for goats that have eaten henbit?
 
@@ -133,7 +133,7 @@ When it comes to [feeding goats](/can-a-goat-feed-quads/), there's no one-size-f
 
 With that in mind, by exercising caution and consulting with a livestock specialist, you can ensure that your [goat has a healthy and balanced diet that meets all of its nutritional needs](/can-i-use-regular-milk-to-feed-a-baby-goat/).
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can eat henbit, but it's important to exercise caution when doing so. Henbit contains high levels of nitrates, which can be toxic to goats if consumed in large quantities.
 

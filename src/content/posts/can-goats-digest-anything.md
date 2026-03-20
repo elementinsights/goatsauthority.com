@@ -130,9 +130,9 @@ First, they should always have access to fresh water.
 
 Second, goats are browsers, not grazers, so their diet should be high in browse (leaves and twigs).
 
-Lastly, while [goats can eat a variety of foods](/can-sheep-eat-goat-food/), they should not be given too much grain or rich food, as this can cause digestive problems. With proper care, [goats can make great pets and provide many benefits](/can-benadryl-hurt-a-goat/) to their owners.
+And finally, while [goats can eat a variety of foods](/can-sheep-eat-goat-food/), they should not be given too much grain or rich food, as this can cause digestive problems. With proper care, [goats can make great pets and provide many benefits](/can-benadryl-hurt-a-goat/) to their owners.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats are interesting animals with unique digestive systems. They are able to eat a wide range of materials, thanks to their four-chamber stomachs.
 

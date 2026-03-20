@@ -46,7 +46,7 @@ faq:
 
 Many people are curious if goats and horses can pasture together or not. And if so, what are the benefits?
 
-In this article, we will answer all of your questions regarding grazing goats and horses together. We'll discuss the benefits, if there are any disadvantages, and give you some tips on how to make sure your animals graze peacefully together.
+we will answer all of your questions regarding grazing goats and horses together. We'll discuss the benefits, if there are any disadvantages, and give you some tips on how to make sure your animals graze peacefully together.
 
 ## Can goats and horses pasture together?
 
@@ -68,7 +68,7 @@ Another benefits that goats can help improve the quality of the pasture. As we m
 
 This can help keep the pasture clean and free of harmful plants.
 
-Lastly, grazing goats and horses together can provide socialization for both animals. Goats are social animals and enjoy being around other animals.
+Last thing to note: grazing goats and horses together can provide socialization for both animals. Goats are social animals and enjoy being around other animals.
 
 This can help prevent boredom and loneliness.
 
@@ -108,7 +108,7 @@ While goats are generally considered to be independent animals, they can benefit
 
 Horse manure is an excellent [source of nutrients for goats](/can-goats-eat-alfalfa/), and the two animals can help keep each other's [grazing areas clean](/can-goats-be-tied-up-for-selective-area-grazing/).
 
-Furthermore, goats can help horses to control [weeds](/can-goats-eat-dandelions/) and parasites. When creating a goat-horse pasture, it's important to consider the needs of both species.
+What's more, goats can help horses to control [weeds](/can-goats-eat-dandelions/) and parasites. When creating a goat-horse pasture, it's important to consider the needs of both species.
 
 The pasture should be large enough to allow each animal plenty of space to graze, and it should have access to shelter from the sun and wind. Water should also be readily available.
 
@@ -124,7 +124,7 @@ You also need to consider the size of the animals. If you have large and small a
 
 Another thing to think about is the type of pasture. Some plants are more palatable than others, so you'll need to make sure there's a good mix of [grasses and other plants](/can-goats-eat-centipede-grass/) for the animals to graze on.
 
-Lastly, you need to be aware of the potential for disease transmission. When animals graze together, they can easily spread diseases between them.
+Finally, you need to be aware of the potential for disease transmission. When animals graze together, they can easily spread diseases between them.
 
 So, you need to make sure that all of the animals are healthy before putting them out to pasture together.
 
@@ -148,11 +148,11 @@ Since animals graze so close to the ground, they can easily spread diseases betw
 
 Another risk is injury. If the animals are not compatible, they may fight or bully each other, which can lead to injuries.
 
-Lastly, you need to be aware of the potential for parasites. When animals graze together, they can easily spread parasites between them.
+Finally, you need to be aware of the potential for parasites. When animals graze together, they can easily spread parasites between them.
 
 So, you need to have a good deworming and parasite control program in place.
 
-## Final Thoughts
+## Summary
 
 Goats and horses can pasture together, but there are a few things you need to consider before doing so. The most important thing is compatibility.
 

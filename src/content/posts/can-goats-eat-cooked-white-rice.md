@@ -52,7 +52,7 @@ You can be curious about a certain dish, such as rice. Is cooked white rice safe
 
 If so, what are the health advantages and nutritional details?
 
-In this article, we will answer those questions and provide more information about [goats and their eating habits](/can-a-goat-eat-sticker-bushes/).
+we will answer those questions and provide more information about [goats and their eating habits](/can-a-goat-eat-sticker-bushes/).
 
 ## Can goats eat cooked white rice?
 
@@ -134,7 +134,7 @@ There are a variety of food options for goats, including [hay](/what-kind-of-hay
 
 When feeding goats, it's important to give them a variety of different foods. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 
-## Final Thoughts
+## Wrapping Up
 
 Cooked white rice is safe for goats to eat. However, it should be fed in moderation and as part of a balanced diet.
 

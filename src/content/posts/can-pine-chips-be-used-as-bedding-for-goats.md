@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether you can use pine chips as bedding for goats or not. And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions for you and provide you with additional information on using pine chips as bedding for goats.
+we will answer those questions for you and provide you with additional information on using pine chips as bedding for goats.
 
 ## Can pine chips be used as bedding for goats?
 
@@ -52,7 +52,7 @@ You also want to avoid using pine chips that have been treated with any type of 
 
 In addition, you need to be aware that pine chips can be dusty. So, if you have goats with respiratory problems, you may want to avoid using pine chips as bedding.
 
-Lastly, you need to make sure that the pine chips are dry before using them as bedding for your goats. If they are too wet, they can mold and mildew.
+To wrap up, you need to make sure that the pine chips are dry before using them as bedding for your goats. If they are too wet, they can mold and mildew.
 
 So, those are a few things you need to consider before using pine chips as bedding for your goats. If you have any further questions, please consult with a [goat farmer](/can-goats-live-in-an-urban-environment/) or veterinarian.
 
@@ -74,7 +74,7 @@ This is essential because using wood chips from commercially-harvested trees can
 
 In addition, you should pay careful attention to the pH balance of the wood chips, since overly acidic or alkaline pine shavings can have negative effects on goat health.
 
-Lastly, it is a good idea to take your goats' preferences into account when choosing bedding material. Some goats might not like the texture or smell of pine chips, so it is important to experiment and see what works best for your herd.
+To wrap up, it is a good idea to take your goats' preferences into account when choosing bedding material. Some goats might not like the texture or smell of pine chips, so it is important to experiment and see what works best for your herd.
 
 When approached with care and consideration, however, pine chips can offer a sustainable and affordable bedding solution for any [small farm](/can-i-buy-a-goat-as-a-pet/) or homestead.
 
@@ -112,7 +112,7 @@ For one, pine chips tend to be dusty, which can irritate the goat's respiratory 
 
 Additionally, pine chips do not offer nearly as much absorbent power as other types of bedding materials.
 
-Lastly, because of their strong scent and sticky texture, pine chips can attract unwanted insects like termites or ants.
+One more thing: because of their strong scent and sticky texture, pine chips can attract unwanted insects like termites or ants.
 
 Despite these drawbacks, however, many farmers still rely on pine chips as an affordable bedding material for their herds.
 
@@ -126,7 +126,7 @@ Finally, when adding the pine chips to your goat pen or stall, layer them betwee
 
 With these tips in mind, you can successfully use pine chips for goat bedding and keep your animals safe and healthy.
 
-## Final Thoughts
+## What to Remember
 
 You can be used pine chips as bedding for goats by following a few key considerations. First, make sure the pine chips are properly aged and dry.
 

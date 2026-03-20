@@ -48,7 +48,7 @@ faq:
 
 You may be wondering if goats can eat cooked pasta or not. And if so, what are the benefits and nutrition facts?
 
-In this article, we will answer all of your questions so that you can make an informed decision about whether or not to feed your goat's cooked pasta.
+Here's what you need to know.we will answer all of your questions so that you can make an informed decision about whether or not to feed your goat's cooked pasta.
 
 ## Can goats eat cooked pasta?
 
@@ -110,7 +110,7 @@ This can lead to stomach or intestinal problems, and in severe cases, blockages.
 
 Second, if the pasta is very high in carbohydrates, it can [cause the goat to become overweight](/can-alfalfa-pellets-cause-goats-to-bloat/) or obese. This can lead to a number of health problems, including joint pain, respiratory problems, and insulin resistance.
 
-Lastly, if the pasta is served with a sauce that is high in sugar or salt, it can also be harmful to the goat. Too much sugar or salt can lead to dehydration and electrolyte imbalance.
+And finally, if the pasta is served with a sauce that is high in sugar or salt, it can also be harmful to the goat. Too much sugar or salt can lead to dehydration and electrolyte imbalance.
 
 For these reasons, it's crucial to be careful when feeding goats cooked pasta.
 
@@ -144,7 +144,7 @@ Additionally, hay is less likely to cause digestive problems than cooked pasta. 
 
 These are a good source of vitamins and minerals, and they can help to keep your [goat's digestive system](/can-goats-digest-anything/) healthy. Just be sure to avoid giving your goat any fruits or vegetables that are high in sugar or salt.
 
-## Final Thoughts
+## What to Remember
 
 [Goats can eat cooked pasta](/can-goats-eat-watermelon/). However, it's important to feed them only a small amount to prevent digestive problems.
 

@@ -55,7 +55,7 @@ But remember to serve them in moderation. Too many cranberries might upset their
 
 It’s best to mix it with other feed or use as an occasional treat.
 
-Lastly, ensure that they’re clean and free from pesticides before feeding your goats. This will keep them safe while enjoying this nutritious snack.
+Last thing to note: ensure that they’re clean and free from pesticides before feeding your goats. This will keep them safe while enjoying this nutritious snack.
 
 ### Feeding Fresh Cranberries to Goats
 
@@ -189,7 +189,7 @@ So, limit the amount they eat each day.
 
 A handful of cranberries mixed into their regular feed works well. It provides variety without causing harm.
 
-In conclusion, yes, goats can eat cranberries safely if given properly.
+To sum up, yes, goats can eat cranberries safely if given properly.
 Remember to observe any changes in your goat’s behavior after introducing new food items like these berries.
 
 ## Nutritional Benefits of Cranberries for Goats
@@ -208,7 +208,7 @@ Feeding goats is not always straightforward. They have unique dietary needs that
 
 Cranberries might seem like a good treat, but can goats eat cranberries? This question may cross your mind if you’re trying to mix up their diet or dispose of leftover fruit in an eco-friendly way.
 
-Before feeding anything new to your goat, it’s crucial to know whether it’s safe and beneficial for them or not. In this article, we’ll discuss the impact of cranberries on a goat’s health.
+Before feeding anything new to your goat, it’s crucial to know whether it’s safe and beneficial for them or not. Let's break it down.we’ll discuss the impact of cranberries on a goat’s health.
 
 ## Are Cranberries Bad for Goats?
 

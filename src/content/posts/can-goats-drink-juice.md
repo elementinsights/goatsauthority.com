@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether or not goats can drink juice. And if so, what kind of juice is best for them?
 
-In this article, we will answer all of your questions about goats and juice. We will also explore the [nutritional benefits and drawbacks of giving goat juice](/can-i-give-a-moldy-pumpkin-to-goats/).
+we will answer all of your questions about goats and juice. We will also explore the [nutritional benefits and drawbacks of giving goat juice](/can-i-give-a-moldy-pumpkin-to-goats/).
 
 ## Can goats drink juice?
 

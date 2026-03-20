@@ -45,7 +45,7 @@ The saying goes that the eyes are the windows to the soul. But what about goats?
 
 Do they have good eyesight? What kind of things do they see when they look around?
 
-In this article, we'll explore everything you need to know about goat vision.
+We'll cover everything below.we'll explore everything you need to know about goat vision.
 
 ## Do goats have good eyesight?
 

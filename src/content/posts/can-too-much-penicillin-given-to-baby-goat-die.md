@@ -47,7 +47,7 @@ We all know that penicillin is an antibiotic. It's used to treat bacterial infec
 
 But have you ever wondered if it is safe for baby goats? And if so, can too much penicillin kill them?
 
-In this article, we will answer those questions about penicillin and [baby goats](/can-baby-goats-have-any-electrolytes/). We'll also tell you everything else you need to know about using this antibiotic on your little ones.
+We'll cover everything below.we will answer those questions about penicillin and [baby goats](/can-baby-goats-have-any-electrolytes/). We'll also tell you everything else you need to know about using this antibiotic on your little ones.
 
 ## Can too much penicillin given to baby goat die?
 
@@ -133,7 +133,7 @@ In general, it's important to be aware of the potential side effects of giving a
 
 With prompt treatment, the chances of a full recovery are excellent.
 
-## Final Thoughts
+## Summary
 
 Giving your baby goat penicillin can be a lifesaving measure, but it's important to be aware of the potential risks.
 

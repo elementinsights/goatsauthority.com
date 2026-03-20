@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if you can describe a herd of sheep and goats or not. And if so, what do you call a group of sheep and goats?
 
-In this article, we will answer your questions and give you some tips on how to describe a herd of sheep and goats. We will also provide some interesting facts about sheep and goats that you may not know.
+Here's what you need to know.we will answer your questions and give you some tips on how to describe a herd of sheep and goats. We will also provide some interesting facts about sheep and goats that you may not know.
 
 ## Can you describe a herd of sheep and goats?
 
@@ -132,7 +132,7 @@ For example, if a sheep or goat does not have access to enough food or shelter, 
 
 Ultimately, there are a few health concerns that sheep and goats can experience, but these animals are generally healthy if they are well-cared for.
 
-## Final Thoughts
+## What to Remember
 
 Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
 

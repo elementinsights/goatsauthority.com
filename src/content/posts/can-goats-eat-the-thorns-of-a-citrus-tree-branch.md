@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether or not goats can eat the thorns of a citrus tree branch. And if so, what are the things you need to know?
 
-In this article, we will explore the answer to those questions and provide you with some key points that you need to remember.
+Let's break it down.we will explore the answer to those questions and provide you with some key points that you need to remember.
 
 ## Can goats eat the thorns of a citrus tree branch?
 
@@ -66,7 +66,7 @@ It's also worth noting that [goats' digestive systems](/can-goats-digest-anythin
 
 In addition to their browsing habits, goats also offer other benefits to citrus trees.
 
-Their manure is rich in nutrients, which can help to fertilize the soil and promote healthy growth. Furthermore, their presence can help to discourage pests and diseases.
+Their manure is rich in nutrients, which can help to fertilize the soil and promote healthy growth. What's more, their presence can help to discourage pests and diseases.
 
 For all these reasons, [goats can be a valuable asset to any citrus farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/).
 
@@ -74,7 +74,7 @@ For all these reasons, [goats can be a valuable asset to any citrus farm](/can-a
 
 There are a few risks associated with goats eating the thorns of a citrus tree branch. First, the thorns can puncture the [goat's digestive tract](/can-goats-digest-cotton/), causing internal bleeding and potentially leading to death.
 
-Secondly, if the thorns are covered in poison ivy or other poisonous plants, the [goat could become sick or even die](/can-goats-die-from-lymes/).
+Following that, if the thorns are covered in poison ivy or other poisonous plants, the [goat could become sick or even die](/can-goats-die-from-lymes/).
 
 Finally, if the thorns get caught in the goat's fur, they can be difficult to remove and may cause irritation or infection. Therefore, it is important to exercise caution when allowing goats to graze on citrus tree branches.
 
@@ -114,7 +114,7 @@ The best time to feed goats citrus tree branches is in the early morning or late
 
 Additionally, feeding them in the early morning or late evening will help to avoid any digestive issues that may occur from eating too much citrus.
 
-Lastly, it's important to make sure that the branches you're feeding them are clean and free of any pesticides or herbicides.
+Finally, it's important to make sure that the branches you're feeding them are clean and free of any pesticides or herbicides.
 
 ## Are there any other uses of citrus tree branches other than feeding goats?
 

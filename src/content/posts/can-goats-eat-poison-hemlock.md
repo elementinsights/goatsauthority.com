@@ -42,7 +42,7 @@ faq:
 
 it's difficult to determine whether your goats can eat poison hemlock or not. And if so, how much is safe for them?
 
-In this article, we'll answer all of those questions for you and provide some tips on how to keep your goats healthy and safe.
+Here's the short version.we'll answer all of those questions for you and provide some tips on how to keep your goats healthy and safe.
 
 ## Can goats eat poison hemlock?
 
@@ -126,7 +126,7 @@ The amount of poison hemlock that a goat can eat depends on the size of the goat
 
 Goats are more resistant to the toxin than [other animals](/can-goats-eat-moldy-hay/), but they can still be poisoned if they eat enough of the plant. A single bite of poison hemlock can be enough to kill a goat.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can eat poison hemlock, but it's very dangerous for them. The plant contains a toxin that can cause respiratory failure and death.
 

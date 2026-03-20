@@ -44,7 +44,7 @@ faq:
 
 We all know that goats are browsers, and will pretty much eat anything they can reach. So, it's no surprise that people often wonder if it's okay to feed their goats almonds.
 
-In this article, we'll discuss whether or not it's safe to feed your Nubian goat raw almonds, and what the benefits (or risks) might be.
+we'll discuss whether or not it's safe to feed your Nubian goat raw almonds, and what the benefits (or risks) might be.
 
 ## Can I feed a small amount of raw almonds to my Nubian goats?
 
@@ -114,7 +114,7 @@ By following these simple guidelines, you can help to ensure that your Nubian go
 
 If your [Nubian goat does happen to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/), there are a few things you can do to help them recover. First, make sure they have access to fresh water and plenty of rest.
 
-Second, you can try giving them small amounts of bland foods like boiled rice or oats. Lastly, if their condition doesn't improve, it's always best to consult a goat expert.
+Second, you can try giving them small amounts of bland foods like boiled rice or oats. And finally, if their condition doesn't improve, it's always best to consult a goat expert.
 
 With proper care and treatment, most Nubian [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/) from sickness. However, if you're ever unsure about what to do, it's always best to consult a professional.
 
@@ -132,7 +132,7 @@ The best time to feed your Nubian goats is in the morning and evening. This will
 
 Additionally, it's always best to provide them with fresh hay and water throughout the day. By following these simple guidelines, you can help to ensure that your Nubian goats stay healthy and happy.
 
-## Final Thoughts
+## The Bottom Line
 
 Feeding your Nubian goats a small number of raw almonds is perfectly safe. They may even enjoy the treat, and it can help to keep them occupied and out of mischief.
 

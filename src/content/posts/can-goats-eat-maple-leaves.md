@@ -71,7 +71,7 @@ Watch for any signs of discomfort or illness.
 
 If your baby goat seems fine after eating the maple leaves, you can gradually increase the amount over time. Remember to keep it balanced though, too much of anything isn’t healthy.
 
-Lastly, make sure that the leaves haven’t been sprayed with pesticides or chemicals before feeding them to your kid.
+Last thing to note: make sure that the leaves haven’t been sprayed with pesticides or chemicals before feeding them to your kid.
 
 ##### Can Goats Eat Live, Fallen or Dried Maple Leaves?
 
@@ -169,7 +169,7 @@ Avoid wilted or dried up ones as these could harm their stomachs.
 
 Next step is washing the leaves thoroughly under running water. This gets rid of any chemicals that might have sprayed on them from outside sources.
 
-Lastly, serve the maple leaves in moderation with other foods in their diet plan such as hay or [grains](/can-goats-eat-oats/) to maintain balance nutritionally.
+To wrap up, serve the maple leaves in moderation with other foods in their diet plan such as hay or [grains](/can-goats-eat-oats/) to maintain balance nutritionally.
 
 Remember, variety is key when it comes to feeding your herd healthy meals each day.
 

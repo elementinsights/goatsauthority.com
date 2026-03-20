@@ -44,7 +44,7 @@ You’re probably familiar with the old saying, “You are what you eat.” Well
 
 One way to do this is to worm them regularly. But you might be wondering, can I worm my three-day-old goat?
 
-In this article, we will answer those questions and provide you with additional information about goats and worming.
+Read on for the full breakdown.we will answer those questions and provide you with additional information about goats and worming.
 
 ## Can I worm my three day old goat?
 
@@ -134,7 +134,7 @@ Depending on the type of worm problem that you are dealing with, there may also 
 
 In general, by taking these proactive measures, you can help minimize your goat's chances of getting worms and ensure that they stay healthy and happy for years to come.
 
-## Final Thoughts
+## Key Takeaways
 
 You can worm your goat by following the steps in this article. You should also know when to worm your goat and how often to do so.
 

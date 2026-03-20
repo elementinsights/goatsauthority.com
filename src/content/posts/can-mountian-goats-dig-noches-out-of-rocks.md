@@ -45,7 +45,7 @@ Mountain goats are well known for their [climbing abilities](/can-a-nubian-goat-
 
 And if so, what do they use them for?
 
-In this article, we'll explore the possibility of mountain goats digging noches out of rocks, and what they might use them for.
+Here's the short version.we'll explore the possibility of mountain goats digging noches out of rocks, and what they might use them for.
 
 ## Can mountain goats dig noches out of rocks?
 
@@ -69,7 +69,7 @@ For one thing, by grazing on less palatable plant species, mountain goats help t
 
 They also help to aerate soils with their hooves, increasing access to water and nutrients for other organisms.
 
-Furthermore, the noches of valuable minerals in the soil that are excreted by mountain goats provide essential nutrients for surrounding flora.
+Also, the noches of valuable minerals in the soil that are excreted by mountain goats provide essential nutrients for surrounding flora.
 
 In general, the role of mountain goat noches in the ecosystem is essential and cannot be overstated.
 

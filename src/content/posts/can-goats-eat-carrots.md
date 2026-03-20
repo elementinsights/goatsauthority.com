@@ -61,7 +61,7 @@ However, moderation is key when feeding carrots to your goat because they’re h
 
 So how do you feed them?
 
-In conclusion, giving your pet goat a carrot now and then isn’t only safe but beneficial too, provided you keep portions under control.
+So, giving your pet goat a carrot now and then isn’t only safe but beneficial too, provided you keep portions under control.
 
 ## Is It Safe to Feed Carrots to Goats?
 
@@ -201,7 +201,7 @@ After this period, you can slowly introduce solid foods like [hay and grains](/c
 
 Remember: always chop up the carrot into bite-sized pieces before feeding them to avoid choking hazards.
 
-In conclusion, yes, kids can enjoy munching on some delicious carrot bits every now then but moderation is key here too just like with adult goats.
+Bottom line: yes, kids can enjoy munching on some delicious carrot bits every now then but moderation is key here too just like with adult goats.
 
 ## Can Goats Eat Carrot Tops, Leaves or Greens?
 

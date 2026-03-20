@@ -53,7 +53,7 @@ This fruit has high sugar content which isn’t good for their digestion if cons
 
 Remember to remove the hard outer skin before feeding your goat pineapple. The rough texture could hurt their mouth or throat.
 
-Lastly, always monitor how your goat reacts after trying new food items like pineapples for any signs of discomfort or illness.
+Last thing to note: always monitor how your goat reacts after trying new food items like pineapples for any signs of discomfort or illness.
 
 ### Understanding Goat Dietary Needs
 
@@ -143,7 +143,7 @@ Another concern is the hard outer shell of the fruit. It could cause choking or 
 
 Pineapple leaves may also be problematic for some goats as they contain sharp edges that might harm their mouths and throats.
 
-Lastly, always remember moderation is key when introducing new foods into your goat’s diet. A small piece of pineapple once in a while should be fine but don’t make it a daily treat.
+To wrap up, always remember moderation is key when introducing new foods into your goat’s diet. A small piece of pineapple once in a while should be fine but don’t make it a daily treat.
 
 ### Can Pregnant Goats Eat Pineapple?
 
@@ -197,7 +197,7 @@ Next, wash it well to remove any dirt or chemicals on its skin. This ensures tha
 
 Then cut up the pineapple into small pieces for easy eating. Remember to remove the hard core in the middle as it can be tough for them to chew on.
 
-Lastly, feed these pieces directly or mix with their regular food for a tasty surprise. Keep an eye out though, too much could lead to tummy troubles.
+Last but not least, feed these pieces directly or mix with their regular food for a tasty surprise. Keep an eye out though, too much could lead to tummy troubles.
 
 ### Tips for Introducing Pineapple Into Your Goat’s Diet
 
@@ -249,7 +249,7 @@ We fed him small pieces of the fruit once in a while and he seemed to enjoy it.
 
 Our second goat, Daisy wasn’t as keen on pineapples as Billy was. She nibbled at them but preferred her usual diet of hay and grains.
 
-Lastly, there’s old man Pepper who outright refused to eat any pineapple offered to him. It just didn’t appeal to his taste buds or maybe his dietary needs were different from those of younger goats like Billy and Daisy.
+Last thing to note: there’s old man Pepper who outright refused to eat any pineapple offered to him. It just didn’t appeal to his taste buds or maybe his dietary needs were different from those of younger goats like Billy and Daisy.
 
 These studies show that whether or not goats can eat pineapple depends largely on their personal preferences rather than any general rule.
 

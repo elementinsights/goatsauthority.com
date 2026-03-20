@@ -45,7 +45,7 @@ Feeding your goats can be tricky- you want to make sure they're getting enough n
 
 And if so, what are the things you should keep in mind?
 
-In this article, we will answer all those questions for you and provide more information on the [benefits and hazards of feeding lambsquarter weed to your goats](/can-goats-milk-be-frozen/) as well as what serving size is appropriate.
+Here's the short version.we will answer all those questions for you and provide more information on the [benefits and hazards of feeding lambsquarter weed to your goats](/can-goats-milk-be-frozen/) as well as what serving size is appropriate.
 
 ## Can goats eat lambsquarter weed?
 
@@ -129,7 +129,7 @@ Clover is a legume that is high in protein, and it can also help to improve the 
 
 There are many other types of plants that can be fed to goats, and goat owners should consult with a veterinarian or goat expert to determine which plants are best for their animals.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, lambsquarter weed is a valuable source of [nutrition for goats](/can-i-use-regular-milk-to-feed-a-baby-goat/). However, there are some risks associated with feeding this plant to goats.
 

@@ -46,7 +46,7 @@ faq:
 
 Goats' digestive systems are pretty tough and you may be wondering if they can eat too many dewormer pellets or not. And if so, what are the risks and benefits?
 
-In this article, we will answer all of your questions about feeding your goat dewormer pellets and provide you with some guidelines on serving size.
+Let's break it down.we will answer all of your questions about feeding your goat dewormer pellets and provide you with some guidelines on serving size.
 
 ## Can a goat eat too many dewormer pellets?
 
@@ -134,7 +134,7 @@ Pasture management involves taking measures to prevent worms from getting into a
 
 Talk to a goat expert about which method of deworming is best for your goat.
 
-## Final Thoughts
+## Wrapping Up
 
 A goat can eat too many dewormer pellets if the dosage is not properly calculated. Overdosing on dewormers can be just as harmful as not deworming at all.
 

@@ -84,7 +84,7 @@ First, you will need to provide them with plenty of fresh water and hay. Goats a
 
 Hay is important for their digestion and also provides them with essential nutrients.
 
-Secondly, you will need to give them access to a pasture or other grazing area. Goats are natural foragers and love to graze on grasses and other plants.
+After that, you will need to give them access to a pasture or other grazing area. Goats are natural foragers and love to graze on grasses and other plants.
 
 Finally, you will need to provide them with shelter from the elements. Goats are fairly hardy animals, but they still need protection from the sun, wind, and rain.
 
@@ -130,7 +130,7 @@ Adult goats require hay, fresh water, and a mineral supplement. They also enjoy 
 
 With proper care, your goats will provide you with years of companionship and enjoyment.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can have anywhere from one to twelve babies](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/) at a time, though the average is usually two or three. They generally give birth without any problems, but sometimes kids can be born with deformities or without fur coats.
 

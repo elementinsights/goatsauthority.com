@@ -44,7 +44,7 @@ faq:
 
 People who own pygmy goats often wonder if it's okay for them to eat hay. If so, what are some things they should take into account?
 
-In this article, we will answer those questions about whether pygmy goats can eat hay and what nutritional value it has for them. We will also provide some tips on how to choose the best hay for your pygmy goats.
+Here's the short version.we will answer those questions about whether pygmy goats can eat hay and what nutritional value it has for them. We will also provide some tips on how to choose the best hay for your pygmy goats.
 
 ## Can pygmy goats eat hay?
 
@@ -126,7 +126,7 @@ Choosing the right alternative food source for [pygmy goats often comes down to 
 
 Ultimately though, any alternative food source for pygmy goats should be carefully selected to maintain the health of these small but resilient animals.
 
-## Final Thoughts
+## Summary
 
 Pygmy goats are a hardy and versatile breed that can thrive in a variety of environments. When it comes to their diet, pygmy goats are primarily herbivores and their diet should reflect this.
 

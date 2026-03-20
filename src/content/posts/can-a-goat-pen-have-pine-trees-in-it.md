@@ -123,7 +123,7 @@ Finally, pine trees produce sap, which can be sticky and attract insects. If the
 
 For these reasons, it's crucial to monitor goats carefully if there are [pine trees in their pen](/can-goats-climb-fences/).
 
-## Final Thoughts
+## What to Remember
 
 A goat pen can have pine trees in it, but there are a few things to consider before planting them. First, make sure to choose a type of pine tree that is strong and durable.
 
@@ -131,6 +131,6 @@ Some good choices include the Eastern white pine, the Scotch pine, and the Austr
 
 Some goats may need more shade, while others may prefer a type of pine tree that is more resistant to browsing.
 
-Lastly, keep in mind that pine trees require some maintenance, such as trimming, fertilizing, and watering.
+Finally, keep in mind that pine trees require some maintenance, such as trimming, fertilizing, and watering.
 
 However, if you take the time to care for them properly, pine trees can make a great addition to a goat pen.

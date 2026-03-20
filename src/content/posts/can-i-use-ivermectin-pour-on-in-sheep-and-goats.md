@@ -44,7 +44,7 @@ faq:
 
 It is difficult to determine whether or not ivermectin is effective in treating sheep and goats. And if so, what are the possible side effects?
 
-In this article, we will answer those questions about ivermectin and provide some valuable insights into its use in sheep and goats.
+we will answer those questions about ivermectin and provide some valuable insights into its use in sheep and goats.
 
 ## Can I use ivermectin pour on in sheep and goats?
 
@@ -88,7 +88,7 @@ There are several possible side effects of using Ivermectin on sheep and goats. 
 
 In some cases, animals may also experience skin irritation or an allergic reaction to the medication.
 
-Furthermore, animals that are particularly sensitive to Ivermectin may develop sensitivity to sunlight or have difficulty controlling their movements. And in some extreme cases, Ivermectin use can even lead to seizures or coma in sheep or goats.
+And, animals that are particularly sensitive to Ivermectin may develop sensitivity to sunlight or have difficulty controlling their movements. And in some extreme cases, Ivermectin use can even lead to seizures or coma in sheep or goats.
 
 While these side effects are relatively rare, it is important for farmers and herders to be vigilant when using this medication and monitor their animals closely for any signs of discomfort or changes in behavior.
 
@@ -142,7 +142,7 @@ When in doubt, it is always best to consult with a qualified goat expert prior t
 
 This will help ensure that they receive the proper treatment and care they need. Ultimately, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
-## Final Thoughts
+## The Bottom Line
 
 You can protect your sheep and goats against parasites by using Ivermectin, but it's important to follow the proper [dosage](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/) and safety protocols.
 

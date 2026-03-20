@@ -45,7 +45,7 @@ We all know that goats are versatile animals. They can be used for their milk, m
 
 But one question always comes up: can goats swim?
 
-In this article, we will answer this question in full detail. We will [also look at some interesting facts about goats](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and their swimming abilities.
+we will answer this question in full detail. We will [also look at some interesting facts about goats](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and their swimming abilities.
 
 ## Can a goat swim?
 
@@ -141,7 +141,7 @@ For one, it helps to keep them cool in the summer heat. Goats are one of the few
 
 In addition, swimming is a great form of exercise for goats and can help to keep them healthy and fit. So next time you’re at the farm, be sure to check out the swimming goats, you’re sure to be entertained.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can swim, and they often enjoy doing so. Swimming is a great way for goats to exercise and stay healthy.
 

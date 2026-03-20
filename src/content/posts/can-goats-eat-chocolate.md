@@ -67,7 +67,7 @@ The main ingredients of chocolate are cocoa beans, sugar, and fat. Cocoa beans b
 
 These two substances can be harmful to goats as they cannot metabolize them properly. Sugar is another concern because it leads to obesity if consumed excessively by goats or any other animals.
 
-Lastly, fats found in chocolate contribute to high cholesterol levels which could pose health risks for your goat over time.
+Last thing to note: fats found in chocolate contribute to high cholesterol levels which could pose health risks for your goat over time.
 
 In short: Chocolate might taste good but it isn’t nutritionally beneficial nor safe for our caprine friends. For nutrient-rich alternatives, consider [blueberries](/can-goats-eat-blueberries/) or [strawberries](/can-goats-eat-strawberries/).
 
@@ -145,7 +145,7 @@ Some signs include restlessness, rapid breathing, and weak pulse.
 
 There is no antidote for theobromine poisoning in goats either. If your goat has ingested any amount of chocolate or cocoa products you should contact your vet immediately.
 
-In conclusion, never feed your goat chocolate or anything containing cocoa because it could lead them into serious health problems due to its dangerous toxins like Theobromine.
+In short, never feed your goat chocolate or anything containing cocoa because it could lead them into serious health problems due to its dangerous toxins like Theobromine.
 
 ## How Much Chocolate Is Harmful for Goats?
 
@@ -205,7 +205,7 @@ Over time, it might result in severe issues like seizures and heart failure.
 
 Feeding your goat chocolate might seem harmless fun but remember this fact: even small amounts are dangerous for them. Just as we protect children from harmful substances, our furry friends need similar care too.
 
-In conclusion, keep chocolates away from your beloved pets including baby goats because what’s sweet to you can be deadly for them. Instead, offer safe treats like [pumpkin](/can-goats-eat-pumpkin/) or [squash](/can-goats-eat-squash/).
+To sum up, keep chocolates away from your beloved pets including baby goats because what’s sweet to you can be deadly for them. Instead, offer safe treats like [pumpkin](/can-goats-eat-pumpkin/) or [squash](/can-goats-eat-squash/).
 
 ### What Foods Are Poisonous to Goats?
 

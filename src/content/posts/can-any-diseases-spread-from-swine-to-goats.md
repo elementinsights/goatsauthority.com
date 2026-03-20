@@ -41,11 +41,11 @@ faq:
   - question: "What are the symptoms of transmittal diseases in goats?"
     answer: "The symptoms of transmittal diseases in goats can vary depending on the disease."
 ---
-Taking care of goats can be a fun and rewarding experience. But before you bring home your new furry friends, it's important to do your research.
+Owning goats comes with plenty of rewards and responsibilities. But before you bring home your new furry friends, it's important to do your research.
 
 One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats.
 
-In this article, we will answer that question and provide you with some more information on diseases that can be transmitted between animals.
+we will answer that question and provide you with some more information on diseases that can be transmitted between animals.
 
 ## Can any diseases spread from swine to goats?
 
@@ -139,7 +139,7 @@ In addition to vaccinations, there are other steps you can take to protect your 
 
 You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your [goats healthy](/can-goats-be-outside-in-winter/) and free from disease.
 
-## Final Thoughts
+## Key Takeaways
 
 Diseases can spread from swine to goats. Swine can [carry and transmit a variety of diseases to goats](/can-goats-carry-distemper/), some of which are potentially fatal.
 

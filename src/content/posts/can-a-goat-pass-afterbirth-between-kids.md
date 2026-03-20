@@ -72,7 +72,7 @@ Third, kids need a place to sleep. A small box or kiddie pool filled with straw 
 
 Just be sure to place it in a draught-free area to keep your kid warm and comfortable.
 
-Lastly, keep an eye out for signs of [illness](/can-a-dog-get-sick-from-a-goat/), such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
+To wrap up, keep an eye out for signs of [illness](/can-a-dog-get-sick-from-a-goat/), such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
 
 Caring for a newborn goat kid may seem daunting at first, but with a little knowledge and patience, you'll be a pro in no time.
 
@@ -146,7 +146,7 @@ However, there's quite a bit of variation between individual animals, so it's no
 
 Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. Ultimately, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats can pass afterbirth between kids, but it's important to take care of the afterbirth and make sure that it does not become infected. It's also important to keep an eye on the goat kid for signs of illness.
 

@@ -46,7 +46,7 @@ faq:
 
 You may be wondering if you can get diarrhea from goats or not. And if so, what are the things you should know?
 
-In this article, we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options.
+we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options.
 
 ## Can contact with goats cause diarrhea in humans?
 
@@ -143,7 +143,7 @@ People can become infected with the disease if they eat contaminated food or [dr
 
 In severe cases, the disease can lead to dehydration and even death. If you think you may have consumed contaminated meat or milk, please seek medical attention immediately.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.
 

@@ -45,7 +45,7 @@ Taking care of goats is a rewarding experience, and part of that is knowing what
 
 And if so, what are the benefits?
 
-In this article, we will answer all of your questions about [feeding bones to goats](/can-a-goat-feed-quads/), including the nutritional value of bones and whether or not there are any risks involved.
+we will answer all of your questions about [feeding bones to goats](/can-a-goat-feed-quads/), including the nutritional value of bones and whether or not there are any risks involved.
 
 ## Can goats eat bones?
 
@@ -139,7 +139,7 @@ Another option is to give your [goats raw meat](/can-sheep-drink-raw-goats-milk/
 
 With a little bit of research, you should have no trouble finding the perfect type of bone for your herd.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can eat bones](/can-a-goat-eat-sticker-bushes/) as part of a balanced diet. Bones are an excellent source of calcium and other minerals, and they can help keep goats' teeth healthy.
 

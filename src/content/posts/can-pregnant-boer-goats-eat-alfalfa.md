@@ -59,7 +59,7 @@ Alfalfa, also known as lucerne, is a type of legume that is commonly used to fee
 
 In addition to its nutritional benefits, alfalfa is also beneficial for pregnant Boer goats. Not only does it promote healthy growth in the developing offspring, but it can also help boost milk production in lactating goats.
 
-Furthermore, studies have shown that feeding alfalfa to [Boer goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) can improve gut health and reduce inflammation.
+Plus, studies have shown that feeding alfalfa to [Boer goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) can improve gut health and reduce inflammation.
 
 Overall, if you're looking for an effective and nutritious feed for your pregnant Boer goats, alfalfa is certainly worth considering.
 
@@ -125,7 +125,7 @@ Be sure to track any changes in behavior or activity as well, especially if you 
 
 By paying attention to these key signs, you can be sure that your pregnant Boer goat is getting all the nourishment she needs to grow her young successfully.
 
-## Final Thoughts
+## Summary
 
 In general, it is best to consult with a qualified goat expert before making any changes to your Boer goat's diet, especially if the animal is pregnant.
 

@@ -61,7 +61,7 @@ Though they are different animals, they share many similarities, which can help 
 
 For instance, both horses and goats are [social creatures](/can-i-mix-newborn-goats-and-older-goats/) that enjoy spending time with others. They are also curious and intelligent, which helps them to communicate and understand each other.
 
-Furthermore, they are both gentle and [non-aggressive](/can-i-remove-my-goat-full-grown-horns/), making them compatible roommates. As a result of these shared traits, horses and [goats often develop strong bonds](/can-old-goats-develop-rickets/) with each other, forming lasting relationships.
+Another point: they are both gentle and [non-aggressive](/can-i-remove-my-goat-full-grown-horns/), making them compatible roommates. As a result of these shared traits, horses and [goats often develop strong bonds](/can-old-goats-develop-rickets/) with each other, forming lasting relationships.
 
 ## How can you encourage bonding between your horses and goats?
 
@@ -85,7 +85,7 @@ The benefits of a horse-goat bond are numerous. Goats are intelligent and curiou
 
 In return, the horse provides the goat with companionship and a sense of security.
 
-The bond between these two creatures can help to reduce stress and anxiety levels in both animals. Furthermore, the goat's natural grazing habits can help to keep the horse's coat clean and free of debris.
+The bond between these two creatures can help to reduce stress and anxiety levels in both animals. And, the goat's natural grazing habits can help to keep the horse's coat clean and free of debris.
 
 Ultimately, a horse-goat bond is beneficial for both animals involved.
 
@@ -133,7 +133,7 @@ If you are considering bonding your horses and goats, be sure to weigh the pros 
 
 Monitor the relationship closely and provide plenty of support to both animals in order to ensure a positive experience for all.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, there are a few pros and cons to consider before bonding your horses and goats. If you do decide to bond with them, be sure to monitor their relationship closely and provide plenty of support.
 

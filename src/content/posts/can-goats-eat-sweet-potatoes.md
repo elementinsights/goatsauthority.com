@@ -134,7 +134,7 @@ All varieties of potatoes are nutritious sources of vitamins, minerals, and fibe
 
 Still, sweet potatoes are the better choice if you're looking for something more nutrient-dense. They provide more vitamins, minerals, and antioxidants than regular potatoes and can benefit your goat's health in many ways.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can consume sweet potatoes, but there are a few risks to consider. Sweet potatoes can be a choking hazard, so make sure they are cut into small pieces.
 

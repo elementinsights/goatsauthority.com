@@ -79,7 +79,7 @@ But remember, moderation is key in feeding brussels sprouts to your goat. Too mu
 
 Also, keep an eye on how they react after eating them the first time. Some goats may not like the taste or could have a sensitive stomach towards this particular veggie.
 
-In conclusion, yes you can feed brussel sprouts to your goat but always monitor its intake and reaction afterwards.
+Bottom line: yes you can feed brussel sprouts to your goat but always monitor its intake and reaction afterwards.
 
 ### How to Prepare Brussel Sprouts for Goats?
 

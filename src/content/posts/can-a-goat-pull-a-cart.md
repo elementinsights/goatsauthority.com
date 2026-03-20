@@ -45,7 +45,7 @@ Farmers have long used animals to help with farming tasks, from plowing fields t
 
 And if so, how do you go about it?
 
-In this article, we will answer all your questions about goats and carts, including whether or not a goat can pull a cart, how to train a goat to pull a cart, and what kind of care and equipment you will need.
+Here's the short version.we will answer all your questions about goats and carts, including whether or not a goat can pull a cart, how to train a goat to pull a cart, and what kind of care and equipment you will need.
 
 ## Can a goat pull a cart?
 
@@ -71,7 +71,7 @@ You'll also want to make sure the harness has padded straps, as [goats can be ve
 
 In addition, you'll need to add a bit and bridle. Again, you'll want to make sure that the [size is appropriate for your goat and that the metal components are smooth](/do-goats-eat-metal/) and free of any burrs or sharp edges.
 
-Lastly, you'll need to add a few safety features, such as reflective tape and reflectors on the cart itself. By taking these precautions, you can help to ensure that your [goat enjoys a safe and comfortable ride](/can-people-ride-goats/).
+One more thing: you'll need to add a few safety features, such as reflective tape and reflectors on the cart itself. By taking these precautions, you can help to ensure that your [goat enjoys a safe and comfortable ride](/can-people-ride-goats/).
 
 ## Can all breeds of goats pull carts?
 
@@ -91,9 +91,9 @@ There are several advantages to using goats as draft animals.
 
 First of all, they are very strong for their size and can easily pull a cart loaded with supplies.
 
-Secondly, they are very sure-footed and able to navigate rough terrain without tipping over the cart.
+After that, they are very sure-footed and able to navigate rough terrain without tipping over the cart.
 
-Lastly, [goats are relatively easy to care for and do not require as much food](/can-sheep-eat-goat-food/) as larger animals such as horses or oxen.
+And finally, [goats are relatively easy to care for and do not require as much food](/can-sheep-eat-goat-food/) as larger animals such as horses or oxen.
 
 As a result, they can be a cost-effective option for those looking for an alternative form of transportation.
 
@@ -113,7 +113,7 @@ If you are thinking about using a goat to pull a cart, there are a few things yo
 
 First of all, you need to make sure that the goat is strong enough to pull the cart. A smaller goat may not be able to pull a heavy load.
 
-Secondly, you need to [train the goat](/can-baby-goats-be-house-trained/) to be comfortable with the harness and cart. This can be done by gradually introducing the goat to the cart and letting them get used to it.
+Second, you need to [train the goat](/can-baby-goats-be-house-trained/) to be comfortable with the harness and cart. This can be done by gradually introducing the goat to the cart and letting them get used to it.
 
 Thirdly, you need to make sure that the cart is properly balanced. If it's top-heavy, it could tip over and injure the goat.
 
@@ -131,7 +131,7 @@ In the end, goats are curious animals and could decide to investigate something 
 
 For these reasons, it's not safe to let a goat pull a cart by itself. The goat needs to be with another goat or animal, and someone needs to be controlling the cart.
 
-## Final Thoughts
+## Summary
 
 Goats can pull carts, but not all breeds are suitable for this type of work. The Boer goat is a large, muscular breed that is often used for meat production and can also be trained to pull carts and other heavy loads.
 

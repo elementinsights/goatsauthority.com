@@ -46,7 +46,7 @@ faq:
 
 It is difficult to determine whether or not goats can spread lice to llamas. And if so, what are the things you need to do to prevent it?
 
-In this article, we will answer those questions and provide you with some helpful tips. We will also let you know what to do if you think your llama may have lice.
+Let's break it down.we will answer those questions and provide you with some helpful tips. We will also let you know what to do if you think your llama may have lice.
 
 ## Can goats spread lice to llamas?
 
@@ -140,7 +140,7 @@ There is no [need to worry about getting lice from goats](/can-goat-lice-go-into
 
 Lice are a common problem for both goats and llamas. But, with a little effort, you can get rid of these pesky parasites and keep your animals healthy and happy.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats cannot spread lice to llamas and vice versa. However, both goats and llamas can be affected by lice.
 

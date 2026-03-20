@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether you can dehorn a 2 year old goat or not. And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer all of your questions about dehorning a 2 year old goat. We'll discuss the pros and cons, what you need to know before doing it, and some tips and tricks for successfully dehorning your goat.
+we will answer all of your questions about dehorning a 2 year old goat. We'll discuss the pros and cons, what you need to know before doing it, and some tips and tricks for successfully dehorning your goat.
 
 ## Can you dehorn a 2 year old goat?
 
@@ -96,7 +96,7 @@ To help the goat heal, you can apply a healing ointment to the area and provide 
 
 The goat should also be kept away from other animals so that they can heal without being disturbed.
 
-Lastly, you will need to monitor the goat closely for any signs of infection. If an infection does develop, it will need to be treated promptly with [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/).
+One more thing: you will need to monitor the goat closely for any signs of infection. If an infection does develop, it will need to be treated promptly with [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/).
 
 By following these steps, you can help your [goat recover quickly](/can-goats-recover-from-polio-without-medication/) and safely from the dehorning procedure.
 
@@ -116,7 +116,7 @@ First and foremost, is the safety of your animal. Dehorning can be a stressful a
 
 You'll also need to consider the cost of dehorning, as well as the [potential risks](/can-a-plastic-bag-hurt-a-goat/) associated with the procedure.
 
-Lastly, you'll need to decide whether or not dehorning is right for your particular goat. Each animal is unique, and there's no one-size-fits-all answer when it comes to deciding whether or not to dehorn.
+Last thing to note: you'll need to decide whether or not dehorning is right for your particular goat. Each animal is unique, and there's no one-size-fits-all answer when it comes to deciding whether or not to dehorn.
 
 At the same time, by taking the time to weigh all of the factors involved, you can make an informed decision that's best for both you and your goat.
 
@@ -132,7 +132,7 @@ But, caps can come loose and need to be replaced regularly, so this option may n
 
 Finally, you could choose to do nothing and simply let the goat keep their horns. This is obviously the least invasive option, but it's important to remember that horns can pose a serious safety hazard to both animals and humans.
 
-## Final Thoughts
+## What to Remember
 
 Overall, dehorning a 2 year old goat is a decision that should be made carefully. There are a number of factors to consider, and there is no one-size-fits-all answer.
 

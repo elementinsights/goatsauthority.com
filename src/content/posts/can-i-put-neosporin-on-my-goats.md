@@ -39,7 +39,7 @@ faq:
   - question: "Are there any risks associated with using Neosporin on goats?"
     answer: "There are several potential risks associated with using Neosporin on goats. For one thing, the use of antibiotics like Neosporin can lead to antibiotic resistance in both people and animals."
 ---
-Taking care of goats can be a rewarding experience. They are interesting creatures with their own unique behaviors and personalities.
+Whether you have two goats or twenty, proper care matters. They are interesting creatures with their own unique behaviors and personalities.
 
 If you're thinking about getting goats, it's important to do your research so that you can provide them with the best possible care.
 
@@ -59,7 +59,7 @@ In general, Neosporin is a safe and effective way to treat minor wounds on goats
 
 Neosporin is a topical antibiotic that is commonly used in livestock, particularly in goats. It has several important functions, such as treating infections and ulcers and preventing wounds from becoming infected.
 
-Furthermore, Neosporin can encourage the healing process by promoting the growth of new tissue. Because it is so useful and effective, it is commonly recommended by veterinarians for treating injuries and other [medical conditions in goats](/can-goats-carry-distemper/).
+Plus, Neosporin can encourage the healing process by promoting the growth of new tissue. Because it is so useful and effective, it is commonly recommended by veterinarians for treating injuries and other [medical conditions in goats](/can-goats-carry-distemper/).
 
 ## What are the benefits of using Neosporin on goats?
 
@@ -67,7 +67,7 @@ There are a number of benefits to using Neosporin on goats. First, this antibiot
 
 Plus, because goats can be prone to various types of infections and skin conditions, having a reliable and easy-to-use treatment like Neosporin on hand can be incredibly helpful.
 
-Furthermore, when applied correctly, this ointment will not only treat existing issues but also help to prevent future health problems from developing in the first place.
+What's more, when applied correctly, this ointment will not only treat existing issues but also help to prevent future health problems from developing in the first place.
 
 Overall, whether you are a professional goat farmer or just have a few pet goats at home, there are many obvious reasons to consider using Neosporin on your animals.
 
@@ -91,7 +91,7 @@ When caring for goats, there are a few things to keep in mind. First and foremos
 
 Being a goat owner, it's important to be attentive of possible problems that may concern the [health of their hooves](/can-hoof-rot-kill-a-goat/) and control over parasites. For example, something as simple as trimming and inspecting their hooves on a regular basis can help prevent larger issues from developing, such as lameness or infections in the joints.
 
-Furthermore, it is pivotal to routinely [medicate against parasites](/can-you-deworm-a-pregnant-goat/) or take other precautionary measures to keep them healthy and free of disease.
+Plus, it is pivotal to routinely [medicate against parasites](/can-you-deworm-a-pregnant-goat/) or take other precautionary measures to keep them healthy and free of disease.
 
 In short, by following these tips, you can create a much healthier environment for your goats which will lead to longer lifespans and happier animals.
 
@@ -121,7 +121,7 @@ Overall, if you want to ensure that your goats are happy and healthy, it is impo
 
 With these simple care practices in place, you can be sure that your herd stays happy, healthy, and thriving for many years to come.
 
-## Final Thoughts
+## What to Remember
 
 You can put Neosporin on your goats if the area is infected and you consult your vet first to make sure it is appropriate. Neosporin can help to speed up the healing process and ward off any potential infections.
 

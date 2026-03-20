@@ -47,7 +47,7 @@ We all know that goats need regular healthcare to stay healthy, but what about d
 
 And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions about provide you with additional information about disbudding and goat health care in general.
+Read on for the full breakdown.we will answer those questions about provide you with additional information about disbudding and goat health care in general.
 
 ## Can you disbud a goat without medication?
 
@@ -135,7 +135,7 @@ You should also apply a thin layer of [antibiotic ointment](/can-i-put-neosporin
 
 By following these simple steps, you can ensure that your goat stays healthy after being disbudded.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, disbudding can be a simple and cost-effective way to remove horns from goats. However, it is important to understand the risks involved and take steps to minimize them.
 

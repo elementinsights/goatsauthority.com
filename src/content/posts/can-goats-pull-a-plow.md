@@ -138,7 +138,7 @@ Third, the [goat could die](/can-goats-die-from-lymes/). If the goat is not heal
 
 Fourth, the plow could break. If the plow is not the right size or if it is not maintained properly, it could break.
 
-Lastly, you could get hurt. If you are not careful, you could get hurt while working with the goat or the plow.
+Last thing to note: you could get hurt. If you are not careful, you could get hurt while working with the goat or the plow.
 
 These are just some of the risks associated with having a goat pull a plow. If you are aware of these risks, you can take steps to avoid them.
 

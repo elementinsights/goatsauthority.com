@@ -37,13 +37,13 @@ faq:
   - question: "Are there any alternative methods for drenching adult goats?"
     answer: "There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option."
 ---
-Taking care of goats can be a rewarding experience. But, there are certain things you need to know in order to do it properly.
+Owning goats comes with plenty of rewards and responsibilities. But, there are certain things you need to know in order to do it properly.
 
 One of those things is how to properly feed them.
 
 One question that often comes up is whether or not you can use a kid feeding tube to drench an adult goat.
 
-In this article, we will answer those questions about kid feeding tubes and drenching so that you can be prepared for anything.
+We'll cover everything below.we will answer those questions about kid feeding tubes and drenching so that you can be prepared for anything.
 
 ## Can I use kid feeding tube to drench adult goat?
 
@@ -126,7 +126,7 @@ Still, this method is less accurate and can be very difficult to do with larger 
 
 Overall, then, the kid feeding tube is generally considered to be the best option for drenching adult goats.
 
-## Final Thoughts
+## Summary
 
 Overall, using a kid feeding tube for drenching adult goats is a safe, easy, and effective way to deliver medication or supplements.
 

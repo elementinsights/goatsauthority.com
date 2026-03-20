@@ -40,7 +40,7 @@ faq:
 
 You may be wondering if it is possible to band an adult goat's horns to dehorn them or not. And if so, what are the things you need to consider before doing it?
 
-In this article, we will answer those questions and provide you with additional information about dehorning in general.
+we will answer those questions and provide you with additional information about dehorning in general.
 
 ## Can you band an adult goats horns to dehorn them?
 
@@ -122,7 +122,7 @@ The band should be tight enough to cut off circulation but not so tight that it 
 
 Once the horn has fallen off, the band can be removed and the area will heal on its own. Banding is a safe and effective way to remove horns from adult goats with minimal stress or discomfort.
 
-## Final Thoughts
+## Summary
 
 The decision of whether or not to dehorn your goats is a personal one that depends on your individual circumstances.
 

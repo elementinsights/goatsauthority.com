@@ -45,7 +45,7 @@ We all know that goat milk is incredibly nutritious and good for you. But what a
 
 Can you buy goat milk at the grocery store? And if so, how does it compare to other types of milk?
 
-In this article, we will answer those questions about goat milk and grocery stores. We'll also provide some community reviews and additional resources for learning more about this amazing dairy product.
+we will answer those questions about goat milk and grocery stores. We'll also provide some community reviews and additional resources for learning more about this amazing dairy product.
 
 ## Can you buy goat milk at the grocery store?
 
@@ -109,13 +109,13 @@ You can also [freeze goat milk](/can-goats-milk-be-frozen/) to extend its shelf 
 
 Frozen goat milk will keep for up to six months.
 
-Lastly, be sure to check the expiration date on the [milk before you drink](/can-you-drink-milk-from-goats-with-mastitis/) it. By following these simple tips, you can enjoy fresh and delicious goat milk for weeks or even months.
+And finally, be sure to check the expiration date on the [milk before you drink](/can-you-drink-milk-from-goats-with-mastitis/) it. By following these simple tips, you can enjoy fresh and delicious goat milk for weeks or even months.
 
 ## How does goat milk compare to other types of milk, such as cow's milk and almond milk?
 
 When it comes to choosing milk, there are a few things to consider. One is taste - some people prefer the taste of goat milk, while others find it to be too strong.
 
-Another is nutrition - Goat milk is higher in calcium and vitamin A than cow's milk, but it also contains more saturated fat. Lastly, there's suitability for different diets - Goat milk is naturally lactose-intolerant, making it a good choice for people with [dairy sensitivities](/can-goat-cheese-make-you-bloated/).
+Another is nutrition - Goat milk is higher in calcium and vitamin A than cow's milk, but it also contains more saturated fat. Last thing to note: there's suitability for different diets - Goat milk is naturally lactose-intolerant, making it a good choice for people with [dairy sensitivities](/can-goat-cheese-make-you-bloated/).
 
 So, what's the verdict? When it comes to goat milk vs cow's milk, there's no clear winner - it all comes down to personal preference.
 
@@ -127,7 +127,7 @@ The best time to buy goat milk is in the spring when goats are typically lactati
 
 If you're looking for the freshest possible goat milk, you may want to consider [buying it from a farm](/can-i-sell-goat-milk-butter/) or dairy instead of the grocery store.
 
-## Final Thoughts
+## The Bottom Line
 
 Buying goat milk at the grocery store is a convenient and healthy option for many people. Goat milk is rich in nutrients, easy to digest, and a great alternative to cow's milk.
 

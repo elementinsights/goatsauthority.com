@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether pregnant goats can eat medicated feed or not. And if so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions about feeding medicated feed to pregnant goats, as well as provide some tips on how to keep your goats healthy overall.
+we will answer those questions about feeding medicated feed to pregnant goats, as well as provide some tips on how to keep your goats healthy overall.
 
 ## Can pregnant goats eat medicated feed?
 
@@ -122,7 +122,7 @@ Additionally, it is important to make sure that they have access to clean water 
 
 By taking these preventive measures, you can help reduce the chances of your pregnant goats becoming sick in the first place.
 
-## Final Thoughts
+## Key Takeaways
 
 Pregnant goats can eat medicated feeds without any significant risks to their health, but it is important to consult with a professional first and monitor them closely after introducing the new feed.
 

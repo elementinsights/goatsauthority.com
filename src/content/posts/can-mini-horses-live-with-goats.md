@@ -45,7 +45,7 @@ Everyone is aware that [goats are social animals](/can-you-describe-a-herd-of-sh
 
 Can they survive living with goats?
 
-In this article, we will explore the possibility of keeping miniature horses with goats as pets. We will cover everything you need to know, from their living arrangements to their compatible personalities.
+we will explore the possibility of keeping miniature horses with goats as pets. We will cover everything you need to know, from their living arrangements to their compatible personalities.
 
 ## Can mini horses live with goats?
 
@@ -115,7 +115,7 @@ There are a number of risks associated with keeping certain animals together. Fo
 
 In addition, there may also be health concerns associated with close contact, particularly if the individuals in question are carrying a contagious disease.
 
-Furthermore, some animal species have unique behavioral traits that could cause problems if they aren't properly managed.
+And, some animal species have unique behavioral traits that could cause problems if they aren't properly managed.
 
 For these reasons, it is often advisable to do some research on [potential pairings](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) before deciding whether or not to house two animals together.
 
@@ -131,7 +131,7 @@ However, by taking proactive steps to ensure that both animals are well-fed and 
 
 Ultimately, this will be a worthwhile investment that can help to give you years of enjoyment with both your furry friends.
 
-## Final Thoughts
+## Key Takeaways
 
 Mini horses and goats can make great companions for each other, but it's important to be prepared before making the decision to house them together.
 

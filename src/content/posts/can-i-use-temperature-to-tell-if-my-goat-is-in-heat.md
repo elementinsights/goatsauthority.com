@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether you can use temperature to tell if your goat is in heat or not. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions and provide you with additional information regarding nursing your goat, including some frequently asked questions.
+Here's what you need to know.we will answer those questions and provide you with additional information regarding nursing your goat, including some frequently asked questions.
 
 ## Can I use temperature to tell if my goat is in heat?
 
@@ -106,7 +106,7 @@ There are also physical symptoms that commonly show that a goat is pregnant and 
 
 You can check for these signs by carefully touching or feeling the mother-to-be's stomach.
 
-Furthermore, there are certain behavioral changes to look out for as well, such as persistently licking at her udder or pacing around her pen.
+And, there are certain behavioral changes to look out for as well, such as persistently licking at her udder or pacing around her pen.
 
 Taken together, these factors suggest that using a thermometer to track a goat's body temperature can only ever be one part of the picture when it comes to predicting when she will give birth.
 
@@ -124,7 +124,7 @@ Finally, you will need to make sure that your kid is getting plenty of time outs
 
 By following these tips, you can help ensure that your newborn kid receives the best care possible and grows into a strong and [healthy adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/).
 
-## Final Thoughts
+## Key Takeaways
 
 You can use a thermometer to help determine if your goat is pregnant, but it should only be one part of the picture.
 

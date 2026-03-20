@@ -45,7 +45,7 @@ Though they are not as big as some other [breeds of goats](/can-you-breed-scream
 
 One thing that you might be wondering about your Nubian goat is whether or not they can climb trees. And if so, is it safe for them to do so?
 
-In this article, we will answer all of your questions and provide everything you need to know about Nubian goats and tree climbing.
+we will answer all of your questions and provide everything you need to know about Nubian goats and tree climbing.
 
 ## Can a Nubian goat climb trees?
 
@@ -65,7 +65,7 @@ Second, Nubian goats like to be in high places. They feel safe when they are up 
 
 This is one of the reasons why they are often used as guard animals.
 
-Lastly, Nubian goats might climb trees to eat the leaves or fruit. This is especially common if there's not enough food available on the ground.
+To wrap up, Nubian goats might climb trees to eat the leaves or fruit. This is especially common if there's not enough food available on the ground.
 
 ## What is a Nubian goat and what are their characteristics?
 
@@ -135,11 +135,11 @@ First, make sure that the tree is sturdy and will not topple over if your goat l
 
 If you find any, trim them back or cover them with padding.
 
-Lastly, goat-proof your tree by removing any potential hazards within reaches, such as broken glass or loose nails.
+Last thing to note: goat-proof your tree by removing any potential hazards within reaches, such as broken glass or loose nails.
 
 By taking these precautions, you can help keep your Nubian goat safe while they enjoy their Tree Climbing adventures.
 
-## Final Thoughts
+## What to Remember
 
 Nubian goats can climb trees. However, it's not recommended as it can be dangerous for the goat.
 

@@ -47,7 +47,7 @@ You may have heard that goats can digest cotton, but is this true? What other th
 
 How do they digest food?
 
-In this article, we will explore the dietary habits of goats and answer all of your questions about their ability to digest cotton and other plants. We will also discuss some of the [benefits of having goats as pets](/can-benadryl-hurt-a-goat/) or farm animals.
+we will explore the dietary habits of goats and answer all of your questions about their ability to digest cotton and other plants. We will also discuss some of the [benefits of having goats as pets](/can-benadryl-hurt-a-goat/) or farm animals.
 
 ## Can goats digest cotton?
 
@@ -65,7 +65,7 @@ Cotton plants are often treated with dangerous pesticides and herbicides, which 
 
 Goats can help to mitigate this problem by eating cotton plants, thus reducing the number of chemicals in the environment. It's also worth noting that goats can also help to control weeds, as they will eat just about anything.
 
-This can save farmers money on herbicide costs and reduce the need for tilling, which can further damage the soil. Appropriately, using goats for cotton control can provide a number of benefits for farmers and the environment.
+This can save farmers money on herbicide costs and reduce the need for tilling, which can further damage the soil. Understandably, using goats for cotton control can provide a number of benefits for farmers and the environment.
 
 ## What are the risks of goats eating cotton?
 
@@ -132,7 +132,7 @@ In addition, goats need to be vaccinated against common diseases and should be w
 
 By following these simple tips, you can ensure that your goats stay healthy and happy.
 
-## Final Thoughts
+## Summary
 
 Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.
 

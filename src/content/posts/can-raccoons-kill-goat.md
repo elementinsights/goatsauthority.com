@@ -46,7 +46,7 @@ But what do you do when the predator is something as small and seemingly harmles
 
 And if so, how can you protect your animals?
 
-In this article, we will answer those questions and provide you with additional information about raccoons and other predators that may threaten your goats.
+we will answer those questions and provide you with additional information about raccoons and other predators that may threaten your goats.
 
 ## Can raccoons kill goats?
 
@@ -78,7 +78,7 @@ In some cases, a group of raccoons may even work together to take down a much la
 
 Additionally, raccoons have been known to chase after running goats at high speeds and pounce on the animals when they're exhausted.
 
-Lastly, raccoons can also orchestrate complex ambushes to surprise unsuspecting goats and deliver a fatal blow before the goats have time to react.
+Last but not least, raccoons can also orchestrate complex ambushes to surprise unsuspecting goats and deliver a fatal blow before the goats have time to react.
 
 Whether by strength, speed, or cunning, raccoons are devastating predators of this unsuspecting prey. As such, [goat farmers](/can-people-ride-goats/) should always be aware of any potential threats and take appropriate precautions to protect their herds.
 
@@ -132,7 +132,7 @@ These animals are often larger and more [aggressive than goats](/can-an-aggressi
 
 Additionally, they can provide an early warning system against potential threats, as they will often [make noise](/can-goats-actually-scream/) or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, it is important to be aware of the dangers that predators can pose to your goats. By taking steps to protect your livestock, you can help ensure their long-term safety and well-being.
 

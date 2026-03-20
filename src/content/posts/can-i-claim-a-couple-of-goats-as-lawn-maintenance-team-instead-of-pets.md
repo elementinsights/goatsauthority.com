@@ -43,7 +43,7 @@ They also need a lot of [space to roam](/can-a-goat-live-in-a-house/) and explor
 
 But, have you ever wondered if you could claim goats as a lawn maintenance team instead of pets? And if so, would it be cheaper?
 
-In this article, we'll explore the possibility of using goats as a lawn maintenance team. We'll look at the pros and cons of this option, and whether or not it would be cheaper than traditional methods.
+we'll explore the possibility of using goats as a lawn maintenance team. We'll look at the pros and cons of this option, and whether or not it would be cheaper than traditional methods.
 
 ## Can you claim goats as a lawn maintenance team instead of pets?
 
@@ -57,7 +57,7 @@ There are a number of benefits to using goats as a lawn maintenance team. For on
 
 In addition, goats can easily adapt to different types of terrain, including steep slopes and [rocky hilltops](/can-goats-climb-fences/), making them an ideal choice for any landscaping project.
 
-Furthermore, these hardy animals require very little in terms of food or water, and they generally require far less care than traditional lawn maintenance tools like lawnmowers or power trimmers.
+Plus, these hardy animals require very little in terms of food or water, and they generally require far less care than traditional lawn maintenance tools like lawnmowers or power trimmers.
 
 And perhaps best of all, using goats as a lawn maintenance team is great for the environment; their grazing helps to minimize soil erosion while returning valuable [nutrients back into the soil](/can-goat-poop-be-used-as-fertilizer/).
 
@@ -115,7 +115,7 @@ With their ability to graze and weed, as well as their smaller size and agility,
 
 However, it is important to keep in mind that using goats does have some potential drawbacks, such as added expense and the need for adequate housing and food.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can offer a number of advantages as part of a lawn maintenance program, but there are also some potential drawbacks to consider.
 

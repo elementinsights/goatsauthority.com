@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if it's possible to breed your Nigerian Goat Doeling at 4 months old or not. And if so, are there any special considerations to take into account?
 
-In this article, we will answer all of your questions regarding breeding Nigerian Goat Doelings, including how old they should be, what health concerns to be aware of, and what tips and tricks will help you successfully breed your doeling.
+we will answer all of your questions regarding breeding Nigerian Goat Doelings, including how old they should be, what health concerns to be aware of, and what tips and tricks will help you successfully breed your doeling.
 
 ## Can a nigerian goat doeling get breed at 4 month age?
 
@@ -122,7 +122,7 @@ If everything goes well, the doeling should [give birth to healthy baby goats](/
 
 After the [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
 
-## Final Thoughts
+## Summary
 
 it's possible to breed Nigerian Dwarf goats as early as 4 months of age, but it's important to consult with a veterinarian beforehand to ensure that the doeling is healthy enough for breeding.
 

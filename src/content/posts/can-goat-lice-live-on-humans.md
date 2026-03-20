@@ -41,7 +41,7 @@ We all know those goat lice are a problem for our goats, but can you get them fr
 
 And if so, what are the signs, symptoms, and treatments?
 
-In this article, we will answer all of your questions about goat lice and humans, so you can keep your family safe and healthy.
+We'll cover everything below.we will answer all of your questions about goat lice and humans, so you can keep your family safe and healthy.
 
 ## Can goat lice live on humans?
 
@@ -127,7 +127,7 @@ In severe cases, oral ivermectin may be necessary.
 
 By taking these steps, you can help prevent the spread of goat lice and protect your family's health.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goat lice are not a serious threat to human health. However, they can cause a lot of discomforts and should be treated as soon as possible.
 

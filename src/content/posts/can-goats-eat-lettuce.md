@@ -126,7 +126,7 @@ While there are many different types of lettuce, these are some of the most comm
 
 In terms of feeding lettuce to your goat, any type is a good option. Even so, leaf lettuce is generally a better choice due to its higher [nutrient content](/can-goats-eat-cabbage/).
 
-## Final Thoughts
+## Summary
 
 Overall, lettuce is a safe and healthy food for goats. However, there are some risks to consider, such as [enterotoxemia](/can-goats-eat-corn/) and bloat.
 

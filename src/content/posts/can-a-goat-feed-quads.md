@@ -132,7 +132,7 @@ Fourth, take note of your goat's appetite. A healthy goat will have a strong app
 
 If you notice that your goat is not eating as much as usual, it may be a sign of an underlying health problem.
 
-Lastly, watch for changes in your goat's behavior. A healthy goat will be active and playful.
+And finally, watch for changes in your goat's behavior. A healthy goat will be active and playful.
 
 If you notice that your goat is lethargic or seems withdrawn, it may be a sign of illness.
 
@@ -146,7 +146,7 @@ Be sure to visit a veterinarian with your goat to rule out any potential health 
 
 Due to their infamously fussy eating habits, goats may just be uninterested in the food you are providing. Explore many feed options to see if you can find one that your goat likes.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can feed quads but make sure you are providing a healthy diet that meets all their nutritional needs.
 

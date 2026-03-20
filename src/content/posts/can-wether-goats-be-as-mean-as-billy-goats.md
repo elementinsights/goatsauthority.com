@@ -46,7 +46,7 @@ faq:
 
 You may be wondering whether or not wether goats can be as mean as billy goats. And if so, what are the things you need to watch out for?
 
-In this article, we will answer those questions and provide you with additional information about wether goats you may find useful.
+we will answer those questions and provide you with additional information about wether goats you may find useful.
 
 ## Can wether goats be as mean as billy goats?
 
@@ -92,7 +92,7 @@ First, as we mentioned earlier, wether [goats are more likely to be aggressive a
 
 Second, [wether goats produce less milk than female goats](/can-a-female-goat-produce-milk-without-being-pregnant/), so if you're looking for a dairy animal, you'll want to choose a doe instead.
 
-Lastly, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
+Last but not least, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
 
 ## What are some of the potential problems with keeping wether goats on your farm?
 
@@ -102,7 +102,7 @@ Not only will this mean you have to spend more time herding them back in, but it
 
 Similarly, weather goats are attracted to shiny objects and have been known to chew on electric fencing and other equipment. This can cause serious damage and even pose a safety hazard.
 
-Lastly, because they are such avid explorers, [wether goats can also end up spreading invasive plants](/can-goats-spread-lice-to-llamas/) invasive plants and weeds around your property.
+Finally, because they are such avid explorers, [wether goats can also end up spreading invasive plants](/can-goats-spread-lice-to-llamas/) invasive plants and weeds around your property.
 
 While they can certainly be a fun addition to any farm, it's important to be aware of the potential challenges that come along with keeping wether goats.
 
@@ -130,7 +130,7 @@ Goats need a clean, dry place to sleep and shelter from the elements. A three-si
 
 Goats are social animals, so it's important to provide them with enough space to move around and interact with other goats. Additionally, you'll need to provide them with fresh water and hay on a daily basis.
 
-## Final Thoughts
+## The Bottom Line
 
 There are a few things to consider before deciding whether or not to keep wether goats on your farm. They are known to be curious and can easily escape from their pens, which could lead to them getting lost or injured.
 

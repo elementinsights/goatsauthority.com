@@ -121,7 +121,7 @@ It’s best to chop the celery into bite-sized pieces before feeding it to your 
 
 Always monitor how your goat reacts after eating new foods like celery. If there are any signs of discomfort, stop feeding immediately and consult a vet.
 
-In conclusion, yes baby goats can eat celery but only in moderation and under close observation.
+All in all, yes baby goats can eat celery but only in moderation and under close observation.
 
 ## Can Goats Eat Celery Raw, Cooked, or Leaves?
 

@@ -116,7 +116,7 @@ Too much of these things can lead to health problems like obesity or kidney issu
 
 Also, some goats may have trouble digesting dairy products including cheese. This could cause stomach upset or even serious digestive disorders over time.
 
-Lastly, [moldy](/can-goats-eat-moldy-hay/) cheese should never be given to goats as it might contain toxins harmful to their health. So while your goat might enjoy a bite of cheddar now and then, remember that moderation is key.
+Last but not least, [moldy](/can-goats-eat-moldy-hay/) cheese should never be given to goats as it might contain toxins harmful to their health. So while your goat might enjoy a bite of cheddar now and then, remember that moderation is key.
 
 ### Why Is Cheese Bad for Goats
 
@@ -166,7 +166,7 @@ Feeding them cheese regularly could lead to weight gain or digestive issues over
 
 Just remember moderation is key when feeding treats to any animal.
 
-**In conclusion, while they technically ‘can’ eat cheese, it shouldn’t be a regular part of their diet**.
+**In short, while they technically ‘can’ eat cheese, it shouldn’t be a regular part of their diet**.
 
 ## What Other Foods Can Goats Eat Apart From Cheese?
 

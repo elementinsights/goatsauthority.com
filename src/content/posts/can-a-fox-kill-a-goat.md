@@ -110,7 +110,7 @@ In addition, they are very loud and will make a lot of noise if they sense dange
 
 This can help to scare off predators such as foxes before they have a chance to attack.
 
-Lastly, llamas can also be used to protect goats from foxes. Even keeping [rams with goat bucks](/can-rams-be-in-with-goat-bucks/) can add a layer of protection. Like donkeys, llamas are very territorial and will chase away any animals that they see as a threat.
+One more thing: llamas can also be used to protect goats from foxes. Even keeping [rams with goat bucks](/can-rams-be-in-with-goat-bucks/) can add a layer of protection. Like donkeys, llamas are very territorial and will chase away any animals that they see as a threat.
 
 In addition, llamas are very strong and can easily overpower a fox if necessary. Consequently, all of these animals can be useful in protecting your goat from a fox.
 
@@ -130,7 +130,7 @@ There are a few things you should know about electric fences and goats.
 - Second, electric fences are relatively inexpensive and easy to install.
 - Third, goats are curious creatures and may try to test the fence by chewing on it or leaning against it.
 
-## Final Thoughts
+## What to Remember
 
 Foxes can pose a serious threat to goats, but you can take precautions to keep them safe.
 

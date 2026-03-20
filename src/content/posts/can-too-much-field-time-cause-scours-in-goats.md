@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether too much field time can cause scours in goats or not. And if so, what are the things you need to consider before letting your goats out to pasture?
 
-In this article, we'll answer the question: can too much field time cause scours in goats? We'll also provide some tips on how to prevent scours in goats and what to do if your goat does get scours.
+we'll answer the question: can too much field time cause scours in goats? We'll also provide some tips on how to prevent scours in goats and what to do if your goat does get scours.
 
 ## Can too much field time cause scours in goats?
 
@@ -146,7 +146,7 @@ Scours is a common problem in goats, but it can be treated with the right medica
 
 By taking these simple precautions, you can help prevent scours in goats and keep your herd healthy and happy.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, scours are a common problem in goats but it can be prevented with some simple steps. Make sure to provide your goats with fresh, clean water and a balanced diet.
 

@@ -138,7 +138,7 @@ While the exact future of goat tree-climbing is impossible to predict, it seems 
 
 So, while it may seem like a strange phenomenon now, goat tree-climbing could become quite commonplace in the years to come.
 
-## Final Thoughts
+## Summary
 
 A goat can climb a tree for many reasons. Some goats climb trees to escape predators or to get food that is out of reach.
 

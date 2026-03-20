@@ -119,9 +119,9 @@ First, make sure your goat has plenty of companions. Goats are herd animals and 
 
 If you cannot have more than one goat, consider getting your goat a companion animal such as a sheep or a donkey.
 
-Secondly, provide your goat with plenty of stimulating activities. Goats like to explore and play, so make sure their environment is enriching.
+After that, provide your goat with plenty of stimulating activities. Goats like to explore and play, so make sure their environment is enriching.
 
-Lastly, avoid handling your goat too much. [Goats can become agitated](/can-goats-bite/) if they are handled too much, so only pet them when they are calm.
+To wrap up, avoid handling your goat too much. [Goats can become agitated](/can-goats-bite/) if they are handled too much, so only pet them when they are calm.
 
 By following these tips, you can prevent your goat from becoming stressed and reduce the chances of them screaming unnecessarily.
 
@@ -131,13 +131,13 @@ When it comes to goat care, there are a few things to keep in mind if your goat 
 
 First, it's important to make sure that they have plenty of space to run and play. Goats are very active creatures and need plenty of room to roam.
 
-Secondly, goats are social animals and need companionship. If you have only one goat, consider getting another so that they have someone to play with.
+Next, goats are social animals and need companionship. If you have only one goat, consider getting another so that they have someone to play with.
 
 Finally, goats need a diet that is high in fiber. This means that hay and pasture grasses should make up the majority of their diet.
 
 By providing your goat with plenty of space, companionship, and a healthy diet, you can help reduce the amount of screaming they do.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats actually do scream, but it's not as common as bleating or humming. When goats do scream, it's usually due to fear, hunger, or stress.
 

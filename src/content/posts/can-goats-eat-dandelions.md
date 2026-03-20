@@ -46,7 +46,7 @@ faq:
 
 it's difficult to determine if you can feed dandelions to your goats or not. And if so, how many and how often?
 
-In this article, we will answer all of these questions for you, so that you can make an informed decision about whether or not to feed dandelions to your goats.
+we will answer all of these questions for you, so that you can make an informed decision about whether or not to feed dandelions to your goats.
 
 ## Can goats eat dandelions?
 
@@ -150,7 +150,7 @@ Dandelions are also a good source of fiber, which is essential for goats. You ca
 
 Dried dandelions can also be fed to goats, but they should be soaked in water for about an hour before feeding.
 
-## Final Thoughts
+## Summary
 
 Goats can eat dandelions, and there are actually several benefits to letting them do so. Dandelions are a good source of nutrients, and they can help to add nutrient-rich fertilizer to the soil.
 

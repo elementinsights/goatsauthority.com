@@ -40,13 +40,13 @@ faq:
     answer: "Motherwort is a common herb that has been used for centuries in traditional Chinese medicine. The consequences of goats eating motherwort are not well-known, but there are some potential risks to consider."
 ---
 
-Taking care of a goat can be a fun and rewarding experience. Goats are curious, inquisitive creatures that are known for their playful personalities.
+Whether you have two goats or twenty, proper care matters. Goats are curious, inquisitive creatures that are known for their playful personalities.
 
 As a pet owner, you need to understand what your goat needs to stay healthy and happy. This includes [knowing what kinds of food they can eat](/what-kind-of-hay-do-goats-eat/).
 
 So, can goats eat motherwort? And if so, what are the benefits?
 
-In this article, we will answer all of your questions about goats and motherwort. We'll discuss the nutritional value of this herb, as well as its potential benefits for goats.
+Here's the short version.we will answer all of your questions about goats and motherwort. We'll discuss the nutritional value of this herb, as well as its potential benefits for goats.
 
 We'll also provide some tips on how to incorporate motherwort into your goat's diet.
 
@@ -138,7 +138,7 @@ Additionally, it has calming and anxiety-relieving properties. The plant can be 
 
 Although motherwort is typically regarded as harmless, it can have some unpleasant side effects, including sleepiness and stomach discomfort. As with any herbal remedy, consult a healthcare practitioner before using motherwort.
 
-## Final Thoughts
+## Summary
 
 Goats can eat motherwort, but there are some potential risks to consider. Motherwort contains alkaloids that can be poisonous to goats, and it may also interfere with the absorption of other nutrients.
 

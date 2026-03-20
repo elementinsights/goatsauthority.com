@@ -46,7 +46,7 @@ faq:
 
 You may have seen timothy hay advertised as goat feed, and wondered if it's safe for your pet goats to eat.
 
-In this article, we will answer that question and explore the benefits of timothy hay, the risks associated with [feeding it to goats](/can-goats-eat-alfalfa/), and how much should be fed.
+we will answer that question and explore the benefits of timothy hay, the risks associated with [feeding it to goats](/can-goats-eat-alfalfa/), and how much should be fed.
 
 ## Can goats eat timothy hay?
 
@@ -130,7 +130,7 @@ Likewise, larger goats will eat more than smaller goats. In general, most expert
 
 So, if you have a 10-pound goat, you should provide them with approximately 0.2 pounds of hay per day. Of course, you should always consult with an animal expert to determine the best diet for your specific goats.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can eat timothy hay. This type of hay is a good source of fiber and nutrients for goats, and it can help keep their digestive system healthy.
 

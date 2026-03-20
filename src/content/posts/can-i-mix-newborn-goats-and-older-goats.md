@@ -38,7 +38,7 @@ faq:
 
 You may be wondering if you can mix newborn and older goats in the same pen. If so, what are the things you need to consider before doing so?
 
-In this article, we will answer those questions for you. We will also give you some tips on how to successfully mix different age groups of goats together.
+we will answer those questions for you. We will also give you some tips on how to successfully mix different age groups of goats together.
 
 ## Can I mix newborn goats and older goats?
 
@@ -130,7 +130,7 @@ Overall, there are a few risks associated with [mixing different age groups of g
 
 Then again, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
 
-## Final Thoughts
+## The Bottom Line
 
 You can mix different age groups of goats together to provide them with socialization and to [improve the quality of their milk](/can-goats-milk-be-frozen/), meat, and wool.
 

@@ -38,7 +38,7 @@ faq:
     answer: "Clover is a common ingredient in goat feed, but it can also be poisonous. There are several different species of clover that are toxic to goats, and all parts of the plant are dangerous."
 ---
 
-People often ask whether or not their goats can get poisoned if they eat clover that has been frosted on. In this article, we will explore this topic in more depth so that you can make an informed decision about what is best for your goats.
+People often ask whether or not their goats can get poisoned if they eat clover that has been frosted on. we will explore this topic in more depth so that you can make an informed decision about what is best for your goats.
 
 Additionally, we will also provide some tips on how to keep your goats safe from potential poisoning risks.
 
@@ -116,7 +116,7 @@ First, check the leaves for signs of damage or insects. If the leaves are brown 
 
 Second, smell the clover. If it has a rank odor, it's probably not safe to eat.
 
-Lastly, take a small taste of the clover. If it's bitter or sour, spit it out and don't eat anymore.
+Finally, take a small taste of the clover. If it's bitter or sour, spit it out and don't eat anymore.
 
 While there are some potential risks associated with eating clover, as long as you exercise caution, you should be able to enjoy this common springtime treat without any problems.
 
@@ -132,7 +132,7 @@ In addition to the usual fencing and housing considerations for goats, there are
 
 By following these tips, you can help keep your goats safe from potential poisoning risks.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an [animal expert](/can-i-give-my-goat-pepto-bismol/) immediately.
 
@@ -140,4 +140,4 @@ With prompt treatment, most goats recover from clover poisoning without any last
 
 To prevent this from happening, provide them with other types of browse, such as hay or straw, and train them to avoid frosted plants.
 
-Lastly, some types of clover are more resistant to frost than others. If you are unsure whether a particular type of clover is safe for your goats to eat, you can consult with a local extension agent.
+Finally, some types of clover are more resistant to frost than others. If you are unsure whether a particular type of clover is safe for your goats to eat, you can consult with a local extension agent.

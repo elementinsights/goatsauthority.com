@@ -112,7 +112,7 @@ Also, it provides a good source of organic matter, which can help improve the st
 
 First of all, it may contain weed seeds, which could end up germinating in your garden.
 
-Secondly, if the manure is not properly composted, it could harbor harmful bacteria or other pathogens that could potentially infect your plants.
+Next, if the manure is not properly composted, it could harbor harmful bacteria or other pathogens that could potentially infect your plants.
 
 Finally, goat manure can be quite smelly when used fresh, so be sure to compost it well before using it on your garden beds.
 
@@ -132,7 +132,7 @@ Liquid fertilizer is a great way to give plants a quick boost of nutrients and c
 
 No matter how you choose to use it, goat manure can be a valuable asset in your [gardening arsenal](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/). Just be sure to take the necessary precautions to avoid any potential problems.
 
-## Final Thoughts
+## The Bottom Line
 
 Goat manure can be used as fertilizer for your crops, but there are a few things to keep in mind.
 

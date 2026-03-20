@@ -45,7 +45,7 @@ Do goats eat meat? It's a common question with a variety of answers.
 
 Some people believe that goats are herbivores, while others think that they may be omnivores.
 
-In this article, we'll take a closer look at what goats eat and whether or not they should eat meat. We'll also cover the benefits and hazards of feeding goats meat, as well as answer some frequently asked questions about this topic.
+we'll take a closer look at what goats eat and whether or not they should eat meat. We'll also cover the benefits and hazards of feeding goats meat, as well as answer some frequently asked questions about this topic.
 
 ## Do goats eat meat?
 
@@ -137,7 +137,7 @@ If you decide to feed your goat meat, it's crucial to make sure that you are fee
 
 A good rule of thumb is to give them no more than 1/4 pound of meat per day. If you are feeding them a diet that includes other protein sources, such as hay or [grains](/can-goats-eat-rice/), you can give them a slightly larger portion of meat.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can eat meat, but there are several hazards and risks associated with doing so. If you decide to feed your goat meat, be sure to talk to an animal expert first to ensure that it's the right decision for your herd.
 

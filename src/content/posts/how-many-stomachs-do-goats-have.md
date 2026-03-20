@@ -114,7 +114,7 @@ Goats are notorious for being messy drinkers, so you may need to provide multipl
 
 Second, avoid feeding your goats too much at one time. It's best to split their meals into multiple small feedings throughout the day.
 
-Lastly, consider adding a digestive supplement to their diet. This will help them to break down their food more efficiently and reduce the risk of gas buildup.
+To wrap up, consider adding a digestive supplement to their diet. This will help them to break down their food more efficiently and reduce the risk of gas buildup.
 
 ## What are some treatments for sick goats' stomachs?
 

@@ -43,7 +43,7 @@ We all know that goats are notorious for eating just about anything. So, it's no
 
 But can goats actually get worms from eating acorns? And if so, what are the symptoms
 
-In this article, we will answer the question, can goats get worms from acorns. We will also discuss the symptoms of worms in goats, and how to treat them.
+we will answer the question, can goats get worms from acorns. We will also discuss the symptoms of worms in goats, and how to treat them.
 
 ## Can goats get worms from acorns?
 
@@ -119,7 +119,7 @@ With that in mind, in other cases, multiple doses may be required. If your goat 
 
 In some cases, surgery may also be necessary.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.
 

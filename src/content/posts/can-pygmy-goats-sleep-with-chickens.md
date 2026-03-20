@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether or not pygmy goats can sleep with chickens. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions so that you can make an informed decision about whether or not to allow your pygmy goat to sleep with your chickens.
+we will answer those questions so that you can make an informed decision about whether or not to allow your pygmy goat to sleep with your chickens.
 
 ## Can pygmy goats sleep with chickens?
 
@@ -54,7 +54,7 @@ Second, you will need to provide the goats with their own food and water. Goats 
 
 They also require more water than chickens, so make sure there is a water source that they can access.
 
-Lastly, you will need to keep an eye on the goats to make sure they are not bothering the chickens too much. Pygmy goats are curious by nature and may try to nibble on the feathers of the chickens or their eggs.
+Finally, you will need to keep an eye on the goats to make sure they are not bothering the chickens too much. Pygmy goats are curious by nature and may try to nibble on the feathers of the chickens or their eggs.
 
 ## The benefits of having pygmy goats sleep with chickens
 
@@ -110,7 +110,7 @@ For example, warm compresses can be applied to sore muscles, and honey can be gi
 
 If you're thinking about allowing your chickens to sleep with your pygmy goats, it's important to keep in mind a few key safety measures.
 
-Firstly, you'll want to ensure that the chickens are fully grown and can handle being in close quarters with the pygmy goats.
+For starters, you'll want to ensure that the chickens are fully grown and can handle being in close quarters with the pygmy goats.
 
 Additionally, it's a good idea to make sure that there are plenty of escape routes available for the chickens if they become stressed out or agitated by the presence of their goat friends.
 
@@ -132,7 +132,7 @@ Additionally, it's important to provide sufficient feed and water each day, as w
 
 With some careful planning and attention to detail, you can help your goats and chickens sleep safely together in harmony.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, pygmy goats can make great additions to any backyard flock of chickens.
 

@@ -43,7 +43,7 @@ A goat is an animal that is kept as a pet by humans. They are known for their pl
 
 If you are considering getting a goat as a pet, there are some things you should know first.
 
-In this article, we will discuss the basics of taking care of a goat, including what they need to eat and drink, how to groom them, and more. We will also answer the question of whether or not goats can live in houses.
+we will discuss the basics of taking care of a goat, including what they need to eat and drink, how to groom them, and more. We will also answer the question of whether or not goats can live in houses.
 
 ## Can a goat live in a house?
 
@@ -111,7 +111,7 @@ Second, goats are susceptible to a number of diseases and health problems. Some 
 
 Even so, others, like Johne's disease, are more serious and can be deadly.
 
-Lastly, goats are notorious for being messy eaters. They will often upend their food bowl in search of the tastiest morsels, making a big mess in the process.
+One more thing: goats are notorious for being messy eaters. They will often upend their food bowl in search of the tastiest morsels, making a big mess in the process.
 
 So, if you're not prepared to deal with a little extra cleanup, owning a goat may not be for you.
 
@@ -141,7 +141,7 @@ It's also worth noting that in many parts of the world, they are used as pack an
 
 So next time you see a goat, take a moment to appreciate all that these fascinating creatures have to offer.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, goats make great pets for those who are willing to put in the time and effort. They are intelligent, friendly animals that can provide a wide range of benefits, from milk and fiber to weed control.
 

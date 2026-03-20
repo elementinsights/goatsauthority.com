@@ -39,7 +39,7 @@ Feeding goats is a relatively simple process, as they are able to eat a wide var
 
 So, you might be wondering if goats can eat spring mix.
 
-In this article, we will answer the question: Can goats eat spring mix? We will also explore the [benefits and risks of feeding this type of food to goats](/can-goats-eat-dog-food/), as well as the appropriate serving size.
+we will answer the question: Can goats eat spring mix? We will also explore the [benefits and risks of feeding this type of food to goats](/can-goats-eat-dog-food/), as well as the appropriate serving size.
 
 ## Can goats eat spring mix?
 
@@ -127,7 +127,7 @@ Whether you [feed it to your goats](/can-a-goat-feed-quads/) or use it in anothe
 
 If you are looking for a way to improve the [health of your goats](/can-goats-eat-mineral-salt-made-for-cattle/) or benefit other animals on your farm, spring mix is a great option.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, feeding spring mix to goats can be a great way to provide them with essential nutrients. Just be sure to be aware of the risks and take precautions to avoid them.
 

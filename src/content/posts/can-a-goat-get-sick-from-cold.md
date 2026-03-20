@@ -82,7 +82,7 @@ Second, make sure your goats have plenty of fresh hay to eat. [Hay](/can-goats-h
 
 It's also a good idea to feed your goats some grain or pellets during the winter, as this will give them extra energy to stay warm.
 
-Lastly, keep an eye on your goats for any signs of illness. Winter is a peak time for respiratory illnesses in goats, so be sure to contact your vet if you notice any unusual symptoms.
+Last but not least, keep an eye on your goats for any signs of illness. Winter is a peak time for respiratory illnesses in goats, so be sure to contact your vet if you notice any unusual symptoms.
 
 additional tips on how to
 
@@ -126,11 +126,11 @@ When it comes to keeping your goats healthy in the winter months, there are a fe
 
 First, you will need to make sure they have access to fresh, clean water at all times. Goats are more susceptible to dehydration in the winter months, so you need to make sure they are drinking enough water.
 
-Secondly, you will need to provide them with good-quality hay or forage. Goats need to eat more in the winter months to maintain their body temperature, so make sure they have plenty of food available.
+Then, you will need to provide them with good-quality hay or forage. Goats need to eat more in the winter months to maintain their body temperature, so make sure they have plenty of food available.
 
-Lastly, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the [winter months](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/), so make sure their shelter is well-insulated and draft-free.
+Finally, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the [winter months](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/), so make sure their shelter is well-insulated and draft-free.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, goats are relatively hardy animals. However, they can still succumb to illness if they are not properly cared for.
 

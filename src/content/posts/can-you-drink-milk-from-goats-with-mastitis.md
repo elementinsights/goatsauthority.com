@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if it's safe to drink milk from goats with mastitis or not. And if so, what kind of care do you need to take when doing so?
 
-In this article, we will answer those questions and provide you with additional healthcare facts, FAQs, and more about drinking milk from goats with mastitis.
+we will answer those questions and provide you with additional healthcare facts, FAQs, and more about drinking milk from goats with mastitis.
 
 ## Can you drink milk from goats with mastitis?
 

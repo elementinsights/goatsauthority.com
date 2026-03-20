@@ -128,7 +128,7 @@ Finally, you can use natural remedies such as apple cider vinegar to help balanc
 
 However, it's important to note that these alternative treatments are not a substitute for veterinarian care. If your goat is showing signs of an infection, always consult with a goat expert before trying any alternative treatments.
 
-## Final Thoughts
+## What to Remember
 
 Overall, [worms are a common problem for goats](/can-goats-get-worms-from-acorns/) and can cause serious health issues if not treated properly. It's important to take preventative measures such as providing clean shelter and good quality feed, as well as having your goat checked by a goat expert regularly.
 

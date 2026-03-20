@@ -126,7 +126,7 @@ Finally, provide your goats with a [balanced diet](/how-many-stomachs-do-goats-h
 
 By following these simple tips, you can help keep your goats healthy and safe from all diseases.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats can get the bubonic plague, but it is a rare disease that can be treated with antibiotics. Vaccination is the best method of prevention.
 

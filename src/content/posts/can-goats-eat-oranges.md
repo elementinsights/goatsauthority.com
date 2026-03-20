@@ -81,7 +81,7 @@ A good rule of thumb is to feed an orange or two per week at most. This ensures 
 
 Remember, each goat has its own unique dietary needs and preferences based on factors like age, size and overall health condition. Always observe how your pet reacts after eating new foods before making them a staple in their diet.
 
-Lastly, make sure you remove any seeds from the oranges as these could potentially cause harm if ingested by your furry friend.
+Last thing to note: make sure you remove any seeds from the oranges as these could potentially cause harm if ingested by your furry friend.
 
 ### Do Goats Like to Eat Orange Peels?
 
@@ -121,7 +121,7 @@ It’s also worth noting that the peel should be removed before feeding your goa
 
 Feeding one or two slices per day would suffice for most goats’ dietary needs without causing any harm.
 
-In conclusion, while goats can indeed consume oranges safely, moderation is key here as well, just like with all foods we provide our furry friends.
+At the end of the day, while goats can indeed consume oranges safely, moderation is key here as well, just like with all foods we provide our furry friends.
 
 ### Can Goats Have Orange Juice?
 
@@ -167,7 +167,7 @@ The peel might be hard for them to digest too. It’s best if the orange is peel
 
 Also remember that not all goats may like oranges. Each one has its own taste preferences just like us humans do.
 
-Lastly, make sure any food given isn’t rotten or spoiled because this can cause serious illness in goats.
+To wrap up, make sure any food given isn’t rotten or spoiled because this can cause serious illness in goats.
 
 ## the Health Benefits of Oranges for Goats
 

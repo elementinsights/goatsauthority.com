@@ -49,7 +49,7 @@ We all know that mountain goats are amazing creatures and are often seen climbin
 
 And if so, how do they do it?
 
-In this article, we will answer those questions about [mountain goats](/can-a-mountain-goat-kill-you/) and their cliff-climbing abilities. We will also discuss the different mountain [goat climbing styles](/can-a-nubian-goat-climb-trees/) and how they are able to maintain their grip on the cliff face.
+Here's what you need to know.we will answer those questions about [mountain goats](/can-a-mountain-goat-kill-you/) and their cliff-climbing abilities. We will also discuss the different mountain [goat climbing styles](/can-a-nubian-goat-climb-trees/) and how they are able to maintain their grip on the cliff face.
 
 ## Can mountain goats climb cliffs?
 
@@ -151,7 +151,7 @@ Additionally, many wildlife preserves and sanctuaries across the country also fe
 
 So if you're looking for an opportunity to experience nature at its finest, be sure to keep your eyes peeled for a glimpse of this versatile creature in its natural habitat.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, the mountain goat is a versatile and hardy animal that has adapted to survive in some of the most extreme environments on Earth.
 

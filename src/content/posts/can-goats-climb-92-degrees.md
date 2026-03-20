@@ -108,7 +108,7 @@ If you have any concerns about your goat's safety, it's best to consult with a v
 
 Second, consider the type of terrain your goat will be climbing. If the ground is uneven or unstable, it could pose a [risk of injury for your goat](/can-a-cdt-shot-kill-a-goat/).
 
-Lastly, make sure that there are no sharp edges or objects that could hurt your goat while they are climbing.
+To wrap up, make sure that there are no sharp edges or objects that could hurt your goat while they are climbing.
 
 In addition, it's always a good idea to supervise your goat while they are climbing, just to be on the safe side.
 
@@ -120,7 +120,7 @@ They can also get caught on something and strangle themselves.
 
 Another risk is that of losing the goat. If a goat gets loose, it may be difficult to find it again, especially if it has climbed to a high place.
 
-Lastly, there's the risk of damaging property. [Goats can cause damage](/can-alfalfa-pellets-cause-goats-to-bloat/) to crops, gardens, and fences.
+One more thing: there's the risk of damaging property. [Goats can cause damage](/can-alfalfa-pellets-cause-goats-to-bloat/) to crops, gardens, and fences.
 
 Despite these risks, many goat owners feel that the [benefits of letting their goats climb](/can-benadryl-hurt-a-goat/) outweigh the dangers. Goats are natural climbers, and it gives them exercise and stimulation.
 
@@ -134,7 +134,7 @@ First, you can provide your goats with an alternate source of exercises, such as
 
 Second, you can trim their hooves regularly. This will help to prevent them from getting caught on objects and injuring themselves.
 
-Lastly, you can fence off any areas you don't want them to access. By taking these precautions, you can help keep your goats safe while still allowing them to enjoy their natural climbing behavior.
+Finally, you can fence off any areas you don't want them to access. By taking these precautions, you can help keep your goats safe while still allowing them to enjoy their natural climbing behavior.
 
 ## What else can goats do?
 
@@ -148,7 +148,7 @@ In addition to being wonderful pets, [goats can also provide milk](/can-a-baby-h
 
 So, whether you're looking for a new pet or considering [adding goats to your farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/), there's a lot to love about these amazing creatures. We hope you've enjoyed learning a little bit more about them.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats can climb 92 degrees but there are some risks associated with letting them do so. However, many goat owners feel that the benefits of letting their goats climb outweigh the dangers.
 

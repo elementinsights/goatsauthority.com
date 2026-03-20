@@ -143,7 +143,7 @@ Straw is a good source of fiber and can help goats to wear down their teeth. How
 
 Goats are creatures of habit and prefer to have the same routine every day. They are also grazers, which means they like to eat small amounts of food throughout the day instead of one large meal.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, straw is a safe food for goats to eat. However, there are some risks associated with feeding it to them.
 

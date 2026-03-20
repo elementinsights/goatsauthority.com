@@ -42,7 +42,7 @@ faq:
 
 Many people have wondered about this over the years: can a goat get a cold sore? While there's no clear-cut solution, we may closely study the causes, signs, and treatments of cold sores in goats to try and come closer to an understanding.
 
-Lastly, we will touch on some preventative measures you can take to keep your goats healthy and free from this pesky virus.
+To wrap up, we will touch on some preventative measures you can take to keep your goats healthy and free from this pesky virus.
 
 ## Can a goat get a cold sore?
 
@@ -126,7 +126,7 @@ Fortunately, cold sores in goats are not considered to be contagious. There's no
 
 Even so, it's still important to practice good hygiene and avoid close contact with goats that have [cold sores](/can-pregnant-goats-eat-medicated-feed/). If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
 
-## Final Thoughts
+## Summary
 
 Goats can get cold sores, but they are not contagious to humans. If you have a goat with a cold sore, you should clean the sore and practice good hygiene.
 

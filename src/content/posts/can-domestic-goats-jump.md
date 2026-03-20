@@ -46,7 +46,7 @@ Taking care of domestic goats is a delicate task that requires a lot of attentio
 
 One of the most common questions people ask about taking care of goats is: Can domestic goats jump? And if so, how high can they jump?
 
-In this article, we will answer all of your questions about whether or not domestic goats can jump and how high they can jump.
+we will answer all of your questions about whether or not domestic goats can jump and how high they can jump.
 
 ## Can domestic goats jump?
 
@@ -144,7 +144,7 @@ A low hurdle is a good place to start; gradually increase the height of the hurd
 
 With some patience and practice, you'll have a trained goat jump in no time - and without breaking the bank.
 
-## Final Thoughts
+## What to Remember
 
 Domestic goats can jump - and with a little bit of training, they can be taught to jump over a variety of obstacles.
 

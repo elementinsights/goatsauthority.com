@@ -46,7 +46,7 @@ faq:
 
 You may be wondering if it's safe to give your goat Benadryl or not. And if so, what are the risks and benefits are.
 
-In this article, we will answer all of your questions about giving Benadryl to goats, including the benefits and risks involved.
+we will answer all of your questions about giving Benadryl to goats, including the benefits and risks involved.
 
 ## Can Benadryl hurt a goat?
 
@@ -62,7 +62,7 @@ Benadryl can help to reduce congestion and make it easier for the goat to breath
 
 It works by slowing down the movement of the intestines, which helps to reduce the amount of fluid that is lost.
 
-Appropriately, Benadryl can help to keep goats hydrated and prevent them from becoming dehydrated.
+Naturally, Benadryl can help to keep goats hydrated and prevent them from becoming dehydrated.
 
 ## What are the risks of giving Benadryl to goats?
 
@@ -104,7 +104,7 @@ Benadryl can help to reduce congestion and make it easier for the goat to breath
 
 In the end, Benadryl can also be used to treat diarrhea in goats. It works by slowing down the movement of the [intestines](/how-many-stomachs-do-goats-have/), which helps to reduce the amount of fluid that is lost.
 
-Appropriately, Benadryl can help to keep goats hydrated and prevent them from becoming dehydrated.
+Understandably, Benadryl can help to keep goats hydrated and prevent them from becoming dehydrated.
 
 Benadryl is a safe and effective medication for goats. Be aware, you need to talk to a goat expert before giving it to a goat, as the correct dosage will vary depending on the goat's weight and the condition being treated.
 

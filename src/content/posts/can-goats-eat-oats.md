@@ -133,7 +133,7 @@ No matter where oats come from, it's crucial to make sure they are fresh. Oats t
 
 If you're unsure whether your oats are still good, give them a sniff. If they smell sour or musty, it's best to throw them out.
 
-## Final Thoughts
+## Summary
 
 Goats can eat oats, but there are some risks involved. Oats are high in sugar and can cause enterotoxemia, a condition that is deadly to goats.
 

@@ -125,7 +125,7 @@ In addition to their well-known black and red coloring, black widow spiders can 
 
 The size of a black widow spider varies depending on the species, but they are typically between 0.5 and 1.5 inches in length.
 
-## Final Thoughts
+## Wrapping Up
 
 Black widow spiders can kill a goat. Their venom is very potent and can cause serious reactions, including tissue damage, paralysis, and even death.
 

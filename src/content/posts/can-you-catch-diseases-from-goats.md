@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks?
 
-In this article, we will answer those questions about diseases and goats so that you can feel more informed next time you're around them.
+we will answer those questions about diseases and goats so that you can feel more informed next time you're around them.
 
 We will also provide some tips on how to prevent any diseases you may be susceptible to.
 
@@ -102,11 +102,11 @@ If you're thinking about adding a goat or two to your farm, there are a few thin
 
 First, goats are social animals and do best when they have companions, so you'll need to plan on getting at least two.
 
-Secondly, goats are escape artists and will need a [sturdy fence](/can-goats-climb-fences/) to keep them contained.
+Following that, goats are escape artists and will need a [sturdy fence](/can-goats-climb-fences/) to keep them contained.
 
 Thirdly, goats are browsers and not grazers, so they'll need a diet of hay, fresh browse, and grain to stay healthy.
 
-Lastly, goats are susceptible to a number of [diseases](/can-any-diseases-spread-from-swine-to-goats/), so you'll need to make sure you have a good veterinarian on hand.
+Last thing to note: goats are susceptible to a number of [diseases](/can-any-diseases-spread-from-swine-to-goats/), so you'll need to make sure you have a good veterinarian on hand.
 
 But if you're willing to put in the work, goats can be rewarding and entertaining animals that will add a lot of character to your farm.
 
@@ -128,7 +128,7 @@ In addition to the diseases mentioned above, there are also other conditions tha
 
 However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats can carry diseases that can be passed on to humans, so it's important to practice good hygiene and avoid contact with sick animals.
 

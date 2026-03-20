@@ -79,7 +79,7 @@ When consumed in large quantities, broccoli can cause digestive issues in goats.
 
 In severe cases, this can lead to intestinal blockages and other life-threatening problems.
 
-Furthermore, broccoli contains compounds that can inhibit the absorption of essential nutrients, leading to malnutrition.
+And, broccoli contains compounds that can inhibit the absorption of essential nutrients, leading to malnutrition.
 
 For these reasons, it's best to err on the side of caution and avoid feeding broccoli to your goats altogether. If you do choose to feed it to them, do so in moderation and only give them a small amount at a time.
 
@@ -153,11 +153,11 @@ A few florets per day is plenty for most goats.
 
 Too much broccoli can lead to digestive upset.
 
-Lastly, be sure to introduce broccoli slowly. Goats' stomachs take time to adjust to new foods, so it's best to add broccoli to their diet gradually.
+Finally, be sure to introduce broccoli slowly. Goats' stomachs take time to adjust to new foods, so it's best to add broccoli to their diet gradually.
 
 With these guidelines in mind, you can feel confident feeding your baby goat broccoli.
 
-## Final Thoughts
+## Summary
 
 Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many [essential nutrients](/can-goats-eat-spinach/).
 

@@ -149,7 +149,7 @@ Goats should have access to water at all times, and you should provide them with
 
 Providing your goats with a [nutritious diet](/can-goats-have-horse-electrolytes/) is also important for preventing udder diseases. Goats need a balanced diet that includes plenty of hay, grass, and fresh vegetables.
 
-## Final Thoughts
+## Key Takeaways
 
 Not all goats have udders, but those that do can produce milk without them. The best way to prevent udder diseases is to keep your goat's udders clean and free from debris.
 

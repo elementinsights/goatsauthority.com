@@ -38,7 +38,7 @@ faq:
 
 You may be wondering whether you can use a rope halter on a goat or not. And if so, what are the things you need to consider before using one?
 
-In this article, we will answer those questions and provide you with additional information about rope halters, so that you can make an informed decision about whether or not to use one on your goat.
+Here's what you need to know.we will answer those questions and provide you with additional information about rope halters, so that you can make an informed decision about whether or not to use one on your goat.
 
 ## Can I use a rope halter on a goat?
 
@@ -114,7 +114,7 @@ You should also keep your body close and maintain constant contact with your goa
 
 This method works well for experienced handlers as well as beginner trainers, making rope halters an excellent choice for any type of [livestock owner](/can-goats-and-dogs-be-friends/).
 
-## Final Thoughts
+## Summary
 
 You can use a rope halter on a goat by acclimating the goat to the halter and then using it when you are leading or restraining your goat in some way.
 

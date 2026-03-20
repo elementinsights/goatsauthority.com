@@ -138,7 +138,7 @@ Dietary fiber is important for healthy digestion in baby goats.
 
 Watermelons should be fed to baby goats in moderation, as too much can cause stomach upset. Watermelon seedlings are also poisonous to baby goats, so make sure to remove the seeds before giving them watermelon to eat.
 
-## Final Thoughts
+## What to Remember
 
 Goats can eat watermelon. However, there are a few things to keep in mind.
 

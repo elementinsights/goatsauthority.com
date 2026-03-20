@@ -47,7 +47,7 @@ It can be challenging to take care of trees and goats, but it's worthwhile to ha
 
 What are the odds, if such is the case?
 
-In this article, we'll address all of your questions about whether or not goat urine may destroy trees. And also, we will give you instructions on how to take care of your trees and goats.
+Here's the short version.we'll address all of your questions about whether or not goat urine may destroy trees. And also, we will give you instructions on how to take care of your trees and goats.
 
 ## Can goat urine kill trees?
 
@@ -85,7 +85,7 @@ It can lead to excessive leaf growth, which makes the tree more vulnerable to wi
 
 Also, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
-Appropriately, you [need to use goat urine sparingly on trees](/can-a-goat-climb-trees/) and to avoid using it near waterways.
+Understandably, you [need to use goat urine sparingly on trees](/can-a-goat-climb-trees/) and to avoid using it near waterways.
 
 ## Other ways to take care of your trees and goats
 
@@ -133,7 +133,7 @@ Goats have a strong sense of smell and they use their urine to communicate with 
 
 Another reason is that [goats like to eat the bark of trees](/can-goats-eat-cedar-trees/). This can be harmful to the tree, so the goat urine might deter other goats from eating the bark.
 
-Lastly, some people believe that the ammonia in goat urine can kill insects or help to fertilize the soil.
+One more thing: some people believe that the ammonia in goat urine can kill insects or help to fertilize the soil.
 
 However, you need to use caution when using goat urine on trees, as too much can be harmful.
 
@@ -147,7 +147,7 @@ Finally, you can try training your goats not to pee on the trees.
 
 This can be done by rewarding them with treats when they stay away from the trees. However, you [need to remember that goats are naturally curious creatures](/how-many-babies-do-goats-have-at-a-time/) and they might still try to pee on the trees from time to time.
 
-## Final Thoughts
+## The Bottom Line
 
 Goat urine can have a harmful effect on trees if there's too much nitrogen in the urine. Nitrogen is an essential nutrient for plants, but too much can be harmful.
 

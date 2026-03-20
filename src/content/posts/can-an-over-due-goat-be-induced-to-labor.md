@@ -69,7 +69,7 @@ There are several signs that labor is imminent in a goat. First, the goat's body
 
 Second, the goat will stop eating and drinking. Third, she will separate herself from the herd and lie down in a secluded spot.
 
-Fourth, her vulva will swell and secrete a clear discharge. Lastly, contractions will begin, and the goat will start to push.
+Fourth, her vulva will swell and secrete a clear discharge. To wrap up, contractions will begin, and the goat will start to push.
 
 These are all signs that the goat is in labor and should be monitored closely. However, it's important to note that not all goats display all of these signs.
 
@@ -83,7 +83,7 @@ This hormone helps to stimulate contractions and can be very effective in induci
 
 Another option is to place a cup of warm [water on the goat's vulva](/can-i-give-a-sick-goat-water-through-a-syringe/). This helps to relax the muscles and can encourage the start of labor.
 
-Lastly, it's also possible to insert a [small amount of olive oil or coffee into the goat's vagina](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This helps to stimulate contractions and can often be enough to induce labor.
+Finally, it's also possible to insert a [small amount of olive oil or coffee into the goat's vagina](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This helps to stimulate contractions and can often be enough to induce labor.
 
 If these methods do not work, it may be necessary to call a goat expert for help. Some owners also wonder if they can [use Vaseline on goat birth](/can-i-use-vaseline-on-goat-birth/) to assist the delivery.
 
@@ -133,7 +133,7 @@ Nesting is when the goat starts to prepare a bed for herself to lie down in duri
 
 If you notice any of these signs, it's important to keep a close eye on the goat and be prepared to assist if necessary.
 
-## Final Thoughts
+## Summary
 
 Inducing labor in a goat can be risky, and it's important to weigh the [risks and benefits](/can-goats-eat-watermelon/) before making a decision. If you do choose to induce labor, make sure you have the supplies you need on hand and that you're prepared to assist if necessary.
 

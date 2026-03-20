@@ -44,7 +44,7 @@ We all know that goats are one of the healthiest animals out there. They're know
 
 So, it's no surprise that people are wondering if goats can have 36 protein blocks. If so, what are the things that we can do to ensure their health and well-being?
 
-In this article, we will answer all of your questions regarding goats and their protein intake. We will also provide you with some tips on how to care for your goats so that they can live a long and healthy life.
+we will answer all of your questions regarding goats and their protein intake. We will also provide you with some tips on how to care for your goats so that they can live a long and healthy life.
 
 ## Can goats have 36 Protein Blocks?
 
@@ -136,7 +136,7 @@ Inspect your blocks regularly and discard any that are damaged or no longer usab
 
 With proper storage, goat protein blocks can be a nutritious and convenient way to feed your goats. Just be sure to keep them dry, and provide plenty of [water for your goats to drink](/can-horses-drink-water-that-has-goat-poop-in-it/).
 
-## Final Thoughts
+## The Bottom Line
 
 Goats don't need a lot of protein, but it is an important part of their diet. Protein blocks are a convenient and easy way to provide goats with the nutrients they need.
 

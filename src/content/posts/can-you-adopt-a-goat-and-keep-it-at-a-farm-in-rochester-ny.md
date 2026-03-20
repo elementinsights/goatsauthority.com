@@ -42,7 +42,7 @@ faq:
 
 We all know that goats are incredibly cute, but did you know that they can also make great pets? If you're thinking about adopting a goat, you may be wondering if it's possible to keep one at a farm in Rochester NY.
 
-In this article, we will answer those questions and provide you with the information necessary to care for your new pet goat.
+We'll cover everything below.we will answer those questions and provide you with the information necessary to care for your new pet goat.
 
 ## Can you adopt a goat and keep it at a farm in Rochester NY?
 
@@ -72,7 +72,7 @@ Owning a pet goat comes with a number of benefits. First, goats are intelligent 
 
 They are known for their problem-solving skills, and they are quick learners.
 
-This means that they can be trained to do tricks, perform tasks, and even compete in agility trials. Secondly, goats are very social creatures.
+This means that they can be trained to do tricks, perform tasks, and even compete in agility trials. Second, goats are very social creatures.
 
 They form strong bonds with their owners and enjoy spending time with them. They are also very curious animals, which can make them great companions.
 
@@ -88,9 +88,9 @@ Goats are notoriously independent, so they don't need a lot of extra care. howev
 
 First of all, goats are very social creatures, so it's important to spend some time every day interacting with your goat. whether it's brushing their fur or simply talking to them, goats enjoy having companionship.
 
-Secondly, goats need plenty of space to roam and play. if you confine them to a small space, they will quickly become bored and destructive.
+After that, goats need plenty of space to roam and play. if you confine them to a small space, they will quickly become bored and destructive.
 
-Lastly, goats are browsers, not grazers like cows. this means that they prefer to eat shrubs and leaves rather than grass.
+And finally, goats are browsers, not grazers like cows. this means that they prefer to eat shrubs and leaves rather than grass.
 
 so, make sure to provide your goat with plenty of fresh browse to munch on.
 
@@ -114,7 +114,7 @@ But, there are a few things to keep in mind before taking the plunge into goat o
 
 They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
 
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet.
+Second, goats are social animals and do best when they have companions, so be prepared to get more than one. One more thing: goats require regular vet care, just like any other pet.
 
 But with a little planning and preparation, raising goats can be a fun and rewarding experience.
 
@@ -134,7 +134,7 @@ Here are a few fun facts about goats:
 - [Goats are proficient swimmers](/can-a-goat-swim-everything-you-need-to-know/) and have been known to swim for miles.
 - Goats are curious creatures and will often investigate anything new in their environment.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, you can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
 
@@ -142,6 +142,6 @@ However, there are a few things to keep in mind before taking the plunge into go
 
 They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
 
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. Lastly, goats require regular vet care, just like any other pet.
+Second, goats are social animals and do best when they have companions, so be prepared to get more than one. To wrap up, goats require regular vet care, just like any other pet.
 
 But with a little planning and preparation, raising goats can be a fun and rewarding experience.

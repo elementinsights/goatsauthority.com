@@ -118,7 +118,7 @@ While there are many benefits to having a goat in Foothill Farms, there are also
 
 During their daily foraging activities, goats may knock down fences or chew through garden plants. Additionally, [goats can carry various diseases and parasites](/can-goats-carry-distemper/), which means that close contact with humans should be avoided.
 
-Furthermore, [goats require specialized care and feeding](/can-a-goat-feed-quads/), which can be difficult for someone without prior experience or knowledge of animal husbandry.
+And, [goats require specialized care and feeding](/can-a-goat-feed-quads/), which can be difficult for someone without prior experience or knowledge of animal husbandry.
 
 Overall, while a goat can certainly be a valuable addition to any community, prospective owners must understand the challenges and responsibilities that go along with keeping such an animal.
 

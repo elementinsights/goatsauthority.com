@@ -115,7 +115,7 @@ However, despite these benefits, moderation is key when feeding grapes to goats.
 
 Remember not all parts of grape plants are safe for goats though. The vines and leaves might cause harm due to possible pesticide residue or natural toxins present on them.
 
-In conclusion, while grapes can provide some nutritional value for goats they should only form a small part of their diet alongside other foods like [hay](/what-kind-of-hay-do-goats-eat/) or grain feedings.
+All in all, while grapes can provide some nutritional value for goats they should only form a small part of their diet alongside other foods like [hay](/what-kind-of-hay-do-goats-eat/) or grain feedings.
 
 ### Health Benefits of Eating Grapes and Grape Vines for Goats
 
@@ -175,7 +175,7 @@ But remember this rule: **Grapes should be given as treats only, not daily meals
 
 Also consider variety when feeding your goats with fruits or [vegetables](/can-goats-eat-carrots/) other than their usual hay or grain mixtures. This will ensure balanced nutrition while keeping them interested in their food.
 
-In conclusion, you can give your goats some grape treats occasionally but don’t overdo it.
+In short, you can give your goats some grape treats occasionally but don’t overdo it.
 
 ## Why Goats Love Grapes
 

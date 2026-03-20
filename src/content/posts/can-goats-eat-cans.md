@@ -61,7 +61,7 @@ It can be harmful if your goat swallows pieces of metal from the can though. Sha
 
 So while you may see a goat chewing on an old soda can in cartoons, remember it’s not good practice in real life.
 
-In conclusion, despite popular belief, don’t let your goats munch on those discarded beer or soup cans lying around.
+So, despite popular belief, don’t let your goats munch on those discarded beer or soup cans lying around.
 
 ### the Impact of Non-Edible Objects on Goat’s Health
 
@@ -75,11 +75,11 @@ Eating these materials can cause serious health problems in goats like blockages
 
 Tin cans also have sharp edges which pose another risk, injury to the goat’s mouth or throat when chewing or swallowing them.
 
-Furthermore, paint and other chemicals found on tin cans could be toxic if ingested by your goat leading to poisoning symptoms such as loss of appetite, weakness, diarrhea among others
+Also, paint and other chemicals found on tin cans could be toxic if ingested by your goat leading to poisoning symptoms such as loss of appetite, weakness, diarrhea among others
 
 So it’s crucial not just for their health but also for their safety to keep non-edible objects away from your goats’ reach at all times.
 
-In conclusion, while our furry friends might seem invincible with what they choose to nibble on, it’s important we ensure they stick strictly with edible items only.
+To sum up, while our furry friends might seem invincible with what they choose to nibble on, it’s important we ensure they stick strictly with edible items only.
 
 ## Pet Talk: Do Goats Really Like to Eat Cans?
 
@@ -157,4 +157,4 @@ They may chew on them out of curiosity but they don’t swallow the metal.
 
 **So why do we see goats with cans in cartoons?** It might have started because goats explore things using their mouths, much like babies do.
 
-**In conclusion, while it seems funny and harmless in animations or comics, feeding your goat something like a can isn’t safe** nor advisable.
+**All in all, while it seems funny and harmless in animations or comics, feeding your goat something like a can isn’t safe** nor advisable.

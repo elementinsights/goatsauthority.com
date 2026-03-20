@@ -43,7 +43,7 @@ Taking care of goats and horses can be a challenging but rewarding experience. B
 
 And if so, what are the things you need to know?
 
-In this article, we will answer those questions and provide you with additional information about strangles and their transmission.
+Here's what you need to know.we will answer those questions and provide you with additional information about strangles and their transmission.
 
 ## Can strangles from horse be passed to goats?
 
@@ -127,7 +127,7 @@ For example, you can quarantine any animals that are showing [signs of illness](
 
 By taking these simple precautions, horse owners and [goat herders](/can-goats-be-outside-in-winter/) can help protect their animals from strangles and keep them healthy for many years to come.
 
-## Final Thoughts
+## Summary
 
 Overall, strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.
 

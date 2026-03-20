@@ -54,7 +54,7 @@ These are all valid questions, and ones that we’re going to answer for you. So
 
 So, if you have two baby goats that are both males or both females, you can put them together. But if you have a male and female goat, it’s best to [keep them separate](/can-goats-be-kept-in-the-house/).
 
-Lastly, if you have more than two baby goats, you can put them all together regardless of their sex. The more the merrier for baby goats and they will enjoy each other’s company.
+Finally, if you have more than two baby goats, you can put them all together regardless of their sex. The more the merrier for baby goats and they will enjoy each other’s company.
 
 ## Introducing baby goats
 
@@ -78,7 +78,7 @@ When it comes to taking care of baby goats, there are a few key things to keep i
 
 They are very active and curious and need to be supervised at all times.
 
-Secondly, baby goats need a lot of fresh food and water. Goats are browsers, which means they like to eat leaves, twigs, and other vegetation.
+Then, baby goats need a lot of fresh food and water. Goats are browsers, which means they like to eat leaves, twigs, and other vegetation.
 
 Make sure to provide plenty of hay, fresh vegetables, and water for your baby goats to munch on.
 
@@ -88,7 +88,7 @@ They are very active creatures, so it's crucial to provide them with plenty of t
 
 Another thing to keep in mind is that baby goats are very social animals. They love being around people and [other animals](/can-ducks-and-goats-coexist/), so make sure to provide them with plenty of socialization opportunities.
 
-Lastly, baby goats are very curious creatures. They will try to eat anything they can get their mouths on, so you need to be aware of what they are eating and to keep an eye on them at all times.
+To wrap up, baby goats are very curious creatures. They will try to eat anything they can get their mouths on, so you need to be aware of what they are eating and to keep an eye on them at all times.
 
 With a little bit of love and care, your baby goats will be happy and healthy in no time.
 
@@ -180,7 +180,7 @@ Finally, baby goats are very curious and can get into mischief if they are not s
 
 By keeping them in a clean and safe environment, you can help to prevent these problems.
 
-## Final Thoughts
+## Wrapping Up
 
 Many people enjoy keeping baby goats as pets. They are playful and curious, and they can provide a lot of joy.
 

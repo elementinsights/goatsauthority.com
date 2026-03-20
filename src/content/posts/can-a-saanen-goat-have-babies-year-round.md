@@ -35,7 +35,7 @@ faq:
   - question: "How many kids can a Saanen goat have at one time?"
     answer: "Saanen goats are a medium-sized breed of dairy goat that originates from the western Alps in Switzerland. They are known for their large milk production, and as a result, they are often used for commercial dairy operations."
 ---
-Taking care of goats can be a lot of fun, but it's also a big responsibility. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed.
+Goat ownership requires dedication and the right knowledge. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed.
 
 Dairy goats are bred for their milk production, while meat goats are raised for their meat and fiber.
 
@@ -43,7 +43,7 @@ Saanen goats are a dairy breed, and they're known for their high milk production
 
 Can Saanen goats have babies year-round?
 
-In this article, we will answer that question, and we'll also give you some tips on how to care for your Saanen goat's health and wellbeing.
+we will answer that question, and we'll also give you some tips on how to care for your Saanen goat's health and wellbeing.
 
 ## Can a Saanen goat have babies year round?
 
@@ -59,7 +59,7 @@ Saanen goats are used primarily for milk production, but they can also be used f
 
 In terms of meat production, Saanen goats are not as popular as other breeds, but they can still provide a good source of lean protein.
 
-Lastly, in terms of fiber production, Saanen goats produce a medium-quality fiber that is often used in making yarn and other textile products. In general, Saanen goats are a versatile breed that can be used for a variety of purposes.
+Finally, in terms of fiber production, Saanen goats produce a medium-quality fiber that is often used in making yarn and other textile products. In general, Saanen goats are a versatile breed that can be used for a variety of purposes.
 
 Saanen goats are a hardy breed that is well-adapted to a variety of climates. They originally come from the Swiss Alps, which is a cold, mountainous region.
 
@@ -127,7 +127,7 @@ Bucks also have larger horns than does.
 
 Saanen goats can live for 10-12 years in captivity, but their lifespan is usually shorter in the wild due to [predation](/can-a-fox-kill-a-goat/) and other risks.
 
-## Final Thoughts
+## The Bottom Line
 
 Saanen goats can have babies year-round, but kidding rates are highest in the spring and early summer. Most does will have twins or triplets, although single births are not uncommon.
 

@@ -43,7 +43,7 @@ Taking care of goats means providing them with a diet that is not only nutritiou
 
 So, can goats eat kohlrabi?
 
-In this article, we will answer that question and provide you with more information on the [benefits and hazards of feeding kohlrabi to goats](/can-goats-milk-be-frozen/) as well as the appropriate serving size.
+Here's what you need to know.we will answer that question and provide you with more information on the [benefits and hazards of feeding kohlrabi to goats](/can-goats-milk-be-frozen/) as well as the appropriate serving size.
 
 ## Can goats eat kohlrabi?
 
@@ -61,7 +61,7 @@ Kohlrabi is a popular food for goats. [Goats are able to digest](/can-goats-dige
 
 The antioxidants in kohlrabi can also help to protect goats from diseases.
 
-What's more, kohlrabi can help to keep goats cool in hot weather, as it helps to regulate their body temperature. Appropriately, kohlrabi is an important food for [goats and can provide them with numerous health benefits](/can-goats-eat-gum-tree-leaves/).
+What's more, kohlrabi can help to keep goats cool in hot weather, as it helps to regulate their body temperature. Not surprisingly, kohlrabi is an important food for [goats and can provide them with numerous health benefits](/can-goats-eat-gum-tree-leaves/).
 
 ## What do goats eat and are they able to eat Kohlrabi?
 
@@ -131,7 +131,7 @@ If you notice any problems, discontinue feeding kohlrabi and consult with your v
 
 Kohlrabi is a delicious and nutritious treat for your goats. By following these tips, you can ensure that they enjoy their meals and stay healthy at the same time.
 
-## Final Thoughts
+## Summary
 
 Overall, kohlrabi is a safe vegetable for goats to eat. However, there are a few potential hazards to be aware of, such as the high oxalate content and the possibility of contamination with harmful bacteria.
 

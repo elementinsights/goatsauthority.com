@@ -187,7 +187,7 @@ Water should always be available for your goats. They need fresh water daily jus
 
 A mineral block is another must-have item for good goat nutrition. They provide needed minerals that might not be present in hay or grains alone.
 
-Lastly, if you’re unsure about what foods are safe, consult with an expert such as a vet who specializes in farm animals.
+One more thing: if you’re unsure about what foods are safe, consult with an expert such as a vet who specializes in farm animals.
 
 #### What Can You Feed Your Goats?
 

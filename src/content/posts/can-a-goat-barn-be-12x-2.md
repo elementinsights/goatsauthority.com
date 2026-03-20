@@ -150,7 +150,7 @@ If you live in a climate with extreme temperatures, you should also insulate the
 
 The cost of a goat barn depends on a number of factors, such as the size of the barn and the materials you use. However, you can expect to spend at least $500 on a small barn and upwards of $5,000 for a larger barn.
 
-## Final Thoughts
+## What to Remember
 
 Many people enjoy having goats as pets. If you are thinking about getting a goat, there are a few things you should consider, such as whether or not you have the space for a barn.
 

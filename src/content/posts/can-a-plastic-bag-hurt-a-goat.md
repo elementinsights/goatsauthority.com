@@ -48,7 +48,7 @@ We all know that plastic bags are not good for the environment. They take years 
 
 But can a plastic bag hurt a goat? And if so, what are the potential risks?
 
-In this article, we will take a look at the potential risks of a plastic bag to a goat, as well as some FAQs about goats and plastic bags.
+we will take a look at the potential risks of a plastic bag to a goat, as well as some FAQs about goats and plastic bags.
 
 ## Can a plastic bag hurt a goat?
 
@@ -134,7 +134,7 @@ However, some veterinarians believe that younger goats may be more likely to ing
 
 For this reason, it's important to take precautions to prevent all goats from accessing plastic bags.
 
-## Final Thoughts
+## What to Remember
 
 While plastic bags can be dangerous for goats, the risks can be easily avoided by taking some simple precautions. Goats should always have access to clean water and fresh food, and all trash should be properly disposed of.
 

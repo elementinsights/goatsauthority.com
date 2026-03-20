@@ -127,7 +127,7 @@ When goats butt heads with each other, they can damage their [teeth](/can-a-goat
 
 Over time, this damage can add up and lead to tooth loss. Even though it's not unusual for goats to lose some of their teeth as they age, it's still crucial to monitor their dental health and ensure that they are getting the proper nutrition and care.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats have top teeth. All goats have 32 permanent teeth, including 12 incisors, 4 canines, and 16 molars.
 

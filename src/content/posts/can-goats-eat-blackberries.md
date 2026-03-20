@@ -87,9 +87,9 @@ First, remember that goats need a balanced diet to stay healthy. Their main food
 
 Blackberries are considered treats and shouldn’t replace this primary feed source.
 
-Secondly, consider giving your goat blackberries once or twice a week only as part of its varied diet. This ensures that your pet gets different nutrients from various foods.
+Following that, consider giving your goat blackberries once or twice a week only as part of its varied diet. This ensures that your pet gets different nutrients from various foods.
 
-Lastly, moderation is key when feeding any treat including blackberries to prevent health issues like obesity and digestive problems in goats.
+Last but not least, moderation is key when feeding any treat including blackberries to prevent health issues like obesity and digestive problems in goats.
 
 So while goats love snacking on those ripe berries you have around, keep it occasional for their own good.
 
@@ -107,7 +107,7 @@ Remember not all parts of the plant are safe either. The leaves and stems have s
 
 Also be aware of pesticides on store-bought berries too as they might pose a risk to your pet’s health. The same caution applies when feeding [apples](/can-goats-eat-apples/) or other store-bought fruits.
 
-Lastly, gradually introduce new foods like blackberries into their diet over time instead of all at once, this helps prevent upset stomachs from sudden changes in diet.
+And finally, gradually introduce new foods like blackberries into their diet over time instead of all at once, this helps prevent upset stomachs from sudden changes in diet.
 
 ### How to Prepare Blackberries for Feeding to Goats
 
@@ -115,13 +115,13 @@ Lastly, gradually introduce new foods like blackberries into their diet over tim
 
 Goats are natural foragers and they can eat the whole fruit, including seeds.
 
-Firstly, make sure the berries are ripe. Ripe blackberries have more nutrients than unripe ones.
+To start, make sure the berries are ripe. Ripe blackberries have more nutrients than unripe ones.
 
 They also taste better which your goat will appreciate.
 
-Secondly, wash them thoroughly before feeding them to your goats. This removes any dirt or chemicals that might be on the surface of the berries.
+Following that, wash them thoroughly before feeding them to your goats. This removes any dirt or chemicals that might be on the surface of the berries.
 
-In conclusion, preparing blackberries for your goat isn’t hard at all but remember not overfeed these sweet treats.
+Bottom line: preparing blackberries for your goat isn’t hard at all but remember not overfeed these sweet treats.
 
 ### Potential Downsides of Goats Eating Blackberry Bushes
 
@@ -133,7 +133,7 @@ Another downside relates to pesticides. If the blackberry bush has been sprayed 
 
 It’s always important to know where your food comes from and this applies equally when feeding our four-legged friends.
 
-Lastly, while blackberries themselves aren’t toxic for goats, they should not make up the majority of their diet. Goats need a balanced intake which includes [hay](/what-kind-of-hay-do-goats-eat/) and grains along with fruits like berries in moderation.
+One more thing: while blackberries themselves aren’t toxic for goats, they should not make up the majority of their diet. Goats need a balanced intake which includes [hay](/what-kind-of-hay-do-goats-eat/) and grains along with fruits like berries in moderation.
 
 ## the Benefits of Eating Blackberries for Goats
 

@@ -46,7 +46,7 @@ faq:
 
 If you're wondering whether or not it's possible to give pregnant goats injectable vitamin B12, and what factors to consider before doing so?
 
-In this article, we'll discuss everything you need to know about giving pregnant goats injectable vitamin B12. We will also provide some general healthcare tips, facts, and FAQs about pregnant goats.
+Here's what you need to know.we'll discuss everything you need to know about giving pregnant goats injectable vitamin B12. We will also provide some general healthcare tips, facts, and FAQs about pregnant goats.
 
 ## Can pregnant goats have injectable vitamin B12?
 
@@ -60,7 +60,7 @@ There are many [benefits to giving pregnant goats injectable vitamin B12](/can-a
 
 Plus, the vitamins boost [immune function](/can-goats-carry-distemper/) in both pregnant goats and their offspring, making them less prone to infection and illness.
 
-Furthermore, the added nutrients promote healthy growth of the placenta and improve energy levels in both the mother and baby.
+And, the added nutrients promote healthy growth of the placenta and improve energy levels in both the mother and baby.
 
 Overall, injectable vitamin B12 is an essential tool for ensuring that goat pregnancies run smoothly from start to finish.
 
@@ -68,7 +68,7 @@ Overall, injectable vitamin B12 is an essential tool for ensuring that goat preg
 
 There are a number of risks associated with giving pregnant goats injectable vitamin B12. For one, the vitamin can be [toxic if it's given in high doses](/can-too-much-penicillin-given-to-baby-goat-die/), which can harm not only the goat but also any unborn offspring.
 
-Furthermore, administering the injection incorrectly can result in improper dosage or other potentially dangerous side effects.
+Beyond that, administering the injection incorrectly can result in improper dosage or other potentially dangerous side effects.
 
 Finally, while generally considered safe, there is some concern that injecting vitamin B12 directly into a pregnant goat may interfere with its body's natural absorption of the nutrient.
 
@@ -110,7 +110,7 @@ As for administration, vitamin B12 should be injected intramuscularly or subcuta
 
 In some cases, oral supplements may be an option for treating vitamin B12 deficiency in pregnant goats. But, this is typically only recommended when the deficiency is mild and the goat is not at risk for developing serious health complications as a result of their condition.
 
-Furthermore, it is crucial to note that oral supplements are not as highly effective as [injectable vitamin B12](/can-you-deworm-a-pregnant-goat/), and as such, they may not be the best option for pregnant goats with severe deficiencies.
+Also, it is crucial to note that oral supplements are not as highly effective as [injectable vitamin B12](/can-you-deworm-a-pregnant-goat/), and as such, they may not be the best option for pregnant goats with severe deficiencies.
 
 Ultimately, the decision of whether or not to use oral supplements should be made in consultation with a veterinarian who is familiar with your goat's individual health needs.
 
@@ -132,7 +132,7 @@ Additionally, care should be taken to ensure that regular goats do not receive t
 
 Ultimately, the decision of whether or not to supplement a regular goat with vitamin B12 should be made in consultation with a veterinarian who is familiar with the animal's individual health needs.
 
-## Final Thoughts
+## Summary
 
 Pregnant goats may benefit from injectable vitamin B12 supplements, but it is important to consult with a veterinarian before starting any treatment.
 

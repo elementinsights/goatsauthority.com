@@ -59,7 +59,7 @@ Make sure the shells aren’t too hard before feeding them to your goat though. 
 
 If possible, opt for shelled ones instead of whole ones with sharp edges.
 
-In conclusion, while sunflowers seem like an unusual choice at first glance, they’re actually quite good. Just ensure that you use caution when adding [new foods](/can-i-feed-my-goat-leftovers/) into your beloved pet’s diet.
+So, while sunflowers seem like an unusual choice at first glance, they’re actually quite good. Just ensure that you use caution when adding [new foods](/can-i-feed-my-goat-leftovers/) into your beloved pet’s diet.
 
 ## Are Sunflower Seeds Safe for Goats Raw?
 
@@ -105,7 +105,7 @@ When it comes to feeding your goats, sunflower seeds can be a great addition. Th
 
 But before you start tossing handfuls into their pen, there’s a right way to serve these tasty treats.
 
-Firstly, the type of seed matters. Black oil sunflower seeds (BOSS) are best for goats due to their high fat content which helps keep coats shiny.
+For starters, the type of seed matters. Black oil sunflower seeds (BOSS) are best for goats due to their high fat content which helps keep coats shiny.
 
 Striped varieties have harder shells that might not get fully digested.
 
@@ -127,7 +127,7 @@ Sunflower seeds shouldn’t replace [hay](/can-goats-eat-alfalfa/) or grasses th
 
 Also remember that not all types of sunflower seeds are suitable for your furry friends. Stick with raw, unsalted varieties since [salted](/can-goats-eat-mineral-salt-made-for-cattle/) versions could harm your goat’s health over time due to high sodium content.
 
-Lastly, always monitor your goats after introducing any new food item into their diets including sunflower seeds, just in case there might be allergies or digestive issues at play.
+Last but not least, always monitor your goats after introducing any new food item into their diets including sunflower seeds, just in case there might be allergies or digestive issues at play.
 
 ## Health and Nutritional Benefits of Sunflower Seeds for Goats
 

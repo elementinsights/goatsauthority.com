@@ -44,7 +44,7 @@ faq:
 
 It is difficult to determine whether or not milk from a goat that has had a sore mouth can be used, as the disease can persist in the animal for some time after healing. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions and provide you with additional information on the topic. We will also share some tips on how to properly care for a goat with a sore mouth.
+We'll cover everything below.we will answer those questions and provide you with additional information on the topic. We will also share some tips on how to properly care for a goat with a sore mouth.
 
 ## Can milk be used from goats that have had sore mouths and healed?
 
@@ -88,7 +88,7 @@ There are several [benefits of using milk from a goat](/can-a-cat-drink-goats-mi
 
 Second, it can help to speed up the healing process. Third, it can help to prevent the spread of infection.
 
-Lastly, it can provide relief from pain.
+To wrap up, it can provide relief from pain.
 
 The main thing you [need to consider when using milk from a goat](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) with a sore mouth is the quality of the milk. If you are unsure about the quality of the milk, it is best to discard it.
 
@@ -100,19 +100,19 @@ There are some circumstances when you should not use milk from a goat with a sor
 
 Second, if you are unsure about the quality of the milk, it is best to discard it. Third, if the goat is in pain, it is best to give the animal some pain relief medication before milking.
 
-Lastly, if the [goat is not drinking plenty of fresh water](/can-horses-drink-water-that-has-goat-poop-in-it/), it is best to provide the animal with additional water before milking.
+Finally, if the [goat is not drinking plenty of fresh water](/can-horses-drink-water-that-has-goat-poop-in-it/), it is best to provide the animal with additional water before milking.
 
 ## How to prevent the spread of sore mouth in goats?
 
 The best way to prevent the spread of sore mouth is to isolate any animals that show signs of the disease.
 
-Furthermore, it is key to practice good hygiene when working with goats. After coming into contact with an affected animal, you should wash your hands before coming into contact with any healthy animals.
+And, it is key to practice good hygiene when working with goats. After coming into contact with an affected animal, you should wash your hands before coming into contact with any healthy animals.
 
 It is also important to avoid sharing equipment between goats that are sick and those that are healthy. This includes items such as buckets, feeders, water troughs, and brushes.
 
 If you must share equipment, it should be thoroughly cleaned and disinfected between use.
 
-Lastly, it is important to vaccinate all goats against sore mouths. There are two types of vaccines available, and both are effective in protecting goats from the disease.
+And finally, it is important to vaccinate all goats against sore mouths. There are two types of vaccines available, and both are effective in protecting goats from the disease.
 
 The first is a live vaccine, which is given as an injection. The second is a killed vaccine, which is given as an intranasal spray.
 
@@ -136,7 +136,7 @@ In addition to its culinary uses, [goat's milk](/can-goat-milk-reduce-wrinkles/)
 
 Goat's milk is thought to be beneficial for the skin due to its high-fat content and the presence of lactic acid. It is also believed to have anti-inflammatory properties.
 
-## Final Thoughts
+## Wrapping Up
 
 Milk can be used from a goat with a sore mouth, but there are certain circumstances when it is best to discard it. If you are unsure about the quality of the milk, it is best to err on the side of caution and discard it.
 

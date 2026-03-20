@@ -131,7 +131,7 @@ There’s plenty of minerals found within bamboo as well, like calcium and phosp
 
 But remember moderation is key here.
 
-In conclusion, **bamboo can be a beneficial addition to your goat’s diet**. It offers nutritional benefits and could potentially save on feed costs if you have access to it.
+To sum up, **bamboo can be a beneficial addition to your goat’s diet**. It offers nutritional benefits and could potentially save on feed costs if you have access to it.
 
 But like any food source, it should be given in moderation along with other types of feeds for balanced nutrition.
 

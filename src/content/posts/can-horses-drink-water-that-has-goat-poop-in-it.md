@@ -44,7 +44,7 @@ Taking care of a horse is a big responsibility. Part of that responsibility is m
 
 But what happens if you don't have access to clean water and the only thing available is water that has been contaminated with goat poop? Can they drink it?
 
-In this article, we will answer those questions and more so you can keep your horse healthy and hydrated.
+we will answer those questions and more so you can keep your horse healthy and hydrated.
 
 ## Can horses drink water that has goat poop in it?
 
@@ -114,7 +114,7 @@ The horse then uses a complex series of muscles that surround its jaw and head t
 
 Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. In general, this complex process helps ensure that horses can stay properly hydrated even in times of need.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, if you think your horse may have consumed water that was contaminated with goat feces, it is important to monitor their behavior and overall health closely.
 

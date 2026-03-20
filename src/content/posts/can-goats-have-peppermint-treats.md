@@ -44,7 +44,7 @@ faq:
 
 You may be wondering whether or not your goats can have peppermint treats. And if so, what are the benefits?
 
-In this article, we will answer all of your questions regarding goats and peppermint treats.
+Read on for the full breakdown.we will answer all of your questions regarding goats and peppermint treats.
 
 ## Can goats have peppermint treats?
 
@@ -136,7 +136,7 @@ It's vital to introduce peppermint treats to your goats gradually, as you should
 
 You can progressively raise the amount you give them if they seem to like it and don't experience any negative side effects. But if they start showing signs of gastrointestinal distress, such as vomiting or diarrhea, it's best to stop giving them the treats and consult with a goat expert.
 
-## Final Thoughts
+## Summary
 
 Goats can have peppermint treats, but they should be introduced slowly and in moderation. Peppermint can [cause gastrointestinal distress in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), so it's important to monitor them closely when giving them mint-flavored treats.
 

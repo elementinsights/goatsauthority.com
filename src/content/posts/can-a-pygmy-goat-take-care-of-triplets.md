@@ -41,7 +41,7 @@ Many people think pygmy goats make great pets because they are so small and easy
 
 Can a pygmy goat take care of triplets?
 
-In this article, we will answer all of your questions about [pygmy goat](/can-i-wash-and-groom-a-pygmy-goat/) triplets, including whether or not they can take care of them and how to best take care of them.
+we will answer all of your questions about [pygmy goat](/can-i-wash-and-groom-a-pygmy-goat/) triplets, including whether or not they can take care of them and how to best take care of them.
 
 ## Can a pygmy goat take care of triplets?
 
@@ -101,7 +101,7 @@ Pygmy goats are small, hardy animals that are well-suited to a life of dairy pro
 
 This makes them an ideal choice for small-scale dairy operations. In addition, pygmy goats are less prone to disease and parasites than other breeds of goat, making them easier to keep healthy.
 
-Lastly, the small size of pygmy [goats means that they require less space than other dairy animals](/can-a-dairy-goats-udder-skin-have-varying-colors/), making them a good choice for farms with limited land resources. All of these factors make pygmy goats an excellent choice for use as wet nurses.
+One more thing: the small size of pygmy [goats means that they require less space than other dairy animals](/can-a-dairy-goats-udder-skin-have-varying-colors/), making them a good choice for farms with limited land resources. All of these factors make pygmy goats an excellent choice for use as wet nurses.
 
 ## What are some common problems with pygmy goat nursing?
 
@@ -115,7 +115,7 @@ Another problem is that the [goats may become stressed and stop eating](/can-a-g
 
 Finally, some goats may have difficulty digesting milk because of a lack of enzymes. If your [goat is having trouble digesting milk](/can-i-put-safeguard-in-my-goats-milk/), you will need to give it enzymes before each feeding.
 
-## Final Thoughts
+## Summary
 
 A pygmy goat can make a great wet nurse for triplets, but there are a few things you need to keep in mind.
 

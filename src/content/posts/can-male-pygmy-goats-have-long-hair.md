@@ -53,7 +53,7 @@ Male pygmy goats are usually smaller than their female counterparts. They also h
 
 But what about their hair? Can male pygmy goats have long hair?
 
-In this article, we will discuss [everything you need to know about the hair of male pygmy goats](/can-i-wash-and-groom-a-pygmy-goat/). We will also talk about how they are different from other types of goats, and what makes them so special.
+we will discuss [everything you need to know about the hair of male pygmy goats](/can-i-wash-and-groom-a-pygmy-goat/). We will also talk about how they are different from other types of goats, and what makes them so special.
 
 ## Can male pygmy goats have long hair?
 
@@ -73,7 +73,7 @@ Another benefit of having a long-haired male pygmy goat is that they are very ha
 
 This is because their long hair keeps them warm.
 
-Lastly, long-haired male pygmy goats are simply more aesthetically pleasing than their shorter-haired counterparts. If you are looking for a goat that is both beautiful and gentle, then a long-haired male pygmy goat is the perfect choice for you.
+And finally, long-haired male pygmy goats are simply more aesthetically pleasing than their shorter-haired counterparts. If you are looking for a goat that is both beautiful and gentle, then a long-haired male pygmy goat is the perfect choice for you.
 
 ## How do I care for my long-haired male pygmy goat?
 
@@ -83,7 +83,7 @@ This will help to prevent knots and tangles.
 
 You should also trim their nails and hooves regularly. This will help to keep them healthy and comfortable.
 
-Lastly, you need to provide your long-haired male pygmy goat with plenty of fresh hay, water, and food. Goats are grazing animals and need a lot of hay to stay healthy.
+One more thing: you need to provide your long-haired male pygmy goat with plenty of fresh hay, water, and food. Goats are grazing animals and need a lot of hay to stay healthy.
 
 Providing your goat with a healthy diet and plenty of exercises will help to keep their coat in good condition.
 
@@ -95,7 +95,7 @@ This is because their long hair provides a perfect place for parasites to hide.
 
 Another risk is that their long hair can get tangled and matted. This can be uncomfortable for the goat and can lead to skin problems.
 
-Lastly, long-haired male pygmy goats are more prone to respiratory problems. This is because their long hair can trap dust and dirt particles in their lungs.
+One more thing: long-haired male pygmy goats are more prone to respiratory problems. This is because their long hair can trap dust and dirt particles in their lungs.
 
 Despite these risks, long-haired male pygmy goats are still gentle, social creatures that make great companions.
 

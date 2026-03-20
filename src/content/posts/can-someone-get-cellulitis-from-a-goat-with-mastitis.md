@@ -45,7 +45,7 @@ You may be wondering whether you can get cellulitis from a goat with mastitis or
 
 Here's what you need to know.
 
-In this article, we will answer those questions about cellulitis and goats with mastitis. We will also provide information on the symptoms, treatment, and prevention of cellulitis.
+Read on for the full breakdown.we will answer those questions about cellulitis and goats with mastitis. We will also provide information on the symptoms, treatment, and prevention of cellulitis.
 
 ## Can someone get cellulitis from a goat with mastitis?
 
@@ -129,7 +129,7 @@ Additionally, people with cellulitis may be at risk for developing skin abscesse
 
 So it's important to see a doctor as soon as possible if you think you might have cellulitis in order to avoid any potential complications.
 
-## Final Thoughts
+## The Bottom Line
 
 In general, cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.
 

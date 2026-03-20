@@ -95,7 +95,7 @@ However, don’t feed them only kale. Goats need a varied diet to stay healthy a
 
 This should consist mostly of hay or [pasture grasses](/can-goats-eat-kentucky-bluegrass/) along with some grains.
 
-Lastly, make sure the kale isn’t sprayed with pesticides or chemicals before feeding it to your kid goats because these substances could harm their delicate systems.
+One more thing: make sure the kale isn’t sprayed with pesticides or chemicals before feeding it to your kid goats because these substances could harm their delicate systems.
 
 ## Nutritional Value and Preparation of Kale for Goats
 
@@ -173,7 +173,7 @@ Another issue with kale is its goitrogen content. Goitrogens are substances that
 
 In goats, this could cause health problems over time.
 
-Lastly, too much kale might upset a goat’s stomach causing bloating or gas pains. The sudden change in diet may disrupt their [digestive system](/can-goats-digest-anything/) leading to discomfort.
+Finally, too much kale might upset a goat’s stomach causing bloating or gas pains. The sudden change in diet may disrupt their [digestive system](/can-goats-digest-anything/) leading to discomfort.
 
 While it won’t harm them if eaten occasionally and in small amounts, feeding your goats large quantities of kale regularly isn’t recommended due to these potential risks.
 

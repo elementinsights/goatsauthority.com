@@ -36,7 +36,7 @@ We all know that goats are resilient creatures. But even the heartiest of goats 
 
 One common question that goat owners ask is: can goats have a stroke? And if so, what are the things that you need to look out for?
 
-In this article, we will answer all your questions about strokes in goats, including the [symptoms to look out for and the best course of treatment](/can-a-goat-get-rabies/).
+we will answer all your questions about strokes in goats, including the [symptoms to look out for and the best course of treatment](/can-a-goat-get-rabies/).
 
 ## Can goats have a stroke anemia?
 
@@ -98,7 +98,7 @@ For example, if your goat has a disease of the brain or blood vessels, you need 
 
 Head trauma can also be prevented by ensuring that your [goat has a safe environment to live](/can-goats-live-in-an-urban-environment/) in and avoiding situations that could put them at risk for injury.
 
-Lastly, keeping your goat up-to-date on their [vaccinations](/can-goats-recover-from-polio-without-medication/) can help to protect them from certain diseases that could lead to strokes.
+One more thing: keeping your goat up-to-date on their [vaccinations](/can-goats-recover-from-polio-without-medication/) can help to protect them from certain diseases that could lead to strokes.
 
 ### When is it time to see a veterinarian?
 
@@ -118,7 +118,7 @@ Pregnancy toxemia, for example, is a condition that can occur in [pregnant goats
 
 If you have any concerns about your goat's health, it is always best to consult with a goat expert. They will be able to provide you with the most up-to-date information on how to keep your goat healthy and happy.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can have a stroke due to many different factors, including head trauma, diseases of the brain or blood vessels, and toxins. Early recognition and treatment of strokes are essential to preventing serious health problems or even death.
 

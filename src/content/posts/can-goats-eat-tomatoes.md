@@ -180,7 +180,7 @@ A sick goat may seem tired or not as playful as usual. It could refuse to eat it
 
 A more serious sign is diarrhea, a common symptom when goats consume foods outside their normal diet like tomatoes which contain solanine (a toxic substance). However, don’t panic right away because small amounts usually won’t harm them but large quantities certainly will.
 
-In conclusion, keep an eye on your furry friend after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
+All in all, keep an eye on your furry friend after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
 
 ## What to Do if You Suspect That Your Goat Has Ingested a Tomato Plant
 
@@ -248,6 +248,6 @@ Preventing this isn’t too hard though. First off, you need good fencing around
 
 Goats are smart animals that can easily [jump over](/can-goats-jump-high/) low fences so make sure yours is high enough.
 
-Secondly, train your goats not to go near these areas by guiding them away whenever they approach it. It might take some time but with patience and consistency in training, most goats will learn what’s off-limits quickly.
+Then, train your goats not to go near these areas by guiding them away whenever they approach it. It might take some time but with patience and consistency in training, most goats will learn what’s off-limits quickly.
 
-Lastly, provide plenty of other safe foods like [pumpkin](/can-goats-eat-pumpkin/) for your goat so they won’t feel tempted by those tempting red fruits hanging from forbidden branches.
+And finally, provide plenty of other safe foods like [pumpkin](/can-goats-eat-pumpkin/) for your goat so they won’t feel tempted by those tempting red fruits hanging from forbidden branches.

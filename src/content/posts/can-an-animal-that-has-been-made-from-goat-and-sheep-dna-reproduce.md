@@ -40,7 +40,7 @@ faq:
 
 You may be wondering if it's possible for an animal to be made by combining the DNA of a goat and a sheep. And if so, could this new animal then go on to reproduce?
 
-In this article, we will answer these questions and take a closer look at what happens when two different species' DNA are combined.
+we will answer these questions and take a closer look at what happens when two different species' DNA are combined.
 
 ## Can an animal that has been made from goat and sheep DNA reproduce?
 
@@ -112,7 +112,7 @@ Others may be more comfortable with the idea if it's done for a good reason, suc
 
 Careful consideration of all of these factors is essential in order to make the best decision about whether or not to pursue this type of technology.
 
-## Final Thoughts
+## Wrapping Up
 
 An animal can be made from the DNA of a goat and a sheep through a process called genetic engineering. This process involves isolating the desired genes from one animal and inserting them into the embryo of another.
 

@@ -47,7 +47,7 @@ Taking care of sheep can be a lot of fun. If you're thinking about getting sheep
 
 And if so, what are the things you need to consider?
 
-In this article, we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
+Let's break it down.we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
 
 ## Can sheep drink raw goats milk?
 
@@ -75,7 +75,7 @@ Some people argue that goat's milk may contain pathogens that could potentially 
 
 Overall, it seems that the risks associated with [feeding raw goat's milk to sheep may be relatively small](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). While there have been some isolated cases of sheep becoming ill after drinking this milk, these cases appear to be quite rare.
 
-Furthermore, research has shown that supplementing a herd's [diet with raw goat's milk can actually help improve overall health](/can-you-drink-raw-goat-milk-on-gaps-diet/) and reduce parasites and other stress-related problems.
+And, research has shown that supplementing a herd's [diet with raw goat's milk can actually help improve overall health](/can-you-drink-raw-goat-milk-on-gaps-diet/) and reduce parasites and other stress-related problems.
 
 Thus, while more research is needed on this subject, it seems likely that feeding raw goat's milk to sheep is generally safe and may even provide certain health benefits.
 
@@ -137,7 +137,7 @@ There is no set answer for how often raw [goat milk](/can-i-use-germall-plus-in-
 
 However, it is generally recommended that sheep should have access to fresh milk every day. So if you are feeding your sheep raw goat milk, you will likely need to provide them with a fresh supply on a daily basis.
 
-## Final Thoughts
+## The Bottom Line
 
 Raw [goat milk](/can-i-use-goats-milk-soap-on-my-beard/) is a highly nutritious beverage that can offer a range of health benefits for sheep. This milk is rich in easily-digestible fats and proteins, calcium, and other important nutrients, making it an ideal choice for nursing lambs or for animals recovering from illness.
 

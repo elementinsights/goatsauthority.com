@@ -47,7 +47,7 @@ Many people think that goats will only eat grass and hay, but the reality is tha
 
 So, can goats eat applesauce?
 
-In this article, we will answer all of your questions about whether or not goats can eat applesauce, including the nutritional benefits and potential risks. We’ll also provide some helpful tips on how to best feed applesauce to your goat.
+We'll cover everything below.we will answer all of your questions about whether or not goats can eat applesauce, including the nutritional benefits and potential risks. We’ll also provide some helpful tips on how to best feed applesauce to your goat.
 
 ## Can goats eat applesauce?
 
@@ -137,9 +137,9 @@ First, make sure that the applesauce is unsweetened. Too much sugar can cause [d
 
 Second, avoid giving them very spicy applesauce. Goats are sensitive to spices and can get indigestion from them.
 
-Lastly, remember that goats are attractive creatures and will usually prefer hay or other greens over fruits and vegetables. So, don't be surprised if they don't eat all of the applesauce you give them.
+And finally, remember that goats are attractive creatures and will usually prefer hay or other greens over fruits and vegetables. So, don't be surprised if they don't eat all of the applesauce you give them.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can eat applesauce](/can-goats-eat-grapes/), but there are potential risks associated with it. The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-goats-cause-slope/), and the seeds contain cyanide, which can be toxic to goats if consumed in large quantities.
 

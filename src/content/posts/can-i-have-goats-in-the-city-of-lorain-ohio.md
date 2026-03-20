@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether you can have goats in the City of Lorain, Ohio or not. And if so, what are the things you need to consider before getting goats?
 
-In this article, we will go over the things you need to consider before getting goats in the City of Lorain, Ohio as well as some tips and information on goat care.
+Here's the short version.we will go over the things you need to consider before getting goats in the City of Lorain, Ohio as well as some tips and information on goat care.
 
 ## Can I have goats in the city of Lorain Ohio?
 
@@ -88,7 +88,7 @@ When considering goat fencing for the city, there are several factors to keep in
 
 Generally, smaller lots require more compact fencing styles that can be easily integrated into your landscaping or built around existing structures.
 
-Secondly, you will need to consider how much purchasing, installation, and maintenance costs will factor into your overall budget.
+Then, you will need to consider how much purchasing, installation, and maintenance costs will factor into your overall budget.
 
 Finally, there are a variety of materials to choose from when building goat fencing for the city. Some of the most popular options include chain-link fences, wooden board fences, and welded wire mesh fences.
 
@@ -130,7 +130,7 @@ If you live in the city and don't have any other goats for them to interact with
 
 By taking these precautions, you can be sure that your goats will be happy and healthy for years to come.
 
-## Final Thoughts
+## The Bottom Line
 
 You can have a great time keeping goats in the city, but it's important to do your research first. Make sure you understand the challenges associated with this endeavor and take the time to plan and prepare accordingly.
 

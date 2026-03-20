@@ -129,7 +129,7 @@ You can also offer fruits to goats, such as apples and bananas. When feeding fru
 
 Finally, you can also offer grain products to goats, such as oats and barley. Grain products are a good source of energy and nutrients, and they can help to keep goats healthy and active.
 
-## Final Thoughts
+## What to Remember
 
 [Goats can eat edamame shells](/can-goats-eat-tomatoes/), but there are some risks associated with feeding these to these animals. The most significant risk is that the edamame shells can be a choking hazard.
 

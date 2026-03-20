@@ -45,7 +45,7 @@ Taking care of goat's nutrition is vital to their health and well-being. If you'
 
 And if so, what are the nutrition facts and risks associated with it?
 
-In this article, we will answer all of your questions so that you can make an informed decision about what to [feed your goats](/can-a-goat-feed-quads/).
+we will answer all of your questions so that you can make an informed decision about what to [feed your goats](/can-a-goat-feed-quads/).
 
 ## Can goats eat beautyberry?
 
@@ -137,7 +137,7 @@ Finally, you can also make a beautyberry tea and add it to your [goat's water](/
 
 But, you choose to incorporate it, just be sure to do so slowly and carefully so as not to upset your goat's stomach.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can eat beautyberry](/can-goats-eat-bananas/) safely, but it's important to monitor them closely for any adverse effects.
 

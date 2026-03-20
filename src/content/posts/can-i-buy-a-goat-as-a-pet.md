@@ -41,7 +41,7 @@ We all know that dogs are a man’s best friend. But what about goats?
 
 Can you buy a goat as a pet? And if so, how can you take care of it?
 
-In this article, we’ll tell you everything you need to know about buying and taking care of a pet goat. We will provide tips on what to look for when choosing a goat as well as how to care for it properly.
+we’ll tell you everything you need to know about buying and taking care of a pet goat. We will provide tips on what to look for when choosing a goat as well as how to care for it properly.
 
 ## Can I buy a goat as a pet?
 
@@ -113,13 +113,13 @@ So whether you are caring for one small pet goat or an entire herd of larger ani
 
 When caring for a sick or injured pet goat, there are several important aspects to keep in mind. First, you will want to be sure to [provide your goat with plenty of water and nutritious food](/can-goats-recover-from-polio-without-medication/) so that it can recover as quickly as possible.
 
-Secondly, you should monitor your goat's condition closely and seek veterinary attention if necessary. This may include giving your goat any necessary medications or treatments prescribed by a specialist, as well as administering any at-home care that you are able to do yourself.
+Next, you should monitor your goat's condition closely and seek veterinary attention if necessary. This may include giving your goat any necessary medications or treatments prescribed by a specialist, as well as administering any at-home care that you are able to do yourself.
 
 In addition, you should keep your goat in a comfortable and warm environment where it can rest and heal without being disturbed or stressed. A properly sized [goat barn](/can-a-goat-barn-be-12x-2/) can provide the ideal recovery space.
 
 Overall, taking good care of a sick or injured pet goat requires patience, devotion, and attention to detail, but the end result is well worth it when you see your beloved companion back on its feet once again.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goats make wonderful pets for those who are willing to put in the time and effort required to care for them properly. They are social animals that enjoy spending time with their human companions, and they can be trained to perform a variety of tricks or tasks. Some owners even keep [pygmy goats with chickens](/can-pygmy-goats-sleep-with-chickens/) or [ducks and goats together](/can-ducks-and-goats-coexist/).
 

@@ -80,7 +80,7 @@ You might wonder if any part of an eggplant should be avoided for your goat’s 
 
 Both the skin and flesh of an eggplant are safe for goats to consume. However, avoid giving them rotten or spoiled ones as it could make them sick.
 
-In conclusion, feel free to add some variety into their diet by including small amounts of fresh eggplants occasionally.
+All in all, feel free to add some variety into their diet by including small amounts of fresh eggplants occasionally.
 
 ## Can Goats Consume Eggplant Leaves Safely?
 
@@ -92,7 +92,7 @@ The simple answer is yes, they can. Goats are known for their diverse diet and a
 
 So you don’t need to worry about them eating these specific leaves.
 
-In conclusion, while goats can safely munch on eggplant leaves, always ensure variety in what they feed on daily.
+In short, while goats can safely munch on eggplant leaves, always ensure variety in what they feed on daily.
 
 ## Nightshade Plants, Including Eggplant, Are Dangerous for Goats
 

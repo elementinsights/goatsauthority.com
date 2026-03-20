@@ -72,7 +72,7 @@ First, look for goat cheese that is labeled “lactose-free” or “low-lactose
 
 You can also try taking a lactase supplement before [eating goat cheese](/can-i-eat-goat-legs-during-pregnancy/). Lactase supplements contain an enzyme that helps the body break down lactose.
 
-Lastly, be sure to eat goat cheese in moderation. Eating too much at one time can overwhelm the digestive system and lead to bloating.
+Finally, be sure to eat goat cheese in moderation. Eating too much at one time can overwhelm the digestive system and lead to bloating.
 
 By following these tips, you can enjoy goat cheese without having to worry about bloating.
 
@@ -132,7 +132,7 @@ Finally, if the texture of the cheese has changed, it's likely to have gone bad.
 
 But, once it starts to show signs of spoilage, it should be discarded.
 
-## Final Thoughts
+## What to Remember
 
 Goat cheese can make you bloated if you are not used to it. Bloating is a common symptom that can be caused by a variety of different conditions.
 

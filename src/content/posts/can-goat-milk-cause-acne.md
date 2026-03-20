@@ -142,7 +142,7 @@ Like [goat milk](/can-you-drink-goat-milk-while-pregnant/), these products conta
 
 If you are struggling with acne, you may want to avoid these milk products and opt for a dairy-free alternative. There are a number of plant-based milk on the market that can be used in place of cow’s milk, such as almond milk, cashew milk, and hemp milk.
 
-## Final Thoughts
+## The Bottom Line
 
 [Goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/) can cause acne in some people, though the exact mechanism is not fully understood. If you think that goat milk is causing your acne, be sure to speak to a dermatologist about treatment options.
 

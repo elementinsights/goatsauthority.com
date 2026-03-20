@@ -112,7 +112,7 @@ First, goats [reach sexual maturity](/can-a-nigerian-goat-doeling-get-breed-at-4
 
 Second, goats are seasonal breeders, so you'll need to plan your breeding schedule around their natural cycles.
 
-Lastly, you need to remember that goats are herd animals, so you'll need to provide them with companionship during the breeding process.
+Finally, you need to remember that goats are herd animals, so you'll need to provide them with companionship during the breeding process.
 
 ## What are some common issues with breeding goats?
 
@@ -134,7 +134,7 @@ First, it's important to choose healthy and genetically diverse goats to serve a
 
 Second, you should maintain strict hygiene standards during the breeding process. This includes disinfecting all equipment and containers that will come into contact with the goats or their semen.
 
-Lastly, you should carefully monitor the goats during pregnancy and delivery to ensure that there are no complications. By taking these precautions, you can help to prevent common issues with breeding goats.
+Last thing to note: you should carefully monitor the goats during pregnancy and delivery to ensure that there are no complications. By taking these precautions, you can help to prevent common issues with breeding goats.
 
 ## What is the best time to breed goats?
 
@@ -144,7 +144,7 @@ For example, late fall and early winter are generally considered to be the best 
 
 Additionally, the cooler temperatures during this time of year help to reduce the risk of heat stress, which can be detrimental to both the goat and its offspring. As a result, breeding goats during late fall and early winter can help to ensure a successful pregnancy and healthy offspring.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can get pregnant when not in heat, but there are a number of factors that can impact the success of the pregnancy.
 

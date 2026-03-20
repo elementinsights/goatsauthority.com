@@ -46,7 +46,7 @@ faq:
 
 You may be wondering whether you can breed screaming and fainting goats or not. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions and provide you with additional information about breeding screaming and fainting goats.
+we will answer those questions and provide you with additional information about breeding screaming and fainting goats.
 
 ## Can you breed screaming and fainting goats?
 
@@ -58,9 +58,9 @@ Screaming goats are usually larger and more [aggressive](/can-an-aggressive-goat
 
 Therefore, you need to make sure that the [male screaming goat](/can-goats-actually-scream/) goat is not too aggressive for the female fainting goat and vice versa.
 
-Secondly, you will need to make sure that both types of goats are healthy and free from any genetic diseases. This is important because if one of the goats is sick, it can [pass on the disease to the other goat](/can-a-goat-pass-afterbirth-between-kids/) and their offspring.
+Next, you will need to make sure that both types of goats are healthy and free from any genetic diseases. This is important because if one of the goats is sick, it can [pass on the disease to the other goat](/can-a-goat-pass-afterbirth-between-kids/) and their offspring.
 
-Lastly, you need to consider the cost of breeding these two types of goats. It can be quite expensive to [buy a purebred goat](/can-you-buy-goat-meat-at-walmart/), so you need to make sure that you have the financial resources to do so.
+Finally, you need to consider the cost of breeding these two types of goats. It can be quite expensive to [buy a purebred goat](/can-you-buy-goat-meat-at-walmart/), so you need to make sure that you have the financial resources to do so.
 
 ## What are screaming and fainting goats and what do they look like?
 
@@ -86,15 +86,15 @@ Screaming and fainting goats typically have twins or triplets, although single b
 
 ## What are the benefits of breeding these goats?
 
-There are several benefits to breeding screaming and fainting goats. Firstly, they make good dairy goats and their milk is high in nutrients.
+There are several benefits to breeding screaming and fainting goats. To start, they make good dairy goats and their milk is high in nutrients.
 
-Secondly, their offspring are often more resistant to disease. Lastly, they are relatively easy to care for and do not require a lot of space.
+Second, their offspring are often more resistant to disease. To wrap up, they are relatively easy to care for and do not require a lot of space.
 
 ## What are the potential risks associated with breeding them?
 
-There are a few potential risks associated with breeding screaming and fainting goats. Firstly, if one of the goats is sick, it can pass on the disease to the other goat and their offspring.
+There are a few potential risks associated with breeding screaming and fainting goats. First, if one of the goats is sick, it can pass on the disease to the other goat and their offspring.
 
-Secondly, these [goats can be quite expensive to buy](/can-you-buy-goat-milk-at-the-grocery-store/), so you need to make sure that you have the financial resources to do so.
+Second, these [goats can be quite expensive to buy](/can-you-buy-goat-milk-at-the-grocery-store/), so you need to make sure that you have the financial resources to do so.
 
 Finally, you need to be careful when handling these goats as their reactions to fear or surprise can be unpredictable.
 
@@ -132,15 +132,15 @@ It is crucial to monitor the health of the kid during this time and seek veterin
 
 In addition to the care requirements mentioned above, there are a few [things you should keep in mind when breeding screaming and fainting goats](/can-a-dog-get-sick-from-a-goat/).
 
-Firstly, these goats can be quite expensive to buy, so you need to make sure that you have the financial resources to do so.
+Right off the bat, these goats can be quite expensive to buy, so you need to make sure that you have the financial resources to do so.
 
-Secondly, you need to be careful when handling these goats as their reactions to fear or surprise can be unpredictable.
+Next, you need to be careful when handling these goats as their reactions to fear or surprise can be unpredictable.
 
 Finally, you should be aware that these goats may be more prone to disease. Therefore, it is important to take all necessary precautions to avoid any health problems.
 
 When done properly, breeding screaming and fainting goats can be a rewarding experience. These goats can make excellent dairy goats and their milk is high in nutrients.
 
-## Final Thoughts
+## Summary
 
 You can breed screaming and fainting goats successfully by following the proper care and management techniques.
 

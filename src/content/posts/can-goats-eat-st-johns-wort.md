@@ -43,7 +43,7 @@ We all know that goats are browsers and will eat just about anything. So, it's n
 
 And if so, what are the things to consider?
 
-In this article, we will answer all these questions so that you will know everything there is to know about feeding St Johns Wort to goats.
+Here's the short version.we will answer all these questions so that you will know everything there is to know about feeding St Johns Wort to goats.
 
 ## Can goats eat St Johns Wort?
 
@@ -97,7 +97,7 @@ Most goats enjoy eating St. Johns Wort, but there are a few things to consider b
 
 First, St. Johns Wort can [cause photosensitivity in goats](/can-goats-cause-slope/), so they should only be given small amounts of it and should not be allowed to graze in areas where the plant is growing.
 
-Secondly, St. Johns Wort can interfere with the absorption of other nutrients, so it should not be the only thing that [goats are fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/). There are many other plants that goats like to eat, so it is best to provide them with a variety of options.
+After that, St. Johns Wort can interfere with the absorption of other nutrients, so it should not be the only thing that [goats are fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/). There are many other plants that goats like to eat, so it is best to provide them with a variety of options.
 
 If you want to feed your goat St Johns wort make sure they don't graze on it and only give them a little bit.
 
@@ -125,13 +125,13 @@ You should always talk to a healthcare provider before taking St Johns Wort. As 
 
 When taking care of goats, there are a few important things to remember. First, [goats need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and hay at all times.
 
-Secondly, they need a clean and dry environment in which to live. Goats are also very social animals, so they should be kept in pairs or groups.
+After that, they need a clean and dry environment in which to live. Goats are also very social animals, so they should be kept in pairs or groups.
 
 Finally, goats are susceptible to a variety of health problems, so it is crucial to monitor their health closely and consult a goat expert if any problems arise.
 
 By following these simple guidelines, you can ensure that your goats stay healthy and happy.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats cannot eat St Johns Wort because it is poisonous to them. If your goat eats St Johns Wort, the first thing you should do is consult a goat expert.
 

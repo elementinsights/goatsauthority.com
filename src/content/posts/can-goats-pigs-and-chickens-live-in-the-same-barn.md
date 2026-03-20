@@ -42,7 +42,7 @@ faq:
 
 We all know that different animals have different needs when it comes to housing, but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?
 
-In this article, we will answer those questions and give you some tips on how to house your mixed animal herd.
+Read on for the full breakdown.we will answer those questions and give you some tips on how to house your mixed animal herd.
 
 ## Can goats pigs and chickens live in the same barn?
 
@@ -76,7 +76,7 @@ First, it helps to save space on the farm. Second, it can cut down on costs, sin
 
 Third, it can provide companionship for the animals, which can help to reduce stress levels. Fourth, pigs and chickens can provide each other with valuable [manure that can be used to fertilize](/can-goat-poop-be-used-as-fertilizer/) fields or gardens.
 
-Appropriately, there are several good reasons to keep pigs and chickens together in the same barn.
+Not surprisingly, there are several good reasons to keep pigs and chickens together in the same barn.
 
 ## Are there any risks to keeping pigs, and chickens in the same barn?
 
@@ -124,7 +124,7 @@ As a result, you'll need to invest in a more robust ventilation system and a lar
 
 With all of these considerations, it's no wonder that barn costs can quickly add up.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats, pigs, and chickens can all live together in the same barn. There are several benefits to doing so, including saving space and reducing costs.
 

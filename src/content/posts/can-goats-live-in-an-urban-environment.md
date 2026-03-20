@@ -41,7 +41,7 @@ We all know that goats are great for eating grass and other plants on a farm. Bu
 
 And if so, what are the things you need to consider?
 
-In this article, we will answer those questions for you. We will also provide some tips on how to care for goats in an urban environment.
+Here's what you need to know.we will answer those questions for you. We will also provide some tips on how to care for goats in an urban environment.
 
 ## Can goats live in an urban environment?
 
@@ -53,7 +53,7 @@ You also [need to consider what kind of food you will feed your goats](/what-kin
 
 However, you will need to make sure that they have access to fresh, clean water at all times.
 
-Lastly, you need to be aware of the noise that goats can make. Goats are not typically very noisy animals, but they can bleat loudly when they are excited or scared.
+Last but not least, you need to be aware of the noise that goats can make. Goats are not typically very noisy animals, but they can bleat loudly when they are excited or scared.
 
 If you have close neighbors, you may want to consider keeping your [goats in a pen](/can-a-goat-pen-have-pine-trees-in-it/) or other enclosed area to avoid disturbing them.
 
@@ -65,7 +65,7 @@ The benefits of keeping goats in an urban environment are numerous.
 
 Goats are known for their ability to clear land quickly and effectively, and this can be especially helpful in an urban environment where space is limited. In addition, [goats require less water](/can-i-give-a-sick-goat-water-through-a-syringe/) than other livestock, which can be a valuable asset in areas with high water demand.
 
-Furthermore, goats are relatively quiet and low-maintenance animals, making them well-suited for life in close quarters. Lastly, goats can play an important role in the local ecosystem by eating invasive plants and helping to control pests.
+What's more, goats are relatively quiet and low-maintenance animals, making them well-suited for life in close quarters. Last but not least, goats can play an important role in the local ecosystem by eating invasive plants and helping to control pests.
 
 ## What are the risks of keeping goats in an urban environment?
 
@@ -79,7 +79,7 @@ Another risk of keeping goats in an urban environment is the risk of disease. Go
 
 They can also transmit other diseases to other animals, including pets. Therefore, it is important to make sure that any goats kept in an urban environment are healthy and up-to-date on their vaccinations.
 
-Lastly, keeping goats in an urban environment requires a significant amount of time and effort. Goats need to be fed, watered and exercised on a regular basis, and their enclosures must be cleaned out regularly.
+Finally, keeping goats in an urban environment requires a significant amount of time and effort. Goats need to be fed, watered and exercised on a regular basis, and their enclosures must be cleaned out regularly.
 
 If goats are not cared for properly, they can quickly become sick or even die. Therefore, anyone considering keeping goats in an urban environment should be prepared to devote a significant amount of time and effort to their care.
 
@@ -123,7 +123,7 @@ One way to do this is to install a small drinking fountain in your yard. The fou
 
 Another option is to connect a hose to an outdoor faucet and place a sprinkler in your goat’s enclosure. The sprinkler should be turned on for a few minutes each day to give the goats access to fresh, clean water.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, goats can be a great addition to an urban environment. They are small and easy to care for, and their grazing habits can help to keep your yard tidy.
 

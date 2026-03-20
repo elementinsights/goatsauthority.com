@@ -48,7 +48,7 @@ Many people enjoy taking care of goats as they are low-maintenance animals that 
 
 A common question we receive is Can you debloat a goat? And if so, what is the best way to do it?
 
-In this article, we will answer those questions and provide you with some tips on how to debloat your goat should the need arise.
+Here's what you need to know.we will answer those questions and provide you with some tips on how to debloat your goat should the need arise.
 
 ## Can you debloat a goat?
 

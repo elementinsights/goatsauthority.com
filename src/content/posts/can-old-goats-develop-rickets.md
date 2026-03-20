@@ -46,7 +46,7 @@ faq:
 
 You may be wondering whether old goats can develop rickets or not. And if so, what are the things you need to know about this condition?
 
-In this article, we will answer those questions about old goats and rickets. We will also provide some healthcare tips, facts, and frequently asked questions (FAQs) about this topic.
+we will answer those questions about old goats and rickets. We will also provide some healthcare tips, facts, and frequently asked questions (FAQs) about this topic.
 
 ## Can old goats develop rickets?
 
@@ -146,7 +146,7 @@ Additionally, some goat owners have found that supplements like vitamin D3 and p
 
 Ultimately, though, it's important to speak with a veterinarian about what might work best for your goat, as each animal will respond differently to various treatments.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, rickets is a serious condition that can have a profound impact on an old goat's health. However, it is important to remember that there are many different ways to treat and prevent this disease.
 

@@ -40,7 +40,7 @@ faq:
 
 There are many misconceptions about aggression and its causes. People often think that an aggressive goat is a mean goat, when in reality there may be other reasons for its behavior.
 
-In this article, we will discuss what aggression is, what causes it, and how it can be corrected.
+we will discuss what aggression is, what causes it, and how it can be corrected.
 
 ## Can an aggressive goat be fixed?
 
@@ -120,13 +120,13 @@ Another important [tip is to avoid feeding goats](/can-a-goat-feed-quads/) by ha
 
 If they start begging for food, it may lead to aggression if they don't get what they want.
 
-Lastly, you need to be consistent with your goats. If you allow them to be aggressive sometimes, they may start thinking that it's okay to be aggressive all the time.
+One more thing: you need to be consistent with your goats. If you allow them to be aggressive sometimes, they may start thinking that it's okay to be aggressive all the time.
 
 So be sure to correct any aggressive behavior immediately, and be consistent in your expectations for their behavior.
 
 By following these tips, you can help prevent aggression in goats and create a more peaceful environment for everyone involved.
 
-## Final Thoughts
+## The Bottom Line
 
 Goats are intelligent, social creatures that can make [great pets](/can-goats-be-tamed/). However, like all animals, they can sometimes exhibit aggressive behavior.
 

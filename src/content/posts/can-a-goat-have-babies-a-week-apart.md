@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if goats can have babies a week apart or not. And if so, how often does this happen?
 
-In this article, we will address all of your questions about goats giving birth and how often they breed.
+we will address all of your questions about goats giving birth and how often they breed.
 
 ## Can a goat have babies a week apart?
 
@@ -136,8 +136,8 @@ Dairy goats are used for milk production, meat goats are used for meat productio
 
 For example, dairy [goats are bred for their high milk production](/can-a-cat-drink-goats-milk/), while meat goats are bred for their large body size. When choosing a goat breed, it's important to consider your specific needs and goals.
 
-Lastly, it's important to understand the basics of goat reproductive anatomy. The female reproductive tract includes the ovaries, Fallopian tubes, uterus, cervix, and vulva.
+And finally, it's important to understand the basics of goat reproductive anatomy. The female reproductive tract includes the ovaries, Fallopian tubes, uterus, cervix, and vulva.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can have babies a week apart and they can have babies more than once a year. However, there are a few things that you [need to know about breeding goats](/can-you-breed-a-6-yr-old-goat-for-first-time/), such as the difference between bucks and does, the different types of goat breeds, and the basics of goat reproductive anatomy.

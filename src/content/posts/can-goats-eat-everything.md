@@ -116,7 +116,7 @@ Bloat occurs when goats eat too much vegetation at once, causing their stomachs
 
 Diarrhea is another common problem, and it can be caused by several different factors, including poor-quality feed or an imbalance of nutrients. Left untreated, diarrhea can lead to dehydration and even death.
 
-Lastly, malnutrition is a general term used to describe any condition resulting from an insufficient or unbalanced diet. Malnutrition can cause a host of problems, including weakness, poor growth, and even birth defects.
+One more thing: malnutrition is a general term used to describe any condition resulting from an insufficient or unbalanced diet. Malnutrition can cause a host of problems, including weakness, poor growth, and even birth defects.
 
 By understanding the importance of a healthy diet, goat owners can help to prevent these common health problems.
 
@@ -130,7 +130,7 @@ Other breeds of goat with a similar reputation include the [Nigerian Dwarf Goat 
 
 Whether you're looking for a pet or a livestock animal, a goat from one of these breeds is sure to be a good choice.
 
-## Final Thoughts
+## What to Remember
 
 [Goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/), including leaves, twigs, and bark. However, they still require a diet that includes a variety of nutrients in order to stay healthy.
 

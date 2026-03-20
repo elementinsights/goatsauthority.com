@@ -46,7 +46,7 @@ faq:
 
 You may be wondering if your goats can enjoy the same mineral salt lick that you give to your cattle or note. And if so, what are the health benefits and risks associated with doing so?
 
-In this article, we will answer all of your questions related to feeding mineral salt to goats. We will also provide some valuable tips on how to properly introduce this supplement into their diet.
+we will answer all of your questions related to feeding mineral salt to goats. We will also provide some valuable tips on how to properly introduce this supplement into their diet.
 
 ## Can goats eat mineral salt made for cattle?
 
@@ -142,7 +142,7 @@ During the winter, however, [goats may not get enough salt from their food and m
 
 If you live in an area where snow and ice are not available, it is even more important to provide your goats with a salt lick or mineral block during the winter months.
 
-## Final Thoughts
+## Key Takeaways
 
 Goats can eat mineral salt made for cattle. However, it is important to introduce it slowly into their diet and make sure that they have access to fresh, clean water at all times.
 

@@ -43,7 +43,7 @@ We all know that during pregnancy, a woman’s diet is very important. So, what 
 
 Can you eat them while you’re pregnant?
 
-In this article, we will answer those questions and provide you with additional healthcare tips, facts, and FAQs about eating goat legs during pregnancy.
+we will answer those questions and provide you with additional healthcare tips, facts, and FAQs about eating goat legs during pregnancy.
 
 ## Can I eat goat legs during pregnancy?
 
@@ -67,7 +67,7 @@ There are several risks associated with not eating goat legs during pregnancy. F
 
 Additionally, missing out on key nutrients like zinc, iron, and B vitamins can put a pregnant woman at risk for anemia and other nutrient deficiencies.
 
-Furthermore, not eating goat legs during pregnancy can increase a woman's risk of gestational diabetes, which can be extremely detrimental for both mother and baby.
+Beyond that, not eating goat legs during pregnancy can increase a woman's risk of gestational diabetes, which can be extremely detrimental for both mother and baby.
 
 In short, if you are pregnant or planning to become pregnant, it is absolutely essential that you include [goat legs in your diet in order to protect yourself and your growing baby](/can-a-toddler-catch-a-disease-from-a-baby-goat/) from the many dangers associated with malnutrition.
 
@@ -113,7 +113,7 @@ They will be able to provide guidance and support to help ensure that you are ge
 
 ## What should I do if I have questions about eating goat legs during pregnancy?
 
-Firstly, it is essential to understand that there is some uncertainty when it comes to eating goat legs during pregnancy.
+Right off the bat, it is essential to understand that there is some uncertainty when it comes to eating goat legs during pregnancy.
 
 While some sources claim that goat meat is safe for consumption during pregnancy due to its high protein and low-fat content, others caution against consuming this type of meat altogether.
 
@@ -123,7 +123,7 @@ They can help you navigate the available research and advise you based on your s
 
 Getting personal recommendations from those who have gone before you can be a great way to gain insight into this topic and better inform your decision-making process.
 
-## Final Thoughts
+## Summary
 
 In the end, whether or not you choose to eat goat legs during pregnancy will depend on a number of individual factors.
 

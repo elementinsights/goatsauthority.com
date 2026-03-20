@@ -37,9 +37,9 @@ faq:
 ---
 Can a goat sustain a concussion? Many individuals have been perplexed by this question for a very long time.
 
-In this article, we go over everything you need to know regarding its causes, symptoms, treatments, and prevention measures.
+Let's break it down.we go over everything you need to know regarding its causes, symptoms, treatments, and prevention measures.
 
-Lastly, we will provide you with some interesting facts about this animal that you probably never knew before.
+Finally, we will provide you with some interesting facts about this animal that you probably never knew before.
 
 ## Can a goat get a concussion?
 
@@ -102,7 +102,7 @@ Second, provide plenty of space for your goats to run and play. This will help t
 
 Third, make sure your goats are up to date on their [vaccinations](/can-a-cdt-shot-kill-a-goat/). This will help reduce the risk of diseases that can weaken the skull and lead to concussions.
 
-Lastly, provide your goats with plenty of clean, fresh water to drink. [Dehydration](/can-goats-have-horse-electrolytes/) can lead to weakness, which increases the risk of falls and head injuries.
+One more thing: provide your goats with plenty of clean, fresh water to drink. [Dehydration](/can-goats-have-horse-electrolytes/) can lead to weakness, which increases the risk of falls and head injuries.
 
 By taking these precautions, you can help keep your goat safe from concussions and other head injuries.
 

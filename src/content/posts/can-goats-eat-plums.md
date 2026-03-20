@@ -67,7 +67,7 @@ Goats also enjoy the taste of plum leaves. That said, there are a few things to 
 
 First, make sure that the leaves are fresh and free from pesticides. Second, only give a small number of leaves to goats at first, since they may not be used to eating them.
 
-Lastly, monitor goats closely when they are eating plum leaves, to make sure they don't start choking on them.
+Finally, monitor goats closely when they are eating plum leaves, to make sure they don't start choking on them.
 
 ## Can goats eat plum seeds?
 
@@ -121,7 +121,7 @@ While goats will eat just about anything, plum trees can provide them with a sur
 
 And also, plums are a good source of vitamins and minerals, including vitamin C, potassium, and magnesium. Goats that have access to plum trees will also tend to eat fewer grains and concentrates, which can save you money on feed costs.
 
-Furthermore, plum trees can provide goats with essential shade and shelter from the sun and wind.
+And, plum trees can provide goats with essential shade and shelter from the sun and wind.
 
 Finally, the prunings from plum trees can be used as fuel for biomass power plants, making them a valuable renewable resource.
 
@@ -147,7 +147,7 @@ Goats can eat up to four plums per day without any problems. Despite this, if th
 
 Besides, it's also important to make sure that the plums are cut into small pieces before giving them to the goats. This will help to avoid choking and ensure that the goat gets the full nutritional benefits of the plum.
 
-## Final Thoughts
+## What to Remember
 
 Goats can eat plums without any problems, and they can even benefit from the nutritional content of the fruit. However, it's important to limit the number of plums that goats eat per day and to make sure that the plums are cut into small pieces before giving them to goats.
 

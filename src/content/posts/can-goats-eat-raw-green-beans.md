@@ -37,13 +37,13 @@ faq:
   - question: "How to prevent risks when feeding goats raw green beans?"
     answer: "As with any food, there are some risks associated with feeding raw green beans to goats. But, these risks can be easily avoided by taking a few simple precautions."
 ---
-Taking care of a goat can be a fun and rewarding experience. As you probably know, goats are interesting creatures with [unique dietary needs](/can-goats-eat-any-plant/).
+If you keep goats, you already know they need consistent care. As you probably know, goats are interesting creatures with [unique dietary needs](/can-goats-eat-any-plant/).
 
 So, what exactly can goats eat?
 
 One common question we get is: can goats eat raw green beans? If so, what are the benefits?
 
-In this article, we will answer all of your questions about goats and raw green beans and provide you with some helpful tips on how to incorporate this food into your goat's diet.
+Here's what you need to know.we will answer all of your questions about goats and raw green beans and provide you with some helpful tips on how to incorporate this food into your goat's diet.
 
 ## Can goats eat raw green beans?
 

@@ -49,7 +49,7 @@ Pine trees are a popular source of food for most animals since they are full of 
 
 Can they eat pine trees too? And if so, what are the benefits and risks?
 
-In this article, we will address all of these questions so that you can make an informed decision about whether or not to feed your goat's pine trees.
+we will address all of these questions so that you can make an informed decision about whether or not to feed your goat's pine trees.
 
 **Trending Products For Goats**
 
@@ -141,7 +141,7 @@ For example, a young kid or a pregnant doe will require more food than an adult 
 
 For pasture-based goats, this can be supplemented with a small amount of grain, as well as fresh vegetables and fruits like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/). If you are unsure about how much to feed your goat, it's always best to consult with a vet or other animal expert.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goats can benefit from eating pine trees. Pine trees provide goats with a source of food and shelter, and they can also help to improve the health of the soil.
 

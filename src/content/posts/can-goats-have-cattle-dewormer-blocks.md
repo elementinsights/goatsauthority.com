@@ -42,7 +42,7 @@ faq:
 
 You may be wondering if you can use cattle dewormer blocks on your goats or not. And if so, what are the things you need to consider before using them?
 
-In this article, we will answer all of your questions so that you can make an informed decision on whether to use cattle dewormer blocks on your goats or not.
+We'll cover everything below.we will answer all of your questions so that you can make an informed decision on whether to use cattle dewormer blocks on your goats or not.
 
 ## Can goats have cattle dewormer blocks?
 
@@ -56,7 +56,7 @@ If you need to give your goat a medication called Bute, also known as phenylbut
 
 First, always follow the dosage instructions provided by a goat expert. Second, since Bute can be hard on the stomach, it's best to give it with food or milk.
 
-Lastly, be sure to have the proper supplies on hand, including a syringe and gloves.
+To wrap up, be sure to have the proper supplies on hand, including a syringe and gloves.
 
 Here's a step-by-step guide to giving your goat Bute:
 
@@ -79,7 +79,7 @@ In addition, using cattle dewormer blocks on goats can also help to improve thei
 
 This can lead to healthier [goats that are less likely to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
-Lastly, using cattle dewormer blocks on goats can also save you money in the long run. By preventing parasites from infecting your goats, you will not have to spend money on treating them for parasitic infections.
+Last but not least, using cattle dewormer blocks on goats can also save you money in the long run. By preventing parasites from infecting your goats, you will not have to spend money on treating them for parasitic infections.
 
 This can save you a significant amount of money over time.
 

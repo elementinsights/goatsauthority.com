@@ -43,7 +43,7 @@ It's common knowledge that baby goats are the cutest, but what you may not know 
 
 And if so, what are the benefits?
 
-In this article, we will answer the question, can you change a bottle-fed goat back to nursing off another goat? We'll also touch on the benefits of doing so.
+we will answer the question, can you change a bottle-fed goat back to nursing off another goat? We'll also touch on the benefits of doing so.
 
 ## Can you change a bottle fed goat back to nursing off another goat?
 
@@ -123,9 +123,9 @@ One is to feed the [goat milk replacer](/can-i-mix-goat-milk-replacer-with-cow-m
 
 Another option is to feed the goat [raw milk from a cow](/can-i-raise-goats-for-milk-protein/) or another animal. This is a more natural way of feeding and may be more appealing to the goat.
 
-Lastly, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
+Finally, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
 
-## Final Thoughts
+## Wrapping Up
 
 You can change a bottle fed goat back to nursing by slowly transitioning them off of the bottle and onto solid food.
 

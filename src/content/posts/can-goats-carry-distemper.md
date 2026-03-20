@@ -48,7 +48,7 @@ faq:
 
 You may be wondering if goats can carry distemper since it's such a contagious disease. And if so, what are the symptoms and treatment options?
 
-In this article, we will answer all of your questions so that you can be informed and prepared in the event that your goat does come down with distemper.
+we will answer all of your questions so that you can be informed and prepared in the event that your goat does come down with distemper.
 
 ## Can goats carry distemper?
 
@@ -154,7 +154,7 @@ Parasites, on the other hand, are often asymptomatic but can still cause serious
 
 By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, goats are relatively resilient creatures that can withstand a lot of abuse and still remain healthy. But, they are susceptible to a number of diseases, some of which can be fatal.
 

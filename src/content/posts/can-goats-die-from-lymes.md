@@ -46,7 +46,7 @@ faq:
 
 You may be wondering if your goats are susceptible to the same tick-borne diseases as your dogs and cats. And if so, what are the chances of them dying from it?
 
-In this article, we will answer all of your questions regarding goats and Lyme disease. We will also provide some tips on how to prevent your goats from getting Lyme disease in the first place.
+Read on for the full breakdown.we will answer all of your questions regarding goats and Lyme disease. We will also provide some tips on how to prevent your goats from getting Lyme disease in the first place.
 
 ## Can goats die from Lymes?
 
@@ -110,7 +110,7 @@ With that in mind, with prompt and proper treatment, most goats make a full reco
 
 In some cases, there may be long-term effects such as joint pain or stiffness, but these are typically mild and resolve with time.
 
- 
+
 
 Lyme disease is a serious health concern for both humans and animals, and goats are especially susceptible to infection. But, there are steps you can take to protect your herd from this potentially debilitating disease.
 
@@ -138,7 +138,7 @@ Ticks can also transmit other parasites, such as [worms](/can-goats-get-worms-fr
 
 Some steps you can take include maintaining a clean and well-ventilated barn, treating your goats with [tick prevention products](/can-goat-lice-go-into-a-dormant-stage/), and regularly inspecting your goats for ticks.
 
-## Final Thoughts
+## What to Remember
 
 Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.
 

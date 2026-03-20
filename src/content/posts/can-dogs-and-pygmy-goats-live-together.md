@@ -58,7 +58,7 @@ Dogs and pygmy goats can live together peacefully, but you need to take some pre
 
 [Pygmy goats are very curious and will want to explore everything](/can-i-wash-and-groom-a-pygmy-goat/), so you need to give them an area that is fenced off from the dog's territory. It's also important to supervise interactions between the two animals, as dogs can be too rough when playing and may accidentally injure a goat.
 
-Lastly, you need to make sure that the [dog's food and water are not accessible to the goats](/can-goats-eat-dog-food/), as goats are known for being destructive and will likely knock over bowls or tip over trash cans in their quest for food. By taking these precautions, dogs and [pygmy goats](/can-a-pygmy-goat-live-with-a-mini-pig/) can coexist peacefully.
+And finally, you need to make sure that the [dog's food and water are not accessible to the goats](/can-goats-eat-dog-food/), as goats are known for being destructive and will likely knock over bowls or tip over trash cans in their quest for food. By taking these precautions, dogs and [pygmy goats](/can-a-pygmy-goat-live-with-a-mini-pig/) can coexist peacefully.
 
 ## What are the benefits of having a dog and a pygmy goat?
 
@@ -112,7 +112,7 @@ Additionally, they are large enough to deter predators, but not so large that th
 
 Ultimately, the best [breed of dog for getting along with pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) will vary depending on the individual dog and the individual goat, but some breeds are more likely to be compatible than others.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, there are both advantages and disadvantages to having a dog and a pygmy goat as pets. It's important to carefully consider all of the potential pitfalls before making a decision, as some of these drawbacks can be significant.
 

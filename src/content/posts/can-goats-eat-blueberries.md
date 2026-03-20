@@ -79,7 +79,7 @@ Antioxidants fight harmful substances in the body called free radicals. When the
 
 Feeding your goat blueberries is also safe as long as you do so moderately. Too much fruit might upset their stomach due to high sugar content.
 
-In conclusion, feeding your goat a few blueberries from time-to-time can boost its immunity while providing a delicious snack.
+So, feeding your goat a few blueberries from time-to-time can boost its immunity while providing a delicious snack.
 
 ## Benefits of Blueberries for Goat Health
 
@@ -111,7 +111,7 @@ One interesting fact about feeding goats with blueberries is that these berries 
 
 Also remember this, always wash the berries before giving them to your pet goat. This removes pesticides or other harmful substances from the fruit surface ensuring safety while eating.
 
-In conclusion, adding some fresh ripe juicy blues into a regular feed schedule would certainly make our furry friends happy besides being beneficial for their health.
+To sum up, adding some fresh ripe juicy blues into a regular feed schedule would certainly make our furry friends happy besides being beneficial for their health.
 
 ## Are Blueberries Safe for All Breeds of Goats?
 
@@ -155,7 +155,7 @@ Too much fruit can cause upset stomachs due to high sugar content.
 
 Also note that while helpful, feeding your goats only blueberries won’t completely rid them of worms by itself. It’s best used alongside regular veterinary care.
 
-In conclusion, adding some delicious blueberry treats into your goat’s diet could help keep those pesky internal parasites at bay.
+So, adding some delicious blueberry treats into your goat’s diet could help keep those pesky internal parasites at bay.
 
 ## Risks and Precautions When Feeding Blueberries to Goats
 

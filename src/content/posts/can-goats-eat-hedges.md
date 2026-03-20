@@ -44,13 +44,13 @@ faq:
     answer: "While goats are known for their ability to eat just about anything, there are some risks associated with allowing them to graze on hedges."
 ---
 
-Taking care of a goat can be a fun and rewarding experience. Goats are curious, intelligent animals that are known for their friendly dispositions.
+Whether you have two goats or twenty, proper care matters. Goats are curious, intelligent animals that are known for their friendly dispositions.
 
 One of the most important things to consider when caring for a goat is their diet. What can goats eat?
 
 Can goats eat hedge? And if so, what are the benefits?
 
-In this article, we will answer these questions and more so you can be sure your [goat is getting the nutrition they need](/can-i-give-a-moldy-pumpkin-to-goats/).
+we will answer these questions and more so you can be sure your [goat is getting the nutrition they need](/can-i-give-a-moldy-pumpkin-to-goats/).
 
 ## Can goats eat hedges?
 
@@ -139,7 +139,7 @@ Goats need to consume a variety of different plant materials to get all the nutr
 
 If you're not sure what kinds of plants are [safe for goats to eat](/can-goats-eat-strawberries/), talk to a veterinarian or a qualified animal nutritionist for more information.
 
-## Final Thoughts
+## The Bottom Line
 
 [Goats can eat hedges](/can-goats-eat-cucumbers/), but it's not recommended. Hedges can be a source of [nutrition for goats](/can-i-use-regular-milk-to-feed-a-baby-goat/), but they are also a potential source of injury.
 

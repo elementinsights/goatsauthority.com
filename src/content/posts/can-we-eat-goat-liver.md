@@ -54,7 +54,7 @@ However, there are some things you need to consider before eating goat liver. Fo
 
 So, if the goat has been exposed to toxic substances, those toxins will be concentrated in its liver.
 
-Furthermore, goat liver is high in cholesterol. While cholesterol is not necessarily bad for you, too much can lead to health problems.
+Plus, goat liver is high in cholesterol. While cholesterol is not necessarily bad for you, too much can lead to health problems.
 
 Therefore, it is crucial to talk to your doctor before eating goat liver if you have any concerns.
 
@@ -120,7 +120,7 @@ Once the liver is trimmed, you can choose to slice it into thin strips or cut it
 
 This will help to create a crispy exterior. When pan-frying, always use a very hot skillet and cook the liver for no more than a few minutes per side.
 
-The overcooked liver will be tough and dry. Lastly, be sure to [season the liver with salt and pepper before serving](/can-goats-eat-bell-peppers/).
+The overcooked liver will be tough and dry. Finally, be sure to [season the liver with salt and pepper before serving](/can-goats-eat-bell-peppers/).
 
 ## Goat Liver Recipes
 
@@ -130,7 +130,7 @@ If you are feeling adventurous, why not try your hand at making a traditional It
 
 Next, add the goat liver and cook until it is browned on the outside but still pink in the center.
 
-Lastly, season with salt and pepper to taste, and serve over a bed of [cooked pasta](/can-goats-eat-cooked-pasta/). No matter how you choose to prepare it, goat liver is sure to add a touch of sophistication to your next meal.
+To wrap up, season with salt and pepper to taste, and serve over a bed of [cooked pasta](/can-goats-eat-cooked-pasta/). No matter how you choose to prepare it, goat liver is sure to add a touch of sophistication to your next meal.
 
 ## Is it safe to eat goat liver?
 
@@ -140,7 +140,7 @@ However, there is some concern about the safety of goat liver due to the fact th
 
 For this reason, it is important to eat goat liver in moderation. When consumed in moderation, goat liver can be a healthy and delicious part of your diet.
 
-## Final Thoughts
+## The Bottom Line
 
 We can eat goat liver in moderation and it can be a healthy and delicious part of our diet. We should make sure to cook it properly and choose a healthy, reputable source.
 

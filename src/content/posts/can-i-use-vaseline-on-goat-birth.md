@@ -42,7 +42,7 @@ faq:
 
 If you're interested in owning goats, one of the first questions that might come to mind is if you can use Vaseline during goat births. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions for you and provide you with additional information on goat births.
+we will answer those questions for you and provide you with additional information on goat births.
 
 ## Can I use vaseline on goat birth?
 
@@ -102,7 +102,7 @@ Overall, using vaseline during goat births is a smart choice for anyone looking 
 
 There are a number of risks associated with using vaseline when delivering baby goats. For one thing, vaseline is not designed specifically for use on animals, so there is no guarantee that it will be safe or effective when applied to the delicate skin of a [newborn goat](/can-i-mix-newborn-goats-and-older-goats/).
 
-Additionally, vaseline can cause skin irritation and reduces the goat's ability to regulate its body temperature. Furthermore, the presence of vaseline may lead to complications during delivery, potentially endangering both the mother and her offspring.
+Additionally, vaseline can cause skin irritation and reduces the goat's ability to regulate its body temperature. Beyond that, the presence of vaseline may lead to complications during delivery, potentially endangering both the mother and her offspring.
 
 Given these [potential risks](/can-a-plastic-bag-hurt-a-goat/), it is generally recommended that farmers avoid using vaseline during goat births whenever possible.
 

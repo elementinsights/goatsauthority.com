@@ -44,7 +44,7 @@ faq:
 
 If you live in an area with centipede grass, you may be wondering if it's safe for your goat to eat. And so, what are the things you need to know about feeding your goat centipede grass?
 
-In this article, we will answer the question, can goats eat centipede grass? We will also provide you with everything else you need to know about feeding your goat this type of grass.
+we will answer the question, can goats eat centipede grass? We will also provide you with everything else you need to know about feeding your goat this type of grass.
 
 ## Can goats eat centipede grass?
 
@@ -132,7 +132,7 @@ This means that a 50 lb Goat will need between 0.5 and 1 lb of dry grass per day
 
 it's always best to consult with a veterinarian or experienced goat keeper to determine the [best diet](/why-do-goats-eat-everything/) for your goats.
 
-## Final Thoughts
+## Summary
 
 Goats can eat centipede grass with no problems. In fact, centipede grass is a great source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/).
 

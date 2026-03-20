@@ -45,7 +45,7 @@ We all know that goats are curious creatures. They will pretty much put anything
 
 So, can goats get listeriosis from chicken feces? And if so, what are the symptoms?
 
-In this article, we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
+Let's break it down.we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
 
 ## Can goats get listeriosis from chicken feces?
 
@@ -151,7 +151,7 @@ For example, pneumonia is typically treated with antibiotics. Enterotoxemia is u
 
 If a goat is suffering from any other type of disease, the best course of treatment will be determined by a goat expert.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats can get listeriosis from chicken feces. This is a serious bacterial infection that can be deadly in goats.
 

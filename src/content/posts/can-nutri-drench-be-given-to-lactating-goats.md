@@ -44,7 +44,7 @@ faq:
 
 Many people are curious if Nutri Drench can be given to lactating goats or not. And if so, what are the things you need to consider?
 
-In this article, we will answer those questions regarding giving Nutri Drench to lactating goats. We will also provide some insights about it.
+we will answer those questions regarding giving Nutri Drench to lactating goats. We will also provide some insights about it.
 
 ## Can Nutri drench be given to lactating goats?
 
@@ -100,7 +100,7 @@ You should then administer the supplement directly into the goat's mouth using e
 
 To ensure maximum absorption and avoid wasting any of the supplements, you should hold the goat's head in an upright position while giving them the dose.
 
-Lastly, be sure to follow up with any additional care that may be necessary, such as flushing out wounds or administering medication as needed.
+Last but not least, be sure to follow up with any additional care that may be necessary, such as flushing out wounds or administering medication as needed.
 
 With these tips in mind, you can effectively administer Nutri Drench to your lactating goats and help them maintain optimal health during this critical period.
 
@@ -132,7 +132,7 @@ First, be sure to properly [hydrate](/can-i-put-safeguard-in-my-goats-milk/) the
 
 Finally, be sure to follow the recommended dosage for your particular herd. By taking these simple precautions, you can minimize the risk of developing any problems while giving Nutri Drench to your lactating goats.
 
-## Final Thoughts
+## Key Takeaways
 
 In general, Nutri Drench is a safe and effective way to provide additional nutrients to lactating goats. However, it is important to keep in mind that there are a few [risks associated with giving the supplement to goats](/can-a-cdt-shot-kill-a-goat/).
 

@@ -40,11 +40,11 @@ faq:
     answer: "If you're thinking about breeding your goats, there are a few things you'll need to do first. First, you'll need to make sure that your does are in good health and that they're of breeding age (usually one to three years old)."
 ---
 
-Taking care of goats can be a very rewarding experience. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and other dairy products.
+Owning goats comes with plenty of rewards and responsibilities. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and other dairy products.
 
 If you're thinking about breeding your goats, you may be wondering if it's possible to breed a 4-year-old goat or not. And if so, what are the [things you need to consider before breeding your goats](/can-a-dog-get-sick-from-a-goat/)?
 
-In this article, we will answer those questions for you and [provide everything you need to know about breeding 4-year-old goats](/can-a-horse-get-attached-to-a-goat/).
+Read on for the full breakdown.we will answer those questions for you and [provide everything you need to know about breeding 4-year-old goats](/can-a-horse-get-attached-to-a-goat/).
 
 ## Can you breed a 4yr old goat?
 
@@ -64,7 +64,7 @@ You will want to find a goat that is of similar size and temperament.
 
 Once you have found the right mate, the next step is to prepare for the birth. This includes making sure you have plenty of food and water on hand, as well as clean bedding material.
 
-Lastly, it is important to be prepared for the afterbirth. This includes having a place to dispose of the placenta and umbilical cord, as well as any other waste material.
+One more thing: it is important to be prepared for the afterbirth. This includes having a place to dispose of the placenta and umbilical cord, as well as any other waste material.
 
 Breeding goats can be a rewarding experience, but it is important to be prepared before taking on this responsibility.
 
@@ -88,7 +88,7 @@ During this time, you should also closely observe the does to see if they're sho
 
 After mating, the does will need to be artificially inseminated eight weeks later.
 
-Lastly, once the kidding season is over, the bucks should be removed from the farm so that they don't become aggressive toward the kids. By following these steps, you can successfully breed your goats and produce healthy offspring.
+One more thing: once the kidding season is over, the bucks should be removed from the farm so that they don't become aggressive toward the kids. By following these steps, you can successfully breed your goats and produce healthy offspring.
 
 ## The process of breeding a 4-year-old goat
 
@@ -120,7 +120,7 @@ After mating, the does will need to be artificially inseminated eight weeks late
 
 Finally, once the kidding season is over, the bucks should be removed from the farm so that they don't become aggressive toward the kids. By following these steps, you can help prevent the risks associated with breeding goats.
 
-## Final Thoughts
+## Key Takeaways
 
 Breeding goats can be a fun and rewarding experience, but it's important to be aware of the risks. Make sure that your does are healthy and of breeding age, choose a compatible buck, and closely observe the does during the mating process.
 

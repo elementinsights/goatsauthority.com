@@ -42,7 +42,7 @@ faq:
 
 Are you a farmer with a few goats, or are you just curious if it's okay to give your horse treats to your pet goat? If so, then you're probably wondering: "Can my goats eat horse treats?" And if so, what are the things you need to consider?
 
-In this article, we'll cover the nutritional value and benefits of giving goats horse treats, as well as common questions people have about the subject.
+we'll cover the nutritional value and benefits of giving goats horse treats, as well as common questions people have about the subject.
 
 ## Can my goats eat horse treats?
 
@@ -70,7 +70,7 @@ There are several different benefits to giving goats horse treats. Perhaps most 
 
 It's also worth noting that horse treats can help keep parasites under control by reducing the instances of internal and external parasites.
 
-Lastly, giving goats horse treats can serve as an opportunity for bonding between humans and goats.
+Last thing to note: giving goats horse treats can serve as an opportunity for bonding between humans and goats.
 
 By spending time with your goats on a regular basis and rewarding them with delicious treats, you give them more positive associations with humans, fostering trust and cooperation between them.
 
@@ -130,7 +130,7 @@ Finally, it is important to avoid overfeeding your goats and monitor their eatin
 
 By taking these essential precautions, you can ensure the safety and well-being of your beloved goats when feeding them horse treats.
 
-## Final Thoughts
+## Key Takeaways
 
 Overall, when feeding horse treats to goats, it is important to balance the potential benefits against any risks in order to make an informed decision about what is best for your animals.
 

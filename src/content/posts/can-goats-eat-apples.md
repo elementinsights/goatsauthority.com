@@ -177,7 +177,7 @@ Apples may seem harmless but they aren’t the best choice for goats. They conta
 
 Other risky items include [avocados](/can-goats-eat-avocado/) and [chocolate](/can-goats-eat-chocolate/) as they contain substances toxic to goats. Avoid feeding [onions](/can-goats-eat-onions/) too since it causes anemia in them.
 
-Lastly, never give your goat processed food or [scraps from your kitchen table](/can-i-feed-my-goat-leftovers/) as their digestive system isn’t built like ours.
+Finally, never give your goat processed food or [scraps from your kitchen table](/can-i-feed-my-goat-leftovers/) as their digestive system isn’t built like ours.
 
 ## Frequently Asked Questions (FAQs)
 

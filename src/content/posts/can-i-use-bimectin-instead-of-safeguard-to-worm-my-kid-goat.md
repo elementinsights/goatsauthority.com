@@ -41,7 +41,7 @@ We all know that goats need to be wormed, but what's the best way to do it? Can 
 
 And if so, what are the things you need to keep in mind?
 
-In this article, we will answer those questions and provide you with addition information on worming your kid goats.
+we will answer those questions and provide you with addition information on worming your kid goats.
 
 ## Can I use bimectin instead of safeguard to worm my kid goat?
 
@@ -123,7 +123,7 @@ Just like with any other type of medication though, antibiotics should only be p
 
 Overall, there are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
 
-## Final Thoughts
+## What to Remember
 
 You can use Bimectin to worm your kid goats effectively and with few side effects.
 

@@ -44,7 +44,7 @@ faq:
 
 It is difficult to determine whether or not hoof rot can kill a goat. And if so, how long would it take?
 
-In this article, we will answer those questions and provide you with everything you need to know about hoof rot.
+Here's the short version.we will answer those questions and provide you with everything you need to know about hoof rot.
 
 ## Can hoof rot kill a goat?
 
@@ -129,7 +129,7 @@ If you think your goat may have hoof rot, it is important to seek professional m
 
 Additionally, they can provide you with information on how to prevent hoof rot from occurring in the future.
 
-## Final Thoughts
+## The Bottom Line
 
 Hoof rot can kill a goat if it is left untreated. However, with proper care and treatment, it is possible to effectively manage the condition and ensure a full recovery for your animal.
 

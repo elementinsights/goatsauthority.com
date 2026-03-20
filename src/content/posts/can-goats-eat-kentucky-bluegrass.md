@@ -126,7 +126,7 @@ Some of these recipes include Kentucky bluegrass [hay cubes](/can-goats-eat-hay-
 
 All of these recipes are designed to provide goats with the nutrients they need to stay healthy and thrive.
 
-## Final Thoughts
+## Wrapping Up
 
 [Goats can eat Kentucky bluegrass](/can-goats-eat-watermelon/), but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.
 

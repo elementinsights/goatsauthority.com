@@ -41,7 +41,7 @@ Goats are amazing animals, as we all know. They make excellent friends because t
 
 But is it possible to tie goats up for restricted area grazing? If so, what are the best ways to go about doing it?
 
-In this article, we'll examine the solutions to these and other concerns while also offering you some useful advice on how to tie up your goats.
+we'll examine the solutions to these and other concerns while also offering you some useful advice on how to tie up your goats.
 
 ## Can goats be tied up for selective area grazing?
 
@@ -129,7 +129,7 @@ This could lead to the goat feeling stressed and anxious, which could negatively
 
 For these reasons, it's generally advisable to avoid tying up goats for transport. If you do need to transport a goat, it's best to do so in a secure enclosure where the animal has plenty of room to move around.
 
-## Final Thoughts
+## Summary
 
 Overall, goats are social creatures that need plenty of room to roam. They are curious about nature and will often try to explore their surroundings.
 

@@ -81,7 +81,7 @@ The molars are larger and flatter than the other teeth, and they are used for gr
 
 While humans have two sets of teeth- baby teeth and adult teeth- goats only have one set of 32-34 permanent teeth.
 
-This means that they do not go through a teething process as human babies do. Furthermore, goats' teeth continue to grow throughout their lives at a rate of about 4-5 inches per year.
+This means that they do not go through a teething process as human babies do. Beyond that, goats' teeth continue to grow throughout their lives at a rate of about 4-5 inches per year.
 
 Luckily, their diet of tough vegetation wears down their teeth so that they do not become overgrown. If allowed to grow unchecked, however, a goat's teeth can start to curl inward and cause problems with eating and drinking.
 
@@ -139,11 +139,11 @@ The best way to prevent dental disease is to have your goat's teeth checked regu
 
 In addition, you should feed your goat a diet that includes hay or other forage. This will help wear down the incisors and canines, keeping them at a healthy length.
 
-Lastly, remember to brush your goat's teeth regularly with a soft-bristled brush and toothpaste designed specifically for goats.
+Last thing to note: remember to brush your goat's teeth regularly with a soft-bristled brush and toothpaste designed specifically for goats.
 
 By taking these preventive measures, you can help keep your goat's teeth healthy and free from disease.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, goat's teeth are incredibly important for the animal's health. Without them, goats would be unable to properly digest their food or care for their mouths.
 

@@ -103,7 +103,7 @@ To conclude: while some nibbling on fallen autumn treats won’t harm your capri
 
 Acorns are a common food for many animals. Goats, however, have unique dietary needs and preferences that can affect their acorn consumption.
 
-Firstly, let’s look at the nutritional content of acorns. They contain proteins and fats which goats need in moderation.
+To start, let’s look at the nutritional content of acorns. They contain proteins and fats which goats need in moderation.
 
 But they also have tannins, substances that can be harmful to goats if consumed excessively.
 
@@ -191,7 +191,7 @@ However, this doesn’t mean that your goat should never eat an acorn. The key i
 
 You might wonder how exactly do you prepare an acorn for a goat? Well, the process isn’t too complicated.
 
-Firstly, collect fallen acorns from under oak trees during autumn months when they’re ripe and plentiful. Avoid any moldy or rotten ones as these could make your goat sick.
+For starters, collect fallen acorns from under oak trees during autumn months when they’re ripe and plentiful. Avoid any moldy or rotten ones as these could make your goat sick.
 
 Next step is leaching out the tannins from the collected nuts before feeding them to your furry friends, much like people would with coffee beans. Soak them in water for several days until water no longer turns brownish color indicating most of the tannin has been removed.
 

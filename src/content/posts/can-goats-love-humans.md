@@ -40,7 +40,7 @@ faq:
 
 You may be wondering if goats can love humans or not. And if so, what are the things you need to consider before getting a goat as a pet?
 
-In this article, we will answer the question of whether goats can love humans. We will also provide some tips and facts that you need to know if you are planning to get a goat as a pet.
+Here's what you need to know.we will answer the question of whether goats can love humans. We will also provide some tips and facts that you need to know if you are planning to get a goat as a pet.
 
 ## Can goats love humans?
 
@@ -110,7 +110,7 @@ You can also prevent your goat from getting bored by providing it with toys and
 
 You can provide your goat with a variety of objects to play with, such as balls, buckets, and old tires. Just make sure that these objects are safe for your goat to play with and that they cannot be eaten.
 
-Lastly, you can bond with your goat by spending time with it. Goats are very social creatures and enjoy the company of their human companions.
+Finally, you can bond with your goat by spending time with it. Goats are very social creatures and enjoy the company of their human companions.
 
 Take some time each day to interact with your goat. pet it, brush it, and talk to it.
 
@@ -128,7 +128,7 @@ In addition, you [need to provide plenty of fresh water](/can-i-give-a-sick-goat
 
 You should also provide a salt block for your goat to lick. This will help them get the minerals they need.
 
-Lastly, you need to make sure that you can provide proper care for a goat. This includes regular brushing, [hoof trimming](/can-i-use-a-rope-halter-on-a-goat/), and worming.
+To wrap up, you need to make sure that you can provide proper care for a goat. This includes regular brushing, [hoof trimming](/can-i-use-a-rope-halter-on-a-goat/), and worming.
 
 Goats also need to be vaccinated against certain diseases.
 
@@ -146,13 +146,13 @@ Goats are also very active creatures and need a lot of exercise. If you do not h
 
 However, if you are able to provide your goat with the space and attention it needs, then you will find that owning a goat can be a very rewarding experience.
 
-Lastly, goats browse rather than graze. This indicates that they favor eating leaves, twigs, and other plant matter.
+Last thing to note: goats browse rather than graze. This indicates that they favor eating leaves, twigs, and other plant matter.
 
 Although grass is not their favorite meal, they will consume it.
 
 It is important to locate a different pet [if you do not have access to browsing or live in an area with insufficient foliage for a goat](/can-a-goat-live-in-a-house/).
 
-## Final Thoughts
+## Summary
 
 Overall, goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other goats.
 

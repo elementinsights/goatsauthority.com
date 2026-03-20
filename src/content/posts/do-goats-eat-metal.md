@@ -69,7 +69,7 @@ Chewing on metal helps to keep their teeth trimmed down to a manageable size. In
 
 By eating metal, goats can get the minerals they need from an otherwise unlikely source.
 
-Lastly, grazing on metal can help goats to deter predators. The noise made by chewing on metal can be enough to scare off some predators, and the sharp taste is often unpleasant for potential adversaries.
+And finally, grazing on metal can help goats to deter predators. The noise made by chewing on metal can be enough to scare off some predators, and the sharp taste is often unpleasant for potential adversaries.
 
 For all these reasons, there are several benefits to goats eating metal.
 
