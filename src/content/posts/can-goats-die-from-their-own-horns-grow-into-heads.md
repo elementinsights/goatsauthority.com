@@ -11,7 +11,7 @@ imageAlt: "Can Goats Die From Their Own Horns Grow Into Heads?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Unfortunately, goats can die from their own horns growing into their heads. This happens when the horns get too long and start to grow into the goat's skull. The pressure from the horns can cause serious damage to the brain and other vital organs and eventually lead to death."
+  text: "Unfortunately, goats can die from their own horns growing into their heads. This happens when the horns get too long and start to grow into the goat's skull."
 toc:
   - label: "Can goats die from their own horns growing into heads?"
     href: "#can-goats-die-from-their-own-horns-growing-into-heads"
@@ -46,10 +46,6 @@ And if so, what are the symptoms?
 In this article, we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you [think your goat may be at risk](/can-a-cdt-shot-kill-a-goat/).
 
 ## Can goats die from their own horns growing into heads?
-
-**Unfortunately, goats can die from their own horns growing into their heads. This happens when the horns get too long and start to grow into the goat's skull.**
-
-**The pressure from the horns can cause serious damage to the brain and other vital organs and eventually lead to death.**
 
 However, it's important to note that this is relatively rare. Goats usually only die from this condition if they are not properly cared for and their horns are allowed to grow unchecked.
 

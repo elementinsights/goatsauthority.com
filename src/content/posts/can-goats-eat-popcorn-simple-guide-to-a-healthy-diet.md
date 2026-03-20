@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Popcorn?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat popcorn. It’s not harmful to them, but it should be a treat and not part of their regular diet. Popcorn is low in fiber and high in calories which isn’t ideal for goats."
+  text: "Goats can eat popcorn. It’s not harmful to them, but it should be a treat and not part of their regular diet."
 toc:
   - label: "Can Goats Eat Popcorn?"
     href: "#can-goats-eat-popcorn"
@@ -56,10 +56,6 @@ It’s a simple snack we humans enjoy, but can our furry friends partake too? It
 In this article, we’ll look into whether or not goats can safely munch on popcorn. Let’s get started.
 
 ## Can Goats Eat Popcorn?
-
-**Goats can eat popcorn. It’s not harmful to them, but it should be a treat and not part of their regular diet.**
-
-**Popcorn is low in fiber and high in calories which isn’t ideal for goats.**
 
 They need foods rich in nutrients like fresh [vegetables](/can-goats-eat-carrots/), [hay](/can-goats-eat-timothy-hay/) or grains. So while they might enjoy the occasional popcorn snack, don’t make it a habit.
 

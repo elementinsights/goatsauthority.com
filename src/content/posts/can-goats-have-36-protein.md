@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have 36 Protein Block?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein. The rest of their diet should be made up of other nutrients, such as carbohydrates, fats, vitamins, and minerals."
+  text: "Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein."
 toc:
   - label: "Can goats have 36 Protein Blocks?"
     href: "#can-goats-have-36-protein-blocks"
@@ -47,10 +47,6 @@ So, it's no surprise that people are wondering if goats can have 36 protein bloc
 In this article, we will answer all of your questions regarding goats and their protein intake. We will also provide you with some tips on how to care for your goats so that they can live a long and healthy life.
 
 ## Can goats have 36 Protein Blocks?
-
-**Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein.**
-
-**The rest of their diet should be made up of other nutrients, such as carbohydrates, fats, vitamins, and minerals.**
 
 On top of that, goats should not be given more than 3 pounds of hay per day. This is because too much hay can lead to digestive problems, such as bloat and diarrhea.
 

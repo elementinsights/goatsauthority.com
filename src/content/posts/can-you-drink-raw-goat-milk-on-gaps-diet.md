@@ -48,8 +48,6 @@ We will examine its pros and cons so that you can make an informed choice.
 
 ## Can You Drink Raw Goat Milk on GAPS Diet?
 
-**The GAPS diet emphasizes the consumption of fermented dairy products like kefir or yogurt as a starting point, as these foods are easily digestible and provide beneficial probiotics. As your gut health improves, you may be able to integrate small amounts of raw goat milk into your diet.**
-
 Raw [goat milk](/can-you-drink-goat-milk-straight-from-goat/) is packed with digestive-enhancing enzymes and probiotics, but it's crucial to proceed with caution as raw milk can carry health risks. If you do choose to drink it, only do so if it is sourced from a reputable and safe farmer.
 
 It's advisable for individuals with weak immune systems, pregnant women, and young children to avoid consuming raw milk.

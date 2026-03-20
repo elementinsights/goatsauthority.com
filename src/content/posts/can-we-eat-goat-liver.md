@@ -11,7 +11,7 @@ imageAlt: "Can We Eat Goat Liver?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "We can eat goat liver as long as it is cooked properly. In fact, it is a good source of protein and nutrients. Goat liver also has a relatively low-fat content and is low in calories, making it a healthy option for those looking to lose weight."
+  text: "We can eat goat liver as long as it is cooked properly. In fact, it is a good source of protein and nutrients."
 toc:
   - label: "Can we eat goat liver?"
     href: "#can-we-eat-goat-liver"
@@ -49,10 +49,6 @@ It is difficult to determine whether eating goat liver is safe or not. And if so
 We'll go over everything you need to know about eating goat liver in this article and provide you with some resources to help you make an informed decision.
 
 ## Can we eat goat liver?
-
-**We can eat goat liver as long as it is cooked properly. In fact, it is a good source of [protein](/can-i-mix-goat-milk-with-whey-protein/) and nutrients.**
-
-**Goat liver also has a relatively low-fat content and is low in calories, making it a healthy option for those looking to lose weight.**
 
 However, there are some things you need to consider before eating goat liver. For example, the liver is where toxins are stored in the body.
 

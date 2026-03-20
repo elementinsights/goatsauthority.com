@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Satsuma Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume satsuma leaves without any problems. In fact, they're a great source of nutrition for them. Satsuma leaves are high in fiber and protein, which are both essential for goats' diets."
+  text: "Goats can consume satsuma leaves without any problems. In fact, they're a great source of nutrition for them."
 toc:
   - label: "Can goats eat satsuma leaves?"
     href: "#can-goats-eat-satsuma-leaves"
@@ -48,10 +48,6 @@ So, the question remains: can goats eat satsuma leaves?
 In this article, we will answer all of your questions regarding goats and satsuma leaves. We'll tell you [everything you need to know](/what-kind-of-hay-do-goats-eat/) about their nutritional value, benefits, and potential risks.
 
 ## Can goats eat satsuma leaves?
-
-**Goats can consume satsuma leaves without any problems. In fact, they're a great source of nutrition for them.**
-
-**Satsuma leaves are high in fiber and protein, which are both essential for goats' diets. The high fiber content of satsuma leaves helps keep goats' digestive systems healthy and functioning properly.**
 
 Meanwhile, the protein helps support their growth and development. Satsuma leaves are also a good source of vitamins and minerals, such as vitamin A, vitamin C, calcium, and iron.
 

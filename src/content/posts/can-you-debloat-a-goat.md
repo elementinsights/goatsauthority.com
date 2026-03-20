@@ -11,7 +11,7 @@ imageAlt: "Can You Debloat A Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size. They are also susceptible to bloating from overeating or drinking too much water at once."
+  text: "You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size."
 toc:
   - label: "Can you debloat a goat?"
     href: "#can-you-debloat-a-goat"
@@ -51,10 +51,6 @@ A common question we receive is Can you debloat a goat? And if so, what is the b
 In this article, we will answer those questions and provide you with some tips on how to debloat your goat should the need arise.
 
 ## Can you debloat a goat?
-
-**You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size.**
-
-**They are also susceptible to bloating from overeating or drinking too much water at once.**
 
 However, it is best to avoid letting your goat get bloated in the first place. You can do this by ensuring they have a [balanced diet](/can-goats-have-36-protein/) and access to fresh water at all times.
 

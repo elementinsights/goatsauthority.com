@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Pregnant When Not in Heat?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year. In addition, does are more likely to conceive in the fall and winter."
+  text: "A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year."
 toc:
   - label: "Can a goat get pregnant when not in heat?"
     href: "#can-a-goat-get-pregnant-when-not-in-heat"
@@ -47,10 +47,6 @@ Can a goat become pregnant when she is not in heat? This article will answer tha
 In the end, we'll address some commonly asked issues concerning goats and their breeding practices.
 
 ## Can a goat get pregnant when not in heat?
-
-**A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year.**
-
-**In addition, does are more likely to conceive in the fall and winter.**
 
 The average [gestation period for a goat](/can-a-saanen-goat-have-babies-year-round/) is 145 days. And also, it's not uncommon for does to [deliver their kids](/can-an-over-due-goat-be-induced-to-labor/) anywhere between 130 and 155 days.
 

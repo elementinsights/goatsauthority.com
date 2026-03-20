@@ -48,8 +48,6 @@ In this article, we will address all of your questions about goats giving birth 
 
 ## Can a goat have babies a week apart?
 
-**Goats can have babies a week apart because they have a short gestation period of around 145 days. So, if a doe gives birth and then conceives again quickly, it's not uncommon for her to have another baby within a week or so of the first.**
-
 Despite that, it's generally not recommended to breed does more than once per year. This is because it can put a lot of strain on their bodies and may result in health problems.
 
 ## How often do goats breed?

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peanut Butter Cake?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat peanut butter cake. In fact, goats are known to be very curious creatures and will often try new foods. Peanut butter cake also provides some nutritional benefits for goats, including protein and essential vitamins and minerals, such as vitamin B12."
+  text: "Goats can eat peanut butter cake. In fact, goats are known to be very curious creatures and will often try new foods."
 toc:
   - label: "Can goats eat peanut butter cake?"
     href: "#can-goats-eat-peanut-butter-cake"
@@ -47,10 +47,6 @@ You’re curious about whether goats can eat peanut butter cake, but you don’t
 In this article, we will address the question: can goats eat peanut butter cake? We’ll also provide some key information on [goat nutrition](/can-i-give-a-moldy-pumpkin-to-goats/), including what they should and shouldn’t eat, as well as some common myths about goats.
 
 ## Can goats eat peanut butter cake?
-
-**Goats can eat peanut butter cake. In fact, goats are known to be very curious creatures and will often try new foods.**
-
-**Peanut butter cake also provides some nutritional benefits for goats, including protein and essential vitamins and minerals, such as vitamin B12.**
 
 It’s important to note, however, that goats should not eat too much peanut butter cake. Like all animals, [goats have different nutritional needs and too much of one food](/can-sheep-eat-goat-food/) can lead to health problems.
 

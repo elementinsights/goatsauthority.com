@@ -48,8 +48,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can pygmy goats be good potty trained?
 
-**Pygmy goats can be potty trained with some effort and consistency on your part. The process will be easier if you start training them when they're young and if you have multiple goats, as they will learn from each other.**
-
 As with any type of animal, there are always going to be accidents, but with [Pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/), these will be fewer and farther between if you put in the time to train them properly.
 
 In addition, it's crucial to note that not all [Pygmy goats](/can-a-pygmy-goat-take-care-of-triplets/) will be equally easy to potty train. Some may pick it up quickly, while others may need more time and patience.

@@ -11,7 +11,7 @@ imageAlt: "Can I Give A Moldy Pumpkin To Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You should not give your goats moldy pumpkins. If you have a moldy pumpkin, it is best to throw it away. The reason you shouldn't give your goats a moldy pumpkin is that it can make them sick."
+  text: "You should not give your goats moldy pumpkins. If you have a moldy pumpkin, it is best to throw it away."
 toc:
   - label: "Can I give a moldy pumpkin to goats?"
     href: "#can-i-give-a-moldy-pumpkin-to-goats"
@@ -47,10 +47,6 @@ It is difficult to determine whether or not you can give your goats a moldy pump
 We will answer those questions in this article and provide you with some tips on how to keep your goats healthy and well-nourished.
 
 ## Can I give a moldy pumpkin to goats?
-
-**You should not give your goats moldy pumpkins. If you have a moldy pumpkin, it is best to throw it away.**
-
-**The reason you shouldn't give your goats a moldy pumpkin is that it can make them sick. Moldy pumpkins can contain harmful toxins that can [cause sickness in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).**
 
 In addition, moldy pumpkins can also contain bacteria that can [cause diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/). Diarrhea is a serious condition that can lead to dehydration and even death in goats.
 

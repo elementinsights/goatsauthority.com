@@ -46,8 +46,6 @@ In this article, we will answer all of your questions so that you can make an in
 
 ## Can goats and cows graze in the same field at the same time without fighting?
 
-**Goats and cows can graze in the same pasture without fighting because they are both herbivores and have a natural preference for eating grass. They are also both social animals that are used to living in close proximity to other animals.**
-
 However, it's important to note that there are some variables that can increase the likelihood of fighting, such as the size of the pasture, the number of goats and cows, and the personalities of the individual animals.
 
 If you are considering letting goats and cows graze together, it's crucial to closely monitor their behavior and be prepared to [separate them](/can-rams-be-in-with-goat-bucks/) if necessary.

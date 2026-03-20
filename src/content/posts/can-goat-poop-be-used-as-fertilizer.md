@@ -11,7 +11,7 @@ imageAlt: "Can Goat Poop Be Used As Fertilizer?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat manure can be used as fertilizer. It's an excellent source of nutrients for plants and helps improve soil health. Goat manure is also a good source of nitrogen, phosphorus, and potassium, which are essential for plant growth, and it can be used as compost or side-dressing."
+  text: "Goat manure can be used as fertilizer. It's an excellent source of nutrients for plants and helps improve soil health."
 toc:
   - label: "Can goat poop be used as fertilizer?"
     href: "#can-goat-poop-be-used-as-fertilizer"
@@ -47,10 +47,6 @@ Taking care of goat waste, especially manure, is an essential component of keepi
 Then, we'll respond to all of your questions in this article and give you a guide for farmers on how to use goat excrement as fertilizer.
 
 ## Can goat poop be used as fertilizer?
-
-**Goat manure can be used as fertilizer. It's an excellent source of nutrients for plants and helps improve soil health.**
-
-**Goat manure is also a good source of nitrogen, phosphorus, and potassium, which are essential for plant growth, and it can be used as compost or side-dressing.**
 
 Despite that, it's important to note that [goat manure should not be used fresh as it may burn plants](/can-goats-eat-any-plant/). It's recommended to compost goat manure before using it as fertilizer or side-dressing.
 

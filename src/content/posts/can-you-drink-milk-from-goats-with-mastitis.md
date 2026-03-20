@@ -11,7 +11,7 @@ imageAlt: "Can You Drink Milk From Goats With Mastitis?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus. This makes it dangerous to consume milk containing these bacteria and viruses."
+  text: "You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus."
 toc:
   - label: "Can you drink milk from goats with mastitis?"
     href: "#can-you-drink-milk-from-goats-with-mastitis"
@@ -47,10 +47,6 @@ You may be wondering if it's safe to drink milk from goats with mastitis or not.
 In this article, we will answer those questions and provide you with additional healthcare facts, FAQs, and more about drinking milk from goats with mastitis.
 
 ## Can you drink milk from goats with mastitis?
-
-**You cannot drink milk from goats with mastitis. Mastitis is an infection of the [mammary glands](/do-goats-have-udders/) that causes pain, swelling, and milk to become discolored or contain pus.**
-
-**This makes it dangerous to consume milk containing these bacteria and viruses. If you do drink contaminated milk, you could get sick.**
 
 In addition, it is illegal in many countries to sell or drink milk from goats with mastitis. So even if you could, it's not something you should do.
 

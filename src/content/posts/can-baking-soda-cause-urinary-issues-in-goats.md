@@ -11,7 +11,7 @@ imageAlt: "Can Baking Soda Cause Urinary Issues in Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Baking soda can cause urinary issues in goats. When goats consume baking soda, it can increase the pH of their urine. This can lead to urinary calculi (stones) and other problems."
+  text: "Baking soda can cause urinary issues in goats. When goats consume baking soda, it can increase the pH of their urine."
 toc:
   - label: "Can baking soda cause urinary issues in goats?"
     href: "#can-baking-soda-cause-urinary-issues-in-goats"
@@ -46,10 +46,6 @@ But can this common household item cause urinary issues in goats? If so, what sh
 In this article, we will answer all of your questions about [feeding goats](/can-a-goat-feed-quads/) baking soda. We'll discuss the [benefits and risks](/can-benadryl-hurt-a-goat/) of doing so, as well as provide some tips on how to keep your goats healthy and happy.
 
 ## Can baking soda cause urinary issues in goats?
-
-**Baking soda can [cause urinary issues in goats](/can-contact-with-goats-cause-diarrhea-in-humans/). When goats consume baking soda, it can increase the pH of their urine.**
-
-**This can lead to urinary calculi (stones) and other problems. Baking soda can also cause gastrointestinal upset in goats.**
 
 However, there are some [benefits to feeding goats baking soda](/can-goats-eat-chicken-feed/). Baking soda can help neutralize acids in the rumen, which can improve digestion.
 

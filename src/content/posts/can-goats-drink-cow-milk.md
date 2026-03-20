@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Cow Milk?"
 readTime: "12 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Feeding baby goats cow milk is a topic that often raises questions. Can they drink it? The short answer is yes, but there’s more to the story."
+  text: "Feeding baby goats cow milk is a topic that often raises questions. Can they drink it?"
 toc:
   - label: "Feeding Baby Goats Cow Milk"
     href: "#feeding-baby-goats-cow-milk"
@@ -40,10 +40,6 @@ But is it really that simple? Or are there exceptions to the rule?
 Let’s explore this topic together. It might surprise you what we find out about our hoofed friends and their dietary needs.
 
 ## Feeding Baby Goats Cow Milk
-
-**Feeding baby goats cow milk is a topic that often raises questions. Can they drink it?**
-
-**The short answer is yes, but there’s more to the story. [Cow milk](/can-goats-eat-dairy/) isn’t bad for goat kids.**
 
 It has essential [nutrients like proteins and fats](/can-goats-have-cheese/) which are vital for their growth. However, it lacks some key elements found in goat milk.
 

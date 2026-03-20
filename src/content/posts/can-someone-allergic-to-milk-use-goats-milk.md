@@ -11,7 +11,7 @@ imageAlt: "Can Someone Allergic To Milk Use Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk. The proteins in goat milk are different from the proteins in cow's milk, so it's possible that you may not be allergic to goat milk."
+  text: "People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk."
 toc:
   - label: "Can someone allergic to milk use goats milk?"
     href: "#can-someone-allergic-to-milk-use-goats-milk"
@@ -45,10 +45,6 @@ You may be wondering if you can drink goat milk if you're allergic to cow's milk
 In this article, we will answer those questions about goat milk for people with cow's milk allergies. We will also discuss the potential benefits and drawbacks of goat milk as an alternative to cow's milk.
 
 ## Can someone allergic to milk use goats milk?
-
-**People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk.**
-
-**The proteins in goat milk are different from the proteins in cow's milk, so it's possible that you may not be allergic to goat milk.**
 
 Despite that, it's always best to consult with your allergist or doctor first before trying [goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/). They can help you determine if you're actually allergic to cow's milk proteins or if you have other food allergies that could make [drinking goat milk](/can-you-drink-goat-milk-while-pregnant/) problematic.
 

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Poisoned on Clover That Has Been Frosted on?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots. The nitrogen in the air is transformed by these bacteria into a form that plants can utilize."
+  text: "Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots."
 toc:
   - label: "Can a goat get poisoned on clover that has been frosted on?"
     href: "#can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on"
@@ -43,10 +43,6 @@ People often ask whether or not their goats can get poisoned if they eat clover 
 Additionally, we will also provide some tips on how to keep your goats safe from potential poisoning risks.
 
 ## Can a goat get poisoned on clover that has been frosted on?
-
-**Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots.**
-
-**The nitrogen in the air is transformed by these bacteria into a form that plants can utilize.**
 
 When the plant dies, the nitrogen is released back into the soil. This cycle of fixing and releasing nitrogen is an important part of maintaining soil fertility.
 

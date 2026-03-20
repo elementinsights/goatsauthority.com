@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat The Thorns Of A Citrus Tree Branch?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals. Additionally, their intestines are much longer than other animals, which also aids in the digestion process."
+  text: "Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals."
 toc:
   - label: "Can goats eat the thorns of a citrus tree branch?"
     href: "#can-goats-eat-the-thorns-of-a-citrus-tree-branch"
@@ -47,10 +47,6 @@ You may be wondering whether or not goats can eat the thorns of a citrus tree br
 In this article, we will explore the answer to those questions and provide you with some key points that you need to remember.
 
 ## Can goats eat the thorns of a citrus tree branch?
-
-**Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals.**
-
-**Additionally, their intestines are much longer than other animals, which also aids in the digestion process.**
 
 In addition to being able to digest the thorns, goats are also able to extract nutrients from them. This is because goats are able to break down cellulose, which is a type of plant fiber.
 

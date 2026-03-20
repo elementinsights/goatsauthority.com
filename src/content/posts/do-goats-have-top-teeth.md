@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Top Teeth?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have top teeth. In fact, goats have 32 teeth in total: incisors at the front of the mouth for slicing off vegetation, canines for tearing, and premolars and molars for grinding. However, not all of these teeth are visible at all times."
+  text: "Goats have top teeth. In fact, goats have 32 teeth in total: incisors at the front of the mouth for slicing off vegetation, canines for tearing, and premolars and molars for grinding."
 toc:
   - label: "Do goats have top teeth?"
     href: "#do-goats-have-top-teeth"
@@ -46,10 +46,6 @@ And while it may seem like a simple question, the answer is not so clear-cut. As
 So let’s take a closer look at this curious creature and see what we can find out about those pesky top teeth.
 
 ## Do goats have top teeth?
-
-**Goats have top teeth. In fact, [goats have 32 teeth](/do-goats-have-cloven-hooves/) in total: incisors at the front of the mouth for slicing off vegetation, canines for tearing, and premolars and molars for grinding.**
-
-**However, not all of these teeth are visible at all times.**
 
 The incisors and canines are located on the bottom jaw and are only visible when the mouth is open. The premolars and molars are located on the top jaw and are only visible when the mouth is closed.
 

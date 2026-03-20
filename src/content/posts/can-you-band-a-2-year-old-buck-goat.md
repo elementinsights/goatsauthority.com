@@ -11,7 +11,7 @@ imageAlt: "Can You Band A 2 Year Old Buck Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population. They are also more likely to mate if they are not banded, so this may be something you want to consider as well."
+  text: "You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population."
 toc:
   - label: "Can you band a 2 year old buck goat?"
     href: "#can-you-band-a-2-year-old-buck-goat"
@@ -47,10 +47,6 @@ It's not uncommon for people to wonder if they are able to [band a 2-year-old bu
 We will answer those questions in this article and provide you with additional information on goats in general so that you can make the best decision for your situation.
 
 ## Can you band a 2 year old buck goat?
-
-**You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population.**
-
-**They are also more likely to mate if they are not banded, so this may be something you want to consider as well.**
 
 If you do decide to band your goat, there are a few things you need to take into account. First of all, you will need to make sure that the bands are tight enough so that they won't slip off but not too tight that they will cut off the circulation.
 

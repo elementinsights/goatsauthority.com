@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Sunflower Seeds?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat sunflower seeds. They are a great source of protein and fiber for them. The nutrients in the seeds help to keep your goat healthy."
+  text: "Yes, goats can eat sunflower seeds. They are a great source of protein and fiber for them."
 toc:
   - label: "Can Goats Eat Sunflower Seeds?"
     href: "#can-goats-eat-sunflower-seeds"
@@ -48,10 +48,6 @@ In my years as a goat owner, I’ve had the same question many times. Can goats 
 It may seem like an odd question but understanding your pet’s diet can make all the difference in their health. Let’s find out more about this together.
 
 ## Can Goats Eat Sunflower Seeds?
-
-**Yes, goats can eat sunflower seeds. They are a great source of protein and fiber for them.**
-
-**The nutrients in the seeds help to keep your goat healthy. But remember, moderation is key here.**
 
 Too many sunflower seeds may cause weight gain or other [health issues](/can-goats-eat-chocolate/) in goats.
 

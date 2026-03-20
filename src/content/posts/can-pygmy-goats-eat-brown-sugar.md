@@ -11,7 +11,7 @@ imageAlt: "Can Pygmy Goats Eat Brown Sugar?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Pygmy goats can safely eat small amounts of brown sugar as a treat. However, like all foods, you should introduce it slowly and in moderation to avoid digestive upset. You should also make sure the brown sugar does not contain any added molasses, as this can be harmful to goats."
+  text: "Pygmy goats can safely eat small amounts of brown sugar as a treat. However, like all foods, you should introduce it slowly and in moderation to avoid digestive upset."
 toc:
   - label: "Can pygmy goats eat brown sugar?"
     href: "#can-pygmy-goats-eat-brown-sugar"
@@ -47,10 +47,6 @@ You may be wondering if your pygmy goat can eat brown sugar or not. And if so, w
 In this article, we will answer those questions and provide you with additional information about brown sugar and goats. We will also give you some tips on how to introduce this type of food to your [pygmy goat](/can-pygmy-goats-eat-milkweed/).
 
 ## Can pygmy goats eat brown sugar?
-
-**Pygmy goats can safely eat small amounts of brown sugar as a treat. However, like all foods, you should introduce it slowly and in moderation to avoid digestive upset.**
-
-**You should also make sure the brown sugar does not contain any added molasses, as this can be harmful to goats.**
 
 When feeding brown sugar to pygmy goats, it is crucial to consider the following:
 

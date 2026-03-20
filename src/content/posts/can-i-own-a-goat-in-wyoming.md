@@ -11,7 +11,7 @@ imageAlt: "Can I Own A Goat In Wyoming?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can own a goat in Wyoming as long as you follow the local zoning regulations. Some areas may allow goats while others may not, so it's important to check with your local municipality first. There are also some counties in Wyoming that require a permit to keep goats."
+  text: "You can own a goat in Wyoming as long as you follow the local zoning regulations. Some areas may allow goats while others may not, so it's important to check with your local municipality first."
 toc:
   - label: "Can you own a goat in Wyoming?"
     href: "#can-you-own-a-goat-in-wyoming"
@@ -45,10 +45,6 @@ If you live in Wyoming, you may be wondering if you can own a goat or not. And i
 In this article, we will answer those questions and provide you with more details about owning a goat in Wyoming.
 
 ## Can you own a goat in Wyoming?
-
-**You can own a goat in Wyoming as long as you follow the local zoning regulations. Some areas may allow goats while others may not, so it's important to check with your local municipality first.**
-
-**There are also some counties in Wyoming that require a permit to keep goats.**
 
 In addition to following local zoning regulations, you will also need to take care of your goats and provide them with proper shelter, food, and water. [Goats are social animals](/can-i-mix-newborn-goats-and-older-goats/) and need to be around other goats, so you will need to have at least two.
 

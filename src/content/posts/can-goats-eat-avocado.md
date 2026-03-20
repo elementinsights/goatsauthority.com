@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Avocado?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats and avocados don’t mix well. The skin and pit of an avocado can be harmful to your goat. These parts contain persin, a toxin that can cause health issues in goats."
+  text: "Goats and avocados don’t mix well. The skin and pit of an avocado can be harmful to your goat."
 toc:
   - label: "Can Goats Eat Avocado: A Comprehensive Guide"
     href: "#can-goats-eat-avocado-a-comprehensive-guide"
@@ -52,12 +52,6 @@ One food item often in our kitchens is the avocado. Is it safe for your four-leg
 In my years caring for goats, I’ve learned quite a bit about their dietary needs and restrictions. Let’s explore if avocados make the cut.
 
 ## Can Goats Eat Avocado: A Comprehensive Guide
-
-**Goats and avocados don’t mix well. The skin and pit of an avocado can be harmful to your goat.**
-
-**These parts contain persin, a toxin that can cause health issues in goats. Even the flesh, which has less persin, isn’t safe for them to eat regularly.**
-
-**It’s best to keep your beloved pet away from this fruit altogether.**
 
 Feeding your goat might seem tricky now but it doesn’t have to be hard work all the time! There are plenty of other healthy options they will love just as much without any risk involved.
 

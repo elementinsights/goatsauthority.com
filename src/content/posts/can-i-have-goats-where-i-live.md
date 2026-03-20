@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats Where I Live?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so it is essential to check with your local government first. You can also check with your local zoning department to see if there are any restrictions."
+  text: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so it is essential to check with your local government first."
 toc:
   - label: "Can I have goats where I live?"
     href: "#can-i-have-goats-where-i-live"
@@ -45,10 +45,6 @@ More people are choosing to raise goats for their various benefits. If you're on
 Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first.
 
 ## Can I have goats where I live?
-
-**You can [have goats where you live as long as your local government allows it](/can-you-band-a-2-year-old-buck-goat/). Some areas do not allow livestock, so it is essential to check with your local government first.**
-
-**You can also check with your local zoning department to see if there are any restrictions.**
 
 If you live in a rural area, there may be more leniency when it comes to having goats. However, if you live in an urban or suburban area, it is likely that you will need to get a permit or special permission before keeping goats.
 

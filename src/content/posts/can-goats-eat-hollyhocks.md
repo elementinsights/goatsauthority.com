@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Hollyhocks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits. Hollyhocks are a type of flower that is safe for goats to eat."
+  text: "Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits."
 toc:
   - label: "Can goats eat hollyhocks?"
     href: "#can-goats-eat-hollyhocks"
@@ -48,10 +48,6 @@ So, can goats eat hollyhocks? And if so, what are the [benefits and risks](/can-
 In this article, we will answer these questions and more. We'll also give you some information on hollyhocks, including their [nutritional content and the best way to feed them to your goats](/can-goats-eat-cattle-feed/).
 
 ## Can goats eat hollyhocks?
-
-**Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits.**
-
-**Hollyhocks are a type of flower that is safe for goats to eat. Hollyhocks also contain nutrients that are beneficial for goats, such as vitamin C and iron.**
 
 Despite that, it's important to note that hollyhocks are not a necessary part of a goat's diet. [Goats can live without eating](/can-goats-eat-grapes/) hollyhocks.
 

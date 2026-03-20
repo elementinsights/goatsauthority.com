@@ -11,7 +11,7 @@ imageAlt: "Can I Substitute Goat Cheese For Feta Cheese?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can substitute goat cheese for feta cheese because they have a similar taste and texture. Both kinds of cheese are tangy and slightly salty with a crumbly texture. They also have a similar white color and can be used in similar ways."
+  text: "You can substitute goat cheese for feta cheese because they have a similar taste and texture. Both kinds of cheese are tangy and slightly salty with a crumbly texture."
 toc:
   - label: "Can I substitute goat cheese for feta cheese?"
     href: "#can-i-substitute-goat-cheese-for-feta-cheese"
@@ -45,10 +45,6 @@ You might be wondering if it’s possible to substitute goat cheese for feta che
 In this article, we will answer those questions and provide you with additional information about each type of cheese. By the end, you’ll know everything you need to make an informed decision about substitutions.
 
 ## Can I substitute goat cheese for feta cheese?
-
-**You can substitute goat cheese for feta cheese because they have a similar taste and texture. Both kinds of cheese are tangy and slightly salty with a crumbly texture.**
-
-**They also have a similar white color and can be used in similar ways.**
 
 The main difference between goat cheese and feta cheese is that goat cheese is made from goat’s milk while feta cheese is made from sheep’s milk. Goat cheese has a slightly sweeter taste than feta cheese.
 

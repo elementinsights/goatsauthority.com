@@ -46,8 +46,6 @@ In this article, we will go over the things you need to consider before getting 
 
 ## Can I have goats in the city of Lorain Ohio?
 
-**You can have goats in the city of Lorain, Ohio as long as you adhere to the city's animal control ordinances. These ordinances state that you can have a maximum of two goats per household and that the goats must be confined to your property.**
-
 You will also need to get a [livestock permit](/can-i-have-goats-where-i-live/) from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
 
 In addition to the city ordinances, there are also some state laws that you need to be aware of. The Ohio Department of Agriculture requires that all goats have a Rabies Vaccination Certificate.

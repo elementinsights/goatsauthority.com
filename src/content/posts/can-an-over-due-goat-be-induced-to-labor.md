@@ -11,7 +11,7 @@ imageAlt: "Can an Overdue Goat be Induced to Labor?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce. And if a goat is carrying multiple kids, it may be necessary to induce earlier."
+  text: "An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce."
 toc:
   - label: "Can an overdue goat be Induced to labor?"
     href: "#can-an-overdue-goat-be-induced-to-labor"
@@ -48,10 +48,6 @@ Can you induce labor in a goat that is past due?
 We will address all of your questions on nursing an overdue goat in this article and more.
 
 ## Can an overdue goat be Induced to labor?
-
-**An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce.**
-
-**And if a goat is carrying multiple kids, it may be necessary to induce earlier.**
 
 Despite that, it's crucial to speak with a goat expert before inducing labor in a goat. Understanding whether [a goat can get pregnant when not in heat](/can-a-goat-get-pregnant-when-not-in-heat/) helps you confirm the pregnancy timeline. There are several drugs that can be used to induce labor, and a vet will be able to recommend the best one for your goat's situation.
 

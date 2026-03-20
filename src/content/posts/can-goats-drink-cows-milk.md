@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Cows Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can drink cows' milk because they are both mammals. In fact, cow's milk is often used as a supplement for baby goats when they are first born. Goats also have a four-chamber stomach that is similar to a cow's, which allows them to digest the milk properly."
+  text: "Goats can drink cows' milk because they are both mammals. In fact, cow's milk is often used as a supplement for baby goats when they are first born."
 toc:
   - label: "Can goats drink cows milk?"
     href: "#can-goats-drink-cows-milk"
@@ -51,10 +51,6 @@ We all know that goats are notorious for eating anything and everything, but can
 In this article, we'll answer all of your questions about whether goats can drink cow's milk, as well as provide some community reviews and insights.
 
 ## Can goats drink cows milk?
-
-**[Goats can drink cows' milk](/can-i-mix-goat-milk-replacer-with-cow-milk/) because they are both mammals. In fact, cow's milk is often used as a supplement for baby goats when they are first born.**
-
-**Goats also have a four-chamber stomach that is similar to a cow's, which allows them to digest the milk properly.**
 
 Despite that, it's important to note that cow's milk is not necessarily the best choice for goats. Goats should ideally be consuming goat's milk, as it's specifically designed for their digestive system.
 

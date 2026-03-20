@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Dog Food?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat dog food? This is a question many goat owners might have. The simple answer is, yes, they can."
+  text: "Can goats eat dog food? This is a question many goat owners might have."
 toc:
   - label: "Can Goats Eat Dog Food?"
     href: "#can-goats-eat-dog-food"
@@ -36,12 +36,6 @@ This may seem like an odd thought at first glance but it’s quite practical whe
 After all, both animals are part of our homes and sometimes their paths cross in unexpected ways. Let me share some insights from my personal experience as we explore this topic further.
 
 ## Can Goats Eat Dog Food?
-
-**Can goats eat dog food? This is a question many goat owners might have.**
-
-**The simple answer is, yes, they can. But should they?**
-
-**Not really. Dog food isn’t made for goats.**
 
 It’s designed to meet the nutritional needs of dogs, not ruminants like goats. Dogs are carnivores while goats are herbivores with very different dietary requirements.
 

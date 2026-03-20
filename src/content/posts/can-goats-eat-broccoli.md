@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Broccoli?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats. Goats are browsers, which means that they like to eat a variety of different plants."
+  text: "Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats."
 toc:
   - label: "Can goats eat broccoli?"
     href: "#can-goats-eat-broccoli"
@@ -45,10 +45,6 @@ faq:
 Many people are curious about the benefits of broccoli and whether or not goats can eat it. This article will explore those questions and also provide some basic information on the nutritional content of broccoli and more.
 
 ## Can goats eat broccoli?
-
-**Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats.**
-
-**Goats are browsers, which means that they like to eat a [variety of different plants](/why-do-goats-eat-everything/). Broccoli is a good option for goats because it's high in fiber and low in [sugar](/can-goats-eat-strawberries/).**
 
 Fiber is important for goats because it helps them stay full and provides them with energy. Sugar can be harmful to goats, so it's important to choose plants that are low in sugar.
 

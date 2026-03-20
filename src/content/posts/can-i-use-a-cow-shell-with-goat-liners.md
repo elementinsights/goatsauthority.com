@@ -11,7 +11,7 @@ imageAlt: "Can I Use A Cow Shell With Goat Liners?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use a cow shell with goat liners. The cow shell will provide support and comfort for the goat. The liner will help to keep the goat warm and dry."
+  text: "You can use a cow shell with goat liners. The cow shell will provide support and comfort for the goat."
 toc:
   - label: "Can I use a cow shell with goat liners?"
     href: "#can-i-use-a-cow-shell-with-goat-liners"
@@ -46,10 +46,6 @@ You may be wondering if you can use a cow shell with goat liners.
 In this article, we will answer those questions and provide you with additional information about [caring for your animals](/can-goats-die-from-lymes/).
 
 ## Can I use a cow shell with goat liners?
-
-**You can use a cow shell with goat liners. The cow shell will provide support and comfort for the goat.**
-
-**The liner will help to keep the goat warm and dry. They can also be used to protect the goat from injury.**
 
 When using a cow shell with goat liners, you will need to make sure that the liner is the correct size for the goat. You will also need to make sure that the liner is clean and dry before you put it on the goat.
 

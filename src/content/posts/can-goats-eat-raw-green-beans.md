@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Raw Green Beans?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Raw green beans are edible to goats. In actuality, goats may get a lot of nourishment from green beans. They are a good source of fiber, iron, and potassium as well as vitamins A, C, and K."
+  text: "Raw green beans are edible to goats. In actuality, goats may get a lot of nourishment from green beans."
 toc:
   - label: "Can goats eat raw green beans?"
     href: "#can-goats-eat-raw-green-beans"
@@ -46,10 +46,6 @@ One common question we get is: can goats eat raw green beans? If so, what are th
 In this article, we will answer all of your questions about goats and raw green beans and provide you with some helpful tips on how to incorporate this food into your goat's diet.
 
 ## Can goats eat raw green beans?
-
-**Raw green beans are edible to goats. In actuality, goats may get a lot of nourishment from green beans.**
-
-**They are a good source of fiber, iron, and potassium as well as vitamins A, C, and K. They also have a lot of protein in them.**
 
 Raw green beans are packed with nutrients that are essential for goat health. For example, the vitamins and minerals found in green beans can help to keep a goat's coat healthy and shiny.
 

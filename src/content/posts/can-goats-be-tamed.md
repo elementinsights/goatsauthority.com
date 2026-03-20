@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Tamed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can be tamed because they are social animals and enjoy interacting with humans. Goats are very curious creatures and will often approach people to investigate them. They are also easily trained to do tricks and follow commands, which makes them great candidates for taming."
+  text: "Goats can be tamed because they are social animals and enjoy interacting with humans. Goats are very curious creatures and will often approach people to investigate them."
 toc:
   - label: "Can goats be tamed?"
     href: "#can-goats-be-tamed"
@@ -51,10 +51,6 @@ One of the most important [things to consider when raising goats](/can-a-dog-get
 In this article, we will answer the question "can goats be tamed?" and provide you with a few tips on how to tame them.
 
 ## Can goats be tamed?
-
-**Goats can be tamed because they are social animals and enjoy [interacting with humans](/can-i-give-my-goats-human-fish-pills/). Goats are very curious creatures and will often approach people to investigate them.**
-
-**They are also easily trained to do tricks and follow commands, which makes them great candidates for taming.**
 
 Despite that, it's important to remember that each goat is an individual and some may be more resistant to taming than others. It's also worth noting that even the most docile [goats can become aggressive](/can-an-aggressive-goat-be-fixed/) if they feel threatened or stressed.
 

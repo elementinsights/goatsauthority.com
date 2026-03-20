@@ -11,7 +11,7 @@ imageAlt: "Can a Pygmy Goat Take Care of Triplets?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A pygmy goat can take care of triplets because they have high milk production. They can produce up to two quarts of milk per day. This is enough to feed three healthy baby goats."
+  text: "A pygmy goat can take care of triplets because they have high milk production. They can produce up to two quarts of milk per day."
 toc:
   - label: "Can a pygmy goat take care of triplets?"
     href: "#can-a-pygmy-goat-take-care-of-triplets"
@@ -44,10 +44,6 @@ Can a pygmy goat take care of triplets?
 In this article, we will answer all of your questions about [pygmy goat](/can-i-wash-and-groom-a-pygmy-goat/) triplets, including whether or not they can take care of them and how to best take care of them.
 
 ## Can a pygmy goat take care of triplets?
-
-**A pygmy goat can take care of triplets because they have high milk production. They can produce up to two quarts of milk per day.**
-
-**This is enough to feed three healthy baby goats. They also have a very strong maternal instinct and are very protective of their young.**
 
 Despite that, it's crucial to [give the mother goat plenty of food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). She will need extra energy to produce milk for her babies.
 

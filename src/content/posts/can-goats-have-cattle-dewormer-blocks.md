@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have Cattle Dewormer Blocks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats. Goats have a higher tolerance to fenbendazole than cattle and can therefore safely consume larger doses of it."
+  text: "Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats."
 toc:
   - label: "Can goats have cattle dewormer blocks?"
     href: "#can-goats-have-cattle-dewormer-blocks"
@@ -45,10 +45,6 @@ You may be wondering if you can use cattle dewormer blocks on your goats or not.
 In this article, we will answer all of your questions so that you can make an informed decision on whether to use cattle dewormer blocks on your goats or not.
 
 ## Can goats have cattle dewormer blocks?
-
-**Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats.**
-
-**Goats have a higher tolerance to fenbendazole than cattle and can therefore safely consume larger doses of it.**
 
 In addition, cattle dewormer blocks usually contain other ingredients that are beneficial for goats such as vitamins A, D, and E.
 

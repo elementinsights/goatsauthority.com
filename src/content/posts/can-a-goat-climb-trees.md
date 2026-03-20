@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Climb Trees?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have amazing climbing skills. They can squeeze into tight areas thanks to their adaptable bodies, and their sharp hooves help them grip uneven ground. In search of food or a better view, they may also climb up trees or rocks due to a natural impulse to explore their surroundings."
+  text: "Goats have amazing climbing skills. They can squeeze into tight areas thanks to their adaptable bodies, and their sharp hooves help them grip uneven ground."
 toc:
   - label: "Can a goat climb trees?"
     href: "#can-a-goat-climb-trees"
@@ -47,10 +47,6 @@ Can a goat climb trees? It's a valid question, considering that these animals ar
 So, it's no surprise that some people wonder if goats can climb trees. We'll look at why goats climb trees in this article, as well as whether they're genuinely able to do it or not.
 
 ## Can a goat climb trees?
-
-**Goats have amazing climbing skills. They can squeeze into tight areas thanks to their adaptable bodies, and their sharp hooves help them grip uneven ground.**
-
-**In search of food or a better view, they may also climb up trees or rocks due to a natural impulse to explore their surroundings.**
 
 There are many reasons why goats climb trees. In some cases, it's simply because they're curious and want to explore their surroundings.
 

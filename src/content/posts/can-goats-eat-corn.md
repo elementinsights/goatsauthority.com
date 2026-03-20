@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Corn?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Trending Products For Goats"
+  text: "Goats can eat corn. In fact, corn is a good source of food for goats."
 toc:
   - label: "Can goats eat corn?"
     href: "#can-goats-eat-corn"
@@ -47,10 +47,6 @@ We will discuss the answer to the question along with the benefits, risks, servi
 **Trending Products For Goats**
 
 ## Can goats eat corn?
-
-**Goats can eat corn. In fact, corn is a good source of food for goats.**
-
-**Goats need a diet that is high in fiber, and corn is a good source of fiber. Goats also need a diet that is high in protein, and corn is a good source of protein.**
 
 Corn is also a good source of energy for goats. Like [oats](/can-goats-eat-oats/) and [alfalfa](/can-goats-eat-alfalfa/), corn helps provide the energy goats need to maintain their activity levels.
 

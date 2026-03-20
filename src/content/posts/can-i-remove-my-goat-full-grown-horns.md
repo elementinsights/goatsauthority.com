@@ -43,8 +43,6 @@ In this article, we will discuss whether or not it is possible to remove a goat'
 
 ## Can I remove my goat full grown horns?
 
-**You can remove your goat's full-grown horns because they are not fully attached to the skull. In fact, they are only attached at the base, which is why they can be removed without harming the goat and without causing any permanent damage.**
-
 The best way to remove a goat's horns is by using a sharp knife or a pair of scissors. First, you will need to make a small cut at the base of the horn.
 
 Then, you can carefully pull the horn away from the head. Be sure to exercise caution while doing this so that you do not harm the goat.

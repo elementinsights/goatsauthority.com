@@ -46,8 +46,6 @@ In this article, we will answer those questions and provide you with the informa
 
 ## Can you adopt a goat and keep it at a farm in Rochester NY?
 
-**You can adopt a goat and keep it at a farm in Rochester NY as long as you will follow the local zoning regulations. They are also telling you that you must have at least 2 acres of land for every goat.**
-
 In addition, you will need to provide your goat with a shelter that is large enough for them to move around in and that has sufficient ventilation. The shelter should also be protected from the elements, such as wind, rain, and snow.
 
 You will also need to have a fence that is high enough to keep your goat contained. It is important to note that [goats are known for their climbing abilities](/can-a-goat-climb-trees/), so the fence will need to be made of materials that they cannot climb or jump over.

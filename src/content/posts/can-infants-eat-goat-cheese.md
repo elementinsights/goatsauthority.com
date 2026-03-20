@@ -11,7 +11,7 @@ imageAlt: "Can Infants Eat Goat Cheese?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Infants can eat goat cheese as long as they are not allergic to it. Goat cheese is a good source of protein, fat, and calcium. It is also lower in lactose than cow's milk, making it easier to digest for some people."
+  text: "Infants can eat goat cheese as long as they are not allergic to it. Goat cheese is a good source of protein, fat, and calcium."
 toc:
   - label: "Can infants eat goat cheese?"
     href: "#can-infants-eat-goat-cheese"
@@ -43,10 +43,6 @@ You may be wondering whether or infant can eat goat cheese. And if so, what are 
 In this article, we will answer those questions about feeding goat cheese to infants, as well as provide some tips on how to choose and store goat cheese.
 
 ## Can infants eat goat cheese?
-
-**Infants can eat goat cheese as long as they are not allergic to it. Goat cheese is a good source of protein, fat, and calcium.**
-
-**It is also lower in lactose than cow's milk, making it easier to digest for some people.**
 
 Before [feeding your infant goat cheese](/can-my-infant-goat-kid-eat-grain/), check with their pediatrician to be sure they are not allergic to it. If they are not allergic, then you can start by giving them a small amount of goat cheese to see how they tolerate it.
 

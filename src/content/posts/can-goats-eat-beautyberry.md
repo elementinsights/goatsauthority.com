@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Beautyberry?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium. Beautyberry also contains tannins, which can help to protect goats from certain parasites, such as stomach worms."
+  text: "Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium."
 toc:
   - label: "Can goats eat beautyberry?"
     href: "#can-goats-eat-beautyberry"
@@ -48,10 +48,6 @@ And if so, what are the nutrition facts and risks associated with it?
 In this article, we will answer all of your questions so that you can make an informed decision about what to [feed your goats](/can-a-goat-feed-quads/).
 
 ## Can goats eat beautyberry?
-
-**Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium.**
-
-**Beautyberry also contains tannins, which can help to protect goats from certain parasites, such as stomach worms.**
 
 However, it's important to note that beautyberry is a [nutritionally poor food source for goats](/can-sheep-eat-goat-food/). This means that [goats should not rely on beautyberries as their sole source of nutrition](/can-i-use-regular-milk-to-feed-a-baby-goat/).
 

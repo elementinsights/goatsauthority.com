@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Onions?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions. They also contain quercetin, which is a flavonoid with antioxidant and anti-inflammatory properties that can be beneficial to a goat's health."
+  text: "Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions."
 toc:
   - label: "Can goats eat onions?"
     href: "#can-goats-eat-onions"
@@ -48,10 +48,6 @@ Can they eat onions too? And if so, what are the benefits and risks?
 In this article, we will explore these questions and more.
 
 ## Can goats eat onions?
-
-**Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions.**
-
-**They also contain quercetin, which is a flavonoid with antioxidant and anti-inflammatory properties that can be beneficial to a goat's health.**
 
 However, there are also some risks associated with feeding onions to goats. For example, onions can cause digestive problems in goats, and they may also be toxic in large quantities. Unlike safer options like [carrots](/can-goats-eat-carrots/) or [celery](/can-goats-eat-celery/), onions require extra caution.
 

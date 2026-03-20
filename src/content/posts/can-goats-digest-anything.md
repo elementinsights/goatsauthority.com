@@ -11,7 +11,7 @@ imageAlt: "Can Goats Digest Anything?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot digest everything. Just like humans, there are certain things that goats' stomachs can't handle. Goats also have a four-chamber stomach (rumen, reticulum, omasum, abomasum), which means that they are able to digest some things that other animals can't."
+  text: "Goats cannot digest everything. Just like humans, there are certain things that goats' stomachs can't handle."
 toc:
   - label: "Can goats digest anything?"
     href: "#can-goats-digest-anything"
@@ -49,10 +49,6 @@ You might be curious about whether or not goats can digest food. If so, what exa
 We will address all of your questions about what goats can and cannot digest in this article. We'll also offer some advice on how to maintain the digestive health of your goats.
 
 ## Can goats digest anything?
-
-**[Goats cannot digest everything](/can-goats-digest-cotton/). Just like humans, there are certain things that goats' stomachs can't handle.**
-
-**Goats also have a four-chamber stomach (rumen, reticulum, omasum, abomasum), which means that they are able to digest some things that other animals can't.**
 
 However, it's important to note that goats are browsers, not grazers. This means that their stomachs are designed to digest roughage like leaves, twigs, and branches.
 

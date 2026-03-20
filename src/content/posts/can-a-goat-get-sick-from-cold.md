@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Sick From Cold?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get sick from cold weather. Just like humans, goats are susceptible to colds and respiratory infections when they are exposed to cold, damp conditions. Goat owners need to be especially vigilant in the winter months when their animals are most at risk from exposure to the cold."
+  text: "Goats can get sick from cold weather. Just like humans, goats are susceptible to colds and respiratory infections when they are exposed to cold, damp conditions."
 toc:
   - label: "Can a goat get sick from cold?"
     href: "#can-a-goat-get-sick-from-cold"
@@ -44,10 +44,6 @@ Can they get sick from being in the cold? What should you do to make sure they s
 Here are some health facts, FAQs, and more about keeping your goats healthy in the cold weather.
 
 ## Can a goat get sick from cold?
-
-**Goats can get sick from cold weather. Just like humans, goats are susceptible to colds and respiratory infections when they are exposed to [cold, damp conditions](/can-goats-die-in-cold-weather/).**
-
-**Goat owners need to be especially vigilant in the winter months when their animals are most at risk from exposure to the cold.**
 
 A number of simple steps can be taken to help protect goats from the cold, such as providing them with shelter from the wind and rain and making sure that they have access to plenty of fresh water.
 

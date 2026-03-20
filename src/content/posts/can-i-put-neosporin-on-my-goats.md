@@ -49,8 +49,6 @@ We will answer those questions for you here, as well as provide some tips on oth
 
 ## Can I put Neosporin on my goats?
 
-**You can put Neosporin on your goats because it contains ingredients that can help to heal wounds and prevent infection. In fact, Neosporin is often recommended by veterinarians for use on animals and is considered safe for most species, including goats.**
-
 That said, there are a few things you need to keep in mind when using Neosporin on goats. First, make sure that you only use the original ointment, as some of the newer formulations contain ingredients that can be [harmful to goats](/can-a-goat-get-a-cold-sore/).
 
 Second, apply a small amount of ointment to the affected area and avoid getting it in the goat's eyes, nose, or mouth. Finally, keep an eye on the wound and contact your veterinarian if you see any [signs of irritation or infection](/can-goats-get-mites/).

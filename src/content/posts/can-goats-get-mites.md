@@ -11,7 +11,7 @@ imageAlt: "Can Goats Get Mites?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get mites because they are small, agile, and have a lot of furs. Mites are tiny arthropods that live off the blood of animals. There are different types of mites, but they all have in common that they can cause a lot of irritation to their host."
+  text: "Goats can get mites because they are small, agile, and have a lot of furs. Mites are tiny arthropods that live off the blood of animals."
 toc:
   - label: "Can goats get mites?"
     href: "#can-goats-get-mites"
@@ -46,10 +46,6 @@ Can goats get mites? And if so, what are the things you need to look out for?
 We will answer all of these questions below, as well as provide some tips on how to keep your goats healthy and mite-free.
 
 ## Can goats get mites?
-
-**Goats can get mites because they are small, agile, and have a lot of furs. Mites are tiny arthropods that live off the blood of animals.**
-
-**There are different types of mites, but they all have in common that they can cause a lot of irritation to their host.**
 
 The most common type of mite that [affects goats](/can-weather-affect-goats-poop/) is the Psoroptis ovis. This mite is also known as the sheep scab mite.
 

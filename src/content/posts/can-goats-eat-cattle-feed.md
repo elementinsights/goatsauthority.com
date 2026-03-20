@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cattle Feed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume cattle feed without any problems. In fact, many goat farmers actually feed their animals a diet that consists mostly of cattle feed. Cattle feed contains all the necessary nutrients and vitamins that goats need to stay healthy and thrive."
+  text: "Goats can consume cattle feed without any problems. In fact, many goat farmers actually feed their animals a diet that consists mostly of cattle feed."
 toc:
   - label: "Can goats eat cattle feed?"
     href: "#can-goats-eat-cattle-feed"
@@ -47,10 +47,6 @@ You may be wondering if goats can eat cattle feed since they are both members of
 In this article, we'll explore the answers to these questions and more, so you can make an informed decision about what's best for your goats.
 
 ## Can goats eat cattle feed?
-
-**Goats can consume cattle feed without any problems. In fact, many goat farmers actually feed their animals a diet that consists mostly of cattle feed.**
-
-**Cattle feed contains all the necessary nutrients and vitamins that goats need to stay healthy and thrive.**
 
 Despite that, it's important to note that goats are browsers (not grazers) by nature. This means that their digestive system is designed to digest roughage like leaves, twigs, and grasses.
 

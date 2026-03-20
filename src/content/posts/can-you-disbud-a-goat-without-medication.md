@@ -11,7 +11,7 @@ imageAlt: "Can You Disbud A Goat Without Medication?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns. This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision."
+  text: "Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns."
 toc:
   - label: "Can you disbud a goat without medication?"
     href: "#can-you-disbud-a-goat-without-medication"
@@ -50,10 +50,6 @@ And if so, what are the things you need to consider before doing so?
 In this article, we will answer those questions about provide you with additional information about disbudding and goat health care in general.
 
 ## Can you disbud a goat without medication?
-
-**Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns.**
-
-**This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision.**
 
 There are other methods to remove horns without medication, though they come with their own risks. For example, some people use a [caustic paste or electrically heated instruments](/can-you-dehorn-a-2-year-old-goat/) to burn the horn off.
 

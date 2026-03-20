@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Edamame Shells?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat edamame shells. Edamame shells are a good source of protein and fiber, and they can help goats maintain a healthy digestive system. They also contain essential vitamins and minerals, such as iron and calcium, which are important for goat health."
+  text: "Goats can eat edamame shells. Edamame shells are a good source of protein and fiber, and they can help goats maintain a healthy digestive system."
 toc:
   - label: "Can goats eat edamame shells?"
     href: "#can-goats-eat-edamame-shells"
@@ -48,10 +48,6 @@ So, are edamame shells edible to goats?
 We will explore the advantages and dangers of [feeding edamame shells to goats](/can-a-goat-feed-quads/) in this article, as well as the ideal serving size.
 
 ## Can goats eat edamame shells?
-
-**Goats can eat edamame shells. Edamame shells are a good source of protein and fiber, and they can help goats maintain a healthy digestive system.**
-
-**They also contain essential vitamins and minerals, such as iron and calcium, which are important for goat health.**
 
 Despite that, there are some [risks to feeding edamame shells to goats](/can-goats-eat-chicken-feed/). The shells can be a choking hazard, and they can also cause intestinal blockages.
 

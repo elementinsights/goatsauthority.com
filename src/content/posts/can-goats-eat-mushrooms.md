@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Mushrooms?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat mushrooms. But it’s not that simple. Some types of mushrooms are safe for goats to consume, while others are harmful."
+  text: "Goats can eat mushrooms. But it’s not that simple."
 toc:
   - label: "Can Goats Eat Mushrooms?"
     href: "#can-goats-eat-mushrooms"
@@ -48,10 +48,6 @@ One food that might come up is mushrooms. Can these fungi be part of a goat’s 
 Let me share my experience and research on this topic with you.
 
 ## Can Goats Eat Mushrooms?
-
-**Goats can eat mushrooms. But it’s not that simple.**
-
-**Some types of mushrooms are safe for goats to consume, while others are harmful. The key is knowing which ones your goat can safely munch on.**
 
 The most common edible varieties like button or portobello? Those are fine in moderation.
 

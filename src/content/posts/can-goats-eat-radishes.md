@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Radishes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat radishes and they can be added to their diet. In fact, radishes are a good source of vitamin C, potassium, and fiber that can help with a goat's digestion. Radishes also have a high water content, which can help keep goats hydrated."
+  text: "Goats can eat radishes and they can be added to their diet. In fact, radishes are a good source of vitamin C, potassium, and fiber that can help with a goat's digestion."
 toc:
   - label: "Can goats eat radishes?"
     href: "#can-goats-eat-radishes"
@@ -51,10 +51,6 @@ You may be wondering whether you can feed radishes to your goat. And if so, are 
 In this article, we will answer all of your questions about feeding radishes to goats, including the benefits and risks, as well as the appropriate serving size.
 
 ## Can goats eat radishes?
-
-**Goats can eat radishes and they can be added to their diet. In fact, radishes are a good source of vitamin C, potassium, and fiber that can help with a goat's digestion.**
-
-**Radishes also have a high water content, which can help keep goats hydrated.**
 
 However, there are some [risks associated with feeding radishes to goats](/can-goats-eat-chicken-feed/). The biggest risk is that radishes can give goats gas.
 

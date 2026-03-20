@@ -11,7 +11,7 @@ imageAlt: "Can Mountian Goats Dig Noches Out Of Rocks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Mountain goats can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole. They also use their horns to help them climb steep cliffs and scramble over obstacles."
+  text: "Mountain goats can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole."
 toc:
   - label: "Can mountain goats dig noches out of rocks?"
     href: "#can-mountain-goats-dig-noches-out-of-rocks"
@@ -48,10 +48,6 @@ And if so, what do they use them for?
 In this article, we'll explore the possibility of mountain goats digging noches out of rocks, and what they might use them for.
 
 ## Can mountain goats dig noches out of rocks?
-
-**[Mountain goats](/can-a-mountain-goat-kill-you/) can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole.**
-
-**They also use their horns to help them climb steep cliffs and scramble over obstacles.**
 
 In addition to their [hooves](/can-i-remove-my-goat-full-grown-horns/) and horns, mountain goats have another tool that helps them break up rocks: their teeth. Mountain [goats have very strong teeth that can bite through tough materials](/can-goats-bite/) like wood and bone.
 

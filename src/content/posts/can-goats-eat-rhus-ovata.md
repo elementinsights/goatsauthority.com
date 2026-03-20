@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Rhus Ovata?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat Rhus ovata because it is not poisonous to them. In fact, Rhus ovata is a nutritious food for goats, as it is high in fiber and protein. They are also a good source of essential vitamins and minerals."
+  text: "Goats can eat Rhus ovata because it is not poisonous to them. In fact, Rhus ovata is a nutritious food for goats, as it is high in fiber and protein."
 toc:
   - label: "Can Goats Eat Rhus Ovata?"
     href: "#can-goats-eat-rhus-ovata"
@@ -50,10 +50,6 @@ One question that many goat owners have is what [kind of plants their goats can 
 Here we will discuss whether or not goats can eat Rhus ovata, as well as the [nutritional benefits and risks of this plant](/can-goats-eat-indian-tobacco-plants/).
 
 ## Can Goats Eat Rhus Ovata?
-
-**Goats can eat Rhus ovata because it is not poisonous to them. In fact, Rhus ovata is a nutritious food for goats, as it is high in fiber and protein.**
-
-**They are also a good source of essential vitamins and minerals.**
 
 However, there are a few things to keep in mind when feeding Rhus ovata to goats.
 

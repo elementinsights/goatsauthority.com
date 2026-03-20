@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Rice Bran?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat rice bran. In fact, rice bran is actually a portion of really good food for goats. It is a great source of energy and contains a lot of essential nutrients that goats need in their diet."
+  text: "Goats can eat rice bran. In fact, rice bran is actually a portion of really good food for goats."
 toc:
   - label: "Can Goats Eat Rice Bran?"
     href: "#can-goats-eat-rice-bran"
@@ -50,10 +50,6 @@ What should you keep in mind, if that's the case?
 In this article, we will address each of these concerns and [give you some fascinating information on the nutritional value of goats](/can-i-give-a-moldy-pumpkin-to-goats/).
 
 ## Can Goats Eat Rice Bran?
-
-**Goats can eat rice bran. In fact, rice bran is actually a portion of really good food for goats.**
-
-**It is a great source of energy and contains a lot of essential nutrients that goats need in their diet. They are also a good source of fiber.**
 
 However, there are a few things you need to keep in mind if you're going to feed rice bran to your goats.
 

@@ -11,7 +11,7 @@ imageAlt: "Can I Buy A Goat As A Pet?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can purchase a goat as a pet from many different places. The best place to start looking is your local farm supply store or online. There are also many breeders who specialize in goats and can ship them directly to your home."
+  text: "You can purchase a goat as a pet from many different places. The best place to start looking is your local farm supply store or online."
 toc:
   - label: "Can I buy a goat as a pet?"
     href: "#can-i-buy-a-goat-as-a-pet"
@@ -44,10 +44,6 @@ Can you buy a goat as a pet? And if so, how can you take care of it?
 In this article, we’ll tell you everything you need to know about buying and taking care of a pet goat. We will provide tips on what to look for when choosing a goat as well as how to care for it properly.
 
 ## Can I buy a goat as a pet?
-
-**You can purchase a goat as a pet from many different places. The best place to start looking is your local farm supply store or online.**
-
-**There are also many breeders who specialize in goats and can ship them directly to your home.**
 
 When choosing a goat, it’s crucial to pick one that is friendly and docile. You also want to make sure the goat is healthy and has no medical problems. Many people wonder if [a goat can live in a house](/can-a-goat-live-in-a-house/), but goats generally do best outdoors.
 

@@ -11,7 +11,7 @@ imageAlt: "Can I Get Goat Milk At Lucky's Market?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can get goat milk at Lucky's Market. In fact, they have a wide selection of goat milk products to choose from. They also have a variety of other dairy products, so you'll be sure to find what you're looking for."
+  text: "You can get goat milk at Lucky's Market. In fact, they have a wide selection of goat milk products to choose from."
 toc:
   - label: "Can I get goat milk at Lucky's Market?"
     href: "#can-i-get-goat-milk-at-luckys-market"
@@ -47,10 +47,6 @@ You may be wondering whether or not you can get milk at Lucky's Market or not. A
 In this article, we'll take a look at some of the most frequently asked questions about goat milk, as well as what the community has to say about it.
 
 ## Can I get goat milk at Lucky's Market?
-
-**You can get goat milk at Lucky's Market. In fact, they have a wide selection of goat milk products to choose from.**
-
-**They also have a variety of other dairy products, so you'll be sure to find what you're looking for.**
 
 When it comes to goat milk, there are a few [things you need to keep in mind](/can-a-dog-get-sick-from-a-goat/). First of all, it's important to choose a brand that you trust.
 

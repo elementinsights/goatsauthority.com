@@ -52,8 +52,6 @@ In this article, we will answer those questions and provide you with advice on t
 
 ## Can you do oral and injection of ivermectin at the same time in goats?
 
-**It is possible to give both oral and injectable forms of ivermectin at the same time. In fact, this can be a more [effective way to treat parasites in your goats](/can-a-cdt-shot-kill-a-goat/) than just one form alone and also reduce the number of injections necessary.**
-
 Keep in mind that various types and strengths of ivermectin are more effective against different parasites. To be safe, always talk to a vet before giving your goats any form of ivermectin.
 
 Your vet will be able to recommend the best option for your goats, as well as ensure that you are giving them the correct dose.

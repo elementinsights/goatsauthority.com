@@ -11,7 +11,7 @@ imageAlt: "Can Goats Live In An Urban Environment?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can live in an urban environment. In fact, goats are becoming increasingly popular as pets in urban areas. They are also being used more and more for landscaping in urban areas, as they are very effective at eating weeds and other unwanted plants."
+  text: "Goats can live in an urban environment. In fact, goats are becoming increasingly popular as pets in urban areas."
 toc:
   - label: "Can goats live in an urban environment?"
     href: "#can-goats-live-in-an-urban-environment"
@@ -44,10 +44,6 @@ And if so, what are the things you need to consider?
 In this article, we will answer those questions for you. We will also provide some tips on how to care for goats in an urban environment.
 
 ## Can goats live in an urban environment?
-
-**Goats can live in an urban environment. In fact, goats are becoming increasingly [popular as pets](/can-i-buy-a-goat-as-a-pet/) in urban areas.**
-
-**They are also being used more and more for landscaping in urban areas, as they are very effective at eating weeds and other unwanted plants.**
 
 There are a few things you need to consider if you want to keep goats in an urban environment. First, you need to make sure that you have enough space for them.
 

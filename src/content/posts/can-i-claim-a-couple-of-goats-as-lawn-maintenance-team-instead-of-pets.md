@@ -11,7 +11,7 @@ imageAlt: "Can I Claim A Couple Of Goats As Lawn Maintenance Team Instead Of Pet
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you. In fact, some farmers use goats as a natural way to keep their pastures clear."
+  text: "You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you."
 toc:
   - label: "Can you claim goats as a lawn maintenance team instead of pets?"
     href: "#can-you-claim-goats-as-a-lawn-maintenance-team-instead-of-pets"
@@ -46,10 +46,6 @@ But, have you ever wondered if you could claim goats as a lawn maintenance team 
 In this article, we'll explore the possibility of using goats as a lawn maintenance team. We'll look at the pros and cons of this option, and whether or not it would be cheaper than traditional methods.
 
 ## Can you claim goats as a lawn maintenance team instead of pets?
-
-**You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you.**
-
-**In fact, some farmers use goats as a natural way to keep their pastures clear.**
 
 In addition to their food, goats also consume grass, [weeds, and brush](/can-the-federal-government-use-goats-to-clear-federal-lands/). This can help keep your lawn clear of unwanted growth.
 

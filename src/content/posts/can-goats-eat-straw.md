@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Straw?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Straws are edible to goats. Straw can give goats important nutrients like fiber and minerals when it's incorporated into a balanced diet. Protein, vitamins A and C, and other nutrients found in straw can support the physical and mental wellness of goats."
+  text: "Straws are edible to goats. Straw can give goats important nutrients like fiber and minerals when it's incorporated into a balanced diet."
 toc:
   - label: "Can goats eat straw?"
     href: "#can-goats-eat-straw"
@@ -52,10 +52,6 @@ Do goats consume straw?
 We will respond to these questions and provide you with a general overview of the goat's nutrition in this article.
 
 ## Can goats eat straw?
-
-**Straws are edible to goats. Straw can give goats important nutrients like fiber and minerals when it's incorporated into a balanced diet.**
-
-**Protein, vitamins A and C, and other nutrients found in straw can support the physical and mental wellness of goats.**
 
 Despite that, it's important to remember that straw is not a substitute for fresh [hay](/can-goats-eat-timothy-hay/), which should always be the mainstay of a goat's diet. When used as part of a balanced diet straw can be an important nutritional supplement for goats.
 

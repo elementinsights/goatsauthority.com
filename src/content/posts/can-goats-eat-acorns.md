@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Acorns?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat acorns raw? This is a question many goat owners ask. The short answer is yes, but with caution."
+  text: "Can goats eat acorns raw? This is a question many goat owners ask."
 toc:
   - label: "Can Goats Eat Acorns Raw?"
     href: "#can-goats-eat-acorns-raw"
@@ -46,10 +46,6 @@ Goats are known for their hearty appetites and ability to eat just about anythin
 This article will shed light on whether or not these woodland treats are safe for our four-legged friends. Stay tuned as we get down to the facts.
 
 ## Can Goats Eat Acorns Raw?
-
-**Can goats eat acorns raw? This is a question many goat owners ask.**
-
-**The short answer is yes, but with caution. Acorns are not toxic to goats in small amounts.**
 
 They can be an extra source of nutrients for them. Acorns contain [protein and fat](/can-goats-eat-oats/) which are good for your goat’s health.
 

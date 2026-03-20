@@ -11,7 +11,7 @@ imageAlt: "Can You Buy Goat Milk At The Grocery Store?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can buy goat milk at the grocery store. It is usually located in the dairy section, near the other types of milk. Goat milk is often sold in both whole and skim varieties and can be found in both organic and non-organic varieties."
+  text: "You can buy goat milk at the grocery store. It is usually located in the dairy section, near the other types of milk."
 toc:
   - label: "Can you buy goat milk at the grocery store?"
     href: "#can-you-buy-goat-milk-at-the-grocery-store"
@@ -48,10 +48,6 @@ Can you buy goat milk at the grocery store? And if so, how does it compare to ot
 In this article, we will answer those questions about goat milk and grocery stores. We'll also provide some community reviews and additional resources for learning more about this amazing dairy product.
 
 ## Can you buy goat milk at the grocery store?
-
-**You can buy goat milk at the grocery store. It is usually located in the dairy section, near the other types of milk.**
-
-**Goat milk is often sold in both whole and skim varieties and can be found in both organic and non-organic varieties.**
 
 In addition to the grocery store, you can also purchase goat milk online. There are a number of websites that sell goat milk, both in whole and skim varieties.
 

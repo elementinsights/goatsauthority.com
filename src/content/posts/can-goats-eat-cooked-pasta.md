@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked Pasta?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked pasta. In fact, goats are known to be very curious creatures and will often try to eat anything they come across, including cooked pasta. Cooked pasta also provides a good source of carbohydrates and energy for goats."
+  text: "Goats can eat cooked pasta. In fact, goats are known to be very curious creatures and will often try to eat anything they come across, including cooked pasta."
 toc:
   - label: "Can goats eat cooked pasta?"
     href: "#can-goats-eat-cooked-pasta"
@@ -51,10 +51,6 @@ You may be wondering if goats can eat cooked pasta or not. And if so, what are t
 In this article, we will answer all of your questions so that you can make an informed decision about whether or not to feed your goat's cooked pasta.
 
 ## Can goats eat cooked pasta?
-
-**[Goats can eat cooked pasta](/can-goats-eat-cooked-chicken/). In fact, goats are known to be very curious creatures and will often try to eat anything they come across, including cooked pasta.**
-
-**Cooked pasta also provides a good source of carbohydrates and energy for goats.**
 
 Despite that, it's important to moderate the amount of cooked pasta that you [feed your goat as it can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) if they eat too much. It's also important to make sure that the cooked pasta is not too salty or oily, as this can also be harmful to goats.
 

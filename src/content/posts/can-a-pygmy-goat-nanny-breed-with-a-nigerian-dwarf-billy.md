@@ -11,7 +11,7 @@ imageAlt: "Can a Pygmy Goat Nanny breed with a Nigerian Dwarf Billy?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A Pygmy Goat Nanny can breed with a Nigerian Dwarf Billy. Because there's only a size difference and not a breed difference, the offspring will be a mix of the two. The offspring will most likely be smaller than either parent but will have the characteristics of both breeds."
+  text: "A Pygmy Goat Nanny can breed with a Nigerian Dwarf Billy. Because there's only a size difference and not a breed difference, the offspring will be a mix of the two."
 toc:
   - label: "Can a pygmy goat nanny breed with a nigerian dwarf billy?"
     href: "#can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy"
@@ -43,10 +43,6 @@ But, there's one question that we all want to know the answer to: Can a Pygmy Go
 In this article, we'll answer that question for you and give you some helpful tips on breeding goats in general.
 
 ## Can a pygmy goat nanny breed with a nigerian dwarf billy?
-
-**A Pygmy Goat Nanny can breed with a Nigerian Dwarf Billy. Because there's only a size difference and not a breed difference, the offspring will be a mix of the two.**
-
-**The offspring will most likely be smaller than either parent but will have the characteristics of both breeds.**
 
 However, it's important to note that both the Pygmy Goat and Nigerian Dwarf Billy must be healthy and free of any genetic defects in order for this to work. Otherwise, the offspring may inherit those defects and be unhealthy.
 

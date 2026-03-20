@@ -11,7 +11,7 @@ imageAlt: "Can Dogs Have Goat Formula?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Dogs can have goat formula. Goat milk is a natural and nutritious alternative to cow's milk that can be beneficial for your dog's health. Goat's milk also contains less lactose than cow's milk, making it easier for your dog to digest."
+  text: "Dogs can have goat formula. Goat milk is a natural and nutritious alternative to cow's milk that can be beneficial for your dog's health."
 toc:
   - label: "Can dogs have goat formula?"
     href: "#can-dogs-have-goat-formula"
@@ -45,10 +45,6 @@ Many dog owners are curious if they can give their pet goat milk formula as an a
 In this article, we will answer all of your questions about giving your dog goat milk formula. We will also provide some tips on how to introduce this milk into your dog's diet safely and effectively.
 
 ## Can dogs have goat formula?
-
-**Dogs can have goat formula. Goat milk is a natural and nutritious alternative to cow's milk that can be beneficial for your dog's health.**
-
-**Goat's milk also contains less lactose than cow's milk, making it easier for your dog to digest.**
 
 Despite that, it's important to introduce goat milk into your dog's diet slowly and in limited quantities. Start by [mixing a small amount of goat milk](/can-i-mix-goat-milk-replacer-with-cow-milk/) into your dog's regular food and gradually increase the amount over time.
 

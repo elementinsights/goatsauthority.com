@@ -11,7 +11,7 @@ imageAlt: "Can Nigerian Dwarf Goats Be With Nubians"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Nigerian dwarf goats can live with Nubians. In fact, many people choose to keep them together because they get along so well. They can also provide good company for each other, which is important for their mental health and well-being."
+  text: "Nigerian dwarf goats can live with Nubians. In fact, many people choose to keep them together because they get along so well."
 toc:
   - label: "Can Nigerian dwarf goats be with Nubians?"
     href: "#can-nigerian-dwarf-goats-be-with-nubians"
@@ -45,10 +45,6 @@ Many people are curious about the possibility of mixing different types of goats
 This article will explore the topic in-depth, and provide some answers to common questions. We will also look at what you need to know in order to make sure that your goats are healthy and happy.
 
 ## Can Nigerian dwarf goats be with Nubians?
-
-**Nigerian dwarf goats can live with Nubians. In fact, many people choose to keep them together because they get along so well.**
-
-**They can also provide good company for each other, which is important for their mental health and well-being.**
 
 However, there are a few things that you need to keep in mind if you decide to keep Nigerian dwarf goats with Nubians. First of all, you need to make sure that they have enough space.
 

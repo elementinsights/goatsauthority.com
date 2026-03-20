@@ -46,8 +46,6 @@ In this article, we will answer those questions for you, as well as provide some
 
 ## Can my infant goat kid eat grain?
 
-**You can feed grain to your infant goat kid as long as it is a small amount and well-cooked. Make sure to introduce it slowly into their diet and always consult with a veterinarian beforehand, especially if your kid has any health conditions.**
-
 In addition, always choose a [high-quality feed that is designed specifically for goats](/can-a-goat-feed-quads/). This will ensure that your kid gets the proper nutrition and does not ingest any harmful substances.
 
 Despite their small size, [goats are able to eat a wide variety of food](/can-goats-eat-dog-food/). This includes both plants and animals.

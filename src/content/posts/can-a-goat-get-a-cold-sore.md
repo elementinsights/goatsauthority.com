@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get a Cold Sore?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1). HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils."
+  text: "A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1)."
 toc:
   - label: "Can a goat get a cold sore?"
     href: "#can-a-goat-get-a-cold-sore"
@@ -45,10 +45,6 @@ Many people have wondered about this over the years: can a goat get a cold sore?
 Lastly, we will touch on some preventative measures you can take to keep your goats healthy and free from this pesky virus.
 
 ## Can a goat get a cold sore?
-
-**A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1).**
-
-**HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils.**
 
 There are other animals that can get cold sores, such as [dogs](/can-dogs-get-tapeworms-from-goats/) and cats, but again, it's relatively rare. So, if you see a goat with a cold sore, it's most likely due to an underlying health condition.
 

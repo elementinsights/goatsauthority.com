@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Pull a Cart?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can pull carts. In fact, they are often used for this purpose in farming and agriculture. Goats are strong animals and can easily pull a cart loaded with supplies or equipment."
+  text: "Goats can pull carts. In fact, they are often used for this purpose in farming and agriculture."
 toc:
   - label: "Can a goat pull a cart?"
     href: "#can-a-goat-pull-a-cart"
@@ -48,10 +48,6 @@ And if so, how do you go about it?
 In this article, we will answer all your questions about goats and carts, including whether or not a goat can pull a cart, how to train a goat to pull a cart, and what kind of care and equipment you will need.
 
 ## Can a goat pull a cart?
-
-**[Goats can pull carts](/can-goats-pull-a-plow/). In fact, they are often used for this purpose in farming and agriculture.**
-
-**Goats are strong animals and can easily pull a cart loaded with supplies or equipment. And also, since they are small animals, they can maneuver in tight spaces and around obstacles.**
 
 However, you need to be careful when training a goat to pull a cart. Goats are not naturally inclined to do this, and you will need to put in some work to get them used to it.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Get Listeriosis From Chicken Feces?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get listeriosis from chicken feces. Listeriosis is a bacterial infection that can be transmitted to animals and humans through contaminated food or contact with infected animal feces. Goats are particularly susceptible to this disease because of their curious nature and their tendency to put everything in their mouths."
+  text: "Goats can get listeriosis from chicken feces. Listeriosis is a bacterial infection that can be transmitted to animals and humans through contaminated food or contact with infected animal feces."
 toc:
   - label: "Can goats get listeriosis from chicken feces?"
     href: "#can-goats-get-listeriosis-from-chicken-feces"
@@ -48,10 +48,6 @@ So, can goats get listeriosis from chicken feces? And if so, what are the sympto
 In this article, we will answer those questions and provide you with some [facts and FAQs about listeriosis in goats](/can-a-goat-get-addicted-to-human-urine/).
 
 ## Can goats get listeriosis from chicken feces?
-
-**Goats can get listeriosis from chicken feces. Listeriosis is a bacterial infection that can be transmitted to animals and humans through contaminated food or contact with infected animal feces.**
-
-**Goats are particularly susceptible to this disease because of their curious nature and their tendency to put everything in their mouths.**
 
 On top of that, listeriosis can be transmitted to goats through contact with infected animals, such as sheep or cattle. Once a goat is infected with the bacteria, it can [spread the infection to other goats](/can-goats-spread-lice-to-llamas/) through close contacts, such as sharing food and water sources.
 

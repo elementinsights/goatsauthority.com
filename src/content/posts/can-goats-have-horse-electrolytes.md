@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have Horse Electrolytes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have horse electrolytes. In fact, many goat owners give their goats horse electrolytes because they are a cheap and easy way to ensure that goats stay hydrated. They also help prevent issues like heat stress, which can be dangerous for goats."
+  text: "Goats can have horse electrolytes. In fact, many goat owners give their goats horse electrolytes because they are a cheap and easy way to ensure that goats stay hydrated."
 toc:
   - label: "Can goats have horse electrolytes?"
     href: "#can-goats-have-horse-electrolytes"
@@ -50,10 +50,6 @@ But can goats have horse electrolytes? And if so, what are the best electrolytes
 In this article, we will answer those questions and provide everything you need to know about giving electrolytes to goats.
 
 ## Can goats have horse electrolytes?
-
-**Goats can have horse electrolytes. In fact, many goat owners give their goats horse electrolytes because they are a cheap and easy way to ensure that goats stay hydrated.**
-
-**They also help prevent issues like heat stress, which can be dangerous for goats.**
 
 There are a few things to keep in mind when giving goats horse electrolytes, however. First, make sure that you give them the right type of electrolytes.
 

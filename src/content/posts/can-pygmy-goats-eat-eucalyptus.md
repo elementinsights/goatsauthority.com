@@ -11,7 +11,7 @@ imageAlt: "Can Pygmy Goats Eat Eucalyptus?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Eucalyptus is safe for pygmy goats to eat. In actuality, they provide goats with a healthy diet. High quantities of fiber, which are necessary for a healthy digestive tract, can be found in eucalyptus leaves."
+  text: "Eucalyptus is safe for pygmy goats to eat. In actuality, they provide goats with a healthy diet."
 toc:
   - label: "Can pygmy goats eat eucalyptus?"
     href: "#can-pygmy-goats-eat-eucalyptus"
@@ -51,10 +51,6 @@ And if so, what nutritional benefits do they offer?
 In this article, we will answer those questions and more, so you can feel confident that your pygmy goat is getting the proper nutrition.
 
 ## Can pygmy goats eat eucalyptus?
-
-**Eucalyptus is [safe for pygmy goats to eat](/can-pygmy-goats-eat-brown-sugar/). In actuality, they provide goats with a healthy diet.**
-
-**High quantities of fiber, which are necessary for a healthy digestive tract, can be found in eucalyptus leaves. They also include calcium and phosphorus, elements essential for healthy bones and teeth.**
 
 On top of that, eucalyptus leaves can help prevent parasitic infections, which are common in goats. The oil found in eucalyptus leaves is also known to have anti-inflammatory and antibacterial properties, which can be helpful in treating skin conditions.
 

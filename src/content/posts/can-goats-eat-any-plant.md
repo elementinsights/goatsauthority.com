@@ -46,8 +46,6 @@ In this article, we will answer all of your questions about what goats can and c
 
 ## Can goats eat any plant?
 
-**[Goats cannot eat any plant](/can-goats-eat-indian-tobacco-plants/). There are many plants that are poisonous to goats and can make them very ill or even kill them and so it's important to be aware of what plants are safe for goats to eat and which ones to avoid.**
-
 Despite that, you need to remember that every [goat is different and what one goat can eat](/can-a-goat-eat-sticker-bushes/) may not agree with another. So, it's always best to introduce new foods slowly and in small amounts to avoid any upset stomachs.
 
 ## What are the plants that are poisonous to goats?

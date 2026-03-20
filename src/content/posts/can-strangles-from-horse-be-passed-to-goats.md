@@ -47,8 +47,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can strangles from horse be passed to goats?
 
-**Strangles from a horse can be passed to goats because they are both susceptible to the [bacteria that causes the disease](/can-contact-with-goats-cause-diarrhea-in-humans/). They are also in close contact with each other, which increases the chances of transmission and infection and makes it difficult to prevent.**
-
 Despite that, there are some key differences between the two animals that need to be considered.
 
 For example, horses are more likely to develop severe cases of strangles and their symptoms tend to last longer. In contrast, [goats usually have milder symptoms and recover more quickly](/can-goats-recover-from-polio-without-medication/).

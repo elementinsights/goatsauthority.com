@@ -11,7 +11,7 @@ imageAlt: "Can Goats And Dogs Be Friends?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats and dogs can be friends. In fact, they can become best friends. Just like any other animal, it all comes down to how they are introduced and what their personalities are like."
+  text: "Goats and dogs can be friends. In fact, they can become best friends."
 toc:
   - label: "Can goats and dogs be friends?"
     href: "#can-goats-and-dogs-be-friends"
@@ -47,10 +47,6 @@ You may be wondering if goats and dogs can be friends or not. And if so, what ar
 In this article, we will answer all of your questions about goats and dogs. And also give you some tips on how to make sure they become friends.
 
 ## Can goats and dogs be friends?
-
-**Goats and dogs can be friends. In fact, they can become best friends.**
-
-**Just like any other animal, it all comes down to how they are introduced and what their personalities are like. They are also both herd animals, so they have that in common too.**
 
 Despite that, it's important to keep in mind that goats are prey animals and dogs are predators. So, there's always the potential for the [dog to see the goat as food](/can-goats-eat-dog-food/).
 

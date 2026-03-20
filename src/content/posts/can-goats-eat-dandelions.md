@@ -50,8 +50,6 @@ In this article, we will answer all of these questions for you, so that you can 
 
 ## Can goats eat dandelions?
 
-**Goats can eat dandelions because they are high in nutrients and vitamins such as vitamins A, C, and K, which are essential to a goat's diet. They also have a high water content, which is important for a goat's health.**
-
 However, it's important to note that dandelions can also be poisonous to goats if they are eaten in large quantities. Much like [other plants goats eat](/can-goats-eat-any-plant/), moderation is key. Dandelions contain a substance called lactucarium, which can cause vomiting and diarrhea in goats.
 
 If a goat eats too many dandelions, it may become sick or even die.

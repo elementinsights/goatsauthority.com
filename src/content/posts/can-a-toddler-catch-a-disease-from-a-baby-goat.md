@@ -11,7 +11,7 @@ imageAlt: "Can a Toddler Catch a Disease from a Baby Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E. coli, that are dangerous to them."
+  text: "A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E."
 toc:
   - label: "Can a toddler catch a disease from a baby goat?"
     href: "#can-a-toddler-catch-a-disease-from-a-baby-goat"
@@ -48,10 +48,6 @@ But you may have also heard that goats can carry diseases. So, can a toddler cat
 In this article, we will answer this question and give you all the information you need to know about letting your toddler play with goats.
 
 ## Can a toddler catch a disease from a baby goat?
-
-**A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E.**
-
-**coli, that are dangerous to them.**
 
 However, it's still possible for a vaccinated toddler to catch a disease from a baby goat. This is because vaccinations are not 100% effective.
 

@@ -47,8 +47,6 @@ In this article, we will answer those questions about kid feeding tubes and dren
 
 ## Can I use kid feeding tube to drench adult goat?
 
-**You can use a kid feeding tube to drench an adult goat as long as the tube is the right size. The general rule of thumb is that the tube should be about one-third the width of the goat's esophagus.**
-
 In addition, you'll [need to make sure the tube is long enough to reach the bottom of the goat's stomach](/can-a-dog-get-sick-from-a-goat/). A good rule of thumb is to make the tube about one and a half times the length of the goat's head.
 
 Kid feeding tubes are typically made of flexible plastic or rubber. They have a small diameter, which makes them ideal for [drenching goats](/can-you-deworm-a-pregnant-goat/).

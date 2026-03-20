@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pumpkin?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can actually eat pumpkins. In fact, pumpkins can provide some essential nutrients that goats need to stay healthy. Pumpkins are a good source of fiber, which helps with digestion, and they also contain phosphorus, which is important for healthy bones and muscles."
+  text: "Goats can actually eat pumpkins. In fact, pumpkins can provide some essential nutrients that goats need to stay healthy."
 toc:
   - label: "Can goats eat pumpkin?"
     href: "#can-goats-eat-pumpkin"
@@ -53,10 +53,6 @@ Many people are curious as to whether goats can consume pumpkins. We will discus
 Additionally, we will address a few frequently asked inquiries about goats' diets.
 
 ## Can goats eat pumpkin?
-
-**Goats can actually eat pumpkins. In fact, pumpkins can provide some essential nutrients that goats need to stay healthy.**
-
-**Pumpkins are a good source of [fiber](/can-goats-eat-hay-cubes/), which helps with digestion, and they also contain phosphorus, which is important for healthy bones and muscles.**
 
 [Vitamin A](/can-goats-eat-carrots/) is another nutrient that pumpkins offer, and it's crucial for a goat's vision and immune system. So, if you have some extra pumpkins lying around, don't hesitate to give them to your goats.
 

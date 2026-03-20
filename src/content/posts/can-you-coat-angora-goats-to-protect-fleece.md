@@ -52,8 +52,6 @@ In this article, we'll discuss everything you need to know about coating angora 
 
 ## Can you coat angora goats to protect fleece?
 
-**You can coat angora goats to protect their fleece because the coat provides insulation and protection from the elements. In fact, many people choose to coat their angora goats because it can help the goat stay warm in colder climates.**
-
 On top of that, coating an angora goat can also help protect the fleece from damage. For example, if an angora goat rubs its coat against a fence, the coat will protect the fleece from getting scratched or tangled.
 
 ## What are the things you need to take into account when coating an angora goat?

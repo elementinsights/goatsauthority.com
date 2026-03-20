@@ -11,7 +11,7 @@ imageAlt: "Can I Own Goats In Medford, Oregon?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can own goats in Medford, Oregon as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon. They are also allowed in most zoned agricultural and rural residential areas."
+  text: "You can own goats in Medford, Oregon as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon."
 toc:
   - label: "Can I own goats in Medford, Oregon?"
     href: "#can-i-own-goats-in-medford-oregon"
@@ -45,10 +45,6 @@ You may be wondering if it's legal to own goats in Medford, Oregon, or not. And 
 In this article, we will answer those questions and provide you with additional resources for keeping goats in Medford, Oregon.
 
 ## Can I own goats in Medford, Oregon?
-
-**[You can own goats in Medford, Oregon](/can-i-have-goats-in-the-city-of-lincoln-city-oregon/) as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon.**
-
-**They are also allowed in most zoned agricultural and rural residential areas.**
 
 There are a few [things to consider before getting goats](/can-a-dog-get-sick-from-a-goat/), such as whether you have enough space for them and whether you're prepared to handle their care.
 

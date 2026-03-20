@@ -49,10 +49,6 @@ Those are the common questions about goats and milkweed that we will be discussi
 
 ## Can pygmy goats eat milkweed?
 
-**[Pygmy goats can eat milkweed](/can-pygmy-goats-eat-brown-sugar/) as long as it is fresh and free from any chemicals. Milkweed is a good source of nutrients for goats, including protein, calcium, and phosphorus.
-
-They are also a source of fiber and can help with digestive problems**.
-
 However, there are a few things you need to be aware of when feeding milkweed to your goats. The first is that milkweed contains a substance called saponin, which can be toxic to goats in large amounts.
 
 Saponin is found in the leaves and stems of milkweed, so it's crucial to remove these before [feeding the plant to your goats](/can-a-goat-feed-quads/).

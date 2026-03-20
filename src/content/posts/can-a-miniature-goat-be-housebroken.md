@@ -11,7 +11,7 @@ imageAlt: "Can a Miniature Goat be Housebroken?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A miniature goat can be housebroken. Because of their small size, they are able to use a litter box like a cat. They also have a natural instinct to not soil their sleeping area, so with proper training, they can learn to sleep inside like a dog."
+  text: "A miniature goat can be housebroken. Because of their small size, they are able to use a litter box like a cat."
 toc:
   - label: "Can a miniature goat be housebroken?"
     href: "#can-a-miniature-goat-be-housebroken"
@@ -47,10 +47,6 @@ Many people are wondering if they can keep a miniature goat as a pet or not. And
 In this article, we will give you all the information you need to know about miniature goats, including whether or not they can be housebroken.
 
 ## Can a miniature goat be housebroken?
-
-**A miniature goat can be housebroken. Because of their small size, they are able to use a litter box like a cat.**
-
-**They also have a natural instinct to not soil their sleeping area, so with proper training, they can learn to sleep inside like a dog.**
 
 Despite that, it's crucial to remember that goats are still animals and they will have accidents from time to time. Just be patient and [consistent with your training](/can-pygmy-goats-be-good-potty-trained/), and eventually, your miniature goat will be successfully housebroken.
 

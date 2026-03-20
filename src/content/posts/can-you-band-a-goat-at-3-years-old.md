@@ -11,7 +11,7 @@ imageAlt: "Can You Band A Goat At 3 Years Old?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You cannot band a goat at 3 years old because the process is too dangerous. Banding a goat involves breaking the animal's leg in order to insert a metal ring. This ring will then cut off the circulation to the goat's hooves, which will cause them to eventually fall off."
+  text: "You cannot band a goat at 3 years old because the process is too dangerous. Banding a goat involves breaking the animal's leg in order to insert a metal ring."
 toc:
   - label: "Can you band a goat at 3 years old?"
     href: "#can-you-band-a-goat-at-3-years-old"
@@ -49,10 +49,6 @@ But did you know that there’s a right time to band a goat? And if so, can you 
 In this article, we will answer those questions and more. So, if you want to learn all there is to know about banding a goat.
 
 ## Can you band a goat at 3 years old?
-
-**You cannot band a goat at 3 years old because the process is too dangerous. Banding a goat involves breaking the animal's leg in order to insert a metal ring.**
-
-**This ring will then cut off the circulation to the goat's hooves, which will cause them to eventually fall off.**
 
 It is also important to know that banding a goat at 3 years old is considered [illegal in most states](/can-i-own-a-goat-in-wyoming/). Thus, before you make the decision to go ahead with this action, be sure to check and see what the laws are in your state.
 

@@ -48,8 +48,6 @@ We will answer those questions in detail and provide you with additional informa
 
 ## Can you deworm a pregnant goat?
 
-**You can deworm your pregnant goat without any problem because it is a safe and recommended procedure. In fact, it is essential to deworm pregnant goats in order to prevent the spread of parasites and worms that can cause health problems.**
-
 On top of that, it is important to note that pregnant goats should be dewormed at least six weeks before giving birth. This ensures that the [baby goat](/can-a-toddler-catch-a-disease-from-a-baby-goat/) has a healthy start in life and does not suffer from any health issues.
 
 However, it is essential to keep in mind that there are many different types of dewormers available, and not all of them can be safely used during pregnancy. Therefore, it is crucial to consult with a goat expert before [administering any type of dewormer](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat/).

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Breed with Sheep?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible because they are both members of the Bovidae family, which includes cows, buffalo, and bison. Though they are different species, goats and sheep can breed and produce offspring. The process of goat-sheep hybridization is known as \"interspecies crossbreeding.\""
+  text: "It's possible because they are both members of the Bovidae family, which includes cows, buffalo, and bison. Though they are different species, goats and sheep can breed and produce offspring."
 toc:
   - label: "Can a goat breed with sheep?"
     href: "#can-a-goat-breed-with-sheep"
@@ -43,10 +43,6 @@ Many have questioned whether a goat can breed with a sheep, and whether goat-she
 We're going to provide a complete response to this question and also answer if there's a future for goat-sheep hybrids.
 
 ## Can a goat breed with sheep?
-
-**it's possible because they are both members of the Bovidae family, which includes cows, buffalo, and bison. Though they are different species, goats and sheep can breed and [produce offspring](/how-many-babies-do-goats-have-at-a-time/).**
-
-**The process of goat-sheep hybridization is known as "interspecies crossbreeding."**
 
 While hybrids are not common in the wild, they can occur when a [goat comes into contact with a flock of sheep](/can-a-goat-and-lamb-breed/).
 

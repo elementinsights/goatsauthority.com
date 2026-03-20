@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Brush in Winter?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are actually very good at eating brush, and they can do so year-round. In fact, goats are often used to clear the land of overgrown brush. They are also known to eat other plants, such as tree leaves and bark."
+  text: "Goats are actually very good at eating brush, and they can do so year-round. In fact, goats are often used to clear the land of overgrown brush."
 toc:
   - label: "Can goats eat brush in winter?"
     href: "#can-goats-eat-brush-in-winter"
@@ -47,10 +47,6 @@ You may be wondering whether or not goats can eat brushes in winter. And if so, 
 In this article, we will answer those questions for you, as well as provide some FAQs about goats and their eating habits.
 
 ## Can goats eat brush in winter?
-
-**Goats are actually very good at eating brush, and they can do so year-round. In fact, goats are often used to clear the land of overgrown brush.**
-
-**They are also known to eat other plants, such as tree leaves and bark.**
 
 Despite that, it's important to make sure that [goats have access to other food sources](/can-sheep-eat-goat-food/), such as hay and grain. This is because the plants they eat may not have all the nutrients they need.
 

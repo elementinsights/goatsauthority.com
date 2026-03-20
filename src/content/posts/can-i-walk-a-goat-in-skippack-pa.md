@@ -11,7 +11,7 @@ imageAlt: "Can I Walk A Goat In Skippack PA?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so. You also need to make sure that your goat is healthy and up to date on its vaccinations."
+  text: "You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so."
 toc:
   - label: "Can I walk a goat in Skippack PA?"
     href: "#can-i-walk-a-goat-in-skippack-pa"
@@ -45,10 +45,6 @@ Taking care of a goat in Skippack is a fun and rewarding experience, but have yo
 In this article, we will answer those questions and provide you with additional information about taking care of your goats in Skippack PA.
 
 ## Can I walk a goat in Skippack PA?
-
-**You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so.**
-
-**You also need to make sure that your goat is healthy and up to date on its vaccinations.**
 
 Before you take your goat out for a walk, you should also brush it and [check its hooves](/can-i-remove-my-goat-full-grown-horns/). This will help prevent any problems while you are out walking.
 

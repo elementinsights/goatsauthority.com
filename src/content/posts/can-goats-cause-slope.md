@@ -50,8 +50,6 @@ In this article, we will answer all of your questions regarding goats and slope 
 
 ## Can goats cause slope?
 
-**Goats can contribute to slope failure because they are able to graze on the vegetation that helps hold soil in place. When this vegetation is removed, it can lead to increased erosion and, ultimately, slope failure, especially during heavy rains.**
-
 However, it's important to note that [goats are not the only animals that can cause this problem](/can-alfalfa-pellets-cause-goats-to-bloat/). Other animals, such as sheep and cows, can also graze on the vegetation and contribute to slope failure.
 
 ## What do goats eat and how does that affect the land they graze on?

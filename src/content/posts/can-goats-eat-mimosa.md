@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Mimosa?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat mimosas. This is because their digestive systems are able to break down the plant's tough fibers. Mimosa has a high nutritional content, which makes it a good food for goats."
+  text: "Goats can eat mimosas. This is because their digestive systems are able to break down the plant's tough fibers."
 toc:
   - label: "Can goats eat mimosa?"
     href: "#can-goats-eat-mimosa"
@@ -51,10 +51,6 @@ And if so, what are the [benefits and hazards](/do-goats-eat-meat/)?
 In this article, we'll take a look at everything you need to know about feeding your goats mimosa. We will also provide you with a handy serving-size guide.
 
 ## Can goats eat mimosa?
-
-**Goats can eat mimosas. This is because their digestive systems are able to break down the plant's tough fibers.**
-
-**Mimosa has a high nutritional content, which makes it a good [food for goats](/can-sheep-eat-goat-food/). They are also known to enjoy the taste of the leaves.**
 
 In addition, goats are known to eat the bark and seeds of the mimosa tree. However, they should not eat the flowers or fruit of the tree.
 

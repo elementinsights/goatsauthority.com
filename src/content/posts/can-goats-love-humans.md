@@ -11,7 +11,7 @@ imageAlt: "Can Goats Love Humans?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can love humans. In fact, they are very social creatures and enjoy the company of their human caregivers. They also form strong bonds with other goats and can be very affectionate towards them and their human companions, even forming friendships with other animals."
+  text: "Goats can love humans. In fact, they are very social creatures and enjoy the company of their human caregivers."
 toc:
   - label: "Can goats love humans?"
     href: "#can-goats-love-humans"
@@ -43,10 +43,6 @@ You may be wondering if goats can love humans or not. And if so, what are the th
 In this article, we will answer the question of whether goats can love humans. We will also provide some tips and facts that you need to know if you are planning to get a goat as a pet.
 
 ## Can goats love humans?
-
-**Goats can love humans. In fact, they are very social creatures and enjoy the company of their human caregivers.**
-
-**They also form strong bonds with other goats and can be very affectionate towards them and their human companions, even forming friendships with other animals.**
 
 In addition, [goats are very curious creatures](/can-goats-be-tamed/) and love to explore their surroundings. They are also very intelligent and can [learn tricks](/can-goats-find-truffles/) and manners quickly.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Kohlrabi?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat kohlrabi. This root vegetable is part of the cabbage family and is a good source of vitamins C and B6, potassium, and fiber. Kohlrabi is also low in calories and fat."
+  text: "Goats can eat kohlrabi. This root vegetable is part of the cabbage family and is a good source of vitamins C and B6, potassium, and fiber."
 toc:
   - label: "Can goats eat kohlrabi?"
     href: "#can-goats-eat-kohlrabi"
@@ -46,10 +46,6 @@ So, can goats eat kohlrabi?
 In this article, we will answer that question and provide you with more information on the [benefits and hazards of feeding kohlrabi to goats](/can-goats-milk-be-frozen/) as well as the appropriate serving size.
 
 ## Can goats eat kohlrabi?
-
-**Goats can eat kohlrabi. This root vegetable is part of the cabbage family and is a good source of vitamins C and B6, potassium, and fiber.**
-
-**Kohlrabi is also low in calories and fat. Goats also have a four-chamber stomach that allows them to digest plant matter.**
 
 In addition, kohlrabi leaves are also safe for goats to eat. These greens are rich in vitamins A and C, as well as calcium and iron.
 

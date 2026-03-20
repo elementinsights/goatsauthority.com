@@ -11,7 +11,7 @@ imageAlt: "Can I Suture My Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection. They are also less likely to have an adverse reaction to the anesthesia."
+  text: "You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection."
 toc:
   - label: "Can I suture my goat?"
     href: "#can-i-suture-my-goat"
@@ -47,10 +47,6 @@ And if so, what are the [things you need to consider](/can-a-dog-get-sick-from-a
 In this article, we’ll answer all your questions about suturing goats, so you can make the best decision for your furry friend.
 
 ## Can I suture my goat?
-
-**You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection.**
-
-**They are also less likely to have an adverse reaction to the anesthesia.**
 
 Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the [suturing process](/can-i-give-my-goat-vicodin-for-pain/).
 

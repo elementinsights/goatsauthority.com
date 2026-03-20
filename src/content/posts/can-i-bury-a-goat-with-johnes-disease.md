@@ -11,7 +11,7 @@ imageAlt: "Can I Bury A Goat With Johne's Disease?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can bury a goat with Johne's disease. In fact, it is the recommended method of disposing of a goat with Johne's disease. The reason for this is that Johne's disease is a contagious disease, and burying the goat will help to prevent the spread of the disease."
+  text: "You can bury a goat with Johne's disease. In fact, it is the recommended method of disposing of a goat with Johne's disease."
 toc:
   - label: "Can you bury a goat with Johne's disease?"
     href: "#can-you-bury-a-goat-with-johnes-disease"
@@ -47,10 +47,6 @@ And you may be wondering if you can bury a goat with Johne's disease.
 In this article, we will discuss everything you need to know about Johne's disease in goats, including how it is transmitted and if you can bury a goat with the disease.
 
 ## Can you bury a goat with Johne's disease?
-
-**You can bury a goat with Johne's disease. In fact, it is the recommended method of disposing of a goat with Johne's disease.**
-
-**The reason for this is that Johne's disease is a contagious disease, and burying the goat will help to prevent the spread of the disease.**
 
 When burying a [goat with Johne's disease](/can-goats-carry-distemper/), it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
 

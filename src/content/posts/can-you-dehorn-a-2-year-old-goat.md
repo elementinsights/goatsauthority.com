@@ -48,8 +48,6 @@ In this article, we will answer all of your questions about dehorning a 2 year o
 
 ## Can you dehorn a 2 year old goat?
 
-**You can dehorn a 2-year-old goat as long as it is healthy and the horns are not too big. If the horns are too big, it may be difficult to remove them without causing injury to the goat, and it is not recommended.**
-
 In addition, you should only [dehorn a goat](/can-you-disbud-a-goat-without-medication/) if absolutely necessary, as it is a painful procedure. If you do decide to dehorn your goat, be sure to use [pain management](/can-i-give-my-goat-vicodin-for-pain/) techniques, such as local anesthesia, to minimize the pain and discomfort for your goat.
 
 ## What are the benefits of dehorning a 2 year old goat?

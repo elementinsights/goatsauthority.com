@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Dairy?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat dairy products. In fact, they are often used in the dairy industry to produce milk and cheese. Dairy products are an important part of a goat's diet and can provide them with essential nutrients."
+  text: "Goats can eat dairy products. In fact, they are often used in the dairy industry to produce milk and cheese."
 toc:
   - label: "Can goats eat dairy?"
     href: "#can-goats-eat-dairy"
@@ -45,10 +45,6 @@ Many people are unsure whether goats can eat dairy products or not. And if so, w
 This article will explore the topic in depth, including the benefits of goats eating dairy, as well as some FAQs about the matter.
 
 ## Can goats eat dairy?
-
-**Goats can eat dairy products. In fact, they are often used in the dairy industry to produce milk and cheese.**
-
-**Dairy products are an important part of a goat's diet and can provide them with essential nutrients. They are also a good source of energy for goats.**
 
 However, it's important to note that not all dairy products are suitable for goats. For example, Goat's milk is much higher in fat than cow's milk and so it should be fed in moderation.
 

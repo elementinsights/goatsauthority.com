@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Form An Udder Without Being Pregnant?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy. It can be caused by a hormonal imbalance, stress, or even just coming into contact with a baby goat."
+  text: "A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy."
 toc:
   - label: "Can a goat form an udder without being pregnant?"
     href: "#can-a-goat-form-an-udder-without-being-pregnant"
@@ -43,10 +43,6 @@ No one knows for sure. Goats are known for being able to [give birth](/how-many-
 Some people say that it's possible, while others believe that it's not. The jury is still out on this one.
 
 ## Can a goat form an udder without being pregnant?
-
-**A goat can form an udder without being pregnant. This is called pseudopregnancy or [false pregnancy](/can-a-goat-bag-up-without-being-pregnant/).**
-
-**It can be caused by a hormonal imbalance, stress, or even just coming into contact with a baby goat. The goat's brain is tricked into thinking it's pregnant and will start to produce milk.**
 
 The udder will swell just like it would if the goat was pregnant and about to give birth. Pseudopregnancy is not harmful to the goat and usually goes away on its own after a few weeks.
 

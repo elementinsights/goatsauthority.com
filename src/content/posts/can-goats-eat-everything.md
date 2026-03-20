@@ -48,8 +48,6 @@ Everything you need to know about goats and their food will be covered in this a
 
 ## Can goats eat everything?
 
-**[Goats cannot eat everything](/why-do-goats-eat-everything/) because they are herbivores. This means that their diet consists mainly of plants and there are also some things that they should avoid eating altogether, such as poisonous plants and small stones that could cause blockages in their digestive system.**
-
 Despite that, it's crucial to note that goats are known for their ability to eat almost anything due to their four-chambered stomachs. This digestive system allows them to break down plant matter more effectively than other animals, such as cows.
 
 ## What are the advantages of a goat's diet?

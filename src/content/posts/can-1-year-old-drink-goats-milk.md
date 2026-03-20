@@ -62,8 +62,6 @@ We'll go over the benefits and drawbacks of goat's milk for toddlers, as well as
 
 ## Can 1-year old drink goat's milk?
 
-**[Goat's milk](/can-dogs-drink-goat-milk-everyday/) is not always the best option for a young child, especially one who's just turned 1. Despite its reputation for being a more wholesome substitute for cow's milk, it's high in chloride, sodium, and potassium, which can put a strain on a 1-year-old's delicate kidneys.**
-
 Furthermore, [goat's milk](/can-sheep-drink-raw-goats-milk/) falls short in providing adequate amounts of vitamin C, an essential nutrient for a growing child's daily needs.
 
 ## Is Goat Milk Safe For Babies and Toddlers?

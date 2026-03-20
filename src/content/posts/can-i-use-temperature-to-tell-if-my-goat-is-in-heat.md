@@ -11,7 +11,7 @@ imageAlt: "Can I Use Temperature To Tell If My Goat Is In Heat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners. They are also relatively accurate when it comes to determining if a doe is in heat."
+  text: "You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners."
 toc:
   - label: "Can I use temperature to tell if my goat is in heat?"
     href: "#can-i-use-temperature-to-tell-if-my-goat-is-in-heat"
@@ -45,10 +45,6 @@ You may be wondering whether you can use temperature to tell if your goat is in 
 In this article, we will answer those questions and provide you with additional information regarding nursing your goat, including some frequently asked questions.
 
 ## Can I use temperature to tell if my goat is in heat?
-
-**You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners.**
-
-**They are also relatively accurate when it comes to determining if a doe is in heat.**
 
 In addition to taking your goat's temperature, you will also need to be on the lookout for other [signs and symptoms](/can-a-goat-get-rabies/) of heatstroke. These can include changes in behavior, such as restlessness, increased appetite, and excessive urination.
 

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Addicted to Human Urine?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "The addiction of goats to human urine is possible but uncommon. When the goat has no other water sources or is exposed to very salty human urine, addiction frequently develops."
+  text: "The addiction of goats to human urine is possible but uncommon. When the goat has no other water sources or is exposed to very salty human urine, addiction frequently develops.****While letting a goat drink human pee has no health hazards, we do not suggest it as a regular habit."
 toc:
   - label: "Can a goat get addicted to human urine?"
     href: "#can-a-goat-get-addicted-to-human-urine"
@@ -43,8 +43,6 @@ Are you wondering if can a goat get addicted to human urine? In this article, we
 Additionally, we will let you know if there are any health risks associated with letting a goat drink human urine.
 
 ## Can a goat get addicted to human urine?
-
-**The addiction of goats to human urine is possible but uncommon. When the goat has no other water sources or is exposed to very salty human urine, addiction frequently develops.****While letting a goat drink human pee has no health hazards, we do not suggest it as a regular habit.**
 
 Furthermore, if you have any other questions or concerns about goats, be sure to consult a professional.
 

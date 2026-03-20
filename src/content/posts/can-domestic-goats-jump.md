@@ -11,7 +11,7 @@ imageAlt: "Can Domestic Goats Jump?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Domestic goats can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground. They also have a strong sense of balance, which helps them to land on their feet after they have jumped."
+  text: "Domestic goats can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground."
 toc:
   - label: "Can domestic goats jump?"
     href: "#can-domestic-goats-jump"
@@ -49,10 +49,6 @@ One of the most common questions people ask about taking care of goats is: Can d
 In this article, we will answer all of your questions about whether or not domestic goats can jump and how high they can jump.
 
 ## Can domestic goats jump?
-
-**[Domestic goats](/can-i-eat-goat-legs-during-pregnancy/) can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground.**
-
-**They also have a strong sense of balance, which helps them to land on their feet after they have jumped.**
 
 However, it's important to note that not all goats enjoy jumping. Some goats may be timider and prefer to stay on the ground.
 

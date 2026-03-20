@@ -54,8 +54,6 @@ In this article, we will answer these questions and more so you can be sure your
 
 ## Can goats eat hedges?
 
-**Goats can eat hedges. Hedge is a [good source of nutrition for goats and can provide them with many benefits.](/can-goats-eat-applesauce/) Goats also enjoy eating hedges, so it can be a great way to keep them entertained and engaged, as well as provide them with a healthy snack.**
-
 Despite that, it's important to remember that goats are browsers, not grazers. This means that their diet should consist mostly of hay, with fresh browse (like hedges) making up a smaller portion.
 
 ## What are the benefits of goats eating hedges?

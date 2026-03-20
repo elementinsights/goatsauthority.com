@@ -11,7 +11,7 @@ imageAlt: "Can Sheep Drink Raw Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Sheep can drink raw goat's milk because they are both mammals. In fact, raw goat's milk is actually good for sheep. It is a source of nutrition that contains essential vitamins and minerals, as well as other benefits and nutrients that help keep sheep healthy."
+  text: "Sheep can drink raw goat's milk because they are both mammals. In fact, raw goat's milk is actually good for sheep."
 toc:
   - label: "Can sheep drink raw goats milk?"
     href: "#can-sheep-drink-raw-goats-milk"
@@ -50,10 +50,6 @@ And if so, what are the things you need to consider?
 In this article, we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
 
 ## Can sheep drink raw goats milk?
-
-**Sheep can drink raw goat's milk because they are both mammals. In fact, raw goat's milk is actually good for sheep.**
-
-**It is a source of nutrition that contains essential vitamins and minerals, as well as other benefits and nutrients that help keep sheep healthy.**
 
 In addition, raw goat's milk is easier for sheep to digest than cow's milk. This is because sheep have a different type of stomach than cows.
 

@@ -46,8 +46,6 @@ We will address all your questions in this article and provide you with addition
 
 ## Can I have a goat in Foothill Farms CA?
 
-**You can have a goat in Foothill Farms, CA because there are no laws or ordinances that prohibit goats. In fact, there are no animal control laws in the city.
-
 That said, you should still check with your homeowner's association to**see if they have any rules about goats.
 
 Even though there are no specific laws against owning goats, there are some things you need to consider before getting one. For example, goats need a lot of space to roam and graze.

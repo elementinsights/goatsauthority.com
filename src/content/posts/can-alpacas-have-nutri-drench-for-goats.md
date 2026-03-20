@@ -11,7 +11,7 @@ imageAlt: "Can Alpacas Have Nutri Drench for Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal. This is due to their long intestines, which extract a greater amount of nutrients from vegetation."
+  text: "Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal."
 toc:
   - label: "Can alpacas have Nutri Drench for goats?"
     href: "#can-alpacas-have-nutri-drench-for-goats"
@@ -45,10 +45,6 @@ You may be wondering if alpacas can have Nutri Drench for goats since they are b
 In this article, we will answer these questions for you, as well as provide you with more information on alpacas and their nutrient needs.
 
 ## Can alpacas have Nutri Drench for goats?
-
-**Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal.**
-
-**This is due to their long intestines, which extract a greater amount of nutrients from vegetation. Alpacas also have a four-chamber stomach that ferments food for longer.**
 
 However, it's important to note that alpacas should not have too much Nutri Drench. Too much of this supplement can lead to [obesity and other health problems](/can-goats-eat-pop-tarts/).
 

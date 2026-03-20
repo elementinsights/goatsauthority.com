@@ -48,8 +48,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can sheep and goats eat bread?
 
-**Sheep and goats can eat bread as long as it is not moldy and does not contain any harmful chemicals. Moldy bread can cause health problems for sheep and goats, so it is best to avoid giving them this type of food.**
-
 Furthermore, confirm that the bread doesn't incorporate any [poisonous chemicals](/can-goats-eat-chocolate/). A few chemicals can be fatal to sheep and goats, so it is essential to scrutinize the ingredients list before feeding them any bread.
 
 ## What are the benefits of feeding bread to sheep and goats?

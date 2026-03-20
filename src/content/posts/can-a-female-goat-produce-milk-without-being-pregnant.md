@@ -50,8 +50,6 @@ Let's take a closer look at the question and explore some of the related issues 
 
 ## Can a female goat produce milk without being pregnant?
 
-**it's possible for a female goat to produce milk without being pregnant, but its milk production will be lower than if they were pregnant. Goats typically have two peak milk production periods during their lactation cycle - early lactation and late lactation.**
-
 Early [lactation](/can-ibuprofen-be-given-to-lactating-goats/) is when goats are producing the most milk, and this generally occurs immediately after they give birth.
 
 Late lactation is when goats are producing less milk, and this typically occurs several weeks before they give birth to their next kid.

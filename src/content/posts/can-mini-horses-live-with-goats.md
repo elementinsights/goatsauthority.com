@@ -49,8 +49,6 @@ In this article, we will explore the possibility of keeping miniature horses wit
 
 ## Can mini horses live with goats?
 
-**Mini horses can live with goats without any problem as long as they have enough space. The two animals are very compatible because they are both social creatures that enjoy the company of others and they are similar in size.**
-
 On top of that, mini horses and goats are both very curious animals and they share a similar diet. However, it is important to note that mini horses are much cleaner than goats and they will need a separate area to sleep and eat.
 
 ## What are miniature horses and what do they look like?

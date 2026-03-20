@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Moldy Hay?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Moldy hay can be a real concern for goat owners. You might wonder if it’s safe to feed your goats this type of hay. The short answer is no, they should not eat moldy hay."
+  text: "Moldy hay can be a real concern for goat owners. You might wonder if it’s safe to feed your goats this type of hay."
 toc:
   - label: "Can Goats Safely Consume Moldy Hay?"
     href: "#can-goats-safely-consume-moldy-hay"
@@ -28,10 +28,6 @@ Is it safe for our hoofed friends or not? This might seem like an odd question, 
 Let’s talk more on this subject and see if we can clear things up.
 
 ## Can Goats Safely Consume Moldy Hay?
-
-**Moldy hay can be a real concern for goat owners. You might wonder if it’s safe to feed your goats this type of hay.**
-
-**The short answer is no, they should not eat moldy hay.**
 
 Goats are ruminants and have [complex digestive systems](/can-goats-digest-anything/). This system can handle many things but mold isn’t one of them.
 

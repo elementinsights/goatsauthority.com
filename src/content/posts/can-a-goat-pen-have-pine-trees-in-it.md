@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Pen Have Pine Trees in it?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats. They can also help keep the goats cool in the summer and warm in the winter, as well as provide them with a place to play and exercise."
+  text: "It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats."
 toc:
   - label: "Can a goat pen have pine trees in it?"
     href: "#can-a-goat-pen-have-pine-trees-in-it"
@@ -45,10 +45,6 @@ it's difficult to determine whether you can have pine trees in a goat pen or not
 We will answer all of these questions for you so that you can be sure whether or not having pine trees in a goat pen is the right decision for your farm.
 
 ## Can a goat pen have pine trees in it?
-
-**It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats.**
-
-**They can also help keep the [goats cool in the summer and warm in the winter](/can-weather-affect-goats-poop/), as well as provide them with a place to play and exercise.**
 
 However, it's important to make sure that the [pine trees are not poisonous to goats](/can-pine-chips-be-used-as-bedding-for-goats/). Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
 

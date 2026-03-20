@@ -11,7 +11,7 @@ imageAlt: "Can a Saanen Goat Have Babies Year round?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A Saanen goat can have babies year-round. Because they are a dairy breed, they have been bred to produce milk year-round. Saanen goats also have a shorter gestation period than most other goat breeds, so they can have multiple births in a year."
+  text: "A Saanen goat can have babies year-round. Because they are a dairy breed, they have been bred to produce milk year-round."
 toc:
   - label: "Can a Saanen goat have babies year round?"
     href: "#can-a-saanen-goat-have-babies-year-round"
@@ -46,10 +46,6 @@ Can Saanen goats have babies year-round?
 In this article, we will answer that question, and we'll also give you some tips on how to care for your Saanen goat's health and wellbeing.
 
 ## Can a Saanen goat have babies year round?
-
-**A Saanen goat can have babies year-round. Because they are a dairy breed, they have been bred to produce milk year-round.**
-
-**Saanen goats also have a shorter gestation period than most other goat breeds, so they can have multiple births in a year.**
 
 However, it's important to note that [goats are seasonal breeders](/can-a-goat-get-pregnant-when-not-in-heat/). This means that their bodies are designed to [give birth](/can-i-use-vaseline-on-goat-birth/) during the spring and early summer months when food is plentiful.
 

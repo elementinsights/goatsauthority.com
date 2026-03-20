@@ -11,7 +11,7 @@ imageAlt: "Can Hoof Rot Kill A Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Hoof rot can kill a goat. If left untreated, hoof rot can cause sepsis, which is a life-threatening condition. In fact, hoof rot is one of the most common causes of death in goats and other livestock animals and can kill a goat within 48 hours."
+  text: "Hoof rot can kill a goat. If left untreated, hoof rot can cause sepsis, which is a life-threatening condition."
 toc:
   - label: "Can hoof rot kill a goat?"
     href: "#can-hoof-rot-kill-a-goat"
@@ -47,10 +47,6 @@ It is difficult to determine whether or not hoof rot can kill a goat. And if so,
 In this article, we will answer those questions and provide you with everything you need to know about hoof rot.
 
 ## Can hoof rot kill a goat?
-
-**Hoof rot can kill a goat. If left untreated, hoof rot can cause sepsis, which is a life-threatening condition.**
-
-**In fact, hoof rot is one of the most common causes of death in goats and other livestock animals and can kill a goat within 48 hours.**
 
 Hoof rot is caused by bacteria that invade the tissues of the hoof. The bacteria cause the tissue to break down, which can lead to infection.
 

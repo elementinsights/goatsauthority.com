@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cheese?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cheese, but in moderation. It’s not their usual diet and too much could upset their stomachs. They’re like us humans that way."
+  text: "Goats can eat cheese, but in moderation. It’s not their usual diet and too much could upset their stomachs."
 toc:
   - label: "Can Goats Eat Cheese?"
     href: "#can-goats-eat-cheese"
@@ -45,10 +45,6 @@ It’s not always easy to know what is safe for our four-legged friends. One com
 Is it okay for goats to munch on this dairy product? Let’s take a closer look at this interesting topic together.
 
 ## Can Goats Eat Cheese?
-
-**Goats can eat cheese, but in moderation. It’s not their usual diet and too much could upset their stomachs.**
-
-**They’re like us humans that way. Cheese is made from milk which goats naturally produce and consume.**
 
 ﻿
 

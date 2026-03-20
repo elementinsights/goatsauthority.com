@@ -11,7 +11,7 @@ imageAlt: "Can 8 Week Old Baby Goats Be in With Each Other?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "8 week old baby goats can be in with each other if they are of the same sex. Baby goats need to be around other goats to socialize. If you put two baby goats together that are of different sexes, they may try to mate and could hurt each other."
+  text: "8 week old baby goats can be in with each other if they are of the same sex. Baby goats need to be around other goats to socialize."
 toc:
   - label: "Can 8 Week Old Baby Goats Be in With Each Other?"
     href: "#can-8-week-old-baby-goats-be-in-with-each-other"
@@ -51,10 +51,6 @@ And if they can be around other goats, how many other goats can they be around?
 These are all valid questions, and ones that we’re going to answer for you. So if you’re wondering whether or not 8 week old baby goats can be in with each other, read on for everything you need to know.
 
 ## Can 8 Week Old Baby Goats Be in With Each Other?
-
-**8 week old baby goats can be in with each other if they are of the same sex. Baby goats need to be around other goats to socialize.**
-
-**If you put two baby goats together that are of different sexes, they may try to mate and could hurt each other.**
 
 So, if you have two baby goats that are both males or both females, you can put them together. But if you have a male and female goat, it’s best to [keep them separate](/can-goats-be-kept-in-the-house/).
 

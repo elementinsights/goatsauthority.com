@@ -11,7 +11,7 @@ imageAlt: "Can I Worm My Three Day Old Goat? (Healthcare Tips, Facts, FAQs, and 
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can worm your three-day-old goat. In fact, it’s recommended that you start worming on them as soon as possible. This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms."
+  text: "You can worm your three-day-old goat. In fact, it’s recommended that you start worming on them as soon as possible."
 toc:
   - label: "Can I worm my three day old goat?"
     href: "#can-i-worm-my-three-day-old-goat"
@@ -47,10 +47,6 @@ One way to do this is to worm them regularly. But you might be wondering, can I 
 In this article, we will answer those questions and provide you with additional information about goats and worming.
 
 ## Can I worm my three day old goat?
-
-**You can [worm your three-day-old goat](/can-goats-get-worms-from-acorns/). In fact, it’s recommended that you start worming on them as soon as possible.**
-
-**This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms.**
 
 There are many different types of [worming products](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat/) available on the market, so it’s important to speak with a goat expert to determine which one is best for your goat. They will also be able to advise you on how often to worm them.
 

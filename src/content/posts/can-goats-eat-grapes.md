@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Grapes?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are known for their diverse diet. But can goats eat grapes? Yes, they certainly can."
+  text: "Goats are known for their diverse diet. But can goats eat grapes?"
 toc:
   - label: "Can Goats Eat Grapes?"
     href: "#can-goats-eat-grapes"
@@ -50,12 +50,6 @@ It may surprise some people to learn the variety in a goat’s diet. Grapes are 
 Let’s find out together as we explore more on this topic.
 
 ## Can Goats Eat Grapes?
-
-**Goats are known for their diverse diet. But can goats eat grapes?**
-
-**Yes, they certainly can. Grapes are not harmful to goats in any way.**
-
-**However, moderation is key here.**
 
 Goats should not be fed too many grapes at once as it may [upset their stomachs](/can-alfalfa-pellets-cause-goats-to-bloat/) due to the high sugar content present in these fruits.
 

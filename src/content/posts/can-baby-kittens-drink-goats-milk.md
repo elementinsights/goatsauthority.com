@@ -11,7 +11,7 @@ imageAlt: "Can Baby Kittens Drink Goats Milk?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Baby kittens can drink goat's milk. In fact, it's often recommended by veterinarians as an alternative to cow's milk. Goat's milk is more easily digestible for kittens and contains more nutrients than cow's milk."
+  text: "Baby kittens can drink goat's milk. In fact, it's often recommended by veterinarians as an alternative to cow's milk."
 toc:
   - label: "Can baby kittens drink goats milk?"
     href: "#can-baby-kittens-drink-goats-milk"
@@ -45,10 +45,6 @@ When it comes to raising baby kittens, one of the most common questions people h
 We will answer all of those questions for you in this article, as well as give you some tips on how to care for your baby kittens.
 
 ## Can baby kittens drink goats milk?
-
-**Baby kittens can drink goat's milk. In fact, it's often recommended by veterinarians as an alternative to cow's milk.**
-
-**Goat's milk is more easily digestible for kittens and contains more nutrients than cow's milk. Goat's milk also has a higher fat content, which is important for growing kittens.**
 
 However, it's important to note that [goat's milk is not a replacement](/can-i-mix-goat-milk-replacer-with-cow-milk/) for kitten formula. Kittens should only [drink goat's milk as a supplement to their diet](/can-you-drink-raw-goat-milk-on-gaps-diet/).
 

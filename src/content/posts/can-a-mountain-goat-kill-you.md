@@ -11,7 +11,7 @@ imageAlt: "Can a Mountain Goat Kill You?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous. Mountain goats also have sharp horns that they can use to defend themselves and their territory, which can cause serious injuries."
+  text: "it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous."
 toc:
   - label: "Can a mountain goat kill you?"
     href: "#can-a-mountain-goat-kill-you"
@@ -49,10 +49,6 @@ Mountain goats are not your average backyard animal. They may look small and cut
 In this article, we will take a closer look at the mountain goat and explore some of the dangers they pose to humans. We'll also provide tips on how to stay safe around these animals.
 
 ## Can a mountain goat kill you?
-
-**it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous.**
-
-**Mountain goats also have sharp horns that they can use to [defend themselves](/can-goats-bite/) and their territory, which can cause serious injuries.**
 
 Despite that, it's very rare for mountain goats to attack humans. In most cases, they will only do so if they feel threatened or are trying to protect their young.
 

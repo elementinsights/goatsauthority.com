@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Alfalfa Hay?"
 readTime: "11 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can indeed eat alfalfa hay. It’s a type of feed that is high in protein, vitamins and minerals. This makes it good for their health."
+  text: "Goats can indeed eat alfalfa hay. It’s a type of feed that is high in protein, vitamins and minerals."
 toc:
   - label: "Can Goats Eat Alfalfa, and Is It the Best Feed for Them?"
     href: "#can-goats-eat-alfalfa-and-is-it-the-best-feed-for-them"
@@ -46,10 +46,6 @@ Can our four-legged friends safely consume it? It seems like an easy question bu
 Join me as we take a closer look into the diet of these interesting animals.
 
 ## Can Goats Eat Alfalfa, and Is It the Best Feed for Them?
-
-**Goats can indeed eat alfalfa hay. It’s a type of feed that is high in protein, vitamins and minerals.**
-
-**This makes it good for their health. However, it shouldn’t be the only thing they eat.**
 
 Goats need variety in their diet to stay healthy and happy.
 

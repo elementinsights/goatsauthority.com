@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Indian Tobacco Plants?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat Indian tobacco plants. In fact, the plant is actually quite nutritious for them. Tobacco plants are a good source of protein, fiber, and vitamins A, C, and E."
+  text: "Goats can safely eat Indian tobacco plants. In fact, the plant is actually quite nutritious for them."
 toc:
   - label: "Can goats eat Indian tobacco plants?"
     href: "#can-goats-eat-indian-tobacco-plants"
@@ -46,10 +46,6 @@ And if so, what are the nutritional facts, benefits, and FAQs?
 In this article, we will address all of your questions regarding goats and tobacco plants. We will also provide some helpful tips on how to keep your goats healthy and safe.
 
 ## Can goats eat Indian tobacco plants?
-
-**Goats can safely eat Indian tobacco plants. In fact, the plant is actually quite nutritious for them.**
-
-**Tobacco plants are a good source of protein, fiber, and vitamins A, C, and E. They can also help to keep your [goat's digestive system](/can-goats-digest-anything/) healthy.**
 
 Of course, as with any food, it's important to introduce tobacco plants slowly into your goat's diet. Start by giving them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), and then gradually increase the amount over time.
 

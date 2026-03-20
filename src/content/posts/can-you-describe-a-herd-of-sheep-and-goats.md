@@ -11,7 +11,7 @@ imageAlt: "Can You Describe A Herd Of Sheep And Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock. A flock is a group of animals that live together."
+  text: "You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock."
 toc:
   - label: "Can you describe a herd of sheep and goats?"
     href: "#can-you-describe-a-herd-of-sheep-and-goats"
@@ -47,10 +47,6 @@ You may be wondering if you can describe a herd of sheep and goats or not. And i
 In this article, we will answer your questions and give you some tips on how to describe a herd of sheep and goats. We will also provide some interesting facts about sheep and goats that you may not know.
 
 ## Can you describe a herd of sheep and goats?
-
-**You can describe a herd of sheep and goats. A herd of sheep and goats is called a flock.**
-
-**A flock is a group of animals that live together. Sheep and [goats are social animals](/can-i-mix-newborn-goats-and-older-goats/), and they live in flocks.**
 
 Flock and herd are not only words used to describe a group of sheep and goats but they can be applied more generally to any group of animals.
 

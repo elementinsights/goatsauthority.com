@@ -11,7 +11,7 @@ imageAlt: "Can Goats Actually Scream?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can scream. In fact, they're one of the few animals that can produce a high-pitched, loud noise that sounds very similar to a human scream. Goats also make other vocalizations, such as bleats, grunts, and hisses."
+  text: "Goats can scream. In fact, they're one of the few animals that can produce a high-pitched, loud noise that sounds very similar to a human scream."
 toc:
   - label: "Can goats actually scream?"
     href: "#can-goats-actually-scream"
@@ -46,10 +46,6 @@ So, it's only natural that you might wonder if goats can actually scream. And if
 Let's take a closer look at this question and find out everything you need to know about whether or not goats can scream in this article.
 
 ## Can goats actually scream?
-
-**Goats can scream. In fact, they're one of the few animals that can produce a high-pitched, loud noise that sounds very similar to a human scream.**
-
-**Goats also make other vocalizations, such as bleats, grunts, and hisses. But their screams are the most notable and disturbing.**
 
 Despite that, it's important to note that goats don't typically scream unless they are in distress or feeling threatened. So, if you hear your goat screaming, it's important to take notice and see if there's anything wrong.
 

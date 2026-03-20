@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Corn On The Cob?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat corn on the cob. As a matter of fact, corn on the cob is high in calories and a good source of carbs and fiber that can help goats’ overall health and well-being. And also, corn cobs can help goats with digestive problems."
+  text: "Goats can eat corn on the cob. As a matter of fact, corn on the cob is high in calories and a good source of carbs and fiber that can help goats’ overall health and well-being."
 toc:
   - label: "Can goats eat corn on the cob?"
     href: "#can-goats-eat-corn-on-the-cob"
@@ -45,10 +45,6 @@ The food of goats is a subject that interests a lot of people. Some individuals 
 The advantages, drawbacks, and serving size of corn on the cob for goats will all be covered in this article. We will also respond to some of the most common questions about this subject.
 
 ## Can goats eat corn on the cob?
-
-**Goats can eat corn on the cob. As a matter of fact, corn on the cob is high in calories and a good source of carbs and fiber that can help goats’ overall health and well-being.**
-
-**And also, corn cobs can help goats with digestive problems.**
 
 Moreover, corn on the cob is a good source of energy for active and working goats. However, since corn on the cob is high in [sugar](/can-goats-eat-gingerbread/), it should only be given to goats in moderation.
 

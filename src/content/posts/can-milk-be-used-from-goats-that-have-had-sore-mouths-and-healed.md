@@ -11,7 +11,7 @@ imageAlt: "Can Milk Be Used From Goats That Have Had Sore Mouths And Healed?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth. The main thing you need to consider is the quality of the milk."
+  text: "Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth."
 toc:
   - label: "Can milk be used from goats that have had sore mouths and healed?"
     href: "#can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed"
@@ -47,10 +47,6 @@ It is difficult to determine whether or not milk from a goat that has had a sore
 In this article, we will answer those questions and provide you with additional information on the topic. We will also share some tips on how to properly care for a goat with a sore mouth.
 
 ## Can milk be used from goats that have had sore mouths and healed?
-
-**Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth.**
-
-**The main thing you need to consider is the quality of the milk.**
 
 When a goat has a sore mouth, you should clean its udder and teats before milking it. This will help stop the infection from spreading.
 

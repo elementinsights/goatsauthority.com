@@ -11,7 +11,7 @@ imageAlt: "Can Benadryl Hurt a Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Benadryl can hurt a goat. The active ingredient in Benadryl, diphenhydramine, can be toxic to goats at high doses. Benadryl also has the potential to interact with other medications that your goat is taking and may cause side effects, such as dry mouth, constipation, and urinary retention."
+  text: "Benadryl can hurt a goat. The active ingredient in Benadryl, diphenhydramine, can be toxic to goats at high doses."
 toc:
   - label: "Can Benadryl hurt a goat?"
     href: "#can-benadryl-hurt-a-goat"
@@ -49,10 +49,6 @@ You may be wondering if it's safe to give your goat Benadryl or not. And if so, 
 In this article, we will answer all of your questions about giving Benadryl to goats, including the benefits and risks involved.
 
 ## Can Benadryl hurt a goat?
-
-**Benadryl can hurt a goat. The active ingredient in Benadryl, diphenhydramine, can be toxic to goats at high doses.**
-
-**Benadryl also has the [potential to interact](/can-a-plastic-bag-hurt-a-goat/) with other medications that your goat is taking and may cause side effects, such as dry mouth, constipation, and urinary retention.**
 
 Despite that, Benadryl can be helpful for goats in certain situations, such as when they are experiencing allergic reactions, bee stings, or travel sickness. When used correctly, the benefits of giving Benadryl to goats usually outweigh the risks.
 

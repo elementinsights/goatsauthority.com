@@ -11,7 +11,7 @@ imageAlt: "Can We Apply Goat Milk For Underarm Whitening?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use goat milk for underarm whitening. Goat milk contains lactic acid, which is an alpha-hydroxy acid (AHA) that can help to exfoliate the skin and improve its tone and texture. Lactic acid is also known to be effective in fading pigmentation and dark spots."
+  text: "You can use goat milk for underarm whitening. Goat milk contains lactic acid, which is an alpha-hydroxy acid (AHA) that can help to exfoliate the skin and improve its tone and texture."
 toc:
   - label: "Can we apply goat milk for underarm whitening?"
     href: "#can-we-apply-goat-milk-for-underarm-whitening"
@@ -45,10 +45,6 @@ You may be wondering whether you can use goat milk for underarm whitening or not
 In this article, we will answer those questions and provide you with additional information on goat milk and its benefits for skin care. We will also share some tips on how to use goat milk for underarm whitening.
 
 ## Can we apply goat milk for underarm whitening?
-
-**You can use goat milk for underarm whitening. Goat milk contains [lactic acid](/can-goat-milk-cause-acne/), which is an alpha-hydroxy acid (AHA) that can help to exfoliate the skin and improve its tone and texture.**
-
-**Lactic acid is also known to be effective in fading pigmentation and dark spots.**
 
 So, if you are looking for a natural and gentle way to whiten your underarms, goat milk may be a good option for you.
 

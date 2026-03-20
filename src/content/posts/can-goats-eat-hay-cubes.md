@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Hay Cubes?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats. They are easy to store and transport and they last longer than traditional hay."
+  text: "Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats."
 toc:
   - label: "Can goats eat hay cubes?"
     href: "#can-goats-eat-hay-cubes"
@@ -55,10 +55,6 @@ And if so, what are the benefits?
 In this article, we will answer all of your questions about feeding hay cubes to goats. We'll discuss the nutritional value of hay cubes, the benefits of feeding them to goats, and some common FAQs.
 
 ## Can goats eat hay cubes?
-
-**Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats.**
-
-**They are easy to store and transport and they last longer than traditional hay. Goats also find hay cubes to be more palatable than traditional hay.**
 
 However, it's important to note that hay cubes are not a replacement for a fresh browse. Goats should still have access to [fresh browse](/can-goats-eat-brush-in-winter/) if possible.
 

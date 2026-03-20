@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bamboo?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are known for their ability to eat a wide variety of plants. This leads many goat owners and farmers to wonder if goats can safely consume bamboo. The answer is yes, they can."
+  text: "Goats are known for their ability to eat a wide variety of plants. This leads many goat owners and farmers to wonder if goats can safely consume bamboo."
 toc:
   - label: "Can Goats Eat Bamboo?"
     href: "#can-goats-eat-bamboo"
@@ -42,10 +42,6 @@ Bamboo grows in my backyard and I’ve seen my goat eyeing it curiously. But can
 This question might seem simple at first glance, but there’s more to consider than you might think.
 
 ## Can Goats Eat Bamboo?
-
-**Goats are known for their ability to eat a wide variety of plants. This leads many goat owners and farmers to wonder if goats can safely consume bamboo.**
-
-**The answer is yes, they can.**
 
 Bamboo belongs to the grass family, making it similar in nature to what goats naturally graze on, such as [kentucky bluegrass](/can-goats-eat-kentucky-bluegrass/) and [timothy hay](/can-goats-eat-timothy-hay/). Goats find bamboo leaves particularly appetizing due its high nutrient content.
 

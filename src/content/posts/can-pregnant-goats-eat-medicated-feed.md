@@ -46,8 +46,6 @@ In this article, we will answer those questions about feeding medicated feed to 
 
 ## Can pregnant goats eat medicated feed?
 
-**Pregnant goats can consume medicated feeds. As long as the feed is labeled for goats and the amount is correct, Before administering any medication to your goats, including wormers and medicated feed but always check with your veterinarian to be sure it is secure and won't endanger the growing young.**
-
 When choosing a medicated feed for your pregnant goats, you need to consider the type of parasite that you are trying to control.
 
 Some common parasites that can affect goats are stomach worms, lungworms, [lice](/can-goat-lice-live-on-humans/), and mites. There are many different types of wormers and medicated feeds available, so be sure to ask your veterinarian or goat breeder for advice on which one is best for your situation.

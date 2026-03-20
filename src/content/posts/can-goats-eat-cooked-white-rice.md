@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked White Rice?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked white rice. In fact, they can eat most types of cooked rice, including brown and wild rice. Cooked white rice also has some health benefits for goats, such as being a good source of energy and providing essential nutrients."
+  text: "Goats can eat cooked white rice. In fact, they can eat most types of cooked rice, including brown and wild rice."
 toc:
   - label: "Can goats eat cooked white rice?"
     href: "#can-goats-eat-cooked-white-rice"
@@ -55,10 +55,6 @@ If so, what are the health advantages and nutritional details?
 In this article, we will answer those questions and provide more information about [goats and their eating habits](/can-a-goat-eat-sticker-bushes/).
 
 ## Can goats eat cooked white rice?
-
-**[Goats can eat cooked white rice](/can-goats-eat-cooked-pasta/). In fact, they can eat most types of cooked rice, including brown and wild rice.**
-
-**Cooked white rice also has some health benefits for goats, such as being a good source of energy and providing essential nutrients.**
 
 While cooked white rice is safe for goats to eat, there are a few things to keep in mind. [Goats should not eat large amounts of rice](/can-goats-eat-rice-bran/) at one time, as it can cause digestive issues. For a more fiber-rich grain alternative, consider feeding your goats [oats](/can-goats-eat-oats/).
 

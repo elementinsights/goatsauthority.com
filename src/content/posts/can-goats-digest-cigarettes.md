@@ -11,7 +11,7 @@ imageAlt: "Can Goats Digest Cigarettes?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything. They also have a four-chambered stomach that helps them break down their food, which includes cigarettes and other things that most people would not think of as food."
+  text: "Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything."
 toc:
   - label: "Can goats digest cigarettes?"
     href: "#can-goats-digest-cigarettes"
@@ -51,10 +51,6 @@ However, before you get goats, it's crucial to do your research. One important q
 In this article, we will answer those questions and provide you with more information about the [benefits and risks of feeding goats cigarettes](/can-goats-eat-chicken-feed/).
 
 ## Can goats digest cigarettes?
-
-**Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything.**
-
-**They also have a four-chambered stomach that helps them break down their food, which includes cigarettes and other things that most people would not think of as food.**
 
 However, it's important to note that just because goats can digest cigarettes does not mean that it's good for them. In fact, cigarettes are one of the worst [things you can give to a goat](/can-a-dog-get-sick-from-a-goat/).
 

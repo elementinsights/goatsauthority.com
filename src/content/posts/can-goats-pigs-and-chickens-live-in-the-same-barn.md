@@ -46,8 +46,6 @@ In this article, we will answer those questions and give you some tips on how to
 
 ## Can goats pigs and chickens live in the same barn?
 
-**Goats, pigs, and chickens can all live in the same barn as long as there is enough room for each animal to have its own space. The best way to achieve this is to [build separate pens or sections within the barn](/can-a-goat-barn-be-12x-2/) for each type of animal.**
-
 One thing to keep in mind is that [goats are notorious climbers](/can-goats-climb-fences/), so their pen will need to be tall enough to prevent them from escaping. Pigs are also very good at digging, so their pen will need to be buried a few feet underground or have a concrete floor to prevent them from tunneling out.
 
 Chickens are relatively easy to contain, but they will need a place to roost and lay their eggs. A simple chicken coop inside the barn will suffice.

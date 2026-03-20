@@ -11,7 +11,7 @@ imageAlt: "Can Goats Digest Cotton?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use. They also have a specially adapted liver that helps them detoxify plants that might be poisonous to other animals."
+  text: "Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use."
 toc:
   - label: "Can goats digest cotton?"
     href: "#can-goats-digest-cotton"
@@ -50,10 +50,6 @@ How do they digest food?
 In this article, we will explore the dietary habits of goats and answer all of your questions about their ability to digest cotton and other plants. We will also discuss some of the [benefits of having goats as pets](/can-benadryl-hurt-a-goat/) or farm animals.
 
 ## Can goats digest cotton?
-
-**Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use.**
-
-**They also have a specially adapted liver that helps them detoxify plants that might be poisonous to other animals.**
 
 However, it's important to note that just because [goats can eat something](/can-a-goat-eat-sticker-bushes/), doesn't mean that they should. Goats are browsers, not grazers like cows.
 

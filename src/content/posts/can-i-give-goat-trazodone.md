@@ -11,7 +11,7 @@ imageAlt: "Can I Give Goat Trazodone?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give goats trazodone. This medication is used to treat depression in humans, but it can also be used to treat anxiety in animals. It works by increasing the levels of serotonin in the brain, which has a calming effect."
+  text: "You can give goats trazodone. This medication is used to treat depression in humans, but it can also be used to treat anxiety in animals."
 toc:
   - label: "Can I give goat trazodone?"
     href: "#can-i-give-goat-trazodone"
@@ -49,10 +49,6 @@ One question that sometimes comes up is whether or not you can give a goat Trazo
 In this article, we will answer those questions and provide some tips on goat care. We will also give you some information on what Trazodone is and how it can help your goat.
 
 ## Can I give goat trazodone?
-
-**You can give goats trazodone. This medication is used to treat depression in humans, but it can also be used to treat anxiety in animals.**
-
-**It works by increasing the levels of serotonin in the brain, which has a calming effect.**
 
 The recommended dose for goats is 2.5 mg per kg body weight, given once daily. This can be increased to 5 mg per kg body weight if needed.
 

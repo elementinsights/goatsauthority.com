@@ -54,8 +54,6 @@ This article will provide you with the answer to that question as well as some a
 
 ## Can goats drink baby formula?
 
-**Goats can [drink baby formula because it contains the nutrients that they need](/can-baby-kittens-drink-goats-milk/). Goats also have a natural liking for sweet things, so the sweetness of the baby formula may make it more appealing to them and encourage them to drink more.**
-
 it's important to note, but, that baby formula is not a substitute for a fresh browse. [Goats still need to consume fresh leaves and plants](/can-goats-eat-any-plant/) in order to stay healthy.
 
 If you are unable to provide your goat with fresh browse, you should supplement their diet with hay or pasture.

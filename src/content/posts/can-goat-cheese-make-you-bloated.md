@@ -11,7 +11,7 @@ imageAlt: "Can Goat Cheese Make You Bloated?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible that goat cheese can make you bloated because it's high in fat. When you eat foods that are high in fat, it can slow down the digestion process and cause bloating. Goat cheese also contains a type of protein called casein, which can also cause bloating."
+  text: "it's possible that goat cheese can make you bloated because it's high in fat. When you eat foods that are high in fat, it can slow down the digestion process and cause bloating."
 toc:
   - label: "Can goat cheese make you bloated?"
     href: "#can-goat-cheese-make-you-bloated"
@@ -47,10 +47,6 @@ Many people are wondering if goat cheese can make you bloated or not. And if so,
 We’ll explain everything you need to know about goat cheese and bloating and answer all of your questions.
 
 ## Can goat cheese make you bloated?
-
-**it's possible that goat cheese can make you bloated because it's high in fat. When you eat foods that are high in fat, it can slow down the digestion process and cause bloating.**
-
-**Goat cheese also contains a type of protein called casein, which can also cause bloating.**
 
 However, it's important to note that not everyone will experience bloating after eating [goat cheese](/can-i-substitute-goat-cheese-for-feta-cheese/). It depends on your individual digestive system and how sensitive you are to dairy products.
 

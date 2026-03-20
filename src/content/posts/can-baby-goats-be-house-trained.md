@@ -48,8 +48,6 @@ We will address all of your concerns regarding housebreaking young goats in this
 
 ## Can baby goats be house trained?
 
-**You can successfully [house train a baby goat](/can-a-goat-be-housed-trained/). The process is similar to housebreaking any other animal, though it may take some extra patience since they are still learning and adjusting to their environment, much like a human toddler would.**
-
 However, it's important to keep in mind that even if you house train your goat, they will still have strong natural instincts to return to their herd and roam around.
 
 So, while they may be able to hold it in when they are inside, don't be surprised if they forget themselves and relieve themselves outdoors.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cranberries?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat cranberries? The answer is yes. Goats can safely consume these tart fruits without any health risks."
+  text: "Can goats eat cranberries? The answer is yes."
 toc:
   - label: "Can Goats Eat Cranberries?"
     href: "#can-goats-eat-cranberries"
@@ -50,10 +50,6 @@ Let’s look at this question together. It may seem simple, but it’s actually 
 So, can goats eat cranberries? Let’s find the answer.
 
 ## Can Goats Eat Cranberries?
-
-**Can goats eat cranberries? The answer is yes.**
-
-**Goats can safely consume these tart fruits without any health risks. Cranberries are rich in [antioxidants and vitamin C](/can-goats-eat-blueberries/), which benefit a goat’s overall health.**
 
 But remember to serve them in moderation. Too many cranberries might upset their stomachs due to the high acid content.
 

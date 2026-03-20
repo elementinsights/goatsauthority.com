@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Cloven Hooves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have cloven hooves, which means that their hooves are split into two toe parts. This is different from cows, which have a single hoof on each foot. Each goat hoof has a hard outer layer and a soft inner layer."
+  text: "Goats have cloven hooves, which means that their hooves are split into two toe parts. This is different from cows, which have a single hoof on each foot."
 toc:
   - label: "Do goats have cloven hooves?"
     href: "#do-goats-have-cloven-hooves"
@@ -48,10 +48,6 @@ But what about their feet? Do goats have cloven hooves?
 In this article, we will answer those questions and provide you with everything you need to know about goat hooves.
 
 ## Do goats have cloven hooves?
-
-**Goats have cloven hooves, which means that their hooves are split into two toe parts. This is different from cows, which have a single hoof on each foot.**
-
-**Each goat hoof has a hard outer layer and a soft inner layer.**
 
 The cloven hooves of goats provide them with good [traction](/do-goats-have-top-teeth/) and balance, which helps them to climb steep hills and mountains. They also help to protect the goat's foot from getting [injured](/can-a-goat-get-a-concussion/) on sharp rocks or other objects.
 

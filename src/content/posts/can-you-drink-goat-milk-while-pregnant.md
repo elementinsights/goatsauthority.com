@@ -11,7 +11,7 @@ imageAlt: "Can You Drink Goat Milk While Pregnant?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can drink goat milk while pregnant. Goat milk can be a great source of calcium and other essential nutrients that are important during pregnancy. It is also low in fat, cholesterol, and lactose levels, making it easier to digest than cow’s milk."
+  text: "You can drink goat milk while pregnant. Goat milk can be a great source of calcium and other essential nutrients that are important during pregnancy."
 toc:
   - label: "Can you drink goat milk while pregnant?"
     href: "#can-you-drink-goat-milk-while-pregnant"
@@ -45,10 +45,6 @@ Making sure you and your baby are healthy during pregnancy is crucial. One consi
 In this article, we will answer those questions and provide you with additional information about goat milk and its potential benefits. We will also discuss other factors that can affect your health while pregnant.
 
 ## Can you drink goat milk while pregnant?
-
-**You can drink goat milk while pregnant. Goat milk can be a great source of calcium and other essential nutrients that are important during pregnancy.**
-
-**It is also low in fat, cholesterol, and lactose levels, making it easier to digest than [cow’s milk](/can-goats-drink-cows-milk/).**
 
 On top of that, goat milk may contain higher levels of certain vitamins and minerals that are beneficial for pregnant women. These include Vitamin A, B vitamins, and essential fatty acids such as [Omega-3 and Omega-6](/can-i-give-my-goat-omegablume/).
 

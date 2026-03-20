@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Rice?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Rice is a very nutritious treat for all kinds of goats. Rice is delicious to goats and provides them with nutrients. Rice also contains vitamin B and minerals such as phosphorus and potassium, which are all essential for a goat's diet."
+  text: "Rice is a very nutritious treat for all kinds of goats. Rice is delicious to goats and provides them with nutrients."
 toc:
   - label: "Can goats eat rice?"
     href: "#can-goats-eat-rice"
@@ -53,10 +53,6 @@ But can rice be eaten by goats? And if so, what are the [benefits and risks](/ca
 This article will explore those questions and more.
 
 ## Can goats eat rice?
-
-**Rice is a very nutritious treat for all kinds of goats. Rice is delicious to goats and provides them with nutrients.**
-
-**Rice also contains vitamin B and minerals such as phosphorus and potassium, which are all essential for a goat's diet.**
 
 However, there are some risks to [feeding rice to goats](/can-goats-eat-cooked-white-rice/). Rice can contain high levels of arsenic, which can be poisonous to goats.
 

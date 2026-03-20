@@ -53,8 +53,6 @@ In this article, we will answer all of your questions about feeding kiwi to goat
 
 ## Can goats eat kiwi?
 
-**Kiwi is a type of fruit that is safe for goats to eat. As a matter of fact, kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health.**
-
 Despite that, it's important to note that kiwis are not a necessary part of a [goat's diet](/why-do-goats-eat-everything/) and should only be given as a treat in moderation.
 
 The biggest risk associated with feeding kiwi to goats is the potential for choking. This is because the seeds of the fruit can get lodged in a goat's throat.

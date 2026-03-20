@@ -48,8 +48,6 @@ In this article, we will answer those questions for you and [provide everything 
 
 ## Can you breed a 4yr old goat?
 
-**You can breed a 4-year-old goat as long as she is in good health and meets the minimum breeding and age requirements. The minimum breeding requirements for goats are that they are at least 18 months old, and have a body condition score of 4 out of 5.**
-
 As for the age requirements, it is best to breed [goats that are between 2 and 6 years old](/can-you-dehorn-a-2-year-old-goat/). This is because [younger goats have not fully matured yet](/can-a-female-goat-produce-milk-without-being-pregnant/) and may not produce healthy offspring.
 
 On top of that, [breeding goats that are too old](/can-you-breed-a-6-yr-old-goat-for-first-time/) can also lead to health problems for both the mother and her kids.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Recover From Polio Without Medication?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment. Make sure they have plenty of fresh water and food."
+  text: "Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment."
 toc:
   - label: "Can goats recover from polio without medication?"
     href: "#can-goats-recover-from-polio-without-medication"
@@ -51,10 +51,6 @@ This means that you will need to provide your goat with the best possible enviro
 In this article, we will answer this question and provide you with some tips on how to care for a goat with polio.
 
 ## Can goats recover from polio without medication?
-
-**Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment.**
-
-**Make sure they have plenty of fresh water and food.**
 
 However, it is important to note that there is no known cure for polio. So, while your goat may recover from the disease, they may still be susceptible to it in the future.
 

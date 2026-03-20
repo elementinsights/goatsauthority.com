@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Produce Milk But Also be a Pack Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes. Furthermore, because goats are less expensive than other animals such as cows or horses, many people choose to use them for both purposes."
+  text: "A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes."
 toc:
   - label: "Can a goat produce milk but also be a pack goat?"
     href: "#can-a-goat-produce-milk-but-also-be-a-pack-goat"
@@ -43,10 +43,6 @@ Many people are wondering if they can get milk from a goat and also use the goat
 We will answer all of your questions and provide some tips on how to get started in this article.
 
 ## Can a goat produce milk but also be a pack goat?
-
-**A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes.**
-
-**Furthermore, because [goats are less expensive](/can-you-buy-goat-milk-at-the-grocery-store/) than other animals such as cows or horses, many people choose to use them for both purposes.**
 
 Despite that, it's important to remember that not all goats are created equal. Some goats may be better at [producing milk](/can-you-drink-goat-milk-straight-from-goat/) while others may be better at being pack goats.
 

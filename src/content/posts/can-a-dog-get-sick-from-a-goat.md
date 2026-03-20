@@ -49,8 +49,6 @@ And also, we'll tell you how to choose the right dog breed for your goats, in ca
 
 ## Can a dog get sick from a goat?
 
-**It's possible for a dog to get sick from a goat, although it's not very common. This can happen if the dog comes into contact with the goat's saliva, if the dog has an open wound, or if the goat is sick itself.**
-
 Second, if the dog eats something that the goat has eaten, there's a chance that the dog could become ill. This could happen if the goat has been eating spoiled food or if the dog has a weak immune system.
 
 Finally, if the dog comes into contact with the goat's feces, there's a chance that the dog could contract an illness from the goat. This could happen if the feces are contaminated with bacteria or parasites.

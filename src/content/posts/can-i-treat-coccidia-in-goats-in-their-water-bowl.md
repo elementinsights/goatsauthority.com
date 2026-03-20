@@ -11,7 +11,7 @@ imageAlt: "Can I Treat Coccidia In Goats In Their Water Bowl?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can treat coccidia in goats by adding a medication to their water bowl. The most common medication used is sulfadimethoxine, also known as Albon. This medication will kill the coccidia in the goat's intestines and allow them to start absorbing nutrients from their food again."
+  text: "You can treat coccidia in goats by adding a medication to their water bowl. The most common medication used is sulfadimethoxine, also known as Albon."
 toc:
   - label: "Can I treat coccidia in goats in their water bowl?"
     href: "#can-i-treat-coccidia-in-goats-in-their-water-bowl"
@@ -48,10 +48,6 @@ Is adding something to the goat's water bowl enough to treat coccidia?
 In this article, we will answer those questions and more. We will discuss what coccidia are, the symptoms of coccidiosis in goats, and how to treat it effectively.
 
 ## Can I treat coccidia in goats in their water bowl?
-
-**You can treat coccidia in goats by adding a medication to their water bowl. The most common medication used is sulfadimethoxine, also known as Albon.**
-
-**This medication will kill the coccidia in the goat's intestines and allow them to start absorbing nutrients from their food again.**
 
 It is crucial to follow the instructions on the package carefully and make sure that the entire dose is given. If you are not sure how to treat coccidia in goats, you should consult your veterinarian.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Babies Have Goat's Yogurt?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Babies can have goat's yogurt as it's a nutritious food for them. Goat's milk is easy to digest and is packed with nutrients that are essential for a baby's growth and development. Babies also tend to be less allergic to goat's milk than cow's milk."
+  text: "Babies can have goat's yogurt as it's a nutritious food for them. Goat's milk is easy to digest and is packed with nutrients that are essential for a baby's growth and development."
 toc:
   - label: "Can babies have goat's yogurt?"
     href: "#can-babies-have-goats-yogurt"
@@ -47,10 +47,6 @@ Many parents are wondering if goat's yogurt is safe for their babies or not. And
 In this article, we will answer all your questions regarding goat's yogurt and whether or not it's suitable for your baby.
 
 ## Can babies have goat's yogurt?
-
-**Babies can have goat's yogurt as it's a nutritious food for them. Goat's milk is easy to digest and is [packed with nutrients that are essential for a baby's growth and development](/can-a-goat-produce-milk-but-also-be-a-pack-goat/).**
-
-**Babies also tend to be less allergic to goat's milk than cow's milk.**
 
 Despite that, there are a few things to keep in mind when [feeding goat](/can-a-goat-feed-quads/) yogurt to infants. Goat's milk is lower in fat than cow's milk, so it's crucial to choose a full-fat variety of goat's yogurt.
 

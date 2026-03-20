@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Be Housed Trained?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can be house trained using the same methods as you would train a dog. You'll need to have patience and consistency when training your goat. The most important step is to create a designated area for your goat to use as their bathroom."
+  text: "A goat can be house trained using the same methods as you would train a dog. You'll need to have patience and consistency when training your goat."
 toc:
   - label: "Can a goat be housed trained?"
     href: "#can-a-goat-be-housed-trained"
@@ -45,10 +45,6 @@ However, what should one do if they wish to keep a goat as a pet? Can they be [t
 Is it possible to breed them? We shall address these queries and others in this article.
 
 ## Can a goat be housed trained?
-
-**A goat can be [house trained](/can-baby-goats-be-house-trained/) using the same methods as you would train a dog. You'll need to have patience and consistency when training your goat.**
-
-**The most important step is to create a designated area for your goat to use as their bathroom.**
 
 This can be done by making a small pen outdoors or by putting a litter box inside. Once you have created their bathroom area, take your goat there frequently so they know that is where they are supposed to go to the bathroom.
 

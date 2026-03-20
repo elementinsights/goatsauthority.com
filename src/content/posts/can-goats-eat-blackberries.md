@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Blackberries?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat blackberries. These animals are known for their broad diet and they do enjoy a good berry feast. Blackberries fall into the category of safe foods for them."
+  text: "Yes, goats can eat blackberries. These animals are known for their broad diet and they do enjoy a good berry feast."
 toc:
   - label: "Can Goats Eat Blackberries?"
     href: "#can-goats-eat-blackberries"
@@ -36,10 +36,6 @@ Understanding the dietary needs of goats is important for their health. Let’s 
 It might surprise you.
 
 ## Can Goats Eat Blackberries?
-
-**Yes, goats can eat blackberries. These animals are known for their broad diet and they do enjoy a good berry feast.**
-
-**Blackberries fall into the category of safe foods for them.**
 
 Goats love variety in their meals. They’re like us humans in that way. In fact, [goats eat a wide variety of fruits](/can-goats-eat-blueberries/) and plants.
 

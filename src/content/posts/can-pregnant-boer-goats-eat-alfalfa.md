@@ -11,7 +11,7 @@ imageAlt: "Can Pregnant Boer Goats Eat Alfalfa?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Alfalfa is safe for pregnant Boer goats to consume. Alfalfa is actually a fantastic source of nutrients for pregnant goats. It contains a lot of calcium, which is important for creating strong bones and teeth."
+  text: "Alfalfa is safe for pregnant Boer goats to consume. Alfalfa is actually a fantastic source of nutrients for pregnant goats."
 toc:
   - label: "Can pregnant Boer goats eat alfalfa?"
     href: "#can-pregnant-boer-goats-eat-alfalfa"
@@ -48,10 +48,6 @@ So, the question remains - can pregnant Boer goats eat alfalfa?
 We will answer those questions in this article and provide you with additional information about alfalfa and its benefits for your goats.
 
 ## Can pregnant Boer goats eat alfalfa?
-
-**Alfalfa is safe for pregnant Boer goats to consume. Alfalfa is actually a fantastic source of nutrients for pregnant goats.**
-
-**It contains a lot of calcium, which is important for creating strong bones and teeth. Additionally, alfalfa is a wonderful source of protein, which the [newborn goat](/can-i-mix-newborn-goats-and-older-goats/) needs for growth.**
 
 Despite that, you should still be cautious when [feeding alfalfa to your goats](/can-a-goat-feed-quads/). Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume.
 

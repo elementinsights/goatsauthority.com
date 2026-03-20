@@ -11,7 +11,7 @@ imageAlt: "Can an Aggressive Goat be Fixed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "An aggressive goat can be fixed with the proper training. Because there are many different reasons for aggression, there's no one-size-fits-all solution. Goats are also very intelligent animals and can learn quickly, so with the right approach, your goat can be taught to become less aggressive."
+  text: "An aggressive goat can be fixed with the proper training. Because there are many different reasons for aggression, there's no one-size-fits-all solution."
 toc:
   - label: "Can an aggressive goat be fixed?"
     href: "#can-an-aggressive-goat-be-fixed"
@@ -43,10 +43,6 @@ There are many misconceptions about aggression and its causes. People often thin
 In this article, we will discuss what aggression is, what causes it, and how it can be corrected.
 
 ## Can an aggressive goat be fixed?
-
-**An aggressive goat can be fixed with the proper training. Because there are many different reasons for aggression, there's no one-size-fits-all solution.**
-
-**[Goats](/can-you-domesticate-a-goat/) are also very intelligent animals and can learn quickly, so with the right approach, your goat can be taught to become less aggressive.**
 
 However, it's important to note that not all aggression can be corrected. If a goat is aggressive due to a medical condition, such as a hormonal imbalance, then the aggression may not be able to be completely eliminated.
 

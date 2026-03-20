@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats In Warrenville?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have goats in Warrenville because there are no city ordinances that prohibit them. In fact, the city is quite welcoming to goats and other livestock. And also, the local zoning laws allow for the keeping of goats as well."
+  text: "You can have goats in Warrenville because there are no city ordinances that prohibit them. In fact, the city is quite welcoming to goats and other livestock."
 toc:
   - label: "Can I have goats in Warrenville?"
     href: "#can-i-have-goats-in-warrenville"
@@ -47,10 +47,6 @@ You may be wondering whether or not you can have goats in Warrenville. And if so
 In this article, we will answer those questions for you, as well as provide some tips and advice on how to care for goats.
 
 ## Can I have goats in Warrenville?
-
-**You can have goats in Warrenville because there are no city ordinances that prohibit them. In fact, the city is quite welcoming to goats and other livestock.**
-
-**And also, the local zoning laws allow for the keeping of goats as well.**
 
 However, there are a few [things you need to take into consideration before bringing goats](/can-a-dog-get-sick-from-a-goat/) into your Warrenville home, such as:
 

@@ -11,7 +11,7 @@ imageAlt: "Can Contact With Goats Cause Diarrhea in Humans?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Humans who come into contact with goats may develop diarrhea due to the bacteria that these animals carry. Campylobacter jejuni and Cryptosporidium parvum are the names of these microorganisms. Giardia lamblia and other parasites that cause diarrhea in people are also carried by goats."
+  text: "Humans who come into contact with goats may develop diarrhea due to the bacteria that these animals carry. Campylobacter jejuni and Cryptosporidium parvum are the names of these microorganisms."
 toc:
   - label: "Can contact with goats cause diarrhea in humans?"
     href: "#can-contact-with-goats-cause-diarrhea-in-humans"
@@ -49,10 +49,6 @@ You may be wondering if you can get diarrhea from goats or not. And if so, what 
 In this article, we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options.
 
 ## Can contact with goats cause diarrhea in humans?
-
-**Humans who come into contact with goats may develop diarrhea due to the bacteria that these animals carry. Campylobacter jejuni and Cryptosporidium parvum are the names of these microorganisms.**
-
-**Giardia lamblia and other parasites that cause diarrhea in people are also carried by goats.**
 
 However, it's important to remember that not all humans who come into contact with these animals will develop diarrhea. In fact, most people will not experience any symptoms at all.
 

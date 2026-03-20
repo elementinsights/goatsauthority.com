@@ -11,7 +11,7 @@ imageAlt: "Can Goats Spread Lice To Llamas?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot spread lice to llamas. Lice are host-specific, meaning they can only live on one type of animal. So, if a goat has lice, the lice will not be able to survive on a llama."
+  text: "Goats cannot spread lice to llamas. Lice are host-specific, meaning they can only live on one type of animal."
 toc:
   - label: "Can goats spread lice to llamas?"
     href: "#can-goats-spread-lice-to-llamas"
@@ -49,10 +49,6 @@ It is difficult to determine whether or not goats can spread lice to llamas. And
 In this article, we will answer those questions and provide you with some helpful tips. We will also let you know what to do if you think your llama may have lice.
 
 ## Can goats spread lice to llamas?
-
-**Goats cannot spread lice to llamas. Lice are host-specific, meaning they can only live on one type of animal.**
-
-**So, if a goat has lice, the lice will not be able to survive on a llama. They are also not capable of jumping from one animal to another.**
 
 However, it is possible for goats and llamas to share other [parasites](/can-goats-get-mites/), such as mites. Mites are not host-specific and can live on multiple types of animals.
 

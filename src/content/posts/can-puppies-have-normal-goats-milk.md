@@ -49,8 +49,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can puppies have normal goats milk?
 
-**Puppies can have normal goat's milk as long as it is given to them in moderation and as part of a well-rounded diet. It's crucial to note that goat's milk is higher in fat than cow's milk, so it should not be the only type of milk your puppy drinks.**
-
 Also, make sure to get whole milk rather than skimmed as puppies need the calories and fat for proper growth and development. If you're unsure about how much milk to give your puppy, speak to your veterinarian for guidance.
 
 ## What is goat milk and what are its benefits for puppies?

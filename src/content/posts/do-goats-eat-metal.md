@@ -11,7 +11,7 @@ imageAlt: "Do Goats Eat Metal?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Technically speaking, goats do eat metal. For the same reason, they will chew on anything else that isn’t food because they are curious and their teeth never stop growing. Goats will gnaw on something to keep their teeth continuously worn down."
+  text: "Technically speaking, goats do eat metal. For the same reason, they will chew on anything else that isn’t food because they are curious and their teeth never stop growing."
 toc:
   - label: "Do goats eat metal?"
     href: "#do-goats-eat-metal"
@@ -44,10 +44,6 @@ Can they eat metal?
 We will address all of your questions regarding goats and metal consumption in this article and help you better understand your furry friend's nutritional needs.
 
 ## Do goats eat metal?
-
-**Technically speaking, goats do eat metal. For the same reason, they will chew on anything else that isn’t food because they are curious and their [teeth never stop growing](/why-do-goats-eat-everything/).**
-
-**Goats will gnaw on something to keep their teeth continuously worn down.**
 
 However, it's important to note that goats should not be given metal objects to eat regularly. While chewing on metal objects can help keep their teeth healthy, it can also lead to health problems if the goats consume too much metal.
 

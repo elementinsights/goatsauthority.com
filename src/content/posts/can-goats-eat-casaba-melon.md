@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Casaba Melon?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat casaba melons. This fruit's a good source of vitamins A and C, as well as potassium, which are all nutrients that are beneficial for goats."
+  text: "Goats can eat casaba melons. This fruit's a good source of vitamins A and C, as well as potassium, which are all nutrients that are beneficial for goats.****Casaba melons also contain a small amount of protein, which is another nutrient that goats need in their diet****."
 toc:
   - label: "Can goats eat casaba melons?"
     href: "#can-goats-eat-casaba-melons"
@@ -47,8 +47,6 @@ It's your responsibility as a pet owner to ensure that your goat is receiving th
 In this article, we will answer the question, "Can goats eat casaba melon?" We'll also provide you with information on the nutritional value of casaba melons for goats, as well as any potential benefits or risks associated with feeding this fruit to your pet.
 
 ## Can goats eat casaba melons?
-
-**Goats can eat casaba melons. This fruit's a good source of vitamins A and C, as well as potassium, which are all nutrients that are beneficial for goats.****Casaba melons also contain a small amount of protein, which is another nutrient that goats need in their diet****.**
 
 The main concern when feeding casaba melons to goats is the seeds. Make sure to remove all of the seeds from the fruit before giving it to your goat, as they can cause digestive issues if ingested.
 

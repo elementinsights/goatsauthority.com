@@ -11,7 +11,7 @@ imageAlt: "Can Someone Get Cellulitis From A Goat With Mastitis?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can get cellulitis from a goat with mastitis because the same bacteria that cause mastitis can also cause cellulitis. Cellulitis is a skin infection caused by bacteria. The streptococcal or staphylococcal strains of bacteria are typically to blame and can be found on the skin of both humans and animals."
+  text: "You can get cellulitis from a goat with mastitis because the same bacteria that cause mastitis can also cause cellulitis. Cellulitis is a skin infection caused by bacteria."
 toc:
   - label: "Can someone get cellulitis from a goat with mastitis?"
     href: "#can-someone-get-cellulitis-from-a-goat-with-mastitis"
@@ -48,10 +48,6 @@ Here's what you need to know.
 In this article, we will answer those questions about cellulitis and goats with mastitis. We will also provide information on the symptoms, treatment, and prevention of cellulitis.
 
 ## Can someone get cellulitis from a goat with mastitis?
-
-**You can get cellulitis from a goat with mastitis because the same bacteria that cause mastitis can also cause cellulitis. Cellulitis is a skin infection caused by bacteria.**
-
-**The streptococcal or staphylococcal strains of bacteria are typically to blame and can be found on the skin of both humans and animals.**
 
 The bacteria that cause mastitis can enter the skin through cuts, scratches, or insect bites. They can also enter the body through open wounds.
 

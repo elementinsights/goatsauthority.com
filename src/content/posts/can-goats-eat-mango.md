@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Mango?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can indeed eat mangoes. This fruit is not only safe but also packed with nutrients that are good for them. Mangoes contain vitamins A, B6, C and E which help boost their immune system."
+  text: "Goats can indeed eat mangoes. This fruit is not only safe but also packed with nutrients that are good for them."
 toc:
   - label: "Can You Feed Mangoes to Goats?"
     href: "#can-you-feed-mangoes-to-goats"
@@ -46,10 +46,6 @@ Mangoes are one fruit that often sparks curiosity. Are they safe for our four-le
 Let’s take a closer look at this topic and find some answers together.
 
 ## Can You Feed Mangoes to Goats?
-
-**Goats can indeed eat mangoes. This fruit is not only safe but also packed with [nutrients that are good for them](/can-goats-eat-blueberries/).**
-
-**Mangoes contain vitamins A, B6, C and E which help boost their immune system. The fiber in the fruit aids digestion too.**
 
 However, there’s a catch. You should remove the pit before [feeding it to your goat](/can-goats-eat-peaches/) as it may cause choking or digestive blockage.
 

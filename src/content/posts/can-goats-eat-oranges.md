@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Oranges?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat oranges. This might come as a surprise to many goat owners. But it’s true."
+  text: "Yes, goats can eat oranges. This might come as a surprise to many goat owners."
 toc:
   - label: "Can Goats Eat Oranges?"
     href: "#can-goats-eat-oranges"
@@ -46,12 +46,6 @@ One question that comes up quite a bit is about oranges. Are these citrusy treat
 Let me share some insights based on my personal experience and research. This might help clear your doubts without getting too technical.
 
 ## Can Goats Eat Oranges?
-
-**Yes, goats can eat oranges. This might come as a surprise to many goat owners.**
-
-**But it’s true. Oranges are not harmful to your furry friends.**
-
-**In fact, they provide several health benefits for them too.**
 
 They’re rich in [vitamin C and other nutrients](/can-goats-eat-citrus-fruits/) that boost their immune system.
 

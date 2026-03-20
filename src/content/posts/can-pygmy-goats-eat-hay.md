@@ -11,7 +11,7 @@ imageAlt: "Can Pygmy Goats Eat Hay?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Pygmy goats can eat hay because it is a good source of fiber. In fact, hay is essential to the diet of all goats, including pygmy goats. While hay is not as nutritionally dense as fresh grass, it is a more consistent source of food for pygmy goats."
+  text: "Pygmy goats can eat hay because it is a good source of fiber. In fact, hay is essential to the diet of all goats, including pygmy goats."
 toc:
   - label: "Can pygmy goats eat hay?"
     href: "#can-pygmy-goats-eat-hay"
@@ -47,10 +47,6 @@ People who own pygmy goats often wonder if it's okay for them to eat hay. If so,
 In this article, we will answer those questions about whether pygmy goats can eat hay and what nutritional value it has for them. We will also provide some tips on how to choose the best hay for your pygmy goats.
 
 ## Can pygmy goats eat hay?
-
-**Pygmy goats can eat hay because it is a good source of fiber. In fact, hay is essential to the diet of all goats, including pygmy goats.**
-
-**While hay is not as nutritionally dense as fresh grass, it is a more consistent source of food for pygmy goats.**
 
 In addition to being a good source of fiber, hay also provides pygmy goats with essential vitamins and minerals. Hay is particularly high in calcium, which is important for the health of bones and teeth.
 

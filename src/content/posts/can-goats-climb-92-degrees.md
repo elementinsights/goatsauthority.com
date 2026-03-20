@@ -11,7 +11,7 @@ imageAlt: "Can Goats Climb 92 Degrees?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet. They also have a double-jointed ankle that allows for a greater range of motion."
+  text: "Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet."
 toc:
   - label: "Can goats climb 92 degrees?"
     href: "#can-goats-climb-92-degrees"
@@ -47,10 +47,6 @@ it's impossible to tell whether goats can climb 92 degrees, and you might ask ho
 We will answer a few of the most frequently asked questions regarding goats in this article. We'll talk about their functions, capabilities, and some unique information.
 
 ## Can goats climb 92 degrees?
-
-**Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet.**
-
-**They also have a double-jointed ankle that allows for a greater range of motion.**
 
 Despite that, there are some [things that goats can't do](/can-a-dog-get-sick-from-a-goat/). For example, they can't jump very high.
 

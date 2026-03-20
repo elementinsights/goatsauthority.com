@@ -45,8 +45,6 @@ In this article, we will answer all of your questions about goat lice and humans
 
 ## Can goat lice live on humans?
 
-**it's possible for goat lice to live on humans because they are not host-specific, meaning they will parasitize any mammal they can get to. Goat lice are also very small, making it easy for them to go unnoticed and crawl onto humans.**
-
 However, just because they can live on humans does not mean that they will. In fact, most lice prefer animals to humans and will only feed on human blood if there are no other options available.
 
 So, while it's technically possible for goat lice to live on humans, it's unlikely and not something you should worry about too much.

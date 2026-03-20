@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Gingerbread?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume gingerbread without any problem because it's not poisonous to them. Goats enjoy the taste of gingerbread because it's high in carbohydrates, which provides goats with energy. Goats also like the smell of gingerbread, so they will be attracted to it."
+  text: "Goats can consume gingerbread without any problem because it's not poisonous to them. Goats enjoy the taste of gingerbread because it's high in carbohydrates, which provides goats with energy."
 toc:
   - label: "Can goats eat gingerbread?"
     href: "#can-goats-eat-gingerbread"
@@ -53,10 +53,6 @@ And if so, what are the nutritional benefits, risks, and FAQs?
 In this article, we will answer all of your questions about [feeding gingerbread to goats](/can-a-goat-feed-quads/). We'll discuss the nutritional content of gingerbread and whether or not it's a good idea to feed this [holiday treat](/can-goats-have-peppermint-treats/) to your furry friends.
 
 ## Can goats eat gingerbread?
-
-**Goats can consume gingerbread without any problem because it's not poisonous to them. Goats enjoy the taste of gingerbread because it's high in carbohydrates, which provides goats with energy.**
-
-**Goats also like the smell of gingerbread, so they will be attracted to it.**
 
 However, you should not give your goats too much gingerbread because it's high in sugar and [can cause digestive problems](/can-alfalfa-pellets-cause-goats-to-bloat/). It's also a good idea to avoid [feeding gingerbread to kids or pregnant goats](/can-pregnant-goats-eat-medicated-feed/) since it can interfere with their development.
 

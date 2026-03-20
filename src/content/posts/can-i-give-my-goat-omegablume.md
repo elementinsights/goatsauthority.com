@@ -11,7 +11,7 @@ imageAlt: "Can I Give My Goat Omegablume?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give your goat Omegablume. In fact, it is a great source of essential nutrients like omega-3 fatty acids, vitamins, and minerals. It's also a natural anti-inflammatory, so it can help reduce inflammation in your goat's body and improve their health."
+  text: "You can give your goat Omegablume. In fact, it is a great source of essential nutrients like omega-3 fatty acids, vitamins, and minerals."
 toc:
   - label: "Can I give my goat Omegablume?"
     href: "#can-i-give-my-goat-omegablume"
@@ -48,10 +48,6 @@ In this article, we will answer those questions and more. We'll tell you all abo
 We'll also give you some helpful tips on how to incorporate Omegablumeinto your goats' diet.
 
 ## Can I give my goat Omegablume?
-
-**You can give your goat Omegablume. In fact, it is a great source of essential nutrients like omega-3 fatty acids, vitamins, and minerals.**
-
-**It's also a natural anti-inflammatory, so it can help reduce inflammation in your goat's body and improve their health.**
 
 In addition to its nutritional benefits, Omegablume is also a great natural dewormer. It can help get rid of parasites in your [goats' digestive system](/can-goats-digest-cigarettes/) and improve their gut health.
 

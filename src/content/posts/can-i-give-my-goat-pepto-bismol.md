@@ -50,8 +50,6 @@ We will answer all of your questions about giving Pepto Bismol to goats in this 
 
 ## Can I give my goat Pepto Bismol?
 
-**You can give your goat Pepto Bismol because it contains bismuth subsalicylate, which is [safe for goats to consume in small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). They can also benefit from the medication's anti-inflammatory and antacid properties and use it to treat stomach upsets, diarrhea, and gas.**
-
 However, you should only give your goat Pepto Bismol if they are actually experiencing [gastrointestinal distress](/can-too-much-field-time-cause-scours-in-goats/). If they are not exhibiting any symptoms, there is no need to give them the medication.
 
 Giving your goat too much Pepto Bismol can lead to constipation and other gastrointestinal problems. So, it's important to only give them the recommended dosage and to talk to a goat expert first if you are unsure about anything.

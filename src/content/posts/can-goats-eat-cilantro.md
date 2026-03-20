@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cilantro?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cilantro. It’s safe for them and they seem to enjoy it too. The herb is packed with vitamins A, C, and K which are beneficial for their health."
+  text: "Goats can eat cilantro. It’s safe for them and they seem to enjoy it too."
 toc:
   - label: "Can Goats Eat Cilantro?"
     href: "#can-goats-eat-cilantro"
@@ -56,10 +56,6 @@ Let’s take a closer look at this question and see if we can find an answer.
 Remember, every animal has different dietary needs so what works for one might not work for another. Keep reading to learn more about goats and their eating habits.
 
 ## Can Goats Eat Cilantro?
-
-**Goats can eat cilantro. It’s safe for them and they seem to enjoy it too.**
-
-**The herb is packed with vitamins A, C, and K which are beneficial for their health.**
 
 However, moderation is key when feeding goats cilantro. Too much of any food item could upset their stomachs or cause other issues. This is true for many foods, including [dandelions](/can-goats-eat-dandelions/).
 

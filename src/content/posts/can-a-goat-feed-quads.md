@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Feed Quads?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem. The number of teats on a goat does not determine how much milk she can produce."
+  text: "Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem."
 toc:
   - label: "Can a goat feed Quads?"
     href: "#can-a-goat-feed-quads"
@@ -45,10 +45,6 @@ One of the most frequent inquiries regarding goats is whether or not they can fe
 We shall delve into the subject of feeding goats in this article and respond to some of the most frequently posed queries.
 
 ## Can a goat feed Quads?
-
-**Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all [four babies](/how-many-babies-do-goats-have-at-a-time/) without any problem.**
-
-**The number of teats on a goat does not determine how much milk she can produce.**
 
 Some goats with just two teats can [produce more milk](/can-a-goat-bag-up-without-being-pregnant/) than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads.
 

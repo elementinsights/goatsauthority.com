@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Zucchini?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Zucchini is edible to goats. In fact, zucchini is a great source of vitamins and minerals like copper, potassium, vitamin A, and vitamin C. And also, it's a food with few calories and a lot of water, making it a fantastic way to keep your goat hydrated."
+  text: "Zucchini is edible to goats. In fact, zucchini is a great source of vitamins and minerals like copper, potassium, vitamin A, and vitamin C."
 toc:
   - label: "Can goats eat zucchini?"
     href: "#can-goats-eat-zucchini"
@@ -48,10 +48,6 @@ We will explore all the frequently asked questions here and answer them to the b
 Additionally, we'll provide some insights on how to properly introduce zucchini into your goat's diet and what the ideal serving size should be.
 
 ## Can goats eat zucchini?
-
-**Zucchini is edible to goats. In fact, zucchini is a great source of vitamins and minerals like copper, potassium, vitamin A, and vitamin C.**
-
-**And also, it's a food with few calories and a lot of water, making it a fantastic way to keep your goat hydrated.**
 
 To prevent stomach trouble, it's essential to introduce zucchini to your goat's [diet](/can-goats-eat-everything/) gradually, just like you would with any new meal. Offering a little amount at first, then progressively increasing it over time.
 

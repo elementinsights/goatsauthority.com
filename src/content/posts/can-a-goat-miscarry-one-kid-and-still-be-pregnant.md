@@ -44,8 +44,6 @@ We will explore the answer to this question and provide you with additional nurs
 
 ## Can a goat miscarry one kid and still be pregnant?
 
-**A doe (female goat) can indeed miscarry one kid and still be pregnant with another. If a doe (female goat) loses a single fetus early in the pregnancy, she will often carry the remaining fetus(es) to term and successfully give birth.**
-
 Despite that, there's no guarantee that a doe (female goat) will not miscarry all of her fetuses if she loses one early on in the pregnancy. It's important to consult with a goat expert if this occurs, as they will be able to better assess the situation and offer guidance on how to proceed.
 
 ## What to do if your goat has a miscarriage?

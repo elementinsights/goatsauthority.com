@@ -51,8 +51,6 @@ In this article, we will answer all of your questions regarding leaving goats ou
 
 ## Can a goat be left out for hours?
 
-**A goat can be left out for hours because it's an independent creature. Goats also don't need much sleep, so they can stay up for long periods of time and still be fine, as long as they have access to food and water.**
-
 However, it's important to note that goats are [social creatures](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting/). They thrive on companionship and may become lonely if left alone for too long.
 
 If you do need to leave your goat out for extended periods of time, consider putting them in a [pen with other goats](/can-a-goat-pen-have-pine-trees-in-it/) so they can socialize.

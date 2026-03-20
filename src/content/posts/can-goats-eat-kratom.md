@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Kratom?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat kratom, which can be added to their diet. Kratom is a good source of nutrition for goats. Kratom leaves contain vitamins A, B, C, and E as well as minerals such as potassium and magnesium, which are all essential for goats."
+  text: "Goats can eat kratom, which can be added to their diet. Kratom is a good source of nutrition for goats."
 toc:
   - label: "Can goats eat kratom?"
     href: "#can-goats-eat-kratom"
@@ -49,10 +49,6 @@ In this article, we will answer the question, "can goats eat kratom?" as well as
 We will also give you some tips on how to safely give kratom to goats if you decide that it's something you would like to try.
 
 ## Can goats eat kratom?
-
-**Goats can eat kratom, which can be added to their diet. Kratom is a good source of nutrition for goats.**
-
-**[Kratom leaves contain vitamins A, B, C, and E](/can-goats-eat-black-walnut-leaves/) as well as minerals such as potassium and magnesium, which are all essential for goats.**
 
 There are no known side effects of kratom in goats, but it's always best to consult with a goat expert before adding any new food to your goat's diet.
 

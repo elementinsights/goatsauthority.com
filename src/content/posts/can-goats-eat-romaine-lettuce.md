@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Romaine Lettuce?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat romaine lettuce. In fact, goats are known to be particularly fond of leafy greens like lettuce. Lettuce is a good source of vitamins and minerals for goats, and it can help to keep their digestive systems healthy."
+  text: "Goats can eat romaine lettuce. In fact, goats are known to be particularly fond of leafy greens like lettuce."
 toc:
   - label: "Can goats eat romaine lettuce?"
     href: "#can-goats-eat-romaine-lettuce"
@@ -51,10 +51,6 @@ it's commonly asked if goats can eat romaine lettuce, as goats are known to be c
 The answer to this question is not as simple as a yes or no, as there are both benefits and risks associated with feeding Romaine lettuce to goats.
 
 ## Can goats eat romaine lettuce?
-
-**Goats can eat romaine lettuce. In fact, goats are known to be particularly fond of leafy greens like lettuce.**
-
-**Lettuce is a good source of vitamins and minerals for goats, and it can help to keep their digestive systems healthy.**
 
 However, it's important to remember that goats are browsers, not grazers. This means that they should not be given large quantities of lettuce at once.
 

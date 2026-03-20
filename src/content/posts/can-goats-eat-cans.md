@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cans?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are known for their strong stomachs. Many people think they can eat anything, even cans. But is this really true?"
+  text: "Goats are known for their strong stomachs. Many people think they can eat anything, even cans."
 toc:
   - label: "Understanding Goat’s Diet: Can They Really Eat Cans?"
     href: "#understanding-goats-diet-can-they-really-eat-cans"
@@ -40,10 +40,6 @@ It’s an interesting question to ask because many of us believe what we see wit
 Understanding what our pets can eat is crucial for their health and well-being. Let’s find out the truth about goats eating cans together.
 
 ## Understanding Goat’s Diet: Can They Really Eat Cans?
-
-**Goats are known for their strong stomachs. Many people think they can eat anything, even cans.**
-
-**But is this really true? Let’s dive deeper into the goat’s diet.**
 
 The simple answer to ‘can goats eat cans’ is no. They cannot digest metal or plastic from a can.
 

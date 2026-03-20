@@ -11,7 +11,7 @@ imageAlt: "Can Goats Milk Be Frozen?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat's milk can be frozen. In fact, many people choose to freeze goat's milk in order to extend its shelf life. They are also able to maintain the quality and taste of the milk, which is important to many people."
+  text: "Goat's milk can be frozen. In fact, many people choose to freeze goat's milk in order to extend its shelf life."
 toc:
   - label: "Can goat's milk be frozen?"
     href: "#can-goats-milk-be-frozen"
@@ -47,10 +47,6 @@ In this article, we will address all of your questions about freezing goat's mil
 We'll also provide a handy FAQ section to help you make an informed decision about whether or not freezing [goat's milk](/can-baby-kittens-drink-goats-milk/) is right for you.
 
 ## Can goat's milk be frozen?
-
-**Goat's milk can be frozen. In fact, many people choose to freeze goat's milk in order to extend its shelf life.**
-
-**They are also able to maintain the quality and taste of the milk, which is important to many people.**
 
 On top of that, freezing goat's milk can be a convenient way to store it. You can thaw the milk when you need it and know that it will still be fresh and of high quality.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Wether Goats Be As Mean As Billy Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered. They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans."
+  text: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered."
 toc:
   - label: "Can wether goats be as mean as billy goats?"
     href: "#can-wether-goats-be-as-mean-as-billy-goats"
@@ -49,10 +49,6 @@ You may be wondering whether or not wether goats can be as mean as billy goats. 
 In this article, we will answer those questions and provide you with additional information about wether goats you may find useful.
 
 ## Can wether goats be as mean as billy goats?
-
-**Wether goats are as cruel as [Billy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/). In fact, they may even be more aggressive since they are not neutered.**
-
-**They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans.**
 
 In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to [jump over fences](/can-goats-be-tethered/).
 

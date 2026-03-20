@@ -11,7 +11,7 @@ imageAlt: "Can Mountain Goats Climb Cliffs?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Mountain goats are able to scale cliffs because of their powerful hooves and pointed claws. They can easily jump from one ledge to another because they are also incredibly nimble creatures. They are frequently utilized as a sign of power because of how well-known their prowess at scaling cliffs is."
+  text: "Mountain goats are able to scale cliffs because of their powerful hooves and pointed claws. They can easily jump from one ledge to another because they are also incredibly nimble creatures."
 toc:
   - label: "Can mountain goats climb cliffs?"
     href: "#can-mountain-goats-climb-cliffs"
@@ -52,10 +52,6 @@ And if so, how do they do it?
 In this article, we will answer those questions about [mountain goats](/can-a-mountain-goat-kill-you/) and their cliff-climbing abilities. We will also discuss the different mountain [goat climbing styles](/can-a-nubian-goat-climb-trees/) and how they are able to maintain their grip on the cliff face.
 
 ## Can mountain goats climb cliffs?
-
-**Mountain goats are able to scale cliffs because of their powerful hooves and pointed claws. They can easily jump from one ledge to another because they are also incredibly nimble creatures.**
-
-**They are frequently utilized as a sign of power because of how well-known their prowess at scaling cliffs is.**
 
 In addition to their physical abilities, mountain goats also have a good sense of balance. This is due to the fact that they have two extra hooves on each foot, which helps them grip the cliff face.
 

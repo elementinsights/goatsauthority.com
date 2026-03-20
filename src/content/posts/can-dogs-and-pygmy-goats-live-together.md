@@ -44,8 +44,6 @@ This article will provide all the information you need to know about whether dog
 
 ## Can dogs and pygmy goats live together?
 
-**Dogs and pygmy goats can live together because they are both social animals that enjoy the company of others. They are also both intelligent enough to understand basic commands and learn tricks, which can make training and living with them much easier.**
-
 Despite that, there are still some things to consider before getting both a dog and a [pygmy goat](/can-pygmy-goats-sleep-with-chickens/). One is that goats are browsers, meaning they like to nibble on leaves, twigs, and other plants.
 
 This can pose a problem if you have a dog that likes to chase after small animals or if your goat is constantly escaping its enclosure to eat your flowers.

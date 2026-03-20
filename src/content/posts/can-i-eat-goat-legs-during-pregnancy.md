@@ -11,7 +11,7 @@ imageAlt: "Can I Eat Goat Legs During Pregnancy?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can eat goat's legs during pregnancy without any problem because they are a source of protein. Protein is important for the development of the baby. Goat legs are also a good source of iron, which is important for preventing anemia during pregnancy."
+  text: "You can eat goat's legs during pregnancy without any problem because they are a source of protein. Protein is important for the development of the baby."
 toc:
   - label: "Can I eat goat legs during pregnancy?"
     href: "#can-i-eat-goat-legs-during-pregnancy"
@@ -46,10 +46,6 @@ Can you eat them while you’re pregnant?
 In this article, we will answer those questions and provide you with additional healthcare tips, facts, and FAQs about eating goat legs during pregnancy.
 
 ## Can I eat goat legs during pregnancy?
-
-**You can eat goat's legs during pregnancy without any problem because they are a source of protein. Protein is important for the development of the baby.**
-
-**Goat legs are also a good source of iron, which is important for preventing anemia during pregnancy.**
 
 In addition, goat legs are a good source of calcium, which is important for the development of the baby's bones and teeth.
 

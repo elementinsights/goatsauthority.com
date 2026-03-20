@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pumpkin Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats should not eat pumpkin leaves. Pumpkin leaves are poisonous to goats and can cause them to become very sick. Eating just a small amount of the leaves can lead to vomiting, diarrhea, and difficulty breathing."
+  text: "Goats should not eat pumpkin leaves. Pumpkin leaves are poisonous to goats and can cause them to become very sick."
 toc:
   - label: "Can goats eat pumpkin leaves?"
     href: "#can-goats-eat-pumpkin-leaves"
@@ -52,10 +52,6 @@ One common question that people ask is whether or not goats can eat pumpkin leav
 We will answer all of your questions about goats and pumpkin leaves in this article and provide you with everything you need to know.
 
 ## Can goats eat pumpkin leaves?
-
-**Goats should not eat pumpkin leaves. Pumpkin leaves are poisonous to goats and can cause them to become very sick.**
-
-**Eating just a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of the leaves can lead to vomiting, diarrhea, and difficulty breathing. In severe cases, it can even be fatal.**
 
 In addition to being poisonous, pumpkin leaves are also very sharp and can cause mouth injuries. If you have a goat that likes to nibble on [everything](/can-goats-eat-everything/), it's best to keep them away from pumpkin plants.
 

@@ -44,8 +44,6 @@ In this article, we will explore the answer to those questions and provide you w
 
 ## Can I mix goat milk with whey protein?
 
-**You can blend [goat milk and whey protein](/can-i-raise-goats-for-milk-protein/), but it is crucial to understand why you want to do so. If your intent is to build muscle mass, then you should mix goat milk and whey protein in a 2:1 ratio.**
-
 However, if you're trying to lose weight, then the mixture should be in a 1:1 proportion. Keep in mind that both [goat milk](/can-children-have-goat-milk-ayurveda/) and whey protein have different calorie counts.
 
 For example, one cup of whole goat milk has 168 calories while one cup of non-fat milk has 102 calories.

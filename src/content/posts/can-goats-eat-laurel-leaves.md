@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Laurel Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot eat laurel leaves. The reason for this is that laurel leaves contain a compound called grayanotoxin. This substance is poisonous to goats and can cause health problems if ingested in large quantities."
+  text: "Goats cannot eat laurel leaves. The reason for this is that laurel leaves contain a compound called grayanotoxin."
 toc:
   - label: "Can goats eat laurel leaves?"
     href: "#can-goats-eat-laurel-leaves"
@@ -48,10 +48,6 @@ They are also relatively easy to take care of, as they are resistant to diseases
 One question that goat owners often have is whether or not goats can eat laurel leaves. And if so, what are the nutritional benefits and any potential risks?
 
 ## Can goats eat laurel leaves?
-
-**Goats cannot eat laurel leaves. The reason for this is that laurel leaves contain a compound called grayanotoxin.**
-
-**This substance is poisonous to goats and can cause health problems if ingested in large quantities. Some of the symptoms that may be seen include weakness, paralysis, difficulty breathing, and even death.**
 
 While Laurel leaves may be off-limits for goats, there are plenty of other plants that they can enjoy. Some good options include [alfalfa](/can-goats-eat-alfalfa/), clover, and grass.
 

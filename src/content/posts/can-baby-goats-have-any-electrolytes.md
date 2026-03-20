@@ -11,7 +11,7 @@ imageAlt: "Can Baby Goats Have Any Electrolytes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Baby goats can have electrolytes. It's because they are essential for their survival. Without electrolytes, baby goats can become dehydrated and die."
+  text: "Baby goats can have electrolytes. It's because they are essential for their survival."
 toc:
   - label: "Can baby goats have any electrolytes?"
     href: "#can-baby-goats-have-any-electrolytes"
@@ -45,10 +45,6 @@ When it comes to baby goats, many people are curious about their health and what
 In this article, we'll explore the topic of electrolytes and baby goats and how they can benefit from them. We'll also provide some helpful tips on breeding your own baby goats.
 
 ## Can baby goats have any electrolytes?
-
-**Baby goats can have electrolytes. It's because they are essential for their survival.**
-
-**Without electrolytes, baby goats can become dehydrated and die. Electrolytes also help baby goats to absorb nutrients from their food and prevent them from becoming overheated.**
 
 However, it's important to note that not all baby goats will need electrolytes. For example, if a [baby goat](/can-baby-goats-be-house-trained/) is nursed by its mother, it will likely get all the electrolytes it needs from her milk.
 

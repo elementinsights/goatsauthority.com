@@ -48,8 +48,6 @@ Learn [tips for farmers who want to keep goats](/can-i-mix-newborn-goats-and-old
 
 ## Can I have goats in Monroe County NY?
 
-**It****is possible to keep goats as pets in Monroe County, NY**. While there are some limitations and regulations that must be followed in order for goats to thrive in this area, most people who own livestock find that goats make wonderful companion animals. 
-
 They are energetic, personable creatures that are easy to care for and love being around people. Plus, they can provide a valuable source of milk, meat, or wool, depending on the breed.
 
 Whether you live on a farm or in a city lot, keeping goats may be the perfect choice for you. So don't hesitate - if you're looking for friendly livestock that is sure to bring plenty of joy and satisfaction into your life, consider adding goats to your herd today

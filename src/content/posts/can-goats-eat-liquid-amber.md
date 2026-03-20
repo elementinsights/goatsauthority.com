@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Liquid Amber?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat liquid amber. This is because liquid amber is a type of tree sap that is high in sugar content. Goats love sugar and will often seek out sources of it in their environment."
+  text: "Goats can eat liquid amber. This is because liquid amber is a type of tree sap that is high in sugar content."
 toc:
   - label: "Can goats eat liquid amber?"
     href: "#can-goats-eat-liquid-amber"
@@ -46,10 +46,6 @@ Can they eat it? And if so, what are the benefits?
 In this article, we will answer all of your questions about whether or not goats can eat liquid amber. We'll also give you some information on the [benefits of this food for goats](/can-goats-eat-dog-food/).
 
 ## Can goats eat liquid amber?
-
-**Goats can eat liquid amber. This is because liquid amber is a type of tree sap that is high in sugar content.**
-
-**Goats love sugar and will often seek out sources of it in their environment. Goats' liquid amber is a good source of nutrition for goats.**
 
 In addition to being a good source of sugar, liquid amber is also high in other nutrients that are essential for goats. These include proteins, minerals, and vitamins.
 

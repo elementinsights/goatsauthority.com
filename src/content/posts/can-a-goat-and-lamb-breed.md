@@ -11,7 +11,7 @@ imageAlt: "Can a Goat and Lamb Breed?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates. This means that they are able to interbreed and produce fertile offspring."
+  text: "A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates."
 toc:
   - label: "Can a goat and lamb breed?"
     href: "#can-a-goat-and-lamb-breed"
@@ -45,10 +45,6 @@ Goat and lamb breeding is a topic on which many people have questions. We will d
 So if you're interested in breeding these animals or are simply curious about the process, read on!
 
 ## Can a goat and lamb breed?
-
-**A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates.**
-
-**This means that they are able to [interbreed](/can-a-goat-breed-with-sheep/) and produce fertile offspring. The most common hybrid of a goat and lamb is called a geep.**
 
 Geeps are born with some [characteristics of each parent species](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/), though they more closely resemble goats in appearance, despite that they are usually smaller than either parent species.
 

@@ -50,8 +50,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can male goats eat grain?
 
-**Male goats cannot eat grain because it is too high in protein and can cause them to develop urinary calculi. If you are feeding your male goat grain, you need to make sure that the grain is cooked and softened first.**
-
 In addition, you should only [feed your male goat a small amount of grain](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at a time. Too much grain can also lead to [digestive problems](/can-you-debloat-a-goat/) and weight gain.
 
 If you want to feed your male goat grain as part of a balanced diet, then cook and soften the grain first. Only give him a small amount at one time.

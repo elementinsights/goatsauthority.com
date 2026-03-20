@@ -11,7 +11,7 @@ imageAlt: "Can Alfalfa Pellets Cause Goats to Bloat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Alfalfa pellets can cause goats to bloat. Because of the high protein content in alfalfa pellets, goats can easily overeat and consume too much nitrogen. This can lead to a condition called ruminal acidosis, which can cause bloating, diarrhea, and even death."
+  text: "Alfalfa pellets can cause goats to bloat. Because of the high protein content in alfalfa pellets, goats can easily overeat and consume too much nitrogen."
 toc:
   - label: "Can alfalfa pellets cause goats to bloat?"
     href: "#can-alfalfa-pellets-cause-goats-to-bloat"
@@ -47,10 +47,6 @@ The feeding process of goats is quite a tricky thing to perfect. If you don't ge
 One of the things you need to be very careful about is what type of hay you feed your goats. In this article, we will explore the question: can alfalfa pellets cause goats to bloat?
 
 ## Can alfalfa pellets cause goats to bloat?
-
-**Alfalfa pellets can cause goats to bloat. Because of the high protein content in alfalfa pellets, goats can easily overeat and consume too much nitrogen.**
-
-**This can lead to a condition called ruminal acidosis, which can cause bloating, diarrhea, and even death.**
 
 Despite that, alfalfa pellets can be a part of a healthy diet for goats, as long as they are fed in moderation and mixed with other types of hay.
 

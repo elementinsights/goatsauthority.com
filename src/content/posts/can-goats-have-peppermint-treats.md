@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have Peppermint Treats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have peppermint treats in small moderation. In fact, peppermint may even have some health benefits for goats. Some goat owners use peppermint treats as a way to naturally repel insects."
+  text: "Goats can have peppermint treats in small moderation. In fact, peppermint may even have some health benefits for goats."
 toc:
   - label: "Can goats have peppermint treats?"
     href: "#can-goats-have-peppermint-treats"
@@ -47,10 +47,6 @@ You may be wondering whether or not your goats can have peppermint treats. And i
 In this article, we will answer all of your questions regarding goats and peppermint treats.
 
 ## Can goats have peppermint treats?
-
-**Goats can have peppermint treats in small moderation. In fact, peppermint may even have some [health benefits](/can-goats-eat-gum-tree-leaves/) for goats.**
-
-**Some goat owners use peppermint treats as a way to naturally repel insects. They are also known to help with digestion and can be helpful for treating respiratory infections.**
 
 In addition, peppermint treats can be a fun and tasty way to bond with your goats. However, it's crucial to only give them in moderation since too much mint can cause stomach upset.
 

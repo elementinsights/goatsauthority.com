@@ -11,7 +11,7 @@ imageAlt: "Can a Dairy Goats Udder Skin Have Varying Colors?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "The skin of a dairy goat's udder can vary in color. The most common colors are pink, black, and brown. However, udders can also be white, red, or spotted."
+  text: "The skin of a dairy goat's udder can vary in color. The most common colors are pink, black, and brown."
 toc:
   - label: "Can a dairy goats udder skin have varying colors?"
     href: "#can-a-dairy-goats-udder-skin-have-varying-colors"
@@ -58,10 +58,6 @@ And what are the reasons for varying udder skin colors?
 Lastly, we will also explore some frequently asked questions about dairy goats and more.
 
 ## Can a dairy goats udder skin have varying colors?
-
-**The skin of a dairy goat's udder can vary in color. The most common colors are pink, black, and brown.**
-
-**However, udders can also be white, red, or spotted. The color of the skin does not affect the [quality of the milk](/can-you-drink-milk-from-goats-with-mastitis/).**
 
 Dairy goats with lighter-colored udders may have slightly higher milk production than those with darker-colored udders. And also, this difference is not significant enough to be considered a major factor in choosing a dairy goat.
 

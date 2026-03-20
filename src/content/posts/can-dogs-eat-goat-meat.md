@@ -11,7 +11,7 @@ imageAlt: "Can Dogs Eat Goat Meat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Dogs can consume goat meat since it's a source of protein. Lean and tasting similar to lamb, goat flesh is also tender. Additionally, the omega-3 fatty acids found in goat meat are good for a dog's skin and coat."
+  text: "Dogs can consume goat meat since it's a source of protein. Lean and tasting similar to lamb, goat flesh is also tender."
 toc:
   - label: "Can dogs eat goat meat?"
     href: "#can-dogs-eat-goat-meat"
@@ -45,10 +45,6 @@ it's difficult to determine whether or not goat meat is safe for dogs. And if so
 In this article, we will answer all these questions so you can make an informed decision about whether or not to feed your dog goat meat.
 
 ## Can dogs eat goat meat?
-
-**[Dogs can consume goat meat since it's a source of protein](/can-a-goat-produce-milk-but-also-be-a-pack-goat/). Lean and tasting similar to lamb, goat flesh is also tender.**
-
-**Additionally, the omega-3 fatty acids found in goat meat are good for a dog's skin and coat.**
 
 Despite this, it's crucial to consult your veterinarian before giving your dog goat meat. Depending on your dog's health and nutritional requirements, they can advise you on whether or not goat meat is a healthy choice for them.
 

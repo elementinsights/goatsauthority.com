@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Onion Tops?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Onion tops are inedible to Goats. This is due to goats' inability to adequately digest onions. Goats may be poisoned by thiosulfate, a substance found in onions."
+  text: "Onion tops are inedible to Goats. This is due to goats' inability to adequately digest onions."
 toc:
   - label: "Can goats eat onion tops?"
     href: "#can-goats-eat-onion-tops"
@@ -48,10 +48,6 @@ What are the [things you need to know about feeding onion tops to goats](/can-a-
 We will answer all of your questions in this article and provide some valuable tips on how to properly incorporate onion tops into your goat's diet.
 
 ## Can goats eat onion tops?
-
-**Onion tops are [inedible to Goats](/can-goats-digest-anything/). This is due to goats' inability to adequately digest onions.**
-
-**Goats may be poisoned by thiosulfate, a substance found in onions. When onions are consumed by goats, the thiosulfate is not broken down but rather accumulates in the goat's body.**
 
 It's important to note that it's not just the onion tops that are dangerous for goats. All parts of the onion plant, including the bulb, leaves, and stem, are poisonous to goats.
 

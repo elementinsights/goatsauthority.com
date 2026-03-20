@@ -11,7 +11,7 @@ imageAlt: "Can You Breed A Half Brother And Sister Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It is possible to breed a half-brother and sister goat, but it is not recommended. This is because there is a higher chance of inbreeding occurring when breeding close relatives. They are also more likely to inherit any recessive genetic disorders that may be present in the family line."
+  text: "It is possible to breed a half-brother and sister goat, but it is not recommended. This is because there is a higher chance of inbreeding occurring when breeding close relatives."
 toc:
   - label: "Can you breed a half-brother and sister goat?"
     href: "#can-you-breed-a-half-brother-and-sister-goat"
@@ -50,10 +50,6 @@ So, what about line breeding? Can you breed a half-brother and sister goat?
 In this article, we'll discuss [line breeding](/can-you-breed-a-father-and-daughter-goat/), inbreeding, and some of the pros and cons to help you make the best decision for your herd.
 
 ## Can you breed a half-brother and sister goat?
-
-**It is possible to breed a half-brother and sister goat, but it is not recommended. This is because there is a higher chance of inbreeding occurring when breeding close relatives.**
-
-**They are also more likely to inherit any recessive genetic disorders that may be present in the family line.**
 
 In addition, when two [closely related animals](/can-you-breed-screaming-and-fainting-goats/) are bred, there is a higher chance of offspring being born with birth defects. This is due to the fact that close relatives are more likely to share the same genetic defects.
 

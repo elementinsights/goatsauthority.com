@@ -50,8 +50,6 @@ In this article, we will answer all of your questions regarding goats and Lyme d
 
 ## Can goats die from Lymes?
 
-**Goats can die from Lyme disease because it's a tick-borne disease. The bacteria Borrelia burgdorferi, which causes Lyme disease, is spread to animals by the bite of infected ticks, most frequently the deer tick and the Western black-legged tick.**
-
 Despite that, it's important to note that not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
 
 However, if a goat is not treated for Lyme disease, the infection can spread to the joints, heart, and [nervous system](/can-a-goat-get-a-concussion/), which can eventually lead to death.

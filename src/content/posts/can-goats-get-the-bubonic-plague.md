@@ -11,7 +11,7 @@ imageAlt: "Can Goats Get The Bubonic Plague?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get the bubonic plague because they are mammals. The bubonic plague is caused by the bacterium Yersinia pestis, which is found in rodents and their fleas. When an infected animal dies, its carcass can infect other animals that come into contact with it."
+  text: "Goats can get the bubonic plague because they are mammals. The bubonic plague is caused by the bacterium Yersinia pestis, which is found in rodents and their fleas."
 toc:
   - label: "Can goats get the bubonic plague?"
     href: "#can-goats-get-the-bubonic-plague"
@@ -43,10 +43,6 @@ You may be wondering whether or not goats can get the bubonic plague. And if so,
 We will answer all of your questions regarding goats and the bubonic plague in this article. And also we'll provide some tips on how to keep your goats healthy and safe from this disease.
 
 ## Can goats get the bubonic plague?
-
-**Goats can get the bubonic plague because they are mammals. The bubonic plague is caused by the bacterium Yersinia pestis, which is found in rodents and their fleas.**
-
-**When an infected animal dies, its carcass can infect other animals that come into contact with it.**
 
 If you live in an area where the bubonic plague is present, there are some [things you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/). First, you should get them vaccinated against the disease.
 

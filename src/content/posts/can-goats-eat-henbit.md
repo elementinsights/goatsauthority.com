@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Henbit?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat henbit. Henbit's a member of the mint family and its leaves are edible. This herb is high in protein and fiber, which makes it a good food source for goats."
+  text: "Goats can eat henbit. Henbit's a member of the mint family and its leaves are edible."
 toc:
   - label: "Can goats eat henbit?"
     href: "#can-goats-eat-henbit"
@@ -50,10 +50,6 @@ So, can goats eat henbit? And if so, what are the [benefits and nutrition facts]
 In this article, we will answer all of your questions regarding goats and henbit. We will also provide some [tips on how to properly feed your goats](/can-baking-soda-cause-urinary-issues-in-goats/) this herb.
 
 ## Can goats eat henbit?
-
-**Goats can eat henbit. Henbit's a member of the mint family and its leaves are edible.**
-
-**This herb is high in protein and fiber, which makes it a good [food source for goats](/can-sheep-eat-goat-food/). It's also rich in vitamins A and C.**
 
 However, it's important to note that henbit should only be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) in moderation. This is because [the herb can cause bloating and gas in goats](/can-alfalfa-pellets-cause-goats-to-bloat/) if they eat too much of it.
 

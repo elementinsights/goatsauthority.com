@@ -40,8 +40,6 @@ In this article, we will answer all your questions about strokes in goats, inclu
 
 ## Can goats have a stroke anemia?
 
-**Goats can have stroke anemia, which is a form of anemia that is [caused by a lack of oxygen to the brain](/can-contact-with-goats-cause-diarrhea-in-humans/). This can happen if the goat's heart is not able to pump enough blood to the brain and other organs.**
-
 In addition to stroke anemia, goats can also suffer from heart attacks, which are when the heart muscle is damaged due to a lack of blood flow.
 
 If you think that your goat may be suffering from a stroke or a [heart attack](/can-a-cdt-shot-kill-a-goat/), it is important to get them to a goat expert as soon as possible.

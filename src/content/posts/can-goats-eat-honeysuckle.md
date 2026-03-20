@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Honeysuckle?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat honeysuckle berries? This is a question many goat owners often ask. The simple answer is yes, but there’s more to it than just that."
+  text: "Can goats eat honeysuckle berries? This is a question many goat owners often ask."
 toc:
   - label: "Can Goats Eat Honeysuckle Berries?"
     href: "#can-goats-eat-honeysuckle-berries"
@@ -36,10 +36,6 @@ In my experience, what goats can or cannot eat is an important topic. After all,
 Let’s talk about whether honeysuckle is on the menu for them.
 
 ## Can Goats Eat Honeysuckle Berries?
-
-**Can goats eat honeysuckle berries? This is a question many goat owners often ask.**
-
-**The simple answer is yes, but there’s more to it than just that. Goats are known for their hearty appetites and adventurous taste buds.**
 
 They enjoy a [variety of plants](/can-goats-eat-any-plant/), including honeysuckle. But what about the berries?
 

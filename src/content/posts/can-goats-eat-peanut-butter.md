@@ -46,8 +46,6 @@ In this article, we will explore the possibility of [goats eating peanut butter]
 
 ## Can goats eat peanut butter?
 
-**Generally speaking, goats shouldn't consume peanut butter because it's high in fat and sugar and lacks the nutrients that goats require. Additionally, goats that consume too much peanut butter may gain weight and experience other health issues and digestive problems.**
-
 However, if you're determined to feed your goat peanut butter, do so in moderation and only as an occasional treat.
 
 ## Can a pregnant goat eat peanut butter?

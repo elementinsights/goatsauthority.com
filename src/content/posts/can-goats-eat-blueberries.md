@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Blueberries?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Blueberries are a tasty treat. But can goats eat them? The answer is yes, they can."
+  text: "Blueberries are a tasty treat. But can goats eat them?"
 toc:
   - label: "Can Goats Eat Blueberries?"
     href: "#can-goats-eat-blueberries"
@@ -44,12 +44,6 @@ It’s important to know what our furry friends can safely eat.
 Understanding the dietary needs of our pets is crucial for their health and well-being. Let’s explore whether or not we can add some juicy blueberries into their meals.
 
 ## Can Goats Eat Blueberries?
-
-**Blueberries are a tasty treat. But can goats eat them?**
-
-**The answer is yes, they can. Goats enjoy munching on blueberries and these fruits provide good nutrition too.**
-
-**It’s important to note that not all foods humans love are safe for goats.**
 
 However, blueberries aren’t one of those dangerous foods. They’re packed with vitamins like C and K which boost the [goat’s health](/can-goats-eat-kale/).
 

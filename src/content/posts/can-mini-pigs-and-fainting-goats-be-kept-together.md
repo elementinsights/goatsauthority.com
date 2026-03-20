@@ -11,7 +11,7 @@ imageAlt: "Can Mini Pigs And Fainting Goats Be Kept Together?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Mini pigs can live together with other animals, including fainting goats. In fact, they enjoy the company of other animals and may become lonely if they are the only animal in the home. They can also form strong bonds with their owners."
+  text: "Mini pigs can live together with other animals, including fainting goats. In fact, they enjoy the company of other animals and may become lonely if they are the only animal in the home."
 toc:
   - label: "Can mini pigs and fainting goats be kept together?"
     href: "#can-mini-pigs-and-fainting-goats-be-kept-together"
@@ -43,10 +43,6 @@ You may be wondering whether you can keep mini pigs and fainting goats together 
 In this article, we will answer those questions and provide you with additional information about these two popular farm animals.
 
 ## Can mini pigs and fainting goats be kept together?
-
-**Mini pigs can live together with other animals, including fainting goats. In fact, they enjoy the company of other animals and may become lonely if they are the only animal in the home.**
-
-**They can also form strong bonds with their owners.**
 
 That said, there are a few things you should keep in mind if you're planning on keeping mini pigs and fainting goats together.
 

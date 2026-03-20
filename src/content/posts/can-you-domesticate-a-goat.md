@@ -11,7 +11,7 @@ imageAlt: "Can You Domesticate A Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive. If you plan on keeping multiple goats, make sure the space you provide them is large enough for them to roam and play freely."
+  text: "You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive."
 toc:
   - label: "Can you domesticate a goat?"
     href: "#can-you-domesticate-a-goat"
@@ -48,10 +48,6 @@ And if so, what are the things you need to consider before you take the plunge?
 In this article, we will answer those questions about domesticating a goat and provide you with the information you need to make sure this is the right decision for you.
 
 ## Can you domesticate a goat?
-
-**You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive.**
-
-**If you plan on keeping multiple goats, make sure the space you provide them is large enough for them to roam and play freely.**
 
 In addition, goats need plenty of food, water, and space to exercise. A balanced diet is key to keeping your goat healthy and happy.
 

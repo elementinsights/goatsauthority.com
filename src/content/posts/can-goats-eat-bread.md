@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bread?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat bread. It’s not harmful to them in small amounts. However, it shouldn’t be their main food source."
+  text: "Yes, goats can eat bread. It’s not harmful to them in small amounts."
 toc:
   - label: "Can Goats Eat Bread?"
     href: "#can-goats-eat-bread"
@@ -48,10 +48,6 @@ I own goats and I’ve seen them munch away happily at many things. But, there w
 It made me wonder, is it safe for goats to eat bread? Let’s find out together in this article.
 
 ## Can Goats Eat Bread?
-
-**Yes, goats can eat bread. It’s not harmful to them in small amounts.**
-
-**However, it shouldn’t be their main food source. Bread lacks the essential nutrients that a goat needs for good health.**
 
 Too much bread may cause obesity and other health issues in goats. They need a balanced diet of [hay](/what-kind-of-hay-do-goats-eat/), grains, fruits and vegetables along with plenty of fresh water.
 

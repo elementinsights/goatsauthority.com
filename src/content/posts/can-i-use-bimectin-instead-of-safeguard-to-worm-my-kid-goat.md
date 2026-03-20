@@ -45,8 +45,6 @@ In this article, we will answer those questions and provide you with addition in
 
 ## Can I use bimectin instead of safeguard to worm my kid goat?
 
-**You can use Bimectin instead of safeguard to treat your kid goat as long as you follow the dosage and administration recommendations. Bimectin is an injectable wormer that is effective against a variety of parasites, including gastrointestinal roundworms.
-
 It can be given to**[goats as young as two weeks old](/can-8-week-old-baby-goats-be-in-with-each-other/).
 
 Bimectin is not only effective against bots, but it's also ideal for kid goats. Safeguard, however, while being an oral wormer itself, isn't as effective against bots.

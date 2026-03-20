@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Kept In The House?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Trending Products For Goats"
+  text: "Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be used as fertilizer."
 toc:
   - label: "Can goats be kept in the house?"
     href: "#can-goats-be-kept-in-the-house"
@@ -50,8 +50,6 @@ In this article, we will answer all of your questions about keeping goats in the
 **Trending Products For Goats**
 
 ## Can goats be kept in the house?
-
-**Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be [used as fertilizer](/can-goat-poop-be-used-as-fertilizer/).**
 
 However, it's important to note that goats are social animals and need to be [kept in pairs or groups](/can-8-week-old-baby-goats-be-in-with-each-other/). They also need access to grazing areas and should not be kept indoors all the time.
 

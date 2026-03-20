@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Kentucky Bluegrass?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume Kentucky bluegrass without any problem because it's not poisonous to them. In fact, this grass is actually quite nutritious for goats and can provide them with a good source of fiber, protein, and minerals. They are also known to enjoy the taste of Kentucky bluegrass."
+  text: "Goats can consume Kentucky bluegrass without any problem because it's not poisonous to them. In fact, this grass is actually quite nutritious for goats and can provide them with a good source of fiber, protein, and minerals."
 toc:
   - label: "Can goats eat Kentucky bluegrass?"
     href: "#can-goats-eat-kentucky-bluegrass"
@@ -47,10 +47,6 @@ You might be unsure whether it's okay for your goats to eat Kentucky bluegrass. 
 We will answer all of your questions in this article so that you can decide for yourself whether or not to feed Kentucky bluegrass to your goats.
 
 ## Can goats eat Kentucky bluegrass?
-
-**Goats can consume Kentucky bluegrass without any problem because it's not poisonous to them. In fact, this grass is actually quite nutritious for goats and can provide them with a good source of fiber, protein, and minerals.**
-
-**They are also known to enjoy the taste of Kentucky bluegrass.**
 
 However, it's important to note that Kentucky bluegrass is not a very nutrient-dense food source, so it should not be the only thing that goats eat. It's best to use this grass as a supplement to other, more nutritious foods in their diet.
 

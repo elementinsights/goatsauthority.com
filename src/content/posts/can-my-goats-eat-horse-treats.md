@@ -46,8 +46,6 @@ In this article, we'll cover the nutritional value and benefits of giving goats 
 
 ## Can my goats eat horse treats?
 
-**You can give your goats horse treats as long as they are healthy and not overweight. The main thing you need to consider is the sugar content in the treats, as too much sugar can lead to health problems for goats.**
-
 Despite their small size, goats are actually very [strong and hardy animals](/can-you-describe-a-herd-of-sheep-and-goats/). They're known for being able to eat just about anything, which is why they're often used as "trash collectors" on farms.
 
 However, this doesn't mean that you should give them just any old thing to eat.

@@ -49,10 +49,6 @@ In this article, we will answer this question in full detail. We will [also look
 
 ## Can a goat swim?
 
-**Goats can swim. In fact, they are pretty good swimmers.
-
-Goats are able to use their [strong front legs](/can-a-goat-pull-a-cart/) to paddle, and their long tails help them steer. They are also able to hold their breath for a long time, which comes in handy when they are swimming underwater**.
-
 However, there are some goats who do not like to swim and will avoid it if they can. If you have a goat who does not like to swim, you can try to encourage them by putting them in a shallow pool of water and letting them walk around.
 
 ## Do all goats swim?

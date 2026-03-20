@@ -11,7 +11,7 @@ imageAlt: "Can Any Diseases Spread from Swine to Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food. They also have similar physiology, which makes them susceptible to the same diseases and parasites."
+  text: "It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food."
 toc:
   - label: "Can any diseases spread from swine to goats?"
     href: "#can-any-diseases-spread-from-swine-to-goats"
@@ -48,10 +48,6 @@ One thing you'll want to ask yourself is whether or not any diseases can spread 
 In this article, we will answer that question and provide you with some more information on diseases that can be transmitted between animals.
 
 ## Can any diseases spread from swine to goats?
-
-**It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food.**
-
-**They also have similar physiology, which makes them susceptible to the same diseases and parasites.**
 
 it's important to remember, nevertheless, that not all diseases can be passed from one species to another. For instance, the extremely contagious viral disease foot-and-mouth disease affects animals with [cloven hooves](/do-goats-have-cloven-hooves/) like pigs, lambs, and cattle.
 

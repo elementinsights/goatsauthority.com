@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Good Eyesight?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have very good eyesight. Their eyes are among the most advanced in the animal kingdom. Goats have horizontal pupils, which gives them a wider field of view than other animals."
+  text: "Goats have very good eyesight. Their eyes are among the most advanced in the animal kingdom."
 toc:
   - label: "Do goats have good eyesight?"
     href: "#do-goats-have-good-eyesight"
@@ -48,10 +48,6 @@ Do they have good eyesight? What kind of things do they see when they look aroun
 In this article, we'll explore everything you need to know about goat vision.
 
 ## Do goats have good eyesight?
-
-**Goats have very good eyesight. Their eyes are among the most advanced in the animal kingdom.**
-
-**Goats have [horizontal pupils](/do-goats-have-cloven-hooves/), which gives them a wider field of view than other animals. They can also see in near-darkness and have excellent depth perception.**
 
 However, [goats](/do-goats-have-teeth/) don't see colors the way we do. They can only see blues and yellows.
 

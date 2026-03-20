@@ -11,7 +11,7 @@ imageAlt: "Can Goats Get Worms From Acorns?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats. Acorns also contain tannins, which are unpalatable to goats and other animals."
+  text: "Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats."
 toc:
   - label: "Can goats get worms from acorns?"
     href: "#can-goats-get-worms-from-acorns"
@@ -46,10 +46,6 @@ But can goats actually get worms from eating acorns? And if so, what are the sym
 In this article, we will answer the question, can goats get worms from acorns. We will also discuss the symptoms of worms in goats, and how to treat them.
 
 ## Can goats get worms from acorns?
-
-**Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats.**
-
-**Acorns also contain tannins, which are unpalatable to goats and other animals. Tannins have also been known to have anti-parasitic properties.**
 
 On top of that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when [goats were fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) a diet of 80% acorns, they did not develop any parasites.
 

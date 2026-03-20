@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Wheat Stalks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat wheat stalks as part of a balanced diet. Wheat stalks are an excellent source of nutrition for goats, providing them with essential vitamins and minerals. They are also a good source of fiber, which is important for goats' digestive health."
+  text: "Goats can safely eat wheat stalks as part of a balanced diet. Wheat stalks are an excellent source of nutrition for goats, providing them with essential vitamins and minerals."
 toc:
   - label: "Can goats eat wheat stalks?"
     href: "#can-goats-eat-wheat-stalks"
@@ -48,10 +48,6 @@ So, can goats eat wheat stalks?
 In this article, we will answer all of your questions regarding goats and wheat stalks. We will also explore the [nutrition facts and benefits of this food for goats](/can-sheep-eat-goat-food/).
 
 ## Can goats eat wheat stalks?
-
-**Goats can safely eat wheat stalks as part of a balanced diet. Wheat stalks are an excellent source of nutrition for goats, providing them with essential vitamins and minerals.**
-
-**They are also a good source of fiber, which is important for [goats' digestive health](/can-goats-digest-anything/).**
 
 In addition to being a healthy food for goats, wheat stalks are also a good source of fuel for their bodies. [Goats need a lot of energy to live and play](/can-dogs-and-pygmy-goats-live-together/), and wheat stalks can help provide them with the energy they need.
 

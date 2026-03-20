@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bones?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat bones. In fact, bones are a great source of nutrition for goats, providing them with calcium, phosphorus, and other essential minerals. Goat bones also help to keep goats' teeth healthy and clean and can provide relief from teething pain."
+  text: "Goats can eat bones. In fact, bones are a great source of nutrition for goats, providing them with calcium, phosphorus, and other essential minerals."
 toc:
   - label: "Can goats eat bones?"
     href: "#can-goats-eat-bones"
@@ -48,10 +48,6 @@ And if so, what are the benefits?
 In this article, we will answer all of your questions about [feeding bones to goats](/can-a-goat-feed-quads/), including the nutritional value of bones and whether or not there are any risks involved.
 
 ## Can goats eat bones?
-
-**Goats can eat bones. In fact, bones are a great source of nutrition for goats, providing them with calcium, phosphorus, and other essential minerals.**
-
-**Goat bones also help to keep goats' teeth healthy and clean and can provide relief from teething pain.**
 
 However, it's important to [feed bones to goats](/can-baking-soda-cause-urinary-issues-in-goats/) in moderation. Too many bones can cause constipation, so it's best to offer them as a treat rather than part of your goat's regular diet.
 

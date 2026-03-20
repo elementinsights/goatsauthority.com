@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peaches?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can indeed eat peaches. They find the sweet, juicy fruit very tasty. But remember to remove the pit first."
+  text: "Goats can indeed eat peaches. They find the sweet, juicy fruit very tasty."
 toc:
   - label: "Can Goats Eat Peaches?"
     href: "#can-goats-eat-peaches"
@@ -55,12 +55,6 @@ One question that pops up quite frequently is whether or not peaches are on the 
 But can goats really eat peaches? Let’s take some time to look into this interesting topic and learn more together.
 
 ## Can Goats Eat Peaches?
-
-**Goats can indeed eat peaches. They find the sweet, juicy fruit very tasty.**
-
-**But remember to remove the pit first. The peach pit is a choking hazard for goats.**
-
-**It’s also toxic because it contains small amounts of cyanide.**
 
 While this sounds scary, don’t worry too much. Goats are smart and usually avoid harmful food items on their own.
 

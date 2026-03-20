@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bologna?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat bologna because it's a low-fat, high-protein food. Bologna is also a good source of niacin, phosphorus, and zinc, which are essential nutrients for goats. Goats also enjoy the taste of bologna, so it's a good treat to give them."
+  text: "Goats can safely eat bologna because it's a low-fat, high-protein food. Bologna is also a good source of niacin, phosphorus, and zinc, which are essential nutrients for goats."
 toc:
   - label: "Can goats eat bologna?"
     href: "#can-goats-eat-bologna"
@@ -47,10 +47,6 @@ You may be wondering whether or not goats eat bologna. And if so, what are the b
 In this article, we will answer all of your questions about goats and bologna and provide you with all the information you need to know.
 
 ## Can goats eat bologna?
-
-**Goats can safely eat bologna because it's a low-fat, high-protein food. Bologna is also a good source of niacin, phosphorus, and zinc, which are essential nutrients for goats.**
-
-**Goats also enjoy the taste of bologna, so it's a good treat to give them.**
 
 However, it's important to [feed goats](/can-a-goat-feed-quads/) bologna in moderation because it's high in sodium and fat. Too much sodium and fat can lead to obesity and health problems in goats.
 

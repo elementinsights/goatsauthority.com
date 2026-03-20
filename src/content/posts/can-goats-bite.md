@@ -11,7 +11,7 @@ imageAlt: "Can Goats Bite?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can bite because they have incisor teeth in the front of their mouths, as well as molars in the back. These teeth are used for grinding up food, but they can also be used for biting. They also have strong jaw muscle that helps them to bite down hard."
+  text: "Goats can bite because they have incisor teeth in the front of their mouths, as well as molars in the back. These teeth are used for grinding up food, but they can also be used for biting."
 toc:
   - label: "Can goats bite?"
     href: "#can-goats-bite"
@@ -44,10 +44,6 @@ And if so, how to handle it.
 In this article, we will answer the question: can goats bite? We'll also provide some tips on how to deal with a biting goat and prevent future incidents.
 
 ## Can goats bite?
-
-**Goats can bite because they have incisor teeth in the front of their mouths, as well as molars in the back. These teeth are used for grinding up food, but they can also be used for biting.**
-
-**They also have strong jaw muscle that helps them to bite down hard.**
 
 While most goats won't bite unless they're provoked, there are some exceptions. For example, [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) (kids) will sometimes bite when they're playing.
 

@@ -47,8 +47,6 @@ We will address all of your questions regarding whether a black widow spider may
 
 ## Can black widow spider kill a goat?
 
-**A black widow spider can kill a goat, but it's very unlikely. The venom of a black widow is incredibly potent, and while it may not be lethal to an [adult goat](/can-i-use-kid-feeding-tube-to-drench-adult-goat/), it could potentially kill a kid or young goat.**
-
 However, it's important to remember that the size of the spider also matters. A young or small black widow spider is less likely to be able to [kill a goat](/can-a-mountain-goat-kill-you/), as their venom sacs are not fully developed.
 
 ## What factors would contribute to a black widow spider being able to kill a goat?

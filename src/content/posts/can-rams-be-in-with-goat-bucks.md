@@ -48,8 +48,6 @@ In this article, we will answer those questions about keeping rams and goat buck
 
 ## Can rams be in with goat bucks?
 
-**You can put a ram in with goat bucks as long as the bucks are castrated. If the bucks are not castrated, they will try to mate with the [female goats](/can-a-female-goat-produce-milk-without-being-pregnant/), and this could lead to injury or even death for both the buck and the doe.**
-
 In addition, you need to make sure that the bucks are big enough and strong enough to defend themselves against the ram. If they are not, then the ram will likely bully them and this could also lead to injury.
 
 Lastly, you should only put one ram in with a group of bucks. If you have more than one ram, they will fight each other for dominance and this could lead to serious injury or even death.

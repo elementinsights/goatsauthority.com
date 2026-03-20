@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Plums?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat plums. Plums are a good source of vitamin A and vitamin C, as well as fiber that can be essential to a goat's diet. Plums also contain potassium, which is a mineral that helps with muscle function and heart health."
+  text: "Goats can safely eat plums. Plums are a good source of vitamin A and vitamin C, as well as fiber that can be essential to a goat's diet."
 toc:
   - label: "Can goats eat plums?"
     href: "#can-goats-eat-plums"
@@ -52,10 +52,6 @@ And if so, are plums good for them?
 We will address these questions and more in this article and provide everything you need to know about goats and plums.
 
 ## Can goats eat plums?
-
-**Goats can safely eat plums. Plums are a good source of vitamin A and vitamin C, as well as fiber that can be essential to a goat's diet.**
-
-**Plums also contain potassium, which is a mineral that helps with muscle function and heart health.**
 
 However, it's important to note that plums should not make up the majority of a goat's diet. Goats should eat [hay](/what-kind-of-hay-do-goats-eat/), grass, and other greens as their main source of nutrition.
 

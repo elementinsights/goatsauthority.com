@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peanuts?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume peanuts. As a matter of fact, peanuts are high in vitamin B3, copper, manganese, and biotin. They are also a good source of protein and fat that can help keep your goats healthy and provide them with energy."
+  text: "Goats can consume peanuts. As a matter of fact, peanuts are high in vitamin B3, copper, manganese, and biotin."
 toc:
   - label: "Can goats eat peanuts?"
     href: "#can-goats-eat-peanuts"
@@ -47,10 +47,6 @@ Many people want to know if they may give peanuts to their goats. This article w
 We'll also address some often asked questions regarding giving peanuts to goats and provide some general guidelines for doing so.
 
 ## Can goats eat peanuts?
-
-**Goats can consume peanuts. As a matter of fact, peanuts are high in vitamin B3, copper, manganese, and biotin.**
-
-**They are also a good source of protein and fat that can help keep your goats healthy and provide them with energy.**
 
 However, it's important to note that peanuts are a [high-fat food](/can-goats-eat-sunflower-seeds/), so they should be given in moderation. Too much fat can lead to obesity and other health problems in goats.
 

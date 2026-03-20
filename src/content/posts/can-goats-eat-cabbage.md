@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cabbage?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cabbage and is a healthy addition to a goat's diet. Cabbage is high in Vitamins A, C as well as fiber and potassium. Cabbage also contains sulfur which has antibacterial properties."
+  text: "Goats can eat cabbage and is a healthy addition to a goat's diet. Cabbage is high in Vitamins A, C as well as fiber and potassium."
 toc:
   - label: "Can goats eat cabbage?"
     href: "#can-goats-eat-cabbage"
@@ -50,10 +50,6 @@ What are the risks? And how much should be served at once?
 This article will answer all of those questions and more.
 
 ## Can goats eat cabbage?
-
-**Goats can eat cabbage and is a healthy addition to a goat's diet. Cabbage is high in Vitamins A, C as well as fiber and potassium.**
-
-**Cabbage also contains sulfur which has antibacterial properties. For these reasons, cabbage is a healthy addition to a goat's diet.**
 
 Cabbage is a leafy green vegetable that is part of the Brassica genus. This genus also includes [broccoli](/can-goats-eat-broccoli/), Brussels sprouts, and [kale](/can-goats-eat-kale/).
 

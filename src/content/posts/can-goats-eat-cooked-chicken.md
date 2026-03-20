@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked Chicken?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked chicken because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium. They are also a source of essential amino acids such as leucine, isoleucine, and valine."
+  text: "Goats can eat cooked chicken because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium."
 toc:
   - label: "Can goats eat cooked chicken?"
     href: "#can-goats-eat-cooked-chicken"
@@ -47,10 +47,6 @@ You may be wondering if your goats can enjoy cooked chicken as part of their die
 In this article, we will answer all of your questions about feeding cooked chicken to goats. We'll cover the [nutrition facts](/can-goats-drink-juice/), and health benefits, and answer some frequently asked questions.
 
 ## Can goats eat cooked chicken?
-
-**[Goats can eat cooked chicken](/can-goats-eat-cooked-pasta/) because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium.**
-
-**They are also a source of essential amino acids such as leucine, isoleucine, and valine.**
 
 However, it's important to remember that [goats are herbivores and their digestive system is not designed to digest meat](/can-dogs-eat-goat-meat/). This means that they should only eat small amounts of cooked chicken as part of a balanced diet.
 

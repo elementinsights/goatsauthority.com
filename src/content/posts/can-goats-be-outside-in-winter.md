@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Outside In Winter?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Trending Products For Goats"
+  text: "Goats are actually quite tough creatures and can withstand colder temperatures because of their thick coat of fur. They are also able to find shelter from the cold by standing next to trees or rocks and using them as windbreaks."
 toc:
   - label: "Can goats be outside in winter?"
     href: "#can-goats-be-outside-in-winter"
@@ -49,8 +49,6 @@ In this article, we will explore everything you need to know about keeping your 
 **Trending Products For Goats**
 
 ## Can goats be outside in winter?
-
-**Goats are actually quite tough creatures and can withstand colder temperatures because of their thick coat of fur. They are also able to find shelter from the cold by standing next to trees or rocks and using them as windbreaks.**
 
 However, it's important to make sure that your goats have access to a warm, dry shelter where they can go to escape the cold and wet weather. This is especially important for kids and pregnant does.
 

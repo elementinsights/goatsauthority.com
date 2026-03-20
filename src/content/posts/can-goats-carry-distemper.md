@@ -52,8 +52,6 @@ In this article, we will answer all of your questions so that you can be informe
 
 ## Can goats carry distemper?
 
-**it's possible goats can carry distemper because they are susceptible to the same viruses that cause the disease in other animals. They are also able to [spread the disease to other animals](/can-goats-spread-lice-to-llamas/), including dogs and cats, through close contact.**
-
 Despite that, it's important to note that distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
 
 ## What is distemper and how does it spread?

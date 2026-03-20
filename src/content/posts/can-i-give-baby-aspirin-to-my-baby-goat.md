@@ -11,7 +11,7 @@ imageAlt: "Can I Give Baby Aspirin To My Baby Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give baby aspirin to your baby goat. Aspirin is a pain reliever and can also help reduce inflammation. In fact, aspirin is often used to treat conditions like arthritis and is even safe for baby goats, as long as you use the proper dosage."
+  text: "You can give baby aspirin to your baby goat. Aspirin is a pain reliever and can also help reduce inflammation."
 toc:
   - label: "Can I give baby aspirin to my baby goat?"
     href: "#can-i-give-baby-aspirin-to-my-baby-goat"
@@ -46,10 +46,6 @@ But what about giving aspirin to baby goats? Is it safe?
 In this article, we will answer the question: can I give baby aspirin to my baby goat? We will also provide everything you need to know about giving aspirin to your goat, including the proper dosage.
 
 ## Can I give baby aspirin to my baby goat?
-
-**You can give baby aspirin to your [baby goat](/can-a-toddler-catch-a-disease-from-a-baby-goat/). Aspirin is a pain reliever and can also help reduce inflammation.**
-
-**In fact, aspirin is often used to treat conditions like arthritis and is even safe for baby goats, as long as you use the proper dosage.**
 
 However, it is important to make sure you give the proper dosage. The recommended dose of aspirin for baby goats is 2-4 grains per 50 pounds of body weight.
 

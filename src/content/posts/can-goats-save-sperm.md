@@ -11,7 +11,7 @@ imageAlt: "Can Goats Save Sperm?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can save sperm. In fact, they are often used for this purpose in the livestock industry. Goats are able to store sperm for long periods of time without any negative effects."
+  text: "Goats can save sperm. In fact, they are often used for this purpose in the livestock industry."
 toc:
   - label: "Can goats save sperm?"
     href: "#can-goats-save-sperm"
@@ -49,10 +49,6 @@ You may be wondering whether or not goats can save sperm. And if so, what are th
 In this article, we will answer all of your questions regarding taking care of goat sperm and provide you with additional information that may be useful to know.
 
 ## Can goats save sperm?
-
-**Goats can save sperm. In fact, they are often used for this purpose in the livestock industry.**
-
-**Goats are able to store sperm for long periods of time without any negative effects. They can also be used to inseminate other animals, such as cows.**
 
 Despite that, it's important to note that not all goats are equally good at saving sperm. Some goats may be better at it than others.
 

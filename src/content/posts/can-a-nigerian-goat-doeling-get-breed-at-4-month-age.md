@@ -46,8 +46,6 @@ In this article, we will answer all of your questions regarding breeding Nigeria
 
 ## Can a nigerian goat doeling get breed at 4 month age?
 
-**A Nigerian goat doeling cannot successfully be bred until she reaches at least six months of age. At four months, she is still too young and her body is not yet ready to support a pregnancy, [give birth](/how-many-babies-do-goats-have-at-a-time/), and raise a kid.**
-
 So, while it may be tempting to breed your Nigerian Goat Doeling at 4 months old, it's best to wait until she is at least 6 months old before attempting to breed her.
 
 By doing so, you will help ensure a safer and healthier pregnancy for both your doeling and her offspring.

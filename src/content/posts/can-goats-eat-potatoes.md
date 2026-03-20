@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Potatoes?"
 readTime: "11 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Potatoes are a common food in many households. But, can goats eat potatoes? The short answer is yes."
+  text: "Potatoes are a common food in many households. But, can goats eat potatoes?"
 toc:
   - label: "Can Goats Eat Potatoes"
     href: "#can-goats-eat-potatoes"
@@ -50,12 +50,6 @@ Is it safe or not?
 We’ll look at this topic in detail next, but for now let’s just say the answer might surprise you.
 
 ## Can Goats Eat Potatoes
-
-**Potatoes are a common food in many households. But, can goats eat potatoes?**
-
-**The short answer is yes. Goats can eat potatoes but it’s not that simple.**
-
-**Firstly, the potato should be cooked before feeding to your goat.**
 
 Raw potatoes contain solanine which is harmful for them. It’s found mainly in green parts and sprouts of the [potato plant](/can-goats-eat-potato-shavings/).
 

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Bag Up Without Being Pregnant?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during pregnancy. Without pregnancy, there's no stimulus for the goat's body to produce milk-producing cells in the mammary glands."
+  text: "A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during pregnancy."
 toc:
   - label: "Can a goat bag up without being pregnant?"
     href: "#can-a-goat-bag-up-without-being-pregnant"
@@ -49,10 +49,6 @@ There are many myths about goats. We'll debunk some myths and answer the questio
 And also, we will explore the signs and symptoms of a goat in heat, as well as some frequently asked questions about goats.
 
 ## Can a goat bag up without being pregnant?
-
-**A goat cannot bag up without being pregnant. The development of mammary glands in preparation for lactation is triggered by hormones released during [pregnancy](/can-a-goat-form-an-udder-without-being-pregnant/).**
-
-**Without pregnancy, there's no stimulus for the goat's body to produce milk-producing cells in the mammary glands.**
 
 In addition, milk production requires energy and nutrients that are only available when a goat is nursing her young.
 

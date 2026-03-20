@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Mineral Salt Made For Cattle?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat mineral salt made for cattle. In fact, they need salt in their diet to help them properly digest their food and absorb nutrients. The only downside is that you will need to provide them with a larger amount of salt than what you give to your cattle."
+  text: "Goats can eat mineral salt made for cattle. In fact, they need salt in their diet to help them properly digest their food and absorb nutrients."
 toc:
   - label: "Can goats eat mineral salt made for cattle?"
     href: "#can-goats-eat-mineral-salt-made-for-cattle"
@@ -49,10 +49,6 @@ You may be wondering if your goats can enjoy the same mineral salt lick that you
 In this article, we will answer all of your questions related to feeding mineral salt to goats. We will also provide some valuable tips on how to properly introduce this supplement into their diet.
 
 ## Can goats eat mineral salt made for cattle?
-
-**Goats can eat mineral salt made for cattle. In fact, they need salt in their diet to help them properly digest their food and absorb nutrients.**
-
-**The only downside is that you will need to provide them with a larger amount of salt than what you give to your cattle.**
 
 In addition, goats are much more likely to overeat salt than cattle. This is because they have a higher sodium requirement per body weight than cattle.
 

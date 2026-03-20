@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Rabies?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals. But it's still important to be aware of the signs of rabies in goats, as the disease can be deadly."
+  text: "Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals."
 toc:
   - label: "Can a goat get rabies?"
     href: "#can-a-goat-get-rabies"
@@ -45,10 +45,6 @@ Goats are fascinating animals known for their independence and are frequently ut
 But there's one frequently asked question that has been asked since a long time ago: can a goat get [rabies](/can-any-diseases-spread-from-swine-to-goats/)? In this article, we will answer that question in detail, discussing the signs and symptoms of rabies in goats, how the disease is transmitted, and what treatments are available.
 
 ## Can a goat get rabies?
-
-**Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals.**
-
-**But it's still important to be aware of the signs of rabies in goats, as the disease can be deadly.**
 
 There are three main ways that a goat can contract rabies.
 

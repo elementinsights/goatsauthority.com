@@ -11,7 +11,7 @@ imageAlt: "Where Did Toggenburg Goats Originate?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain. The Toggenburg goat was first brought to America in 1904 by Mrs."
+  text: "Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain."
 toc:
   - label: "Where did Toggenburg goats originate?"
     href: "#where-did-toggenburg-goats-originate"
@@ -48,10 +48,6 @@ Where did Toggenburg goats originate?
 In this article, we will answer those questions for you and provide some additional information about these popular goats.
 
 ## Where did Toggenburg goats originate?
-
-**Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its [mountainous terrain](/can-mountain-goats-climb-cliffs/).**
-
-**The Toggenburg goat was first brought to America in 1904 by Mrs. E. Pardee of Ohio.**
 
 Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of [milk per day](/can-i-raise-goats-for-milk-protein/), which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
 

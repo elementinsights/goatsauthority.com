@@ -11,7 +11,7 @@ imageAlt: "Can A Goat Eat Too Many Dewormer Pellets?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages. Dewormer pellets also contain toxins that can be harmful to goats in large quantities."
+  text: "A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages."
 toc:
   - label: "Can a goat eat too many dewormer pellets?"
     href: "#can-a-goat-eat-too-many-dewormer-pellets"
@@ -49,10 +49,6 @@ Goats' digestive systems are pretty tough and you may be wondering if they can e
 In this article, we will answer all of your questions about feeding your goat dewormer pellets and provide you with some guidelines on serving size.
 
 ## Can a goat eat too many dewormer pellets?
-
-**A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages.**
-
-**Dewormer pellets also contain toxins that can be harmful to goats in large quantities.**
 
 However, it's important to note that [goats need to eat a certain amount of dewormer pellets](/can-postpartum-women-eat-goats/) in order to be effective. The number of dewormer pellets a goat needs to eat will depend on their weight and the type of dewormer being used.
 

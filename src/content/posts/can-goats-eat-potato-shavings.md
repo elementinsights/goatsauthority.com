@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Potato Shavings?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things. The main reason that goats can eat potato shavings is that their intestines are long."
+  text: "Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things."
 toc:
   - label: "Can goats eat potato shavings?"
     href: "#can-goats-eat-potato-shavings"
@@ -46,10 +46,6 @@ You might also be asking if goats can consume potato shavings. What specific inf
 In order for you to fully understand what goats can and cannot eat, we will address any of your questions about their nutrition. Additionally, we'll discuss why goats can eat potato shavings in this article.
 
 ## Can goats eat potato shavings?
-
-**Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things.**
-
-**The main reason that goats can eat potato shavings is that their intestines are long. This allows them to digest roughage better than other animals.**
 
 While goats can eat potato shavings, you should not give them too much. Too much of anything is not good for them, and this includes potato shavings.
 

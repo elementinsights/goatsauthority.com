@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Tomatoes?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat tomatoes. But let’s delve a bit deeper into this topic. Goats are known for their hearty appetites."
+  text: "Yes, goats can eat tomatoes. But let’s delve a bit deeper into this topic."
 toc:
   - label: "Can Goats Eat Tomatoes?"
     href: "#can-goats-eat-tomatoes"
@@ -51,10 +51,6 @@ One common question I hear is about goats and tomatoes. It might seem odd, but i
 So let’s get into it, can goats really eat tomatoes? Stick around to find out the answer that may surprise you.
 
 ## Can Goats Eat Tomatoes?
-
-**Yes, goats can eat tomatoes. But let’s delve a bit deeper into this topic.**
-
-**Goats are known for their hearty appetites. They will nibble on many things they find in the wild or around your farm.**
 
 However, not everything is good for them to consume.
 

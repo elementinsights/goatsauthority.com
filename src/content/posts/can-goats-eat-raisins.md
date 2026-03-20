@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Raisins?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume raisins. As a matter of fact, raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats. It also contains antioxidants, which can help protect goats from diseases and health problems."
+  text: "Goats can consume raisins. As a matter of fact, raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats."
 toc:
   - label: "Can goats eat raisins?"
     href: "#can-goats-eat-raisins"
@@ -47,10 +47,6 @@ When it comes to goats, there are many things that people want to know. One of t
 We will answer that question and also explore the benefits, risks, serving size, and FAQs of raisin consumption for goats in this article.
 
 ## Can goats eat raisins?
-
-**Goats can consume raisins. As a matter of fact, raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats.**
-
-**It also contains antioxidants, which can help protect goats from diseases and health problems.**
 
 However, while raisins are safe for goats to eat, they should only [consume them in moderation](/can-goats-eat-any-plant/). Too many raisins can cause diarrhea and other digestive issues in goats.
 

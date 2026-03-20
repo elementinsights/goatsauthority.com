@@ -11,7 +11,7 @@ imageAlt: "Can Weather Affect Goats Poop?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Weather can affect goats' poop. The most common way that weather impacts goat digestion is through changes in temperature. Hot weather can cause diarrhea, while cold weather can lead to constipation."
+  text: "Weather can affect goats' poop. The most common way that weather impacts goat digestion is through changes in temperature."
 toc:
   - label: "Can weather affect goats poop?"
     href: "#can-weather-affect-goats-poop"
@@ -53,10 +53,6 @@ And if so, what are the things you need to look out for?
 In this article, we will answer these questions and give you some helpful tips on what to do if you notice your [goat's poop](/can-goat-poop-be-used-as-fertilizer/) is different from usual.
 
 ## Can weather affect goats poop?
-
-**Weather can affect goats' poop. The most common way that weather impacts goat digestion is through changes in temperature.**
-
-**[Hot weather can cause diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), while cold weather can lead to constipation. Weather also affects the type of food that is available to goats, which can impact their digestion.**
 
 However, it's not just the temperature that can impact goat poop. Rain, snow, and wind can also affect [goats' digestive systems](/can-goats-digest-cigarettes/).
 

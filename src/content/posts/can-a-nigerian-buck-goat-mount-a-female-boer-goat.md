@@ -11,7 +11,7 @@ imageAlt: "Can a Nigerian Buck Goat Mount a Female Boer Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Nigerian buck goats can mate with female Boer goats. Because they are both subspecies of the same species - Capra aegagrus hircus. And while there are some differences between the two subspecies, they are not enough to prevent them from being able to mate and produce offspring."
+  text: "Nigerian buck goats can mate with female Boer goats. Because they are both subspecies of the same species - Capra aegagrus hircus."
 toc:
   - label: "Can a nigerian buck goat mount a female boer goat?"
     href: "#can-a-nigerian-buck-goat-mount-a-female-boer-goat"
@@ -47,10 +47,6 @@ Many people are wondering if a Nigerian buck goat can mate with a female Boer go
 We will answer all of your questions about Nigerian buck goats and their potential for breeding with Boer goats in this article.
 
 ## Can a nigerian buck goat mount a female boer goat?
-
-**Nigerian buck goats can mate with female Boer goats. Because they are both subspecies of the same species - Capra aegagrus hircus.**
-
-**And while there are some differences between the two subspecies, they are not enough to prevent them from being able to mate and produce offspring.**
 
 However, it's important to note that the offspring of a Nigerian buck and Boer goat pairing will not be 100% purebred. They will be what is known as a crossbreed or hybrid.
 

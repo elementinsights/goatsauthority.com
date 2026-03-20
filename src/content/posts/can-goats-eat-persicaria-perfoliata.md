@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Persicaria Perfoliata?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat Persicaria perfoliata safely. This plant is not poisonous to them and is actually quite nutritious for goats. It contains high levels of protein, fiber, and essential vitamins and minerals that are essential for goats' health and growth."
+  text: "Goats can eat Persicaria perfoliata safely. This plant is not poisonous to them and is actually quite nutritious for goats."
 toc:
   - label: "Can goats eat Persicaria perfoliata?"
     href: "#can-goats-eat-persicaria-perfoliata"
@@ -48,10 +48,6 @@ What specific information do you require, if so?
 We will address all of your concerns and questions about goats eating Persicaria perfoliata in this comprehensive article.
 
 ## Can goats eat Persicaria perfoliata?
-
-**Goats can [eat Persicaria perfoliata safely](/can-goats-eat-poison-hemlock/). This plant is not poisonous to them and is actually quite nutritious for goats.**
-
-**It contains high levels of protein, fiber, and essential vitamins and minerals that are essential for goats' health and growth.**
 
 In addition, Persicaria perfoliata is known to have numerous [health benefits](/can-goats-eat-gum-tree-leaves/). It has been shown to improve [goats' digestion](/can-goats-digest-anything/), boost their immune system, and even help them fight off infections.
 

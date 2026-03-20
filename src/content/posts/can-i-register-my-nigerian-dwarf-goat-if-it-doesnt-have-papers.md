@@ -42,8 +42,6 @@ We will answer those questions in this article and provide you with all the thin
 
 ## Can I register my Nigerian dwarf goat if it doesn't have papers?
 
-**You can register your Nigerian dwarf goat if it doesn't have papers, but the process is a bit more complicated. In fact, there are a few things you need to take into consideration before you can register your goat, and we will go over those things in this article.**
-
 So, if you're looking to register your Nigerian dwarf goat without papers, here's what you need to know.
 
 The first thing you need to consider is the [breed standard](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/). To be able to register your Nigerian dwarf goat, it must meet the breed standards set by the Nigerian Dwarf Goat Association (NDGA).

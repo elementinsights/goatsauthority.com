@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Poison Hemlock?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances. The four-chamber stomach also allows goats to eat large quantities of food quickly, which is helpful when they're grazing."
+  text: "Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances."
 toc:
   - label: "Can goats eat poison hemlock?"
     href: "#can-goats-eat-poison-hemlock"
@@ -45,10 +45,6 @@ it's difficult to determine whether your goats can eat poison hemlock or not. An
 In this article, we'll answer all of those questions for you and provide some tips on how to keep your goats healthy and safe.
 
 ## Can goats eat poison hemlock?
-
-**Goats can eat poison hemlock without any problem. This is because goats have [four-chamber stomachs](/can-goats-digest-anything/) that are able to digest poisonous plants and substances.**
-
-**The four-chamber stomach also allows goats to eat large quantities of food quickly, which is helpful when they're grazing.**
 
 However, just because goats can eat poison hemlock doesn't mean that they should. Poison hemlock is a [highly toxic plant](/can-goats-eat-laurel-leaves/) that can cause serious health problems in goats, including death.
 

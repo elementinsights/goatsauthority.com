@@ -46,8 +46,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I raise goats for milk protein?
 
-**You can raise goats for milk protein because they are a source of high-quality, easily digestible protein. Goats are also a good source of essential amino acids, which are necessary for the body to build and repair tissues, and for the proper functioning of enzymes and hormones.**
-
 In addition, goats are a source of essential fatty acids, which are necessary for the proper development and function of the brain and nervous system, as well as for the production of hormones.
 
 Finally, goats are a good source of vitamins and minerals, including vitamin A, which is important for vision and immune function; vitamin D, which is necessary for bone health; and calcium, which is necessary for bone and teeth health.

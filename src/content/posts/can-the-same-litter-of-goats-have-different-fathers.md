@@ -11,7 +11,7 @@ imageAlt: "Can The Same Litter Of Goats Have Different Fathers?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It is possible for the same litter of goats to have different fathers. This is because goats are induced ovulators, which means that they can be bred at any time of the year. They are also polyestrous, meaning they can have multiple breeding cycles in a year."
+  text: "It is possible for the same litter of goats to have different fathers. This is because goats are induced ovulators, which means that they can be bred at any time of the year."
 toc:
   - label: "Can the same litter of goats have different fathers?"
     href: "#can-the-same-litter-of-goats-have-different-fathers"
@@ -46,10 +46,6 @@ And if so, what are the things you need to consider?
 In this article, we will answer the question, "Can the same litter of goats have different fathers?" and discuss some of the things you need to know about goat breeding.
 
 ## Can the same litter of goats have different fathers?
-
-**It is possible for the same litter of goats to have different fathers. This is because goats are induced ovulators, which means that they can be bred at any time of the year.**
-
-**They are also polyestrous, meaning they can have [multiple breeding cycles](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/) in a year.**
 
 So, if you have a doe that is bred multiple times in a year, it is possible for her to have multiple litters with different fathers.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cucumbers?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat cucumbers raw. They enjoy the crunch and hydration from this vegetable. Cucumbers are safe for your goat as they contain a high amount of water which is good for their digestion."
+  text: "Yes, goats can eat cucumbers raw. They enjoy the crunch and hydration from this vegetable."
 toc:
   - label: "Can Goats Eat Cucumbers Raw?"
     href: "#can-goats-eat-cucumbers-raw"
@@ -54,10 +54,6 @@ In my case, and perhaps yours too, the mystery revolves around cucumbers. Can go
 It might seem like an odd question but as a responsible owner, it’s important to know what our four-legged friends can safely munch on.
 
 ## Can Goats Eat Cucumbers Raw?
-
-**Yes, goats can eat cucumbers raw. They enjoy the crunch and hydration from this vegetable.**
-
-**Cucumbers are safe for your goat as they contain a high amount of water which is good for their digestion.**
 
 However, like all foods, it should be given in moderation. Too many cucumbers might cause [bloating](/can-alfalfa-pellets-cause-goats-to-bloat/) or diarrhea due to its high water content.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Die in Cold Weather?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can die in cold weather if they are not properly cared for. Cold weather can cause goats to become ill, and if they are not given the proper care, they can die. They can also die if they are left in cold weather without shelter."
+  text: "Goats can die in cold weather if they are not properly cared for. Cold weather can cause goats to become ill, and if they are not given the proper care, they can die."
 toc:
   - label: "Can goats die in cold weather?"
     href: "#can-goats-die-in-cold-weather"
@@ -48,10 +48,6 @@ And if so, what can farmers do to prevent it?
 In this article, we will answer all of your questions about goats and cold weather. We'll start by discussing how cold weather can affect goats, and then we'll offer some tips for keeping your goats healthy and happy in the winter months.
 
 ## Can goats die in cold weather?
-
-**Goats can die in cold weather if they are not properly cared for. Cold weather can cause [goats to become ill](/can-a-goat-get-sick-from-cold/), and if they are not given the proper care, they can die.**
-
-**They can also die if they are left in cold weather without shelter.**
 
 However, it's important to note that goats are fairly resilient animals, and they can withstand cold weather better than some other animals. With that said, there are still some things that farmers need to do in order to ensure that their goats are safe and healthy in the winter months.
 

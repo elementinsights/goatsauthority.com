@@ -11,7 +11,7 @@ imageAlt: "Can Goats Climb Fences?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can scale fences. They are very good climbers. Goats' sharp hooves aid in fence grip, and their agile bodies allow them to easily maneuver around obstacles."
+  text: "Goats can scale fences. They are very good climbers."
 toc:
   - label: "Can goats climb fences?"
     href: "#can-goats-climb-fences"
@@ -48,10 +48,6 @@ But one of the most common questions people have about goats is whether or not t
 In this article, we will answer all your questions about goats and fencing. We will discuss whether or not [goats can climb fences](/can-goats-climb-92-degrees/), what type of fence is best for goats, and how to keep your goats safe and secure.
 
 ## Can goats climb fences?
-
-**Goats can scale fences. They are very good climbers.**
-
-**Goats' sharp hooves aid in fence grip, and their agile bodies allow them to easily maneuver around obstacles. They are also known for their intelligence and problem-solving skills, so they will often find ways to climb over fences.**
 
 However, not all goats are good climbers. Some goats may be too heavy or uncoordinated to climb a fence, and others may simply be scared of heights.
 

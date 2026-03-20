@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Spelt?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat spelt. Spelt is a grain that is high in protein and fiber. They also contain vitamins and minerals that are essential for goats."
+  text: "Goats can eat spelt. Spelt is a grain that is high in protein and fiber."
 toc:
   - label: "Can goats eat spelt?"
     href: "#can-goats-eat-spelt"
@@ -48,10 +48,6 @@ One of the questions you may have as a goat owner is what kind of food they can 
 We will answer all of your questions about goats and spelt in this article, including [nutrition facts](/can-goats-drink-juice/), benefits, and FAQs.
 
 ## Can goats eat spelt?
-
-**Goats can eat spelt. Spelt is a grain that is high in protein and fiber.**
-
-**They also contain vitamins and minerals that are essential for goats. The reason why goats can eat spelt is that it is a nutritious food that provides them with the nutrients they need.**
 
 In addition to being nutritious, spelt is also a good source of energy for goats. This is because it contains complex carbohydrates that are slowly broken down and absorbed by the body.
 

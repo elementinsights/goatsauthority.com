@@ -11,7 +11,7 @@ imageAlt: "What Kind Of Hay Do Goats Eat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Trending Products For Goats"
+  text: "Goats eat all kinds of hay, including alfalfa hay, Timothy hay, and brome hay. You can also give them a mix of all three hays."
 toc:
   - label: "What kind of hay do goats eat?"
     href: "#what-kind-of-hay-do-goats-eat"
@@ -51,10 +51,6 @@ In this article, we’re going to take a closer look at what kind of hay do goat
 **Trending Products For Goats**
 
 ## What kind of hay do goats eat?
-
-**Goats eat all kinds of hay, including [alfalfa hay](/can-goats-eat-alfalfa/), [Timothy hay](/can-goats-eat-timothy-hay/), and brome hay. You can also give them a mix of all three hays.**
-
-**The important thing is that the hay is fresh and free of mold or mildew.**
 
 However, goats prefer alfalfa hay over all other types of hay. Alfalfa hay is higher in protein and calcium, which are two essential nutrients for goats.
 

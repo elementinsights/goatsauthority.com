@@ -44,8 +44,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you band an adult goats horns to dehorn them?
 
-**You can band an adult goat's horns to dehorn them as long as the horns are not too thick. If the horns are too thick, the band may not be able to grip tightly enough and could potentially slip off, which could**cause injury to the goat.
-
 In addition, you need to make sure that the band is not too tight. If it is too tight, it could cut off circulation to the horns and potentially kill them.
 
 Finally, you need to be careful when removing the bands. If you remove them too quickly, it could tear the skin.

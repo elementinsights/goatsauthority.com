@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Timothy Hay?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat timothy hay. Timothy hay is a type of grass that is rich in nutrients and fiber. It's an excellent source of food for goats, providing them with the nutrients they need to stay healthy and happy."
+  text: "Goats can eat timothy hay. Timothy hay is a type of grass that is rich in nutrients and fiber."
 toc:
   - label: "Can goats eat timothy hay?"
     href: "#can-goats-eat-timothy-hay"
@@ -49,10 +49,6 @@ You may have seen timothy hay advertised as goat feed, and wondered if it's safe
 In this article, we will answer that question and explore the benefits of timothy hay, the risks associated with [feeding it to goats](/can-goats-eat-alfalfa/), and how much should be fed.
 
 ## Can goats eat timothy hay?
-
-**Goats can eat timothy hay. Timothy hay is a type of grass that is rich in nutrients and fiber.**
-
-**It's an excellent source of food for goats, providing them with the nutrients they need to stay healthy and happy.**
 
 However, it's important to note that not all types of hay are suitable for goats. For example, [alfalfa hay](/can-goats-eat-alfalfa/) is high in calcium and should only be fed to goats in small amounts.
 

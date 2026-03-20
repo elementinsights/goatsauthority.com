@@ -11,7 +11,7 @@ imageAlt: "Can Nigerian Dwarf Goats Be Used For Meat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can most certainly use Nigerian dwarf goats for meat production. In fact, many people do. Nigerian dwarf goats are a smaller breed of goat, which means they don't produce as much meat as some of the larger breeds, but they are still a viable option for meat production."
+  text: "You can most certainly use Nigerian dwarf goats for meat production. In fact, many people do."
 toc:
   - label: "Can Nigerian dwarf goats be used for meat?"
     href: "#can-nigerian-dwarf-goats-be-used-for-meat"
@@ -47,10 +47,6 @@ But can they also be used for meat? And if so, what are the things you need to c
 In this article, we will answer those questions about Nigerian dwarf goats and [meat production](/can-you-buy-goat-meat-at-walmart/). We will also provide some tips on how to raise healthy and happy Nigerian dwarf goats, whether you're raising them for pets or for meat production.
 
 ## Can Nigerian dwarf goats be used for meat?
-
-**You can most certainly use Nigerian dwarf goats for meat production. In fact, many people do.**
-
-**Nigerian dwarf goats are a smaller breed of goat, which means they don't produce as much meat as some of the larger breeds, but they are still a viable option for meat production.**
 
 However, they're still a good source of meat, and their meat is just as tasty. If you're looking to raise Nigerian dwarf goats for meat, there are a few things you need to keep in mind.
 

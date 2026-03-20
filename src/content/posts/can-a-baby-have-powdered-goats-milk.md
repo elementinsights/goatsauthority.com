@@ -45,8 +45,6 @@ In this article, we’ll discuss the benefits and disadvantages of giving your b
 
 ## Can a baby have powdered goat's milk?
 
-**it's not recommended that you give it to your baby because powdered goat’s milk doesn’t have the fat or calories that infants need for proper growth and development. In addition, goat’s milk is higher in sodium than cow’s milk, which can be detrimental to a baby’s health.**
-
 Finally, goat's milk doesn't contain the same amount of vitamin D as [cow's milk](/can-i-mix-goat-milk-replacer-with-cow-milk/), so it's important to consult with your pediatrician before giving your baby any kind of goat's milk.
 
 While cow's milk is the best option for babies, there are some circumstances in which you may need to give your baby goat's milk. If your baby is allergic to cow's milk protein, you may need to try an alternative.

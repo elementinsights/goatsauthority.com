@@ -47,8 +47,6 @@ We will answer all of your questions in this article and explain [everything you
 
 ## Can a horse get attached to a goat?
 
-**Horses can indeed get attached to goats. This is most likely to occur when the horse and goat have been raised together from a young age and have had little to no contact with other members of their own species or other animals.**
-
 The bond between a horse and goat is not as strong as the bond between two horses or two goats, but it's still a real and [meaningful connection](/can-you-describe-a-herd-of-sheep-and-goats/).
 
 Horses and goats that are attached to each other will often spend most of their time together, grazing and resting side by side. They may also groom each other and stand close together when they sleep.

@@ -50,8 +50,6 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you breed screaming and fainting goats?
 
-**You can certainly breed screaming and [fainting goats](/can-mini-pigs-and-fainting-goats-be-kept-together/) because they are both members of the Capra genus, which includes all domestic goats. In fact, many people choose to breed these two types of goats together because they make good dairy goats and their offspring are often more resistant to disease.**
-
 However, there are a few things you need to take into account.
 
 It is necessary to understand that there are two types of goats- screaming and fainting- before you breed them. This way, you can ensure they are paired up correctly.

@@ -50,8 +50,6 @@ In this article, we'll discuss everything you need to know about giving pregnant
 
 ## Can pregnant goats have injectable vitamin B12?
 
-**Pregnant goats can have injectable vitamin B12 as long as the vitamin is in a water-based solution and the pregnant goat is not dehydrated. If the pregnant goat is [dehydrated](/can-baby-goats-have-any-electrolytes/), she will need to be rehydrated before receiving the injection.**
-
 In addition, [pregnant goats](/can-pregnant-goats-eat-medicated-feed/) should not be given more than 10ml of injectable vitamin B12 per week. If a pregnant goat needs more than 10ml of injectable vitamin B12, she should be given the vitamin orally or intramuscularly.
 
 Despite these precautions, injectable vitamin B12 is generally considered safe for pregnant goats.

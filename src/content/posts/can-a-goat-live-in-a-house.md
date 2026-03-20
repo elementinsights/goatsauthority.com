@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Live in a House?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible to keep them indoors. Because goats are small and they don’t stink. They are also very trainable creatures that will follow your lead if you provide them with the proper guidance and care, just like a dog."
+  text: "it's possible to keep them indoors. Because goats are small and they don’t stink."
 toc:
   - label: "Can a goat live in a house?"
     href: "#can-a-goat-live-in-a-house"
@@ -46,10 +46,6 @@ If you are considering getting a goat as a pet, there are some things you should
 In this article, we will discuss the basics of taking care of a goat, including what they need to eat and drink, how to groom them, and more. We will also answer the question of whether or not goats can live in houses.
 
 ## Can a goat live in a house?
-
-**it's possible to keep them indoors. Because goats are small and they don’t stink.**
-
-**They are also very trainable creatures that will follow your lead if you provide them with the proper guidance and care, just like a dog.**
 
 However, there are a few things you should take into consideration before making the decision to house your goat indoors.
 

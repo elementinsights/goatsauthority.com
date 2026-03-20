@@ -11,7 +11,7 @@ imageAlt: "Can a Fox Kill a Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A fox could kill a goat if the circumstances were right. Though it's unlikely. Foxes are predators, and their main diet consists of small mammals like rabbits and rodents."
+  text: "A fox could kill a goat if the circumstances were right. Though it's unlikely."
 toc:
   - label: "Can a fox kill a goat?"
     href: "#can-a-fox-kill-a-goat"
@@ -43,10 +43,6 @@ A lot of people are curious as to whether foxes can kill goats. Let's examine ho
 Finally, we'll offer some advice on what to do if a fox is discovered in your goat pasture.
 
 ## Can a fox kill a goat?
-
-**A fox could kill a goat if the circumstances were right. Though it's unlikely.**
-
-**Foxes are predators, and their main diet consists of small mammals like rabbits and rodents. However, they will also eat birds, reptiles, amphibians, fish, insects, fruits, and veggies.**
 
 So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down. You should also learn whether [raccoons can kill goats](/can-raccoons-kill-goat/) since they pose similar risks.
 

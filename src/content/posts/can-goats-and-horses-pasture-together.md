@@ -11,7 +11,7 @@ imageAlt: "Can Goats And Horses Pasture Together?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds. Goats will also eat grass that is too short for horses to reach, which can help prevent horses from getting colic."
+  text: "Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds."
 toc:
   - label: "Can goats and horses pasture together?"
     href: "#can-goats-and-horses-pasture-together"
@@ -49,10 +49,6 @@ Many people are curious if goats and horses can pasture together or not. And if 
 In this article, we will answer all of your questions regarding grazing goats and horses together. We'll discuss the benefits, if there are any disadvantages, and give you some tips on how to make sure your animals graze peacefully together.
 
 ## Can goats and horses pasture together?
-
-**Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds.**
-
-**Goats will also eat grass that is too short for horses to reach, which can help prevent horses from getting colic.**
 
 Despite that, it's important to have a separate area for each animal to graze. [Goats and horses have different nutritional needs](/can-i-give-a-moldy-pumpkin-to-goats/), and each animal should have its own space to ensure that it's getting the proper nutrition.
 

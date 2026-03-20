@@ -11,7 +11,7 @@ imageAlt: "Can Dogs Get Tapeworms From Goats?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Dogs can get tapeworms from goats because they can serve as an intermediate host for the parasite. This means that the tapeworm larvae will develop in the goat before moving on to infect the dog. Dogs are also infected with tapeworms when they consume contaminated goat meat."
+  text: "Dogs can get tapeworms from goats because they can serve as an intermediate host for the parasite. This means that the tapeworm larvae will develop in the goat before moving on to infect the dog."
 toc:
   - label: "Can dogs get tapeworms from goats?"
     href: "#can-dogs-get-tapeworms-from-goats"
@@ -50,10 +50,6 @@ One thing you may not have thought about is whether or not your dog can get tape
 In this article, we will answer all of your questions about dogs and tapeworms, including whether or not they can contract them from goats. We will also provide some information on the symptoms of tapeworms in dogs and how to treat them.
 
 ## Can dogs get tapeworms from goats?
-
-**Dogs can get tapeworms from goats because they can serve as an intermediate host for the parasite. This means that the tapeworm larvae will develop in the goat before moving on to infect the dog.**
-
-**[Dogs are also infected with tapeworms when they consume contaminated goat meat](/can-dogs-eat-goat-meat/).**
 
 Despite that, it's still fairly uncommon for dogs to contract tapeworms from goats. This is because most dogs do not have access to goats, and even if they did, they would be unlikely to [eat contaminated meat](/do-goats-eat-meat/).
 

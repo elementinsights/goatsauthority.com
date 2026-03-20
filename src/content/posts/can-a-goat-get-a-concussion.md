@@ -43,8 +43,6 @@ Lastly, we will provide you with some interesting facts about this animal that y
 
 ## Can a goat get a concussion?
 
-**Goats are susceptible to concussions for many of the same reasons that humans are. Some of those reasons are that when the head hits something hard or there’s a sudden change in momentum, the brain can collide with the skull and become injured.**
-
 In addition, goats are more likely to get a concussion if they have a preexisting condition such as osteoporosis and if they are [older](/can-old-goats-develop-rickets/) because their skulls are more fragile.
 
 ## What are the causes of concussions in goats?

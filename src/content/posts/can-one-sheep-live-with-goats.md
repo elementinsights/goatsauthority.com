@@ -47,8 +47,6 @@ In this article, we'll answer all of your questions about keeping sheep and goat
 
 ## Can one sheep live with goats?
 
-**A sheep can live with goats without any problem because they are both herbivores, and even though they are different species, they can get along very well. The most important thing is to have enough space for both animals so they can coexist peacefully.**
-
 Goats are very curious about nature and will want to explore everything. This includes the sheep's wool.
 
 So it's important to keep an eye on them and make sure they don't eat too much of the sheep's wool.

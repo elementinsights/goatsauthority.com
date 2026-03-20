@@ -50,8 +50,6 @@ We will also provide some tips on how to prevent any diseases you may be suscept
 
 ## Can you catch diseases from goats?
 
-**It is possible to catch diseases from goats because [they can carry bacteria, viruses, and parasites](/can-goats-spread-lice-to-llamas/) that are harmful to humans. In fact, some of the diseases that goats can carry are deadly and can be easily spread to humans.**
-
 Not only can [goats carry bacteria, viruses, and parasites](/can-goats-carry-distemper/), but they can also spread other diseases that are fatal to other animals. Goats may be carriers of brucellosis, for instance, which is transmitted to sheep and causes death.
 
 ## What are some common diseases that can be caught from goats?

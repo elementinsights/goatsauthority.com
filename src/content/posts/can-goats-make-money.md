@@ -11,7 +11,7 @@ imageAlt: "Can Goats Make Money?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can actually be quite profitable, and there are several ways to make money from them. The most common way is by selling their milk. Goat milk is known to be very healthy and is often used as a substitute for cow milk by people who are lactose intolerant."
+  text: "Goats can actually be quite profitable, and there are several ways to make money from them. The most common way is by selling their milk."
 toc:
   - label: "Can goats make money?"
     href: "#can-goats-make-money"
@@ -44,10 +44,6 @@ And if so, how?
 In this article, we will answer those questions for you. We will also provide some tips on how to get started in the goat-rearing business.
 
 ## Can goats make money?
-
-**Goats can actually be quite profitable, and there are several ways to make money from them. The most common way is by selling their milk.**
-
-**Goat milk is known to be very healthy and is often used as a substitute for cow milk by people who are lactose intolerant.**
 
 Other ways of making money from goats include selling their meat, cheese,  and even their hair. Goat hair is often used in the making of brushes and other textile products.
 

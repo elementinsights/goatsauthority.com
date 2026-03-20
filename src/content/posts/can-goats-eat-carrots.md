@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Carrots?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat carrots? The answer is yes. Goats can safely enjoy eating carrots."
+  text: "Can goats eat carrots? The answer is yes."
 toc:
   - label: "Can Goats Eat Carrots?"
     href: "#can-goats-eat-carrots"
@@ -52,12 +52,6 @@ Many other owners have asked the same question.
 From personal experience, I’ve seen that [goats will try almost anything](/why-do-goats-eat-everything/) once. So let’s look into whether or not carrots should be on their menu.
 
 ## Can Goats Eat Carrots?
-
-**Can goats eat carrots? The answer is yes.**
-
-**Goats can safely enjoy eating carrots. This may come as a surprise to some, but it’s true.**
-
-**Carrots are packed with nutrients that benefit goats.**
 
 They have vitamins like A and K which support their health in many ways. Vitamin A helps maintain good vision while vitamin K aids blood clotting.
 

@@ -11,7 +11,7 @@ imageAlt: "Why Do Goats Eat Everything?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass. Additionally, goats frequently turn to other objects to sate their hunger because there aren't always enough leaves and twigs available."
+  text: "Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass."
 toc:
   - label: "Why do goats eat everything?"
     href: "#why-do-goats-eat-everything"
@@ -46,10 +46,6 @@ What then makes goats so inclined to nibble on anything they can find? A more pr
 In order to get some answers, let's take a closer look at this intriguing creature.
 
 ## Why do goats eat everything?
-
-**Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass.**
-
-**Additionally, goats frequently turn to other objects to sate their hunger because there aren't always enough leaves and twigs available.**
 
 This explains why it's common to observe goats chewing on items of furniture, clothing, or even paper. They are merely looking for food; they are not acting in an obnoxious manner.
 

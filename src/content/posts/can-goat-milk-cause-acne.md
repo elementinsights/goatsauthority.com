@@ -11,7 +11,7 @@ imageAlt: "Can Goat Milk Cause Acne?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores. They also contain a higher level of fat than cow's milk."
+  text: "Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores."
 toc:
   - label: "Can goat milk cause acne?"
     href: "#can-goat-milk-cause-acne"
@@ -45,10 +45,6 @@ it's difficult to determine whether or not goat milk causes acne. And if so, wha
 We will answer all of your questions about goat milk and acne in this article and provide some tips on how to avoid breakouts.
 
 ## Can goat milk cause acne?
-
-**Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores.**
-
-**They also contain a higher level of fat than [cow's milk](/can-goats-drink-cows-milk/). This fat can also clog pores and lead to breakouts.**
 
 Despite that, it's important to note that there's no scientific evidence to support that [goat milk](/can-goat-milk-reduce-wrinkles/) causes acne. So, if you're struggling with breakouts, you may want to try eliminating dairy from your diet to see if it makes a difference.
 

@@ -11,7 +11,7 @@ imageAlt: "Can People Ride Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Technically speaking we can ride a goat but it is not advisable. Goats are not built to carry the weight of a human and they can get injured easily. That being said, if you're going to ride a goat, make sure you're gentle and not too heavy."
+  text: "Technically speaking we can ride a goat but it is not advisable. Goats are not built to carry the weight of a human and they can get injured easily."
 toc:
   - label: "Can people ride goats?"
     href: "#can-people-ride-goats"
@@ -48,10 +48,6 @@ And if so, what are the things you need to consider?
 In this article, we will answer those questions and give you some tips on how to care for your goat. We will answer the following questions:
 
 ## Can people ride goats?
-
-**Technically speaking we can ride a goat but it is not advisable. Goats are not built to carry the weight of a human and they can get injured easily.**
-
-**That being said, if you're going to ride a goat, make sure you're gentle and not too heavy.**
 
 Another thing to consider is that goats are very social creatures. They like to be around other goats and they don't like to be left alone. Make sure [a goat is not left out for hours](/can-a-goat-be-left-out-for-hours/) without company.
 

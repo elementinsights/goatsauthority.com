@@ -11,7 +11,7 @@ imageAlt: "Can I Mix Newborn Goats And Older Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can mix newborn goats and older goats together because they are both social animals. In fact, it is recommended that you do so to"
+  text: "You can mix newborn goats and older goats together because they are both social animals. In fact, it is recommended that you do so to****prevent isolation and boredom****.****They are also less likely to fight if they are around other goats."
 toc:
   - label: "Can I mix newborn goats and older goats?"
     href: "#can-i-mix-newborn-goats-and-older-goats"
@@ -41,8 +41,6 @@ You may be wondering if you can mix newborn and older goats in the same pen. If 
 In this article, we will answer those questions for you. We will also give you some tips on how to successfully mix different age groups of goats together.
 
 ## Can I mix newborn goats and older goats?
-
-**You can mix newborn goats and older goats together because they are both social animals. In fact, it is recommended that you do so to****prevent isolation and boredom****.****They are also less likely to fight if they are around other goats.**
 
 However, you need to consider a few things before doing so.
 

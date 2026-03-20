@@ -11,7 +11,7 @@ imageAlt: "Can a CDT Shot Kill a Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible for a CDT shot to kill a goat. The most common cause of death from a CDT shot is septicemia, which is an infection of the bloodstream. Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound."
+  text: "it's possible for a CDT shot to kill a goat. The most common cause of death from a CDT shot is septicemia, which is an infection of the bloodstream."
 toc:
   - label: "Can a CDT shot kill a goat?"
     href: "#can-a-cdt-shot-kill-a-goat"
@@ -47,10 +47,6 @@ Many people are concerned about the safety of the CDT vaccine for goats. In this
 Lastly, we'll also explore the different types of CDT vaccines available, as well as the recommended vaccination schedule for goats.
 
 ## Can a CDT shot kill a goat?
-
-**it's possible for a CDT shot to kill a goat. The most common cause of death from a CDT shot is septicemia, which is an infection of the bloodstream.**
-
-**Septicemia can occur when the bacteria enter the bloodstream through a cut or open wound.**
 
 The bacteria then multiply in the blood, causing inflammation and damage to the organs. Left untreated, [septicemia](/can-goats-carry-distemper/) can be fatal.
 

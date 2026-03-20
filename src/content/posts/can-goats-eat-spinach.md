@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Spinach?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Technically speaking, goats can consume spinach. As a matter of fact, spinach is high in iron and other essential nutrients. And also, spinach is a good source of vitamins A, B2, C, and K that can help goats stay healthy and improve their immune systems."
+  text: "Technically speaking, goats can consume spinach. As a matter of fact, spinach is high in iron and other essential nutrients."
 toc:
   - label: "Can goats eat spinach?"
     href: "#can-goats-eat-spinach"
@@ -46,10 +46,6 @@ Have you wondered if spinach is good for goats? What are the benefits?
 Are there any risks? We will answer all that questions in this article, along with some frequently asked questions about feeding goats spinach.
 
 ## Can goats eat spinach?
-
-**Technically speaking, goats can consume spinach. As a matter of fact, spinach is high in iron and other [essential nutrients](/can-goats-eat-kale/).**
-
-**And also, spinach is a good source of vitamins A, B2, C, and K that can help goats stay healthy and improve their immune systems.**
 
 However, there are a few things you should keep in mind before feeding this [leafy green vegetable](/can-goats-eat-lettuce/) to your furry friends. For instance, too much spinach can cause diarrhea in goats.
 

@@ -11,7 +11,7 @@ imageAlt: "Can I Give My Goat Vicodin For Pain?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give your goat Vicodin for pain relief if it is experiencing moderate to severe pain. In fact, Vicodin is one of the most common pain medications that veterinarians prescribe for goats. They are also relatively easy to obtain, as they are commonly used for humans as well."
+  text: "You can give your goat Vicodin for pain relief if it is experiencing moderate to severe pain. In fact, Vicodin is one of the most common pain medications that veterinarians prescribe for goats."
 toc:
   - label: "Can I give my goat Vicodin for pain?"
     href: "#can-i-give-my-goat-vicodin-for-pain"
@@ -45,10 +45,6 @@ You might be unsure about whether it's okay to give your goats Vicodin for pain.
 We will respond to these questions and give you all the information you require about administering Vicodin to your goat in this article.
 
 ## Can I give my goat Vicodin for pain?
-
-**You can give your goat Vicodin for pain relief if it is experiencing moderate to severe pain. In fact, Vicodin is one of the most common pain medications that veterinarians prescribe for goats.**
-
-**They are also relatively easy to obtain, as they are commonly used for humans as well.**
 
 That said, there are some things you should take into account before giving your goat Vicodin. For one, [goats are much smaller than humans](/can-i-give-my-goats-human-fish-pills/) and thus require a [smaller dosage](/can-too-much-penicillin-given-to-baby-goat-die/).
 

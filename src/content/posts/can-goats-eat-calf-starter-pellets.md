@@ -53,8 +53,6 @@ Plus, we’ll answer some frequently asked questions about goats and their diets
 
 ## Can goats eat calf starter pellets?
 
-**Goats can eat calf starter pellets because they are a source of nutrients that goats need, such as protein, fiber, and fat. They are also a source of essential vitamins and minerals, such as vitamin A, vitamin D, calcium, and phosphorus.**
-
 However, it's important to note that goats should not eat too many calf starter pellets. This is [because they are high in carbohydrates, which can cause digestive problems in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 Therefore, you need to make sure that your goat has access to plenty of hay and fresh grass so that it can get the fiber they need.

@@ -11,7 +11,7 @@ imageAlt: "How Many Stomachs Do Goats Have?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently. The rumen, reticulum, omasum, and abomasum are the four stomachs."
+  text: "There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently."
 toc:
   - label: "How many stomachs do goats have?"
     href: "#how-many-stomachs-do-goats-have"
@@ -45,10 +45,6 @@ The number of stomachs a goat has is a common question. The response to that que
 And also, we'll provide you with more details regarding goats' stomachs in general.
 
 ## How many stomachs do goats have?
-
-**There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently.**
-
-**The rumen, reticulum, omasum, and abomasum are the four stomachs. The goat's stomachs each serve a distinct function in the digestion of the food it consumes.**
 
 The largest of the four stomachs is the [rumen](/can-nutri-drench-be-given-to-lactating-goats/), which acts as a holding tank for food. The rumen is filled with bacteria that help break down the food.
 

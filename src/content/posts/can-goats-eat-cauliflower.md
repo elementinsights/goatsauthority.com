@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cauliflower?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Generally speaking, goats can consume cauliflower. As a matter of fact, cauliflower is a nutrient-rich vegetable that is packed with vitamins, minerals, and fiber. It's also low in calories and fat, making it a healthy choice for your goats."
+  text: "Generally speaking, goats can consume cauliflower. As a matter of fact, cauliflower is a nutrient-rich vegetable that is packed with vitamins, minerals, and fiber."
 toc:
   - label: "Can goats eat cauliflower?"
     href: "#can-goats-eat-cauliflower"
@@ -47,10 +47,6 @@ The ideal diet and nutrients for our goats are tough to ascertain. But, it's cru
 Can goats eat cauliflower? In this article, we will answer that question and examine the advantages and disadvantages of feeding cauliflower to goats.
 
 ## Can goats eat cauliflower?
-
-**Generally speaking, goats can consume cauliflower. As a matter of fact, cauliflower is a nutrient-rich vegetable that is packed with vitamins, minerals, and fiber.**
-
-**It's also low in calories and fat, making it a healthy choice for your goats.**
 
 However, as with all food, moderation is key. Goats should only consume a small amount of cauliflower per day to avoid gastrointestinal issues.
 

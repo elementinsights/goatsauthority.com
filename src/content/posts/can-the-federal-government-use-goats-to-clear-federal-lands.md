@@ -11,7 +11,7 @@ imageAlt: "Can The Federal Government Use Goats To Clear Federal Lands?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "The federal government can use goats to clear federal lands. In fact, this is a common practice in many areas around the world, as goats are very effective at clearing overgrown vegetation. And also, they don't need any special equipment or chemicals, which makes them environmentally friendly."
+  text: "The federal government can use goats to clear federal lands. In fact, this is a common practice in many areas around the world, as goats are very effective at clearing overgrown vegetation."
 toc:
   - label: "Can the federal government use goats to clear federal lands?"
     href: "#can-the-federal-government-use-goats-to-clear-federal-lands"
@@ -47,10 +47,6 @@ If you are a goats owner, you may be wondering whether your goats can help with 
 In this article, we will answer those questions and provide you with additional information about using goats for clearing federal lands.
 
 ## Can the federal government use goats to clear federal lands?
-
-**The federal government can use goats to clear federal lands. In fact, this is a common practice in many areas around the world, as goats are very effective at clearing overgrown vegetation.**
-
-**And also, they don't need any special equipment or chemicals, which makes them environmentally friendly.**
 
 On top of that, goats are very efficient at [clearing large areas of land](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/) in a short period of time. So, if the federal government needs to clear a large area of overgrown vegetation quickly, using goats is a great option.
 

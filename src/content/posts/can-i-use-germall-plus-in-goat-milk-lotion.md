@@ -46,8 +46,6 @@ In this article, we will answer those questions about using Germall plus in goat
 
 ## Can I use Germall Plus in goat milk lotion?
 
-**Germall Plus can be used in goat milk lotion, but only if the lotion is properly formulated. This preservative works best in products with a low pH level, and it is important to make sure that there is no emulsifiers present that could interfere with Germall Plus' [efficacy](/can-goat-milk-reduce-wrinkles/).**
-
 Germall Plus is only effective in preventing [bacterial growth](/can-goat-milk-cause-acne/), not mold or yeast. Therefore, if you're using this preservative in a goat milk lotion, it's important to also use another preservative that can prevent mold and yeast growth.
 
 Despite these considerations, Germall Plus is generally considered to be a safe and effective preservative for use in cosmetic products.

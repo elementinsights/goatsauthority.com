@@ -11,7 +11,7 @@ imageAlt: "Can Male Pygmy Goats Have Long Hair?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Male pygmy goats can have long hair as long as they are properly cared for. If you want your male pygmy goat to have long hair, you will need to brush and comb it regularly. You should also trim their nails and hooves regularly."
+  text: "Male pygmy goats can have long hair as long as they are properly cared for. If you want your male pygmy goat to have long hair, you will need to brush and comb it regularly."
 toc:
   - label: "Can male pygmy goats have long hair?"
     href: "#can-male-pygmy-goats-have-long-hair"
@@ -56,10 +56,6 @@ But what about their hair? Can male pygmy goats have long hair?
 In this article, we will discuss [everything you need to know about the hair of male pygmy goats](/can-i-wash-and-groom-a-pygmy-goat/). We will also talk about how they are different from other types of goats, and what makes them so special.
 
 ## Can male pygmy goats have long hair?
-
-**Male pygmy goats can have long hair as long as they are properly cared for. If you want your male pygmy goat to have long hair, you will need to brush and comb it regularly.**
-
-**You should also trim their nails and hooves regularly.**
 
 Male [pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) are different from other types of goats in many ways. One way is that they have shorter horns.
 

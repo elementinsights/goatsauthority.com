@@ -44,8 +44,6 @@ In this article, we will answer these questions and take a closer look at what h
 
 ## Can an animal that has been made from goat and sheep DNA reproduce?
 
-**it's possible for an animal to be made by combining the DNA of a goat and a sheep. This is known as interspecies genetic engineering, and it has been successfully used to create animals with desired characteristics from two different species.**
-
 However, these animals are usually sterile and cannot reproduce. This is because the combination of DNA from two different species is often incompatible and cannot produce viable offspring.
 
 Interspecies genetic engineering is a controversial practice, and it's currently banned in many countries. You may also be interested in learning whether [a goat can breed with sheep](/can-a-goat-breed-with-sheep/) through natural mating. Despite that, some scientists believe that it could be used in the future to create new and unique animals for research or even for pets.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Eggplant?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat eggplant, whether raw or cooked? The answer is yes. Goats can safely consume both forms of this vegetable."
+  text: "Can goats eat eggplant, whether raw or cooked? The answer is yes."
 toc:
   - label: "Can Goats Eat Eggplant Raw or Cooked?"
     href: "#can-goats-eat-eggplant-raw-or-cooked"
@@ -47,10 +47,6 @@ One question that often comes up is about eggplant. It’s common in our kitchen
 Let me share some insights from my own experience and research on this topic.
 
 ## Can Goats Eat Eggplant Raw or Cooked?
-
-**Can goats eat eggplant, whether raw or cooked? The answer is yes.**
-
-**Goats can safely consume both forms of this vegetable. Eggplants are not harmful to goats in any way.**
 
 They contain many nutrients that can be beneficial for your goat’s health. These include [vitamins A and C](/can-goats-eat-kale/), as well as dietary fiber which aids digestion.
 

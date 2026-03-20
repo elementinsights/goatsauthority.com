@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Juice?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can drink juice because it's a source of vitamins, minerals, and antioxidants. Goats also like the taste of juice, and it can be used as a treat. The best type of juice for goats is 100% pure fruit or vegetable juice with no added sugar."
+  text: "Goats can drink juice because it's a source of vitamins, minerals, and antioxidants. Goats also like the taste of juice, and it can be used as a treat."
 toc:
   - label: "Can goats drink juice?"
     href: "#can-goats-drink-juice"
@@ -47,10 +47,6 @@ You may be wondering whether or not goats can drink juice. And if so, what kind 
 In this article, we will answer all of your questions about goats and juice. We will also explore the [nutritional benefits and drawbacks of giving goat juice](/can-i-give-a-moldy-pumpkin-to-goats/).
 
 ## Can goats drink juice?
-
-**Goats can drink juice because it's a source of vitamins, minerals, and antioxidants. Goats also like the taste of juice, and it can be used as a treat.**
-
-**The best type of juice for goats is 100% pure fruit or vegetable juice with no added sugar.**
 
 Despite that, it's important to remember that goats should not drink too much juice. Too much juice can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
 

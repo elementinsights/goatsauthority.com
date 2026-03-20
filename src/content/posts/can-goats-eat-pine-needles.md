@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pine Needles?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume pine needles. As a matter of fact, pine needles are high in fiber and vitamin C, which are essential for a goat's overall health and wellness. Aside from that, it also has other nutrients like selenium, manganese, and zinc."
+  text: "Goats can consume pine needles. As a matter of fact, pine needles are high in fiber and vitamin C, which are essential for a goat's overall health and wellness."
 toc:
   - label: "Can goats eat pine needles?"
     href: "#can-goats-eat-pine-needles"
@@ -48,10 +48,6 @@ Many people are curious about the dietary habits of goats. What do they eat?
 Can they eat pine needles? This article will explore the benefits, risks, serving size, and FAQs of goats eating pine needles.
 
 ## Can goats eat pine needles?
-
-**Goats can consume pine needles. As a matter of fact, pine needles are high in fiber and vitamin C, which are essential for a [goat's overall health](/can-goats-eat-alfalfa/) and wellness.**
-
-**Aside from that, it also has other nutrients like selenium, manganese, and zinc.**
 
 Despite the fact that pine needles are safe for goats to consume, there are still some risks that you need to be aware of. For one, pine needles can be a choking hazard.
 

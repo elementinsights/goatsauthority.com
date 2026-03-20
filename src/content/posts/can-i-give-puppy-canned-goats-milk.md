@@ -52,8 +52,6 @@ We will answer all of your questions in this article and provide you with additi
 
 ## Can I give puppy canned goats milk?
 
-**You can give your puppy canned goat milk, as long as it is plain and unsweetened. Goat milk is a nutritious alternative to cow's milk and contains more fat, proteins, and essential nutrients than its counterpart and is, therefore, more digestible for puppies.**
-
 In addition, [goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/) has anti-inflammatory properties that can be beneficial for your puppy's health. However, it is important to note that canned [goat milk should not be the only source of nutrition](/can-sheep-drink-raw-goats-milk/) for your puppy and should only be given as a supplement.
 
 ## Is canned goat milk good for puppies?

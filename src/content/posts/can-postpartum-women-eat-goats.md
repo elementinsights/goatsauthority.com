@@ -11,7 +11,7 @@ imageAlt: "Can Postpartum Women Eat Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Postpartum women can safely eat goat meat. In fact, goat meat is an excellent source of protein and iron, which are two nutrients that new moms need. Goat meat is also lower in fat and calories than other types of red meat, making it a healthier option."
+  text: "Postpartum women can safely eat goat meat. In fact, goat meat is an excellent source of protein and iron, which are two nutrients that new moms need."
 toc:
   - label: "Can postpartum women eat goats?"
     href: "#can-postpartum-women-eat-goats"
@@ -48,10 +48,6 @@ And if so, what are the things you need to consider?
 In this article, we will answer those questions regarding eating goats for [postpartum women](/can-you-drink-goat-milk-while-pregnant/). We’ll also discuss the nutrients found in goat meat and how they can benefit you and your baby.
 
 ## Can postpartum women eat goats?
-
-**Postpartum women can safely eat goat meat. In fact, goat meat is an excellent source of protein and iron, which are two nutrients that new moms need.**
-
-**Goat meat is also lower in fat and calories than other types of red meat, making it a healthier option.**
 
 In addition, [goat meat is easy to digest and is unlikely to cause any digestive problems](/can-contact-with-goats-cause-diarrhea-in-humans/). Therefore, it’s a great option for postpartum women who are struggling with constipation or other gastrointestinal issues.
 

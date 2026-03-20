@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Eat Sticker Bushes?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm. Sticker bushes are a member of the family Euphorbiaceae, which also includes several hazardous plants."
+  text: "A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm."
 toc:
   - label: "Can a goat eat sticker bushes?"
     href: "#can-a-goat-eat-sticker-bushes"
@@ -47,10 +47,6 @@ There are a few factors you should be aware of while determining if goats can co
 The advantages and drawbacks of letting your goat munch on some sticker bushes will be discussed in this article, along with some frequently asked questions on the subject.
 
 ## Can a goat eat sticker bushes?
-
-**A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm.**
-
-**Sticker bushes are a member of the family Euphorbiaceae, which also includes several [hazardous plants](/can-goats-eat-any-plant/).**
 
 However, goats are resistant to the poisonous effects of these plants thanks to a special enzyme in their gut. This enzyme breaks down the toxic compounds in the plants, making them safe for goats to consume.
 

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Pass Afterbirth Between Kids?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them. This is known as \"passing afterbirth\" and it's perfectly normal."
+  text: "A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them."
 toc:
   - label: "Can a goat pass afterbirth between kids?"
     href: "#can-a-goat-pass-afterbirth-between-kids"
@@ -47,10 +47,6 @@ Breeding goats can be a lucrative and enjoyable endeavor, but it's important to 
 One such issue is the question of afterbirth, specifically, can a goat pass afterbirth between kids? This article will explore the answer to that question as well as provide tips on how to care for newborn goats.
 
 ## Can a goat pass afterbirth between kids?
-
-**A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them.**
-
-**This is known as "passing afterbirth" and it's perfectly normal.**
 
 However, it's important to keep an eye on the doe and make sure that she doesn't pass too much afterbirth. If a doe passes more than about two-thirds of her afterbirth, she may be at risk for complications such as hemorrhage or retained placenta.
 

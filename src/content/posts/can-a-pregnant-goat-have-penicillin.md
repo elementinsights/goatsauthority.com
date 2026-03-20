@@ -11,7 +11,7 @@ imageAlt: "Can a Pregnant Goat Have Penicillin?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Trending Products For Goats"
+  text: "Pregnant goats should only be given penicillin if it's absolutely necessary. While penicillin is not known to cause birth defects, it can cross the placenta and enter the bloodstream of the developing fetus."
 toc:
   - label: "Can a Pregnant Goat Have Penicillin?"
     href: "#can-a-pregnant-goat-have-penicillin"
@@ -51,10 +51,6 @@ We're going to answer this question and tell you about the benefits, risks and F
 **Trending Products For Goats**
 
 ## Can a Pregnant Goat Have Penicillin?
-
-**Pregnant goats should only be given penicillin if it's absolutely necessary. While penicillin is not known to cause birth defects, it can cross the placenta and enter the bloodstream of the developing fetus.**
-
-**In rare cases, this can lead to an [allergic reaction](/can-an-over-due-goat-be-induced-to-labor/) in the fetus.**
 
 If possible, alternative antibiotics should be used instead. If penicillin must be used, the lowest possible dose should be given and the goat should be closely monitored for any signs of adverse reactions.
 

@@ -11,7 +11,7 @@ imageAlt: "Can You Freeze Goat Cheese?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "To freeze goat cheese, keep it in its original packaging, typically made of thick plastic. Place the entire log in the freezer. If you've already opened the package or need to portion a large log of cheese into smaller pieces, ensure proper preservation by tightly wrapping it in plastic wrap before placing it in a bag with a zip closure."
+  text: "To freeze goat cheese, keep it in its original packaging, typically made of thick plastic. Place the entire log in the freezer."
 toc:
   - label: "Can You Freeze Goat Cheese?"
     href: "#can-you-freeze-goat-cheese"
@@ -47,10 +47,6 @@ Have you ever wondered if you can freeze goat cheese? This article will provide 
 This guide will cover how to extend its shelf life or how to stock up on your favorite [goat cheese](/can-goat-cheese-make-you-bloated/). Let's dive right in and answer the question, "Can you freeze goat cheese?"
 
 ## Can You Freeze Goat Cheese?
-
-**To freeze goat cheese, keep it in its original packaging, typically made of thick plastic. Place the entire log in the freezer.**
-
-**If you've already opened the package or need to portion a large log of cheese into smaller pieces, ensure proper preservation by tightly wrapping it in plastic wrap before placing it in a bag with a zip closure.**
 
 ![freeze goats cheese](https://images.surferseo.art/b512319c-88e6-4f72-84d7-d26ec6cccc30.jpeg)
 
