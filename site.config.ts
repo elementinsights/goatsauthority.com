@@ -47,9 +47,9 @@ export const siteConfig = {
   // ============================================================
   footerDescription: "Your trusted source for goat care, feeding guides, health tips, and breeding advice. Everything you need to raise happy, healthy goats.",
   footerPopularLinks: [
-    { name: "What Do Goats Eat?", href: "/category/what-do-goats-eat", desc: "Complete guide to goat diet and nutrition." },
-    { name: "Goat Health", href: "/category/health", desc: "Common health issues, treatments, and prevention." },
-    { name: "Breeding Goats", href: "/category/breeding", desc: "Tips on goat breeds, mating, and raising kids." },
+    { name: "Can Goats Eat Apples?", href: "/can-goats-eat-apples/", desc: "Safe fruits for your goat's diet." },
+    { name: "How Many Stomachs Do Goats Have?", href: "/how-many-stomachs-do-goats-have/", desc: "Understanding goat digestion." },
+    { name: "Can Goats Be Outside in Winter?", href: "/can-goats-be-outside-in-winter/", desc: "Cold weather care for your herd." },
   ],
   amazonDisclaimer: "Goats Authority is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.",
 
