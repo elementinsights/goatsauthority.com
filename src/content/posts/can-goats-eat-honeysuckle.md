@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-30
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-honeysuckle.jpg"
+image: "/images/posts/can-goats-eat-honeysuckle.webp"
 imageAlt: "Can Goats Eat Honeysuckle?"
 readTime: "8 min read"
 quickAnswer:

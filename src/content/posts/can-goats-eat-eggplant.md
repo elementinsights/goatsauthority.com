@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-29
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-eggplant.jpg"
+image: "/images/posts/can-goats-eat-eggplant.webp"
 imageAlt: "Can Goats Eat Eggplant?"
 readTime: "7 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-27
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-cans.jpg"
+image: "/images/posts/can-goats-eat-cans.webp"
 imageAlt: "Can Goats Eat Cans?"
 readTime: "6 min read"
 quickAnswer:

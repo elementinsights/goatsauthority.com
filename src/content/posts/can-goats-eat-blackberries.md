@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-29
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-blackberries.jpg"
+image: "/images/posts/can-goats-eat-blackberries.webp"
 imageAlt: "Can Goats Eat Blackberries?"
 readTime: "9 min read"
 quickAnswer:

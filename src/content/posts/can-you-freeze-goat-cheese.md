@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-07-10
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-you-freeze-goat-cheese.png"
+image: "/images/posts/can-you-freeze-goat-cheese.webp"
 imageAlt: "Can You Freeze Goat Cheese?"
 readTime: "8 min read"
 quickAnswer:

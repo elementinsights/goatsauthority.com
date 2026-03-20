@@ -4,7 +4,7 @@ export const siteConfig = {
   // ============================================================
   name: "Goats Authority",
   nameHighlight: "Authority",        // Part that gets accent color in logo
-  logo: "/images/logo.png",
+  logo: "/images/logo.webp",
   tagline: "All You Need to Know About Goats",
   domain: "goatsauthority.com",
   url: "https://www.goatsauthority.com",
@@ -23,13 +23,13 @@ export const siteConfig = {
   //  NAVIGATION CATEGORIES
   // ============================================================
   categories: [
-    { name: "Diet", slug: "what-do-goats-eat", image: "/images/category/diet.jpg" },
-    { name: "Health", slug: "health", image: "/images/category/health.jpg" },
-    { name: "Breeding", slug: "breeding", image: "/images/category/breeding.jpg" },
-    { name: "Food", slug: "food", image: "/images/category/food.jpg" },
-    { name: "Housing", slug: "housing", image: "/images/category/housing.jpg" },
-    { name: "Training", slug: "training", image: "/images/category/training.jpg" },
-    { name: "Safety", slug: "safety", image: "/images/category/safety.jpg" },
+    { name: "Diet", slug: "what-do-goats-eat", image: "/images/category/diet.webp" },
+    { name: "Health", slug: "health", image: "/images/category/health.webp" },
+    { name: "Breeding", slug: "breeding", image: "/images/category/breeding.webp" },
+    { name: "Food", slug: "food", image: "/images/category/food.webp" },
+    { name: "Housing", slug: "housing", image: "/images/category/housing.webp" },
+    { name: "Training", slug: "training", image: "/images/category/training.webp" },
+    { name: "Safety", slug: "safety", image: "/images/category/safety.webp" },
   ],
 
   // ============================================================
@@ -88,7 +88,7 @@ export const siteConfig = {
   // ============================================================
   //  HERO IMAGE (homepage background)
   // ============================================================
-  heroImage: "/images/hero.jpg",
+  heroImage: "/images/hero.webp",
 };
 
 export type SiteConfig = typeof siteConfig;

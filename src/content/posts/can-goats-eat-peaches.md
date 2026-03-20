@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-27
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-peaches.jpg"
+image: "/images/posts/can-goats-eat-peaches.webp"
 imageAlt: "Can Goats Eat Peaches?"
 readTime: "8 min read"
 quickAnswer:

@@ -48,6 +48,8 @@ const schema = [
 ---
 
 <BaseLayout title="Home" activeNav="home" schema={schema}>
+  <link slot="head" rel="preload" as="image" href={siteConfig.heroImage} />
+
   <!-- HERO -->
   <section class="hero">
     <div class="hero-bg" style={`background-image: url(${siteConfig.heroImage})`}></div>

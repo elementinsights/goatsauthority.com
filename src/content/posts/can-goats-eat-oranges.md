@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-21
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-oranges.jpg"
+image: "/images/posts/can-goats-eat-oranges.webp"
 imageAlt: "Can Goats Eat Oranges?"
 readTime: "10 min read"
 quickAnswer:

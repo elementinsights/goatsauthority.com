@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-28
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-cheese.jpg"
+image: "/images/posts/can-goats-eat-cheese.webp"
 imageAlt: "Can Goats Eat Cheese?"
 readTime: "7 min read"
 quickAnswer:

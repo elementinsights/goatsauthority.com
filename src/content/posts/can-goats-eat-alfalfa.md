@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-28
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-alfalfa.jpg"
+image: "/images/posts/can-goats-eat-alfalfa.webp"
 imageAlt: "Can Goats Eat Alfalfa Hay?"
 readTime: "11 min read"
 quickAnswer:

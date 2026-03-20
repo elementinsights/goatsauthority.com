@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-27
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-brussel-sprouts.jpg"
+image: "/images/posts/can-goats-eat-brussel-sprouts.webp"
 imageAlt: "Can Goats Eat Brussel Sprouts?"
 readTime: "7 min read"
 quickAnswer:

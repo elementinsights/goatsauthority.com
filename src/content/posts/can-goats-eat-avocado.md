@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-30
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-avocado.jpg"
+image: "/images/posts/can-goats-eat-avocado.webp"
 imageAlt: "Can Goats Eat Avocado?"
 readTime: "8 min read"
 quickAnswer:

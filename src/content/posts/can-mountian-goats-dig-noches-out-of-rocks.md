@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2022-12-08
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-mountian-goats-dig-noches-out-of-rocks.jpg"
+image: "/images/posts/can-mountian-goats-dig-noches-out-of-rocks.webp"
 imageAlt: "Can Mountian Goats Dig Noches Out Of Rocks?"
 readTime: "6 min read"
 quickAnswer:

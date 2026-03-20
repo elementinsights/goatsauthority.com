@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-28
 updatedDate: 2026-03-19
 author: "Jake Holloway"
-image: "/images/posts/can-goats-eat-cilantro.jpg"
+image: "/images/posts/can-goats-eat-cilantro.webp"
 imageAlt: "Can Goats Eat Cilantro?"
 readTime: "10 min read"
 quickAnswer:
