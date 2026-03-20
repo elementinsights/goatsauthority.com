@@ -9,6 +9,11 @@ import { getCollection } from 'astro:content';
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const latestPosts = allPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 10);
 
+// Resolve category slugs to display names
+const catNameMap: Record<string, string> = {};
+siteConfig.categories.forEach(c => { catNameMap[c.slug] = c.name; });
+const getCatName = (slug: string) => catNameMap[slug] || slug;
+
 // Get article counts per category
 const categoryCounts: Record<string, number> = {};
 allPosts.forEach(p => {
@@ -185,7 +190,7 @@ const schema = [
                 </a>
               )}
               <div class="post-card-body">
-                <span class="post-card-cat">{post.data.category}</span>
+                <span class="post-card-cat">{getCatName(post.data.category)}</span>
                 <h3 class="post-card-title"><a href={`/${post.id}/`}>{post.data.title}</a></h3>
                 <p class="post-card-excerpt">{post.data.description}</p>
                 <div class="post-card-meta">
@@ -242,7 +247,7 @@ const schema = [
                 </div>
               )}
               <div class="explore-card-body">
-                <div class="explore-card-cat">{post.data.category}</div>
+                <div class="explore-card-cat">{getCatName(post.data.category)}</div>
                 <h3 class="explore-card-title">{post.data.title}</h3>
                 {post.data.readTime && (
                   <div class="explore-card-meta">{post.data.readTime}</div>
