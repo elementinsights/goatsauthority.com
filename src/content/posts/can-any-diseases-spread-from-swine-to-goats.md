@@ -139,6 +139,14 @@ In addition to vaccinations, there are other steps you can take to protect your 
 
 You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your [goats healthy](/can-goats-be-outside-in-winter/) and free from disease.
 
+### Keeping Swine and Goats on the Same Farm Safely
+
+If you raise both pigs and goats, there are some practical steps you can take to reduce cross-species disease transmission. The most important rule is to keep their living areas separate. Do not share feeders, water troughs, or bedding between the two species.
+
+Designate separate boots and clothing for working with each animal group. Bacteria and parasites can hitch a ride on your shoes and travel from the pig pen to the goat barn in seconds.
+
+Run separate manure management systems if possible. Composting manure at high temperatures for several weeks kills most pathogens, but mixing pig and goat waste before composting increases the odds of spreading something harmful.
+
 ## Summary
 
 Diseases can spread from swine to goats. Swine can [carry and transmit a variety of diseases to goats](/can-goats-carry-distemper/), some of which are potentially fatal.

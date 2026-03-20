@@ -143,6 +143,22 @@ When feeding goats kiwis, it's also important to make sure that the seeds are cr
 
 In general, goats should only eat a small amount of kiwi fruit at a time. When feeding them kiwis, it's crucial to make sure that the seeds are crushed or chewed before they are eaten.
 
+### How to Prepare Kiwi for Your Goats
+
+The simplest way to serve kiwi is to slice it in half and let your goats scoop out the flesh with their tongues. Most goats will eat the skin too, which is actually where much of the fiber is concentrated.
+
+For smaller goats or kids that you are introducing to kiwi for the first time, mash the flesh and mix it into their grain. This reduces the choking risk and lets them get used to the flavor without having to deal with the fuzzy skin.
+
+Remove any stickers or labels from store-bought kiwi before offering it. Goats will eat the sticker without hesitation, and the adhesive is not something you want in their digestive system.
+
+### Growing Kiwi Vines for Your Goat Herd
+
+If you have the right climate, growing your own kiwi vines can provide a renewable treat source for your goats. Hardy kiwi varieties (Actinidia arguta) can survive winters as cold as USDA Zone 4 and produce smaller, smooth-skinned fruit that goats find easier to eat.
+
+Plant the vines along a sturdy fence or trellis that your goats cannot reach. Kiwi vines need a few years before they start producing fruit, and goats will strip the leaves and bark off young plants if they get access.
+
+Once the vines are mature and producing, you can harvest the fruit and offer it as a treat. A single productive kiwi vine can yield 50 to 100 pounds of fruit per season, which is more than enough for a small herd.
+
 ## Key Takeaways
 
 [Goats can eat](/can-goats-eat-apples/) kiwi, but it's important to feed them this fruit in moderation. Kiwis are a nutritious snack for goats and can offer a good source of vitamins, minerals, and antioxidants.

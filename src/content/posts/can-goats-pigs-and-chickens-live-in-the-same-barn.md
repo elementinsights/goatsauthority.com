@@ -124,6 +124,24 @@ So, you'll need to invest in a more robust ventilation system and a larger quant
 
 With all of these considerations, it's no wonder that barn costs can quickly add up.
 
+### Barn Layout Ideas for Mixed Species
+
+A practical barn layout starts with giving each species its own clearly defined zone. Put goats in an elevated section if possible, since they naturally prefer higher ground and will be happier with a platform or raised sleeping area.
+
+Pigs need the lowest, most shaded corner of the barn. They don't regulate body temperature well and can overheat quickly. A concrete or packed-earth floor in the pig section makes cleanup much easier.
+
+Chickens do best in a section with roosting bars at least 2 to 3 feet off the ground. Position their area away from the pigs, since pigs have been known to eat eggs and can sometimes harass smaller birds.
+
+Use solid dividers rather than wire mesh between species. This prevents direct nose-to-nose contact that can spread disease and reduces stress from competing animals.
+
+### Feeding Schedules for a Multi-Species Barn
+
+Feeding time can get chaotic when multiple species share a space. The simplest approach is to feed each animal group in its own pen with the gates closed.
+
+Goats and chickens can share some feeds in a pinch, but pig feed is too high in copper for goats and should never be accessible to them. Copper toxicity is a serious concern that can build up over time and cause liver failure.
+
+Set up your feeders so that each species can only reach its own food. Wall-mounted hay racks for goats, ground-level troughs for pigs, and elevated feeders for chickens keep things organized and safe.
+
 ## Key Takeaways
 
 Goats, pigs, and chickens can all live together in the same barn. There are several benefits to doing so, including saving space and reducing costs.

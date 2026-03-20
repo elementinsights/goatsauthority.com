@@ -140,6 +140,22 @@ Finally, you should be aware that these goats may be more prone to disease. Ther
 
 When done properly, breeding screaming and fainting goats can be a rewarding experience. These goats can make excellent dairy goats and their milk is high in nutrients.
 
+### Will the Offspring Faint Too?
+
+One of the most common questions people ask is whether the kids will inherit the fainting trait. The myotonia gene is recessive, so both parents need to carry it for the offspring to show the classic "fainting" behavior.
+
+If you cross a fainting goat with a screaming goat that does not carry the myotonia gene, the kids will likely not faint. They may still be vocal like their screaming parent, though.
+
+If you specifically want the fainting trait in your crossbred kids, look for screaming goats that have some myotonic ancestry. A breeder who knows their lines well can help you find the right match.
+
+### Temperament Differences to Watch For
+
+Screaming goats tend to be more high-strung and reactive to sudden noises or movements. Fainting goats are generally calmer and easier to handle.
+
+When you combine these two temperaments, the offspring can land anywhere on the spectrum. Some will be laid back, while others will be jumpy and loud.
+
+Spend time observing the kids as they grow so you can identify the ones that best suit your farming goals, whether that's dairy production, pet quality, or breeding stock.
+
 ## Our Take
 
 You can breed screaming and fainting goats successfully by following the proper care and management techniques.

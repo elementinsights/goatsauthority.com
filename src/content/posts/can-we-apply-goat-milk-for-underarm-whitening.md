@@ -126,6 +126,14 @@ Goat milk is a versatile skincare product that can be used in a variety of ways.
 
 Just be sure to purchase [milk that is raw](/can-you-drink-raw-goat-milk-on-gaps-diet/) and unpasteurized for the best results.
 
+### DIY Goat Milk Underarm Mask Recipe
+
+Here's a simple recipe you can try at home. Mix two tablespoons of fresh goat milk with one teaspoon of honey and a pinch of turmeric powder.
+
+Apply the paste evenly to your underarms and let it sit for 15 to 20 minutes. The honey adds extra moisturizing power while the turmeric has natural skin-brightening properties.
+
+Rinse with lukewarm water and pat dry. Use this mask two to three times per week for best results.
+
 ## Our Take
 
 You can use goat milk for underarm whitening by applying it to the area with a cotton ball or makeup brush.

@@ -132,6 +132,22 @@ The best time to feed your Nubian goats is in the morning and evening. This will
 
 Additionally, it's always best to provide them with fresh hay and water throughout the day. By following these simple guidelines, you can help to ensure that your Nubian goats stay healthy and happy.
 
+### Why Nubian Goats in Particular Love Nuts
+
+Nubian goats are known for being some of the most food-motivated goats around. Their bigger appetites and curious personalities mean they're usually the first to try any new treat you offer.
+
+Because Nubians tend to produce richer, higher-fat milk, the healthy fats in almonds can actually complement their nutritional needs. The extra calories support their milk production without loading them up on carbohydrates.
+
+That said, Nubians are also prone to obesity if overfed on high-calorie snacks. Stick to the 1-2 ounce daily limit and you'll keep them happy without packing on extra weight.
+
+### Almonds to Avoid Completely
+
+Never feed your goats bitter almonds. These contain amygdalin, which breaks down into hydrogen cyanide when digested. Even a small amount of bitter almonds can be toxic.
+
+The almonds you buy at the grocery store are sweet almonds and are perfectly safe. But if you have almond trees on your property, double-check the variety before letting your goats forage on fallen nuts.
+
+Salted, flavored, or chocolate-coated almonds are also off the table. The added sodium, sugar, and artificial ingredients can cause digestive problems and aren't worth the risk.
+
 ## Summary
 
 Feeding your Nubian goats a small number of raw almonds is perfectly safe. They may even enjoy the treat, and it can help to keep them occupied and out of mischief.

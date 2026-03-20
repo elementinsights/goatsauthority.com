@@ -138,6 +138,14 @@ Ticks can also transmit other parasites, such as [worms](/can-goats-get-worms-fr
 
 Some steps you can take include maintaining a clean and well-ventilated barn, treating your goats with [tick prevention products](/can-goat-lice-go-into-a-dormant-stage/), and regularly inspecting your goats for ticks.
 
+### Best Time of Year to Watch for Ticks on Goats
+
+Tick activity peaks in the spring and fall when temperatures hover between 45 and 85 degrees Fahrenheit. These are the months when you should be the most vigilant about checking your goats.
+
+During summer heat or winter freezes, tick activity drops significantly. But that does not mean you can skip checks entirely. Some tick species, like the black-legged tick, remain active through mild winters.
+
+A good practice is to check behind the ears, under the chin, around the udder, and between the legs. These are the warm, thin-skinned areas where ticks prefer to attach. Run your hands over these spots at least twice a week during peak season.
+
 ## Summary
 
 Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.

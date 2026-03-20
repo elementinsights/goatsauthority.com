@@ -122,6 +122,20 @@ Also, some [goats may be less tolerant of cold weather](/can-goats-die-in-cold-w
 
 If you're not sure whether your goat can eat brush in winter, it's best to consult with a veterinarian or other animal expert. They will be able to assess your goat's individual needs and make recommendations accordingly.
 
+### How Cold Weather Changes a Goat's Calorie Needs
+
+Goats burn significantly more calories in winter just to maintain their body temperature. A goat that does fine on pasture browse during summer may need 20 to 30 percent more calories once temperatures drop below freezing.
+
+This is why brush alone may not cut it as a winter food source. The nutritional content of dormant woody plants is lower than during the growing season when leaves and new shoots are available.
+
+To make up the difference, offer extra hay and consider adding a grain supplement. A good target is about 3 to 5 pounds of quality hay per adult goat per day during cold months, with brush available as a supplement.
+
+### Best Winter Brush Species for Goats
+
+Multiflora rose is one of the best winter browse options because it holds its stems and hips well into the cold months. Goats strip the bark and eat the rosehips, which are packed with vitamin C.
+
+Honeysuckle is another reliable winter browse. Since it is semi-evergreen in many climates, it provides green leaves when almost everything else has gone dormant.
+
 ## Our Take
 
 Goats can eat brush in winter, but there are some risks associated with this behavior. Goats may damage the plant by chewing on the bark or stems, and they may also consume poisonous plants.

@@ -137,6 +137,14 @@ If you decide to feed your goat meat, it's crucial to make sure that you are fee
 
 A good rule of thumb is to give them no more than 1/4 pound of meat per day. If you are feeding them a diet that includes other protein sources, such as hay or [grains](/can-goats-eat-rice/), you can give them a slightly larger portion of meat.
 
+### Why Some Goats Nibble on Bones
+
+You might catch your goat chewing on a bone left behind by the farm dog. This doesn't mean your goat has turned carnivorous.
+
+Bone chewing is usually a sign of phosphorus or calcium deficiency. The goat is instinctively seeking out minerals that are missing from its regular diet.
+
+If you notice this behavior, check your mineral feeder and make sure it's stocked with a quality goat-specific loose mineral mix. A quick blood panel from your vet can confirm whether your goat is running low on any key minerals.
+
 ## Our Take
 
 Goats can eat meat, but there are several hazards and risks associated with doing so. If you decide to feed your goat meat, be sure to talk to an animal expert first to ensure that it's the right decision for your herd.

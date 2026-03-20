@@ -123,6 +123,22 @@ These breeds are all small in size, which makes them well-suited for life indoor
 
 If you're considering [keeping a goat as a house pet](/can-i-buy-a-goat-as-a-pet/), be sure to do your research and choose a breed that will be a good fit for your lifestyle.
 
+### Goat-Proofing Your Home
+
+Before bringing a goat indoors, you need to goat-proof your house the same way you would baby-proof it for a toddler. Goats will chew on electrical cords, knock over lamps, and eat houseplants that may be toxic to them. Poinsettias, azaleas, and philodendrons are all poisonous to goats.
+
+Cover all exposed wiring with cord protectors or run them through PVC pipes along the baseboards. Move all houseplants to rooms the goat will not have access to. Secure any cabinets at goat-height with childproof latches, because goats can figure out simple handles.
+
+Remove or secure anything fragile or valuable below four feet. Goats are curious and they bump into things constantly with their horns and heads. A single playful headbutt can send a coffee table full of items crashing to the floor.
+
+### The Bathroom Situation
+
+Let's be honest about the biggest challenge of keeping a goat in the house: the bathroom situation. Goats produce small, pellet-shaped droppings constantly throughout the day. They have very little control over when and where they go.
+
+While some owners claim success with litter box training, most goats will only use a litter box about 60 to 70 percent of the time. You will still find stray pellets around the house.
+
+Goat diapers are an option that some indoor goat owners swear by. These are essentially modified dog diapers that fit around the goat's hindquarters. They need to be changed multiple times per day and the goat needs to be washed regularly to prevent skin irritation.
+
 ## Key Takeaways
 
 Goats can make great house pets, but there are a few things you need to keep in mind when it comes to their care and management.

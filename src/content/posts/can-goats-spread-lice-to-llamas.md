@@ -140,6 +140,16 @@ There is no [need to worry about getting lice from goats](/can-goat-lice-go-into
 
 Lice are a common problem for both goats and llamas. But, with a little effort, you can get rid of these pesky parasites and keep your animals healthy and happy.
 
+### Quarantine Protocol for New Animals
+
+Whether you're bringing a new goat or llama onto your property, a proper quarantine period is one of the best investments you can make. Keep any new animal in a separate pen or pasture for a minimum of 14 days.
+
+During this time, check them daily for scratching, bald patches, scabs, or any other skin irritation. Run your fingers through their coat, especially around the base of the ears, along the back, and under the belly where lice tend to congregate.
+
+If everything looks clean after two weeks, you can start introducing them to the rest of the herd. Gradual introductions through a fence line work best so the existing animals can adjust without direct physical contact at first.
+
+This simple step can save you from dealing with a full-blown lice outbreak that could take weeks to clear up across your entire herd.
+
 ## Quick Recap
 
 Goats cannot spread lice to llamas and vice versa. However, both goats and llamas can be affected by lice.

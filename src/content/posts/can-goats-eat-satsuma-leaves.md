@@ -133,6 +133,14 @@ Goats should have access to a variety of fresh vegetation, including grass, hay,
 
 The best time to feed satsuma leaves to goats is in the morning before they have had a chance to fill up on other food. This will help to ensure that the goats get the nutrients they need and do not over-consume satsuma leaves.
 
+### Harvesting and Preparing Satsuma Leaves for Goats
+
+If you have satsuma trees on your property, the easiest approach is to let your goats browse directly from low-hanging branches. Just make sure the tree hasn't been recently sprayed with pesticides or fungicides.
+
+For a more controlled feeding method, hand-pick leaves in the morning when they're at their freshest. Spread them out to dry in a shaded area for a day or two if you want to stockpile them for later use.
+
+Dried satsuma leaves keep well in a sealed container for up to a month. Crumble them into smaller pieces and mix them with hay or grain for an easy way to add extra nutrition to your goat's daily meals.
+
 ## Summary
 
 Goats can eat satsuma leaves, but they should only be fed in moderation. Satsuma [leaves are a good source of nutrition for goats](/can-goats-eat-pumpkin-leaves/), but they may also contain toxins that can be harmful to them.

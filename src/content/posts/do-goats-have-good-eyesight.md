@@ -137,6 +137,14 @@ They are also able to see all colors, although they may not be as vibrant as we 
 
 So, if you are ever in doubt about whether or not a goat can see something, rest assured that they probably can.
 
+### Why Goats Have Rectangular Pupils
+
+One of the most striking things about goat eyes is their horizontal, rectangular pupils. This shape isn't just for looks. It gives goats a panoramic field of view that stretches nearly 340 degrees.
+
+That wide-angle vision helps them spot predators approaching from almost any direction while they graze. It also reduces the amount of sunlight hitting the retina from above, which keeps them from being blinded by bright overhead sun.
+
+Interestingly, goats can rotate their eyes up to 50 degrees when they lower their heads to eat. This keeps the pupils parallel to the ground at all times, maintaining that panoramic view even with their heads down.
+
 ## Wrapping Up
 
 Goats do have good eyesight. They are able to see all colors, although they may not be as vibrant as we see them.

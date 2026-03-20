@@ -131,6 +131,12 @@ Avoid getting water into their ears and eyes, and be sure to rinse thoroughly. I
 
 Finally, always check for burrs or debris that may have gotten caught in their fur while they were out grazing. With these simple tips in mind, you can ensure a happy and healthy pygmy goat.
 
+### Dealing With Matted Fur
+
+Pygmy goats that spend a lot of time outdoors can develop mats in their coat, especially behind the ears and under the belly. Do not try to cut mats out with scissors, as you can easily nick the skin underneath.
+
+Instead, work a detangling spray into the mat and gently tease it apart with your fingers. A slicker brush can help once the mat starts to loosen up. Prevention is the best approach though. Brushing your pygmy goat two to three times a week keeps mats from forming in the first place.
+
 ## The Bottom Line
 
 You can provide your pygmy goat with the best possible care by following the tips and advice outlined in this article.

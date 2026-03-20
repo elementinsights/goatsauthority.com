@@ -139,6 +139,14 @@ Last thing to note: goat-proof your tree by removing any potential hazards withi
 
 By taking these precautions, you can help keep your Nubian goat safe while they enjoy their Tree Climbing adventures.
 
+### Why Nubians Are Built Differently Than Mountain Goats
+
+It is worth pointing out that Nubians are not natural climbers like wild mountain goats. Mountain goats have specialized hooves with soft, rubbery pads that grip rocky surfaces. Nubians, on the other hand, were bred for milk production in hot climates.
+
+Their larger, heavier bodies and long floppy ears make them less agile than smaller breeds. A Pygmy or Nigerian Dwarf goat is much more nimble on a tree branch than a full-sized Nubian.
+
+This does not stop Nubians from trying, of course. They are curious and determined animals. But a 150-pound Nubian on a tree branch creates a lot more stress on the wood than a 40-pound Pygmy would.
+
 ## What to Remember
 
 Nubian goats can climb trees. However, it's not recommended as it can be dangerous for the goat.

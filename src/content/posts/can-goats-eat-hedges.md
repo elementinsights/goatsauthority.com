@@ -139,6 +139,26 @@ Goats need to consume a variety of different plant materials to get all the nutr
 
 If you're not sure what kinds of plants are [safe for goats to eat](/can-goats-eat-strawberries/), talk to a veterinarian or a qualified animal nutritionist for more information.
 
+### Hedges That Are Toxic to Goats
+
+While many common hedges are perfectly safe, a few popular landscape plants can be deadly. Privet hedge (Ligustrum) contains compounds that can cause severe gastrointestinal distress and even liver failure in goats.
+
+Boxwood is another widely planted hedge that is poisonous to goats. The leaves contain steroidal alkaloids that affect the nervous system. Even a small amount can cause vomiting, tremors, and respiratory problems.
+
+Yew is probably the most dangerous of all. Nearly every part of the yew plant is toxic to goats, and ingestion can cause sudden death with no warning signs. If you have yew hedges on your property, fence them off completely.
+
+Before allowing your goats access to any hedge, identify every plant species in the hedge row. Mixed hedges are especially tricky because a safe species might be growing right next to a toxic one.
+
+### Using Goats for Hedge Management
+
+Some property owners actually hire goat herds specifically to manage overgrown hedgerows. This can be an effective and environmentally friendly approach, but it requires careful planning.
+
+The best practice is to walk the hedge row first and remove any toxic plants by hand. Then introduce the goats to a small section at a time so you can monitor what they are eating.
+
+Goats will typically eat the soft new growth first and then move on to stripping bark from older stems. This is great for controlling hedge height but can kill the plants entirely if the goats are left too long.
+
+Rotate goats off the hedge area after two to three days to let the plants recover.
+
 ## The Bottom Line
 
 [Goats can eat hedges](/can-goats-eat-cucumbers/), but it's not recommended. Hedges can be a source of [nutrition for goats](/can-i-use-regular-milk-to-feed-a-baby-goat/), but they are also a potential source of injury.

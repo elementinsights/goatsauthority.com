@@ -140,6 +140,22 @@ However, there is some concern about the safety of goat liver due to the fact th
 
 For this reason, it is important to eat goat liver in moderation. When consumed in moderation, goat liver can be a healthy and delicious part of your diet.
 
+### Nutritional Breakdown Per Serving
+
+A typical 3-ounce serving of cooked goat liver packs about 120 calories and 18 grams of protein. It also delivers over 100% of your daily vitamin A and B12 needs in a single serving.
+
+You also get a solid dose of iron, which makes goat liver especially good for people dealing with anemia. The iron in liver is heme iron, which your body absorbs much more easily than the iron found in plant foods.
+
+That said, because vitamin A levels are so high, eating goat liver every day is not a good idea. Once or twice a week is the sweet spot for most people.
+
+### How Goat Liver Compares to Chicken Liver
+
+Goat liver tends to have a slightly stronger, more gamey flavor than chicken liver. Chicken liver is milder and creamier, which is why beginners often start there.
+
+However, goat liver has higher concentrations of iron and B12 than chicken liver. It's also a bit leaner, which appeals to people watching their fat intake.
+
+If you're new to organ meats, try mixing goat liver into a dish with plenty of onions and spices. The strong flavors will help mask the gaminess while you get used to it.
+
 ## Wrapping Up
 
 We can eat goat liver in moderation and it can be a healthy and delicious part of our diet. We should make sure to cook it properly and choose a healthy, reputable source.

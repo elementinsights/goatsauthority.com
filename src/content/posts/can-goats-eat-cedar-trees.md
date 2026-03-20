@@ -145,6 +145,12 @@ Do your research to make sure the cedar you're feeding is safe for your goats to
 
 If you're unsure about how your goats will react to cedar, start by offering just a small amount and observe them closely for any adverse reactions. Introducing new foods slowly and carefully is the best way to ensure your goats stay healthy and happy.
 
+### Types of Cedar That Are Safer Than Others
+
+Not all cedar trees carry the same level of risk. White cedar (Thuja occidentalis) is generally considered safer for goats than Eastern red cedar (Juniperus virginiana). White cedar has lower concentrations of thujone, the compound responsible for most toxicity concerns.
+
+If you are unsure which type of cedar is growing on your property, take a sample to your local agricultural extension office. They can identify it for free and tell you whether it is safe for your goats to browse.
+
 ## Wrapping Up
 
 Overall, cedar trees can be a healthy and nutritious addition to your goat's diet. But you must do your research and take some precautions before feeding cedar to your goats.

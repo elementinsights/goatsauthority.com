@@ -134,6 +134,24 @@ All varieties of potatoes are nutritious sources of vitamins, minerals, and fibe
 
 Still, sweet potatoes are the better choice if you're looking for something more nutrient-dense. They provide more vitamins, minerals, and antioxidants than regular potatoes and can benefit your goat's health in many ways.
 
+### Preparing Sweet Potatoes for Your Herd
+
+The easiest way to feed sweet potatoes to goats is to chop them into bite-sized cubes, about 1 to 2 inches across. This size is easy for goats to chew and reduces the choking risk significantly.
+
+You don't need to peel them. The skin is perfectly safe and contains extra fiber that's good for digestion.
+
+Raw sweet potatoes work fine, but some goat owners prefer to lightly steam or bake them first. Cooking softens the texture and makes the nutrients a bit more accessible, though it's not strictly necessary.
+
+Avoid feeding sweet potatoes that have started to sprout or show signs of mold. Sprouted sweet potatoes can contain compounds that are harder on a goat's stomach.
+
+### Growing Sweet Potatoes as Goat Forage
+
+If you have the garden space, sweet potato vines make fantastic supplemental forage. The vines grow fast during warm months and produce a huge amount of leafy greens.
+
+A single sweet potato slip planted in spring can yield 10 to 15 pounds of tubers plus several feet of vine by fall. Let your goats graze on the vines periodically throughout the season while the tubers develop underground.
+
+At harvest time, you get both the roots for chopping into treats and any remaining vines for one last big feeding.
+
 ## Key Takeaways
 
 Goats can consume sweet potatoes, but there are a few risks to consider. Sweet potatoes can be a choking hazard, so make sure they are cut into small pieces.

@@ -120,6 +120,14 @@ After mating, the does will need to be artificially inseminated eight weeks late
 
 Finally, once the kidding season is over, the bucks should be removed from the farm so that they don't become aggressive toward the kids. By following these steps, you can help prevent the risks associated with breeding goats.
 
+### Nutrition Tips for Breeding a 4-Year-Old Doe
+
+A 4-year-old doe has different nutritional needs than a first-time yearling. She needs extra calories and protein starting about a month before breeding season.
+
+Boost her grain ration by about half a pound per day and make sure she has free access to quality hay. A loose mineral supplement with selenium and zinc is also a good idea because both play a role in fertility.
+
+Avoid making sudden feed changes right before breeding. Gradual adjustments over a week or two will keep her rumen happy and her body in prime condition for conception.
+
 ## Wrapping Up
 
 Breeding goats can be a fun and rewarding experience, but it's important to be aware of the risks. Make sure that your does are healthy and of breeding age, choose a compatible buck, and closely observe the does during the mating process.

@@ -149,6 +149,14 @@ The cost of a male pygmy goat varies depending on many factors, such as age, hea
 
 If you are looking for a gentle, social creature that is also aesthetically pleasing, then a male pygmy goat is the perfect choice for you. They are easy to care for and make great companions.
 
+### Winter Coat vs. Summer Coat
+
+Male pygmy goats grow a noticeably thicker, longer coat in the fall as the days get shorter. This winter coat is their built-in insulation against cold temperatures.
+
+Once spring arrives and temperatures warm up, the coat will start to shed naturally. You will notice clumps of loose hair coming off when you brush them, and that is completely normal.
+
+Some owners help the shedding process along by using a de-shedding rake or grooming blade. This speeds things up and reduces the amount of loose hair floating around the barn.
+
 ## What to Remember
 
 Male pygmy goats are gentle, social creatures that make great companions. They are easy to care for and do not need to be vaccinated.

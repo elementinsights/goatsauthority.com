@@ -129,6 +129,22 @@ If you think your goat may have hoof rot, it is important to seek professional m
 
 Additionally, they can provide you with information on how to prevent hoof rot from occurring in the future.
 
+### Hoof Trimming Schedule to Prevent Rot
+
+Regular hoof trimming is the single most effective way to prevent hoof rot. Most goats need their hooves trimmed every 6 to 8 weeks, though some may need it more often depending on their environment.
+
+Goats that live on soft, wet ground wear their hooves down less naturally than goats on rocky terrain. These soft-ground goats tend to develop overgrown hooves that trap moisture and bacteria, creating the perfect breeding ground for rot.
+
+Invest in a quality pair of hoof shears and learn the proper trimming technique. You want to trim back to a flat, even sole without cutting into the quick (the pink tissue inside). If you're not confident doing it yourself, ask your vet or an experienced goat keeper to show you the first couple of times.
+
+### Foot Bath Setup for Hoof Rot Prevention
+
+A simple foot bath station near your barn entrance can work wonders for keeping hoof rot at bay. Fill a shallow tub or tray with a zinc sulfate or copper sulfate solution and have your goats walk through it once a week.
+
+The solution only needs to be a few inches deep. Position the foot bath in a spot where goats naturally pass through, like the entrance to their feeding area, so they use it without any extra effort on your part.
+
+Replace the solution every few days or whenever it gets dirty. A clean foot bath is an effective one, but a contaminated bath can actually make things worse by spreading bacteria between animals.
+
 ## Key Takeaways
 
 Hoof rot can kill a goat if it is left untreated. However, with proper care and treatment, it is possible to effectively manage the condition and ensure a full recovery for your animal.

@@ -114,6 +114,14 @@ As a result of these differences, cows and goats play very different roles on mo
 
 But, both animals play an important role in the agricultural industry.
 
+### Parasite Control Benefits of Mixed Grazing
+
+One huge advantage of running goats and cows together that many farmers overlook is natural parasite control. Most internal parasites are species-specific, meaning cattle worms cannot survive in a goat's gut and goat worms cannot survive in a cow's gut.
+
+When a cow eats grass that contains goat parasite larvae, those larvae die in the cow's digestive system. The same thing happens in reverse. This natural cycle breaks the parasite life cycle and reduces the overall worm burden on your pasture over time.
+
+Farmers who practice rotational mixed grazing often report needing to deworm their animals far less frequently. That translates to lower vet bills and reduced risk of parasite resistance to chemical dewormers.
+
 ## What to Remember
 
 Overall, there are a number of benefits to grazing goats and cows together. Not only can this help to improve the quality of the land, but it can also lead to higher-quality milk and fewer problems with herd dynamics.

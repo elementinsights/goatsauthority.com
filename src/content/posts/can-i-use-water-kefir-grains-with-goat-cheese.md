@@ -110,6 +110,12 @@ Goat cheese is another great addition since it is rich in nutrients like calcium
 
 With just a few simple steps and some basic kitchen tools, you can quickly whip up these tasty recipes and enjoy the wholesome benefits of both water kefir grains and goat cheese.
 
+### How to Store Water Kefir Grains Between Uses
+
+If you are not using your water kefir grains every day, you can store them in the fridge in a jar of sugar water. This slows down fermentation and keeps the grains alive without needing daily attention.
+
+Change out the sugar water once a week to keep the grains healthy. When you are ready to use them again, let them sit at room temperature for a day to reactivate before starting a new batch.
+
 ## Summary
 
 You can use water kefir grains to create a delicious and healthy recipe. These tiny, translucent blobs of beneficial bacteria not only impart a slightly tangy flavor to foods but also promote good gut health.

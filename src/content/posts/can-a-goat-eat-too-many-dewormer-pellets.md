@@ -134,6 +134,22 @@ Pasture management involves taking measures to prevent worms from getting into a
 
 Talk to a goat expert about which method of deworming is best for your goat.
 
+### How to Tell If Your Goat Has Eaten Too Many Pellets
+
+Sometimes goats break into the feed storage area and help themselves to the entire bag of dewormer pellets. If that happens, you need to act fast.
+
+Look for signs like excessive drooling, loss of coordination, or your goat refusing to eat or drink. Diarrhea that starts within a few hours of the overdose is another warning sign.
+
+In serious cases, your goat may become lethargic and have difficulty standing. Get your vet on the phone immediately if you see any of these symptoms. Time matters when dealing with a potential overdose.
+
+### Using the FAMACHA System Between Dewormings
+
+One of the smartest things you can do is learn the FAMACHA scoring system. This simple eye-check method lets you evaluate the color of your goat's lower eyelid to estimate its parasite load.
+
+A bright red or pink eyelid means the goat is healthy. A pale or white eyelid signals anemia from a heavy worm burden. By checking your goats regularly with this method, you can target only the goats that actually need deworming instead of treating the whole herd at once.
+
+This approach saves money on pellets and reduces the risk of parasites developing resistance to the active ingredients. Your vet can show you how to do the FAMACHA check in just a few minutes.
+
 ## Our Take
 
 A goat can eat too many dewormer pellets if the dosage is not properly calculated. Overdosing on dewormers can be just as harmful as not deworming at all.

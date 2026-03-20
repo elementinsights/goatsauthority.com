@@ -137,6 +137,14 @@ Second, you need to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-
 
 By understanding these risks and taking steps to minimize them, you can create a safe and harmonious environment for your goats and ducks.
 
+### Managing Water Sources When Ducks and Goats Share Space
+
+The trickiest part of keeping ducks and goats together is water management. Ducks need access to water deep enough to dip their entire head in, which they use to clean their nostrils and eyes. Goats, on the other hand, need clean drinking water and will refuse to drink from a trough that ducks have been splashing in.
+
+Set up at least two separate water stations. Give the ducks a shallow tub or kiddie pool for bathing, and provide the goats with an elevated water bucket or nipple waterer that the ducks cannot contaminate. Change the duck water daily since they foul it quickly.
+
+Keep the duck bathing area on a gravel pad or away from the goat sleeping area. Wet, muddy ground around a duck pond can cause hoof rot in goats if they stand in it too long.
+
 ## What to Remember
 
 Goats and ducks can live together harmoniously with a little patience and effort. By providing each animal with its own space, giving them plenty of opportunities to socialize, and monitoring their health closely, you can create a safe and healthy environment for both species.

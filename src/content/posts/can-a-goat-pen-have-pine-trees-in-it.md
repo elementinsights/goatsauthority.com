@@ -123,6 +123,14 @@ Finally, pine trees produce sap, which can be sticky and attract insects. If the
 
 For these reasons, it's crucial to monitor goats carefully if there are [pine trees in their pen](/can-goats-climb-fences/).
 
+### Protecting Young Pine Trees From Goat Damage
+
+Goats love to strip bark off young trees, and a freshly planted pine is an easy target. If you are adding new trees to an existing goat pen, you will need to protect them until they are large enough to handle some browsing.
+
+Wrap the lower trunk with hardware cloth or a commercial tree guard that extends at least four feet up from the ground. This prevents goats from chewing through the bark and killing the tree before it has a chance to establish itself.
+
+You can also build a small fence ring around each young tree. Once the tree is five or six years old with thick bark, most goats will leave the trunk alone and focus on the lower branches instead.
+
 ## Summary
 
 A goat pen can have pine trees in it, but there are a few things to consider before planting them. First, make sure to choose a type of pine tree that is strong and durable.

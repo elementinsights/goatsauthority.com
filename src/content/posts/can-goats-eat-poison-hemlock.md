@@ -126,6 +126,24 @@ The amount of poison hemlock that a goat can eat depends on the size of the goat
 
 Goats are more resistant to the toxin than [other animals](/can-goats-eat-moldy-hay/), but they can still be poisoned if they eat enough of the plant. A single bite of poison hemlock can be enough to kill a goat.
 
+### How to Identify Poison Hemlock in the Field
+
+Poison hemlock looks similar to several harmless plants like Queen Anne's lace and wild parsley, which is what makes it so dangerous. The key identifying feature is the smooth, hollow stem covered in distinctive purple or reddish blotches.
+
+The leaves are finely divided and fern-like, similar to a carrot plant. When crushed, the leaves give off an unpleasant musty smell that many people describe as similar to a mouse nest.
+
+Poison hemlock can grow 6 to 10 feet tall when it flowers, making it one of the larger weeds in a pasture. The flowers are small, white, and arranged in umbrella-shaped clusters at the top of the plant.
+
+If you are not 100 percent sure you have identified it correctly, take a photo and compare it to images from your state's agricultural extension service. Misidentifying a harmless plant as hemlock is much better than the other way around.
+
+### When Poison Hemlock Is Most Dangerous
+
+The toxicity of poison hemlock varies throughout the year. The plant is most dangerous in the early spring when new growth is tender and the alkaloid concentration is at its peak.
+
+Young hemlock plants are also the most attractive to goats because the fresh green leaves are more palatable than the tough, mature foliage. This combination of high toxicity and high palatability makes early spring the most dangerous time for accidental ingestion.
+
+By late summer, the plant has matured and dried out. Dried hemlock retains some toxicity, but goats are less likely to eat it because it is not as appealing. Seeds remain toxic and can be carried by wind or water to new areas of your pasture, so removing the plant before it goes to seed is critical.
+
 ## The Bottom Line
 
 Goats can eat poison hemlock, but it's very dangerous for them. The plant contains a toxin that can cause respiratory failure and death.

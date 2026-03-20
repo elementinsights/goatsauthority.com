@@ -122,6 +122,22 @@ If everything goes well, the doeling should [give birth to healthy baby goats](/
 
 After the [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
 
+### How to Tell When Your Doeling Is Ready
+
+Rather than going strictly by age, experienced breeders look at weight and overall development. A Nigerian Dwarf doeling should weigh at least 35 to 40 pounds before her first breeding. If she has not reached this weight by 7 or 8 months, hold off a bit longer.
+
+Check that her hip bones have widened and that she has good body condition. You want to see a solid layer of flesh over her ribs without her being overweight. A doeling that is too thin will struggle to maintain a pregnancy, and one that is too heavy may have kidding complications.
+
+Another helpful indicator is her heat cycle. If she is showing clear, regular signs of estrus every 21 days, her reproductive system is likely mature enough to handle breeding. Irregular or faint heat cycles suggest she needs more time.
+
+### What Happens If a 4-Month-Old Doeling Gets Bred Accidentally
+
+Accidental breedings happen more often than people expect. Bucks can be surprisingly resourceful at getting through fences, and a 4-month-old doeling that is physically too small for pregnancy can be in real trouble.
+
+If you suspect an accidental breeding, contact your vet right away. They may recommend a hormone injection to prevent the pregnancy from taking hold. The earlier this is done, the more effective it is.
+
+Going forward, separate your bucklings from doelings by 8 weeks of age. Young bucks can become fertile as early as 7 weeks old, so do not wait until you see mounting behavior to make the split.
+
 ## To Wrap Things Up
 
 it's possible to breed Nigerian Dwarf goats as early as 4 months of age, but it's important to consult with a veterinarian beforehand to ensure that the doeling is healthy enough for breeding.

@@ -139,6 +139,22 @@ These plants can cause gastrointestinal upset, seizures, and even death.
 
 If you have any of these plants on your property, you need to make sure that your goats cannot access them. If you are unsure whether a plant is poisonous to goats, you can contact a goat expert.
 
+### How to Goat-Proof Your Pumpkin Patch
+
+If you grow pumpkins on your property, fencing is your best friend. A standard 4-foot woven wire fence works well for most goat breeds, though climbers like Pygmy goats may need something taller.
+
+You can also try planting your pumpkins in a raised garden bed that goats can't easily access. Placing the bed at least 3 feet off the ground and away from any structures goats could use as a launch pad does the trick.
+
+Some farmers use portable electric netting around their pumpkin patches during growing season. It only takes one mild zap for most goats to learn to stay away.
+
+### Safe Pumpkin Alternatives for Goats
+
+The good news is that goats can safely enjoy the pumpkin fruit itself. Cut it into manageable chunks, scoop out the seeds, and let them go to town.
+
+Pumpkin flesh is packed with vitamin A and beta-carotene, both of which support a healthy immune system. Many goat owners save their leftover jack-o-lanterns (as long as they're not painted or covered in candle wax) for a seasonal treat.
+
+Pumpkin seeds are another safe option. They're actually a traditional natural dewormer, and goats seem to love crunching through them.
+
 ## Final Thoughts
 
 Pumpkin leaves are poisonous to goats and can cause them to become very sick. Eating just a small amount of the leaves can lead to vomiting, diarrhea, and difficulty breathing.

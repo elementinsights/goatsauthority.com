@@ -139,6 +139,14 @@ Second, avoid giving them very spicy applesauce. Goats are sensitive to spices a
 
 And finally, remember that goats are attractive creatures and will usually prefer hay or other greens over fruits and vegetables. So, don't be surprised if they don't eat all of the applesauce you give them.
 
+### Using Applesauce to Give Goats Medicine
+
+One of the best uses for applesauce is hiding medication in it. Goats are notorious for spitting out pills and powders, but mixing a crushed tablet into a spoonful of applesauce often does the trick.
+
+The sweetness masks bitter flavors that goats would otherwise reject. Squeeze the applesauce mixture into the side of the goat's mouth using a syringe (without the needle) for the cleanest delivery.
+
+This method works particularly well with deworming powders and vitamin supplements. Just make sure the dose is small enough that the goat swallows it in one go.
+
 ## Closing Notes
 
 [Goats can eat applesauce](/can-goats-eat-grapes/), but there are potential risks associated with it. The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-goats-cause-slope/), and the seeds contain cyanide, which can be toxic to goats if consumed in large quantities.

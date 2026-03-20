@@ -114,6 +114,20 @@ Colostrum is high in nutrients and antibodies, which help to protect the newborn
 
 Baby goats will typically start drinking milk from a bottle or bucket after about two weeks, but they should continue to nurse from their mothers for at least four weeks. After that, they can be slowly introduced to solid food like hay or pellets.
 
+### When to Get an Ultrasound After a Partial Miscarriage
+
+If you suspect your doe has lost one kid but is still carrying others, schedule an ultrasound with your vet as soon as possible. An ultrasound can confirm whether remaining fetuses are alive and developing normally.
+
+Most vets recommend doing this within 48 hours of the suspected miscarriage. The sooner you know how many viable kids remain, the better you can adjust her nutrition and care plan.
+
+Keep in mind that a doe who has partially miscarried is at higher risk for infection. Watch for foul-smelling discharge, fever above 104 degrees, or refusal to eat. These are all signs that she may need antibiotics right away.
+
+### Nutritional Support After a Partial Loss
+
+A doe recovering from a partial miscarriage needs extra calories and minerals to support the remaining pregnancy. Bump up her grain ration by about 25 percent and make sure she has free-choice access to a quality goat mineral supplement.
+
+Selenium and vitamin E are especially important during this time. Low selenium levels are actually one of the leading causes of pregnancy problems in goats across many regions. Ask your vet whether a BoSe injection is appropriate for your doe.
+
 ## Quick Recap
 
 Goats can miscarry one kid and still be pregnant. This is because they are mammals and reproduce by sexual intercourse.

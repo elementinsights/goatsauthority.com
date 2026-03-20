@@ -130,6 +130,14 @@ Overall, there are a few risks associated with [mixing different age groups of g
 
 Then again, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
 
+### Setting Up a Safe Transition Pen
+
+A transition pen is a small fenced area inside or next to the main goat area where the newborns can see, smell, and hear the older goats without full physical contact. A cattle panel or piece of welded wire works great as the divider.
+
+Keep the newborns in the transition pen for at least three to five days. This gives both groups time to get used to each other's presence before sharing the same space.
+
+Make sure the transition pen has its own water bucket and hay feeder. Older goats can be pushy around food, and you do not want the babies going hungry during this adjustment period.
+
 ## Final Thoughts
 
 You can mix different age groups of goats together to provide them with socialization and to [improve the quality of their milk](/can-goats-milk-be-frozen/), meat, and wool.

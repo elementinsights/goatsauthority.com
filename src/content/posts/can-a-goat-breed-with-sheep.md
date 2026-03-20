@@ -126,6 +126,14 @@ Goat-sheep hybrids are typically more expensive than traditional goats or sheep,
 
 Despite these concerns, there's still much excitement about the future of goat-sheep hybrids. These animals have the potential to greatly improve meat and dairy products around the world, and many farmers are eager to get started with them.
 
+### Real-World Geep Sightings
+
+There have been a handful of confirmed geep births around the world. In 2014, a farmer in Ireland discovered a geep in his flock that had the woolly body of a sheep but the longer legs and face of a goat. The animal quickly became a local celebrity.
+
+Another well-documented case happened in Scottsdale, Arizona, where a sheep-goat hybrid was born at a petting zoo. The staff noticed the animal looked different from day one, with a mix of wool and coarse hair covering its body.
+
+These cases are always newsworthy because they happen so rarely. Most attempts at cross-species mating between goats and sheep result in failed pregnancies or stillborn offspring due to the chromosome mismatch.
+
 ## Summary
 
 A goat can breed with a sheep, and the resulting offspring is called a geep. Geeps are very rare, and they usually have the head of a goat and the [body of a sheep](/can-a-goat-have-babies-a-week-apart/).

@@ -126,6 +126,14 @@ Finally, when adding the pine chips to your goat pen or stall, layer them betwee
 
 With these tips in mind, you can successfully use pine chips for goat bedding and keep your animals safe and healthy.
 
+### How Often to Replace Pine Chip Bedding
+
+Plan on doing a full bedding cleanout every two to three weeks in a typical goat pen. Between full cleanouts, remove any visibly soiled or wet areas daily and add a fresh layer of chips on top.
+
+Some goat owners use the deep litter method where you just keep adding fresh chips on top of the old layer and only do a full cleanout a few times a year. This can work well in cold climates because the decomposing material underneath generates a small amount of heat. The key is to keep the top layer dry at all times.
+
+If you start noticing a strong ammonia smell when you walk into the barn, that means the bedding is overdue for a change. Ammonia fumes are hard on goat lungs and can lead to pneumonia if left unchecked.
+
 ## To Wrap Things Up
 
 You can be used pine chips as bedding for goats by following a few key considerations. First, make sure the pine chips are properly aged and dry.

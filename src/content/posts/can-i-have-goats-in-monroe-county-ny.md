@@ -114,6 +114,14 @@ This option is perfect for those who want to experience the benefits of keeping 
 
 This can be a great option for those who do not have the space or resources to care for their own herd, but still want to enjoy the many benefits that goats have to offer. Whatever route you choose, goat care in Monroe County can be a fun and rewarding experience.
 
+### Common Mistakes New Goat Owners Make in Monroe County
+
+One of the biggest mistakes first-time goat owners make is underestimating how much fencing matters. Goats are escape artists, and a flimsy fence will not hold them for long. Invest in quality woven wire fencing from the start.
+
+Another common error is buying just one goat. Goats are herd animals and a single goat will become stressed, loud, and destructive. Always plan for at least two.
+
+People also forget to check their specific town's ordinances within the county. Monroe County covers a large area, and rules can vary between Rochester, Greece, Henrietta, and the more rural townships. What is allowed in Mendon might not fly in Brighton.
+
 ## Our Take
 
 In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other [goats and humans](/can-i-give-my-goats-human-fish-pills/).

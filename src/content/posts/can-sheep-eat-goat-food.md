@@ -124,6 +124,16 @@ Additionally, since goat food tends to be lower in [fiber](/can-goats-eat-timoth
 
 Overall, then, giving goats grazing rights on areas where you keep your sheep seems like a good choice both for the short- and long-term health of your flocks.
 
+### Copper Toxicity: The Biggest Danger
+
+One thing that trips up a lot of people is copper. Goat feed often contains higher levels of copper because goats need it for proper health.
+
+Sheep, on the other hand, are extremely sensitive to copper. Even small amounts can build up in their liver over time and eventually cause copper toxicity, which can be fatal.
+
+If you're sharing feed between goats and sheep, look for formulas labeled "sheep-safe" or check the copper content on the tag. Anything above 20 ppm copper is risky for sheep.
+
+Some farmers get around this by buying separate mineral supplements for each species. It costs a bit more, but it could save you from losing animals down the road.
+
 ## Key Takeaways
 
 Sheep can eat good food, but there are some risks associated with feeding them goat food.

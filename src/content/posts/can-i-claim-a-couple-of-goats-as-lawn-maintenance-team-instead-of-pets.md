@@ -115,6 +115,14 @@ With their ability to graze and weed, as well as their smaller size and agility,
 
 However, it is important to keep in mind that using goats does have some potential drawbacks, such as added expense and the need for adequate housing and food.
 
+### Zoning and HOA Considerations
+
+Before you bring goats home for lawn duty, check your local zoning ordinances. Many suburban areas classify goats as livestock, which may be prohibited on residential lots below a certain acreage.
+
+Some municipalities have started loosening these rules, particularly for miniature breeds like Nigerian Dwarfs or Pygmy goats. A few cities now allow up to two small goats on standard residential lots, though they may require a permit.
+
+If you live in an HOA-governed neighborhood, read your covenants carefully. Even if city code allows goats, your HOA might have stricter rules. Getting approval in writing before bringing goats home saves you from potential fines and forced removal down the road.
+
 ## Summary
 
 Goats can offer a number of advantages as part of a lawn maintenance program, but there are also some potential drawbacks to consider.

@@ -127,6 +127,14 @@ The best time to buy goat milk is in the spring when goats are typically lactati
 
 If you're looking for the freshest possible goat milk, you may want to consider [buying it from a farm](/can-i-sell-goat-milk-butter/) or dairy instead of the grocery store.
 
+### Popular Goat Milk Brands You'll Find on Shelves
+
+A few brands dominate the grocery store goat milk market. Meyenberg is probably the most widely available and comes in both fresh and powdered forms.
+
+Redwood Hill Farm offers organic options, including goat milk kefir and yogurt. For people who prefer ultra-pasteurized milk with a longer shelf life, Summerhill Goat Dairy is another solid pick.
+
+Prices vary by brand, but expect to pay anywhere from $5 to $9 per quart. Organic versions tend to sit at the higher end of that range.
+
 ## What to Remember
 
 Buying goat milk at the grocery store is a convenient and healthy option for many people. Goat milk is rich in nutrients, easy to digest, and a great alternative to cow's milk.

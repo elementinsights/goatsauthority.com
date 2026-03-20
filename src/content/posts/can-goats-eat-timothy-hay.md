@@ -130,6 +130,22 @@ Likewise, larger goats will eat more than smaller goats. In general, most expert
 
 So, if you have a 10-pound goat, you should provide them with approximately 0.2 pounds of hay per day. Of course, you should always consult with an animal expert to determine the best diet for your specific goats.
 
+### Timothy Hay vs. Other Hay Types for Goats
+
+Goat owners often debate whether timothy hay or orchard grass hay is the better choice. Timothy hay has a slightly higher fiber content, which makes it great for digestive health. Orchard grass is softer and more palatable, so picky eaters tend to prefer it.
+
+Bermuda grass hay is another popular option in warmer climates. It's lower in protein than timothy but still provides solid nutrition for adult goats that aren't pregnant or lactating.
+
+For the best results, many experienced goat owners offer a blend of two or three hay types. This gives goats the variety they crave and ensures a broader range of nutrients.
+
+### How to Check Timothy Hay Quality
+
+Before you buy a bale, break it open and check the color. Good timothy hay should be greenish with a pleasant, slightly sweet smell. If it looks brown or smells musty, pass on it.
+
+Feel the texture between your fingers. Quality timothy hay is soft but firm, with visible seed heads. Avoid bales that feel overly dry and crumbly, as that means the hay was cut too late and has lost much of its nutritional value.
+
+Store your timothy hay in a dry, covered area off the ground. Moisture is the enemy of good hay and can quickly lead to mold growth that's dangerous for goats.
+
 ## Our Take
 
 Goats can eat timothy hay. This type of hay is a good source of fiber and nutrients for goats, and it can help keep their digestive system healthy.

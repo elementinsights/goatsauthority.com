@@ -122,6 +122,14 @@ It's also a good idea to consult with a veterinarian or animal behaviorist to ge
 
 Finally, you need to be patient and to give them time to work things out. With some time and patience, most friendships can be repaired.
 
+### Dog Breeds That Are Worst Around Goats
+
+While many dogs can learn to coexist with goats, certain breeds have strong prey drives that make the pairing risky. Terriers, Greyhounds, Huskies, and Australian Cattle Dogs were bred to chase, herd, or hunt small animals. Their instincts can kick in without warning, even after months of peaceful coexistence.
+
+This does not mean these breeds can never be around goats. But it does mean you will need to invest significantly more time in training and supervision. A reliable recall command is absolutely essential before allowing any high-prey-drive dog near your goats unsupervised.
+
+If you are specifically looking for a dog to live alongside your goat herd, livestock guardian breeds like Great Pyrenees, Anatolian Shepherds, and Maremmas are your safest bet. These dogs were literally bred to protect goats and sheep from predators.
+
 ## Summary
 
 Goats and dogs can be friends, but it's important to be aware of the potential problems that could arise. With some patience and understanding, most goats and dogs can learn to enjoy each other's company despite their different personalities.

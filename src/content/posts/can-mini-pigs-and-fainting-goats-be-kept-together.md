@@ -122,6 +122,14 @@ Additionally, it is important to make sure that there is ample space for the ani
 
 Finally, it is also a good idea to have a vet check both animals before bringing them together to ensure that they are healthy and free of any potential diseases that could be transmitted between them.
 
+### Feeding Stations: Keep Them Separate
+
+Even though mini pigs and fainting goats can share a living space, you should always set up separate feeding stations for each species. Pigs eat fast and will push goats out of the way to get to the food.
+
+Use a pig-specific feeder that sits low to the ground and a hay rack or elevated feeder for your goats. This prevents the pigs from gobbling goat feed and vice versa.
+
+Goat feed often contains copper at levels that can be toxic to pigs over time. Keeping their meals separate protects both animals from accidentally eating something that could harm them.
+
 ## Wrapping Up
 
 Mini pigs and fainting goats can make great companions for each other on the same farm or property. They have similar care requirements and can actually help to improve the [productivity of the land](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/) they live on.

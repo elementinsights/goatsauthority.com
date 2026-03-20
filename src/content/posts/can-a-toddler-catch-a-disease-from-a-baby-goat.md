@@ -131,6 +131,16 @@ Finally, choose a farm that offers activities that are appropriate for your chil
 
 By following these guidelines, you can be sure to choose a farm that will provide a safe and enjoyable experience for the whole family.
 
+### Hand-Washing Stations Are Non-Negotiable
+
+The single most effective way to prevent disease transmission between baby goats and toddlers is thorough hand washing. Every petting zoo or farm visit should start and end at a hand-washing station with warm water, soap, and paper towels.
+
+Toddlers love to put their fingers in their mouths, which is exactly how bacteria like E. coli and Salmonella get into their systems. Make sure your child washes for at least 20 seconds, scrubbing under the fingernails and between the fingers.
+
+Hand sanitizer is a decent backup option, but it does not kill Cryptosporidium, one of the most common parasites carried by young goats. Soap and water is always the better choice when it is available.
+
+Pack a change of clothes for your toddler too. Goat feces can end up on shoes and pants, and you do not want that riding home in your car seat.
+
 ## What to Remember
 
 A toddler can catch a disease from a baby goat. However, there are steps you can take to minimize the risks, such as choosing a safe and clean farm to visit and making sure that the goats are healthy and up-to-date on their vaccinations.

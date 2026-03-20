@@ -129,6 +129,16 @@ You can also offer fruits to goats, such as apples and bananas. When feeding fru
 
 Finally, you can also offer grain products to goats, such as oats and barley. Grain products are a good source of energy and nutrients, and they can help to keep goats healthy and active.
 
+### Fresh vs. Frozen Edamame Shells for Goats
+
+If you are getting edamame from a grocery store, most of what you find will be frozen. Thawed edamame shells are softer than fresh ones, which actually makes them easier and safer for goats to chew and digest.
+
+Let frozen edamame shells thaw completely at room temperature before offering them. Cold or partially frozen shells can cause discomfort in a goat's mouth and slow down digestion.
+
+Fresh edamame shells straight from the garden are the best option if you grow soybeans yourself. They have the highest nutritional content and have not been treated with any preservatives or excess salt that packaged versions sometimes contain.
+
+Always rinse store-bought shells thoroughly before feeding them. Many frozen edamame products are pre-salted, and excess sodium is bad for goats.
+
 ## What to Remember
 
 [Goats can eat edamame shells](/can-goats-eat-tomatoes/), but there are some risks associated with feeding these to these animals. The most significant risk is that the edamame shells can be a choking hazard.

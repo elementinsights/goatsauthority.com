@@ -135,6 +135,14 @@ This may be due to the fact that cabbage is rich in nutrients and minerals, whic
 
 Cabbage is also a good source of [fiber](/can-goats-eat-timothy-hay/), which helps keep the digestive system of Pygmy goats functioning properly. For these reasons, it's not surprising that Pygmy goats often enjoy munching on cabbage leaves.
 
+### How to Prepare Cabbage for Your Goats
+
+The easiest method is to quarter a head of cabbage and toss it into the feeder. Goats will tear into it with enthusiasm. Smaller pieces reduce the choking risk for younger or smaller goats.
+
+You can also shred the cabbage and mix it with their regular hay. This works especially well for picky eaters because the strong cabbage smell tends to make the whole meal more appealing to them.
+
+Avoid feeding cabbage that has been cooked with salt, butter, or seasonings. Plain raw cabbage is always the safest option. Leftover coleslaw or sauerkraut is not appropriate either because of the added vinegar, sugar, and preservatives.
+
 ## Wrapping Up
 
 [Goats can eat cabbage](/can-goats-eat-cauliflower/). Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.

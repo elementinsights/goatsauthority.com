@@ -143,6 +143,22 @@ Finally, goats are curious animals that are known for their playful nature. They
 
 Whether you're considering adding a goat to your farm or you're just curious about these fascinating creatures, there's much to learn about goats. We hope you enjoyed this article and found it informative.
 
+### What About Nighttime Hours?
+
+Leaving goats out during the day is one thing, but nighttime is a different story. Predators like coyotes, foxes, and stray dogs are much more active after dark. Your goats should always be locked in a secure shelter once the sun goes down.
+
+Even if your property seems safe, raccoons and owls can pose a threat to smaller goats and kids. A sturdy barn or shed with a latch that predators cannot open is your best bet.
+
+If you live in a rural area with known predator activity, consider adding a livestock guardian dog to your setup. These dogs bond with the herd and will alert you to any threats during the night.
+
+### Signs Your Goat Has Been Out Too Long
+
+Watch for these red flags when you check on your goats after they have been outside for an extended period. Excessive panting or open-mouth breathing means they are overheated and need shade and water right away.
+
+If your goat seems disoriented or wobbly on its feet, dehydration could be setting in. Sunken eyes and dry gums are two more clues that your goat needs fluids fast.
+
+During cold weather, shivering and huddling in a corner are signs that your goat needs to come inside. Frostbitten ears will look pale or waxy at the tips.
+
 ## Our Take
 
 Goats can be left out for hours as long as they have access to shelter, food, and water. It's crucial to check on them regularly, but, as goats are social animals that thrive on companionship.

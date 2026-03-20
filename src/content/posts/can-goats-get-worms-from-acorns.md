@@ -119,6 +119,22 @@ With that in mind, in other cases, multiple doses may be required. If your goat 
 
 In some cases, surgery may also be necessary.
 
+### The Tannin Connection: Why Acorns May Actually Help
+
+Acorns contain tannins, which are naturally occurring plant compounds that have been studied for their anti-parasitic effects. Some research suggests that tannins can reduce worm egg counts in goat feces, which means fewer worms completing their life cycle.
+
+This doesn't mean you should treat acorns as a dewormer replacement. But it does suggest that goats who browse on tannin-rich plants like oak leaves and acorns may carry lower worm burdens than goats on tannin-free diets.
+
+Goat farmers in regions with plenty of oak trees often let their herds browse on fallen acorns during autumn as a natural supplement. Just make sure acorns don't make up more than about 25% of the total diet, since too many can cause tannin toxicity and kidney issues.
+
+### Acorn Toxicity: Know the Limits
+
+While acorns aren't a worm risk, they do carry their own dangers when overeaten. Green, unripe acorns contain the highest tannin concentrations and are the most likely to cause problems.
+
+Symptoms of acorn poisoning include dark-colored urine, constipation followed by bloody diarrhea, and loss of appetite. If you notice these signs, pull your goats off the oak pasture immediately and call your vet.
+
+Ripe, brown acorns that have fallen naturally are much safer. Soaking them in water for a day before feeding can also help leach out some of the excess tannins.
+
 ## Closing Notes
 
 Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.

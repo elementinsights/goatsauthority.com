@@ -133,6 +133,12 @@ So, if you have a goat that is particularly adventurous, they may be more likely
 
 At the same time, it's ultimately up to the individual goat to [decide whether or not they want to eat meat](/do-goats-eat-meat/). Some goats will happily chomp down on a hamburger, while others will turn their noses up at it.
 
+### What Happens if a Goat Accidentally Eats Meat
+
+If your goat grabs a piece of hamburger off a plate, do not panic. A small amount of cooked meat on a one-time basis is unlikely to cause serious harm. The goat's rumen bacteria are not optimized for digesting meat, so the goat may produce looser stools for a day or two.
+
+Watch for signs of bloat or lethargy over the next 24 hours. If the goat seems fine, it probably is. Just make sure it does not become a regular occurrence.
+
 ## Closing Notes
 
 Overall, there's no right or wrong answer to the question of whether or not [goats can eat hamburgers](/can-goats-eat-pumpkin/). If given the opportunity, most goats will happily devour a hamburger patty.

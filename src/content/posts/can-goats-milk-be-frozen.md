@@ -136,6 +136,16 @@ Goat's milk can be enjoyed fresh, or it can be frozen and then thawed. While the
 
 So, if you have a surplus of goat's milk, don't hesitate to freeze it for later.
 
+### Best Containers for Freezing Goat's Milk
+
+Not all containers are created equal when it comes to freezing goat's milk. Wide-mouth mason jars with a good amount of headspace (at least 1 inch from the top) are a popular choice among homesteaders.
+
+Plastic freezer bags also work well and have the advantage of laying flat, which saves freezer space. Just make sure to squeeze out as much air as possible before sealing.
+
+Avoid using narrow-necked glass bottles. When the milk expands during freezing, these bottles are prone to cracking or shattering. If you prefer glass, stick with jars specifically designed for freezing.
+
+Label every container with the date you froze it. Goat's milk keeps its quality for about 3 to 6 months in the freezer, so a clear date helps you rotate your stock and use the oldest milk first.
+
 ## Wrapping Up
 
 Overall, freezing goat's milk is a safe and easy way to extend its shelf life. However, it is important to be aware of the [potential hazards of freezing goat's milk](/can-a-plastic-bag-hurt-a-goat/), as well as the proper storage methods to prevent freezer burn.

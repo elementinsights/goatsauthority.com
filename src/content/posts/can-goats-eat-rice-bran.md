@@ -123,6 +123,20 @@ Rice bran can go bad pretty quickly, so it's important to make sure that it's st
 
 You can also put it in the refrigerator or freezer if you want to keep it fresh for a longer period of time. Whatever you do, just make sure that you're checking the rice bran frequently to make sure that it's still fresh and safe for your goats to eat.
 
+### Mixing Rice Bran with Other Feeds
+
+One of the best ways to feed rice bran to goats is by mixing it into their regular grain ration. A common mix is about 10-15% rice bran combined with oats, barley, or a commercial goat pellet.
+
+This helps balance out the high fat content while still giving your goats the energy boost that rice bran provides. Pregnant and lactating does tend to benefit the most from this kind of supplementation since their caloric needs are much higher.
+
+You can also sprinkle rice bran over hay to encourage picky eaters to finish their roughage. The slightly sweet, nutty flavor of rice bran seems to make hay more appealing to goats that turn their noses up at plain forage.
+
+### Signs Your Goat Is Getting Too Much Rice Bran
+
+Watch for soft or runny droppings, which can indicate too much fat in the diet. A healthy goat should produce firm, pellet-shaped droppings.
+
+If you notice your goats putting on weight quickly or developing a pot-bellied appearance, cut back on the rice bran portion. Obesity in goats can lead to serious problems like pregnancy toxemia and joint stress, especially in smaller breeds.
+
 ## To Wrap Things Up
 
 Goats can rice bran as part of a healthy and nutritious diet. However, there are a few things you need to keep in mind, such as the fact that it's high in fat and can go bad quickly.

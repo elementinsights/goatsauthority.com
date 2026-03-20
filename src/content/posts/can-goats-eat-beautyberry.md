@@ -137,6 +137,22 @@ Finally, you can also make a beautyberry tea and add it to your [goat's water](/
 
 But, you choose to incorporate it, just be sure to do so slowly and carefully so as not to upset your goat's stomach.
 
+### Beautyberry as a Natural Insect Repellent for Goats
+
+One of the most interesting things about beautyberry is its insect-repellent properties. Research from the USDA has shown that compounds in beautyberry leaves, especially callicarpenal, can repel mosquitoes, ticks, and fire ants.
+
+Some goat owners crush beautyberry leaves and rub them on their goats' coats as a natural fly repellent during summer months. While this is not as effective as commercial products, it can reduce the number of biting insects without exposing your goats to harsh chemicals.
+
+Planting beautyberry bushes along fence lines or near the barn can also help keep the insect population down in the general area.
+
+### When Beautyberry Season Peaks
+
+Beautyberry produces its signature bright purple berries in late summer through early fall, typically from August to October depending on your region. This is when your goats will be the most interested in the plant.
+
+During the rest of the year, the shrub is fairly plain-looking and goats will mostly ignore it. If you want to control how much beautyberry your goats eat, you can prune the bushes back before the berries ripen and offer the clippings in measured portions.
+
+The leaves are available for browsing from spring through fall and are generally the part of the plant that goats eat the most.
+
 ## Key Takeaways
 
 [Goats can eat beautyberry](/can-goats-eat-bananas/) safely, but it's important to monitor them closely for any adverse effects.

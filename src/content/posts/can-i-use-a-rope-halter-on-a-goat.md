@@ -114,6 +114,14 @@ You should also keep your body close and maintain constant contact with your goa
 
 This method works well for experienced handlers as well as beginner trainers, making rope halters an excellent choice for any type of [livestock owner](/can-goats-and-dogs-be-friends/).
 
+### Choosing the Right Rope Thickness
+
+Thinner ropes (about 4mm) apply more focused pressure, which gives you better communication with the goat during training. But they can also dig into skin if pulled too hard.
+
+Thicker ropes (6mm or more) spread pressure over a wider area and are more comfortable for everyday use like leading your goat to the milking stand or tying it during hoof trimming.
+
+For most goat owners, a 5mm rope is the sweet spot between control and comfort.
+
 ## Final Thoughts
 
 You can use a rope halter on a goat by acclimating the goat to the halter and then using it when you are leading or restraining your goat in some way.

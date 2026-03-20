@@ -128,6 +128,20 @@ For example, many [goats enjoy drinking apple juice](/can-goats-drink-vinegar/)Â
 
 When all is said and done, it's important to consult with a goat expert before giving any new food or drink to a goat.
 
+### Using Juice to Encourage Hydration in Sick Goats
+
+One practical use for juice is getting a dehydrated or sick goat to drink more fluids. A goat that refuses plain water will sometimes drink water with a small splash of apple juice mixed in.
+
+This trick works well during hot summer months when goats need extra fluids but are being stubborn about drinking. Mix about one part juice to ten parts water so the sugar content stays low.
+
+Some goat owners also use this method to mask the taste of electrolyte supplements. The sweetness of the juice covers up the salty flavor that many goats dislike.
+
+### Juices You Should Never Give to Goats
+
+Citrus juices like orange and grapefruit juice are too acidic for most goats and can cause mouth sores or stomach irritation. Tomato juice is another one to avoid because of its high acidity.
+
+Any juice that contains artificial sweeteners like xylitol is dangerous. Xylitol is toxic to many animals, and you should always read the label before offering any store-bought juice to your goats.
+
 ## The Bottom Line
 
 Goats can drink juice, but it's important to be mindful of the sugar content. Too much sugar can lead to health problems such as diabetes and weight gain.

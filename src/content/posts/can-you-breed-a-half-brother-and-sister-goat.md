@@ -139,6 +139,14 @@ However, inbreeding can also cause animals to inherit genes for diseases and oth
 
  it is important to be aware of the [risks before you decide to inbreed your goats](/can-a-cdt-shot-kill-a-goat/).
 
+### How to Track Bloodlines in Your Herd
+
+Keeping detailed records is the best way to avoid accidental inbreeding. Start a simple spreadsheet or notebook with each goat's name, date of birth, sire, and dam.
+
+When you bring in a new buck, write down his lineage as far back as you can get it. Many breeders use color-coded ear tags to quickly identify family groups at a glance in the pasture.
+
+Some goat registries also offer online pedigree tracking tools. These can be worth the small registration fee if you have a larger herd where it's easy to lose track of who's related to whom.
+
 ## Final Thoughts
 
 Overall, inbreeding can have both [benefits and risks](/can-a-pregnant-goat-have-penicillin/). Be sure to weigh the pros and cons carefully before deciding whether or not to inbreed your goats.

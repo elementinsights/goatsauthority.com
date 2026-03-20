@@ -132,6 +132,14 @@ Another benefit is that grain can provide the goat with extra energy. However, t
 
 These risks include digestive problems, health issues, and breeding problems. Therefore, it is important to talk to a goat expert about the best way to feed grain to your male goat.
 
+### The 2:1 Calcium-to-Phosphorus Ratio Rule
+
+One of the most practical things you can do for your male goat is to maintain a 2:1 calcium-to-phosphorus ratio in his diet. Grain is heavy on phosphorus and light on calcium, which is exactly why it causes urinary stones.
+
+Adding ammonium chloride to the feed at 0.5% to 1% of total ration is a common strategy goat farmers use to acidify the urine and dissolve stones before they become a blockage. You can buy it in powder form from most livestock supply stores.
+
+Loose goat minerals that are formulated specifically for bucks and wethers are another easy way to keep that calcium-to-phosphorus ratio in check. Avoid mineral blocks since goats cannot lick enough off them to get what they need.
+
 ## Final Thoughts
 
 Male goats can develop a condition called urinary calculi, which can be very painful and potentially life-threatening.

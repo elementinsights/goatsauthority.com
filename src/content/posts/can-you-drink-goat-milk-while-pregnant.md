@@ -122,6 +122,12 @@ Gestational diabetes occurs when there is too much sugar in the blood, and it ca
 
 Remember, your doctor is there to help - so don't hesitate to reach out if you have any questions or concerns about your health during pregnancy.
 
+### Goat Milk vs. Prenatal Supplements
+
+Some women wonder if goat milk can replace their prenatal vitamins. The short answer is no. Goat milk is nutritious, but it doesn't contain enough folic acid or iron to meet pregnancy requirements on its own.
+
+Think of goat milk as a complement to your prenatal care, not a substitute. It fills in some nutritional gaps and can be easier on your stomach than cow's milk, especially during the first trimester when nausea is at its worst.
+
 ## Wrapping Up
 
 Overall, goat milk can be a great source of essential nutrients while pregnant. Make sure to discuss any dietary changes with your doctor before consuming goat milk, and always be sure to choose pasteurized varieties.

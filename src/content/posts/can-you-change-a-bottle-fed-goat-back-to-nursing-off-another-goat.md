@@ -125,6 +125,16 @@ Another option is to feed the goat [raw milk from a cow](/can-i-raise-goats-for-
 
 Finally, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
 
+### Getting the Nursing Doe to Accept the Kid
+
+The hardest part of this whole process is often convincing the nursing doe to accept a kid that isn't hers. Does recognize their own kids by smell, so a strange kid trying to nurse will usually get kicked or butted away.
+
+One trick that works well is to rub the nursing doe's own afterbirth or milk on the bottle-fed kid. This masks the kid's scent and fools the doe into thinking the kid is hers.
+
+Another approach is to pen them together in a small space for a few days where the doe can't easily move away. Supervised nursing sessions during this period help the pair bond.
+
+Be patient with this process. Some does accept a new kid within hours, while others take a full week to come around.
+
 ## Quick Recap
 
 You can change a bottle fed goat back to nursing by slowly transitioning them off of the bottle and onto solid food.

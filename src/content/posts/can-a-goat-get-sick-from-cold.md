@@ -130,6 +130,12 @@ Then, you will need to provide them with good-quality hay or forage. Goats need 
 
 Finally, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the [winter months](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/), so make sure their shelter is well-insulated and draft-free.
 
+### Wind Chill Is the Real Danger
+
+Cold temperatures alone are not what gets most goats sick. It is the combination of wind and moisture that does the real damage. A goat can handle 20-degree weather just fine if it has a dry, wind-free shelter to retreat to.
+
+Wet fur loses its insulating ability almost entirely. If your goat gets rained on and then hit with a cold gust of wind, hypothermia can set in fast. This is why three-sided shelters should always face away from the prevailing wind direction in your area.
+
 ## To Wrap Things Up
 
 Overall, goats are relatively hardy animals. However, they can still succumb to illness if they are not properly cared for.

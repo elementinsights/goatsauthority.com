@@ -125,6 +125,14 @@ They often use their jumping ability to escape from predators or to release exce
 
 Overall, some of the most notorious jumping breeds include the Pygmy goat, the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large and full of energy, and they often use their jumping ability to escape from predators or to release excess energy.
 
+### Best Fencing Options for Jumping Goats
+
+If you've got jumpers, your fence choice matters a lot. A 5-foot woven wire fence is the minimum most goat owners recommend. For breeds like Nubians and Alpines, going up to 6 feet gives you extra peace of mind.
+
+Cattle panels attached to sturdy T-posts work well and are relatively affordable. You can also add a strand of electric wire along the top as a deterrent.
+
+Avoid using chain-link fencing with horizontal rails, since goats will use those rails as a step ladder. The same goes for any horizontal boards or structures near the fence line that goats could stand on to boost their jump height.
+
 ## Key Takeaways
 
 Goats can jump high, but there are a few risks associated with this behavior. Even so, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.

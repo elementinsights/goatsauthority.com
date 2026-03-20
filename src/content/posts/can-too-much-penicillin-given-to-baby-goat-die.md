@@ -133,6 +133,22 @@ In general, it's important to be aware of the potential side effects of giving a
 
 With prompt treatment, the chances of a full recovery are excellent.
 
+### Keeping a Medication Log
+
+One of the smartest things you can do is keep a written log every time you administer penicillin. Write down the date, time, dosage, and which kid received it.
+
+This sounds like overkill, but it prevents the most common mistake: accidentally double-dosing because you forgot you already treated the kid earlier that day. On busy farms with multiple sick kids, this happens more often than people admit.
+
+A simple notebook hung on a nail in the barn works perfectly. You can also snap a quick photo of each entry with your phone as a backup.
+
+### Signs You Need to Stop Treatment Immediately
+
+Watch for these red flags after giving penicillin: swelling at the injection site that keeps growing, difficulty breathing, excessive drooling, or the kid becoming completely limp and unresponsive.
+
+Any of these could signal an overdose or severe allergic reaction. Stop the medication right away and call your vet.
+
+Do not try to "wait it out." Minutes matter when a baby goat is reacting badly to an antibiotic.
+
 ## The Bottom Line
 
 Giving your baby goat penicillin can be a lifesaving measure, but it's important to be aware of the potential risks.

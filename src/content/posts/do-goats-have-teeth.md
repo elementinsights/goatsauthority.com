@@ -143,6 +143,20 @@ Last thing to note: remember to brush your goat's teeth regularly with a soft-br
 
 By taking these preventive measures, you can help keep your goat's teeth healthy and free from disease.
 
+### Aging a Goat by Its Teeth
+
+Did you know you can estimate a goat's age just by looking at its front teeth? Kids start with small, sharp baby teeth. By around 12 months, the center pair of baby incisors gets replaced by larger, permanent adult teeth.
+
+The second pair comes in around age 2, the third pair around age 3, and the final outer pair around age 4. Once a goat has all four pairs of adult incisors, it's called a "full mouth" and is at least 4 years old.
+
+As goats age past 6 or 7, their teeth start to spread apart, wear down, or even fall out. This is called being "broken mouthed" and it can make eating difficult. Older goats in this condition may need softer feed to maintain their weight.
+
+### Do Goats Have Upper Front Teeth?
+
+This trips people up all the time. Goats actually do not have upper front teeth. Instead, they have a hard dental pad on the top of their mouth.
+
+They press their lower incisors against this pad to tear off grass and browse. It works surprisingly well for ripping leaves off branches and snapping stems.
+
 ## Quick Recap
 
 Overall, goat's teeth are incredibly important for the animal's health. Without them, goats would be unable to properly digest their food or care for their mouths.

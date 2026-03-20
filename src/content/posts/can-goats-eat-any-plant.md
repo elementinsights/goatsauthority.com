@@ -125,6 +125,24 @@ With prompt and proper treatment, most [goats will recover from plant poisoning]
 
 But, you need to note that some plants can cause permanent damage or even be fatal, so it's always best to err on the side of caution and seek professional help as soon as possible.
 
+### How to Identify Dangerous Plants in Your Pasture
+
+The best way to protect your goats is to walk your pasture at least once a season and identify every plant growing there. Take photos of anything you do not recognize and compare them against a regional toxic plant guide.
+
+Pay special attention to fence lines and the edges of wooded areas. Poisonous plants like nightshade and water hemlock tend to grow in shaded, damp spots near tree lines rather than out in the open field.
+
+If you find a toxic plant, do not just pull it and throw it in the pasture. A wilted poisonous plant can actually be more dangerous than a fresh one because goats are more likely to eat dried plant material. Bag it up and dispose of it away from your property.
+
+### Plants Goats Love That Are Also Good for Them
+
+Not every plant discussion has to be about what goats should avoid. There are plenty of plants that goats actively seek out that also happen to be nutritious.
+
+Blackberry brambles are a favorite. Goats will strip the leaves and even eat the thorny canes without any trouble. Brambles provide good fiber and the leaves contain tannins that can help with parasite control.
+
+Plantain (the broadleaf weed, not the banana) is another winner. It grows in most yards and pastures across the country and is packed with vitamins. Goats will eat it readily.
+
+Willow branches are also safe and beneficial. Many goat owners keep a few willow trees near the pasture because the bark contains a natural compound similar to aspirin. Goats that browse on willow often seem to have fewer issues with minor inflammation.
+
 ## Key Takeaways
 
 Overall, goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.

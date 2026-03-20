@@ -128,6 +128,16 @@ Finally, you can use natural remedies such as apple cider vinegar to help balanc
 
 However, it's important to note that these alternative treatments are not a substitute for veterinarian care. If your goat is showing signs of an infection, always consult with a goat expert before trying any alternative treatments.
 
+### The FAMACHA Scoring System
+
+If you're not familiar with FAMACHA, it's a quick test you can do yourself to check for barber pole worm infection. You pull down the goat's lower eyelid and compare the color to a chart that ranges from dark red (healthy) to pale white (severely anemic).
+
+Scores of 1 and 2 mean the goat is fine. A score of 3 means you should keep an eye on her. Scores of 4 and 5 mean she needs deworming right away.
+
+This method is especially useful for pregnant does because it helps you avoid unnecessary deworming. You only treat the animals that actually need it, which also slows down parasite resistance to dewormers.
+
+You can buy a FAMACHA card online or get one from your vet. It takes less than 30 seconds per goat once you get the hang of it.
+
 ## Quick Recap
 
 Overall, [worms are a common problem for goats](/can-goats-get-worms-from-acorns/) and can cause serious health issues if not treated properly. It's important to take preventative measures such as providing clean shelter and good quality feed, as well as having your goat checked by a goat expert regularly.

@@ -136,6 +136,14 @@ This involves removing the testicles of the [male goat](/can-you-breed-a-half-br
 
 Both of these procedures are less risky than banding and can help to prevent some of the complications associated with banding. However, they are not without risks and should be done by a trained professional.
 
+### Recovery Time After Banding
+
+If you do band a younger goat at the recommended age of 4 to 6 months, expect the scrotum to dry up and fall off within 2 to 4 weeks. During that time, watch the area daily for signs of infection like swelling, discharge, or a foul smell.
+
+Keep the goat in a clean, dry area while healing. Flies are a major concern during warmer months because they can lay eggs in the banding site and cause flystrike.
+
+A quick spray of wound care product designed for livestock can help keep flies away and promote healing.
+
 ## Wrapping Up
 
 Banding a goat is a risky procedure that can cause complications. The most common complication is that the band can slip off, which can cause the goat's hooves to overgrow and get caught on things.

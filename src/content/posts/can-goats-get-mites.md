@@ -133,6 +133,22 @@ Finally, there is the Sarcoptes scabies mite, which is the most dangerous of all
 
 If left untreated, this type of mite can cause anemia and even death.
 
+### Seasonal Patterns of Mite Infestations
+
+Mite outbreaks tend to peak during the colder months, particularly late fall and winter. This is because goats spend more time huddled together in barns and shelters, creating the warm, crowded conditions that mites love.
+
+During summer, infestations typically drop off as goats spend more time outdoors in the sun. UV light and drier conditions make it harder for mites to survive and reproduce.
+
+Knowing this pattern helps you plan your prevention strategy. Treat your goats with a preventive insecticide in early fall, before the cold weather drives them indoors.
+
+### How Mites Spread Between Goats
+
+Direct contact is the most common way mites jump from one goat to another. When goats rub against each other, share bedding, or groom one another, mites can transfer easily.
+
+Shared equipment is another culprit. Brushes, halters, and blankets that have been used on an infested goat can carry mites to healthy animals. Always clean and disinfect these items between uses.
+
+Bringing new goats into your herd without quarantining them first is one of the fastest ways to introduce a mite problem. Keep any new arrivals separated for at least two weeks and inspect them thoroughly before mixing them with your existing goats.
+
 ## Our Take
 
 Goats can get mites, but there are a few things you can do to treat and prevent them. With some care and attention, you can keep your goats healthy and free of pests.

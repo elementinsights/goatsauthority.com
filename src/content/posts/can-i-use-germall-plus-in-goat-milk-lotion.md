@@ -124,6 +124,20 @@ Germall Plus should be added to the lotion during the cool-down phase after the 
 
 To make sure the [preservative](/can-i-put-safeguard-in-my-goats-milk/) works optimally, stir it well into the mixture until it is completely dissolved. Keep in mind that Germall Plus must be dissolved before use; stirring thoroughly beforehand will guarantee its effectiveness.
 
+### Recommended Usage Rates for Germall Plus
+
+The standard usage rate for Germall Plus in lotion formulations is between 0.1% and 0.5% of the total batch weight. For a small batch of goat milk lotion (say, 16 ounces), that translates to roughly 0.5 to 2.4 grams.
+
+Using a digital jewelry scale that measures in tenths of a gram makes this much easier than guessing. Too little preservative and your lotion will grow bacteria within weeks. Too much and you risk skin irritation for the end user.
+
+If you are selling your lotion at farmers markets or online, keeping a log of your preservative measurements for each batch is a smart practice. It helps with consistency and gives you documentation if a customer ever raises a concern.
+
+### Shelf Life Expectations
+
+A properly preserved goat milk lotion with Germall Plus should last about 6 to 12 months at room temperature. Always label your products with a "best by" date so users know when to replace their bottle.
+
+Store finished lotion away from direct sunlight and heat, as both can break down the preservative faster than expected.
+
 ## What to Remember
 
 You can use Germall Plus in your goat milk lotion, but you should consider the pH of your product and perform a patch test prior to use.

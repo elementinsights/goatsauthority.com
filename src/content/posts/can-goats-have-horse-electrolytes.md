@@ -131,6 +131,22 @@ This will help them stay hydrated and avoid becoming stressed in the heat. If yo
 
 With a little preventive care, you can keep your goats healthy and happy all year long.
 
+### DIY Electrolyte Mix for Goats
+
+You don't always need to buy a commercial product to give your goats electrolytes. A simple homemade mix works well in a pinch and costs almost nothing to make.
+
+Combine 1 gallon of warm water with 1 tablespoon of salt, 1 tablespoon of baking soda, and 1/4 cup of molasses or honey. Stir until everything is dissolved and offer it to your goats in a clean bucket.
+
+This recipe provides sodium, potassium, and quick energy from the sugars in the molasses. It's especially handy during summer heat waves or when a goat is recovering from a bout of diarrhea.
+
+Keep in mind that this homemade version is not a substitute for veterinary treatment if your goat is severely dehydrated. It's meant as a supportive measure for mild cases or as a preventive tool.
+
+### Signs Your Goat Needs Electrolytes Right Now
+
+A dehydrated goat will show a few telltale signs you can spot quickly. Pinch the skin on the side of the neck and release it. If the skin stays tented for more than two seconds, dehydration is likely.
+
+Other signs include dry, sticky gums, sunken eyes, and decreased urination. A goat that's standing off by itself and refusing food or water should be treated as an urgent case.
+
 ## What to Remember
 
 Goats can have horse electrolytes, but it is best to give them a diet that is low in salt. Some goats may still need additional electrolytes, especially during periods of stress or hot weather.

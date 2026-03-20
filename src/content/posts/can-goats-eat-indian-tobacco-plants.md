@@ -129,6 +129,16 @@ If you choose to feed your goat Indian tobacco plants, do so sparingly and only 
 
 When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first. This will help to ensure that your goat stays healthy and safe.
 
+### How to Identify Indian Tobacco in Your Pasture
+
+Indian tobacco (Lobelia inflata) has distinctive features that make it relatively easy to spot once you know what to look for. The plant typically grows 1 to 3 feet tall with a hairy stem and small, pale blue or violet flowers that bloom from midsummer through fall.
+
+The leaves are oval-shaped with toothed edges and have a slightly bitter taste. If you break a stem, it releases a milky sap. The seed pods are inflated and balloon-shaped, which is how the plant got its species name "inflata."
+
+Indian tobacco tends to grow in open fields, along roadsides, and at the edges of woodland areas. It thrives in poor, acidic soils that other plants avoid.
+
+If you spot this plant in or near your pasture, pull it up by the roots and dispose of it. Mowing alone will not kill it since it regrows from the root system. Repeated pulling over a couple of seasons is usually needed to eliminate it completely.
+
 ## Closing Notes
 
 Overall, it's not recommended that you feed Indian tobacco plants to your goat. The plants are highly toxic and can cause serious health problems.

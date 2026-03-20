@@ -144,6 +144,14 @@ By following these simple guidelines, you can ensure that your frozen semen will
 
 When thawing frozen semen, you need to use warm water or an incubator. Additionally, you need to use an appropriate insemination device.
 
+### How Long Does Frozen Goat Semen Stay Viable?
+
+When stored correctly in liquid nitrogen at -196 degrees Celsius, frozen goat semen can remain viable for decades. There are documented cases of successful pregnancies using semen that was frozen 20 or more years earlier.
+
+The key factor is maintaining a consistent temperature. Any fluctuation, even briefly, can damage the sperm cells and reduce fertility rates. Check your liquid nitrogen tank levels weekly to make sure the semen stays fully submerged.
+
+Most breeders recommend using frozen semen within 10 years for the best conception rates. After that, viability starts to decline slowly, though it doesn't drop to zero.
+
 ## Our Take
 
 Goat's sperm can be saved by freezing it. This is a great way to preserve the genetics of your favorite animals.

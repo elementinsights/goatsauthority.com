@@ -126,6 +126,14 @@ Some of these recipes include Kentucky bluegrass [hay cubes](/can-goats-eat-hay-
 
 All of these recipes are designed to provide goats with the nutrients they need to stay healthy and thrive.
 
+### Mixing Kentucky Bluegrass With Other Forages
+
+Goats do best when they have access to a variety of forage types rather than just one species of grass. Planting Kentucky bluegrass alongside orchard grass or white clover creates a more balanced pasture.
+
+Clover adds nitrogen to the soil and provides a higher protein source that complements the fiber in bluegrass. Orchard grass matures at a different rate, so the pasture stays productive over a longer window each season.
+
+This type of mixed pasture also reduces the chance of bloat. When goats eat a single species exclusively, the rumen bacteria become specialized and less adaptable. A diverse pasture keeps the microbial population flexible and better equipped to handle whatever the goat eats.
+
 ## Our Take
 
 [Goats can eat Kentucky bluegrass](/can-goats-eat-watermelon/), but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.

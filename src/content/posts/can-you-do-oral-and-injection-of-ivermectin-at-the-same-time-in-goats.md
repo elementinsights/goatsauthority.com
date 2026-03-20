@@ -122,6 +122,14 @@ One way to help ensure that your goats receive the correct dosage of medication 
 
 If you're having difficulty getting your goats to consume their medication, directly administering the dose into their mouths with a syringe can be more effective. Though it may take some practice at first, soon you'll be able to do it without any trouble.
 
+### Withdrawal Periods to Keep in Mind
+
+If you're milking your goats or plan to send them to slaughter, you need to know the withdrawal period for ivermectin. This is the amount of time you must wait after treatment before the milk or meat is safe for human consumption.
+
+For injectable ivermectin, the typical meat withdrawal is 35 days. Milk withdrawal varies but most vets recommend at least 9 days for dairy goats.
+
+Keep in mind that using both oral and injectable forms at the same time could extend these windows. Always ask your vet for specific guidance based on the products you're using.
+
 ## Our Take
 
 Overall, ivermectin is a safe and effective way to treat parasites in goats. When used correctly, it can help protect your animals from the dangers of parasites while also providing them with relief from common symptoms.

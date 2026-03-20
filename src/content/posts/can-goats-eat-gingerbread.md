@@ -138,6 +138,22 @@ Bake the gingerbread balls for 10-12 minutes, or until golden brown. Allow them 
 
 They'll love the delicious, festive treat.
 
+### Which Gingerbread Ingredients Are the Most Concerning?
+
+Nutmeg is the biggest red flag. It contains a compound called myristicin that is toxic to goats in even moderate amounts. A single gingerbread cookie probably will not cause a problem, but a goat that eats a whole batch of heavily spiced gingerbread could be in serious trouble.
+
+Molasses in small amounts is generally fine. The issue is quantity. Molasses is extremely high in sugar, and a large dose can trigger a rapid shift in rumen pH that leads to acidosis.
+
+White sugar and flour are not toxic on their own, but they provide zero nutritional value and can feed harmful bacteria in the gut if consumed in large portions.
+
+### Healthier Holiday Treat Alternatives
+
+If you want to give your goats something special during the holidays without the risks of gingerbread, there are better options. Sliced apples with a tiny drizzle of molasses make a festive treat that most goats love.
+
+Pumpkin pieces are another seasonal option that is both safe and nutritious. Goats can eat the flesh, seeds, and skin with no issues.
+
+You can also bake simple goat cookies using oats, a small amount of molasses, and shredded carrots. Skip the spices entirely and your goats will still be thrilled. They care more about the texture and sweetness than the flavor profile.
+
 ## Wrapping Up
 
 Goats can eat gingerbread, but there are both benefits and risks associated with feeding them this holiday treat.

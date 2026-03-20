@@ -134,6 +134,22 @@ There are many alternative foods that you can give your goats. Some examples inc
 
 You should always consult with a veterinarian or animal nutritionist to determine which foods are best for your particular herd.
 
+### How to Spot Mold on Pumpkins Before Feeding
+
+Mold does not always look obvious on pumpkins. Sometimes it starts as a soft, discolored spot on the bottom where the pumpkin was resting on the ground.
+
+Give the pumpkin a good sniff before tossing it to your goats. A musty or sour smell is a dead giveaway that mold has already started to develop inside, even if the outside looks fine.
+
+Press your thumb against the rind in several spots. If any area feels soft or gives way easily, that section is likely compromised.
+
+When in doubt, cut the pumpkin open and inspect the interior. Healthy pumpkin flesh should be firm and bright orange. Any dark spots, fuzzy patches, or slimy areas mean the pumpkin belongs in the compost pile, not in the feed trough.
+
+### Safer Pumpkin Storage Tips
+
+Store whole pumpkins in a cool, dry location off the ground. Placing them on a wooden pallet or shelf helps air circulate underneath and slows down rot.
+
+Once you cut a pumpkin, feed the pieces to your goats within a day or two. Cut pumpkin spoils fast, especially in warm weather.
+
 ## Closing Notes
 
 You cannot give a moldy pumpkin to goats. If they eat it, they could get sick.

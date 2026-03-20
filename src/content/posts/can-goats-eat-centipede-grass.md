@@ -132,6 +132,22 @@ This means that a 50 lb Goat will need between 0.5 and 1 lb of dry grass per day
 
 it's always best to consult with a veterinarian or experienced goat keeper to determine the [best diet](/why-do-goats-eat-everything/) for your goats.
 
+### How Centipede Grass Compares to Other Pasture Grasses
+
+Centipede grass has a lower protein content than bermuda or fescue grass. This means it works best as a supplemental forage rather than a primary food source for goats.
+
+For comparison, bermuda grass typically runs around 10 to 14 percent crude protein, while centipede grass sits closer to 6 to 9 percent. If your pasture is mostly centipede grass, you will likely need to provide additional hay or a protein supplement to keep your goats in good condition.
+
+On the plus side, centipede grass is lower in fructans than ryegrass and fescue. This makes it a safer option for goats that are prone to bloat or laminitis from high-sugar grasses.
+
+### Will Goats Destroy a Centipede Grass Lawn?
+
+This is a real concern for anyone thinking about letting goats graze on their centipede grass yard. The short answer is yes, goats can absolutely destroy a centipede lawn if given unrestricted access.
+
+Centipede grass has a shallow root system and spreads by stolons that sit close to the soil surface. Goats will pull up stolons while grazing, which damages the grass much more than simple mowing would.
+
+If you want to let your goats graze on centipede grass without killing it, use rotational grazing. Let them graze a section for a day or two, then move them to a different area. Give the grazed section at least three to four weeks to recover before bringing the goats back.
+
 ## Quick Recap
 
 Goats can eat centipede grass with no problems. In fact, centipede grass is a great source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/).

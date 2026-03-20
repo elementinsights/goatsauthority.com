@@ -126,6 +126,14 @@ So be sure to correct any aggressive behavior immediately, and be consistent in 
 
 By following these tips, you can help prevent aggression in goats and create a more peaceful environment for everyone involved.
 
+### The Role of Hormones in Goat Aggression
+
+Intact bucks are by far the most aggressive goats you will encounter. During rut (breeding season), testosterone levels skyrocket and even the friendliest buck can become unpredictable. They will charge, headbutt, and spray urine on themselves and everything around them.
+
+Castrating a buck (making him a wether) is one of the most reliable ways to reduce aggression. Wethers tend to be calmer, friendlier, and much easier to handle. If you do not plan to breed your buck, castration is worth discussing with your vet.
+
+Does can also become aggressive around kidding time. A protective mama goat may charge at anyone who gets too close to her newborns. This type of aggression is temporary and usually fades once the kids are a few weeks old.
+
 ## Key Takeaways
 
 Goats are intelligent, social creatures that can make [great pets](/can-goats-be-tamed/). However, like all animals, they can sometimes exhibit aggressive behavior.

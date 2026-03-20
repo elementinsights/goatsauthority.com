@@ -134,6 +134,12 @@ This is because crossbreeds are often more resistant to disease and pests, and t
 
 With proper care, the offspring of a Nigerian buck goat and a female boer goat can expect to live between 10 and 12 years.
 
+### Size Considerations During Breeding
+
+The biggest practical challenge with this cross is the size difference. Nigerian Dwarf bucks typically weigh 28 to 40 pounds, while a Boer doe can weigh 200 pounds or more. The buck may need a slight elevation or ramp to successfully mount the doe.
+
+Some breeders place a small mound of packed dirt or a low platform in the breeding pen to give the buck a height advantage. This simple trick makes the process much easier and less stressful for both animals.
+
 ## Key Takeaways
 
 Overall, Nigerian dwarf goats make excellent breeding partners for female boer goats.

@@ -151,6 +151,14 @@ Additionally, many wildlife preserves and sanctuaries across the country also fe
 
 So if you're looking for an opportunity to experience nature at its finest, be sure to keep your eyes peeled for a glimpse of this versatile creature in its natural habitat.
 
+### How Young Mountain Goats Learn to Climb
+
+Mountain goat kids start practicing on rocky terrain within days of being born. The mothers guide them to progressively steeper surfaces over the first few weeks, and the kids follow closely.
+
+By the time they are a few months old, the young goats can handle ledges that would make most humans dizzy. This learning process is essential to survival since cliffs are their primary escape route from predators like wolves and mountain lions.
+
+Kids that fall during this learning period rarely survive, which is one reason mountain goat populations grow slowly compared to other ungulates.
+
 ## Final Thoughts
 
 Overall, the mountain goat is a versatile and hardy animal that has adapted to survive in some of the most extreme environments on Earth.

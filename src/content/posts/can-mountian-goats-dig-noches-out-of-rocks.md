@@ -139,6 +139,16 @@ And remember to give them plenty of space, as mountain goats are wild animals a
 
 ## Final Thoughts
 
+### The Role of Salt Licks in Noche Digging
+
+One of the main reasons mountain goats dig into rock is to access mineral deposits, especially sodium. High-altitude environments are naturally low in salt, and goats have an intense craving for it.
+
+Over time, entire herds will return to the same mineral-rich rock faces again and again. These repeated visits carve out visible depressions in the stone that can grow to several inches deep across generations of goats.
+
+Salt licks along cliff faces can actually become a problem for trail maintenance in national parks. The goats will stand on narrow ledges for hours, licking and scraping at the rock, which loosens debris and creates small rockfall hazards for hikers below.
+
+Park managers in places like Glacier National Park have experimented with providing artificial mineral supplements to redirect goats away from trails. The results have been mixed, but it shows just how strong the mineral drive is in these animals.
+
 Mountain goats are some of the most fascinating creatures in the animal kingdom. These hardy animals have adapted to thrive in some of the most challenging environments, and they possess a variety of unique abilities that make them well-suited for life in the mountains.
 
 Whether you're marveling at their agility while they climb sheer cliff faces or watching them dig noches into the ice, there's no doubt that mountain goats are an impressive sight to behold.

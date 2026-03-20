@@ -124,6 +124,14 @@ Finally, always take steps to avoid oxidization of the goat cheese by packing it
 
 With these tips and a little bit of practice, you can prepare delicious and nutritious [homemade goat cheese for your baby](/can-8-week-old-baby-goats-be-in-with-each-other/) with confidence.
 
+### Age-Appropriate Serving Ideas
+
+For infants around 6 to 8 months old, mix a small amount of soft goat cheese into pureed vegetables like sweet potato or butternut squash. The creamy texture blends right in and adds a mild tangy flavor that many babies enjoy.
+
+Once your baby is comfortable with finger foods (around 9 to 12 months), you can offer small crumbles of goat cheese on their tray. The soft texture makes it easy to gum even without teeth.
+
+Avoid giving infants aged goat cheese or varieties with added herbs and spices. Stick with plain, fresh goat cheese that has no added salt or flavorings until your child is at least one year old.
+
 ## What to Remember
 
 Goat cheese is a versatile and delicious cheese that can be enjoyed in a variety of ways. When choosing goat cheese, it's important to consider factors like texture, taste, and freshness.

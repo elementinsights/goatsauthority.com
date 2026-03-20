@@ -126,6 +126,14 @@ Fortunately, cold sores in goats are not considered to be contagious. There's no
 
 Even so, it's still important to practice good hygiene and avoid close contact with goats that have [cold sores](/can-pregnant-goats-eat-medicated-feed/). If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
 
+### Orf Virus vs. Cold Sores in Goats
+
+One condition that is often confused with cold sores in goats is orf, also known as sore mouth or contagious ecthyma. Orf causes scabby lesions around the mouth, nostrils, and sometimes the udder.
+
+The key difference is that orf is caused by a parapoxvirus, not the herpes simplex virus. Orf is also zoonotic, meaning it can spread to humans who handle infected goats without gloves. The lesions from orf tend to be crustier and more raised than typical cold sores.
+
+If you are unsure whether your goat has cold sores or orf, a vet can take a sample and run tests. Knowing which condition you are dealing with changes the treatment plan completely.
+
 ## To Wrap Things Up
 
 Goats can get cold sores, but they are not contagious to humans. If you have a goat with a cold sore, you should clean the sore and practice good hygiene.

@@ -139,6 +139,16 @@ This will help to prevent the risk of bloat, as well as the other risks associat
 
 Finally, farmers should always consult with a goat expert before feeding Rhus ovata to their goats. This will ensure that the goats are healthy and able to safely consume Rhus ovata.
 
+### Identifying Rhus Ovata on Your Property
+
+Rhus ovata grows as an evergreen shrub, typically reaching 8 to 15 feet tall. It has leathery, dark green leaves that fold along the midrib, giving them a taco-like shape.
+
+In the spring, it produces clusters of small pink to white flowers. By late summer, you'll see sticky, reddish berries that are coated in a sugary substance (which is why people call it sugar bush).
+
+The plant thrives in dry, well-drained soils and is commonly found on hillsides throughout Southern California, Arizona, and parts of Baja Mexico. If you're unsure whether a shrub on your property is Rhus ovata, compare the leaves to photos online or bring a sample to your local agricultural extension office.
+
+Knowing what you're dealing with helps you decide how much to let your goats graze on it.
+
 ## The Bottom Line
 
 Goats can eat Rhus ovata, but there are some risks associated with doing so. It is important to be aware of these risks and take steps to prevent them.

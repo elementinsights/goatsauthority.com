@@ -120,6 +120,14 @@ Similarly, goats are typically less likely to contract [parasites](/can-goats-ge
 
 Ultimately, it is crucial to consult with a veterinarian to determine the best deworming schedule for your individual goat. With proper care and treatment, most goats can stay healthy and free of parasites.
 
+### What to Watch for After Giving Pepto Bismol
+
+After dosing your goat, keep an eye on them for the next few hours. Their stool may turn darker than usual, and that is completely normal with bismuth subsalicylate. It is not a sign of internal bleeding.
+
+You should see improvement within 12 to 24 hours. If your goat still has diarrhea or seems uncomfortable after that window, a vet visit is the smart next step.
+
+Also pay attention to water intake. A goat dealing with stomach issues can get dehydrated quickly, so make sure fresh water is always within reach.
+
 ## Our Take
 
 You can give your goats Pepto Bismol if they are experiencing indigestion or other gastrointestinal issues. However, you need to be mindful of the proper dosage and delivery method, as even small overdoses can cause serious harm.

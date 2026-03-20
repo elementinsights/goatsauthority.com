@@ -126,6 +126,28 @@ Another option is to purchase feed from a local farm or Feed store. This is a go
 
 Finally, you can also supplement your goats' diet with kitchen scraps or other leftover food. While you need to make sure that your goats are getting the nutrients they need, a little variety in their diet can go a long way toward keeping them healthy and happy.
 
+### The Copper Problem With Cattle Feed
+
+This is the single biggest issue that goat owners need to understand before feeding cattle products to their herd. Cattle feed is formulated with copper levels that are safe for cows but can be toxic to sheep. Goats fall somewhere in between.
+
+Goats actually need more copper than sheep do. Most goat-specific feeds contain added copper because goats are prone to copper deficiency. But some cattle feeds have copper levels that are higher than what goats can safely tolerate over the long term.
+
+Check the feed tag for copper content. Goat feeds typically contain 35 to 50 ppm of copper. If the cattle feed you are considering exceeds that range significantly, it could cause copper toxicity over time. Symptoms include jaundice, dark-colored urine, and sudden collapse.
+
+### Medicated Cattle Feed Is a Serious Risk
+
+Many cattle feeds contain medications like monensin (Rumensin) that are routinely added to prevent coccidiosis and improve feed efficiency in cattle. Monensin is extremely toxic to goats, even in small amounts.
+
+A goat that eats feed containing monensin can develop heart failure and die within days. There is no antidote. This is not a theoretical risk. It is one of the most common causes of sudden death in goats that have access to cattle feed.
+
+Always read the label. If the feed contains any ionophores like monensin, lasalocid, or salinomycin, do not feed it to goats under any circumstances.
+
+### When Cattle Feed Makes Sense for Goats
+
+The safest scenario for feeding cattle products to goats is when you are using a non-medicated, basic hay and grain mix. Whole corn, plain oats, and grass hay that is sold as cattle feed is generally fine for goats in moderation.
+
+Many small farms with mixed livestock find it more practical to buy one type of feed in bulk. If you go this route, choose the simplest, least processed option and supplement with goat-specific minerals on the side.
+
 ## Closing Notes
 
 Goats are intelligent creatures with specific dietary needs. Cattle feed can be a good option for goats, but you need to choose the right type and provide a balance of hay and grain.

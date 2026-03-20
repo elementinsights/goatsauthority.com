@@ -116,6 +116,16 @@ Nigerian Dwarfs are known to be susceptible to certain health problems, such as 
 
 These health problems can be passed on to the offspring of a cross between these two breeds. While not all Pygmy Goat-Nigerian Dwarf crosses will be affected by these conditions, it's something that potential breeders should be aware of.
 
+### What the Offspring Typically Look Like
+
+The kids from a Pygmy-Nigerian Dwarf cross are often called "Pygerian" goats in casual goat-keeping circles. They tend to be stocky and compact like Pygmies but with the dairy-style body shape of a Nigerian Dwarf.
+
+Coat colors vary wildly since both parent breeds carry multiple color genes. You might get solid black kids, caramel-colored kids, or even spotted ones from the same litter. Their ears are usually upright and medium-sized, falling somewhere between the two parent breeds.
+
+Most Pygerian kids weigh between 2 and 3 pounds at birth. They grow quickly in the first few months and typically reach their adult size of 18 to 22 inches tall by about one year old.
+
+These crosses can produce surprisingly good milk for their size. Many hobby farmers keep them specifically because they get the hardiness of a Pygmy with the milking ability of a Nigerian Dwarf.
+
 ## Final Thoughts
 
 A pygmy goat nanny can successfully breed with a Nigerian dwarf billy goat, but there are some [potential consequences that should be considered before breeding these two types of goats](/can-a-plastic-bag-hurt-a-goat/).

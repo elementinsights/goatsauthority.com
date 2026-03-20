@@ -123,6 +123,16 @@ They can help you navigate the available research and advise you based on your s
 
 Getting personal recommendations from those who have gone before you can be a great way to gain insight into this topic and better inform your decision-making process.
 
+### How to Cook Goat Legs Safely During Pregnancy
+
+Food safety is extra important when you're pregnant, and goat meat is no exception. Always cook goat legs to an internal temperature of at least 160 degrees Fahrenheit to kill any potential bacteria.
+
+Use a meat thermometer to check the thickest part of the leg. Color alone isn't a reliable indicator of doneness, since goat meat can look slightly pink even when fully cooked.
+
+Slow cooking methods like braising and stewing are your best bet for goat legs. They break down the connective tissue and make the meat tender while ensuring thorough, even cooking throughout.
+
+Avoid eating goat meat that's been sitting at room temperature for more than two hours. Refrigerate leftovers promptly and consume them within three to four days.
+
 ## Key Takeaways
 
 In the end, whether or not you choose to eat goat legs during pregnancy will depend on a number of individual factors.

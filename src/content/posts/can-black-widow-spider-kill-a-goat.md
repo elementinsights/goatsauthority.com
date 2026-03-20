@@ -125,6 +125,16 @@ In addition to their well-known black and red coloring, black widow spiders can 
 
 The size of a black widow spider varies depending on the species, but they are typically between 0.5 and 1.5 inches in length.
 
+### Where Black Widows Like to Hide in Goat Barns
+
+Black widows prefer dark, undisturbed spaces. In a typical goat barn, you will find them tucked into corners of hay storage areas, underneath feed buckets, inside old tires, and behind stacked lumber or pallets.
+
+They also love to build webs in the gaps of cinder block walls and around door frames that do not get much traffic. Any cluttered area of your barn is prime real estate for these spiders.
+
+To reduce the black widow population around your goats, keep the barn tidy and well-lit. Remove old hay bales, clear out junk piles, and sweep cobwebs regularly. Wear gloves whenever you reach into dark spaces.
+
+Some farmers keep chickens or guinea fowl near the barn because these birds eat spiders as a snack. It is a natural form of pest control that works surprisingly well.
+
 ## The Bottom Line
 
 Black widow spiders can kill a goat. Their venom is very potent and can cause serious reactions, including tissue damage, paralysis, and even death.

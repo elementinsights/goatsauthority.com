@@ -120,6 +120,20 @@ Additionally, some studies have suggested that consuming [electrolytes](/can-goa
 
 Nevertheless, by exploring all of their possible treatment options, dehydration sufferers can find a solution that works best for them.
 
+### Signs Your Goat Is Dehydrated
+
+Knowing when to step in with a syringe starts with recognizing dehydration early. Pull up a small fold of skin on your goat's neck and let go. If the skin snaps back quickly, hydration is probably fine. If it stays tented for two or more seconds, your goat needs fluids right away.
+
+Other red flags include sunken eyes, dry or sticky gums, and dark-colored urine. A dehydrated goat will also act lethargic and refuse to eat.
+
+### Choosing the Right Syringe Size
+
+For adult goats, a 60 mL catheter-tip syringe works best. It holds enough water to make each session worthwhile without being so large that it is hard to handle.
+
+For kids or smaller breeds, a 20 mL or 35 mL syringe is easier to control. The smaller size also reduces the chance of accidentally squirting too much water into their mouth at once, which can cause choking.
+
+Always aim the syringe toward the side of the mouth, not straight down the throat. Let the goat swallow at its own pace between squirts.
+
 ## Quick Recap
 
 Overall, hydration therapy can be a safe and effective way to treat various medical conditions. However, it is important to be aware of potential complications that may arise during treatment.

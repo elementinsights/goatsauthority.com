@@ -114,6 +114,16 @@ A qualified veterinarian will be able to assess the situation and provide the ne
 
 In severe cases, a veterinarian may need to perform surgery to remove the pine needles from the goat's stomach. Even so, with prompt medical care, [most goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
+### Which Pine Species Are Safest for Pregnant Goats?
+
+Not all pine trees are the same when it comes to goat safety. Eastern white pine, Scots pine, and Austrian pine are generally considered the safest options for goats, including pregnant does.
+
+Ponderosa pine is the one to watch out for. It contains a compound called isocupressic acid, which has been linked to late-term abortions in cattle and may pose similar risks for goats. If you have Ponderosa pines on your property, it's best to fence them off from pregnant animals entirely.
+
+Yew trees, which some people confuse with pines, are extremely toxic to goats at any life stage. Even a small amount of yew needles can be fatal within hours. Make sure you can tell the difference between pine and yew before letting your goats browse freely.
+
+When in doubt about a tree species, snap a photo and ask your local agricultural extension office to identify it. A few minutes of checking could prevent a serious loss.
+
 ## To Wrap Things Up
 
 Overall, feeding pine needles to [pregnant goats can be a great way to improve their health](/can-you-deworm-a-pregnant-goat/) and nutrition. However, it is important to exercise caution and consult with a qualified professional before making any changes to your goat's diet.

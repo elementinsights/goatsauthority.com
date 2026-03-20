@@ -130,6 +130,14 @@ All of these options can be a great way to give your goats the omega-3s they nee
 
 As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a goat expert first and follow the instructions on the supplement bottle.
 
+### How to Tell If Your Goat Needs Omega-3 Supplements
+
+Not every goat needs fish pills. Goats that graze on fresh, diverse pasture usually get enough essential fatty acids from their diet alone.
+
+But if your goat has a dull coat, dry flaky skin, or stiff joints, those are signs that an omega-3 boost could help. Does in late pregnancy or heavy milk production often benefit from the extra fat content as well.
+
+A simple blood panel from your vet can confirm whether your goat is actually deficient before you start supplementing.
+
 ## To Wrap Things Up
 
 You can give your goats human fish pills as a way to improve their health. Just make sure to follow the instructions on the supplement bottle and consult with a veterinarian first.

@@ -166,6 +166,16 @@ Before offering the pumpkin to the goat, just make sure it's devoid of sugar and
 
 Goats should not eat pumpkin pie. Pumpkin pie is high in sugar and other additives which can be harmful to [goats](/can-goats-eat-everything/).
 
+### Seasonal Pumpkin Feeding Tips
+
+Fall is prime pumpkin season, and that's a great time to stock up for your goats. After Halloween, many grocery stores and farms sell leftover pumpkins at steep discounts or even give them away for free.
+
+Grab the ones that haven't been painted or treated with preservatives. Plain, undecorated pumpkins are perfectly safe for goats.
+
+You can store whole pumpkins in a cool, dry spot for several weeks. Once you cut them open, though, use the pieces within a day or two before mold sets in.
+
+Some goat owners freeze chunks of pumpkin for winter treats. Just thaw them to room temperature before feeding, since cold food can upset a goat's stomach.
+
 ## Wrapping Up
 
 Goats can eat pumpkins. Pumpkins are a great source of vitamins and minerals for goats.

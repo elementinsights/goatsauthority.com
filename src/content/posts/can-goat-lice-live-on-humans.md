@@ -127,6 +127,16 @@ In severe cases, oral ivermectin may be necessary.
 
 By taking these steps, you can help prevent the spread of goat lice and protect your family's health.
 
+### Seasonal Patterns of Goat Lice
+
+Goat lice follow a very predictable seasonal pattern. Infestations peak during the late fall and winter months when goats grow thicker coats and spend more time huddled together indoors. The warm, dense fur creates the perfect environment for lice to breed.
+
+As spring arrives and goats shed their winter coat, lice populations drop dramatically. The thinner summer coat does not provide enough cover for the lice, and increased sun exposure helps kill them off.
+
+This is why most experienced goat owners do their major lice treatments in early winter before the population has a chance to explode. A single treatment in November can prevent months of scratching and hair loss.
+
+If you handle your goats frequently during the winter, pay extra attention to washing your clothes and arms afterward. Winter is the time when lice are most likely to hitch a temporary ride on humans.
+
 ## Key Takeaways
 
 Overall, goat lice are not a serious threat to human health. However, they can cause a lot of discomforts and should be treated as soon as possible.

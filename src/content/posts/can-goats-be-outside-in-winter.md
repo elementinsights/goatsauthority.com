@@ -122,6 +122,16 @@ Goats can stay outside in the winter as long as they have access to a warm, dry 
 
 [Goats also need access to fresh water](/can-horses-drink-water-that-has-goat-poop-in-it/) and food, so make sure that you have plenty of hay and straw available. By following these simple tips, you can help ensure that your goats stay healthy and happy all winter long.
 
+### Deep Litter Bedding Method for Winter Warmth
+
+One of the best-kept secrets for winter goat keeping is the deep litter method. Instead of cleaning out all the bedding every few days, you simply add a fresh layer of straw on top of the old layer. Over time, the lower layers begin to decompose and generate heat through the composting process.
+
+This creates a naturally warm floor for your goats to sleep on during freezing nights. Some farmers report that the deep litter bed can stay 10 to 15 degrees warmer than the ambient air temperature in the barn.
+
+The key is to keep adding dry straw on top whenever the surface looks damp or compacted. If it starts to smell strongly of ammonia, that is a sign you need more straw or it is time for a full cleanout.
+
+Come spring, all that composted bedding makes excellent garden fertilizer. It is a win-win for your goats and your vegetable patch.
+
 ## Key Takeaways
 
 Goats can be outside in winter as long as they have access to a warm, dry shelter. If the temperature drops below freezing, goats are at risk of frostbite, so it's important to provide them with a place to go to stay warm.

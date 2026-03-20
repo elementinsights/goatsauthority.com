@@ -122,6 +122,14 @@ You will also need to make sure that you provide the angora goats with a diet th
 
 Finally, you should also keep in mind that the fiber from angora goats is often finer and softer than the fiber from dairy goats. This means that it may be more difficult to spin into yarn.
 
+### What to Expect From First-Generation Cross Fiber
+
+The fiber you get from a first-generation angora-dairy cross will be different from purebred mohair. It tends to be coarser and less uniform in staple length.
+
+Most hand spinners find that this crossbred fiber works best for outerwear and rugs rather than fine garments. By the second or third generation of selective breeding, the fiber quality usually improves quite a bit.
+
+If you're serious about getting spinnable fiber, keep the best producers and cull the rest from your breeding program early on.
+
 ## Final Thoughts
 
 You can breed angora goats with dairy goats for fiber, but you need to be aware of a few things first.

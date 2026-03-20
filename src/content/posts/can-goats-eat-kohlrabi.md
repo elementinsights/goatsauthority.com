@@ -131,6 +131,22 @@ If you notice any problems, discontinue feeding kohlrabi and consult with your v
 
 Kohlrabi is a delicious and nutritious treat for your goats. By following these tips, you can ensure that they enjoy their meals and stay healthy at the same time.
 
+### Growing Kohlrabi Specifically for Your Goats
+
+Kohlrabi is one of the easiest brassicas to grow and it matures quickly, usually in 45 to 60 days from seed. This makes it a great crop to plant specifically as goat feed.
+
+Plant kohlrabi in early spring or late summer for the best results. It prefers cool weather and will bolt (go to seed) if temperatures stay above 80 degrees for too long. Space plants about 6 inches apart in rows.
+
+One nice thing about growing kohlrabi for goats is that you do not need to worry about cosmetic perfection. Goats do not care if the bulb is oddly shaped or has a few insect nibbles. You can feed them the entire plant from leaves to root.
+
+A 10-by-10-foot garden bed can produce enough kohlrabi for a small herd for several weeks. And since goats eat the leaves eagerly, you can start harvesting the foliage before the bulb is even fully mature.
+
+### How Kohlrabi Compares to Other Brassicas for Goats
+
+Among the brassica family, kohlrabi is a middle-of-the-road option. It has lower oxalate levels than spinach but higher levels than broccoli. Its goitrogen content is similar to cabbage.
+
+Turnips are probably the most popular brassica for livestock feed because they store well and produce large roots. But kohlrabi has the advantage of a shorter growing season and goats tend to prefer the taste of kohlrabi leaves over turnip greens.
+
 ## Closing Notes
 
 Overall, kohlrabi is a safe vegetable for goats to eat. However, there are a few potential hazards to be aware of, such as the high oxalate content and the possibility of contamination with harmful bacteria.

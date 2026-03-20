@@ -126,6 +126,14 @@ Finally, provide your goats with a [balanced diet](/how-many-stomachs-do-goats-h
 
 By following these simple tips, you can help keep your goats healthy and safe from all diseases.
 
+### How Common Is Bubonic Plague in Domestic Goats?
+
+In reality, cases of bubonic plague in domestic goats are extremely rare. The vast majority of plague cases in animals are found in wild rodents, prairie dogs, and ground squirrels.
+
+Most domestic goats will never encounter the disease during their lifetime. The risk increases slightly if you live in areas where wild rodent populations are known to carry the plague, such as parts of the American Southwest, certain regions of Africa, and Central Asia.
+
+If your goats share pastureland near wild rodent habitats, that's when you should be most cautious. Keeping rodent populations under control around your barn and feed storage areas is one of the most practical steps you can take.
+
 ## Quick Recap
 
 Goats can get the bubonic plague, but it is a rare disease that can be treated with antibiotics. Vaccination is the best method of prevention.

@@ -125,6 +125,22 @@ Second, goats are prone to parasites, such as worms and coccidia. These parasite
 
 Finally, [goats are escape artists and will often try to jump over](/can-domestic-goats-jump/) or crawl under fences. So, it's crucial to make sure that your fence is tall enough and sturdy enough to keep your goats contained.
 
+### Goat Rental Services: A Growing Niche
+
+One income stream that's been gaining popularity is goat rental for land clearing and brush removal. Cities, HOAs, and private landowners will pay anywhere from $500 to $2,000 per acre to have goats clear invasive vegetation.
+
+All you need is a portable electric fence, a water source, and a reliable herd. Some goat rental businesses earn $20,000 to $50,000 per season depending on their region and the size of their herd.
+
+The demand is especially high in wildfire-prone areas where reducing brush loads is a priority. Local governments and fire departments are increasingly turning to goat grazing as an eco-friendly alternative to herbicides and heavy machinery.
+
+### Selling Goat Soap and Other Value-Added Products
+
+Beyond selling raw milk, turning that milk into soap, lotion, or cheese dramatically increases your profit margins. A gallon of goat milk might sell for $8 to $12, but the same gallon turned into bars of soap could be worth $60 or more.
+
+Goat milk soap has a loyal customer base among people with sensitive skin, eczema, and psoriasis. You can sell at farmers markets, online through Etsy, or even wholesale to local boutiques and gift shops.
+
+The startup cost for soap-making equipment is relatively low, usually under $200. There are also plenty of free tutorials and recipes available to get you started.
+
 ## What to Remember
 
 [Goats can make a great addition to any farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or homestead. Not only are they fun and interesting animals, but they can also provide you with a source of income.

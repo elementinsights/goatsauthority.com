@@ -130,6 +130,20 @@ Other breeds of goat with a similar reputation include the [Nigerian Dwarf Goat 
 
 Whether you're looking for a pet or a livestock animal, a goat from one of these breeds is sure to be a good choice.
 
+### Where the "Goats Eat Everything" Myth Comes From
+
+The idea that goats eat everything started because they constantly mouth and chew on random objects. But mouthing something and actually eating it are two different things.
+
+Goats use their lips and tongue to test textures and flavors. They will mouth a tin can, a shirt, or a cardboard box out of curiosity. Most of the time, they spit it out. What they are actually after on a tin can is the glue holding the label, which contains trace minerals.
+
+This behavior looks like indiscriminate eating from the outside. In reality, goats are some of the pickiest livestock animals you will find. They will refuse hay that has been stepped on, turn their nose up at wet feed, and avoid plants they ate too much of yesterday.
+
+### Items That Can Seriously Harm Goats if Swallowed
+
+Plastic bags, baling twine, rubber bands, and small hardware items are genuine hazards. Unlike paper or plant material, these items cannot be broken down in the rumen.
+
+A goat that swallows a plastic bag can develop a blockage in the reticulum (the second stomach chamber) that may require surgery to remove. Keep your barn and pasture clear of trash and loose hardware.
+
 ## Summary
 
 [Goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/), including leaves, twigs, and bark. However, they still require a diet that includes a variety of nutrients in order to stay healthy.

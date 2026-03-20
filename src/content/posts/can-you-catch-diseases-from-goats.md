@@ -128,6 +128,14 @@ In addition to the diseases mentioned above, there are also other conditions tha
 
 However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
 
+### Hand Washing and Protective Gear Tips
+
+The single most effective thing you can do after handling goats is wash your hands with soap and warm water for at least 20 seconds. This sounds basic, but most zoonotic infections spread because people skip this step.
+
+If you're working with goats that are visibly sick or birthing, wear disposable gloves and consider a face mask. Birthing fluids carry the highest concentration of bacteria like Brucella and Chlamydia.
+
+Change your clothes and shoes before going inside your house, especially if you have young children or immunocompromised family members. Dedicated barn clothes that stay in the mudroom are a simple but effective barrier.
+
 ## To Wrap Things Up
 
 Goats can carry diseases that can be passed on to humans, so it's important to practice good hygiene and avoid contact with sick animals.

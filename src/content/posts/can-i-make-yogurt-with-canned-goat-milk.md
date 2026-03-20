@@ -115,6 +115,14 @@ Additionally, if you are lactose-intolerant or simply looking for a non-dairy al
 
 So whether you choose to stick with traditional [goat milk](/can-i-sell-goat-milk-butter/) or explore other options, you can rest assured that homemade yogurt is within reach.
 
+### Troubleshooting Thin Yogurt from Canned Goat Milk
+
+If your yogurt comes out runny, the most likely culprit is temperature. The milk needs to stay between 100 and 110 degrees Fahrenheit during the entire incubation period. Even a small dip can slow down the cultures and leave you with a thin result.
+
+Adding a tablespoon of powdered milk per cup of canned goat milk before heating can also help thicken the final product. The extra milk proteins give the cultures more to work with.
+
+Straining the finished yogurt through cheesecloth for a couple of hours is another easy fix. This removes excess whey and gives you a thicker, Greek-style yogurt that works great as a spread or dip.
+
 ## Closing Notes
 
 You can make yogurt with canned goat milk. Just heat the milk to 100-110 degrees Fahrenheit for 15 minutes, add in the yogurt starter, and incubate as usual.

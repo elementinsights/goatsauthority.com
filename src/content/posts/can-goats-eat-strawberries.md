@@ -132,6 +132,14 @@ Virtual strawberries are a type of fruit that exists only in virtual reality. Th
 
 Therefore, it's crucial to be aware of which types of strawberries are safe for goats to eat and which ones should be avoided.
 
+### Can Goats Eat Strawberry Tops and Leaves?
+
+Yes, goats can eat the green tops and leaves of strawberry plants. In fact, many goats prefer the leafy parts over the fruit itself.
+
+Strawberry leaves contain tannins, which can actually help with mild digestive issues. If your goats have access to a strawberry patch, they'll likely munch on the entire plant.
+
+Just keep an eye on how much they eat. Goats can strip a strawberry bed bare in no time, which isn't great if you wanted some berries for yourself.
+
 ## The Bottom Line
 
 Goats can safely eat strawberries in [moderation](/can-goats-eat-grapes/). Strawberries are a good source of vitamins and minerals, and they can also help protect goats from various diseases.

@@ -122,6 +122,14 @@ Additionally, it is important to make sure that they have access to clean water 
 
 By taking these preventive measures, you can help reduce the chances of your pregnant goats becoming sick in the first place.
 
+### Timing Matters: When to Start and Stop Medicated Feed
+
+Most goat breeders start medicated feed about four to six weeks before the doe's due date. This is when the nutritional demands spike as the kids grow rapidly in the final stretch of pregnancy.
+
+Stop the medicated feed within a day or two of kidding if you plan to use the colostrum and milk. Some medications have withdrawal periods that affect milk safety, so always double-check the label.
+
+After kidding, you can switch the doe to a standard lactation ration that supports milk production without the added medication.
+
 ## Wrapping Up
 
 Pregnant goats can eat medicated feeds without any significant risks to their health, but it is important to consult with a professional first and monitor them closely after introducing the new feed.

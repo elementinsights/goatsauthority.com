@@ -128,6 +128,16 @@ The branches can also be painted or carved into decorative pieces.
 
 So, as you can see, there are many uses for citrus tree branches other than just feeding goats. With a little creativity, you can find all sorts of ways to use them around your farm or homestead.
 
+### Which Citrus Trees Have the Largest Thorns?
+
+Not all citrus trees are created equal when it comes to thorns. Lemon trees, especially Meyer lemons, tend to have shorter, less aggressive thorns that goats can handle without much trouble.
+
+Grapefruit and orange trees, on the other hand, can develop thorns that are over 2 inches long. These longer thorns pose a greater risk of mouth and throat injuries.
+
+If you're specifically using goats to clear citrus branches, stick with the milder varieties first. Let your goats build up experience before introducing branches from more heavily thorned species.
+
+Trifoliata orange rootstock produces some of the sharpest thorns of any citrus. If your trees are grafted onto this rootstock, you may notice thorns growing below the graft line that are especially dangerous for goats.
+
 ## The Bottom Line
 
 Goats can eat the thorns of a citrus tree branch. However, it's important to monitor their intake and make sure they have access to plenty of fresh, clean water.

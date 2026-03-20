@@ -126,6 +126,16 @@ Choosing the right alternative food source for [pygmy goats often comes down to 
 
 Ultimately though, any alternative food source for pygmy goats should be carefully selected to maintain the health of these small but resilient animals.
 
+### How to Check Hay Quality Before Buying
+
+Good hay should smell fresh and slightly sweet. If it has a musty or sour odor, pass on it. That smell usually means mold has started to grow, and moldy hay can cause serious respiratory and digestive problems for pygmy goats.
+
+The color should be green to light gold. Brown or yellowish hay has lost most of its nutritional value and will not do much for your goats beyond filling their stomachs.
+
+Grab a handful and squeeze it. Quality hay should feel slightly pliable and spring back. If it crumbles into dust or feels overly coarse and stemmy, it was likely cut too late in the season and will be low in protein.
+
+Ask your hay supplier what cutting it is. First cutting hay tends to be coarser and higher in fiber. Second and third cutting hay is softer, leafier, and higher in protein, which makes it a better choice for pygmy goats that need the extra nutrition.
+
 ## Closing Notes
 
 Pygmy goats are a hardy and versatile breed that can thrive in a variety of environments. About their diet, pygmy goats are primarily herbivores and their diet should reflect this.

@@ -127,6 +127,16 @@ Whether you [feed it to your goats](/can-a-goat-feed-quads/) or use it in anothe
 
 If you are looking for a way to improve the [health of your goats](/can-goats-eat-mineral-salt-made-for-cattle/) or benefit other animals on your farm, spring mix is a great option.
 
+### What's Actually in Spring Mix?
+
+A typical bag of spring mix contains a blend of baby lettuces, spinach, arugula, radicchio, and sometimes frisee or mizuna. Each of these greens offers a slightly different nutritional profile.
+
+Arugula is high in calcium and vitamin K. Baby spinach brings iron and folate to the table. Radicchio provides antioxidants that support healthy cell function.
+
+This variety is one of the reasons spring mix works so well for goats. They naturally prefer to eat a mix of different plants rather than one thing over and over again.
+
+When buying spring mix at the store, check the expiration date and avoid bags with excess moisture inside. Soggy greens can harbor bacteria that might upset your goat's stomach.
+
 ## Our Take
 
 Overall, feeding spring mix to goats can be a great way to provide them with essential nutrients. Just be sure to be aware of the risks and take precautions to avoid them.

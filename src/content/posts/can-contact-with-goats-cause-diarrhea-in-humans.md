@@ -143,6 +143,14 @@ People can become infected with the disease if they eat contaminated food or [dr
 
 In severe cases, the disease can lead to dehydration and even death. If you think you may have consumed contaminated meat or milk, please seek medical attention immediately.
 
+### Who Is Most at Risk?
+
+Not everyone faces the same level of risk when handling goats. Young children under five, elderly adults, pregnant women, and anyone with a weakened immune system are the most vulnerable groups.
+
+People on immunosuppressive medications or those undergoing chemotherapy should avoid direct contact with goat feces entirely. The bacteria that cause goat-related diarrhea can lead to severe complications in these individuals, including kidney problems and prolonged hospitalization.
+
+If you fall into one of these higher-risk categories, you can still enjoy being around goats. Just wear disposable gloves when handling them and wash up immediately afterward. Avoid touching your face during the visit.
+
 ## To Wrap Things Up
 
 Overall, contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.

@@ -140,6 +140,20 @@ For all these reasons, peanuts can be a healthy part of a goat's diet. Even so, 
 
 Too many peanuts can lead to weight gain and digestive problems.
 
+### Roasted vs. Raw Peanuts for Goats
+
+Raw peanuts are generally the better choice for goats. Roasted peanuts often come with added salt, oil, or seasoning that can upset a goat's stomach or contribute to sodium overload.
+
+If you only have salted roasted peanuts available, you can rinse them under water to remove some of the surface salt. But plain, unsalted raw peanuts from a feed store are the safest bet.
+
+Boiled peanuts are also an option. The boiling process softens the shell and makes the peanut easier to digest. Some goat owners in the Southeast swear by tossing a few boiled peanuts into the feed trough as a protein-rich treat.
+
+### Watch Out for Aflatoxin Contamination
+
+Peanuts are one of the crops most susceptible to aflatoxin contamination. Aflatoxins are produced by Aspergillus fungi that grow on peanuts in warm, humid storage conditions.
+
+Aflatoxin poisoning in goats can cause liver damage, reduced milk production, and poor growth in kids. Always buy peanuts from a reputable supplier and store them in a cool, dry place. If you see any mold on the peanuts or they smell musty, throw the entire batch out.
+
 As a general rule of thumb, the serving size for peanuts is about 1/4 cup per 100 pounds of body weight. So, for a 10-pound goat, the serving size would be about 1 tablespoon.
 
 Of course, every goat is different and you should always consult with an animal expert to determine the best feeding plan for your animal.

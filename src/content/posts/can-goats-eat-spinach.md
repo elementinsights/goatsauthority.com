@@ -135,6 +135,16 @@ Semi-savoy spinach has intermediate between flat-leaf and savoy spinach, with sm
 
 No matter what kinds of spinach you have available, they can all be [fed to goats](/can-goats-eat-spring-mix/). Just be sure to wash the leaves thoroughly to remove any dirt or debris.
 
+### Best Ways to Serve Spinach to Goats
+
+Fresh spinach straight from the garden is the ideal way to feed it to your goats. Rinse the leaves under cool water to remove any dirt, bugs, or pesticide residue before offering them.
+
+You can hand-feed spinach as a treat during bonding time, or toss a handful into their hay feeder so they can pick through it at their own pace. Mixing spinach with other leafy greens like kale or romaine lettuce adds variety and prevents your goats from eating too much of any single green.
+
+Avoid feeding wilted or slimy spinach, as it may have started to develop harmful bacteria. If you wouldn't eat it yourself, don't give it to your goats.
+
+Cooked spinach is also fine in small amounts, but skip any seasoning, butter, or oil. Plain steamed spinach retains most of its nutrients and is easier for goats to chew and digest.
+
 ## What to Remember
 
 Goats can eat spinach. Just be sure to feed them the appropriate amount and keep an eye out for signs of nitrate poisoning.

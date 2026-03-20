@@ -133,6 +133,14 @@ But, there are some exceptions to this rule; for example, if you live in an area
 
 So, it is important to use your best judgment and consult with a veterinarian or experienced shepherd if you are unsure about when to shear your flock.
 
+### Watch Out for Copper Toxicity
+
+One critical detail that many mixed-herd owners overlook is copper. Goat minerals and goat feed contain copper because goats need it to stay healthy. Sheep, on the other hand, are extremely sensitive to copper and can develop fatal liver toxicity from it over time.
+
+If you are keeping a sheep with goats, use sheep-safe minerals for the whole group and supplement your goats with copper boluses separately. This takes a little extra planning, but it is the safest approach.
+
+Never assume that a "livestock" mineral mix is safe for both species. Always check the copper content on the label before putting it out for a mixed herd.
+
 ## The Bottom Line
 
 A sheep can live with goats with some considerations. They are different species, so there are a few diseases they can pass to each other, but overall they get along better than most animals.

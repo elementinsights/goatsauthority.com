@@ -134,6 +134,16 @@ Second, you need to maintain a balance of good bacteria in their stomach. This c
 
 Finally, you should avoid giving them any food that could potentially be contaminated with harmful bacteria. By following these simple tips, you can help to keep your goat's stomach healthy and prevent any problems down the road.
 
+### What Cud Chewing Tells You About Stomach Health
+
+If you've ever watched goats resting, you've probably noticed them chewing even though there's no food in front of them. That's cud chewing, and it's one of the easiest ways to check on your goat's digestive health.
+
+Healthy goats chew their cud for several hours each day. The rumen pushes partially digested food back up into the mouth for a second round of chewing, which breaks it down into smaller pieces that are easier to ferment.
+
+If a goat stops chewing cud for more than 12 hours, something is wrong. It could be bloat, acidosis from too much grain, or an infection. A goat that isn't chewing cud is essentially a goat whose entire digestive system has stalled, and you need to act fast.
+
+Check the rumen by pressing your fist into the goat's left side just behind the ribs. You should feel movement and hear gurgling sounds. If the area feels tight like a drum or there's no movement at all, call your vet right away.
+
 ## To Wrap Things Up
 
 Goats are interesting creatures with a lot of quirks. One of the most curious things about them is the fact that they have multiple stomachs.

@@ -115,6 +115,14 @@ Another problem is that the [goats may become stressed and stop eating](/can-a-g
 
 Finally, some goats may have difficulty digesting milk because of a lack of enzymes. If your [goat is having trouble digesting milk](/can-i-put-safeguard-in-my-goats-milk/), you will need to give it enzymes before each feeding.
 
+### Bottle Feeding the Third Kid as a Backup Plan
+
+Sometimes even the best pygmy goat mama simply cannot keep up with three hungry mouths. If you notice one kid is consistently getting pushed off the teat or falling behind in weight, it is time to step in with a bottle.
+
+Use a high-quality goat milk replacer mixed according to the package directions. Feed the weakest kid every 3 to 4 hours for the first two weeks. Warm the milk to about 101 degrees before each feeding so it matches the doe's body temperature.
+
+Keep the bottle-fed kid with its siblings as much as possible. You want it to bond with the herd and learn goat social skills, even though it is getting supplemental feedings from you.
+
 ## Closing Notes
 
 A pygmy goat can make a great wet nurse for triplets, but there are a few things you need to keep in mind.

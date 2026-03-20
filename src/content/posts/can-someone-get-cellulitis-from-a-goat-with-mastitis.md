@@ -129,6 +129,14 @@ Additionally, people with cellulitis may be at risk for developing skin abscesse
 
 So it's important to see a doctor as soon as possible if you think you might have cellulitis in order to avoid any potential complications.
 
+### Protecting Yourself While Handling Goats With Mastitis
+
+If you milk goats regularly, you should always wear gloves when handling an animal that shows signs of mastitis. The bacteria can enter your body through even tiny cuts or cracks on your hands that you might not notice.
+
+After milking, wash your hands thoroughly with antibacterial soap and warm water. Keep any open wounds on your arms and hands covered with waterproof bandages before you start working.
+
+It also helps to keep a bottle of hand sanitizer in the milking area for quick clean-ups between animals. These simple steps go a long way toward keeping you safe.
+
 ## Wrapping Up
 
 In general, cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.

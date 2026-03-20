@@ -132,6 +132,14 @@ Finally, if the texture of the cheese has changed, it's likely to have gone bad.
 
 But, once it starts to show signs of spoilage, it should be discarded.
 
+### Why Some People Tolerate Goat Cheese Better Than Cow Cheese
+
+You might have noticed that goat cheese sits better in your stomach than cheese made from cow's milk. There is a real scientific reason for this. Goat milk contains A2 casein protein, while most cow's milk contains A1 casein. Many people who react poorly to A1 casein can handle A2 casein just fine.
+
+Goat milk fat globules are also physically smaller than cow milk fat globules. This means your digestive system can break them down faster and with less effort. The result is less gas, less cramping, and less bloating for many people.
+
+If you have been avoiding all cheese because of bloating issues, try a small amount of aged goat cheese first. Aged varieties like aged chevre or goat gouda have even less lactose than fresh goat cheese because the aging process consumes most of the remaining lactose.
+
 ## Key Takeaways
 
 Goat cheese can make you bloated if you are not used to it. Bloating is a common symptom that can be caused by a variety of different conditions.

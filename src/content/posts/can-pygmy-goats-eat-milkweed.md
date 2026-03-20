@@ -131,6 +131,14 @@ Additionally, [milking your goat](/can-baby-kittens-drink-goats-milk/) will help
 
 So whether you're a professional farmer or someone just looking for a new hobby, taking the time to [milk your goat](/can-dogs-drink-goat-milk-everyday/) on a regular basis is key to ensuring that both you and your goat stay healthy and happy for years to come.
 
+### How Much Milkweed Is Safe for Pygmy Goats?
+
+A handful of fresh milkweed leaves a few times a week is a reasonable amount for most pygmy goats. Think of it as a supplement or treat rather than a main food source.
+
+If you are introducing milkweed for the first time, start with just a few leaves and watch how your goat responds over the next 24 hours. No diarrhea or loss of appetite means you are good to gradually increase the amount.
+
+Dried milkweed is generally safer than fresh because the drying process reduces saponin levels. If you want to stock up for winter feeding, you can harvest milkweed in the summer and dry it in bundles just like you would dry herbs.
+
 ## Final Thoughts
 
 Overall, milkweed is an extremely versatile plant with a variety of uses. Whether you're looking for an animal feed ingredient, a traditional herbal remedy, or simply want to try out some new goat recipes, milkweed is sure to fit the bill.

@@ -132,6 +132,14 @@ This will help avoid any digestive issues. Finally, be sure to supplement the mi
 
 By following these simple tips, you can help ensure that your rottweiler stays healthy and happy while enjoying the benefits of goat milk.
 
+### Goat Milk vs. Cow Milk for Rottweilers
+
+The main reason goat milk works better than cow milk for many dogs comes down to fat globule size. The fat particles in goat milk are smaller and more evenly distributed, which makes them easier to break down in the gut.
+
+Cow milk also contains a protein called alpha-s1 casein that tends to trigger more digestive upset in dogs. Goat milk has much lower levels of this protein, which is why dogs that cannot handle cow milk often do just fine with goat milk.
+
+If your rottweiler has been dealing with loose stools or gas from cow milk products, switching to goat milk is a simple change that could solve the problem entirely.
+
 ## The Bottom Line
 
 Overall, goat milk is a great way to provide your rottweiler with all the nutrients they need to stay healthy and happy. It is also less expensive than traditional animal-based foods and much easier to acquire.

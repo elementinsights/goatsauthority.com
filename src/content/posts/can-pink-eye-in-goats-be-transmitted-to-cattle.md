@@ -122,6 +122,14 @@ Additionally, animals with pink eye may avoid eating or drinking, as the conditi
 
 If you notice any of these signs, it is important to seek veterinary care right away in order to provide relief for your animal and prevent the condition from worsening.
 
+### Fly Control Reduces Pink Eye Spread
+
+Face flies are one of the biggest carriers of pink eye bacteria between animals. These flies feed on the moisture around an animal's eyes and transfer bacteria from one animal to the next as they move through the herd.
+
+Using fly tags, pour-on treatments, or fly traps around your barn and pasture can significantly cut down on transmission. Some farmers also use fly masks on their cattle during peak fly season, which runs from late spring through early fall.
+
+Keeping the area around water troughs and feeders clean also helps reduce fly breeding grounds. Standing water and manure piles are fly magnets, so removing them from high-traffic areas makes a real difference.
+
 ## Quick Recap
 
 Pink eye is a highly contagious condition that can affect both goats and cattle. Early diagnosis and treatment are crucial in order to prevent the condition from becoming more serious and potentially causing permanent damage to the eye.

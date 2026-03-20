@@ -125,6 +125,18 @@ Though goat biting might seem like harmless fun, it can actually be quite danger
 
 Following these tips should help to prevent goat biting; but, even the best-behaved goats can sometimes get carried away and accidentally bite someone. If this does happen, make sure to clean the wound thoroughly and consult a doctor if necessary.
 
+### Understanding Why Goats Mouth Objects
+
+Goats explore the world with their mouths in the same way dogs use their noses. When a goat nibbles on your shirt or gently mouths your fingers, it is not the same as an aggressive bite. They are simply trying to figure out what something is.
+
+This is especially true for young kids. Baby goats will mouth just about everything during their first few months as they learn to tell food apart from non-food items.
+
+### How Hard Can a Goat Actually Bite?
+
+Goats do not have upper front teeth. Instead, they have a hard dental pad on the top and lower incisors on the bottom. This setup is designed for ripping and grinding plant material, not for piercing skin the way a dog or cat bite would.
+
+That said, their back molars can generate serious pressure. A goat that clamps down on a finger near the back of its jaw can cause bruising or even break skin. Bucks during rut season are the most likely to bite hard enough to cause real injury.
+
 ## The Bottom Line
 
 Goats can bite, but it's not common behavior. If a goat does bite, it's usually out of curiosity or because they feel threatened.

@@ -140,6 +140,14 @@ Of course, if a goat eats more than that, it may start to experience gastrointes
 
 In general, raisins should only be given as an [occasional treat](/can-goats-eat-oranges/), not as a regular part of your goat's diet.
 
+### Better Treat Alternatives to Raisins
+
+If you're worried about the sugar content in raisins, there are plenty of other treats your goats will enjoy just as much. Fresh apple slices, carrot pieces, and small chunks of banana are all popular choices.
+
+Dried herbs like mint or rosemary also make excellent low-sugar treats. Many goat owners keep a stash of these in their pocket for training or bonding sessions.
+
+Black oil sunflower seeds are another fan favorite among goat keepers. They're packed with healthy fats and vitamin E, and most goats go crazy for them.
+
 ## What to Remember
 
 Goats can eat raisins, but there are risks associated with this practice. Raisins are high in sugar and can make a goat's illness worse.

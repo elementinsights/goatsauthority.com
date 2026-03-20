@@ -130,6 +130,14 @@ Adult goats require hay, fresh water, and a mineral supplement. They also enjoy 
 
 With proper care, your goats will provide you with years of companionship and enjoyment.
 
+### Breed Differences in Litter Size
+
+Not all goat breeds produce the same number of kids. Nigerian Dwarf goats are known for having larger litters, often delivering triplets or even quadruplets. Boer goats also tend toward twins and triplets.
+
+On the other end, breeds like the Saanen and Alpine typically have singles or twins. First-time does (called "first fresheners") almost always have singles regardless of breed.
+
+If you're specifically looking for a breed that produces multiple kids per birth, Nigerian Dwarfs and Boers are your best bet. Just be prepared for the extra work that comes with bottle-feeding kids when a doe can't keep up with three or four hungry mouths.
+
 ## Our Take
 
 [Goats can have anywhere from one to twelve babies](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/) at a time, though the average is usually two or three. They generally give birth without any problems, but sometimes kids can be born with deformities or without fur coats.

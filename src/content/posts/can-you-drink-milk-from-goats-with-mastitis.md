@@ -124,6 +124,16 @@ The most important thing to remember when dealing with mastitis is that early de
 
 Additionally, good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
 
+### How to Test for Mastitis at Home
+
+You don't need a lab to catch mastitis early. A simple California Mastitis Test (CMT) kit costs just a few dollars and takes less than a minute to use.
+
+Squirt a small amount of milk into the test paddle and add the CMT reagent. Swirl it gently for about 10 seconds. If the mixture thickens into a gel-like consistency, that udder half is positive for mastitis.
+
+Testing each side separately is important because mastitis often affects just one half of the udder. Catching it early means you can start treatment sooner and get back to safe milking faster.
+
+Make it a habit to run a CMT test at least once a week on each milking doe, especially during hot and humid weather when bacterial infections spike.
+
 ## Our Take
 
 Overall, drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.

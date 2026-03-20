@@ -132,6 +132,12 @@ In addition, goats need to be vaccinated against common diseases and should be w
 
 By following these simple tips, you can ensure that your goats stay healthy and happy.
 
+### What About Cotton Clothing and Fabric?
+
+Goats will chew on cotton clothing, towels, and rags if they get the chance. This does not mean you should let them. Processed cotton fabric often contains dyes, chemical treatments, and synthetic blends that can irritate the digestive tract.
+
+If a goat swallows a large piece of fabric, it can cause a blockage in the intestines. Keep laundry, rags, and cotton-based materials out of reach whenever goats are roaming freely.
+
 ## Key Takeaways
 
 Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.

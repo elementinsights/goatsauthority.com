@@ -150,6 +150,16 @@ A goat can die from a concussion if the injury is severe enough. However, most g
 
 If you suspect that your goat has a concussion, it’s crucial to seek animal expert care immediately. The sooner you can get your [goat treatment](/can-i-give-my-goat-pepto-bismol/), the better its chances of making a full recovery.
 
+### Recovery Timeline for Goats With Concussions
+
+Most goats with mild concussions start showing improvement within 24 to 48 hours. During this window, keep the goat in a quiet, dimly lit area away from the rest of the herd. Loud noises and bright lights can slow down recovery.
+
+Offer small amounts of water frequently and watch to see if the goat starts eating on its own again. If appetite returns within the first day, that is a very good sign.
+
+For moderate concussions, recovery can take up to a week. Your vet may prescribe anti-inflammatory medication to reduce brain swelling. Keep the goat confined to a small pen during this time so it does not injure itself further if it loses balance.
+
+Severe concussions may require several weeks of rest and ongoing veterinary monitoring. Some goats develop lingering symptoms like a permanent head tilt or occasional stumbling. These goats can still live comfortable lives but may need special accommodations in the pen to prevent falls.
+
 ## What to Remember
 
 A concussion is a type of brain injury that occurs when the head is hit by an object or forcefully jolted. Goats are particularly susceptible to concussions because of their high center of gravity and relatively large head size.

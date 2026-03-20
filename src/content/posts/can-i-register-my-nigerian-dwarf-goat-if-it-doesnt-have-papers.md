@@ -120,6 +120,14 @@ Regardless of which route you choose, the key is simply to do your research and 
 
 With some patience and persistence, you should be able to successfully navigate through the process and [register your goats](/can-you-breed-a-father-and-daughter-goat/) without having any official papers or documents.
 
+### What If Your Goat Gets Rejected From Registration?
+
+If the NDGA or another registry turns down your application, do not panic. Ask for specific feedback on why the goat was rejected. Sometimes the issue is as simple as a missing measurement or unclear photo.
+
+You can also look into the American Goat Society (AGS) as an alternative registry. They have their own standards and may accept goats that did not quite fit the NDGA criteria.
+
+If your goat truly does not meet breed standards, it can still live a great life as a pet, milker, or companion animal. Registration is valuable for breeding and resale purposes, but it is not required to enjoy owning a Nigerian dwarf.
+
 ## Key Takeaways
 
 You can register your Nigerian dwarf goats without papers by contacting established breed associations or registries, looking for reputable breeders in your area, or directly submitting DNA samples and milk tests for review.

@@ -132,6 +132,16 @@ These animals are often larger and more [aggressive than goats](/can-an-aggressi
 
 Additionally, they can provide an early warning system against potential threats, as they will often [make noise](/can-goats-actually-scream/) or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
 
+### Raccoon-Proofing Your Goat Barn at Night
+
+Raccoons are nocturnal and do most of their damage after dark. A few simple upgrades to your barn can make a big difference.
+
+Start by sealing any gaps larger than 4 inches in the walls, roof, or foundation. Raccoons can squeeze through surprisingly tight spaces. Hardware cloth (not chicken wire) is the best material for covering vents and windows since raccoons can tear through chicken wire with their hands.
+
+Install a secure latch on the barn door. Raccoons are smart enough to figure out simple slide bolts and lift latches. A spring-loaded latch or a carabiner clip will keep them out.
+
+Motion-activated lights outside the barn entrance also help. Raccoons prefer to operate in darkness, and a sudden bright light will spook most of them.
+
 ## The Bottom Line
 
 Overall, it is important to be aware of the dangers that predators can pose to your goats. By taking steps to protect your livestock, you can help ensure their long-term safety and well-being.

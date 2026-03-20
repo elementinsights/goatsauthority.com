@@ -136,6 +136,24 @@ Another option is to use the leaves as bedding material. Goat owners should be a
 
 If done properly, feeding gum tree leaves to goats can be a healthy and nutritious way to provide them with the essential nutrients they need.
 
+### The Difference Between Eucalyptus Species and Safety Levels
+
+Not all gum trees are created equal when it comes to goat safety. There are over 700 species of eucalyptus, and they vary widely in their oil and toxin content.
+
+Eucalyptus globulus (blue gum) has some of the highest concentrations of eucalyptus oil. This species is the most likely to cause problems if goats eat large quantities. Symptoms to watch for include drooling, loss of coordination, and diarrhea.
+
+Eucalyptus camaldulensis (river red gum) tends to have lower oil levels and is generally considered safer for livestock browsing. Many Australian farmers let their goats graze on this species without major issues.
+
+If you live in a region where eucalyptus trees grow wild or are planted as windbreaks, it helps to identify exactly which species you have. Your local agricultural extension service can assist with identification.
+
+### Dried vs. Fresh Gum Tree Leaves
+
+Fresh gum tree leaves contain higher levels of volatile oils than dried ones. As leaves dry out, some of the essential oils evaporate, which reduces the potential for toxicity.
+
+This means that dried or fallen leaves are generally safer for goats than fresh ones pulled straight off the branch. If you are deliberately feeding gum tree leaves, letting them dry for a few days in a shaded, ventilated area can reduce the risk.
+
+That said, dried leaves also lose some of their nutritional value in the process. The best approach is to offer a small handful of fresh leaves mixed into the regular feed so the goat does not consume too much at once.
+
 ## What to Remember
 
 Goats can eat gum tree leaves, but it's best to start with a small amount and gradually increase the amount over time.

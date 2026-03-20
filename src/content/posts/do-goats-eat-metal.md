@@ -129,6 +129,14 @@ Aluminum is also resistant to rust and corrosion, making it a low-maintenance op
 
 Overall, many different types of metal are safe for goats to consume. Owners should carefully consider their options before choosing a material for their Goat enclosure.
 
+### Hardware Disease: A Real Threat
+
+There's actually a veterinary condition called "hardware disease" (traumatic reticulopericarditis) that happens when a goat swallows a sharp metal object like a nail, screw, or piece of wire. The object can puncture the wall of the reticulum and work its way toward the heart.
+
+Symptoms include sudden loss of appetite, grunting when walking, and standing with an arched back. If you notice these signs and suspect your goat swallowed something sharp, get to a vet immediately.
+
+Some goat owners place a small cow magnet in the rumen as a preventive measure. The magnet sits in the stomach and attracts small metal pieces before they can cause damage. Your vet can help you decide if this is a good option for your herd.
+
 ## To Wrap Things Up
 
 Goats can eat metal objects safely, but there are some things to keep in mind. Make sure the metal is small enough to pass through their [digestive system](/can-goats-eat-hay-cubes/) without causing any blockages or damage.

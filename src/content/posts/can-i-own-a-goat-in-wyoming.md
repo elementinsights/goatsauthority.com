@@ -118,6 +118,16 @@ Whatever approach you choose when looking for a good home for your unwanted goat
 
 With some diligence and patience, you will surely be able to find loving homes for even the most mischievous members of your herd.
 
+### Wyoming-Specific Winter Care Tips
+
+Wyoming winters are no joke, and your goats will need extra attention during the colder months. Make sure their shelter is draft-free but still has good ventilation. Trapped moisture inside a barn causes respiratory issues faster than cold air does.
+
+Increase hay portions during winter since goats burn more calories just staying warm. A goat that gets plenty of hay generates body heat through the rumen fermentation process, which acts like a built-in furnace.
+
+Check water troughs twice a day for ice. Goats will not drink enough if the water is frozen over, and dehydration in winter is more common than most people realize.
+
+Wind chill is the real danger in Wyoming. A three-sided shelter that faces away from the prevailing wind direction will protect your goats from the worst of it without requiring a fully enclosed building.
+
 ## Quick Recap
 
 You can own a goat in Wyoming for less than the cost of a used car, and with proper care, they can provide you with years of companionship or high-quality milk and meat.

@@ -130,6 +130,14 @@ If this doesn't work, you can try using a detangling spray or conditioner. You c
 
 If all of these methods fail, you may [need to shave the goat's coat](/can-goats-eat-potato-shavings/). This should only be done as a last resort, as it can be painful for the goat and may damage its skin.
 
+### Choosing the Right Coat Material
+
+Not all goat coats are created equal. Look for coats made from breathable canvas or ripstop nylon that allow air circulation while still blocking rain and debris.
+
+Avoid anything made from heavy wool or fleece-lined material, as these can trap moisture against the mohair and actually cause more matting than going without a coat.
+
+The coat should have adjustable straps at the chest and belly so you can get a snug fit without restricting movement. Check that no buckles or velcro patches sit directly against the fleece, since these will snag and damage fibers over time.
+
 ## What to Remember
 
 You can goat coat your angora goat to protect it from weather and predators, but you need to be careful to avoid matting and tangling.
