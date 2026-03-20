@@ -72,9 +72,11 @@ schemas.push({
   "description": post.data.description,
   "datePublished": post.data.publishDate.toISOString(),
   "dateModified": (post.data.updatedDate || post.data.publishDate).toISOString(),
+  ...(post.data.image && { "image": `${siteConfig.url}${post.data.image}` }),
   "author": {
     "@type": "Person",
     "name": post.data.author || siteConfig.author.name,
+    "url": `${siteConfig.url}/about/`,
   },
   "publisher": {
     "@type": "Organization",
