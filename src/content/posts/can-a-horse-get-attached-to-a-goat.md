@@ -1,6 +1,6 @@
 ---
 title: "Can a Horse Get Attached to a Goat? (Everything You Need To Know)"
-description: "We all know that goats and horses are both herd animals and enjoy the company of other grazing animals. But can these two animals form a strong bond? And if"
+description: "We all know that goats and horses are both herd animals and enjoy the company of other grazing animals. But can these two animals form a strong bond? And if so, what does that bond look like?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-23

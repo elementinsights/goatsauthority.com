@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Love Humans? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering if goats can love humans or not. And if so, what are the things you need to consider before getting a goat as a pet? In this article, we"
+description: "You may be wondering if goats can love humans or not. And if so, what are the things you need to consider before getting a goat as a pet? In this article, we will answer the question of whether goats can love humans."
 category: "training"
 postType: "guide"
 publishDate: 2022-10-04

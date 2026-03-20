@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Water Kefir Grains With Goat Cheese? (All You Need To Know)"
-description: "Water Kefir grains are a type of probiotic that can be used to make a fermented drink. Goat cheese is a type of cheese that is made from goat milk. In this"
+description: "Water Kefir grains are a type of probiotic that can be used to make a fermented drink. Goat cheese is a type of cheese that is made from goat milk."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-11-27

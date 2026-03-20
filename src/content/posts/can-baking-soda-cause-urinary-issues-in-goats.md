@@ -1,6 +1,6 @@
 ---
 title: "Can Baking Soda Cause Urinary Issues in Goats? (Feeding Facts, Tips, FAQs, and More)"
-description: "We all know that goats can eat just about anything. This includes baking soda. But can this common household item cause urinary issues in goats? If so, what"
+description: "We all know that goats can eat just about anything. This includes baking soda. But can this common household item cause urinary issues in goats? If so, what should you do about it?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-28

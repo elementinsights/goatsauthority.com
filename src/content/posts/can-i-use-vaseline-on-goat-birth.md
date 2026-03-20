@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Vaseline On Goat Birth? (Everything You Need To Know)"
-description: "If you're interested in owning goats, one of the first questions that might come to mind is if you can use Vaseline during goat births. And if so, what are the"
+description: "If you're interested in owning goats, one of the first questions that might come to mind is if you can use Vaseline during goat births. And if so, what are the things you need to consider?"
 category: "pregnancy"
 postType: "guide"
 publishDate: 2022-11-26

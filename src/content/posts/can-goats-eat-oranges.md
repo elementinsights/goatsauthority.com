@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Oranges? (What About Peels, Seeds & Leaves?)"
-description: "Have you ever wondered what kind of fruits goats can eat? As a goat owner, I often find myself in the same boat. It’s not always easy to know what is safe for"
+description: "Have you ever wondered what kind of fruits goats can eat? As a goat owner, I often find myself in the same boat. It’s not always easy to know what is safe for our four-legged friends. One question that comes up quite a bit is about oranges."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Oranges?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat oranges. This might come as a surprise to many goat owners."
+  text: "They’re rich in vitamin C and other nutrients that boost their immune system. So next time when you have some leftover oranges don’t throw them away."
 toc:
   - label: "Can Goats Eat Oranges?"
     href: "#can-goats-eat-oranges"

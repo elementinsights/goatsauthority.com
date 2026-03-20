@@ -1,6 +1,6 @@
 ---
 title: "Can You Change A Bottle Fed Goat Back To Nursing Off Another Goat?"
-description: "It's common knowledge that baby goats are the cutest, but what you may not know is that it's best for them to nurse off their mothers. If your goat was"
+description: "It's common knowledge that baby goats are the cutest, but what you may not know is that it's best for them to nurse off their mothers. If your goat was bottle-fed and you're wondering if they can switch back to nursing or not."
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-18

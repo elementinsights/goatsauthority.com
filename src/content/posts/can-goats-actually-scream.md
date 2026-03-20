@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Actually Scream? (Everything You Need To Know)"
-description: "Taking care of our little farm animals is a great responsibility. We all want to do everything we can to make sure they're happy and healthy. So, it's only"
+description: "Taking care of our little farm animals is a great responsibility. We all want to do everything we can to make sure they're happy and healthy. So, it's only natural that you might wonder if goats can actually scream."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-05

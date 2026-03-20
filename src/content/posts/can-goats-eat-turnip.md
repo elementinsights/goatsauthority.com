@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Turnip? (Everything You Need To Know)"
-description: "We all know that goats are famous for eating just about anything. But what about turnips? Can goats eat turnips? In this article, we will address everything"
+description: "We all know that goats are famous for eating just about anything. But what about turnips? Can goats eat turnips? In this article, we will address everything you need to know about whether or not goats can eat turnips."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-27
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Turnip?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat turnips. Turnips are a great source of nutrition for goats."
+  text: "When feeding turnips to goats, it is important to make sure that they are properly cleaned and cut into small pieces. Turnips can be fed to goats fresh, cooked, or canned."
 toc:
   - label: "Can goats eat turnips?"
     href: "#can-goats-eat-turnips"

@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Kid Feeding Tube To Drench Adult Goat? (Everything You Need To Know)"
-description: "Taking care of goats can be a rewarding experience. But, there are certain things you need to know in order to do it properly. One of those things is how to"
+description: "Taking care of goats can be a rewarding experience. But, there are certain things you need to know in order to do it properly. One of those things is how to properly feed them."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-23

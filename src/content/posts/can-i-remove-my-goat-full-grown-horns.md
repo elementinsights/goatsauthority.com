@@ -1,6 +1,6 @@
 ---
 title: "Can I Remove My Goat Full Grown Horns? (Farmers Guide, Tips, Facts & FAQs)"
-description: "We usually think of goats as cute, cuddly animals. But what happens when they get older and their horns start to become a problem? Is it possible to remove a"
+description: "We usually think of goats as cute, cuddly animals. But what happens when they get older and their horns start to become a problem? Is it possible to remove a goat's horns once they're fully grown? And if so, how would you go about doing that?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-13

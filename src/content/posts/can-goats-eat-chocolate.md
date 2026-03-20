@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Chocolate? (Myths, Facts & Safety Tips)"
-description: "Ever had a pet goat? I do. It’s quite an adventure, let me tell you. Sometimes they act like big dogs, always curious about what we’re eating. You might wonder"
+description: "Ever had a pet goat? I do. It’s quite an adventure, let me tell you. Sometimes they act like big dogs, always curious about what we’re eating. You might wonder if it’s okay to share your snacks with them."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-24

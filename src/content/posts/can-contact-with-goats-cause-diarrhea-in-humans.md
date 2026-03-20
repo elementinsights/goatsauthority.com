@@ -1,6 +1,6 @@
 ---
 title: "Can Contact With Goats Cause Diarrhea in Humans? (All You Need To Know)"
-description: "You may be wondering if you can get diarrhea from goats or not. And if so, what are the things you should know? In this article, we will answer all of your"
+description: "You may be wondering if you can get diarrhea from goats or not. And if so, what are the things you should know? In this article, we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-30

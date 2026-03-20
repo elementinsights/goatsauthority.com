@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Peanut Butter? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Peanut butter is a delectable treat that's enjoyed by humans and animals alike. But can our furry friends partake in this nutty goodness? In this article, we"
+description: "Peanut butter is a delectable treat that's enjoyed by humans and animals alike. But can our furry friends partake in this nutty goodness?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09

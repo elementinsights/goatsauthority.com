@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Artichokes? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats can be a rewarding experience. But as any good goat owner knows, what your goats eat is important for their health and well-being. So, can"
+description: "Taking care of goats can be a rewarding experience. But as any good goat owner knows, what your goats eat is important for their health and well-being. So, can goats eat artichokes?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09

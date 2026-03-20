@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bamboo? (Is it Safe or Poisonous?)"
-description: "I own a goat. It’s not as easy as it seems. Goats are known for eating almost anything, but is that really true? Bamboo grows in my backyard and I’ve seen my"
+description: "I own a goat. It’s not as easy as it seems. Goats are known for eating almost anything, but is that really true? Bamboo grows in my backyard and I’ve seen my goat eyeing it curiously. But can goats actually eat bamboo without getting sick?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28

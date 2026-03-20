@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs and Pygmy Goats Live Together? (Everything You Need To Know)"
-description: "It can be difficult to take care of both a dog and a pygmy goat, so you might be thinking if they should coexist or not. And if so, what would be the best"
+description: "It can be difficult to take care of both a dog and a pygmy goat, so you might be thinking if they should coexist or not. And if so, what would be the best course of action?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-31

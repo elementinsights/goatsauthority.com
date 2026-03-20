@@ -1,6 +1,6 @@
 ---
 title: "Can Rams Be In With Goat Bucks? (Livestock Facts, FAQs & More)"
-description: "It is difficult to determine if rams can be in with goat bucks or not. And if so, what are the things you need to consider before letting them in with each"
+description: "It is difficult to determine if rams can be in with goat bucks or not. And if so, what are the things you need to consider before letting them in with each other?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-27

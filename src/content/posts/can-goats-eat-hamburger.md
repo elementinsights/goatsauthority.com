@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Hamburgers? (Health Benefits, Risks, and FAQs)"
-description: "We all know that goats are browsers, and their necessity for a varied diet of plants is well-documented. But what happens when they're offered something that's"
+description: "We all know that goats are browsers, and their necessity for a varied diet of plants is well-documented. But what happens when they're offered something that's not part of their usual fare, like a hamburger? Can goats eat hamburgers safely?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16

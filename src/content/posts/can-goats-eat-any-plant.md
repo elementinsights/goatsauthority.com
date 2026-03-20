@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Any Plant? (Everything You Need To Know)"
-description: "You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat? In this article, we will answer all of your"
+description: "You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat? In this article, we will answer all of your questions about what goats can and cannot eat."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09

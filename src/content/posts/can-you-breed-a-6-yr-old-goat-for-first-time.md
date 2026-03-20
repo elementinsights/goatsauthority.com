@@ -1,6 +1,6 @@
 ---
 title: "Can You Breed A 6 yr Old Goat For First Time? (Everything You Need To Know)"
-description: "We all know how important it is to get our animals spayed or neutered at a young age, but what about breeding? Is there an optimal time to start breeding our"
+description: "We all know how important it is to get our animals spayed or neutered at a young age, but what about breeding? Is there an optimal time to start breeding our goats? And if so, can you breed a 6 yr old goat for the first time?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-13

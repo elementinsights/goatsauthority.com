@@ -1,6 +1,6 @@
 ---
 title: "Can I Feed A Small Amount Of Raw Almonds To My Nubian Goats?"
-description: "We all know that goats are browsers, and will pretty much eat anything they can reach. So, it's no surprise that people often wonder if it's okay to feed their"
+description: "We all know that goats are browsers, and will pretty much eat anything they can reach. So, it's no surprise that people often wonder if it's okay to feed their goats almonds."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12

@@ -1,6 +1,6 @@
 ---
 title: "Can Pregnant Boer Goats Eat Alfalfa? (Nutrition Facts, Benefits & FAQs)"
-description: "It's no secret that nutrition is key for all animals, but it becomes even more important during pregnancy. However, with so many different options on the"
+description: "It's no secret that nutrition is key for all animals, but it becomes even more important during pregnancy. However, with so many different options on the market, it can be tough to decide what's best for your goat."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-18

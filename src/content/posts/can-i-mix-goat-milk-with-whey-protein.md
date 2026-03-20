@@ -1,6 +1,6 @@
 ---
 title: "Can I Mix Goat Milk With Whey Protein? (Everything You Need To Know)"
-description: "It is difficult to determine whether goat milk and whey protein can be mixed together without first knowing what the goals are for doing so. And if so, what"
+description: "It is difficult to determine whether goat milk and whey protein can be mixed together without first knowing what the goals are for doing so. And if so, what are the things you need to consider before mixing them?"
 category: "food"
 postType: "guide"
 publishDate: 2022-11-06

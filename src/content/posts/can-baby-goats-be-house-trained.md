@@ -1,6 +1,6 @@
 ---
 title: "Can Baby Goats be House Trained? (Training Guide, Tips, FAQs, and More)"
-description: "You might be considering whether or not you can teach your baby goat to relieve himself within your house. If so, what are the most effective techniques? We"
+description: "You might be considering whether or not you can teach your baby goat to relieve himself within your house. If so, what are the most effective techniques?"
 category: "training"
 postType: "guide"
 publishDate: 2022-08-26

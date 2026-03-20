@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Goats Milk Soap On My Beard? (Everything You Need To Know)"
-description: "Many factors contribute to a luxurious, healthy beard. Of course, using the appropriate products is paramount--but can you use goats milk soap on your facial"
+description: "Many factors contribute to a luxurious, healthy beard. Of course, using the appropriate products is paramount--but can you use goats milk soap on your facial hair? And if so, what are the things you need to consider?"
 category: "health"
 postType: "guide"
 publishDate: 2022-11-22

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Pigs and Chickens Live In The Same Barn? (What You Need To Know)"
-description: "We all know that different animals have different needs when it comes to housing, but can goats, pigs, and chickens live in the same barn? And if so, what are"
+description: "We all know that different animals have different needs when it comes to housing, but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-05

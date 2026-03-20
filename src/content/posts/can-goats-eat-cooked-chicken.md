@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cooked Chicken? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering if your goats can enjoy cooked chicken as part of their diet. And if so, what are the nutritional benefits? In this article, we will"
+description: "You may be wondering if your goats can enjoy cooked chicken as part of their diet. And if so, what are the nutritional benefits? In this article, we will answer all of your questions about feeding cooked chicken to goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13

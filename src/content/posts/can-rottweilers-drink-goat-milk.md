@@ -1,6 +1,6 @@
 ---
 title: "Can Rottweilers Drink Goat Milk? (Nutrition Facts, Benefits & FAQs)"
-description: "If you own a rottweiler, you're probably wondering if goat's milk is safe for them to consume. If it is, what factors should you take into account? In this"
+description: "If you own a rottweiler, you're probably wondering if goat's milk is safe for them to consume. If it is, what factors should you take into account? In this article, we will answer those questions about goat's milk and rottweilers."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-06-30

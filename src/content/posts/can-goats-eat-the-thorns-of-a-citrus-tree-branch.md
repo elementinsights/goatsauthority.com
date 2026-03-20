@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat The Thorns Of A Citrus Tree Branch? (What You Need To Know)"
-description: "You may be wondering whether or not goats can eat the thorns of a citrus tree branch. And if so, what are the things you need to know? In this article, we will"
+description: "You may be wondering whether or not goats can eat the thorns of a citrus tree branch. And if so, what are the things you need to know?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-27

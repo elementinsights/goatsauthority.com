@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Citrus Fruits? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Many people are curious about the dietary habits of goats. Can they eat citrus fruits? What other types of food do they enjoy? If so, what are the nutritional"
+description: "Many people are curious about the dietary habits of goats. Can they eat citrus fruits? What other types of food do they enjoy? If so, what are the nutritional benefits, and what are the risks?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13

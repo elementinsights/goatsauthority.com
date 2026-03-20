@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Milk Reduce Wrinkles? (What You Need To Know)"
-description: "You might be wondering whether or not goat milk can smooth out wrinkles. And if so, how should it be applied? In this article, we'll address all of your"
+description: "You might be wondering whether or not goat milk can smooth out wrinkles. And if so, how should it be applied?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-04

@@ -1,6 +1,6 @@
 ---
 title: "Can You Band An Adult Goats Horns To Dehorn Them? (FAQs)"
-description: "You may be wondering if it is possible to band an adult goat's horns to dehorn them or not. And if so, what are the things you need to consider before doing"
+description: "You may be wondering if it is possible to band an adult goat's horns to dehorn them or not. And if so, what are the things you need to consider before doing it?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-10

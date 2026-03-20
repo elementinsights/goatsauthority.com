@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get Poisoned on Clover That Has Been Frosted on?"
-description: "People often ask whether or not their goats can get poisoned if they eat clover that has been frosted on. In this article, we will explore this topic in more"
+description: "People often ask whether or not their goats can get poisoned if they eat clover that has been frosted on. In this article, we will explore this topic in more depth so that you can make an informed decision about what is best for your goats."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02

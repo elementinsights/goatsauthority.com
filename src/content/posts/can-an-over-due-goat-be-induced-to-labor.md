@@ -1,6 +1,6 @@
 ---
 title: "Can an Overdue Goat be Induced to Labor? (Nursing Facts, FAQs, and More)"
-description: "Every goat owner has to deal with the potential of an overdue goat at some point in their lives. What choices do you have if this occurs? Can you induce labor"
+description: "Every goat owner has to deal with the potential of an overdue goat at some point in their lives. What choices do you have if this occurs? Can you induce labor in a goat that is past due?"
 category: "pregnancy"
 postType: "guide"
 publishDate: 2022-08-25

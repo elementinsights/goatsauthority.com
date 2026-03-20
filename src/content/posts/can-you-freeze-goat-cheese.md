@@ -1,6 +1,6 @@
 ---
 title: "Can You Freeze Goat Cheese? (Tips, Tricks, & How-To Guide)"
-description: "Have you ever wondered if you can freeze goat cheese? This article will provide you with helpful tips, tricks, and a simple how-to guide on freezing goat"
+description: "Have you ever wondered if you can freeze goat cheese? This article will provide you with helpful tips, tricks, and a simple how-to guide on freezing goat cheese."
 category: "food"
 postType: "guide"
 publishDate: 2023-07-10

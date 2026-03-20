@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Digest Anything? (All You Need To Know)"
-description: "You might be curious about whether or not goats can digest food. If so, what exactly are they unable to digest? We will address all of your questions about"
+description: "You might be curious about whether or not goats can digest food. If so, what exactly are they unable to digest? We will address all of your questions about what goats can and cannot digest in this article."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-08

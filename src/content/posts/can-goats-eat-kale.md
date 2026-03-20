@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Kale? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Ever seen a goat munch on something green? It’s quite the sight. You might wonder if all greens are good for them. Take kale, for instance. This leafy"
+description: "Ever seen a goat munch on something green? It’s quite the sight. You might wonder if all greens are good for them. Take kale, for instance. This leafy vegetable is popular among humans due to its health benefits. But can goats enjoy it too?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-24

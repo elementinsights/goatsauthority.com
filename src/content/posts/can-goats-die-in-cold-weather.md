@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Die in Cold Weather? (Farmers Guide, Facts and More)"
-description: "Taking care of goats means being prepared for all kinds of weather, including cold weather. But can goats die in cold weather? And if so, what can farmers do"
+description: "Taking care of goats means being prepared for all kinds of weather, including cold weather. But can goats die in cold weather? And if so, what can farmers do to prevent it?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08

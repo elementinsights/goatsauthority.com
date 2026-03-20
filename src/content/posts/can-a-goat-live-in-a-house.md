@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Live in a House? (Petting Tips, Facts, and More)"
-description: "A goat is an animal that is kept as a pet by humans. They are known for their playful nature, and many people enjoy having them around because of this. If you"
+description: "A goat is an animal that is kept as a pet by humans. They are known for their playful nature, and many people enjoy having them around because of this. If you are considering getting a goat as a pet, there are some things you should know first."
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-22
@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Live in a House?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible to keep them indoors. Because goats are small and they don’t stink."
+  text: "However, there are a few things you should take into consideration before making the decision to house your goat indoors. First, goats are social animals and they need companionship."
 toc:
   - label: "Can a goat live in a house?"
     href: "#can-a-goat-live-in-a-house"

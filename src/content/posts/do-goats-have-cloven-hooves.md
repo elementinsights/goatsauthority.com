@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Cloven Hooves? (Everything You Need To Know)"
-description: "We all know that goats are pretty special animals. They're known for being independent, sure-footed, and playful. But what about their feet? Do goats have"
+description: "We all know that goats are pretty special animals. They're known for being independent, sure-footed, and playful. But what about their feet? Do goats have cloven hooves?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-16

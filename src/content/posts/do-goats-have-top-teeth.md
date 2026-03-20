@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Top Teeth? (Everything You Need To Know)"
-description: "Do goats have top teeth? That’s a question that has been puzzling people for years. And while it may seem like a simple question, the answer is not so"
+description: "Do goats have top teeth? That’s a question that has been puzzling people for years. And while it may seem like a simple question, the answer is not so clear-cut. As a matter of fact, there's some debate over whether or not goats even have top teeth."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-03

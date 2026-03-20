@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Teeth? (Everything That You Need To Know)"
-description: "Let us talk about goats in general. Do goats have teeth? How many teeth do they have? What kind of teeth do they have? All of these are valid questions that"
+description: "Let us talk about goats in general. Do goats have teeth? How many teeth do they have? What kind of teeth do they have? All of these are valid questions that will be answered in this article."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-09
@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Teeth?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have teeth. As a matter of fact, they have 32 of them."
+  text: "Interestingly enough, their teeth continue to grow throughout their lifetime. This is why you will sometimes see goats chewing on things, they are trying to wear down their teeth."
 toc:
   - label: "Do goats have teeth?"
     href: "#do-goats-have-teeth"

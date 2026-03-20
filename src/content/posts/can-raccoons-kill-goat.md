@@ -1,6 +1,6 @@
 ---
 title: "Can Raccoons Kill Goats? (Everything You Need To Know)"
-description: "Protecting your goat herd from predators is an important part of being a responsible goats owner. But what do you do when the predator is something as small"
+description: "Protecting your goat herd from predators is an important part of being a responsible goats owner. But what do you do when the predator is something as small and seemingly harmless as a raccoon? Can raccoons kill goats?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-26

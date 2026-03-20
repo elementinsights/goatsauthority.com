@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Barn be 12x 2? (Livestock Shelter and FAQs)"
-description: "Building a goat barn involves many different considerations. How many goats you have, how big your property is, and where you reside will all affect how big"
+description: "Building a goat barn involves many different considerations. How many goats you have, how big your property is, and where you reside will all affect how big your barn needs to be."
 category: "housing"
 postType: "guide"
 publishDate: 2022-07-29
@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Barn be 12x 2?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat barn can be 12x2, but it's not ideal. Goats need a lot of space to roam and explore."
+  text: "They may also become stressed, which can lead to health problems. In addition, a small barn will be difficult to keep clean and spacious for the goats to play in."
 toc:
   - label: "Can a goat barn be 12x 2?"
     href: "#can-a-goat-barn-be-12x-2"

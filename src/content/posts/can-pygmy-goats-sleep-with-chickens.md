@@ -1,6 +1,6 @@
 ---
 title: "Can Pygmy Goats Sleep With Chickens? (Livestock Facts, FAQs & More)"
-description: "You may be wondering whether or not pygmy goats can sleep with chickens. And if so, what are the things you need to consider? In this article, we will answer"
+description: "You may be wondering whether or not pygmy goats can sleep with chickens. And if so, what are the things you need to consider?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-25

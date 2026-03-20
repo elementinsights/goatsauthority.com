@@ -1,6 +1,6 @@
 ---
 title: "Can Goats And Cows Graze In The Same Field At The Same Time Without Fighting?"
-description: "it's difficult to determine whether or not goats and cows can graze in the same pasture without fighting because there are many variables to consider, such as"
+description: "it's difficult to determine whether or not goats and cows can graze in the same pasture without fighting because there are many variables to consider, such as the size of the pasture, the number of goats and cows, and the personalities of the individual animals."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-05

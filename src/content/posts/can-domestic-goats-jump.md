@@ -1,6 +1,6 @@
 ---
 title: "Can Domestic Goats Jump? (Everything You Need To Know)"
-description: "Taking care of domestic goats is a delicate task that requires a lot of attention and dedication. Even though they are not as big and strong as some other"
+description: "Taking care of domestic goats is a delicate task that requires a lot of attention and dedication. Even though they are not as big and strong as some other animals, they still need to be well looked after in order to stay healthy and happy."
 category: "training"
 postType: "guide"
 publishDate: 2022-08-31

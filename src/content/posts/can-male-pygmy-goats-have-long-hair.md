@@ -1,6 +1,6 @@
 ---
 title: "Can Male Pygmy Goats Have Long Hair? (Breeding Facts, FAQs & More)"
-description: "We all know that goats are pretty amazing creatures. But did you know that there are different types of goats? One type is the male pygmy goat. Male pygmy"
+description: "We all know that goats are pretty amazing creatures. But did you know that there are different types of goats? One type is the male pygmy goat. Male pygmy goats are usually smaller than their female counterparts. They also have shorter hair."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-05

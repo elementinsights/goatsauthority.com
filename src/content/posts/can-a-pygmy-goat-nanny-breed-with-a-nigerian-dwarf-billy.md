@@ -1,6 +1,6 @@
 ---
 title: "Can a Pygmy Goat Nanny breed with a Nigerian Dwarf Billy? (Breeding Hints, Facts, and FAQs)"
-description: "We all know that breeding goats are very difficult. There are so many different types of goats and it's hard to keep track of all the different breeding"
+description: "We all know that breeding goats are very difficult. There are so many different types of goats and it's hard to keep track of all the different breeding methods."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-24

@@ -1,6 +1,6 @@
 ---
 title: "Can You Drink Goat Milk While Pregnant? (Health Care Facts, FAQs, and More)"
-description: "Making sure you and your baby are healthy during pregnancy is crucial. One consideration is the types of foods and beverages you consume. Goat milk has become"
+description: "Making sure you and your baby are healthy during pregnancy is crucial. One consideration is the types of foods and beverages you consume."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-10

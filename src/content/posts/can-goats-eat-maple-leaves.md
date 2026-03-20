@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Maple Leaves? (Straightforward Guide to Goat Diet)"
-description: "Have you ever wondered about the diet of a goat? As an owner, I’ve often had to consider what my goats can and cannot eat. One question that comes up is"
+description: "Have you ever wondered about the diet of a goat? As an owner, I’ve often had to consider what my goats can and cannot eat. One question that comes up is whether or not they can consume maple leaves."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Maple Leaves?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat maple leaves. They find them tasty and nutritious."
+  text: "The red maple leaf is harmful if it’s wilted or dried up. It contains a toxin that harms the goat’s blood cells."
 toc:
   - label: "Can Goats Eat Maple Leaves?"
     href: "#can-goats-eat-maple-leaves"

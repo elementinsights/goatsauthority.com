@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Pull A Plow? (Training Facts, Tips, FAQs & More)"
-description: "It is difficult to determine whether or not goats can pull a plow. And if so, what are the things you need to consider before you start training your goats? We"
+description: "It is difficult to determine whether or not goats can pull a plow. And if so, what are the things you need to consider before you start training your goats?"
 category: "training"
 postType: "guide"
 publishDate: 2022-10-05

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pumpkin Leaves? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that goats are curious creatures. It's one of the things that make them so lovable. But their curious nature can sometimes get them into trouble,"
+description: "We all know that goats are curious creatures. It's one of the things that make them so lovable. But their curious nature can sometimes get them into trouble, like when they try to nibble on things that they're not supposed to eat."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-23

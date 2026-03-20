@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Oregon Grape? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that goats love to eat just about anything, but can they eat Oregon grape? What are the nutritional facts? What are the benefits? And finally, are"
+description: "We all know that goats love to eat just about anything, but can they eat Oregon grape? What are the nutritional facts? What are the benefits? And finally, are there any FAQs that we should know about?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21

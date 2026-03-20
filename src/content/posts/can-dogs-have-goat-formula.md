@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Have Goat Formula? (Benefits, Risks, and Serving Size)"
-description: "Many dog owners are curious if they can give their pet goat milk formula as an alternative to cow's milk. And if so, what are the benefits, risks, and proper"
+description: "Many dog owners are curious if they can give their pet goat milk formula as an alternative to cow's milk. And if so, what are the benefits, risks, and proper serving sizes for goats?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Chicken Feed? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Have you ever looked at your goat munching away and wondered about its diet? I know I have. As a proud owner of goats, their health is my top priority. Chicken"
+description: "Have you ever looked at your goat munching away and wondered about its diet? I know I have. As a proud owner of goats, their health is my top priority. Chicken feed might seem like an easy meal option for them."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-26
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Chicken Feed?"
 readTime: "11 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Chicken feed is a common food for chickens. But can goats eat it too?"
+  text: "Feeding your goat chicken feed might seem like an easy solution if you’re out of goat food. However, this should only be done in emergencies and never as a regular diet plan for your pet goat."
 toc:
   - label: "Can Goats Eat Chicken Feed?"
     href: "#can-goats-eat-chicken-feed"

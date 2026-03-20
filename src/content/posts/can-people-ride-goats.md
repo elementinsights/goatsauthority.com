@@ -1,6 +1,6 @@
 ---
 title: "Can People Ride Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "Taking care of goats is a big responsibility, but it can be very rewarding. If you're thinking about getting a goat, you might be wondering if people can ride"
+description: "Taking care of goats is a big responsibility, but it can be very rewarding. If you're thinking about getting a goat, you might be wondering if people can ride them. And if so, what are the things you need to consider?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-16

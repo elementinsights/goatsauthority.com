@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Alfalfa Hay? (Detailed Guide to Goat Diet)"
-description: "Have you ever looked at a goat munching away and wondered what they can eat? I have. As a goat owner, this is something that’s always on my mind. One food item"
+description: "Have you ever looked at a goat munching away and wondered what they can eat? I have. As a goat owner, this is something that’s always on my mind. One food item often discussed in the world of goats is alfalfa hay."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28

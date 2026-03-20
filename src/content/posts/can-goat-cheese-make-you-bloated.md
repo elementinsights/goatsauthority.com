@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Cheese Make You Bloated? (Everything You Need To Know)"
-description: "Many people are wondering if goat cheese can make you bloated or not. And if so, what are the consequences? We’ll explain everything you need to know about"
+description: "Many people are wondering if goat cheese can make you bloated or not. And if so, what are the consequences? We’ll explain everything you need to know about goat cheese and bloating and answer all of your questions."
 category: "food"
 postType: "guide"
 publishDate: 2022-09-02

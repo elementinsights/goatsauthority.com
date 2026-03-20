@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Ivermectin Pour On In Sheep And Goats? (All You Need To Know)"
-description: "It is difficult to determine whether or not ivermectin is effective in treating sheep and goats. And if so, what are the possible side effects? In this"
+description: "It is difficult to determine whether or not ivermectin is effective in treating sheep and goats. And if so, what are the possible side effects?"
 category: "health"
 postType: "guide"
 publishDate: 2022-11-22

@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get Addicted to Human Urine? (Health Facts, FAQs & More)"
-description: "Are you wondering if can a goat get addicted to human urine? In this article, we will answer that question for you, as well as provide some health information"
+description: "Are you wondering if can a goat get addicted to human urine? In this article, we will answer that question for you, as well as provide some health information and FAQs about goats."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02

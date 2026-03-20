@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Rice? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Rice is a staple food in many parts of the world, and for good reason. It’s filling, nutritious, and affordable. But can rice be eaten by goats? And if so,"
+description: "Rice is a staple food in many parts of the world, and for good reason. It’s filling, nutritious, and affordable. But can rice be eaten by goats? And if so, what are the benefits and risks? This article will explore those questions and more."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-17

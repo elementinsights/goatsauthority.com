@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Be Kept In The House? (Everything You Need To Know)"
-description: "Livestock farming is a difficult but rewarding task that requires a lot of commitment and dedication. If you're thinking about adding goats to your farm, you"
+description: "Livestock farming is a difficult but rewarding task that requires a lot of commitment and dedication. If you're thinking about adding goats to your farm, you may be wondering if they can be kept in the house."
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-06

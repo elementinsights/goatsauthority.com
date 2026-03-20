@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pine Trees? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Pine trees are a popular source of food for most animals since they are full of nutrients. But, how about your goats? Can they eat pine trees too? And if so,"
+description: "Pine trees are a popular source of food for most animals since they are full of nutrients. But, how about your goats? You may already know that goats can munch on all sorts of plants, from bananas to cucumbers, but pine trees are a different story."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-16

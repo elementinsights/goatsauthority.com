@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Corn On The Cob? (Everything You Need To Know)"
-description: "The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can consume corn on the cob. The advantages,"
+description: "The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can consume corn on the cob."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-11

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Sweet Potatoes? (Benefits, Risks, Serving Size, and FAQs)"
-description: "It can be challenging to assess the advantages, drawbacks, and risks of feeding sweet potatoes to your animal companions, including whether or not goats can"
+description: "It can be challenging to assess the advantages, drawbacks, and risks of feeding sweet potatoes to your animal companions, including whether or not goats can eat them."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09

@@ -1,6 +1,6 @@
 ---
 title: "Can A Goat Be Left Out For Hours? (Everything You Need To Know)"
-description: "You may be wondering whether it's okay to leave your goat out for hours at a time. After all, they are notoriously independent creatures. And if so, how long"
+description: "You may be wondering whether it's okay to leave your goat out for hours at a time. After all, they are notoriously independent creatures. And if so, how long can they stay out?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-01

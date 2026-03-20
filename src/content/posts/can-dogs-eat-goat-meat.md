@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Eat Goat Meat? (Benefits, Risks, and More)"
-description: "it's difficult to determine whether or not goat meat is safe for dogs. And if so, what are the pros and cons? In this article, we will answer all these"
+description: "it's difficult to determine whether or not goat meat is safe for dogs. And if so, what are the pros and cons? In this article, we will answer all these questions so you can make an informed decision about whether or not to feed your dog goat meat."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-30

@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Have Goat Yogurt? (Benefits, Risks, and Serving Size)"
-description: "Many people are unsure if dogs can have goat yogurt or not. And if so, what are the benefits and risks? In this article, we will answer all of your questions"
+description: "Many people are unsure if dogs can have goat yogurt or not. And if so, what are the benefits and risks? In this article, we will answer all of your questions regarding feeding your dog goat yogurt."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31
@@ -11,7 +11,7 @@ imageAlt: "Can Dogs Have Goat Yogurt?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Dogs can have goat yogurt. Goat yogurt is a great source of protein and calcium for your dog."
+  text: "However, it's important to only give your dog plain, unsweetened goat yogurt. Sweetened yogurts can contain too much sugar for your dog and may cause them to develop an upset stomach."
 toc:
   - label: "Can dogs have goat yogurt?"
     href: "#can-dogs-have-goat-yogurt"

@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get a Concussion? (Everything You Need To Know)"
-description: "Can a goat sustain a concussion? Many individuals have been perplexed by this question for a very long time. In this article, we go over everything you need to"
+description: "Can a goat sustain a concussion? Many individuals have been perplexed by this question for a very long time. In this article, we go over everything you need to know regarding its causes, symptoms, treatments, and prevention measures."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02

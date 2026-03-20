@@ -1,6 +1,6 @@
 ---
 title: "Can You Band A 2 Year Old Buck Goat? (Livestock Facts, FAQs & More)"
-description: "It's not uncommon for people to wonder if they are able to band a 2-year-old buck goat or not. And if so, what are the things you need to consider before doing"
+description: "It's not uncommon for people to wonder if they are able to band a 2-year-old buck goat or not. And if so, what are the things you need to consider before doing so?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-11

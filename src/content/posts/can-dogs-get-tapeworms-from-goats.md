@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Get Tapeworms From Goats? (Everything You Need To Know)"
-description: "Taking care of a pet is a big responsibility. You have to make sure they are well-fed, exercised, and groomed. But you also need to be mindful of their health"
+description: "Taking care of a pet is a big responsibility. You have to make sure they are well-fed, exercised, and groomed. But you also need to be mindful of their health and safety."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-31

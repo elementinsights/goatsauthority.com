@@ -1,6 +1,6 @@
 ---
 title: "Can a Dog Get Sick From a Goat? (Things You Need to Know)"
-description: "Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat? In this article, we'll cover the"
+description: "Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat?"
 category: "health"
 postType: "guide"
 publishDate: 2022-07-27

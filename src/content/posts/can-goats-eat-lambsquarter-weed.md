@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Lambsquarter Weed? (Benefits, Hazards, and Serving Size)"
-description: "Feeding your goats can be tricky- you want to make sure they're getting enough nutrition, but you also don't want to overfeed them. So, can goats eat"
+description: "Feeding your goats can be tricky- you want to make sure they're getting enough nutrition, but you also don't want to overfeed them. So, can goats eat lambsquarter weed? And if so, what are the things you should keep in mind?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-19

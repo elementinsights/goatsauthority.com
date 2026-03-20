@@ -1,6 +1,6 @@
 ---
 title: "Can I Have Goats In Warrenville? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether or not you can have goats in Warrenville. And if so, what are the things you need to consider before making the big decision? In"
+description: "You may be wondering whether or not you can have goats in Warrenville. And if so, what are the things you need to consider before making the big decision?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-02

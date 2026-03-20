@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Kentucky Bluegrass? (Benefits, Hazards, and Serving Size)"
-description: "You might be unsure whether it's okay for your goats to eat Kentucky bluegrass. If so, what are the advantages, risks, and quantities of feeding this grass to"
+description: "You might be unsure whether it's okay for your goats to eat Kentucky bluegrass. If so, what are the advantages, risks, and quantities of feeding this grass to your goats?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-19

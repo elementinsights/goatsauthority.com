@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Lice Live on Humans? (Signs, Symptoms, and Treatments)"
-description: "We all know those goat lice are a problem for our goats, but can you get them from your goats? or can they live on humans? And if so, what are the signs,"
+description: "We all know those goat lice are a problem for our goats, but can you get them from your goats? or can they live on humans? And if so, what are the signs, symptoms, and treatments?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Climb Fences? (All You Need to Know)"
-description: "We all know that goats are versatile creatures. They can be used for everything from providing milk to making cheese and even serving as loyal pets. But one of"
+description: "We all know that goats are versatile creatures. They can be used for everything from providing milk to making cheese and even serving as loyal pets. But one of the most common questions people have about goats is whether or not they can climb fences."
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-08
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Climb Fences?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can scale fences. They are very good climbers."
+  text: "However, not all goats are good climbers. Some goats may be too heavy or uncoordinated to climb a fence, and others may simply be scared of heights."
 toc:
   - label: "Can goats climb fences?"
     href: "#can-goats-climb-fences"

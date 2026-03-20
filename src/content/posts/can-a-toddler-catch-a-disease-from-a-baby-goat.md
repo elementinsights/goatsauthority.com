@@ -1,6 +1,6 @@
 ---
 title: "Can a Toddler Catch a Disease from a Baby Goat? (All You Need To Know)"
-description: "You may be wondering if it's safe for your toddler to play with baby goats. After all, they are adorable creatures. But you may have also heard that goats can"
+description: "You may be wondering if it's safe for your toddler to play with baby goats. After all, they are adorable creatures. But you may have also heard that goats can carry diseases. So, can a toddler catch a disease from a baby goat?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-25

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Gum Tree Leaves? (Health Benefits, Risks, and FAQs)"
-description: "You may be wondering whether or not your goats can eat gum tree leaves. And if so, what are the benefits and risks? In this article, we will answer all of your"
+description: "You may be wondering whether or not your goats can eat gum tree leaves. And if so, what are the benefits and risks? In this article, we will answer all of your questions about feeding gum tree leaves to goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Gum Tree Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Leafy gum trees are edible to goats. They might even find the taste enjoyable."
+  text: "Despite that, it's important to note that there are some risks associated with feeding goats gum tree leaves. These leaves can contain toxins that can be harmful to goats if they consume too much of them."
 toc:
   - label: "Can goats eat gum tree leaves?"
     href: "#can-goats-eat-gum-tree-leaves"

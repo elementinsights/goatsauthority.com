@@ -1,6 +1,6 @@
 ---
 title: "Can Nutri Drench Be Given To Lactating Goats? (All You Need To Know)"
-description: "Many people are curious if Nutri Drench can be given to lactating goats or not. And if so, what are the things you need to consider? In this article, we will"
+description: "Many people are curious if Nutri Drench can be given to lactating goats or not. And if so, what are the things you need to consider? In this article, we will answer those questions regarding giving Nutri Drench to lactating goats."
 category: "health"
 postType: "guide"
 publishDate: 2022-12-13

@@ -1,6 +1,6 @@
 ---
 title: "Can One Sheep Live With Goats? (Everything You Need To Know)"
-description: "We all know that sheep and goats are two separate species. But can they live together? And if so, what are the best practices? In this article, we'll answer"
+description: "We all know that sheep and goats are two separate species. But can they live together? And if so, what are the best practices? In this article, we'll answer all of your questions about keeping sheep and goats together."
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-14

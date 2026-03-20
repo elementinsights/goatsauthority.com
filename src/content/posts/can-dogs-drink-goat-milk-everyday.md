@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Drink Goat Milk Everyday? (Benefits, Risks, and Serving Size)"
-description: "Dogs are known for being loyal and loving companions. But what many dog owners may not know is that dogs can also enjoy the benefits of goat milk. In fact,"
+description: "Dogs are known for being loyal and loving companions. But what many dog owners may not know is that dogs can also enjoy the benefits of goat milk."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31

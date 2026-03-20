@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Romaine Lettuce? (Benefits, Risks, Serving Size, and FAQs)"
-description: "it's commonly asked if goats can eat romaine lettuce, as goats are known to be curious creatures that will seemingly try to eat anything. The answer to this"
+description: "it's commonly asked if goats can eat romaine lettuce, as goats are known to be curious creatures that will seemingly try to eat anything."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18

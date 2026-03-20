@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Die From Their Own Horns Grow Into Heads? (FAQs)"
-description: "We all know that goats are pretty tough animals. But can they actually die from their own horns growing into their head? And if so, what are the symptoms? In"
+description: "We all know that goats are pretty tough animals. But can they actually die from their own horns growing into their head? And if so, what are the symptoms?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08

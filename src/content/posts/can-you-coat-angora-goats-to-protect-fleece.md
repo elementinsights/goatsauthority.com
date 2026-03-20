@@ -1,6 +1,6 @@
 ---
 title: "Can You Coat Angora Goats To Protect Fleece? (Everything You Need To Know)"
-description: "We all know that angora goats have the most beautiful and softest fleece. But did you know that this gorgeous coat can actually be a burden to the goat? And"
+description: "We all know that angora goats have the most beautiful and softest fleece. But did you know that this gorgeous coat can actually be a burden to the goat? And have you ever wondered whether you can coat an angora goat to protect its fleece?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-19

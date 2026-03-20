@@ -1,6 +1,6 @@
 ---
 title: "Can I Claim A Couple Of Goats As Lawn Maintenance Team Instead Of Pets?"
-description: "Taking care of goats is a lot of work. Goats are social creatures and need companionship, so you would need to have at least two. They also need a lot of space"
+description: "Taking care of goats is a lot of work. Goats are social creatures and need companionship, so you would need to have at least two. They also need a lot of space to roam and explore."
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-11

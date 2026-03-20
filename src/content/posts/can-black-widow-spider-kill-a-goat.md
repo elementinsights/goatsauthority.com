@@ -1,6 +1,6 @@
 ---
 title: "Can Black Widow Spider Kill a Goat? (Everything You Need To Know)"
-description: "Goats are well-known for being incredibly hardy creatures. They can eat nearly anything and adapt to almost any habitat. So it's understandable why people"
+description: "Goats are well-known for being incredibly hardy creatures. They can eat nearly anything and adapt to almost any habitat. So it's understandable why people frequently ponder whether a goat may be killed by a black widow spider."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-29

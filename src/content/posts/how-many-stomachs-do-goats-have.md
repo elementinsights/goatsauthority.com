@@ -1,6 +1,6 @@
 ---
 title: "How Many Stomachs Do Goats Have? (Everything You Need To Know)"
-description: "The number of stomachs a goat has is a common question. The response to that question will be thoroughly covered in this article. And also, we'll provide you"
+description: "The number of stomachs a goat has is a common question. The response to that question will be thoroughly covered in this article. And also, we'll provide you with more details regarding goats' stomachs in general."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-04

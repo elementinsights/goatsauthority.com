@@ -1,6 +1,6 @@
 ---
 title: "Can I Give Goat Trazodone? (Healthcare Tips, Facts, FAQs, and More)"
-description: "Taking care of goats can be a rewarding experience. They are interesting animals with their own unique personalities. However, like any animal, they can also"
+description: "Taking care of goats can be a rewarding experience. They are interesting animals with their own unique personalities. However, like any animal, they can also get sick."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-13

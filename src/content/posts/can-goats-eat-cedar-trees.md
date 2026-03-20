@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cedar Trees? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Many people enjoy keeping goats as pets. Goats are interesting animals that can provide plenty of companionship and amusement. However, one question that often"
+description: "Many people enjoy keeping goats as pets. Goats are interesting animals that can provide plenty of companionship and amusement. However, one question that often comes up is whether or not it's safe for these animals to eat cedar trees."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-12

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Kiwi? (Benefits, Risks, Serving Size, and FAQs)"
-description: "We all know that kiwi is a delicious and healthy fruit. But can your goats enjoy it too? And if so, what are the benefits, risks, and serving size"
+description: "We all know that kiwi is a delicious and healthy fruit. But can your goats enjoy it too? And if so, what are the benefits, risks, and serving size recommendations?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-17

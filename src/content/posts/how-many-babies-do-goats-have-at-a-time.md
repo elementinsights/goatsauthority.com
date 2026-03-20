@@ -1,6 +1,6 @@
 ---
 title: "How Many Babies Do Goats Have At A Time? (Everything You Need To Know)"
-description: "You might be wondering how many babies goats have at a time and how often they reproduce in a year. We will address all these questions, and more, in this"
+description: "You might be wondering how many babies goats have at a time and how often they reproduce in a year."
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-08-14

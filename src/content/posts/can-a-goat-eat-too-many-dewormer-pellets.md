@@ -1,6 +1,6 @@
 ---
 title: "Can A Goat Eat Too Many Dewormer Pellets? (Benefits, Risks, and Serving Size)"
-description: "Goats' digestive systems are pretty tough and you may be wondering if they can eat too many dewormer pellets or not. And if so, what are the risks and"
+description: "Goats' digestive systems are pretty tough and you may be wondering if they can eat too many dewormer pellets or not. And if so, what are the risks and benefits?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02

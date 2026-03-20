@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Motherwort? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat can be a fun and rewarding experience. Goats are curious, inquisitive creatures that are known for their playful personalities. As a pet"
+description: "Taking care of a goat can be a fun and rewarding experience. Goats are curious, inquisitive creatures that are known for their playful personalities. As a pet owner, you need to understand what your goat needs to stay healthy and happy."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21

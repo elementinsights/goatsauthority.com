@@ -1,6 +1,6 @@
 ---
 title: "Can You Deworm A Pregnant Goat? (Health Care Facts, FAQs, and More)"
-description: "You may be wondering whether you can deworm your pregnant goat or not. And if so, what are the things you need to consider before doing so? We will answer"
+description: "You may be wondering whether you can deworm your pregnant goat or not. And if so, what are the things you need to consider before doing so? We will answer those questions in detail and provide you with additional information in this article."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-05

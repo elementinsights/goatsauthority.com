@@ -1,6 +1,6 @@
 ---
 title: "Can I Grow Goats For Cashmere And Angola? (Everything You Need To Know)"
-description: "Taking care of goats can be a rewarding experience, and can even turn into a profitable business venture. If you're wondering whether you can raise goats for"
+description: "Taking care of goats can be a rewarding experience, and can even turn into a profitable business venture. If you're wondering whether you can raise goats for cashmere and Angola."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-26

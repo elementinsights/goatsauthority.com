@@ -1,6 +1,6 @@
 ---
 title: "Can a Nubian Goat Climb Trees? (Everything You Need To Know)"
-description: "Taking care of a Nubian goat is a lot of fun. They are very friendly animals and love to play. Though they are not as big as some other breeds of goats, they"
+description: "Taking care of a Nubian goat is a lot of fun. They are very friendly animals and love to play. Though they are not as big as some other breeds of goats, they are still fairly large."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-24
@@ -11,7 +11,7 @@ imageAlt: "Can a Nubian Goat Climb Trees?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Nubian goats can climb trees. In fact, they are quite good at it."
+  text: "Despite that, you need to be careful if you allow your Nubian goat to climb trees. They could get injured if they fall from a height."
 toc:
   - label: "Can a Nubian goat climb trees?"
     href: "#can-a-nubian-goat-climb-trees"

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Peppers? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Peppers are a popular vegetable that can be eaten raw or cooked. They come in a variety of colors and sizes and are packed with nutrients that provide health"
+description: "Peppers are a popular vegetable that can be eaten raw or cooked. They come in a variety of colors and sizes and are packed with nutrients that provide health benefits. Peppers are also easy to grow, making them a popular choice for gardeners."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peppers?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume peppers. In fact, peppers are high in vitamin C and other essential nutrients."
+  text: "However, there are some risks associated with feeding peppers to goats. Peppers can cause digestive upset in some goats."
 toc:
   - label: "Can goats eat peppers?"
     href: "#can-goats-eat-peppers"

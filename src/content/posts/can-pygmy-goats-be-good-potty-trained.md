@@ -1,6 +1,6 @@
 ---
 title: "Can Pygmy Goats Be Good Potty Trained? (Training Facts, FAQs & More)"
-description: "Taking care of a Pygmy goat can be a very rewarding experience. Not only are they incredibly adorable, but they're also relatively easy to take care of. One"
+description: "Taking care of a Pygmy goat can be a very rewarding experience. Not only are they incredibly adorable, but they're also relatively easy to take care of. One thing you may be wondering about, though, is whether or not Pygmy goats can be potty trained."
 category: "training"
 postType: "guide"
 publishDate: 2022-12-07

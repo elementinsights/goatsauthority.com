@@ -1,6 +1,6 @@
 ---
 title: "Can 8 Week Old Baby Goats Be in With Each Other? (FAQs & More)"
-description: "As you may or may not know, baby goats are absolutely adorable. In fact, they’re so cute that many people choose to keep them as pets. But what happens when"
+description: "As you may or may not know, baby goats are absolutely adorable. In fact, they’re so cute that many people choose to keep them as pets. But what happens when those baby goats reach 8 weeks old?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-07-25

@@ -1,6 +1,6 @@
 ---
 title: "Can My Infant Goat Kid Eat Grain? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering whether you can feed grain to your infant goat kid or not. And if so, what are the things you need to consider before doing so? In this"
+description: "You may be wondering whether you can feed grain to your infant goat kid or not. And if so, what are the things you need to consider before doing so?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-09

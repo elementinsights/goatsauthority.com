@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cooked White Rice? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat may be enjoyable and rewarding. You might be wondering what kind of food a goat can consume if you're considering getting one or"
+description: "Taking care of a goat may be enjoyable and rewarding. You might be wondering what kind of food a goat can consume if you're considering getting one or currently have one. You can be curious about a certain dish, such as rice."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14

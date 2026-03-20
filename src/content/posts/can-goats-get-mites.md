@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Get Mites? (Health Care, Facts & FAQs)"
-description: "We all know that goats are susceptible to a variety of parasites. But what about mites? Can goats get mites? And if so, what are the things you need to look"
+description: "We all know that goats are susceptible to a variety of parasites. But what about mites? Can goats get mites? And if so, what are the things you need to look out for?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-28

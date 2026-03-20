@@ -1,6 +1,6 @@
 ---
 title: "Can Too Much Field Time Cause Scours In Goats (Livestock Facts, FAQs & More)"
-description: "You may be wondering whether too much field time can cause scours in goats or not. And if so, what are the things you need to consider before letting your"
+description: "You may be wondering whether too much field time can cause scours in goats or not. And if so, what are the things you need to consider before letting your goats out to pasture?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-03

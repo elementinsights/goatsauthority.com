@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Mimosa? (Benefits, Hazards, and Serving Size)"
-description: "Feeding your goats is an important part of keeping them healthy and happy. While they are browsers and will eat a variety of different plants, you may be"
+description: "Feeding your goats is an important part of keeping them healthy and happy. While they are browsers and will eat a variety of different plants, you may be wondering if there are any that they should avoid."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21

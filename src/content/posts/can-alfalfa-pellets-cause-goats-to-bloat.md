@@ -1,6 +1,6 @@
 ---
 title: "Can Alfalfa Pellets Cause Goats to Bloat? (What You Need to Know)"
-description: "The feeding process of goats is quite a tricky thing to perfect. If you don't get it right, your goats will be unhealthy and unproductive. One of the things"
+description: "The feeding process of goats is quite a tricky thing to perfect. If you don't get it right, your goats will be unhealthy and unproductive. One of the things you need to be very careful about is what type of hay you feed your goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-25

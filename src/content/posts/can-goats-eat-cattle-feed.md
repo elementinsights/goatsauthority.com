@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cattle Feed? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering if goats can eat cattle feed since they are both members of the Bovidae family. And if so, what are the benefits and risks associated with"
+description: "You may be wondering if goats can eat cattle feed since they are both members of the Bovidae family. And if so, what are the benefits and risks associated with this diet?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13

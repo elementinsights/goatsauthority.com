@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Calf Starter Pellets? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Chances are you’ve heard that goats eat anything. But is that really true? What do goats eat, and what can they not eat? How do their diets vary by region? And"
+description: "Chances are you’ve heard that goats eat anything. But is that really true? What do goats eat, and what can they not eat? How do their diets vary by region? And what about calf starter pellets, can goats eat those too?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12

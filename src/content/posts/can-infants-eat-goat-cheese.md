@@ -1,6 +1,6 @@
 ---
 title: "Can Infants Eat Goat Cheese? (Everything You Need To Know)"
-description: "You may be wondering whether or infant can eat goat cheese. And if so, what are the things you need to consider before feeding your infant goat cheese? In this"
+description: "You may be wondering whether or infant can eat goat cheese. And if so, what are the things you need to consider before feeding your infant goat cheese?"
 category: "food"
 postType: "guide"
 publishDate: 2022-12-01

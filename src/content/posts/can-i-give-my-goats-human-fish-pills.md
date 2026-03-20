@@ -1,6 +1,6 @@
 ---
 title: "Can I Give My Goats Human Fish Pills? (Everything You Need To Know)"
-description: "You may be wondering whether you can give your goats human fish pills or not. And if so, what are the things you need to consider before doing so? In this"
+description: "You may be wondering whether you can give your goats human fish pills or not. And if so, what are the things you need to consider before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-24
@@ -11,7 +11,7 @@ imageAlt: "Can I Give My Goats Human Fish Pills?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give your goats human fish pills. In fact, there are numerous advantages to doing so."
+  text: "However, you can also find Omega-3 supplements that are specifically designed for goats. When giving your goats fish pills, it is important to make sure that they are properly sized."
 toc:
   - label: "Can I give my goats human fish pills?"
     href: "#can-i-give-my-goats-human-fish-pills"

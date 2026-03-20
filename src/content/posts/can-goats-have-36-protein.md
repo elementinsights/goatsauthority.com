@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have 36 Protein Block? (Health Care, Facts & FAQs)"
-description: "We all know that goats are one of the healthiest animals out there. They're known for their high protein content, and their milk is often used in medical"
+description: "We all know that goats are one of the healthiest animals out there. They're known for their high protein content, and their milk is often used in medical treatment and natural remedies."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29

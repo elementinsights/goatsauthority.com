@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Blackberries? (Discovering Surprising Goat Diets)"
-description: "Have you ever found yourself with a surplus of blackberries and wondered if your goat could help finish them off? I’ve been there. With my own herd, it’s"
+description: "Have you ever found yourself with a surplus of blackberries and wondered if your goat could help finish them off? I’ve been there. With my own herd, it’s always interesting to find out what treats they can safely enjoy."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-29

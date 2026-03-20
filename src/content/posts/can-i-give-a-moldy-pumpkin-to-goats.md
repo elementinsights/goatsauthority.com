@@ -1,6 +1,6 @@
 ---
 title: "Can I Give A Moldy Pumpkin To Goats? (Nutrition Facts, Benefits, FAQs & More)"
-description: "It is difficult to determine whether or not you can give your goats a moldy pumpkin. And if so, what are the things you should consider? We will answer those"
+description: "It is difficult to determine whether or not you can give your goats a moldy pumpkin. And if so, what are the things you should consider?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-13

@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Breed with Sheep? (Are Goat-Sheep Hybrids Real?)"
-description: "Many have questioned whether a goat can breed with a sheep, and whether goat-sheep hybrids are actually real. While the question may be complicated, the answer"
+description: "Many have questioned whether a goat can breed with a sheep, and whether goat-sheep hybrids are actually real. While the question may be complicated, the answer doesn't have to be."
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-07-30

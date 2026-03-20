@@ -1,6 +1,6 @@
 ---
 title: "Can I Use A Rope Halter On A Goat? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether you can use a rope halter on a goat or not. And if so, what are the things you need to consider before using one? In this article,"
+description: "You may be wondering whether you can use a rope halter on a goat or not. And if so, what are the things you need to consider before using one?"
 category: "training"
 postType: "guide"
 publishDate: 2022-11-18

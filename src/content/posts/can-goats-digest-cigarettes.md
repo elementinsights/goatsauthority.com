@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Digest Cigarettes? (Benefits, Risks, FAQs, and More)"
-description: "Taking care of goats can be a rewarding experience. Not only are they fun and cute animals, but they can also provide milk, cheese, and other products for your"
+description: "Taking care of goats can be a rewarding experience. Not only are they fun and cute animals, but they can also provide milk, cheese, and other products for your family. However, before you get goats, it's crucial to do your research."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Digest Cigarettes?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can digest cigarettes. In fact, their stomachs are designed to digest just about anything."
+  text: "However, it's important to note that just because goats can digest cigarettes does not mean that it's good for them. In fact, cigarettes are one of the worst things you can give to a goat."
 toc:
   - label: "Can goats digest cigarettes?"
     href: "#can-goats-digest-cigarettes"

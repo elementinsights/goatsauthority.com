@@ -1,6 +1,6 @@
 ---
 title: "Can I Give Powdered Goat Milk To Sick Baby Goats? (Everything You Need To Know)"
-description: "It is difficult to determine whether powdered goat milk is good for sick baby goats without knowing more about the goat's illness. And you may be wondering if"
+description: "It is difficult to determine whether powdered goat milk is good for sick baby goats without knowing more about the goat's illness. And you may be wondering if it is safe to give your goat this type of milk at all."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-25

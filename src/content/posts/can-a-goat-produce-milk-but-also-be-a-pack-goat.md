@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Produce Milk But Also be a Pack Goat? (Farming Facts, FAQs, and More)"
-description: "Many people are wondering if they can get milk from a goat and also use the goat as a pack animal. And if so, what is the thing you need to look for when"
+description: "Many people are wondering if they can get milk from a goat and also use the goat as a pack animal. And if so, what is the thing you need to look for when choosing a goat?"
 category: "food"
 postType: "guide"
 publishDate: 2022-08-22

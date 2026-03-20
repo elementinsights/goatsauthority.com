@@ -1,6 +1,6 @@
 ---
 title: "Can I Have Goats In Monroe County NY? (Farmers Guide, Tips, Facts & FAQs)"
-description: "In Monroe County, NY, the debate over whether or not goats are allowed on residential properties is ongoing. Some say that as long as they are registered and"
+description: "In Monroe County, NY, the debate over whether or not goats are allowed on residential properties is ongoing. Some say that as long as they are registered and vaccinated, goats are allowed while others maintain that they are not permitted at all."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-31
@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats In Monroe County NY?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It"
+  text: "They are energetic, personable creatures that are easy to care for and love being around people. Plus, they can provide a valuable source of milk, meat, or wool, depending on the breed."
 toc:
   - label: "Can I have goats in Monroe County NY?"
     href: "#can-i-have-goats-in-monroe-county-ny"

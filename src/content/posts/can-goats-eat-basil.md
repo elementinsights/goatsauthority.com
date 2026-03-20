@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Basil? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Basil is a popular herb often used in Italian cuisine. But can goats eat basil? What are the benefits, risks, serving size, and FAQs of eating basil? Let's"
+description: "Basil is a popular herb often used in Italian cuisine. But can goats eat basil? What are the benefits, risks, serving size, and FAQs of eating basil? Let's take a closer look at the answer to these questions in this article."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-17

@@ -1,6 +1,6 @@
 ---
 title: "Can I Give A Sick Goat Water Through A Syringe? (Everything You Need To Know)"
-description: "Taking care of a sick goat can be challenging. One of the most common questions that people ask is whether or not they can give their sick goat water through a"
+description: "Taking care of a sick goat can be challenging. One of the most common questions that people ask is whether or not they can give their sick goat water through a syringe."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-13

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Overripe Fruit? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Many people are wondering if goats can eat overripe fruit or not. And if so, what are the things to consider? In this article, we will answer those questions"
+description: "Many people are wondering if goats can eat overripe fruit or not. And if so, what are the things to consider? In this article, we will answer those questions and give you more information about goats and their diet."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21

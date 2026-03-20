@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Dandelions? (Benefits, Risks, Serving Size, and FAQs)"
-description: "it's difficult to determine if you can feed dandelions to your goats or not. And if so, how many and how often? In this article, we will answer all of these"
+description: "it's difficult to determine if you can feed dandelions to your goats or not. And if so, how many and how often?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18

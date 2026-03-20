@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Centipede Grass? (Everything You Need To Know)"
-description: "If you live in an area with centipede grass, you may be wondering if it's safe for your goat to eat. And so, what are the things you need to know about feeding"
+description: "If you live in an area with centipede grass, you may be wondering if it's safe for your goat to eat. And so, what are the things you need to know about feeding your goat centipede grass?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13

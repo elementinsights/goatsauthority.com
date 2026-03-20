@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Beautyberry? (Nutrition Facts, Risks, FAQs & More)"
-description: "Taking care of goat's nutrition is vital to their health and well-being. If you're wondering whether goats can eat beautyberry or not. And if so, what are the"
+description: "Taking care of goat's nutrition is vital to their health and well-being. If you're wondering whether goats can eat beautyberry or not. And if so, what are the nutrition facts and risks associated with it?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-11

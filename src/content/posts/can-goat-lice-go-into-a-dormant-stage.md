@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Lice Go Into a Dormant Stage? (Everything You Need To Know)"
-description: "You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case? In this article about goat lice and"
+description: "You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case? In this article about goat lice and dormancy, we will address all of your concerns and provide all the information you require."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02
@@ -11,7 +11,7 @@ imageAlt: "Can Goat Lice Go Into a Dormant Stage?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat lice can go into a dormant stage. In this state, the lice are not feeding and are less active."
+  text: "Despite that, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your goats have lice, it's best to consult a goat expert."
 toc:
   - label: "Can goat lice go into a dormant stage?"
     href: "#can-goat-lice-go-into-a-dormant-stage"

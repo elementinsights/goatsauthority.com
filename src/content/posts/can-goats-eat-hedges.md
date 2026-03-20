@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Hedges? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat can be a fun and rewarding experience. Goats are curious, intelligent animals that are known for their friendly dispositions. One of the"
+description: "Taking care of a goat can be a fun and rewarding experience. Goats are curious, intelligent animals that are known for their friendly dispositions. One of the most important things to consider when caring for a goat is their diet. What can goats eat?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16

@@ -1,6 +1,6 @@
 ---
 title: "Can Sheep Eat Goat Food? (Nutritional Facts, Benefits & FAQs)"
-description: "Many people are interested in whether sheep can eat goat food or not. And if so, what are the things you need to consider? Sheep require a lot of dedication"
+description: "Many people are interested in whether sheep can eat goat food or not. And if so, what are the things you need to consider? Sheep require a lot of dedication and hard work."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-06-15

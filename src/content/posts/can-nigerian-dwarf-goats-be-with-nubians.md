@@ -1,6 +1,6 @@
 ---
 title: "Can Nigerian Dwarf Goats Be With Nubians (What You Need To Know)"
-description: "Many people are curious about the possibility of mixing different types of goats. Some people may wonder if Nigerian Dwarf Goats can be with Nubians, and what"
+description: "Many people are curious about the possibility of mixing different types of goats. Some people may wonder if Nigerian Dwarf Goats can be with Nubians, and what that would entail."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-11

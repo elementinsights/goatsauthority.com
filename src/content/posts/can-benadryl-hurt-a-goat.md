@@ -1,6 +1,6 @@
 ---
 title: "Can Benadryl Hurt a Goat? (Benefits, Risks, FAQs, and More)"
-description: "You may be wondering if it's safe to give your goat Benadryl or not. And if so, what are the risks and benefits are. In this article, we will answer all of"
+description: "You may be wondering if it's safe to give your goat Benadryl or not. And if so, what are the risks and benefits are. In this article, we will answer all of your questions about giving Benadryl to goats, including the benefits and risks involved."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-28

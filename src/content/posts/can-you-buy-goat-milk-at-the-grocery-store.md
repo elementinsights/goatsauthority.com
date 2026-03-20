@@ -1,6 +1,6 @@
 ---
 title: "Can You Buy Goat Milk At The Grocery Store? (FAQs, Community Reviews & More)"
-description: "We all know that goat milk is incredibly nutritious and good for you. But what about convenience? Can you buy goat milk at the grocery store? And if so, how"
+description: "We all know that goat milk is incredibly nutritious and good for you. But what about convenience? Can you buy goat milk at the grocery store? And if so, how does it compare to other types of milk?"
 category: "food"
 postType: "guide"
 publishDate: 2023-01-17

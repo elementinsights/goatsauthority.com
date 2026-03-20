@@ -1,6 +1,6 @@
 ---
 title: "Can Children Have Goat Milk Ayurveda? (Benefits, Risks, FAQs, and More)"
-description: "You may be wondering if it's okay to give your kids goat milk ayurveda or not. And if so, what are the benefits and risks? In this article, we will answer all"
+description: "You may be wondering if it's okay to give your kids goat milk ayurveda or not. And if so, what are the benefits and risks?"
 category: "food"
 postType: "guide"
 publishDate: 2022-08-29

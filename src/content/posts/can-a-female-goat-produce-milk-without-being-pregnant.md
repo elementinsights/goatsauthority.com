@@ -1,6 +1,6 @@
 ---
 title: "Can a Female Goat Produce Milk Without Being Pregnant? (FAQ & More)"
-description: "One of the most common questions about female goats is whether or not they can produce milk without being pregnant. The answer, as it turns out, is a little"
+description: "One of the most common questions about female goats is whether or not they can produce milk without being pregnant. The answer, as it turns out, is a little complicated."
 category: "health"
 postType: "guide"
 publishDate: 2022-07-28

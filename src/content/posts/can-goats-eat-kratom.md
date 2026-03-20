@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Kratom? (Nutrition Facts, Benefits, FAQs & More)"
-description: "it's difficult to determine whether or not kratom is safe for goats and you may wonder if you can give your goat kratom. In this article, we will answer the"
+description: "it's difficult to determine whether or not kratom is safe for goats and you may wonder if you can give your goat kratom. In this article, we will answer the question, \"can goats eat kratom?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-19

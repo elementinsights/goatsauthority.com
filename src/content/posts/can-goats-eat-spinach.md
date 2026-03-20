@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Spinach? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Have you wondered if spinach is good for goats? What are the benefits? Are there any risks? We will answer all that questions in this article, along with some"
+description: "Have you wondered if spinach is good for goats? What are the benefits? Are there any risks? We will answer all that questions in this article, along with some frequently asked questions about feeding goats spinach."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-06

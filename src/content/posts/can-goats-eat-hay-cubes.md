@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Hay Cubes? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that goats are browsers, and their natural diet consists mostly of browse (leaves, twigs, and stems of woody shrubs and bushes). Despite that, in"
+description: "We all know that goats are browsers, and their natural diet consists mostly of browse (leaves, twigs, and stems of woody shrubs and bushes)."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16

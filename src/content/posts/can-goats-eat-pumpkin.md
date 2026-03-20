@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pumpkin? (Benefits, Risks, and Serving Size)"
-description: "Many people are curious as to whether goats can consume pumpkins. We will discuss whether goats can eat pumpkins in this article, as well as the advantages,"
+description: "Many people are curious as to whether goats can consume pumpkins. We will discuss whether goats can eat pumpkins in this article, as well as the advantages, dangers, and serving size for goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-03

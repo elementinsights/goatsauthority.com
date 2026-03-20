@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Bimectin Instead Of Safeguard To Worm My Kid Goat?"
-description: "We all know that goats need to be wormed, but what's the best way to do it? Can you use Bimectin instead of Safeguard? And if so, what are the things you need"
+description: "We all know that goats need to be wormed, but what's the best way to do it? Can you use Bimectin instead of Safeguard? And if so, what are the things you need to keep in mind?"
 category: "health"
 postType: "guide"
 publishDate: 2022-11-19

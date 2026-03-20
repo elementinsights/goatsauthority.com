@@ -1,6 +1,6 @@
 ---
 title: "Can a Nigerian Goat Doeling Get Breed at 4 Month Age? (Breeding Tips, Facts, and Tricks)"
-description: "You may be wondering if it's possible to breed your Nigerian Goat Doeling at 4 months old or not. And if so, are there any special considerations to take into"
+description: "You may be wondering if it's possible to breed your Nigerian Goat Doeling at 4 months old or not. And if so, are there any special considerations to take into account?"
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-08-23

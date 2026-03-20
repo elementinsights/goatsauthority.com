@@ -1,6 +1,6 @@
 ---
 title: "Can I Walk A Goat In Skippack PA? (Farmers Guide, Tips, Facts & FAQs)"
-description: "Taking care of a goat in Skippack is a fun and rewarding experience, but have you ever wondered if you can take your goat out for a walk? And if so, what do"
+description: "Taking care of a goat in Skippack is a fun and rewarding experience, but have you ever wondered if you can take your goat out for a walk? And if so, what do you need to know?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-28

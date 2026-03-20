@@ -1,6 +1,6 @@
 ---
 title: "Can Kabuli Palao Be Made With Goat? (FAQs, Community Reviews & More)"
-description: "Given the recent popularity of Kabuli Palao, many people have been asking whether it can be made with goats. In this article, we will explore the question of"
+description: "Given the recent popularity of Kabuli Palao, many people have been asking whether it can be made with goats."
 category: "food"
 postType: "guide"
 publishDate: 2022-12-02

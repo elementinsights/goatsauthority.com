@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Kohlrabi? (Benefits, Hazards, and Serving Size)"
-description: "Taking care of goats means providing them with a diet that is not only nutritious but also safe. This includes knowing what foods goats can and cannot eat. So,"
+description: "Taking care of goats means providing them with a diet that is not only nutritious but also safe. This includes knowing what foods goats can and cannot eat. So, can goats eat kohlrabi?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-20

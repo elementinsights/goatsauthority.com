@@ -1,6 +1,6 @@
 ---
 title: "Can You Drink Raw Goat Milk On Gaps Diet? (Health Care Facts, FAQs, and More)"
-description: "The GAPS Diet is a special eating plan aimed at improving digestive wellness. It involves eating nutritious foods and steering clear of processed and refined"
+description: "The GAPS Diet is a special eating plan aimed at improving digestive wellness. It involves eating nutritious foods and steering clear of processed and refined items. Some people on the GAPS Diet wonder if raw goat milk is a good drink option."
 category: "food"
 postType: "guide"
 publishDate: 2023-02-02

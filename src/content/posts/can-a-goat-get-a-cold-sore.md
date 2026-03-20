@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get a Cold Sore? (Causes, Symptoms & Treatments)"
-description: "Many people have wondered about this over the years: can a goat get a cold sore? While there's no clear-cut solution, we may closely study the causes, signs,"
+description: "Many people have wondered about this over the years: can a goat get a cold sore? While there's no clear-cut solution, we may closely study the causes, signs, and treatments of cold sores in goats to try and come closer to an understanding."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-01

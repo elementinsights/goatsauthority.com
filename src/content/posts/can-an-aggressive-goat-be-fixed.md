@@ -1,6 +1,6 @@
 ---
 title: "Can an Aggressive Goat be Fixed? (Training Guides, Tips, and FAQs)"
-description: "There are many misconceptions about aggression and its causes. People often think that an aggressive goat is a mean goat, when in reality there may be other"
+description: "There are many misconceptions about aggression and its causes. People often think that an aggressive goat is a mean goat, when in reality there may be other reasons for its behavior."
 category: "training"
 postType: "guide"
 publishDate: 2022-08-25

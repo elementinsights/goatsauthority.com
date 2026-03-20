@@ -1,6 +1,6 @@
 ---
 title: "Can I Feed My Goat Pine Needles When It Is Pregnant? (FAQs)"
-description: "You may be wondering if it's safe to feed your pregnant goat pine needles or not. And if so, what are the things you need to consider? In this article, we will"
+description: "You may be wondering if it's safe to feed your pregnant goat pine needles or not. And if so, what are the things you need to consider? In this article, we will answer some of the frequently asked questions about feeding pregnant goats pine needles."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12

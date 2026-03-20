@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Carry Distemper? (Causes, Symptoms, and Treatments)"
-description: "You may be wondering if goats can carry distemper since it's such a contagious disease. And if so, what are the symptoms and treatment options? In this"
+description: "You may be wondering if goats can carry distemper since it's such a contagious disease. And if so, what are the symptoms and treatment options?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-07

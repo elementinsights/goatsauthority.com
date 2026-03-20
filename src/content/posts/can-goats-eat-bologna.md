@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bologna? (Benefits, Risks, Serving Size & FAQs)"
-description: "You may be wondering whether or not goats eat bologna. And if so, what are the benefits, risks, and serving sizes for goats? In this article, we will answer"
+description: "You may be wondering whether or not goats eat bologna. And if so, what are the benefits, risks, and serving sizes for goats?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12

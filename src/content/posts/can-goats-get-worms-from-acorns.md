@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Get Worms From Acorns? (Health Care, Facts & FAQs)"
-description: "We all know that goats are notorious for eating just about anything. So, it's no surprise that they would be curious about acorns. But can goats actually get"
+description: "We all know that goats are notorious for eating just about anything. So, it's no surprise that they would be curious about acorns. But can goats actually get worms from eating acorns?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29

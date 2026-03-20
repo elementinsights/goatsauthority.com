@@ -1,6 +1,6 @@
 ---
 title: "Can Male Goats Eat Grain? (Nutrition Facts, Benefits, FAQs & More)"
-description: "It is difficult to determine whether or not male goats can eat grain. And if so, what are the things you need to consider before feeding them this food? In"
+description: "It is difficult to determine whether or not male goats can eat grain. And if so, what are the things you need to consider before feeding them this food?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-04

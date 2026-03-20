@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Urine Kill Trees? (Farmers Guide, Facts, and More)"
-description: "It can be challenging to take care of trees and goats, but it's worthwhile to have both, so you might be wondering whether there's anything you can do to keep"
+description: "It can be challenging to take care of trees and goats, but it's worthwhile to have both, so you might be wondering whether there's anything you can do to keep them both healthy. You might also be curious as to whether goat urine can destroy trees."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-04
@@ -11,7 +11,7 @@ imageAlt: "Can Goat Urine Kill Trees?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat urine will not kill trees. In fact, it can actually be good for them."
+  text: "Despite this, it's important not to let the goats urinate on the same spot on the ground for too long as this could lead to the development of patches of bare earth. If you have a lot of goats, you might also want to consider building a fence around your trees to prevent them from getting too close and damaging the bark."
 toc:
   - label: "Can goat urine kill trees?"
     href: "#can-goat-urine-kill-trees"

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Die From Lymes? (Animal Care, Facts, FAQs & More)"
-description: "You may be wondering if your goats are susceptible to the same tick-borne diseases as your dogs and cats. And if so, what are the chances of them dying from"
+description: "You may be wondering if your goats are susceptible to the same tick-borne diseases as your dogs and cats. And if so, what are the chances of them dying from it? In this article, we will answer all of your questions regarding goats and Lyme disease."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08

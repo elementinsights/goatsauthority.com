@@ -1,6 +1,6 @@
 ---
 title: "Can I Get Goat Milk At Lucky's Market? (FAQs, Community Reviews & More)"
-description: "You may be wondering whether or not you can get milk at Lucky's Market or not. And if so, what are the things you need to consider before buying it? In this"
+description: "You may be wondering whether or not you can get milk at Lucky's Market or not. And if so, what are the things you need to consider before buying it?"
 category: "food"
 postType: "guide"
 publishDate: 2022-10-13

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Lettuce? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Most people are aware that goats consume grass, but can they also consume lettuce? The answer to that question may be found in this article, along with"
+description: "Most people are aware that goats consume grass, but can they also consume lettuce?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-05

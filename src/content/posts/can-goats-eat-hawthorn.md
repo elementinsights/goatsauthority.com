@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Hawthorn? (Benefits, Hazards, and Serving Size)"
-description: "Taking care of goats is a lot of fun and a great way to get outside, but you need to know what they can and can't eat. If you're wondering whether or not goats"
+description: "Taking care of goats is a lot of fun and a great way to get outside, but you need to know what they can and can't eat. If you're wondering whether or not goats can eat hawthorn. And if so, what are the benefits, hazards, and serving size?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16

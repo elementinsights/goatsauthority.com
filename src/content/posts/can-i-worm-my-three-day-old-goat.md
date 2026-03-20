@@ -1,6 +1,6 @@
 ---
 title: "Can I Worm My Three Day Old Goat? (Healthcare Tips, Facts, FAQs, and More"
-description: "You’re probably familiar with the old saying, “You are what you eat.” Well, that adage also applies to your four-legged friends. Their diet plays a big role in"
+description: "You’re probably familiar with the old saying, “You are what you eat.” Well, that adage also applies to your four-legged friends."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-30

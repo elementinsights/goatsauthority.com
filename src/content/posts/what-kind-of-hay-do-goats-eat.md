@@ -1,6 +1,6 @@
 ---
 title: "What Kind Of Hay Do Goats Eat? (Everything You Need To Know)"
-description: "Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and leaves to weeds. In"
+description: "Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and leaves to weeds."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09

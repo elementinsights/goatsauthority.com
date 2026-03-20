@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Onions? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Onions are a popular vegetable that is enjoyed by many. But what about goats? Can they eat onions too? And if so, what are the benefits and risks? In this"
+description: "Onions are a popular vegetable that is enjoyed by many. But what about goats? Can they eat onions too? And if so, what are the benefits and risks? In this article, we will explore these questions and more."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08

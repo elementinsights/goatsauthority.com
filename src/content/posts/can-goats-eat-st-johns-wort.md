@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat St Johns Wort? (Everything You Need To Know)"
-description: "We all know that goats are browsers and will eat just about anything. So, it's natural to wonder if they can eat St Johns Wort. And if so, what are the things"
+description: "We all know that goats are browsers and will eat just about anything. So, it's natural to wonder if they can eat St Johns Wort. And if so, what are the things to consider?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat St Johns Wort?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats should not eat St. John's Wort. The reason is that St. John's Wort is poisonous to goats."
+  text: "On top of that, St. John's Wort can also interfere with the effectiveness of certain medications. So, if your goat is taking any medication, it's best to avoid giving them this herb."
 toc:
   - label: "Can goats eat St Johns Wort?"
     href: "#can-goats-eat-st-johns-wort"

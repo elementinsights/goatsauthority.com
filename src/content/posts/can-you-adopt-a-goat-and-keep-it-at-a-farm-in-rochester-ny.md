@@ -1,6 +1,6 @@
 ---
 title: "Can You Adopt A Goat And Keep It At A Farm In Rochester NY?"
-description: "We all know that goats are incredibly cute, but did you know that they can also make great pets? If you're thinking about adopting a goat, you may be wondering"
+description: "We all know that goats are incredibly cute, but did you know that they can also make great pets? If you're thinking about adopting a goat, you may be wondering if it's possible to keep one at a farm in Rochester NY."
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-09

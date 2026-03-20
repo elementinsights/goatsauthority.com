@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Live In An Urban Environment? (Farmers Guide, Tips, Facts & FAQs)"
-description: "We all know that goats are great for eating grass and other plants on a farm. But, have you ever wondered if goats can live in an urban environment? And if so,"
+description: "We all know that goats are great for eating grass and other plants on a farm. But, have you ever wondered if goats can live in an urban environment? And if so, what are the things you need to consider?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-04

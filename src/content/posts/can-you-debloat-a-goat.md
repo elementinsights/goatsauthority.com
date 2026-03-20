@@ -1,6 +1,6 @@
 ---
 title: "Can You Debloat A Goat? (Livestock Facts, FAQs & More)"
-description: "Many people enjoy taking care of goats as they are low-maintenance animals that provide rewards. Though not requiring much attention, there are still some goat"
+description: "Many people enjoy taking care of goats as they are low-maintenance animals that provide rewards. Though not requiring much attention, there are still some goat husbandry skills you should learn to keep your pet healthy and content."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-20

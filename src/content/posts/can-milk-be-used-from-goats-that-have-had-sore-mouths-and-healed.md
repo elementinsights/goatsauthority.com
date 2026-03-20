@@ -1,6 +1,6 @@
 ---
 title: "Can Milk Be Used From Goats That Have Had Sore Mouths And Healed?"
-description: "It is difficult to determine whether or not milk from a goat that has had a sore mouth can be used, as the disease can persist in the animal for some time"
+description: "It is difficult to determine whether or not milk from a goat that has had a sore mouth can be used, as the disease can persist in the animal for some time after healing. And if so, what are the things you need to consider?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-06

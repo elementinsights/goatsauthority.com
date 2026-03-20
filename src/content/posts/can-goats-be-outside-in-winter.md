@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Be Outside In Winter? (Everything You Need To Know)"
-description: "A lot of people are wondering if it's okay to keep their goats outside in the winter or not. And if so, what are the best ways to do it? In this article, we"
+description: "A lot of people are wondering if it's okay to keep their goats outside in the winter or not. And if so, what are the best ways to do it?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-06

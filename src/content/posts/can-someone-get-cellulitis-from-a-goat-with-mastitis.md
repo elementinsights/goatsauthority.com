@@ -1,6 +1,6 @@
 ---
 title: "Can Someone Get Cellulitis From A Goat With Mastitis? (All You Need To Know)"
-description: "You may be wondering whether you can get cellulitis from a goat with mastitis or not. And if so, what are the things you need to consider? Here's what you need"
+description: "You may be wondering whether you can get cellulitis from a goat with mastitis or not. And if so, what are the things you need to consider? Here's what you need to know."
 category: "health"
 postType: "guide"
 publishDate: 2022-12-31

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Satsuma Leaves? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that goat's digestive systems are different from ours. They're able to digest things that we can't and vice versa. So, the question remains: can"
+description: "We all know that goat's digestive systems are different from ours. They're able to digest things that we can't and vice versa. So, the question remains: can goats eat satsuma leaves?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26

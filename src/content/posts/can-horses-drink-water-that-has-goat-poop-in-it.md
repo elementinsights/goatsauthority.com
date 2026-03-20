@@ -1,6 +1,6 @@
 ---
 title: "Can Horses Drink Water That Has Goat Poop In It? (What You Need To Know)"
-description: "Taking care of a horse is a big responsibility. Part of that responsibility is making sure your horse has access to clean, fresh water at all times. But what"
+description: "Taking care of a horse is a big responsibility. Part of that responsibility is making sure your horse has access to clean, fresh water at all times."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-10

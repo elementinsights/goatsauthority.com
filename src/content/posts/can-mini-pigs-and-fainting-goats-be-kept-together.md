@@ -1,6 +1,6 @@
 ---
 title: "Can Mini Pigs And Fainting Goats Be Kept Together? (All You Need To Know)"
-description: "You may be wondering whether you can keep mini pigs and fainting goats together or not. And if so, what are the best ways to go about it? In this article, we"
+description: "You may be wondering whether you can keep mini pigs and fainting goats together or not. And if so, what are the best ways to go about it?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-07

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cheetos? (Nutrition Facts, Benefits, FAQs & More)"
-description: "it's difficult to determine what goats can and cannot eat since their stomachs are very different from ours. And you may be wondering if your goat can chow"
+description: "it's difficult to determine what goats can and cannot eat since their stomachs are very different from ours. And you may be wondering if your goat can chow down on some Cheetos."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13

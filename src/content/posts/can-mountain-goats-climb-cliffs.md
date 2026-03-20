@@ -1,6 +1,6 @@
 ---
 title: "Can Mountain Goats Climb Cliffs? (Everything You Need To Know)"
-description: "We all know that mountain goats are amazing creatures and are often seen climbing up the side of mountains. But can they really climb cliffs? And if so, how do"
+description: "We all know that mountain goats are amazing creatures and are often seen climbing up the side of mountains. But can they really climb cliffs? And if so, how do they do it?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-07

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Be Tied Up For Selective Area Grazing? (FAQs and More)"
-description: "Goats are amazing animals, as we all know. They make excellent friends because they are intelligent and curious. But is it possible to tie goats up for"
+description: "Goats are amazing animals, as we all know. They make excellent friends because they are intelligent and curious. But is it possible to tie goats up for restricted area grazing? If so, what are the best ways to go about doing it?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07

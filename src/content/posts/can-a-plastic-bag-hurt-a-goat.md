@@ -1,6 +1,6 @@
 ---
 title: "Can a Plastic Bag Hurt a Goat? (Potential Risks, FAQs & More)"
-description: "We all know that plastic bags are not good for the environment. They take years to decompose, they’re a major pollutant, and they can be deadly for animals who"
+description: "We all know that plastic bags are not good for the environment. They take years to decompose, they’re a major pollutant, and they can be deadly for animals who mistake them for food. But can a plastic bag hurt a goat?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-24

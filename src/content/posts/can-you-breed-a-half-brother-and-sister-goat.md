@@ -1,6 +1,6 @@
 ---
 title: "Can You Breed A Half Brother And Sister Goat? (Line Breeding Facts & FAQs)"
-description: "We all know that inbreeding is generally not a good idea. It can lead to health problems and weakened offspring. So, what about line breeding? Can you breed a"
+description: "We all know that inbreeding is generally not a good idea. It can lead to health problems and weakened offspring. So, what about line breeding? Can you breed a half-brother and sister goat?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-14

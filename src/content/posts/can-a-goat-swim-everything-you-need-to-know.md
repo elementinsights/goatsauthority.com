@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Swim? (Everything You Need To Know)"
-description: "We all know that goats are versatile animals. They can be used for their milk, meat, fur, and even dung. But one question always comes up: can goats swim? In"
+description: "We all know that goats are versatile animals. They can be used for their milk, meat, fur, and even dung. But one question always comes up: can goats swim? In this article, we will answer this question in full detail."
 category: "traits"
 postType: "guide"
 publishDate: 2022-08-22

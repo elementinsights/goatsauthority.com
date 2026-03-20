@@ -1,6 +1,6 @@
 ---
 title: "Can I Use A Cow Shell With Goat Liners? (Farmers Guide, Tips, Facts & FAQs)"
-description: "Taking care of animals is a big responsibility. As a farmer, you want to make sure you are using the best products for your animals. You may be wondering if"
+description: "Taking care of animals is a big responsibility. As a farmer, you want to make sure you are using the best products for your animals. You may be wondering if you can use a cow shell with goat liners."
 category: "training"
 postType: "guide"
 publishDate: 2022-11-18

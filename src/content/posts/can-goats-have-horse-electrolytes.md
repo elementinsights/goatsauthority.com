@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have Horse Electrolytes? (Everything You Need To Know)"
-description: "Taking care of goats can be a challenging but rewarding experience. Part of that experience is making sure your goats are healthy and well-nourished. One way"
+description: "Taking care of goats can be a challenging but rewarding experience. Part of that experience is making sure your goats are healthy and well-nourished."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-02

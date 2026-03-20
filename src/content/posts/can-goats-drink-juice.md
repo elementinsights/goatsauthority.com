@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Drink Juice? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering whether or not goats can drink juice. And if so, what kind of juice is best for them? In this article, we will answer all of your"
+description: "You may be wondering whether or not goats can drink juice. And if so, what kind of juice is best for them? In this article, we will answer all of your questions about goats and juice."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have Cattle Dewormer Blocks? (Everything You Need To Know)"
-description: "You may be wondering if you can use cattle dewormer blocks on your goats or not. And if so, what are the things you need to consider before using them? In this"
+description: "You may be wondering if you can use cattle dewormer blocks on your goats or not. And if so, what are the things you need to consider before using them?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-30

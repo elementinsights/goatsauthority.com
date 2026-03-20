@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Form An Udder Without Being Pregnant? (FAQs)"
-description: "No one knows for sure. Goats are known for being able to give birth without a male present, but it's still unclear whether or not they can form an udder"
+description: "No one knows for sure. Goats are known for being able to give birth without a male present, but it's still unclear whether or not they can form an udder without being pregnant. Some people say that it's possible, while others believe that it's not."
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-08-01
@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Form An Udder Without Being Pregnant?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can form an udder without being pregnant. This is called pseudopregnancy or false pregnancy."
+  text: "The udder will swell just like it would if the goat was pregnant and about to give birth. Pseudopregnancy is not harmful to the goat and usually goes away on its own after a few weeks."
 toc:
   - label: "Can a goat form an udder without being pregnant?"
     href: "#can-a-goat-form-an-udder-without-being-pregnant"

@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Eat Metal? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Taking care of goats is hard work, but it can be very rewarding. And you might be wondering what is edible for goats since they're such curious creatures. Can"
+description: "Taking care of goats is hard work, but it can be very rewarding. And you might be wondering what is edible for goats since they're such curious creatures. Can they eat metal?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-16

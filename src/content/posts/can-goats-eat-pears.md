@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pears? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Many people have heard that goats eat anything, but can they eat pears? This article will explore the benefits, risks, serving size, and FAQs of feeding pears"
+description: "Many people have heard that goats eat anything, but can they eat pears? This article will explore the benefits, risks, serving size, and FAQs of feeding pears to goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08

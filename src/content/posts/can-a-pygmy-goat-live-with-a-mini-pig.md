@@ -1,6 +1,6 @@
 ---
 title: "Can A Pygmy Goat Live With A Mini Pig? (Livestock Facts, FAQs & More)"
-description: "Many people are wondering whether pygmy goats can live with mini pigs or not. And if so, what are the things you need to consider? In this article, we will"
+description: "Many people are wondering whether pygmy goats can live with mini pigs or not. And if so, what are the things you need to consider?"
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-20

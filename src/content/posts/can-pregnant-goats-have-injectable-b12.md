@@ -1,6 +1,6 @@
 ---
 title: "Can Pregnant Goats Have Injectable b12? (Healthcare Tips, Facts, FAQs, and More)"
-description: "If you're wondering whether or not it's possible to give pregnant goats injectable vitamin B12, and what factors to consider before doing so? In this article,"
+description: "If you're wondering whether or not it's possible to give pregnant goats injectable vitamin B12, and what factors to consider before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-19

@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Udders? (FAQs, Community Reviews & More)"
-description: "Do goats have udders? It's a question that has baffled farmers and pet owners for a long time. It turns out that the solution is a little more intricate than"
+description: "Do goats have udders? It's a question that has baffled farmers and pet owners for a long time. It turns out that the solution is a little more intricate than you initially thought."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-08

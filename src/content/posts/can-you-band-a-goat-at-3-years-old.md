@@ -1,6 +1,6 @@
 ---
 title: "Can You Band A Goat At 3 Years Old? (Livestock Facts, FAQs & More)"
-description: "We all know that goats are pretty tough animals. They can live in all sorts of environments, from hot and dry deserts to cold and snowy mountains. But did you"
+description: "We all know that goats are pretty tough animals. They can live in all sorts of environments, from hot and dry deserts to cold and snowy mountains. But did you know that there’s a right time to band a goat?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-11

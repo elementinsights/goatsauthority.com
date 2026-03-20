@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Be Tethered? (Everything You Need To Know)"
-description: "it's difficult to determine whether or not goats can be tethered. And if so, what are the consequences? In this article, we'll provide everything you need to"
+description: "it's difficult to determine whether or not goats can be tethered. And if so, what are the consequences? In this article, we'll provide everything you need to know about tethering goats."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cooked Pasta? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering if goats can eat cooked pasta or not. And if so, what are the benefits and nutrition facts? In this article, we will answer all of your"
+description: "You may be wondering if goats can eat cooked pasta or not. And if so, what are the benefits and nutrition facts?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14

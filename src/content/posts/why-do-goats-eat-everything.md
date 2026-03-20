@@ -1,6 +1,6 @@
 ---
 title: "Why Do Goats Eat Everything? (Find Out the Do's and Don'ts)"
-description: "Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners. Goats will consume almost anything, including paper, plants,"
+description: "Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners. Goats will consume almost anything, including paper, plants, clothes, and even furniture. Some even refer to them as \"the ultimate omnivores."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08

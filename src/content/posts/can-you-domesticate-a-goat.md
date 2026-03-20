@@ -1,6 +1,6 @@
 ---
 title: "Can You Domesticate A Goat? (Everything You Need To Know)"
-description: "We all know that dogs, cats, and parrots can be domesticated, but what about goats? Can you domesticate a goat? And if so, what are the things you need to"
+description: "We all know that dogs, cats, and parrots can be domesticated, but what about goats? Can you domesticate a goat? And if so, what are the things you need to consider before you take the plunge?"
 category: "training"
 postType: "guide"
 publishDate: 2023-01-20

@@ -1,6 +1,6 @@
 ---
 title: "Can I Suture My Goat? (Healthcare Tips, Facts, FAQs, and More)"
-description: "We all know that goats are very curious creatures. They will try to eat just about anything they can get their mouths on, including things that they really"
+description: "We all know that goats are very curious creatures. They will try to eat just about anything they can get their mouths on, including things that they really shouldn’t be eating. This can sometimes lead to injuries that may require sutures or stitches."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-16

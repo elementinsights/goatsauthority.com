@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Germall Plus In Goat Milk Lotion? (Healthcare Tips, Facts, FAQs, and More)"
-description: "You may be wondering whether or not you can use Germall plus in goat milk lotion. And if so, what are the things you need to consider before using it? In this"
+description: "You may be wondering whether or not you can use Germall plus in goat milk lotion. And if so, what are the things you need to consider before using it?"
 category: "health"
 postType: "guide"
 publishDate: 2022-11-20

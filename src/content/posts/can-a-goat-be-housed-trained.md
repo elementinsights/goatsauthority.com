@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Be Housed Trained? (Breeding Facts, FAQs & More)"
-description: "Goats are a popular pet among people. They are sociable, perceptive creatures that can be a source of entertainment and company. However, what should one do if"
+description: "Goats are a popular pet among people. They are sociable, perceptive creatures that can be a source of entertainment and company. However, what should one do if they wish to keep a goat as a pet? Can they be trained to work at home?"
 category: "training"
 postType: "guide"
 publishDate: 2022-07-29

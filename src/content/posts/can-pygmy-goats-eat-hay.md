@@ -1,6 +1,6 @@
 ---
 title: "Can Pygmy Goats Eat Hay? (Nutritional Facts, FAQs & More)"
-description: "People who own pygmy goats often wonder if it's okay for them to eat hay. If so, what are some things they should take into account? In this article, we will"
+description: "People who own pygmy goats often wonder if it's okay for them to eat hay. If so, what are some things they should take into account?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-23

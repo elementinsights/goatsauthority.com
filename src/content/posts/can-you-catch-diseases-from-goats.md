@@ -1,6 +1,6 @@
 ---
 title: "Can You Catch Diseases From Goats? (Everything You Need To Know)"
-description: "You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks? In this article, we will answer those questions about"
+description: "You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks? In this article, we will answer those questions about diseases and goats so that you can feel more informed next time you're around them."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-18

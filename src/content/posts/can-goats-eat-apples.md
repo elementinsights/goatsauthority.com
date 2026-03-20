@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Apples? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Have you ever wondered about the dietary habits of goats? I have. As a goat owner, I often find myself questioning what my goats can and cannot eat. One food"
+description: "Have you ever wondered about the dietary habits of goats? I have. As a goat owner, I often find myself questioning what my goats can and cannot eat. One food item that frequently comes to mind is apples."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Apples?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat apples. They are safe and healthy for them."
+  text: "Too much of anything is not good, even if it’s healthy food like apples. Goats love the sweet taste of apples."
 toc:
   - label: "Can Goats Eat Apples?"
     href: "#can-goats-eat-apples"

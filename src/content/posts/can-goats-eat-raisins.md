@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Raisins? (Benefits, Risks, Serving Size, and FAQs)"
-description: "When it comes to goats, there are many things that people want to know. One of the most popular questions is whether or not goats can eat raisins. We will"
+description: "When it comes to goats, there are many things that people want to know. One of the most popular questions is whether or not goats can eat raisins."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-11

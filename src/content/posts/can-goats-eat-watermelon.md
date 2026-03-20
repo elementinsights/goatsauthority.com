@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Watermelon? (Benefits, Risks, Serving Size & FAQs)"
-description: "Summertime is watermelon season. But what should you do if you have a goat and are unsure whether it will eat watermelon? You can learn everything you need to"
+description: "Summertime is watermelon season. But what should you do if you have a goat and are unsure whether it will eat watermelon? You can learn everything you need to know about whether or not goats can eat watermelon in this article."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-03

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Oats? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Let's take a closer look at some questions about goats. Can goats eat oats? What are the benefits and risks associated with feeding them oats, and what would"
+description: "Let's take a closer look at some questions about goats. Can goats eat oats? What are the benefits and risks associated with feeding them oats, and what would be the appropriate serving size?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08

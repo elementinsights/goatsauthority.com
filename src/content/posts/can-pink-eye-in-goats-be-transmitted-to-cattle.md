@@ -1,6 +1,6 @@
 ---
 title: "Can Pink Eye In Goats Be Transmitted To Cattle? (Healthcare Tips, Facts, FAQs, and More)"
-description: "It is difficult to determine whether or not pink eye can be transmitted from goats to cattle. And if so, what are the things you need to consider before taking"
+description: "It is difficult to determine whether or not pink eye can be transmitted from goats to cattle. And if so, what are the things you need to consider before taking any action?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-17

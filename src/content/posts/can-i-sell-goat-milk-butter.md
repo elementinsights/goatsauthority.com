@@ -1,6 +1,6 @@
 ---
 title: "Can I Sell Goat Milk Butter? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether you can sell goat milk butter or not. And if so, what are the things you need to consider? In this article, we will go over"
+description: "You may be wondering whether you can sell goat milk butter or not. And if so, what are the things you need to consider?"
 category: "food"
 postType: "guide"
 publishDate: 2022-11-14

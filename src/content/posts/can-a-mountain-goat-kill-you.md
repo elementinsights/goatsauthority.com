@@ -1,6 +1,6 @@
 ---
 title: "Can a Mountain Goat Kill You? (All You Need to Know)"
-description: "Mountain goats are not your average backyard animal. They may look small and cute, but these creatures are capable of inflicting serious damage if they feel"
+description: "Mountain goats are not your average backyard animal. They may look small and cute, but these creatures are capable of inflicting serious damage if they feel threatened."
 category: "safety"
 postType: "guide"
 publishDate: 2022-08-23

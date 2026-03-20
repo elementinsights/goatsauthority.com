@@ -1,6 +1,6 @@
 ---
 title: "Can I Mix Newborn Goats And Older Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering if you can mix newborn and older goats in the same pen. If so, what are the things you need to consider before doing so? In this article,"
+description: "You may be wondering if you can mix newborn and older goats in the same pen. If so, what are the things you need to consider before doing so? In this article, we will answer those questions for you."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-07

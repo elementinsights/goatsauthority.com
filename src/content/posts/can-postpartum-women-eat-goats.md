@@ -1,6 +1,6 @@
 ---
 title: "Can Postpartum Women Eat Goats? (Everything You Need To Know)"
-description: "Taking care of a baby is a full-time job. If you’re a new mom, you might be wondering if you can eat goat meat or not. And if so, what are the things you need"
+description: "Taking care of a baby is a full-time job. If you’re a new mom, you might be wondering if you can eat goat meat or not. And if so, what are the things you need to consider?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-18

@@ -1,6 +1,6 @@
 ---
 title: "Can a Baby Have Powdered Goats Milk? (Benefits, Disadvantages & FAQs)"
-description: "It’s no secret that raising a baby can be expensive. Between the diapers, wipes, clothes, and food, parents can easily spend thousands of dollars in the first"
+description: "It’s no secret that raising a baby can be expensive. Between the diapers, wipes, clothes, and food, parents can easily spend thousands of dollars in the first year alone. But what if there was another option for feeding your baby?"
 category: "food"
 postType: "guide"
 publishDate: 2022-07-26

@@ -1,6 +1,6 @@
 ---
 title: "Can Too Much Penicillin Given To Baby Goat Die? (Everything You Need To Know)"
-description: "We all know that penicillin is an antibiotic. It's used to treat bacterial infections. But have you ever wondered if it is safe for baby goats? And if so, can"
+description: "We all know that penicillin is an antibiotic. It's used to treat bacterial infections. But have you ever wondered if it is safe for baby goats? And if so, can too much penicillin kill them?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-02
@@ -11,7 +11,7 @@ imageAlt: "Can Too Much Penicillin Given To Baby Goat Die?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Too much penicillin can kill your baby goat. This is because penicillin works by killing bacteria."
+  text: "So, it's important to only give the recommended dosage of penicillin to your baby goat. And if you're not sure how much to give, always ask a goat expert first."
 toc:
   - label: "Can too much penicillin given to baby goat die?"
     href: "#can-too-much-penicillin-given-to-baby-goat-die"

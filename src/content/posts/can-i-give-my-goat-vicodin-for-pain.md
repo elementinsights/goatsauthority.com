@@ -1,6 +1,6 @@
 ---
 title: "Can I Give My Goat Vicodin For Pain? (Everything You Need To Know)"
-description: "You might be unsure about whether it's okay to give your goats Vicodin for pain. If so, what factors should you take into account before doing so? We will"
+description: "You might be unsure about whether it's okay to give your goats Vicodin for pain. If so, what factors should you take into account before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-23

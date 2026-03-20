@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Get The Bubonic Plague? (Health Care, Facts & FAQs)"
-description: "You may be wondering whether or not goats can get the bubonic plague. And if so, what are the things you need to consider before keeping goats as pets? We will"
+description: "You may be wondering whether or not goats can get the bubonic plague. And if so, what are the things you need to consider before keeping goats as pets? We will answer all of your questions regarding goats and the bubonic plague in this article."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29

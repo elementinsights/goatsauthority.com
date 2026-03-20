@@ -1,6 +1,6 @@
 ---
 title: "Can I Give Puppy Canned Goats Milk? (Nutrition Facts, Benefits, FAQs & More)"
-description: "The necessity for milk in puppies is well known. It's a vital component of their food and promotes their growth into huge, strong animals. What sort of milk is"
+description: "The necessity for milk in puppies is well known. It's a vital component of their food and promotes their growth into huge, strong animals. What sort of milk is best for them, though?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-26

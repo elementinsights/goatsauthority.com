@@ -1,6 +1,6 @@
 ---
 title: "Can Old Goats Develop Rickets? (Healthcare Tips, Facts, FAQs, and More)"
-description: "You may be wondering whether old goats can develop rickets or not. And if so, what are the things you need to know about this condition? In this article, we"
+description: "You may be wondering whether old goats can develop rickets or not. And if so, what are the things you need to know about this condition? In this article, we will answer those questions about old goats and rickets."
 category: "health"
 postType: "guide"
 publishDate: 2022-12-13

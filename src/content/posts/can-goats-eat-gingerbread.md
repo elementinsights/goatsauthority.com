@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Gingerbread? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that taking care of goats is a lot of responsibility. But did you know that what you feed your goats can be just as important as providing them"
+description: "We all know that taking care of goats is a lot of responsibility. But did you know that what you feed your goats can be just as important as providing them with fresh water and shelter?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16

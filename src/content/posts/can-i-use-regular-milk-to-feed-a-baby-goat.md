@@ -1,6 +1,6 @@
 ---
 title: "Can I Use Regular Milk To Feed A Baby Goat? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Many goats enjoy eating milk, so people often wonder if they can feed their baby goats regular milk. And if so, what are the things you need to consider before"
+description: "Many goats enjoy eating milk, so people often wonder if they can feed their baby goats regular milk. And if so, what are the things you need to consider before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2022-11-24

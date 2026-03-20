@@ -1,6 +1,6 @@
 ---
 title: "Can I Feed My Goat Leftovers? (Everything You Need To Know)"
-description: "It is difficult to determine whether or not you can feed your goat leftovers. And if so, what are the things you need to consider before doing so? In this"
+description: "It is difficult to determine whether or not you can feed your goat leftovers. And if so, what are the things you need to consider before doing so?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12

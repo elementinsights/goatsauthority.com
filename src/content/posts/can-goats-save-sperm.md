@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Save Sperm? (Storing and Handling Frozen Semen)"
-description: "You may be wondering whether or not goats can save sperm. And if so, what are the best methods for storing and handling frozen semen? In this article, we will"
+description: "You may be wondering whether or not goats can save sperm. And if so, what are the best methods for storing and handling frozen semen?"
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-09-04
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Save Sperm?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can save sperm. In fact, they are often used for this purpose in the livestock industry."
+  text: "Despite that, it's important to note that not all goats are equally good at saving sperm. Some goats may be better at it than others."
 toc:
   - label: "Can goats save sperm?"
     href: "#can-goats-save-sperm"

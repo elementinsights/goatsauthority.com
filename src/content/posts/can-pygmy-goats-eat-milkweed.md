@@ -1,6 +1,6 @@
 ---
 title: "Can Pygmy Goats Eat Milkweed? (Nutritional Facts, FAQs & More)"
-description: "We all know that goats are pretty much down for eating anything. But what about milkweed? Can pygmy goats eat milkweed? And if so, what are the things you need"
+description: "We all know that goats are pretty much down for eating anything. But what about milkweed? Can pygmy goats eat milkweed? And if so, what are the things you need to look out for?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-23

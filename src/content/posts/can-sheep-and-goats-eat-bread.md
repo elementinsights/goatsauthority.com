@@ -1,6 +1,6 @@
 ---
 title: "Can Sheep And Goats Eat Bread? (Nutritional Facts, Benefits & FAQs)"
-description: "It is difficult to determine whether or not sheep and goats can eat bread. And if so, what are the things you need to consider before feeding them this type of"
+description: "It is difficult to determine whether or not sheep and goats can eat bread. And if so, what are the things you need to consider before feeding them this type of food?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-29

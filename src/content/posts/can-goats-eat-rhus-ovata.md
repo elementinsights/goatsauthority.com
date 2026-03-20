@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Rhus Ovata? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat can be a rewarding experience. They are curious, intelligent animals that are fun to watch. Goats are also relatively easy to take care"
+description: "Taking care of a goat can be a rewarding experience. They are curious, intelligent animals that are fun to watch. Goats are also relatively easy to take care of, as they require less space and food than other livestock animals."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-23

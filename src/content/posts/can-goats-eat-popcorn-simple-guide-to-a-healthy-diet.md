@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Popcorn? (Simple Guide to a Healthy Diet)"
-description: "I’m a goat owner, just like you. Over the years, I’ve had many questions about what my goats can and cannot eat. One question that comes up often is about"
+description: "I’m a goat owner, just like you. Over the years, I’ve had many questions about what my goats can and cannot eat. One question that comes up often is about popcorn. It’s a simple snack we humans enjoy, but can our furry friends partake too?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27

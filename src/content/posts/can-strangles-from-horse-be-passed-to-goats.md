@@ -1,6 +1,6 @@
 ---
 title: "Can Strangles From Horse Be Passed To Goats? (Everything You Need To Know)"
-description: "Taking care of goats and horses can be a challenging but rewarding experience. Both animals have unique needs and characteristics and have you ever wondered if"
+description: "Taking care of goats and horses can be a challenging but rewarding experience. Both animals have unique needs and characteristics and have you ever wondered if strangles from horses can be passed to goats?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-01

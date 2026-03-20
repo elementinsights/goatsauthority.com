@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have A Stroke Anemia? (Everything You Need To Know)"
-description: "We all know that goats are resilient creatures. But even the heartiest of goats can succumb to health problems from time to time. One common question that goat"
+description: "We all know that goats are resilient creatures. But even the heartiest of goats can succumb to health problems from time to time. One common question that goat owners ask is: can goats have a stroke?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-30

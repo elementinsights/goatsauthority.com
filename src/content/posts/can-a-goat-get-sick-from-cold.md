@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get Sick From Cold? (Health Facts, FAQs & More)"
-description: "It’s the middle of winter and you’re worried about your backyard goats. You know they love to be outside, but it’s just too cold! Can they get sick from being"
+description: "It’s the middle of winter and you’re worried about your backyard goats. You know they love to be outside, but it’s just too cold! Can they get sick from being in the cold? What should you do to make sure they stay healthy during this time of year?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pop Tarts? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of your goats includes knowing what they can and cannot eat. So, you may be wondering if goats can eat pop tarts or not. And if so, what are the"
+description: "Taking care of your goats includes knowing what they can and cannot eat. So, you may be wondering if goats can eat pop tarts or not. And if so, what are the things you need to consider before giving them this tasty treat?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-22

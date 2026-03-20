@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Be Tamed? (Farmers Guide, Facts and More)"
-description: "Taking care of goats can be a very rewarding experience. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and"
+description: "Taking care of goats can be a very rewarding experience. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and fiber."
 category: "training"
 postType: "guide"
 publishDate: 2022-09-07

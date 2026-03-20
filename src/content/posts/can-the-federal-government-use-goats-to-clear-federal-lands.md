@@ -1,6 +1,6 @@
 ---
 title: "Can The Federal Government Use Goats To Clear Federal Lands?"
-description: "If you are a goats owner, you may be wondering whether your goats can help with the clearance of federal lands. And if so, what are the things you need to"
+description: "If you are a goats owner, you may be wondering whether your goats can help with the clearance of federal lands. And if so, what are the things you need to consider?"
 category: "housing"
 postType: "guide"
 publishDate: 2023-01-02

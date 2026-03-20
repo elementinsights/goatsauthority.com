@@ -1,6 +1,6 @@
 ---
 title: "Can You Breed A 4yr Old Goat? (Everything You Need To Know)"
-description: "Taking care of goats can be a very rewarding experience. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and"
+description: "Taking care of goats can be a very rewarding experience. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and other dairy products."
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-13

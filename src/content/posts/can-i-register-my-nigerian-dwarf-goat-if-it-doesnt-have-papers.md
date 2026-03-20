@@ -1,6 +1,6 @@
 ---
 title: "Can I Register My Nigerian Dwarf Goat If It Doesn't Have Papers?"
-description: "It is difficult to determine whether or not you can register your Nigerian dwarf to a goat if it doesn't have papers. And if so, what are the things you need"
+description: "It is difficult to determine whether or not you can register your Nigerian dwarf to a goat if it doesn't have papers. And if so, what are the things you need to consider before doing so?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-13

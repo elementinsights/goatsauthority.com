@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cabbage? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage? What are the risks? And how much should be served at once? This"
+description: "Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage? What are the risks? And how much should be served at once? This article will answer all of those questions and more."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04

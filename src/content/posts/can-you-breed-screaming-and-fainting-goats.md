@@ -1,6 +1,6 @@
 ---
 title: "Can You Breed Screaming And Fainting Goats? (Breeding Facts & FAQs)"
-description: "You may be wondering whether you can breed screaming and fainting goats or not. And if so, what are the things you need to consider? In this article, we will"
+description: "You may be wondering whether you can breed screaming and fainting goats or not. And if so, what are the things you need to consider?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-15

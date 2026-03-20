@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Indian Tobacco Plants? (Nutrition Facts, Benefits, FAQs & More)"
-description: "We all know that tobacco plants are harmful to human health. But have you ever wondered if goats can eat them? And if so, what are the nutritional facts,"
+description: "We all know that tobacco plants are harmful to human health. But have you ever wondered if goats can eat them? And if so, what are the nutritional facts, benefits, and FAQs?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-19

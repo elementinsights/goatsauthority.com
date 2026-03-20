@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Potato Shavings? (Everything You Need To Know)"
-description: "We are all aware that goats have different digestive systems from humans. What can they consume, then, and what can they not? You might also be asking if goats"
+description: "We are all aware that goats have different digestive systems from humans. What can they consume, then, and what can they not? You might also be asking if goats can consume potato shavings. What specific information do you require, if so?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-22

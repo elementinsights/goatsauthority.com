@@ -1,6 +1,6 @@
 ---
 title: "Can You Drink Goat Milk Straight From Goat? (What You Need To Know)"
-description: "We all know goat milk tastes delicious, but can you drink it right from the goat? And if so, what are the things you need to consider before doing so? In this"
+description: "We all know goat milk tastes delicious, but can you drink it right from the goat? And if so, what are the things you need to consider before doing so?"
 category: "food"
 postType: "guide"
 publishDate: 2023-01-15

@@ -1,6 +1,6 @@
 ---
 title: "Can We Apply Goat Milk For Underarm Whitening? (What You Need To Know)"
-description: "You may be wondering whether you can use goat milk for underarm whitening or not. And if so, what are the things you need to consider? In this article, we will"
+description: "You may be wondering whether you can use goat milk for underarm whitening or not. And if so, what are the things you need to consider?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-07

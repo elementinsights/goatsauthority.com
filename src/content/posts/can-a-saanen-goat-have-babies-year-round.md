@@ -1,6 +1,6 @@
 ---
 title: "Can a Saanen Goat Have Babies Year round? (Nursing Facts, Tips, and FAQs)"
-description: "Taking care of goats can be a lot of fun, but it's also a big responsibility. If you're thinking about getting a goat, one of the first things you'll need to"
+description: "Taking care of goats can be a lot of fun, but it's also a big responsibility. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed."
 category: "pregnancy"
 postType: "guide"
 publishDate: 2022-08-24

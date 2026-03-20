@@ -1,6 +1,6 @@
 ---
 title: "Can a Cat Drink Goats Milk? (Benefits, Risks, FAQs & More)"
-description: "Many people love goats and their products, from cheese to milk. So, it’s not surprising that you might be wondering if your cat could enjoy some goat’s milk"
+description: "Many people love goats and their products, from cheese to milk. So, it’s not surprising that you might be wondering if your cat could enjoy some goat’s milk too."
 category: "food"
 postType: "guide"
 publishDate: 2022-07-26

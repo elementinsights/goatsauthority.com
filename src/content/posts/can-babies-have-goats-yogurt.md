@@ -1,6 +1,6 @@
 ---
 title: "Can Babies Have Goat's Yogurt? (Benefits, Risks, FAQs, and More)"
-description: "Many parents are wondering if goat's yogurt is safe for their babies or not. And if so, what are the benefits and risks associated with feeding goat's yogurt"
+description: "Many parents are wondering if goat's yogurt is safe for their babies or not. And if so, what are the benefits and risks associated with feeding goat's yogurt to infants?"
 category: "food"
 postType: "guide"
 publishDate: 2022-08-25

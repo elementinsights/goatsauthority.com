@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Spring Mix? (Benefits, Risks, and Serving Size)"
-description: "Feeding goats is a relatively simple process, as they are able to eat a wide variety of foods. This includes both grass and hay, as well as vegetables and"
+description: "Feeding goats is a relatively simple process, as they are able to eat a wide variety of foods. This includes both grass and hay, as well as vegetables and fruits. So, you might be wondering if goats can eat spring mix."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26

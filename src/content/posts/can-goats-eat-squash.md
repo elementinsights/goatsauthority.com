@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Squash? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Do you own a goat? If so, then you know how tricky it can be to figure out what they should eat. You might even have a garden full of squash and wonder if your"
+description: "Do you own a goat? If so, then you know how tricky it can be to figure out what they should eat. You might even have a garden full of squash and wonder if your goats would enjoy them as much as you do."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Squash?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat squash? Yes, they can."
+  text: "Feeding them raw squash might be the easiest way to go about it. You just need to cut it into small pieces so that your goat doesn’t choke on large chunks."
 toc:
   - label: "Can Goats Eat Squash Raw or Cooked?"
     href: "#can-goats-eat-squash-raw-or-cooked"

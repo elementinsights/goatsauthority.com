@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Peanuts? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Many people want to know if they may give peanuts to their goats. This article will address that question and discuss the advantages, drawbacks, and serving"
+description: "Many people want to know if they may give peanuts to their goats. This article will address that question and discuss the advantages, drawbacks, and serving size of peanuts for goats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09

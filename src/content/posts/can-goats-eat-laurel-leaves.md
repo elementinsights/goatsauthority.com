@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Laurel Leaves? (Everything You Need To Know)"
-description: "Taking care of goats can be a rewarding experience. These endearing creatures are known for their curious and intelligent personalities. They are also"
+description: "Taking care of goats can be a rewarding experience. These endearing creatures are known for their curious and intelligent personalities."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-20

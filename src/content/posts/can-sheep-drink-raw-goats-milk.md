@@ -1,6 +1,6 @@
 ---
 title: "Can Sheep Drink Raw Goats Milk? (Nutritional Facts, Benefits & FAQs)"
-description: "Taking care of sheep can be a lot of fun. If you're thinking about getting sheep, you may be wondering if they can drink raw goat's milk or not. And if so,"
+description: "Taking care of sheep can be a lot of fun. If you're thinking about getting sheep, you may be wondering if they can drink raw goat's milk or not. And if so, what are the things you need to consider?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-29

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bananas? (Benefits, Risks, and Serving Size)"
-description: "Do you own a goat? If so, then you know that feeding them the right food is crucial. In my years of raising goats, I’ve often wondered about their diet. Can"
+description: "Do you own a goat? If so, then you know that feeding them the right food is crucial. In my years of raising goats, I’ve often wondered about their diet. Can they eat bananas like us humans do?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bananas?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat bananas raw. They are a safe and healthy treat for your goat."
+  text: "Bananas have high sugar content which isn’t good in large amounts for goats’ digestive systems. For a lower-sugar treat option, consider feeding your goats cucumbers instead."
 toc:
   - label: "Can Goats Eat Bananas Raw?"
     href: "#can-goats-eat-bananas-raw"

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Persicaria Perfoliata? (FAQs, Community Reviews & More)"
-description: "You may be curious as to whether goats can consume Persicaria perfoliata. It's a plant after all. What specific information do you require, if so? We will"
+description: "You may be curious as to whether goats can consume Persicaria perfoliata. It's a plant after all. What specific information do you require, if so?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-22

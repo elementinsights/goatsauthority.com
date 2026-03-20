@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Drink Cows Milk? (FAQs, Community Reviews & More)"
-description: "We all know that goats are notorious for eating anything and everything, but can they actually drink cow's milk? And if so, what are the benefits and risks"
+description: "We all know that goats are notorious for eating anything and everything, but can they actually drink cow's milk? And if so, what are the benefits and risks associated with it?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-09

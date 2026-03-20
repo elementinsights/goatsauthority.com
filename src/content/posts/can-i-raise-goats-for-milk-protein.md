@@ -1,6 +1,6 @@
 ---
 title: "Can I Raise Goats For Milk Protein? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether or not you can raise goats for milk protein. And if so, what are the things you need to consider before getting started? In this"
+description: "You may be wondering whether or not you can raise goats for milk protein. And if so, what are the things you need to consider before getting started?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-12

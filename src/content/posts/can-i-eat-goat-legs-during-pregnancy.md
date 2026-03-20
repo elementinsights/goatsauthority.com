@@ -1,6 +1,6 @@
 ---
 title: "Can I Eat Goat Legs During Pregnancy? (Healthcare Tips, Facts, FAQs, and More)"
-description: "We all know that during pregnancy, a woman’s diet is very important. So, what about goat legs? Can you eat them while you’re pregnant? In this article, we will"
+description: "We all know that during pregnancy, a woman’s diet is very important. So, what about goat legs? Can you eat them while you’re pregnant?"
 category: "food"
 postType: "guide"
 publishDate: 2022-10-12

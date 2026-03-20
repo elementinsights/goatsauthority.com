@@ -1,6 +1,6 @@
 ---
 title: "Can I Give My Goat Omegablume? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats is a lot of fun, but it's also a big responsibility. Part of being a responsible goat owner is making sure your goats are getting the"
+description: "Taking care of goats is a lot of fun, but it's also a big responsibility. Part of being a responsible goat owner is making sure your goats are getting the right nutrition. So, can you give your goats Omegablume?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-21

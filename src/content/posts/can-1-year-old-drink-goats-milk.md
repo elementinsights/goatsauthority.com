@@ -1,6 +1,6 @@
 ---
 title: "Can 1 Year Old Drink Goats Milk? (FAQs, Community Reviews & More)"
-description: "Choosing the best food for a one-year-old can be difficult. Although cow's milk has long been the preferred choice, goat's milk has recently gained popularity"
+description: "Choosing the best food for a one-year-old can be difficult. Although cow's milk has long been the preferred choice, goat's milk has recently gained popularity and is quickly becoming a viable alternative."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-02-01

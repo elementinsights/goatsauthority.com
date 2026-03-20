@@ -1,6 +1,6 @@
 ---
 title: "Can Wether Goats Be As Mean As Billy Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether or not wether goats can be as mean as billy goats. And if so, what are the things you need to watch out for? In this article, we"
+description: "You may be wondering whether or not wether goats can be as mean as billy goats. And if so, what are the things you need to watch out for?"
 category: "safety"
 postType: "guide"
 publishDate: 2023-01-08

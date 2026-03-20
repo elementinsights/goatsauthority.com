@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cauliflower? (Benefits, Risks, Serving Size, and FAQs)"
-description: "The ideal diet and nutrients for our goats are tough to ascertain. But, it's crucial to understand which plants they may and cannot eat because some of them"
+description: "The ideal diet and nutrients for our goats are tough to ascertain. But, it's crucial to understand which plants they may and cannot eat because some of them may be poisonous. Can goats eat cauliflower?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-10

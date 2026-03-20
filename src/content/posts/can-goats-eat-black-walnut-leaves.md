@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Black Walnut Leaves? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat can be a rewarding experience. They are intelligent animals and have personality traits that make them unique and fun to be around. Part"
+description: "Taking care of a goat can be a rewarding experience. They are intelligent animals and have personality traits that make them unique and fun to be around."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-11

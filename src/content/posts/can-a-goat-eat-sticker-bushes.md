@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Eat Sticker Bushes? (Benefits, Risks, FAQs & More)"
-description: "There are a few factors you should be aware of while determining if goats can consume sticker bushes. The advantages and drawbacks of letting your goat munch"
+description: "There are a few factors you should be aware of while determining if goats can consume sticker bushes."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-01

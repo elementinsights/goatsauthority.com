@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have Cheese? (Benefits, Risks, and Serving Size)"
-description: "Many people enjoy eating cheese but are unsure if goats can have it. And if so, what are the things you need to consider before giving your goat cheese? In"
+description: "Many people enjoy eating cheese but are unsure if goats can have it. And if so, what are the things you need to consider before giving your goat cheese? In this article, we will answer all of your questions regarding goats and cheese."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-30
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have Cheese?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have cheese. In fact, cheese is a great source of protein and calcium for goats."
+  text: "However, there are a few things you need to consider before giving your goat cheese. The first thing to consider is the type of cheese."
 toc:
   - label: "Can goats have cheese?"
     href: "#can-goats-have-cheese"

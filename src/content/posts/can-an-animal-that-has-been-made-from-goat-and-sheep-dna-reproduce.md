@@ -1,6 +1,6 @@
 ---
 title: "Can an Animal that has Been Made From Goat and Sheep DNA Reproduce?"
-description: "You may be wondering if it's possible for an animal to be made by combining the DNA of a goat and a sheep. And if so, could this new animal then go on to"
+description: "You may be wondering if it's possible for an animal to be made by combining the DNA of a goat and a sheep. And if so, could this new animal then go on to reproduce?"
 category: "reproduction"
 postType: "guide"
 publishDate: 2022-08-25

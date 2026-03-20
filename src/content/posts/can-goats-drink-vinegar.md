@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Drink Vinegar? (Everything You Need To Know)"
-description: "it's difficult to determine whether or not goats can drink vinegar. And if so, what are the things you need to take into consideration? We will explore all of"
+description: "it's difficult to determine whether or not goats can drink vinegar. And if so, what are the things you need to take into consideration?"
 category: "health"
 postType: "guide"
 publishDate: 2022-09-09

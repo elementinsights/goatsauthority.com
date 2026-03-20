@@ -1,6 +1,6 @@
 ---
 title: "Can a Fox Kill a Goat? (And How To Protect Them From a Fox)"
-description: "A lot of people are curious as to whether foxes can kill goats. Let's examine how you may shield your goats from them as we respond to that frequently asked"
+description: "A lot of people are curious as to whether foxes can kill goats. Let's examine how you may shield your goats from them as we respond to that frequently asked question."
 category: "safety"
 postType: "guide"
 publishDate: 2022-07-28
@@ -11,7 +11,7 @@ imageAlt: "Can a Fox Kill a Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A fox could kill a goat if the circumstances were right. Though it's unlikely."
+  text: "So, if a fox was desperate enough, it could kill and eat a baby goat. Adult goats are too large and strong for a fox to take down."
 toc:
   - label: "Can a fox kill a goat?"
     href: "#can-a-fox-kill-a-goat"

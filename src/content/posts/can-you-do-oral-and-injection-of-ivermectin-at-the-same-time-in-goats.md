@@ -1,6 +1,6 @@
 ---
 title: "Can You Do Oral And Injection Of Ivermectin At The Same Time In Goats?"
-description: "Taking care of goats is an important part of any farm. To keep them healthy, it can be necessary to administer both oral and injectable medications. In"
+description: "Taking care of goats is an important part of any farm. To keep them healthy, it can be necessary to administer both oral and injectable medications. In particular, the drug ivermectin has long been used to treat parasites in goats."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-25

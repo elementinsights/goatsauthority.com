@@ -1,6 +1,6 @@
 ---
 title: "Can I Own Goats In Medford, Oregon? (Everything You Need To Know)"
-description: "You may be wondering if it's legal to own goats in Medford, Oregon, or not. And if so, what are the things you need to consider before getting goats? In this"
+description: "You may be wondering if it's legal to own goats in Medford, Oregon, or not. And if so, what are the things you need to consider before getting goats?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-09

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Recover From Polio Without Medication?"
-description: "Taking care of a goat with polio is not easy. There is no known cure and the only way to manage the disease is through supportive care. This means that you"
+description: "Taking care of a goat with polio is not easy. There is no known cure and the only way to manage the disease is through supportive care."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-05

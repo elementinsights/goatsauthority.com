@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Mango? (Comprehensive Feeding Guide & Tips)"
-description: "Have you ever watched a goat eat? They seem to enjoy just about anything. As a goat owner, I’ve seen my goats munch on all sorts of things. Mangoes are one"
+description: "Have you ever watched a goat eat? They seem to enjoy just about anything. As a goat owner, I’ve seen my goats munch on all sorts of things. Mangoes are one fruit that often sparks curiosity."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28

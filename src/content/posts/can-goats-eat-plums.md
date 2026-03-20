@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Plums? (Everything You Need To Know)"
-description: "Many people are surprised to learn that goats will eat just about anything. If you have ever seen a goat eating something strange, you may have wondered if"
+description: "Many people are surprised to learn that goats will eat just about anything. If you have ever seen a goat eating something strange, you may have wondered if they can eat plums. And if so, are plums good for them?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-16

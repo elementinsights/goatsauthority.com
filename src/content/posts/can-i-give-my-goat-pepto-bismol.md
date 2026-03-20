@@ -1,6 +1,6 @@
 ---
 title: "Can I Give My Goat Pepto Bismol? (Healthcare Tips, Facts, FAQs, and More)"
-description: "We all know that goats are curious creatures. So, it's not surprising that they might try to nibble on anything they can get their mouths on, including our"
+description: "We all know that goats are curious creatures. So, it's not surprising that they might try to nibble on anything they can get their mouths on, including our favorite over-the-counter stomach relief medication, Pepto Bismol."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-22

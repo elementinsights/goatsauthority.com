@@ -1,6 +1,6 @@
 ---
 title: "Can a Nigerian Buck Goat Mount a Female Boer Goat? (Breeding Facts, Tricks, and FAQs)"
-description: "Many people are wondering if a Nigerian buck goat can mate with a female Boer goat or not. And if so, what are the results? We will answer all of your"
+description: "Many people are wondering if a Nigerian buck goat can mate with a female Boer goat or not. And if so, what are the results?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-23

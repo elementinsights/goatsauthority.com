@@ -1,6 +1,6 @@
 ---
 title: "Can Puppies Have Normal Goats Milk? (Livestock Facts, FAQs & More)"
-description: "A crucial part of having a puppy is feeding them properly to ensure they grow into healthy dogs. With that in mind, can puppies have normal goat's milk? And if"
+description: "A crucial part of having a puppy is feeding them properly to ensure they grow into healthy dogs. With that in mind, can puppies have normal goat's milk? And if so, what are the things you need to consider before giving it to them?"
 category: "health"
 postType: "guide"
 publishDate: 2022-12-20

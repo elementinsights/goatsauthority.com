@@ -1,6 +1,6 @@
 ---
 title: "Can I Give My Goat Tamsulosin? (Healthcare Tips, Facts, FAQs, and More)"
-description: "You might be unsure if you should administer tamsulosin to your goat. If so, what factors should you take into account before doing so? We will answer those"
+description: "You might be unsure if you should administer tamsulosin to your goat. If so, what factors should you take into account before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-22

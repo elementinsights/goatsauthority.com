@@ -1,6 +1,6 @@
 ---
 title: "Can I Bury A Goat With Johne's Disease? (Everything You Need To Know)"
-description: "We all know that goats are interesting creatures. They're known for their playful and curious nature, and they're also pretty good at escaping fences. But did"
+description: "We all know that goats are interesting creatures. They're known for their playful and curious nature, and they're also pretty good at escaping fences. But did you know that goats can also get sick?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-10

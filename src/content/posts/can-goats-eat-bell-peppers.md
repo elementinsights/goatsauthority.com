@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bell Peppers? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Goats are curious creatures and will try to eat just about anything. But, people are wondering if goats can eat bell peppers. In this article, we will explore"
+description: "Goats are curious creatures and will try to eat just about anything. But, people are wondering if goats can eat bell peppers."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-10

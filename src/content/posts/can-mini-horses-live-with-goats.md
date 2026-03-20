@@ -1,6 +1,6 @@
 ---
 title: "Can Mini Horses Live With Goats (Everything You Need To Know)"
-description: "Everyone is aware that goats are social animals. They take delight in the company of other creatures, but what about miniature horses? Can they survive living"
+description: "Everyone is aware that goats are social animals. They take delight in the company of other creatures, but what about miniature horses? Can they survive living with goats?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-06

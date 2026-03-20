@@ -1,6 +1,6 @@
 ---
 title: "Can I Own A Goat In Wyoming? (Everything You Need To Know)"
-description: "If you live in Wyoming, you may be wondering if you can own a goat or not. And if so, what are the things you need to consider? In this article, we will answer"
+description: "If you live in Wyoming, you may be wondering if you can own a goat or not. And if so, what are the things you need to consider? In this article, we will answer those questions and provide you with more details about owning a goat in Wyoming."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-09

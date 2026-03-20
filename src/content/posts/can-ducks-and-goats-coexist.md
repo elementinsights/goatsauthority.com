@@ -1,6 +1,6 @@
 ---
 title: "Can Ducks and Goats Coexist? (FAQs, Community Reviews & More)"
-description: "Livestock farming is a great way to be self-sufficient and provide healthy food for your family, but it can be hard work. One of the most important decisions"
+description: "Livestock farming is a great way to be self-sufficient and provide healthy food for your family, but it can be hard work. One of the most important decisions you'll make is what animals to keep."
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-05
@@ -11,7 +11,7 @@ imageAlt: "Can Ducks and Goats Coexist?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats and ducks can live together. In fact, there are many benefits to keeping them together."
+  text: "Despite that, it's important to keep in mind that goats and ducks are different animals with different needs. Goats are browsers and prefer to eat leaves, twigs, and other vegetation."
 toc:
   - label: "Can ducks and goats coexist?"
     href: "#can-ducks-and-goats-coexist"

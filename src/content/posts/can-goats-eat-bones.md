@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bones? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats is a rewarding experience, and part of that is knowing what kinds of foods they can and cannot eat. Can goats eat bones? And if so, what"
+description: "Taking care of goats is a rewarding experience, and part of that is knowing what kinds of foods they can and cannot eat. Can goats eat bones? And if so, what are the benefits?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12

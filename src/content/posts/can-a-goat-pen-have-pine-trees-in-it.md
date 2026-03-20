@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Pen Have Pine Trees in it? (Farming Tips, FAQs, and More)"
-description: "it's difficult to determine whether you can have pine trees in a goat pen or not. And if so, how many? We will answer all of these questions for you so that"
+description: "it's difficult to determine whether you can have pine trees in a goat pen or not. And if so, how many?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-22

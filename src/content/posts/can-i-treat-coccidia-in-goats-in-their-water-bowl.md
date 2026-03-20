@@ -1,6 +1,6 @@
 ---
 title: "Can I Treat Coccidia In Goats In Their Water Bowl? (Everything You Need To Know)"
-description: "While all animals need water to live, it is especially important for goats. Goats require constant access to clean water, but sometimes their bowl becomes"
+description: "While all animals need water to live, it is especially important for goats. Goats require constant access to clean water, but sometimes their bowl becomes contaminated with coccidia."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-17

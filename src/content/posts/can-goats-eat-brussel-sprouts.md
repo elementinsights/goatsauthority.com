@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Brussel Sprouts? (Detailed Guide & Risks)"
-description: "Have you ever looked at a goat and wondered what it can eat? It’s an interesting question, isn’t it? Goats are known for their ability to munch on almost"
+description: "Have you ever looked at a goat and wondered what it can eat? It’s an interesting question, isn’t it? Goats are known for their ability to munch on almost anything. In my own experience as a goat owner, I’ve seen them enjoy many types of food."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Brussel Sprouts?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Yes, goats can eat Brussels sprouts. These small green veggies are safe for your goat to munch on."
+  text: "Too many may cause bloating and digestive issues in them. Remember also to wash these veggies before giving them to your pet."
 toc:
   - label: "Can Goats Eat Brussels Sprouts?"
     href: "#can-goats-eat-brussels-sprouts"

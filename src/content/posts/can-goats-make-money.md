@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Make Money? (Everything You Need To Know)"
-description: "We all know that goats are adorable creatures. But have you ever wondered if goats can actually make you money? And if so, how? In this article, we will answer"
+description: "We all know that goats are adorable creatures. But have you ever wondered if goats can actually make you money? And if so, how? In this article, we will answer those questions for you."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-04

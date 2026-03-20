@@ -1,6 +1,6 @@
 ---
 title: "Can a Pygmy Goat Take Care of Triplets? (Nursing Facts, Tricks, and FAQs)"
-description: "Many people think pygmy goats make great pets because they are so small and easy to take care of. But what happens when these adorable little creatures have"
+description: "Many people think pygmy goats make great pets because they are so small and easy to take care of. But what happens when these adorable little creatures have their own babies? Can a pygmy goat take care of triplets?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-24

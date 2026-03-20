@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Avocado? (Surprising Facts and Misconceptions)"
-description: "Have you ever wondered what goats can eat? It’s a question I’ve asked myself many times as an owner of these interesting animals. The diet of a goat is"
+description: "Have you ever wondered what goats can eat? It’s a question I’ve asked myself many times as an owner of these interesting animals. The diet of a goat is something that should be carefully considered. One food item often in our kitchens is the avocado."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-30
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Avocado?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats and avocados don’t mix well. The skin and pit of an avocado can be harmful to your goat."
+  text: "Feeding your goat might seem tricky now but it doesn’t have to be hard work all the time! There are plenty of other healthy options they will love just as much without any risk involved."
 toc:
   - label: "Can Goats Eat Avocado: A Comprehensive Guide"
     href: "#can-goats-eat-avocado-a-comprehensive-guide"

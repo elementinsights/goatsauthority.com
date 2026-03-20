@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Pine Needles? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Many people are curious about the dietary habits of goats. What do they eat? Can they eat pine needles? This article will explore the benefits, risks, serving"
+description: "Many people are curious about the dietary habits of goats. What do they eat? Can they eat pine needles? This article will explore the benefits, risks, serving size, and FAQs of goats eating pine needles."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09

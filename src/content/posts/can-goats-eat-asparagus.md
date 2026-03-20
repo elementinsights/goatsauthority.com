@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Asparagus? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Do you own a goat? If so, then you know that feeding them can sometimes be tricky. Goats are known for their curious appetites and they often try to eat things"
+description: "Do you own a goat? If so, then you know that feeding them can sometimes be tricky. Goats are known for their curious appetites and they often try to eat things we wouldn’t expect. Asparagus is a common vegetable in many of our meals."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Asparagus?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Can goats eat asparagus? Yes, they can."
+  text: "Feeding asparagus to goats is a good idea. This green veggie offers many health benefits for your furry friends."
 toc:
   - label: "Can Goats Eat Asparagus?"
     href: "#can-goats-eat-asparagus"

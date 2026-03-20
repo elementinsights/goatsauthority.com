@@ -1,6 +1,6 @@
 ---
 title: "Where Did Kiko Goats Originate? (Everything You Need To Know)"
-description: "Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering where they originated from. In this"
+description: "Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering where they originated from."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-15

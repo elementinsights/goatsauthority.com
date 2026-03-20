@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Zucchini? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Are you wondering if zucchini is edible to goats? If so, what are the benefits and risks? We will explore all the frequently asked questions here and answer"
+description: "Are you wondering if zucchini is edible to goats? If so, what are the benefits and risks? We will explore all the frequently asked questions here and answer them to the best of our ability."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08

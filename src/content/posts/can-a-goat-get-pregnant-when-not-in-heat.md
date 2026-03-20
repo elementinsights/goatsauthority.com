@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get Pregnant When Not in Heat? (Breeding Facts, FAQ & More)"
-description: "Can a goat become pregnant when she is not in heat? This article will answer that question as well as offer information on the goat's reproductive cycle and"
+description: "Can a goat become pregnant when she is not in heat? This article will answer that question as well as offer information on the goat's reproductive cycle and some breeding advice."
 category: "pregnancy"
 postType: "guide"
 publishDate: 2022-08-02

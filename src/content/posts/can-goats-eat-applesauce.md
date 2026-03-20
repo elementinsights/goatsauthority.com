@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Applesauce? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Many people think that goats will only eat grass and hay, but the reality is that goats are actually very versatile eaters. Goats can eat a variety of"
+description: "Many people think that goats will only eat grass and hay, but the reality is that goats are actually very versatile eaters. Goats can eat a variety of different foods, including applesauce. So, can goats eat applesauce?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Find Truffles? (Everything You Need To Know)"
-description: "We all know that goats are smart animals. But have you ever wondered if goats can find truffles? And if so, how do they do it? In this article, we will answer"
+description: "We all know that goats are smart animals. But have you ever wondered if goats can find truffles? And if so, how do they do it? In this article, we will answer all of your questions about goats and truffles."
 category: "training"
 postType: "guide"
 publishDate: 2022-09-28
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Find Truffles?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can find truffles. In fact, they are one of the few animals that can find these prized fungi."
+  text: "In addition to their sense of smell, goats also have a special ability to find truffles. They have a third eyelid, which is called a nictitating membrane."
 toc:
   - label: "Can goats find truffles?"
     href: "#can-goats-find-truffles"

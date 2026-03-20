@@ -1,6 +1,6 @@
 ---
 title: "Can I Have Goats Where I Live? (Farmers Guide, Tips, Facts & FAQs)"
-description: "More people are choosing to raise goats for their various benefits. If you're one of them or thinking about it, here's what you should know. Before you get"
+description: "More people are choosing to raise goats for their various benefits. If you're one of them or thinking about it, here's what you should know. Before you get goats, consider if they are allowed where you live."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-30

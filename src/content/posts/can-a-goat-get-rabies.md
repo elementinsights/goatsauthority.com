@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Get Rabies? (Signs, Symptoms, Treatments & FAQs)"
-description: "Goats are fascinating animals known for their independence and are frequently utilized as working animals due to their strength and agility. But there's one"
+description: "Goats are fascinating animals known for their independence and are frequently utilized as working animals due to their strength and agility. But there's one frequently asked question that has been asked since a long time ago: can a goat get rabies?"
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02

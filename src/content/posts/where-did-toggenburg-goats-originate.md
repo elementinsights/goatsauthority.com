@@ -1,6 +1,6 @@
 ---
 title: "Where Did Toggenburg Goats Originate? (Everything You Need To Know)"
-description: "Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering about their origins. Where did"
+description: "Taking care of goats can be a very rewarding experience. If you are thinking about getting goats, you may be wondering about their origins. Where did Toggenburg goats originate?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-17

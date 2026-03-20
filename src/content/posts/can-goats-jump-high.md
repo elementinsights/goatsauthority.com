@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Jump High? (Everything You Need To Know)"
-description: "Taking care of goats can be a fun and rewarding experience. Goats are interesting animals with many unique behaviors. One question that often comes up is, can"
+description: "Taking care of goats can be a fun and rewarding experience. Goats are interesting animals with many unique behaviors. One question that often comes up is, can goats jump high? And if so, how high can they jump?"
 category: "training"
 postType: "guide"
 publishDate: 2022-10-03
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Jump High?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can jump high. They are able to jump over obstacles that are up to five feet tall."
+  text: "In addition to being able to jump high, goats are also good at climbing. They can climb steep hillsides and cliffs."
 toc:
   - label: "Can goats jump high?"
     href: "#can-goats-jump-high"

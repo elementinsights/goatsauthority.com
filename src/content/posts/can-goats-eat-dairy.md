@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Dairy? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Many people are unsure whether goats can eat dairy products or not. And if so, what are the benefits and nutrition facts? This article will explore the topic"
+description: "Many people are unsure whether goats can eat dairy products or not. And if so, what are the benefits and nutrition facts?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Wheat Stalks? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats can be a rewarding experience. Watching them grow and explore their surroundings is enjoyable, but knowing what they can and cannot eat is"
+description: "Taking care of goats can be a rewarding experience. Watching them grow and explore their surroundings is enjoyable, but knowing what they can and cannot eat is important for their health. So, can goats eat wheat stalks?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-28

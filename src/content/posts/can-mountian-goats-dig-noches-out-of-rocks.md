@@ -1,6 +1,6 @@
 ---
 title: "Can Mountian Goats Dig Noches Out Of Rocks? (All You Need To Know)"
-description: "Mountain goats are well known for their climbing abilities, but how about digging? Can mountian goats dig noches out of rocks? And if so, what do they use them"
+description: "Mountain goats are well known for their climbing abilities, but how about digging? Can mountian goats dig noches out of rocks? And if so, what do they use them for?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-08

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Edamame Shells? (Benefits, Risks, and Serving Size)"
-description: "It can be enjoyable and gratifying to care for goats. However, it's critical to understand which meals are risk-free for infants to consume and which ones"
+description: "It can be enjoyable and gratifying to care for goats. However, it's critical to understand which meals are risk-free for infants to consume and which ones could harm them. So, are edamame shells edible to goats?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14

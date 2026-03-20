@@ -1,6 +1,6 @@
 ---
 title: "Can You Disbud A Goat Without Medication? (Health Care Facts, FAQs, and More)"
-description: "We all know that goats need regular healthcare to stay healthy, but what about disbudding? Is it possible to do this without medication? And if so, what are"
+description: "We all know that goats need regular healthcare to stay healthy, but what about disbudding? Is it possible to do this without medication? And if so, what are the things you need to consider before doing so?"
 category: "health"
 postType: "guide"
 publishDate: 2023-01-01

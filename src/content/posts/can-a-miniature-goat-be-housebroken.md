@@ -1,6 +1,6 @@
 ---
 title: "Can a Miniature Goat be Housebroken? (Everything You Need To Know)"
-description: "Many people are wondering if they can keep a miniature goat as a pet or not. And if so, what are the best ways to take care of them? In this article, we will"
+description: "Many people are wondering if they can keep a miniature goat as a pet or not. And if so, what are the best ways to take care of them?"
 category: "training"
 postType: "guide"
 publishDate: 2022-08-23

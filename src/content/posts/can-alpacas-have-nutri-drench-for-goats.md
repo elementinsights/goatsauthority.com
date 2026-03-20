@@ -1,6 +1,6 @@
 ---
 title: "Can Alpacas Have Nutri Drench for Goats? (FAQs, Community Reviews & More)"
-description: "You may be wondering if alpacas can have Nutri Drench for goats since they are both herbivores or not. And if so, how much should I give them? In this article,"
+description: "You may be wondering if alpacas can have Nutri Drench for goats since they are both herbivores or not. And if so, how much should I give them?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-25

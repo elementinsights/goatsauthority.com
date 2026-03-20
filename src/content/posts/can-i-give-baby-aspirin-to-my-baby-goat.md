@@ -1,6 +1,6 @@
 ---
 title: "Can I Give Baby Aspirin To My Baby Goat? (Everything You Need To Know)"
-description: "We all know that aspirin is a pain reliever, but did you know that it can also help reduce inflammation? That's why aspirin is often used to treat conditions"
+description: "We all know that aspirin is a pain reliever, but did you know that it can also help reduce inflammation? That's why aspirin is often used to treat conditions like arthritis. But what about giving aspirin to baby goats? Is it safe?"
 category: "health"
 postType: "guide"
 publishDate: 2022-10-14

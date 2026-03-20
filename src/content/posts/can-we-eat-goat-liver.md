@@ -1,6 +1,6 @@
 ---
 title: "Can We Eat Goat Liver? (Everything You Need To Know)"
-description: "It is difficult to determine whether eating goat liver is safe or not. And if so, what are the things you need to consider? We'll go over everything you need"
+description: "It is difficult to determine whether eating goat liver is safe or not. And if so, what are the things you need to consider?"
 category: "food"
 postType: "guide"
 publishDate: 2023-01-07

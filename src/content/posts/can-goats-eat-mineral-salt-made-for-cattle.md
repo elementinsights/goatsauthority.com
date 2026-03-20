@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Mineral Salt Made For Cattle? (Health Benefits, Risks, and FAQs)"
-description: "You may be wondering if your goats can enjoy the same mineral salt lick that you give to your cattle or note. And if so, what are the health benefits and risks"
+description: "You may be wondering if your goats can enjoy the same mineral salt lick that you give to your cattle or note. And if so, what are the health benefits and risks associated with doing so?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21

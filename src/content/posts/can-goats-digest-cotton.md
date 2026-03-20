@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Digest Cotton? (Everything You Need To Know)"
-description: "You may have heard that goats can digest cotton, but is this true? What other things can goats eat? How do they digest food? In this article, we will explore"
+description: "You may have heard that goats can digest cotton, but is this true? What other things can goats eat? How do they digest food?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-08

@@ -1,6 +1,6 @@
 ---
 title: "Can You Breed A Father And Daughter Goat? (Line Breeding Facts & FAQs)"
-description: "You may be wondering whether or not you can breed a father and daughter-goat. And if so, what are the things you need to consider before taking this step? In"
+description: "You may be wondering whether or not you can breed a father and daughter-goat. And if so, what are the things you need to consider before taking this step?"
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-14

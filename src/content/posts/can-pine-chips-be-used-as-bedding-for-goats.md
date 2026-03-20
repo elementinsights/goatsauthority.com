@@ -1,6 +1,6 @@
 ---
 title: "Can Pine Chips Be Used As Bedding For Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether you can use pine chips as bedding for goats or not. And if so, what are the things you need to consider before doing so? In this"
+description: "You may be wondering whether you can use pine chips as bedding for goats or not. And if so, what are the things you need to consider before doing so?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-17

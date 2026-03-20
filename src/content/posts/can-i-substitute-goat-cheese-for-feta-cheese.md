@@ -1,6 +1,6 @@
 ---
 title: "Can I Substitute Goat Cheese For Feta Cheese? (Everything You Need To Know)"
-description: "You might be wondering if it’s possible to substitute goat cheese for feta cheese in your favorite recipes. You’re not alone; many people are interested in"
+description: "You might be wondering if it’s possible to substitute goat cheese for feta cheese in your favorite recipes. You’re not alone; many people are interested in making this switch."
 category: "food"
 postType: "guide"
 publishDate: 2022-11-16

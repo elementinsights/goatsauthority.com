@@ -1,6 +1,6 @@
 ---
 title: "Can I Have A Goat In Foothill Farms CA (Everything You Need To Know)"
-description: "It is difficult to determine whether or not you can have a goat in Foothill farm CA. And if so, what are the things you need to consider before getting one? We"
+description: "It is difficult to determine whether or not you can have a goat in Foothill farm CA. And if so, what are the things you need to consider before getting one?"
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-27
