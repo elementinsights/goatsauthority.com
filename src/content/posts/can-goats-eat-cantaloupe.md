@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2023-11-23
 updatedDate: 2026-03-19
 author: "Tim Rhodes"
-image: ""
+image: "/images/posts/can-goats-eat-cantaloupe.jpg"
 imageAlt: "Can Goats Eat Cantaloupe?"
 readTime: "12 min read"
 quickAnswer:
