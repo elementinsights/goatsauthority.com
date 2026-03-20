@@ -64,7 +64,7 @@ Cold sores are viral infections that can affect both humans and animals. In goat
 
 These blisters are usually filled with clear fluid and can be painful for the animal. In some cases, the virus can also cause ulcers on the tongue or inside the [mouth](/do-goats-have-teeth/).
 
-In critical cases, cold sores can lead to difficulty eating and [drinking](/can-goats-drink-cows-milk/), which can lead to dehydration. If you think your goat has cold sores, it's important to contact a veterinarian for treatment.
+In critical cases, cold sores can lead to difficulty eating and drinking, which can lead to dehydration. If you think your goat has cold sores, it's important to contact a veterinarian for treatment.
 
 there's no cure for the virus, but early intervention can help to lessen the severity of the symptoms and prevent dehydration.
 
@@ -78,7 +78,7 @@ You'll also want to apply a topical cream or [ointment](/can-benadryl-hurt-a-goa
 
 You may need to reapply the cream several times a day, depending on the severity of the sore.
 
-In some cases, you may also need to give your goat an oral [antiviral medication](/can-i-give-goat-trazodone/). If you're unsure about how to treat your goat's cold sore, always consult with an animal expert for guidance.
+In some cases, you may also need to give your goat an oral antiviral medication. If you're unsure about how to treat your goat's cold sore, always consult with an animal expert for guidance.
 
 ## How is a cold sore in goats diagnosed?
 

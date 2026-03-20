@@ -121,11 +121,11 @@ Another type of metal that is often used in goat enclosures is powder-coated ste
 
 Powder-coating is often used on outdoor furniture and playground equipment, as it can withstand harsh weather conditions.
 
-Powder-coated steel is available in a variety of colors, which can make it an attractive option for Goat owners who want their enclosure to stand out. Despite that, powder-coated steel can be more expensive than galvanized steel.
+Powder-coated steel is available in a variety of colors, which can make it an attractive option for Goat owners who want their enclosure to stand out. Even so, powder-coated steel can be more expensive than galvanized steel.
 
 In general, aluminum is considered to be safe for goats. This lightweight metal is often used in the construction of Goat enclosures due to its durability and affordability.
 
-Aluminum is also resistant to rust and corrosion, making it a low-maintenance option for Goat owners. Despite that, aluminum can conduct heat, so you need to avoid using aluminum products in hot climates.
+Aluminum is also resistant to rust and corrosion, making it a low-maintenance option for Goat owners. Still, aluminum can conduct heat, so you need to avoid using aluminum products in hot climates.
 
 Overall, many different types of metal are safe for goats to consume. Owners should carefully consider their options before choosing a material for their Goat enclosure.
 

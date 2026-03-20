@@ -60,7 +60,7 @@ This is because radishes are a member of the Brassica family, which also include
 
 Goats can eat radish leaves. Radishes are a type of root vegetable, and their leaves are typically green and slightly bitter.
 
-Despite that, they are perfectly safe for goats to consume. Actually, radish leaves are a good source of essential nutrients like vitamin C, calcium, and iron.
+Still, they are perfectly safe for goats to consume. Actually, radish leaves are a good source of essential nutrients like vitamin C, calcium, and iron.
 
 [Goats typically enjoy eating the leaves of radish plants](/can-goats-eat-any-plant/), and they can be a healthy part of their diet. If you have a radish plant in your garden, feel free to let your goats munch on the leaves.
 

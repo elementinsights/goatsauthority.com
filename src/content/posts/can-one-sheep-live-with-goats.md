@@ -93,7 +93,7 @@ Of course, there are some risks associated with keeping these two species togeth
 
 In particular, while they often make good companions when allowed to graze together in a confined space, grazing time is short-lived as the goats quickly outpace the sheep in consuming most plant varieties.
 
-On top of that, goats can be quite brutal when it comes to herding each other away from food sources; if the grass is scarce, they will shove and even stomp on weaker members of the herd in order to get to the best bits first.
+It's also worth noting that goats can be quite brutal when it comes to herding each other away from food sources; if the grass is scarce, they will shove and even stomp on weaker members of the herd in order to get to the best bits first.
 
 Ultimately, but, it seems that the benefits of having this dynamic duo in one group far outweigh any potential drawbacks.
 
@@ -139,4 +139,4 @@ A sheep can live with goats with some considerations. They are different species
 
 If you have the space, time, and resources, it may be worth considering keeping sheep and goats together.
 
-Despite that, if you are new to [farming or raising livestock](/can-goats-live-in-an-urban-environment/), it may be best to start with just one species so that you can learn the ropes before taking on additional animals.
+Then again, if you are new to [farming or raising livestock](/can-goats-live-in-an-urban-environment/), it may be best to start with just one species so that you can learn the ropes before taking on additional animals.

@@ -114,6 +114,15 @@ const schemas = schema
     <script type="application/ld+json" set:html={JSON.stringify(s)} />
   ))}
 
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8C3B3SFNB4" is:inline></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8C3B3SFNB4');
+  </script>
+
   <!-- Head slot for per-page additions -->
   <slot name="head" />
 </head>

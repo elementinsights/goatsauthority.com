@@ -63,7 +63,7 @@ Goats are versatile animals that can provide a variety of benefits to farmers. O
 
 Cotton plants are often treated with dangerous pesticides and herbicides, which can contaminate the soil and water.
 
-Goats can help to mitigate this problem by eating cotton plants, thus reducing the number of chemicals in the environment. On top of that, goats can also help to control weeds, as they will eat just about anything.
+Goats can help to mitigate this problem by eating cotton plants, thus reducing the number of chemicals in the environment. It's also worth noting that goats can also help to control weeds, as they will eat just about anything.
 
 This can save farmers money on herbicide costs and reduce the need for tilling, which can further damage the soil. Appropriately, using goats for cotton control can provide a number of benefits for farmers and the environment.
 

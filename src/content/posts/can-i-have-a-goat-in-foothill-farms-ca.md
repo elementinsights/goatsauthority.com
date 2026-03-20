@@ -66,7 +66,7 @@ Housing can range from simple outdoor shelters to more elaborate indoor barns, d
 
 Costs for feed, medical care, and other necessities will also vary depending on things like climate conditions and the size of your herd. For these reasons, it is difficult to give a single estimate for the cost of raising goats in Foothill Farms.
 
-Despite that, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, [goats](/can-goats-make-money/) are an excellent choice for anyone looking to build a sustainable agricultural business.
+At the same time, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, [goats](/can-goats-make-money/) are an excellent choice for anyone looking to build a sustainable agricultural business.
 
 So if you're considering getting into the goat-farming game, just be sure to do your research ahead of time and plan accordingly, with careful planning and management, you too can turn your love for goats into a profitable venture.
 

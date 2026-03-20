@@ -63,7 +63,7 @@ Symptoms of PA toxicity include loss of appetite, lethargy, weakness, jaundice, 
 
 Prevention is the best medicine.
 
-Do not allow your goats to graze in areas where Indian tobacco plants are growing. If you suspect your goat has ingested any part of this plant, [contact a goat expert](/contact/) immediately.
+Do not allow your goats to graze in areas where Indian tobacco plants are growing. If you suspect your goat has ingested any part of this plant, [contact a veterinarian](/contact/) immediately.
 
 Time is of the essence when it comes to treating PA toxicity. Early intervention may save your goat's life.
 
@@ -127,12 +127,12 @@ Bake at 350 degrees Fahrenheit for 20 minutes. These haystacks can be stored in 
 
 If you choose to feed your goat Indian tobacco plants, do so sparingly and only as a treat. The plants are highly toxic, and even a small amount can cause serious health problems.
 
-When feeding Indian tobacco plants to goats, it's best to consult with a goat expert first. This will help to ensure that your goat stays healthy and safe.
+When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first. This will help to ensure that your goat stays healthy and safe.
 
 ## Final Thoughts
 
 Overall, it's not recommended that you feed Indian tobacco plants to your goat. The plants are highly toxic and can cause serious health problems.
 
-If you must [feed the plants to your goat](/can-baking-soda-cause-urinary-issues-in-goats/), do so sparingly and only as a treat. When feeding Indian tobacco plants to goats, it's best to consult with a goat expert first.
+If you must [feed the plants to your goat](/can-baking-soda-cause-urinary-issues-in-goats/), do so sparingly and only as a treat. When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first.
 
 This will help to ensure that your goat stays healthy and safe.

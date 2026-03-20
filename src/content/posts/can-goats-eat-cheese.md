@@ -72,7 +72,7 @@ During this time, cheese isn’t recommended for them.
 
 Cheese is made from milk but it’s processed differently. It can be hard for baby goats to digest due to their sensitive stomachs.
 
-Their bodies aren’t ready yet to handle the complex proteins and fats in [cheese](/can-goats-have-cheese/).
+Their bodies aren’t ready yet to handle the complex proteins and fats in cheese.
 
 So while you might think giving your kid some tasty cheddar sounds like a good idea, it’s best not to do so early on.
 

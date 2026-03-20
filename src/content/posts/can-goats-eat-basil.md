@@ -103,7 +103,7 @@ Additionally, the vitamins and minerals in basil can help to boost a goat's immu
 
 Not all goats like basil. In fact, some goats are really picky eaters and will only eat certain types of plants.
 
-Despite that, there are also some goats that love basil and will eat it right off the plant.
+Then again, there are also some goats that love basil and will eat it right off the plant.
 
 So, it really depends on the individual goat. Some goats will even eat other kinds of herbs, like mint or oregano.
 
@@ -149,7 +149,7 @@ The serving size of basil for goats will depend on the age and size of the goat.
 
 For [baby goats](/can-goats-eat-applesauce/) or kids, start with a small amount of basil and gradually increase the amount as they get older. Kids under 6 months old should only be given a few leaves of basil at a time.
 
-Older goats can handle more basil, Despite that, it's still important to monitor their intake and make sure they are not eating too much. If you are unsure about how much basil to give your goat, talk to a livestock expert for guidance.
+Older goats can handle more basil, Still, it's still important to monitor their intake and make sure they are not eating too much. If you are unsure about how much basil to give your goat, talk to a livestock expert for guidance.
 
 ## Final Thoughts
 

@@ -44,7 +44,7 @@ We will answer all of your questions and provide some tips on how to get started
 
 ## Can a goat produce milk but also be a pack goat?
 
-Despite that, it's important to remember that not all goats are created equal. Some goats may be better at [producing milk](/can-you-drink-goat-milk-straight-from-goat/) while others may be better at being pack goats.
+Even so, it's important to remember that not all goats are created equal. Some goats may be better at [producing milk](/can-you-drink-goat-milk-straight-from-goat/) while others may be better at being pack goats.
 
 It really depends on the individual goat and its abilities.
 

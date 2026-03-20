@@ -88,7 +88,7 @@ Motherwort can be given to goats fresh or dried, and it can also be added to the
 
 Some goat keepers believe that motherwort helps to keep their goats healthy and stress-free. Others say that it makes goats more playful and friendly.
 
-If you are considering giving your goats motherwort, be sure to talk to a goat expert first to make sure it is right for them.
+If you are considering giving your goats motherwort, be sure to talk to a veterinarian first to make sure it is right for them.
 
 ## What are the consequences of goats eating motherwort?
 
@@ -114,7 +114,7 @@ You should also keep an eye on your goats when they are grazing, as they may try
 
 Motherwort is a herb that is sometimes used in goat husbandry. In small doses, it can help to regulate the reproductive cycle and promote milk production.
 
-Despite that, motherwort is also poisonous to goats, and ingestion can lead to serious health problems. Symptoms of motherwort poisoning include vomiting, diarrhea, tremors, and seizures.
+Then again, motherwort is also poisonous to goats, and ingestion can lead to serious health problems. Symptoms of motherwort poisoning include vomiting, diarrhea, tremors, and seizures.
 
 If left untreated, motherwort poisoning can be fatal.
 
@@ -144,4 +144,4 @@ Goats can eat motherwort, but there are some potential risks to consider. Mother
 
 In addition, motherwort can act as a diuretic, causing goats to urinate more frequently. As a result, goats who eat motherwort may experience dehydration and electrolyte imbalances.
 
-If you have goats that graze on motherwort, it is important to monitor them closely and consult with a goat expert if you notice any changes in their health. To prevent your goats from eating motherwort, it is crucial to remove the plant from their pasture.
+If you have goats that graze on motherwort, it is important to monitor them closely and consult with a veterinarian if you notice any changes in their health. To prevent your goats from eating motherwort, it is crucial to remove the plant from their pasture.

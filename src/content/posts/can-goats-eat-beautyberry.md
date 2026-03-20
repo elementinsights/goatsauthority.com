@@ -59,7 +59,7 @@ They should only be fed as a supplement to their diet.
 
 Beautyberries are rich in vitamins and minerals, and they also contain antioxidants that can help to protect the health of the mother and her developing baby. However, it's crucial to make sure that the beautyberries are fresh and not moldy, as moldy berries can be toxic to goats.
 
-On top of that, [pregnant goats should not eat large quantities of beautyberries](/can-pregnant-boer-goats-eat-alfalfa/) at one time, as this could cause digestive upset. Therefore, it's best to offer them as an occasional treat rather than a main part of the diet.
+It's also worth noting that [pregnant goats should not eat large quantities of beautyberries](/can-pregnant-boer-goats-eat-alfalfa/) at one time, as this could cause digestive upset. Therefore, it's best to offer them as an occasional treat rather than a main part of the diet.
 
 ## Can a baby goat eat beautyberry?
 
@@ -67,7 +67,7 @@ Most people think of goats as grazing animals that eat grass, but in fact, goats
 
 This includes beautyberry (Callicarpa dichotoma), a shrub that is native to Asia. The beautyberry shrub is characterized by its purple berries, which are popularly used in pies and jams.
 
-Despite that, berries are not the only edible part of the plant - the leaves can also be eaten. Actually, beautyberry leaves are a favorite food of goats in many parts of the world.
+Be aware, berries are not the only edible part of the plant - the leaves can also be eaten. Actually, beautyberry leaves are a favorite food of goats in many parts of the world.
 
 The leaves are high in nutrients and are a good source of fiber, making them an excellent addition to a goat's diet.
 
@@ -105,7 +105,7 @@ So, how much beautyberry can [goats eat](/can-a-goat-eat-sticker-bushes/) withou
 
 While they will eat some grass, it's not their preferred diet. Beautyberries are high in fiber and low in protein, which makes them a good food source for goats.
 
-Despite that, as with all things, moderation is key. A [goat can safely eat](/can-goats-eat-tomatoes/) about 0.5% of its body weight in beautyberries per day.
+Then again, as with all things, moderation is key. A [goat can safely eat](/can-goats-eat-tomatoes/) about 0.5% of its body weight in beautyberries per day.
 
 Eating more than this amount could result in digestive issues such as diarrhea or constipation.
 
@@ -125,7 +125,7 @@ If you do decide to feed beautyberry to your goats, it's crucial to monitor them
 
 ## How do you go about incorporating beautyberry into your goat's diet plan safely and effectively?
 
-Assuming you have already consulted with a goat expert about whether beautyberry is right for your goat's diet, there are a few ways to go about incorporating it into their meals.
+Assuming you have already consulted with a veterinarian about whether beautyberry is right for your goat's diet, there are a few ways to go about incorporating it into their meals.
 
 One option is to mix dried beautyberry leaves into their daily ration of hay. If you have fresh beautyberry bushes, you can also chop up the leaves and add them to their hay.
 

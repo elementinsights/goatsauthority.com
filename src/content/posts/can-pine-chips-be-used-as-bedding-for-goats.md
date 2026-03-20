@@ -62,7 +62,7 @@ So, those are a few things you need to consider before using pine chips as beddi
 
 Many people choose to use pine chips in their yards or gardens as a soil amendment. This means that the high levels of nutrients and organic matter in the chips help to feed and nourish surrounding plants, improving the health and vigor of your garden.
 
-On top of that, pine chips are often used in landscaping projects as mulch, helping to prevent weeds from growing while also regulating moisture levels in the soil.
+It's also worth noting that pine chips are often used in landscaping projects as mulch, helping to prevent weeds from growing while also regulating moisture levels in the soil.
 
 So whether you're looking for an easy way to improve your garden's health or want a quick fix for your landscaping woes, pine chips are an excellent choice.
 

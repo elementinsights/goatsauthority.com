@@ -48,7 +48,7 @@ In this article, we will answer all your questions regarding goat's yogurt and w
 
 ## Can babies have goat's yogurt?
 
-Despite that, there are a few things to keep in mind when [feeding goat](/can-a-goat-feed-quads/) yogurt to infants. Goat's milk is lower in fat than cow's milk, so it's crucial to choose a full-fat variety of goat's yogurt.
+That said, there are a few things to keep in mind when [feeding goat](/can-a-goat-feed-quads/) yogurt to infants. Goat's milk is lower in fat than cow's milk, so it's crucial to choose a full-fat variety of goat's yogurt.
 
 You should also check the labels carefully to make sure that the yogurt does not contain any added sugar. If you are wondering whether [infants can eat goat cheese](/can-infants-eat-goat-cheese/) as well, it follows similar guidelines.
 
@@ -80,7 +80,7 @@ Probiotics are beneficial bacteria that help to keep the gut healthy. They have 
 
 For these reasons, [goat's yogurt is often recommended as a healthy food](/can-sheep-eat-goat-food/) for infants.
 
-Despite that, there are some [risks associated with feeding goat yogurt](/can-goats-eat-chicken-feed/) to infants. The most significant concern is the risk of food allergies.
+Then again, there are some [risks associated with feeding goat yogurt](/can-goats-eat-chicken-feed/) to infants. The most significant concern is the risk of food allergies.
 
 Goat's milk is one of the most common allergens in infants, and symptoms can range from mild (rash, hives, itching) to severe (anaphylaxis). Some parents also wonder if they can [substitute goat cheese for feta cheese](/can-i-substitute-goat-cheese-for-feta-cheese/) in recipes for older children.
 

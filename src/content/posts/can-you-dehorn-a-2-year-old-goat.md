@@ -48,7 +48,7 @@ In this article, we will answer all of your questions about dehorning a 2 year o
 
 ## Can you dehorn a 2 year old goat?
 
-In addition, you should only [dehorn a goat](/can-you-disbud-a-goat-without-medication/) if absolutely necessary, as it is a painful procedure. If you do decide to dehorn your goat, be sure to use [pain management](/can-i-give-my-goat-vicodin-for-pain/) techniques, such as local anesthesia, to minimize the pain and discomfort for your goat.
+In addition, you should only [dehorn a goat](/can-you-disbud-a-goat-without-medication/) if absolutely necessary, as it is a painful procedure. If you do decide to dehorn your goat, be sure to use pain management techniques, such as local anesthesia, to minimize the pain and discomfort for your goat.
 
 ## What are the benefits of dehorning a 2 year old goat?
 
@@ -92,7 +92,7 @@ By following these steps, you can safely and effectively dehorn a 2 year old goa
 
 After dehorning, it is important to treat the goat with care. The area where the horns were removed will be sore and sensitive.
 
-To help the goat heal, you can apply a healing ointment to the area and provide them with pain relief if necessary. On top of that, it is important to keep the area clean and free from dirt and debris.
+To help the goat heal, you can apply a healing ointment to the area and provide them with pain relief if necessary. Another thing to note is it is important to keep the area clean and free from dirt and debris.
 
 The goat should also be kept away from other animals so that they can heal without being disturbed.
 
@@ -118,13 +118,13 @@ You'll also need to consider the cost of dehorning, as well as the [potential ri
 
 Lastly, you'll need to decide whether or not dehorning is right for your particular goat. Each animal is unique, and there's no one-size-fits-all answer when it comes to deciding whether or not to dehorn.
 
-Despite that, by taking the time to weigh all of the factors involved, you can make an informed decision that's best for both you and your goat.
+At the same time, by taking the time to weigh all of the factors involved, you can make an informed decision that's best for both you and your goat.
 
 ## Are there any other options besides dehorning a 2 year old goat?
 
 If you're not comfortable with the idea of dehorning your goat, there are a few other options available. One option is to trim the horns down to a manageable size.
 
-This can be done with a file or a Dremel tool, and it's typically less painful for the goat than full [dehorning](/can-you-band-an-adult-goats-horns-to-dehorn-them/). Despite that, it's important to note that this method does not completely remove the horns, and there is still a [risk of injury to both the goat](/can-a-cdt-shot-kill-a-goat/) and the handler.
+This can be done with a file or a Dremel tool, and it's typically less painful for the goat than full [dehorning](/can-you-band-an-adult-goats-horns-to-dehorn-them/). Then again, it's important to note that this method does not completely remove the horns, and there is still a [risk of injury to both the goat](/can-a-cdt-shot-kill-a-goat/) and the handler.
 
 Another option is to cap the horns with a plastic or rubber material. This will help to blunt the sharp edges of the horns and make them less dangerous.
 

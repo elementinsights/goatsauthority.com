@@ -58,7 +58,7 @@ Despite these precautions, injectable vitamin B12 is generally considered safe f
 
 There are many [benefits to giving pregnant goats injectable vitamin B12](/can-a-pregnant-goat-have-penicillin/). First, this treatment can help maintain a healthy pregnancy by promoting proper fetal development and preventing complications like a miscarriage.
 
-On top of that, the vitamins boost [immune function](/can-goats-carry-distemper/) in both pregnant goats and their offspring, making them less prone to infection and illness.
+Plus, the vitamins boost [immune function](/can-goats-carry-distemper/) in both pregnant goats and their offspring, making them less prone to infection and illness.
 
 Furthermore, the added nutrients promote healthy growth of the placenta and improve energy levels in both the mother and baby.
 
@@ -80,7 +80,7 @@ In order to prevent the risks associated with giving pregnant goats injectable v
 
 First, you should always make sure that your hands are clean and dry before starting the injection process. Whether you're using a [syringe](/can-i-give-a-sick-goat-water-through-a-syringe/) or a needle, an unclean/wet surface could lead to contamination and negatively impact the effectiveness of your treatment.
 
-On top of that, when dosing the goat, be sure to aim for the correct area on their bodies so that you get an accurate reading of the dosage level.
+Another thing to note is when dosing the goat, be sure to aim for the correct area on their bodies so that you get an accurate reading of the dosage level.
 
 Finally, it is crucial to keep track of how much vitamin B12 was delivered in order to ensure that no over- or underdosing occurs.
 

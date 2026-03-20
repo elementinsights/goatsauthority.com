@@ -54,7 +54,7 @@ This can lead to health problems such as kidney stones and malnutrition.
 
 Pregnant goats can eat lettuce. Lettuce is a good source of folic acid, which is important for the development of the goat fetus.
 
-Lettuce also contains calcium, which is essential for goat milk production. Despite that, pregnant goats should not eat too much lettuce, as it can cause digestive problems.
+Lettuce also contains calcium, which is essential for goat milk production. Keep in mind, pregnant goats should not eat too much lettuce, as it can cause digestive problems.
 
 Too much lettuce can also lead to vitamin A toxicity in the goat, which can be harmful to the fetus. Therefore, you need to provide a balanced diet for pregnant goats that includes a variety of healthy foods.
 
@@ -82,7 +82,7 @@ Goats will also enjoy eating other leafy greens, such as [spinach](/can-goats-ea
 
 Goats are browsers, not grazers like cattle, and their stomachs reflect this difference. Goats have a four-chamber stomach that ferments food before it reaches the intestines, allowing them to digest a variety of plant material.
 
-Despite that, this fermentation process takes time, and goats must be careful not to overload their stomachs or they can become ill. When goats eat too much fresh, green food, it can cause enterotoxemia, a potentially fatal condition caused by bacteria that release toxins in the intestine.
+With that in mind, this fermentation process takes time, and goats must be careful not to overload their stomachs or they can become ill. When goats eat too much fresh, green food, it can cause enterotoxemia, a potentially fatal condition caused by bacteria that release toxins in the intestine.
 
 Enterotoxemia is most often seen in kids, but adult goats can also be affected. Symptoms include bloating, weakness, diarrhea, and convulsions.
 
@@ -106,7 +106,7 @@ So, how much lettuce should you feed your goats?
 
 As a general rule of thumb, the recommended serving size of lettuce for goats is 1-2 pounds per day per goat. Of course, this will vary depending on the type and age of the goat, as well as the quality of the lettuce.
 
-For example, baby goats or those who are pregnant or nursing will need more food than adult goats who are in good health. Likewise, iceberg lettuce contains fewer nutrients than other types of lettuce, such as [romaine](/can-goats-eat-romaine-lettuce/) or kale, so it should be fed in smaller quantities.
+For example, baby goats or those who are pregnant or nursing will need more food than adult goats who are in good health. Likewise, iceberg lettuce contains fewer nutrients than other types of lettuce, such as romaine or kale, so it should be fed in smaller quantities.
 
 Ultimately, use your best judgment when deciding how much lettuce to give your goat, and be sure to monitor their health closely. If they seem unhappy or unwell, adjust their diet accordingly.
 

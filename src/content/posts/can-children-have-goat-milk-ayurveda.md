@@ -46,7 +46,7 @@ In this article, we will answer all of your questions and provide you with some 
 
 ## Can children have goat milk ayurveda?
 
-Despite that, it's crucial to consult with a pediatrician before giving your child goat milk ayurveda, as some kids may be allergic to it.
+Even so, it's crucial to consult with a pediatrician before giving your child goat milk ayurveda, as some kids may be allergic to it.
 
 ## What is goat milk ayurveda and what are the benefits?
 
@@ -68,7 +68,7 @@ Goat milk has been used as a traditional remedy in Ayurvedic medicine for centur
 
 Goat milk is often touted as a natural source of enzymes, vitamins, and minerals. It's also said to be easier to digest than cow's milk.
 
-Despite that, goat milk also contains high levels of fat and cholesterol. In addition, it may contain harmful bacteria if it's not properly [pasteurized](/can-you-drink-goat-milk-straight-from-goat/).
+That said, goat milk also contains high levels of fat and cholesterol. In addition, it may contain harmful bacteria if it's not properly [pasteurized](/can-you-drink-goat-milk-straight-from-goat/).
 
 there's no data on the long-term effects of consuming goat milk. But, some experts believe that it may increase the risk of developing obesity, heart disease, and cancer.
 

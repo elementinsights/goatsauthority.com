@@ -49,7 +49,7 @@ In this article, we will explore the possibility of keeping miniature horses wit
 
 ## Can mini horses live with goats?
 
-On top of that, mini horses and goats are both very curious animals and they share a similar diet. However, it is important to note that mini horses are much cleaner than goats and they will need a separate area to sleep and eat.
+It's also worth noting that mini horses and goats are both very curious animals and they share a similar diet. However, it is important to note that mini horses are much cleaner than goats and they will need a separate area to sleep and eat.
 
 ## What are miniature horses and what do they look like?
 
@@ -77,7 +77,7 @@ Overall, with a little time and effort, you can help your miniature horse stay h
 
 ## What can miniature horses eat?
 
-Miniature horses are popular pets because they are small, friendly, and easy to care for. Despite that, one of the most common questions that people have about these animals is what they can eat.
+Miniature horses are popular pets because they are small, friendly, and easy to care for. Still, one of the most common questions that people have about these animals is what they can eat.
 
 Depending on their size and nutritional needs, miniature horses have somewhat different dietary requirements than full-size horses do.
 

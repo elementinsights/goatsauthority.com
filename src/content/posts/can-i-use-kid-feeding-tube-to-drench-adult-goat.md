@@ -100,7 +100,7 @@ There are a number of benefits to using a kid feeding tube for drenching adult g
 
 The tube fits easily into the mouth of the goat and can be maneuvered around the back of its tongue so that the medication is delivered directly into its stomach.
 
-On top of that, because kid feeding tubes are designed specifically for young animals, they are often made from materials that are soft, pliable, and more comfortable for adult goats to swallow.
+Another thing to note is because kid feeding tubes are designed specifically for young animals, they are often made from materials that are soft, pliable, and more comfortable for adult goats to swallow.
 
 This means that goats treated with a kid feeding tube may experience less discomfort than they would if they were given [medication by other methods](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/). In general, then, there are many good reasons to opt for this simple yet effective way of treating your adult herd.
 
@@ -118,11 +118,11 @@ Additionally, it is crucial to take extra care when handling any kind of restrai
 
 There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option.
 
-One common alternative is to use an [esophageal feeder](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), which is a long tube that is inserted through the goat's nose and down into its stomach. Despite that, this method can be quite uncomfortable for the animal and may cause them to choke or gag.
+One common alternative is to use an [esophageal feeder](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), which is a long tube that is inserted through the goat's nose and down into its stomach. Even so, this method can be quite uncomfortable for the animal and may cause them to choke or gag.
 
 Additionally, it is crucial to be very careful when using an esophageal feeder so as not to damage the goat's delicate throat or windpipe. Another alternative method is to give the medication orally, either by syringe or by pouring it directly into the goat's mouth.
 
-Despite that, this method is less accurate and can be very difficult to do with larger animals. It is also important to be careful when using any kind of restraints on adult goats, as they can easily injure themselves if they struggle too much.
+Still, this method is less accurate and can be very difficult to do with larger animals. It is also important to be careful when using any kind of restraints on adult goats, as they can easily injure themselves if they struggle too much.
 
 Overall, then, the kid feeding tube is generally considered to be the best option for drenching adult goats.
 

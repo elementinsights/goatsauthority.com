@@ -64,7 +64,7 @@ If you do notice that your goat is eating a lot of bell pepper leaves, consider 
 
 Whether or not goats can eat bell pepper roots is a question with a complicated answer. Bell peppers (Capsicum spp.) are fruits that are popular in many cuisines, and they come in a variety of colors, including green, red, yellow, and orange.
 
-The bell pepper plant is a member of the nightshade family, and all parts of the plant - including the roots - contain small amounts of the toxic compound solanine. Despite that, bell peppers also contain important vitamins and minerals, such as vitamin C and potassium.
+The bell pepper plant is a member of the nightshade family, and all parts of the plant - including the roots - contain small amounts of the toxic compound solanine. Still, bell peppers also contain important vitamins and minerals, such as vitamin C and potassium.
 
 For this reason, some experts believe that goats can safely consume bell pepper roots in moderation.
 
@@ -92,7 +92,7 @@ If they start showing signs of digestive upset (diarrhea, vomiting, etc.), disco
 
 In addition, bell peppers contain a substance called solanine, which can be harmful in large quantities. Solanine is a natural defense mechanism that plants use to protect themselves from predators.
 
-Despite that, it can also be toxic to animals, causing nausea, vomiting, and diarrhea. Again, it's crucial to introduce bell peppers slowly and in small amounts to minimize the risk of gastrointestinal upset.
+Keep in mind, it can also be toxic to animals, causing nausea, vomiting, and diarrhea. Again, it's crucial to introduce bell peppers slowly and in small amounts to minimize the risk of gastrointestinal upset.
 
 With that said, there are many benefits to feeding bell peppers to goats. Bell peppers are an excellent source of Vitamin C, an important nutrient that helps boost the immune system.
 

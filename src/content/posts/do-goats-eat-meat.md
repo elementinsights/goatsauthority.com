@@ -109,7 +109,7 @@ As you can see, there are several benefits to feeding goats meat. If you decide 
 
 ## Hazards of feeding goats meat
 
-You might think that since goats are herbivores, feeding them meat would be harmless. Despite that, there are actually a number of hazards associated with feeding goats meat.
+You might think that since goats are herbivores, feeding them meat would be harmless. Be aware, there are actually a number of hazards associated with feeding goats meat.
 
 First of all, goats are not able to digest meat properly. This can lead to [digestive problems](/can-goats-digest-anything/) and potentially deadly gastrointestinal blockages.
 

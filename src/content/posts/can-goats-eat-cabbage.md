@@ -57,7 +57,7 @@ However, it's important to feed cabbage in moderation, as too much can cause dig
 
 ## What are the benefits of feeding cabbage to goats?
 
-Cabbage is a leafy green vegetable that is often used in salads and slaws. Despite that, it can also be a portion of valuable food for goats.
+Cabbage is a leafy green vegetable that is often used in salads and slaws. Still, it can also be a portion of valuable food for goats.
 
 Goats are browsing animals, which means that they prefer to eat [leaves and other foliage](/can-goats-eat-lettuce/) rather than grasses.
 

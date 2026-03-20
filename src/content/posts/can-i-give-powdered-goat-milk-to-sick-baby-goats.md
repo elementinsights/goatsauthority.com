@@ -46,7 +46,7 @@ In this article, we will explore everything you need to know about feeding sick 
 
 ## Can I give powdered goat milk to sick baby goats?
 
-However, you should always consult with a goat expert before giving any new food or supplement to a sick animal. This is because some illnesses can be made worse by certain foods, and the goat expert will be able to advise you on what is best for your goat.
+However, you should always consult with a veterinarian before giving any new food or supplement to a sick animal. This is because some illnesses can be made worse by certain foods, and the goat expert will be able to advise you on what is best for your goat.
 
 So, if you're wondering whether powdered goat milk is a good idea for your sick baby goat, the answer is yes, but be sure to speak to a professional first.
 
@@ -78,7 +78,7 @@ Regularly monitoring key indicators like appetite and behavior can help you catc
 
 There are a few different ways that you can mix powdered goat milk with water to create a nutrient-rich formula for your baby or young child. One option is to use a ratio of 1 teaspoon of powder to 8 ounces of water.
 
-This will give you a consistency that is similar to regular [cow's milk](/can-goats-drink-cows-milk/), making it easy for your baby or young child to digest.
+This will give you a consistency that is similar to regular cow's milk, making it easy for your baby or young child to digest.
 
 Alternatively, you can use a 1:1 ratio, which creates a thinner, more liquid formula that might be easier for smaller babies or children to drink.
 
@@ -92,11 +92,11 @@ When you are caring for a sick [baby goat](/can-baby-goats-have-any-electrolytes
 
 The recommended dose will vary depending on the age and weight of the goat, as well as the specific ailment or condition they are facing. For example, a young kid that is dealing with diarrhea may require a higher dose than an older goat with a respiratory infection.
 
-With all of this in mind, it is crucial to consult a goat expert when choosing the right amount of powdered goat milk to give your sick baby goat.
+With all of this in mind, it is crucial to consult a veterinarian when choosing the right amount of powdered goat milk to give your sick baby goat.
 
 This will ensure that you are providing your little one with the ideal amount of nutrients and vitamins needed to recover quickly and fully from whatever illness or injury they might be facing.
 
-So whether you are dealing with dehydration, enteritis, or some other condition, do not hesitate to reach out to your trusted goat expert professional for guidance on how much [powdered goat milk](/can-goat-milk-reduce-wrinkles/) your little one needs for optimal healing.
+So whether you are dealing with dehydration, enteritis, or some other condition, do not hesitate to reach out to your trusted veterinarian professional for guidance on how much [powdered goat milk](/can-goat-milk-reduce-wrinkles/) your little one needs for optimal healing.
 
 ## Tips on keeping your sick baby goat hydrated
 

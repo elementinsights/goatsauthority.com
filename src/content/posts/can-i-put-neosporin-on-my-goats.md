@@ -65,7 +65,7 @@ Furthermore, Neosporin can encourage the healing process by promoting the growth
 
 There are a number of benefits to using Neosporin on goats. First, this antibiotic ointment can help to protect the skin and treat minor wounds, as it is effective at killing harmful bacteria.
 
-On top of that, because goats can be prone to various types of infections and skin conditions, having a reliable and easy-to-use treatment like Neosporin on hand can be incredibly helpful.
+Plus, because goats can be prone to various types of infections and skin conditions, having a reliable and easy-to-use treatment like Neosporin on hand can be incredibly helpful.
 
 Furthermore, when applied correctly, this ointment will not only treat existing issues but also help to prevent future health problems from developing in the first place.
 
@@ -77,7 +77,7 @@ There are several potential risks associated with using Neosporin on goats. For 
 
 This means that by using Neosporin on goats, we may be inadvertently promoting the growth of drug-resistant bacteria that could then be [passed on to humans](/can-contact-with-goats-cause-diarrhea-in-humans/) and other animals through contact or consumption.
 
-On top of that, there is some evidence to suggest that applying Neosporin to open wounds in goats can increase their risk of contracting [infections like mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) or joint stiffness.
+Beyond that, there is some evidence to suggest that applying Neosporin to open wounds in goats can increase their risk of contracting [infections like mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) or joint stiffness.
 
 Therefore, if you are thinking about using Neosporin on a goat, it is crucial to first consult a veterinarian so that you can weigh the pros and cons of this approach and develop an appropriate treatment plan for your animal.
 
@@ -103,7 +103,7 @@ The first is whether or not the affected area is infected. If it is, then you wi
 
 Another factor to take into account is the age of your goats. If they are young or very old, you may need to seek the advice of a veterinarian, as using Neosporin on them may not be safe or appropriate.
 
-On top of that, you should consult your vet if your goats appear to be allergic to Neosporin or other types of antibiotic ointments.
+Additionally, you should consult your vet if your goats appear to be allergic to Neosporin or other types of antibiotic ointments.
 
 In general, when it comes to using Neosporin on your farm animals, it is essential to carefully weigh all of the relevant factors in order to ensure their safety and well-being.
 

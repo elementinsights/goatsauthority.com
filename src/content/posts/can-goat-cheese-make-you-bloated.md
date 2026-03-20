@@ -104,7 +104,7 @@ Bloating is a common symptom that can be caused by a variety of different condit
 
 In some cases, bloating may also be a sign of a more serious condition such as Irritable Bowel Syndrome (IBS), Small Intestinal Bacterial Overgrowth (SIBO), or gastroesophageal reflux disease (GERD).
 
-Despite that, there are several other diseases and conditions that can also cause bloating. These include celiac disease, inflammatory bowel disease (IBD), endometriosis, ovarian cancer, and certain medications.
+Still, there are several other diseases and conditions that can also cause bloating. These include celiac disease, inflammatory bowel disease (IBD), endometriosis, ovarian cancer, and certain medications.
 
 If you experience persistent bloating that is not relieved by changing your diet or lifestyle, it's crucial to consult with your doctor to rule out any underlying medical conditions.
 

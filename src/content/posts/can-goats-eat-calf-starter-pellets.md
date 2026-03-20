@@ -57,11 +57,11 @@ However, it's important to note that goats should not eat too many calf starter 
 
 Therefore, you need to make sure that your goat has access to plenty of hay and fresh grass so that it can get the fiber they need.
 
-On top of that, you should always consult with a goat expert before making any changes to your goat’s diet.
+Additionally, you should always consult with a goat expert before making any changes to your goat’s diet.
 
 ## Can all goats eat calf starter pellets?
 
-Calf starter pellets are a type of livestock feed that is designed for calves. Despite that, they can also be fed to other animals, such as goats.
+Calf starter pellets are a type of livestock feed that is designed for calves. That said, they can also be fed to other animals, such as goats.
 
 The pellets are made from a variety of ingredients, including corn, soybeans, and Alfalfa. While all goats can eat calf starter pellets, you need to choose the right type of pellet based on the age and size of the goat.
 
@@ -77,7 +77,7 @@ The exact ingredients will vary depending on the brand, but most calf starter pe
 
 Calf starter pellets are also typically high in energy, which is important for supporting the high level of activity that young calves often engage in.
 
-On top of that, calf starter pellets usually contain added vitamin A, which is essential for healthy eyesight and added vitamin E, which helps to support the immune system.
+Beyond that, calf starter pellets usually contain added vitamin A, which is essential for healthy eyesight and added vitamin E, which helps to support the immune system.
 
 ## How can goats benefit from eating calf starter pellets?
 
@@ -101,7 +101,7 @@ When used as part of a balanced diet, but, starter pellets can provide essential
 
 ## How much should you feed your goat if it's eating calf starter pellets?
 
-In general, you should feed your goat around 1 to 2 pounds of calf starter pellets per day. Despite that, there are a few [things to keep in mind when determining how much to feed your goat](/can-a-dog-get-sick-from-a-goat/).
+In general, you should feed your goat around 1 to 2 pounds of calf starter pellets per day. Of course, there are a few [things to keep in mind when determining how much to feed your goat](/can-a-dog-get-sick-from-a-goat/).
 
 First, consider the size of your goat and its current stage of growth. A larger goat or one that is still growing will need more food than a smaller adult goat.
 

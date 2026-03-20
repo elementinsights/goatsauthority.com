@@ -103,7 +103,7 @@ So, while line breeding can have some benefits, there are also some risks to con
 
 One of the best ways to prevent inbreeding in goats is to keep a [wide gene pool](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/). This can be done by ensuring that there are multiple generations of goats and that each goat has a different bloodline.
 
-On top of that, it is crucial to avoid [breeding closely related goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), such as siblings or cousins. Another way to prevent inbreeding is to bring new goats into the herd from time to time.
+Additionally, it is crucial to avoid [breeding closely related goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), such as siblings or cousins. Another way to prevent inbreeding is to bring new goats into the herd from time to time.
 
 This will help to keep the gene pool diverse and will reduce the likelihood of [genetic defects](/can-you-breed-a-6-yr-old-goat-for-first-time/).
 

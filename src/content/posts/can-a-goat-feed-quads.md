@@ -46,7 +46,7 @@ We shall delve into the subject of feeding goats in this article and respond to 
 
 ## Can a goat feed Quads?
 
-Some goats with just two teats can [produce more milk](/can-a-goat-bag-up-without-being-pregnant/) than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads.
+Some goats with just two teats can produce more milk than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads.
 
 If this is the case, you will need to supplement with [bottle-feeding](/can-a-goat-have-babies-a-week-apart/).
 
@@ -56,7 +56,7 @@ There are many breeds of goats, yet not all of them are known for having quadrup
 
 Saanen goats are a dairy breed, and they are known for their high milk production. But, they are also known for their prolific breeding.
 
-It's not uncommon for a [Saanen doe](/can-a-goat-form-an-udder-without-being-pregnant/) (female goat) to have quadruplets, and in some cases, even more.
+It's not uncommon for a Saanen doe (female goat) to have quadruplets, and in some cases, even more.
 
 This high reproductive rate is one of the reasons why Saanen goats are so popular on dairy farms. In addition to their high milk production, they can quickly replenish the herd with new offspring.
 

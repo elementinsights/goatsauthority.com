@@ -79,11 +79,11 @@ Not all goats like zucchini, but many do. Zucchini is a type of summer squash th
 
 It's low in calories and fat and high in vitamins and minerals. Goats are naturally curious animals, and they may be attracted to the sight and smell of zucchini.
 
-Despite that, some goats may be hesitant to try new foods, so it's important to offer them a small piece of zucchini to see if they like it. If they seem interested, you can give them a little more.
+With that in mind, some goats may be hesitant to try new foods, so it's important to offer them a small piece of zucchini to see if they like it. If they seem interested, you can give them a little more.
 
 But if they don't show any interest, it's best not to force them to eat it.
 
-Goats typically like to eat grass, hay, and other [greens](/can-goats-eat-romaine-lettuce/), so zucchini is a healthy treat that many of them enjoy.
+Goats typically like to eat grass, hay, and other greens, so zucchini is a healthy treat that many of them enjoy.
 
 ## What are the benefits of feeding zucchini to goats?
 

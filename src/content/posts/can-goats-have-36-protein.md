@@ -48,7 +48,7 @@ In this article, we will answer all of your questions regarding goats and their 
 
 ## Can goats have 36 Protein Blocks?
 
-On top of that, goats should not be given more than 3 pounds of hay per day. This is because too much hay can lead to digestive problems, such as bloat and diarrhea.
+Plus, goats should not be given more than 3 pounds of hay per day. This is because too much hay can lead to digestive problems, such as bloat and diarrhea.
 
 So, if you're wondering how much protein your goats need, the answer is not very much. In fact, they only need a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of protein in their diet to stay healthy and happy.
 
@@ -78,7 +78,7 @@ They are higher in energy than other types of protein blocks, making them ideal 
 
 Goats need a balanced diet that includes all three types of protein blocks in order to thrive. However, the exact mix will depend on the age and activity level of the goat.
 
-For example, growing kids or pregnant does will need more energy than [adult goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) that are inactive. Working with a qualified goat expert or nutritionist can help you to determine the best way to meet your goat's individual needs.
+For example, growing kids or pregnant does will need more energy than [adult goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) that are inactive. Working with a qualified veterinarian or nutritionist can help you to determine the best way to meet your goat's individual needs.
 
 ## How many protein blocks should goats eat?
 
@@ -114,7 +114,7 @@ Be sure to read the label carefully to ensure you are purchasing the right produ
 
 It is crucial to note that goat protein blocks are not a complete feed, and should only be fed as a supplement to hay or pasture. When fed in excess, [goat protein blocks can cause health problems](/can-contact-with-goats-cause-diarrhea-in-humans/) such as obesity, so you need to follow the manufacturer's directions carefully.
 
-[Goats also need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times. As with all supplements, it is always best to consult with a goat expert before making any changes to your goat's diet.
+[Goats also need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times. As with all supplements, it is always best to consult with a veterinarian before making any changes to your goat's diet.
 
 ## How to store goat protein blocks?
 
@@ -140,7 +140,7 @@ With proper storage, goat protein blocks can be a nutritious and convenient way 
 
 Goats don't need a lot of protein, but it is an important part of their diet. Protein blocks are a convenient and easy way to provide goats with the nutrients they need.
 
-Just be sure to store them properly, and provide plenty of water for your [goats to drink](/can-goats-drink-cows-milk/).
+Just be sure to store them properly, and provide plenty of water for your goats to drink.
 
 Goats are interesting creatures, and there is a lot to learn about them. If you have any questions about goats, be sure to ask a goat expert.
 

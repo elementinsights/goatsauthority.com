@@ -108,7 +108,7 @@ Goats are notorious for their climbing abilities, and this can pose a problem fo
 
 One common method is to place a board horizontally along the top of the fence. The board makes it more difficult for goats to get a grip on the fence, and it also provides a wider surface for them to stand on.
 
-Despite that, this method is not foolproof, as goats can sometimes find a way to climb around the board. Another method is to cover the top of the fence with barbed wire.
+Even so, this method is not foolproof, as goats can sometimes find a way to climb around the board. Another method is to cover the top of the fence with barbed wire.
 
 This makes it very difficult for goats to climb the fence, but it also increases the risk of injury if they try. Ultimately, there's no guaranteed way to keep goats from climbing fences, but using multiple methods can help to deter them.
 

@@ -46,7 +46,7 @@ We will answer all of your questions about goat milk and acne in this article an
 
 ## Can goat milk cause acne?
 
-Despite that, it's important to note that there's no scientific evidence to support that [goat milk](/can-goat-milk-reduce-wrinkles/) causes acne. So, if you're struggling with breakouts, you may want to try eliminating dairy from your diet to see if it makes a difference.
+At the same time, it's important to note that there's no scientific evidence to support that [goat milk](/can-goat-milk-reduce-wrinkles/) causes acne. So, if you're struggling with breakouts, you may want to try eliminating dairy from your diet to see if it makes a difference.
 
 ## What is acne and what are the signs and symptoms of it?
 
@@ -138,7 +138,7 @@ Acne is a common problem, but it's one that can be effectively treated. By follo
 
 While goat milk is the most common dairy product that has been linked to acne, there are a few other milk products that can also cause breakouts. These include cow’s milk, soy milk, and coconut milk.
 
-Like [goat milk](/can-you-drink-goat-milk-while-pregnant/), these products contain hormones that can trigger acne. On top of that, they also contain sugars that can [feed the bacteria that cause acne](/can-baking-soda-cause-urinary-issues-in-goats/).
+Like [goat milk](/can-you-drink-goat-milk-while-pregnant/), these products contain hormones that can trigger acne. What's more, they also contain sugars that can [feed the bacteria that cause acne](/can-baking-soda-cause-urinary-issues-in-goats/).
 
 If you are struggling with acne, you may want to avoid these milk products and opt for a dairy-free alternative. There are a number of plant-based milk on the market that can be used in place of cow’s milk, such as almond milk, cashew milk, and hemp milk.
 

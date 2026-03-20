@@ -108,7 +108,7 @@ Peanut butter is a great source of both. It's also a very versatile food, so you
 
 One way to feed peanut butter to goats is simply to give them a spoonful or two as a treat. This is a great way to get them used to the taste and texture of peanut butter and to give them an occasional treat.
 
-Despite that, since goats need such a high level of nutrition, you should not rely on [treats](/can-goats-have-peppermint-treats/) as their sole source of food.
+Still, since goats need such a high level of nutrition, you should not rely on [treats](/can-goats-have-peppermint-treats/) as their sole source of food.
 
 Another way to incorporate peanut butter into your goats' diet is to mix it with their regular feed. This is an especially good option if you're feeding your goats pellets or grain, as the peanut butter will help them to better digest these foods.
 

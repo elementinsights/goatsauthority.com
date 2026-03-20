@@ -60,7 +60,7 @@ In addition, dairy provides goats with a variety of other nutrients such as vita
 
 Goats need these nutrients in order to stay healthy and produce milk. While all types of dairy are beneficial for goats, [goat's milk](/can-baby-kittens-drink-goats-milk/) is especially nutritious.
 
-[Goat milk contains more fatty acids than cow's milk](/can-goats-drink-cows-milk/), making it easier for goats to digest.
+Goat milk contains more fatty acids than cow's milk, making it easier for goats to digest.
 
 It also has a higher concentration of vitamins and minerals. For these reasons, goat's milk is an important part of a healthy diet for goats.
 
@@ -68,7 +68,7 @@ It also has a higher concentration of vitamins and minerals. For these reasons, 
 
 Goats are creatures of habit and do best with a consistent diet. They are very versatile in their eating habits and can digest a wide variety of plants.
 
-Despite that, they do have some specific dietary requirements that should be met in order to maintain their health and well-being. When it comes to [dairy goats](/can-a-dairy-goats-udder-skin-have-varying-colors/), one of the most important factors is the amount of dairy they consume each day.
+Be aware, they do have some specific dietary requirements that should be met in order to maintain their health and well-being. When it comes to [dairy goats](/can-a-dairy-goats-udder-skin-have-varying-colors/), one of the most important factors is the amount of dairy they consume each day.
 
 Goat milk is an excellent source of nutrients, including protein, calcium, and vitamins A and D. It's also relatively low in fat and calories, making it a healthy choice for those looking to manage their weight.
 
@@ -80,7 +80,7 @@ By following these guidelines, you can ensure that your [goats get the optimal a
 
 ## Are there any risks associated with feeding dairy to goats?
 
-Dairy products are an excellent source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/), providing them with essential proteins, fats, and carbohydrates. Despite that, there are some [risks associated with feeding dairy to goats](/can-goats-eat-chicken-feed/).
+Dairy products are an excellent source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/), providing them with essential proteins, fats, and carbohydrates. Of course, there are some [risks associated with feeding dairy to goats](/can-goats-eat-chicken-feed/).
 
 One of the biggest dangers is the risk of bloat. Bloat occurs when the goat's stomach fills with gas, and it can be fatal if not treated immediately.
 
@@ -112,9 +112,9 @@ There are several signs that can indicate whether or not your goat is getting en
 
 Another sign is if the goat's eyes are sunken in and there's no light in them. goats that are not getting enough Dairy will also have less energy and be less active.
 
-If you suspect your goat is not getting enough Dairy, you should take it to a goat expert for a check-up.
+If you suspect your goat is not getting enough Dairy, you should take it to a veterinarian for a check-up.
 
-The goat expert can do a blood test to check the goat's iron levels and determine if the goat is anemic. Anemia can be caused by a lack of Dairy in the diet, so you need to get your goat checked out by a goat expert if you think it may not be getting enough Dairy.
+The veterinarian can do a blood test to check the goat's iron levels and determine if the goat is anemic. Anemia can be caused by a lack of Dairy in the diet, so you need to get your goat checked out by a veterinarian if you think it may not be getting enough Dairy.
 
 ## What are some alternative dairy products for goats?
 

@@ -58,7 +58,7 @@ Dewormer pellets are a type of feed supplement that helps goats to stay healthy 
 
 Goats are particularly susceptible to parasites, which can cause weight loss, poor coat condition, and even death.
 
-Dewormer pellets contain a variety of active ingredients that work together to kill parasites in the [goat's digestive system](/can-goats-digest-cigarettes/). In addition to preventing parasites, dewormer pellets also help to improve the overall health of goats by providing them with essential vitamins and minerals.
+Dewormer pellets contain a variety of active ingredients that work together to kill parasites in the goat's digestive system. In addition to preventing parasites, dewormer pellets also help to improve the overall health of goats by providing them with essential vitamins and minerals.
 
 When [feeding goats](/can-a-goat-feed-quads/), you need to choose a pellet that is specifically designed for their species. [Feeding goats the wrong type of pellet](/can-baking-soda-cause-urinary-issues-in-goats/) can cause serious health problems.
 
@@ -68,7 +68,7 @@ When [feeding goats](/can-a-goat-feed-quads/), you need to choose a pellet that 
 
 Goats should be dewormed every two to four months, and the number of pellets they need depends on their weight. A general rule of thumb is to give one pellet for every 25 pounds of body weight.
 
-Despite that, it's always best to consult with a goat expert to determine the best deworming schedule for your goats. They can also provide you with the correct dosage of pellets.
+Of course, it's always best to consult with a veterinarian to determine the best deworming schedule for your goats. They can also provide you with the correct dosage of pellets.
 
 When it comes time to deworm your goats, be sure to follow the instructions on the package carefully. Overdosing on dewormers can be just as harmful as not deworming at all.
 
@@ -114,13 +114,13 @@ Dewormer pellets are available for purchase at most farm supply stores. They can
 
 When purchasing dewormer pellets, be sure to choose a product that is specifically formulated for goats. Do not give your goat dewormer meant for other animals, as this could be harmful.
 
-On top of that, make sure to follow the manufacturer's instructions carefully and only give the goat the recommended amount of dewormer pellets. Overdosing on dewormers can be just as harmful as not deworming at all.
+Additionally, make sure to follow the manufacturer's instructions carefully and only give the goat the recommended amount of dewormer pellets. Overdosing on dewormers can be just as harmful as not deworming at all.
 
 ## How to store dewormer pellets?
 
 Dewormer pellets should be stored in a cool, dry place. They should also be kept out of reach of children and animals.
 
-When storing dewormer pellets, be sure to follow the manufacturer's instructions carefully and only [give the goat](/can-i-give-goat-trazodone/) the recommended amount of dewormer pellets. Overdosing on dewormers can be just as harmful as not deworming at all.
+When storing dewormer pellets, be sure to follow the manufacturer's instructions carefully and only give the goat the recommended amount of dewormer pellets. Overdosing on dewormers can be just as harmful as not deworming at all.
 
 ## Are there any alternative methods of deworming goats?
 

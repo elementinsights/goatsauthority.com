@@ -56,7 +56,7 @@ Medicated feed, also known as supplemental ration, is made up of a variety of nu
 
 This feed contains a combination of vitamins, minerals, and other essential nutrients that can help ensure the health and well-being of both the mother and her offspring.
 
-On top of that, medicated feed often contains important growth-promoting agents like antibiotics or probiotics that can support optimal wellness during pregnancy.
+Also, medicated feed often contains important growth-promoting agents like antibiotics or probiotics that can support optimal wellness during pregnancy.
 
 Whether you're keeping your own dairy herd or raising livestock for meat production, it's important to [give your goats medicated feed regularly to optimize their nutrition](/can-i-use-regular-milk-to-feed-a-baby-goat/) and health.
 
@@ -66,7 +66,7 @@ So if you're wondering why you might want to incorporate this special feed into 
 
 There are many benefits to feeding medicated feed to pregnant goats. For one, by providing them with a nutrient-rich diet, you can help ensure that they have all the vitamins and minerals that they need to stay healthy and support the development of their young.
 
-On top of that, the medicated [feed can help prevent certain health conditions from developing in the mother goat](/can-baking-soda-cause-urinary-issues-in-goats/), which in turn can reduce symptoms and improve her quality of life.
+Beyond that, the medicated [feed can help prevent certain health conditions from developing in the mother goat](/can-baking-soda-cause-urinary-issues-in-goats/), which in turn can reduce symptoms and improve her quality of life.
 
 Finally, the medicated feed can also be used as a preventative measure for some common diseases that affect future offspring, such as tetanus or certain types of parasites.
 
@@ -78,7 +78,7 @@ The answer to this question depends on several factors, including the specific m
 
 On the one hand, there may be some risks associated with feeding medicated feed to pregnant goats. For example, some medications can cross the placenta, potentially causing harm to unborn babies.
 
-On top of that, if a goat is being treated for an illness that has not yet been properly diagnosed, the use of medicated feed may interfere with the effectiveness of diagnostic tests or treatment options.
+It's also worth noting that if a goat is being treated for an illness that has not yet been properly diagnosed, the use of medicated feed may interfere with the effectiveness of diagnostic tests or treatment options.
 
 On the other hand, there are also several [potential benefits to giving pregnant goats medicated feed](/can-a-pregnant-goat-have-penicillin/). For one thing, this type of feed may help treat underlying illnesses or improve health and well-being, which can have positive effects on both mama and [baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/).
 
@@ -90,11 +90,11 @@ Overall, while there are some risks associated with feeding medicated feed to pr
 
 To introduce medicated feed to your pregnant goats' diet, there are a few important steps that you should follow.
 
-First, you should start by consulting with a goat expert or other qualified professional to determine the specific type and dosage of medication that your goats require.
+First, you should start by consulting with a veterinarian or other qualified professional to determine the specific type and dosage of medication that your goats require.
 
 Next, you will need to ensure that the medicated feed is working properly and safely by closely monitoring your goats for any signs of illness of illness or adverse reactions.
 
-Once you have confirmed that the medication is effective, you can begin gradually increasing the dose according to a goat expert recommendations.
+Once you have confirmed that the medication is effective, you can begin gradually increasing the dose according to a veterinarian recommendations.
 
 And finally, it is crucial to continue [monitoring the goats closely until they have fully adjusted to the new feed](/can-a-goat-feed-quads/).
 

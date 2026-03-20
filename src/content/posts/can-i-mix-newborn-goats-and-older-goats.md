@@ -128,7 +128,7 @@ The third risk is that the goats may bully each other. To prevent this, it is cr
 
 Overall, there are a few risks associated with [mixing different age groups of goats together](/can-i-mix-goat-milk-with-whey-protein/).
 
-Despite that, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
+Then again, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
 
 ## Final Thoughts
 

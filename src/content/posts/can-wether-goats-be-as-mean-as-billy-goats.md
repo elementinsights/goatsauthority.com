@@ -100,7 +100,7 @@ There are a few potential problems to consider before keeping weather goats on y
 
 Not only will this mean you have to spend more time herding them back in, but it could also lead to them getting lost or injured.
 
-On top of that, weather goats are attracted to shiny objects and have been known to chew on electric fencing and other equipment. This can cause serious damage and even pose a safety hazard.
+Similarly, weather goats are attracted to shiny objects and have been known to chew on electric fencing and other equipment. This can cause serious damage and even pose a safety hazard.
 
 Lastly, because they are such avid explorers, [wether goats can also end up spreading invasive plants](/can-goats-spread-lice-to-llamas/) invasive plants and weeds around your property.
 
@@ -120,7 +120,7 @@ By taking these precautions, you should be able to successfully keep wether goat
 
 The best time to [breed a female goat](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) is during the fall season. This is because the days are shorter and the weather is cooler, which can help reduce the risk of heat stress.
 
-On top of that, there will be plenty of food available for the goats during this time of year. However, it's important to consult with a veterinarian or livestock specialist before breeding any animals.
+Another thing to note is there will be plenty of food available for the goats during this time of year. However, it's important to consult with a veterinarian or livestock specialist before breeding any animals.
 
 They will be able to help you determine the [best time to breed based on the specific needs of your goats](/can-you-breed-a-6-yr-old-goat-for-first-time/).
 

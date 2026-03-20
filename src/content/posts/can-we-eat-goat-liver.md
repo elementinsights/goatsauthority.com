@@ -64,7 +64,7 @@ Finally, it is crucial to cooking goat liver properly. The undercooked liver can
 
 The goat liver is an organ meat that is sometimes consumed as food. It is high in nutrients and minerals, including iron, copper, and selenium.
 
-On top of that, it is a good source of vitamins A, B12, and [folate](/can-children-have-goat-milk-ayurveda/). Goat liver can be cooked in various ways and is often used in [traditional dishes](/can-kabuli-palao-be-made-with-goat/) from countries such as India and Pakistan.
+Beyond that, it is a good source of vitamins A, B12, and [folate](/can-children-have-goat-milk-ayurveda/). Goat liver can be cooked in various ways and is often used in [traditional dishes](/can-kabuli-palao-be-made-with-goat/) from countries such as India and Pakistan.
 
 While it may not be to everyone's taste, goat liver can be a healthy and nutritious addition to the diet.
 
@@ -72,7 +72,7 @@ While it may not be to everyone's taste, goat liver can be a healthy and nutriti
 
 The liver is one of the most nutrient-dense organs in the body, and eating goat liver can offer many health benefits.
 
-Despite that, there are also some risks associated with consuming this organ. One of the main dangers of eating goat liver is that it can contain high levels of toxins.
+Of course, there are also some risks associated with consuming this organ. One of the main dangers of eating goat liver is that it can contain high levels of toxins.
 
 The liver acts as a filter for the blood, so it can accumulate toxins over time. If these toxins are not removed from the liver before it is consumed, they can cause serious illness.
 
@@ -136,7 +136,7 @@ Lastly, season with salt and pepper to taste, and serve over a bed of [cooked pa
 
 Goat liver is a type of liver that comes from a goat. It is a common ingredient in many traditional dishes, and it is also considered to be a very nutritious food.
 
-However, there is some concern about the safety of goat liver due to the fact that it contains high levels of [vitamin A](/can-nigerian-dwarf-goats-be-used-for-meat/). Vitamin A is essential for [human health](/can-a-goat-get-addicted-to-human-urine/), but too much vitamin A can be toxic.
+However, there is some concern about the safety of goat liver due to the fact that it contains high levels of [vitamin A](/can-nigerian-dwarf-goats-be-used-for-meat/). Vitamin A is essential for human health, but too much vitamin A can be toxic.
 
 For this reason, it is important to eat goat liver in moderation. When consumed in moderation, goat liver can be a healthy and delicious part of your diet.
 

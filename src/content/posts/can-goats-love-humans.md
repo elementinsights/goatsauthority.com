@@ -52,7 +52,7 @@ So, if you are looking for an animal companion that is loving, social, and intel
 
 Before you get a goat as a pet, there are some things you need to consider. First of all, goats require a lot of space.
 
-They need a large enclosure that is at least 8 feet by 10 feet. On top of that, they need access to pasture or hay and plenty of fresh water.
+They need a large enclosure that is at least 8 feet by 10 feet. It's also worth noting that they need access to pasture or hay and plenty of fresh water.
 
 Another thing to consider is that goats are very active and playful. They love to [climb and jump](/can-goats-jump-high/), so their enclosure needs to be escape-proof.
 
@@ -76,7 +76,7 @@ This can lead to them getting into trouble if they are not properly supervised. 
 
 Goats are also very active creatures and need a lot of exercise. If you do not have the time or space for a goat to run and play, then it is best to find another pet.
 
-Despite that, if you are able to provide your goat with the space and attention it needs, then you will find that owning a goat can be a very rewarding experience.
+Then again, if you are able to provide your goat with the space and attention it needs, then you will find that owning a goat can be a very rewarding experience.
 
 Goats are also browsers and not grazers. This means that they prefer to eat leaves, twigs, and other plant materials.
 
@@ -88,7 +88,7 @@ If you do not have access to browse or live in an area where there is not enough
 
 There are some disadvantages to owning a goat. First of all, they require a lot of space.
 
-They need a large enclosure that is at least 8 feet by 10 feet. On top of that, they need access to pasture or hay and plenty of fresh water.
+They need a large enclosure that is at least 8 feet by 10 feet. Another thing to note is they need access to pasture or hay and plenty of fresh water.
 
 Another thing to consider is that goats are very active and playful. They love to climb and jump, so their enclosure needs to be escape-proof.
 
@@ -104,7 +104,7 @@ If you are not prepared to provide a proper home for a goat, then it is best to 
 
 Goats are very active and curious creatures. They need plenty of space to run and play.
 
-On top of that, they need access to browse (leaves, twigs, and other plant materials) or hay. If you do not have enough space for your goat to run and play, then it is best to find another pet.
+Also, they need access to browse (leaves, twigs, and other plant materials) or hay. If you do not have enough space for your goat to run and play, then it is best to find another pet.
 
 You can also prevent your goat from getting bored by providing it with toys and objects to play with. [Goats love to explore](/can-domestic-goats-jump/) and will investigate anything they can get their hands on.
 
@@ -140,7 +140,7 @@ Goats are very social creatures and enjoy the company of their human caregivers.
 
 Goats are also very curious creatures. They will investigate everything and anything.
 
-This can lead to them getting into trouble if they are not properly supervised. Despite that, this curiosity can also be a benefit as it can help you bond with your goat.
+This can lead to them getting into trouble if they are not properly supervised. Be aware, this curiosity can also be a benefit as it can help you bond with your goat.
 
 Goats are also very active creatures and need a lot of exercise. If you do not have the time or space for a goat to run and play, then it is best to find another pet.
 
@@ -154,6 +154,6 @@ It is important to locate a different pet [if you do not have access to browsing
 
 ## Final Thoughts
 
-Overall, goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other [goats](/can-pygmy-goats-be-good-potty-trained/).
+Overall, goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other goats.
 
 They are also very curious and active, so they need plenty of space to run and play. If you cannot provide a proper home for a goat, then it is best to find another pet.

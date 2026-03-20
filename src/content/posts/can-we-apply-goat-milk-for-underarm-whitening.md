@@ -48,7 +48,7 @@ In this article, we will answer those questions and provide you with additional 
 
 So, if you are looking for a natural and gentle way to whiten your underarms, goat milk may be a good option for you.
 
-Despite that, there are a few things you need to consider before using goat milk for underarm whitening.
+That said, there are a few things you need to consider before using goat milk for underarm whitening.
 
 First, it is crucial to choose pure and preferably organic goat milk. This will help to ensure that you are not exposing your skin to any harmful chemicals or additives.
 
@@ -62,9 +62,9 @@ So, be patient and consistent with your application.
 
 ## What is goat milk and what are its benefits for skin care?
 
-Goat milk is a natural product that has been used for centuries as a skincare remedy. Unlike [cow's milk](/can-goats-drink-cows-milk/), goat milk has smaller fat molecules that make it easier to digest and absorb.
+Goat milk is a natural product that has been used for centuries as a skincare remedy. Unlike cow's milk, goat milk has smaller fat molecules that make it easier to digest and absorb.
 
-Goat milk also contains lactic acid, which helps to exfoliate dead skin cells and promote new [cell growth](/can-goat-milk-reduce-wrinkles/). On top of that, goat milk is rich in vitamins and minerals that can help to nourish and revitalize the skin.
+Goat milk also contains lactic acid, which helps to exfoliate dead skin cells and promote new [cell growth](/can-goat-milk-reduce-wrinkles/). Similarly, goat milk is rich in vitamins and minerals that can help to nourish and revitalize the skin.
 
 Some of the most popular goat milk products include soaps, lotions, and creams. When choosing a goat milk product for your own use, you need to select one that is made from pure, fresh goat milk and does not contain any synthetic fragrances or colorants.
 
@@ -80,7 +80,7 @@ Finally, goat milk may not be as effective as other forms of underarm whitenings
 
 One way to help prevent underarm darkening is to exfoliate the skin regularly. This will help to remove dead skin cells that can contribute to darkening.
 
-On top of that, you need to use a deodorant or antiperspirant that contains aluminum chloride. This ingredient helps to reduce sweating, which can also lead to the darkening of the underarm area.
+Plus, you need to use a deodorant or antiperspirant that contains aluminum chloride. This ingredient helps to reduce sweating, which can also lead to the darkening of the underarm area.
 
 Additionally, you need to wear loose-fitting clothing made from breathable fabrics. This will help to reduce friction and allow the skin to breathe.
 

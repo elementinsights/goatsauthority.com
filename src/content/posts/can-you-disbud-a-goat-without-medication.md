@@ -85,7 +85,7 @@ This method is considered to be low-risk and relatively painless, but it must be
 
 There are a few benefits to disbudding goats without medication or surgery. For one, it's a lot less expensive than the alternative methods.
 
-It's also a lot less painful for the goat since there's no cutting or cautery involved. On top of that, it's a relatively simple procedure that can be done at home with minimal equipment.
+It's also a lot less painful for the goat since there's no cutting or cautery involved. Beyond that, it's a relatively simple procedure that can be done at home with minimal equipment.
 
 Finally, it results in fewer complications and a quicker recovery for the goat. All of these factors make disbudding an attractive option for many goat owners.
 
@@ -103,7 +103,7 @@ In addition, there is always a risk of scarring, no matter which method is used.
 
 Once a goat has been disbudded, it is crucial to take steps to help prevent infection. This includes keeping the area clean, applying an antiseptic solution, and providing pain relief if necessary.
 
-On top of that, it's important to monitor the goat for any signs of infection such as swelling or redness around the area. If an infection does develop, consult a veterinarian as soon as possible for treatment.
+Another thing to note is it's important to monitor the goat for any signs of infection such as swelling or redness around the area. If an infection does develop, consult a veterinarian as soon as possible for treatment.
 
 It is also important to properly dispose of any dead tissue or blood that may be present after the procedure. Taking these steps can help ensure that the goat stays healthy and safe after disbudding.
 
@@ -111,9 +111,9 @@ It is also important to properly dispose of any dead tissue or blood that may be
 
 After a goat has been disbudded, it is crucial to provide proper treatment and care to ensure its recovery. This includes providing adequate nutrition, monitoring for infection, and ensuring the wound is kept clean.
 
-[Pain relief](/can-i-give-my-goat-vicodin-for-pain/) can also be given if needed. It may also be necessary to apply a dressing to protect the wound and promote healing.
+Pain relief can also be given if needed. It may also be necessary to apply a dressing to protect the wound and promote healing.
 
-On top of that, it's important to observe the goat for any signs of infection or other complications. With proper care, most goats make a full recovery after being disbudded.
+Plus, it's important to observe the goat for any signs of infection or other complications. With proper care, most goats make a full recovery after being disbudded.
 
 ## How do you know if disbudding was successful?
 

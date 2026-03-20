@@ -68,9 +68,9 @@ There are a few different signs that may indicate your goat needs to be wormed, 
 - Diarrhea
 - Worms in their feces
 
-If you notice any of these signs, it’s important to take them to the [goat expert](/can-i-give-a-sick-goat-water-through-a-syringe/) right away. They will be able to determine if worming is necessary and can prescribe the appropriate medication.
+If you notice any of these signs, it’s important to take them to the [veterinarian](/can-i-give-a-sick-goat-water-through-a-syringe/) right away. They will be able to determine if worming is necessary and can prescribe the appropriate medication.
 
-On top of that, it’s a good idea to have your goat checked by a goat expert at least once a year. This will help to [catch any potential problems early on](/can-a-plastic-bag-hurt-a-goat/) and keep your goat healthy and happy.
+Also, it’s a good idea to have your goat checked by a veterinarian at least once a year. This will help to [catch any potential problems early on](/can-a-plastic-bag-hurt-a-goat/) and keep your goat healthy and happy.
 
 ## What is worming and why is it important for goats?
 

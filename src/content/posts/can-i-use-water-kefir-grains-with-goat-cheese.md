@@ -108,7 +108,7 @@ Water kefir grains are an excellent ingredient for creating delicious and health
 
 Goat cheese is another great addition since it is rich in nutrients like calcium and protein. Combined, these two ingredients make the perfect pairing in dishes like goat cheese water kefir fritters or water kefir-coated goat cheese crostini.
 
-With just a few simple steps and some basic kitchen tools, you can quickly whip up these tasty recipes and enjoy the wholesome benefits of both [water kefir grains and goat cheese](/can-goats-have-cheese/).
+With just a few simple steps and some basic kitchen tools, you can quickly whip up these tasty recipes and enjoy the wholesome benefits of both water kefir grains and goat cheese.
 
 ## Final Thoughts
 

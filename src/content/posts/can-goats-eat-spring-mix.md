@@ -47,7 +47,7 @@ Of course, as with anything else, there are some risks that come along with feed
 
 For this reason, it is important to only give your goat a small amount of spring mix at a time.
 
-On top of that, the spring mix does contain a fair amount of moisture. This can be an issue for goats, as they are prone to developing bloat.
+It's also worth noting that the spring mix does contain a fair amount of moisture. This can be an issue for goats, as they are prone to developing bloat.
 
 Bloat is a condition that occurs when the stomach fills with gas, and it can be very dangerous.
 
@@ -75,7 +75,7 @@ As we mentioned before, there are some risks that come along with feeding spring
 
 For this reason, it is crucial to only give your goat a small amount of spring mix at a time.
 
-On top of that, the spring mix does contain a fair amount of moisture. This can be an issue for goats, as they are prone to developing bloat.
+It's also worth noting that the spring mix does contain a fair amount of moisture. This can be an issue for goats, as they are prone to developing bloat.
 
 Bloat is a condition that occurs when the stomach fills with gas, and it can be very dangerous.
 

@@ -55,13 +55,13 @@ Also, make sure to get whole milk rather than skimmed as puppies need the calori
 
 [Goat milk](/can-goat-milk-cause-acne/) is a nutrient-rich liquid that is typically consumed by puppies and other young animals. It contains high levels of protein, vitamins, fatty acids, and minerals, which can support growth and development and promote health.
 
-On top of that, [goat milk](/can-goat-milk-reduce-wrinkles/) can help to calm upset stomachs in puppies due to its antifungal properties. Furthermore, recent research suggests that [goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) may also have beneficial effects on the skin and coat of pups.
+It's also worth noting that [goat milk](/can-goat-milk-reduce-wrinkles/) can help to calm upset stomachs in puppies due to its antifungal properties. Furthermore, recent research suggests that [goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) may also have beneficial effects on the skin and coat of pups.
 
 Overall, goat milk is an important ingredient in any puppy's diet, providing much-needed nutrients while also helping to keep their digestive system functioning optimally. So if you're wondering how to give your silly pup the best care possible, look no further than [goat milk](/can-i-put-safeguard-in-my-goats-milk/).
 
 ## How is goat milk different from cow's milk?
 
-[Goat milk and cow milk](/can-goats-drink-cows-milk/) might look similar, but they differ in a number of key ways. To begin with, [goat milk is higher in protein](/can-i-mix-goat-milk-with-whey-protein/), calcium, and vitamin C than cow milk, which makes it a healthier choice for people who are trying to maintain a balanced diet.
+Goat milk and cow milk might look similar, but they differ in a number of key ways. To begin with, [goat milk is higher in protein](/can-i-mix-goat-milk-with-whey-protein/), calcium, and vitamin C than cow milk, which makes it a healthier choice for people who are trying to maintain a balanced diet.
 
 In addition, goat milk has a slightly sweet flavor that may appeal to those who prefer a milder flavor profile in their milk.
 

@@ -57,7 +57,7 @@ They can eat a variety of things, including grass, hay, vegetables, fruit, and e
 
 Of course, you should always consult with a goat expert before making any changes to your goat's diet. They will be able to give you the best advice for your specific situation.
 
-Overall, goats can eat potato shavings without any problems. Despite that, you should not give them too much and you should make sure that the potato shavings are fresh.
+Overall, goats can eat potato shavings without any problems. Then again, you should not give them too much and you should make sure that the potato shavings are fresh.
 
 If you have any questions about your goat's diet, you should consult with a goat expert.
 
@@ -69,7 +69,7 @@ The second chamber, the reticulum, filters out large pieces of undigested food. 
 
 The fourth chamber, the abomasum, is where digestion occurs.
 
-This unique stomach system [allows goats to digest food](/can-goats-digest-cotton/) that other animals cannot, such as potato shavings. On top of that, [goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/) due to their strong digestive system and lack of taste buds.
+This unique stomach system [allows goats to digest food](/can-goats-digest-cotton/) that other animals cannot, such as potato shavings. It's also worth noting that [goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/) due to their strong digestive system and lack of taste buds.
 
 This makes them ideal for clearing brush and overgrown areas. Consequently, goats are often used for landscaping purposes.
 
@@ -77,7 +77,7 @@ This makes them ideal for clearing brush and overgrown areas. Consequently, goat
 
 Potato shavings are an excellent source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/). They are high in fiber and protein, and they also contain a variety of vitamins and minerals.
 
-Goats that eat potato shavings are less likely to experience gastrointestinal problems, and they are also [more likely to gain weight and produce milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/). On top of that, potato shavings can help to prevent parasites from infesting goats.
+Goats that eat potato shavings are less likely to experience gastrointestinal problems, and they are also [more likely to gain weight and produce milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/). Similarly, potato shavings can help to prevent parasites from infesting goats.
 
 Parasites can cause severe health problems in goats, so preventing them is essential. Potato shavings can also be used as bedding for goats.
 
@@ -97,7 +97,7 @@ Lastly, potato shavings may contain harmful bacteria that can make [goats sick](
 
 There is no definitive answer to this question since every goat is different. However, it is generally recommended that [goats only eat a small number of potato](/can-goats-eat-potatoes/) shavings at a time.
 
-If you are unsure how much your [goat should be eating](/can-goats-eat-carrots/), you should consult with a veterinarian or other goat expert. They will be able to give you specific advice for your situation.
+If you are unsure how much your [goat should be eating](/can-goats-eat-carrots/), you should consult with a veterinarian or other veterinarian. They will be able to give you specific advice for your situation.
 
 When [feeding goats](/can-a-goat-feed-quads/) potato shavings, it is also important to make sure that the shavings are fresh. Old or moldy shavings could make goats sick, so it is best to avoid them.
 

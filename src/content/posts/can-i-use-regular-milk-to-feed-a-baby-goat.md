@@ -50,7 +50,7 @@ In this article, we will answer those questions about feeding baby goats regular
 
 If you are feeding raw milk, make sure to heat it to at least 160 degrees Fahrenheit for at least two minutes to kill any harmful bacteria.
 
-Despite that, there are some risks associated with feeding [baby goats](/can-baby-goats-have-any-electrolytes/) milk, so it's important to consult with a veterinarian before you start.
+Keep in mind, there are some risks associated with feeding [baby goats](/can-baby-goats-have-any-electrolytes/) milk, so it's important to consult with a veterinarian before you start.
 
 ## What is regular milk and why is it used to feed baby goats?
 
@@ -70,7 +70,7 @@ For one, using regular milk allows baby goats to get more of the nutrients they 
 
 By skipping the formula and going straight to regular milk, baby goats are also able to establish a [healthy gut microbiome](/can-goats-drink-vinegar/) more quickly, which in turn helps them better digest and absorb the nutrients in their food.
 
-Also, since [goat milk contains fatter than regular cow's milk](/can-goats-drink-cows-milk/), it can be tough for young goats to metabolize.
+Also, since goat milk contains fatter than regular cow's milk, it can be tough for young goats to metabolize.
 
 Feeding them regular milk helps ensure that they get the energy they need without putting too much stress on their systems.
 
@@ -84,7 +84,7 @@ Some sources suggest that up to 8 ounces per feeding may be appropriate, while o
 
 Ultimately, it will depend on the individual goat's needs and the particular stage of development that it is going through. Some factors that can affect milk intake include age, size, and overall health.
 
-It is essential to be vigilant of your [baby goat's digestive issues](/can-goats-digest-cigarettes/) or food allergies as these will probably affect the amount and type of milk that best meets its nutritional requirements.
+It is essential to be vigilant of your baby goat's digestive issues or food allergies as these will probably affect the amount and type of milk that best meets its nutritional requirements.
 
 Ultimately, when determining the right amount of milk to feed your baby goat on a daily basis, it is best to consult with an experienced veterinarian or animal care professional who can provide personalized recommendations based on your specific situation.
 
@@ -114,9 +114,9 @@ It is essential to vigilantly monitor the [diet of baby goats](/can-i-give-powde
 
 There are a few important things that you can do to ensure that your baby goat is getting all of the nutrients they need while being fed regular milk instead of goat milk formula.
 
-The first step is to make sure that you are feeding your [baby goat](/can-baby-goats-be-house-trained/) high-quality, fresh milk. Ideally, this should be raw or only minimally [pasteurized milk](/can-goats-drink-cows-milk/) from grass-fed animals, as these types of kinds of milk will contain the most nutrients and healthy fats.
+The first step is to make sure that you are feeding your [baby goat](/can-baby-goats-be-house-trained/) high-quality, fresh milk. Ideally, this should be raw or only minimally pasteurized milk from grass-fed animals, as these types of kinds of milk will contain the most nutrients and healthy fats.
 
-On top of that, you should pay close attention to any nutritional supplements that you may need to give your [baby goats](/can-i-give-baby-aspirin-to-my-baby-goat/), such as probiotics or vitamins.
+Similarly, you should pay close attention to any nutritional supplements that you may need to give your [baby goats](/can-i-give-baby-aspirin-to-my-baby-goat/), such as probiotics or vitamins.
 
 Taking these steps will help ensure that your baby goat gets all the nutrition they need and grow up into a healthy, happy animal.
 
@@ -126,7 +126,7 @@ If you are unable to find goat milk formula, there are a few alternative milk so
 
 However, it is important to note that these alternative milk sources may not contain all of the nutrients that your [baby goat needs](/can-a-toddler-catch-a-disease-from-a-baby-goat/), so you will need to supplement their diet accordingly.
 
-On top of that, it is important to exercise caution when feeding [baby goats milk](/can-a-baby-have-powdered-goats-milk/) from other animals, as there is a risk of digestive upset or other negative side effects.
+Plus, it is important to exercise caution when feeding [baby goats milk](/can-a-baby-have-powdered-goats-milk/) from other animals, as there is a risk of digestive upset or other negative side effects.
 
 If you have any questions or concerns about [alternative milk sources for baby goats](/can-baby-kittens-drink-goats-milk/), be sure to consult with a veterinarian or animal care professional for guidance.
 

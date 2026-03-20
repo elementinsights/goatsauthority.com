@@ -48,7 +48,7 @@ In this article, we will answer all of your questions about goats and dogs. And 
 
 ## Can goats and dogs be friends?
 
-Despite that, it's important to keep in mind that goats are prey animals and dogs are predators. So, there's always the potential for the [dog to see the goat as food](/can-goats-eat-dog-food/).
+Even so, it's important to keep in mind that goats are prey animals and dogs are predators. So, there's always the potential for the [dog to see the goat as food](/can-goats-eat-dog-food/).
 
 This is why it's so important to introduce them slowly and make sure that the dog is [well-trained](/can-goats-be-tamed/).
 
@@ -66,7 +66,7 @@ If you have pets, it's crucial to introduce them to each other slowly and carefu
 
 Once they seem comfortable with this, you can try letting them meet face to face, Despite that be sure to supervise closely. If either animal seems uncomfortable or [aggressive](/can-an-aggressive-goat-be-fixed/), separate them and try again another day.
 
-With patience and gradual exposure, most pets will eventually learn to get along with each other. Despite that, some animals simply don't mix well, so it's crucial to pay attention to your pet's body language and be prepared to intervene if necessary.
+With patience and gradual exposure, most pets will eventually learn to get along with each other. Even so, some animals simply don't mix well, so it's crucial to pay attention to your pet's body language and be prepared to intervene if necessary.
 
 Ultimately, the best way to ensure that your pets get along is to provide each of them with plenty of love, attention, and exercise.
 
@@ -98,7 +98,7 @@ With patience and understanding, most [goats and dogs can learn](/can-goats-love
 
 There are a few [potential problems that could arise from having goats](/can-a-plastic-bag-hurt-a-goat/) and dogs be friends.
 
-First, if they spend too much time together, they may begin to form a strong bond and become attached to each other. This can make it difficult to separate them when necessary, such as during a goat expert visits or when one of them needs to be quarantined.
+First, if they spend too much time together, they may begin to form a strong bond and become attached to each other. This can make it difficult to separate them when necessary, such as during a veterinarian visits or when one of them needs to be quarantined.
 
 Second, if they are not introduced slowly and carefully, there's a risk of them fighting or hurting each other. You need to supervise closely and to be prepared to intervene if necessary.
 
@@ -118,7 +118,7 @@ They also enjoy spending time together, whether they're engaged in shared hobbie
 
 If goats and dogs stop getting along, the first step is to try to figure out what caused the problem. If they have been fighting, you need to separate them and provide each with their own space.
 
-It's also a good idea to consult with a goat expert or animal behaviorist to get some professional advice. They may be able to offer some helpful tips on how to get the [goats and dogs back on track](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/).
+It's also a good idea to consult with a veterinarian or animal behaviorist to get some professional advice. They may be able to offer some helpful tips on how to get the [goats and dogs back on track](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/).
 
 Finally, you need to be patient and to give them time to work things out. With some time and patience, most friendships can be repaired.
 

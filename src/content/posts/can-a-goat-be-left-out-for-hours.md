@@ -67,7 +67,7 @@ In general, goats can spend several hours outside without issue, but they should
 
 Goats are hardy creatures that can thrive in a variety of climates, but they still need shelter from the elements.
 
-Too much sun or wind can cause dehydration, while too much cold can lead to hypothermia. On top of that, goats are susceptible to predators such as coyotes, dogs, and [mountain lions](/can-a-fox-kill-a-goat/).
+Too much sun or wind can cause dehydration, while too much cold can lead to hypothermia. What's more, goats are susceptible to predators such as coyotes, dogs, and [mountain lions](/can-a-fox-kill-a-goat/).
 
 As a result, it's crucial to provide adequate shelter for your goats and to check on them regularly. If you must leave them unattended for a period of time, be sure to provide plenty of food and water and make sure their shelter is secure.
 
@@ -79,7 +79,7 @@ A common mistake that people make when keeping goats is leaving them out for too
 
 If they are left alone for extended periods of time, they can become extremely stressed, which can lead to health problems.
 
-On top of that, goats are very curious creatures and will often explore anything new that they come across. This can lead to them getting stuck in [fencing or other enclosure](/can-goats-be-tethered/), which can be dangerous if not addressed in a timely manner.
+What's more, goats are very curious creatures and will often explore anything new that they come across. This can lead to them getting stuck in [fencing or other enclosure](/can-goats-be-tethered/), which can be dangerous if not addressed in a timely manner.
 
 Therefore, it's crucial to check on your goats regularly and make sure that they are not being left alone for too long. By doing so, you can help to prevent stress and keep your goats healthy and happy.
 
@@ -89,7 +89,7 @@ Goats are relatively low-maintenance animals, but they still require some care a
 
 As mentioned before, goats need access to shelter, food, and water. They also need to be vaccinated against common diseases such as rabies, chlamydia, and tetanus.
 
-On top of that, goats should be groomed regularly to remove dirt, debris, and parasites. Grooming also helps to prevent mats and tangles from forming in their fur.
+Beyond that, goats should be groomed regularly to remove dirt, debris, and parasites. Grooming also helps to prevent mats and tangles from forming in their fur.
 
 Finally, goats need their hooves trimmed every few months to prevent overgrowth. By providing proper care and attention, you can help your goat stay healthy and happy.
 
@@ -125,7 +125,7 @@ On the plus side, [goats are relatively low-maintenance animals that provide mil
 
 In addition, goats are social creatures that enjoy companionship.
 
-Despite that, there are also some drawbacks to owning a goat. Goats require a significant amount of space, and they can be destructive if not properly supervised.
+At the same time, there are also some drawbacks to owning a goat. Goats require a significant amount of space, and they can be destructive if not properly supervised.
 
 They also need access to shelter, food, and water. Lastly, [goats are susceptible to several diseases](/can-goats-bite/) and parasites.
 

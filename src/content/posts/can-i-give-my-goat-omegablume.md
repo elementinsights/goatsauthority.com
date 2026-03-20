@@ -49,7 +49,7 @@ We'll also give you some helpful tips on how to incorporate Omegablumeinto your 
 
 ## Can I give my goat Omegablume?
 
-In addition to its nutritional benefits, Omegablume is also a great natural dewormer. It can help get rid of parasites in your [goats' digestive system](/can-goats-digest-cigarettes/) and improve their gut health.
+In addition to its nutritional benefits, Omegablume is also a great natural dewormer. It can help get rid of parasites in your goats' digestive system and improve their gut health.
 
 So, if you're looking for a way to improve your goats' health, then giving them Omegablume is a great option.
 
@@ -57,7 +57,7 @@ So, if you're looking for a way to improve your goats' health, then giving them 
 
 Omegablume is a special supplement that is specifically designed to meet the unique [nutritional needs of goats](/can-i-use-regular-milk-to-feed-a-baby-goat/). It is a 100% natural and organic formula that contains a high concentration of Omega-3 fatty acids, which are essential for optimal growth and [development in goats](/can-old-goats-develop-rickets/).
 
-On top of that, it also contains other key nutrients like protein, probiotics, vitamins, and minerals, all of which help to support immune function, digestive health, and overall well-being in goats.
+Plus, it also contains other key nutrients like protein, probiotics, vitamins, and minerals, all of which help to support immune function, digestive health, and overall well-being in goats.
 
 Thanks to its high-quality ingredients and advanced formulation, Omegablume is one of the most popular supplements for goats on the market today.
 

@@ -53,13 +53,13 @@ We will respond to these questions and provide you with a general overview of th
 
 ## Can goats eat straw?
 
-Despite that, it's important to remember that straw is not a substitute for fresh [hay](/can-goats-eat-timothy-hay/), which should always be the mainstay of a goat's diet. When used as part of a balanced diet straw can be an important nutritional supplement for goats.
+Keep in mind, it's important to remember that straw is not a substitute for fresh [hay](/can-goats-eat-timothy-hay/), which should always be the mainstay of a goat's diet. When used as part of a balanced diet straw can be an important nutritional supplement for goats.
 
 ## Can a pregnant goat eat straw?
 
 A pregnant goat can eat straw if it's properly processed. Goats are able to digest cellulose, which is the main component of plant cell walls.
 
-As a result, they are able to extract nutrients from [plants](/can-goats-eat-any-plant/) that other animals cannot digest. Despite that, goats are also very sensitive to changes in their diet, so you need to introduce new foods gradually.
+As a result, they are able to extract nutrients from [plants](/can-goats-eat-any-plant/) that other animals cannot digest. Still, goats are also very sensitive to changes in their diet, so you need to introduce new foods gradually.
 
 If a pregnant goat eats too much straw at once, she may experience digestive problems. In severe cases, this can lead to abortion or stillbirth.
 

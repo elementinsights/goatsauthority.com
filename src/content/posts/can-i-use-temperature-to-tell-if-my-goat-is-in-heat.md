@@ -48,7 +48,7 @@ In this article, we will answer those questions and provide you with additional 
 
 In addition to taking your goat's temperature, you will also need to be on the lookout for other [signs and symptoms](/can-a-goat-get-rabies/) of heatstroke. These can include changes in behavior, such as restlessness, increased appetite, and excessive urination.
 
-If you notice any of these signs, it is best to consult with a goat expert to confirm that your goat is indeed in heat.
+If you notice any of these signs, it is best to consult with a veterinarian to confirm that your goat is indeed in heat.
 
 ## What is the average temperature range for goats in heat?
 
@@ -66,11 +66,11 @@ Ultimately, keeping these animals comfortable and healthy in their natural envir
 
 There are several definitive indicators that a goat is ready to mate. These include increased vocalization and movement toward other animals, visibly swollen or red genitals, and unusual sexual interest or [aggression directed at other goats](/can-an-aggressive-goat-be-fixed/).
 
-On top of that, [female goats](/can-a-female-goat-produce-milk-without-being-pregnant/) may experience changes in appetite, mood, and physical appearance during this time. For example, they may become more inquisitive and playful as well as more sensitive to touch and scent.
+It's also worth noting that [female goats](/can-a-female-goat-produce-milk-without-being-pregnant/) may experience changes in appetite, mood, and physical appearance during this time. For example, they may become more inquisitive and playful as well as more sensitive to touch and scent.
 
 Given these various indicators, it is usually fairly easy for goat owners to tell when their animals are in heat and ready to breed.
 
-Of course, in order to maximize fertility and conception rates, it is crucial to work with a trusted [goat expert or another livestock specialist who can recommend the best breeding practices](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) for each individual animal.
+Of course, in order to maximize fertility and conception rates, it is crucial to work with a trusted [veterinarian or another livestock specialist who can recommend the best breeding practices](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) for each individual animal.
 
 Nevertheless, recognizing the signs of heat can be an important first step in ensuring successful reproduction among goats.
 
@@ -80,7 +80,7 @@ There are always risks associated with breeding any animal, including goats. Som
 
 However, these risks can be minimized by working with a qualified goat expert or another livestock specialist who can help you to choose the safest and most effective breeding practices for your particular goats.
 
-It is essential to know the [signs and symptoms of common goat diseases](/can-a-goat-bag-up-without-being-pregnant/) and how to avoid them. By being cautious, you can protect your goats as well as future generations.
+It is essential to know the signs and symptoms of common goat diseases and how to avoid them. By being cautious, you can protect your goats as well as future generations.
 
 ## How can you tell if your goat is pregnant or not, based on temperature changes alone?
 

@@ -7,7 +7,7 @@ import { siteConfig } from '../../site.config';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
-const latestPosts = allPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 10);
+const latestPosts = allPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 20);
 
 // Resolve category slugs to display names
 const catNameMap: Record<string, string> = {};
@@ -182,11 +182,11 @@ const schema = [
           <div class="latest-header">
             <h2 class="latest-title">Latest Articles</h2>
           </div>
-          {latestPosts.slice(0, 5).map(post => (
-            <div class="post-card animate-on-scroll">
+          {latestPosts.map((post, i) => (
+            <div class={`post-card animate-on-scroll${i >= 5 ? ' hidden-card' : ''}`}>
               {post.data.image && (
                 <a href={`/${post.id}/`} class="post-card-img">
-                  <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="240" height="160" />
+                  <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading={i < 2 ? 'eager' : 'lazy'} width="240" height="160" />
                 </a>
               )}
               <div class="post-card-body">
@@ -207,9 +207,11 @@ const schema = [
               </div>
             </div>
           ))}
-          <div class="load-more-wrap">
-            <a href={`/category/${siteConfig.categories[0].slug}/`} class="load-more-btn">Load More Articles</a>
-          </div>
+          {latestPosts.length > 5 && (
+            <div class="load-more-wrap">
+              <button class="load-more-btn" id="home-load-more">Load More Articles</button>
+            </div>
+          )}
         </div>
 
         <aside class="sidebar">
@@ -259,6 +261,24 @@ const schema = [
       </div>
     </section>
   )}
+
+<script is:inline>
+(function() {
+  var btn = document.getElementById('home-load-more');
+  if (!btn) return;
+  var BATCH = 5;
+  btn.addEventListener('click', function() {
+    var hidden = document.querySelectorAll('.latest-main .hidden-card');
+    var count = 0;
+    for (var i = 0; i < hidden.length && count < BATCH; i++, count++) {
+      hidden[i].classList.remove('hidden-card');
+    }
+    if (document.querySelectorAll('.latest-main .hidden-card').length === 0) {
+      btn.style.display = 'none';
+    }
+  });
+})();
+</script>
 </BaseLayout>
 
 <style>
@@ -756,6 +776,7 @@ const schema = [
   /* ============================================================
      LOAD MORE
      ============================================================ */
+  .hidden-card { display: none; }
   .load-more-wrap { text-align: center; margin-top: 30px; }
   .load-more-btn {
     display: inline-block;

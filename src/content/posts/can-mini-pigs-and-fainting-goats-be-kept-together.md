@@ -84,7 +84,7 @@ Once you have established an appropriate feeding plan for your mini pigs and fai
 
 This can include both [indoor and outdoor areas](/can-a-goat-live-in-a-house/) so that they can exercise regularly, access shade during warm weather, and seek shelter during inclement weather conditions.
 
-On top of that, you may wish to consider using temporary [fencing or barriers](/can-goats-climb-fences/) in order to reduce tension between competing individuals or groups of animals.
+What's more, you may wish to consider using temporary [fencing or barriers](/can-goats-climb-fences/) in order to reduce tension between competing individuals or groups of animals.
 
 Ultimately, with a bit of thoughtful planning and regular maintenance, it is possible to care for mini pigs and fainting goats with minimal fuss and disruption on your farm or property.
 
@@ -94,7 +94,7 @@ When considering whether or not to keep mini pigs and fainting goats together on
 
 For one, these types of animals tend to have very similar needs in terms of living conditions and care, which makes it easier to provide for them if they are kept together.
 
-On top of that, their complementary roles on farms can also make them a great choice for owners who want to maximize their farm's productivity.
+Beyond that, their complementary roles on farms can also make them a great choice for owners who want to maximize their farm's productivity.
 
 For example, fainting goats are excellent at [controlling weeds](/can-goat-poop-be-used-as-fertilizer/) and keeping pests under control in grazing pastures, while mini pigs are excellent at rooting up soil and collecting fallen fruit and nuts.
 

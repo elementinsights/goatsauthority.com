@@ -50,7 +50,7 @@ In this article, we will explore the answer to those questions and provide you w
 
 In addition to being able to digest the thorns, goats are also able to extract nutrients from them. This is because goats are able to break down cellulose, which is a type of plant fiber.
 
-Despite that, it is important to note that [goats should not eat too many thorns](/can-a-goat-eat-sticker-bushes/). This is because the thorns can cause stomach and intestinal irritation.
+Of course, it is important to note that [goats should not eat too many thorns](/can-a-goat-eat-sticker-bushes/). This is because the thorns can cause stomach and intestinal irritation.
 
 If a goat eats too many thorns, it may experience vomiting or diarrhea.
 
@@ -62,7 +62,7 @@ Goats are browsers, which means that they naturally eat a variety of plants and 
 
 Goats can quickly strip a tree of its thorns, leaving the branches smooth and safe to handle.
 
-On top of that, [goats' digestive systems](/can-goats-digest-anything/) are able to break down the thorns, which prevents them from regrowing. As a result, goats can be an effective means of control for thorny trees.
+It's also worth noting that [goats' digestive systems](/can-goats-digest-anything/) are able to break down the thorns, which prevents them from regrowing. As a result, goats can be an effective means of control for thorny trees.
 
 In addition to their browsing habits, goats also offer other benefits to citrus trees.
 
@@ -94,11 +94,11 @@ Finally, goats need to be supervised when around citrus trees. They should never
 
 If you have citrus trees on your property, you may be wondering if it's okay to let your goats eat the branches.
 
-After all, [citrus fruits](/can-goats-eat-citrus-fruits/) are known to be a good source of Vitamin C. Despite that, there are a few [things you should keep in mind before letting your goats munch](/can-a-dog-get-sick-from-a-goat/) on citrus branches.
+After all, [citrus fruits](/can-goats-eat-citrus-fruits/) are known to be a good source of Vitamin C. That said, there are a few [things you should keep in mind before letting your goats munch](/can-a-dog-get-sick-from-a-goat/) on citrus branches.
 
 First of all, the leaves and twigs of citrus trees can be quite sharp, so it's important to make sure that your goats have access to plenty of fresh, clean water. Sharp edges can damage a goat's mouth and tongue, so it's important to monitor their intake of citrus branches.
 
-On top of that, the excessive consumption of citrus can lead to diarrhea and other [digestive issues in goats](/can-goats-digest-cigarettes/). As such, it's important to limit their intake of citrus branches and provide them with plenty of hay and other fresh vegetables as well.
+Also, the excessive consumption of citrus can lead to diarrhea and other digestive issues in goats. As such, it's important to limit their intake of citrus branches and provide them with plenty of hay and other fresh vegetables as well.
 
 With a little care and moderation, your goats can enjoy the occasional snack on citrus branches without any problems.
 
@@ -112,7 +112,7 @@ Therefore, a 200-pound [Goat could theoretically eat 133 pounds of food](/can-sh
 
 The best time to feed goats citrus tree branches is in the early morning or late evening when the temperature is cooler. Goats are more likely to eat in cooler temperatures as they are less active and have a slower metabolism.
 
-On top of that, feeding them in the early morning or late evening will help to avoid any digestive issues that may occur from eating too much citrus.
+Additionally, feeding them in the early morning or late evening will help to avoid any digestive issues that may occur from eating too much citrus.
 
 Lastly, it's important to make sure that the branches you're feeding them are clean and free of any pesticides or herbicides.
 
@@ -120,7 +120,7 @@ Lastly, it's important to make sure that the branches you're feeding them are cl
 
 Citrus tree branches can also be used as bedding for goats. The leaves and twigs of the branches will provide a soft, comfortable surface for them to sleep on.
 
-On top of that, the branches can be used to build fences or [pens for goats](/can-a-goat-pen-have-pine-trees-in-it/). The thorns on the branches can help to keep predators out and the goats in.
+It's also worth noting that the branches can be used to build fences or [pens for goats](/can-a-goat-pen-have-pine-trees-in-it/). The thorns on the branches can help to keep predators out and the goats in.
 
 On top of feeding and bedding, citrus tree branches can also be used for crafts. The leaves and twigs can be used to make wreaths or garlands.
 

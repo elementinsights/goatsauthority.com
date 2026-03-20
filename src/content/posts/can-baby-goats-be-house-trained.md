@@ -58,7 +58,7 @@ Whether or not all [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other
 
 Younger [goats are typically easier to train than older ones](/can-i-mix-newborn-goats-and-older-goats/), and some breeds are more receptive to training than others.
 
-For example, [Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) are known for being intelligent and docile, making them relatively easy to train.
+For example, Pygmy goats are known for being intelligent and docile, making them relatively easy to train.
 
 In contrast, Alpine goats are more independent and willful and may require more patience and effort to train.
 

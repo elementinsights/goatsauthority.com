@@ -83,7 +83,7 @@ Cedar trees are a source of food for goats and humans.
 
 Cedar trees are safe for baby goats to eat. The tree produces natural oil that repels insects, so it's a good choice for providing your goat with a natural insecticide.
 
-Cedar also has antifungal properties, so it can help keep your goat healthy and free from disease. On top of that, cedar trees are rich in nutrients, including Vitamin C, which is essential for goat health.
+Cedar also has antifungal properties, so it can help keep your goat healthy and free from disease. Plus, cedar trees are rich in nutrients, including Vitamin C, which is essential for goat health.
 
 So if you're looking for a safe, healthy tree for your baby goat to eat, cedar is a great choice.
 
@@ -91,11 +91,11 @@ So if you're looking for a safe, healthy tree for your baby goat to eat, cedar i
 
 A sick goat can eat cedar trees. Cedar trees are evergreens that provide goats with a source of food and shelter year-round.
 
-Goats are browsers and prefer to eat the [leaves and twigs](/can-goats-eat-maple-leaves/) of plants. Despite that, they will also eat the bark of trees if they are hungry enough.
+Goats are browsers and prefer to eat the [leaves and twigs](/can-goats-eat-maple-leaves/) of plants. Of course, they will also eat the bark of trees if they are hungry enough.
 
 While cedar trees are not the first choice for browse, they can provide essential nutrients for goats that are sick or recovering from an illness.
 
-On top of that, cedar trees can help goats to stay warm in [cold weather](/can-goats-eat-brush-in-winter/) and protect them from the elements. As a result, sick goats can benefit from eating cedar trees.
+What's more, cedar trees can help goats to stay warm in [cold weather](/can-goats-eat-brush-in-winter/) and protect them from the elements. As a result, sick goats can benefit from eating cedar trees.
 
 ## Do all goats eat cedar trees?
 
@@ -103,7 +103,7 @@ Not all goats eat cedar trees. Some goats may not like the taste of cedar trees.
 
 Other goats may be allergic to the tree. And some goats may simply not have access to cedar trees.
 
-Despite that, there are many benefits to goats that do eat cedar trees. As an outcome, it's often worth giving goats a chance to eat this type of tree.
+With that in mind, there are many benefits to goats that do eat cedar trees. As an outcome, it's often worth giving goats a chance to eat this type of tree.
 
 ## What is cedar and what are its benefits for goats?
 

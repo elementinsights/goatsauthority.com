@@ -48,7 +48,7 @@ In this article, we will address all of your questions about goats giving birth 
 
 ## Can a goat have babies a week apart?
 
-Despite that, it's generally not recommended to breed does more than once per year. This is because it can put a lot of strain on their bodies and may result in health problems.
+Then again, it's generally not recommended to breed does more than once per year. This is because it can put a lot of strain on their bodies and may result in health problems.
 
 ## How often do goats breed?
 
@@ -114,7 +114,7 @@ A goat can have babies more than once a year. In fact, many goats will have two 
 
 This is possible because goats are polyestrous, meaning that they can go into heat multiple times throughout the year.
 
-Despite that, the length of each [heat cycle varies depending on the breed of goat](/can-a-goat-get-pregnant-when-not-in-heat/) and the time of year.
+Of course, the length of each [heat cycle varies depending on the breed of goat](/can-a-goat-get-pregnant-when-not-in-heat/) and the time of year.
 
 For example, Alpine goats tend to have longer heat cycles during the winter months, while Saanen goats have shorter heat cycles all year round. As a result, it's important to consult with a veterinarian before breeding goats to ensure that they are able to produce healthy offspring.
 

@@ -75,7 +75,7 @@ Training your goat can be a rewarding experience. With a little patience and pos
 
 Here are a few tips to get you started.
 
-When [training your goat](/can-baby-goats-be-house-trained/), it's important to use positive reinforcement. This means rewarding your [goat for good behavior with treats or other forms](/can-a-goat-form-an-udder-without-being-pregnant/) of praise.
+When [training your goat](/can-baby-goats-be-house-trained/), it's important to use positive reinforcement. This means rewarding your goat for good behavior with treats or other forms of praise.
 
 goats are very food-motivated, so treats are often an effective way to encourage desired behaviors.
 
@@ -137,7 +137,7 @@ This unique morphology helps them to better see predators and forage for food. I
 
 This is due partly to their sharp hooves, which grip the ground like mountain climbing shoes. [Goats are also surprisingly strong and can carry heavy loads](/can-goats-carry-distemper/) for long distances.
 
-On top of that, in many parts of the world, they are used as pack animals to transport goods to market.
+It's also worth noting that in many parts of the world, they are used as pack animals to transport goods to market.
 
 So next time you see a goat, take a moment to appreciate all that these fascinating creatures have to offer.
 

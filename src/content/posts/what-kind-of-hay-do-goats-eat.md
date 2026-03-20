@@ -68,7 +68,7 @@ As a result, hay is an essential part of Goat care.
 
 ## Do all goats eat hay?
 
-All goats are herbivores, which means they only eat plant material. Despite that, not all goats eat hay.
+All goats are herbivores, which means they only eat plant material. Be aware, not all goats eat hay.
 
 Some goats may prefer other types of plants, such as grass or leaves. [Hay is a type of dried grass](/can-goats-eat-straw/) that is often fed to livestock.
 
@@ -84,7 +84,7 @@ You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help th
 
 Hay is an excellent source of nutrients and roughage, and it can help pregnant goats to maintain their body condition and improve the health of their kids.
 
-Despite that, it's important to choose good-quality hay and to avoid feeding too much, as this can lead to digestive problems. When feeding hay to pregnant goats, always offer fresh, clean water as well.
+With that in mind, it's important to choose good-quality hay and to avoid feeding too much, as this can lead to digestive problems. When feeding hay to pregnant goats, always offer fresh, clean water as well.
 
 ## Can you feed hay to baby goats?
 

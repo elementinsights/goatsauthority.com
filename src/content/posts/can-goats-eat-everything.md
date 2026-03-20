@@ -48,7 +48,7 @@ Everything you need to know about goats and their food will be covered in this a
 
 ## Can goats eat everything?
 
-Despite that, it's crucial to note that goats are known for their ability to eat almost anything due to their four-chambered stomachs. This digestive system allows them to break down plant matter more effectively than other animals, such as cows.
+At the same time, it's crucial to note that goats are known for their ability to eat almost anything due to their four-chambered stomachs. This digestive system allows them to break down plant matter more effectively than other animals, such as cows.
 
 ## What are the advantages of a goat's diet?
 
@@ -68,7 +68,7 @@ This can be a challenge in areas where browsing is scarce.
 
 Second, [goats that consume large quantities of browse may be at risk](/can-a-cdt-shot-kill-a-goat/) for developing painfulular thorns in their stomach or intestine.
 
-Finally, browse-heavy diets can sometimes lead to bloat, a condition in which the stomach fills with gas and becomes distended. While bloat is usually not fatal, it can be very uncomfortable for the animal and may require a goat expert treatment.
+Finally, browse-heavy diets can sometimes lead to bloat, a condition in which the stomach fills with gas and becomes distended. While bloat is usually not fatal, it can be very uncomfortable for the animal and may require a veterinarian treatment.
 
 ## What plants are edible for goats?
 
@@ -76,7 +76,7 @@ Goats are browsers, meaning that they like to eat a variety of plants. While mos
 
 For example, alfalfa and clover are good sources of protein and fiber, while dandelions and thistles provide important vitamins and minerals.
 
-On top of that, goats enjoy eating leaves, fruit, and even bark. When choosing plants for your goats, it's important to choose ones that are not poisonous and that will not cause digestive problems.
+What's more, goats enjoy eating leaves, fruit, and even bark. When choosing plants for your goats, it's important to choose ones that are not poisonous and that will not cause digestive problems.
 
 Some common edible plants for goats include grasses, weeds, herbs, and shrubs. Goats also like to eat hay, which is a dried form of grass that is often used as animal feed.
 

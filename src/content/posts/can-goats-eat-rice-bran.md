@@ -95,7 +95,7 @@ There are a few things to consider when deciding when to feed goats rice bran. F
 
 For this reason, many goat owners choose to feed their goats cooked rice bran.
 
-Despite that, goats can also consume [raw rice](/can-goats-eat-rice/) bran, and some owners find that their goats prefer it this way.
+Still, goats can also consume [raw rice](/can-goats-eat-rice/) bran, and some owners find that their goats prefer it this way.
 
 Another thing to keep in mind is that rice bran contains a high level of fat. As a result, it should be fed in moderation and should not make up more than 10% of a goat's diet.
 
@@ -111,9 +111,9 @@ If you're not sure how much to give them, it's always best to start with a small
 
 ## Are there any other options for feeding goats besides rice bran?
 
-There are other options for [feeding goats](/can-a-goat-feed-quads/). Despite that, rice bran is a perfectly healthy and nutritious option that many goat owners choose to feed their animals.
+There are other options for [feeding goats](/can-a-goat-feed-quads/). Still, rice bran is a perfectly healthy and nutritious option that many goat owners choose to feed their animals.
 
-Other options include things like [hay](/what-kind-of-hay-do-goats-eat/), grass, and grain. You can also talk to a goat expert about what other options might be available.
+Other options include things like [hay](/what-kind-of-hay-do-goats-eat/), grass, and grain. You can also talk to a veterinarian about what other options might be available.
 
 No matter what you decide to feed your goats, though, make sure that you're giving them the right amount of food based on their individual needs.
 
@@ -129,7 +129,7 @@ Goats can rice bran as part of a healthy and nutritious diet. However, there are
 
 You should also make sure that your goats have plenty of water available when they're eating rice bran to prevent constipation.
 
-When feeding goats rice bran, it's generally best to start with a smaller amount and then increase it if necessary. You can also talk to a goat expert for more specific recommendations.
+When feeding goats rice bran, it's generally best to start with a smaller amount and then increase it if necessary. You can also talk to a veterinarian for more specific recommendations.
 
 Overall, goats can safely eat rice bran as part of a healthy diet. Just make sure that you're aware of the potential risks and benefits, and that you're feeding them the right amount.
 

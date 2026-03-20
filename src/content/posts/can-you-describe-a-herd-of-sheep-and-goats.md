@@ -68,7 +68,7 @@ A typical herd usually consists of between 10 and 100 animals, although some her
 
 The rest of the herd members will typically be made up of females and their young offspring. While sheep and goats are often kept together in a herd, they do have some differences.
 
-Sheep are generally larger and have thicker wool coats, while goats are sleeker and have [longer horns](/can-i-remove-my-goat-full-grown-horns/). Despite that, both animals are social creatures that prefer to live in groups.
+Sheep are generally larger and have thicker wool coats, while goats are sleeker and have [longer horns](/can-i-remove-my-goat-full-grown-horns/). Then again, both animals are social creatures that prefer to live in groups.
 
 By living in a herd, sheep and goats can benefit from mutual protection against predators and the elements.
 
@@ -86,7 +86,7 @@ Both sheep and goats play an important role in the ecosystem by eating plants th
 
 Sheep and goats are often kept together, but they are actually two different species. Both are members of the Bovidae family, which includes animals such as cows, buffalo, and antelope.
 
-Despite that, sheep are more closely related to deer, and goats are more closely related to cows. Though they share some similarities, there are also some important differences between these two animals.
+Then again, sheep are more closely related to deer, and goats are more closely related to cows. Though they share some similarities, there are also some important differences between these two animals.
 
 For example, sheep are grazers and goats are browsers.
 

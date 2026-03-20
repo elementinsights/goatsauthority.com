@@ -54,7 +54,7 @@ However, it's important to note that peanuts are a [high-fat food](/can-goats-ea
 
 It's generally safe for pregnant goats to eat peanuts. Peanuts are a good source of [protein](/can-goats-eat-lentils/), fat, and essential vitamins and minerals, which can help support a healthy pregnancy.
 
-Despite that, it's crucial to feed peanuts in moderation. Like all high-fat foods, they can cause digestive problems if goats eat too much.
+At the same time, it's crucial to feed peanuts in moderation. Like all high-fat foods, they can cause digestive problems if goats eat too much.
 
 Peanuts can also be a choking hazard, so make sure your goat is able to chew them properly before feeding them.
 
@@ -72,9 +72,9 @@ Goats are known for their nibbling habits. They will pretty much eat anything th
 
 While goats can technically eat peanut shells, that does not mean that it's good for them.
 
-Peanut shells are hard and [difficult to digest](/can-goats-digest-anything/), and they can cause digestive problems for goats. On top of that, peanut shells can be a choking hazard, so it's best to avoid giving them to your goat.
+Peanut shells are hard and [difficult to digest](/can-goats-digest-anything/), and they can cause digestive problems for goats. Also, peanut shells can be a choking hazard, so it's best to avoid giving them to your goat.
 
-If you have a goat that is particularly fond of peanut shells, you can give them a small amount as a treat. Despite that, it's important to monitor their intake and make sure that they do not eat too much.
+If you have a goat that is particularly fond of peanut shells, you can give them a small amount as a treat. Keep in mind, it's important to monitor their intake and make sure that they do not eat too much.
 
 When in doubt, it's always best to err on the side of caution when feeding your goat.
 

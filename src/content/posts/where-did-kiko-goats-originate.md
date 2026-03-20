@@ -114,7 +114,7 @@ Whether you're looking to own a few goats as pets or start a larger farm operati
 
 There are a number of [potential risks associated with owning Kiko goats](/can-a-plastic-bag-hurt-a-goat/), the most significant of which is their tendency to be aggressive. These goats are known for being assertive and strong-willed, and as a result, they require careful handling in order to prevent injuries.
 
-On top of that, Kiko goats may exhibit territorial behavior, sometimes attacking other animals or people that enter their space.
+Plus, Kiko goats may exhibit territorial behavior, sometimes attacking other animals or people that enter their space.
 
 In order to mitigate these risks, it is important for owners to provide a safe environment for their goats, adequately fencing off enclosures and providing training to help them become accustomed to human interaction.
 

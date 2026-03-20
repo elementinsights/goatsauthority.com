@@ -59,11 +59,11 @@ If you have a lot of goats, you might also want to consider building a fence aro
 
 Goat urine is a liquid waste product excreted by goats. It's typically clear or slightly yellow in color and has a strong, pungent odor.
 
-Goat urine contains high levels of nitrogen, phosphorus, and potassium, making it an excellent fertilizer for plants. On top of that, goat urine helps to promote healthy microbial activity in the soil, which can improve plant growth.
+Goat urine contains high levels of nitrogen, phosphorus, and potassium, making it an excellent fertilizer for plants. Another thing to note is goat urine helps to promote healthy microbial activity in the soil, which can improve plant growth.
 
 Although goat urine can be beneficial to plants, it should be used sparingly as too much can burn and damage vegetation. When using goat urine as a fertilizer, you need to dilute it with water to reduce its concentration.
 
-On top of that, [goat urine should never be allowed to come into direct contact with plant leaves](/can-contact-with-goats-cause-diarrhea-in-humans/) as this could cause them to wilt and die.
+Similarly, [goat urine should never be allowed to come into direct contact with plant leaves](/can-contact-with-goats-cause-diarrhea-in-humans/) as this could cause them to wilt and die.
 
 ## How to use goat urine as a fertilizer?
 
@@ -83,7 +83,7 @@ Goat urine is rich in nitrogen, which is an essential nutrient for plants. But, 
 
 It can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
 
-On top of that, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
+Also, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
 Appropriately, you [need to use goat urine sparingly on trees](/can-a-goat-climb-trees/) and to avoid using it near waterways.
 
@@ -99,7 +99,7 @@ Additionally, you should have your trees inspected by a certified arborist every
 
 Goats are another important part of many ecosystems. They are browsers, which means that they eat a variety of plants, including grasses, shrubs, and [tree leaves](/can-goats-eat-gum-tree-leaves/).
 
-This helps to keep vegetation regrowth in check and prevents overgrazing. On top of that, goats’ manure is a rich source of nutrients that can help to fertilize the soil.
+This helps to keep vegetation regrowth in check and prevents overgrazing. Additionally, goats’ manure is a rich source of nutrients that can help to fertilize the soil.
 
 To keep your goats healthy and safe, you need to provide them with plenty of fresh water and adequate shelter from the elements. Additionally, you should have them vaccinated against common diseases such as rabies and tetanus.
 
@@ -109,7 +109,7 @@ Goat urine can also be used as a pesticide. It contains high levels of ammonia, 
 
 When diluted with water, it can be sprayed on plants to kill bugs.
 
-You need to take note that this method should only be used as a last resort, as it can also kill beneficial insects. On top of that, goat urine can also be used to make biogas.
+You need to take note that this method should only be used as a last resort, as it can also kill beneficial insects. Another thing to note is goat urine can also be used to make biogas.
 
 Biogas is a type of renewable energy that can be used to power homes and businesses. It's made by breaking down organic matter, such as manure, in the absence of oxygen.
 

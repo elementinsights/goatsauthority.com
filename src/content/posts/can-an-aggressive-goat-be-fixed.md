@@ -50,7 +50,7 @@ In these cases, the best you can do is manage the aggression and try to make you
 
 ## What breed of goats are known for being aggressive?
 
-Some breeds of goats, such as the Alpine breed, are known for being more aggressive than others. Despite that, any goat can become aggressive if it'sn't properly socialized or if it feels threatened.
+Some breeds of goats, such as the Alpine breed, are known for being more aggressive than others. With that in mind, any goat can become aggressive if it'sn't properly socialized or if it feels threatened.
 
 If you're concerned about aggression in your goat, it's crucial to keep an eye on its behavior and to correct any aggressive behaviors immediately.
 

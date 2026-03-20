@@ -49,7 +49,7 @@ In this article, we will answer all of your questions about keeping goats and du
 
 ## Can ducks and goats coexist?
 
-Despite that, it's important to keep in mind that goats and ducks are different animals with different needs. Goats are browsers and prefer to eat leaves, twigs, and other vegetation.
+Of course, it's important to keep in mind that goats and ducks are different animals with different needs. Goats are browsers and prefer to eat leaves, twigs, and other vegetation.
 
 Ducks are grazers and prefer to eat grass and other ground plants. As a result, you will need to provide each type of animal with its own food and water sources.
 

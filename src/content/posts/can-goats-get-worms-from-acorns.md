@@ -47,9 +47,9 @@ In this article, we will answer the question, can goats get worms from acorns. W
 
 ## Can goats get worms from acorns?
 
-On top of that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when [goats were fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) a diet of 80% acorns, they did not develop any parasites.
+Beyond that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when [goats were fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) a diet of 80% acorns, they did not develop any parasites.
 
-So, if your [goat is eating acorns](/can-postpartum-women-eat-goats/), there is no need to worry about them getting worms. But, you should still consult with a goat expert to make sure that your goat
+So, if your [goat is eating acorns](/can-postpartum-women-eat-goats/), there is no need to worry about them getting worms. But, you should still consult with a veterinarian to make sure that your goat
 
 ## What do goats eat, and why they might be interested in acorns?
 
@@ -77,7 +77,7 @@ Tannins are also unpalatable to goats and other animals, so they are less likely
 
 ## How many acorns should a goat eat per day?
 
-There is no set amount of acorns that a [goat should eat](/can-a-goat-eat-sticker-bushes/) per day. However, you should consult with a goat expert to make sure that your goat is getting enough to meet their nutritional needs.
+There is no set amount of acorns that a [goat should eat](/can-a-goat-eat-sticker-bushes/) per day. However, you should consult with a veterinarian to make sure that your goat is getting enough to meet their nutritional needs.
 
 In general, goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage.
 
@@ -91,15 +91,15 @@ Goats are susceptible to a variety of worm infections, which can cause symptoms 
 
 There are several types of worms that commonly infect goats, including roundworms, tapeworms, and liver flukes. An animal may be infected with one or more types of worm, and the severity of the infection will depend on the number of worms present and the overall health of the goat.
 
-A goat that is well-nourished and in good health will usually be able to tolerate a moderate worm burden without showing any major symptoms. Despite that, a weak or malnourished goat is more likely to experience serious health problems as a result of worms.
+A goat that is well-nourished and in good health will usually be able to tolerate a moderate worm burden without showing any major symptoms. At the same time, a weak or malnourished goat is more likely to experience serious health problems as a result of worms.
 
-Regular deworming is the best way to prevent worm infections in goats. A goat expert can advise on the best type of product to use for your animals, as well as the appropriate frequency of treatment.
+Regular deworming is the best way to prevent worm infections in goats. A veterinarian can advise on the best type of product to use for your animals, as well as the appropriate frequency of treatment.
 
 ## How to prevent goats from getting worms?
 
 The best way to prevent goats from getting worms is to practice good hygiene and regularly deworm your animals. It is also important to provide your goats with a healthy diet and plenty of clean, fresh water.
 
-A balanced diet will help to keep your goats healthy and strong, and it will also reduce their likelihood of becoming infected with worms. If you are unsure about what to feed your goats, you should consult with a goat expert or a qualified animal nutritionist.
+A balanced diet will help to keep your goats healthy and strong, and it will also reduce their likelihood of becoming infected with worms. If you are unsure about what to feed your goats, you should consult with a veterinarian or a qualified animal nutritionist.
 
 While there are many different types of worms that can infect goats, the most common are roundworms, tapeworms, and liver flukes. These worms are usually transmitted through contaminated food or water, or by contact with infected animals.
 
@@ -115,7 +115,7 @@ If your goat is infected with worms, the best course of treatment is to deworm t
 
 Deworming is typically done on a regular basis, in order to prevent re-infection. In some cases, a single dose of dewormer may be all that is needed to clear an infection.
 
-Despite that, in other cases, multiple doses may be required. If your goat is seriously ill as a result of worms, it may need to be hospitalized and treated with medication.
+With that in mind, in other cases, multiple doses may be required. If your goat is seriously ill as a result of worms, it may need to be hospitalized and treated with medication.
 
 In some cases, surgery may also be necessary.
 
@@ -125,4 +125,4 @@ Overall, goats are relatively resistant to worm infections. However, they can st
 
 The best way to prevent worms in goats is to practice good hygiene and regularly deworm your animals.
 
-You should also provide them with a healthy diet and plenty of clean, fresh water. If you suspect that your goat has worms, you should take them to a goat expert for diagnosis and treatment.
+You should also provide them with a healthy diet and plenty of clean, fresh water. If you suspect that your goat has worms, you should take them to a veterinarian for diagnosis and treatment.

@@ -46,7 +46,7 @@ In this article, we will answer all of your questions about what goats can and c
 
 ## Can goats eat any plant?
 
-Despite that, you need to remember that every [goat is different and what one goat can eat](/can-a-goat-eat-sticker-bushes/) may not agree with another. So, it's always best to introduce new foods slowly and in small amounts to avoid any upset stomachs.
+Even so, you need to remember that every [goat is different and what one goat can eat](/can-a-goat-eat-sticker-bushes/) may not agree with another. So, it's always best to introduce new foods slowly and in small amounts to avoid any upset stomachs.
 
 ## What are the plants that are poisonous to goats?
 

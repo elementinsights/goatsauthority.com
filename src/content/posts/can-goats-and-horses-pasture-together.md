@@ -50,7 +50,7 @@ In this article, we will answer all of your questions regarding grazing goats an
 
 ## Can goats and horses pasture together?
 
-Despite that, it's important to have a separate area for each animal to graze. [Goats and horses have different nutritional needs](/can-i-give-a-moldy-pumpkin-to-goats/), and each animal should have its own space to ensure that it's getting the proper nutrition.
+Of course, it's important to have a separate area for each animal to graze. [Goats and horses have different nutritional needs](/can-i-give-a-moldy-pumpkin-to-goats/), and each animal should have its own space to ensure that it's getting the proper nutrition.
 
 ## What is the difference between goats and horses?
 

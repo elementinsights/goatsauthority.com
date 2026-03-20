@@ -46,7 +46,7 @@ In this article, we will answer all of your questions about giving your dog goat
 
 ## Can dogs have goat formula?
 
-Despite that, it's important to introduce goat milk into your dog's diet slowly and in limited quantities. Start by [mixing a small amount of goat milk](/can-i-mix-goat-milk-replacer-with-cow-milk/) into your dog's regular food and gradually increase the amount over time.
+With that in mind, it's important to introduce goat milk into your dog's diet slowly and in limited quantities. Start by [mixing a small amount of goat milk](/can-i-mix-goat-milk-replacer-with-cow-milk/) into your dog's regular food and gradually increase the amount over time.
 
 This will help your dog's digestive system adjust to the new food and avoid any upset stomach.
 
@@ -70,7 +70,7 @@ If you also have a dog that enjoys dairy, you might want to learn about [goat yo
 
 ## What are the risks of giving goat milk formula to dogs, and how can they be minimized?
 
-While [goat milk is often touted as a healthy alternative to cow's milk](/can-goats-drink-cows-milk/), it's not necessarily safe for dogs. [Goat milk formula can cause digestive upset](/can-goat-milk-cause-acne/) in dogs, including diarrhea, vomiting, and gas.
+While goat milk is often touted as a healthy alternative to cow's milk, it's not necessarily safe for dogs. [Goat milk formula can cause digestive upset](/can-goat-milk-cause-acne/) in dogs, including diarrhea, vomiting, and gas.
 
 In addition, goat milk contains higher levels of lactose than cow's milk, which can be difficult for dogs to digest. For these reasons, it's crucial to talk to a [dog expert before giving your dog goat milk formula](/can-dogs-drink-goat-milk-everyday/).
 

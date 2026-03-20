@@ -65,13 +65,13 @@ For goats, spelt can be a valuable source of nutrition.
 
 The high protein content can help them to build muscle, while the fiber can help promote digestive health. Vitamins and minerals are essential for all animals, and spelt can help goats to get the nutrients they need.
 
-On top of that, the high level of antioxidants in spelt may help to protect goats from diseases. Overall, spelt is a nutritious food that can be beneficial for goats.
+It's also worth noting that the high level of antioxidants in spelt may help to protect goats from diseases. Overall, spelt is a nutritious food that can be beneficial for goats.
 
 ## How do you feed spelt to goats, and in what quantities should you give it to them?
 
 Spelt is an ancient grain that is gaining popularity as a healthy alternative to wheat. Goats are known for their love of vegetation, and they will happily eat spelt grain if it is offered to them.
 
-Despite that, it is important to be aware of the proper quantity to give them, as too much can cause digestive upset. For [adult goats](/can-you-band-an-adult-goats-horns-to-dehorn-them/), a good rule of thumb is to offer no more than 1/4 cup of spelt per day.
+Keep in mind, it is important to be aware of the proper quantity to give them, as too much can cause digestive upset. For [adult goats](/can-you-band-an-adult-goats-horns-to-dehorn-them/), a good rule of thumb is to offer no more than 1/4 cup of spelt per day.
 
 If you are [feeding kids or pregnant goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat/), you can reduce this amount to 1/8 cup per day. It is also important to introduce spelt slowly, starting with just a few grains and increasing the amount over time.
 
@@ -83,9 +83,9 @@ Spelt is a type of grain that is sometimes [fed to goats](/can-you-change-a-bott
 
 For example, spelt contains a compound called lignin, which can be difficult for [goats to digest](/can-goats-digest-cotton/).
 
-As a result, feeding large amounts of spelt to [goats can cause them to experience gastric upset and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). On top of that, spelt is a relatively high-carbohydrate food, and feeding too much of it to goats can lead to weight gain and other health problems.
+As a result, feeding large amounts of spelt to [goats can cause them to experience gastric upset and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). Also, spelt is a relatively high-carbohydrate food, and feeding too much of it to goats can lead to weight gain and other health problems.
 
-Therefore, it is crucial to consult with a goat expert before adding spelt to a goat's diet.
+Therefore, it is crucial to consult with a veterinarian before adding spelt to a goat's diet.
 
 ## How to prevent side effects when feeding spelt to goats
 
@@ -125,7 +125,7 @@ If your goat is eating less than usual, it could be a sign that it is not gettin
 
 Another way to tell is to look at your goat's fur. If the fur is dry and brittle, it could be a sign of malnutrition.
 
-Finally, you can also ask a goat expert to perform a blood test to check for nutrient deficiencies.
+Finally, you can also ask a veterinarian to perform a blood test to check for nutrient deficiencies.
 
 If you are concerned that your goat is not getting enough nutrients, speak to a goat expert about adding supplements to its diet. Spelt is a type of grain that is high in nutrients and can be a good addition to a goat's diet.
 

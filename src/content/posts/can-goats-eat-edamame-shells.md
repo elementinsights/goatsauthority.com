@@ -49,7 +49,7 @@ We will explore the advantages and dangers of [feeding edamame shells to goats](
 
 ## Can goats eat edamame shells?
 
-Despite that, there are some [risks to feeding edamame shells to goats](/can-goats-eat-chicken-feed/). The shells can be a choking hazard, and they can also cause intestinal blockages.
+Still, there are some [risks to feeding edamame shells to goats](/can-goats-eat-chicken-feed/). The shells can be a choking hazard, and they can also cause intestinal blockages.
 
 Therefore, it's important to make sure that the shells are finely ground before [feeding them to your goat](/can-baking-soda-cause-urinary-issues-in-goats/).
 
@@ -87,11 +87,11 @@ In addition, edamame is a rich source of vitamins A and C, which are essential f
 
 While edamame is generally safe for goats to eat, there are some risks associated with feeding them to these animals. The most significant risk is that the edamame shells can be a choking hazard.
 
-On top of that, the shells can also cause intestinal blockages. Therefore, it's important to make sure that the shells are finely ground before feeding them to your goat.
+Plus, the shells can also cause intestinal blockages. Therefore, it's important to make sure that the shells are finely ground before feeding them to your goat.
 
 You should also avoid [feeding edamame to goats that are pregnant](/can-pregnant-goats-eat-medicated-feed/) or nursing, as soybeans can contain compounds that can be harmful to the developing fetus or young kid.
 
-If you have any concerns about feeding edamame to your goat, you should consult with a goat expert or other animal healthcare professional.
+If you have any concerns about feeding edamame to your goat, you should consult with a veterinarian or other animal healthcare professional.
 
 ## What is the recommended serving size for edamame?
 
@@ -105,7 +105,7 @@ These animals are browsers, meaning that they prefer to eat leaves and other gre
 
 Edamame is a good source of protein, fiber, and vitamins, and it can help to meet the [nutritional needs of goats](/can-i-give-a-moldy-pumpkin-to-goats/). However, there are some risks associated with feeding edamame to goats, and it's important to make sure that the shells are finely ground before offering them to these animals.
 
-If you have any concerns about feeding edamame to your goat, you should consult with a goat expert or other animal healthcare professional.
+If you have any concerns about feeding edamame to your goat, you should consult with a veterinarian or other animal healthcare professional.
 
 ## How to prevent choking and intestinal blockages when feeding edamame to goats?
 
@@ -121,7 +121,7 @@ Finally, it's crucial to monitor the [goats closely when they are eating edamame
 
 If you're looking for alternative [foods that goats can eat](/can-sheep-eat-goat-food/), there are a few options to consider. One option is to feed them hay.
 
-Hay is a good source of fiber and nutrients, and it can help to [keep goats healthy and their digestivw system](/can-goats-digest-cigarettes/) functioning properly.
+Hay is a good source of fiber and nutrients, and it can help to keep goats healthy and their digestivw system functioning properly.
 
 Another option is to feed them vegetables. [Goats enjoy eating leafy greens](/can-goats-eat-raw-green-beans/), carrots, and other vegetables.
 
@@ -133,6 +133,6 @@ Finally, you can also offer grain products to goats, such as oats and barley. Gr
 
 [Goats can eat edamame shells](/can-goats-eat-tomatoes/), but there are some risks associated with feeding these to these animals. The most significant risk is that the edamame shells can be a choking hazard.
 
-On top of that, the shells can also cause intestinal blockages.
+Additionally, the shells can also cause intestinal blockages.
 
 Therefore, it's important to make sure that the shells are finely ground before feeding them to your goat. You should also consult with a goat expert or other animal healthcare professional if you have any concerns about feeding edamame to your goat.

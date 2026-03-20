@@ -47,7 +47,7 @@ In this article, we will answer all of your questions regarding Oregon grapes an
 
 ## Can goats eat Oregon grapes?
 
-On top of that, the Oregon grape is also very high in sugar. Too much sugar can lead to obesity and other [health problems in goats](/can-goats-eat-chocolate/).
+Another thing to note is the Oregon grape is also very high in sugar. Too much sugar can lead to obesity and other [health problems in goats](/can-goats-eat-chocolate/).
 
 So, if you're looking for a safe and healthy treat for your goat, Oregon grapes are not the way to go. However, there are plenty of other fruits and vegetables that make great snacks for goats.
 
@@ -129,7 +129,7 @@ By following these simple tips, you can ensure that your Oregon grape stays heal
 
 There are no known benefits to eating Oregon grapes. These plants are poisonous to goats and [can cause serious health problems](/can-goats-cause-slope/) if consumed.
 
-If you think that your goat has eaten Oregon grapes, it is important to seek goat expert care immediately.
+If you think that your goat has eaten Oregon grapes, it is important to seek veterinarian care immediately.
 
 While there are no known benefits to eating Oregon grapes, these plants do have some uses. The berries of the plant can be made into jelly or wine, and the leaves can be used to make a yellow dye.
 
@@ -137,13 +137,13 @@ The roots of the plant are sometimes used in alternative medicine, but there is 
 
 Overall, it is best to avoid Oregon grapes if you have goats. These plants are poisonous and can cause serious health problems.
 
-If you think that your goat has eaten Oregon grapes, seek goat expert care immediately.
+If you think that your goat has eaten Oregon grapes, seek veterinarian care immediately.
 
 ## Final Thoughts
 
 Goats cannot eat Oregon grapes. These plants are poisonous to goats and can cause serious health problems if consumed.
 
-If you think that your goat has eaten Oregon grapes, it is important to seek goat expert care immediately.
+If you think that your goat has eaten Oregon grapes, it is important to seek veterinarian care immediately.
 
 While there are no known benefits to eating Oregon grapes, these plants do have some uses. The berries of the plant can be made into jelly or wine, and the leaves can be used to make a yellow dye.
 

@@ -51,7 +51,7 @@ The solution to this question will be thoroughly examined in this article, along
 
 ## Do goats have udders?
 
-Despite that, there's another type of goat that does not have [udders](/can-a-dairy-goats-udder-skin-have-varying-colors/), and that is the Cashmere goat. These goats are bred for their soft, luxurious wool, which is often used in high-end clothing.
+At the same time, there's another type of goat that does not have [udders](/can-a-dairy-goats-udder-skin-have-varying-colors/), and that is the Cashmere goat. These goats are bred for their soft, luxurious wool, which is often used in high-end clothing.
 
 As a result, they do not produce milk and do not need udders.
 

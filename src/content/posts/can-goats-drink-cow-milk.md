@@ -41,7 +41,7 @@ Let’s explore this topic together. It might surprise you what we find out abou
 
 ## Feeding Baby Goats Cow Milk
 
-It has essential [nutrients like proteins and fats](/can-goats-have-cheese/) which are vital for their growth. However, it lacks some key elements found in goat milk.
+It has essential nutrients like proteins and fats which are vital for their growth. However, it lacks some key elements found in goat milk.
 
 Goat milk contains higher levels of vitamins A and B2 than cow’s milk does. These help with bone development and energy production respectively.
 

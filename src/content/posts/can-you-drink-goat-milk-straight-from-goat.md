@@ -52,7 +52,7 @@ In this article, we will answer those questions and provide you with all the inf
 
 Also, [drinking raw milk](/can-you-drink-raw-goat-milk-on-gaps-diet/) can also pose a risk of bacterial growth in your stomach if you're not used to it. So, while it may be tempting to try, it's best to avoid drinking raw goat milk.
 
-Despite that, there are still a few ways you can enjoy the taste of fresh goat milk without consuming it straight from the source.
+Still, there are still a few ways you can enjoy the taste of fresh goat milk without consuming it straight from the source.
 
 ## What is goat milk and where does it come from?
 

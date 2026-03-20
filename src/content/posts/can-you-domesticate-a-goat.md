@@ -109,7 +109,7 @@ There are many types of training that can be done with your goat, depending on t
 
 Many [goats can be trained to pull carts](/can-a-goat-pull-a-cart/) or carry backpacks, which is a great way to give them exercise and mental stimulation. You can also teach them to do tricks like rearing up on their hind legs or jumping through hoops.
 
-Goats can learn basic commands like “sit” and “stay”, as well as more complex behaviors like walking on a leash. With patience and dedication, you can create an exciting bond with your [goat that will bring you both joy](/can-a-goat-be-housed-trained/) and companionship.
+Goats can learn basic commands like “sit” and “stay”, as well as more complex behaviors like walking on a leash. With patience and dedication, you can create an exciting bond with your goat that will bring you both joy and companionship.
 
 Overall, goats can be great pets if given the proper care and attention. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 

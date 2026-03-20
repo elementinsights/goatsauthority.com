@@ -64,7 +64,7 @@ One way in which vaseline helps during pregnancy is by lubricating the birth can
 
 Vaseline can also be used to coat the ears of newborn kids, helping to prevent frostbite during [cold weather](/can-goats-die-in-cold-weather/) and keeping them warm and protected in their early weeks of life.
 
-On top of that, some farmers use vaseline to make an ointment or salve that can be applied directly to a birthing breach or malpositioned baby to help get it back on track.
+Also, some farmers use vaseline to make an ointment or salve that can be applied directly to a birthing breach or malpositioned baby to help get it back on track.
 
 Overall, then, while most people associate vaseline with cosmetics or skincare products, its uses go far beyond these traditional applications in the world of animal husbandry as well.
 
@@ -74,7 +74,7 @@ There are several factors to consider when using vaseline during goat births. Fi
 
 You will also need to carefully monitor the number of applications that you use and make sure that you apply the vaseline in a way that avoids contact with the eyes and mouth of the animal.
 
-On top of that, it is important to be aware of any potential side effects or complications associated with utilizing this method, as well as any how-to considerations such as how much vaseline to use and where on the birth canal you should apply it.
+Similarly, it is important to be aware of any potential side effects or complications associated with utilizing this method, as well as any how-to considerations such as how much vaseline to use and where on the birth canal you should apply it.
 
 When done correctly, using vaseline during goat births can help ensure optimal health for both the mother and her offspring. However, careful planning and attention to detail are essential in order to achieve success with this approach.
 
@@ -106,7 +106,7 @@ Additionally, vaseline can cause skin irritation and reduces the goat's ability 
 
 Given these [potential risks](/can-a-plastic-bag-hurt-a-goat/), it is generally recommended that farmers avoid using vaseline during goat births whenever possible.
 
-Despite that, in some cases where vaginal issues are present in the mother or if labor is particularly difficult or slow-moving, it can still be beneficial to consult with a goat expert about whether a small amount of vaseline may be appropriate under certain circumstances.
+Keep in mind, in some cases where vaginal issues are present in the mother or if labor is particularly difficult or slow-moving, it can still be beneficial to consult with a goat expert about whether a small amount of vaseline may be appropriate under certain circumstances.
 
 Ultimately, whether to use vaseline during birth will depend on factors such as the health of both mother and baby, as well as individual preferences and circumstances.
 

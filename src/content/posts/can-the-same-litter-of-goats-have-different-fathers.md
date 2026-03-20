@@ -69,7 +69,7 @@ The main advantage of domesticating goats for meat and milk production lies in t
 
 A female goat can become [pregnant shortly after giving birth](/can-a-goat-have-babies-a-week-apart/) (known as "kidding"), allowing breeders to quickly replenish their herds.
 
-On top of that, breeders are able to choose which traits they wish to emphasize through selective breeding, such as size, temperament, or health status.
+Another thing to note is breeders are able to choose which traits they wish to emphasize through selective breeding, such as size, temperament, or health status.
 
 Thus, goat breeding plays a vital role in ensuring that we have access to nutrient-rich foods that can be produced cost-effectively and sustainably.
 
@@ -79,7 +79,7 @@ When it comes to goat breeding, the key is to pay attention to a few critical fa
 
 Young does, or female goats, generally produce more milk than mature does and have higher success rates when it comes to giving birth.
 
-On top of that, you need to keep an eye on the breeding time. Overbuilding can lead to lower milk output and decreased fertility in your herd, so it's important to be selective with your breeding schedule.
+Another thing to note is you need to keep an eye on the breeding time. Overbuilding can lead to lower milk output and decreased fertility in your herd, so it's important to be selective with your breeding schedule.
 
 Finally, daily care is essential for good health and positive results when it comes to breeding goats. Feeding them good quality food and keeping their water clean will help ensure that they are in top condition at all times.
 
@@ -103,7 +103,7 @@ There are a number of things that you should take into consideration before you 
 
 First, it's important to assess the health and well-being of your herd. Ideally, each goat should be in good physical condition, and there shouldn't be any obvious signs of disease or illness.
 
-On top of that, if you haven't yet fully worked out the [feeding and housing conditions for your goats](/can-a-goat-feed-quads/), it's best to hold off on breeding until those issues are addressed.
+It's also worth noting that if you haven't yet fully worked out the [feeding and housing conditions for your goats](/can-a-goat-feed-quads/), it's best to hold off on breeding until those issues are addressed.
 
 Another key consideration when breeding goats is making sure that they have access to [adequate amounts of fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/), hay, and nutritious food.
 

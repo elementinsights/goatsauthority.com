@@ -45,9 +45,9 @@ We will provide all the information you need to know about feeding lentils to yo
 
 So, if you're looking for a portion of healthy and [nutritious food to feed your goats](/can-sheep-eat-goat-food/), lentils are a great option. Just be sure to cook them first, as raw lentils can [cause digestive issues in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
-On top of that, be sure to introduce lentils slowly into your goats' diet, as sudden changes in diet can cause digestive upset. Start with a small amount and increase it gradually over time.
+Another thing to note is be sure to introduce lentils slowly into your goats' diet, as sudden changes in diet can cause digestive upset. Start with a small amount and increase it gradually over time.
 
-Despite that, feeding your goats lentils is generally considered safe. There are a few things to keep in mind, though.
+Be aware, feeding your goats lentils is generally considered safe. There are a few things to keep in mind, though.
 
 If you're feeding your goats dry lentils, soak them in water for at least 12 hours before cooking. This will help to reduce the risk of intestinal blockage.
 
@@ -65,7 +65,7 @@ Feeding lentils to goats can help to improve their health and well-being.
 
 Goats that are fed a diet of lentils are more likely to stay healthy and have fewer health problems. Lentils also provide a good source of energy for goats, which can help them to be more active and productive.
 
-On top of that, feeding lentils to [goats can help to improve the quality of their milk](/can-baby-kittens-drink-goats-milk/). Goats that are fed a diet of lentils produce milk that is higher in protein and calcium.
+Plus, feeding lentils to [goats can help to improve the quality of their milk](/can-baby-kittens-drink-goats-milk/). Goats that are fed a diet of lentils produce milk that is higher in protein and calcium.
 
 This makes the milk more nutritious for humans, and it also makes it tastier. Feeding lentils to goats is an excellent way to improve their overall health and well-being.
 
@@ -75,9 +75,9 @@ Legumes, such as lentils, play an important role in [Goat nutrition](/can-i-give
 
 However, there are some [risks associated with feeding legumes to goats](/can-goats-eat-chicken-feed/).
 
-If not properly cooked, legumes can contain harmful toxins that can make goats sick. On top of that, legumes are high in phosphorus, which can lead to goat health problems if they are consumed in large quantities.
+If not properly cooked, legumes can contain harmful toxins that can make goats sick. What's more, legumes are high in phosphorus, which can lead to goat health problems if they are consumed in large quantities.
 
-Therefore, it's important to talk to a goat expert before adding legumes to a goat's diet. When fed properly, legumes can be a healthy and nutritious part of a goat's diet.
+Therefore, it's important to talk to a veterinarian before adding legumes to a goat's diet. When fed properly, legumes can be a healthy and nutritious part of a goat's diet.
 
 However, care must be taken to avoid potential problems.
 
@@ -87,7 +87,7 @@ Lentils are a type of legume that is often used as animal feed. [Goats are parti
 
 When feeding lentils to goats, there are a few things to keep in mind in order to ensure that they get the most out of the nutrients.
 
-To start with, you need to soak the lentils overnight. This helps to soften them and make them more easily [digestible for the goats](/can-goats-digest-cigarettes/).
+To start with, you need to soak the lentils overnight. This helps to soften them and make them more easily digestible for the goats.
 
 In addition, you will want to cook the lentils until they are soft before feeding them to the goats. You can cook them in water or broth, and adding a little salt is also beneficial.
 

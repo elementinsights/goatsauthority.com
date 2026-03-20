@@ -73,7 +73,7 @@ The incisors are used for clipping off tender new growth, while the molars are p
 
 In addition to their role in eating, goat's top teeth also play an important role in communication. When a goat bares its teeth, it's often a sign of aggression.
 
-Despite that, goats will also show their teeth when they are content or curious. So, the next time you see a goat with its mouth open, try to interpret what it's trying to say.
+That said, goats will also show their teeth when they are content or curious. So, the next time you see a goat with its mouth open, try to interpret what it's trying to say.
 
 ## How can you take care of a goat's teeth?
 
@@ -97,7 +97,7 @@ Most goats have 32 permanent teeth, including 12 incisors, 4 canines, and 16 mol
 
 All of the goat's teeth, both temporary and permanent, are peg-shaped, with no roots. This makes them well-suited for grinding tough vegetation, but it also means that they wear down quickly.
 
-As a result, goats must constantly gnaw on [plants](/can-goats-digest-cigarettes/) and other objects to keep their teeth sharp and their mouths healthy.
+As a result, goats must constantly gnaw on plants and other objects to keep their teeth sharp and their mouths healthy.
 
 ## Can goats' teeth break rocks?
 

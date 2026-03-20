@@ -44,7 +44,7 @@ In this article, we will answer those questions about the pink eye in goats and 
 
 ## Can pink eye in goats be transmitted to cattle?
 
-Despite that, it is difficult to say how often this happens. The transmission of pink eye from goats to cattle may depend on the strain of bacteria or virus that causes the pink eye, as well as the age and health of the animals.
+That said, it is difficult to say how often this happens. The transmission of pink eye from goats to cattle may depend on the strain of bacteria or virus that causes the pink eye, as well as the age and health of the animals.
 
 So, it is safe to say that there is a risk of transmission, but it is difficult to determine how great that risk is.
 
@@ -54,7 +54,7 @@ Pink eye, also known as conjunctivitis, is a bacterial infection that affects bo
 
 This condition can be caused by either viruses or bacteria, and it typically manifests in two main symptoms: significant redness and swelling of the eyes, along with discharge from the eyes that is usually milky or yellowish in color.
 
-In most cases, pink eye can be treated fairly easily with the use of [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/). Despite that, if left untreated, the infection can become much more serious and even lead to blindness in some cases.
+In most cases, pink eye can be treated fairly easily with the use of [antibiotics](/can-too-much-penicillin-given-to-baby-goat-die/). With that in mind, if left untreated, the infection can become much more serious and even lead to blindness in some cases.
 
 For this reason, it is crucial to seek medical attention for any animal suspected of having pink eye as soon as possible.
 
@@ -102,7 +102,7 @@ Waiting too long to seek help can also increase the risk of the [infection sprea
 
 Therefore, if you have any concerns that your animal may be suffering from pink eye, it is always best to err on the side of caution and contact your veterinarian right away.
 
-On top of that, your veterinarian can also give you specific instructions on how to [care for your animal](/can-goats-die-from-lymes/) at home and what precautions you should take to prevent the spread of the disease.
+Similarly, your veterinarian can also give you specific instructions on how to [care for your animal](/can-goats-die-from-lymes/) at home and what precautions you should take to prevent the spread of the disease.
 
 ## Are there any other diseases that can cause similar symptoms?
 

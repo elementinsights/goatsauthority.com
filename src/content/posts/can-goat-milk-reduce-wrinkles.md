@@ -50,7 +50,7 @@ In this article, we'll address all of your questions about goat milk's anti-wrin
 
 ## Can goat milk reduce wrinkles?
 
-Despite that, it's important to keep in mind that there's no scientific evidence to support the claim that goat milk can reduce wrinkles. But, many people who use goat milk for their skin report positive results.
+Still, it's important to keep in mind that there's no scientific evidence to support the claim that goat milk can reduce wrinkles. But, many people who use goat milk for their skin report positive results.
 
 ## What are wrinkles and what causes them?
 

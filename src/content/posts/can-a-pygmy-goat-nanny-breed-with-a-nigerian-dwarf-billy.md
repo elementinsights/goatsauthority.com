@@ -56,7 +56,7 @@ Males of both breeds are called "bucks", while females are called "does". Young 
 
 Pygmy goats originated in West Africa, while Nigerian dwarf goats originated in Nigeria. [Pygmy goats](/can-dogs-and-pygmy-goats-live-together/) were first imported into the United States in the 1950s, while Nigerian dwarf goats were imported in the 1970s.
 
-Both breeds are now common in the United States. [Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) typically weigh between 20 and 40 pounds, while Nigerian dwarf goats typically weigh between 20 and 35 pounds.
+Both breeds are now common in the United States. Pygmy goats typically weigh between 20 and 40 pounds, while Nigerian dwarf goats typically weigh between 20 and 35 pounds.
 
 Both breeds have short legs and small bodies.
 

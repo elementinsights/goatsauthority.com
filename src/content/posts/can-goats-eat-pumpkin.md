@@ -74,7 +74,7 @@ In addition, pumpkins can help to keep goats hydrated. Pumpkins are a healthy tr
 
 ## How many pumpkins can a goat eat without any risks?
 
-it's generally safe for a goat to consume up to three pounds of pumpkin per day. Despite that, it's important to monitor the goat's health and eating habits closely, as too much pumpkin can cause [gastrointestinal issues](/can-alfalfa-pellets-cause-goats-to-bloat/).
+it's generally safe for a goat to consume up to three pounds of pumpkin per day. Even so, it's important to monitor the goat's health and eating habits closely, as too much pumpkin can cause [gastrointestinal issues](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 Pumpkin is a good source of fiber and essential nutrients, but it should not make up more than 10% of the goat's diet.
 
@@ -114,7 +114,7 @@ Let us find out the answer to that question in detail.
 
 Baby goats can eat pumpkins. Pumpkins are a great source of vitamins and minerals for baby goats.
 
-Despite that, you should cut the pumpkin into small pieces before giving it to them.
+Be aware, you should cut the pumpkin into small pieces before giving it to them.
 
 ### Do goats like pumpkins?
 

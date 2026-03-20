@@ -81,7 +81,7 @@ They may get caught on things, or they may grow into the goat's flesh.
 
 If horns are not trimmed, they can also grow into the ground and cause an injury. In some cases, horns can grow so big that they need to be surgically removed.
 
-Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
+Then again, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
 
 There are even some breeds of goats that have been bred to have no horns.
 
@@ -97,7 +97,7 @@ They may get caught on things, or they may grow into the goat's flesh.
 
 If horns are not trimmed, they can also grow into the ground and cause an injury. In some cases, horns can grow so big that they need to be surgically removed.
 
-Despite that, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
+Of course, horns are not always a problem. Some goats have very small horns, and others have no horns at all.
 
 There are even some breeds of goats that have been bred to have no horns.
 

@@ -68,7 +68,7 @@ These requirements are put in place to protect both human residents and the loca
 
 Before getting any type of livestock, there are a few important things that you need to consider. In particular, when it comes to goats, you will need to think about things like where you will be keeping them and what their access to food and water will be like.
 
-On top of that, it is crucial to take into account the local climate and weather patterns in your area, as this can play a significant role in the well-being of your animals.
+Additionally, it is crucial to take into account the local climate and weather patterns in your area, as this can play a significant role in the well-being of your animals.
 
 Other factors to consider include your own [experience level with raising livestock](/can-i-have-goats-where-i-live/) and any potential concerns or objections from your neighbors.
 
@@ -104,7 +104,7 @@ When it comes to caring for your goats in Medford, Oregon, there are a few key t
 
 You will also need to provide your goats with plenty of fresh food and water on a regular basis, as well as shelter from [harsh weather conditions like excessive heat or cold](/can-goats-die-in-cold-weather/).
 
-On top of that, goat owners should be mindful of potential health concerns, such as internal parasites and foot rot, and be prepared to treat their animals accordingly.
+What's more, goat owners should be mindful of potential health concerns, such as internal parasites and foot rot, and be prepared to treat their animals accordingly.
 
 Lastly, it is crucial to engage in regular grooming and hoof trimming to keep your goats looking and feeling their best. With these simple care tips in mind, you can help ensure that your goats are happy and healthy livestock companions in Medford.
 
@@ -114,7 +114,7 @@ If you are a goat owner in the Medford, Oregon area and you encounter any proble
 
 The first thing that you should do is talk to other goat owners in your local community and find out if they have experience dealing with similar issues. Often, simply getting advice and insight from others who have been in your position can be immensely helpful.
 
-You may also want to consult with a goat expert or professional, such as a veterinarian or farmhand, who can provide more in-depth guidance on how to manage and resolve specific issues.
+You may also want to consult with a veterinarian or professional, such as a veterinarian or farmhand, who can provide more in-depth guidance on how to manage and resolve specific issues.
 
 Additionally, there may be local resources or organizations available that can offer support and guidance. For example, some regions have goat clubs or associations that host regular meetings or educational events for goat owners.
 

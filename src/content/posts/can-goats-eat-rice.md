@@ -120,7 +120,7 @@ Finally, rice bran is an excellent source of fiber, and it can be used as beddin
 
 Goats are curious, intelligent animals that are known for their playful dispositions and easygoing nature. They are also highly adaptable and can thrive in a variety of climates and environments.
 
-As such, goats have become a popular choice for small-scale farmers and hobbyists alike. When it comes to goat nutrition, Despite that, there's some debate as to what is the best diet for these versatile creatures.
+As such, goats have become a popular choice for small-scale farmers and hobbyists alike. When it comes to goat nutrition, Even so, there's some debate as to what is the best diet for these versatile creatures.
 
 One common food that is often fed to goats is rice. But are there any risks associated with feeding goats rice?
 
@@ -166,7 +166,7 @@ Rice is a good source of vitamins and minerals, and it's also high in carbohydra
 
 ## Final Thoughts
 
-Overall, rice can be a healthy and nutritious part of a goat's diet. Despite that, it's important to feed rice in moderation and to cook it properly before feeding it to goats.
+Overall, rice can be a healthy and nutritious part of a goat's diet. Keep in mind, it's important to feed rice in moderation and to cook it properly before feeding it to goats.
 
 When feeding rice to goats, be sure to mix it with other high-fiber foods such as hay or [pasture grass](/can-goats-eat-kentucky-bluegrass/). Goats should also have access to fresh water at all times.
 

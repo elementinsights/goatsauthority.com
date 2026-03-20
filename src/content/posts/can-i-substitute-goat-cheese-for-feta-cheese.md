@@ -70,7 +70,7 @@ Whether served on crackers or melted into a dish like a lasagna or baked ziti, g
 
 In addition to being packed with essential nutrients, goat cheese is also lower in fat and calories than many other types of cheese. This makes it a healthy choice for people who are trying to lose weight or maintain a healthy weight.
 
-Another benefit of goat cheese is that it is [easier to digest](/can-goats-digest-cigarettes/) than other kinds of cheese. This is because the fat molecules in goat milk are smaller than the fat molecules in cow’s milk.
+Another benefit of goat cheese is that it is easier to digest than other kinds of cheese. This is because the fat molecules in goat milk are smaller than the fat molecules in cow’s milk.
 
 As a result, people who are lactose intolerant may be able to eat [goat cheese](/can-infants-eat-goat-cheese/) without experiencing the same digestive problems that they would have if they ate cheese made from cow’s milk.
 

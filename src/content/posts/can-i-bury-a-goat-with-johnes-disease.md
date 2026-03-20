@@ -54,7 +54,7 @@ It is also important to use a heavy-duty tarp when burying a goat with Johne's d
 
 If you have other animals on your property, you need to keep them away from the burial site. You should also avoid handling the carcass yourself, as there is a small risk of infection.
 
-Johne's disease is a serious disease that can be fatal in goats. If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
+Johne's disease is a serious disease that can be fatal in goats. If you think that your goat may have Johne's disease, you need to contact a veterinarian right away.
 
 Johne's disease is a contagious disease that [affects goats](/can-weather-affect-goats-poop/). The disease is caused by a bacteria called Mycobacterium avium paratuberculosis.
 
@@ -88,7 +88,7 @@ There are several steps that can be taken to help prevent Johne's disease in goa
 
 This means ensuring that their pens and enclosures are kept free of dirt, manure, and other debris that could harbor harmful bacteria or parasites.
 
-And also, you need to provide your goats with regular [vaccinations](/can-a-cdt-shot-kill-a-goat/) and checkups with a licensed goat expert. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
+And also, you need to provide your goats with regular [vaccinations](/can-a-cdt-shot-kill-a-goat/) and checkups with a licensed veterinarian. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
 
 Finally, another key component to preventing Johne's disease is the quality of their food. [Feeding your goats](/can-baking-soda-cause-urinary-issues-in-goats/) a high-quality diet that includes plenty of fresh fruits, vegetables, and protein will help boost their immune system, making them less susceptible to infection from disease-causing pathogens.
 
@@ -100,7 +100,7 @@ Treatments for Johne's disease in goats vary depending on the severity of the in
 
 And also, you need to provide supportive care during this time, which may include [supplemental feeding](/can-a-goat-feed-quads/) and extra bedding to help keep the goat comfortable.
 
-In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease. Despite that, with early diagnosis and treatment, most [goats can recover from Johne's disease](/can-goats-recover-from-polio-without-medication/) and go on to lead happy and healthy lives.
+In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease. Keep in mind, with early diagnosis and treatment, most [goats can recover from Johne's disease](/can-goats-recover-from-polio-without-medication/) and go on to lead happy and healthy lives.
 
 ## How to test for Johne's disease in goats?
 
@@ -110,7 +110,7 @@ This allows the bacteria to grow, allowing goat experts to confirm the presence 
 
 However, they can be useful in cases where a goat is too young or sick to produce a feces sample. Ultimately, the best way to confirm a diagnosis of Johne's disease is through a combination of both fecal and blood testing.
 
-With these tools, a goat expert can accurately diagnose Johne's disease and begin appropriate treatment as soon as possible.
+With these tools, a veterinarian can accurately diagnose Johne's disease and begin appropriate treatment as soon as possible.
 
 ## When is the best time to test for Johne's disease in goats?
 
@@ -126,7 +126,7 @@ They will be able to help you determine the best course of action for testing an
 
 ## Final Thoughts
 
-You can bury a goat with Johne's disease, but you should consult with a goat expert first. There are several ways to test for Johne's disease in goats, and the best time to do so is when they are between 6 and 12 months old.
+You can bury a goat with Johne's disease, but you should consult with a veterinarian first. There are several ways to test for Johne's disease in goats, and the best time to do so is when they are between 6 and 12 months old.
 
 Treatment for Johne's disease in goats varies depending on the severity of the infection and the health of the affected animal. In some cases, medication may be prescribed in order to help clear the bacteria from the goat's system.
 

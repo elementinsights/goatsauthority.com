@@ -83,7 +83,7 @@ Native to the eastern United States, black walnut trees (Juglans nigra) are a cl
 
 Black walnut bark can be used to manufacture a dark-colored dye, and the leaves have historically been employed for their medicinal qualities.
 
-For goats, black walnut leaves are generally considered to be safe to eat in small quantities. Despite that, it's crucial to note that the leaves contain tannins, which can cause digestive upset if consumed in large amounts.
+For goats, black walnut leaves are generally considered to be safe to eat in small quantities. That said, it's crucial to note that the leaves contain tannins, which can cause digestive upset if consumed in large amounts.
 
 Additionally, black walnut leaves should not be fed to goats who are pregnant or lactating, as tannins can interfere with milk production.
 
@@ -99,7 +99,7 @@ When ingested, juglone can cause vomiting, diarrhea, and loss of appetite. In se
 
 Because of this, black walnut leaves should be avoided as goat feed. If goats do eat black walnut leaves, they should be monitored closely for signs of juglone poisoning.
 
-Symptoms usually appear within 24 hours after ingestion and can be treated with supportive care. Despite that, prevention is the best way to [protect goats](/can-a-fox-kill-a-goat/) from juglone poisoning.
+Symptoms usually appear within 24 hours after ingestion and can be treated with supportive care. Keep in mind, prevention is the best way to [protect goats](/can-a-fox-kill-a-goat/) from juglone poisoning.
 
 If you have black walnut trees on your property, make sure to keep your goats away from the leaves.
 
@@ -133,7 +133,7 @@ The black walnut tree produces a small, round fruit that is encased in a green h
 
 ## How much black walnut leaf should you eat per day?
 
-Black walnut leaves can be a great addition to your diet, providing you with a variety of essential nutrients. Despite that, it's crucial to eat them in moderation, as eating too many can lead to side effects like upset stomach and diarrhea.
+Black walnut leaves can be a great addition to your diet, providing you with a variety of essential nutrients. At the same time, it's crucial to eat them in moderation, as eating too many can lead to side effects like upset stomach and diarrhea.
 
 A good general rule is to consume no more than two tablespoons of black walnut leaf per day. If you're new to black walnut leaves, you may want to start with a smaller amount and increase gradually over time.
 

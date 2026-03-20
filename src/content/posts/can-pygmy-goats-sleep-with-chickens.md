@@ -46,7 +46,7 @@ In this article, we will answer those questions so that you can make an informed
 
 ## Can pygmy goats sleep with chickens?
 
-Despite that, there are a few things you need to consider before letting your pygmy goat sleep with your chickens.
+Of course, there are a few things you need to consider before letting your pygmy goat sleep with your chickens.
 
 First, make sure that the chicken coop is big enough for both the chickens and the goats. There should be enough space for the goats to move around and lay down without being crowded.
 
@@ -72,7 +72,7 @@ As such, it seems clear that the benefits of having pygmy goats sleep with chick
 
 There are many potential risks involved in allowing [pygmy goats and chickens to share the same living space](/can-dogs-and-pygmy-goats-live-together/). For one, [goats have a naturally aggressive nature](/can-an-aggressive-goat-be-fixed/), and they may easily injure or even kill their smaller chicken companions if they feel threatened.
 
-On top of that, both types of animals are known carriers of various diseases and parasites that can easily be transmitted between species.
+Also, both types of animals are known carriers of various diseases and parasites that can easily be transmitted between species.
 
 This can put the health of both your goats and chickens at serious risk. However, with careful management and regular monitoring, it may be possible to keep both sets of animals safe while still letting them live together.
 

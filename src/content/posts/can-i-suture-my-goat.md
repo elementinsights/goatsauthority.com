@@ -48,7 +48,7 @@ In this article, we’ll answer all your questions about suturing goats, so you 
 
 ## Can I suture my goat?
 
-Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the [suturing process](/can-i-give-my-goat-vicodin-for-pain/).
+Furthermore, [goats can withstand more pain than we humans can endure](/can-i-give-my-goats-human-fish-pills/). Therefore, they are able to better handle the suturing process.
 
 Before you stitch up your goat, there are a few things to take into consideration. The first is that the wound is clean and without any dirt or other particles.
 

@@ -56,7 +56,7 @@ If you think your horse has ingested any water contaminated with goat poop, cont
 
 When a horse drinks water that contains goat poop, it can cause a variety of negative impacts on the animal's health. For one thing, by ingesting feces from other animals, horses increase their risk of developing infections and diseases, as well as developing parasites in their digestive tracts.
 
-On top of that, goat poop may contain harmful toxins, which can have toxic effects on the horse's organs and physiology.
+Similarly, goat poop may contain harmful toxins, which can have toxic effects on the horse's organs and physiology.
 
 Finally, drinking contaminated water can also lead to nausea, vomiting, and diarrhea in horses, potentially causing dehydration and other serious adverse effects.
 
@@ -78,7 +78,7 @@ But, in situations where the contamination is severe or if the animal shows [sig
 
 If you suspect that your horse has consumed contaminated water, it is crucial that you ensure that they stay well hydrated by providing them with plenty of clean drinking water.
 
-On top of that, be sure to monitor their behavior and health closely so that you can evaluate whether more specialized care may be needed.
+Similarly, be sure to monitor their behavior and health closely so that you can evaluate whether more specialized care may be needed.
 
 In general, if your horse appears stable but has consumed questionable water, it is usually best not to take any [unnecessary risks](/can-a-cdt-shot-kill-a-goat/) and instead opt for professional goat expert care.
 

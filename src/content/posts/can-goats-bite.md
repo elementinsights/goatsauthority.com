@@ -83,7 +83,7 @@ By following these simple steps, you can help to ensure that a goat bite does no
 
 ## What breed of goat is most likely to bite?
 
-There are many different breeds of goats, and each has its own unique personality and behavior. Despite that, some breeds are more likely to bite than others.
+There are many different breeds of goats, and each has its own unique personality and behavior. With that in mind, some breeds are more likely to bite than others.
 
 One of the [most common biting goats is the Alpine breed](/can-a-goat-breed-with-sheep/). Alpines are known for being aggressive and territorial, and they often become agitated when they feel threatened or confined.
 
@@ -91,7 +91,7 @@ Another [breed that is known for its aggressiveness is the Boer goat](/can-a-nig
 
 They are also known for being very curious, which can sometimes lead to them biting people out of curiosity.
 
-Despite that, any goat can bite if it feels threatened or provoked, so it's important to be cautious around all goats, regardless of breed.
+Be aware, any goat can bite if it feels threatened or provoked, so it's important to be cautious around all goats, regardless of breed.
 
 ## How to deal with a biting goat?
 

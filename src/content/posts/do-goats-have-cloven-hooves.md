@@ -79,7 +79,7 @@ Goats have specially-adapted hooves that are divided into cloven toes, with two 
 
 The flexible hooves also act as natural shock absorbers, cushioning the impact when goats walk over uneven surfaces or land after a jump.
 
-On top of that, this structure gives goats impressive grip and traction, allowing them to climb steep inclines and scale particularly tricky surfaces, such as slippery rocks or tree limbs.
+What's more, this structure gives goats impressive grip and traction, allowing them to climb steep inclines and scale particularly tricky surfaces, such as slippery rocks or tree limbs.
 
 Ultimately, the hooves of goats play an important role in helping these animals thrive in a diverse range of environments.
 
@@ -105,7 +105,7 @@ There are a few simple steps that you can take to prevent hoof injuries and infe
 
 First, it is important to maintain a clean and dry environment for your goats. This means keeping the pens and stalls clean of debris and waste and providing bedding that will absorb moisture (such as straw or wood shavings).
 
-On top of that, it is crucial to trim your [goats' hooves](/can-goats-die-from-their-own-horns-grow-into-heads/) on a regular basis. This will help to prevent overgrowth, which can lead to painful cracks and splits in the hooves.
+It's also worth noting that it is crucial to trim your [goats' hooves](/can-goats-die-from-their-own-horns-grow-into-heads/) on a regular basis. This will help to prevent overgrowth, which can lead to painful cracks and splits in the hooves.
 
 Finally, make sure that you provide your goats with a [balanced diet](/can-goats-have-36-protein/) that includes all of the essential nutrients for proper hoof health.
 
@@ -127,7 +127,7 @@ Although goats are often thought of as the only animals with cloven hooves, this
 
 These distinctive feet help these animals to walk on rough or uneven terrain more easily, as they allow them to distribute their weight over multiple surfaces simultaneously.
 
-On top of that, cloven hooves contain special joints that allow them to pivot and flex easily, which helps these animals to maintain their balance while they move around.
+Another thing to note is cloven hooves contain special joints that allow them to pivot and flex easily, which helps these animals to maintain their balance while they move around.
 
 Overall, while goat hooves may be famous for their unique structure, other animals also have cloven hooves that serve similar purposes.
 

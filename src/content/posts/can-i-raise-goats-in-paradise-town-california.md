@@ -50,11 +50,11 @@ In this article, we will answer your questions about raising goats in Paradise T
 
 In addition, you will need to obtain a permit from the California Department of Fish and Wildlife if you intend to keep goats in Paradise Town, California.
 
-Despite that, raising goats in Paradise Town, California can be a great experience as long as you are prepared to do your research and take the necessary precautions.
+Be aware, raising goats in Paradise Town, California can be a great experience as long as you are prepared to do your research and take the necessary precautions.
 
 ## What are the local city ordinances for goats in Paradise Town, California?
 
-The city of Paradise does not have any specific ordinances regarding raising goats. Despite that, you will need to follow the general animal husbandry ordinances set forth by the town.
+The city of Paradise does not have any specific ordinances regarding raising goats. At the same time, you will need to follow the general animal husbandry ordinances set forth by the town.
 
 These ordinances include ensuring that your animals do not create a nuisance or health hazard and that they are properly cared for.
 
@@ -74,7 +74,7 @@ Another potential source of information is your local landowner's association or
 
 These groups often have strict policies in place regarding the upkeep and maintenance of residential properties, and they may be able to provide detailed information about goat ownership in your area.
 
-On top of that, there are a number of online resources that can be helpful when looking for a permit for keeping goats.
+It's also worth noting that there are a number of online resources that can be helpful when looking for a permit for keeping goats.
 
 For example, many state and local government websites have detailed information about licensing requirements for livestock owners, as well as general regulations around raising animals on private property.
 
@@ -88,7 +88,7 @@ This can include things like a sturdy barn or fenced pasture, as well as all of 
 
 Not only do you have to remember to feed them, but you need to make sure the food is nutritious and that they're getting regular veterinary care.
 
-On top of that, it is crucial to ensure that there are no known predators in the area where you plan to keep your goats.
+Plus, it is crucial to ensure that there are no known predators in the area where you plan to keep your goats.
 
 And finally, you will need to understand and follow all local regulations regarding livestock in order to keep yourself out of trouble with the law and avoid potential fines or legal action.
 

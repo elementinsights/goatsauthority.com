@@ -73,7 +73,7 @@ First, goats need to be fed a nutritious diet that is high in protein and essent
 
 And also, goats should have access to fresh water at all times. As far as housing is concerned, it is important to provide adequate space and ventilation in order to promote good health among the goats.
 
-Ideally, there should be enough space for each goat to lie down comfortably and get up without difficulty. On top of that, ventilation must be maintained through natural airflow or air circulation devices in order to minimize the risk of respiratory infections in the herd.
+Ideally, there should be enough space for each goat to lie down comfortably and get up without difficulty. Similarly, ventilation must be maintained through natural airflow or air circulation devices in order to minimize the risk of respiratory infections in the herd.
 
 While some goat farmers may opt for outdoor housing, indoor housing offers better temperature regulation and protection from predators for young or sick goats.
 
@@ -87,7 +87,7 @@ These animals require relatively little space and feed compared to other livest
 
 In addition, goat fur is renowned for its quality and versatility, with a range of natural dyes available to color the fibers in various ways.
 
-Despite that, there are also challenges associated with raising goats for fiber production. One major issue is that goats require specialized care in order to yield high-quality wool or cashmere.
+Keep in mind, there are also challenges associated with raising goats for fiber production. One major issue is that goats require specialized care in order to yield high-quality wool or cashmere.
 
 For example, they need regular grooming to prevent the buildup of dirt and debris in their coats, as well as dietary supplements such as high-quality hay or commercially prepared nutrients that are specific to the needs of these animals.
 
@@ -107,7 +107,7 @@ But, this will also depend on things like market demand for goat's milk and whet
 
 Ultimately, it is up to you as a farmer to determine what approach will work best for your particular situation, and there is no one-size-fits-all formula for determining profitability in this industry.
 
-Despite that, with a bit of research and planning ahead, you can certainly increase your chances of success by raising goats for fiber production.
+Be aware, with a bit of research and planning ahead, you can certainly increase your chances of success by raising goats for fiber production.
 
 ## How to get started in raising goats for fiber production?
 

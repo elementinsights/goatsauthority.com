@@ -48,7 +48,7 @@ In this article about goat lice and dormancy, we will address all of your concer
 
 ## Can goat lice go into a dormant stage?
 
-Despite that, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your [goats have lice](/can-goat-lice-live-on-humans/), it's best to consult a goat expert.
+Of course, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your [goats have lice](/can-goat-lice-live-on-humans/), it's best to consult a veterinarian.
 
 ## What are the stages of dormancy?
 
@@ -108,7 +108,7 @@ Goat lice are most often spread through contact with infected animals. This can 
 
 Lice can also be spread through the use of shared grooming equipment, such as brushes and combs. To prevent the spread of goat lice, you need to maintain good hygiene and cleanliness around goats.
 
-On top of that, prompt removal of dead and dying animals from pasture is also important. This helps to prevent the spread of lice from animal to animal.
+Additionally, prompt removal of dead and dying animals from pasture is also important. This helps to prevent the spread of lice from animal to animal.
 
 Finally, lice can also be spread through contact with contaminated bedding or clothing. To prevent this, you [need to wash bedding and clothing in hot water and to avoid sharing these items with other goats](/can-horses-drink-water-that-has-goat-poop-in-it/).
 

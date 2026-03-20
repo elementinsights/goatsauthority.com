@@ -66,7 +66,7 @@ In addition, watermelons are a low-cost food source that is easily accessible to
 
 Watermelon is not only a refreshing summertime treat but is also a good source of vitamins A and C, as well as lycopene.
 
-While goats are mostly known for their love of hay, they can also enjoy watermelon as part of a healthy diet. Other popular fruit treats include [bananas](/can-goats-eat-bananas/) and [apples](/can-goats-eat-apples/). Despite that, before introducing watermelon to goats, there are a few things to keep in mind.
+While goats are mostly known for their love of hay, they can also enjoy watermelon as part of a healthy diet. Other popular fruit treats include [bananas](/can-goats-eat-bananas/) and [apples](/can-goats-eat-apples/). Of course, before introducing watermelon to goats, there are a few things to keep in mind.
 
 Watermelons should be cut into small pieces that are easy for goats to eat. The seeds should be removed, as they can be a choking hazard.
 

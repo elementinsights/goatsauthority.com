@@ -50,7 +50,7 @@ In this article, we will answer all of your questions regarding taking care of g
 
 ## Can goats save sperm?
 
-Despite that, it's important to note that not all goats are equally good at saving sperm. Some goats may be better at it than others.
+At the same time, it's important to note that not all goats are equally good at saving sperm. Some goats may be better at it than others.
 
 There are a number of factors that can influence a goat's ability to save sperm, such as their [diet and health](/can-you-drink-raw-goat-milk-on-gaps-diet/).
 
@@ -124,11 +124,11 @@ Overall, the [benefits of using frozen semen outweigh the risks](/can-a-pregnant
 
 The cost of using frozen semen will vary depending on the quality of the semen and the method used to store it. Generally, high-quality semen that is stored properly can be expensive.
 
-However, the cost of using frozen semen is typically much lower than the cost of artificial insemination using fresh semen. On top of that, the use of frozen semen can allow you to inseminate more female animals, which can offset the cost.
+However, the cost of using frozen semen is typically much lower than the cost of artificial insemination using fresh semen. Also, the use of frozen semen can allow you to inseminate more female animals, which can offset the cost.
 
 Overall, there are many benefits to using frozen semen. While there are some risks and costs associated with this process, the benefits far outweigh the drawbacks.
 
-If you are interested in using frozen semen, be sure to purchase high-quality semen from a reputable source. On top of that, be sure to follow proper storage and thawing procedures to ensure the viability of the semen.
+If you are interested in using frozen semen, be sure to purchase high-quality semen from a reputable source. What's more, be sure to follow proper storage and thawing procedures to ensure the viability of the semen.
 
 With proper care, frozen semen can be a valuable tool for your [breeding operation](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/).
 

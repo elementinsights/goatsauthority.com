@@ -47,11 +47,11 @@ In this article, we will answer the question, can you change a bottle-fed goat b
 
 ## Can you change a bottle fed goat back to nursing off another goat?
 
-On top of that, it's great for bonding purposes and helps them socialize with other goats. The process of switching a bottle-fed goat back to nursing is actually quite simple.
+Plus, it's great for bonding purposes and helps them socialize with other goats. The process of switching a bottle-fed goat back to nursing is actually quite simple.
 
 Just put them in [contact with a nursing goat](/contact/) and they will start to nurse. It's really that easy.
 
-Despite that, there are a few things you should keep in mind. Make sure the nursing [goat is healthy and free of disease, as you don't want your bottle-fed goat to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
+Keep in mind, there are a few things you should keep in mind. Make sure the nursing [goat is healthy and free of disease, as you don't want your bottle-fed goat to get sick](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 In addition, it's important to monitor the situation closely at first, as bottle-fed goats may not know how to properly nurse and could end up hurting the nursing goat.
 
@@ -65,7 +65,7 @@ There are actually quite a few benefits to changing a bottle-fed goat back to nu
 
 They are designed to nurse, after all. Nursing also helps to [build up immunity](/can-i-mix-newborn-goats-and-older-goats/) in the goat and can help them to develop faster and grow stronger.
 
-On top of that, nursing is a bonding experience for mother and child and can help to reduce stress levels in both.
+Also, nursing is a bonding experience for mother and child and can help to reduce stress levels in both.
 
 Finally, it's simply cheaper to allow a [goat to nurse than it is to bottle feed](/can-a-goat-feed-quads/) them. So, there are plenty of good reasons to make the switch.
 

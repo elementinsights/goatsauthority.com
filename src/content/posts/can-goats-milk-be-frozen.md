@@ -48,7 +48,7 @@ We'll also provide a handy FAQ section to help you make an informed decision abo
 
 ## Can goat's milk be frozen?
 
-On top of that, freezing goat's milk can be a convenient way to store it. You can thaw the milk when you need it and know that it will still be fresh and of high quality.
+Similarly, freezing goat's milk can be a convenient way to store it. You can thaw the milk when you need it and know that it will still be fresh and of high quality.
 
 There are a few things you should keep in mind if you choose to freeze [goat's milk](/can-i-get-goat-milk-at-luckys-market/), however. First, you need to note that frozen goat's milk will expand.
 
@@ -88,7 +88,7 @@ You will also want to leave some headspace in the container, as [goat's milk](/c
 
 Once thawed, goat's milk should be used within 24 hours.
 
-Freezing [goat's milk](/can-i-use-goats-milk-soap-on-my-beard/) is a great way to extend its shelf life and save money. Despite that, there are a few things to keep in mind when freezing goat's milk.
+Freezing [goat's milk](/can-i-use-goats-milk-soap-on-my-beard/) is a great way to extend its shelf life and save money. With that in mind, there are a few things to keep in mind when freezing goat's milk.
 
 First, you need to use an airtight container. Glass jars or containers with screw-on lids work well.
 
@@ -122,7 +122,7 @@ One question that often comes up is whether or not goat's milk can be frozen and
 
 [Goat's milk is mostly water](/can-i-give-a-sick-goat-water-through-a-syringe/), so when it freezes, the water content expands and breaks apart some of the fat globules. This can cause the milk to appear grainy or curdled when it is thawed.
 
-Despite that, this does not affect the safety of the milk, and it will still be nutritionally complete. The flavor of frozen goat's milk may also be slightly different from fresh milk, but it will still be palatable.
+Still, this does not affect the safety of the milk, and it will still be nutritionally complete. The flavor of frozen goat's milk may also be slightly different from fresh milk, but it will still be palatable.
 
 Overall, freezing goat's milk is a safe and easy way to extend its shelf life.
 

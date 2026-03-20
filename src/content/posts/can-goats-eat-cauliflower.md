@@ -54,7 +54,7 @@ When feeding cauliflower to goats, it's important to wash the vegetable thorough
 
 ## Do all goats eat cauliflower?
 
-There are over 300 different breeds of goats in the world, and each one has unique dietary needs. Despite that, there are some generalities that can be made about what goats eat.
+There are over 300 different breeds of goats in the world, and each one has unique dietary needs. Even so, there are some generalities that can be made about what goats eat.
 
 Goats are browsers, which means that they prefer to eat leaves, twigs, and other soft vegetation.
 
@@ -134,7 +134,7 @@ For example, goats should not eat nightshade plants like [tomatoes](/can-goats-e
 
 Cauliflower belongs to the brassica family of plants, which also includes broccoli and [Brussels sprouts](/can-goats-eat-brussel-sprouts/). Brassica plants contain goitrogens, compounds that can interfere with thyroid function if eaten in large quantities.
 
-Despite that, these compounds are largely neutralized through cooking, so there's no need to worry if your goat nibbles on the odd-cooked vegetable.
+Keep in mind, these compounds are largely neutralized through cooking, so there's no need to worry if your goat nibbles on the odd-cooked vegetable.
 
 All in all, cauliflower is a healthy and nutritious treat for goats, but it should be given in moderation as part of a balanced diet.
 

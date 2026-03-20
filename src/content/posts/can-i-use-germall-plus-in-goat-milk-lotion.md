@@ -58,7 +58,7 @@ Germall Plus is a preservative that is used in many different types of cosmetic 
 
 This active ingredient serves to prevent the growth of harmful [microorganisms and bacteria](/can-a-goat-get-a-cold-sore/), while also promoting the stability and prolonging the shelf life of these products.
 
-On top of that, Germall Plus acts as an emulsifier, helping to keep two or more liquid ingredients mixed together even when shaken vigorously or exposed to extreme temperatures.
+Beyond that, Germall Plus acts as an emulsifier, helping to keep two or more liquid ingredients mixed together even when shaken vigorously or exposed to extreme temperatures.
 
 With its wide range of benefits and applications, Germall Plus has become one of the most popular preservatives used in the beauty industry today.
 
@@ -112,7 +112,7 @@ Unfortunately, finding an effective alternative preservative can be challenging.
 
 Some potential alternatives include aloe vera, vitamin E oil, and essential oils like tea tree oil or rosemary oil.
 
-Despite that, each of these options has its own pros and cons, making it difficult to settle on a single ideal solution.
+That said, each of these options has its own pros and cons, making it difficult to settle on a single ideal solution.
 
 Ultimately, the best approach may be to use multiple different preservatives in combination, balancing out any potential issues while providing optimal protection against bacterial growth and rancidity.
 
@@ -130,6 +130,6 @@ You can use Germall Plus in your goat milk lotion, but you should consider the p
 
 Germall Plus is a versatile and effective preservative that can help to maintain the stability of your goat milk lotion. However, it is important to take care when measuring this ingredient, as using too much or too little can have a significant impact on the quality of your final product.
 
-On top of that, some people may experience allergic reactions when directly exposed to Germall Plus. For this reason, it is always advisable to perform a patch test on a small area of skin before using this ingredient in your lotion.
+Similarly, some people may experience allergic reactions when directly exposed to Germall Plus. For this reason, it is always advisable to perform a patch test on a small area of skin before using this ingredient in your lotion.
 
 With these considerations in mind, you can feel confident using Germall Plus to preserve your homemade goat milk lotion.

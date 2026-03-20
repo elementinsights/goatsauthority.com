@@ -72,7 +72,7 @@ For example, dandelion leaves are a good source of vitamin A, which is essential
 
 Dandelion leaves are also a good source of calcium, much like [alfalfa](/can-goats-eat-alfalfa/), which is necessary for strong bones and teeth.
 
-On top of that, dandelion leaves contain potassium, which helps to regulate blood pressure and heart rate. Goats that have access to dandelion leaves will likely be healthier than those that don't.
+Plus, dandelion leaves contain potassium, which helps to regulate blood pressure and heart rate. Goats that have access to dandelion leaves will likely be healthier than those that don't.
 
 ## Can goats eat dandelion seeds?
 
@@ -82,17 +82,17 @@ Achene fruits are dry fruits that have a single seed in them. The dandelion seed
 
 When the flower head dies, the beak breaks off and the seed is dispersed by the wind. Goats can eat the entire dandelion flower head, including the beak and the seeds.
 
-The seeds are actually quite nutritious and contain high levels of protein, fat, and fiber. Despite that, you need to note that dandelion seeds can be toxic to goats if they consume too many of them.
+The seeds are actually quite nutritious and contain high levels of protein, fat, and fiber. Of course, you need to note that dandelion seeds can be toxic to goats if they consume too many of them.
 
 Therefore, it's crucial to monitor your goat's intake of dandelion seeds and make sure they do not consume too many at once. The same caution applies to [sunflower seeds](/can-goats-eat-sunflower-seeds/).
 
 ## Can goats eat dandelion stems?
 
-Goats are known for their digestive prowess, able to eat a wide variety of plants and vegetation. Despite that, not all plants are safe for goats to consume.
+Goats are known for their digestive prowess, able to eat a wide variety of plants and vegetation. That said, not all plants are safe for goats to consume.
 
 Dandelion stems, for example, can be harmful to goats if eaten in large quantities.
 
-The main concern with dandelion stems is that they contain large amounts of saponins, which can cause stomach upset and diarrhea. On top of that, dandelion stems are also very fibrous, which can make them difficult to digest.
+The main concern with dandelion stems is that they contain large amounts of saponins, which can cause stomach upset and diarrhea. Additionally, dandelion stems are also very fibrous, which can make them difficult to digest.
 
 For these reasons, it's best to avoid feeding dandelion stems to goats. If you must feed them to your goats, do so in moderation and only give them a small amount at a time. For a safer fibrous option, consider [celery](/can-goats-eat-celery/).
 

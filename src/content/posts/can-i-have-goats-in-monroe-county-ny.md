@@ -54,7 +54,7 @@ Whether you live on a farm or [in a city lot](/can-i-have-goats-in-the-city-of-l
 
 ## What are the requirements for keeping goats in Monroe County, NY
 
-To keep goats in Monroe County, NY, you must have a physical address within the county and provide proof of vaccination records. On top of that, you must obtain a permit and follow certain sanitation requirements.
+To keep goats in Monroe County, NY, you must have a physical address within the county and provide proof of vaccination records. What's more, you must obtain a permit and follow certain sanitation requirements.
 
 For example, your goats must have access to shade at all times and be kept in an enclosed space where their waste can be easily disposed of or cleaned up. You must also [ensure that your goats are properly fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) and healthy, with regular veterinary care provided if necessary.
 
@@ -80,7 +80,7 @@ While there are many benefits to keeping goats at home, there are also a few [po
 
 This can lead to safety issues, as goats may escape into neighboring yards or even on the roads. The risk of theft is another concern, as well as [property damage caused by goats](/can-alfalfa-pellets-cause-goats-to-bloat/) chewing or stepping on things like landscaping and furniture.
 
-Despite that, these risks can be mitigated by taking proper precautions such as investing in secure fencing and using adequate supervision when handling your pets.
+That said, these risks can be mitigated by taking proper precautions such as investing in secure fencing and using adequate supervision when handling your pets.
 
 With careful planning and diligent management, keeping goats in Monroe County can be safe and rewarding for both you and your animals.
 

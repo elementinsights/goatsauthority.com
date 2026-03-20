@@ -58,17 +58,17 @@ So, it's best to only offer goats vinegar as a treat and not as a regular part o
 
 Vinegar is an excellent source of acidity, and adding it to your goats' diet can have a number of benefits. Most importantly, vinegar helps to maintain the proper pH level in the rumen, which is essential for efficient digestion.
 
-Vinegar also helps to reduce the risk of bloat, a potentially fatal condition that can occur when the rumen becomes overloaded with gas. On top of that, vinegar can help to prevent coccidiosis, a common parasitic infection that can [cause severe diarrhea in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Vinegar also helps to reduce the risk of bloat, a potentially fatal condition that can occur when the rumen becomes overloaded with gas. Beyond that, vinegar can help to prevent coccidiosis, a common parasitic infection that can [cause severe diarrhea in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 Finally, vinegar's antiseptic properties can help to [keep your goats' water supply clean](/can-i-give-a-sick-goat-water-through-a-syringe/) and free of harmful bacteria.
 
-As you can see, [giving your goats vinegar](/can-i-give-goat-trazodone/) on a regular basis can have a surprisingly positive impact on their health.
+As you can see, giving your goats vinegar on a regular basis can have a surprisingly positive impact on their health.
 
 ## What are the risks of giving your goats vinegar?
 
 When it comes to caring for goats, there are a lot of old wives' tales and home remedies floating around.
 
-One such remedy is the use of vinegar, which is sometimes used as a way to keep goats healthy and free from parasites. Despite that, before you start giving your goats vinegar, you need to understand the [potential risks](/can-a-plastic-bag-hurt-a-goat/).
+One such remedy is the use of vinegar, which is sometimes used as a way to keep goats healthy and free from parasites. Of course, before you start giving your goats vinegar, you need to understand the [potential risks](/can-a-plastic-bag-hurt-a-goat/).
 
 First of all, vinegar is an acid, and when taken in large quantities, it can cause gastrointestinal irritation and even ulcers.
 
@@ -82,7 +82,7 @@ So while a little vinegar may not hurt your goats, it's best to use it sparingly
 
 Most goats can safely consume up to 4 ounces of vinegar per day. However, those that are pregnant or lactating may need to limit their intake to 2 ounces per day.
 
-Vinegar is a good source of nutrients for goats, and it can help to promote healthy digestion. Despite that, too much vinegar can cause gastrointestinal distress, so you need to offer it in moderation.
+Vinegar is a good source of nutrients for goats, and it can help to promote healthy digestion. Be aware, too much vinegar can cause gastrointestinal distress, so you need to offer it in moderation.
 
 Goats typically prefer the taste of apple cider vinegar, but you can also use white vinegar if that's what you have on hand. To offer vinegar to your goats, simply add it to their water or pour it over their food.
 
@@ -104,7 +104,7 @@ Although vinegar is not a necessary part of a goat's diet, pregnant goats can dr
 
 Vinegar also helps to balance the pH levels in the goat's gut, which can help to prevent gastrointestinal problems.
 
-Despite that, it's crucial not to give goats too much vinegar, as this can cause problems such as diarrhea. As long as you provide your [pregnant goats](/can-pregnant-goats-have-injectable-b12/) with a moderate amount of vinegar, they will be able to enjoy all of the benefits without any negative side effects.
+Still, it's crucial not to give goats too much vinegar, as this can cause problems such as diarrhea. As long as you provide your [pregnant goats](/can-pregnant-goats-have-injectable-b12/) with a moderate amount of vinegar, they will be able to enjoy all of the benefits without any negative side effects.
 
 ## Can baby goats drink vinegar?
 
@@ -128,7 +128,7 @@ In addition, vinegar can break down the [proteins in milk](/can-i-raise-goats-fo
 
 ## Can sick goat drink vinegar?
 
-Goats are susceptible to a number of different health problems, and one of the most common is stomach upset. If your [goat is experiencing digestive issues](/can-goats-digest-cigarettes/), you may be wondering if you can give them vinegar to help.
+Goats are susceptible to a number of different health problems, and one of the most common is stomach upset. If your goat is experiencing digestive issues, you may be wondering if you can give them vinegar to help.
 
 The answer is yes, vinegar can be beneficial for goats with an upset stomach. Vinegar helps to break down food in the stomach and can also help to kill harmful bacteria.
 
@@ -140,4 +140,4 @@ You can give your goat vinegar by adding a few tablespoons to their water or mix
 
 Overall, goats can drink vinegar without any problems. In fact, vinegar can actually be beneficial for goats, as it provides them with additional nutrients and can help to balance the pH levels in their gut.
 
-Despite that, it's important to use vinegar sparingly and only when necessary, as too much vinegar can cause digestive upset. If you do decide to give your goats vinegar, be sure to use raw, unfiltered vinegar for the best results.
+Keep in mind, it's important to use vinegar sparingly and only when necessary, as too much vinegar can cause digestive upset. If you do decide to give your goats vinegar, be sure to use raw, unfiltered vinegar for the best results.

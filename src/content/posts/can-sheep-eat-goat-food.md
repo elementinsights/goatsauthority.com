@@ -52,7 +52,7 @@ There are a few things to keep in mind when feeding sheep goat food, however. Fi
 
 Second, remember that sheep have different nutritional needs than goats, so you'll need to adjust the amount of food accordingly.
 
-On top of that, keep in mind that sheep may not be able to digest all of the nutrients in goat food as efficiently as goats can. This means that they may not get all of the [benefits from the food](/can-goats-eat-dog-food/).
+Additionally, keep in mind that sheep may not be able to digest all of the nutrients in goat food as efficiently as goats can. This means that they may not get all of the [benefits from the food](/can-goats-eat-dog-food/).
 
 Overall, adding some goat food to a sheep's diet can be beneficial, but it's important to do so carefully and with consideration for their unique needs.
 
@@ -76,7 +76,7 @@ That said, as a general guideline, sheep should be fed about one percent of thei
 
 So for example, if you have a group of 100 smaller sheep that weigh around 75 lbs each on average, you would need to provide roughly $2 worth of food per week for them to get the nutrients they need.
 
-On top of that, it's important to keep in mind that your goats' feeding needs may change over time based on things like pregnancy or growth spurts, so be sure to monitor their condition closely and adjust their diet accordingly.
+Similarly, it's important to keep in mind that your goats' feeding needs may change over time based on things like pregnancy or growth spurts, so be sure to monitor their condition closely and adjust their diet accordingly.
 
 Whether you have dairy or [meat goats](/can-dogs-eat-goat-meat/) or just use them for wool and secondary products, understanding [how much they need to eat](/can-goats-eat-everything/) can help ensure they stay healthy and productive throughout their lives.
 
@@ -84,7 +84,7 @@ Whether you have dairy or [meat goats](/can-dogs-eat-goat-meat/) or just use the
 
 There are a number of potential problems that can arise when feeding goat food to sheep. One issue is that goat feed is typically higher in protein than sheep's food, which can result in dangerous overfeeding and weight gain in sheep.
 
-On top of that, certain types of goat feed may be too rich for the sensitive digestive systems of sheep, causing upset stomachs and potentially leading to health issues such as diarrhea or bloating.
+Beyond that, certain types of goat feed may be too rich for the sensitive digestive systems of sheep, causing upset stomachs and potentially leading to health issues such as diarrhea or bloating.
 
 Lastly, there is also the risk that some kinds of goat's food may contain substances that are [toxic to sheep](/can-sheep-drink-raw-goats-milk/), such as specific herbs used as natural insect repellents or trace amounts of certain medications administered to sick goats.
 

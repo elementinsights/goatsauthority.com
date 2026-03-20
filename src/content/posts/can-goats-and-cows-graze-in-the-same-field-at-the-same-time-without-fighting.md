@@ -70,7 +70,7 @@ In addition, goats are known to be carriers of a range of diseases, such as foot
 
 ## How can you tell if your goats and cows are getting along well together in the pasture?
 
-Cattle and goats are both herbivores, so they can graze together peacefully on the same pasture. Despite that, there are a few [things you should look for to make sure your cattle and goats](/can-a-dog-get-sick-from-a-goat/) are getting along well.
+Cattle and goats are both herbivores, so they can graze together peacefully on the same pasture. Then again, there are a few [things you should look for to make sure your cattle and goats](/can-a-dog-get-sick-from-a-goat/) are getting along well.
 
 First, observe their body language. If they are standing close together and not showing any signs of aggression, such as raised hackles or flared nostrils, then they are probably getting along fine.
 

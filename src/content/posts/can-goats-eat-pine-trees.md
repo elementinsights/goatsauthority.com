@@ -55,7 +55,7 @@ In this article, we will address all of these questions so that you can make an 
 
 ## Can goats eat pine trees?
 
-Despite that, it's important to note that pine trees are also a source of toxins. The needles of the pine tree contain a substance called turpentine. This is quite different from safe treats like [pumpkin](/can-goats-eat-pumpkin/) or [sweet potatoes](/can-goats-eat-sweet-potatoes/).
+At the same time, it's important to note that pine trees are also a source of toxins. The needles of the pine tree contain a substance called turpentine. This is quite different from safe treats like [pumpkin](/can-goats-eat-pumpkin/) or [sweet potatoes](/can-goats-eat-sweet-potatoes/).
 
 This substance is toxic to goats in large amounts and can cause serious health problems.
 
@@ -101,7 +101,7 @@ As a result, baby goats should stick to softer plants like grasses, [lettuce](/c
 
 Not all goats eat pine trees. In fact, most goats are browsers and prefer to eat leaves, twigs, and other plant matter. Many goats would rather munch on [dandelions](/can-goats-eat-dandelions/) or [honeysuckle](/can-goats-eat-honeysuckle/) than pine needles.
 
-Despite that, there are a few species of goats, such as the African bush goat and the Markhor, that will occasionally consume pine needles.
+Then again, there are a few species of goats, such as the African bush goat and the Markhor, that will occasionally consume pine needles.
 
 These goats live in regions where pine trees are the dominant form of vegetation, and they have likely developed a taste for pine needles out of necessity.
 
@@ -117,7 +117,7 @@ If you see a goat eating pine needles or seeds, it's best to monitor them closel
 
 There are many benefits to feeding goats pine trees. Pine trees are a source of food and shelter for goats, and they can help to improve the health of the soil.
 
-Pine trees also provide goats with a source of essential nutrients, including vitamin C, potassium, and magnesium. For other vitamin-rich food options, consider [blueberries](/can-goats-eat-blueberries/) or [oranges](/can-goats-eat-oranges/). On top of that, pine trees can help to keep goats healthy by providing them with a natural source of insect repellent.
+Pine trees also provide goats with a source of essential nutrients, including vitamin C, potassium, and magnesium. For other vitamin-rich food options, consider [blueberries](/can-goats-eat-blueberries/) or [oranges](/can-goats-eat-oranges/). What's more, pine trees can help to keep goats healthy by providing them with a natural source of insect repellent.
 
 Finally, pine trees can help to improve the appearance of your pasture or ranch by providing goats with a natural source of shade.
 

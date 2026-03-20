@@ -48,7 +48,7 @@ In this article, we will answer all of your questions about goats and juice. We 
 
 ## Can goats drink juice?
 
-Despite that, it's important to remember that goats should not drink too much juice. Too much juice can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
+With that in mind, it's important to remember that goats should not drink too much juice. Too much juice can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
 
 It's also important to avoid giving goats sugary or caffeinated juices, as these can be harmful to their health.
 
@@ -60,7 +60,7 @@ Goats are browsers, which means that they are designed to eat leaves, twigs, and
 
 Because of this, the types of juice that are good for goats are those that are high in fiber and low in sugar.
 
-Juices such as apples, grapes, and cranberry juice are all good choices for goats. On top of that, carrot juice is also a good option, as it's high in beta-carotene, which helps to support goat health.
+Juices such as apples, grapes, and cranberry juice are all good choices for goats. What's more, carrot juice is also a good option, as it's high in beta-carotene, which helps to support goat health.
 
 Finally, Giving goats juice that is too sugary can lead to health problems such as diarrhea and weight gain, so it's crucial to choose juices that are lower in sugar content. By following these guidelines, you can ensure that your goats stay healthy and happy.
 
@@ -88,7 +88,7 @@ Goats are creatures of habit and they love routine. So, it's crucial to give the
 
 As a general rule of thumb, you should give your goats about 4 ounces of juice per day.
 
-Despite that, this may vary depending on the type of goat you have and your climate. If you live in a hot climate, your goats will need more juice to stay hydrated.
+Even so, this may vary depending on the type of goat you have and your climate. If you live in a hot climate, your goats will need more juice to stay hydrated.
 
 Conversely, if you live in a cold climate, your goats will need less juice.
 
@@ -122,7 +122,7 @@ Finally, the milk is pasteurized and bottled for consumption. While it may not b
 
 For example, goats should not eat avocados, as the persin in the fruit can be harmful to them. Similarly, [goats should not drink juices](/can-goats-drink-baby-formula/) that contain pulp, as the pulp can block their digestive tract.
 
-But, there are some juices that [goats can drink safely](/can-goats-drink-cows-milk/).
+But, there are some juices that goats can drink safely.
 
 For example, many [goats enjoy drinking apple juice](/can-goats-drink-vinegar/) and carrot juice. As long as the juice does not contain any harmful ingredients, it's generally safe for goats to consume.
 

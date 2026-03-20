@@ -70,7 +70,7 @@ If a [goat does eat too many pepper leaves](/can-goats-eat-black-walnut-leaves/)
 
 Goats can eat pepper seeds. Pepper seeds are not [poisonous to goats and will not harm them if they eat them](/can-goats-eat-poison-hemlock/).
 
-In fact, goats may enjoy the taste of pepper seeds. Despite that, [goats should not eat too many pepper seeds](/can-goats-eat-watermelon/) as they can cause digestive upset.
+In fact, goats may enjoy the taste of pepper seeds. At the same time, [goats should not eat too many pepper seeds](/can-goats-eat-watermelon/) as they can cause digestive upset.
 
 Additionally, [goats should not eat green or unripe peppers](/can-goats-eat-raw-green-beans/) as they can cause stomach irritation. [Goats that eat pepper seeds](/can-goats-eat-tomatoes/) should be monitored for signs of digestive upset such as vomiting or diarrhea.
 
@@ -84,7 +84,7 @@ In fact, goats actually prefer the taste of Pepper plants over other plants.
 
 This is because they are attracted to the strong smell of the peppers. [Goats will usually only eat the leaves and stems of pepper plants](/can-goats-eat-any-plant/), as the fruits contain a higher concentration of solanine.
 
-Despite that, if there's no other food available, [goats will also eat the fruits without any problems](/can-goats-eat-citrus-fruits/).
+At the same time, if there's no other food available, [goats will also eat the fruits without any problems](/can-goats-eat-citrus-fruits/).
 
 ## Do all goats eat peppers?
 
@@ -94,7 +94,7 @@ And also, some goats may be allergic to peppers or other nightshade plants. If a
 
 Additionally, some goats may be more susceptible to the harmful compounds in peppers than others. It's important to monitor [goats that eat](/can-goats-eat-celery/) peppers for any adverse reactions.
 
-If a [goat experiences any digestive upset after eating](/can-goats-eat-cabbage/) peppers, it's best to stop feeding them to the goat and consult a goat expert.
+If a [goat experiences any digestive upset after eating](/can-goats-eat-cabbage/) peppers, it's best to stop feeding them to the goat and consult a veterinarian.
 
 ## What are the benefits of feeding peppers to goats?
 
@@ -114,7 +114,7 @@ And also, peppers can help to keep goats healthy by providing them with essentia
 
 There are a few risks to keep in mind when feeding peppers to goats. Peppers can cause mild stomach upset in some animals, and too much pepper can lead to digestive problems.
 
-On top of that, peppers contain a compound called capsaicin, which can irritate the skin and eyes. If goats eat large quantities of peppers, they may experience discomfort and even burning.
+What's more, peppers contain a compound called capsaicin, which can irritate the skin and eyes. If goats eat large quantities of peppers, they may experience discomfort and even burning.
 
 Finally, it's crucial to make sure that peppers are fed in moderation, as goats can easily become overweight if they consume too many calories. By taking these precautions, you can help ensure that your goats stay healthy and happy.
 
@@ -124,7 +124,7 @@ Peppers are a nutritious treat for goats. They are packed with vitamins and mine
 
 Peppers also have a strong flavor that goats love. When [feeding peppers to goats](/can-baking-soda-cause-urinary-issues-in-goats/), it's best to chop them into small pieces.
 
-This will [help the goats to digest](/can-goats-digest-cigarettes/) them more easily. Peppers can be fed raw or cooked, but they should always be fresh.
+This will help the goats to digest them more easily. Peppers can be fed raw or cooked, but they should always be fresh.
 
 canned peppers are not a good option for goats, as they can be high in sodium and other preservatives. Peppers can be fed as a snack or mixed into their regular feed.
 
@@ -140,7 +140,7 @@ If you're not sure how many peppers to give your goats, always err on the side o
 
 Capsaicin, which is found in peppers, can irritate the skin and eyes. It's important to wash your hands thoroughly after handling peppers, and avoid getting the juice on your skin or in your eyes.
 
-On top of that, it's important to make sure that the peppers are chopped into [small pieces before feeding them to goats](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help to prevent choking and also make it easier for the goats to digest the peppers.
+It's also worth noting that it's important to make sure that the peppers are chopped into [small pieces before feeding them to goats](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help to prevent choking and also make it easier for the goats to digest the peppers.
 
 ## Final Thoughts
 

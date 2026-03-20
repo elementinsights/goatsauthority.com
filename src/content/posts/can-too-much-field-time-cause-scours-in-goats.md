@@ -48,7 +48,7 @@ In this article, we'll answer the question: can too much field time cause scours
 
 ## Can too much field time cause scours in goats?
 
-Despite that, there are some things you can do to prevent scours in goats. First, make sure that the pasture is clean and free of any contaminated food or water.
+Still, there are some things you can do to prevent scours in goats. First, make sure that the pasture is clean and free of any contaminated food or water.
 
 Second, limit the amount of time your goat spends in the pasture. And third, provide your goat with plenty of fresh, clean water to drink.
 
@@ -74,11 +74,11 @@ Scours, or diarrhea, is a common problem in goats. There are many different pote
 
 In most cases, scours is not a serious issue and will resolve on their own.
 
-Despite that, it can be dangerous if it leads to dehydration. Therefore, it is crucial to keep an eye on goats that are experiencing scours and seek veterinary care if the problem persists.
+Then again, it can be dangerous if it leads to dehydration. Therefore, it is crucial to keep an eye on goats that are experiencing scours and seek veterinary care if the problem persists.
 
 Some of the most common [causes of scours in goats](/can-contact-with-goats-cause-diarrhea-in-humans/) include infection, parasites, stress, and changes in diet. In most cases, the condition is not serious and will resolve on its own.
 
-Despite that, it can be dangerous if it leads to dehydration. Therefore, it is important to keep an eye on goats that are experiencing scours and seek veterinary care if the problem persists.
+Of course, it can be dangerous if it leads to dehydration. Therefore, it is important to keep an eye on goats that are experiencing scours and seek veterinary care if the problem persists.
 
 Scours can have many different causes, but some of the most common include infection, parasites, stress, and changes in diet.
 

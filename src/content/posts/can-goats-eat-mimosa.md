@@ -70,7 +70,7 @@ They are planted between rows of other crops, where they help to add nitrogen to
 
 As for whether all parts of the mimosa plant can be eaten by goats, the answer is YES and NO. All parts of the plant contain these nitrogen-fixing bacteria, so eating any part of the plant will provide some benefit in terms of increasing the nitrogen content of the soil.
 
-Despite that, not all parts of the plant are equally palatable to goats. The leaves and stems are the most nutritious parts of the plant, and [goats will usually eat them](/can-a-goat-eat-sticker-bushes/) quite readily.
+Keep in mind, not all parts of the plant are equally palatable to goats. The leaves and stems are the most nutritious parts of the plant, and [goats will usually eat them](/can-a-goat-eat-sticker-bushes/) quite readily.
 
 The flowers and seed pods are not as high in protein and are typically only eaten by goats when other food sources are scarce. So, while all parts of the mimosa plant can technically be eaten by goats, some parts are better than others.
 
@@ -126,7 +126,7 @@ There are several treatment options for feeding goats mimosa. The most common is
 
 Goats will naturally be attracted to the leaves and flowers, and they will typically consume a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) each day.
 
-This is generally considered to be the safest option, as it allows the goats to regulate their own intake. Despite that, you need to monitor their consumption, as too much can lead to digestive issues.
+This is generally considered to be the safest option, as it allows the goats to regulate their own intake. With that in mind, you need to monitor their consumption, as too much can lead to digestive issues.
 
 Another option is to feed them mimosa leaves that have been dried and powdered. This can be mixed into their regular feed, or it can be given as a supplement.
 

@@ -53,7 +53,7 @@ In addition to being a healthy food for goats, wheat stalks are also a good sour
 
 However, it is important to note that wheat stalks should not be the only food in a goat's diet. Goats need a variety of foods to stay healthy, and wheat stalks should only be given as part of a balanced diet.
 
-If you have any questions about [feeding wheat stalks to your goats](/can-a-goat-feed-quads/), or if you are concerned about their health, please consult with a goat expert or other animal expert.
+If you have any questions about [feeding wheat stalks to your goats](/can-a-goat-feed-quads/), or if you are concerned about their health, please consult with a veterinarian or other animal expert.
 
 ## The benefits of feeding wheat stalks to goats
 
@@ -97,7 +97,7 @@ A 150-pound goat could theoretically consume around 7000 stalks of wheat each da
 
 However, because they browse rather than graze, goats prefer to consume a wide variety of vegetation as opposed to vast numbers of any one kind. Furthermore, wheat straw is less nutrient-dense than other forms of fodder, thus goats normally only eat modest amounts of it.
 
-So it seems doubtful that a goat would truly consume 7,000 stalks of wheat in a single day. Despite that, this illustrates the fact that goats are able to consume large quantities of vegetation thanks to their four-chamber stomachs.
+So it seems doubtful that a goat would truly consume 7,000 stalks of wheat in a single day. That said, this illustrates the fact that goats are able to consume large quantities of vegetation thanks to their four-chamber stomachs.
 
 ## Additional resources on feeding wheat stalks to goats
 

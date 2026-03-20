@@ -105,7 +105,7 @@ While finding truffles can be a challenge, there are a few things you can do to 
 
 They are most likely to be found in areas with cool, moist conditions and well-drained soils.
 
-Look for areas where trees such as oak, hazelnut, and beech are growing, as these are some of the most common hosts for truffles. Be aware that [goats can climb 92 degrees](/can-goats-climb-92-degrees/) on steep terrain, so they can access tricky hillside locations. On top of that, try to visit potential hunting grounds during wet weather, as this is when truffles are most likely to release their distinctive aroma.
+Look for areas where trees such as oak, hazelnut, and beech are growing, as these are some of the most common hosts for truffles. Be aware that [goats can climb 92 degrees](/can-goats-climb-92-degrees/) on steep terrain, so they can access tricky hillside locations. What's more, try to visit potential hunting grounds during wet weather, as this is when truffles are most likely to release their distinctive aroma.
 
 With a little knowledge and a lot of patience, you may just be able to unearth your own hidden treasure.
 

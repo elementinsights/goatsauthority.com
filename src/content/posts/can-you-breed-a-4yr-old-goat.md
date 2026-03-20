@@ -50,7 +50,7 @@ In this article, we will answer those questions for you and [provide everything 
 
 As for the age requirements, it is best to breed [goats that are between 2 and 6 years old](/can-you-dehorn-a-2-year-old-goat/). This is because [younger goats have not fully matured yet](/can-a-female-goat-produce-milk-without-being-pregnant/) and may not produce healthy offspring.
 
-On top of that, [breeding goats that are too old](/can-you-breed-a-6-yr-old-goat-for-first-time/) can also lead to health problems for both the mother and her kids.
+Plus, [breeding goats that are too old](/can-you-breed-a-6-yr-old-goat-for-first-time/) can also lead to health problems for both the mother and her kids.
 
 ## What is breeding a 4-year-old goat-like and what are the benefits of doing so?
 
@@ -58,7 +58,7 @@ When it comes to breeding goats, there are a few things you need to keep in mind
 
 Generally speaking, you should wait until [your goat is at least 4 years old](/can-you-band-a-2-year-old-buck-goat/) before breeding.
 
-This will help to ensure that your goat is physically and emotionally ready to handle the process. On top of that, it is crucial to choose a mate for your goat carefully.
+This will help to ensure that your goat is physically and emotionally ready to handle the process. Similarly, it is crucial to choose a mate for your goat carefully.
 
 You will want to find a goat that is of similar size and temperament.
 

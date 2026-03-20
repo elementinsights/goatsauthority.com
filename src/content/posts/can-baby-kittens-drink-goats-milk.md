@@ -56,7 +56,7 @@ Also, make sure to warm the milk before giving it to your kittens, as they may h
 
 ## What is goat's milk and what are its benefits for kittens?
 
-Goat's milk is a popular choice for pet owners who are looking for an alternative to cow's milk. [Goat's milk is naturally lower in lactose than cow's milk](/can-goats-drink-cows-milk/), making it easier for kittens to digest.
+Goat's milk is a popular choice for pet owners who are looking for an alternative to cow's milk. Goat's milk is naturally lower in lactose than cow's milk, making it easier for kittens to digest.
 
 Additionally, goat's milk is a good source of protein and essential nutrients like calcium and phosphorus. It can also help to soothe an upset stomach and promote healthy gut bacteria growth.
 
@@ -68,7 +68,7 @@ Offer your kitten [small amounts of goat's milk](/can-i-feed-a-small-amount-of-r
 
 Goat's milk is a nutritious alternative to cow's milk for kittens. It's higher in protein and fat, which helps kittens grow, and it's also easier to digest.
 
-Despite that, before introducing [goat's milk](/can-i-get-goat-milk-at-luckys-market/) to a kitten, it's crucial to check with an animal expert to make sure that the milk is appropriate for the kitten's diet. [Goat's milk can also be mixed with water](/can-i-mix-goat-milk-with-whey-protein/) to create a more diluted solution.
+Even so, before introducing [goat's milk](/can-i-get-goat-milk-at-luckys-market/) to a kitten, it's crucial to check with an animal expert to make sure that the milk is appropriate for the kitten's diet. [Goat's milk can also be mixed with water](/can-i-mix-goat-milk-with-whey-protein/) to create a more diluted solution.
 
 When introducing goat's milk to a kitten, it's important to do so slowly, mixing it with the kitten's regular food or water over the course of several days. This will help the kitten get used to the new food and reduce the risk of gastrointestinal upset.
 
@@ -120,7 +120,7 @@ Cow's milk: Cow's milk is another option for kittens, but it should only be give
 
 Soy milk: Soy milk is a lactose-free alternative to cow's milk. But, it's not as nutritionally complete as other milk options and should only be given to kittens in small amounts.
 
-Rice milk: Rice milk is another lactose-free alternative to cow's milk. Despite that, it's also not as nutritionally complete as other milk options and should only be given to kittens in small amounts.
+Rice milk: Rice milk is another lactose-free alternative to cow's milk. Then again, it's also not as nutritionally complete as other milk options and should only be given to kittens in small amounts.
 
 No matter which milk option you choose, it's important to start with small amounts and increase gradually over time. You should also consult with an animal expert before making any changes to your kitten's diet.
 

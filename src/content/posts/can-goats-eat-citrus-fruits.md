@@ -51,7 +51,7 @@ In this article, we will explore the [nutritional value of citrus fruits for goa
 
 ## Can goats eat citrus fruits?
 
-Despite that, there are a few [things to consider when feeding citrus fruits to goats](/can-a-dog-get-sick-from-a-goat/). The biggest concern is the acidity of the fruit, which can [cause digestive problems for goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Still, there are a few [things to consider when feeding citrus fruits to goats](/can-a-dog-get-sick-from-a-goat/). The biggest concern is the acidity of the fruit, which can [cause digestive problems for goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 If you do [feed citrus fruits to goats](/can-a-goat-feed-quads/), make sure to do so in moderation and offer other types of food as well.
 
@@ -149,7 +149,7 @@ As long as they have access to fresh water, goats can make do with surprisingly 
 
 ## Final Thoughts
 
-Citrus fruits are a good source of nutrients like vitamin C, folate, and potassium. Despite that, too much citrus can cause digestive problems.
+Citrus fruits are a good source of nutrients like vitamin C, folate, and potassium. At the same time, too much citrus can cause digestive problems.
 
 As a general rule, a goat can eat about one medium-sized citrus fruit per day.
 

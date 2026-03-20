@@ -53,7 +53,7 @@ In this article, we will answer all of your questions about feeding kiwi to goat
 
 ## Can goats eat kiwi?
 
-Despite that, it's important to note that kiwis are not a necessary part of a [goat's diet](/why-do-goats-eat-everything/) and should only be given as a treat in moderation.
+Still, it's important to note that kiwis are not a necessary part of a [goat's diet](/why-do-goats-eat-everything/) and should only be given as a treat in moderation.
 
 The biggest risk associated with feeding kiwi to goats is the potential for choking. This is because the seeds of the fruit can get lodged in a goat's throat.
 
@@ -77,7 +77,7 @@ Goats are curious creatures and will often nibble on things that they shouldn't 
 
 Goats usually prefer to [eat the leaves of plants](/can-goats-eat-any-plant/) rather than the stems, but they will happily munch on kiwi stems if they are available.
 
-Kiwi stems are a good source of fiber and also contain minerals such as magnesium and calcium. On top of that, kiwi stems contain compounds that can help to reduce inflammation in the digestive system.
+Kiwi stems are a good source of fiber and also contain minerals such as magnesium and calcium. Another thing to note is kiwi stems contain compounds that can help to reduce inflammation in the digestive system.
 
 While there's no need to feed goats specifically kiwi stems, they can be a healthy part of their diet if they are available.
 

@@ -48,11 +48,11 @@ In this article, we will answer those questions about ivermectin and provide som
 
 ## Can I use ivermectin pour on in sheep and goats?
 
-On top of that, ivermectin can be used to prevent certain parasites, such as heartworm, from infecting your sheep or goats.
+Beyond that, ivermectin can be used to prevent certain parasites, such as heartworm, from infecting your sheep or goats.
 
 However, please note that ivermectin should not be used on [pregnant animals or young lambs and kids](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/).
 
-Additionally, some strains of resistant parasites have developed over time, so it is always important to consult a goat expert about the best course of treatment for your animals.
+Additionally, some strains of resistant parasites have developed over time, so it is always important to consult a veterinarian about the best course of treatment for your animals.
 
 ## What is Ivermectin and what does it treat?
 
@@ -102,7 +102,7 @@ For example, you should never administer the medication to pregnant animals, as 
 
 Similarly, Ivermectin is not recommended for very young or very old animals, as their immune systems may not be able to cope with the drug.
 
-On top of that, its use needs to be carefully considered when treating animals that are already sick or harboring other medical conditions.
+It's also worth noting that its use needs to be carefully considered when treating animals that are already sick or harboring other medical conditions.
 
 When in doubt, it is always best to consult with a qualified goat expert prior to administering any medication to your livestock. This will help ensure that they receive the proper treatment and care they need.
 
@@ -124,7 +124,7 @@ In general, administering Ivermectin to sheep and goats requires careful conside
 
 The recommended dosage rates for Ivermectin vary depending on the weight of the animal being treated.
 
-For example, the standard dosage rate for sheep is 1mL per 50kg, while the dosage rate for goats is 1mL per 33kg. Despite that, these rates may differ depending on the animal's age, health status, and other factors.
+For example, the standard dosage rate for sheep is 1mL per 50kg, while the dosage rate for goats is 1mL per 33kg. At the same time, these rates may differ depending on the animal's age, health status, and other factors.
 
 It is always best to [consult with a qualified goat expert prior to administering any medication to your livestock](/can-you-debloat-a-goat/), as they will be able to determine the best course of treatment for each individual animal.
 

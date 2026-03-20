@@ -119,7 +119,7 @@ While there are many alternative milk sources that can be used for sheep, raw go
 
 This is because raw goat milk contains all of the nutrients that sheep need in order to stay healthy, including easily-digestible fats and proteins, calcium, and other minerals.
 
-Additionally, raw goat milk is less likely than other types of milk to cause digestive upset in sheep. However, if you are unable to obtain raw goat milk, there are a few other alternatives that can be used, such as raw [cow's milk](/can-goats-drink-cows-milk/) or soy milk.
+Additionally, raw goat milk is less likely than other types of milk to cause digestive upset in sheep. However, if you are unable to obtain raw goat milk, there are a few other alternatives that can be used, such as raw cow's milk or soy milk.
 
 Ultimately, it is crucial to consult with your vet or another expert before feeding your sheep any alternative milk sources, as some of these options may not be suitable for all animals.
 

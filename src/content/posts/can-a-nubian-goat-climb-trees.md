@@ -49,7 +49,7 @@ In this article, we will answer all of your questions and provide everything you
 
 ## Can a Nubian goat climb trees?
 
-Despite that, you need to be careful if you allow your Nubian goat to climb trees. They could get injured if they fall from a height.
+Keep in mind, you need to be careful if you allow your Nubian goat to climb trees. They could get injured if they fall from a height.
 
 It's important to only allow them to climb trees that are safe and not too high off the ground.
 

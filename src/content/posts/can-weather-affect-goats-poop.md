@@ -54,7 +54,7 @@ In this article, we will answer these questions and give you some helpful tips o
 
 ## Can weather affect goats poop?
 
-However, it's not just the temperature that can impact goat poop. Rain, snow, and wind can also affect [goats' digestive systems](/can-goats-digest-cigarettes/).
+However, it's not just the temperature that can impact goat poop. Rain, snow, and wind can also affect goats' digestive systems.
 
 Wet weather can cause diarrhea, while dry weather can lead to constipation. Windy conditions can also make it difficult for goats to digest their food properly. If you keep [goats in an urban environment](/can-goats-live-in-an-urban-environment/), managing weather exposure becomes even more important.
 
@@ -126,7 +126,7 @@ By taking these simple precautions, farmers can help ensure that their goats rem
 
 One of the best ways to prevent the issue with [goats' poop](/can-horses-drink-water-that-has-goat-poop-in-it/) is to provide them with plenty of fresh water. Goats tend to produce a lot of waste, and if they don't have enough water to stay hydrated, their poop can become very dry and difficult to pass.
 
-On top of that, you can [feed your goats](/can-a-goat-feed-quads/) a high-fiber diet to help them stay regular. Finally, you should clean their living area regularly to prevent the build-up of waste and keep the environment healthy.
+Additionally, you can [feed your goats](/can-a-goat-feed-quads/) a high-fiber diet to help them stay regular. Finally, you should clean their living area regularly to prevent the build-up of waste and keep the environment healthy.
 
 By taking these simple steps, you can help reduce the issue with goats' poop.
 

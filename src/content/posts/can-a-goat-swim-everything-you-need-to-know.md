@@ -55,7 +55,7 @@ However, there are some goats who do not like to swim and will avoid it if they 
 
 Most [goats are excellent swimmers and love to play in the water](/can-i-give-a-sick-goat-water-through-a-syringe/). They are often seen swimming in ponds and lakes, and will even jump in if given the chance.
 
-Despite that, there are a few goats who do not like the water and will avoid it if possible.
+Even so, there are a few goats who do not like the water and will avoid it if possible.
 
 These goats usually have no problem crossing small streams or walking through dewy grass, but they will not go near larger bodies of water. It's believed that this aversion to water is due to a genetic mutation that [affects a small minority of the goat](/can-weather-affect-goats-poop/) population.
 
@@ -93,9 +93,9 @@ But what about goats? Well, it turns out that [goats can benefit from swimming](
 
 Just like people, goats need to exercise to stay healthy and fit.
 
-Despite that, because they are so small, it can be difficult for them to get enough exercise on their own. That's where swimming comes in.
+Keep in mind, because they are so small, it can be difficult for them to get enough exercise on their own. That's where swimming comes in.
 
-Swimming is an excellent [form of exercise for goats](/can-a-goat-form-an-udder-without-being-pregnant/), and it can help them to build muscle and stay lean. In addition, swimming is also a great way for goats to socialize with other goats.
+Swimming is an excellent form of exercise for goats, and it can help them to build muscle and stay lean. In addition, swimming is also a great way for goats to socialize with other goats.
 
 So not only is swimming good for your health - it's also good for your goat's health.
 

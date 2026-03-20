@@ -54,7 +54,7 @@ So, it is important to take some precautions if you live in an area where the bu
 
 The bubonic plague is a disease that affects both humans and animals. It is caused by the bacteria Yersinia pestis.
 
-Symptoms of the bubonic plague in goats include fever, [lethargy](/can-i-give-goat-trazodone/), loss of appetite, and enlarged lymph nodes.
+Symptoms of the bubonic plague in goats include fever, lethargy, loss of appetite, and enlarged lymph nodes.
 
 In some cases, the lymph nodes may become pus-filled and bleed. The disease can be transmitted from animals to humans through contact with infected body fluids or tissues.
 
@@ -90,7 +90,7 @@ There is no specific treatment for the bubonic plague, but antibiotics may be us
 
 Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals.
 
-Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and [swollen lymph nodes](/can-a-goat-get-a-cold-sore/). If you suspect that your goat has bubonic plague, it is crucial to seek goat expert care immediately.
+Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and [swollen lymph nodes](/can-a-goat-get-a-cold-sore/). If you suspect that your goat has bubonic plague, it is crucial to seek veterinarian care immediately.
 
 The disease can be treated with [antibiotics](/can-pregnant-goats-eat-medicated-feed/), but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
 
@@ -114,7 +114,7 @@ Johne's disease can be treated with antibiotics, but there is no effective vacci
 
 Keeping your goats healthy and safe from all diseases is important for several reasons. First, healthy goats are more productive and provide more milk, meat, and fiber than sick ones.
 
-Second, healthy goats live longer and require less goat expert care, which saves you money in the long run.
+Second, healthy goats live longer and require less veterinarian care, which saves you money in the long run.
 
 Third, diseases can [spread quickly among goats](/can-goats-spread-lice-to-llamas/), so it is crucial to do everything you can to prevent them from getting sick in the first place. Fortunately, there are a few simple steps you can take to keep your goats healthy and disease-free.
 

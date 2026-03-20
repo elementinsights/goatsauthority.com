@@ -45,7 +45,7 @@ In this article, we'll examine the solutions to these and other concerns while a
 
 ## Can goats be tied up for selective area grazing?
 
-Despite that, it's important to remember that goats are herd animals and they do not like to be left alone. So, if you are going to tie up your goats for grazing, it's best to do it in a way that allows them to still see and interact with their herd mates.
+Keep in mind, it's important to remember that goats are herd animals and they do not like to be left alone. So, if you are going to tie up your goats for grazing, it's best to do it in a way that allows them to still see and interact with their herd mates.
 
 One way to achieve this is to use a portable electric fence. You can set up the fence around the perimeter of the area you want them to graze in and then move it as needed.
 

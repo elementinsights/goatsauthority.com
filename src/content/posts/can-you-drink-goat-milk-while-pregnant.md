@@ -46,7 +46,7 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can you drink goat milk while pregnant?
 
-On top of that, goat milk may contain higher levels of certain vitamins and minerals that are beneficial for pregnant women. These include Vitamin A, B vitamins, and essential fatty acids such as [Omega-3 and Omega-6](/can-i-give-my-goat-omegablume/).
+Plus, goat milk may contain higher levels of certain vitamins and minerals that are beneficial for pregnant women. These include Vitamin A, B vitamins, and essential fatty acids such as [Omega-3 and Omega-6](/can-i-give-my-goat-omegablume/).
 
 It’s important to note, however, that goat milk is not a replacement for prenatal vitamins or other supplements recommended by your doctor. You should always discuss any dietary changes with your healthcare provider, including the addition of goat milk.
 
@@ -126,6 +126,6 @@ Remember, your doctor is there to help - so don't hesitate to reach out if you h
 
 Overall, goat milk can be a great source of essential nutrients while pregnant. Make sure to discuss any dietary changes with your doctor before consuming goat milk, and always be sure to choose pasteurized varieties.
 
-On top of that, [eating a balanced diet and staying hydrated is important for good health](/can-you-drink-raw-goat-milk-on-gaps-diet/) during pregnancy.
+Similarly, [eating a balanced diet and staying hydrated is important for good health](/can-you-drink-raw-goat-milk-on-gaps-diet/) during pregnancy.
 
 By following these tips, you can ensure that you and your baby get the nutrition you need to stay healthy throughout your pregnancy.

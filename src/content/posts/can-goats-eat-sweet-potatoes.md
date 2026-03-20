@@ -86,7 +86,7 @@ They also require a diet that is high in [fiber](/can-goats-eat-timothy-hay/) in
 
 Sweet potatoes provide goats with essential nutrients, as well as the fiber they need to stay healthy.
 
-On top of that, sweet potatoes can help to keep goats feeling full and satisfied between meals. As a result, sweet potatoes can be an excellent way to help goats stay healthy and happy.
+Beyond that, sweet potatoes can help to keep goats feeling full and satisfied between meals. As a result, sweet potatoes can be an excellent way to help goats stay healthy and happy.
 
 ## Are there any risks associated with feeding sweet potatoes to goats?
 
@@ -102,7 +102,7 @@ To avoid this, feed sweet potatoes to goats in moderation and monitor their stoo
 
 Finally, sweet potatoes can attract insects. To avoid this, store sweet potatoes in a cool, dry place.
 
-Overall, sweet potatoes are a portion of healthy food for goats. Despite that, there are a few risks to consider when feeding them to goats.
+Overall, sweet potatoes are a portion of healthy food for goats. Be aware, there are a few risks to consider when feeding them to goats.
 
 by following these tips, you can help ensure that your goats stay healthy and happy.
 

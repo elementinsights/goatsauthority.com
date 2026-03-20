@@ -100,7 +100,7 @@ If you do notice health problems in your sheep or goats after feeding them bread
 
 They will be able to assess the situation and recommend the best course of treatment. In some cases, the problem may be resolved simply by discontinuing the feeding of bread.
 
-Despite that, more serious [health problems may require medication](/can-you-disbud-a-goat-without-medication/) or even surgery.
+Keep in mind, more serious [health problems may require medication](/can-you-disbud-a-goat-without-medication/) or even surgery.
 
 Regardless, it is always best to seek professional medical help if you are concerned about the health of your animals.
 
@@ -108,7 +108,7 @@ Overall, there are many reasons why feeding bread to sheep and goats makes sense
 
 Many people have fed their animal's bread for centuries, and this practice is common in many parts of the world.
 
-Despite that, if you are thinking about adding bread to your animal's diet, it is important to consult with a trusted veterinarian first. There are also some simple precautions you can take to prevent health problems.
+Even so, if you are thinking about adding bread to your animal's diet, it is important to consult with a trusted veterinarian first. There are also some simple precautions you can take to prevent health problems.
 
 With a little care and planning, you can provide your sheep or goats with the nutritious meals they need to thrive.
 

@@ -56,7 +56,7 @@ A sheep-goat hybrid is a creature with characteristics of both sheep and goats. 
 
 These offspring usually have the body of a sheep and the head of a goat, although they may also inherit certain traits from their goat parent, such as longer legs or fur that is more coarse.
 
-Sheep-goat hybrids are typically sterile, which means that they cannot produce offspring of their own. Yet, they can often be used for [milk production](/can-a-goat-form-an-udder-without-being-pregnant/) or as working animals thanks to their unique combination of traits.
+Sheep-goat hybrids are typically sterile, which means that they cannot produce offspring of their own. Yet, they can often be used for milk production or as working animals thanks to their unique combination of traits.
 
 The creation of a goat-sheep hybrid is usually the result of human intervention, as these animals would not naturally breed in the wild. In most cases, a male goat is bred with a female sheep in order to create this type of hybrid.
 
@@ -66,7 +66,7 @@ While the process of interspecies crossbreeding is not common, it can be done un
 
 Goat-sheep hybrids can be beneficial for a number of reasons. One of the most common is that these animals can be used for milk production.
 
-Thanks to their combination of goat and sheep traits, they often [produce more milk](/can-a-goat-bag-up-without-being-pregnant/) than either species on its own. This milk can be used for a variety of purposes, such as making cheese or other dairy products.
+Thanks to their combination of goat and sheep traits, they often produce more milk than either species on its own. This milk can be used for a variety of purposes, such as making cheese or other dairy products.
 
 In addition, goat-sheep hybrids can be used as working animals. Thanks to their strength and stamina, they can be helpful for tasks such as herding sheep or goats.
 
@@ -94,7 +94,7 @@ A goat-sheep hybrid is an animal that has characteristics of both a goat and a s
 
 Geeps are usually the result of breeding a male goat with a female sheep, they can also occur when [female goat breeds with a male sheep](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/).
 
-Geeps are usually sterile, which means they [cannot reproduce](/can-goats-save-sperm/). Despite that, there have been some reports of fertile geeps.
+Geeps are usually sterile, which means they [cannot reproduce](/can-goats-save-sperm/). Even so, there have been some reports of fertile geeps.
 
 Goat-sheep hybrids tend to have the body of a sheep and the head of a goat. They also typically have the horns of a goat.
 

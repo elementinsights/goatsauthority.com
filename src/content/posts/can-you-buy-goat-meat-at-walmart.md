@@ -119,7 +119,7 @@ Another downside is that goat meat is not as widely available as other meats, so
 
 Goat meat is available year-round, but the best time to buy it is during the spring and early summer months. This is when the animals are typically slaughtered, so the meat is fresher and more plentiful.
 
-Despite that, goat meat can be difficult to find in some areas. If you're having trouble tracking it down, your best bet is to ask your local butcher or grocery store manager.
+Then again, goat meat can be difficult to find in some areas. If you're having trouble tracking it down, your best bet is to ask your local butcher or grocery store manager.
 
 They may be able to special order it for you or point you in the right direction. With a little effort, you should be able to find goat meat and enjoy its unique flavor and nutrition.
 

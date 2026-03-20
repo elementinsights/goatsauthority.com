@@ -67,7 +67,7 @@ Finally, Breeders who have successfully bred a 6 yr old goat can also share thei
 
 There are some risks associated with breeding a 6 yr old goat. For example, if the goat is not healthy, it may have difficulty conceiving or carrying a pregnancy to term.
 
-On top of that, if the [goat is not compatible with the buck](/can-you-band-a-2-year-old-buck-goat/) you are using for breeding, the breeding process may be more difficult and may result in fewer offspring.
+Plus, if the [goat is not compatible with the buck](/can-you-band-a-2-year-old-buck-goat/) you are using for breeding, the breeding process may be more difficult and may result in fewer offspring.
 
 Finally, if you are not experienced in [goat breeding](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/), it is important to seek out help from a professional before attempting to breed a 6 yr old goat. This will help you avoid any unnecessary risks and increase your chances of success.
 
@@ -77,7 +77,7 @@ The best time to start [breeding goats is typically around the age of 6](/can-a-
 
 However, there are some exceptions to this rule. For example, if you are looking to [produce goats](/can-a-female-goat-produce-milk-without-being-pregnant/) with specific traits, you may need to start breeding them earlier or later than 6 months old.
 
-On top of that, the best time to start breeding goats will also depend on the type of goat you are raising. [Dairy goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), for example, typically have a shorter breeding season than meat goats.
+What's more, the best time to start breeding goats will also depend on the type of goat you are raising. [Dairy goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), for example, typically have a shorter breeding season than meat goats.
 
 If you are unsure about when the best time to start breeding your goats is, you can always consult with a professional. A veterinarian or experienced breeder will be able to give you more specific advice based on your goats' individual needs.
 
@@ -101,7 +101,7 @@ Second, you can try breeding your goat at a different time of year. Dairy goats,
 
 Lastly, you can try using a different buck. If the [goat is not compatible with the buck](/can-rams-be-in-with-goat-bucks/) you are using for breeding, the breeding process may be more difficult and may result in fewer offspring.
 
-On top of that, if the goat is not healthy, it may have difficulty conceiving or carrying a pregnancy to term. If this is the case, you may need to consult with a veterinarian to see if there are any medical conditions that need to be addressed.
+It's also worth noting that if the goat is not healthy, it may have difficulty conceiving or carrying a pregnancy to term. If this is the case, you may need to consult with a veterinarian to see if there are any medical conditions that need to be addressed.
 
 ## How can you tell if your goat is having a successful pregnancy?
 

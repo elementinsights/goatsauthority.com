@@ -51,7 +51,7 @@ In this article, we will answer those questions about goat milk and grocery stor
 
 In addition to the grocery store, you can also purchase goat milk online. There are a number of websites that sell goat milk, both in whole and skim varieties.
 
-Despite that, some people may have difficulty finding goat milk at the store. If this is the case, you can try searching for it at a health food store or an international market.
+Keep in mind, some people may have difficulty finding goat milk at the store. If this is the case, you can try searching for it at a health food store or an international market.
 
 ## What is goat milk and why is it so good for you?
 
@@ -85,7 +85,7 @@ With these tips in mind, buying goat milk at the grocery store is easy and conve
 
 Goat milk is becoming an increasingly popular choice at the grocery store, and for good reason. Goat milk contains less lactose than cow milk, making it easier for those with [lactose intolerance](/can-someone-allergic-to-milk-use-goats-milk/) to digest.
 
-On top of that, goat milk is rich in vitamins and minerals, including calcium, phosphorus, and vitamin A. Goat milk also has a higher fat content than cow milk, which gives it a creamy texture and makes it ideal for baking.
+Another thing to note is goat milk is rich in vitamins and minerals, including calcium, phosphorus, and vitamin A. Goat milk also has a higher fat content than cow milk, which gives it a creamy texture and makes it ideal for baking.
 
 Finally, goat milk is a great choice for those who are looking for an alternative to cow milk. The distinct flavor of goat milk can add a new dimension to your favorite recipes.
 
@@ -97,7 +97,7 @@ While there are some advantages to buying milk from the grocery store, such as c
 
 For example, the milk may not be as fresh, and it may not come from goats that have been well cared for. When you buy milk from a farm or dairy, you can talk to the farmers and learn about their methods and how they [care for their animals](/can-goats-die-from-lymes/).
 
-This can help you make sure that you're getting milk that is high quality and nutritious. On top of that, buying [milk from a farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or dairy supports local businesses, which is good for the local economy.
+This can help you make sure that you're getting milk that is high quality and nutritious. Plus, buying [milk from a farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or dairy supports local businesses, which is good for the local economy.
 
 But, buying goat milk from the grocery store is still better than not drinking goat milk at all.
 

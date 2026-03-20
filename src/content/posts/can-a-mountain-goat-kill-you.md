@@ -50,7 +50,7 @@ In this article, we will take a closer look at the mountain goat and explore som
 
 ## Can a mountain goat kill you?
 
-Despite that, it's very rare for mountain goats to attack humans. In most cases, they will only do so if they feel threatened or are trying to protect their young.
+With that in mind, it's very rare for mountain goats to attack humans. In most cases, they will only do so if they feel threatened or are trying to protect their young.
 
 If you encounter a mountain goat in the wild, it's crucial to stay calm and avoid making any sudden movements.
 
@@ -82,7 +82,7 @@ But, mountain goats can also be aggressive, especially when they feel threatened
 
 First, give them plenty of space. Mountain goats are naturally curious creatures, and they may approach humans out of curiosity.
 
-Despite that, they can also become agitated if they feel crowded or hemmed in. If you see a mountain goat, give it a wide berth and allow it to move away from you on its own terms.
+With that in mind, they can also become agitated if they feel crowded or hemmed in. If you see a mountain goat, give it a wide berth and allow it to move away from you on its own terms.
 
 Second, avoid making loud noises or sudden movements around mountain goats. As with any wild animal, it’s important to avoid startling them.
 
@@ -116,7 +116,7 @@ In addition to grasses and herbs, mountain goats also consume a type of moss kno
 
 This lichen is very slow-growing, so it's an important food source for mountain goats as it provides them with much-needed nutrients throughout the winter months when other food sources are scarce.
 
-Mountain goats are grazing animals, so their diet consists mostly of plant matter. Despite that, they will occasionally eat small mammals such as rodents or birds.
+Mountain goats are grazing animals, so their diet consists mostly of plant matter. At the same time, they will occasionally eat small mammals such as rodents or birds.
 
 These animals provide the mountain goat with a source of protein and fat, which is essential for their survival in cold environments. Mountain goats are well-adapted to their alpine habitat, and their diet helps them to thrive in this harsh environment.
 

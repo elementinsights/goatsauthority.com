@@ -76,7 +76,7 @@ One common method that raccoons use is to simply crush their victims to death by
 
 In some cases, a group of raccoons may even work together to take down a much larger animal, such as a full-grown goat.
 
-On top of that, raccoons have been known to chase after running goats at high speeds and pounce on the animals when they're exhausted.
+Additionally, raccoons have been known to chase after running goats at high speeds and pounce on the animals when they're exhausted.
 
 Lastly, raccoons can also orchestrate complex ambushes to surprise unsuspecting goats and deliver a fatal blow before the goats have time to react.
 
@@ -88,7 +88,7 @@ There are many things that you can do to prevent raccoons from targeting your go
 
 You should also consider installing lighting in your pastures at night, as this can help to discourage raccoons from hanging around.
 
-On top of that, it may be helpful to remove access points where the animals could slip through, such as downspouts or [tree branches](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/).
+What's more, it may be helpful to remove access points where the animals could slip through, such as downspouts or [tree branches](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/).
 
 Finally, it's important to be aware of any trouble signs that may indicate an attack is imminent, such as strange noises or eating habits.
 
@@ -102,7 +102,7 @@ First, try to scare away the animal using loud noises or bright lights. For exam
 
 These strategies can be effective at chasing the animal away, as it may associate the loud noises or bright lights with danger and avoid returning to your property in the future.
 
-On top of that, consider investing in security cameras or motion-sensor lights to monitor and deter raccoons from approaching your goats' enclosure.
+Plus, consider investing in security cameras or motion-sensor lights to monitor and deter raccoons from approaching your goats' enclosure.
 
 Finally, if none of these solutions work to discourage the raccoon from coming back, it may be necessary to physically trap and remove it from your property.
 
@@ -118,7 +118,7 @@ Other common goat predators include weasels, [foxes](/can-a-fox-kill-a-goat/), a
 
 Fortunately, there are several strategies that you can use to protect your goats from these predators. For example, you may wish to invest in sturdy fencing that prevents animals from entering your property or pen.
 
-This can also help deter smaller predators like snakes or cats from accessing your goats. On top of that, it is crucial to keep an eye out for any signs of predator activity on your property, such as paw prints in the mud or scratch marks on fences and trees.
+This can also help deter smaller predators like snakes or cats from accessing your goats. What's more, it is crucial to keep an eye out for any signs of predator activity on your property, such as paw prints in the mud or scratch marks on fences and trees.
 
 By staying vigilant and implementing preventative measures like these, you can successfully safeguard your goats against the scourge of raccoons and other predators.
 

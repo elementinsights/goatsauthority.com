@@ -60,7 +60,7 @@ They will also eat grasses, herbs, and leafy greens. This diet helps goats stay 
 
 However, it can also have a negative impact on the land they graze on. Goats tend to overgraze vegetation, which can lead to soil erosion and the loss of important plant species.
 
-On top of that, [goats can also spread weed seeds](/can-goats-spread-lice-to-llamas/) when they defecate, leading to the further spread of invasive plant species.
+Additionally, [goats can also spread weed seeds](/can-goats-spread-lice-to-llamas/) when they defecate, leading to the further spread of invasive plant species.
 
 As a result, you need to carefully manage the grazing of [goats in order to protect the land they live on](/can-a-pygmy-goat-live-with-a-mini-pig/).
 
@@ -72,7 +72,7 @@ Additionally, goats are relatively easy to care for and require less food and pa
 
 Finally, goats can help control weeds and brush on a farm, making them an environmentally friendly option for land management.
 
-On top of that, their usefulness on the farm, goats are also gaining popularity as pets. [Goats are intelligent and social creatures that form strong bonds](/can-a-goat-form-an-udder-without-being-pregnant/) with their owners.
+Also, their usefulness on the farm, goats are also gaining popularity as pets. Goats are intelligent and social creatures that form strong bonds with their owners.
 
 They are also relatively easy to care for, and their small size makes them easy to keep in a backyard or on a small farm.
 

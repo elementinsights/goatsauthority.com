@@ -55,7 +55,7 @@ When feeding brown sugar to pygmy goats, it is crucial to consider the following
 - Make sure the brown sugar does not contain any added molasses.
 - Avoid feeding brown sugar to goats that are pregnant or nursing.
 
-If you have any concerns about feeding brown sugar to your pygmy goat, please consult with a goat expert or qualified animal nutritionist.
+If you have any concerns about feeding brown sugar to your pygmy goat, please consult with a veterinarian or qualified animal nutritionist.
 
 ## What are the benefits of feeding brown sugar to pygmy goats?
 
@@ -99,7 +99,7 @@ The most important thing to remember if your goat experiences brown sugar toxici
 
 Ultimately, the key to managing brown sugar toxicity in goats is knowledge and preventative care.
 
-By making sure that you avoid [feeding your animals any type of sugary human food](/can-a-goat-feed-quads/) and by establishing a strong relationship with a trusted goat expert, you can reduce your goat's risk of experiencing this troubling condition.
+By making sure that you avoid [feeding your animals any type of sugary human food](/can-a-goat-feed-quads/) and by establishing a strong relationship with a trusted veterinarian, you can reduce your goat's risk of experiencing this troubling condition.
 
 ## When is the best time to visit a vet if my pygmy goat has eaten brown sugar?
 
@@ -119,7 +119,7 @@ Some sources recommend keeping the daily intake to around one tablespoon, while 
 
 It is important to note, but, that there have been some reports of brown sugar leading to digestive issues in certain individuals, so it is always best to proceed with caution when introducing any new dietary elements into your goat's diet.
 
-Ultimately, if you are concerned about any health or nutritional issues related to your pygmy goats' intake of brown sugar, it is best to consult a qualified goat expert for guidance and personalized recommendations.
+Ultimately, if you are concerned about any health or nutritional issues related to your pygmy goats' intake of brown sugar, it is best to consult a qualified veterinarian for guidance and personalized recommendations.
 
 ## Are there any alternative treats can pygmy goat eat?
 
@@ -133,7 +133,7 @@ Overall, providing occasional treats is a great way to pamper your [pygmy goats]
 
 ## Final Thoughts
 
-Brown sugar toxicity in goats can be a serious condition that can lead to death if not treated promptly. If you believe your goat has eaten brown sugar, it is important to visit a goat expert as soon as possible.
+Brown sugar toxicity in goats can be a serious condition that can lead to death if not treated promptly. If you believe your goat has eaten brown sugar, it is important to visit a veterinarian as soon as possible.
 
 There is no hard and fast rule when it comes to how much brown sugar you can give your pygmy goat each day. There are many different types of treats that pygmy goats can eat.
 

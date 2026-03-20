@@ -60,7 +60,7 @@ There are a variety of different types of hay that can be fed to goats, and timo
 
 Timothy hay is rich in fiber and nutrients, and it can help goats maintain a [healthy digestive system](/can-goats-eat-oats/). In addition, timothy hay is a good source of energy, which can be beneficial for goats that are active or growing.
 
-Despite that, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. Ultimately, it's up to the goat owner to experiment with different types of feed and find what works best for their animals.
+Still, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. Ultimately, it's up to the goat owner to experiment with different types of feed and find what works best for their animals.
 
 ## Can a pregnant goat eat timothy hay?
 
@@ -100,7 +100,7 @@ Additionally, timothy hay may not provide the nutrients that a sick goat needs i
 
 For these reasons, it's generally recommended that sick goats be fed a more easily digestible diet, such as [grain](/can-goats-eat-corn/) or pellets.
 
-Despite that, if the goat's condition is not severe, timothy hay may be a suitable food option. Ultimately, the decision of whether or not to feed timothy hay to a sick goat should be made by an animal expert familiar with the animal's individual case.
+Be aware, if the goat's condition is not severe, timothy hay may be a suitable food option. Ultimately, the decision of whether or not to feed timothy hay to a sick goat should be made by an animal expert familiar with the animal's individual case.
 
 ## What are the benefits of feeding timothy hay to goats?
 

@@ -56,7 +56,7 @@ A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturit
 
 Nigerian Goat Doelings are usually born weighing between 2-4 pounds (0.9-1.8 kg). They are able to stand and walk on their own within a few hours after birth and will be fully weaned by 8 weeks of age.
 
-Nigerian Goat Doelings are usually bred for meat production, but can also be kept as pets or used for [milk production](/can-a-goat-bag-up-without-being-pregnant/).
+Nigerian Goat Doelings are usually bred for meat production, but can also be kept as pets or used for milk production.
 
 ## When can a Nigerian goat doeling be bred?
 
@@ -74,7 +74,7 @@ Ultimately, the decision of when to breed a Nigerian Dwarf goat doeling will dep
 
 Nigerian Dwarf goats are a popular choice for small-scale dairy farmers and hobbyists alike. But before you bring home a Nigerian Dwarf doeling, it's important to consider some health concerns that may impact her future wellbeing.
 
-First and foremost, Nigerian Dwarf goats are prone to chlamydia, which is a bacterial infection that can cause respiratory problems, [infertility](/can-a-goat-form-an-udder-without-being-pregnant/), and even death.
+First and foremost, Nigerian Dwarf goats are prone to chlamydia, which is a bacterial infection that can cause respiratory problems, infertility, and even death.
 
 Be sure to have your doeling tested for chlamydia before breeding her. Nigerian Dwarf goats are also susceptible to caprine arthritis encephalitis (CAE), which is a viral condition that causes joint pain and swelling, as well as neurological symptoms such as head-tilting and paralysis.
 
@@ -90,7 +90,7 @@ When selecting a buck to breed your doeling, be sure to choose one that comes fr
 
 it's also important to make sure that the buck is large enough to properly cover the doe; if he is too small, there's a risk of the doe being injured during breeding.
 
-Be sure to have your doeling tested for chlamydia before breeding her, and consult with a goat expert about how to best manage ketosis in your Nigerian Dwarf doeling.
+Be sure to have your doeling tested for chlamydia before breeding her, and consult with a veterinarian about how to best manage ketosis in your Nigerian Dwarf doeling.
 
 By taking these precautions, you can help ensure that your doeling has a healthy and productive life.
 

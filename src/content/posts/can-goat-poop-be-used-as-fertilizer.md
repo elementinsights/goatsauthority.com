@@ -48,7 +48,7 @@ Then, we'll respond to all of your questions in this article and give you a guid
 
 ## Can goat poop be used as fertilizer?
 
-Despite that, it's important to note that [goat manure should not be used fresh as it may burn plants](/can-goats-eat-any-plant/). It's recommended to compost goat manure before using it as fertilizer or side-dressing.
+With that in mind, it's important to note that [goat manure should not be used fresh as it may burn plants](/can-goats-eat-any-plant/). It's recommended to compost goat manure before using it as fertilizer or side-dressing.
 
 ## What is goat manure and what are its benefits as a fertilizer?
 
@@ -96,7 +96,7 @@ Side-dressing is a good way to give plants a boost of nutrients and can be done 
 
 Goat waste can be an excellent fertilizer for crops. Unlike many other animals, [goats digest](/can-goats-digest-anything/) their food very thoroughly, leaving few undigested seeds or other debris in their manure.
 
-On top of that, goat manure is relatively low in nitrogen, making it less likely to burn plants when used as a fertilizer. As a result, crops such as tomatoes, peppers, and eggplants can all benefit from goat waste.
+Beyond that, goat manure is relatively low in nitrogen, making it less likely to burn plants when used as a fertilizer. As a result, crops such as tomatoes, peppers, and eggplants can all benefit from goat waste.
 
 To properly fertilize with goat waste, it's crucial to allow the manure to age for a few weeks before using it on crops. This will help to break down any remaining seeds or debris, and also make the nitrogen content more manageable.
 
@@ -108,7 +108,7 @@ With proper care, goat waste can provide a valuable source of nutrients for your
 
 Goat manure is a popular type of fertilizer, especially among organic gardeners. It's relatively high in nitrogen, phosphorus, and potassium, which are all essential nutrients for plants.
 
-On top of that, it provides a good source of organic matter, which can help improve the structure of your soil. However, there are a few [potential risks to using goat manure](/can-a-plastic-bag-hurt-a-goat/) as fertilizer.
+Also, it provides a good source of organic matter, which can help improve the structure of your soil. However, there are a few [potential risks to using goat manure](/can-a-plastic-bag-hurt-a-goat/) as fertilizer.
 
 First of all, it may contain weed seeds, which could end up germinating in your garden.
 

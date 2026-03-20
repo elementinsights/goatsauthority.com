@@ -97,7 +97,7 @@ There are a number of risks associated with riding a goat, and it is important t
 
 Some of the most common risks include falls, bumps, and cuts or scrapes from sharp hooves. You should also be aware that [goats can bite](/can-goats-bite/) if startled. To prevent these risks, it is important to maintain a good balance while on the goat and make sure not to hold on too tightly to avoid getting knocked off.
 
-On top of that, you should wear safety gear like helmets, padding, and protective clothing when riding a goat as an extra precaution. By taking these simple steps, you can help keep yourself safe from any [potential hazards when riding a goat](/can-a-plastic-bag-hurt-a-goat/).
+What's more, you should wear safety gear like helmets, padding, and protective clothing when riding a goat as an extra precaution. By taking these simple steps, you can help keep yourself safe from any [potential hazards when riding a goat](/can-a-plastic-bag-hurt-a-goat/).
 
 ## What are the treatments for the risks associated with riding a goat?
 

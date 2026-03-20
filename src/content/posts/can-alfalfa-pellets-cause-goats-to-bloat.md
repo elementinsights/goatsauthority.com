@@ -48,7 +48,7 @@ One of the things you need to be very careful about is what type of hay you feed
 
 ## Can alfalfa pellets cause goats to bloat?
 
-Despite that, alfalfa pellets can be a part of a healthy diet for goats, as long as they are fed in moderation and mixed with other types of hay.
+Be aware, alfalfa pellets can be a part of a healthy diet for goats, as long as they are fed in moderation and mixed with other types of hay.
 
 ## What are the benefits of feeding alfalfa pellets to goats?
 
@@ -68,7 +68,7 @@ One of the biggest concerns is the potential for gastrointestinal blockage. Alfa
 
 Another concern is the possibility of bloat. Bloat is a condition that occurs when gas accumulates in the goat's stomach, and it can be fatal if not treated quickly.
 
-For these reasons, you need to talk to a goat expert before feeding alfalfa pellets to goats.
+For these reasons, you need to talk to a veterinarian before feeding alfalfa pellets to goats.
 
 ## What is bloat and what are the symptoms in goats?
 

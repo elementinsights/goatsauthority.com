@@ -88,7 +88,7 @@ If you're unsure about how many raw almonds to give your Nubian goat, it's alway
 
 ## Are there any risks associated with feeding my Nubian goat raw almonds?
 
-There are no known [risks or dangers associated with feeding your Nubian goat raw almonds](/can-a-cdt-shot-kill-a-goat/). Despite that, it's crucial to remember that goats are browsers, not grazers.
+There are no known [risks or dangers associated with feeding your Nubian goat raw almonds](/can-a-cdt-shot-kill-a-goat/). At the same time, it's crucial to remember that goats are browsers, not grazers.
 
 This means that their stomachs are designed to digest a variety of different plant materials, rather than just grasses. Therefore, they can't digest large amounts of any one thing.
 

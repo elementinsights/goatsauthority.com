@@ -50,7 +50,7 @@ But you need to be aware of the risks associated with giving your dog too much g
 
 However, it's important to be aware of the risks associated with giving your dog too much goat milk. Goat milk is high in fat and calories, which can lead to weight gain and obesity in dogs.
 
-On top of that, too much goat milk can cause diarrhea and an upset stomach.
+Additionally, too much goat milk can cause diarrhea and an upset stomach.
 
 When giving your dog goat milk, you [need to start slowly and increase the amount gradually over time](/how-many-babies-do-goats-have-at-a-time/). It's also important to monitor your dog for any signs of digestive upset, such as diarrhea or vomiting.
 
@@ -82,11 +82,11 @@ As any pet owner knows, you need to make sure your furry friend is getting the r
 
 While goat milk can be a healthy addition to your dog's diet, there are also some risks to consider.
 
-One of the biggest risks is that goat milk may not contain enough of the nutrients your dog needs. Unlike [cow's milk](/can-goats-drink-cows-milk/), which is fortified with vitamins and minerals, goat milk is not.
+One of the biggest risks is that goat milk may not contain enough of the nutrients your dog needs. Unlike cow's milk, which is fortified with vitamins and minerals, goat milk is not.
 
 As a result, your dog may end up deficient in important nutrients if you switch to goat milk exclusively.
 
-On top of that, some dogs are allergic to goat's milk or have difficulty digesting it. If you're considering giving your dog goat milk, be sure to talk to a dog expert first to make sure it's the right decision for your pet.
+It's also worth noting that some dogs are allergic to goat's milk or have difficulty digesting it. If you're considering giving your dog goat milk, be sure to talk to a dog expert first to make sure it's the right decision for your pet.
 
 ## How can I make sure my dog is getting the most out of goat milk?
 

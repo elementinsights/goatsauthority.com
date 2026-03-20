@@ -82,7 +82,7 @@ This enables your herd to be more resistant to common diseases such as parasites
 
 Furthermore, a diverse herd will have better odds of passing on exceptional traits, resulting in stronger and healthier offspring for generations to come.
 
-On top of that, crossbreeding goats can also lead to improvements in milk production, especially when combined with other breeding techniques such as selective mutism or selective insemination.
+Similarly, crossbreeding goats can also lead to improvements in milk production, especially when combined with other breeding techniques such as selective mutism or selective insemination.
 
 In general, there are many advantages to crossbreeding goats, making it a valuable technique for any dairy farmer looking to improve their herd.
 
@@ -90,7 +90,7 @@ In general, there are many advantages to crossbreeding goats, making it a valuab
 
 Crossbreeding is a commonly used practice in the farming industry, as it offers many benefits for both livestock producers and consumers.
 
-Despite that, there are also some potential problems associated with this type of breeding. The main issue is that livestock may be able to interbreed with related species, which can lead to [genetic defects](/can-you-breed-a-father-and-daughter-goat/) or undesirable physical traits in the offspring.
+Still, there are also some potential problems associated with this type of breeding. The main issue is that livestock may be able to interbreed with related species, which can lead to [genetic defects](/can-you-breed-a-father-and-daughter-goat/) or undesirable physical traits in the offspring.
 
 Additionally, crossbreeding can reduce the amount of genetic diversity within a population of animals, which could make them more susceptible to disease or environmental changes down the line.
 

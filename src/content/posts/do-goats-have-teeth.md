@@ -129,7 +129,7 @@ Tooth decay is caused by bacteria that produce acids that eat away at the enamel
 
 And abscesses are pockets of pus that form around infections.
 
-All of these problems can lead to [pain](/can-i-give-my-goat-vicodin-for-pain/) and difficulty eating, so it's important to be on the lookout for signs of trouble.
+All of these problems can lead to pain and difficulty eating, so it's important to be on the lookout for signs of trouble.
 
 Common symptoms include drooling, head shaking, and loss of appetite. If you think your goat might have a dental problem, take them to see a veterinarian as soon as possible.
 

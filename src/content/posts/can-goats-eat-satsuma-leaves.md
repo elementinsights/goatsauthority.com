@@ -57,7 +57,7 @@ In addition to being nutritious, satsuma leaves are also a natural source of ene
 
 Goats can use this sugar for immediate energy or store it in their bodies for later use.
 
-Despite that, it is still important to moderate when [feeding satsuma leaves to goats](/can-a-goat-feed-quads/). This is because too much sugar can cause digestive problems, such as diarrhea.
+Keep in mind, it is still important to moderate when [feeding satsuma leaves to goats](/can-a-goat-feed-quads/). This is because too much sugar can cause digestive problems, such as diarrhea.
 
 Too much fiber can also lead to [digestive issues in goats](/can-goats-digest-cotton/).
 
@@ -67,9 +67,9 @@ The best way to give satsuma leaves to goats is to [offer them fresh leaves in s
 
 Goats are browsers, which means that they prefer to eat the leaves of plants rather than fruits or seeds. This makes satsuma leaves an ideal [food for goats](/can-sheep-eat-goat-food/), as they are packed with nutrients that goats need to stay healthy.
 
-Satsuma leaves are high in fiber, which [helps goats to digest](/can-goats-digest-cigarettes/) their food properly and to maintain a healthy digestive system. The leaves are also a good source of vitamins A and C, both of which are essential for goats.
+Satsuma leaves are high in fiber, which helps goats to digest their food properly and to maintain a healthy digestive system. The leaves are also a good source of vitamins A and C, both of which are essential for goats.
 
-Vitamin A helps goats to maintain healthy skin and fur, while vitamin C helps them to fight off infection. On top of that, satsuma leaves contain calcium, which is necessary for strong bones and teeth.
+Vitamin A helps goats to maintain healthy skin and fur, while vitamin C helps them to fight off infection. Another thing to note is satsuma leaves contain calcium, which is necessary for strong bones and teeth.
 
 Overall, satsuma leaves are an [excellent source of nutrition for goats](/can-goats-eat-black-walnut-leaves/) and can help them to stay healthy and lively.
 
@@ -93,7 +93,7 @@ To make an insecticide, simply grind up some dried satsuma leaves and add them t
 
 Satsuma leaves are generally considered to be safe for goats, and according to the Satsuma Goat Association, they can actually be a healthy addition to a goat's diet. However, there are a few [potential risks associated with feeding satsuma leaves to goats](/can-a-plastic-bag-hurt-a-goat/).
 
-For example, the leaves may contain high levels of oxalic acid, which can cause health problems if consumed in large quantities. On top of that, satsuma leaves may also contain toxins that can be harmful to goats.
+For example, the leaves may contain high levels of oxalic acid, which can cause health problems if consumed in large quantities. Similarly, satsuma leaves may also contain toxins that can be harmful to goats.
 
 As such, it is crucial to exercise caution when [feeding satsuma leaves](/can-baking-soda-cause-urinary-issues-in-goats/) to goats and to consult with a goat expert if there are any concerns.
 

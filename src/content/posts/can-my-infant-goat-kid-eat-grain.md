@@ -54,7 +54,7 @@ That said, the majority of their diet should be made up of [hay](/what-kind-of-h
 
 Grain can be fed to goats as well, but it should only make up a small part of their overall diet. This is because grain is generally high in carbohydrates and can cause digestive problems if goats eat too much of it.
 
-On top of that, grain should always be cooked before feeding it to goats, as uncooked grain can be difficult for them to digest.
+Another thing to note is grain should always be cooked before feeding it to goats, as uncooked grain can be difficult for them to digest.
 
 When introducing grain into a goat's diet, it is crucial to do so slowly and in [small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help them to adjust to the new food and avoid any digestive issues.
 
@@ -92,7 +92,7 @@ There are a number of common mistakes that people tend to make when feeding goat
 
 Many people mistakenly believe that pellets and mash have the same nutritional content when in reality there are significant differences between them.
 
-On top of that, some people will choose to over-supplement the grain with extra minerals or vitamins, thinking that more is better.
+Plus, some people will choose to over-supplement the grain with extra minerals or vitamins, thinking that more is better.
 
 Lastly, it is important to remember that goat kids have very [sensitive digestive systems](/can-goats-eat-everything/), so it is crucial to be careful not to overload them with food or introduce new feeds too quickly.
 
@@ -104,7 +104,7 @@ One of the best ways to prevent [digestive problems](/can-goats-digest-anything/
 
 This can be done by starting with small amounts of grain and gradually increasing the amount over time.
 
-On top of that, it is crucial to cook the grain before feeding it to goats, as this will help to break down some of the complex carbohydrates and make them easier to digest.
+Also, it is crucial to cook the grain before feeding it to goats, as this will help to break down some of the complex carbohydrates and make them easier to digest.
 
 Lastly, be sure to provide plenty of fresh [water for your goats](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times, as this will help to keep their digestive system working properly.
 

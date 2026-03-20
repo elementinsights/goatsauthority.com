@@ -93,7 +93,7 @@ Goats are susceptible to a number of eye problems, many of which can be prevente
 
 Water helps to keep the eyes moist and prevents dryness and irritation. It's also important to avoid overfeeding your goats, as obesity can lead to a condition called “sore” eyelids, in which the eyelids become inflamed and irritated.
 
-As your [goat's age](/can-old-goats-develop-rickets/), they may suffer from cataracts, which can cause blindness. Despite that, cataracts can often be surgically removed, so it's important to take your goat to the vet for regular checkups.
+As your [goat's age](/can-old-goats-develop-rickets/), they may suffer from cataracts, which can cause blindness. Even so, cataracts can often be surgically removed, so it's important to take your goat to the vet for regular checkups.
 
 [Goats](/can-goats-be-outside-in-winter/) may also develop glaucoma, another condition that can cause blindness. There's no cure for glaucoma, but early diagnosis and treatment can help to prevent or slow its progression.
 
@@ -121,7 +121,7 @@ There are many different types of eyesight among animals, but in general, mammal
 
 This is because mammals typically rely on other senses, such as smell and hearing, to obtain information about their environment.
 
-On top of that, most mammals are active during the nighttime hours, when vision is not as effective. In contrast, birds and reptiles have much better vision than mammals.
+It's also worth noting that most mammals are active during the nighttime hours, when vision is not as effective. In contrast, birds and reptiles have much better vision than mammals.
 
 These animals tend to be diurnal, meaning they are active during the daytime hours. In addition, their eyes are typically larger in proportion to their body size, which gives them a greater ability to gather light.
 

@@ -113,13 +113,13 @@ The next step is to provide the goat with plenty of fresh water. This will help 
 
 Finally, if the goat is showing signs of Nitrate Poisoning, it should be seen by a goat expert immediately. Treatment options for Nitrate Poisoning include intravenous fluids and oxygen therapy.
 
-With prompt treatment, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/). Despite that, in severe cases, Nitrate Poisoning can be fatal.
+With prompt treatment, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/). That said, in severe cases, Nitrate Poisoning can be fatal.
 
 ## How much henbit goats can eat per day?
 
 there's no definitive answer to this question as it will vary depending on the goat's age, weight, and health. But, it's generally recommended that [goats only consume a small amount of henbit](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) per day.
 
-If you are unsure how much henbit to feed your goat, it's best to consult with a [goat expert or livestock specialist](/can-too-much-field-time-cause-scours-in-goats/). They will be able to provide you with specific guidelines based on the individual goat's needs.
+If you are unsure how much henbit to feed your goat, it's best to consult with a [veterinarian or livestock specialist](/can-too-much-field-time-cause-scours-in-goats/). They will be able to provide you with specific guidelines based on the individual goat's needs.
 
 ## Are there any other alternative food sources for goats?
 
@@ -131,7 +131,7 @@ You can also supplement your goat's diet with minerals and vitamins to ensure th
 
 When it comes to [feeding goats](/can-a-goat-feed-quads/), there's no one-size-fits-all solution. Every goat is different and will require a different diet depending on its age, weight, and health.
 
-Despite that, by exercising caution and consulting with a livestock specialist, you can ensure that your [goat has a healthy and balanced diet that meets all of its nutritional needs](/can-i-use-regular-milk-to-feed-a-baby-goat/).
+With that in mind, by exercising caution and consulting with a livestock specialist, you can ensure that your [goat has a healthy and balanced diet that meets all of its nutritional needs](/can-i-use-regular-milk-to-feed-a-baby-goat/).
 
 ## Final Thoughts
 
@@ -139,6 +139,6 @@ Goats can eat henbit, but it's important to exercise caution when doing so. Henb
 
 To prevent the risks of feeding goats henbit, farmers should test the nitrate levels in the plant before allowing their goats to graze on it.
 
-They should also make sure that the goats have access to fresh water at all times, as this will help to flush the nitrates out of their system. Finally, farmers should monitor their goats closely for any signs of Nitrate Poisoning and seek goat expert care immediately if any symptoms are observed.
+They should also make sure that the goats have access to fresh water at all times, as this will help to flush the nitrates out of their system. Finally, farmers should monitor their goats closely for any signs of Nitrate Poisoning and seek veterinarian care immediately if any symptoms are observed.
 
 By taking these precautions, farmers can safely allow their goats to graze on henbit without putting them at risk of Nitrate Poisoning.

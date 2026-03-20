@@ -44,7 +44,7 @@ We will explore the answer to this question and provide you with additional nurs
 
 ## Can a goat miscarry one kid and still be pregnant?
 
-Despite that, there's no guarantee that a doe (female goat) will not miscarry all of her fetuses if she loses one early on in the pregnancy. It's important to consult with a goat expert if this occurs, as they will be able to better assess the situation and offer guidance on how to proceed.
+Then again, there's no guarantee that a doe (female goat) will not miscarry all of her fetuses if she loses one early on in the pregnancy. It's important to consult with a goat expert if this occurs, as they will be able to better assess the situation and offer guidance on how to proceed.
 
 ## What to do if your goat has a miscarriage?
 
@@ -62,7 +62,7 @@ To [care for a pregnant goat](/can-you-deworm-a-pregnant-goat/), start by provid
 
 As the pregnancy progresses, you'll need to give the goat more space to move around. You should also start thinking about where you'll want to deliver the kids.
 
-Once the goats are born, you'll need to provide them with plenty of food and water, as well as a clean living area. If you have any questions about how to [care for a pregnant goat](/can-you-drink-goat-milk-while-pregnant/), or if you're concerned about any health problems, be sure to talk to a goat expert.
+Once the goats are born, you'll need to provide them with plenty of food and water, as well as a clean living area. If you have any questions about how to [care for a pregnant goat](/can-you-drink-goat-milk-while-pregnant/), or if you're concerned about any health problems, be sure to talk to a veterinarian.
 
 ## What are the common problems during goat pregnancy?
 

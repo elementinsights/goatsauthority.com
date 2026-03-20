@@ -107,7 +107,7 @@ In most cases, diarrhea caused by contact with goats will resolve on its own wit
 
 If you have any concerns about the long-term effects of diarrhea, you need to speak with your doctor. They will be able to provide you with more information and help you to make a plan for managing your symptoms.
 
-[Goat diarrhea can cause some short-term discomfort](/can-goats-cause-slope/), but it's usually not serious. Despite that, you need to practice good hygiene and see a doctor if you think you may have contracted an infection.
+[Goat diarrhea can cause some short-term discomfort](/can-goats-cause-slope/), but it's usually not serious. Even so, you need to practice good hygiene and see a doctor if you think you may have contracted an infection.
 
 ## What are some other diseases that can be contracted from contact with goats?
 
@@ -145,8 +145,8 @@ In severe cases, the disease can lead to dehydration and even death. If you thin
 
 ## Final Thoughts
 
-Overall, contact with goats is generally safe. Despite that, there are some risks associated with it, such as the contraction of diseases.
+Overall, contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.
 
 it's important to practice good hygiene and see a doctor if you think you may have contracted an infection. Goat diarrhea can cause some short-term discomfort, but it's usually not serious.
 
-Despite that, it's crucial to practice good hygiene and see a doctor if you think you may have contracted an infection.
+Still, it's crucial to practice good hygiene and see a doctor if you think you may have contracted an infection.

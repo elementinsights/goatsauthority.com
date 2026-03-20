@@ -65,7 +65,7 @@ Some examples of contagious diseases that can be transmitted between animals inc
 
 Non-contagious diseases that can affect animals include heartworm, [Lyme disease](/can-goats-die-from-lymes/), and cancer. In some cases, such as rabies, certain animals may be vaccinated against the disease in order to help prevent its spread.
 
-Despite that, there's no guarantee that a vaccinated animal will not contract the disease, as vaccination does not provide 100% protection.
+Then again, there's no guarantee that a vaccinated animal will not contract the disease, as vaccination does not provide 100% protection.
 
 Therefore, it's important for pet owners to be aware of the risks of both contagious and non-contagious diseases and to take steps to protect their pets accordingly.
 
@@ -79,7 +79,7 @@ They can also catch [parasites such as worms](/can-goats-have-cattle-dewormer-bl
 
 To protect your goats from these diseases, you need to provide them with clean water and food and to keep their living area clean and free of manure.
 
-On top of that, you should have your goats checked by a goat expert regularly and quarantine any new goats that you introduce to your herd.
+Similarly, you should have your goats checked by a goat expert regularly and quarantine any new goats that you introduce to your herd.
 
 By taking these precautions, you can help keep your goats healthy and disease-free.
 
@@ -99,7 +99,7 @@ They may also go into shock and die.
 
 Finally, goats infected with worms may have a pot-bellied appearance, poor appetite, weight loss, and diarrhea. In severe cases, the worms can cause blockages in the intestines, which can be fatal.
 
-On top of that these symptoms, all sick animals may display general signs of illness such as a decrease in energy levels, listlessness, and a lack of interest in food and water. If you notice any of these symptoms in your goats, you [need to contact a goat expert](/can-contact-with-goats-cause-diarrhea-in-humans/) immediately.
+On top of that these symptoms, all sick animals may display general signs of illness such as a decrease in energy levels, listlessness, and a lack of interest in food and water. If you notice any of these symptoms in your goats, you [need to contact a veterinarian](/can-contact-with-goats-cause-diarrhea-in-humans/) immediately.
 
 Left untreated, transmittal diseases can be fatal for goats. Therefore, you need to be aware of the symptoms and to take steps to prevent your goats from coming into contact with diseased animals.
 
@@ -109,17 +109,17 @@ Transmittal diseases can kill a goat. For example, chlamydia, salmonella, and E.
 
 coli are all [potentially fatal diseases that can be transmitted from animals to goats](/can-a-plastic-bag-hurt-a-goat/). [Worms can also cause serious health problems in goats](/can-goats-get-worms-from-acorns/), including weight loss, diarrhea, and even death.
 
-Therefore, you [need to take steps to protect your goats](/can-you-coat-angora-goats-to-protect-fleece/) from these diseases, such as providing them with clean water and food and keeping their living area clean. If you suspect that your goat has a transmittal disease, you must seek goat expert care immediately.
+Therefore, you [need to take steps to protect your goats](/can-you-coat-angora-goats-to-protect-fleece/) from these diseases, such as providing them with clean water and food and keeping their living area clean. If you suspect that your goat has a transmittal disease, you must seek veterinarian care immediately.
 
 ## How can you treat them if they're diagnosed in your herd?
 
-If you suspect that your goat has a transmittal disease, you must seek goat expert care immediately.
+If you suspect that your goat has a transmittal disease, you must seek veterinarian care immediately.
 
-A goat expert will be able to diagnose the disease and recommend the best course of treatment.
+A veterinarian will be able to diagnose the disease and recommend the best course of treatment.
 
 For example, antibiotics may be prescribed for goats with chlamydia or salmonella. In some cases, surgery may be necessary to remove worms from the intestines.
 
-With prompt and proper treatment, most [goats with transmittal diseases can recover](/can-goats-recover-from-polio-without-medication/). Despite that, some diseases, such as Q fever, do not have a cure and may be fatal.
+With prompt and proper treatment, most [goats with transmittal diseases can recover](/can-goats-recover-from-polio-without-medication/). Still, some diseases, such as Q fever, do not have a cure and may be fatal.
 
 Therefore, you need to take steps to prevent these diseases by providing your goats with clean water and food and by quarantining new goats that you introduce to your herd.
 
@@ -131,7 +131,7 @@ However, there's a vaccine available for salmonella. This vaccine is not 100% ef
 
 In addition, there are vaccines available for some of the parasites that can infect goats, such as coccidia and worms. These vaccines can help prevent your goats from becoming infected in the first place.
 
-Talk to a goat expert about which [vaccines](/can-a-cdt-shot-kill-a-goat/) are right for your goats and make sure to follow their recommended vaccination schedule.
+Talk to a veterinarian about which [vaccines](/can-a-cdt-shot-kill-a-goat/) are right for your goats and make sure to follow their recommended vaccination schedule.
 
 ## What are some other ways I can protect my goats?
 

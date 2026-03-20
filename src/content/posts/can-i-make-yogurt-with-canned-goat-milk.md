@@ -57,7 +57,7 @@ Canned goat milk is a type of dairy product made from the milk of goats. It can 
 
 The milk can come from fresh, whole goats or from [powdered goat milk](/can-a-baby-have-powdered-goats-milk/) that has been reconstituted and canned.
 
-Many people enjoy this creamy and nutritious beverage because it is an alternative to cow's milk for those who are [lactose intolerant](/can-someone-allergic-to-milk-use-goats-milk/) or have sensitivity to cow's milk. On top of that, some people simply prefer the flavor and texture of goat milk over traditional dairy products.
+Many people enjoy this creamy and nutritious beverage because it is an alternative to cow's milk for those who are [lactose intolerant](/can-someone-allergic-to-milk-use-goats-milk/) or have sensitivity to cow's milk. Plus, some people simply prefer the flavor and texture of goat milk over traditional dairy products.
 
 If you are wondering where to find canned goat milk, the answer is pretty much anywhere that sells groceries.
 
@@ -99,7 +99,7 @@ First, while fresh goat milk often has a slightly tangy, slightly sweet flavor t
 
 Additionally, compared to fresh goat milk, canned goat milk tends to have a thicker texture due to being condensed or reduced during [processing](/can-you-freeze-goat-cheese/).
 
-Despite that, this also means that canned goat milk has a richer mouthfeel and is therefore ideal for those who prefer a creamier or more filling beverage.
+Then again, this also means that canned goat milk has a richer mouthfeel and is therefore ideal for those who prefer a creamier or more filling beverage.
 
 In summary, though canned and fresh goat kinds of milk may have some differences in terms of flavor and texture, both are enjoyable options for those looking for nutritious alternatives to cow's milk.
 

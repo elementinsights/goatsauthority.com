@@ -50,7 +50,7 @@ In this article, we will answer all of your questions regarding goats and Lyme d
 
 ## Can goats die from Lymes?
 
-Despite that, it's important to note that not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
+That said, it's important to note that not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
 
 However, if a goat is not treated for Lyme disease, the infection can spread to the joints, heart, and [nervous system](/can-a-goat-get-a-concussion/), which can eventually lead to death.
 
@@ -92,7 +92,7 @@ In some cases, the disease can also lead to more serious health problems such as
 
 But, if left untreated, the disease can be fatal.
 
-Therefore, if you suspect that your goat may have contracted Lyme disease, you [need to contact a goat expert](/can-contact-with-goats-cause-diarrhea-in-humans/) immediately.
+Therefore, if you suspect that your goat may have contracted Lyme disease, you [need to contact a veterinarian](/can-contact-with-goats-cause-diarrhea-in-humans/) immediately.
 
 ## Are there any treatments for Lyme disease in goats, and are they effective?
 
@@ -106,7 +106,7 @@ In some cases, more aggressive treatment may be necessary, such as hospitalizati
 
 Lyme disease is a serious illness that can have a significant impact on both humans and animals. If left untreated, Lyme disease can be fatal.
 
-Despite that, with prompt and proper treatment, most goats make a full recovery from the disease.
+With that in mind, with prompt and proper treatment, most goats make a full recovery from the disease.
 
 In some cases, there may be long-term effects such as joint pain or stiffness, but these are typically mild and resolve with time.
 

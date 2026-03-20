@@ -128,7 +128,7 @@ First, you will need a set of jump standards. These are poles that are placed in
 
 You will also need a soft landing surface such as a mat or SandBag. This will help to prevent injuries if your goat happens to misjudge the height of the jump.
 
-Finally, you will need some treats or other [forms of positive reinforcement to encourage your goat to jump](/can-a-goat-form-an-udder-without-being-pregnant/). With these items, you will be well on your way to teaching your goat this fun and challenging new skill.
+Finally, you will need some treats or other forms of positive reinforcement to encourage your goat to jump. With these items, you will be well on your way to teaching your goat this fun and challenging new skill.
 
 ## How much does it cost to train a goat to jump?
 

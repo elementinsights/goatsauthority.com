@@ -65,7 +65,7 @@ Black widow spiders are found throughout the world, and their venom can be dange
 
 Symptoms may include muscle spasms, twitching, tremors, [weakness](/can-goats-have-a-stroke-anemia/), paralysis, difficulty breathing, and cardiac arrest. In severe cases, black widow spider venom can be fatal.
 
-If you suspect that your [goat has been bitten by a black widow spider](/can-goats-eat-black-walnut-leaves/), it's crucial to seek a goat expert care immediately. With prompt treatment, the chances of recovery are good.
+If you suspect that your [goat has been bitten by a black widow spider](/can-goats-eat-black-walnut-leaves/), it's crucial to seek a veterinarian care immediately. With prompt treatment, the chances of recovery are good.
 
 ## What should you do if your goats are bitten by a black widow spider?
 
@@ -101,7 +101,7 @@ Black widow spider venom is very potent, and it can be fatal to goats if left un
 
 Antivenom is the most effective treatment and it should be administered as soon as possible after the bite.
 
-Despite that, antivenom can be expensive and it may not be available in all areas. In addition, some [goats may have an allergic reaction](/can-someone-allergic-to-milk-use-goats-milk/) to the antivenom.
+Still, antivenom can be expensive and it may not be available in all areas. In addition, some [goats may have an allergic reaction](/can-someone-allergic-to-milk-use-goats-milk/) to the antivenom.
 
 For this reason, supportive care is often used in conjunction with antivenom. This treatment includes giving the goat fluids to prevent dehydration and providing pain relief.
 

@@ -85,9 +85,9 @@ Persicaria perfoliata grows in a variety of habitats, including forests, fields,
 
 The plant is common in goat pastures, and goats will often eat the leaves and stems. While Persicaria perfoliata is not poisonous to goats, it can cause digestive issues if eaten in large quantities.
 
-The plant contains high levels of oxalates, which can bind with calcium and other minerals in the goat's gut, [causing constipation and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). On top of that, the plant's sharp edges can damage the [goat's digestive tract](/can-goats-digest-cigarettes/).
+The plant contains high levels of oxalates, which can bind with calcium and other minerals in the goat's gut, [causing constipation and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). Another thing to note is the plant's sharp edges can damage the goat's digestive tract.
 
-Therefore, you need to monitor goats closely if they have access to Persicaria perfoliata. If you see signs of digestive distress, remove the plant from the goat's environment and [contact a goat expert](/contact/).
+Therefore, you need to monitor goats closely if they have access to Persicaria perfoliata. If you see signs of digestive distress, remove the plant from the goat's environment and [contact a veterinarian](/contact/).
 
 ## How to prevent your goats from eating Persicaria perfoliata?
 
@@ -101,9 +101,9 @@ However, you need to be cautious when removing Persicaria perfoliata, as the pla
 
 If a goat ingests a large quantity of Persicaria perfoliata, you need to seek professional medical help immediately. The goat may need to be given fluids and minerals intravenously to prevent dehydration and electrolyte imbalance.
 
-On top of that, the goat may need to be given laxatives or enemas to help clear the plant material from its digestive tract. In severe cases, surgery may be necessary to remove the plant material from the goat's gut.
+Similarly, the goat may need to be given laxatives or enemas to help clear the plant material from its digestive tract. In severe cases, surgery may be necessary to remove the plant material from the goat's gut.
 
-If you suspect your goat has eaten Persicaria perfoliata, contact a goat expert immediately.
+If you suspect your goat has eaten Persicaria perfoliata, contact a veterinarian immediately.
 
 ## How much Persicaria perfoliata can goats eat?
 
@@ -111,7 +111,7 @@ The amount of Persicaria perfoliata that goats can eat depends on the goat's age
 
 If there are no adverse reactions, the quantity can be increased gradually. you need to monitor goats closely when they are eating Persicaria perfoliata, and stop feeding if they show any signs of digestive distress.
 
-If you have any concerns, consult a goat expert.
+If you have any concerns, consult a veterinarian.
 
 Persicaria perfoliata is a fast-growing herb that is native to Asia. It has been introduced to other regions of the world, including North America, where it is now considered an invasive species.
 
@@ -123,7 +123,7 @@ The plant contains high levels of oxalates, which can bind with calcium and othe
 
 Additionally, the plant's sharp edges can damage the goat's digestive tract. Therefore, you need to monitor goats closely if they have access to Persicaria perfoliata.
 
-If you see signs of digestive distress, remove the plant from the goat's environment and contact a goat expert.
+If you see signs of digestive distress, remove the plant from the goat's environment and contact a veterinarian.
 
 ## What are some alternative plants that goats can eat?
 
@@ -135,12 +135,12 @@ Some common browse plants that goats enjoy include rose bushes, blackberry bushe
 
 However, you [need to remember that not all plants are safe for goats to eat](/can-goats-eat-any-plant/). Poisonous plants, such as rhododendrons and azaleas, can be deadly if consumed in large quantities.
 
-As a result, it is always best to consult with a qualified goat expert before feeding any new plant to goats.
+As a result, it is always best to consult with a qualified veterinarian before feeding any new plant to goats.
 
 ## Final Thoughts
 
 [Goats can eat Persicaria perfoliata](/can-goats-eat-bananas/), but it is important to be aware of the potential risks. This plant contains high levels of oxalates, which can bind with calcium and other minerals in the goat's gut, causing constipation and diarrhea.
 
-Additionally, the plant's sharp edges can damage the goat's digestive tract. If you see signs of digestive distress, remove the plant from the goat's environment and contact a goat expert.
+Additionally, the plant's sharp edges can damage the goat's digestive tract. If you see signs of digestive distress, remove the plant from the goat's environment and contact a veterinarian.
 
 When introducing any new plant to goats, it is always best to consult with a qualified goat expert first.

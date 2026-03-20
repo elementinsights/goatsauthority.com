@@ -56,7 +56,7 @@ Not only can [goats carry bacteria, viruses, and parasites](/can-goats-carry-dis
 
 Goats are commonly associated with barnyards and farms, but these versatile animals can actually make great pets.
 
-Despite that, before you snuggle up to your new furry friend, it's important to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-goat/). Goats can carry a number of diseases that can be passed on to humans, including giardiasis, brucellosis, and cryptosporidiosis.
+At the same time, before you snuggle up to your new furry friend, it's important to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-goat/). Goats can carry a number of diseases that can be passed on to humans, including giardiasis, brucellosis, and cryptosporidiosis.
 
 Giardiasis is caused by a [parasite that can lead to diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), nausea, and vomiting. Brucellosis is a bacterial infection that can cause flu-like symptoms, and cryptosporidiosis is a parasitic infection that can cause severe dehydration.
 
@@ -66,7 +66,7 @@ While these diseases may sound scary, they can be prevented with proper hygiene 
 
 [Goats are interesting creatures](/can-domestic-goats-jump/) that have been domesticated for centuries. In addition to providing milk and meat, [goats can also be used as pack animals](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or for their wool.
 
-Despite that, goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
+That said, goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
 
 While most of these diseases are relatively rare, they can still be dangerous, especially to young children or people with weakened immune systems.
 

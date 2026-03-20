@@ -54,7 +54,7 @@ In this article, we will answer these questions and more so you can be sure your
 
 ## Can goats eat hedges?
 
-Despite that, it's important to remember that goats are browsers, not grazers. This means that their diet should consist mostly of hay, with fresh browse (like hedges) making up a smaller portion.
+Of course, it's important to remember that goats are browsers, not grazers. This means that their diet should consist mostly of hay, with fresh browse (like hedges) making up a smaller portion.
 
 ## What are the benefits of goats eating hedges?
 
@@ -62,7 +62,7 @@ A hedge is a good source of fiber and roughage, which [can help goats with their
 
 [Eating hedge can also help keep a goat's teeth healthy](/can-goats-eat-cooked-chicken/) and clean.
 
-On top of that, browsing on hedges can help goats stay active and healthy. It provides them with mental stimulation and can help them avoid boredom.
+It's also worth noting that browsing on hedges can help goats stay active and healthy. It provides them with mental stimulation and can help them avoid boredom.
 
 Bored goats are more likely to become anxious or stressed, which can lead to health problems.
 
@@ -117,7 +117,7 @@ Goats need to consume a variety of different plant materials to get all the nutr
 
 When choosing a hedge for your goat, you should consider its nutritional content and whether it's a good source of the nutrients your goat needs. You should also make sure the hedge is safe for goats to eat and free from any harmful chemicals or pesticides.
 
-If you're not sure which hedges are best for your goat, talk to a goat expert or a qualified animal nutritionist for more information.
+If you're not sure which hedges are best for your goat, talk to a veterinarian or a qualified animal nutritionist for more information.
 
 ## Can all kinds of goats eat hedges?
 
@@ -125,7 +125,7 @@ Goats are browsers, which means that they prefer to eat leaves, twigs, and other
 
 Hedges are a type of plant that typically has sharp leaves and branches. Because of this, many people believe that [goats should not eat hedges](/can-goats-eat-celery/).
 
-Despite that, there are some types of goats that will consume hedges if they are hungry enough.
+Still, there are some types of goats that will consume hedges if they are hungry enough.
 
 Generally, [goats that are allowed to browse freely will avoid eating hedges](/do-goats-eat-meat/) due to the risk of injury. However, if a [goat is penned](/can-a-goat-pen-have-pine-trees-in-it/) in or otherwise unable to find other food, it may be forced to eat hedges out of desperation.
 
@@ -137,7 +137,7 @@ In addition to hedges, [goats enjoy eating a variety of other plants](/can-goats
 
 Goats need to consume a variety of different plant materials to get all the nutrients they require. By offering a variety of different foods, you can help ensure that your goat gets the nutrients it needs to stay healthy.
 
-If you're not sure what kinds of plants are [safe for goats to eat](/can-goats-eat-strawberries/), talk to a goat expert or a qualified animal nutritionist for more information.
+If you're not sure what kinds of plants are [safe for goats to eat](/can-goats-eat-strawberries/), talk to a veterinarian or a qualified animal nutritionist for more information.
 
 ## Final Thoughts
 

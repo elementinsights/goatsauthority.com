@@ -102,7 +102,7 @@ Although these diseases can be dangerous, they are relatively rare in developed 
 
 If you're looking for a new protein source for your dog, you may be considering goat meat. Goat meat is a good option for dogs who are allergic to other types of meat or who have difficulty digesting certain proteins.
 
-Despite that, it's crucial to introduce goat meat to your dog's diet slowly and in small amounts to avoid stomach upset.
+Keep in mind, it's crucial to introduce goat meat to your dog's diet slowly and in small amounts to avoid stomach upset.
 
 Start by mixing a small amount of cooked goat meat into your dog's regular food. If there are no adverse reactions after a few days, you can gradually increase the amount of goat meat you feed your dog.
 
@@ -114,7 +114,7 @@ Just be sure to introduce it slowly and in [small amounts](/can-i-feed-a-small-a
 
 If you're looking for a new protein source for your dog, you may be considering goat meat. Goat meat is a good option for dogs who are allergic to other types of meat or who have difficulty digesting certain proteins.
 
-Despite that, it's crucial to introduce goat meat to your dog's diet slowly and in small amounts to avoid stomach upset. Start by mixing a small amount of cooked goat meat into your dog's regular food.
+Be aware, it's crucial to introduce goat meat to your dog's diet slowly and in small amounts to avoid stomach upset. Start by mixing a small amount of cooked goat meat into your dog's regular food.
 
 If there are no adverse reactions after a few days, you can gradually increase the amount of goat meat you feed your dog. You can also try feeding your dog raw goat meat, which is less likely to cause digestive problems.
 

@@ -102,7 +102,7 @@ Ultimately, it's up to the owner to decide what kind of goat is best suited for 
 
 You can tether a [pregnant goat](/can-pregnant-goats-eat-medicated-feed/), but you need to be extra careful. Make sure the tether is long enough that the goat can lie down comfortably and get up again easily.
 
-On top of that, check on the goat more often to make sure she is not in any discomfort. If she starts to show signs of stress, untether her immediately.
+What's more, check on the goat more often to make sure she is not in any discomfort. If she starts to show signs of stress, untether her immediately.
 
 Finally, be sure to provide the [goat with plenty of food](/can-sheep-eat-goat-food/) and water so that she can stay healthy and hydrated during her pregnancy.
 
@@ -122,7 +122,7 @@ Depending on the severity of the goat's illness, it may be possible to tether th
 
 However, this is not always the best option, as goats are social creatures and may become stressed or anxious if isolated from other goats. If possible, it's best to keep a [sick goat](/can-i-give-a-sick-goat-water-through-a-syringe/) with at least one other goat for companionship.
 
-On top of that, tethering a sick goat may make it more difficult for the goat to graze and get the nutrition it needs. For these reasons, it's important to consult with a goat expert before deciding whether or not to tether a sick goat.
+What's more, tethering a sick goat may make it more difficult for the goat to graze and get the nutrition it needs. For these reasons, it's important to consult with a veterinarian before deciding whether or not to tether a sick goat.
 
 ## Alternatives to tethering goats
 

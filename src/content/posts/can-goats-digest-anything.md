@@ -66,9 +66,9 @@ For this reason, it's crucial to [feed goats](/can-a-goat-feed-quads/) a diet th
 
 [Goats are susceptible to bloating if they eat too much grain](/can-goats-eat-carrots/) or other high-carbohydrate foods. For this reason, it's crucial to feed goats a diet that is high in fiber and low in sugar.
 
-On top of that, goats can't digest hay or other plant materials with a high cellulose content. If a goat eats too much of these things, it may experience digestive problems.
+What's more, goats can't digest hay or other plant materials with a high cellulose content. If a goat eats too much of these things, it may experience digestive problems.
 
-If you're unsure about what to feed your goats, it's always best to consult with a veterinarian or other goat expert. By understanding what goats can and can't digest, you can ensure that your goat stays healthy and happy.
+If you're unsure about what to feed your goats, it's always best to consult with a veterinarian or other veterinarian. By understanding what goats can and can't digest, you can ensure that your goat stays healthy and happy.
 
 ## How to prevent digestive problems in goats?
 
@@ -84,7 +84,7 @@ By following these tips, you can help ensure that your goat has a healthy digest
 
 ## What should you do if your goat has a digestive problem?
 
-If you notice that your goat is off its feed, has diarrhea, or seems unusually lethargic, [contact goat expert](/contact/) immediately. Digestive problems can be serious and even life-threatening, so it's crucial to get professional help as soon as possible.
+If you notice that your goat is off its feed, has diarrhea, or seems unusually lethargic, [contact veterinarian](/contact/) immediately. Digestive problems can be serious and even life-threatening, so it's crucial to get professional help as soon as possible.
 
 A goat expert will likely recommend a course of treatment, which may include changes to your goat's diet. By following [goat expert instructions, you can help ensure that your goat recovers from its digestive problem](/can-goats-recover-from-polio-without-medication/) and stays healthy in the future.
 

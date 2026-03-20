@@ -68,7 +68,7 @@ This can be helpful for training purposes or just as a fun treat for the goat. S
 
 There are several different benefits to giving goats horse treats. Perhaps most importantly, horse treats can provide much-needed nutrients and energy to goats, which in turn helps them to maintain their health and stay active throughout the day.
 
-On top of that, horse treats can help keep parasites under control by reducing the instances of internal and external parasites.
+It's also worth noting that horse treats can help keep parasites under control by reducing the instances of internal and external parasites.
 
 Lastly, giving goats horse treats can serve as an opportunity for bonding between humans and goats.
 

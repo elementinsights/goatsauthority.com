@@ -51,7 +51,7 @@ When using a cow shell with goat liners, you will need to make sure that the lin
 
 It is important to note that you should not use a cow shell with goat liners if the goat is pregnant. This is because the cow shell can put pressure on the goat's stomach and cause problems during pregnancy.
 
-If you have any questions about using a cow shell with goat liners, you should speak to a vet or an experienced farmer. They will be able to give you advice on what is best for your goat. You may also want to learn whether [a goat can be house trained](/can-a-goat-be-housed-trained/) so it is calmer during milking.
+If you have any questions about using a cow shell with goat liners, you should speak to a vet or an experienced farmer. They will be able to give you advice on what is best for your goat. You may also want to learn whether a goat can be house trained so it is calmer during milking.
 
 ## What are cow shells and goat liners?
 
@@ -61,7 +61,7 @@ They are often used to line stalls and pens, providing a clean and comfortable r
 
 Goat liners, on the other hand, are designed specifically for goats. These lightweight yet durable liners help to prevent waste buildup in [goat pens](/can-a-goat-pen-have-pine-trees-in-it/) and make it easier for farmers to manage their animals' living conditions.
 
-While both cow shells and goat liners serve important functions in livestock production, they vary widely in terms of their construction and intended use. If you also work with miniature breeds, learn whether [a miniature goat can be housebroken](/can-a-miniature-goat-be-housebroken/).
+While both cow shells and goat liners serve important functions in livestock production, they vary widely in terms of their construction and intended use. If you also work with miniature breeds, learn whether a miniature goat can be housebroken.
 
 So whatever type of farm or livestock operation you run, it's important to choose products that suit your specific needs.
 

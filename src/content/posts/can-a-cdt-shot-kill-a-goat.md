@@ -134,7 +134,7 @@ The frequency of vaccinations will depend on the age and health of your goats, a
 
 ### How much does the CDT shot cost?
 
-The cost of the CDT shot will vary depending on the type of vaccine you choose and where you get it from. Despite that, most vaccines cost between $10 and $20 per dose.
+The cost of the CDT shot will vary depending on the type of vaccine you choose and where you get it from. Even so, most vaccines cost between $10 and $20 per dose.
 
 ### Where can I get the CDT shot for my goats?
 

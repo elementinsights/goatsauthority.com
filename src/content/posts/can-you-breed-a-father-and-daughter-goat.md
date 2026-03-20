@@ -90,7 +90,7 @@ While line breeding can be an effective way to improve certain qualities in a po
 
 One of the biggest risks is inbreeding depression, which is when the quality of the offspring decreases due to the close relationship between the parents. Inbreeding depression can lead to problems like birth defects, reduced fertility, and lower survival rates.
 
-On top of that, line breeding can cause genetic bottlenecks, which occur when a small number of individuals are responsible for producing the majority of offspring.
+Similarly, line breeding can cause genetic bottlenecks, which occur when a small number of individuals are responsible for producing the majority of offspring.
 
 This can result in a loss of genetic diversity, making the population more susceptible to disease. Therefore, it is crucial to carefully consider the [risks and benefits](/can-a-pregnant-goat-have-penicillin/) of line breeding before embarking on a breeding program.
 

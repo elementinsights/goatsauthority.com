@@ -89,7 +89,7 @@ Symptoms of gastrointestinal distress include excessive thirst, diarrhea, and bl
 
 Therefore, it is crucial to contact a goat expert if you notice any changes in your goat's health after it has [eaten pumpkin leaves](/can-goats-eat-gum-tree-leaves/).
 
-On top of that, you should take steps to prevent the goat from [eating any more pumpkin leaves](/can-goats-eat-pumpkin/). This may involve removing all pumpkins and pumpkin leaves from the pen or feeding the animal in a separate area.
+It's also worth noting that you should take steps to prevent the goat from [eating any more pumpkin leaves](/can-goats-eat-pumpkin/). This may involve removing all pumpkins and pumpkin leaves from the pen or feeding the animal in a separate area.
 
 ## Are there any benefits to goats eating pumpkin leaves?
 
@@ -97,7 +97,7 @@ There are no benefits to goats eating pumpkin leaves. Pumpkin leaves are poisono
 
 Eating just a small amount of the leaves can lead to vomiting, diarrhea, and difficulty breathing.
 
-In severe cases, it can even be fatal. On top of that, pumpkin leaves are very sharp and can cause mouth injuries.
+In severe cases, it can even be fatal. What's more, pumpkin leaves are very sharp and can cause mouth injuries.
 
 If you have a goat that likes to nibble on everything, it's best to keep them away from pumpkin plants.
 
@@ -107,7 +107,7 @@ Goats can eat the stems and flowers of pumpkin plants, but they should not eat t
 
 When ingested in large quantities, cucurbitacin can cause gastrointestinal problems and even death. In most cases, but, the leaves only cause mild digestive upset.
 
-Cucurbitacin is also found in other plants in the cucurbit family, such as watermelons and cantaloupes. Despite that, these plants are not typically fed to goats because of the potential for toxicity.
+Cucurbitacin is also found in other plants in the cucurbit family, such as watermelons and cantaloupes. Even so, these plants are not typically fed to goats because of the potential for toxicity.
 
 ## Do all goats react the same way to eating pumpkin leaves?
 
@@ -117,7 +117,7 @@ In general, but, all goats are at risk for gastrointestinal distress when they e
 
 Symptoms of gastrointestinal distress include excessive thirst, diarrhea, and bloating. If left untreated, these symptoms can lead to serious health problems.
 
-Therefore, you need to contact a goat expert if you notice any changes in your goat's health after it has eaten pumpkin leaves.
+Therefore, you need to contact a veterinarian if you notice any changes in your goat's health after it has eaten pumpkin leaves.
 
 And also, you should take steps to prevent the goat from eating any more pumpkin leaves. This may involve removing all pumpkins and pumpkin leaves from the pen or feeding the animal in a separate area.
 
@@ -127,7 +127,7 @@ The long-term effects of goats eating pumpkin leaves are not fully known. Howeve
 
 Additionally, eating pumpkin leaves can cause gastrointestinal distress, which can lead to serious health problems if left untreated.
 
-Therefore, it is crucial to contact a goat expert if you notice any changes in your goat's health after it has eaten pumpkin leaves. And also, you should take steps to prevent the goat from eating any more pumpkin leaves.
+Therefore, it is crucial to contact a veterinarian if you notice any changes in your goat's health after it has eaten pumpkin leaves. And also, you should take steps to prevent the goat from eating any more pumpkin leaves.
 
 This may involve removing all pumpkins and pumpkin leaves from the pen or feeding the animal in a separate area.
 

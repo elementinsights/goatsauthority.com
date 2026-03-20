@@ -66,11 +66,11 @@ One way to provide this help is to give the goat supplemental nutrition in the f
 
 The additional nutrients can help the [goat to produce more milk](/can-a-female-goat-produce-milk-without-being-pregnant/), and it can also help to prevent problems during pregnancy such as twins or triplets being born too early.
 
-Despite that, it's crucial to talk to a goat expert before giving any supplemental nutrition to a pregnant goat, as there are [potential risks](/can-a-plastic-bag-hurt-a-goat/) involved.
+With that in mind, it's crucial to talk to a veterinarian before giving any supplemental nutrition to a pregnant goat, as there are [potential risks](/can-a-plastic-bag-hurt-a-goat/) involved.
 
 ## Can baby goats drink baby formula?
 
-[Baby goats](/can-baby-goats-have-any-electrolytes/), like all other baby animals, need milk to survive. Despite that, goat's milk is very different from cow's milk or human milk.
+[Baby goats](/can-baby-goats-have-any-electrolytes/), like all other baby animals, need milk to survive. Keep in mind, goat's milk is very different from cow's milk or human milk.
 
 It's much higher in fat and protein, and it also has a different balance of minerals.
 
@@ -90,7 +90,7 @@ But, there are a few important things to keep in mind.
 
 First of all, baby formula is designed for human [babies and may not provide all the nutrients a goat needs](/can-a-toddler-catch-a-disease-from-a-baby-goat/).
 
-Secondly, baby formula is typically made with cow's milk, which can be difficult for [goats to digest](/can-goats-digest-cigarettes/). For these reasons, it's best to consult with a goat expert before giving baby formula to a lactating goat.
+Secondly, baby formula is typically made with cow's milk, which can be difficult for goats to digest. For these reasons, it's best to consult with a goat expert before giving baby formula to a lactating goat.
 
 Lastly, [goat's milk is much higher in fat and protein than baby formula](/can-i-use-regular-milk-to-feed-a-baby-goat/), so it's important to only give small amounts of baby formula to a lactating goat.
 
@@ -100,7 +100,7 @@ Baby formula is a highly nutritious food that is designed to meet the needs of h
 
 Formula-fed [goats tend to grow faster](/can-i-grow-goats-for-cashmere-and-angola/) and achieve greater body weights than those that are not fed formula.
 
-On top of that, formula-fed [goats are less likely to develop nutritional deficiencies](/can-old-goats-develop-rickets/), and their coat condition is often better than that of goats that are not fed formula.
+It's also worth noting that formula-fed [goats are less likely to develop nutritional deficiencies](/can-old-goats-develop-rickets/), and their coat condition is often better than that of goats that are not fed formula.
 
 Finally, baby formula can help to reduce the incidence of scours, a common goat illness that can be fatal. While Formula-fed goats may require more care and attention than those that are not fed formula, the benefits of doing so are well worth the effort.
 
@@ -110,7 +110,7 @@ While baby formula can be a convenient way to [feed goats](/can-baking-soda-caus
 
 First of all, baby formula is designed for human babies, and as such, it may not provide all the nutrients that goats need.
 
-On top of that, baby formula is often very expensive, and it can be difficult to find a brand that is compatible with goat milk.
+Similarly, baby formula is often very expensive, and it can be difficult to find a brand that is compatible with goat milk.
 
 Finally, [baby formula can be hard to digest for some goats](/can-baby-goats-be-house-trained/), causing stomach upset and diarrhea. For these reasons, it's crucial to consider the disadvantages of feeding baby formula to goats before making a decision.
 
@@ -122,7 +122,7 @@ For example, [newborn goats will need to consume more formula than older goats](
 
 In general, however, you should start by feeding your goat about 4 ounces of formula per day. This can be increased or decreased as needed based on the goat's individual needs.
 
-If you are unsure about how much formula to feed your goat, it's always best to consult with a goat expert or other animal expert.
+If you are unsure about how much formula to feed your goat, it's always best to consult with a veterinarian or other animal expert.
 
 ## Are there any alternative milk products that I can feed my goat?
 
@@ -134,7 +134,7 @@ Each of these [milk products has its own unique nutritional profile](/can-i-give
 
 The best baby formula for goats is one that is designed specifically for them. There are a number of goat-specific formulas on the market, and they are typically made with goat milk or a combination of goat milk and cow's milk.
 
-These formulas are typically easier for goats to digest than those that are made with cow's milk alone, and they can provide all the nutrients that goats need. If you are unsure about which baby formula to choose, it's always best to consult with a goat expert or other animal expert.
+These formulas are typically easier for goats to digest than those that are made with cow's milk alone, and they can provide all the nutrients that goats need. If you are unsure about which baby formula to choose, it's always best to consult with a veterinarian or other animal expert.
 
 ## Final Thoughts
 

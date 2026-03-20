@@ -105,13 +105,13 @@ Just be sure to supervise them while they eat to avoid any potential messes.
 
 Although goats are typically associated with eating grass and hay, they will also consume fruits and vegetables on occasion. One popular treat for goats is applesauce.
 
-Despite that, there are [potential risks associated with feeding goats applesauce](/can-a-plastic-bag-hurt-a-goat/). The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-alfalfa-pellets-cause-goats-to-bloat/), leading to diarrhea or vomiting.
+Be aware, there are [potential risks associated with feeding goats applesauce](/can-a-plastic-bag-hurt-a-goat/). The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-alfalfa-pellets-cause-goats-to-bloat/), leading to diarrhea or vomiting.
 
 In addition, the seeds in applesauce contain cyanide, which can be toxic to goats if consumed in large quantities. As a result, it's crucial to feed goats applesauce in moderation and to remove the seeds before giving them to them.
 
 ## Can pregnant goats eat applesauce?
 
-Many pregnant women crave applesauce, and it's usually considered a healthy snack option. Despite that, there's some debate about whether or not [pregnant goats can eat applesauce](/can-pregnant-goats-eat-medicated-feed/).
+Many pregnant women crave applesauce, and it's usually considered a healthy snack option. Of course, there's some debate about whether or not [pregnant goats can eat applesauce](/can-pregnant-goats-eat-medicated-feed/).
 
 Some people believe that the acidity in the applesauce can [cause problems for the goat](/can-contact-with-goats-cause-diarrhea-in-humans/), while others believe that the natural sugars in the applesauce can provide a boost of energy for the pregnant goat.
 
@@ -143,4 +143,4 @@ Lastly, remember that goats are attractive creatures and will usually prefer hay
 
 [Goats can eat applesauce](/can-goats-eat-grapes/), but there are potential risks associated with it. The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-goats-cause-slope/), and the seeds contain cyanide, which can be toxic to goats if consumed in large quantities.
 
-As a result, it's important to [feed goats applesauce](/can-baking-soda-cause-urinary-issues-in-goats/) in moderation and to remove the seeds before giving them to them. If you are concerned about potential problems, you can always consult with a goat expert before feeding your goat anything new.
+As a result, it's important to [feed goats applesauce](/can-baking-soda-cause-urinary-issues-in-goats/) in moderation and to remove the seeds before giving them to them. If you are concerned about potential problems, you can always consult with a veterinarian before feeding your goat anything new.

@@ -52,7 +52,7 @@ In this article, we'll discuss everything you need to know about coating angora 
 
 ## Can you coat angora goats to protect fleece?
 
-On top of that, coating an angora goat can also help protect the fleece from damage. For example, if an angora goat rubs its coat against a fence, the coat will protect the fleece from getting scratched or tangled.
+Also, coating an angora goat can also help protect the fleece from damage. For example, if an angora goat rubs its coat against a fence, the coat will protect the fleece from getting scratched or tangled.
 
 ## What are the things you need to take into account when coating an angora goat?
 
@@ -80,7 +80,7 @@ In addition to their fleece, angora [goats also produce milk](/can-a-goat-produc
 
 A coat protects the fleece from damage by providing a barrier between the fleece and the outside environment.
 
-The coat helps to keep the fleece clean and free from debris, and it also provides insulation against extreme temperatures. On top of that, the coat helps to protect the fleece from physical damage such as abrasions and cuts.
+The coat helps to keep the fleece clean and free from debris, and it also provides insulation against extreme temperatures. Similarly, the coat helps to protect the fleece from physical damage such as abrasions and cuts.
 
 The coat also helps to reduce the risk of fleece staining. Lastly, the coat can help to increase the lifespan of the fleece by protecting it from wear and tear.
 

@@ -64,7 +64,7 @@ With all of this in mind, it is clear that feeding male goats grain should be do
 
 ## How to prevent your male goats from eating grain?
 
-The best way to prevent your male goats from eating grain is to not have any grain in their diet. Despite that, if you must feed them grain, then you should cook the grain first and only give them a small amount at a time.
+The best way to prevent your male goats from eating grain is to not have any grain in their diet. Be aware, if you must feed them grain, then you should cook the grain first and only give them a small amount at a time.
 
 You should also [monitor their diet](/can-goats-have-horse-electrolytes/) closely to make sure that they are not overeating or consuming too much grain.
 
@@ -78,7 +78,7 @@ There are a few different treatment options for male goats with urinary calculi.
 
 In some cases, the goat may also be placed on a [special diet that is low in protein](/can-goats-have-36-protein/) and calcium. In severe cases, male goats may need to be euthanized.
 
-If your male goat experiences urinary calculi, be sure to speak with a goat expert about the ideal treatment solution for your goat's particular case.
+If your male goat experiences urinary calculi, be sure to speak with a veterinarian about the ideal treatment solution for your goat's particular case.
 
 Surgery is usually the most effective treatment, but in some cases, a special diet may be necessary. In severe cases, euthanasia may be the only option.
 
@@ -92,13 +92,13 @@ The best time to neuter your male goat is typically between the ages of 4 and 6 
 
 ## Do all male goats need to be neutered?
 
-Not all male goats need to be neutered. Despite that, it is generally recommended for male [goats that are at risk](/can-a-cdt-shot-kill-a-goat/) for developing urinary calculi.
+Not all male goats need to be neutered. Even so, it is generally recommended for male [goats that are at risk](/can-a-cdt-shot-kill-a-goat/) for developing urinary calculi.
 
 Neutering helps to prevent the goat from developing urinary calculi later in life. It is also important to note that neutering does not guarantee that the goat will not develop urinary calculi.
 
 But, it is still the best prevention method available.
 
-If you have a male goat, talk to a goat expert about whether or not he should be neutered. In most cases, it is recommended for male goats that are at risk for developing urinary calculi.
+If you have a male goat, talk to a veterinarian about whether or not he should be neutered. In most cases, it is recommended for male goats that are at risk for developing urinary calculi.
 
 Neutering helps to prevent the goat from developing urinary calculi later in life.
 
@@ -116,9 +116,9 @@ More often than not, surgery is the most reliable form of treatment; however, ce
 
 ## What are some of the complications that can arise from feeding grain to male goats?
 
-Some of the complications that can arise from feeding grain to [male goats include digestive problems](/can-goats-digest-cigarettes/), health issues, and breeding problems.
+Some of the complications that can arise from feeding grain to male goats include digestive problems, health issues, and breeding problems.
 
-Grain can also cause [urinary calculi in some male goats](/can-baking-soda-cause-urinary-issues-in-goats/). Therefore, it is crucial to talk to a goat expert about the best way to feed grain to your male goat.
+Grain can also cause [urinary calculi in some male goats](/can-baking-soda-cause-urinary-issues-in-goats/). Therefore, it is crucial to talk to a veterinarian about the best way to feed grain to your male goat.
 
 Grain can cause [some serious complications for male goats](/can-contact-with-goats-cause-diarrhea-in-humans/), including digestive problems, health issues, and breeding problems.
 

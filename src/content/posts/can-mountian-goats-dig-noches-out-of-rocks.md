@@ -57,7 +57,7 @@ There are several different purposes of noches for mountain goats. For one thing
 
 They also serve as a crucial shelter from the elements, [protecting mountain goats](/can-you-coat-angora-goats-to-protect-fleece/) from extreme cold and precipitation.
 
-On top of that, noches play an important role in social interactions within [herds](/can-you-describe-a-herd-of-sheep-and-goats/), allowing goats to bond with one another through grooming and sniffing activities.
+Plus, noches play an important role in social interactions within [herds](/can-you-describe-a-herd-of-sheep-and-goats/), allowing goats to bond with one another through grooming and sniffing activities.
 
 Overall, these sharp-clawed foot formations make essential tools for mountain goats in their rugged habitats, helping them to thrive and survive in the wild.
 
@@ -115,7 +115,7 @@ Some scientists believe that large herds may be more likely to engage in noches 
 
 It is also possible that some mountain goats choose not to dig noches, perhaps due to environmental conditions or food availability.
 
-Despite that, it is important to note that there have been no definitive studies on this topic, so conclusive answers about mountain goat noches-digging behaviors remain elusive for now.
+Even so, it is important to note that there have been no definitive studies on this topic, so conclusive answers about mountain goat noches-digging behaviors remain elusive for now.
 
 Ultimately, further research will be necessary to gain a better understanding of this fascinating natural behavior.
 

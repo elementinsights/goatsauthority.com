@@ -88,7 +88,7 @@ If your goal is to breed Nigerian dwarf goats for meat production, you'll need t
 
 ## What is the average lifespan of a Nigerian dwarf goat?
 
-Nigerian dwarf goats are a hardy breed, and with proper care, they can live for 10-12 years. Despite that, like all animals, they're susceptible to health problems.
+Nigerian dwarf goats are a hardy breed, and with proper care, they can live for 10-12 years. At the same time, like all animals, they're susceptible to health problems.
 
 The most common health problems for Nigerian dwarf goats include parasites, respiratory infections, and injuries.
 
@@ -114,7 +114,7 @@ After you butcher the Nigerian dwarf goat, you have the option to either cook it
 
 Nigerian dwarf goats are a good choice for those who want to raise [goats for meat](/can-i-sell-goat-milk-butter/). They're a smaller breed of goat, so they don't require as much food or space as some of the other breeds.
 
-On top of that, their meat is just as tasty as the meat from larger breeds.
+Plus, their meat is just as tasty as the meat from larger breeds.
 
 Another benefit of raising Nigerian dwarf goats is that they're less likely to escape. They're not as large as some of the other breeds, so they can't jump as high or climb as well.
 
@@ -134,7 +134,7 @@ With proper care, they can live for 10-12 years.
 
 Overall, Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.
 
-On top of that, their meat is just as tasty as the meat from larger breeds.
+Similarly, their meat is just as tasty as the meat from larger breeds.
 
 If you're thinking about raising Nigerian dwarf goats for meat, be sure to do your research. Make sure you know how to care for them and what the butchering process entails.
 

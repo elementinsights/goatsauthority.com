@@ -128,7 +128,7 @@ In some cases, it may also be necessary to provide [electrolytes](/can-baby-goat
 
 There are several things that you can do to keep your goat's stomach healthy. First, you need to feed them a variety of different foods.
 
-Hay, grass, and grains are all good options. You should also make sure that they have access to [clean water](/can-goats-drink-cows-milk/) at all times.
+Hay, grass, and grains are all good options. You should also make sure that they have access to clean water at all times.
 
 Second, you need to maintain a balance of good bacteria in their stomach. This can be done by feeding them probiotics or fermented foods.
 

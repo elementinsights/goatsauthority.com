@@ -48,15 +48,15 @@ We will address all these questions, and more, in this article and provide you w
 
 ## How many babies do goats have at a time?
 
-However, every now and again, a doe will have what is known as a "dry year," where she doesn't [produce any offspring](/can-a-goat-bag-up-without-being-pregnant/). Dry years are relatively rare, but they can happen from time to time.
+However, every now and again, a doe will have what is known as a "dry year," where she doesn't produce any offspring. Dry years are relatively rare, but they can happen from time to time.
 
 ## How do you know when your goat is ready to give birth?
 
-The average [gestation period](/can-a-goat-have-babies-a-week-apart/) for a goat is about 150 days. Despite that, this can vary slightly depending on the breed of goat.
+The average [gestation period](/can-a-goat-have-babies-a-week-apart/) for a goat is about 150 days. Of course, this can vary slightly depending on the breed of goat.
 
 For example, Alpine goats have a gestation period of 144 days, while LaManchas have a gestation period of 155 days.
 
-There are several signs that a goat is close to giving birth, including restless behavior, softening and [enlargement of the udder](/can-a-goat-form-an-udder-without-being-pregnant/), and separation from the herd.
+There are several signs that a goat is close to giving birth, including restless behavior, softening and enlargement of the udder, and separation from the herd.
 
 During the last few weeks of pregnancy, it's important to provide extra food and shelter for the expectant mother.
 

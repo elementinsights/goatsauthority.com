@@ -54,7 +54,7 @@ If you are planning on breeding your doe, it's best to consult with a veterinari
 
 ## What is the goat's reproductive cycle?
 
-Goats are polyestrous, meaning they can breed at any time of year. Despite that, their reproductive cycle is seasonal, with the greatest activity occurring in the fall.
+Goats are polyestrous, meaning they can breed at any time of year. Of course, their reproductive cycle is seasonal, with the greatest activity occurring in the fall.
 
 During this time, goats experience an increase in hormones that causes them to go into heat. While in heat, goats will display a variety of behaviors, such as mounting each other, bleating constantly, and urinating frequently.
 
@@ -62,7 +62,7 @@ If not bred during this time, goats will eventually come out of heat and enter a
 
 Once bred, gestation lasts for approximately five months. During this time, the doe's body will undergo a variety of changes to prepare for childbirth.
 
-[Her udder will swell](/can-a-goat-form-an-udder-without-being-pregnant/) and fill with milk, and her belly will grow larger as the [kids develop](/how-many-babies-do-goats-have-at-a-time/). Towards the end of pregnancy, the doe's appetite will increase significantly as she begins to eat for two.
+Her udder will swell and fill with milk, and her belly will grow larger as the [kids develop](/how-many-babies-do-goats-have-at-a-time/). Towards the end of pregnancy, the doe's appetite will increase significantly as she begins to eat for two.
 
 Just before giving birth, the doe's [temperature will drop](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/) and she will start to produce a thick mucus discharge. These are called "signs of kindling" and indicate that labor is imminent.
 

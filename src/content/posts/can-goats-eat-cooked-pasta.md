@@ -52,7 +52,7 @@ In this article, we will answer all of your questions so that you can make an in
 
 ## Can goats eat cooked pasta?
 
-Despite that, it's important to moderate the amount of cooked pasta that you [feed your goat as it can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) if they eat too much. It's also important to make sure that the cooked pasta is not too salty or oily, as this can also be harmful to goats.
+Of course, it's important to moderate the amount of cooked pasta that you [feed your goat as it can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) if they eat too much. It's also important to make sure that the cooked pasta is not too salty or oily, as this can also be harmful to goats.
 
 ## Can a pregnant goat eat cooked pasta?
 
@@ -66,7 +66,7 @@ Additionally, cooked pasta is easy to digest and is unlikely to cause stomach up
 
 [Goats of all ages can eat cooked pasta](/can-goats-eat-cooked-white-rice/). But, you need to start with [small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the amount as your goat gets used to the new food.
 
-On top of that, you need to make sure that the cooked pasta is not too salty or oily, as this can be harmful to goats.
+Plus, you need to make sure that the cooked pasta is not too salty or oily, as this can be harmful to goats.
 
 In addition, baby goats should always have access to fresh, clean water. If you have any concerns about your goat's diet, please consult with a veterinarian or qualified livestock expert.
 
@@ -76,7 +76,7 @@ While there's no definitive answer to this question, it's generally believed tha
 
 In addition, cooked pasta is a good source of carbohydrates, which can be helpful for [goats that are producing milk](/can-a-female-goat-produce-milk-without-being-pregnant/). But, you need to avoid feeding too much pasta to goats, as this can cause them to become overweight.
 
-On top of that, you need to make sure that the pasta is not overcooked, as this can make it difficult for [goats to digest](/can-goats-digest-cigarettes/). Overall, cooked pasta is generally considered to be a safe food for lactating goats, but it should be fed in moderation.
+Beyond that, you need to make sure that the pasta is not overcooked, as this can make it difficult for goats to digest. Overall, cooked pasta is generally considered to be a safe food for lactating goats, but it should be fed in moderation.
 
 ## Can goats eat raw pasta?
 
@@ -96,9 +96,9 @@ The cooking process breaks down the starch, making it more digestible for goats.
 
 ## What are the benefits of feeding goats cooked pasta?
 
-Goats are traditionally seen as creatures of the pasture, nibbling on grass and bushes as they roam. Despite that, goats are actually very versatile eaters and can enjoy a variety of different foods, including cooked pasta.
+Goats are traditionally seen as creatures of the pasture, nibbling on grass and bushes as they roam. Then again, goats are actually very versatile eaters and can enjoy a variety of different foods, including cooked pasta.
 
-Pasta is a good source of carbohydrates and can help goats to maintain their energy levels. On top of that, cooked pasta is easier for goats to digest than raw pasta, which can be tough on their stomachs.
+Pasta is a good source of carbohydrates and can help goats to maintain their energy levels. Another thing to note is cooked pasta is easier for goats to digest than raw pasta, which can be tough on their stomachs.
 
 Finally, [feeding goats cooked pasta](/can-a-goat-feed-quads/) is a great way to introduce them to new flavors and textures. As long as it's fed in moderation, cooked pasta can be a healthy and delicious treat for your goat.
 
@@ -140,7 +140,7 @@ Your goat will enjoy the treat without suffering from any ill effects.
 
 If you're looking for alternative food options for goats, consider hay. Hay is a good source of fiber and nutrients, and it can help goats to stay healthy and fit.
 
-On top of that, hay is less likely to cause digestive problems than cooked pasta. You can also give your goat fresh vegetables and fruits as a treat.
+Additionally, hay is less likely to cause digestive problems than cooked pasta. You can also give your goat fresh vegetables and fruits as a treat.
 
 These are a good source of vitamins and minerals, and they can help to keep your [goat's digestive system](/can-goats-digest-anything/) healthy. Just be sure to avoid giving your goat any fruits or vegetables that are high in sugar or salt.
 

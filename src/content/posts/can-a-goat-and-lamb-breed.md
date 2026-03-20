@@ -114,7 +114,7 @@ The main reason for this difference is that geeps are hybrids of two different s
 
 One of the most important things you can do for a pregnant goat or lamb is to provide them with plenty of fresh, clean water.
 
-They will need more water than usual because they are carrying [twins or triplets](/how-many-babies-do-goats-have-at-a-time/), and their bodies are working hard to [produce milk](/can-a-goat-bag-up-without-being-pregnant/) for their offspring. Make sure to clean and refill their water trough every day, and if possible, offer them fresh grazing grass or hay as well.
+They will need more water than usual because they are carrying [twins or triplets](/how-many-babies-do-goats-have-at-a-time/), and their bodies are working hard to produce milk for their offspring. Make sure to clean and refill their water trough every day, and if possible, offer them fresh grazing grass or hay as well.
 
 Pregnant goats and lambs also need more protein than usual, so be sure to include high-quality feed in their diet.
 
@@ -122,7 +122,7 @@ You may also want to supplement their diet with vitamins and minerals, especiall
 
 Finally, exercise is important for pregnant goats and lambs, so make sure they have plenty of space to roam and play. Goats are notoriously active creatures, so they may need additional fencing or penned area to keep them safe while they frolic.
 
-By providing pregnant goats and lambs with the care they need, you can help ensure [healthy delivery](/can-a-goat-form-an-udder-without-being-pregnant/) and a strong start for their offspring.
+By providing pregnant goats and lambs with the care they need, you can help ensure healthy delivery and a strong start for their offspring.
 
 ## Frequently asked questions (FAQs) about goat and lamb breeding
 

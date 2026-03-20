@@ -67,7 +67,7 @@ Second, human lice are much smaller than goat lice. Third, human lice feed on di
 
 Head lice feed on human blood, while body lice feed on dead skin cells.
 
-Finally, human lice do not cause nearly as many problems for humans as goat lice can cause for goats. Head lice may cause itching and hair loss, but they do not usually lead to serious [health problems in humans](/can-a-goat-get-addicted-to-human-urine/).
+Finally, human lice do not cause nearly as many problems for humans as goat lice can cause for goats. Head lice may cause itching and hair loss, but they do not usually lead to serious health problems in humans.
 
 ## What are the signs and symptoms of a goat lice infestation in humans?
 

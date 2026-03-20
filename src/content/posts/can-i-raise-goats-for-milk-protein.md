@@ -88,7 +88,7 @@ There are a few key things to keep in mind when taking care of goats for milk pr
 
 This should include plenty of high-fiber feeds like hay and grass, as well as fresh water and a variety of supplemental nutrients like vitamins, minerals, and probiotics.
 
-On top of that, regular veterinary checkups are important for ensuring the health and wellness of your herd.
+Similarly, regular veterinary checkups are important for ensuring the health and wellness of your herd.
 
 By keeping these factors in mind and providing attentive care to your goats, you can help ensure that they produce healthy, plentiful milk supplies well into the future.
 
@@ -100,7 +100,7 @@ Whether you're petting them or taking their milk, always approach them in a calm
 
 This helps to make the process quicker and more efficient, as well as reducing any [risk of injury for you or the goat](/can-a-cdt-shot-kill-a-goat/).
 
-On top of that, it is crucial to be aware of any health issues that your goats may have so that you can avoid these areas when taking their milk. With proper care and attention, but, [milking goats](/can-a-cat-drink-goats-milk/) and collecting their milk should be an easy and enjoyable process.
+Additionally, it is crucial to be aware of any health issues that your goats may have so that you can avoid these areas when taking their milk. With proper care and attention, but, [milking goats](/can-a-cat-drink-goats-milk/) and collecting their milk should be an easy and enjoyable process.
 
 ## How to store and use goat milk protein?
 

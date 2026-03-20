@@ -82,7 +82,7 @@ Afterbirth is the placenta and accompanying fluids that are expelled from the ut
 
 These cotyledons are attached to the placenta by a thick, rope-like cord known as the funis. The cotyledons and funis are encased in a sac-like structure known as the chorioallantois.
 
-Afterbirth is normally expelled within 12 hours of kidding (giving birth). Despite that, retained afterbirth is a common problem in goats.
+Afterbirth is normally expelled within 12 hours of kidding (giving birth). Still, retained afterbirth is a common problem in goats.
 
 Retained afterbirth occurs when all or part of the placenta and fluids are not expelled within 12 hours after kidding.
 
@@ -144,7 +144,7 @@ A newborn goat kid can weigh anywhere from 6 to 10 pounds. Bucks, or [male goats
 
 However, there's quite a bit of variation between individual animals, so it's not unusual for a doe to give birth to a buck that weighs more than she does. On average, kids gain about a pound per week during their first few months of life.
 
-Despite that, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. Ultimately, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
+Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. Ultimately, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
 
 ## Final Thoughts
 

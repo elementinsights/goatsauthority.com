@@ -61,11 +61,11 @@ Kohlrabi is a popular food for goats. [Goats are able to digest](/can-goats-dige
 
 The antioxidants in kohlrabi can also help to protect goats from diseases.
 
-On top of that, kohlrabi can help to keep goats cool in hot weather, as it helps to regulate their body temperature. Appropriately, kohlrabi is an important food for [goats and can provide them with numerous health benefits](/can-goats-eat-gum-tree-leaves/).
+What's more, kohlrabi can help to keep goats cool in hot weather, as it helps to regulate their body temperature. Appropriately, kohlrabi is an important food for [goats and can provide them with numerous health benefits](/can-goats-eat-gum-tree-leaves/).
 
 ## What do goats eat and are they able to eat Kohlrabi?
 
-[Goats are actually very versatile eaters and can digest](/can-goats-digest-cigarettes/) a wide variety of plant life. In general, they are browsers rather than grazers, which means that they prefer to eat leaves, twigs, and other foliage.
+Goats are actually very versatile eaters and can digest a wide variety of plant life. In general, they are browsers rather than grazers, which means that they prefer to eat leaves, twigs, and other foliage.
 
 Goat stomachs are specifically designed to break down these types of tough plant materials. Kohlrabi is a type of cabbage that is characterized by its thick, bulbous stem.
 
@@ -85,7 +85,7 @@ As a result, they are able to digest a wide variety of plants that other animals
 
 In fact, goats will often eat Kohlrabi leaves and stem as well as the root itself.
 
-there's no definitive answer to the question of how much Kohlrabi a goat can eat at one time. Despite that, goats typically consume between 2 and 4 percent of their body weight in dry matter each day.
+there's no definitive answer to the question of how much Kohlrabi a goat can eat at one time. Keep in mind, goats typically consume between 2 and 4 percent of their body weight in dry matter each day.
 
 This means that a typical [adult goat](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) could consume about 1 pound of Kohlrabi per day. Of course, individual [goats may eat](/can-a-goat-eat-sticker-bushes/) more or less depending on their appetite and the availability of other food sources.
 
@@ -99,7 +99,7 @@ When feeding kohlrabi to goats, there are a few potential hazards to be aware of
 
 Kohlrabi contains high levels of oxalates, which can bind with calcium and other minerals in the [goat's digestive](/can-goats-digest-anything/) system, making them unavailable for absorption. This can eventually lead to mineral deficiencies and health problems.
 
-On top of that, kohlrabi leaves are high in lignin, which is difficult for goats to digest. As a result, [feeding large quantities of kohlrabi leaves to goats can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) such as diarrhea or scouring.
+Plus, kohlrabi leaves are high in lignin, which is difficult for goats to digest. As a result, [feeding large quantities of kohlrabi leaves to goats can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) such as diarrhea or scouring.
 
 Finally, kohlrabi crops can sometimes be contaminated with harmful bacteria such as E. coli or Salmonella.
 
@@ -111,7 +111,7 @@ Kohlrabi is a type of cabbage that is often eaten raw or cooked. It can also be 
 
 Goats are browsers, which means that they prefer to eat leaves and other vegetation. Kohlrabi leaves are rich in nutrients and minerals, making them an ideal food for goats.
 
-The bulbs can also be fed to goats, but they should be chopped into small pieces to prevent choking. On top of that, kohlrabi should only be fed to goats in moderation, as it can cause digestive problems if they eat too much.
+The bulbs can also be fed to goats, but they should be chopped into small pieces to prevent choking. Beyond that, kohlrabi should only be fed to goats in moderation, as it can cause digestive problems if they eat too much.
 
 When feeding kohlrabi to goats, always make sure that there's plenty of fresh [water available for them to drink](/can-horses-drink-water-that-has-goat-poop-in-it/).
 

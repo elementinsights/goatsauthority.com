@@ -74,7 +74,7 @@ In order to own a goat in the state of Wyoming, you must meet certain requiremen
 
 In general, you must be at least 18 years old, and you must have adequate facilities and land to house your goats. You must also be able to provide adequate care and veterinary treatment for your animals.
 
-On top of that, in order to keep more than two goats on a single property, you must obtain a holding permit from the Department of Agriculture.
+It's also worth noting that in order to keep more than two goats on a single property, you must obtain a holding permit from the Department of Agriculture.
 
 Overall, owning a goat in Wyoming requires responsibility and dedication, but if you are committed and capable of meeting these requirements, then owning a goat can be an incredibly rewarding experience.
 

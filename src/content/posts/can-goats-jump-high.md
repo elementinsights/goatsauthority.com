@@ -59,7 +59,7 @@ The average height a goat can jump is between 30 and 36 inches. However, some br
 
 [Goats are able to jump so high due to their strong hind legs](/can-i-eat-goat-legs-during-pregnancy/) and muscular build.
 
-On top of that, [goats have a natural inclination to climb](/can-goats-climb-fences/), which helps them to scale heights that would be impossible for other animals. Their ability to jump also makes goats excellent escape artists, and they have been known to escape from even the most securely fenced enclosures.
+Plus, [goats have a natural inclination to climb](/can-goats-climb-fences/), which helps them to scale heights that would be impossible for other animals. Their ability to jump also makes goats excellent escape artists, and they have been known to escape from even the most securely fenced enclosures.
 
 As a result, it is important to ensure that any fence designed to contain goats is tall enough to prevent them from jumping over.
 
@@ -67,7 +67,7 @@ As a result, it is important to ensure that any fence designed to contain goats 
 
 One theory is that goats jump because it helps them to escape predators. In the wild, goats are constantly on the lookout for danger, and jumping gives them a quick way to get out of harm's way.
 
-On top of that, jumping helps goats to stay agile and nimble, making it easier for them to find food and avoid predators.
+Similarly, jumping helps goats to stay agile and nimble, making it easier for them to find food and avoid predators.
 
 Another theory is that goats jump because it gives them a way to release excess energy. Goats are very active creatures, and they often need to find ways to burn off some steam.
 
@@ -117,7 +117,7 @@ By taking these measures, you can help to keep your goats safe and happy.
 
 While all goats are capable of jumping, some breeds are more prone to it than others. One of the most notorious jumping breeds is the Pygmy goat.
 
-[Pygmy goats](/can-pygmy-goats-be-good-potty-trained/) are small, compact creatures that are full of energy. They are known for their playful and mischievous nature, and they often jump and play around.
+Pygmy goats are small, compact creatures that are full of energy. They are known for their playful and mischievous nature, and they often jump and play around.
 
 Other breeds that are known for their jumping ability include the [Nubian goat](/can-a-nubian-goat-climb-trees/), the Alpine goat, and the LaMancha goat. These breeds are all relatively large, and they have a lot of energy.
 
@@ -127,6 +127,6 @@ Overall, some of the most notorious jumping breeds include the Pygmy goat, the N
 
 ## Final Thoughts
 
-Goats can jump high, but there are a few risks associated with this behavior. Despite that, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
+Goats can jump high, but there are a few risks associated with this behavior. Even so, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
 
 Overall, the benefits of goats being able to jump, which include their safety and health, outweigh the risks.

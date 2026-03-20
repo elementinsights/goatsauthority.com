@@ -46,7 +46,7 @@ In this article, we will answer those questions about goat milk for people with 
 
 ## Can someone allergic to milk use goats milk?
 
-Despite that, it's always best to consult with your allergist or doctor first before trying [goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/). They can help you determine if you're actually allergic to cow's milk proteins or if you have other food allergies that could make [drinking goat milk](/can-you-drink-goat-milk-while-pregnant/) problematic.
+At the same time, it's always best to consult with your allergist or doctor first before trying [goat milk](/can-i-use-germall-plus-in-goat-milk-lotion/). They can help you determine if you're actually allergic to cow's milk proteins or if you have other food allergies that could make [drinking goat milk](/can-you-drink-goat-milk-while-pregnant/) problematic.
 
 There are a few things to consider if you decide to [drink goat milk](/can-baby-kittens-drink-goats-milk/). First, make sure that the goat milk is pasteurized.
 
@@ -70,7 +70,7 @@ Overall, goat milk is a nutrient-dense food that offers numerous health benefits
 
 Although cow's milk and [goat's milk](/can-i-get-goat-milk-at-luckys-market/) may look similar, there are actually several important differences between the two. For example, cow's milk generally contains more fat than goat's milk.
 
-While this makes it ideal for making things like cheese and butter, some people may find cow's milk to be too rich or fatty. On top of that, goat's milk tends to be sweeter than cow's milk, which may make it more appealing as a standalone beverage.
+While this makes it ideal for making things like cheese and butter, some people may find cow's milk to be too rich or fatty. Also, goat's milk tends to be sweeter than cow's milk, which may make it more appealing as a standalone beverage.
 
 Another difference is the amount of protein found in each type of milk; while goat's milk typically contains more protein than cow's dairy, some people may prefer the lower protein levels found in cow's products.
 

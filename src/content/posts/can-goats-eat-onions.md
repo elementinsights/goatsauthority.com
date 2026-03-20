@@ -63,7 +63,7 @@ While onions are off-limits for pregnant goats, they can be a part of a healthy 
 
 They also have antioxidants that can help protect goats from disease. When fed in moderation, onions can be a healthy addition to a goat's diet. For better vitamin C sources, consider [tomatoes](/can-goats-eat-tomatoes/) or [bell peppers](/can-goats-eat-bell-peppers/).
 
-Despite that, it's important to make sure that they are properly cooked before feeding them to goats, as raw onions can cause stomach upset.
+Of course, it's important to make sure that they are properly cooked before feeding them to goats, as raw onions can cause stomach upset.
 
 ## Can baby goats eat onions?
 
@@ -115,7 +115,7 @@ This can cause the goat to experience stomach pain, diarrhea, and vomiting. Ther
 
 One onion per day is a good serving size for goats. Onions are a source of essential vitamins and minerals, including sulfur, which is important for [hoof](/do-goats-have-cloven-hooves/) health.
 
-They also contain compounds that can help to reduce stress and promote immunity. Despite that, onions can be toxic to goats in large quantities, so you must limit their intake.
+They also contain compounds that can help to reduce stress and promote immunity. Then again, onions can be toxic to goats in large quantities, so you must limit their intake.
 
 When feeding onions to goats, be sure to chop them into small pieces or shred them to avoid any choking hazards. You can also feed goats cooked onions, but be sure not to add any salt or other seasonings. For safer treat options, try [apples](/can-goats-eat-apples/) or [bananas](/can-goats-eat-bananas/).
 

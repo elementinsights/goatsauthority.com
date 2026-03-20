@@ -71,23 +71,23 @@ Artichokes are also known for their nutritional value, as they are a good source
 
 Goats are naturally curious creatures, and they will often eat anything that they come across.
 
-This can sometimes lead to digestive problems, as [goats are not able to digest all types of food](/can-goats-digest-cotton/). But, artichokes are a type of food that [goats can digest easily](/can-goats-digest-cigarettes/).
+This can sometimes lead to digestive problems, as [goats are not able to digest all types of food](/can-goats-digest-cotton/). But, artichokes are a type of food that goats can digest easily.
 
 Artichokes contain high levels of fiber, which helps to keep the [goat's digestive system](/can-goats-digest-anything/) working properly.
 
-On top of that, artichokes also contain a compound called cynarin. Cynarin has been shown to have a number of [benefits for goats](/can-benadryl-hurt-a-goat/), including reducing parasites and improving the health of the liver.
+Also, artichokes also contain a compound called cynarin. Cynarin has been shown to have a number of [benefits for goats](/can-benadryl-hurt-a-goat/), including reducing parasites and improving the health of the liver.
 
 Appropriately, [feeding artichokes to goats can have a number of benefits](/can-goats-eat-chicken-feed/) for both the goat and the farmer.
 
 ## What are the risks of feeding artichokes to goats?
 
-Artichokes are a popular vegetable, praised for their earthy flavor and [health benefits](/can-goats-eat-hamburger/). Despite that, artichokes also contain a compound known as Cynarin.
+Artichokes are a popular vegetable, praised for their earthy flavor and [health benefits](/can-goats-eat-hamburger/). Of course, artichokes also contain a compound known as Cynarin.
 
 When consumed in large quantities, Cynarin can [cause liver damage and gastrointestinal problems in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
 
 For this reason, it's crucial to be careful when feeding artichokes to goats. While a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of artichoke leaves is not likely to cause any harm, eating large quantities of vegetables can be dangerous.
 
-On top of that, artichokes should not be fed to goats that are pregnant or lactating, as the Cynarin could potentially harm the unborn child or interfere with milk production.
+Additionally, artichokes should not be fed to goats that are pregnant or lactating, as the Cynarin could potentially harm the unborn child or interfere with milk production.
 
 If you do choose to feed artichokes to your goats, you need to do so in moderation and monitor your animals closely for any signs of illness.
 

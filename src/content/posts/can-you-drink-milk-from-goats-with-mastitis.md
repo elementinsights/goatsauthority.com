@@ -68,7 +68,7 @@ Other symptoms can include a fever, chills, and a general feeling of malaise.
 
 Mastitis is usually caused by bacteria that enter the breast through cracked or damaged nipples. The good news is that mastitis is usually easily treated with antibiotics and rest.
 
-Most women who develop mastitis make a full recovery and are able to continue breastfeeding without any problems. Despite that, some women may experience recurrent episodes of mastitis or may develop a more serious form of infection known as puerperal sepsis.
+Most women who develop mastitis make a full recovery and are able to continue breastfeeding without any problems. At the same time, some women may experience recurrent episodes of mastitis or may develop a more serious form of infection known as puerperal sepsis.
 
 Therefore, it is crucial to see your doctor if you think you might have mastitis. Treatment for [mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
 
@@ -116,13 +116,13 @@ Regardless, any remaining milk should be discarded after two hours of thawing at
 
 There are special considerations for people with mastitis. If you think you may have an infection, it is important to seek medical attention as soon as possible to prevent the spread of the bacteria or virus and minimize your risk of complications.
 
-On top of that, it is important to practice good hygiene while nursing or pumping, such as washing your hands before and after touching the infected area, using a separate pump for each breast, and avoiding soap or other harsh chemicals on the nipples.
+Another thing to note is it is important to practice good hygiene while nursing or pumping, such as washing your hands before and after touching the infected area, using a separate pump for each breast, and avoiding soap or other harsh chemicals on the nipples.
 
 Additionally, make sure you drink plenty of fluids and get plenty of rest to help keep your body strong in fighting off infection. Following these tips will ensure that you are taking proper care of yourself and helping to ease pain and promote healing.
 
 The most important thing to remember when dealing with mastitis is that early detection and treatment are key to preventing complications. If you think you may have an infection, it is essential to see a doctor right away for proper diagnosis and treatment.
 
-On top of that, good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
+Additionally, good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
 
 ## Final Thoughts
 

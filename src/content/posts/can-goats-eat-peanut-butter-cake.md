@@ -58,7 +58,7 @@ Peanut butter cake is a good source of protein for goats. Protein is essential f
 
 Peanut butter cake also contains essential vitamins and minerals, such as vitamin B12, which is important for the proper function of the nervous system.
 
-On top of that, peanut butter cake contains some fat and carbohydrates. While fat is an important energy source for goats, too much fat can lead to obesity and [health problems](/can-goats-eat-chocolate/).
+What's more, peanut butter cake contains some fat and carbohydrates. While fat is an important energy source for goats, too much fat can lead to obesity and [health problems](/can-goats-eat-chocolate/).
 
 Therefore, you need to feed peanut butter cake to goats in moderation.
 
@@ -108,13 +108,13 @@ Peanut butter cake is a popular treat among goats, but it can also be risky. Pea
 
 In severe cases, it can even lead to anaphylactic shock. Therefore, you need to take precautions when feeding peanut butter cake to goats.
 
-One way to reduce the risk is to [feed only a small amount of cake](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and to monitor the goat for any adverse reactions. If the goat starts to show signs of an allergic reaction, such as wheezing or difficulty breathing, immediately remove the cake and seek a goat expert care.
+One way to reduce the risk is to [feed only a small amount of cake](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and to monitor the goat for any adverse reactions. If the goat starts to show signs of an allergic reaction, such as wheezing or difficulty breathing, immediately remove the cake and seek a veterinarian care.
 
 By taking these precautions, you can help ensure that your goats enjoy their peanut butter cake without experiencing any negative side effects.
 
 ## What are the treatments for anaphylactic shock in goats?
 
-If your goat goes into anaphylactic shock, you need to seek goat expert care immediately. Anaphylactic shock is a medical emergency and can be fatal if not treated promptly.
+If your goat goes into anaphylactic shock, you need to seek veterinarian care immediately. Anaphylactic shock is a medical emergency and can be fatal if not treated promptly.
 
 The first steps in treatment is to remove the allergen, which in this case would be the peanut butter cake. If the goat is still having difficulty breathing, the next step is to give them injectable epinephrine.
 
@@ -124,7 +124,7 @@ With prompt treatment, most [goats will make a full recvoery](/can-i-remove-my-g
 
 ## How much peanut butter cake can goats eat per day?
 
-Goats can eat a small amount of peanut butter cake per day without any problems. Despite that, you need to keep in mind that the cake is high in sugar and fat.
+Goats can eat a small amount of peanut butter cake per day without any problems. Of course, you need to keep in mind that the cake is high in sugar and fat.
 
 Therefore, it should only be given to goats in moderation.
 
@@ -134,7 +134,7 @@ But, it's best to start with a smaller amount and increase it gradually to avoid
 
 ## Final Thoughts
 
-Overall, peanut butter cake is safe for goats to eat in moderation. Despite that, there are some risks associated with feeding it to them.
+Overall, peanut butter cake is safe for goats to eat in moderation. Still, there are some risks associated with feeding it to them.
 
 One of the most common is choke, which can occur if the goat inhales the dry cake crumbs. Another risk is digestive upset, which can occur if the goat eats too much sugar and fat.
 

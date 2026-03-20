@@ -52,7 +52,7 @@ In this article, we will answer those questions and more, so you can feel confid
 
 ## Can pygmy goats eat eucalyptus?
 
-On top of that, eucalyptus leaves can help prevent parasitic infections, which are common in goats. The oil found in eucalyptus leaves is also known to have anti-inflammatory and antibacterial properties, which can be helpful in treating skin conditions.
+It's also worth noting that eucalyptus leaves can help prevent parasitic infections, which are common in goats. The oil found in eucalyptus leaves is also known to have anti-inflammatory and antibacterial properties, which can be helpful in treating skin conditions.
 
 So, not only are eucalyptus leaves safe for [pygmy goats to eat](/can-pygmy-goats-eat-hay/), but they offer a variety of health benefits as well.
 
@@ -72,7 +72,7 @@ There are indeed several risks associated with feeding eucalyptus leaves to pygm
 
 Firstly, as these leaves are highly toxic, they can cause serious health problems in these animals if ingested in large quantities.
 
-On top of that, some goat breeds may lack a sufficient tolerance for the high levels of tannins found in eucalyptus leaves, leading to digestive issues or even death.
+Another thing to note is some goat breeds may lack a sufficient tolerance for the high levels of tannins found in eucalyptus leaves, leading to digestive issues or even death.
 
 Furthermore, feeding too many eucalyptus leaves may lead to a subsequent deficiency in other types of feed, resulting in poor nutrition and weight loss.
 
@@ -102,7 +102,7 @@ The first step is usually to address any underlying health issues, such as makin
 
 In addition, other treatment options may include vitamin injections, steam inhalation methods, or even [tube feeding](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) if the goat is not able to eat on its own.
 
-It's crucial to work closely with a goat expert in order to determine the best course of treatment for each individual case, as what works for one goat might not work for another.
+It's crucial to work closely with a veterinarian in order to determine the best course of treatment for each individual case, as what works for one goat might not work for another.
 
 Ultimately, though, with the right care and attention, it is possible for a [sick pygmy goat](/can-a-goat-get-sick-from-cold/) to fully recover and return to good health.
 
@@ -136,7 +136,7 @@ There are a number of different food sources that can be used to supplement the 
 
 Additionally, you can [provide your goat with small amounts of fresh fruits and vegetables](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), as well as high-quality protein sources like meat or fish. It's crucial to remember, however, that goats are primarily herbivores, so their diet should consist mostly of plant-based foods.
 
-When in doubt, it's always best to consult with a professional goat expert or livestock nutritionist to ensure that your goat is getting the right balance of nutrients.
+When in doubt, it's always best to consult with a professional veterinarian or livestock nutritionist to ensure that your goat is getting the right balance of nutrients.
 
 With proper care and attention, you can help to keep your pygmy goat healthy and happy for years to come.
 

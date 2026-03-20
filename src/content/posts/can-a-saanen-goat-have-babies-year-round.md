@@ -97,11 +97,11 @@ Additionally, you should avoid exposing them to extremes of temperature, both ho
 
 Saanen goats are a medium-sized breed of dairy goat that originates from the western Alps in Switzerland. They are known for their large milk production, and as a result, they are often used for commercial dairy operations.
 
-Despite that, Saanen goats can also make excellent pets, and they are often kept on small farms or homesteads. One of the most common questions about Saanen goats is how many kids they can have at one time.
+Then again, Saanen goats can also make excellent pets, and they are often kept on small farms or homesteads. One of the most common questions about Saanen goats is how many kids they can have at one time.
 
 Saanen goats usually have twins or triplets, although they may occasionally have [single births](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/). Most does will [produce between 2 and 3 quarts of milk](/can-a-female-goat-produce-milk-without-being-pregnant/) per day, which is enough to feed two or three kids.
 
-Despite that, some does may produce more milk, and in these cases, it may be necessary to supplement the kids with bottle feedings.
+Even so, some does may produce more milk, and in these cases, it may be necessary to supplement the kids with bottle feedings.
 
 The kidding rate for Saanen goats is typically between 150 and 200 percent. This means that for every 100 does, there will be between 150 and 200 offspring born each year.
 

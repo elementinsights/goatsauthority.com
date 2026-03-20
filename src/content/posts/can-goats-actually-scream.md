@@ -47,7 +47,7 @@ Let's take a closer look at this question and find out everything you need to kn
 
 ## Can goats actually scream?
 
-Despite that, it's important to note that goats don't typically scream unless they are in distress or feeling threatened. So, if you hear your goat screaming, it's important to take notice and see if there's anything wrong.
+At the same time, it's important to note that goats don't typically scream unless they are in distress or feeling threatened. So, if you hear your goat screaming, it's important to take notice and see if there's anything wrong.
 
 ## What are the reasons goats might scream?
 

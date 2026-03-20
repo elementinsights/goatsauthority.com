@@ -48,7 +48,7 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can the federal government use goats to clear federal lands?
 
-On top of that, goats are very efficient at [clearing large areas of land](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/) in a short period of time. So, if the federal government needs to clear a large area of overgrown vegetation quickly, using goats is a great option.
+Plus, goats are very efficient at [clearing large areas of land](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/) in a short period of time. So, if the federal government needs to clear a large area of overgrown vegetation quickly, using goats is a great option.
 
 ## What are federal lands and why are they being cleared using goats instead of methods?
 
@@ -114,7 +114,7 @@ In recent years, the U.S. government has been considering using goats for federa
 
 The proposal is that these animals could be used to clear overgrown areas and reduce the risk of wildfires.
 
-Despite that, there are some potential drawbacks to this plan. First, goats are not native to the United States, so there is a risk that they could escape and establish themselves as an invasive species.
+With that in mind, there are some potential drawbacks to this plan. First, goats are not native to the United States, so there is a risk that they could escape and establish themselves as an invasive species.
 
 Second, goats are known to be very destructive grazers, and they could potentially do more harm than good if left unchecked.
 
@@ -136,7 +136,7 @@ Generally speaking, it costs about $200 per acre to graze by a herd of goats. Gi
 
 Who pays for this? Ultimately, taxpayers foot the bill.
 
-Despite that, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
+That said, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
 
 ## Final Thoughts
 

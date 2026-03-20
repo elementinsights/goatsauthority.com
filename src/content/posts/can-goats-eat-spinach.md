@@ -55,13 +55,13 @@ So, it's important to feed them this vegetable in moderation.
 
 Goats are generally considered to be very [versatile eaters](/why-do-goats-eat-everything/), able to digest a wide variety of different plants and even some types of garbage.
 
-Despite that, there are still some limitations to what goats can eat safely, and pregnant goats have even stricter dietary requirements. So, can a pregnant goat eat spinach?
+With that in mind, there are still some limitations to what goats can eat safely, and pregnant goats have even stricter dietary requirements. So, can a pregnant goat eat spinach?
 
 For the most part, the answer is yes. Spinach is not toxic to goats and pregnancy will not make it any more difficult for them to digest.
 
 In fact, spinach is actually a fairly nutritious option for pregnant goats, providing them with [vitamins A and C](/can-goats-eat-carrots/), as well as folic acid and iron.
 
-Despite that, there are a few things to keep in mind when feeding spinach to pregnant goats. First of all, spinach should only be fed in moderation.
+At the same time, there are a few things to keep in mind when feeding spinach to pregnant goats. First of all, spinach should only be fed in moderation.
 
 Too much spinach can therefore lead to deficiencies in these important nutrients. And also, spinach leaves are quite high in fiber, which can cause digestive problems if goats consume too much.
 

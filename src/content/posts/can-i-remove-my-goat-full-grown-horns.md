@@ -53,7 +53,7 @@ If you decide to remove your goat's horns, be sure to do so in a safe and humane
 
 With that said, removing a goat's horns is generally a safe and straightforward process.
 
-If you have any questions or concerns, be sure to speak with a [goat expert](/can-i-have-goats-where-i-live/) or another professional before taking any action. They will be able to provide you with more information and guidance on this matter.
+If you have any questions or concerns, be sure to speak with a [veterinarian](/can-i-have-goats-where-i-live/) or another professional before taking any action. They will be able to provide you with more information and guidance on this matter.
 
 ## What do goats use their horns for?
 

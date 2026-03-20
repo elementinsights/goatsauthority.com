@@ -81,7 +81,7 @@ Finally, make sure to provide your goats with plenty of [hay](/what-kind-of-hay-
 
 ## What are the treatments for goats that have eaten laurel leaves?
 
-If a goat has eaten laurel leaves, the first step is to remove the plant material from their mouth and prevent them from consuming any more. If the goat is showing signs of illness, such as lethargy or vomiting, then it should be seen by a goat expert immediately.
+If a goat has eaten laurel leaves, the first step is to remove the plant material from their mouth and prevent them from consuming any more. If the goat is showing signs of illness, such as lethargy or vomiting, then it should be seen by a veterinarian immediately.
 
 there's no specific treatment for laurel poisoning in goats, so supportive care will be the main focus. This may include oral rehydration therapy to prevent dehydration, as well as a symptomatic treatment for vomiting and diarrhea.
 

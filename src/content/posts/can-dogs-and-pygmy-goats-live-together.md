@@ -44,7 +44,7 @@ This article will provide all the information you need to know about whether dog
 
 ## Can dogs and pygmy goats live together?
 
-Despite that, there are still some things to consider before getting both a dog and a [pygmy goat](/can-pygmy-goats-sleep-with-chickens/). One is that goats are browsers, meaning they like to nibble on leaves, twigs, and other plants.
+Keep in mind, there are still some things to consider before getting both a dog and a [pygmy goat](/can-pygmy-goats-sleep-with-chickens/). One is that goats are browsers, meaning they like to nibble on leaves, twigs, and other plants.
 
 This can pose a problem if you have a dog that likes to chase after small animals or if your goat is constantly escaping its enclosure to eat your flowers.
 

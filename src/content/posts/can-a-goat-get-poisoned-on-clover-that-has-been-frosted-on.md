@@ -84,7 +84,7 @@ Clover is a common ingredient in goat feed, but it can also be poisonous. There 
 
 Symptoms of clover poisoning include vomiting, [diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), lethargy, and difficulty breathing. Treatment typically involves the administration of [activated charcoal](/can-benadryl-hurt-a-goat/) to bind the toxins in the gut, as well as supportive care to manage [dehydration](/can-i-give-a-sick-goat-water-through-a-syringe/) and other symptoms.
 
-With prompt treatment, most goats recover from clover poisoning without any lasting effects. Despite that, you must also be aware of the signs of poisoning so that you can seek treatment as soon as possible.
+With prompt treatment, most goats recover from clover poisoning without any lasting effects. That said, you must also be aware of the signs of poisoning so that you can seek treatment as soon as possible.
 
 Goats are curious creatures, and they will often nibble on plants that they shouldn't. For this reason, it's important to be familiar with the plants that are poisonous to goats so that you can keep them away from your animals.
 

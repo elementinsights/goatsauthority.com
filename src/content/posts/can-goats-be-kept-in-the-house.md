@@ -59,7 +59,7 @@ Goats are often thought of as farm animals, but they can also make great house p
 
 They are also relatively low-maintenance animals, requiring only a few hours of attention per day. Goats are also very curious and playful, which can make them entertaining companions.
 
-On top of that, goats can be trained to do tricks and can even be harnessed to pull small carts or wagons. Perhaps most importantly, goats can provide emotional support and companionship to their owners.
+Beyond that, goats can be trained to do tricks and can even be harnessed to pull small carts or wagons. Perhaps most importantly, goats can provide emotional support and companionship to their owners.
 
 Goat owners often report feeling less stressed and more connected to nature after spending time with their goats. For all these reasons, [keeping a goat as a house pet](/can-a-goat-live-in-a-house/) can be a rewarding experience.
 

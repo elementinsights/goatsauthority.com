@@ -56,7 +56,7 @@ Finally, you will need to prune the pine trees regularly to keep them from getti
 
 Depending on the size of your [goat pen](/can-a-goat-barn-be-12x-2/), you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
 
-Despite that, if you have a larger pen, then you will need to plant more trees. The number of pine trees that you will need to plant will also depend on the climate.
+Still, if you have a larger pen, then you will need to plant more trees. The number of pine trees that you will need to plant will also depend on the climate.
 
 If you live in an area with a lot of snow, then you will need to plant more trees. Pine trees are an important part of a goat's diet, and they provide the goats with shelter from the elements.
 
@@ -68,7 +68,7 @@ Planting the right number of pine trees in your goat pen is essential for the he
 
 Pine trees provide goats with a source of entertainment and enrichment, which can help to keep them healthy and happy.
 
-On top of that, the needles of pine trees can help to prevent parasitic infections in goats. The needles contain a natural compound that repels parasites, and they can also help to improve the overall health of the goat's gastrointestinal tract.
+Another thing to note is the needles of pine trees can help to prevent parasitic infections in goats. The needles contain a natural compound that repels parasites, and they can also help to improve the overall health of the goat's gastrointestinal tract.
 
 As a result, pine trees can be an important part of maintaining a healthy goat herd.
 
@@ -102,7 +102,7 @@ Bundling helps to protect the seedlings from being trampled, and it also makes i
 
 Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and [shelter for goats](/can-goats-be-kept-in-the-house/).
 
-Despite that, pine trees do require some maintenance in order to stay healthy and look their best.
+Then again, pine trees do require some maintenance in order to stay healthy and look their best.
 
 Here are a few tips for caring for pine trees in a goat pen:
 

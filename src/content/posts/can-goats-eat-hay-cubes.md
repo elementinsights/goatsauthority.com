@@ -46,7 +46,7 @@ faq:
 
 We all know that goats are browsers, and their natural diet consists mostly of browse ([leaves](/can-goats-eat-maple-leaves/), twigs, and stems of woody shrubs and bushes).
 
-Despite that, in many agricultural and farming situations, goats are often confined to small spaces where they don't have access to browse. For these goats, hay is the next best thing.
+Even so, in many agricultural and farming situations, goats are often confined to small spaces where they don't have access to browse. For these goats, hay is the next best thing.
 
 But what about hay cubes? Can goats eat hay cubes?
 
@@ -106,7 +106,7 @@ But, there are some risks associated with feeding hay cubes to goats.
 
 One of the biggest dangers is that the goats could choke on the cubes. Another risk is that the cubes could expand in the [goat's stomach](/how-many-stomachs-do-goats-have/), causing digestive problems.
 
-Finally, hay cubes can sometimes be contaminated with mold or other toxins that could make the goats sick. For these reasons, you need to be careful when feeding hay cubes to goats, and consult with a goat expert if there are any concerns.
+Finally, hay cubes can sometimes be contaminated with mold or other toxins that could make the goats sick. For these reasons, you need to be careful when feeding hay cubes to goats, and consult with a veterinarian if there are any concerns.
 
 ## How to prevent risks when feeding hay cubes to goats?
 
@@ -116,7 +116,7 @@ First, you need to choose a high-quality hay cube that is free from toxins and c
 
 Second, the cubes should be stored in a dry, cool place to prevent them from molding. Third, the cubes should be fed in moderation, as too much can cause digestive problems.
 
-Finally, farmers should consult with a goat expert before feeding hay cubes to their goats, to ensure that the goats are able to digest them properly.
+Finally, farmers should consult with a veterinarian before feeding hay cubes to their goats, to ensure that the goats are able to digest them properly.
 
 By taking these precautions, farmers can help to prevent the risks associated with feeding hay cubes to their goats.
 
@@ -126,7 +126,7 @@ Hay cubes are a highly concentrated form of hay, and as such, they should be fed
 
 When hay cubes are introduced into the diet, it can cause digestive upset and even [bloat](/can-alfalfa-pellets-cause-goats-to-bloat/). For this reason, it's crucial to slowly introduce hay cubes into the diet, starting with just a few pieces per day.
 
-Additionally, hay cubes should always be fed alongside fresh [hay](/can-goats-eat-alfalfa/) or pasture, as this will help to ensure that the goat is getting enough roughage in its diet. When feeding hay cubes to goats, always err on the side of caution and consult with a goat expert if there are any concerns.
+Additionally, hay cubes should always be fed alongside fresh [hay](/can-goats-eat-alfalfa/) or pasture, as this will help to ensure that the goat is getting enough roughage in its diet. When feeding hay cubes to goats, always err on the side of caution and consult with a veterinarian if there are any concerns.
 
 ## How much should I feed my goat?
 
@@ -144,6 +144,6 @@ By following these simple guidelines, you can keep your goats healthy and happy.
 
 Goats can eat hay cubes, and there are many benefits to feeding them this type of feed. However, there are also some risks associated with feeding hay cubes to goats.
 
-For this reason, it's important to be careful when feeding hay cubes to goats and to consult with a goat expert if there are any concerns.
+For this reason, it's important to be careful when feeding hay cubes to goats and to consult with a veterinarian if there are any concerns.
 
 Additionally, hay cubes should always be fed alongside fresh hay or pasture, as this will help to ensure that the goat is getting enough roughage in its diet. By following these simple guidelines, you can keep your goats healthy and happy.

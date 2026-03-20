@@ -60,13 +60,13 @@ If you suspect your goat has eaten a plastic bag, the first thing you should do 
 
 You should also look for signs of digestive distress, such as bloating, vomiting, or diarrhea. If your goat is exhibiting any of these symptoms, it's crucial to [seek animal expert care](/can-goats-die-from-lymes/) immediately.
 
-Plastic can cause serious [gastrointestinal blockages](/can-you-debloat-a-goat/), and it may be necessary to surgically remove the plastic from your [goat's digestive tract](/can-goats-digest-cigarettes/). With prompt treatment, most [goats recover fully](/can-goats-recover-from-polio-without-medication/) from ingesting plastic.
+Plastic can cause serious [gastrointestinal blockages](/can-you-debloat-a-goat/), and it may be necessary to surgically remove the plastic from your goat's digestive tract. With prompt treatment, most [goats recover fully](/can-goats-recover-from-polio-without-medication/) from ingesting plastic.
 
 ## Do plastic bags stay in a goat's stomach?
 
 Once a goat has eaten a plastic bag, it can be difficult for them to expel it from their system. This can lead to digestive blockages and other health issues.
 
-In some cases, the [goat may be able to pass](/can-a-goat-pass-afterbirth-between-kids/) small pieces of the bag without any problems. Despite that, you need to monitor the goat for any signs of distress and contact a goat expert if any problems arise.
+In some cases, the [goat may be able to pass](/can-a-goat-pass-afterbirth-between-kids/) small pieces of the bag without any problems. Even so, you need to monitor the goat for any signs of distress and contact a veterinarian if any problems arise.
 
 ## Can a plastic bag kill a goat?
 
@@ -74,7 +74,7 @@ While the risks of a plastic bag to a goat are serious, they can be easily avoid
 
 If a goat has eaten a plastic bag, the first step is to remove any remaining pieces of the bag from the mouth. Once the bag has been removed, the [goat should be given a small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of water to drink.
 
-If the goat is displaying any signs of distress, such as difficulty breathing or excessive drooling, it should be seen by a goat expert as soon as possible. In some cases, goats may need to undergo surgery to remove the ingested plastic.
+If the goat is displaying any signs of distress, such as difficulty breathing or excessive drooling, it should be seen by a veterinarian as soon as possible. In some cases, goats may need to undergo surgery to remove the ingested plastic.
 
 With proper care, most goats will recover from eating a plastic bag without any long-term effects. But, it's crucial to take steps to prevent the goat from accessing plastic bags in the future.
 
@@ -82,7 +82,7 @@ With proper care, most goats will recover from eating a plastic bag without any 
 
 If a goat has eaten a plastic bag, there are a few symptoms that you may notice. These include excessive drooling, difficulty breathing, and vomiting.
 
-If you notice any of these symptoms, it's important to remove any remaining pieces of the bag from the [goat's mouth and give it a small amount of water to drink](/can-horses-drink-water-that-has-goat-poop-in-it/). The goat should then be seen by a goat expert as soon as possible.
+If you notice any of these symptoms, it's important to remove any remaining pieces of the bag from the [goat's mouth and give it a small amount of water to drink](/can-horses-drink-water-that-has-goat-poop-in-it/). The goat should then be seen by a veterinarian as soon as possible.
 
 In some cases, goats may need to undergo surgery to remove the ingested plastic. With proper care, most goats will recover from eating a plastic bag without any long-term effects.
 
@@ -108,9 +108,9 @@ If a goat has eaten a plastic bag, the first step is to remove any remaining pie
 
 Once the bag has been removed, the goat should be given a small amount of water to drink. If the goat is displaying any signs of distress, such as difficulty breathing or excessive drooling, it should be seen by a livestock expert as soon as possible.
 
-If the goat expert determined that the goat has ingested a large amount of plastic, they may recommend surgical removal of the material. In some cases, goats may be able to pass small pieces of plastic without any problems.
+If the veterinarian determined that the goat has ingested a large amount of plastic, they may recommend surgical removal of the material. In some cases, goats may be able to pass small pieces of plastic without any problems.
 
-However, it's crucial to monitor the goat for any signs of digestive distress and contact a goat expert if any problems arise.
+However, it's crucial to monitor the goat for any signs of digestive distress and contact a veterinarian if any problems arise.
 
 ## How to prevent a goat from eating a plastic bag?
 
@@ -130,7 +130,7 @@ By following these steps, you can help to ensure that your goat stays safe and h
 
 there's no particular breed of goat that is more likely to eat a plastic bag. All goats are curious creatures, and they will often investigate anything that smells interesting.
 
-However, some goat experts believe that younger goats may be more likely to ingest plastic bags than older goats. This is because they are still exploring their environment and have not learned what is safe to eat.
+However, some veterinarians believe that younger goats may be more likely to ingest plastic bags than older goats. This is because they are still exploring their environment and have not learned what is safe to eat.
 
 For this reason, it's important to take precautions to prevent all goats from accessing plastic bags.
 

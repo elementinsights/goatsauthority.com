@@ -120,7 +120,7 @@ Overall, raisins offer many benefits for goats and make a healthy addition to th
 
 ## Risks associated with feeding raisins to goats
 
-Many goat owners enjoy feeding their goats raisins as a treat. Despite that, there are some risks associated with this practice.
+Many goat owners enjoy feeding their goats raisins as a treat. Be aware, there are some risks associated with this practice.
 
 The most serious potential danger is raisin toxicity, which can cause [kidney damage](/can-goats-eat-avocado/) and even death in goats.
 
@@ -130,13 +130,13 @@ If you suspect your goat has eaten raisins, it's important to contact an animal 
 
 In addition to raisin toxicity, feeding goats raisins can also lead to obesity and tooth decay. Therefore, you must feed raisins to goats in moderation and to provide plenty of fresh water for them to drink.
 
-On top of that, raisins can cause gas and bloat in goats. Start with a small amount and increase gradually as needed to avoid these problems.
+Another thing to note is raisins can cause gas and bloat in goats. Start with a small amount and increase gradually as needed to avoid these problems.
 
 ## How many raisins can goats eat without causing health problems?
 
 Raisins are a fairly healthy treat for goats. Goats can eat up to 1/4 cup of raisins per day without causing health problems.
 
-Despite that, if a goat eats more than that, it may start to experience gastrointestinal issues like bloating and diarrhea. Too many raisins can also lead to malnutrition, so it's important to make sure that your goat has a well-balanced diet.
+Of course, if a goat eats more than that, it may start to experience gastrointestinal issues like bloating and diarrhea. Too many raisins can also lead to malnutrition, so it's important to make sure that your goat has a well-balanced diet.
 
 In general, raisins should only be given as an [occasional treat](/can-goats-eat-oranges/), not as a regular part of your goat's diet.
 
@@ -144,7 +144,7 @@ In general, raisins should only be given as an [occasional treat](/can-goats-eat
 
 Goats can eat raisins, but there are risks associated with this practice. Raisins are high in sugar and can make a goat's illness worse.
 
-On top of that, raisins can be a choking hazard for sick goats. For these reasons, it's best to avoid giving raisins to sick goats.
+Similarly, raisins can be a choking hazard for sick goats. For these reasons, it's best to avoid giving raisins to sick goats.
 
 There are also risks associated with feeding raisins to healthy goats. Raisins can cause gastrointestinal issues like bloating and diarrhea.
 

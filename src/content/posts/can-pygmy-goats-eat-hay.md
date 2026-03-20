@@ -98,7 +98,7 @@ If you are feeding hay to pygmy goats more than twice a day, it is crucial to pr
 
 The best way to prevent common health problems in pygmy goats is to ensure they have a balanced diet that includes hay, fresh water, and a source of salt.
 
-It is crucial to [give your pygmy goats](/can-i-give-goat-trazodone/) plenty of space to walk around and play. You should also frequently look for signs that they might be sick, like sudden weight loss, being sluggish, or having diarrhea.
+It is crucial to give your pygmy goats plenty of space to walk around and play. You should also frequently look for signs that they might be sick, like sudden weight loss, being sluggish, or having diarrhea.
 
 If you see any of these red flags, take them to the vet right away. Following these easy suggestions will help keep your pygmy goats in good health and spirits.
 

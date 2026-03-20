@@ -108,7 +108,7 @@ There are a few benefits of taking your goat for a walk in Skippack PA.
 
 First, it is a great way to bond with your goat. Walking side by side with your goat can help you build a strong connection with them.
 
-Second, it is a great [form of exercise for both you and your goat](/can-a-goat-form-an-udder-without-being-pregnant/). Getting some fresh air and moving your body is good for your health, and it can also help your goat stay healthy.
+Second, it is a great form of exercise for both you and your goat. Getting some fresh air and moving your body is good for your health, and it can also help your goat stay healthy.
 
 Third, it can help socialize your goat. If you take your goat to different places, they will have the opportunity to meet new people and animals.
 

@@ -80,7 +80,7 @@ As a result, there is a risk of [aggression](/can-wether-goats-be-as-mean-as-bil
 
 Secondly, rams and [goat bucks have different nutritional needs that may not be met when they share the same feed source](/can-a-goat-feed-quads/).
 
-In particular, ram cuds tend to require higher levels of copper, which is toxic for most types of goats. On top of that, keeping these two animals together may increase their exposure to parasites like ticks and lice.
+In particular, ram cuds tend to require higher levels of copper, which is toxic for most types of goats. Additionally, keeping these two animals together may increase their exposure to parasites like ticks and lice.
 
 Ultimately, the best solution is to keep them separate and provide individualized housing and feeding regimes for each species. This will help minimize the [risks associated with keeping rams and goat bucks](/can-a-cdt-shot-kill-a-goat/) together.
 

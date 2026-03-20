@@ -68,7 +68,7 @@ Whether used on their own as an ornamental feature or alongside other plants as 
 
 There is no clear consensus on whether it is safe to feed pregnant goats pine needles. Some argue that the needles contain substances like resveratrol and quercetin, which may help protect the health of both mother and baby during pregnancy.
 
-Despite that, others argue that too much exposure to the toxic components of pine needles poses a significant risk for both mother and child. Ultimately, the best course of action is to [consult a trusted medical professional or a goat expert before feeding pregnant goats](/can-pregnant-goats-eat-medicated-feed/) pine needles.
+Then again, others argue that too much exposure to the toxic components of pine needles poses a significant risk for both mother and child. Ultimately, the best course of action is to [consult a trusted medical professional or a goat expert before feeding pregnant goats](/can-pregnant-goats-eat-medicated-feed/) pine needles.
 
 They will be able to [weigh the risks and benefits associated with this feeding method](/can-goats-eat-chicken-feed/) and provide guidance based on your individual situation.
 
@@ -80,7 +80,7 @@ However, if you do choose to give your pregnant goats pine needles, it is impera
 
 There are a number of [benefits to feeding pine needles to pregnant goats](/can-a-pregnant-goat-have-penicillin/). For one thing, pine needles are rich in nutrients that are essential for healthy goat pregnancies, including calcium, phosphorus, and vitamin C.
 
-On top of that, pine needles can help improve the overall [health of both the mother and baby goats](/can-baby-goats-have-any-electrolytes/). They contain a range of antioxidants and other immune-boosting compounds that help to protect against disease and illness.
+Beyond that, pine needles can help improve the overall [health of both the mother and baby goats](/can-baby-goats-have-any-electrolytes/). They contain a range of antioxidants and other immune-boosting compounds that help to protect against disease and illness.
 
 Furthermore, due to their low levels of toxic compounds such as cyanide, [pine needles are considered safe for pregnant goats to eat](/can-goats-eat-pine-needles/). All in all, there are many good reasons to add pine needles to a pregnancy diet for goats.
 
@@ -90,7 +90,7 @@ When keeping a pregnant goat, you need to pay close attention to her nutritional
 
 The number of pine needles that a goat should be fed will depend on various factors, including the size and age of the goat, as well as the stage of pregnancy. Generally speaking, most experts recommend [feeding a goat](/can-baking-soda-cause-urinary-issues-in-goats/) between pounds of pine needles per day during late pregnancy.
 
-Despite that, this amount may need to be adjusted depending on the individual animal's needs. Ultimately, whether you decide to [feed your pregnant goat more or fewer pine needles](/can-you-drink-goat-milk-while-pregnant/) will come down to careful monitoring and regular assessments from a qualified goat expert.
+With that in mind, this amount may need to be adjusted depending on the individual animal's needs. Ultimately, whether you decide to [feed your pregnant goat more or fewer pine needles](/can-you-drink-goat-milk-while-pregnant/) will come down to careful monitoring and regular assessments from a qualified veterinarian.
 
 ## Are there any side effects of feeding pregnant goats pine needles?
 
@@ -110,9 +110,9 @@ By taking these precautions, you can help to ensure that your pregnant goats sta
 
 If a pregnant goat has eaten pine needles, it is important to seek professional medical help immediately. Pine needles can be toxic to goats, and ingesting too many of them can lead to serious health problems.
 
-A qualified goat expert will be able to assess the situation and provide the necessary treatment. In some cases, this may involve giving the goat fluids and other medications to help flush the toxins out of its system.
+A qualified veterinarian will be able to assess the situation and provide the necessary treatment. In some cases, this may involve giving the goat fluids and other medications to help flush the toxins out of its system.
 
-In severe cases, a goat expert may need to perform surgery to remove the pine needles from the goat's stomach. Despite that, with prompt medical care, [most goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+In severe cases, a veterinarian may need to perform surgery to remove the pine needles from the goat's stomach. Even so, with prompt medical care, [most goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
 ## Final Thoughts
 

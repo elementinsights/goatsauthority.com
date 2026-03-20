@@ -57,7 +57,7 @@ If your goat swallows a large number of pine needles, it could potentially choke
 
 Pregnant goats can eat pine needles. Pine needles are a good source of nutrients like vitamin C, selenium, and manganese.
 
-Despite that, you should still exercise caution when feeding pine needles to pregnant goats.
+With that in mind, you should still exercise caution when feeding pine needles to pregnant goats.
 
 [Pregnant goats](/can-i-feed-my-goat-pine-needles-when-it-is-pregnant/) have a higher risk of developing digestive problems. If your goat eats too many pine needles, it could potentially block the digestive system.
 
@@ -73,7 +73,7 @@ Baby goats are incredibly curious and love to explore their surroundings, which 
 
 The good news is that pine needles are not poisonous to goats. In fact, they can actually be beneficial, as they are a good source of [vitamins A and C](/can-goats-eat-oranges/).
 
-Despite that, pine needles should not make up the majority of your goat's diet.
+Even so, pine needles should not make up the majority of your goat's diet.
 
 They should only be fed in moderation, as too many can cause digestive problems. So, if you find your baby goat munching on pine needles, there's no need to panic.
 
@@ -93,7 +93,7 @@ Additionally, pine needles can help to control pests and diseases in plants. By 
 
 There are many benefits to goats eating pine needles. Goats that eat pine needles are likely to be healthier than those that do not.
 
-On top of that, pine needles are good for the environment.
+What's more, pine needles are good for the environment.
 
 They help to reduce the amount of landfill waste and improve the quality of the soil. Pine needles also play an important role in controlling pests and diseases in plants.
 

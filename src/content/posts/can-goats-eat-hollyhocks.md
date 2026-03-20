@@ -49,7 +49,7 @@ In this article, we will answer these questions and more. We'll also give you so
 
 ## Can goats eat hollyhocks?
 
-Despite that, it's important to note that hollyhocks are not a necessary part of a goat's diet. [Goats can live without eating](/can-goats-eat-grapes/) hollyhocks.
+Keep in mind, it's important to note that hollyhocks are not a necessary part of a goat's diet. [Goats can live without eating](/can-goats-eat-grapes/) hollyhocks.
 
 In fact, [feeding goats hollyhocks is more for your benefit](/can-goats-eat-chicken-feed/) than theirs.
 
@@ -77,7 +77,7 @@ Since they are herbivores, goats primarily eat grasses and other types of plants
 
 Goats will, however, also consume other foods, including fruits, vegetables, and even flowers. Due to their high vitamin and fiber content, hollyhocks are a particularly beneficial food source for goats.
 
-[Goats need both of these things](/can-a-dog-get-sick-from-a-goat/) in their diet in order to stay healthy. On top of that, hollyhocks can help goats to keep their digestive system clean and free from parasites.
+[Goats need both of these things](/can-a-dog-get-sick-from-a-goat/) in their diet in order to stay healthy. What's more, hollyhocks can help goats to keep their digestive system clean and free from parasites.
 
 For all these reasons, it's beneficial to [feed hollyhocks to goats](/can-baking-soda-cause-urinary-issues-in-goats/).
 
@@ -87,7 +87,7 @@ Hollyhocks are a type of flowering plant that is commonly found in gardens. Whil
 
 The leaves and flowers of the hollyhock contain high levels of oxalates, which can bind with calcium and other minerals in the [goat's digestive system](/can-goats-digest-anything/) and cause deficiencies.
 
-On top of that, hollyhocks contain small, hard seeds that can damage a [goat's intestines](/can-i-eat-goat-intestine-during-pregnancy/) if they are swallowed.
+Beyond that, hollyhocks contain small, hard seeds that can damage a [goat's intestines](/can-i-eat-goat-intestine-during-pregnancy/) if they are swallowed.
 
 For these reasons, it's best to avoid feeding hollyhocks to goats. If you have hollyhocks in your garden, make sure to keep them out of reach of your [goats so that they cannot eat them](/can-goats-eat-watermelon/).
 
@@ -119,7 +119,7 @@ Hollyhocks are a type of flowering plant that can reach up to six feet in height
 
 Hollyhocks are relatively easy to grow, and they make an excellent addition to any garden.
 
-Despite that, before you can feed them to your goats, you will need to take some steps to prepare the plants.
+Still, before you can feed them to your goats, you will need to take some steps to prepare the plants.
 
 First, it's crucial to ensure that the hollyhocks are free of pesticides and other chemicals. If you are not sure whether or not the plants have been treated with chemicals, it's best to err on the side of caution and choose another feed source.
 

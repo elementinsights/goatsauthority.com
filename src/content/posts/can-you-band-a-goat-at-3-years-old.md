@@ -52,7 +52,7 @@ In this article, we will answer those questions and more. So, if you want to lea
 
 It is also important to know that banding a goat at 3 years old is considered [illegal in most states](/can-i-own-a-goat-in-wyoming/). Thus, before you make the decision to go ahead with this action, be sure to check and see what the laws are in your state.
 
-Despite that, some people still choose to band their goats at 3 years old. If you do decide to take this route, please be aware of the risks and make sure to consult with a veterinarian beforehand.
+At the same time, some people still choose to band their goats at 3 years old. If you do decide to take this route, please be aware of the risks and make sure to consult with a veterinarian beforehand.
 
 ## What is the right time to band a goat?
 
@@ -122,7 +122,7 @@ Treatment will likely involve antibiotics. Lastly, if the band cuts off circulat
 
 Banding a goat is a risky procedure. The most common complication is that the band can slip off, which can cause the goat's hooves to overgrow and get caught on things.
 
-On top of that, if the band is not applied correctly, it can cut off the circulation to the goat's leg and cause the leg to eventually fall off.
+It's also worth noting that if the band is not applied correctly, it can cut off the circulation to the goat's leg and cause the leg to eventually fall off.
 
 Another risk of banding a goat is that the goat may struggle during the procedure and injure itself. Finally, there is always the risk of infection whenever the skin is broken.
 

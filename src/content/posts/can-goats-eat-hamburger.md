@@ -97,11 +97,11 @@ If given the opportunity, goats will happily chow down on meat - although it's n
 
 ## What is the best way to feed goats hamburgers?
 
-Contrary to popular belief, goats are not picky eaters and will willingly consume a wide variety of food. Despite that, their diet should be carefully balanced to ensure that they receive all the nutrients they need to stay healthy.
+Contrary to popular belief, goats are not picky eaters and will willingly consume a wide variety of food. Still, their diet should be carefully balanced to ensure that they receive all the nutrients they need to stay healthy.
 
 While [goats can digest most types of meat](/can-goats-digest-cotton/), hamburgers are not the best option. The high-fat content can cause digestive problems, and the lack of chewing can lead to choking.
 
-On top of that, hamburgers are often seasoned with salt and spices which can be harmful to goats. If you do choose to feed your goat hamburgers, be sure to do so in moderation and offer plenty of fresh hay and water as well.
+Beyond that, hamburgers are often seasoned with salt and spices which can be harmful to goats. If you do choose to feed your goat hamburgers, be sure to do so in moderation and offer plenty of fresh hay and water as well.
 
 ## What are hamburgers?
 
@@ -131,7 +131,7 @@ While all goats are herbivores, there's some evidence to suggest that certain br
 
 So, if you have a goat that is particularly adventurous, they may be more likely to enjoy a hamburger than a goat that is a timider.
 
-Despite that, it's ultimately up to the individual goat to [decide whether or not they want to eat meat](/do-goats-eat-meat/). Some goats will happily chomp down on a hamburger, while others will turn their noses up at it.
+At the same time, it's ultimately up to the individual goat to [decide whether or not they want to eat meat](/do-goats-eat-meat/). Some goats will happily chomp down on a hamburger, while others will turn their noses up at it.
 
 ## Final Thoughts
 

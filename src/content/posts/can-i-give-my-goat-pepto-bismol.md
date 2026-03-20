@@ -88,7 +88,7 @@ Ultimately, when in doubt, it is best to consult a goat expert to determine the 
 
 There are several potential side effects that can occur as a result of giving too much Pepto Bismol to a goat. These can include gastrointestinal distress, changes in heart rate and blood pressure, and an increased risk of [dehydration](/can-goats-have-horse-electrolytes/).
 
-On top of that, the excessive drug levels found in the blood and urine of goats who have been given high doses of Pepto Bismol may have toxic effects on other organs like the liver and kidneys.
+Also, the excessive drug levels found in the blood and urine of goats who have been given high doses of Pepto Bismol may have toxic effects on other organs like the liver and kidneys.
 
 Ultimately, it is important to be vigilant when administering Pepto Bismol to any animal, as even small overdoses can cause serious harm. If you notice any signs of distress or discomfort in your goat after giving them Pepto Bismol, it is important to seek goat expert care right away.
 
@@ -96,19 +96,19 @@ Ultimately, it is important to be vigilant when administering Pepto Bismol to an
 
 There are a few key things to keep in mind when administering Pepto Bismol to a goat. First, it is crucial to determine whether the [goat really needs treatment for ingested toxins or stomach upset](/how-many-stomachs-do-goats-have/).
 
-If there is any doubt about a potential medical issue, it is best to consult with a goat expert Once you have determined that your goat does indeed need some assistance, the next step is to consider the proper dosage and delivery method for Pepto Bismol.
+If there is any doubt about a potential medical issue, it is best to consult with a veterinarian Once you have determined that your goat does indeed need some assistance, the next step is to consider the proper dosage and delivery method for Pepto Bismol.
 
 Generally, goats require smaller doses of medication than other animals, and they should be given either orally via syringe or directly into their mouth via an oversized nipple syringe.
 
 Overall, it is essential to be cautious and attentive when administering Pepto Bismol to your goat, as minor mistakes can easily have serious consequences.
 
-With this in mind, the best approach is always to follow the instructions provided by the goat expert or on the product packaging.
+With this in mind, the best approach is always to follow the instructions provided by the veterinarian or on the product packaging.
 
 ## Are there any alternative options to Pepto Bismol for goats?
 
 There are a number of alternative options to Pepto Bismol that can be used for goats. These include other over-the-counter medications, such as antacids and anti-diarrhea, as well as prescription medications.
 
-On top of that, there are several home remedies that can be used to treat goats with [stomach upset](/can-baking-soda-cause-urinary-issues-in-goats/) or indigestion. Some of the most popular options include offering small amounts of plain yogurt, ginger, or molasses.
+Plus, there are several home remedies that can be used to treat goats with [stomach upset](/can-baking-soda-cause-urinary-issues-in-goats/) or indigestion. Some of the most popular options include offering small amounts of plain yogurt, ginger, or molasses.
 
 Ultimately, the best approach is to consult with a goat expert to determine the best course of treatment for your individual goat. With proper care and treatment, most goats can make a full recovery from gastrointestinal issues.
 
@@ -116,9 +116,9 @@ Ultimately, the best approach is to consult with a goat expert to determine the 
 
 The best time to deworm a goat is typically in the early spring and fall. This is because the weather is cooler and dryer during these times of the year, which creates less favorable conditions for parasites.
 
-On top of that, goats are typically less likely to contract [parasites](/can-goats-get-worms-from-acorns/) when they are grazing on fresh, green pasture.
+Similarly, goats are typically less likely to contract [parasites](/can-goats-get-worms-from-acorns/) when they are grazing on fresh, green pasture.
 
-Ultimately, it is crucial to consult with a goat expert to determine the best deworming schedule for your individual goat. With proper care and treatment, most goats can stay healthy and free of parasites.
+Ultimately, it is crucial to consult with a veterinarian to determine the best deworming schedule for your individual goat. With proper care and treatment, most goats can stay healthy and free of parasites.
 
 ## Final Thoughts
 
@@ -126,4 +126,4 @@ You can give your goats Pepto Bismol if they are experiencing indigestion or oth
 
 In addition, there are a number of alternative options to Pepto Bismol that can be used for goats. These include other over-the-counter medications, as well as prescription medications.
 
-Ultimately, the best approach is to consult with a goat expert to determine the best course of treatment for your individual goat. With proper care and treatment, most goats can make a full recovery from gastrointestinal issues.
+Ultimately, the best approach is to consult with a veterinarian to determine the best course of treatment for your individual goat. With proper care and treatment, most goats can make a full recovery from gastrointestinal issues.

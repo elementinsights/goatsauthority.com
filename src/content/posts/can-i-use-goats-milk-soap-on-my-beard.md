@@ -45,7 +45,7 @@ In this article, we will answer those questions and more. We'll tell you everyth
 
 ## Can I use goats milk soap on my beard?
 
-On top of that, goat milk soap contains lactic acid, which can help to break down [dead skin cells](/can-we-apply-goat-milk-for-underarm-whitening/) and promote new cell growth. This can help to keep your beard looking healthy and prevent itchiness.
+Similarly, goat milk soap contains lactic acid, which can help to break down [dead skin cells](/can-we-apply-goat-milk-for-underarm-whitening/) and promote new cell growth. This can help to keep your beard looking healthy and prevent itchiness.
 
 However, there are a few things you need to consider before using goat milk soap on your beard. First, make sure to choose a soap that is unscented and free of added fragrances, as these can irritate the skin.
 

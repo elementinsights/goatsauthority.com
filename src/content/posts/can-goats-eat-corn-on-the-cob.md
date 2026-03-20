@@ -62,7 +62,7 @@ If you do feed corn to your pregnant goat, make sure to supervise her closely an
 
 Baby goats can consume corn on the cob. In fact, corn on the cob is a good source of energy for active and growing baby goats.
 
-Despite that, since corn on the cob is high in sugar, it should only be given to baby goats in moderation. And also, the kernels can be a choking hazard for baby goats.
+At the same time, since corn on the cob is high in sugar, it should only be given to baby goats in moderation. And also, the kernels can be a choking hazard for baby goats.
 
 If you do feed corn to your baby goat, make sure to supervise him closely and remove any kernels that he drops. All in all, corn on the cob is a tasty treat that your baby goat can enjoy in moderation.
 
@@ -126,7 +126,7 @@ Here are some answers to frequently asked questions about feeding goats corn on 
 
 ### Can all goats eat corn on the cob?
 
-All goats can consume corn on the cob. Despite that, it's important to keep in mind that corn on the cob is a high-calorie food.
+All goats can consume corn on the cob. Still, it's important to keep in mind that corn on the cob is a high-calorie food.
 
 This means that it should only be fed to goats in [moderation](/can-goats-eat-potatoes/).
 

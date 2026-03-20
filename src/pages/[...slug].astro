@@ -328,6 +328,11 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     )}
   </div>
 
+  <!-- VETERINARY DISCLAIMER -->
+  <div class="vet-disclaimer">
+    <p><strong>Disclaimer:</strong> This article is for informational purposes only and is not a substitute for professional veterinary advice. Always consult a qualified veterinarian before making any changes to your goat's diet, health care, or management routine.</p>
+  </div>
+
   <!-- SHARE BAR -->
   <ShareBar url={pageUrl} title={post.data.title} />
 
@@ -481,6 +486,19 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
   /* ============================================================
      ARTICLE CONTENT (Markdown)
      ============================================================ */
+  .vet-disclaimer {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    margin: 32px 0 24px;
+  }
+  .vet-disclaimer p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin: 0;
+  }
   .article-content {
     font-size: 17px;
     line-height: 1.75;

@@ -58,7 +58,7 @@ If you do it yourself, you need to be very careful and make sure you know what y
 
 Second, you need to decide how you are going to dehorn the goat. There are a few different methods, but the most common is called "banding." This involves using a special tool to place a tight band around the base of the horns.
 
-Third, [you need to think about the pain that the goat will experience](/can-i-give-my-goat-vicodin-for-pain/). Dehorning is a painful process, so you need to make sure that you are prepared to deal with the goat's pain and distress.
+Third, you need to think about the pain that the goat will experience. Dehorning is a painful process, so you need to make sure that you are prepared to deal with the goat's pain and distress.
 
 Fourth, you need to consider the risks involved. There is a small risk of [infection](/can-you-catch-diseases-from-goats/) and a slightly larger risk of bleeding.
 

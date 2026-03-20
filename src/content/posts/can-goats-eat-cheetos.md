@@ -71,17 +71,17 @@ But, their long necks can make it difficult for them to reach food high off the 
 
 Cheetos provide an easy way for [goats to get the nutrition](/can-i-use-regular-milk-to-feed-a-baby-goat/) they need. The cheese flavoring contains proteins and fats that help goats stay healthy, and the cornmeal provides essential carbohydrates.
 
-On top of that, the crunchy texture of Cheetos helps goats keep their teeth clean and healthy. Respectively, [goats that have access to Cheetos tend to be healthier and live longer](/can-a-goat-live-in-a-house/) than those that don't.
+Plus, the crunchy texture of Cheetos helps goats keep their teeth clean and healthy. Respectively, [goats that have access to Cheetos tend to be healthier and live longer](/can-a-goat-live-in-a-house/) than those that don't.
 
 So, while they may not be the most nutritious food available, Cheetos can still play an important role in a goat's diet.
 
 ## What risks are associated with feeding Cheetos to goats?
 
-[Goats are creatures of habit and will often eat the same foods](/can-sheep-eat-goat-food/) day in and day out. Despite that, sometimes their owners like to give them a little treat, like Cheetos.
+[Goats are creatures of habit and will often eat the same foods](/can-sheep-eat-goat-food/) day in and day out. With that in mind, sometimes their owners like to give them a little treat, like Cheetos.
 
 While goats may enjoy the cheesy snack, there are some risks associated with feeding them Cheetos.
 
-One of the biggest concerns is that the [goats could develop diarrhea](/can-old-goats-develop-rickets/) from the artificial colors and flavors in the Cheetos. On top of that, the high-fat content could also lead to digestive problems.
+One of the biggest concerns is that the [goats could develop diarrhea](/can-old-goats-develop-rickets/) from the artificial colors and flavors in the Cheetos. It's also worth noting that the high-fat content could also lead to digestive problems.
 
 Another concern is that the Cheetos could attract rodents or other pests, which could then [spread disease to the goats](/can-goats-spread-lice-to-llamas/).
 
@@ -113,7 +113,7 @@ It's crucial to remember that goats are natural foragers. In the wild, they woul
 
 Respectively, their digestive systems are well-suited for plant-based diets.
 
-Despite that, this doesn't mean that goats can't eat other things. In moderation, Cheetos can actually be a good source of protein and essential nutrients.
+Then again, this doesn't mean that goats can't eat other things. In moderation, Cheetos can actually be a good source of protein and essential nutrients.
 
 The key is to not overdo it. Just like with any other food, [too much of a good thing can be bad for goats](/can-a-dog-get-sick-from-a-goat/) (and humans too).
 
@@ -143,4 +143,4 @@ By following these simple tips, you can ensure that your goats stay healthy and 
 
 Overall, [goats can eat Cheetos in moderation](/can-goats-eat-grapes/). However, it's important to remember that [goats are natural foragers and their digestive systems](/can-goats-digest-cotton/) are designed for plant-based diets.
 
-As a result, too many Cheetos can lead to [digestive problems for your goat](/can-goats-digest-cigarettes/). If you choose to feed your goat Cheetos, do so in moderation and make sure to supplement its diet with plenty of hay and fresh vegetables.
+As a result, too many Cheetos can lead to digestive problems for your goat. If you choose to feed your goat Cheetos, do so in moderation and make sure to supplement its diet with plenty of hay and fresh vegetables.

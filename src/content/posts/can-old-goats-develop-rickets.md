@@ -68,7 +68,7 @@ By feeding [old goats](/can-i-worm-my-three-day-old-goat/) a healthy diet rich i
 
 There are a few key ways to tell if your goat has rickets. The first is to look out for symptoms of the disease, such as poor appetite, lethargy, and general weakness.
 
-You may also notice changes in your goat's skeletal structure, such as bowed legs or softened bones. If you suspect your goat has rickets, it is crucial to take it to a goat expert for a detailed diagnosis and treatment plan.
+You may also notice changes in your goat's skeletal structure, such as bowed legs or softened bones. If you suspect your goat has rickets, it is crucial to take it to a veterinarian for a detailed diagnosis and treatment plan.
 
 Not only can rickets cause much discomfort for your goat and affect its ability to carry out its normal activities, but they can also be quite dangerous if left untreated.
 
@@ -102,7 +102,7 @@ The answer to this question is somewhat complex. On the one hand, there is evide
 
 This is partly due to the fact that goats are known for their impressive natural ability to heal and regenerate tissue, and also because goat-expert science has come a long way in recent years.
 
-Despite that, at the same time, it's important to consider other factors that can influence the recovery process.
+Of course, at the same time, it's important to consider other factors that can influence the recovery process.
 
 For example, an old goat's general health and physical condition may play a role in determining whether or not he or she will regain full mobility after suffering from rickets.
 
@@ -144,10 +144,10 @@ This can help alleviate some of the discomfort associated with rickets and make 
 
 Additionally, some goat owners have found that supplements like vitamin D3 and phosphorus can be helpful in treating rickets.
 
-Ultimately, though, it's important to speak with a goat expert about what might work best for your goat, as each animal will respond differently to various treatments.
+Ultimately, though, it's important to speak with a veterinarian about what might work best for your goat, as each animal will respond differently to various treatments.
 
 ## Final Thoughts
 
 Overall, rickets is a serious condition that can have a profound impact on an old goat's health. However, it is important to remember that there are many different ways to treat and prevent this disease.
 
-By working closely with a goat expert and providing plenty of love and care, you can help your old goat live a long and healthy life despite this condition.
+By working closely with a veterinarian and providing plenty of love and care, you can help your old goat live a long and healthy life despite this condition.

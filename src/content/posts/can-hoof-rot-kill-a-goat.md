@@ -88,7 +88,7 @@ This includes cleaning out stalls regularly and disinfecting any tools or equipm
 
 In cases where hoof rot is more severe, there are a number of medical treatments that can be used to address the infection. These might include anti-fungal medications or special hoof dressings that help to dry out and heal damaged tissue.
 
-On top of that, it is crucial to provide goats with a [healthy diet](/can-goats-drink-vinegar/) and plenty of exercises, as these elements are known to support overall immune function and prevent secondary infections from occurring.
+What's more, it is crucial to provide goats with a [healthy diet](/can-goats-drink-vinegar/) and plenty of exercises, as these elements are known to support overall immune function and prevent secondary infections from occurring.
 
 With the right care and attention, it should be possible to treat hoof rot effectively and ensure a full recovery for your goats.
 
@@ -100,9 +100,9 @@ This can include trimming hooves on a regular basis or checking for any changes 
 
 You may also want to consider covering or wrapping your goat's hooves, especially during wet and muddy weather, as this can help reduce exposure to moisture and bacteria that can lead to rot.
 
-On top of that, it is crucial to keep your goats' living spaces clean, both to minimize the spread of disease and improve hygiene and health.
+It's also worth noting that it is crucial to keep your goats' living spaces clean, both to minimize the spread of disease and improve hygiene and health.
 
-Finally, if you notice any symptoms of hoof rot in your goats, be sure to seek goat expert assistance right away to ensure effective treatment and recovery. Overall, with proper care and attention, you can help keep your goats healthy and free from the impact of hoof rot.
+Finally, if you notice any symptoms of hoof rot in your goats, be sure to seek veterinarian assistance right away to ensure effective treatment and recovery. Overall, with proper care and attention, you can help keep your goats healthy and free from the impact of hoof rot.
 
 ## What are other things people should know about hoof rot?
 

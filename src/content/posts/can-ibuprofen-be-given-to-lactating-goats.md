@@ -48,7 +48,7 @@ In this article, we will answer those questions about ibuprofen and goats, so yo
 
 ## Can ibuprofen be given to lactating goats?
 
-On top of that, ibuprofen may decrease milk production in some lactating goats. If you are considering giving ibuprofen to a lactating goat, be sure to consult with a goat expert first.
+Also, ibuprofen may decrease milk production in some lactating goats. If you are considering giving ibuprofen to a lactating goat, be sure to consult with a veterinarian first.
 
 Despite the fact that ibuprofen can be given to lactating goats, it is important to remember that it is a medication. As with any medication, there are [risks and side effects](/can-a-cdt-shot-kill-a-goat/) associated with its use.
 
@@ -66,21 +66,21 @@ By blocking these chemicals, ibuprofen reduces the severity of these symptoms, m
 
 Interestingly, ibuprofen can also have an effect on lactating goats. Studies have shown that the drug can slightly decrease milk production in lactating goats from 2-10%, though this reduction is generally dose-dependent and does not occur at low doses.
 
-On top of that, certain studies have found that ibuprofen may help to relieve some symptoms of [mastitis](/can-you-drink-milk-from-goats-with-mastitis/) in goats; but, more research is needed in this area before definitive conclusions can be made.
+What's more, certain studies have found that ibuprofen may help to relieve some symptoms of [mastitis](/can-you-drink-milk-from-goats-with-mastitis/) in goats; but, more research is needed in this area before definitive conclusions can be made.
 
 Overall, while ibuprofen may not be appropriate as a long-term solution for treating diseases in lactating goats, it can be a useful tool to help relieve some of their associated symptoms.
 
 ## Is ibuprofen safe to give to lactating goats?
 
-The question of whether or not ibuprofen is [safe to give to lactating goats](/can-i-give-goat-trazodone/) is a complex one. On the one hand, there is some evidence that ibuprofen can have harmful effects on animal fertility, particularly when it comes to goats and other ruminants.
+The question of whether or not ibuprofen is safe to give to lactating goats is a complex one. On the one hand, there is some evidence that ibuprofen can have harmful effects on animal fertility, particularly when it comes to goats and other ruminants.
 
-Despite that, other research suggests that ibuprofen may actually be beneficial for certain kinds of livestock, including goats.
+Be aware, other research suggests that ibuprofen may actually be beneficial for certain kinds of livestock, including goats.
 
 Therefore, more studies are needed in order to get a clearer picture of the effects that ibuprofen has on lactating goats.
 
 Overall, it seems likely that ibuprofen should be used carefully if given to lactating goats and animals which produce meat or dairy products for human consumption.
 
-Despite that, in the right circumstances, ibuprofen could potentially be an effective tool for keeping these animals healthy and productive.
+Even so, in the right circumstances, ibuprofen could potentially be an effective tool for keeping these animals healthy and productive.
 
 ## How much ibuprofen can be given to a goat?
 
@@ -116,7 +116,7 @@ It's important that none of the powder comes into contact with your skin, so be 
 
 Once it's fully crushed, [mix the powder with a small amount of food or water and give it directly to the goat](/can-i-give-powdered-goat-milk-to-sick-baby-goats/).
 
-If possible, watch the goat closely after administering the medication. This will help you to make sure that your treatment has been effective, as well as provide valuable insight into how much ibuprofen your goat needs in future situations where [pain relief](/can-i-give-my-goat-vicodin-for-pain/) may be required.
+If possible, watch the goat closely after administering the medication. This will help you to make sure that your treatment has been effective, as well as provide valuable insight into how much ibuprofen your goat needs in future situations where pain relief may be required.
 
 With careful attention and a little luck, you should be able to successfully treat your beloved pet.
 

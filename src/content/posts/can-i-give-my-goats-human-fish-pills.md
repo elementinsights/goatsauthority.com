@@ -52,7 +52,7 @@ When giving your goats fish pills, it is important to make sure that they are pr
 
 You may also want to crush the pills before giving them to your goats.
 
-In addition, you should always talk to a goat expert before [giving your goats any new supplements](/can-i-give-goat-trazodone/), including fish pills. They can help you determine the proper dosage and make sure that the supplement is right for your goats.
+In addition, you should always talk to a goat expert before giving your goats any new supplements, including fish pills. They can help you determine the proper dosage and make sure that the supplement is right for your goats.
 
 ## What are the things I need to consider before giving my goats human fish pills?
 
@@ -66,7 +66,7 @@ You may also want to crush the pills before giving them to your goats.
 
 Lastly, you should always follow the instructions on the supplement bottle. This will help ensure that you are giving your goats the proper dosage and [avoiding any potential side effects](/can-a-plastic-bag-hurt-a-goat/).
 
-Giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a goat expert first and follow the instructions on the supplement bottle.
+Giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a veterinarian first and follow the instructions on the supplement bottle.
 
 ## What are the benefits of giving my goats human fish pills?
 
@@ -84,13 +84,13 @@ As you can see, there are numerous benefits to giving your goats human fish pill
 
 ## How much should I give my goats human fish pills?
 
-The proper dosage of human fish pills for goats will vary depending on the supplement you are using. Always consult with a goat expert first and follow the instructions on the supplement bottle.
+The proper dosage of human fish pills for goats will vary depending on the supplement you are using. Always consult with a veterinarian first and follow the instructions on the supplement bottle.
 
 In general, however, most people give their goats one or two human fish pills per day. Some people choose to [give their goats more or less depending on their individual needs](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 If you are giving your goats human fish pills for the first time, it is always a good idea to start with a lower dosage and increase as needed. This will help you avoid any potential side effects.
 
-As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a goat expert first and follow the instructions on the supplement bottle.
+As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a veterinarian first and follow the instructions on the supplement bottle.
 
 ## Are there any side effects of giving my goats human fish pills?
 
@@ -100,11 +100,11 @@ This is usually the result of too high of a dosage and can be easily avoided by 
 
 Other potential side effects include nausea, vomiting, and [decreased appetite](/can-i-give-my-goat-pepto-bismol/). These side effects are usually the result of an allergy to fish pills.
 
-If you notice any of these side effects, stop giving your goats the supplement and consult with a goat expert.
+If you notice any of these side effects, stop giving your goats the supplement and consult with a veterinarian.
 
 Overall, human fish pills are safe for most goats. Just make sure that you follow the instructions on the supplement bottle and consult with a goat expert if you have any concerns.
 
-As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a goat expert first and follow the instructions on the supplement bottle.
+As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a veterinarian first and follow the instructions on the supplement bottle.
 
 ## How to prevent side effects when giving my goats human fish pills?
 
@@ -126,13 +126,13 @@ You can also try giving your goats [fish oil](/can-i-suture-my-goat/). Fish oil 
 
 Finally, you can also try giving your goats krill oil. Krill oil is a marine-based source of omega-3s that is similar to fish oil.
 
-All of these options can be a great way to give your goats the omega-3s they need. Just make sure to consult with a goat expert first to see what they recommend.
+All of these options can be a great way to give your goats the omega-3s they need. Just make sure to consult with a veterinarian first to see what they recommend.
 
 As we mentioned above, giving your goats human fish pills can be a great way to improve their health. Just make sure that you consult with a goat expert first and follow the instructions on the supplement bottle.
 
 ## Final Thoughts
 
-You can give your goats human fish pills as a way to improve their health. Just make sure to follow the instructions on the supplement bottle and consult with a goat expert first.
+You can give your goats human fish pills as a way to improve their health. Just make sure to follow the instructions on the supplement bottle and consult with a veterinarian first.
 
 There are a few potential side effects of giving your goats human fish pills, but these can be avoided by following the [proper dosage](/can-i-give-baby-aspirin-to-my-baby-goat/).
 

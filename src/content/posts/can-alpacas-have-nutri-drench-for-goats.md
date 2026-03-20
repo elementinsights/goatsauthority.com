@@ -68,7 +68,7 @@ it's an easy way to provide your alpacas with the extra nutrients they need, and
 
 The recommended dosage for Nutri Drench is 2-4 ounces per 100 pounds of body weight, so a 150-pound alpaca would need 3-6 ounces of Nutri Drench per day.
 
-Despite that, it's always best to consult with a livestock expert before starting any supplement regimen, as they can help you determine the exact dosage that your alpacas need.
+With that in mind, it's always best to consult with a livestock expert before starting any supplement regimen, as they can help you determine the exact dosage that your alpacas need.
 
 ## What are the side effects of Nutri Drench for goats?
 

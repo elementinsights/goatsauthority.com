@@ -95,7 +95,7 @@ This means providing a sturdy, safe enclosure with plenty of room for your goat 
 
 You should also be sure to keep an eye on your pygmy's diet, making sure that they always have access to high-quality food as well as clean water.
 
-On top of that, it is important to pay attention to any behavioral or health issues that may arise, such as signs of aggression or changes in appetite or behavior.
+Similarly, it is important to pay attention to any behavioral or health issues that may arise, such as signs of aggression or changes in appetite or behavior.
 
 By being vigilant and proactive in terms of goat care, you can ensure that your tiny friend remains happy and healthy for years to come.
 
@@ -137,4 +137,4 @@ You can provide your pygmy goat with the best possible care by following the tip
 
 Remember to pay attention to their diet, create a safe and spacious living area, and monitor their health and behavior closely.
 
-On top of that, be sure to regularly bathe and groom your goat, paying special attention to their coat and hooves.
+Similarly, be sure to regularly bathe and groom your goat, paying special attention to their coat and hooves.

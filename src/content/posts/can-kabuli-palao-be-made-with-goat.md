@@ -48,7 +48,7 @@ We will also look at community reviews of Kabuli Palao made with goats to get a 
 
 In addition to [goat](/can-you-buy-goat-meat-at-walmart/), Kabuli Palao can also be made with chicken, lamb, or beef. So, if you are looking for a change from the traditional chicken Kabuli Palao, why not try making it with a goat?
 
-Despite that, some people believe that Kabuli Palao should only be made with lamb or beef as these are the meats traditionally used in the dish. So, if you want to stick to tradition, you can use either of these meats instead of goats.
+Even so, some people believe that Kabuli Palao should only be made with lamb or beef as these are the meats traditionally used in the dish. So, if you want to stick to tradition, you can use either of these meats instead of goats.
 
 ## What is Kabuli Palao and how is it made?
 

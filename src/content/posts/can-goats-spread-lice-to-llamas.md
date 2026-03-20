@@ -136,7 +136,7 @@ In addition to the different types of lice that can [affect goats](/can-weather-
 
 There is no [need to worry about getting lice from goats](/can-goat-lice-go-into-a-dormant-stage/) or llamas. These parasites are species-specific, meaning that they can only survive by feeding on the blood of their particular host animal.
 
-[Humans are not affected by goat or llama lice](/can-goat-lice-live-on-humans/) and vice versa. Despite that, it is still important to practice good hygiene and avoid coming into contact with the blood or fluids of any animal, as this can transmit other diseases.
+[Humans are not affected by goat or llama lice](/can-goat-lice-live-on-humans/) and vice versa. Even so, it is still important to practice good hygiene and avoid coming into contact with the blood or fluids of any animal, as this can transmit other diseases.
 
 Lice are a common problem for both goats and llamas. But, with a little effort, you can get rid of these pesky parasites and keep your animals healthy and happy.
 

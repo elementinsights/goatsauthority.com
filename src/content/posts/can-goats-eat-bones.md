@@ -53,7 +53,7 @@ However, it's important to [feed bones to goats](/can-baking-soda-cause-urinary-
 
 ## What are the benefits of feeding bones to goats?
 
-Goats are browsing animals, which means that they prefer to eat leaves, twigs, and other woody vegetation. Despite that, they will also consume another type of food, including bones.
+Goats are browsing animals, which means that they prefer to eat leaves, twigs, and other woody vegetation. Then again, they will also consume another type of food, including bones.
 
 While it may seem, strange to some people, [feeding bones to goats can actually offer a number of benefits](/can-goats-eat-chicken-feed/).
 
@@ -95,7 +95,7 @@ In addition, bones should always be cooked before being [fed to goats](/can-you-
 
 Cooking helps to break down the bone and makes it easier for [goats to digest](/can-goats-digest-cotton/). When feeding bones to goats, always start with a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) and gradually increase the quantity over time.
 
-This will allow your [goats to adjust to the new food and reduce the risk of choking or digestive problems](/can-goats-digest-cigarettes/). With proper care and attention, feeding bones to goats can be a safe and nutritious way to provide them with the minerals they need.
+This will allow your goats to adjust to the new food and reduce the risk of choking or digestive problems. With proper care and attention, feeding bones to goats can be a safe and nutritious way to provide them with the minerals they need.
 
 ## What kind of bones should I feed my goats?
 
@@ -103,7 +103,7 @@ As any pet owner knows, the key to a healthy animal is a balanced diet. Goats ar
 
 In order to maintain their health, [goats need a diet that includes both hay](/what-kind-of-hay-do-goats-eat/) and fresh vegetables.
 
-Despite that, goats also require a source of calcium in their diet. The best way to provide this essential nutrient is by feeding them bones.
+That said, goats also require a source of calcium in their diet. The best way to provide this essential nutrient is by feeding them bones.
 
 Bones are an excellent source of calcium, and they also help to keep goats’ teeth healthy.
 
@@ -129,7 +129,7 @@ But, you may need to adjust the frequency depending on your goat's individual nu
 
 ## Where can I find goat-safe bones to feed my herd?
 
-When it comes to [goat nutrition](/can-i-give-a-moldy-pumpkin-to-goats/), bones are an important source of calcium. Despite that, not all bones are created equal.
+When it comes to [goat nutrition](/can-i-give-a-moldy-pumpkin-to-goats/), bones are an important source of calcium. Of course, not all bones are created equal.
 
 Goat-safe bones should be relatively small and soft so that they can be easily chewed and digested.
 

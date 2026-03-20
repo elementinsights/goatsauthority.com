@@ -42,7 +42,7 @@ In this article, we will answer those questions and provide you with additional 
 
 ## Can I use a rope halter on a goat?
 
-Despite that, there are a few things you need to keep in mind before using a rope halter on your goat. First, make sure that the halter fits properly.
+At the same time, there are a few things you need to keep in mind before using a rope halter on your goat. First, make sure that the halter fits properly.
 
 A too-tight halter can cause pain and discomfort, while a too-loose halter can slip off easily.
 

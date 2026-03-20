@@ -88,13 +88,13 @@ If the goat is having trouble breathing, it may also need to be given oxygen.
 
 In severe cases, goats may need to be hospitalized so that they can receive around-the-clock care. Vaccination is the best way to prevent polio, and all goats should be vaccinated against the disease.
 
-Despite that, if a goat does become infected with polio, [prompt treatment](/can-i-give-my-goat-pepto-bismol/) can help to reduce the severity of the disease and improve the chances of a full recovery.
+Then again, if a goat does become infected with polio, [prompt treatment](/can-i-give-my-goat-pepto-bismol/) can help to reduce the severity of the disease and improve the chances of a full recovery.
 
 ## Are there any side effects to the polio treatments in goats?
 
 To date, there have been no reports of negative side effects associated with the use of the polio vaccine in goats. In fact, vaccination has been shown to be highly effective in preventing the disease.
 
-Despite that, it is always important to consult with a veterinarian before vaccinating any animal, as there is always a small risk of adverse reactions. On top of that, you need to follow all manufacturer's instructions when administering the vaccine.
+With that in mind, it is always important to consult with a veterinarian before vaccinating any animal, as there is always a small risk of adverse reactions. Plus, you need to follow all manufacturer's instructions when administering the vaccine.
 
 Doing so will help to ensure the safety of both the animal and the person administering the vaccine.
 
@@ -122,7 +122,7 @@ By taking these precautions, you can help to protect your goats from this seriou
 
 ## Can all kinds of goats get polio?
 
-All kinds of goats can get polio. Despite that, some types of goats are more susceptible to the disease than others.
+All kinds of goats can get polio. At the same time, some types of goats are more susceptible to the disease than others.
 
 For example, Alpine and Saanen goats are more resistant to the virus than other breeds, such as Boer and Angora goats.
 
@@ -138,7 +138,7 @@ Additionally, goats that receive prompt treatment and are kept in a clean and sa
 
 ## Final Thoughts
 
-Overall, polio is a serious disease that can be deadly in goats. Despite that, there are steps you can take to prevent your goats from getting the disease.
+Overall, polio is a serious disease that can be deadly in goats. With that in mind, there are steps you can take to prevent your goats from getting the disease.
 
 Vaccination is the best way to protect your goats from polio, and you need to talk to your veterinarian about which vaccine is right for your flock.
 

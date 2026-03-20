@@ -55,7 +55,7 @@ In addition to milking, goat teats can also be used to provide nourishment for y
 
 This provides the kid with essential colostrum, which helps to boost immunity and [protect against disease](/can-you-catch-diseases-from-goats/). Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats.
 
-Despite that, goat teats can still play an important role in social interactions between goats.
+Even so, goat teats can still play an important role in social interactions between goats.
 
 For example, adult goats will often gently nibble on each other's teats as part of their bonding ritual. Goat teats are thus multi-purpose organs that serve a variety of functions within the goat community.
 

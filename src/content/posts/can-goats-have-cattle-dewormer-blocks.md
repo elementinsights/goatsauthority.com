@@ -60,7 +60,7 @@ Lastly, be sure to have the proper supplies on hand, including a syringe and glo
 
 Here's a step-by-step guide to giving your goat Bute:
 
-- Fill the syringe with the correct amount of medication, based on a goat expert's instructions.
+- Fill the syringe with the correct amount of medication, based on a veterinarian's instructions.
 - Put on a pair of gloves to protect your hands from the medication.
 - Hold the goat still and insert the syringe into the side of its mouth.
 - Slowly push the plunger down, letting the medication enter the goat's mouth.
@@ -93,7 +93,7 @@ Another risk associated with using cattle dewormer blocks on goats is that they 
 
 Finally, there is a risk that cattle dewormer blocks can be toxic to goats if they are used incorrectly. If a goat ingests too much of the medication, it can suffer from liver damage or even death.
 
-Therefore, it is important to follow the dosage instructions carefully and to contact a goat expert if you have any concerns.
+Therefore, it is important to follow the dosage instructions carefully and to contact a veterinarian if you have any concerns.
 
 ## How to use cattle dewormer blocks on goats?
 
@@ -119,7 +119,7 @@ By taking all of these factors into account, you can be sure to select the best 
 
 ## Are there any alternative options to using cattle dewormer blocks on goats?
 
-Yes, there are a few alternative options for deworming goats. One option is to use an [oral ivermectin solution](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/), which is available by prescription from a goat expert.
+Yes, there are a few alternative options for deworming goats. One option is to use an [oral ivermectin solution](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/), which is available by prescription from a veterinarian.
 
 This option is safer than using cattle dewormer blocks, as it minimizes the risk of side effects and resistance. Another option is to use a topical ivermectin product, which is available over the counter.
 
@@ -127,7 +127,7 @@ This option is also safe and effective, but it may be more expensive than using 
 
 Finally, you can also consider using a [natural wormer](/can-goats-get-worms-from-acorns/) such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products.
 
-Talk to a goat expert to see if one of these options is right for your goats.
+Talk to a veterinarian to see if one of these options is right for your goats.
 
 ## Final thoughts
 
@@ -135,4 +135,4 @@ Goats can have cattle dewormer blocks, but there are a few things to consider be
 
 Ivermectin can build up in the goat's system and [may cause side effects](/can-contact-with-goats-cause-diarrhea-in-humans/) such as tremors and seizures. Finally, using cattle dewormer blocks on goats may increase the risk of resistance to ivermectin, making it less effective for treating parasites in both cattle and goats.
 
-If you decide to use cattle dewormer blocks on your goats, be sure to talk to a goat expert first and follow the directions carefully.
+If you decide to use cattle dewormer blocks on your goats, be sure to talk to a veterinarian first and follow the directions carefully.

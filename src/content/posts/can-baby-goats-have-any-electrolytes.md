@@ -92,13 +92,13 @@ Baby goats are especially susceptible to electrolyte deficiency because they hav
 
 The most common symptom of electrolyte deficiency is dehydration, which can lead to serious health problems if left untreated. Baby goats who are dehydrated will typically have dry mouths and eyes, and their skin will lose its elasticity.
 
-They may also urinate less frequently and have sunken eyes. If you suspect that your baby goat is dehydrated, you need to seek goat expert care immediately.
+They may also urinate less frequently and have sunken eyes. If you suspect that your baby goat is dehydrated, you need to seek veterinarian care immediately.
 
 With proper treatment, most baby [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
 In addition to dehydration, baby goats may also experience other symptoms of electrolyte deficiency, such as weakness, tremors, and seizures. If you notice any of these symptoms in your baby goat, you need to seek goat expert care immediately.
 
-With proper treatment, most baby goats will make a full recovery from electrolyte deficiency. Despite that, if left untreated, electrolyte deficiency can lead to serious health problems, such as organ damage and death.
+With proper treatment, most baby goats will make a full recovery from electrolyte deficiency. That said, if left untreated, electrolyte deficiency can lead to serious health problems, such as organ damage and death.
 
 ## How can you prevent electrolyte deficiency in baby goats?
 

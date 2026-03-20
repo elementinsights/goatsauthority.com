@@ -55,7 +55,7 @@ They may help reduce the risk of catching a disease, but they do not eliminate t
 
 ## Are there any benefits to letting your toddler play with baby goats aside from being adorable creatures?
 
-[Baby goats](/can-baby-goats-have-any-electrolytes/) are undeniably adorable creatures, and it's no surprise that many parents enjoy letting their toddlers play with them. Despite that, there are also a number of benefits to this activity beyond the cuteness factor.
+[Baby goats](/can-baby-goats-have-any-electrolytes/) are undeniably adorable creatures, and it's no surprise that many parents enjoy letting their toddlers play with them. Keep in mind, there are also a number of benefits to this activity beyond the cuteness factor.
 
 For one thing, it can help to promote bonding between parent and child. Spending time together playing with baby goats can create cherished memories that will last a lifetime.
 
@@ -93,7 +93,7 @@ The most common disease that baby goats can transmit to toddlers is brucellosis.
 
 In some cases, it can also lead to more serious complications, such as infertility or miscarriage.
 
-Brucellosis is most commonly spread through contact with infected animal products, such as milk or meat. Despite that, it can also be spread through contact with the placenta or fluids from an infected animal.
+Brucellosis is most commonly spread through contact with infected animal products, such as milk or meat. At the same time, it can also be spread through contact with the placenta or fluids from an infected animal.
 
 For this reason, it's crucial to take precautions when handling baby goats, such as wearing gloves and washing your hands thoroughly after exposure. If you are pregnant, it's especially important to avoid contact with infected animals.
 

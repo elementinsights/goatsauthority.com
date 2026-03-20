@@ -49,7 +49,7 @@ We will address all of your questions on nursing an overdue goat in this article
 
 ## Can an overdue goat be Induced to labor?
 
-Despite that, it's crucial to speak with a goat expert before inducing labor in a goat. Understanding whether [a goat can get pregnant when not in heat](/can-a-goat-get-pregnant-when-not-in-heat/) helps you confirm the pregnancy timeline. There are several drugs that can be used to induce labor, and a vet will be able to recommend the best one for your goat's situation.
+Even so, it's crucial to speak with a veterinarian before inducing labor in a goat. Understanding whether [a goat can get pregnant when not in heat](/can-a-goat-get-pregnant-when-not-in-heat/) helps you confirm the pregnancy timeline. There are several drugs that can be used to induce labor, and a vet will be able to recommend the best one for your goat's situation.
 
 ## What is an overdue goat and why does it happen?
 

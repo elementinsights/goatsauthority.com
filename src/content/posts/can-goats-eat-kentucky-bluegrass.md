@@ -68,7 +68,7 @@ Goats are browsers, not grazers like cows. This means that they prefer to nibble
 
 As a result, not all goats will eat Kentucky bluegrass.
 
-Despite that, there are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
+That said, there are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
 
 If you're unsure whether your [goat will eat](/can-goats-eat-carrots/) Kentucky bluegrass, it's always best to consult with an experienced goat breeder. They will be able to advise you on the best diet for your [goat based on its breed](/can-a-goat-breed-with-sheep/), age, and health.
 

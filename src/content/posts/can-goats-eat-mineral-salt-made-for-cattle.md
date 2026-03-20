@@ -72,9 +72,9 @@ While there are many [health benefits associated with feeding mineral salt to go
 
 This can occur if the goats consume too much salt or do not have access to fresh, clean water.
 
-Other risks include gut irritation, bloating, and constipation. If you notice any of these symptoms in your goats, discontinue the use of the salt lick and consult with a goat expert.
+Other risks include gut irritation, bloating, and constipation. If you notice any of these symptoms in your goats, discontinue the use of the salt lick and consult with a veterinarian.
 
-On top of that, it is important to supervise your goats when they are using the salt lick. This will help ensure that they do not consume too much salt.
+It's also worth noting that it is important to supervise your goats when they are using the salt lick. This will help ensure that they do not consume too much salt.
 
 ## How can you prevent your goats from overeating salt?
 
@@ -122,11 +122,11 @@ Finally, you can try feeding the goats foods that are naturally low in sodium. T
 
 ## How much mineral salt can goats consume per day?
 
-The amount of mineral salt that goats can consume per day will vary depending on their age, size, and health. Despite that, a general rule of thumb is to give them no more than 1 ounce (28 grams) of salt per day.
+The amount of mineral salt that goats can consume per day will vary depending on their age, size, and health. With that in mind, a general rule of thumb is to give them no more than 1 ounce (28 grams) of salt per day.
 
 It is also important to make sure that the goats have access to fresh, clean water at all times. This will help prevent dehydration and other health problems associated with Salt toxicity.
 
-If you have any concerns about the amount of salt your goats are consuming, it is best to consult with a goat expert.
+If you have any concerns about the amount of salt your goats are consuming, it is best to consult with a veterinarian.
 
 ## When is the best time to give mineral salt to goats?
 

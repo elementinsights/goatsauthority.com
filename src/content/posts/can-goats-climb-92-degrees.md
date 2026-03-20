@@ -48,7 +48,7 @@ We will answer a few of the most frequently asked questions regarding goats in t
 
 ## Can goats climb 92 degrees?
 
-Despite that, there are some [things that goats can't do](/can-a-dog-get-sick-from-a-goat/). For example, they can't jump very high.
+Then again, there are some [things that goats can't do](/can-a-dog-get-sick-from-a-goat/). For example, they can't jump very high.
 
 Their legs are too short in comparison to their bodies.
 

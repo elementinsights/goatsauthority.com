@@ -46,7 +46,7 @@ In this article, we will answer that question and provide you with additional in
 
 ## Can I give a sick goat water through a syringe?
 
-On top of that, you should only give your goat a [small amount of water](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at a time, as too much water can cause them to vomit or have diarrhea.
+What's more, you should only give your goat a [small amount of water](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at a time, as too much water can cause them to vomit or have diarrhea.
 
 If you are unsure of how to properly care for your sick goat, it is always best to consult with a veterinarian. They will be able to provide you with the best course of treatment for your goat and help to [ensure that they make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
@@ -68,7 +68,7 @@ Another option is to use a bottle with a long, flexible dropper. Either way, it'
 
 As you administer the water, try to make eye contact with your goat so that they associate you with the process and are less likely to become spooked or resistant.
 
-On top of that, it may be helpful to have someone else present to help calm and guide them through the process. With time and practice, though, you should be able to give your goat water through a syringe successfully and easily.
+Plus, it may be helpful to have someone else present to help calm and guide them through the process. With time and practice, though, you should be able to give your goat water through a syringe successfully and easily.
 
 ## Tips for success when performing hydration therapy on a goat
 

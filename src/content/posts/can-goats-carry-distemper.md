@@ -52,7 +52,7 @@ In this article, we will answer all of your questions so that you can be informe
 
 ## Can goats carry distemper?
 
-Despite that, it's important to note that distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
+Of course, it's important to note that distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
 
 ## What is distemper and how does it spread?
 
@@ -78,7 +78,7 @@ However, if a goat does become infected, prompt treatment by a goat expert is es
 
 Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal.
 
-Despite that, early diagnosis and [treatment of symptoms](/can-a-goat-get-rabies/) can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
+Be aware, early diagnosis and [treatment of symptoms](/can-a-goat-get-rabies/) can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
 
 If your goat shows any of these signs, call a goat expert immediately.
 
@@ -92,7 +92,7 @@ Many goats will recover from distemper if they receive prompt treatment. However
 
 If your goat has contracted a distemper, call a goat expert immediately and follow their instructions. With prompt treatment and supportive care, many [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
 
-Distemper is a highly contagious and potentially fatal disease that can [affect goats](/can-weather-affect-goats-poop/). If your goat shows any signs of distemper, call a goat expert immediately.
+Distemper is a highly contagious and potentially fatal disease that can [affect goats](/can-weather-affect-goats-poop/). If your goat shows any signs of distemper, call a veterinarian immediately.
 
 With prompt treatment, many goats will make a full recovery.
 

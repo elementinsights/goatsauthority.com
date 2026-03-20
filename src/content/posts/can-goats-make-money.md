@@ -55,7 +55,7 @@ The goat-rearing business is all about raising [goats for their milk](/can-a-bab
 
 Goat fur can be used to make warm, durable clothing, and goat fiber can be used to make a variety of items, from carpets to tapestries. Goat-rearing requires a commitment to animal husbandry and a dedication to providing the [best possible care for your goats](/can-goats-die-from-lymes/).
 
-Despite that, it can be a rewarding experience that provides you with healthy food, valuable fibers, and even companionship. If you're considering entering the goat-rearing business, there are a few things you should keep in mind.
+Be aware, it can be a rewarding experience that provides you with healthy food, valuable fibers, and even companionship. If you're considering entering the goat-rearing business, there are a few things you should keep in mind.
 
 First, do your research. There are many different breeds of goats, and each has its own unique needs.
 
@@ -73,7 +73,7 @@ With proper care and preparation, goat-rearing can be a rewarding experience for
 
 [Goats are wonderful creatures that offer a variety of benefits](/can-benadryl-hurt-a-goat/) to those who raise them. For one, goats are excellent at clearing overgrown areas, making them ideal for people who want to maintain a tidy property.
 
-Additionally, [goats are very social animals and can form strong bonds](/can-a-goat-form-an-udder-without-being-pregnant/) with their owners. As a result, raising goats can be a great way to reduce stress and enjoy some companionship.
+Additionally, goats are very social animals and can form strong bonds with their owners. As a result, raising goats can be a great way to reduce stress and enjoy some companionship.
 
 Lastly, [goats can provide milk](/can-a-cat-drink-goats-milk/), meat, and wool, making them a valuable addition to any farm or homestead. Whether you're looking for a helpful pet or a productive member of the homestead, goats are definitely worth considering.
 

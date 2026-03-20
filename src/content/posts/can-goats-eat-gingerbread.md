@@ -88,7 +88,7 @@ It might sound surprising, but gingerbread can be a healthy and nutritious treat
 
 Gingerbread is a great way to introduce some variety into their diet.
 
-The spices in gingerbread can also help to keep goats healthy by boosting their immune system. On top of that, the molasses in gingerbread is a good source of energy and can help goats stay active.
+The spices in gingerbread can also help to keep goats healthy by boosting their immune system. Plus, the molasses in gingerbread is a good source of energy and can help goats stay active.
 
 So, if you're looking for a way to add some excitement to your goat's diet, try feeding them some gingerbread.
 
@@ -100,7 +100,7 @@ When goats eat too much sugar, they can develop a condition called laminitis.
 
 Laminitis is a painful inflammation of the tissues that connect the hooves to the bones. If left untreated, laminitis can lead to permanent damage to the hooves and even death.
 
-On top of that, gingerbread often contains spices such as cinnamon and nutmeg, which can be toxic to goats. Eating just a few pieces of gingerbread can make a goat very sick.
+Similarly, gingerbread often contains spices such as cinnamon and nutmeg, which can be toxic to goats. Eating just a few pieces of gingerbread can make a goat very sick.
 
 Symptoms of toxicity include vomiting, diarrhea, tremors, and seizures. If you suspect your goat has eaten gingerbread, [contact a goat expert](/contact/) immediately.
 
@@ -114,7 +114,7 @@ Finally, make sure your goat has plenty of other things to eat so they're not te
 
 As you can see, there are both [benefits and risks associated with feeding gingerbread to goats](/can-goats-eat-chicken-feed/). If you decide to give your goat gingerbread, be sure to do so in moderation and keep an eye out for any signs of gastrointestinal distress.
 
-And, as always, consult a goat expert if you have any concerns about your goat's health.
+And, as always, consult a veterinarian if you have any concerns about your goat's health.
 
 ## How much gingerbread can goats eat per day?
 
@@ -142,4 +142,4 @@ They'll love the delicious, festive treat.
 
 Goats can eat gingerbread, but there are both benefits and risks associated with feeding them this holiday treat.
 
-If you do decide to give your goat gingerbread, be sure to do so in moderation and keep an eye out for any signs of gastrointestinal distress. And, as always, consult a goat expert if you have any concerns about your goat's health.
+If you do decide to give your goat gingerbread, be sure to do so in moderation and keep an eye out for any signs of gastrointestinal distress. And, as always, consult a veterinarian if you have any concerns about your goat's health.

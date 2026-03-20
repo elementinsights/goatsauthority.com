@@ -55,7 +55,7 @@ However, it's important to note that goats are fairly resilient animals, and the
 
 Goats are incredibly resilient animals, and they can survive in a wide range of climates. However, they do have a lower tolerance for cold weather than some other farm animals.
 
-When the temperature starts to drop, [goats will begin to grow more insulation in the form](/can-a-goat-form-an-udder-without-being-pregnant/) of thicker fur. They will also huddle together for warmth and may spend more time lying down.
+When the temperature starts to drop, goats will begin to grow more insulation in the form of thicker fur. They will also huddle together for warmth and may spend more time lying down.
 
 In very cold weather, goats may even start to shiver in order to generate heat.
 
@@ -101,7 +101,7 @@ In addition to providing shelter, there are several other ways to help keep goat
 
 First, it's crucial to make sure that they have access to clean, fresh water. Frozen water can be dangerous for [goats](/can-goats-drink-vinegar/), so water troughs should be checked regularly and cleared of ice as needed.
 
-On top of that, goats should be fed high-quality hay or grass to help them maintain their body temperature. It's also a good idea to provide them with a salt lick, as this will help them stay hydrated and prevent frostbite.
+Similarly, goats should be fed high-quality hay or grass to help them maintain their body temperature. It's also a good idea to provide them with a salt lick, as this will help them stay hydrated and prevent frostbite.
 
 Finally, regular grooming will help to remove any dead hair that could insulate the goat's body and trap it in heat. By taking these simple steps, you can help ensure that your goats stay healthy and happy all winter long.
 

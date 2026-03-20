@@ -101,7 +101,7 @@ The cost of a Toggenburg goat can vary depending on a number of factors, includi
 
 [Older goats](/can-i-mix-newborn-goats-and-older-goats/) may be more expensive than younger ones for example, as older animals tend to be more established in terms of their weight and body condition.
 
-On top of that, does (female goats) typically cost more than wethers (gelded males), since does require specialized care during pregnancy and lactation.
+It's also worth noting that does (female goats) typically cost more than wethers (gelded males), since does require specialized care during pregnancy and lactation.
 
 Finally, the condition of a goat will also impact its price, with well-cared-for animals typically commanding higher prices than those that are not in good health.
 

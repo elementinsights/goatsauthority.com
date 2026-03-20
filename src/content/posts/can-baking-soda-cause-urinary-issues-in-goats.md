@@ -73,7 +73,7 @@ As a result, baking soda can help to keep goats healthy and their pens smelling 
 
 Goats are known for their love of all things sour, so it's no surprise that they love baking soda. This tasty treat can help to neutralize stomach acids, which can be helpful for goats with stomach issues.
 
-Despite that, too much baking soda can cause health problems, so it's crucial to know how much to give your goats. A general guideline is to provide 1 teaspoon of baking soda per goat per day.
+With that in mind, too much baking soda can cause health problems, so it's crucial to know how much to give your goats. A general guideline is to provide 1 teaspoon of baking soda per goat per day.
 
 This can be mixed into their food or water. If you're unsure whether your goats need baking soda, talk to an animal expert.
 

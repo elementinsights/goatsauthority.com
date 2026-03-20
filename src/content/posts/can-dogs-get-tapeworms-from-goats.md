@@ -51,7 +51,7 @@ In this article, we will answer all of your questions about dogs and tapeworms, 
 
 ## Can dogs get tapeworms from goats?
 
-Despite that, it's still fairly uncommon for dogs to contract tapeworms from goats. This is because most dogs do not have access to goats, and even if they did, they would be unlikely to [eat contaminated meat](/do-goats-eat-meat/).
+Of course, it's still fairly uncommon for dogs to contract tapeworms from goats. This is because most dogs do not have access to goats, and even if they did, they would be unlikely to [eat contaminated meat](/do-goats-eat-meat/).
 
 ## What are tapeworms in dogs and how do they spread?
 
@@ -75,15 +75,15 @@ Other symptoms of tapeworms in dogs include:
 - Blood in the stool
 - Anemia
 
-On top of that, you may be able to see the tapeworms in your dog's stool. They look like small, [white pieces of rice](/can-goats-eat-cooked-white-rice/).
+Plus, you may be able to see the tapeworms in your dog's stool. They look like small, [white pieces of rice](/can-goats-eat-cooked-white-rice/).
 
-If your dog has tapeworms, it's crucial to seek goat expert treatment. Left untreated, tapeworms can cause serious health problems for your dog, including anemia and weight loss.
+If your dog has tapeworms, it's crucial to seek veterinarian treatment. Left untreated, tapeworms can cause serious health problems for your dog, including anemia and weight loss.
 
 ## How is a dog diagnosed with tapeworms and what is the treatment for them?
 
 A goat expert will diagnose tapeworms based on your dog's symptoms and a physical examination. They may also perform laboratory tests, such as a fecal flotation test, to look for the presence of tapeworm eggs in your dog's stool.
 
-Once diagnosed, treatment for tapeworms is typically very straightforward. A goat expert will prescribe a medication that will kill the worms.
+Once diagnosed, treatment for tapeworms is typically very straightforward. A veterinarian will prescribe a medication that will kill the worms.
 
 This medication is typically given orally, although it may be injected in some cases.
 
@@ -125,7 +125,7 @@ For example, both dogs and goats can contract rabies, a potentially fatal virus 
 
 Dogs can also transmit [canine distemper](/can-goats-carry-distemper/) to goats, while [goats can pass on brucellosis](/can-a-goat-pass-afterbirth-between-kids/), a bacterial infection that causes reproductive problems in dogs.
 
-On top of that, both species can suffer from respiratory infections, internal parasites, and other health problems. While some of these diseases can be treated, others are fatal.
+Also, both species can suffer from respiratory infections, internal parasites, and other health problems. While some of these diseases can be treated, others are fatal.
 
 As a result, it's important for owners of both dogs and [goats to be aware of the risks involved](/can-a-cdt-shot-kill-a-goat/) in allowing the two species to interact.
 
@@ -149,4 +149,4 @@ Overall, while there are some [risks associated with allowing dogs and goats](/c
 
 By keeping your dog's environment clean and free of contaminated food or water, you can help reduce the likelihood of them contracting a tapeworm or other parasite. And also, using flea and tick control products can help prevent the spread of disease.
 
-If you have any concerns about your dog's health, be sure to talk to a goat expert. They can help you create a plan to keep your dog healthy and safe.
+If you have any concerns about your dog's health, be sure to talk to a veterinarian. They can help you create a plan to keep your dog healthy and safe.

@@ -57,7 +57,7 @@ In this article, we will address everything you need to know about whether or no
 
 When [feeding turnips to goats](/can-baking-soda-cause-urinary-issues-in-goats/), it is important to make sure that they are properly cleaned and cut into small pieces. Turnips can be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) fresh, cooked, or canned.
 
-Despite that, goats prefer turnips that are fresh or cooked.
+Still, goats prefer turnips that are fresh or cooked.
 
 If you are feeding turnips to goats fresh, you will want to wash them thoroughly and then cut them into small pieces. Goats should not eat the leaves of the turnip, as they can be poisonous.
 
@@ -83,7 +83,7 @@ Turnips can also be a choking hazard for goats if they are not cut into small pi
 
 Feeding turnips to goats is generally safe and can be a healthy addition to their diet. However, it is crucial to make sure that they are properly cleaned and cut into small pieces.
 
-Turnips can be fed to goats fresh, cooked, or canned. Despite that, goats prefer turnips that are fresh or cooked.
+Turnips can be fed to goats fresh, cooked, or canned. That said, goats prefer turnips that are fresh or cooked.
 
 If you have any concerns about feeding turnips to your goat, please consult with a goat expert before doing so.
 
@@ -103,7 +103,7 @@ If you suspect that your goat is sick, please consult with a goat expert as soon
 
 The most common sign of illness in goats is a decrease in appetite. Other signs of illness in goats include lethargy, diarrhea, and vomiting.
 
-If you notice any of these signs in your goat, please consult with a goat expert as soon as possible. Early diagnosis and treatment of an illness are crucial for goats.
+If you notice any of these signs in your goat, please consult with a veterinarian as soon as possible. Early diagnosis and treatment of an illness are crucial for goats.
 
 ## What are the treatments for sick goats?
 
@@ -121,7 +121,7 @@ If you suspect that your goat is dehydrated, please consult with a goat expert a
 
 The number of turnips that goats can eat per day will depend on the goat's age, size, and activity level. [Adult goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) can typically eat 1-2 cups of turnips per day.
 
-Despite that, [baby goats and pregnant or nursing goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/) will need fewer turnips. It is best to consult with a goat expert to determine how many turnips to feed your goat each day.
+At the same time, [baby goats and pregnant or nursing goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/) will need fewer turnips. It is best to consult with a veterinarian to determine how many turnips to feed your goat each day.
 
 ## Are there any other uses of turnips for goats?
 
@@ -137,9 +137,9 @@ To use turnips as a treat, simply chop them into small pieces and offer them to 
 
 All kinds of goats can eat turnips. But, it is crucial to make sure that they are properly cleaned and cut into small pieces.
 
-Turnips can be fed to goats fresh, cooked, or canned. Despite that, goats prefer turnips that are fresh or cooked.
+Turnips can be fed to goats fresh, cooked, or canned. Keep in mind, goats prefer turnips that are fresh or cooked.
 
-If you have any concerns about feeding turnips to your goat, please consult with a goat expert before doing so.
+If you have any concerns about feeding turnips to your goat, please consult with a veterinarian before doing so.
 
 ## Are all parts of the turnip safe for goats to eat?
 
@@ -147,7 +147,7 @@ All parts of the turnip are safe for [goats to eat](/can-a-goat-eat-sticker-bush
 
 Turnips can be fed to goats fresh, cooked, or canned.
 
-Despite that, goats prefer turnips that are fresh or cooked.If you have any concerns about feeding turnips to your goat, please consult with a goat expert before doing so.
+With that in mind, goats prefer turnips that are fresh or cooked.If you have any concerns about feeding turnips to your goat, please consult with a goat expert before doing so.
 
 ## What are other food options for goats?
 

@@ -45,11 +45,11 @@ We all know that goats are curious creatures. They will pretty much put anything
 
 So, can goats get listeriosis from chicken feces? And if so, what are the symptoms?
 
-In this article, we will answer those questions and provide you with some [facts and FAQs about listeriosis in goats](/can-a-goat-get-addicted-to-human-urine/).
+In this article, we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
 
 ## Can goats get listeriosis from chicken feces?
 
-On top of that, listeriosis can be transmitted to goats through contact with infected animals, such as sheep or cattle. Once a goat is infected with the bacteria, it can [spread the infection to other goats](/can-goats-spread-lice-to-llamas/) through close contacts, such as sharing food and water sources.
+Also, listeriosis can be transmitted to goats through contact with infected animals, such as sheep or cattle. Once a goat is infected with the bacteria, it can [spread the infection to other goats](/can-goats-spread-lice-to-llamas/) through close contacts, such as sharing food and water sources.
 
 So, it is important to be aware of the symptoms of listeriosis in goats and to take measures to prevent the disease from spreading.
 
@@ -67,7 +67,7 @@ Infected animals should be isolated from the rest of the herd to prevent the spr
 
 Treatment typically involves antibiotics, and [affected goats](/can-weather-affect-goats-poop/) should be closely monitored for any signs of improvement. With prompt treatment, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/) from listeriosis.
 
-Despite that, the illness can be fatal in some cases, so it is crucial to seek goat expert care as soon as possible if you suspect your goat may be infected.
+Even so, the illness can be fatal in some cases, so it is crucial to seek veterinarian care as soon as possible if you suspect your goat may be infected.
 
 ## How does listeriosis spread in goats?
 
@@ -101,7 +101,7 @@ One of the most important things that goat owners can do is to practice good hyg
 
 It's also important to clean and disinfect any equipment that comes into contact with goats, such as brushes, collars, and feeders. In addition, goats should be vaccinated against listeriosis.
 
-This [vaccine](/can-a-cdt-shot-kill-a-goat/) is typically given annually and is available from most goat experts.
+This [vaccine](/can-a-cdt-shot-kill-a-goat/) is typically given annually and is available from most veterinarians.
 
 Finally, if a goat does become sick, it's crucial to seek goat expert care immediately. With prompt treatment, most goats make a full recovery.
 

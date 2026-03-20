@@ -93,7 +93,7 @@ Ultimately, a horse-goat bond is beneficial for both animals involved.
 
 When it comes to raising animals, bonding is an important consideration. Bonding refers to the process of creating a close emotional connection between two individuals, and it can be a great way to enrich the lives of both horses and goats.
 
-Despite that, there are also some risks associated with bonding these two animals. For example, if one animal becomes ill or injured, the other may become stressed or depressed.
+Even so, there are also some risks associated with bonding these two animals. For example, if one animal becomes ill or injured, the other may become stressed or depressed.
 
 In addition, if one animal is put down, the other may grieve excessively.
 
@@ -101,7 +101,7 @@ As a result, it's important to weigh the pros and cons of bonding before making 
 
 ## How can you prevent or break up an unwanted bond between your horses and goats?
 
-it's not uncommon for horses and [goats to form strong bonds](/can-a-goat-form-an-udder-without-being-pregnant/) with one another. In fact, many owners of both species find that their animals naturally seem to gravitate towards each other and enjoy each other's company.
+it's not uncommon for horses and goats to form strong bonds with one another. In fact, many owners of both species find that their animals naturally seem to gravitate towards each other and enjoy each other's company.
 
 However, there are also times when an owner may want to prevent or break up an unwanted bond between their horses and goats. There are a few different approaches that can be taken in order to achieve this.
 

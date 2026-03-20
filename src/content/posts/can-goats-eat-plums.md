@@ -63,7 +63,7 @@ Goats can eat plum leaves. In fact, they are a good source of nutrition for goat
 
 Plum leaves contain vitamins A and C, as well as minerals like calcium and phosphorus.
 
-Goats also enjoy the taste of plum leaves. Despite that, there are a few things to keep in mind when feeding plum leaves to goats.
+Goats also enjoy the taste of plum leaves. That said, there are a few things to keep in mind when feeding plum leaves to goats.
 
 First, make sure that the leaves are fresh and free from pesticides. Second, only give a small number of leaves to goats at first, since they may not be used to eating them.
 
@@ -101,9 +101,9 @@ Just be sure to wash them first.
 
 ## Can a baby goat eat plums?
 
-Baby goats are generally able to eat plums and [other fruits](/can-goats-eat-peaches/) without any problems. Despite that, it's crucial to make sure that the plums are cut into small pieces to avoid choking.
+Baby goats are generally able to eat plums and [other fruits](/can-goats-eat-peaches/) without any problems. Then again, it's crucial to make sure that the plums are cut into small pieces to avoid choking.
 
-On top of that, baby goats should always have access to fresh water. Too much sugar can cause diarrhea.
+Similarly, baby goats should always have access to fresh water. Too much sugar can cause diarrhea.
 
 Therefore, you must monitor how many plums a baby goat eats in a day. Overall, plums can be a healthy and delicious treat for baby goats.
 

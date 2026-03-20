@@ -50,7 +50,7 @@ In this article, we will address those questions and provide you with some tips 
 
 However, there are a few things you need to consider before letting your mini pig and pygmy goat live together. For instance, you will need to make sure that the living space is big enough for both animals.
 
-On top of that, you will need to provide them with plenty of food and water.
+Also, you will need to provide them with plenty of food and water.
 
 If you take the time to consider these things, then there is no reason why your mini pig and pygmy goat cannot live together peacefully.
 
@@ -62,7 +62,7 @@ First and foremost, both animals need a lot of space to roam and explore. A stur
 
 You should also take care to provide plenty of food and water, as well as regular opportunities to socialize with their herd or family.
 
-On top of that, you should make sure that your animal gets regular veterinary check-ups in order to catch any health problems early on.
+What's more, you should make sure that your animal gets regular veterinary check-ups in order to catch any health problems early on.
 
 Overall, these tips will help you ensure that your pygmy goat and mini pig live healthy, happy lives.
 
@@ -110,7 +110,7 @@ The best way to prevent health problems in pygmy goats and mini pigs is to give 
 
 This includes providing them with a clean and comfortable shelter, fresh food and water, and plenty of space to exercise.
 
-Pygmy goats and mini pigs are also susceptible to some common health problems, so it is crucial to be aware of the [signs and symptoms](/can-a-goat-bag-up-without-being-pregnant/) of these conditions.
+Pygmy goats and mini pigs are also susceptible to some common health problems, so it is crucial to be aware of the signs and symptoms of these conditions.
 
 Some of the most common health problems that can affect pygmy goats and mini pigs include parasites, respiratory infections, and joint disorders.
 

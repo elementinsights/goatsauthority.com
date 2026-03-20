@@ -46,7 +46,7 @@ In this article, we will answer these questions and take a closer look at what h
 
 However, these animals are usually sterile and cannot reproduce. This is because the combination of DNA from two different species is often incompatible and cannot produce viable offspring.
 
-Interspecies genetic engineering is a controversial practice, and it's currently banned in many countries. You may also be interested in learning whether [a goat can breed with sheep](/can-a-goat-breed-with-sheep/) through natural mating. Despite that, some scientists believe that it could be used in the future to create new and unique animals for research or even for pets.
+Interspecies genetic engineering is a controversial practice, and it's currently banned in many countries. You may also be interested in learning whether [a goat can breed with sheep](/can-a-goat-breed-with-sheep/) through natural mating. Then again, some scientists believe that it could be used in the future to create new and unique animals for research or even for pets.
 
 ## What happens when two different species' DNA are combined?
 
@@ -68,7 +68,7 @@ For example, a gene for resistance to a particular disease could be inserted int
 
 In recent years, the use of genetic engineering has become more controversial, as some people worry about the risks involved in manipulating genes.
 
-Despite that, the potential benefits of this technology are significant, and it's likely that we will see more and more applications for it in the future.
+At the same time, the potential benefits of this technology are significant, and it's likely that we will see more and more applications for it in the future.
 
 ## How were animals created using genetic engineering techniques?
 
@@ -104,7 +104,7 @@ This is a difficult question to answer. On the one hand, there are potential ben
 
 On the other hand, there are also some potential drawbacks, such as the possibility of something going wrong during the process or the engineered animals escaping and mating with wild populations.
 
-Ultimately, this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether [a goat can bag up without being pregnant](/can-a-goat-bag-up-without-being-pregnant/) to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
+Ultimately, this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether a goat can bag up without being pregnant to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
 
 In addition, it's important to consider the ethical implications of this process. Some people may object to the idea of manipulating genes, regardless of the potential benefits.
 

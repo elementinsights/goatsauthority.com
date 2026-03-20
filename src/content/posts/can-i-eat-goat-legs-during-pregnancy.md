@@ -55,7 +55,7 @@ Despite the fact that you can eat goat legs during pregnancy, you should always 
 
 There are many different benefits to eating goat legs during pregnancy. For starters, goat meat is a high-quality protein source, which supports the needs of both [pregnant women](/can-i-eat-goat-intestine-during-pregnancy/) and growing fetuses.
 
-On top of that, eating goat legs can help boost immune function and protect against certain diseases. Moreover, research suggests that goat meat may help reduce complications during pregnancy, including preeclampsia and gestational diabetes.
+Similarly, eating goat legs can help boost immune function and protect against certain diseases. Moreover, research suggests that goat meat may help reduce complications during pregnancy, including preeclampsia and gestational diabetes.
 
 And because it is so nutrient-dense, eating goat legs can help ensure that both mom and baby get all of the vitamins and minerals they need to stay healthy throughout the course of pregnancy.
 

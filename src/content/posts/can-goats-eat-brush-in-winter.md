@@ -48,7 +48,7 @@ In this article, we will answer those questions for you, as well as provide some
 
 ## Can goats eat brush in winter?
 
-Despite that, it's important to make sure that [goats have access to other food sources](/can-sheep-eat-goat-food/), such as hay and grain. This is because the plants they eat may not have all the nutrients they need.
+That said, it's important to make sure that [goats have access to other food sources](/can-sheep-eat-goat-food/), such as hay and grain. This is because the plants they eat may not have all the nutrients they need.
 
 ## What types of brush can goats eat in the wintertime?
 
@@ -64,7 +64,7 @@ These include grasses, herbs, and clovers. Each of these [plants provides goats]
 
 In the winter, goats can be a valuable asset in controlling brush growth. By selectively grazing on woody vegetation, goats can help to prevent the spread of invasive species and maintain healthy ecosystems.
 
-On top of that, their browsing helps to promote the growth of new plants and improve the overall health of the landscape. Furthermore, goats can provide valuable manure that can be used to fertilize crops or gardens.
+Another thing to note is their browsing helps to promote the growth of new plants and improve the overall health of the landscape. Furthermore, goats can provide valuable manure that can be used to fertilize crops or gardens.
 
 And because they are able to reach higher branches, goats can also help to control height levels in an area, making it easier for people and animals to move around. As a result, goats can provide a number of important benefits when it comes to managing landscape vegetation.
 
@@ -88,7 +88,7 @@ Firstly, goats can damage the plant by chewing on the bark or stems. This can le
 
 Secondly, [goats may consume poisonous plants that can cause serious health problems](/can-alfalfa-pellets-cause-goats-to-bloat/). If you have goats on your property, it's crucial to make sure that they have access to plenty of hay or other forage so that they are less likely to nibble on potentially dangerous plants.
 
-On top of that, it's crucial to keep an eye on the goats when they are grazing. If you notice them eating something that you think may be harmful, please [contact a goat expert](/contact/) or other animal expert for advice.
+Also, it's crucial to keep an eye on the goats when they are grazing. If you notice them eating something that you think may be harmful, please [contact a veterinarian](/contact/) or other animal expert for advice.
 
 ## What should goat owners do if their goats don't want to eat brush in winter?
 
@@ -118,9 +118,9 @@ By taking the [time to ensure that your goats are getting the nutrients they nee
 
 Not all goats can eat brush in winter. Some goats may be too small or may not have the right type of teeth for grazing on woody plants.
 
-On top of that, some [goats may be less tolerant of cold weather](/can-goats-die-in-cold-weather/) and may prefer to stay indoors during the winter months.
+Also, some [goats may be less tolerant of cold weather](/can-goats-die-in-cold-weather/) and may prefer to stay indoors during the winter months.
 
-If you're not sure whether your goat can eat brush in winter, it's best to consult with a goat expert or other animal expert. They will be able to assess your goat's individual needs and make recommendations accordingly.
+If you're not sure whether your goat can eat brush in winter, it's best to consult with a veterinarian or other animal expert. They will be able to assess your goat's individual needs and make recommendations accordingly.
 
 ## Final Thoughts
 
@@ -128,4 +128,4 @@ Goats can eat brush in winter, but there are some risks associated with this beh
 
 If you have goats on your property, it's important to make sure that they have access to plenty of hay or other forage so that they are less likely to nibble on potentially dangerous plants.
 
-In addition, you need to keep an eye on the goats when they are grazing. If you notice them eating something that you think may be harmful, please contact a goat expert or other animal expert for advice.
+In addition, you need to keep an eye on the goats when they are grazing. If you notice them eating something that you think may be harmful, please contact a veterinarian or other animal expert for advice.

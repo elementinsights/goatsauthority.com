@@ -84,7 +84,7 @@ So, while a little cooked white rice might not hurt your baby goat, it's best to
 
 it's generally safe for a lactating goat to eat cooked white rice. Rice is a good source of energy and essential nutrients, and it can help to increase milk production.
 
-Despite that, it's important to cook the rice thoroughly before feeding it to goats, as uncooked rice can contain bacteria that can cause illness. Additionally, [goats should not eat too much rice](/can-goats-eat-grapes/), as it can cause stomach upset.
+Then again, it's important to cook the rice thoroughly before feeding it to goats, as uncooked rice can contain bacteria that can cause illness. Additionally, [goats should not eat too much rice](/can-goats-eat-grapes/), as it can cause stomach upset.
 
 When feeding rice to goats, it's best to mix it with other food items such as hay or pellets. This will help ensure that the goat gets a balanced diet and prevents them from overheating.
 
@@ -92,7 +92,7 @@ When feeding rice to goats, it's best to mix it with other food items such as ha
 
 Not all goats can eat cooked white rice. In fact, most goats should not eat cooked white rice because it's not easily digestible and can cause stomach upset.
 
-Despite that, there are a few goat breeds that are known to be able to digest cooked white rice without any problems. These breeds include the Alpine, LaMancha, Nubian, and Oberhasli.
+With that in mind, there are a few goat breeds that are known to be able to digest cooked white rice without any problems. These breeds include the Alpine, LaMancha, Nubian, and Oberhasli.
 
 While all other goat breeds should avoid eating cooked white rice, these four breeds can safely consume it as part of their diet. Regardless of breed, all goats can enjoy safer treats like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/).
 
