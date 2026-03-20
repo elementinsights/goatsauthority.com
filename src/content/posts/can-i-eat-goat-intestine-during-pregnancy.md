@@ -4,7 +4,7 @@ description: "It is difficult to determine whether you can eat goat intestine du
 category: "food"
 postType: "guide"
 publishDate: 2022-10-12
-updatedDate: 2026-03-19
+updatedDate: 2026-03-12
 author: "Jake Holloway"
 image: "/images/posts/can-i-eat-goat-intestine-during-pregnancy.webp"
 imageAlt: "Can I Eat Goat Intestine During Pregnancy?"

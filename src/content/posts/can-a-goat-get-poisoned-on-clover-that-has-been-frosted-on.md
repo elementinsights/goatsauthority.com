@@ -4,7 +4,7 @@ description: "People often ask whether or not their goats can get poisoned if th
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02
-updatedDate: 2026-03-19
+updatedDate: 2026-03-13
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on.webp"
 imageAlt: "Can a Goat Get Poisoned on Clover That Has Been Frosted on?"

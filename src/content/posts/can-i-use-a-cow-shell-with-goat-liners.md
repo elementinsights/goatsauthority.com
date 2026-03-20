@@ -4,7 +4,7 @@ description: "Taking care of animals is a big responsibility. As a farmer, you w
 category: "training"
 postType: "guide"
 publishDate: 2022-11-18
-updatedDate: 2026-03-19
+updatedDate: 2026-03-03
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-a-cow-shell-with-goat-liners.webp"
 imageAlt: "Can I Use A Cow Shell With Goat Liners?"

@@ -4,7 +4,7 @@ description: "You may be wondering if it's safe to give your goat Benadryl or no
 category: "health"
 postType: "guide"
 publishDate: 2022-08-28
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-benadryl-hurt-a-goat.webp"
 imageAlt: "Can Benadryl Hurt a Goat?"

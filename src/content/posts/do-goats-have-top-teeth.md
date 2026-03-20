@@ -4,7 +4,7 @@ description: "Do goats have top teeth? That’s a question that has been puzzlin
 category: "health"
 postType: "guide"
 publishDate: 2022-08-03
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/do-goats-have-top-teeth.webp"
 imageAlt: "Do Goats Have Top Teeth?"

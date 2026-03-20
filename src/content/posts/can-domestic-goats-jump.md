@@ -4,7 +4,7 @@ description: "Taking care of domestic goats is a delicate task that requires a l
 category: "training"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-02-16
 author: "Jake Holloway"
 image: "/images/posts/can-domestic-goats-jump.webp"
 imageAlt: "Can Domestic Goats Jump?"

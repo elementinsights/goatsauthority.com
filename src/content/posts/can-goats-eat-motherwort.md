@@ -4,7 +4,7 @@ description: "Taking care of a goat can be a fun and rewarding experience. Goats
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21
-updatedDate: 2026-03-19
+updatedDate: 2026-01-22
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-motherwort.webp"
 imageAlt: "Can Goats Eat Motherwort?"

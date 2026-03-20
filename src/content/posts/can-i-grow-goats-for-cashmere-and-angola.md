@@ -4,7 +4,7 @@ description: "Taking care of goats can be a rewarding experience, and can even t
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-26
-updatedDate: 2026-03-19
+updatedDate: 2026-01-22
 author: "Jake Holloway"
 image: "/images/posts/can-i-grow-goats-for-cashmere-and-angola.webp"
 imageAlt: "Can I Grow Goats For Cashmere And Angola?"

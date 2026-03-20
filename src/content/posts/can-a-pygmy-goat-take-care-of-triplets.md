@@ -4,7 +4,7 @@ description: "Many people think pygmy goats make great pets because they are so 
 category: "health"
 postType: "guide"
 publishDate: 2022-08-24
-updatedDate: 2026-03-19
+updatedDate: 2026-02-14
 author: "Jake Holloway"
 image: "/images/posts/can-a-pygmy-goat-take-care-of-triplets.webp"
 imageAlt: "Can a Pygmy Goat Take Care of Triplets?"

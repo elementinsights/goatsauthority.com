@@ -4,7 +4,7 @@ description: "Taking care of goats means providing them with a diet that is not 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-31
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-kohlrabi.webp"
 imageAlt: "Can Goats Eat Kohlrabi?"

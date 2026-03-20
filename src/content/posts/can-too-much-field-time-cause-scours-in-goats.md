@@ -4,7 +4,7 @@ description: "You may be wondering whether too much field time can cause scours 
 category: "health"
 postType: "guide"
 publishDate: 2023-01-03
-updatedDate: 2026-03-19
+updatedDate: 2026-03-09
 author: "Jake Holloway"
 image: "/images/posts/can-too-much-field-time-cause-scours-in-goats.webp"
 imageAlt: "Can Too Much Field Time Cause Scours In Goats"

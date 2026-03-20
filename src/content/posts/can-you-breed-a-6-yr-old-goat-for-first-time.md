@@ -4,7 +4,7 @@ description: "We all know how important it is to get our animals spayed or neute
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-13
-updatedDate: 2026-03-19
+updatedDate: 2026-02-04
 author: "Jake Holloway"
 image: "/images/posts/can-you-breed-a-6-yr-old-goat-for-first-time.webp"
 imageAlt: "Can You Breed A 6 yr Old Goat For First Time?"

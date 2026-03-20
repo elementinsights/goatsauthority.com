@@ -4,7 +4,7 @@ description: "Can a goat climb trees? It's a valid question, considering that th
 category: "training"
 postType: "guide"
 publishDate: 2022-07-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-12
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-climb-trees.webp"
 imageAlt: "Can a Goat Climb Trees?"

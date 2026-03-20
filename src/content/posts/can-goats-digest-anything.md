@@ -4,7 +4,7 @@ description: "You might be curious about whether or not goats can digest food. I
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-03-14
 author: "Jake Holloway"
 image: "/images/posts/can-goats-digest-anything.webp"
 imageAlt: "Can Goats Digest Anything?"

@@ -4,7 +4,7 @@ description: "You might be considering whether or not you can teach your baby go
 category: "training"
 postType: "guide"
 publishDate: 2022-08-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-07
 author: "Jake Holloway"
 image: "/images/posts/can-baby-goats-be-house-trained.webp"
 imageAlt: "Can Baby Goats be House Trained?"

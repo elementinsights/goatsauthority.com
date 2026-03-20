@@ -4,7 +4,7 @@ description: "The food of goats is a subject that interests a lot of people. Som
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-11
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-corn-on-the-cob.webp"
 imageAlt: "Can Goats Eat Corn On The Cob?"

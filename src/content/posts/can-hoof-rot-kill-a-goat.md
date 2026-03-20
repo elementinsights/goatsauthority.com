@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not hoof rot can kill a go
 category: "health"
 postType: "guide"
 publishDate: 2022-10-09
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-hoof-rot-kill-a-goat.webp"
 imageAlt: "Can Hoof Rot Kill A Goat?"

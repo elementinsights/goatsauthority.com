@@ -4,7 +4,7 @@ description: "A lot of people are wondering if it's okay to keep their goats out
 category: "health"
 postType: "guide"
 publishDate: 2022-09-06
-updatedDate: 2026-03-19
+updatedDate: 2026-02-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-be-outside-in-winter.webp"
 imageAlt: "Can Goats Be Outside In Winter?"

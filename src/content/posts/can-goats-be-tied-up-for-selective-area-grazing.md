@@ -4,7 +4,7 @@ description: "Goats are amazing animals, as we all know. They make excellent fri
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-02-11
 author: "Jake Holloway"
 image: "/images/posts/can-goats-be-tied-up-for-selective-area-grazing.webp"
 imageAlt: "Can Goats Be Tied Up For Selective Area Grazing?"

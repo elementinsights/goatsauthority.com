@@ -4,7 +4,7 @@ description: "Taking care of a pet goat may be enjoyable and fulfilling. Interes
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12
-updatedDate: 2026-03-19
+updatedDate: 2026-03-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-casaba-melon.webp"
 imageAlt: "Can Goats Eat Casaba Melon?"

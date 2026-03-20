@@ -4,7 +4,7 @@ description: "Many people believe that the only important part of animal husband
 category: "housing"
 postType: "guide"
 publishDate: 2023-01-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-weather-affect-goats-poop.webp"
 imageAlt: "Can Weather Affect Goats Poop?"

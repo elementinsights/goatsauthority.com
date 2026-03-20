@@ -4,7 +4,7 @@ description: "In Monroe County, NY, the debate over whether or not goats are all
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-31
-updatedDate: 2026-03-19
+updatedDate: 2026-01-01
 author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-in-monroe-county-ny.webp"
 imageAlt: "Can I Have Goats In Monroe County NY?"

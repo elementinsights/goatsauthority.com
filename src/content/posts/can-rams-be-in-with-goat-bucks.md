@@ -4,7 +4,7 @@ description: "It is difficult to determine if rams can be in with goat bucks or 
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-17
 author: "Jake Holloway"
 image: "/images/posts/can-rams-be-in-with-goat-bucks.webp"
 imageAlt: "Can Rams Be In With Goat Bucks?"

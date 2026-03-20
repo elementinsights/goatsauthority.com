@@ -4,7 +4,7 @@ description: "Many people are curious about the possibility of mixing different 
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-11
-updatedDate: 2026-03-19
+updatedDate: 2026-02-10
 author: "Jake Holloway"
 image: "/images/posts/can-nigerian-dwarf-goats-be-with-nubians.webp"
 imageAlt: "Can Nigerian Dwarf Goats Be With Nubians"

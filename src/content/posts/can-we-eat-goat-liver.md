@@ -4,7 +4,7 @@ description: "It is difficult to determine whether eating goat liver is safe or 
 category: "food"
 postType: "guide"
 publishDate: 2023-01-07
-updatedDate: 2026-03-19
+updatedDate: 2026-02-08
 author: "Jake Holloway"
 image: "/images/posts/can-we-eat-goat-liver.webp"
 imageAlt: "Can We Eat Goat Liver?"

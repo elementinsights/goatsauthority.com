@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not male goats can eat gra
 category: "health"
 postType: "guide"
 publishDate: 2022-12-04
-updatedDate: 2026-03-19
+updatedDate: 2026-03-18
 author: "Jake Holloway"
 image: "/images/posts/can-male-goats-eat-grain.webp"
 imageAlt: "Can Male Goats Eat Grain?"

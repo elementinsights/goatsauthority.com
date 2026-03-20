@@ -4,7 +4,7 @@ description: "We all know that tobacco plants are harmful to human health. But h
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-19
-updatedDate: 2026-03-19
+updatedDate: 2026-02-16
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-indian-tobacco-plants.webp"
 imageAlt: "Can Goats Eat Indian Tobacco Plants?"

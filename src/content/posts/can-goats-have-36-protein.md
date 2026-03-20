@@ -4,7 +4,7 @@ description: "We all know that goats are one of the healthiest animals out there
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29
-updatedDate: 2026-03-19
+updatedDate: 2026-03-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-have-36-protein.webp"
 imageAlt: "Can Goats Have 36 Protein Block?"

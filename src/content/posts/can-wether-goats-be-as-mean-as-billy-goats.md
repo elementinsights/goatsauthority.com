@@ -4,7 +4,7 @@ description: "You may be wondering whether or not wether goats can be as mean as
 category: "safety"
 postType: "guide"
 publishDate: 2023-01-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-18
 author: "Jake Holloway"
 image: "/images/posts/can-wether-goats-be-as-mean-as-billy-goats.webp"
 imageAlt: "Can Wether Goats Be As Mean As Billy Goats?"

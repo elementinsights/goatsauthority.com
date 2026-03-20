@@ -4,7 +4,7 @@ description: "You may be wondering whether you can have goats in the City of Lor
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-02
-updatedDate: 2026-03-19
+updatedDate: 2026-02-19
 author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-in-the-city-of-lorain-ohio.webp"
 imageAlt: "Can I Have Goats In The City Of Lorain Ohio?"

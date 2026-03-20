@@ -4,7 +4,7 @@ description: "It can be difficult to take care of both a dog and a pygmy goat, s
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-01-11
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-and-pygmy-goats-live-together.webp"
 imageAlt: "Can Dogs and Pygmy Goats Live Together?"

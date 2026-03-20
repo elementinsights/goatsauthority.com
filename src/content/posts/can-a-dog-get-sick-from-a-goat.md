@@ -4,7 +4,7 @@ description: "Dogs have been used to herd goats, and both animals have benefited
 category: "health"
 postType: "guide"
 publishDate: 2022-07-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-a-dog-get-sick-from-a-goat.webp"
 imageAlt: "Can a Dog Get Sick From a Goat?"

@@ -4,7 +4,7 @@ description: "As a goat owner, I often wonder about the diet of my four-legged f
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-25
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-dog-food.webp"
 imageAlt: "Can Goats Eat Dog Food?"

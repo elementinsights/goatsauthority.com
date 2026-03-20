@@ -4,7 +4,7 @@ description: "Have you ever looked at a goat and wondered what it can eat? It’
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-brussel-sprouts.webp"
 imageAlt: "Can Goats Eat Brussel Sprouts?"

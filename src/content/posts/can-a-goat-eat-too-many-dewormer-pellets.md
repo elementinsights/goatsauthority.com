@@ -4,7 +4,7 @@ description: "Goats' digestive systems are pretty tough and you may be wondering
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02
-updatedDate: 2026-03-19
+updatedDate: 2026-01-30
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-eat-too-many-dewormer-pellets.webp"
 imageAlt: "Can A Goat Eat Too Many Dewormer Pellets?"

@@ -4,7 +4,7 @@ description: "We all know that goats are very curious creatures. They will try t
 category: "health"
 postType: "guide"
 publishDate: 2022-11-16
-updatedDate: 2026-03-19
+updatedDate: 2026-01-07
 author: "Jake Holloway"
 image: "/images/posts/can-i-suture-my-goat.webp"
 imageAlt: "Can I Suture My Goat?"

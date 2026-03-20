@@ -4,7 +4,7 @@ description: "You may be wondering if you can drink goat milk if you're allergic
 category: "health"
 postType: "guide"
 publishDate: 2022-12-31
-updatedDate: 2026-03-19
+updatedDate: 2026-02-06
 author: "Jake Holloway"
 image: "/images/posts/can-someone-allergic-to-milk-use-goats-milk.webp"
 imageAlt: "Can Someone Allergic To Milk Use Goats Milk?"

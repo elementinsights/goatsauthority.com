@@ -4,7 +4,7 @@ description: "Breeding goats can be a lucrative and enjoyable endeavor, but it's
 category: "health"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-pass-afterbirth-between-kids.webp"
 imageAlt: "Can a Goat Pass Afterbirth Between Kids?"

@@ -4,7 +4,7 @@ description: "We all know that goats are curious creatures. It's one of the thin
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-23
-updatedDate: 2026-03-19
+updatedDate: 2026-03-17
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pumpkin-leaves.webp"
 imageAlt: "Can Goats Eat Pumpkin Leaves?"

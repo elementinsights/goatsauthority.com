@@ -4,7 +4,7 @@ description: "You may be wondering whether pregnant goats can eat medicated feed
 category: "health"
 postType: "guide"
 publishDate: 2022-12-19
-updatedDate: 2026-03-19
+updatedDate: 2026-01-02
 author: "Jake Holloway"
 image: "/images/posts/can-pregnant-goats-eat-medicated-feed.webp"
 imageAlt: "Can Pregnant Goats Eat Medicated Feed?"

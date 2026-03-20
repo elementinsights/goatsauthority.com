@@ -4,7 +4,7 @@ description: "Many people are interested in learning if a goat can consume straw
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-strawberries.webp"
 imageAlt: "Can Goats Eat Strawberries?"

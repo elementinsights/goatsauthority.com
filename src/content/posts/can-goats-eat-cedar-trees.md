@@ -4,7 +4,7 @@ description: "Many people enjoy keeping goats as pets. Goats are interesting ani
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-12
-updatedDate: 2026-03-19
+updatedDate: 2026-03-12
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cedar-trees.webp"
 imageAlt: "Can Goats Eat Cedar Trees?"

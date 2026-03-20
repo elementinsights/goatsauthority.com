@@ -4,7 +4,7 @@ description: "You may be wondering if goats can love humans or not. And if so, w
 category: "training"
 postType: "guide"
 publishDate: 2022-10-04
-updatedDate: 2026-03-19
+updatedDate: 2026-02-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-love-humans.webp"
 imageAlt: "Can Goats Love Humans?"

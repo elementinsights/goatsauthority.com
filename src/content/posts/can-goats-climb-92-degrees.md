@@ -4,7 +4,7 @@ description: "it's impossible to tell whether goats can climb 92 degrees, and yo
 category: "training"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-02-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-climb-92-degrees.webp"
 imageAlt: "Can Goats Climb 92 Degrees?"

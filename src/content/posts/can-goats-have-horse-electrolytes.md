@@ -4,7 +4,7 @@ description: "Taking care of goats can be a challenging but rewarding experience
 category: "health"
 postType: "guide"
 publishDate: 2022-10-02
-updatedDate: 2026-03-19
+updatedDate: 2026-01-08
 author: "Jake Holloway"
 image: "/images/posts/can-goats-have-horse-electrolytes.webp"
 imageAlt: "Can Goats Have Horse Electrolytes?"

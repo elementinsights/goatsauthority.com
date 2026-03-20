@@ -4,7 +4,7 @@ description: "I’m a goat owner. I love my goats and they are part of my family
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20
-updatedDate: 2026-03-19
+updatedDate: 2026-03-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-carrots.webp"
 imageAlt: "Can Goats Eat Carrots?"

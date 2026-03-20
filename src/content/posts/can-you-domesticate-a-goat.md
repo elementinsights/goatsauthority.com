@@ -4,7 +4,7 @@ description: "We all know that dogs, cats, and parrots can be domesticated, but 
 category: "training"
 postType: "guide"
 publishDate: 2023-01-20
-updatedDate: 2026-03-19
+updatedDate: 2026-02-12
 author: "Jake Holloway"
 image: "/images/posts/can-you-domesticate-a-goat.webp"
 imageAlt: "Can You Domesticate A Goat?"

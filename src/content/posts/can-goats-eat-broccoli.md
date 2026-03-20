@@ -4,7 +4,7 @@ description: "Many people are curious about the benefits of broccoli and whether
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-broccoli.webp"
 imageAlt: "Can Goats Eat Broccoli?"

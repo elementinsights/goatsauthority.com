@@ -4,7 +4,7 @@ description: "Protecting your goat herd from predators is an important part of b
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-raccoons-kill-goat.webp"
 imageAlt: "Can Raccoons Kill Goats?"

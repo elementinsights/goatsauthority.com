@@ -4,7 +4,7 @@ description: "Have you ever watched a goat eat? They seem to enjoy just about an
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-mango.webp"
 imageAlt: "Can Goats Eat Mango?"

@@ -4,7 +4,7 @@ description: "it's difficult to determine whether or not goats can be tethered. 
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-goats-be-tethered.webp"
 imageAlt: "Can Goats Be Tethered?"

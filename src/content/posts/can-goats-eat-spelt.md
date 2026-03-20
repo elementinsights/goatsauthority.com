@@ -4,7 +4,7 @@ description: "Taking care of goats can be a fun and rewarding experience. They a
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26
-updatedDate: 2026-03-19
+updatedDate: 2026-01-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-spelt.webp"
 imageAlt: "Can Goats Eat Spelt?"

@@ -4,7 +4,7 @@ description: "Taking care of goats can be a very rewarding experience. If you ar
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-17
-updatedDate: 2026-03-19
+updatedDate: 2026-02-25
 author: "Jake Holloway"
 image: "/images/posts/where-did-toggenburg-goats-originate.webp"
 imageAlt: "Where Did Toggenburg Goats Originate?"

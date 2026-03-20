@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not goats can pull a plow.
 category: "training"
 postType: "guide"
 publishDate: 2022-10-05
-updatedDate: 2026-03-19
+updatedDate: 2026-02-27
 author: "Jake Holloway"
 image: "/images/posts/can-goats-pull-a-plow.webp"
 imageAlt: "Can Goats Pull A Plow?"

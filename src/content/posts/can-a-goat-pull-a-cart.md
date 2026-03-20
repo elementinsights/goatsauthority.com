@@ -4,7 +4,7 @@ description: "Farmers have long used animals to help with farming tasks, from pl
 category: "training"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-pull-a-cart.webp"
 imageAlt: "Can a Goat Pull a Cart?"

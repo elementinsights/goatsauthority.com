@@ -4,7 +4,7 @@ description: "You may be wondering whether you can use pine chips as bedding for
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-17
-updatedDate: 2026-03-19
+updatedDate: 2026-02-08
 author: "Jake Holloway"
 image: "/images/posts/can-pine-chips-be-used-as-bedding-for-goats.webp"
 imageAlt: "Can Pine Chips Be Used As Bedding For Goats?"

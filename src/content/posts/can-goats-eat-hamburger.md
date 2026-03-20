@@ -4,7 +4,7 @@ description: "We all know that goats are browsers, and their necessity for a var
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16
-updatedDate: 2026-03-19
+updatedDate: 2026-03-09
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-hamburger.webp"
 imageAlt: "Can Goats Eat Hamburgers?"

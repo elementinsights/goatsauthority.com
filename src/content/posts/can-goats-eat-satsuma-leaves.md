@@ -4,7 +4,7 @@ description: "We all know that goat's digestive systems are different from ours.
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-12
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-satsuma-leaves.webp"
 imageAlt: "Can Goats Eat Satsuma Leaves?"

@@ -4,7 +4,7 @@ description: "We all know that goats are pretty special animals. They're known f
 category: "health"
 postType: "guide"
 publishDate: 2022-10-16
-updatedDate: 2026-03-19
+updatedDate: 2026-01-02
 author: "Jake Holloway"
 image: "/images/posts/do-goats-have-cloven-hooves.webp"
 imageAlt: "Do Goats Have Cloven Hooves?"

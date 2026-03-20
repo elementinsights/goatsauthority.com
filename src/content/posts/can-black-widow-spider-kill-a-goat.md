@@ -4,7 +4,7 @@ description: "Goats are well-known for being incredibly hardy creatures. They ca
 category: "health"
 postType: "guide"
 publishDate: 2022-08-29
-updatedDate: 2026-03-19
+updatedDate: 2026-01-06
 author: "Jake Holloway"
 image: "/images/posts/can-black-widow-spider-kill-a-goat.webp"
 imageAlt: "Can Black Widow Spider Kill a Goat?"

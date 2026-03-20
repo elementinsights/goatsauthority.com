@@ -4,7 +4,7 @@ description: "You may be wondering whether you can give your goats human fish pi
 category: "health"
 postType: "guide"
 publishDate: 2022-10-24
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-i-give-my-goats-human-fish-pills.webp"
 imageAlt: "Can I Give My Goats Human Fish Pills?"

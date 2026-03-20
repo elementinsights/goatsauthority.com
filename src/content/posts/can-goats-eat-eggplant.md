@@ -4,7 +4,7 @@ description: "Have you ever wondered what foods are safe for your goat to eat? A
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-29
-updatedDate: 2026-03-19
+updatedDate: 2026-01-26
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-eggplant.webp"
 imageAlt: "Can Goats Eat Eggplant?"

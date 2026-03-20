@@ -4,7 +4,7 @@ description: "We all know that different animals have different needs when it co
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-05
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-pigs-and-chickens-live-in-the-same-barn.webp"
 imageAlt: "Can Goats Pigs and Chickens Live In The Same Barn?"

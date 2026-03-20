@@ -4,7 +4,7 @@ description: "You may be wondering if you can mix newborn and older goats in the
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-07
-updatedDate: 2026-03-19
+updatedDate: 2026-03-04
 author: "Jake Holloway"
 image: "/images/posts/can-i-mix-newborn-goats-and-older-goats.webp"
 imageAlt: "Can I Mix Newborn Goats And Older Goats?"

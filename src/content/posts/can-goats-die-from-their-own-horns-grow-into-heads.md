@@ -4,7 +4,7 @@ description: "We all know that goats are pretty tough animals. But can they actu
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-goats-die-from-their-own-horns-grow-into-heads.webp"
 imageAlt: "Can Goats Die From Their Own Horns Grow Into Heads?"

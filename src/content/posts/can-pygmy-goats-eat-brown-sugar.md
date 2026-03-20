@@ -4,7 +4,7 @@ description: "You may be wondering if your pygmy goat can eat brown sugar or not
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-22
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-eat-brown-sugar.webp"
 imageAlt: "Can Pygmy Goats Eat Brown Sugar?"

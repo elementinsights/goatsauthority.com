@@ -4,7 +4,7 @@ description: "Taking care of goats is a big responsibility, but it can be very r
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-16
-updatedDate: 2026-03-19
+updatedDate: 2026-01-17
 author: "Jake Holloway"
 image: "/images/posts/can-people-ride-goats.webp"
 imageAlt: "Can People Ride Goats?"

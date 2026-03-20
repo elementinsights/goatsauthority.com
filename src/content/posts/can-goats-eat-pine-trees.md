@@ -4,7 +4,7 @@ description: "Pine trees are a popular source of food for most animals since the
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-16
-updatedDate: 2026-03-19
+updatedDate: 2026-02-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pine-trees.webp"
 imageAlt: "Can Goats Eat Pine Trees?"

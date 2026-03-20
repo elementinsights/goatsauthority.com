@@ -4,7 +4,7 @@ description: "Taking care of goats is an important part of any farm. To keep the
 category: "health"
 postType: "guide"
 publishDate: 2023-01-25
-updatedDate: 2026-03-19
+updatedDate: 2026-01-01
 author: "Jake Holloway"
 image: "/images/posts/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats.webp"
 imageAlt: "Can You Do Oral And Injection Of Ivermectin At The Same Time In Goats?"

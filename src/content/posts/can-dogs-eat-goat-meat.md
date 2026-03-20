@@ -4,7 +4,7 @@ description: "it's difficult to determine whether or not goat meat is safe for d
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-eat-goat-meat.webp"
 imageAlt: "Can Dogs Eat Goat Meat?"

@@ -4,7 +4,7 @@ description: "As you may or may not know, baby goats are absolutely adorable. In
 category: "housing"
 postType: "guide"
 publishDate: 2022-07-25
-updatedDate: 2026-03-19
+updatedDate: 2026-01-04
 author: "Jake Holloway"
 image: "/images/posts/can-8-week-old-baby-goats-be-in-with-each-other.webp"
 imageAlt: "Can 8 Week Old Baby Goats Be in With Each Other?"

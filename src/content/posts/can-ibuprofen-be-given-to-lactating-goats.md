@@ -4,7 +4,7 @@ description: "Taking care of lactating goats can be a rewarding experience. Howe
 category: "health"
 postType: "guide"
 publishDate: 2022-11-30
-updatedDate: 2026-03-19
+updatedDate: 2026-03-14
 author: "Jake Holloway"
 image: "/images/posts/can-ibuprofen-be-given-to-lactating-goats.webp"
 imageAlt: "Can Ibuprofen Be Given To Lactating Goats?"

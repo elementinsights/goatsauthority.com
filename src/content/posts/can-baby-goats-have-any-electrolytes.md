@@ -4,7 +4,7 @@ description: "When it comes to baby goats, many people are curious about their h
 category: "health"
 postType: "guide"
 publishDate: 2022-08-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-16
 author: "Jake Holloway"
 image: "/images/posts/can-baby-goats-have-any-electrolytes.webp"
 imageAlt: "Can Baby Goats Have Any Electrolytes?"

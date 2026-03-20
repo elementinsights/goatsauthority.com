@@ -4,7 +4,7 @@ description: "You may be wondering whether old goats can develop rickets or not.
 category: "health"
 postType: "guide"
 publishDate: 2022-12-13
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-old-goats-develop-rickets.webp"
 imageAlt: "Can Old Goats Develop Rickets?"

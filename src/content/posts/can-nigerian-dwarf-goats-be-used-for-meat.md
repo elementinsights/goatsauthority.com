@@ -4,7 +4,7 @@ description: "We all know that Nigerian dwarf goats are amazing little creatures
 category: "food"
 postType: "guide"
 publishDate: 2022-12-10
-updatedDate: 2026-03-19
+updatedDate: 2026-01-27
 author: "Jake Holloway"
 image: "/images/posts/can-nigerian-dwarf-goats-be-used-for-meat.webp"
 imageAlt: "Can Nigerian Dwarf Goats Be Used For Meat?"

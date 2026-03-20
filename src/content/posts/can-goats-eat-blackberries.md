@@ -4,7 +4,7 @@ description: "Have you ever found yourself with a surplus of blackberries and wo
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-29
-updatedDate: 2026-03-19
+updatedDate: 2026-03-07
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-blackberries.webp"
 imageAlt: "Can Goats Eat Blackberries?"

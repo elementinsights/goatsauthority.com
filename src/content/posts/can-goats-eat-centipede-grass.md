@@ -4,7 +4,7 @@ description: "If you live in an area with centipede grass, you may be wondering 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13
-updatedDate: 2026-03-19
+updatedDate: 2026-01-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-centipede-grass.webp"
 imageAlt: "Can Goats Eat Centipede Grass?"

@@ -4,7 +4,7 @@ description: "It’s no secret that raising a baby can be expensive. Between the
 category: "food"
 postType: "guide"
 publishDate: 2022-07-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-a-baby-have-powdered-goats-milk.webp"
 imageAlt: "Can a Baby Have Powdered Goats Milk?"

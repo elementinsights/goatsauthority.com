@@ -4,7 +4,7 @@ description: "You may be wondering if it's safe for your toddler to play with ba
 category: "health"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-a-toddler-catch-a-disease-from-a-baby-goat.webp"
 imageAlt: "Can a Toddler Catch a Disease from a Baby Goat?"

@@ -4,7 +4,7 @@ description: "People who own pygmy goats often wonder if it's okay for them to e
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-23
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-eat-hay.webp"
 imageAlt: "Can Pygmy Goats Eat Hay?"

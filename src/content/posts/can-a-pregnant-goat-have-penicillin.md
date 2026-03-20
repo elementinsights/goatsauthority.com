@@ -4,7 +4,7 @@ description: "When it comes to a pregnant goat, making sure that it has the prop
 category: "breeding"
 postType: "guide"
 publishDate: 2022-07-22
-updatedDate: 2026-03-19
+updatedDate: 2026-02-18
 author: "Jake Holloway"
 image: "/images/posts/can-a-pregnant-goat-have-penicillin.webp"
 imageAlt: "Can a Pregnant Goat Have Penicillin?"

@@ -4,7 +4,7 @@ description: "Water Kefir grains are a type of probiotic that can be used to mak
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-11-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-water-kefir-grains-with-goat-cheese.webp"
 imageAlt: "Can I Use Water Kefir Grains With Goat Cheese?"

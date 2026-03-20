@@ -4,7 +4,7 @@ description: "Many people are unsure whether goats can eat dairy products or not
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-dairy.webp"
 imageAlt: "Can Goats Eat Dairy?"

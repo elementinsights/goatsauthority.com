@@ -4,7 +4,7 @@ description: "Have you ever wondered what goats can eat? As a goat owner, I ofte
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-mushrooms.webp"
 imageAlt: "Can Goats Eat Mushrooms?"

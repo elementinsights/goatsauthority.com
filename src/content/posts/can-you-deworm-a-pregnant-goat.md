@@ -4,7 +4,7 @@ description: "You may be wondering whether you can deworm your pregnant goat or 
 category: "health"
 postType: "guide"
 publishDate: 2023-01-05
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-you-deworm-a-pregnant-goat.webp"
 imageAlt: "Can You Deworm A Pregnant Goat?"

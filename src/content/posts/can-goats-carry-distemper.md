@@ -4,7 +4,7 @@ description: "You may be wondering if goats can carry distemper since it's such 
 category: "health"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-01-30
 author: "Jake Holloway"
 image: "/images/posts/can-goats-carry-distemper.webp"
 imageAlt: "Can Goats Carry Distemper?"

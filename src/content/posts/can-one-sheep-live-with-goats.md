@@ -4,7 +4,7 @@ description: "We all know that sheep and goats are two separate species. But can
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-14
-updatedDate: 2026-03-19
+updatedDate: 2026-02-20
 author: "Jake Holloway"
 image: "/images/posts/can-one-sheep-live-with-goats.webp"
 imageAlt: "Can One Sheep Live With Goats?"

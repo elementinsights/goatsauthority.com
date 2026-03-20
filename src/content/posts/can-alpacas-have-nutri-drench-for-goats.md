@@ -4,7 +4,7 @@ description: "You may be wondering if alpacas can have Nutri Drench for goats si
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-alpacas-have-nutri-drench-for-goats.webp"
 imageAlt: "Can Alpacas Have Nutri Drench for Goats?"

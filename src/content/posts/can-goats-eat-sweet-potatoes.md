@@ -4,7 +4,7 @@ description: "It can be challenging to assess the advantages, drawbacks, and ris
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09
-updatedDate: 2026-03-19
+updatedDate: 2026-03-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-sweet-potatoes.webp"
 imageAlt: "Can Goats Eat Sweet Potatoes?"

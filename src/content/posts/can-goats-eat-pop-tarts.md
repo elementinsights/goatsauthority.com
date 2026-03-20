@@ -4,7 +4,7 @@ description: "Taking care of your goats includes knowing what they can and canno
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-22
-updatedDate: 2026-03-19
+updatedDate: 2026-01-03
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pop-tarts.webp"
 imageAlt: "Can Goats Eat Pop Tarts?"

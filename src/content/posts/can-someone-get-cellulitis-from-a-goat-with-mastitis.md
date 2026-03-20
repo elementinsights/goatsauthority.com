@@ -4,7 +4,7 @@ description: "You may be wondering whether you can get cellulitis from a goat wi
 category: "health"
 postType: "guide"
 publishDate: 2022-12-31
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-someone-get-cellulitis-from-a-goat-with-mastitis.webp"
 imageAlt: "Can Someone Get Cellulitis From A Goat With Mastitis?"

@@ -4,7 +4,7 @@ description: "Taking care of a goat can be a rewarding experience. They are inte
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-11
-updatedDate: 2026-03-19
+updatedDate: 2026-01-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-black-walnut-leaves.webp"
 imageAlt: "Can Goats Eat Black Walnut Leaves?"

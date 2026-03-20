@@ -4,7 +4,7 @@ description: "It can be challenging to take care of trees and goats, but it's wo
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-04
-updatedDate: 2026-03-19
+updatedDate: 2026-01-22
 author: "Jake Holloway"
 image: "/images/posts/can-goat-urine-kill-trees.webp"
 imageAlt: "Can Goat Urine Kill Trees?"

@@ -4,7 +4,7 @@ description: "You may be wondering if you can use cattle dewormer blocks on your
 category: "health"
 postType: "guide"
 publishDate: 2022-09-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-have-cattle-dewormer-blocks.webp"
 imageAlt: "Can Goats Have Cattle Dewormer Blocks?"

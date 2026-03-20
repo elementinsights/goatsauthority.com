@@ -4,7 +4,7 @@ description: "You may be wondering if it's safe to drink milk from goats with ma
 category: "health"
 postType: "guide"
 publishDate: 2023-01-05
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-you-drink-milk-from-goats-with-mastitis.webp"
 imageAlt: "Can You Drink Milk From Goats With Mastitis?"

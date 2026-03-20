@@ -4,7 +4,7 @@ description: "Taking care of goats can be a fun and rewarding experience. Goats 
 category: "training"
 postType: "guide"
 publishDate: 2022-10-03
-updatedDate: 2026-03-19
+updatedDate: 2026-02-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-jump-high.webp"
 imageAlt: "Can Goats Jump High?"

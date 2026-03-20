@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can use Germall plus in go
 category: "health"
 postType: "guide"
 publishDate: 2022-11-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-germall-plus-in-goat-milk-lotion.webp"
 imageAlt: "Can I Use Germall Plus In Goat Milk Lotion?"

@@ -4,7 +4,7 @@ description: "Taking care of goats can be a rewarding experience. But, there are
 category: "health"
 postType: "guide"
 publishDate: 2022-11-23
-updatedDate: 2026-03-19
+updatedDate: 2026-01-11
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-kid-feeding-tube-to-drench-adult-goat.webp"
 imageAlt: "Can I Use Kid Feeding Tube To Drench Adult Goat?"

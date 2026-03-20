@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can get milk at Lucky's Ma
 category: "food"
 postType: "guide"
 publishDate: 2022-10-13
-updatedDate: 2026-03-19
+updatedDate: 2026-01-12
 author: "Jake Holloway"
 image: "/images/posts/can-i-get-goat-milk-at-luckys-market.webp"
 imageAlt: "Can I Get Goat Milk At Lucky's Market?"

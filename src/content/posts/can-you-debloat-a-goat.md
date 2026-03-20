@@ -4,7 +4,7 @@ description: "Many people enjoy taking care of goats as they are low-maintenance
 category: "health"
 postType: "guide"
 publishDate: 2023-01-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-07
 author: "Jake Holloway"
 image: "/images/posts/can-you-debloat-a-goat.webp"
 imageAlt: "Can You Debloat A Goat?"

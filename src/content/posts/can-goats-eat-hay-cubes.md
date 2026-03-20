@@ -4,7 +4,7 @@ description: "We all know that goats are browsers, and their natural diet consis
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16
-updatedDate: 2026-03-19
+updatedDate: 2026-03-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-hay-cubes.webp"
 imageAlt: "Can Goats Eat Hay Cubes?"

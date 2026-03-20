@@ -4,7 +4,7 @@ description: "Taking care of a goat is a challenging but rewarding task. Goats a
 category: "health"
 postType: "guide"
 publishDate: 2022-11-29
-updatedDate: 2026-03-19
+updatedDate: 2026-02-21
 author: "Jake Holloway"
 image: "/images/posts/can-i-wash-and-groom-a-pygmy-goat.webp"
 imageAlt: "Can I Wash And Groom A Pygmy Goat?"

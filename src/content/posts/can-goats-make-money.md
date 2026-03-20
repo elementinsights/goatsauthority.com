@@ -4,7 +4,7 @@ description: "We all know that goats are adorable creatures. But have you ever w
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-04
-updatedDate: 2026-03-19
+updatedDate: 2026-01-25
 author: "Jake Holloway"
 image: "/images/posts/can-goats-make-money.webp"
 imageAlt: "Can Goats Make Money?"

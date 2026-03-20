@@ -4,7 +4,7 @@ description: "Taking care of a goat may be enjoyable and rewarding. You might be
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14
-updatedDate: 2026-03-19
+updatedDate: 2026-01-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cooked-white-rice.webp"
 imageAlt: "Can Goats Eat Cooked White Rice?"

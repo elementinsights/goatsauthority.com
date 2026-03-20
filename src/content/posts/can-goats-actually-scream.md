@@ -4,7 +4,7 @@ description: "Taking care of our little farm animals is a great responsibility. 
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-05
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-actually-scream.webp"
 imageAlt: "Can Goats Actually Scream?"

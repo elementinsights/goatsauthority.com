@@ -4,7 +4,7 @@ description: "We all know that goats need regular healthcare to stay healthy, bu
 category: "health"
 postType: "guide"
 publishDate: 2023-01-01
-updatedDate: 2026-03-19
+updatedDate: 2026-01-06
 author: "Jake Holloway"
 image: "/images/posts/can-you-disbud-a-goat-without-medication.webp"
 imageAlt: "Can You Disbud A Goat Without Medication?"

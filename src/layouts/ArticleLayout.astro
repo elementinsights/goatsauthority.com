@@ -65,16 +65,12 @@ const { title, description, image, activeNav, schema } = Astro.props;
 })();
 </script>
 
-<style is:global>
-  :root { --container: 1122px; }
-</style>
-
 <style>
   .article-wrapper {
     padding-bottom: 60px;
   }
   .article-container {
-    max-width: 1122px;
+    max-width: var(--container);
     margin: 0 auto;
     padding: 0 20px;
   }

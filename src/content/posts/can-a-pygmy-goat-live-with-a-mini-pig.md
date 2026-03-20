@@ -4,7 +4,7 @@ description: "Many people are wondering whether pygmy goats can live with mini p
 category: "safety"
 postType: "guide"
 publishDate: 2022-12-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-a-pygmy-goat-live-with-a-mini-pig.webp"
 imageAlt: "Can A Pygmy Goat Live With A Mini Pig?"

@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can breed angora goats wit
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-15
-updatedDate: 2026-03-19
+updatedDate: 2026-01-27
 author: "Jake Holloway"
 image: "/images/posts/can-you-breed-angora-goats-with-dairy-goats-for-fiber.webp"
 imageAlt: "Can You Breed Angora Goats With Dairy Goats For Fiber?"

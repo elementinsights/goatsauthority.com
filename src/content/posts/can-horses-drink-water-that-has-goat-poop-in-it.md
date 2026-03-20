@@ -4,7 +4,7 @@ description: "Taking care of a horse is a big responsibility. Part of that respo
 category: "health"
 postType: "guide"
 publishDate: 2022-10-10
-updatedDate: 2026-03-19
+updatedDate: 2026-03-01
 author: "Jake Holloway"
 image: "/images/posts/can-horses-drink-water-that-has-goat-poop-in-it.webp"
 imageAlt: "Can Horses Drink Water That Has Goat Poop In It?"

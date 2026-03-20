@@ -4,7 +4,7 @@ description: "You may be wondering whether you can use a rope halter on a goat o
 category: "training"
 postType: "guide"
 publishDate: 2022-11-18
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-a-rope-halter-on-a-goat.webp"
 imageAlt: "Can I Use A Rope Halter On A Goat?"

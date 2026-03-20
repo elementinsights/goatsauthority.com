@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not you can feed your goat
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-i-feed-my-goat-leftovers.webp"
 imageAlt: "Can I Feed My Goat Leftovers?"

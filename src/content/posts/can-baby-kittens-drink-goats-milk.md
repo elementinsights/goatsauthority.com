@@ -4,7 +4,7 @@ description: "When it comes to raising baby kittens, one of the most common ques
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-28
-updatedDate: 2026-03-19
+updatedDate: 2026-03-15
 author: "Jake Holloway"
 image: "/images/posts/can-baby-kittens-drink-goats-milk.webp"
 imageAlt: "Can Baby Kittens Drink Goats Milk?"

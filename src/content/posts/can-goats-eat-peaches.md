@@ -4,7 +4,7 @@ description: "Have you ever wondered about the dietary habits of goats? As a goa
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-26
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-peaches.webp"
 imageAlt: "Can Goats Eat Peaches?"

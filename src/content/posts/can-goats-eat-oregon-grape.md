@@ -4,7 +4,7 @@ description: "We all know that goats love to eat just about anything, but can th
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-oregon-grape.webp"
 imageAlt: "Can Goats Eat Oregon Grape?"

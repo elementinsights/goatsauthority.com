@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not sheep and goats can ea
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-29
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-sheep-and-goats-eat-bread.webp"
 imageAlt: "Can Sheep And Goats Eat Bread?"

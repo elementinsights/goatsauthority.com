@@ -4,7 +4,7 @@ description: "Building a goat barn involves many different considerations. How m
 category: "housing"
 postType: "guide"
 publishDate: 2022-07-29
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-barn-be-12x-2.webp"
 imageAlt: "Can a Goat Barn be 12x 2?"

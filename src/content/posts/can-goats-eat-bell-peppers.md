@@ -4,7 +4,7 @@ description: "Goats are curious creatures and will try to eat just about anythin
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-10
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-bell-peppers.webp"
 imageAlt: "Can Goats Eat Bell Peppers?"

@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not goats can spread lice 
 category: "health"
 postType: "guide"
 publishDate: 2022-10-06
-updatedDate: 2026-03-19
+updatedDate: 2026-01-24
 author: "Jake Holloway"
 image: "/images/posts/can-goats-spread-lice-to-llamas.webp"
 imageAlt: "Can Goats Spread Lice To Llamas?"

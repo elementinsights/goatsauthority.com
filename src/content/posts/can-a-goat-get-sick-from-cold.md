@@ -4,7 +4,7 @@ description: "It’s the middle of winter and you’re worried about your backya
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02
-updatedDate: 2026-03-19
+updatedDate: 2026-02-23
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-get-sick-from-cold.webp"
 imageAlt: "Can a Goat Get Sick From Cold?"

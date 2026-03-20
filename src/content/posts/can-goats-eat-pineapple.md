@@ -4,7 +4,7 @@ description: "Have you ever looked at a pineapple and wondered if your goat can 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pineapple.webp"
 imageAlt: "Can Goats Eat Pineapple?"

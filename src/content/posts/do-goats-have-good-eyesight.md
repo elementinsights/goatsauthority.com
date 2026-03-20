@@ -4,7 +4,7 @@ description: "The saying goes that the eyes are the windows to the soul. But wha
 category: "health"
 postType: "guide"
 publishDate: 2022-08-17
-updatedDate: 2026-03-19
+updatedDate: 2026-01-15
 author: "Jake Holloway"
 image: "/images/posts/do-goats-have-good-eyesight.webp"
 imageAlt: "Do Goats Have Good Eyesight?"

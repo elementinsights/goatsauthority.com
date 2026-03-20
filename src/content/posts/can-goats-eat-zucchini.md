@@ -4,7 +4,7 @@ description: "Are you wondering if zucchini is edible to goats? If so, what are 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-zucchini.webp"
 imageAlt: "Can Goats Eat Zucchini?"

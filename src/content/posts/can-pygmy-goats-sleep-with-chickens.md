@@ -4,7 +4,7 @@ description: "You may be wondering whether or not pygmy goats can sleep with chi
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-25
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-sleep-with-chickens.webp"
 imageAlt: "Can Pygmy Goats Sleep With Chickens?"

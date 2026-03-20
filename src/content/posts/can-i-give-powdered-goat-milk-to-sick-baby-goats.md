@@ -4,7 +4,7 @@ description: "It is difficult to determine whether powdered goat milk is good fo
 category: "health"
 postType: "guide"
 publishDate: 2022-10-25
-updatedDate: 2026-03-19
+updatedDate: 2026-02-21
 author: "Jake Holloway"
 image: "/images/posts/can-i-give-powdered-goat-milk-to-sick-baby-goats.webp"
 imageAlt: "Can I Give Powdered Goat Milk To Sick Baby Goats?"

@@ -4,7 +4,7 @@ description: "Peppers are a popular vegetable that can be eaten raw or cooked. T
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18
-updatedDate: 2026-03-19
+updatedDate: 2026-03-08
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-peppers.webp"
 imageAlt: "Can Goats Eat Peppers?"

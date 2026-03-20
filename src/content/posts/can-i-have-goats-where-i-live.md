@@ -4,7 +4,7 @@ description: "More people are choosing to raise goats for their various benefits
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-30
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-where-i-live.webp"
 imageAlt: "Can I Have Goats Where I Live?"

@@ -4,7 +4,7 @@ description: "Ever had a goat munch on an acorn and wondered if it’s okay? You
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-19
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-acorns.webp"
 imageAlt: "Can Goats Eat Acorns?"

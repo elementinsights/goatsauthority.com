@@ -4,7 +4,7 @@ description: "We all know that goats are versatile creatures. They can be used f
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-02-21
 author: "Jake Holloway"
 image: "/images/posts/can-goats-climb-fences.webp"
 imageAlt: "Can Goats Climb Fences?"

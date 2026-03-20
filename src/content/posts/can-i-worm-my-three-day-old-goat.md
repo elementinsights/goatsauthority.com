@@ -4,7 +4,7 @@ description: "You’re probably familiar with the old saying, “You are what yo
 category: "health"
 postType: "guide"
 publishDate: 2022-11-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-16
 author: "Jake Holloway"
 image: "/images/posts/can-i-worm-my-three-day-old-goat.webp"
 imageAlt: "Can I Worm My Three Day Old Goat? (Healthcare Tips, Facts, FAQs, and More"

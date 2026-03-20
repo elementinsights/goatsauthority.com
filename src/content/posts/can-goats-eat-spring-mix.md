@@ -4,7 +4,7 @@ description: "Feeding goats is a relatively simple process, as they are able to 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26
-updatedDate: 2026-03-19
+updatedDate: 2026-01-31
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-spring-mix.webp"
 imageAlt: "Can Goats Eat Spring Mix?"

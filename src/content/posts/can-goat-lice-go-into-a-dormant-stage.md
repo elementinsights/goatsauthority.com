@@ -4,7 +4,7 @@ description: "You might be curious as to whether goat lice can go dormant. What 
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02
-updatedDate: 2026-03-19
+updatedDate: 2026-02-15
 author: "Jake Holloway"
 image: "/images/posts/can-goat-lice-go-into-a-dormant-stage.webp"
 imageAlt: "Can Goat Lice Go Into a Dormant Stage?"

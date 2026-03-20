@@ -4,7 +4,7 @@ description: "Feeding your goats is an important part of keeping them healthy an
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21
-updatedDate: 2026-03-19
+updatedDate: 2026-01-17
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-mimosa.webp"
 imageAlt: "Can Goats Eat Mimosa?"

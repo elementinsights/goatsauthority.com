@@ -196,7 +196,7 @@ const schema = [
                 <div class="post-card-meta">
                   <span>{post.data.author || siteConfig.author.name}</span>
                   <span>&bull;</span>
-                  <span>{post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+                  <span>{(post.data.updatedDate || post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
                   {post.data.readTime && (
                     <>
                       <span>&bull;</span>
@@ -224,7 +224,7 @@ const schema = [
             posts={latestPosts.slice(0, 5).map(p => ({
               title: p.data.title,
               href: `/${p.id}/`,
-              date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+              date: (p.data.updatedDate || p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
             }))}
           />
         </aside>

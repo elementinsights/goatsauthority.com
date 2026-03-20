@@ -4,7 +4,7 @@ description: "Many people are wondering if goats can cause slope failure or not.
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-01-05
 author: "Jake Holloway"
 image: "/images/posts/can-goats-cause-slope.webp"
 imageAlt: "Can Goats Cause Slope?"

@@ -4,7 +4,7 @@ description: "Have you ever wondered if goats can drink cow milk? I’ve been a 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-12-01
-updatedDate: 2026-03-19
+updatedDate: 2026-03-05
 author: "Jake Holloway"
 image: "/images/posts/can-goats-drink-cow-milk.webp"
 imageAlt: "Can Goats Drink Cow Milk?"

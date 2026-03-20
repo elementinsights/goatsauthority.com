@@ -4,7 +4,7 @@ description: "Taking care of goats can be a very rewarding experience. These ani
 category: "training"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-03-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-be-tamed.webp"
 imageAlt: "Can Goats Be Tamed?"

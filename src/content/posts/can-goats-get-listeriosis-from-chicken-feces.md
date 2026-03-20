@@ -4,7 +4,7 @@ description: "We all know that goats are curious creatures. They will pretty muc
 category: "health"
 postType: "guide"
 publishDate: 2022-09-28
-updatedDate: 2026-03-19
+updatedDate: 2026-02-25
 author: "Jake Holloway"
 image: "/images/posts/can-goats-get-listeriosis-from-chicken-feces.webp"
 imageAlt: "Can Goats Get Listeriosis From Chicken Feces?"

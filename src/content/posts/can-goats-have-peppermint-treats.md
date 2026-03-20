@@ -4,7 +4,7 @@ description: "You may be wondering whether or not your goats can have peppermint
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-02
-updatedDate: 2026-03-19
+updatedDate: 2026-02-21
 author: "Jake Holloway"
 image: "/images/posts/can-goats-have-peppermint-treats.webp"
 imageAlt: "Can Goats Have Peppermint Treats?"

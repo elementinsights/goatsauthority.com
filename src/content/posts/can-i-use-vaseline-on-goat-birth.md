@@ -4,7 +4,7 @@ description: "If you're interested in owning goats, one of the first questions t
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-26
-updatedDate: 2026-03-19
+updatedDate: 2026-03-18
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-vaseline-on-goat-birth.webp"
 imageAlt: "Can I Use Vaseline On Goat Birth?"

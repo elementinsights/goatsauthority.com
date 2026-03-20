@@ -4,7 +4,7 @@ description: "Many dog owners are curious if they can give their pet goat milk f
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-have-goat-formula.webp"
 imageAlt: "Can Dogs Have Goat Formula?"

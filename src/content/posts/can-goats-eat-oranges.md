@@ -4,7 +4,7 @@ description: "Have you ever wondered what kind of fruits goats can eat? As a goa
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-oranges.webp"
 imageAlt: "Can Goats Eat Oranges?"

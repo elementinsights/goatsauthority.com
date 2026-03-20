@@ -4,7 +4,7 @@ description: "We all know that during pregnancy, a woman’s diet is very import
 category: "food"
 postType: "guide"
 publishDate: 2022-10-12
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-i-eat-goat-legs-during-pregnancy.webp"
 imageAlt: "Can I Eat Goat Legs During Pregnancy?"

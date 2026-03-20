@@ -4,7 +4,7 @@ description: "Taking care of a goat in Skippack is a fun and rewarding experienc
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-28
-updatedDate: 2026-03-19
+updatedDate: 2026-01-31
 author: "Jake Holloway"
 image: "/images/posts/can-i-walk-a-goat-in-skippack-pa.webp"
 imageAlt: "Can I Walk A Goat In Skippack PA?"

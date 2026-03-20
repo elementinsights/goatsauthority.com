@@ -4,7 +4,7 @@ description: "Do you own a goat? If so, then you know that their diet is somethi
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-11-21
-updatedDate: 2026-03-19
+updatedDate: 2026-01-02
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-celery.webp"
 imageAlt: "Can Goats Eat Celery?"

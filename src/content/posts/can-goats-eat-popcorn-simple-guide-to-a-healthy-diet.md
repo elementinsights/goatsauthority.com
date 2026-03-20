@@ -4,7 +4,7 @@ description: "I’m a goat owner, just like you. Over the years, I’ve had many
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
-updatedDate: 2026-03-19
+updatedDate: 2026-03-17
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-popcorn-simple-guide-to-a-healthy-diet.webp"
 imageAlt: "Can Goats Eat Popcorn?"

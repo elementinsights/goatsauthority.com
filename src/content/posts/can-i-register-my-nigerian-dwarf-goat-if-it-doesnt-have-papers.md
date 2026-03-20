@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not you can register your 
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-13
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers.webp"
 imageAlt: "Can I Register My Nigerian Dwarf Goat If It Doesn't Have Papers?"

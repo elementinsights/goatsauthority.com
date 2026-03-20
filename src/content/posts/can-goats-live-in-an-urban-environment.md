@@ -4,7 +4,7 @@ description: "We all know that goats are great for eating grass and other plants
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-04
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-goats-live-in-an-urban-environment.webp"
 imageAlt: "Can Goats Live In An Urban Environment?"

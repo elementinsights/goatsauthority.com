@@ -4,7 +4,7 @@ description: "We all know that goats are susceptible to a variety of parasites. 
 category: "health"
 postType: "guide"
 publishDate: 2022-09-28
-updatedDate: 2026-03-19
+updatedDate: 2026-02-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-get-mites.webp"
 imageAlt: "Can Goats Get Mites?"

@@ -4,7 +4,7 @@ description: "We all know that goats are pretty much down for eating anything. B
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-23
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-eat-milkweed.webp"
 imageAlt: "Can Pygmy Goats Eat Milkweed?"

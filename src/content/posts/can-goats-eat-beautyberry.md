@@ -4,7 +4,7 @@ description: "Taking care of goat's nutrition is vital to their health and well-
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-11
-updatedDate: 2026-03-19
+updatedDate: 2026-02-16
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-beautyberry.webp"
 imageAlt: "Can Goats Eat Beautyberry?"

@@ -4,7 +4,7 @@ description: "We all know those goat lice are a problem for our goats, but can y
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02
-updatedDate: 2026-03-19
+updatedDate: 2026-01-27
 author: "Jake Holloway"
 image: "/images/posts/can-goat-lice-live-on-humans.webp"
 imageAlt: "Can Goat Lice Live on Humans?"

@@ -4,7 +4,7 @@ description: "You may be wondering whether or not goats can drink juice. And if 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09
-updatedDate: 2026-03-19
+updatedDate: 2026-02-20
 author: "Jake Holloway"
 image: "/images/posts/can-goats-drink-juice.webp"
 imageAlt: "Can Goats Drink Juice?"

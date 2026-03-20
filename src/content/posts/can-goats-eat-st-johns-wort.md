@@ -4,7 +4,7 @@ description: "We all know that goats are browsers and will eat just about anythi
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26
-updatedDate: 2026-03-19
+updatedDate: 2026-03-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-st-johns-wort.webp"
 imageAlt: "Can Goats Eat St Johns Wort?"

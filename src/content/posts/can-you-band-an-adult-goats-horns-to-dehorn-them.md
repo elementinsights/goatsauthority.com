@@ -4,7 +4,7 @@ description: "You may be wondering if it is possible to band an adult goat's hor
 category: "health"
 postType: "guide"
 publishDate: 2023-01-10
-updatedDate: 2026-03-19
+updatedDate: 2026-03-12
 author: "Jake Holloway"
 image: "/images/posts/can-you-band-an-adult-goats-horns-to-dehorn-them.webp"
 imageAlt: "Can You Band An Adult Goats Horns To Dehorn Them?"

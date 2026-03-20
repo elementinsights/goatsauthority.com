@@ -4,7 +4,7 @@ description: "Many people are interested in whether sheep can eat goat food or n
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-06-15
-updatedDate: 2026-03-19
+updatedDate: 2026-02-17
 author: "Jake Holloway"
 image: "/images/posts/can-sheep-eat-goat-food.webp"
 imageAlt: "Can Sheep Eat Goat Food?"

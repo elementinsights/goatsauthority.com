@@ -4,7 +4,7 @@ description: "Making sure you and your baby are healthy during pregnancy is cruc
 category: "health"
 postType: "guide"
 publishDate: 2023-01-10
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-you-drink-goat-milk-while-pregnant.webp"
 imageAlt: "Can You Drink Goat Milk While Pregnant?"

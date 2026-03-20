@@ -4,7 +4,7 @@ description: "Given the recent popularity of Kabuli Palao, many people have been
 category: "food"
 postType: "guide"
 publishDate: 2022-12-02
-updatedDate: 2026-03-19
+updatedDate: 2026-03-16
 author: "Jake Holloway"
 image: "/images/posts/can-kabuli-palao-be-made-with-goat.webp"
 imageAlt: "Can Kabuli Palao Be Made With Goat?"

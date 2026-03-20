@@ -4,7 +4,7 @@ description: "Most people are aware that goats consume grass, but can they also 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-05
-updatedDate: 2026-03-19
+updatedDate: 2026-03-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-lettuce.webp"
 imageAlt: "Can Goats Eat Lettuce?"

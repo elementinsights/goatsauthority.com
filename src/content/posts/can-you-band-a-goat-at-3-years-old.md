@@ -4,7 +4,7 @@ description: "We all know that goats are pretty tough animals. They can live in 
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-11
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-you-band-a-goat-at-3-years-old.webp"
 imageAlt: "Can You Band A Goat At 3 Years Old?"

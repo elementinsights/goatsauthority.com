@@ -4,7 +4,7 @@ description: "Taking care of a Nubian goat is a lot of fun. They are very friend
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-24
-updatedDate: 2026-03-19
+updatedDate: 2026-01-14
 author: "Jake Holloway"
 image: "/images/posts/can-a-nubian-goat-climb-trees.webp"
 imageAlt: "Can a Nubian Goat Climb Trees?"

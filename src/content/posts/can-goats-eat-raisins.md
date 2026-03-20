@@ -4,7 +4,7 @@ description: "When it comes to goats, there are many things that people want to 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-11
-updatedDate: 2026-03-19
+updatedDate: 2026-01-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-raisins.webp"
 imageAlt: "Can Goats Eat Raisins?"

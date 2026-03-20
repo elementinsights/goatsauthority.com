@@ -4,7 +4,7 @@ description: "Taking care of a goat can be a rewarding experience. However, befo
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07
-updatedDate: 2026-03-19
+updatedDate: 2026-01-08
 author: "Jake Holloway"
 image: "/images/posts/can-goats-bite.webp"
 imageAlt: "Can Goats Bite?"

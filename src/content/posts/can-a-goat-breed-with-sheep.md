@@ -4,7 +4,7 @@ description: "Many have questioned whether a goat can breed with a sheep, and wh
 category: "breeding"
 postType: "guide"
 publishDate: 2022-07-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-04
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-breed-with-sheep.webp"
 imageAlt: "Can a Goat Breed with Sheep?"

@@ -4,7 +4,7 @@ description: "Many people love goats and their products, from cheese to milk. So
 category: "food"
 postType: "guide"
 publishDate: 2022-07-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-01
 author: "Jake Holloway"
 image: "/images/posts/can-a-cat-drink-goats-milk.webp"
 imageAlt: "Can a Cat Drink Goats Milk?"

@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can have goats in Warrenvi
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-02
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-in-warrenville.webp"
 imageAlt: "Can I Have Goats In Warrenville?"

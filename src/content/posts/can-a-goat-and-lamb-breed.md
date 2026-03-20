@@ -4,7 +4,7 @@ description: "Goat and lamb breeding is a topic on which many people have questi
 category: "breeding"
 postType: "guide"
 publishDate: 2022-07-28
-updatedDate: 2026-03-19
+updatedDate: 2026-03-17
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-and-lamb-breed.webp"
 imageAlt: "Can a Goat and Lamb Breed?"

@@ -4,7 +4,7 @@ description: "Have you wondered if spinach is good for goats? What are the benef
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-06
-updatedDate: 2026-03-19
+updatedDate: 2026-03-07
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-spinach.webp"
 imageAlt: "Can Goats Eat Spinach?"

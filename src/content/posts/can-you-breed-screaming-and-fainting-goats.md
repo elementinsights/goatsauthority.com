@@ -4,7 +4,7 @@ description: "You may be wondering whether you can breed screaming and fainting 
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-15
-updatedDate: 2026-03-19
+updatedDate: 2026-02-13
 author: "Jake Holloway"
 image: "/images/posts/can-you-breed-screaming-and-fainting-goats.webp"
 imageAlt: "Can You Breed Screaming And Fainting Goats?"

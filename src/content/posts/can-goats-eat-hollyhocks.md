@@ -4,7 +4,7 @@ description: "Taking care of goats can be a fun and rewarding experience. Part o
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-18
-updatedDate: 2026-03-19
+updatedDate: 2026-01-03
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-hollyhocks.webp"
 imageAlt: "Can Goats Eat Hollyhocks?"

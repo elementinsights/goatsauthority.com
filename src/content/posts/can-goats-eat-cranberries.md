@@ -4,7 +4,7 @@ description: "Have you ever wondered what treats your goat can safely enjoy? I k
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-29
-updatedDate: 2026-03-19
+updatedDate: 2026-01-23
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cranberries.webp"
 imageAlt: "Can Goats Eat Cranberries?"

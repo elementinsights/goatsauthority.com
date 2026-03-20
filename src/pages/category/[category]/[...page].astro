@@ -53,7 +53,7 @@ const schema = [
 const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
   title: p.data.title,
   href: `/${p.id}/`,
-  date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+  date: (p.data.updatedDate || p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
 }));
 ---
 
@@ -82,7 +82,7 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
             <div class="article-card-meta">
               <span>{post.data.author || siteConfig.author.name}</span>
               <span class="article-card-meta-dot"></span>
-              <span>{post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+              <span>{(post.data.updatedDate || post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
             </div>
           </div>
         </article>
@@ -109,7 +109,7 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
         imageAlt: p.data.imageAlt || p.data.title,
         postType: p.data.postType,
         author: p.data.author || '',
-        date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+        date: (p.data.updatedDate || p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
       })), authorName: siteConfig.author.name }}>
         window.__remainingPosts = remainingPosts;
         window.__authorName = authorName;

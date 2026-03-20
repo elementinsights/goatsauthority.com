@@ -4,7 +4,7 @@ description: "Taking care of goats is a lot of fun, but it's also a big responsi
 category: "health"
 postType: "guide"
 publishDate: 2022-10-21
-updatedDate: 2026-03-19
+updatedDate: 2026-03-04
 author: "Jake Holloway"
 image: "/images/posts/can-i-give-my-goat-omegablume.webp"
 imageAlt: "Can I Give My Goat Omegablume?"

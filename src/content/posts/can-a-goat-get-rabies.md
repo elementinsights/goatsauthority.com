@@ -4,7 +4,7 @@ description: "Goats are fascinating animals known for their independence and are
 category: "health"
 postType: "guide"
 publishDate: 2022-08-02
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-get-rabies.webp"
 imageAlt: "Can a Goat Get Rabies?"

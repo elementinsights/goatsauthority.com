@@ -4,7 +4,7 @@ description: "We all know that goats have a veracious appetite. They will try to
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-18
-updatedDate: 2026-03-19
+updatedDate: 2026-03-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-henbit.webp"
 imageAlt: "Can Goats Eat Henbit?"

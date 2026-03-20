@@ -4,7 +4,7 @@ description: "Being a pygmy goat owner can be both fun and rewarding, but also c
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-22
-updatedDate: 2026-03-19
+updatedDate: 2026-01-10
 author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-eat-eucalyptus.webp"
 imageAlt: "Can Pygmy Goats Eat Eucalyptus?"

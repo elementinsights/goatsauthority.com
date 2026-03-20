@@ -4,7 +4,7 @@ description: "Taking care of goats can be a rewarding experience. They are inter
 category: "health"
 postType: "guide"
 publishDate: 2022-11-10
-updatedDate: 2026-03-19
+updatedDate: 2026-02-07
 author: "Jake Holloway"
 image: "/images/posts/can-i-put-neosporin-on-my-goats.webp"
 imageAlt: "Can I Put Neosporin On My Goats?"

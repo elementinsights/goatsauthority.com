@@ -4,7 +4,7 @@ description: "Cabbage is a popular vegetable that has many benefits for humans. 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04
-updatedDate: 2026-03-19
+updatedDate: 2026-03-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cabbage.webp"
 imageAlt: "Can Goats Eat Cabbage?"

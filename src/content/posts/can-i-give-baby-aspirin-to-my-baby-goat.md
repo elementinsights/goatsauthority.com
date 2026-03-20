@@ -4,7 +4,7 @@ description: "We all know that aspirin is a pain reliever, but did you know that
 category: "health"
 postType: "guide"
 publishDate: 2022-10-14
-updatedDate: 2026-03-19
+updatedDate: 2026-02-22
 author: "Jake Holloway"
 image: "/images/posts/can-i-give-baby-aspirin-to-my-baby-goat.webp"
 imageAlt: "Can I Give Baby Aspirin To My Baby Goat?"

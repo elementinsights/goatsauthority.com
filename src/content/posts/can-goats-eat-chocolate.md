@@ -4,7 +4,7 @@ description: "Ever had a pet goat? I do. It’s quite an adventure, let me tell 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-24
-updatedDate: 2026-03-19
+updatedDate: 2026-01-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-chocolate.webp"
 imageAlt: "Can Goats Eat Chocolate?"

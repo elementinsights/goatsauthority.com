@@ -4,7 +4,7 @@ description: "Many people are curious if goats and horses can pasture together o
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-05
-updatedDate: 2026-03-19
+updatedDate: 2026-03-01
 author: "Jake Holloway"
 image: "/images/posts/can-goats-and-horses-pasture-together.webp"
 imageAlt: "Can Goats And Horses Pasture Together?"

@@ -4,7 +4,7 @@ description: "There are a few factors you should be aware of while determining i
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-01
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-eat-sticker-bushes.webp"
 imageAlt: "Can a Goat Eat Sticker Bushes?"

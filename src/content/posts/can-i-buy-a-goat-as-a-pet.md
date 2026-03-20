@@ -4,7 +4,7 @@ description: "We all know that dogs are a man’s best friend. But what about go
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-11
-updatedDate: 2026-03-19
+updatedDate: 2026-01-10
 author: "Jake Holloway"
 image: "/images/posts/can-i-buy-a-goat-as-a-pet.webp"
 imageAlt: "Can I Buy A Goat As A Pet?"

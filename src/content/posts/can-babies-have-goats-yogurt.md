@@ -4,7 +4,7 @@ description: "Many parents are wondering if goat's yogurt is safe for their babi
 category: "food"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-03-12
 author: "Jake Holloway"
 image: "/images/posts/can-babies-have-goats-yogurt.webp"
 imageAlt: "Can Babies Have Goat's Yogurt?"

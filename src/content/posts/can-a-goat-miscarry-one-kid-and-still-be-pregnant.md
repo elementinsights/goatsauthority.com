@@ -4,7 +4,7 @@ description: "You might be wondering whether it's possible for a goat to miscarr
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-03-17
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-miscarry-one-kid-and-still-be-pregnant.webp"
 imageAlt: "Can a Goat Miscarry One Kid and Still be Pregnant?"

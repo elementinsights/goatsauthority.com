@@ -4,7 +4,7 @@ description: "You may be wondering if goats can have babies a week apart or not.
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-19
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-have-babies-a-week-apart.webp"
 imageAlt: "Can a Goat Have Babies a Week Apart?"

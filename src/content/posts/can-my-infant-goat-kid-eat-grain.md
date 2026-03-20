@@ -4,7 +4,7 @@ description: "You may be wondering whether you can feed grain to your infant goa
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-09
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-my-infant-goat-kid-eat-grain.webp"
 imageAlt: "Can My Infant Goat Kid Eat Grain?"

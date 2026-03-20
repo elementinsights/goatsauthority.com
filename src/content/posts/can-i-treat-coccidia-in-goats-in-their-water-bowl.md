@@ -4,7 +4,7 @@ description: "While all animals need water to live, it is especially important f
 category: "health"
 postType: "guide"
 publishDate: 2022-11-17
-updatedDate: 2026-03-19
+updatedDate: 2026-03-16
 author: "Jake Holloway"
 image: "/images/posts/can-i-treat-coccidia-in-goats-in-their-water-bowl.webp"
 imageAlt: "Can I Treat Coccidia In Goats In Their Water Bowl?"

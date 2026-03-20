@@ -4,7 +4,7 @@ description: "You may be wondering if your goats can enjoy cooked chicken as par
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cooked-chicken.webp"
 imageAlt: "Can Goats Eat Cooked Chicken?"

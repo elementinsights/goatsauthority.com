@@ -4,7 +4,7 @@ description: "You may be wondering if your goats are susceptible to the same tic
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-02-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-die-from-lymes.webp"
 imageAlt: "Can Goats Die From Lymes?"

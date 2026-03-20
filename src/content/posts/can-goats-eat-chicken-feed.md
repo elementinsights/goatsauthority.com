@@ -4,7 +4,7 @@ description: "Have you ever looked at your goat munching away and wondered about
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-26
-updatedDate: 2026-03-19
+updatedDate: 2026-02-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-chicken-feed.webp"
 imageAlt: "Can Goats Eat Chicken Feed?"

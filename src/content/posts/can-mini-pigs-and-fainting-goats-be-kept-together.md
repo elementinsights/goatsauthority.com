@@ -4,7 +4,7 @@ description: "You may be wondering whether you can keep mini pigs and fainting g
 category: "housing"
 postType: "guide"
 publishDate: 2022-12-07
-updatedDate: 2026-03-19
+updatedDate: 2026-03-16
 author: "Jake Holloway"
 image: "/images/posts/can-mini-pigs-and-fainting-goats-be-kept-together.webp"
 imageAlt: "Can Mini Pigs And Fainting Goats Be Kept Together?"

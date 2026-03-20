@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not milk from a goat that 
 category: "health"
 postType: "guide"
 publishDate: 2022-12-06
-updatedDate: 2026-03-19
+updatedDate: 2026-01-11
 author: "Jake Holloway"
 image: "/images/posts/can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed.webp"
 imageAlt: "Can Milk Be Used From Goats That Have Had Sore Mouths And Healed?"

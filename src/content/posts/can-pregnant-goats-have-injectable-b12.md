@@ -4,7 +4,7 @@ description: "If you're wondering whether or not it's possible to give pregnant 
 category: "health"
 postType: "guide"
 publishDate: 2022-12-19
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-pregnant-goats-have-injectable-b12.webp"
 imageAlt: "Can Pregnant Goats Have Injectable b12?"

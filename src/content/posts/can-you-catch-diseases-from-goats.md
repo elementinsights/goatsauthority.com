@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can catch diseases from go
 category: "health"
 postType: "guide"
 publishDate: 2023-01-18
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-you-catch-diseases-from-goats.webp"
 imageAlt: "Can You Catch Diseases From Goats?"

@@ -4,7 +4,7 @@ description: "We all know that penicillin is an antibiotic. It's used to treat b
 category: "health"
 postType: "guide"
 publishDate: 2023-01-02
-updatedDate: 2026-03-19
+updatedDate: 2026-01-02
 author: "Jake Holloway"
 image: "/images/posts/can-too-much-penicillin-given-to-baby-goat-die.webp"
 imageAlt: "Can Too Much Penicillin Given To Baby Goat Die?"

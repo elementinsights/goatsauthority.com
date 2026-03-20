@@ -4,7 +4,7 @@ description: "Livestock farming is a difficult but rewarding task that requires 
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-06
-updatedDate: 2026-03-19
+updatedDate: 2026-02-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-be-kept-in-the-house.webp"
 imageAlt: "Can Goats Be Kept In The House?"

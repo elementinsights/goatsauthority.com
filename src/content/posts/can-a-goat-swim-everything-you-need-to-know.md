@@ -4,7 +4,7 @@ description: "We all know that goats are versatile animals. They can be used for
 category: "training"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-02-13
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-swim-everything-you-need-to-know.webp"
 imageAlt: "Can a Goat Swim?"

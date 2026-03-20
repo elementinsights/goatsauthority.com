@@ -4,7 +4,7 @@ description: "You may be wondering if goats and dogs can be friends or not. And 
 category: "training"
 postType: "guide"
 publishDate: 2022-09-05
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-goats-and-dogs-be-friends.webp"
 imageAlt: "Can Goats And Dogs Be Friends?"

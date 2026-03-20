@@ -4,7 +4,7 @@ description: "A goat is an animal that is kept as a pet by humans. They are know
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-02-27
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-live-in-a-house.webp"
 imageAlt: "Can a Goat Live in a House?"

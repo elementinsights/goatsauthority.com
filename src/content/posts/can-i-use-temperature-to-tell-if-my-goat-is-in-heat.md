@@ -4,7 +4,7 @@ description: "You may be wondering whether you can use temperature to tell if yo
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-26
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-temperature-to-tell-if-my-goat-is-in-heat.webp"
 imageAlt: "Can I Use Temperature To Tell If My Goat Is In Heat?"

@@ -4,7 +4,7 @@ description: "You may be wondering if it's okay to give your kids goat milk ayur
 category: "food"
 postType: "guide"
 publishDate: 2022-08-29
-updatedDate: 2026-03-19
+updatedDate: 2026-01-30
 author: "Jake Holloway"
 image: "/images/posts/can-children-have-goat-milk-ayurveda.webp"
 imageAlt: "Can Children Have Goat Milk Ayurveda?"

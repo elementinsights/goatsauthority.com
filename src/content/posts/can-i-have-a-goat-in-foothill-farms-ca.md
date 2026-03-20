@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not you can have a goat in
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-27
-updatedDate: 2026-03-19
+updatedDate: 2026-02-18
 author: "Jake Holloway"
 image: "/images/posts/can-i-have-a-goat-in-foothill-farms-ca.webp"
 imageAlt: "Can I Have A Goat In Foothill Farms CA"

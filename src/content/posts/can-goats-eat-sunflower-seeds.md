@@ -4,7 +4,7 @@ description: "Ever owned a goat? If so, you might know they eat almost anything.
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-12-01
-updatedDate: 2026-03-19
+updatedDate: 2026-01-17
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-sunflower-seeds.webp"
 imageAlt: "Can Goats Eat Sunflower Seeds?"

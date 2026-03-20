@@ -4,7 +4,7 @@ description: "Many people are concerned about the safety of the CDT vaccine for 
 category: "health"
 postType: "guide"
 publishDate: 2022-07-27
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-a-cdt-shot-kill-a-goat.webp"
 imageAlt: "Can a CDT Shot Kill a Goat?"

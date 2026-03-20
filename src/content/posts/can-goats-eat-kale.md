@@ -4,7 +4,7 @@ description: "Ever seen a goat munch on something green? It’s quite the sight.
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-24
-updatedDate: 2026-03-19
+updatedDate: 2026-02-09
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-kale.webp"
 imageAlt: "Can Goats Eat Kale?"

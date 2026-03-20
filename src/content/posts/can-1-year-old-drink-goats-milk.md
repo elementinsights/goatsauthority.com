@@ -4,7 +4,7 @@ description: "Choosing the best food for a one-year-old can be difficult. Althou
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-02-01
-updatedDate: 2026-03-19
+updatedDate: 2026-01-15
 author: "Jake Holloway"
 image: "/images/posts/can-1-year-old-drink-goats-milk.webp"
 imageAlt: "Can 1 Year Old Drink Goats Milk?"

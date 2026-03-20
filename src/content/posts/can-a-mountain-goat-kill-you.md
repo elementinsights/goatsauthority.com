@@ -4,7 +4,7 @@ description: "Mountain goats are not your average backyard animal. They may look
 category: "safety"
 postType: "guide"
 publishDate: 2022-08-23
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/can-a-mountain-goat-kill-you.webp"
 imageAlt: "Can a Mountain Goat Kill You?"

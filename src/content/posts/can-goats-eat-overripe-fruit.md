@@ -4,7 +4,7 @@ description: "Many people are wondering if goats can eat overripe fruit or not. 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-21
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-overripe-fruit.webp"
 imageAlt: "Can Goats Eat Overripe Fruit?"

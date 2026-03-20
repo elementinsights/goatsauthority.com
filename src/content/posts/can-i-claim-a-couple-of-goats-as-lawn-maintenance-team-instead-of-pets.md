@@ -4,7 +4,7 @@ description: "Taking care of goats is a lot of work. Goats are social creatures 
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-11
-updatedDate: 2026-03-19
+updatedDate: 2026-02-26
 author: "Jake Holloway"
 image: "/images/posts/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets.webp"
 imageAlt: "Can I Claim A Couple Of Goats As Lawn Maintenance Team Instead Of Pets?"

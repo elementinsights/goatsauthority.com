@@ -4,7 +4,7 @@ description: "If you own a rottweiler, you're probably wondering if goat's milk 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-06-30
-updatedDate: 2026-03-19
+updatedDate: 2026-02-14
 author: "Jake Holloway"
 image: "/images/posts/can-rottweilers-drink-goat-milk.webp"
 imageAlt: "Can Rottweilers Drink Goat Milk?"

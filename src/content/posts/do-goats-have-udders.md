@@ -4,7 +4,7 @@ description: "Do goats have udders? It's a question that has baffled farmers and
 category: "health"
 postType: "guide"
 publishDate: 2022-08-08
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/do-goats-have-udders.webp"
 imageAlt: "Do Goats Have Udders?"

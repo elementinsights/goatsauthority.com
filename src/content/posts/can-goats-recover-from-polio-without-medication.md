@@ -4,7 +4,7 @@ description: "Taking care of a goat with polio is not easy. There is no known cu
 category: "health"
 postType: "guide"
 publishDate: 2022-10-05
-updatedDate: 2026-03-19
+updatedDate: 2026-01-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-recover-from-polio-without-medication.webp"
 imageAlt: "Can Goats Recover From Polio Without Medication?"

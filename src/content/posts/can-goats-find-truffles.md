@@ -4,7 +4,7 @@ description: "We all know that goats are smart animals. But have you ever wonder
 category: "training"
 postType: "guide"
 publishDate: 2022-09-28
-updatedDate: 2026-03-19
+updatedDate: 2026-01-13
 author: "Jake Holloway"
 image: "/images/posts/can-goats-find-truffles.webp"
 imageAlt: "Can Goats Find Truffles?"

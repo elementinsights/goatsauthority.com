@@ -4,7 +4,7 @@ description: "If you live in Wyoming, you may be wondering if you can own a goat
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-09
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/can-i-own-a-goat-in-wyoming.webp"
 imageAlt: "Can I Own A Goat In Wyoming?"

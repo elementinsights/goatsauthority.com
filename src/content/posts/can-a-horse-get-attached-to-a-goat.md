@@ -4,7 +4,7 @@ description: "We all know that goats and horses are both herd animals and enjoy 
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-23
-updatedDate: 2026-03-19
+updatedDate: 2026-02-05
 author: "Jake Holloway"
 image: "/images/posts/can-a-horse-get-attached-to-a-goat.webp"
 imageAlt: "Can a Horse Get Attached to a Goat?"

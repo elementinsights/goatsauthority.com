@@ -4,7 +4,7 @@ description: "We all know that goats are browsers and that their diet consists m
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-09
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-liquid-amber.webp"
 imageAlt: "Can Goats Eat Liquid Amber?"

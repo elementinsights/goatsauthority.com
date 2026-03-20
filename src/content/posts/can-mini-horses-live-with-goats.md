@@ -4,7 +4,7 @@ description: "Everyone is aware that goats are social animals. They take delight
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-06
-updatedDate: 2026-03-19
+updatedDate: 2026-02-23
 author: "Jake Holloway"
 image: "/images/posts/can-mini-horses-live-with-goats.webp"
 imageAlt: "Can Mini Horses Live With Goats"

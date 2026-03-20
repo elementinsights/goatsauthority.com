@@ -4,7 +4,7 @@ description: "Livestock farming is a great way to be self-sufficient and provide
 category: "housing"
 postType: "guide"
 publishDate: 2022-09-05
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-ducks-and-goats-coexist.webp"
 imageAlt: "Can Ducks and Goats Coexist?"

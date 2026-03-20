@@ -4,7 +4,7 @@ description: "You may be wondering whether it's okay to leave your goat out for 
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-01
-updatedDate: 2026-03-19
+updatedDate: 2026-01-05
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-be-left-out-for-hours.webp"
 imageAlt: "Can A Goat Be Left Out For Hours?"

@@ -4,7 +4,7 @@ description: "You may be wondering if it's possible for an animal to be made by 
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-01-16
 author: "Jake Holloway"
 image: "/images/posts/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce.webp"
 imageAlt: "Can an Animal that has Been Made From Goat and Sheep DNA Reproduce?"

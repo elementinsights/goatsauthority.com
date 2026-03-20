@@ -4,7 +4,7 @@ description: "You may be wondering whether or not goats can get the bubonic plag
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-goats-get-the-bubonic-plague.webp"
 imageAlt: "Can Goats Get The Bubonic Plague?"

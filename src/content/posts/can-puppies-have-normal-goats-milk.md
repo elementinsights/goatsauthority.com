@@ -4,7 +4,7 @@ description: "A crucial part of having a puppy is feeding them properly to ensur
 category: "health"
 postType: "guide"
 publishDate: 2022-12-20
-updatedDate: 2026-03-19
+updatedDate: 2026-03-14
 author: "Jake Holloway"
 image: "/images/posts/can-puppies-have-normal-goats-milk.webp"
 imageAlt: "Can Puppies Have Normal Goats Milk?"

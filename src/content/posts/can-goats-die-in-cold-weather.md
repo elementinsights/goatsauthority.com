@@ -4,7 +4,7 @@ description: "Taking care of goats means being prepared for all kinds of weather
 category: "health"
 postType: "guide"
 publishDate: 2022-09-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-goats-die-in-cold-weather.webp"
 imageAlt: "Can Goats Die in Cold Weather?"

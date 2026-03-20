@@ -4,7 +4,7 @@ description: "Many people are wondering if a Nigerian buck goat can mate with a 
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-23
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-a-nigerian-buck-goat-mount-a-female-boer-goat.webp"
 imageAlt: "Can a Nigerian Buck Goat Mount a Female Boer Goat?"

@@ -4,7 +4,7 @@ description: "Taking care of goats is a rewarding experience, and part of that i
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12
-updatedDate: 2026-03-19
+updatedDate: 2026-01-07
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-bones.webp"
 imageAlt: "Can Goats Eat Bones?"

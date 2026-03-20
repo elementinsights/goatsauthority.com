@@ -4,7 +4,7 @@ description: "Dogs are known for being loyal and loving companions. But what man
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-01-30
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-drink-goat-milk-everyday.webp"
 imageAlt: "Can Dogs Drink Goat Milk Everyday?"

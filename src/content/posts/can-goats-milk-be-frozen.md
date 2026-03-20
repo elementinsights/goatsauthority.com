@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not goat's milk can be fro
 category: "food"
 postType: "guide"
 publishDate: 2022-10-04
-updatedDate: 2026-03-19
+updatedDate: 2026-01-25
 author: "Jake Holloway"
 image: "/images/posts/can-goats-milk-be-frozen.webp"
 imageAlt: "Can Goats Milk Be Frozen?"

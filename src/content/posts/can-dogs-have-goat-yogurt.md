@@ -4,7 +4,7 @@ description: "Many people are unsure if dogs can have goat yogurt or not. And if
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-have-goat-yogurt.webp"
 imageAlt: "Can Dogs Have Goat Yogurt?"

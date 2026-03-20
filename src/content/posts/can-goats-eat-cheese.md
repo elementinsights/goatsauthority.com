@@ -4,7 +4,7 @@ description: "Have you ever wondered what a goat can eat? As a goat owner, I’v
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cheese.webp"
 imageAlt: "Can Goats Eat Cheese?"

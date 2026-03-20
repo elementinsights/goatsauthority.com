@@ -4,7 +4,7 @@ description: "Taking care of a pet is a big responsibility. You have to make sur
 category: "health"
 postType: "guide"
 publishDate: 2022-08-31
-updatedDate: 2026-03-19
+updatedDate: 2026-02-18
 author: "Jake Holloway"
 image: "/images/posts/can-dogs-get-tapeworms-from-goats.webp"
 imageAlt: "Can Dogs Get Tapeworms From Goats?"

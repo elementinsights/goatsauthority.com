@@ -4,7 +4,7 @@ description: "You may be wondering whether or not goats can eat brushes in winte
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-brush-in-winter.webp"
 imageAlt: "Can Goats Eat Brush in Winter?"

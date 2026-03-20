@@ -4,7 +4,7 @@ description: "It's easy to think of goats as just animals that provide milk and 
 category: "health"
 postType: "guide"
 publishDate: 2022-08-08
-updatedDate: 2026-03-19
+updatedDate: 2026-03-16
 author: "Jake Holloway"
 image: "/images/posts/how-many-teats-do-goats-have.webp"
 imageAlt: "How Many Teats Do Goats Have?"

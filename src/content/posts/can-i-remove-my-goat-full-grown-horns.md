@@ -4,7 +4,7 @@ description: "We usually think of goats as cute, cuddly animals. But what happen
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-13
-updatedDate: 2026-03-19
+updatedDate: 2026-01-08
 author: "Jake Holloway"
 image: "/images/posts/can-i-remove-my-goat-full-grown-horns.webp"
 imageAlt: "Can I Remove My Goat Full Grown Horns?"

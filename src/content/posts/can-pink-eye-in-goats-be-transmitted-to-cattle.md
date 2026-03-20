@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not pink eye can be transm
 category: "health"
 postType: "guide"
 publishDate: 2022-12-17
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-pink-eye-in-goats-be-transmitted-to-cattle.webp"
 imageAlt: "Can Pink Eye In Goats Be Transmitted To Cattle?"

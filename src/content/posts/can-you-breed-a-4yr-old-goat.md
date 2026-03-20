@@ -4,7 +4,7 @@ description: "Taking care of goats can be a very rewarding experience. Not only 
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-13
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/can-you-breed-a-4yr-old-goat.webp"
 imageAlt: "Can You Breed A 4yr Old Goat?"

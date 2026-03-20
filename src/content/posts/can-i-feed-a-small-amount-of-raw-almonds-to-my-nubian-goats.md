@@ -4,7 +4,7 @@ description: "We all know that goats are browsers, and will pretty much eat anyt
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12
-updatedDate: 2026-03-19
+updatedDate: 2026-01-07
 author: "Jake Holloway"
 image: "/images/posts/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats.webp"
 imageAlt: "Can I Feed A Small Amount Of Raw Almonds To My Nubian Goats?"

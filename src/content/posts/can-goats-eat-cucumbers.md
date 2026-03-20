@@ -4,7 +4,7 @@ description: "Do you have a goat? I do. They’re interesting creatures, aren’
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cucumbers.webp"
 imageAlt: "Can Goats Eat Cucumbers?"

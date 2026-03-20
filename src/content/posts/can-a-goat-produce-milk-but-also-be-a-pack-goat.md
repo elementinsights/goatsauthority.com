@@ -4,7 +4,7 @@ description: "Many people are wondering if they can get milk from a goat and als
 category: "food"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-01-21
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-produce-milk-but-also-be-a-pack-goat.webp"
 imageAlt: "Can a Goat Produce Milk But Also be a Pack Goat?"

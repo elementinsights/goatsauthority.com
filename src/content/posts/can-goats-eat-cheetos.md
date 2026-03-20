@@ -4,7 +4,7 @@ description: "it's difficult to determine what goats can and cannot eat since th
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-13
-updatedDate: 2026-03-19
+updatedDate: 2026-02-04
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cheetos.webp"
 imageAlt: "Can Goats Eat Cheetos?"

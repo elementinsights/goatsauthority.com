@@ -4,7 +4,7 @@ description: "it's difficult to determine whether you can have pine trees in a g
 category: "housing"
 postType: "guide"
 publishDate: 2022-08-22
-updatedDate: 2026-03-19
+updatedDate: 2026-01-01
 author: "Jake Holloway"
 image: "/images/posts/can-a-goat-pen-have-pine-trees-in-it.webp"
 imageAlt: "Can a Goat Pen Have Pine Trees in it?"

@@ -4,7 +4,7 @@ description: "You may be wondering whether or not goats can eat the thorns of a 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-27
-updatedDate: 2026-03-19
+updatedDate: 2026-03-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-the-thorns-of-a-citrus-tree-branch.webp"
 imageAlt: "Can Goats Eat The Thorns Of A Citrus Tree Branch?"

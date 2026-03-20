@@ -4,7 +4,7 @@ description: "Taking care of goats can be a fun and rewarding experience. But be
 category: "health"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-01-11
 author: "Jake Holloway"
 image: "/images/posts/can-any-diseases-spread-from-swine-to-goats.webp"
 imageAlt: "Can Any Diseases Spread from Swine to Goats?"

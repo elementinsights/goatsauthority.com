@@ -4,7 +4,7 @@ description: "Taking care of goats can be a very rewarding experience. If you ar
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-15
-updatedDate: 2026-03-19
+updatedDate: 2026-01-19
 author: "Jake Holloway"
 image: "/images/posts/where-did-kiko-goats-originate.webp"
 imageAlt: "Where Did Kiko Goats Originate?"

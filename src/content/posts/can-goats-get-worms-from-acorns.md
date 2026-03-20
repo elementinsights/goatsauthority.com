@@ -4,7 +4,7 @@ description: "We all know that goats are notorious for eating just about anythin
 category: "health"
 postType: "guide"
 publishDate: 2022-09-29
-updatedDate: 2026-03-19
+updatedDate: 2026-02-22
 author: "Jake Holloway"
 image: "/images/posts/can-goats-get-worms-from-acorns.webp"
 imageAlt: "Can Goats Get Worms From Acorns?"

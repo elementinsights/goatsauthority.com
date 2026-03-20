@@ -4,7 +4,7 @@ description: "You may have seen timothy hay advertised as goat feed, and wondere
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-10
-updatedDate: 2026-03-19
+updatedDate: 2026-03-02
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-timothy-hay.webp"
 imageAlt: "Can Goats Eat Timothy Hay?"

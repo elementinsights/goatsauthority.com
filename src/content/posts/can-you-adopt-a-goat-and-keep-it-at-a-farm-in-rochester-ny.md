@@ -4,7 +4,7 @@ description: "We all know that goats are incredibly cute, but did you know that 
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-09
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny.webp"
 imageAlt: "Can You Adopt A Goat And Keep It At A Farm In Rochester NY?"

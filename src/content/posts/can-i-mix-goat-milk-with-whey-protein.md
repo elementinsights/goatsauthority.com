@@ -4,7 +4,7 @@ description: "It is difficult to determine whether goat milk and whey protein ca
 category: "food"
 postType: "guide"
 publishDate: 2022-11-06
-updatedDate: 2026-03-19
+updatedDate: 2026-03-13
 author: "Jake Holloway"
 image: "/images/posts/can-i-mix-goat-milk-with-whey-protein.webp"
 imageAlt: "Can I Mix Goat Milk With Whey Protein?"

@@ -4,7 +4,7 @@ description: "Do goats eat meat? It's a common question with a variety of answer
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/do-goats-eat-meat.webp"
 imageAlt: "Do Goats Eat Meat?"

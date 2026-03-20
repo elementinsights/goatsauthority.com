@@ -4,7 +4,7 @@ description: "Do you own a goat? If so, then you know that feeding them can some
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
-updatedDate: 2026-03-19
+updatedDate: 2026-02-03
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-asparagus.webp"
 imageAlt: "Can Goats Eat Asparagus?"

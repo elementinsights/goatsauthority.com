@@ -4,7 +4,7 @@ description: "You may be wondering whether or not you can breed a father and dau
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-14
-updatedDate: 2026-03-19
+updatedDate: 2026-02-06
 author: "Jake Holloway"
 image: "/images/posts/can-you-breed-a-father-and-daughter-goat.webp"
 imageAlt: "Can You Breed A Father And Daughter Goat?"

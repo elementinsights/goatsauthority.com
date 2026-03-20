@@ -4,7 +4,7 @@ description: "Many people are curious as to whether goats can consume pumpkins. 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-03
-updatedDate: 2026-03-19
+updatedDate: 2026-01-29
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pumpkin.webp"
 imageAlt: "Can Goats Eat Pumpkin?"

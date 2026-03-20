@@ -4,7 +4,7 @@ description: "You may be wondering if goats can eat any plant or not. And if so,
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09
-updatedDate: 2026-03-19
+updatedDate: 2026-01-18
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-any-plant.webp"
 imageAlt: "Can Goats Eat Any Plant?"

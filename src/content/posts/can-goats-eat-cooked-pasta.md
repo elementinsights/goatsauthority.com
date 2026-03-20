@@ -4,7 +4,7 @@ description: "You may be wondering if goats can eat cooked pasta or not. And if 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14
-updatedDate: 2026-03-19
+updatedDate: 2026-02-28
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cooked-pasta.webp"
 imageAlt: "Can Goats Eat Cooked Pasta?"

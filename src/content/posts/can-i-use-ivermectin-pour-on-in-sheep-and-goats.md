@@ -4,7 +4,7 @@ description: "It is difficult to determine whether or not ivermectin is effectiv
 category: "health"
 postType: "guide"
 publishDate: 2022-11-22
-updatedDate: 2026-03-19
+updatedDate: 2026-03-07
 author: "Jake Holloway"
 image: "/images/posts/can-i-use-ivermectin-pour-on-in-sheep-and-goats.webp"
 imageAlt: "Can I Use Ivermectin Pour On In Sheep And Goats?"

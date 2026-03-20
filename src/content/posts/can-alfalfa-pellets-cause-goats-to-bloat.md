@@ -4,7 +4,7 @@ description: "The feeding process of goats is quite a tricky thing to perfect. I
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-01-06
 author: "Jake Holloway"
 image: "/images/posts/can-alfalfa-pellets-cause-goats-to-bloat.webp"
 imageAlt: "Can Alfalfa Pellets Cause Goats to Bloat?"

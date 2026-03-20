@@ -4,7 +4,7 @@ description: "Have you ever found yourself with a handful of blueberries and a g
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-22
-updatedDate: 2026-03-19
+updatedDate: 2026-03-05
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-blueberries.webp"
 imageAlt: "Can Goats Eat Blueberries?"

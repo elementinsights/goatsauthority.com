@@ -40,7 +40,7 @@ const relatedPosts = allPosts
     title: p.data.title,
     href: `/${p.id}/`,
     image: p.data.image,
-    date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+    date: (p.data.updatedDate || p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
   }));
 
 const bottomRelatedPosts = allPosts
@@ -51,14 +51,14 @@ const bottomRelatedPosts = allPosts
     href: `/${p.id}/`,
     image: p.data.image,
     category: p.data.category,
-    date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+    date: (p.data.updatedDate || p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
     readTime: p.data.readTime,
   }));
 
 const categoryConfig = siteConfig.categories.find(c => c.slug === post.data.category);
 const categoryName = categoryConfig?.name || post.data.category;
 
-const publishDate = post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const publishDate = (post.data.updatedDate || post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const pageUrl = new URL(`/${post.id}/`, siteConfig.url).href;
 
 // Schema

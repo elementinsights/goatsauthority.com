@@ -4,7 +4,7 @@ description: "We all know that goats are famous for eating just about anything. 
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-27
-updatedDate: 2026-03-19
+updatedDate: 2026-03-02
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-turnip.webp"
 imageAlt: "Can Goats Eat Turnip?"

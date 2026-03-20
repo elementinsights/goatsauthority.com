@@ -4,7 +4,7 @@ description: "Corn is a common food found in many parts of the world, and it's a
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-04
-updatedDate: 2026-03-19
+updatedDate: 2026-03-06
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-corn.webp"
 imageAlt: "Can Goats Eat Corn?"

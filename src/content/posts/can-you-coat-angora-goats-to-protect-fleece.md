@@ -4,7 +4,7 @@ description: "We all know that angora goats have the most beautiful and softest 
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-19
-updatedDate: 2026-03-19
+updatedDate: 2026-02-02
 author: "Jake Holloway"
 image: "/images/posts/can-you-coat-angora-goats-to-protect-fleece.webp"
 imageAlt: "Can You Coat Angora Goats To Protect Fleece?"

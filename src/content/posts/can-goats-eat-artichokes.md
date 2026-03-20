@@ -4,7 +4,7 @@ description: "Taking care of goats can be a rewarding experience. But as any goo
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09
-updatedDate: 2026-03-19
+updatedDate: 2026-03-10
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-artichokes.webp"
 imageAlt: "Can Goats Eat Artichokes?"

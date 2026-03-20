@@ -4,7 +4,7 @@ description: "Have you ever wondered about the diet of a goat? I own goats and f
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28
-updatedDate: 2026-03-19
+updatedDate: 2026-03-12
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-moldy-hay.webp"
 imageAlt: "Can Goats Eat Moldy Hay?"

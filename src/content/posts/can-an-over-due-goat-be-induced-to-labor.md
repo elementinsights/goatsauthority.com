@@ -4,7 +4,7 @@ description: "Every goat owner has to deal with the potential of an overdue goat
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-25
-updatedDate: 2026-03-19
+updatedDate: 2026-02-18
 author: "Jake Holloway"
 image: "/images/posts/can-an-over-due-goat-be-induced-to-labor.webp"
 imageAlt: "Can an Overdue Goat be Induced to Labor?"

@@ -4,7 +4,7 @@ description: "Have you ever watched a goat eat? It’s quite the sight. They see
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20
-updatedDate: 2026-03-19
+updatedDate: 2026-01-15
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-bread.webp"
 imageAlt: "Can Goats Eat Bread?"

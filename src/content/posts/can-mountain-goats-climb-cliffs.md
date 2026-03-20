@@ -4,7 +4,7 @@ description: "We all know that mountain goats are amazing creatures and are ofte
 category: "breeding"
 postType: "guide"
 publishDate: 2022-12-07
-updatedDate: 2026-03-19
+updatedDate: 2026-03-14
 author: "Jake Holloway"
 image: "/images/posts/can-mountain-goats-climb-cliffs.webp"
 imageAlt: "Can Mountain Goats Climb Cliffs?"

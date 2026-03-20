@@ -4,7 +4,7 @@ description: "We all know that goats are interesting creatures. They're known fo
 category: "health"
 postType: "guide"
 publishDate: 2022-10-10
-updatedDate: 2026-03-19
+updatedDate: 2026-02-01
 author: "Jake Holloway"
 image: "/images/posts/can-i-bury-a-goat-with-johnes-disease.webp"
 imageAlt: "Can I Bury A Goat With Johne's Disease?"

@@ -4,7 +4,7 @@ description: "We all know that goats are curious creatures. So, it's not surpris
 category: "health"
 postType: "guide"
 publishDate: 2022-10-22
-updatedDate: 2026-03-19
+updatedDate: 2026-03-03
 author: "Jake Holloway"
 image: "/images/posts/can-i-give-my-goat-pepto-bismol.webp"
 imageAlt: "Can I Give My Goat Pepto Bismol?"

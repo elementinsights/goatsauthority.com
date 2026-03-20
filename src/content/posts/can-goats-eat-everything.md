@@ -4,7 +4,7 @@ description: "You might be wondering whether or not goats can actually consume a
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-15
-updatedDate: 2026-03-19
+updatedDate: 2026-01-20
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-everything.webp"
 imageAlt: "Can Goats Eat Everything?"

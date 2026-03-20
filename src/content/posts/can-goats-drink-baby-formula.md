@@ -4,7 +4,7 @@ description: "It can be enjoyable and gratifying to care for goats. But there ar
 category: "health"
 postType: "guide"
 publishDate: 2022-09-09
-updatedDate: 2026-03-19
+updatedDate: 2026-01-28
 author: "Jake Holloway"
 image: "/images/posts/can-goats-drink-baby-formula.webp"
 imageAlt: "Can Goats Drink Baby Formula?"

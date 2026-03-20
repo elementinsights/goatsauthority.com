@@ -4,7 +4,7 @@ description: "You may be wondering if you can describe a herd of sheep and goats
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-21
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-you-describe-a-herd-of-sheep-and-goats.webp"
 imageAlt: "Can You Describe A Herd Of Sheep And Goats?"

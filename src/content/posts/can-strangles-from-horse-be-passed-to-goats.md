@@ -4,7 +4,7 @@ description: "Taking care of goats and horses can be a challenging but rewarding
 category: "health"
 postType: "guide"
 publishDate: 2023-01-01
-updatedDate: 2026-03-19
+updatedDate: 2026-02-26
 author: "Jake Holloway"
 image: "/images/posts/can-strangles-from-horse-be-passed-to-goats.webp"
 imageAlt: "Can Strangles From Horse Be Passed To Goats?"

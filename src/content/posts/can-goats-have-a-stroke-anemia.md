@@ -4,7 +4,7 @@ description: "We all know that goats are resilient creatures. But even the heart
 category: "health"
 postType: "guide"
 publishDate: 2022-09-30
-updatedDate: 2026-03-19
+updatedDate: 2026-01-07
 author: "Jake Holloway"
 image: "/images/posts/can-goats-have-a-stroke-anemia.webp"
 imageAlt: "Can Goats Have A Stroke Anemia?"

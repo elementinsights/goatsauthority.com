@@ -4,7 +4,7 @@ description: "Many people are curious about the dietary habits of goats. What do
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-09
-updatedDate: 2026-03-19
+updatedDate: 2026-01-16
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-pine-needles.webp"
 imageAlt: "Can Goats Eat Pine Needles?"

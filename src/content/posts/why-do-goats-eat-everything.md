@@ -4,7 +4,7 @@ description: "Why do goats eat everything? It has been a long-standing mystery t
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08
-updatedDate: 2026-03-19
+updatedDate: 2026-01-17
 author: "Jake Holloway"
 image: "/images/posts/why-do-goats-eat-everything.webp"
 imageAlt: "Why Do Goats Eat Everything?"

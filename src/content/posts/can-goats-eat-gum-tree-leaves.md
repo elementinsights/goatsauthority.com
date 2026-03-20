@@ -4,7 +4,7 @@ description: "You may be wondering whether or not your goats can eat gum tree le
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-16
-updatedDate: 2026-03-19
+updatedDate: 2026-03-11
 author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-gum-tree-leaves.webp"
 imageAlt: "Can Goats Eat Gum Tree Leaves?"

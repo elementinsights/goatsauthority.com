@@ -4,7 +4,7 @@ description: "You may be wondering whether or not goats can save sperm. And if s
 category: "breeding"
 postType: "guide"
 publishDate: 2022-09-04
-updatedDate: 2026-03-19
+updatedDate: 2026-02-24
 author: "Jake Holloway"
 image: "/images/posts/can-goats-save-sperm.webp"
 imageAlt: "Can Goats Save Sperm?"
