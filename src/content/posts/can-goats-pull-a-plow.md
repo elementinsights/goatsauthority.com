@@ -88,7 +88,7 @@ The first step in training a goat to pull a plow is to get the goat used to bein
 
 Once the goat is comfortable around you, you can start working on training it.
 
-The next step is to get the goat used to wearing a harness. You can do this by putting the harness on the goat and letting it wear it for short periods of time.
+The next step is to get the goat used to [wearing a harness](/can-i-use-a-cow-shell-with-goat-liners/). You can do this by putting the harness on the goat and letting it wear it for short periods of time.
 
 Once the goat is comfortable wearing the harness, you can start working on attaching it to the plow.
 

@@ -35,7 +35,7 @@ faq:
   - question: "Can domestic goats jump?"
     answer: "Domestic goats can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground. They also have a strong sense of balance, which helps them to land on their feet after they have jumped."
   - question: "How high can domestic goats jump?"
-    answer: "Domestic goats are members of the Capra genus, which includes all goat-antelope species. Interestingly, the word Capra is derived from an Indo-European root meaning \"rocky place.\""
+    answer: "Domestic goats are members of the Capra genus, which includes all goat-antelope species."
   - question: "What are the reasons why domestic goats like to jump?"
     answer: "Domestic goats are known for their habit of jumping and climbing. While this might seem like a simple case of goat boredom, there are actually several reasons why goats like to jump."
   - question: "How do you train a goat to jump?"

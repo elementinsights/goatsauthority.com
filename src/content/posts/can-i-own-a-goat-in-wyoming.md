@@ -62,7 +62,7 @@ In order to own a goat in Wyoming, you must first complete the necessary paperwo
 
 The application process typically involves filling out some basic information about yourself and your goats, such as your name, address, and contact details, as well as providing proof of ownership of the animal.
 
-In addition, you will likely need to attend an informational meeting or training session related to goat care and management.
+In addition, you will likely need to attend an informational meeting or [training session related to goat care](/can-i-raise-goats-in-paradise-town-california/) and management.
 
 Once your application is approved, you can register your goat with the state and begin enjoying all of the benefits that come with owning this delightful farm animal.
 

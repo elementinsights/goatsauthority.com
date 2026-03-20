@@ -35,7 +35,7 @@ faq:
   - question: "Can goats eat overripe fruit?"
     answer: "Goats can eat overripe fruit because they are browsers. This means that they naturally eat a lot of different plants, including leaves, stems, and fruit. And since overripe fruits are softer and easier to chew, goats find them more palatable than fresh fruits."
   - question: "What are the things to consider when feeding overripe fruit to goats?"
-    answer: "When feeding overripe fruit to goats, there are a few things that you need to consider:"
+    answer: "When feeding overripe fruit to goats, there are a few things that you need to consider:."
   - question: "What are overripe fruit and what do they look like?"
     answer: "Overripe fruit is a fruit that has been left on the vine or tree for too long and has begun to deteriorate. The skin may be wrinkled, the color may have faded, and the flesh may be softer than usual."
   - question: "What are the benefits of overripe fruit for goats?"

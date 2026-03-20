@@ -37,7 +37,7 @@ faq:
   - question: "What are the risks of giving goat milk ayurveda to children?"
     answer: "Goat milk has been used as a traditional remedy in Ayurvedic medicine for centuries. But, there's little scientific evidence to support its use, and some experts have raised concerns about its safety."
   - question: "How can you safely give your child goat milk ayurveda?"
-    answer: "Goat milk has been used as a traditional remedy in ayurveda for centuries. Often called the \"elixir of life\", goat milk is rich in nutrients and has many health benefits."
+    answer: "Goat milk has been used as a traditional remedy in ayurveda for centuries. Often called the elixir of life, goat milk is rich in nutrients and has many health benefits."
 ---
 
 You may be wondering if it's okay to give your kids goat milk ayurveda or not. And if so, what are the benefits and risks?

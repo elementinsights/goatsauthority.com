@@ -37,7 +37,7 @@ faq:
   - question: "Is it legal to breed goats and lamps?"
     answer: "there's no law against breeding goats and lamps, as long as the animals are healthy and well-cared for. In fact, many farmers and ranchers crossbreed goats and lamps for the benefit that the offspring, known as geeps."
   - question: "What are the benefits of breeding goats and lambs?"
-    answer: "By breeding goats and lamps, farmers and ranchers can create animals that are hardy and adaptable. Geeps are able to gra"
+    answer: "By breeding goats and lamps, farmers and ranchers can create animals that are hardy and adaptable."
 ---
 
 Goat and lamb breeding is a topic on which many people have questions. We will delve into the subject in-depth and address some of the most frequent queries in this article.

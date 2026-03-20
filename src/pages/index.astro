@@ -158,7 +158,7 @@ const schema = [
             {cat.image && <img src={cat.image} alt={cat.name} loading="lazy" width="420" height="280" />}
             <div class="cat-card-overlay">
               <span class="cat-card-name">{cat.name}</span>
-              <span class="cat-card-count">{categoryCounts[cat.name] || 0} articles</span>
+              <span class="cat-card-count">{categoryCounts[cat.slug] || 0} articles</span>
             </div>
           </a>
         ))}

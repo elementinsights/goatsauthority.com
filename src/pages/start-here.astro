@@ -9,7 +9,7 @@ const pageSchema = {
   "@type": "WebPage",
   "name": `Start Here - ${siteConfig.name}`,
   "description": `New to ${siteConfig.name}? Start here for the best guides, reviews, and resources to find the right products.`,
-  "url": `${siteConfig.url}/start-here`,
+  "url": `${siteConfig.url}/start-here/`,
   "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
 };
 
@@ -18,7 +18,7 @@ const breadcrumbSchema = {
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": siteConfig.url },
-    { "@type": "ListItem", "position": 2, "name": "Start Here", "item": `${siteConfig.url}/start-here` }
+    { "@type": "ListItem", "position": 2, "name": "Start Here", "item": `${siteConfig.url}/start-here/` }
   ]
 };
 
@@ -63,7 +63,11 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 <section class="sh-intro">
   <div class="container">
     <div class="sh-intro-inner animate-on-scroll">
-      <div class="sh-avatar">{siteConfig.author.initial}</div>
+      {siteConfig.author.image ? (
+        <img class="sh-avatar" src={siteConfig.author.image} alt={siteConfig.author.name} />
+      ) : (
+        <div class="sh-avatar">{siteConfig.author.initial}</div>
+      )}
       <div class="sh-intro-text">
         <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've been raising goats for over a decade and I started Goats Authority because finding reliable, goat-specific care advice online is harder than it should be. Most sites give generic livestock advice that doesn't account for how different goats are from sheep or cattle.</p>
         <p>We've published 399 articles covering every aspect of goat ownership &mdash; from "can my goat eat this?" to managing breeding programs and treating common health issues. Whether you're bringing home your first pair of kids or managing a herd of 50, the guides below will help.</p>
@@ -260,7 +264,15 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     max-width: 820px;
     margin: 0 auto;
   }
-  .sh-avatar {
+  img.sh-avatar {
+    flex-shrink: 0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+  }
+  div.sh-avatar {
     flex-shrink: 0;
     width: 70px;
     height: 70px;

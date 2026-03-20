@@ -39,7 +39,7 @@ faq:
   - question: "Are there any risks associated with eating goat meat for postpartum women?"
     answer: "There is no clear consensus on whether or not it is safe for women who have recently given birth to eat goat meat."
   - question: "How to prevent foodborne illness when eating goat meat?"
-    answer: "As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly. To reduce your risk of contracting a foodborne illness, be sure to:"
+    answer: "As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly."
 ---
 Taking care of a baby is a full-time job. If you’re a new mom, you might be wondering if you can eat goat meat or not.
 

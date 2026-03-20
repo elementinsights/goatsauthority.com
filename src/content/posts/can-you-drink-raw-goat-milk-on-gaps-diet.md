@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can You Have Dairy on GAPS?"
-    answer: "The GAPS eating plan limits certain foods, however dairy products like cheese, butter and more can bring a rich and delightful taste to your dishes. To make the most of the [health benefits](/can-goats-milk-be-fro"
+    answer: "The GAPS eating plan limits certain foods, however dairy products like cheese, butter and more can bring a rich and delightful taste to your dishes."
   - question: "Can You Drink Raw Goat Milk on GAPS Diet?"
     answer: "The GAPS diet emphasizes the consumption of fermented dairy products like kefir or yogurt as a starting point, as these foods are easily digestible and provide beneficial probiotics. As your gut health improves, you may be able to integrate small amounts of raw goat milk into your diet."
   - question: "Why Should I Try to Introduce Dairy on a GAPS Diet?"

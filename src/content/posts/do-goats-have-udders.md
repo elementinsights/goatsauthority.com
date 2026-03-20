@@ -37,7 +37,7 @@ faq:
   - question: "Do goats have udders?"
     answer: "Technically speaking, goats have udders, but udders can only be found in female goats (does), which they use for nursing their young and producing milk. Male goats (bucks) lack udders, but they do have teats that are much smaller in size."
   - question: "What do udders look like?"
-    answer: "Udders typically have two teats, which can be either long or short. Each teat is surrounded by an area of thickened skin called the \"bag.\" The bag helps to hold milk and keep the teat from being chafed by the goat's clothing."
+    answer: "Udders typically have two teats, which can be either long or short. Each teat is surrounded by an area of thickened skin called the bag, which helps to hold milk and keep the teat protected."
   - question: "Do all females have udders?"
     answer: "Not all females have udders. Udders are a secondary sex characteristic in mammals, meaning they only develop in animals that are sexually mature. In order for a female to develop udders, she must first reach sexual maturity and produce the hormone estrogen."
   - question: "What breed of goat has more than two udders?"

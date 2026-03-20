@@ -59,6 +59,7 @@ export const siteConfig = {
   author: {
     name: "Jake Holloway",
     initial: "J",
+    image: "/images/author.webp",
     role: "Founder & Goat Husbandry Specialist",
     bio: "Jake has spent over a decade raising dairy and meat goats on small acreage. From bottle-feeding newborn kids to managing breeding programs and treating common health issues, he\'s handled every aspect of goat ownership firsthand. He built Goats Authority to give goat owners the practical, experience-based advice that\'s hard to find online.",
   },

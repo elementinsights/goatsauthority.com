@@ -33,7 +33,7 @@ faq:
   - question: "What Fruit Treats Are Good for Goats?"
     answer: "Goats are known for their hearty appetites. They enjoy a variety of foods, including fruits. One fruit that goats can safely eat is blueberries. Blueberries offer several health benefits to goats. These small berries are packed with vitamins and antioxidants which help boost the goat’s immune system. But remember, moderation is key when feeding your goat any kind of treat, even healthy ones like blueberries. Too much could upset their stomach or cause other issues. Other safe fruit treats include apples and pears but always remove seeds as they may be harmful if ingested in large amounts by your furry friend. So next time you’re enjoying some fresh fruit, consider sharing a few pieces with your pet goat too."
   - question: "What Are Goats Allergic To?"
-    answer: "Goats are known for their hearty appetites. They can eat a wide variety of foods, but not everything is safe for them. Some things might cause allergic reactions in goats. Allergies in goats aren’t common, yet they do occur. The most usual culprits include certain plants and chemicals used around the farm or garden. Plants like oleander, rhododendron, and a"
+    answer: "Goats are known for their hearty appetites. They can eat a wide variety of foods, but not everything is safe for them. Some things might cause allergic reactions in goats. Allergies in goats aren’t common, yet they do occur. The most usual culprits include certain plants and chemicals used around the farm or garden."
 ---
 Have you ever found yourself with a handful of blueberries and a goat staring at you? You might wonder if it’s safe to share your fruity snack.
 

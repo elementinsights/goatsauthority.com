@@ -41,7 +41,7 @@ faq:
   - question: "What are the benefits of goats and horses grazing together?"
     answer: "There are several benefits to grazing goats and horses together. One benefit's that it can help save on hay costs. If your animals can graze together, you will not need to feed them as much hay."
   - question: "What are some tips for grazing goats and horses together?"
-    answer: "Here are some tips for grazing goats and horses together:"
+    answer: "Here are some tips for grazing goats and horses together:."
 ---
 
 Many people are curious if goats and horses can pasture together or not. And if so, what are the benefits?

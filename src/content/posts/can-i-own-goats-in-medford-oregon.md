@@ -56,7 +56,7 @@ If you're not prepared to do this yourself, you'll need to hire a professional.
 
 ## What are the requirements for owning goats in Medford, Oregon?
 
-In Medford, Oregon, there are a number of requirements that must be met in order to own goats. To begin, all goat owners must obtain a valid permit from the city, which will authorize them to keep the animals on their property.
+In Medford, Oregon, there are a number of requirements that must be met in order to own goats. To begin, all goat owners must obtain a valid [permit from the city](/can-i-have-goats-in-the-city-of-lorain-ohio/), which will authorize them to keep the animals on their property.
 
 In addition, all owners must provide adequate space for their goats, ensuring that each animal has at least one hundred square feet of space to call its own. Any fences that are used to enclose goats should also be four feet tall or higher, in order to prevent the animals from escaping.
 
@@ -72,7 +72,7 @@ On top of that, it is crucial to take into account the local climate and weather
 
 Other factors to consider include your own [experience level with raising livestock](/can-i-have-goats-where-i-live/) and any potential concerns or objections from your neighbors.
 
-Overall, it is essential to do thorough research and make informed decisions before bringing home any animals like goats in Medford, Oregon.
+Overall, it is essential to do [thorough research](/can-i-have-a-goat-in-foothill-farms-ca/) and make informed decisions before bringing home any animals like goats in Medford, Oregon.
 
 ## How much work is involved in keeping goats in Medford, Oregon?
 

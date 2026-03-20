@@ -55,6 +55,9 @@ const bottomRelatedPosts = allPosts
     readTime: p.data.readTime,
   }));
 
+const categoryConfig = siteConfig.categories.find(c => c.slug === post.data.category);
+const categoryName = categoryConfig?.name || post.data.category;
+
 const publishDate = post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const pageUrl = new URL(`/${post.id}/`, siteConfig.url).href;
 
@@ -85,7 +88,7 @@ schemas.push({
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": siteConfig.url },
-    { "@type": "ListItem", "position": 2, "name": post.data.category, "item": `${siteConfig.url}/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+    { "@type": "ListItem", "position": 2, "name": categoryName, "item": `${siteConfig.url}/category/${post.data.category}/` },
     { "@type": "ListItem", "position": 3, "name": post.data.title, "item": pageUrl },
   ],
 });
@@ -208,7 +211,7 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
 }
 ---
 
-<ArticleLayout title={post.data.title} description={post.data.description} schema={schemas}>
+<ArticleLayout title={post.data.title} description={post.data.description} image={post.data.image} schema={schemas}>
   <!-- SIDEBAR -->
   <Fragment slot="sidebar">
     {post.data.toc && post.data.toc.length > 0 && (
@@ -265,7 +268,7 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
   <!-- BREADCRUMBS -->
   <Breadcrumbs items={[
     { label: 'Home', href: '/' },
-    { label: post.data.category, href: `/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+    { label: categoryName, href: `/category/${post.data.category}/` },
     { label: post.data.title.split(':')[0].split('(')[0].trim() },
   ]} />
 
@@ -274,12 +277,16 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
 
   <!-- ARTICLE HEADER -->
   <header class="article-header">
-    <span class="article-cat">{post.data.category}</span>
+    <span class="article-cat">{categoryName}</span>
     <h1 class="article-title">{post.data.title}</h1>
     <p class="article-excerpt">{post.data.description}</p>
     <div class="article-meta">
       <div class="article-author">
-        <div class="article-author-avatar">{siteConfig.author.initial}</div>
+        {siteConfig.author.image ? (
+          <img class="article-author-avatar" src={siteConfig.author.image} alt={siteConfig.author.name} />
+        ) : (
+          <div class="article-author-avatar">{siteConfig.author.initial}</div>
+        )}
         <div class="article-author-info">
           <div class="article-author-name">{post.data.author || siteConfig.author.name}</div>
           <div class="article-author-date">Last Updated: {publishDate}{post.data.readTime && ` \u2022 ${post.data.readTime}`}</div>
@@ -391,7 +398,14 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     align-items: center;
     gap: 10px;
   }
-  .article-author-avatar {
+  img.article-author-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+  }
+  div.article-author-avatar {
     width: 40px;
     height: 40px;
     border-radius: 50%;

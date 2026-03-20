@@ -68,7 +68,7 @@ These cute, friendly little creatures are known for their high-quality milk, whi
 
 Both Nigerian dwarf goats and Nubian goats have long floppy ears and short hair, although Nubian goats tend to be somewhat larger than Nigerian dwarf goats.
 
-Both types of goats share a number of common characteristics, including their docile nature and even temperaments.
+Both types of goats share a number of common characteristics, including their [docile nature](/where-did-toggenburg-goats-originate/) and even temperaments.
 
 Whether you're looking for a source of [rich milk](/can-i-raise-goats-for-milk-protein/) or just some adorable critters to keep as pets, Nigerian dwarf goats or Nubian goats are excellent choices.
 

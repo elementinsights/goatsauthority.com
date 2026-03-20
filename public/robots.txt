@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.goatsauthority.com/sitemap.xml
+Sitemap: https://www.goatsauthority.com/sitemap-index.xml

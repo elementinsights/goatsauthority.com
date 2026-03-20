@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat pass afterbirth between kids?"
-    answer: "A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them. This is known as \"passing afterbirth\" and it's perfectly normal."
+    answer: "A goat can pass afterbirth between kids. If a doe is pregnant with multiple kids, she may expel the afterbirth of one or more of the kids before giving birth to them."
   - question: "What is afterbirth and what happens to a goat's afterbirth?"
     answer: "Afterbirth is the placenta and fetal membranes that are expelled from the mother during childbirth. In goats, the afterbirth consists of two parts: the allantochorion and the amnion."
   - question: "How do you care for a newborn goat kid?"

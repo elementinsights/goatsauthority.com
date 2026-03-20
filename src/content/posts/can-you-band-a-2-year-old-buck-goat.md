@@ -35,7 +35,7 @@ faq:
   - question: "Can you band a 2 year old buck goat?"
     answer: "You can band a 2-year-old buck goat if you need to. In fact, it's often recommended to do so in order to help manage the goat population. They are also more likely to mate if they are not banded, so this may be something you want to consider as well."
   - question: "What is banding a goat and why would you do it?"
-    answer: "Banding a goat is the process of putting a rubber ring around the base of their scrotum in order to castrate them. This is usually done for one of two reasons:"
+    answer: "Banding a goat is the process of putting a rubber ring around the base of their scrotum in order to castrate them."
   - question: "How to band a goat - the process?"
     answer: "To band a goat, you'll need a few supplies: a tube of tattoo ink, a sharpie, a pair of pliers, and an ear-tagging gun."
   - question: "What are the benefits of banding a goat?"

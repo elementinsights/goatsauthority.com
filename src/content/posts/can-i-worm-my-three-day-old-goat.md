@@ -33,7 +33,7 @@ faq:
   - question: "Can I worm my three day old goat?"
     answer: "You can worm your three-day-old goat. In fact, it’s recommended that you start worming on them as soon as possible. This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms."
   - question: "What are the signs that a goat needs to be wormed?"
-    answer: "There are a few different signs that may indicate your goat needs to be wormed, including:"
+    answer: "There are a few different signs that may indicate your goat needs to be wormed, including:."
   - question: "What is worming and why is it important for goats?"
     answer: "Worming, or deworming, is an important part of maintaining the health of your goats. Worms are parasitic organisms that live inside the digestive system of goats and other livestock."
   - question: "What are the different types of wormers available for goats and what do they each do?"

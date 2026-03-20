@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "What are the benefits of keeping baby goats together in one pen versus separating them into individual pens?"
-    answer: "There are a few benefits to keeping baby goats together in one pen. For starters, it can help to sociali"
+    answer: "There are a few benefits to keeping baby goats together in one pen."
   - question: "Can 8 Week Old Baby Goats Be in With Each Other?"
     answer: "8 week old baby goats can be in with each other if they are of the same sex. Baby goats need to be around other goats to socialize. If you put two baby goats together that are of different sexes, they may try to mate and could hurt each other."
   - question: "What do baby goats eat?"

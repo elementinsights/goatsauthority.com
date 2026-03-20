@@ -46,7 +46,7 @@ Before you get goats, consider if they are allowed where you live. Some areas do
 
 ## Can I have goats where I live?
 
-If you live in a rural area, there may be more leniency when it comes to having goats. However, if you live in an urban or suburban area, it is likely that you will need to get a permit or special permission before keeping goats.
+If you live in a rural area, there may be more leniency when it comes to having goats. However, if you live in [an urban or suburban area](/can-i-have-goats-in-the-city-of-lorain-ohio/), it is likely that you will need to get a permit or special permission before keeping goats.
 
 Check with your local government to see if goats are allowed in your area.
 
@@ -68,7 +68,7 @@ Goats also make great companion animals. They are social creatures and do best w
 
 ## What do I need to know before getting goats?
 
-Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first.
+Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to [check with your local government](/can-i-raise-goats-in-paradise-town-california/) first.
 
 You will also need to decide what type of goats you want. There are many different breeds of goats, each with their own unique characteristics.
 

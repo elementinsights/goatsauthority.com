@@ -39,7 +39,7 @@ faq:
   - question: "What are the benefits of goats eating hedges?"
     answer: "A hedge is a good source of fiber and roughage, which can help goats with their digestion. A hedge is also high in vitamins and minerals, including vitamin C, which can help boost a goat's immune system. Eating hedge can also help keep a goat's teeth healthy and clean."
   - question: "What are the best hedges for goats to eat?"
-    answer: "There are many different types of hedges that goats can eat. Some of the best hedges for goats include:"
+    answer: "There are many different types of hedges that goats can eat."
   - question: "Are there any risks associated with goats eating hedges?"
     answer: "While goats are known for their ability to eat just about anything, there are some risks associated with allowing them to graze on hedges."
 ---

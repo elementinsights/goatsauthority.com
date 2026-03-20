@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat breed with sheep?"
-    answer: "it's possible because they are both members of the Bovidae family, which includes cows, buffalo, and bison. Though they are different species, goats and sheep can breed and produce offspring. The process of goat-sheep hybridization is known as \"interspecies crossbreeding.\""
+    answer: "It's possible because they are both members of the Bovidae family, which includes cows, buffalo, and bison. Though they are different species, goats and sheep can breed and produce offspring."
   - question: "What is a goat-sheep hybrid and how are they created?"
     answer: "A sheep-goat hybrid is a creature with characteristics of both sheep and goats. While there are many different types of hybrids, the most common is the result of breeding a male goat with a female sheep."
   - question: "What are the benefits of goat-sheep hybrids?"

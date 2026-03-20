@@ -35,9 +35,9 @@ faq:
   - question: "Can goats eat Persicaria perfoliata?"
     answer: "Goats can eat Persicaria perfoliata safely. This plant is not poisonous to them and is actually quite nutritious for goats. It contains high levels of protein, fiber, and essential vitamins and minerals that are essential for goats' health and growth."
   - question: "What are the benefits of Persicaria perfoliata for goats?"
-    answer: "Persicaria perfoliata is a highly nutritious plant that provides many benefits for goats. Some of these benefits include:"
+    answer: "Persicaria perfoliata is a highly nutritious plant that provides many benefits for goats."
   - question: "What are the guidelines for feeding Persicaria perfoliata to goats?"
-    answer: "When feeding Persicaria perfoliata to goats, it is important to follow these guidelines:"
+    answer: "When feeding Persicaria perfoliata to goats, it is important to follow these guidelines:."
   - question: "Are there any risks associated with feeding Persicaria perfoliata to goats?"
     answer: "Persicaria perfoliata, also known as knotweed or Asiatic tearthumb, is a fast-growing herb that is native to Asia. It has been introduced to other regions of the world, including North America, where it is now considered an invasive species."
 ---

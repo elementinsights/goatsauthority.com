@@ -41,7 +41,7 @@ faq:
   - question: "What is inbreeding?"
     answer: "Inbreeding is the breeding of two closely related animals. This can be done by breeding a father and daughter, or a mother and son. It can also be done by breeding two siblings, or a half-brother and sister."
   - question: "What are the pros and cons of line breeding?"
-    answer: "There are both pros and cons to line breeding. Some of the pros include:"
+    answer: "There are both pros and cons to line breeding."
 ---
 We all know that inbreeding is generally not a good idea. It can lead to health problems and weakened offspring.
 

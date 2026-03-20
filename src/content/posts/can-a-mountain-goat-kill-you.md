@@ -39,7 +39,7 @@ faq:
   - question: "What are some of the dangers of mountain goats?"
     answer: "Mountain goats are not actually goats, but a type of antelope. They are native to North America and can be found in the Rocky Mountains, Cascades, and the Sierra Nevada. Mountain goats are well-adapted to life in the mountains."
   - question: "How to stay safe around mountain goats?"
-    answer: "Mountain goats are impressive animals. They are sure-footed and agile, able to scale steep cliffs and navigate narrow ledges with ease. But, mountain goats can also be aggressive, especially when they feel threatened. Here are some tips for staying safe around mountain goats:"
+    answer: "Mountain goats are impressive animals. They are sure-footed and agile, able to scale steep cliffs and navigate narrow ledges with ease. But, mountain goats can also be aggressive, especially when they feel threatened."
   - question: "What are mountain goats and where do they live?"
     answer: "The mountains of North America are home to a kind of wild goat known as the mountain goat. They can be found at elevations of up to 14,000 feet and are well adapted to surviving in challenging environments."
 ---

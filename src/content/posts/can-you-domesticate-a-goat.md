@@ -59,7 +59,7 @@ Proper [training can help ensure](/can-baby-goats-be-house-trained/) that your g
 
 ## What else should I consider before domesticating a goat?
 
-Before domesticating a goat, you should also consider the cost of housing and feeding it. Goats are far from cheap, and the cost of providing them with a healthy diet and safe home can be high.
+Before domesticating a goat, you should also consider the cost of [housing and feeding it](/can-i-use-a-cow-shell-with-goat-liners/). Goats are far from cheap, and the cost of providing them with a healthy diet and safe home can be high.
 
 You should also consider the amount of time you will have to commit to caring for your goat; goats need regular attention and exercise in order to stay healthy and happy.
 

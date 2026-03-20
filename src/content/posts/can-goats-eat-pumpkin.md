@@ -31,7 +31,7 @@ faq:
   - question: "Do goats like pumpkins?"
     answer: "Goats generally like the taste of pumpkins. Pumpkins are often fed to goats as a treat, but they can also be given as a source of nutritional supplement."
   - question: "Can goats eat pumpkin seeds?"
-    answer: "Pumpkin seeds are edible to goats. Pumpkin seeds are an excellent source of protein for goats. Before offering the pumpkin to the goat, you should take the seeds out"
+    answer: "Pumpkin seeds are edible to goats. Pumpkin seeds are an excellent source of protein for goats."
   - question: "Can goats eat pumpkin leaves?"
     answer: "Pumpkin leaves are edible to goats. For goats, pumpkin leaves are a good source of fiber. Before offering the pumpkin to the goat, you should take the leaves off."
   - question: "Can goats eat pumpkin puree?"

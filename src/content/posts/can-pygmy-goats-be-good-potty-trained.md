@@ -33,7 +33,7 @@ faq:
   - question: "Can pygmy goats be good potty trained?"
     answer: "Pygmy goats can be potty trained with some effort and consistency on your part. The process will be easier if you start training them when they're young and if you have multiple goats, as they will learn from each other."
   - question: "What are some things to consider when potty training pygmy goats?"
-    answer: "When potty training pygmy goats, there are a few things you need to keep in mind, such as:"
+    answer: "When potty training pygmy goats, there are a few things you need to keep in mind, such as:."
   - question: "What is potty training a Pygmy goat like compared to other animals?"
     answer: "Potty training a Pygmy goat is similar to potty training other animals like dogs or cats in many ways. For one, goats are very intelligent and generally quick learners, so they can usually grasp the basics of going to the bathroom outside in a relatively short period of time."
   - question: "How can you get started with potty training your Pygmy goat?"

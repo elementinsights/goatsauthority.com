@@ -37,7 +37,7 @@ faq:
   - question: "What type of fence is best for goats?"
     answer: "When it comes to fencing for goats, there are a few things to keep in mind."
   - question: "How to keep your goats safe and secure?"
-    answer: "Goats are curious creatures, and they will often try to escape their enclosure if given the chance. Appropriately, it's important to make sure that your goat fence is secure. Here are a few tips:"
+    answer: "Goats are curious creatures, and they will often try to escape their enclosure if given the chance. Appropriately, it's important to make sure that your goat fence is secure."
   - question: "What is the point of fences, if goats can just climb over them anyway?"
     answer: "Fences are often used to keep animals contained in a specific area. For example, farmers may use fences to keep cattle from roaming onto other property or to keep predators out of a pasture."
 ---

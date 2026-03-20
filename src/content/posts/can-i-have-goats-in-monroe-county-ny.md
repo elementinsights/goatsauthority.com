@@ -50,7 +50,7 @@ Learn [tips for farmers who want to keep goats](/can-i-mix-newborn-goats-and-old
 
 They are energetic, personable creatures that are easy to care for and love being around people. Plus, they can provide a valuable source of milk, meat, or wool, depending on the breed.
 
-Whether you live on a farm or in a city lot, keeping goats may be the perfect choice for you. So don't hesitate - if you're looking for friendly livestock that is sure to bring plenty of joy and satisfaction into your life, consider adding goats to your herd today
+Whether you live on a farm or [in a city lot](/can-i-have-goats-in-the-city-of-lorain-ohio/), keeping goats may be the perfect choice for you. So don't hesitate - if you're looking for friendly livestock that is sure to bring plenty of joy and satisfaction into your life, consider adding goats to your herd today
 
 ## What are the requirements for keeping goats in Monroe County, NY
 
@@ -104,7 +104,7 @@ This ensures that your goats cannot escape and that smaller animals cannot enter
 
 Other key factors include ensuring that there are no gaps in the fencing where animals could potentially squeeze through, making sure that all gates close properly, and taking care not to leave any boards or wires on the ground where a goat could injure itself.
 
-Following these guidelines will help you comply with local regulations and keep your herd safe and happy.
+Following these guidelines will help you comply with [local regulations](/can-i-have-a-goat-in-foothill-farms-ca/) and keep your herd safe and happy.
 
 ## Are there any other options for goat care in Monroe County, NY?
 

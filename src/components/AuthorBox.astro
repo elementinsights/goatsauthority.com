@@ -17,7 +17,11 @@ const {
 ---
 
 <div class="author-box animate-on-scroll">
-  <div class="author-box-avatar">{initial}</div>
+  {siteConfig.author.image ? (
+    <img class="author-box-avatar" src={siteConfig.author.image} alt={name} />
+  ) : (
+    <div class="author-box-avatar">{initial}</div>
+  )}
   <div class="author-box-info">
     <div class="author-box-name">{name}</div>
     <div class="author-box-role">{role}</div>
@@ -36,7 +40,15 @@ const {
     border: 1px solid var(--border);
     margin: 32px 0;
   }
-  .author-box-avatar {
+  img.author-box-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    object-fit: cover;
+    object-position: top;
+  }
+  div.author-box-avatar {
     width: 72px;
     height: 72px;
     border-radius: 50%;

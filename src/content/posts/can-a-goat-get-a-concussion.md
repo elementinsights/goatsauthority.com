@@ -33,7 +33,7 @@ faq:
   - question: "How is a concussion diagnosed in a goat?"
     answer: "A concussion is typically diagnosed based on the signs and symptoms that are present. A veterinarian may also order imaging tests, such as an MRI or CT scan, to rule out other potential causes of the symptoms."
   - question: "What are the long-term effects of a concussion on a goat?"
-    answer: "Untreated or severe concussions can lead to serious health complications, including paralysis, sei"
+    answer: "Untreated or severe concussions can lead to serious health complications, including paralysis, sei."
 ---
 Can a goat sustain a concussion? Many individuals have been perplexed by this question for a very long time.
 

@@ -62,7 +62,7 @@ However, there are a few [things you need to take into consideration before brin
 
 When it comes to keeping goats in Warrenville, there are a few key requirements that you need to be aware of.
 
-First and foremost, your property must be at least one acre in size, and it must have both fencing and a shelter on the premises. In addition, you will need to ensure that your goats receive proper food, water, and veterinary care on a regular basis.
+First and foremost, your [property must be at least one acre](/can-i-raise-goats-in-paradise-town-california/) in size, and it must have both fencing and a shelter on the premises. In addition, you will need to ensure that your goats receive proper food, water, and veterinary care on a regular basis.
 
 And finally, all residents in Warrenville are subject to [goat regulations that govern things like grazing time](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting/) and manure disposal practices.
 
@@ -104,7 +104,7 @@ There are a few key steps that you can take to prevent the [risks associated wit
 
 On top of that, you should make sure to provide them with regular meals and access to fresh water.
 
-Lastly, you should stay up-to-date on the town's regulations governing goat ownership and management and take steps to ensure that you are in compliance.
+Lastly, you should stay up-to-date on the [town's regulations governing goat ownership](/can-i-have-a-goat-in-foothill-farms-ca/) and management and take steps to ensure that you are in compliance.
 
 By taking these precautions, you can help to minimize the risks associated with keeping goats in Warrenville and enjoy all of the benefits that these versatile and rewarding animals have to offer.
 

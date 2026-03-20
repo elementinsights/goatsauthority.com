@@ -96,7 +96,7 @@ Additionally, because it is easy for a horse to pull back on a rope halter or sl
 
 Ultimately, the risks and rewards associated with using a rope halter will depend on your individual training needs and goals.
 
-So if you are considering making the switch from traditional equipment to a rope halter, it is important to carefully weigh all of your options before making a decision.
+So if you are considering making the switch from [traditional equipment](/can-i-use-a-cow-shell-with-goat-liners/) to a rope halter, it is important to carefully weigh all of your options before making a decision.
 
 ## How to use a rope halter on a goat?
 

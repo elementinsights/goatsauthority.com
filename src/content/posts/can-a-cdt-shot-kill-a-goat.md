@@ -39,7 +39,7 @@ faq:
   - question: "Where can I get the CDT shot for my goats?"
     answer: "The CDT shot is available from most large animal veterinarians. You can also purchase the vaccine online or from some feed stores."
   - question: "What are the signs of CDT in goats?"
-    answer: "The signs of CDT include lethargy, loss of appetite, diarrhea, dehydration, and fever. In severe cases, goats may also experience sei"
+    answer: "The signs of CDT include lethargy, loss of appetite, diarrhea, dehydration, and fever."
 ---
 
 Many people are concerned about the safety of the CDT vaccine for goats. In this article, we'll answer the question: "Can a CDT shot kill a goat?" And we'll take a look at the risks, effects, and FAQs about this important topic.

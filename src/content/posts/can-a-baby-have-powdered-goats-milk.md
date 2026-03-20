@@ -35,7 +35,7 @@ faq:
   - question: "How is powdered goat milk made?"
     answer: "Powdered goat milk is made by evaporating the water from fresh goat milk. This leaves behind a powder that can be reconstituted with water."
   - question: "How to preserve goat's milk?"
-    answer: "Goat's milk can be stored in the fridge for up to 2 days. If you want to keep it for longer, you can free"
+    answer: "Goat's milk can be stored in the fridge for up to 2 days."
 ---
 It’s no secret that raising a baby can be expensive. Between the diapers, wipes, clothes, and food, parents can easily spend thousands of dollars in the first year alone.
 

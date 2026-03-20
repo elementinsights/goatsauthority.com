@@ -86,7 +86,7 @@ So you need to carefully consider whether a Boer goat is the right mother for yo
 
 [Nigerian dwarf goats are a relatively new breed](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) of goat, having only been imported to the United States in the 1950s. But, they have quickly become popular for their small size, friendly dispositions, and easy-to-care-for nature.
 
-Nigerian dwarf goats are also known for their high milk production. In fact, they produce more milk per day than any other [breed of dairy goat](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), making them an excellent choice for those looking to start a small-scale dairy operation.
+Nigerian dwarf goats are also known for their high milk production. In fact, they produce more milk per day than any other [breed of dairy goat](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), making them an excellent choice for those looking to start a [small-scale dairy operation](/where-did-toggenburg-goats-originate/).
 
 One of the most unique things about Nigerian dwarf goats is that they are one of the few breeds that can be successfully bred with boer goats.
 

@@ -31,7 +31,7 @@ faq:
   - question: "Why do goats eat everything?"
     answer: "Goats consume everything because they browse rather than graze. This indicates that they like plant materials such as leaves, twigs, and other plant pieces over grass."
   - question: "What makes goats eat everything?"
-    answer: "Goats are often called \"the lawnmowers of the animal kingdom\" because they will pretty much eat anything. Goats are browsers, not grazers like cows. This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation."
+    answer: "Goats are often called the lawnmowers of the animal kingdom because they will pretty much eat anything. Goats are browsers, not grazers like cows. This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation."
   - question: "How to stop goats from eating everything?"
     answer: "If you have goats, chances are good that at some point they will try to eat something they're not supposed to. Whether it's a favorite sweater or a well-tended flower garden, goats will nibble on just about anything."
   - question: "What to feed a goat?"

@@ -35,7 +35,7 @@ faq:
   - question: "What are the symptoms of strangles in goats?"
     answer: "The symptoms of strangles in goats can vary depending on the strain of bacteria involved and the animal's individual response to infection. However, some common signs include fever, lethargy, loss of appetite, and swollen lymph nodes (usually in the head and neck region)."
   - question: "What are the symptoms of strangles in horses?"
-    answer: "Strangles, also known as equine distemper, is a bacterial infection that typically affects horses. It is characterized by a high fever, swelling around the throat or neck area due to enlarged lymph nodes, and sometimes a mouth infection called \"scrumpox.\""
+    answer: "Strangles, also known as equine distemper, is a bacterial infection that typically affects horses."
   - question: "How is strangles transmitted?"
     answer: "Strangles is a highly contagious disease that can affect horses and other equines. It is caused by the bacteria Streptococcus equi and is transmitted primarily through direct contact with infected animals."
 ---
