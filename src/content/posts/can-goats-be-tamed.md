@@ -42,7 +42,7 @@ faq:
     answer: "Goats are social creatures that enjoy the company of other goats, as well as humans. When taming a goat, it's crucial to building up a bond of trust and respect."
 ---
 
-Goats are hardy animals, but they still depend on good management. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and fiber.
+Goat care involves more than just feeding and shelter. These animals are not only cute and entertaining, but they can also provide you with milk, meat, and fiber.
 
 Goats are relatively easy to take care of, but there are a few things you need to know before getting started.
 

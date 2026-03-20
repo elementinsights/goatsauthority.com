@@ -37,7 +37,7 @@ faq:
   - question: "Are there any alternative methods for drenching adult goats?"
     answer: "There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option."
 ---
-Owning goats comes with plenty of rewards and responsibilities. But, there are certain things you need to know in order to do it properly.
+Goats keep you busy, but the work pays off when you do it right. But, there are certain things you need to know in order to do it properly.
 
 One of those things is how to properly feed them.
 

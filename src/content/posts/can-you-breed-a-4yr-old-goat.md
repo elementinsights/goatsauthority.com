@@ -40,7 +40,7 @@ faq:
     answer: "If you're thinking about breeding your goats, there are a few things you'll need to do first. First, you'll need to make sure that your does are in good health and that they're of breeding age (usually one to three years old)."
 ---
 
-Owning goats comes with plenty of rewards and responsibilities. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and other dairy products.
+There is always something to learn when you raise goats. Not only are they cute and friendly animals, but they can also provide you with milk, cheese, and other dairy products.
 
 If you're thinking about breeding your goats, you may be wondering if it's possible to breed a 4-year-old goat or not. And if so, what are the [things you need to consider before breeding your goats](/can-a-dog-get-sick-from-a-goat/)?
 

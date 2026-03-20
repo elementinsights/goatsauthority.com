@@ -43,7 +43,7 @@ faq:
   - question: "Can a lactating goat eat black walnut leaves?"
     answer: "Native to the eastern United States, black walnut trees (Juglans nigra) are a class of deciduous trees. The tree also yields a nut that is prized for its flavor, and its leaves and bark have been further used."
 ---
-Goat ownership requires dedication and the right knowledge. They are intelligent animals and have personality traits that make them unique and fun to be around.
+Whether you have dairy goats or meat goats, the basics matter. They are intelligent animals and have personality traits that make them unique and fun to be around.
 
 Part of being a responsible goat owner is providing them with a [healthy diet](/why-do-goats-eat-everything/) that meets their nutritional needs.
 

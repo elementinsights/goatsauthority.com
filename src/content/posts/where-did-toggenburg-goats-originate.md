@@ -41,7 +41,7 @@ faq:
   - question: "What are the benefits of owning Toggenburg goats?"
     answer: "There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk. In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine."
 ---
-Goats are hardy animals, but they still depend on good management. If you are thinking about getting goats, you may be wondering about their origins.
+Managing goats well means knowing the basics inside and out. If you are thinking about getting goats, you may be wondering about their origins.
 
 Where did Toggenburg goats originate?
 

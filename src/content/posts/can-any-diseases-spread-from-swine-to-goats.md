@@ -41,7 +41,7 @@ faq:
   - question: "What are the symptoms of transmittal diseases in goats?"
     answer: "The symptoms of transmittal diseases in goats can vary depending on the disease."
 ---
-Owning goats comes with plenty of rewards and responsibilities. But before you bring home your new furry friends, it's important to do your research.
+There is always something to learn when you raise goats. But before you bring home your new furry friends, it's important to do your research.
 
 One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats.
 

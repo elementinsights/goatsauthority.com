@@ -35,7 +35,7 @@ faq:
   - question: "How many kids can a Saanen goat have at one time?"
     answer: "Saanen goats are a medium-sized breed of dairy goat that originates from the western Alps in Switzerland. They are known for their large milk production, and as a result, they are often used for commercial dairy operations."
 ---
-Goat ownership requires dedication and the right knowledge. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed.
+Running a goat operation means learning something new every week. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed.
 
 Dairy goats are bred for their milk production, while meat goats are raised for their meat and fiber.
 

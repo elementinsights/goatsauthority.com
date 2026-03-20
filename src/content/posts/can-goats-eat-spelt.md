@@ -41,7 +41,7 @@ faq:
   - question: "Are there any potential side effects of feeding spelt to goats?"
     answer: "Spelt is a type of grain that is sometimes fed to goats. While it is generally considered to be safe, there are some potential side effects that should be considered. For example, spelt contains a compound called lignin, which can be difficult for goats to digest."
 ---
-Goats are hardy animals, but they still depend on good management. They are interesting creatures with their own unique quirks and personalities.
+Keeping goats healthy takes consistent attention and the right knowledge. They are interesting creatures with their own unique quirks and personalities.
 
 One of the questions you may have as a goat owner is what kind of food they can eat. Can goats eat spelt?
 
