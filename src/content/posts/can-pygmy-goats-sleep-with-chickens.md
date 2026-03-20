@@ -132,6 +132,38 @@ Additionally, it's important to provide sufficient feed and water each day, as w
 
 With some careful planning and attention to detail, you can help your goats and chickens sleep safely together in harmony.
 
+### Parasite Cross-Contamination Risks
+
+One of the biggest hidden dangers of housing pygmy goats with chickens is parasite cross-contamination. Chickens carry coccidiosis, and while the specific strain differs between species, a shared living space increases overall parasite loads in the bedding.
+
+Goats can pick up external parasites like poultry mites if they sleep in close contact with chickens. These mites cause itching, hair loss, and skin irritation in goats.
+
+Run fecal tests on both your goats and chickens every couple of months if they share a shelter. Catching a parasite problem early is much cheaper and easier than treating a full-blown infestation.
+
+### Setting Up Separate Sleeping Zones
+
+Even in a shared barn, you can create distinct sleeping zones for your pygmy goats and chickens. Chickens naturally want to roost up high, so install roosting bars at least three feet off the ground.
+
+Give the goats their own bedding area on the opposite side of the barn. A low partition wall, even just two feet tall, keeps the sleeping areas separated while still letting the animals see and hear each other.
+
+This arrangement reduces nighttime disturbances and keeps goat bedding cleaner. Chicken droppings accumulate under the roosts instead of in the goat sleeping area.
+
+### Feeding Challenges in a Shared Space
+
+Goats will eat chicken feed if they can reach it, and that is a real problem. Chicken feed contains high levels of calcium that can cause urinary calculi in male goats, a potentially fatal condition.
+
+Mount chicken feeders high enough that only the chickens can reach them. Three to four feet off the ground with a narrow perch works well.
+
+Keep goat feed in a separate area that chickens cannot access. Ground-level feeders with lids that goats can nudge open but chickens cannot figure out are a good investment.
+
+### Nighttime Predator Protection for Both Species
+
+Housing pygmy goats and chickens together can actually improve predator protection at night. The goats are larger and more alert, and their presence can deter smaller predators like weasels and raccoons that target chickens.
+
+Make sure the shared shelter has secure latches on all doors. Raccoons are smart enough to open simple hooks and slide bolts, so use carabiner clips or padlocks.
+
+Hardware cloth over any windows or ventilation openings keeps predators out while maintaining airflow. Chicken wire is not strong enough to stop a determined raccoon.
+
 ## What to Remember
 
 Overall, pygmy goats can make great additions to any backyard flock of chickens.

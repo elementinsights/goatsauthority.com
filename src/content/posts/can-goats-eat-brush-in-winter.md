@@ -136,6 +136,30 @@ Multiflora rose is one of the best winter browse options because it holds its st
 
 Honeysuckle is another reliable winter browse. Since it is semi-evergreen in many climates, it provides green leaves when almost everything else has gone dormant.
 
+### Toxic Winter Plants to Watch Out For
+
+Several common winter plants are toxic to goats and can be mistaken for safe browse. Yew is the most dangerous. Every part of the yew plant, including the bark, needles, and berries, contains a lethal toxin called taxine. A goat can die within hours of eating just a few ounces.
+
+Rhododendron and azalea hold their leaves through winter in many climates, making them available browse. Both contain grayanotoxins that cause drooling, vomiting, and heart irregularities. Remove these plants from any area where your goats will be browsing.
+
+Wild cherry is another one to watch. The leaves are most toxic after a frost when they are wilting. The wilting process releases cyanide compounds that can kill a goat quickly. Clear all wild cherry branches from your pasture before turning goats out in winter.
+
+### Supplementing Winter Browse With Hay and Minerals
+
+Browse alone will not meet your goats' nutritional needs during winter. The protein content of dormant woody plants drops significantly once the leaves have fallen, leaving mostly bark and twigs with limited nutritional value.
+
+Provide free-choice grass hay alongside whatever browse is available. A good target is three to five pounds of hay per adult goat per day during the coldest months. Alfalfa hay can be offered two or three times per week for an extra protein boost.
+
+A free-choice loose mineral mix formulated for goats is essential year-round but especially important in winter. Goats cannot get enough minerals from browse and hay alone. Look for a mix that includes copper, selenium, and zinc at levels appropriate for goats.
+
+### Using Goats for Winter Land Clearing Projects
+
+Winter is actually a great time to use goats for brush clearing because the lack of leaves makes it easier to see what they are eating. You can target specific invasive species like multiflora rose, honeysuckle, and autumn olive without worrying about the goats ignoring them in favor of leafy green alternatives.
+
+Set up temporary electric fencing to concentrate the goats in the area you want cleared. A small herd of six to eight goats can clear a quarter acre of moderate brush in about two weeks during winter.
+
+Move the temporary fencing as each section gets cleaned up. This keeps the goats focused and prevents them from overgrazing any single spot. The trampled and chewed vegetation will regrow in spring, but it will be much more manageable.
+
 ## Our Take
 
 Goats can eat brush in winter, but there are some risks associated with this behavior. Goats may damage the plant by chewing on the bark or stems, and they may also consume poisonous plants.

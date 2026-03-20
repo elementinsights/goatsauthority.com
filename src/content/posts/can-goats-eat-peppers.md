@@ -142,6 +142,30 @@ Capsaicin, which is found in peppers, can irritate the skin and eyes. It's impor
 
 It's also worth noting that it's important to make sure that the peppers are chopped into [small pieces before feeding them to goats](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help to prevent choking and also make it easier for the goats to digest the peppers.
 
+### Which Pepper Varieties Are Safest for Goats
+
+Bell peppers are the safest option because they contain zero capsaicin. Red, yellow, and orange bell peppers are also sweeter than green ones, which makes goats more likely to eat them willingly.
+
+Banana peppers and sweet Italian peppers are another mild choice that most goats tolerate without any issues. Stay away from anything in the hot pepper category like jalapenos, habaneros, or ghost peppers.
+
+Hot peppers will not poison a goat, but the capsaicin will irritate their mouth and digestive tract. A goat that bites into a hot pepper once will usually avoid peppers entirely after that, which defeats the purpose of offering them as a treat.
+
+### Growing Peppers Specifically for Your Goat Herd
+
+If you have a small garden, growing a few extra bell pepper plants for your goats is easy and cost-effective. Peppers thrive in warm weather and produce fruit from midsummer through the first frost.
+
+Plant them in a raised bed or fenced garden area where the goats cannot get to them. Goats will eat the entire pepper plant down to a nub if they have access, leaves, stems, and all.
+
+Harvest the peppers when they are fully ripe and chop them into chunks before tossing them in the feed trough. A couple of chopped bell peppers split among 4 or 5 goats is a perfect treat-sized portion.
+
+### Peppers as a Source of Natural Vitamin C
+
+One of the biggest benefits of feeding peppers to goats is the vitamin C boost. A single red bell pepper contains more vitamin C than an orange, and goats can use that extra vitamin support during times of stress.
+
+Stressful events like weaning, transport, herd changes, and extreme weather all take a toll on a goat's immune system. Offering peppers during these periods can give their body an extra line of defense.
+
+Vitamin C also plays a role in collagen production, which helps keep joints, skin, and connective tissue healthy. Older goats and pregnant does benefit the most from this added support.
+
 ## The Bottom Line
 
 [Goats can eat peppers](/can-goats-eat-cucumbers/), and there are a number of benefits to doing so. Peppers are packed with nutrients, and they can help to improve the flavor of [goat milk](/can-dogs-drink-goat-milk-everyday/).

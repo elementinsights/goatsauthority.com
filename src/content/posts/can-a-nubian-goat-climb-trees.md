@@ -147,6 +147,14 @@ Their larger, heavier bodies and long floppy ears make them less agile than smal
 
 This does not stop Nubians from trying, of course. They are curious and determined animals. But a 150-pound Nubian on a tree branch creates a lot more stress on the wood than a 40-pound Pygmy would.
 
+### Safe Climbing Alternatives for Your Nubian
+
+Instead of letting your Nubian climb trees, build a dedicated climbing structure in their pen. Old wooden cable spools make excellent goat platforms and can usually be picked up for free from construction sites or utility companies.
+
+Stack two or three spools at different heights to create a multi-level playground. Nubians love having a high point to stand on and survey their territory. Bolt the spools together so they cannot tip over under the weight of a full-grown adult.
+
+Large rocks and boulders are another great natural option. Arrange them in a gradual staircase pattern so your goats can climb without risking a long fall. The rough surface is also good for naturally wearing down their hooves.
+
 ## What to Remember
 
 Nubian goats can climb trees. However, it's not recommended as it can be dangerous for the goat.

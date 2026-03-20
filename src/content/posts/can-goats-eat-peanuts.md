@@ -140,6 +140,14 @@ For all these reasons, peanuts can be a healthy part of a goat's diet. Even so, 
 
 Too many peanuts can lead to weight gain and digestive problems.
 
+### How to Introduce Peanuts to Your Goats
+
+Start with just two or three peanuts per goat on the first day. Watch for any signs of digestive upset over the next 24 hours before increasing the amount.
+
+Some goats will crack the shells open themselves, while others prefer to eat the whole thing, shell and all. If your goats are choking on whole peanuts, crush them lightly with a hammer before serving.
+
+By the end of the first week, you should have a good sense of how your goats handle peanuts. From there you can settle into a regular treat routine of a small handful a few times per week.
+
 ### Roasted vs. Raw Peanuts for Goats
 
 Raw peanuts are generally the better choice for goats. Roasted peanuts often come with added salt, oil, or seasoning that can upset a goat's stomach or contribute to sodium overload.

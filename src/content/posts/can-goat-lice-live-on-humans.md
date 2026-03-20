@@ -127,6 +127,30 @@ In severe cases, oral ivermectin may be necessary.
 
 By taking these steps, you can help prevent the spread of goat lice and protect your family's health.
 
+### How to Check Your Goats for Lice
+
+Checking your goats for lice is straightforward once you know where to look. Part the hair along the neck, behind the ears, and along the topline where the coat is thickest.
+
+Use your fingers to spread the hair down to the skin and look for tiny moving specks. Chewing lice are tan or brown and move quickly, while sucking lice are darker and tend to stay in one spot.
+
+A magnifying glass helps if your eyesight is not great. Check at least three or four spots on each goat because lice tend to congregate in certain areas rather than spreading evenly across the body.
+
+### Natural Lice Treatment Options
+
+Some goat owners prefer to avoid chemical pesticides and use natural alternatives instead. Diatomaceous earth (food grade only) can be dusted into the coat to physically damage the lice exoskeletons and kill them through dehydration.
+
+Neem oil mixed with water and sprayed onto the coat is another option that many folks swear by. It smells strong, but it does seem to repel lice and soothe irritated skin at the same time.
+
+Keep in mind that natural treatments often require multiple applications over several weeks to fully break the lice life cycle. They work slower than chemical options, so patience is key.
+
+### How Lice Spread Between Goats
+
+Direct body contact is the number one way lice travel from one goat to another. Goats that sleep huddled together or share tight feeding spaces are most at risk.
+
+Shared brushes, blankets, and halters can also carry lice and their eggs from animal to animal. Dedicate separate grooming tools for any goat you suspect might be infested.
+
+New goats brought onto your property should be quarantined for at least two weeks before joining the main herd. Check them thoroughly for lice before introduction, even if they came from a clean-looking farm.
+
 ### Seasonal Patterns of Goat Lice
 
 Goat lice follow a very predictable seasonal pattern. Infestations peak during the late fall and winter months when goats grow thicker coats and spend more time huddled together indoors. The warm, dense fur creates the perfect environment for lice to breed.

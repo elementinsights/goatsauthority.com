@@ -122,6 +122,38 @@ The band should be tight enough to cut off circulation but not so tight that it 
 
 Once the horn has fallen off, the band can be removed and the area will heal on its own. Banding is a safe and effective way to remove horns from adult goats with minimal stress or discomfort.
 
+### Pain Management During Banding
+
+Banding is not painless, even though many people describe it as less traumatic than surgical dehorning. The goat will feel pressure and discomfort as the blood supply to the horn is gradually cut off.
+
+Talk to your vet about using a local anesthetic or a pain reliever like banamine before you apply the bands. A small dose of meloxicam given orally can help keep the goat comfortable during the first few days.
+
+Watch for signs of severe pain such as teeth grinding, excessive vocalization, or refusing to eat. If the goat seems to be suffering beyond normal discomfort, contact your vet for additional pain management options.
+
+### How Long Does Banding Take to Work?
+
+The banding process is slow by design. Expect the horn to take anywhere from four to eight weeks to fully separate from the skull, depending on the thickness of the horn.
+
+During this time, the horn will gradually lose feeling and become cooler to the touch as the blood supply is cut off. You may notice a slight odor near the base of the horn as the tissue dies. This is normal.
+
+Once the horn is loose enough, it will eventually fall off on its own. Do not try to twist or pull it off early, as this can tear the skin and create an open wound that is prone to infection.
+
+### Dealing with Bleeding After Horn Removal
+
+Some bleeding is normal when the horn finally detaches. The exposed area may ooze blood for a few hours after the horn falls off.
+
+Apply blood stop powder or cornstarch to the area to help clot the wound. Keep the goat in a clean, dry pen away from flies and dust until the wound scabs over, which usually takes two to three days.
+
+If bleeding continues for more than a few hours or the goat seems weak or lethargic, call your vet right away. Heavy blood loss from a dehorning wound can be life-threatening if not addressed promptly.
+
+### Should You Band or Disbud Instead?
+
+If you have the choice, disbudding kids at a young age is almost always preferable to banding adult horns. The procedure is faster, less painful, and carries a lower risk of complications.
+
+Banding should be reserved for situations where disbudding was missed and the horns have already grown in. It is a viable option, but it is not the first choice for experienced goat owners.
+
+If the horns are extremely thick or curved, banding may not work at all. In those cases, surgical removal by a vet is the safest path forward.
+
 ## Wrapping Up
 
 The decision of whether or not to dehorn your goats is a personal one that depends on your individual circumstances.

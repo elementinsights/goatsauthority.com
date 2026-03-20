@@ -133,6 +133,38 @@ If you are considering bonding your horses and goats, be sure to weigh the pros 
 
 Monitor the relationship closely and provide plenty of support to both animals in order to ensure a positive experience for all.
 
+### What Happens When You Separate a Bonded Horse and Goat
+
+Separation anxiety is a real concern when a horse and goat have formed a strong bond. If you need to take the horse to a show or a vet appointment, the goat left behind may pace, scream, and refuse to eat.
+
+The horse can show similar distress. Horses that are bonded to a goat companion may become difficult to load into a trailer if the goat is not coming along. Some horse owners bring the companion goat to shows just to keep the horse calm in a strange environment.
+
+If you know a permanent separation is coming, introduce the goat to another companion animal gradually before making the switch. A second goat or a friendly sheep can help ease the transition.
+
+### Setting Up a Shared Living Space
+
+Horses and goats can share a pasture, but they need separate feeding stations. Horses eat different feed than goats, and horse feed often contains additives like monensin that are toxic to goats. Even a small amount of monensin can be fatal.
+
+Build the goat's feeding area inside a creep feeder that only the goat can access. A simple opening about 14 inches wide and 24 inches tall lets goats in while keeping horses out.
+
+Water troughs should be accessible to both animals, but make sure the trough is low enough for the goat to reach. A horse-height water tank can leave a goat unable to drink unless you add a step or platform.
+
+### Reading Body Language Between the Two Species
+
+Horses and goats communicate differently, but they learn to read each other over time. A horse that pins its ears back is warning the goat to back off. Most goats figure this out quickly and move away before the horse escalates to kicking.
+
+A goat that lowers its head and charges is playing, not fighting. Horses usually tolerate this behavior if the goat is small, but a large goat butting a horse's legs can cause injury. Watch for bruising on the horse's lower legs if you have a particularly pushy goat.
+
+Mutual grooming is the strongest sign of a solid bond. When a horse nibbles at the goat's back and the goat leans into it, you know these two have accepted each other as herd mates.
+
+### Health Concerns With Mixed-Species Housing
+
+Goats and horses share some parasites, which means keeping them together can increase the parasite load in your pasture. Rotate them off shared pastures regularly and maintain separate deworming schedules for each species.
+
+Goats can carry diseases that do not affect horses and vice versa. Caseous lymphadenitis (CL) is a goat disease that creates abscesses, and while horses are not typically affected, the bacteria can contaminate shared spaces.
+
+Keep your vet informed that you house both species together. They can adjust vaccination and deworming protocols based on the specific risks of mixed-species management.
+
 ## Closing Notes
 
 Overall, there are a few pros and cons to consider before bonding your horses and goats. If you do decide to bond with them, be sure to monitor their relationship closely and provide plenty of support.

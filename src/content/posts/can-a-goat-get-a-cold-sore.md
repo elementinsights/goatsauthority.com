@@ -126,6 +126,22 @@ Fortunately, cold sores in goats are not considered to be contagious. There's no
 
 Even so, it's still important to practice good hygiene and avoid close contact with goats that have [cold sores](/can-pregnant-goats-eat-medicated-feed/). If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
 
+### Stress Triggers That Can Cause Outbreaks
+
+Just like in humans, stress is one of the biggest triggers for cold sore flare-ups in goats. Moving to a new farm, introducing new herd members, or sudden changes in diet can all weaken a goat's immune system enough to trigger an outbreak.
+
+Extreme weather changes are another common trigger. A goat that gets chilled by a sudden cold snap or overheated during a summer heatwave is more likely to develop sores around the mouth.
+
+Keeping your goats on a consistent routine with stable feed, shelter, and companionship goes a long way toward preventing stress-related outbreaks. A calm goat is a healthy goat.
+
+### How to Quarantine an Infected Goat
+
+If you spot cold sores on one of your goats, separate that animal from the rest of the herd immediately. Set up a quarantine pen at least 20 feet from the main herd area.
+
+Use separate feed buckets, water containers, and grooming tools for the infected goat. The virus can survive on surfaces for a short time, so disinfecting anything the sick goat touches is critical.
+
+Keep the quarantine going for at least two weeks after the sores have fully healed. Rushing a goat back into the herd too soon risks spreading the infection to everyone else.
+
 ### Orf Virus vs. Cold Sores in Goats
 
 One condition that is often confused with cold sores in goats is orf, also known as sore mouth or contagious ecthyma. Orf causes scabby lesions around the mouth, nostrils, and sometimes the udder.

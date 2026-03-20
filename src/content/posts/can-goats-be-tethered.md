@@ -142,6 +142,30 @@ Fencing allows goats to roam freely while still keeping them contained in a spec
 
 Ultimately, the best way to restrain goats will depend on the individual needs of the goat and the preferences of the owner.
 
+### Setting Up a Tether Station the Right Way
+
+Use a heavy-duty swivel snap on both ends of the tether line. A swivel prevents the line from twisting and tangling, which is one of the biggest safety hazards with tethering. You can buy swivel snaps at any farm supply store for a few dollars each.
+
+Anchor the tether to a heavy ground stake or a solid post rather than a tree. Trees have exposed roots and low branches that create snag points. A smooth metal stake driven two feet into the ground is the safest anchor point.
+
+Mark the tether radius with small flags so you can see at a glance how far the goat can reach. This helps you position water and shade within the circle and keeps you from accidentally placing anything dangerous within range.
+
+### How Long Can You Safely Tether a Goat?
+
+Most experienced goat keepers limit tethering sessions to four hours or less. Anything longer than that increases the risk of dehydration, tangling, and stress-related health problems.
+
+Never tether a goat overnight. Predators like coyotes and stray dogs are active after dark, and a tethered goat cannot run away. Even if predators are not a concern in your area, a panicked goat can strangle itself on a tether line in the dark.
+
+Check on your tethered goat every 30 minutes if possible. A quick visual check takes just a few seconds and can prevent a small problem from becoming a life-threatening one.
+
+### DIY Tether Line on a Budget
+
+You can build a safe tether system for under twenty dollars using supplies from a hardware store. Buy a 20-foot length of lightweight chain, two swivel snaps, and a metal ground stake.
+
+Avoid using rope as a tether material. Goats chew through rope in minutes, and frayed rope creates a choking hazard. Lightweight chain is chew-proof and lasts for years.
+
+Attach a breakaway link somewhere in the chain if you are worried about the goat getting caught on something. A breakaway link snaps under heavy pressure, freeing the goat before it can injure itself.
+
 ## Quick Recap
 
 Goats can be tethered, but it's important to do so safely and correctly. Tethering can be harmful to goats if they are not given enough space to move around comfortably, and it can also prevent them from socializing with other goats.

@@ -144,6 +144,20 @@ Additionally, hay is less likely to cause digestive problems than cooked pasta. 
 
 These are a good source of vitamins and minerals, and they can help to keep your [goat's digestive system](/can-goats-digest-anything/) healthy. Just be sure to avoid giving your goat any fruits or vegetables that are high in sugar or salt.
 
+### Better Treat Options Than Pasta
+
+If you want to give your goats a treat, there are much healthier options than cooked pasta. Fresh vegetables like carrots, sweet potatoes, and squash provide vitamins without the empty carbohydrates.
+
+Apple slices are another favorite that most goats go crazy for. Just remove the seeds first, as apple seeds contain small amounts of cyanide that can build up over time.
+
+Sunflower seeds make an excellent high-energy treat during cold months. They are packed with healthy fats and protein, and goats love cracking them open.
+
+### How to Tell If Your Goat Ate Too Much Pasta
+
+The first sign of overfeeding is soft or runny stool. If your goat's droppings change from firm pellets to clumpy or liquid within a day of eating pasta, you gave too much.
+
+Bloating is a more serious concern. A bloated goat will have a visibly distended left side and may stand with its legs spread wide. Offer baking soda mixed in water and contact your vet if the bloating does not resolve within an hour.
+
 ## Quick Recap
 
 [Goats can eat cooked pasta](/can-goats-eat-watermelon/). However, it's important to feed them only a small amount to prevent digestive problems.

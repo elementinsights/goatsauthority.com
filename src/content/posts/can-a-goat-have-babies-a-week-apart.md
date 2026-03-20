@@ -138,6 +138,30 @@ For example, dairy [goats are bred for their high milk production](/can-a-cat-dr
 
 And finally, it's important to understand the basics of goat reproductive anatomy. The female reproductive tract includes the ovaries, Fallopian tubes, uterus, cervix, and vulva.
 
+### What Happens When a Doe Retains a Kid
+
+Sometimes a doe will deliver one or two kids and then stop pushing, even though there is still another kid inside. This is called a retained kid, and it can look like the doe had babies days or even a week apart when in reality she just stalled during delivery.
+
+A retained kid is a veterinary emergency. If more than an hour passes between kids without any progress, you need to check the doe or call your vet. Waiting too long can mean a dead kid and a seriously sick mother.
+
+I always keep a pair of OB gloves and lubricant in my kidding kit for exactly this situation. Going in to reposition a stuck kid is not fun, but it saves lives when you catch it early.
+
+### Keeping Records During Kidding Season
+
+A simple notebook in the barn can save you a lot of confusion during a busy kidding season. Write down the date and time each doe delivers, how many kids she had, and whether there were any complications.
+
+This record-keeping becomes critical when you have multiple does due around the same time. It is easy to mix up which doe kidded when, especially at 2 AM when you are running on coffee and adrenaline.
+
+Tracking kidding dates also helps you plan for next year. You will know exactly when each doe was bred and can adjust your breeding schedule to spread out the workload.
+
+### Recognizing a Doe That Needs Help During Labor
+
+A doe in active labor that stops making progress for more than 30 minutes likely needs assistance. Look for signs like repeated straining with no kid appearing, a water bag that breaks with nothing following, or a doe that lies down and gives up.
+
+Check for a nose or hooves at the vulva. Two hooves and a nose mean the kid is in the right position. One hoof or just a nose means the kid is malpresented and needs to be repositioned before delivery can continue.
+
+Staying calm during these moments makes all the difference. The doe can sense your anxiety, and a stressed handler makes for a stressed goat.
+
 ## Quick Recap
 
 Goats can have babies a week apart and they can have babies more than once a year. However, there are a few things that you [need to know about breeding goats](/can-you-breed-a-6-yr-old-goat-for-first-time/), such as the difference between bucks and does, the different types of goat breeds, and the basics of goat reproductive anatomy.

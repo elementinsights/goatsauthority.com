@@ -130,6 +130,32 @@ If you live in the city and don't have any other goats for them to interact with
 
 By taking these precautions, you can be sure that your goats will be happy and healthy for years to come.
 
+### Dealing With Noise Complaints From Neighbors
+
+One thing nobody warns you about is how loud goats can get at feeding time. Even quiet breeds like Nigerian Dwarfs will holler when they see you coming with a grain bucket.
+
+Talk to your closest neighbors before you bring goats home. Letting them know your plans ahead of time goes a long way toward keeping the peace. Most people are surprisingly supportive once you explain what you're doing.
+
+Set a consistent feeding schedule so the goats aren't screaming at random hours. A goat that knows breakfast comes at 7 AM will settle down quickly after eating. The ones that scream all day are usually bored, hungry, or lonely.
+
+If a neighbor does complain, take it seriously. Offer them some fresh eggs or vegetables from your garden as a goodwill gesture. A little kindness prevents the situation from turning into a code enforcement call.
+
+### Waste Management in a City Lot
+
+Goat manure piles up faster than you'd expect, especially on a small lot. Two goats will produce enough manure to fill a wheelbarrow every week.
+
+Composting is your best option. Set up a simple three-bin system in a back corner of your yard and turn the pile every couple of weeks. Goat manure composts faster than horse or cow manure because the pellets are small and break down quickly.
+
+You can also bag the composted manure and share it with gardening neighbors. It makes excellent fertilizer for flower beds and vegetable gardens, and it builds goodwill with the people living around you.
+
+### What Veterinary Care Looks Like in an Urban Area
+
+Finding a large-animal vet in a city like Lorain can be tricky. Most urban vets specialize in dogs and cats, not livestock.
+
+Start calling around before you even buy your goats. Ask local farm supply stores for recommendations, or reach out to the nearest county extension office. They usually keep a list of vets who treat small ruminants.
+
+Build a basic first aid kit for your goats that includes a digital thermometer, hoof trimmers, antiseptic spray, and electrolyte powder. Handling minor issues yourself saves you emergency vet bills and keeps your goats healthier between checkups.
+
 ## Our Take
 
 You can have a great time keeping goats in the city, but it's important to do your research first. Make sure you understand the challenges associated with this endeavor and take the time to plan and prepare accordingly.

@@ -136,6 +136,20 @@ Field corn is used for animal feed or to make ethanol fuel. Popcorn is made from
 
 When heated, the water inside the kernel turns to steam and expands, causing the kernel to pop.
 
+### Whole Kernel vs. Cracked Corn: Which Is Better?
+
+Cracked corn is easier for goats to digest because the hard outer shell has already been broken. Whole kernels pass through the digestive system partially undigested, which means your goat is not getting the full nutritional benefit.
+
+If you are feeding corn to dairy goats, cracked corn is the clear winner. The faster digestion means the energy is available sooner for milk production. For meat goats being finished for market, whole kernel corn can work fine since they are eating larger quantities anyway.
+
+Store cracked corn in a sealed metal bin to keep moisture and rodents out. Cracked corn absorbs moisture faster than whole kernels and can mold within days in a humid barn.
+
+### Signs You Are Feeding Too Much Corn
+
+The first warning sign is soft, clumpy droppings instead of firm pellets. A healthy goat produces well-formed pellets, and any change in consistency means the rumen pH is off balance.
+
+A goat that gets too much corn can develop acidosis, which is a dangerous drop in rumen pH. Symptoms include grinding teeth, not wanting to move, and kicking at the belly. This is a veterinary emergency that requires immediate attention.
+
 ## Quick Recap
 
 Goats can eat corn, However, there are some risks to consider before adding it to their diet. Corn is high in sugar and can lead to blackheads if not fed in moderation.

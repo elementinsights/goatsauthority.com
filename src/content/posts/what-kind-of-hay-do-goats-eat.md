@@ -140,6 +140,30 @@ Finally, don't forget about water. Goats need access to clean, fresh water at al
 
 By offering your goats a variety of food and water options, you can help them stay healthy and happy.
 
+### How Much Hay Does a Goat Need Per Day?
+
+A standard-sized adult goat will eat roughly 3 to 4 pounds of hay per day. That works out to about 2 to 4% of their body weight, depending on the breed and activity level.
+
+Lactating does need more hay than dry does or wethers because their bodies are working overtime to produce milk. Expect a heavy milker to go through closer to 5 pounds per day.
+
+During winter, goats will eat more hay to generate body heat. Stock up before the cold months hit so you do not run short when your local supplier sells out.
+
+### How to Build a Simple Hay Feeder
+
+Goats are messy eaters and will waste a shocking amount of hay if you just toss it on the ground. A keyhole-style hay feeder solves this problem by forcing them to pull hay through narrow slots.
+
+You can build one from scrap lumber and a few pieces of livestock panel in about an hour. Make the openings wide enough for a goat to fit its head through but narrow enough that they cannot drag out whole flakes and stomp on them.
+
+Hang the feeder at head height or slightly above so the hay stays clean and off the ground. This one simple change can cut your hay waste in half overnight.
+
+### Signs You Are Buying Bad Hay
+
+Bad hay can do more harm than good. Moldy hay can cause respiratory infections and digestive problems that lead to expensive vet bills.
+
+Squeeze a handful and smell it. Good hay smells sweet and grassy. If it smells sour, dusty, or like ammonia, walk away from that batch.
+
+Check the color too. Bright green hay is the freshest and most nutritious. Pale yellow or brown hay has been rained on or stored too long and has lost most of its nutritional value.
+
 ## Wrapping Up
 
 Hay is an important part of a goat's diet, providing essential nutrients and fiber. There are a variety of different types of hay available, and it's crucial to choose one that is best suited for your goats' needs.

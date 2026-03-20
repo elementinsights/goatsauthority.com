@@ -137,6 +137,22 @@ After milking, wash your hands thoroughly with antibacterial soap and warm water
 
 It also helps to keep a bottle of hand sanitizer in the milking area for quick clean-ups between animals. These simple steps go a long way toward keeping you safe.
 
+### How to Spot Mastitis in Your Goats Early
+
+Catching mastitis early is the best way to protect both your goats and yourself. Check the udder before every milking session by looking for heat, swelling, or hardness in either half.
+
+Do a strip test by squirting the first few streams of milk onto a dark surface or into a strip cup. Healthy milk should be smooth and white. If you see clumps, strings, or a watery texture, that udder half is likely infected.
+
+The California Mastitis Test is a cheap and easy on-farm test you can run yourself. You mix a squirt of milk with the test reagent on a paddle, and the gel reaction tells you whether the somatic cell count is elevated. It takes about 30 seconds and gives you a fast answer.
+
+### Long-Term Prevention Strategies for Goat Farmers
+
+Keeping your milking routine consistent and clean is the single most important thing you can do. Use a pre-milking teat wash, milk with clean dry hands or gloves, and apply teat dip after every session.
+
+Do not let goats lie in dirty bedding right after milking. The teat opening stays dilated for about 30 minutes after milking, and bacteria can enter easily during that window. Keep them standing by offering fresh hay or grain at a raised feeder.
+
+Test your herd for mastitis-causing bacteria at least once a year through a milk culture. Your vet can send samples to a lab and tell you exactly which organisms are present so you can target your prevention strategy.
+
 ## Wrapping Up
 
 In general, cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.

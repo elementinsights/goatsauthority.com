@@ -126,6 +126,30 @@ Still, this method is less accurate and can be very difficult to do with larger 
 
 Overall, then, the kid feeding tube is generally considered to be the best option for drenching adult goats.
 
+### How to Tell If the Tube Is in the Wrong Place
+
+The biggest risk when tube-feeding any animal is accidentally inserting the tube into the trachea instead of the esophagus. If liquid goes into the lungs, the goat can develop aspiration pneumonia, which is often fatal.
+
+Before pushing any liquid through the tube, check its placement. Place your thumb and index finger on either side of the goat's windpipe at the throat and feel for the tube. You should be able to feel the tube as a firm ridge alongside the trachea. If you cannot feel it separately from the windpipe, pull the tube out and start over.
+
+Another check is to put the open end of the tube in a cup of water before connecting the syringe. If bubbles appear in time with the goat's breathing, the tube is in the trachea. Remove it immediately and try again.
+
+### Cleaning and Storing Your Feeding Equipment
+
+Rinse the tube with warm water immediately after each use. Dried medication or milk residue inside the tube is nearly impossible to remove and becomes a breeding ground for bacteria.
+
+Soak the tube in a diluted bleach solution for 10 minutes after rinsing, then rinse again with clean water and hang it to air dry. Store it in a clean ziplock bag to keep dust and debris out between uses.
+
+Replace feeding tubes that show any signs of cracking, discoloration, or stiffness. A stiff tube is harder to insert and more likely to cause injury to the goat's esophagus. Most tubes last about a year with regular use before they need replacing.
+
+### Building Confidence With Practice
+
+If you have never tube-fed an animal before, practice on a calm, cooperative goat before you need to do it in an emergency. Ask your vet to walk you through the process during a routine visit so you can get hands-on guidance.
+
+Having an experienced helper the first few times makes a huge difference. One person holds the goat steady while the other handles the tube and syringe. Once you have done it a few times, you will be able to manage solo if needed.
+
+Keep a written step-by-step guide taped to the inside of your barn medicine cabinet. During a stressful emergency situation, having clear instructions to follow prevents mistakes that happen when you are panicking.
+
 ## What to Remember
 
 Overall, using a kid feeding tube for drenching adult goats is a safe, easy, and effective way to deliver medication or supplements.

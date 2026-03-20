@@ -130,6 +130,38 @@ Finally, it is important to avoid overfeeding your goats and monitor their eatin
 
 By taking these essential precautions, you can ensure the safety and well-being of your beloved goats when feeding them horse treats.
 
+### Safe Horse Treat Ingredients for Goats
+
+When shopping for horse treats to share with your goats, read the ingredient list carefully. Treats made primarily from oats, barley, and flaxseed are generally safe choices.
+
+Apple-flavored treats are usually fine as long as the sugar content stays under 10%. Goats love the sweet taste, and a treat or two after milking can turn even the most stubborn doe into a cooperative milker.
+
+Stay away from treats that contain xylitol, chocolate, or large amounts of garlic. These ingredients are common in some specialty horse treat brands and can cause real problems for goats.
+
+### How Many Horse Treats Per Day Is Safe?
+
+Stick to two or three small treats per goat per day. That is plenty to use as training rewards without throwing off their nutritional balance.
+
+If you have Nigerian Dwarf or Pygmy goats, cut that number in half. Their smaller body size means they are more sensitive to the extra sugar and calories.
+
+Treats should never make up more than 5% of your goat's total daily diet. The bulk of their nutrition should come from quality hay, pasture, and a balanced grain ration.
+
+### Making Your Own Goat-Safe Treats at Home
+
+You can easily make goat treats at home using ingredients you probably already have. Mix rolled oats with a little molasses and some chopped carrots, then press the mixture into small balls and bake at 350 degrees for about 15 minutes.
+
+Another easy recipe is to slice apples and dehydrate them in the oven on low heat for a few hours. These dried apple chips store well in a sealed jar and goats go crazy for them.
+
+Homemade treats give you full control over what your goats are eating. You will never have to worry about hidden ingredients or chemical preservatives.
+
+### Using Horse Treats for Training
+
+Horse treats work surprisingly well for training goats because they are the perfect size for a quick reward. Keep a few in your pocket during milking, hoof trimming, or leading practice.
+
+Goats are food-motivated animals, and they catch on fast when a behavior earns them something tasty. Within a few sessions, most goats will willingly jump on the milk stand or follow you on a lead.
+
+Just be consistent with your timing. Give the treat within a second or two of the desired behavior so your goat makes the connection between the action and the reward.
+
 ## Closing Notes
 
 Overall, when feeding horse treats to goats, it is important to balance the potential benefits against any risks in order to make an informed decision about what is best for your animals.

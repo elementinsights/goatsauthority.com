@@ -126,6 +126,14 @@ Choosing the right alternative food source for [pygmy goats often comes down to 
 
 Ultimately though, any alternative food source for pygmy goats should be carefully selected to maintain the health of these small but resilient animals.
 
+### How Much Hay Do Pygmy Goats Waste?
+
+Pygmy goats are notorious hay wasters. Without a proper feeder, they will pull out more than they eat and trample the rest into the bedding.
+
+A keyhole feeder or hay net with small openings can cut waste by 40% or more. The small investment in a decent feeder pays for itself within a few months of saved hay.
+
+If you free-feed hay on the ground, offer small amounts multiple times per day instead of one big pile. This keeps the hay fresh and reduces the amount that gets soiled and rejected.
+
 ### How to Check Hay Quality Before Buying
 
 Good hay should smell fresh and slightly sweet. If it has a musty or sour odor, pass on it. That smell usually means mold has started to grow, and moldy hay can cause serious respiratory and digestive problems for pygmy goats.

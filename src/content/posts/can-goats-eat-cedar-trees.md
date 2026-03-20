@@ -151,6 +151,20 @@ Not all cedar trees carry the same level of risk. White cedar (Thuja occidentali
 
 If you are unsure which type of cedar is growing on your property, take a sample to your local agricultural extension office. They can identify it for free and tell you whether it is safe for your goats to browse.
 
+### How to Remove Cedar From Your Goat Pasture
+
+If you decide that cedar poses too much risk for your herd, removing it from the pasture is the safest move. Cut the trees down during dry weather and haul the debris away before letting goats back into the area.
+
+Do not leave cut cedar branches on the ground where goats can access them. Wilting cedar foliage can actually become more concentrated in thujone as the leaves dry out, making them more dangerous than the fresh stuff.
+
+You can chip the cedar wood and use it as mulch in areas your goats do not have access to. Cedar mulch is great for garden beds and smells fantastic, so it does not go to waste.
+
+### Signs of Cedar Toxicity to Watch For
+
+If your goat does eat too much cedar, watch for symptoms like drooling, loss of appetite, labored breathing, and general weakness. Diarrhea and a noticeable drop in milk production can also point to cedar-related issues.
+
+In pregnant does, even moderate cedar consumption can trigger early labor or miscarriage. If you notice any of these warning signs, pull the goat off the pasture immediately and call your vet.
+
 ## Wrapping Up
 
 Overall, cedar trees can be a healthy and nutritious addition to your goat's diet. But you must do your research and take some precautions before feeding cedar to your goats.

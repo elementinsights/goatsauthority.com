@@ -144,6 +144,30 @@ Plastic bags, baling twine, rubber bands, and small hardware items are genuine h
 
 A goat that swallows a plastic bag can develop a blockage in the reticulum (the second stomach chamber) that may require surgery to remove. Keep your barn and pasture clear of trash and loose hardware.
 
+### How to Build a Safe Goat Pasture Diet
+
+The best way to keep your goats healthy is to give them a diverse pasture with plenty of safe browse options. A mix of grasses, clover, and woody shrubs gives them the variety their rumen needs to function at its best.
+
+Plant a few different types of browse trees in or near the pasture. Mulberry, willow, and poplar are all favorites that goats will strip bare if given the chance. Rotate access to different areas of the pasture so the vegetation has time to recover.
+
+Supplement pasture grazing with quality hay and a loose mineral mix formulated for goats. The mineral mix should contain copper, selenium, and zinc at levels appropriate for your region.
+
+### Foods That Will Make a Goat Sick Fast
+
+While goats can handle a lot of different plants, there are certain foods that will send them downhill in a hurry. Avocado leaves and fruit are toxic to goats and can cause heart failure. Azaleas and rhododendrons are equally dangerous.
+
+Chocolate, onions, and potatoes with green skin are all on the no-go list. Even small amounts of these can cause vomiting, diarrhea, and in severe cases, death.
+
+Keep your feed storage area locked and clean. Goats are clever and will break into grain bins, bags of dog food, and even garbage cans if they get the opportunity. An overeating goat that gorges on grain can develop acidosis, which is a life-threatening emergency.
+
+### Why "Picky" Goats Are Actually the Healthiest
+
+The goats in your herd that turn their nose up at certain feeds are doing themselves a favor. Selective eating is a survival instinct that helps goats avoid toxic plants and contaminated food.
+
+A goat that refuses to eat hay that has been rained on is not being difficult. Wet hay can develop mold that produces mycotoxins, which damage the liver and kidneys over time. That picky goat is actually protecting itself.
+
+Pay attention to what your goats reject. If the whole herd suddenly refuses a batch of feed, take it as a warning sign and inspect it carefully before offering it again.
+
 ## Summary
 
 [Goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/), including leaves, twigs, and bark. However, they still require a diet that includes a variety of nutrients in order to stay healthy.

@@ -138,6 +138,30 @@ This method is especially useful for pregnant does because it helps you avoid un
 
 You can buy a FAMACHA card online or get one from your vet. It takes less than 30 seconds per goat once you get the hang of it.
 
+### Safe Dewormers vs. Ones to Avoid During Pregnancy
+
+Fenbendazole (SafeGuard) is generally considered the safest dewormer for pregnant does. It has a wide margin of safety and is approved for use during all stages of pregnancy. Most goat vets will reach for this one first.
+
+Ivermectin is another common choice that is generally safe for pregnant goats when used at the correct dosage. Overdosing ivermectin can cause problems, so weigh your doe before calculating the dose. Do not eyeball it.
+
+Levamisole is one to avoid during pregnancy unless your vet specifically recommends it. This dewormer has a narrower safety margin and has been linked to issues in other livestock species when used on pregnant animals.
+
+### Building a Rotational Grazing Plan to Reduce Worm Loads
+
+The best dewormer is prevention. Rotational grazing breaks the parasite life cycle by moving goats off contaminated pasture before the worm larvae become infective.
+
+Divide your pasture into at least three paddocks and rotate your goats every three to four weeks. Let each paddock rest for at least six weeks before grazing it again. During the rest period, sunlight and dry conditions kill a large percentage of the larvae on the grass.
+
+Mowing rested paddocks down to about four inches helps too. Short grass exposes worm larvae to UV light, which is lethal to them. Tall, damp grass near the soil line is where most larvae survive and wait to be eaten.
+
+### Keeping Records of Deworming Treatments
+
+Write down every deworming treatment in a log book or spreadsheet. Include the date, the product used, the dosage given, and the goat's weight at the time of treatment.
+
+This record is invaluable for tracking which dewormers are still effective on your farm. If a particular product stops working, your records will show the pattern long before you would notice it from observation alone.
+
+Share your deworming records with your vet at each visit. They can use this information to recommend the most effective parasite management strategy for your specific herd.
+
 ## Quick Recap
 
 Overall, [worms are a common problem for goats](/can-goats-get-worms-from-acorns/) and can cause serious health issues if not treated properly. It's important to take preventative measures such as providing clean shelter and good quality feed, as well as having your goat checked by a goat expert regularly.

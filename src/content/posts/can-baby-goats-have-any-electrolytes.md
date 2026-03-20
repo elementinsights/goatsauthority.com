@@ -124,6 +124,30 @@ Additionally, kids may need to be supplemented with vitamins and minerals if the
 
 Baby goats also require plenty of clean water and should have access to fresh hay and other green fodder at all times. By providing these basic needs, you can help ensure that your [baby goats grow up](/can-i-grow-goats-for-cashmere-and-angola/) healthy and strong.
 
+### Making a Homemade Electrolyte Solution
+
+If you cannot get to a farm supply store right away, you can make a basic electrolyte solution at home. Mix one quart of warm water with two tablespoons of sugar, half a teaspoon of salt, and a quarter teaspoon of baking soda.
+
+This recipe replaces the main electrolytes a dehydrated kid has lost. It is not a perfect substitute for a commercial product, but it can keep a kid alive until you can get the real thing.
+
+Offer the homemade solution through a bottle or syringe in small amounts. Replace any unused solution every 12 hours, as bacteria can multiply quickly in sugar water at room temperature.
+
+### When Electrolytes Are Not Enough
+
+There are situations where oral electrolytes alone will not save a severely dehydrated kid. If the skin tent test shows prolonged tenting of three seconds or more, the kid likely needs subcutaneous or intravenous fluids.
+
+Your vet can administer fluids under the skin using a large-gauge needle and a bag of lactated Ringer's solution. This technique delivers hydration directly into the body much faster than oral intake.
+
+Some experienced goat owners learn to give subcutaneous fluids at home. If you are interested, ask your vet to show you the technique and keep a supply of fluids and needles in your barn kit for emergencies.
+
+### Best Commercial Electrolyte Brands for Goats
+
+Sav-A-Kid and Bounce Back are two popular electrolyte products designed specifically for livestock. They dissolve easily in warm water and most kids take them willingly from a bottle.
+
+Pedialyte (unflavored) is another option in a pinch, but it was formulated for human infants and does not have the optimal mineral ratios for goats. It works in an emergency but should not be your go-to choice.
+
+Read the label on any electrolyte product before buying. Avoid products that contain high amounts of artificial sweeteners or dyes, as these can cause additional digestive upset in an already sick kid.
+
 ## Key Takeaways
 
 [Baby goats need electrolytes](/can-a-toddler-catch-a-disease-from-a-baby-goat/) and can become dehydrated if they do not have access to them. The best way to prevent this is to offer them a goat electrolyte solution or add supplements to their diet that contain electrolytes.

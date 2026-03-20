@@ -139,6 +139,22 @@ Indian tobacco tends to grow in open fields, along roadsides, and at the edges o
 
 If you spot this plant in or near your pasture, pull it up by the roots and dispose of it. Mowing alone will not kill it since it regrows from the root system. Repeated pulling over a couple of seasons is usually needed to eliminate it completely.
 
+### Safe Plants to Grow in Place of Indian Tobacco
+
+If you are pulling Indian tobacco out of your pasture, consider planting something beneficial in its place. Clover is a great option because it fixes nitrogen in the soil and goats love grazing on it.
+
+Chicory is another excellent replacement plant. It has natural deworming properties and grows well in the same poor soils where Indian tobacco tends to take hold.
+
+Plantain, the weed variety and not the banana relative, is also a good fit. It grows aggressively enough to outcompete Indian tobacco seedlings and goats eat it readily. It is packed with vitamins and has mild anti-inflammatory properties.
+
+### What Other Pasture Plants Should Goat Owners Avoid?
+
+Indian tobacco is just one of many toxic plants that can show up in goat pastures. Cherry tree leaves, especially when wilted after a storm, contain cyanide compounds that can kill a goat within hours.
+
+Nightshade species including jimsonweed and black nightshade are common field invaders that are toxic to goats. The berries and leaves both contain dangerous alkaloids that affect the nervous system.
+
+Bracken fern is another one to watch for, especially in wooded pastures. It causes a slow-building toxicity that damages bone marrow over time. By the time you notice symptoms, the damage may be severe.
+
 ## Closing Notes
 
 Overall, it's not recommended that you feed Indian tobacco plants to your goat. The plants are highly toxic and can cause serious health problems.

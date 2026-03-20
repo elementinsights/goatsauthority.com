@@ -140,6 +140,30 @@ This is due to the possibility of goats choking on corn on the cob.
 
 Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other [seasonings](/can-goats-eat-cabbage/) to the corn on the cob before feeding it to goats.
 
+### How to Tell If Your Goat Has Eaten Too Much Corn
+
+If a goat gets into your corn supply and overindulges, the signs usually show up within 12 to 24 hours. Watch for a bloated belly, reluctance to move, and grinding of the teeth. Those are signals that the rumen is struggling to process the starch overload.
+
+In more serious cases, a goat can develop acidosis from too much corn. This happens when the pH in the rumen drops too low, and it can be life-threatening if not treated quickly.
+
+If you suspect your goat has gorged on corn, withhold grain immediately and offer plenty of hay and fresh water. Baking soda mixed into their water can help buffer the acid. Call your vet if symptoms do not improve within a few hours.
+
+### Dried Corn vs. Fresh Corn on the Cob
+
+There is a real difference between offering your goat fresh sweet corn on the cob and giving them dried field corn. Fresh corn has a much higher moisture content and lower starch concentration, making it easier on the digestive system.
+
+Dried field corn is much more calorie-dense and starchy. A goat can overeat dried corn much faster because it takes up less space in the rumen but delivers a bigger starch punch.
+
+For a treat, fresh corn on the cob is the safer option. Just break the cob into manageable pieces so they can chew it properly without rushing.
+
+### Storing Corn Safely Around Goats
+
+Goats are escape artists and snack thieves rolled into one. If you store corn anywhere near their living area, make sure it is in a latched container they cannot tip over or pry open.
+
+I have seen goats figure out how to open feed room doors, flip bucket lids, and even chew through plastic bins to reach corn. A heavy-duty metal bin with a latch is your best bet.
+
+Keep corn cobs out of the pasture after your family cookout too. Goats will find them and eat way more than they should.
+
 ## The Bottom Line
 
 Corn on the cob can be a healthy and delicious part of your goat's diet. Just be sure to feed it in moderation and cut it into [smaller pieces](/can-goats-eat-sunflower-seeds/) before feeding it to goats.

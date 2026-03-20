@@ -142,6 +142,34 @@ Goat milk is a rich source of casein, a type of protein commonly found in the mi
 
 The GAPS diet restricts dairy consumption to fermented options only, meaning conventional cheese is off-limits. Nevertheless, [cheese](/can-you-freeze-goat-cheese/) made from cultured milk can add delicious variety to GAPS-compliant meals.
 
+### How to Source Safe Raw Goat Milk for the GAPS Diet
+
+Finding a trustworthy source of raw goat milk takes some legwork. Start by visiting local farms and asking to see where the goats are milked and how the equipment is sanitized.
+
+A good dairy farmer will happily show you their setup and explain their testing routine. Ask if they do regular pathogen testing on their milk, and find out whether the goats are tested for diseases like CAE and CL.
+
+Farmers' markets are another solid option, though not every state allows raw milk sales at market. Check your state's raw milk laws before you go looking. Some states allow farm-gate sales only, while others permit retail sales with a license.
+
+If you cannot find a local source, some states allow raw milk buying clubs or herd-share programs. In a herd-share, you buy a partial ownership stake in a goat and receive a portion of the milk each week. This is a legal workaround in states where direct raw milk sales are restricted.
+
+### Fermented Goat Milk Recipes That Work on GAPS
+
+One of the easiest things you can make with goat milk on the GAPS protocol is 24-hour yogurt. You heat the milk to about 180 degrees, let it cool to 110, add your starter culture, and hold it at that temperature for a full 24 hours in a yogurt maker or warm oven.
+
+The extended fermentation time breaks down almost all the lactose, which is the whole point for GAPS followers. The result is a thick, tangy yogurt that your gut can actually handle.
+
+Goat milk kefir is another winner. You just drop kefir grains into a jar of fresh goat milk, cover it with a cloth, and let it sit at room temperature for 24 to 48 hours. The grains eat the lactose and produce a fizzy, probiotic-rich drink.
+
+Kefir tends to be better tolerated than yogurt for people in the early stages of GAPS because it contains a wider variety of beneficial bacteria and yeast strains.
+
+### Tracking Your Body's Response to Raw Goat Milk
+
+Keeping a food diary is one of the best things you can do when introducing raw goat milk on GAPS. Write down exactly what you consumed, how much, and any symptoms you notice in the hours and days that follow.
+
+Common signs of intolerance include bloating, gas, skin breakouts, brain fog, and changes in stool consistency. If you see any of these after adding goat milk, pull it back out for a couple of weeks and try again later.
+
+Some people find they tolerate goat milk kefir long before they can handle plain raw goat milk. Others do fine with ghee or butter from goat milk but struggle with the liquid form. Every gut is different, and the only way to know is to test slowly and pay attention.
+
 ## What to Remember
 
 Raw goat milk is a potential source of nutrients for those following the GAPS diet. However, before including it in your meals, it's important to assess personal health and dietary needs.

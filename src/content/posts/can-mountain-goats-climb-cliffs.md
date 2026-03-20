@@ -159,6 +159,20 @@ By the time they are a few months old, the young goats can handle ledges that wo
 
 Kids that fall during this learning period rarely survive, which is one reason mountain goat populations grow slowly compared to other ungulates.
 
+### Best Times of Year to Spot Mountain Goats on Cliffs
+
+Summer is the prime season for mountain goat sightings. From June through August, they move to higher elevations where snow has melted and fresh alpine vegetation is available.
+
+Early morning and late afternoon are your best windows. Mountain goats tend to feed during cooler parts of the day and rest on rocky ledges during midday heat. Bring a good pair of binoculars because they blend into the gray rock surprisingly well.
+
+In winter, mountain goats move to lower elevations and wind-swept ridges where snow is thinner. They are easier to spot against the white landscape, but access roads are often closed, making winter sightings more of a challenge.
+
+### How Their Hooves Actually Work
+
+The secret to a mountain goat's climbing ability is the unique structure of its hooves. Each hoof is split into two toes that can spread apart and move independently, giving the goat a wider base of support on narrow ledges.
+
+The bottom of each hoof has a rough, rubbery pad that grips rock like a hiking boot sole. The outer edges are hard and sharp, which digs into ice and snow for extra traction. This combination of soft center and hard edge is something no man-made climbing shoe has managed to fully replicate.
+
 ## Final Thoughts
 
 Overall, the mountain goat is a versatile and hardy animal that has adapted to survive in some of the most extreme environments on Earth.

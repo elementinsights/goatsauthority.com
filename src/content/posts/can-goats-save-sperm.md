@@ -144,6 +144,22 @@ By following these simple guidelines, you can ensure that your frozen semen will
 
 When thawing frozen semen, you need to use warm water or an incubator. Additionally, you need to use an appropriate insemination device.
 
+### Choosing the Right Buck for Semen Collection
+
+Not every buck is a good candidate for semen collection. You want a proven sire with a track record of producing quality offspring and strong genetic traits.
+
+Age matters too. Bucks under 8 months old may not produce enough viable sperm for successful freezing. Most collection facilities prefer working with bucks that are at least one year old and in peak breeding condition.
+
+Have your buck tested for common diseases like CAE, CL, and Johne's before sending him for collection. Reputable semen banks will require a clean health certificate before they will process and store the semen.
+
+### Finding a Semen Collection and Storage Facility
+
+Not every area has a facility that handles goat semen. Start by asking your breed association for recommendations, as they often maintain a list of approved collection centers.
+
+Expect to pay between $200 and $500 per collection session depending on the facility and the number of straws produced. Some centers also charge an annual storage fee that typically runs $50 to $150 per year.
+
+Shipping frozen semen requires a special nitrogen tank and overnight delivery, which adds to the cost. Plan ahead during breeding season so the semen arrives before your does come into heat.
+
 ### How Long Does Frozen Goat Semen Stay Viable?
 
 When stored correctly in liquid nitrogen at -196 degrees Celsius, frozen goat semen can remain viable for decades. There are documented cases of successful pregnancies using semen that was frozen 20 or more years earlier.

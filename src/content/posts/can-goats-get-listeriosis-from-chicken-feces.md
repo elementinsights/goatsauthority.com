@@ -151,6 +151,34 @@ For example, pneumonia is typically treated with antibiotics. Enterotoxemia is u
 
 If a goat is suffering from any other type of disease, the best course of treatment will be determined by a goat expert.
 
+### Managing Shared Spaces Between Chickens and Goats
+
+Plenty of small farms run chickens and goats together in the same barn or pasture. It can work, but it takes extra management to keep everyone healthy.
+
+The biggest risk is goats eating feed or hay that chickens have contaminated with droppings. Elevate goat hay feeders so that chickens cannot roost on them and poop into the hay. A keyhole-style feeder works well because the openings are too narrow for chickens to squeeze through.
+
+Water troughs are another hotspot for contamination. Chickens love to perch on the edge of water buckets, and their droppings land right in the drinking water. Use nipple waterers for chickens and covered troughs for goats to keep the two systems separate.
+
+Clean the shared barn floor more frequently than you would for a single-species setup. Twice-weekly stall cleaning with fresh bedding goes a long way toward reducing the bacterial load in the environment.
+
+### Early Signs of Listeriosis Every Goat Owner Should Know
+
+Listeriosis in goats often starts with one eye drooping or the goat circling to one side. These neurological signs are easy to miss if you are not looking for them, especially in a large herd.
+
+A goat that presses its head against a wall or fence post is another early warning sign. Head pressing indicates brain swelling or discomfort, and it should send you straight to the phone to call your vet.
+
+The goat may also drool excessively because the facial nerves are affected by the bacteria. Food may fall out of its mouth while chewing, or the goat might stand in front of the hay feeder and act like it wants to eat but cannot.
+
+Treatment with high-dose penicillin needs to start within hours of the first symptoms for the best chance of recovery. Every hour you wait reduces the odds of pulling that goat through.
+
+### Cleaning Protocols After a Listeriosis Outbreak
+
+If one of your goats tests positive for listeriosis, immediately isolate it from the rest of the herd. Move it to a completely separate pen with its own water and feed supply.
+
+Strip the bedding from any area the sick goat occupied and replace it with fresh material. Spray all surfaces, including walls and feeders, with a diluted bleach solution and let it sit for at least 10 minutes before rinsing.
+
+Monitor every other goat in the herd for symptoms over the next three weeks. Listeriosis can have an incubation period of up to 21 days, so you are not in the clear just because the rest of the herd looks fine today.
+
 ## Our Take
 
 Goats can get listeriosis from chicken feces. This is a serious bacterial infection that can be deadly in goats.

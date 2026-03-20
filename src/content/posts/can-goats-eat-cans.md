@@ -143,6 +143,22 @@ It’s important then as a responsible goat owner not only knowing what foods ar
 
 Remember, just because they might try doesn’t mean it’s good for them.
 
+### How to Keep Your Goat Pasture Free From Dangerous Debris
+
+Walk your pasture regularly and pick up any cans, bottles, wire, or other metal debris. Goats are curious enough to mouth just about anything, and a sharp piece of tin can cause a puncture wound before you even realize what happened.
+
+If your property borders a road, check the fence line weekly. People toss cans and fast food containers out of car windows, and the wind carries them into goat pastures all the time. A five-minute sweep saves a potential vet bill.
+
+Set up a covered trash can inside the goat area for the items you collect. Keeping a dedicated container encourages everyone on the farm to pick up debris on sight instead of walking past it.
+
+### What to Do If Your Goat Swallows a Piece of Metal
+
+If you suspect your goat ate part of a can or any other metal object, watch for signs of hardware disease. Symptoms include sudden loss of appetite, a hunched posture, grunting when moving, and reluctance to walk.
+
+A magnet placed inside a bolus can be administered orally to attract and trap small metal pieces in the reticulum. Many cattle farmers use this preventive measure, and it works the same way for goats.
+
+Call your vet immediately if you notice any of the symptoms above. An X-ray can confirm whether metal is present in the digestive tract and help your vet decide whether surgery is needed.
+
 ## Debunking Myths: Do Goats Actually Eat Anything?
 
 Many people believe goats eat anything, even cans. This is a myth that needs to be debunked.

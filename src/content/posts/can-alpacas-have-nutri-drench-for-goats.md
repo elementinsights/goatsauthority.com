@@ -128,6 +128,22 @@ If an animal's coat looks dull or patchy, it could be a sign of a nutrient defic
 
 Last but not least, you can have your alpaca's blood tested by a livestock expert to check for nutrient levels. By doing this, you can ensure that your alpaca is getting the nutrition it needs to stay healthy and thrive.
 
+### Signs That Your Alpaca Actually Needs a Supplement
+
+Not every alpaca needs Nutri Drench. A healthy alpaca on good pasture with access to a quality mineral mix may be getting everything it needs already.
+
+Look for specific warning signs before reaching for a supplement. Dull or thinning fiber, weight loss despite adequate forage, and slow recovery after illness all point to a nutritional gap that Nutri Drench might help fill.
+
+Crias that are slow to stand or nurse within the first hour after birth are good candidates for a small dose. A few milliliters of Nutri Drench can give them the energy boost they need to get on their feet and start nursing.
+
+### Key Differences Between Alpaca and Goat Nutritional Needs
+
+Alpacas and goats are both ruminant-like animals, but their nutritional requirements are not identical. Alpacas need lower protein levels than goats. Feeding a goat-formulated supplement to an alpaca long-term could lead to protein overload and kidney stress.
+
+Copper is another area where the two species differ significantly. Goats tolerate and even need moderate copper levels, while alpacas and llamas are far more sensitive to copper toxicity.
+
+Check the Nutri Drench label for copper content before giving it to your alpaca on a regular basis. An occasional dose during illness or stress is unlikely to cause problems, but daily supplementation without veterinary guidance could accumulate to dangerous levels over time.
+
 ## Summary
 
 Alpacas can have Nutri Drench for goats, but it's important to make sure that they are getting enough of the right nutrients. There are a few ways to tell if an alpaca is getting enough nutrients, including observing the animal's behavior and looking at its coat.

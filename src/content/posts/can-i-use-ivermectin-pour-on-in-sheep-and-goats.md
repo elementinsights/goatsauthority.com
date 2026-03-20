@@ -142,6 +142,38 @@ When in doubt, it is always best to consult with a qualified goat expert prior t
 
 This will help ensure that they receive the proper treatment and care they need. Ultimately, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
+### Pour-On vs. Oral vs. Injectable: Which Works Best?
+
+Most experienced goat owners will tell you that oral ivermectin is more effective in goats than the pour-on formulation. Goats metabolize pour-on products differently than cattle, and the drug often does not absorb as well through goat skin.
+
+If you use the pour-on version, expect lower efficacy rates compared to oral dosing. Many vets recommend giving the pour-on product orally at a higher dose instead of applying it to the skin.
+
+Injectable ivermectin is another option, but it can cause painful injection site reactions in some animals. Talk to your vet about which delivery method makes the most sense for your herd size and parasite load.
+
+### How to Tell If Ivermectin Is Working
+
+Run a fecal egg count test before treatment and again about 10 to 14 days after dosing. If the egg count drops by 95% or more, the treatment was effective.
+
+A drop of less than 90% suggests that you are dealing with resistant parasites. This is becoming more common in areas where ivermectin has been used heavily for years without rotating to other drug classes.
+
+If resistance is suspected, your vet may recommend switching to a different dewormer family such as benzimidazoles or levamisole. Rotating between drug classes each season is the best way to slow the development of resistance.
+
+### Fecal Egg Count Reduction Testing Explained
+
+A FECRT is the gold standard for checking dewormer effectiveness. Collect fresh fecal pellets from several animals in your herd and bring them to your vet or a livestock diagnostic lab.
+
+The lab will count the number of parasite eggs per gram of feces before and after treatment. This simple test costs very little and can save you a fortune in wasted dewormer and lost productivity.
+
+Many goat owners skip this step and just deworm on a schedule, which is how resistance problems develop in the first place. Testing takes the guesswork out of parasite management.
+
+### Withdrawal Times for Meat and Milk
+
+Ivermectin has specific withdrawal periods that you must follow if you plan to sell meat or milk from treated animals. For meat goats, the typical withdrawal period is around 35 days after the last dose.
+
+There is no officially approved withdrawal time for milk goats in many countries because ivermectin is often used off-label in goats. Most vets recommend waiting at least 9 days before using milk from a treated doe for human consumption.
+
+Always document the date of treatment and the product used. Keeping good records protects both your customers and your reputation as a responsible producer.
+
 ## Quick Recap
 
 You can protect your sheep and goats against parasites by using Ivermectin, but it's important to follow the proper [dosage](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/) and safety protocols.

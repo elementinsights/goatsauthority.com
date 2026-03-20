@@ -141,6 +141,38 @@ For example, a young kid or a pregnant doe will require more food than an adult 
 
 For pasture-based goats, this can be supplemented with a small amount of grain, as well as fresh vegetables and fruits like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/). If you are unsure about how much to feed your goat, it's always best to consult with a vet or other animal expert.
 
+### Pine Species That Are Safer for Goats
+
+Not all pine trees carry the same level of risk. Eastern White Pine is generally considered one of the safer options. Its needles have lower resin content and a milder flavor that goats tolerate well.
+
+Ponderosa Pine, on the other hand, is one of the most dangerous. It contains isocupressic acid, which can cause abortions in pregnant goats. If you have Ponderosa Pine on your property, fence your goats away from it completely.
+
+Scotch Pine and Austrian Pine fall somewhere in the middle. Small amounts of their needles are unlikely to cause problems, but large quantities can irritate the digestive tract. Know what species grow on your land before you let your goats browse freely.
+
+### Using Pine Branches as Winter Browse
+
+During winter months when fresh browse is scarce, some goat owners cut fresh pine branches and offer them to their herd as supplemental roughage. The goats strip the needles and bark, which gives them something to chew on and provides a small vitamin C boost.
+
+Limit this to one or two small branches per goat per week. Think of it as an enrichment activity rather than a dietary staple.
+
+The act of stripping bark and pulling needles also helps keep goats mentally stimulated during long winter days when they are stuck close to the barn. Bored goats are destructive goats, so anything that keeps them busy is a win.
+
+### Signs of Pine Needle Toxicity in Goats
+
+If your goat has eaten too many pine needles, the first symptom you will notice is usually a loss of appetite. The goat may stand off by itself and refuse to eat hay or grain.
+
+Diarrhea with a greenish tint often follows within 12 to 24 hours. In pregnant does, pine needle toxicity can trigger premature labor, which is the most serious risk.
+
+Excessive drooling and a strong turpentine smell on the goat's breath are also warning signs. If you notice any of these symptoms, pull the goat off pasture immediately and contact your vet.
+
+### Fencing Off Pine Trees in Goat Pastures
+
+If your pasture has pine trees that you want to keep, the easiest solution is to fence them off individually. A simple ring of woven wire fencing about three feet out from the trunk keeps goats from reaching the bark and low-hanging needles.
+
+T-posts and 4-foot welded wire panels make a quick and affordable barrier. You can set up a tree guard in about 30 minutes per tree.
+
+This protects both the goats and the trees. Goats will strip bark right down to the cambium layer if given the chance, and that kills the tree. A little fencing saves you from losing shade trees and keeps your goats safe from overconsumption.
+
 ## To Wrap Things Up
 
 Overall, goats can benefit from eating pine trees. Pine trees provide goats with a source of food and shelter, and they can also help to improve the health of the soil.

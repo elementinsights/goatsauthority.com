@@ -137,6 +137,30 @@ Goats do not have upper front teeth. Instead, they have a hard dental pad on the
 
 That said, their back molars can generate serious pressure. A goat that clamps down on a finger near the back of its jaw can cause bruising or even break skin. Bucks during rut season are the most likely to bite hard enough to cause real injury.
 
+### When Biting Becomes a Behavioral Problem
+
+Some goats develop a persistent biting habit that goes beyond normal mouthing and curiosity. This usually happens when a goat was bottle-fed as a kid and learned to associate human hands with food. They never learned proper boundaries because they were raised more like a pet dog than a farm animal.
+
+Breaking this habit takes patience. Every time the goat mouths or nips at you, firmly push its head away and say "no" in a sharp voice. Walk away immediately and do not offer any treats. The goat needs to learn that biting ends the interaction completely.
+
+Never hit a goat that bites. Physical punishment makes them fearful and often increases aggression. Consistent redirection works much better over time.
+
+### Protecting Children Around Goats
+
+Kids under five should never be left unsupervised around goats, even friendly ones. A playful nip that barely registers on an adult can terrify a small child and break the skin on their soft hands.
+
+Teach children to offer treats on a flat, open palm rather than pinching the treat between their fingers. This keeps their fingers away from the goat's teeth and reduces the chance of an accidental nip.
+
+If you run a petting zoo or host farm visitors, keep aggressive or mouthy goats in a separate area. Only put your calmest, most gentle animals in the public enclosure. One bad experience can scare a family away from goats permanently.
+
+### First Aid for a Goat Bite
+
+Wash the wound immediately with warm water and soap. Scrub gently for at least 30 seconds to remove any bacteria from the goat's mouth. Pat dry with a clean towel and apply antibiotic ointment.
+
+Watch the wound closely for the next 48 hours. Redness that spreads outward, increased swelling, or pus are signs of infection that require a doctor visit. Goat bites are not as prone to infection as cat bites, but they should still be taken seriously.
+
+If you have not had a tetanus shot in the last five years, call your doctor. Goat bites can introduce tetanus bacteria through broken skin, and a booster shot is cheap insurance.
+
 ## The Bottom Line
 
 Goats can bite, but it's not common behavior. If a goat does bite, it's usually out of curiosity or because they feel threatened.

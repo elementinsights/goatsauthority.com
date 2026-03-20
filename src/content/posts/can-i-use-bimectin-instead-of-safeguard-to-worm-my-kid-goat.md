@@ -123,6 +123,24 @@ Just like with any other type of medication though, antibiotics should only be p
 
 Overall, there are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
 
+### How to Know When Your Kid Goat Needs Worming
+
+The FAMACHA scoring system is one of the best tools available for deciding when to worm your goats. Pull down the lower eyelid and compare the color of the mucous membrane to the FAMACHA card.
+
+A bright red or dark pink membrane means the goat has a healthy red blood cell count and does not need deworming. A pale pink or white membrane signals anemia, which usually means a heavy barber pole worm load.
+
+Fecal egg counts are another reliable method. Collect a fresh sample and bring it to your vet for a fecal float test. This tells you exactly how many worm eggs the goat is shedding and whether treatment is needed.
+
+Routine deworming on a set schedule without testing first leads to drug resistance. Only worm the goats that actually need it, and you will keep your dewormers effective for much longer.
+
+### Avoiding Dewormer Resistance in Your Goat Herd
+
+Rotate between different dewormer classes every year or two to slow down resistance. Bimectin falls into the avermectin class, while Safeguard is a benzimidazole. Switching between the two gives the parasites less opportunity to adapt.
+
+Never underdose your goats. Goats metabolize dewormers faster than cattle or sheep, so they need a higher dose per pound of body weight. Using the cattle dose on a goat means the worms get a sub-lethal exposure, which is the fastest path to resistance.
+
+After you treat with any dewormer, run a fecal egg count reduction test about 10 to 14 days later. If the egg count has not dropped by at least 90 percent, the dewormer may no longer be working against the worms in your herd.
+
 ## Wrapping Up
 
 You can use Bimectin to worm your kid goats effectively and with few side effects.

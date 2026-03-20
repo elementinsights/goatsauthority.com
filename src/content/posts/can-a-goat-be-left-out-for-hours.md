@@ -143,6 +143,22 @@ Finally, goats are curious animals that are known for their playful nature. They
 
 Whether you're considering adding a goat to your farm or you're just curious about these fascinating creatures, there's much to learn about goats. We hope you enjoyed this article and found it informative.
 
+### Weather Conditions That Require Immediate Shelter
+
+Rain combined with wind is the most dangerous weather pattern for goats. Their coats are not waterproof like sheep wool, and wet goats in windy conditions can develop hypothermia surprisingly fast.
+
+Thunderstorms with lightning are another time to bring your goats inside immediately. Goats standing in an open field during a lightning storm are at serious risk, and the loud thunder alone can cause enough panic for them to run through fences.
+
+Extreme heat above 90 degrees requires shade at minimum. If your pasture has no natural shade from trees, set up a simple sun shade using a tarp strung between two fence posts. It does not have to be fancy to save a goat from heat stroke.
+
+### Setting Up a Safe Outdoor Area
+
+A well-designed outdoor area lets your goats enjoy fresh air and sunshine while keeping them protected from the biggest hazards. Start with sturdy perimeter fencing that is at least four feet tall for standard breeds and three feet for miniatures.
+
+Check the fence line for sharp edges, loose wire, and gaps where a goat could get its head stuck. Goats are escape artists and will find every weakness in your fencing within the first week.
+
+Provide a water station in the shade that gets refilled at least twice daily during warm months. Automatic waterers are worth the investment if you plan to leave your goats outdoors for extended periods regularly.
+
 ### What About Nighttime Hours?
 
 Leaving goats out during the day is one thing, but nighttime is a different story. Predators like coyotes, foxes, and stray dogs are much more active after dark. Your goats should always be locked in a secure shelter once the sun goes down.

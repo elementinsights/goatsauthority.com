@@ -126,6 +126,20 @@ And finally, talk to your doctor or healthcare provider before making any signif
 
 Overall, with these tips in mind, eating goat intestine during pregnancy can be an incredibly beneficial way to give both yourself and your baby the vitamins and minerals needed for a healthy start.
 
+### How to Source Quality Goat Intestines
+
+Buy from a butcher you trust, ideally one who processes the animal on-site. Ask when the animal was slaughtered and how the intestines were cleaned. Fresh intestines should have a mild smell and a pinkish color.
+
+Avoid intestines that have a strong ammonia odor or appear slimy. These are signs that the product has been sitting too long and bacteria levels may be unsafe, especially for someone who is pregnant.
+
+If you cannot find a local butcher who carries goat intestines, check ethnic grocery stores. West African, Caribbean, and South Asian markets often stock fresh or frozen goat offal.
+
+### Safe Internal Temperatures for Cooking
+
+Use a meat thermometer every time you cook goat intestines during pregnancy. The internal temperature should reach at least 165 degrees Fahrenheit to kill harmful bacteria.
+
+Boiling for at least 30 minutes before frying or grilling is the safest approach. This initial boil ensures that the thickest parts of the intestine reach a safe temperature throughout.
+
 ## Closing Notes
 
 Overall, goat intestine can be a delicious and nutritious addition to any meal, especially when pregnant. Just remember to choose high-quality sources, cook thoroughly and talk to your doctor before making any significant changes to your diet during pregnancy.

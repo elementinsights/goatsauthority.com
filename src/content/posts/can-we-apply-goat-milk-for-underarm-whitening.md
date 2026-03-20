@@ -126,6 +126,30 @@ Goat milk is a versatile skincare product that can be used in a variety of ways.
 
 Just be sure to purchase [milk that is raw](/can-you-drink-raw-goat-milk-on-gaps-diet/) and unpasteurized for the best results.
 
+### How Long Before You See Results
+
+Most people who use goat milk consistently for underarm whitening start noticing a difference after about three to four weeks. The lactic acid works gradually by dissolving the bonds between dead skin cells, so results are not instant.
+
+By the six-week mark, the improvement is usually more obvious. Skin tone evens out, and the rough texture that contributes to a darkened appearance starts to smooth over.
+
+If you have not seen any change after eight weeks of consistent use, the darkening may be caused by something that goat milk cannot address, like a hormonal imbalance or friction-related hyperpigmentation. Talk to a dermatologist at that point.
+
+### Goat Milk Bath Soak for Full Body Brightening
+
+You do not have to limit goat milk to just your underarms. A goat milk bath soak gives your entire body the same gentle exfoliation and moisturizing benefits.
+
+Add two to three cups of fresh goat milk or one cup of powdered goat milk to a warm bath. Soak for 20 to 30 minutes, letting the lactic acid work on your skin.
+
+Cleopatra famously bathed in milk for a reason. The natural AHAs in goat milk leave your skin feeling softer and looking brighter after just one soak. Make it a weekly ritual for the best results.
+
+### Combining Goat Milk with Other Natural Brightening Ingredients
+
+Goat milk pairs well with other natural ingredients that have skin-brightening properties. Lemon juice adds extra vitamin C and citric acid that boost the lightening effect.
+
+Mix a tablespoon of goat milk with a few drops of lemon juice and apply it to your underarms. Leave it on for 10 minutes, then rinse. The combination is more potent than either ingredient alone.
+
+Aloe vera gel is another great addition. It soothes irritation and helps the skin heal faster between treatments. A 50/50 blend of goat milk and aloe vera gel makes a gentle daily treatment for sensitive skin.
+
 ### DIY Goat Milk Underarm Mask Recipe
 
 Here's a simple recipe you can try at home. Mix two tablespoons of fresh goat milk with one teaspoon of honey and a pinch of turmeric powder.

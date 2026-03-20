@@ -140,6 +140,20 @@ However, there is some concern about the safety of goat liver due to the fact th
 
 For this reason, it is important to eat goat liver in moderation. When consumed in moderation, goat liver can be a healthy and delicious part of your diet.
 
+### Best Spices and Seasonings for Goat Liver
+
+Goat liver pairs well with bold spices that complement its rich, earthy flavor. Cumin, coriander, and turmeric are popular choices in Indian and Middle Eastern preparations.
+
+Fresh herbs like parsley and cilantro can brighten up the flavor and cut through the richness. A squeeze of lemon juice right before serving also does wonders.
+
+Avoid drowning the liver in heavy sauces. A light seasoning that lets the natural flavor come through is the mark of someone who knows how to cook organ meats properly.
+
+### How to Source Quality Goat Liver
+
+Buy goat liver from a butcher who can tell you where the animal was raised and what it was fed. Pasture-raised goats produce liver with a cleaner taste and fewer accumulated toxins than goats raised in confinement.
+
+Farmers markets are a great place to find locally raised goat liver. You can talk directly with the farmer about their practices, and the meat is usually much fresher than what you find at a grocery store.
+
 ### Nutritional Breakdown Per Serving
 
 A typical 3-ounce serving of cooked goat liver packs about 120 calories and 18 grams of protein. It also delivers over 100% of your daily vitamin A and B12 needs in a single serving.

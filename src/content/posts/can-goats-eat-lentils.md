@@ -131,6 +131,20 @@ Additionally, lentils are low in calories and fat, making them a healthy choice 
 
 Finally, lentils contain phytochemicals, which have been linked to a number of [health benefits](/can-goats-eat-gum-tree-leaves/), including reducing the risk of some chronic diseases.
 
+### Red Lentils vs. Green Lentils for Goats
+
+Not all lentils are the same when it comes to feeding goats. Red lentils cook down faster and turn mushy, which makes them easier for goats to digest. They are a good choice if you are just starting to add lentils to the ration.
+
+Green lentils hold their shape better after cooking and provide a slightly firmer texture that some goats seem to enjoy more. They also have a bit more fiber than red lentils.
+
+Either type works fine as a protein boost. The main thing is to cook them thoroughly and mix them in with other feeds rather than offering a bowl of straight lentils.
+
+### How Much Lentils to Add Per Goat Per Day
+
+A safe starting amount is about a quarter cup of cooked lentils per adult goat per day. Watch their droppings over the next few days and make sure everything stays firm and pellet-shaped.
+
+If the goat handles that amount without any issues, you can gradually increase to half a cup. Going beyond that is not necessary and could cause gas or loose stools from the high fiber content.
+
 ## Our Take
 
 Overall, [goats can eat lentils](/can-goats-eat-grapes/) without any problems. Lentils are a nutritious and versatile food that can be easily added to a goat's diet.

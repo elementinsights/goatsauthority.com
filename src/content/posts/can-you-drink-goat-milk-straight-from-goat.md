@@ -132,6 +132,30 @@ With its unique nutrient profile, goat milk can be a delicious and nutritious pa
 
 With these tips in mind, you can enjoy all the benefits that goat milk has to offer.
 
+### Home Pasteurization Methods
+
+If you want the freshest goat milk possible while still eliminating harmful bacteria, home pasteurization is your best option. The batch method involves heating the milk to 145 degrees Fahrenheit and holding it at that temperature for 30 minutes.
+
+The flash method heats the milk to 161 degrees for just 15 seconds. This is faster but requires more precise temperature control. A double boiler setup on your stove works well for the batch method.
+
+Always use a dairy thermometer to verify the temperature. Guessing can leave you with milk that is still unsafe or milk that has been overheated and tastes cooked. Once pasteurized, cool the milk rapidly by setting the pot in an ice bath and refrigerate within two hours.
+
+### Proper Milking Hygiene to Reduce Bacteria
+
+The cleaner your milking process, the safer the milk will be regardless of whether you pasteurize it. Start by washing the udder with warm water and a clean cloth before attaching the milking equipment or hand-milking.
+
+Strip the first two or three squirts from each teat into a strip cup and check for clumps, strings, or discoloration that could indicate mastitis. Never mix questionable milk into your collection pail.
+
+Use stainless steel milking equipment rather than plastic, as it is easier to sanitize thoroughly. Wash all equipment in hot soapy water immediately after milking and rinse with a dairy sanitizer solution.
+
+### How to Make Goat Milk Taste Its Best
+
+People who say they do not like goat milk have probably had a bad experience with milk that was handled poorly. Fresh, properly chilled goat milk has a clean, slightly sweet flavor that is barely distinguishable from cow milk.
+
+The key is speed. Get the milk from udder to refrigerator as fast as possible. Strain it through a milk filter and chill it to below 40 degrees within an hour of milking.
+
+Keeping bucks housed away from the milking does also helps. The musky smell of a buck in rut can transfer to the milk and give it that "goaty" flavor that turns people off. Separating the buck pen from the milking area by at least 50 feet makes a big difference.
+
 ## Wrapping Up
 
 You cannot drink raw goat milk because of the potential health risks associated with it. Pasteurizing the milk is the best way to ensure that harmful bacteria are killed and prevent any health issues related to drinking raw goat milk.

@@ -131,6 +131,30 @@ No matter what you use them for, wheat stalks are a versatile and useful materia
 
 Just make sure to introduce them slowly and in moderation, so that your [goats don't experience any digestive problems](/can-goats-digest-cotton/).
 
+### Best Time of Year to Feed Wheat Stalks
+
+The best time to offer wheat stalks to your goats is right after harvest season in late summer or early fall. The stalks are driest at this point and have the lowest risk of mold contamination.
+
+Avoid collecting stalks that have been sitting in wet fields or exposed to heavy rain. Moisture is the enemy here because it creates the perfect conditions for mold growth, and moldy feed can make a goat seriously sick.
+
+If you can get your hands on freshly cut stalks and dry them yourself in a well-ventilated barn, that is the gold standard. Spread them out in a single layer and let them cure for about a week before feeding.
+
+### Mixing Wheat Stalks with Other Forages
+
+Wheat stalks work best when they are part of a varied hay mix rather than the sole forage source. Mixing them with alfalfa or orchard grass gives your goats a better balance of protein and fiber.
+
+A 70/30 blend of regular hay to wheat stalks is a solid starting point. You can adjust the ratio based on how your goats respond and whether they are gaining or losing weight.
+
+Some goat owners chop the wheat stalks into 3 to 4 inch pieces and toss them into a large trough with other hay. This forces the goats to eat everything together instead of picking through and leaving the stalks behind.
+
+### How Wheat Stalks Compare to Oat Straw
+
+Oat straw and wheat stalks are similar in appearance, but oat straw is slightly more palatable to most goats. It has a softer texture and a milder flavor that goats tend to prefer.
+
+On the nutrition side, wheat stalks have a slight edge in mineral content. They carry more phosphorus and potassium per pound than oat straw.
+
+If you can source both, rotating between wheat stalks and oat straw keeps your goats interested in their feed and provides a wider range of nutrients over time.
+
 ## Quick Recap
 
 Goats can eat wheat stalks, but they should only be given a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at first. Wheat stalks are high in fiber and can cause digestive problems if a [goat eats too much](/can-a-goat-eat-sticker-bushes/) of them.

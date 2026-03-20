@@ -136,6 +136,22 @@ It's important to use raw, unfiltered vinegar for the best results.
 
 You can give your goat vinegar by adding a few tablespoons to their water or mixing it with some wet food. If your goat is particularly sick, you may want to consult with a goat expert before giving them vinegar.
 
+### Apple Cider Vinegar vs. White Vinegar for Goats
+
+Most goat farmers I know reach for apple cider vinegar over white vinegar. The raw, unfiltered kind with the "mother" still in it contains beneficial bacteria and enzymes that white vinegar simply does not have.
+
+Apple cider vinegar also has a milder taste that goats tend to accept more easily. White vinegar is harsher and some goats will flat-out refuse water that has it mixed in.
+
+If you are using vinegar mainly for its probiotic and pH-balancing benefits, go with raw apple cider vinegar every time. Save the white vinegar for cleaning buckets and equipment around the barn.
+
+### Practical Tips for Adding Vinegar to Your Goat's Routine
+
+Start by adding just a splash to a full water bucket so the goats barely notice the taste change. About one tablespoon per gallon is a good starting point for the first week.
+
+Gradually work up to two tablespoons per gallon over the next couple of weeks. Always keep a second bucket of plain water available so the goats have a choice. Forcing vinegar water as the only option can lead to dehydration if a goat refuses to drink it.
+
+Some farmers mix vinegar directly into grain or pour it over hay as a top dressing. This method works well for picky drinkers who turn their nose up at vinegar water.
+
 ## The Bottom Line
 
 Overall, goats can drink vinegar without any problems. In fact, vinegar can actually be beneficial for goats, as it provides them with additional nutrients and can help to balance the pH levels in their gut.

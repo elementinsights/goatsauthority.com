@@ -134,6 +134,30 @@ Clover adds nitrogen to the soil and provides a higher protein source that compl
 
 This type of mixed pasture also reduces the chance of bloat. When goats eat a single species exclusively, the rumen bacteria become specialized and less adaptable. A diverse pasture keeps the microbial population flexible and better equipped to handle whatever the goat eats.
 
+### How to Establish a Kentucky Bluegrass Pasture for Goats
+
+Start by soil testing your pasture area before seeding. Kentucky bluegrass prefers a soil pH between 6.0 and 7.0. If your soil is too acidic, apply agricultural lime according to the test recommendations.
+
+Seed in early fall for the best results. Fall seeding gives the grass time to establish roots before winter dormancy, and spring growth will be vigorous. Spread seed at a rate of two to three pounds per thousand square feet for a thick stand.
+
+Keep goats off the new pasture until the grass is at least four inches tall and has been mowed once. Grazing too early pulls young plants out by the roots before they are established. Most new bluegrass pastures need at least one full growing season before they can handle regular grazing.
+
+### Seasonal Changes in Bluegrass Nutritional Value
+
+Kentucky bluegrass hits its peak nutritional value in spring when new growth is lush and green. Protein content can reach 15 to 20 percent during this flush, which is excellent for growing kids and lactating does.
+
+By midsummer, the grass goes semi-dormant in hot weather and its nutritional value drops significantly. This is when supplemental hay becomes more important. Do not rely on dormant bluegrass as your goats' sole food source during the summer slump.
+
+Fall brings a second flush of growth that is nearly as nutritious as spring. Take advantage of this by rotating goats onto rested bluegrass paddocks in September and October to get the most out of the fall growth.
+
+### Managing Bloat Risk on Lush Bluegrass
+
+Bloat is the biggest risk when goats graze on thick, lush bluegrass, especially in spring. The fast-growing grass is high in moisture and low in fiber, which can cause rapid gas buildup in the rumen.
+
+Feed hay before turning goats out on lush pasture. A goat with a belly full of dry hay is less likely to gorge on wet grass. Make hay available in the pasture at all times so goats can self-regulate.
+
+Watch for a goat standing with its left side visibly distended and appearing uncomfortable. Mild bloat can sometimes be relieved by walking the goat around to encourage gas release. Serious cases require a vet or emergency stomach tube to relieve the pressure.
+
 ## Our Take
 
 [Goats can eat Kentucky bluegrass](/can-goats-eat-watermelon/), but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.

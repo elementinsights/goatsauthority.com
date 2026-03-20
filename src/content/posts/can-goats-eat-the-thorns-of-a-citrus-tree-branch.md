@@ -138,6 +138,30 @@ If you're specifically using goats to clear citrus branches, stick with the mild
 
 Trifoliata orange rootstock produces some of the sharpest thorns of any citrus. If your trees are grafted onto this rootstock, you may notice thorns growing below the graft line that are especially dangerous for goats.
 
+### Using Goats to Manage Overgrown Citrus Orchards
+
+If you have an overgrown citrus orchard that needs clearing, goats can do a lot of the heavy lifting for you. Turn a small group loose in a fenced section of the orchard and let them strip the lower branches clean over a few days.
+
+Rotate them through different sections so they do not stay too long in one area. Overgrazing a single spot can lead to soil compaction and root damage to the trees.
+
+Keep water stations close by because citrus browse is dry and the essential oils in the leaves can make goats thirsty. Check on them twice a day to make sure nobody has gotten tangled in branches or scratched by thorns.
+
+### How Citrus Oils Affect Goat Digestion
+
+The essential oils in citrus leaves and bark have antimicrobial properties that can affect the bacteria in a goat's rumen. In small doses, this is not a problem and may even be beneficial. Some farmers believe that occasional citrus browse helps reduce internal parasite loads.
+
+In large quantities, those same oils can irritate the lining of the digestive tract. You will notice the goat producing softer than normal droppings or showing less interest in its regular feed.
+
+If your goats have access to citrus trees all day every day, the oils can build up in the milk and give it an off flavor. Dairy goat owners should limit citrus access to a few hours per day if milk quality matters.
+
+### Protecting Young Citrus Trees From Goat Damage
+
+Goats will absolutely destroy a young citrus tree if they get the chance. They will strip the bark, eat every leaf, and snap thin branches without hesitation.
+
+If you have newly planted citrus trees in or near your goat pasture, protect them with wire cages made from cattle panels. The cage should extend at least 3 feet from the trunk in all directions.
+
+Once the tree is mature enough that its trunk bark is thick and its lowest branches are above goat reach, you can remove the cage. This usually takes 3 to 5 years depending on the tree variety and growth rate.
+
 ## The Bottom Line
 
 Goats can eat the thorns of a citrus tree branch. However, it's important to monitor their intake and make sure they have access to plenty of fresh, clean water.

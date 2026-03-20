@@ -149,6 +149,22 @@ Salt licks along cliff faces can actually become a problem for trail maintenance
 
 Park managers in places like Glacier National Park have experimented with providing artificial mineral supplements to redirect goats away from trails. The results have been mixed, but it shows just how strong the mineral drive is in these animals.
 
+### How Deep Can Mountain Goat Noches Actually Get?
+
+Individual noches are usually only a few inches deep, but when entire herds use the same rock face for decades, the cumulative effect is impressive. Some mineral lick sites in the Rocky Mountains have depressions worn several feet into the stone.
+
+The depth depends heavily on the rock type. Softer sedimentary rock gives way much faster under hooves and horns than granite or basite. Limestone in particular wears down quickly because it dissolves slightly when mixed with goat saliva.
+
+Researchers at Glacier National Park measured some noche sites that were over 8 inches deep. Those depressions likely took 50 years or more to form from repeated visits by multiple generations of goats.
+
+### Mountain Goat Hoof Structure and Why It Matters
+
+The secret to a mountain goat's digging ability is its split hoof. Each hoof has two toes that can spread apart independently, giving the goat a grip that works almost like a pair of pliers on rock surfaces.
+
+The outer edge of the hoof is hard and sharp for cutting into ice and stone. The inner pad is soft and rubbery, providing traction on smooth surfaces where other animals would slip.
+
+This combination lets mountain goats stand on ledges narrower than a bookshelf while they scrape and lick mineral deposits. No other large mammal in North America can match that level of agility on sheer rock.
+
 Mountain goats are some of the most fascinating creatures in the animal kingdom. These hardy animals have adapted to thrive in some of the most challenging environments, and they possess a variety of unique abilities that make them well-suited for life in the mountains.
 
 Whether you're marveling at their agility while they climb sheer cliff faces or watching them dig noches into the ice, there's no doubt that mountain goats are an impressive sight to behold.

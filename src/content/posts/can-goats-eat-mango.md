@@ -173,6 +173,30 @@ Treats like mangoes should make up less than 10% of their [daily food intake](/c
 
 So next time you feed your goat a juicy mango slice, remember this rule, little but often.
 
+### Storing Mangoes for Year-Round Goat Treats
+
+If you live in an area where mangoes are seasonal, you can stock up and freeze them for later use. Peel the mangoes, remove the pit, and slice the flesh into chunks before spreading them on a baking sheet to freeze individually.
+
+Once frozen, transfer the chunks to freezer bags. They will keep for several months without losing much nutritional value. Thaw a handful at a time before feeding day and your goats will think it is summer all over again.
+
+Dried mango is another storage option, but make sure it has no added sugar or sulfites. Commercial dried mango meant for people often contains preservatives that are not great for goats.
+
+### What to Do If a Goat Swallows a Mango Pit
+
+Accidents happen, especially with goats that snatch food before you finish preparing it. If a goat swallows a whole mango pit, watch closely for signs of choking or digestive distress over the next 24 to 48 hours.
+
+Most adult goats can pass a mango pit through their system without trouble, but smaller breeds and kids are at higher risk for a blockage. Look for loss of appetite, straining, or a bloated belly.
+
+If you see any of those warning signs, call your vet right away. An obstruction in the digestive tract can become life-threatening quickly if it is not addressed.
+
+### Mixing Mango With Other Safe Fruits for a Treat Bowl
+
+Goats love variety, and a mixed fruit treat bowl is a great way to give them different nutrients in one serving. Combine small pieces of mango with slices of banana, watermelon, and apple for a colorful snack.
+
+Keep the total fruit serving small, no more than a cup or two per adult goat per day. The sugar adds up fast when you are mixing multiple fruits together.
+
+Remove any seeds, pits, or tough stems before tossing everything in the bowl. This extra step takes a couple of minutes and prevents choking hazards.
+
 ## Are Mangoes Bad for Goats in Any Way?
 
 Mangoes are not bad for goats. In fact, they can be a healthy treat.

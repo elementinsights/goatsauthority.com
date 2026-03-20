@@ -154,6 +154,22 @@ Parasites, on the other hand, are often asymptomatic but can still cause serious
 
 By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
 
+### Quarantine Procedures for New Goats
+
+Any time you bring a new goat onto your property, quarantine it for a minimum of 30 days before introducing it to your existing herd. This gives you time to watch for symptoms of distemper and other contagious diseases.
+
+Set up the quarantine area at least 50 feet from your main herd if possible. Use separate feed buckets, water containers, and tools for the quarantined animal. Wash your hands and change your boots between caring for the new goat and handling your regular herd.
+
+During the quarantine period, have your vet run a basic health check and any recommended tests. This extra step costs a bit of money upfront but can save you from introducing a devastating disease into a healthy herd.
+
+### How to Disinfect Your Barn After a Distemper Outbreak
+
+If distemper does hit your herd, thorough disinfection of the barn and all equipment is critical before reintroducing healthy animals. Remove all bedding, hay, and feed from the affected area and dispose of it by burning or deep burial.
+
+Scrub every hard surface with a bleach solution mixed at 1 part bleach to 32 parts water. This includes walls, floors, feeders, water buckets, stanchions, and any tools that came in contact with sick animals.
+
+Let the barn air out and dry completely before adding fresh bedding. Distemper virus can survive on surfaces for several weeks in cool, shaded environments, so do not rush this step. Wait at least two weeks after disinfecting before putting goats back in the space.
+
 ## Closing Notes
 
 Overall, goats are relatively resilient creatures that can withstand a lot of abuse and still remain healthy. But, they are susceptible to a number of diseases, some of which can be fatal.

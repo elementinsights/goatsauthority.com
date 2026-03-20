@@ -135,6 +135,22 @@ They are high in protein and nutrients, which can be beneficial for goats. But, 
 
 As a result, you need to weigh the pros and cons of supplementing your goat's diet with calf starter pellets before making a decision.
 
+### Copper Content Warning for Goat Owners
+
+One thing that catches many goat owners off guard is the copper content in calf starter pellets. Cattle have a much higher copper tolerance than goats, and feed formulated for calves may contain copper levels that are toxic to goats over time.
+
+Check the feed tag on any calf starter pellet bag before offering it to your goats. If copper is listed above 20 ppm, that feed is too hot for goats and should not be used.
+
+Copper toxicity builds up slowly in a goat's liver and can suddenly cause a fatal crisis. By the time you notice symptoms like dark urine and jaundice, the damage is already severe.
+
+### How to Transition from Calf Pellets to Goat-Specific Feed
+
+If you have been feeding calf starter pellets and want to switch to a goat-specific feed, do not make the change overnight. A sudden diet switch can throw off the rumen bacteria balance and cause digestive problems.
+
+Mix 75% old feed with 25% new feed for the first three days. Then switch to a 50/50 blend for another three days. After that, go to 25% old and 75% new for three more days before making the full switch.
+
+This gradual transition gives the rumen microbes time to adjust to the new feed composition. Your goats should handle the change without any digestive upset if you take it slow.
+
 ## Closing Notes
 
 Goats can eat calf starter pellets, but it's crucial to do so in moderation. These pellets are high in protein and nutrients, which can be beneficial for goats.

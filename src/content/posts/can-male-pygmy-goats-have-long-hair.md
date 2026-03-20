@@ -149,6 +149,30 @@ The cost of a male pygmy goat varies depending on many factors, such as age, hea
 
 If you are looking for a gentle, social creature that is also aesthetically pleasing, then a male pygmy goat is the perfect choice for you. They are easy to care for and make great companions.
 
+### Best Brushes and Grooming Tools
+
+A slicker brush works well for removing loose hair and light tangles from a pygmy goat's coat. Use it in the direction of hair growth with gentle, even strokes.
+
+For heavier mats and the thick undercoat, a de-shedding rake or comb with wider teeth does a better job. These tools reach deeper into the coat without pulling on the skin.
+
+Keep a pair of blunt-tipped grooming scissors handy for cutting out stubborn mats that a brush cannot handle. Trying to force a brush through a tight mat is painful for the goat and damages the hair.
+
+### How Diet Affects Coat Quality
+
+A pygmy goat's coat quality is a direct reflection of its diet. Goats that eat a balanced ration with adequate protein, zinc, and copper grow thicker, shinier coats.
+
+Black oil sunflower seeds are a popular supplement among goat owners who want to improve coat condition. A small handful per day adds healthy fats that promote a glossy sheen.
+
+If your male pygmy goat's coat looks dull, dry, or thin despite regular grooming, a mineral deficiency may be the cause. Talk to your vet about running a blood panel to check for zinc and copper levels.
+
+### Dealing with Burrs and Debris in Long Hair
+
+Long-haired male pygmy goats are magnets for burrs, sticks, and seed heads. A single walk through a weedy pasture can leave their coat full of debris that takes an hour to pick out.
+
+The best prevention is keeping your pasture mowed and free of burdock, cocklebur, and other plants that produce clingy seeds. If that is not possible, consider trimming the belly and leg hair shorter to reduce the surface area that catches debris.
+
+Coconut oil or a detangling spray rubbed into the affected area can make burr removal much easier. Let the oil soak for a few minutes before working the burr out with your fingers.
+
 ### Winter Coat vs. Summer Coat
 
 Male pygmy goats grow a noticeably thicker, longer coat in the fall as the days get shorter. This winter coat is their built-in insulation against cold temperatures.

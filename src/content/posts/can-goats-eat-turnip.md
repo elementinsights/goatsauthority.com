@@ -157,6 +157,30 @@ Vegetables and fruits can be fed to goats fresh, cooked, or canned. Grains can b
 
 It is crucial to consult with a goat expert before making any changes to your goat's diet. Goats have specific nutritional needs that must be met in order for them to stay healthy.
 
+### Growing Turnips for Your Goat Herd
+
+Turnips are one of the easiest root vegetables to grow, and they produce a crop fast. Most varieties go from seed to harvest in 45 to 60 days, which means you can get multiple plantings in a single growing season.
+
+Plant turnip seeds directly into the soil about half an inch deep. They prefer cool weather, so early spring and late summer plantings give the best results.
+
+A 10-by-10 foot garden plot can produce enough turnips to supplement a small goat herd for several weeks. Pull them when they reach about 3 inches in diameter for the best flavor and texture.
+
+### Turnip Greens vs. Turnip Roots for Goats
+
+The root is the part most people think of when feeding turnips to goats, but the greens are also packed with nutrients. Turnip greens are high in vitamin K, vitamin C, and folate.
+
+Goats tend to prefer the greens over the root because the leaves are softer and easier to chew. You can toss a handful of fresh turnip greens into the hay feeder as a supplement.
+
+Just be aware that turnip greens can cause mild bloating if fed in large quantities. Mix them with other browse and hay rather than offering a whole pile of greens at once.
+
+### Combining Turnips with Other Root Vegetables
+
+Turnips work great as part of a root vegetable mix for your goats. Combine chopped turnips with carrots, beets, and parsnips for a nutrient-dense treat that provides variety.
+
+Mixing different roots keeps your goats interested in the feed and delivers a wider range of vitamins and minerals. Goats that get bored with a single treat option will often refuse it after a while.
+
+Chop everything into similar-sized pieces so the goats eat evenly instead of picking out their favorites and leaving the rest.
+
 ## Wrapping Up
 
 Goats can eat turnips, but they should be fed in moderation. Too many turnips can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).

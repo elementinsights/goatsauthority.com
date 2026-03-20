@@ -155,6 +155,30 @@ Eating too much onion root can cause red blood cells to break down, leading to a
 
 It can also cause difficulty breathing, stomach pain, and vomiting. Onion roots should be avoided, and cooked onions should be given in moderation.
 
+### Recognizing Onion Toxicity Symptoms Early
+
+The first sign of onion toxicity is pale or yellowish gums. Pull back your goat's lip and check the color of the gum tissue above the teeth. Healthy gums should be bright pink.
+
+Dark-colored urine is another red flag. Onion toxicity causes red blood cells to break down, and the hemoglobin passes through the kidneys and turns the urine brown or reddish. If you notice this, stop feeding onions immediately and call your vet.
+
+Lethargy and rapid breathing often follow within 24 to 48 hours of consuming too many onions. The goat's body is not getting enough oxygen because its red blood cell count has dropped. This is a medical emergency that requires veterinary treatment.
+
+### How Long Does Onion Toxicity Take to Show Up?
+
+Symptoms usually appear one to four days after the goat eats a significant amount of onion. This delay catches many goat owners off guard because the animal seems fine at first.
+
+The damage to red blood cells is cumulative. A goat that eats a small amount of onion every day for a week can develop anemia just as easily as one that eats a large amount in a single sitting. This is why regular onion feeding is more dangerous than an occasional small treat.
+
+Recovery from mild onion toxicity takes about two weeks once the onion is removed from the diet. The body needs time to replace the damaged red blood cells. During recovery, make sure the goat has access to plenty of fresh water and high-quality hay.
+
+### Safer Flavor Additions for Goat Feed
+
+If you want to add variety to your goat's diet, skip the onions and try herbs instead. Dried oregano, thyme, and rosemary can be sprinkled over grain as a flavor boost. Goats love aromatic herbs, and many of them have natural anti-parasitic properties.
+
+Fresh mint is another excellent choice. Most goats go wild for it, and it aids digestion. Plant a patch of mint near the barn so you always have some available.
+
+Garlic is sometimes used in small amounts as a natural fly repellent when added to goat feed. It is in the same plant family as onions but appears to be safer in small doses. Still, moderation is key with any allium species.
+
 ## What to Remember
 
 Goats can safely eat onions in moderation. Onions are a source of essential vitamins and minerals, including sulfur, which is important for hoof health.

@@ -131,6 +131,30 @@ Finally, goats are susceptible to a variety of health problems, so it is crucial
 
 By following these simple guidelines, you can ensure that your goats stay healthy and happy.
 
+### How Photosensitivity From St Johns Wort Works
+
+When a goat eats St Johns Wort, the hypericin compound in the plant gets absorbed into the bloodstream and travels to the skin. Once there, it reacts with sunlight and causes a chemical burn on any skin that is exposed to UV rays.
+
+Light-skinned and white goats are hit the hardest. The areas around the ears, nose, udder, and any patches of pink skin will blister and peel first. Dark-pigmented goats can still be affected, but they show symptoms more slowly.
+
+If you catch the problem early, move the affected goat into a dark barn or shaded area immediately. Keep them out of direct sunlight for at least 2 to 3 weeks while the hypericin clears their system. The skin damage will heal on its own in most cases, but severe burns may need veterinary treatment.
+
+### Identifying St Johns Wort in Your Pasture
+
+St Johns Wort is easy to identify once you know its features. The plant grows about 1 to 3 feet tall with woody stems and small oval leaves. Hold a leaf up to the light and you will see tiny translucent dots scattered across the surface. Those dots are the oil glands that contain hypericin.
+
+The flowers are bright yellow with five petals and appear in clusters at the top of the plant from June through September. If you crush a flower bud between your fingers, it will leave a reddish-purple stain. That stain is pure hypericin, and it is the exact compound that causes the photosensitivity reaction in goats.
+
+St Johns Wort thrives in dry, sandy soils and along roadsides, fence lines, and disturbed ground. It spreads aggressively through both seeds and underground runners, so getting rid of it takes persistent effort.
+
+### Getting Rid of St Johns Wort on Your Land
+
+Mowing alone will not kill St Johns Wort because the root crown survives and sends up new shoots. You need to combine mowing with either targeted herbicide application or biological control.
+
+The Chrysolina beetle, also called the Klamath weed beetle, is a biological control agent that has been used successfully in the western United States to manage St Johns Wort. The beetles feed on the leaves and can knock a heavy infestation back significantly over two or three growing seasons.
+
+If you prefer a chemical approach, spot-spraying with a broadleaf herbicide in early spring when the plants are actively growing gives the best results. Always keep goats off treated areas for the period specified on the herbicide label.
+
 ## Closing Notes
 
 Goats cannot eat St Johns Wort because it is poisonous to them. If your goat eats St Johns Wort, the first thing you should do is consult a goat expert.

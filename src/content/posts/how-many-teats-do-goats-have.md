@@ -121,6 +121,30 @@ Finally, take a close look at your goats' udders - if they seem red or swollen, 
 
 In general, milking twice per day is a good rule of thumb for most goat keepers. When all is said and done, the best milking schedule for your herd will be one that works well for both you and your goats.
 
+### What Extra Teats Mean for Dairy Production
+
+Some goats are born with extra teats beyond the standard two. These are called supernumerary teats, and they pop up more often than you might expect. A goat with four teats is not uncommon, especially in certain dairy breeds.
+
+Extra teats do not always produce milk. Some are non-functional and are just small skin tags that never develop a working milk duct behind them. Others are fully functional and actually add to the total milk output.
+
+In the dairy world, extra teats can be a problem during machine milking because they interfere with the milking cup's seal. Many dairy farmers will have a vet remove extra teats from kids when they are just a few days old. It is a quick procedure that prevents headaches down the road.
+
+### How Teat Shape Affects Milking Ease
+
+Not all teats are shaped the same, and the shape matters more than most new goat owners realize. A teat that points straight down is ideal for hand milking because your hand can wrap around it naturally.
+
+Teats that point outward or forward are harder to grip and milk. You will tire out faster, and the goat will get impatient with you fumbling around under there.
+
+Teat size also plays a role. Very small teats, common in breeds like Nigerian Dwarfs, can be tough for people with large hands to grip. If you plan to milk by hand, pick a breed with teats that are proportional to your hand size.
+
+### Keeping Teats Healthy Year-Round
+
+Teat health is something every goat owner should monitor closely. Cracked or chapped teats are painful for the goat and create an entry point for bacteria that cause mastitis.
+
+During cold winter months, apply a teat balm or bag balm after each milking to keep the skin supple. In summer, flies are the bigger concern because they are attracted to the moisture around the teat opening.
+
+A teat dip solution applied after milking creates a barrier that keeps bacteria and flies out. You can buy commercial teat dip or make your own with diluted iodine. Dip each teat for about 30 seconds and let it air dry before releasing the goat back to her pen.
+
 ## Closing Notes
 
 Goats have 2 -4 teats, with most having 2. There are a few things to keep in mind when milking a goat, including hygiene and the goat's comfort level.

@@ -138,6 +138,30 @@ While the exact future of goat tree-climbing is impossible to predict, it seems 
 
 So, while it may seem like a strange phenomenon now, goat tree-climbing could become quite commonplace in the years to come.
 
+### Why Some Goats Are Better Climbers Than Others
+
+Body size and build play a huge role in climbing ability. Smaller, lighter breeds like Pygmies and Nigerian Dwarfs can scramble up into spots that larger breeds would never attempt. Their low center of gravity and compact frame give them an advantage on angled surfaces.
+
+Breed matters too. Mountain goat genetics run deep in certain domesticated breeds, and those instincts do not disappear just because the goat lives on flat land. If a goat has climbing in its blood, it will find something to climb even if it is just a stack of hay bales.
+
+Age is another factor. Younger goats between 6 months and 2 years old are the most adventurous climbers. As goats get older and heavier, they tend to stay on the ground more often.
+
+### Building Climbing Structures for Your Goats
+
+If your goats love to climb, giving them a dedicated climbing structure keeps them off your fences, vehicles, and equipment. A few large rocks, some stacked pallets, or a homemade wooden platform can give them the elevation they crave.
+
+Make sure any structure you build is stable and will not tip over under a goat's weight. Goats can be rough on their playground equipment, and a toppling structure can crush a smaller goat underneath it.
+
+Cable spool tables from utility companies make excellent goat climbing platforms. They are free or very cheap, incredibly sturdy, and come in different sizes. Stack two or three of them together and your goats will treat it like a mountain.
+
+### Preventing Unwanted Tree Climbing
+
+If your goats are climbing fruit trees and destroying them, you need a physical barrier. Wrap the lower trunk with hardware cloth or chicken wire to a height of about 4 feet. This prevents the goat from getting a grip with its hooves on the bark.
+
+You can also prune lower branches so there is no easy on-ramp into the canopy. A goat needs a low branch or fork in the trunk to start its climb. Remove that first step and most goats will give up.
+
+Electric fencing around valuable trees is another option that works well. A single strand of electric wire at nose height is usually enough to train goats to stay away after one or two zaps.
+
 ## Key Takeaways
 
 A goat can climb a tree for many reasons. Some goats climb trees to escape predators or to get food that is out of reach.

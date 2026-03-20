@@ -122,6 +122,30 @@ The serving size of peanut butter for goats can vary depending on the size and a
 
 A little bit of this calorie and nutrient-rich food goes a long way in helping keep your goats healthy and well-nourished.
 
+### Using Peanut Butter for Medication Delivery
+
+One genuinely useful application for peanut butter on a goat farm is hiding medications in it. Goats are notoriously difficult when it comes to taking pills or liquid supplements, and a small smear of peanut butter can mask the taste.
+
+Wrap the pill in a thin layer of peanut butter and place it on the back of the goat's tongue. Most goats will swallow it without a fight because the peanut butter flavor overwhelms the medicine taste.
+
+This trick works best for deworming pills and vitamin supplements. Just keep the amount of peanut butter tiny so you are not adding unnecessary fat to their diet.
+
+### Peanut Butter and Goat Allergies
+
+While rare, some goats do show sensitivity to peanut products. Signs of an allergic reaction include swelling around the mouth, excessive drooling, and hives on the skin.
+
+If you are offering peanut butter for the first time, start with a pea-sized amount and watch your goat closely for the next few hours. Any swelling or behavioral changes mean you should stop immediately and call your vet.
+
+Most goats handle peanut butter just fine in small doses. But knowing the signs of an adverse reaction puts you ahead of the game.
+
+### How Peanut Butter Compares to Other Goat Treats
+
+Compared to common goat treats like apple slices and carrot chunks, peanut butter is significantly higher in both calories and fat. A single tablespoon of peanut butter has roughly 95 calories, while a whole apple slice has about 5.
+
+Black oil sunflower seeds offer a similar protein and fat boost without the sticky mess. They are also much cheaper per serving and easier to portion out for a whole herd.
+
+If your goal is simply to give your goat a special treat, fresh fruits and vegetables are almost always the better choice. Save the peanut butter for those times when you really need it, like hiding a pill.
+
 ## The Bottom Line
 
 [Goats can eat](/can-goats-eat-everything/) peanut butter, and it can be a healthy part of their diet. Peanut butter is high in calories, fat, and protein, and it's also a good source of vitamins and minerals.

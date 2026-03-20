@@ -138,6 +138,30 @@ Dietary fiber is important for healthy digestion in baby goats.
 
 Watermelons should be fed to baby goats in moderation, as too much can cause stomach upset. Watermelon seedlings are also poisonous to baby goats, so make sure to remove the seeds before giving them watermelon to eat.
 
+### Can Goats Eat the Watermelon Rind?
+
+The rind is actually the safest part of the watermelon for goats. It has far less sugar than the flesh and contains a decent amount of fiber that supports healthy rumen function.
+
+Most goats will happily chew through the entire rind if you let them. Cut it into strips or wedges so the goats can pick them up easily without dragging them through the dirt.
+
+Some farmers save watermelon rinds all summer and freeze them for a cool treat on especially hot days. Just thaw them slightly before feeding so the goats do not chip a tooth on a frozen block.
+
+### How Watermelon Fits Into a Balanced Goat Diet
+
+Think of watermelon as a dessert, not a meal. Hay and browse should always be available before you hand out any fruit treats.
+
+On a hot afternoon, a few slices of watermelon per goat is plenty. That small amount gives them extra hydration and a burst of vitamins without overloading them on sugar.
+
+If you grow watermelons on your property, fence off the patch. Goats that find a watermelon vine will eat every melon down to the stem and gorge themselves sick. Controlled portions are the key to keeping watermelon a healthy treat.
+
+### Signs a Goat Has Eaten Too Much Watermelon
+
+Loose, watery droppings within a few hours of eating watermelon are the first sign you overdid it. Healthy goat pellets should be firm and well-formed, so runny stool after fruit feeding means you need to cut back next time.
+
+Bloating is another concern. If a goat's left side looks distended and feels tight like a drum, the rumen may be struggling to process all that sugar and water at once.
+
+Offer baking soda free-choice in a separate feeder. Many goats will self-medicate with it when their rumen feels off. Keep an eye on any goat showing discomfort and call your vet if bloating does not resolve within an hour or two.
+
 ## Wrapping Up
 
 Goats can eat watermelon. However, there are a few things to keep in mind.

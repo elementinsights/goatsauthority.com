@@ -131,6 +131,22 @@ In addition to their physical differences, black and white truffles are also use
 
 Though they come from different parts of the world and have different flavors, both black and white truffles are prized for their unique taste and aroma.
 
+### Best Time of Year to Hunt Truffles With Goats
+
+Truffle season varies depending on where you live, but most truffle species fruit between late fall and early spring. Black truffles in Europe and the Pacific Northwest are typically at their peak from December through March.
+
+Oregon black truffles ripen a bit earlier, usually November through February. If you are in the southeastern United States, pecan truffles can be found from October through January.
+
+Take your goat out on cool, damp mornings when the scent of underground truffles rises more easily through the moist soil. Dry, sunny days make it harder for any animal to detect the subtle aroma.
+
+### Why Goats Sometimes Eat the Truffle Before You Can Grab It
+
+The biggest challenge with using goats for truffle hunting is that they love eating what they find. Unlike trained dogs that will sit and wait for a reward, goats tend to chomp first and ask questions later.
+
+Training a reliable "leave it" command before you start truffle hunting is essential. Practice at home with regular treats until the goat consistently backs off on command before taking the training to the field.
+
+Some handlers use a short lead during truffle hunts to maintain control. When the goat starts digging and you see it has found something, a gentle tug and a food reward will teach it to step aside and let you collect the prize.
+
 ## Closing Notes
 
 Goats can find truffles, but they are not the only animals that can do so. Pigs, dogs, and even chickens can be trained to locate these valuable fungi.

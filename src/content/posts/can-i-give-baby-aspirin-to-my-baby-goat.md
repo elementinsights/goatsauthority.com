@@ -135,6 +135,32 @@ Other options include massage therapy and acupuncture, both of which can help to
 
 At the end of the day, the best approach will depend on the specific needs of each individual animal, so it is crucial to work with a trusted goat expert or other trusted medical professional when determining the most appropriate [course of treatment](/can-i-put-neosporin-on-my-goats/).
 
+### How to Crush and Administer Aspirin to a Baby Goat
+
+Getting a baby goat to swallow a pill is a wrestling match you will lose. Crush the aspirin tablet between two spoons until it is a fine powder. Mix the powder into a small amount of applesauce, yogurt, or molasses.
+
+Use a dosing syringe to squirt the mixture into the side of the kid's mouth, aiming for the back of the tongue. Hold the mouth gently closed for a few seconds to make sure the kid swallows instead of spitting it out.
+
+If the kid refuses the mixture completely, you can dissolve the crushed aspirin in a tablespoon of warm water and administer it through the syringe. This method is messier but gets the job done.
+
+### When Aspirin Is Not Enough and You Need the Vet
+
+Aspirin is a basic pain management tool. It is not a substitute for veterinary care when something serious is going on with your kid.
+
+If the baby goat has a fever above 104 degrees, is completely refusing food, or cannot stand on its own, aspirin alone will not fix the problem. These are signs of an infection, injury, or metabolic disorder that needs professional diagnosis.
+
+A vet can prescribe stronger anti-inflammatory drugs like banamine (flunixin meglumine) that work faster and are more effective for severe pain. Banamine requires a prescription and accurate dosing, which is why it should only come from your vet.
+
+### Keeping a Basic Goat First Aid Kit
+
+Every goat owner should have a first aid kit in the barn ready to go. Baby aspirin is just one item on a list that should also include a digital thermometer, dosing syringes, iodine spray, and wound care supplies.
+
+Stock your kit with electrolyte powder for dehydration, activated charcoal for accidental poisoning, and a tube of nutridrench for energy crashes. These items cover the most common emergencies you will face with baby goats.
+
+Store everything in a waterproof container clearly labeled and kept where you can grab it in the dark. Emergencies do not wait for daylight, and fumbling through barn shelves at 3 AM is no fun.
+
+Check the expiration dates on medications every six months and replace anything that has gone past its date. Expired aspirin loses potency and may not provide the relief your kid needs.
+
 ## The Bottom Line
 
 You can give baby aspirin to your baby goat if they are experiencing pain or inflammation. However, it is important to monitor for side effects and always check with a veterinarian first.

@@ -130,6 +130,14 @@ Adult goats require hay, fresh water, and a mineral supplement. They also enjoy 
 
 With proper care, your goats will provide you with years of companionship and enjoyment.
 
+### Preparing a Kidding Kit
+
+Every goat owner should have a kidding kit ready at least two weeks before the due date. Stock it with clean towels, iodine for dipping navels, a bulb syringe for clearing airways, and dental floss for tying off umbilical cords.
+
+Include a bottle and nipple in case you need to supplement a weak kid. Colostrum replacer is also worth having on hand since those first few hours of feeding are critical for survival.
+
+A pair of disposable gloves and a small flashlight round out the kit. Goats love to kid in the middle of the night, so you want everything within arm's reach when the time comes.
+
 ### Breed Differences in Litter Size
 
 Not all goat breeds produce the same number of kids. Nigerian Dwarf goats are known for having larger litters, often delivering triplets or even quadruplets. Boer goats also tend toward twins and triplets.

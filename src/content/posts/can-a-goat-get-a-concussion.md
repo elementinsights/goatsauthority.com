@@ -150,6 +150,14 @@ A goat can die from a concussion if the injury is severe enough. However, most g
 
 If you suspect that your goat has a concussion, it’s crucial to seek animal expert care immediately. The sooner you can get your [goat treatment](/can-i-give-my-goat-pepto-bismol/), the better its chances of making a full recovery.
 
+### Head-Butting Between Goats: When It Gets Dangerous
+
+Head butting is completely normal behavior in a goat herd. Bucks do it to establish dominance, and does do it to sort out the pecking order. Most of the time, nobody gets hurt.
+
+The risk increases when there is a big size difference between goats. A full-grown buck slamming into a young doeling can cause serious head trauma that a fair match between two adults would not.
+
+Separate goats with major size differences during the adjustment period when new animals are introduced to the herd. Once the hierarchy is established, the head butting usually calms down.
+
 ### Recovery Timeline for Goats With Concussions
 
 Most goats with mild concussions start showing improvement within 24 to 48 hours. During this window, keep the goat in a quiet, dimly lit area away from the rest of the herd. Loud noises and bright lights can slow down recovery.

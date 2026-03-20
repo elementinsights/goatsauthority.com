@@ -168,6 +168,30 @@ Just remember moderation is key when feeding treats to any animal.
 
 **In short, while they technically ‘can’ eat cheese, it shouldn’t be a regular part of their diet**.
 
+### Why Some Goats Go Crazy for Cheese
+
+Goats have a strong sense of smell, and the pungent aroma of cheese grabs their attention fast. Aged cheeses like cheddar and parmesan have especially strong scents that goats find irresistible.
+
+Their attraction to cheese is purely about the smell and taste. It does not mean they need dairy in their diet. Their rumen is built for processing plant fiber, not fermented milk products.
+
+If you eat cheese near your goats, expect them to beg relentlessly. That persistent head-butting and bleating is their way of saying they want a bite. Staying firm and offering a hay-based treat instead keeps their gut happy.
+
+### Aged Cheese vs. Fresh Cheese for Goats
+
+If you absolutely must share a tiny piece of cheese with your goat, fresh varieties like mozzarella are a safer bet than aged ones. Fresh cheese has lower sodium and fat content per ounce.
+
+Aged cheeses like blue cheese, sharp cheddar, and Parmesan pack much higher levels of salt and concentrated fats. Those are harder on a goat's kidneys and digestive system.
+
+Soft, mild cheeses also break down faster in the rumen. But again, cheese of any kind should be a rare exception, not a weekly habit.
+
+### How Cheese Affects a Goat's Rumen pH
+
+A goat's rumen operates best at a slightly acidic pH between 6.0 and 7.0. Dairy products like cheese can push that pH in the wrong direction because the fats slow down normal fermentation.
+
+When fermentation stalls, gas builds up in the rumen. This can lead to bloating, which is uncomfortable at best and dangerous at worst.
+
+Keeping your goats on a high-fiber, plant-based diet is the simplest way to maintain a healthy rumen pH. Save the cheese for yourself and give your goats a handful of browse instead.
+
 ## What Other Foods Can Goats Eat Apart From Cheese?
 
 Goats are not just cheese lovers. They enjoy a variety of foods.

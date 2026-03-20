@@ -130,6 +130,30 @@ Additionally, it is important to consult with a veterinarian or other expert bef
 
 The bottom line is, the best time to line-breed your goats is when you have done your research and you are confident that you understand the risks and rewards involved.
 
+### Keeping Detailed Breeding Records
+
+Good record keeping is the backbone of any responsible breeding program. You need to track every breeding pair, kidding date, and offspring health outcome going back at least three generations.
+
+A simple spreadsheet works fine for small herds. Record the sire, dam, birth date, number of kids, and any health problems that showed up in the offspring. Patterns become obvious once you have a few years of data.
+
+Without records, you are flying blind. You might accidentally pair two closely related goats and not realize it until health problems show up in the kids.
+
+### Signs of Inbreeding Depression to Watch For
+
+Inbreeding depression does not always show up right away. Sometimes the first generation of inbred kids looks perfectly healthy, and problems do not surface until the second or third generation.
+
+Common signs include smaller birth weights, slower growth rates, and a higher rate of stillbirths. You might also notice weaker immune systems, with inbred kids getting sick more often than their outcrossed counterparts.
+
+Jaw deformities, undescended testicles, and crooked legs are more obvious physical signs. If you see any of these in your herd, take a hard look at your breeding records and consider bringing in outside genetics.
+
+### When Bringing in a New Buck Makes Sense
+
+If your herd is small and you find yourself running out of unrelated breeding options, it is time to buy or lease a new buck. Fresh genetics from an unrelated line can reverse the effects of too much inbreeding in just one generation.
+
+Look for a buck from a breeder at least 50 miles away to reduce the chance of shared bloodlines. Ask to see their registration papers and health records before making a purchase.
+
+Some goat associations run buck leasing programs specifically to help small breeders access new genetics without the full cost of purchasing and maintaining a buck year-round.
+
 ## Closing Notes
 
 You can breed your goats using different methods, each with its own advantages and disadvantages. Line breeding is a tool that can be used to improve desired traits in your herd but it comes with the risk of inbreeding.

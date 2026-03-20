@@ -135,6 +135,30 @@ You should also apply a thin layer of [antibiotic ointment](/can-i-put-neosporin
 
 By following these simple steps, you can ensure that your goat stays healthy after being disbudded.
 
+### The Best Age to Disbud a Goat Kid
+
+Timing is everything with disbudding. The ideal window is between 3 and 7 days old for most dairy breeds. At this age, the horn buds are small enough for a clean burn and the kid recovers quickly.
+
+Nigerian Dwarf and Pygmy kids sometimes need to be done even earlier because their horn buds develop fast. Check by running your thumb over the top of the head. If you feel a hard nub, it is time.
+
+Waiting too long makes the procedure much harder. Once the horn bud attaches firmly to the skull, a standard disbudding iron may not get a complete burn. This leads to scurs, those annoying partial horn regrowths that can curl and cause problems later.
+
+### What Equipment Do You Need?
+
+A quality disbudding iron is the most important piece of equipment. The Rhinehart X30 is a popular choice among goat owners because it heats evenly and has the right tip size for goat kids.
+
+You will also need a kid holding box to keep the animal still during the procedure. These can be bought commercially or built at home from scrap wood in about 30 minutes.
+
+Stock up on antiseptic spray, pain relief medication (if your vet prescribes it), and clean towels. Having everything ready before you start makes the process faster and less stressful for both you and the kid.
+
+### Aftercare for the First Week
+
+The burn sites will look raw and crusty for the first few days. This is normal. Do not pick at the scabs or try to clean them aggressively.
+
+Apply a thin coat of wound spray once daily to keep flies away and reduce infection risk. Keep the kid in a clean, dry area with fresh bedding for at least the first three days after the procedure.
+
+Watch for any swelling, pus, or foul smell around the burn sites. These are signs of infection that need veterinary attention. Most kids bounce back to their normal playful selves within 24 hours, which is always reassuring to see.
+
 ## Our Take
 
 Overall, disbudding can be a simple and cost-effective way to remove horns from goats. However, it is important to understand the risks involved and take steps to minimize them.

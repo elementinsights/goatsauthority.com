@@ -141,6 +141,22 @@ Finally, goats need a lot of exercises, so be sure to take them for a walk or a 
 
 By following these simple tips, you can make sure that both you and your goat have a safe and enjoyable ride.
 
+### Why Pack Goats Are a Better Alternative to Riding
+
+Instead of riding a goat, consider training one as a pack animal. Certain breeds like Alpine and Oberhasli goats can carry up to 25 percent of their body weight in a properly fitted pack saddle.
+
+Pack goats are popular with hikers and backcountry enthusiasts. They are quieter than horses on the trail, easier to transport, and can navigate narrow paths that horses cannot handle.
+
+Training a pack goat starts young. Begin with an empty saddle at around six months of age and gradually add weight as the goat matures. Most goats are ready for full loads by age two or three.
+
+### Weight Limits You Should Never Exceed
+
+A healthy adult goat should never carry more than about 30 pounds on its back. That rules out any adult human from riding, even on the largest breeds. Children under 30 pounds might technically sit on a large Boer goat, but it is still not recommended.
+
+The goat's spine is not designed for downward pressure the way a horse's back is. Even a small amount of weight in the wrong spot can cause long-term spinal damage that may not show symptoms right away.
+
+If you see a goat being ridden at a fair or petting zoo, understand that the goat is likely being subjected to stress and potential injury. Responsible goat ownership means finding other ways to interact with these animals.
+
 ## What to Remember
 
 Riding a goat can be a fun and unique experience, but it's important to be aware of the risks involved.

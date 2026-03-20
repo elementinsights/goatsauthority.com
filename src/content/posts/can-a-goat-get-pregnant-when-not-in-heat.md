@@ -144,6 +144,20 @@ For example, late fall and early winter are generally considered to be the best 
 
 Additionally, the cooler temperatures during this time of year help to reduce the risk of heat stress, which can be detrimental to both the goat and its offspring. As a result, breeding goats during late fall and early winter can help to ensure a successful pregnancy and healthy offspring.
 
+### Keeping Accurate Breeding Records
+
+A simple breeding log can save you a lot of guesswork. Record the date of every observed mating, the buck used, and any heat signs you noticed. This information becomes critical when you are trying to predict kidding dates.
+
+Use a separate page for each doe and update it every breeding season. Over time, you will start to see patterns in each doe's cycle that make future breeding much easier to plan.
+
+Free printable breeding record templates are available online. Pick one that includes columns for date, buck name, heat signs, and expected due date. Tape it to the inside of your barn door so you can update it quickly during chores.
+
+### When Out-of-Heat Breeding Goes Wrong
+
+Breeding a doe outside of her normal heat cycle can sometimes lead to lower conception rates. The egg may not be mature enough to fertilize, or the uterine lining may not be ready to support a pregnancy.
+
+If a doe is bred out of heat and does not conceive, wait until her next natural cycle before trying again. Pushing repeated out-of-cycle breedings can stress the animal and actually reduce her fertility over time.
+
 ## To Wrap Things Up
 
 Goats can get pregnant when not in heat, but there are a number of factors that can impact the success of the pregnancy.

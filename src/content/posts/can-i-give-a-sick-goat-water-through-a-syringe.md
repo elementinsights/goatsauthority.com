@@ -120,6 +120,22 @@ Additionally, some studies have suggested that consuming [electrolytes](/can-goa
 
 Nevertheless, by exploring all of their possible treatment options, dehydration sufferers can find a solution that works best for them.
 
+### Adding Electrolytes to Syringe Water
+
+Plain water is fine for mild dehydration, but a goat that has been sick with diarrhea or fever for more than a day has lost electrolytes along with fluids. Adding an electrolyte powder to the syringe water replaces those lost minerals and speeds up recovery.
+
+You can buy goat-specific electrolyte mixes at most farm supply stores. Follow the mixing instructions on the package and administer the solution at room temperature through the syringe the same way you would plain water.
+
+Avoid using sports drinks designed for humans. They contain too much sugar and artificial flavoring that can upset a goat's already compromised digestive system.
+
+### How Often to Syringe Feed Water
+
+For a moderately dehydrated goat, aim for about 30 to 60 mL of water every two hours during the daytime. Space out the feedings so the goat has time to process each dose without getting overwhelmed.
+
+If the goat starts drinking on its own between syringe sessions, that is a great sign. Cut back on the syringe feedings gradually as voluntary water intake increases.
+
+Continue syringe feeding for at least 24 hours after the goat seems to be recovering. Relapses happen quickly with dehydration, and stopping too soon can set you back to square one.
+
 ### Signs Your Goat Is Dehydrated
 
 Knowing when to step in with a syringe starts with recognizing dehydration early. Pull up a small fold of skin on your goat's neck and let go. If the skin snaps back quickly, hydration is probably fine. If it stays tented for two or more seconds, your goat needs fluids right away.

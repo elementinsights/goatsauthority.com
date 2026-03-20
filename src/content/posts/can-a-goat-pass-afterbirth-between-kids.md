@@ -146,6 +146,30 @@ However, there's quite a bit of variation between individual animals, so it's no
 
 Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. So, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
 
+### What Does Normal Afterbirth Look Like?
+
+A healthy afterbirth is dark reddish-brown and has a slightly slimy texture. You should be able to see the cotyledons, which look like small, round buttons attached to the membrane.
+
+If the afterbirth is green, black, or has a foul smell, that is a warning sign of infection or a dead kid still inside the doe. Contact your vet immediately if you notice anything unusual about the color or odor.
+
+Count the cotyledons if you can. Each kid typically has its own set, so comparing the count to the number of kids born can help you determine whether any placental tissue was retained.
+
+### When to Intervene During Kidding
+
+Most does handle the birthing process just fine on their own, but there are moments when you need to step in. If a doe has been pushing hard for more than 30 minutes without producing a kid, something may be wrong.
+
+Wash your hands thoroughly and apply lubricant before doing a gentle internal check. Feel for the position of the kid. Two front hooves with a nose resting on top is the ideal presentation.
+
+If you feel a tail or only one leg, the kid is likely malpositioned and may need to be repositioned before delivery. This is one of those situations where having your vet's emergency number saved in your phone pays off.
+
+### Cleaning Up After Kidding
+
+Once all the kids are delivered and the afterbirth has passed, clean the kidding stall thoroughly. Remove all soiled bedding and replace it with fresh straw or shavings.
+
+Some does will try to eat the afterbirth, which is normal mammalian behavior. Most goat owners let them have at it, though a few prefer to remove it right away to keep the area clean.
+
+Disinfect any equipment you used during the delivery and wash your clothes promptly. Kidding can be messy business, but a clean environment goes a long way toward preventing postpartum infections.
+
 ## Closing Notes
 
 Goats can pass afterbirth between kids, but it's important to take care of the afterbirth and make sure that it does not become infected. It's also important to keep an eye on the goat kid for signs of illness.

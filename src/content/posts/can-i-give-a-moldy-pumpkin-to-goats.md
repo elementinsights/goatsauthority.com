@@ -150,6 +150,30 @@ Store whole pumpkins in a cool, dry location off the ground. Placing them on a w
 
 Once you cut a pumpkin, feed the pieces to your goats within a day or two. Cut pumpkin spoils fast, especially in warm weather.
 
+### What Types of Mold Are Most Dangerous
+
+Aspergillus mold produces aflatoxins, which are among the most dangerous substances a goat can ingest. Aflatoxins attack the liver and can cause permanent organ damage even in small amounts. This mold often appears as a powdery green or gray coating on the pumpkin's surface.
+
+Penicillium mold is the blue-green fuzzy type you commonly see on old food. While some Penicillium species are relatively harmless, others produce mycotoxins that cause kidney damage in goats. You cannot tell the dangerous strains from the harmless ones by looking at them.
+
+Black mold (Rhizopus) often appears on the bottom of pumpkins where they were sitting on the ground. It grows fast in warm, humid conditions and produces toxins that cause severe gastrointestinal inflammation. If you see black fuzzy growth on a pumpkin, do not even consider feeding it.
+
+### Using Pumpkins as a Natural Dewormer
+
+Fresh pumpkin seeds contain cucurbitacin, a compound that paralyzes intestinal worms and makes them easier for the goat's body to expel. While seeds alone will not replace a proper dewormer, they make a good supplemental treatment.
+
+Feed a handful of raw pumpkin seeds daily for one to two weeks during peak worm season. Grind the seeds in a blender first for young kids, since whole seeds can be hard for them to chew.
+
+Combine pumpkin seed feeding with regular fecal egg count testing. This way you can track whether the natural approach is making a difference in your herd's parasite load.
+
+### Best Time of Year to Feed Pumpkins to Goats
+
+Fall is the obvious pumpkin season, and that is when most goat owners stock up. After Halloween, you can often get free pumpkins from neighbors, grocery stores, and pumpkin patches that are clearing out their inventory.
+
+Check every donated pumpkin carefully before feeding. Jack-o-lanterns that have been carved and left outside for days are almost certainly contaminated with mold or candle wax residue. Uncarved pumpkins that were used as decorations are usually fine if they still feel firm and smell fresh.
+
+Store extra pumpkins in a cool, dry location and feed them within two to three weeks of harvest. Once you cut into a pumpkin, the exposed flesh starts to deteriorate within a day or two. Feed cut pieces the same day or refrigerate them overnight.
+
 ## Closing Notes
 
 You cannot give a moldy pumpkin to goats. If they eat it, they could get sick.

@@ -131,6 +131,30 @@ You may also need to add supplements or change their feed to correct any mineral
 
 By following these steps, you can help ensure that your goats stay healthy and avoid any further complications.
 
+### The Calcium-to-Phosphorus Ratio Connection
+
+Urinary calculi in goats are closely linked to the calcium-to-phosphorus ratio in their diet. The ideal ratio is 2:1 (calcium to phosphorus). When phosphorus gets too high relative to calcium, crystals form in the urinary tract.
+
+Baking soda does not directly change this ratio, but it does alter the urine pH. Alkaline urine (caused by excess baking soda) creates conditions where certain types of crystals form more readily. This is the connection between baking soda and urinary stones that many goat owners miss.
+
+If you are offering baking soda free-choice, monitor how much your goats are actually consuming. Some goats will overindulge, and those are the ones most at risk for urinary problems.
+
+### Safer Alternatives to Free-Choice Baking Soda
+
+Instead of leaving a bowl of baking soda out at all times, offer it only when you notice signs of digestive upset. A goat with a tight, gassy rumen benefits from a small dose. A healthy goat eating a balanced diet does not need daily baking soda.
+
+Apple cider vinegar added to water at a rate of one tablespoon per gallon is a gentler way to support rumen health. It acidifies the urine slightly, which actually helps prevent calculi rather than promote them.
+
+Ammonium chloride is the gold standard for urinary calculi prevention in male goats. It is added to feed at a rate recommended by your vet and works by maintaining acidic urine that dissolves crystals before they become stones.
+
+### Recognizing Urinary Blockage as an Emergency
+
+A male goat that is straining to urinate and producing nothing is in a life-threatening emergency. Complete urinary blockage can kill a goat within 24 to 48 hours if the bladder ruptures.
+
+Watch for a goat that keeps stretching out, humping its back, and dribbling tiny amounts of urine. These are the earliest warning signs. Pressing on the lower belly may cause the goat to cry out in pain.
+
+This is not a wait-and-see situation. Call your vet immediately or drive the goat to an emergency large-animal clinic. The vet may need to perform a procedure to relieve the blockage, and every hour of delay reduces the chance of survival.
+
 ## Closing Notes
 
 Baking soda can be a useful tool for goats, but it's important to use it safely. Goats are curious creatures and will often put anything they find in their mouths, including baking soda.

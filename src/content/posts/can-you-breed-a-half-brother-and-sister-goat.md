@@ -139,6 +139,28 @@ However, inbreeding can also cause animals to inherit genes for diseases and oth
 
  it is important to be aware of the [risks before you decide to inbreed your goats](/can-a-cdt-shot-kill-a-goat/).
 
+### What Happens When Inbreeding Goes Wrong
+
+I have seen herds where accidental inbreeding led to kids born with underbites, weak legs, and immune systems that could not fight off even basic infections. These problems show up gradually, sometimes not until the second or third inbred generation.
+
+By then, the damage is done and it takes years of introducing outside genetics to clean things up. The financial cost of replacing unhealthy stock adds up quickly, not to mention the heartbreak of losing kids that never had a fair chance.
+
+### Bringing in Outside Genetics
+
+The simplest way to avoid inbreeding problems is to buy or lease a new buck every two to three years. A fresh buck from a completely unrelated line will immediately improve genetic diversity in your next kid crop.
+
+If buying a buck is not in the budget, consider using artificial insemination with semen from a proven sire in another state. AI gives you access to top genetics from anywhere in the country at a fraction of the cost of purchasing a live animal.
+
+Some breeders arrange buck swaps with nearby farms. You send your buck to their place for a season and they send theirs to you. Both herds benefit from new bloodlines without anyone spending extra money.
+
+### Recognizing Signs of Inbreeding Depression
+
+Watch for smaller-than-normal birth weights, slow growth rates, and kids that seem to get sick more often than their herdmates. These are classic signs of inbreeding depression creeping into your flock.
+
+Reproductive problems also increase with inbreeding. Does may have trouble conceiving, carry fewer kids per pregnancy, or produce less milk. Bucks may show reduced fertility and lower libido.
+
+If you start noticing these patterns, it is time to seriously evaluate your breeding program. Pull out your records, look at the family trees, and figure out where the genetic bottleneck is occurring.
+
 ### How to Track Bloodlines in Your Herd
 
 Keeping detailed records is the best way to avoid accidental inbreeding. Start a simple spreadsheet or notebook with each goat's name, date of birth, sire, and dam.

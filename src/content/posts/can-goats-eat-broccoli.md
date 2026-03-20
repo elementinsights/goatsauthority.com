@@ -157,6 +157,22 @@ Finally, be sure to introduce broccoli slowly. Goats' stomachs take time to adju
 
 With these guidelines in mind, you can feel confident feeding your baby goat broccoli.
 
+### Can Goats Eat Broccoli Stems and Leaves?
+
+The stems and leaves of broccoli are actually fine for goats in small amounts. Some goats prefer the stems over the florets because the texture gives them something to chew on for longer.
+
+Broccoli leaves contain the same nutrients as the florets but with slightly more fiber. If you grow broccoli in your garden, tossing the trimmed leaves to the goats is a great way to reduce waste.
+
+Cut stems into manageable chunks so the goats do not struggle to chew through thick pieces. A sharp knife and two minutes of prep time is all it takes.
+
+### Broccoli and Gas in Goats: What You Should Know
+
+Just like in humans, broccoli can cause gas in goats. The sulfur compounds in the vegetable produce gas during digestion, which can lead to bloating in a goat that eats too much at once.
+
+If your goat starts pacing, kicking at its belly, or looking generally uncomfortable after eating broccoli, it is likely dealing with gas buildup. Offer baking soda and keep the goat moving until the discomfort passes.
+
+Limit broccoli servings to a few florets at a time and you should not run into this problem. Small, controlled portions are the simplest way to avoid digestive issues with any cruciferous vegetable.
+
 ## To Wrap Things Up
 
 Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many [essential nutrients](/can-goats-eat-spinach/).

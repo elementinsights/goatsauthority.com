@@ -149,6 +149,32 @@ Goats should have access to water at all times, and you should provide them with
 
 Providing your goats with a [nutritious diet](/can-goats-have-horse-electrolytes/) is also important for preventing udder diseases. Goats need a balanced diet that includes plenty of hay, grass, and fresh vegetables.
 
+### How Udder Shape Affects Milking Ease
+
+Not all udders are created equal when it comes to milking. A well-attached udder sits high and tight against the body, making it easy to get a clean milk stream without bending over too far.
+
+A pendulous udder that hangs low is much harder to milk and far more prone to injury. Goats with low-hanging udders can step on their own teats or drag them through mud and manure, which invites infection.
+
+When selecting dairy does for your herd, pay close attention to udder conformation. A globular udder with teats that point straight down is ideal. Teats that splay outward make hand milking frustrating and machine milking nearly impossible.
+
+### What to Do If You Notice Udder Swelling
+
+Swelling in the udder right before kidding is completely normal. The doe is bagging up as her body prepares to produce colostrum for the newborns.
+
+Swelling that happens outside of the kidding window is a different story. Hot, hard, or lopsided swelling usually points to mastitis or some other infection. Press on the swollen area gently and check for heat compared to the other side.
+
+If the milk from the affected side looks watery, clumpy, or has a pink tinge to it, pull that doe off the milk line immediately. Start her on treatment as directed by your vet and milk that side out separately into a strip cup until the infection clears.
+
+### Udder Care During Dry Off Periods
+
+Drying off a doe means gradually stopping milking so her body stops producing milk before she kids again. This rest period is important for udder health and gives the tissue time to regenerate.
+
+Start by dropping to once-a-day milking for a week. Then skip a day between milkings. Within two to three weeks, most does will stop producing on their own.
+
+Watch for signs of engorgement during dry off. If the udder gets rock hard and the doe seems uncomfortable, milk out just enough to relieve the pressure. Do not milk her completely empty or you will signal the body to keep making milk.
+
+A teat sealant can be applied after the final milking to keep bacteria from entering the teat canal during the dry period. Ask your vet which product they recommend for your herd.
+
 ## Summary
 
 Not all goats have udders, but those that do can produce milk without them. The best way to prevent udder diseases is to keep your goat's udders clean and free from debris.

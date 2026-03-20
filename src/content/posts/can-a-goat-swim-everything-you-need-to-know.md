@@ -149,6 +149,20 @@ Stagnant water with algae blooms is another serious concern. Blue-green algae ca
 
 Fast-moving rivers and deep streams are also risky. Even a strong swimmer can get swept away by a current, especially smaller breeds like Pygmies or Nigerian Dwarfs. Stick to calm, shallow water when letting your goats take a dip.
 
+### How Deep Is Too Deep for a Goat
+
+Most goats are comfortable in water that reaches their belly or chest. Once the water gets deep enough that their feet cannot touch the bottom, some goats will panic and thrash around instead of swimming calmly.
+
+If you are introducing your goat to a pond, pick a spot where the water deepens gradually. A steep drop-off is dangerous because the goat may not realize the depth change until it is already in trouble.
+
+For smaller breeds, even 2 to 3 feet of water can be over their head. Always supervise your goats around water and make sure there is an easy way out on every side they might approach.
+
+### Drying Off a Goat After Swimming
+
+Goats do not enjoy being wet for long periods. After a swim, their thick undercoat holds moisture close to the skin, which can lead to skin irritation and fungal issues if it does not dry out.
+
+On a warm, sunny day, most goats will dry off naturally within a couple of hours. On cooler or overcast days, towel them off and keep them in a dry, sheltered area until their coat is fully dry.
+
 ## Closing Notes
 
 Goats can swim, and they often enjoy doing so. Swimming is a great way for goats to exercise and stay healthy.

@@ -136,6 +136,20 @@ Of course, if you have the time and patience, it's also possible to build your o
 
 Whichever option you choose, be sure to include an overhang at the top of the fence to help prevent goats from scaling it. With a little planning and effort, you can create a safe and effective goat-proof fence without breaking the bank.
 
+### The Boredom Factor Behind Fence Climbing
+
+Most goats that escape are bored. A goat with plenty of browse, companionship, and things to climb inside the fence has far less motivation to test the boundaries.
+
+Adding climbing structures like large rocks, wooden platforms, or old cable spools inside the pen gives your goats a safe outlet for their natural climbing instinct. A busy goat is a goat that stays put.
+
+If your goats keep targeting one particular section of fence, look at what is on the other side. There might be a tasty bush or a neighbor's garden pulling them in that direction. Remove the temptation and you remove the escape attempts.
+
+### Electric Fence as a Goat Deterrent
+
+A single strand of electric wire along the top and middle of your existing fence can stop even the most persistent climbers. Goats learn fast after one or two zaps, and most will stay well clear of the fence after that.
+
+Solar-powered electric fence chargers work great for remote pastures where running power is not practical. They cost between $50 and $150 and are easy to install yourself.
+
 ## Summary
 
 Overall, goats are very curious animals and they will often test fences to see if they can escape. While there's no guaranteed way to keep them contained, using multiple methods can help to deter them.

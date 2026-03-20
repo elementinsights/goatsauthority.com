@@ -142,6 +142,28 @@ As a result, using goats to clear land may require close supervision to ensure t
 
 Finally, goats reproduce quickly and can quickly become a nuisance if their population is not kept in check. For these reasons, you need to consider all of the potential drawbacks before using goats for land clearing
 
+### Rotational Grazing to Reduce Slope Damage
+
+Rotational grazing is one of the best tools you have for managing goats on sloped land. Instead of giving the herd free access to the entire hillside, divide it into smaller paddocks and rotate them every few days.
+
+This approach gives the vegetation in each paddock time to recover before the goats return. Roots stay intact, soil stays anchored, and the overall health of the hillside improves over time.
+
+A good rule of thumb is to move goats to a new paddock before they have eaten the vegetation down below 3 to 4 inches. If you can still see plenty of green stubble, the roots are healthy enough to hold the soil.
+
+### Planting Deep-Rooted Species on Goat-Grazed Slopes
+
+If your goats have already caused some erosion damage, planting deep-rooted grasses and shrubs can help stabilize the slope. Native bunch grasses and vetiver grass are both excellent choices because their root systems grow several feet deep and create a dense underground mat.
+
+Shrub willows are another option that works well on slopes. They establish quickly, grow back after being browsed, and their root networks are phenomenal for holding soil in place.
+
+Keep goats off newly planted areas for at least one growing season so the plants can get established. Use temporary electric fencing to block access until the root systems are strong enough to handle grazing pressure.
+
+### How Stocking Density Affects Slope Erosion
+
+The number of goats per acre matters a lot on sloped land. Too many goats in a small area will strip the ground bare and compact the soil with their hooves, creating a perfect recipe for erosion during the next rainstorm.
+
+For steep slopes, keep stocking rates low and adjust based on what you see. If bare patches start appearing, you have too many animals on too little land.
+
 ## Key Takeaways
 
 Overall, goats can be an effective tool for slope stabilization. Their ability to eat vegetation helps to keep the ground in place and their hooves compact the soil, making it less likely to erode.

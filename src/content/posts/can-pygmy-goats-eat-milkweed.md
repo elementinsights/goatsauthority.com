@@ -139,6 +139,22 @@ If you are introducing milkweed for the first time, start with just a few leaves
 
 Dried milkweed is generally safer than fresh because the drying process reduces saponin levels. If you want to stock up for winter feeding, you can harvest milkweed in the summer and dry it in bundles just like you would dry herbs.
 
+### Milkweed Varieties That Are Safer for Pygmy Goats
+
+Not all milkweed species carry the same level of risk. Common milkweed (Asclepias syriaca) is the variety most pygmy goats encounter, and it tends to have lower toxin levels than tropical milkweed or whorled milkweed.
+
+Butterfly weed (Asclepias tuberosa) is another relatively mild option. It has lower sap volume and pygmy goats seem to tolerate small nibbles without any digestive upset.
+
+Swamp milkweed (Asclepias incarnata) falls somewhere in the middle. If your pasture has a mix of species, learning to tell them apart by leaf shape and flower color helps you manage which areas your goats graze.
+
+### What to Do If Your Pygmy Goat Eats Too Much Milkweed
+
+Pull the goat away from the milkweed source immediately and offer fresh water. Activated charcoal is a go-to remedy that many goat keepers keep on hand for plant poisoning situations.
+
+Monitor the goat for vomiting, excessive drooling, or a rapid heart rate. These are signs of cardiac glycoside toxicity, which milkweed can cause in large doses.
+
+Contact your vet right away if symptoms appear. Time matters with milkweed poisoning, and early intervention can make the difference between a quick recovery and a serious outcome.
+
 ## Final Thoughts
 
 Overall, milkweed is an extremely versatile plant with a variety of uses. Whether you're looking for an animal feed ingredient, a traditional herbal remedy, or simply want to try out some new goat recipes, milkweed is sure to fit the bill.

@@ -128,6 +128,30 @@ Boost her grain ration by about half a pound per day and make sure she has free 
 
 Avoid making sudden feed changes right before breeding. Gradual adjustments over a week or two will keep her rumen happy and her body in prime condition for conception.
 
+### Advantages of Breeding an Older Doe vs. a Young Doe
+
+A 4-year-old doe has several advantages over a first-time yearling when it comes to breeding. Her skeletal frame is fully developed, which means she has a wider birth canal and is less likely to have trouble during delivery.
+
+She also has more body reserves to draw from during pregnancy and lactation. A younger doe is still growing herself, and the demands of pregnancy compete with her own development for nutrients and energy.
+
+Older does tend to be better mothers. They have had more time to mature mentally and are calmer during labor. First-time mothers sometimes reject or accidentally step on their newborn kids out of confusion, but experienced does rarely make those mistakes.
+
+### How to Evaluate Body Condition Before Breeding
+
+Before you put your 4-year-old doe with a buck, run your hands over her body to check her condition score. Feel along the spine, ribs, and hips. You should be able to feel the ribs with light pressure but not see them.
+
+A doe that is too thin will struggle to maintain a pregnancy because she does not have enough fat reserves to support herself and her growing kids. A doe that is too fat may have difficulty conceiving and is at higher risk for pregnancy toxemia.
+
+The ideal body condition score for breeding is 3 to 3.5 on a 5-point scale. If she is outside that range, adjust her feed for 4 to 6 weeks before introducing the buck.
+
+### Kidding Preparation for an Older First-Time Mother
+
+If your 4-year-old doe has never been bred before, her first kidding deserves extra attention. Set up a clean, dry kidding stall with fresh straw bedding at least two weeks before her due date.
+
+Stock your kidding kit with iodine for dipping navels, clean towels, dental floss or clamps for tying off umbilical cords, a bulb syringe for clearing airways, and a bottle with nipple in case the doe rejects a kid.
+
+Check on her every few hours as her due date approaches. Watch for signs of labor like restlessness, pawing at the ground, talking to her belly, and a swollen vulva with clear discharge. Most does deliver without help, but being there in case of trouble gives you the best chance at a healthy outcome.
+
 ## Wrapping Up
 
 Breeding goats can be a fun and rewarding experience, but it's important to be aware of the risks. Make sure that your does are healthy and of breeding age, choose a compatible buck, and closely observe the does during the mating process.

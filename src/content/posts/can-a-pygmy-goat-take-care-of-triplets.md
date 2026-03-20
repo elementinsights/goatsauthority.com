@@ -123,6 +123,34 @@ Use a high-quality goat milk replacer mixed according to the package directions.
 
 Keep the bottle-fed kid with its siblings as much as possible. You want it to bond with the herd and learn goat social skills, even though it is getting supplemental feedings from you.
 
+### How to Tell Which Kid Is Not Getting Enough Milk
+
+Weigh each kid daily for the first two weeks. A bathroom scale works fine for pygmy kids. Pick up the kid, step on the scale, then subtract your own weight. Any kid that is not gaining at least 2 to 4 ounces per day needs supplemental feeding.
+
+Watch the kids after nursing sessions. A satisfied kid will stretch out and nap with a round belly. A hungry kid will keep butting the udder, crying, or wandering around looking lost and restless.
+
+The smallest kid in a set of triplets is usually the one that falls behind first. Bigger siblings push it off the teat before it finishes drinking. Keep a close eye on the runt and be ready to step in with a bottle.
+
+### Boosting a Pygmy Doe's Milk Supply for Triplets
+
+Feed the doe high-quality alfalfa hay during lactation. Alfalfa is higher in calcium and protein than grass hay, and both of those nutrients drive milk production.
+
+Adding a small amount of grain formulated for lactating does can also help. Stick to about half a cup twice a day for a pygmy doe and adjust based on her body condition. You do not want her getting fat, but you also do not want her burning through all her reserves feeding three kids.
+
+Fresh water should be available at all times. A doe nursing triplets drinks a surprising amount of water. Dehydration will tank her milk supply faster than anything else.
+
+Black oil sunflower seeds mixed into her grain ration add healthy fats that support richer milk. A tablespoon per feeding is enough for a pygmy doe.
+
+### When to Start Creep Feeding Triplets
+
+Set up a creep feeder by the time the kids are about a week old. A creep feeder is a small enclosed feeding area that the kids can access but the doe cannot.
+
+Put a handful of kid-formulated grain and some fine leafy hay inside the creep area. The kids will start nibbling within a few days, and each bite of solid food takes pressure off the doe's milk supply.
+
+By three weeks old, the kids should be eating a noticeable amount of solid food. This early start gives their rumens time to develop properly and makes the weaning process much smoother when the time comes.
+
+Creep feeding is especially important for triplets because the doe simply cannot produce enough milk to keep all three growing at the same rate. The extra nutrition from solid food bridges the gap.
+
 ## Closing Notes
 
 A pygmy goat can make a great wet nurse for triplets, but there are a few things you need to keep in mind.

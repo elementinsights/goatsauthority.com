@@ -143,6 +143,22 @@ People can become infected with the disease if they eat contaminated food or [dr
 
 In severe cases, the disease can lead to dehydration and even death. If you think you may have consumed contaminated meat or milk, please seek medical attention immediately.
 
+### Cleaning Up After Goat Contact at Petting Zoos
+
+Petting zoos are one of the most common places where people pick up goat-related infections. Most petting zoos provide hand washing stations, but not everyone uses them properly.
+
+You should scrub your hands with soap and warm water for at least 20 seconds after touching any goat. Hand sanitizer alone is not enough because it does not kill Cryptosporidium.
+
+If you have young children, wash their hands for them. Kids under five tend to put their fingers in their mouths right after touching animals, and that is exactly how the bacteria get in.
+
+### How Long Symptoms Usually Last
+
+Most cases of goat-related diarrhea clear up on their own within five to seven days. The first two days are usually the worst, with frequent watery stools and cramping.
+
+During recovery, stick to bland foods like toast, rice, and bananas. Avoid dairy products until your stomach settles down completely.
+
+If symptoms stretch past ten days or you notice blood in your stool, get to a doctor right away. That is a sign the infection may need antibiotic treatment.
+
 ### Who Is Most at Risk?
 
 Not everyone faces the same level of risk when handling goats. Young children under five, elderly adults, pregnant women, and anyone with a weakened immune system are the most vulnerable groups.

@@ -128,6 +128,30 @@ Just be sure to limit the number of dried peppers you give your goat, as too muc
 
 These supplements are designed to provide goats with the nutrients they need, and they can be mixed into their food or water. Bell pepper supplements are a convenient way to add bell peppers to your goat's diet, and they can help ensure that your goat gets all the nutrients they need.
 
+### Growing Bell Peppers Specifically for Your Goats
+
+If you have a garden, setting aside a few bell pepper plants for your goats is a cost-effective way to supplement their diet. Bell peppers are easy to grow in most climates and produce a steady harvest from midsummer through early fall.
+
+Choose sweet varieties like California Wonder or Big Bertha. These produce large, thick-walled fruits that goats enjoy. Avoid hot pepper varieties since capsaicin can irritate a goat's mouth and digestive tract.
+
+Plant in well-drained soil with full sun and water consistently. A single healthy bell pepper plant can produce six to eight peppers per season, which gives you plenty of treats for your herd without spending money at the grocery store.
+
+### Which Color Bell Pepper Is Best for Goats?
+
+Green bell peppers are the least ripe and have the highest solanine content. Red, yellow, and orange peppers are fully ripe and have lower solanine levels plus more vitamins.
+
+If you are choosing between colors, go with red peppers for your goats. Red bells have nearly twice the vitamin C of green bells and contain more beta-carotene, which supports eye health and immune function.
+
+Most goats prefer the sweeter taste of ripe peppers anyway. A green pepper can have a slightly bitter edge that some goats will reject.
+
+### Combining Bell Peppers With Other Safe Vegetables
+
+Create a mixed veggie bucket by combining diced bell peppers with carrots, celery, and cucumber slices. This variety keeps feeding time interesting and ensures your goats get a broader range of vitamins and minerals.
+
+Toss in a few pieces of squash or zucchini during the summer months when gardens produce more than families can eat. Goats are happy to take the surplus off your hands.
+
+Keep each goat's total vegetable intake to no more than a cup per day. The bulk of their diet should still come from hay, browse, and a balanced grain ration.
+
 ## Closing Notes
 
 Overall, goats can safely eat bell peppers. Bell peppers are a good source of vitamins and minerals, and they can help boost the immune system.

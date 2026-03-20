@@ -126,6 +126,30 @@ Finally, when adding the pine chips to your goat pen or stall, layer them betwee
 
 With these tips in mind, you can successfully use pine chips for goat bedding and keep your animals safe and healthy.
 
+### Pine Chips vs. Straw Bedding Cost Comparison
+
+Straw typically costs less per bale than a bag of pine chips, but it does not last as long. A bale of straw compresses down quickly under goat hooves and needs replacing more often.
+
+Pine chips hold their structure better because the wood pieces do not flatten the way straw stems do. Over a full season, the total cost of pine chips versus straw often comes out about even.
+
+Where pine chips save you real money is in labor. You spend less time mucking out pine chip bedding because it absorbs moisture and stays fluffy longer between cleanouts.
+
+### Avoiding Cedar Chips for Goat Bedding
+
+Cedar chips smell amazing to humans, but they are not safe for goats. The aromatic oils in cedar can irritate a goat's respiratory system, especially in enclosed barns with limited ventilation.
+
+These oils can also cause skin irritation in goats with sensitive skin. Prolonged exposure has been linked to liver problems in small animals, and the risk applies to goats as well.
+
+Stick with pine chips or kiln-dried pine shavings. They offer similar odor control benefits without the health risks that come with cedar.
+
+### Sourcing Bulk Pine Chips Locally
+
+If you run a larger operation, buying pine chips in bulk saves a significant amount of money compared to buying individual bags at the farm store. Many sawmills and lumber yards sell pine chips by the truckload for a fraction of the bagged price.
+
+Check with local tree service companies too. They often chip pine trees as part of their work and are happy to dump a load at your farm for free or a small delivery fee.
+
+Just make sure any bulk pine chips you receive are from untreated wood. Chips from painted, stained, or pressure-treated lumber contain chemicals that are toxic to goats.
+
 ### How Often to Replace Pine Chip Bedding
 
 Plan on doing a full bedding cleanout every two to three weeks in a typical goat pen. Between full cleanouts, remove any visibly soiled or wet areas daily and add a fresh layer of chips on top.

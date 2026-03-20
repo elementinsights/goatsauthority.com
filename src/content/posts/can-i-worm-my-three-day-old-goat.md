@@ -134,6 +134,30 @@ Depending on the type of worm problem that you are dealing with, there may also 
 
 In general, by taking these proactive measures, you can help minimize your goat's chances of getting worms and ensure that they stay healthy and happy for years to come.
 
+### The FAMACHA Scoring System
+
+FAMACHA is a simple tool that helps you decide which goats need worming without running a fecal test every time. You pull down the lower eyelid and compare the color of the inner membrane to a color chart.
+
+Deep red means the goat is healthy and does not need deworming. Pale pink or white means the goat has a significant parasite load and needs treatment right away.
+
+This method works best for detecting barber pole worm, which is the most common and dangerous internal parasite in goats. It takes about 10 seconds per goat and can save you money on unnecessary dewormer treatments.
+
+### Building a Worming Schedule for Your Herd
+
+Rather than worming every goat on a fixed calendar, smart parasite management uses targeted treatment. Only worm the goats that actually need it based on FAMACHA scores or fecal egg counts.
+
+Treating only the goats that show signs of heavy parasite loads helps slow the development of dewormer resistance. It also leaves a population of "refugia" parasites in the pasture that have not been exposed to the drug, which dilutes resistant genes.
+
+Keep a simple spreadsheet or notebook tracking which goats you wormed, what product you used, and the date. This record will help you spot patterns and adjust your management plan over time.
+
+### Natural Parasite Prevention Strategies
+
+Pasture rotation is one of the most effective tools for reducing parasite exposure in goats. Moving your herd to a fresh pasture every two to three weeks breaks the worm life cycle by separating goats from the larvae developing in their old droppings.
+
+Keeping pastures mowed short helps too. Parasite larvae climb grass blades to get eaten by grazing animals, so short grass reduces their chances of making it into your goats.
+
+Some goat owners also feed garlic, pumpkin seeds, or diatomaceous earth as natural dewormers. The scientific evidence for these remedies is mixed, but many experienced farmers report good results when combined with proper pasture management.
+
 ## Quick Recap
 
 You can worm your goat by following the steps in this article. You should also know when to worm your goat and how often to do so.

@@ -134,6 +134,30 @@ This is because crossbreeds are often more resistant to disease and pests, and t
 
 With proper care, the offspring of a Nigerian buck goat and a female boer goat can expect to live between 10 and 12 years.
 
+### What to Expect During Kidding Season
+
+When a Boer doe bred to a Nigerian buck goes into labor, the kids are typically smaller than purebred Boer kids. This actually makes for an easier delivery in most cases.
+
+The doe usually handles the birth well because the smaller kid size reduces the chance of dystocia. You should still be present during kidding and have your vet's number handy, but complications are less common with this cross.
+
+Expect kids that weigh between 4 and 7 pounds at birth. They tend to be vigorous and quick to stand and nurse, which is a trait they pick up from the hardy Nigerian Dwarf side.
+
+### Feeding and Managing Crossbred Kids
+
+Nigerian-Boer crossbred kids grow at a moderate pace that falls between the fast growth of purebred Boers and the smaller frame of purebred Nigerian Dwarfs. Adjust their feed plan accordingly.
+
+Start kids on their mother's milk for the first 8 to 12 weeks. After weaning, transition them to high-quality hay with a small amount of grain supplementation. A 16% protein grower pellet works well for crossbred kids.
+
+Watch their body condition closely during the first six months. Overfeeding grain can cause rapid weight gain that puts stress on joints, while underfeeding can stunt their growth potential.
+
+### Registering Crossbred Offspring
+
+Crossbred Nigerian-Boer kids cannot be registered as purebred with either the Nigerian Dwarf Goat Association or the American Boer Goat Association. They are considered experimental crosses.
+
+Some goat registries like the International Dairy Goat Registry do offer recording services for crossbred goats. This can be useful if you want to track lineage for your own breeding program.
+
+If your goal is eventually producing registered purebreds, you will need to breed the crossbred offspring back to a purebred animal for several generations. Most registries require at least three generations of breeding back before granting full registration.
+
 ### Size Considerations During Breeding
 
 The biggest practical challenge with this cross is the size difference. Nigerian Dwarf bucks typically weigh 28 to 40 pounds, while a Boer doe can weigh 200 pounds or more. The buck may need a slight elevation or ramp to successfully mount the doe.

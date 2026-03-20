@@ -116,6 +116,24 @@ If you are not using your water kefir grains every day, you can store them in th
 
 Change out the sugar water once a week to keep the grains healthy. When you are ready to use them again, let them sit at room temperature for a day to reactivate before starting a new batch.
 
+### Troubleshooting Common Issues With Kefir Cheese
+
+If your kefir cheese turns out too runny, you likely did not drain it long enough. Hang the cultured mixture in a cheesecloth over a bowl for at least 12 hours. For a thicker, cream-cheese consistency, let it drain for a full 24 hours in the fridge.
+
+A sour or off-putting smell usually means the fermentation went too long or the temperature was too warm. Aim for a fermentation temperature between 68 and 78 degrees. Anything above 80 degrees can produce off flavors that are hard to mask even with seasoning.
+
+Graininess in the finished cheese means the curds were not blended smoothly enough. Run the drained cheese through a food processor or press it through a fine mesh strainer to get a smoother texture.
+
+### Adding Flavor to Your Water Kefir Goat Cheese
+
+Plain kefir goat cheese has a mild tang that pairs well with herbs and spices. Mix in finely chopped chives, garlic, and a pinch of salt for a savory spread that goes great on crackers.
+
+For a sweeter option, fold in a drizzle of honey and some crushed walnuts. This version works well as a dessert cheese or a topping for fruit and toast.
+
+Sun-dried tomatoes and basil blended into the cheese create an Italian-inspired spread. Add a splash of olive oil for richness and let it chill for a few hours so the flavors meld together.
+
+Experiment with different combinations based on what you have on hand. The mild base flavor of goat cheese kefir accepts almost any seasoning you throw at it.
+
 ## Summary
 
 You can use water kefir grains to create a delicious and healthy recipe. These tiny, translucent blobs of beneficial bacteria not only impart a slightly tangy flavor to foods but also promote good gut health.

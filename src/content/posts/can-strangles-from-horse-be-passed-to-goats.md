@@ -127,6 +127,30 @@ For example, you can quarantine any animals that are showing [signs of illness](
 
 By taking these simple precautions, horse owners and [goat herders](/can-goats-be-outside-in-winter/) can help protect their animals from strangles and keep them healthy for many years to come.
 
+### Quarantine Procedures When a Horse Shows Strangles Symptoms
+
+The moment you notice nasal discharge or swollen glands on a horse, pull it out of any shared area with goats immediately. Move the horse to an isolated stall or paddock that has its own water and feed supply.
+
+Keep the quarantine in place for at least three weeks after the horse's symptoms resolve. Strangles bacteria can shed from a recovered horse for several weeks, and one premature release can spark a new round of infections.
+
+Wear dedicated boots and clothing when entering the quarantine area. Change out of them before going near your goats. The bacteria ride on clothing, shoes, and hands just as easily as they spread through direct contact.
+
+### Shared Equipment That Poses the Highest Risk
+
+Water troughs are the single biggest risk factor for cross-species strangles transmission on a mixed farm. Nasal discharge from a sick horse lands in the water, and any goat drinking from the same trough is exposed.
+
+Halters, lead ropes, and grooming tools are next on the list. Never use the same brush or halter on a horse and a goat without disinfecting it first. A diluted chlorhexidine solution works well for quick equipment cleaning.
+
+Feed buckets, hay racks, and even fence rails can harbor the bacteria for days. Streptococcus equi survives on surfaces longer than most people realize, especially in cool and damp conditions. Wipe down any shared surfaces with disinfectant during an outbreak.
+
+### Building Separate Handling Areas for Horses and Goats
+
+If you keep both species long-term, investing in separate handling areas saves you headaches down the road. Separate water lines, feed storage, and grooming stations eliminate most of the cross-contamination risk.
+
+A physical barrier like a solid fence panel between the horse and goat areas prevents nose-to-nose contact. Mesh or wire fencing still allows nasal discharge to spray through the gaps.
+
+This setup does not have to be expensive. A few extra panels and a separate water hydrant can be installed over a weekend and will protect your herd for years.
+
 ## To Wrap Things Up
 
 Overall, strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.

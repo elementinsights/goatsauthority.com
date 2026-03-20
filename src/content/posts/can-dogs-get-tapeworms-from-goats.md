@@ -143,6 +143,22 @@ Roundworms are common parasites that live in the intestines of dogs. They can be
 
 While some parasites are more harmful than others, it's important to be aware of the risks they can pose to both dogs and humans. Taking some simple steps to prevent parasites, such as using flea and tick control products and keeping your dog's environment clean, can help reduce the risk of infection.
 
+### Keeping Dogs and Goats on the Same Property Safely
+
+If you run a farm with both dogs and goats, set up separate feeding areas. Dogs that eat goat feed or scavenge around the goat pen are far more likely to pick up parasites.
+
+Pick up goat manure regularly from shared spaces. Tapeworm eggs can survive in manure for weeks, and a dog that sniffs or eats droppings is putting itself at risk. A clean pasture is your best defense.
+
+Keep your dog on a regular deworming schedule recommended by your vet. Most vets suggest deworming farm dogs every three months rather than the twice-yearly schedule used for house pets.
+
+### How to Spot Tapeworm Segments in Your Dog's Stool
+
+Check your dog's stool every time you clean the yard. Tapeworm segments look like small grains of white rice and are often found clinging to the fur around the dog's rear end.
+
+Fresh segments may still be moving when you first spot them. Once they dry out, they turn yellow and become harder to see. If you notice your dog scooting its rear on the ground more than usual, that is another common sign of a tapeworm infection.
+
+Collect a stool sample in a sealed plastic bag and bring it to your vet. A fecal test takes less than a day and confirms whether treatment is needed.
+
 ## To Wrap Things Up
 
 Overall, while there are some [risks associated with allowing dogs and goats](/can-dogs-drink-goat-milk-everyday/) to interact, these can be easily mitigated with some simple precautions.

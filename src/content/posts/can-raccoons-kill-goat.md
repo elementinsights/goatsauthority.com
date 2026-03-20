@@ -132,6 +132,22 @@ These animals are often larger and more [aggressive than goats](/can-an-aggressi
 
 Additionally, they can provide an early warning system against potential threats, as they will often [make noise](/can-goats-actually-scream/) or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
 
+### Using Guard Dogs to Protect Against Raccoons
+
+A well-trained livestock guardian dog is one of the most effective defenses against raccoons. Breeds like Great Pyrenees, Anatolian Shepherds, and Maremmas have strong protective instincts and will patrol your property at night when raccoons are most active.
+
+A guardian dog does not need to catch every raccoon. Their scent alone is often enough to keep raccoons from entering the area. Raccoons are cautious animals and will avoid territories where large dogs are present.
+
+If you decide to get a guardian dog, introduce it to your goats as a puppy. A dog raised alongside goats from a young age will bond with the herd and treat them as family rather than prey.
+
+### What Time of Year Raccoon Attacks Increase
+
+Raccoon attacks on goats spike during spring and early summer. This is when mother raccoons are feeding their kits and are desperate for easy protein sources.
+
+Late fall is another high-risk period. Raccoons bulk up before winter and become bolder about approaching barns and pens to scavenge food.
+
+During these peak seasons, double-check your barn security and consider running a motion-activated trail camera near your goat pen. Knowing when raccoons are visiting helps you target your prevention efforts.
+
 ### Raccoon-Proofing Your Goat Barn at Night
 
 Raccoons are nocturnal and do most of their damage after dark. A few simple upgrades to your barn can make a big difference.

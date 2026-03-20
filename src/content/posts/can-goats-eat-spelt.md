@@ -139,6 +139,20 @@ However, spelt fell out of favour when wheat became more widely available. Today
 
 It is often used in pieces of bread, kinds of pasta, and cereals. Spelt can also be cooked and eaten like rice.
 
+### Sprouting Spelt for Extra Nutrition
+
+If you want to get even more nutritional value out of spelt, try sprouting it before feeding. Soak the grains in water for about 12 hours, then drain and spread them on a tray in a warm spot.
+
+Within two to three days, you will see small green shoots emerging. Sprouted spelt is easier for goats to digest and contains higher levels of vitamins compared to dry grain.
+
+Goats tend to find sprouted grain more palatable too. It makes a great treat during the winter months when fresh pasture is not available.
+
+### Mixing Spelt with Other Grains
+
+Spelt works best as part of a balanced grain mix rather than as the sole grain source. A good ratio is about 25% spelt combined with oats, barley, and a small amount of corn.
+
+This blend gives your goats a wider range of amino acids and keeps the overall carbohydrate load manageable. Adjust the proportions based on your goats' condition and activity level.
+
 ## The Bottom Line
 
 Goats can eat spelt. Spelt is a type of grain that is high in nutrients and can be a good addition to a goat's diet.

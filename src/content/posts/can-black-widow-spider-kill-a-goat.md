@@ -135,6 +135,30 @@ To reduce the black widow population around your goats, keep the barn tidy and w
 
 Some farmers keep chickens or guinea fowl near the barn because these birds eat spiders as a snack. It is a natural form of pest control that works surprisingly well.
 
+### First Aid Kit for Spider Bites on Goats
+
+Every goat farmer should keep a basic first aid kit in the barn that includes supplies for dealing with spider bites. Stock it with clean gauze pads, antiseptic wash, anti-inflammatory medication approved for goats, and a digital thermometer.
+
+You will also want to have your vet's emergency phone number posted on the wall where anyone on the farm can find it quickly. In a bite situation, time matters, and fumbling around for contact info wastes precious minutes.
+
+Ice packs can help reduce swelling at the bite site while you wait for the vet to arrive. Wrap the ice pack in a towel so it does not sit directly on the goat's skin, and apply it for 10 to 15 minutes at a time.
+
+### How to Identify a Black Widow Bite on Your Goat
+
+Spotting a spider bite on a goat is tricky because their hair covers most of their body. Check the legs, belly, and udder area first, since these are the spots most likely to come into contact with a spider hiding at ground level.
+
+A black widow bite will usually show up as two small puncture marks surrounded by redness and swelling. The goat may flinch or pull away when you touch the area.
+
+Within a few hours, you might notice muscle tremors near the bite site. The goat may also become unusually restless or start grinding its teeth, which is a common sign of pain in goats.
+
+### Seasonal Risks and When Black Widows Are Most Active
+
+Black widows are most active during warm months, typically from late spring through early fall. This is the time of year when you should be most vigilant about checking your barn and pasture areas for webs.
+
+During winter, black widows become less active but do not disappear entirely. They tend to move deeper into sheltered spaces like hay stacks and equipment sheds where it is warmer.
+
+Spring cleaning of your barn is one of the best times to do a thorough sweep for spider nests. Clear out old bedding, move stored equipment, and check every dark corner before your goats spend more time inside during kidding season.
+
 ## The Bottom Line
 
 Black widow spiders can kill a goat. Their venom is very potent and can cause serious reactions, including tissue damage, paralysis, and even death.

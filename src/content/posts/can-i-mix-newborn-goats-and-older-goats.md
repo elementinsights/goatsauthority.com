@@ -138,6 +138,30 @@ Keep the newborns in the transition pen for at least three to five days. This gi
 
 Make sure the transition pen has its own water bucket and hay feeder. Older goats can be pushy around food, and you do not want the babies going hungry during this adjustment period.
 
+### Feeding Stations That Prevent Older Goats From Stealing Kid Food
+
+Creep feeders are your best friend when mixing age groups. Build a small enclosed area with openings just wide enough for the kids to squeeze through but too narrow for the adults.
+
+Place kid-specific grain and fine leafy hay inside the creep area. This guarantees the little ones get their nutrition without competing against goats three times their size.
+
+You can build a simple creep feeder from cattle panels and zip ties in less than an hour. Make multiple entry points so a kid never gets trapped inside with nowhere to go if an adult sticks its head through.
+
+### Bedding and Shelter Considerations for Mixed-Age Herds
+
+Newborn kids chill faster than adult goats because of their small body mass. If you are housing them together, make sure there is a draft-free corner with deep bedding where the kids can burrow in and stay warm.
+
+Straw is better than wood shavings for newborns because they can nestle into it. Wood shavings pack down flat and do not provide the same insulation.
+
+Heat lamps are an option in extremely cold weather, but hang them securely and well out of reach. A knocked-over heat lamp in a straw-filled barn is a fire waiting to happen. Radiant heat panels mounted to the wall are a safer alternative.
+
+### How to Spot Bullying in a Mixed-Age Herd
+
+Older goats establish a pecking order, and newborns are always at the bottom. A little head butting from an adult is normal social behavior, but watch for patterns that cross the line into bullying.
+
+If a kid is being chased away from food repeatedly, hiding in corners, or refusing to leave the shelter while the rest of the herd is outside, it is being bullied. Left unchecked, the stress can stunt its growth and weaken its immune system.
+
+Separate the bully, not the victim. Pulling the aggressive goat out for a few days resets the dynamic. When you reintroduce it to the group, the established relationships will have shifted enough to reduce the aggression.
+
 ## Final Thoughts
 
 You can mix different age groups of goats together to provide them with socialization and to [improve the quality of their milk](/can-goats-milk-be-frozen/), meat, and wool.

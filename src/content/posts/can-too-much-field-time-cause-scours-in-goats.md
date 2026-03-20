@@ -146,6 +146,24 @@ Scours is a common problem in goats, but it can be treated with the right medica
 
 By taking these simple precautions, you can help prevent scours in goats and keep your herd healthy and happy.
 
+### How Pasture Rotation Reduces Scour Risk
+
+Rotating your goats between different pasture sections is one of the most effective ways to cut down on scours caused by parasites. Worm larvae thrive in the first few inches of grass closest to the ground, and goats that graze the same patch repeatedly ingest more larvae with every bite.
+
+Move your goats to a fresh section every three to four days if possible. Let the previous section rest for at least three weeks before grazing it again. The sun and dry conditions during that rest period kill off a significant number of larvae on the grass.
+
+Even if you only have a small property, splitting it into two or three paddocks with temporary electric netting makes a huge difference. The investment in portable fencing pays for itself in reduced vet bills and healthier goats.
+
+### Recognizing the Difference Between Stress Scours and Infectious Scours
+
+Not all scours are caused by pathogens. Moving goats to a new location, introducing new herd members, or changing their feed can trigger stress-related diarrhea that clears up on its own within a day or two.
+
+Stress scours usually produce soft but still somewhat formed droppings. The goat stays alert, eats normally, and does not run a fever.
+
+Infectious scours from bacteria, viruses, or parasites look different. The droppings are watery, sometimes foul-smelling, and may contain blood or mucus. The goat will also show other symptoms like lethargy, loss of appetite, or a fever above 103 degrees.
+
+If you are not sure which type you are dealing with, collect a fecal sample and bring it to your vet. A simple fecal float test can tell you whether parasites are the problem.
+
 ## What to Remember
 
 Overall, scours are a common problem in goats but it can be prevented with some simple steps. Make sure to provide your goats with fresh, clean water and a balanced diet.

@@ -130,6 +130,30 @@ In addition, their meat is just as tasty as the meat from larger breeds. They're
 
 With proper care, they can live for 10-12 years.
 
+### Meat Yield Expectations for Nigerian Dwarfs
+
+A full-grown Nigerian Dwarf goat dressed out gives you roughly 25 to 35 pounds of meat. That is significantly less than a Boer goat, which can yield 60 to 80 pounds.
+
+The smaller yield per animal means you need to raise more Nigerian Dwarfs to produce the same amount of meat. For a family of four, plan on processing two to three Nigerian Dwarfs per year to keep your freezer stocked.
+
+The upside is that each animal costs less to feed and house. When you do the math on feed-to-meat conversion, Nigerian Dwarfs can actually be competitive with larger breeds for small-scale operations.
+
+### Flavor Profile and Cooking Tips
+
+Nigerian Dwarf goat meat is leaner and more tender than meat from larger breeds. Many people say it has a milder, less gamey flavor that makes it a good gateway for anyone new to eating goat.
+
+Low and slow cooking methods work best. Braising, stewing, and slow roasting bring out the natural richness of the meat without drying it out. Aim for an internal temperature of 160 degrees for stews and 145 degrees for roasts.
+
+Marinating the meat overnight in yogurt or citrus juice helps break down the fibers and adds another layer of flavor. Pair it with bold spices like cumin, paprika, and garlic for a meal that rivals any restaurant dish.
+
+### Dual-Purpose Advantage of Nigerian Dwarfs
+
+One of the best reasons to choose Nigerian Dwarfs for a small homestead is their dual-purpose nature. You get both milk and meat from the same breed, which maximizes your return on investment.
+
+A healthy Nigerian Dwarf doe can produce one to two quarts of rich, sweet milk per day during her lactation period. That milk is prized for cheese making because of its high butterfat content.
+
+When you retire a doe from milking or have excess bucklings each spring, those animals can be raised for the freezer. This cycle of milk production and meat harvest makes Nigerian Dwarfs one of the most efficient breeds for small farms.
+
 ## Our Take
 
 Overall, Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.

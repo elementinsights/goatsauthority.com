@@ -127,6 +127,22 @@ These greens are [packed with nutrients that can help keep your goats healthy an
 
 When it comes to the health and well-being of your goats, you want to be sure that you are doing everything you can to keep them happy and healthy.
 
+### How Quickly Will You See Results?
+
+Most goat owners report seeing visible improvements within two to three weeks of starting Omegablume supplementation. Coat quality is usually the first thing that changes. The hair becomes shinier and feels softer to the touch.
+
+After about a month, you may notice improved hoof quality and less cracking or chipping. The omega-3 fatty acids take time to build up in the system, so patience is important during the first few weeks.
+
+If you are using Omegablume to support joint health in older goats, expect to wait four to six weeks before seeing noticeable changes in mobility. Stick with the recommended dosage and give it time to work.
+
+### Dosage Adjustments for Different Goat Sizes
+
+Standard-sized dairy goats like Alpines and Saanens typically do well on the full recommended dose printed on the label. Smaller breeds like Nigerian Dwarfs and Pygmies should get about half that amount.
+
+For growing kids, start with a quarter of the adult dose and increase gradually as they get bigger. Their smaller body mass means they do not need as much to get the full benefit of the supplement.
+
+Always weigh your goats before calculating dosages. Guessing at body weight often leads to under-dosing or over-dosing, neither of which gives you the results you are looking for.
+
 ## Our Take
 
 You can give your goats Omegablume to help ensure that they are getting all the nutrients they need to stay healthy and strong.

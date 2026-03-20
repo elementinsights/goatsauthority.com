@@ -134,6 +134,32 @@ Testing each side separately is important because mastitis often affects just on
 
 Make it a habit to run a CMT test at least once a week on each milking doe, especially during hot and humid weather when bacterial infections spike.
 
+### Treating Mastitis With Intramammary Infusions
+
+Intramammary antibiotic tubes are one of the most common treatments your vet will recommend for clinical mastitis. These tubes are inserted directly into the teat canal, delivering medication straight to the infected tissue.
+
+Milk out the affected half completely before inserting the tube. This removes as much bacteria as possible before the antibiotic goes to work. Clean the teat end with an alcohol swab first to avoid pushing more bacteria into the udder.
+
+Most treatment protocols call for one tube per affected half, administered once or twice daily for three to five days. Always complete the full course even if the milk looks normal again after day two.
+
+### Subclinical Mastitis and Why You Might Miss It
+
+Subclinical mastitis is the sneaky version of the disease. The milk looks perfectly normal to the naked eye, but the somatic cell count is elevated and the udder is quietly losing productive tissue.
+
+You will not catch subclinical mastitis without testing. Regular CMT checks or sending samples to a lab for somatic cell counts is the only way to stay ahead of it.
+
+A doe with subclinical mastitis will gradually produce less milk over the course of a lactation. Many owners blame the drop on poor feed or aging when the real culprit is a low-grade infection that has been simmering for weeks.
+
+### When to Cull a Doe With Chronic Mastitis
+
+This is a tough call that every dairy goat owner eventually faces. If a doe has had three or more bouts of clinical mastitis in a single lactation despite proper treatment, she may be a chronic carrier.
+
+Chronic carriers shed bacteria into the milk even between visible flare-ups. They pose a constant reinfection risk to the rest of your milking string.
+
+Culling does not necessarily mean the animal has to leave the farm. Some owners retire chronic mastitis does to a pet or brush-clearing role. They just come off the milking line permanently.
+
+If the doe is a valuable genetic animal, talk to your vet about dry cow therapy and an extended dry period before making a final decision. Sometimes a long rest with proper treatment can clear a stubborn infection.
+
 ## Our Take
 
 Overall, drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.

@@ -140,6 +140,26 @@ Adding ammonium chloride to the feed at 0.5% to 1% of total ration is a common s
 
 Loose goat minerals that are formulated specifically for bucks and wethers are another easy way to keep that calcium-to-phosphorus ratio in check. Avoid mineral blocks since goats cannot lick enough off them to get what they need.
 
+### Signs Your Buck Is Getting Too Much Grain
+
+I have seen plenty of new goat owners accidentally overfeed grain to their bucks because the goats act like they are starving. Bucks are drama queens about food, plain and simple.
+
+Watch for a distended belly that does not go down after a few hours. If your buck starts straining to urinate or you notice him hunching his back and dribbling small amounts of urine, that is an emergency situation.
+
+Crystals can sometimes be spotted on the hair around the prepuce. They look like tiny white or yellowish grains of sand. If you see that, get your vet on the phone before the blockage becomes complete.
+
+A buck that goes off feed suddenly after weeks of eating grain is another red flag. The rumen might be overwhelmed, or a stone could already be forming in the urinary tract.
+
+### What to Feed Bucks Instead of Grain
+
+Good quality grass hay should be the backbone of any buck's diet. Orchard grass and timothy hay are solid choices that give them plenty of fiber without the excess phosphorus.
+
+Browse is even better if you have it available. Bucks love brush, tree branches, and weeds. Letting them clear overgrown areas keeps them fed and keeps your property looking clean at the same time.
+
+If your buck truly needs extra calories during breeding season or cold weather, try beet pulp soaked in water. It provides energy without the phosphorus spike that grain delivers.
+
+Alfalfa pellets in small amounts can round out the diet, but they are high in calcium so you still need to watch the overall mineral balance. Talk to your vet about what works best for your specific herd.
+
 ## Final Thoughts
 
 Male goats can develop a condition called urinary calculi, which can be very painful and potentially life-threatening.

@@ -141,6 +141,30 @@ When feeding either type of squash to goats, you need to make sure that the skin
 
 However, by taking into account the age and size of the goat, as well as the type of zucchini being fed, you can develop a feeding plan that meets the unique needs of your animal.
 
+### Growing Zucchini Specifically for Your Goats
+
+If you have a garden, zucchini is one of the easiest vegetables to grow in surplus. A single zucchini plant can produce 6 to 10 pounds of fruit over a season, and most gardeners end up with more than they can use.
+
+Plant a few extra hills dedicated to your goats. Let the fruits grow oversized since goats do not care about tenderness the way humans do. Those giant zucchinis your neighbors laugh at are perfect goat treats.
+
+Harvest zucchini before the first frost and store extras in a cool, dry place. They will keep for two to three weeks, giving you a steady supply of fresh treats for your herd.
+
+### Zucchini Seeds and Goats
+
+Goats can eat zucchini seeds without any issues. The seeds are soft enough to pass through their digestive system easily, and they add a small amount of protein and healthy fat.
+
+You do not need to scoop out the seeds before offering zucchini to your goats. Just slice the whole fruit into chunks and let them go at it.
+
+The only time seeds become a concern is with very bitter zucchini. A bitter taste in the flesh indicates high cucurbitacin levels, and those same compounds are concentrated in the seeds. If a zucchini tastes bitter to you, throw it out instead of feeding it to your goats.
+
+### How Zucchini Helps with Hydration in Summer
+
+During hot summer months, keeping goats properly hydrated is a constant battle. Zucchini is about 95% water, making it an excellent supplemental hydration source.
+
+Slicing chilled zucchini into chunks and tossing them into the feed trough gives your goats a refreshing snack that also tops up their moisture intake. Many goat owners do this on days when temperatures climb above 90 degrees.
+
+Zucchini is not a replacement for fresh drinking water, but it helps bridge the gap on those really scorching afternoons when goats are less interested in standing at the water trough.
+
 ## Our Take
 
 Goats can eat zucchini. Zucchini is a healthy vegetable that can be safely added to your goat's diet.

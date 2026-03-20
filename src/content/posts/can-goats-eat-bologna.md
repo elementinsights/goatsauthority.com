@@ -132,6 +132,24 @@ So, how much bologna can you eat in a day? The answer depends on your [diet and 
 
 Be aware, most experts agree that two ounces is the maximum amount you should consume in a day.
 
+### Signs Your Goat Ate Too Much Bologna
+
+If your goat got into a package of bologna when you were not looking, watch for a few telltale signs over the next 24 hours. Loose stools are the most common reaction since all that sodium and fat hits their rumen hard.
+
+You might also notice increased water consumption. The salt content in bologna makes goats very thirsty, and they will drink much more than usual to try to flush it out.
+
+If your goat seems bloated or stops eating hay for more than a day, call your vet. A one-time bologna binge probably will not cause lasting damage, but it is better to be safe.
+
+### Processed Meats and the Goat Digestive System
+
+Goats have a four-chamber stomach built for breaking down plant material. Their rumen is full of bacteria that specialize in fermenting cellulose from hay, leaves, and browse.
+
+Processed meat like bologna throws a wrench into that system. The bacteria in a goat's rumen have no idea what to do with cured pork and beef, so digestion slows down.
+
+This backup can lead to gas, bloating, and discomfort. Repeated exposure to processed meats over time could disrupt the delicate balance of microbes in the rumen and cause chronic digestive issues.
+
+That is the main reason experienced goat keepers treat bologna as a "never on purpose" food rather than a regular treat.
+
 ### Why Goats Even Try to Eat Bologna in the First Place
 
 If you have ever eaten lunch near a goat pen, you have probably noticed how fast they zero in on your sandwich. Goats are incredibly curious about human food, and the strong smell of processed meats like bologna grabs their attention immediately.

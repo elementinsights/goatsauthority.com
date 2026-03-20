@@ -151,6 +151,30 @@ For [baby goats](/can-goats-eat-applesauce/) or kids, start with a small amount 
 
 Older goats can handle more basil, Still, it's still important to monitor their intake and make sure they are not eating too much. If you are unsure about how much basil to give your goat, talk to a livestock expert for guidance.
 
+### Growing Basil Specifically for Your Goats
+
+If you have a small garden, growing a dedicated basil patch for your goats is easy and cheap. Basil thrives in warm weather and can produce multiple harvests throughout the summer.
+
+Plant the seeds after the last frost and keep the soil moist but not waterlogged. Within six to eight weeks you will have more basil than your goats can handle.
+
+Pinch off the flower buds as they appear to keep the plants producing leaves longer. Once basil bolts and goes to seed, the leaves become bitter and most goats will turn their noses up at them.
+
+### Drying Basil for Winter Feeding
+
+Fresh basil is not available year-round in most climates, but you can dry it during the summer months and store it for winter use. Hang small bundles upside down in a warm, dry area with good air circulation.
+
+Once the leaves are fully dried and crumbly, strip them from the stems and store in airtight jars. A tablespoon of dried basil mixed into grain is a welcome treat during the cold months when pasture variety is limited.
+
+Dried basil retains most of its vitamin content and still has that appealing aroma that goats love. It is also a nice way to add some herbal variety to a hay-heavy winter diet.
+
+### Which Basil Varieties Are Best for Goats?
+
+Sweet basil is the most common variety and works perfectly fine for goats. Thai basil and lemon basil are also safe and some goats seem to prefer the stronger aroma.
+
+Avoid holy basil (tulsi) in large quantities as it contains higher concentrations of eugenol, which can be irritating to the digestive tract in excess. A few leaves here and there are fine, but it should not be the primary variety you offer.
+
+Purple basil is another good option that adds some visual interest to the garden while being just as nutritious as the green varieties.
+
 ## What to Remember
 
 Goats can eat basil, and there are some benefits to doing so. However, there are also certain risks associated with feeding basil to goats.

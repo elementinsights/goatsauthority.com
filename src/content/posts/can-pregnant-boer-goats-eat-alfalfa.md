@@ -125,6 +125,22 @@ Be sure to track any changes in behavior or activity as well, especially if you 
 
 By paying attention to these key signs, you can be sure that your pregnant Boer goat is getting all the nourishment she needs to grow her young successfully.
 
+### How to Mix Alfalfa With Other Feeds for Pregnant Does
+
+Alfalfa works best when it is part of a balanced ration rather than the sole feed source. A good starting mix for a pregnant Boer doe is about 60% grass hay and 40% alfalfa hay. This gives her the extra protein and calcium from the alfalfa without overloading her system.
+
+You can also offer alfalfa pellets as a supplement alongside her regular hay. Pellets are easy to measure and reduce waste since goats tend to be picky and will pull the best bits out of loose hay and drop the rest on the ground.
+
+If your doe is carrying multiples, bump the alfalfa portion up closer to 50% during the last six weeks of pregnancy. Twins and triplets demand a lot more from the mother's body, and that extra protein makes a real difference in kid birth weight and vigor.
+
+### Signs That Your Doe Is Getting Too Much Alfalfa
+
+Loose, clumpy droppings are one of the first signs that a pregnant Boer goat is getting more alfalfa than her rumen can handle. Healthy goat pellets should be firm and distinct, like little berries.
+
+If you notice her belly looking unusually distended or she seems uncomfortable after eating, she may be experiencing mild bloat from the rich feed. Back off the alfalfa and increase her grass hay for a few days to let things settle down.
+
+Urinary calculi can also become a concern when calcium intake from alfalfa is too high relative to phosphorus. Keep a 2:1 calcium-to-phosphorus ratio in her overall diet to avoid this problem.
+
 ## Closing Notes
 
 In general, it is best to consult with a qualified goat expert before making any changes to your Boer goat's diet, especially if the animal is pregnant.

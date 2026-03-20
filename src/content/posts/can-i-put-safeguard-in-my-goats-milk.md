@@ -136,6 +136,22 @@ Additionally, because goat's milk is often easier to digest than cow's milk, it 
 
 Whether you are making a creamy pasta dish or whipping up a batch of your favorite homemade dressing, chances are goat's milk will be the perfect ingredient.
 
+### Milk Withdrawal Times After Using Safeguard
+
+One thing many new goat owners overlook is the withdrawal period after using Safeguard dewormer. If you are giving Safeguard (fenbendazole) orally to your goat, you should not use the milk for human consumption for at least four days after the last dose.
+
+Some goat keepers follow a stricter seven-day withdrawal just to be safe. The exact timing depends on the dosage and how often you administered the product.
+
+During the withdrawal period, you can still milk the doe to keep her on schedule. Just dump the milk or feed it to barn cats instead of using it for your family.
+
+### Keeping Your Milk Clean Without Chemical Additives
+
+Good milking hygiene is honestly the best safeguard for your goat's milk. Wash the udder with warm water and a clean cloth before every milking session.
+
+Use a strip cup to check the first few squirts from each teat. If you see clumps, strings, or off-color milk, set that milk aside and investigate for possible mastitis.
+
+Chill the milk as fast as possible after milking. Getting it into the fridge within 30 minutes keeps bacteria counts low and extends the shelf life by days. A stainless steel bucket set in ice water during milking is a simple trick that makes a real difference.
+
 ## Key Takeaways
 
 You can put safeguards on goat's milk to protect it from contaminants and harmful bacteria. It is important to store the milk properly to maintain its freshness, and you can use it in a variety of recipes.

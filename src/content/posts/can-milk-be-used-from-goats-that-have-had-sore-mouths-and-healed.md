@@ -136,6 +136,22 @@ In addition to its culinary uses, [goat's milk](/can-goat-milk-reduce-wrinkles/)
 
 Goat's milk is thought to be beneficial for the skin due to its high-fat content and the presence of lactic acid. It is also believed to have anti-inflammatory properties.
 
+### How Long After Healing Before the Milk Is Fully Safe
+
+Most veterinarians recommend waiting at least two to three weeks after all visible sores have healed before using the milk for human consumption. The virus can linger on the teat surface even after the scabs fall off.
+
+During this waiting period, continue milking the doe on her regular schedule to maintain production. Dump the milk or feed it to bottle kids that are already exposed and building immunity.
+
+A visual check is not always reliable. Sore mouth scabs can harbor live virus underneath even when the surface looks healed. Wearing gloves during milking protects you from catching orf, which is the human form of sore mouth.
+
+### Pasteurization and Sore Mouth Milk
+
+If you absolutely must use milk from a recently healed doe, pasteurization adds an extra layer of safety. Heat the milk to 145 degrees Fahrenheit and hold it there for 30 minutes using a double boiler setup.
+
+This temperature kills the parapoxvirus along with most other harmful organisms. Let the milk cool quickly by placing the container in an ice bath before storing it in the fridge.
+
+Raw milk enthusiasts may not love this advice, but it is the responsible choice when dealing with milk from a goat that recently had an active infection. Safety comes first.
+
 ## The Bottom Line
 
 Milk can be used from a goat with a sore mouth, but there are certain circumstances when it is best to discard it. If you are unsure about the quality of the milk, it is best to err on the side of caution and discard it.

@@ -137,6 +137,30 @@ Third, only give Hawthorn to healthy goats, as it can worsen digestive problems 
 
 By following these simple tips, you can ensure that your goats reap the maximum benefits from Hawthorn supplementation.
 
+### How to Trim Hawthorn Thorns Before Feeding
+
+The thorns on hawthorn branches are the biggest hazard when feeding this plant to goats. Before offering hawthorn to your herd, take a pair of heavy-duty pruning shears and clip off the longest thorns from each branch.
+
+You do not need to remove every single thorn. Goats have tough mouths and can handle small prickles just fine. The goal is to get rid of the larger spikes that could puncture the cheek, tongue, or throat.
+
+Lay the trimmed branches in a clean area where the goats can browse at their own pace. Do not pile them up, because goats will shove their faces deep into a pile and may encounter thorns they would otherwise avoid.
+
+### Hawthorn Berries vs. Hawthorn Leaves for Goats
+
+The berries and the leaves of the hawthorn plant offer different nutritional profiles. The berries are higher in sugar and vitamin C, making them a tasty treat that goats actively seek out during fall months.
+
+The leaves provide more fiber and tannins. A goat that eats too many leaves at once may experience loose stools from the tannin content, so keep leaf consumption moderate.
+
+If you have hawthorn growing wild on your property, you will likely notice that goats strip the berries first and then move on to the leaves. This natural preference works in their favor since the berries are the safer part of the plant.
+
+### Drying Hawthorn for Winter Feeding
+
+You can harvest hawthorn branches in late summer and dry them for use during winter when fresh browse is scarce. Hang the branches upside down in a well-ventilated barn or shed until the leaves are crispy and dry.
+
+Store dried hawthorn in a cool, dry place in burlap sacks or open bins. Avoid plastic bags, which trap moisture and encourage mold growth.
+
+Offer small amounts of dried hawthorn as a supplemental treat alongside their regular hay ration. Most goats enjoy the variety and will pick through dried hawthorn eagerly during the cold months when there is nothing green to browse on.
+
 ## What to Remember
 
 Overall, Hawthorn is a safe and healthy herb for goats. It's high in protein and phosphorus, and low in calcium, making it an excellent browse plant.

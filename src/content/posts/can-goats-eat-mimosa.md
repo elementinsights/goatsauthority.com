@@ -148,6 +148,22 @@ And finally, you could also try feeding them [timothy hay](/can-goats-eat-timoth
 
 All of these options are good alternatives to feeding goats mimosa, and they can help to ensure that your goats are getting the nutrients they need.
 
+### Managing Mimosa Trees on Your Property
+
+If you have mimosa trees growing on your property and also keep goats, you need a plan. Fencing off the trees entirely is the safest option, but it is not always practical if the trees are scattered throughout your pasture.
+
+An alternative is to regularly remove fallen seed pods and leaves from areas where your goats graze. Seed pods are the most dangerous part of the tree, so picking them up before your goats can reach them goes a long way toward keeping them safe.
+
+Some goat owners hire an arborist to remove mimosa trees altogether. Mimosa is considered an invasive species in many areas, so removing it benefits both your goats and the local ecosystem.
+
+### How to Spot Mimosa Poisoning Early
+
+The first signs of mimosa poisoning usually show up within a few hours of ingestion. Watch for loss of appetite, unusual quietness, and a reluctance to move around.
+
+As the toxins take hold, you may notice trembling, drooling, and labored breathing. The goat's gums may also appear pale or bluish, which indicates poor oxygen circulation.
+
+If you catch these symptoms early and get your goat to a vet right away, the prognosis is usually good. Waiting too long can lead to liver damage that is much harder to reverse.
+
 ## What to Remember
 
 Goats can eat mimosas. First, the plant is highly toxic to goats and can cause serious health problems.

@@ -134,6 +134,22 @@ Of course, other non-medicinal options are also available, including physical th
 
 So whether you choose traditional medication or explore alternative solutions, rest assured that there are a variety of options available to help your goat feel better.
 
+### Milk Withdrawal Period After Ibuprofen
+
+One thing many goat owners overlook is the milk withdrawal period. After giving ibuprofen to a lactating doe, you should not use her milk for human consumption for at least 24 to 48 hours.
+
+The drug can pass directly into the milk, and drinking it could expose people to ibuprofen residues. This is especially important if children or pregnant women in your household drink the milk.
+
+Keep milking the doe on her normal schedule to prevent engorgement, but discard the milk during the withdrawal period. Your vet can give you a more specific timeline based on the dose that was administered.
+
+### When to Call the Vet Instead of Reaching for Ibuprofen
+
+There are situations where ibuprofen is simply not the right call. If your doe has a fever over 104 degrees, is refusing food, or has visible swelling in the udder, those are signs of something more serious.
+
+Mastitis, for instance, requires targeted antibiotics rather than a general pain reliever. Using ibuprofen alone could mask symptoms while the infection gets worse.
+
+A good rule of thumb is this: if the problem lasts more than 24 hours or seems to be getting worse, put down the medicine cabinet remedies and pick up the phone. Your vet has access to prescription-strength options like banamine (flunixin meglumine) that are actually labeled for livestock use and come with proper dosing guidelines.
+
 ## What to Remember
 
 In general, while there is no easy answer to the question of whether or not ibuprofen is safe for goats, it is clear that this medication should be used with caution.

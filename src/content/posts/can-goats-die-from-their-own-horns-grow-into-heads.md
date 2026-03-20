@@ -135,6 +135,38 @@ They also need a clean and safe environment, plenty of [food and water](/can-goa
 
 By providing your goat with everything they need, you can help to ensure a long and happy life.
 
+### How to Trim Overgrown Horns at Home
+
+If you catch the problem early, you can trim overgrown horns yourself with the right tools. A wire saw designed for livestock horns works better than bolt cutters because it gives you more control over the cut.
+
+Have someone hold the goat steady while you work. Cut at least an inch away from the skull to avoid hitting the blood supply that runs through the core of the horn. If you cut too close, the horn will bleed heavily and you will need styptic powder or blood stop solution on hand.
+
+After trimming, smooth any sharp edges with a rasp so the horn tip does not catch on fencing or injure other goats. Check the trimmed horns every month or so to stay ahead of regrowth.
+
+### Breeds Most Prone to Horn Curling
+
+Certain breeds are more likely to develop horns that curl back toward the skull. Jacob goats, some Spanish meat goats, and certain heritage breeds tend to have tighter horn curls that can become problematic.
+
+Boer goats sometimes develop side-curling horns that grow into the cheeks rather than the skull. This is equally dangerous because it can restrict jaw movement and make it impossible for the goat to eat.
+
+If you keep breeds that are known for aggressive horn growth, make horn inspection a regular part of your monthly health checks. Catching a problem horn early is far easier than dealing with one that has already grown into flesh.
+
+### When Surgical Removal Is the Only Option
+
+In severe cases where a horn has already penetrated the skull or is embedded in the cheek, veterinary surgery is the only safe option. Do not try to remove a deeply embedded horn yourself.
+
+The surgery involves sedation, careful removal of the horn, debridement of any infected tissue, and a course of antibiotics to prevent infection. Recovery typically takes two to four weeks.
+
+The cost can run anywhere from $200 to $600 depending on the severity and your location. It is an expense nobody wants, but it is far better than the alternative of letting your goat suffer.
+
+### Monitoring Young Goats With Scurs
+
+Scurs are partial horn regrowths that sometimes develop after an incomplete disbudding. They are unpredictable growers and can curl in any direction, including toward the skull.
+
+Check scurs monthly by running your fingers around the base and feeling for the direction of growth. A scur that is growing straight or outward is usually harmless. One that is curving back toward the head needs to be dealt with before it becomes a real problem.
+
+Small scurs can often be knocked off by a vet during a routine visit. Larger ones may need to be cut with a wire saw the same way you would trim a full horn.
+
 ## Closing Notes
 
 Overall, goats are relatively low-maintenance animals. But, those who are new to goat ownership may be surprised to learn that some goats can have horns.

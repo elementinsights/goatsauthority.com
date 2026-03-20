@@ -124,6 +124,22 @@ Finally, you will need to make sure that your kid is getting plenty of time outs
 
 By following these tips, you can help ensure that your newborn kid receives the best care possible and grows into a strong and [healthy adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/).
 
+### Building a Simple Heat Detection Log
+
+Grab a cheap notebook and dedicate one page per doe. Record her temperature at the same time every morning for at least two full cycles. You will start to see a pattern after about six weeks.
+
+Write down any behavioral changes alongside the temperature reading. Did she flag her tail? Was she more vocal than usual? Pairing temperature data with behavioral observations gives you a much clearer picture of her cycle.
+
+Some goat owners use a spreadsheet on their phone instead of a paper notebook. Either method works fine as long as you are consistent with your timing and recordings.
+
+### Common Temperature-Taking Mistakes to Avoid
+
+Always use a digital rectal thermometer designed for livestock. Human oral thermometers are too short and do not give accurate readings on goats. Livestock thermometers cost about ten dollars at any farm supply store.
+
+Hold the goat steady before inserting the thermometer. A nervous, squirming doe will clench and give you a falsely high reading. Having someone hold her head and offer a treat makes the process much smoother.
+
+Take the reading at the same time each day. A goat's body temperature naturally fluctuates throughout the day, so a morning reading compared to an afternoon reading from the day before tells you nothing useful.
+
 ## Quick Recap
 
 You can use a thermometer to help determine if your goat is pregnant, but it should only be one part of the picture.

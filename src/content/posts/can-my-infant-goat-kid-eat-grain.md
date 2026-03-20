@@ -130,6 +130,38 @@ Finally, be sure to cook the grain before feeding it to your goats, as this will
 
 By following these simple tips, you can help ensure that your goats get all of the nutrients they need to stay healthy and happy.
 
+### Best Grain Types for Infant Goats
+
+Not all grains are created equal when it comes to feeding young kids. Whole oats are one of the safest choices because they are easy to digest and have a good balance of fiber and energy.
+
+Cracked corn can be mixed in small amounts for extra calories, but too much corn leads to obesity and acidosis. Keep it under 20% of the total grain mix.
+
+Barley is another solid option that many goat breeders swear by. It has a higher protein content than corn and is less likely to cause digestive upsets in young animals.
+
+### Setting Up a Creep Feeder for Kids
+
+A creep feeder is a feeding station designed so only the kids can access it, while the adult does are kept out. This allows kids to nibble on grain at their own pace without competition from bigger goats.
+
+Build a simple creep area using livestock panels with openings just wide enough for a kid to squeeze through. Place a shallow feed pan inside with a small amount of grain each morning.
+
+The kids will figure it out quickly. Within a few days, you will find them hanging out in the creep feeder area between nursing sessions, munching on grain and learning to eat solid food on their own terms.
+
+### Transitioning From Milk to Grain
+
+The switch from an all-milk diet to solid food should happen gradually over several weeks. Start offering a pinch of grain around one week of age, just enough for the kids to explore and taste.
+
+By three weeks, most kids will be eating a small handful of grain per day alongside their milk feedings. Do not cut back on milk until you are confident the kids are eating enough grain to maintain their growth rate.
+
+Abrupt weaning paired with a sudden switch to grain is a recipe for stressed, underweight kids. Take your time with this transition and your kids will come out stronger on the other side.
+
+### Grain Storage Tips to Keep Feed Fresh
+
+Store grain in airtight metal or heavy plastic containers to keep out moisture, rodents, and insects. A clean trash can with a tight-fitting lid works great for small herds.
+
+Never store grain directly on a concrete floor, as moisture will wick up from below and cause mold growth. Set the container on a pallet or wooden platform to keep it elevated.
+
+Buy grain in quantities you can use within two to three weeks. Stale grain loses nutritional value and can develop mold that produces toxins harmful to young goats.
+
 ## Wrapping Up
 
 So, to sum up, there are a few things you can do to make sure your goat kids get the most out of their grain diet.

@@ -137,6 +137,30 @@ There is no set answer for how often raw [goat milk](/can-i-use-germall-plus-in-
 
 However, it is generally recommended that sheep should have access to fresh milk every day. So if you are feeding your sheep raw goat milk, you will likely need to provide them with a fresh supply on a daily basis.
 
+### Bottle Feeding Orphan Lambs with Goat Milk
+
+Raw goat milk is one of the best substitutes for ewe milk when you are raising orphan lambs. It is closer in fat and protein content to sheep milk than cow milk is, which makes the transition easier on the lamb's digestive system.
+
+Warm the milk to body temperature (about 101 degrees Fahrenheit) before offering it in a lamb bottle with a Pritchard teat. Feed small amounts every three to four hours for the first week, then gradually space out feedings as the lamb grows.
+
+Keep a close eye on the lamb's stool consistency. If it becomes runny, you may be feeding too much at once or the milk may be too rich. Diluting it slightly with warm water for a day or two usually clears things up.
+
+### Transitioning Sheep Off Goat Milk
+
+Sheep should not rely on goat milk indefinitely. As lambs grow, they need to transition to solid feed including hay, grain, and fresh pasture.
+
+Start offering small amounts of creep feed alongside the goat milk around two weeks of age. By six to eight weeks, most lambs are eating enough solid food that you can begin reducing milk feedings.
+
+A gradual weaning schedule prevents the digestive upset that comes with sudden dietary changes. Cut out one milk feeding per day each week until the lamb is fully weaned onto dry feed and water.
+
+### Storing Raw Goat Milk for Sheep
+
+Fresh raw goat milk should be refrigerated immediately after milking and used within three to five days. Always strain it through a milk filter to remove any debris or hair that may have fallen in during milking.
+
+For longer storage, you can freeze raw goat milk in clean plastic containers or zip-lock bags. Frozen goat milk keeps well for up to three months and thaws quickly in warm water when you need it.
+
+Label each container with the date it was milked and frozen. Use the oldest milk first to keep your supply rotating and fresh.
+
 ## To Wrap Things Up
 
 Raw [goat milk](/can-i-use-goats-milk-soap-on-my-beard/) is a highly nutritious beverage that can offer a range of health benefits for sheep. This milk is rich in easily-digestible fats and proteins, calcium, and other important nutrients, making it an ideal choice for nursing lambs or for animals recovering from illness.

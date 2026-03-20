@@ -146,6 +146,30 @@ Avoid using narrow-necked glass bottles. When the milk expands during freezing, 
 
 Label every container with the date you froze it. Goat's milk keeps its quality for about 3 to 6 months in the freezer, so a clear date helps you rotate your stock and use the oldest milk first.
 
+### How to Fix the Texture of Thawed Goat Milk
+
+If your thawed goat milk looks grainy or separated, do not toss it out. Run it through a blender on low speed for about 30 seconds. This breaks up the fat globules that clumped together during freezing and restores a smoother consistency.
+
+You can also shake the container vigorously for a full minute. This old-fashioned method works surprisingly well and does not require any special equipment.
+
+The flavor may be slightly different from fresh milk, but it is still perfectly good for drinking, cooking, and baking. If the taste difference bothers you, use thawed milk for recipes where other flavors mask the milk, like smoothies, soups, or baked goods.
+
+### Freezing Goat Milk for Soap Making and Other Crafts
+
+Many homesteaders freeze goat milk specifically for soap making. Frozen goat milk cubes are ideal for cold-process soap because the lye reacts more slowly with frozen milk, which prevents the sugars from scorching and turning the soap brown.
+
+Freeze the milk in ice cube trays or silicone molds the day before you plan to make soap. The smaller the pieces, the easier they are to work with when you add the lye.
+
+You can also freeze goat milk for making lotion, bath bombs, and other skincare products. The milk retains its beneficial proteins and fats through the freezing process, so the end product is just as nourishing as one made with fresh milk.
+
+### How Long Frozen Goat Milk Actually Lasts
+
+The general recommendation is to use frozen goat milk within 3 to 6 months for the best quality. After 6 months, the milk is still safe to consume, but you may notice more flavor changes and a grainier texture.
+
+For drinking purposes, try to use it within 3 months. For cooking and soap making, the 6-month window is fine. Label every container with the freeze date so you can keep track of your stock and rotate oldest containers to the front.
+
+If you milk daily and freeze regularly, a chest freezer dedicated to milk storage is a worthwhile investment. It keeps everything organized and gives you a serious stockpile for the dry months when your does are not producing.
+
 ## Wrapping Up
 
 Overall, freezing goat's milk is a safe and easy way to extend its shelf life. However, it is important to be aware of the [potential hazards of freezing goat's milk](/can-a-plastic-bag-hurt-a-goat/), as well as the proper storage methods to prevent freezer burn.

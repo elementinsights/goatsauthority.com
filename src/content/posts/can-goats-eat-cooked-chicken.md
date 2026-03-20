@@ -136,6 +136,30 @@ This includes fruits, vegetables, grains, and even small amounts of meat. Ultima
 
 They will be able to provide guidance on what types of [food are safe for goats to eat](/can-sheep-eat-goat-food/) and how much of each should be consumed.
 
+### Why Goats Sometimes Show Interest in Chicken
+
+If you keep chickens and goats on the same property, you might catch your goats nosing around the chicken coop or even nibbling on scattered chicken feed. This does not mean they want to eat chicken meat.
+
+Goats are attracted to the smell and texture of chicken feed, which is high in protein and often has a pleasant grain aroma. The curiosity they show toward the birds themselves is just typical goat behavior. They investigate everything with their mouths.
+
+That said, keep chicken feed away from goats. Chicken feed often contains medications like amprolium that are formulated for poultry and can be harmful to ruminants in large amounts.
+
+### Safe Protein Alternatives to Cooked Chicken for Goats
+
+Alfalfa hay is one of the easiest high-protein feeds to source for goats. It provides roughly 15 to 20 percent crude protein depending on the cutting, and goats love the flavor.
+
+Soybean meal or whole roasted soybeans are another excellent plant-based protein source. Mix a small amount into the daily grain ration for does in heavy lactation or growing kids that need extra calories.
+
+If you want to get creative, dried peas and lentils are legumes that goats will eat readily. They are packed with protein and fiber and can be mixed into a custom feed blend. These options give your goats all the protein benefits of chicken without any of the digestive risk.
+
+### How to Keep Goats From Scavenging Meat Scraps
+
+Goats that free-range on a homestead may stumble onto kitchen scraps, compost piles, or dog food dishes. Any of these could contain meat or meat byproducts.
+
+Secure your compost bin with a tight-fitting lid or fence it off from the goat area. The same goes for pet food bowls. Feed dogs and cats inside or in an area the goats cannot reach.
+
+If you process your own poultry on the farm, clean up feathers, offal, and scraps promptly. Goats are drawn to novel smells, and a processing area left unattended is an open invitation for them to sample something they should not.
+
 ## The Bottom Line
 
 Overall, cooked chicken is [safe for goats to eat](/can-goats-eat-pumpkin/) on occasion. With that in mind, you need to take precautions such as removing any bones or other potential hazards.

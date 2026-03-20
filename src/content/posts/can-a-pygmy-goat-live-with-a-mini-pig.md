@@ -136,6 +136,38 @@ It is important to note that mini pigs should only be spayed or neutered by a qu
 
 Therefore, it is crucial to make sure that your mini pig is in good health before undergoing this procedure.
 
+### Feeding Pygmy Goats and Mini Pigs Separately
+
+One of the biggest challenges of keeping these two species together is feeding time. Pygmy goats and mini pigs have very different dietary needs, and pigs will eat goat feed if given the chance.
+
+Pig feed often contains ingredients that are not safe for goats, and goat minerals can be toxic to pigs in large amounts. Copper is the main concern here. Goat feed is supplemented with copper, and pigs are extremely sensitive to copper toxicity.
+
+Set up separate feeding stations and supervise mealtimes until you are confident each animal is eating from its own dish. Some owners feed their pigs in a separate pen and only let them back in with the goats once the food is gone.
+
+### Housing Requirements for Mixed Species
+
+A shared shelter works fine as long as it is large enough for both animals to have their own space. Pygmy goats like to climb and perch on elevated surfaces, while pigs prefer to burrow into bedding on the ground.
+
+Provide a raised sleeping platform for the goats and a ground-level bedding area for the pig. This way each animal can retreat to its preferred spot without bothering the other.
+
+Make sure the shelter stays dry and well-ventilated. Pigs are especially prone to respiratory issues in damp, poorly aired barns. Good airflow benefits both species and reduces the risk of illness.
+
+### Exercise and Enrichment for Both Species
+
+Bored animals are destructive animals, and this is doubly true when you have both goats and pigs in the same space. Pygmy goats need things to climb on. Old wooden spools, large rocks, or purpose-built goat playgrounds keep them entertained for hours.
+
+Mini pigs need rooting opportunities. A section of the yard where they can dig in the dirt with their snouts will keep them occupied and happy. You can bury treats in the soil to make it more interesting.
+
+Interactive toys like treat balls work well for pigs and can reduce boredom-related behaviors like fence chewing and excessive rooting in areas where you do not want holes.
+
+### Veterinary Care Considerations
+
+Finding a vet who is experienced with both goats and pigs can be tricky, especially in urban or suburban areas. Make sure you have a vet lined up before you bring both species home.
+
+Vaccination schedules, deworming protocols, and common health issues differ between goats and pigs. Keep separate health records for each species and stay on top of their individual care needs.
+
+Annual wellness exams for both animals will catch potential problems before they become serious. Preventive care is always cheaper than emergency treatment.
+
 ## Summary
 
 Pygmy goats can live peacefully with mini pigs, but it is important to be aware of the potential risks involved in keeping these two species together.

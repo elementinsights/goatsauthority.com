@@ -145,6 +145,22 @@ There are a number of different treatment options available for goat lice. The m
 
 In most cases, a single treatment is sufficient to eliminate the infestation. However, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
 
+### Seasonal Patterns of Goat Lice Infestations
+
+Lice populations in goats follow a predictable seasonal pattern that catches many new owners off guard. Infestations peak during the late fall and winter months when goats grow thicker coats and spend more time huddled together in barns.
+
+The warm, dense winter coat creates a perfect microclimate for lice to breed. Shorter daylight hours also weaken the goat's immune response, making it easier for lice to establish themselves.
+
+By late spring, most lice populations naturally decline as goats shed their winter coats and spend more time in the sun. Ultraviolet light and heat are natural enemies of lice. This is why summer infestations are rare unless the herd is overcrowded or in poor health.
+
+### The Difference Between Biting Lice and Sucking Lice
+
+Biting lice feed on dead skin, hair, and surface debris. They cause intense itching but do not directly drain blood from the goat. You will notice excessive scratching and patches of rough, damaged hair.
+
+Sucking lice pierce the skin and feed on blood. These are the ones that cause anemia in severe cases. A goat with a heavy sucking lice load will have pale mucous membranes inside the lower eyelid.
+
+Knowing which type you are dealing with matters because treatment options differ slightly. Sucking lice respond well to systemic treatments like injectable ivermectin, while biting lice often require topical products that make direct contact with the insects.
+
 ## Final Thoughts
 
 Goat lice can go into a dormant stage when food availability is low. This can happen when goats are not well-groomed or when they live in cramped, unsanitary conditions.

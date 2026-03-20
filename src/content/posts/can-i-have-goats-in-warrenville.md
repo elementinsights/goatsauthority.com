@@ -136,6 +136,30 @@ No matter what your reason is for wanting to keep goats, you can be sure that it
 
 By taking the proper precautions and being prepared to handle these risks, you can enjoy all the benefits that goats have to offer without any problems.
 
+### Dealing With Illinois Winters
+
+Warrenville gets cold, and your goats need to be ready for it. Temperatures regularly drop below zero in January and February, and wind chill makes it feel even worse.
+
+A three-sided shelter facing south gives your goats protection from the prevailing north and west winds. Fill the shelter with deep straw bedding and add fresh layers every few days throughout the winter months.
+
+Increase hay portions by about 25 percent once temperatures drop below freezing. The rumen fermentation process generates body heat, so a goat with a full belly of hay stays warmer than one eating grain alone.
+
+### Managing Goat Manure in a Suburban Setting
+
+Manure management is the number one complaint from neighbors of suburban goat owners. Two goats produce enough manure to fill a wheelbarrow every week, and that adds up fast on a small lot.
+
+Start a compost pile in the farthest corner of your property from any neighbor's house. Turn it regularly to speed decomposition and reduce odor. Well-managed goat manure compost is nearly odorless within a few weeks.
+
+In the summer heat, clean the pen every other day at minimum. Flies breed in fresh manure, and a fly problem will draw complaints faster than anything else. A thin layer of barn lime sprinkled over the pen floor between cleanings helps control both odor and flies.
+
+### Escape-Proofing Your Warrenville Property
+
+Goats are legendary escape artists, and a loose goat in a Warrenville neighborhood is going to cause problems fast. Chain-link fencing at five feet tall with no gaps at the bottom is your best bet for containment.
+
+Check the fence line weekly for any spots where the ground has eroded under the bottom rail. Goats will crawl under a fence just as readily as they will jump over one. Fill any gaps with packed dirt or concrete blocks.
+
+Latch every gate with a carabiner clip or a bolt snap that requires opposable thumbs to open. Standard gate latches are child's play for a smart goat. I have seen a Nubian open a simple hook latch in under ten seconds.
+
 ## The Bottom Line
 
 You can have a lot of fun with your goats in Warrenville, but you need to take some basic precautions.

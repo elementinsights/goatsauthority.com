@@ -140,6 +140,38 @@ Of course, if a goat eats more than that, it may start to experience gastrointes
 
 In general, raisins should only be given as an [occasional treat](/can-goats-eat-oranges/), not as a regular part of your goat's diet.
 
+### How to Safely Introduce Raisins to Your Goat
+
+If you decide to give raisins a try, start with just two or three individual raisins and see how your goat reacts over the next 24 hours. Watch for any changes in stool consistency, appetite, or energy level.
+
+If everything looks good after a day, you can offer a small handful the next time. Never exceed a quarter cup per adult goat per day, and keep raisin treats to no more than twice a week.
+
+Always offer raisins alongside plenty of fresh water. The high sugar content makes goats thirsty, and staying hydrated helps their kidneys process the extra sugar more efficiently.
+
+### Raisins and Urinary Calculi Risk in Bucks
+
+Male goats, especially wethers, are already at high risk for urinary calculi. Adding sugary treats like raisins to their diet increases that risk because excess sugar can throw off the calcium-to-phosphorus ratio in their system.
+
+Urinary calculi is essentially kidney stones in goats, and it can be fatal if a stone blocks the urethra. Bucks and wethers have a narrower urinary tract than does, making blockages more likely.
+
+If you keep male goats, skip the raisins entirely and stick to low-sugar treats. Fresh vegetables like celery stalks or small pieces of pumpkin are much safer options.
+
+### Storing Raisins Away from Your Goats
+
+Goats have an incredible sense of smell and can sniff out a bag of raisins from across the barn. If you keep raisins on your property, store them in a sealed container inside a latched cabinet.
+
+An unsupervised goat that gets into a full bag of raisins can eat enough to make itself seriously sick. The sugar overload can cause severe bloating, diarrhea, and even rumen acidosis in extreme cases.
+
+Treat raisins the same way you would treat medications around your goats. Keep them locked away and only bring them out when you are ready to offer a controlled portion.
+
+### Raisins vs. Fresh Grapes for Goats
+
+Fresh grapes are actually a safer treat option than raisins for goats. They have lower sugar concentration per bite because of their higher water content, and they are softer and easier to chew.
+
+A few whole grapes make a refreshing summer treat. Just cut them in half for smaller goats to reduce any choking risk.
+
+The one advantage raisins have over grapes is shelf life. Raisins last months in your pantry while grapes go bad within a week. For convenience, raisins win. For safety and nutrition, fresh grapes are the better pick.
+
 ### Better Treat Alternatives to Raisins
 
 If you're worried about the sugar content in raisins, there are plenty of other treats your goats will enjoy just as much. Fresh apple slices, carrot pieces, and small chunks of banana are all popular choices.

@@ -138,6 +138,22 @@ Who pays for this? At the end of the day, taxpayers foot the bill.
 
 That said, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
 
+### Real-World Success Stories
+
+The city of Boise, Idaho has been using goats to clear fire-prone brush from the foothills surrounding the city for over a decade. Herds of 800 to 1,000 goats move through the hills each summer, and the program has become a beloved local tradition.
+
+Google famously hired 200 goats to mow the lawns at their Mountain View headquarters back in 2009. The project got a lot of press and helped raise awareness about goat-based vegetation management as a serious alternative to chemicals.
+
+The Bureau of Land Management has funded multiple pilot programs across Nevada and Oregon using targeted goat grazing to reduce wildfire fuel loads. Early results show significant reductions in brush density without the environmental damage caused by herbicides.
+
+### How to Get Your Goats Hired for Federal Work
+
+If you own a herd and want to bid on federal land clearing contracts, start by connecting with your local Bureau of Land Management office. They can walk you through the contracting process and tell you about upcoming projects in your area.
+
+You will need liability insurance that covers your goats and any damage they might cause to federal property. Most contracts also require proof that your herd is current on vaccinations and free from contagious diseases.
+
+Building relationships with land managers takes time, so start small. Offer your goats for a local municipality project first to build a track record before going after bigger federal contracts.
+
 ## Summary
 
 Overall, the use of goats for federal land clearance is a viable option with several benefits. But, there are also some potential drawbacks that should be considered before moving forward with this plan.

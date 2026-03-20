@@ -138,6 +138,20 @@ Keep in mind, these compounds are largely neutralized through cooking, so there'
 
 All in all, cauliflower is a healthy and nutritious treat for goats, but it should be given in moderation as part of a balanced diet.
 
+### Best Ways to Serve Cauliflower to Your Goats
+
+Chop the cauliflower into small, bite-sized pieces before tossing it into the feed trough. Whole heads are too large for most goats to eat comfortably, and big chunks can become a choking hazard.
+
+You can mix the chopped cauliflower with their regular grain or hay to make it more appealing. Some goats prefer it raw, while others seem to enjoy it better if you let it wilt slightly in the sun for a few hours.
+
+Always remove any rubber bands, stickers, or plastic wrapping before feeding. Goats are not picky and will eat the packaging right along with the vegetable if you are not careful.
+
+### Can Goats Eat Cauliflower Leaves and Stems?
+
+The leaves and stems of the cauliflower plant are actually more nutritious than the florets themselves. They contain higher concentrations of calcium and fiber, both of which are great for goat health.
+
+Most goats will happily munch on cauliflower leaves straight off the plant if you grow it in your garden. Just make sure no pesticides or herbicides have been sprayed on them.
+
 ## The Bottom Line
 
 Goats can eat cauliflower, and it can be a healthy part of their diet. However, there are some risks to consider, such as bloat and scouring.

@@ -132,6 +132,32 @@ Liquid fertilizer is a great way to give plants a quick boost of nutrients and c
 
 No matter how you choose to use it, goat manure can be a valuable asset in your [gardening arsenal](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/). Just be sure to take the necessary precautions to avoid any potential problems.
 
+### How to Build a Simple Goat Manure Compost Bin
+
+You do not need anything fancy to compost goat manure. Four pallets wired together in a square shape make a quick and cheap compost bin that works perfectly on a small farm.
+
+Pile your goat manure and soiled bedding inside the bin. Add a layer of brown material like dried leaves or straw between every few inches of manure. This carbon-to-nitrogen balance is what makes the compost cook properly.
+
+Turn the pile with a pitchfork every two weeks to get air flowing through it. A well-managed compost pile will reach temperatures of 130 to 150 degrees, which kills weed seeds and harmful pathogens.
+
+Most goat manure compost is ready to use in about two to three months. You will know it is done when it looks dark and crumbly and smells like earth instead of a barn.
+
+### Using Goat Manure Tea as a Liquid Fertilizer
+
+Manure tea is a quick-acting fertilizer that delivers nutrients directly to plant roots. Fill a burlap sack or old pillowcase with aged goat manure and suspend it in a 5-gallon bucket of water.
+
+Let it steep for three to five days, stirring it once a day. The water will turn a rich brown color as nutrients leach out of the manure.
+
+Dilute the finished tea with plain water at a ratio of one part tea to four parts water. Pour it around the base of your plants or use it as a foliar spray for fast absorption through the leaves.
+
+### Goat Manure vs. Chicken and Cow Manure
+
+Goat manure has a major advantage over chicken manure because it is much cooler and less likely to burn plants when applied fresh. Chicken manure is extremely high in nitrogen and needs extensive composting before it touches any garden bed.
+
+Compared to cow manure, goat pellets are drier and easier to handle. They break down faster in compost and have a less offensive smell during the decomposition process.
+
+Goat manure pellets also do not attract flies the way cow patties do. If you have ever dealt with a fly problem around a cow pasture, you know what a difference this makes during the summer months.
+
 ## Our Take
 
 Goat manure can be used as fertilizer for your crops, but there are a few things to keep in mind.

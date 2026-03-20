@@ -122,6 +122,20 @@ Another common error is buying just one goat. Goats are herd animals and a singl
 
 People also forget to check their specific town's ordinances within the county. Monroe County covers a large area, and rules can vary between Rochester, Greece, Henrietta, and the more rural townships. What is allowed in Mendon might not fly in Brighton.
 
+### Where to Buy Goats in the Monroe County Area
+
+If you are ready to add goats to your property, there are several places in and around Monroe County where you can find them. Local livestock auctions in the Finger Lakes region run sales throughout the year and often have goats available.
+
+Craigslist and Facebook Marketplace are popular for private sales, but always visit the farm in person before buying. Look at the overall health of the herd, check for signs of disease, and ask the seller about vaccination history and deworming schedule.
+
+The Genesee Valley Breeders Association and regional 4-H clubs are also good resources. These groups can connect you with reputable breeders who raise healthy, well-documented stock.
+
+### Winter Goat Care in Monroe County's Climate
+
+Monroe County gets real winters with heavy snow and temperatures that drop well below freezing. Your goats will need a solid shelter that keeps out wind, snow, and rain. A three-sided structure with deep straw bedding and a south-facing opening works well.
+
+Heated water buckets are a must. When temperatures stay below 20 degrees for days at a time, standard water buckets will freeze solid overnight. A goat that cannot drink will not eat, and a goat that does not eat is headed for trouble fast.
+
 ## Our Take
 
 In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other [goats and humans](/can-i-give-my-goats-human-fish-pills/).

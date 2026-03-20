@@ -142,6 +142,30 @@ Rams and [goat bucks also need access to plenty of fresh water](/can-i-give-a-si
 
 When choosing the house for rams and goat bucks, it is important to keep these basic needs in mind and select an option that meets the specific needs of your animals.
 
+### Introducing Rams and Bucks for the First Time
+
+The first introduction between a ram and a goat buck sets the tone for their entire relationship. Never throw a new animal into an established pen without a buffer period.
+
+Start by housing them in adjacent pens where they can see and smell each other through the fence. Leave them like this for at least a week before attempting a face-to-face meeting.
+
+When you do put them together, choose a neutral space that neither animal considers its territory. Have a large piece of plywood or a feed panel handy to separate them if head-butting escalates beyond normal posturing.
+
+### Feed Separation When Housing Together
+
+Rams and goat bucks have different mineral requirements, and feeding them from the same trough causes problems. Sheep are extremely sensitive to copper, and most goat minerals contain copper levels that can be fatal to rams.
+
+Set up separate feeding stations at least 10 feet apart. Use headlocking feed stanchions if possible so each animal eats only its own ration.
+
+If separate feeding stations are not practical, use a sheep-safe mineral for the shared group and supplement your goat bucks individually with copper boluses under your vet's guidance.
+
+### Watching for Injury Warning Signs
+
+Even in a seemingly peaceful shared pen, injuries can happen fast. Check both animals daily for cuts, limping, or swelling around the head and rib area.
+
+A ram's headbutt carries much more force than a goat buck's because sheep skulls have a thicker bony plate. A goat buck can sustain internal injuries from a ram hit that do not show on the outside right away.
+
+If a goat buck suddenly stops eating or seems reluctant to move after a sparring session, get your vet involved quickly. Internal bruising or rib fractures need prompt treatment.
+
 ## Final Thoughts
 
 Rams and goat bucks can live together, but there are some risks that you need to be aware of. These include fighting during mating season and the potential for serious injury or even death.

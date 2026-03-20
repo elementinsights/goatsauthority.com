@@ -132,6 +132,28 @@ For example, if a sheep or goat does not have access to enough food or shelter, 
 
  there are a few health concerns that sheep and goats can experience, but these animals are generally healthy if they are well-cared for.
 
+### How Sheep and Goats Behave Differently in a Mixed Herd
+
+Even though sheep and goats can live together, their behavior patterns are quite different. Goats are naturally curious and will spend their time exploring fences, climbing on structures, and testing boundaries. Sheep prefer to stay in a tight group and follow the flock.
+
+This difference can cause management headaches. Goats will find weak spots in your fence line that sheep would never notice. You will need fencing that is built to goat standards, which means at least 4 to 5 feet tall with no gaps larger than 4 inches.
+
+Feeding time is another area where differences show up. Goats are browsers and prefer to eat at head height or above. Sheep are grazers and keep their heads down. If you put all the feed at ground level, the goats will boss the sheep away from it.
+
+### Tips for Managing a Mixed Flock Successfully
+
+If you plan to keep sheep and goats together, set up separate feeding stations. This prevents the dominant goats from hogging all the food and lets the sheep eat in peace.
+
+Copper is another concern you need to keep in mind. Goats require copper in their mineral supplement, but sheep are extremely sensitive to copper toxicity. You will need to provide separate mineral feeders and make sure the sheep cannot access the goat minerals.
+
+Parasite management also differs between the two species. Goats tend to pick up barber pole worm more readily than sheep, and deworming protocols may need to be tailored to each species rather than treating the whole group the same way.
+
+### Best Breeds for Mixed Herds
+
+Not all breeds of goats and sheep get along equally well. For goats, calmer breeds like Nubians and La Manchas tend to coexist more peacefully with sheep than high-energy breeds like Nigerian Dwarfs.
+
+On the sheep side, hair sheep breeds like Katahdins and Dorpers are a better fit for mixed herds because they share similar browsing habits with goats and do not require shearing.
+
 ## To Wrap Things Up
 
 Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.

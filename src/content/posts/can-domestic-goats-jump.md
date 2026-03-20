@@ -144,6 +144,20 @@ A low hurdle is a good place to start; gradually increase the height of the hurd
 
 With some patience and practice, you'll have a trained goat jump in no time - and without breaking the bank.
 
+### Breed Differences in Jumping Ability
+
+Not all domestic goats jump equally well. Nigerian Dwarf goats are surprisingly athletic and can clear fences that seem too tall for their size. They have a compact, muscular build that gives them an explosive leap.
+
+Boer goats are heavier and less interested in jumping. Their bulky frame makes clearing a four-foot fence unlikely, though they may push through a weak fence panel instead.
+
+Pygmy goats fall somewhere in the middle. They are nimble and playful but lack the height to clear tall barriers. A sturdy four-foot fence is usually enough to contain them.
+
+### Fence Heights That Actually Work
+
+If you have goats that love to jump, your standard four-foot fence is not going to cut it. Five feet is the minimum for breeds like Nigerian Dwarfs and Alpine goats. Some owners go up to six feet for the most persistent escape artists.
+
+Adding a strand of electric wire along the top of an existing fence is a cheaper alternative to rebuilding the whole thing. One good zap teaches most goats to stay away from the top rail permanently.
+
 ## To Wrap Things Up
 
 Domestic goats can jump - and with a little bit of training, they can be taught to jump over a variety of obstacles.

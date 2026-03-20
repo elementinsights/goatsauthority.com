@@ -138,6 +138,30 @@ Goats will chew on cotton clothing, towels, and rags if they get the chance. Thi
 
 If a goat swallows a large piece of fabric, it can cause a blockage in the intestines. Keep laundry, rags, and cotton-based materials out of reach whenever goats are roaming freely.
 
+### How to Tell If Your Goat Ate Something It Should Not Have
+
+The first sign of a digestive blockage is a goat that stops eating. If your goat was enthusiastic about breakfast yesterday and turns its nose up today, start paying attention immediately.
+
+Check for cud chewing. A healthy goat chews its cud throughout the day, and a goat that has stopped chewing cud may have something stuck in its digestive tract. Listen for rumen sounds by pressing your ear against the goat's left side. Silence is a bad sign.
+
+Bloating on the left side is another warning flag. If the rumen feels tight and drum-like, the goat may have a blockage that is preventing gas from escaping normally.
+
+### Safer Fiber Sources for Your Goats
+
+If you want to provide fiber-rich material for your goats to chew on, stick with natural browse. Woody branches from willow, apple, or mulberry trees are excellent options that goats love.
+
+Hay is the foundation of any goat's fiber intake. Timothy hay and orchard grass provide the long-stem fiber that keeps the rumen working properly. Keep hay available at all times so your goats are never hungry enough to start chewing on random materials.
+
+Bark strips from fallen trees make great chew toys. They satisfy the goat's urge to gnaw without any risk of intestinal blockage. Just make sure the tree species is non-toxic before offering it.
+
+### Goat-Proofing Your Property Against Fabric and Textiles
+
+Walk your property and remove any fabric, ropes, tarps, or clothing within goat reach. Old t-shirts used as rags, forgotten towels, and even loose baling twine can all end up in a goat's stomach.
+
+Close your laundry room door if your goats have any access to the house or garage. Goats will pull clothes off a drying line without hesitation, and a mouthful of polyester blend can cause serious problems.
+
+Store feed bags, grain sacks, and burlap in sealed containers or a room the goats cannot enter. The residual grain smell on these materials makes them irresistible targets for a curious goat.
+
 ## Key Takeaways
 
 Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.

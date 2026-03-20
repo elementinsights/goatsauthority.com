@@ -138,6 +138,30 @@ They can also get sick from [eating poisonous plants](/can-goats-eat-poison-heml
 
 If you suspect that your [goat is sick](/can-i-give-a-sick-goat-water-through-a-syringe/), it's important to consult a veterinarian for diagnosis and treatment. By taking these simple steps, you can help keep your goats healthy and free from disease.
 
+### What Healthy Goat Poop Should Look Like
+
+Knowing what normal droppings look like is the first step to catching weather-related problems early. Healthy adult goat poop comes out as firm, dark-brown pellets about the size of a large pea. They should hold their shape and not stick together in clumps.
+
+Kid droppings are softer and lighter in color, which is normal for their age. As they transition from milk to solid food, their pellets will firm up and darken.
+
+If you see droppings that look like dog poop, meaning one continuous log shape, that usually means too much protein or grain in the diet. Watery, formless droppings are a sign of diarrhea and should be addressed right away regardless of the weather.
+
+### Adjusting Feed During Weather Extremes
+
+During heat waves, cut back on grain and increase access to loose hay and fresh water. Grain generates more heat during digestion than roughage does, and you do not want to add internal heat to an already stressed goat.
+
+In cold snaps, do the opposite. Bump up the hay ration because the fermentation process in the rumen produces body heat. A goat with a full rumen stays warmer overnight than one that was short-changed on evening hay.
+
+Always have warm water available in freezing temperatures. Goats will drink significantly less if the water is ice cold, and reduced water intake is one of the fastest paths to constipation and impacted rumen.
+
+### Shelter Design That Helps With Weather-Related Digestion Issues
+
+A three-sided shelter open to the south is the gold standard for goat housing in most climates. It blocks cold north winds and rain while still allowing ventilation to prevent respiratory problems.
+
+Keep the bedding deep and dry. Goats that lie in wet, cold bedding burn extra calories keeping warm, which diverts energy away from digestion. Deep straw bedding provides insulation from the cold ground and keeps the goats comfortable.
+
+In hot climates, shade structures and fans make a huge difference. A goat that can escape the midday sun will eat more, drink more, and maintain healthier digestion than one baking in an open field.
+
 ## Closing Notes
 
 In general, goats can make excellent pets. They are relatively easy to care for and provide a number of benefits, such as clearing overgrown areas and providing manure for gardens and crops.

@@ -122,6 +122,24 @@ And, [goats require specialized care and feeding](/can-a-goat-feed-quads/), whic
 
 Overall, while a goat can certainly be a valuable addition to any community, prospective owners must understand the challenges and responsibilities that go along with keeping such an animal.
 
+### Keeping Goats Cool in Sacramento Valley Heat
+
+Foothill Farms sits in the Sacramento Valley, and summers here get brutal. Temperatures regularly hit 100 degrees or higher from June through September.
+
+Your goats need shade all day long during the hot months. A simple shade structure made from a tarp stretched over posts works fine, but make sure it is tall enough for air to circulate underneath. Stagnant air under a low tarp actually makes things worse.
+
+Fill water troughs twice a day in the summer. Goats drink significantly more water when temperatures climb, and warm water sitting in a black trough can get hot enough to discourage drinking. Adding a frozen water bottle to the trough helps keep the temperature down.
+
+Watch for signs of heat stress: rapid breathing, drooling, and lethargy. If you spot these symptoms, move the goat to shade immediately and offer cool water. A spray bottle misting their legs and belly can help bring their body temperature down quickly.
+
+### Choosing the Right Breed for a Small California Lot
+
+If you are working with a standard suburban lot in Foothill Farms, stick with miniature breeds. Nigerian Dwarf goats are the best choice for small properties because they produce a surprising amount of milk relative to their size.
+
+Pygmy goats are another solid option. They are compact, friendly, and do well in warm climates. Their smaller body mass means they handle the heat better than full-sized breeds like Nubians or Alpines.
+
+Avoid Boer goats unless you have a large property. They are big animals bred for meat production, and they need more space and more feed than what a typical suburban lot can provide.
+
 ## Wrapping Up
 
 Overall, there are many things to consider before getting a goat in Foothill Farms. However, if you are prepared to take on the challenges and responsibilities that come with owning a goat, then this can be a highly rewarding experience.

@@ -139,6 +139,30 @@ Overall, it is best to avoid Oregon grapes if you have goats. These plants are p
 
 If you think that your goat has eaten Oregon grapes, seek veterinarian care immediately.
 
+### How to Identify Oregon Grape on Your Property
+
+Oregon grape is pretty easy to spot once you know what to look for. The leaves are shiny, dark green, and have spiny edges that look similar to holly leaves. They grow in clusters along stiff, upright stems.
+
+In spring, the plant produces bright yellow flower clusters. By late summer, those flowers turn into dark blue-purple berries that hang in grape-like bunches, which is where the name comes from.
+
+The bark of the stems has a distinctive yellow color when you scrape it. If you are not sure whether a plant on your property is Oregon grape, snap a small twig and check for that yellow inner bark. It is one of the most reliable identifiers.
+
+### Safe Alternatives to Oregon Grape for Goat Browse
+
+If you are pulling Oregon grape out of your pasture, you will want to replace it with something your goats can safely enjoy. Blackberry bushes are a great option since goats love them and they provide both browse and fruit.
+
+Willow is another excellent choice. Goats enjoy stripping the bark and leaves, and willow contains natural salicin, which can help with minor pain and inflammation.
+
+Raspberry canes, mulberry trees, and rose bushes are all safe browse options that most goats find irresistible. Planting a variety of these around your pasture gives your goats choices and keeps them from getting bored with their diet.
+
+### What Berberine Does to a Goat's System
+
+Berberine, the compound found in Oregon grape, interferes with normal cell function in a goat's digestive tract. It disrupts the bacteria that live in the rumen, which are critical for breaking down the roughage goats eat every day.
+
+When those rumen bacteria get thrown off balance, the goat cannot properly ferment its food. This leads to gas buildup, reduced nutrient absorption, and general digestive distress that can cascade into more serious problems.
+
+In high enough doses, berberine can also affect the liver and kidneys. Goats that eat large amounts of Oregon grape over several days may show signs of organ stress, including dark-colored urine and loss of coordination.
+
 ## Summary
 
 Goats cannot eat Oregon grapes. These plants are poisonous to goats and can cause serious health problems if consumed.

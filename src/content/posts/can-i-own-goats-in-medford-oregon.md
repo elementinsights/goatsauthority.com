@@ -122,6 +122,20 @@ In order to best care for and protect your goats, it is important to stay inform
 
 By establishing an ongoing dialogue with experts in the field and by regularly seeking out new information and resources, you will be well-equipped to handle whatever challenges may come your way when it comes to caring for your beloved goats.
 
+### Taking Advantage of Medford's Climate for Year-Round Grazing
+
+Medford's mild winters give goat owners a big advantage over colder parts of Oregon. Your goats can graze outdoors for most of the year without needing heavy supplemental feeding.
+
+The dry summers do require extra attention to water access and shade. Set up multiple water stations around your pasture so your goats always have a nearby source of clean drinking water.
+
+Spring is the best time to let your pastures recover. Rotate your goats between different paddocks every two to three weeks to prevent overgrazing and give the vegetation time to regrow.
+
+### Connecting With Other Goat Owners in the Rogue Valley
+
+The Rogue Valley has an active small-farm community, and goat owners are a big part of it. The Jackson County Extension Service hosts workshops on small ruminant care several times a year.
+
+Check out the Medford Farmers Market if you want to meet local goat cheese producers and dairy goat breeders. These folks are a goldmine of practical advice specific to the Medford area.
+
 ## Key Takeaways
 
 You can own and care for goats in Medford, Oregon successfully by taking the necessary steps to provide them with proper housing and fencing, as well as a [healthy diet and regular health check-ups](/can-you-drink-raw-goat-milk-on-gaps-diet/).

@@ -147,6 +147,38 @@ Finally, you can try training your goats not to pee on the trees.
 
 This can be done by rewarding them with treats when they stay away from the trees. However, you [need to remember that goats are naturally curious creatures](/how-many-babies-do-goats-have-at-a-time/) and they might still try to pee on the trees from time to time.
 
+### Dilution Methods for Using Goat Urine Safely
+
+The safest way to use goat urine on your trees and plants is to collect it and dilute it heavily before application. A ratio of one part urine to 10 parts water is a good starting point for most plants.
+
+Apply the diluted mixture around the drip line of the tree, not directly at the trunk. The drip line is where the outermost branches end, and that is where the feeder roots are most active.
+
+Never apply undiluted goat urine to any plant. The high nitrogen concentration will burn the roots and can kill young trees in a single application.
+
+### Rotating Goats to Protect Tree Roots
+
+If your goats have free access to a pasture with trees, rotating them between different paddocks prevents urine buildup in any one spot. A two-week rotation schedule works well for most setups.
+
+When goats stay in one area too long, their urine saturates the soil around their favorite resting spots. Those spots are often under trees where the shade is, which puts the tree roots right in the splash zone.
+
+Moving goats to fresh ground every couple of weeks gives the soil time to process the nitrogen and return to normal levels before the goats come back.
+
+### Signs That Goat Urine Is Damaging Your Trees
+
+Yellowing leaves on lower branches are the earliest warning sign. This happens because excess nitrogen forces the tree to push out new growth at the expense of existing foliage.
+
+Bark damage at the base of the trunk is another red flag. The ammonia in fresh urine can burn thin bark on young trees, creating entry points for disease and insects.
+
+If you notice these signs, fence the affected tree off from your goats immediately and flush the soil around the base with several gallons of fresh water. The water helps dilute and wash away the concentrated nitrogen.
+
+### Protecting Fruit Trees from Goat Damage
+
+Fruit trees need special protection if you keep goats nearby. Goats love to strip bark from fruit trees, and their urine around the base adds insult to injury.
+
+Wrap young fruit tree trunks with hardware cloth or commercial tree guards up to a height of at least four feet. This stops bark stripping and forces goats to urinate farther from the trunk.
+
+A permanent fence ring with a three-foot radius around each fruit tree is the gold standard. It keeps goat hooves, teeth, and urine away from the root zone while still letting the goats enjoy the shade from overhead branches.
+
 ## The Bottom Line
 
 Goat urine can have a harmful effect on trees if there's too much nitrogen in the urine. Nitrogen is an essential nutrient for plants, but too much can be harmful.

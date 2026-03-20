@@ -156,6 +156,20 @@ When you combine these two temperaments, the offspring can land anywhere on the 
 
 Spend time observing the kids as they grow so you can identify the ones that best suit your farming goals, whether that's dairy production, pet quality, or breeding stock.
 
+### Understanding the Myotonia Gene in Breeding Decisions
+
+The myotonic gene that causes fainting is autosomal recessive. Both parents must carry the gene for offspring to display the classic stiffening and falling behavior. If only one parent carries it, the kids will be carriers but will not faint themselves.
+
+Before breeding, find out if the screaming goat has any myotonic heritage in its background. Some screaming goat lines have been crossed with fainting goats in the past, which means the gene could be hiding in the pedigree.
+
+A simple genetic test can confirm carrier status. Ask your vet about testing options before spending money on breeding stock. Knowing the genetics upfront saves you from surprise results at kidding time.
+
+### What First-Generation Crosses Look Like
+
+First-generation crosses between screaming and fainting goats tend to be medium-sized with moderate muscle tone. They usually inherit the vocal tendencies of the screaming parent and the stocky build of the fainting parent.
+
+Coat colors vary widely depending on the parents. Fainting goats come in almost every color pattern, and screaming goats are equally diverse. Expect a litter where every kid looks slightly different from its siblings.
+
 ## Our Take
 
 You can breed screaming and fainting goats successfully by following the proper care and management techniques.

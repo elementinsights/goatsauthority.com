@@ -132,6 +132,22 @@ But, caps can come loose and need to be replaced regularly, so this option may n
 
 Finally, you could choose to do nothing and simply let the goat keep their horns. This is obviously the least invasive option, but it's important to remember that horns can pose a serious safety hazard to both animals and humans.
 
+### Aftercare: The First 48 Hours Post-Dehorning
+
+The first two days after dehorning are the most critical for infection prevention. Keep the goat in a clean, dry area with fresh bedding. Dirt, mud, and manure anywhere near the wound sites invite bacteria.
+
+Check the wounds twice daily for swelling, discharge, or a foul smell. A small amount of oozing is normal, but anything greenish or pus-like needs veterinary attention.
+
+Fly spray around the pen is essential during warmer months. Flies are attracted to fresh wounds and can lay eggs that lead to maggot infestation within hours. A wound spray containing a fly repellent provides an extra layer of protection.
+
+### Why Disbudding Early Beats Late Dehorning
+
+If you know you want a hornless goat, disbudding at one to two weeks of age is far easier, safer, and less painful than removing fully grown horns at two years. The horn buds at that young age are tiny and the procedure takes only seconds with a disbudding iron.
+
+A two-year-old goat has thick, fully developed horns with a blood supply running through the core. Removing them is essentially a surgical procedure with significant bleeding and a longer healing period.
+
+Planning ahead makes all the difference. Talk to your vet or breeder before the kids are born so you have a disbudding plan in place from day one.
+
 ## Wrapping Up
 
 Overall, dehorning a 2 year old goat is a decision that should be made carefully. There are a number of factors to consider, and there is no one-size-fits-all answer.

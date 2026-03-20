@@ -121,6 +121,22 @@ Overall, if you want to ensure that your goats are happy and healthy, it is impo
 
 With these simple care practices in place, you can be sure that your herd stays happy, healthy, and thriving for many years to come.
 
+### How to Apply Neosporin Correctly
+
+Clean the wound thoroughly with warm water and a mild antiseptic wash before applying any ointment. Dirt and debris left in the wound can trap bacteria underneath the Neosporin and make things worse.
+
+Pat the area dry with a clean cloth, then squeeze a thin line of ointment directly onto the wound. Spread it gently with a clean finger or gauze pad so the entire wound surface is covered.
+
+Reapply the ointment twice daily for the first three to four days, or until the wound begins to scab over. Once a good scab has formed, you can stop applying and let the wound heal naturally underneath.
+
+### Wounds That Need More Than Neosporin
+
+Neosporin works great for small scrapes, minor cuts, and superficial abrasions. But deep puncture wounds, large lacerations, or injuries that expose muscle or bone need professional veterinary care.
+
+If a wound is actively bleeding and you cannot stop it with direct pressure, stitches are likely needed. Neosporin alone will not close a gaping wound or prevent the serious infection that can set in with deeper injuries.
+
+Any wound caused by a rusty fence, a bite from another animal, or a foreign object embedded in the skin also warrants a vet visit. These types of injuries carry a high risk of tetanus and other bacterial infections that topical ointment cannot address on its own.
+
 ## To Wrap Things Up
 
 You can put Neosporin on your goats if the area is infected and you consult your vet first to make sure it is appropriate. Neosporin can help to speed up the healing process and ward off any potential infections.

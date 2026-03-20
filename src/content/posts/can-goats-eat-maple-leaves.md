@@ -184,3 +184,11 @@ Next step is observing your pet closely. Signs of poisoning may include changes 
 If these symptoms appear, it’s time to call a vet right away.
 
 While waiting for professional help, keep them hydrated and comfortable but avoid feeding them anything else without expert advice.
+
+### How to Manage Maple Trees in Your Goat Pasture
+
+If you have maple trees growing in or near your goat pasture, the safest approach is to fence off any red or silver maples so your goats cannot reach fallen leaves. A simple strand of electric wire around the drip line of the tree will keep curious goats at a safe distance.
+
+During fall, rake up fallen leaves regularly before your goats have a chance to eat them. Wilted and dried maple leaves are the most dangerous, and a windy autumn day can scatter them all over the pasture in a matter of hours.
+
+Sugar maples are the safest variety to have around goats. If you are planting new trees in or near the pasture, choose sugar maple over red or silver every time.

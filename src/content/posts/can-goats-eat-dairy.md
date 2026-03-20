@@ -124,6 +124,18 @@ Cheese made from goat milk is also a good source of protein and calcium, and it 
 
 Alternative dairy products for goats can be found at most grocery stores.
 
+### When to Skip Dairy Entirely
+
+There are situations where dairy should come off the menu for your goats. If a goat is recovering from a bout of scours or has been treated with antibiotics, their gut bacteria are already out of balance. Adding dairy at that point can make things worse.
+
+Kids under four weeks old should stick to their mother's milk or a proper milk replacer. Introducing other dairy products too early puts unnecessary strain on their developing digestive system.
+
+### Homemade Dairy Treats Your Goats Will Love
+
+If you want to give your goats a dairy-based treat, try mixing a small amount of plain yogurt into their grain ration. The probiotics in the yogurt support healthy rumen function, and most goats go crazy for the taste.
+
+Another option is to freeze small portions of goat milk in ice cube trays and offer them on hot days. Goats enjoy the cool treat, and it keeps them hydrated at the same time.
+
 ## Our Take
 
 Overall, Dairy is a healthy and nutritious part of a Goat's diet, but there are some risks associated with feeding dairy to goats. One of the biggest dangers is the risk of bloat.

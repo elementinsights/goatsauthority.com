@@ -137,6 +137,22 @@ For example, peppers and onions can be toxic to goats, so these should be avoide
 
 In general, vegetables that are safe for [human consumption are also safe for goats](/can-i-give-my-goats-human-fish-pills/). As long as they are fed in moderation, goats can enjoy a variety of healthy vegetables.
 
+### Fresh vs. Canned Artichokes for Goats
+
+Fresh artichokes are always the better choice for your goats. Canned artichokes are packed in brine or acidified water, and the extra sodium is not good for goats in any quantity.
+
+If fresh artichokes are not available in your area, look for frozen artichoke hearts instead. They retain most of their nutrients and are free from the added salt and preservatives found in canned versions.
+
+Marinated artichokes from a jar are off the table entirely. The oil, vinegar, and seasoning are too rich for a goat's digestive system and can trigger diarrhea.
+
+### Artichoke Thistle vs. Globe Artichoke: Know the Difference
+
+The globe artichoke that you find at the grocery store is different from the cardoon or wild artichoke thistle that grows in fields and along roadsides. Wild artichoke thistle has sharper spines and tougher leaves.
+
+Goats can handle the wild variety, but the sharp thorns pose a real risk of mouth injuries. Trim away the worst of the spines before offering wild artichoke to your herd.
+
+Globe artichokes are softer and easier on the goat's mouth. If you have the option, stick with the cultivated variety and save yourself the worry about puncture wounds.
+
 ## What to Remember
 
 Overall, artichokes are a safe and nutritious food for goats. They are a good source of fiber and nutrients, and goats usually enjoy eating them.
