@@ -53,7 +53,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 <section class="sh-hero">
   <div class="container">
     <h1 class="sh-hero-title animate-on-scroll">Welcome to {siteConfig.name}</h1>
-    <p class="sh-hero-subtitle animate-on-scroll">We help you find the right products for your needs &mdash; with honest reviews, real-world testing data, and expert guides you can actually trust.</p>
+    <p class="sh-hero-subtitle animate-on-scroll">Your complete guide to raising healthy, happy goats &mdash; with practical advice on diet, health, breeding, housing, and everything in between.</p>
   </div>
 </section>
 
@@ -65,8 +65,8 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     <div class="sh-intro-inner animate-on-scroll">
       <div class="sh-avatar">{siteConfig.author.initial}</div>
       <div class="sh-intro-text">
-        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've spent years testing hundreds of products so you don't have to rely on spec sheets and sponsored reviews. I started this site because most product reviews are written by people who've never actually used what they recommend &mdash; and that's not good enough when you're spending your hard-earned money.</p>
-        <p>Here, every product gets hands-on testing in real-world conditions. Below you'll find our most popular content organized by topic and the fastest way to find the right product for your needs. No matter what you're looking for, there's something here for you.</p>
+        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've been raising goats for over a decade and I started Goats Authority because finding reliable, goat-specific care advice online is harder than it should be. Most sites give generic livestock advice that doesn't account for how different goats are from sheep or cattle.</p>
+        <p>We've published 399 articles covering every aspect of goat ownership &mdash; from "can my goat eat this?" to managing breeding programs and treating common health issues. Whether you're bringing home your first pair of kids or managing a herd of 50, the guides below will help.</p>
       </div>
     </div>
   </div>
@@ -86,7 +86,17 @@ const popularLinks = siteConfig.footerPopularLinks || [];
           <a href={`/category/${cat.slug}`} class={`sh-path-card sh-path-card--${color} animate-on-scroll`}>
             <div class={`sh-path-icon sh-path-icon--${color}`} set:html={pathIcons[i % pathIcons.length]} />
             <h3>I Need {cat.name}</h3>
-            <p>In-depth reviews, comparisons, and buying guides to help you find the best {cat.name.toLowerCase()} for your needs and budget.</p>
+            <p>{cat.name === 'Diet' ? 'Complete guides to what goats can and can\'t eat, from fruits and hay to kitchen scraps and toxic plants.' :
+               cat.name === 'Health' ? 'Symptoms, treatments, deworming, vaccinations, and when to call the vet.' :
+               cat.name === 'Breeding' ? 'Breed selection, mating, genetics, and raising kids from birth.' :
+               cat.name === 'Food' ? 'Goat milk, cheese, meat products, and recipes for humans.' :
+               cat.name === 'Housing' ? 'Barn design, fencing, shelter, bedding, and pasture management.' :
+               cat.name === 'Training' ? 'House training, leash training, and behavior correction for pet goats.' :
+               cat.name === 'Safety' ? 'Predator protection, toxic plants, and escape prevention.' :
+               cat.name === 'Reproduction' ? 'Heat cycles, mating behavior, fertility, and reproductive health.' :
+               cat.name === 'Pregnancy' ? 'Gestation, prenatal care, kidding, and postnatal care.' :
+               cat.name === 'Traits' ? 'Breed profiles, temperament, size standards, and choosing the right goat.' :
+               `Everything you need to know about ${cat.name.toLowerCase()} in goat care.`}</p>
             <span class="sh-path-link">Explore {cat.name} &rarr;</span>
           </a>
         );
@@ -96,7 +106,49 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 </section>
 
 <!-- ============================================================
-     4. MOST POPULAR GUIDES
+     4. COMMON QUESTIONS
+     ============================================================ -->
+<section class="sh-problems">
+  <div class="container">
+    <h2 class="sh-section-title animate-on-scroll">Common Goat Questions</h2>
+    <p class="sh-section-subtitle animate-on-scroll">Jump straight to the answer you need.</p>
+    <div class="sh-problems-grid">
+      <a href="/can-goats-eat-apples/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127822;</span>
+        <h3>Can My Goat Eat This?</h3>
+        <p>163 articles covering every food from apples to zucchini, with safety ratings, portion sizes, and risks.</p>
+      </a>
+      <a href="/can-alfalfa-pellets-cause-goats-to-bloat/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#129658;</span>
+        <h3>My Goat Seems Sick</h3>
+        <p>Bloating, lethargy, limping, and other symptoms explained with causes and treatment options.</p>
+      </a>
+      <a href="/can-a-goat-breed-with-sheep/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#128037;</span>
+        <h3>Breeding Questions</h3>
+        <p>Cross-breeding compatibility, heat cycles, pregnancy signs, and kid care from day one.</p>
+      </a>
+      <a href="/can-a-goat-live-in-a-house/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127968;</span>
+        <h3>Housing & Space Needs</h3>
+        <p>Barn sizes, indoor vs outdoor living, fencing requirements, and house training options.</p>
+      </a>
+      <a href="/can-a-goat-get-rabies/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#128138;</span>
+        <h3>Vaccines & Prevention</h3>
+        <p>CDT shots, rabies, deworming schedules, and preventive care to keep your herd healthy.</p>
+      </a>
+      <a href="/can-a-female-goat-produce-milk-without-being-pregnant/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#129371;</span>
+        <h3>Milk & Dairy Questions</h3>
+        <p>Milking without pregnancy, milk production, udder health, and dairy goat management.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     5. MOST POPULAR GUIDES
      ============================================================ -->
 <section class="sh-guides">
   <div class="container">
@@ -313,6 +365,17 @@ const popularLinks = siteConfig.footerPopularLinks || [];
   .sh-path-card:hover .sh-path-link { text-decoration: underline; }
 
   /* ============================================================
+     COMMON QUESTIONS
+     ============================================================ */
+  .sh-problems { padding: 65px 0 60px; }
+  .sh-problems-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .sh-problem-card { background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 28px 24px; transition: box-shadow var(--transition), transform var(--transition); color: var(--text); display: block; }
+  .sh-problem-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); color: var(--text); }
+  .sh-problem-icon { font-size: 28px; display: block; margin-bottom: 12px; }
+  .sh-problem-card h3 { font-size: 1rem; font-weight: 700; margin-bottom: 8px; }
+  .sh-problem-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
+
+  /* ============================================================
      MOST POPULAR GUIDES
      ============================================================ */
   .sh-guides {
@@ -398,6 +461,8 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     }
 
     .sh-paths-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
+
+    .sh-problems-grid { grid-template-columns: 1fr; }
 
     .sh-guides-groups { grid-template-columns: 1fr; }
   }

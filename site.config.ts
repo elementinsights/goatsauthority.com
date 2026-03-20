@@ -62,8 +62,8 @@ export const siteConfig = {
   author: {
     name: "Tim Rhodes",
     initial: "T",
-    role: "Goat Care Expert",
-    bio: "Tim has years of hands-on experience raising and caring for goats. He shares practical advice on goat diet, health, breeding, and daily care to help both new and experienced goat owners.",
+    role: "Founder & Goat Husbandry Specialist",
+    bio: "Tim has spent over a decade raising dairy and meat goats on small acreage. From bottle-feeding newborn kids to managing breeding programs and treating common health issues, he\'s handled every aspect of goat ownership firsthand. He built Goats Authority to give goat owners the practical, experience-based advice that\'s hard to find online.",
   },
 
   // ============================================================

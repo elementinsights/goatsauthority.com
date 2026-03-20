@@ -42,7 +42,7 @@ const breadcrumbSchema = {
       Our Story
     </div>
     <h1 class="about-hero-title">About <span>{siteConfig.name}</span></h1>
-    <p class="about-hero-subtitle">Helping readers find the right products through independent testing, honest reviews, and expert guidance you can actually trust.</p>
+    <p class="about-hero-subtitle">Practical goat care advice backed by hands-on experience raising dairy and meat goats. Diet guides, health tips, breeding advice, and answers to every question you didn't know you had.</p>
   </div>
 </section>
 
@@ -54,10 +54,11 @@ const breadcrumbSchema = {
     <div class="mission-grid">
       <div class="mission-content animate-on-scroll">
         <span class="mission-label">Our Mission</span>
-        <h2 class="mission-title">Real testing. Real results. No manufacturer influence.</h2>
-        <p class="mission-text">We started this site because most product reviews are written by people who never actually test what they recommend. They repackage manufacturer specs, slap on a star rating, and call it a day. That's not good enough when you're spending your hard-earned money.</p>
-        <p class="mission-text">We buy every product with our own money, test it for weeks or months, and report the real results. We measure actual performance against what the manufacturer claims and give you the honest truth.</p>
-        <p class="mission-text">No sponsored reviews. No pay-for-placement. Just independent data you can trust to make the right decision.</p>
+        <h2 class="mission-title">Goat care advice from someone who actually raises goats.</h2>
+        <p class="mission-text">We started Goats Authority because most goat care information online is either outdated, incomplete, or written by people who've never mucked out a goat pen. New goat owners deserve better than generic livestock advice repackaged from the 1990s.</p>
+        <p class="mission-text">Every article on this site is grounded in hands-on experience raising Nigerian Dwarf, Nubian, Boer, and Pygmy goats. We cover everything from what's safe to feed your goats to recognizing the early signs of illness, managing breeding cycles, and building proper shelter.</p>
+        <p class="mission-text">Our advice draws from veterinary guidelines, university extension service research, and years of daily goat management. When we say a food is safe or a treatment works, it's because we've seen it firsthand on our own animals.</p>
+        <p class="mission-text">No generic livestock advice. No outdated information. Just practical goat care knowledge you can put to use today.</p>
       </div>
       <div class="stats-grid animate-on-scroll">
         <div class="stat-card">
@@ -65,8 +66,8 @@ const breadcrumbSchema = {
             <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
           </div>
           <div>
-            <div class="stat-number">200+</div>
-            <div class="stat-label">Products Tested</div>
+            <div class="stat-number">399</div>
+            <div class="stat-label">Goat Care Articles</div>
           </div>
         </div>
         <div class="stat-card">
@@ -74,8 +75,8 @@ const breadcrumbSchema = {
             <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
           </div>
           <div>
-            <div class="stat-number">50+</div>
-            <div class="stat-label">Brands Reviewed</div>
+            <div class="stat-number">10</div>
+            <div class="stat-label">Topic Categories</div>
           </div>
         </div>
         <div class="stat-card">
@@ -83,8 +84,8 @@ const breadcrumbSchema = {
             <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
           </div>
           <div>
-            <div class="stat-number">8+</div>
-            <div class="stat-label">Years of Experience</div>
+            <div class="stat-number">10+</div>
+            <div class="stat-label">Years Raising Goats</div>
           </div>
         </div>
       </div>
@@ -99,8 +100,8 @@ const breadcrumbSchema = {
   <div class="container">
     <div class="section-header animate-on-scroll">
       <span class="section-label">What We Cover</span>
-      <h2 class="section-title">Comprehensive Product Coverage</h2>
-      <p class="section-subtitle">We focus on {siteConfig.categories.length} core areas to help you find the best products for your needs.</p>
+      <h2 class="section-title">Everything Goats, Covered</h2>
+      <p class="section-subtitle">We cover {siteConfig.categories.length} core topics to help you raise healthier, happier goats.</p>
     </div>
     <div class="cover-grid">
       {siteConfig.categories.map((cat, i) => {
@@ -114,7 +115,17 @@ const breadcrumbSchema = {
           <div class={`cover-card cover-card--${color} animate-on-scroll`}>
             <div class="cover-card-icon" set:html={icons[i % icons.length]} />
             <h3>{cat.name}</h3>
-            <p>In-depth reviews, comparisons, and buying guides covering everything you need to know about {cat.name.toLowerCase()}. We test every product ourselves so you can buy with confidence.</p>
+            <p>{cat.name === 'Diet' ? 'Complete guides to what goats can and can\'t eat, from fruits and vegetables to hay, grain, and kitchen scraps. Every food is researched for safety and nutritional value.' :
+               cat.name === 'Health' ? 'Recognizing symptoms, treating common illnesses, deworming schedules, vaccination protocols, and when to call a vet. Practical health management for every goat owner.' :
+               cat.name === 'Breeding' ? 'Breed selection, mating management, genetic considerations, and raising kids from birth to weaning. Everything you need to run a successful breeding program.' :
+               cat.name === 'Food' ? 'Goat milk, cheese, meat, and other goat-derived food products. Processing, storage, recipes, and nutritional information for humans.' :
+               cat.name === 'Housing' ? 'Barn design, fencing requirements, shelter specifications, bedding options, and pasture management to keep your goats comfortable and secure.' :
+               cat.name === 'Training' ? 'House training, leash training, behavior correction, and socialization techniques for pet and working goats of all ages.' :
+               cat.name === 'Safety' ? 'Predator protection, toxic plant identification, escape prevention, and general safety guidelines to keep your herd out of danger.' :
+               cat.name === 'Reproduction' ? 'Heat cycles, mating behavior, artificial insemination, fertility management, and understanding goat reproductive health.' :
+               cat.name === 'Pregnancy' ? 'Gestation timelines, prenatal care, birthing preparation, kidding complications, and postnatal care for does and newborn kids.' :
+               cat.name === 'Traits' ? 'Breed characteristics, temperament profiles, size and weight standards, and physical traits to help you choose the right goat for your needs.' :
+               `Practical guides covering everything you need to know about ${cat.name.toLowerCase()} in goat care.`}</p>
           </div>
         );
       })}
@@ -139,8 +150,9 @@ const breadcrumbSchema = {
         <h3 class="founder-name">{siteConfig.author.name}</h3>
         <p class="founder-role">{siteConfig.author.role}</p>
         <p class="founder-bio">{siteConfig.author.bio}</p>
-        <p class="founder-bio">Every review on this site includes real performance data collected through hands-on testing, not just repackaged manufacturer claims. We purchase every product at retail price to ensure completely unbiased results.</p>
-        <p class="founder-quote">"Our readers' trust is worth more than any freebie or sponsorship. That's why every product on this site is purchased with our own money and tested in real-world conditions."</p>
+        <p class="founder-bio">Every article on this site comes from real experience managing goat herds across multiple breeds and climates. I cross-reference my own observations with veterinary literature, university extension publications from institutions like Penn State, Langston University, and Cornell, and guidance from the American Dairy Goat Association (ADGA).</p>
+        <p class="founder-bio">When I write about what goats can eat, it's because I've fed it to my own animals. When I describe a health symptom, it's because I've seen it in my barn. That firsthand experience is what separates Goats Authority from generic livestock websites.</p>
+        <p class="founder-quote">"Goats are smarter, tougher, and more entertaining than most people give them credit for. But they also have specific needs that generic livestock advice doesn't cover. That's why I built this site."</p>
       </div>
     </div>
   </div>
@@ -152,9 +164,9 @@ const breadcrumbSchema = {
 <section class="standards-section">
   <div class="container">
     <div class="section-header animate-on-scroll">
-      <span class="section-label">Our Testing Process</span>
-      <h2 class="section-title">How We Test Every Product</h2>
-      <p class="section-subtitle">Our rigorous testing methodology ensures every recommendation is backed by real data, not guesswork.</p>
+      <span class="section-label">Our Research Process</span>
+      <h2 class="section-title">How We Create Our Content</h2>
+      <p class="section-subtitle">Every article is grounded in real experience and cross-referenced with veterinary and agricultural science.</p>
     </div>
     <div class="standards-grid">
       <div class="standard-card animate-on-scroll">
@@ -162,8 +174,8 @@ const breadcrumbSchema = {
           <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 3h6M12 3v7l6.5 9.5a1 1 0 0 1-.83 1.5H6.33a1 1 0 0 1-.83-1.5L12 10V3"/></svg>
         </div>
         <div>
-          <h3>Independent Testing</h3>
-          <p>We test every product ourselves, measuring actual performance against manufacturer claims. No relying on spec sheets or press releases.</p>
+          <h3>Firsthand Experience</h3>
+          <p>Our feeding guides, health advice, and breeding tips come from years of daily goat management. We write about what we've actually done, not what we've read on other websites.</p>
         </div>
       </div>
       <div class="standard-card animate-on-scroll">
@@ -171,8 +183,8 @@ const breadcrumbSchema = {
           <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
         </div>
         <div>
-          <h3>Long-Term Testing</h3>
-          <p>We don't just test for a day. Most products go through 30 to 90 days of real-world use before we publish our findings. Performance often changes significantly over time.</p>
+          <h3>Veterinary Cross-Reference</h3>
+          <p>We verify our advice against veterinary literature, university extension publications, and ADGA guidelines. When a food or treatment is recommended, it's backed by both experience and science.</p>
         </div>
       </div>
       <div class="standard-card animate-on-scroll">
@@ -180,8 +192,8 @@ const breadcrumbSchema = {
           <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
         </div>
         <div>
-          <h3>We Buy Everything</h3>
-          <p>No free samples, no sponsored reviews. We purchase every product at retail price to ensure completely unbiased results. Our readers' trust is worth more than any freebie.</p>
+          <h3>No Generic Livestock Advice</h3>
+          <p>Goats aren't sheep. They aren't cattle. Generic ruminant advice can be dangerous for goats. Every recommendation on this site is goat-specific, accounting for their unique digestive system, behavior, and nutritional needs.</p>
         </div>
       </div>
       <div class="standard-card animate-on-scroll">
@@ -189,9 +201,40 @@ const breadcrumbSchema = {
           <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
         </div>
         <div>
-          <h3>Regular Re-Testing</h3>
-          <p>Products and formulations change. We re-test our top picks annually to make sure they still perform as expected and update our recommendations accordingly.</p>
+          <h3>Regularly Updated</h3>
+          <p>Veterinary best practices evolve. We revisit our articles regularly and update them with the latest guidance on nutrition, deworming protocols, and health management.</p>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     6. WHY TRUST US
+     ============================================================ -->
+<section class="trust-section">
+  <div class="container">
+    <div class="section-header animate-on-scroll">
+      <span class="section-label">Why Trust Us</span>
+      <h2 class="section-title">Our Editorial Standards</h2>
+      <p class="section-subtitle">Transparency and accuracy are the foundation of everything we publish.</p>
+    </div>
+    <div class="trust-grid">
+      <div class="trust-card animate-on-scroll">
+        <h3>Affiliate Transparency</h3>
+        <p>Some articles contain Amazon affiliate links for goat supplies and equipment. We disclose this on every page. Our recommendations are based on what works for our goats, not on commission rates.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Experience-Based Content</h3>
+        <p>Every feeding guide, health article, and breeding tip comes from managing our own goat herd. We don't write about things we haven't personally dealt with on our own farm.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Veterinary Standards</h3>
+        <p>Our health and nutrition advice is cross-referenced with veterinary guidelines, university extension research, and ADGA standards. When in doubt, we always recommend consulting your vet.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Goat-Specific Focus</h3>
+        <p>We don't write about cattle, sheep, or general livestock. Every article is written specifically for goat owners, accounting for the unique biology, behavior, and needs of goats.</p>
       </div>
     </div>
   </div>
@@ -569,6 +612,15 @@ const breadcrumbSchema = {
   }
 
   /* ============================================================
+     WHY TRUST US
+     ============================================================ */
+  .trust-section { padding: 90px 0; }
+  .trust-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+  .trust-card { background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 32px 28px; box-shadow: var(--shadow-sm); }
+  .trust-card h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 10px; color: var(--accent); }
+  .trust-card p { color: var(--text-secondary); font-size: 14px; line-height: 1.7; }
+
+  /* ============================================================
      RESPONSIVE
      ============================================================ */
   @media (max-width: 1024px) {
@@ -595,5 +647,7 @@ const breadcrumbSchema = {
     .standards-section { padding: 60px 0; }
     .standards-grid { grid-template-columns: 1fr; }
     .standard-card { padding: 24px 20px; }
+    .trust-section { padding: 60px 0; }
+    .trust-grid { grid-template-columns: 1fr; }
   }
 </style>
