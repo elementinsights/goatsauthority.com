@@ -7,7 +7,7 @@ export const siteConfig = {
   logo: "/images/logo.webp",
   tagline: "All You Need to Know About Goats",
   domain: "goatsauthority.com",
-  url: "https://www.goatsauthority.com",
+  url: "https://goatsauthority.com",
 
   // ============================================================
   //  THEME COLORS — Change accent to re-skin the entire site

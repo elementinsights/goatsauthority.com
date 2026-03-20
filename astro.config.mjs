@@ -18,7 +18,7 @@ function rehypeLazyImages() {
 }
 
 export default defineConfig({
-  site: 'https://www.goatsauthority.com',
+  site: 'https://goatsauthority.com',
 
   trailingSlash: 'always',
 
