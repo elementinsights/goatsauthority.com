@@ -41,7 +41,7 @@ faq:
   - question: "What are the risks of feeding hollyhocks to goats?"
     answer: "Hollyhocks are a type of flowering plant that is commonly found in gardens. While they are not poisonous to goats, hollyhocks can cause digestive problems if they are eaten in large quantities."
 ---
-Keeping goats healthy takes consistent attention and the right knowledge. Part of this is knowing what kinds of foods they can and cannot eat.
+Every goat owner faces different challenges depending on their setup. Part of this is knowing what kinds of foods they can and cannot eat.
 
 So, can goats eat hollyhocks? And if so, what are the [benefits and risks](/can-a-goat-eat-sticker-bushes/)?
 

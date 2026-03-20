@@ -41,7 +41,7 @@ faq:
   - question: "How many wheat stalks can a goat eat per day?"
     answer: "A goat may typically consume 4 to 5 percent of its body weight in dry grass per day. That would be roughly 6 to 7.5 pounds of dry fodder for a goat weighing 150 pounds."
 ---
-Running a goat operation means learning something new every week. Watching them grow and explore their surroundings is enjoyable, but knowing what they can and cannot eat is important for their health.
+Practical goat knowledge saves time, money, and heartache. Watching them grow and explore their surroundings is enjoyable, but knowing what they can and cannot eat is important for their health.
 
 So, can goats eat wheat stalks?
 

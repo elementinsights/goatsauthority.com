@@ -37,7 +37,7 @@ faq:
   - question: "What are the benefits and challenges of raising goats for fiber production?"
     answer: "Raising goats for fiber production comes with both benefits and challenges. On the one hand, raising fiber goats can help to provide sustainable and eco-friendly sources of raw materials for textiles and other products."
 ---
-Every goat owner runs into questions about what their herd needs. If you're wondering whether you can raise goats for cashmere and Angola.
+Good goat management starts with solid information. If you're wondering whether you can raise goats for cashmere and Angola.
 
 And if so, what are the things you need to consider before getting started?
 

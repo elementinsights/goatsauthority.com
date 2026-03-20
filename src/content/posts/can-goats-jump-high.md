@@ -37,7 +37,7 @@ faq:
   - question: "What are the risks associated with goats jumping?"
     answer: "There are a few risks associated with goats jumping. One is that they could injure themselves. Goats have been known to break their legs or necks when they jump from high places."
 ---
-Keeping goats healthy takes consistent attention and the right knowledge. Goats are interesting animals with many unique behaviors.
+Good goat management starts with solid information. Goats are interesting animals with many unique behaviors.
 
 One question that often comes up is, can goats jump high? And if so, how high can they jump?
 

@@ -43,7 +43,7 @@ faq:
   - question: "What are the risks of feeding artichokes to goats?"
     answer: "Artichokes are a popular vegetable, praised for their earthy flavor and health benefits. Despite that, artichokes also contain a compound known as Cynarin. When consumed in large quantities, Cynarin can cause liver damage and gastrointestinal problems in goats."
 ---
-Every goat owner runs into questions about what their herd needs. But as any good goat owner knows, what your goats eat is important for their health and well-being.
+Every goat owner faces different challenges depending on their setup. But as any good goat owner knows, what your goats eat is important for their health and well-being.
 
 So, can goats eat artichokes?
 
