@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-10
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-drink-goat-milk-while-pregnant.webp"
 imageAlt: "Can You Drink Goat Milk While Pregnant?"
 readTime: "6 min read"

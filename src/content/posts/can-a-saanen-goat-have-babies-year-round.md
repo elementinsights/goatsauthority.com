@@ -1,11 +1,11 @@
 ---
 title: "Can a Saanen Goat Have Babies Year round? (Nursing Facts, Tips, and FAQs)"
 description: "Taking care of goats can be a lot of fun, but it's also a big responsibility. If you're thinking about getting a goat, one of the first things you'll need to decide is whether you want a dairy or meat breed."
-category: "pregnancy"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-08-24
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-saanen-goat-have-babies-year-round.webp"
 imageAlt: "Can a Saanen Goat Have Babies Year round?"
 readTime: "7 min read"

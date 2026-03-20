@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-12-13
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-old-goats-develop-rickets.webp"
 imageAlt: "Can Old Goats Develop Rickets?"
 readTime: "6 min read"

@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat Bag Up Without Being Pregnant? (Signs, Symptoms, FAQs & More)"
 description: "There are many myths about goats. We'll debunk some myths and answer the question, \"Can a goat bag up without being pregnant?\" And also, we will explore the"
-category: "reproduction"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-07-28
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-bag-up-without-being-pregnant.webp"
 imageAlt: "Can a Goat Bag Up Without Being Pregnant?"
 readTime: "7 min read"

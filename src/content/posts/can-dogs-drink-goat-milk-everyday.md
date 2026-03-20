@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-dogs-drink-goat-milk-everyday.webp"
 imageAlt: "Can Dogs Drink Goat Milk Everyday?"
 readTime: "6 min read"

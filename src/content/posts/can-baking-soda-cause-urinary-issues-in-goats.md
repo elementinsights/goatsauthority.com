@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-28
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-baking-soda-cause-urinary-issues-in-goats.webp"
 imageAlt: "Can Baking Soda Cause Urinary Issues in Goats?"
 readTime: "6 min read"

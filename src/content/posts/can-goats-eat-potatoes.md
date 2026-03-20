@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-23
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-potatoes.webp"
 imageAlt: "Can Goats Eat Potatoes?"
 readTime: "11 min read"

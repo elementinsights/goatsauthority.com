@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-29
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-wash-and-groom-a-pygmy-goat.webp"
 imageAlt: "Can I Wash And Groom A Pygmy Goat?"
 readTime: "6 min read"

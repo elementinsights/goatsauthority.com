@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goat-milk-cause-acne.webp"
 imageAlt: "Can Goat Milk Cause Acne?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-08-29
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-children-have-goat-milk-ayurveda.webp"
 imageAlt: "Can Children Have Goat Milk Ayurveda?"
 readTime: "6 min read"

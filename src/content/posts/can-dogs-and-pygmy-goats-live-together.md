@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-08-31
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-dogs-and-pygmy-goats-live-together.webp"
 imageAlt: "Can Dogs and Pygmy Goats Live Together?"
 readTime: "6 min read"

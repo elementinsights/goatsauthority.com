@@ -30,9 +30,6 @@ export const siteConfig = {
     { name: "Housing", slug: "housing", image: "/images/category/housing.jpg" },
     { name: "Training", slug: "training", image: "/images/category/training.jpg" },
     { name: "Safety", slug: "safety", image: "/images/category/safety.jpg" },
-    { name: "Reproduction", slug: "reproduction", image: "/images/category/reproduction.jpg" },
-    { name: "Pregnancy", slug: "pregnancy", image: "/images/category/pregnancy.jpg" },
-    { name: "Traits", slug: "traits", image: "/images/category/traits.jpg" },
   ],
 
   // ============================================================
@@ -60,10 +57,10 @@ export const siteConfig = {
   //  AUTHOR (default)
   // ============================================================
   author: {
-    name: "Tim Rhodes",
-    initial: "T",
+    name: "Jake Holloway",
+    initial: "J",
     role: "Founder & Goat Husbandry Specialist",
-    bio: "Tim has spent over a decade raising dairy and meat goats on small acreage. From bottle-feeding newborn kids to managing breeding programs and treating common health issues, he\'s handled every aspect of goat ownership firsthand. He built Goats Authority to give goat owners the practical, experience-based advice that\'s hard to find online.",
+    bio: "Jake has spent over a decade raising dairy and meat goats on small acreage. From bottle-feeding newborn kids to managing breeding programs and treating common health issues, he\'s handled every aspect of goat ownership firsthand. He built Goats Authority to give goat owners the practical, experience-based advice that\'s hard to find online.",
   },
 
   // ============================================================

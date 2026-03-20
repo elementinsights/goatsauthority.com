@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-12-18
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-postpartum-women-eat-goats.webp"
 imageAlt: "Can Postpartum Women Eat Goats?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-07-27
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-cdt-shot-kill-a-goat.webp"
 imageAlt: "Can a CDT Shot Kill a Goat?"
 readTime: "6 min read"

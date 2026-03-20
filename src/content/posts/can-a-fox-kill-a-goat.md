@@ -5,7 +5,7 @@ category: "safety"
 postType: "guide"
 publishDate: 2022-07-28
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-fox-kill-a-goat.webp"
 imageAlt: "Can a Fox Kill a Goat?"
 readTime: "6 min read"

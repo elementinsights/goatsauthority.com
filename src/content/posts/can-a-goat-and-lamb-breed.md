@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat and Lamb Breed? (Are Geeps Actually Real?)"
 description: "Goat and lamb breeding is a topic on which many people have questions. We will delve into the subject in-depth and address some of the most frequent queries in this article."
-category: "reproduction"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-07-28
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-and-lamb-breed.webp"
 imageAlt: "Can a Goat and Lamb Breed?"
 readTime: "7 min read"

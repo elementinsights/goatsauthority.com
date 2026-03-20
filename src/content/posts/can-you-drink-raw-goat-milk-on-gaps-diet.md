@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2023-02-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-drink-raw-goat-milk-on-gaps-diet.webp"
 imageAlt: "Can You Drink Raw Goat Milk On Gaps Diet?"
 readTime: "7 min read"

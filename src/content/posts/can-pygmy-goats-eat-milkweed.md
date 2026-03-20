@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-12-23
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-pygmy-goats-eat-milkweed.webp"
 imageAlt: "Can Pygmy Goats Eat Milkweed?"
 readTime: "6 min read"

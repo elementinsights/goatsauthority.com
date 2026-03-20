@@ -5,7 +5,7 @@ category: "training"
 postType: "guide"
 publishDate: 2022-10-03
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-jump-high.webp"
 imageAlt: "Can Goats Jump High?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-03
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/do-goats-have-top-teeth.webp"
 imageAlt: "Do Goats Have Top Teeth?"
 readTime: "6 min read"

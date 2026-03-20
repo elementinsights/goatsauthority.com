@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2023-01-13
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-breed-a-4yr-old-goat.webp"
 imageAlt: "Can You Breed A 4yr Old Goat?"
 readTime: "6 min read"

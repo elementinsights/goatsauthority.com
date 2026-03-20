@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-12-31
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-someone-get-cellulitis-from-a-goat-with-mastitis.webp"
 imageAlt: "Can Someone Get Cellulitis From A Goat With Mastitis?"
 readTime: "6 min read"

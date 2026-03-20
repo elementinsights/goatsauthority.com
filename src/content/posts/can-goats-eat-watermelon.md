@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-03
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-watermelon.webp"
 imageAlt: "Can Goats Eat Watermelon?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-11-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-in-the-city-of-lorain-ohio.webp"
 imageAlt: "Can I Have Goats In The City Of Lorain Ohio?"
 readTime: "7 min read"

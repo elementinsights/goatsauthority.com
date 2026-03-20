@@ -88,14 +88,11 @@ const popularLinks = siteConfig.footerPopularLinks || [];
             <h3>I Need {cat.name}</h3>
             <p>{cat.name === 'Diet' ? 'Complete guides to what goats can and can\'t eat, from fruits and hay to kitchen scraps and toxic plants.' :
                cat.name === 'Health' ? 'Symptoms, treatments, deworming, vaccinations, and when to call the vet.' :
-               cat.name === 'Breeding' ? 'Breed selection, mating, genetics, and raising kids from birth.' :
+               cat.name === 'Breeding' ? 'Breed selection, mating, genetics, reproduction, pregnancy, kidding, and raising kids from birth.' :
                cat.name === 'Food' ? 'Goat milk, cheese, meat products, and recipes for humans.' :
                cat.name === 'Housing' ? 'Barn design, fencing, shelter, bedding, and pasture management.' :
-               cat.name === 'Training' ? 'House training, leash training, and behavior correction for pet goats.' :
+               cat.name === 'Training' ? 'House training, leash training, behavior correction, breed traits, and temperament.' :
                cat.name === 'Safety' ? 'Predator protection, toxic plants, and escape prevention.' :
-               cat.name === 'Reproduction' ? 'Heat cycles, mating behavior, fertility, and reproductive health.' :
-               cat.name === 'Pregnancy' ? 'Gestation, prenatal care, kidding, and postnatal care.' :
-               cat.name === 'Traits' ? 'Breed profiles, temperament, size standards, and choosing the right goat.' :
                `Everything you need to know about ${cat.name.toLowerCase()} in goat care.`}</p>
             <span class="sh-path-link">Explore {cat.name} &rarr;</span>
           </a>
@@ -148,69 +145,75 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 </section>
 
 <!-- ============================================================
-     5. MOST POPULAR GUIDES
+     5. BROWSE BY TOPIC
      ============================================================ -->
 <section class="sh-guides">
   <div class="container">
-    <h2 class="sh-section-title animate-on-scroll">Most Popular Guides</h2>
-    <p class="sh-section-subtitle animate-on-scroll">Our readers' favorites &mdash; the posts people come back to again and again.</p>
+    <h2 class="sh-section-title animate-on-scroll">Browse by Topic</h2>
+    <p class="sh-section-subtitle animate-on-scroll">Dive into the topics that matter most to goat owners.</p>
     <div class="sh-guides-groups">
 
-      {/* Group 1: Top Picks — first 2 footer links */}
+      {/* Group 1: Feeding & Nutrition */}
       <div class="animate-on-scroll">
-        <span class="sh-guide-group-label sh-guide-group-label--top-picks">Top Picks</span>
+        <span class="sh-guide-group-label sh-guide-group-label--top-picks">Feeding &amp; Nutrition</span>
         <div class="sh-guide-list">
-          {popularLinks.slice(0, 2).map(link => (
-            <a href={link.href} class="sh-guide-item">
-              <div class="sh-guide-item-title">{link.name}</div>
-              {link.desc && <div class="sh-guide-item-desc">{link.desc}</div>}
-            </a>
-          ))}
-          {siteConfig.categories.map(cat => (
-            <a href={`/category/${cat.slug}`} class="sh-guide-item">
-              <div class="sh-guide-item-title">Best {cat.name} of {new Date().getFullYear()}</div>
-              <div class="sh-guide-item-desc">Our top-tested {cat.name.toLowerCase()} picks across every type and budget.</div>
-            </a>
-          ))}
-        </div>
-      </div>
-
-      {/* Group 2: Reviews & Comparisons — next 2 footer links + categories */}
-      <div class="animate-on-scroll">
-        <span class="sh-guide-group-label sh-guide-group-label--reviews">Reviews &amp; Comparisons</span>
-        <div class="sh-guide-list">
-          {popularLinks.slice(2, 5).map(link => (
-            <a href={link.href} class="sh-guide-item">
-              <div class="sh-guide-item-title">{link.name}</div>
-              {link.desc && <div class="sh-guide-item-desc">{link.desc}</div>}
-            </a>
-          ))}
-          {siteConfig.categories.slice(0, 2).map(cat => (
-            <a href={`/category/${cat.slug}`} class="sh-guide-item">
-              <div class="sh-guide-item-title">{cat.name} Reviews</div>
-              <div class="sh-guide-item-desc">Head-to-head comparisons of the top brands.</div>
-            </a>
-          ))}
-        </div>
-      </div>
-
-      {/* Group 3: Learn — about + category pages */}
-      <div class="animate-on-scroll">
-        <span class="sh-guide-group-label sh-guide-group-label--learn">Learn</span>
-        <div class="sh-guide-list">
-          <a href="/about" class="sh-guide-item">
-            <div class="sh-guide-item-title">About {siteConfig.name}</div>
-            <div class="sh-guide-item-desc">Our mission, testing process, and the team behind the reviews.</div>
+          <a href="/category/what-do-goats-eat" class="sh-guide-item">
+            <div class="sh-guide-item-title">Goat Diet Guide</div>
+            <div class="sh-guide-item-desc">163 articles covering every food goats can and can't eat, from fruits and vegetables to hay, grains, and common kitchen scraps. Each guide includes safety info, portion sizes, and potential risks.</div>
           </a>
-          {siteConfig.categories.map(cat => (
-            <a href={`/category/${cat.slug}`} class="sh-guide-item">
-              <div class="sh-guide-item-title">{cat.name} Buying Guide</div>
-              <div class="sh-guide-item-desc">Everything you need to know about choosing the right {cat.name.toLowerCase()}.</div>
-            </a>
-          ))}
-          <a href="/contact" class="sh-guide-item">
-            <div class="sh-guide-item-title">Contact Us</div>
-            <div class="sh-guide-item-desc">Have a question or feedback? We'd love to hear from you.</div>
+          <a href="/what-kind-of-hay-do-goats-eat/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Hay &amp; Forage Basics</div>
+            <div class="sh-guide-item-desc">Timothy, alfalfa, orchard grass, and more. Learn which hay types are best for different ages and breeds, how much to feed, and what to avoid.</div>
+          </a>
+          <a href="/can-goats-eat-chocolate/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Toxic Foods to Avoid</div>
+            <div class="sh-guide-item-desc">Chocolate, avocado, onions, and other common foods that can make your goat seriously sick. Know the warning signs before it's too late.</div>
+          </a>
+        </div>
+      </div>
+
+      {/* Group 2: Health & Wellness */}
+      <div class="animate-on-scroll">
+        <span class="sh-guide-group-label sh-guide-group-label--reviews">Health &amp; Wellness</span>
+        <div class="sh-guide-list">
+          <a href="/category/health" class="sh-guide-item">
+            <div class="sh-guide-item-title">Goat Health Hub</div>
+            <div class="sh-guide-item-desc">102 articles on symptoms, diseases, medications, and preventive care. From deworming schedules to emergency treatments, find answers to your goat health questions.</div>
+          </a>
+          <a href="/can-a-cdt-shot-kill-a-goat/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Vaccinations &amp; CDT Shots</div>
+            <div class="sh-guide-item-desc">Everything you need to know about the CDT vaccine, dosing, timing, side effects, and why it's essential for every goat herd.</div>
+          </a>
+          <a href="/can-you-deworm-a-pregnant-goat/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Deworming &amp; Parasites</div>
+            <div class="sh-guide-item-desc">Safe deworming protocols for kids, pregnant does, and adult goats. Includes ivermectin, fenbendazole, and natural alternatives.</div>
+          </a>
+        </div>
+      </div>
+
+      {/* Group 3: Breeding, Housing & More */}
+      <div class="animate-on-scroll">
+        <span class="sh-guide-group-label sh-guide-group-label--learn">Ownership &amp; Care</span>
+        <div class="sh-guide-list">
+          <a href="/category/breeding" class="sh-guide-item">
+            <div class="sh-guide-item-title">Breeding, Reproduction &amp; Pregnancy</div>
+            <div class="sh-guide-item-desc">Breed profiles, crossbreeding compatibility, genetics, heat cycles, mating, gestation, kidding, and raising kids from birth. Plus local zoning guides for keeping goats in your area.</div>
+          </a>
+          <a href="/category/housing" class="sh-guide-item">
+            <div class="sh-guide-item-title">Housing &amp; Shelter</div>
+            <div class="sh-guide-item-desc">Barn sizing, fencing solutions, bedding options, pasture management, and cohabitation with other animals like chickens, pigs, and dogs.</div>
+          </a>
+          <a href="/category/training" class="sh-guide-item">
+            <div class="sh-guide-item-title">Training &amp; Behavior</div>
+            <div class="sh-guide-item-desc">House training, leash training, managing aggression, and building a bond with your goats. Practical tips for pet goat owners and farmers alike.</div>
+          </a>
+          <a href="/category/safety" class="sh-guide-item">
+            <div class="sh-guide-item-title">Safety &amp; Protection</div>
+            <div class="sh-guide-item-desc">Predator prevention, fencing solutions, toxic plant identification, and keeping your goats safe from foxes, raccoons, and other threats.</div>
+          </a>
+          <a href="/about" class="sh-guide-item">
+            <div class="sh-guide-item-title">About Goats Authority</div>
+            <div class="sh-guide-item-desc">Meet Jake Holloway and learn why he built this site after a decade of hands-on goat raising experience.</div>
           </a>
         </div>
       </div>

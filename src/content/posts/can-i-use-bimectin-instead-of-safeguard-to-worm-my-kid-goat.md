@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-19
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat.webp"
 imageAlt: "Can I Use Bimectin Instead Of Safeguard To Worm My Kid Goat?"
 readTime: "6 min read"

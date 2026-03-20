@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-07-26
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-cat-drink-goats-milk.webp"
 imageAlt: "Can a Cat Drink Goats Milk?"
 readTime: "7 min read"

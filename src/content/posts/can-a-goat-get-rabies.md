@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-get-rabies.webp"
 imageAlt: "Can a Goat Get Rabies?"
 readTime: "6 min read"

@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat Feed Quads? (Feeding facts, Tips, and FAQs)"
 description: "One of the most frequent inquiries regarding goats is whether or not they can feed quads. We shall delve into the subject of feeding goats in this article and respond to some of the most frequently posed queries."
-category: "reproduction"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-08-01
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-feed-quads.webp"
 imageAlt: "Can a Goat Feed Quads?"
 readTime: "7 min read"

@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-11-13
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-remove-my-goat-full-grown-horns.webp"
 imageAlt: "Can I Remove My Goat Full Grown Horns?"
 readTime: "8 min read"

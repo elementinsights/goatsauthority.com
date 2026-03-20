@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-15
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-everything.webp"
 imageAlt: "Can Goats Eat Everything?"
 readTime: "6 min read"

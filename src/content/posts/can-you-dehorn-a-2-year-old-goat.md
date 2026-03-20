@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-21
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-dehorn-a-2-year-old-goat.webp"
 imageAlt: "Can You Dehorn A 2 Year Old Goat?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-14
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-give-baby-aspirin-to-my-baby-goat.webp"
 imageAlt: "Can I Give Baby Aspirin To My Baby Goat?"
 readTime: "6 min read"

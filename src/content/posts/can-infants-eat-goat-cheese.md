@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-12-01
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-infants-eat-goat-cheese.webp"
 imageAlt: "Can Infants Eat Goat Cheese?"
 readTime: "6 min read"

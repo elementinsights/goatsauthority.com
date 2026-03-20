@@ -1,11 +1,11 @@
 ---
 title: "Can The Same Litter Of Goats Have Different Fathers? (Breeding Facts & FAQs)"
 description: "Taking care of a family of goats can be a lot of fun. If you're thinking about breeding your goats, you may be wondering if the same litter of goats can have different fathers. And if so, what are the things you need to consider?"
-category: "reproduction"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-12-28
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-the-same-litter-of-goats-have-different-fathers.webp"
 imageAlt: "Can The Same Litter Of Goats Have Different Fathers?"
 readTime: "7 min read"

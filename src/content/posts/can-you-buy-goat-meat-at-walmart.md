@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2023-01-17
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-buy-goat-meat-at-walmart.webp"
 imageAlt: "Can You Buy Goat Meat At Walmart?"
 readTime: "6 min read"

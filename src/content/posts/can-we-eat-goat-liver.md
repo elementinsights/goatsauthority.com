@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2023-01-07
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-we-eat-goat-liver.webp"
 imageAlt: "Can We Eat Goat Liver?"
 readTime: "6 min read"

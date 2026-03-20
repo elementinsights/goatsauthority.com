@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2023-01-11
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-band-a-goat-at-3-years-old.webp"
 imageAlt: "Can You Band A Goat At 3 Years Old?"
 readTime: "6 min read"

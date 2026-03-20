@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-10-04
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-milk-be-frozen.webp"
 imageAlt: "Can Goats Milk Be Frozen?"
 readTime: "6 min read"

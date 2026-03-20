@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-10-12
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-eat-goat-intestine-during-pregnancy.webp"
 imageAlt: "Can I Eat Goat Intestine During Pregnancy?"
 readTime: "6 min read"

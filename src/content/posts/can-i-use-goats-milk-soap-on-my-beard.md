@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-use-goats-milk-soap-on-my-beard.webp"
 imageAlt: "Can I Use Goats Milk Soap On My Beard?"
 readTime: "6 min read"

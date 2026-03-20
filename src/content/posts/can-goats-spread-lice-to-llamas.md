@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-06
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-spread-lice-to-llamas.webp"
 imageAlt: "Can Goats Spread Lice To Llamas?"
 readTime: "6 min read"

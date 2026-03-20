@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-10-31
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-have-goats-in-monroe-county-ny.webp"
 imageAlt: "Can I Have Goats In Monroe County NY?"
 readTime: "6 min read"

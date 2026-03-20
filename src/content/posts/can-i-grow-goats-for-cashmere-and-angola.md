@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-10-26
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-grow-goats-for-cashmere-and-angola.webp"
 imageAlt: "Can I Grow Goats For Cashmere And Angola?"
 readTime: "7 min read"

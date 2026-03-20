@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-06-30
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-rottweilers-drink-goat-milk.webp"
 imageAlt: "Can Rottweilers Drink Goat Milk?"
 readTime: "6 min read"

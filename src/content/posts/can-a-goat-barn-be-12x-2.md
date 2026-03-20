@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-07-29
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-barn-be-12x-2.webp"
 imageAlt: "Can a Goat Barn be 12x 2?"
 readTime: "7 min read"

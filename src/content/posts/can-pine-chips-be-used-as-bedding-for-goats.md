@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-12-17
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-pine-chips-be-used-as-bedding-for-goats.webp"
 imageAlt: "Can Pine Chips Be Used As Bedding For Goats?"
 readTime: "6 min read"

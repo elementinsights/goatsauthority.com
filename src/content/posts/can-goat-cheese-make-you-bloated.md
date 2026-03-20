@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-09-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goat-cheese-make-you-bloated.webp"
 imageAlt: "Can Goat Cheese Make You Bloated?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "safety"
 postType: "guide"
 publishDate: 2022-12-16
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-people-ride-goats.webp"
 imageAlt: "Can People Ride Goats?"
 readTime: "6 min read"

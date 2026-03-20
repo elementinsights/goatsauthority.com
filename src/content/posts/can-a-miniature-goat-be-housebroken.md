@@ -5,7 +5,7 @@ category: "training"
 postType: "guide"
 publishDate: 2022-08-23
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-miniature-goat-be-housebroken.webp"
 imageAlt: "Can a Miniature Goat be Housebroken?"
 readTime: "6 min read"

@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-persicaria-perfoliata.webp"
 imageAlt: "Can Goats Eat Persicaria Perfoliata?"
 readTime: "6 min read"

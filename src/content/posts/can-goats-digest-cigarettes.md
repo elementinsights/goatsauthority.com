@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-08
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-digest-cigarettes.webp"
 imageAlt: "Can Goats Digest Cigarettes?"
 readTime: "7 min read"

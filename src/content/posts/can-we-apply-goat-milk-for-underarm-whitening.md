@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-07
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-we-apply-goat-milk-for-underarm-whitening.webp"
 imageAlt: "Can We Apply Goat Milk For Underarm Whitening?"
 readTime: "6 min read"

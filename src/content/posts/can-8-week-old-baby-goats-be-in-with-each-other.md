@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-07-25
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-8-week-old-baby-goats-be-in-with-each-other.webp"
 imageAlt: "Can 8 Week Old Baby Goats Be in With Each Other?"
 readTime: "9 min read"

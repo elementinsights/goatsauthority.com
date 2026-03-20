@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-13
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-give-goat-trazodone.webp"
 imageAlt: "Can I Give Goat Trazodone?"
 readTime: "6 min read"

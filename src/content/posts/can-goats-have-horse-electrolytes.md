@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-have-horse-electrolytes.webp"
 imageAlt: "Can Goats Have Horse Electrolytes?"
 readTime: "6 min read"

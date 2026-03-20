@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-25
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-give-powdered-goat-milk-to-sick-baby-goats.webp"
 imageAlt: "Can I Give Powdered Goat Milk To Sick Baby Goats?"
 readTime: "7 min read"

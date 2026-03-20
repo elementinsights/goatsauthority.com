@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-11-14
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-sell-goat-milk-butter.webp"
 imageAlt: "Can I Sell Goat Milk Butter?"
 readTime: "8 min read"

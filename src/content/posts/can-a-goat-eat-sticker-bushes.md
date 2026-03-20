@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-01
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-eat-sticker-bushes.webp"
 imageAlt: "Can a Goat Eat Sticker Bushes?"
 readTime: "7 min read"

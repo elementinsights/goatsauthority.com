@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2023-01-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-the-federal-government-use-goats-to-clear-federal-lands.webp"
 imageAlt: "Can The Federal Government Use Goats To Clear Federal Lands?"
 readTime: "7 min read"

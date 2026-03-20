@@ -5,7 +5,7 @@ category: "safety"
 postType: "guide"
 publishDate: 2022-09-05
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting.webp"
 imageAlt: "Can Goats And Cows Graze In The Same Field At The Same Time Without Fighting?"
 readTime: "6 min read"

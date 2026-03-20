@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-26
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-baby-goats-have-any-electrolytes.webp"
 imageAlt: "Can Baby Goats Have Any Electrolytes?"
 readTime: "6 min read"

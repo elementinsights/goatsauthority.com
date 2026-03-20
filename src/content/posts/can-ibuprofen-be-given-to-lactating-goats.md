@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-30
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-ibuprofen-be-given-to-lactating-goats.webp"
 imageAlt: "Can Ibuprofen Be Given To Lactating Goats?"
 readTime: "6 min read"

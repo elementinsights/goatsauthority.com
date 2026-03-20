@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-20
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-debloat-a-goat.webp"
 imageAlt: "Can You Debloat A Goat?"
 readTime: "6 min read"

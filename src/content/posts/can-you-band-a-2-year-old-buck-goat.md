@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2023-01-11
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-band-a-2-year-old-buck-goat.webp"
 imageAlt: "Can You Band A 2 Year Old Buck Goat?"
 readTime: "6 min read"

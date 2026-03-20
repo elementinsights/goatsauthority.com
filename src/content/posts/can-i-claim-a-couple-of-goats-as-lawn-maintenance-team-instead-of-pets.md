@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-10-11
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets.webp"
 imageAlt: "Can I Claim A Couple Of Goats As Lawn Maintenance Team Instead Of Pets?"
 readTime: "6 min read"

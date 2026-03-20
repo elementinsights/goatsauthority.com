@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-produce-milk-but-also-be-a-pack-goat.webp"
 imageAlt: "Can a Goat Produce Milk But Also be a Pack Goat?"
 readTime: "6 min read"

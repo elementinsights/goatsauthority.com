@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-17
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-treat-coccidia-in-goats-in-their-water-bowl.webp"
 imageAlt: "Can I Treat Coccidia In Goats In Their Water Bowl?"
 readTime: "7 min read"

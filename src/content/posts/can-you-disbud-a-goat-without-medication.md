@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-01
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-disbud-a-goat-without-medication.webp"
 imageAlt: "Can You Disbud A Goat Without Medication?"
 readTime: "6 min read"

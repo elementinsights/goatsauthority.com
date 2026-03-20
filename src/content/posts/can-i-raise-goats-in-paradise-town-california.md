@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-11-12
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-raise-goats-in-paradise-town-california.webp"
 imageAlt: "Can I Raise Goats In Paradise Town California?"
 readTime: "7 min read"

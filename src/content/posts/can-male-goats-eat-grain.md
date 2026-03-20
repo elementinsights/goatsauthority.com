@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-12-04
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-male-goats-eat-grain.webp"
 imageAlt: "Can Male Goats Eat Grain?"
 readTime: "6 min read"

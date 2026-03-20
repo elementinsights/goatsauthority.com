@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-08
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-die-from-lymes.webp"
 imageAlt: "Can Goats Die From Lymes?"
 readTime: "6 min read"

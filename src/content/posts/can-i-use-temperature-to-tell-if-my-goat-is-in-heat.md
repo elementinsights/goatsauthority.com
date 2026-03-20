@@ -1,11 +1,11 @@
 ---
 title: "Can I Use Temperature To Tell If My Goat Is In Heat? (Nursing Facts, FAQs & More)"
 description: "You may be wondering whether you can use temperature to tell if your goat is in heat or not. And if so, what are the things you need to consider?"
-category: "reproduction"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-11-26
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-use-temperature-to-tell-if-my-goat-is-in-heat.webp"
 imageAlt: "Can I Use Temperature To Tell If My Goat Is In Heat?"
 readTime: "6 min read"

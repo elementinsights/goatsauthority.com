@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-05
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-drink-milk-from-goats-with-mastitis.webp"
 imageAlt: "Can You Drink Milk From Goats With Mastitis?"
 readTime: "6 min read"

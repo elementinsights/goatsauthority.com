@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-alpacas-have-nutri-drench-for-goats.webp"
 imageAlt: "Can Alpacas Have Nutri Drench for Goats?"
 readTime: "6 min read"

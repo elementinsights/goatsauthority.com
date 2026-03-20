@@ -1,11 +1,11 @@
 ---
 title: "Can a Pregnant Goat Have Penicillin? (Potential Risks, Benefits and FAQs )"
 description: "When it comes to a pregnant goat, making sure that it has the proper nutrition is extremely important. This means that you need to pay attention to what you feed her and how much of it."
-category: "pregnancy"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-07-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-pregnant-goat-have-penicillin.webp"
 imageAlt: "Can a Pregnant Goat Have Penicillin?"
 readTime: "8 min read"

@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-11-09
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-own-goats-in-medford-oregon.webp"
 imageAlt: "Can I Own Goats In Medford, Oregon?"
 readTime: "7 min read"

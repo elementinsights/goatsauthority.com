@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-10-04
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-live-in-an-urban-environment.webp"
 imageAlt: "Can Goats Live In An Urban Environment?"
 readTime: "7 min read"

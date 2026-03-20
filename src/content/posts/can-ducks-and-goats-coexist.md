@@ -5,7 +5,7 @@ category: "housing"
 postType: "guide"
 publishDate: 2022-09-05
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-ducks-and-goats-coexist.webp"
 imageAlt: "Can Ducks and Goats Coexist?"
 readTime: "6 min read"

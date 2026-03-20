@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-30
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-contact-with-goats-cause-diarrhea-in-humans.webp"
 imageAlt: "Can Contact With Goats Cause Diarrhea in Humans?"
 readTime: "6 min read"

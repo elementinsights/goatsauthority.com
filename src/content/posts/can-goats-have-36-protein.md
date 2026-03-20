@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-29
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-have-36-protein.webp"
 imageAlt: "Can Goats Have 36 Protein Block?"
 readTime: "7 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-07
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-carry-distemper.webp"
 imageAlt: "Can Goats Carry Distemper?"
 readTime: "6 min read"

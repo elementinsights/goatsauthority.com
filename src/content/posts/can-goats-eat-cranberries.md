@@ -5,7 +5,7 @@ category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-29
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-eat-cranberries.jpg"
 imageAlt: "Can Goats Eat Cranberries?"
 readTime: "9 min read"

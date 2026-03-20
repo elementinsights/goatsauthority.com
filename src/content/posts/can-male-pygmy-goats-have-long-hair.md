@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-12-05
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-male-pygmy-goats-have-long-hair.webp"
 imageAlt: "Can Male Pygmy Goats Have Long Hair?"
 readTime: "6 min read"

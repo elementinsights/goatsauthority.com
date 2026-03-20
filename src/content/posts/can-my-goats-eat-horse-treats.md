@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-12-08
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-my-goats-eat-horse-treats.webp"
 imageAlt: "Can My Goats Eat Horse Treats?"
 readTime: "6 min read"

@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat Climb Trees? (Everything You Need To Know)"
 description: "Can a goat climb trees? It's a valid question, considering that these animals are known for their ability to scale steep mountain slopes and reach heights that would make most humans queasy."
-category: "traits"
+category: "training"
 postType: "guide"
 publishDate: 2022-07-30
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-climb-trees.webp"
 imageAlt: "Can a Goat Climb Trees?"
 readTime: "7 min read"

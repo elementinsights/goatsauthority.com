@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-10-15
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/where-did-kiko-goats-originate.webp"
 imageAlt: "Where Did Kiko Goats Originate?"
 readTime: "7 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-18
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-catch-diseases-from-goats.webp"
 imageAlt: "Can You Catch Diseases From Goats?"
 readTime: "6 min read"

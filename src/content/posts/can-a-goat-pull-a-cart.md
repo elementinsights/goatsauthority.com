@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat Pull a Cart? (Farming Tips, FAQs, and More)"
 description: "Farmers have long used animals to help with farming tasks, from plowing fields to pulling carts. But can a goat really pull a cart? And if so, how do you go about it?"
-category: "traits"
+category: "training"
 postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-pull-a-cart.webp"
 imageAlt: "Can a Goat Pull a Cart?"
 readTime: "7 min read"

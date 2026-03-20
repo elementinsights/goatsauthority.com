@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-toddler-catch-a-disease-from-a-baby-goat.webp"
 imageAlt: "Can a Toddler Catch a Disease from a Baby Goat?"
 readTime: "6 min read"

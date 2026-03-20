@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-03
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-too-much-field-time-cause-scours-in-goats.webp"
 imageAlt: "Can Too Much Field Time Cause Scours In Goats"
 readTime: "6 min read"

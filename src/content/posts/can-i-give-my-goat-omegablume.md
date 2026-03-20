@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-21
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-give-my-goat-omegablume.webp"
 imageAlt: "Can I Give My Goat Omegablume?"
 readTime: "6 min read"

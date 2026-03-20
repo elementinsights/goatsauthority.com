@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-10-10
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-horses-drink-water-that-has-goat-poop-in-it.webp"
 imageAlt: "Can Horses Drink Water That Has Goat Poop In It?"
 readTime: "6 min read"

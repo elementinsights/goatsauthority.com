@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2023-01-10
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-you-band-an-adult-goats-horns-to-dehorn-them.webp"
 imageAlt: "Can You Band An Adult Goats Horns To Dehorn Them?"
 readTime: "6 min read"

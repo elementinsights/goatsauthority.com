@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-12-31
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-someone-allergic-to-milk-use-goats-milk.webp"
 imageAlt: "Can Someone Allergic To Milk Use Goats Milk?"
 readTime: "7 min read"

@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-09-08
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-goats-die-from-their-own-horns-grow-into-heads.webp"
 imageAlt: "Can Goats Die From Their Own Horns Grow Into Heads?"
 readTime: "7 min read"

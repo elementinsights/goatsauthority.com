@@ -1,11 +1,11 @@
 ---
 title: "Can a Goat Miscarry One Kid and Still be Pregnant? (Nursing Tips, FAQs, and More)"
 description: "You might be wondering whether it's possible for a goat to miscarry one kid and still be pregnant or not. And if so, what are the chances?"
-category: "pregnancy"
+category: "breeding"
 postType: "guide"
 publishDate: 2022-08-22
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-goat-miscarry-one-kid-and-still-be-pregnant.webp"
 imageAlt: "Can a Goat Miscarry One Kid and Still be Pregnant?"
 readTime: "6 min read"

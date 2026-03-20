@@ -5,7 +5,7 @@ category: "training"
 postType: "guide"
 publishDate: 2022-08-25
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-an-aggressive-goat-be-fixed.webp"
 imageAlt: "Can an Aggressive Goat be Fixed?"
 readTime: "6 min read"

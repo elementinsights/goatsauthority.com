@@ -5,7 +5,7 @@ category: "health"
 postType: "guide"
 publishDate: 2022-11-10
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-i-put-neosporin-on-my-goats.webp"
 imageAlt: "Can I Put Neosporin On My Goats?"
 readTime: "7 min read"

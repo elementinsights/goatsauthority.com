@@ -5,7 +5,7 @@ category: "breeding"
 postType: "guide"
 publishDate: 2022-08-23
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-a-horse-get-attached-to-a-goat.webp"
 imageAlt: "Can a Horse Get Attached to a Goat?"
 readTime: "7 min read"

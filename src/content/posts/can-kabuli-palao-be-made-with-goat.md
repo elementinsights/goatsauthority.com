@@ -5,7 +5,7 @@ category: "food"
 postType: "guide"
 publishDate: 2022-12-02
 updatedDate: 2026-03-19
-author: "Tim Rhodes"
+author: "Jake Holloway"
 image: "/images/posts/can-kabuli-palao-be-made-with-goat.webp"
 imageAlt: "Can Kabuli Palao Be Made With Goat?"
 readTime: "6 min read"
