@@ -71,7 +71,7 @@ For these reasons, it's best to only offer small amounts of spinach to pregnant 
 
 For the most part, baby goats can eat the same foods as their adult counterparts. However, there are a few things that should be kept in mind when feeding them.
 
-Baby goats are still developing and their stomachs are very sensitive. As a result, they should only be given small amounts of new foods at a time.
+Baby goats are still developing and their stomachs are very sensitive. Because of this, they should only be given small amounts of new foods at a time.
 
 Spinach is a healthy leafy green that is packed with vitamins and minerals. It can be a great addition to a baby goat's diet, but it should be introduced slowly to avoid upsetting their [stomach](/can-goats-eat-broccoli/).
 
@@ -135,7 +135,7 @@ Semi-savoy spinach has intermediate between flat-leaf and savoy spinach, with sm
 
 No matter what kinds of spinach you have available, they can all be [fed to goats](/can-goats-eat-spring-mix/). Just be sure to wash the leaves thoroughly to remove any dirt or debris.
 
-## Summary
+## What to Remember
 
 Goats can eat spinach. Just be sure to feed them the appropriate amount and keep an eye out for signs of nitrate poisoning.
 

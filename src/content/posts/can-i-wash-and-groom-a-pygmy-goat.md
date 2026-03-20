@@ -109,7 +109,7 @@ Always start by haltering or leading your goat to ensure that he is secure and w
 
 From there, you can begin to wash and groom her as needed, paying close attention to her coat and hooves in order to keep her looking and feeling her best.
 
-Ultimately, with the right combination of care and attention, your pygmy goat will be happy and healthy for years to come.
+Overall, with the right combination of care and attention, your pygmy goat will be happy and healthy for years to come.
 
 ## How to bathe and groom your pygmy goat?
 
@@ -131,7 +131,7 @@ Avoid getting water into their ears and eyes, and be sure to rinse thoroughly. I
 
 Finally, always check for burrs or debris that may have gotten caught in their fur while they were out grazing. With these simple tips in mind, you can ensure a happy and healthy pygmy goat.
 
-## Wrapping Up
+## The Bottom Line
 
 You can provide your pygmy goat with the best possible care by following the tips and advice outlined in this article.
 

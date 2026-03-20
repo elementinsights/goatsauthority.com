@@ -133,7 +133,7 @@ Finally, you should offer your goats a variety of fresh vegetables as a treat. V
 
 By following these simple guidelines, you can ensure that your goat's diet is healthy and well-rounded.
 
-## Wrapping Up
+## Key Takeaways
 
 Although goats can consume potato shavings, there are some dangers. Choking, intestinal obstruction, and bacterial illness are the main dangers.
 

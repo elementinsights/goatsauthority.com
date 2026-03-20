@@ -94,7 +94,7 @@ This means that sheep prefer to eat grasses and other plants that grow close to 
 
 These dietary preferences can affect the way that these animals interact with their environment. Sheep are more likely to cause problems with overgrazing, while goats are more likely to damage trees and shrubs.
 
-When it comes to predators, both sheep and goats can fall prey to a variety of different animals. Common predators of sheep include coyotes, foxes, wolves, and bears.
+For predators, both sheep and goats can fall prey to a variety of different animals. Common predators of sheep include coyotes, foxes, wolves, and bears.
 
 Meanwhile, common predators of goats include coyotes, lynxes, mountain lions, and leopards. In general, smaller predators such as foxes and coyotes pose a greater threat to lambs than they do to adult sheep.
 
@@ -108,7 +108,7 @@ The average lifespan of a sheep is 10-12 years, while the average lifespan of a 
 
 Factors such as diet, environment, and predation can all [affect the lifespan of a sheep or goat](/can-weather-affect-goats-poop/). For example, sheep that are well-fed and protected from predators will typically live longer than sheep that are malnourished or constantly under threat.
 
-Similarly, [goats that live in a harsh environment](/can-goats-live-in-an-urban-environment/) with little shelter or food may not live as long as goats that have access to abundant resources. Ultimately, the lifespan of a sheep or goat depends on a variety of individual factors.
+Similarly, [goats that live in a harsh environment](/can-goats-live-in-an-urban-environment/) with little shelter or food may not live as long as goats that have access to abundant resources. So, the lifespan of a sheep or goat depends on a variety of individual factors.
 
 ## How much does it cost to raise them?
 
@@ -118,7 +118,7 @@ In general, sheep are more expensive to raise than goats. This is because they r
 
 Additionally, the cost of raising sheep and goats can differ depending on the region in which they are being raised. For example, it is typically more expensive to raise sheep and goats in a cold climate than it is in a warm climate.
 
-Ultimately, the cost of raising these animals will vary depending on the specific circumstances.
+In the end, the cost of raising these animals will vary depending on the specific circumstances.
 
 ## Are there any health concerns with sheep and goats?
 
@@ -130,9 +130,9 @@ These diseases can cause serious health problems in sheep and goats, so it is im
 
 For example, if a sheep or goat does not have access to enough food or shelter, they may become malnourished or develop respiratory problems.
 
-Ultimately, there are a few health concerns that sheep and goats can experience, but these animals are generally healthy if they are well-cared for.
+ there are a few health concerns that sheep and goats can experience, but these animals are generally healthy if they are well-cared for.
 
-## What to Remember
+## To Wrap Things Up
 
 Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
 

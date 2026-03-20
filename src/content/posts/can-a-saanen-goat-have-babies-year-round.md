@@ -63,7 +63,7 @@ Finally, in terms of fiber production, Saanen goats produce a medium-quality fib
 
 Saanen goats are a hardy breed that is well-adapted to a variety of climates. They originally come from the Swiss Alps, which is a cold, mountainous region.
 
-As a result, Saanen goats are very tolerant of cold weather and can even thrive in snowier climates.
+This means Saanen goats are very tolerant of cold weather and can even thrive in snowier climates.
 
 In addition, Saanen goats are also very tolerant of hot weather and can do well in more temperate regions.
 

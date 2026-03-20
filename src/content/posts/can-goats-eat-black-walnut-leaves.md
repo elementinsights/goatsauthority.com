@@ -109,7 +109,7 @@ Black walnut leaves are an excellent source of food for many animals, especially
 
 In addition, black walnut leaves are a good source of [fiber](/can-goats-eat-oats/), which helps to keep the digestive system healthy. Black walnut trees are also fairly common, so they are easy to find in most wooded areas.
 
-As a result, feeding black walnut leaves to deer is an efficient way to provide them with the nutrition they need.
+So, feeding black walnut leaves to deer is an efficient way to provide them with the nutrition they need.
 
 Additionally, the leaves can be used as bedding material, which helps to keep the animals warm and dry. To sum up, black walnut leaves offer a number of benefits for both animals and humans.
 
@@ -139,7 +139,7 @@ A good general rule is to consume no more than two tablespoons of black walnut l
 
 You can add black walnut leaves to salads, soups, stews, or even smoothies. Just make sure to [wash them thoroughly](/can-goats-eat-maple-leaves/) before eating, as they can contain toxins that can be harmful if consumed in large quantities.
 
-## What to Remember
+## Summary
 
 Overall, black walnut leaves are a nutritious and versatile food that can be enjoyed by both humans and animals. However, it's important to eat them in moderation, as they can contain toxins that can be harmful if consumed in large quantities.
 

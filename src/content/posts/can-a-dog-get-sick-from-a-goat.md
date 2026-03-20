@@ -143,7 +143,7 @@ Second, it's necessary to monitor the goats closely for [signs of illness](/can-
 
 In the end, you need to keep an eye on the dog's food and water bowls, as goats may try to drink from them. By taking these precautions, you can help to keep both goats and dogs safe and healthy.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Many people enjoy the companionship of both dogs and goats. However, it's important to be aware of the potential health risks that can occur when these two animals interact.
 

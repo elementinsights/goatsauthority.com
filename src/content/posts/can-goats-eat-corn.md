@@ -90,7 +90,7 @@ One of the biggest dangers of feeding corn to goats is that it can lead to black
 
 The parasites live in the goat's intestines and eat the food that the goat ingests.
 
-The problem with corn is that it's high in sugar and can provide the perfect environment for the parasites to thrive. As a result, a blackhead can quickly kill a goat if it's not treated immediately.
+The problem with corn is that it's high in sugar and can provide the perfect environment for the parasites to thrive. For this reason, a blackhead can quickly kill a goat if it's not treated immediately.
 
 Another issue with feeding corn to goats is that it can cause them to become overweight. Goats are naturally slim animals, and they do not need high-calorie foods like corn to stay healthy.
 
@@ -136,7 +136,7 @@ Field corn is used for animal feed or to make ethanol fuel. Popcorn is made from
 
 When heated, the water inside the kernel turns to steam and expands, causing the kernel to pop.
 
-## Summary
+## Quick Recap
 
 Goats can eat corn, However, there are some risks to consider before adding it to their diet. Corn is high in sugar and can lead to blackheads if not fed in moderation.
 

@@ -128,7 +128,7 @@ Just be sure to limit the number of dried peppers you give your goat, as too muc
 
 These supplements are designed to provide goats with the nutrients they need, and they can be mixed into their food or water. Bell pepper supplements are a convenient way to add bell peppers to your goat's diet, and they can help ensure that your goat gets all the nutrients they need.
 
-## The Bottom Line
+## Closing Notes
 
 Overall, goats can safely eat bell peppers. Bell peppers are a good source of vitamins and minerals, and they can help boost the immune system.
 

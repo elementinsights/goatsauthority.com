@@ -135,7 +135,7 @@ They are high in protein and nutrients, which can be beneficial for goats. But, 
 
 As a result, you need to weigh the pros and cons of supplementing your goat's diet with calf starter pellets before making a decision.
 
-## Key Takeaways
+## Closing Notes
 
 Goats can eat calf starter pellets, but it's crucial to do so in moderation. These pellets are high in protein and nutrients, which can be beneficial for goats.
 

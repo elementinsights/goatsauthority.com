@@ -61,7 +61,7 @@ The average height a goat can jump is between 30 and 36 inches. However, some br
 
 Plus, [goats have a natural inclination to climb](/can-goats-climb-fences/), which helps them to scale heights that would be impossible for other animals. Their ability to jump also makes goats excellent escape artists, and they have been known to escape from even the most securely fenced enclosures.
 
-As a result, it is important to ensure that any fence designed to contain goats is tall enough to prevent them from jumping over.
+ it is important to ensure that any fence designed to contain goats is tall enough to prevent them from jumping over.
 
 ## Why do goats like to jump?
 
@@ -125,7 +125,7 @@ They often use their jumping ability to escape from predators or to release exce
 
 Overall, some of the most notorious jumping breeds include the Pygmy goat, the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large and full of energy, and they often use their jumping ability to escape from predators or to release excess energy.
 
-## Wrapping Up
+## Key Takeaways
 
 Goats can jump high, but there are a few risks associated with this behavior. Even so, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
 

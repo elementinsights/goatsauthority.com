@@ -152,7 +152,7 @@ Finally, you need to be aware of the potential for parasites. When animals graze
 
 So, you need to have a good deworming and parasite control program in place.
 
-## Summary
+## What to Remember
 
 Goats and horses can pasture together, but there are a few things you need to consider before doing so. The most important thing is compatibility.
 

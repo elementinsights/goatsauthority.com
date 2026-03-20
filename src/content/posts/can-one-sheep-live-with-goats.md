@@ -57,7 +57,7 @@ Sheep are very social animals and need to be around other sheep. So if you're on
 
 The short answer to this question is no, goats and sheep require different types of food in their diets. Goats are generally more hardy and adaptive than sheep, so they can survive on a wider variety of feedstuffs.
 
-On the other hand, sheep tend to be smaller and less able to endure [extreme weather conditions](/can-weather-affect-goats-poop/). As a result, sheep require a more limited range of foods in order to thrive.
+On the other hand, sheep tend to be smaller and less able to endure [extreme weather conditions](/can-weather-affect-goats-poop/). For this reason, sheep require a more limited range of foods in order to thrive.
 
 In general, sheep do well on pasture or hay, while grass and browse make up the bulk of a goat's diet. However, both animals require access to clean water and some vitamin supplements to stay healthy.
 
@@ -131,9 +131,9 @@ The best time to shear a sheep is typically in the spring when the weather is st
 
 But, there are some exceptions to this rule; for example, if you live in an area with very hot summers, you may need to shear your sheep more frequently in order to prevent heat stress.
 
-Ultimately, it is important to use your best judgment and consult with a veterinarian or experienced shepherd if you are unsure about when to shear your flock.
+So, it is important to use your best judgment and consult with a veterinarian or experienced shepherd if you are unsure about when to shear your flock.
 
-## Summary
+## The Bottom Line
 
 A sheep can live with goats with some considerations. They are different species, so there are a few diseases they can pass to each other, but overall they get along better than most animals.
 

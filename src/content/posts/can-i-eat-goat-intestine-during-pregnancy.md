@@ -50,7 +50,7 @@ In addition to cooking, you should also make sure that the goat intestines you p
 
 Despite the fact that you can eat goat intestine during pregnancy, there are a few things you should keep in mind. First, some pregnant women may be more susceptible to food poisoning.
 
-This is because their immune system is weaker during pregnancy. As such, it is important to cook the intestines thoroughly to kill any harmful bacteria.
+This is because their immune system is weaker during pregnancy. Because of that, it is important to cook the intestines thoroughly to kill any harmful bacteria.
 
 Second, [goat intestines are high in fat](/can-goat-cheese-make-you-bloated/) and cholesterol. While these nutrients are necessary for a healthy pregnancy, consuming too much can lead to weight gain and other complications.
 
@@ -72,7 +72,7 @@ Overall, goat intestine is an incredibly nourishing food with a range of powerfu
 
 ## What are the risks associated with eating goat intestines during pregnancy?
 
-When it comes to eating goat intestines during pregnancy, there are a number of risks that should be considered. For starters, goat intestines can be contaminated with a variety of pathogenic organisms, including parasites, viruses, and bacteria.
+Regarding eating goat intestines during pregnancy, there are a number of risks that should be considered. For starters, goat intestines can be contaminated with a variety of pathogenic organisms, including parasites, viruses, and bacteria.
 
 This increases the risk of infection for both mother and baby, as the pathogens may be transferred from the intestinal tract to other parts of the body through the bloodstream.
 
@@ -126,7 +126,7 @@ And finally, talk to your doctor or healthcare provider before making any signif
 
 Overall, with these tips in mind, eating goat intestine during pregnancy can be an incredibly beneficial way to give both yourself and your baby the vitamins and minerals needed for a healthy start.
 
-## Summary
+## Closing Notes
 
 Overall, goat intestine can be a delicious and nutritious addition to any meal, especially when pregnant. Just remember to choose high-quality sources, cook thoroughly and talk to your doctor before making any significant changes to your diet during pregnancy.
 

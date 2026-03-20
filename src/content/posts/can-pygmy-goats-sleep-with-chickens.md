@@ -66,7 +66,7 @@ In addition, sleeping with chickens provides benefits for both species. Chickens
 
 Best of all, this close-knit pair helps to support one another in times of need; if a goat becomes ill or stressed out, having its loyal chicken friend by its side can help to soothe and calm it down.
 
-As such, it seems clear that the benefits of having pygmy goats sleep with chickens outweigh any drawbacks by far.
+This means it seems clear that the benefits of having pygmy goats sleep with chickens outweigh any drawbacks by far.
 
 ## The risks of having pygmy goats sleep with chickens
 
@@ -116,7 +116,7 @@ Additionally, it's a good idea to make sure that there are plenty of escape rout
 
 Other considerations include providing adequate space and enrichment to prevent boredom or aggressive tendencies, as well as keeping a close eye on any interactions between your chickens and pygmy goats.
 
-Ultimately, by taking these steps, you can help ensure that both your chickens and pygmy goats have a safe and joyful sleeping experience together.
+Overall, by taking these steps, you can help ensure that both your chickens and pygmy goats have a safe and joyful sleeping experience together.
 
 ## How to create a safe environment for pygmy goats and chickens to sleep in together?
 
@@ -132,7 +132,7 @@ Additionally, it's important to provide sufficient feed and water each day, as w
 
 With some careful planning and attention to detail, you can help your goats and chickens sleep safely together in harmony.
 
-## The Bottom Line
+## What to Remember
 
 Overall, pygmy goats can make great additions to any backyard flock of chickens.
 

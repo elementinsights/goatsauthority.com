@@ -88,7 +88,7 @@ Finally, having a strong pair of scissors or clippers can help you make quick wo
 
 ## How do you go about suturing a goat wound correctly and efficiently?
 
-When it comes to suturing a goat wound, there are several important things to consider. First and foremost, it is essential to be calm and focused during the process.
+With suturing a goat wound, there are several important things to consider. First and foremost, it is essential to be calm and focused during the process.
 
 Quick movements and increased [stress can cause the goat to become agitated](/can-contact-with-goats-cause-diarrhea-in-humans/), making it more difficult to treat the wound effectively.
 
@@ -122,7 +122,7 @@ Next, you will need to carefully cut each stitch with a pair of scissors or clip
 
 If done correctly, removing stitches from a [goat wound](/can-hoof-rot-kill-a-goat/) should be a relatively quick and painless process. However, it is important to take your time and be as gentle as possible in order to avoid any further discomfort or irritation for your patient.
 
-## Wrapping Up
+## The Bottom Line
 
 In general, suturing a goat wound is not much different than stitching up a human injury. However, there are a few key things to keep in mind in order to ensure a successful treatment.
 

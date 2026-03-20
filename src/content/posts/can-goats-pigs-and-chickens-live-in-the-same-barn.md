@@ -106,7 +106,7 @@ For example, cattle require a lot of space to graze and sufficient access to fre
 
 Chickens need a place to roost and lay their eggs, while horses need plenty of room to run and exercise.
 
-As a result, it is important to [carefully consider the needs of each type of animal](/can-goats-die-from-lymes/) when planning your barn. By ensuring that each animal has the space and resources it needs, you can keep your barn happy and healthy.
+ it is important to [carefully consider the needs of each type of animal](/can-goats-die-from-lymes/) when planning your barn. By ensuring that each animal has the space and resources it needs, you can keep your barn happy and healthy.
 
 ## What to do if one type of animal starts dominating the others?
 
@@ -120,7 +120,7 @@ Finally, it is crucial to monitor animal behavior closely and intervene if neces
 
 Maintaining a barn can be a costly endeavor, especially if you want to keep multiple types of animals in the same space. Larger animals like horses and cows need plenty of room to move around, and they also produce a lot of waste.
 
-As a result, you'll need to invest in a more robust ventilation system and a larger quantity of [bedding material](/can-pine-chips-be-used-as-bedding-for-goats/). You'll also need to be mindful of the layout of your barn to ensure that the different types of animals have enough space.
+So, you'll need to invest in a more robust ventilation system and a larger quantity of [bedding material](/can-pine-chips-be-used-as-bedding-for-goats/). You'll also need to be mindful of the layout of your barn to ensure that the different types of animals have enough space.
 
 With all of these considerations, it's no wonder that barn costs can quickly add up.
 

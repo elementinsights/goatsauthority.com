@@ -151,7 +151,7 @@ For example, pneumonia is typically treated with antibiotics. Enterotoxemia is u
 
 If a goat is suffering from any other type of disease, the best course of treatment will be determined by a goat expert.
 
-## Wrapping Up
+## Our Take
 
 Goats can get listeriosis from chicken feces. This is a serious bacterial infection that can be deadly in goats.
 

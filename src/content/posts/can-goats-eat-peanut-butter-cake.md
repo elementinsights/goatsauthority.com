@@ -72,7 +72,7 @@ Goats are prone to several health problems, including parasites, respiratory inf
 
 The protein in peanut butter helps to promote growth and muscle development, while the fats help to keep their coat healthy and shiny. In addition, the cake can help to supply goats with vitamins A and E, which are important for maintaining good vision and preventing skin diseases.
 
-Peanut butter cake is also a good source of phosphorus, which is essential for proper bone development. Ultimately, feeding peanut butter cake to goats can have numerous benefits for their overall health.
+Peanut butter cake is also a good source of phosphorus, which is essential for proper bone development. So, feeding peanut butter cake to goats can have numerous benefits for their overall health.
 
 ## What are some things to keep in mind when feeding peanut butter cake to goats?
 
@@ -132,7 +132,7 @@ A good rule of thumb is to offer no more than 1-2 ounces of cake per day for an 
 
 But, it's best to start with a smaller amount and increase it gradually to avoid [digestive upset](/can-goats-eat-dog-food/).
 
-## Final Thoughts
+## What to Remember
 
 Overall, peanut butter cake is safe for goats to eat in moderation. Still, there are some risks associated with feeding it to them.
 

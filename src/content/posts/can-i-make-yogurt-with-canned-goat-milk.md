@@ -69,7 +69,7 @@ Some people argue that it is not a good substitute, as canning alters the compos
 
 Others believe that canned goat milk works just as well as fresh goat milk when it comes to making yogurt, citing its nutritional qualities and convenience as key advantages.
 
-Ultimately, the decision about whether to use canned or fresh goat milk will depend on a number of factors, including personal preferences and individual recipe needs.
+Overall, the decision about whether to use canned or fresh goat milk will depend on a number of factors, including personal preferences and individual recipe needs.
 
 Still, it seems clear that either option can be used successfully for making delicious and nourishing yogurt.
 
@@ -93,7 +93,7 @@ By incorporating canned goat milk into your yogurt-making routine, you can take 
 
 ## How does canned goat milk compare to fresh goat milk when it comes to taste and texture?
 
-When it comes to comparing the taste and texture of canned goat milk versus fresh goat milk, there are a few key factors to consider.
+Talking about comparing the taste and texture of canned goat milk versus fresh goat milk, there are a few key factors to consider.
 
 First, while fresh goat milk often has a slightly tangy, slightly sweet flavor that many people enjoy, canned goat milk may have a blender or more neutral taste. This is because canned goat milk is pasteurized, which can diminish some of the natural flavors of the milk.
 
@@ -111,11 +111,11 @@ Both of these options allow you to achieve similar results and have the added be
 
 Additionally, if you are lactose-intolerant or simply looking for a non-dairy alternative, [soy milk](/can-i-substitute-goat-cheese-for-feta-cheese/) can also be used as a substitute for fresh goat milk.
 
-Ultimately, the best way to determine which option works best for your particular needs and preferences is to experiment with different types of milk and see which one yields the best results.
+ the best way to determine which option works best for your particular needs and preferences is to experiment with different types of milk and see which one yields the best results.
 
 So whether you choose to stick with traditional [goat milk](/can-i-sell-goat-milk-butter/) or explore other options, you can rest assured that homemade yogurt is within reach.
 
-## The Bottom Line
+## Closing Notes
 
 You can make yogurt with canned goat milk. Just heat the milk to 100-110 degrees Fahrenheit for 15 minutes, add in the yogurt starter, and incubate as usual.
 

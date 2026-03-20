@@ -66,7 +66,7 @@ Kentucky bluegrass is high in protein, fiber, and minerals, making it an ideal [
 
 Goats are browsers, not grazers like cows. This means that they prefer to nibble on leaves and woody vegetation rather than grazing on grasses.
 
-As a result, not all goats will eat Kentucky bluegrass.
+This means not all goats will eat Kentucky bluegrass.
 
 That said, there are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
 
@@ -92,7 +92,7 @@ They then use their long tongues to strip off the leaves and flowers. The remain
 
 This unique form of grazing helps goats to get the most out of each bite of grass.
 
-In addition, it allows them to better control the amount of grass they consume. As a result, goats can maintain a healthy diet while still enjoying a tasty treat.
+In addition, it allows them to better control the amount of grass they consume. goats can maintain a healthy diet while still enjoying a tasty treat.
 
 ## Are there any risks associated with feeding Kentucky bluegrass to goats?
 
@@ -126,7 +126,7 @@ Some of these recipes include Kentucky bluegrass [hay cubes](/can-goats-eat-hay-
 
 All of these recipes are designed to provide goats with the nutrients they need to stay healthy and thrive.
 
-## Wrapping Up
+## Our Take
 
 [Goats can eat Kentucky bluegrass](/can-goats-eat-watermelon/), but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.
 

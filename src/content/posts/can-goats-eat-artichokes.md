@@ -115,7 +115,7 @@ Artichokes, for example, can pose a [risk to goats if they eat too much](/can-a-
 
 In addition, artichokes are also a member of the thistle family, and the sharp spines on the leaves can injure a goat's mouth or digestive tract.
 
-As a result, it's best to avoid feeding artichokes to goats. If you're unsure about whether a food is safe for goats, it's always best to err on the side of caution and avoid giving it to them.
+So, it's best to avoid feeding artichokes to goats. If you're unsure about whether a food is safe for goats, it's always best to err on the side of caution and avoid giving it to them.
 
 ## How do you prepare artichokes for feeding goats?
 
@@ -137,7 +137,7 @@ For example, peppers and onions can be toxic to goats, so these should be avoide
 
 In general, vegetables that are safe for [human consumption are also safe for goats](/can-i-give-my-goats-human-fish-pills/). As long as they are fed in moderation, goats can enjoy a variety of healthy vegetables.
 
-## Final Thoughts
+## What to Remember
 
 Overall, artichokes are a safe and nutritious food for goats. They are a good source of fiber and nutrients, and goats usually enjoy eating them.
 

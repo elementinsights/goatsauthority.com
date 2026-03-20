@@ -131,7 +131,7 @@ Additionally, lentils are low in calories and fat, making them a healthy choice 
 
 Finally, lentils contain phytochemicals, which have been linked to a number of [health benefits](/can-goats-eat-gum-tree-leaves/), including reducing the risk of some chronic diseases.
 
-## What to Remember
+## Our Take
 
 Overall, [goats can eat lentils](/can-goats-eat-grapes/) without any problems. Lentils are a nutritious and versatile food that can be easily added to a goat's diet.
 

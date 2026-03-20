@@ -125,7 +125,7 @@ It's also worth noting that most mammals are active during the nighttime hours, 
 
 These animals tend to be diurnal, meaning they are active during the daytime hours. In addition, their eyes are typically larger in proportion to their body size, which gives them a greater ability to gather light.
 
-As a result, they are able to see objects in greater detail than mammals.
+This is why they are able to see objects in greater detail than mammals.
 
 Finally, some animals, such as bats and moles, have very poor eyesight. These animals rely heavily on other senses, such as echolocation, to navigate their environment.
 
@@ -137,7 +137,7 @@ They are also able to see all colors, although they may not be as vibrant as we 
 
 So, if you are ever in doubt about whether or not a goat can see something, rest assured that they probably can.
 
-## Final Thoughts
+## Wrapping Up
 
 Goats do have good eyesight. They are able to see all colors, although they may not be as vibrant as we see them.
 

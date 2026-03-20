@@ -97,13 +97,13 @@ First, goats are browsers, not grazers. This means that their stomachs are desig
 
 Respectively, too many Cheetos can lead to [digestive problems for your goat](/can-goats-digest-anything/).
 
-Second, Cheetos are relatively high in calories, and goats don't have a lot of room in their stomachs for excessive amounts of food. As a result, you [need to feed your goat Cheetos in moderation](/can-i-use-kid-feeding-tube-to-drench-adult-goat/).
+Second, Cheetos are relatively high in calories, and goats don't have a lot of room in their stomachs for excessive amounts of food. This is why you [need to feed your goat Cheetos in moderation](/can-i-use-kid-feeding-tube-to-drench-adult-goat/).
 
 Finally, while Cheetos may be a tasty treat for your goat, they shouldn't replace more nutritious foods in their diet. Hay and other green foods are essential for Goat health, and Cheetos should only be given as an occasional treat.
 
 ## Should you feed your goat Cheetos as a regular part of its diet?
 
-When it comes to goats, there are a variety of opinions on what constitutes a proper diet. While most goat-owners agree that hay and fresh vegetables should be staples, there's less consensus on other items.
+As for goats, there are a variety of opinions on what constitutes a proper diet. While most goat-owners agree that hay and fresh vegetables should be staples, there's less consensus on other items.
 
 One controversial food item is Cheetos. While some people believe that Cheetos can be a healthy treat for goats, others argue that the snack is too high in fat and salt.
 
@@ -139,8 +139,8 @@ Goats also need access to fresh, clean water at all times. In addition, goats re
 
 By following these simple tips, you can ensure that your goats stay healthy and well-fed.
 
-## Key Takeaways
+## Closing Notes
 
 Overall, [goats can eat Cheetos in moderation](/can-goats-eat-grapes/). However, it's important to remember that [goats are natural foragers and their digestive systems](/can-goats-digest-cotton/) are designed for plant-based diets.
 
-As a result, too many Cheetos can lead to digestive problems for your goat. If you choose to feed your goat Cheetos, do so in moderation and make sure to supplement its diet with plenty of hay and fresh vegetables.
+ too many Cheetos can lead to digestive problems for your goat. If you choose to feed your goat Cheetos, do so in moderation and make sure to supplement its diet with plenty of hay and fresh vegetables.

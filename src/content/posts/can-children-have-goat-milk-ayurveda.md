@@ -124,7 +124,7 @@ Pasteurized goat milk is safe for children to consume, as it will not harbor any
 
 That's why it's so important to make sure that any goat milk your child consumes is pasteurized.
 
-## What to Remember
+## Summary
 
 Children can have goat milk ayurveda, as it's easy to digest and contains more vitamins and minerals than cow's milk. However, it's important to choose milk that has been sourced from healthy, pasture-raised goats.
 

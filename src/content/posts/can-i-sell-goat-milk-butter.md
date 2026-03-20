@@ -128,7 +128,7 @@ Overall, there are many factors to consider when starting a goat milk butter bus
 
 ## The challenges of selling goat milk butter
 
-When it comes to selling goat milk butter, there are a number of challenges that must be overcome. For one thing, this type of butter is often perceived as being a niche product aimed at a limited audience.
+For selling goat milk butter, there are a number of challenges that must be overcome. For one thing, this type of butter is often perceived as being a niche product aimed at a limited audience.
 
 As such, it can be difficult for businesses to get the word out about their products and attract new customers.
 
@@ -140,9 +140,9 @@ In particular, this type of butter is known for its high content of vital nutrie
 
 Moreover, because it comes from [milk produced by goats](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) - which are known for their higher quality milk production - this type of butter has a richer flavor than conventional butter made from cow's milk.
 
-Ultimately, then, while the process may be tricky at times, there is certainly tremendous potential in selling goat milk butter products due to the many benefits that they offer consumers.
+ then, while the process may be tricky at times, there is certainly tremendous potential in selling goat milk butter products due to the many benefits that they offer consumers.
 
-## What to Remember
+## Summary
 
 You can sell goat milk butter in a number of ways, including online, at farmer's markets, and in [specialty stores](/can-i-get-goat-milk-at-luckys-market/).
 

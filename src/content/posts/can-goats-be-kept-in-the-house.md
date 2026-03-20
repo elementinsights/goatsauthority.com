@@ -99,7 +99,7 @@ With a little bit of planning, you can create a safe and comfortable home for yo
 
 ## What do you need to know about goat care and management when they're living indoors?
 
-When it comes to goat care and management, there are a few things you need to keep in mind if you're planning on keeping them indoors.
+With goat care and management, there are a few things you need to keep in mind if you're planning on keeping them indoors.
 
 First, goats need plenty of space to roam and explore. They're very curious creatures, and they'll quickly become bored if they're confined to a small area.
 
@@ -123,7 +123,7 @@ These breeds are all small in size, which makes them well-suited for life indoor
 
 If you're considering [keeping a goat as a house pet](/can-i-buy-a-goat-as-a-pet/), be sure to do your research and choose a breed that will be a good fit for your lifestyle.
 
-## Wrapping Up
+## Key Takeaways
 
 Goats can make great house pets, but there are a few things you need to keep in mind when it comes to their care and management.
 

@@ -114,7 +114,7 @@ The horse then uses a complex series of muscles that surround its jaw and head t
 
 Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. In general, this complex process helps ensure that horses can stay properly hydrated even in times of need.
 
-## Key Takeaways
+## Closing Notes
 
 Overall, if you think your horse may have consumed water that was contaminated with goat feces, it is important to monitor their behavior and overall health closely.
 

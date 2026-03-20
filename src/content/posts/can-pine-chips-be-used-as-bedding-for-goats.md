@@ -104,7 +104,7 @@ Whether you're just starting out with [goat farming](/can-a-goat-produce-milk-bu
 
 ## What are the drawbacks of using pine chips as bedding for goats?
 
-When it comes to bedding for goats, there are many different options to choose from. Some farmers prefer straw, while others may opt for wood shavings or even pine chips.
+Talking about bedding for goats, there are many different options to choose from. Some farmers prefer straw, while others may opt for wood shavings or even pine chips.
 
 While pine chips have some definite benefits, such as their affordability and easy availability, they also come with some drawbacks.
 
@@ -126,7 +126,7 @@ Finally, when adding the pine chips to your goat pen or stall, layer them betwee
 
 With these tips in mind, you can successfully use pine chips for goat bedding and keep your animals safe and healthy.
 
-## What to Remember
+## To Wrap Things Up
 
 You can be used pine chips as bedding for goats by following a few key considerations. First, make sure the pine chips are properly aged and dry.
 

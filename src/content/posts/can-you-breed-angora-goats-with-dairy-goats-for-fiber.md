@@ -122,7 +122,7 @@ You will also need to make sure that you provide the angora goats with a diet th
 
 Finally, you should also keep in mind that the fiber from angora goats is often finer and softer than the fiber from dairy goats. This means that it may be more difficult to spin into yarn.
 
-## The Bottom Line
+## Final Thoughts
 
 You can breed angora goats with dairy goats for fiber, but you need to be aware of a few things first.
 

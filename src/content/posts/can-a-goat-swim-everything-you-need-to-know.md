@@ -141,7 +141,7 @@ For one, it helps to keep them cool in the summer heat. Goats are one of the few
 
 In addition, swimming is a great form of exercise for goats and can help to keep them healthy and fit. So next time you’re at the farm, be sure to check out the swimming goats, you’re sure to be entertained.
 
-## The Bottom Line
+## Closing Notes
 
 Goats can swim, and they often enjoy doing so. Swimming is a great way for goats to exercise and stay healthy.
 

@@ -117,13 +117,13 @@ Goats are uniquely suited to urban environments. They are relatively small and c
 
 Best of all, goats are browsers rather than grazers, which means they can thrive on a diet of weeds, leaves, and other vegetation that would otherwise go to waste. However, one challenge of keeping goats in an urban environment is providing them with enough water.
 
-Goats require approximately two gallons of water per day, and they will not [drink water](/can-horses-drink-water-that-has-goat-poop-in-it/) that is dirty or stagnant. As a result, it is important to provide your goats with a clean and reliable source of water.
+Goats require approximately two gallons of water per day, and they will not [drink water](/can-horses-drink-water-that-has-goat-poop-in-it/) that is dirty or stagnant. it is important to provide your goats with a clean and reliable source of water.
 
 One way to do this is to install a small drinking fountain in your yard. The fountain should have a timer so that it only runs for a few minutes each day, and it should be placed in an area where the goats cannot tip it over.
 
 Another option is to connect a hose to an outdoor faucet and place a sprinkler in your goat’s enclosure. The sprinkler should be turned on for a few minutes each day to give the goats access to fresh, clean water.
 
-## Key Takeaways
+## The Bottom Line
 
 Overall, goats can be a great addition to an urban environment. They are small and easy to care for, and their grazing habits can help to keep your yard tidy.
 

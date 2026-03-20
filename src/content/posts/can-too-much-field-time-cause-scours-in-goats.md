@@ -146,7 +146,7 @@ Scours is a common problem in goats, but it can be treated with the right medica
 
 By taking these simple precautions, you can help prevent scours in goats and keep your herd healthy and happy.
 
-## Key Takeaways
+## What to Remember
 
 Overall, scours are a common problem in goats but it can be prevented with some simple steps. Make sure to provide your goats with fresh, clean water and a balanced diet.
 

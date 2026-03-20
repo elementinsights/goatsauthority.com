@@ -125,7 +125,7 @@ Another common problem is dystocia, or difficulty giving birth. This can be caus
 
 If you are unsure about whether or not your goat is having a successful pregnancy, you can always consult with a professional. A veterinarian or experienced breeder will be able to give you more specific advice based on your goat's individual needs.
 
-## Summary
+## Key Takeaways
 
 Breeding a 6 yr old goat can be beneficial for many reasons. However, it is important to consult with a professional and make sure that the goat is healthy and compatible with the buck you are using for breeding.
 

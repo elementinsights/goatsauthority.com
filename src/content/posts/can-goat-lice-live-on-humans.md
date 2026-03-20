@@ -127,7 +127,7 @@ In severe cases, oral ivermectin may be necessary.
 
 By taking these steps, you can help prevent the spread of goat lice and protect your family's health.
 
-## Wrapping Up
+## Key Takeaways
 
 Overall, goat lice are not a serious threat to human health. However, they can cause a lot of discomforts and should be treated as soon as possible.
 

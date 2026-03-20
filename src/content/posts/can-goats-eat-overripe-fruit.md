@@ -134,7 +134,7 @@ Overripe avocados can be mashed and used as a spread or dip. And overripe tomato
 
 While overripe fruit may not be ideal for fresh eating, with a little creativity, it can still be used in a variety of dishes.
 
-## Key Takeaways
+## The Bottom Line
 
 [Goats can eat overripe fruit](/can-goats-eat-grapes/), but there are some risks to consider. Overripe fruit is high in sugar, which can [cause digestive problems in goats](/can-goats-cause-slope/).
 

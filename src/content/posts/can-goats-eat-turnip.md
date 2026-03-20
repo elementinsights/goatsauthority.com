@@ -157,7 +157,7 @@ Vegetables and fruits can be fed to goats fresh, cooked, or canned. Grains can b
 
 It is crucial to consult with a goat expert before making any changes to your goat's diet. Goats have specific nutritional needs that must be met in order for them to stay healthy.
 
-## What to Remember
+## Wrapping Up
 
 Goats can eat turnips, but they should be fed in moderation. Too many turnips can [cause stomach upset and diarrhea in goats](/can-contact-with-goats-cause-diarrhea-in-humans/).
 

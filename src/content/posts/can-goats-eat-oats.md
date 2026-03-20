@@ -101,7 +101,7 @@ This helps goats stay full without exposing them to the same risks as oats.
 
 Other options include alfalfa hay, grass hay, and [timothy hay](/can-goats-eat-timothy-hay/). Each of these has its own benefits and can be fed alone or mixed with other types of hay to create a balanced diet for goats.
 
-Grain mixes designed specifically for goats are also available and can provide an alternative to oats while still meeting the animal's nutritional needs. Ultimately, there's no one perfect feed for every goat, so it's important to experiment and see what works best for your herd.
+Grain mixes designed specifically for goats are also available and can provide an alternative to oats while still meeting the animal's nutritional needs. When all is said and done, there's no one perfect feed for every goat, so it's important to experiment and see what works best for your herd.
 
 ## Serving size of oats for goats
 
@@ -133,7 +133,7 @@ No matter where oats come from, it's crucial to make sure they are fresh. Oats t
 
 If you're unsure whether your oats are still good, give them a sniff. If they smell sour or musty, it's best to throw them out.
 
-## Summary
+## To Wrap Things Up
 
 Goats can eat oats, but there are some risks involved. Oats are high in sugar and can cause enterotoxemia, a condition that is deadly to goats.
 

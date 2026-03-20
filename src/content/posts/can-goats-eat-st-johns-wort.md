@@ -131,7 +131,7 @@ Finally, goats are susceptible to a variety of health problems, so it is crucial
 
 By following these simple guidelines, you can ensure that your goats stay healthy and happy.
 
-## The Bottom Line
+## Closing Notes
 
 Goats cannot eat St Johns Wort because it is poisonous to them. If your goat eats St Johns Wort, the first thing you should do is consult a goat expert.
 

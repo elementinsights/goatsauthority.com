@@ -175,7 +175,7 @@ The best time to feed carrots is during their regular feeding times. This keeps 
 
 Always wash the carrots before feeding them to your goats. Dirt or pesticides on unwashed vegetables could harm your animals’ health.
 
-When it comes to cleaning up after mealtime, it’s pretty straightforward too with goats as they usually eat everything you give them including carrot tops.
+Regarding cleaning up after mealtime, it’s pretty straightforward too with goats as they usually eat everything you give them including carrot tops.
 
 But if there are leftovers lying around, pick those up promptly so that flies don’t become an issue in warmer weather conditions.
 

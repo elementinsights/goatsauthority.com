@@ -40,7 +40,7 @@ faq:
     answer: "After giving your goat penicillin, it's important to clean the injection site with alcohol and apply a bandage to prevent infection. You should also monitor your goat for any signs of an allergic reaction or other side effects. It's also important to make sure that she has access to plenty of clean water to drink."
 ---
 
-When it comes to a pregnant goat, making sure that it has the proper nutrition is extremely important. This means that you need to pay attention to what you feed her and how much of it.
+As for a pregnant goat, making sure that it has the proper nutrition is extremely important. This means that you need to pay attention to what you feed her and how much of it.
 
 You also need to ensure that she gets the appropriate amount of exercise. But, what about when your [pregnant goat](/can-a-goat-get-pregnant-when-not-in-heat/) becomes sick?
 
@@ -84,7 +84,7 @@ Penicillin has a wide margin of safety. This means that there's a large differen
 
 The margin of safety for penicillin is much larger than for other drugs, such as aspirin. This is because penicillin only targets bacteria and does not have any effect on human cells.
 
-As a result, there's less risk of side effects when using penicillin.
+So, there's less risk of side effects when using penicillin.
 
 The wide margin of safety for penicillin has made it an essential drug for treating bacterial infections. It's safe for use in children, pregnant women, and people with other medical conditions.
 
@@ -178,7 +178,7 @@ After giving your goat penicillin, it's important to clean the injection site wi
 
 It's also important to make sure that she has access to plenty of clean water to drink.
 
-## The Bottom Line
+## Wrapping Up
 
 Pregnant goats require special care and attention, especially when it comes to their diet and nutrition.
 

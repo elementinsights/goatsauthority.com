@@ -133,7 +133,7 @@ Finally, there is the Sarcoptes scabies mite, which is the most dangerous of all
 
 If left untreated, this type of mite can cause anemia and even death.
 
-## Key Takeaways
+## Our Take
 
 Goats can get mites, but there are a few things you can do to treat and prevent them. With some care and attention, you can keep your goats healthy and free of pests.
 

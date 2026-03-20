@@ -116,7 +116,7 @@ By taking steps to prevent and treat problems early on, you can help ensure that
 
 ## What are the long-term benefits of feeding goat food to sheep?
 
-When it comes to feeding livestock, there are many factors to consider. In the case of goats and sheep, for example, some farmers believe that feeding goat food to sheep can have long-term benefits.
+As for feeding livestock, there are many factors to consider. In the case of goats and sheep, for example, some farmers believe that feeding goat food to sheep can have long-term benefits.
 
 This is because goat food generally has a higher [nutrient content](/can-goats-eat-cattle-feed/) than regular sheep feed, meaning that it provides more protein and other nutrients to help promote healthy growth in sheep.
 

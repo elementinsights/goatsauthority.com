@@ -122,7 +122,7 @@ This can occur if the [goat's blood comes into contact](/contact/) with an open 
 
 But, if the infection is not caught early, it can lead to serious health complications.
 
-As a result, it's crucial for anyone who comes into contact with an infected [goat to be aware of the potential risks](/can-a-plastic-bag-hurt-a-goat/).
+For this reason, it's crucial for anyone who comes into contact with an infected [goat to be aware of the potential risks](/can-a-plastic-bag-hurt-a-goat/).
 
 ## Are there any other diseases deadly to goats that are transmitted by ticks?
 
@@ -138,7 +138,7 @@ Ticks can also transmit other parasites, such as [worms](/can-goats-get-worms-fr
 
 Some steps you can take include maintaining a clean and well-ventilated barn, treating your goats with [tick prevention products](/can-goat-lice-go-into-a-dormant-stage/), and regularly inspecting your goats for ticks.
 
-## What to Remember
+## Summary
 
 Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.
 

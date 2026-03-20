@@ -129,7 +129,7 @@ If you think your goat may have hoof rot, it is important to seek professional m
 
 Additionally, they can provide you with information on how to prevent hoof rot from occurring in the future.
 
-## The Bottom Line
+## Key Takeaways
 
 Hoof rot can kill a goat if it is left untreated. However, with proper care and treatment, it is possible to effectively manage the condition and ensure a full recovery for your animal.
 

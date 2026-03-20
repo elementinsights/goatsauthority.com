@@ -147,7 +147,7 @@ This nutritional diversity is one of the things that makes goats such versatile 
 
 As long as they have access to fresh water, goats can make do with surprisingly little.
 
-## What to Remember
+## Summary
 
 Citrus fruits are a good source of nutrients like vitamin C, folate, and potassium. At the same time, too much citrus can cause digestive problems.
 

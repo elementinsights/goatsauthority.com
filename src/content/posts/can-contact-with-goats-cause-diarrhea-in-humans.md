@@ -143,7 +143,7 @@ People can become infected with the disease if they eat contaminated food or [dr
 
 In severe cases, the disease can lead to dehydration and even death. If you think you may have consumed contaminated meat or milk, please seek medical attention immediately.
 
-## The Bottom Line
+## To Wrap Things Up
 
 Overall, contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.
 

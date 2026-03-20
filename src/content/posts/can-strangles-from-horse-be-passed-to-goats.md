@@ -109,7 +109,7 @@ There are a number of different treatment options available for strangles, a hig
 
 One commonly used strategy is medication, which helps to reduce swelling and suppress the immune response. Other treatment options include things like antibiotics and ointments to soothe irritated skin.
 
-Ultimately, the choice of treatment will depend on a variety of factors including the severity of the [symptoms](/can-goats-die-from-lymes/), cost-effectiveness, and safety considerations.
+So, the choice of treatment will depend on a variety of factors including the severity of the [symptoms](/can-goats-die-from-lymes/), cost-effectiveness, and safety considerations.
 
 Whatever route you choose, it's important to consult with a qualified veterinary professional to ensure the best possible outcomes for your equine or caprine companion.
 
@@ -127,7 +127,7 @@ For example, you can quarantine any animals that are showing [signs of illness](
 
 By taking these simple precautions, horse owners and [goat herders](/can-goats-be-outside-in-winter/) can help protect their animals from strangles and keep them healthy for many years to come.
 
-## Summary
+## To Wrap Things Up
 
 Overall, strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.
 

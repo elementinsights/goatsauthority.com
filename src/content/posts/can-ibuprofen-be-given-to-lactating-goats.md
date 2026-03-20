@@ -130,11 +130,11 @@ In addition, techniques like acupressure or massage can be effective tools for a
 
 Of course, other non-medicinal options are also available, including physical therapy or special diets tailored to help with specific symptoms.
 
-Ultimately, the best way to determine which treatment is right for your goat will depend on a variety of factors, including the nature and severity of the pain and the individual animal's needs and preferences.
+ the best way to determine which treatment is right for your goat will depend on a variety of factors, including the nature and severity of the pain and the individual animal's needs and preferences.
 
 So whether you choose traditional medication or explore alternative solutions, rest assured that there are a variety of options available to help your goat feel better.
 
-## Wrapping Up
+## What to Remember
 
 In general, while there is no easy answer to the question of whether or not ibuprofen is safe for goats, it is clear that this medication should be used with caution.
 

@@ -144,7 +144,7 @@ For example, late fall and early winter are generally considered to be the best 
 
 Additionally, the cooler temperatures during this time of year help to reduce the risk of heat stress, which can be detrimental to both the goat and its offspring. As a result, breeding goats during late fall and early winter can help to ensure a successful pregnancy and healthy offspring.
 
-## Key Takeaways
+## To Wrap Things Up
 
 Goats can get pregnant when not in heat, but there are a number of factors that can impact the success of the pregnancy.
 

@@ -130,7 +130,7 @@ Additionally, hay cubes should always be fed alongside fresh [hay](/can-goats-ea
 
 ## How much should I feed my goat?
 
-When it comes to livestock, goats are relatively easy to care for. They are hardy animals that can thrive on a diet of hay and grass.
+Talking about livestock, goats are relatively easy to care for. They are hardy animals that can thrive on a diet of hay and grass.
 
 But, if you want your goats to stay healthy and produce high-quality milk, you need to provide them with a well-balanced diet.
 
@@ -140,7 +140,7 @@ Depending on the size of your herd, you may need to purchase feeder troughs or b
 
 By following these simple guidelines, you can keep your goats healthy and happy.
 
-## Final Thoughts
+## Quick Recap
 
 Goats can eat hay cubes, and there are many benefits to feeding them this type of feed. However, there are also some risks associated with feeding hay cubes to goats.
 

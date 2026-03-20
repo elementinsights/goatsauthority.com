@@ -160,7 +160,7 @@ Additionally, crossbreeding can lead to genetic defects that may not be detectab
 
 The [gestation period](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/) for a geep is about 145 days. This is longer than the gestation period for a goat (145 days) or a lamb (160 days).
 
-## What to Remember
+## Closing Notes
 
 Goats and Lamp can be bred together, the result offspring, known as geeps and it's very rare. Geeps inherit some characteristics from each parent and also they do not have the full complement of genes from either species.
 

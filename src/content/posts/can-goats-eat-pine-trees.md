@@ -95,7 +95,7 @@ They also have a four-chamber stomach that ferments the plants they eat, allowin
 
 This is why pine trees are generally not part of a goat's diet. Pine needles are too tough for goats to chew, and the high resin content can irritate their stomachs.
 
-As a result, baby goats should stick to softer plants like grasses, [lettuce](/can-goats-eat-lettuce/), and [basil](/can-goats-eat-basil/).
+ baby goats should stick to softer plants like grasses, [lettuce](/can-goats-eat-lettuce/), and [basil](/can-goats-eat-basil/).
 
 ## Do all goats eat pine trees?
 
@@ -105,7 +105,7 @@ Then again, there are a few species of goats, such as the African bush goat and 
 
 These goats live in regions where pine trees are the dominant form of vegetation, and they have likely developed a taste for pine needles out of necessity.
 
-While pine needles are not particularly nutritious, they do contain some important nutrients, such as vitamin C. As a result, these goats will consume pine needles when other food sources are scarce.
+While pine needles are not particularly nutritious, they do contain some important nutrients, such as vitamin C. This is why these goats will consume pine needles when other food sources are scarce.
 
 ## What kind of goat can eat pine trees without any problem?
 
@@ -135,13 +135,13 @@ For these reasons, it's crucial to be cautious when feeding pine trees to goats 
 
 ## What is the appropriate serving size for goats?
 
-When it comes to goats, there's no one-size-fits-all answer to the question of what constitutes an appropriate serving size. The amount of food that a goat needs will depend on a number of factors, including its age, weight, and activity level.
+As for goats, there's no one-size-fits-all answer to the question of what constitutes an appropriate serving size. The amount of food that a goat needs will depend on a number of factors, including its age, weight, and activity level.
 
 For example, a young kid or a pregnant doe will require more food than an adult goat that is relatively inactive. In general, most experts recommend that goats be given 1 to 2 pounds of hay per day.
 
 For pasture-based goats, this can be supplemented with a small amount of grain, as well as fresh vegetables and fruits like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/). If you are unsure about how much to feed your goat, it's always best to consult with a vet or other animal expert.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Overall, goats can benefit from eating pine trees. Pine trees provide goats with a source of food and shelter, and they can also help to improve the health of the soil.
 

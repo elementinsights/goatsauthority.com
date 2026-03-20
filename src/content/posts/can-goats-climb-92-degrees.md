@@ -148,7 +148,7 @@ In addition to being wonderful pets, [goats can also provide milk](/can-a-baby-h
 
 So, whether you're looking for a new pet or considering [adding goats to your farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/), there's a lot to love about these amazing creatures. We hope you've enjoyed learning a little bit more about them.
 
-## Wrapping Up
+## Closing Notes
 
 Goats can climb 92 degrees but there are some risks associated with letting them do so. However, many goat owners feel that the benefits of letting their goats climb outweigh the dangers.
 

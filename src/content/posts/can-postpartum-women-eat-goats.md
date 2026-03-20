@@ -69,7 +69,7 @@ Some studies suggest that [eating goat meat](/can-dogs-eat-goat-meat/) can cause
 
 However, some researchers argue that the claims made in these studies are inconclusive and that more rigorous [research](/can-someone-allergic-to-milk-use-goats-milk/) is needed to identify any risks associated with consuming goat meat for postpartum women.
 
-Ultimately, the issue is complex and further research is necessary to better understand the potential impacts of eating goat meat on those who have recently given birth.
+When all is said and done, the issue is complex and further research is necessary to better understand the potential impacts of eating goat meat on those who have recently given birth.
 
 Until then, it may be advisable for postpartum women to steer clear of this potential food allergen for the sake of their own health and safety.
 
@@ -144,7 +144,7 @@ It's also worth noting that make sure to cook goat meat thoroughly to avoid the 
 
 Finally, remember to wash your hands thoroughly after handling raw goat meat.
 
-## Final Thoughts
+## Wrapping Up
 
 Postpartum women can eat goat's meat as long as it is lean, cooked thoroughly, and purchased from a reputable source.
 

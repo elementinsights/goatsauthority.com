@@ -69,7 +69,7 @@ Goats are hardy creatures that can thrive in a variety of climates, but they sti
 
 Too much sun or wind can cause dehydration, while too much cold can lead to hypothermia. What's more, goats are susceptible to predators such as coyotes, dogs, and [mountain lions](/can-a-fox-kill-a-goat/).
 
-As a result, it's crucial to provide adequate shelter for your goats and to check on them regularly. If you must leave them unattended for a period of time, be sure to provide plenty of food and water and make sure their shelter is secure.
+ it's crucial to provide adequate shelter for your goats and to check on them regularly. If you must leave them unattended for a period of time, be sure to provide plenty of food and water and make sure their shelter is secure.
 
 By taking these precautions, you can help ensure your goats stay safe and healthy.
 
@@ -143,7 +143,7 @@ Finally, goats are curious animals that are known for their playful nature. They
 
 Whether you're considering adding a goat to your farm or you're just curious about these fascinating creatures, there's much to learn about goats. We hope you enjoyed this article and found it informative.
 
-## What to Remember
+## Our Take
 
 Goats can be left out for hours as long as they have access to shelter, food, and water. It's crucial to check on them regularly, but, as goats are social animals that thrive on companionship.
 

@@ -108,7 +108,7 @@ The first step is to consult a goat expert to determine if the side effects are 
 
 You should also make sure to monitor the health and well-being of the baby goats that are born after being fed medicated feed, as they may be more susceptible to certain types of infections than normal.
 
-Ultimately, it is crucial to remember that side effects after giving medicated goat feed are not always negative; in some cases, these medications can actually help to protect your animals from potential illness.
+So, it is crucial to remember that side effects after giving medicated goat feed are not always negative; in some cases, these medications can actually help to protect your animals from potential illness.
 
 By taking the steps necessary to address any adverse effects and ensuring that you take care of both mother and babies alike, you can keep your pregnant goats happy and healthy.
 
@@ -122,7 +122,7 @@ Additionally, it is important to make sure that they have access to clean water 
 
 By taking these preventive measures, you can help reduce the chances of your pregnant goats becoming sick in the first place.
 
-## Key Takeaways
+## Wrapping Up
 
 Pregnant goats can eat medicated feeds without any significant risks to their health, but it is important to consult with a professional first and monitor them closely after introducing the new feed.
 

@@ -129,7 +129,7 @@ Still, there are some types of goats that will consume hedges if they are hungry
 
 Generally, [goats that are allowed to browse freely will avoid eating hedges](/do-goats-eat-meat/) due to the risk of injury. However, if a [goat is penned](/can-a-goat-pen-have-pine-trees-in-it/) in or otherwise unable to find other food, it may be forced to eat hedges out of desperation.
 
-As a result, it's important to provide goats with a varied diet and plenty of space to roam.
+ it's important to provide goats with a varied diet and plenty of space to roam.
 
 ## What are other things goats like to eat?
 

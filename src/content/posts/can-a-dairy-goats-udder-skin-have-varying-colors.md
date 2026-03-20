@@ -77,7 +77,7 @@ Dairy goats can produce up to 2 gallons of [milk per day](/how-many-teats-do-goa
 
 Goat milk also has a higher fat content than cow's milk, making it a good choice for those who are seeking a richer flavor. And also for their nutritional value, dairy goats can also be used for cheese making, soap making, and even as companion animals.
 
-As such, they play an important role in many different cultures and provide a valuable source of food and livelihood for people around the world.
+This means they play an important role in many different cultures and provide a valuable source of food and livelihood for people around the world.
 
 ## How to get started with keeping dairy goats as livestock?
 
@@ -183,7 +183,7 @@ Dairy goat milk will spoil quickly if it's not stored properly. You can tell if 
 
 If you are unsure, it's best to throw it out.
 
-## Wrapping Up
+## Quick Recap
 
 A dairy goat's udder skin can have varying colors. This is due to the fact that their udders are constantly changing in size as they produce milk.
 

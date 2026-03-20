@@ -132,7 +132,7 @@ The best time to feed your Nubian goats is in the morning and evening. This will
 
 Additionally, it's always best to provide them with fresh hay and water throughout the day. By following these simple guidelines, you can help to ensure that your Nubian goats stay healthy and happy.
 
-## The Bottom Line
+## Summary
 
 Feeding your Nubian goats a small number of raw almonds is perfectly safe. They may even enjoy the treat, and it can help to keep them occupied and out of mischief.
 

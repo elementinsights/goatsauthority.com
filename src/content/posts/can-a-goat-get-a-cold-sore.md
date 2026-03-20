@@ -126,7 +126,7 @@ Fortunately, cold sores in goats are not considered to be contagious. There's no
 
 Even so, it's still important to practice good hygiene and avoid close contact with goats that have [cold sores](/can-pregnant-goats-eat-medicated-feed/). If you must come into contact with a goat that has a cold sore, make sure to wash your hands thoroughly afterward.
 
-## Summary
+## To Wrap Things Up
 
 Goats can get cold sores, but they are not contagious to humans. If you have a goat with a cold sore, you should clean the sore and practice good hygiene.
 

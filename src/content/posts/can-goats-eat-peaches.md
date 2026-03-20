@@ -64,7 +64,7 @@ All in all, yes, goats can enjoy eating peaches as long as you take out the pit 
 
 ### Beware of Pesticide on Grocery-Bought Peaches
 
-When it comes to feeding goats peaches, you need to be careful. Grocery-bought peaches often have pesticides on them.
+With feeding goats peaches, you need to be careful. Grocery-bought peaches often have pesticides on them.
 
 These chemicals can harm your [goat’s health](/can-goats-eat-everything/) if ingested in large amounts over time.
 

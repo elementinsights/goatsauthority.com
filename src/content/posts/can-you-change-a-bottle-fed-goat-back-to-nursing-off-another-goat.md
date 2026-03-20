@@ -125,7 +125,7 @@ Another option is to feed the goat [raw milk from a cow](/can-i-raise-goats-for-
 
 Finally, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
 
-## Wrapping Up
+## Quick Recap
 
 You can change a bottle fed goat back to nursing by slowly transitioning them off of the bottle and onto solid food.
 

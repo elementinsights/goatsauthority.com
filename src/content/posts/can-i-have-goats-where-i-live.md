@@ -132,7 +132,7 @@ Finally, you may need to address behavior issues such as aggression or stubbornn
 
 With the right preparation, however, it is possible to keep goats as happy, healthy companions for years to come.
 
-## Summary
+## What to Remember
 
 If you are considering adding a goat to your family, whether as a pet or a farm animal, there are some things you should know. Goats need plenty of space to roam and fresh air to breathe.
 

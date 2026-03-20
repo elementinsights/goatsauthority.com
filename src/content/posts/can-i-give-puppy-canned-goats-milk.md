@@ -84,7 +84,7 @@ Generally speaking, younger puppies will require more milk than older dogs, as t
 
 Additionally, if your puppy has any medical conditions or is underweight, you may need to give them additional milk in order to help them gain weight or [recover from illness](/can-a-dog-get-sick-from-a-goat/).
 
-Ultimately, it is best to consult with your vet or a canine nutrition expert in order to determine the right amount of [goat milk](/can-i-get-goat-milk-at-luckys-market/) for your specific pup.
+At the end of the day, it is best to consult with your vet or a canine nutrition expert in order to determine the right amount of [goat milk](/can-i-get-goat-milk-at-luckys-market/) for your specific pup.
 
 ## What are the risks associated with giving my puppy canned goat milk?
 
@@ -136,7 +136,7 @@ However, it's important to note that cow's milk is not as nutrient-dense as goat
 
 These products are designed to provide all the nutrients your puppy needs without any of the risks associated with [goat's milk](/can-goat-milk-reduce-wrinkles/). You can find puppy milk replacers at most pet stores or online retailers.
 
-## What to Remember
+## Our Take
 
 Overall, it's best to consult with a veterinarian before giving your puppy canned goat's milk. With their expertise and guidance, you can make an informed decision about whether this type of milk is right for your pup.
 

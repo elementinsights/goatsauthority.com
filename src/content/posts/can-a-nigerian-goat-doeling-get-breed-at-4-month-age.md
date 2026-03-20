@@ -68,7 +68,7 @@ When choosing a breeding partner for your doeling, you need to select a buck tha
 
 it's also important to make sure that the buck is large enough to properly cover the doe; if he is too small, there's a risk of the doe being injured during breeding.
 
-Ultimately, the decision of when to breed a Nigerian Dwarf goat doeling will depend on the goals of the individual breeder. Some breeders choose to wait until the doeling is a bit older, while others breed theirs does as early as possible in order to maximize milk production.
+Overall, the decision of when to breed a Nigerian Dwarf goat doeling will depend on the goals of the individual breeder. Some breeders choose to wait until the doeling is a bit older, while others breed theirs does as early as possible in order to maximize milk production.
 
 ## What health concerns should be considered when breeding a Nigerian goat doeling?
 
@@ -122,7 +122,7 @@ If everything goes well, the doeling should [give birth to healthy baby goats](/
 
 After the [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
 
-## Summary
+## To Wrap Things Up
 
 it's possible to breed Nigerian Dwarf goats as early as 4 months of age, but it's important to consult with a veterinarian beforehand to ensure that the doeling is healthy enough for breeding.
 

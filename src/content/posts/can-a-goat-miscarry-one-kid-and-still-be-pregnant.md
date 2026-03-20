@@ -114,7 +114,7 @@ Colostrum is high in nutrients and antibodies, which help to protect the newborn
 
 Baby goats will typically start drinking milk from a bottle or bucket after about two weeks, but they should continue to nurse from their mothers for at least four weeks. After that, they can be slowly introduced to solid food like hay or pellets.
 
-## What to Remember
+## Quick Recap
 
 Goats can miscarry one kid and still be pregnant. This is because they are mammals and reproduce by sexual intercourse.
 

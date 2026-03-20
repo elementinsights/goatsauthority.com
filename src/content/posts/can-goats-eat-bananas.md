@@ -105,7 +105,7 @@ In short, yes you can treat your furry friend with some banana peel snacks but r
 
 ### Beware of Pesticides on Grocery-Bought Bananas
 
-When it comes to feeding your goats bananas, there’s a hidden danger you should know about. It isn’t the banana itself that poses a risk.
+About feeding your goats bananas, there’s a hidden danger you should know about. It isn’t the banana itself that poses a risk.
 
 In fact, most goats enjoy this sweet treat and can eat them without any issues.
 

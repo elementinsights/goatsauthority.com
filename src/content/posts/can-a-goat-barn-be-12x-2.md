@@ -56,7 +56,7 @@ A well-built goat barn can also be a valuable asset if you ever decide to sell y
 
 ## What factors go into deciding how big a goat barn needs to be?
 
-When it comes to goats, there are a few key factors that will play into deciding how big their barn needs to be.
+As for goats, there are a few key factors that will play into deciding how big their barn needs to be.
 
 The first is the climate. If you live in an area with long, cold winters, your goats will need a warm, dry place to stay during those months.
 
@@ -150,7 +150,7 @@ If you live in a climate with extreme temperatures, you should also insulate the
 
 The cost of a goat barn depends on a number of factors, such as the size of the barn and the materials you use. However, you can expect to spend at least $500 on a small barn and upwards of $5,000 for a larger barn.
 
-## What to Remember
+## Key Takeaways
 
 Many people enjoy having goats as pets. If you are thinking about getting a goat, there are a few things you should consider, such as whether or not you have the space for a barn.
 

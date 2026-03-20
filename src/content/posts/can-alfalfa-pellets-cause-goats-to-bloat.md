@@ -102,7 +102,7 @@ By taking these precautions, you can help keep your [goats healthy and safe from
 
 One of the most important things is to make sure that they have access to plenty of fresh water. Goats are notoriously messy drinkers, and if their water trough is dirty, they may be reluctant to drink.
 
-As a result, their stomachs can become bloated with gas. To avoid this, clean the water trough regularly and make sure that there's always fresh water available.
+ their stomachs can become bloated with gas. To avoid this, clean the water trough regularly and make sure that there's always fresh water available.
 
 It's also important to [feed your goats](/can-baking-soda-cause-urinary-issues-in-goats/) a balanced diet. [Goats are known for being able to digest](/can-goats-digest-cotton/) a wide variety of foods, but certain foods can cause them to bloat.
 
@@ -134,7 +134,7 @@ They may recommend giving the goat an antacid or prokinetic medication to help 
 
 In severe cases, surgery may be necessary to remove the gas from the stomach. With prompt treatment, most goats will make a full recovery from bloating without any long-term effects.
 
-## Wrapping Up
+## Closing Notes
 
 Alfalfa pellets can cause goats to bloat. Bloating is a serious condition that can be fatal if not treated promptly.
 

@@ -82,7 +82,7 @@ This will give you a consistency that is similar to regular cow's milk, making i
 
 Alternatively, you can use a 1:1 ratio, which creates a thinner, more liquid formula that might be easier for smaller babies or children to drink.
 
-Ultimately, it is up to you and your child's specific needs and preferences when it comes to deciding on the best ratio for your particular situation.
+The bottom line is, it is up to you and your child's specific needs and preferences when it comes to deciding on the best ratio for your particular situation.
 
 No matter what method you choose, mixing powdered goat milk with water is an easy and straightforward way to ensure that your baby or child gets all of the nutrients they need in their diet.
 
@@ -120,7 +120,7 @@ However, if your baby goat is dealing with an upset stomach or diarrhea, it migh
 
 Ultimately, the best thing you can do is consult with a goat expert to determine the best course of action for your particular situation.
 
-## Summary
+## What to Remember
 
 You can give powdered goat milk to sick baby goats as a way to provide them with additional nutrients and hydration. Just be sure to mix it with water according to the recommended ratio, and give your little one the correct dosage based on age, weight, and condition.
 

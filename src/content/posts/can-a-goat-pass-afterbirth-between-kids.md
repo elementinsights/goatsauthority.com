@@ -144,9 +144,9 @@ A newborn goat kid can weigh anywhere from 6 to 10 pounds. Bucks, or [male goats
 
 However, there's quite a bit of variation between individual animals, so it's not unusual for a doe to give birth to a buck that weighs more than she does. On average, kids gain about a pound per week during their first few months of life.
 
-Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. Ultimately, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
+Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. So, an [adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/) will weigh anywhere from 150 to 250 pounds.
 
-## Wrapping Up
+## Closing Notes
 
 Goats can pass afterbirth between kids, but it's important to take care of the afterbirth and make sure that it does not become infected. It's also important to keep an eye on the goat kid for signs of illness.
 

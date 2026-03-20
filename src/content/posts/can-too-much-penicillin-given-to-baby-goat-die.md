@@ -91,7 +91,7 @@ In some cases, penicillin may be required, but it is crucial to follow the recom
 
 While penicillin is typically safe for humans, the same cannot be said for baby goats. In fact, giving a baby goat too much penicillin can have serious side effects, including kidney damage and death.
 
-The reason for this is those baby [goats are unable to metabolize penicillin as effectively as adults](/can-i-use-kid-feeding-tube-to-drench-adult-goat/). As a result, the drug builds up in their system and can eventually cause toxicity.
+The reason for this is those baby [goats are unable to metabolize penicillin as effectively as adults](/can-i-use-kid-feeding-tube-to-drench-adult-goat/). the drug builds up in their system and can eventually cause toxicity.
 
 If you think your baby goat has been given too much penicillin, it is crucial to seek immediate veterinarian care. With prompt treatment, the chances of a full recovery are excellent.
 
@@ -133,7 +133,7 @@ In general, it's important to be aware of the potential side effects of giving a
 
 With prompt treatment, the chances of a full recovery are excellent.
 
-## Summary
+## The Bottom Line
 
 Giving your baby goat penicillin can be a lifesaving measure, but it's important to be aware of the potential risks.
 

@@ -132,7 +132,7 @@ With its unique nutrient profile, goat milk can be a delicious and nutritious pa
 
 With these tips in mind, you can enjoy all the benefits that goat milk has to offer.
 
-## Key Takeaways
+## Wrapping Up
 
 You cannot drink raw goat milk because of the potential health risks associated with it. Pasteurizing the milk is the best way to ensure that harmful bacteria are killed and prevent any health issues related to drinking raw goat milk.
 

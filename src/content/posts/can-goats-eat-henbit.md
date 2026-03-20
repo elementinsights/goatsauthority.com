@@ -59,7 +59,7 @@ However, it's important to note that henbit should only be [fed to goats](/can-y
 
 However, some people may be surprised to learn that goats can safely eat henbit. This is because [goats are able to detoxify the plant's toxins through their digestive system](/can-goats-digest-cotton/).
 
-As a result, they can safely consume henbit without suffering any ill effects. While not all goats will choose to eat henbit, those that do can safely enjoy this common weed without any problems.
+This means they can safely consume henbit without suffering any ill effects. While not all goats will choose to eat henbit, those that do can safely enjoy this common weed without any problems.
 
 ## Can all parts of the henbit plant be eaten by goats?
 
@@ -69,7 +69,7 @@ The leaves are opposite, ovate to lanceolate, and have toothed edges.
 
 The plant produces small purplish flowers from March to May. [Goats are herbivores and will eat just about anything](/can-a-goat-eat-sticker-bushes/), but not all parts of the henbit plant are safe for them to consume.
 
-The leaves and stems are fine, but the flowers contain small amounts of poison that can be harmful in large quantities. As a result, it's best to limit the number of henbit flowers that goats eat.
+The leaves and stems are fine, but the flowers contain small amounts of poison that can be harmful in large quantities. This is why it's best to limit the number of henbit flowers that goats eat.
 
 Overall, though, henbit's a relatively harmless plant and goats can safely consume most of it.
 
@@ -133,7 +133,7 @@ When it comes to [feeding goats](/can-a-goat-feed-quads/), there's no one-size-f
 
 With that in mind, by exercising caution and consulting with a livestock specialist, you can ensure that your [goat has a healthy and balanced diet that meets all of its nutritional needs](/can-i-use-regular-milk-to-feed-a-baby-goat/).
 
-## Key Takeaways
+## To Wrap Things Up
 
 Goats can eat henbit, but it's important to exercise caution when doing so. Henbit contains high levels of nitrates, which can be toxic to goats if consumed in large quantities.
 

@@ -166,7 +166,7 @@ Before offering the pumpkin to the goat, just make sure it's devoid of sugar and
 
 Goats should not eat pumpkin pie. Pumpkin pie is high in sugar and other additives which can be harmful to [goats](/can-goats-eat-everything/).
 
-## What to Remember
+## Wrapping Up
 
 Goats can eat pumpkins. Pumpkins are a great source of vitamins and minerals for goats.
 

@@ -73,7 +73,7 @@ With proper care and preparation, goat-rearing can be a rewarding experience for
 
 [Goats are wonderful creatures that offer a variety of benefits](/can-benadryl-hurt-a-goat/) to those who raise them. For one, goats are excellent at clearing overgrown areas, making them ideal for people who want to maintain a tidy property.
 
-Additionally, goats are very social animals and can form strong bonds with their owners. As a result, raising goats can be a great way to reduce stress and enjoy some companionship.
+Additionally, goats are very social animals and can form strong bonds with their owners. This means raising goats can be a great way to reduce stress and enjoy some companionship.
 
 Finally, [goats can provide milk](/can-a-cat-drink-goats-milk/), meat, and wool, making them a valuable addition to any farm or homestead. Whether you're looking for a helpful pet or a productive member of the homestead, goats are definitely worth considering.
 
@@ -125,7 +125,7 @@ Second, goats are prone to parasites, such as worms and coccidia. These parasite
 
 Finally, [goats are escape artists and will often try to jump over](/can-domestic-goats-jump/) or crawl under fences. So, it's crucial to make sure that your fence is tall enough and sturdy enough to keep your goats contained.
 
-## Summary
+## What to Remember
 
 [Goats can make a great addition to any farm](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or homestead. Not only are they fun and interesting animals, but they can also provide you with a source of income.
 

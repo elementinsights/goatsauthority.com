@@ -106,7 +106,7 @@ It's also worth noting that its use needs to be carefully considered when treati
 
 When in doubt, it is always best to consult with a qualified goat expert prior to administering any medication to your livestock. This will help ensure that they receive the proper treatment and care they need.
 
-Ultimately, by [carefully considering each animal's individual circumstances](/can-goats-drink-baby-formula/) and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
+In the end, by [carefully considering each animal's individual circumstances](/can-goats-drink-baby-formula/) and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
 ## How to administer Ivermectin to sheep and goats?
 
@@ -142,7 +142,7 @@ When in doubt, it is always best to consult with a qualified goat expert prior t
 
 This will help ensure that they receive the proper treatment and care they need. Ultimately, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
-## The Bottom Line
+## Quick Recap
 
 You can protect your sheep and goats against parasites by using Ivermectin, but it's important to follow the proper [dosage](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/) and safety protocols.
 

@@ -96,7 +96,7 @@ Motherwort is a common herb that has been used for centuries in traditional Chin
 
 Motherwort contains alkaloids that can be poisonous to goats, and it may also interfere with the absorption of other nutrients. In addition, motherwort can act as a diuretic, [causing goats to urinate more](/can-alfalfa-pellets-cause-goats-to-bloat/) frequently.
 
-As a result, goats who eat motherwort may experience dehydration and electrolyte imbalances. If you have goats that graze on motherwort, it is important to monitor them closely and consult with a goat expert if you notice any changes in their health.
+Because of this, goats who eat motherwort may experience dehydration and electrolyte imbalances. If you have goats that graze on motherwort, it is important to monitor them closely and consult with a goat expert if you notice any changes in their health.
 
 ## How to prevent your goats from eating motherwort?
 
@@ -138,10 +138,10 @@ Additionally, it has calming and anxiety-relieving properties. The plant can be 
 
 Although motherwort is typically regarded as harmless, it can have some unpleasant side effects, including sleepiness and stomach discomfort. As with any herbal remedy, consult a healthcare practitioner before using motherwort.
 
-## Summary
+## Closing Notes
 
 Goats can eat motherwort, but there are some potential risks to consider. Motherwort contains alkaloids that can be poisonous to goats, and it may also interfere with the absorption of other nutrients.
 
-In addition, motherwort can act as a diuretic, causing goats to urinate more frequently. As a result, goats who eat motherwort may experience dehydration and electrolyte imbalances.
+In addition, motherwort can act as a diuretic, causing goats to urinate more frequently. For this reason, goats who eat motherwort may experience dehydration and electrolyte imbalances.
 
 If you have goats that graze on motherwort, it is important to monitor them closely and consult with a veterinarian if you notice any changes in their health. To prevent your goats from eating motherwort, it is crucial to remove the plant from their pasture.

@@ -132,7 +132,7 @@ Another benefit is that grain can provide the goat with extra energy. However, t
 
 These risks include digestive problems, health issues, and breeding problems. Therefore, it is important to talk to a goat expert about the best way to feed grain to your male goat.
 
-## What to Remember
+## Final Thoughts
 
 Male goats can develop a condition called urinary calculi, which can be very painful and potentially life-threatening.
 

@@ -77,7 +77,7 @@ You can feed meat to a pregnant goat if you take certain precautions. Goats are 
 
 However, goats are browsers, which means that they like to nibble on a variety of different things.
 
-As a result, they are able to eat small amounts of meat without experiencing any problems. When feeding meat to a pregnant goat, it's crucial to make sure that the meat is cooked and minced very finely.
+This is why they are able to eat small amounts of meat without experiencing any problems. When feeding meat to a pregnant goat, it's crucial to make sure that the meat is cooked and minced very finely.
 
 You should also avoid feeding the goat too much meat at once, as this could cause an upset stomach. If you take these precautions, you can safely feed meat to a pregnant goat without any problems.
 
@@ -137,7 +137,7 @@ If you decide to feed your goat meat, it's crucial to make sure that you are fee
 
 A good rule of thumb is to give them no more than 1/4 pound of meat per day. If you are feeding them a diet that includes other protein sources, such as hay or [grains](/can-goats-eat-rice/), you can give them a slightly larger portion of meat.
 
-## The Bottom Line
+## Our Take
 
 Goats can eat meat, but there are several hazards and risks associated with doing so. If you decide to feed your goat meat, be sure to talk to an animal expert first to ensure that it's the right decision for your herd.
 

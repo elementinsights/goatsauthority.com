@@ -81,7 +81,7 @@ Kohlrabi is often eaten raw, but it can also be cooked.
 
 Goats are browsers, which means that they prefer to eat leaves and other tender plant parts rather than grasses and hay.
 
-As a result, they are able to digest a wide variety of plants that other animals cannot. This includes Kohlrabi.
+ they are able to digest a wide variety of plants that other animals cannot. This includes Kohlrabi.
 
 In fact, goats will often eat Kohlrabi leaves and stem as well as the root itself.
 
@@ -99,7 +99,7 @@ When feeding kohlrabi to goats, there are a few potential hazards to be aware of
 
 Kohlrabi contains high levels of oxalates, which can bind with calcium and other minerals in the [goat's digestive](/can-goats-digest-anything/) system, making them unavailable for absorption. This can eventually lead to mineral deficiencies and health problems.
 
-Plus, kohlrabi leaves are high in lignin, which is difficult for goats to digest. As a result, [feeding large quantities of kohlrabi leaves to goats can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) such as diarrhea or scouring.
+Plus, kohlrabi leaves are high in lignin, which is difficult for goats to digest. For this reason, [feeding large quantities of kohlrabi leaves to goats can cause digestive issues](/can-baking-soda-cause-urinary-issues-in-goats/) such as diarrhea or scouring.
 
 Finally, kohlrabi crops can sometimes be contaminated with harmful bacteria such as E. coli or Salmonella.
 
@@ -131,7 +131,7 @@ If you notice any problems, discontinue feeding kohlrabi and consult with your v
 
 Kohlrabi is a delicious and nutritious treat for your goats. By following these tips, you can ensure that they enjoy their meals and stay healthy at the same time.
 
-## Summary
+## Closing Notes
 
 Overall, kohlrabi is a safe vegetable for goats to eat. However, there are a few potential hazards to be aware of, such as the high oxalate content and the possibility of contamination with harmful bacteria.
 

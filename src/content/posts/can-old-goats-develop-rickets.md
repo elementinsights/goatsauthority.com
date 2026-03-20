@@ -106,7 +106,7 @@ Of course, at the same time, it's important to consider other factors that can i
 
 For example, an old goat's general health and physical condition may play a role in determining whether or not he or she will regain full mobility after suffering from rickets.
 
-Ultimately, then, whether or not an older goat can recover from rickets will depend on a number of different factors unique to each animal.
+In the end, then, whether or not an older goat can recover from rickets will depend on a number of different factors unique to each animal.
 
 Nevertheless, given proper medical care and time, many older goats have been able to fully recover and thrive.
 
@@ -144,9 +144,9 @@ This can help alleviate some of the discomfort associated with rickets and make 
 
 Additionally, some goat owners have found that supplements like vitamin D3 and phosphorus can be helpful in treating rickets.
 
-Ultimately, though, it's important to speak with a veterinarian about what might work best for your goat, as each animal will respond differently to various treatments.
+So, though, it's important to speak with a veterinarian about what might work best for your goat, as each animal will respond differently to various treatments.
 
-## The Bottom Line
+## Quick Recap
 
 Overall, rickets is a serious condition that can have a profound impact on an old goat's health. However, it is important to remember that there are many different ways to treat and prevent this disease.
 

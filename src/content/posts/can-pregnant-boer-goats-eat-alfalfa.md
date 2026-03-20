@@ -73,7 +73,7 @@ Therefore, a good starting point for determining the ideal amount of alfalfa for
 
 From there, you can tailor your diet based on your goat's age and breed, her health, and condition before she became pregnant, and whether there are other animals in the herd who might benefit from eating more alfalfa as well.
 
-Ultimately, though, it is important to remember that every animal is different so it is best to monitor her closely and adjust her diet accordingly.
+At the end of the day, though, it is important to remember that every animal is different so it is best to monitor her closely and adjust her diet accordingly.
 
 ## When is the best time to feed alfalfa to pregnant Boer goats?
 
@@ -93,7 +93,7 @@ Some people claim that the high protein content of alfalfa can lead to imbalance
 
 But, others argue that there is no evidence to back up these claims, and that alfalfa may actually be beneficial for pregnant Boer goats as it increases milk production and helps to support healthy fetal growth.
 
-Ultimately, the best way to determine whether or not there are any negative side effects of feeding alfalfa to pregnant Boer goats is to consult a qualified goat expert who can offer individualized advice based on specific animals and dietary needs.
+At the end of the day, the best way to determine whether or not there are any negative side effects of feeding alfalfa to pregnant Boer goats is to consult a qualified goat expert who can offer individualized advice based on specific animals and dietary needs.
 
 ## How to prevent health problems in Boer goats?
 
@@ -125,7 +125,7 @@ Be sure to track any changes in behavior or activity as well, especially if you 
 
 By paying attention to these key signs, you can be sure that your pregnant Boer goat is getting all the nourishment she needs to grow her young successfully.
 
-## Summary
+## Closing Notes
 
 In general, it is best to consult with a qualified goat expert before making any changes to your Boer goat's diet, especially if the animal is pregnant.
 

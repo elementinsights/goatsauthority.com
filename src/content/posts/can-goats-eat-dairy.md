@@ -68,7 +68,7 @@ It also has a higher concentration of vitamins and minerals. For these reasons, 
 
 Goats are creatures of habit and do best with a consistent diet. They are very versatile in their eating habits and can digest a wide variety of plants.
 
-Be aware, they do have some specific dietary requirements that should be met in order to maintain their health and well-being. When it comes to [dairy goats](/can-a-dairy-goats-udder-skin-have-varying-colors/), one of the most important factors is the amount of dairy they consume each day.
+Be aware, they do have some specific dietary requirements that should be met in order to maintain their health and well-being. Talking about [dairy goats](/can-a-dairy-goats-udder-skin-have-varying-colors/), one of the most important factors is the amount of dairy they consume each day.
 
 Goat milk is an excellent source of nutrients, including protein, calcium, and vitamins A and D. It's also relatively low in fat and calories, making it a healthy choice for those looking to manage their weight.
 
@@ -124,7 +124,7 @@ Cheese made from goat milk is also a good source of protein and calcium, and it 
 
 Alternative dairy products for goats can be found at most grocery stores.
 
-## Wrapping Up
+## Our Take
 
 Overall, Dairy is a healthy and nutritious part of a Goat's diet, but there are some risks associated with feeding dairy to goats. One of the biggest dangers is the risk of bloat.
 

@@ -107,7 +107,7 @@ Although goats are typically associated with eating grass and hay, they will als
 
 Be aware, there are [potential risks associated with feeding goats applesauce](/can-a-plastic-bag-hurt-a-goat/). The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-alfalfa-pellets-cause-goats-to-bloat/), leading to diarrhea or vomiting.
 
-In addition, the seeds in applesauce contain cyanide, which can be toxic to goats if consumed in large quantities. As a result, it's crucial to feed goats applesauce in moderation and to remove the seeds before giving them to them.
+In addition, the seeds in applesauce contain cyanide, which can be toxic to goats if consumed in large quantities. For this reason, it's crucial to feed goats applesauce in moderation and to remove the seeds before giving them to them.
 
 ## Can pregnant goats eat applesauce?
 
@@ -139,8 +139,8 @@ Second, avoid giving them very spicy applesauce. Goats are sensitive to spices a
 
 And finally, remember that goats are attractive creatures and will usually prefer hay or other greens over fruits and vegetables. So, don't be surprised if they don't eat all of the applesauce you give them.
 
-## Key Takeaways
+## Closing Notes
 
 [Goats can eat applesauce](/can-goats-eat-grapes/), but there are potential risks associated with it. The sugar content in applesauce can [cause gastrointestinal upset in goats](/can-goats-cause-slope/), and the seeds contain cyanide, which can be toxic to goats if consumed in large quantities.
 
-As a result, it's important to [feed goats applesauce](/can-baking-soda-cause-urinary-issues-in-goats/) in moderation and to remove the seeds before giving them to them. If you are concerned about potential problems, you can always consult with a veterinarian before feeding your goat anything new.
+For this reason, it's important to [feed goats applesauce](/can-baking-soda-cause-urinary-issues-in-goats/) in moderation and to remove the seeds before giving them to them. If you are concerned about potential problems, you can always consult with a veterinarian before feeding your goat anything new.

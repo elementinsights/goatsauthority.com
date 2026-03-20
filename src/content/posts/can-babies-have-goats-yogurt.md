@@ -126,7 +126,7 @@ Goat's yogurt should be stored in the refrigerator and consumed within 7-10 days
 
 When [serving goat's yogurt](/can-dogs-have-goat-yogurt/) to your baby, be sure to start with a small amount and watch for signs of intolerance. If your baby tolerates goat's yogurt well, you can continue to offer it as part of a healthy diet.
 
-## Wrapping Up
+## The Bottom Line
 
 Goat's yogurt can be a healthy and delicious part of your baby's diet. However, it's important to speak with a healthcare professional before giving it to your child.
 

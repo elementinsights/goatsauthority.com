@@ -154,7 +154,7 @@ Mountain goats are well-adapted to their mountainous habitat. They have thick fu
 
 Mountain goats are also able to climb steep cliffs and slopes with ease, thanks to their agile bodies and sharp claws. This allows them to escape from predators and access the [best grazing areas](/can-goats-be-tied-up-for-selective-area-grazing/).
 
-## Final Thoughts
+## Summary
 
 Mountain goats can kill you if they feel threatened or if they are protecting their young. Their horns are sharp and their hooves are strong, so they can cause serious injury if they attack.
 

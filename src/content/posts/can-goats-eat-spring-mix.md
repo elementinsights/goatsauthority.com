@@ -85,7 +85,7 @@ This will help to minimize the risk of bloat.
 
 ## Serving size of spring mix to goats
 
-When it comes to feeding spring mix to goats, it is important to be aware of the appropriate [serving size](/can-goats-eat-grapes/). As we mentioned before, goats are prone to developing bloat, so it is crucial to only give them a small amount of spring mix at a time.
+With feeding spring mix to goats, it is important to be aware of the appropriate [serving size](/can-goats-eat-grapes/). As we mentioned before, goats are prone to developing bloat, so it is crucial to only give them a small amount of spring mix at a time.
 
 A good rule of thumb is to start with 1-2 cups of spring mix per goat per day. If your goat seems to be doing well on this amount, you can gradually increase it over time.
 
@@ -127,7 +127,7 @@ Whether you [feed it to your goats](/can-a-goat-feed-quads/) or use it in anothe
 
 If you are looking for a way to improve the [health of your goats](/can-goats-eat-mineral-salt-made-for-cattle/) or benefit other animals on your farm, spring mix is a great option.
 
-## The Bottom Line
+## Our Take
 
 Overall, feeding spring mix to goats can be a great way to provide them with essential nutrients. Just be sure to be aware of the risks and take precautions to avoid them.
 

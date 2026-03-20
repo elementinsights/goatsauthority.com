@@ -139,7 +139,7 @@ In addition to vaccinations, there are other steps you can take to protect your 
 
 You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your [goats healthy](/can-goats-be-outside-in-winter/) and free from disease.
 
-## Key Takeaways
+## Summary
 
 Diseases can spread from swine to goats. Swine can [carry and transmit a variety of diseases to goats](/can-goats-carry-distemper/), some of which are potentially fatal.
 

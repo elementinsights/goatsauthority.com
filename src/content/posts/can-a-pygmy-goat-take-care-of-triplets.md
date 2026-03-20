@@ -115,7 +115,7 @@ Another problem is that the [goats may become stressed and stop eating](/can-a-g
 
 Finally, some goats may have difficulty digesting milk because of a lack of enzymes. If your [goat is having trouble digesting milk](/can-i-put-safeguard-in-my-goats-milk/), you will need to give it enzymes before each feeding.
 
-## Summary
+## Closing Notes
 
 A pygmy goat can make a great wet nurse for triplets, but there are a few things you need to keep in mind.
 

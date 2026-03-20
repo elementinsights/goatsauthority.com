@@ -114,7 +114,7 @@ This option is perfect for those who want to experience the benefits of keeping 
 
 This can be a great option for those who do not have the space or resources to care for their own herd, but still want to enjoy the many benefits that goats have to offer. Whatever route you choose, goat care in Monroe County can be a fun and rewarding experience.
 
-## What to Remember
+## Our Take
 
 In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other [goats and humans](/can-i-give-my-goats-human-fish-pills/).
 

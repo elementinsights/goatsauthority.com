@@ -102,7 +102,7 @@ Goats are adaptable to a wide range of environments and can be found on every co
 
 For example, [goats can safely eat plants](/can-goats-eat-any-plant/) that are poisonous to other animals, such as rhododendrons and azaleas. In addition, goats are able to convert low-quality plants into high-quality milk and meat.
 
-When it comes to shelter, goats do not need much. They are able to withstand cold temperatures and can even live in high altitudes.
+Talking about shelter, goats do not need much. They are able to withstand cold temperatures and can even live in high altitudes.
 
 Goats are also relatively resistant to disease, although they can be susceptible to parasites if they do not have access to clean water and adequate shelter. Overall, goats are hardy creatures that can thrive in a variety of conditions.
 
@@ -134,7 +134,7 @@ Here are a few fun facts about goats:
 - [Goats are proficient swimmers](/can-a-goat-swim-everything-you-need-to-know/) and have been known to swim for miles.
 - Goats are curious creatures and will often investigate anything new in their environment.
 
-## The Bottom Line
+## Quick Recap
 
 Overall, you can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
 

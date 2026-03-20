@@ -131,7 +131,7 @@ In addition, feeding your goat with cans deprives them of necessary nutrients fo
 
 ## the Truth About What Goats Can and Cannot Eat
 
-When it comes to what goats can eat, there’s a lot of misinformation out there. **You may have heard that goats will eat anything, even cans**.
+Regarding what goats can eat, there’s a lot of misinformation out there. **You may have heard that goats will eat anything, even cans**.
 
 But is this really true?
 

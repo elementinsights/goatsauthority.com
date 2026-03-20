@@ -71,7 +71,7 @@ However, moderation is key here like with any food item in a goat’s diet becau
 
 ### How Often Should Goats Eat Oranges?
 
-When it comes to feeding goats oranges, moderation is key. Oranges are not a regular part of a goat’s diet but can be given as treats occasionally.
+For feeding goats oranges, moderation is key. Oranges are not a regular part of a goat’s diet but can be given as treats occasionally.
 
 Too many citrus fruits might upset their stomach.
 

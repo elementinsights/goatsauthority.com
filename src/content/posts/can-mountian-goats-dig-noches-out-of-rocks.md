@@ -87,7 +87,7 @@ Additionally, as goats continue to excavate new holes, there is greater potentia
 
 Despite these risks, mountain goat populations have continued to thrive in many regions around the world, demonstrating both their resilience and adaptability.
 
-Ultimately, then, it is clear that while there may be associated risks with goat-dug noches, they remain a key part of goat ecology and an important aspect of goat habitat management.
+ then, it is clear that while there may be associated risks with goat-dug noches, they remain a key part of goat ecology and an important aspect of goat habitat management.
 
 ## How can mountain goats dig noches out of rocks?
 
@@ -117,7 +117,7 @@ It is also possible that some mountain goats choose not to dig noches, perhaps d
 
 Even so, it is important to note that there have been no definitive studies on this topic, so conclusive answers about mountain goat noches-digging behaviors remain elusive for now.
 
-Ultimately, further research will be necessary to gain a better understanding of this fascinating natural behavior.
+When all is said and done, further research will be necessary to gain a better understanding of this fascinating natural behavior.
 
 ## What else can mountain goats do besides dig noches?
 

@@ -131,7 +131,7 @@ No matter what you use them for, wheat stalks are a versatile and useful materia
 
 Just make sure to introduce them slowly and in moderation, so that your [goats don't experience any digestive problems](/can-goats-digest-cotton/).
 
-## Wrapping Up
+## Quick Recap
 
 Goats can eat wheat stalks, but they should only be given a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) at first. Wheat stalks are high in fiber and can cause digestive problems if a [goat eats too much](/can-a-goat-eat-sticker-bushes/) of them.
 

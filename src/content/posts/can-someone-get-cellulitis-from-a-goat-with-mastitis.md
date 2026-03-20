@@ -91,7 +91,7 @@ Although there may be certain lifestyle changes and practices that can reduce yo
 
 Additionally, some people may be at higher risk due to repeated exposures to environmental irritants or old trauma injuries near the area where cellulitis tends to develop.
 
-Ultimately, the best way to deal with cellulitis is to see a doctor as soon as possible if you suspect that you may have developed it.
+ the best way to deal with cellulitis is to see a doctor as soon as possible if you suspect that you may have developed it.
 
 There are various [treatments available that can help to relieve symptoms](/can-a-goat-get-rabies/) and manage the condition before it gets worse.
 
@@ -129,7 +129,7 @@ Additionally, people with cellulitis may be at risk for developing skin abscesse
 
 So it's important to see a doctor as soon as possible if you think you might have cellulitis in order to avoid any potential complications.
 
-## The Bottom Line
+## Wrapping Up
 
 In general, cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.
 

@@ -133,6 +133,6 @@ There are many other types of plants that can be fed to goats, and goat owners s
 
 Overall, lambsquarter weed is a valuable source of [nutrition for goats](/can-i-use-regular-milk-to-feed-a-baby-goat/). However, there are some risks associated with feeding this plant to goats.
 
-As such, it's important to monitor the quantity of lambsquarter that goats consume and to make sure that they have access to other sources of food as well. Lambsquarter can be fed to goats on a daily basis, and it can be used as an ingredient in many different recipes.
+Because of that, it's important to monitor the quantity of lambsquarter that goats consume and to make sure that they have access to other sources of food as well. Lambsquarter can be fed to goats on a daily basis, and it can be used as an ingredient in many different recipes.
 
 Although there are other plants that can be fed to goats, lambsquarter is a good option for goat owners who are looking to provide their animals with a nutritious and healthy meal.

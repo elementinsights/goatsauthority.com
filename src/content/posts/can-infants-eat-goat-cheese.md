@@ -80,7 +80,7 @@ In general, then, goat cheese is an excellent source of nutrition for young chil
 
 ## How to choose and store goat cheese?
 
-When it comes to choosing and storing goat cheese, there are a few key factors to keep in mind. With regard to the selection, it's important to first consider the intended use or purpose of the cheese.
+As for choosing and storing goat cheese, there are a few key factors to keep in mind. With regard to the selection, it's important to first consider the intended use or purpose of the cheese.
 
 Goat cheeses come in a wide variety of textures, from creamy and spreadable to crumbly and firm. Additionally, some goat cheeses are intended for cooking purposes while others are meant to be eaten raw or semi-cooked as part of a dish.
 
@@ -124,7 +124,7 @@ Finally, always take steps to avoid oxidization of the goat cheese by packing it
 
 With these tips and a little bit of practice, you can prepare delicious and nutritious [homemade goat cheese for your baby](/can-8-week-old-baby-goats-be-in-with-each-other/) with confidence.
 
-## Key Takeaways
+## What to Remember
 
 Goat cheese is a versatile and delicious cheese that can be enjoyed in a variety of ways. When choosing goat cheese, it's important to consider factors like texture, taste, and freshness.
 

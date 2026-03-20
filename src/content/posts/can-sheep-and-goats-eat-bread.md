@@ -122,7 +122,7 @@ Another key difference is that while both animals mow the grass by grazing on it
 
 In terms of behavior, it has been observed that goats are far more social and willing to cooperate with one another than sheep, who can sometimes be antisocial or even vicious.
 
-Ultimately, these differences make sheep and goats suited for very different environments and lifestyles, but they remain essential parts of our agricultural landscape.
+So, these differences make sheep and goats suited for very different environments and lifestyles, but they remain essential parts of our agricultural landscape.
 
 ## What do sheep and goats eat in the wild?
 
@@ -134,7 +134,7 @@ Both species will also eat acacia leaves when they are available, as well as var
 
 Because they thrive under such diverse conditions, it is no surprise that these two animals have adapted so well to living alongside humans. After all, there is almost certainly something in our backyards for them to eat.
 
-## Summary
+## Closing Notes
 
 Overall, feeding bread to sheep and goats can be a healthy and economical way to provide them with the nutrients they need.
 

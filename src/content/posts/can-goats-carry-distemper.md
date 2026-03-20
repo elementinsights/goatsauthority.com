@@ -154,7 +154,7 @@ Parasites, on the other hand, are often asymptomatic but can still cause serious
 
 By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
 
-## Wrapping Up
+## Closing Notes
 
 Overall, goats are relatively resilient creatures that can withstand a lot of abuse and still remain healthy. But, they are susceptible to a number of diseases, some of which can be fatal.
 

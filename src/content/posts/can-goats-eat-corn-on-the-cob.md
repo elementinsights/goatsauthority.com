@@ -140,7 +140,7 @@ This is due to the possibility of goats choking on corn on the cob.
 
 Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other [seasonings](/can-goats-eat-cabbage/) to the corn on the cob before feeding it to goats.
 
-## Wrapping Up
+## The Bottom Line
 
 Corn on the cob can be a healthy and delicious part of your goat's diet. Just be sure to feed it in moderation and cut it into [smaller pieces](/can-goats-eat-sunflower-seeds/) before feeding it to goats.
 

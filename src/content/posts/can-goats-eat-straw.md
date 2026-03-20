@@ -59,7 +59,7 @@ Keep in mind, it's important to remember that straw is not a substitute for fres
 
 A pregnant goat can eat straw if it's properly processed. Goats are able to digest cellulose, which is the main component of plant cell walls.
 
-As a result, they are able to extract nutrients from [plants](/can-goats-eat-any-plant/) that other animals cannot digest. Still, goats are also very sensitive to changes in their diet, so you need to introduce new foods gradually.
+ they are able to extract nutrients from [plants](/can-goats-eat-any-plant/) that other animals cannot digest. Still, goats are also very sensitive to changes in their diet, so you need to introduce new foods gradually.
 
 If a pregnant goat eats too much straw at once, she may experience digestive problems. In severe cases, this can lead to abortion or stillbirth.
 
@@ -97,7 +97,7 @@ There are many different types of goats, and each type has its own unique diet. 
 
 Straw is a type of plant material that is often used as bedding for animals, and it's also sometimes fed to goats as a source of food. But, not all goats eat straw.
 
-Some goats may reject straw because it's not as nutritious as other types of food, while others may simply not like the taste. Ultimately, it's up to the individual goat to decide whether or not to eat straw.
+Some goats may reject straw because it's not as nutritious as other types of food, while others may simply not like the taste. When all is said and done, it's up to the individual goat to decide whether or not to eat straw.
 
 ## What are the benefits of feeding goats straw?
 
@@ -119,13 +119,13 @@ Even so, there are still some risks associated with feeding goats straw. One of 
 
 To prevent this, it's crucial to chop the straw into small pieces before feeding it to your goats. And also, a straw that is too old or rotten can also cause digestive problems.
 
-As a result, you must only feed fresh, clean straw to your goats. By taking these precautions, you can help ensure that your goats stay healthy and safe.
+This is why you must only feed fresh, clean straw to your goats. By taking these precautions, you can help ensure that your goats stay healthy and safe.
 
 ## How much straw can a goat eat per day?
 
 Goats are Creatures of Habit. They like to have the same routine every day and will usually follow the same path to their food and water sources.
 
-Goats are also grazers, which means they prefer to eat small amounts of food throughout the day instead of one large meal. When it comes to straw, goats can consume up to 3% of their body weight per day.
+Goats are also grazers, which means they prefer to eat small amounts of food throughout the day instead of one large meal. With straw, goats can consume up to 3% of their body weight per day.
 
 For example, a 150-pound goat can eat up to 4.5 pounds of straw per day. goats are browsers, which means they also like to nibble on twigs, leaves, and other plants.
 
@@ -143,7 +143,7 @@ Straw is a good source of fiber and can help goats to wear down their teeth. How
 
 Goats are creatures of habit and prefer to have the same routine every day. They are also grazers, which means they like to eat small amounts of food throughout the day instead of one large meal.
 
-## Wrapping Up
+## Final Thoughts
 
 Overall, straw is a safe food for goats to eat. However, there are some risks associated with feeding it to them.
 

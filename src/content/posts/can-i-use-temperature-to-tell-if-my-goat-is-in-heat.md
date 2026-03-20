@@ -58,7 +58,7 @@ In general, goats are more comfortable when temperatures stay within this range,
 
 Some goat breeds can withstand colder temperatures better than others, and some do better in hot weather.
 
-As such, it is crucial to consider these individual differences when determining an appropriate temperature range for goats in heat.
+Because of that, it is crucial to consider these individual differences when determining an appropriate temperature range for goats in heat.
 
 Ultimately, keeping these animals comfortable and healthy in their natural environment will ensure that they remain productive and happy throughout their lives.
 
@@ -92,7 +92,7 @@ This change in temperature may be accompanied by other signs such as changes in 
 
 Additionally, you can consider other factors such as weight gain and physical appearance to determine whether or not your goat is pregnant.
 
-Ultimately, if you have any questions about whether or not your goat is pregnant, it's best to consult with a goat expert for a more definitive diagnosis.
+At the end of the day, if you have any questions about whether or not your goat is pregnant, it's best to consult with a goat expert for a more definitive diagnosis.
 
 ## Can you use a thermometer to determine when your goat is ready to give birth?
 
@@ -110,7 +110,7 @@ And, there are certain behavioral changes to look out for as well, such as persi
 
 Taken together, these factors suggest that using a thermometer to track a goat's body temperature can only ever be one part of the picture when it comes to predicting when she will give birth.
 
-Ultimately, we must also rely on our own experience and intuition when it comes to determining whether a goat is ready for labor.
+When all is said and done, we must also rely on our own experience and intuition when it comes to determining whether a goat is ready for labor.
 
 ## How do you care for a newborn kid goat?
 
@@ -124,11 +124,11 @@ Finally, you will need to make sure that your kid is getting plenty of time outs
 
 By following these tips, you can help ensure that your newborn kid receives the best care possible and grows into a strong and [healthy adult goat](/can-you-band-an-adult-goats-horns-to-dehorn-them/).
 
-## Key Takeaways
+## Quick Recap
 
 You can use a thermometer to help determine if your goat is pregnant, but it should only be one part of the picture.
 
-There are a number of other physical signs to look out for, and you should always consult with a goat expert if you have any questions about your goat's health. When it comes to caring for a newborn kid goat, there are a few key things to keep in mind.
+There are a number of other physical signs to look out for, and you should always consult with a goat expert if you have any questions about your goat's health. As for caring for a newborn kid goat, there are a few key things to keep in mind.
 
 First, you need to provide a comfortable and safe environment. Second, you should give the kid regular feedings.
 

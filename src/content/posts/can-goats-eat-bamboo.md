@@ -53,7 +53,7 @@ The young shoots and leaves are safer options when feeding your goats with bambo
 
 ### Different Bamboo Species Suitable for Goats
 
-When it comes to feeding goats, bamboo is an option. There are many types of bamboo that goats can eat safely.
+About feeding goats, bamboo is an option. There are many types of bamboo that goats can eat safely.
 
 It’s a hardy plant and grows in different climates.
 
@@ -75,7 +75,7 @@ The reason for this lies in the composition of heavenly bamboo itself. This plan
 
 These compounds break down into hydrogen cyanide or prussic acid inside the animal’s body.
 
-When consumed by a goat, these chemicals interfere with oxygen transport within the bloodstream. As a result, it causes suffocation at cellular level even though there might be enough oxygen available around them.
+When consumed by a goat, these chemicals interfere with oxygen transport within the bloodstream. it causes suffocation at cellular level even though there might be enough oxygen available around them.
 
 In conclusion: while your goat might find heavenly bamboo tempting because of its appealing look, do not let them near it. Always remember what they say about curiosity killing cats (or rather, poisoning goats).
 

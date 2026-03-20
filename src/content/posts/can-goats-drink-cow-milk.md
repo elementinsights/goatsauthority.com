@@ -53,7 +53,7 @@ So while you can feed your baby goats cow’s  milk if necessary, try sourcing
 
 ### Successful Bottle Feeding for Baby Goats
 
-When it comes to bottle feeding baby goats, cow milk can be a suitable option. Cow’s milk is often easier to get than goat’s milk.
+Regarding bottle feeding baby goats, cow milk can be a suitable option. Cow’s milk is often easier to get than goat’s milk.
 
 It has the nutrients that growing kids need.
 
@@ -121,7 +121,7 @@ Always consult with a vet if you’re unsure about feeding practices as overfeed
 
 ### Type of Milk Feeding for Baby Goats
 
-When it comes to feeding baby goats, the type of milk you use is crucial. Many people wonder if they can give their goat kids cow’s milk instead of goat’s milk.
+About feeding baby goats, the type of milk you use is crucial. Many people wonder if they can give their goat kids cow’s milk instead of goat’s milk.
 
 The short answer is yes, but there are a few things to keep in mind. **Cow’s milk has less fat and protein than goat’s milk**.
 
@@ -213,7 +213,7 @@ Remember too that any change in diet must be gradual so as not to upset their st
 
 ## Proper Care and Preparation of Cow’s Milk
 
-When it comes to feeding goats, cow’s milk can be a good option. It is rich in nutrients and often readily available.
+With feeding goats, cow’s milk can be a good option. It is rich in nutrients and often readily available.
 
 However, proper care and preparation are crucial.
 
@@ -243,7 +243,7 @@ In short, while cow’s milk can supplement a goat kid’s diet after weaning, [
 
 ### Weaning Method for Baby Goats
 
-When it comes to weaning baby goats, there’s a common question. Can goats drink cow milk?
+For weaning baby goats, there’s a common question. Can goats drink cow milk?
 
 The answer is yes, they can. Cow milk is often used as an alternative when mother goat’s milk isn’t available.
 

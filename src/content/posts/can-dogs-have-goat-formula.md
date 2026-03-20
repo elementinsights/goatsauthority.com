@@ -50,7 +50,7 @@ With that in mind, it's important to introduce goat milk into your dog's diet sl
 
 This will help your dog's digestive system adjust to the new food and avoid any upset stomach.
 
-it's also important to remember that [goats are herbivores and their milk is not intended for carnivores](/can-i-give-puppy-canned-goats-milk/) like dogs. As such, goat milk should only be given to your dog in limited quantities as a treat or supplement, not as a replacement for their regular dog food.
+it's also important to remember that [goats are herbivores and their milk is not intended for carnivores](/can-i-give-puppy-canned-goats-milk/) like dogs. For that reason, goat milk should only be given to your dog in limited quantities as a treat or supplement, not as a replacement for their regular dog food.
 
 ## What is goat milk formula and what are the benefits of giving it to dogs?
 
@@ -117,13 +117,13 @@ Finally, the last type of dog that can have goat formula without any problem is 
 
 Overall, there are three main types of dogs that can have goat formula without any problem. These breeds are the Labrador Retriever, golden retriever, and Australian Shepherd.
 
-## The Bottom Line
+## Final Thoughts
 
 Dogs can have goat formula. Goat milk formula is a safe and nutritious way to give your dog a boost of energy, vitamins, and minerals.
 
 But, you [need to remember that goats are herbivores and their milk is not intended for carnivores](/can-i-mix-goat-milk-with-whey-protein/) like dogs.
 
-As such, goat milk should only be given to your dog in limited quantities as a treat or supplement, not as a replacement for their regular dog food.
+For that reason, goat milk should only be given to your dog in limited quantities as a treat or supplement, not as a replacement for their regular dog food.
 
 There are a few alternative milk products that are safe for dogs. These include coconut milk, almond milk, soy milk, and rice milk. Interestingly, [sheep can also drink raw goat's milk](/can-sheep-drink-raw-goats-milk/) when alternative milk sources are needed.
 

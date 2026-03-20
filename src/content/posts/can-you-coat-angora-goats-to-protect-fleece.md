@@ -90,7 +90,7 @@ Many people are familiar with the soft, luxurious fibers used to make angora swe
 
 And in order to protect the goats' valuable fleece, they must be regularly coated with special oil. This process not only helps to keep the coat healthy and free of tangles, but it also protects against pests and parasites.
 
-In addition, the coating helps to repel water, keeping the goat's coat dry and warm in even the harshest conditions. As a result, coating an angora goat is essential for both protecting its valuable fleece and ensuring its well-being.
+In addition, the coating helps to repel water, keeping the goat's coat dry and warm in even the harshest conditions. This is why coating an angora goat is essential for both protecting its valuable fleece and ensuring its well-being.
 
 ## How often should you coat an angora goat?
 

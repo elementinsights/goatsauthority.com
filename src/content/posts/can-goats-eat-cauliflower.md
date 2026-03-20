@@ -126,7 +126,7 @@ A healthy adult goat can probably eat up to 2 or 3 heads of cauliflower per day.
 
 If the cauliflower is particularly large, the goat may only be able to eat half of it in one day.
 
-It's also important to note that goats are grazing animals, so they prefer to eat small amounts of food throughout the day rather than one large meal. As a result, a goat's diet should be high in fiber and low in sugar to prevent digestive problems.
+It's also important to note that goats are grazing animals, so they prefer to eat small amounts of food throughout the day rather than one large meal. This means a goat's diet should be high in fiber and low in sugar to prevent digestive problems.
 
 While goats are generally able to digest most plant material, there are some exceptions.
 
@@ -144,4 +144,4 @@ Goats can eat cauliflower, and it can be a healthy part of their diet. However, 
 
 Cauliflower is also high in oxalates, which can bind to calcium and prevent absorption.
 
-As a result, it's important to only feed cauliflower to goats in moderation, and always provide plenty of fresh water. If you have any concerns about feeding cauliflower to your goat, please consult an animal expert.
+So, it's important to only feed cauliflower to goats in moderation, and always provide plenty of fresh water. If you have any concerns about feeding cauliflower to your goat, please consult an animal expert.

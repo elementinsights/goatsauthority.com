@@ -94,7 +94,7 @@ With patience and perseverance, you can [train your goat](/can-baby-goats-be-hou
 
 ## What are some common obstacles that goats are trained to jump over?
 
-[Goats are agile creatures that enjoy jumping and climbing](/can-a-goat-climb-trees/). As such, they can be trained to jump over a variety of obstacles.
+[Goats are agile creatures that enjoy jumping and climbing](/can-a-goat-climb-trees/). Because of that, they can be trained to jump over a variety of obstacles.
 
 Common obstacles that goats are trained to jump over include barrels, hurdles, and fences.
 
@@ -144,7 +144,7 @@ A low hurdle is a good place to start; gradually increase the height of the hurd
 
 With some patience and practice, you'll have a trained goat jump in no time - and without breaking the bank.
 
-## What to Remember
+## To Wrap Things Up
 
 Domestic goats can jump - and with a little bit of training, they can be taught to jump over a variety of obstacles.
 

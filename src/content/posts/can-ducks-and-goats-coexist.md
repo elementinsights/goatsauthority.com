@@ -65,7 +65,7 @@ Additionally, having both [goats and ducks can provide a steady source of income
 
 And finally, keeping them together can provide valuable companionship for both species, something that is especially important for goats, who are social creatures.
 
-Ultimately, there are many reasons why keeping goats and ducks together is a good idea and something any farmer or rancher should consider.
+ there are many reasons why keeping goats and ducks together is a good idea and something any farmer or rancher should consider.
 
 ## What do you need to consider before deciding to keep goats and ducks together on your farmstead?
 
@@ -137,6 +137,6 @@ Second, you need to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-
 
 By understanding these risks and taking steps to minimize them, you can create a safe and harmonious environment for your goats and ducks.
 
-## Summary
+## What to Remember
 
 Goats and ducks can live together harmoniously with a little patience and effort. By providing each animal with its own space, giving them plenty of opportunities to socialize, and monitoring their health closely, you can create a safe and healthy environment for both species.

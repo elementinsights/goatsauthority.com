@@ -130,7 +130,7 @@ Other breeds of goat with a similar reputation include the [Nigerian Dwarf Goat 
 
 Whether you're looking for a pet or a livestock animal, a goat from one of these breeds is sure to be a good choice.
 
-## What to Remember
+## Summary
 
 [Goats are able to eat a wide variety of plants](/can-goats-eat-any-plant/), including leaves, twigs, and bark. However, they still require a diet that includes a variety of nutrients in order to stay healthy.
 

@@ -128,7 +128,7 @@ Baby goats are quite sensitive to solanine. This is a compound found in eggplant
 
 Solanine can be harmful, especially for the little ones.
 
-When it comes to baby goats, they have smaller bodies than adults. Thus, even small amounts of solanine can cause harm.
+With baby goats, they have smaller bodies than adults. Thus, even small amounts of solanine can cause harm.
 
 Eggplant has enough solanine that could lead to issues if consumed by your kid goat.
 

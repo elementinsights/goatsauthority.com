@@ -84,7 +84,7 @@ Goats have been used for clearing federal lands for many years. They are effecti
 
 Goats are easy to take care of and can be managed in multiple ways. For example, you can [let them graze on a pasture or confine them to one area](/can-goats-be-tied-up-for-selective-area-grazing/) using [fences](/can-goats-climb-fences/) or other types of barriers.
 
-[Goats](/can-i-buy-a-goat-as-a-pet/) are also less likely than other animals to cause environmental damage, such as soil compaction or trampling delicate plant life. As a result, they offer a number of advantages for land management.
+[Goats](/can-i-buy-a-goat-as-a-pet/) are also less likely than other animals to cause environmental damage, such as soil compaction or trampling delicate plant life. Because of this, they offer a number of advantages for land management.
 
 ## What kind of goats can be used to clear federal lands?
 
@@ -134,11 +134,11 @@ The cost of using goats for federal land clearance varies depending on the size 
 
 Generally speaking, it costs about $200 per acre to graze by a herd of goats. Given that most federal land projects involve hundreds or even thousands of acres, the total cost can reach the millions.
 
-Who pays for this? Ultimately, taxpayers foot the bill.
+Who pays for this? At the end of the day, taxpayers foot the bill.
 
 That said, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
 
-## Key Takeaways
+## Summary
 
 Overall, the use of goats for federal land clearance is a viable option with several benefits. But, there are also some potential drawbacks that should be considered before moving forward with this plan.
 

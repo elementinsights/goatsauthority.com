@@ -122,7 +122,7 @@ Gestational diabetes occurs when there is too much sugar in the blood, and it ca
 
 Remember, your doctor is there to help - so don't hesitate to reach out if you have any questions or concerns about your health during pregnancy.
 
-## Summary
+## Wrapping Up
 
 Overall, goat milk can be a great source of essential nutrients while pregnant. Make sure to discuss any dietary changes with your doctor before consuming goat milk, and always be sure to choose pasteurized varieties.
 

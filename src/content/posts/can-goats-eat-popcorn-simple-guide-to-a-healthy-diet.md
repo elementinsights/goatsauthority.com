@@ -127,7 +127,7 @@ Remember, their main diet should be hay, grains and fresh water with occasional 
 
 ## How Much Popcorn Should I Feed My Goat or Alpaca?
 
-When it comes to feeding your goat or alpaca popcorn, moderation is key. A handful of popcorn can be a fun treat every now and then.
+Regarding feeding your goat or alpaca popcorn, moderation is key. A handful of popcorn can be a fun treat every now and then.
 
 But remember, too much of anything isn’t good for them. Popcorn should never replace their regular diet which consists mainly of hay and grains.
 

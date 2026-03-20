@@ -104,7 +104,7 @@ Alpacas and goats are both browsers, meaning that they primarily eat [leaves, tw
 
 For example, alpacas are more efficient at [digesting cellulose than goats](/can-goats-digest-anything/), meaning that they can get more nutrients from the same amount of food. In addition, alpacas have four stomachs that work together to break down their food, while goats only have one.
 
-As a result, goats require a higher protein level in their diet than alpacas. For these reasons, it's generally not advisable to feed alpacas leftovers from a [goat's food](/can-sheep-eat-goat-food/) bowl.
+So, goats require a higher protein level in their diet than alpacas. For these reasons, it's generally not advisable to feed alpacas leftovers from a [goat's food](/can-sheep-eat-goat-food/) bowl.
 
 While they may be able to eat the food, it's unlikely to provide them with the nutrients they need to stay healthy.
 
@@ -112,7 +112,7 @@ While they may be able to eat the food, it's unlikely to provide them with the n
 
 Alpacas are camelids that originate from South America. They are historically bred for their fiber, which is used to make clothing and other textiles.
 
-Today, alpacas are also kept as pets. When it comes to their diet, alpacas are herbivores and primarily graze on grass.
+Today, alpacas are also kept as pets. As for their diet, alpacas are herbivores and primarily graze on grass.
 
 They also consume [hay and other plant-based foods](/what-kind-of-hay-do-goats-eat/).
 

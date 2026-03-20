@@ -116,7 +116,7 @@ This might include administering fluids to prevent dehydration and gastric ulcer
 
 Depending on the severity of symptoms, antibiotics or other medications might also be prescribed as needed.
 
-Ultimately, recovery outcomes depend largely on how quickly treatment is initiated and what measures are taken at home, so it is crucial for goat owners to act quickly if they suspect that their animals may have ingested moldy pumpkins.
+In the end, recovery outcomes depend largely on how quickly treatment is initiated and what measures are taken at home, so it is crucial for goat owners to act quickly if they suspect that their animals may have ingested moldy pumpkins.
 
 ## How can I keep my goats healthy and well-nourished?
 
@@ -134,7 +134,7 @@ There are many alternative foods that you can give your goats. Some examples inc
 
 You should always consult with a veterinarian or animal nutritionist to determine which foods are best for your particular herd.
 
-## The Bottom Line
+## Closing Notes
 
 You cannot give a moldy pumpkin to goats. If they eat it, they could get sick.
 

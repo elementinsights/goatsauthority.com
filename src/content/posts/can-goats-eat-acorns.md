@@ -81,7 +81,7 @@ But always do so sparingly and ensure they’re properly prepared first by soaki
 
 ## How Many Acorns Can a Goat Safely Eat?
 
-When it comes to feeding goats, acorns are a tricky subject. Sure, they’re plentiful and easy to find in the fall months.
+About feeding goats, acorns are a tricky subject. Sure, they’re plentiful and easy to find in the fall months.
 
 But can your goat safely eat them? The answer is yes and no.
 
@@ -183,7 +183,7 @@ Goats CAN eat acorns but only sparingly without causing health issues so monitor
 
 ## Preparing and Feeding Acorns for Goats
 
-When it comes to feeding acorns to goats, there are a few things you need to know. Acorns can be harmful if eaten in large amounts.
+About feeding acorns to goats, there are a few things you need to know. Acorns can be harmful if eaten in large amounts.
 
 They contain tannins which can lead to upset stomachs or even more serious health issues.
 

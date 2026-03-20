@@ -127,7 +127,7 @@ These greens are [packed with nutrients that can help keep your goats healthy an
 
 When it comes to the health and well-being of your goats, you want to be sure that you are doing everything you can to keep them happy and healthy.
 
-## The Bottom Line
+## Our Take
 
 You can give your goats Omegablume to help ensure that they are getting all the nutrients they need to stay healthy and strong.
 

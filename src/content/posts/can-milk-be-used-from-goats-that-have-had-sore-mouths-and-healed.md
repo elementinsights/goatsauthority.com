@@ -136,7 +136,7 @@ In addition to its culinary uses, [goat's milk](/can-goat-milk-reduce-wrinkles/)
 
 Goat's milk is thought to be beneficial for the skin due to its high-fat content and the presence of lactic acid. It is also believed to have anti-inflammatory properties.
 
-## Wrapping Up
+## The Bottom Line
 
 Milk can be used from a goat with a sore mouth, but there are certain circumstances when it is best to discard it. If you are unsure about the quality of the milk, it is best to err on the side of caution and discard it.
 

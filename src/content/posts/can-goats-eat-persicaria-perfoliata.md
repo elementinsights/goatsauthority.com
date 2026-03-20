@@ -135,9 +135,9 @@ Some common browse plants that goats enjoy include rose bushes, blackberry bushe
 
 However, you [need to remember that not all plants are safe for goats to eat](/can-goats-eat-any-plant/). Poisonous plants, such as rhododendrons and azaleas, can be deadly if consumed in large quantities.
 
-As a result, it is always best to consult with a qualified veterinarian before feeding any new plant to goats.
+ it is always best to consult with a qualified veterinarian before feeding any new plant to goats.
 
-## Wrapping Up
+## What to Remember
 
 [Goats can eat Persicaria perfoliata](/can-goats-eat-bananas/), but it is important to be aware of the potential risks. This plant contains high levels of oxalates, which can bind with calcium and other minerals in the goat's gut, causing constipation and diarrhea.
 

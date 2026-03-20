@@ -148,7 +148,7 @@ So go ahead share those juicy red orbs with your furry friends but do it wisely.
 
 ## Preparing Tomatoes for Your Herd
 
-When it comes to feeding your goats tomatoes, preparation is key. **Tomatoes are safe for goats in moderation**.
+As for feeding your goats tomatoes, preparation is key. **Tomatoes are safe for goats in moderation**.
 
 They can enjoy the juicy fruit as a treat.
 

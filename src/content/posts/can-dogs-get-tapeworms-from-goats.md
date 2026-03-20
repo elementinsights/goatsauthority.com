@@ -127,7 +127,7 @@ Dogs can also transmit [canine distemper](/can-goats-carry-distemper/) to goats,
 
 Also, both species can suffer from respiratory infections, internal parasites, and other health problems. While some of these diseases can be treated, others are fatal.
 
-As a result, it's important for owners of both dogs and [goats to be aware of the risks involved](/can-a-cdt-shot-kill-a-goat/) in allowing the two species to interact.
+ it's important for owners of both dogs and [goats to be aware of the risks involved](/can-a-cdt-shot-kill-a-goat/) in allowing the two species to interact.
 
 ## Besides tapeworms, what are some other parasites that can affect dogs?
 
@@ -143,7 +143,7 @@ Roundworms are common parasites that live in the intestines of dogs. They can be
 
 While some parasites are more harmful than others, it's important to be aware of the risks they can pose to both dogs and humans. Taking some simple steps to prevent parasites, such as using flea and tick control products and keeping your dog's environment clean, can help reduce the risk of infection.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Overall, while there are some [risks associated with allowing dogs and goats](/can-dogs-drink-goat-milk-everyday/) to interact, these can be easily mitigated with some simple precautions.
 

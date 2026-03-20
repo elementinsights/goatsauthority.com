@@ -143,7 +143,7 @@ Also, make sure you remove the seeds before giving cantaloupe to your goats as t
 
 ## How Often Should Goats Eat Cantaloupe?
 
-When it comes to feeding goats cantaloupe, moderation is key. Goats love this sweet treat and can safely eat both the fruit and rind.
+About feeding goats cantaloupe, moderation is key. Goats love this sweet treat and can safely eat both the fruit and rind.
 
 However, too much of a good thing can be harmful.
 

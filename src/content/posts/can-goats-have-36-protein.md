@@ -136,7 +136,7 @@ Inspect your blocks regularly and discard any that are damaged or no longer usab
 
 With proper storage, goat protein blocks can be a nutritious and convenient way to feed your goats. Just be sure to keep them dry, and provide plenty of [water for your goats to drink](/can-horses-drink-water-that-has-goat-poop-in-it/).
 
-## The Bottom Line
+## Closing Notes
 
 Goats don't need a lot of protein, but it is an important part of their diet. Protein blocks are a convenient and easy way to provide goats with the nutrients they need.
 

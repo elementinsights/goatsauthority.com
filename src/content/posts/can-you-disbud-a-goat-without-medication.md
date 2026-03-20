@@ -135,7 +135,7 @@ You should also apply a thin layer of [antibiotic ointment](/can-i-put-neosporin
 
 By following these simple steps, you can ensure that your goat stays healthy after being disbudded.
 
-## Key Takeaways
+## Our Take
 
 Overall, disbudding can be a simple and cost-effective way to remove horns from goats. However, it is important to understand the risks involved and take steps to minimize them.
 

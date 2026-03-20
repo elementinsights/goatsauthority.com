@@ -146,7 +146,7 @@ However, as a general rule of thumb, it's generally safe to feed up to two pound
 
 Radishes are a healthy treat for goats and can provide them with a good source of vitamins A and C.
 
-## Final Thoughts
+## Key Takeaways
 
 [Goats can eat radishes](/can-goats-eat-grapes/), but there are some risks to consider before feeding them to your goats. Radishes contain high levels of sulfur, which can [cause liver damage in goats](/can-goats-cause-slope/).
 

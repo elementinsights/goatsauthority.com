@@ -144,7 +144,7 @@ By following these simple guidelines, you can ensure that your frozen semen will
 
 When thawing frozen semen, you need to use warm water or an incubator. Additionally, you need to use an appropriate insemination device.
 
-## Wrapping Up
+## Our Take
 
 Goat's sperm can be saved by freezing it. This is a great way to preserve the genetics of your favorite animals.
 

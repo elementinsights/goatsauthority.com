@@ -73,7 +73,7 @@ The plant is abundant in the foothills of the Sierra Nevada mountains, and it ha
 
 The leaves and twigs of Rhus ovata are high in protein and nutrients, making them an excellent [food source for goats](/can-sheep-eat-goat-food/). In addition, the plant is known to have a calming effect on goats, which can be beneficial for farmers who are looking to reduce stress levels in their herds.
 
-Rhus ovata is also known to promote healthy digestive function in goats, and it can help to prevent problems such as bloat. As a result, feeding Rhus ovata to goats can have a number of benefits for both the animals and the farmers who raise them.
+Rhus ovata is also known to promote healthy digestive function in goats, and it can help to prevent problems such as bloat. feeding Rhus ovata to goats can have a number of benefits for both the animals and the farmers who raise them.
 
 ## What are the risks of feeding Rhus ovata to goats?
 
@@ -139,7 +139,7 @@ This will help to prevent the risk of bloat, as well as the other risks associat
 
 Finally, farmers should always consult with a goat expert before feeding Rhus ovata to their goats. This will ensure that the goats are healthy and able to safely consume Rhus ovata.
 
-## Key Takeaways
+## The Bottom Line
 
 Goats can eat Rhus ovata, but there are some risks associated with doing so. It is important to be aware of these risks and take steps to prevent them.
 

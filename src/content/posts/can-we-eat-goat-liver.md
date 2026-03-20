@@ -140,7 +140,7 @@ However, there is some concern about the safety of goat liver due to the fact th
 
 For this reason, it is important to eat goat liver in moderation. When consumed in moderation, goat liver can be a healthy and delicious part of your diet.
 
-## The Bottom Line
+## Wrapping Up
 
 We can eat goat liver in moderation and it can be a healthy and delicious part of our diet. We should make sure to cook it properly and choose a healthy, reputable source.
 

@@ -101,7 +101,7 @@ Also remember this: variety in diet helps ensure balanced nutrition which leads 
 
 ## Preparing and Serving Sunflower Seeds to Your Goat Herd
 
-When it comes to feeding your goats, sunflower seeds can be a great addition. They are safe for them and packed with nutrients like vitamin E and healthy fats.
+Talking about feeding your goats, sunflower seeds can be a great addition. They are safe for them and packed with nutrients like vitamin E and healthy fats.
 
 But before you start tossing handfuls into their pen, there’s a right way to serve these tasty treats.
 
@@ -113,7 +113,7 @@ Before serving any new food, introduce it slowly into their diet over several da
 
 ### Frequency and Age Considerations for Feeding Sunflower Seeds to Goats
 
-When it comes to feeding sunflower seeds to goats, frequency and age are two key factors. Goats can indeed eat these seeds.
+About feeding sunflower seeds to goats, frequency and age are two key factors. Goats can indeed eat these seeds.
 
 They’re a good source of [protein](/can-goats-eat-peanuts/) and fat which help in their growth.
 

@@ -118,7 +118,7 @@ Whatever approach you choose when looking for a good home for your unwanted goat
 
 With some diligence and patience, you will surely be able to find loving homes for even the most mischievous members of your herd.
 
-## What to Remember
+## Quick Recap
 
 You can own a goat in Wyoming for less than the cost of a used car, and with proper care, they can provide you with years of companionship or high-quality milk and meat.
 

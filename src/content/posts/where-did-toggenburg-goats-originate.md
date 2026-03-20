@@ -129,7 +129,7 @@ Finally, it is important to monitor the health of your goats on a regular basis,
 
 By following these simple tips for goat care, you can help ensure that your Toggenburgs are healthy, happy, and thriving.
 
-## The Bottom Line
+## Closing Notes
 
 Toggenburg goats are a great choice for those looking for an intelligent, independent, and affectionate companion animal.
 

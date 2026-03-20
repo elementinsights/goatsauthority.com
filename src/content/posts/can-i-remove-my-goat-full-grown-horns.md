@@ -95,7 +95,7 @@ However, if the horns are removed too early in the growth cycle, this can cause 
 
 Thus, it is important for [goat farmers](/can-i-mix-newborn-goats-and-older-goats/) to work closely with goat experts to determine when it is safe to remove their goat's horns.
 
-Ultimately, whether or not a [goat's horns are removed largely depends on individual farm practices](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and herd needs.
+So, whether or not a [goat's horns are removed largely depends on individual farm practices](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and herd needs.
 
 Some [farmers prefer to keep their goats' natural protective features](/can-you-describe-a-herd-of-sheep-and-goats/) intact, while others may decide that horn removal is necessary for safety reasons or for aesthetic purposes.
 
@@ -127,7 +127,7 @@ For starters, horn removal is an important part of preventing injury and pain fo
 
 In addition, horn removal reduces the risk of severe infections when those injuries occur. Beyond that, removing goat horns also makes it easier to manage the animals and maintain the health of their horns overall.
 
-For those working with goats on a regular basis, horn removal can help to improve productivity by making it easier to move and handle the goats safely. Ultimately, there are many good reasons to remove goat horns, making this a necessary step in keeping these animals healthy and happy.
+For those working with goats on a regular basis, horn removal can help to improve productivity by making it easier to move and handle the goats safely. When all is said and done, there are many good reasons to remove goat horns, making this a necessary step in keeping these animals healthy and happy.
 
 ## Disadvantages of removing goat horns
 
@@ -147,7 +147,7 @@ Without their horns, goats may experience decreased muscle flexibility as well a
 
 While there are many reasons for removing goat horns, it is important to consider all of the possible consequences before making a decision about how best to care for your herd.
 
-## Key Takeaways
+## Closing Notes
 
 Overall, there are both advantages and disadvantages to removing goat horns. While horn removal can prevent injuries and make goats easier to manage, it is also a painful procedure that can leave the animals more vulnerable to predators.
 

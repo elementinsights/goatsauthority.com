@@ -54,7 +54,7 @@ The second way is through contact with infected tissue, such as when a goat scav
 
 The third way is through contact with infected bats, which can happen if a bat roosts in a goat's shelter.
 
-While all of these methods are possible, they are also relatively unlikely. As a result, while it's crucial to be aware of the risks, there's no need to panic if your goat comes into contact with another animal or bat.
+While all of these methods are possible, they are also relatively unlikely. Because of this, while it's crucial to be aware of the risks, there's no need to panic if your goat comes into contact with another animal or bat.
 
 ## What are the signs and symptoms of rabies in goats?
 
@@ -106,7 +106,7 @@ These include fever, swelling at the injection site, and [lethargy](/can-a-goat-
 
 While these side effects are typically mild, they can still be disruptive to the animal's health.
 
-As such, farmers must weigh the risks and benefits of rabies treatment before deciding whether or not to vaccinate their flock.
+Because of that, farmers must weigh the risks and benefits of rabies treatment before deciding whether or not to vaccinate their flock.
 
 Other side effects may include:
 
@@ -138,7 +138,7 @@ In most cases, humans only contract rabies after being exposed to the saliva or 
 
 As such, it's important to avoid contact with any animals that may be infected with rabies. If you must come into contact with an infected animal, be sure to wear gloves and wash your hands thoroughly afterward.
 
-## Key Takeaways
+## Final Thoughts
 
 The best way to protect goats from rabies is to ensure that they are vaccinated against the virus. If a goat is bitten by a rabid animal, there's a high risk of the disease being passed on.
 

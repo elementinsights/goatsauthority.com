@@ -96,7 +96,7 @@ Side-dressing is a good way to give plants a boost of nutrients and can be done 
 
 Goat waste can be an excellent fertilizer for crops. Unlike many other animals, [goats digest](/can-goats-digest-anything/) their food very thoroughly, leaving few undigested seeds or other debris in their manure.
 
-Beyond that, goat manure is relatively low in nitrogen, making it less likely to burn plants when used as a fertilizer. As a result, crops such as tomatoes, peppers, and eggplants can all benefit from goat waste.
+Beyond that, goat manure is relatively low in nitrogen, making it less likely to burn plants when used as a fertilizer. So, crops such as tomatoes, peppers, and eggplants can all benefit from goat waste.
 
 To properly fertilize with goat waste, it's crucial to allow the manure to age for a few weeks before using it on crops. This will help to break down any remaining seeds or debris, and also make the nitrogen content more manageable.
 
@@ -132,7 +132,7 @@ Liquid fertilizer is a great way to give plants a quick boost of nutrients and c
 
 No matter how you choose to use it, goat manure can be a valuable asset in your [gardening arsenal](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/). Just be sure to take the necessary precautions to avoid any potential problems.
 
-## The Bottom Line
+## Our Take
 
 Goat manure can be used as fertilizer for your crops, but there are a few things to keep in mind.
 

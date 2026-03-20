@@ -134,7 +134,7 @@ Did you know that there are over 300 different [breeds of goats](/can-a-nigerian
 
 Some people even keep [miniature goats as pets](/can-male-pygmy-goats-have-long-hair/). So whether you're looking for a farm animal or a furry friend, a goat might be just the right fit.
 
-## The Bottom Line
+## Our Take
 
 You can band your goat for a number of reasons, including preventing them from getting loose, reducing their aggression, and making their meat more desirable.
 

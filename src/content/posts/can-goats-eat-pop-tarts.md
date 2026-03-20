@@ -111,7 +111,7 @@ Pop tarts should be stored in a cool, dry place. They can be served to your goat
 
 If you are using pop tarts as a training tool, you can give your goat one or two pop tarts per day. If you are giving pop tarts to your goats for their nutritional value, you should give them one or two pop tarts per week.
 
-## Wrapping Up
+## Quick Recap
 
 Overall, pop tarts can be given to goats in moderation. However, you need to only give them plain pop tarts without any frosting or filling.
 

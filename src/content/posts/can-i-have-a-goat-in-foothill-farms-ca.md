@@ -94,7 +94,7 @@ So if you're looking for great goat cheese or fresh eggs, be sure to come to vis
 
 ## How to get a permit for a goat in Foothill Farms?
 
-When it comes to getting a permit for a goat in Foothill Farms, there are a few key things to keep in mind. First, you will need to complete and submit an application to your local zoning office.
+About getting a permit for a goat in Foothill Farms, there are a few key things to keep in mind. First, you will need to complete and submit an application to your local zoning office.
 
 Along with the application, you will also need to provide proof of current vaccinations for your goat, as well as documentation showing that you have adequate space on your property for your goat to roam freely.
 
@@ -110,7 +110,7 @@ Due to their naturally curious and affectionate disposition, goats are excellent
 
 Additionally, because [goats consume vastly different types of food than humans](/can-i-give-my-goats-human-fish-pills/) do, they have the unique ability to transform neglected land into fertile soil that is rich in nutrients.
 
-Ultimately, whether you are a farmer looking for a more sustainable way of maintaining your property or simply a hobbyist who enjoys the company of these adorable animals, having a goat in Foothill Farms can be highly beneficial for anyone seeking to improve their quality of life.
+ whether you are a farmer looking for a more sustainable way of maintaining your property or simply a hobbyist who enjoys the company of these adorable animals, having a goat in Foothill Farms can be highly beneficial for anyone seeking to improve their quality of life.
 
 ## What are the drawbacks of having a goat in Foothill Farms?
 
@@ -122,7 +122,7 @@ And, [goats require specialized care and feeding](/can-a-goat-feed-quads/), whic
 
 Overall, while a goat can certainly be a valuable addition to any community, prospective owners must understand the challenges and responsibilities that go along with keeping such an animal.
 
-## Final Thoughts
+## Wrapping Up
 
 Overall, there are many things to consider before getting a goat in Foothill Farms. However, if you are prepared to take on the challenges and responsibilities that come with owning a goat, then this can be a highly rewarding experience.
 

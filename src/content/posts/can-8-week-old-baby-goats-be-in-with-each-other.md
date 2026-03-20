@@ -74,7 +74,7 @@ Baby goats are also very curious and will try to eat anything they can get their
 
 ## The basics of taking care of baby goats
 
-When it comes to taking care of baby goats, there are a few key things to keep in mind. First and foremost, baby goats need a lot of attention and care.
+As for taking care of baby goats, there are a few key things to keep in mind. First and foremost, baby goats need a lot of attention and care.
 
 They are very active and curious and need to be supervised at all times.
 
@@ -180,7 +180,7 @@ Finally, baby goats are very curious and can get into mischief if they are not s
 
 By keeping them in a clean and safe environment, you can help to prevent these problems.
 
-## Wrapping Up
+## What to Remember
 
 Many people enjoy keeping baby goats as pets. They are playful and curious, and they can provide a lot of joy.
 

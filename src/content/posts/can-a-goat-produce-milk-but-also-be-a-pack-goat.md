@@ -62,7 +62,7 @@ For these reasons, pack goats have become an increasingly popular choice for bac
 
 ## What to look for when choosing a pack goat?
 
-When it comes to choosing a pack goat, there are a few things you'll want to keep in mind.
+Regarding choosing a pack goat, there are a few things you'll want to keep in mind.
 
 First, think about the size of the goat you'll need. If you're planning on using your [goat for carrying heavy loads](/can-goats-carry-distemper/), then you'll want to choose a larger breed.
 
@@ -84,7 +84,7 @@ These breeds are all known for their strong personalities and their ability to t
 
 For example, a large herd of [dairy goats](/can-goats-milk-be-frozen/) will require a different type of leader than a small herd of meat goats. The pack leader should also be well-trained and able to handle diverse situations.
 
-A good pack leader is decisive, calm, and capable of making quick decisions when necessary. Ultimately, the [breed of goat](/can-a-goat-breed-with-sheep/) that makes the best pack leader is one that is willing and able to take on the responsibility.
+A good pack leader is decisive, calm, and capable of making quick decisions when necessary. In the end, the [breed of goat](/can-a-goat-breed-with-sheep/) that makes the best pack leader is one that is willing and able to take on the responsibility.
 
 ## How to train your goat to be a pack animal?
 

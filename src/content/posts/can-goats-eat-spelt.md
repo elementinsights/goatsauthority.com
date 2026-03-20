@@ -83,7 +83,7 @@ Spelt is a type of grain that is sometimes [fed to goats](/can-you-change-a-bott
 
 For example, spelt contains a compound called lignin, which can be difficult for [goats to digest](/can-goats-digest-cotton/).
 
-As a result, feeding large amounts of spelt to [goats can cause them to experience gastric upset and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). Also, spelt is a relatively high-carbohydrate food, and feeding too much of it to goats can lead to weight gain and other health problems.
+This is why feeding large amounts of spelt to [goats can cause them to experience gastric upset and diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/). Also, spelt is a relatively high-carbohydrate food, and feeding too much of it to goats can lead to weight gain and other health problems.
 
 Therefore, it is crucial to consult with a veterinarian before adding spelt to a goat's diet.
 
@@ -139,7 +139,7 @@ However, spelt fell out of favour when wheat became more widely available. Today
 
 It is often used in pieces of bread, kinds of pasta, and cereals. Spelt can also be cooked and eaten like rice.
 
-## Key Takeaways
+## The Bottom Line
 
 Goats can eat spelt. Spelt is a type of grain that is high in nutrients and can be a good addition to a goat's diet.
 

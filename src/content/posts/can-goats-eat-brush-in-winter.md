@@ -66,7 +66,7 @@ In the winter, goats can be a valuable asset in controlling brush growth. By sel
 
 Another thing to note is their browsing helps to promote the growth of new plants and improve the overall health of the landscape. Plus, goats can provide valuable manure that can be used to fertilize crops or gardens.
 
-And because they are able to reach higher branches, goats can also help to control height levels in an area, making it easier for people and animals to move around. As a result, goats can provide a number of important benefits when it comes to managing landscape vegetation.
+And because they are able to reach higher branches, goats can also help to control height levels in an area, making it easier for people and animals to move around. So, goats can provide a number of important benefits when it comes to managing landscape vegetation.
 
 ## How much brush can goats eat in a day?
 
@@ -106,7 +106,7 @@ If you follow these tips, you should be able to [get your goats back on track](/
 
 Just like any other animal, goats need the right nutrition to stay healthy and thrive. However, their dietary needs can change depending on the time of year.
 
-During the winter months, goats require extra energy to keep warm and maintain their body weight. As a result, they may need to consume more calories than usual.
+During the winter months, goats require extra energy to keep warm and maintain their body weight. they may need to consume more calories than usual.
 
 One way to provide your goats with additional calories is to offer them hay that is high in energy. You can also supplement their diet with minerals and vitamins specifically designed for goats.
 
@@ -122,7 +122,7 @@ Also, some [goats may be less tolerant of cold weather](/can-goats-die-in-cold-w
 
 If you're not sure whether your goat can eat brush in winter, it's best to consult with a veterinarian or other animal expert. They will be able to assess your goat's individual needs and make recommendations accordingly.
 
-## Wrapping Up
+## Our Take
 
 Goats can eat brush in winter, but there are some risks associated with this behavior. Goats may damage the plant by chewing on the bark or stems, and they may also consume poisonous plants.
 

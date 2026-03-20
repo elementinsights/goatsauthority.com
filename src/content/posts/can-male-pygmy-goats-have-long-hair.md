@@ -149,7 +149,7 @@ The cost of a male pygmy goat varies depending on many factors, such as age, hea
 
 If you are looking for a gentle, social creature that is also aesthetically pleasing, then a male pygmy goat is the perfect choice for you. They are easy to care for and make great companions.
 
-## Final Thoughts
+## What to Remember
 
 Male pygmy goats are gentle, social creatures that make great companions. They are easy to care for and do not need to be vaccinated.
 

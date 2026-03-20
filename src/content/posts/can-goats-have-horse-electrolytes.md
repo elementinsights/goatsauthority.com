@@ -107,7 +107,7 @@ When choosing an electrolyte supplement for your goat, always read the label car
 
 ## How much should you give your goats electrolytes?
 
-When it comes to goats, electrolytes are an important part of keeping them healthy. But how much should you give your goats electrolytes?
+For goats, electrolytes are an important part of keeping them healthy. But how much should you give your goats electrolytes?
 
 The answer may depend on a number of factors, including the age and health of your goats, the climate you live in, and what type of electrolytes you're using.
 
@@ -131,7 +131,7 @@ This will help them stay hydrated and avoid becoming stressed in the heat. If yo
 
 With a little preventive care, you can keep your goats healthy and happy all year long.
 
-## The Bottom Line
+## What to Remember
 
 Goats can have horse electrolytes, but it is best to give them a diet that is low in salt. Some goats may still need additional electrolytes, especially during periods of stress or hot weather.
 

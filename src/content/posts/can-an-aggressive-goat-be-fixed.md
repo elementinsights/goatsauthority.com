@@ -126,7 +126,7 @@ So be sure to correct any aggressive behavior immediately, and be consistent in 
 
 By following these tips, you can help prevent aggression in goats and create a more peaceful environment for everyone involved.
 
-## The Bottom Line
+## Key Takeaways
 
 Goats are intelligent, social creatures that can make [great pets](/can-goats-be-tamed/). However, like all animals, they can sometimes exhibit aggressive behavior.
 

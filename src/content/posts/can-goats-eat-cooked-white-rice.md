@@ -134,7 +134,7 @@ There are a variety of food options for goats, including [hay](/what-kind-of-hay
 
 When feeding goats, it's important to give them a variety of different foods. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 
-## Wrapping Up
+## Summary
 
 Cooked white rice is safe for goats to eat. However, it should be fed in moderation and as part of a balanced diet.
 

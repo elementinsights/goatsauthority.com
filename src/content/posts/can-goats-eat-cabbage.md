@@ -81,7 +81,7 @@ There are many different varieties of cabbage, including green, red, and Savoy. 
 
 One such type of cabbage is the black-seeded variety, which contains high levels of pyrrolizidine alkaloids. These alkaloids can be toxic to goats, causing liver damage and potentially death.
 
-As a result, it's essential to only feed cabbage to goats if you are sure that it's not the black-seeded variety. If you are unsure, it's best to err on the side of caution and avoid feeding cabbage to your goats altogether.
+This means it's essential to only feed cabbage to goats if you are sure that it's not the black-seeded variety. If you are unsure, it's best to err on the side of caution and avoid feeding cabbage to your goats altogether.
 
 ## Risks associated with feeding cabbage to goats
 
@@ -135,7 +135,7 @@ This may be due to the fact that cabbage is rich in nutrients and minerals, whic
 
 Cabbage is also a good source of [fiber](/can-goats-eat-timothy-hay/), which helps keep the digestive system of Pygmy goats functioning properly. For these reasons, it's not surprising that Pygmy goats often enjoy munching on cabbage leaves.
 
-## The Bottom Line
+## Wrapping Up
 
 [Goats can eat cabbage](/can-goats-eat-cauliflower/). Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
 

@@ -130,7 +130,7 @@ Goats need a clean, dry place to sleep and shelter from the elements. A three-si
 
 Goats are social animals, so it's important to provide them with enough space to move around and interact with other goats. Additionally, you'll need to provide them with fresh water and hay on a daily basis.
 
-## The Bottom Line
+## What to Remember
 
 There are a few things to consider before deciding whether or not to keep wether goats on your farm. They are known to be curious and can easily escape from their pens, which could lead to them getting lost or injured.
 

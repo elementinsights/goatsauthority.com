@@ -157,7 +157,7 @@ Finally, be sure to introduce broccoli slowly. Goats' stomachs take time to adju
 
 With these guidelines in mind, you can feel confident feeding your baby goat broccoli.
 
-## Summary
+## To Wrap Things Up
 
 Goats are curious creatures that love to try new things, including broccoli. Broccoli is a healthy treat for goats and can provide them with many [essential nutrients](/can-goats-eat-spinach/).
 

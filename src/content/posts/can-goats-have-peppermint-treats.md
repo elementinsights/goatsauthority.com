@@ -56,7 +56,7 @@ So, if you're looking for a healthy and tasty treat for your goats, peppermint m
 
 Goats are often given peppermint treats as a way to keep them healthy and happy. Peppermint has a variety of [benefits for goats](/can-benadryl-hurt-a-goat/), including improving their digestion, easing stomach discomfort, and helping to repel insects.
 
-Similarly, peppermint has a refreshing scent that can help to mask the smell of goats, making them more pleasant to be around. Ultimately, giving goats peppermint treats is a simple way to care for them and ensure their wellbeing.
+Similarly, peppermint has a refreshing scent that can help to mask the smell of goats, making them more pleasant to be around. When all is said and done, giving goats peppermint treats is a simple way to care for them and ensure their wellbeing.
 
 There are a few things to keep in mind when giving goats peppermint treats. First, it is important to only give them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), as too much peppermint can cause stomach irritation.
 
@@ -114,7 +114,7 @@ Of course, as long as you stick to common varieties of mint, your goats will be 
 
 ## How much should you give your goats per day in terms of mint treats?
 
-When it comes to goat care, there are a few key things to keep in mind. One of the most important is providing a healthy diet.
+With goat care, there are a few key things to keep in mind. One of the most important is providing a healthy diet.
 
 Goats are browsers, which means they like to eat a variety of plants and leaves.
 
@@ -136,7 +136,7 @@ It's vital to introduce peppermint treats to your goats gradually, as you should
 
 You can progressively raise the amount you give them if they seem to like it and don't experience any negative side effects. But if they start showing signs of gastrointestinal distress, such as vomiting or diarrhea, it's best to stop giving them the treats and consult with a goat expert.
 
-## Summary
+## What to Remember
 
 Goats can have peppermint treats, but they should be introduced slowly and in moderation. Peppermint can [cause gastrointestinal distress in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), so it's important to monitor them closely when giving them mint-flavored treats.
 

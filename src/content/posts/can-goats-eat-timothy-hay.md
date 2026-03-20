@@ -60,13 +60,13 @@ There are a variety of different types of hay that can be fed to goats, and timo
 
 Timothy hay is rich in fiber and nutrients, and it can help goats maintain a [healthy digestive system](/can-goats-eat-oats/). In addition, timothy hay is a good source of energy, which can be beneficial for goats that are active or growing.
 
-Still, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. Ultimately, it's up to the goat owner to experiment with different types of feed and find what works best for their animals.
+Still, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. At the end of the day, it's up to the goat owner to experiment with different types of feed and find what works best for their animals.
 
 ## Can a pregnant goat eat timothy hay?
 
 Goats are browsers rather than grazers, which means that they prefer to eat leaves and other soft plant matter rather than grass.
 
-As a result, timothy hay is not the best food for pregnant goats. If a pregnant goat does eat timothy hay, she may not get enough of the nutrients she needs, which could lead to problems during [pregnancy](/can-pregnant-boer-goats-eat-alfalfa/).
+Because of this, timothy hay is not the best food for pregnant goats. If a pregnant goat does eat timothy hay, she may not get enough of the nutrients she needs, which could lead to problems during [pregnancy](/can-pregnant-boer-goats-eat-alfalfa/).
 
 Even so, timothy hay can be used as bedding for pregnant goats, as it's soft and absorbent. Pregnant goats should also have access to fresh water at all times.
 
@@ -100,7 +100,7 @@ Additionally, timothy hay may not provide the nutrients that a sick goat needs i
 
 For these reasons, it's generally recommended that sick goats be fed a more easily digestible diet, such as [grain](/can-goats-eat-corn/) or pellets.
 
-Be aware, if the goat's condition is not severe, timothy hay may be a suitable food option. Ultimately, the decision of whether or not to feed timothy hay to a sick goat should be made by an animal expert familiar with the animal's individual case.
+Be aware, if the goat's condition is not severe, timothy hay may be a suitable food option. the decision of whether or not to feed timothy hay to a sick goat should be made by an animal expert familiar with the animal's individual case.
 
 ## What are the benefits of feeding timothy hay to goats?
 
@@ -110,7 +110,7 @@ This diet is high in fiber and helps keep their digestive system healthy. Domest
 
 Timothy hay is a type of grass hay that is rich in fiber and nutrients, making it an ideal food for goats. In addition to providing essential vitamins and minerals, timothy hay also helps keep goats' teeth clean and their digestive system functioning properly.
 
-As a result, feeding timothy hay to goats can have numerous benefits for their health.
+Because of this, feeding timothy hay to goats can have numerous benefits for their health.
 
 ## What are the risks of feeding timothy hay to goats?
 
@@ -122,7 +122,7 @@ And also, timothy hay is high in calcium, which can lead to health problems if g
 
 ## How much timothy hay should you feed your goats?
 
-When it comes to feeding goats, there's no one-size-fits-all answer. The amount of timothy hay that you should provide will depend on the age and size of your goats, as well as the quality of the hay.
+For feeding goats, there's no one-size-fits-all answer. The amount of timothy hay that you should provide will depend on the age and size of your goats, as well as the quality of the hay.
 
 For example, young goats need more protein and fat than mature goats, so they will require a different ratio.
 
@@ -130,7 +130,7 @@ Likewise, larger goats will eat more than smaller goats. In general, most expert
 
 So, if you have a 10-pound goat, you should provide them with approximately 0.2 pounds of hay per day. Of course, you should always consult with an animal expert to determine the best diet for your specific goats.
 
-## The Bottom Line
+## Our Take
 
 Goats can eat timothy hay. This type of hay is a good source of fiber and nutrients for goats, and it can help keep their digestive system healthy.
 

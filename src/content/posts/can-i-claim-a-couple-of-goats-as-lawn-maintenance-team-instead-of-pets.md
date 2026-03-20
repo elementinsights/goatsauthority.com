@@ -71,7 +71,7 @@ This leaves behind unsightly patches on the lawn and puts stress on [plants](/ca
 
 And also, because goats eat primarily grass, they may not be able to provide effective maintenance for other types of plants that are commonly found in lawns, like flowers or shrubs.
 
-Ultimately, while using [goats as a lawn maintenance team may have some benefits](/can-benadryl-hurt-a-goat/), there are also several drawbacks that should be considered when making this important decision.
+The bottom line is, while using [goats as a lawn maintenance team may have some benefits](/can-benadryl-hurt-a-goat/), there are also several drawbacks that should be considered when making this important decision.
 
 ## Would it be cheaper to use goats as a lawn maintenance team than traditional methods?
 
@@ -115,8 +115,8 @@ With their ability to graze and weed, as well as their smaller size and agility,
 
 However, it is important to keep in mind that using goats does have some potential drawbacks, such as added expense and the need for adequate housing and food.
 
-## Key Takeaways
+## Summary
 
 Goats can offer a number of advantages as part of a lawn maintenance program, but there are also some potential drawbacks to consider.
 
-Ultimately, whether goats are the right choice for you depends on your budget, preferences, and the specific needs of your lawn. With careful planning and attention to detail, but, using goats can be an efficient and effective way to manage large areas of grassy space.
+The bottom line is, whether goats are the right choice for you depends on your budget, preferences, and the specific needs of your lawn. With careful planning and attention to detail, but, using goats can be an efficient and effective way to manage large areas of grassy space.

@@ -119,7 +119,7 @@ Finally, in some cases, it may be possible to breed the affected animal with a l
 
 ## When is the best time to inbreed your goats?
 
-When it comes to goat breeding, timing is everything. If you breed your goats too early, the kids will be born in the middle of winter when food is scarce and weather conditions are harsh.
+Regarding goat breeding, timing is everything. If you breed your goats too early, the kids will be born in the middle of winter when food is scarce and weather conditions are harsh.
 
 If you breed them too late, the kids will be born just before the next breeding season, when they'll be competing with the new crop of kids for food and attention.
 
@@ -137,9 +137,9 @@ For example, if you have a goat with particularly good [milk production](/can-i-
 
 However, inbreeding can also cause animals to inherit genes for diseases and other health problems. In some cases, these problems may not become apparent until later in life.
 
-As a result, it is important to be aware of the [risks before you decide to inbreed your goats](/can-a-cdt-shot-kill-a-goat/).
+ it is important to be aware of the [risks before you decide to inbreed your goats](/can-a-cdt-shot-kill-a-goat/).
 
-## Summary
+## Final Thoughts
 
 Overall, inbreeding can have both [benefits and risks](/can-a-pregnant-goat-have-penicillin/). Be sure to weigh the pros and cons carefully before deciding whether or not to inbreed your goats.
 

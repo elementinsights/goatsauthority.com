@@ -64,7 +64,7 @@ Goats are particularly fond of hay, and it can make up a large part of their die
 
 Hay is an important source of nutrition for goats, providing them with essential vitamins and minerals. In addition, hay helps to keep goats' digestive systems healthy and prevents boredom.
 
-As a result, hay is an essential part of Goat care.
+This is why hay is an essential part of Goat care.
 
 ## Do all goats eat hay?
 
@@ -76,7 +76,7 @@ it's a good source of nutrition and can help to keep animals healthy. Even so, i
 
 Instead, they may provide other types of plants or even [food scraps](/can-i-feed-my-goat-leftovers/).
 
-Ultimately, it's up to the farmer to decide what type of food to give their goats, but all goats are capable of eating hay if it's available.
+In the end, it's up to the farmer to decide what type of food to give their goats, but all goats are capable of eating hay if it's available.
 
 ## Can you feed hay to pregnant goats?
 
@@ -140,7 +140,7 @@ Finally, don't forget about water. Goats need access to clean, fresh water at al
 
 By offering your goats a variety of food and water options, you can help them stay healthy and happy.
 
-## Summary
+## Wrapping Up
 
 Hay is an important part of a goat's diet, providing essential nutrients and fiber. There are a variety of different types of hay available, and it's crucial to choose one that is best suited for your goats' needs.
 

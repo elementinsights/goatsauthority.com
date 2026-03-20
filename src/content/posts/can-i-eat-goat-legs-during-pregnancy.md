@@ -123,7 +123,7 @@ They can help you navigate the available research and advise you based on your s
 
 Getting personal recommendations from those who have gone before you can be a great way to gain insight into this topic and better inform your decision-making process.
 
-## Summary
+## Key Takeaways
 
 In the end, whether or not you choose to eat goat legs during pregnancy will depend on a number of individual factors.
 

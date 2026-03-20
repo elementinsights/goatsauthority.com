@@ -135,10 +135,10 @@ They also need a clean and safe environment, plenty of [food and water](/can-goa
 
 By providing your goat with everything they need, you can help to ensure a long and happy life.
 
-## Wrapping Up
+## Closing Notes
 
 Overall, goats are relatively low-maintenance animals. But, those who are new to goat ownership may be surprised to learn that some goats can have horns.
 
-While horns are not always a problem, they can pose a risk of injury to the goat or other animals. As such, it's crucial to know how to properly care for a goat with horns.
+While horns are not always a problem, they can pose a risk of injury to the goat or other animals. Because of that, it's crucial to know how to properly care for a goat with horns.
 
 Those who are interested in owning a goat but want to avoid horns can choose from a number of breeds that are naturally hornless. No matter what breed of goat you choose, it's crucial to remember that all goats require proper care and attention.

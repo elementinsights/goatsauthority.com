@@ -116,7 +116,7 @@ Sites like these can be great resources if you want to learn more about Afghan c
 
 So no matter what your preferences or skill level, you're sure to find a suitable recipe for Kabuli Palao that includes goat meat online.
 
-## The Bottom Line
+## Closing Notes
 
 Overall, [goat meat](/can-you-freeze-goat-cheese/) is a popular choice for Kabuli Palao among many people because of its rich flavor and versatility.
 

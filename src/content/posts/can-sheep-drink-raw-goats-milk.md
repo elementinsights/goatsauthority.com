@@ -129,7 +129,7 @@ The best time to feed raw [goat milk](/can-i-put-safeguard-in-my-goats-milk/) to
 
 However, you may also choose to feed them raw goat milk at other times of the day, such as in the evening before they go to bed.
 
-Ultimately, it is important to consult with your vet or another expert in order to determine the best feeding schedule for your particular sheep.
+Overall, it is important to consult with your vet or another expert in order to determine the best feeding schedule for your particular sheep.
 
 ## How often should raw goat milk be given to sheep?
 
@@ -137,7 +137,7 @@ There is no set answer for how often raw [goat milk](/can-i-use-germall-plus-in-
 
 However, it is generally recommended that sheep should have access to fresh milk every day. So if you are feeding your sheep raw goat milk, you will likely need to provide them with a fresh supply on a daily basis.
 
-## The Bottom Line
+## To Wrap Things Up
 
 Raw [goat milk](/can-i-use-goats-milk-soap-on-my-beard/) is a highly nutritious beverage that can offer a range of health benefits for sheep. This milk is rich in easily-digestible fats and proteins, calcium, and other important nutrients, making it an ideal choice for nursing lambs or for animals recovering from illness.
 

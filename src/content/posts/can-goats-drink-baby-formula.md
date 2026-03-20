@@ -116,7 +116,7 @@ Finally, [baby formula can be hard to digest for some goats](/can-baby-goats-be-
 
 ## How much baby formula should I feed my goat?
 
-When it comes to baby formula, there's no one-size-fits-all answer. The amount of formula that you need to feed your goat will depend on several factors, including the age and size of the goat, as well as the type of formula that you are using.
+About baby formula, there's no one-size-fits-all answer. The amount of formula that you need to feed your goat will depend on several factors, including the age and size of the goat, as well as the type of formula that you are using.
 
 For example, [newborn goats will need to consume more formula than older goats](/can-i-mix-newborn-goats-and-older-goats/), and larger goats will need more than smaller goats.
 
@@ -136,7 +136,7 @@ The best baby formula for goats is one that is designed specifically for them. T
 
 These formulas are typically easier for goats to digest than those that are made with cow's milk alone, and they can provide all the nutrients that goats need. If you are unsure about which baby formula to choose, it's always best to consult with a veterinarian or other animal expert.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Overall, baby formula can be a great way to [feed goats](/can-a-goat-feed-quads/). But, it's important to consider the advantages and disadvantages of doing so before making a decision.
 

@@ -126,7 +126,7 @@ Goat milk is a versatile skincare product that can be used in a variety of ways.
 
 Just be sure to purchase [milk that is raw](/can-you-drink-raw-goat-milk-on-gaps-diet/) and unpasteurized for the best results.
 
-## The Bottom Line
+## Our Take
 
 You can use goat milk for underarm whitening by applying it to the area with a cotton ball or makeup brush.
 

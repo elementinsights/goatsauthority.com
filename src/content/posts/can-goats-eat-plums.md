@@ -135,7 +135,7 @@ Finally, the seeds of plums contain cyanogenic glycosides, which can help to pro
 
 While plums make a delicious and nutritious treat for humans, they can be dangerous for goats. Plums contain a sugar called sorbitol, which can cause [digestive problems](/can-alfalfa-pellets-cause-goats-to-bloat/) when consumed in large amounts.
 
-In addition, the pits of plums contain cyanide, which is toxic to goats. As a result, you need to avoid feeding plums to goats or cutting them into small pieces before giving them as a treat.
+In addition, the pits of plums contain cyanide, which is toxic to goats. you need to avoid feeding plums to goats or cutting them into small pieces before giving them as a treat.
 
 Besides the risks of feeding plums to goats, there are also risks associated with feeding other fruits to goats.
 
@@ -147,7 +147,7 @@ Goats can eat up to four plums per day without any problems. Despite this, if th
 
 Besides, it's also important to make sure that the plums are cut into small pieces before giving them to the goats. This will help to avoid choking and ensure that the goat gets the full nutritional benefits of the plum.
 
-## What to Remember
+## Closing Notes
 
 Goats can eat plums without any problems, and they can even benefit from the nutritional content of the fruit. However, it's important to limit the number of plums that goats eat per day and to make sure that the plums are cut into small pieces before giving them to goats.
 

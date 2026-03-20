@@ -105,7 +105,7 @@ Some people may find that [dairy goats are a more profitable option than meat or
 
 But, this will also depend on things like market demand for goat's milk and whether you want to [sell raw milk](/can-i-sell-goat-milk-butter/) or convert it into dairy products.
 
-Ultimately, it is up to you as a farmer to determine what approach will work best for your particular situation, and there is no one-size-fits-all formula for determining profitability in this industry.
+So, it is up to you as a farmer to determine what approach will work best for your particular situation, and there is no one-size-fits-all formula for determining profitability in this industry.
 
 Be aware, with a bit of research and planning ahead, you can certainly increase your chances of success by raising goats for fiber production.
 
@@ -131,7 +131,7 @@ Finally, since goats require ample ventilation during hot months but protection 
 
 With these considerations in mind, you can be sure to successfully raise healthy and happy goats that produce high-quality fibers for years to come.
 
-## What to Remember
+## Final Thoughts
 
 Overall, there are many things to consider when deciding whether or not to raise goats for fiber production. However, if you do your research and plan ahead, you can be sure to set yourself up for success in this rewarding endeavor.
 

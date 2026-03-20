@@ -73,7 +73,7 @@ But, not all plants are equally nutritious for goats.
 
 For example, legumes such as clover and alfalfa are a good source of protein, while grasses provide a higher level of fiber.
 
-As a result, you need goat owners to provide their animals with a varied diet in order to ensure that they receive all the nutrients they need.
+ you need goat owners to provide their animals with a varied diet in order to ensure that they receive all the nutrients they need.
 
 While there are many different plants that [goats can eat](/can-goats-eat-grapes/), some of the most common include dandelions, thistles, and milkweed.
 
@@ -125,7 +125,7 @@ With prompt and proper treatment, most [goats will recover from plant poisoning]
 
 But, you need to note that some plants can cause permanent damage or even be fatal, so it's always best to err on the side of caution and seek professional help as soon as possible.
 
-## Summary
+## Key Takeaways
 
 Overall, goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.
 

@@ -100,7 +100,7 @@ When it comes to providing the right housing and fencing for your goats in Medfo
 
 ## How to care for your goats in Medford, Oregon?
 
-When it comes to caring for your goats in Medford, Oregon, there are a few key things you should keep in mind. For starters, make sure that your property is fenced in, preferably with a sturdy and tall fence that can withstand the occasional goat escape.
+Talking about caring for your goats in Medford, Oregon, there are a few key things you should keep in mind. For starters, make sure that your property is fenced in, preferably with a sturdy and tall fence that can withstand the occasional goat escape.
 
 You will also need to provide your goats with plenty of fresh food and water on a regular basis, as well as shelter from [harsh weather conditions like excessive heat or cold](/can-goats-die-in-cold-weather/).
 

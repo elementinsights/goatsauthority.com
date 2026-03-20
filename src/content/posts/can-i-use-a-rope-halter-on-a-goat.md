@@ -94,7 +94,7 @@ This can make them ineffective in certain situations where firm control is key, 
 
 Additionally, because it is easy for a horse to pull back on a rope halter or slip out of it completely, there is always the risk of injury should accidents occur.
 
-Ultimately, the risks and rewards associated with using a rope halter will depend on your individual training needs and goals.
+Overall, the risks and rewards associated with using a rope halter will depend on your individual training needs and goals.
 
 So if you are considering making the switch from [traditional equipment](/can-i-use-a-cow-shell-with-goat-liners/) to a rope halter, it is important to carefully weigh all of your options before making a decision.
 
@@ -114,7 +114,7 @@ You should also keep your body close and maintain constant contact with your goa
 
 This method works well for experienced handlers as well as beginner trainers, making rope halters an excellent choice for any type of [livestock owner](/can-goats-and-dogs-be-friends/).
 
-## Summary
+## Final Thoughts
 
 You can use a rope halter on a goat by acclimating the goat to the halter and then using it when you are leading or restraining your goat in some way.
 

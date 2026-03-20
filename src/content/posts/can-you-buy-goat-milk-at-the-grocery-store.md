@@ -113,7 +113,7 @@ And finally, be sure to check the expiration date on the [milk before you drink]
 
 ## How does goat milk compare to other types of milk, such as cow's milk and almond milk?
 
-When it comes to choosing milk, there are a few things to consider. One is taste - some people prefer the taste of goat milk, while others find it to be too strong.
+Regarding choosing milk, there are a few things to consider. One is taste - some people prefer the taste of goat milk, while others find it to be too strong.
 
 Another is nutrition - Goat milk is higher in calcium and vitamin A than cow's milk, but it also contains more saturated fat. Last thing to note: there's suitability for different diets - Goat milk is naturally lactose-intolerant, making it a good choice for people with [dairy sensitivities](/can-goat-cheese-make-you-bloated/).
 
@@ -127,7 +127,7 @@ The best time to buy goat milk is in the spring when goats are typically lactati
 
 If you're looking for the freshest possible goat milk, you may want to consider [buying it from a farm](/can-i-sell-goat-milk-butter/) or dairy instead of the grocery store.
 
-## The Bottom Line
+## What to Remember
 
 Buying goat milk at the grocery store is a convenient and healthy option for many people. Goat milk is rich in nutrients, easy to digest, and a great alternative to cow's milk.
 

@@ -124,7 +124,7 @@ The most important thing to remember when dealing with mastitis is that early de
 
 Additionally, good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
 
-## Final Thoughts
+## Our Take
 
 Overall, drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.
 

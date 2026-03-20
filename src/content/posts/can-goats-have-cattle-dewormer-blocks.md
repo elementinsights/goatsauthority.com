@@ -105,7 +105,7 @@ The blocks should be placed in an area that is inaccessible to goats, such as in
 
 ## Things you need to consider before using cattle dewormer blocks on goats
 
-When it comes to deworming cattle, there are a few things to take into account before selecting a dewormer block.
+With deworming cattle, there are a few things to take into account before selecting a dewormer block.
 
 First, it's important to consider the age and weight of the cattle. Younger, smaller cattle are more susceptible to liver fluke, so a dewormer block that targets this parasite is ideal.
 
@@ -113,7 +113,7 @@ It's also important to consider the environment in which the cattle live.
 
 If they [graze in areas](/can-goats-be-tied-up-for-selective-area-grazing/) with a lot of standing water, for example, they're at a higher risk for contracting parasites that thrive in damp conditions.
 
-Finally, it's worth bearing in mind that resistance to dewormers is a growing problem in cattle herds. As such, it's important to select a dewormer block that contains an active ingredient that your cattle haven't been exposed to before.
+Finally, it's worth bearing in mind that resistance to dewormers is a growing problem in cattle herds. So, it's important to select a dewormer block that contains an active ingredient that your cattle haven't been exposed to before.
 
 By taking all of these factors into account, you can be sure to select the best possible dewormer block for your cattle.
 

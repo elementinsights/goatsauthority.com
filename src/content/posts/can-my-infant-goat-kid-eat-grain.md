@@ -118,7 +118,7 @@ However, there are several treatments for bloat in [kid goats](/can-i-use-bimect
 
 In more severe cases, you may also want to consider administering an enema to help expel some of that excess air.
 
-Ultimately, though, it is best to consult with your local veterinarian for advice on how to keep your goat healthy and free from bloat.
+When all is said and done, though, it is best to consult with your local veterinarian for advice on how to keep your goat healthy and free from bloat.
 
 ## When is the best time to give grain to goats?
 
@@ -130,7 +130,7 @@ Finally, be sure to cook the grain before feeding it to your goats, as this will
 
 By following these simple tips, you can help ensure that your goats get all of the nutrients they need to stay healthy and happy.
 
-## Key Takeaways
+## Wrapping Up
 
 So, to sum up, there are a few things you can do to make sure your goat kids get the most out of their grain diet.
 

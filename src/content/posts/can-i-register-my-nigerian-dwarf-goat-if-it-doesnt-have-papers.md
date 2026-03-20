@@ -120,7 +120,7 @@ Regardless of which route you choose, the key is simply to do your research and 
 
 With some patience and persistence, you should be able to successfully navigate through the process and [register your goats](/can-you-breed-a-father-and-daughter-goat/) without having any official papers or documents.
 
-## Summary
+## Key Takeaways
 
 You can register your Nigerian dwarf goats without papers by contacting established breed associations or registries, looking for reputable breeders in your area, or directly submitting DNA samples and milk tests for review.
 

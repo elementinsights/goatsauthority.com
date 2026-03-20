@@ -41,7 +41,7 @@ faq:
 ---
 I’m a goat owner. I love my goats and care about [what they eat](/why-do-goats-eat-everything/).
 
-When it comes to their diet, there are many questions that come up.
+For their diet, there are many questions that come up.
 
 One question that often pops into mind is about potatoes. Can goats eat them?
 
@@ -63,7 +63,7 @@ Remember too that every goat has different tastes just like humans so don’t wo
 
 ## Potato Types: Can Goats Eat Sweet Potatoes and Raw Potato Peelings?
 
-**When it comes to potatoes, goats can be picky eaters**. Not all types of potatoes are safe for them.
+**With potatoes, goats can be picky eaters**. Not all types of potatoes are safe for them.
 
 **[Sweet potatoes](/can-goats-eat-sweet-potatoes/), for example, are a big yes**. They’re not only tasty but also packed with vitamins that your goat needs.
 
@@ -173,7 +173,7 @@ To sum up: yes, goats can safely consume some types of potato but quantity contr
 
 ## the Difference Between Raw and Cooked Potatoes for Goats
 
-When it comes to feeding goats, you may wonder about potatoes. Raw or cooked?
+With feeding goats, you may wonder about potatoes. Raw or cooked?
 
 The answer isn’t as simple as yes or no.
 

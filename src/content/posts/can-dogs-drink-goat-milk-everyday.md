@@ -84,7 +84,7 @@ While goat milk can be a healthy addition to your dog's diet, there are also som
 
 One of the biggest risks is that goat milk may not contain enough of the nutrients your dog needs. Unlike cow's milk, which is fortified with vitamins and minerals, goat milk is not.
 
-As a result, your dog may end up deficient in important nutrients if you switch to goat milk exclusively.
+So, your dog may end up deficient in important nutrients if you switch to goat milk exclusively.
 
 It's also worth noting that some dogs are allergic to goat's milk or have difficulty digesting it. If you're considering giving your dog goat milk, be sure to talk to a dog expert first to make sure it's the right decision for your pet.
 
@@ -114,7 +114,7 @@ Many pet stores sell cow's milk that is specifically designed for dogs, and this
 
 Talk to a dog expert about what option would be best for your pet, and remember that you can always supplement your dog's diet with other healthy foods, like [fruits and vegetables](/can-goats-eat-overripe-fruit/), to make sure they're getting everything they need.
 
-## What to Remember
+## Our Take
 
 Dogs can drink goat milk every day, but there are some risks to consider before making the switch.
 

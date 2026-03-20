@@ -114,7 +114,7 @@ Though many plants are safe for goats to eat, there are a few that can be danger
 
 Though the [leaves of the mimosa tree](/can-goats-eat-gum-tree-leaves/) are not poisonous, the seeds and pods contain cyanogenic glycosides, which release cyanide when ingested.
 
-Cyanide is a toxic substance that can cause difficulty breathing, dizziness, and even death. As a result, you [need to take care when feeding goats](/can-i-feed-my-goat-leftovers/) around mimosa trees.
+Cyanide is a toxic substance that can cause difficulty breathing, dizziness, and even death. you [need to take care when feeding goats](/can-i-feed-my-goat-leftovers/) around mimosa trees.
 
 If you must feed them in an area where there are mimosa trees, be sure to remove all seed pods and leaves from the feed first. Additionally, you need to monitor your goats closely after they eat, in case they experience any adverse effects.
 
@@ -148,7 +148,7 @@ And finally, you could also try feeding them [timothy hay](/can-goats-eat-timoth
 
 All of these options are good alternatives to feeding goats mimosa, and they can help to ensure that your goats are getting the nutrients they need.
 
-## Wrapping Up
+## What to Remember
 
 Goats can eat mimosas. First, the plant is highly toxic to goats and can cause serious health problems.
 

@@ -155,4 +155,4 @@ High levels of nitrogen can lead to excessive leaf growth, which makes the tree 
 
 In addition, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
-As a result, it's important to use goat urine sparingly on trees and to avoid using it near waterways. If you have any concerns about the health of your trees, it's always best to consult with a certified arborist.
+ it's important to use goat urine sparingly on trees and to avoid using it near waterways. If you have any concerns about the health of your trees, it's always best to consult with a certified arborist.

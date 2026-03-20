@@ -60,7 +60,7 @@ The fourth [thing you need to consider](/can-a-dog-get-sick-from-a-goat/) is if 
 
 ## What is the difference between a newborn and older goats?
 
-When it comes to goats, there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts.
+Talking about goats, there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts.
 
 In addition, they typically have less developed senses and behaviors, making it difficult for them to navigate their environment or communicate with other goats.
 
@@ -130,7 +130,7 @@ Overall, there are a few risks associated with [mixing different age groups of g
 
 Then again, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
 
-## The Bottom Line
+## Final Thoughts
 
 You can mix different age groups of goats together to provide them with socialization and to [improve the quality of their milk](/can-goats-milk-be-frozen/), meat, and wool.
 

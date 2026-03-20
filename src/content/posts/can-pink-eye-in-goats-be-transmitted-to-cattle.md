@@ -88,7 +88,7 @@ This will help to remove any debris and irritants from the eye, reducing inflamm
 
 Other potential treatments include steroid injections directly into the eye, surgical removal of the eyelid when it is completely infected or wrapped around an eyeball, and even diet changes to boost immune function.
 
-Ultimately, however, the best treatment will depend on the specific condition of your animals and their level of response to different types of medication.
+So, however, the best treatment will depend on the specific condition of your animals and their level of response to different types of medication.
 
 ## When should you seek veterinary help for this condition?
 
@@ -122,7 +122,7 @@ Additionally, animals with pink eye may avoid eating or drinking, as the conditi
 
 If you notice any of these signs, it is important to seek veterinary care right away in order to provide relief for your animal and prevent the condition from worsening.
 
-## The Bottom Line
+## Quick Recap
 
 Pink eye is a highly contagious condition that can affect both goats and cattle. Early diagnosis and treatment are crucial in order to prevent the condition from becoming more serious and potentially causing permanent damage to the eye.
 

@@ -137,7 +137,7 @@ This can include increasing dietary levels of certain nutrients or adding specif
 
 Some people also recommend using herbal tinctures or other homeopathic remedies for coccidia, although these methods are somewhat controversial due to their lack of scientific evidence.
 
-Ultimately, what works best for a particular goat will depend on its unique medical history and lifestyle factors. Whether you choose a conventional treatment or an alternative approach, be sure to consult with your vet to ensure that you are providing the most effective care possible.
+ what works best for a particular goat will depend on its unique medical history and lifestyle factors. Whether you choose a conventional treatment or an alternative approach, be sure to consult with your vet to ensure that you are providing the most effective care possible.
 
 ## Summary
 

@@ -95,7 +95,7 @@ Goats are browsers and prefer to eat the [leaves and twigs](/can-goats-eat-maple
 
 While cedar trees are not the first choice for browse, they can provide essential nutrients for goats that are sick or recovering from an illness.
 
-What's more, cedar trees can help goats to stay warm in [cold weather](/can-goats-eat-brush-in-winter/) and protect them from the elements. As a result, sick goats can benefit from eating cedar trees.
+What's more, cedar trees can help goats to stay warm in [cold weather](/can-goats-eat-brush-in-winter/) and protect them from the elements. This means sick goats can benefit from eating cedar trees.
 
 ## Do all goats eat cedar trees?
 
@@ -115,7 +115,7 @@ Goats are able to eat cedar leaves without any ill effects. In fact, the cedar l
 
 Cedar also provides shelter for goats from the wind and rain. The leaves of the cedar tree create a dense network that helps to deflect both wind and water.
 
-As a result, cedar is an important tree for goats and other animals that live in areas with high winds and heavy rains.
+ cedar is an important tree for goats and other animals that live in areas with high winds and heavy rains.
 
 ## The risks associated with goats eating cedar trees
 

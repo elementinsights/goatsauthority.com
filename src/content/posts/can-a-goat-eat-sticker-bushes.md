@@ -164,7 +164,7 @@ Finally, you should supervise your goat while it's eating the sticker bushes to 
 
 By following these simple tips, you can ensure that your goat stays safe and healthy while enjoying its favorite food.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Many people are hesitant to let their goats eat sticker bushes because of the possible risks. However, as long as you take the proper precautions, there's no reason why your goat can't enjoy this delicious and nutritious treat.
 

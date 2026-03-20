@@ -94,7 +94,7 @@ This means that they are able to digest both plant and animal material. Goats ar
 
 In reality, feeding them a diet that is rich in these foods can help to keep them healthy and happy.
 
-When it comes to feeding goats strawberries, there's no hard and fast rule. The number of strawberries that you should feed your goat will depend on a number of factors, including the size of the goat and the overall health of the goat.
+Regarding feeding goats strawberries, there's no hard and fast rule. The number of strawberries that you should feed your goat will depend on a number of factors, including the size of the goat and the overall health of the goat.
 
 As a general guideline, you should start by offering your goat a few strawberries at a time. If your goat seems to enjoy eating them, you can gradually increase the amount that you offer.
 

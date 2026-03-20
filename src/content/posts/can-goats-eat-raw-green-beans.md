@@ -73,13 +73,13 @@ However, it is important to note that green beans should only be given to goats 
 
 ## Are there any risks associated with feeding goats raw green beans?
 
-When it comes to [feeding goats](/can-a-goat-feed-quads/), there are a variety of different options. One popular option is raw green beans.
+For [feeding goats](/can-a-goat-feed-quads/), there are a variety of different options. One popular option is raw green beans.
 
 Of course, there are a few potential risks associated with this food. For one thing, raw green beans contain a substance called solanine.
 
 This substance can be toxic to goats in large quantities. Similarly, raw green beans are difficult for goats to digest.
 
-As a result, they may experience stomach discomfort after eating them.
+This means they may experience stomach discomfort after eating them.
 
 Finally, raw green beans can harbor bacteria that can make goats sick. For these reasons, it is crucial to exercise caution when feeding raw green beans to goats.
 
@@ -127,7 +127,7 @@ Start by giving them a few beans at a time and see how they respond. If they hav
 
 Of course, if they start to experience [diarrhea or bloating](/can-alfalfa-pellets-cause-goats-to-bloat/), it's best to cut back on the number of beans you're giving them. Overall, raw green beans are a healthy treat for goats, but be sure to monitor their intake to avoid any digestive issues.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, raw green beans are a safe and healthy treat for goats. However, it's crucial to feed them in moderation and to watch for any signs of digestive problems.
 

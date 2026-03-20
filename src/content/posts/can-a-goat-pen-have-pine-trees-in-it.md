@@ -70,7 +70,7 @@ Pine trees provide goats with a source of entertainment and enrichment, which ca
 
 Another thing to note is the needles of pine trees can help to prevent parasitic infections in goats. The needles contain a natural compound that repels parasites, and they can also help to improve the overall health of the goat's gastrointestinal tract.
 
-As a result, pine trees can be an important part of maintaining a healthy goat herd.
+This means pine trees can be an important part of maintaining a healthy goat herd.
 
 ## What kind of pine trees are best for a goat pen?
 
@@ -123,7 +123,7 @@ Finally, pine trees produce sap, which can be sticky and attract insects. If the
 
 For these reasons, it's crucial to monitor goats carefully if there are [pine trees in their pen](/can-goats-climb-fences/).
 
-## What to Remember
+## Summary
 
 A goat pen can have pine trees in it, but there are a few things to consider before planting them. First, make sure to choose a type of pine tree that is strong and durable.
 

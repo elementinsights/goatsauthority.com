@@ -116,7 +116,7 @@ This is possible because goats are polyestrous, meaning that they can go into he
 
 Of course, the length of each [heat cycle varies depending on the breed of goat](/can-a-goat-get-pregnant-when-not-in-heat/) and the time of year.
 
-For example, Alpine goats tend to have longer heat cycles during the winter months, while Saanen goats have shorter heat cycles all year round. As a result, it's important to consult with a veterinarian before breeding goats to ensure that they are able to produce healthy offspring.
+For example, Alpine goats tend to have longer heat cycles during the winter months, while Saanen goats have shorter heat cycles all year round. For this reason, it's important to consult with a veterinarian before breeding goats to ensure that they are able to produce healthy offspring.
 
 ## Are there any other things that you need to know about breeding goats?
 
@@ -138,6 +138,6 @@ For example, dairy [goats are bred for their high milk production](/can-a-cat-dr
 
 And finally, it's important to understand the basics of goat reproductive anatomy. The female reproductive tract includes the ovaries, Fallopian tubes, uterus, cervix, and vulva.
 
-## Key Takeaways
+## Quick Recap
 
 Goats can have babies a week apart and they can have babies more than once a year. However, there are a few things that you [need to know about breeding goats](/can-you-breed-a-6-yr-old-goat-for-first-time/), such as the difference between bucks and does, the different types of goat breeds, and the basics of goat reproductive anatomy.

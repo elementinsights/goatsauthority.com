@@ -217,7 +217,7 @@ Remember also that while goats enjoy variety in their diet, it shouldn’t repla
 
 ### Preparing Grape Vines for Your Herd
 
-When it comes to feeding your goats, grapes can be a healthy treat. Goats are known for their diverse diet and they love munching on fruits like grapes.
+Talking about feeding your goats, grapes can be a healthy treat. Goats are known for their diverse diet and they love munching on fruits like grapes.
 
 But before you start handing out bunches of them, there’s something important to remember.
 

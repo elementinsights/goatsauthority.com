@@ -90,7 +90,7 @@ One question that sometimes arises is whether or not a sick goat can eat bologna
 
 Keep in mind, there are some general guidelines that can be followed. For example, if a goat is suffering from diarrhea, it's best to avoid giving them any food that is high in fat or fiber, as this can further upset their stomach.
 
-Plus, if a goat is vomiting, it's best to withhold food for 12-24 hours, as they may not be able to keep anything down. Ultimately, it's always best to consult with a veterinarian if you have any concerns about feeding your [sick goat](/can-i-give-a-sick-goat-water-through-a-syringe/).
+Plus, if a goat is vomiting, it's best to withhold food for 12-24 hours, as they may not be able to keep anything down. it's always best to consult with a veterinarian if you have any concerns about feeding your [sick goat](/can-i-give-a-sick-goat-water-through-a-syringe/).
 
 ## What is bologna and what are its benefits?
 
@@ -136,4 +136,4 @@ Be aware, most experts agree that two ounces is the maximum amount you should co
 
 Goats can eat bologna, but there are some risks to be aware of. Bologna is a type of processed meat that is high in saturated fat and sodium.
 
-Eating too much bologna can lead to health problems such as heart disease and cancer. As a result, it's important to enjoy bologna in moderation and to supplement it with healthier food options.
+Eating too much bologna can lead to health problems such as heart disease and cancer. This is why it's important to enjoy bologna in moderation and to supplement it with healthier food options.

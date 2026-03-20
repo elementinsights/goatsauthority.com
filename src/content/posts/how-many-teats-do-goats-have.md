@@ -119,9 +119,9 @@ It's also important to think about the amount of milk your goats are producing. 
 
 Finally, take a close look at your goats' udders - if they seem red or swollen, milking more frequently may help to relieve some of the pressure and discomfort.
 
-In general, milking twice per day is a good rule of thumb for most goat keepers. Ultimately, the best milking schedule for your herd will be one that works well for both you and your goats.
+In general, milking twice per day is a good rule of thumb for most goat keepers. When all is said and done, the best milking schedule for your herd will be one that works well for both you and your goats.
 
-## What to Remember
+## Closing Notes
 
 Goats have 2 -4 teats, with most having 2. There are a few things to keep in mind when milking a goat, including hygiene and the goat's comfort level.
 

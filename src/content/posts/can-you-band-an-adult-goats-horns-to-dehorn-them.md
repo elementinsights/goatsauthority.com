@@ -88,7 +88,7 @@ However, cautery dehorning can be difficult to achieve consistently good results
 
 The most common chemical used for this purpose is sodium hydroxide, which is applied directly to the [horn buds](/can-you-disbud-a-goat-without-medication/). This caustic substance quickly dissolves the horns, causing them to fall off within a few days.
 
-Chemical dehorning is generally considered to be less painful than cautery dehorning, although it does carry the risk of chemical burns if not done properly. Ultimately, the decision of whether to dehorn an animal and which method to use should be based on the individual needs of the farm.
+Chemical dehorning is generally considered to be less painful than cautery dehorning, although it does carry the risk of chemical burns if not done properly. the decision of whether to dehorn an animal and which method to use should be based on the individual needs of the farm.
 
 ## Pros and cons of dehorning adult goats
 
@@ -106,7 +106,7 @@ There are both advantages and disadvantages to dehorning adult goats. On the plu
 
 It can also make it easier to handle the goats, as they will no longer have sharp horns that could potentially hurt you. On the downside, dehorning can be a stressful experience for the goat and [it may take several weeks for them to recover](/can-goats-recover-from-polio-without-medication/) from the procedure.
 
-There is also a risk of infection if the wound is not properly [cared for](/can-i-put-neosporin-on-my-goats/). Ultimately, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
+There is also a risk of infection if the wound is not properly [cared for](/can-i-put-neosporin-on-my-goats/). The bottom line is, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
 
 ## How to band an adult goat's horns for dehorning?
 
@@ -122,7 +122,7 @@ The band should be tight enough to cut off circulation but not so tight that it 
 
 Once the horn has fallen off, the band can be removed and the area will heal on its own. Banding is a safe and effective way to remove horns from adult goats with minimal stress or discomfort.
 
-## Summary
+## Wrapping Up
 
 The decision of whether or not to dehorn your goats is a personal one that depends on your individual circumstances.
 

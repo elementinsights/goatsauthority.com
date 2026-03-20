@@ -122,7 +122,7 @@ The treatments for some common illnesses are:
 
 ## Are there any other things that you need to consider when it comes to keeping your goats healthy in the winter months?
 
-When it comes to keeping your goats healthy in the winter months, there are a few extra things you will need to consider.
+Talking about keeping your goats healthy in the winter months, there are a few extra things you will need to consider.
 
 First, you will need to make sure they have access to fresh, clean water at all times. Goats are more susceptible to dehydration in the winter months, so you need to make sure they are drinking enough water.
 
@@ -130,7 +130,7 @@ Then, you will need to provide them with good-quality hay or forage. Goats need 
 
 Finally, you will need to pay attention to their shelter. Goats need a dry, warm place to sleep in the [winter months](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/), so make sure their shelter is well-insulated and draft-free.
 
-## Key Takeaways
+## To Wrap Things Up
 
 Overall, goats are relatively hardy animals. However, they can still succumb to illness if they are not properly cared for.
 

@@ -81,7 +81,7 @@ While all breeds of goats can provide milk, cheese, and other dairy products, no
 
 However, the [Boer goat](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) is a large, muscular breed that is often used for meat production and can also be trained to pull carts and other heavy loads.
 
-As a result, whether or not a particular [breed of goat](/can-a-goat-breed-with-sheep/) can be used for cart-pulling depends on the size and strength of the individual animal.
+Because of this, whether or not a particular [breed of goat](/can-a-goat-breed-with-sheep/) can be used for cart-pulling depends on the size and strength of the individual animal.
 
 ## What are the benefits of using a goat to pull a cart?
 
@@ -95,7 +95,7 @@ After that, they are very sure-footed and able to navigate rough terrain without
 
 And finally, [goats are relatively easy to care for and do not require as much food](/can-sheep-eat-goat-food/) as larger animals such as horses or oxen.
 
-As a result, they can be a cost-effective option for those looking for an alternative form of transportation.
+ they can be a cost-effective option for those looking for an alternative form of transportation.
 
 ## What are the risks associated with using a goat to pull a cart?
 
@@ -131,7 +131,7 @@ In the end, goats are curious animals and could decide to investigate something 
 
 For these reasons, it's not safe to let a goat pull a cart by itself. The goat needs to be with another goat or animal, and someone needs to be controlling the cart.
 
-## Summary
+## Key Takeaways
 
 Goats can pull carts, but not all breeds are suitable for this type of work. The Boer goat is a large, muscular breed that is often used for meat production and can also be trained to pull carts and other heavy loads.
 

@@ -139,7 +139,7 @@ Overall, it is best to avoid Oregon grapes if you have goats. These plants are p
 
 If you think that your goat has eaten Oregon grapes, seek veterinarian care immediately.
 
-## Key Takeaways
+## Summary
 
 Goats cannot eat Oregon grapes. These plants are poisonous to goats and can cause serious health problems if consumed.
 

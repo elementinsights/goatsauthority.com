@@ -132,7 +132,7 @@ Be sure to stay on designated trails and keep an eye on your goat to prevent thi
 
 And finally, your goat could contract a disease or parasite. If you take your goat to different places, they may come into contact with contaminated water or food.
 
-## Final Thoughts
+## Summary
 
 You can have a great time taking your goat for a walk in Skippack PA if you take the necessary precautions.
 

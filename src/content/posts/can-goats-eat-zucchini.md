@@ -87,7 +87,7 @@ Goats typically like to eat grass, hay, and other greens, so zucchini is a healt
 
 ## What are the benefits of feeding zucchini to goats?
 
-When it comes to goats, there are a variety of different things that they can eat. One type of food that you may not have thought of feeding them is zucchini.
+About goats, there are a variety of different things that they can eat. One type of food that you may not have thought of feeding them is zucchini.
 
 Zucchini is not only a healthy option for goats, but it can also provide them with a number of benefits.
 
@@ -137,11 +137,11 @@ Summer squash is typically smaller and more delicate than winter squash, making 
 
 When feeding either type of squash to goats, you need to make sure that the skin is removed before giving it to them. The skin of both summer and winter squash can be tough for goats to digest, and it can also cause digestive problems if consumed in large quantities.
 
-Ultimately, there's no definitive answer when it comes to determining the ideal serving size of zucchini for goats.
+ there's no definitive answer when it comes to determining the ideal serving size of zucchini for goats.
 
 However, by taking into account the age and size of the goat, as well as the type of zucchini being fed, you can develop a feeding plan that meets the unique needs of your animal.
 
-## The Bottom Line
+## Our Take
 
 Goats can eat zucchini. Zucchini is a healthy vegetable that can be safely added to your goat's diet.
 

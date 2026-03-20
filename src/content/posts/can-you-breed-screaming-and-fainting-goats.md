@@ -140,7 +140,7 @@ Finally, you should be aware that these goats may be more prone to disease. Ther
 
 When done properly, breeding screaming and fainting goats can be a rewarding experience. These goats can make excellent dairy goats and their milk is high in nutrients.
 
-## Summary
+## Our Take
 
 You can breed screaming and fainting goats successfully by following the proper care and management techniques.
 

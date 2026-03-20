@@ -155,7 +155,7 @@ Eating too much onion root can cause red blood cells to break down, leading to a
 
 It can also cause difficulty breathing, stomach pain, and vomiting. Onion roots should be avoided, and cooked onions should be given in moderation.
 
-## The Bottom Line
+## What to Remember
 
 Goats can safely eat onions in moderation. Onions are a source of essential vitamins and minerals, including sulfur, which is important for hoof health.
 

@@ -95,7 +95,7 @@ Satsuma leaves are generally considered to be safe for goats, and according to t
 
 For example, the leaves may contain high levels of oxalic acid, which can cause health problems if consumed in large quantities. Similarly, satsuma leaves may also contain toxins that can be harmful to goats.
 
-As such, it is crucial to exercise caution when [feeding satsuma leaves](/can-baking-soda-cause-urinary-issues-in-goats/) to goats and to consult with a goat expert if there are any concerns.
+For that reason, it is crucial to exercise caution when [feeding satsuma leaves](/can-baking-soda-cause-urinary-issues-in-goats/) to goats and to consult with a goat expert if there are any concerns.
 
 ## How to prevent health problems when feeding satsuma leaves to goats?
 
@@ -119,7 +119,7 @@ Regardless of how they are fed, satsuma leaves should always be provided in a cl
 
 Satsuma leaves are a popular food for goats. They are high in nutrients and contain no harmful toxins.
 
-However, satsuma leaves are also very tough and hard to digest. As a result, goats can only eat a limited number of satsuma leaves per day.
+However, satsuma leaves are also very tough and hard to digest. goats can only eat a limited number of satsuma leaves per day.
 
 The exact number will vary depending on the age and health of the goat, but it is generally recommended that goats eat no more than two or three satsuma leaves per day.
 
@@ -133,7 +133,7 @@ Goats should have access to a variety of fresh vegetation, including grass, hay,
 
 The best time to feed satsuma leaves to goats is in the morning before they have had a chance to fill up on other food. This will help to ensure that the goats get the nutrients they need and do not over-consume satsuma leaves.
 
-## The Bottom Line
+## Summary
 
 Goats can eat satsuma leaves, but they should only be fed in moderation. Satsuma [leaves are a good source of nutrition for goats](/can-goats-eat-pumpkin-leaves/), but they may also contain toxins that can be harmful to them.
 

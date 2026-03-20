@@ -108,11 +108,11 @@ Given these [potential risks](/can-a-plastic-bag-hurt-a-goat/), it is generally 
 
 Keep in mind, in some cases where vaginal issues are present in the mother or if labor is particularly difficult or slow-moving, it can still be beneficial to consult with a goat expert about whether a small amount of vaseline may be appropriate under certain circumstances.
 
-Ultimately, whether to use vaseline during birth will depend on factors such as the health of both mother and baby, as well as individual preferences and circumstances.
+When all is said and done, whether to use vaseline during birth will depend on factors such as the health of both mother and baby, as well as individual preferences and circumstances.
 
 ## Additional information on goat births
 
-When it comes to goat births, there are a few key [things that every farmer needs to know](/can-a-dog-get-sick-from-a-goat/). First and foremost, it's important to understand the basic stages of labor and delivery, which typically begins with a gestation period of about 145 days.
+With goat births, there are a few key [things that every farmer needs to know](/can-a-dog-get-sick-from-a-goat/). First and foremost, it's important to understand the basic stages of labor and delivery, which typically begins with a gestation period of about 145 days.
 
 During this time, the mother will gradually enter into the process of delivering her young and preparing for the struggles and joys that are yet to come.
 
@@ -128,7 +128,7 @@ And above all else, it's important to have a calm presence throughout this whole
 
 With careful preparation and attention paid to every step along the way, you should be able to give your baby goats a safe and happy start in their new life on your farm.
 
-## Final Thoughts
+## Wrapping Up
 
 Vaseline can be a helpful tool during goat births, but it's important to weigh the [risks and benefits](/can-a-cat-drink-goats-milk/) before using it. In most cases, it's best to avoid using vaseline unless specifically recommended by a goat expert.
 

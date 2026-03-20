@@ -81,7 +81,7 @@ The flexible hooves also act as natural shock absorbers, cushioning the impact w
 
 What's more, this structure gives goats impressive grip and traction, allowing them to climb steep inclines and scale particularly tricky surfaces, such as slippery rocks or tree limbs.
 
-Ultimately, the hooves of goats play an important role in helping these animals thrive in a diverse range of environments.
+So, the hooves of goats play an important role in helping these animals thrive in a diverse range of environments.
 
 Whether they are grazing on grassy plains, scaling rocky mountaintops, or roaming forests in search of grasses and leaves to eat, goats use their specialized hooves to move with ease and confidence.
 
@@ -119,7 +119,7 @@ Some farmers and livestock owners choose to surgically remove these cloven hoove
 
 However, these procedures can be risky and can result in [infection](/can-goats-get-mites/) or complications if not done properly by a trained professional.
 
-Ultimately, whether through natural birth or surgical removal, goats possess cloven hooves at birth and retain them throughout their lives.
+At the end of the day, whether through natural birth or surgical removal, goats possess cloven hooves at birth and retain them throughout their lives.
 
 ## Do other animals have cloven hooves as well or are they unique to goats only?
 
@@ -131,7 +131,7 @@ Another thing to note is cloven hooves contain special joints that allow them to
 
 Overall, while goat hooves may be famous for their unique structure, other animals also have cloven hooves that serve similar purposes.
 
-## Final Thoughts
+## Our Take
 
 Goats have cloven hooves that are split into two sections, which helps them to grip the ground and walk on uneven surfaces.
 

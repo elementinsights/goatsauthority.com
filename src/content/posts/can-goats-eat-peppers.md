@@ -78,7 +78,7 @@ Additionally, [goats should not eat green or unripe peppers](/can-goats-eat-raw-
 
 Goats are able to eat a wide variety of food, including pepper stems. Pepper plants are a type of nightshade, and all parts of the plant contain a compound called solanine.
 
-This compound is toxic to many animals, but [goats are able to detoxify it in their digestive system](/can-goats-digest-cotton/). As a result, they can safely consume pepper stems without any ill effects.
+This compound is toxic to many animals, but [goats are able to detoxify it in their digestive system](/can-goats-digest-cotton/). Because of this, they can safely consume pepper stems without any ill effects.
 
 In fact, goats actually prefer the taste of Pepper plants over other plants.
 
@@ -142,7 +142,7 @@ Capsaicin, which is found in peppers, can irritate the skin and eyes. It's impor
 
 It's also worth noting that it's important to make sure that the peppers are chopped into [small pieces before feeding them to goats](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help to prevent choking and also make it easier for the goats to digest the peppers.
 
-## What to Remember
+## The Bottom Line
 
 [Goats can eat peppers](/can-goats-eat-cucumbers/), and there are a number of benefits to doing so. Peppers are packed with nutrients, and they can help to improve the flavor of [goat milk](/can-dogs-drink-goat-milk-everyday/).
 

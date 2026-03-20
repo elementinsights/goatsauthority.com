@@ -85,7 +85,7 @@ Many people are surprised to learn that goat meat is actually quite healthy for 
 
 This means that it is lower in saturated fat and cholesterol, which can help to reduce your risk of heart disease. In addition, goat meat is an excellent source of protein, Vitamin B12, and iron.
 
-It also contains higher levels of certain amino acids than other types of meat. As a result, [goat meat can be a great option](/can-i-eat-goat-legs-during-pregnancy/) for those looking for a healthy and delicious way to fuel their bodies.
+It also contains higher levels of certain amino acids than other types of meat. [goat meat can be a great option](/can-i-eat-goat-legs-during-pregnancy/) for those looking for a healthy and delicious way to fuel their bodies.
 
 ## What are some recipes that include goat meat?
 
@@ -123,7 +123,7 @@ Then again, goat meat can be difficult to find in some areas. If you're having t
 
 They may be able to special order it for you or point you in the right direction. With a little effort, you should be able to find goat meat and enjoy its unique flavor and nutrition.
 
-## Summary
+## Closing Notes
 
 You can buy goat meat at Walmart stores, it is a healthy and delicious way to fuel bodies. It is an excellent source of protein, Vitamin B12, and iron.
 

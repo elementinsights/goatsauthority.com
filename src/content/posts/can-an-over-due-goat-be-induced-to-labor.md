@@ -133,7 +133,7 @@ Nesting is when the goat starts to prepare a bed for herself to lie down in duri
 
 If you notice any of these signs, it's important to keep a close eye on the goat and be prepared to assist if necessary.
 
-## Summary
+## The Bottom Line
 
 Inducing labor in a goat can be risky, and it's important to weigh the [risks and benefits](/can-goats-eat-watermelon/) before making a decision. If you do choose to induce labor, make sure you have the supplies you need on hand and that you're prepared to assist if necessary.
 

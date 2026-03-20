@@ -134,7 +134,7 @@ Depending on the type of worm problem that you are dealing with, there may also 
 
 In general, by taking these proactive measures, you can help minimize your goat's chances of getting worms and ensure that they stay healthy and happy for years to come.
 
-## Key Takeaways
+## Quick Recap
 
 You can worm your goat by following the steps in this article. You should also know when to worm your goat and how often to do so.
 

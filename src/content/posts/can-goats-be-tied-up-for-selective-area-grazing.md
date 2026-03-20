@@ -129,7 +129,7 @@ This could lead to the goat feeling stressed and anxious, which could negatively
 
 For these reasons, it's generally advisable to avoid tying up goats for transport. If you do need to transport a goat, it's best to do so in a secure enclosure where the animal has plenty of room to move around.
 
-## Summary
+## Final Thoughts
 
 Overall, goats are social creatures that need plenty of room to roam. They are curious about nature and will often try to explore their surroundings.
 

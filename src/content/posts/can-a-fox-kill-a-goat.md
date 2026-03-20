@@ -130,7 +130,7 @@ There are a few things you should know about electric fences and goats.
 - Second, electric fences are relatively inexpensive and easy to install.
 - Third, goats are curious creatures and may try to test the fence by chewing on it or leaning against it.
 
-## What to Remember
+## Our Take
 
 Foxes can pose a serious threat to goats, but you can take precautions to keep them safe.
 

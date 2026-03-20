@@ -48,7 +48,7 @@ When the plant dies, the nitrogen is released back into the soil. This cycle of 
 
 However, if the clover is killed by frost, this process is disrupted.
 
-The dead plants decompose more slowly, and the nitrogen is not released back into the soil. As a result, the soil becomes less fertile and goats that graze on frost-killed clover can suffer from [malnutrition](/can-old-goats-develop-rickets/).
+The dead plants decompose more slowly, and the nitrogen is not released back into the soil. So, the soil becomes less fertile and goats that graze on frost-killed clover can suffer from [malnutrition](/can-old-goats-develop-rickets/).
 
 Besides causing malnutrition, frost-killed clover can also be poisonous to goats. Clover contains compounds that are toxic to goats, and these compounds become more concentrated when the plant dies.
 
@@ -132,7 +132,7 @@ In addition to the usual fencing and housing considerations for goats, there are
 
 By following these tips, you can help keep your goats safe from potential poisoning risks.
 
-## The Bottom Line
+## Final Thoughts
 
 Goats can get poisoned by clover if they eat it that has been frosted on. If you think your goat has been poisoned by clover, contact an [animal expert](/can-i-give-my-goat-pepto-bismol/) immediately.
 

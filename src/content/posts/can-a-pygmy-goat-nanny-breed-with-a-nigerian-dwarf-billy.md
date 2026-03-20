@@ -116,7 +116,7 @@ Nigerian Dwarfs are known to be susceptible to certain health problems, such as 
 
 These health problems can be passed on to the offspring of a cross between these two breeds. While not all Pygmy Goat-Nigerian Dwarf crosses will be affected by these conditions, it's something that potential breeders should be aware of.
 
-## The Bottom Line
+## Final Thoughts
 
 A pygmy goat nanny can successfully breed with a Nigerian dwarf billy goat, but there are some [potential consequences that should be considered before breeding these two types of goats](/can-a-plastic-bag-hurt-a-goat/).
 

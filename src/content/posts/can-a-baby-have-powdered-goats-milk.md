@@ -143,7 +143,7 @@ You can also find goat's milk online from a variety of retailers. Another option
 
 This is a great way to support local farmers and get the freshest possible milk.
 
-## What to Remember
+## Key Takeaways
 
 Many parents choose to give their babies goat's milk, either as a cow's milk alternative or as a supplement. Goat's milk is easy to digest and contains many nutrients that are beneficial for growing babies.
 

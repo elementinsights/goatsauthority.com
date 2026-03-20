@@ -66,7 +66,7 @@ Other [breeds of goat](/can-a-goat-breed-with-sheep/) can also have quadruplets.
 
 These breeds are not as well-known for their high reproductive rates as Saanen goats, although it's still possible for them to have multiple offspring at once. Whether a goat gives birth to twins, triplets, or quadruplets often depends on the individual goat and her [genetic predisposition](/can-the-same-litter-of-goats-have-different-fathers/).
 
-However, certain breeds are more likely to produce multiple offspring than others. As a result, when choosing a breed of goat for your farm, it's important to consider which traits are most important to you.
+However, certain breeds are more likely to produce multiple offspring than others. Because of this, when choosing a breed of goat for your farm, it's important to consider which traits are most important to you.
 
 If you are looking for a breed that is known for its high milk production and ability to quickly [replenish the herd](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/), then a Saanen goat may be the best choice for you.
 
@@ -74,7 +74,7 @@ If you are looking for a breed that is known for its high milk production and ab
 
 Goats are creatures of habit and prefer to eat the same things every day. A good diet for a goat includes hay, fresh vegetables, and a small amount of grain.
 
-Goats also need access to fresh water at all times. When it comes to feeding goats, more is not better.
+Goats also need access to fresh water at all times. As for feeding goats, more is not better.
 
 Overfeeding can lead to health problems, such as digestive issues and obesity. Instead, [goats should be fed](/can-goats-save-sperm/) twice a day, with each meal providing about 1-2% of the goat's body weight in dry food.
 
@@ -102,7 +102,7 @@ Finally, it helps to keep their coat soft and healthy.
 
 One of the most important things to consider when it comes to raising goats is their diet. Goats are naturally curious creatures and will often put anything they can find into their mouths, including harmful plants and objects.
 
-As a result, it's crucial to make sure that goats have access to a healthy diet that meets all their nutritional needs. If a goat is not getting enough to eat, it may become [malnourished](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/).
+ it's crucial to make sure that goats have access to a healthy diet that meets all their nutritional needs. If a goat is not getting enough to eat, it may become [malnourished](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/).
 
 There are several signs that you can look for to tell if a goat is not getting enough to eat, including weight loss, lethargy, and a dull coat. If you suspect that your goat is not getting enough to eat, be sure to consult with an animal expert to create a plan of action.
 
@@ -146,7 +146,7 @@ Be sure to visit a veterinarian with your goat to rule out any potential health 
 
 Due to their infamously fussy eating habits, goats may just be uninterested in the food you are providing. Explore many feed options to see if you can find one that your goat likes.
 
-## Key Takeaways
+## Summary
 
 Goats can feed quads but make sure you are providing a healthy diet that meets all their nutritional needs.
 

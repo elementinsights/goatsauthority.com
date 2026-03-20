@@ -120,7 +120,7 @@ While goats are generally resistant to most diseases, they can be susceptible to
 
 Pasta is made from wheat, which is a grain that is hard for goats to digest.
 
-When wheat is cooked, it becomes even harder for goats to break down. As a result, feeding goats cooked pasta can lead to digestive problems such as bloating, diarrhea, and even death.
+When wheat is cooked, it becomes even harder for goats to break down. This means feeding goats cooked pasta can lead to digestive problems such as bloating, diarrhea, and even death.
 
 To prevent the risks associated with feeding goats cooked pasta, it's best to only feed them pasta that is raw or has been lightly cooked.
 
@@ -128,7 +128,7 @@ To prevent the risks associated with feeding goats cooked pasta, it's best to on
 
 On average, goats can eat between 2 and 4 lbs of dry food per day. This includes hay, pellets, and grains.
 
-When it comes to cooked pasta, but, they can only eat a limited amount.
+Talking about cooked pasta, but, they can only eat a limited amount.
 
 Pasta is high in carbohydrates and can cause digestive problems for [goats if they eat too much](/can-goats-eat-grapes/) of it. As a general rule, goats should not consume more than 1/4 cup of cooked pasta per day.
 
@@ -144,7 +144,7 @@ Additionally, hay is less likely to cause digestive problems than cooked pasta. 
 
 These are a good source of vitamins and minerals, and they can help to keep your [goat's digestive system](/can-goats-digest-anything/) healthy. Just be sure to avoid giving your goat any fruits or vegetables that are high in sugar or salt.
 
-## What to Remember
+## Quick Recap
 
 [Goats can eat cooked pasta](/can-goats-eat-watermelon/). However, it's important to feed them only a small amount to prevent digestive problems.
 

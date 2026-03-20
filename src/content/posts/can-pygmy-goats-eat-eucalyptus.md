@@ -104,7 +104,7 @@ In addition, other treatment options may include vitamin injections, steam inhal
 
 It's crucial to work closely with a veterinarian in order to determine the best course of treatment for each individual case, as what works for one goat might not work for another.
 
-Ultimately, though, with the right care and attention, it is possible for a [sick pygmy goat](/can-a-goat-get-sick-from-cold/) to fully recover and return to good health.
+At the end of the day, though, with the right care and attention, it is possible for a [sick pygmy goat](/can-a-goat-get-sick-from-cold/) to fully recover and return to good health.
 
 ## How much eucalyptus should can pygmy goat eat per day?
 
@@ -114,7 +114,7 @@ First, the age and size of the goat will play a role, as younger or smaller goat
 
 Other factors that can affect how much eucalyptus to [feed a pygmy goat](/can-a-goat-feed-quads/) include diet, existing health conditions, and any changes in routine, such as moving to a different environment.
 
-Ultimately, the best course of action is to consult with a professional livestock veterinarian who can provide tailored recommendations based on your specific animal and circumstances.
+ the best course of action is to consult with a professional livestock veterinarian who can provide tailored recommendations based on your specific animal and circumstances.
 
 With proper care and monitoring, but, you can ensure that your pygmy goat stays healthy and happy for years to come.
 
@@ -140,7 +140,7 @@ When in doubt, it's always best to consult with a professional veterinarian or l
 
 With proper care and attention, you can help to keep your pygmy goat healthy and happy for years to come.
 
-## Summary
+## Key Takeaways
 
 Overall, it's important to remember that each pygmy goat is an individual and will require different amounts of care and attention.
 

@@ -119,7 +119,7 @@ With that in mind, in other cases, multiple doses may be required. If your goat 
 
 In some cases, surgery may also be necessary.
 
-## The Bottom Line
+## Closing Notes
 
 Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.
 

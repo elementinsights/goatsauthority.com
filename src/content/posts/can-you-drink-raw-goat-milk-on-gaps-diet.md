@@ -142,7 +142,7 @@ Goat milk is a rich source of casein, a type of protein commonly found in the mi
 
 The GAPS diet restricts dairy consumption to fermented options only, meaning conventional cheese is off-limits. Nevertheless, [cheese](/can-you-freeze-goat-cheese/) made from cultured milk can add delicious variety to GAPS-compliant meals.
 
-## Final Thoughts
+## What to Remember
 
 Raw goat milk is a potential source of nutrients for those following the GAPS diet. However, before including it in your meals, it's important to assess personal health and dietary needs.
 

@@ -142,7 +142,7 @@ Last thing to note: you could get hurt. If you are not careful, you could get hu
 
 These are just some of the risks associated with having a goat pull a plow. If you are aware of these risks, you can take steps to avoid them.
 
-## Final Thoughts
+## Closing Notes
 
 Overall, goats can be very effective at pulling a plow. However, there are some things that you need to take into account.
 

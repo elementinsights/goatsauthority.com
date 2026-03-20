@@ -134,7 +134,7 @@ Second, you need to maintain a balance of good bacteria in their stomach. This c
 
 Finally, you should avoid giving them any food that could potentially be contaminated with harmful bacteria. By following these simple tips, you can help to keep your goat's stomach healthy and prevent any problems down the road.
 
-## Final Thoughts
+## To Wrap Things Up
 
 Goats are interesting creatures with a lot of quirks. One of the most curious things about them is the fact that they have multiple stomachs.
 

@@ -133,10 +133,10 @@ These natural remedies can be highly effective at reducing inflammation and easi
 
 Other options include massage therapy and acupuncture, both of which can help to relieve stress and tension in baby goats and[promote better overall health](/can-baby-goats-have-any-electrolytes/).
 
-Ultimately, the best approach will depend on the specific needs of each individual animal, so it is crucial to work with a trusted goat expert or other trusted medical professional when determining the most appropriate [course of treatment](/can-i-put-neosporin-on-my-goats/).
+At the end of the day, the best approach will depend on the specific needs of each individual animal, so it is crucial to work with a trusted goat expert or other trusted medical professional when determining the most appropriate [course of treatment](/can-i-put-neosporin-on-my-goats/).
 
-## What to Remember
+## The Bottom Line
 
 You can give baby aspirin to your baby goat if they are experiencing pain or inflammation. However, it is important to monitor for side effects and always check with a veterinarian first.
 
-There are also a number of alternative options for pain relief and anti-inflammatory medication that may be safer for baby goats. Ultimately, the best approach will depend on the specific needs of each individual animal.
+There are also a number of alternative options for pain relief and anti-inflammatory medication that may be safer for baby goats. So, the best approach will depend on the specific needs of each individual animal.

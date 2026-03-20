@@ -127,7 +127,7 @@ Water your seeds regularly, and be sure to keep them in a warm location until th
 
 Be sure to give them plenty of room to grow, as they can become quite large over time. With just a little care and attention, your laurel leaf plants will thrive and provide you with years of enjoyment.
 
-## Summary
+## What to Remember
 
 [Goats can eat a variety of different plants](/can-goats-eat-any-plant/), but laurel leaves are not one of them. Laurel leaves are poisonous to goats, and ingesting them can lead to cyanide poisoning.
 

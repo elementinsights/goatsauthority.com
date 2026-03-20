@@ -65,7 +65,7 @@ Of course, you need to feed bones in moderation, as too much can lead to digesti
 
 ## What is the nutritional value of bones for goats?
 
-Goats are browsers, meaning that they prefer to eat the leaves and stems of plants rather than the grasses found in pastures. As a result, they require a diet that is rich in minerals, including calcium, phosphorous, and magnesium.
+Goats are browsers, meaning that they prefer to eat the leaves and stems of plants rather than the grasses found in pastures. Because of this, they require a diet that is rich in minerals, including calcium, phosphorous, and magnesium.
 
 While these minerals can be found in other sources, such as hay and grit, bones are an especially good source of nutrition for goats. On top of providing essential minerals, bones also contain collagen.
 
@@ -129,7 +129,7 @@ But, you may need to adjust the frequency depending on your goat's individual nu
 
 ## Where can I find goat-safe bones to feed my herd?
 
-When it comes to [goat nutrition](/can-i-give-a-moldy-pumpkin-to-goats/), bones are an important source of calcium. Of course, not all bones are created equal.
+With [goat nutrition](/can-i-give-a-moldy-pumpkin-to-goats/), bones are an important source of calcium. Of course, not all bones are created equal.
 
 Goat-safe bones should be relatively small and soft so that they can be easily chewed and digested.
 
@@ -139,7 +139,7 @@ Another option is to give your [goats raw meat](/can-sheep-drink-raw-goats-milk/
 
 With a little bit of research, you should have no trouble finding the perfect type of bone for your herd.
 
-## Key Takeaways
+## What to Remember
 
 [Goats can eat bones](/can-a-goat-eat-sticker-bushes/) as part of a balanced diet. Bones are an excellent source of calcium and other minerals, and they can help keep goats' teeth healthy.
 

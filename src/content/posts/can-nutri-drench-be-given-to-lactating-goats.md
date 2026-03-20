@@ -64,7 +64,7 @@ Nutri Drench is a highly concentrated vitamin and mineral supplement specificall
 
 Made from 100% natural ingredients and organic plant extracts, Nutri Drench delivers a wide range of essential nutrients that help support energy production and biochemical functions in the body.
 
-As such, this powerful supplement is ideal for use in situations when horses are at increased risk for nutritional deficiencies or have difficulty getting enough [nutrition from their regular feed](/can-i-use-regular-milk-to-feed-a-baby-goat/).
+For that reason, this powerful supplement is ideal for use in situations when horses are at increased risk for nutritional deficiencies or have difficulty getting enough [nutrition from their regular feed](/can-i-use-regular-milk-to-feed-a-baby-goat/).
 
 Whether you're a professional horse owner or just an equestrian enthusiast, Nutri Drench should be an essential part of your horse's overall health regime.
 
@@ -132,7 +132,7 @@ First, be sure to properly [hydrate](/can-i-put-safeguard-in-my-goats-milk/) the
 
 Finally, be sure to follow the recommended dosage for your particular herd. By taking these simple precautions, you can minimize the risk of developing any problems while giving Nutri Drench to your lactating goats.
 
-## Key Takeaways
+## Summary
 
 In general, Nutri Drench is a safe and effective way to provide additional nutrients to lactating goats. However, it is important to keep in mind that there are a few [risks associated with giving the supplement to goats](/can-a-cdt-shot-kill-a-goat/).
 

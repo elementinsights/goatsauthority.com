@@ -86,7 +86,7 @@ The outcome is that they can be expensive and time-consuming to keep.
 
 Finally, goat-sheep hybrids may not inherit all of the desired characteristics of their parents. For example, a hybrid may have the body of a sheep but the head of a goat.
 
-As a result, it may be difficult to predict what traits will be passed on to these animals.
+ it may be difficult to predict what traits will be passed on to these animals.
 
 ## What are the characteristics of a goat-sheep hybrid animal?
 
@@ -120,13 +120,13 @@ One of the biggest concerns about goat-sheep hybrids is their health. These anim
 
 This is a major concern for farmers, as sick animals are costly to care for and can quickly reduce profits.
 
-As a result, many farmers are hesitant to invest in goat-sheep hybrids until more is known about their health. Another concern is the cost of these animals.
+Because of this, many farmers are hesitant to invest in goat-sheep hybrids until more is known about their health. Another concern is the cost of these animals.
 
 Goat-sheep hybrids are typically more expensive than traditional goats or sheep, making them a risky investment for many farmers.
 
 Despite these concerns, there's still much excitement about the future of goat-sheep hybrids. These animals have the potential to greatly improve meat and dairy products around the world, and many farmers are eager to get started with them.
 
-## What to Remember
+## Summary
 
 A goat can breed with a sheep, and the resulting offspring is called a geep. Geeps are very rare, and they usually have the head of a goat and the [body of a sheep](/can-a-goat-have-babies-a-week-apart/).
 

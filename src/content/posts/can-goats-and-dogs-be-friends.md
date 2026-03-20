@@ -122,7 +122,7 @@ It's also a good idea to consult with a veterinarian or animal behaviorist to ge
 
 Finally, you need to be patient and to give them time to work things out. With some time and patience, most friendships can be repaired.
 
-## The Bottom Line
+## Summary
 
 Goats and dogs can be friends, but it's important to be aware of the potential problems that could arise. With some patience and understanding, most goats and dogs can learn to enjoy each other's company despite their different personalities.
 

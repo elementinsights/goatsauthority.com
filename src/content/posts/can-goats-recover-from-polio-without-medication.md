@@ -136,7 +136,7 @@ The chances of a goat recovering from polio depend on several factors, including
 
 Additionally, goats that receive prompt treatment and are kept in a clean and safe environment have a better chance of recovery than those that do not.
 
-## The Bottom Line
+## To Wrap Things Up
 
 Overall, polio is a serious disease that can be deadly in goats. With that in mind, there are steps you can take to prevent your goats from getting the disease.
 

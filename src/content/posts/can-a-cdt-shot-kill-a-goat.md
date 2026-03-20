@@ -144,7 +144,7 @@ The CDT shot is available from most large animal veterinarians. You can also pur
 
 The signs of CDT include [lethargy](/can-a-goat-get-sick-from-cold/), loss of appetite, diarrhea, dehydration, and fever. In severe cases, goats may also experience seizures, paralysis, and death.
 
-## Wrapping Up
+## Quick Recap
 
 The CDT shot is a core vaccine for goats and should be given on a regular basis to help prevent this deadly disease.
 

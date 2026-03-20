@@ -142,7 +142,7 @@ During the winter, however, [goats may not get enough salt from their food and m
 
 If you live in an area where snow and ice are not available, it is even more important to provide your goats with a salt lick or mineral block during the winter months.
 
-## Key Takeaways
+## Final Thoughts
 
 Goats can eat mineral salt made for cattle. However, it is important to introduce it slowly into their diet and make sure that they have access to fresh, clean water at all times.
 

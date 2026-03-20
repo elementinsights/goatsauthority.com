@@ -146,7 +146,7 @@ Finally, remain patient and consistent throughout the training process, even if 
 
 By following these simple tips, you can help ensure that your baby goats have a successful training experience.
 
-## Summary
+## Closing Notes
 
 Overall, house training a baby goat can be a challenging but rewarding process.
 

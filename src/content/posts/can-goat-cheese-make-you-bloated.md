@@ -132,7 +132,7 @@ Finally, if the texture of the cheese has changed, it's likely to have gone bad.
 
 But, once it starts to show signs of spoilage, it should be discarded.
 
-## What to Remember
+## Key Takeaways
 
 Goat cheese can make you bloated if you are not used to it. Bloating is a common symptom that can be caused by a variety of different conditions.
 

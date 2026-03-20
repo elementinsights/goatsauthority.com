@@ -134,7 +134,7 @@ Pasture management involves taking measures to prevent worms from getting into a
 
 Talk to a goat expert about which method of deworming is best for your goat.
 
-## Wrapping Up
+## Our Take
 
 A goat can eat too many dewormer pellets if the dosage is not properly calculated. Overdosing on dewormers can be just as harmful as not deworming at all.
 

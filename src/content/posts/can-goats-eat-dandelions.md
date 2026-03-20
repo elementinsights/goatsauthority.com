@@ -56,7 +56,7 @@ If a goat eats too many dandelions, it may become sick or even die.
 
 ## Can goats eat dandelion flowers?
 
-Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them. When it comes to dandelion flowers, goats can certainly eat them, but there are some things to keep in mind.
+Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them. Regarding dandelion flowers, goats can certainly eat them, but there are some things to keep in mind.
 
 Dandelion flowers are high in sugar, so they should only be given in moderation. Unlike [honeysuckle](/can-goats-eat-honeysuckle/), the flower heads can be a choking hazard, so make sure to remove them before feeding them to your goat.
 
@@ -150,7 +150,7 @@ Dandelions are also a good source of fiber, which is essential for goats. You ca
 
 Dried dandelions can also be fed to goats, but they should be soaked in water for about an hour before feeding.
 
-## Summary
+## Quick Recap
 
 Goats can eat dandelions, and there are actually several benefits to letting them do so. Dandelions are a good source of nutrients, and they can help to add nutrient-rich fertilizer to the soil.
 

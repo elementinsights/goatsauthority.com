@@ -120,7 +120,7 @@ Therefore, you must weigh the [risks and benefits of using this medication befor
 
 For example, you could try using a combination of lemon balm and chamomile tea to treat allergies. You could also try using apple cider vinegar to help reduce inflammation.
 
-Ultimately, the decision of whether or not to use Benadryl will depend on the specific health issue that your goat is facing and the severity of the issue. If you have any concerns, it's always best to consult with a veterinarian before giving any medication to your goat.
+So, the decision of whether or not to use Benadryl will depend on the specific health issue that your goat is facing and the severity of the issue. If you have any concerns, it's always best to consult with a veterinarian before giving any medication to your goat.
 
 ## Can Benadryl kill a goat?
 
@@ -130,7 +130,7 @@ Benadryl is an antihistamine that is used to treat allergies in humans. Although
 
 [Goats are much more sensitive to medications than humans](/can-i-give-my-goats-human-fish-pills/), and the correct dosage for a goat has not been well-studied.
 
-As a result, giving a goat Benadryl could potentially lead to an overdose. In severe cases, an overdose of Benadryl can cause respiratory depression, which can be fatal.
+ giving a goat Benadryl could potentially lead to an overdose. In severe cases, an overdose of Benadryl can cause respiratory depression, which can be fatal.
 
 Therefore, it's best to avoid giving Benadryl to goats altogether.
 
@@ -138,7 +138,7 @@ Therefore, it's best to avoid giving Benadryl to goats altogether.
 
 Not all goats can take Benadryl. This is because Benadryl has not been well-studied in [goats](/can-goats-be-outside-in-winter/) and the correct dosage has not been determined.
 
-As a result, giving Benadryl to a goat could potentially lead to an overdose. In severe cases, an overdose of Benadryl can cause respiratory depression, which can be fatal.
+This is why giving Benadryl to a goat could potentially lead to an overdose. In severe cases, an overdose of Benadryl can cause respiratory depression, which can be fatal.
 
 Therefore, it's best to avoid giving Benadryl to goats altogether. If you have any concerns, it's always best to consult with a goat expert before giving any medication to your goat.
 

@@ -136,7 +136,7 @@ The amount of mineral oil you give your goat will be determined by its size. You
 
 If you suspect your goat is bloated, it's important to act quickly and contact a veterinarian for further treatment. By being aware of the signs of bloat, you can help keep your goat healthy and safe.
 
-## Final Thoughts
+## The Bottom Line
 
 Overall, bloat is a serious condition that can be fatal if left untreated. But by being aware of the signs and knowing how to debloat a goat, you can help keep your goat healthy and safe.
 

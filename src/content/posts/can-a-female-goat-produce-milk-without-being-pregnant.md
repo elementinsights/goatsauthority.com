@@ -92,7 +92,7 @@ Dairy goats are specially bred to produce milk, and most of them need to be preg
 
 These small goats are known for their high [milk production](/can-i-give-powdered-goat-milk-to-sick-baby-goats/), and they can maintain their milk production even if they don't have kids.
 
-As a result, Nigerian Dwarf goats make excellent pets for people who want to enjoy fresh goat's milk without the hassle of breeding and caring for kids.
+This is why Nigerian Dwarf goats make excellent pets for people who want to enjoy fresh goat's milk without the hassle of breeding and caring for kids.
 
 African Pygmy goats are another breed of goat that can sometimes produce milk without being pregnant. That said, they don't produce as much milk as Nigerian Dwarfs.
 
@@ -168,7 +168,7 @@ This can lead to digestive problems, so it's important to keep their diet clean 
 
 If you're willing to put in the time and effort, then [goats](/can-goats-drink-baby-formula/) can make wonderful pets. Just be sure to do your research first.
 
-## Summary
+## Final Thoughts
 
 Goats can produce milk without being pregnant, but the milk will likely be of lower quality. If you want to breed your goat, you will need to wait until she is pregnant.
 

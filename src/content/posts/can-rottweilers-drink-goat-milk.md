@@ -100,7 +100,7 @@ There are a few different treatment options available for digestive issues in ro
 
 For minor cases, home remedies such as probiotics, increased water intake, and a bland diet may be sufficient. More severe cases may require prescription medications or even surgery.
 
-Ultimately, the best way to treat [digestive issues](/can-goats-digest-anything/) in rottweilers is to consult with a veterinarian and develop a treatment plan that is tailored to your pet's individual needs.
+At the end of the day, the best way to treat [digestive issues](/can-goats-digest-anything/) in rottweilers is to consult with a veterinarian and develop a treatment plan that is tailored to your pet's individual needs.
 
 By doing so, you can help ensure that your rottweiler stays healthy and happy for years to come.
 
@@ -120,7 +120,7 @@ The best time to give your rottweiler goat milk is generally in the morning sinc
 
 However, you may also choose to give them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) before bedtime as a way to help them relax and wind down for the night.
 
-Ultimately, the best time to [give your rottweiler goat milk is](/can-i-give-a-moldy-pumpkin-to-goats/)whenever you think they will benefit the most from it. Just be sure to start with small amounts and increase gradually over time to avoid any digestive issues.
+ the best time to [give your rottweiler goat milk is](/can-i-give-a-moldy-pumpkin-to-goats/)whenever you think they will benefit the most from it. Just be sure to start with small amounts and increase gradually over time to avoid any digestive issues.
 
 ## Is there anything else I should know about giving my rottweiler goat milk?
 
@@ -132,7 +132,7 @@ This will help avoid any digestive issues. Finally, be sure to supplement the mi
 
 By following these simple tips, you can help ensure that your rottweiler stays healthy and happy while enjoying the benefits of goat milk.
 
-## Summary
+## The Bottom Line
 
 Overall, goat milk is a great way to provide your rottweiler with all the nutrients they need to stay healthy and happy. It is also less expensive than traditional animal-based foods and much easier to acquire.
 

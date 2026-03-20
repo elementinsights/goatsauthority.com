@@ -84,7 +84,7 @@ A concussion is a type of brain injury that can occur when the head is hit by an
 
 Concussions can range in severity from mild to severe, and they can cause a variety of symptoms, including headaches, dizziness, nausea, and confusion. In some cases, concussions can also lead to unconsciousness.
 
-Goats are particularly susceptible to concussions because of their high center of gravity and relatively large head size. As a result, concussions are one of the most common injuries seen in goats.
+Goats are particularly susceptible to concussions because of their high center of gravity and relatively large head size. So, concussions are one of the most common injuries seen in goats.
 
 there's no one-size-fits-all approach to treating a concussion in a goat. Mild concussions may resolve on their own, but more severe cases may require veterinary care.
 
@@ -150,7 +150,7 @@ A goat can die from a concussion if the injury is severe enough. However, most g
 
 If you suspect that your goat has a concussion, it’s crucial to seek animal expert care immediately. The sooner you can get your [goat treatment](/can-i-give-my-goat-pepto-bismol/), the better its chances of making a full recovery.
 
-## Final Thoughts
+## What to Remember
 
 A concussion is a type of brain injury that occurs when the head is hit by an object or forcefully jolted. Goats are particularly susceptible to concussions because of their high center of gravity and relatively large head size.
 

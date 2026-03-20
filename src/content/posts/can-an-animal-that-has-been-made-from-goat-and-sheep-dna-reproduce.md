@@ -104,7 +104,7 @@ This is a difficult question to answer. On the one hand, there are potential ben
 
 On the other hand, there are also some potential drawbacks, such as the possibility of something going wrong during the process or the engineered animals escaping and mating with wild populations.
 
-Ultimately, this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether a goat can bag up without being pregnant to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
+At the end of the day, this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether a goat can bag up without being pregnant to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
 
 In addition, it's important to consider the ethical implications of this process. Some people may object to the idea of manipulating genes, regardless of the potential benefits.
 
@@ -112,7 +112,7 @@ Others may be more comfortable with the idea if it's done for a good reason, suc
 
 Careful consideration of all of these factors is essential in order to make the best decision about whether or not to pursue this type of technology.
 
-## Wrapping Up
+## Summary
 
 An animal can be made from the DNA of a goat and a sheep through a process called genetic engineering. This process involves isolating the desired genes from one animal and inserting them into the embryo of another.
 

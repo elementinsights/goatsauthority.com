@@ -105,7 +105,7 @@ Without their teeth, goats would be unable to properly care for their mouths, wh
 
 Goat teeth are essential for the animal's overall health and well-being. Without them, goats would be unable to properly [digest their food](/how-many-stomachs-do-goats-have/) or care for their mouths.
 
-As a result, goat's teeth play a vital role in maintaining the health of these animals.
+This means goat's teeth play a vital role in maintaining the health of these animals.
 
 ## How can teeth affect a goat's life?
 
@@ -143,7 +143,7 @@ Last thing to note: remember to brush your goat's teeth regularly with a soft-br
 
 By taking these preventive measures, you can help keep your goat's teeth healthy and free from disease.
 
-## The Bottom Line
+## Quick Recap
 
 Overall, goat's teeth are incredibly important for the animal's health. Without them, goats would be unable to properly digest their food or care for their mouths.
 

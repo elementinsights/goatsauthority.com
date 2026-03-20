@@ -96,7 +96,7 @@ All goats can be tethered, but some are better suited for it than others.
 
 On the other hand, [Pygmy goats](/can-a-pygmy-goat-live-with-a-mini-pig/) are very active and playful, so they may need more space to roam and may not do well when tethered for long periods of time.
 
-Ultimately, it's up to the owner to decide what kind of goat is best suited for tethering, as each animal has its own personality and needs.
+When all is said and done, it's up to the owner to decide what kind of goat is best suited for tethering, as each animal has its own personality and needs.
 
 ## Can you tether a pregnant goat?
 
@@ -142,7 +142,7 @@ Fencing allows goats to roam freely while still keeping them contained in a spec
 
 Ultimately, the best way to restrain goats will depend on the individual needs of the goat and the preferences of the owner.
 
-## The Bottom Line
+## Quick Recap
 
 Goats can be tethered, but it's important to do so safely and correctly. Tethering can be harmful to goats if they are not given enough space to move around comfortably, and it can also prevent them from socializing with other goats.
 

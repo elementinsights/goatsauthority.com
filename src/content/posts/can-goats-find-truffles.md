@@ -55,7 +55,7 @@ However, it is important to note that not all goats can find truffles. Only cert
 
 ## How do goats find truffles?
 
-When it comes to truffle hunting, goats have a keen sense of smell. They are able to sniff out these prized fungi even when they are buried several inches underground.
+As for truffle hunting, goats have a keen sense of smell. They are able to sniff out these prized fungi even when they are buried several inches underground.
 
 As a matter of fact, their sense of smell is so sensitive that they can often detect truffles from a distance of up to half a mile away. While goats are the most commonly used animals for truffle hunting, pigs and dogs can also be trained to do the job.
 
@@ -131,7 +131,7 @@ In addition to their physical differences, black and white truffles are also use
 
 Though they come from different parts of the world and have different flavors, both black and white truffles are prized for their unique taste and aroma.
 
-## What to Remember
+## Closing Notes
 
 Goats can find truffles, but they are not the only animals that can do so. Pigs, dogs, and even chickens can be trained to locate these valuable fungi.
 

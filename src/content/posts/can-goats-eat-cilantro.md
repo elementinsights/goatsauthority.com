@@ -115,7 +115,7 @@ In short, yes, you may serve up that tasty cilantro salad to your four-legged fr
 
 ## What Parts of the Cilantro Plant Are Safe for Goats?
 
-**When it comes to feeding goats cilantro, all parts of the plant are safe**. This includes the leaves, stems and seeds.
+**Talking about feeding goats cilantro, all parts of the plant are safe**. This includes the leaves, stems and seeds.
 
 Goats enjoy variety in their diet and cilantro can be a nice change for them.
 

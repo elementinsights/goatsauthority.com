@@ -138,7 +138,7 @@ Bake the gingerbread balls for 10-12 minutes, or until golden brown. Allow them 
 
 They'll love the delicious, festive treat.
 
-## Key Takeaways
+## Wrapping Up
 
 Goats can eat gingerbread, but there are both benefits and risks associated with feeding them this holiday treat.
 

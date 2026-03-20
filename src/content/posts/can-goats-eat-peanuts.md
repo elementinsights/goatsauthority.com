@@ -120,7 +120,7 @@ Peanuts are a common food source for goats, but there are certain risks associat
 
 Aflatoxin is produced by a type of fungus that often grows on peanuts, and it can be difficult to remove all traces of the toxin before feeding the peanuts to goats.
 
-As a result, it's important to only give peanuts to goats in small amounts and to make sure that they're free of any visible mold or fungus. In addition, peanuts should always be cooked before feeding them to goats, as raw peanuts may contain harmful bacteria that can cause [illness](/can-goats-eat-mushrooms/) in goats.
+For this reason, it's important to only give peanuts to goats in small amounts and to make sure that they're free of any visible mold or fungus. In addition, peanuts should always be cooked before feeding them to goats, as raw peanuts may contain harmful bacteria that can cause [illness](/can-goats-eat-mushrooms/) in goats.
 
 While there are some risks associated with feeding peanuts to goats, these animals can generally safely consume small quantities of this food source. However, you need to take care when feeding peanuts to goats and to be aware of the potential risks involved.
 

@@ -86,7 +86,7 @@ Additionally, [food availability can affect the size](/can-goats-eat-dog-food/) 
 
 Finally, food availability can also affect the temperature of the environment, which can impact the dormancy of goat lice. If the temperature is too cold or too hot, it can kill the lice or make it difficult for them to enter into dormancy.
 
-As a result, food availability is an important factor that can affect the dormancy of goat lice.
+This is why food availability is an important factor that can affect the dormancy of goat lice.
 
 ## What are goat lice and what do they look like?
 
@@ -145,7 +145,7 @@ There are a number of different treatment options available for goat lice. The m
 
 In most cases, a single treatment is sufficient to eliminate the infestation. However, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
 
-## What to Remember
+## Final Thoughts
 
 Goat lice can go into a dormant stage when food availability is low. This can happen when goats are not well-groomed or when they live in cramped, unsanitary conditions.
 

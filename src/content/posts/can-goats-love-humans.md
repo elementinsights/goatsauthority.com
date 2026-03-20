@@ -152,7 +152,7 @@ Although grass is not their favorite meal, they will consume it.
 
 It is important to locate a different pet [if you do not have access to browsing or live in an area with insufficient foliage for a goat](/can-a-goat-live-in-a-house/).
 
-## Summary
+## The Bottom Line
 
 Overall, goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other goats.
 

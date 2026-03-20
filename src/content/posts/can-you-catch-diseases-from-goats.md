@@ -128,7 +128,7 @@ In addition to the diseases mentioned above, there are also other conditions tha
 
 However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
 
-## Wrapping Up
+## To Wrap Things Up
 
 Goats can carry diseases that can be passed on to humans, so it's important to practice good hygiene and avoid contact with sick animals.
 

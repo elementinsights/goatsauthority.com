@@ -102,7 +102,7 @@ For this reason, it's important to be careful when feeding peanut butter to goat
 
 Goats need a lot of food every day. They're constantly growing, so they have a high metabolism.
 
-As a result, they need a diet that is high in calories and nutrients.
+For this reason, they need a diet that is high in calories and nutrients.
 
 Peanut butter is a great source of both. It's also a very versatile food, so you can use it in many different ways to help meet your goats' nutritional needs.
 
@@ -122,7 +122,7 @@ The serving size of peanut butter for goats can vary depending on the size and a
 
 A little bit of this calorie and nutrient-rich food goes a long way in helping keep your goats healthy and well-nourished.
 
-## Summary
+## The Bottom Line
 
 [Goats can eat](/can-goats-eat-everything/) peanut butter, and it can be a healthy part of their diet. Peanut butter is high in calories, fat, and protein, and it's also a good source of vitamins and minerals.
 

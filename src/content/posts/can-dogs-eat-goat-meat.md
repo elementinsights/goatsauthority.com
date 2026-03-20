@@ -80,13 +80,13 @@ While it may seem harmless to feed your dog goat meat, there are actually severa
 
 For one, [goats are typically treated with a variety of antibiotics and other chemicals that can be harmful to dogs](/can-dogs-drink-goat-milk-everyday/). In addition, goats are often infested with parasites, such as worms, that can also pose a threat to your dog's health.
 
-Finally, goat meat is often quite spicy, which can cause stomach upset or even intestinal damage in some dogs. As a result, it's generally advisable to avoid feeding your dog goat meat.
+Finally, goat meat is often quite spicy, which can cause stomach upset or even intestinal damage in some dogs. Because of this, it's generally advisable to avoid feeding your dog goat meat.
 
 If you do choose to feed your dog goat meat, be sure to purchase it from a reputable source and cook it thoroughly to reduce the risk of food poisoning.
 
 ## What are the common diseases in goats' meat?
 
-Goats are ruminant animals, which means that their digestive system is specifically adapted for digesting plant-based material. As a result, goats' meat is lower in fat and cholesterol than many other types of meat. Understanding [what goats eat](/why-do-goats-eat-everything/) helps explain their lean meat profile.
+Goats are ruminant animals, which means that their digestive system is specifically adapted for digesting plant-based material. This is why goats' meat is lower in fat and cholesterol than many other types of meat. Understanding [what goats eat](/why-do-goats-eat-everything/) helps explain their lean meat profile.
 
 However, [goats can also be affected by a number of diseases](/can-weather-affect-goats-poop/), which may be passed on to humans who consume their meat. Some of the most common diseases include brucellosis, tuberculosis, and trichinellosis.
 
@@ -120,7 +120,7 @@ If there are no adverse reactions after a few days, you can gradually increase t
 
 Goat meat is an excellent source of protein and other nutrients, so it can be a healthy addition to your dog's diet. Just be sure to introduce it slowly and in small amounts to avoid stomach upset. You may also want to learn about whether [baby kittens can drink goats milk](/can-baby-kittens-drink-goats-milk/) if you have other pets.
 
-## Key Takeaways
+## What to Remember
 
 Dogs can eat goat meat, but it's not a common protein source in most [dog foods](/can-goats-eat-dog-food/). Goat meat is a good option for dogs who are allergic to other types of meat or who have difficulty digesting certain proteins.
 

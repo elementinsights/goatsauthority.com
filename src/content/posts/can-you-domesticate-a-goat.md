@@ -137,7 +137,7 @@ It’s also important to check for signs of illness on a regular basis, even if 
 
 Regular check-ups with a veterinarian can help you detect any underlying issues before they become serious. This can help prevent costly treatments and ensure that your goat stays in the best of health.
 
-## Wrapping Up
+## The Bottom Line
 
 Overall, goats can be wonderful companions when given the proper care and attention. If you are considering getting a pet goat, make sure to do your research into their needs and behavior.
 

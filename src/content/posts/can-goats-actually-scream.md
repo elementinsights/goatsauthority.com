@@ -127,7 +127,7 @@ By following these tips, you can prevent your goat from becoming stressed and re
 
 ## What are some things to keep in mind when caring for a goat that screams occasionally?
 
-When it comes to goat care, there are a few things to keep in mind if your goat is one of the occasional screamers.
+As for goat care, there are a few things to keep in mind if your goat is one of the occasional screamers.
 
 First, it's important to make sure that they have plenty of space to run and play. Goats are very active creatures and need plenty of room to roam.
 
@@ -137,7 +137,7 @@ Finally, goats need a diet that is high in fiber. This means that hay and pastur
 
 By providing your goat with plenty of space, companionship, and a healthy diet, you can help reduce the amount of screaming they do.
 
-## The Bottom Line
+## Summary
 
 Goats actually do scream, but it's not as common as bleating or humming. When goats do scream, it's usually due to fear, hunger, or stress.
 

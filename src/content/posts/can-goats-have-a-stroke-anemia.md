@@ -118,7 +118,7 @@ Pregnancy toxemia, for example, is a condition that can occur in [pregnant goats
 
 If you have any concerns about your goat's health, it is always best to consult with a goat expert. They will be able to provide you with the most up-to-date information on how to keep your goat healthy and happy.
 
-## Key Takeaways
+## Our Take
 
 Goats can have a stroke due to many different factors, including head trauma, diseases of the brain or blood vessels, and toxins. Early recognition and treatment of strokes are essential to preventing serious health problems or even death.
 

@@ -42,7 +42,7 @@ faq:
     answer: "A baby goat's diet consists mostly of hay, grass, and milk. Goat milk is rich in nutrients and helps support a baby goat's growth and development. Raisins are a type of dried fruit that is very sweet."
 ---
 
-When it comes to goats, there are many things that people want to know. One of the most popular questions is whether or not [goats can eat raisins](/can-goats-eat-grapes/).
+About goats, there are many things that people want to know. One of the most popular questions is whether or not [goats can eat raisins](/can-goats-eat-grapes/).
 
 We will answer that question and also explore the benefits, risks, serving size, and FAQs of raisin consumption for goats in this article.
 
@@ -140,7 +140,7 @@ Of course, if a goat eats more than that, it may start to experience gastrointes
 
 In general, raisins should only be given as an [occasional treat](/can-goats-eat-oranges/), not as a regular part of your goat's diet.
 
-## Key Takeaways
+## What to Remember
 
 Goats can eat raisins, but there are risks associated with this practice. Raisins are high in sugar and can make a goat's illness worse.
 

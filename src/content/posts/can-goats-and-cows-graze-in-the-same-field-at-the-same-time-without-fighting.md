@@ -52,13 +52,13 @@ If you are considering letting goats and cows graze together, it's crucial to cl
 
 ## What are the benefits of grazing goats and cows together?
 
-When it comes to raising livestock, there are many different factors to consider. One important question is what type of animals should be grazed together.
+About raising livestock, there are many different factors to consider. One important question is what type of animals should be grazed together.
 
 Goats and cows are often grazed together, as they have complementary grazing habits. Cows are taller than goats, so they tend to eat the upper leaves of plants while goats graze on the lower leaves.
 
 This makes them an ideal team, as they can cover more ground and eat a greater variety of plants. Goats are also known for their ability to clear brush, which can help to keep pastures open and reduce the risk of fires.
 
-In addition, [grazed areas that include both goats](/can-goats-be-tied-up-for-selective-area-grazing/) and cows tend to have higher levels of nutrients and soil organic matter. As a result, grazing these two animals together can have significant benefits for both the land and the livestock.
+In addition, [grazed areas that include both goats](/can-goats-be-tied-up-for-selective-area-grazing/) and cows tend to have higher levels of nutrients and soil organic matter. This means grazing these two animals together can have significant benefits for both the land and the livestock.
 
 ## What are the risks of grazing goats and cows together?
 
@@ -66,7 +66,7 @@ Goats and cows are often grazed together, as they are both ruminant animals with
 
 One of the main concerns is that goats are more likely to browse on plants, while cows tend to graze on grasses. This can lead to the over-browsing of plants, which can [damage the vegetation](/can-goats-cause-slope/) and reduce its ability to regrow.
 
-In addition, goats are known to be carriers of a range of diseases, such as foot-and-mouth disease, that can be [harmful to cows](/can-goats-bite/). As a result, it's important to monitor the health of both goat and cow herds when they are grazed together.
+In addition, goats are known to be carriers of a range of diseases, such as foot-and-mouth disease, that can be [harmful to cows](/can-goats-bite/). For this reason, it's important to monitor the health of both goat and cow herds when they are grazed together.
 
 ## How can you tell if your goats and cows are getting along well together in the pasture?
 
@@ -114,7 +114,7 @@ As a result of these differences, cows and goats play very different roles on mo
 
 But, both animals play an important role in the agricultural industry.
 
-## Summary
+## What to Remember
 
 Overall, there are a number of benefits to grazing goats and cows together. Not only can this help to improve the quality of the land, but it can also lead to higher-quality milk and fewer problems with herd dynamics.
 

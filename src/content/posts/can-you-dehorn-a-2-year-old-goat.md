@@ -132,7 +132,7 @@ But, caps can come loose and need to be replaced regularly, so this option may n
 
 Finally, you could choose to do nothing and simply let the goat keep their horns. This is obviously the least invasive option, but it's important to remember that horns can pose a serious safety hazard to both animals and humans.
 
-## What to Remember
+## Wrapping Up
 
 Overall, dehorning a 2 year old goat is a decision that should be made carefully. There are a number of factors to consider, and there is no one-size-fits-all answer.
 

@@ -72,7 +72,7 @@ Poison hemlock is a plant that can be found in many areas, including North Ameri
 
 However, goats have been shown to be effective at controlling [poison hemlock growth](/can-goats-eat-any-plant/). When goats eat poisoned hemlock, they break down the plant's toxins and prevent them from causing harm to the goat or other animals.
 
-In addition, [goats' grazing habits](/can-goats-eat-brush-in-winter/) can help to control the spread of poison hemlock by preventing the plant from flowering and setting seeds. As a result, goats can play an important role in managing poison hemlock populations.
+In addition, [goats' grazing habits](/can-goats-eat-brush-in-winter/) can help to control the spread of poison hemlock by preventing the plant from flowering and setting seeds. Because of this, goats can play an important role in managing poison hemlock populations.
 
 ## What are the risks of goats eating poison hemlock?
 

@@ -130,7 +130,7 @@ In addition, their meat is just as tasty as the meat from larger breeds. They're
 
 With proper care, they can live for 10-12 years.
 
-## Key Takeaways
+## Our Take
 
 Overall, Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.
 

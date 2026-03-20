@@ -107,7 +107,7 @@ Additionally, the combined presence of the animal duo can help to protect the ho
 
 From sharing information about potential threats to attracting attention with noisy moves and noises, mini horses and goats know how to stick together and look out for each other.
 
-Ultimately, having both of these animals in one space is an ideal way to ensure their health and well-being.
+In the end, having both of these animals in one space is an ideal way to ensure their health and well-being.
 
 ## Are there any risks associated with keeping these animals together?
 

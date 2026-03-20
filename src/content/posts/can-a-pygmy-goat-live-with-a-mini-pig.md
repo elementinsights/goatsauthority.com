@@ -56,7 +56,7 @@ If you take the time to consider these things, then there is no reason why your 
 
 ## Tips for keeping your pygmy goat and mini pig happy and healthy
 
-When it comes to keeping pet pygmy goats and mini pigs, there are a few key factors that are crucial for ensuring their happiness and health.
+As for keeping pet pygmy goats and mini pigs, there are a few key factors that are crucial for ensuring their happiness and health.
 
 First and foremost, both animals need a lot of space to roam and explore. A sturdy, fenced yard or pen is essential for keeping them safe from [predators](/can-a-fox-kill-a-goat/) and preventing them from [wandering off](/can-goats-be-tethered/).
 
@@ -100,7 +100,7 @@ What we do know for certain is that [careful planning and monitoring are essenti
 
 Whether you opt to keep pygmy goats and mini pigs together or choose to separate them entirely, it is crucial to take all factors into account in order to provide them with the best possible living conditions.
 
-Ultimately, only you can decide what works best for your animals based on their individual needs and temperament.
+So, only you can decide what works best for your animals based on their individual needs and temperament.
 
 So do what you feel is right for your herd, but always be mindful of [potential risks](/can-a-plastic-bag-hurt-a-goat/) so that you can give your pets the very best care possible.
 
@@ -136,7 +136,7 @@ It is important to note that mini pigs should only be spayed or neutered by a qu
 
 Therefore, it is crucial to make sure that your mini pig is in good health before undergoing this procedure.
 
-## The Bottom Line
+## Summary
 
 Pygmy goats can live peacefully with mini pigs, but it is important to be aware of the potential risks involved in keeping these two species together.
 

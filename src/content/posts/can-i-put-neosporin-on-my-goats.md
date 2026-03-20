@@ -81,7 +81,7 @@ Beyond that, there is some evidence to suggest that applying Neosporin to open w
 
 Therefore, if you are thinking about using Neosporin on a goat, it is crucial to first consult a veterinarian so that you can weigh the pros and cons of this approach and develop an appropriate treatment plan for your animal.
 
-Ultimately, the decision whether or not to use Neosporin will come down to a number of factors, including the health status of your goat, the severity of its injury, and your individual comfort level with this type of treatment.
+ the decision whether or not to use Neosporin will come down to a number of factors, including the health status of your goat, the severity of its injury, and your individual comfort level with this type of treatment.
 
 However, whatever your final decision may be, it is crucial to take the safety and well-being of your goats into account at all times.
 
@@ -121,7 +121,7 @@ Overall, if you want to ensure that your goats are happy and healthy, it is impo
 
 With these simple care practices in place, you can be sure that your herd stays happy, healthy, and thriving for many years to come.
 
-## What to Remember
+## To Wrap Things Up
 
 You can put Neosporin on your goats if the area is infected and you consult your vet first to make sure it is appropriate. Neosporin can help to speed up the healing process and ward off any potential infections.
 

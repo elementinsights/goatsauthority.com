@@ -131,7 +131,7 @@ You may also need to add supplements or change their feed to correct any mineral
 
 By following these steps, you can help ensure that your goats stay healthy and avoid any further complications.
 
-## Wrapping Up
+## Closing Notes
 
 Baking soda can be a useful tool for goats, but it's important to use it safely. Goats are curious creatures and will often put anything they find in their mouths, including baking soda.
 

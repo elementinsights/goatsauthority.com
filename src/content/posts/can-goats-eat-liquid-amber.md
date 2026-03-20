@@ -113,7 +113,7 @@ Given their reputation as "trash goats," it's not surprising that many people as
 
 Liquid amber is high in sugar, which can lead to health problems such as diarrhea and weight gain. In addition, the plant's sap can be irritating to a [goat's mouth and digestive system](/can-goats-digest-anything/).
 
-As a result, it's best to limit the amount of liquid amber that a goat eats each day.
+This means it's best to limit the amount of liquid amber that a goat eats each day.
 
 ## Are there any alternative options to liquid amber for goats?
 
@@ -129,7 +129,7 @@ Even so, liquid amber can also be poisonous to animals if ingested in large quan
 
 Goats are particularly vulnerable to the effects of liquid amber, as they are attracted to its sweet taste. As a result, farmers must be careful to keep their goats away from areas where liquid amber is present.
 
-## Key Takeaways
+## Final Thoughts
 
 Overall, liquid amber can be a healthy and delicious addition to a goat's diet. At the same time, it's important to [feed this substance in moderation](/can-baking-soda-cause-urinary-issues-in-goats/) and always consult with a veterinarian first.
 

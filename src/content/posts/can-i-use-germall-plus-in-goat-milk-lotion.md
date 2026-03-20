@@ -114,7 +114,7 @@ Some potential alternatives include aloe vera, vitamin E oil, and essential oils
 
 That said, each of these options has its own pros and cons, making it difficult to settle on a single ideal solution.
 
-Ultimately, the best approach may be to use multiple different preservatives in combination, balancing out any potential issues while providing optimal protection against bacterial growth and rancidity.
+ the best approach may be to use multiple different preservatives in combination, balancing out any potential issues while providing optimal protection against bacterial growth and rancidity.
 
 In this way, goat milk lotion manufacturers can continue to meet the demands of today's discerning customers while ensuring that their products are safe and effective.
 
@@ -124,7 +124,7 @@ Germall Plus should be added to the lotion during the cool-down phase after the 
 
 To make sure the [preservative](/can-i-put-safeguard-in-my-goats-milk/) works optimally, stir it well into the mixture until it is completely dissolved. Keep in mind that Germall Plus must be dissolved before use; stirring thoroughly beforehand will guarantee its effectiveness.
 
-## The Bottom Line
+## What to Remember
 
 You can use Germall Plus in your goat milk lotion, but you should consider the pH of your product and perform a patch test prior to use.
 

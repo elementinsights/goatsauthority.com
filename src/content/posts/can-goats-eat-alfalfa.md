@@ -209,7 +209,7 @@ This imbalance makes it hard for your goat’s body to process minerals correctl
 
 ## What Is the Best Hay to Feed Goats?
 
-When it comes to feeding your goats, the type of hay you choose is important. **Alfalfa hay stands out as a top choice for many goat owners**.
+With feeding your goats, the type of hay you choose is important. **Alfalfa hay stands out as a top choice for many goat owners**.
 
 It’s packed with protein and calcium which are vital nutrients for goats.
 
@@ -251,7 +251,7 @@ So while grass hay has its place in a goat’s diet. Including alfalfa makes it 
 
 #### Balance Is Key, Even With the Best Hay for Goats
 
-When it comes to feeding your goats, balance is the key. Yes, goats can eat alfalfa hay.
+As for feeding your goats, balance is the key. Yes, goats can eat alfalfa hay.
 
 It’s rich in protein and calcium which are good for their health. But you should not feed them only this type of hay.
 

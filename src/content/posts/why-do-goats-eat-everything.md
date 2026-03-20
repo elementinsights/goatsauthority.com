@@ -55,7 +55,7 @@ Goats are often called "the lawnmowers of the animal kingdom" because they will 
 
 This means that instead of eating grass, goats prefer to nibble on [leaves](/can-goats-eat-maple-leaves/), twigs, and other vegetation.
 
-As a result, goats will often chew on whatever is around them, including fence posts, trees, and even clothes. Some people think that goats will eat anything because they're curious or mischievous, but the reality is that goats simply have a very different diet than other animals.
+Because of this, goats will often chew on whatever is around them, including fence posts, trees, and even clothes. Some people think that goats will eat anything because they're curious or mischievous, but the reality is that goats simply have a very different diet than other animals.
 
 In order to stay healthy, they need to consume a wide variety of plants. So, if you see a goat munching on your jacket, don't be too alarmed - it's just trying to get its daily dose of greens.
 
@@ -77,7 +77,7 @@ Their constant grazing can damage the grass, exposing the soil beneath to wind a
 
 In severe cases, erosion can also lead to landslides.
 
-As a result, it's important to be careful about how many goats you allow to graze in one area. Otherwise, you run the risk of damaging your land.
+For this reason, it's important to be careful about how many goats you allow to graze in one area. Otherwise, you run the risk of damaging your land.
 
 ## How to stop goats from eating everything?
 
@@ -111,7 +111,7 @@ A basic goat diet should consist of hay, fresh [vegetables](/can-goats-eat-cabba
 
 Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating [fruits](/can-goats-eat-apples/) and berries, so feel free to offer these as treats.
 
-When it comes to grain, goats only need a small amount each day.
+As for grain, goats only need a small amount each day.
 
 Too much grain can lead to health problems, so it's best to consult with a veterinarian before feeding grain to your goat.
 
@@ -131,7 +131,7 @@ Another thing to avoid feeding your goat is anything that is high in fat. Goats 
 
 Finally, you should also avoid feeding your goat any [moldy or spoiled food](/can-goats-eat-overripe-fruit/), as this can cause digestive upset. If you're unsure whether something is safe to feed your goat, it's always best to err on the side of caution and consult with a veterinarian.
 
-## Final Thoughts
+## Our Take
 
 Goats are interesting creatures with a reputation for eating just about anything. While they can eat a wide variety of items, there are still some things that they should avoid.
 

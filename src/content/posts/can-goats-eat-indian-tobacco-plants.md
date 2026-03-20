@@ -75,7 +75,7 @@ Some goats, such as the Cashmere goat, are primarily grazers and prefer to eat g
 
 Indian tobacco plants (Nicotiana glauca) are a type of shrub that typically grows to a height of about six feet. The leaves of this plant are toxic to many animals, including goats.
 
-As a result, it's not recommended to feed Indian tobacco plants to any type of goat.
+For this reason, it's not recommended to feed Indian tobacco plants to any type of goat.
 
 ## How do goats eat Indian tobacco plants and what are the benefits of this?
 
@@ -129,7 +129,7 @@ If you choose to feed your goat Indian tobacco plants, do so sparingly and only 
 
 When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first. This will help to ensure that your goat stays healthy and safe.
 
-## The Bottom Line
+## Closing Notes
 
 Overall, it's not recommended that you feed Indian tobacco plants to your goat. The plants are highly toxic and can cause serious health problems.
 

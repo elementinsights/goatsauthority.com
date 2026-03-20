@@ -156,7 +156,7 @@ Your cat can drink goat's milk as long as he wants. There's no need to switch to
 
 You should avoid giving your cat any products that are high in lactose, as this can lead to gastrointestinal upset.
 
-## Key Takeaways
+## Closing Notes
 
 Cats can drink goat's milk. Goat's milk is a good source of nutrition for cats, and it's easier to digest than cow's milk.
 

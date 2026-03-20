@@ -126,9 +126,9 @@ Choosing the right alternative food source for [pygmy goats often comes down to 
 
 Ultimately though, any alternative food source for pygmy goats should be carefully selected to maintain the health of these small but resilient animals.
 
-## Summary
+## Closing Notes
 
-Pygmy goats are a hardy and versatile breed that can thrive in a variety of environments. When it comes to their diet, pygmy goats are primarily herbivores and their diet should reflect this.
+Pygmy goats are a hardy and versatile breed that can thrive in a variety of environments. About their diet, pygmy goats are primarily herbivores and their diet should reflect this.
 
 A diet for pygmy goats should consist of hay, fresh water, and a source of salt, as well as plenty of space to roam and exercise.
 

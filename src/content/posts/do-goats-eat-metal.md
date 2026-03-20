@@ -107,7 +107,7 @@ Additionally, eating large amounts of metal could potentially damage the digesti
 
 Some metals, like zinc and copper, can be beneficial to goats in small amounts. Even so, other metals, like lead and mercury, can be toxic even in small quantities.
 
-As a result, it's crucial to choose metal products carefully when setting up a goat enclosure.
+This is why it's crucial to choose metal products carefully when setting up a goat enclosure.
 
 One type of metal that is generally safe for goats is galvanized steel. This is because the process of galvanization creates a coating of zinc on the steel surface.
 
@@ -129,7 +129,7 @@ Aluminum is also resistant to rust and corrosion, making it a low-maintenance op
 
 Overall, many different types of metal are safe for goats to consume. Owners should carefully consider their options before choosing a material for their Goat enclosure.
 
-## Final Thoughts
+## To Wrap Things Up
 
 Goats can eat metal objects safely, but there are some things to keep in mind. Make sure the metal is small enough to pass through their [digestive system](/can-goats-eat-hay-cubes/) without causing any blockages or damage.
 

@@ -132,7 +132,7 @@ In addition, goats need to be vaccinated against common diseases and should be w
 
 By following these simple tips, you can ensure that your goats stay healthy and happy.
 
-## Summary
+## Key Takeaways
 
 Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.
 
@@ -140,6 +140,6 @@ Goats also have a four-chamber stomach, which helps them to break down tough pla
 
 The benefits of having goats include their ability to clear overgrown areas and their versatility as eaters. However, goats can also be susceptible to a number of diseases, many of which can be passed on to humans.
 
-As a result, it's important to vaccinate goats against common diseases and to practice good hygiene when handling them.
+So, it's important to vaccinate goats against common diseases and to practice good hygiene when handling them.
 
 By following these simple tips, you can ensure that your goats stay healthy and happy.

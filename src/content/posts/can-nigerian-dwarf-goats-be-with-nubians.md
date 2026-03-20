@@ -134,7 +134,7 @@ For example, if you are looking to sell milk or cheese, certain breeds may be be
 
 In addition, it is also important to think about your climate and environmental conditions, as these can affect which types of goats will thrive in your particular area.
 
-Ultimately, to choose the best goat breeds for your farm, you need to do some research and consider all of these factors carefully.
+When all is said and done, to choose the best goat breeds for your farm, you need to do some research and consider all of these factors carefully.
 
 With the right selection of goats, you can be sure that your herd will be productive and happy for years to come.
 
@@ -142,6 +142,6 @@ With the right selection of goats, you can be sure that your herd will be produc
 
 In general, crossbreeding goats can have both positive and negative consequences. However, with careful planning and consideration, farmers can successfully crossbreed goats to produce lines that are hardy, productive, and well-suited for their intended purposes.
 
-Ultimately, the key to success is to choose the right goat breeds for your farm and to monitor the health of your herd closely.
+When all is said and done, the key to success is to choose the right goat breeds for your farm and to monitor the health of your herd closely.
 
 With a little bit of effort, you can be sure that your crossbred goat herd will be a valuable asset to your farm for years to come.

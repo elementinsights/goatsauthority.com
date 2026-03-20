@@ -130,7 +130,7 @@ Adult goats require hay, fresh water, and a mineral supplement. They also enjoy 
 
 With proper care, your goats will provide you with years of companionship and enjoyment.
 
-## Key Takeaways
+## Our Take
 
 [Goats can have anywhere from one to twelve babies](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/) at a time, though the average is usually two or three. They generally give birth without any problems, but sometimes kids can be born with deformities or without fur coats.
 

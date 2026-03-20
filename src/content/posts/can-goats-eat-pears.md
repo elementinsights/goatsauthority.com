@@ -124,7 +124,7 @@ When given in moderation, pears can be a delicious and healthy treat for your go
 
 And, the natural sugars in pears provide a boost of energy without causing a digestive upset as some other fruits can. If you have access to fresh pears, they make a great occasional treat for your goat friend.
 
-## Wrapping Up
+## Quick Recap
 
 Goats can eat pears, but there are a few things to keep in mind when feeding them this fruit. Pears contain sugar and fiber, which can cause digestive problems in goats if consumed in large quantities.
 
