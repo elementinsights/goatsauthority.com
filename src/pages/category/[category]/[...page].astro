@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import CategoryLayout from '../../../layouts/CategoryLayout.astro';
 import { siteConfig } from '../../../../site.config';
+import { categoryGuides } from '../../../data/category-guides';
 
 const INITIAL_COUNT = 12;
 const MAX_RENDER = 24; // Only render this many in HTML; rest load via "Load More" button
@@ -31,12 +32,13 @@ export async function getStaticPaths() {
 }
 
 const { categoryName, categorySlug, allPosts } = Astro.props;
+const guide = categoryGuides[categorySlug];
 
-const schema = [
+const schema: object[] = [
   {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": categoryName,
+    "name": guide?.title || categoryName,
     "url": `${siteConfig.url}/category/${categorySlug}/`,
     "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url },
   },
@@ -50,6 +52,19 @@ const schema = [
   },
 ];
 
+// Add FAQ schema if guide has FAQ
+if (guide?.faq?.length) {
+  schema.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": guide.faq.map((item: { question: string; answer: string }) => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": { "@type": "Answer", "text": item.answer },
+    })),
+  });
+}
+
 const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
   title: p.data.title,
   href: `/${p.id}/`,
@@ -58,14 +73,51 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
 ---
 
 <CategoryLayout
-  title={categoryName}
-  description={`Browse all ${categoryName} articles — reviews, comparisons, and buying guides.`}
-  subtitle={`In-depth reviews, comparisons, and buying guides for every type of ${categoryName.toLowerCase()} — tested and reviewed by our team.`}
+  title={guide?.title || categoryName}
+  description={guide ? guide.intro.slice(0, 155) + '...' : `Browse all ${categoryName} articles — reviews, comparisons, and buying guides.`}
+  subtitle={guide?.intro || `In-depth reviews, comparisons, and buying guides for every type of ${categoryName.toLowerCase()} — tested and reviewed by our team.`}
   activeNav={categorySlug}
   schema={schema}
   popularPosts={popularPosts}
   postCount={allPosts.length}
 >
+  {/* Pillar Guide Content */}
+  {guide && (
+    <div class="pillar-guide">
+      {guide.sections.map((section) => (
+        <div class="pillar-section">
+          <h2>{section.heading}</h2>
+          <p>{section.content}</p>
+          {section.links && section.links.length > 0 && (
+            <div class="pillar-links">
+              <strong>Read more:</strong>
+              <ul>
+                {section.links.map((link) => (
+                  <li><a href={link.href}>{link.text}</a></li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      ))}
+
+      {/* FAQ Section */}
+      {guide.faq && guide.faq.length > 0 && (
+        <div class="pillar-faq">
+          <h2>Frequently Asked Questions</h2>
+          {guide.faq.map((item) => (
+            <div class="pillar-faq-item">
+              <h3>{item.question}</h3>
+              <p>{item.answer}</p>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <h2 class="pillar-articles-heading">All {categoryName} Articles ({allPosts.length})</h2>
+    </div>
+  )}
+
   <div class="article-grid">
     {allPosts.length > 0 ? (
       allPosts.slice(0, MAX_RENDER).map((post: any, i: number) => (
@@ -164,6 +216,95 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
 </script>
 
 <style>
+  /* Pillar Guide */
+  .pillar-guide {
+    margin-bottom: 40px;
+  }
+  .pillar-section {
+    margin-bottom: 32px;
+  }
+  .pillar-section h2 {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--text);
+    margin-bottom: 12px;
+  }
+  .pillar-section p {
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+  }
+  .pillar-links {
+    background: var(--accent-light, #f0f4ff);
+    border-left: 3px solid var(--accent);
+    padding: 12px 16px;
+    border-radius: 0 var(--radius, 8px) var(--radius, 8px) 0;
+    margin-top: 8px;
+  }
+  .pillar-links strong {
+    font-size: 13px;
+    color: var(--text);
+    display: block;
+    margin-bottom: 6px;
+  }
+  .pillar-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+  }
+  .pillar-links li::before {
+    content: '→ ';
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .pillar-links a {
+    font-size: 14px;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .pillar-links a:hover {
+    text-decoration: underline;
+  }
+  .pillar-faq {
+    margin: 32px 0;
+    border-top: 1px solid var(--border);
+    padding-top: 24px;
+  }
+  .pillar-faq h2 {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--text);
+    margin-bottom: 16px;
+  }
+  .pillar-faq-item {
+    margin-bottom: 20px;
+  }
+  .pillar-faq-item h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 6px;
+  }
+  .pillar-faq-item p {
+    font-size: 14px;
+    line-height: 1.65;
+    color: var(--text-secondary);
+    margin: 0;
+  }
+  .pillar-articles-heading {
+    font-size: 1.3rem;
+    font-weight: 800;
+    color: var(--text);
+    margin: 32px 0 16px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+  }
+
   .article-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
