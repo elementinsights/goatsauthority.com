@@ -87,7 +87,9 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
       {guide.sections.map((section) => (
         <div class="pillar-section">
           <h2>{section.heading}</h2>
-          <p>{section.content}</p>
+          {section.content.split('\n\n').map((para: string) => (
+            <p>{para}</p>
+          ))}
           {section.links && section.links.length > 0 && (
             <div class="pillar-links">
               <strong>Read more:</strong>
