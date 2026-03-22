@@ -15,20 +15,14 @@ quickAnswer:
 toc:
   - label: "Can I raise goats in Paradise Town California?"
     href: "#can-i-raise-goats-in-paradise-town-california"
-  - label: "What are the local city ordinances for goats in Paradise Town, California?"
-    href: "#what-are-the-local-city-ordinances-for-goats-in-paradise-town-california"
-  - label: "Is there a limit to how many goats I can have in Paradise Town, California?"
-    href: "#is-there-a-limit-to-how-many-goats-i-can-have-in-paradise-town-california"
-  - label: "Where can I get a permit to keep goats in Paradise Town, California?"
-    href: "#where-can-i-get-a-permit-to-keep-goats-in-paradise-town-california"
-  - label: "What do I need to know before raising goats in Paradise Town, California?"
-    href: "#what-do-i-need-to-know-before-raising-goats-in-paradise-town-california"
-  - label: "The benefits of raising goats in Paradise Town, California?"
-    href: "#the-benefits-of-raising-goats-in-paradise-town-california"
-  - label: "Are there any risks associated with raising goats in Paradise Town, California?"
-    href: "#are-there-any-risks-associated-with-raising-goats-in-paradise-town-california"
-  - label: "How to get started raising goats in Paradise Town, California?"
-    href: "#how-to-get-started-raising-goats-in-paradise-town-california"
+  - label: "What are the local ordinances for goats?"
+    href: "#what-are-the-local-ordinances-for-goats"
+  - label: "Key things to check before you start"
+    href: "#key-things-to-check-before-you-start"
+  - label: "Raising goats in the Paradise climate"
+    href: "#raising-goats-in-the-paradise-climate"
+  - label: "Getting started with goats in Paradise"
+    href: "#getting-started-with-goats-in-paradise"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -39,7 +33,7 @@ faq:
   - question: "Is there a limit to how many goats I can have in Paradise Town, California?"
     answer: "The number of animals you can keep depends on your parcel size and zoning designation under Butte County rules. Larger parcels generally allow more animals. Check with the Butte County Planning Department for the specific limits on your property."
   - question: "Where can I get a permit to keep goats in Paradise Town, California?"
-    answer: "There are many different places where you can get a permit to keep goats in Paradise Town, California. One option is to contact the local government directly, as they are responsible for managing livestock within the city limits."
+    answer: "One option is to contact the local government directly, as they are responsible for managing livestock within the city limits."
 ---
 If you are looking to raise goats in Paradise, California, the good news is that Butte County generally allows livestock on larger parcels. But regulations have shifted since the 2018 Camp Fire destroyed most of the town, so you need to verify the current rules before bringing animals home.
 

@@ -33,7 +33,7 @@ faq:
   - question: "What do I need to know before getting goats?"
     answer: "Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so check with your local government first."
   - question: "How to take care of goats?"
-    answer: "There are a few key things that you need to know in order to properly care for goats. The first thing is that goats are very social animals and thrive when they live in herds. In addition, they require regular exercise and access to fresh hay and water."
+    answer: "The first thing is that goats are very social animals and thrive when they live in herds. In addition, they require regular exercise and access to fresh hay and water."
 ---
 
 Whether you can keep goats on your property comes down to one thing: local law. I've talked with plenty of folks who bought goats first and checked the rules second, and it never ends well.

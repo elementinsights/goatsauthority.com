@@ -23,12 +23,6 @@ toc:
     href: "#how-to-serve-broccoli-to-goats"
   - label: "How much broccoli can goats eat?"
     href: "#how-much-broccoli-can-goats-eat"
-  - label: "Do all goats eat broccoli?"
-    href: "#do-all-goats-eat-broccoli"
-  - label: "Can you feed the pregnant goats broccoli?"
-    href: "#can-you-feed-the-pregnant-goats-broccoli"
-  - label: "Can you feed a baby goat broccoli?"
-    href: "#can-you-feed-a-baby-goat-broccoli"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:

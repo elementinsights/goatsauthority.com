@@ -35,7 +35,7 @@ faq:
   - question: "What is the process of adopting a goat from a farm in Rochester NY?"
     answer: "If you're interested in adopting a goat from a farm in Rochester, NY, there are a few things you need to know."
   - question: "What are the benefits of owning a pet goat?"
-    answer: "Owning a pet goat comes with a number of benefits. First, goats are intelligent and resourceful animals. They are known for their problem-solving skills, and they are quick learners."
+    answer: "Owning a pet goat comes with a number of benefits. goats are intelligent and resourceful animals. They are known for their problem-solving skills, and they are quick learners."
   - question: "How to care for your new goat friend?"
     answer: "Goats need a companion, fresh water, good hay, and a dry shelter. Routine care includes hoof trimming every six to eight weeks, annual vet checkups, CDT vaccinations, and regular deworming based on fecal egg counts."
 ---

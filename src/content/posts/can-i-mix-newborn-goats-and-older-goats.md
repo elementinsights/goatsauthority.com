@@ -29,9 +29,9 @@ faq:
   - question: "Can I mix newborn goats and older goats?"
     answer: "Not right away. A newborn kid is too small and fragile to handle adult goats safely. Keep them in a private stall with their dam for the first week, then introduce them gradually. By 2 to 3 weeks old, most kids can hold their own."
   - question: "What is the difference between a newborn and older goats?"
-    answer: "When it comes to goats, there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts."
+    answer: "there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts."
   - question: "Why mix them together?"
-    answer: "There are several reasons why you might want to mix different age groups of goats together."
+    answer: ""
   - question: "How to mix them together?"
     answer: "Goats of different ages shouldn't be mixed together all at once. Ease them into it by putting them into separate pens and letting them get comfortable with each other."
 ---

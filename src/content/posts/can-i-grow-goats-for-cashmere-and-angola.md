@@ -31,7 +31,7 @@ faq:
   - question: "Can I grow goats for Cashmere and Angola?"
     answer: "You can grow goats for cashmere and Angola. There are a few things you need to consider before getting started, such as the breed of goat, their diet and housing requirements, as well as the benefits and challenges of this business venture."
   - question: "What are the different breeds of goats and what do they produce?"
-    answer: "There are many different breeds of goats, each with its own unique set of characteristics and uses. Some of the most common types of goats include dairy goats, meat goats, and fiber goats."
+    answer: "Some of the most common types of goats include dairy goats, meat goats, and fiber goats."
   - question: "What are the dietary and housing requirements for raising goats for cashmere and Angola fiber production?"
     answer: "There are a few key dietary and housing requirements that must be met in order to successfully raise goats for cashmere and Angola fiber production."
   - question: "What are the benefits and challenges of raising goats for fiber production?"

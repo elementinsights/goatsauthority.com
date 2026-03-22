@@ -31,11 +31,11 @@ faq:
   - question: "Do goats have cloven hooves?"
     answer: "Yes, goats have cloven hooves, meaning each foot is split into two separate toes. Each toe has a hard outer wall of keratin and a softer sole on the bottom. Between the two toes is a soft, fleshy area called the interdigital space that gives goats incredible grip on rocky terrain."
   - question: "What are the benefits of having cloven hooves?"
-    answer: "There are several benefits to having cloven hooves. One of the most important benefits is that it helps the goat to stay sure-footed. This is especially important for goats who live in mountainous regions."
+    answer: "One of the most important benefits is that it helps the goat to stay sure-footed. This is especially important for goats who live in mountainous regions."
   - question: "What are cloven hooves and what do they do for goats?"
     answer: "Cloven hooves are a distinctive feature of goats, and they play an important role in helping these animals to thrive in their natural environment. Cloven hooves are comprised of two elongated toes with hardened tips, which allow goats to move easily over a variety of terrain."
   - question: "How do goats use their hooves to navigate their environment?"
-    answer: "Despite their small size and seemingly delicate appearance, goats are actually quite adept at navigating their environment. Their hooves are well adapted to allow them to move easily both on the ground and in more difficult terrain like rocky cliffs or steep slopes."
+    answer: "Goats are good at navigating their environment. Their hooves are well adapted to allow them to move easily both on the ground and in more difficult terrain like rocky cliffs or steep slopes."
 ---
 
 Yes, goats have cloven hooves, and understanding how those hooves work is one of the most important things you can learn as a goat owner. Here's what you need to know.

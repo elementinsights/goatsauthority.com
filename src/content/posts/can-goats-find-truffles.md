@@ -33,7 +33,7 @@ faq:
   - question: "Can goats find truffles?"
     answer: "In theory, goats could detect truffles underground with their strong sense of smell, but there is no evidence they can do this reliably. No commercial truffle operations use goats. Dogs and pigs are the proven truffle hunters."
   - question: "How do goats find truffles?"
-    answer: "When it comes to truffle hunting, goats have a keen sense of smell. They are able to sniff out these prized fungi even when they are buried several inches underground."
+    answer: "goats have a keen sense of smell. They are able to sniff out these prized fungi even when they are buried several inches underground."
   - question: "Can goats eat truffles?"
     answer: "Yes, truffles are safe for goats. Nothing toxic in them. The issue is cost, since black truffles sell for $300 to $800 per pound, making it quite the expensive snack if your goat eats one."
   - question: "How much money can you make from finding truffles?"

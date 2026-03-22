@@ -35,7 +35,7 @@ faq:
   - question: "How can you tell if your goat is aggressive?"
     answer: "Warning signs include lowering the head, stamping feet, charging, grunting and snorting when you approach, or doing a sideways stance to look bigger. Any goat that head-butts people is showing aggression that needs correction."
   - question: "What to do if your goat is aggressive?"
-    answer: "First, rule out pain or illness. If it's a bottle baby, enforce strict boundary training. For intact bucks, castration usually calms them within weeks. Never back down when a goat charges, as retreating teaches them that aggression works."
+    answer: "Rule out pain or illness. If it's a bottle baby, enforce strict boundary training. For intact bucks, castration usually calms them within weeks. Never back down when a goat charges, as retreating teaches them that aggression works."
 ---
 Most aggressive goats can be fixed once you figure out why they're acting that way. The key is identifying the root cause before you try to change the behavior.
 

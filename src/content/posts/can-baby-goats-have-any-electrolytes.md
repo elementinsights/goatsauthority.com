@@ -1,6 +1,6 @@
 ---
 title: "Can Baby Goats Have Any Electrolytes? (Health Tips and Breeding Guides)"
-description: "When it comes to baby goats, many people are curious about their health and what they need in order to thrive. the topic of electrolytes and baby goats and how they can benefit from them."
+description: "many people are curious about their health and what they need in order to thrive. the topic of electrolytes and baby goats and how they can benefit from them."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-26

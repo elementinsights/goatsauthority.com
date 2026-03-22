@@ -31,7 +31,7 @@ faq:
   - question: "Is canned goat milk good for puppies?"
     answer: "Canned goat milk is an excellent source of nutrition for your puppy. It contains all the essential nutrients they need to grow into strong and healthy dogs. Goat milk is also more digestible for puppies than cow's milk and is less likely to cause digestive problems."
   - question: "What are the benefits of giving my puppy canned goat milk?"
-    answer: "There are several benefits to giving your puppy canned goat milk. First and foremost, goat milk is an excellent source of nutrients that can help to promote healthy growth and development in puppies."
+    answer: "First and foremost, goat milk is an excellent source of nutrients that can help to promote healthy growth and development in puppies."
   - question: "How much-canned goat milk should I give my puppy?"
     answer: ""
 ---

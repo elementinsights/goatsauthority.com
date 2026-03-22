@@ -35,7 +35,7 @@ faq:
   - question: "What Parts of the Orange and Orange Tree Are Safe for Goats?"
     answer: "Goats can eat oranges. Yes, you read that right. But it’s not just the fruit they enjoy."
   - question: "How to Prepare and Feed Oranges to Goats"
-    answer: "When feeding oranges to goats, it’s all about preparation. First, wash the orange thoroughly. This removes any chemicals or dirt on the skin."
+    answer: "When feeding oranges to goats, it’s all about preparation. wash the orange thoroughly. This removes any chemicals or dirt on the skin."
 ---
 Goats can eat oranges, and they’re actually a solid treat. Nearly every part of the orange is safe, including the peel. Here’s what you need to know about feeding citrus to your herd.
 

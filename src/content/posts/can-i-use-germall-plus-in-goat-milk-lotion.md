@@ -37,7 +37,7 @@ faq:
   - question: "How can you use Germall Plus in goat milk lotion?"
     answer: "When using Germall Plus in goat milk lotion, keep a few key things in mind."
   - question: "What are the things you need to consider before using Germall Plus in goat milk lotion?"
-    answer: "There are a few key things you need to remember when adding Germall Plus to goat milk lotion."
+    answer: ""
 ---
 
 Yes, you can use Germall Plus in goat milk lotion, and it is one of the most reliable preservatives for keeping homemade lotion shelf-stable. It protects against bacteria and fungi, which is exactly what you need when working with a water-based product that contains milk.

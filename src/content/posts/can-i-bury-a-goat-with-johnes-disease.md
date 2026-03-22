@@ -33,9 +33,9 @@ faq:
   - question: "What is Johne's disease in goats and how is it transmitted?"
     answer: "Johne's disease, also known as paratuberculosis, is a serious illness that affects goats and other animals. It is caused by a bacteria called Mycobacterium avium subsp. Paratuberculosis, or MAP for short."
   - question: "How to prevent Johne's disease in goats?"
-    answer: "There are several steps that can be taken to help prevent Johne's disease in goats. The first and most important thing is to provide a clean, well-sanitized environment for your goats."
+    answer: "The first and most important thing is to provide a clean, well-sanitized environment for your goats."
   - question: "How to test for Johne's disease in goats?"
-    answer: "There are several ways to test for Johne's disease in goats. The most common method is the fecal culture test, which involves taking a sample of the goat's feces and incubating it in a special culture medium."
+    answer: "The most common method is the fecal culture test, which involves taking a sample of the goat's feces and incubating it in a special culture medium."
 ---
 Losing a goat to Johne's disease is tough, and figuring out what to do with the carcass adds stress to an already bad situation. Here's what you need to know about disposal options when Johne's is involved.
 

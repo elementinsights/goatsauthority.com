@@ -1,6 +1,6 @@
 ---
 title: "Can Baby Kittens Drink Goats Milk? (All You Need To Know)"
-description: "When it comes to raising baby kittens, one of the most common questions people have is whether or not they can drink goat's milk. And if so, is it good for them?"
+description: "one of the most common questions people have is whether or not they can drink goat's milk. And if so, is it good for them?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-28

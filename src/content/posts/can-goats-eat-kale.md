@@ -23,7 +23,7 @@ toc:
     href: "#impact-of-goat-diet-on-milk-flavor"
 faq:
   - question: "Can Goats Eat Kale?"
-    answer: "Goats can indeed eat kale. This leafy green is packed with nutrients that are beneficial for their health. But, like all things, it should be given in moderation. Kale has high levels of calcium and vitamin A which are good for goats."
+    answer: "Goats can indeed eat kale. This leafy green is nutritious are beneficial for their health. But, like all things, it should be given in moderation. Kale has high levels of calcium and vitamin A which are good for goats."
   - question: "Is Kale Harmful or Toxic to Goats?"
     answer: "Kale is not harmful or toxic to goats. In fact, it’s quite the opposite. This leafy green vegetable can be a healthy addition to your goat’s diet."
 ---

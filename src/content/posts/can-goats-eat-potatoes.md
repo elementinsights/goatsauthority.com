@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Potatoes? (Benefits, Risks, Serving Size, and FAQs)"
-description: "I'm a goat owner. I love my goats and care about what they eat. When it comes to their diet, there are many questions that come up. One question that often pops into mind is about potatoes. Can goats eat them? Is it safe or not?"
+description: "I'm a goat owner. I love my goats and care about what they eat. there are many questions that come up. One question that often pops into mind is about potatoes. Can goats eat them? Is it safe or not?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-23

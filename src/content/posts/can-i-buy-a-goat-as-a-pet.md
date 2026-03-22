@@ -31,9 +31,9 @@ faq:
   - question: "Can I buy a goat as a pet?"
     answer: "Yes, you can find pet goats through local breeders, farm auctions, Craigslist, and livestock swap pages on Facebook. The most important rule is to never buy just one goat, since they are herd animals and need a companion."
   - question: "What do you need to know before buying a pet goat?"
-    answer: "Before buying a pet goat, there are a few important things that you need to know. First, you need to consider the size and space that you have available in your home or yard."
+    answer: "Before buying a pet goat, there are a few important things that you need to know. you need to consider the size and space that you have available in your home or yard."
   - question: "How to choose the right goat for your family?"
-    answer: "When it comes to choosing a goat for your family, there are a few important factors to consider. The first thing to think about is your level of experience with raising livestock."
+    answer: "there are a few important factors to consider. The first thing to think about is your level of experience with raising livestock."
   - question: "What to feed your pet goat?"
     answer: "There is no single answer to the question of what to feed your pet goat, as different factors will affect the type of diet that is best for your specific animal. Some general principles, however, can help guide you in making the right choices for your goat's nutrition."
 ---

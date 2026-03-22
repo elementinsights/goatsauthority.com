@@ -37,7 +37,7 @@ faq:
   - question: "What is a goat milk protein and what are its benefits?"
     answer: "At its most basic level, goat milk protein is simply the proteins that are found in goat milk. These proteins play a number of important functions within the body, from supporting the growth and development of new cells to helping to maintain proper muscle functioning."
   - question: "How to care for goats to ensure a healthy milk supply?"
-    answer: "There are a few key things to keep in mind when taking care of goats for milk production. First and foremost, provide your goats with a nutritious, high-quality diet."
+    answer: "First and foremost, provide your goats with a nutritious, high-quality diet."
 ---
 
 Yes, you can raise goats for milk protein. A single cup of goat milk packs about 8.7 grams of protein, and it's easier to digest than cow milk for most people.

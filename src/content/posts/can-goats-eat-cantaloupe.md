@@ -35,9 +35,9 @@ faq:
   - question: "Can Goats Eat Cantaloupe?"
     answer: "Yes, goats can eat cantaloupe. It’s a sweet treat they enjoy and it’s safe for them too. But remember to feed in moderation as too much fruit can upset their stomach."
   - question: "Is Cantaloupe Healthy for Goats?"
-    answer: "Cantaloupe is indeed healthy for goats. It’s packed with nutrients that are good for them. These fruits contain a lot of water which helps to keep the goat hydrated."
+    answer: "Cantaloupe is indeed healthy for goats. It’s nutritious them. These fruits contain a lot of water which helps to keep the goat hydrated."
   - question: "How Often Should Goats Eat Cantaloupe?"
-    answer: "When it comes to feeding goats cantaloupe, stick to small amounts. Goats love this sweet treat and can safely eat both the fruit and rind. However, too much of a good thing can be harmful."
+    answer: "stick to small amounts. Goats love this sweet treat and can safely eat both the fruit and rind. However, too much of a good thing can be harmful."
   - question: "How to Prepare Cantaloupe for Feeding to Goats"
     answer: "When you decide to feed cantaloupe to your goats, there are a few steps you should follow. First off, wash the fruit well. This helps remove any pesticides or dirt that may be on the skin."
 ---

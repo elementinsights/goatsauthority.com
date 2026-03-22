@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Pigs and Chickens Live In The Same Barn? (What You Need To Know)"
-description: "We all know that different animals have different needs when it comes to housing, but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?"
+description: "We all know that different animals have different needs but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?"
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-05
@@ -23,19 +23,15 @@ toc:
     href: "#are-there-any-risks-to-keeping-pigs-and-chickens-in-the-same-barn"
   - label: "How to manage the different types of animals in your barn?"
     href: "#how-to-manage-the-different-types-of-animals-in-your-barn"
-  - label: "What to do if one type of animal starts dominating the others?"
-    href: "#what-to-do-if-one-type-of-animal-starts-dominating-the-others"
-  - label: "The costs of keeping multiple types of animals in the same barn"
-    href: "#the-costs-of-keeping-multiple-types-of-animals-in-the-same-barn"
-  - label: "Final Thoughts"
-    href: "#final-thoughts"
+  - label: "Key Takeaways"
+    href: "#key-takeaways"
 faq:
   - question: "Can goats pigs and chickens live in the same barn?"
     answer: "Goats, pigs, and chickens can all live in the same barn as long as there is enough room for each animal to have its own space. The best way to achieve this is to build separate pens or sections within the barn for each type of animal."
   - question: "What do you need to consider before adding different types of animals to your barn?"
     answer: "The biggest concern is feed contamination. Goats need copper in their minerals, but copper is toxic to pigs. Chicken feed often contains monensin, which is fatal to goats. You must set up separate feeding stations for each species."
   - question: "Are there any risks to keeping pigs, and chickens in the same barn?"
-    answer: "There are a few risks to consider before keeping pigs and chickens together in the same barn. First, there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals."
+    answer: "There are a few risks to consider before keeping pigs and chickens together in the same barn. there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals."
   - question: "How to manage the different types of animals in your barn?"
     answer: "Give each species its own zone and stick to a consistent daily routine. Feed at the same time each day with gates closed. Clean each section regularly and watch for illness spreading between groups. Install sturdy dividers if pigs start bullying goats."
 ---

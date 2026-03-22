@@ -29,7 +29,7 @@ faq:
   - question: "Can you breed a 6 yr old goat for the first time?"
     answer: "You can breed a 6 yr old goat for the first time as long as the goat is healthy and has no reproductive problems. If the goat is older than 6, you may want to consult with a veterinarian to see if the goat is still able to breed."
   - question: "What are the benefits of breeding a 6 yr old goat?"
-    answer: "There are many benefits to breeding a 6 yr old goat. For one, it can help improve the genetic diversity of your herd."
+    answer: "For one, it can help improve the genetic diversity of your herd."
   - question: "What are the risks of breeding a 6 yr old goat?"
     answer: "The biggest concern is her birth canal. A maiden doe that has never kidded has a narrow, unstretched pelvis, raising the chance of dystocia (difficult delivery). She may also produce less colostrum and milk than a doe that has been through the process before."
   - question: "When is the best time to start breeding goats?"

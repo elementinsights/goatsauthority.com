@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can dogs drink goat milk everyday?"
-    answer: "Dogs can safely drink goat milk every day because it's packed with nutrients that can be beneficial for your dog's health. Dogs who drink goat milk on a regular basis may experience improved digestion, stronger bones, and a shinier coat."
+    answer: "Dogs can safely drink goat milk every day because it's nutritious can be beneficial for your dog's health. Dogs who drink goat milk on a regular basis may experience improved digestion, stronger bones, and a shinier coat."
   - question: "What is goat milk and what are its benefits for dogs?"
     answer: "Goat milk is a type of milk that is produced by goats. It's similar to cow's milk in terms of its nutrient content, but it's easier for dogs to digest because it contains less lactose."
   - question: "How much goat milk, and how frequently, should I feed it to my dog?"
-    answer: "Considering your dog's size, age, and health will determine how much goat milk to give them. You must begin cautiously and progressively raise the amount over time."
+    answer: "Considering your dog's size, age, and health will determine how much goat milk to give them. Start small and increase gradually."
   - question: "What are the risks associated with giving my dog goat milk?"
     answer: "The most common issue is loose stool when introduced too quickly. Some dogs are sensitive to all dairy, and goat milk is calorie-dense, so it can cause weight gain if not accounted for in daily intake."
 ---

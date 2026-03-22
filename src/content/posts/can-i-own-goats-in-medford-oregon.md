@@ -35,7 +35,7 @@ faq:
   - question: "What are the requirements for owning goats in Medford, Oregon?"
     answer: "Check your zoning classification, minimum lot size requirements, how many animals you're allowed, and setback distances from property lines and neighboring structures. These vary depending on whether you're inside city limits or in unincorporated Jackson County."
   - question: "What do you need to consider before getting goats in Medford, Oregon?"
-    answer: "Before getting any type of livestock, there are a few important things that you need to consider. In particular, when it comes to goats, you will need to think about things like where you will be keeping them and what their access to food and water will be like."
+    answer: "Before getting any type of livestock, there are a few important things that you need to consider. In particular, you will need to think about things like where you will be keeping them and what their access to food and water will be like."
   - question: "How much work is involved in keeping goats in Medford, Oregon?"
     answer: "Keeping goats in Medford, Oregon is a fairly involved process, requiring a significant amount of work on the part of the owner. For one thing, goats require specialized care and feeding to make sure they stay healthy and happy."
 ---

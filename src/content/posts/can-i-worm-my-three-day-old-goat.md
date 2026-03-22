@@ -15,18 +15,14 @@ quickAnswer:
 toc:
   - label: "Can I worm my three day old goat?"
     href: "#can-i-worm-my-three-day-old-goat"
+  - label: "When should you first deworm a kid?"
+    href: "#when-should-you-first-deworm-a-kid"
   - label: "What are the signs that a goat needs to be wormed?"
     href: "#what-are-the-signs-that-a-goat-needs-to-be-wormed"
-  - label: "What is worming and why is it important for goats?"
-    href: "#what-is-worming-and-why-is-it-important-for-goats"
-  - label: "What are the different types of wormers available for goats and what do they each do?"
-    href: "#what-are-the-different-types-of-wormers-available-for-goats-and-what-do-they-each-do"
-  - label: "How often should you worm your goat, and how can you tell if he needs to be wormed?"
-    href: "#how-often-should-you-worm-your-goat-and-how-can-you-tell-if-he-needs-to-be-wormed"
-  - label: "What are the risks associated with not worming your goats?"
-    href: "#what-are-the-risks-associated-with-not-worming-your-goats"
-  - label: "How can you prevent your goat from getting worms in the first place?"
-    href: "#how-can-you-prevent-your-goat-from-getting-worms-in-the-first-place"
+  - label: "Always weigh before dosing"
+    href: "#always-weigh-before-dosing"
+  - label: "How can you prevent worms in the first place?"
+    href: "#how-can-you-prevent-worms-in-the-first-place"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -37,7 +33,7 @@ faq:
   - question: "What is worming and why is it important for goats?"
     answer: "Worming, or deworming, is an important part of maintaining the health of your goats. Worms are parasitic organisms that live inside the digestive system of goats and other livestock."
   - question: "What are the different types of wormers available for goats and what do they each do?"
-    answer: "There are several different types of wormers available for goats, each of which acts in a slightly different way to target specific types of parasites."
+    answer: ""
 ---
 
 No, you should not deworm a 3-day-old kid. At that age, internal parasites aren't even on the radar yet, and giving dewormer to a newborn does more harm than good.

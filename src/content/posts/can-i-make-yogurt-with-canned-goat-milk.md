@@ -1,6 +1,6 @@
 ---
 title: "Can I Make Yogurt With Canned Goat Milk? (Everything You Need To Know)"
-description: "We all know that fresh milk is always the best choice when it comes to making yogurt. However, there are times when we don't have access to fresh milk or we simply don't have enough time to make yogurt from scratch."
+description: "We all know that fresh milk is always the best choice there are times when we don't have access to fresh milk or we simply don't have enough time to make yogurt from scratch."
 category: "food"
 postType: "guide"
 publishDate: 2022-10-11

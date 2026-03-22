@@ -37,7 +37,7 @@ faq:
   - question: "Can Baby Goats Eat Bread"
     answer: "Baby goats, also known as kids, can eat bread. But it’s not the best food for them. Bread lacks nutrients that growing goats need like calcium and protein. Too much bread may cause bloating or other health issues in baby goats."
   - question: "Which Bread Is Healthier for Goats?"
-    answer: "Whole grain bread is the best choice for your goat. It’s packed with nutrients that are good for their health. Unlike white or processed bread, it doesn’t contain harmful additives. Feeding them whole grain bread can help maintain a balanced diet."
+    answer: "Whole grain bread is the best choice for your goat. It’s nutritious their health. Unlike white or processed bread, it doesn’t contain harmful additives. Feeding them whole grain bread can help maintain a balanced diet."
 ---
 Yes, goats can eat small amounts of plain bread without any problems. It is junk food for goats though, not real nutrition, so treat it the same way you would treat candy for a kid.
 

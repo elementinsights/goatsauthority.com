@@ -33,7 +33,7 @@ faq:
   - question: "How to collect goat semen for freezing"
     answer: "Collection is done at specialized facilities by trained technicians using an artificial vagina or electroejaculation. The semen is mixed with an extender solution, packaged in straws, and submerged in liquid nitrogen. Sessions cost $200 to $500."
   - question: "What are the benefits of using frozen semen?"
-    answer: "There are many benefits of using frozen semen. First, it allows you to preserve the genetics of valuable animals. Second, it allows you to use the semen of animals that are no longer alive."
+    answer: "It allows you to preserve the genetics of valuable animals. it allows you to use the semen of animals that are no longer alive."
 ---
 
 This question comes up more than you'd think, and the answer depends on what you mean by "save." If you're asking whether a doe can store sperm inside her body for future use, the answer is no. If you're asking about freezing buck semen for breeding later, that's a different story entirely.

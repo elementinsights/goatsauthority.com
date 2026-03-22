@@ -15,20 +15,14 @@ quickAnswer:
 toc:
   - label: "Can milk be used from goats that have had sore mouths and healed?"
     href: "#can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed"
-  - label: "Tips for caring for a goat with a sore mouth"
-    href: "#tips-for-caring-for-a-goat-with-a-sore-mouth"
-  - label: "What is a sore mouth and what are the symptoms in goats?"
-    href: "#what-is-a-sore-mouth-and-what-are-the-symptoms-in-goats"
-  - label: "What are the benefits of using milk from a goat with a sore mouth?"
-    href: "#what-are-the-benefits-of-using-milk-from-a-goat-with-a-sore-mouth"
-  - label: "When should you not use milk from a goat with a sore mouth?"
-    href: "#when-should-you-not-use-milk-from-a-goat-with-a-sore-mouth"
-  - label: "How to prevent the spread of sore mouth in goats?"
-    href: "#how-to-prevent-the-spread-of-sore-mouth-in-goats"
-  - label: "Are there any other treatments for goats with sore mouths?"
-    href: "#are-there-any-other-treatments-for-goats-with-sore-mouths"
-  - label: "Are there any other uses for goat's milk?"
-    href: "#are-there-any-other-uses-for-goats-milk"
+  - label: "What is sore mouth and why does it matter for milking?"
+    href: "#what-is-sore-mouth-and-why-does-it-matter-for-milking"
+  - label: "When is it safe to start using the milk again?"
+    href: "#when-is-it-safe-to-start-using-the-milk-again"
+  - label: "Pasteurization and extra safety measures"
+    href: "#pasteurization-and-extra-safety-measures"
+  - label: "Protecting yourself during milking"
+    href: "#protecting-yourself-during-milking"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -39,7 +33,7 @@ faq:
   - question: "What are the benefits of using milk from a goat with a sore mouth?"
     answer: "Once the goat has fully healed, the milk is safe because the virus stays in the skin tissues and scabs, not the milk supply. Pasteurizing the milk after healing provides an extra layer of safety."
   - question: "When should you not use milk from a goat with a sore mouth?"
-    answer: "There are some circumstances when you should not use milk from a goat with a sore mouth. First, if the goat is showing signs of infection, such as bad odor, changed color, or clumping, the milk should be discarded."
+    answer: "There are some circumstances when you should not use milk from a goat with a sore mouth. if the goat is showing signs of infection, such as bad odor, changed color, or clumping, the milk should be discarded."
 ---
 Sore mouth, also called orf or contagious ecthyma, is one of those diseases that makes goat owners nervous about their milk supply. The good news is that once your goat has fully healed, the milk is safe to use.
 

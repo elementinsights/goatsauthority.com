@@ -31,7 +31,7 @@ faq:
   - question: "Can goats pull a plow?"
     answer: "Historically, teams of goats pulled small single-bottom plows in regions where horses were unavailable. Modern goats can pull small garden cultivators on soft soil, but even large Boer goats at 300 pounds lack the muscle for real plowing."
   - question: "What are the benefits of goats pulling a plow?"
-    answer: "There are many benefits to goats pulling a plow. Goats are very strong animals and they can pull a lot of weight. This means that they can help you to cultivate and loosen the soil more effectively than if you were to do it by hand."
+    answer: "Goats are very strong animals and they can pull a lot of weight. This means that they can help you to cultivate and loosen the soil more effectively than if you were to do it by hand."
   - question: "How do you train a goat to pull a plow?"
     answer: "Start by halter-training your goat to lead reliably and respond to voice commands. Then introduce the harness gradually, letting the goat wear it for a few days. Start with a light drag weight and slowly increase the load over several weeks."
   - question: "Are there any special considerations when goats pull a plow?"

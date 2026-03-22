@@ -31,7 +31,7 @@ faq:
   - question: "Can a Nubian goat climb trees?"
     answer: "Nubian goats can climb trees. In fact, they are quite good at it. Their strong hooves and agile bodies make them well suited for climbing. Nubian goats also have a natural curiosity, which often leads them to explore their surroundings, including trees."
   - question: "What is the reason why Nubian goats climb trees?"
-    answer: "There are a few reasons why Nubian goats might climb trees. First, as we mentioned, they are curious creatures and love to explore. Tree climbing is simply another way for them to do this."
+    answer: "They are curious creatures and love to explore. Tree climbing is simply another way for them to do this."
   - question: "What is a Nubian goat and what are their characteristics?"
     answer: "Nubian goats are a popular breed of dairy goat. They are known for their large size, long ears, and distinctive Roman nose. Nubian goats originally come from the Nubian Desert in northeastern Africa."
   - question: "What are the dangers of letting your Nubian goat climb trees?"

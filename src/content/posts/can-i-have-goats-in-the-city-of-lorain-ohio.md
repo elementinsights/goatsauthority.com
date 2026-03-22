@@ -33,7 +33,7 @@ faq:
   - question: "Can I have goats in the city of Lorain Ohio?"
     answer: "Whether you can keep goats in Lorain depends entirely on the city's municipal code. Check how the city classifies goats, whether they fall under livestock or pets, and contact Lorain City Hall directly for specific rules on your property."
   - question: "What types of goats are best suited for a city environment?"
-    answer: "There are several different factors to consider when deciding which types of goats are best suited for a city environment. On the one hand, smaller goat breeds like pygmy goats may be more suitable due to their lower space requirements and smaller overall size."
+    answer: "On the one hand, smaller goat breeds like pygmy goats may be more suitable due to their lower space requirements and smaller overall size."
   - question: "How much space do you need to keep goats in the city?"
     answer: "There is no clear answer to the question of how much space you need to keep goats in the city. This is because it depends on several factors, such as the size and type of your animals, what they are being used for, how long they will be kept on the property, and so on."
   - question: "What kind of goat fencing is needed in the city?"

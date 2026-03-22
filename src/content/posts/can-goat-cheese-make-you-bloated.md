@@ -15,20 +15,14 @@ quickAnswer:
 toc:
   - label: "Can goat cheese make you bloated?"
     href: "#can-goat-cheese-make-you-bloated"
-  - label: "What are the consequences of bloating?"
-    href: "#what-are-the-consequences-of-bloating"
-  - label: "How can I avoid bloating from goat cheese?"
-    href: "#how-can-i-avoid-bloating-from-goat-cheese"
-  - label: "What are some other ways to avoid bloating?"
-    href: "#what-are-some-other-ways-to-avoid-bloating"
-  - label: "What are the treatment options for bloating?"
-    href: "#what-are-the-treatment-options-for-bloating"
-  - label: "Are there any other diseases that cause bloating?"
-    href: "#are-there-any-other-diseases-that-cause-bloating"
-  - label: "What kind of cheese is best for people with bloating?"
-    href: "#what-kind-of-cheese-is-best-for-people-with-bloating"
-  - label: "How can you tell if goat cheese is bad?"
-    href: "#how-can-you-tell-if-goat-cheese-is-bad"
+  - label: "Why goat cheese is easier to digest than cow cheese"
+    href: "#why-goat-cheese-is-easier-to-digest-than-cow-cheese"
+  - label: "How to avoid bloating from goat cheese"
+    href: "#how-to-avoid-bloating-from-goat-cheese"
+  - label: "When bloating means something more serious"
+    href: "#when-bloating-means-something-more-serious"
+  - label: "Best cheeses for sensitive stomachs"
+    href: "#best-cheeses-for-sensitive-stomachs"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -39,7 +33,7 @@ faq:
   - question: "How can I avoid bloating from goat cheese?"
     answer: "Start with aged goat cheese rather than fresh chevre, since aged varieties have less lactose. Eat moderate portions, avoid combining with other high-fat foods, and consider a lactase supplement about 30 minutes before eating."
   - question: "What are some other ways to avoid bloating?"
-    answer: "There are a few other things you can do to avoid bloating. First, be sure to drink plenty of water. Water helps keep the digestive system moving and prevents constipation."
+    answer: "There are a few other things you can do to avoid bloating. be sure to drink plenty of water. Water helps keep the digestive system moving and prevents constipation."
 ---
 
 If you've been avoiding cheese because of bloating, goat cheese might be worth a try. It's actually less likely to cause digestive trouble than cow cheese for most people.

@@ -33,7 +33,7 @@ faq:
   - question: "Can I give my goats human fish pills?"
     answer: "You can give your goats human fish pills. In fact, there are numerous advantages to doing so. Fish pills contain omega-3 fatty acids, which are great for the health of your goats. Some choose to give their goats fish pills because they are a natural source of these healthy fats."
   - question: "What are the things I need to consider before giving my goats human fish pills?"
-    answer: "Before giving your goats human fish pills, there are a few things you need to keep in mind. First, as we mentioned above, you should always consult with a goat expert first. They can help you determine the proper dosage and make sure that the supplement is right for your goats."
+    answer: "Before giving your goats human fish pills, there are a few things you need to keep in mind. above, you should always consult with a goat expert first. They can help you determine the proper dosage and make sure that the supplement is right for your goats."
   - question: "What are the benefits of giving my goats human fish pills?"
     answer: "There are numerous benefits of giving your goats human fish pills. Fish pills contain omega-3 fatty acids, which are great for the health of your goats. Some choose to give their goats fish pills because they are a natural source of these healthy fats."
   - question: "How much should I give my goats human fish pills?"

@@ -15,20 +15,14 @@ quickAnswer:
 toc:
   - label: "Can I use ivermectin pour on in sheep and goats?"
     href: "#can-i-use-ivermectin-pour-on-in-sheep-and-goats"
-  - label: "What is Ivermectin and what does it treat?"
-    href: "#what-is-ivermectin-and-what-does-it-treat"
-  - label: "How effective is Ivermectin in treating sheep and goats?"
-    href: "#how-effective-is-ivermectin-in-treating-sheep-and-goats"
-  - label: "What are the possible side effects of using Ivermectin on sheep and goats?"
-    href: "#what-are-the-possible-side-effects-of-using-ivermectin-on-sheep-and-goats"
-  - label: "When should you not use Ivermectin on sheep and goats?"
-    href: "#when-should-you-not-use-ivermectin-on-sheep-and-goats"
-  - label: "How to administer Ivermectin to sheep and goats?"
-    href: "#how-to-administer-ivermectin-to-sheep-and-goats"
-  - label: "What are the dosage rates for different weights of animals?"
-    href: "#what-are-the-dosage-rates-for-different-weights-of-animals"
-  - label: "What are the precautions for using Ivermectin on sheep and goats?"
-    href: "#what-are-the-precautions-for-using-ivermectin-on-sheep-and-goats"
+  - label: "Why oral dosing works better than pour-on"
+    href: "#why-oral-dosing-works-better-than-pour-on"
+  - label: "Proper dosing for goats"
+    href: "#proper-dosing-for-goats"
+  - label: "How to tell if ivermectin is working"
+    href: "#how-to-tell-if-ivermectin-is-working"
+  - label: "Withdrawal times for meat and milk"
+    href: "#withdrawal-times-for-meat-and-milk"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -39,7 +33,7 @@ faq:
   - question: "How effective is Ivermectin in treating sheep and goats?"
     answer: "There is no question that Ivermectin is a highly effective treatment option for sheep and goats."
   - question: "What are the possible side effects of using Ivermectin on sheep and goats?"
-    answer: "There are several possible side effects of using Ivermectin on sheep and goats. Some of the most common include digestive issues like diarrhea, nausea, and vomiting."
+    answer: "Some of the most common include digestive issues like diarrhea, nausea, and vomiting."
 ---
 This is one of the most common questions I get from goat owners. You can use ivermectin pour-on (Ivomec) in sheep and goats, but not the way you might think.
 

@@ -35,7 +35,7 @@ faq:
   - question: "What are the risks of giving goat milk formula to dogs, and how can they be minimized?"
     answer: "While goat milk is often touted as a healthy alternative to cow's milk, it's not necessarily safe for dogs. Goat milk formula can cause digestive upset in dogs, including diarrhea, vomiting, and gas."
   - question: "How much goat milk formula should be given to a dog, and how often should it be administered?"
-    answer: "there's no one-size-fits-all answer to this question, as the amount of goat milk formula that should be given to a dog will vary depending on the individual animal's size, age, and health."
+    answer: "There's no one-size-fits-all answer to this question, as the amount of goat milk formula that should be given to a dog will vary depending on the individual animal's size, age, and health."
 ---
 
 Goat milk formula is safe for dogs and puppies in most situations. It's actually one of the better emergency options when you need to feed an orphaned puppy and don't have proper milk replacer on hand.

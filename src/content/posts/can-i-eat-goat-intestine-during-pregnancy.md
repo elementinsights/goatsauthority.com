@@ -33,9 +33,9 @@ faq:
   - question: "What is goat intestine and what are its benefits?"
     answer: "Goat intestine, also known as chitterlings, is a type of food that has gained popularity in recent years due to its numerous health benefits. Made from the stomach and intestines of a goat, this nutrient-rich food is high in protein and rich in healthy fats."
   - question: "What are the risks associated with eating goat intestines during pregnancy?"
-    answer: "When it comes to eating goat intestines during pregnancy, there are a number of risks that should be considered. For starters, goat intestines can be contaminated with a variety of pathogenic organisms, including parasites, viruses, and bacteria."
+    answer: "there are a number of risks that should be considered. For starters, goat intestines can be contaminated with a variety of pathogenic organisms, including parasites, viruses, and bacteria."
   - question: "How to prepare goat intestine for consumption?"
-    answer: "There are several key steps that one must take in order to prepare goat intestines for consumption. First, the intestines need to be thoroughly cleaned and rinsed in order to remove any excess fat or debris."
+    answer: "The intestines need to be thoroughly cleaned and rinsed in order to remove any excess fat or debris."
 ---
 Goat intestine is a staple in many cuisines around the world, from Caribbean mannish water to West African pepper soup. If you're pregnant and wondering whether it's safe to eat, the answer is yes, as long as it's properly cleaned and fully cooked.
 

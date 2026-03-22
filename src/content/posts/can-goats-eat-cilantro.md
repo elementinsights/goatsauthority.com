@@ -37,7 +37,7 @@ faq:
   - question: "Can Baby Goats Eat Cilantro?"
     answer: "Baby goats, also known as kids, can indeed eat cilantro. This herb is safe for them and they often enjoy its unique flavor. However, it’s best to introduce new foods slowly into their diet."
   - question: "What Parts of the Cilantro Plant Are Safe for Goats?"
-    answer: "When it comes to feeding goats cilantro, all parts of the plant are safe. This includes the leaves, stems and seeds. Goats enjoy variety in their diet and cilantro can be a nice change for them."
+    answer: "all parts of the plant are safe. This includes the leaves, stems and seeds. Goats enjoy variety in their diet and cilantro can be a nice change for them."
   - question: "How Often Can Goats Eat Cilantro?"
     answer: "Goats can eat cilantro. But, like all things, it should be in moderation. Goats love variety and cilantro can add a nice touch to their diet."
 ---

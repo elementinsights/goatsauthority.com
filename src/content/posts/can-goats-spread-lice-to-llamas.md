@@ -31,7 +31,7 @@ faq:
   - question: "What are the things you need to do to prevent it?"
     answer: "The best way to prevent parasites from spreading between goats and llamas is to practice good hygiene and quarantine any new animals."
   - question: "What to do if you think your goats may have lice?"
-    answer: "If you think your goats may have lice, there are a few things you can do to confirm your suspicions and get rid of the problem. First, take a close look at your goats' fur. If you see any crawling insects, this is a good indication that your goat has lice."
+    answer: "If you think your goats may have lice, there are a few things you can do to confirm your suspicions and get rid of the problem. take a close look at your goats' fur. If you see any crawling insects, this is a good indication that your goat has lice."
   - question: "What are the treatments for lice on goats?"
     answer: "There are a few different ways to treat lice on goats. One popular method is to use an insecticide spray specifically designed for livestock."
 ---

@@ -35,7 +35,7 @@ faq:
   - question: "What is goat yogurt and what are the benefits of feeding it to dogs?"
     answer: "Goat yogurt is a type of yogurt made from goat's milk. It has a similar nutritional profile to cow's milk yogurt, but it may be easier for some dogs to digest. Goat yogurt is a good source of protein, calcium, and probiotics, which can help support a healthy digestive system."
   - question: "Are there any risks associated with giving goat yogurt to dogs?"
-    answer: "While goat yogurt is generally safe for dogs, there are a few potential risks to consider. First, goat yogurt contains lactose, which some dogs may be intolerant to."
+    answer: "While goat yogurt is generally safe for dogs, there are a few potential risks to consider. goat yogurt contains lactose, which some dogs may be intolerant to."
   - question: "How much goat yogurt should I give my dog per day, and how often should I feed it to them?"
     answer: "Goat yogurt is a nutritious food that can be fed to dogs on a daily basis. It's rich in proteins and minerals, and it provides several health benefits."
 ---

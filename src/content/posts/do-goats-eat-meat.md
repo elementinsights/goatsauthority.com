@@ -29,7 +29,7 @@ faq:
   - question: "Do goats eat meat?"
     answer: "No, goats are herbivores and should not eat meat. Their ruminant digestive system is built to ferment plant fiber, not process animal protein. Feeding meat disrupts the microbial balance in the rumen and can cause serious digestive upset."
   - question: "What kind of goat eats meat?"
-    answer: "There are many different types of goats in the world, and each one has its own diet. Some goats are herbivores, meaning that they only eat plants."
+    answer: "Some goats are herbivores, meaning that they only eat plants."
   - question: "Can you feed meat to a pregnant goat?"
     answer: "No, you should not feed meat to a pregnant goat or any goat. Goats are strict herbivores whose ruminant digestive system cannot properly handle animal protein. If your goat needs extra protein, use alfalfa hay, soybean meal, or black oil sunflower seeds instead."
   - question: "Can you feed meat to a sick goat?"

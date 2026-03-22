@@ -35,7 +35,7 @@ faq:
   - question: "Can I feed a small amount of raw almonds to my Nubian goats?"
     answer: "For a small amount of raw almonds, you can feed your Nubian goats. There are no known risks or dangers associated with doing so, and the goats will likely enjoy the treat. They can also help to improve the health of your goats' coats and hooves."
   - question: "What are the benefits of feeding my Nubian goat raw almonds?"
-    answer: "There are a few benefits to feeding your Nubian goats raw almonds. First, they can help to improve the health of your goats' coat and hooves."
+    answer: "There are a few benefits to feeding your Nubian goats raw almonds. they can help to improve the health of your goats' coat and hooves."
   - question: "How many raw almonds can I give my Nubian goat?"
     answer: "There is no one-size-fits-all answer to this question, as it will depend on the size of your goat and how much they weigh. However, a good rule of thumb is to give them no more than 1-2 ounces of raw almonds per day."
   - question: "Are there any risks associated with feeding my Nubian goat raw almonds?"

@@ -35,7 +35,7 @@ faq:
   - question: "What is the average temperature range for goats in heat?"
     answer: "A normal goat's rectal temperature ranges from 101.5 to 103.5 degrees Fahrenheit. A doe in heat may run slightly above her baseline, but this is not consistent enough across individual animals to be useful for heat detection."
   - question: "What are some of the signs that a goat is in heat?"
-    answer: "There are several definitive indicators that a goat is ready to mate. These include increased vocalization and movement toward other animals, visibly swollen or red genitals, and unusual sexual interest or aggression directed at other goats."
+    answer: "These include increased vocalization and movement toward other animals, visibly swollen or red genitals, and unusual sexual interest or aggression directed at other goats."
   - question: "Are there risks associated with breeding goats?"
     answer: "There are always risks associated with breeding any animal, including goats. Some of the potential risks include injuries sustained during mating, complications during pregnancy and childbirth, and infectious diseases that can be passed from one animal to another."
 ---

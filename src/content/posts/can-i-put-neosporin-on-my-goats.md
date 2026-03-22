@@ -35,9 +35,9 @@ faq:
   - question: "What is Neosporin and what are its uses in goats?"
     answer: "Neosporin is a topical antibiotic that is commonly used in livestock, particularly in goats. It has several important functions, such as treating infections and ulcers and preventing wounds from becoming infected."
   - question: "What are the benefits of using Neosporin on goats?"
-    answer: "There are a number of benefits to using Neosporin on goats. First, this antibiotic ointment can help to protect the skin and treat minor wounds, as it is effective at killing harmful bacteria."
+    answer: "There are a number of benefits to using Neosporin on goats. this antibiotic ointment can help to protect the skin and treat minor wounds, as it is effective at killing harmful bacteria."
   - question: "Are there any risks associated with using Neosporin on goats?"
-    answer: "There are several potential risks associated with using Neosporin on goats. For one thing, the use of antibiotics like Neosporin can lead to antibiotic resistance in both people and animals."
+    answer: "For one thing, the use of antibiotics like Neosporin can lead to antibiotic resistance in both people and animals."
 ---
 
 Goats are tough animals, but they get scrapes, cuts, and wire scratches just like anything else on the farm. When you spot a wound, reaching for Neosporin is a solid first move.

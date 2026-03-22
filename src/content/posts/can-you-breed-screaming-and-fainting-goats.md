@@ -25,12 +25,6 @@ toc:
     href: "#what-are-the-potential-risks-associated-with-breeding-them"
   - label: "How can you care for pregnant and lactating goats?"
     href: "#how-can-you-care-for-pregnant-and-lactating-goats"
-  - label: "Are there any special considerations when breeding twins or triplets?"
-    href: "#are-there-any-special-considerations-when-breeding-twins-or-triplets"
-  - label: "What are the best ways to prevent health problems in these goats?"
-    href: "#what-are-the-best-ways-to-prevent-health-problems-in-these-goats"
-  - label: "How long does it take for kids to be weaned?"
-    href: "#how-long-does-it-take-for-kids-to-be-weaned"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:

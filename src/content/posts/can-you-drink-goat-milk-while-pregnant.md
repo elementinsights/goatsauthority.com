@@ -33,7 +33,7 @@ faq:
   - question: "What is goat milk and where does it come from?"
     answer: "Goat milk is produced by female goats and can be found in many parts of the world. It has a higher fat content than cow’s milk but generally contains less lactose. This makes it easier to digest for some people who have difficulty with traditional dairy products."
   - question: "What are the benefits of drinking goat milk while pregnant?"
-    answer: "There are a number of benefits to drinking goat milk while pregnant. For one, goat milk is packed with nutrients that are essential for fetal development."
+    answer: "There are a number of benefits to drinking goat milk while pregnant. For one, goat milk is nutritious are essential for fetal development."
   - question: "Are there any risks associated with drinking goat milk?"
     answer: "Goat milk is gaining popularity as a healthy food due to its high levels of nutrients and fat. However, there are some potential risks associated with drinking goat milk."
 ---

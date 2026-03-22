@@ -31,7 +31,7 @@ faq:
   - question: "What is line breeding and why is it used in goat husbandry?"
     answer: "Line breeding is a type of breeding that involves selecting animals that are related to each other and then breeding them with each other."
   - question: "What are the benefits of line-breeding goats?"
-    answer: "When it comes to raising goats, there are a variety of different approaches that farmers can take. One popular method is line breeding, which is a form of selective breeding."
+    answer: "there are a variety of different approaches that farmers can take. One popular method is line breeding, which is a form of selective breeding."
   - question: "How do you perform line breeding on goats?"
     answer: "Line breeding is a type of breeding that involves selecting animals that are related to each other and then breeding them together. The goal of line breeding is to produce offspring that have the desired characteristics of both parents."
 ---

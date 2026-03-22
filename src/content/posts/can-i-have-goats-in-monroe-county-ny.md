@@ -35,7 +35,7 @@ faq:
   - question: "What are the requirements for keeping goats in Monroe County, NY"
     answer: "Start by calling your town clerk's office and asking about livestock zoning. You'll need to know your property's zoning classification, the minimum lot size for livestock, how many animals are allowed, and setback distances from property lines."
   - question: "What are the benefits of keeping goats in Monroe County, NY?"
-    answer: "There are many benefits to keeping goats in Monroe County, NY. For starters, goats are incredibly versatile animals, capable of providing meat, milk, fiber, and even fuel for energy."
+    answer: "For starters, goats are incredibly versatile animals, capable of providing meat, milk, fiber, and even fuel for energy."
   - question: "Are there any risks associated with keeping goats in Monroe County, NY?"
     answer: "While there are many benefits to keeping goats at home, there are also a few potential risks associated with this practice. For one thing, goats can be quite independent, and they may ignore instructions from their owners."
 ---

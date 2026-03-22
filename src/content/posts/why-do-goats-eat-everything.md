@@ -35,7 +35,7 @@ faq:
   - question: "How to stop goats from eating everything?"
     answer: "If you have goats, chances are good that at some point they will try to eat something they're not supposed to. Whether it's a favorite sweater or a well-tended flower garden, goats will nibble on just about anything."
   - question: "What to feed a goat?"
-    answer: "Goats are interesting creatures. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses."
+    answer: "Goats are animals. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses."
 ---
 Here's the truth: goats don't actually eat everything. That old image of a goat chomping on a tin can is mostly a myth.
 
