@@ -37,109 +37,65 @@ faq:
   - question: "What are some common diseases that can be caught from goats?"
     answer: "Goats are commonly associated with barnyards and farms, but these versatile animals can actually make great pets."
   - question: "What are the risks of catching diseases from goats?"
-    answer: "Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool."
+    answer: "Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool."
   - question: "How do you prevent yourself from catching those diseases?"
-    answer: "Well, to start off, you can catch diseases from other people, so it’s important to avoid close contact with someone who is sick."
+    answer: "Well, to start off, you can catch diseases from other people, so it's important to avoid close contact with someone who is sick."
 ---
 
-You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks?
+Working around goats every day is one of the best parts of farm life, but it comes with a few health risks worth knowing about. Goats can carry diseases that pass to humans, and basic precautions go a long way toward keeping you safe.
 
-we will answer those questions about diseases and goats so that you can feel more informed next time you're around them.
-
-We will also provide some tips on how to prevent any diseases you may be susceptible to.
+Here's what you need to watch for and how to protect yourself.
 
 ## Can you catch diseases from goats?
 
-Not only can goats carry bacteria, viruses, and parasites, but they can also spread other diseases that are fatal to other animals. Goats may be carriers of brucellosis, for instance, which is transmitted to sheep and causes death.
+Yes, several diseases can jump from goats to humans. These are called zoonotic diseases, and they spread through direct contact with infected animals, their bodily fluids, or contaminated environments.
+
+The overall risk is low for healthy adults who practice basic hygiene. But pregnant women, young children, the elderly, and anyone with a weakened immune system need to be more careful around goats.
+
+Most goat owners go their entire lives without catching anything from their herd. The key is knowing the risks and taking simple steps to minimize them.
 
 ## What are some common diseases that can be caught from goats?
 
-Goats are commonly associated with barnyards and farms, but these versatile animals can actually make great pets.
+Q fever is caused by the bacterium Coxiella burnetii and spreads primarily through birthing fluids and placenta. Even breathing in dust from a contaminated barn can transmit it, and symptoms feel like a nasty flu.
 
-At the same time, before you snuggle up to your new goat, it's important to be aware of the potential risks. Goats can carry a number of diseases that can be passed on to humans, including giardiasis, brucellosis, and cryptosporidiosis.
+Orf, also called sore mouth or contagious ecthyma, causes painful blisters on the hands and fingers after skin-to-skin contact with an infected goat. It heals on its own but takes a few weeks and it's genuinely uncomfortable.
 
-Giardiasis is caused by a parasite that can lead to diarrhea, nausea, and vomiting. Brucellosis is a bacterial infection that can cause flu-like symptoms, and cryptosporidiosis is a parasitic infection that can cause severe dehydration.
-
-While these diseases may sound scary, they can be prevented with proper hygiene and by avoiding contact with sick animals. So enjoy your goats, but be sure to clean up after them carefully.
+Cryptosporidiosis and E. coli spread through fecal contact. Handling baby goats with scours and then touching your face is the most common way this happens. Rabies is rare in goats but possible through bites from infected animals.
 
 ## What are the risks of catching diseases from goats?
 
-Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool.
+For most healthy adults, the risk is genuinely low. Your immune system can handle casual contact with goats as long as you wash your hands afterward.
 
-Goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
+The risk increases significantly during kidding season. Birthing fluids carry the highest concentration of bacteria like Brucella and Chlamydia, making this the most dangerous time to skip protective gear.
 
-While most of these diseases are relatively rare, they can still be dangerous, especially to young children or people with weakened immune systems.
-
-To reduce the risk of catching a disease from a goat, it is important to practice good hygiene when handling them and to make sure that they are properly vaccinated.
+People who drink unpasteurized goat milk also face higher exposure. Raw milk can carry Listeria, Salmonella, and E. coli, so immunocompromised individuals should stick to pasteurized products.
 
 ## How do you prevent yourself from catching those diseases?
 
-Well, to start off, you can catch diseases from other people, so it’s important to avoid close contact with someone who is sick.
+Wash your hands with soap and warm water for at least 20 seconds after every interaction with your goats. This sounds basic, but it's the single most effective thing you can do.
 
-You should also wash your hands often, especially before you eat. It’s also a good idea to get vaccinated against some of the more common diseases, like the flu.
+Wear disposable gloves during kidding and when handling any goat that's visibly sick. Change your barn clothes and shoes before going inside your house, especially if you have young children at home.
 
-And, finally, if you do happen to get sick, it’s important to stay home and rest so that you don’t spread the disease to others. So those are just a few things you can do to prevent yourself from catching diseases.
+Keep dedicated barn clothes that stay in the mudroom or garage. Don't eat, drink, or smoke while working with your goats, and make sure any cuts or scrapes on your hands are covered before handling animals.
 
 ## What are the treatments for the diseases?
 
-The best way to avoid getting sick from a goat is to practice good hygiene and to make sure that the goat is properly vaccinated.
+Treatment depends on the specific disease. Q fever is treated with antibiotics like doxycycline, and most people recover fully within a few weeks.
 
-However, if you do happen to catch a disease from a goat, the best course of treatment will depend on the specific disease.
+Orf runs its course on its own since there's no specific medication for it. Keep the blisters clean and dry, and avoid touching other people until the lesions heal.
 
-For example, giardiasis can be treated with antibiotics, while brucellosis requires a longer course of treatment with multiple antibiotics.
-
-Cryptosporidiosis is usually treated with fluids and rest, but in severe cases, hospitalization may be necessary. So if you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
-
-Diseases that can be caught from goats include giardiasis, brucellosis, and cryptosporidiosis. Giardiasis is caused by a parasite that can lead to diarrhea, nausea, and vomiting.
-
-Brucellosis is a bacterial infection that can cause flu-like symptoms, and cryptosporidiosis is a parasitic infection that can cause severe dehydration.
-
-These diseases can be prevented with proper hygiene and by avoiding contact with sick animals. If you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
-
-## What are the things you need to consider before getting a goat?
-
-If you're thinking about adding a goat or two to your farm, there are a few things you need to take into account before taking the plunge.
-
-First, goats are social animals and do best when they have companions, so you'll need to plan on getting at least two.
-
-Following that, goats are escape artists and will need a sturdy fence to keep them contained.
-
-Thirdly, goats are browsers and not grazers, so they'll need a diet of hay, fresh browse, and grain to stay healthy.
-
-Last thing to note: goats are susceptible to a number of diseases, so you'll need to make sure you have a good veterinarian on hand.
-
-But if you're willing to put in the work, goats can be rewarding and entertaining animals that will add a lot of character to your farm.
-
-## What is the best time to get a goat?
-
-The best time to get a goat is in the spring when they are typically born. This allows you to bond with the goat from a young age, and it also gives the goat time to adjust to its new home before winter arrives.
-
-Goats are interesting creatures that have been domesticated for centuries. If you're considering getting a goat, then spring is the best season to do so.
-
-They provide milk and meat, but can also be used for their wool or as working animals.
+Cryptosporidiosis is usually treated with fluids and rest, though severe cases may need hospitalization. If you develop flu-like symptoms, persistent diarrhea, or skin lesions after handling goats, see a doctor right away and mention your livestock exposure.
 
 ## When is the best time to see a doctor if you think you caught a disease from a goat?
 
-If you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
+Don't wait for symptoms to get bad. If you develop a fever, persistent diarrhea, or unusual skin blisters within a few weeks of handling goats, get to a doctor promptly.
 
-Early diagnosis and treatment are key to avoiding serious complications from diseases like giardiasis, brucellosis, and cryptosporidiosis. So if you think you may have been exposed to a disease, don't wait - see a doctor right away.
+Tell your doctor that you work with livestock. Many zoonotic diseases mimic the flu, and doctors who don't know about your animal exposure might not test for the right things.
 
-In addition to the diseases mentioned above, there are also other conditions that can be caught from goats, such as ringworm and lice.
+Early diagnosis makes a huge difference in treatment outcomes. Diseases like Q fever respond well to antibiotics when caught early but can cause serious complications if left untreated.
 
-However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
+## Final Thoughts
 
-### Hand Washing and Protective Gear Tips
+Yes, you can catch diseases from goats, but the risk stays low when you practice good hygiene. Wash your hands, wear gloves during kidding, keep barn clothes separate from house clothes, and see a doctor if anything feels off.
 
-The single most effective thing you can do after handling goats is wash your hands with soap and warm water for at least 20 seconds. This sounds basic, but most zoonotic infections spread because people skip this step.
-
-If you're working with goats that are visibly sick or birthing, wear disposable gloves and consider a face mask. Birthing fluids carry the highest concentration of bacteria like Brucella and Chlamydia.
-
-Change your clothes and shoes before going inside your house, especially if you have young children or immunocompromised family members. Dedicated barn clothes that stay in the mudroom are a simple but effective barrier.
-
-## To Wrap Things Up
-
-Goats can carry diseases that can be passed on to humans, so it's important to practice good hygiene and avoid contact with sick animals.
-
-If you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
-
-Goats require space, regular vet check-ups, and vaccinations, so be prepared to take on the responsibility of owning a goat before getting one.
+Millions of people raise goats safely every day. A little common sense and basic precautions are all it takes to enjoy your herd without putting your health at risk.

@@ -43,121 +43,42 @@ faq:
   - question: "What are mountain goats and where do they live?"
     answer: "The mountains of North America are home to a kind of wild goat known as the mountain goat. They can be found at elevations of up to 14,000 feet and are well adapted to surviving in challenging environments."
 ---
+Yes, a mountain goat can kill you. It's rare, but it has happened, and anyone hiking in mountain goat country needs to take the risk seriously.
 
-Mountain goats are not your average backyard animal. They may look small and cute, but these creatures are capable of inflicting serious damage if they feel threatened.
-
-Here's what you need to know.we will take a closer look at the mountain goat and explore some of the dangers they pose to humans. We'll also provide tips on how to stay safe around these animals.
+These aren't cuddly farm animals. They're wild, muscular creatures with sharp horns and a territorial streak that can turn dangerous fast.
 
 ## Can a mountain goat kill you?
 
-With that in mind, it's very rare for mountain goats to attack humans. In most cases, they will only do so if they feel threatened or are trying to protect their young.
+In October 2010, a mountain goat killed a 63-year-old hiker in Olympic National Park in Washington state. The goat gored the man with its horns and then stood over his body, preventing rescuers from reaching him for some time. It remains the only confirmed human fatality from a mountain goat attack.
 
-If you encounter a mountain goat in the wild, it's important to stay calm and avoid making any sudden movements.
+That particular goat had a history of aggressive behavior toward hikers. Park officials had been tracking it for years and knew it was habituated to humans. The animal had lost its natural fear of people, which is exactly when mountain goats become most dangerous.
 
-## What are some of the dangers of mountain goats?
+## Why mountain goats become aggressive
 
-Mountain goats are not actually goats, but a type of antelope. They are native to North America and can be found in the Rocky Mountains, Cascades, and the Sierra Nevada.
+Mountain goats that live near popular hiking trails can become habituated to humans over time. They stop running away and start approaching people instead, often seeking salt from sweat, urine, or pack straps.
 
-Mountain goats are well-adapted to life in the mountains.
+During the fall rut, males become especially aggressive. They're pumped full of hormones and looking for a fight. A 200- to 300-pound billy with sharp, dagger-like horns is not something you want coming at you on a narrow trail. Even outside of rut season, a mother protecting her kid can be surprisingly confrontational.
 
-They have thick fur coats that protect them from the cold and their hooves are split, which helps them grip steep slopes. Although they are strong and agile, mountain goats can be dangerous animals.
+## How to stay safe around mountain goats
 
-Mountain goats are known for being aggressive towards humans. In recent years, there have been several reports of mountain goats attacking hikers and campers in national parks.
+The most important rule is distance. Keep at least 50 yards between you and any mountain goat you encounter. If one approaches you, back away slowly and try to get uphill of it.
 
-In some cases, the attacks have been fatal.
+Never let a mountain goat lick your sweat or urine. They crave salt and minerals, and once they associate humans with a salt source, they keep coming back and get bolder each time. If a goat won't leave you alone, make yourself look big, shout, and throw rocks near it to scare it off. Don't turn your back and run.
 
-Mountain goats also carry a number of diseases that can be harmful to humans, including brucellosis and giardiasis. Brucellosis is a bacterial infection that can cause fever, muscle pain, and fatigue in humans.
+## What mountain goats actually are
 
-Giardiasis is a parasitic infection that causes diarrhea, vomiting, and cramping. Both diseases can be spread to humans through contact with mountain goat feces or contaminated water sources.
+Despite their name, mountain goats aren't true goats. They belong to the genus Oreamnos and are more closely related to antelopes than to the domestic goats on your farm.
 
-Mountain goats can pose a serious threat to human health and safety. If you encounter a mountain goat in the wild, it's important to stay calm and avoid making sudden movements.
+They're native to the steep alpine terrain of western North America, living at elevations between 8,000 and 13,000 feet across the Rockies, Cascades, and parts of Alaska. Males weigh between 150 and 300 pounds, and both sexes grow black, slightly curved horns that can reach 12 inches long. Those horns are sharp enough to puncture skin and muscle with a single thrust.
 
-If the animal becomes aggressive, try to intimidate it by making yourself appear larger and using loud noises. If all else fails, use pepper spray or another type of self-defense weapon to defend yourself from an attack.
+## Predators and natural threats
 
-## How to stay safe around mountain goats?
+Mountain goats have few natural predators because of the extreme terrain they call home. Mountain lions are their biggest threat, along with wolves, bears, and golden eagles that sometimes take young kids.
 
-Mountain goats are impressive animals. They are sure-footed and agile, able to scale steep cliffs and navigate narrow ledges with ease.
+Their real dangers are environmental. Avalanches, rockslides, and harsh winter conditions kill far more mountain goats than predators do. In the wild, most mountain goats live 12 to 15 years, though some have reached 18 or older.
 
-But, mountain goats can also be aggressive, especially when they feel threatened. Here are some tips for staying safe around mountain goats:
+## Final Thoughts
 
-First, give them plenty of space. Mountain goats are naturally curious creatures, and they may approach humans out of curiosity.
+Mountain goats deserve respect and distance. The vast majority of encounters between humans and mountain goats end without incident, but the potential for a serious or fatal attack is real.
 
-With that in mind, they can also become agitated if they feel crowded or hemmed in. If you see a mountain goat, give it a wide berth and allow it to move away from you on its own terms.
-
-Second, avoid making loud noises or sudden movements around mountain goats. As with any wild animal, it’s important to avoid startling them.
-
-Sudden movements could trigger an instinctive response, causing them to charge or attack.
-
-Third, be aware of your surroundings. Mountain goats are often found in high places, such as rocky cliffs or alpine meadows.
-
-Be sure to stay on designated trails and avoid areas where mountain goats are known to frequent. And always keep an eye out for signs of danger, such as loose rocks or unstable ground.
-
-By following these simple tips, you can help ensure a safe and enjoyable experience for both yourself and the mountain goats.
-
-## What are mountain goats and where do they live?
-
-The mountains of North America are home to a kind of wild goat known as the mountain goat. They can be found at elevations of up to 14,000 feet and are well adapted to surviving in challenging environments.
-
-Mountain goats are herbivores, and their diet consists mostly of grasses and sedges. They also consume small amounts of lichens, mosses, and shrubs.
-
-In areas where food is scarce, mountain goats will sometimes eat bark or shed antlers.
-
-Mountain goats are social animals and live in small herds composed of females, young males, and kids. Adult males usually live alone or in small groups.
-
-Mountain goats are capable of climbing steep slopes and jumping long distances. Their hooves are split into two toes which help them to grip the rocks and maintain balance.
-
-Mountain goats are relatively resistant to cold weather, and their thick fur coats keep them warm in even the most extreme conditions. But, they are not immune to predators such as coyotes, wolves, and eagles.
-
-## What do mountain goats eat?
-
-During the summer months, mountain goats graze on a variety of grasses and herbs that grow in the alpine meadows. These plants are high in fiber and low in protein, so the mountain goats must eat large quantities of them to meet their nutritional needs.
-
-In addition to grasses and herbs, mountain goats also consume a type of moss known as reindeer lichen.
-
-This lichen is very slow-growing, so it's an important food source for mountain goats as it provides them with much-needed nutrients throughout the winter months when other food sources are scarce.
-
-Mountain goats are grazing animals, so their diet consists mostly of plant matter. At the same time, they will occasionally eat small mammals such as rodents or birds.
-
-These animals provide the mountain goat with a source of protein and fat, which is essential for their survival in cold environments. Mountain goats are well-adapted to their alpine habitat, and their diet helps them to thrive in this harsh environment.
-
-## How big do mountain goats get?
-
-Mountain goats are the largest members of the deer family. They typically weigh between 84 and 143 pounds, and their bodies measure between 4 and 6 feet long.
-
-Mountain goats have long, shaggy coats that can be either white or brown in color. Their fur is dense and oily, which helps to repel water and keep them warm in cold weather.
-
-Mountain goats also have horns that grow up to 12 inches long. These horns are made of keratin, and they are used for defense, mate selection, and digging through snow to find food.
-
-Mountain goats are well-adapted to their mountainous habitat. Their large size helps them to stay warm in cold temperatures, and their fur coats protect them from the elements.
-
-## What is the lifespan of a mountain goat?
-
-In the wild, mountain goats typically have a lifespan of 12 to 20 years. Mountain goats kept in captivity, however, have been known to live up to 30 years.
-
-Mountain goats are relatively long-lived for their size, and this is likely due to the fact that they have few predators and live in a habitat that is relatively free from disease.
-
-Mountain goats are also protected from predators by their large size and formidable horns. These adaptations help mountain goats to avoid becoming prey and allow them to live long, healthy lives.
-
-## What are the predators of mountain goats?
-
-Mountain goats have few natural predators. Their primary predators are wolves, coyotes, and eagles.
-
-Mountain goats are large animals, and their horns provide them with a degree of protection from these predators. However, young mountain goats are still vulnerable to attack, and their small size makes them an easy target for predators.
-
-Mountain goats also have to contend with humans, who hunt them for their meat and horns. Mountain goat populations have declined in some areas due to hunting pressure, and this is likely to continue in the future.
-
-## What is the habitat of mountain goats?
-
-Mountain goats are found in alpine meadows and mountain ranges throughout North America. They typically live at elevations between 3,000 and 12,000 feet, but they have been known to inhabit areas as low as sea level.
-
-Mountain goats are well-adapted to their mountainous habitat. They have thick fur coats that protect them from the cold, and their hooves are specially adapted to grip the rocky terrain.
-
-Mountain goats are also able to climb steep cliffs and slopes with ease, thanks to their agile bodies and sharp claws. This allows them to escape from predators and access the best grazing areas.
-
-## Summary
-
-Mountain goats can kill you if they feel threatened or if they are protecting their young. Their horns are sharp and their hooves are strong, so they can cause serious injury if they attack.
-
-Mountain goats are interesting animals that are well-adapted to their mountainous habitat. They are a valuable source of food for predators, and their fur is used to make clothing and other items.
-
-If you are planning to visit an area where mountain goats live, it's important to be aware of the dangers they pose. Remember to stay away from young mountain goats, and give them plenty of space if you encounter them in the wild.
+Stay at least 50 yards away, don't feed them or let them lick your gear, and take aggressive behavior seriously. If a mountain goat is approaching you and won't back off, get loud and assertive. They're wild animals, and treating them like anything else is a mistake that can cost you. Report any aggressive mountain goat encounters to park rangers so they can track problem animals before someone gets hurt.

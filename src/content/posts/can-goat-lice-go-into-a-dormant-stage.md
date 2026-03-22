@@ -15,16 +15,10 @@ quickAnswer:
 toc:
   - label: "Can goat lice go into a dormant stage?"
     href: "#can-goat-lice-go-into-a-dormant-stage"
-  - label: "What are the stages of dormancy?"
-    href: "#what-are-the-stages-of-dormancy"
-  - label: "What temperature and humidity levels do goat lice prefer?"
-    href: "#what-temperature-and-humidity-levels-do-goat-lice-prefer"
-  - label: "What effect does food availability have on the dormancy of goat lice?"
-    href: "#what-effect-does-food-availability-have-on-the-dormancy-of-goat-lice"
-  - label: "What are goat lice and what do they look like?"
-    href: "#what-are-goat-lice-and-what-do-they-look-like"
-  - label: "How do goat lice spread?"
-    href: "#how-do-goat-lice-spread"
+  - label: "Why lice populations cycle with the seasons"
+    href: "#why-lice-populations-cycle-with-the-seasons"
+  - label: "Biting lice vs. sucking lice"
+    href: "#biting-lice-vs-sucking-lice"
   - label: "What are the symptoms of a goat lice infestation?"
     href: "#what-are-the-symptoms-of-a-goat-lice-infestation"
   - label: "How can you treat an infestation of goat lice?"
@@ -42,131 +36,42 @@ faq:
     answer: "The dormancy of goat lice is affected by food availability in a few different ways."
 ---
 
-You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case?
-
-Here's what you need to know.about goat lice and dormancy, we will address all of your concerns and provide all the information you require.
+Every goat owner has dealt with lice at some point. You treat your herd in winter, the problem clears up by spring, and then it comes roaring back next fall. It's like they disappear and come back from nowhere.
 
 ## Can goat lice go into a dormant stage?
 
-Of course, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your goats have lice, it's best to consult a veterinarian.
+Goat lice don't truly go dormant the way some insects do, but their populations drop so low in summer that they seem to vanish. A few stragglers hang on in the coat, barely reproducing, and then explode in numbers once the conditions favor them again.
 
-## What are the stages of dormancy?
+So while calling it "dormancy" isn't technically accurate, the practical result is the same. The lice appear to go away and then come back, which catches a lot of new goat owners off guard.
 
-There are three stages of dormancy: pre-dormancy, true dormancy, and post-dormancy.
+## Why lice populations cycle with the seasons
 
-Pre-dormancy is the stage where the lice are preparing to go into a dormant state. They will stop feeding and start to slow down their metabolism.
+Lice thrive in the thick winter coats goats grow starting in late fall. The dense hair creates a warm, humid microclimate close to the skin — perfect breeding conditions. Add in the fact that goats huddle together more in cold weather, and lice spread from animal to animal fast.
 
-True dormancy is the stage where the lice are not feeding and their metabolism is at its lowest.
+By late spring, goats shed their winter coats and spend more time in direct sunlight. UV light and heat are natural enemies of lice, which is why summer infestations are rare. The population crashes but a handful of lice survive, waiting for next winter's coat to grow back in.
 
-Post-dormancy is the stage where the lice are starting to come out of dormancy. They will begin to feed and their metabolism will start to increase.
+## Biting lice vs. sucking lice
 
-## What temperature and humidity levels do goat lice prefer?
+There are two types of lice that affect goats, and knowing which one you're dealing with changes how you treat them. Biting lice feed on dead skin, hair, and surface debris. They cause intense itching and rough, damaged coats, but they don't drain blood.
 
-Goat lice are small, wingless insects that feed on the blood of goats. They are most active at temperatures of 77-86 degrees Fahrenheit and humidity levels of 50-70%.
-
-Goat lice can survive for up to two weeks without a blood meal, but they reproduce more quickly at higher temperatures and humidity levels. Nits (lice eggs) are laid on the hairs of the goat and hatch into nymphs (immature lice) in about seven days.
-
-The nymphs go through three molts ( shedding their skin) before reaching adulthood. Female lice can lay up to 300 eggs in their lifetime.
-
-Goat lice are most often found on the head, neck, and shoulders, but they can also be found on the body, legs, and tail. Heavy infestations can cause anemia, weight loss, and unthriftiness in goats.
-
-Lice can also be a nuisance to humans, causing itching and irritation. To control goat lice, you need to maintain good hygiene and cleanliness around goats.
-
-Prompt removal of dead and dying animals from pasture is also important. Chemical control products are available but should be used according to label directions.
-
-Consult with a veterinarian or animal health specialist for more information on controlling goat lice.
-
-## What effect does food availability have on the dormancy of goat lice?
-
-The dormancy of goat lice is affected by food availability in a few different ways.
-
-First, if there's less food available, the lice will be less likely to mate and lay eggs. This can prolong the dormancy period, as the lice will not have new generations hatching and looking for food.
-
-Additionally, food availability can affect the size and health of the lice, which can impact their ability to enter into dormancy. If the lice are malnourished, they may be more susceptible to diseases, which can shorten their life span and make it harder for them to enter into dormancy.
-
-Finally, food availability can also affect the temperature of the environment, which can impact the dormancy of goat lice. If the temperature is too cold or too hot, it can kill the lice or make it difficult for them to enter into dormancy.
-
-This is why food availability is an important factor that can affect the dormancy of goat lice.
-
-## What are goat lice and what do they look like?
-
-There are two main types of goat lice: the body louse and the head louse. Body lice are larger than head lice and are typically found in areas where the hair is thinner, such as around the neck and under the forelegs.
-
-Head lice are smaller and tend to cling to the hair near the goat's head. Both types of lice feed on skin cells and can cause irritation and itching.
-
-In severe infestations, lice can lead to anemia and even death.
-
-Goat lice are most commonly found on animals that are not well-groomed or that live in cramped, unsanitary conditions.
-
-To prevent infestations, goats should be regularly groomed and their living quarters should be clean and spacious. If a goat does become infested with lice, there are several of treatment options available, including insecticide sprays and shampoos.
-
-In most cases, a single treatment is sufficient to eliminate the infestation. But, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
-
-## How do goat lice spread?
-
-Goat lice are most often spread through contact with infected animals. This can happen when goats are kept in close quarters, such as in pens or stables.
-
-Lice can also be spread through the use of shared grooming equipment, such as brushes and combs. To prevent the spread of goat lice, you need to maintain good hygiene and cleanliness around goats.
-
-Prompt removal of dead and dying animals from pasture is also important. This helps to prevent the spread of lice from animal to animal.
-
-Finally, lice can also be spread through contact with contaminated bedding or clothing. To prevent this, you need to wash bedding and clothing in hot water and to avoid sharing these items with other goats.
-
-By following these simple steps, you can help to prevent the spread of goat lice.
+Sucking lice pierce the skin and feed on blood directly. These are the dangerous ones. A heavy sucking lice load can cause anemia — you'll see pale mucous membranes inside the lower eyelid when you pull it down for a FAMACHA check. Young kids and already-weak goats can die from a severe sucking lice infestation.
 
 ## What are the symptoms of a goat lice infestation?
 
-Goat lice typically cause irritation and itching. In severe infestations, lice can lead to anemia and even death.
+Excessive scratching is the first sign you'll notice. Goats rubbing against fence posts, walls, and feeders more than usual are telling you something's bugging them — literally.
 
-Lice can also spread diseases from one goat to another. For this reason, you need to be on the lookout for symptoms of a lice infestation and to treat it promptly.
-
-Some of the most common symptoms of a goat lice infestation include:
-
-- Excessive scratching or grooming
-- Bald spots
-- Scabs or sores on the skin
-- Irritated skin
-- Hot spots
-- Loss of appetite
-- Weight loss
-- Lethargy
-
-If you notice any of these symptoms in your goats, you need to take action immediately. The sooner you treat the infestation, the less damage the lice will be able to do.
+Look for bald patches, scabs, and rough-looking coats, especially around the neck, shoulders, and along the topline. Weight loss and lethargy show up in heavy infestations. If you part the hair near the skin, you can often see the lice crawling around or spot the nits (eggs) glued to hair shafts.
 
 ## How can you treat an infestation of goat lice?
 
-There are a number of different treatment options available for goat lice. The most common include:
+Permethrin dust is the go-to topical treatment for biting lice. Work it into the coat along the back, neck, and belly. For sucking lice, injectable ivermectin is more effective since it gets into the bloodstream where the sucking lice feed.
 
-- Insecticide sprays
-- Insecticide shampoos
-- Dips
-- Powders
-- Dust
+No matter which treatment you use, you need to treat twice — once now, and again 10 to 14 days later. The first treatment kills the adults and nymphs, but it won't kill the eggs. The second round catches the newly hatched lice before they can lay eggs of their own.
 
-In most cases, a single treatment is sufficient to eliminate the infestation. However, you need to follow up with regular grooming and cleanliness to prevent re-infestation.
-
-### Seasonal Patterns of Goat Lice Infestations
-
-Lice populations in goats follow a predictable seasonal pattern that catches many new owners off guard. Infestations peak during the late fall and winter months when goats grow thicker coats and spend more time huddled together in barns.
-
-The warm, dense winter coat creates a perfect microclimate for lice to breed. Shorter daylight hours also weaken the goat's immune response, making it easier for lice to establish themselves.
-
-By late spring, most lice populations naturally decline as goats shed their winter coats and spend more time in the sun. Ultraviolet light and heat are natural enemies of lice. This is why summer infestations are rare unless the herd is overcrowded or in poor health.
-
-### The Difference Between Biting Lice and Sucking Lice
-
-Biting lice feed on dead skin, hair, and surface debris. They cause intense itching but do not directly drain blood from the goat. You will notice excessive scratching and patches of rough, damaged hair.
-
-Sucking lice pierce the skin and feed on blood. These are the ones that cause anemia in severe cases. A goat with a heavy sucking lice load will have pale mucous membranes inside the lower eyelid.
-
-Knowing which type you are dealing with matters because treatment options differ slightly. Sucking lice respond well to systemic treatments like injectable ivermectin, while biting lice often require topical products that make direct contact with the insects.
+Clean the bedding in the barn after each treatment. Lice can survive off the host for a short time, and dirty bedding becomes a reinfection source.
 
 ## Final Thoughts
 
-Goat lice can go into a dormant stage when food availability is low. This can happen when goats are not well-groomed or when they live in cramped, unsanitary conditions.
+Goat lice don't truly hibernate, but their seasonal population crash and resurgence can feel like it. Treat preventively in early fall before the winter coat fills in, and you can stay ahead of the cycle.
 
-To prevent the spread of goat lice, you need to maintain good hygiene and cleanliness around goats. Prompt removal of dead and dying animals from pasture is also important.
-
-If you notice any symptoms of a lice infestation, you need to take action immediately. The sooner you treat the infestation, the less damage the lice will be able to do.
-
-There are a number of different treatment options available for goat lice, and most cases can be resolved with a single treatment. However, it's important to follow up with regular grooming and cleanliness to prevent re-infestation.
+When you do treat, always hit them twice 10 to 14 days apart. One round won't get the job done because the eggs survive the first treatment. Stay on top of it and your herd will get through winter itch-free.
