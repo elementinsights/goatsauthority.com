@@ -37,103 +37,48 @@ faq:
   - question: "What are the common problems during goat pregnancy?"
     answer: "There are various problems that may occur during goat pregnancy. One common problem is premature delivery, which can happen when the doe is stressed or if there are problems with the placenta."
 ---
+Yes, a doe carrying multiples can lose one kid and continue carrying the others. This happens more often than most people realize, especially in early pregnancy when the lost fetus can be reabsorbed by the body without any obvious signs.
 
-You might be wondering whether it's possible for a goat to miscarry one kid and still be pregnant or not. And if so, what are the chances?
-
-We will explore the answer to this question and provide you with additional nursing tips, FAQs, and more to help you take care of your goat during pregnancy.
+If the loss happens later in pregnancy, the dead fetus may be expelled as a mummified kid while the remaining kids continue to develop normally.
 
 ## Can a goat miscarry one kid and still be pregnant?
 
-Then again, there's no guarantee that a doe (female goat) will not miscarry all of her fetuses if she loses one early on in the pregnancy. It's important to consult with a goat expert if this occurs, as they will be able to better assess the situation and offer guidance on how to proceed.
+When a doe loses a fetus in the first few weeks, her body often reabsorbs it completely. You might never know it happened unless you had an early ultrasound that showed more kids than she eventually delivers.
+
+Later losses are more visible. You may see a one-time bloody discharge, mild cramping, or the doe passing tissue. If she settles down and goes back to eating and acting normal afterward, there's a good chance she's still carrying the remaining kids.
 
 ## What to do if your goat has a miscarriage?
 
-If your goat has a miscarriage, the first thing you should do is contact a goat expert. They will be able to help you determine the cause of the miscarriage and provide you with information on how to care for your goat during this difficult time.
+Get a vet out for an ultrasound as soon as you suspect a partial loss. The ultrasound will confirm whether remaining fetuses are alive and developing normally, and most vets recommend doing this within 48 hours of the suspected miscarriage.
 
-Miscarriage can be caused by many different things, including infection, stress, or even dietary deficiencies.
-
-Once the cause has been determined, your vet will be able to recommend the best course of treatment. In some cases, goats may need antibiotics to clear an infection or special care to minimize stress.
-
-Providing your goat with the best possible care will help them recover from their loss and ensure a healthy pregnancy in the future.
+Watch the doe closely for signs of infection over the following days. A fever above 104 degrees, foul-smelling discharge, or refusal to eat are all red flags that something is wrong. If any of these show up, she likely needs antibiotics right away to protect both her and the remaining kids.
 
 ## How to care for a pregnant goat?
 
-To care for a pregnant goat, start by providing her with plenty of food and water. Make sure to keep her living area clean, and provide her with plenty of hay to sleep on.
+A doe recovering from a partial miscarriage needs extra calories and minerals. Bump up her grain ration by about 25% and make sure she has free-choice access to a quality goat mineral supplement.
 
-As the pregnancy progresses, you'll need to give the goat more space to move around. You should also start thinking about where you'll want to deliver the kids.
-
-Once the goats are born, you'll need to provide them with plenty of food and water, as well as a clean living area. If you have any questions about how to care for a pregnant goat, or if you're concerned about any health problems, be sure to talk to a veterinarian.
+Selenium and vitamin E are especially important during pregnancy. Low selenium levels are one of the leading causes of pregnancy problems in goats, so ask your vet whether a BoSe injection is appropriate for your doe.
 
 ## What are the common problems during goat pregnancy?
 
-There are various problems that may occur during goat pregnancy. One common problem is premature delivery, which can happen when the doe is stressed or if there are problems with the placenta.
+Pregnancy toxemia (ketosis) is common in does carrying multiples during the last month of pregnancy. The growing kids take up so much room that the doe can't eat enough to meet her calorie needs, and her body starts breaking down fat too quickly.
 
-Another issue that can arise is dystocia, which is when the kidding (giving birth) process is prolonged and difficult.
-
-This can happen if the goat is too large, if the kidding position is unfavorable, or if there are twins or triplets. In some cases, a cesarean section may be necessary to safely deliver the goats.
-
-Finally, pseudopregnancy is a condition that can occur in does who have not been mated but show signs of pregnancy, such as milk production. While this condition is not harmful to the doe, it can be frustrating for farmers who are trying to breed their goats.
+Dystocia happens when a kid is positioned wrong for delivery. A leg back, a head turned, or a breech presentation can all cause a difficult birth that requires hands-on assistance or a vet call.
 
 ## Tips for kidding season
 
-Kidding season is a hectic time for any goat farmer. Not only do you have to keep a close eye on your does as they give birth, but you also need to make sure that the kids are getting enough colostrum and are healthy overall.
+Have your kidding kit packed and ready at least two weeks before the due date. Include clean towels, iodine for navel dipping, a bulb syringe, dental floss for cords, and a bottle with nipple for supplementing weak kids.
 
-Here are a few tips to help make the kidding season go as smoothly as possible:
-
-First, it's important to have a clean, dry kidding pen set up before your does start giving birth. This will help to reduce the risk of infection and will make it easier to keep an eye on the does and kids.
-
-Make sure that the pen is large enough for the doe to lie down comfortably, and that there's plenty of fresh bedding available.
-
-Second, it's important that the does have access to fresh water at all times during kidding season. They will be nursing their kids frequently and will require extra hydration to keep up their milk production.
-
-Make sure to check water buckets regularly and top them off as needed.
-
-Finally, be prepared for anything during the kidding season. Have a first aid kit on hand in case of an emergency, and know how to care for newborn kids if they need assistance nursing or are otherwise not doing well.
-
-With a little preparation, you can help make the kidding season go as smoothly as possible for both the does and the kids.
+Keep colostrum replacer on hand in case the doe can't produce enough for all her kids. Those first hours of colostrum intake are the difference between a strong kid and one that struggles to survive.
 
 ## The basics of goat reproduction
 
-Goats are mammals, and like all mammals, they reproduce by sexual intercourse. Two goats, a male, and a female come together, and the male mounts the female from behind.
+Goats have a gestation period of about 150 days, or roughly five months. Most breeds are seasonal breeders that cycle in the fall as daylight hours decrease, though some breeds like Nigerian Dwarfs can breed year-round.
 
-He penetrates her with his penis and inserts his sperm into her vagina.
+A doe can carry anywhere from one to five kids, though twins and triplets are by far the most common outcomes. The number of kids generally increases with the doe's age, body condition, and the quality of her nutrition during breeding season. First-time does almost always have singles regardless of breed.
 
-The sperm travel up through the cervix and into the uterus, where they fertilize the eggs. The fertilized eggs then implant themselves in the wall of the uterus and begin to grow.
+## Final Thoughts
 
-Pregnancy in goats usually lasts around 145 days or about five months. During this time, the mother's body will undergo a number of changes to accommodate the growing fetus.
+A partial miscarriage doesn't mean the whole pregnancy is lost. Many does go on to deliver healthy kids after losing one early in the pregnancy.
 
-Her abdomen will enlarge as the baby grows, and she may gain weight. The mother will also produce more milk during pregnancy to nourish her growing offspring.
-
-Giving birth is called parturition, and in goats, it typically occurs without any assistance from humans. However, sometimes complications can arise during labor, so it's important to be aware of the signs of distress in mothers who are giving birth.
-
-These can include excessive panting, restlessness, or bleeding. If you see any of these signs, you need to contact a veterinarian for help.
-
-After giving birth, the mother goat will produce milk for her young. This milk is called colostrum, and it's essential for the baby's health.
-
-Colostrum is high in nutrients and antibodies, which help to protect the newborn from disease.
-
-Baby goats will typically start drinking milk from a bottle or bucket after about two weeks, but they should continue to nurse from their mothers for at least four weeks. After that, they can be slowly introduced to solid food like hay or pellets.
-
-### When to Get an Ultrasound After a Partial Miscarriage
-
-If you suspect your doe has lost one kid but is still carrying others, schedule an ultrasound with your vet as soon as possible. An ultrasound can confirm whether remaining fetuses are alive and developing normally.
-
-Most vets recommend doing this within 48 hours of the suspected miscarriage. The sooner you know how many viable kids remain, the better you can adjust her nutrition and care plan.
-
-Keep in mind that a doe who has partially miscarried is at higher risk for infection. Watch for foul-smelling discharge, fever above 104 degrees, or refusal to eat. These are all signs that she may need antibiotics right away.
-
-### Nutritional Support After a Partial Loss
-
-A doe recovering from a partial miscarriage needs extra calories and minerals to support the remaining pregnancy. Bump up her grain ration by about 25 percent and make sure she has free-choice access to a quality goat mineral supplement.
-
-Selenium and vitamin E are especially important during this time. Low selenium levels are actually one of the leading causes of pregnancy problems in goats across many regions. Ask your vet whether a BoSe injection is appropriate for your doe.
-
-## Quick Recap
-
-Goats can miscarry one kid and still be pregnant. This is because they are mammals and reproduce by sexual intercourse.
-
-Pregnancy in goats usually lasts around 145 days or about five months.
-
-Giving birth is called parturition, and in goats, it typically occurs without any assistance from humans. However, sometimes complications can arise during labor, so you must be aware of the signs of distress in mothers who are giving birth.
-
-Baby goats will typically start drinking milk from a bottle or bucket after about two weeks, but they should continue to nurse from their mothers for at least four weeks. After that, they can be slowly introduced to solid food like hay or pellets.
+The most important steps are getting a vet ultrasound to check on the remaining kids, watching for infection, and boosting the doe's nutrition to support the rest of the pregnancy. Stay calm, stay observant, and give her the extra care she needs.

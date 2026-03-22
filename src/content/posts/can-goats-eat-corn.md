@@ -39,121 +39,46 @@ faq:
   - question: "What is corn and what are the types of corn?"
     answer: "You may not realize it, but corn is actually grass. Its scientific name is Zea mays, and it's part of the Poaceae family, which also includes wheat, oats, and rice."
 ---
-
-Corn is a common food found in many parts of the world, and it's also a popular choice to feed livestock animals. But the question is, can goats eat corn?
-
-We will discuss the answer to the question along with the benefits, risks, serving size, and FAQs related to feeding corn to goats.
-
-**Trending Products For Goats**
+Yes, goats can eat corn, but you need to feed it carefully. Corn is high in starch and energy, and too much of it can cause serious digestive problems including acidosis.
 
 ## Can goats eat corn?
 
-Corn is also a good source of energy for goats. Like oats and alfalfa, corn helps provide the energy goats need to maintain their activity levels.
+Corn is safe for goats as part of a balanced diet. It provides quick energy and is commonly used as a grain supplement alongside hay and pasture.
 
-Corn is also a good source of vitamins and minerals for goats.
-
-So, if you are looking for a good source of food for your goat, corn may be a good option.
-
-## Can a pregnant goat eat corn?
-
-A pregnant goat can eat corn. As a matter of fact, corn is a good source of food for pregnant goats.
-
-Pregnant goats need a diet that is high in fiber, and corn is a good source of fiber. Pregnant goats also need a diet that is high in protein, and corn is a good source of protein.
-
-Corn is also a good source of energy for pregnant goats. Pregnant goats need to eat a lot of food to maintain their energy levels, and corn can help provide that energy.
-
-Corn is also a good source of vitamins and minerals for pregnant goats.
-
-## Can a baby goat eat corn?
-
-Corn is a type of grain that is safe for baby goats to eat. You can give your goat corn kernels, corn on the cob, or even popcorn.
-
-Baby goats need a diet that includes both hay and grain in order to get all the nutrients they need. Corn is a good source of carbohydrates, which are an important energy source for baby goats.
-
-You can either offer corn as a treat or mix it into your goat's hay. Either way, your goat will enjoy munching on this delicious grain.
+The important thing is moderation. Corn should make up no more than about 50% of the grain portion of the ration, and grain itself should only be a small part of the overall diet. The bulk of what a goat eats should always be forage.
 
 ## The benefits of feeding corn to goats
 
-Corn is a staple feed for goats and there are many benefits to feeding them this grain. One benefit's that corn is a good source of energy for goats.
+Corn is one of the cheapest grain options available, which is why so many goat owners use it. It is a solid energy source for lactating does, growing kids, and meat goats being finished for market.
 
-This is especially important for lactating does or those that are being used for meat production. Corn is also a good source of protein, which is essential for proper growth and development.
-
-Corn contains essential vitamins and minerals, such as vitamin A, thiamine, and niacin. These nutrients are necessary for the overall health of goats.
-
-Finally, corn is a relatively inexpensive feed option, making it a good choice for those on a budget. When fed in moderation, corn can be a healthy and nutritious part of a goat's diet.
+It also provides some protein, fiber, and B vitamins. Dried corn on the cob makes a good treat that keeps goats busy, and cornhusks and cornstalks are safe for goats to chew on and enjoy.
 
 ## The risks of feeding corn to goats
 
-You might be wondering if corn is a good idea to feed your goats. Here, we will go over the risks of feeding corn to goats so that you can make the best decision for your animals.
+The biggest danger with corn is acidosis, also called grain overload. When a goat eats too much corn at once, the starch ferments rapidly in the rumen, dropping the pH to dangerous levels. Symptoms include grinding teeth, refusing to move, kicking at the belly, and bloating.
 
-One of the biggest dangers of feeding corn to goats is that it can lead to blackheads. Blackhead is a disease that is caused by a parasite, and it can be deadly to goats.
-
-The parasites live in the goat's intestines and eat the food that the goat ingests.
-
-The problem with corn is that it's high in sugar and can provide the perfect environment for the parasites to thrive. For this reason, a blackhead can quickly kill a goat if it's not treated immediately.
-
-Another issue with feeding corn to goats is that it can cause them to become overweight. Goats are naturally slim animals, and they do not need high-calorie foods like corn to stay healthy.
-
-In fact, too much corn can lead to obesity and other health problems in goats. If you do decide to feed your goats corn, be sure to do so in moderation and monitor their weight closely.
-
-One more thing: corn is not a natural part of a goat's diet. Goats are grazing animals, and they should primarily eat grasses and other plants.
-
-Feeding them large quantities of corn can upset their digestive system and cause health problems.
-
-If you do choose to feed your goats corn, make sure to do so sparingly and only as part of a well-rounded diet.
+Acidosis is a veterinary emergency that can kill a goat in hours. Never let goats have free access to a corn bin or feed room, because a goat that gorges on corn can be dead by the next morning. Always measure out portions and store grain behind a secure, goat-proof door.
 
 ## The serving size for corn when feeding goats
 
-it's recommended to feed no more than 10-15% of the ration as grain. Goats should not be put on a grain diet as it's too rich for their stomach and can cause bloat.
+Start small and work up slowly over a couple of weeks. A good starting point for an adult goat is half a cup of corn per day, gradually increasing to no more than about 1 to 1.5 lbs of total grain daily depending on the goat's size and production needs.
 
-When first adding grain to a goat's diet, start with a small amount and gradually increase it over a few weeks.
+Whole corn is safer than cracked corn because it ferments more slowly in the rumen. Cracked corn is digested faster and delivers energy quicker, which makes it better for dairy goats but riskier if you overfeed it. Either way, always provide plenty of hay alongside any grain.
 
-This will help prevent digestive upset. If fed too much grain, goats may also develop manure that is soft or runny.
+## Can a pregnant goat eat corn?
 
-The best way to avoid these problems is to only feed a small amount of grain per day and supplement with hay and/or pasture.
+Pregnant does can eat corn, and many breeders increase grain during the last six weeks of pregnancy when the kids are growing fastest. A small amount of corn mixed with their regular feed gives them the extra calories they need.
 
-Adult goats only require 2-3 lbs of grain per day while kids need 6-8% of their body weight in grain per day. For example, if you have a doe that weighs 100lbs, she would need 10lbs of grain per day.
+Do not overdo it with pregnant does. Too much grain in late pregnancy can lead to oversized kids and difficult deliveries. A handful of corn twice a day on top of good quality hay is plenty for most pregnant goats.
 
-A 60lb kid would need 3-4lbs of grain per day.
+## Can a baby goat eat corn?
 
-Grain can be fed in the form of pellets, cracked corn, or whole kernels. Feeding whole kernels are cheaper but takes longer for the goats to eat and can lead to waste.
+Kids can start nibbling on a little corn once they are eating solid food, usually around two to three weeks old. Offer it in small amounts mixed with other grains so they get used to it gradually.
 
-Feeding pellets are more expensive but goats can eat them faster and there's less wasted feed.
+A kid's rumen is still developing, so go slow. Too much corn too early can cause digestive upset and throw off rumen development. Let kids build up to it over several weeks.
 
-Cracked corn is somewhere in between the two in terms of price and feeding time. It's up to the individual goat owner to decide which form of grain to feed their goats.
+## What to remember
 
-## What is corn and what are the types of corn?
+Corn is a fine feed for goats when you control the amount. Keep it as a supplement to hay and pasture, not the main course. Store all corn and grain securely so goats cannot break in and eat themselves sick.
 
-You may not realize it, but corn is actually grass. Its scientific name is Zea mays, and it's part of the Poaceae family, which also includes wheat, oats, and rice.
-
-Corn is native to the Americas, and it was first domesticated by Native Americans over 7,000 years ago. Today, it's one of the most widely-grown crops in the world.
-
-There are three main types of corn: sweet corn, field corn, and popcorn. You may also wonder whether goats can eat sweet potatoes or potatoes as alternative energy sources. Sweet corn is the type that you usually eat as a vegetable.
-
-It has a high sugar content, and it's often used in salads or boiled as a side dish.
-
-Field corn is used for animal feed or to make ethanol fuel. Popcorn is made from a special type of field corn that has a hard outer shell.
-
-When heated, the water inside the kernel turns to steam and expands, causing the kernel to pop.
-
-### Whole Kernel vs. Cracked Corn: Which Is Better?
-
-Cracked corn is easier for goats to digest because the hard outer shell has already been broken. Whole kernels pass through the digestive system partially undigested, which means your goat is not getting the full nutritional benefit.
-
-If you are feeding corn to dairy goats, cracked corn is the clear winner. The faster digestion means the energy is available sooner for milk production. For meat goats being finished for market, whole kernel corn can work fine since they are eating larger quantities anyway.
-
-Store cracked corn in a sealed metal bin to keep moisture and rodents out. Cracked corn absorbs moisture faster than whole kernels and can mold within days in a humid barn.
-
-### Signs You Are Feeding Too Much Corn
-
-The first warning sign is soft, clumpy droppings instead of firm pellets. A healthy goat produces well-formed pellets, and any change in consistency means the rumen pH is off balance.
-
-A goat that gets too much corn can develop acidosis, which is a dangerous drop in rumen pH. Symptoms include grinding teeth, not wanting to move, and kicking at the belly. This is a veterinary emergency that requires immediate attention.
-
-## Quick Recap
-
-Goats can eat corn, However, there are some risks to consider before adding it to their diet. Corn is high in sugar and can lead to blackheads if not fed in moderation.
-
-Corn can cause goats to become overweight if they eat too much of it.
-
-Finally, corn is not a natural part of a goat's diet and can upset their digestive system if not fed in moderation. If you do choose to feed your goats corn, make sure to do so sparingly and only as part of a well-rounded diet that includes vegetables and quality forage.
+If you see soft, clumpy droppings instead of firm pellets, you are feeding too much grain. Back off the corn, increase the hay, and the droppings should firm back up within a day or two.

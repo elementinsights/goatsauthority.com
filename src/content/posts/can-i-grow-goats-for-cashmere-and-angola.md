@@ -35,106 +35,48 @@ faq:
   - question: "What are the dietary and housing requirements for raising goats for cashmere and Angola fiber production?"
     answer: "There are a few key dietary and housing requirements that must be met in order to successfully raise goats for cashmere and Angola fiber production."
   - question: "What are the benefits and challenges of raising goats for fiber production?"
-    answer: "Raising goats for fiber production comes with both benefits and challenges. On the one hand, raising fiber goats can help to provide sustainable and eco-friendly sources of raw materials for textiles and other products."
+    answer: "Raising goats for fiber production comes with both benefits and challenges. On the one hand, raising fiber goats can help to provide sustainable and eco-friendly sources of raw materials for textiles and other products."
 ---
-Good goat management starts with solid information. If you're wondering whether you can raise goats for cashmere and Angola.
-
-And if so, what are the things you need to consider before getting started?
-
-we will answer all your questions regarding raising goats for cashmere and Angola. We'll discuss what you need to know about the different breeds of goats, their diet and housing requirements, as well as the benefits and challenges of this business venture.
+Yes, you can raise goats for fiber, but first let's clear something up. The correct term is Angora, not Angola. Angora goats produce mohair, while cashmere comes from the downy undercoat of many different goat breeds.
 
 ## Can I grow goats for Cashmere and Angola?
 
-In addition, you'll need to be familiar with the cashmere and Angola processing methods, as this will determine the quality and value of your product.
+You can absolutely raise fiber goats, and you can even raise both types on the same farm. Just understand that cashmere and mohair are two completely different products from two different kinds of goats.
 
-Despite the challenges, raising goats for cashmere and Angola can be a rewarding and profitable business venture. With the right knowledge and preparation, you can successfully raise healthy and productive goats that will provide you with a steady income stream.
+Cashmere is the soft, fine undercoat that grows beneath the outer guard hair on many goat breeds. Angora goats produce mohair, which is a long, lustrous fiber that grows continuously like sheep wool. Both have strong markets, but they require different management approaches.
 
 ## What are the different breeds of goats and what do they produce?
 
-There are many different breeds of goats, each with its own unique set of characteristics and uses. Some of the most common types of goats include dairy goats, meat goats, and fiber goats.
+Angora goats are the primary mohair producers. They are shorn twice a year and a good adult Angora can produce 8 to 16 lbs of mohair annually. The fiber is strong, takes dye well, and is used in high-end textiles.
 
-Dairy goats are well known for their high-quality milk, which is commonly used in the production of cheese and other dairy products.
-
-These hardy animals are typically small to medium in size, and they are known for having long, droopy ears and short beards. They can produce up to a gallon of milk per day, depending on the breed and other factors.
-
-Meanwhile, meat goats are large, powerful animals that are bred specifically for their ability to produce large quantities of lean meat.
-
-They have wide bodies and strong legs, making them ideal for raising on small farms or in backyards where space is limited. As their name suggests, these goats are also excellent at converting food into usable muscle mass.
-
-Finally, fiber goats are known for producing high-quality wool that can be used in the production of clothing and other textiles. These hardy animals usually have long tails and heavy coats to protect them from extreme weather conditions like cold temperatures or rainstorms.
-
-Whether raised for their milk or fiber, all types of goats play an important role in agriculture by helping people to feed their families and earn an income through the sale of products like milk or wool.
+Cashmere is not tied to a single breed. Spanish goats, Kikos, and even some dairy crosses can produce usable cashmere. Dedicated Cashmere goats exist too, but any goat with a fine downy undercoat can yield cashmere. The catch is that each goat only produces about a quarter to one pound of cashmere per year, harvested by combing once in late winter or early spring.
 
 ## What are the dietary and housing requirements for raising goats for cashmere and Angola fiber production?
 
-There are a few key dietary and housing requirements that must be met in order to successfully raise goats for cashmere and Angola fiber production.
+Fiber goats need good nutrition to grow quality fleece. A diet of quality hay, browse, and a grain supplement keeps the fiber dense and strong. Thin or stressed goats produce weak, brittle fiber that breaks during processing.
 
-First, goats need to be fed a nutritious diet that is high in protein and essential nutrients. This can typically be achieved by providing commercial goat feed supplemented with hay or pasture, depending on the stage of growth of the goats.
-
-And also, goats should have access to fresh water at all times. As far as housing is concerned, it is important to provide adequate space and ventilation in order to promote good health among the goats.
-
-Ideally, there should be enough space for each goat to lie down comfortably and get up without difficulty. Similarly, ventilation must be maintained through natural airflow or air circulation devices in order to minimize the risk of respiratory infections in the herd.
-
-While some goat farmers may opt for outdoor housing, indoor housing offers better temperature regulation and protection from predators for young or sick goats.
-
-Raising goats for cashmere and Angola fiber production requires careful attention to dietary and housing needs in order to make sure optimal productivity and animal welfare.
+Housing needs to be dry and draft-free but well ventilated. Angora goats are especially vulnerable to cold rain right after shearing because they lose their insulation completely. Have a dry barn ready for freshly shorn Angoras, particularly if you shear in early spring when the weather is still unpredictable.
 
 ## What are the benefits and challenges of raising goats for fiber production?
 
-Raising goats for fiber production comes with both benefits and challenges. On the one hand, raising fiber goats can help to provide sustainable and eco-friendly sources of raw materials for textiles and other products.
+Fiber goats are relatively low-maintenance compared to dairy goats, and the product stores well without refrigeration. You can sell raw fleece, process it yourself, or connect with fiber mills and hand spinners who are always looking for quality material.
 
-These animals require relatively little space and feed compared to other livestock, such as cows or sheep, making them an ideal choice for small-scale farmers or backyard homesteaders.
-
-In addition, goat fur is renowned for its quality and versatility, with a range of natural dyes available to color the fibers in various ways.
-
-Keep in mind, there are also challenges associated with raising goats for fiber production. One major issue is that goats require specialized care in order to yield high-quality wool or cashmere.
-
-For example, they need regular grooming to prevent the buildup of dirt and debris in their coats, as well as dietary supplements such as high-quality hay or commercially prepared nutrients that are specific to the needs of these animals.
-
-Goat populations may become overpopulated if not managed carefully, putting pressure on the local environment and competing with other livestock species for resources like grasslands or water sources.
-
-Despite these challenges, many people continue to raise goats for fiber production because of the benefits that it provides.
+The challenge is volume. Cashmere goats produce very little fiber per animal, so you need a sizable herd to make meaningful income from cashmere alone. Angora goats produce more fiber per head but are more delicate animals that need extra care after shearing and during cold or wet weather.
 
 ## How much money can you make from raising goats for fiber production?
 
-There is no definitive answer to the question of how much money you can make by raising goats for fiber production.
+Raw cashmere sells for roughly $15 to $25 per ounce depending on quality, color, and fineness. A single goat producing half a pound of cashmere is worth around $120 to $200 in raw fiber per year.
 
-Factors that can impact your earnings include things like the cost of feed and equipment, the size of your herd, the condition of your land, and other variables.
-
-Some people may find that dairy goats are a more profitable option than meat or fiber breeds, as they tend to produce more milk and therefore generate more income.
-
-But, this will also depend on things like market demand for goat's milk and whether you want to sell raw milk or convert it into dairy products.
-
-So, it is up to you as a farmer to determine what approach will work best for your particular situation, and there is no one-size-fits-all formula for determining profitability in this industry.
-
-Be aware, with a bit of research and planning ahead, you can certainly increase your chances of success by raising goats for fiber production.
+Mohair from Angora goats sells for less per pound but the volume is much higher. Raw kid mohair, the softest grade, can bring $8 to $15 per pound, while adult mohair runs lower. An Angora producing 12 lbs of mohair a year could bring in $100 to $180 in raw fiber. Selling directly to hand spinners or processing it yourself increases the margin significantly.
 
 ## How to get started in raising goats for fiber production?
 
-There are a few key things that you need to think about when getting started in raising goats for fiber production. The first step is to choose the right breed of goats for your goals and environment.
+Pick one fiber type to start with and learn it well before branching out. If you live in a cold climate with harsh winters, cashmere production may come naturally since cold temperatures and short daylight hours trigger cashmere growth.
 
-There are many different goat breeds out there, each with their own characteristics and requirements.
-
-Some breeds, like Angora or Cashmere goats, are known for their high-quality fiber, while others, like Pygora goats, produce a mixed fleece that combines both cashmere and angora wool.
-
-Once you've selected the right breed of goat for your needs, it's important to consider your feed and grazing options. Goats are browsers by nature and do their best on a diet that consists primarily of grasses and foliage.
-
-However, in order to make sure optimal fiber growth and quality, you may need to supplement their diet with additional nutrients from hay or commercially prepared feed pellets.
-
-You will also need to provide them with plenty of fresh water at all times, as goats can become dehydrated very quickly if not adequately hydrated.
-
-Other considerations when raising goats for fiber production include fencing options and shelter needs. Because goats are herd animals by nature, most goat owners recommend that you raise more than one if you're interested in growing high-quality fibers.
-
-Keeping your goats safe by using adequate fencing is essential not only to protect them from potential predators but also to safeguard neighboring property from accidental trampling or crop damage.
-
-Finally, since goats require ample ventilation during hot months but protection from harsh weather during colder periods of the year, it's important to provide suitable shelter so that they can maintain optimal body temperature year-round.
-
-With these considerations in mind, you can be sure to successfully raise healthy and happy goats that produce high-quality fibers for years to come.
+For Angora goats, look for registered breeders with proven bloodlines and fiber quality records. Start small with 5 to 10 animals, learn to shear or comb properly, and build relationships with fiber buyers and local spinning guilds. Climate matters with Angoras because they need to be protected from cold rain after shearing.
 
 ## Final Thoughts
 
-There are many things to consider when deciding whether or not to raise goats for fiber production. However, if you do your research and plan ahead, you can be sure to set yourself up for success in this rewarding endeavor.
+Raising goats for cashmere or mohair is a real business that plenty of small farmers make work. Just remember that cashmere comes from the undercoat of many breeds while mohair comes specifically from Angora goats.
 
-Not only can you provide yourself with a valuable source of income, but you can also enjoy the satisfaction of knowing that you're helping to sustain a centuries-old tradition of using natural fibers to create beautiful textiles.
-
-No matter what your reasons for wanting to raise goats for fiber production are, be sure to carefully consider all of the factors involved before getting started in this rewarding endeavor.
+Pick the fiber that fits your climate and your goals, start with good breeding stock, and keep your animals well fed. Quality fiber starts with healthy goats.

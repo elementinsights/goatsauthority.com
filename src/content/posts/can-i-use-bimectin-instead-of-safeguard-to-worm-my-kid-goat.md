@@ -37,114 +37,47 @@ faq:
   - question: "What are the things you need to keep in mind when using Bimectin on your kid goats?"
     answer: "When using Bimectin on your kid goats, there are a few important things to keep in mind. First and foremost, you should always follow the dosing instructions carefully."
 ---
-We all know that goats need to be wormed, but what's the best way to do it? Can you use Bimectin instead of Safeguard?
 
-And if so, what are the things you need to keep in mind?
-
-we will answer those questions and provide you with addition information on worming your kid goats.
+Bimectin and SafeGuard are both dewormers, but they belong to completely different drug classes and kill different parasites. You can't just swap one for the other without understanding what you're actually treating.
 
 ## Can I use bimectin instead of safeguard to worm my kid goat?
 
-It can be given to**goats as young as two weeks old.
+You can use Bimectin on kid goats, but it's not a direct replacement for SafeGuard. Bimectin contains ivermectin, which belongs to the avermectin class and targets roundworms plus external parasites like lice and mites.
 
-Bimectin is not only effective against bots, but it's also ideal for kid goats. Safeguard, however, while being an oral wormer itself, isn't as effective against bots.
-
-So if you have kid goats and are using Safeguard to treat them, then you will need to use Bimectin in order to completely eliminate the bot problem.
-
-When using any wormer, it is important to follow the dosage and administration recommendations on the product label. It is also important to consult with your veterinarian to make sure you are using the best wormer for your goats and their specific situation.
+SafeGuard contains fenbendazole, a benzimidazole that targets roundworms and tapeworms. If your kid has tapeworms, Bimectin won't touch them. You need to know what parasites you're dealing with before choosing which product to reach for.
 
 ## What is Bimectin and how does it work on your kid goats?
 
-Bimectin is a popular medication used to treat parasite infestations in livestock, including goats. This drug contains ivermectin, which is an antiparasitic agent that works by disrupting the nervous system of certain parasites, such as scabies mites, and intestinal worms.
+Bimectin works by paralyzing the nervous system of parasites, which kills them. It's effective against barber pole worms, brown stomach worms, lungworms, and several types of external parasites.
 
-When given to goats, Bimectin quickly gets to work eliminating any existing parasites, while also providing protection against future infestations. In addition, this drug can be administered orally or topically with minimal risk of side effects.
-
-So if you are looking for a safe and effective way to keep your kid's goats healthy and happy, then Bimectin may be the right choice for you.
+For goats, ivermectin products are typically given orally rather than by injection, even though the bottle may say injectable. Oral dosing in goats gives better absorption and effectiveness against gut parasites than the injectable route does.
 
 ## When should you use Bimectin instead of Safeguard on your kid goats?
 
-There is no single definitive answer to the question of when you should use Bimectin instead of Safeguard on your kid goats.
+Choose Bimectin when your kid goat has a confirmed roundworm load and you also need to knock out lice or mites at the same time. It handles both internal and external parasites in one dose, which is a real advantage.
 
-The best approach is to take into account a range of factors, including the age and general health of the animal as well as any specific characteristics or conditions that may affect its treatment.
-
-For example, if you're dealing with a very young goat that is underweight or weak, it may be better to choose Bimectin over Safeguard.
-
-That's because this particular breed tends to be more delicate and can have trouble tolerating strong medications like Safeguard.
-
-On the other hand, older goats or those with a generally strong constitution may do better with more powerful treatments like Safeguard.
-
-It's important to be aware of both the pros and cons of each medication, taking into account your individual situation as well as any special considerations that might apply in your case.
-
-With this information in mind, you can make an informed decision about which medication is best for your kid goats.
+Stick with SafeGuard when you're dealing with tapeworms or when you want a dewormer with a wider safety margin for very young or weak kids. SafeGuard is one of the hardest dewormers to overdose, which makes it a safer choice for small or underweight animals.
 
 ## What are the things you need to keep in mind when using Bimectin on your kid goats?
 
-When using Bimectin on your kid goats, there are a few important things to keep in mind. First and foremost, you should always follow the dosing instructions carefully.
+Both Bimectin and SafeGuard are used off-label in goats, meaning there's no FDA-approved goat dosage on the bottle. You need to use goat-specific dosing, not the cattle dose printed on the label.
 
-This will help make sure that you administer the correct amount of medication and that you do not overdose your goats.
-
-It is important to make sure that your kids have access to plenty of water while they are taking this medication. Water helps to flush out the system and prevent any potential side effects or complications from occurring.
-
-You should also be aware of any potential interactions with other drugs or medications that your kid goats may be taking, and avoid mixing Bimectin with these substances to protect their health.
-
-The key is being informed and taking all of the necessary precautions to minimize any risks and maximize the benefits.
+For ivermectin given orally to goats, the standard dose is 1ml per 50 lbs of body weight using the 1% injectable solution given by mouth. Weigh your kids on a scale rather than guessing, because underdosing is the fastest road to building drug-resistant parasites in your herd.
 
 ## How to worm your kid goats with Bimectin?
 
-There are many different ways to worm your kid goats, but the most common and effective method is using a product like Bimectin.
+Run a fecal egg count before you treat. Pull down the lower eyelid and check the FAMACHA score too. If the membrane is bright red or dark pink, your kid probably doesn't need deworming at all.
 
-This is an easy and straightforward process that involves adding the appropriate dose of Bimectin to your goats' food or drinking water. Depending on their weight and age, you will need to administer a certain amount of the drug.
-
-It is typically recommended that you start with a lower dosage and work your way up, as this will help to minimize potential side effects like diarrhea or bloating.
-
-To optimize the effectiveness of Bimectin, it's important to maintain good hygiene practices by making sure that your goats' feed and water containers are clean and free from debris or other contaminants.
-
-By following these simple steps, you can be confident that your goats are getting the worms they need to stay healthy.
+When treatment is needed, draw up the correct dose and squirt it over the back of the tongue using a syringe without a needle. Follow up with another fecal egg count 10 to 14 days later to confirm the dewormer actually worked.
 
 ## Additional information on worming your goats
 
-There are a number of different approaches that you can take when worming your goats, depending on the type of parasite you are trying to treat. Generally speaking, deworming can be divided into three main categories: anthelmintic, insecticidal, and antibacterial treatments.
+Rotate between dewormer classes every year or two to slow resistance. Bimectin is an avermectin and SafeGuard is a benzimidazole, so switching between them gives parasites less chance to adapt.
 
-An anthelmintic treatment is designed to combat a broad range of worms and parasites in your goats, targeting both adult stages as well as larvae and eggs.
-
-This type of treatment usually comes in the form of oral pastes or powders that are fed directly to your goats. If you go this route, it is important to consult with your veterinarian about how often you should administer the dewormer, as well as what dose is most appropriate for your animals.
-
-An insecticidal treatment is specific for controlling lice and mites in addition to worms and internal parasites. Like an anthelmintic treatment, this type of deworming involves oral medications administered by the goat owner.
-
-However, these medications typically need to be repeated much more frequently than other types of dewormer. They are also not always effective against larvae or eggs present within the system prior to taking the medication.
-
-For this reason, it is important to speak with a vet before choosing an endectocidal treatment option for your farm.
-
-Finally, if what you are trying to treat is bacterial in nature rather than worm-related, then antibiotic therapy may be a better option for you and your goats.
-
-Antibiotics help to address many common infections including foot rot and pneumonia so they can be extremely useful when it comes time to get those pesky bacteria under control.
-
-Just like with any other type of medication though, antibiotics should only be prescribed after consulting with a licensed veterinarian who has the proper knowledge about which specific antibiotics will work best for each individual animal on your farm.
-
-There are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
-
-### How to Know When Your Kid Goat Needs Worming
-
-The FAMACHA scoring system is one of the best tools available for deciding when to worm your goats. Pull down the lower eyelid and compare the color of the mucous membrane to the FAMACHA card.
-
-A bright red or dark pink membrane means the goat has a healthy red blood cell count and does not need deworming. A pale pink or white membrane signals anemia, which usually means a heavy barber pole worm load.
-
-Fecal egg counts are another reliable method. Collect a fresh sample and bring it to your vet for a fecal float test. This tells you exactly how many worm eggs the goat is shedding and whether treatment is needed.
-
-Routine deworming on a set schedule without testing first leads to drug resistance. Only worm the goats that actually need it, and you will keep your dewormers effective for much longer.
-
-### Avoiding Dewormer Resistance in Your Goat Herd
-
-Rotate between different dewormer classes every year or two to slow down resistance. Bimectin falls into the avermectin class, while Safeguard is a benzimidazole. Switching between the two gives the parasites less opportunity to adapt.
-
-Never underdose your goats. Goats metabolize dewormers faster than cattle or sheep, so they need a higher dose per pound of body weight. Using the cattle dose on a goat means the worms get a sub-lethal exposure, which is the fastest path to resistance.
-
-After you treat with any dewormer, run a fecal egg count reduction test about 10 to 14 days later. If the egg count has not dropped by at least 90 percent, the dewormer may no longer be working against the worms in your herd.
+Never deworm your entire herd on a set schedule without testing first. Only treat the goats that actually need it based on fecal counts or FAMACHA scores. This approach keeps your dewormers working for years longer than blanket treatment ever will.
 
 ## Final Thoughts
 
-You can use Bimectin to worm your kid goats effectively and with few side effects.
+Bimectin and SafeGuard are both useful tools, but they're not interchangeable. Know which parasites you're fighting before you pick a product.
 
-Remember to follow the proper dosage and administration instructions for Bimectin, and to maintain good hygiene practices in order to maximize its effectiveness.
-
-If you have any questions or concerns about worming your kid goats, be sure to speak with a licensed veterinarian beforehand.
+For kid goats, SafeGuard tends to be the safer first choice because of its wide safety margin. If you do use Bimectin, dose it correctly for goats and always follow up with a fecal egg count to make sure it did the job.

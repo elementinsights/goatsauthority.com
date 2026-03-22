@@ -23,8 +23,6 @@ toc:
     href: "#what-are-the-dangers-of-letting-your-nubian-goat-climb-trees"
   - label: "How to safely allow your Nubian goat to climb trees?"
     href: "#how-to-safely-allow-your-nubian-goat-to-climb-trees"
-  - label: "Fun activities you can do with your Nubian goat that involve climbing trees"
-    href: "#fun-activities-you-can-do-with-your-nubian-goat-that-involve-climbing-trees"
   - label: "Tips for taking care of a Nubian goat that likes to climb trees"
     href: "#tips-for-taking-care-of-a-nubian-goat-that-likes-to-climb-trees"
   - label: "Final Thoughts"
@@ -35,128 +33,53 @@ faq:
   - question: "What is the reason why Nubian goats climb trees?"
     answer: "There are a few reasons why Nubian goats might climb trees. First, as we mentioned, they are curious creatures and love to explore. Tree climbing is simply another way for them to do this."
   - question: "What is a Nubian goat and what are their characteristics?"
-    answer: "Nubian goats are a popular breed of dairy goat. They are known for their large size, long ears, and distinctive “Roman” nose. Nubian goats originally come from the Nubian Desert in northeastern Africa."
+    answer: "Nubian goats are a popular breed of dairy goat. They are known for their large size, long ears, and distinctive Roman nose. Nubian goats originally come from the Nubian Desert in northeastern Africa."
   - question: "What are the dangers of letting your Nubian goat climb trees?"
     answer: "Nubian goats are known for their agility and sure-footedness, and they often use these skills to climb trees."
 ---
-Taking care of a Nubian goat is a lot of fun. They are very friendly animals and love to play.
 
-Though they are not as big as some other breeds of goats, they are still fairly large. And like all goats, they are curious creatures that love to explore their surroundings.
-
-One thing that you might be wondering about your Nubian goat is whether or not they can climb trees. And if so, is it safe for them to do so?
-
-we will answer all of your questions and provide everything you need to know about Nubian goats and tree climbing.
+Nubians can climb, but they are not mountain goats. Their large frames and floppy ears make them less agile than smaller breeds, so tree climbing comes with real risks for these heavy dairy goats.
 
 ## Can a Nubian goat climb trees?
 
-Keep in mind, you need to be careful if you allow your Nubian goat to climb trees. They could get injured if they fall from a height.
+Nubians can scramble up low-branching trees, stumps, and fallen logs. They have the same natural climbing instinct as every other goat breed.
 
-It's important to only allow them to climb trees that are safe and not too high off the ground.
-
-You should always supervise your Nubian goat when they are climbing trees. This will help to make sure their safety and prevent any accidents from happening.
+That said, a full-grown Nubian weighs 130 to 175 pounds. That is a lot of weight on a tree branch, and it creates a much higher injury risk compared to a 40-pound Nigerian Dwarf or Pygmy goat.
 
 ## What is the reason why Nubian goats climb trees?
 
-There are a few reasons why Nubian goats might climb trees. First, they are curious creatures and love to explore.
+Goats climb because they are browsers, not grazers. They naturally want to reach leaves, bark, and fruit that grows above ground level.
 
-Tree climbing is simply another way for them to do this.
-
-Second, Nubian goats like to be in high places. They feel safe when they are up high and can see their surroundings.
-
-This is one of the reasons why they are often used as guard animals.
-
-To wrap up, Nubian goats might climb trees to eat the leaves or fruit. This is especially common if there's not enough food available on the ground.
+Nubians also like being up high because it gives them a better view of their surroundings. In a pasture setting, you will often see them standing on top of whatever is the tallest object available, whether that is a rock pile, a picnic table, or a low tree branch.
 
 ## What is a Nubian goat and what are their characteristics?
 
-Nubian goats are a popular breed of dairy goat. They are known for their large size, long ears, and distinctive “Roman” nose.
+Nubians are one of the most popular dairy breeds in the United States. They are known for their long pendulous ears, Roman nose, and loud personalities.
 
-Nubian goats originally come from the Nubian Desert in northeastern Africa.
-
-Today, they are found all over the world. Nubian goats are prized for their milk production.
-
-They typically produce more milk than other dairy goat breeds.
-
-Their milk is also higher in butterfat, making it ideal for use in cheese and other dairy products. Nubians are also known for their friendly personalities.
-
-They are often considered to be the “clowns” of the goat world. Due to their outgoing nature, Nubians are a popular choice for pet goats.
-
-If you’re looking for a friendly, high-yielding dairy goat, a Nubian may be the right breed for you.
+Their milk has the highest butterfat content of any standard dairy breed, which makes it great for cheese and soap. Nubians were originally developed from crosses between English dairy goats and lop-eared breeds from North Africa and the Middle East.
 
 ## What are the dangers of letting your Nubian goat climb trees?
 
-Nubian goats are known for their agility and sure-footedness, and they often use these skills to climb trees.
+The biggest danger is falling. A Nubian that slips off a branch from even a few feet up can break a leg or injure her udder, and either one can be a career-ending injury for a dairy doe.
 
-While this may seem like harmless fun, there are actually several dangers associated with tree climbing for Nubian goats.
-
-First of all, the goats may damage the tree by breaking branches or scratching the bark. This can weaken the tree and make it more susceptible to disease.
-
-There's a risk of injury to the goat itself. If the goat falls out of the tree, it could break a bone or suffer a concussion.
-
-Finally, climbing trees puts unnecessary stress on the goat's body and can lead to health problems in the long run. For these reasons, it's best to keep your Nubian goat on the ground where it belongs.
+Heavy goats also snap branches that would easily hold a smaller breed. A broken branch under a 150-pound goat means a sudden drop with no warning, and the goat has no time to brace herself.
 
 ## How to safely allow your Nubian goat to climb trees?
 
-The curious and lively attitude of Nubian goats is well known, and one of their favorite pastimes is climbing trees.
+If you have a low-branching tree in your pasture, let them browse the lower limbs but discourage climbing higher than a few feet off the ground. Trimming upper branches removes the temptation to go higher.
 
-Although it might seem like a strange activity for a goat to engage in, it's actually a fantastic way for them to exercise and discover their environment. But before releasing your Nubian goat lose among the treetops, you should exercise caution.
-
-First, check to see that the tree is strong and devoid of any potentially dangerous branches.
-
-Second, watch your goat closely while it climbs and be prepared to catch it if it falls.
-
-Finally, don't let them climb too high since if they fall from a large height, they risk hurting themselves.
-
-These easy instructions will help you let your Nubian goat securely experience the fascinating activity of climbing trees.
-
-## Fun activities you can do with your Nubian goat that involve climbing trees
-
-Nubian goats are known for their friendly dispositions and their ability to climb trees. In fact, Nubian goats were originally bred in Africa for their ability to climb trees and reach high branches.
-
-This makes them ideal companions for exploring the great outdoors.
-
-Here are some fun activities you can do with your Nubian goat that involve climbing trees:
-
-- Goat tree climbing races - Set up a course with several different types of trees and see who can reach the top the fastest.
-- Obstacle course. Using branches and obstacles, create an obstacle course for your goat to navigate. This is a great way to provide mental and physical stimulation for your goat.
-- Treasure hunt. Hide treats or toys in the branches of trees for your goat to find. This is a great way to keep your goat active and engaged.
-- Scavenger hunt. Collect leaves, flowers, and other natural items from around the base of the tree. See if your goat can identify them by smell or sight.
-- Tree yoga. If you’re feeling extra adventurous, try doing some yoga poses with your goat in the tree. Be sure to have someone spot you in case you lose your balance.
+A better option is to build dedicated climbing structures in their pen. Old wooden cable spools stacked at different heights make a great multi-level playground, and you can usually pick them up for free from utility companies or construction sites. Bolt them together so they cannot tip under the weight of a full-grown Nubian.
 
 ## Tips for taking care of a Nubian goat that likes to climb trees
 
-Nubian goats are a type of domestic goat that is known for their large size and distinctive floppy ears. Nubians originated in Africa, and they were brought to the United States in the early 1900s.
+Keep your fencing at least 5 feet tall. Nubians that enjoy climbing are also the ones most likely to go over a fence when they are bored or see something interesting on the other side.
 
-Today, they are one of the most popular breeds of goats in the world. Nubians are known for their playful personalities, and they often enjoy climbing trees.
+Provide rocks, stumps, and platforms inside their pen so they can satisfy their climbing urge safely. A goat that has plenty to climb on in her own space is far less motivated to escape or scale a dangerous tree.
 
-If you have a Nubian goat that likes to climb trees, there are a few things you can do to help keep them safe.
+Check your pasture trees regularly for dead or weak branches. Remove anything that might snap under a goat's weight before it becomes a problem.
 
-First, make sure that the tree is sturdy and will not topple over if your goat leans on it or climbs up it. You should also check for any sharp branches that could injure your goat.
+## Final Thoughts
 
-If you find any, trim them back or cover them with padding.
+Nubians can climb trees, but their size works against them. They are better off with purpose-built climbing structures where you control the height and stability.
 
-Last thing to note: goat-proof your tree by removing any potential hazards within reaches, such as broken glass or loose nails.
-
-By taking these precautions, you can help keep your Nubian goat safe while they enjoy their Tree Climbing adventures.
-
-### Why Nubians Are Built Differently Than Mountain Goats
-
-It is worth pointing out that Nubians are not natural climbers like wild mountain goats. Mountain goats have specialized hooves with soft, rubbery pads that grip rocky surfaces. Nubians, on the other hand, were bred for milk production in hot climates.
-
-Their larger, heavier bodies and long floppy ears make them less agile than smaller breeds. A Pygmy or Nigerian Dwarf goat is much more nimble on a tree branch than a full-sized Nubian.
-
-This does not stop Nubians from trying, of course. They are curious and determined animals. But a 150-pound Nubian on a tree branch creates a lot more stress on the wood than a 40-pound Pygmy would.
-
-### Safe Climbing Alternatives for Your Nubian
-
-Instead of letting your Nubian climb trees, build a dedicated climbing structure in their pen. Old wooden cable spools make excellent goat platforms and can usually be picked up for free from construction sites or utility companies.
-
-Stack two or three spools at different heights to create a multi-level playground. Nubians love having a high point to stand on and survey their territory. Bolt the spools together so they cannot tip over under the weight of a full-grown adult.
-
-Large rocks and boulders are another great natural option. Arrange them in a gradual staircase pattern so your goats can climb without risking a long fall. The rough surface is also good for naturally wearing down their hooves.
-
-## What to Remember
-
-Nubian goats can climb trees. However, it's not recommended as it can be dangerous for the goat.
-
-If you do allow your Nubian goat to climb trees, be sure to take precautions such as choosing a sturdy tree and removing any hazards within reach. And always keep a close eye on your goat while they are climbing.
+If a Nubian wants to browse low branches, that is perfectly fine. Just keep them off anything high enough to cause a serious injury if they fall.

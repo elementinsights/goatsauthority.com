@@ -37,116 +37,42 @@ faq:
   - question: "What are the plants that are edible to goats?"
     answer: "While goats are often thought of as being strict herbivores, they are actually quite adaptable in terms of their diet."
   - question: "What to do if your goat eats something it shouldn't have?"
-    answer: "If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as vomiting or difficulty breathing, then you need to seek professional medical help immediately."
+    answer: "If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as vomiting or difficulty breathing, then you need to seek professional medical help immediately."
 ---
-
-You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat?
-
-we will answer all of your questions about what goats can and cannot eat. We will also explore what kind of diet is best for goats and how you can ensure your goat is getting all the nutrients they need.
+No, goats cannot eat any plant they come across. There are dozens of common plants that are flat-out toxic to goats and can cause serious illness or death within hours.
 
 ## Can goats eat any plant?
 
-Even so, you need to remember that every goat is different and what one goat can eat may not agree with another. So, it's always best to introduce new foods slowly and in small amounts to avoid any upset stomachs.
+Goats are browsers and they will nibble on just about anything to test it. Most of the time they are pretty good at avoiding plants that will hurt them, but not always.
+
+Hungry goats, goats new to a property, or goats with limited forage options are the most at risk. They will eat things they would normally pass up when they do not have enough good browse available. Walk your pasture and identify everything growing there before you ever turn goats out on it.
 
 ## What are the plants that are poisonous to goats?
 
-Many plants are poisonous to goats, and it's important for farmers and ranchers to be aware of which plants are dangerous to their animals. Some of the most common poisonous plants include:
+Several common plants can kill a goat quickly. Rhododendron, azalea, mountain laurel, yew, and oleander are all extremely toxic, and it does not take much to cause fatal poisoning.
 
-- Foxglove (Digitalis purpurea)
-- Rhododendron (Rhododendron spp.)
-- Nightshade (Solanum dulcamara)
-- Yew (Taxus spp.)
-
-These are just a few of the many plants that can be harmful to goats. When grazing, goats will often eat small amounts of a variety of plants.
-
-However, if they eat too much of a poisonous plant, or if the plant is particularly potent, it can lead to illness or death.
-
-Symptoms of poisoning vary depending on the plant in question but may include: vomiting, diarrhea, excessive drooling, weakness, seizures, and collapse. If you suspect that your goat has eaten a poisonous plant, contact a veterinarian immediately.
+Wilted cherry and plum leaves produce cyanide and are one of the most common causes of sudden goat death on farms. A storm that drops branches into the pasture can create a deadly situation overnight. Nightshade family plants including tomato leaves, potato leaves, and eggplant leaves contain solanine, which causes digestive and neurological problems.
 
 ## What are the plants that are edible to goats?
 
-While goats are often thought of as being strict herbivores, they are actually quite adaptable in terms of their diet.
+Goats thrive on a wide variety of browse including blackberry brambles, honeysuckle, willow, maple leaves, dandelions, plantain, and clover. They prefer woody browse and broadleaf plants over grass.
 
-In addition to grasses and other typical grazing plants, goats will also consume a wide variety of other plants, including many that are considered to be weeds. In fact, there are very few types of plants that goats will not eat.
-
-But, not all plants are equally nutritious for goats.
-
-For example, legumes such as clover and alfalfa are a good source of protein, while grasses provide a higher level of fiber.
-
- you need goat owners to provide their animals with a varied diet in order to make sure that they receive all the nutrients they need.
-
-While there are many different plants that goats can eat, some of the most common include dandelions, thistles, and milkweed.
+Legumes like clover and alfalfa are high in protein and make great forage. Brambles are a particular favorite because goats strip the leaves right off thorny canes without any trouble, and the tannins in the leaves may even help with natural parasite control.
 
 ## What to do if your goat eats something it shouldn't have?
 
-If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as vomiting or difficulty breathing, then you need to seek professional medical help immediately.
+If you see a goat eating a known toxic plant, pull it away immediately and check for symptoms. Signs of plant poisoning include drooling, staggering, diarrhea, rapid breathing, and refusing to eat.
 
-If the goat is not displaying any obvious signs of distress, then you will need to take a closer look at what it has eaten. Some plants, for example, can be toxic to goats if consumed in large quantities.
-
-In these cases, it's often best to let the goat digest the plant material and hope that it passes through without causing any damage.
-
-If you are unsure about what the goat has eaten, or if you are concerned about its health, then it's always best to err on the side of caution and contact a veterinarian.
-
-## What are the risks associated with goats eating poisonous plants?
-
-Many plants are poisonous to goats, and the risk of toxicity increases when goats are confined to a small area where they have limited access to other food sources.
-
-Some of the most common poisonous plants include rhododendrons, azaleas, oleander, yews, and elderberries. These plants can cause a variety of symptoms if ingested, including vomiting, diarrhea, weakness, and heart arrhythmias.
-
-In severe cases, toxicity can lead to death. To reduce the risk of goats consuming poisonous plants, you need to provide them with access to fresh hay and plenty of water.
-
-Keep them well away from any areas where poisonous plants are known to grow. By taking these precautions, you can help make sure that your goats stay safe and healthy.
+Call your vet right away if any symptoms show up. Keep the goat hydrated and try to identify exactly what plant was eaten so the vet knows what they are treating. If you can, bring a sample of the plant with you.
 
 ## How to prevent your goat from eating poisonous plants?
 
-Goats are curious creatures, and they will often nibble on anything that catches their eye, even if it's poisonous. While most goats are resistant to many common toxins, there are still some plants that can be harmful or even fatal if ingested.
+Walk your pasture and fence lines at least once a season and identify every plant growing there. Take photos of anything you do not recognize and look it up in a regional toxic plant guide or ask your county extension agent.
 
-as a goat owner, you need to be aware of which plants are poisonous to goats and take steps to keep them out of reach.
+Fence off any areas where toxic plants are growing or remove them entirely. Do not just pull a toxic plant and throw it on the ground in the pasture. Wilted plant material is often more toxic than fresh, and goats are more likely to eat dried leaves than living ones. Bag it up and dispose of it away from your animals.
 
-One of the most common poisonous plants for goats is called "]lovage" (Levisticum officinale). Also known as "Italian celery," lovage is a tall herb with yellowish-green flowers and dark green foliage.
+## What to remember
 
-All parts of the plant are poisonous to goats, and ingestion can lead to severe gastrointestinal distress, including vomiting and diarrhea.
+Goats eat a huge variety of plants, but they are not immune to everything out there. A few common species like rhododendron, yew, oleander, and wilted cherry leaves can kill a goat with just a few mouthfuls.
 
-If left untreated, lovage poisoning can be fatal. Fortunately, there are some simple steps you can take to prevent your goat from eating poisonous plants.
-
-Start by familiarizing yourself with the most common toxic plants in your area and making sure they're not easily accessible to your goat. If you have a pasture, fence off any areas where toxic plants are growing.
-
-You can also consider feeding your goat a balanced diet of hay, pellets, and fresh vegetables to discourage them from nibbling on potentially harmful plants. With a little effort, you can help keep your goat safe from poisonous plants.
-
-## What are the treatment options for a goat that has eaten a poisonous plant?
-
-If a goat has eaten a poisonous plant, you need to seek professional medical help immediately.
-
-Depending on the type of plant and the severity of the toxicity, treatment may involve induced vomiting, administration of charcoal or other absorbents to bind the toxins in the gastrointestinal tract, fluids to prevent dehydration, and/or symptomatic treatment for any resulting conditions.
-
-In some cases, such as if the goat has ingested a large amount of a particularly toxic plant, more aggressive measures may be necessary.
-
-With prompt and proper treatment, most goats will recover from plant poisoning without any long-term effects.
-
-But, you need to note that some plants can cause permanent damage or even be fatal, so it's always best to err on the side of caution and seek professional help as soon as possible.
-
-### How to Identify Dangerous Plants in Your Pasture
-
-The best way to protect your goats is to walk your pasture at least once a season and identify every plant growing there. Take photos of anything you do not recognize and compare them against a regional toxic plant guide.
-
-Pay special attention to fence lines and the edges of wooded areas. Poisonous plants like nightshade and water hemlock tend to grow in shaded, damp spots near tree lines rather than out in the open field.
-
-If you find a toxic plant, do not just pull it and throw it in the pasture. A wilted poisonous plant can actually be more dangerous than a fresh one because goats are more likely to eat dried plant material. Bag it up and dispose of it away from your property.
-
-### Plants Goats Love That Are Also Good for Them
-
-Not every plant discussion has to be about what goats should avoid. There are plenty of plants that goats actively seek out that also happen to be nutritious.
-
-Blackberry brambles are a favorite. Goats will strip the leaves and even eat the thorny canes without any trouble. Brambles provide good fiber and the leaves contain tannins that can help with parasite control.
-
-Plantain (the broadleaf weed, not the banana) is another winner. It grows in most yards and pastures across the country and is packed with vitamins. Goats will eat it readily.
-
-Willow branches are also safe and beneficial. Many goat owners keep a few willow trees near the pasture because the bark contains a natural compound similar to aspirin. Goats that browse on willow often seem to have fewer issues with minor inflammation.
-
-## Key Takeaways
-
-Goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.
-
-as a goat owner, it's important to be aware of which plants are poisonous to goats and take steps to keep them out of reach. If a goat does eat a poisonous plant, it's important to seek professional medical help immediately.
-
-With prompt and proper treatment, most goats will recover from plant poisoning without any long-term effects.
+The best defense is knowing what is growing in your pasture and keeping your goats away from anything dangerous. Provide plenty of good quality forage so your goats are never hungry enough to eat something they would normally avoid.
