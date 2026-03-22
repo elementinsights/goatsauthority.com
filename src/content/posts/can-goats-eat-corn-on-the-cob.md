@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Corn On The Cob? (Everything You Need To Know)"
-description: "The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can consume corn on the cob."
+description: "The food of goats is a subject that interests a lot of people. Some individuals specifically want to know if goats can eat corn on the cob."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-11
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Corn On The Cob?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat corn on the cob. As a matter of fact, corn on the cob is high in calories and a good source of carbs and fiber that can help goats' overall health and well-being."
+  text: "Goats can eat corn on the cob. Corn on the cob is high in calories and a good source of carbs and fiber that can help goats' overall health and well-being."
 toc:
   - label: "Can goats eat corn on the cob?"
     href: "#can-goats-eat-corn-on-the-cob"
@@ -59,7 +59,7 @@ Signs of a goat that's eaten too much corn include a bloated belly, grinding tee
 
 Chronic overfeeding of corn can also lead to obesity and urinary calculi in bucks and wethers. The high phosphorus content in corn without enough calcium to balance it creates the perfect conditions for bladder stones.
 
-## Fresh corn vs. dried corn
+## Fresh corn vs. Dried corn
 
 There's a real difference between fresh sweet corn on the cob and dried field corn. Fresh corn has higher moisture content and lower starch concentration, making it gentler on the digestive system.
 

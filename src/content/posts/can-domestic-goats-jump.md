@@ -50,7 +50,7 @@ Most domestic goats can clear about 4 to 5 feet from a standing position. That n
 
 Domestic goats are natural jumpers. Their ancestors spent thousands of years scrambling up rocky hillsides across central Asia, and that athletic ability hasn't gone anywhere.
 
-That said, not every goat is a jumper. Some goats never leave the ground unless they have a reason to, and others start testing fences on day one. Personality plays a huge role in whether you end up with an escape artist or a couch potato.
+Not every goat is a jumper. Some goats never leave the ground unless they have a reason to, and others start testing fences on day one. Personality plays a huge role in whether you end up with an escape artist or a couch potato.
 
 ## How high can different breeds jump?
 

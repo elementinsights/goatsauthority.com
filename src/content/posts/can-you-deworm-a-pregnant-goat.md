@@ -11,7 +11,7 @@ imageAlt: "Can You Deworm A Pregnant Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can deworm your pregnant goat without any problem because it is a safe and recommended procedure. In fact, it is essential to deworm pregnant goats in order to prevent the spread of parasites and worms that can cause health problems."
+  text: "You can deworm your pregnant goat without any problem because it is a safe and recommended procedure. In fact, deworm pregnant goats in order to prevent the spread of parasites and worms that can cause health problems."
 toc:
   - label: "Can you deworm a pregnant goat?"
     href: "#can-you-deworm-a-pregnant-goat"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you deworm a pregnant goat?"
-    answer: "You can deworm your pregnant goat without any problem because it is a safe and recommended procedure. In fact, it is essential to deworm pregnant goats in order to prevent the spread of parasites and worms that can cause health problems."
+    answer: "You can deworm your pregnant goat without any problem because it is a safe and recommended procedure. In fact, deworm pregnant goats in order to prevent the spread of parasites and worms that can cause health problems."
   - question: "What is deworming and why is it important for pregnant goats?"
     answer: "Deworming is the process of removing parasitic worms from the digestive system of animals. Pregnant goats are particularly susceptible to worm infestations, which can lead to malnutrition, anemia, and even death."
   - question: "How do you know if your goat needs to be dewormed?"

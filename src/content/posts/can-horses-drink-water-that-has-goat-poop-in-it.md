@@ -40,7 +40,7 @@ If you keep horses and goats on the same property, this question comes up fast. 
 
 ## Can horses drink water that has goat poop in it?
 
-Horses should not be drinking water contaminated with goat feces if you can help it. Goat droppings can carry parasites like Cryptosporidium and Giardia, plus bacteria such as E. coli and Salmonella.
+Horses should not be drinking water contaminated with goat feces if you can help it. Goat droppings can carry parasites like Cryptosporidium and Giardia, plus bacteria such as E. Coli and Salmonella.
 
 In practice, plenty of farms run shared water troughs between horses and goats without obvious problems. But just because a horse doesn't get sick every time doesn't mean the risk isn't real.
 

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Poison Hemlock? (Benefits, Risks, Serving Size, and FAQs)"
-description: "it's difficult to determine whether your goats can eat poison hemlock or not. And if so, how much is safe for them? In this article, we'll answer all of those questions for you and provide some tips on how to keep your goats healthy and safe."
+description: "it's difficult to determine whether your goats can eat poison hemlock or not. And if so, how much is safe for them? we'll answer all of those questions for you and provide some tips on how to keep your goats healthy and safe."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18

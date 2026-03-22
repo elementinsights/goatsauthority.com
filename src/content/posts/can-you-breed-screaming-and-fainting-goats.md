@@ -39,7 +39,7 @@ faq:
   - question: "What are screaming and fainting goats and what do they look like?"
     answer: "Screaming and fainting goats are a breed of domestic goats that is known for their unusual reaction to fear or surprise."
   - question: "How do you breed them?"
-    answer: "When breeding screaming and fainting goats, it is important to find the right match. The male screaming goat shouldn't be too aggressive for the female fainting goat, and vice versa."
+    answer: "When breeding screaming and fainting goats, find the right match. The male screaming goat shouldn't be too aggressive for the female fainting goat, and vice versa."
   - question: "What are the benefits of breeding these goats?"
     answer: "Myotonic goats are valued as meat goats because their muscle condition gives them excellent muscling and a higher meat-to-bone ratio. Their calm temperament makes them easier to manage, and they tend to be hardy and resistant to common parasites."
 ---

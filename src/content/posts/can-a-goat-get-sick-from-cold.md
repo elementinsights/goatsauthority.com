@@ -83,9 +83,7 @@ Hypothermia requires slow, careful warming. Wrap the goat in dry towels or blank
 
 Frostbite damage is permanent, but the affected tissue does not need to be removed unless infection sets in. Keep frostbitten ears or teats clean and dry, and let the dead tissue separate on its own.
 
-## Are there any other things that you need to consider when it comes to keeping your goats healthy in the winter months?
-
-Put together a winter emergency kit before the first freeze. Include a digital thermometer, electrolyte powder, molasses, clean towels, and your vet's after-hours phone number.
+## Are there any other things that you need to consider electrolyte powder, molasses, clean towels, and your vet's after-hours phone number.
 
 Keep sick goats isolated but within sight of the herd. Total separation causes stress that weakens the immune system even further.
 

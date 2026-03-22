@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Drink Juice? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering whether or not goats can drink juice. And if so, what kind of juice is best for them? In this article, we will answer all of your questions about goats and juice."
+description: "You may be wondering whether or not goats can drink juice. And if so, what kind of juice is best for them? we will answer all of your questions about goats and juice."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09
@@ -44,7 +44,7 @@ faq:
 
 Juice is not something goats need, and giving it to them regularly can cause real problems. Fresh water is the only liquid a healthy goat requires, and their vitamins and minerals should come from forage, browse, and a good mineral supplement.
 
-That said, there is one situation where a small amount of juice can be useful. Let's talk about when it makes sense and when it doesn't.
+There is one situation where a small amount of juice can be useful. Let's talk about when it makes sense and when it doesn't.
 
 ## Can goats drink juice?
 

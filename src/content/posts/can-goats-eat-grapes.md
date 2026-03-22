@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Grapes? (Hazards, Serving Size and Benefits)"
-description: "I'm a goat owner, just like many of you. One question that often comes up is about their diet, specifically, can goats eat grapes? It's important to know what our goats can and cannot consume for their health."
+description: "I'm a goat owner, just like many of you. One question that often comes up is about their diet, specifically, can goats eat grapes? know what our goats can and cannot eat for their health."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20

@@ -41,7 +41,7 @@ faq:
   - question: "Do all goats eat hay?"
     answer: "All goats are herbivores, which means they only eat plant material. Despite that, not all goats eat hay. Some goats may prefer other types of plants, such as grass or leaves. Hay is a type of dried grass that is often fed to livestock."
   - question: "Can you feed hay to pregnant goats?"
-    answer: "You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help them stay in good condition and to ensure that their kids get the best start in life."
+    answer: "You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help them stay in good condition and to make sure that their kids get the best start in life."
 ---
 
 Goats eat several types of hay, and the right one depends on the animal's age, sex, and what you're asking its body to do. Not all hay is created equal, and picking the wrong type can cause real problems.
@@ -58,7 +58,7 @@ Orchard grass is a great all-around option that most goats find palatable. It ha
 
 Bermuda grass hay is common in southern states and works fine as a base forage, though it's lower in protein than the other options. Avoid fescue hay for pregnant does because endophyte-infected fescue can cause serious problems during late pregnancy, including retained placentas and poor milk production.
 
-## First cutting vs. second cutting
+## First cutting vs. Second cutting
 
 First cutting hay is stemmier and higher in fiber but lower in protein. It's fine for maintenance animals that just need something to chew on and keep their rumen healthy.
 

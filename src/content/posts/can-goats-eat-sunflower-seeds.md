@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Sunflower Seeds? (Complete Guide for Safe Feeding)"
-description: "Ever owned a goat? If so, you might know they eat almost anything. Yet, it's crucial to be aware of what is safe for them and what isn't. In my years as a goat owner, I've had the same question many times. Can goats munch on sunflower seeds?"
+description: "Ever owned a goat? If so, you might know they eat almost anything. Yet, be aware of what is safe for them and what isn't. In my years as a goat owner, I've had the same question many times. Can goats munch on sunflower seeds?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-12-01

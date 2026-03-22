@@ -43,7 +43,7 @@ Here's what you need to know about goats and black walnut.
 
 Goats can browse on small amounts of black walnut leaves without dropping dead. They're more tolerant of the tree's toxins than some other livestock, especially horses. A goat that nibbles a few black walnut leaves while passing through a wooded area is probably going to be fine.
 
-That said, black walnut is not a feed you should be offering on purpose. The tree produces a compound called juglone that can cause problems in larger amounts. Think of it as something your goats can tolerate in small doses during natural browsing, not something you'd want to pile in their feeder.
+Black walnut is not a feed you should be offering on purpose. The tree produces a compound called juglone that can cause problems in larger amounts. Think of it as something your goats can tolerate in small doses during natural browsing, not something you'd want to pile in their feeder.
 
 ## What is juglone and why does it matter?
 

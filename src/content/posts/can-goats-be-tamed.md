@@ -41,7 +41,7 @@ Goats can absolutely be tamed, and most domestic breeds take to people pretty na
 
 Yes, goats can be tamed. Domestic goats have been living alongside humans for roughly 10,000 years, so the tendency to bond with people is already there in their DNA.
 
-That said, there's a big range in how tame individual goats are. A bottle-fed kid raised in your kitchen will follow you around like a dog. A feral goat pulled off a mountainside might take months before it lets you within arm's reach.
+There's a big range in how tame individual goats are. A bottle-fed kid raised in your kitchen will follow you around like a dog. A feral goat pulled off a mountainside might take months before it lets you within arm's reach.
 
 The good news is that food is the universal motivator for goats. Given enough time and enough treats, almost any goat will come around.
 
@@ -53,7 +53,7 @@ Instead, just sit quietly in their pen for 15 to 20 minutes a day. Bring a bucke
 
 Once a goat takes food from you, start gently touching its chin and chest while it eats. Avoid reaching over the top of its head at first since that's a dominant gesture that makes nervous goats flinch.
 
-## Kids vs. adult goats
+## Kids vs. Adult goats
 
 Young kids tame faster than adults, and it's not even close. A kid that's handled from birth will bond with its handler within the first week or two. Bottle-fed babies in particular tend to become the friendliest goats on the farm because they associate humans with food and comfort from day one.
 

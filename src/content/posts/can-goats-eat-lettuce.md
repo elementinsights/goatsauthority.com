@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat lettuce?"
-    answer: "Goats can eat lettuce, which is a healthy addition to a goat's diet. Lettuce is high in vitamins A and C, as well as calcium. It's also a good source of water, which is essential for goats. Additionally, lettuce also contains fiber, which helps goats digest their food properly."
+    answer: "Goats can eat lettuce, which is a healthy addition to a goat's diet. Lettuce is high in vitamins A and C, as well as calcium. It's also a good source of water, which is essential for goats. Lettuce also contains fiber, which helps goats digest their food properly."
   - question: "Can pregnant goats eat lettuce?"
     answer: "Pregnant goats can eat lettuce. Lettuce is a good source of folic acid, which is important for the development of the goat fetus."
   - question: "Can baby goats eat lettuce?"

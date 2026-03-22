@@ -37,7 +37,7 @@ faq:
   - question: "How to prevent the risks associated with feeding liquid amber to goats?"
     answer: "The best way to prevent the risks associated with feeding liquid amber to goats is to make sure that they have access to plenty of fresh, clean water. This will help to flush the substance out of their system if they do ingest it."
   - question: "What are the treatments for goats that have eaten too much liquid amber?"
-    answer: "If a goat has eaten too much liquid amber, it's crucial to seek goat expert assistance immediately. The goat expert will likely give the goat a physical examination and take blood samples to check for liver damage."
+    answer: "If a goat has eaten too much liquid amber, seek goat expert assistance immediately. The goat expert will likely give the goat a physical examination and take blood samples to check for liver damage."
 ---
 If you've got a sweetgum tree on your property and goats in the pasture, you might be wondering if those trees are safe. The good news is that liquidambar trees (commonly called sweetgum) are generally harmless to goats.
 
@@ -47,7 +47,7 @@ This is a tree question, not a fossilized amber question. Let's talk about what 
 
 Yes, goats can safely browse on liquidambar (sweetgum) trees. The leaves and small twigs are not toxic, and goats can nibble on them without any problems.
 
-That said, sweetgum isn't a tree that most goats go out of their way to eat. They'll sample the leaves if they're within reach, but it's rarely a preferred browse species. It's safe but not exciting as far as your goats are concerned.
+Sweetgum isn't a tree that most goats go out of their way to eat. They'll sample the leaves if they're within reach, but it's rarely a preferred browse species. It's safe but not exciting as far as your goats are concerned.
 
 ## What is liquid amber and what are its benefits for goats?
 

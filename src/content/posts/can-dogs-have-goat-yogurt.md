@@ -1,6 +1,6 @@
 ---
 title: "Can Dogs Have Goat Yogurt? (Benefits, Risks, and Serving Size)"
-description: "Many people are unsure if dogs can have goat yogurt or not. And if so, what are the benefits and risks? In this article, we will answer all of your questions regarding feeding your dog goat yogurt."
+description: "Many people are unsure if dogs can have goat yogurt or not. And if so, what are the benefits and risks? we will answer all of your questions regarding feeding your dog goat yogurt."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-31

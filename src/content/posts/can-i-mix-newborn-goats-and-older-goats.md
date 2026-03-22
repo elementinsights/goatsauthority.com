@@ -1,6 +1,6 @@
 ---
 title: "Can I Mix Newborn Goats And Older Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering if you can mix newborn and older goats in the same pen. If so, what are the things you need to consider before doing so? In this article, we will answer those questions for you."
+description: "You may be wondering if you can mix newborn and older goats in the same pen. If so, what are the things you need to consider before doing so? we will answer those questions for you."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-11-07
@@ -52,7 +52,7 @@ Older goats also live by a strict pecking order. Every new animal gets tested, a
 
 ## Why mix them together?
 
-Goats are social animals, and a kid raised in isolation too long will have a harder time integrating later. Kids also learn what to eat, where to drink, and how to navigate the pasture by watching and following the older goats.
+Goats are social animals, and a kid raised in isolation too long will have a harder time integrating later. Kids also learn what to eat, where to drink, and how to handle the pasture by watching and following the older goats.
 
 The goal is not permanent separation. It is waiting until the kids are big enough and quick enough to handle life in the group without getting hurt.
 

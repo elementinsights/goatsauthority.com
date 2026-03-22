@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats Where I Live?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so it is essential to check with your local government first."
+  text: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so check with your local government first."
 toc:
   - label: "Check your zoning classification first"
     href: "#check-your-zoning-classification-first"
@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I have goats where I live?"
-    answer: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so it is essential to check with your local government first. You can also check with your local zoning department to see if there are any restrictions."
+    answer: "You can have goats where you live as long as your local government allows it. Some areas do not allow livestock, so check with your local government first. You can also check with your local zoning department to see if there are any restrictions."
   - question: "What are the benefits of having goats on a farm?"
     answer: "Goats can provide milk, meat, fiber, and even manure for fertilizer. They are relatively easy to care for and do not require a lot of space."
   - question: "What do I need to know before getting goats?"
-    answer: "Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first."
+    answer: "Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so check with your local government first."
   - question: "How to take care of goats?"
     answer: "There are a few key things that you need to know in order to properly care for goats. The first thing is that goats are very social animals and thrive when they live in herds. In addition, they require regular exercise and access to fresh hay and water."
 ---

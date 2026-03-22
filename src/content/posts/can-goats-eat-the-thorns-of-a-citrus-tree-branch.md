@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat the thorns of a citrus tree branch?"
-    answer: "Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals. Additionally, their intestines are much longer than other animals, which also aids in the digestion process."
+    answer: "Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals. Their intestines are much longer than other animals, which also aids in the digestion process."
   - question: "What are the risks of having goats eat the thorns of a citrus tree branch?"
     answer: "The main risk is mouth or throat injuries from particularly long thorns, especially on grapefruit trees with thorns over 2 inches. The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once."
   - question: "How to take care of your goats if you have them eat citrus tree branches?"
@@ -63,9 +63,7 @@ The main risk is mouth or throat injuries from particularly long thorns. Grapefr
 
 The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once. Watch for soft droppings or reduced appetite as signs that they have overdone it on the citrus browse.
 
-## Things you need to remember when it comes to goats eating citrus tree branches
-
-Goats are browsers, not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
+## Things you need to remember not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
 
 A standard goat eats about 3 to 5 percent of its body weight daily, not two-thirds like some sources claim. A 150 pound goat will eat roughly 5 to 8 pounds of food per day, and citrus browse should only be a portion of that.
 

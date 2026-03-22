@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Swim? (Everything You Need To Know)"
-description: "We all know that goats are versatile animals. They can be used for their milk, meat, fur, and even dung. But one question always comes up: can goats swim? In this article, we will answer this question in full detail."
+description: "We all know that goats are versatile animals. They can be used for their milk, meat, fur, and even dung. But one question always comes up: can goats swim? we will answer this question in full detail."
 category: "training"
 postType: "guide"
 publishDate: 2022-08-22
@@ -48,13 +48,13 @@ Yes, goats can swim. Most of them won't choose to do it for fun, but they're phy
 
 Goats have the body mechanics to stay afloat and paddle forward. Their legs are strong enough to keep them moving through water, and they'll swim instinctively to escape danger or cross a flooded area.
 
-That said, most goats would rather stay dry. Unlike dogs or horses, goats generally avoid water unless they're forced into it or they stumble in by accident. You'll rarely see a goat voluntarily jump into a pond the way a Labrador would. It's just not in their nature to seek out water for recreation.
+Most goats would rather stay dry. Unlike dogs or horses, goats generally avoid water unless they're forced into it or they stumble in by accident. You'll rarely see a goat voluntarily jump into a pond the way a Labrador would. It's just not in their nature to seek out water for recreation.
 
 ## Do All Goats Like Water?
 
 Individual personality matters a lot here. Some goats will happily wade into a shallow creek on a hot summer day to cool off, while others won't go near a puddle. It really comes down to the individual animal.
 
-Young kids tend to be more curious about water than older goats. If you raise a goat around a pond from an early age, it may grow up more comfortable around water than one that's never seen it. Breed doesn't seem to matter much when it comes to water preference, as it's more about personality than genetics.
+Young kids tend to be more curious about water than older goats. If you raise a goat around a pond from an early age, it may grow up more comfortable around water than one that's never seen it. Breed doesn't seem to matter much as it's more about personality than genetics.
 
 ## Risks of Goats in Water
 

@@ -44,13 +44,13 @@ faq:
     answer: "Billy goats are very aggressive compared to wether goats. They will paw the ground, bare their teeth, and even butt heads with each other."
 ---
 
-Wethers and billy goats are not in the same league when it comes to aggression. A wether is a castrated male, and without testosterone driving his behavior, he is generally one of the calmest animals on the farm.
+Wethers and billy goats are not in the same league and without testosterone driving his behavior, he is generally one of the calmest animals on the farm.
 
 ## Can wether goats be as mean as billy goats?
 
 In most cases, no. Intact bucks have testosterone fueling territorial behavior, aggression during rut, and that famous buck stink that makes them hard to be around. Wethers lack those hormones entirely, which is why they tend to be easygoing and friendly.
 
-That said, there are two situations where a wether can develop pushy or aggressive habits. A wether castrated late, after he has already reached sexual maturity, may retain some buck behaviors even without the hormones. Bottle-raised wethers can also become pushy because they lose their natural wariness of humans.
+There are two situations where a wether can develop pushy or aggressive habits. A wether castrated late, after he has already reached sexual maturity, may retain some buck behaviors even without the hormones. Bottle-raised wethers can also become pushy because they lose their natural wariness of humans.
 
 ## The difference between pushy and aggressive
 

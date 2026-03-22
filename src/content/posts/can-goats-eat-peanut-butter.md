@@ -50,7 +50,7 @@ One thing to watch for is large globs sticking to the roof of the goat's mouth. 
 
 ## Using peanut butter to hide medication
 
-This is where peanut butter really earns its place on the farm. Goats are notoriously difficult when it comes to taking pills, and a thin smear of peanut butter can mask the taste of deworming tablets and vitamin supplements.
+This is where peanut butter really earns its place on the farm. Goats are notoriously difficult and a thin smear of peanut butter can mask the taste of deworming tablets and vitamin supplements.
 
 Wrap the pill in a small amount of peanut butter and place it on the back of the goat's tongue. Most goats swallow it without a fight because the peanut butter flavor overwhelms the medicine taste.
 

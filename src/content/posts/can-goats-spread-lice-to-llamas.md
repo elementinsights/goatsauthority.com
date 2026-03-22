@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Spread Lice To Llamas? (Everything You Need To Know)"
-description: "It is difficult to determine whether or not goats can spread lice to llamas. And if so, what are the things you need to do to prevent it? In this article, we will answer those questions and provide you with some helpful tips."
+description: "It is difficult to determine whether or not goats can spread lice to llamas. And if so, what are the things you need to do to prevent it? we will answer those questions and provide you with some helpful tips."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-06

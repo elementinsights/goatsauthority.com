@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Bite? (Everything You Need To Know)"
-description: "Taking care of a goat can be a rewarding experience. However, before you take the plunge, it's important to know what you're getting yourself into - including whether or not goats can bite. And if so, how to handle it."
+description: "Taking care of a goat can be a rewarding experience. However, before you take the plunge, know what you're getting yourself into - including whether or not goats can bite. And if so, how to handle it."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07

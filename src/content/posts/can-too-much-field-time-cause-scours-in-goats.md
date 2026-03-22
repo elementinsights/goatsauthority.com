@@ -68,7 +68,7 @@ The most common causes are sudden diet changes, parasites, bacterial infections,
 
 Coccidiosis is a major culprit in young kids. It's caused by a protozoan parasite that attacks the intestinal lining, and it can be fatal if left untreated.
 
-Bacterial infections like E. coli and Clostridium can also cause severe scours. These tend to come on fast and hit hard, especially in kids under two weeks old.
+Bacterial infections like E. Coli and Clostridium can also cause severe scours. These tend to come on fast and hit hard, especially in kids under two weeks old.
 
 ## Prevention of scours in goats
 

@@ -43,7 +43,7 @@ Most goats are not crazy about citrus foliage because of the essential oils, but
 
 Satsuma leaves, like all mandarin orange leaves, are safe for goats to eat. There is nothing toxic in them, and goats that browse on satsuma trees will not have any health problems from it.
 
-That said, most goats find the taste a bit off-putting because of the essential oils in citrus foliage. Do not be surprised if your goats sniff the leaves and walk away. The ones that do eat them are perfectly fine to continue.
+Most goats find the taste a bit off-putting because of the essential oils in citrus foliage. Do not be surprised if your goats sniff the leaves and walk away. The ones that do eat them are perfectly fine to continue.
 
 ## Nutritional value of satsuma leaves
 

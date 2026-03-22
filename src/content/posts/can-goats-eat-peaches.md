@@ -56,7 +56,7 @@ But there are a couple of important things you need to know before tossing peach
 
 Yes, goats can eat peaches without any issues. The flesh and skin are both safe and packed with vitamins A and C, plus a decent amount of fiber.
 
-That said, peaches are high in sugar compared to regular forage. Treat them like candy for your herd, not a meal replacement.
+Peaches are high in sugar compared to regular forage. Treat them like candy for your herd, not a meal replacement.
 
 A couple of peaches per goat once or twice a week is plenty. Always wash store-bought peaches first, since they often carry pesticide residue that you don’t want your goats ingesting.
 

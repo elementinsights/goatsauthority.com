@@ -62,7 +62,7 @@ Raw, unfiltered ACV with the "mother" still in it contains live bacteria and enz
 
 The scientific research on these claims is thin, but decades of anecdotal evidence from working goat farms carry some weight.
 
-## Apple cider vinegar vs. white vinegar
+## Apple cider vinegar vs. White vinegar
 
 Stick with raw apple cider vinegar for your goats. White vinegar is harsher, has a stronger smell, and lacks the beneficial bacteria found in unfiltered ACV.
 

@@ -1,6 +1,6 @@
 ---
 title: "Can You Describe A Herd Of Sheep And Goats? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering if you can describe a herd of sheep and goats or not. And if so, what do you call a group of sheep and goats? In this article, we will answer your questions and give you some tips on how to describe a herd of sheep and goats."
+description: "You may be wondering if you can describe a herd of sheep and goats or not. And if so, what do you call a group of sheep and goats? we will answer your questions and give you some tips on how to describe a herd of sheep and goats."
 category: "breeding"
 postType: "guide"
 publishDate: 2023-01-21

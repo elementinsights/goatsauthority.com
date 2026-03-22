@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bell Peppers?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume bell peppers. As a matter of fact, bell peppers are a good source of vitamins A and C, carotene, and folic acid."
+  text: "Goats can eat bell peppers. Bell peppers are a good source of vitamins A and C, carotene, and folic acid."
 toc:
   - label: "Can goats eat bell peppers?"
     href: "#can-goats-eat-bell-peppers"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat bell peppers?"
-    answer: "Goats can consume bell peppers. As a matter of fact, bell peppers are a good source of vitamins A and C, carotene, and folic acid. Goats need these nutrients for proper growth and development, and also, bell peppers contain a good amount of fiber, which can help with digestion."
+    answer: "Goats can eat bell peppers. Bell peppers are a good source of vitamins A and C, carotene, and folic acid. Goats need these nutrients for proper growth and development, and also, bell peppers contain a good amount of fiber, which can help with digestion."
   - question: "Can goats eat bell pepper leaves?"
     answer: "Bell pepper leaves contain small amounts of solanine since they belong to the nightshade family. A little nibbling is fine, but the leaves are not very nutritious. Do not let goats strip the plants bare."
   - question: "Can goats eat bell pepper roots?"
@@ -52,7 +52,7 @@ The seeds inside a bell pepper are perfectly fine for goats to eat. Go ahead and
 
 Bell pepper plants belong to the nightshade family, which makes some folks nervous. The leaves and stems do contain small amounts of solanine, but the levels are low enough that a goat nibbling on a few leaves isn't going to keel over.
 
-That said, the leaves aren't very nutritious either. If your goats have access to a pepper garden, a little nibbling is fine, but don't let them strip the plants bare or make a habit of it.
+The leaves aren't very nutritious either. If your goats have access to a pepper garden, a little nibbling is fine, but don't let them strip the plants bare or make a habit of it.
 
 ## What are the benefits of feeding bell peppers to goats?
 

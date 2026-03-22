@@ -44,7 +44,7 @@ faq:
 
 Ducks and goats actually make a great pairing on a small farm. I've seen plenty of setups where they share the same pasture without any real problems, and the two species tend to ignore each other for the most part.
 
-The key is understanding that they have very different needs when it comes to food, water, and shelter. Get those details right, and they'll coexist just fine.
+The key is understanding that they have very different needs water, and shelter. Get those details right, and they'll coexist just fine.
 
 ## Can ducks and goats coexist?
 

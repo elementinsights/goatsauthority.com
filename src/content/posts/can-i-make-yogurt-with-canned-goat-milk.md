@@ -59,7 +59,7 @@ You can also order it online in bulk, which brings the cost down. Some stores ca
 
 It's a solid substitute, not a perfect one. The canning process changes the protein structure slightly, which can affect how well the cultures set up.
 
-That said, plenty of people make great yogurt from canned goat milk every week. The convenience and year-round availability make it a practical choice, especially if you don't have milking does.
+Plenty of people make great yogurt from canned goat milk every week. The convenience and year-round availability make it a practical choice, especially if you don't have milking does.
 
 ## How do I make yogurt with canned goat milk?
 
@@ -75,9 +75,7 @@ Goat milk yogurt is easier to digest than cow milk yogurt for many people. The s
 
 The finished yogurt is packed with calcium, protein, vitamin B12, and beneficial probiotics. Add honey or fresh fruit after culturing rather than before, since sugar can interfere with the cultures during incubation.
 
-## How does canned goat milk compare to fresh goat milk when it comes to taste and texture?
-
-Fresh goat milk yogurt has a slightly tangy, clean flavor that canned milk can't quite match. The pasteurization and canning process mutes some of those natural flavors.
+## How does canned goat milk compare to fresh goat milk clean flavor that canned milk can't quite match. The pasteurization and canning process mutes some of those natural flavors.
 
 Canned goat milk yogurt tends to be thinner than fresh. Strain it through cheesecloth for two to three hours to get a thick, Greek-style consistency that works great as a dip or spread.
 

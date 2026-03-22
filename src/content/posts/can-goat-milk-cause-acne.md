@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Milk Cause Acne? (Signs, Symptoms, and Treatments)"
-description: "it's difficult to determine whether or not goat milk causes acne. And if so, what are the signs, symptoms, and treatments? We will answer all of your questions about goat milk and acne in this article and provide some tips on how to avoid breakouts."
+description: "it's difficult to determine whether or not goat milk causes acne. And if so, what are the signs, symptoms, and treatments? We will answer all of your questions about goat milk and acne and provide some tips on how to avoid breakouts."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02

@@ -35,7 +35,7 @@ faq:
   - question: "Can goats eat wheat stalks?"
     answer: "Goats can eat wheat stalks safely, but wheat straw has very little nutritional value with only 3-4% crude protein. It works as a roughage filler alongside richer hays, but should not be the primary forage."
   - question: "How to feed wheat stalks to your goats?"
-    answer: "There are a few considerations you should make when feeding wheat stalks to your goats. First and foremost, it's crucial to check that the stalks are dry and uncontaminated by mildew or other impurities."
+    answer: "There are a few considerations you should make when feeding wheat stalks to your goats. First and foremost, check that the stalks are dry and uncontaminated by mildew or other impurities."
   - question: "What are the risks associated with feeding wheat stalks to goats?"
     answer: "The main risk is feeding wheat straw as a primary forage, which leads to malnutrition since it has almost no protein or energy. Moldy straw is also dangerous and can cause listeriosis. Always check bales for mold before feeding."
   - question: "How many wheat stalks can a goat eat per day?"
@@ -51,7 +51,7 @@ Think of wheat straw like cardboard for goats. They will chew on it and it fills
 
 If you toss wheat straw into the feeder as your primary forage, expect your goats to waste most of it. They are browsers by nature and they know the difference between low-value roughage and real feed.
 
-## Wheat straw vs. wheat hay
+## Wheat straw vs. Wheat hay
 
 This is where most people get confused, and the difference matters a lot. Wheat straw is the dry, golden stems left after harvest, and it is basically roughage with minimal protein or energy. It typically runs around 3 to 4 percent crude protein, which is nowhere near enough to sustain a goat.
 

@@ -1,6 +1,6 @@
 ---
 title: "Can Any Diseases Spread from Swine to Goats? (Transmittal Diseases, and More)"
-description: "Taking care of goats can be a fun and rewarding experience. But before you bring home your new goats, it's important to do your research. One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats."
+description: "Taking care of goats can be a fun and rewarding experience. But before you bring home your new goats, do your research. One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-25

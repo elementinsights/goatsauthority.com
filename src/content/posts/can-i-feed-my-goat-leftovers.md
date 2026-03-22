@@ -11,7 +11,7 @@ imageAlt: "Can I Feed My Goat Leftovers?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can feed your goat leftovers, but you need to be careful about what kind of leftovers you're giving them. Certain foods can be harmful to goats, so it's important to do your research before feeding them anything new and to make sure the leftovers are safe to eat."
+  text: "You can feed your goat leftovers, but you need to be careful about what kind of leftovers you're giving them. Certain foods can be harmful to goats, so do your research before feeding them anything new and to make sure the leftovers are safe to eat."
 toc:
   - label: "Can I feed my goat leftovers?"
     href: "#can-i-feed-my-goat-leftovers"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I feed my goat leftovers?"
-    answer: "You can feed your goat leftovers, but you need to be careful about what kind of leftovers you're giving them. Certain foods can be harmful to goats, so it's important to do your research before feeding them anything new and to make sure the leftovers are safe to eat."
+    answer: "You can feed your goat leftovers, but you need to be careful about what kind of leftovers you're giving them. Certain foods can be harmful to goats, so do your research before feeding them anything new and to make sure the leftovers are safe to eat."
   - question: "What are some things I need to consider before feeding my goat leftovers?"
-    answer: "There are a few things you need to consider before feeding your goat leftovers. First, you need to make sure that the leftovers are safe for them to eat. Some foods can be harmful to goats, so it's important to do your research before feeding them anything new."
+    answer: "There are a few things you need to consider before feeding your goat leftovers. First, you need to make sure that the leftovers are safe for them to eat. Some foods can be harmful to goats, so do your research before feeding them anything new."
   - question: "What kind of leftovers can I feed my goat?"
     answer: "Some examples of safe leftovers to feed your goat include:."
   - question: "Are there any risks associated with feeding my goat leftovers?"

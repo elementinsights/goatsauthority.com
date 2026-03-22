@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Any Plant? (Everything You Need To Know)"
-description: "You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat? In this article, we will answer all of your questions about what goats can and cannot eat."
+description: "You may be wondering if goats can eat any plant or not. And if so, what kinds of plants are safe for goats to eat? we will answer all of your questions about what goats can and cannot eat."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-09
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Any Plant?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot eat any plant. There are many plants that are poisonous to goats and can make them very ill or even kill them and so it's important to be aware of what plants are safe for goats to eat and which ones to avoid."
+  text: "Goats cannot eat any plant. There are many plants that are poisonous to goats and can make them very ill or even kill them and so be aware of what plants are safe for goats to eat and which ones to avoid."
 toc:
   - label: "Can goats eat any plant?"
     href: "#can-goats-eat-any-plant"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat any plant?"
-    answer: "Goats cannot eat any plant. There are many plants that are poisonous to goats and can make them very ill or even kill them and so it's important to be aware of what plants are safe for goats to eat and which ones to avoid."
+    answer: "Goats cannot eat any plant. There are many plants that are poisonous to goats and can make them very ill or even kill them and so be aware of what plants are safe for goats to eat and which ones to avoid."
   - question: "What are the plants that are poisonous to goats?"
     answer: "Rhododendron, azalea, mountain laurel, yew, and oleander are all extremely toxic. Wilted cherry and plum leaves produce cyanide and are one of the most common causes of sudden goat death on farms."
   - question: "What are the plants that are edible to goats?"

@@ -97,4 +97,4 @@ Willow is excellent and goats love it. Mulberry trees produce leaves that goats 
 
 Mimosa trees are generally safe for goats. The leaves and flowers are palatable and provide decent protein as part of a varied browse diet.
 
-The seed pods can cause mild digestive upset in large quantities, so clean those up if you're concerned. Overall, mimosa is one of the less worrisome trees you'll find growing in a goat pasture. Just maintain a balanced diet with hay, minerals, and diverse forage, and your herd will do fine.
+The seed pods can cause mild digestive upset in large quantities, so clean those up if you're concerned. Mimosa is one of the less worrisome trees you'll find growing in a goat pasture. Just maintain a balanced diet with hay, minerals, and diverse forage, and your herd will do fine.

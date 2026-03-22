@@ -36,7 +36,7 @@ faq:
     answer: "Kiko goats are a hardy breed that is known for their ability to thrive in a variety of climates. They are also proficient at foraging, which makes them well-suited to life on a farm."
 ---
 
-If you're looking into meat goat breeds, Kiko goats are probably on your radar. They've been gaining ground fast in the U.S. over the past couple decades, and for good reason.
+If you're looking into meat goat breeds, Kiko goats are probably on your radar. They've been gaining ground fast in the U.S. Over the past couple decades, and for good reason.
 
 ## Where did Kiko goats originate?
 

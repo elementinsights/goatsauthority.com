@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Hay Cubes?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats."
+  text: "Goats can eat hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats."
 toc:
   - label: "Can goats eat hay cubes?"
     href: "#can-goats-eat-hay-cubes"
@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat hay cubes?"
-    answer: "Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats. They are easy to store and transport and they last longer than traditional hay. Goats also find hay cubes to be more palatable than traditional hay."
+    answer: "Goats can eat hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats. They are easy to store and transport and they last longer than traditional hay. Goats also find hay cubes to be more palatable than traditional hay."
   - question: "Can all kinds of goats eat hay cubes?"
     answer: "Yes, goats of all ages and breeds can eat hay cubes. Soak the cubes in water for 10-15 minutes before feeding to prevent choking, especially for goats that eat fast."
   - question: "What are hay cubes and what are they made of?"
@@ -58,7 +58,7 @@ The biggest advantage is reduced waste. Goats are messy eaters, and loose hay of
 
 Storage is another win. Cubes stack neatly and take up far less barn space than hay bales. They're also easier to haul if you're traveling with goats or don't have a truck for bale pickup.
 
-Hay cubes tend to resist mold better than loose hay because the compression squeezes out air. That said, they still need to be stored in a dry, covered area to stay in good shape. They do cost more per pound than baled hay, but the reduced waste usually makes up for the price difference.
+Hay cubes tend to resist mold better than loose hay because the compression squeezes out air. They still need to be stored in a dry, covered area to stay in good shape. They do cost more per pound than baled hay, but the reduced waste usually makes up for the price difference.
 
 ## Choking risk and how to prevent it
 
@@ -68,7 +68,7 @@ Soaked cubes soften up and break apart easily, which makes them much safer for a
 
 During winter, soak the cubes in warm water. Goats appreciate the warmth and tend to eat and drink more during cold weather when intake usually drops.
 
-## Hay cubes vs. hay pellets
+## Hay cubes vs. Hay pellets
 
 These two feeds look similar but they're not the same thing. Cubes are larger chunks that require real chewing, which is better for rumen health because chewing stimulates saliva production and helps buffer the rumen.
 

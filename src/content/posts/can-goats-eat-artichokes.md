@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Artichokes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume artichokes, which can be added to their diet. In fact, artichokes can be a healthy treat for goats as they are a good source of fiber and vitamins."
+  text: "Goats can eat artichokes, which can be added to their diet. In fact, artichokes can be a healthy treat for goats as they are a good source of fiber and vitamins."
 toc:
   - label: "Can goats eat artichokes?"
     href: "#can-goats-eat-artichokes"

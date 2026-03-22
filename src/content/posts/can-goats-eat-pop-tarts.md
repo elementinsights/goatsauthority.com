@@ -37,7 +37,7 @@ faq:
   - question: "Are there any other benefits that goats can enjoy from eating pop tarts?"
     answer: "There are no real nutritional benefits of Pop Tarts for goats. The sugar provides a quick energy spike, but there are far better training treats like raisins or apple slices that actually contain vitamins and minerals."
   - question: "How should you give pop tarts to your goats?"
-    answer: "When giving pop tarts to your goats, it is crucial to only give them plain pop tarts without any frosting or filling. Frosting and filling can contain sugar and other ingredients that are harmful to goats."
+    answer: "When giving pop tarts to your goats, only give them plain pop tarts without any frosting or filling. Frosting and filling can contain sugar and other ingredients that are harmful to goats."
 ---
 Goats will eat just about anything they can get their mouths on, and that includes whatever snacks you left on the barn shelf. If your goat got into a box of Pop Tarts, here's what you need to know.
 

@@ -47,7 +47,7 @@ The eggplant fruit itself is safe for goats in small amounts. But the leaves, st
 
 The purple eggplant fruit that you'd slice up for dinner is safe for goats to eat, whether raw or cooked. It contains some fiber, vitamins A and C, and a small amount of potassium.
 
-That said, eggplant isn't something goats typically go crazy for. Most will nibble a piece or two and move on. If you have leftover eggplant from the kitchen, offering a small amount as a treat is perfectly fine.
+Eggplant isn't something goats typically go crazy for. Most will nibble a piece or two and move on. If you have leftover eggplant from the kitchen, offering a small amount as a treat is perfectly fine.
 
 ## Are Any Parts of an Eggplant Safe for Goats to Eat?
 

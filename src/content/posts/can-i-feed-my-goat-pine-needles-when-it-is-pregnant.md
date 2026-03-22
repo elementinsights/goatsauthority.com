@@ -1,6 +1,6 @@
 ---
 title: "Can I Feed My Goat Pine Needles When It Is Pregnant? (FAQs)"
-description: "You may be wondering if it's safe to feed your pregnant goat pine needles or not. And if so, what are the things you need to consider? In this article, we will answer some of the frequently asked questions about feeding pregnant goats pine needles."
+description: "You may be wondering if it's safe to feed your pregnant goat pine needles or not. And if so, what are the things you need to consider? we will answer some of the frequently asked questions about feeding pregnant goats pine needles."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-12
@@ -87,6 +87,6 @@ Your vet may want to monitor the doe closely for signs of early labor, including
 
 ## Final Thoughts
 
-When it comes to pregnant goats and pine needles, the safest choice is to avoid them entirely. The risk of late-term abortion from isocupressic acid in Ponderosa pine is real and well-documented in livestock.
+The safest choice is to avoid them entirely. The risk of late-term abortion from isocupressic acid in Ponderosa pine is real and well-documented in livestock.
 
 Fence off pine trees in areas where pregnant does graze, especially during the final trimester. There are plenty of safer feed options that provide the same nutritional value without putting your kids at risk.

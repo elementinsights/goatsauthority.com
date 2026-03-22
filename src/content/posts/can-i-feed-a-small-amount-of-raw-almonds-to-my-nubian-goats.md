@@ -39,7 +39,7 @@ faq:
   - question: "How many raw almonds can I give my Nubian goat?"
     answer: "There is no one-size-fits-all answer to this question, as it will depend on the size of your goat and how much they weigh. However, a good rule of thumb is to give them no more than 1-2 ounces of raw almonds per day."
   - question: "Are there any risks associated with feeding my Nubian goat raw almonds?"
-    answer: "There are no known risks or dangers associated with feeding your Nubian goat raw almonds. Despite that, it's crucial to remember that goats are browsers, not grazers."
+    answer: "There are no known risks or dangers associated with feeding your Nubian goat raw almonds. Despite that, remember that goats are browsers, not grazers."
 ---
 
 Nubians are known for being some of the most food-motivated goats around, so it's no surprise they'll happily munch on just about anything you offer. But are raw almonds actually safe for them?

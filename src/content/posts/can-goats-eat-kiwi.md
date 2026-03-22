@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Kiwi?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Kiwi is a type of fruit that is safe for goats to eat. As a matter of fact, kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health."
+  text: "Kiwi is a type of fruit that is safe for goats to eat. Kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health."
 toc:
   - label: "Can goats eat kiwi?"
     href: "#can-goats-eat-kiwi"
@@ -37,7 +37,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat kiwi?"
-    answer: "Kiwi is a type of fruit that is safe for goats to eat. As a matter of fact, kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health."
+    answer: "Kiwi is a type of fruit that is safe for goats to eat. Kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health."
   - question: "Can goats eat kiwi leaves?"
     answer: "Yes, the kiwi vine and leaves are non-toxic to goats. However, goats will destroy a young kiwi vine if they get access to it, so fence off any vines you want to keep alive."
   - question: "Can goats eat kiwi stems?"
@@ -69,7 +69,7 @@ Just slice the kiwi in half and hand it over. For kids or smaller breeds, you ca
 
 If you grow kiwi vines on your property, you don't need to worry about your goats nibbling the leaves or stems. The kiwi plant itself is non-toxic to goats.
 
-That said, goats will absolutely destroy a young kiwi vine if they get access to it. They'll strip the bark and eat every leaf in sight, killing the plant in the process.
+Goats will absolutely destroy a young kiwi vine if they get access to it. They'll strip the bark and eat every leaf in sight, killing the plant in the process.
 
 If you want to grow kiwi for your herd, plant it behind a fence where they can't reach. Hardy kiwi varieties can survive in USDA Zone 4 and produce smaller, smooth-skinned fruit that goats find even easier to eat.
 

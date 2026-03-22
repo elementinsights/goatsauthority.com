@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Sweet Potatoes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume sweet potatoes. As a matter of fact, sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats."
+  text: "Goats can eat sweet potatoes. Sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats."
 toc:
   - label: "Can goats eat sweet potatoes?"
     href: "#can-goats-eat-sweet-potatoes"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat sweet potatoes?"
-    answer: "Goats can consume sweet potatoes. As a matter of fact, sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats. It also contains a substance called carotene, which helps to protect goats from disease."
+    answer: "Goats can eat sweet potatoes. Sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats. It also contains a substance called carotene, which helps to protect goats from disease."
   - question: "Can goats eat sweet potato leaves?"
     answer: "Yes, sweet potato vines and leaves are completely safe for goats. They are rich in vitamin A and copper, and most goats love them. The vines make fantastic supplemental forage throughout the growing season."
   - question: "Can goats eat sweet potato roots?"

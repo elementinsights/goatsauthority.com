@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Have Peppermint Treats? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering whether or not your goats can have peppermint treats. And if so, what are the benefits? In this article, we will answer all of your questions regarding goats and peppermint treats."
+description: "You may be wondering whether or not your goats can have peppermint treats. And if so, what are the benefits? we will answer all of your questions regarding goats and peppermint treats."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-10-02

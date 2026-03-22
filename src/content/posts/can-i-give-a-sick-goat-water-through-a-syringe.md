@@ -11,7 +11,7 @@ imageAlt: "Can I Give A Sick Goat Water Through A Syringe?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give a sick goat water through a syringe. It is important to make sure that the water is at room temperature and that the syringe is clean before giving it to your goat, as this will help to prevent further illness."
+  text: "You can give a sick goat water through a syringe. make sure that the water is at room temperature and that the syringe is clean before giving it to your goat, as this will help to prevent further illness."
 toc:
   - label: "Can you syringe-feed water to a sick goat?"
     href: "#can-you-syringe-feed-water-to-a-sick-goat"
@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I give a sick goat water through a syringe?"
-    answer: "You can give a sick goat water through a syringe. It is important to make sure that the water is at room temperature and that the syringe is clean before giving it to your goat, as this will help to prevent further illness."
+    answer: "You can give a sick goat water through a syringe. make sure that the water is at room temperature and that the syringe is clean before giving it to your goat, as this will help to prevent further illness."
   - question: "How do you recognize dehydration in goats?"
     answer: "Pull up a small fold of skin on the goat's neck and let go. If it stays tented for two or more seconds, the goat needs fluids right away. Other signs include sunken eyes, dry or sticky gums, dark-colored urine, and lethargy."
   - question: "How to give goat water through a syringe?"

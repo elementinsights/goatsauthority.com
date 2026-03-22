@@ -93,7 +93,7 @@ Adding a B-vitamin supplement to your goats' feed or water can provide extra ins
 
 Yes, every breed of goat can develop PEM. It is not breed-specific because it is a nutritional deficiency, not a genetic condition.
 
-That said, young goats between 2 and 6 months of age seem most vulnerable, especially during the transition from milk to solid feed. Any goat experiencing a sudden diet change should be watched closely.
+Young goats between 2 and 6 months of age seem most vulnerable, especially during the transition from milk to solid feed. Any goat experiencing a sudden diet change should be watched closely.
 
 ## What are the chances of a goat recovering from polio?
 

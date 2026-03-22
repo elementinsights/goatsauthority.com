@@ -74,7 +74,7 @@ For soft summer squash like zucchini, you can toss it out whole and let the goat
 
 Hard winter squash is a different story. Butternut and acorn squash have tough shells that can be difficult for goats to break into. Chop them into manageable pieces so your goats can actually get to the flesh. You don't need to peel them, just make the pieces small enough to eat safely.
 
-Wash grocery-store squash before feeding it to remove any pesticide residue. Garden-grown squash that hasn't been sprayed can go straight to the goats. Clean up any uneaten pieces at the end of the day so you don't attract rodents or flies to the pen.
+Wash grocery-store squash before feeding it to remove any pesticide residue. Garden-grown squash that hasn't been sprayed can go straight to the goats. Clean up any uneaten pieces so you don't attract rodents or flies to the pen.
 
 ## Final Thoughts
 

@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Have Babies a Week Apart? (Breeding Facts, FAQs, and More)"
-description: "You may be wondering if goats can have babies a week apart or not. And if so, how often does this happen? In this article, we will address all of your questions about goats giving birth and how often they breed."
+description: "You may be wondering if goats can have babies a week apart or not. And if so, how often does this happen? we will address all of your questions about goats giving birth and how often they breed."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-08-19

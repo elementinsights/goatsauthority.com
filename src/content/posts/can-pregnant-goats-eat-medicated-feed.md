@@ -35,7 +35,7 @@ faq:
   - question: "What is medicated feed, and why would you want to give it to pregnant goats?"
     answer: "Medicated feed is regular goat feed with a pharmaceutical additive mixed in, most commonly coccidiostats like decoquinate (Deccox) that prevent coccidia from overwhelming young kids after birth."
   - question: "What are the benefits of feeding medicated feed to pregnant goats?"
-    answer: "There are many benefits to feeding medicated feed to pregnant goats. For one, by providing them with a nutrient-rich diet, you can help ensure that they have all the vitamins and minerals that they need to stay healthy and support the development of their young."
+    answer: "There are many benefits to feeding medicated feed to pregnant goats. For one, by providing them with a nutrient-rich diet, you can help make sure that they have all the vitamins and minerals that they need to stay healthy and support the development of their young."
   - question: "Are there any risks associated with feeding medicated feed to pregnant goats?"
     answer: "The main risk is using the wrong medication. Monensin kills goats and shows up in many cattle and horse feeds. Some medications also have withdrawal periods that affect milk safety after kidding."
 ---

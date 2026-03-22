@@ -85,6 +85,6 @@ The best approach is prevention. Brushing 2 to 3 times a week keeps mats from fo
 
 ## Final Thoughts
 
-Pygmy goats are low-maintenance when it comes to grooming. Bath them only 2 to 3 times per year with a gentle shampoo, brush weekly, and trim hooves every 6 to 8 weeks.
+Pygmy goats are low-maintenance brush weekly, and trim hooves every 6 to 8 weeks.
 
 Keep an eye on their ears, skin, and coat condition during your regular grooming sessions. A few minutes of hands-on care each week goes a long way toward keeping your pygmy healthy and comfortable.

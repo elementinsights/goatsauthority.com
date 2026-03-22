@@ -85,6 +85,6 @@ After Halloween, you can often score free uncarved pumpkins from neighbors and g
 
 ## Final Thoughts
 
-When it comes to moldy pumpkins, the rule is simple: when in doubt, throw it out. A $3 pumpkin is not worth a $300 vet bill or losing a goat to liver failure.
+The rule is simple: when in doubt, throw it out. A $3 pumpkin is not worth a $300 vet bill or losing a goat to liver failure.
 
 Fresh pumpkins are one of the best fall treats you can offer your herd. Just inspect every one before feeding, store them properly, and toss anything that looks or smells even slightly off.

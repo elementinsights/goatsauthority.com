@@ -44,7 +44,7 @@ Here's what you need to know about goats and gingerbread, from the ingredient ri
 
 Technically, yes. A small piece of gingerbread won't poison your goat, and they'll probably gobble it up without hesitation.
 
-That said, gingerbread offers zero nutritional value for goats. It's loaded with sugar, flour, and molasses, none of which belong in a rumen-based digestive system. An occasional nibble during the holidays is fine, but this should never become a regular treat.
+Gingerbread offers zero nutritional value for goats. It's loaded with sugar, flour, and molasses, none of which belong in a rumen-based digestive system. An occasional nibble during the holidays is fine, but this should never become a regular treat.
 
 ## What's actually in gingerbread?
 

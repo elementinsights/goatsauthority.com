@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Milk Be Frozen? (Health Benefits, Hazards, FAQs & More)"
-description: "It is difficult to determine whether or not goat's milk can be frozen. And if so, what are the things you need to consider before doing so? In this article, we will address all of your questions about freezing goat's milk."
+description: "It is difficult to determine whether or not goat's milk can be frozen. And if so, what are the things you need to consider before doing so? we will address all of your questions about freezing goat's milk."
 category: "food"
 postType: "guide"
 publishDate: 2022-10-04

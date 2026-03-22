@@ -48,7 +48,7 @@ Modern goats are a different matter though. Even the largest Boer goats top out 
 
 ## Things to consider before you start training your goats to pull a plow
 
-Size matters more than anything when it comes to draft work. Large-breed wethers (castrated males) make the best draft goats because they are bigger, calmer, and do not go through rut cycles that make bucks unpredictable.
+Size matters more than anything calmer, and do not go through rut cycles that make bucks unpredictable.
 
 You also need the right equipment sized for goats. A standard horse harness will not work. Look for small-animal harnesses designed for goats or miniature ponies, and pair them with lightweight garden implements rather than full-sized plows.
 
@@ -78,6 +78,4 @@ Goats can also spook and bolt with equipment attached, which is dangerous for bo
 
 ## Final Thoughts
 
-Goats can pull lightweight garden implements and small carts, but they are not a substitute for a horse, mule, or tractor when it comes to real plowing. Wethers from large breeds like Boer or Alpine are your best candidates for draft work.
-
-If you keep your expectations realistic and train the goat properly with right-sized equipment, a draft goat can be a fun and useful addition to a small homestead. Just do not ask them to do a horse's job.
+Goats can pull lightweight garden implements and small carts, but they are not a substitute for a horse, mule, or tractor a draft goat can be a fun and useful addition to a small homestead. Just do not ask them to do a horse's job.

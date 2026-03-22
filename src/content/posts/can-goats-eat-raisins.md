@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Raisins?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume raisins. As a matter of fact, raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats."
+  text: "Goats can eat raisins. Raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats."
 toc:
   - label: "Can goats eat raisins?"
     href: "#can-goats-eat-raisins"
@@ -27,9 +27,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat raisins?"
-    answer: "Goats can consume raisins. As a matter of fact, raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats. It also contains antioxidants, which can help protect goats from diseases and health problems."
+    answer: "Goats can eat raisins. Raisins are high in vitamin A, vitamin B6, vitamin C, fiber, iron, manganese, and potassium, which are all essential nutrients for goats. It also contains antioxidants, which can help protect goats from diseases and health problems."
   - question: "Can a pregnant goat eat raisins?"
-    answer: "A pregnant goat can eat raisins, but it's crucial to feed them in moderation. Raisins are a high sugar snack and too many can lead to obesity and health problems later in life."
+    answer: "A pregnant goat can eat raisins, but feed them in moderation. Raisins are a high sugar snack and too many can lead to obesity and health problems later in life."
   - question: "Can a lactating goat eat raisins?"
     answer: "Lactating goats can eat raisins in moderation. The iron and potassium provide some nutritional benefit, but raisins should remain an occasional treat alongside quality hay and a lactation grain ration."
   - question: "Can a baby goat eat raisins?"
@@ -59,7 +59,7 @@ Raisins contain iron, potassium, calcium, and some B vitamins. The iron and pota
 
 The fiber in raisins can help with digestion in small amounts. They also provide a quick energy boost since dried fruit concentrates the natural sugars from grapes.
 
-That said, raisins are a treat, not a supplement. Your goats should be getting their real nutrition from hay, browse, and grain, with raisins as an occasional bonus.
+Raisins are a treat, not a supplement. Your goats should be getting their real nutrition from hay, browse, and grain, with raisins as an occasional bonus.
 
 ## Risks of feeding too many raisins
 

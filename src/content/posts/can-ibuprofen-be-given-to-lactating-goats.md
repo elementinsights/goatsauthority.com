@@ -1,6 +1,6 @@
 ---
 title: "Can Ibuprofen Be Given To Lactating Goats? (Everything You Need To Know)"
-description: "Taking care of lactating goats can be a rewarding experience. However, it is important to know what medications are safe to give them, as some can pass into the milk and cause health problems for their young."
+description: "Taking care of lactating goats can be a rewarding experience. However, know what medications are safe to give them, as some can pass into the milk and cause health problems for their young."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-30

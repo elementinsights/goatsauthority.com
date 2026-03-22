@@ -49,7 +49,7 @@ Most of what you'll find in a bag of spring mix is lettuce varieties. These are 
 
 The arugula and chard are the real standouts. Arugula is high in calcium and vitamin K, while chard brings iron and a decent amount of fiber to the table.
 
-Spinach adds some folate and iron as well. That said, none of these greens exist in large enough quantities in a typical bag to make a meaningful difference in your goat's overall nutrition.
+Spinach adds some folate and iron as well. None of these greens exist in large enough quantities in a typical bag to make a meaningful difference in your goat's overall nutrition.
 
 ## Benefits of feeding spring mix to goats
 

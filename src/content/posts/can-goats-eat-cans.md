@@ -44,7 +44,7 @@ They spit out the metal part. Goats are browsers, not garbage disposals, and the
 
 This myth probably started because goats are incredibly curious. They'll mouth just about anything, from your shirt zipper to a fence post, but mouthing something and actually eating it are two different things.
 
-Goats are actually picky eaters when it comes to their real diet. They prefer browse like leaves, bark, and weeds over even the best hay, and they'll turn their nose up at feed that's been on the ground for more than a few minutes.
+Goats are actually picky eaters bark, and weeds over even the best hay, and they'll turn their nose up at feed that's been on the ground for more than a few minutes.
 
 ## Health Implications of Feeding Cans to Goats
 

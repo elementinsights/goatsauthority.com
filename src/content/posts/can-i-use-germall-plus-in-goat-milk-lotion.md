@@ -35,7 +35,7 @@ faq:
   - question: "What is Germall Plus and what does it do?"
     answer: "Germall Plus is a preservative that is used in many different types of cosmetic and personal care products, including soaps, moisturizers, shampoos, and conditioners."
   - question: "How can you use Germall Plus in goat milk lotion?"
-    answer: "When using Germall Plus in goat milk lotion, it is crucial to keep a few key things in mind."
+    answer: "When using Germall Plus in goat milk lotion, keep a few key things in mind."
   - question: "What are the things you need to consider before using Germall Plus in goat milk lotion?"
     answer: "There are a few key things you need to remember when adding Germall Plus to goat milk lotion."
 ---

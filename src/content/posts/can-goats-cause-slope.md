@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Cause Slope? (Farmers Guide, Facts and More)"
-description: "Many people are wondering if goats can cause slope failure or not. And if so, what is the best way to deal with this problem? In this article, we will answer all of your questions regarding goats and slope failure."
+description: "Many people are wondering if goats can cause slope failure or not. And if so, what is the best way to deal with this problem? we will answer all of your questions regarding goats and slope failure."
 category: "safety"
 postType: "guide"
 publishDate: 2022-09-07
@@ -62,7 +62,7 @@ Here is where it gets interesting. Goats are excellent at clearing invasive brus
 
 When goats remove that brush, the native plants get more sunlight and water. Those native grasses and shrubs have root systems that reach several feet deep and hold soil far better than shallow-rooted weeds ever could.
 
-Municipalities across the western U.S. hire goat herds specifically for slope management and wildfire fuel reduction. The goats eat the brush, native plants rebound, and the hillside stabilizes over the following growing season.
+Municipalities across the western U.S. Hire goat herds specifically for slope management and wildfire fuel reduction. The goats eat the brush, native plants rebound, and the hillside stabilizes over the following growing season.
 
 A well-managed goat herd on a brushy slope actually leaves the land in better shape than it was before. The key word there is well-managed.
 

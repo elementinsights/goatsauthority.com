@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat Pass Afterbirth Between Kids? (Nursing Advice, FAQs, and More)"
-description: "Breeding goats can be a lucrative and enjoyable endeavor, but it's important to remember that there are many things to consider before starting down this path."
+description: "Breeding goats can be a lucrative and enjoyable endeavor, but remember that there are many things to consider before starting down this path."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-22

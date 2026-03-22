@@ -31,7 +31,7 @@ faq:
   - question: "Do all goats eat timothy hay?"
     answer: "Not all goats prefer timothy. Adult wethers and pet goats thrive on it as their primary roughage. Kids and does in milk need more protein than timothy alone provides, so they need alfalfa mixed in or supplemental grain."
   - question: "Can a pregnant goat eat timothy hay?"
-    answer: "A pregnant goat can eat timothy hay, but timothy alone won't provide enough protein for does in their last trimester. Supplement with alfalfa or grain to ensure pregnant does get the 15%+ protein they need."
+    answer: "A pregnant goat can eat timothy hay, but timothy alone won't provide enough protein for does in their last trimester. Supplement with alfalfa or grain to make sure pregnant does get the 15%+ protein they need."
   - question: "Can a lactating goat eat timothy hay?"
     answer: "Lactating goats can eat timothy hay, but it should be blended with alfalfa at roughly a 50/50 mix to meet their higher protein and calcium demands for milk production."
 ---
@@ -46,7 +46,7 @@ Yes, timothy hay is a safe and nutritious grass hay for goats. It's high in fibe
 
 Timothy hay typically runs between 8-11% protein, which is lower than alfalfa but perfectly adequate for adult goats that aren't pregnant or lactating. The fiber content supports healthy digestion and keeps the rumen working the way it should.
 
-## Timothy hay vs. alfalfa for goats
+## Timothy hay vs. Alfalfa for goats
 
 This is where it gets important. Alfalfa hay runs 15-22% protein, which is nearly double what timothy provides. For does in milk, pregnant does in their last trimester, and growing kids, that extra protein matters a lot.
 

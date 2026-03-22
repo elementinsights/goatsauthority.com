@@ -46,13 +46,13 @@ Yes, a toddler can catch a disease from a baby goat. Young children are at highe
 
 ## Can a Toddler Catch a Disease From a Baby Goat?
 
-The short answer is yes. Goats carry bacteria and parasites in their feces that can make young children sick. The most common culprits are E. coli, Cryptosporidium, and Salmonella, all of which spread through contact with goat droppings.
+The short answer is yes. Goats carry bacteria and parasites in their feces that can make young children sick. The most common culprits are E. Coli, Cryptosporidium, and Salmonella, all of which spread through contact with goat droppings.
 
 Toddlers are especially vulnerable because they touch everything and then touch their faces. A baby goat might look perfectly healthy and still be shedding harmful organisms in its stool. You can't tell by looking at a goat whether it's carrying something that could make your child sick.
 
 ## Which Diseases Are the Biggest Concern?
 
-E. coli and Salmonella cause diarrhea, vomiting, fever, and stomach cramps that can land a toddler in the hospital. In severe cases, certain strains of E. coli can cause kidney failure in young children. Cryptosporidium is a parasite that causes watery diarrhea lasting up to two weeks, and it's particularly tough to treat because most anti-parasitic medications don't work against it.
+E. Coli and Salmonella cause diarrhea, vomiting, fever, and stomach cramps that can land a toddler in the hospital. In severe cases, certain strains of E. Coli can cause kidney failure in young children. Cryptosporidium is a parasite that causes watery diarrhea lasting up to two weeks, and it's particularly tough to treat because most anti-parasitic medications don't work against it.
 
 Orf, also called sore mouth, is a viral skin infection that spreads through direct contact with an infected goat's mouth or udder. It causes painful blisters on a child's hands and can take several weeks to clear up on its own. Petting zoos are one of the most common exposure points for all of these diseases, which is why the CDC has specific guidelines for animal contact events.
 
@@ -76,6 +76,6 @@ If you're visiting a farm, check that the animals look healthy and the pens are 
 
 ## Final Thoughts
 
-Baby goats and toddlers are a cute combination, but the disease risk is real. E. coli, Crypto, Salmonella, and orf can all pass from a healthy-looking goat kid to a young child through simple contact.
+Baby goats and toddlers are a cute combination, but the disease risk is real. E. Coli, Crypto, Salmonella, and orf can all pass from a healthy-looking goat kid to a young child through simple contact.
 
 Wash hands with soap and water every single time, keep fingers out of mouths during contact, and supervise closely. A little caution means your child gets the fun of playing with baby goats without the trip to the emergency room.

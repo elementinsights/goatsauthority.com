@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Brush in Winter? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You may be wondering whether or not goats can eat brushes in winter. And if so, what are the nutrition facts and benefits? In this article, we will answer those questions for you, as well as provide some FAQs about goats and their eating habits."
+description: "You may be wondering whether or not goats can eat brushes in winter. And if so, what are the nutrition facts and benefits? we will answer those questions for you, as well as provide some FAQs about goats and their eating habits."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-12

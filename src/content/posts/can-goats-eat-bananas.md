@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Bananas? (Benefits, Risks, and Serving Size)"
-description: "Do you own a goat? If so, then you know that feeding them the right food is crucial. In my years of raising goats, I've often wondered about their diet. Can they eat bananas like us humans do?"
+description: "Do you own a goat? If so, then you know that feeding them the right food is important. In my years of raising goats, I've often wondered about their diet. Can they eat bananas like us humans do?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20

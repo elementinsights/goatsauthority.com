@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Lambsquarter Weed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume lambsquarter weed without any problem because it's not poisonous to them. In fact, lambsquarter weed is good for goats since it's rich in vitamins A and C, as well as minerals such as calcium, phosphorus, and iron."
+  text: "Goats can eat lambsquarter weed without any problem because it's not poisonous to them. In fact, lambsquarter weed is good for goats since it's rich in vitamins A and C, as well as minerals such as calcium, phosphorus, and iron."
 toc:
   - label: "Can goats eat lambsquarter weed?"
     href: "#can-goats-eat-lambsquarter-weed"
@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat lambsquarter weed?"
-    answer: "Goats can consume lambsquarter weed without any problem because it's not poisonous to them. In fact, lambsquarter weed is good for goats since it's rich in vitamins A and C, as well as minerals such as calcium, phosphorus, and iron."
+    answer: "Goats can eat lambsquarter weed without any problem because it's not poisonous to them. In fact, lambsquarter weed is good for goats since it's rich in vitamins A and C, as well as minerals such as calcium, phosphorus, and iron."
   - question: "Can all parts of lambsquarter weed be edible to goats?"
     answer: "Yes, all parts of the lambsquarter plant are edible for goats, including the leaves, stems, flowers, and seeds. The leaves are tender and easy to chew, making them appealing to goats of all ages."
   - question: "What is lambsquarter weed and what are its benefits to goats?"

@@ -58,7 +58,7 @@ Goats need basic care regardless of where you live: fresh water, hay, shelter fr
 
 There is no specific Skippack ordinance that addresses walking a goat on a leash in public. Pennsylvania's livestock-at-large laws focus on preventing animals from roaming freely without an owner present.
 
-As long as your goat is on a lead rope and under your control, you are unlikely to run into legal trouble. That said, clean up after your goat and be courteous to neighbors. If someone complains, the township could potentially cite you under nuisance ordinances, so keep your walks low-key.
+As long as your goat is on a lead rope and under your control, you are unlikely to run into legal trouble. Clean up after your goat and be courteous to neighbors. If someone complains, the township could potentially cite you under nuisance ordinances, so keep your walks low-key.
 
 ## What are some tips for keeping your goat safe while on a walk?
 

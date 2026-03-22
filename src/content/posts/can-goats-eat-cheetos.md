@@ -49,7 +49,7 @@ The short answer is no, a few Cheetos won't hurt your goat. But that doesn't mea
 
 A goat that eats a few Cheetos is going to be just fine. They're not toxic, and your goat's four-chambered stomach can handle the occasional junk food without a crisis.
 
-That said, Cheetos have absolutely zero nutritional value for goats. They're processed corn, artificial cheese flavoring, and a ton of salt. Your goat might love the taste, but that doesn't make it good for them.
+Cheetos have absolutely zero nutritional value for goats. They're processed corn, artificial cheese flavoring, and a ton of salt. Your goat might love the taste, but that doesn't make it good for them.
 
 ## What are Cheetos and what is their nutritional value for goats?
 

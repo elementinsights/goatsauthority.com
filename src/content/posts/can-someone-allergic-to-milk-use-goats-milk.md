@@ -1,6 +1,6 @@
 ---
 title: "Can Someone Allergic To Milk Use Goats Milk? (Everything You Need To Know)"
-description: "You may be wondering if you can drink goat milk if you're allergic to cow's milk or not. And if so, what are the things you need to consider? In this article, we will answer those questions about goat milk for people with cow's milk allergies."
+description: "You may be wondering if you can drink goat milk if you're allergic to cow's milk or not. And if so, what are the things you need to consider? we will answer those questions about goat milk for people with cow's milk allergies."
 category: "health"
 postType: "guide"
 publishDate: 2022-12-31

@@ -37,7 +37,7 @@ faq:
   - question: "What do you need to consider before getting goats in Medford, Oregon?"
     answer: "Before getting any type of livestock, there are a few important things that you need to consider. In particular, when it comes to goats, you will need to think about things like where you will be keeping them and what their access to food and water will be like."
   - question: "How much work is involved in keeping goats in Medford, Oregon?"
-    answer: "Keeping goats in Medford, Oregon is a fairly involved process, requiring a significant amount of work on the part of the owner. For one thing, goats require specialized care and feeding to ensure they stay healthy and happy."
+    answer: "Keeping goats in Medford, Oregon is a fairly involved process, requiring a significant amount of work on the part of the owner. For one thing, goats require specialized care and feeding to make sure they stay healthy and happy."
 ---
 Whether you can keep goats in Medford depends on where exactly your property sits within the city. The answer ranges from "absolutely" to "not without some paperwork," depending on your zoning.
 

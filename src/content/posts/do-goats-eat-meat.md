@@ -38,7 +38,7 @@ faq:
 
 No, goats do not eat meat. They are herbivores with a four-chamber ruminant digestive system built specifically to break down plant fiber. They cannot properly digest animal protein, and you should never intentionally feed meat to goats.
 
-That said, there are occasional reports of goats nibbling on odd things, including meat. Let's sort out what's actually going on.
+There are occasional reports of goats nibbling on odd things, including meat. Let's sort out what's actually going on.
 
 ## Do goats eat meat?
 

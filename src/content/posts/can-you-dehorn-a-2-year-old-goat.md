@@ -1,6 +1,6 @@
 ---
 title: "Can You Dehorn A 2 Year Old Goat? (Farmers Guide, Tips, Facts & FAQs)"
-description: "You may be wondering whether you can dehorn a 2 year old goat or not. And if so, what are the things you need to consider before doing so? In this article, we will answer all of your questions about dehorning a 2 year old goat."
+description: "You may be wondering whether you can dehorn a 2 year old goat or not. And if so, what are the things you need to consider before doing so? we will answer all of your questions about dehorning a 2 year old goat."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-21

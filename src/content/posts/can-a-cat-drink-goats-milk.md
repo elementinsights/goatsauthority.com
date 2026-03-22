@@ -47,7 +47,7 @@ faq:
 ---
 If you keep goats and have cats around the farm, you've probably wondered whether your cat can safely drink goat's milk. It's a common question, and the short answer is yes, most cats can handle small amounts of goat's milk just fine.
 
-That said, there are a few things worth knowing before you start pouring a saucer for your barn cat.
+There are a few things worth knowing before you start pouring a saucer for your barn cat.
 
 ## Can a cat drink goats milk?
 

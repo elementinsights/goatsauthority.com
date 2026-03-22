@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Lentils? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats can be a fun and rewarding experience, but it's important to make sure they're getting the proper nutrition. So, can goats eat lentils?"
+description: "Taking care of goats can be a fun and rewarding experience, but make sure they're getting the proper nutrition. So, can goats eat lentils?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-20

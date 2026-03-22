@@ -47,7 +47,7 @@ Yes, goats can pick up listeriosis from chicken feces, though it is not the most
 
 Listeria monocytogenes lives in soil, water, and animal waste, including chicken droppings. When goats eat hay that chickens have roosted on or drink from water troughs contaminated with chicken feces, they can ingest the bacteria.
 
-That said, the number one source of listeriosis in goats is poorly fermented silage or haylage with a pH above 5.5. Chicken feces is a secondary risk, but it is one you can control with good barn management. Farms that run chickens and goats in the same barn see higher rates of exposure simply because contamination is harder to avoid.
+The number one source of listeriosis in goats is poorly fermented silage or haylage with a pH above 5.5. Chicken feces is a secondary risk, but it is one you can control with good barn management. Farms that run chickens and goats in the same barn see higher rates of exposure simply because contamination is harder to avoid.
 
 The bacteria can survive for months in soil and bedding material, so even if you separate the species, residual contamination in shared spaces can still pose a threat. Cleaning and composting litter properly is not optional on a mixed farm.
 

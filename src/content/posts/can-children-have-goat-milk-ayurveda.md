@@ -45,7 +45,7 @@ Ayurveda has long considered goat milk one of the best milks for children. If yo
 
 Yes, children over 12 months old can have goat milk, and Ayurvedic tradition actively recommends it. In Ayurveda, goat milk is classified as "sattvic," meaning pure and light, which makes it one of the preferred milks for young children.
 
-That said, goat milk should never replace breast milk or formula for infants under one year old. It doesn't have the right balance of nutrients that babies need in their first year of life.
+Goat milk should never replace breast milk or formula for infants under one year old. It doesn't have the right balance of nutrients that babies need in their first year of life.
 
 ## What is goat milk ayurveda and what are the benefits?
 

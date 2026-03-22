@@ -44,7 +44,7 @@ Nubians can climb, but they are not mountain goats. Their large frames and flopp
 
 Nubians can scramble up low-branching trees, stumps, and fallen logs. They have the same natural climbing instinct as every other goat breed.
 
-That said, a full-grown Nubian weighs 130 to 175 pounds. That is a lot of weight on a tree branch, and it creates a much higher injury risk compared to a 40-pound Nigerian Dwarf or Pygmy goat.
+A full-grown Nubian weighs 130 to 175 pounds. That is a lot of weight on a tree branch, and it creates a much higher injury risk compared to a 40-pound Nigerian Dwarf or Pygmy goat.
 
 ## What is the reason why Nubian goats climb trees?
 

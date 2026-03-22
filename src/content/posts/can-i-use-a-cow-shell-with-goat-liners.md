@@ -75,13 +75,7 @@ You'll also see teat-end damage over time. The teats can become swollen, bruised
 
 The best prevention is simply using goat-specific equipment from the start. Companies like Hamby Dairy, Parts Dept, and Melasty all carry teat cups sized for goats.
 
-If you're on a tight budget, look for used goat milking equipment from farmers who are selling out of their herds. A properly sized used shell will outperform a brand-new cow shell every time when it comes to milking goats safely.
-
-## How to care for animals using cow shells with goat liners?
-
-Watch for signs that your milking equipment doesn't fit. Milk spraying out around the teat cup during milking is the biggest red flag.
-
-Other warning signs include teats that look discolored after milking, does that are restless on the stand, and a noticeable drop in milk production. If you're seeing any of these, swap out your equipment right away before udder damage sets in.
+If you're on a tight budget, look for used goat milking equipment from farmers who are selling out of their herds. A properly sized used shell will outperform a brand-new cow shell every time does that are restless on the stand, and a noticeable drop in milk production. If you're seeing any of these, swap out your equipment right away before udder damage sets in.
 
 ## Final Thoughts
 

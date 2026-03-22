@@ -1,6 +1,6 @@
 ---
 title: "Can a CDT Shot Kill a Goat? (Risks, Effects, FAQs & More)"
-description: "Many people are concerned about the safety of the CDT vaccine for goats. In this article, we'll answer the question: \"Can a CDT shot kill a goat?\" And we'll"
+description: "Many people are concerned about the safety of the CDT vaccine for goats. we'll answer the question: \"Can a CDT shot kill a goat?\" And we'll"
 category: "health"
 postType: "guide"
 publishDate: 2022-07-27

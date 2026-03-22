@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pine Trees?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats."
+  text: "Goats can eat pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats."
 toc:
   - label: "Can goats eat pine trees?"
     href: "#can-goats-eat-pine-trees"
@@ -37,7 +37,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat pine trees?"
-    answer: "Goats can consume pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats. They also contain a lot of fiber, which is essential for a goat's diet and helps them stay healthy."
+    answer: "Goats can eat pine trees in moderation. Pine trees are a good source of vitamin C, beta-carotene, and other minerals for goats. They also contain a lot of fiber, which is essential for a goat's diet and helps them stay healthy."
   - question: "Can a goat eat pine tree seeds?"
     answer: "Pine tree seeds are high in fat and protein, and they can be a valuable food source for goats. However, they can also be dangerous if goats eat too many of them."
   - question: "Can a pregnant goat eat pine trees?"

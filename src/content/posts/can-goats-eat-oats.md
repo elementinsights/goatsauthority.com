@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Oats?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy."
+  text: "Goats can eat oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy."
 toc:
   - label: "Can goats eat oats?"
     href: "#can-goats-eat-oats"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat oats?"
-    answer: "Goats can consume oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy. And also, the high vitamin content of oats can help to reduce stress levels and promote a sense of calm."
+    answer: "Goats can eat oats. In fact, oats are a good source of carbohydrates, proteins, and fiber, and they can help to keep a goat's digestive system healthy. And also, the high vitamin content of oats can help to reduce stress levels and promote a sense of calm."
   - question: "Can a pregnant goat eat oats?"
     answer: "Yes, pregnant does can eat oats, especially during the last two months of pregnancy when energy demands increase. Mix oats with alfalfa pellets and increase gradually to about 1 pound per day for a standard-sized doe."
   - question: "Can a baby goat eat oats?"

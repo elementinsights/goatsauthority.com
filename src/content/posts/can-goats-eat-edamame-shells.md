@@ -69,7 +69,7 @@ Always rinse store-bought edamame thoroughly before feeding it to your goats, ev
 
 Don't go overboard with the quantity either. A quarter cup of shells per adult goat per day is more than enough as a treat. Too much soy at once can cause digestive upset, especially if the goat isn't used to it.
 
-## Fresh vs. frozen edamame
+## Fresh vs. Frozen edamame
 
 If you grow soybeans, fresh edamame shells straight from the garden are the best option. They have the highest nutritional value and haven't been processed or treated with anything.
 

@@ -48,7 +48,7 @@ A tiny pinch of brown sugar won't kill your pygmy goat, but it's not something y
 
 Technically, yes. A small taste of brown sugar won't cause immediate harm to a healthy pygmy goat.
 
-That said, brown sugar is not goat feed. It offers nothing your goat actually needs, and feeding it regularly sets you up for health problems down the road.
+Brown sugar is not goat feed. It offers nothing your goat actually needs, and feeding it regularly sets you up for health problems down the road.
 
 ## Are there any risks associated with feeding brown sugar to pygmy goats?
 
@@ -64,7 +64,7 @@ Honestly, there are almost none. Brown sugar delivers quick energy and nothing e
 
 Some old-timers mix a spoonful of molasses into warm water for a weak or chilled kid, and brown sugar is similar in composition. That's a specific emergency situation though, not a daily feeding practice.
 
-## Brown sugar vs. molasses for goats
+## Brown sugar vs. Molasses for goats
 
 Many goat owners confuse the two since brown sugar contains a small percentage of molasses. Pure blackstrap molasses is actually used in commercial livestock feeds because it makes dry feed more palatable while adding iron, calcium, and magnesium.
 

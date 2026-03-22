@@ -49,7 +49,7 @@ Casaba melons are high in water content, which makes them a solid hydration boos
 
 The sugar content is lower in casaba melons compared to cantaloupe or watermelon, which actually makes them one of the better melon options for goats. The rind has some fiber in it too, which goats will happily chew through.
 
-That said, melons are a treat, not a meal replacement. Goats get the bulk of their nutrition from hay, browse, and pasture. Think of casaba melon like a snack rather than a staple.
+Melons are a treat, not a meal replacement. Goats get the bulk of their nutrition from hay, browse, and pasture. Think of casaba melon like a snack rather than a staple.
 
 ## How to feed casaba melon to goats
 

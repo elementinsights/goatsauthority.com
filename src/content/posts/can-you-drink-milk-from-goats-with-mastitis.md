@@ -35,7 +35,7 @@ faq:
   - question: "Can you drink milk from goats with mastitis?"
     answer: "You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus. This makes it dangerous to consume milk containing these bacteria and viruses."
   - question: "What kind of care should I take when drinking goat's milk?"
-    answer: "If you choose to drink goat's milk, it is crucial to take some basic precautions."
+    answer: "If you choose to drink goat's milk, take some basic precautions."
   - question: "What is mastitis and what are the symptoms?"
     answer: "Mastitis is an infection of the udder tissue in goats, usually caused by bacteria entering through the teat canal. The affected udder half becomes hot, swollen, and painful, and the milk may look watery, clumpy, or yellowish. The doe may also run a fever or go off feed."
   - question: "How do you get mastitis and how is it treated?"
@@ -46,7 +46,7 @@ No, you should not drink milk from a goat with active mastitis. The milk is cont
 
 ## Can you drink milk from goats with mastitis?
 
-Mastitis milk is not safe for human consumption. It contains bacteria like Staph, Strep, and E. coli that caused the infection in the first place, and drinking it can make you sick.
+Mastitis milk is not safe for human consumption. It contains bacteria like Staph, Strep, and E. Coli that caused the infection in the first place, and drinking it can make you sick.
 
 Beyond the safety issue, mastitis milk is clumpy, off-color, and tastes terrible. You'll know something is wrong the moment you see it come out of the teat — it doesn't look or smell like normal milk.
 

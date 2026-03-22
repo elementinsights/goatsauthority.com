@@ -1,6 +1,6 @@
 ---
 title: "Can Weather Affect Goats Poop? (Livestock Facts, FAQs & More)"
-description: "Many people believe that the only important part of animal husbandry is feeding them, but paying attention to their waste is just as crucial."
+description: "Many people believe that the only important part of animal husbandry is feeding them, but paying attention to their waste is just as important."
 category: "housing"
 postType: "guide"
 publishDate: 2023-01-08

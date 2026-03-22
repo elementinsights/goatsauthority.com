@@ -50,7 +50,7 @@ Yes, many people drink goat milk straight from the goat without any processing a
 
 Raw goat milk has been consumed for thousands of years, and plenty of small-farm families drink it daily without issue. The milk comes out warm, and some folks drink it right there in the barn.
 
-The risk is real though. Raw milk can carry Listeria, E. coli, Campylobacter, and the organism that causes Q fever. Pasteurization kills these pathogens, which is why public health agencies consistently recommend it over raw consumption.
+The risk is real though. Raw milk can carry Listeria, E. Coli, Campylobacter, and the organism that causes Q fever. Pasteurization kills these pathogens, which is why public health agencies consistently recommend it over raw consumption.
 
 ## What are the benefits of drinking goat milk?
 

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Moldy Hay? (Everything You Need To Know)"
-description: "Have you ever wondered about the diet of a goat? I own goats and feeding them right is crucial. One common question that comes up is about moldy hay. Is it safe for our hoofed friends or not?"
+description: "Have you ever wondered about the diet of a goat? I own goats and feeding them right is important. One common question that comes up is about moldy hay. Is it safe for our hoofed friends or not?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28

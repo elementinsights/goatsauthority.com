@@ -35,7 +35,7 @@ faq:
   - question: "What is suturing and what are its benefits to goats?"
     answer: "Suturing, or the practice of sewing wounds closed is an essential procedure in the management of goats. By closing up a goat's wound, you can help prevent infections and other complications from arising."
   - question: "What supplies do you need to suture a goat effectively and safely?"
-    answer: "When suturing a goat, it is crucial to have the right tools and supplies on hand. First, you will need basic medical supplies such as sterile gloves, bandages, and gauze."
+    answer: "When suturing a goat, have the right tools and supplies on hand. First, you will need basic medical supplies such as sterile gloves, bandages, and gauze."
 ---
 In an emergency, yes, many experienced goat owners suture minor wounds themselves. It's not something to take lightly, but having the skill and supplies on hand can save a goat's life when the vet is hours away.
 

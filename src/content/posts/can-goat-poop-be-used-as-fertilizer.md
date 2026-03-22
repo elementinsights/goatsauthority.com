@@ -39,7 +39,7 @@ faq:
   - question: "How to collect goat droppings?"
     answer: "Goat droppings are an excellent source of fertilizer for gardens and can be collected in a number of ways. One method is to simply sweep them up with a broom, being careful to avoid any that have been contaminated with urine."
   - question: "How to store goat poop until you're ready to use it as fertilizer?"
-    answer: "Goat poop is an excellent source of fertilizer for gardens and plants. However, it's crucial to store the goat poop properly until you are ready to use it."
+    answer: "Goat poop is an excellent source of fertilizer for gardens and plants. However, store the goat poop properly until you are ready to use it."
 ---
 
 Goat manure is one of the best fertilizers you can get, and you're already producing it for free if you keep goats. It comes out in neat little pellets that are easy to collect, easy to spread, and won't burn your plants the way chicken manure will.

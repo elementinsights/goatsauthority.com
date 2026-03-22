@@ -78,7 +78,7 @@ Check your goats for bite wounds immediately. Any goat bitten or scratched by a 
 
 Raccoons are a nuisance predator, but they're not in the same league as the animals that kill the most goats. Domestic dogs running loose are the number one killer of goats in most areas, followed closely by coyotes.
 
-Foxes will take young kids, similar to raccoons. In western states, mountain lions and bears are serious threats that need much more robust fencing and guardian animals. The key with raccoons is managing what draws them in. If they have no access to feed, water troughs, or vulnerable kids, most will move on to easier pickings.
+Foxes will take young kids, similar to raccoons. In western states, mountain lions and bears are serious threats that need much more strong fencing and guardian animals. The key with raccoons is managing what draws them in. If they have no access to feed, water troughs, or vulnerable kids, most will move on to easier pickings.
 
 ## What animals can protect goats from predators?
 

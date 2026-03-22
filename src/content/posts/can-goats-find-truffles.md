@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Find Truffles? (Everything You Need To Know)"
-description: "We all know that goats are smart animals. But have you ever wondered if goats can find truffles? And if so, how do they do it? In this article, we will answer all of your questions about goats and truffles."
+description: "We all know that goats are smart animals. But have you ever wondered if goats can find truffles? And if so, how do they do it? we will answer all of your questions about goats and truffles."
 category: "training"
 postType: "guide"
 publishDate: 2022-09-28

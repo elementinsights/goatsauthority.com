@@ -48,7 +48,7 @@ This is one of the most common breeding questions I hear from new goat owners. T
 
 No, a goat cannot get pregnant when she is truly not in heat. Ovulation only happens during estrus, and without ovulation there is no egg to fertilize. A buck can mount a doe anytime he pleases, but conception will not happen unless she is cycling.
 
-That said, there is a catch that trips people up. Silent heats are real, and they fool a lot of goat owners. During a silent heat, the doe ovulates and is fertile but shows no obvious external signs. So while it looks like she is not in heat, she actually is.
+There is a catch that trips people up. Silent heats are real, and they fool a lot of goat owners. During a silent heat, the doe ovulates and is fertile but shows no obvious external signs. So while it looks like she is not in heat, she actually is.
 
 ## What is the goat’s reproductive cycle?
 

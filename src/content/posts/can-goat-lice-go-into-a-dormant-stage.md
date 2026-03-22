@@ -1,6 +1,6 @@
 ---
 title: "Can Goat Lice Go Into a Dormant Stage? (Everything You Need To Know)"
-description: "You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case? In this article about goat lice and dormancy, we will address all of your concerns and provide all the information you require."
+description: "You might be curious as to whether goat lice can go dormant. What are the stages of dormancy, if such is the case? about goat lice and dormancy, we will address all of your concerns and provide all the information you require."
 category: "health"
 postType: "guide"
 publishDate: 2022-09-02
@@ -50,7 +50,7 @@ Lice thrive in the thick winter coats goats grow starting in late fall. The dens
 
 By late spring, goats shed their winter coats and spend more time in direct sunlight. UV light and heat are natural enemies of lice, which is why summer infestations are rare. The population crashes but a handful of lice survive, waiting for next winter's coat to grow back in.
 
-## Biting lice vs. sucking lice
+## Biting lice vs. Sucking lice
 
 There are two types of lice that affect goats, and knowing which one you're dealing with changes how you treat them. Biting lice feed on dead skin, hair, and surface debris. They cause intense itching and rough, damaged coats, but they don't drain blood.
 

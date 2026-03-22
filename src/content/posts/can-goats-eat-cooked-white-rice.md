@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cooked White Rice? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat may be enjoyable and rewarding. You might be wondering what kind of food a goat can consume if you're considering getting one or currently have one. You can be curious about a certain dish, such as rice."
+description: "Taking care of a goat may be enjoyable and rewarding. You might be wondering what kind of food a goat can eat if you're considering getting one or currently have one. You can be curious about a certain dish, such as rice."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-14
@@ -61,7 +61,7 @@ Mix about half a cup of cooked rice with their regular grain to help bind things
 
 If the diarrhea lasts more than a day or two, skip the home remedies and call your vet. Persistent loose stools in goats usually point to parasites, infection, or something else that rice won't solve.
 
-## Raw rice vs. cooked rice
+## Raw rice vs. Cooked rice
 
 Don't feed raw rice to goats. Uncooked rice absorbs moisture and expands in the digestive tract, which can cause discomfort and bloating.
 

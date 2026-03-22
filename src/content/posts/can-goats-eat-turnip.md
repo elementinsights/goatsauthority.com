@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Turnip? (Everything You Need To Know)"
-description: "We all know that goats are famous for eating just about anything. But what about turnips? Can goats eat turnips? In this article, we will address everything you need to know about whether or not goats can eat turnips."
+description: "We all know that goats are famous for eating just about anything. But what about turnips? Can goats eat turnips? we will address everything you need to know about whether or not goats can eat turnips."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-27

@@ -1,6 +1,6 @@
 ---
 title: "Can I Buy A Goat As A Pet? (Everything You Need To Know)"
-description: "We all know that dogs are a man's best friend. But what about goats? Can you buy a goat as a pet? And if so, how can you take care of it? In this article, we'll tell you everything you need to know about buying and taking care of a pet goat."
+description: "We all know that dogs are a man's best friend. But what about goats? Can you buy a goat as a pet? And if so, how can you take care of it? we'll tell you everything you need to know about buying and taking care of a pet goat."
 category: "housing"
 postType: "guide"
 publishDate: 2022-10-11

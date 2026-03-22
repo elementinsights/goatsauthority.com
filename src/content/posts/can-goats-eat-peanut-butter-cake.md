@@ -48,7 +48,7 @@ If your goats got into some peanut butter cake, there is no reason to panic. A s
 
 Yes, goats can eat a small amount of peanut butter cake without any real harm. They are curious eaters and will happily gobble up baked goods if given the chance.
 
-That said, peanut butter cake is a sugary human dessert. It is not a health food, it will not prevent parasites, and it has no place in a goat's regular diet.
+Peanut butter cake is a sugary human dessert. It is not a health food, it will not prevent parasites, and it has no place in a goat's regular diet.
 
 ## What is the nutritional value of peanut butter cake for goats?
 

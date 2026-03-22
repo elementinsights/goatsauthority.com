@@ -1,6 +1,6 @@
 ---
 title: "Can Baby Goats Have Any Electrolytes? (Health Tips and Breeding Guides)"
-description: "When it comes to baby goats, many people are curious about their health and what they need in order to thrive. In this article, we'll explore the topic of electrolytes and baby goats and how they can benefit from them."
+description: "When it comes to baby goats, many people are curious about their health and what they need in order to thrive. the topic of electrolytes and baby goats and how they can benefit from them."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-26
@@ -54,7 +54,7 @@ Electrolytes are dissolved minerals like sodium, potassium, and chloride that ke
 
 When a kid gets diarrhea, it loses these minerals along with water. Plain water alone won't fix a dehydrated kid — you need to replace the salts and sugars too.
 
-## How can you ensure that your baby goats get enough electrolytes?
+## How can you make sure that your baby goats get enough electrolytes?
 
 The easiest route is a commercial goat electrolyte product like Sav-A-Kid or Bounce Back. Mix it with warm water according to the label and offer it through a bottle or syringe between regular milk feedings.
 

@@ -36,7 +36,7 @@ faq:
     answer: "Adult Nigerian Dwarf goats typically weigh 60 to 80 pounds. A full-grown animal dresses out at roughly 25 to 35 pounds of meat, compared to 60 to 80 pounds from a Boer goat."
 ---
 
-Yes, Nigerian Dwarf goats can be used for meat, but they're primarily a dairy breed. If you're expecting the same output as a Boer goat, you'll be disappointed. That said, plenty of small homesteaders process Nigerian Dwarfs every year and find the arrangement works just fine for their needs.
+Yes, Nigerian Dwarf goats can be used for meat, but they're primarily a dairy breed. If you're expecting the same output as a Boer goat, you'll be disappointed. Plenty of small homesteaders process Nigerian Dwarfs every year and find the arrangement works just fine for their needs.
 
 The real question isn't whether you can eat them. It's whether the meat yield makes sense for your operation.
 

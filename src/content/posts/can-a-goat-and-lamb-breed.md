@@ -1,6 +1,6 @@
 ---
 title: "Can a Goat and Lamb Breed? (Are Geeps Actually Real?)"
-description: "Goat and lamb breeding is a topic on which many people have questions. We will delve into the subject in-depth and address some of the most frequent queries in this article."
+description: "Goat and lamb breeding is a topic on which many people have questions. We will look into the subject in-depth and address some of the most frequent queries in this article."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-07-28
@@ -64,7 +64,7 @@ The tricky part is copper. Goats need copper in their mineral mix, but sheep are
 
 The few geeps that have survived tend to be docile and curious animals. They often display a blend of goat playfulness and sheep calmness, which can make them entertaining to be around.
 
-That said, a geep is not a pet you can plan on owning. You cannot buy one from a breeder or order one online. They only appear by chance or through rare research breeding, and most do not survive to adulthood.
+A geep is not a pet you can plan on owning. You cannot buy one from a breeder or order one online. They only appear by chance or through rare research breeding, and most do not survive to adulthood.
 
 ## Do geeps reproduce?
 

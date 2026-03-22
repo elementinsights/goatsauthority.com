@@ -58,7 +58,7 @@ Henbit is a decent source of protein, fiber, and vitamins A and C. It also conta
 
 It's not going to replace hay or quality browse as a primary feed source. But as part of a mixed pasture, henbit adds variety and nutrients to your goats' diet without any downside. The leaves, stems, and flowers are all edible and safe.
 
-## Henbit vs. purple deadnettle
+## Henbit vs. Purple deadnettle
 
 Henbit gets confused with purple deadnettle (Lamium purpureum) all the time, and honestly it doesn't matter much from a goat feeding standpoint. Both plants are in the same genus, both are safe for goats, and both show up in the same places at the same time of year.
 

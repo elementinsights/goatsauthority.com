@@ -1,6 +1,6 @@
 ---
 title: "Can Hoof Rot Kill A Goat? (Everything You Need To Know)"
-description: "It is difficult to determine whether or not hoof rot can kill a goat. And if so, how long would it take? In this article, we will answer those questions and provide you with everything you need to know about hoof rot."
+description: "It is difficult to determine whether or not hoof rot can kill a goat. And if so, how long would it take? we will answer those questions and provide you with everything you need to know about hoof rot."
 category: "health"
 postType: "guide"
 publishDate: 2022-10-09

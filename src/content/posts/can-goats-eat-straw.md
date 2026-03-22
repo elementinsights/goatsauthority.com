@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Straw? (Everything You Need To Know)"
-description: "there's a lot of misunderstanding and incorrect information on the subject of whether or not goats can consume straws. What then is the solution? Do goats consume straw?"
+description: "there's a lot of misunderstanding and incorrect information on the subject of whether or not goats can eat straws. What then is the solution? Do goats consume straw?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-12

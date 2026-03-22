@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Make Money? (Everything You Need To Know)"
-description: "We all know that goats are adorable creatures. But have you ever wondered if goats can actually make you money? And if so, how? In this article, we will answer those questions for you."
+description: "We all know that goats are adorable creatures. But have you ever wondered if goats can actually make you money? And if so, how? we will answer those questions for you."
 category: "breeding"
 postType: "guide"
 publishDate: 2022-10-04
@@ -49,7 +49,7 @@ Dairy products are another strong revenue stream if you're willing to deal with 
 
 ## What is the goat-rearing business all about?
 
-Meat goats are in consistent demand, especially Boer crosses sold to ethnic meat markets. Goat meat is the most consumed red meat in the world, and domestic supply in the U.S. doesn't come close to meeting demand.
+Meat goats are in consistent demand, especially Boer crosses sold to ethnic meat markets. Goat meat is the most consumed red meat in the world, and domestic supply in the U.S. Doesn't come close to meeting demand.
 
 Fiber goats offer another income stream. Angora goats produce mohair, and certain breeds produce cashmere. Both fibers sell well to handspinners and small-batch textile producers.
 

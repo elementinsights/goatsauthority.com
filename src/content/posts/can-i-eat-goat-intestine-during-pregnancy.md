@@ -1,6 +1,6 @@
 ---
 title: "Can I Eat Goat Intestine During Pregnancy? (Everything You Need To Know)"
-description: "It is difficult to determine whether you can eat goat intestine during pregnancy or not. And if so, what are the things you need to consider? In this article, we will answer the question: can I eat goat intestine during pregnancy?"
+description: "It is difficult to determine whether you can eat goat intestine during pregnancy or not. And if so, what are the things you need to consider? we will answer the question: can I eat goat intestine during pregnancy?"
 category: "food"
 postType: "guide"
 publishDate: 2022-10-12

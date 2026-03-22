@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Top Teeth? (Everything You Need To Know)"
-description: "Do goats have top teeth? That's a question that has been puzzling people for years. And while it may seem like a simple question, the answer is not so clear-cut. As a matter of fact, there's some debate over whether or not goats even have top teeth."
+description: "Do goats have top teeth? That's a question that has been puzzling people for years. And while it may seem like a simple question, the answer is not so clear-cut. There's some debate over whether or not goats even have top teeth."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-03
@@ -58,7 +58,7 @@ This is the same across all domestic and wild goat species. It's a trait shared 
 
 ## What are the uses of goat's top teeth?
 
-The back molars do the heavy lifting when it comes to chewing. Goats are browsers, not grazers, so they spend a lot of time crunching through woody plants, bark, and rough forage that would wear down weaker teeth fast.
+The back molars do the heavy lifting not grazers, so they spend a lot of time crunching through woody plants, bark, and rough forage that would wear down weaker teeth fast.
 
 The lower incisors and dental pad work together like a pinch grip. That's why a goat bite feels more like a hard pinch than an actual bite. They can strip bark off a tree or snap off a branch tip with that setup, but they can't really chomp down the way a horse or dog can.
 

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Onions? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Onions are a popular vegetable that is enjoyed by many. But what about goats? Can they eat onions too? And if so, what are the benefits and risks? In this article, we will explore these questions and more."
+description: "Onions are a popular vegetable that is enjoyed by many. But what about goats? Can they eat onions too? And if so, what are the benefits and risks? these questions and more."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-08
@@ -65,7 +65,7 @@ Lethargy and rapid breathing usually follow within one to four days after the go
 
 Garlic belongs to the same plant family as onions and contains the same type of compounds. The concentrations are lower in garlic, which is why some goat owners use small amounts as a natural fly repellent in feed.
 
-That said, any allium in large quantities poses a risk. Leeks, chives, and shallots all carry the same compounds and should not be fed to goats as a regular part of their diet.
+Any allium in large quantities poses a risk. Leeks, chives, and shallots all carry the same compounds and should not be fed to goats as a regular part of their diet.
 
 If you want to add flavor or variety to your goat's feed, skip the allium family entirely. Dried herbs like oregano, thyme, and rosemary are much safer options and most goats enjoy them.
 

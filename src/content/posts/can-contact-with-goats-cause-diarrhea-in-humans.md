@@ -1,6 +1,6 @@
 ---
 title: "Can Contact With Goats Cause Diarrhea in Humans? (All You Need To Know)"
-description: "You may be wondering if you can get diarrhea from goats or not. And if so, what are the things you should know? In this article, we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options."
+description: "You may be wondering if you can get diarrhea from goats or not. And if so, what are the things you should know? we will answer all of your questions regarding goats and diarrhea, including the symptoms, causes, and treatment options."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-30
@@ -49,7 +49,7 @@ It's not something to panic about, but it is something every goat owner and pett
 
 ## Can contact with goats cause diarrhea in humans?
 
-Goats can carry Cryptosporidium, E. coli, Campylobacter, and Salmonella, all of which are shed in their feces. A goat can look perfectly healthy and still be shedding these organisms.
+Goats can carry Cryptosporidium, E. Coli, Campylobacter, and Salmonella, all of which are shed in their feces. A goat can look perfectly healthy and still be shedding these organisms.
 
 You pick them up by touching a goat, a fence, a water bucket, or anything else that has come in contact with goat manure. Then you eat a snack, rub your eye, or touch your mouth without washing your hands first. That's all it takes.
 

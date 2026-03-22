@@ -1,6 +1,6 @@
 ---
 title: "Can Goats And Horses Pasture Together? (Everything You Need To Know)"
-description: "Many people are curious if goats and horses can pasture together or not. And if so, what are the benefits? In this article, we will answer all of your questions regarding grazing goats and horses together."
+description: "Many people are curious if goats and horses can pasture together or not. And if so, what are the benefits? we will answer all of your questions regarding grazing goats and horses together."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-05

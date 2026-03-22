@@ -1,6 +1,6 @@
 ---
 title: "Can You Catch Diseases From Goats? (Everything You Need To Know)"
-description: "You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks? In this article, we will answer those questions about diseases and goats so that you can feel more informed next time you're around them."
+description: "You may be wondering whether or not you can catch diseases from goats. And if so, what are the risks? we will answer those questions about diseases and goats so that you can feel more informed next time you're around them."
 category: "health"
 postType: "guide"
 publishDate: 2023-01-18
@@ -60,7 +60,7 @@ Q fever is caused by the bacterium Coxiella burnetii and spreads primarily throu
 
 Orf, also called sore mouth or contagious ecthyma, causes painful blisters on the hands and fingers after skin-to-skin contact with an infected goat. It heals on its own but takes a few weeks and it's genuinely uncomfortable.
 
-Cryptosporidiosis and E. coli spread through fecal contact. Handling baby goats with scours and then touching your face is the most common way this happens. Rabies is rare in goats but possible through bites from infected animals.
+Cryptosporidiosis and E. Coli spread through fecal contact. Handling baby goats with scours and then touching your face is the most common way this happens. Rabies is rare in goats but possible through bites from infected animals.
 
 ## What are the risks of catching diseases from goats?
 
@@ -68,7 +68,7 @@ For most healthy adults, the risk is genuinely low. Your immune system can handl
 
 The risk increases significantly during kidding season. Birthing fluids carry the highest concentration of bacteria like Brucella and Chlamydia, making this the most dangerous time to skip protective gear.
 
-People who drink unpasteurized goat milk also face higher exposure. Raw milk can carry Listeria, Salmonella, and E. coli, so immunocompromised individuals should stick to pasteurized products.
+People who drink unpasteurized goat milk also face higher exposure. Raw milk can carry Listeria, Salmonella, and E. Coli, so immunocompromised individuals should stick to pasteurized products.
 
 ## How do you prevent yourself from catching those diseases?
 

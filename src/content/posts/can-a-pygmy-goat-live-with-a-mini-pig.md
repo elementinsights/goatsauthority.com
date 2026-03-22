@@ -48,7 +48,7 @@ Yes, a pygmy goat can live with a mini pig. Both are social animals that enjoy c
 
 These two species can share space and even form genuine bonds with each other. Both pygmy goats and mini pigs are herd-minded animals that get lonely when kept alone, so having a companion of another species is better than having no companion at all.
 
-That said, they're not the same animal and they don't have the same needs. The biggest mistakes happen when owners treat them identically and don't account for their differences in diet, behavior, and housing preferences. Getting those details right from the start prevents most of the problems people run into.
+They're not the same animal and they don't have the same needs. The biggest mistakes happen when owners treat them identically and don't account for their differences in diet, behavior, and housing preferences. Getting those details right from the start prevents most of the problems people run into.
 
 ## The Feeding Challenge
 

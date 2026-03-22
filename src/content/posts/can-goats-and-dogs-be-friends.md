@@ -1,6 +1,6 @@
 ---
 title: "Can Goats And Dogs Be Friends? (Farmers Guide, Facts, and More)"
-description: "You may be wondering if goats and dogs can be friends or not. And if so, what are the best ways to introduce them? In this article, we will answer all of your questions about goats and dogs."
+description: "You may be wondering if goats and dogs can be friends or not. And if so, what are the best ways to introduce them? we will answer all of your questions about goats and dogs."
 category: "training"
 postType: "guide"
 publishDate: 2022-09-05

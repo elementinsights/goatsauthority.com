@@ -1,6 +1,6 @@
 ---
 title: "Can a Dairy Goats Udder Skin Have Varying Colors? (FAQs & More)"
-description: "Dairy goats are a source of milk for many people all over the world. In this article, we'll answer the question: can a dairy goat's udder skin have varying colors? And what are the reasons for varying udder skin colors?"
+description: "Dairy goats are a source of milk for many people all over the world. we'll answer the question: can a dairy goat's udder skin have varying colors? And what are the reasons for varying udder skin colors?"
 category: "health"
 postType: "guide"
 publishDate: 2022-07-27
@@ -68,7 +68,7 @@ The important thing is knowing which color changes are normal and which signal a
 
 ## What are dairy goats and what do they provide?
 
-Dairy goats are breeds specifically selected for high milk production. The most common dairy breeds in the U.S. are Nubians, Saanens, Alpines, LaManchas, Toggenburgs, and Oberhaslis, each with their own strengths in milk volume and butterfat content.
+Dairy goats are breeds specifically selected for high milk production. The most common dairy breeds in the U.S. Are Nubians, Saanens, Alpines, LaManchas, Toggenburgs, and Oberhaslis, each with their own strengths in milk volume and butterfat content.
 
 A good dairy doe produces 2 to 3 quarts of milk per day for about 10 months after kidding. That milk gets used for drinking, cheesemaking, soap, yogurt, and dozens of other products on small farms and homesteads across the country.
 

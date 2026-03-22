@@ -42,7 +42,7 @@ faq:
 
 Yes, goat milk is the best emergency substitute for orphaned kittens when you can't get your hands on kitten milk replacer (KMR). It's closer to cat milk in composition than cow milk, and most kittens tolerate it well.
 
-That said, it's not a perfect long-term replacement. Here's what you need to know.
+It's not a perfect long-term replacement. Here's what you need to know.
 
 ## Can baby kittens drink goats milk?
 

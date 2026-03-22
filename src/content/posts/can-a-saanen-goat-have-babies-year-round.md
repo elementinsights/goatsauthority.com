@@ -50,7 +50,7 @@ In tropical climates closer to the equator, where day length stays more consiste
 
 Saanens are a large-framed dairy breed that originated in the Saanen Valley of Switzerland. They're white or cream-colored, and mature does typically weigh between 130 and 180 pounds.
 
-They're the Holsteins of the goat world when it comes to milk output. A good Saanen doe can produce 1 to 3 gallons of milk per day during peak lactation, though 2 to 3 quarts daily is more typical for an average backyard doe.
+They're the Holsteins of the goat world though 2 to 3 quarts daily is more typical for an average backyard doe.
 
 Their temperament is calm and easygoing, which makes them a popular choice for families and first-time goat owners. They handle well on the milk stand and are less flighty than some other dairy breeds.
 

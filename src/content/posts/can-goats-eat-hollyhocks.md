@@ -47,7 +47,7 @@ Yes, hollyhocks are safe for goats to eat. They belong to the mallow family (Mal
 
 Goats can eat hollyhocks without any health concerns. The leaves, stems, and flowers are all safe, and no part of the plant is toxic to goats.
 
-That said, hollyhocks are not typically a goat's first choice when they have other browse options available. They will eat them if the plants are within reach, but do not expect the same level of excitement you would see with a fresh branch of willow or mulberry.
+Hollyhocks are not typically a goat's first choice when they have other browse options available. They will eat them if the plants are within reach, but do not expect the same level of excitement you would see with a fresh branch of willow or mulberry.
 
 ## What are hollyhocks and what do they look like?
 

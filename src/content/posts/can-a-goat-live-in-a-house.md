@@ -42,7 +42,7 @@ faq:
 
 Keeping a goat in your house full-time is not recommended. While it sounds fun in theory, the reality involves a lot of poop, chewed-up furniture, and a smell you'll never fully get out of your carpet.
 
-That said, temporary indoor care for sick or orphaned kids is completely normal on a farm.
+Temporary indoor care for sick or orphaned kids is completely normal on a farm.
 
 ## Can a goat live in a house?
 

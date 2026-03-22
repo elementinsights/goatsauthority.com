@@ -42,7 +42,7 @@ faq:
 
 Yes, you can use Vaseline as a lubricant during an assisted goat birth. It works in a pinch when you need to help reposition a kid in the birth canal.
 
-That said, there are better options if you have time to prepare ahead of kidding season.
+There are better options if you have time to prepare ahead of kidding season.
 
 ## Can I use vaseline on goat birth?
 

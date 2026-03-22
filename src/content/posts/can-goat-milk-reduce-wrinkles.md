@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat milk reduce wrinkles?"
-    answer: "It's possible that goat milk can reduce wrinkles. Goat milk contains fatty acids and lactic acid, which can help to hydrate and nourish the skin. Additionally, the fat in goat milk can help to fill in fine lines and wrinkles."
+    answer: "It's possible that goat milk can reduce wrinkles. Goat milk contains fatty acids and lactic acid, which can help to hydrate and nourish the skin. The fat in goat milk can help to fill in fine lines and wrinkles."
   - question: "What are wrinkles and what causes them?"
     answer: "Wrinkles are folds or creases in the skin. They can occur anywhere on the body, but they are most commonly found in areas that get a lot of sun exposure, such as the face, neck, hands, and forearms. Wrinkles are usually deepest when you smile or frown."
   - question: "How to use goat milk to reduce wrinkles?"
@@ -69,7 +69,7 @@ For a more concentrated treatment, apply raw goat milk directly to your face as 
 
 Goat milk is gentle enough for most skin types, which is one of its biggest advantages over harsher chemical exfoliants. People with sensitive skin often find that goat milk products cause less irritation than commercial retinoids or glycolic acid treatments.
 
-That said, the lactic acid can cause mild redness or tingling in some people, especially on the first few uses. If you have a dairy allergy, you could have a skin reaction, so do a patch test on your wrist before applying it to your face. Stop using it if you notice any persistent redness, itching, or breakouts.
+The lactic acid can cause mild redness or tingling in some people, especially on the first few uses. If you have a dairy allergy, you could have a skin reaction, so do a patch test on your wrist before applying it to your face. Stop using it if you notice any persistent redness, itching, or breakouts.
 
 ## Where to find goat milk skincare products
 

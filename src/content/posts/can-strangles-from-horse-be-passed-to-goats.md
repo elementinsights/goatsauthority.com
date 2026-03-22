@@ -46,7 +46,7 @@ Strangles is primarily a horse disease caused by the bacterium Streptococcus equ
 
 The short answer is that it is very unlikely. Strangles is caused by Streptococcus equi, which is adapted to horses and other equines. Goats have their own species of Streptococcus bacteria that cause different diseases.
 
-That said, the bacteria can theoretically survive on shared water troughs, feed buckets, and equipment for several days. On a mixed farm where a horse has active strangles, a goat drinking from the same contaminated water source could be exposed. The risk is low, but basic biosecurity eliminates it almost entirely.
+The bacteria can theoretically survive on shared water troughs, feed buckets, and equipment for several days. On a mixed farm where a horse has active strangles, a goat drinking from the same contaminated water source could be exposed. The risk is low, but basic biosecurity eliminates it almost entirely.
 
 ## What are the symptoms of strangles in horses?
 

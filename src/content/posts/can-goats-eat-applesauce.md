@@ -80,7 +80,7 @@ Baby kids should skip the applesauce until they are eating solid food regularly.
 
 Pregnant does can have a spoonful as a treat, but do not overdo it. The extra sugar is not something a pregnant goat needs in large amounts.
 
-## Homemade vs. store-bought
+## Homemade vs. Store-bought
 
 Making your own applesauce for the goats takes about 20 minutes and you can skip all the junk ingredients. Core and chop a few apples, simmer them in a pot with a little water until soft, then mash them up.
 

@@ -45,7 +45,7 @@ faq:
 ---
 If you've got cedar trees growing in your pasture, you've probably watched your goats strip the bark and nibble the branches without a second thought. Most common cedar species found on farms are perfectly safe for goats, and many herds actually love browsing on them.
 
-That said, not all trees called "cedar" are created equal. Here's what you need to know before letting your herd go to town on that cedar stand.
+Not all trees called "cedar" are created equal. Here's what you need to know before letting your herd go to town on that cedar stand.
 
 ## Can goats eat cedar trees?
 

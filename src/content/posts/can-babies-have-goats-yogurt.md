@@ -48,7 +48,7 @@ Yes, goat's yogurt is generally safe for babies who are 6 months or older and ha
 
 Goat milk yogurt is a good option once your baby is ready for solids, typically around 6 months of age. The fat globules in goat milk are smaller than those in cow milk, which makes it gentler on a baby's developing digestive system.
 
-That said, goat's yogurt is not a replacement for breast milk or formula. It's a complementary food, meaning it should be part of a varied diet alongside other age-appropriate foods. Think of it as one item on the menu, not the whole meal.
+Goat's yogurt is not a replacement for breast milk or formula. It's a complementary food, meaning it should be part of a varied diet alongside other age-appropriate foods. Think of it as one item on the menu, not the whole meal.
 
 ## Benefits for Babies
 

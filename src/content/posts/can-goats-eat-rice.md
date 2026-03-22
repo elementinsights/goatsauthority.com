@@ -54,7 +54,7 @@ The answer is yes, but with some important details that make the difference betw
 
 Cooked rice is safe for goats. White rice, brown rice, jasmine, basmati -- the variety doesn't really matter as long as it's been cooked and served plain.
 
-That said, rice is mostly carbohydrates. It doesn't bring much protein, fat, or the fiber that a rumen actually needs to function well.
+Rice is mostly carbohydrates. It doesn't bring much protein, fat, or the fiber that a rumen actually needs to function well.
 
 Think of rice the same way you'd think of pasta for goats. It's not harmful, but it's not doing much for them nutritionally either. A small amount mixed into their regular feed is fine as an occasional addition.
 

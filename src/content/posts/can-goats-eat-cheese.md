@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cheese? (Truths and Misconceptions Unveiled)"
-description: "Have you ever wondered what a goat can eat? As a goat owner, I’ve often asked myself the same thing. It’s not always easy to know what is safe for our four-legged friends. One common question that comes up is about cheese."
+description: "Have you ever wondered what a goat can eat? As a goat owner, I’ve often asked myself the same thing. It’s not always easy to know what is safe for our goats. One common question that comes up is about cheese."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-28
@@ -44,7 +44,7 @@ A small nibble of plain cheese won’t hurt your goat, but cheese is not a natur
 
 Technically, yes. A tiny piece of mild cheese every now and then is not going to send your goat to the vet.
 
-That said, adult goats don’t produce much lactase, which is the enzyme needed to break down lactose. The lactose in cheese can cause digestive upset, loose stools, and gas if they eat more than a small amount. It’s one of those things where "can" and "should" are two very different answers.
+Adult goats don’t produce much lactase, which is the enzyme needed to break down lactose. The lactose in cheese can cause digestive upset, loose stools, and gas if they eat more than a small amount. It’s one of those things where "can" and "should" are two very different answers.
 
 ## Can Baby Goats Eat Cheese?
 

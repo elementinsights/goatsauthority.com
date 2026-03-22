@@ -37,7 +37,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat peppers?"
-    answer: "Goats can consume peppers. In fact, peppers are high in vitamin C and other essential nutrients. They are a good source of antioxidants and can help protect goats from certain diseases. Peppers also contain capsaicin, which has been shown to have anti-inflammatory properties."
+    answer: "Goats can eat peppers. In fact, peppers are high in vitamin C and other essential nutrients. They are a good source of antioxidants and can help protect goats from certain diseases. Peppers also contain capsaicin, which has been shown to have anti-inflammatory properties."
   - question: "Can goats eat pepper leaves?"
     answer: "Pepper plants belong to the nightshade family and the leaves contain solanine. A few nibbles probably won't cause issues, but you shouldn't let goats graze freely on pepper plants."
   - question: "Can goats eat pepper seeds?"
