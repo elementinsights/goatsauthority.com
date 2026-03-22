@@ -25,11 +25,11 @@ toc:
     href: "#debunking-myths-do-goats-actually-eat-anything"
 faq:
   - question: "Understanding Goat's Diet: Can They Really Eat Cans?"
-    answer: "Goats are known for their strong stomachs. Many people think they can eat anything, even cans. But is this really true? Let's dive deeper into the goat's diet."
+    answer: "No, goats do not eat cans. They chew on the paper labels and glue on the outside, then spit out the metal. If a goat swallows metal, it can cause hardware disease, which is potentially fatal."
   - question: "Pet Talk: Do Goats Really Like to Eat Cans?"
-    answer: "Many people believe that goats will eat anything, even cans. But is this true? Let's look at the facts."
+    answer: "Goats are curious and investigate everything with their mouths, but mouthing something is not the same as eating it. They are actually picky browsers that prefer leaves, bark, and weeds."
   - question: "Debunking Myths: Do Goats Actually Eat Anything?"
-    answer: "Many people believe goats eat anything, even cans. This is a myth that needs to be debunked. Goats are actually picky eaters."
+    answer: "No, goats are browsers, not garbage disposals. They prefer to eat at chest height, targeting bark, leaves, and weeds. Their reputation comes from investigating things with their lips and tongue, not from actually consuming them."
 ---
 
 The image of a goat chomping down on a tin can is one of the oldest myths in farming. Every cartoon has done it, and plenty of non-farmers believe it's true. It's not.

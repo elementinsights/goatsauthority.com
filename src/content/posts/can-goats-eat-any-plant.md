@@ -33,9 +33,9 @@ faq:
   - question: "Can goats eat any plant?"
     answer: "Goats cannot eat any plant. There are many plants that are poisonous to goats and can make them very ill or even kill them and so it's important to be aware of what plants are safe for goats to eat and which ones to avoid."
   - question: "What are the plants that are poisonous to goats?"
-    answer: "Many plants are poisonous to goats, and it's crucial for farmers and ranchers to be aware of which plants are dangerous to their animals."
+    answer: "Rhododendron, azalea, mountain laurel, yew, and oleander are all extremely toxic. Wilted cherry and plum leaves produce cyanide and are one of the most common causes of sudden goat death on farms."
   - question: "What are the plants that are edible to goats?"
-    answer: "While goats are often thought of as being strict herbivores, they are actually quite adaptable in terms of their diet."
+    answer: "Goats thrive on a wide variety of browse including blackberry brambles, honeysuckle, willow, maple leaves, dandelions, plantain, and clover. They prefer woody browse and broadleaf plants over grass."
   - question: "What to do if your goat eats something it shouldn't have?"
     answer: "If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as vomiting or difficulty breathing, then you need to seek professional medical help immediately."
 ---

@@ -39,9 +39,9 @@ faq:
   - question: "What should you do if you notice your goat's poop is different from usual?"
     answer: "If you notice that your goat's poop is different from usual, there are a few things you can do."
   - question: "What is the link between weather and goat poop production?"
-    answer: "Goats are interesting creatures, and their digestive system is a bit different from ours. For example, goats can eat plants that are poisonous to humans, and they can digest cellulose, which we cannot."
+    answer: "Weather impacts goat droppings mostly through diet changes and stress. Sudden rain triggers rapid grass growth that causes loose stool. Wet, warm conditions cause parasites to thrive, and a heavy worm load is one of the most common causes of diarrhea in goats."
   - question: "How does climate affect goat digestion?"
-    answer: "Climate definitely has an effect on goat digestion. Goats are adapted to cooler climates and their systems can't handle the heat as well as some other animals."
+    answer: "Hot weather causes goats to drink and eat less, slowing rumen function and producing smaller, harder pellets. Cold stress can cause scours in kids by diverting energy away from normal digestion. Adjusting feed and providing shelter helps manage these effects."
 ---
 
 Yes, weather changes can absolutely affect what comes out of your goats. If you have been raising goats for any length of time, you have probably noticed that droppings change with the seasons, and there is a good reason for that.

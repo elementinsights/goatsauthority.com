@@ -11,7 +11,7 @@ imageAlt: "Can Mountain Goats Climb Cliffs?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Mountain goats are able to scale cliffs because of their powerful hooves and pointed claws. They can easily jump from one ledge to another because they are also incredibly nimble creatures."
+  text: "Mountain goats can climb near-vertical cliff faces thanks to their split hooves with rubbery inner pads that grip rock and hard outer edges that dig into cracks. Steep terrain is their primary defense against predators."
 toc:
   - label: "Can mountain goats climb cliffs?"
     href: "#can-mountain-goats-climb-cliffs"
@@ -37,11 +37,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can mountain goats climb cliffs?"
-    answer: "Mountain goats are able to scale cliffs because of their powerful hooves and pointed claws. They can easily jump from one ledge to another because they are also incredibly nimble creatures. They are frequently utilized as a sign of power because of how well-known their prowess at scaling cliffs is."
+    answer: "Mountain goats can climb near-vertical cliff faces using their split hooves with rubbery inner pads for grip and hard outer edges for traction. This climbing ability is their primary defense against predators like wolves, mountain lions, and bears."
   - question: "What are mountain goats and what do they look like?"
-    answer: "Mountain goats are not actually goats, but they are a type of antelope. They have woolly white coats and long horns that curve backward. They are native to North America and can be found in the Rocky Mountains and the Cascade Range."
+    answer: "Mountain goats belong to the genus Oreamnos and are more closely related to antelopes and chamois than to domestic goats. They have thick, woolly white coats and black, slightly curved horns, and are native to North America."
   - question: "How do mountain goats climb cliffs?"
-    answer: "Mountain goats use their hooves and claws to grip the rocks as they climb. They are also able to jump from one ledge to another with ease. Their nimble bodies help them maintain their balance on the cliff face, and their extra hooves help them grip the snow and ice."
+    answer: "Each hoof is split into two toes that spread apart independently, creating a wider base on narrow ledges. The rubbery inner pad grips rock while the hard outer edges dig into ice and cracks for traction."
   - question: "What kind of habitats do mountain goats live in?"
     answer: "Mountain goats live in high elevations, usually above 8,000 feet. They are often found in the Rocky Mountains and the Cascade Range. They prefer to live in areas with rocky outcrops and cliffs where they can escape predators and find food."
 ---

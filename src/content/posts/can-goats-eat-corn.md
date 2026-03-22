@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Corn?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Corn is also a good source of energy for goats. Like oats and alfalfa, corn helps provide the energy goats need to maintain their activity levels."
+  text: "Yes, goats can eat corn as part of a balanced diet, but moderation is critical. Corn is high in starch and too much can cause acidosis, a potentially fatal condition. Keep corn under 50% of the grain portion."
 toc:
   - label: "Can goats eat corn?"
     href: "#can-goats-eat-corn"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat corn?"
-    answer: "Goats can eat corn. In fact, corn is a good source of food for goats. Goats need a diet that is high in fiber, and corn is a good source of fiber. Goats also need a diet that is high in protein, and corn is a good source of protein."
+    answer: "Yes, corn is safe as part of a balanced diet. It provides quick energy and is commonly used as a grain supplement. Keep it under 50% of the grain portion, and always provide plenty of hay alongside any grain."
   - question: "Can a pregnant goat eat corn?"
-    answer: "A pregnant goat can eat corn. As a matter of fact, corn is a good source of food for pregnant goats. Pregnant goats need a diet that is high in fiber, and corn is a good source of fiber. Pregnant goats also need a diet that is high in protein, and corn is a good source of protein."
+    answer: "Pregnant does can eat corn, especially in the last six weeks when kids are growing fastest. A small amount mixed with regular feed provides extra calories. Do not overdo it, as too much grain can lead to oversized kids and difficult deliveries."
   - question: "Can a baby goat eat corn?"
-    answer: "Corn is a type of grain that is safe for baby goats to eat. You can give your goat corn kernels, corn on the cob, or even popcorn."
+    answer: "Kids can start nibbling on corn once they are eating solid food, around 2-3 weeks old. Offer small amounts mixed with other grains and go slow, since too much corn too early can upset rumen development."
   - question: "What is corn and what are the types of corn?"
     answer: "You may not realize it, but corn is actually grass. Its scientific name is Zea mays, and it's part of the Poaceae family, which also includes wheat, oats, and rice."
 ---

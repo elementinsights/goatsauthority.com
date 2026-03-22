@@ -11,7 +11,7 @@ imageAlt: "Can Goats Climb Fences?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, not all goats are good climbers. Some goats may be too heavy or uncoordinated to climb a fence, and others may simply be scared of heights."
+  text: "Yes, goats can and will climb fences. They use horizontal rails as steps and squeeze through small gaps. Woven wire or cattle panels at least 5 feet tall with no footholds are the best fencing options."
 toc:
   - label: "Can goats climb fences?"
     href: "#can-goats-climb-fences"
@@ -35,11 +35,11 @@ faq:
   - question: "Can goats climb fences?"
     answer: "Goats can scale fences. They are very good climbers. Goats' sharp hooves aid in fence grip, and their agile bodies allow them to easily maneuver around obstacles. They are also known for their intelligence and problem-solving skills, so they will often find ways to climb over fences."
   - question: "What type of fence is best for goats?"
-    answer: "When it comes to fencing for goats, there are a few things to keep in mind."
+    answer: "Woven wire fencing is best because it gives goats nothing to grip with their hooves. Cattle panels are also solid. Board fences with horizontal rails are the worst because the boards act as a ladder goats walk right up."
   - question: "How to keep your goats safe and secure?"
-    answer: "Goats are curious creatures, and they will often try to escape their enclosure if given the chance. Appropriately, it's important to make sure that your goat fence is secure."
+    answer: "Check corners and gates first since those are where goats always find weak spots. Use heavy-duty latches that require a lifting motion to open, and make sure gates sit flush against posts with no wiggle room."
   - question: "What is the point of fences, if goats can just climb over them anyway?"
-    answer: "Fences are often used to keep animals contained in a specific area. For example, farmers may use fences to keep cattle from roaming onto other property or to keep predators out of a pasture."
+    answer: "The right fence absolutely keeps goats contained. Woven wire and cattle panels with no footholds work well. For persistent climbers, a single strand of electric wire along the top stops even the most determined goat after one or two zaps."
 ---
 
 If you keep goats, you already know the answer to this one. Yes, goats can and will climb fences, and they're shockingly good at it.

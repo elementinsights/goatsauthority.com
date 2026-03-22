@@ -11,7 +11,7 @@ imageAlt: "Can Pygmy Goats Eat Eucalyptus?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "On top of that, eucalyptus leaves can help prevent parasitic infections, which are common in goats. The oil found in eucalyptus leaves is also known to have anti-inflammatory and antibacterial properties, which can be helpful in treating skin conditions."
+  text: "Eucalyptus is not recommended for pygmy goats. The leaves contain eucalyptol and other volatile oils that can cause digestive irritation and other health issues. Keep your pygmy goats away from eucalyptus trees."
 toc:
   - label: "Can pygmy goats eat eucalyptus?"
     href: "#can-pygmy-goats-eat-eucalyptus"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can pygmy goats eat eucalyptus?"
-    answer: "Eucalyptus is safe for pygmy goats to eat. In actuality, they provide goats with a healthy diet. High quantities of fiber, which are necessary for a healthy digestive tract, can be found in eucalyptus leaves. They also include calcium and phosphorus, elements essential for healthy bones and teeth."
+    answer: "Eucalyptus is not recommended for pygmy goats. The leaves contain eucalyptol and other volatile oils that can cause digestive irritation. Pygmy goats are smaller than standard breeds, so it takes less of the toxic compound to cause problems."
   - question: "Are there any risks associated with feeding eucalyptus leaves to pygmy goats?"
-    answer: "There are indeed several risks associated with feeding eucalyptus leaves to pygmy goats."
+    answer: "Eucalyptol and the tannins in eucalyptus leaves can irritate the digestive tract. In larger amounts, they can cause vomiting, diarrhea, and lethargy. The safest approach is to fence off eucalyptus trees from your goat area."
   - question: "How to prevent your pygmy goat from getting sick?"
-    answer: "There are a few key things that you can do to help prevent your pygmy goat from getting sick."
+    answer: "Start with clean water at all times, quality hay as the foundation of the diet, and proper loose minerals. Keep pastures clear of toxic plants including eucalyptus, azaleas, rhododendrons, and yew."
   - question: "What are the treatments for a sick pygmy goat?"
-    answer: "There are several different treatments that can be used to help a sick pygmy goat."
+    answer: "If your pygmy goat has eaten eucalyptus and shows loss of appetite, diarrhea, or lethargy, call your vet right away. Treatment typically includes fluids, electrolytes, and monitoring until the oils pass through the system."
 ---
 Eucalyptus is not the best browse option for pygmy goats. The leaves contain eucalyptol, an oil compound that is mildly toxic to goats, and it is not something you should encourage them to eat.
 

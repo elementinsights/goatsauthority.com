@@ -11,7 +11,7 @@ imageAlt: "Can I Have A Goat In Foothill Farms CA"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have a goat in Foothill Farms, CA because there are no laws or ordinances that prohibit goats. In fact, there are no animal control laws in the city. That said, you should still check with your homeowner's association to"
+  text: "Whether you can have a goat in Foothill Farms depends on your parcel's zoning under Sacramento County regulations. Foothill Farms is unincorporated, so county rules apply rather than city ordinances."
 toc:
   - label: "Can I have a goat in Foothill Farms CA?"
     href: "#can-i-have-a-goat-in-foothill-farms-ca"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I have a goat in Foothill Farms CA?"
-    answer: "You can have a goat in Foothill Farms, CA because there are no laws or ordinances that prohibit goats. In fact, there are no animal control laws in the city. That said, you should still check with your homeowner's association tosee if they have any rules about goats."
+    answer: "Foothill Farms falls under Sacramento County jurisdiction, so you need to check the county's zoning code for your specific parcel. Sacramento County allows livestock on parcels zoned for agriculture, but standard residential zones often have restrictions."
   - question: "How much does it cost to have a goat in Foothill Farms?"
     answer: "The cost of having a goat in Foothill Farms depends on a number of different factors. Generally speaking, the initial investment in purchasing and housing your goat will be one of the largest costs."
   - question: "Who can have a goat in Foothill Farms?"
-    answer: "In order to keep a goat in the city of Foothill Farms, you must meet certain criteria. To begin, goats must be kept on a property that is at least 5 acres in size, and this property must also have adequate fencing to contain the animal."
+    answer: "Anyone whose property meets the Sacramento County zoning requirements for livestock can keep goats. If you live in a neighborhood with a homeowner's association, check those rules too because HOA covenants can restrict livestock even when county zoning allows it."
   - question: "What kind of goats are allowed in Foothill Farms?"
     answer: "Foothill Farms is home to many different types of goats, each with their own unique traits and characteristics. Some of the most common breeds found in Foothill Farms include Angora goats, dairy goats, and meat goats."
 ---

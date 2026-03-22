@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Produce Milk But Also be a Pack Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes."
+  text: "A goat can do both jobs, but probably not at the same time. A doe in heavy lactation is uncomfortable under a pack saddle, so most owners use dairy does for packing during their dry period."
 toc:
   - label: "Can a goat produce milk but also be a pack goat?"
     href: "#can-a-goat-produce-milk-but-also-be-a-pack-goat"
@@ -29,11 +29,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat produce milk but also be a pack goat?"
-    answer: "A goat can both produce milk and be a pack goat. Goats are very versatile animals and are often used for both purposes. Furthermore, because goats are less expensive than other animals such as cows or horses, many people choose to use them for both purposes."
+    answer: "A goat can do both, but not well at the same time. A doe in heavy lactation with a full udder is uncomfortable under a pack saddle. The best approach is to use dairy does for packing during their dry period."
   - question: "What is a pack goat and what are its uses?"
     answer: "A pack goat is a domesticated goat that is used to carry supplies and equipment for humans, often in mountainous or remote terrain. Originally from Europe, the animals were brought to North America by early settlers and explorers."
   - question: "What to look for when choosing a pack goat?"
-    answer: "When it comes to choosing a pack goat, there are a few things you'll want to keep in mind."
+    answer: "Wethers make the best dedicated pack goats since they're bigger and stronger than does and have no udder to worry about. Look for a calm temperament, strong legs, and a goat that bonds well with people."
   - question: "What breed of goat makes a good pack leader?"
     answer: "There are many breeds of goats that make good pack leaders. Some of the most popular breeds include the Alpine, the Nubian, and the LaMancha."
 ---

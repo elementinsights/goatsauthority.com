@@ -11,7 +11,7 @@ imageAlt: "Can Goats Climb 92 Degrees?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet."
+  text: "No, 92 degrees is past vertical and no goat can climb an overhang. Wild mountain goats can handle inclines up to about 60 degrees, and domestic goats can manage steep hillsides and rock piles."
 toc:
   - label: "Can goats climb 92 degrees?"
     href: "#can-goats-climb-92-degrees"
@@ -33,11 +33,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats climb 92 degrees?"
-    answer: "Goats can climb very steep inclines, even up to 90 degrees, because of their hooves. They have sharp claws that allow them to grip the ground and keep them steady on their feet. They also have a double-jointed ankle that allows for a greater range of motion."
+    answer: "No, 92 degrees is past vertical and no goat can climb that. Wild mountain goats can handle inclines up to about 60 degrees using their split hooves with hard outer edges and soft inner pads for grip. The viral photos online are often shot at misleading angles."
   - question: "What breed of goat is best for climbing?"
-    answer: "Pygmy goats are known for their small size, but they are also agile and sure-footed, making them ideal for climbing."
+    answer: "Wild mountain goats (Oreamnos americanus) are the best climbers, evolved specifically for steep alpine terrain. Among domestic breeds, Nigerian Dwarfs, Pygmies, and Alpine breeds are the most capable climbers."
   - question: "What are the benefits of letting your goats climb?"
-    answer: "When it comes to goats, there are a few things they love more than climbing. Whether it's a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces."
+    answer: "Climbing gives goats exercise that works different muscle groups, builds balance, and keeps their hooves naturally worn down. Goats with climbing access are less bored, less stressed, and less likely to test fences."
   - question: "Do you need special equipment for your goats to climb?"
     answer: "In most cases, no special equipment is necessary for goats to climb. However, there are a few products on the market that can help to make climbing more enjoyable for both goats and their owners."
 ---

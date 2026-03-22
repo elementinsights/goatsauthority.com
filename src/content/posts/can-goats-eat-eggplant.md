@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Eggplant?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "They contain many nutrients that can be beneficial for your goat's health. These include vitamins A and C, as well as dietary fiber which aids digestion."
+  text: "The ripe eggplant fruit is safe for goats in small amounts, but the leaves, stems, and flowers are toxic because eggplant belongs to the nightshade family and contains solanine."
 toc:
   - label: "Can Goats Eat Eggplant Raw or Cooked?"
     href: "#can-goats-eat-eggplant-raw-or-cooked"
@@ -31,13 +31,13 @@ toc:
     href: "#eggplants-are-members-of-the-nightshade-family"
 faq:
   - question: "Can Goats Eat Eggplant Raw or Cooked?"
-    answer: "Can goats eat eggplant, whether raw or cooked? The answer is yes. Goats can safely consume both forms of this vegetable. Eggplants are not harmful to goats in any way."
+    answer: "The ripe purple eggplant fruit is safe for goats to eat raw or cooked in small amounts. It contains some fiber and vitamins A and C."
   - question: "Are Any Parts of an Eggplant Safe for Goats to Eat?"
-    answer: "Goats can eat many things, but what about eggplant? Yes, goats can safely munch on this purple vegetable. It's not harmful to them at all."
+    answer: "Only the ripe fruit is safe. The leaves, stems, and flowers of the eggplant plant contain solanine, a toxic compound from the nightshade family, and should be kept away from goats."
   - question: "Can Goats Consume Eggplant Leaves Safely?"
-    answer: "Can goats eat eggplant leaves? This is a question many goat owners often ask. The simple answer is yes, they can. Goats are known for their diverse diet and ability to consume various plants."
+    answer: "No, eggplant leaves contain significant amounts of solanine and goats should not eat them. If your goats have access to your garden, fence off the eggplant rows to prevent access."
   - question: "What Should You Do if Your Goats Eat Eggplant?"
-    answer: "If your goats have eaten eggplant, there's no need to worry. Goats can safely eat this vegetable without any harm. It is rich in nutrients that are beneficial for their health."
+    answer: "If your goat ate the ripe fruit, there is no cause for concern. If your goat ate the leaves, stems, or flowers, remove the goat from the area immediately, offer fresh water and hay, and watch for symptoms like drooling, weakness, or diarrhea."
 ---
 If you've got eggplant growing in your garden and goats roaming nearby, you need to understand the difference between the fruit and the rest of the plant. This is one of those situations where the answer isn't a simple yes or no.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Rottweilers Drink Goat Milk?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Rottweilers can drink goat's milk as long as it is raw and unpasteurized. Goat's milk is a good alternative to"
+  text: "Yes, rottweilers can drink goat milk safely. The smaller fat globules make it easier to digest than cow milk, and most dogs tolerate it well whether raw or pasteurized."
 toc:
   - label: "Can rottweilers drink goat milk?"
     href: "#can-rottweilers-drink-goat-milk"
@@ -35,11 +35,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can rottweilers drink goat milk?"
-    answer: "Rottweilers can drink goat's milk as long as it is raw and unpasteurized. Goat's milk is a good alternative tocow's milk for rottweilers who are lactose intolerant. It is also higher in calcium, phosphorus, and fat than cow's milk."
+    answer: "Yes, rottweilers can drink goat milk safely. Goat milk has smaller fat globules and less alpha-s1 casein than cow milk, making it easier to digest. Start with a few tablespoons per day and work up to one or two cups."
   - question: "What is goat milk and what are its benefits for rottweilers?"
     answer: "Goat milk is a type of milk that comes from goats, and it is loaded with nutrients and health-promoting compounds that can benefit dogs, especially rottweilers."
   - question: "How much goat milk should a rottweiler drink per day?"
-    answer: "While there is no definitive answer to this question, it is generally recommended that a rottweiler drink between one and two cups of goat milk per day."
+    answer: "Start with a few tablespoons per day and see how your dog handles it. Most adult rottweilers can work up to one or two cups per day. If you notice loose stools or gas, cut back and increase more slowly."
   - question: "What are the potential risks of giving a rottweiler too much goat milk?"
     answer: "The potential risks of giving a rottweiler excessive amounts of goat milk are many and varied. Chief among these is the fact that large quantities of goat milk can lead to digestive issues in dogs, including vomiting, diarrhea, and bloating."
 ---

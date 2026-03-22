@@ -39,7 +39,7 @@ faq:
   - question: "How is goat milk different from cow's milk?"
     answer: "Goat milk and cow milk might look similar, but they differ in a number of key ways. To begin with, goat milk is higher in protein, calcium, and vitamin C than cow milk, which makes it a healthier choice for people who are trying to maintain a balanced diet."
   - question: "How much goat milk should the puppy drink?"
-    answer: "There is no one-size-fits-all answer to the question of how much goat milk a puppy should drink. This will depend greatly on factors such as the size and age of the dog, as well as its general health and dietary habits."
+    answer: "For a newborn puppy, start with about 1 to 2 ml per ounce of body weight per feeding, with feedings every 2 to 3 hours. Increase the amount as the puppy grows and watch for firm stools as a sign of good tolerance."
 ---
 If you've got an orphaned puppy or a litter that needs supplementing, goat milk is one of the best options you can reach for. It's safe for puppies, easy to digest, and you can find it at most grocery stores.
 

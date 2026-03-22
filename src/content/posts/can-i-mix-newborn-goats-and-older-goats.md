@@ -11,7 +11,7 @@ imageAlt: "Can I Mix Newborn Goats And Older Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can mix newborn goats and older goats together because they are both social animals. In fact, it is recommended that you do so to****prevent isolation and boredom****.****They are also less likely to fight if they are around other goats."
+  text: "Not right away. Keep newborn kids with their dam in a private kidding stall for the first 3 to 7 days, then introduce them to the herd gradually through a fence. By 2 to 3 weeks old, supervised mixing usually goes smoothly."
 toc:
   - label: "Can I mix newborn goats and older goats?"
     href: "#can-i-mix-newborn-goats-and-older-goats"
@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I mix newborn goats and older goats?"
-    answer: "You can mix newborn goats and older goats together because they are both social animals. In fact, it is recommended that you do so toprevent isolation and boredom.They are also less likely to fight if they are around other goats."
+    answer: "Not right away. A newborn kid is too small and fragile to handle adult goats safely. Keep them in a private stall with their dam for the first week, then introduce them gradually. By 2 to 3 weeks old, most kids can hold their own."
   - question: "What is the difference between a newborn and older goats?"
     answer: "When it comes to goats, there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts."
   - question: "Why mix them together?"

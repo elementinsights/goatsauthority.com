@@ -29,11 +29,11 @@ faq:
   - question: "Can goats be outside in winter?"
     answer: "Goats are actually quite tough creatures and can withstand colder temperatures because of their thick coat of fur. They are also able to find shelter from the cold by standing next to trees or rocks and using them as windbreaks."
   - question: "What is the best way to keep goats warm in winter weather conditions?"
-    answer: "One of the best ways to keep goats warm in winter weather conditions is to provide them with a shelter that is well-ventilated and dry. Goats are susceptible to frostbite, so it's crucial to make sure that their shelter is located in an area that gets plenty of sunlight."
+    answer: "Provide a dry, draft-free shelter that still has good overhead ventilation to prevent ammonia buildup. The deep litter method, where you add fresh straw on top of old layers, generates heat and keeps the floor 10 to 15 degrees warmer."
   - question: "How can you provide shelter for your goats during the winter?"
-    answer: "Goats are relatively hardy creatures and can withstand cold weather fairly well. However, they will still need some shelter from the elements during the winter months."
+    answer: "A simple three-sided shed with the open side facing away from the prevailing wind works perfectly. Don't seal it too tight; goats need airflow overhead while staying protected from drafts at their height."
   - question: "What are some tips for feeding your goats during the winter?"
-    answer: "As the weather gets colder, you may need to make some changes to the way you feed your goats. For example, you may need to provide them with additional hay or straw to help them stay warm."
+    answer: "Offer free-choice grass hay and keep feeders stocked, especially in the evening before temperatures drop. Digesting fiber generates body heat. Use a heated water bucket since goats won't drink enough if water is ice cold or frozen."
 ---
 Goats handle cold weather a lot better than most new owners expect. The real danger isn't the temperature itself but the combination of cold, wet, and wind that can take a healthy goat down fast.
 

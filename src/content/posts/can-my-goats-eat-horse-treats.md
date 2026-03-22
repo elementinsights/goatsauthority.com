@@ -35,9 +35,9 @@ faq:
   - question: "What are horse treats and why are they given to goats?"
     answer: "Horse treats are small, bite-sized pieces of food that are given to horses as a form of reinforcement or reward."
   - question: "What are the benefits of giving goats horse treats?"
-    answer: "There are several different benefits to giving goats horse treats. Perhaps most importantly, horse treats can provide much-needed nutrients and energy to goats, which in turn helps them to maintain their health and stay active throughout the day."
+    answer: "Horse treats are convenient, cheap, and work well as training rewards during milking, hoof trimming, or lead training. They also give your goats some variety in their routine, though treats should never make up more than 5% of the daily diet."
   - question: "How do you know if your goat can eat horse treats safely?"
-    answer: "To determine if your goat can safely eat horse treats, you'll need to consider a few different factors."
+    answer: "Check the label for monensin, ionophores, xylitol, chocolate, and garlic, all of which are harmful to goats. If the treats contain only oats, barley, flaxseed, and fruit flavoring, they are safe."
 ---
 
 Most horse treats are perfectly safe for goats, and your goats will probably love them. The key is reading the ingredient label before you share, because a few common horse treat ingredients can cause real problems for goats.

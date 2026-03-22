@@ -35,11 +35,11 @@ faq:
   - question: "Can domestic goats jump?"
     answer: "Domestic goats can jump because they are agile animals with strong legs. They are able to use their hind legs to push themselves off the ground. They also have a strong sense of balance, which helps them to land on their feet after they have jumped."
   - question: "How high can domestic goats jump?"
-    answer: "Domestic goats are members of the Capra genus, which includes all goat-antelope species."
+    answer: "Most domestic goats can clear about 4 to 5 feet from a standing position. Nigerian Dwarfs are surprisingly athletic despite their size, while heavier breeds like Boers rarely bother jumping at all."
   - question: "What are the reasons why domestic goats like to jump?"
-    answer: "Domestic goats are known for their habit of jumping and climbing. While this might seem like a simple case of goat boredom, there are actually several reasons why goats like to jump."
+    answer: "Goats jump because they need exercise, stimulation, and because it's fun for them. Jumping also helps them stretch muscles and keep joints loose, and young goats bounce around constantly as part of normal healthy play."
   - question: "How do you train a goat to jump?"
-    answer: "Goats are natural athletes, and with a little training, they can be taught to perform a variety of tricks, including jumping."
+    answer: "Rather than training goats to jump, focus on fencing that keeps them contained. Use woven wire or cattle panels at least 5 feet tall for agile breeds, and add a single strand of electric wire along the top to discourage fence-testing."
 ---
 
 Yes, domestic goats can absolutely jump. If you've ever watched a kid bounce around a pasture like it has springs for legs, you already know these animals are built for it.

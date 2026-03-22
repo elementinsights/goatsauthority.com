@@ -11,7 +11,7 @@ imageAlt: "Can Goats Die From Lymes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can die from Lyme disease because it's a tick-borne disease. The bacteria Borrelia burgdorferi, which causes Lyme disease, is spread to animals by the bite of infected ticks, most frequently the deer tick and the Western black-legged tick."
+  text: "In rare cases, untreated Lyme disease can be fatal in goats, but death is uncommon. Goats are more resistant to it than dogs or humans, and most recover fully with prompt antibiotic treatment."
 toc:
   - label: "Can goats die from Lyme disease?"
     href: "#can-goats-die-from-lyme-disease"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats die from Lymes?"
-    answer: "Goats can die from Lyme disease because it's a tick-borne disease. The bacteria Borrelia burgdorferi, which causes Lyme disease, is spread to animals by the bite of infected ticks, most frequently the deer tick and the Western black-legged tick."
+    answer: "In rare cases, untreated Lyme disease can be fatal in goats, but most goats that contract it survive, especially with prompt treatment. Goats seem to handle the bacteria better than many other species."
   - question: "What is Lyme disease and how is it transmitted to goats?"
     answer: "The bacteria Borrelia burgdorferi, which causes Lyme disease, is spread to animals by the bite of infected ticks, most frequently the deer tick and the Western black-legged tick."
   - question: "What are the symptoms of Lyme disease in goats?"
-    answer: "The bacteria Borrelia burgdorferi, which causes Lyme disease, is transferred to goats by the biting of infected ticks."
+    answer: "The most common sign is a stiff, stilted walk, especially after resting. Other symptoms include lameness that shifts between legs, swollen joints, fever, decreased appetite, and gradual weight loss."
   - question: "How can you prevent your goats from getting Lyme disease in the first place?"
-    answer: "Lyme disease is a serious health concern for both humans and animals, and goats are especially susceptible to infection."
+    answer: "Keep pastures mowed, especially along fence lines and wooded edges where ticks hang out. Use permethrin-based sprays or pour-on products, and check goats regularly behind the ears, under the chin, around the udder, and between the legs."
 ---
 If you've found ticks on your goats, you might be worried about Lyme disease. The good news is that goats are more resistant to it than dogs or humans, and death from Lyme disease in goats is uncommon.
 

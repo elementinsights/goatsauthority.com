@@ -35,11 +35,11 @@ faq:
   - question: "Can an overdue goat be Induced to labor?"
     answer: "An overdue goat can be induced to labor. If a goat is more than two weeks late on their due date, it may be time to induce. And if a goat is carrying multiple kids, it may be necessary to induce earlier."
   - question: "What is an overdue goat and why does it happen?"
-    answer: "An overdue goat is a milk-producing animal that has not been milked for 12 hours or more. The milk becomes sour and thick, and the cream rises to the top."
+    answer: "A doe is considered overdue when she passes day 155 of gestation without showing labor signs. The most common cause is a miscounted breeding date. True overdue pregnancies can result from hormonal imbalances or carrying a single large kid."
   - question: "What are the signs that labor is imminent in a goat?"
-    answer: "There are several signs that labor is imminent in a goat. First, the goat's body temperature will drop below 101 degrees Fahrenheit."
+    answer: "The most reliable sign is loss of the tail ligaments. Other signs include a tight, shiny udder that fills suddenly, a sunken appearance around the hips, pawing at the ground, and mucus discharge."
   - question: "How can you induce labor in a goat that is overdue?"
-    answer: "If a goat is overdue, there are several things that can be done in order to induce labor. One option is to give the goat a shot of oxytocin. This hormone helps to stimulate contractions and can be very effective in inducing labor."
+    answer: "A vet can induce labor using dexamethasone (triggers labor within 48-72 hours) or lutalyse (works within 24-36 hours). These are prescription medications that require proper dosing based on the doe's weight. Never attempt induction without veterinary supervision."
 ---
 
 Waiting on an overdue doe is one of the most stressful parts of goat ownership. Before you panic, though, you need to make sure she is actually overdue and not just running on a slightly different schedule than you expected.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Turnip?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "When feeding turnips to goats, it is important to make sure that they are properly cleaned and cut into small pieces. Turnips can be fed to goats fresh, cooked, or canned."
+  text: "Yes, goats can eat turnips safely. Both the root and the greens are non-toxic and nutritious, providing vitamin C, fiber, and calcium. Cut the roots into small pieces and feed in moderation."
 toc:
   - label: "Can goats eat turnips?"
     href: "#can-goats-eat-turnips"
@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat turnips?"
-    answer: "Goats can safely eat turnips. Turnips are a great source of nutrition for goats. They are a good source of fiber, calcium, and vitamins A and C. Turnips are also relatively low in sugar compared to other vegetables, which is good for goats since they are prone to developing diabetes."
+    answer: "Yes, goats can safely eat turnips. Both the root and the greens are non-toxic. Turnips provide vitamin C, fiber, and calcium, and they are low in sugar compared to treats like apples or carrots."
   - question: "What are the benefits of feeding goats turnips?"
-    answer: "Turnips are a great source of nutrition for goats. They are a good source of fiber, calcium, and vitamins A and C. Turnips are also relatively low in sugar compared to other vegetables, which is good for goats since they are prone to developing diabetes."
+    answer: "Turnips are packed with vitamin C, fiber, and calcium. The greens are even more nutritious than the root, loaded with vitamin K, vitamin C, and folate. They are low in sugar compared to other treats."
   - question: "Do turnips have any drawbacks to goats?"
-    answer: "The only real drawback to feeding turnips to goats is that they can be a little messy. Goats tend to root around in their food, and turnips can get pretty dirty. If you are feeding turnips to goats fresh, you will want to make sure that they are properly cleaned and cut into small pieces."
+    answer: "The main risk is gas and bloating, since turnips belong to the brassica family. Choking is also a concern with whole turnips. Always cut the root into chunks about the size of a golf ball for full-sized goats."
   - question: "How to prevent your goat from getting sick?"
     answer: "The best way to prevent your goat from getting sick is to make sure that they are properly fed and watered. Goats should have access to fresh, clean water at all times. They should also be fed a diet that is high in fiber and low in sugar."
 ---

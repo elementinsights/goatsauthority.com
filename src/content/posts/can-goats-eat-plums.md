@@ -39,11 +39,11 @@ faq:
   - question: "Can goats eat plums?"
     answer: "Goats can safely eat plums. Plums are a good source of vitamin A and vitamin C, as well as fiber that can be essential to a goat's diet. Plums also contain potassium, which is a mineral that helps with muscle function and heart health."
   - question: "Can goats eat plum leaves?"
-    answer: "Goats can eat plum leaves. In fact, they are a good source of nutrition for goats. Plum leaves contain vitamins A and C, as well as minerals like calcium and phosphorus."
+    answer: "Fresh plum leaves on the tree are generally fine if a goat grabs a few. However, wilted plum leaves release prussic acid (hydrogen cyanide) and can be deadly. Clean up fallen branches immediately after storms."
   - question: "Can goats eat plum seeds?"
-    answer: "Though potential health hazards are often at the forefront of pet owners' minds, you need to consider what foods are safe for animals to consume before allowing them access to them."
+    answer: "No, always remove plum pits before feeding. They contain amygdalin, which breaks down into cyanide during digestion. The pits are also a choking hazard and hard enough to crack teeth."
   - question: "Can goats eat plum stems?"
-    answer: "Plum stems are edible to goats. The plum stem is rich in nutrients and fiber, and it may keep goats fit and healthy."
+    answer: "Fresh stems on the tree are generally fine. However, wilted stems carry the same prussic acid danger as wilted leaves. Never toss pruning clippings where goats can reach them."
 ---
 
 Plums are a sweet, juicy fruit that most goats will happily gobble up. The flesh is perfectly safe and provides some decent nutrition as a treat.

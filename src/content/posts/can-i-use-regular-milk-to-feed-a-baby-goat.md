@@ -37,9 +37,9 @@ faq:
   - question: "What is regular milk and why is it used to feed baby goats?"
     answer: "Regular milk, or whole milk, is the milk that is obtained from cows or other farm animals. It contains all of the milk solids as well as the fat in milk and is commonly used to feed baby goats."
   - question: "What are the benefits of feeding baby goats regular milk instead of goat milk formula?"
-    answer: "There are several benefits to feeding baby goats regular milk instead of goat milk formula."
+    answer: "Whole cow milk is widely available, affordable, and works as a solid emergency replacement when goat milk or formula is not on hand. Adding a tablespoon of buttermilk per quart helps the kid's gut break down cow milk proteins more easily."
   - question: "How much regular milk should you feed a baby goat each day?"
-    answer: "There is no definitive answer to the question of how much regular milk a baby goat should be fed each day."
+    answer: "A newborn kid should get about 4 ounces per feeding for the first couple of days, increasing to 6 to 8 ounces by the end of the first week, and 10 to 12 ounces per feeding by 2 to 3 weeks old."
 ---
 If you've got an orphaned kid or a doe that won't nurse, you're probably scrambling to figure out what to feed that baby. Whole cow milk from the grocery store works in a pinch, and plenty of goat kids have been raised on it.
 

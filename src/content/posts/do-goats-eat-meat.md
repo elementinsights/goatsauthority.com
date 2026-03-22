@@ -11,7 +11,7 @@ imageAlt: "Do Goats Eat Meat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "When feeding your goat meat, it's important to make sure that it's cooked properly. Raw meat can contain harmful bacteria that can make your goat sick."
+  text: "No, goats do not eat meat. They are herbivores with a four-chamber ruminant digestive system built to break down plant fiber. You should never intentionally feed meat to goats."
 toc:
   - label: "Do goats eat meat?"
     href: "#do-goats-eat-meat"
@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Do goats eat meat?"
-    answer: "Goats can eat meat. As a matter of fact, they are generally quite fond of it. Just like other animals, however, goats should only be given meat in moderation. Too much meat can cause digestive problems and lead to health problems down the road."
+    answer: "No, goats are herbivores and should not eat meat. Their ruminant digestive system is built to ferment plant fiber, not process animal protein. Feeding meat disrupts the microbial balance in the rumen and can cause serious digestive upset."
   - question: "What kind of goat eats meat?"
     answer: "There are many different types of goats in the world, and each one has its own diet. Some goats are herbivores, meaning that they only eat plants."
   - question: "Can you feed meat to a pregnant goat?"
-    answer: "You can feed meat to a pregnant goat if you take certain precautions. Goats are generally herbivores, so their stomachs are not designed to digest meat. However, goats are browsers, which means that they like to nibble on a variety of different things."
+    answer: "No, you should not feed meat to a pregnant goat or any goat. Goats are strict herbivores whose ruminant digestive system cannot properly handle animal protein. If your goat needs extra protein, use alfalfa hay, soybean meal, or black oil sunflower seeds instead."
   - question: "Can you feed meat to a sick goat?"
     answer: "You should not feed meat to a sick goat. Goats are herbivores, so their stomachs are not designed to digest meat. If you try to feed sick goat meat, it's likely that the goat will vomit or have diarrhea."
 ---

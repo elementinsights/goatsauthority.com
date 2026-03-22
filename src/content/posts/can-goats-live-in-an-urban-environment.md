@@ -31,11 +31,11 @@ faq:
   - question: "Can goats live in an urban environment?"
     answer: "Goats can live in an urban environment. In fact, goats are becoming increasingly popular as pets in urban areas. They are also being used more and more for landscaping in urban areas, as they are very effective at eating weeds and other unwanted plants."
   - question: "What is an urban environment and what are the benefits of keeping goats in one?"
-    answer: "The word \"urban\" is derived from the Latin word \"Urbis,\" meaning city. An urban environment is one that is densely populated with buildings and people. The benefits of keeping goats in an urban environment are numerous."
+    answer: "The main benefits are free lawn maintenance, fresh milk from dairy breeds, and companionship. Nigerian Dwarf goats produce a surprising amount of rich milk and fit comfortably in a backyard. Goat manure also makes excellent garden fertilizer."
   - question: "What are the risks of keeping goats in an urban environment?"
     answer: "One of the main risks of keeping goats in an urban environment is the risk of escape. Goats are curious animals, and they are often able to find ways out of even the most secure enclosures."
   - question: "What are some tips for keeping goats in an urban environment?"
-    answer: "While goats are often thought of as rural animals, they can actually make great pets in an urban environment."
+    answer: "You need at least 200 square feet of outdoor space per goat plus a weatherproof shelter. Always keep at least two goats since they are herd animals. Good fencing is non-negotiable, and you'll need to find a livestock vet."
 ---
 Some cities do allow goats, but you need to do your homework before bringing one home. Your municipal code is the first thing to check because zoning laws vary wildly from one city to the next.
 

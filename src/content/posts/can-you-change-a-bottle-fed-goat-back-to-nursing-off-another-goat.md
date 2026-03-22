@@ -11,7 +11,7 @@ imageAlt: "Can You Change A Bottle Fed Goat Back To Nursing Off Another Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can easily change a bottle-fed goat back to nursing off another goat because it is their natural way of getting nutrition. There are many benefits that come with this transition, such as easier digestion and access to essential nutrients."
+  text: "It is possible to switch a bottle-fed kid back to nursing off a doe, but it is one of the harder things to pull off with goats. Success depends heavily on timing and the willingness of the foster doe, with the best odds within the first week of the kid's life."
 toc:
   - label: "Can you change a bottle fed goat back to nursing off another goat?"
     href: "#can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you change a bottle fed goat back to nursing off another goat?"
-    answer: "You can easily change a bottle-fed goat back to nursing off another goat because it is their natural way of getting nutrition. There are many benefits that come with this transition, such as easier digestion and access to essential nutrients."
+    answer: "It is possible but not easy. The two biggest hurdles are getting the doe to accept a kid that isn't hers and getting the bottle kid to figure out a real udder. Your best chance of success is within the first week of the kid's life."
   - question: "What are the benefits of changing a bottle fed goat back to nursing off another goat?"
     answer: "There are actually quite a few benefits to changing a bottle-fed goat back to nursing off another goat. For one thing, it's more natural for the goat."
   - question: "Are there any risks associated with changing a bottle fed goat back to nursing off another goat?"

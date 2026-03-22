@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Live in a House?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, there are a few things you should take into consideration before making the decision to house your goat indoors. First, goats are social animals and they need companionship."
+  text: "Keeping a goat in your house full-time is not recommended. Goats can't be reliably house-trained, they poop 50+ times a day, and they will chew on furniture, cords, and drywall."
 toc:
   - label: "Can a goat live in a house?"
     href: "#can-a-goat-live-in-a-house"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat live in a house?"
-    answer: "it's possible to keep them indoors. Because goats are small and they don't stink. They are also very trainable creatures that will follow your lead if you provide them with the proper guidance and care, just like a dog."
+    answer: "It's not recommended. Goats can't be house-trained since they poop 50+ times a day without control over it, and they chew everything from electrical cords to furniture. An outdoor shelter with a companion goat is a much better setup."
   - question: "What breed of goat is best for a pet?"
-    answer: "There are many different breeds of goats to choose from, but not all of them make good pets. One of the most important factors to consider is whether the goat is friendly and docile."
+    answer: "Nigerian Dwarfs and Pygmy goats are the most popular pet choices because of their small size and friendly personalities. Even as pets, they need outdoor space, shelter, and at least one other goat companion."
   - question: "How to train your goat?"
-    answer: "Training your goat can be a rewarding experience. With a little patience and positive reinforcement, you can teach your goat to perform a variety of tricks and behaviors. Here are a few tips to get you started."
+    answer: "Goats respond well to food rewards like raisins or animal crackers. Keep training sessions to five to ten minutes, and you can teach them to come when called, walk on a leash, and do simple tricks."
   - question: "What are the risks of owning a goat?"
-    answer: "While goats are generally low-maintenance animals, there are a few risks to consider before taking one home."
+    answer: "Goats are escape artists that will find and exploit every weak spot in your fencing. They're also prone to parasites, especially in humid climates, requiring regular deworming and fecal testing."
 ---
 
 Keeping a goat in your house full-time is not recommended. While it sounds fun in theory, the reality involves a lot of poop, chewed-up furniture, and a smell you'll never fully get out of your carpet.

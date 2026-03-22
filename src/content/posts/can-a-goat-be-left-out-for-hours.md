@@ -31,9 +31,9 @@ faq:
   - question: "How long can a goat stay out?"
     answer: "While goats are generally hardy animals, they still need access to shelter and fresh water. If left out in the elements for too long, they can become dehydrated or succumb to hypothermia."
   - question: "What are the risks of leaving a goat out for too long?"
-    answer: "Goats are hardy creatures that can thrive in a variety of climates, but they still need shelter from the elements."
+    answer: "Weather is the biggest risk. Goat coats aren't waterproof, so rain and wind can drop their body temperature fast. Predators are the other major concern, especially after dark when coyotes and stray dogs are active."
   - question: "How to prevent leaving a goat out for too long?"
-    answer: "A common mistake that people make when keeping goats is leaving them out for too long. Goats are social animals and need to interact with their herd mates on a regular basis."
+    answer: "Provide shelter they can access on their own, keep fresh water available at all times, and lock them in a secure shelter before dark. Watch for signs of heat stress like panting or cold stress like shivering."
 ---
 
 Goats are tougher than most people give them credit for, and they genuinely enjoy being outside. But there's a difference between letting them browse the pasture all day and leaving them stranded without what they need.

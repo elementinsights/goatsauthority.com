@@ -39,7 +39,7 @@ faq:
   - question: "What is goat liver and what are its benefits?"
     answer: "The goat liver is an organ meat that is sometimes consumed as food. It is high in nutrients and minerals, including iron, copper, and selenium."
   - question: "What are the risks associated with eating goat liver?"
-    answer: "The liver is one of the most nutrient-dense organs in the body, and eating goat liver can offer many health benefits."
+    answer: "If a goat was recently treated with antibiotics or other medications, the liver may contain drug residues unsafe for consumption. Vitamin A levels in liver are very high, so eating it every day is not recommended. Once or twice a week is the safe range."
   - question: "How to prevent the risks associated with eating goat liver?"
     answer: "The best way to prevent the risks associated with eating goat liver is to cook it properly. Make sure to cook the liver until it is well done."
 ---

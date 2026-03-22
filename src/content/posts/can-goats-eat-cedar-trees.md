@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cedar Trees?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume cedar trees. Cedar trees are a good source of vitamin C and other nutrients that can be beneficial for goats."
+  text: "Yes, most common cedar species like Eastern red cedar are safe for goats to browse. The tannins may even help with parasite control. However, white cedar (arborvitae) contains thujone, which can be harmful in large amounts."
 toc:
   - label: "Can goats eat cedar trees?"
     href: "#can-goats-eat-cedar-trees"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat cedar trees?"
-    answer: "Goats can consume cedar trees. Cedar trees are a good source of vitamin C and other nutrients that can be beneficial for goats. They also contains tannins, which can help promote healthy digestion in goats when fed to goats in moderation."
+    answer: "Yes, goats can eat most cedar trees safely. Eastern red cedar is generally safe and goats enjoy browsing on it. The tannins may even help with internal parasite control. Identify your cedar species to make sure it is not white cedar (arborvitae)."
   - question: "Can a pregnant goat eat cedar trees?"
-    answer: "Pregnant goats should not eat cedar trees. Cedar trees contain a toxin that can cause abortion in pregnant goats."
+    answer: "Pregnant does should have limited cedar access as a precaution. Some cedar species contain thujone, which has been linked to uterine contractions in livestock. A few nibbles of Eastern red cedar are usually fine, but do not let them gorge."
   - question: "Can a lactating goat eat cedar trees?"
-    answer: "A lactating goat can eat cedar trees. Cedar trees are a source of food for goats. Goats need to eat cedar trees to get their food."
+    answer: "Lactating does can safely browse on Eastern red cedar and similar species. It will not affect milk quality or production in normal browsing amounts. Keep their diet balanced with hay, water, and minerals."
   - question: "Can a baby goat eat cedar trees?"
-    answer: "Cedar trees are safe for baby goats to eat. The tree produces natural oil that repels insects, so it's a good choice for providing your goat with a natural insecticide."
+    answer: "Kids that are old enough to browse can nibble on cedar just like the adults. They naturally take small bites and move on, so they are unlikely to overeat. Make sure they are getting enough milk and starter feed first."
 ---
 If you've got cedar trees growing in your pasture, you've probably watched your goats strip the bark and nibble the branches without a second thought. Most common cedar species found on farms are perfectly safe for goats, and many herds actually love browsing on them.
 

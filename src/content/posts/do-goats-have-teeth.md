@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Teeth?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Interestingly enough, their teeth continue to grow throughout their lifetime. This is why you will sometimes see goats chewing on things, they are trying to wear down their teeth."
+  text: "Yes, adult goats have 32 teeth total: 8 incisors on the bottom front, a hard dental pad on top where upper front teeth would be, 12 premolars, and 12 molars. They have zero upper incisors and zero canine teeth."
 toc:
   - label: "Do goats have teeth?"
     href: "#do-goats-have-teeth"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Do goats have teeth?"
-    answer: "Goats have teeth. As a matter of fact, they have 32 of them. This includes 24 molars, 4 canines, and 4 incisors. Just like humans, their teeth start to come in when they are kids and continue to grow until they reach adulthood."
+    answer: "Yes, adult goats have 32 teeth: 8 incisors on the bottom front, a hard dental pad on top instead of upper front teeth, 12 premolars, and 12 molars. Goats have zero upper incisors and zero canine teeth. Kids start with 20 baby teeth that are replaced by permanent ones by age 4."
   - question: "How many teeth does a newborn goat have?"
     answer: "All mammals have two sets of teeth. The first set, known as deciduous or baby teeth, starts to come in around 6 to 8 weeks after birth."
   - question: "What kind of teeth do goats have?"

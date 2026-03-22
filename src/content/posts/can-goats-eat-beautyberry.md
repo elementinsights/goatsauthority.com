@@ -35,11 +35,11 @@ faq:
   - question: "Can goats eat beautyberry?"
     answer: "Goats can eat beautyberry. This shrub is a good source of vitamins A and C, as well as minerals such as iron and potassium. Beautyberry also contains tannins, which can help to protect goats from certain parasites, such as stomach worms."
   - question: "Can a pregnant goat eat beautyberry?"
-    answer: "Pregnant goats need a nutritious diet to support the health of both the mother and her growing offspring. While beautyberries are not a particularly common food for goats, there's no reason why a pregnant goat couldn't eat them."
+    answer: "Yes, pregnant does can safely eat beautyberry. It is non-toxic and the tannins may provide some natural resistance to internal parasites. Just keep it as a supplement, not a primary food source."
   - question: "Can a baby goat eat beautyberry?"
-    answer: "Most people think of goats as grazing animals that eat grass, but in fact, goats are very adaptable eaters and will actually consume a wide variety of plants."
+    answer: "Kids that are old enough to browse can nibble on beautyberry safely. They will typically self-regulate and not overeat. Just make sure they are getting enough milk and starter feed first."
   - question: "Can a lactating goat eat beautyberry?"
-    answer: "Many people are interested in goats and what they can and cannot eat. Goats are known for being able to eat just about anything, but that doesn't mean that everything is good for them."
+    answer: "Lactating does can safely eat beautyberry. The leaves contain vitamins A and C plus minerals like iron and potassium. The natural insect-repelling properties of the leaves are an added bonus."
 ---
 
 American beautyberry (Callicarpa americana) is safe for goats to eat. If you have these shrubs growing on your property, there's no need to worry about your goats browsing on them.

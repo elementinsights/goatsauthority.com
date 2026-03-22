@@ -11,7 +11,7 @@ imageAlt: "Can Baby Kittens Drink Goats Milk?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Baby kittens can drink goat's milk. In fact, it's often recommended by veterinarians as an alternative to cow's milk."
+  text: "Yes, goat milk is the best emergency substitute for orphaned kittens when kitten milk replacer (KMR) isn't available. It's closer to cat milk than cow milk, but it's not a perfect long-term replacement."
 toc:
   - label: "Can baby kittens drink goats milk?"
     href: "#can-baby-kittens-drink-goats-milk"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can baby kittens drink goats milk?"
-    answer: "Baby kittens can drink goat's milk. In fact, it's often recommended by veterinarians as an alternative to cow's milk. Goat's milk is more easily digestible for kittens and contains more nutrients than cow's milk. Goat's milk also has a higher fat content, which is important for growing kittens."
+    answer: "Yes, goat milk is the best emergency substitute for orphaned kittens when KMR isn't available. It has smaller fat globules and less lactose than cow milk, making it easier on tiny digestive systems. Get proper kitten milk replacer as soon as possible since goat milk lacks enough taurine for long-term use."
   - question: "What is goat's milk and what are its benefits for kittens?"
-    answer: "Goat's milk is a popular choice for pet owners who are looking for an alternative to cow's milk. Goat's milk is naturally lower in lactose than cow's milk, making it easier for kittens to digest."
+    answer: "Goat milk is naturally lower in lactose than cow milk and its protein and fat structure is closer to what a mother cat produces. It also contains probiotics and enzymes that support gut health in young animals."
   - question: "How do you go about introducing goat's milk to a kitten?"
-    answer: "Goat's milk is a nutritious alternative to cow's milk for kittens. It's higher in protein and fat, which helps kittens grow, and it's also easier to digest."
+    answer: "Use a small pet nursing bottle or 1ml syringe. Feed every two to three hours for the first week, warming the milk to about 100 degrees Fahrenheit. After each feeding, wipe the kitten's belly and rear with a warm cloth to stimulate elimination."
   - question: "How much goat's milk should a kitten drink each day?"
-    answer: "Goat's milk is often recommended for kittens who are not able to nurse from their mothers. It's a nutritious alternative that can help them to grow and thrive."
+    answer: "A newborn kitten needs about 2 to 4 ml per feeding during the first few days, increasing to 5 to 8 ml per feeding by one week old. Watch the belly after feeding — it should be round but not tight like a drum."
 ---
 
 Yes, goat milk is the best emergency substitute for orphaned kittens when you can't get your hands on kitten milk replacer (KMR). It's closer to cat milk in composition than cow milk, and most kittens tolerate it well.

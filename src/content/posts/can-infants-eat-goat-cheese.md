@@ -33,9 +33,9 @@ faq:
   - question: "What is goat cheese and where does it come from?"
     answer: "Goat cheese is a type of cheese made from the milk of goats. It is typically produced in regions where goat farming is popular and has a long history, with many different variations and types around the world."
   - question: "What are the nutritional benefits of goat cheese in infants?"
-    answer: "Goat cheese has long been known as a superfood, providing a wealth of nutrients that are vital to overall health and well-being."
+    answer: "Goat cheese is an excellent source of protein, calcium, and healthy fats that growing babies need. It also contains phosphorus, vitamin A, and B vitamins that support healthy bone growth."
   - question: "How to choose and store goat cheese?"
-    answer: "When it comes to choosing and storing goat cheese, there are a few key factors to keep in mind. With regard to the selection, it's important to first consider the intended use or purpose of the cheese."
+    answer: "Always choose pasteurized goat cheese for infants, as unpasteurized varieties carry a risk of harmful bacteria. Stick with plain, fresh chevre with no added salt, herbs, or spices and store it in the fridge."
 ---
 
 Goat cheese can be a great early food for babies once they start solids. It's packed with nutrients and tends to be easier on little stomachs than cow's milk cheese.

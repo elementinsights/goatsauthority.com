@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a fox kill a goat?"
-    answer: "A fox could kill a goat if the circumstances were right. Though it's unlikely. Foxes are predators, and their main diet consists of small mammals like rabbits and rodents. However, they will also eat birds, reptiles, amphibians, fish, insects, fruits, and veggies."
+    answer: "A fox is too small to take down a healthy adult goat, but it can kill newborn kids in their first week of life. Sick, injured, or very old goats can also be vulnerable."
   - question: "What kind of fox can kill a goat?"
-    answer: "The type of fox that can kill a goat is the red fox. The red fox is the largest and most common type of fox. It's characterized by its reddish-brown fur, white chest, and black legs."
+    answer: "The red fox is the most common culprit because it is the largest fox species in North America, weighing up to 15 pounds. Gray foxes are smaller and pose even less risk to goats."
   - question: "What to do if you find a fox in your goat pasture?"
-    answer: "If you find a fox in your goat pasture, the best thing to do is to contact a local wildlife control agency or animal shelter."
+    answer: "Stay calm and make noise to scare the fox off since they are naturally skittish. If you are seeing foxes regularly, remove attractants like unsecured garbage and pet food left outdoors."
   - question: "How do you protect your goats from foxes?"
-    answer: "If you're lucky enough to have goats, you probably already know that they make great companions. But did you know that they are also susceptible to predators?"
+    answer: "Lock up does and newborn kids at night in a secure shelter, use fencing with openings no larger than 4 inches, and consider a livestock guardian dog or donkey as a deterrent."
 ---
 
 Foxes rarely kill adult goats, but they can and do kill newborn kids. Understanding the real threat level helps you protect your herd without losing sleep over every fox sighting on the property.

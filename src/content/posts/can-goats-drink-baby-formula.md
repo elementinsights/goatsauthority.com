@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Baby Formula?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can drink baby formula because it contains the nutrients that they need. Goats also have a natural liking for sweet things, so the sweetness of the baby formula may make it more appealing to them and encourage them to drink more."
+  text: "Human baby formula can work as an emergency stopgap for a day or two, but it's not ideal for goats. The fat and protein ratios are wrong, and goat milk replacer, whole cow milk, or a nursing doe are all better options."
 toc:
   - label: "Can goats drink baby formula?"
     href: "#can-goats-drink-baby-formula"
@@ -35,11 +35,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats drink baby formula?"
-    answer: "Goats can drink baby formula because it contains the nutrients that they need. Goats also have a natural liking for sweet things, so the sweetness of the baby formula may make it more appealing to them and encourage them to drink more."
+    answer: "Human baby formula can keep a kid alive for a day or two in an emergency, but the fat and protein ratios are wrong for goats. Goat milk replacer, whole cow milk with buttermilk, or a nursing doe are all better options."
   - question: "Can pregnant goats drink baby formula?"
-    answer: "While goats are generally able to give birth without any complications, there are occasions when a pregnant goat may need a little extra help."
+    answer: "Pregnant goats should be eating hay, browse, and proper goat feed, not baby formula. Their nutritional needs are met through normal goat diet supplemented with appropriate minerals."
   - question: "Can baby goats drink baby formula?"
-    answer: "Baby goats, like all other baby animals, need milk to survive. Despite that, goat's milk is very different from cow's milk or human milk. It's much higher in fat and protein, and it also has a different balance of minerals."
+    answer: "Baby goats can drink baby formula in an emergency, but goat milk replacer from brands like Manna Pro is far better. Human formula has roughly half the fat content of goat milk, so formula-fed kids often fall behind on weight gain."
   - question: "Can lactating goats drink baby formula?"
     answer: "Goat's milk is very similar to human milk and is often used as a substitute for infant formula. So, it stands to reason that lactating goats could also drink baby formula. But, there are a few important things to keep in mind."
 ---

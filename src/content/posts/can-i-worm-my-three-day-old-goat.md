@@ -1,6 +1,6 @@
 ---
 title: "Can I Worm My Three Day Old Goat? (Healthcare Tips, Facts, FAQs, and More"
-description: "You’re probably familiar with the old saying, “You are what you eat.” Well, that adage also applies to your four-legged friends."
+description: “You’re probably familiar with the old saying, “You are what you eat.” Well, that adage also applies to your goats.”
 category: "health"
 postType: "guide"
 publishDate: 2022-11-30
@@ -11,7 +11,7 @@ imageAlt: "Can I Worm My Three Day Old Goat? (Healthcare Tips, Facts, FAQs, and 
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can worm your three-day-old goat. In fact, it’s recommended that you start worming on them as soon as possible."
+  text: "No, you should not deworm a 3-day-old kid. Parasites take 3 to 4 weeks to develop inside a goat, so there is nothing to treat at that age."
 toc:
   - label: "Can I worm my three day old goat?"
     href: "#can-i-worm-my-three-day-old-goat"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I worm my three day old goat?"
-    answer: "You can worm your three-day-old goat. In fact, it’s recommended that you start worming on them as soon as possible. This will help to prevent them from getting sick and will keep them healthy overall and free from parasites, including worms."
+    answer: "No, you should not deworm a 3-day-old kid. Parasites like barber pole worm take 3 to 4 weeks to develop after larvae are ingested from pasture. Focus on colostrum, navel care, and clean bedding instead."
   - question: "What are the signs that a goat needs to be wormed?"
-    answer: "There are a few different signs that may indicate your goat needs to be wormed, including:."
+    answer: "Classic signs of a worm load include pale inner eyelids, a rough dull coat, weight loss despite eating well, a pot-bellied appearance, and diarrhea. The FAMACHA scoring system is the quickest field test."
   - question: "What is worming and why is it important for goats?"
     answer: "Worming, or deworming, is an important part of maintaining the health of your goats. Worms are parasitic organisms that live inside the digestive system of goats and other livestock."
   - question: "What are the different types of wormers available for goats and what do they each do?"

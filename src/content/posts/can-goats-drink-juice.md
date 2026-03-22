@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Juice?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can drink juice because it's a source of vitamins, minerals, and antioxidants. Goats also like the taste of juice, and it can be used as a treat."
+  text: "Goats should not drink juice regularly because the high sugar content can cause rumen acidosis or enterotoxemia. A small splash of apple juice mixed with water can help mask medications, but fresh water is the only liquid goats need."
 toc:
   - label: "Can goats drink juice?"
     href: "#can-goats-drink-juice"
@@ -33,11 +33,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats drink juice?"
-    answer: "Goats can drink juice because it's a source of vitamins, minerals, and antioxidants. Goats also like the taste of juice, and it can be used as a treat. The best type of juice for goats is 100% pure fruit or vegetable juice with no added sugar."
+    answer: "Goats can physically drink juice, but they shouldn't have it regularly. The sugar is too high for their rumen, and too much can cause acidosis or enterotoxemia. The only real use is mixing a small splash with water to mask medication."
   - question: "What types of juice are good for goats?"
-    answer: "Goats are browsers, which means that they are designed to eat leaves, twigs, and other vegetation. As a result, they require a diet that is high in fiber and low in sugar. Because of this, the types of juice that are good for goats are those that are high in fiber and low in sugar."
+    answer: "If you must use juice, a small amount of apple juice mixed at about one part juice to ten parts water is the safest option. Avoid citrus, tomato, and grape juices, and never use anything with artificial sweeteners like xylitol."
   - question: "What are the benefits of giving juice to your goats?"
-    answer: "Goats are notoriously finicky eaters, and they often reject foods that they perceive as being too dry. This can pose a challenge for farmers who are trying to maintain a healthy diet for their goats, as many healthy foods - such as hay and vegetables - tend to be quite dry."
+    answer: "The only real benefit is using a small splash of juice mixed with water to mask the taste of medications or encourage a dehydrated goat to drink more fluids. It's a temporary tool, not a daily supplement."
   - question: "Are there any drawbacks to giving juice to your goats?"
     answer: "While fresh fruits and vegetables can be a healthy treat for goats, too much juice can lead to health problems. Goats are ruminants, meaning that their stomachs are specifically designed to digest grass and hay."
 ---

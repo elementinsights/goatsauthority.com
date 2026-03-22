@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Lentils?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat lentils. Lentils are a good source of protein, vitamins, and minerals, and they're also relatively low in calories."
+  text: "Yes, goats can eat cooked lentils in small amounts as an occasional treat. Raw lentils are hard to digest and can cause gas and bloating, so always cook them thoroughly first."
 toc:
   - label: "Can goats eat lentils?"
     href: "#can-goats-eat-lentils"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat lentils?"
-    answer: "Goats can eat lentils. Lentils are a good source of protein, vitamins, and minerals, and they're also relatively low in calories. Lentils also contain a compound called l-carnitine, which has been shown to help improve heart health, cognitive function, and muscle development."
+    answer: "Yes, cooked lentils are safe for goats in small amounts. They are a good source of protein, iron, and folate. Always cook them thoroughly before feeding, as raw lentils are hard to digest and can cause bloating."
   - question: "Are there any risks associated with feeding lentils to goats?"
     answer: "Legumes, such as lentils, play an important role in Goat nutrition. They are a good source of protein, fiber, and other nutrients. However, there are some risks associated with feeding legumes to goats."
   - question: "What are lentils and what do they offer nutritionally?"

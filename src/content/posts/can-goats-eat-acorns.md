@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Acorns?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "They can be an extra source of nutrients for them. Acorns contain protein and fat which are good for your goat's health."
+  text: "Yes, goats can eat acorns in small amounts. However, acorns contain tannins that can cause oak toxicity if goats eat too many, so keep intake under 10% of their daily diet."
 toc:
   - label: "Can Goats Eat Acorns Raw?"
     href: "#can-goats-eat-acorns-raw"
@@ -31,11 +31,11 @@ toc:
     href: "#real-life-experiences-and-nutritional-composition-of-acorns"
 faq:
   - question: "Can Goats Eat Acorns Raw?"
-    answer: "Can goats eat acorns raw? This is a question many goat owners ask. The short answer is yes, but with caution. Acorns are not toxic to goats in small amounts."
+    answer: "Yes, goats can eat raw acorns in small amounts. Mature brown acorns are safer than green ones because they contain less tannin. Too many raw acorns can lead to oak toxicity."
   - question: "Can Goats Eat Acorns Cooked?"
-    answer: "Can goats eat acorns cooked? That's a question many goat owners ask. The answer is yes, but with caution."
+    answer: "Yes, soaking and boiling acorns draws out tannins and makes them safer for goats. However, most farmers skip this step since the effort is rarely worth it when goats have access to hay and proper feed."
   - question: "How Many Acorns Can a Goat Safely Eat?"
-    answer: "When it comes to feeding goats, acorns are a tricky subject. Sure, they're plentiful and easy to find in the fall months. But can your goat safely eat them? The answer is yes and no."
+    answer: "Keep acorn intake under 10% of a goat's daily diet, which means no more than about half a pound for an average adult goat. Watch your herd closely during October and November when acorn drop is heaviest."
 ---
 A goat nibbling on a few acorns under an oak tree is nothing to worry about. The trouble starts when goats gorge on large quantities, which can cause a serious condition called oak toxicity.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Ducks and Goats Coexist?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, it's important to keep in mind that goats and ducks are different animals with different needs. Goats are browsers and prefer to eat leaves, twigs, and other vegetation."
+  text: "Yes, ducks and goats make a great pairing on a small farm. They don't compete for the same food, and ducks actually help by eating fly larvae and parasites around the goat area."
 toc:
   - label: "Can ducks and goats coexist?"
     href: "#can-ducks-and-goats-coexist"
@@ -35,11 +35,11 @@ faq:
   - question: "Can ducks and goats coexist?"
     answer: "Goats and ducks can live together. In fact, there are many benefits to keeping them together. Goats and ducks can graze on the same pasture, which can save you money on feed costs. They also provide each other with companionship, which can help reduce stress levels."
   - question: "What are the benefits of keeping goats and ducks together?"
-    answer: "There are several benefits to keeping goats and ducks together. For one, they can help to keep each other's pasture clean."
+    answer: "Ducks eat fly larvae in and around goat manure, cutting down on the fly population in your barn. They also go after slugs, ticks, and other parasites, acting as natural pest control for your goat area."
   - question: "What do you need to consider before deciding to keep goats and ducks together on your farmstead?"
-    answer: "Before deciding to keep goats and ducks together on your farmstead, there are a few things you need to take into consideration."
+    answer: "Keep medicated goat feed away from ducks since coccidiostats can be toxic to them. Set up separate water stations because ducks foul water quickly and goats refuse to drink dirty water. Good barn ventilation is also essential."
   - question: "How can you make sure that your goats and ducks get along well and live harmoniously together?"
-    answer: "If you're raising both goats and ducks, you might be wondering how to keep them from fighting. After all, goats are known for their playful and curious nature, while ducks are more likely to stick to their own kind."
+    answer: "Set up separate feeding stations and separate water sources. Keep the duck bathing area on a gravel pad away from goat sleeping areas, since wet ground causes hoof rot. The two species generally ignore each other throughout the day."
 ---
 
 Ducks and goats actually make a great pairing on a small farm. I've seen plenty of setups where they share the same pasture without any real problems, and the two species tend to ignore each other for the most part.

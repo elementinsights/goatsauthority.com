@@ -11,7 +11,7 @@ imageAlt: "Can You Breed Angora Goats With Dairy Goats For Fiber?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can certainly breed angora goats with dairy goats for fiber because both types of goats produce fiber. In fact, many people believe that the fiber from angora goats is actually finer and softer than the fiber from dairy goats."
+  text: "Yes, you can breed Angora goats with dairy goats for fiber since they are the same species. However, the resulting fiber will be coarser, shorter, and less uniform than purebred Angora mohair, and neither the milk nor the fiber will match purebred quality."
 toc:
   - label: "Can you breed angora goats with dairy goats for fiber?"
     href: "#can-you-breed-angora-goats-with-dairy-goats-for-fiber"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you breed angora goats with dairy goats for fiber?"
-    answer: "You can certainly breed angora goats with dairy goats for fiber because both types of goats produce fiber. In fact, many people believe that the fiber from angora goats is actually finer and softer than the fiber from dairy goats."
+    answer: "Yes, Angora goats and dairy goats are the same species and will breed without trouble. However, the crossbred fiber will be coarser, shorter in staple length, and less uniform than purebred Angora mohair. The crossbred also won't milk as well as a purebred dairy goat."
   - question: "What should you consider if you breed angora goats with dairy goats for fiber?"
     answer: "If you are thinking about breeding angora goats with dairy goats for fiber, there are a few things you need to take into consideration."
   - question: "What are the benefits of breeding angora goats with dairy goats for fiber?"

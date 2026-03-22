@@ -39,7 +39,7 @@ faq:
   - question: "What are the disadvantages of a goat's diet?"
     answer: "There are some disadvantages to a goat's diet as well. First, since browse is less calorie-dense than grass, goats typically require more food in order to maintain their body weight. This can be a challenge in areas where browsing is scarce."
   - question: "What plants are edible for goats?"
-    answer: "Goats are browsers, meaning that they like to eat a variety of plants. While most goats will eat just about anything, there are some plants that are better for them than others."
+    answer: "Goats do well on hay, browse (leaves, twigs, bark), clover, chicory, and most pasture plants. Quality hay or alfalfa provides the fiber their rumen needs, with supplemental grain for growing, pregnant, or lactating animals."
 ---
 No, goats cannot eat everything. This is one of the biggest myths in the livestock world, and it gets repeated so often that a lot of people take it as fact.
 

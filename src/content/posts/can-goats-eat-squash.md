@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Squash?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Feeding them raw squash might be the easiest way to go about it. You just need to cut it into small pieces so that your goat doesn't choke on large chunks."
+  text: "Yes, goats can safely eat all common squash varieties including zucchini, butternut, acorn, and pumpkin. The flesh, skin, seeds, and vines are all edible and nutritious for goats."
 toc:
   - label: "Can goats eat squash?"
     href: "#can-goats-eat-squash"

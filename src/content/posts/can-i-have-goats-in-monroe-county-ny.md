@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats In Monroe County NY?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "They are energetic, personable creatures that are easy to care for and love being around people. Plus, they can provide a valuable source of milk, meat, or wool, depending on the breed."
+  text: "Whether you can keep goats in Monroe County depends on exactly where you live within the county. The rules change from one municipality to the next, so check your specific town's code before buying."
 toc:
   - label: "Can I have goats in Monroe County NY?"
     href: "#can-i-have-goats-in-monroe-county-ny"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I have goats in Monroe County NY?"
-    answer: "Itis possible to keep goats as pets in Monroe County, NY. While there are some limitations and regulations that must be followed in order for goats to thrive in this area, most people who own livestock find that goats make wonderful companion animals."
+    answer: "It depends on your specific municipality within Monroe County. The City of Rochester restricts livestock, while suburban and rural towns each have their own zoning rules. Call your town clerk's office to find out what applies to your property."
   - question: "What are the requirements for keeping goats in Monroe County, NY"
-    answer: "To keep goats in Monroe County, NY, you must have a physical address within the county and provide proof of vaccination records. On top of that, you must obtain a permit and follow certain sanitation requirements."
+    answer: "Start by calling your town clerk's office and asking about livestock zoning. You'll need to know your property's zoning classification, the minimum lot size for livestock, how many animals are allowed, and setback distances from property lines."
   - question: "What are the benefits of keeping goats in Monroe County, NY?"
     answer: "There are many benefits to keeping goats in Monroe County, NY. For starters, goats are incredibly versatile animals, capable of providing meat, milk, fiber, and even fuel for energy."
   - question: "Are there any risks associated with keeping goats in Monroe County, NY?"

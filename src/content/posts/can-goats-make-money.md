@@ -33,9 +33,9 @@ faq:
   - question: "What is the goat-rearing business all about?"
     answer: "The goat-rearing business is all about raising goats for their milk, meat, fur, and fiber. Goat milk is a nutritious alternative to cow's milk, and goat meat is a leaner, healthier option than beef or pork."
   - question: "How to get started in the goat-rearing business?"
-    answer: "Getting started in the goat-rearing business can be a daunting task, but with a little research and planning, it can be a rewarding experience. The first step is to decide what type of goats you want to raise."
+    answer: "Pick one focus before you buy your first goat. For dairy, start with Nubians, LaManchas, or Saanens. For meat, Boer and Kiko crosses are best. For breeding stock, invest in registered animals with documented pedigrees."
   - question: "Are there any risks associated with goat-rearing?"
-    answer: "There are a few risks associated with goat-rearing. First, goats are susceptible to a number of diseases, such as brucellosis and Johne's disease. So, it's crucial to have your goats vaccinated against these diseases."
+    answer: "Parasites are the number one health challenge and can wipe out profits fast. Vet bills add up when you're not staying ahead of health issues. Bad fencing also means lost animals and angry neighbors. Budget for quality fencing from day one."
 ---
 Yes, goats can absolutely make you money. There are more revenue streams from goats than most people realize, and some of them don't even require a large herd to get started.
 

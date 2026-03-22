@@ -35,11 +35,11 @@ faq:
   - question: "Can sheep and goats eat bread?"
     answer: "Sheep and goats can eat bread as long as it is not moldy and does not contain any harmful chemicals. Moldy bread can cause health problems for sheep and goats, so it is best to avoid giving them this type of food."
   - question: "What are the benefits of feeding bread to sheep and goats?"
-    answer: "There are a number of benefits to feeding bread to sheep and goats. For one, bread is an excellent source of nutrients, providing animals with the vitamins and minerals that they need for growth and development."
+    answer: "Bread works well as a training treat or a way to lure a stubborn goat into a pen. Whole grain varieties provide some B vitamins and a small amount of fiber, but the main benefit is that animals love the taste and it makes handling easier."
   - question: "How much bread can you feed a sheep or goat?"
-    answer: "The amount of bread that you can feed to a sheep or goat depends on a number of factors, including the size and health of the animal as well as the type and quality of bread being used."
+    answer: "Keep it to a slice or two per animal, a few times a week at most. Too much bread can throw off the rumen's pH balance and lead to acidosis, a serious and sometimes fatal digestive condition."
   - question: "Are there any risks associated with feeding bread to sheep and goats?"
-    answer: "There is no doubt that feeding bread to sheep and goats can be a controversial topic, with many people expressing concerns about the potential risks associated with this practice."
+    answer: "Moldy bread is the biggest danger, as mold produces mycotoxins that can cause listeriosis, a brain infection that often kills goats and sheep within days. Never share goat minerals with sheep either, as the copper levels are toxic."
 ---
 
 Both sheep and goats can eat small amounts of plain bread as an occasional treat. But bread is junk food for ruminants, and there are a few rules you need to follow before tossing them a slice.

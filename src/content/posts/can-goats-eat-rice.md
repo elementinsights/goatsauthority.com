@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Rice?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Rice is a very nutritious treat for all kinds of goats. Rice is delicious to goats and provides them with nutrients."
+  text: "Cooked rice is safe for goats in small amounts as an occasional treat, but it is mostly carbohydrates with little protein or fiber. Raw, uncooked rice should be avoided as it can cause bloating."
 toc:
   - label: "Can goats eat rice?"
     href: "#can-goats-eat-rice"
@@ -37,9 +37,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat rice?"
-    answer: "Rice is a very nutritious treat for all kinds of goats. Rice is delicious to goats and provides them with nutrients. Rice also contains vitamin B and minerals such as phosphorus and potassium, which are all essential for a goat's diet."
+    answer: "Cooked rice is safe for goats as an occasional treat. It is mostly carbohydrates with little protein or fiber, so it should not be a dietary staple. A small handful mixed into regular feed once or twice a week is fine."
   - question: "Can goats eat raw rice?"
-    answer: "Raw rice, like other grains, is hard for goats to digest. It can also contain toxins that can be harmful to goats."
+    answer: "Raw, uncooked rice should be avoided. It is hard for goats to digest because the starch hasn't been broken down by cooking, and it can expand in the gut causing discomfort or bloating."
   - question: "Can a pregnant goat eat rice?"
     answer: "A pregnant goat can eat rice, but she will need other sources of nutrients as well. Rice is a grain that is mostly composed of carbohydrates."
   - question: "Can a lactating goat eat rice?"

@@ -31,9 +31,9 @@ faq:
   - question: "Can a pregnant goat eat raisins?"
     answer: "A pregnant goat can eat raisins, but it's crucial to feed them in moderation. Raisins are a high sugar snack and too many can lead to obesity and health problems later in life."
   - question: "Can a lactating goat eat raisins?"
-    answer: "Lactating goats, like all other mammals, need to eat a well-balanced diet in order to produce quality milk. Goats are browsers, meaning that they prefer to eat leaves, twigs, and other vegetation."
+    answer: "Lactating goats can eat raisins in moderation. The iron and potassium provide some nutritional benefit, but raisins should remain an occasional treat alongside quality hay and a lactation grain ration."
   - question: "Can a baby goat eat raisins?"
-    answer: "A baby goat's diet consists mostly of hay, grass, and milk. Goat milk is rich in nutrients and helps support a baby goat's growth and development. Raisins are a type of dried fruit that is very sweet."
+    answer: "Baby goats can eat raisins in very small amounts once they are eating solid food. Start with just two or three raisins and watch for any changes in stool or appetite over the next 24 hours."
 ---
 Raisins are safe for goats, and most of them go absolutely wild for these little dried fruits. If you are looking for a treat that is small, easy to carry in your pocket, and guaranteed to get your goat's attention, raisins are hard to beat.
 

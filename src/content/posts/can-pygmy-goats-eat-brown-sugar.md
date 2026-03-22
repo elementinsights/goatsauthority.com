@@ -35,11 +35,11 @@ faq:
   - question: "Can pygmy goats eat brown sugar?"
     answer: "Pygmy goats can safely eat small amounts of brown sugar as a treat. However, like all foods, you should introduce it slowly and in moderation to avoid digestive upset. You should also make sure the brown sugar does not contain any added molasses, as this can be harmful to goats."
   - question: "What are the benefits of feeding brown sugar to pygmy goats?"
-    answer: "There are a number of benefits to feeding brown sugar to pygmy goats. First and foremost, this nutrient-rich food is good for their health and can help them to thrive."
+    answer: "Honestly, there are almost no benefits. Brown sugar delivers quick energy and nothing else. A spoonful of molasses in warm water for a weak or chilled kid is the only real emergency use."
   - question: "Are there any risks associated with feeding brown sugar to pygmy goats?"
-    answer: "There is no clear consensus on whether feeding brown sugar to pygmy goats presents any risks."
+    answer: "The biggest risk is rumen acidosis, which occurs when too much sugar causes the rumen pH to drop rapidly. Symptoms include watery diarrhea, bloating, excessive thirst, and lethargy. Pygmy goats are also prone to obesity from concentrated sugar."
   - question: "How to prevent your pygmy goat from getting sick when eating brown sugar?"
-    answer: "As with any food, there are some precautionary measures you can take to help prevent your pygmy goat from getting sick when eating brown sugar."
+    answer: "The best prevention is to skip brown sugar entirely and offer natural treats like apple slices, raisins, carrots, or watermelon rind instead. These provide fiber, vitamins, and minerals alongside their sweetness."
 ---
 
 A tiny pinch of brown sugar won't kill your pygmy goat, but it's not something you should be feeding them on purpose. Brown sugar is pure simple carbohydrates with zero nutritional value for a ruminant animal.

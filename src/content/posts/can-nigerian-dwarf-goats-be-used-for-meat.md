@@ -11,7 +11,7 @@ imageAlt: "Can Nigerian Dwarf Goats Be Used For Meat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, they're still a good source of meat, and their meat is just as tasty. If you're looking to raise Nigerian dwarf goats for meat, there are a few things you need to keep in mind."
+  text: "Yes, Nigerian Dwarf goats can be used for meat, though they are primarily a dairy breed. A full-grown Nigerian Dwarf dresses out at roughly 25 to 35 pounds, making them a practical dual-purpose option for small homesteads."
 toc:
   - label: "Can Nigerian Dwarf goats be used for meat?"
     href: "#can-nigerian-dwarf-goats-be-used-for-meat"
@@ -33,7 +33,7 @@ faq:
   - question: "What is a Nigerian dwarf goat's temperament?"
     answer: "Nigerian dwarf goats are known for their friendly and outgoing temperament. They are small but sturdy animals that are docile and easy to handle, making them a popular choice for families with young children or those who are looking for an animal companion."
   - question: "How much do dwarf goats from Nigeria weigh?"
-    answer: "Nigerian dwarf goats, though smaller than some other breeds, are still a great source of meat. Their flavor is delicious and their size makes them easy to raise."
+    answer: "Adult Nigerian Dwarf goats typically weigh 60 to 80 pounds. A full-grown animal dresses out at roughly 25 to 35 pounds of meat, compared to 60 to 80 pounds from a Boer goat."
 ---
 
 Yes, Nigerian Dwarf goats can be used for meat, but they're primarily a dairy breed. If you're expecting the same output as a Boer goat, you'll be disappointed. That said, plenty of small homesteaders process Nigerian Dwarfs every year and find the arrangement works just fine for their needs.

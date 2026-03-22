@@ -37,7 +37,7 @@ faq:
   - question: "What are the benefits of dehorning a 2 year old goat?"
     answer: "Dehorning is the process of removing the horns from livestock. It is a common practice in many parts of the world, particularly where livestock are kept close to humans. There are several reasons for dehorning goats."
   - question: "Are there any risks associated with dehorning a 2 year old goat?"
-    answer: "Dehorning is a common practice in goat husbandry, and it carries with it a number of benefits. Goats with horns are more likely to injure themselves, and they can also cause injury to other goats or people."
+    answer: "The risks at this age are significant. Heavy bleeding is expected because the horn core has a major blood supply. Opening the frontal sinus leaves a hole into the skull that must heal from the inside out, and sinusitis is the most common post-surgical complication."
   - question: "How to prevent the risks when dehorning a 2 year old goat?"
     answer: "Dehorning is a common practice in the livestock industry, but it can be risky for both the animal and the handler. When done correctly, however, the risks are minimal."
 ---

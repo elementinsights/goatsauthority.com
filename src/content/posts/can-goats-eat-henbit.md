@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Henbit?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, it's important to note that henbit should only be fed to goats in moderation. This is because the herb can cause bloating and gas in goats if they eat too much of it."
+  text: "Yes, henbit is completely safe for goats. It is a common pasture weed that goats will happily browse, and it provides useful early-season forage with protein, fiber, and vitamins A and C."
 toc:
   - label: "Can goats eat henbit?"
     href: "#can-goats-eat-henbit"
@@ -29,11 +29,11 @@ faq:
   - question: "Can goats eat henbit?"
     answer: "Goats can eat henbit. Henbit's a member of the mint family and its leaves are edible. This herb is high in protein and fiber, which makes it a good food source for goats. It's also rich in vitamins A and C."
   - question: "Can all kinds of goats eat henbit?"
-    answer: "Goats are known for their ability to eat a variety of plants, including some that are poisonous to other animals. Henbit's a common weed that grows in many parts of the world, and it's often considered a nuisance."
+    answer: "Yes, all breeds and ages of goats can eat henbit safely. The plant is soft, palatable, and easy for goats of all ages to eat and digest."
   - question: "Can all parts of the henbit plant be eaten by goats?"
-    answer: "Henbit's a common wildflower in the mint family that is often considered a weed. It has a square stem and grows to be about 10-40 cm tall. The leaves are opposite, ovate to lanceolate, and have toothed edges."
+    answer: "Yes, the leaves, stems, and flowers of henbit are all edible and safe for goats. There is no part of the plant that poses a toxicity risk."
   - question: "What are the benefits of feeding goats henbit?"
-    answer: "Goats do not graze like cows; they are browsers. This indicates that they favor eating leaves, twigs, and other types of foliage over grass. In the southern United States, henbit, a winter weed that is a member of the mint family, is widespread."
+    answer: "Henbit is a decent source of protein, fiber, vitamins A and C, calcium, and phosphorus. It is especially valuable as early-season forage in late winter and early spring when pastures are still dormant."
 ---
 
 If you've got goats and a pasture, you've probably seen henbit growing in late winter and early spring. The good news is your goats can eat it freely, and most of them will browse on it without any encouragement from you.

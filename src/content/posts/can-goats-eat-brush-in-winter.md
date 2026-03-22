@@ -39,7 +39,7 @@ faq:
   - question: "What are the benefits of goats eating brushes in winter?"
     answer: "In the winter, goats can be a valuable asset in controlling brush growth. By selectively grazing on woody vegetation, goats can help to prevent the spread of invasive species and maintain healthy ecosystems."
   - question: "How much brush can goats eat in a day?"
-    answer: "As anyone who has ever tried to clear a patch of land knows, the brush can be incredibly stubborn. Fortunately, there's a natural way to get rid of it - by letting goats loose on the property."
+    answer: "A healthy adult goat can eat roughly 3% of its body weight in vegetation per day. For a 150-pound goat, that is about 4.5 pounds of browse daily. In winter, supplement with hay since dormant brush alone cannot meet all their nutritional needs."
 ---
 
 Goats are natural browsers, and that instinct doesn't shut off when the temperature drops. They'll happily work through dormant brush all winter long if you let them.

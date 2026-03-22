@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Apples?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Too much of anything is not good, even if it’s healthy food like apples. Goats love the sweet taste of apples."
+  text: "Yes, goats can eat apples and most of them love the sweet taste. Always remove the seeds before feeding since they contain amygdalin, which converts to hydrogen cyanide during digestion."
 toc:
   - label: "Can Goats Eat Apples?"
     href: "#can-goats-eat-apples"
@@ -31,13 +31,13 @@ toc:
     href: "#frequently-asked-questions-faqs"
 faq:
   - question: "Can Goats Eat Apples?"
-    answer: "Yes, goats can eat apples. They are safe and healthy for them. Apples have many nutrients that are good for a goat’s health. But don’t give too many at once."
+    answer: "Yes, goats can eat apples safely. They are rich in fiber, vitamin A, and vitamin C. Always remove the seeds before feeding since they contain amygdalin, which releases hydrogen cyanide during digestion."
   - question: "Is It Safe to Feed Apples to Goats?"
-    answer: "Yes, it is safe to feed apples to goats. Apples are a good source of vitamins and minerals for them. But remember, like all treats, they should be given in moderation."
+    answer: "Apples are safe for goats as long as you remove the seeds. The flesh, skin, and core are all fine. Slice apples and flick out the seeds before feeding."
   - question: "How Many Apples Can My Goat Eat?"
-    answer: "Goats can indeed eat apples. They are a healthy treat packed with vitamins and fiber. But like all things, stick to small amounts."
+    answer: "One to two apples per adult goat per day is a good limit. Spread the treats throughout the day to keep sugar intake gradual and avoid digestive upset."
   - question: "What Happens if My Goat Eats Too Many Apples"
-    answer: "When your goat eats too many apples, it may face health issues. Apples are rich in sugar. This can upset the balance of bacteria in a goat’s stomach. Too much sugar can cause bloating or even diarrhea."
+    answer: "Too many apples can cause bloating, loose stool, or diarrhea. The high sugar content disrupts the balance of bacteria in the rumen. If your goat gets into a bag of apples, watch for a tight, distended belly."
 ---
 If there’s one treat that gets goats running to the fence line, it’s apples. That sweet crunch is irresistible to just about every goat I’ve ever owned.
 

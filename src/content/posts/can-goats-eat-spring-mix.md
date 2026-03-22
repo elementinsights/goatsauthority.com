@@ -31,9 +31,9 @@ faq:
   - question: "Can goats eat spring mix?"
     answer: "Goats can eat spring mix. This greens mix is actually a great option to feed them, as it is packed with nutrients that are essential for their health. Not only that, but goats seem to really enjoy the taste of spring mix as well."
   - question: "When is the best time to introduce spring mix into your goat's diet?"
-    answer: "Spring is the time when new growth begins, and this is also true for plants. Goat farmers know that this is the best time to introduce spring mix into their goat's diet. Spring mix is a type of forage that is rich in nutrients and helps to promote healthy growth."
+    answer: "You can introduce spring mix to your goats any time. It is just a bag of mixed salad greens from the grocery store. Start with a small handful to see how your goats respond, and use it as a treat rather than a regular feed item."
   - question: "Are there any other alternative uses for spring mix for goats?"
-    answer: "There are other alternative uses for spring mix for goats. One popular alternative is to use it as bedding material. Spring mix is absorbent and helps to keep the goat's stall clean and dry."
+    answer: "Spring mix works great as a kitchen scrap treat or a way to use up greens that are getting wilted. The variety in the mix is something goats appreciate since they are browsers that prefer eating a mix of different plants."
 ---
 Yes, goats can eat spring mix without any problems. It's a perfectly safe treat that most goats will happily munch on if you toss it their way.
 

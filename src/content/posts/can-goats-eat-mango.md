@@ -35,7 +35,7 @@ faq:
   - question: "Is Mango Healthy for Goats?"
     answer: "Mangoes are indeed healthy for goats. They provide a good source of vitamins and minerals, which help to keep your goat strong and energetic. The fruit's sweet taste is also something that most goats enjoy. However, like with any other food item, stick to small amounts when feeding mangoes to your goat."
   - question: "Can Goats Eat Unripe Mango?"
-    answer: "Goats can eat unripe mangoes, but it's not their favorite. The taste of an unripe mango is sour and goats prefer sweet or salty foods. However, they won't get sick if they do nibble on one. Just like humans, though, too much of a good thing isn't great for them."
+    answer: "Goats can eat unripe mango without getting sick, but most won't be thrilled about it since green mangoes are sour. Wait until the fruit softens and starts to turn color for the best response from your herd."
 ---
 
 Mangoes are one of those treats that goats absolutely go nuts for. The sweet flesh is safe, nutritious, and makes a great occasional snack.

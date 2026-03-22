@@ -11,7 +11,7 @@ imageAlt: "Can You Freeze Goat Cheese?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "To freeze goat cheese, keep it in its original packaging, typically made of thick plastic. Place the entire log in the freezer."
+  text: "Yes, most goat cheeses freeze well. Hard and aged goat cheese freezes best and holds quality for 6 months or longer. Vacuum sealing gives the best results, but tight plastic wrap followed by foil works nearly as well."
 toc:
   - label: "Can You Freeze Goat Cheese?"
     href: "#can-you-freeze-goat-cheese"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can You Freeze Goat Cheese?"
-    answer: "To freeze goat cheese, keep it in its original packaging, typically made of thick plastic. Place the entire log in the freezer."
+    answer: "Yes, most goat cheeses freeze well. Hard and aged goat cheese freezes best, while soft chevre becomes crumbly after thawing, making it better for cooking than spreading. Vacuum sealing gives the best results, but tight plastic wrap followed by a layer of foil works nearly as well."
   - question: "How to Thaw Goat Cheese When It's Frozen"
     answer: "Here are some short steps on how to thaw goat cheese."
   - question: "How Long Does Goat Cheese Last in the Freezer?"

@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Poisoned on Clover That Has Been Frosted on?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots."
+  text: "Yes, frosted clover can be dangerous to goats. Frost-damaged clover releases sugars rapidly, causing frothy bloat, and moldy sweet clover produces dicoumarol, which can cause fatal internal bleeding."
 toc:
   - label: "Can a goat get poisoned on clover that has been frosted on?"
     href: "#can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat get poisoned on clover that has been frosted on?"
-    answer: "Clover that has been frost-covered can poison a goat. Since clover belongs to the family of legume plants, bacteria that fix nitrogen can be found in its roots. The nitrogen in the air is transformed by these bacteria into a form that plants can utilize."
+    answer: "Yes. Frost-damaged clover releases sugars rapidly, making it much more likely to cause frothy bloat. Moldy sweet clover also produces dicoumarol, a powerful anticoagulant that can cause fatal internal bleeding."
   - question: "What is clover, and what are the different types of clover that goats can eat?"
-    answer: "Clover is a type of legume that is often used as a cover crop or as fodder for grazing animals. There are many different species of clover, and the most common include red clover, white clover, and alsike clover."
+    answer: "The most common types in goat pastures are red clover, white clover, and sweet clover. Red and white clover are safe under normal conditions, while sweet clover demands the most caution because of its dicoumarol risk when moldy."
   - question: "What are the benefits of feeding goats clover?"
-    answer: "Clover is a highly nutritious food for goats, and it offers a range of benefits. Clover is an excellent source of proteins, fiber, and minerals, and it can help to supplement the diet of goats."
+    answer: "Fresh, healthy clover is high in protein and rich in minerals like calcium and phosphorus. When mixed with grass hay or pasture grasses, clover can boost the nutritional quality of your goats' diet."
   - question: "What are the signs of clover poisoning in goats, and what should you do if you think your goat has been poisoned by clover?"
-    answer: "Clover is a common ingredient in goat feed, but it can also be poisonous. There are several different species of clover that are toxic to goats, and all parts of the plant are dangerous."
+    answer: "Bloat shows up as rapid swelling on the goat's left side with obvious discomfort. Sweet clover disease causes nosebleeds, blood in the stool, weakness, and pale gums. Get your vet involved immediately."
 ---
 Frosted clover is a real danger that catches a lot of goat owners off guard. Yes, a goat can absolutely get sick or even die from eating clover that has been hit by frost, and the risks go beyond just an upset stomach.
 

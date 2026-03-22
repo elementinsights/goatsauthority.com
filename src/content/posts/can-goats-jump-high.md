@@ -11,7 +11,7 @@ imageAlt: "Can Goats Jump High?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "In addition to being able to jump high, goats are also good at climbing. They can climb steep hillsides and cliffs."
+  text: "Yes, most goats can comfortably jump 4 to 5 feet from a standing position. Nigerian Dwarf and Alpine breeds are the most athletic jumpers and can clear 5 feet or higher when motivated."
 toc:
   - label: "Can goats jump high?"
     href: "#can-goats-jump-high"
@@ -31,11 +31,11 @@ faq:
   - question: "Can goats jump high?"
     answer: "Goats can jump high. They are able to jump over obstacles that are up to five feet tall. Goats have strong muscles in their hind legs that allow them to propel themselves into the air. They also have hooves that are well-suited for gripping surfaces."
   - question: "What is the average height a goat can jump?"
-    answer: "The average height a goat can jump is between 30 and 36 inches. However, some breeds of goats, such as the Alpine and LaMancha, are capable of jumping higher, with heights of up to 48 inches reported. Goats are able to jump so high due to their strong hind legs and muscular build."
+    answer: "The average goat clears about 4 feet without much effort. Nigerian Dwarf goats and Alpine breeds are the most athletic jumpers and can hit 5 feet or higher. Boer goats are heavier and tend to jump less."
   - question: "Why do goats like to jump?"
     answer: "One theory is that goats jump because it helps them to escape predators. In the wild, goats are constantly on the lookout for danger, and jumping gives them a quick way to get out of harm's way."
   - question: "What are the risks associated with goats jumping?"
-    answer: "There are a few risks associated with goats jumping. One is that they could injure themselves. Goats have been known to break their legs or necks when they jump from high places."
+    answer: "The biggest risk is escape, which exposes goats to predators, traffic, and toxic plants. Goats can also break legs landing on hard surfaces or catch their horns in fence wire during a jump attempt."
 ---
 Yes, goats can jump high. If you've ever watched a goat clear a fence you thought was tall enough, you already know this firsthand.
 

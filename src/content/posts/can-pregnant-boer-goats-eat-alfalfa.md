@@ -37,9 +37,9 @@ faq:
   - question: "What is alfalfa and what are its benefits for pregnant Boer goats?"
     answer: "Alfalfa, also known as lucerne, is a type of legume that is commonly used to feed livestock. Traditionally, alfalfa has been prized for its high levels of nutrients, including protein and fatty acids, as well as it's rich supply of antioxidants and vitamins."
   - question: "How much alfalfa should pregnant Boer goats eat?"
-    answer: "Generally speaking, pregnant goats will require more nutrients in order to support the growth of their young and satisfy the demands of milk production."
+    answer: "Start with a 60/40 mix of grass hay and alfalfa. If the doe is carrying multiples, bump the alfalfa up closer to 50% during the last 6 weeks. Introduce alfalfa gradually over 7 to 10 days to avoid bloat."
   - question: "When is the best time to feed alfalfa to pregnant Boer goats?"
-    answer: "There is no clear answer to the question of when to feed alfalfa to pregnant Boer goats, as different types of goats and different stages of pregnancy will require different levels of nutrition."
+    answer: "The last 6 weeks of pregnancy is the most critical time, when kids are growing fastest and putting the biggest demand on the doe's body. Start increasing alfalfa around this period to prevent energy deficits and milk fever."
 ---
 If you're raising Boer does, alfalfa should be on your radar during pregnancy. It's one of the best feeds you can offer a pregnant Boer goat, and most experienced breeders consider it a standard part of the ration.
 

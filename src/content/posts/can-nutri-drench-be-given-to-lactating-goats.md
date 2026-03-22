@@ -35,9 +35,9 @@ faq:
   - question: "Can Nutri drench be given to lactating goats?"
     answer: "It is safe to give Nutri Drench to lactating goats because it is a source of vitamins and minerals. In fact, it can help them produce more milk. They can also benefit from the additional nutrition that it provides and the fact that it can help them stay hydrated."
   - question: "What is Nutri Drench?"
-    answer: "Nutri Drench is a highly concentrated vitamin and mineral supplement specifically formulated to help maintain optimal nutritional health in horses of all ages, sizes, and breeds."
+    answer: "Nutri-Drench is a concentrated liquid supplement that provides quick energy through molasses and propylene glycol, along with vitamins A, D, and E and trace minerals. Buy the version labeled for sheep and goats."
   - question: "What are the things you need to consider when giving Nutri Drench to lactating goats?"
-    answer: "When giving Nutri Drench to lactating goats, there are a few important things that you need to keep in mind."
+    answer: "The standard dose is 1 oz per 25 lbs of body weight given orally. Squirt it slowly into the side of the mouth, giving the doe time to swallow between squirts to prevent aspiration."
   - question: "Why is beneficial of Nutri Drench for lactating goats?"
     answer: "There are a number of benefits to using Nutri Drench for lactating goats. First and foremost, this supplement is packed full of essential nutrients that are critical for the health and well-being of both mother and baby goats."
 ---

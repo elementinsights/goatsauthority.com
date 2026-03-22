@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Tethered?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can be tethered because they have a strong natural instinct to stay with their herd. When goats are tethered, they will usually stay close to the other goats in the herd."
+  text: "Yes, goats can be tethered, but it comes with serious risks including strangulation, predator attacks, and leg injuries. Tethering should be a temporary solution with constant supervision, not a permanent management strategy."
 toc:
   - label: "Can goats be tethered?"
     href: "#can-goats-be-tethered"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats be tethered?"
-    answer: "Goats can be tethered because they have a strong natural instinct to stay with their herd. When goats are tethered, they will usually stay close to the other goats in the herd. They are also very social animals and will often seek out the company of other goats."
+    answer: "Yes, goats can be tethered, but it's one of the most dangerous ways to confine them. They can wrap the tether around their legs and strangle themselves, and they're completely defenseless against predators. Proper fencing is always safer."
   - question: "How to tether goats safely?"
-    answer: "Tethering goats can be safe if done correctly. The most important thing is to make sure the goat is unable to reach anything it could pull over on top of itself like a fence post or water bucket."
+    answer: "Use a heavy-duty swivel snap on both ends of a lightweight chain attached to a smooth metal ground stake. Keep the tether area clear of obstacles, provide shade and water within reach, and check on the goat every 30 minutes."
   - question: "What kind of goats are best suited for tethering?"
     answer: "All goats can be tethered, but some are better suited for it than others."
   - question: "Can you tether a pregnant goat?"
-    answer: "You can tether a pregnant goat, but you need to be extra careful. Make sure the tether is long enough that the goat can lie down comfortably and get up again easily."
+    answer: "Never tether pregnant does, kid goats, or sick goats. Pregnant does need freedom to move and lie down, the stress can cause complications, and kid goats are too active and fragile with legs easily tangled in chain."
 ---
 Yes, goats can be tethered, but it comes with serious risks that every goat owner needs to understand before trying it. Tethering should be a temporary solution at best, not a permanent management strategy.
 

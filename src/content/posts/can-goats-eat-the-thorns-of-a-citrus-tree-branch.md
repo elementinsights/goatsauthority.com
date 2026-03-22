@@ -35,11 +35,11 @@ faq:
   - question: "Can goats eat the thorns of a citrus tree branch?"
     answer: "Goats can eat the thorns of a citrus tree branch. The reason why they can is that goats have a four-chamber stomach that allows them to digest food more thoroughly than other animals. Additionally, their intestines are much longer than other animals, which also aids in the digestion process."
   - question: "What are the risks of having goats eat the thorns of a citrus tree branch?"
-    answer: "There are a few risks associated with goats eating the thorns of a citrus tree branch. First, the thorns can puncture the goat's digestive tract, causing internal bleeding and potentially leading to death."
+    answer: "The main risk is mouth or throat injuries from particularly long thorns, especially on grapefruit trees with thorns over 2 inches. The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once."
   - question: "How to take care of your goats if you have them eat citrus tree branches?"
-    answer: "If you have citrus trees on your property, you may be wondering if it's okay to let your goats eat the branches."
+    answer: "Keep fresh water available whenever your goats browse citrus. Make sure the trees have not been sprayed with pesticides before letting goats graze around them. Any chemical residue on the leaves or bark can make your goats sick."
   - question: "How many citrus tree branches can a goat eat per day?"
-    answer: "It really depends on the size of the goat and the amount of foliage on the branch. A general rule of thumb is that a Goat can consume about two-thirds of its body weight in food each day."
+    answer: "Citrus browse should be a supplement to their regular diet of hay and pasture. A goat eats about 3 to 5 percent of its body weight daily, and citrus branches should only make up a portion of that."
 ---
 If you have citrus trees on your property and goats nearby, chances are your goats have already been eyeing those branches. The good news is that citrus trees are safe browse for goats, thorns and all.
 

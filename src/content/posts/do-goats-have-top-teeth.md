@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Top Teeth?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats have top teeth. In fact, goats have 32 teeth in total: incisors at the front of the mouth for slicing off vegetation, canines for tearing, and premolars and molars for grinding."
+  text: "Goats have no upper front teeth. Instead, they have a thick dental pad on the upper jaw that their eight lower incisors press against to rip off vegetation. They do have upper molars and premolars in the back for grinding."
 toc:
   - label: "Do goats have top teeth?"
     href: "#do-goats-have-top-teeth"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Do goats have top teeth?"
-    answer: "Goats have top teeth. In fact, goats have 32 teeth in total: incisors at the front of the mouth for slicing off vegetation, canines for tearing, and premolars and molars for grinding. However, not all of these teeth are visible at all times."
+    answer: "Goats have no upper incisors at the front of their mouth. Instead, they have a thick dental pad on the upper jaw. Their eight lower incisors press against this pad to rip and tear off vegetation. They do have upper and lower molars and premolars in the back for grinding."
   - question: "Do all goats have top teeth?"
-    answer: "Not all goats have top teeth. There are two types of goats: domestic goats and wild goats. Domestic goats are the ones you're probably most familiar with, as they're often kept as pets or on farms. Wild goats, on the other hand, are less common and tend to live in mountainous regions."
+    answer: "Every breed of goat has the same basic dental setup: no upper incisors in front and molars in the back on both jaws. This is the same across all domestic and wild goat species and is a trait shared with other ruminants like sheep, cattle, and deer."
   - question: "What are the uses of goat's top teeth?"
     answer: "Although goats are known for their hearty appetite, they are actually very selective eaters. Their top teeth are specially adapted to help them choose the best leaves and shoots to eat."
   - question: "How can you take care of a goat's teeth?"

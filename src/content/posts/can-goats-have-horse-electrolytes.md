@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have Horse Electrolytes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have horse electrolytes. In fact, many goat owners give their goats horse electrolytes because they are a cheap and easy way to ensure that goats stay hydrated."
+  text: "In an emergency, goats can have horse electrolytes. But goat-specific products are a better choice when available, and a simple homemade mix of salt, baking soda, lite salt, and honey works just as well."
 toc:
   - label: "Can goats have horse electrolytes?"
     href: "#can-goats-have-horse-electrolytes"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats have horse electrolytes?"
-    answer: "Goats can have horse electrolytes. In fact, many goat owners give their goats horse electrolytes because they are a cheap and easy way to ensure that goats stay hydrated. They also help prevent issues like heat stress, which can be dangerous for goats."
+    answer: "Horse electrolytes won't poison your goat, but they are formulated for a 1,000-pound animal with different mineral needs. In a dehydration emergency, use them at half the recommended dose, then switch to goat-specific products."
   - question: "What are the benefits of giving goats electrolytes?"
     answer: "There are many benefits to giving goats electrolytes. Electrolytes help goats stay hydrated, which is important for their overall health. They also help prevent problems like heat stress, which can be dangerous for goats."
   - question: "What are the risks associated with giving goats electrolytes?"
     answer: "There are a few risks associated with giving goats electrolytes. First, if you give your goat too much of an electrolyte supplement, it can cause problems like diarrhea."
   - question: "How to prevent electrolyte imbalance in goats"
-    answer: "There are a few things you can do to prevent electrolyte imbalance in goats. First, make sure that you give them the right type of electrolytes."
+    answer: "Always provide clean, fresh water. Keep goat-specific electrolyte powder in your barn medicine kit. During hot weather, heavy lactation, or illness, monitor for dehydration by pinching the skin on the neck to check for tenting."
 ---
 In an emergency, yes, you can give your goat horse electrolytes. But goat-specific products are a better choice when you have access to them, and a simple homemade mix works just as well in a pinch.
 

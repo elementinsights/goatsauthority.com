@@ -31,9 +31,9 @@ faq:
   - question: "What are the benefits of using a rope halter on a goat?"
     answer: "The most obvious benefit of using a rope halter on a goat is that this simple device allows you to easily control and guide your animal."
   - question: "What are the things I need to consider before using a rope halter?"
-    answer: "There are several things to consider before using a rope halter. First, it's important to choose a high-quality halter made from durable materials and designed to fit the specific shape of your horse's head."
+    answer: "The fit matters most. Goats have smaller, narrower heads than horses, so use a halter specifically made for goats or miniature horses. The nose piece should sit two finger-widths above the nostrils on the bony part of the nose."
   - question: "Are there any risks associated with using a rope halter?"
-    answer: "There are both benefits and risks to using a rope halter when working with horses. On the one hand, rope halters allow trainers and handlers to create constrained pressure on a horse's mouth, allowing for more precise movement and control of the animal."
+    answer: "The biggest risk is strangulation. Never leave a rope halter on an unattended goat since they stick their heads through fences and can get snagged. For full-time wear, use a breakaway halter with a leather crown piece that snaps under pressure."
 ---
 Yes, you can absolutely use a rope halter on a goat. I've used them for years on my herd, and they work great for training, leading, and general handling.
 

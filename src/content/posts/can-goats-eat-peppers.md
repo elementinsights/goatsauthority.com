@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peppers?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, there are some risks associated with feeding peppers to goats. Peppers can cause digestive upset in some goats."
+  text: "Bell peppers are safe and nutritious for goats, rich in vitamin C. Hot peppers won't poison them but will burn their mouths. Keep goats away from the pepper plant itself, as it belongs to the nightshade family."
 toc:
   - label: "Can goats eat peppers?"
     href: "#can-goats-eat-peppers"
@@ -39,11 +39,11 @@ faq:
   - question: "Can goats eat peppers?"
     answer: "Goats can consume peppers. In fact, peppers are high in vitamin C and other essential nutrients. They are a good source of antioxidants and can help protect goats from certain diseases. Peppers also contain capsaicin, which has been shown to have anti-inflammatory properties."
   - question: "Can goats eat pepper leaves?"
-    answer: "Goats are able to eat a variety of foods, including pepper leaves. These leaves contain nutrients that goats need in order to stay healthy, and they also help to keep the goat's digestive system working properly."
+    answer: "Pepper plants belong to the nightshade family and the leaves contain solanine. A few nibbles probably won't cause issues, but you shouldn't let goats graze freely on pepper plants."
   - question: "Can goats eat pepper seeds?"
     answer: "Goats can eat pepper seeds. Pepper seeds are not poisonous to goats and will not harm them if they eat them. In fact, goats may enjoy the taste of pepper seeds. Despite that, goats should not eat too many pepper seeds as they can cause digestive upset."
   - question: "Can goats eat pepper stems?"
-    answer: "Goats are able to eat a wide variety of food, including pepper stems. Pepper plants are a type of nightshade, and all parts of the plant contain a compound called solanine."
+    answer: "The stems should be removed before feeding peppers to goats. They are tough and woody, and since pepper plants are a nightshade, the green plant parts contain solanine."
 ---
 
 Peppers come in a huge variety, from sweet bell peppers to scorching habaneros. If you're wondering whether your goats can eat them, the answer depends on which type you're talking about.

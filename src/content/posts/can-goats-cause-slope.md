@@ -37,11 +37,11 @@ faq:
   - question: "Can goats cause slope?"
     answer: "Goats can contribute to slope failure because they are able to graze on the vegetation that helps hold soil in place. When this vegetation is removed, it can lead to increased erosion and, ultimately, slope failure, especially during heavy rains."
   - question: "What do goats eat and how does that affect the land they graze on?"
-    answer: "Goats are known for their ability to eat just about anything, but they are actually very picky eaters. In the wild, goats prefer to browse woody plants like shrubs and young trees."
+    answer: "Goats prefer to browse on shrubs, weeds, and woody plants. When they overgraze vegetation on a hillside, the root systems die off and rain washes loose soil downhill. Their hooves also create narrow trails that channel water and speed erosion."
   - question: "How do goats help farmers and why are they becoming increasingly popular?"
-    answer: "Goats are becoming increasingly popular among farmers for several reasons. First, goats are very versatile animals and can be used for both dairy and meat production."
+    answer: "Goats are excellent at clearing invasive brush that crowds out deep-rooted native grasses. When managed properly on slopes, they remove brush so native plants rebound, and the hillside actually stabilizes over time."
   - question: "What are some of the dangers associated with grazing goats on slopes?"
-    answer: "Goats are often used for grazing purposes on slopes, as they are known to be efficient at clearing vegetation."
+    answer: "Overgrazing strips the vegetation that holds soil in place, and goat hooves create packed-down trails that channel water instead of letting it soak in. Running too many goats on steep ground is the biggest risk factor."
 ---
 
 The short answer is yes, goats can cause slope erosion. But they can also prevent it, depending on how you manage them.

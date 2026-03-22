@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Hedges?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat hedges. Hedge is a good source of nutrition for goats and can provide them with many benefits. Goats also enjoy eating hedges, so it can be a great way to keep them entertained and engaged, as well as provide them with a healthy snack."
+  text: "It depends entirely on the species of plant. Some hedges like hawthorn and beech are safe and nutritious, while others like yew and privet are toxic and can kill goats."
 toc:
   - label: "Can goats eat hedges?"
     href: "#can-goats-eat-hedges"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat hedges?"
-    answer: "Goats can eat hedges. Hedge is a good source of nutrition for goats and can provide them with many benefits. Goats also enjoy eating hedges, so it can be a great way to keep them entertained and engaged, as well as provide them with a healthy snack."
+    answer: "Goats can eat many types of hedges, but the species matters. You must identify every plant in a hedge before giving your goats access, since some hedge species like yew and privet are toxic."
   - question: "What are the benefits of goats eating hedges?"
-    answer: "A hedge is a good source of fiber and roughage, which can help goats with their digestion. A hedge is also high in vitamins and minerals, including vitamin C, which can help boost a goat's immune system. Eating hedge can also help keep a goat's teeth healthy and clean."
+    answer: "Safe hedges like hawthorn, beech, and bramble provide good browse with fiber, vitamins, and minerals. The woody stems also help wear down teeth and provide mental stimulation for goats."
   - question: "What are the best hedges for goats to eat?"
-    answer: "There are many different types of hedges that goats can eat."
+    answer: "Hawthorn, blackthorn, beech, bramble, rosemary, and dogwood hedges are all safe and nutritious options for goats."
   - question: "Are there any risks associated with goats eating hedges?"
-    answer: "While goats are known for their ability to eat just about anything, there are some risks associated with allowing them to graze on hedges."
+    answer: "Several common hedge species are toxic to goats. Privet causes liver failure, boxwood attacks the nervous system, and yew is lethal with no warning signs. Always identify hedge species before allowing access."
 ---
 Whether goats can eat hedges depends entirely on what species of plant the hedge is made of. Some hedges are perfectly nutritious, while others are flat-out deadly. You need to know the difference before letting your goats anywhere near a hedgerow.
 

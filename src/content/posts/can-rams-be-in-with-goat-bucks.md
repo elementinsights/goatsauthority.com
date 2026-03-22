@@ -11,7 +11,7 @@ imageAlt: "Can Rams Be In With Goat Bucks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can put a ram in with goat bucks as long as the bucks are castrated. If the bucks are not castrated, they will try to mate with the female goats, and this could lead to injury or even death for both the buck and the doe."
+  text: "Keeping rams and goat bucks together is not recommended. Rams have a thicker skull and are more aggressive than goat bucks, and the mismatch in fighting style puts goat bucks at serious risk of injury or death."
 toc:
   - label: "Why rams and goat bucks are a bad mix"
     href: "#why-rams-and-goat-bucks-are-a-bad-mix"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can rams be in with goat bucks?"
-    answer: "You can put a ram in with goat bucks as long as the bucks are castrated. If the bucks are not castrated, they will try to mate with the female goats, and this could lead to injury or even death for both the buck and the doe."
+    answer: "Keeping rams and goat bucks together is not recommended. Rams have a thick bony plate in their skull that acts as a crash helmet, while goat skulls are lighter and more narrow. A full head-on charge from a ram can fracture a goat's skull."
   - question: "What are the benefits of keeping rams and goat bucks together?"
-    answer: "Ram and goat bucks are often kept together in what is known as a 'tup enclosure. This is because there are many benefits to doing so."
+    answer: "There are very few benefits. The only practical reason would be limited space on a small farm. If you must house them together, introduce outside of breeding season, provide maximum space, and separate them immediately during rut."
   - question: "What are the risks of keeping rams and goat bucks together?"
-    answer: "When it comes to keeping rams and goat bucks together, there are several potential risks that need to be considered."
+    answer: "Rams are more aggressive than goat bucks and don't recognize goat submission signals. The mismatch in fighting style leads to serious injuries. During breeding season, a 250-pound ram can generate enough force to kill a goat buck with a single hit."
   - question: "How to prevent fighting between rams and goat bucks?"
-    answer: "There are a few different things that you can do to prevent fighting between rams and goat bucks."
+    answer: "The safest approach is to keep them separated year-round. If that is not possible, introduce them in a large neutral space outside of breeding season, and separate them immediately during rut with no exceptions."
 ---
 
 Keeping rams and goat bucks together is not recommended. I've seen the aftermath of this pairing too many times, and it usually ends with an injured or dead goat. Rams are built differently than bucks, and that difference becomes dangerous when the two species share a pen.

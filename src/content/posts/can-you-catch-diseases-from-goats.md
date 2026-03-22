@@ -35,11 +35,11 @@ faq:
   - question: "Can you catch diseases from goats?"
     answer: "It is possible to catch diseases from goats because they can carry bacteria, viruses, and parasites that are harmful to humans. In fact, some of the diseases that goats can carry are deadly and can be easily spread to humans."
   - question: "What are some common diseases that can be caught from goats?"
-    answer: "Goats are commonly associated with barnyards and farms, but these versatile animals can actually make great pets."
+    answer: "Q fever spreads through birthing fluids and causes flu-like symptoms. Orf causes painful blisters on the hands after skin contact with an infected goat. Cryptosporidiosis and E. coli spread through fecal contact, and rabies is rare but possible."
   - question: "What are the risks of catching diseases from goats?"
-    answer: "Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool."
+    answer: "For most healthy adults, the risk is low with basic hygiene. The risk increases significantly during kidding season when birthing fluids carry the highest concentration of bacteria. People who drink unpasteurized goat milk also face higher exposure."
   - question: "How do you prevent yourself from catching those diseases?"
-    answer: "Well, to start off, you can catch diseases from other people, so it's important to avoid close contact with someone who is sick."
+    answer: "Wash your hands with soap and warm water for at least 20 seconds after every interaction with your goats. Wear disposable gloves during kidding and when handling sick goats, and change your barn clothes before going inside your house."
 ---
 
 Working around goats every day is one of the best parts of farm life, but it comes with a few health risks worth knowing about. Goats can carry diseases that pass to humans, and basic precautions go a long way toward keeping you safe.

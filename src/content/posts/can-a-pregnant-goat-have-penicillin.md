@@ -29,15 +29,15 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I give my pregnant goat penicillin if she's sick?"
-    answer: "When a pregnant goat is sick, it's important to consult with a veterinarian before giving her any medication, including penicillin. Penicillin is a common antibiotic that is used to treat a variety of bacterial infections in goats. However, it's important to make sure that the infection is caused by bacteria before giving your goat penicillin. This is because penicillin will not work against viral infections."
+    answer: "Yes, Procaine Penicillin G is safe for pregnant goats. There's no evidence it causes birth defects or harms developing kids. Just make sure the infection is bacterial since penicillin won't work against viral infections."
   - question: "How much penicillin should I give my pregnant goat?"
-    answer: "The standard dose of penicillin for a pregnant goat is 2,000 units per kilogram. The veterinarian may additionally recommend an intramuscular injection of 50-100cc of penicillin G crystalline suspension. For a pregnant goat weighing between 180-200 pounds, this would equal approximately 3 mL. For a pregnant goat weighing less than 180 pounds, the dose may be lower."
+    answer: "The standard dose of Procaine Penicillin G is 1ml per 10 lbs of body weight, given as an intramuscular injection every 12 hours for 5 days. Don't skip doses or quit early even if she looks better."
   - question: "Can penicillin cause side effects in pregnant goats?"
     answer: "Yes, penicillin can cause side effects in both pregnant goats and their unborn kids. Some of the most common side effects include diarrhea, vomiting, and allergic reactions. If you notice any of these side effects in your pregnant goat, stop giving her penicillin and contact your veterinarian immediately."
   - question: "How do I give my pregnant goat penicillin?"
-    answer: "Penicillin can be given orally or by injection. If you're giving your goat penicillin by injection, the needle should be inserted into the center of the neck muscle mass."
+    answer: "Give penicillin as an intramuscular injection in the neck muscle, never orally. Oral penicillin disrupts the rumen bacteria and can cause digestive problems in adult goats. Alternate sides of the neck with each dose."
   - question: "Is there anything I need to do after giving my pregnant goat penicillin?"
-    answer: "After giving your goat penicillin, it's important to clean the injection site with alcohol and apply a bandage to prevent infection. You should also monitor your goat for any signs of an allergic reaction or other side effects. It's also important to make sure that she has access to plenty of clean water to drink."
+    answer: "Wipe the injection site with an alcohol pad, alternate sides of the neck with each dose, and watch for any signs of allergic reaction. Complete the full 5-day course even if the doe seems better after two days."
 ---
 
 When a pregnant doe gets sick, you need to act fast. Penicillin is one of the safest antibiotics you can reach for, and yes, it's safe to give to pregnant goats.

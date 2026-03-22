@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you breed a father and daughter goat?"
-    answer: "You can breed a father and daughter goat, but it is not ideal because it is considered inbreeding. This can lead to health problems for the offspring. But if you decide to breed them, make sure the father and daughter are not too closely related."
+    answer: "You can breed a father and daughter goat, but for most owners the risk outweighs any benefit. This is close inbreeding with a 25 percent chance of doubling any recessive genetic defect the sire carries. Unless you're an experienced breeder with detailed records, bringing in an unrelated buck is the better choice."
   - question: "What is line breeding and why is it used in goat husbandry?"
     answer: "Line breeding is a type of breeding that involves selecting animals that are related to each other and then breeding them with each other."
   - question: "What are the benefits of line-breeding goats?"

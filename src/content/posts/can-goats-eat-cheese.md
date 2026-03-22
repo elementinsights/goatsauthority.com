@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cheese?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cheese, but in moderation. It’s not their usual diet and too much could upset their stomachs."
+  text: "A small nibble of plain cheese won’t hurt your goat, but cheese is not a natural food for them. Adult goats produce very little lactase, so dairy can cause bloating, gas, and loose stools."
 toc:
   - label: "Can Goats Eat Cheese?"
     href: "#can-goats-eat-cheese"
@@ -29,11 +29,11 @@ toc:
     href: "#what-other-foods-can-goats-eat-apart-from-cheese"
 faq:
   - question: "Can Goats Eat Cheese?"
-    answer: "Goats can eat cheese, but in moderation. It’s not their usual diet and too much could upset their stomachs. They’re like us humans that way. Cheese is made from milk which goats naturally produce and consume."
+    answer: "A tiny piece of mild cheese won’t send your goat to the vet, but cheese is not natural food for goats. Adult goats produce very little lactase, so dairy causes digestive upset, loose stools, and gas."
   - question: "Can Baby Goats Eat Cheese?"
-    answer: "Baby goats, also known as kids, have different dietary needs than adult goats. They are usually fed a diet of milk until they’re weaned off at about two months old. During this time, cheese isn’t recommended for them."
+    answer: "No, kids should not eat cheese. Their digestive systems are still developing and cannot handle concentrated fats and proteins in cheese. Stick with mother’s milk or goat milk replacer until weaning."
   - question: "Can You Feed Goats Goat Cheese?"
-    answer: "Can you feed goats goat cheese? The answer is yes, but with caution. Goats can eat cheese, including the one made from their milk. It’s rich in protein and calcium which are good for them."
+    answer: "A nibble won’t cause a crisis, but do not make it a habit. The fermentation and aging process changes the composition in ways a goat’s gut is not designed to handle."
   - question: "What Other Foods Can Goats Eat Apart From Cheese?"
     answer: "Goats are not just cheese lovers. They enjoy a variety of foods. Fruits and vegetables top their list, especially apples and carrots. Goats also love grains like oats, corn, barley."
 ---

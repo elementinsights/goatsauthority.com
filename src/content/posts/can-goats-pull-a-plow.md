@@ -11,7 +11,7 @@ imageAlt: "Can Goats Pull A Plow?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can pull a plow because they are very strong animals. Goats are very intelligent and can be trained to do many different things and tricks, including pulling a plow."
+  text: "Goats can pull lightweight garden implements and small carts, but modern goats are too small for full-sized plows. Large-breed wethers make the best draft goats for small homestead tasks."
 toc:
   - label: "Can goats pull a plow?"
     href: "#can-goats-pull-a-plow"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats pull a plow?"
-    answer: "Goats can pull a plow because they are very strong animals. Goats are very intelligent and can be trained to do many different things and tricks, including pulling a plow. They are also very good at following commands and directions."
+    answer: "Historically, teams of goats pulled small single-bottom plows in regions where horses were unavailable. Modern goats can pull small garden cultivators on soft soil, but even large Boer goats at 300 pounds lack the muscle for real plowing."
   - question: "What are the benefits of goats pulling a plow?"
     answer: "There are many benefits to goats pulling a plow. Goats are very strong animals and they can pull a lot of weight. This means that they can help you to cultivate and loosen the soil more effectively than if you were to do it by hand."
   - question: "How do you train a goat to pull a plow?"
-    answer: "Training a goat to pull a plow is not as difficult as it may seem. With the right training, goats can be very effective at pulling a plow."
+    answer: "Start by halter-training your goat to lead reliably and respond to voice commands. Then introduce the harness gradually, letting the goat wear it for a few days. Start with a light drag weight and slowly increase the load over several weeks."
   - question: "Are there any special considerations when goats pull a plow?"
-    answer: "Yes, there are some special considerations that you need to take into account when goats pull a plow."
+    answer: "Keep work sessions short since goats overheat faster than horses and can get heat stress within 30 minutes. Watch for harness rub marks on shoulders and chest, and always work in a fenced area since goats can spook and bolt."
 ---
 
 Goats have been used as draft animals for centuries in parts of Europe and Africa. But modern goats are small animals compared to horses and oxen, so there are real limits to what they can pull.

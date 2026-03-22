@@ -41,7 +41,7 @@ faq:
   - question: "What is inbreeding?"
     answer: "Inbreeding is the breeding of two closely related animals. This can be done by breeding a father and daughter, or a mother and son. It can also be done by breeding two siblings, or a half-brother and sister."
   - question: "What are the pros and cons of line breeding?"
-    answer: "There are both pros and cons to line breeding."
+    answer: "The upside is that linebreeding can fix desirable traits like milk production or body conformation. The downside is that it concentrates bad genetics just as effectively as good ones, and without aggressive culling it leads to inbreeding depression with smaller birth weights, slower growth, and weaker immune systems."
 ---
 
 Yes, you can physically breed half-sibling goats, and a single generation of it is relatively low risk if both animals are healthy with no known genetic defects. But that does not mean it is a good idea to make a habit of it.

@@ -31,9 +31,9 @@ faq:
   - question: "What are the benefits of breeding a 6 yr old goat?"
     answer: "There are many benefits to breeding a 6 yr old goat. For one, it can help improve the genetic diversity of your herd."
   - question: "What are the risks of breeding a 6 yr old goat?"
-    answer: "There are some risks associated with breeding a 6 yr old goat. For example, if the goat is not healthy, it may have difficulty conceiving or carrying a pregnancy to term."
+    answer: "The biggest concern is her birth canal. A maiden doe that has never kidded has a narrow, unstretched pelvis, raising the chance of dystocia (difficult delivery). She may also produce less colostrum and milk than a doe that has been through the process before."
   - question: "When is the best time to start breeding goats?"
-    answer: "The best time to start breeding goats is typically around the age of 6. This is because goats reach sexual maturity at around 6 months old, and they are generally considered to be fully grown by the age of 1."
+    answer: "Goats can be bred once they reach about 80 pounds or 70% of their adult weight, typically between 7 months and 1 year old. While 6 years old is not too late for a first breeding, earlier is generally better since maiden does face higher risks of dystocia as they age."
 ---
 
 You've got a 6-year-old doe that's never been bred, and you're wondering if it's too late. The short answer is no — it's not too late, but you need to go in with your eyes open.

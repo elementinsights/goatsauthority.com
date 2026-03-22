@@ -35,9 +35,9 @@ faq:
   - question: "What is vaseline and what are its uses for pregnant goats?"
     answer: "Vaseline, or petroleum jelly, is a thick, waxy substance made from refined crude oil. It is typically used for moisturizing skin and protecting it from dryness and irritation."
   - question: "What are the things you need to consider when using vaseline during goat births?"
-    answer: "There are several factors to consider when using vaseline during goat births. First and foremost, it is important to choose a high-quality product that is safe for both animals and humans."
+    answer: "Always wear long OB gloves and apply the Vaseline generously before reaching into the birth canal. Keep Vaseline away from the kid's nose and mouth during delivery, and monitor the doe for signs of infection in the days following."
   - question: "How to use vaseline during goat births?"
-    answer: "There is no one right way to use vaseline during goat births. Some people recommend applying a thin layer to the birthing canal, while others prefer to use a thicker coat of vaseline, especially if their does are known for having difficult or long births."
+    answer: "Put on a shoulder-length OB glove and coat it heavily with Vaseline from fingertips to elbow before reaching into the birth canal. Go in slowly, feel for the kid's position, and apply more Vaseline as needed during repositioning."
 ---
 
 Yes, you can use Vaseline as a lubricant during an assisted goat birth. It works in a pinch when you need to help reposition a kid in the birth canal.

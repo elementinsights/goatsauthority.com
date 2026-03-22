@@ -35,7 +35,7 @@ faq:
   - question: "What is baby aspirin and what are its benefits for goats?"
     answer: "Baby aspirin is a pain reliever and anti-inflammatory medication. It is also known as acetylsalicylic acid or ASA. Baby aspirin can be used to treat conditions such as arthritis, rheumatism, and muscular aches and pains."
   - question: "How much aspirin should you give to a baby goat, and how often should you give it to them?"
-    answer: "The proper dosage of aspirin for a baby goat is 3-5 grains per 100 pounds of body weight and should not exceed 10 grains per day. For example, if your baby goat weighs 10 pounds, you would give them 0.3-0.5 grains of aspirin."
+    answer: "The standard dose is 1 baby aspirin (81 mg) per 10 pounds of body weight, given every 12 hours. Crush the tablets and mix with applesauce or yogurt, and do not give aspirin for more than 3 days without consulting your vet."
   - question: "What are the side effects of giving baby aspirin to a goat, and what should you do if they experience any of them?"
     answer: "Aspirin frequently causes gastrointestinal problems, such as diarrhea and vomiting. Stop administering the aspirin and get in touch with a goat expert if you experience any of these negative effects."
 ---

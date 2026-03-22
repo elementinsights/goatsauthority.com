@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Where did Kiko goats originate?"
-    answer: "Kiko goats originated in New Zealand in the 1980s. Farmers wanted a breed of goat that was hardy and could thrive in a variety of different climates. To create the Kiko goat, farmers used three different breeds of goats, the Saanen, Toggenburg, and British Alpine."
+    answer: "Kiko goats originated in New Zealand in the 1980s. Garrick and Anne Batten developed the breed by crossing feral New Zealand goats with imported dairy breeds like Nubians, Toggenburgs, and Saanens. The goal was a hardy meat goat that could thrive on rough terrain with minimal human intervention."
   - question: "What are Kiko goats?"
     answer: "The meat goat breed known as the Kiko was created in New Zealand in the 1980s. The Maori term for flesh is where the name Kiko originates."
   - question: "How the Kiko goat became popular?"

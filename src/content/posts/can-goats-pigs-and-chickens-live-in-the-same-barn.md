@@ -33,11 +33,11 @@ faq:
   - question: "Can goats pigs and chickens live in the same barn?"
     answer: "Goats, pigs, and chickens can all live in the same barn as long as there is enough room for each animal to have its own space. The best way to achieve this is to build separate pens or sections within the barn for each type of animal."
   - question: "What do you need to consider before adding different types of animals to your barn?"
-    answer: "There are a few things you need to keep in mind before adding animals to your barn. To begin with, you must confirm that the animal is compatible with the other pets you already own."
+    answer: "The biggest concern is feed contamination. Goats need copper in their minerals, but copper is toxic to pigs. Chicken feed often contains monensin, which is fatal to goats. You must set up separate feeding stations for each species."
   - question: "Are there any risks to keeping pigs, and chickens in the same barn?"
     answer: "There are a few risks to consider before keeping pigs and chickens together in the same barn. First, there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals."
   - question: "How to manage the different types of animals in your barn?"
-    answer: "There are many different types of animals that you might find on a farm. Cattle, pigs, chickens, and horses are just a few of the most common. Each type of animal has its own unique needs in terms of food, shelter, and care."
+    answer: "Give each species its own zone and stick to a consistent daily routine. Feed at the same time each day with gates closed. Clean each section regularly and watch for illness spreading between groups. Install sturdy dividers if pigs start bullying goats."
 ---
 Can goats, pigs, and chickens share a barn? They can, but it takes planning. The short answer is that shared open space works better than shared housing, and separate feeding areas are not optional.
 

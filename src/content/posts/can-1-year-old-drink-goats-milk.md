@@ -11,7 +11,7 @@ imageAlt: "Can 1 Year Old Drink Goats Milk?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat's milk is not always the best option for a young child, especially one who's just turned 1. Despite its reputation for being a more wholesome substitute for cow's milk, it's high in chloride, sodium, and potassium, which can put a strain on a 1-year-old's delicate kidneys."
+  text: "Yes, goat milk is generally considered safe for children over 12 months old. However, it should never replace breast milk or formula for infants under one year because it lacks adequate folic acid and vitamin B12."
 toc:
   - label: "Can 1-year old drink goat's milk?"
     href: "#can-1-year-old-drink-goats-milk"
@@ -47,13 +47,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "How much goat milk should a 1 year old drink?"
-    answer: "For a little one who's just turned a year old, a modest helping of goat milk should do. Gradually increase the quantity as their taste buds get used to the new flavor and consistency."
+    answer: "Start with a few ounces per day and gradually increase to around 16-24 ounces daily. Don't exceed 24 ounces since too much milk can crowd out solid foods that provide essential nutrients like iron."
   - question: "Is goat milk safe for toddlers?"
-    answer: "Once a toddler has crossed the age of one, goat milk can be a safe and nutritious option for them. However, before that, their immature digestive system may find it challenging to break down the unique protein structures found in goat milk, leading to digestive complications."
+    answer: "Yes, pasteurized goat milk is safe for children over 12 months old. Before that age, stick to breast milk or approved infant formula."
   - question: "What milk is best for babies 1 year old?"
-    answer: "For a one-year-old, whole cow's milk is the most appropriate as it supplies all the essential nutrients required for growth and development. In case your child has a lactose intolerance, goat milk can be a suitable substitute."
+    answer: "Whole cow's milk is the standard recommendation for most one-year-olds. Goat milk is a good alternative for kids who have trouble digesting cow milk."
   - question: "Is goat or cow milk better for toddlers?"
-    answer: "Goat milk has a distinct protein composition and is easier for some toddlers to digest, while cow milk is a rich source of calcium and vitamins. It all boils down to what works best for your little one."
+    answer: "It depends on the individual child. Goat milk is easier for some toddlers to digest due to its smaller fat globules and different protein structure, while cow milk tends to have more folic acid and vitamin B12."
 ---
 
 Parents of toddlers are always looking for the best nutrition for their kids, and goat milk keeps coming up as an option. If your child just turned one, you're probably wondering whether goat milk is safe and worth trying.

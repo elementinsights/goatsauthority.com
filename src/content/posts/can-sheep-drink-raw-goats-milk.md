@@ -39,7 +39,7 @@ faq:
   - question: "What is raw goat's milk and what are the benefits for sheep?"
     answer: "Raw goat's milk is milk that has not been pasteurized or processed in any other way, straight from the goat."
   - question: "Are there any risks associated with feeding raw goat's milk to sheep?"
-    answer: "There is currently some debate surrounding the use of raw goat's milk as a feed supplement for sheep."
+    answer: "The main risk is overfeeding, which causes scours in bottle lambs. Feed small amounts at each session and watch for loose stools. Proper milk storage and hygiene are also important to prevent bacterial contamination."
   - question: "How do you go about getting raw goat's milk for your sheep?"
     answer: "There are a few steps involved in getting raw goat's milk for your sheep. First, you'll need to identify local farms or businesses that produce and sell goat's milk."
 ---

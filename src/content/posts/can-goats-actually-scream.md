@@ -33,11 +33,11 @@ faq:
   - question: "Can goats actually scream?"
     answer: "Goats can scream. In fact, they're one of the few animals that can produce a high-pitched, loud noise that sounds very similar to a human scream. Goats also make other vocalizations, such as bleats, grunts, and hisses. But their screams are the most notable and disturbing."
   - question: "What are the reasons goats might scream?"
-    answer: "If you've ever heard a goat scream, you know it's an unsettling sound. But what makes goats scream? It turns out there are a few reasons why these animals might let out a blood-curdling shriek."
+    answer: "Does in heat are the loudest screamers and can keep it up for hours. Bucks during rut make bizarre blubbering noises. Kids bleat when separated from their mothers, and goats also scream when hungry, bored, or wanting attention."
   - question: "How do you know if your goat is screaming?"
-    answer: "If you've ever heard a goat screaming, you know it's a jarring and unnerving sound. But how can you tell if your goat is actually screaming, as opposed to making some other noise?"
+    answer: "A normal goat scream is loud but the goat looks fine otherwise. A distress scream is more frantic and continuous, and the goat will show other signs like pacing, lying down repeatedly, grinding teeth, or separating from the herd."
   - question: "What should you do if your goat is screaming?"
-    answer: "If you hear your goat screaming, it's important to take action immediately. There are several possible causes of a goat's screams, including pain, fear, and hunger."
+    answer: "First check the basics: food, water, and whether a predator is nearby. If your goat is screaming and showing signs of pain like bloat, limping, or straining, call your vet since conditions like urinary calculi or difficult labor need fast attention."
 ---
 
 Yes, goats can absolutely scream, and some of them sound disturbingly human when they do it. If you've never heard a goat let loose at full volume, you're in for a surprise the first time it happens.

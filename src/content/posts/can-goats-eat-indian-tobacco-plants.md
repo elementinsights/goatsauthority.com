@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Indian Tobacco Plants?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat Indian tobacco plants. In fact, the plant is actually quite nutritious for them."
+  text: "No, goats should never eat Indian tobacco plants. The plant contains lobeline, a toxic alkaloid that can cause vomiting, trembling, respiratory failure, and death."
 toc:
   - label: "Can goats eat Indian tobacco plants?"
     href: "#can-goats-eat-indian-tobacco-plants"

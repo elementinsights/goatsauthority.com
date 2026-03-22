@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Calf Starter Pellets?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat calf starter pellets because they are a source of nutrients that goats need, such as protein, fiber, and fat. They are also a source of essential vitamins and minerals, such as vitamin A, vitamin D, calcium, and phosphorus."
+  text: "Calf starter pellets are not safe for goats. Many contain monensin (Rumensin), an ionophore that is lethal to goats even in small doses. The mineral ratios are also wrong for goats. Always use goat-specific feed."
 toc:
   - label: "Can goats eat calf starter pellets?"
     href: "#can-goats-eat-calf-starter-pellets"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat calf starter pellets?"
-    answer: "Goats can eat calf starter pellets because they are a source of nutrients that goats need, such as protein, fiber, and fat. They are also a source of essential vitamins and minerals, such as vitamin A, vitamin D, calcium, and phosphorus."
+    answer: "Calf starter pellets are not ideal for goats. The biggest danger is monensin, a common additive that is lethal to goats. Even monensin-free calf starter has the wrong mineral ratios for goats."
   - question: "Can all goats eat calf starter pellets?"
-    answer: "Calf starter pellets are a type of livestock feed that is designed for calves. Despite that, they can also be fed to other animals, such as goats."
+    answer: "No breed of goat should eat calf starter pellets regularly. The copper levels and calcium-to-phosphorus ratios are formulated for cattle, not goats. Always use goat-specific feed."
   - question: "What are calf starter pellets and what do they contain?"
-    answer: "Calf starter pellets are a type of feed designed specifically for calves. They are usually made from a combination of grains, proteins, vitamins, and minerals, and they can be fed to calves from around six weeks of age."
+    answer: "Calf starter pellets are concentrated feed made from grains, soybean meal, and added vitamins and minerals formulated for young cattle. Many brands contain monensin, an ionophore that is fatal to goats."
   - question: "How can goats benefit from eating calf starter pellets?"
-    answer: "Goats benefit from eating calf starter pellets in a number of ways. First, the pellets provide a concentrated source of nutrients that can help goats to grow and develop properly."
+    answer: "There are no real benefits. In a true emergency with confirmed monensin-free product, a small amount mixed with hay can get a goat through a day or two. But switch to goat-specific feed as soon as possible."
 ---
 Calf starter pellets are formulated for cattle, not goats, and feeding them to your herd is not a great idea. The mineral ratios are wrong for goats, and some calf feeds contain additives that can kill a goat outright.
 

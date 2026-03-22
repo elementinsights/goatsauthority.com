@@ -11,7 +11,7 @@ imageAlt: "Can Goats Find Truffles?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "In addition to their sense of smell, goats also have a special ability to find truffles. They have a third eyelid, which is called a nictitating membrane."
+  text: "There is very little evidence that goats can reliably find truffles. While goats have a strong sense of smell, no research or commercial truffle operations use goats. Dogs and pigs are the proven choices."
 toc:
   - label: "Can goats find truffles?"
     href: "#can-goats-find-truffles"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats find truffles?"
-    answer: "Goats can find truffles. In fact, they are one of the few animals that can find these prized fungi. Goats have a keen sense of smell and can sniff out truffles from underground. Once they find a truffle, they will use their hooves to dig it up."
+    answer: "In theory, goats could detect truffles underground with their strong sense of smell, but there is no evidence they can do this reliably. No commercial truffle operations use goats. Dogs and pigs are the proven truffle hunters."
   - question: "How do goats find truffles?"
     answer: "When it comes to truffle hunting, goats have a keen sense of smell. They are able to sniff out these prized fungi even when they are buried several inches underground."
   - question: "Can goats eat truffles?"
-    answer: "Goats can eat truffles. They are one of the few animals that can safely consume these prized fungi. Truffles contain a variety of nutrients that are beneficial to goats, including protein, fat, and fiber."
+    answer: "Yes, truffles are safe for goats. Nothing toxic in them. The issue is cost, since black truffles sell for $300 to $800 per pound, making it quite the expensive snack if your goat eats one."
   - question: "How much money can you make from finding truffles?"
-    answer: "While the price of truffles can vary depending on the market, a single truffle can typically fetch anywhere from $50 to $100. Therefore, if you are able to find just one truffle per week, you could potentially earn up to $5,200 per year."
+    answer: "Truffle prices depend on species and market. European black truffles bring $300 to $800 per pound, while Oregon black truffles run $50 to $150 per pound. Finding them consistently requires a trained dog or pig."
 ---
 
 This is one of those fun questions that pops up more than you would expect. The honest answer is there is very little evidence that goats can reliably find truffles, but the idea is not completely far-fetched.

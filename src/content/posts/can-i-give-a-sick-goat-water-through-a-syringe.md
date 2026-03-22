@@ -28,12 +28,12 @@ toc:
 faq:
   - question: "Can I give a sick goat water through a syringe?"
     answer: "You can give a sick goat water through a syringe. It is important to make sure that the water is at room temperature and that the syringe is clean before giving it to your goat, as this will help to prevent further illness."
-  - question: "What is hydration therapy and why is it important for goats?"
-    answer: "Hydration therapy, also known as hydrotherapy, is the use of water to treat certain medical conditions. This can include everything from helping to reduce swelling and inflammation to easing tension in the muscles."
+  - question: "How do you recognize dehydration in goats?"
+    answer: "Pull up a small fold of skin on the goat's neck and let go. If it stays tented for two or more seconds, the goat needs fluids right away. Other signs include sunken eyes, dry or sticky gums, dark-colored urine, and lethargy."
   - question: "How to give goat water through a syringe?"
-    answer: "There are a few different ways to give your goat water through a syringe. Some folks recommend using a small funnel and slowly dripping the water onto their tongue, while others suggest pouring the water directly into their mouth."
-  - question: "Are there any alternative options to hydration therapy?"
-    answer: "While hydration therapy is often recommended as a way to boost hydration levels and help the body recover from various health conditions, there are other options that may be worth considering."
+    answer: "Use a 60 mL catheter-tip syringe for adults. Aim the syringe toward the side of the mouth, never straight down the throat. Squirt small amounts and let the goat swallow at its own pace between doses."
+  - question: "Are there any alternative options to syringe feeding water?"
+    answer: "Electrolyte solutions work better than plain water for goats with diarrhea or fever. For severely dehydrated goats too weak to swallow, subcutaneous fluids (injected under the skin) are the next step, and your vet can teach you how."
 ---
 
 Yes, syringe-feeding water to a sick goat is a common and often necessary practice. When a goat stops drinking on its own due to illness, dehydration can set in fast and turn a treatable problem into a life-threatening one.

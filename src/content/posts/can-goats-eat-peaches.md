@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Peaches? (Guide to Safe Fruit for Goats)"
-description: "Have you ever wondered about the dietary habits of goats? As a goat owner, I often find myself thinking about what foods are safe for my furry friends. One question that pops up quite frequently is whether or not peaches are on the menu."
+description: "Have you ever wondered about the dietary habits of goats? As a goat owner, I often find myself thinking about what foods are safe for my goats. One question that pops up quite frequently is whether or not peaches are on the menu."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Peaches?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "While this sounds scary, don’t worry too much. Goats are smart and usually avoid harmful food items on their own."
+  text: "Yes, peach flesh and skin are safe for goats and most love them. Always remove the pit, which contains amygdalin that breaks down into cyanide, and keep goats away from wilted peach leaves."
 toc:
   - label: "Can Goats Eat Peaches?"
     href: "#can-goats-eat-peaches"
@@ -43,7 +43,7 @@ faq:
   - question: "Are Peaches Safe for Goats Raw?"
     answer: "Peaches are indeed safe for goats to eat. They enjoy the sweet taste and it’s a healthy treat. However, stick to small amounts here. Goats should not be fed too many peaches at once."
   - question: "Can Goats Eat Peach Leaves?"
-    answer: "Yes, goats can eat peach leaves. But there’s a catch you need to know about. Peach leaves contain cyanide compounds that are harmful when fresh."
+    answer: "Fresh peach leaves on the tree are generally fine if a goat grabs a few. The danger comes from wilted peach leaves, which release prussic acid (hydrogen cyanide) and can be lethal."
   - question: "Can Goats Eat Peach Peels?"
     answer: "Yes, goats can eat peach peels. Peach peels are not harmful to them at all. In fact, they contain a good amount of fiber which is beneficial for their digestive system."
 ---

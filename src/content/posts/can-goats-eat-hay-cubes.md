@@ -29,11 +29,11 @@ faq:
   - question: "Can goats eat hay cubes?"
     answer: "Goats can consume hay cubes without any problems. In fact, hay cubes can be a good alternative to traditional hay for goats. They are easy to store and transport and they last longer than traditional hay. Goats also find hay cubes to be more palatable than traditional hay."
   - question: "Can all kinds of goats eat hay cubes?"
-    answer: "While some goats could simply love the taste of loose hay, others can find them to be too difficult to chew. In the end, each goat must make their own decision regarding whether or not they enjoy eating hay cubes."
+    answer: "Yes, goats of all ages and breeds can eat hay cubes. Soak the cubes in water for 10-15 minutes before feeding to prevent choking, especially for goats that eat fast."
   - question: "What are hay cubes and what are they made of?"
-    answer: "Hay cubes are a type of feed designed specifically for horses. They are made from compressed hay, which has been ground up and formed into small, easy-to-chew cubes."
+    answer: "Hay cubes are dried hay that has been chopped and compressed into rectangular blocks, usually about 2 inches square. Alfalfa cubes are most common, though timothy and orchard grass cubes are also available."
   - question: "What is the nutritional value of hay cubes?"
-    answer: "Hay cubes are a popular feed for horses and other livestock. They are made by compressing hay into small, dense pellets. This process helps to preserve the nutritional content of the hay, making it an ideal option for those who want to ensure their animals are getting the nutrients they need."
+    answer: "Hay cubes preserve the same nutritional content as the original hay. Alfalfa cubes run around 15-22% protein, while timothy cubes come in at 8-11% protein. They also resist mold better than loose hay."
 ---
 
 Hay cubes are one of those feeds that goat owners either swear by or have never tried. If you've been curious about whether they're worth adding to your feeding routine, the short answer is yes.

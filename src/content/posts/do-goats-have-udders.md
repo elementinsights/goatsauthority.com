@@ -39,9 +39,9 @@ faq:
   - question: "What do udders look like?"
     answer: "Udders typically have two teats, which can be either long or short. Each teat is surrounded by an area of thickened skin called the bag, which helps to hold milk and keep the teat protected."
   - question: "Do all females have udders?"
-    answer: "Not all females have udders. Udders are a secondary sex characteristic in mammals, meaning they only develop in animals that are sexually mature. In order for a female to develop udders, she must first reach sexual maturity and produce the hormone estrogen."
+    answer: "All female goats (does) have udders, though the udder develops fully during pregnancy and fills with colostrum before kidding. Young doelings have small, undeveloped udders that grow as the doe matures and goes through her first pregnancy."
   - question: "What breed of goat has more than two udders?"
-    answer: "There are many goat breeds that have more than two udders. These include the Alpine, LaMancha, Nubian, Oberhasli, Toggenburg, and Saanen."
+    answer: "No specific breed consistently has more than two teats. However, supernumerary (extra) teats are a fairly common fault that can show up in any breed. Extra teats can interfere with milking and are often removed surgically when the kid is young."
 ---
 
 Yes, female goats have udders. It's one of those questions that sounds silly until you actually stop and think about goat anatomy, and then it gets more interesting than you'd expect.

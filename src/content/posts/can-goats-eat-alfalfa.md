@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Alfalfa Hay?"
 readTime: "11 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can indeed eat alfalfa hay. It's a type of feed that is high in protein, vitamins and minerals."
+  text: "Yes, goats can eat alfalfa hay. It is the highest-protein hay available (15-22% crude protein) and is ideal for pregnant does, nursing does, and growing kids, but bucks and wethers need less due to the high calcium content."
 toc:
   - label: "Can Goats Eat Alfalfa?"
     href: "#can-goats-eat-alfalfa"
@@ -27,13 +27,13 @@ toc:
     href: "#mixing-alfalfa-with-grass-hay"
 faq:
   - question: "Can Goats Eat Alfalfa, and Is It the Best Feed for Them?"
-    answer: "Goats can indeed eat alfalfa hay. It's a type of feed that is high in protein, vitamins and minerals. This makes it good for their health. However, it shouldn't be the only thing they eat."
+    answer: "Yes, alfalfa is one of the most nutrient-dense hays available at 15-22% crude protein. It is the go-to for pregnant does, nursing does, and growing kids, but bucks and wethers should only get it as about 25-30% of their total hay."
   - question: "How Much Alfalfa to Feed a Goat"
-    answer: "Feeding a goat the right amount of alfalfa hay is crucial. Alfalfa, rich in protein and calcium, provides essential nutrients for your goats. However, stick to small amounts."
+    answer: "Pregnant and lactating does can eat alfalfa as their primary hay. For bucks and wethers, limit alfalfa to about 25-30% of total hay intake and fill the rest with grass hay like timothy or orchard grass."
   - question: "Is Alfalfa Hay Good for Male Goats?"
-    answer: "Alfalfa hay is a popular choice for goats. It's packed with protein, fiber, and vitamins that are good for their health. But what about male goats?"
+    answer: "Male goats should eat alfalfa only in limited amounts. The calcium-to-phosphorus ratio in alfalfa runs about 5:1, which is too high for males and increases the risk of urinary calculi, especially in wethers."
   - question: "Does Feeding Alfalfa Hay Cause Urinary Calculi (Kidney Stones) in Goats?"
-    answer: "Feeding goats alfalfa hay can lead to urinary calculi, commonly known as kidney stones. This condition is more common in male goats than females. The high calcium content of alfalfa contributes to this problem."
+    answer: "Yes, alfalfa's high calcium content creates a lopsided calcium-to-phosphorus ratio that can lead to urinary stones in male goats. Wethers are at highest risk because castration reduces urethral diameter. Adding ammonium chloride to the mineral mix helps prevent stones."
 ---
 
 Alfalfa is the highest-protein hay you can buy, and goats love the stuff. But it's not the right choice for every goat in every situation, and getting the balance wrong can cause real problems.

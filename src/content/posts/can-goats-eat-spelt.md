@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Spelt?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "In addition to being nutritious, spelt is also a good source of energy for goats. This is because it contains complex carbohydrates that are slowly broken down and absorbed by the body."
+  text: "Goats can eat spelt safely. It is an ancient grain higher in protein and fiber than modern wheat, and works best as part of a balanced grain mix at about 25% of the ration."
 toc:
   - label: "Can goats eat spelt?"
     href: "#can-goats-eat-spelt"
@@ -31,9 +31,9 @@ faq:
   - question: "What are the nutritional benefits of spelt for goats?"
     answer: "Spelt is a type of wheat that is high in protein and fiber. It is also a good source of vitamins and minerals, including iron and B vitamins. For goats, spelt can be a valuable source of nutrition."
   - question: "How do you feed spelt to goats, and in what quantities should you give it to them?"
-    answer: "Spelt is an ancient grain that is gaining popularity as a healthy alternative to wheat. Goats are known for their love of vegetation, and they will happily eat spelt grain if it is offered to them."
+    answer: "Start with a tablespoon or two per goat and gradually increase to about a quarter cup per day for adults. Mix spelt into a balanced grain blend at about 25% alongside oats and barley."
   - question: "Are there any potential side effects of feeding spelt to goats?"
-    answer: "Spelt is a type of grain that is sometimes fed to goats. While it is generally considered to be safe, there are some potential side effects that should be considered. For example, spelt contains a compound called lignin, which can be difficult for goats to digest."
+    answer: "Too much spelt, like any grain, can cause ruminal acidosis from excess carbohydrates. Spelt also contains lignin, which is harder to digest in large quantities. Feed in moderation and always err on the side of less grain."
 ---
 Spelt is an ancient grain that has been around for thousands of years, and it is perfectly safe for goats. If you are looking for a grain option to add to your herd's diet, spelt is a solid choice.
 

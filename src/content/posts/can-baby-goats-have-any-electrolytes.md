@@ -11,7 +11,7 @@ imageAlt: "Can Baby Goats Have Any Electrolytes?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, it's important to note that not all baby goats will need electrolytes. For example, if a baby goat is nursed by its mother, it will likely get all the electrolytes it needs from her milk."
+  text: "Yes, baby goats can have electrolytes, and sometimes they desperately need them. Give electrolytes between milk feedings, not mixed into the milk, to avoid disrupting digestion."
 toc:
   - label: "Can baby goats have any electrolytes?"
     href: "#can-baby-goats-have-any-electrolytes"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can baby goats have any electrolytes?"
-    answer: "Baby goats can have electrolytes. It's because they are essential for their survival. Without electrolytes, baby goats can become dehydrated and die. Electrolytes also help baby goats to absorb nutrients from their food and prevent them from becoming overheated."
+    answer: "Yes, baby goats can have electrolytes, and they can be a lifesaver for kids with scours or dehydration. Give electrolytes between milk feedings, not mixed into the milk, as mixing disrupts curd formation in the stomach."
   - question: "What are electrolytes and why are they important for baby goats?"
     answer: "Electrolytes are minerals that are dissolved in body fluids, including blood, urine, and sweat. These minerals are important for many body processes, including regulating blood pressure, muscle contraction, and fluid balance."
   - question: "How can you ensure that your baby goats get enough electrolytes?"
-    answer: "When it comes to baby goats, electrolytes are essential. This is because they help to promote proper hydration, which is key for a young animal's health and development. There are a few different ways that you can ensure your baby goats get enough electrolytes."
+    answer: "Use a commercial goat electrolyte product like Sav-A-Kid or Bounce Back mixed with warm water. In a pinch, make a homemade solution with one quart warm water, two tablespoons sugar, half a teaspoon salt, and a quarter teaspoon baking soda."
   - question: "How much electrolyte solution should baby goats drink per day?"
-    answer: "The amount of electrolyte solution that baby goats should drink per day will depend on a few factors, including their age, weight, and activity level."
+    answer: "A good rule of thumb is about 4 ounces of electrolyte solution per 10 pounds of body weight per day, spread across several small feedings. Toss any unused solution after 12 hours since bacteria multiply fast in sugar water."
 ---
 
 Yes, baby goats can have electrolytes, and sometimes they desperately need them. A kid nursing off its mama usually gets everything it needs from her milk, but bottle babies or kids with scours can lose fluids fast.

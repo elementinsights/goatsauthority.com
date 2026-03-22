@@ -11,7 +11,7 @@ imageAlt: "Can I Own Goats In Medford, Oregon?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can own goats in Medford, Oregon as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon."
+  text: "Whether you can keep goats in Medford depends on where your property sits within the city. Check the City of Medford municipal code for your specific zoning designation to find out what livestock rules apply."
 toc:
   - label: "Can I own goats in Medford, Oregon?"
     href: "#can-i-own-goats-in-medford-oregon"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I own goats in Medford, Oregon?"
-    answer: "You can own goats in Medford, Oregon as long as you follow the city's animal control regulations. In fact, Medford is considered one of the most goat-friendly cities in Oregon. They are also allowed in most zoned agricultural and rural residential areas."
+    answer: "Medford allows livestock including goats in certain zoning designations. Rural residential and agricultural zones within Jackson County's surrounding areas have fewer restrictions than standard residential lots inside city limits. Contact the Medford Planning Department to check your zoning."
   - question: "What are the requirements for owning goats in Medford, Oregon?"
-    answer: "In Medford, Oregon, there are a number of requirements that must be met in order to own goats. To begin, all goat owners must obtain a valid permit from the city, which will authorize them to keep the animals on their property."
+    answer: "Check your zoning classification, minimum lot size requirements, how many animals you're allowed, and setback distances from property lines and neighboring structures. These vary depending on whether you're inside city limits or in unincorporated Jackson County."
   - question: "What do you need to consider before getting goats in Medford, Oregon?"
     answer: "Before getting any type of livestock, there are a few important things that you need to consider. In particular, when it comes to goats, you will need to think about things like where you will be keeping them and what their access to food and water will be like."
   - question: "How much work is involved in keeping goats in Medford, Oregon?"

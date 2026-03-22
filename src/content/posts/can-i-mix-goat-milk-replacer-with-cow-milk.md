@@ -11,7 +11,7 @@ imageAlt: "Can I Mix Goat Milk Replacer With Cow Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat milk replacer is a type of nutritional supplement that is made from a combination of various ingredients, including protein, vitamins, and minerals. This unique blend provides all of the essential nutrients that young goats need to grow and thrive."
+  text: "Yes, you can mix goat milk replacer with whole cow milk. It's a common practice for stretching expensive replacer or transitioning bottle kids to a cheaper milk source. Just transition gradually over 7 to 10 days."
 toc:
   - label: "Can I mix goat milk replacer with cow milk?"
     href: "#can-i-mix-goat-milk-replacer-with-cow-milk"
@@ -35,7 +35,7 @@ faq:
   - question: "How to mix goat milk replacer with cow milk?"
     answer: "There are a few different methods that can be used to mix goat milk replacers with cow milk. Some people prefer to measure out the desired ratio of the replacer and milk and then blend them together using a blender or food processor."
   - question: "Which type of milk is better for baby goats - goat milk or cow milk?"
-    answer: "There is no clear consensus when it comes to choosing between goat milk and cow milk for baby goats. Some argue that goat milk is a better choice, as it is more nutrient-rich and easier for young goats to digest."
+    answer: "Fresh goat milk straight from the doe is always the best option because it has the right fat, protein, and antibody profile. When fresh goat milk isn't available, whole cow milk is a perfectly acceptable substitute that thousands of goat farmers have used for generations."
 ---
 
 Yes, you can mix goat milk replacer with cow milk, and plenty of goat farmers do it regularly. It's a common practice for stretching expensive replacer or for transitioning bottle kids to a cheaper milk source.

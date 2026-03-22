@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you drink goat milk while pregnant?"
-    answer: "You can drink goat milk while pregnant. Goat milk can be a great source of calcium and other essential nutrients that are important during pregnancy. It is also low in fat, cholesterol, and lactose levels, making it easier to digest than cow’s milk."
+    answer: "Yes, pasteurized goat milk is safe to drink during pregnancy. It provides calcium, protein, and vitamins A and D, and its smaller fat particles and softer curd make it gentler on a sensitive stomach than cow milk. Always choose pasteurized over raw during pregnancy."
   - question: "What is goat milk and where does it come from?"
     answer: "Goat milk is produced by female goats and can be found in many parts of the world. It has a higher fat content than cow’s milk but generally contains less lactose. This makes it easier to digest for some people who have difficulty with traditional dairy products."
   - question: "What are the benefits of drinking goat milk while pregnant?"

@@ -37,11 +37,11 @@ faq:
   - question: "Can goats digest anything?"
     answer: "Goats cannot digest everything. Just like humans, there are certain things that goats' stomachs can't handle. Goats also have a four-chamber stomach (rumen, reticulum, omasum, abomasum), which means that they are able to digest some things that other animals can't."
   - question: "What are the things that goats can't digest?"
-    answer: "Goats are browsers, not grazers like cows. They have a four-chamber stomach that is designed to digest tough plant material."
+    answer: "Goats cannot digest metal, plastic, rubber, or any processed materials. They also cannot handle meat, dairy, or large amounts of grain. Too much grain causes rumen acidosis, and processed textiles or baling twine can create fatal intestinal blockages."
   - question: "What are the risks of feeding goats things they can't digest?"
     answer: "Goats are susceptible to bloating if they eat too much grain or other high-carbohydrate foods. For this reason, it's crucial to feed goats a diet that is high in fiber and low in sugar."
   - question: "How to prevent digestive problems in goats?"
-    answer: "You can take a few steps to avoid stomach issues in goats."
+    answer: "Make any feed changes over 7 to 10 days by mixing new feed in gradually. Keep hay as the foundation of the diet, pick up trash from your pasture, and limit grain to small supplemental amounts."
 ---
 
 Goats have a reputation for eating everything in sight, from tin cans to laundry off the clothesline. The truth is a lot more nuanced than that.

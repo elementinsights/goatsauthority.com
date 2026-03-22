@@ -37,11 +37,11 @@ faq:
   - question: "Can goats eat dandelions?"
     answer: "Goats can eat dandelions because they are high in nutrients and vitamins such as vitamins A, C, and K, which are essential to a goat's diet. They also have a high water content, which is important for a goat's health."
   - question: "Can goats eat dandelion flowers?"
-    answer: "Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them. When it comes to dandelion flowers, goats can certainly eat them, but there are some things to keep in mind."
+    answer: "Yes, dandelion flowers are safe and nutritious for goats. Goats tend to eat the leaves first, then work on the flowers and stems. The entire plant is edible."
   - question: "Can goats eat dandelion leaves?"
-    answer: "Goats can eat dandelion leaves. In fact, dandelion leaves are a great source of vitamins and minerals for goats. Goats need a variety of different vitamins and minerals to stay healthy, and dandelion leaves can provide many of these nutrients."
+    answer: "Yes, dandelion leaves are rich in calcium, vitamins A and C, and iron. They are especially valuable for lactating does who need extra minerals for milk production. The deep taproot pulls minerals from the subsoil."
   - question: "Can goats eat dandelion seeds?"
-    answer: "Goats can eat dandelion seeds. The seeds of the dandelion are actually a type of fruit called achene. Achene fruits are dry fruits that have a single seed in them. The dandelion seed is attached to the flower head by a long thin stalk called a beak."
+    answer: "Yes, dandelion seeds are perfectly safe for goats. When a dandelion goes to seed, the whole plant remains edible. Goats can eat the flowers, leaves, stems, seeds, and even the roots."
 ---
 
 Dandelions are one of the best things your goats can eat. The entire plant is safe, from the yellow flower down to the taproot, and most goats will graze on them happily.

@@ -11,7 +11,7 @@ imageAlt: "Can a Pygmy Goat Take Care of Triplets?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A pygmy goat can take care of triplets because they have high milk production. They can produce up to two quarts of milk per day."
+  text: "A pygmy doe can nurse triplets, but it's a stretch for most of them. With small udders producing one to two quarts per day and only two teats, at least one kid usually needs supplemental bottle feeding."
 toc:
   - label: "Can a pygmy goat take care of triplets?"
     href: "#can-a-pygmy-goat-take-care-of-triplets"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a pygmy goat take care of triplets?"
-    answer: "A pygmy goat can take care of triplets because they have high milk production. They can produce up to two quarts of milk per day. This is enough to feed three healthy baby goats. They also have a very strong maternal instinct and are very protective of their young."
+    answer: "Some pygmy does handle triplets fine, but many don't produce enough milk for all three. Watch the kids' weights daily and be ready to supplement the weakest one with a bottle if it's not gaining properly."
   - question: "What is pygmy goat nursing all about anyways?"
-    answer: "Pygmy goat nursing is all about providing milk for baby pygmy goats. Pygmy goats are not able to produce enough milk on their own to support their young, so they must nurse from another source."
+    answer: "Pygmy goats have smaller udders than standard dairy breeds, so two teats and three kids means at least one baby is always waiting for a turn. The strongest kids tend to push the smallest one off the teat."
   - question: "How do I go about getting a pygmy goat to nurse triplets?"
-    answer: "If you have a female pygmy goat that has given birth to triplets, you may be wondering how to go about getting her to nurse them."
+    answer: "Make sure all three kids nurse colostrum within the first hour. If one keeps getting pushed aside, hold the doe steady and help the weakest kid latch on two or three times a day using a stanchion."
   - question: "How to take care of a pygmy goat while they are nursing triplets?"
-    answer: "When you have a pygmy goat that is nursing triplets, it's important to make sure that she has everything she needs in order to be successful."
+    answer: "Feed her high-quality alfalfa hay and about half a cup of grain twice a day. Fresh water must be available at all times since dehydration will tank her milk supply. Black oil sunflower seeds add healthy fats that support richer milk."
 ---
 
 A pygmy doe can nurse triplets, but it's a stretch for most of them. With small udders producing one to two quarts per day, three hungry mouths competing for milk means somebody is probably going to fall behind.

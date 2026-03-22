@@ -29,11 +29,11 @@ faq:
   - question: "Can goats eat edamame shells?"
     answer: "Goats can eat edamame shells. Edamame shells are a good source of protein and fiber, and they can help goats maintain a healthy digestive system. They also contain essential vitamins and minerals, such as iron and calcium, which are important for goat health."
   - question: "Can all kinds of goats eat edamame shells?"
-    answer: "Goats are members of the family Bovidae and are closely related to cows. There are many different breeds of goats, each of which has its own unique dietary requirements. But, all goats are browsers, meaning that they prefer to eat leaves, stems, and other soft plant materials."
+    answer: "Yes, all breeds and ages of goats can eat edamame shells safely. For young goats, chop the shells into smaller bits since their digestive systems are still developing."
   - question: "What are edamame shells and what do they look like?"
-    answer: "Edamame is a type of soybean that is popular in Asian cuisine. The beans are often cooked and served in their pods, which are typically green or black. Once the beans are cooked, the pods can be removed and discarded."
+    answer: "Edamame shells are the green pods of young soybeans harvested before they fully mature. They are high in fiber, and the beans inside contain protein, iron, calcium, and vitamins A and C."
   - question: "What are the benefits of feeding edamame to goats?"
-    answer: "Edamame is a type of soybean that is popular in Asian cuisine. The beans are typically cooked and served in their pods, and they can be enjoyed as a healthy snack or as part of a meal."
+    answer: "Edamame pods are a good source of fiber that supports healthy rumen function. The beans inside provide protein, iron, calcium, and vitamins A and C, all of which contribute to a goat's nutrition."
 ---
 Edamame shells are safe for goats to eat. They're basically soybean pods, and goats handle them without any trouble as long as you follow a few simple guidelines.
 

@@ -33,11 +33,11 @@ faq:
   - question: "Can goats get worms from acorns?"
     answer: "Goats cannot get worms from acorns. Acorns are not a host for worm larvae and therefore cannot transmit worms to goats. Acorns also contain tannins, which are unpalatable to goats and other animals. Tannins have also been known to have anti-parasitic properties."
   - question: "What do goats eat, and why they might be interested in acorns?"
-    answer: "Goats are herbivores, which means that they primarily eat plants. In the wild, goats will browse a wide variety of vegetation, including leaves, flowers, stems, and bark."
+    answer: "Goats are browsers that prefer leaves, bark, and woody plants. Acorns are high in fat and carbohydrates, making them appealing to goats in the fall. Most goats will seek them out if oak trees are near their pasture."
   - question: "What are the benefits of feeding goats acorns?"
-    answer: "Goats can benefit greatly from eating acorns because they are a healthy food source. Acorns are rich in protein and fat, as we already stated."
+    answer: "In moderate amounts, acorns can be a decent seasonal supplement. The tannins have been studied for anti-parasitic properties and may help reduce worm egg counts. Just limit acorns to no more than about 25% of total intake."
   - question: "How many acorns should a goat eat per day?"
-    answer: "There is no set amount of acorns that a goat should eat per day. However, you should consult with a goat expert to make sure that your goat is getting enough to meet their nutritional needs."
+    answer: "Limit acorn consumption to a small portion of the daily diet. Green, unripe acorns have the highest tannin concentrations and are the most dangerous. Ripe brown acorns that have fallen naturally are much safer."
 ---
 This is a question I hear from newer goat owners every fall when acorns start dropping. The quick answer is that acorns themselves don't carry worms or parasite larvae.
 

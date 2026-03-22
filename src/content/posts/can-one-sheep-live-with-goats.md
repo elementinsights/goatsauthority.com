@@ -35,9 +35,9 @@ faq:
   - question: "Do goats and sheep need the same food?"
     answer: "The short answer to this question is no, goats and sheep require different types of food in their diets. Goats are generally more hardy and adaptive than sheep, so they can survive on a wider variety of feedstuffs."
   - question: "What are the benefits of keeping sheep and goats together?"
-    answer: "When it comes to keeping sheep and goats together, there are a number of benefits to consider. For one thing, by housing these two types of animals together, you are able to better manage their feeding and care needs."
+    answer: "Goats eat brushy stuff that sheep ignore, while sheep mow down the grass goats walk past, giving you better overall pasture management. They also provide safety in numbers, since a mixed herd is more alert to predators."
   - question: "Are there any risks associated with keeping sheep and goats together?"
-    answer: "While it may seem like an unusual pairing, there are actually several benefits to keeping sheep and goats together in the same herd."
+    answer: "The number one risk is copper toxicity. Goat minerals contain copper, which is extremely toxic to sheep over time. You must use sheep-safe (copper-free) minerals for the whole group and give goats copper boluses individually."
 ---
 
 Yes, a single sheep can live happily with goats. Both are herd animals, and a lone sheep will bond with goats rather than be alone.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Maple Leaves?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "The red maple leaf is harmful if it’s wilted or dried up. It contains a toxin that harms the goat’s blood cells."
+  text: "Yes, fresh green maple leaves are perfectly safe for goats. While wilted red maple leaves are toxic to horses, goats appear to be resistant to this toxin and most experts consider maple leaves safe for goats."
 toc:
   - label: "Can Goats Eat Maple Leaves?"
     href: "#can-goats-eat-maple-leaves"
@@ -29,7 +29,7 @@ faq:
   - question: "Can Goats Eat Maple Leaves Raw or Cooked?"
     answer: "Maple leaves are a common sight, especially in the fall. But can goats eat them? The answer is yes and no."
   - question: "What to Do if You Suspect That Your Goat Has Eaten a Poisonous Leaf?"
-    answer: "If you think your goat has eaten a poisonous leaf, don’t panic. First, try to identify the plant they’ve consumed. Maple leaves can be harmful for goats when wilted or dried as they contain high amounts of gallic acid."
+    answer: "Call your vet right away. Keep the goat hydrated and comfortable while you wait, and try to identify what the goat actually ate so the vet knows what they are dealing with. Maple leaves specifically are safe for goats."
 ---
 Fresh green maple leaves are perfectly safe for goats, and most of them love browsing on low-hanging maple branches. If you have maple trees in or near your pasture, your goats are going to go after them.
 

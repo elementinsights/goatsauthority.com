@@ -33,7 +33,7 @@ faq:
   - question: "How much goat milk, and how frequently, should I feed it to my dog?"
     answer: "Considering your dog's size, age, and health will determine how much goat milk to give them. You must begin cautiously and progressively raise the amount over time."
   - question: "What are the risks associated with giving my dog goat milk?"
-    answer: "As any pet owner knows, you need to make sure your furry friend is getting the right nutrition. For some dogs, that means supplementing their diet with goat milk. While goat milk can be a healthy addition to your dog's diet, there are also some risks to consider."
+    answer: "The most common issue is loose stool when introduced too quickly. Some dogs are sensitive to all dairy, and goat milk is calorie-dense, so it can cause weight gain if not accounted for in daily intake."
 ---
 
 Most dogs do just fine with daily goat milk, and a lot of them love the taste. If you milk goats and have dogs around the farm, you've probably already figured this out on your own.

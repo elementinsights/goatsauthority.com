@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked White Rice?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked white rice. In fact, they can eat most types of cooked rice, including brown and wild rice."
+  text: "Cooked white rice is safe for goats in small amounts, but it is mostly starch with very little nutritional value. Its best use is as a short-term stomach settler for goats with mild diarrhea."
 toc:
   - label: "Can goats eat cooked white rice?"
     href: "#can-goats-eat-cooked-white-rice"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat cooked white rice?"
-    answer: "Goats can eat cooked white rice. In fact, they can eat most types of cooked rice, including brown and wild rice. Cooked white rice also has some health benefits for goats, such as being a good source of energy and providing essential nutrients."
+    answer: "Yes, cooked white rice is safe in small amounts but offers very little nutritional value. It is mostly starch with little fiber, protein, or minerals. A handful mixed into grain is fine, but do not make it a regular part of their diet."
   - question: "Can a pregnant goat eat cooked white rice?"
-    answer: "While most goats will happily eat cooked rice, it's not recommended for pregnant does. The reason for this is that cooked rice breaks down more quickly in the goat's digestive system, and can cause an increase in blood sugar levels."
+    answer: "Pregnant does should avoid rice in significant amounts. White rice has a high glycemic index that spikes blood sugar quickly, which can increase the risk of ketosis during pregnancy."
   - question: "Can a baby goat eat cooked white rice?"
-    answer: "A baby goat's diet consists mostly of milk, either from its mother or from a bottle. However, as the goat matures, it will gradually start to eat more solid food."
+    answer: "Baby goats should focus on milk, hay, and age-appropriate feed. Their developing rumens need fiber, not starchy foods like rice. Skip rice for kids entirely."
   - question: "Can a lactating goat eat cooked white rice?"
-    answer: "it's generally safe for a lactating goat to eat cooked white rice. Rice is a good source of energy and essential nutrients, and it can help to increase milk production."
+    answer: "A small amount of cooked rice won't harm a lactating doe, but it does not provide the protein or minerals she needs for milk production. Alfalfa hay and quality goat feed are far better choices."
 ---
 Cooked white rice won't hurt your goats, but it's not doing them much good either. It's one of those foods that falls squarely in the "safe but pointless" category for ruminants.
 

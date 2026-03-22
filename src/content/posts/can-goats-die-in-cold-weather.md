@@ -35,9 +35,9 @@ faq:
   - question: "Can goats die in cold weather?"
     answer: "Goats can die in cold weather if they are not properly cared for. Cold weather can cause goats to become ill, and if they are not given the proper care, they can die. They can also die if they are left in cold weather without shelter."
   - question: "What is the coldest temperature that goats can survive in?"
-    answer: "Goats are incredibly resilient animals, and they can survive in a wide range of climates. However, they do have a lower tolerance for cold weather than some other farm animals."
+    answer: "Healthy adults with a full winter coat and dry shelter can handle temperatures down to 0 degrees Fahrenheit. The real danger is wet cold: a goat in freezing rain at 35 degrees is in more danger than a dry goat at 10 degrees."
   - question: "How do farmers protect their goats from the cold weather?"
-    answer: "When the cold weather set in, many farmers took steps to protect their goats from the elements. Some simply moved their goats into warmer shelters, while others took more extreme measures, such as shaving the goats' fur and providing them with blankets."
+    answer: "Provide a dry, draft-free three-sided shelter with deep straw bedding. Feed more hay than usual since digesting forage generates body heat. Keep water unfrozen with a heated bucket or stock tank heater. Never use heat lamps as they are a serious fire hazard."
   - question: "What are some common problems that occur when goats are exposed to the cold?"
     answer: "When goats are exposed to the cold, they are susceptible to a number of problems. One common issue is frostbite, which occurs when the tissue freezes. Goats are particularly prone to frostbite on their ears since they have a large surface area and a lot of blood vessels."
 ---

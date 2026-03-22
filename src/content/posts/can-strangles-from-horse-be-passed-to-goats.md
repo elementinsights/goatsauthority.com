@@ -11,7 +11,7 @@ imageAlt: "Can Strangles From Horse Be Passed To Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Strangles from a horse can be passed to goats because they are both susceptible to the bacteria that causes the disease. They are also in close contact with each other, which increases the chances of transmission and infection and makes it difficult to prevent."
+  text: "True cross-species transmission of strangles from horses to goats is extremely rare, since the bacteria (Streptococcus equi) is adapted to equines. However, basic biosecurity on mixed farms is still recommended."
 toc:
   - label: "Can strangles from horse be passed to goats?"
     href: "#can-strangles-from-horse-be-passed-to-goats"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can strangles from horse be passed to goats?"
-    answer: "Strangles from a horse can be passed to goats because they are both susceptible to the bacteria that causes the disease. They are also in close contact with each other, which increases the chances of transmission and infection and makes it difficult to prevent."
+    answer: "True cross-species transmission of strangles from horses to goats is extremely rare. The bacteria (Streptococcus equi) is adapted to equines, though it can theoretically survive on shared water troughs and equipment for several days."
   - question: "What are the symptoms of strangles in goats?"
     answer: "The symptoms of strangles in goats can vary depending on the strain of bacteria involved and the animal's individual response to infection. However, some common signs include fever, lethargy, loss of appetite, and swollen lymph nodes (usually in the head and neck region)."
   - question: "What are the symptoms of strangles in horses?"

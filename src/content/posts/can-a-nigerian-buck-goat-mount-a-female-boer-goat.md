@@ -37,7 +37,7 @@ faq:
   - question: "What are the results of a Nigerian buck goat and female Boer goat pairing?"
     answer: "The offspring of a Nigerian buck goat and female Boer goat pairing will be what is known as a crossbreed or hybrid. So, they will not be 100% purebred."
   - question: "Do Nigerian buck goats make good fathers?"
-    answer: "Nigerian buck goats are a popular choice for many goat farmers. They are known for their hardiness and their ability to produce large litters. But what about their parenting skills? Do Nigerian buck goats make good fathers?"
+    answer: "Nigerian Dwarf bucks are eager breeders despite their small size and pass along good milk production traits and friendly temperaments. Like most bucks, they don't play a direct role in raising kids after birth."
   - question: "Do female boer goats make good mothers?"
     answer: "Boer goats are known for their docile and gentle nature. And this extends to their parenting skills. Boer goats make excellent mothers and are very protective of their young."
 ---

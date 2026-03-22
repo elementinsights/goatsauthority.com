@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get a Concussion?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are susceptible to concussions for many of the same reasons that humans are. Some of those reasons are that when the head hits something hard or there’s a sudden change in momentum, the brain can collide with the skull and become injured."
+  text: "Yes, goats can get concussions from falls, collisions with gates or walls, or getting hit by a larger animal. Mild concussions usually resolve within 24 to 48 hours with rest in a quiet, dimly lit stall."
 toc:
   - label: "Can a goat get a concussion?"
     href: "#can-a-goat-get-a-concussion"
@@ -33,7 +33,7 @@ faq:
   - question: "How is a concussion diagnosed in a goat?"
     answer: "A concussion is typically diagnosed based on the signs and symptoms that are present. A veterinarian may also order imaging tests, such as an MRI or CT scan, to rule out other potential causes of the symptoms."
   - question: "What are the long-term effects of a concussion on a goat?"
-    answer: "Untreated or severe concussions can lead to serious health complications, including paralysis, sei."
+    answer: "Most mild concussions resolve fully within a couple of days. Severe or untreated concussions can lead to lasting neurological damage, including persistent head tilt, seizures, or behavioral changes."
 ---
 Yes, goats can absolutely get concussions. Any time a goat takes a hard blow to the head from a fall, a collision with a fence post, or a kick from a larger animal, the brain can slam against the inside of the skull and cause injury.
 

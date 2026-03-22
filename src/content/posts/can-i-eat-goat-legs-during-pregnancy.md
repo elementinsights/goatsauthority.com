@@ -35,7 +35,7 @@ faq:
   - question: "What are the benefits of eating goat legs during pregnancy?"
     answer: "There are many different benefits to eating goat legs during pregnancy. For starters, goat meat is a high-quality protein source, which supports the needs of both pregnant women and growing fetuses."
   - question: "What are the risks of not eating goat legs during pregnancy?"
-    answer: "There are several risks associated with not eating goat legs during pregnancy. First and foremost, a lack of goat protein can impact the development of the baby, leading to serious complications such as low birth weight and developmental delays."
+    answer: "Not eating goat legs specifically isn't a risk, but missing out on iron and protein during pregnancy can contribute to anemia and poor fetal development. Goat meat is one of the leaner red meats and a good source of both nutrients."
   - question: "What are some recipes for dishes that include goat legs?"
     answer: "There are many different recipes for dishes that include goat legs, each of which highlights the rich and savory flavors of this delicious meat. Some popular options include braised goat legs, curried goat legs, and grilled goat legs."
 ---

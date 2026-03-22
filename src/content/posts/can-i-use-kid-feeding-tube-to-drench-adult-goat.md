@@ -11,7 +11,7 @@ imageAlt: "Can I Use Kid Feeding Tube To Drench Adult Goat?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use a kid feeding tube to drench an adult goat as long as the tube is the right size. The general rule of thumb is that the tube should be about one-third the width of the goat's esophagus."
+  text: "A kid feeding tube is generally too small and too short for an adult goat. For drenching an adult, use a drench gun, large syringe, or a properly sized adult stomach tube instead."
 toc:
   - label: "Can I use kid feeding tube to drench adult goat?"
     href: "#can-i-use-kid-feeding-tube-to-drench-adult-goat"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I use kid feeding tube to drench adult goat?"
-    answer: "You can use a kid feeding tube to drench an adult goat as long as the tube is the right size. The general rule of thumb is that the tube should be about one-third the width of the goat's esophagus."
+    answer: "A kid feeding tube is generally too small and too short for an adult goat. Use a drench gun, large syringe, or adult-sized stomach tube for safe and effective drenching."
   - question: "What is a kid feeding tube and what are its uses on adult goats?"
-    answer: "A kid feeding tube, also known simply as a feeding tube, is a medical device that is used to feed nutrients and medications to adult goats."
+    answer: "A kid feeding tube is a soft, flexible tube meant for delivering colostrum or milk replacer to newborn goats. It is too narrow and short to safely deliver fluids to an adult goat's stomach."
   - question: "How to use a kid feeding tube to drench an adult goat?"
-    answer: "For many people, the thought of using a kid feeding tube to drench an adult goat may seem a bit daunting."
+    answer: "If you need to stomach-tube an adult goat, use an adult-sized tube (30 to 36 inches long). Always check tube placement by feeling for it alongside the windpipe before pushing any liquid through."
   - question: "Are there any alternative methods for drenching adult goats?"
-    answer: "There are a few alternative methods for drenching adult goats, though the kid feeding tube is generally considered to be the safest and most effective option."
+    answer: "A drench gun is the easiest tool for giving liquid medicine to an adult goat. A 60cc catheter-tip syringe works well for smaller volumes, and a proper adult stomach tube is best for large fluid volumes."
 ---
 
 This is a question that comes up a lot, especially when folks only have kid-sized equipment on hand during an emergency. The short answer is that a kid feeding tube is generally too small and too short for an adult goat.

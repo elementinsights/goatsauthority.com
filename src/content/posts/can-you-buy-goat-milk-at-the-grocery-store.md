@@ -35,9 +35,9 @@ faq:
   - question: "Can you buy goat milk at the grocery store?"
     answer: "You can buy goat milk at the grocery store. It is usually located in the dairy section, near the other types of milk. Goat milk is often sold in both whole and skim varieties and can be found in both organic and non-organic varieties."
   - question: "What is goat milk and why is it so good for you?"
-    answer: "Goat milk is a type of milk that is produced by goats. It is typically lower in fat and calories than cow’s milk, and it contains fewer allergens."
+    answer: "Goat milk is produced by dairy goat breeds and has smaller fat globules than cow milk, making it easier to digest. It is higher in calcium, vitamin A, and potassium than cow milk, with a slightly higher fat content that gives it a creamier texture."
   - question: "How can you buy goat milk at the grocery store?"
-    answer: "According to USDA data, goat milk sales have increased by over 50% in the past 5 years. If you're looking to try this trend for yourself, here's what you need to know about buying goat milk at the grocery store."
+    answer: "You can find goat milk at most major chains including Walmart, Kroger, Whole Foods, Trader Joe's, and Sprouts. Meyenberg is the most common brand and comes in fresh, UHT (shelf-stable), and powdered forms. Natural food stores tend to have the widest selection."
   - question: "What are the benefits of buying goat milk at the grocery store instead of from a farm or dairy?"
     answer: "Goat milk is becoming an increasingly popular choice at the grocery store, and for good reason. Goat milk contains less lactose than cow milk, making it easier for those with lactose intolerance to digest."
 ---

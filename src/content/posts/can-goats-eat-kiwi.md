@@ -39,11 +39,11 @@ faq:
   - question: "Can goats eat kiwi?"
     answer: "Kiwi is a type of fruit that is safe for goats to eat. As a matter of fact, kiwi can be a good source of vitamins and minerals such as vitamin C, potassium, and copper that can help support a goat's overall health."
   - question: "Can goats eat kiwi leaves?"
-    answer: "Goats are known for being able to eat just about anything, but that doesn't mean that everything is good for them. Kiwi leaves, for example, can be harmful to goats if they consume too much of them."
+    answer: "Yes, the kiwi vine and leaves are non-toxic to goats. However, goats will destroy a young kiwi vine if they get access to it, so fence off any vines you want to keep alive."
   - question: "Can goats eat kiwi stems?"
     answer: "Goats are curious creatures and will often nibble on things that they shouldn't eat. But, kiwi stems are not toxic to goats and can actually be quite nutritious."
   - question: "Can goats eat kiwi seeds?"
-    answer: "Kiwi seeds are edible to goats. In actuality, numerous animals can digest the tiny, tough seeds of fruits like kiwis. Despite this, you must keep in mind that goats can choke on seeds, so only give them a small amount at a time."
+    answer: "Yes, the tiny black seeds inside kiwi are completely harmless. They are small enough that choking isn't a concern, and they pass through the digestive system without any issues."
 ---
 Kiwi is one of those fruits that surprises people when they learn goats can eat it. The fuzzy skin, the tiny seeds, the bright green flesh -- all of it is perfectly safe for your herd.
 

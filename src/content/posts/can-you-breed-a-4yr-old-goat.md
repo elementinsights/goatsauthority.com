@@ -11,7 +11,7 @@ imageAlt: "Can You Breed A 4yr Old Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can breed a 4-year-old goat as long as she is in good health and meets the minimum breeding and age requirements. The minimum breeding requirements for goats are that they are at least 18 months old, and have a body condition score of 4 out of 5."
+  text: "Yes, a 4-year-old goat is in prime breeding age. Goats breed best between 2 and 7 years old, and at 4 her body is fully mature with zero special age-related concerns."
 toc:
   - label: "Can you breed a 4yr old goat?"
     href: "#can-you-breed-a-4yr-old-goat"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you breed a 4yr old goat?"
-    answer: "You can breed a 4-year-old goat as long as she is in good health and meets the minimum breeding and age requirements. The minimum breeding requirements for goats are that they are at least 18 months old, and have a body condition score of 4 out of 5."
+    answer: "Yes, a 4-year-old goat is right in her prime. Goats breed best between 2 and 7 years old, and at 4 her body is fully mature for easy kidding with zero special age-related concerns."
   - question: "What is breeding a 4-year-old goat-like and what are the benefits of doing so?"
-    answer: "When it comes to breeding goats, there are a few things you need to keep in mind. First of all, it is crucial to consider the age of your goat. Generally speaking, you should wait until your goat is at least 4 years old before breeding."
+    answer: "Breeding a 4-year-old doe is about as easy as it gets. Her pelvis is fully developed for easy kidding, and her body has the reserves to carry kids without getting run down. All her growth is finished and every calorie goes toward healthy kids."
   - question: "How to determine if your goat is ready for breeding?"
-    answer: "As any experienced goat farmer knows, breeding season is an exciting time of year. But before you put your goats together, it's important to make sure that they're actually ready to breed."
+    answer: "Check her body condition score by feeling along her spine, ribs, and hips. A score of 3 to 3.5 on a 5-point scale is ideal. Watch for heat signs like tail flagging, swollen vulva, and louder calling. Does cycle every 18 to 21 days during breeding season."
   - question: "What do you need to do before breeding your goats?"
-    answer: "If you're thinking about breeding your goats, there are a few things you'll need to do first. First, you'll need to make sure that your does are in good health and that they're of breeding age (usually one to three years old)."
+    answer: "Bump up her nutrition about a month before breeding season with extra grain, quality hay, and a loose mineral with selenium and zinc. Trim her hooves, update vaccinations, and run a fecal egg count to see if she needs deworming before pregnancy."
 ---
 
 Yes, a 4-year-old goat is in the sweet spot for breeding. At this age there are zero special concerns, and you can expect a smooth pregnancy and easy kidding.

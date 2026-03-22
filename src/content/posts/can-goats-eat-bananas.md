@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bananas?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Bananas have high sugar content which isn't good in large amounts for goats' digestive systems. For a lower-sugar treat option, consider feeding your goats cucumbers instead."
+  text: "Yes, bananas are safe for goats, peel and all. They are high in potassium and vitamin B6. Limit to one or two bananas per adult goat a few times a week due to the sugar content."
 toc:
   - label: "Can Goats Eat Bananas Raw?"
     href: "#can-goats-eat-bananas-raw"
@@ -37,7 +37,7 @@ faq:
   - question: "What About Banana Peels?"
     answer: "Banana peels are a common concern when feeding goats. Some people worry they might be harmful. The truth is, banana peels are safe for goats to eat."
   - question: "Can Goats Eat All Parts of Banana Trees?"
-    answer: "Goats can eat bananas. But what about banana trees? Let's find out."
+    answer: "Yes, goats can browse on banana plant leaves and even the soft trunk without any issues. Banana plant material is non-toxic to goats. Just make sure the plants have not been sprayed with herbicides or pesticides."
 ---
 Bananas are safe for goats, and most of them absolutely love the things. Peel and all, a banana makes a quick, easy treat that goats will come running for.
 

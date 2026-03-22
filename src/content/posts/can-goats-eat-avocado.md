@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Avocado?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Feeding your goat might seem tricky now but it doesn't have to be hard work all the time! There are plenty of other healthy options they will love just as much without any risk involved."
+  text: "No, avocado is not safe for goats. Every part of the avocado plant contains persin, a toxin that damages the heart muscle and mammary tissue in goats and can be fatal."
 toc:
   - label: "Can Goats Eat Avocado: A Comprehensive Guide"
     href: "#can-goats-eat-avocado-a-comprehensive-guide"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can Goats Eat Avocado: A Comprehensive Guide"
-    answer: "Goats and avocados don't mix well. The skin and pit of an avocado can be harmful to your goat. These parts contain persin, a toxin that can cause health issues in goats. Even the flesh, which has less persin, isn't safe for them to eat regularly."
+    answer: "No, avocado is toxic to goats in every form. The fruit, skin, pit, leaves, and bark all contain persin, which damages the heart muscle and mammary tissue. Persin exposure can be fatal."
   - question: "Understanding Goat Diet: Can They Eat Avocado?"
-    answer: "Goats have a wide-ranging diet, but avocados aren't part of it. The fruit's skin and pit contain persin, a toxin harmful to goats. Even the flesh can cause mild upset stomachs in some cases. So while you might enjoy this creamy treat, your goat is better off without it."
+    answer: "Avocado is genuinely dangerous for goats. Persin attacks the heart and mammary glands, causing irregular heartbeat, severe mastitis in lactating does, and potentially death within 1-2 days."
   - question: "Avocado and Goats: Is It Safe?"
-    answer: "Avocados may seem like a tasty treat for your goat. But, it's not safe at all. This fruit contains persin, a toxin harmful to goats. Eating avocados can lead to severe health problems in goats such as difficulty breathing and heart issues."
+    answer: "No, avocado is never safe for goats. Symptoms of persin poisoning include lethargy, difficulty breathing, swelling around the jaw, and rapid heartbeat. Call your vet immediately if a goat eats avocado."
   - question: "What Not to Feed Goats: The Dangers of Avocado"
-    answer: "Goats love to eat. But not all foods are safe for them. Avocado is one such food that can harm your goat. The leaves, bark and fruit of avocado contain a toxin called persin. This toxin can cause health problems in goats like upset stomach or even heart failure if eaten in large amounts."
+    answer: "Avocado belongs on the 'never feed' list alongside oleander and rhododendron. No guacamole, no avocado scraps, and no letting goats browse near avocado trees. Fence them well away from any avocado trees on your property."
 ---
 Avocado is one of those foods that's great for people but genuinely dangerous for goats. This isn't a gray area or a "feed in moderation" situation. Avocado can seriously harm or kill your goats.
 

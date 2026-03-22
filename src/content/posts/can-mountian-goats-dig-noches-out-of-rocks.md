@@ -11,7 +11,7 @@ imageAlt: "Can Mountian Goats Dig Noches Out Of Rocks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Mountain goats can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole."
+  text: "Mountain goats do not actually carve notches into solid rock. They find and use natural ledges, cracks, and rough surfaces left by weathering and erosion for footing."
 toc:
   - label: "Can mountain goats dig noches out of rocks?"
     href: "#can-mountain-goats-dig-noches-out-of-rocks"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can mountain goats dig noches out of rocks?"
-    answer: "Mountain goats can dig out nooks and crannies in rocks with their hooves and horns. They use their hooves to break up the rock and their horns to gouge out a hole. They also use their horns to help them climb steep cliffs and scramble over obstacles."
+    answer: "Mountain goats do not carve or gouge notches into solid rock. They use natural features like cracks, ledges, and rough patches left by weathering and erosion. Their specially designed split hooves with rubbery grip pads provide the traction they need."
   - question: "What are the purposes of noches for mountain goats?"
-    answer: "There are several different purposes of noches for mountain goats. For one thing, noches can help mountain goats to scale steep surfaces more easily by providing them with traction and better grip."
+    answer: "Mountain goats paw at soil and snow to reach buried vegetation and dig at mineral licks to access salt and trace minerals. Over time, repeated visits to mineral-rich spots can wear visible depressions into softer rock and soil."
   - question: "What are the benefits of mountain goat noches?"
-    answer: "While mountain goats may seem like an odd choice for an animal, the infamous noche of these creatures provides a number of key benefits to their environments."
+    answer: "The depressions mountain goats wear into soil at mineral lick sites can grow several inches deep from decades of use. These spots serve as important sodium sources in high-altitude environments that are naturally low in minerals."
   - question: "Are there any risks associated with mountain goats digging noches out of rocks?"
-    answer: "The presence of mountain goats in some areas can lead to the formation and expansion of their characteristic noches, or pits, in rocky terrain."
+    answer: "Mountain goats do not damage solid rock, but their repeated visits to mineral lick sites can accelerate erosion in softer ground. In some national parks, managers monitor heavily used lick sites where goat traffic concentrates."
 ---
 Mountain goats are famous for standing on cliff ledges that look impossible, and people often wonder if they actually carve notches into the rock to get a foothold. It's a fair question when you see photos of them perched on sheer cliff faces.
 

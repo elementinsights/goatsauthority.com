@@ -37,7 +37,7 @@ faq:
   - question: "Can all parts of Kentucky bluegrass be edible to goats?"
     answer: "Kentucky bluegrass is a perennial grass that is common in lawns and pastures. It's characterized by its blue-green color and thick, coarse blades. Kentucky bluegrass is also known for being tolerant of cold weather and drought."
   - question: "Can all kinds of goats eat Kentucky bluegrass?"
-    answer: "Goats are browsers, not grazers like cows. This means that they prefer to nibble on leaves and woody vegetation rather than grazing on grasses. As a result, not all goats will eat Kentucky bluegrass."
+    answer: "Yes, all goat breeds can safely eat Kentucky bluegrass. While goats prefer browse over grass, they will graze on bluegrass, especially when it is mixed with clover or other legumes."
   - question: "What is Kentucky bluegrass and what are its benefits to goats?"
     answer: "Kentucky bluegrass is a perennial grass that is native to Europe and Asia. It was introduced to North America in the early 1800s and has since become one of the most popular grasses for both turf and pasture."
 ---

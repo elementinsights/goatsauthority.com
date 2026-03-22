@@ -35,9 +35,9 @@ faq:
   - question: "What are the benefits of owning a goat in Wyoming?"
     answer: "Goats can be a great addition to any farm or homestead. They are known for their hardiness and can thrive in many different climates."
   - question: "What is the process for owning a goat in Wyoming?"
-    answer: "In order to own a goat in Wyoming, you must first complete the necessary paperwork and apply for a license with the state Department of Agriculture."
+    answer: "Start by checking your local zoning ordinances. In rural unincorporated areas, you can usually just buy goats and bring them home. If you're in town, you may need a livestock permit from your city or county."
   - question: "What are the requirements for owning a goat in Wyoming?"
-    answer: "In order to own a goat in the state of Wyoming, you must meet certain requirements set by the Department of Agriculture."
+    answer: "You need adequate fencing, shelter, and land. Goats should be kept in pairs at minimum. Wyoming winters are brutal, so plan for a draft-free barn and heated water buckets for the coldest months."
 ---
 
 Wyoming is one of the more goat-friendly states in the country. It's ranch country, and livestock is just part of life out here.

@@ -33,9 +33,9 @@ faq:
   - question: "What is Kabuli Palao and how is it made?"
     answer: "Kabuli Palao is a popular dish native to the Middle East region. It is made by cooking long-grained rice in a flavorful blend of spices and dried fruit, such as raisins or apricots."
   - question: "What are the benefits of eating Kabuli Palao made with goat meat instead of lamb or beef?"
-    answer: "Kabuli Palao is a traditional Afghan dish that consists of fragrant basmati rice and succulent chunks of meat."
+    answer: "Goat meat is leaner than both lamb and beef, with about 122 calories and 2.6 grams of fat per 3-ounce serving. Its flavor holds up well against the warm spices, and bone-in pieces release collagen into the broth that makes the rice extra rich."
   - question: "Are there any drawbacks to eating Kabuli Palao made with goat meat instead of lamb or beef?"
-    answer: "While goat meat may not be as popular as other meats, such as lamb or beef, it has many nutritional benefits that make it an attractive option for those looking to enjoy a hearty meal."
+    answer: "Goat can turn tough and stringy if you rush the cooking, so plan for at least 90 minutes of simmering time. Some people find the flavor too gamy, but soaking the meat in salted water or yogurt beforehand mellows it out."
 ---
 
 Goat meat is not just acceptable in Kabuli pulao. It's one of the most traditional proteins you can use in this classic Afghan rice dish.

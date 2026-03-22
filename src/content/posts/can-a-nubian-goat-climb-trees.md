@@ -11,7 +11,7 @@ imageAlt: "Can a Nubian Goat Climb Trees?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, you need to be careful if you allow your Nubian goat to climb trees. They could get injured if they fall from a height."
+  text: "Nubians can climb, but their large size (130-175 pounds) creates a much higher injury risk compared to smaller breeds. They're better off with purpose-built climbing structures than tall trees."
 toc:
   - label: "Can a Nubian goat climb trees?"
     href: "#can-a-nubian-goat-climb-trees"
@@ -35,7 +35,7 @@ faq:
   - question: "What is a Nubian goat and what are their characteristics?"
     answer: "Nubian goats are a popular breed of dairy goat. They are known for their large size, long ears, and distinctive Roman nose. Nubian goats originally come from the Nubian Desert in northeastern Africa."
   - question: "What are the dangers of letting your Nubian goat climb trees?"
-    answer: "Nubian goats are known for their agility and sure-footedness, and they often use these skills to climb trees."
+    answer: "The biggest danger is falling. A 130-175 pound Nubian that slips off a branch can break a leg or injure her udder. Heavy goats also snap branches that would hold smaller breeds, causing a sudden drop with no warning."
 ---
 
 Nubians can climb, but they are not mountain goats. Their large frames and floppy ears make them less agile than smaller breeds, so tree climbing comes with real risks for these heavy dairy goats.

@@ -31,9 +31,9 @@ faq:
   - question: "What is a pygmy goat nanny and what is a nigerian dwarf billy goat?"
     answer: "Pygmy goats are a breed of miniature domestic goats. Pygmy goats tend to be kept as pets, although they can also be used for milk production or meat."
   - question: "What are the benefits of cross-breeding different types of goats?"
-    answer: "Cross-breeding different types of goats can have a number of benefits. One of the most important is that it can help to produce offspring with desired characteristics."
+    answer: "The Pygmy-Nigerian Dwarf cross gives you a compact goat that combines Pygmy hardiness with Nigerian Dwarf milking ability. These crosses are friendly, easy to handle, and stay small enough for properties where space is limited."
   - question: "What are some tips for successful goat breeding?"
-    answer: "Goat breeding can be a rewarding experience, but it's also important to do some research before getting started."
+    answer: "Make sure both animals are healthy and vaccinated before breeding. Keep records of breeding dates so you know when to expect kids (gestation is about 150 days). Watch for heat signs including tail flagging, increased vocalization, and vulva swelling."
 ---
 
 Yes, a Pygmy goat doe can breed with a Nigerian Dwarf buck without any problems. Both breeds are small domestic goats that are fully compatible, and the cross produces healthy offspring that many hobby farmers love.

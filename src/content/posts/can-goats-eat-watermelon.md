@@ -31,11 +31,11 @@ faq:
   - question: "Can goats eat watermelon?"
     answer: "Goats can eat watermelon. Watermelons are a good source of hydration for goats, as well as a good source of vitamins A and C. However, it's important to note that watermelons should only be given to goats in moderation."
   - question: "What is watermelon and what are its health benefits to goats?"
-    answer: "Watermelon is a fruit found in many parts of the world. It's especially popular in the United States, where it's often eaten as a summertime treat. Watermelon is not only delicious, but it also has many health benefits."
+    answer: "The rind is actually the most nutritious part for goats, with less sugar and more fiber than the pink flesh. Watermelon is about 92% water, providing excellent hydration, along with vitamins A and C and some lycopene."
   - question: "How can you introduce watermelon to goats?"
-    answer: "Watermelon is not only a refreshing summertime treat but is also a good source of vitamins A and C, as well as lycopene."
+    answer: "Start with a few small chunks and see how your goats react. Cut it into manageable pieces and offer it after the goats have already eaten their hay, since filling up on sugary fruit before roughage can upset the rumen."
   - question: "When is the best time to feed watermelon to goats?"
-    answer: "Many factors go into deciding when is the best time to feed watermelon to goats. The stage of the plant's growth, the weather, and the size and age of the goats are all important considerations."
+    answer: "Hot summer afternoons are perfect. The cold, wet fruit helps cool goats down and encourages extra water intake during the hottest part of the day. Some farmers freeze watermelon chunks as treats on brutal days."
 ---
 
 Yes, goats can eat watermelon and most of them go crazy for it. The flesh, rind, and seeds are all safe, making it one of the best summer treats you can toss into the pen.

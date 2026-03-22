@@ -11,7 +11,7 @@ imageAlt: "Can I Wash And Groom A Pygmy Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can wash and groom your pygmy goat, but there are a few things you need to keep in mind. Pygmy goats have sensitive skin, so you'll need to use a gentle shampoo and conditioner."
+  text: "Yes, you can wash and groom your pygmy goat. Most pygmy goats only need a full bath 2 to 3 times per year using a livestock shampoo or plain baby shampoo, along with regular weekly brushing."
 toc:
   - label: "Can I wash and groom my pygmy goat?"
     href: "#can-i-wash-and-groom-my-pygmy-goat"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I wash and groom my pygmy goat?"
-    answer: "You can wash and groom your pygmy goat, but there are a few things you need to keep in mind. Pygmy goats have sensitive skin, so you'll need to use a gentle shampoo and conditioner. You should also avoid getting water in their ears and eyes."
+    answer: "Yes, you can wash and groom your pygmy goat. Bath them only 2 to 3 times per year with a livestock shampoo or baby shampoo, brush weekly with a slicker brush, and trim hooves every 6 to 8 weeks."
   - question: "What is a pygmy goat and what are their characteristics?"
     answer: "A pygmy goat is a small breed of domestic goat that is characterized by its short stature and long, fluffy coat."
   - question: "What are the benefits of owning a pygmy goat?"

@@ -27,9 +27,9 @@ toc:
     href: "#growth-period-after-weaning"
 faq:
   - question: "How Much Milk to Feed a Baby Goat?"
-    answer: "When you have a baby goat, it's important to know how much milk they need. Just like human babies, young goats also require a certain amount of milk each day for proper growth and development."
+    answer: "During the first week, feed about 4 ounces every 4 hours. By week two, bump up to 6 to 8 ounces per feeding with 4 feedings daily. From 3 to 8 weeks, gradually increase bottle size while reducing to 3 feedings per day."
   - question: "When and How Long to Bottle Feed Kids"
-    answer: "Bottle feeding kids, or baby goats, is a common practice. It's done when the mother goat can't produce enough milk. Or if she rejects her kid."
+    answer: "Use a Pritchard nipple on a standard soda bottle for best results. Start introducing hay around 2 weeks old and offer grain by 3 to 4 weeks. Most kids are ready to wean between 8 and 12 weeks."
 ---
 Baby goats can absolutely drink cow milk, and plenty of farmers have raised healthy kids on it. It is not the perfect substitute for goat milk, but it works well in a pinch when a doe dies, rejects her kid, or just does not produce enough.
 

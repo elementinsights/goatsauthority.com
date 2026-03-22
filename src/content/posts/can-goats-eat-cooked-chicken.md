@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked Chicken?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked chicken because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium."
+  text: "No, goats should not eat cooked chicken. They are herbivores with a rumen designed to ferment plant fiber, not process meat. A small accidental nibble won't be an emergency, but meat has no place in a goat's diet."
 toc:
   - label: "Can goats eat cooked chicken?"
     href: "#can-goats-eat-cooked-chicken"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat cooked chicken?"
-    answer: "Goats can eat cooked chicken because it's a good source of protein. Cooked chicken contains vitamins and minerals that are essential to a goat's diet, such as vitamin B12, niacin, phosphorus, and selenium. They are also a source of essential amino acids such as leucine, isoleucine, and valine."
+    answer: "A nibble won't kill a goat, but goats are herbivores whose rumen is designed to process plant fiber, not meat. There is no efficient way for their system to handle animal protein."
   - question: "Are there any benefits to feeding cooked chicken to goats?"
-    answer: "Goats are notoriously picky eaters, and their diets must be carefully balanced in order to ensure their health. While goats will nibble on just about anything, they prefer to eat hay, grass, and other plants. However, cooked chicken can also be a good source of nutrients for goats."
+    answer: "There are no meaningful benefits. Goats get all the protein they need from quality hay, alfalfa, browse, and supplemental grain. Meat can disrupt the microbial balance in the rumen."
   - question: "What are the risks associated with feeding cooked chicken to goats?"
-    answer: "While feeding cooked chicken to goats may seem like an innocuous practice, it can actually pose a number of risks."
+    answer: "Digestive upset is the biggest risk. Cooked chicken bones can splinter and cause choking or internal injuries. Seasoned chicken brings excess salt, garlic, and onion, all of which can harm goats."
   - question: "How to prevent the risks associated with feeding cooked chicken to goats"
-    answer: "If you decide to feed cooked chicken to your goats, there are a few things you can do to minimize the risks."
+    answer: "The simplest prevention is to not feed chicken to your goats. Keep kitchen meat scraps away from the barn and pasture areas. Secure compost bins and keep pet food bowls out of reach."
 ---
 If you keep both chickens and goats on your farm, you might have wondered what would happen if your goat got hold of some leftover cooked chicken. Maybe you even caught one nibbling on a scrap that fell on the ground.
 

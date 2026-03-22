@@ -11,7 +11,7 @@ imageAlt: "Can Goats Get Mites?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can get mites because they are small, agile, and have a lot of furs. Mites are tiny arthropods that live off the blood of animals."
+  text: "Yes, mites are one of the most common external parasites in goats, especially during colder months. They cause intense itching, hair loss, and crusty skin, and spread quickly through direct contact and shared bedding."
 toc:
   - label: "Can goats get mites?"
     href: "#can-goats-get-mites"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats get mites?"
-    answer: "Goats can get mites because they are small, agile, and have a lot of furs. Mites are tiny arthropods that live off the blood of animals. There are different types of mites, but they all have in common that they can cause a lot of irritation to their host."
+    answer: "Yes, goats are very susceptible to mites, especially during colder months when they spend more time crowded in barns. Mites spread through direct contact and shared bedding, brushes, and equipment."
   - question: "What are mites and what do they do to goats?"
     answer: "Mites are tiny arthropods that thrive in warm, humid environments. There are many different species of mites, and they can infest animals, plants, and even humans. Goat mites are a type of mite that specifically target goats."
   - question: "How to treat a goat for mites?"
-    answer: "One of the most common problems that goat owners face is mites. These tiny creatures can cause a great deal of irritation to your goat, leading to scratching and hair loss."
+    answer: "Ivermectin injection is the most common and effective treatment. Give it subcutaneously at the proper dose, then repeat 10 to 14 days later. Strip all bedding, clean the stall, and treat every goat in the herd at the same time."
   - question: "Are there any natural solutions for treating and preventing mites in goats?"
-    answer: "There are a few natural solutions that can be effective in treating and preventing mites in goats. One is to bathe the goats in a solution of vinegar and water. This will help to kill any mites that are present and soothe the skin."
+    answer: "Prevention is the best approach. Quarantine new goats for at least two weeks before mixing them with your herd. Keep barns clean and dry, avoid overcrowding, and consider a preventive ivermectin treatment in early fall before winter."
 ---
 
 Yes, mites are one of the most common external parasites in goats. They cause intense itching, hair loss, and crusty skin, and they can spread through your entire herd fast if you do not catch them early.

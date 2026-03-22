@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can horses drink water that has goat poop in it?"
-    answer: "Horses should not drink water that has goat poop in it. Goat poop can contain harmful bacteria that can make your horse sick. If you must give your horse water that has been contaminated with goat poop, make sure to boil it first to kill any bacteria."
+    answer: "Horses should not drink water contaminated with goat feces if you can help it. Goat droppings can carry parasites like Cryptosporidium and Giardia, plus bacteria such as E. coli and Salmonella."
   - question: "What happens if a horse drinks water that has goat poop in it?"
     answer: "When a horse drinks water that contains goat poop, it can cause a variety of negative impacts on the animal's health. For one thing, by ingesting feces from other animals, horses increase their risk of developing infections and diseases, as well as developing parasites in their digestive tracts."
   - question: "How can you prevent your horse from drinking contaminated water?"
-    answer: "There are a number of different ways to prevent your horse from drinking contaminated water. One strategy is to keep a close eye on your horse's hydration levels, and only give it clean water when necessary."
+    answer: "The simplest fix is elevating water troughs so goats can't stand in them. Automatic waterers with float valves stay cleaner, and if you're using standard troughs, dump and scrub them at least every other day."
   - question: "What should you do if your horse does drink contaminated water?"
     answer: "The first thing to keep in mind when your horse has been exposed to contaminated water is to remain calm. In most cases, horses are able to build up their natural resistance to contaminated water and recover from the effects with no long-term health consequences."
 ---

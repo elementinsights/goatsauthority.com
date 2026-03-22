@@ -39,7 +39,7 @@ faq:
   - question: "Can male pygmy goats have long hair?"
     answer: "Male pygmy goats can have long hair as long as they are properly cared for. If you want your male pygmy goat to have long hair, you will need to brush and comb it regularly. You should also trim their nails and hooves regularly."
   - question: "What are the benefits of having a long-haired male pygmy goat?"
-    answer: "There are many benefits of having a long-haired male pygmy goat. One benefit is that they are very gentle and easy to handle. They are also very social creatures and enjoy being around people."
+    answer: "A full, long coat helps bucks look larger and more dominant during breeding season. The thick winter coat also provides solid insulation against cold temperatures, reducing the need for heated shelter."
   - question: "How do I care for my long-haired male pygmy goat?"
     answer: "Caring for your long-haired male pygmy goat is not difficult. The most important thing you need to do is brush and comb their hair regularly. This will help to prevent knots and tangles."
   - question: "Are there any risks associated with having a long-haired male pygmy goat?"

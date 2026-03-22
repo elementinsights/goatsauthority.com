@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Chicken Feed?"
 readTime: "11 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Feeding your goat chicken feed might seem like an easy solution if you're out of goat food. However, this should only be done in emergencies and never as a regular diet plan for your pet goat."
+  text: "No, goats should not eat chicken feed. Many medicated chicken feeds contain monensin, which is fatal to goats. Even non-medicated chicken feed has too much calcium and not enough copper for goats."
 toc:
   - label: "Can Goats Eat Chicken Feed?"
     href: "#can-goats-eat-chicken-feed"
@@ -25,11 +25,11 @@ toc:
     href: "#frequently-asked-questions-faqs"
 faq:
   - question: "Can Goats Eat Chicken Feed?"
-    answer: "Chicken feed is a common food for chickens. But can goats eat it too? Yes, they can but it's not the best choice. Goats need different nutrients than chickens do. Chicken feed doesn't have enough fiber or calcium that goats require to stay healthy."
+    answer: "No, chicken feed can be genuinely dangerous for goats. Many medicated chicken feeds contain monensin, which is fatal to goats. Even non-medicated chicken feed has too much calcium and the wrong mineral ratios."
   - question: "Why Can't Goats Eat Chicken Feed?"
-    answer: "Chicken feed is not good for goats. It's made to meet the needs of chickens, not goats. The ingredients are different and may harm a goat's stomach."
+    answer: "The biggest danger is monensin, which is lethal to goats even in small amounts. Beyond that, chicken feed has excess calcium that causes urinary calculi in male goats, and lacks adequate copper that goats need."
   - question: "What Is the Best Thing to Feed Goats"
-    answer: "Goats need a balanced diet to stay healthy. The best thing for them is goat feed, which has all the nutrients they require. It's rich in fiber and protein."
+    answer: "Quality hay or browse should make up the bulk of their diet. Supplement with goat-specific grain and a loose mineral formulated for goats with the right balance of copper, selenium, and zinc. Fresh water at all times."
 ---
 If you run goats and chickens on the same property, this question probably comes up fast. Your goats will absolutely eat chicken feed if they can get to it, but that doesn't mean they should.
 

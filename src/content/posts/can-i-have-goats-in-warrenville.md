@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats In Warrenville?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have goats in Warrenville because there are no city ordinances that prohibit them. In fact, the city is quite welcoming to goats and other livestock."
+  text: "Whether you can have goats in Warrenville depends on your zoning classification and property size. Check the local municipal code before buying any animals, as different rules apply to residential, agricultural, and mixed-use zones."
 toc:
   - label: "Can I have goats in Warrenville?"
     href: "#can-i-have-goats-in-warrenville"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I have goats in Warrenville?"
-    answer: "You can have goats in Warrenville because there are no city ordinances that prohibit them. In fact, the city is quite welcoming to goats and other livestock. And also, the local zoning laws allow for the keeping of goats as well."
+    answer: "It depends entirely on your zoning classification and property size. Call the Warrenville City Clerk or visit the city website to look up your specific zoning designation before building a pen or buying goats."
   - question: "What are the requirements for keeping goats in Warrenville?"
     answer: "When it comes to keeping goats in Warrenville, there are a few key requirements that you need to be aware of."
   - question: "What are the benefits of keeping goats in Warrenville, Illinois?"

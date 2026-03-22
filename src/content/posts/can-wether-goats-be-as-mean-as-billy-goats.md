@@ -11,7 +11,7 @@ imageAlt: "Can Wether Goats Be As Mean As Billy Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered."
+  text: "No, wether goats are generally not as mean as billy goats. A wether is a castrated male that lacks testosterone, making him one of the calmest animals on the farm compared to an intact buck."
 toc:
   - label: "Can wether goats be as mean as billy goats?"
     href: "#can-wether-goats-be-as-mean-as-billy-goats"
@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can wether goats be as mean as billy goats?"
-    answer: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered."
+    answer: "No, wether goats are generally not as mean as billy goats. Wethers are castrated males that lack testosterone, so they tend to be easygoing and friendly. A wether castrated late or bottle-raised without boundaries may become pushy, but that is a training issue, not true aggression."
   - question: "What are wether goats and what distinguishes them from billy goats?"
     answer: "Goats are members of the Caprae subfamily, which includes all wild and domestic goats. There are around 200 different goat breeds, although most people are familiar with the domesticated variety."
   - question: "How do you tell the difference between a male and a female goat?"

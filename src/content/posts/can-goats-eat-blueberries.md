@@ -31,11 +31,11 @@ toc:
     href: "#frequently-asked-questions-faqs"
 faq:
   - question: "What Fruit Can Goats Not Eat?"
-    answer: "Goats are known for their diverse diet. However, there are certain fruits that they should not eat. For instance, avocados and cherries can be harmful to goats. Avocado pits and skin contain a toxin called persin. This can cause upset stomachs in goats or even more serious health issues if consumed in large amounts. Cherries also pose a risk due to the cyanide found in their leaves and seeds. Other potentially dangerous fruits include rhubarb and elderberries which both have toxins that may harm your goat’s digestive system. It is important as an owner to know what foods could harm your pet. While blueberries aren’t on this list of forbidden fruit, it doesn’t mean you should overfeed them either too much of anything isn’t good for anyone including our furry friends."
+    answer: "Avocados are toxic to goats due to persin. Cherry leaves and seeds contain cyanide compounds. Rhubarb leaves are harmful due to high oxalic acid content. Blueberries are safe, but keep portions reasonable since goats were not designed for large amounts of sugar."
   - question: "What Fruit Treats Are Good for Goats?"
-    answer: "Goats are known for their hearty appetites. They enjoy a variety of foods, including fruits. One fruit that goats can safely eat is blueberries. Blueberries offer several health benefits to goats. These small berries are packed with vitamins and antioxidants which help boost the goat’s immune system. But remember, stick to small amounts when feeding your goat any kind of treat, even healthy ones like blueberries. Too much could upset their stomach or cause other issues. Other safe fruit treats include apples and pears but always remove seeds as they may be harmful if ingested in large amounts by your furry friend. So next time you’re enjoying some fresh fruit, consider sharing a few pieces with your pet goat too."
+    answer: "Beyond blueberries, goats enjoy apples and pears with the seeds removed. Watermelon, strawberries, and raspberries are also safe options. Keep all fruit treats occasional and under 10% of total daily intake."
   - question: "What Are Goats Allergic To?"
-    answer: "Goats are known for their hearty appetites. They can eat a wide variety of foods, but not everything is safe for them. Some things might cause allergic reactions in goats. Allergies in goats aren’t common, yet they do occur. The most usual culprits include certain plants and chemicals used around the farm or garden."
+    answer: "True allergies are uncommon in goats, but certain plants are toxic. Oleander, rhododendron, and azalea can cause serious poisoning. Pesticides and herbicides on browse can also cause reactions ranging from mild irritation to serious illness."
 ---
 Yes, goats can eat blueberries. They’re one of the safest and most nutritious treats you can offer your herd.
 

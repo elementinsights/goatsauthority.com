@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Straw?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Straws are edible to goats. Straw can give goats important nutrients like fiber and minerals when it's incorporated into a balanced diet."
+  text: "Goats can nibble on straw without harm, but straw has almost zero nutritional value. It is the leftover stems from harvested grain crops and should be used as bedding, not as a food source."
 toc:
   - label: "Can goats eat straw?"
     href: "#can-goats-eat-straw"
@@ -37,11 +37,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat straw?"
-    answer: "Straws are edible to goats. Straw can give goats important nutrients like fiber and minerals when it's incorporated into a balanced diet. Protein, vitamins A and C, and other nutrients found in straw can support the physical and mental wellness of goats."
+    answer: "Goats will nibble on straw and it won't hurt them, but straw has almost zero nutritional value. It is the leftover stems from grain crops and should be used as bedding, not as feed."
   - question: "Can a pregnant goat eat straw?"
-    answer: "A pregnant goat can eat straw if it's properly processed. Goats are able to digest cellulose, which is the main component of plant cell walls."
+    answer: "A pregnant goat can eat straw without harm, but straw provides none of the protein or calories that pregnant does need. Pregnant goats require high-quality forage like alfalfa hay, not straw."
   - question: "Can a baby goat eat straw?"
-    answer: "it's safe for a baby goat to eat straw. Adult goats can digest tough plant fiber, but baby goats have not yet developed this ability."
+    answer: "A baby goat can chew on straw without danger, but straw provides no nutritional value. Kids need quality hay, proper milk, and appropriate grain for healthy growth."
   - question: "Can a sick goat eat straw?"
     answer: "If a goat is sick, you may be wondering if it can still eat straw. The answer is yes. In most cases, a sick goat can still eat straw."
 ---

@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you disbud a goat without medication?"
-    answer: "Disbudding can be done without medication. A common method of doing this is using a hot iron to cauterize the horn buds before they fully develop into horns. This procedure should only be carried out by a qualified veterinarian and requires a high level of skill and precision."
+    answer: "Yes, disbudding can be done without medication by pressing a hot iron onto the horn buds of a young kid. Many small-farm owners perform this procedure themselves, though best practice today is to use a local anesthetic like lidocaine and an NSAID for pain relief afterward."
   - question: "What is disbudding and why is it necessary for goats?"
     answer: "Disbudding is the process of removal of horns in goats. It is usually performed when they are kids, between 2-8 weeks of age."
   - question: "How can you disbud a goat without medication or surgery?"

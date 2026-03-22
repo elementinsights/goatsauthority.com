@@ -11,7 +11,7 @@ imageAlt: "Do Goats Eat Metal?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Technically speaking, goats do eat metal. For the same reason, they will chew on anything else that isn't food because they are curious and their teeth never stop growing."
+  text: "No, goats do not actually eat metal. When a goat chews on a tin can, it is going after the paper label and glue, not the metal itself. Goats explore everything with their mouths out of curiosity, but metal is not food and can cause serious harm if swallowed."
 toc:
   - label: "Do goats eat metal?"
     href: "#do-goats-eat-metal"
@@ -29,11 +29,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Do goats eat metal?"
-    answer: "Technically speaking, goats do eat metal. For the same reason, they will chew on anything else that isn't food because they are curious and their teeth never stop growing. Goats will gnaw on something to keep their teeth continuously worn down."
+    answer: "No, goats do not actually eat metal. They chew on tin cans for the paper label and glue, not the metal itself. Goats explore everything with their mouths out of curiosity. Small metal pieces like nails and wire can be swallowed accidentally and cause a serious condition called hardware disease."
   - question: "Do all goats eat metal?"
     answer: "It's a common misconception that all goats eat metal. Only a small percentage of goats exhibit this behavior, and it's believed to be linked to a nutritional deficiency."
   - question: "What are the benefits of goats eating metal?"
-    answer: "Goats are known for their ability to eat just about anything, including metal. While this may not seem like a desirable trait, there are several benefits to goats eating metal."
+    answer: "There are no benefits to goats eating metal. Metal objects are not a mineral source and are a serious health hazard. If a goat needs minerals, provide a proper loose mineral supplement designed for goats."
   - question: "What are the risks of goats eating metal?"
     answer: "If a goat ingests metal, it could potentially cause health problems. The metal could tear the lining of the goat's stomach or intestines, causing internal bleeding."
 ---

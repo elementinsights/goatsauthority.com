@@ -11,7 +11,7 @@ imageAlt: "Can Old Goats Develop Rickets?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Old goats can develop rickets. This is a condition that affects the bones and causes them to become weak and deformed."
+  text: "Rickets is primarily a disease of growing bones and is far more common in kids than in mature goats. However, a severe vitamin D or mineral deficiency in an older goat can still cause significant bone problems like osteoporosis."
 toc:
   - label: "Can old goats develop rickets?"
     href: "#can-old-goats-develop-rickets"
@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can old goats develop rickets?"
-    answer: "Old goats can develop rickets. This is a condition that affects the bones and causes them to become weak and deformed. It is most common in young children, but it can also occur in adults, including older adults and seniors."
+    answer: "Rickets is primarily a disease of growing bones, so it is far more common in kids than mature goats. Older goats with severe vitamin D or mineral deficiencies are more likely to develop osteoporosis or arthritis than true rickets."
   - question: "What is rickets and what causes it in old goats?"
     answer: "Rickets is a condition that affects old goats and other livestock. It is caused by a lack of certain important nutrients in their diet, usually due to poor-quality feed or exposure to stressful conditions."
   - question: "How can you tell if your goat has rickets?"

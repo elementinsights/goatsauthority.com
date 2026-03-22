@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Pull a Cart?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, you need to be careful when training a goat to pull a cart. Goats are not naturally inclined to do this, and you will need to put in some work to get them used to it."
+  text: "Yes, goats can pull small carts. A healthy, full-grown goat can pull roughly 1.5 times its own body weight on flat ground. Large breed wethers like Boers and Nubians make the best cart goats."
 toc:
   - label: "Can a goat pull a cart?"
     href: "#can-a-goat-pull-a-cart"
@@ -35,11 +35,11 @@ faq:
   - question: "Can a goat pull a cart?"
     answer: "Goats can pull carts. In fact, they are often used for this purpose in farming and agriculture. Goats are strong animals and can easily pull a cart loaded with supplies or equipment. And also, since they are small animals, they can maneuver in tight spaces and around obstacles."
   - question: "How do you train a goat to pull a cart?"
-    answer: "Training a goat to pull a cart requires time, patience, and a positive reinforcement-based approach. Like all animals, goats are individuals with their own unique temperaments and learning styles, so it's crucial to take these factors into account when designing a training plan."
+    answer: "Start harness training around 6-12 months old but don't attach a cart until the goat is physically mature at around 2 years. Let the young goat wear the harness around the pasture first, then introduce an empty cart and gradually add weight over several weeks."
   - question: "What kind of care and equipment do you need for a goat cart?"
-    answer: "Assuming you have already built or purchased a cart, there are still a few things you need to do in order to make it goat-ready."
+    answer: "Use a goat-specific driving harness, not a dog harness, with padded breast straps to prevent rubbing. The cart should have two wheels, sit low to the ground, and have shafts the right length for your goat."
   - question: "Can all breeds of goats pull carts?"
-    answer: "Most people think of goats as String instruments with four legs. Goats are, in fact, incredibly versatile creatures that can be used for a variety of purposes."
+    answer: "No, smaller breeds like Pygmies and Nigerian Dwarfs aren't suited for cart work. Stick with large breeds weighing at least 150 pounds as adults, such as Boers, Nubians, Alpines, or Saanens."
 ---
 
 Yes, goats can pull small carts, and they've been doing it for centuries. With the right breed, proper training, and a well-fitted harness, a goat can be a surprisingly strong little draft animal.

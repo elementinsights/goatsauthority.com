@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Grapes? (Hazards, Serving Size and Benefits)"
-description: "I'm a goat owner, just like many of you. One question that often comes up is about their diet, specifically, can goats eat grapes? It's important to know what our four-legged friends can and cannot consume for their health."
+description: "I'm a goat owner, just like many of you. One question that often comes up is about their diet, specifically, can goats eat grapes? It's important to know what our goats can and cannot consume for their health."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-20
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Grapes?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats should not be fed too many grapes at once as it may upset their stomachs due to the high sugar content present in these fruits. So next time you're enjoying some fresh grapes and wonder if your furry friend would like one too, go ahead."
+  text: "Yes, goats can eat grapes safely. They love the sweetness, and 5 to 10 grapes per adult goat is a good serving size two to three times per week."
 toc:
   - label: "Can Goats Eat Grapes?"
     href: "#can-goats-eat-grapes"
@@ -29,9 +29,9 @@ faq:
   - question: "Can Goats Eat Grapes?"
     answer: "Goats are known for their diverse diet. But can goats eat grapes? Yes, they certainly can. Grapes are not harmful to goats in any way. However, stick to small amounts here."
   - question: "Can Goats Eat Rotten Grapes?"
-    answer: "Goats are known for their strong stomachs. They can eat many things humans cannot. But what about rotten grapes?"
+    answer: "Skip rotten or fermented grapes entirely. When grapes break down, they produce alcohol, which can cause bloating and stomach pain in goats."
   - question: "Why Goats Love Grapes"
-    answer: "Goats are known for their love of food. They enjoy a variety of fruits and vegetables, including grapes. Grapes make an excellent treat because they're sweet and easy to eat."
+    answer: "Goats love grapes because of the natural sweetness. They also enjoy grapevine leaves, and many goat farmers plant grape vines specifically as browse for their herd."
   - question: "Can Goats Eat Grapevines, Leaves, and Roots?"
     answer: "Goats can eat grapevine leaves, and they love them. The vines and roots are safe too. Many goat farmers plant grape vines specifically as browse for their herd."
 ---

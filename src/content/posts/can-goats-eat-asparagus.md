@@ -33,13 +33,13 @@ toc:
     href: "#can-goats-eat-asparagus-stems"
 faq:
   - question: "Can Goats Eat Asparagus?"
-    answer: "Can goats eat asparagus? Yes, they can. Goats enjoy a variety of foods and asparagus is one of them. This vegetable provides nutrients that are beneficial to their health such as fiber, vitamins A, C and K."
+    answer: "Yes, asparagus is completely safe for goats raw or cooked. It is high in folate, fiber, and vitamins A, C, and K. Chop stalks into 2-3 inch pieces for easy chewing. Avoid ornamental asparagus fern, which is toxic."
   - question: "Can Goats Eat Asparagus Leaves?"
-    answer: "Goats can indeed eat asparagus leaves. This veggie is safe for them and they usually find it tasty too. Asparagus provides good nutrients, including vitamins A, C, E and K. But remember to feed in moderation. Too much of anything isn’t good for goats’ digestion system."
+    answer: "Yes, the feathery foliage on garden asparagus plants is safe for goats. Letting goats into the asparagus patch after harvest season is a great way to clean up old ferns."
   - question: "Can Nigerian Dwarf Goats Eat Asparagus?"
-    answer: "Nigerian Dwarf goats can indeed eat asparagus. This breed of goat enjoys a varied diet and will happily munch on these green spears. Asparagus is safe for them, containing many nutrients that are beneficial to their health."
+    answer: "Every breed of goat, including Nigerian Dwarfs, can eat asparagus safely. Just adjust the portion size to match the animal. A couple of small pieces is plenty for a miniature breed."
   - question: "Can Baby Goats Eat Asparagus?"
-    answer: "Baby goats, also known as kids, can indeed eat asparagus. It’s safe and non-toxic for them. But remember to introduce it slowly into their diet. Too much at once may upset their stomachs because they’re not used to it yet."
+    answer: "Kids can eat asparagus once they are eating solid food, usually around 2-3 weeks old. Cut it into smaller pieces and introduce it gradually alongside their regular hay and grain."
 ---
 Goats are known for their curious appetites, and asparagus is one of those vegetables that’s perfectly fine to share with them. It’s safe raw or cooked, and most goats genuinely enjoy it.
 

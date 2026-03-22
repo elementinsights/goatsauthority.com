@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get Pregnant When Not in Heat?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year."
+  text: "No, a goat cannot get pregnant when she is truly not in heat. Ovulation only happens during estrus. However, silent heats are real and can fool owners into thinking the doe wasn't cycling when she actually was."
 toc:
   - label: "Can a goat get pregnant when not in heat?"
     href: "#can-a-goat-get-pregnant-when-not-in-heat"
@@ -33,9 +33,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat get pregnant when not in heat?"
-    answer: "A goat can get pregnant when not in heat. This is because goats have what is known as a collateral estrus cycle, which means that they can ovulate and become pregnant at any time during the year. In addition, does are more likely to conceive in the fall and winter."
+    answer: "No, conception only happens during estrus when the doe ovulates. If a doe appears to conceive out of heat, she almost certainly had a silent heat where she showed no obvious external signs but was still fertile."
   - question: "What is the goat's reproductive cycle?"
-    answer: "Goats are polyestrous, meaning they can breed at any time of year. Despite that, their reproductive cycle is seasonal, with the greatest activity occurring in the fall."
+    answer: "Does are seasonally polyestrous, cycling every 18 to 21 days during breeding season, which runs roughly from August through January for most breeds. Some breeds like Nigerian Dwarfs and Boer goats can cycle year-round."
   - question: "How do you know when a goat is in heat?"
     answer: "There are a few telltale signs that indicate when a goat is in heat. One of the most obvious signs is changes in behavior. A doe in heat may become more agitated and restless, bleating more often than usual."
   - question: "What are some common breeding methods for goats?"

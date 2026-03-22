@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Black Walnut Leaves?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Black walnut leaves are safe for goats to eat and can actually be beneficial for their health. The leaves contain tannins, which have astringent and antimicrobial properties."
+  text: "Goats can browse on small amounts of black walnut leaves without serious problems, but it is not a feed you should offer on purpose. The tree produces juglone, a compound that can cause digestive upset in larger amounts."
 toc:
   - label: "Can goats eat black walnut leaves?"
     href: "#can-goats-eat-black-walnut-leaves"

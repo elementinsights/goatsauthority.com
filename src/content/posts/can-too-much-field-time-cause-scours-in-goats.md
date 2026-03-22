@@ -11,7 +11,7 @@ imageAlt: "Can Too Much Field Time Cause Scours In Goats"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Too much field time can cause scours in goats. If a goat is allowed to graze for too long, they can develop an infection of the gastrointestinal tract, which can lead to scours."
+  text: "Yes, too much time on rich pasture can cause scours in goats. The main problem is the sudden dietary shift from dry hay to lush green grass, which overwhelms the rumen and throws the gut bacteria out of balance."
 toc:
   - label: "Can too much field time cause scours in goats?"
     href: "#can-too-much-field-time-cause-scours-in-goats"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can too much field time cause scours in goats?"
-    answer: "Too much field time can cause scours in goats. If a goat is allowed to graze for too long, they can develop an infection of the gastrointestinal tract, which can lead to scours. They also may eat things that are contaminated with bacteria, which can cause scours."
+    answer: "Yes, too much time on rich pasture can cause scours in goats. The sudden shift from dry hay to lush green grass overwhelms the rumen and throws gut bacteria out of balance. Wet pasture also carries heavier parasite loads, which can cause diarrhea."
   - question: "What is scours and what are the symptoms of scours in goats?"
     answer: "Scours is the name for diarrhea in goats. It can be caused by a number of different things, including viruses, bacteria, and parasites."
   - question: "How to prevent your goat from getting sick in the first place?"

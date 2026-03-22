@@ -35,9 +35,9 @@ faq:
   - question: "What are pine chips and what are they used for?"
     answer: "Pine chips are small chunks of wood that are created when unwanted trees are cut down and processed into usable material. Depending on their intended use, these wood chips can be dried and ground into a fine powder, or they can simply be left in their natural form."
   - question: "What should you consider before using pine chips as bedding for goats?"
-    answer: "When considering pine chips as bedding for goats, there are several important factors to keep in mind. For one thing, you should make sure that you only use pine chips from sustainably-harvested trees."
+    answer: "Use kiln-dried pine to reduce volatile oils that can irritate airways. Never use cedar shavings, which contain toxic aromatic oils, and make sure the chips come from untreated wood rather than painted or pressure-treated lumber."
   - question: "How do you use pine chips as bedding for goats?"
-    answer: "When it comes to using pine chips as bedding for goats, there are a few key considerations to keep in mind."
+    answer: "Spread a layer of pine shavings about four to six inches deep across the floor. The deep litter method works well, where you add fresh shavings on top and do a full cleanout two to four times per year."
 ---
 
 Pine chips and pine shavings are one of the best bedding options you can use for goats. They are absorbent, control odor well, and the natural oils in pine have mild antibacterial properties that help keep your barn cleaner between mucking sessions.

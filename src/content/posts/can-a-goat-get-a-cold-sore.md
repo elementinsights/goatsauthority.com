@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Get a Cold Sore?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1)."
+  text: "Goats don't get human cold sores caused by HSV-1. What goats do get is orf (sore mouth or contagious ecthyma), a parapoxvirus that produces similar-looking crusty lesions around the mouth."
 toc:
   - label: "Can a goat get a cold sore?"
     href: "#can-a-goat-get-a-cold-sore"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat get a cold sore?"
-    answer: "A goat can get a cold sore. However, it's rare for goats to catch the virus that causes cold sores, known as herpes simplex virus type 1 (HSV-1). HSV-1 is most commonly transmitted to humans through contact with saliva, such as kissing or sharing utensils."
+    answer: "Goats don't get human cold sores from HSV-1. What looks like a cold sore on a goat is almost always orf (sore mouth), caused by a parapoxvirus that produces crusty, raised lesions around the mouth and nostrils."
   - question: "What are the causes of cold sores in goats?"
-    answer: "There are several possible causes of cold sores in goats. One is a virus known as the caprine herpesvirus, which is closely related to the virus that causes eruptions in humans."
+    answer: "Orf is caused by a parapoxvirus that spreads through direct contact with infected animals or contaminated equipment. The virus can survive in dried scabs on the ground for months, even through harsh weather."
   - question: "How to treat cold sores in goats"
-    answer: "If you have a goat with a cold sore, the first thing you'll want to do is clean the affected area. This can be done with a gentle cleanser and warm water. Be sure to rinse the area well afterward."
+    answer: "Orf is self-limiting and heals on its own in about 3 to 4 weeks. Keep the sores clean with dilute chlorhexidine or betadine, and apply antibiotic ointment to prevent secondary bacterial infection."
   - question: "How is a cold sore in goats diagnosed?"
-    answer: "Cold sores in goats are diagnosed in much the same way as they are in humans. In some cases, a blood test may be ordered to confirm the diagnosis. There's no cure for HSV, but treatments are available to help manage the symptoms and prevent outbreaks."
+    answer: "A vet can usually diagnose orf by examining the crusty, raised scabs in a ring pattern. If there is any doubt, a lab can test a scab sample to confirm the parapoxvirus."
 ---
 
 If you've noticed crusty, scabby sores around your goat's mouth, you're probably wondering if goats can get cold sores. The answer is more complicated than a simple yes or no, because what most people call a "cold sore" on a goat is usually something else entirely.

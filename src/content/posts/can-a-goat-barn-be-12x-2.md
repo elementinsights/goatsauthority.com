@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Barn be 12x 2?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "They may also become stressed, which can lead to health problems. In addition, a small barn will be difficult to keep clean and spacious for the goats to play in."
+  text: "No, a 12x2 foot barn is far too narrow for goats. At only 2 feet wide, a goat can't even turn around. You need at least 15 to 20 square feet per goat, making a 12x12 barn a much better starting point."
 toc:
   - label: "Can a goat barn be 12x 2?"
     href: "#can-a-goat-barn-be-12x-2"
@@ -33,7 +33,7 @@ faq:
   - question: "Do goat barns need to be insulated?"
     answer: "Goat barns do not need to be insulated. Still, it's a good idea to insulate them if you live in a climate with extreme temperatures. Insulation helps to keep the barn warm in the winter and cool in the summer, which can help to keep your goats comfortable."
   - question: "Do I need a permit to build a goat barn?"
-    answer: "The requirements for building a goat barn vary from state to state, so you need to check with your local."
+    answer: "Building permit requirements vary by state and county, so check with your local zoning office before construction. Many rural areas allow agricultural structures without permits, but it's worth confirming first."
 ---
 
 A 12x2 foot barn is way too narrow for goats. That gives you only 24 square feet of floor space, and your goats will barely be able to turn around in there, let alone lie down comfortably.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Recover From Polio Without Medication?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment."
+  text: "In most cases, no. Goat polio (PEM) is caused by a thiamine deficiency, not a virus. Without thiamine injections, most goats will die or suffer permanent brain damage. Thiamine is cheap and can save your goat's life if given promptly."
 toc:
   - label: "Can goats recover from polio without medication?"
     href: "#can-goats-recover-from-polio-without-medication"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats recover from polio without medication?"
-    answer: "Goats can recover from polio without medication, but it will take time and proper care. The best thing you can do for your goat is to provide them with a clean and safe environment. Make sure they have plenty of fresh water and food."
+    answer: "In most cases, no. A goat with full-blown PEM that does not receive thiamine injections will likely die or suffer permanent brain damage. Thiamine is cheap, widely available, and should be given as soon as symptoms appear."
   - question: "What is polio and what are the symptoms in goats?"
-    answer: "Polio is a viral disease that primarily affects children under the age of five. The virus is spread through contact with contaminated feces and can cause paralysis and death. Early symptoms of polio include fever, vomiting, and muscle weakness."
+    answer: "Goat polio (PEM) is a thiamine deficiency, not a virus. It has nothing to do with human polio. Symptoms include stargazing, blindness, muscle tremors, circling, head pressing, and seizures. Without treatment, death can follow within 24 to 72 hours."
   - question: "How do goats contract polio?"
-    answer: "There are three main ways that goats can contract polio: through contaminated food or water, contact with an infected animal, or contact with an infected person."
+    answer: "PEM is not contagious. It develops when something disrupts the rumen bacteria that produce thiamine. Common triggers include sudden diet changes, high-grain rations, sulfur-rich feeds, or plants containing thiaminase like bracken fern."
   - question: "What are the treatments for polio in goats?"
-    answer: "There are two primary treatments for polio in goats: supportive care and vaccination. Supportive care involves providing the goat with plenty of rest, clean water, and good quality food. If the goat is having trouble breathing, it may also need to be given oxygen."
+    answer: "The treatment is thiamine (vitamin B1) injections at about 5 mg per pound of body weight given intramuscularly every 6 hours for the first 24 hours. Most goats that get thiamine within the first few hours show dramatic improvement within 12 to 24 hours."
 ---
 Goat polio has nothing to do with the human polio virus. They share a name and that is where the similarity ends.
 

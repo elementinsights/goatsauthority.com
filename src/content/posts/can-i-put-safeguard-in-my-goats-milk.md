@@ -11,7 +11,7 @@ imageAlt: "Can I Put Safeguard In My Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can put a safeguard in goat's milk without any problem. In fact, it is often recommended to do so in order to protect the goat's milk from bacteria."
+  text: "You should not add SafeGuard to goat milk. SafeGuard (fenbendazole) is a dewormer given orally to goats, not a milk additive. If your doe is treated with SafeGuard, dump the milk for 4 to 6 days before using it again."
 toc:
   - label: "Can I put safeguard in my goats milk?"
     href: "#can-i-put-safeguard-in-my-goats-milk"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I put safeguard in my goats milk?"
-    answer: "You can put a safeguard in goat's milk without any problem. In fact, it is often recommended to do so in order to protect the goat's milk from bacteria. They are also effective in protecting the milk from spoilage and other contaminants."
+    answer: "No, you should not add SafeGuard to goat milk. SafeGuard (fenbendazole) is a dewormer given orally to goats, not a milk additive. If your milking doe has been treated with SafeGuard, dump the milk for 4 to 6 days before using it again."
   - question: "What is goat's milk and why is it recommended for people who are lactose intolerant?"
     answer: "Goat's milk is a type of milk that is produced by domestic goats. Unlike cow's milk, which is commonly consumed by people around the world, goat's milk contains lower levels of lactose, making it a popular choice for those who are lactose intolerant."
-  - question: "How does safeguard work and what are the benefits of using it in goat's milk?"
-    answer: "Safeguard is a type of probiotic that is added to goat's milk to help improve gut health and support optimal digestion."
+  - question: "How does SafeGuard work and what are its benefits for goats?"
+    answer: "SafeGuard (fenbendazole) works by disrupting the energy metabolism of parasitic worms, killing them inside the goat's gut. It is effective against roundworms, hookworms, and some tapeworms. The benefit is to the goat's health, not the milk."
   - question: "Are there any risks associated with using Safeguard in goat's milk?"
-    answer: "There are no known risks associated with using Safeguard in goat's milk. This probiotic supplement is safe for both goats and humans, and there have been no reports of adverse effects."
+    answer: "The main risk is consuming milk that still contains fenbendazole residues before the withdrawal period is up. Fenbendazole is used off-label in goats, so most vets recommend waiting at least 4 to 6 days after the last dose before using the milk."
 ---
 Let me clear something up right away: SafeGuard is not a probiotic or a milk additive. SafeGuard is the brand name for fenbendazole, which is a dewormer (anthelmintic) used to kill intestinal parasites in livestock.
 

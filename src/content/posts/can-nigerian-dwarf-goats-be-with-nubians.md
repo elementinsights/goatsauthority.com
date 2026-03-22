@@ -37,7 +37,7 @@ faq:
   - question: "What are the benefits of crossbreeding goats?"
     answer: "There are several benefits to crossbreeding goats, including enhanced disease resistance, stronger offspring, and improved milk production."
   - question: "What are the potential problems with crossbreeding goats?"
-    answer: "Crossbreeding is a commonly used practice in the farming industry, as it offers many benefits for both livestock producers and consumers."
+    answer: "The size difference creates concerns at the feeder since a 170-pound Nubian can easily push a 65-pound Nigerian Dwarf off the hay rack. A Nubian buck should also never be put with Nigerian Dwarf does, as the resulting kids could be too large for a small doe to deliver safely."
 ---
 Yes, Nigerian Dwarf goats and Nubians can absolutely live together. I've seen plenty of farms run both breeds in the same pasture without any issues.
 

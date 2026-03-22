@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Potato Shavings?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things."
+  text: "Goats can eat potato shavings in small amounts as long as they are not green. Green potato shavings contain solanine, a toxic compound that can make goats seriously ill."
 toc:
   - label: "Can goats eat potato shavings?"
     href: "#can-goats-eat-potato-shavings"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat potato shavings?"
-    answer: "Goats can eat potato shavings without any problem. Their digestive systems are different from ours, so they are able to process these types of things. The main reason that goats can eat potato shavings is that their intestines are long. This allows them to digest roughage better than other animals."
+    answer: "Goats can eat potato shavings in small amounts as long as the shavings are not green. Green potato shavings contain solanine, a toxic compound that can cause drooling, digestive upset, and neurological problems."
   - question: "Why goats can eat potato shavings?"
     answer: "Goats are able to eat potato shavings because they have a four-chamber stomach. The first chamber, the rumen, ferments the food and breaks down cellulose."
   - question: "What are the benefits of goat-eating potato shavings?"
-    answer: "Potato shavings are an excellent source of nutrition for goats. They are high in fiber and protein, and they also contain a variety of vitamins and minerals."
+    answer: "Potato shavings offer some starch and energy, along with small amounts of potassium and vitamin C. They are best treated as a kitchen scrap treat rather than a nutritional supplement for goats."
   - question: "What are the risks associated with goats eating potato shavings?"
-    answer: "There are a few risks associated with goats eating potato shavings. The most serious is the possibility of choking. Potato shavings are small and dry, and if a goat inhales them, they could get caught in its throat and block the airway."
+    answer: "The biggest risk is solanine poisoning from green potato shavings. Solanine develops when potatoes are exposed to light and concentrates in green skin, sprouts, and soft spots. Symptoms include drooling, weakness, and neurological problems."
 ---
 Potato shavings are one of those kitchen scraps that goat owners often wonder about. The short answer is yes, goats can eat potato shavings in small amounts, but there is one important thing you need to watch for.
 

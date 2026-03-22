@@ -35,11 +35,11 @@ faq:
   - question: "Can a goat eat sticker bushes?"
     answer: "A goat can consume sticker bushes. Actually, goats are among the few species of animals that can consume this kind of plant without any harm. Sticker bushes are a member of the family Euphorbiaceae, which also includes several hazardous plants."
   - question: "What are sticker bushes and what do they look like?"
-    answer: "Sticker bushes, also known as Arctium lappa or burdock, are a common type of weed that can be found in many gardens and yards. The plant gets its name from the sharp, barbed seeds that cling to clothing and fur."
+    answer: "Sticker bushes include thorny plants like blackberry, multiflora rose, thistle, honey locust, and burdock. These are plants that most livestock won't touch, but goats will strip them down to nothing given enough time."
   - question: "What are the benefits of goats eating sticker bushes?"
-    answer: "Goats are very versatile creatures. They can be used for their milk, meat, hair, and skin. They can also be used as pack animals and for agricultural purposes such as clearing land."
+    answer: "Goats are an environmentally friendly alternative to herbicides for clearing overgrown land. They don't compact soil, leave no chemical residue, and fertilize as they go. A herd of 30 goats can clear an acre of heavy brush in about a week."
   - question: "What are the risks of goats eating sticker bushes?"
-    answer: "Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them."
+    answer: "The main risk isn't from the thorns but from pesticides or herbicides that may have been sprayed on the plants. Goats that gorge on a single plant species can also develop digestive upset, especially with high-tannin plants."
 ---
 
 Yes, goats eat sticker bushes and thorny plants without hesitation. In fact, this is one of the things goats do better than any other livestock, and it's a big reason people hire goat herds for land clearing.

@@ -11,7 +11,7 @@ imageAlt: "Can a Toddler Catch a Disease from a Baby Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E."
+  text: "Yes, a toddler can catch diseases from a baby goat. The most common zoonotic risks are E. coli, Cryptosporidium, and Salmonella, which spread through contact with goat droppings. Thorough hand washing with soap and water is essential."
 toc:
   - label: "Can a toddler catch a disease from a baby goat?"
     href: "#can-a-toddler-catch-a-disease-from-a-baby-goat"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a toddler catch a disease from a baby goat?"
-    answer: "A toddler is more likely to catch a disease from a baby goat if they are not up-to-date on their vaccinations. Goats can carry bacteria and viruses that cause diseases, such as brucellosis, salmonella, and E. coli, that are dangerous to them."
+    answer: "Yes. The most common zoonotic risks from goats are E. coli, Cryptosporidium, and Salmonella, all of which spread through contact with goat droppings. Thorough hand washing with soap and water after every interaction is essential."
   - question: "Are there any benefits to letting your toddler play with baby goats aside from being adorable creatures?"
-    answer: "Baby goats are undeniably adorable creatures, and it's no surprise that many parents enjoy letting their toddlers play with them. Despite that, there are also a number of benefits to this activity beyond the cuteness factor."
+    answer: "Interacting with farm animals teaches children about responsibility and animal care. It can also be a fun outdoor activity when proper hygiene precautions are followed."
   - question: "What are the risks of letting your toddler play with baby goats?"
-    answer: "While there are many benefits to letting your toddler play with baby goats, there are also some risks to consider. First and foremost, there's the risk of disease."
+    answer: "The main risk is zoonotic disease transmission. Toddlers touch everything and then touch their faces, making them especially vulnerable to E. coli, Crypto, and Salmonella from goat feces."
   - question: "What diseases can baby goats carry and how serious are they?"
-    answer: "Goats can be infected by a variety of parasites, both internal and external. Common internal parasites include stomach worms, lungworms, and intestinal worms."
+    answer: "E. coli can cause kidney failure in young children. Cryptosporidium causes watery diarrhea lasting up to two weeks. Orf (sore mouth) causes painful blisters on a child's hands from direct contact with an infected goat."
 ---
 
 Yes, a toddler can catch a disease from a baby goat. Young children are at higher risk for zoonotic infections because their immune systems are still developing and they tend to put their fingers in their mouths constantly.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Timothy Hay?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, it's important to note that not all types of hay are suitable for goats. For example, alfalfa hay is high in calcium and should only be fed to goats in small amounts."
+  text: "Yes, timothy hay is a safe and nutritious grass hay for goats. It is high in fiber with 8-11% protein, making it especially good for adult wethers and bucks where lower protein reduces urinary calculi risk."
 toc:
   - label: "Can goats eat timothy hay?"
     href: "#can-goats-eat-timothy-hay"
@@ -29,11 +29,11 @@ faq:
   - question: "Can goats eat timothy hay?"
     answer: "Goats can eat timothy hay. Timothy hay is a type of grass that is rich in nutrients and fiber. It's an excellent source of food for goats, providing them with the nutrients they need to stay healthy and happy."
   - question: "Do all goats eat timothy hay?"
-    answer: "There are a variety of different types of hay that can be fed to goats, and timothy hay is just one option. Goat owners may choose to feed timothy hay to their animals for a number of reasons, including its high nutritional value."
+    answer: "Not all goats prefer timothy. Adult wethers and pet goats thrive on it as their primary roughage. Kids and does in milk need more protein than timothy alone provides, so they need alfalfa mixed in or supplemental grain."
   - question: "Can a pregnant goat eat timothy hay?"
-    answer: "Goats are browsers rather than grazers, which means that they prefer to eat leaves and other soft plant matter rather than grass."
+    answer: "A pregnant goat can eat timothy hay, but timothy alone won't provide enough protein for does in their last trimester. Supplement with alfalfa or grain to ensure pregnant does get the 15%+ protein they need."
   - question: "Can a lactating goat eat timothy hay?"
-    answer: "Lactating goats need a high-quality diet to produce milk. Timothy hay is a type of hay that is high in nutrients and fiber, making it an excellent food source for lactating goats."
+    answer: "Lactating goats can eat timothy hay, but it should be blended with alfalfa at roughly a 50/50 mix to meet their higher protein and calcium demands for milk production."
 ---
 
 Timothy hay is one of the most widely available grass hays in the country, and yes, goats can eat it. But whether it's the right choice for your particular goats depends on what they need nutritionally.

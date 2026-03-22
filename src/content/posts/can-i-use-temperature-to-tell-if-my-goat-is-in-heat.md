@@ -11,7 +11,7 @@ imageAlt: "Can I Use Temperature To Tell If My Goat Is In Heat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners."
+  text: "Body temperature alone is not a reliable indicator of estrus in goats. Behavioral signs like tail flagging, vocalization, and a swollen vulva are far more dependable for heat detection."
 toc:
   - label: "Can I use temperature to tell if my goat is in heat?"
     href: "#can-i-use-temperature-to-tell-if-my-goat-is-in-heat"
@@ -31,9 +31,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I use temperature to tell if my goat is in heat?"
-    answer: "You can use temperature to determine if your goat is in heat. In fact, this is one of the most common methods used by goat owners. They are also relatively accurate when it comes to determining if a doe is in heat."
+    answer: "Body temperature is not a dependable indicator of estrus in goats. A doe may show a slight spike during heat, but the change is too small and inconsistent to separate from normal daily temperature variation."
   - question: "What is the average temperature range for goats in heat?"
-    answer: "The average temperature range for goats in heat is typically between 80-100 degrees Fahrenheit. This range depends heavily on a number of factors, including geographic location, the time of year, and the specific breed of goat."
+    answer: "A normal goat's rectal temperature ranges from 101.5 to 103.5 degrees Fahrenheit. A doe in heat may run slightly above her baseline, but this is not consistent enough across individual animals to be useful for heat detection."
   - question: "What are some of the signs that a goat is in heat?"
     answer: "There are several definitive indicators that a goat is ready to mate. These include increased vocalization and movement toward other animals, visibly swollen or red genitals, and unusual sexual interest or aggression directed at other goats."
   - question: "Are there risks associated with breeding goats?"

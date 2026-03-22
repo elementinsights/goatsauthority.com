@@ -37,7 +37,7 @@ faq:
   - question: "Can baby goats eat lettuce?"
     answer: "Baby goats are typically weaned around 6-8 weeks of age, at which point they can begin eating solid food. While baby goats can technically eat lettuce, it's not the best option for them."
   - question: "What is the recommended serving size of lettuce for goats?"
-    answer: "One of the most important considerations when feeding goats is to provide them with ample access to fresh, green vegetation. Goats are browsers, which means that their diet should consist mostly of browse - the leaves and twigs of shrubs and trees."
+    answer: "There is no strict limit since lettuce is so low in calories and nutrients. A few handfuls per goat is a reasonable treat amount. Don't replace any portion of their actual diet with lettuce."
 ---
 Yes, goats can eat lettuce, but don't expect them to get excited about it. Lettuce is about 95% water, so it's basically a crunchy drink with minimal nutritional value.
 

@@ -35,7 +35,7 @@ faq:
   - question: "How does the bubonic plague spread and can it be prevented or treated in goats?"
     answer: "The bubonic plague is a bacterial infection that is spread by fleas. When an infected flea bites a goat, the bacteria enter the goat's bloodstream and begin to multiply."
   - question: "What should goat owners do if they suspect their pet has contracted the bubonic plague?"
-    answer: "Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals."
+    answer: "Contact your veterinarian and local public health department immediately, especially if you live in a plague-endemic region like parts of New Mexico, Arizona, or Colorado. Plague is treatable with antibiotics when caught early."
 ---
 
 Bubonic plague in goats is something you'll probably never deal with in your entire life of keeping goats. It's technically possible, but the odds are about as slim as it gets.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pumpkin Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats should not eat pumpkin leaves. Pumpkin leaves are poisonous to goats and can cause them to become very sick."
+  text: "Pumpkin leaves are completely safe for goats and most goats love them. They are nutritious, providing vitamins A and C, iron, calcium, and fiber."
 toc:
   - label: "Can goats eat pumpkin leaves?"
     href: "#can-goats-eat-pumpkin-leaves"

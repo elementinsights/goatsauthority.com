@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cooked Pasta?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat cooked pasta. In fact, goats are known to be very curious creatures and will often try to eat anything they come across, including cooked pasta."
+  text: "Plain cooked pasta is safe for goats in small amounts, but it is mostly empty carbs with no real nutritional value. Never feed pasta with sauce, as garlic and onion are toxic to goats."
 toc:
   - label: "Can goats eat cooked pasta?"
     href: "#can-goats-eat-cooked-pasta"
@@ -37,13 +37,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat cooked pasta?"
-    answer: "Goats can eat cooked pasta. In fact, goats are known to be very curious creatures and will often try to eat anything they come across, including cooked pasta. Cooked pasta also provides a good source of carbohydrates and energy for goats."
+    answer: "Plain cooked pasta is safe in small amounts but offers almost no nutritional value. It is mostly carbohydrates with very little protein, fiber, or vitamins. Think of it as junk food for goats."
   - question: "Can a pregnant goat eat cooked pasta?"
-    answer: "it's generally considered safe for pregnant goats to consume cooked pasta. Pasta is a good source of complex carbohydrates, which can help to provide energy for the growing goat and developing fetus."
+    answer: "A small handful of plain cooked pasta won't harm a pregnant doe, but it provides no meaningful nutrition. Pregnant goats need quality hay, alfalfa, and balanced grain rather than empty carbs."
   - question: "Can a baby goat eat cooked pasta?"
-    answer: "Goats of all ages can eat cooked pasta. But, you need to start with small amounts and gradually increase the amount as your goat gets used to the new food. On top of that, you need to make sure that the cooked pasta is not too salty or oily, as this can be harmful to goats."
+    answer: "Kids should focus on milk, hay, and age-appropriate feed rather than pasta. If given at all, it should be a tiny amount of plain cooked noodles with no sauce, salt, or oil."
   - question: "Can a lactating goat eat cooked pasta?"
-    answer: "While there's no definitive answer to this question, it's generally believed that a lactating goat can eat cooked pasta without any problems. Pasta is a portion of relatively easy food for goats to digest, and cooked noodles are unlikely to cause any digestive issues."
+    answer: "Lactating does need extra protein and calories, which pasta does not provide. Alfalfa hay and quality goat feed are far better choices for supporting milk production than plain noodles."
 ---
 
 If you've got leftover noodles from dinner and a goat giving you that look, you might be wondering if sharing is safe. The answer is yes, plain cooked pasta won't hurt your goat, but it's about as useful to them as cardboard is to us.

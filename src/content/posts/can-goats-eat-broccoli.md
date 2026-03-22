@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Broccoli?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Fiber is important for goats because it helps them stay full and provides them with energy. Sugar can be harmful to goats, so it's important to choose plants that are low in sugar."
+  text: "Yes, goats can eat broccoli safely. The florets, stems, and leaves are all edible, with the leaves being the most nutritious part. Feed in moderation since brassicas can cause gas and bloating."
 toc:
   - label: "Can goats eat broccoli?"
     href: "#can-goats-eat-broccoli"
@@ -35,11 +35,11 @@ faq:
   - question: "Can goats eat broccoli?"
     answer: "Goats can eat broccoli. In fact, broccoli is a great source of nutrition for goats. Goats are browsers, which means that they like to eat a variety of different plants. Broccoli is a good option for goats because it's high in fiber and low in sugar."
   - question: "What is broccoli and what are its benefits to goats?"
-    answer: "Broccoli is a type of vegetable that belongs to the cabbage family. It's an annual plant that produces green flowers."
+    answer: "Broccoli is a brassica vegetable related to cabbage and cauliflower. It provides vitamins C and K, fiber, and minerals. The leaves are actually more nutrient-dense than the florets."
   - question: "What are the risks of feeding broccoli to goats?"
-    answer: "While goats will eat just about anything, that doesn't mean that everything is good for them. In fact, there are some plants that can be dangerous, even deadly, if ingested by goats."
+    answer: "The main risk is gas and bloating. Broccoli contains sulfur compounds that produce gas during digestion. Keep portions small, and offer baking soda free-choice in case of gas buildup."
   - question: "How to serve broccoli to goats?"
-    answer: "Goats are notorious for being picky eaters. However, there are a few key things you can do to make sure your goats enjoy their broccoli."
+    answer: "Chop stems into bite-sized chunks and feed raw for maximum nutrition. No salt, sugar, or seasoning needed. For baby goats, cut everything into small pieces to prevent choking."
 ---
 
 Yes, goats can eat broccoli without any problems. It belongs to the brassica family alongside cabbage and cauliflower, and the whole plant is fair game for your herd.

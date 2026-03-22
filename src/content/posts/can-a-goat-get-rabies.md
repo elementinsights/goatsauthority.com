@@ -33,11 +33,11 @@ faq:
   - question: "Can a goat get rabies?"
     answer: "Goats can get rabies. However, the disease is relatively rare in goats, as they do not often come into contact with the primary carriers of the virus, such as wild animals. But it's still important to be aware of the signs of rabies in goats, as the disease can be deadly."
   - question: "What are the signs and symptoms of rabies in goats?"
-    answer: "Rabies is a serious disease that can affect any mammal, including goats. The virus is typically spread through the bite of an infected animal, and it can cause inflammation of the brain and spinal cord."
+    answer: "The earliest sign is usually a behavior change. A friendly goat may become withdrawn, or a shy one may act aggressive. As the disease progresses, look for excessive drooling, difficulty swallowing, stiff-legged walking, and paralysis."
   - question: "How long does it take for rabies to show up in goats?"
-    answer: "The incubation period is typically two to six weeks. However, there have been rare cases where symptoms have appeared as early as four days or as late as eight weeks after exposure."
+    answer: "The incubation period runs anywhere from two to six weeks after the bite. In rare cases, symptoms have shown up as early as four days or as late as eight weeks."
   - question: "How is rabies treated in goats?"
-    answer: "Though rabies is more commonly associated with dogs, any mammal can contract the virus. This includes goats, which are particularly susceptible to the disease. There are two primary methods of treating rabies in goats."
+    answer: "There is no treatment for rabies once symptoms appear. The disease is 100% fatal at that point. The only defense is prevention through annual vaccination with a killed rabies vaccine."
 ---
 
 Yes, goats can get rabies. It doesn't happen often, but when it does, the outcome is always the same and it's never good.

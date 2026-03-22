@@ -11,7 +11,7 @@ imageAlt: "Do Goats Have Good Eyesight?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, goats don't see colors the way we do. They can only see blues and yellows. This is because their retinas have fewer cones, which are the cells that detect colors."
+  text: "Yes, goats have excellent eyesight built for survival. Their rectangular pupils give them a panoramic field of view between 320 and 340 degrees, and a reflective layer behind the retina provides solid night vision."
 toc:
   - label: "Do goats have good eyesight?"
     href: "#do-goats-have-good-eyesight"

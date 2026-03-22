@@ -37,11 +37,11 @@ faq:
   - question: "Can goats eat citrus fruits?"
     answer: "Goats can eat citrus fruits. Citrus fruits are a good source of vitamin C, which is essential for goats. Citrus also provides goats with some fiber and other nutrients, such as potassium. Goats can eat oranges, lemons, grapefruits, and limes."
   - question: "Can all kinds of goats eat citrus fruits?"
-    answer: "Goats are members of the ruminant family, which includes cows, sheep, and deer. Ruminants have a four-chamber stomach that helps them digest plants more efficiently."
+    answer: "All breeds of goats can safely eat citrus fruits. Not every individual goat will enjoy the sour taste, but there is no breed-specific risk. Oranges tend to be the most popular variety."
   - question: "What are citrus fruits and what do they look like?"
-    answer: "Citrus fruits are a type of fruit that contains high levels of acidic juice. The most common citrus fruits include lemons, oranges, and grapefruits. These fruits are often used in cooking to add flavor or to provide a tart contrast to sweet dishes."
+    answer: "Citrus fruits include oranges, lemons, limes, grapefruit, and tangerines. The peels are actually the most nutritious part for goats, containing limonene, a compound with natural deworming properties."
   - question: "What is the nutritional value of citrus for goats?"
-    answer: "Citrus fruits are a good source of Vitamin C, which is essential for goats. Citrus also provides goats with some fiber and other nutrients, such as potassium. One cup of orange juice has about 110 calories and 26 grams of sugar. It also has about 2 grams of protein and 3 grams of fiber."
+    answer: "Citrus fruits are packed with vitamin C for immune support, plus potassium, folate, and dietary fiber. The peels are higher in fiber than the flesh, supporting healthy rumen function rather than just adding sugar."
 ---
 
 Yes, goats can eat citrus fruits. Oranges, lemons, limes, grapefruit, and tangerines are all safe for your herd.

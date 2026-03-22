@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Have Babies a Week Apart?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have babies a week apart because they have a short gestation period of around 145 days. So, if a doe gives birth and then conceives again quickly, it's not uncommon for her to have another baby within a week or so of the first."
+  text: "True week-apart births are extremely uncommon in goats. Most cases involve a retained or mummified kid being expelled, uterine inertia, or very rarely superfetation where one uterine horn conceives on a later cycle."
 toc:
   - label: "Can a goat have babies a week apart?"
     href: "#can-a-goat-have-babies-a-week-apart"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat have babies a week apart?"
-    answer: "Goats can have babies a week apart because they have a short gestation period of around 145 days. So, if a doe gives birth and then conceives again quickly, it's not uncommon for her to have another baby within a week or so of the first."
+    answer: "It's extremely uncommon. Most cases involve a retained or mummified kid being expelled days later, or uterine inertia where contractions stall before the last kid is born. True superfetation is documented but rare."
   - question: "How often do goats breed?"
-    answer: "Goats normally have one breeding season in the fall, which lasts for the entire year. However, certain goats might reproduce more frequently, particularly if they are housed in a suitable environment."
+    answer: "Most breeds are seasonally polyestrous, cycling every 18 to 21 days during the fall breeding season. After breeding, gestation runs about 145 to 155 days. Some breeds like Boers and Nigerian Dwarfs can cycle year-round."
   - question: "What are some common birthing complications?"
-    answer: "One common birthing complication is when the baby's head is too large to fit through the mother's pelvis. This is called cephalopelvic disproportion, and it usually results in a cesarean birth."
+    answer: "Malpresentation is the most common issue, where the kid is not positioned correctly for delivery. A doe in active labor that hasn't produced a kid within 30 minutes of hard pushing likely needs assistance."
   - question: "How can you tell when a goat is about to give birth?"
-    answer: "There are several signs that a goat is about to give birth. One of the most obvious signs is that the goat's belly will begin to swell as the kids develop. The goat may also become more restless and may start to build a nest in which to give birth."
+    answer: "Signs include ligaments on either side of the tail softening, the udder filling tightly, mucus discharge, restlessness, and the doe separating herself from the herd. Pawing at the ground and repeatedly lying down and standing up signal active labor is close."
 ---
 
 It's rare, but a goat can technically have babies a week apart. Most of the time what looks like a week-long gap between kids has a simpler explanation than you might think.

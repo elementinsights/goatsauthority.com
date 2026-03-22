@@ -35,9 +35,9 @@ faq:
   - question: "What is goat's milk and what are its benefits?"
     answer: "Goat's milk is a type of milk that is produced by goats. It is similar to cow's milk, but it has a higher fat content and a lower lactose content. Goat milk is a good source of protein, calcium, and other nutrients. It also contains beneficial enzymes and probiotics."
   - question: "How to freeze goat's milk?"
-    answer: "Goat's milk is a nutritious, versatile dairy product that can be used in many different recipes. While you can find goat's milk at most grocery stores, it can be more expensive than cow's milk."
+    answer: "Use clean glass mason jars or BPA-free plastic containers, leaving about an inch of headspace since milk expands. Flash-chill in an ice bath right after milking, then freeze within a couple of hours. Label every container with the freeze date."
   - question: "What are the hazards of freezing goat's milk?"
-    answer: "Goat's milk is a nutritious and healthy choice for many people, but it can be dangerous if it is frozen. When Goat's milk freezes, the water content expands and can burst the cell walls, which results in a loss of nutrients and a decrease in the quality of the milk."
+    answer: "The main issue is texture change. Freezing can cause the fat to separate, leaving thawed milk looking grainy. This doesn't mean it's bad — just shake it or blend on low speed. The nutritional value stays the same."
 ---
 
 Yes, goat milk freezes well and keeps for three to six months in the freezer. It's one of the best ways to stock up during peak production so you have milk on hand when your does go dry.

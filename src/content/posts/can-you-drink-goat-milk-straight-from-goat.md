@@ -11,7 +11,7 @@ imageAlt: "Can You Drink Goat Milk Straight From Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You cannot drink goat milk straight from the goat, as there are certain risks associated with it. No matter how fresh and clean the goat is, contamination can still occur due to bacteria and other germs that may be present on the animal's udder or skin."
+  text: "Yes, many people drink goat milk straight from the goat, though there are risks to consider. Raw milk can carry Listeria, E. coli, and other pathogens, so clean milking practices and rapid chilling are essential to minimize risk."
 toc:
   - label: "Can you drink goat milk straight from the goat?"
     href: "#can-you-drink-goat-milk-straight-from-the-goat"
@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you drink goat milk straight from the goat?"
-    answer: "You cannot drink goat milk straight from the goat, as there are certain risks associated with it. No matter how fresh and clean the goat is, contamination can still occur due to bacteria and other germs that may be present on the animal's udder or skin."
+    answer: "Yes, many people drink raw goat milk straight from the goat. It has been consumed for thousands of years, and small-farm families often drink it daily. However, raw milk can carry Listeria, E. coli, and Campylobacter, so clean milking practices and rapid chilling are essential."
   - question: "What is goat milk and where does it come from?"
     answer: "Goat milk is milk that comes from goats. Goats are a type of livestock that is often raised for their milk, meat, and fiber. There are many different breeds of goats, but all goats produce milk that is high in protein and fat."
   - question: "What are the benefits of drinking goat milk?"

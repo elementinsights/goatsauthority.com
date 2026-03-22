@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Swim?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can swim. In fact, they are pretty good swimmers. Goats are able to use their strong front legs to paddle, and their long tails help them steer. They are also able to hold their breath for a long time, which comes in handy when they are swimming underwater"
+  text: "Yes, goats can swim. Their legs are strong enough to keep them paddling through water, and they'll swim instinctively to escape danger. However, most goats prefer to stay dry and won't voluntarily jump into water."
 toc:
   - label: "Can a goat swim?"
     href: "#can-a-goat-swim"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat swim?"
-    answer: "Goats can swim. In fact, they are pretty good swimmers. Goats are able to use their strong front legs to paddle, and their long tails help them steer. They are also able to hold their breath for a long time, which comes in handy when they are swimming underwater."
+    answer: "Yes, goats can swim when they need to. Their legs are strong enough to paddle through water, and they'll swim instinctively in emergencies. However, most goats prefer to stay dry and won't voluntarily enter water."
   - question: "Do all goats swim?"
-    answer: "Most goats are excellent swimmers and love to play in the water. They are often seen swimming in ponds and lakes, and will even jump in if given the chance. Despite that, there are a few goats who do not like the water and will avoid it if possible."
+    answer: "Most goats avoid water when possible. Individual personality matters a lot, as some goats will wade into shallow creeks on hot days while others won't go near a puddle. Young kids tend to be more curious about water than older goats."
   - question: "What kind of goat is the best swimmer?"
-    answer: "There are many different types of goats, but not all of them are good swimmers. Some goats, like the North African Barbary breed, have webbed feet that help them to swim."
+    answer: "No specific breed is a notably better swimmer. Water comfort is more about individual personality than genetics. Larger breeds may have a slight advantage in staying afloat, while smaller breeds like Pygmies and Nigerian Dwarfs are more vulnerable to waterlogging."
   - question: "What is the reason why goats like to swim?"
-    answer: "There are many reasons why goats like to swim. For one, it's a great way to cool off on a hot day. Goats are very sensitive to heat, and they can quickly overheat if they are not careful."
+    answer: "Most goats actually don't enjoy swimming. When they do enter water voluntarily, it's usually to cool off on a hot day or to cross a flooded area. Goats raised around water from a young age tend to be more comfortable with it."
 ---
 
 Yes, goats can swim. Most of them won't choose to do it for fun, but they're physically capable of paddling through water when they need to.

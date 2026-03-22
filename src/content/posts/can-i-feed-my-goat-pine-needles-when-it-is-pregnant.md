@@ -11,7 +11,7 @@ imageAlt: "Can I Feed My Goat Pine Needles When It Is Pregnant?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can feed your goat pine needles when it is pregnant. In fact, this is a good way to provide them with the nutrients they need."
+  text: "The safest recommendation is no. Certain pine species, especially Ponderosa pine, contain isocupressic acid which has been linked to late-term abortions in livestock."
 toc:
   - label: "Can I feed my goat pine needles when it is pregnant?"
     href: "#can-i-feed-my-goat-pine-needles-when-it-is-pregnant"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I feed my goat pine needles when it is pregnant?"
-    answer: "You can feed your goat pine needles when it is pregnant. In fact, this is a good way to provide them with the nutrients they need. They also contain a substance called pycnogenol, which is known to be beneficial for pregnant women."
+    answer: "The safest recommendation is to avoid pine needles for pregnant does. Ponderosa pine contains isocupressic acid, which has been linked to late-term abortions in livestock. Unless you can identify every pine species on your property, keep pregnant does away from pine trees."
   - question: "What are pine needles and what are they used for?"
     answer: "Pine needles are elongated, scale-like leaves that grow on the branches of certain types of trees, most notably pines."
   - question: "Is it safe to feed pregnant goats pine needles?"
-    answer: "There is no clear consensus on whether it is safe to feed pregnant goats pine needles. Some argue that the needles contain substances like resveratrol and quercetin, which may help protect the health of both mother and baby during pregnancy."
+    answer: "It depends on the pine species, and most goat owners cannot reliably identify every tree on their land. Ponderosa pine is dangerous, while white pine and Scots pine are considered lower risk. The smartest approach is to fence pregnant does away from all pine trees during the last trimester."
   - question: "What are the benefits of feeding pine needles to pregnant goats?"
     answer: "There are a number of benefits to feeding pine needles to pregnant goats. For one thing, pine needles are rich in nutrients that are essential for healthy goat pregnancies, including calcium, phosphorus, and vitamin C."
 ---

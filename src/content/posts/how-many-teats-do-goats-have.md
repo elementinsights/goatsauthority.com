@@ -11,7 +11,7 @@ imageAlt: "How Many Teats Do Goats Have?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Most goats have two teats, which are located on the underside of the animal just behind the goat's front legs. However, some breeds of goats may have four or even six teats."
+  text: "Goats have 2 functional teats, located on the udder between the back legs. Some goats are born with extra (supernumerary) teats, but these are usually non-functional nubs considered a fault in dairy breeds."
 toc:
   - label: "How many teats do goats have?"
     href: "#how-many-teats-do-goats-have"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "How many teats do goats have?"
-    answer: "Most goats have two teats, which are located on the underside of the animal just behind the goat's front legs. However, some breeds of goats may have four or even six teats. The number of teats a goat has is determined by its genes and cannot be changed."
+    answer: "Goats have 2 functional teats, located on the udder between the back legs. Both does and bucks have 2 teats, though on males the teats are small and rudimentary. Some goats are born with extra (supernumerary) teats, but these are usually non-functional nubs."
   - question: "What are goat teats used for?"
     answer: "Goat teats are used for a variety of purposes, the most common of which is milking. Goats are often milked by hand, and their small teats make this an easy task."
   - question: "What is the average number of kids a goat can give birth to?"

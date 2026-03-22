@@ -33,11 +33,11 @@ faq:
   - question: "Can black widow spider kill a goat?"
     answer: "A black widow spider can kill a goat, but it's very unlikely. The venom of a black widow is incredibly potent, and while it may not be lethal to an adult goat, it could potentially kill a kid or young goat."
   - question: "What factors would contribute to a black widow spider being able to kill a goat?"
-    answer: "The black widow spider is a type of arachnid that is found in various parts of the world. The female black widow spider is particularly dangerous, as its venom is highly toxic to humans and other animals."
+    answer: "Body size is the biggest factor. A 10-pound kid is far more vulnerable than a 150-pound doe. Multiple bites, bites on thin-skinned areas like the face or udder, and the goat's existing health all play a role."
   - question: "What are the symptoms of black widow spider venom in goats?"
-    answer: "Black widow spiders are found throughout the world, and their venom can be dangerous to both humans and animals. While the symptoms of black widow spider venom in goats may vary depending on the amount of venom injected, there are some general signs that you can look for."
+    answer: "Early signs include restlessness, muscle tremors, and teeth grinding. As symptoms progress, you may see labored breathing, excessive salivation, a stiff gait, and muscle cramping. In severe cases the goat may go down and be unable to stand."
   - question: "What should you do if your goats are bitten by a black widow spider?"
-    answer: "Black widow spiders are one of the most venomous spiders in North America. Though their bites are usually not deadly to humans, they can be incredibly painful and cause serious illness."
+    answer: "Call your vet immediately and apply a wrapped ice pack to the bite site to slow the venom spread. Keep the goat calm and still since movement speeds venom circulation through the body."
 ---
 
 It's unlikely, but a black widow bite can kill a goat under the right circumstances. Adult goats are usually big enough to survive a single bite, but kids and miniature breeds are at real risk.

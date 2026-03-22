@@ -37,9 +37,9 @@ faq:
   - question: "What are the benefits of eating goat meat for postpartum women?"
     answer: "Eating goat meat is a traditional remedy for postpartum women in many cultures around the world. This practice is believed to help with healing and recovery after childbirth, as well as to promote vitality and energy."
   - question: "Are there any risks associated with eating goat meat for postpartum women?"
-    answer: "There is no clear consensus on whether or not it is safe for women who have recently given birth to eat goat meat."
+    answer: "The main risk is foodborne illness from undercooked meat. Cook goat meat to at least 160 degrees Fahrenheit, buy from a trusted source, and don't leave cooked meat sitting out for more than 2 hours."
   - question: "How to prevent foodborne illness when eating goat meat?"
-    answer: "As with any food, it’s important to take precautions to prevent foodborne illness when consuming goat meat. This is especially important for vulnerable populations like pregnant women, young children, and the elderly."
+    answer: "Cook goat meat to at least 160 degrees Fahrenheit internal temperature. Buy from a trusted butcher or farm, store properly in the fridge or freezer, and don’t leave cooked meat sitting out for more than 2 hours."
 ---
 New moms have a lot of questions about what they should and shouldn't eat after giving birth. Goat meat is not only safe for postpartum women, it's one of the best protein sources you can choose during recovery.
 

@@ -37,9 +37,9 @@ faq:
   - question: "What is banding a goat and why would you do it?"
     answer: "Banding a goat is the process of putting a rubber ring around the base of their scrotum in order to castrate them."
   - question: "How to band a goat - the process?"
-    answer: "To band a goat, you'll need a few supplies: a tube of tattoo ink, a sharpie, a pair of pliers, and an ear-tagging gun."
+    answer: "You need an elastrator tool, the largest bands available, tetanus antitoxin, and ideally a pain reliever like banamine from your vet. Restrain the buck, ensure both testicles are below the band, and release. Give tetanus antitoxin before banding."
   - question: "What are the benefits of banding a goat?"
-    answer: "There are a few reasons why you might want to consider banding your goat. For one thing, it can help to prevent overgrooming."
+    answer: "A wether (castrated male) has no buck smell, calmer behavior, and cannot breed does. Wethers make great companion animals and are easy to manage, which is ideal if you're keeping goats as pets or for brush clearing rather than breeding."
 ---
 
 Banding a 2-year-old buck comes up more often than you'd think. You can do it, but there are serious risks at this age that don't apply to young kids.

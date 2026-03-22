@@ -11,7 +11,7 @@ imageAlt: "Can I Suture My Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection."
+  text: "In an emergency, yes, many experienced goat owners suture minor wounds themselves. Only suture clean, fresh skin wounds that are less than six hours old. Anything deeper, infected, or contaminated needs a vet."
 toc:
   - label: "Can I suture my goat?"
     href: "#can-i-suture-my-goat"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I suture my goat?"
-    answer: "You can suture your goats because they have skin that is very similar to ours. In fact, their skin is actually thicker than ours, which makes them less prone to infection. They are also less likely to have an adverse reaction to the anesthesia."
+    answer: "In an emergency, yes. You can suture clean, fresh skin wounds on a goat if they're not too deep. Only suture wounds that are less than six hours old and free of contamination. Deep wounds near joints, eyes, or tendons need a vet."
   - question: "What are the risks of suturing my goat?"
     answer: "There are some risks associated with suturing your goat. First of all, there is always a risk of infection. This is why it's so important to make sure that the wound is clean before you begin the suturing process."
   - question: "What is suturing and what are its benefits to goats?"

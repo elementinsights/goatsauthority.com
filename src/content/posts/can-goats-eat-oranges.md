@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Oranges? (What About Peels, Seeds & Leaves?)"
-description: "Have you ever wondered what kind of fruits goats can eat? As a goat owner, I often find myself in the same boat. It’s not always easy to know what is safe for our four-legged friends. One question that comes up quite a bit is about oranges."
+description: "Have you ever wondered what kind of fruits goats can eat? As a goat owner, I often find myself in the same boat. It’s not always easy to know what is safe for our goats. One question that comes up quite a bit is about oranges."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Oranges?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "They’re rich in vitamin C and other nutrients that boost their immune system. So next time when you have some leftover oranges don’t throw them away."
+  text: "Yes, oranges are safe and healthy for goats. The flesh, peel, and even the leaves and bark of the orange tree are all non-toxic. Limit servings to 1-2 oranges per goat once or twice a week."
 toc:
   - label: "Can Goats Eat Oranges?"
     href: "#can-goats-eat-oranges"
@@ -29,7 +29,7 @@ toc:
     href: "#frequently-asked-questions-faqs"
 faq:
   - question: "Can Goats Eat Oranges?"
-    answer: "Yes, goats can eat oranges. This might come as a surprise to many goat owners. But it’s true. Oranges are not harmful to your furry friends. In fact, they provide several health benefits for them too."
+    answer: "Yes, goats can eat oranges safely. The flesh is packed with vitamin C and potassium, and the peel contains limonene with mild antiparasitic properties. Limit to 1-2 oranges per goat once or twice a week."
   - question: "Can Baby Goats (Kids) Eat Oranges?"
     answer: "Baby goats, also known as kids, can indeed eat oranges. But it’s important to remember that stick to small amounts. Oranges are high in sugar and too much of this sweet fruit could upset their stomachs."
   - question: "What Parts of the Orange and Orange Tree Are Safe for Goats?"

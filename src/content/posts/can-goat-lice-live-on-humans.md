@@ -11,7 +11,7 @@ imageAlt: "Can Goat Lice Live on Humans?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible for goat lice to live on humans because they are not host-specific, meaning they will parasitize any mammal they can get to. Goat lice are also very small, making it easy for them to go unnoticed and crawl onto humans."
+  text: "No, goat lice cannot live on humans. Lice are host-specific parasites, meaning goat lice need goat blood, goat skin temperature, and goat hair to survive. A stray louse might crawl on you, but it will die within hours."
 toc:
   - label: "Can goat lice live on humans?"
     href: "#can-goat-lice-live-on-humans"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat lice live on humans?"
-    answer: "it's possible for goat lice to live on humans because they are not host-specific, meaning they will parasitize any mammal they can get to. Goat lice are also very small, making it easy for them to go unnoticed and crawl onto humans."
+    answer: "No, goat lice cannot live on humans. They are host-specific parasites that need goat blood and goat hair to survive. A louse might crawl onto your arm while handling an infested goat, but it cannot feed or reproduce on you and will die within hours."
   - question: "What are goat lice, and how do they differ from human lice?"
-    answer: "Goat lice are tiny parasitic insects that feed on the blood of goats. There are three main types of goat lice: chewing lice, sucking lice, and biting lice. Chewing lice are the most common type of goat lice, and they live in the hair follicles of the goat's skin."
+    answer: "Goats deal with two main types: chewing lice (Bovicola caprae) that feed on skin debris and hair, and sucking lice (Linognathus stenopsis) that feed on blood. Human lice are completely separate species adapted only to humans."
   - question: "What are the signs and symptoms of a goat lice infestation in humans?"
-    answer: "Though human lice infestations are most commonly associated with head and body lice, there's a third type of louse that can also cause problems for people: goat lice."
+    answer: "You won't develop a true infestation. You might experience temporary itching and a crawling sensation after handling lousy goats, but this goes away on its own after you shower and change clothes."
   - question: "What treatments are available for both goat and human lice infestations?"
-    answer: "Lice are small, wingless insects that feed on human blood. They are a common problem in schools and daycare centers and can be passed from person to person through close contact."
+    answer: "For goats, use pour-on permethrin products or injectable ivermectin, and treat the entire herd twice, 10 to 14 days apart. For humans who are itchy after handling lousy goats, a regular shower with soap and water is all you need."
 ---
 If you have been scratching your arms after handling lousy goats, you are probably wondering if those little critters jumped ship to you. It is a fair question, and the good news is that goat lice are host-specific.
 

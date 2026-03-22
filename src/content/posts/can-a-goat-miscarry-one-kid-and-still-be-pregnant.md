@@ -31,11 +31,11 @@ faq:
   - question: "Can a goat miscarry one kid and still be pregnant?"
     answer: "A doe (female goat) can indeed miscarry one kid and still be pregnant with another. If a doe (female goat) loses a single fetus early in the pregnancy, she will often carry the remaining fetus(es) to term and successfully give birth."
   - question: "What to do if your goat has a miscarriage?"
-    answer: "If your goat has a miscarriage, the first thing you should do is contact a goat expert. They will be able to help you determine the cause of the miscarriage and provide you with information on how to care for your goat during this difficult time."
+    answer: "Get a vet out for an ultrasound within 48 hours to confirm whether remaining fetuses are alive. Watch for signs of infection: fever above 104 degrees, foul-smelling discharge, or refusal to eat. She may need antibiotics to protect the remaining kids."
   - question: "How to care for a pregnant goat?"
-    answer: "To care for a pregnant goat, start by providing her with plenty of food and water. Make sure to keep her living area clean, and provide her with plenty of hay to sleep on."
+    answer: "A doe recovering from a partial miscarriage needs extra calories and minerals. Bump up her grain ration by about 25%, ensure free-choice access to quality goat minerals, and ask your vet about selenium and vitamin E supplementation."
   - question: "What are the common problems during goat pregnancy?"
-    answer: "There are various problems that may occur during goat pregnancy. One common problem is premature delivery, which can happen when the doe is stressed or if there are problems with the placenta."
+    answer: "Pregnancy toxemia (ketosis) is common in does carrying multiples during the last month. Dystocia happens when a kid is positioned wrong for delivery. Low selenium levels are one of the leading causes of pregnancy problems in goats."
 ---
 Yes, a doe carrying multiples can lose one kid and continue carrying the others. This happens more often than most people realize, especially in early pregnancy when the lost fetus can be reabsorbed by the body without any obvious signs.
 

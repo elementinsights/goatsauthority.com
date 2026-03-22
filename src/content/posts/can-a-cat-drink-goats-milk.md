@@ -11,7 +11,7 @@ imageAlt: "Can a Cat Drink Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Milk from goats or any other mammal is not an ideal source of nutrition for cats since cats are obligate carnivores. This means that they require animal-based proteins to thrive."
+  text: "Yes, most cats can drink small amounts of goat's milk as an occasional treat. Goat's milk has lower lactose and smaller fat globules than cow's milk, making it easier for cats to digest."
 toc:
   - label: "Can a cat drink goats milk?"
     href: "#can-a-cat-drink-goats-milk"
@@ -37,7 +37,7 @@ faq:
   - question: "Can all cats drink goat's milk?"
     answer: "Not all cats can drink goat's milk. Cats with lactose intolerance may experience gastrointestinal upset if they drink too much goat milk."
   - question: "Is goat's milk better for cats than cow's milk?"
-    answer: "Goat's milk may be easier for cats to digest than cow's milk, but it's not a complete source of nutrition for cats. Cats need animal-based proteins to thrive, and goat's milk does not contain any animal-based proteins."
+    answer: "Goat's milk is generally easier for cats to digest than cow's milk because it has lower lactose levels and smaller fat globules. However, neither should be a dietary staple since cats are obligate carnivores that need meat-based protein."
   - question: "Can I give my cat goat's milk every day?"
     answer: "You can give your cat goat's milk every day, but it's not necessary. If your cat is not used to drinking milk, start by giving him a small amount and gradually increase the amount over time."
   - question: "How long can my cat drink goat's milk?"

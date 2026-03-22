@@ -29,11 +29,11 @@ faq:
   - question: "Can goats and horses pasture together?"
     answer: "Goats and horses can pasture together because they are both herbivores. Goats can be beneficial to horses because they help keep the pasture clean by eating the weeds. Goats will also eat grass that is too short for horses to reach, which can help prevent horses from getting colic."
   - question: "What is the difference between goats and horses?"
-    answer: "The main difference between goats and horses is that goats are browsers and horses are grazers. This means that goats prefer to eat leaves, twigs, and other woody plants, while horses prefer to eat grasses and other plants that grow close to the ground."
+    answer: "Goats are browsers that eat shrubs, weeds, and brush, while horses are grazers that eat grass. This means they don't compete for the same food and actually complement each other, with goats cleaning up the weedy plants horses ignore."
   - question: "What are the benefits of goats and horses grazing together?"
-    answer: "There are several benefits to grazing goats and horses together. One benefit's that it can help save on hay costs. If your animals can graze together, you will not need to feed them as much hay."
+    answer: "Goats clear brush and weeds that horses walk past, reducing mowing. The companionship also calms anxious horses that weave, crib, or pace when kept alone. Many horse owners bring in goats specifically to settle nervous horses."
   - question: "What are some tips for grazing goats and horses together?"
-    answer: "Here are some tips for grazing goats and horses together:."
+    answer: "Keep all horse feed away from goats since monensin in many horse feeds is fatal to goats. Use goat-tight fencing, and make sure goats have an escape spot the horse can't reach in case of accidental kicks."
 ---
 
 Goats and horses sharing a pasture is more common than you might think. Racetracks have been using goats as companion animals for nervous horses for decades, and plenty of small farms run them side by side every day.

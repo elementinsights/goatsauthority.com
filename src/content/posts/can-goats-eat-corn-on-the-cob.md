@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can all goats eat corn on the cob?"
-    answer: "All goats can consume corn on the cob. Despite that, it's important to keep in mind that corn on the cob is a high-calorie food. This means that it should only be fed to goats in moderation."
+    answer: "Yes, all goats can eat corn on the cob. The kernels, cob, husks, and silk are all safe. Just keep it as an occasional treat since corn is high in starch and too much can cause acidosis."
   - question: "Can corn on the cob be fed to goats raw?"
-    answer: "Goats can be fed raw corn on the cob. However, it's still important to break the corn off the cob into smaller pieces before giving it to the goats. This is due to the possibility of goats choking on corn on the cob."
+    answer: "Yes, fresh raw corn on the cob is safe and actually the better option. Fresh corn has higher moisture and lower starch concentration than dried corn, making it gentler on the rumen."
   - question: "Can corn on the cob be fed to goats cooked?"
-    answer: "Corn on the cob can be fed to goats cooked. But, you should avoid adding any salt, butter, or other seasonings to the corn on the cob before feeding it to goats."
+    answer: "Yes, but only if it is plain with no salt, butter, or seasonings. Leftover seasoned corn from a cookout is off-limits for goats."
 ---
 Goats can eat corn on the cob, and most of them love it. The kernels, the cob, the husks, and even the silk are all safe for goats to consume.
 

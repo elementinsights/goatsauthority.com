@@ -37,9 +37,9 @@ faq:
   - question: "Do all goats climb trees?"
     answer: "No, not all goats climb trees. In fact, most goats avoid climbing altogether. It's generally only the young ones who are curious enough to explore their surroundings in this way."
   - question: "What are some of the benefits of goats climbing trees?"
-    answer: "Goats are known for their ability to climb mountains, but did you know that they can also climb trees? While it might seem like silly antics, there are actually some benefits to goats climbing trees."
+    answer: "Climbing provides physical exercise and mental stimulation that keeps goats from getting bored. Access to browse in trees also adds variety to their diet with leaves, bark, and twigs that provide additional minerals and roughage."
   - question: "Are there any dangers associated with goats climbing trees?"
-    answer: "It's not uncommon to see goats climbing trees. Indeed, this behavior is often normal and harmless. However, there are some potential dangers associated with it."
+    answer: "The main danger is falling, which can cause broken legs or udder injuries in dairy does. Heavy breeds are especially at risk since they can snap branches that would hold lighter goats. Protect valuable trees with trunk wraps or hardware cloth."
 ---
 
 Yes, goats can and do climb trees. Anyone who's kept goats for more than a week has probably caught one standing somewhere it had no business being, and low-branching trees are no exception.

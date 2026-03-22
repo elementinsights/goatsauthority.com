@@ -33,11 +33,11 @@ faq:
   - question: "Can I walk a goat in Skippack PA?"
     answer: "You can walk a goat in Skippack PA as long as you follow the local ordinances. In some areas, you may need a permit to do so. You also need to make sure that your goat is healthy and up to date on its vaccinations."
   - question: "What do I need to know about taking care of goats in Skippack PA?"
-    answer: "There are a few things you should know about taking care of goats in Skippack PA."
+    answer: "Skippack is zoned partly agricultural and partly residential, so check your zoning before keeping goats. Goats need fresh water, hay, shelter, regular hoof trimming, and annual CDT vaccinations."
   - question: "What is the law in Skippack PA concerning goats and walking them in public areas?"
     answer: "There is no state law in Pennsylvania that prohibits walking goats in public, but some municipalities have ordinances against it. You should check with your local government to see if there are any restrictions in place before you take your goat out for a walk."
   - question: "What are some tips for keeping your goat safe while on a walk?"
-    answer: "There are a few things you can do to keep your goat safe while on a walk."
+    answer: "Use a properly fitted collar or halter with a sturdy lead rope, bring treats to redirect attention, stick to quiet side streets, and watch for toxic plants like rhododendron, azalea, and yew along the route."
 ---
 
 Skippack Township sits in Montgomery County, Pennsylvania, and it has a semi-rural character that makes goat keeping more practical than in heavily urbanized areas. Walking a goat on a leash in public is not specifically banned in most Pennsylvania municipalities, but there are a few things to check first.

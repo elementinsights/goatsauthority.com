@@ -33,9 +33,9 @@ faq:
   - question: "What breed of goats are known for being aggressive?"
     answer: "Some breeds of goats, such as the Alpine breed, are known for being more aggressive than others. Despite that, any goat can become aggressive if it'sn't properly socialized or if it feels threatened."
   - question: "How can you tell if your goat is aggressive?"
-    answer: "One of the most important things to consider when raising goats is their temperament. Some goats are naturally more docile than others, while some may be more prone to aggression. There are a few telltale signs that can help you determine whether or not your goat is aggressive."
+    answer: "Warning signs include lowering the head, stamping feet, charging, grunting and snorting when you approach, or doing a sideways stance to look bigger. Any goat that head-butts people is showing aggression that needs correction."
   - question: "What to do if your goat is aggressive?"
-    answer: "If you have a goat that is acting aggressively, there are a few things you can do to help improve the situation."
+    answer: "First, rule out pain or illness. If it's a bottle baby, enforce strict boundary training. For intact bucks, castration usually calms them within weeks. Never back down when a goat charges, as retreating teaches them that aggression works."
 ---
 Most aggressive goats can be fixed once you figure out why they're acting that way. The key is identifying the root cause before you try to change the behavior.
 

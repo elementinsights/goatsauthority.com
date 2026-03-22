@@ -11,7 +11,7 @@ imageAlt: "How Many Stomachs Do Goats Have?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently."
+  text: "Goats have one stomach divided into four compartments: the rumen, reticulum, omasum, and abomasum. This design makes them ruminants, built to break down tough plant fiber that simple-stomached animals cannot handle."
 toc:
   - label: "How many stomachs do goats have?"
     href: "#how-many-stomachs-do-goats-have"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "How many stomachs do goats have?"
-    answer: "There are four stomachs in goats. Although it may seem like a lot, this modification enables them to digest food more efficiently. The rumen, reticulum, omasum, and abomasum are the four stomachs. The goat's stomachs each serve a distinct function in the digestion of the food it consumes."
+    answer: "Goats have one stomach divided into four compartments: the rumen, reticulum, omasum, and abomasum. Every goat has all four compartments regardless of breed. The rumen is the largest, holding 4 to 6 gallons, and contains billions of microbes that ferment plant material."
   - question: "How do goats digest food?"
     answer: "In addition to their four-chambered stomachs, goats also have a caecum, which is a small pouch located at the junction of the small and large intestines."
   - question: "Do all goats have four stomachs?"
-    answer: "Not all goats have four stomachs. In fact, the majority of goats only have three stomachs. The fourth stomach, the abomasum, is only found in about 10% of goats."
+    answer: "Yes, every goat on earth has all four stomach compartments regardless of breed, size, or age. The rumen, reticulum, omasum, and abomasum are all present in every goat. This is a shared trait among all ruminant animals."
   - question: "What are some common problems with goats' stomachs?"
     answer: "Goats are known for being hardy animals, but that doesn't mean they're immune to stomach problems. Just like any other animal, goats can suffer from indigestion, gas, bloating, and other uncomfortable gastrointestinal issues."
 ---

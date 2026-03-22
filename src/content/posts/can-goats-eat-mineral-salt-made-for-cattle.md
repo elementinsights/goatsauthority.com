@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Mineral Salt Made For Cattle?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat mineral salt made for cattle. In fact, they need salt in their diet to help them properly digest their food and absorb nutrients."
+  text: "Cattle mineral salt won't poison your goats, but it's not a good long-term solution. Goats need significantly more copper than cattle minerals provide, and chronic use will leave nutritional gaps."
 toc:
   - label: "Can goats eat mineral salt made for cattle?"
     href: "#can-goats-eat-mineral-salt-made-for-cattle"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat mineral salt made for cattle?"
-    answer: "Goats can eat mineral salt made for cattle. In fact, they need salt in their diet to help them properly digest their food and absorb nutrients. The only downside is that you will need to provide them with a larger amount of salt than what you give to your cattle."
+    answer: "Cattle mineral salt won't poison your goats, but it's not formulated for their needs. The biggest issue is that cattle minerals contain lower copper levels than goats require, leading to copper deficiency over time."
   - question: "What are the health benefits of feeding mineral salt to goats?"
-    answer: "There are many health benefits associated with feeding mineral salt to goats. For one, it helps them properly digest their food and absorb nutrients. And also, salt helps regulate fluid levels in the body, which is important for overall health and proper kidney function."
+    answer: "Goats need salt and minerals for proper digestion, nutrient absorption, and fluid regulation. However, they do best on a loose mineral supplement formulated specifically for goats with at least 1,500 ppm of copper."
   - question: "What are the risks associated with feeding mineral salt to goats?"
-    answer: "While there are many health benefits associated with feeding mineral salt to goats, there are also some risks. The most common risk is dehydration. This can occur if the goats consume too much salt or do not have access to fresh, clean water."
+    answer: "The main risk of using cattle minerals is copper deficiency, which causes rough faded coats, poor immune function, and fertility problems. Never use sheep minerals for goats, as those contain almost no copper at all."
   - question: "How can you prevent your goats from overeating salt?"
-    answer: "There are a few things you can do to prevent your goats from overeating salt. First, provide them with a salt block or mineral lick that is specifically designed for goats. This will help ensure that they are getting the right amount of salt in their diet."
+    answer: "Offer a goat-specific loose mineral free-choice in a covered feeder. Most goats self-regulate their intake well when given the option. Always keep fresh water available since salt drives thirst."
 ---
 
 This is one of those questions that comes up a lot, especially on farms where goats and cattle share space. The mineral block is right there, so why not let the goats use it too?

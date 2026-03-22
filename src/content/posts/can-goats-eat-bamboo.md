@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Bamboo?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are known for their ability to eat a wide variety of plants. This leads many goat owners and farmers to wonder if goats can safely consume bamboo."
+  text: "Yes, most true bamboo species are safe for goats and they love browsing on the leaves and young shoots. However, heavenly bamboo (Nandina domestica) is poisonous and should be kept away from your herd."
 toc:
   - label: "Can Goats Eat Bamboo?"
     href: "#can-goats-eat-bamboo"
@@ -25,13 +25,13 @@ toc:
     href: "#are-there-any-risks-in-feeding-bamboo-to-goats"
 faq:
   - question: "Can Goats Eat Bamboo?"
-    answer: "Goats are known for their ability to eat a wide variety of plants. This leads many goat owners and farmers to wonder if goats can safely consume bamboo. The answer is yes, they can."
+    answer: "Yes, true bamboo species are safe for goats. Bamboo belongs to the grass family, and goats happily strip the leaves and eat young shoots. However, heavenly bamboo (Nandina domestica) is poisonous and not true bamboo."
   - question: "Is Bamboo Safe for Goats?"
-    answer: "Goats are known for their hearty appetites. They often eat plants that other animals won't touch. But can goats eat bamboo? Yes, they can."
+    answer: "True bamboo species like Bambusa and Phyllostachys are safe. The major exception is heavenly bamboo (Nandina), which contains cyanogenic glycosides that can be fatal to goats."
   - question: "How to Prepare and Serve Bamboo for Goats?"
-    answer: "Preparing and serving bamboo for goats is not as complicated as it may seem. First, you need to know that goats can eat bamboo. It's a type of grass and they love munching on its leaves."
+    answer: "Just let your goats access the bamboo and they will strip what they want. Focus on offering leafy branches and younger shoots. Some farmers plant bamboo along fence lines as a forage crop."
   - question: "Are There Any Risks in Feeding Bamboo to Goats?"
-    answer: "Feeding bamboo to goats may seem like a good idea. After all, it's green and leafy. But there are some risks involved that you should know about."
+    answer: "The main risk is overfeeding, which can cause digestive slowdowns due to high fiber content. Keep bamboo as part of a varied diet. The only real danger is from heavenly bamboo (Nandina), which should be kept far from your herd."
 ---
 
 Yes, most bamboo species are safe for goats, and most goats love browsing on it. If you've got bamboo growing on your property, your goats can help keep it under control.

@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Tied Up For Selective Area Grazing?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can be tied up for selective area grazing because they are intelligent animals and can understand what is happening. They are also very curious, so they will be interested in investigating their surroundings and trying to figure out what is going on."
+  text: "Yes, you can tether goats for targeted grazing to clear brush and weeds, but tethered goats are vulnerable to predators and tangling hazards. Use chain with swivel snaps, check every 30 minutes, and never tether overnight."
 toc:
   - label: "Can goats be tied up for selective area grazing?"
     href: "#can-goats-be-tied-up-for-selective-area-grazing"
@@ -29,11 +29,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats be tied up for selective area grazing?"
-    answer: "Goats can be tied up for selective area grazing because they are intelligent animals and can understand what is happening. They are also very curious, so they will be interested in investigating their surroundings and trying to figure out what is going on."
+    answer: "Yes, tethering works for clearing specific patches of brush, weeds, or overgrown areas where permanent fencing isn't practical. The catch is that a tethered goat can't run from predators and can choke if the setup isn't right."
   - question: "What is selective area grazing and why is it beneficial for goats?"
-    answer: "Selective area grazing is a management technique that involves carefully controlling the access of goats to pasture."
+    answer: "Selective area grazing means controlling exactly where goats eat to let overgrazed areas recover and target problem spots like invasive brush. It also breaks parasite cycles by keeping goats off contaminated ground."
   - question: "How do you go about tying up your goats for restricted area grazing?"
-    answer: "When it comes to grazing, goats are not particularly picky eaters. However, they can very quickly devastate a small area of land if left unchecked."
+    answer: "Use a heavy-duty swivel stake driven deep into the ground with a 15 to 20 foot chain. Don't use rope since goats chew through it within an hour. Walk the entire radius and remove any objects the chain could wrap around."
   - question: "What are the best ways to tie up goats?"
     answer: "The best way to tie up goats will depend on the situation. If you are trying to keep them in a specific area, then using a portable electric fence or tether system is a good option. If you just need to keep them away from something, then using a physical barrier is the best option."
 ---

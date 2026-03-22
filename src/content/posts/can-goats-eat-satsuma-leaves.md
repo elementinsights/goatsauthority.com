@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Satsuma Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume satsuma leaves without any problems. In fact, they're a great source of nutrition for them."
+  text: "Satsuma leaves are safe for goats to eat, though most goats find the citrus flavor off-putting. They provide fiber, vitamin C, and small amounts of calcium as a decent addition to a varied diet."
 toc:
   - label: "Can goats eat satsuma leaves?"
     href: "#can-goats-eat-satsuma-leaves"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat satsuma leaves?"
-    answer: "Goats can consume satsuma leaves without any problems. In fact, they're a great source of nutrition for them. Satsuma leaves are high in fiber and protein, which are both essential for goats' diets."
+    answer: "Satsuma leaves are safe for goats to eat. They contain fiber, vitamin C, and small amounts of calcium. Most goats find the taste a bit off-putting due to the essential oils, but those that eat them are perfectly fine."
   - question: "What are the nutritional benefits of satsuma leaves for goats?"
-    answer: "Goats are browsers, which means that they prefer to eat the leaves of plants rather than fruits or seeds. This makes satsuma leaves an ideal food for goats, as they are packed with nutrients that goats need to stay healthy."
+    answer: "Satsuma leaves provide fiber for digestion, vitamin C for immune support, and vitamin A for healthy skin and coat. They are a decent addition to a varied diet, though not a powerhouse food compared to alfalfa."
   - question: "What are some of the other benefits of feeding goats satsuma leaves?"
-    answer: "In addition to being a nutritious food for goats, satsuma leaves also have several other benefits. For example, the leaves can help to keep goats' coats healthy and shiny."
+    answer: "Citrus peels contain limonene, which has mild natural deworming properties. Satsuma fruit is also safe for goats and provides a sweet treat in small amounts."
   - question: "Are there any risks associated with feeding goats satsuma leaves?"
-    answer: "Satsuma leaves are generally considered to be safe for goats, and according to the Satsuma Goat Association, they can actually be a healthy addition to a goat's diet. However, there are a few potential risks associated with feeding satsuma leaves to goats."
+    answer: "Satsuma leaves are safe for goats with very minimal risk. Most goats naturally limit their intake because of the strong citrus flavor. Do not overdo it with the fruit since it is high in sugar and acid."
 ---
 If you have satsuma trees on your property and your goats have been nibbling on the leaves, there is nothing to worry about. Satsuma leaves are safe for goats and will not cause them any harm.
 

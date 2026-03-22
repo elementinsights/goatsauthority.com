@@ -43,7 +43,7 @@ faq:
   - question: "How long can you get milk from a goat?"
     answer: "You can get milk from a goat for about 10-12 months after they have given birth. After that, their milk production will decline and they will need to be bred again in order to produce milk."
   - question: "Which dairy goat produces the most milk?"
-    answer: "The dairy goat that produces the most milk is the Saanen goat. On average, they can produce about 3-4 gallons of milk per day."
+    answer: "The Saanen goat is the highest-volume dairy breed, sometimes called the Holstein of the goat world. A good Saanen doe produces about 2 to 3 quarts of milk per day during her lactation period."
   - question: "Where can you buy dairy goat's milk?"
     answer: "Dairy goat milk can be bought from some grocery stores, although it's more commonly found at health food stores or specialty markets. You can also buy it online."
   - question: "How much will it cost you to buy dairy goat milk?"

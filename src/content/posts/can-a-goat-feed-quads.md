@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Feed Quads?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem."
+  text: "A doe can nurse quadruplets, but it's a real stretch on her body since she only has two teats for four kids. Most experienced breeders plan to bottle-feed at least one or two of the kids."
 toc:
   - label: "Can a goat feed Quads?"
     href: "#can-a-goat-feed-quads"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat feed Quads?"
-    answer: "Goat can feed quadruplet kids from the first day. If you have a big doe, she will likely have plenty of milk to feed all four babies without any problem. The number of teats on a goat does not determine how much milk she can produce."
+    answer: "A doe can nurse quadruplets, but four kids competing for two teats is a real challenge. Most experienced breeders pull the smallest one or two kids and raise them on bottles while the doe nurses the rest."
   - question: "What breed of goat usually has quadruplets?"
     answer: "There are many breeds of goats, yet not all of them are known for having quadruplets. One breed that is particularly well-known for this is the Saanen goat."
   - question: "What do goats eat and how much should they be fed each day?"
-    answer: "Goats are creatures of habit and prefer to eat the same things every day. A good diet for a goat includes hay, fresh vegetables, and a small amount of grain."
+    answer: "A doe nursing quadruplets needs free-choice alfalfa hay, grain two to three times daily, and unlimited fresh water. A heavy milking doe can drink three to four gallons of water per day."
   - question: "What are some of the benefits of feeding goats?"
-    answer: "Goats are often thought of as unruly animals that eat anything in sight, but they can actually be quite picky eaters. While they will nibble on a variety of plants, they prefer to eat leafy greens and other roughage."
+    answer: "Proper nutrition directly impacts milk production. A well-fed doe produces more milk with higher fat and protein content, which means her kids grow faster and stronger. Good nutrition also helps the doe recover from carrying and delivering four kids."
 ---
 
 A doe can nurse quadruplets, but it's a real stretch on her body. Most goat owners who've been through quad births will tell you the same thing: plan to bottle-feed at least one or two of those kids.

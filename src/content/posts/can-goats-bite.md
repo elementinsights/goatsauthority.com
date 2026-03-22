@@ -11,7 +11,7 @@ imageAlt: "Can Goats Bite?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can bite because they have incisor teeth in the front of their mouths, as well as molars in the back. These teeth are used for grinding up food, but they can also be used for biting."
+  text: "Yes, goats can bite, but they only have bottom front teeth and a hard dental pad on top, so their bite is more like a strong pinch than a real chomp. Most nipping is curiosity or playfulness rather than aggression."
 toc:
   - label: "Can goats bite?"
     href: "#can-goats-bite"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats bite?"
-    answer: "Goats can bite because they have incisor teeth in the front of their mouths, as well as molars in the back. These teeth are used for grinding up food, but they can also be used for biting. They also have strong jaw muscle that helps them to bite down hard."
+    answer: "Yes, goats can bite, but they only have bottom front incisors and a hard dental pad on top. Their bite is more like a strong pinch that can bruise and occasionally break skin, but it's nothing like a dog or cat bite."
   - question: "What are the risks of being bitten by a goat?"
     answer: "Though it may seem harmless, there are a number of risks associated with being bitten by a goat. One of the most serious potential complications is tetanus."
   - question: "What should you do if you're bitten by a goat?"
-    answer: "Few people think about what to do if they're bitten by a goat, but it's actually a fairly common occurrence. There are several things you should do if you're bitten by a goat."
+    answer: "Wash the wound immediately with warm water and soap for at least 30 seconds and apply antibiotic ointment. If you see redness spreading, increasing swelling, or pus within 48 hours, see a doctor as it may be infected."
   - question: "What breed of goat is most likely to bite?"
-    answer: "There are many different breeds of goats, and each has its own unique personality and behavior. Despite that, some breeds are more likely to bite than others."
+    answer: "Breed matters less than how the goat was raised. Bottle-raised goats are the most likely to nip because they associate human hands with food. Bucks in rut can also become nippy and pushy regardless of breed."
 ---
 
 Goats can definitely bite, and if you've spent any time around them, you've probably gotten a nip or two already. The good news is that a goat bite is usually more annoying than dangerous.

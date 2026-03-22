@@ -11,7 +11,7 @@ imageAlt: "Can I Give My Goats Human Fish Pills?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, you can also find Omega-3 supplements that are specifically designed for goats. When giving your goats fish pills, it is important to make sure that they are properly sized."
+  text: "Yes, human fish oil capsules are safe for goats. They contain omega-3 fatty acids that support coat quality, joint health, and overall condition."
 toc:
   - label: "Can I give my goats human fish pills?"
     href: "#can-i-give-my-goats-human-fish-pills"

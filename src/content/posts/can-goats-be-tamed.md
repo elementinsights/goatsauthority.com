@@ -29,11 +29,11 @@ faq:
   - question: "Can goats be tamed?"
     answer: "Goats can be tamed because they are social animals and enjoy interacting with humans. Goats are very curious creatures and will often approach people to investigate them. They are also easily trained to do tricks and follow commands, which makes them great candidates for taming."
   - question: "Can all goats be tamed?"
-    answer: "While goats are often thought of as naturally wild creatures, there are actually several different types of goats, only some of which can be tamed."
+    answer: "Almost all domestic goats can be tamed given enough time and treats. Bottle-fed kids bond fastest, while feral goats pulled off mountainsides may take months. Food is the universal motivator."
   - question: "What is the difference between tame and domesticated goats?"
-    answer: "Goats are interesting creatures that have been domesticated for thousands of years. There are two main types of goats - tame and domesticated."
+    answer: "All domestic goats are domesticated as a species, meaning they've been bred alongside humans for 10,000 years. 'Tame' refers to an individual goat's comfort with human handling, which varies based on how much it's been socialized."
   - question: "How do you tame a goat?"
-    answer: "Goats are social creatures that enjoy the company of other goats, as well as humans. When taming a goat, it's crucial to building up a bond of trust and respect."
+    answer: "Sit quietly in their pen for 15 to 20 minutes a day with grain or treats nearby. Let the goat come to you on its own terms. Once it takes food from your hand, start gently touching its chin and chest while it eats."
 ---
 Goats can absolutely be tamed, and most domestic breeds take to people pretty naturally once they learn to trust you. The key word there is trust, because you can't rush it or force it.
 

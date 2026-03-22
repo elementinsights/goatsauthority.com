@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Hamburgers?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat hamburgers because they are herbivores. Hamburgers are safe for goats to eat, and it's good for their health."
+  text: "No, goats should not eat hamburgers. They are herbivorous ruminants whose digestive system is built to ferment plant fiber, not process meat, fat, and salt."
 toc:
   - label: "Can goats eat hamburgers?"
     href: "#can-goats-eat-hamburgers"

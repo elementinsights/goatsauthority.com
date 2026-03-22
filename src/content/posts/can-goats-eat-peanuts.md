@@ -31,9 +31,9 @@ faq:
   - question: "Can a pregnant goat eat peanuts?"
     answer: "It's generally safe for pregnant goats to eat peanuts. Peanuts are a good source of protein, fat, and essential vitamins and minerals, which can help support a healthy pregnancy."
   - question: "Can a baby goat eat peanuts?"
-    answer: "A baby goat should not eat peanuts. Peanuts are a common allergen that can cause an allergic reaction in some people, and baby goats are especially susceptible to allergies."
+    answer: "Baby goats should wait until they are eating solid food regularly before you introduce peanuts, and even then start very small. Their digestive systems are still developing."
   - question: "Can goats eat peanut shells?"
-    answer: "Goats are known for their nibbling habits. They will pretty much eat anything they can get their mouths on, including peanut shells. While goats can technically eat peanut shells, that does not mean that it's good for them."
+    answer: "Yes, goats can eat peanut shells without any trouble. They have strong jaws and teeth that handle the shells easily, and the shells add a bit of fiber. Cracking them open seems to be part of the fun."
 ---
 Peanuts are a safe and popular treat for goats, and most of them will crack shells and gobble them up without any hesitation. They are a good source of protein and healthy fat that can supplement your goat's regular diet.
 

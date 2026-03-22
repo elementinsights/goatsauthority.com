@@ -11,7 +11,7 @@ imageAlt: "Can People Ride Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Technically speaking we can ride a goat but it is not advisable. Goats are not built to carry the weight of a human and they can get injured easily."
+  text: "No, people should not ride goats. Even the largest breeds lack the skeletal structure to support a human rider, and riding causes back injuries, joint problems, and spinal damage."
 toc:
   - label: "Can people ride goats?"
     href: "#can-people-ride-goats"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can people ride goats?"
-    answer: "Technically speaking we can ride a goat but it is not advisable. Goats are not built to carry the weight of a human and they can get injured easily. That being said, if you're going to ride a goat, make sure you're gentle and not too heavy."
+    answer: "No, people should not ride goats. Even a large Boer buck doesn't have the skeletal structure to support a human rider. A healthy adult goat should never carry more than about 25 to 30 lbs on its back."
   - question: "What are the benefits of riding a goat?"
-    answer: "There are a few benefits of riding a goat. First, it's a great way to bond with your goat. You'll get to know them better and you'll build a strong relationship."
+    answer: "There are no real benefits to riding a goat, as it causes stress and potential injury to the animal. Instead, train your goat as a pack animal or use a cart, which are safe alternatives that let you work alongside your goat."
   - question: "Are there any risks associated with riding a goat?"
     answer: "There are a few risks associated with riding a goat. First, as we mentioned before, goats are not built to carry the weight of a human. They can easily get injured if you're too heavy or if you're not careful."
   - question: "How to prevent the risks associated with riding a goat?"
-    answer: "There are a number of risks associated with riding a goat, and it is important to take steps to minimize these risks in order to ensure safe and enjoyable goat rides."
+    answer: "The best prevention is simply not riding goats at all. If you want a working goat, train one as a pack goat with a properly fitted pack saddle, or use a goat cart that distributes load through a harness across the chest and shoulders."
 ---
 I see this question come up a lot, and the honest answer is no, people should not ride goats. Even the biggest breeds can't safely carry a human on their back.
 

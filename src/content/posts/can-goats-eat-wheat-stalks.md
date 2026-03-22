@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Wheat Stalks?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat wheat stalks as part of a balanced diet. Wheat stalks are an excellent source of nutrition for goats, providing them with essential vitamins and minerals."
+  text: "Goats can eat wheat stalks safely, but wheat straw has very little nutritional value. It is mostly fiber with only 3-4% crude protein, making it suitable as bedding or a roughage filler but not a primary feed."
 toc:
   - label: "Can goats eat wheat stalks?"
     href: "#can-goats-eat-wheat-stalks"
@@ -33,11 +33,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat wheat stalks?"
-    answer: "Goats can safely eat wheat stalks as part of a balanced diet. Wheat stalks are an excellent source of nutrition for goats, providing them with essential vitamins and minerals. They are also a good source of fiber, which is important for goats' digestive health."
+    answer: "Goats can eat wheat stalks safely, but wheat straw has very little nutritional value with only 3-4% crude protein. It works as a roughage filler alongside richer hays, but should not be the primary forage."
   - question: "How to feed wheat stalks to your goats?"
     answer: "There are a few considerations you should make when feeding wheat stalks to your goats. First and foremost, it's crucial to check that the stalks are dry and uncontaminated by mildew or other impurities."
   - question: "What are the risks associated with feeding wheat stalks to goats?"
-    answer: "There are a few risks associated with feeding wheat stalks to goats. First, the stalks can be quite hard, and if the goat is not used to eating them, they can choke on them."
+    answer: "The main risk is feeding wheat straw as a primary forage, which leads to malnutrition since it has almost no protein or energy. Moldy straw is also dangerous and can cause listeriosis. Always check bales for mold before feeding."
   - question: "How many wheat stalks can a goat eat per day?"
     answer: "A goat may typically consume 4 to 5 percent of its body weight in dry grass per day. That would be roughly 6 to 7.5 pounds of dry fodder for a goat weighing 150 pounds."
 ---

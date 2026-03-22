@@ -11,7 +11,7 @@ imageAlt: "Can Ibuprofen Be Given To Lactating Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Ibuprofen can be administered to a breastfeeding goat, but only with the advice and consent of a goat expert. Ibuprofen can enter the milk and harm infants and children."
+  text: "Ibuprofen can be given to a lactating goat in an emergency, but it is not the preferred choice. Banamine and meloxicam are better suited for goats, and you should dump the milk for at least 48 to 72 hours after dosing."
 toc:
   - label: "Can ibuprofen be given to lactating goats?"
     href: "#can-ibuprofen-be-given-to-lactating-goats"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can ibuprofen be given to lactating goats?"
-    answer: "Ibuprofen can be administered to a breastfeeding goat, but only with the advice and consent of a goat expert. Ibuprofen can enter the milk and harm infants and children. A lactating goat may also be given acetaminophen, but it is less effective than ibuprofen."
+    answer: "Ibuprofen can be given to a lactating goat in an emergency, but Banamine and meloxicam are the preferred pain relievers for goats. Dump the milk for at least 48 to 72 hours after dosing since there is no established withdrawal period for ibuprofen."
   - question: "What is ibuprofen and what does it do to lactating goats?"
     answer: "Ibuprofen, also known as Advil or Motrin, is a popular pain-relieving medication that is often used to treat mild to moderate aches and pains."
   - question: "Is ibuprofen safe to give to lactating goats?"
-    answer: "The question of whether or not ibuprofen is safe to give to lactating goats is a complex one. On the one hand, there is some evidence that ibuprofen can have harmful effects on animal fertility, particularly when it comes to goats and other ruminants."
+    answer: "A single emergency dose is not considered unsafe, but prolonged use can cause GI ulceration in goats. The bigger concern for lactating does is the lack of an established milk withdrawal period."
   - question: "How much ibuprofen can be given to a goat?"
-    answer: "The dosage depends on factors such as the size and age of the goat, as well as the specific condition that it is being treated for."
+    answer: "The commonly referenced dose is approximately 4 to 5 mg per pound of body weight given orally. Do not repeat the dose more than once or twice without talking to your vet."
 ---
 Ibuprofen is not the go-to pain reliever for goats, and using it in a lactating doe adds extra complications. There are better options available, and your vet should be involved in the decision.
 

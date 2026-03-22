@@ -11,7 +11,7 @@ imageAlt: "Can a Goat Pen Have Pine Trees in it?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats."
+  text: "Yes, most common pine species are perfectly safe in a goat pen and provide shade, browse, and a windbreak. The one exception is ponderosa pine, whose needles contain isocupressic acid that can cause abortion in pregnant does."
 toc:
   - label: "Can a goat pen have pine trees in it?"
     href: "#can-a-goat-pen-have-pine-trees-in-it"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a goat pen have pine trees in it?"
-    answer: "It's possible for a goat pen to have pine trees in it. Because pine trees can provide food and shelter for goats. They can also help keep the goats cool in the summer and warm in the winter, as well as provide them with a place to play and exercise."
+    answer: "Yes, most common pine species like eastern white pine and Scotch pine are safe for goats to browse on. The one exception is ponderosa pine, whose needles contain isocupressic acid that can cause abortion in pregnant does."
   - question: "How many pine trees should be in a goat pen?"
-    answer: "Depending on the size of your goat pen, you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees."
+    answer: "There's no set number. A few mature trees provide shade in summer and a windbreak in winter. Protect young saplings with wire guards since goats will strip bark and kill unprotected trees."
   - question: "What are some benefits of having pine trees in a goat pen?"
-    answer: "Goats are browsers and enjoy eating the needles of pine trees. Goats will also rub on the pine trees to scratch their backs."
+    answer: "Pine trees provide shade in summer, a windbreak in winter, and something to rub against. The needles contain some vitamin C and have mild natural deworming properties, and goats enjoy browsing the lower branches."
   - question: "What kind of pine trees are best for a goat pen?"
-    answer: "There are many different types of pine trees, and each has its own set of characteristics. Some pine trees are better suited for a goat pen than others."
+    answer: "Eastern white pine is the best all-around choice since it grows fast and has soft needles goats enjoy. Scotch pine and Austrian pine also work well because of their thick bark. Avoid ponderosa pine around pregnant does."
 ---
 Yes, most pine trees are perfectly fine in a goat pen. Your goats will eat the needles, strip the bark, and use the tree as a scratching post, but the tree itself won't hurt them.
 

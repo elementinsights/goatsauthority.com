@@ -11,7 +11,7 @@ imageAlt: "Can Dogs Have Goat Yogurt?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, it's important to only give your dog plain, unsweetened goat yogurt. Sweetened yogurts can contain too much sugar for your dog and may cause them to develop an upset stomach."
+  text: "Yes, plain goat yogurt is safe for most dogs. It's packed with probiotics that support digestion and immune health, but always use plain, unsweetened varieties since artificial sweeteners like xylitol are toxic to dogs."
 toc:
   - label: "Can dogs have goat yogurt?"
     href: "#can-dogs-have-goat-yogurt"

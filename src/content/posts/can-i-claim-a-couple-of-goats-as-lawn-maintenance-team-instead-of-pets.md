@@ -29,11 +29,11 @@ faq:
   - question: "Can you claim goats as a lawn maintenance team instead of pets?"
     answer: "You can claim goats as a lawn maintenance team instead of pets in some states. Check your local laws to see if this is an option for you. In fact, some farmers use goats as a natural way to keep their pastures clear."
   - question: "What are the benefits of using goats as a lawn maintenance team?"
-    answer: "There are a number of benefits to using goats as a lawn maintenance team. For one thing, these hard-working animals are able to tackle even the toughest and most unruly grasses and weeds, quickly clearing large areas of unwanted vegetation with minimal effort."
+    answer: "Goats are legitimate vegetation management tools used by cities, fire departments, and private companies to clear brush and manage invasive species. Google even used goats to mow grass at their headquarters."
   - question: "What are the drawbacks of using goats as a lawn maintenance team?"
-    answer: "The primary drawback of using goats to maintain a lawn is that they can be quite destructive to the grass itself. Because of their hooves, goats are adept at scraping away the tops of blades and gouging deep holes in the soil."
+    answer: "If your area bans livestock on residential property, calling your goats 'lawn equipment' doesn't change the law. Zoning officers see livestock, not lawn mowers, and you can get a citation regardless of the label."
   - question: "Would it be cheaper to use goats as a lawn maintenance team than traditional methods?"
-    answer: "There is no clear answer to the question of whether goats make a better lawn maintenance team than traditional methods like mowing and aeration. On the one hand, goats are able to help maintain a lawn in several key ways."
+    answer: "Goats can clear brush and manage vegetation, but they require fencing, shelter, feed, and veterinary care. For a standard residential lawn, the ongoing costs of keeping goats usually outweigh the mowing savings."
 ---
 
 This question comes up more than you'd think. Someone finds out their neighborhood doesn't allow pets or livestock, and they wonder if calling their goats a "lawn maintenance team" gets them around the rules. It's creative thinking, but the reality is more complicated than slapping a new label on your animals.

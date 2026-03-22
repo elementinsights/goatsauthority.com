@@ -29,11 +29,11 @@ faq:
   - question: "Can goats and cows graze in the same field at the same time without fighting?"
     answer: "Goats and cows can graze in the same pasture without fighting because they are both herbivores and have a natural preference for eating grass. They are also both social animals that are used to living in close proximity to other animals."
   - question: "What are the benefits of grazing goats and cows together?"
-    answer: "When it comes to raising livestock, there are many different factors to consider. One important question is what type of animals should be grazed together."
+    answer: "Cows keep grass trimmed while goats clean up brushy weeds and woody plants cattle ignore. Mixed grazing also helps with parasite control since most internal parasites are species-specific and die when consumed by the wrong host."
   - question: "What are the risks of grazing goats and cows together?"
-    answer: "Goats and cows are often grazed together, as they are both ruminant animals with similar nutritional requirements. But, there are some risks associated with this practice."
+    answer: "The biggest danger is monensin, an additive in many cattle feeds that is fatal to goats even in small amounts. Fencing is another challenge since cattle fencing has gaps goats slip right through."
   - question: "How can you tell if your goats and cows are getting along well together in the pasture?"
-    answer: "Cattle and goats are both herbivores, so they can graze together peacefully on the same pasture. Despite that, there are a few things you should look for to make sure your cattle and goats are getting along well."
+    answer: "Watch how they move around the pasture. If both species graze calmly in the same area without one group driving the other off, things are going well. Look for signs of stress like a goat that won't leave a corner or a cow that pins a goat against a fence."
 ---
 
 Yes, goats and cows do just fine together in the same pasture. They rarely fight because they eat different things and generally stay out of each other's way.

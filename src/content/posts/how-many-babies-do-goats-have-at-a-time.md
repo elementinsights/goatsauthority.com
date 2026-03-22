@@ -11,7 +11,7 @@ imageAlt: "How Many Babies Do Goats Have At A Time?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats usually have between two and four kids at a time, although some may have more. Twins are the most common, but triplets and quadruplets are not uncommon."
+  text: "Most goats have between one and three kids per pregnancy, with twins being the most common outcome. First-time does almost always have singles, while breeds like Nigerian Dwarfs frequently deliver triplets or even quadruplets."
 toc:
   - label: "How many babies do goats have at a time?"
     href: "#how-many-babies-do-goats-have-at-a-time"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "How many babies do goats have at a time?"
-    answer: "Goats usually have between two and four kids at a time, although some may have more. Twins are the most common, but triplets and quadruplets are not uncommon. On average, a doe will give birth to about 2.5 kids per year."
+    answer: "Most goats have between one and three kids per pregnancy, with twins being the most common. First-time does almost always have singles. By the second and third pregnancies, twins become the standard, and breeds like Nigerian Dwarfs frequently deliver triplets or quadruplets."
   - question: "How do you know when your goat is ready to give birth?"
     answer: "The average gestation period for a goat is about 150 days. Despite that, this can vary slightly depending on the breed of goat."
   - question: "What are some of the birthing complications that can occur in your goats?"

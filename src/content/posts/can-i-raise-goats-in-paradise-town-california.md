@@ -34,10 +34,10 @@ toc:
 faq:
   - question: "Can I raise goats in Paradise Town California?"
     answer: "You can raise goats in Paradise Town, California as long as you follow the local zoning regulations. Before you start raising goats, it is important to check with your local zoning office to see if there are any restrictions or requirements in place."
-  - question: "What are the local city ordinances for goats in Paradise Town, California?"
-    answer: "The city of Paradise does not have any specific ordinances regarding raising goats. Despite that, you will need to follow the general animal husbandry ordinances set forth by the town."
+  - question: "What are the local ordinances for goats in Paradise Town, California?"
+    answer: "Paradise is an unincorporated town in Butte County, so county ordinances apply rather than city rules. Butte County regulates livestock through its zoning code and animal control ordinances. Contact the Butte County Planning Department at (530) 538-7601 for current rules on your parcel."
   - question: "Is there a limit to how many goats I can have in Paradise Town, California?"
-    answer: "There is no limit to the number of goats you can have in Paradise Town, California. However, you will need to obtain a permit from the California Department of Fish and Wildlife if you intend to keep more than three goats."
+    answer: "The number of animals you can keep depends on your parcel size and zoning designation under Butte County rules. Larger parcels generally allow more animals. Check with the Butte County Planning Department for the specific limits on your property."
   - question: "Where can I get a permit to keep goats in Paradise Town, California?"
     answer: "There are many different places where you can get a permit to keep goats in Paradise Town, California. One option is to contact the local government directly, as they are responsible for managing livestock within the city limits."
 ---

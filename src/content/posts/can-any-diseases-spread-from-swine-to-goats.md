@@ -1,6 +1,6 @@
 ---
 title: "Can Any Diseases Spread from Swine to Goats? (Transmittal Diseases, and More)"
-description: "Taking care of goats can be a fun and rewarding experience. But before you bring home your new furry friends, it's important to do your research. One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats."
+description: "Taking care of goats can be a fun and rewarding experience. But before you bring home your new goats, it's important to do your research. One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-25
@@ -11,7 +11,7 @@ imageAlt: "Can Any Diseases Spread from Swine to Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food."
+  text: "Yes, several diseases can spread from swine to goats, including foot-and-mouth disease, pseudorabies, and salmonellosis. Keeping pigs and goats separated is the best way to prevent transmission."
 toc:
   - label: "Can any diseases spread from swine to goats?"
     href: "#can-any-diseases-spread-from-swine-to-goats"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can any diseases spread from swine to goats?"
-    answer: "It's possible for diseases to spread from swine to goats. It's because they are both farm animals and share the same environment and food. They also have similar physiology, which makes them susceptible to the same diseases and parasites."
+    answer: "Yes, several diseases can spread from swine to goats, including foot-and-mouth disease, pseudorabies, and salmonellosis. Both species are cloven-hoofed animals susceptible to the same viruses and bacteria, and pseudorabies is almost always fatal in goats."
   - question: "What are some diseases that can be transmitted between animals?"
-    answer: "There are a number of diseases that can be transmitted between animals, including both contagious and non-contagious diseases."
+    answer: "Foot-and-mouth disease, salmonellosis, and internal parasites like stomach worms and coccidia can all spread between pigs and goats. Pigs shed enormous amounts of FMD virus into the air, and goats can become infected without direct contact."
   - question: "How do you protect your goats from these diseases?"
-    answer: "Goats are susceptible to a number of diseases, many of which can be fatal. For example, goats can contract chlamydia, salmonella, and E. coli from contact with contaminated water or food."
+    answer: "Keep pigs and goats in separate housing and on separate pastures. Do not share feeders, water troughs, or equipment between the two species, and use separate boots and clothing when working with each group."
   - question: "What are the symptoms of transmittal diseases in goats?"
-    answer: "The symptoms of transmittal diseases in goats can vary depending on the disease."
+    answer: "Symptoms vary by disease. Foot-and-mouth causes drooling, lameness, and mouth blisters. Pseudorabies causes intense itching, fever, and death within 48 hours. Salmonellosis shows up as watery diarrhea, fever, and dehydration."
 ---
 If you raise pigs and goats on the same farm, or even on neighboring properties, disease transmission between the two species is a legitimate concern. Yes, several diseases can spread from swine to goats, and some of them are serious.
 

@@ -11,7 +11,7 @@ imageAlt: "Can Male Goats Eat Grain?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Male goats cannot eat grain because it is too high in protein and can cause them to develop urinary calculi. If you are feeding your male goat grain, you need to make sure that the grain is cooked and softened first."
+  text: "Male goats can eat grain in limited amounts, but too much grain raises the risk of urinary calculi, a painful and potentially fatal condition. Maintain a 2:1 calcium-to-phosphorus ratio and add ammonium chloride to the feed."
 toc:
   - label: "Can male goats eat grain?"
     href: "#can-male-goats-eat-grain"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can male goats eat grain?"
-    answer: "Male goats cannot eat grain because it is too high in protein and can cause them to develop urinary calculi. If you are feeding your male goat grain, you need to make sure that the grain is cooked and softened first."
+    answer: "Male goats can eat grain in limited amounts, but too much grain raises the risk of urinary calculi due to excess phosphorus. Wethers are at the highest risk because their urethra is narrower than an intact buck's."
   - question: "What are the risks of feeding male goats grain?"
-    answer: "While feeding male goats a grain-rich diet may seem like a good idea, there are certain risks that should be considered. For one thing, grain is highly caloric, and can lead to obesity in goats if consumed in excess."
+    answer: "The main risk is urinary calculi caused by excess phosphorus in grain. Grain also tips the calcium-to-phosphorus ratio the wrong direction, creating stones that can completely block the urinary tract."
   - question: "How to prevent your male goats from eating grain?"
-    answer: "The best way to prevent your male goats from eating grain is to not have any grain in their diet. Despite that, if you must feed them grain, then you should cook the grain first and only give them a small amount at a time."
+    answer: "Feed good quality grass hay as the backbone of the diet and limit grain to only what is truly necessary. Add ammonium chloride at 0.5% to 1% of the total ration to acidify the urine and prevent stone formation."
   - question: "What are the treatments for male goats with urinary calculi?"
-    answer: "There are a few different treatment options for male goats with urinary calculi. The most common treatment is to have the goat undergo surgery to remove the stones."
+    answer: "The most common treatment is surgery to remove the blockage. A vet may also try flushing the urethra or amputating the urethral process if the stone is lodged near the tip. Severe cases where the bladder has ruptured are usually fatal."
 ---
 
 Male goats can eat grain, but you need to be careful about how much they get. The biggest risk with feeding grain to bucks and wethers is a painful and potentially fatal condition called urinary calculi.

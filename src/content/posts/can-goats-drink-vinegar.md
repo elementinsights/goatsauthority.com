@@ -11,7 +11,7 @@ imageAlt: "Can Goats Drink Vinegar?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can drink vinegar because it has a high acid content, and goats are attracted to anything that is high in acid. Goats like the taste of vinegar and will often drink it if it's available and if they are thirsty."
+  text: "Yes, goats can safely drink diluted apple cider vinegar at about 1 to 2 tablespoons per gallon of water. Many farmers use it for reported digestive and coat benefits, though always offer plain water alongside it."
 toc:
   - label: "Can goats drink vinegar?"
     href: "#can-goats-drink-vinegar"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats drink vinegar?"
-    answer: "Goats can drink vinegar because it has a high acid content, and goats are attracted to anything that is high in acid. Goats like the taste of vinegar and will often drink it if it's available and if they are thirsty."
+    answer: "Yes, goats can safely drink diluted raw apple cider vinegar at 1 to 2 tablespoons per gallon of water. Some goats prefer water with ACV, while others need a few days to adjust. Always offer plain water alongside it."
   - question: "What are the benefits of giving your goats vinegar?"
     answer: "Vinegar is an excellent source of acidity, and adding it to your goats' diet can have a number of benefits. Most importantly, vinegar helps to maintain the proper pH level in the rumen, which is essential for efficient digestion."
   - question: "What are the risks of giving your goats vinegar?"
-    answer: "When it comes to caring for goats, there are a lot of old wives' tales and home remedies floating around."
+    answer: "Do not add vinegar to water for goats with diarrhea or dehydration, as the acidity can make things worse. Baby kids under 4 weeks old should not have vinegar either since their rumen is not developed enough to benefit."
   - question: "How much vinegar can goats drink?"
-    answer: "Most goats can safely consume up to 4 ounces of vinegar per day. However, those that are pregnant or lactating may need to limit their intake to 2 ounces per day."
+    answer: "The standard dose is 1 to 2 tablespoons of raw apple cider vinegar per gallon of water. Start with 1 tablespoon per gallon and gradually work up. Always keep a second bucket of plain water available so goats have a choice."
 ---
 
 Apple cider vinegar in the water bucket is one of those old-school goat keeping practices that has stuck around for decades. Plenty of experienced farmers swear by it, even though the science has not fully caught up yet.

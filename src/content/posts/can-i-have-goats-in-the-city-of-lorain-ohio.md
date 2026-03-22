@@ -11,7 +11,7 @@ imageAlt: "Can I Have Goats In The City Of Lorain Ohio?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can have goats in the city of Lorain, Ohio as long as you adhere to the city's animal control ordinances. These ordinances state that you can have a maximum of two goats per household and that the goats must be confined to your property."
+  text: "Whether you can keep goats in Lorain depends on the city's municipal code. Check the Lorain municipal code for livestock, zoning, and animal control rules that apply to your property."
 toc:
   - label: "Can I have goats in the city of Lorain Ohio?"
     href: "#can-i-have-goats-in-the-city-of-lorain-ohio"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I have goats in the city of Lorain Ohio?"
-    answer: "You can have goats in the city of Lorain, Ohio as long as you adhere to the city's animal control ordinances. These ordinances state that you can have a maximum of two goats per household and that the goats must be confined to your property."
+    answer: "Whether you can keep goats in Lorain depends entirely on the city's municipal code. Check how the city classifies goats, whether they fall under livestock or pets, and contact Lorain City Hall directly for specific rules on your property."
   - question: "What types of goats are best suited for a city environment?"
     answer: "There are several different factors to consider when deciding which types of goats are best suited for a city environment. On the one hand, smaller goat breeds like pygmy goats may be more suitable due to their lower space requirements and smaller overall size."
   - question: "How much space do you need to keep goats in the city?"

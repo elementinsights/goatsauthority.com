@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat Persicaria perfoliata?"
-    answer: "Goats can eat Persicaria perfoliata safely. This plant is not poisonous to them and is actually quite nutritious for goats. It contains high levels of protein, fiber, and essential vitamins and minerals that are essential for goats' health and growth."
+    answer: "Yes, goats can eat mile-a-minute weed (Persicaria perfoliata) safely. The plant is not poisonous, and goats are actually one of the most effective biological controls for this aggressive invasive vine."
   - question: "What are the benefits of Persicaria perfoliata for goats?"
-    answer: "Persicaria perfoliata is a highly nutritious plant that provides many benefits for goats."
+    answer: "The main benefit is that goats get free food while controlling an invasive species. The vine provides decent browse, and goats will eat the leaves, stems, and berries without any health concerns."
   - question: "What are the guidelines for feeding Persicaria perfoliata to goats?"
-    answer: "When feeding Persicaria perfoliata to goats, it is important to follow these guidelines:."
+    answer: "Fence off the affected area with temporary electric netting, let goats browse until they eat it down, then rotate them. Plan to repeat several times per growing season over two to three years."
   - question: "Are there any risks associated with feeding Persicaria perfoliata to goats?"
-    answer: "Persicaria perfoliata, also known as knotweed or Asiatic tearthumb, is a fast-growing herb that is native to Asia. It has been introduced to other regions of the world, including North America, where it is now considered an invasive species."
+    answer: "The small barbed thorns on the stems can scratch a goat's mouth and lips, but most goats handle this fine. If any goat shows mouth irritation, pull them off for a few days."
 ---
 Persicaria perfoliata, commonly called mile-a-minute weed, is an aggressive invasive vine that goats can eat safely. Not only is it non-toxic to goats, but they're actually one of the best natural tools for controlling it.
 

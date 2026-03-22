@@ -37,7 +37,7 @@ faq:
   - question: "What are federal lands and why are they being cleared using goats instead of methods?"
     answer: "Federal lands are owned by the government and managed by various agencies, including the Bureau of Land Management (BLM) and the National Park Service (NPS)."
   - question: "How does the process of clearing federal land with goats work?"
-    answer: "Federal lands are owned by the government and managed by various agencies, including the Bureau of Land Management (BLM) and the National Park Service (NPS)."
+    answer: "A commercial herder brings in anywhere from a few hundred to over a thousand goats contained by temporary electric fencing. The goats eat through the designated zone over days or weeks, then the fencing moves to the next section."
   - question: "What are the benefits of using goats for clearing federal lands instead of other methods?"
     answer: "Goats have been used for clearing federal lands for many years. They are effective at eating invasive plants and brush, and their grazing helps to promote the growth of new vegetation."
 ---

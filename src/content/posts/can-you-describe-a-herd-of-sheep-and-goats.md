@@ -39,7 +39,7 @@ faq:
   - question: "How many are in a herd of sheep and goats?"
     answer: "A herd is a group of sheep and goats that live together. The size of a herd can vary depending on the amount of food and water available, as well as the amount of space."
   - question: "What do sheep and goats eat?"
-    answer: "Sheep and goats are both members of the animal family known as bovids, which includes cattle, buffalo, and deer."
+    answer: "Sheep keep the grass trimmed as grazers eating close to the ground, while goats browse on brush, weeds, and low-hanging branches that sheep ignore. The two species complement each other well on the same pasture."
 ---
 
 If you run sheep and goats together, you've probably noticed they don't act the same way at all. A mixed group of sheep and goats is sometimes called a "mixed flock," though there's no single official term for it.

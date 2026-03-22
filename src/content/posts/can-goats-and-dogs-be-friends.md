@@ -11,7 +11,7 @@ imageAlt: "Can Goats And Dogs Be Friends?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, it's important to keep in mind that goats are prey animals and dogs are predators. So, there's always the potential for the dog to see the goat as food."
+  text: "Yes, goats and dogs can become close friends, especially with livestock guardian breeds that were bred to bond with and protect goats. The dog breed matters a lot, and introductions need to be slow and supervised."
 toc:
   - label: "Can goats and dogs be friends?"
     href: "#can-goats-and-dogs-be-friends"
@@ -37,9 +37,9 @@ faq:
   - question: "What are the benefits of having goats and dogs be friends?"
     answer: "Goats and dogs are both intelligent, social animals that enjoy companionship. When they are friends, they can provide each other with important emotional and physical benefits."
   - question: "What do you need to do to make sure they get along well together?"
-    answer: "If you have pets, it's crucial to introduce them to each other slowly and carefully. Start by keeping them in separate rooms and letting them sniff each other through the door."
+    answer: "Start with the dog on a leash and let the goats approach on their own terms. Keep supervised sessions short at first, about 10 to 15 minutes, and gradually increase the time if the dog stays calm and shows no signs of lunging or fixating."
   - question: "How can you tell if they are getting along well together or not?"
-    answer: "There are a few key signs that you can look for to determine whether goats and dogs are getting along well together."
+    answer: "Good signs include the dog lying calmly near the goats and both animals having loose body language. Red flags include the dog staring intensely, crouching low, or getting stiff when a goat moves quickly."
 ---
 
 Goats and dogs can absolutely become friends, and some pairs get so attached they won't leave each other's side. But you need to understand that goats are prey animals and dogs are predators, so this relationship takes careful management.

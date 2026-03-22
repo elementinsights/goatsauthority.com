@@ -33,7 +33,7 @@ faq:
   - question: "Are there any risks associated with registering a Nigerian dwarf goat without papers?"
     answer: "There are a number of risks associated with registering a Nigerian dwarf goat without papers. Perhaps the most obvious risk is that it can be difficult to verify the authenticity of the animal."
   - question: "What are the things you need to consider before registering your goat?"
-    answer: "There are a number of things that you need to consider before registering your goat. Perhaps the most important is choosing the right breed, as different breeds will have different care requirements and temperaments."
+    answer: "Figure out which registry makes sense for your goals. ADGA is the largest dairy goat registry, and NDGA is breed-specific. Some registries now accept DNA testing to help verify breed purity. Contact the registry directly before starting the application."
 ---
 
 It depends on the situation. You can get some form of registration for a Nigerian Dwarf goat without papers, but it won't be the same as full purebred registration.

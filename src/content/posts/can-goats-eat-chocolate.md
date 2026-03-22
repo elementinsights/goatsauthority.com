@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Chocolate?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats are known for their curious appetite. They can eat a lot of things, but not everything is good for them."
+  text: "No, chocolate is toxic to goats. It contains theobromine, which goats cannot metabolize properly. Dark chocolate and baking chocolate are the most dangerous. Never intentionally feed chocolate to your herd."
 toc:
   - label: "Can Goats Eat Chocolate?"
     href: "#can-goats-eat-chocolate"
@@ -31,7 +31,7 @@ toc:
     href: "#the-dangers-of-chocolate-for-baby-goats"
 faq:
   - question: "Can Goats Eat Chocolate?"
-    answer: "Goats are known for their curious appetite. They can eat a lot of things, but not everything is good for them. One such thing is chocolate. Chocolate contains theobromine, which goats cannot process well."
+    answer: "No, chocolate is toxic to goats. Theobromine builds up in a goat's system because their bodies break it down very slowly. Dark chocolate and baking chocolate are the most dangerous forms."
   - question: "How Much Chocolate Is Harmful for Goats?"
     answer: "Chocolate is not a safe treat for goats. It’s tempting to share your favorite snacks with them, but this can lead to problems. The main issue lies in an ingredient called theobromine."
   - question: "What to Do if Your Goat Eats Chocolate"

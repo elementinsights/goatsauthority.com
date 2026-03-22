@@ -11,7 +11,7 @@ imageAlt: "Can a Goat and Lamb Breed?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "A goat and lamb can breed. Though they are different species, they are both members of the family Bovidae, which includes all even-toed ungulates."
+  text: "Goats and sheep can mate, but a viable offspring is extremely rare. Goats have 60 chromosomes and sheep have 54, and that mismatch causes the vast majority of embryos to fail."
 toc:
   - label: "Can a goat and lamb breed?"
     href: "#can-a-goat-and-lamb-breed"
@@ -34,10 +34,10 @@ toc:
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
-  - question: "Is it legal to breed goats and lamps?"
-    answer: "there's no law against breeding goats and lamps, as long as the animals are healthy and well-cared for. In fact, many farmers and ranchers crossbreed goats and lamps for the benefit that the offspring, known as geeps."
+  - question: "Is it legal to breed goats and lambs?"
+    answer: "There is no law against it, but intentional crossbreeding is not recommended. The chromosome mismatch means nearly every attempt ends in a failed pregnancy, and the surviving geeps are almost always sterile."
   - question: "What are the benefits of breeding goats and lambs?"
-    answer: "By breeding goats and lamps, farmers and ranchers can create animals that are hardy and adaptable."
+    answer: "There are no practical benefits to producing geeps on a farm. They are biological curiosities, not production animals, and most are sterile and face health challenges."
 ---
 
 If you keep both goats and sheep, you have probably wondered whether they can actually crossbreed. The short answer is yes, but it is extremely rare and the science behind it explains why.

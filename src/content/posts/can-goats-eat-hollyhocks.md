@@ -37,7 +37,7 @@ faq:
   - question: "What are hollyhocks and what do they look like?"
     answer: "Hollyhocks are a type of flowering plant that belongs to the mallow family. They are tall plants with thin stems, and their leaves are broad and oval-shaped. Hollyhocks usually bloom in the summer, and their flowers come in a variety of colors, including white, pink, purple, and red."
   - question: "What are the benefits of feeding hollyhocks to goats?"
-    answer: "The Alcea genus of flowering plants includes hollyhocks as a subspecies. These plants have been domesticated for many years; they are native to Asia. Hollyhocks have a number of purposes in conventional medicine in addition to being frequently grown as aesthetic plants."
+    answer: "Hollyhocks provide some fiber and a small amount of vitamins. The mallow family has mild mucilaginous properties that can have a soothing effect on the digestive tract. They are also useful for cleaning up garden beds after the flowering season."
   - question: "What are the risks of feeding hollyhocks to goats?"
     answer: "Hollyhocks are a type of flowering plant that is commonly found in gardens. While they are not poisonous to goats, hollyhocks can cause digestive problems if they are eaten in large quantities."
 ---

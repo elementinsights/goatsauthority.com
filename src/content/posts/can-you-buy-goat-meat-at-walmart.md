@@ -29,7 +29,7 @@ faq:
   - question: "Can you buy goat meat at Walmart?"
     answer: "Walmart sells a range of meats from various animals, including goat meat. The location of the Walmart shop, however, may have an impact on the goat meat's accessibility. Before making a special trip, it is recommended to phone ahead and inquire if they have goat meat in the store."
   - question: "What is goat meat and where does it come from?"
-    answer: "Goat meat is the meat of the domestic goat (Capra aegagrus hircus). It is often called chevon or mutton when the meat comes from an adult goat."
+    answer: "Goat meat goes by different names depending on the region. Chevon refers to adult goat meat, and cabrito is young milk-fed goat. It is the most widely consumed red meat in the world, popular across Africa, the Middle East, the Caribbean, and South Asia."
   - question: "How does goat meat taste compared to other meats?"
     answer: "Goat meat is a little different in taste compared to other meats. It can be a bit tough, so it's often best to cook it slowly over low heat."
   - question: "Is goat meat healthy for you?"

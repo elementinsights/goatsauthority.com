@@ -39,11 +39,11 @@ faq:
   - question: "Can goats eat basil?"
     answer: "Goats can eat basil and enjoy the taste of it. Basil is a good source of vitamins A and C, as well as iron and calcium, essential for a goat's diet. Basil also contains niacin, riboflavin, and thiamin, which are essential to goats and can improve their overall health."
   - question: "Can a pregnant goat eat basil?"
-    answer: "A pregnant goat can eat basil. Basil is an annual herb in the mint family. It's native to India and other tropical countries, but it's also grown in temperate regions."
+    answer: "Yes, pregnant goats can eat basil safely. It is a non-toxic herb that provides vitamins A and K, calcium, and iron. A couple of tablespoons of fresh basil per day is a fine amount."
   - question: "Can a lactating goat eat basil?"
-    answer: "A lactating goat can eat basil. Basil is a safe, non-toxic herb that has many benefits for goats. Goats love the taste of basil, and the herb can help to increase milk production."
+    answer: "Yes, lactating goats can eat basil. Basil has a reputation as a mild galactagogue, meaning it may support milk production. It is a safe supplement alongside proper hay, grain, and minerals."
   - question: "Can a baby goat eat basil?"
-    answer: "Goats are herbivores and their diet consists mostly of grass. Baby goats, or kids, are no different. If you have goats, you may occasionally give them some fresh herbs from your garden as a treat."
+    answer: "Kids under six months should start with just a few leaves. Basil is gentle enough for their developing digestive systems, and the vitamins are good for growing immune systems."
 ---
 
 If you grow basil in your garden, you've probably noticed your goats eyeing it through the fence. Good news: basil is perfectly safe for goats, and most of them really enjoy it.

@@ -11,7 +11,7 @@ imageAlt: "Can Raccoons Kill Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Raccoons can kill goats. In fact, they are one of the most common predators of goats in North America."
+  text: "A healthy adult goat has very little to fear from a raccoon, but newborn kids left unprotected at night are vulnerable. The bigger threat raccoons pose to goats is disease, including rabies and raccoon roundworm."
 toc:
   - label: "Can raccoons kill goats?"
     href: "#can-raccoons-kill-goats"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can raccoons kill goats?"
-    answer: "Raccoons can kill goats. In fact, they are one of the most common predators of goats in North America. Raccoons are attracted to goat herds because they offer an easy food source. Goats are small and agile, making them easy prey for raccoons."
+    answer: "A healthy adult goat has very little to fear from a raccoon. However, newborn kids are vulnerable, especially those born at night in unsecured areas. The bigger raccoon threat is disease, including rabies and raccoon roundworm."
   - question: "What is a raccoon and what do they look like?"
     answer: "A raccoon is a medium-sized mammal that is found throughout much of North America and parts of Europe. They have thick, gray fur, with lighter coloring around the eyes, muzzle, and chin."
   - question: "How do raccoons kill goats?"
-    answer: "Raccoons are notorious predators of goats, with a wide variety of strategies for killing and consuming their prey."
+    answer: "Raccoons are opportunistic feeders that target easy meals like newborn kids, injured animals, or afterbirth during kidding season. They typically bite and claw at a small kid, going for the head, neck, or abdomen."
   - question: "What are some preventative measures you can take to protect your goats from raccoons?"
     answer: "There are many things that you can do to prevent raccoons from targeting your goats. For starters, it's a good idea to make sure that your fences are in good condition and tall enough to keep the animals safe."
 ---

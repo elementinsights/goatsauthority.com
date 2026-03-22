@@ -11,7 +11,7 @@ imageAlt: "Can Goats Save Sperm?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, it's important to note that not all goats are equally good at saving sperm. Some goats may be better at it than others."
+  text: "Goats cannot store sperm internally for later use. Once a doe is bred, sperm either fertilizes eggs within 12-24 hours or it dies. However, buck semen can be frozen and stored in liquid nitrogen for decades."
 toc:
   - label: "Can goats save sperm internally?"
     href: "#can-goats-save-sperm-internally"
@@ -27,11 +27,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats save sperm?"
-    answer: "Goats can save sperm. In fact, they are often used for this purpose in the livestock industry. Goats are able to store sperm for long periods of time without any negative effects. They can also be used to inseminate other animals, such as cows."
+    answer: "Goats cannot store sperm internally. Once bred, sperm either fertilizes eggs within 12-24 hours or dies. However, buck semen can be collected, frozen in liquid nitrogen at -196 degrees Celsius, and stored for decades."
   - question: "What is semen freezing and why is it used in goats?"
     answer: "Semen freezing is a process whereby sperm cells are collected and stored in a frozen state. There are many reasons why this might be done, but in goats, it's often used in order to preserve the genetics of particularly valuable animals."
   - question: "How to collect goat semen for freezing"
-    answer: "Collecting goat semen for freezing is a relatively simple process, but there are a few things to keep in mind in order to ensure successful collection and storage."
+    answer: "Collection is done at specialized facilities by trained technicians using an artificial vagina or electroejaculation. The semen is mixed with an extender solution, packaged in straws, and submerged in liquid nitrogen. Sessions cost $200 to $500."
   - question: "What are the benefits of using frozen semen?"
     answer: "There are many benefits of using frozen semen. First, it allows you to preserve the genetics of valuable animals. Second, it allows you to use the semen of animals that are no longer alive."
 ---

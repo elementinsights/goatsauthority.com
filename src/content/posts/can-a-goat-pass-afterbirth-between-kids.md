@@ -37,9 +37,9 @@ faq:
   - question: "What is afterbirth and what happens to a goat's afterbirth?"
     answer: "Afterbirth is the placenta and fetal membranes that are expelled from the mother during childbirth. In goats, the afterbirth consists of two parts: the allantochorion and the amnion."
   - question: "How do you care for a newborn goat kid?"
-    answer: "Here are a few things you should know about caring for your new addition."
+    answer: "Clear mucus from the nose and mouth, dip the navel cord in 7% iodine, and make sure each kid nurses colostrum within the first hour. Have frozen colostrum or a replacer on hand as backup in case the doe rejects a kid."
   - question: "What are the common problems associated with afterbirth in goats?"
-    answer: "Afterbirth is the placenta and accompanying fluids that are expelled from the uterus after an animal gives birth. In goats, the afterbirth typically consists of two large, flat discs of tissue known as cotyledons."
+    answer: "Retained afterbirth is the main concern. If the placenta doesn't pass within 12-24 hours after the last kid, the doe can develop metritis (uterine infection). Never pull on a hanging placenta since tearing it leaves pieces inside."
 ---
 
 Yes, a doe can pass partial placental material between delivering multiple kids. This is completely normal during kidding and not something to panic about if the doe is otherwise acting fine.

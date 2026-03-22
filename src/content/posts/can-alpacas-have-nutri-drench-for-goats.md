@@ -11,7 +11,7 @@ imageAlt: "Can Alpacas Have Nutri Drench for Goats?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal."
+  text: "Yes, goat Nutri-Drench can be used for alpacas in an emergency. It delivers a fast hit of vitamins and energy, but it should be limited to emergency use since alpacas are more sensitive to copper than goats."
 toc:
   - label: "Can alpacas have Nutri Drench for goats?"
     href: "#can-alpacas-have-nutri-drench-for-goats"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can alpacas have Nutri Drench for goats?"
-    answer: "Alpacas can have Nutri-Drenched for goats. In fact, they are able to absorb more nutrients from plants than any other animal. This is due to their long intestines, which extract a greater amount of nutrients from vegetation. Alpacas also have a four-chamber stomach that ferments food for longer."
+    answer: "Yes, goat Nutri-Drench is safe for alpacas and widely used by alpaca owners in emergencies. The standard dose is 1 oz per 25 lbs of body weight. Keep it to emergency use since alpacas are more sensitive to copper than goats."
   - question: "What is Nutri Drench for goats and what are its benefits?"
-    answer: "Nutri Drench for goats is a vitamin and mineral supplement that is added to their water. It's a quick and easy way to give your goats the nutrients they need on a daily basis."
+    answer: "Nutri-Drench is a concentrated liquid supplement packed with vitamins, minerals, and quick energy from its molasses and fat base. It is designed to be absorbed quickly, making it useful for animals that are too weak to eat or drink on their own."
   - question: "How much Nutri Drench should you give an alpaca per day?"
-    answer: "Alpacas are often considered to be low-maintenance livestock, but they still require some basic care in order to stay healthy and thrive."
+    answer: "Nutri-Drench is not meant to be a daily supplement for alpacas. It's an emergency energy and vitamin boost. Give it once or twice when the animal is down, then switch to a camelid-specific supplement for ongoing support."
   - question: "What are the side effects of Nutri Drench for goats?"
-    answer: "Nutri Drench is a nutritional supplement that is designed for goats. It's a liquid supplement that contains vitamins, minerals, and amino acids."
+    answer: "At the recommended dose, side effects are rare. The biggest risk for alpacas is copper buildup from repeated doses, since goat Nutri-Drench contains copper that camelids are more sensitive to."
 ---
 Yes, goat Nutri-Drench can be used for alpacas in an emergency. The vitamins and energy boost it provides are similar to what camelids need when they are weak or stressed.
 

@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "What are the benefits of keeping baby goats together in one pen versus separating them into individual pens?"
-    answer: "There are a few benefits to keeping baby goats together in one pen."
+    answer: "Keeping kids together promotes socialization and teaches normal herd behavior like establishing pecking order, sharing food, and communicating through play. Isolated kids often develop behavioral problems as adults."
   - question: "Can 8 Week Old Baby Goats Be in With Each Other?"
-    answer: "8 week old baby goats can be in with each other if they are of the same sex. Baby goats need to be around other goats to socialize. If you put two baby goats together that are of different sexes, they may try to mate and could hurt each other."
+    answer: "Yes, 8-week-old kids should be housed together since goats are herd animals that need socialization. The key rule is to separate bucklings from doelings by 8 weeks old because bucklings can breed much earlier than most people realize."
   - question: "What do baby goats eat?"
-    answer: "Baby goats, like all other young animals, require a diet that is rich in nutrients in order to support their rapid growth and development. For this reason, baby goats should be fed a specialized diet of goat milk replacer from birth until they are weaned onto solid food at around 6-8 weeks of age."
+    answer: "By 8 weeks, kids are eating hay and grain alongside their milk. Weaning typically happens between 8 and 12 weeks depending on the kid's size and how well it's eating solid food."
   - question: "How much water do baby goats need to drink each day?"
-    answer: "Baby goats, or kids, need to drink between 2 and 4 quarts of milk per day. In addition, they should have access to water at all times."
+    answer: "Baby goats should have access to fresh, clean water at all times in addition to their milk. Adequate hydration is critical for preventing coccidiosis and other diseases common in young kids."
 ---
 
 Yes, 8-week-old baby goats can absolutely be housed together, and they should be. Goats are herd animals from day one, and keeping kids isolated does more harm than good.

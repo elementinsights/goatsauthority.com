@@ -11,7 +11,7 @@ imageAlt: "Can a Baby Have Powdered Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's not recommended that you give it to your baby because powdered goat's milk doesn't have the fat or calories that infants need for proper growth and development. In addition, goat's milk is higher in sodium than cow's milk, which can be detrimental to a baby's health."
+  text: "Powdered goat milk is not recommended for babies under 12 months because it lacks adequate folic acid, vitamin B12, and iron for infant nutrition. For toddlers 12 months and older, reconstituted powdered goat milk is a fine option."
 toc:
   - label: "Can a baby have powdered goat's milk?"
     href: "#can-a-baby-have-powdered-goats-milk"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Is goat's milk healthier than cow's milk?"
-    answer: "there's no definitive answer to this question. Some people believe that goat's milk is easier to digest and contains more nutrients than cow's milk. However, there's no scientific evidence to support these claims."
+    answer: "Neither one is strictly healthier than the other. Goat milk has slightly more calcium and potassium, while cow milk typically has more B12 and folic acid. Goat milk's smaller fat globules do make it easier to digest for some people."
   - question: "How is powdered goat milk made?"
-    answer: "Powdered goat milk is made by evaporating the water from fresh goat milk. This leaves behind a powder that can be reconstituted with water."
+    answer: "Fresh goat milk is pasteurized and then spray-dried at high temperatures to remove the water. The resulting powder retains most of the original nutrients and can be stored at room temperature in a sealed container."
   - question: "How to preserve goat's milk?"
-    answer: "Goat's milk can be stored in the fridge for up to 2 days."
+    answer: "Fresh goat milk lasts about 3 to 5 days in the refrigerator and can be frozen for up to 3 months. Once reconstituted from powder, treat it like fresh milk and use it within 24 hours."
 ---
 
 Powdered goat milk is not recommended as a substitute for infant formula. It lacks key nutrients that babies under 12 months need, and using it as a primary food source for an infant can cause serious health problems.

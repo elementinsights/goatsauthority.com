@@ -39,7 +39,7 @@ faq:
   - question: "What are some things to consider when giving goats pumpkins?"
     answer: "When giving goats pumpkins, there are a few things you should consider. First, you should make sure the pumpkin is fresh. Pumpkins that are old or moldy can make goats sick."
   - question: "Are there any risks associated with giving goats moldy pumpkins?"
-    answer: "There is no definitive answer to this question, as there are many different factors that can influence the potential risks associated with giving goats moldy pumpkins."
+    answer: "Yes, moldy pumpkins produce mycotoxins including aflatoxins and zearalenone that can cause permanent liver damage, reproductive problems, and even death in goats. If a pumpkin has visible mold, throw it out."
 ---
 No, do not feed moldy pumpkins to your goats. Mold produces mycotoxins that can cause liver damage, reproductive problems, and even death, and your goats cannot tell the difference between a safe pumpkin and a toxic one.
 

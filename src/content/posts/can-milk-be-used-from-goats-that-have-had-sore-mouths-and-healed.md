@@ -35,9 +35,9 @@ faq:
   - question: "Can milk be used from goats that have had sore mouths and healed?"
     answer: "Milk can be used from goats that have had sore mouths and healed. In fact, many goat owners do not hesitate to use milk from a goat with a sore mouth. The main thing you need to consider is the quality of the milk."
   - question: "What is a sore mouth and what are the symptoms in goats?"
-    answer: "A sore mouth is a disease that affects goats, primarily young kids, and adult dairy cows. It is caused by a bacteria called parapoxvirus ovis, which can be transmitted between animals by direct contact."
+    answer: "Sore mouth, also called orf or contagious ecthyma, is caused by a parapoxvirus that spreads through direct contact. It causes blisters and scabs around the mouth, nose, and sometimes the udder and teats."
   - question: "What are the benefits of using milk from a goat with a sore mouth?"
-    answer: "There are several benefits of using milk from a goat with a sore mouth. First, it is a good source of nutrition for the animal."
+    answer: "Once the goat has fully healed, the milk is safe because the virus stays in the skin tissues and scabs, not the milk supply. Pasteurizing the milk after healing provides an extra layer of safety."
   - question: "When should you not use milk from a goat with a sore mouth?"
     answer: "There are some circumstances when you should not use milk from a goat with a sore mouth. First, if the goat is showing signs of infection, such as bad odor, changed color, or clumping, the milk should be discarded."
 ---

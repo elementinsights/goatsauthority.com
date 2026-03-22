@@ -33,7 +33,7 @@ faq:
   - question: "Can goats eat pumpkin seeds?"
     answer: "Pumpkin seeds are edible to goats. Pumpkin seeds are an excellent source of protein for goats."
   - question: "Can goats eat pumpkin leaves?"
-    answer: "Pumpkin leaves are edible to goats. For goats, pumpkin leaves are a good source of fiber. Before offering the pumpkin to the goat, you should take the leaves off."
+    answer: "Pumpkin leaves are safe for goats and a good source of fiber. The entire pumpkin plant, including leaves, vines, flowers, and the fruit itself, is safe for goats to eat."
   - question: "Can goats eat pumpkin puree?"
     answer: "Pumpkin purée can be eaten by goats. Goats can obtain essential nutrients from pumpkin puree. Prior to feeding the puree to the goat, you should verify that it's devoid of sugar and other additives."
   - question: "Can goats eat roasted pumpkin seeds?"

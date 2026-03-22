@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Centipede Grass?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can safely eat centipede grass. This type of grass is a good source of nutrition for goats and it's also a type of grass that is easy for them to digest."
+  text: "Yes, centipede grass is safe for goats, but it is low in protein (6-9% crude protein) and not the most nutritious forage option. Supplement with quality hay and a goat-formulated loose mineral."
 toc:
   - label: "Can goats eat centipede grass?"
     href: "#can-goats-eat-centipede-grass"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat centipede grass?"
-    answer: "Goats can safely eat centipede grass. This type of grass is a good source of nutrition for goats and it's also a type of grass that is easy for them to digest. Centipede also has a high moisture content, which is good for goats who live in hot climates."
+    answer: "Yes, centipede grass is safe for goats. It is lower in fructans than ryegrass or fescue, making it a safer option for bloat-prone goats. However, it is low in protein and should be supplemented with hay and minerals."
   - question: "What is centipede grass and what are its benefits?"
-    answer: "A warm-season turfgrass that is frequently utilized in lawns is called centipede grass. It's distinguished by its ten-blade whorls of delicate, creepy-crawly foliage."
+    answer: "Centipede grass is a warm-season turfgrass common in the southeastern United States. Its main advantage for goats is lower fructan content than ryegrass or fescue, making it safer for bloat-prone goats."
   - question: "Are there any risks associated with feeding goats centipede grass?"
-    answer: "While centipede grass is generally considered safe for goats, there are a few potential risks to be aware of."
+    answer: "There are no toxicity risks. The main drawback is low nutritional value at only 6-9% crude protein. If your pasture is mostly centipede grass, supplement with quality hay and a protein source."
   - question: "How much centipede grass should I give my goat?"
-    answer: "When it comes to goats, there are a lot of factors to consider when deciding how much centipede grass to give them."
+    answer: "Centipede grass is fine as part of a mixed pasture but should not be the sole forage source. Supplement with quality hay, browse, and a goat-formulated loose mineral to meet their full nutritional needs."
 ---
 Yes, centipede grass is safe for goats to eat. It will not cause them any harm, though it is not the most nutritious forage option out there either.
 

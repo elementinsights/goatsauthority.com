@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have A Stroke Anemia?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can have stroke anemia, which is a form of anemia that is caused by a lack of oxygen to the brain. This can happen if the goat's heart is not able to pump enough blood to the brain and other organs."
+  text: "True strokes are rare in goats. What most owners call a stroke is usually listeriosis or goat polio. Severe anemia from barber pole worm is a separate issue that can mimic stroke-like symptoms."
 toc:
   - label: "Can goats have a stroke anemia?"
     href: "#can-goats-have-a-stroke-anemia"
@@ -27,9 +27,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats have a stroke anemia?"
-    answer: "Goats can have stroke anemia, which is a form of anemia that is caused by a lack of oxygen to the brain. This can happen if the goat's heart is not able to pump enough blood to the brain and other organs."
+    answer: "True strokes are rare in goats. What looks like a stroke is usually listeriosis (circling disease) or goat polio (thiamine deficiency). Severe anemia from barber pole worm can also cause similar stumbling and weakness."
   - question: "What is a stroke in goats and what are the symptoms to look out for?"
-    answer: "A stroke is a medical emergency that occurs when the blood supply to the brain is disrupted. This can happen due to a blockage, such as a clot, or a bleed. When the brain doesn't get the oxygen it needs, damage can occur."
+    answer: "A goat with listeriosis walks in circles, tilts its head, and shows facial paralysis. Goat polio presents with stargazing (head thrown back) and blindness. Both come on fast and need immediate treatment within hours."
 ---
 
 True strokes are actually rare in goats. Most of the time, what looks like a stroke is something else entirely, and knowing the difference can save your goat's life.

@@ -11,7 +11,7 @@ imageAlt: "Can Pygmy Goats Eat Milkweed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Pygmy goats can eat milkweed as long as it is fresh and free from any chemicals. Milkweed is a good source of nutrients for goats, including protein, calcium, and phosphorus. They are also a source of fiber and can help with digestive problems"
+  text: "No, pygmy goats should not eat milkweed. It contains cardiac glycosides that attack the heart muscle and can cause fatal heart failure, even in relatively small amounts."
 toc:
   - label: "Can pygmy goats eat milkweed?"
     href: "#can-pygmy-goats-eat-milkweed"
@@ -33,11 +33,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can pygmy goats eat milkweed?"
-    answer: "Pygmy goats can eat milkweed as long as it is fresh and free from any chemicals. Milkweed is a good source of nutrients for goats, including protein, calcium, and phosphorus. They are also a source of fiber and can help with digestive problems."
+    answer: "No, pygmy goats should not eat milkweed. It contains cardiac glycosides called cardenolides that attack the heart muscle and can cause fatal heart failure. Pygmy goats are especially at risk because of their small body size."
   - question: "What is milkweed and what are its benefits for goats?"
-    answer: "Milkweed is a type of flowering plant that is commonly found in grasslands, meadows, and wetlands. It is especially prized by dairy farmers and goat owners because it is a highly nutritious food source for livestock."
+    answer: "Milkweed is a perennial flowering plant found across North America in pastures, roadsides, and open meadows. While important for monarch butterflies, every part of the plant is toxic to goats, including the leaves, stems, flowers, and seed pods."
   - question: "Are there any risks associated with feeding milkweed to pygmy goats?"
-    answer: "As with any type of food, there are always some risks associated with feeding milkweed to pygmy goats. The biggest concern is that milkweed contains a substance called saponin, which can be toxic to goats in large amounts."
+    answer: "The risks are severe and can be fatal. Cardiac glycosides from milkweed interfere with the heart's function, causing irregular heartbeat and cardiac arrest. Symptoms include drooling, dilated pupils, staggering, labored breathing, and seizures."
   - question: "How to identify milkweed plants?"
     answer: "The first step in identifying milkweed plants is to familiarize yourself with the appearance of the plant. Milkweed typically has soft, velvety leaves that are heart-shaped and slightly elongated at the base, tapering to a point at the tips."
 ---

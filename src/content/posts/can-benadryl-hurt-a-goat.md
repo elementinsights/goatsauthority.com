@@ -11,7 +11,7 @@ imageAlt: "Can Benadryl Hurt a Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Benadryl can hurt a goat. The active ingredient in Benadryl, diphenhydramine, can be toxic to goats at high doses."
+  text: "At the correct dosage, Benadryl is safe for goats and belongs in every goat owner's barn kit. The standard dose is 1 to 2 mg per pound of body weight given orally every 6 to 8 hours."
 toc:
   - label: "Can Benadryl hurt a goat?"
     href: "#can-benadryl-hurt-a-goat"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can Benadryl hurt a goat?"
-    answer: "Benadryl can hurt a goat. The active ingredient in Benadryl, diphenhydramine, can be toxic to goats at high doses. Benadryl also has the potential to interact with other medications that your goat is taking and may cause side effects, such as dry mouth, constipation, and urinary retention."
+    answer: "At the correct dosage of 1 to 2 mg per pound of body weight, Benadryl is safe for goats. A massive overdose can cause excessive sedation or respiratory depression, but at normal doses it's a staple medication most experienced owners keep on hand."
   - question: "What is Benadryl and what are its benefits for goats?"
-    answer: "Antihistamine Benadryl is frequently used to treat allergies in people. However, goats with respiratory issues can also benefit from its treatment. Goats that are sick with the flu or a cold may have trouble breathing because of congestion."
+    answer: "Benadryl (diphenhydramine) is an antihistamine that blocks allergic responses. When a goat has an allergic reaction, it causes swelling, itching, and sometimes trouble breathing, and Benadryl blocks that response and brings the swelling down fast."
   - question: "What are the risks of giving Benadryl to goats?"
-    answer: "Antihistamines like Benadryl are frequently used to treat allergies in people. Despite that, it can also be administered to goats to treat a number of ailments, such as hives, respiratory issues, and insect bites."
+    answer: "The most common side effect is drowsiness, which is completely normal. A massive overdose can cause excessive sedation or respiratory depression, but at recommended doses the risks are minimal."
   - question: "How to give Benadryl to a goat?"
-    answer: "Giving Benadryl to a goat can help to relieve the symptoms of an allergic reaction. The recommended dosage is 1-2 mg per pound of body weight, given orally. For a standard-sized goat, this works out to 1/4-1/2 teaspoon of liquid Benadryl or 1/8-1/4 tablet."
+    answer: "The standard dosage is 1 to 2 mg per pound of body weight, given orally. For a 100-pound goat, that's 4 to 8 of the standard 25 mg tablets. Crush them into feed or peanut butter, or use children's liquid Benadryl with a dosing syringe."
 ---
 
 If your goat gets stung by a bee and their face starts puffing up, you need to know whether it's safe to grab the Benadryl. The short answer is yes, it's safe at the right dose and it belongs in every goat owner's barn kit.

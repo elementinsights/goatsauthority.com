@@ -31,11 +31,11 @@ faq:
   - question: "Can goats eat sweet potatoes?"
     answer: "Goats can consume sweet potatoes. As a matter of fact, sweet potatoes are a good source of vitamins A and C, as well as fiber, for goats. It also contains a substance called carotene, which helps to protect goats from disease."
   - question: "Can goats eat sweet potato leaves?"
-    answer: "Sweet potatoes are a type of root vegetable that is often eaten by humans. The leaves of the sweet potato plant are also edible and can be a good source of vitamins and minerals."
+    answer: "Yes, sweet potato vines and leaves are completely safe for goats. They are rich in vitamin A and copper, and most goats love them. The vines make fantastic supplemental forage throughout the growing season."
   - question: "Can goats eat sweet potato roots?"
-    answer: "Sweet potatoes are a highly nutritious root vegetable that can be enjoyed by humans and animals alike. Goats are particularly fond of sweet potatoes, and they can safely eat both the flesh and the skin of the vegetable."
+    answer: "Yes, both the flesh and skin of sweet potato roots are safe for goats. Chop the roots into 1 to 2 inch pieces rather than feeding whole, since a full-sized sweet potato is dense enough that a goat could choke on a large piece."
   - question: "Are sweet potatoes good for goats?"
-    answer: "Sweet potatoes are a type of root vegetable that is often touted for their health benefits. Though they are commonly thought of as being part of the potato family, sweet potatoes are actually more closely related to morning glories."
+    answer: "Sweet potatoes are rich in beta-carotene, which converts to vitamin A for immune function, vision, and reproductive health. They also provide vitamin C, fiber, and potassium. Unlike regular potatoes, they contain no solanine."
 ---
 
 Yes, sweet potatoes are safe and nutritious for goats. Despite the name, they are not related to regular potatoes at all and carry none of the solanine concerns that come with white potatoes.

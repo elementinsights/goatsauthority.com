@@ -31,9 +31,9 @@ faq:
   - question: "Can goats eat strawberries?"
     answer: "Goats can eat strawberries. In fact, they enjoy them very much. However, it's important to remember that goats are grazing animals and their diet should consist mainly of hay and grass. So while they can enjoy the occasional strawberry, it shouldn't make up the bulk of their diet."
   - question: "What are the benefits of goats eating strawberries?"
-    answer: "Contrary to popular belief, goats are not picky eaters and will enjoy a variety of fruits and vegetables. As a matter of fact, goats are known to be particularly fond of strawberries."
+    answer: "Strawberries are a good source of vitamin C and antioxidants that support immune function. They also provide dietary fiber for healthy digestion and natural sugars for a quick energy boost."
   - question: "How many strawberries should be fed to goats?"
-    answer: "Goats are curious and intelligent animals that can make great pets. They are known for being very friendly, and they enjoy interacting with people. While goats are not typically considered to be carnivores, they are actually omnivores."
+    answer: "Feed 3 to 5 strawberries per adult goat as an occasional treat, and 1 to 2 for kids and smaller breeds. Strawberries should never replace a goat's regular diet of hay, browse, and forage."
   - question: "What are the types of strawberries?"
     answer: "There are three main types of strawberries- June-bearing, ever-bearing, and day-neutral."
 ---

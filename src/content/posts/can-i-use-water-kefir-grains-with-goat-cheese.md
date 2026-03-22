@@ -11,7 +11,7 @@ imageAlt: "Can I Use Water Kefir Grains With Goat Cheese?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use water kefir grains with goat cheese, but it is not necessary. Goat cheese is a type of cheese that is made from goat milk."
+  text: "Water kefir grains will not work for making goat cheese. They are designed to ferment sugar water, not dairy. You need milk kefir grains for any goat milk fermentation project."
 toc:
   - label: "Can I use water kefir grains with goat cheese?"
     href: "#can-i-use-water-kefir-grains-with-goat-cheese"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I use water kefir grains with goat cheese?"
-    answer: "You can use water kefir grains with goat cheese, but it is not necessary. Goat cheese is a type of cheese that is made from goat milk. Water kefir grains are a type of probiotic that can be used to make a fermented drink."
+    answer: "Water kefir grains will not work for making goat cheese. They ferment sugar water, not dairy. If you want to make kefir cheese from goat milk, you need milk kefir grains instead."
   - question: "What are water kefir grains and what are their benefits?"
-    answer: "Water kefir grains are tiny, gelatinous clumps of bacteria and yeast that are naturally found in freshwater."
+    answer: "Water kefir grains are small, translucent clumps of bacteria and yeast that ferment sugar water into a mildly fizzy probiotic drink. They are a dairy-free probiotic option."
   - question: "What is goat cheese and what are its benefits?"
     answer: "Goat cheese is a type of soft, unripened cheese made from the milk of goats. It has a tangy, slightly acidic flavor and a crumbly texture that is perfect for adding creaminess to foods like kinds of pasta and pizzas."
   - question: "How to make water kefir with goat cheese?"
-    answer: "To make water kefir with goat cheese, you will need to start by warming up 1 cup of milk. You can heat it up on the stovetop or in a microwave, depending on your preferred method."
+    answer: "To make kefir cheese from goat milk, add about a tablespoon of milk kefir grains to a quart of fresh goat milk, let it ferment at room temperature for 24 to 48 hours, then strain and drain through cheesecloth in the fridge."
 ---
 This is a question that comes up in homesteading circles more often than you might expect. The short answer requires understanding an important distinction: water kefir grains and milk kefir grains are two completely different things.
 

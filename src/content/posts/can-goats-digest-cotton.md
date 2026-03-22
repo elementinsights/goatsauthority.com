@@ -37,9 +37,9 @@ faq:
   - question: "Can goats digest cotton?"
     answer: "Goats can digest cotton because they have a four-chamber stomach. This allows them to eat tough plants and break them down into nutrients that the goat can use. They also have a specially adapted liver that helps them detoxify plants that might be poisonous to other animals."
   - question: "What are the benefits of goats eating cotton?"
-    answer: "Goats are versatile animals that can provide a variety of benefits to farmers. One lesser-known use for goats is as cotton eaters. Cotton plants are often treated with dangerous pesticides and herbicides, which can contaminate the soil and water."
+    answer: "Cotton plants can serve as supplemental forage in areas where cotton is grown. Goats will eat the leaves, stems, and leftover bolls after harvest. The raw fiber provides cellulose that rumen bacteria break down like any other plant material."
   - question: "What are the risks of goats eating cotton?"
-    answer: "Although goats can digest cotton, it's crucial to note that just because they can eat something, doesn't mean that they should. Goats are browsers, not grazers like cows."
+    answer: "Processed cotton fabric, clothing, and towels contain dyes, chemicals, and often synthetic fiber blends. Long threads and fabric strips can tangle inside the intestines and create a fatal blockage. Keep all textiles away from your herd."
   - question: "How much cotton can goats eat?"
     answer: "The amount of cotton that goats can eat depends on the individual goat and the type of plants they are eating. Younger, smaller goats will likely not be able to eat as much as older, larger goats."
 ---

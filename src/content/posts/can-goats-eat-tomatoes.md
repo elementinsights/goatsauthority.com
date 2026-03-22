@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Tomatoes? (Benefits, Risks, and Serving Size)"
-description: "I'm a goat owner, just like many of you. We all want what's best for our four-legged friends. One common question I hear is about goats and tomatoes. It might seem odd, but it comes up more than you'd think."
+description: "I'm a goat owner, just like many of you. We all want what's best for our goats. One common question I hear is about goats and tomatoes. It might seem odd, but it comes up more than you'd think."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-03
@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Tomatoes?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "However, not everything is good for them to consume. Tomatoes fall under the category of safe foods for goats."
+  text: "Ripe red or yellow tomatoes are safe for goats as a treat, but the leaves, stems, and vines of the tomato plant are toxic due to solanine and tomatine. Green tomatoes should also be avoided."
 toc:
   - label: "Can goats eat tomatoes?"
     href: "#can-goats-eat-tomatoes"
@@ -27,11 +27,11 @@ toc:
     href: "#keeping-goats-out-of-the-tomato-garden"
 faq:
   - question: "Can Goats Eat Tomatoes?"
-    answer: "Yes, goats can eat tomatoes. But let's delve a bit deeper into this topic. Goats are known for their hearty appetites. They will nibble on many things they find in the wild or around your farm."
+    answer: "Yes, ripe red or yellow tomato fruit is safe for goats as a treat. The flesh, juice, and seeds of a fully ripe tomato pose no danger. However, all green parts of the tomato plant are toxic."
   - question: "Can Goats Eat Tomato Plants, Leaves, Vines, and Roots?"
     answer: "Can goats eat tomato plants, leaves, vines and roots? The short answer is no. Tomato plants are part of the nightshade family. This means they contain a toxic substance called solanine."
   - question: "Can Goats Eat Green Tomatoes?"
-    answer: "Goats can eat green tomatoes, but in moderation. Green tomatoes contain solanine, a substance that is toxic to goats if consumed in large amounts. This doesn't mean you should avoid them completely."
+    answer: "Green tomatoes contain higher levels of solanine than ripe ones and are not recommended for goats. Wait until tomatoes are fully ripe and have turned their natural color before offering them."
   - question: "Can Goats Eat Tomatoes Raw or Cooked?"
     answer: "Can goats eat tomatoes, whether raw or cooked? This is a question many goat owners ask. The simple answer is yes. Goats can safely consume both raw and cooked tomatoes."
 ---

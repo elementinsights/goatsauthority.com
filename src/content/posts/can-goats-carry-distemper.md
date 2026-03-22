@@ -11,7 +11,7 @@ imageAlt: "Can Goats Carry Distemper?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible goats can carry distemper because they are susceptible to the same viruses that cause the disease in other animals. They are also able to spread the disease to other animals, including dogs and cats, through close contact."
+  text: "No, goats cannot carry or contract canine distemper. The disease sometimes called 'goat distemper' is actually PPR (peste des petits ruminants), a different virus mainly found in Africa, the Middle East, and parts of Asia."
 toc:
   - label: "Can goats carry distemper?"
     href: "#can-goats-carry-distemper"
@@ -37,13 +37,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats carry distemper?"
-    answer: "it's possible goats can carry distemper because they are susceptible to the same viruses that cause the disease in other animals. They are also able to spread the disease to other animals, including dogs and cats, through close contact."
+    answer: "No, goats cannot carry or contract canine distemper virus (CDV). This virus affects dogs, raccoons, and other carnivores, not goats. PPR, sometimes called 'goat distemper,' is a different virus not present in North America or Europe."
   - question: "What is distemper and how does it spread?"
-    answer: "Distemper is a highly contagious viral disease that affects a wide range of animals, including dogs, cats, ferrets, and even seals."
+    answer: "Canine distemper is caused by a paramyxovirus that spreads through respiratory droplets from infected dogs and other carnivores. PPR is caused by a different paramyxovirus that spreads through direct contact and is not present in North America, Europe, or Australia."
   - question: "What are the symptoms of distemper in goats?"
-    answer: "Distemper in goats is a highly contagious disease that can have serious consequences. Early symptoms include fever, runny nose, and watery eyes."
+    answer: "Since goats don't get canine distemper, there are no CDV symptoms to watch for. Common goat diseases that may be confused with 'distemper' include pneumonia, listeriosis, polioencephalomalacia, and meningeal worm infection."
   - question: "How is distemper treated in goats?"
-    answer: "Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal."
+    answer: "There is no need to treat goats for canine distemper because they don't get it. If your goat shows respiratory or neurological symptoms, work with your vet to identify the actual cause, such as pneumonia or listeriosis."
 ---
 Distemper causes real confusion when it comes to goats. The short answer is that goats do not get canine distemper.
 

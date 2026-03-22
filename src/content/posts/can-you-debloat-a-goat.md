@@ -11,7 +11,7 @@ imageAlt: "Can You Debloat A Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size."
+  text: "Yes, you can debloat a goat. For frothy bloat, drench with vegetable oil mixed with baking soda to break the foam. For free gas bloat, pass a stomach tube to release trapped gas. Severe cases need immediate veterinary attention."
 toc:
   - label: "Can you debloat a goat?"
     href: "#can-you-debloat-a-goat"
@@ -35,9 +35,9 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you debloat a goat?"
-    answer: "You can debloat a goat by administering mineral oil via a nasogastric tube. The amount of mineral oil you give your goat will be determined by its size. They are also susceptible to bloating from overeating or drinking too much water at once."
+    answer: "Yes, bloat is treatable. For frothy bloat, drench with 60 to 120 ml of vegetable oil mixed with baking soda to break the foam. For free gas bloat, pass a stomach tube to release trapped gas directly. Call your vet immediately if the goat is severely distended or having trouble breathing."
   - question: "What is the best way to debloat a goat?"
-    answer: "The best way to debloat a goat is to prevent it from becoming bloated in the first place. You can do this by ensuring they have a balanced diet and access to fresh water at all times. If you think your goat may be bloated, contact your veterinarian immediately."
+    answer: "For frothy bloat, drench the goat with 60 to 120 ml of vegetable oil mixed with a tablespoon of baking soda to break the foam. Walk the goat around and gently massage the left flank. For free gas bloat, pass a stomach tube to release trapped gas directly."
   - question: "What is debloating and why do goats need it?"
     answer: "Debloating is the process of relieving pressure in the stomach caused by gas buildup. Goats can become bloated from overeating or drinking too much water at once. Bloating can be dangerous for goats as it can cause the stomach to twist, cutting off blood flow and leading to death."
   - question: "How to tell if your goat needs to be debloated?"

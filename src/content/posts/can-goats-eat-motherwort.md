@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Motherwort?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume motherwort without any harmful effects. This herb is actually a common ingredient in many commercial goat feeds."
+  text: "Yes, motherwort is safe for goats in normal browsing amounts. It is a mint family herb that goats may nibble on in the pasture without any harmful effects."
 toc:
   - label: "Can goats eat motherwort?"
     href: "#can-goats-eat-motherwort"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat motherwort?"
-    answer: "Goats can consume motherwort without any harmful effects. This herb is actually a common ingredient in many commercial goat feeds. Motherwort is high in protein and fiber, which are both essential nutrients for goats."
+    answer: "Yes, motherwort is safe for goats in normal browsing amounts. It is a member of the mint family, and goats will nibble on it if they come across it while browsing. It is not a preferred browse plant, so goats won't typically gorge on it."
   - question: "What is motherwort and what do they look like?"
     answer: "Motherwort is a perennial herb that can be found in temperate regions around the world. The plant gets its name from its traditional use in supporting women's health, particularly during pregnancy and childbirth."
   - question: "What are the benefits of motherwort for goats?"
     answer: "Motherwort is an herb that has a long history of use in traditional medicine. The leaves and flowers of the plant are used to make teas, tinctures, and extracts that are thought to have a variety of health benefits."
   - question: "What are the consequences of goats eating motherwort?"
-    answer: "Motherwort is a common herb that has been used for centuries in traditional Chinese medicine. The consequences of goats eating motherwort are not well-known, but there are some potential risks to consider."
+    answer: "In normal browsing amounts, there are no negative consequences. Motherwort contains small amounts of alkaloids that could theoretically cause mild digestive upset in very large quantities, but goats self-regulate and rarely eat enough to cause issues."
 ---
 
 Motherwort (Leonurus cardiaca) is safe for goats. If it grows in your pasture, your goats may browse it along with everything else, and that's nothing to worry about.

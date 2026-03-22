@@ -35,9 +35,9 @@ faq:
   - question: "What is a Nigerian Goat Doeling?"
     answer: "A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturity. Once she reaches 6 months of age, she will be considered a doe and will be able to breed."
   - question: "When can a Nigerian goat doeling be bred?"
-    answer: "Nigerian Dwarf goats are a relatively small breed of dairy goat. Does (females) typically weigh between 24 and 36 pounds when fully grown, while bucks (males) typically weigh between 28 and 40 pounds."
+    answer: "Most experienced breeders wait until a Nigerian Dwarf doeling is at least 7 to 8 months old and weighs 40 pounds or more. Weight matters more than age because her skeletal structure needs time to finish developing."
   - question: "What health concerns should be considered when breeding a Nigerian goat doeling?"
-    answer: "Nigerian Dwarf goats are a popular choice for small-scale dairy farmers and hobbyists alike. But before you bring home a Nigerian Dwarf doeling, it's important to consider some health concerns that may impact her future wellbeing."
+    answer: "Breeding too young is the biggest risk, as a doeling under 40 pounds can struggle to deliver kids. Test for CAE and CL before breeding, and watch for pregnancy toxemia since Nigerian Dwarfs often carry triplets and quads."
 ---
 
 Yes, a Nigerian Dwarf doeling can technically reach puberty as early as 3 to 4 months old. But just because she can get bred that young does not mean she should be.

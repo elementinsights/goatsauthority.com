@@ -31,9 +31,9 @@ faq:
   - question: "What are miniature horses and what do they look like?"
     answer: "Miniature horses are small equine animals that are typically no taller than 34 inches in height. They have a stocky build and thick coat of hair, which comes in a variety of colors including brown, black, white, and gray."
   - question: "How do you take care of a miniature horse?"
-    answer: "There are a lot of different factors that go into taking care of a miniature horse, including diet, exercise, and grooming."
+    answer: "When keeping mini horses with goats, the most important thing is to keep feed separate. Many horse feeds contain monensin, an additive that is toxic to goats even in small amounts. Always check feed labels and use separate feeding stations."
   - question: "What can miniature horses eat?"
-    answer: "Miniature horses are popular pets because they are small, friendly, and easy to care for. Despite that, one of the most common questions that people have about these animals is what they can eat."
+    answer: "Miniature horses eat grass and hay as the bulk of their diet. When housed with goats, use a monensin-free horse feed and keep all feed buckets separated so goats cannot access horse grain."
 ---
 
 Yes, mini horses and goats make great pasture companions. Plenty of small farm owners keep them together on purpose, and the pairing works well as long as you manage a few key differences.

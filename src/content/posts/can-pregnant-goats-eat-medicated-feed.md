@@ -11,7 +11,7 @@ imageAlt: "Can Pregnant Goats Eat Medicated Feed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Pregnant goats can consume medicated feeds. As long as the feed is labeled for goats and the amount is correct, Before administering any medication to your goats, including wormers and medicated feed but always check with your veterinarian to be sure it is secure and won't endanger the growing young."
+  text: "It depends on the medication in the feed. Decoquinate-based feeds are safe for pregnant does, but monensin (Rumensin) is toxic to goats at any stage of life. Always check the active ingredient on the feed tag."
 toc:
   - label: "Can pregnant goats eat medicated feed?"
     href: "#can-pregnant-goats-eat-medicated-feed"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can pregnant goats eat medicated feed?"
-    answer: "Pregnant goats can consume medicated feeds. As long as the feed is labeled for goats and the amount is correct, Before administering any medication to your goats, including wormers and medicated feed but always check with your veterinarian to be sure it is secure and won't endanger the growing young."
+    answer: "It depends on the medication. Decoquinate-based feeds are safe for pregnant does, but monensin (Rumensin) is toxic to goats and can cause heart failure even in small amounts. Always verify the active ingredient on the feed tag."
   - question: "What is medicated feed, and why would you want to give it to pregnant goats?"
-    answer: "Medicated feed, also known as supplemental ration, is made up of a variety of nutrients that are specially formulated to support the health and development of pregnant goats."
+    answer: "Medicated feed is regular goat feed with a pharmaceutical additive mixed in, most commonly coccidiostats like decoquinate (Deccox) that prevent coccidia from overwhelming young kids after birth."
   - question: "What are the benefits of feeding medicated feed to pregnant goats?"
     answer: "There are many benefits to feeding medicated feed to pregnant goats. For one, by providing them with a nutrient-rich diet, you can help ensure that they have all the vitamins and minerals that they need to stay healthy and support the development of their young."
   - question: "Are there any risks associated with feeding medicated feed to pregnant goats?"
-    answer: "The answer to this question depends on several factors, including the specific medication being fed and the medical condition being treated."
+    answer: "The main risk is using the wrong medication. Monensin kills goats and shows up in many cattle and horse feeds. Some medications also have withdrawal periods that affect milk safety after kidding."
 ---
 
 Whether pregnant goats can eat medicated feed depends entirely on what medication is in the feed. Some are perfectly safe during pregnancy, and others can kill your goat.

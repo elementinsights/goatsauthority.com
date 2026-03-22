@@ -39,7 +39,7 @@ faq:
   - question: "How do you give goats peppermint treats?"
     answer: "To give a goat a peppermint treat, simply drop 1-2 mints in their feed bucket per day. Peppermints are a great way to show your goat some love, and they'll enjoy the refreshing taste."
   - question: "What are the risks of giving goats peppermint treats?"
-    answer: "While goats are generally known for their love of sweets, there are some foods that can be harmful to them. One such food is peppermint. Peppermint candy and other mint-flavored treats may seem like a harmless treats to give your goat, but they can actually be quite dangerous."
+    answer: "The peppermint itself is not dangerous. The sugar in candy is what you need to limit, since too much sugar can disrupt the rumen and lead to digestive upset or obesity over time. Stick to one or two candies at a time."
 ---
 Peppermint treats are safe for goats in small amounts. Whether it is a candy cane during the holidays or a sprig of fresh peppermint from the garden, most goats enjoy the minty flavor.
 

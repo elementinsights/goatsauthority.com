@@ -11,7 +11,7 @@ imageAlt: "Can I Use Bimectin Instead Of Safeguard To Worm My Kid Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use Bimectin instead of safeguard to treat your kid goat as long as you follow the dosage and administration recommendations. Bimectin is an injectable wormer that is effective against a variety of parasites, including gastrointestinal roundworms. It can be given to"
+  text: "You can use Bimectin on kid goats, but it's not a direct replacement for SafeGuard. They belong to different drug classes and kill different parasites, so you need to know what you're treating before choosing one."
 toc:
   - label: "Can I use bimectin instead of safeguard to worm my kid goat?"
     href: "#can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I use bimectin instead of safeguard to worm my kid goat?"
-    answer: "You can use Bimectin instead of safeguard to treat your kid goat as long as you follow the dosage and administration recommendations. Bimectin is an injectable wormer that is effective against a variety of parasites, including gastrointestinal roundworms."
+    answer: "You can use Bimectin on kid goats, but it's not a direct swap for SafeGuard. Bimectin (ivermectin) targets roundworms and external parasites, while SafeGuard (fenbendazole) also handles tapeworms. For goats, give ivermectin products orally rather than by injection for better absorption."
   - question: "What is Bimectin and how does it work on your kid goats?"
     answer: "Bimectin is a popular medication used to treat parasite infestations in livestock, including goats. This drug contains ivermectin, which is an antiparasitic agent that works by disrupting the nervous system of certain parasites, such as scabies mites, and intestinal worms."
   - question: "When should you use Bimectin instead of Safeguard on your kid goats?"

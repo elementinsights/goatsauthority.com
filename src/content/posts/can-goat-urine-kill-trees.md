@@ -11,7 +11,7 @@ imageAlt: "Can Goat Urine Kill Trees?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite this, it's important not to let the goats urinate on the same spot on the ground for too long as this could lead to the development of patches of bare earth. If you have a lot of goats, you might also want to consider building a fence around your trees to prevent them from getting too close and damaging the bark."
+  text: "Yes, concentrated goat urine can damage and eventually kill trees. A herd confined around the same tree day after day builds up nitrogen and salt that burns the root system, especially in young trees."
 toc:
   - label: "Can goat urine kill trees?"
     href: "#can-goat-urine-kill-trees"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat urine kill trees?"
-    answer: "Goat urine will not kill trees. In fact, it can actually be good for them. Goat urine contains nitrogen, which is an essential nutrient for plants. This means that goat urine can actually help trees to grow and stay healthy."
+    answer: "Yes, concentrated goat urine can damage and kill trees. The high nitrogen and salt content burns the root system when it builds up faster than rain can wash it away. Young trees and those with thin bark are the most vulnerable."
   - question: "What is goat urine and what are its benefits to plants?"
-    answer: "Goat urine is a liquid waste product excreted by goats. It's typically clear or slightly yellow in color and has a strong, pungent odor."
+    answer: "Goat urine is loaded with nitrogen, phosphorus, and potassium. In small doses it actually helps plants grow, but in concentrated amounts it poisons the root system. Buck urine is especially caustic due to higher ammonia content."
   - question: "How to use goat urine as a fertilizer?"
-    answer: "Goat urine makes an excellent fertilizer for a variety of reasons. First, it's high in nitrogen, which is essential for plant growth."
+    answer: "Dilute one part urine with about 10 parts water and apply around the drip line of the tree, not at the trunk. Never pour undiluted goat urine on any plant as the nitrogen concentration will burn roots."
   - question: "Is there any other use for goat urine?"
-    answer: "Goat urine can also be used as a pesticide. It contains high levels of ammonia, which is toxic to many insects. When diluted with water, it can be sprayed on plants to kill bugs."
+    answer: "Rotate pastures every two weeks so urine doesn't build up in one spot. Fence off valuable trees with a three-foot radius, and wrap young tree trunks with hardware cloth to prevent bark stripping and force goats to urinate farther from the base."
 ---
 
 If you run goats and have trees on your property, you've probably noticed your herd has a favorite spot to hang out — usually right under the shade trees. That means those trees are getting a steady dose of goat urine, and yes, it can cause problems.

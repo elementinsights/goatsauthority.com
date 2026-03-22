@@ -31,9 +31,9 @@ faq:
   - question: "Can goats love humans?"
     answer: "Goats can love humans. In fact, they are very social creatures and enjoy the company of their human caregivers. They also form strong bonds with other goats and can be very affectionate towards them and their human companions, even forming friendships with other animals."
   - question: "What are the benefits of owning a goat?"
-    answer: "There are many benefits to owning a goat. Goats are very social creatures and enjoy the company of their human caregivers."
+    answer: "Goats bring personality to a homestead, clear brush and weeds from property, and dairy breeds provide fresh milk. The bond you build with your goats during daily chore routines is genuinely rewarding."
   - question: "What are the disadvantages of owning a goat?"
-    answer: "There are some disadvantages to owning a goat. First of all, they require a lot of space. They need a large enclosure that is at least 8 feet by 10 feet. On top of that, they need access to pasture or hay and plenty of fresh water."
+    answer: "Goats are loud, especially during breeding season. They require daily care you can't skip, including hoof trimming and parasite management. They will also eat things you don't want them to, like bark off fruit trees and landscaping."
   - question: "How to prevent your goat from getting bored?"
     answer: "Goats are very active and curious creatures. They need plenty of space to run and play. On top of that, they need access to browse (leaves, twigs, and other plant materials) or hay. If you do not have enough space for your goat to run and play, then it is best to find another pet."
 ---

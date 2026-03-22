@@ -35,7 +35,7 @@ faq:
   - question: "Can goats eat pear skin?"
     answer: "Pear skin is safe for goats to eat. There are a few things to keep in mind. First of all, goats should only consume small amounts of pear skin."
   - question: "Can goats eat pear leaves?"
-    answer: "Goats cannot eat pear leaves. While goats are browsers and will eat a wide variety of vegetation, pear leaves contain a compound called oxalate, which can be toxic to goats."
+    answer: "Yes, pear tree leaves are safe for goats to browse on. Goats browse pear trees regularly without any issues. The leaves are not in the same category as truly toxic plants like rhododendron or yew."
   - question: "What are the benefits of feeding pears to goats?"
     answer: "Pears are a nutritious fruit that can be fed to goats as part of a healthy diet. Pears are a good source of fiber and vitamins, and they can help goats to stay hydrated."
 ---

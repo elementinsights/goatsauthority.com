@@ -11,7 +11,7 @@ imageAlt: "Can Pregnant Goats Have Injectable b12?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Pregnant goats can have injectable vitamin B12 as long as the vitamin is in a water-based solution and the pregnant goat is not dehydrated. If the pregnant goat is dehydrated, she will need to be rehydrated before receiving the injection."
+  text: "Yes, injectable vitamin B12 is safe for pregnant goats. It is water-soluble, so excess is flushed through the kidneys. The standard dose is 1 to 2 ml given subcutaneously."
 toc:
   - label: "Can pregnant goats have injectable vitamin B12?"
     href: "#can-pregnant-goats-have-injectable-vitamin-b12"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can pregnant goats have injectable vitamin B12?"
-    answer: "Pregnant goats can have injectable vitamin B12 as long as the vitamin is in a water-based solution and the pregnant goat is not dehydrated. If the pregnant goat is dehydrated, she will need to be rehydrated before receiving the injection."
+    answer: "Yes, injectable vitamin B12 (cyanocobalamin) is safe for pregnant goats. It is water-soluble with no known withdrawal concerns for meat or milk, and the standard dose is 1 to 2 ml given subcutaneously."
   - question: "What are the benefits of giving pregnant goats injectable vitamin B12?"
     answer: "There are many benefits to giving pregnant goats injectable vitamin B12. First, this treatment can help maintain a healthy pregnancy by promoting proper fetal development and preventing complications like a miscarriage."
   - question: "Are there any risks associated with giving pregnant goats injectable vitamin B12?"
-    answer: "There are a number of risks associated with giving pregnant goats injectable vitamin B12. For one, the vitamin can be toxic if it's given in high doses, which can harm not only the goat but also any unborn offspring."
+    answer: "B12 is water-soluble, so excess is flushed out through the kidneys rather than building up to toxic levels. The main risks are injection site infection from unclean technique or injecting into a blood vessel instead of under the skin."
   - question: "How to prevent the risks associated with giving pregnant goats injectable vitamin B12?"
-    answer: "In order to prevent the risks associated with giving pregnant goats injectable vitamin B12, it is crucial to be careful when dosing and administering the medication."
+    answer: "Use a clean 20-gauge needle and inject subcutaneously under the skin rather than into muscle. Pull back on the plunger before injecting to make sure you haven't hit a blood vessel, then push the B12 in slowly."
 ---
 
 Injectable B12 is one of those things most goat farmers keep in their medicine cabinet, and for good reason. It is safe for pregnant does and can make a real difference when a doe is struggling with anemia or low energy during pregnancy.

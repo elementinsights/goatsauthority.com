@@ -11,7 +11,7 @@ imageAlt: "Can You Domesticate A Goat?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive."
+  text: "Goats are already domesticated, having been tamed roughly 10,000 years ago. If you mean taming a wild or feral goat, bottle-fed kids become friendly within days, while adult feral goats take patience and may take weeks or months."
 toc:
   - label: "Can you domesticate a goat?"
     href: "#can-you-domesticate-a-goat"
@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you domesticate a goat?"
-    answer: "You can domesticate a goat, though it takes a lot of work and dedication. Goats are herd animals, so they need company and attention to thrive. If you plan on keeping multiple goats, make sure the space you provide them is large enough for them to roam and play freely."
+    answer: "Goats are already domesticated, having been tamed roughly 10,000 years ago. If you mean taming a wild or feral goat, bottle-fed kids bond to whoever feeds them and become friendly within days. Taming adult feral goats requires patience, treats, and quiet daily contact over weeks or months."
   - question: "What else should I consider before domesticating a goat?"
     answer: "Before domesticating a goat, you should also consider the cost of housing and feeding it. Goats are far from cheap, and the cost of providing them with a healthy diet and safe home can be high."
   - question: "What are the benefits of domesticating a goat?"

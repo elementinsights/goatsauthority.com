@@ -11,7 +11,7 @@ imageAlt: "Can Sheep Eat Goat Food?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Sheep can eat goat food and can be added to their diet. In fact, it is generally recommended to add some goat food to their diet as it is a good source of nutrients."
+  text: "Sheep can eat goat hay and plain grain safely, but goat feed and goat minerals almost always contain copper levels that are toxic to sheep. Never share goat minerals with sheep."
 toc:
   - label: "Can sheep eat goat food?"
     href: "#can-sheep-eat-goat-food"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can sheep eat goat food?"
-    answer: "Sheep can eat goat food and can be added to their diet. In fact, it is generally recommended to add some goat food to their diet as it is a good source of nutrients. They can also get some benefits from the added nutrition, such as improved wool quality."
+    answer: "Sheep can eat goat hay and plain goat grain without immediate problems, but goat feed and goat minerals almost always contain copper levels that are toxic to sheep. Always check the feed tag for copper content before letting sheep near goat feed."
   - question: "What is goat food and what are the benefits of feeding it to sheep?"
     answer: "Goat food, also known as livestock feed, is a type of dry or moist mixture of grains, seeds, and plant fibers that is commonly fed to sheep."
   - question: "How much goat food should you feed your sheep?"
-    answer: "As with most aspects of raising sheep, there is no definitive answer when it comes to feeding your flock. Different types and breeds of goats will have different nutritional needs, depending on factors like age, size, and environmental conditions."
+    answer: "If the goat feed is plain grain with no added copper minerals, sheep can eat it in the same quantities as their own feed. The real question is not how much but whether the feed tag shows copper content, which would be dangerous for sheep."
   - question: "What are some common problems associated with feeding goat food to sheep?"
     answer: "There are a number of potential problems that can arise when feeding goat food to sheep. One issue is that goat feed is typically higher in protein than sheep's food, which can result in dangerous overfeeding and weight gain in sheep."
 ---

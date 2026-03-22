@@ -23,9 +23,9 @@ toc:
     href: "#frequently-asked-questions-faqs"
 faq:
   - question: "1. What Animals Can Eat Blackberries?"
-    answer: "Blackberries are a popular fruit that many animals can enjoy. This includes birds, deer and even some types of insects. But what about goats? Can they eat blackberries too? The answer is yes, goats can indeed eat blackberries. These fruits are not harmful to them in any way. In fact, the berries provide several health benefits for your goat. Goats love eating various plants and fruits as part of their diet. Blackberries offer vitamins such as C and K which boost overall health in these animals."
+    answer: "Many animals enjoy blackberries, including goats, sheep, birds, and deer. Goats are among the best at eating every part of the blackberry bush, from berries to thorny canes, without injury thanks to their tough mouth tissue."
   - question: "2. Do Sheep Eat Blackberries?"
-    answer: "Sheep, like goats, can eat blackberries. Both animals enjoy the taste of these sweet fruits. They also find them easy to digest. However, there’s a small catch here. Blackberry bushes have thorns that could harm your sheep or goat if they try to eat directly from the bush itself. The best way is to pick the berries for them and offer it as a treat. It’s good practice not only because you avoid any potential injuries but also because too many blackberries might upset their stomachs due to high sugar content. In moderation though, blackberries are healthy snacks packed with vitamins C and K plus fiber which helps in digestion process for both goats and sheep alike."
+    answer: "Yes, sheep can eat blackberries too. However, goats handle thorny blackberry canes better than sheep because their mouths are lined with tough tissue. Both animals benefit from the vitamins C and K in the berries."
 ---
 
 Yes, goats love blackberries, and blackberries are one of the best things you can let your goats eat. The fruit, the leaves, the canes, and even the thorns are all fair game. Goats are actually one of the most effective animals for clearing out overgrown blackberry thickets.

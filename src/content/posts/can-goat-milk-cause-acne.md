@@ -11,7 +11,7 @@ imageAlt: "Can Goat Milk Cause Acne?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores."
+  text: "For most people, goat milk is less likely to cause acne than cow milk. It contains A2 casein, smaller fat globules, and lower lactose, which all reduce inflammation. Some individuals sensitive to all dairy may still break out."
 toc:
   - label: "Can goat milk cause acne?"
     href: "#can-goat-milk-cause-acne"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat milk cause acne?"
-    answer: "Drinking goat milk can cause acne because it contains hormones. These hormones can trigger the sebaceous glands, which produce oil and can lead to clogged pores. They also contain a higher level of fat than cow's milk. This fat can also clog pores and lead to breakouts."
+    answer: "For most people, goat milk does not cause acne and is less likely to trigger breakouts than cow milk. It contains A2 casein, smaller fat globules, and lower lactose, which reduce inflammation. Some people sensitive to all dairy may still break out."
   - question: "What is acne and what are the signs and symptoms of it?"
     answer: "Acne is a skin condition that arises when the hair follicles are blocked with oil and dead skin cells. This could lead to pimples, blackheads, or whiteheads."
   - question: "What causes acne and can goat milk cause it?"
-    answer: "Acne is a skin condition that is caused by a variety of factors, including hormones, genetics, and inflammation."
+    answer: "Dairy-related acne comes from hormones and proteins in milk. Cow milk contains A1 casein and higher IGF-1 linked to increased oil production, while goat milk's A2 casein and smaller fat globules cause less inflammation overall."
   - question: "How to treat acne - both natural and medical treatments?"
-    answer: "Acne is a common skin condition that affects people of all ages. While it's most commonly associated with adolescence, acne can occur at any age."
+    answer: "If you suspect goat milk is causing breakouts, do an elimination trial: cut it out for two to three weeks and see if your skin improves. You can also try goat milk soap topically, which contains lactic acid that gently exfoliates and can actually help acne."
 ---
 
 If you raise dairy goats, you've probably wondered whether the milk you're producing could cause skin problems. It's a fair question, especially with all the mixed information floating around about dairy and acne.

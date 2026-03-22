@@ -11,7 +11,7 @@ imageAlt: "Can You Adopt A Goat And Keep It At A Farm In Rochester NY?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can adopt a goat and keep it at a farm in Rochester NY as long as you will follow the local zoning regulations. They are also telling you that you must have at least 2 acres of land for every goat."
+  text: "Yes, you can adopt a goat and keep it in the Rochester, NY area. Monroe County allows goats on land zoned for agriculture, and boarding at a local farm is also an option if you don't have your own land."
 toc:
   - label: "Can you adopt a goat and keep it at a farm in Rochester NY?"
     href: "#can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you adopt a goat and keep it at a farm in Rochester NY?"
-    answer: "You can adopt a goat and keep it at a farm in Rochester NY as long as you will follow the local zoning regulations. They are also telling you that you must have at least 2 acres of land for every goat."
+    answer: "Yes, you can adopt a goat and keep it in the Rochester, NY area as long as the land is zoned for agriculture. Monroe County has agricultural-zoned areas where goats are permitted, and you can also board your goat at a local farm if you don't have your own land."
   - question: "What is the process of adopting a goat from a farm in Rochester NY?"
     answer: "If you're interested in adopting a goat from a farm in Rochester, NY, there are a few things you need to know."
   - question: "What are the benefits of owning a pet goat?"
     answer: "Owning a pet goat comes with a number of benefits. First, goats are intelligent and resourceful animals. They are known for their problem-solving skills, and they are quick learners."
   - question: "How to care for your new goat friend?"
-    answer: "Goats are notoriously independent, so they don't need a lot of extra care. however, there are a few things you should keep in mind when you're taking care of your new goat friend."
+    answer: "Goats need a companion, fresh water, good hay, and a dry shelter. Routine care includes hoof trimming every six to eight weeks, annual vet checkups, CDT vaccinations, and regular deworming based on fecal egg counts."
 ---
 
 Yes, you can adopt a goat and keep it in the Rochester, NY area. Several local farms, rescue organizations, and breeders have goats available, and Monroe County has agricultural-zoned land where goats are permitted. The most important thing to remember is that goats are herd animals, so always plan on getting at least two.

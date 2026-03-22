@@ -39,7 +39,7 @@ faq:
   - question: "What are the benefits of giving Pepto Bismol to goats?"
     answer: "There are numerous benefits to giving Pepto Bismol to goats. For one, this over-the-counter medication can help alleviate digestive issues by soothing the stomach and reducing inflammation."
   - question: "How much Pepto Bismol should you give a goat?"
-    answer: "When it comes to administering Pepto Bismol to goats, there is no one-size-fits-all answer. The amount of Pepto that a particular goat needs will depend on a variety of factors, including the size and age of the animal, as well as the severity of its symptoms."
+    answer: "The standard dose is 1 ml per 5 pounds of body weight, given every 4 to 6 hours. A 100-pound goat gets about 20 ml per dose. Use the original liquid formula, not chewable tablets or flavored versions."
 ---
 Yes, Pepto-Bismol is safe for goats and it belongs in every goat medicine kit. The active ingredient, bismuth subsalicylate, helps with diarrhea, mild bloat, and general stomach upset, and most goat owners keep a bottle on hand at all times.
 

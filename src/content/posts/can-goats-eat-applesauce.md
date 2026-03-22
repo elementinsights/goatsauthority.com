@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat applesauce?"
-    answer: "Goats can eat applesauce, which is soft food that is easy to digest. Applesauce can be a healthy treat for goats because it contains natural sugars that provide energy. Goats also like the taste of applesauce, so it can be a good way to get them to eat their vegetables."
+    answer: "Yes, plain unsweetened applesauce is safe for goats in small amounts. A few spoonfuls as an occasional treat is fine. Avoid flavored or sweetened varieties with added sugar or artificial sweeteners."
   - question: "What is applesauce and where does it come from?"
-    answer: "Applesauce is a type of food made from apples. It's often used as a condiment or as a dessert. Applesauce can be made from any type of apple, but it's typically made from tart apples such as Granny Smith apples."
+    answer: "Applesauce is pureed cooked apples. For goats, stick to plain unsweetened varieties or make your own at home. Look for applesauce that lists only apples and water as ingredients."
   - question: "How to feed applesauce to goats?"
-    answer: "Goats are notoriously finicky eaters, and they can be particularly picky when it comes to applesauce. The best way to feed applesauce to goats is to mix it with their regular food."
+    answer: "The best use for applesauce is hiding medication. Mix crushed tablets or deworming powder into a spoonful of applesauce and use a syringe without a needle to deliver it into the side of the goat's mouth."
   - question: "Can pregnant goats eat applesauce?"
-    answer: "Many pregnant women crave applesauce, and it's usually considered a healthy snack option. Despite that, there's some debate about whether or not pregnant goats can eat applesauce."
+    answer: "Pregnant does can have a spoonful of plain unsweetened applesauce as a treat, but do not overdo it. The extra sugar is not something a pregnant goat needs in large amounts."
 ---
 
 Yes, goats can eat applesauce. It is just pureed apples, and apples are perfectly safe for goats.

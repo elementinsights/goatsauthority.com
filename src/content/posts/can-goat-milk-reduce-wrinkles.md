@@ -39,7 +39,7 @@ faq:
   - question: "What are wrinkles and what causes them?"
     answer: "Wrinkles are folds or creases in the skin. They can occur anywhere on the body, but they are most commonly found in areas that get a lot of sun exposure, such as the face, neck, hands, and forearms. Wrinkles are usually deepest when you smile or frown."
   - question: "How to use goat milk to reduce wrinkles?"
-    answer: "Wrinkles are a common sign of aging, and many people spend a lot of money on products that claim to reduce their appearance. Goat milk has been shown to be an effective natural remedy for wrinkles."
+    answer: "Use goat milk soap as a daily face wash and let it sit for 30 seconds before rinsing. For a more concentrated treatment, apply raw goat milk directly as a face mask for 10 to 15 minutes, then rinse with warm water."
   - question: "What are the benefits of goat's milk for the skin?"
     answer: "Goat's milk has been used for centuries as a natural remedy for skin conditions. The high-fat content in goat's milk makes it an excellent moisturizer, and the lactic acid helps to exfoliate dead skin cells."
 ---

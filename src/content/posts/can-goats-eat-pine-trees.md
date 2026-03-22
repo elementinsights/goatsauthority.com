@@ -41,9 +41,9 @@ faq:
   - question: "Can a goat eat pine tree seeds?"
     answer: "Pine tree seeds are high in fat and protein, and they can be a valuable food source for goats. However, they can also be dangerous if goats eat too many of them."
   - question: "Can a pregnant goat eat pine trees?"
-    answer: "Although goats are known for their propensity to consume almost everything, pregnant goats have unique dietary requirements."
+    answer: "Pregnant does must be kept completely away from ponderosa pine, which contains isocupressic acid that causes abortion. White pine, spruce, and fir are safe for pregnant goats."
   - question: "Can a lactating goat eat pine trees?"
-    answer: "Lactating goats generally have a very high nutritional demand. They need a diet that is high in energy, protein, and minerals. While goats are known for being able to eat a variety of plants, not all plants are safe for them to consume."
+    answer: "Yes, lactating goats can safely browse on most pine species like white pine, spruce, and fir. Just avoid ponderosa pine, which is dangerous for all goats but especially concerning for breeding stock."
 ---
 
 If you've got pine trees on your property and goats in the pasture, you've probably already seen them stripping bark and chomping on needles. Most pine species are perfectly safe for goats to browse, and they actually enjoy it.

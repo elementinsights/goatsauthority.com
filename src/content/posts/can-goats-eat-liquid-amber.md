@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Liquid Amber?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat liquid amber. This is because liquid amber is a type of tree sap that is high in sugar content."
+  text: "Yes, goats can safely browse on liquidambar (sweetgum) trees. The leaves and small twigs are not toxic, though sweetgum is not a preferred browse species for most goats."
 toc:
   - label: "Can goats eat liquid amber?"
     href: "#can-goats-eat-liquid-amber"
@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat liquid amber?"
-    answer: "Goats can eat liquid amber. This is because liquid amber is a type of tree sap that is high in sugar content. Goats love sugar and will often seek out sources of it in their environment. Goats' liquid amber is a good source of nutrition for goats."
+    answer: "Yes, goats can safely browse on liquidambar (sweetgum) trees. The leaves and twigs are not toxic, and goats can nibble on them without any problems. It is safe but not a preferred browse species."
   - question: "What is liquid amber and what are its benefits for goats?"
     answer: "Liquid amber, also known as liquidambar styraciflua, is a type of tree that is native to North America. The tree produces a resinous substance that has been used for centuries by Native Americans for medicinal and ceremonial purposes."
   - question: "How to prevent the risks associated with feeding liquid amber to goats?"

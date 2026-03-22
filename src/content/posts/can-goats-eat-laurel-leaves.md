@@ -29,11 +29,11 @@ faq:
   - question: "Can goats eat laurel leaves?"
     answer: "Goats cannot eat laurel leaves. The reason for this is that laurel leaves contain a compound called grayanotoxin. This substance is poisonous to goats and can cause health problems if ingested in large quantities."
   - question: "What are the risks associated with feeding your goats laurel leaves?"
-    answer: "There are a few risks associated with feeding your goats laurel leaves. The first is that laurel leaves contain cyanide, which can be poisonous to goats in large quantities. Another risk is that the leaves may contain parasites or other harmful organisms that could make your goats sick."
+    answer: "Mountain laurel contains grayanotoxin that attacks the heart and nervous system. Cherry laurel and English laurel contain cyanogenic glycosides that release cyanide when chewed. Both can cause severe illness or death."
   - question: "How to prevent your goats from eating laurel leaves?"
-    answer: "The fact that goats are browsers, as opposed to herbivores, means they favor eating leaves and other types of vegetation. When goats are permitted to travel freely through an area with poisonous plants, this can be problematic."
+    answer: "Remove all toxic laurel plants from anywhere your goats can reach, or fence off the area with sturdy fencing. Use safe alternatives like hawthorn or willow for hedges near pastures."
   - question: "What are the treatments for goats that have eaten laurel leaves?"
-    answer: "If a goat has eaten laurel leaves, the first step is to remove the plant material from their mouth and prevent them from consuming any more. If the goat is showing signs of illness, such as lethargy or vomiting, then it should be seen by a goat expert immediately."
+    answer: "Remove any remaining plant material from the goat's mouth immediately. Give activated charcoal mixed with water if available, and call your vet right away. Do not wait for symptoms to appear, especially with cherry laurel."
 ---
 This is one of those topics where the answer depends entirely on which plant you are talking about. The word "laurel" covers several completely different species, and most of them will kill your goats.
 

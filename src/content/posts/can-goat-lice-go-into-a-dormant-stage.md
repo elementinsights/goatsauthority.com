@@ -11,7 +11,7 @@ imageAlt: "Can Goat Lice Go Into a Dormant Stage?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, it's important to keep in mind that even in a dormant state, goat lice can still cause damage to your goats. If you think your goats have lice, it's best to consult a goat expert."
+  text: "Goat lice don't truly go dormant, but their populations drop so low in summer that they seem to vanish. A few stragglers survive in the coat and then explode in numbers once the thick winter coat grows back in."
 toc:
   - label: "Can goat lice go into a dormant stage?"
     href: "#can-goat-lice-go-into-a-dormant-stage"
@@ -27,13 +27,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat lice go into a dormant stage?"
-    answer: "Goat lice can go into a dormant stage. In this state, the lice are not feeding and are less active. The length of time that goat lice can stay in this stage depends on the temperature and humidity levels, as well as the amount of food available."
+    answer: "Goat lice don't truly go dormant, but their populations crash in summer when goats shed their winter coats and spend more time in sunlight. A few survivors hang on and repopulate rapidly once the thick winter coat grows back."
   - question: "What are the stages of dormancy?"
-    answer: "There are three stages of dormancy: pre-dormancy, true dormancy, and post-dormancy."
+    answer: "Lice thrive in the thick winter coats that goats grow in late fall. Dense hair creates a warm, humid microclimate perfect for breeding, and goats huddle together in cold weather, spreading lice fast between animals."
   - question: "What temperature and humidity levels do goat lice prefer?"
-    answer: "Goat lice are small, wingless insects that feed on the blood of goats. They are most active at temperatures of 77-86 degrees Fahrenheit and humidity levels of 50-70%."
+    answer: "Lice populations explode in fall and winter when coats are thick, and crash in spring and summer when goats shed and are exposed to more sunlight. UV light and heat are natural enemies of lice."
   - question: "What effect does food availability have on the dormancy of goat lice?"
-    answer: "The dormancy of goat lice is affected by food availability in a few different ways."
+    answer: "The coat thickness is the key factor. When goats shed their winter coats, lice lose the warm microclimate they need to breed. A few survivors persist on the host but barely reproduce until the next winter coat grows in."
 ---
 
 Every goat owner has dealt with lice at some point. You treat your herd in winter, the problem clears up by spring, and then it comes roaring back next fall. It's like they disappear and come back from nowhere.

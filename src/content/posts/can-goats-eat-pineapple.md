@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Pineapple?"
 readTime: "10 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "This fruit has high sugar content which isn't good for their digestion if consumed excessively. Remember to remove the hard outer skin before feeding your goat pineapple."
+  text: "Yes, pineapple flesh is safe for goats as an occasional treat. Remove the tough outer skin before feeding, keep portions to a few chunks, and feed no more than once or twice a week due to the high sugar content."
 toc:
   - label: "Can Goats Eat Pineapple: An Overview"
     href: "#can-goats-eat-pineapple-an-overview"

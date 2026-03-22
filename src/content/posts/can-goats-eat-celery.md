@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Celery?"
 readTime: "9 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Like all things, stick to small amounts here. Too much celery can upset their stomachs. It's best to chop the celery into small pieces before feeding it to your goat."
+  text: "Yes, goats can eat celery safely. It is 95% water, making it a great hydration boost on hot days. Chop stalks into 2-3 inch pieces before feeding. Most goats actually prefer the leaves over the stalks."
 toc:
   - label: "Can Goats Eat Celery?"
     href: "#can-goats-eat-celery"

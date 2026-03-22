@@ -37,9 +37,9 @@ faq:
   - question: "What kind of care should I take when drinking goat's milk?"
     answer: "If you choose to drink goat's milk, it is crucial to take some basic precautions."
   - question: "What is mastitis and what are the symptoms?"
-    answer: "Mastitis is a common infection of the breast tissue that affects women who are breastfeeding. The most common symptom is a painful, red, and swollen breast. Other symptoms can include a fever, chills, and a general feeling of malaise."
+    answer: "Mastitis is an infection of the udder tissue in goats, usually caused by bacteria entering through the teat canal. The affected udder half becomes hot, swollen, and painful, and the milk may look watery, clumpy, or yellowish. The doe may also run a fever or go off feed."
   - question: "How do you get mastitis and how is it treated?"
-    answer: "Mastitis is a bacterial infection of the breast tissue that most commonly affects nursing mothers. The infection is usually caused by bacteria entering the breast through cracked or damaged skin."
+    answer: "Bacteria enter the goat's udder through the teat opening, usually from dirty bedding, unclean milking equipment, or teat injuries. Treatment involves intramammary antibiotic tubes inserted into the teat canal, and the full course must be completed even if the milk looks normal after a couple of days."
 ---
 
 No, you should not drink milk from a goat with active mastitis. The milk is contaminated with bacteria, loaded with white blood cells, and may contain antibiotic residues if the doe is being treated.

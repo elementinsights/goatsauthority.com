@@ -11,7 +11,7 @@ imageAlt: "Can Goats Have 36 Protein Block?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein."
+  text: "Goats can have 36% protein blocks as a supplement, but they are not necessary for goats already eating alfalfa or getting a good grain ration. These blocks are designed to be licked, not consumed as a meal."
 toc:
   - label: "Can goats have 36 Protein Blocks?"
     href: "#can-goats-have-36-protein-blocks"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats have 36 Protein Blocks?"
-    answer: "Goats do not need 36 protein blocks. In fact, they only need about 18-20% of their diet to be composed of protein. The rest of their diet should be made up of other nutrients, such as carbohydrates, fats, vitamins, and minerals."
+    answer: "Yes, goats can have 36% protein blocks as a supplement for goats on low-quality forage. If your goats are already eating alfalfa hay or getting a balanced grain ration, they likely don't need one."
   - question: "What is a protein block and why do goats need them?"
     answer: "A protein block is a type of feed supplement that is used to provide additional protein to animals, such as goats. Goats need protein for many different purposes, including growing new tissue, repairing damaged tissue, and producing milk."
   - question: "How many protein blocks should goats eat?"
-    answer: "Goats need to eat a variety of different plants in order to get all the nutrients they need. However, there are some basic guidelines that you can follow when it comes to feeding goats."
+    answer: "Place one block per 10-15 goats in your pasture. Goats will self-regulate intake at about 0.5 to 1 pound per day. Monitor wethers closely since too much concentrated protein can stress kidneys and increase urinary calculi risk."
   - question: "What are some common brands of goat protein blocks?"
     answer: "There are a number of different brands of goat protein blocks on the market. One of the most popular is Purina GoatBlock, which is specifically designed to provide goats with the nutrients they need to stay healthy."
 ---

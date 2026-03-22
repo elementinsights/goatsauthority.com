@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Popcorn? (Simple Guide to a Healthy Diet)"
-description: "I’m a goat owner, just like you. Over the years, I’ve had many questions about what my goats can and cannot eat. One question that comes up often is about popcorn. It’s a simple snack we humans enjoy, but can our furry friends partake too?"
+description: "I’m a goat owner, just like you. Over the years, I’ve had many questions about what my goats can and cannot eat. One question that comes up often is about popcorn. It’s a simple snack we humans enjoy, but can our goats partake too?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-27
@@ -41,11 +41,11 @@ faq:
   - question: "Can Goats Eat Popcorn?"
     answer: "Goats can eat popcorn. It’s not harmful to them, but it should be a treat and not part of their regular diet. Popcorn is low in fiber and high in calories which isn’t ideal for goats."
   - question: "Should Goats Eat Popped or Unpopped Popcorn?"
-    answer: "Popped or unpopped, which is better for goats? Let’s dive in. Popcorn can be a fun treat for your goat but it should not replace their regular diet. Popped popcorn isn’t harmful to them as long as it doesn’t have added butter or salt. Unpopped kernels though are another story."
+    answer: "Plain, air-popped popcorn is safe for goats as long as it has no butter, salt, or other toppings. Unpopped kernels are a choking hazard and should be sifted out before feeding."
   - question: "Are Popcorn Kernels Safe for Goats?"
-    answer: "Popcorn kernels are not safe for goats. These hard pieces can cause choking or digestive issues in your goat. It’s best to avoid giving them popcorn at all."
+    answer: "Unpopped kernels are a choking hazard and can crack teeth or irritate the digestive tract. If you share popcorn with your goats, always sift out the unpopped kernels first."
   - question: "How Often Can Goats Eat Popcorn?"
-    answer: "Goats can eat popcorn, but not too often. It’s like a treat for them. Popcorn has no nutritional value for goats and it is hard to digest if eaten in large amounts. So, how often should you feed your goat popcorn?"
+    answer: "Once a week or less is a reasonable frequency. A small handful of plain popped corn per goat is plenty. Popcorn is mostly empty calories and should never become a regular part of their diet."
 ---
 
 If you’ve got a bowl of popcorn and a goat staring you down, you’ve probably wondered if sharing is safe. The short answer is yes, but there are some ground rules.

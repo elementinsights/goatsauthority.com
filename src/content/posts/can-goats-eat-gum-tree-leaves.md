@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Gum Tree Leaves?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Despite that, it's important to note that there are some risks associated with feeding goats gum tree leaves. These leaves can contain toxins that can be harmful to goats if they consume too much of them."
+  text: "It depends on the species. Sweetgum (Liquidambar) leaves are safe for goats to browse freely. Eucalyptus gum tree leaves contain volatile oils that are mildly toxic in large amounts."
 toc:
   - label: "Can goats eat gum tree leaves?"
     href: "#can-goats-eat-gum-tree-leaves"
@@ -37,13 +37,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat gum tree leaves?"
-    answer: "Leafy gum trees are edible to goats. They might even find the taste enjoyable. Goats can benefit from the minerals included in gum tree leaves, which are also beneficial to their health. You don't have to worry about them getting sick because they are low-risk food."
+    answer: "It depends on the species. Sweetgum (Liquidambar) leaves are safe and goats can browse them freely. Eucalyptus gum tree leaves contain eucalyptol oil that is mildly toxic in large amounts, though most goats naturally avoid them."
   - question: "What are gum trees and what do they look like?"
-    answer: "Gum trees are a type of tree that is native to Australia. They are also known as eucalyptus trees. Gum trees can range in height from 30 to 50 feet. They have smooth, bark that is white or gray in color."
+    answer: "Eucalyptus gum trees are native to Australia with smooth peeling bark and long narrow leaves. Sweetgum trees (Liquidambar) are native to North America with star-shaped leaves and spiky seed balls."
   - question: "What are the health benefits of eating gum tree leaves?"
-    answer: "Chewing gum has been shown to have a variety of health benefits, including reducing stress, improving cognitive function, and even aiding in weight loss. But, chewing gum made from gum tree leaves may offer even more benefits."
+    answer: "Sweetgum leaves offer basic fiber and trace minerals as browse, similar to most deciduous tree leaves. Eucalyptus leaves have very limited value for goats due to high oil content."
   - question: "What are the risks associated with eating gum tree leaves?"
-    answer: "Gum tree leaves are considered to be poisonous to humans and animals if ingested. The leaves contain a substance called saponin, which is toxic to the liver and can cause vomiting, diarrhea, and internal bleeding."
+    answer: "For sweetgum, risks are minimal. Eucalyptus carries more risk because the eucalyptol oil can cause drooling, loss of coordination, and diarrhea if a goat eats a significant amount."
 ---
 The term "gum tree" covers several very different trees, and which one you're dealing with matters a lot for your goats. Eucalyptus, sweetgum (Liquidambar), and even some acacias all get called gum trees depending on where you live.
 

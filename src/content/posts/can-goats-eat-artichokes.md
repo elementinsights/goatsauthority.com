@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat artichokes?"
-    answer: "Goats can consume artichokes, which can be added to their diet. In fact, artichokes can be a healthy treat for goats as they are a good source of fiber and vitamins. Artichokes also contain a type of antioxidant that has been shown to have anti-inflammatory and antiviral properties."
+    answer: "Yes, goats can eat both globe artichokes and Jerusalem artichokes safely. The leaves, heart, stem, and even tough outer bracts are all edible. Artichokes are related to thistles, which goats naturally browse."
   - question: "What are artichokes and where do they come from?"
-    answer: "Artichokes are a thistle-like vegetable that is native to the Mediterranean region. The edible part of the plant is actually the flower bud, which is harvested before it blooms."
+    answer: "Artichokes are a thistle-like vegetable native to the Mediterranean region. Globe artichokes are the flower bud variety, while Jerusalem artichokes are a different plant with edible tubers similar to potatoes."
   - question: "What are the benefits of feeding artichokes to goats?"
-    answer: "Artichokes are a type of thistle that is grown for its edible flower buds. The buds can be cooked and eaten, and they are often used in salads and dips."
+    answer: "Artichokes are high in fiber and contain vitamins C and K along with minerals like copper and manganese. They also contain antioxidants like quercetin and rutin that support overall health."
   - question: "What are the risks of feeding artichokes to goats?"
-    answer: "Artichokes are a popular vegetable, praised for their earthy flavor and health benefits. Despite that, artichokes also contain a compound known as Cynarin. When consumed in large quantities, Cynarin can cause liver damage and gastrointestinal problems in goats."
+    answer: "The main risk is overfeeding. Too many artichokes at once can cause loose droppings from the high fiber content. Avoid canned or marinated artichokes, which contain excess sodium, oil, and vinegar."
 ---
 
 Yes, goats can eat artichokes. Both globe artichokes from the grocery store and Jerusalem artichokes (sunchokes) from the garden are safe for your herd.

@@ -11,7 +11,7 @@ imageAlt: "Can You Band A Goat At 3 Years Old?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You cannot band a goat at 3 years old because the process is too dangerous. Banding a goat involves breaking the animal's leg in order to insert a metal ring."
+  text: "You can band a 3-year-old goat, but most vets strongly advise against it. On a mature buck the scrotum is large with established blood vessels, making banding extremely painful and risky. Surgical castration by a vet is the safer choice."
 toc:
   - label: "Can you band a goat at 3 years old?"
     href: "#can-you-band-a-goat-at-3-years-old"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can you band a goat at 3 years old?"
-    answer: "You cannot band a goat at 3 years old because the process is too dangerous. Banding a goat involves breaking the animal's leg in order to insert a metal ring. This ring will then cut off the circulation to the goat's hooves, which will cause them to eventually fall off."
+    answer: "You can band a 3-year-old goat, but most vets strongly advise against it. Banding places a rubber band around the scrotum to cut off blood flow for castration, and on a mature buck the large blood vessels and tissue make it extremely painful and risky. Surgical castration by a vet is the recommended alternative."
   - question: "What is the right time to band a goat?"
-    answer: "The best time to band a goat is between 4 and 6 months old. This is because the goat's bones are not fully developed yet and are therefore more flexible. This makes the banding process less painful and less likely to cause complications."
+    answer: "The ideal window for banding is between 8 and 12 weeks old. At this age, the scrotum is small, the procedure takes seconds, and the kid bounces back quickly. By 6 months, banding starts to become risky, and by 3 years old most vets won't recommend it."
   - question: "What are the benefits of banding a goat?"
-    answer: "Banding a goat has a few benefits. First, it helps to prevent the overgrowth of the hooves. This is because the metal ring will cut off the circulation to the hooves, which will cause them to eventually fall off."
+    answer: "Banding done at the right age is cheap, fast, and doesn't require a vet visit. Castrating male goats you don't plan to breed makes herd management easier since wethers are calmer, don't develop the strong buck smell, and can be housed with does without risking unplanned pregnancies."
   - question: "What are the risks of banding a goat?"
-    answer: "Banding a goat is a risky procedure. The most common complication is that the band can slip off, which can cause the goat's hooves to overgrow and get caught on things."
+    answer: "On an older goat, the large blood supply may prevent the band from fully cutting off circulation, leading to incomplete castration. Tetanus is a major concern, infection can set in fast, and the goat will experience significant pain that can cause it to go off feed and lose weight."
 ---
 Banding is one of the most common ways to castrate young goats, but doing it on a 3-year-old buck is a whole different situation. Let's clear up what banding actually is and why age matters so much.
 

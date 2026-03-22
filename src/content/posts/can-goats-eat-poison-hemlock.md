@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Poison Hemlock?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances."
+  text: "No, absolutely not. Poison hemlock is extremely toxic to goats and can be fatal even in small quantities. There is no safe amount, and no breed is immune."
 toc:
   - label: "Can goats eat poison hemlock?"
     href: "#can-goats-eat-poison-hemlock"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat poison hemlock?"
-    answer: "Goats can eat poison hemlock without any problem. This is because goats have four-chamber stomachs that are able to digest poisonous plants and substances. The four-chamber stomach also allows goats to eat large quantities of food quickly, which is helpful when they're grazing."
+    answer: "No. Poison hemlock contains piperidine alkaloids that attack the nervous system and cause respiratory paralysis. Even a few mouthfuls can be fatal, and there is no safe dose for any goat."
   - question: "What kind of goat can eat poison hemlock without any problem?"
-    answer: "Some goats are immune to poison hemlock. They can eat it without any problem. Other goats are not immune and will get sick or die if they eat poisoned hemlock."
+    answer: "No breed or type of goat is immune to poison hemlock. Every goat, regardless of breed, age, or size, is vulnerable to hemlock poisoning."
   - question: "What are the benefits of goats eating poison hemlock?"
-    answer: "Poison hemlock is a plant that can be found in many areas, including North America. It's often considered a weed, as it can spread quickly and overtake other plants."
+    answer: "There are zero benefits. Poison hemlock provides nothing of value to goats and can only cause harm or death. Do not use goats as hemlock control."
   - question: "What are the risks of goats eating poison hemlock?"
-    answer: "Goats are curious creatures and will often put anything in their mouths to see if it's edible. This can be a problem if there's poison hemlock growing in their pasture."
+    answer: "The toxin coniine causes progressive paralysis starting in the legs and moving to the respiratory muscles. Symptoms appear within 30 minutes to two hours. Pregnant does that survive may give birth to kids with severe birth defects."
 ---
 This is one of the most important articles you'll read as a goat owner. Poison hemlock (Conium maculatum) is EXTREMELY toxic to goats, and even a small amount can kill them.
 

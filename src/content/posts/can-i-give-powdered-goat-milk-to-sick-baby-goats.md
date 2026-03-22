@@ -33,9 +33,9 @@ faq:
   - question: "What is powdered goat milk and what are its benefits for sick baby goats?"
     answer: "Powdered goat milk, also known simply as powdered goat milk formula, is a concentrated form of goat milk. It is typically made by first homogenizing and pasteurizing goat milk, then drying the resulting liquid to remove any excess moisture."
   - question: "How to determine if your goat needs powdered goat milk?"
-    answer: "First, it is important to understand the requirements and nutritional needs of a goat. Most goats need roughly 20% protein in their diet in order to thrive, so it is crucial to be aware of any changes in your goat's appetite or body weight that could indicate that they are not getting the nutrients they need."
+    answer: "A kid that won't nurse, can't stand to reach the udder, or has been rejected by its dam needs supplemental feeding right away. Watch for sunken eyes, a tucked-up belly, and lethargy as signs the kid isn't getting enough milk on its own."
   - question: "How to mix powdered goat milk with water?"
-    answer: "There are a few different ways that you can mix powdered goat milk with water to create a nutrient-rich formula for your baby or young child. One option is to use a ratio of 1 teaspoon of powder to 8 ounces of water."
+    answer: "Follow the mixing directions on the package. For Meyenberg, the standard ratio is about one cup of powder to three cups of warm water. Warm the mixed milk to about 101 degrees Fahrenheit and use a Pritchard nipple on a bottle."
 ---
 
 Yes, powdered goat milk works well for sick kids that can't nurse from their dam. It's more digestible than cow-based milk replacers and can be the difference between losing a kid and pulling it through.

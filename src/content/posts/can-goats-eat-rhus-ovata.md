@@ -29,9 +29,9 @@ faq:
   - question: "Can Goats Eat Rhus Ovata?"
     answer: "Goats can eat Rhus ovata because it is not poisonous to them. In fact, Rhus ovata is a nutritious food for goats, as it is high in fiber and protein. They are also a good source of essential vitamins and minerals."
   - question: "What are the benefits of feeding Rhus ovata to goats?"
-    answer: "Rhus ovata, also known as sugar bush or mountain mahogany, is a shrub that is native to the southwestern United States."
+    answer: "Rhus ovata provides high-fiber browse and the sticky, reddish berries have a tart, sugary coating goats enjoy. It adds variety to a goat's diet and works as a solid supplement alongside hay."
   - question: "What are the risks of feeding Rhus ovata to goats?"
-    answer: "The most serious risk is that of bloat. Bloat is a condition in which the stomach becomes bloated with gas, making it difficult for the animal to breathe."
+    answer: "The biggest concern is bloat if a goat gorges on too much at once. Rhus ovata contains tannins, and a sudden large intake of tannin-rich browse can cause gas buildup in the rumen."
   - question: "How to prevent the risks of feeding Rhus ovata to goats?"
     answer: "The best way to prevent the risks of feeding Rhus ovata to goats is to limit the amount of Rhus ovata that they consume. Goats should only consume small amounts of Rhus ovata, and it should be introduced into their diet slowly."
 ---

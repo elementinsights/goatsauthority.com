@@ -35,11 +35,11 @@ faq:
   - question: "Can goats eat mimosa?"
     answer: "Goats can eat mimosas. This is because their digestive systems are able to break down the plant's tough fibers. Mimosa has a high nutritional content, which makes it a good food for goats. They are also known to enjoy the taste of the leaves."
   - question: "Can all parts of the mimosa be eaten by goats?"
-    answer: "The answer to this question is a bit complicated. To understand why it is first necessary to know a bit about the mimosa plant. Mimosa plants are part of the legume family, which means that they have nitrogen-fixing bacteria in their roots."
+    answer: "The leaves and flowers are the safest parts and what goats are most attracted to. The bark is also generally safe. The seed pods can cause mild digestive upset in large quantities, so those are the only part to be cautious about."
   - question: "What is mimosa and what are its benefits for goats?"
     answer: "Native to tropical areas of Central and South America, mimosas are a kind of flowering plant in the Fabaceae family. The plant features green leaves that are rounded and small, pink or white flowers."
   - question: "How much mimosa can goats eat?"
-    answer: "Mimosa is a plant that belongs to the pea family. It is native to tropical and subtropical regions of the world."
+    answer: "There is no need to strictly ration mimosa leaves. As part of normal browsing alongside other forage, goats can eat mimosa freely. Just make sure they also have access to quality hay, fresh water, and minerals."
 ---
 Mimosa trees (Albizia julibrissin, also called silk trees) are a common sight across the southern United States, and if you've got one in your pasture, your goats have probably already discovered it. The good news is that mimosa leaves and flowers are generally safe for goats.
 

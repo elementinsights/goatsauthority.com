@@ -31,7 +31,7 @@ faq:
   - question: "What is a Saanen goat and what is its purpose?"
     answer: "Saanen goats are a dairy breed that originated in the Swiss Alps. They are known for their large size and milk production, and they are also one of the most popular breeds of goats in the world."
   - question: "How to care for your Saanen goat's health and wellbeing?"
-    answer: "Goats are hardy animals, and with proper care, they can live healthy lives. But, there are a few health concerns that are specific to Saanen goats."
+    answer: "Saanens are prone to sunburn because of their white skin, so provide shade in summer. Keep up with regular hoof trimming, deworming based on fecal egg counts, and annual CDT vaccinations."
   - question: "How many kids can a Saanen goat have at one time?"
     answer: "Saanen goats usually have twins or triplets, although they may occasionally have single births. First-time does are more likely to have singles."
 ---

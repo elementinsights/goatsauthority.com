@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Oregon Grape?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats cannot consume Oregon grapes because of their sharp leaves which can harm the goat's digestive system. The leaves of the Oregon grape contain a substance called berberine."
+  text: "Oregon grape is not immediately dangerous, but it's not something to encourage goats to eat regularly. It contains berberine, which can cause digestive upset in more than small amounts, though most goats avoid it naturally."
 toc:
   - label: "Can goats eat Oregon grapes?"
     href: "#can-goats-eat-oregon-grapes"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat Oregon grapes?"
-    answer: "Goats cannot consume Oregon grapes because of their sharp leaves which can harm the goat's digestive system. The leaves of the Oregon grape contain a substance called berberine. This substance is known to be toxic to goats and can cause severe digestive problems."
+    answer: "Oregon grape isn't immediately deadly, but it's not something to encourage goats to eat. The plant contains berberine, which can disrupt rumen bacteria and cause digestive upset in more than small amounts. Most goats avoid it naturally."
   - question: "What are Oregon grapes and what do they look like?"
-    answer: "Oregon grapes are a type of evergreen shrub that is native to the western United States. The shrubs typically grow to be between three and six feet tall, and they have glossy green leaves with serrated edges."
+    answer: "Oregon grape is an evergreen shrub that grows three to six feet tall with glossy, holly-like leaves with sharp serrated edges. It produces yellow flowers in spring and dark blue-purple berries in grape-like clusters."
   - question: "What are the risks associated with feeding Oregon grapes to goats?"
-    answer: "The berries of the Oregon grape are used to make wine, jams, and pies. The leaves of the plant are also sometimes used as a herbaceous seasoning in cooking. While Oregon grapes are not poisonous to goats, there are some risks associated with feeding them to these animals."
+    answer: "The primary concern is berberine, concentrated throughout the plant, which can disrupt rumen bacteria, cause gas buildup, diarrhea, and reduced nutrient absorption. The berries are also mildly toxic in quantity."
   - question: "How to prevent your goats from eating Oregon grapes?"
     answer: "Goats are curious creatures and will nibble on just about anything. This can be a problem when you're trying to prevent them from eating Oregon grapes. The good news is that there are a few things you can do to keep your goats away from these plants."
 ---

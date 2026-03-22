@@ -35,11 +35,11 @@ faq:
   - question: "Can goats get listeriosis from chicken feces?"
     answer: "Goats can get listeriosis from chicken feces. Listeriosis is a bacterial infection that can be transmitted to animals and humans through contaminated food or contact with infected animal feces."
   - question: "What is listeriosis in goats and what are the symptoms?"
-    answer: "Listeriosis is a disease caused by the bacteria Listeria monocytogenes. This bacteria can infect goats, causing a range of symptoms including fever, diarrhea, and weakness. In severe cases, listeriosis can lead to death."
+    answer: "Listeriosis most often appears as circling disease, where the goat walks in circles, tilts its head, and drools due to facial nerve paralysis. The other form causes abortions in pregnant does. Goats may also run a fever and press their heads against walls."
   - question: "How does listeriosis spread in goats?"
-    answer: "Listeriosis is a bacterial infection that can spread through the consumption of contaminated food. Goats can become infected with listeriosis by eating contaminated grass or hay. The bacteria can also spread through contact with contaminated water."
+    answer: "The bacteria enter through the mouth from contaminated feed or water, or through small cuts in the gums. Poorly fermented silage with a pH above 5.5 is the number one source, followed by contaminated bedding and water. The bacteria travel along nerves to the brain."
   - question: "What is the treatment for listeriosis in goats and is it a serious illness?"
-    answer: "Listeriosis is a serious bacterial infection that primarily affects goats. The bacteria typically enter the body through the nose and can cause severe respiratory illness. Listeriosis can also cause pneumonia, encephalitis, and meningitis."
+    answer: "Listeriosis is a serious illness that can kill within days if not caught early. Treatment requires high-dose procaine penicillin G given every 6 hours for at least 5 days, along with supportive care including electrolytes and soft feed."
 ---
 Yes, goats can pick up listeriosis from chicken feces, though it is not the most common way they get it. The bigger culprit is usually moldy silage or haylage, but chicken droppings do carry Listeria monocytogenes and pose a real risk on mixed-species farms.
 

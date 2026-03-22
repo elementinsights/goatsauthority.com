@@ -33,11 +33,11 @@ faq:
   - question: "Can a horse get attached to a goat?"
     answer: "Horses can indeed get attached to goats. This is most likely to occur when the horse and goat have been raised together from a young age and have had little to no contact with other members of their own species or other animals."
   - question: "What does the bond between a horse and goat look like?"
-    answer: "When most people think of bonding, they think of close friends or family members who have a deep connection."
+    answer: "A bonded horse and goat will graze side by side, rest near each other, and show visible distress when separated. You may also see mutual grooming, where the horse nibbles along the goat's back."
   - question: "How can you encourage bonding between your horses and goats?"
-    answer: "One of the best ways to encourage bonding between your horses and goats is to feed them together. If you have a separate area for each animal, bring their food bowls close together so they have to eat side-by-side."
+    answer: "Start by housing them in adjacent stalls or pens where they can see and smell each other. Feed them near each other but at separate stations, since horse feed often contains monensin which is toxic to goats."
   - question: "What are the benefits of a horse-goat bond?"
-    answer: "As any horse lover knows, these beautiful animals are not only powerful and graceful but also intelligent and sensitive."
+    answer: "The biggest benefit is reduced stress and anxiety, especially for horses that are stalled alone or prone to weaving and cribbing. A calm goat companion can settle a nervous horse better than almost anything else."
 ---
 
 Horses and goats have been kept together for centuries, and for good reason. These two species form genuine bonds that benefit both animals in ways that might surprise you.

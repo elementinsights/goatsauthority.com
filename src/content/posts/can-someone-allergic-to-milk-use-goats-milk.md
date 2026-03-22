@@ -11,7 +11,7 @@ imageAlt: "Can Someone Allergic To Milk Use Goats Milk?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk."
+  text: "It depends on the type of allergy. People sensitive to alpha-s1 casein may tolerate goat milk well, but those with a true IgE-mediated dairy allergy have about a 90% cross-reaction rate. Consult your allergist before trying it."
 toc:
   - label: "Can someone allergic to milk use goats milk?"
     href: "#can-someone-allergic-to-milk-use-goats-milk"
@@ -31,13 +31,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can someone allergic to milk use goats milk?"
-    answer: "People with cow's milk allergies can drink goat milk. In fact, many people find that they can tolerate goat milk better than cow's milk. The proteins in goat milk are different from the proteins in cow's milk, so it's possible that you may not be allergic to goat milk."
+    answer: "It depends on the type of allergy. Goat milk has less alpha-s1 casein, so people sensitive to that specific protein often tolerate goat milk. However, those with a true IgE-mediated dairy allergy have about a 90% cross-reaction rate between cow and goat milk."
   - question: "What is goat milk and what are the benefits of drinking it?"
     answer: "Goat milk is a type of milk that is produced by goats. Traditionally, it has been used for a variety of purposes, including making cheeses and other dairy products."
   - question: "What are the differences between cow's milk and goat's milk?"
-    answer: "Although cow's milk and goat's milk may look similar, there are actually several important differences between the two. For example, cow's milk generally contains more fat than goat's milk."
+    answer: "The protein profiles differ most. Cow milk has high levels of alpha-s1 casein, while goat milk has more alpha-s2 casein instead. Goat milk fat is also naturally homogenized with smaller fat globules, making it easier to digest."
   - question: "How do you make goat milk more accessible for people with cow's milk allergies?"
-    answer: "There are many people who suffer from cow's milk allergies or intolerances, and this can make it difficult for them to find suitable sources of nutrition. One possible solution is to give these individuals access to goat milk."
+    answer: "Start with goat milk yogurt or cheese, which have proteins partially broken down by fermentation. Check local grocery stores, health food stores, or farmers markets for pasteurized goat milk products."
 ---
 The answer depends entirely on what type of milk reaction you are dealing with. Some people with cow milk problems do great with goat milk, while others react to it just as badly.
 

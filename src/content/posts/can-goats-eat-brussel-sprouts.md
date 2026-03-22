@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Brussel Sprouts?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Too many may cause bloating and digestive issues in them. Remember also to wash these veggies before giving them to your pet."
+  text: "Yes, Brussels sprouts are safe for goats and packed with vitamins C and K. Stick to 2-3 sprouts per goat at a time and introduce gradually, since brassicas can cause bloating if overfed."
 toc:
   - label: "Can Goats Eat Brussels Sprouts?"
     href: "#can-goats-eat-brussels-sprouts"

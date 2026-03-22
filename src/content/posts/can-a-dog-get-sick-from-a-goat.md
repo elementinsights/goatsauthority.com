@@ -35,11 +35,11 @@ faq:
   - question: "Can a dog get sick from a goat?"
     answer: "It's possible for a dog to get sick from a goat, although it's not very common. This can happen if the dog comes into contact with the goat's saliva, if the dog has an open wound, or if the goat is sick itself."
   - question: "What disease can a dog get from a goat?"
-    answer: "There are a number of diseases that can affect both dogs and goats, but some are more common than others. One of the most common diseases is parvovirus, which is highly contagious and can be deadly. Dogs can also contract rabies from goats, although this is relatively rare."
+    answer: "Leptospirosis is one of the main concerns, contracted through contact with goat urine. Dogs can also pick up parasites like Cryptosporidium and Giardia from goat feces, and external parasites like ticks from shared pastures."
   - question: "How do dogs and goats interact with each other?"
-    answer: "Though they are both four-legged animals with fur, dogs and goats are vastly different creatures. Dogs are carnivores while goats are herbivores, meaning that their diets vary greatly."
+    answer: "Dogs and goats are very different animals. Dogs are carnivores while goats are herbivores. Livestock guardian dogs bond with goat herds and protect them from predators, while herding dogs can work goats for farm management."
   - question: "What is the best dog breed to guard your goats?"
-    answer: "When it comes to guarding your goats, there are a number of different dog breeds that can get the job done. But there are some breeds that are better suited for the task than others."
+    answer: "Great Pyrenees, Anatolian Shepherds, and Maremma Sheepdogs are the most common guardian breeds used with goat herds. These dogs bond with the herd and will defend against coyotes, stray dogs, and other predators."
 ---
 
 Yes, dogs can catch certain diseases from goats, though it doesn't happen often. If you're running livestock guardian dogs with your herd or have a farm dog that hangs around the goat pen, it's worth knowing the risks.

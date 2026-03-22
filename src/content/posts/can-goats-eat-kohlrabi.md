@@ -37,7 +37,7 @@ faq:
   - question: "What do goats eat and are they able to eat Kohlrabi?"
     answer: "Goats are actually very versatile eaters and can digest a wide variety of plant life. In general, they are browsers rather than grazers, which means that they prefer to eat leaves, twigs, and other foliage."
   - question: "How much Kohlrabi can a goat eat at one time?"
-    answer: "Kohlrabi is a member of the cabbage family, and it's a popular vegetable in many parts of the world. It's high in vitamins and minerals, and it has a mild, sweet flavor. Kohlrabi is often eaten raw, but it can also be cooked."
+    answer: "Start with a few chunks of chopped bulb and a handful of leaves per goat. Like all brassicas, kohlrabi can cause gas if goats eat too much at once, so introduce it gradually over a few days."
 ---
 Yes, kohlrabi is safe for goats. It is a brassica, the same family as cabbage and broccoli, and most goats enjoy both the bulb and the leaves.
 

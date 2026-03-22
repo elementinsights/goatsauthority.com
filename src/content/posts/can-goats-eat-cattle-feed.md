@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Cattle Feed?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can consume cattle feed without any problems. In fact, many goat farmers actually feed their animals a diet that consists mostly of cattle feed."
+  text: "No, goats should not eat cattle feed. Many cattle feeds contain monensin, an ionophore that is fatal to goats even in small doses. The mineral ratios are also wrong, and this is one of the most common causes of accidental goat death on mixed farms."
 toc:
   - label: "Can goats eat cattle feed?"
     href: "#can-goats-eat-cattle-feed"
@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat cattle feed?"
-    answer: "Goats can consume cattle feed without any problems. In fact, many goat farmers actually feed their animals a diet that consists mostly of cattle feed. Cattle feed contains all the necessary nutrients and vitamins that goats need to stay healthy and thrive."
+    answer: "No, goats should not eat cattle feed. The biggest danger is monensin (Rumensin), a common additive that is lethal to goats. Even non-medicated cattle feed has the wrong mineral balance for goats."
   - question: "What is cattle feed and what are its benefits for goats?"
-    answer: "Cattle feed is a type of supplemental feed that is specially formulated for cattle. It typically contains a mix of hay, corn, and soybean meal, as well as vitamins and minerals. Cattle feed can be purchased in either pellet or crumble form."
+    answer: "Cattle feed is grain-based supplement formulated for cows. There are no real benefits to feeding it to goats when goat-specific feed exists. The mineral balance is wrong and the additives can be lethal."
   - question: "Can goats eat all types of cattle feed, or do they have specific dietary needs?"
-    answer: "Goats are browsers rather than grazers, which means that they prefer to eat leaves and other soft vegetation rather than grass. Respectively, they can often be seen standing on their hind legs in order to reach the tastiest leaves."
+    answer: "Goats should not eat any type of cattle feed. The copper levels, calcium-to-phosphorus ratios, and potential ionophore additives all make cattle feed dangerous for goats. Always use feed formulated specifically for goats."
   - question: "Can all kinds of goats eat cattle feed?"
-    answer: "All goats can eat cattle feed, but it's especially important for dairy goats. Dairy goats need to consume a large amount of food in order to produce milk, and cattle feed is an excellent way to provide them with the nutrients they need."
+    answer: "No breed of goat should eat cattle feed. Every goat breed is at risk from monensin toxicity and incorrect mineral balance. If you keep both cattle and goats, store feeds separately in locked containers."
 ---
 Feeding cattle feed to goats is genuinely dangerous, and this is a topic every mixed-farm owner needs to take seriously. The wrong bag of cattle feed can kill a goat in a matter of days.
 

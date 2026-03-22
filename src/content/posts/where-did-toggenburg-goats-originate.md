@@ -33,13 +33,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Where did Toggenburg goats originate?"
-    answer: "Toggenburg goats originally came from the Toggenburg region of Switzerland. This area is located in the eastern part of the country and is known for its mountainous terrain. The Toggenburg goat was first brought to America in 1904 by Mrs. E. Pardee of Ohio."
+    answer: "Toggenburg goats come from the Toggenburg Valley in northeastern Switzerland. Written records of the breed go back to the 1600s, making them the oldest known registered dairy goat breed. They were first imported to the United States in 1893."
   - question: "What are Toggenburg goats?"
     answer: "Toggenburg goats are a species of dairy goat known for their distinctive appearance and high milk production."
   - question: "What do Toggenburg goats look like?"
     answer: "Toggenburg goats are named after the Toggenburg region of Switzerland, where they were first bred in the late 1800s. With their impressive size and shaggy brown coats, Toggenburg goats are easily recognizable."
   - question: "What are the benefits of owning Toggenburg goats?"
-    answer: "There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk. In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine."
+    answer: "Toggenburgs are consistent, reliable milkers that produce about 2,000 pounds of milk per lactation. They hold their production well through the entire lactation period, and they're cold-hardy goats that handle winter weather better than most dairy breeds."
 ---
 Toggenburg goats are one of the oldest and most recognizable dairy breeds in the world. Here's where they came from and what makes them worth owning.
 

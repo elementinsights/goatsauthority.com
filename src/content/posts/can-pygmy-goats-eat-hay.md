@@ -37,7 +37,7 @@ faq:
   - question: "What are some things to consider when feeding hay to pygmy goats?"
     answer: "There are two primary types of hay: legume hay and grass hay. Legume hay, for example, alfalfa, consists of more protein than grass hay does. On the other hand, grasses like timothy or Bermuda contain less protein but greater fiber."
   - question: "What are the nutritional benefits of hay for pygmy goats?"
-    answer: "Hay is a critical part of the diet for pygmy goats, as it provides important nutrients and sustains their long and active lives."
+    answer: "Hay keeps the rumen healthy and moving. The fiber promotes proper digestion and prevents gas buildup that causes bloat. Good quality grass hay also provides vitamins, minerals, and moderate protein in a low-calorie form."
   - question: "Are there any risks associated with feeding hay to pygmy goats?"
     answer: "Although pygmy goats require hay in their diet, feeding them too much can be harmful. The first issue is that hay may contain dust or other particles which can inflame the respiratory system. In order to avoid this, you should pick a hay variety that is free of debris and clean."
 ---

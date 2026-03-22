@@ -11,7 +11,7 @@ imageAlt: "Can Goats Be Kept In The House?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be used as fertilizer."
+  text: "Goats can physically live inside a house, but it's not recommended long-term. They can't be reliably house-trained, will chew everything, and need outdoor space, herd companions, and browse to thrive."
 toc:
   - label: "Can goats be kept in the house?"
     href: "#can-goats-be-kept-in-the-house"
@@ -29,13 +29,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats be kept in the house?"
-    answer: "Goats can be kept in the house because they are small animals that do not require a lot of space and can be easily trained to use a litter box. They are also relatively clean animals and their waste can be used as fertilizer."
+    answer: "Goats can physically live inside, but they can't be reliably house-trained and will chew electrical cords, furniture, and potentially toxic houseplants. Short-term indoor stays for bottle babies or sick goats are reasonable, but permanent indoor housing creates more problems than it solves."
   - question: "What are the benefits of keeping goats in the house?"
-    answer: "Goats are often thought of as farm animals, but they can also make great house pets. Goats are very social creatures and enjoy being around people."
+    answer: "Most people bring goats inside for bottle-feeding newborn kids every few hours, nursing sick or injured goats, or as companion animals with miniature breeds. These are usually temporary situations."
   - question: "What are the risks of keeping goats in the house?"
-    answer: "There are a few risks to consider before keeping a goat in the house. First, goats are escape artists and will try to find ways to escape their enclosures."
+    answer: "Goats drop pellets throughout the day with almost no control, chew electrical cords and toxic houseplants, and need at least one companion since a lone goat becomes anxious and noisy. The musky smell also builds up quickly indoors."
   - question: "How do I care for a goat in the house?"
-    answer: "If you decide to keep a goat in the house, there are some important considerations to keep in mind. First, you will need to provide a large enclosure for your goat."
+    answer: "Build a three-sided shelter or small barn near your house instead. For temporary indoor situations, set up a dedicated area in a mudroom or garage with easy-to-clean floors and keep it stocked with hay, fresh water, and a warm sleeping spot."
 ---
 Keeping a goat inside your house is technically possible, but it's not something most experienced farmers would recommend long-term. There are real situations where a goat needs to come indoors temporarily, and there are good reasons why it shouldn't stay there.
 

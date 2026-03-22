@@ -39,7 +39,7 @@ faq:
   - question: "What are the symptoms of tapeworms in dogs?"
     answer: "The most common symptom of tapeworms in dogs is weight loss, despite having a good appetite. This is because the tapeworms steal nutrients from the food your dog eats, preventing them from getting the nutrition they need."
   - question: "How is a dog diagnosed with tapeworms and what is the treatment for them?"
-    answer: "A goat expert will diagnose tapeworms based on your dog's symptoms and a physical examination. They may also perform laboratory tests, such as a fecal flotation test, to look for the presence of tapeworm eggs in your dog's stool."
+    answer: "Your vet will confirm a tapeworm infection through a fecal exam or by identifying proglottid segments. Treatment with praziquantel, given as a pill or injection, kills tapeworms effectively, and most dogs recover with a single dose."
 ---
 
 Yes, dogs can get tapeworms from goats. If you keep both animals on the same property, understanding how this happens is the first step toward preventing it.

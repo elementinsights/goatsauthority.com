@@ -11,7 +11,7 @@ imageAlt: "Can Goat Cheese Make You Bloated?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible that goat cheese can make you bloated because it's high in fat. When you eat foods that are high in fat, it can slow down the digestion process and cause bloating."
+  text: "Goat cheese can cause bloating in some people, but it's far less likely than cow cheese. Goat milk contains A2 casein and smaller fat globules, making it easier to digest for most people."
 toc:
   - label: "Can goat cheese make you bloated?"
     href: "#can-goat-cheese-make-you-bloated"
@@ -33,11 +33,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goat cheese make you bloated?"
-    answer: "it's possible that goat cheese can make you bloated because it's high in fat. When you eat foods that are high in fat, it can slow down the digestion process and cause bloating. Goat cheese also contains a type of protein called casein, which can also cause bloating."
+    answer: "Goat cheese can cause bloating in some people, but it's far less common than cow cheese. Goat milk contains A2 casein and smaller fat globules that are easier to digest, so many people who bloat from cow cheese handle goat cheese just fine."
   - question: "What are the consequences of bloating?"
     answer: "The main consequence of bloating is discomfort. You may feel like your stomach is full and bloated, and you may also experience pain, gas, and cramping. Bloating can make it difficult to eat or drink because of the pressure on your stomach."
   - question: "How can I avoid bloating from goat cheese?"
-    answer: "Bloating is a common side effect of eating goat cheese. This is because goat cheese is high in lactose, a type of sugar that is difficult for the body to break down."
+    answer: "Start with aged goat cheese rather than fresh chevre, since aged varieties have less lactose. Eat moderate portions, avoid combining with other high-fat foods, and consider a lactase supplement about 30 minutes before eating."
   - question: "What are some other ways to avoid bloating?"
     answer: "There are a few other things you can do to avoid bloating. First, be sure to drink plenty of water. Water helps keep the digestive system moving and prevents constipation."
 ---

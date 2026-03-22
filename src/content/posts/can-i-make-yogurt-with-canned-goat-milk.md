@@ -11,7 +11,7 @@ imageAlt: "Can I Make Yogurt With Canned Goat Milk?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can make yogurt with canned goat milk, but it will not be as thick and creamy as yogurt made with fresh milk. This is because canned goat milk has a higher fat content than fresh milk."
+  text: "Yes, you can make yogurt with canned goat milk. It won't set as thick as cow milk yogurt because goat milk has a different protein structure, but the results are still great."
 toc:
   - label: "Can I make yogurt with canned goat milk?"
     href: "#can-i-make-yogurt-with-canned-goat-milk"
@@ -31,11 +31,11 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I make yogurt with canned goat milk?"
-    answer: "You can make yogurt with canned goat milk, but it will not be as thick and creamy as yogurt made with fresh milk. This is because canned goat milk has a higher fat content than fresh milk. The fat in the canned milk will prevent the yogurt from setting properly."
+    answer: "Yes, canned goat milk makes perfectly good yogurt. It won't set as thick as cow milk yogurt because goat milk has a different protein structure with smaller fat globules. Strain it through cheesecloth for a thicker, Greek-style result."
   - question: "What is canned goat milk and where can I find it?"
     answer: "Canned goat milk is a type of dairy product made from the milk of goats. It can be found at many grocery stores, online retailers, and specialty stores like farmers' markets. The milk can come from fresh, whole goats or from powdered goat milk that has been reconstituted and canned."
   - question: "Is canned goat milk a good substitute for fresh goat milk when making yogurt?"
-    answer: "There is no definitive answer to the question of whether canned goat milk is a good substitute for fresh goat milk when making yogurt."
+    answer: "It's a solid substitute, not a perfect one. The canning process changes the protein structure slightly, but plenty of people make great yogurt from canned goat milk every week. The convenience and year-round availability make it a practical choice."
   - question: "How do I make yogurt with canned goat milk?"
     answer: "There are a few different ways that you can make yogurt with canned goat milk. One option is to simply add a packet of store-bought yogurt starter to the milk, and let it sit at room temperature for several hours until thickened."
 ---

@@ -37,11 +37,11 @@ faq:
   - question: "Can a goat eat too many dewormer pellets?"
     answer: "A goat can eat too many dewormer pellets. While their digestive systems are tough, eating too many dewormer pellets can cause stomach upset and even blockages. Dewormer pellets also contain toxins that can be harmful to goats in large quantities."
   - question: "What are dewormer pellets and what do they do for goats?"
-    answer: "Dewormer pellets are a type of feed supplement that helps goats to stay healthy by preventing the growth of harmful parasites."
+    answer: "Dewormer pellets are medicated feed designed to kill internal parasites like barber pole worm and brown stomach worm. They contain a measured amount of active ingredient mixed into a palatable feed base."
   - question: "How many dewormer pellets should a goat eat per day, week, or month?"
-    answer: "Deworming is an important part of goat care, but it's crucial to know how often to deworm and how many pellets to give."
+    answer: "Dewormer pellets are not a daily supplement. They're a treatment given based on your goat's weight and parasite load, following the label instructions. Most goat owners now deworm only when fecal egg counts show a problem."
   - question: "What are the risks of feeding a goat too many dewormer pellets?"
-    answer: "Worms can pose a serious health hazard to goats, causing malnutrition and weight loss. If left untreated, worms can also lead to death."
+    answer: "Immediate overdose risks include digestive upset and diarrhea. With ivermectin products, neurological symptoms like stumbling and blindness can appear within hours. Long-term overuse also builds drug-resistant parasites on your farm."
 ---
 
 Goats are notorious for getting into things they shouldn't eat, and a bag of dewormer pellets left within reach is a real emergency waiting to happen. Yes, a goat can absolutely eat too many dewormer pellets, and how bad it gets depends on the active ingredient.

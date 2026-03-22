@@ -11,7 +11,7 @@ imageAlt: "Can a Mountain Goat Kill You?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous."
+  text: "Yes, a mountain goat can kill you. In 2010, a mountain goat killed a hiker in Olympic National Park. These wild animals weigh 200-300 pounds and have sharp dagger-like horns that can cause fatal injuries."
 toc:
   - label: "Can a mountain goat kill you?"
     href: "#can-a-mountain-goat-kill-you"
@@ -35,13 +35,13 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can a mountain goat kill you?"
-    answer: "it's possible for a mountain goat to kill you. Because they are wild animals, they can be unpredictable and dangerous. Mountain goats also have sharp horns that they can use to defend themselves and their territory, which can cause serious injuries."
+    answer: "Yes, a mountain goat has killed a hiker (Olympic National Park, 2010). Males weighing 200-300 pounds with sharp dagger-like horns are especially dangerous during the fall rut or when habituated to humans."
   - question: "What are some of the dangers of mountain goats?"
-    answer: "Mountain goats are not actually goats, but a type of antelope. They are native to North America and can be found in the Rocky Mountains, Cascades, and the Sierra Nevada. Mountain goats are well-adapted to life in the mountains."
+    answer: "Mountain goats that are habituated to humans can become aggressive, especially during the fall rut. Males weighing 200-300 pounds have sharp, dagger-like horns capable of causing fatal injuries."
   - question: "How to stay safe around mountain goats?"
-    answer: "Mountain goats are impressive animals. They are sure-footed and agile, able to scale steep cliffs and navigate narrow ledges with ease. But, mountain goats can also be aggressive, especially when they feel threatened."
+    answer: "Keep at least 50 yards of distance, never let them lick your sweat or gear for salt, and if one approaches, back away slowly and try to get uphill. If it won't leave, make yourself big, shout, and throw rocks near it."
   - question: "What are mountain goats and where do they live?"
-    answer: "The mountains of North America are home to a kind of wild goat known as the mountain goat. They can be found at elevations of up to 14,000 feet and are well adapted to surviving in challenging environments."
+    answer: "Despite their name, mountain goats aren't true goats. They belong to the genus Oreamnos and are more closely related to antelopes. They live at elevations between 8,000 and 13,000 feet across the Rockies, Cascades, and Alaska."
 ---
 Yes, a mountain goat can kill you. It's rare, but it has happened, and anyone hiking in mountain goat country needs to take the risk seriously.
 

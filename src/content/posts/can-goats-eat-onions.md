@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Onions?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can theoretically eat onions. In actuality, vital minerals for goats, including vitamin C, vitamin B6, copper, folate, and potassium, can be found in abundance in onions."
+  text: "Onions are not recommended for goats. They contain N-propyl disulfide, which destroys red blood cells and can cause hemolytic anemia with regular or large consumption."
 toc:
   - label: "Can goats eat onions?"
     href: "#can-goats-eat-onions"
@@ -31,7 +31,7 @@ faq:
   - question: "Can goats eat onion skins?"
     answer: "Goats should not eat onion skins. Onion skins contain a substance known as quercetin, which can be toxic to goats. Quercetin is an antioxidant that can help to protect plants from pests and diseases. However, it can also cause gastrointestinal irritation when consumed in large quantities. For this reason, onion skins should be avoided."
   - question: "Can goats eat onion leaves?"
-    answer: "Goats can eat onion leaves. Onion leaves are a good source of fiber and vitamins A and C. They also contain antioxidants that can help protect goats from disease. Even so, onion leaves should be given in moderation, as they can cause digestive problems if eaten in large quantities."
+    answer: "All parts of the onion carry the risk of hemolytic anemia, including the green tops. The damage from N-propyl disulfide is cumulative, so even small amounts over time can cause problems."
   - question: "Can goats eat onion roots?"
     answer: "Goats should not eat onion roots. Onion roots contain a substance known as thiosulfate, which can be toxic to goats. Eating too much onion root can cause red blood cells to break down, leading to anemia. It can also cause difficulty breathing, stomach pain, and vomiting. Onion roots should be avoided, and cooked onions should be given in moderation."
 ---

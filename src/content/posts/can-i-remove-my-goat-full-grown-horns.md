@@ -11,7 +11,7 @@ imageAlt: "Can I Remove My Goat Full Grown Horns?"
 readTime: "8 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can remove your goat's full-grown horns because they are not fully attached to the skull. In fact, they are only attached at the base, which is why they can be removed without harming the goat and without causing any permanent damage."
+  text: "Technically yes, but removing full-grown horns is a major surgery. Goat horns connect directly to the sinus cavities and are fused to the bone, so removal causes heavy bleeding and carries a high risk of infection."
 toc:
   - label: "Can I remove my goat full grown horns?"
     href: "#can-i-remove-my-goat-full-grown-horns"
@@ -29,7 +29,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I remove my goat full grown horns?"
-    answer: "You can remove your goat's full-grown horns because they are not fully attached to the skull. In fact, they are only attached at the base, which is why they can be removed without harming the goat and without causing any permanent damage."
+    answer: "Technically yes, but it's a major surgery that requires a veterinarian and general anesthesia. Goat horns connect to the sinus cavities and are fused to the bone, so removal causes heavy bleeding and significant infection risk. In most cases, it's better to leave them alone."
   - question: "What do goats use their horns for?"
     answer: "When it comes to the use of their horns, goats are a very versatile species. Unlike most other animals with horns, goats make use of their horns for a variety of activities ranging from defense and fighting to foraging and communication."
   - question: "How and when are goat horns removed?"
