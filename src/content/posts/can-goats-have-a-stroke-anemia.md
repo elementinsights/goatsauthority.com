@@ -32,106 +32,38 @@ faq:
     answer: "A stroke is a medical emergency that occurs when the blood supply to the brain is disrupted. This can happen due to a blockage, such as a clot, or a bleed. When the brain doesn't get the oxygen it needs, damage can occur."
 ---
 
-We all know that goats are resilient creatures. But even the heartiest of goats can succumb to health problems from time to time.
-
-One common question that goat owners ask is: can goats have a stroke? And if so, what are the things that you need to look out for?
-
-we will answer all your questions about strokes in goats, including the symptoms to look out for and the best course of treatment.
+True strokes are actually rare in goats. Most of the time, what looks like a stroke is something else entirely, and knowing the difference can save your goat's life.
 
 ## Can goats have a stroke anemia?
 
-In addition to stroke anemia, goats can also suffer from heart attacks, which are when the heart muscle is damaged due to a lack of blood flow.
+While strokes can technically happen in goats, they're uncommon. What most goat owners see and call a "stroke" is usually listeriosis (circling disease) or goat polio (polioencephalomalacia), which is caused by a thiamine deficiency.
 
-If you think that your goat may be suffering from a stroke or a heart attack, it is important to get them to a goat expert as soon as possible.
+Anemia is a separate issue altogether. Severe anemia in goats is most often caused by the barber pole worm (Haemonchus contortus), a blood-sucking stomach parasite that can drain a goat's blood supply fast if left unchecked.
 
 ## What is a stroke in goats and what are the symptoms to look out for?
 
-A stroke is a medical emergency that occurs when the blood supply to the brain is disrupted. This can happen due to a blockage, such as a clot, or a bleed.
+A goat with listeriosis will walk in circles, tilt its head to one side, and often have facial paralysis on one side. Goat polio looks similar but usually comes with stargazing (head thrown back) and blindness.
 
-When the brain doesn't get the oxygen it needs, damage can occur.
-
-Symptoms of a stroke can include weakness, paralysis, seizures, and changes in mental status. If you suspect your goat is having a stroke, you need to seek a veterinarian care immediately.
-
-With prompt treatment, many goats make a full recovery.
-
-Then again, if the brain is without oxygen for too long, permanent damage can occur. If you are raising goats, you need to be aware of the signs of a stroke so that you can get your animal the help it needs as quickly as possible.
+Both conditions come on fast and need immediate treatment. If your goat is stumbling, circling, or down and unable to stand, don't waste time guessing because every hour matters.
 
 ## Causes of strokes in goats
 
-A stroke is a serious medical condition that can have devastating consequences. While strokes are relatively rare in goats, they can occur due to a variety of causes.
+Listeriosis comes from the bacteria Listeria monocytogenes, which often shows up in spoiled silage or moldy hay. Goat polio happens when something disrupts the thiamine production in the rumen, like a sudden feed change or too much grain.
 
-One of the most common causes of strokes in goats is head trauma. If a goat hits its head hard enough, it can damage the blood vessels and cause them to bleed.
-
-This can lead to a build-up of pressure in the brain, which can eventually result in a stroke.
-
-Another common cause of strokes in goats is infection. If a goat is infected with a virus or bacteria, it can damage the blood vessels and lead to a stroke.
-
-Finally, strokes can also be caused by nutritional deficiencies. If a goat doesn't get enough vitamins and minerals, it can lead to problems with blood flow and eventually a stroke.
-
-While strokes are dangerous, they can often be treated if caught early enough. If you think your goat may be having a stroke, it's important to seek veterinarian care immediately.
+Severe anemia from barber pole worm causes its own set of neurological-looking symptoms. A goat that's lost enough blood will be weak, stumbling, and lethargic, which can mimic what a stroke looks like to someone who hasn't seen it before.
 
 ## Treatment for strokes in goats
 
-When a goat has a stroke, you need to seek treatment as quickly as possible. A stroke is a medical emergency and can be fatal if not treated promptly.
+For listeriosis, high doses of penicillin or oxytetracycline given early and aggressively offer the best chance of recovery. Treatment needs to start within the first 24 hours and continue for at least five days.
 
-There are three main types of strokes that can affect goats: cerebral, cerebellar, and brainstem.
-
-Each type of stroke requires different treatment, so you need to receive a diagnosis from a veterinarian as soon as possible. Treatment for a cerebral stroke may include surgery to remove the clot or relieve pressure on the brain.
-
-Treatment for a cerebellar stroke may include physical therapy to help the goat regain coordination and balance.
-
-Treatment for a brainstem stroke may include supporting the goat's respiratory and cardiovascular functions. With prompt treatment, many goats make full recoveries from strokes.
+For goat polio, thiamine (vitamin B1) injections can turn a goat around fast, sometimes within hours. For severe anemia, deworm the goat immediately with an effective product, give an iron supplement and B12, and in critical cases your vet may need to do a blood transfusion.
 
 ## Prevention of strokes in goats
 
-A stroke is a medical emergency that requires immediate goat expert attention. In goats, strokes can be caused by many different factors, including head trauma, diseases of the brain or blood vessels, and toxins.
+Check your goats' inner eyelid color regularly using the FAMACHA scoring system. Bright red or dark pink means healthy blood levels, while pale pink or white tells you the goat is anemic and needs deworming right away.
 
-Early recognition and treatment of strokes are essential to preventing serious health problems or even death.
+Keep hay and silage storage clean and dry to prevent Listeria growth. Make any feed changes gradually over a week or more, and make sure your goats always have access to good quality forage to keep their rumen bacteria balanced.
 
-Some of the most common signs of a stroke in goats include paralysis, weakness, incoordination, and collapse. If you suspect that your goat may be having a stroke, you need to act quickly and seek veterinarian care.
+## Final Thoughts
 
-With prompt treatment, most goats make a full recovery from strokes. Even so, some may experience long-term neurological deficits.
-
-Prevention of strokes in goats is best achieved through early detection and treatment of underlying conditions that can lead to strokes.
-
-For example, if your goat has a disease of the brain or blood vessels, you need to monitor them closely and treat any potential problems promptly.
-
-Head trauma can also be prevented by ensuring that your goat has a safe environment to live in and avoiding situations that could put them at risk for injury.
-
-One more thing: keeping your goat up-to-date on their vaccinations can help to protect them from certain diseases that could lead to strokes.
-
-### When is it time to see a veterinarian?
-
-If you think your goat may be having a stroke, you need to seek goat expert care immediately. A stroke is a medical emergency and can be fatal if not treated promptly.
-
-There are three main types of strokes that can affect goats: cerebral, cerebellar, and brainstem.
-
-Each type of stroke requires different treatment, so you need to receive a diagnosis from a goat expert as soon as possible. Treatment for a cerebral stroke may include surgery to remove the clot or relieve pressure on the brain.
-
-Treatment for a cerebellar stroke may include physical therapy to help the goat regain coordination and balance.
-
-Treatment for a brainstem stroke may include supporting the goat's respiratory and cardiovascular functions. With prompt treatment, many goats make full recoveries from strokes.
-
-Goats are susceptible to many of the same health problems as other livestock animals. However, due to their small size and unique anatomy, there are some conditions that are more common in goats than in other animals.
-
-Pregnancy toxemia, for example, is a condition that can occur in pregnant goats and can be fatal if not treated promptly. Another common problem in goats is parasite infestation, which can cause a variety of health problems if left untreated.
-
-If you have any concerns about your goat's health, it is always best to consult with a goat expert. They will be able to provide you with the most up-to-date information on how to keep your goat healthy and happy.
-
-### Recognizing Anemia in Goats Before It Leads to Bigger Problems
-
-Anemia is one of the underlying conditions that can increase stroke risk in goats. The most reliable way to check for anemia at home is the FAMACHA scoring system, which involves looking at the color of the mucous membranes inside the lower eyelid.
-
-Bright red or pink membranes indicate a healthy goat. Pale pink, light pink, or white membranes suggest varying degrees of anemia that need attention.
-
-Heavy parasite loads, especially from the barber pole worm (Haemonchus contortus), are the most common cause of anemia in goats. Regular fecal egg counts and targeted deworming can keep parasite levels in check and reduce the risk of anemia-related complications.
-
-## 
-
-Goats can have a stroke due to many different factors, including head trauma, diseases of the brain or blood vessels, and toxins. Early recognition and treatment of strokes are essential to preventing serious health problems or even death.
-
-Some of the most common signs of a stroke in goats include paralysis, weakness, incoordination, and collapse. If you suspect that your goat may be having a stroke, you need to act quickly and seek veterinarian care.
-
-With prompt treatment, most goats make a full recovery from strokes. Then again, some may experience long-term neurological deficits.
-
-Prevention of strokes in goats is best achieved through early detection and treatment of underlying conditions that can lead to strokes.
+When a goat goes down with neurological symptoms, don't assume it's a stroke. Check the FAMACHA score, consider listeriosis and goat polio, and get your vet on the phone. Quick action with the right treatment makes all the difference between losing that goat and getting it back on its feet.

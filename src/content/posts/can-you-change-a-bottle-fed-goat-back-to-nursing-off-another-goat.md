@@ -39,104 +39,46 @@ faq:
   - question: "How to prevent risks when changing a bottle fed goat back to nursing?"
     answer: "As a farm kid, I learned early on that goats are creatures of habit. Once they get used to a certain way of doing things, they don't like change."
 ---
-It's common knowledge that baby goats are the cutest, but what you may not know is that it's best for them to nurse off their mothers. If your goat was bottle-fed and you're wondering if they can switch back to nursing or not.
-
-And if so, what are the benefits?
-
-we will answer the question, can you change a bottle-fed goat back to nursing off another goat? We'll also touch on the benefits of doing so.
+It's possible to switch a bottle-fed kid back to nursing off a doe, but I won't sugarcoat it. This is one of the harder things to pull off with goats, and success depends heavily on timing and the willingness of the foster doe.
 
 ## Can you change a bottle fed goat back to nursing off another goat?
 
-Plus, it's great for bonding purposes and helps them socialize with other goats. The process of switching a bottle-fed goat back to nursing is actually quite simple.
+Yes, you can make this switch, but "easily" is not the word I'd use. The two biggest hurdles are getting the doe to accept a kid that isn't hers and getting the bottle kid to figure out a real udder.
 
-Just put them in contact with a nursing goat and they will start to nurse. It's really that easy.
-
-Keep in mind, there are a few things you should keep in mind. Make sure the nursing goat is healthy and free of disease, as you don't want your bottle-fed goat to get sick.
-
-In addition, it's important to monitor the situation closely at first, as bottle-fed goats may not know how to properly nurse and could end up hurting the nursing goat.
-
-Changing a bottle-fed goat back to nursing is a great idea. There are many benefits that come with it, and it's really not that difficult to do.
-
-Just be sure to keep a few things in mind and you'll be fine.
+Your best chance of success is within the first week of the kid's life. After that, both the kid's habits and the doe's maternal instincts become harder to redirect.
 
 ## What are the benefits of changing a bottle fed goat back to nursing off another goat?
 
-There are actually quite a few benefits to changing a bottle-fed goat back to nursing off another goat. For one thing, it's more natural for the goat.
+A kid nursing off a doe gets fresh, warm milk on demand at the right temperature every time. The doe's milk also contains antibodies that help the kid fight off disease, something you can't replicate with milk replacer.
 
-They are designed to nurse, after all. Nursing also helps to build up immunity in the goat and can help them to develop faster and grow stronger.
-
-Also, nursing is a bonding experience for mother and child and can help to reduce stress levels in both.
-
-Finally, it's simply cheaper to allow a goat to nurse than it is to bottle feed them. So, there are plenty of good reasons to make the switch.
+It also saves you a ton of time and money. Bottle feeding every four to six hours is exhausting, and milk replacer adds up fast.
 
 ## Are there any risks associated with changing a bottle fed goat back to nursing off another goat?
 
-If a goat owner decides they want to switch a bottle-fed goat back to nursing, there are a few risks associated with doing so.
+The biggest risk is that the foster doe rejects the kid aggressively. Does recognize their own babies by smell, and some will kick, headbutt, or even injure a strange kid that tries to nurse.
 
-One is the risk of illness, as the bottle-fed goat may not have the same immunity to diseases as a goat that has been nursing.
-
-Another is the risk of rejection, as the bottle-fed goat may be rejected by the goat it is trying to nurse off of.
-
-Finally, there is the risk of injury, as bottle-fed goats often have softer hooves that can be injured by the hard horns of other goats.
-
-However, these risks can be minimized by slowly introducing the bottle-fed goat to another goat, and by closely monitoring the interaction between them. With careful planning and attention, it is possible to successfully change a bottle-fed goat back to nursing without incident.
+Bottle kids also struggle with the switch because a doe's teat feels nothing like a rubber nipple. The kid has to learn a completely different sucking position and technique, which can be frustrating for both the kid and whoever is supervising.
 
 ## How to prevent risks when changing a bottle fed goat back to nursing?
 
-As a farm kid, I learned early on that goats are creatures of habit. Once they get used to a certain way of doing things, they don't like change.
+The classic trick is to rub the doe's own birth fluids or afterbirth on the bottle kid to mask its scent. If the doe just kidded, this works surprisingly well because her maternal hormones are running high.
 
-So, when it comes time to wean a bottle-fed goat, it's important to do it gradually to prevent any risks. The first step is to start mixing the milk replacer with the water in the bottle.
-
-Over the course of a week or so, slowly increase the amount of water until the goat is only getting water from the bottle.
-
-At the same time, start introducing hay and grain into its diet. Once the goat is off the bottle completely, it may be tempted to try and nurse from its dam.
-
-But if she's not producing enough milk, this could cause digestive problems for the goat. To prevent this, put a collar around her neck that the goat can't slip under.
-
-This will discourage it from trying to nurse and help it get used to its new diet. With a little patience and care, you can successfully transition a bottle-fed goat back to nursing without any risks.
+Pen the doe and kid together in a small space where the doe can't easily move away from the kid. Supervise every nursing attempt for the first few days and be ready to step in if the doe gets rough.
 
 ## What are the treatments for a bottle fed goat that is rejected by the nursing goat?
 
-If you have a bottle-fed goat that is rejected by the nursing goat, there are a few things you can try in order to get them to accept the goat.
+If the doe won't accept the kid after several days of trying, you may need to restrain her in a stanchion during nursing sessions. Hold her still and guide the kid to the udder two to three times per day until the doe gives up fighting it.
 
-One thing you can do is to try and feed the goat yourself. This will allow the goat to get used to your scent and hopefully make them more accepting of you.
-
-Another thing you can try is to put a little bit of food on your hand and let the goat smell it and lick it off. This may help the goat to realize that you are not a threat.
-
-If all else fails, you can always consult with a veterinarian or another animal expert for more advice.
+Some does come around within a few days of this routine, while others never accept the foreign kid. If she's still actively trying to hurt the kid after a week, it's safer to go back to the bottle.
 
 ## When is the best time to change a bottle fed goat back to nursing?
 
-The best time to change a bottle-fed goat back to nursing is when the goat is around two months old.
+The first 48 hours of life give you the best odds by far. During this window, both the kid's instincts and the doe's hormones are at their strongest.
 
-This is because they are old enough to start eating solid food, but they are still young enough that they will be able to easily adapt to changes.
+Grafting works best when the foster doe has just lost a kid of her own. Her udder is full, her hormones are primed, and she's looking for something to mother.
 
-This is usually around the time when a goat's dam will start weaning them off of her milk.
+## Final Thoughts
 
-So, if you can time it right, the transition back to nursing should be fairly seamless for the goat. Just be sure to introduce the change gradually and monitor the goat closely to make sure they are adjusting well.
+Switching a bottle kid to a nursing doe is worth trying, but go in with realistic expectations. It works best with freshly kidded does, very young kids, and a lot of patience on your part.
 
-## Are there any alternative methods to changing a bottle fed goat back to nursing?
-
-If you are unable to slowly transition a bottle fed goat back to nursing, there are a few other options you can try.
-
-One is to feed the goat milk replacer from a bucket instead of a bottle. This will allow the goat to drink milk in a more natural way and may make the transition back to nursing easier.
-
-Another option is to feed the goat raw milk from a cow or another animal. This is a more natural way of feeding and may be more appealing to the goat.
-
-Finally, you can always consult with a veterinarian or another animal expert for more advice on alternative methods.
-
-### Getting the Nursing Doe to Accept the Kid
-
-The hardest part of this whole process is often convincing the nursing doe to accept a kid that isn't hers. Does recognize their own kids by smell, so a strange kid trying to nurse will usually get kicked or butted away.
-
-One trick that works well is to rub the nursing doe's own afterbirth or milk on the bottle-fed kid. This masks the kid's scent and fools the doe into thinking the kid is hers.
-
-Another approach is to pen them together in a small space for a few days where the doe can't easily move away. Supervised nursing sessions during this period help the pair bond.
-
-Be patient with this process. Some does accept a new kid within hours, while others take a full week to come around.
-
-## Quick Recap
-
-You can change a bottle fed goat back to nursing by slowly transitioning them off of the bottle and onto solid food.
-
-You can try alternative methods such as feeding from a bucket or raw milk. If you have any questions or concerns, be sure to consult with a veterinarian or another animal expert.
+If it doesn't work out, there's no shame in sticking with the bottle. Plenty of healthy, strong goats were raised on milk replacer.

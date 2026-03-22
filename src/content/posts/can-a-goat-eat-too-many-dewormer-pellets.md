@@ -44,64 +44,52 @@ faq:
     answer: "Worms can pose a serious health hazard to goats, causing malnutrition and weight loss. If left untreated, worms can also lead to death."
 ---
 
-Goats are notorious for getting into things they should not eat, and a bag of dewormer pellets left within reach is a real emergency waiting to happen. Yes, a goat can absolutely eat too many dewormer pellets, and the consequences depend heavily on the active ingredient involved.
+Goats are notorious for getting into things they shouldn't eat, and a bag of dewormer pellets left within reach is a real emergency waiting to happen. Yes, a goat can absolutely eat too many dewormer pellets, and how bad it gets depends on the active ingredient.
 
 ## Can a goat eat too many dewormer pellets?
 
-Overdosing on dewormer pellets is possible and can be dangerous. The severity depends on which product your goat got into. Fenbendazole (SafeGuard) has a wide safety margin and goats can tolerate several times the recommended dose without serious harm.
+Overdosing is possible and can be dangerous. The severity depends entirely on which product your goat got into.
 
-Ivermectin-based products are a different story. An overdose can cause trembling, loss of coordination, depression, drooling, and in severe cases, death. Morantel tartrate overdoses can also cause serious toxicity. If your goat breaks into the feed room and eats a large amount of any dewormer, call your vet immediately.
+Fenbendazole (SafeGuard) has a wide safety margin, and goats can tolerate several times the recommended dose without serious harm. Ivermectin is a different story. An overdose can cause trembling, loss of coordination, depression, and in severe cases, death. If your goat breaks into the feed room and eats a pile of any dewormer, call your vet immediately.
 
 ## What are dewormer pellets and what do they do for goats?
 
-Dewormer pellets are medicated feed designed to kill internal parasites like barber pole worm, brown stomach worm, and other gastrointestinal parasites. The pellets contain a measured amount of the active ingredient mixed into a palatable feed base.
+Dewormer pellets are medicated feed designed to kill internal parasites like barber pole worm and brown stomach worm. The pellets contain a measured amount of active ingredient mixed into a palatable feed base.
 
-They work by either paralyzing the worms so they pass out of the digestive tract or by disrupting the worm's ability to absorb nutrients. Different active ingredients target different types of parasites, which is why knowing what worms your goat is carrying matters.
+They work by either paralyzing the worms so they pass out of the gut or by disrupting the worm's ability to absorb nutrients. Different active ingredients target different parasites, which is why knowing what your goat is carrying matters.
 
 ## How many dewormer pellets should a goat eat per day, week, or month?
 
-Dewormer pellets are not a daily supplement. They are a treatment given on a specific schedule based on your goat's weight and parasite load. Follow the label instructions for dosing, which is typically calculated per pound of body weight.
+Dewormer pellets are not a daily supplement. They're a treatment given based on your goat's weight and parasite load, following the label instructions.
 
-Most goat owners deworm only when fecal egg counts show a problem, not on a set calendar. Routine deworming every few months regardless of need is how parasites develop resistance to dewormers, and resistant parasites are a growing problem in goat herds across the country.
+Most goat owners now deworm only when fecal egg counts show a problem, not on a set calendar. Routine deworming regardless of need is exactly how parasites develop drug resistance, and resistant worms are a growing crisis in goat herds everywhere.
 
 ## What are the risks of feeding a goat too many dewormer pellets?
 
-The immediate risks of overdose include digestive upset, diarrhea, and loss of appetite. With ivermectin-based products, neurological symptoms like stumbling, head pressing, and blindness can appear within hours of a large overdose.
+Immediate overdose risks include digestive upset, diarrhea, and loss of appetite. With ivermectin products, neurological symptoms like stumbling, head pressing, and blindness can show up within hours.
 
-Long-term overuse of dewormers, even at the correct dose, contributes to drug-resistant parasites on your farm. Once resistance develops, that dewormer becomes useless for your entire herd. This is why targeted deworming based on fecal egg counts is so much better than blanket treatment.
+Long-term overuse, even at the correct dose, builds drug-resistant parasites on your farm. Once resistance develops, that dewormer becomes useless for your entire herd.
 
 ## What are the benefits of feeding a goat the right amount of dewormer pellets?
 
-When used correctly, dewormer pellets keep parasite loads in check and help your goats maintain good body condition, healthy appetites, and strong immune function. A goat carrying a heavy worm burden will lose weight, develop anemia, and become vulnerable to secondary infections.
+Used correctly, dewormer pellets keep parasite loads in check so your goats maintain good body condition and strong immune function. A goat carrying a heavy worm burden will lose weight, develop anemia, and become vulnerable to secondary infections.
 
-The FAMACHA scoring system is a great companion tool. By checking the color of your goat's lower eyelid, you can estimate the severity of a barber pole worm infection and only treat the animals that truly need it. This saves money and slows the development of resistant worms.
-
-## What are the other types of dewormers available for goats?
-
-Oral drenches are the most common alternative to pellets. Products like ivermectin, fenbendazole, and albendazole come in liquid form that you dose with a syringe directly into the goat's mouth. Drenches give you more precise dosing control than pellets.
-
-Injectable dewormers are also available, though many goat owners give injectable ivermectin orally because it is absorbed better through the gut. Always check with your vet on the correct route and dose for your specific product.
-
-## Where can you buy dewormer pellets for goats?
-
-Most farm supply stores like Tractor Supply and local feed mills carry dewormer pellets. You can also order them online from livestock supply retailers. Make sure you buy a product specifically labeled for goats or one that your vet has approved for off-label use in goats.
-
-Many common dewormers are labeled for cattle or sheep and used off-label in goats at adjusted doses. Your vet is the best resource for figuring out which product and dose is right for your herd.
+The FAMACHA scoring system pairs well with targeted deworming. Checking the color of your goat's lower eyelid lets you estimate barber pole worm severity and only treat the animals that actually need it.
 
 ## How to store dewormer pellets?
 
-Store dewormer pellets in a sealed container in a cool, dry location that your goats absolutely cannot access. Goats are clever and determined, and an unsecured feed room is an accident waiting to happen.
+Store them in a sealed container in a cool, dry spot your goats absolutely cannot reach. Goats are clever and determined, and an unsecured feed room is an accident waiting to happen.
 
-Check the expiration date before each use. Expired dewormers lose potency, which means they may not kill the parasites effectively and can actually contribute to resistance development.
+Check expiration dates before each use. Expired dewormers lose potency, which means they won't kill parasites effectively and can actually speed up resistance.
 
 ## Are there any alternative methods of deworming goats?
 
-Pasture management is the most effective long-term strategy. Rotating pastures, keeping stocking rates reasonable, and not grazing fields too short all reduce the worm larvae your goats pick up. Multi-species grazing with cattle or horses can also break parasite cycles because most goat parasites cannot survive in other host species.
+Pasture rotation is the best long-term defense. Keeping stocking rates reasonable, not grazing fields too short, and running cattle or horses on the same ground all reduce the worm larvae your goats pick up.
 
-Some goat owners use herbal dewormers or diatomaceous earth, but the evidence for their effectiveness is limited. Fecal egg counts are the only reliable way to know if any deworming method, natural or chemical, is actually working.
+Some owners try herbal dewormers or diatomaceous earth, but the evidence for those is limited. Fecal egg counts are the only reliable way to know if any deworming method is actually working.
 
 ## Final Thoughts
 
-Yes, a goat can eat too many dewormer pellets, and the results can range from mild stomach upset to life-threatening toxicity depending on the product. Keep all dewormers stored securely out of reach, dose according to weight, and call your vet immediately if an accidental overdose happens.
+A goat can eat too many dewormer pellets, and the outcome ranges from mild stomach upset to life-threatening toxicity depending on the product. Keep all dewormers locked away from your herd and call your vet immediately if an accidental overdose happens.
 
-The smartest approach to deworming is targeted treatment based on fecal egg counts and FAMACHA scores. It keeps your goats healthy, saves you money, and protects the effectiveness of the dewormers for years to come.
+The smartest approach is targeted treatment based on fecal egg counts and FAMACHA scores. It keeps your goats healthy, saves money, and protects the effectiveness of your dewormers for years to come.

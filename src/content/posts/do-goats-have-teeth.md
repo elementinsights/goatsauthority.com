@@ -39,76 +39,58 @@ faq:
   - question: "Why are goat's teeth important?"
     answer: "Goats are herbivores, which means that their diet consists entirely of plants. In order to efficiently digest their food, goats need a strong set of teeth."
 ---
-Yes, goats absolutely have teeth. But their dental setup is nothing like what most people expect.
-
-If you have ever looked inside a goat's mouth, you probably noticed something strange right away. There are no upper front teeth. That alone throws a lot of new goat owners for a loop, so let's break down exactly what is going on in there.
+Yes, goats have teeth, but their dental setup is nothing like what most people expect. If you've looked inside a goat's mouth, you probably noticed something strange right away: no upper front teeth.
 
 ## Do goats have teeth?
 
-Goats have 32 teeth as adults. That includes 8 incisors across the bottom front, a hard dental pad on top where you would expect upper front teeth, 12 premolars, and 12 molars.
+Adult goats have 32 teeth total. That includes 8 incisors across the bottom front, a hard dental pad on top where you'd expect upper front teeth, 12 premolars, and 12 molars.
 
-Here is the thing that surprises people most: goats have zero upper incisors and zero canine teeth. Instead of upper front teeth, they have a thick, tough pad of tissue called the dental pad. They press their lower incisors against this pad to rip and tear plants.
+The part that surprises people most is that goats have zero upper incisors and zero canine teeth. Instead of upper front teeth, they have a thick, tough pad of tissue called the dental pad. They press their lower incisors against this pad to rip and tear plants.
 
 ## How many teeth does a newborn goat have?
 
-Baby goats (kids) are born with no visible teeth, but their first deciduous (baby) teeth start popping through within the first week. By about four weeks old, a kid will have all 20 of its baby teeth in place.
+Kids are born with no visible teeth, but their first baby teeth start popping through within the first week. By about four weeks old, a kid has all 20 deciduous teeth in place.
 
-These 20 deciduous teeth include 8 small, sharp incisors on the bottom front and 12 premolars in the back. The baby teeth are noticeably smaller and whiter than the permanent teeth that replace them later.
+Those 20 teeth include 8 small sharp incisors on the bottom front and 12 premolars in the back. Baby teeth are noticeably smaller and whiter than the permanent ones that replace them.
 
 ## What kind of teeth do goats have?
 
-Goats have three types of teeth, and each type serves a specific purpose for their plant-based diet.
+Goats have three types of teeth, each built for their plant-based diet. The 8 incisors on the lower jaw are flat and chisel-shaped for biting off grass and leaves against the dental pad.
 
-**Incisors (8 total):** These are the front teeth on the lower jaw only. They are flat, broad, and slightly chisel-shaped. Goats use them to bite off grass, leaves, and browse by pressing them up against the dental pad on the upper jaw.
-
-**Premolars (12 total):** Located behind the incisors with a gap in between (called the diastema), these sit 3 on each side of both the upper and lower jaws. They help break food down into smaller pieces before it moves further back.
-
-**Molars (12 total):** The large, flat teeth at the very back of the mouth, also 3 on each side of both jaws. These are the grinding teeth that crush fibrous plant material into a consistency the goat can swallow and digest.
+The 12 premolars sit behind a gap called the diastema, 3 on each side of both jaws. They break food into smaller pieces. The 12 molars at the very back are the heavy-duty grinders that crush fibrous plant material into a consistency the rumen can process.
 
 ## Why are goat's teeth important?
 
-A goat with bad teeth is a goat that cannot eat properly. Since goats are ruminants that depend entirely on plant material, their teeth are the first step in the whole digestive process.
+A goat with bad teeth can't eat properly, and that's a fast track to weight loss and declining health. The incisors do the grabbing and tearing work in the pasture, while the premolars and molars grind everything down for the rumen.
 
-The incisors do the grabbing and tearing work out in the pasture. Without functional front teeth, a goat cannot graze effectively and will start dropping weight fast.
-
-The premolars and molars handle the grinding that breaks tough stems and fibrous browse into small enough pieces for the rumen to process. If the back teeth wear unevenly or develop sharp edges, food passes through partially chewed and the goat gets less nutrition from every mouthful.
+If the back teeth wear unevenly or develop sharp edges, food passes through partially chewed. The goat gets less nutrition from every mouthful and starts losing condition.
 
 ## How can teeth affect a goat's life?
 
-Teeth are one of the biggest factors in how long a goat stays productive. A goat that cannot chew properly will lose body condition, produce less milk, and struggle to maintain pregnancy.
+Teeth are one of the biggest factors in how long a goat stays productive. Poor teeth mean less chewing, less nutrition, weight loss, lower milk production, and difficulty maintaining pregnancy.
 
-Older goats with worn or missing teeth often need supplemental feed like soaked hay pellets or chopped forage. If you notice a goat losing weight, dropping partially chewed cuds, or drooling excessively, check the teeth first.
+Older goats with worn or missing teeth often need supplemental feed like soaked hay pellets. If you notice a goat losing weight, dropping cuds, or drooling heavily, check the teeth first.
 
 ## What are the common diseases of goat's teeth?
 
-**Broken teeth** are probably the most common issue, especially in goats that chew on fencing, rocks, or metal feeders. A broken incisor is not usually an emergency, but a broken molar can lead to sharp edges that cut the cheek or tongue.
+Broken teeth happen a lot, especially in goats that chew on fencing or metal feeders. Tooth root abscesses show up as hard lumps along the jawline and usually need veterinary treatment with draining and antibiotics.
 
-**Tooth root abscesses** show up as hard lumps along the jawline. These happen when bacteria get into the root of a tooth through a crack or deep cavity. They often need veterinary treatment including draining and antibiotics.
-
-**Overgrown or uneven teeth** occur when the upper and lower molars do not wear against each other evenly. This creates sharp points or hooks that make chewing painful. A vet can file these down (called "floating") to restore a level grinding surface.
+Overgrown or uneven molars create sharp points that make chewing painful. A vet can file these down, which is called "floating," to restore a level grinding surface.
 
 ## How to prevent common diseases in goat's teeth?
 
-Feed a diet with plenty of long-stem hay and browse. The natural chewing and grinding motion keeps the molars wearing evenly and the incisors at a healthy length.
+Feed plenty of long-stem hay and browse. The natural grinding motion keeps molars wearing evenly and incisors at a healthy length.
 
-Check your goats' teeth at least twice a year, especially on older animals. Look for missing incisors, lumps along the jaw, foul breath, or any signs of difficulty eating. Catching problems early makes treatment a lot simpler.
+Check your goats' teeth at least twice a year, especially on older animals. Look for missing incisors, jaw lumps, bad breath, or signs of difficulty eating.
 
 ### Aging a Goat by Its Teeth
 
-You can estimate a goat's age just by looking at the lower front incisors. Kids start with small, sharp baby teeth that are easy to tell apart from the wider permanent ones.
+You can estimate a goat's age by looking at the lower incisors. The center pair of baby teeth gets replaced by permanent ones around 12 months, the second pair at age 2, the third pair at age 3, and the final outer pair by age 4.
 
-Around 12 months old, the center pair of baby incisors gets replaced by two larger adult teeth. The second pair comes in around age 2, the third pair around age 3, and the final outer pair by age 4. At that point, the goat has a "full mouth" with all 8 permanent incisors.
-
-After age 6 or 7, the teeth start to spread apart, wear down, or fall out. This is called being "broken mouthed." Goats in this condition may need softer feed like soaked pellets to keep their weight up.
-
-### Do Goats Have Upper Front Teeth?
-
-No, and this is the single most common question people ask about goat teeth. Where you would expect upper incisors, goats have a firm, rubbery dental pad instead.
-
-They pinch grass and leaves between the lower incisors and this upper pad, then jerk their head to tear the plant material free. It works surprisingly well for stripping leaves off branches and snapping tough stems.
+After age 6 or 7, teeth start spreading apart, wearing down, or falling out. This is called being "broken mouthed," and these goats may need softer feed to keep their weight up.
 
 ## Final Thoughts
 
-Checking teeth should be part of your routine whenever you buy a new goat or evaluate your herd's health. A goat with a full set of well-aligned teeth will eat better, maintain weight, and stay productive far longer than one with dental problems.
+Checking teeth should be part of your routine whenever you buy a goat or evaluate your herd. A goat with a full set of well-aligned teeth will eat better and stay productive far longer.
 
-If you are buying a goat, always open the mouth and look at the incisors first. It tells you the approximate age and gives you a quick read on overall health. Good teeth mean a good start.
+Always open the mouth and look at the incisors first when buying. It tells you the approximate age and gives a quick read on overall health.

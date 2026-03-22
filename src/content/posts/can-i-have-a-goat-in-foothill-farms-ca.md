@@ -40,108 +40,46 @@ faq:
     answer: "Foothill Farms is home to many different types of goats, each with their own unique traits and characteristics. Some of the most common breeds found in Foothill Farms include Angora goats, dairy goats, and meat goats."
 ---
 
-It is difficult to determine whether or not you can have a goat in Foothill farm CA. And if so, what are the things you need to consider before getting one?
-
-We will address all your questions and provide you with additional information about goats in general.
+Foothill Farms is an unincorporated community in Sacramento County, California. That distinction matters because it means county rules apply here, not city ordinances.
 
 ## Can I have a goat in Foothill Farms CA?
 
-You should still check with your homeowner's association to**see if they have any rules about goats.
+Because Foothill Farms falls under Sacramento County jurisdiction, you need to check the county's zoning code for your specific parcel. Sacramento County allows livestock on parcels zoned for agriculture, but standard residential zones often come with restrictions or outright prohibitions on keeping goats.
 
-Even though there are no specific laws against owning goats, there are some things you need to consider before getting one. For example, goats need a lot of space to roam and graze.
-
-If you live in a small home or apartment, a goat is probably not the right pet for you.
-
-Goats also require special care and attention. They need to be vaccinated and dewormed regularly, and their hooves need to be trimmed every few months.
-
-If you're not up for the challenge of caring for a goat, you might want to reconsider getting one.
-
-So, can you have a goat in Foothill Farms, CA? Yes, but make sure you're prepared to take on the responsibility of caring for one before you make the commitment.
+Your parcel's zoning designation determines what animals you can keep and how many. You can look up your zoning on the Sacramento County Assessor's website or call the Sacramento County Planning and Environmental Review department directly.
 
 ## How much does it cost to have a goat in Foothill Farms?
 
-The cost of having a goat in Foothill Farms depends on a number of different factors. Generally speaking, the initial investment in purchasing and housing your goat will be one of the largest costs.
+Buying a goat runs anywhere from $75 for a pet-quality wether to $500 or more for registered breeding stock. The animal itself is the cheap part compared to fencing, shelter, and ongoing feed costs.
 
-Housing can range from simple outdoor shelters to more elaborate indoor barns, depending on your budget and preferences.
-
-Costs for feed, medical care, and other necessities will also vary depending on things like climate conditions and the size of your herd. For these reasons, it is difficult to give a single estimate for the cost of raising goats in Foothill Farms.
-
-At the same time, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, goats are an excellent choice for anyone looking to build a sustainable agricultural business.
-
-So if you're considering getting into the goat-farming game, just be sure to do your research ahead of time and plan accordingly, with careful planning and management, you too can turn your love for goats into a profitable venture.
+Plan on spending $200 to $400 for basic fencing materials on a small lot. Monthly feed costs typically run $20 to $40 per goat depending on hay prices in the Sacramento Valley, plus annual vet bills for vaccinations and hoof trimming.
 
 ## Who can have a goat in Foothill Farms?
 
-In order to keep a goat in the city of Foothill Farms, you must meet certain criteria. To begin, goats must be kept on a property that is at least 5 acres in size, and this property must also have adequate fencing to contain the animal.
+Anyone whose property meets the Sacramento County zoning requirements for livestock can keep goats. If you live in a neighborhood with a homeowner's association, check those rules too because HOA covenants can restrict livestock even when county zoning allows it.
 
-In addition, goats should ideally be accompanied by a companion animal, such as another goat or sheep.
-
-Finally, anyone looking to own a goat in Foothill Farms must obtain an official permit from the city government. So if you are considering bringing a goat into this thriving urban community, make sure that you meet all of the necessary requirements first.
-
-After all, your goat will depend on you to take care of its needs and ensure its happiness and well-being.
+Contact Sacramento County Animal Care at (916) 368-7387 for specific questions about permits and requirements in your area. They can tell you exactly what applies to your parcel.
 
 ## What kind of goats are allowed in Foothill Farms?
 
-Foothill Farms is home to many different types of goats, each with their own unique traits and characteristics. Some of the most common breeds found in Foothill Farms include Angora goats, dairy goats, and meat goats.
+Sacramento County does not restrict specific goat breeds, but the size of your property limits what makes sense. Nigerian Dwarf and Pygmy goats work well on smaller lots because they stay under 75 pounds and need less space than full-sized breeds.
 
-Each of these breeds is prized for their ability to produce high-quality milk or meat, making them an important part of the farming community here in Foothill Farms.
-
-While all of these goat breeds are allowed on the farms here, some do require special care and attention, such as Angora goats, which need regular grooming and clipping to keep their fine coats healthy and under control.
-
-Regardless of the breed, however, goat farming is a major part of life in this region, and we take great pride in our ability to raise healthy herds that produce high-quality products for both local consumption and export.
-
-So if you're looking for great goat cheese or fresh eggs, be sure to come to visit us here at Foothill Farms. We'd love to show you around our beautiful farms and share our expertise with you.
+Larger breeds like Boer, Nubian, or Alpine goats need more room and more feed. If you have a standard suburban lot, stick with miniature breeds that can handle the Sacramento Valley heat without needing acres of pasture.
 
 ## How to get a permit for a goat in Foothill Farms?
 
-About getting a permit for a goat in Foothill Farms, there are a few key things to keep in mind. First, you will need to complete and submit an application to your local zoning office.
+Start by contacting the Sacramento County Planning and Environmental Review office to confirm whether your parcel's zoning allows livestock. If a conditional use permit or variance is required, they will walk you through the application process.
 
-Along with the application, you will also need to provide proof of current vaccinations for your goat, as well as documentation showing that you have adequate space on your property for your goat to roam freely.
-
-You should also be prepared to submit references from other local residents who support your application and can attest that they have no objections to having a goat in the neighborhood.
-
-Once these steps have been completed, the zoning office will review your application and let you know if it has been approved or denied. If approved, you will receive a permit allowing you to keep your goat on your property within Foothill Farms.
+You should also check with Sacramento County Animal Care about any animal registration or health requirements. Keep your goats current on CDT vaccinations and have a vet relationship established before you bring animals home.
 
 ## What are the benefits of having a goat in Foothill Farms?
 
-There are many benefits to having a goat in Foothill Farms, including increased food production and soil enrichment.
+Goats are excellent brush clearers, which is a real advantage in fire-prone Sacramento County. They will eat poison oak, star thistle, and blackberry brambles that would take you all day to clear by hand.
 
-Due to their naturally curious and affectionate disposition, goats are excellent foragers, and they can be used to clear the land of unwanted vegetation and weeds.
-
-Because goats consume vastly different types of food than humans do, they have the unique ability to transform neglected land into fertile soil that is rich in nutrients.
-
- whether you are a farmer looking for a more sustainable way of maintaining your property or simply a hobbyist who enjoys the company of these adorable animals, having a goat in Foothill Farms can be highly beneficial for anyone seeking to improve their quality of life.
-
-## What are the drawbacks of having a goat in Foothill Farms?
-
-While there are many benefits to having a goat in Foothill Farms, there are also certain drawbacks that must be considered. For one thing, goats can be quite destructive, especially when they are allowed to roam freely in an urban or suburban setting.
-
-During their daily foraging activities, goats may knock down fences or chew through garden plants. Additionally, goats can carry various diseases and parasites, which means that close contact with humans should be avoided.
-
-And, goats require specialized care and feeding, which can be difficult for someone without prior experience or knowledge of animal husbandry.
-
-While a goat can certainly be a valuable addition to any community, prospective owners must understand the challenges and responsibilities that go along with keeping such an animal.
-
-### Keeping Goats Cool in Sacramento Valley Heat
-
-Foothill Farms sits in the Sacramento Valley, and summers here get brutal. Temperatures regularly hit 100 degrees or higher from June through September.
-
-Your goats need shade all day long during the hot months. A simple shade structure made from a tarp stretched over posts works fine, but make sure it is tall enough for air to circulate underneath. Stagnant air under a low tarp actually makes things worse.
-
-Fill water troughs twice a day in the summer. Goats drink significantly more water when temperatures climb, and warm water sitting in a black trough can get hot enough to discourage drinking. Adding a frozen water bottle to the trough helps keep the temperature down.
-
-Watch for signs of heat stress: rapid breathing, drooling, and lethargy. If you spot these symptoms, move the goat to shade immediately and offer cool water. A spray bottle misting their legs and belly can help bring their body temperature down quickly.
-
-### Choosing the Right Breed for a Small California Lot
-
-If you are working with a standard suburban lot in Foothill Farms, stick with miniature breeds. Nigerian Dwarf goats are the best choice for small properties because they produce a surprising amount of milk relative to their size.
-
-Pygmy goats are another solid option. They are compact, friendly, and do well in warm climates. Their smaller body mass means they handle the heat better than full-sized breeds like Nubians or Alpines.
-
-Avoid Boer goats unless you have a large property. They are big animals bred for meat production, and they need more space and more feed than what a typical suburban lot can provide.
+Fresh goat milk is another draw for many Foothill Farms residents. A single Nigerian Dwarf doe can produce a quart or more of rich milk per day, which is plenty for a family that wants fresh dairy without a full-sized cow.
 
 ## Final Thoughts
 
-There are many things to consider before getting a goat in Foothill Farms. However, if you are prepared to take on the challenges and responsibilities that come with owning a goat, then this can be a highly rewarding experience.
+Keeping goats in Foothill Farms comes down to your parcel's zoning under Sacramento County regulations. Call Sacramento County Animal Care or the Planning and Environmental Review office before you buy any animals.
 
-Just be sure to do your research beforehand and consult with experts if you have any questions or concerns.
+If your property qualifies, goats can be a rewarding addition to your homestead. Just make sure you have proper fencing, shade for those brutal valley summers, and a plan for regular veterinary care.

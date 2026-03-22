@@ -40,92 +40,48 @@ faq:
     answer: "There is no one right way to use vaseline during goat births. Some people recommend applying a thin layer to the birthing canal, while others prefer to use a thicker coat of vaseline, especially if their does are known for having difficult or long births."
 ---
 
-If you're interested in owning goats, one of the first questions that might come to mind is if you can use Vaseline during goat births. And if so, what are the things you need to consider?
+Yes, you can use Vaseline as a lubricant during an assisted goat birth. It works in a pinch when you need to help reposition a kid in the birth canal.
 
-we will answer those questions for you and provide you with additional information on goat births.
+That said, there are better options if you have time to prepare ahead of kidding season.
 
 ## Can I use vaseline on goat birth?
 
-In addition to using Vaseline, you will need to have a bucket of warm water and soap nearby. After each goat is born, wash your hands and arms thoroughly with soap and water.
+Vaseline (petroleum jelly) is a common lubricant that many goat owners keep in their kidding kit. When a doe is having trouble delivering and you need to go in to help, a generous coat of Vaseline on your gloved hand reduces friction and makes it easier to work inside the birth canal.
 
-This will help to prevent the spread of infection.
-
-There are other lubricants that are safe to use on goats, such as K-Y Jelly. If you're unsure about what to use, ask a goat expert for recommendations.
+KY Jelly and sterile OB lube are better choices if you have them available. OB lube is specifically designed for livestock births, washes off easier, and is water-soluble, which makes cleanup simpler for both you and the doe.
 
 ## What is vaseline and what are its uses for pregnant goats?
 
-Vaseline, or petroleum jelly, is a thick, waxy substance made from refined crude oil. It is typically used for moisturizing skin and protecting it from dryness and irritation.
+Vaseline is a thick, petroleum-based jelly that creates a slippery barrier on skin. For goat births, its main purpose is lubrication when you need to assist with a difficult delivery.
 
-While most people associate vaseline with cosmetic applications like lip balm or skin lotion, this versatile substance can also be utilized in other ways.
-
-For pregnant goats, for example, vaseline can play an important role in ensuring that the babies are delivered safely and without complications.
-
-One way in which vaseline helps during pregnancy is by lubricating the birth canal of the pregnant goat. This prevents tearing or excessive abrasions along this sensitive area of the body.
-
-Vaseline can also be used to coat the ears of newborn kids, helping to prevent frostbite during cold weather and keeping them warm and protected in their early weeks of life.
-
-Also, some farmers use vaseline to make an ointment or salve that can be applied directly to a birthing breach or malpositioned baby to help get it back on track.
-
-Then, while most people associate vaseline with cosmetics or skincare products, its uses go far beyond these traditional applications in the world of animal husbandry as well.
+Some farmers also use a thin coat of Vaseline on newborn kids' ears during freezing weather to help prevent frostbite. It creates a moisture barrier that offers a bit of protection against extreme cold in those critical first hours after birth.
 
 ## What are the things you need to consider when using vaseline during goat births?
 
-There are several factors to consider when using vaseline during goat births. First and foremost, it is important to choose a high-quality product that is safe for both animals and humans.
+Always wear long OB gloves when assisting a birth. Apply the Vaseline generously to the outside of the glove before reaching into the birth canal, because going in dry can tear delicate tissue and cause infection.
 
-You will also need to carefully monitor the number of applications that you use and make sure that you apply the vaseline in a way that avoids contact with the eyes and mouth of the animal.
-
-Similarly, it is important to be aware of any potential side effects or complications associated with utilizing this method, as well as any how-to considerations such as how much vaseline to use and where on the birth canal you should apply it.
-
-When done correctly, using vaseline during goat births can help ensure optimal health for both the mother and her offspring. However, careful planning and attention to detail are essential in order to achieve success with this approach.
+Keep the Vaseline away from the kid's nose and mouth during delivery. A newborn kid needs to take its first breath immediately after being born, and any substance blocking the airways can cause serious problems.
 
 ## How to use vaseline during goat births?
 
-There is no one right way to use vaseline during goat births. Some people recommend applying a thin layer to the birthing canal, while others prefer to use a thicker coat of vaseline, especially if their does are known for having difficult or long births.
+When you need to assist, put on a shoulder-length OB glove and coat it heavily with Vaseline from fingertips to elbow. Go in slowly and carefully, feeling for the kid's position. You're looking for two front hooves and a nose in normal presentation.
 
-Another popular technique is to mix the vaseline with powdered lubricant, which can help to reduce friction and increase slipperiness in the birthing canal.
-
-How you choose to use vaseline during goat births will depend heavily on your individual preferences, as well as the needs and circumstances of each specific birth.
-
-Whether you want to experiment and try out different methods or stick to tried-and-true techniques, staying informed about what works best for you and your goats will always be key making it easier for the baby to pass through and helping to minimize any potential damage or discomfort for both mom and a baby goat.
-
-Vaseline can provide some relief from discomfort during birth by soothing sore muscles and helping to ease contractions.
-
-Using vaseline during goat births is a smart choice for anyone looking to provide optimal care for their herd.
+If the kid is malpresented, the lubrication lets you gently push the kid back and reposition it without causing unnecessary trauma to the doe. Apply more Vaseline as needed if you lose lubrication during the process. Work slowly and let the doe rest between contractions.
 
 ## What are the risks of using vaseline during goat births?
 
-There are a number of risks associated with using vaseline when delivering baby goats. For one thing, vaseline is not designed specifically for use on animals, so there is no guarantee that it will be safe or effective when applied to the delicate skin of a newborn goat.
+Vaseline is petroleum-based, so it doesn't break down or absorb like water-based lubricants. This means it can trap bacteria against tissue and potentially increase the risk of infection if the birth canal sustains any tears.
 
-Vaseline can cause skin irritation and reduces the goat's ability to regulate its body temperature. Beyond that, the presence of vaseline may lead to complications during delivery, potentially endangering both the mother and her offspring.
-
-Given these potential risks, most goat owners recommend that farmers avoid using vaseline during goat births whenever possible.
-
-Keep in mind, in some cases where vaginal issues are present in the mother or if labor is particularly difficult or slow-moving, it can still be beneficial to consult with a goat expert about whether a small amount of vaseline may be appropriate under certain circumstances.
-
-When all is said and done, whether to use vaseline during birth will depend on factors such as the health of both mother and baby, as well as individual preferences and circumstances.
+If you use Vaseline, keep everything else as clean as possible. Wash the doe's backside before you go in, use clean gloves, and monitor her closely for signs of infection in the days following delivery. A foul-smelling discharge, fever, or loss of appetite after kidding are red flags that need vet attention.
 
 ## Additional information on goat births
 
-With goat births, there are a few key things that every farmer needs to know. First and foremost, it's important to understand the basic stages of labor and delivery, which typically begins with a gestation period of about 145 days.
+Most goats kid without any help at all. The average gestation is about 150 days, and a normal delivery takes 30 minutes to an hour once active labor starts.
 
-During this time, the mother will gradually enter into the process of delivering her young and preparing for the struggles and joys that are yet to come.
-
-Once the actual birthing process begins, many different phases may occur before the final delivery is complete. These can include Braxton hicks contractions and early birth ejection reflexes, which indicate that things may be getting started.
-
-Eventually, however, these cycles will give way to more powerful contractions as the mother pushes her baby into the world.
-
-Farmers should always be prepared to render assistance if needed. This includes having the right tools within arm's reach, like clean towels or rags as well as gloves and other protective gear if you intend on helping with the delivery in any capacity.
-
-In addition, stock a foaling kit with iodine or antiseptic solution, medical syringes or large bore needles in case supplements need to be administered quickly during or after birth, and extra care items like clippers for when umbilical cord clipping needs to be carried out immediately.
-
-And above all else, it's important to have a calm presence throughout this whole process so as not to stress out either yourself or the mother goat unnecessarily.
-
-With careful preparation and attention paid to every step along the way, you should be able to give your baby goats a safe and happy start in their new life on your farm.
+Have your kidding kit packed and ready at least two weeks before the due date. It should include OB gloves, lubricant (Vaseline or OB lube), clean towels, iodine for dipping the umbilical cord, a bulb syringe for clearing airways, and your vet's phone number. Being prepared makes all the difference when things don't go according to plan.
 
 ## Final Thoughts
 
-Vaseline can be a helpful tool during goat births, but it's important to weigh the risks and benefits before using it. In most cases, it's best to avoid using vaseline unless specifically recommended by a goat expert.
+Vaseline works fine as a lubricant during assisted goat births, but sterile OB lube is the better option if you can get it ahead of time. Most farm supply stores carry it, and it's worth having on hand before kidding season starts.
 
-However, if you do choose to use vaseline, make sure that you are familiar with the potential risks and take care to minimize them as much as possible.
-
-With careful planning and attention to detail, you can make sure that your baby goats have a safe and happy start to their lives on your farm.
+The most important thing during any assisted delivery is to stay calm, work slowly, and keep everything as clean as possible. If you're ever in over your head, call your vet instead of forcing it.

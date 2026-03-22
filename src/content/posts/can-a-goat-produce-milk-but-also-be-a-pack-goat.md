@@ -38,90 +38,46 @@ faq:
     answer: "There are many breeds of goats that make good pack leaders. Some of the most popular breeds include the Alpine, the Nubian, and the LaMancha."
 ---
 
-Many people are wondering if they can get milk from a goat and also use the goat as a pack animal. And if so, what is the thing you need to look for when choosing a goat?
-
-We will answer all of your questions and provide some tips on how to get started in this article.
+Can you get milk from a goat and also use it to carry gear on the trail? The short answer is yes, but there are some real-world trade-offs you need to understand first.
 
 ## Can a goat produce milk but also be a pack goat?
 
-Even so, it's important to remember that not all goats are created equal. Some goats may be better at producing milk while others may be better at being pack goats.
+A goat can do both jobs, but probably not at the same time. A doe in heavy lactation with a full udder is going to be uncomfortable under a pack saddle, and she won't perform well on the trail.
 
-It really depends on the individual goat and its abilities.
+The best approach is to use your dairy does for packing during their dry period, when they aren't producing milk. Some owners milk in the morning and do short pack trips during the day, but that only works for light loads and easy terrain.
 
 ## What is a pack goat and what are its uses?
 
-A pack goat is a domesticated goat that is used to carry supplies and equipment for humans, often in mountainous or remote terrain. Originally from Europe, the animals were brought to North America by early settlers and explorers.
+A pack goat carries supplies and gear for hikers, hunters, and backcountry campers. They can handle 20-25% of their body weight over rough mountain trails that would give a horse trouble.
 
-Pack goats are relatively easy to train and are known for their sure-footedness and ability to navigate difficult terrain. They can also be used for dairy production, wool production, and as companion animals.
-
-While pack goats are not as strong as pack animals such as horses or donkeys, they have several advantages. Goats are more agile than larger animals and can more easily negotiate narrow paths and steep slopes.
-
-They are also less afraid of heights and less likely to spook at unusual noises or movements. In addition, goats are able to eat a wide variety of plants, which helps them thrive in areas where other grazing animals would starve.
-
-For these reasons, pack goats have become an increasingly popular choice for backcountry enthusiasts looking for a reliable and versatile pack animal.
+Goats are more sure-footed than horses or mules on narrow ledges and steep switchbacks. They also browse on whatever vegetation is available along the trail, so you don't have to pack feed for them on most trips.
 
 ## What to look for when choosing a pack goat?
 
-Regarding choosing a pack goat, there are a few things you'll want to keep in mind.
+Wethers make the best dedicated pack goats, hands down. They're bigger and stronger than does, they have no udder to worry about, and they don't go through hormonal cycles that affect their temperament on the trail.
 
-First, think about the size of the goat you'll need. If you're planning on using your goat for carrying heavy loads, then you'll want to choose a larger breed.
-
-However, if you're only planning on using your goat for light packing, then a smaller breed will suffice.
-
-Next, consider the coat of the goat. If you live in a climate that gets very hot, then you'll want to choose a goat with a short coat that won't overheat.
-
-Alternatively, if you live in a cooler climate, then a goat with a long coat will be better suited to your needs.
-
-Finally, think about the temperament of the goat. You'll want to choose a goat that is even-tempered and easy to handle, as this will make your life much easier when it comes time to pack up and hit the trail.
-
-With these considerations in mind, you'll be sure to find the perfect pack goat for your next adventure.
+If you want a dual-purpose animal, pick a large-framed dairy breed and plan your packing around her dry season. Look for a calm temperament, strong legs, and a goat that bonds well with people.
 
 ## What breed of goat makes a good pack leader?
 
-There are many breeds of goats that make good pack leaders. Some of the most popular breeds include the Alpine, the Nubian, and the LaMancha.
+Alpine and LaMancha crosses are popular choices for packing because of their size and steady dispositions. A large wether from one of these breeds can weigh 200 pounds and carry 50 pounds of gear without breaking a sweat.
 
-These breeds are all known for their strong personalities and their ability to take charge when necessary. When choosing a pack leader, it's important to consider the size of the herd and the types of goats that will be in it.
-
-For example, a large herd of dairy goats will require a different type of leader than a small herd of meat goats. The pack leader should also be well-trained and able to handle diverse situations.
-
-A good pack leader is decisive, calm, and capable of making quick decisions when necessary. In the end, the breed of goat that makes the best pack leader is one that is willing and able to take on the responsibility.
+For dual-purpose milk and pack use, Saanens and Alpines work well. They produce good milk volume and have the frame to carry a reasonable load during the off-season.
 
 ## How to train your goat to be a pack animal?
 
-Goats are intelligent animals and can be trained to do various tricks and tasks. One of the most useful things you can train your goat to do is to be a pack animal.
+Start by bottle-raising your pack goat from birth so it bonds to you instead of the herd. A goat that sees you as its herd leader will follow you anywhere on the trail without a lead.
 
-Pack goats are often used for backpacking and hiking trips, as they can carry a significant amount of weight without tiring. Training a goat to be a pack animal takes time and patience, but with a little bit of effort, you can turn your goat into an indispensable trail companion.
-
-The first step in training a goat to be a pack animal is to get them accustomed to wearing a pack. You can start by putting a lightweight pack on their back and letting them wear it around the house or yard.
-
-As they get more comfortable with the pack, you can gradually increase the weight until they are carrying the full amount you plan on using for hikes. It's important to make sure that the pack is fitted properly and does not rub or chafe their skin.
-
-Once your goat is comfortable wearing a pack, you can begin taking them on short hikes around your neighborhood or local trails.
-
-Start with shorter distances and gradually increase the length of your hikes as they get more accustomed to walking with a pack. When hiking, it's important to keep them on a leash so they do not wander off the trail.
-
-When taking breaks, allow them to graze on any available foliage so they can rest and refuel while still keeping moving.
-
-With time and patience, you can train your goat to be an excellent pack animal. They will become an essential part of your hiking gear and will provide you with hours of enjoyment on the trail.
+Begin with an empty pack saddle around 6 months of age and gradually add weight over the next year. By the time the goat is two years old, it should be conditioned enough to carry a full load on day hikes.
 
 ## Tips for using your pack goat successfully
 
-One of the best ways to enjoy the great outdoors is by using a pack goat. These versatile animals can be used for carrying gear on camping and hiking trips, as well as for packing out game meat during hunting season.
+Balance the load evenly on both sides of the pack saddle. An uneven load will shift on steep terrain and can cause saddle sores or throw the goat off balance.
 
-If you're thinking of using a pack goat, there are a few things you need to keep in mind in order to have a successful experience.
+If you're using a dairy doe for packing, manage her udder size through selective breeding. Does with smaller, tight udders are far more comfortable under a saddle than does with pendulous udders that swing and chafe.
 
-First and foremost, you need to make sure that your pack goat is properly trained and comfortable with being around people and other animals.
+## Final Thoughts
 
-It's also important to choose a route that is appropriate for your goat's abilities. Steep terrain and thick brush can be challenging for even the most experienced pack goat, so it's best to stick to relatively flat trails.
+Dual-purpose goats are possible but take planning. Wethers are your best bet for serious packing, while dairy does can fill in during the dry season for lighter trips.
 
-Finally, be sure to pack your gear in such a way that it doesn't put too much strain on your goat. An overloaded or poorly balanced pack can cause your goat to become fatigued or even injured.
-
-With these tips in mind, you're sure to have a safe and enjoyable trip with your pack goat by your side.
-
-## Summary
-
-A pack goat can be a valuable asset on any camping or hiking trip. These versatile animals are capable of carrying a significant amount of weight, making them perfect for carrying gear and supplies.
-
-If you're planning on using a pack of goats, you need to choose the right animal and to train them properly. With a little bit of time and effort, you can turn your goat into an indispensable trail companion.
-
-The final step in creating a great pack goat is to raise it with love and care. If you provide your goat with a good home and plenty of attention, you'll have a loyal friend for life.
+Pick the right breed, start training early, and fit the saddle properly. A well-conditioned pack goat is one of the most useful animals you can own on a small farm.

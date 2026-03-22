@@ -38,102 +38,44 @@ faq:
     answer: "There are a number of different treatments for pink eye, or conjunctivitis, in both goats and cattle. For mild cases, the simplest solution is to clean and soothe the affected area using a cool compress or eye wash."
 ---
 
-It is difficult to determine whether or not pink eye can be transmitted from goats to cattle. And if so, what are the things you need to consider before taking any action?
-
-we will answer those questions about the pink eye in goats and how it can affect cattle. We will also provide some tips on how to prevent the spread of this disease.
+Yes, pinkeye can spread between goats and cattle. If you run both species on the same property, this is something you need to take seriously.
 
 ## Can pink eye in goats be transmitted to cattle?
 
-It is difficult to say how often this happens. The transmission of pink eye from goats to cattle may depend on the strain of bacteria or virus that causes the pink eye, as well as the age and health of the animals.
+Pinkeye, also called infectious keratoconjunctivitis, can absolutely jump between goats and cattle. The organisms that cause it, mainly Mycoplasma and Chlamydia species, don't care which ruminant they infect.
 
-So, it is safe to say that there is a risk of transmission, but it is difficult to determine how great that risk is.
+The biggest carrier is face flies. These pests feed on the moisture around an animal's eyes and carry bacteria from one animal to the next as they move through your herd.
 
 ## What is pink eye and what are the symptoms of this disease in goats and cattle?
 
-Pink eye, also known as conjunctivitis, is a bacterial infection that affects both goats and cattle.
+Pinkeye starts with watery, weepy eyes that most folks notice right away. Within a day or two, you'll see swollen eyelids and the animal squinting or holding the affected eye shut.
 
-This condition can be caused by either viruses or bacteria, and it typically manifests in two main symptoms: significant redness and swelling of the eyes, along with discharge from the eyes that is usually milky or yellowish in color.
-
-In most cases, pink eye can be treated fairly easily with the use of antibiotics. With that in mind, if left untreated, the infection can become much more serious and even lead to blindness in some cases.
-
-For this reason, it is important to seek medical attention for any animal suspected of having pink eye as soon as possible.
-
-Fortunately, this disease is not typically contagious between different species of animals. So if you have one goat or cow with pink eye, your other livestock is unlikely to be at risk.
-
-But regardless of whether your herd has been exposed to pink eye before or not, it is important to take precautions to minimize their risk of contracting the disease.
-
-To prevent the spread of pink eye, you should use hygienic practices such as disinfecting all equipment after each use and completely isolating any infected animals. Also, checking for symptoms regularly will ensure immediate treatment if necessary.
-
-With proper care and precautions, but, most animals afflicted with pink eye will make a full recovery and regain their health quickly.
+As it progresses, the cornea turns cloudy or bluish-white. In severe cases, an ulcer can form on the eye surface, and if left untreated, the animal can lose vision in that eye permanently.
 
 ## How can you prevent the spread of pink eye between these animals?
 
-There are a number of different ways to prevent the spread of pink eye between animals. The first strategy is to keep the animals in separate areas when possible.
+Fly control is your first line of defense. Use fly tags, pour-on treatments, or fly traps around your barn and pasture, especially from late spring through early fall when fly pressure peaks.
 
-This can be done by physically separating them or by using barriers that prevent contact between infected and healthy individuals.
-
-Another option is to frequently disinfect items that are shared, such as food bowls or bedding. It is important to take sanitary precautions when handling or cleaning up affected animals.
-
-For example, wearing gloves when dumping out litter boxes or washing your hands thoroughly after bathing an animal with the pink eye can help reduce the risk of transmission.
-
-These strategies can go a long way toward preventing the spread of this highly contagious condition.
+Isolate any animal showing symptoms immediately. Shared water troughs, feed bunks, and even your own hands can transfer the bacteria between animals, so disinfect equipment and wash up after handling a sick animal.
 
 ## What are the possible treatments for pink eye in both goats and cattle?
 
-There are a number of different treatments for pink eye, or conjunctivitis, in both goats and cattle. For mild cases, the simplest solution is to clean and soothe the affected area using a cool compress or eye wash.
+For mild cases, terramycin eye ointment applied directly to the eye twice a day usually does the job. Squeeze a strip across the eyeball and under the lower lid, and keep at it for five to seven days even if the eye looks better.
 
-This will help to remove any debris and irritants from the eye, reducing inflammation and discomfort. For more serious cases, antibiotics may be needed to eliminate the infection.
-
-Anti-inflammatory drugs may also be prescribed in order to relieve inflammation of the mucous membrane surrounding the eye.
-
-Other potential treatments include steroid injections directly into the eye, surgical removal of the eyelid when it is completely infected or wrapped around an eyeball, and even diet changes to boost immune function.
-
-So, however, the best treatment will depend on the specific condition of your animals and their level of response to different types of medication.
+For more severe infections with corneal ulcers, an injection of LA-200 (oxytetracycline) can help fight the infection systemically. Your vet may also recommend a patch over the eye to protect it from sunlight and flies while it heals.
 
 ## When should you seek veterinary help for this condition?
 
-If you believe that your animal may have pink eye, it is important to seek veterinary help as soon as possible.
+Call your vet if the eye isn't improving after three days of treatment, or if you see a deep ulcer forming on the cornea. A ruptured eye is a real possibility with advanced pinkeye, and that's not something you want to deal with on your own.
 
-This is especially true if the animal is showing signs of severe discomfort or if there is any discharge from the eye that is not clear in color.
-
-Early diagnosis and treatment are important in order to prevent the condition from becoming more serious and potentially causing permanent damage to the eye.
-
-Waiting too long to seek help can also increase the risk of the infection spreading to other animals in your herd.
-
-Therefore, if you have any concerns that your animal may be suffering from pink eye, it is always best to err on the side of caution and contact your veterinarian right away.
-
-Similarly, your veterinarian can also give you specific instructions on how to care for your animal at home and what precautions you should take to prevent the spread of the disease.
+Also get professional help if multiple animals go down with it at once. A full herd outbreak needs aggressive treatment and possibly prescription medications beyond what you can get at the feed store.
 
 ## Are there any other diseases that can cause similar symptoms?
 
-There are a number of other diseases that can cause symptoms similar to those of pink eye. These include bacterial infections, viral infections, allergies, and chemical burns.
+Dust, tall grass, and seed heads can scratch the cornea and mimic early pinkeye symptoms. Foreign bodies in the eye, like hay chaff or foxtails, cause similar tearing and squinting.
 
-Therefore, it is important to consult with your veterinarian if you notice any changes in your animal's eye health so that an accurate diagnosis can be made and appropriate treatment can be administered.
+Listeriosis can sometimes cause facial drooping that looks like an eye problem at first glance. If you're not sure what you're dealing with, get your vet involved so you treat the right thing from the start.
 
-Left untreated, pink eye can lead to serious complications, such as corneal ulcers, scarring, and even blindness.
+## Final Thoughts
 
-It is therefore important to be aware of the symptoms of the condition and to seek veterinary help as soon as possible if you suspect that your animal may be affected.
-
-With proper care, however, most animals with the pink eye can make a full recovery and go on to live healthy lives.
-
-In addition to the physical symptoms, pink eye can also cause a great deal of discomfort for your animal. If you notice that your animal is rubbing or scratching its eye excessively, this may be a sign that the condition is causing irritation and pain.
-
-Animals with pink eye may avoid eating or drinking, as the condition can make swallowing difficult and painful.
-
-If you notice any of these signs, it is important to seek veterinary care right away in order to provide relief for your animal and prevent the condition from worsening.
-
-### Fly Control Reduces Pink Eye Spread
-
-Face flies are one of the biggest carriers of pink eye bacteria between animals. These flies feed on the moisture around an animal's eyes and transfer bacteria from one animal to the next as they move through the herd.
-
-Using fly tags, pour-on treatments, or fly traps around your barn and pasture can significantly cut down on transmission. Some farmers also use fly masks on their cattle during peak fly season, which runs from late spring through early fall.
-
-Keeping the area around water troughs and feeders clean also helps reduce fly breeding grounds. Standing water and manure piles are fly magnets, so removing them from high-traffic areas makes a real difference.
-
-## Quick Recap
-
-Pink eye is a highly contagious condition that can affect both goats and cattle. Early diagnosis and treatment are important in order to prevent the condition from becoming more serious and potentially causing permanent damage to the eye.
-
-If you suspect that your animal may be suffering from pink eye, it is always best to contact your veterinarian right away.
-
-With proper care, most animals with pink eye can make a full recovery and go on to live healthy lives.
+Most pinkeye cases clear up within two to three weeks with proper treatment. The key is catching it early, isolating affected animals, and staying on top of fly control to prevent it from spreading through your whole herd.

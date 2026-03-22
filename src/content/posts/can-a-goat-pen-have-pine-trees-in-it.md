@@ -39,106 +39,40 @@ faq:
   - question: "What kind of pine trees are best for a goat pen?"
     answer: "There are many different types of pine trees, and each has its own set of characteristics. Some pine trees are better suited for a goat pen than others."
 ---
-
-it's difficult to determine whether you can have pine trees in a goat pen or not. And if so, how many?
-
-We will answer all of these questions for you so that you can be sure whether or not having pine trees in a goat pen is the right decision for your farm.
+Yes, most pine trees are perfectly fine in a goat pen. Your goats will eat the needles, strip the bark, and use the tree as a scratching post, but the tree itself won't hurt them.
 
 ## Can a goat pen have pine trees in it?
 
-However, it's important to make sure that the pine trees are not poisonous to goats. Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
+Pine trees and goats get along just fine for the most part. Most common pine species like eastern white pine, Scotch pine, and loblolly pine are safe for goats to browse on.
 
-it's also important to make sure that the pine trees are not too close together. If they are, the goats may not be able to move around freely and could get stuck between the trees.
-
-Finally, you will need to prune the pine trees regularly to keep them from getting too big and blocking out the sunlight.
-
-## How many pine trees should be in a goat pen?
-
-Depending on the size of your goat pen, you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
-
-Still, if you have a larger pen, then you will need to plant more trees. The number of pine trees that you will need to plant will also depend on the climate.
-
-If you live in an area with a lot of snow, then you will need to plant more trees. Pine trees are an important part of a goat's diet, and they provide the goats with shelter from the elements.
-
-Planting the right number of pine trees in your goat pen is essential for the health and well-being of your goats.
+The one exception you need to know about is ponderosa pine. Ponderosa pine needles contain isocupressic acid, which can cause abortion in pregnant does, so keep breeding stock away from ponderosa pines.
 
 ## What are some benefits of having pine trees in a goat pen?
 
-Goats are browsers and enjoy eating the needles of pine trees. Goats will also rub on the pine trees to scratch their backs.
+Pine trees provide shade in the summer and a windbreak in the winter. Goats love having something tall to stand under, and a mature pine does that job well.
 
-Pine trees provide goats with a source of entertainment and enrichment, which can help to keep them healthy and happy.
-
-Another thing to note is the needles of pine trees can help to prevent parasitic infections in goats. The needles contain a natural compound that repels parasites, and they can also help to improve the overall health of the goat's gastrointestinal tract.
-
-This means pine trees can be an important part of maintaining a healthy goat herd.
+The needles themselves contain some vitamin C and have mild natural deworming properties. Your goats will browse on the lower branches whenever they feel like it, and the trees give them something to rub against when they're itchy.
 
 ## What kind of pine trees are best for a goat pen?
 
-There are many different types of pine trees, and each has its own set of characteristics. Some pine trees are better suited for a goat pen than others.
+Eastern white pine is probably the best all-around choice if you're planting new trees. It grows fast, has soft needles goats enjoy eating, and handles browsing pressure better than most species.
 
-For example, the eastern white pine is a popular choice for goat pens because it's strong and durable. Eastern white pines also have thick bark that can help protect goats from predators.
-
-These trees are known for their ability to withstand heavy browsing from goats. Other good choices for goat pens include the Scotch pine and the Austrian black pine.
-
-Both of these species are known for their strength and stability.
-
-They are both relatively resistant to browsing by goats. When choosing a type of pine tree for a goat pen, it's important to consider the specific needs of the goats.
-
-Some pine trees may be more aesthetically pleasing than others, but not all types of pine will provide the necessary support and protection for a healthy goat pen.
-
-## How do you plant pine trees in a goat pen?
-
-One way to plant pine trees in a goat pen is to use a method called "trench planting." With trench planting, you dig a long, narrow trench in the soil of the goat pen. Then, you place the pine tree seedlings in the trench and cover them with soil.
-
-The trench helps to protect the seedlings from being trampled by goats, and it also provides drainage for the roots. In addition, trench planting can help to promote root growth by increasing the amount of contact between the roots and the soil.
-
-Another method that can be used to plant pine trees in a goat pen is known as "bundling." With bundling, you group together several small seedlings and tie them together at the base with twine or string.
-
-Then, you plant the bundled seedlings in the goat pen. This method is often used when planting large areas with pine trees.
-
-Bundling helps to protect the seedlings from being trampled, and it also makes it easier to transplant them if they need to be moved later on.
-
-## What kind of maintenance is required for pine trees in a goat pen?
-
-Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and shelter for goats.
-
-Then again, pine trees do require some maintenance in order to stay healthy and look their best.
-
-Here are a few tips for caring for pine trees in a goat pen:
-
-- Pine trees should be trimmed regularly to prevent them from getting too large and overgrown.
-- Pine needles should be raked up regularly to prevent them from building up and becoming a fire hazard.
-- Pine trees should be fertilized every year or two to help them stay healthy and green.
-- Pine trees should be watered regularly, especially during dry periods.
-
-By following these simple tips, you can help keep your pine trees healthy and looking their best.
+Scotch pine and Austrian pine are also solid picks because of their thick bark. They'll survive longer under goat pressure than thin-barked varieties will.
 
 ## Are there any risks associated with having pine trees in a goat pen?
 
-There are a few risks associated with having pine trees in a goat pen. The first is that the goats may eat the pine needles, which can cause digestive issues.
+Your goats will damage or kill any unprotected tree in their pen. They'll strip bark off the trunk, eat every branch they can reach, and rub on it until it's leaning sideways.
 
-Pine needles are also sharp, so they may scratch the goats or get caught in their fur. In addition, pine trees can drop branches, which could injure the goats.
+If you have valuable trees you want to keep alive, wrap the trunks with hardware cloth or build a wire guard ring at least four feet high around each tree. Mature trees with thick bark handle goat abuse much better than young saplings.
 
-Finally, pine trees produce sap, which can be sticky and attract insects. If the sap gets on the goats, it could cause skin irritations.
+## What kind of maintenance is required for pine trees in a goat pen?
 
-For these reasons, it's important to monitor goats carefully if there are pine trees in their pen.
+Honestly, once a pine tree is big enough to survive your goats, it doesn't need much from you. The goats will prune the lower branches themselves by eating everything within reach.
 
-### Protecting Young Pine Trees From Goat Damage
+Keep an eye on the trunk for bark damage, especially on younger trees. If your goats strip a ring of bark all the way around the trunk, that tree is going to die no matter what you do after that.
 
-Goats love to strip bark off young trees, and a freshly planted pine is an easy target. If you are adding new trees to an existing goat pen, you will need to protect them until they are large enough to handle some browsing.
+## Final Thoughts
 
-Wrap the lower trunk with hardware cloth or a commercial tree guard that extends at least four feet up from the ground. This prevents goats from chewing through the bark and killing the tree before it has a chance to establish itself.
+Pine trees in a goat pen are a great combination as long as you avoid ponderosa pine around pregnant does. Expect your goats to eat, rub on, and generally abuse any tree they can reach.
 
-You can also build a small fence ring around each young tree. Once the tree is five or six years old with thick bark, most goats will leave the trunk alone and focus on the lower branches instead.
-
-## Summary
-
-A goat pen can have pine trees in it, but there are a few things to consider before planting them. First, make sure to choose a type of pine tree that is strong and durable.
-
-Some good choices include the Eastern white pine, the Scotch pine, and the Austrian black pine. Second, consider the specific needs of the goats when choosing a type of pine tree.
-
-Some goats may need more shade, while others may prefer a type of pine tree that is more resistant to browsing.
-
-Finally, keep in mind that pine trees require some maintenance, such as trimming, fertilizing, and watering.
-
-However, if you take the time to care for them properly, pine trees can make a great addition to a goat pen.
+If you want the trees to survive long term, protect them with wire guards when they're young. Once they're mature with thick bark, they'll hold their own against your herd just fine.

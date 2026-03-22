@@ -11,127 +11,73 @@ imageAlt: "Can You Do Oral And Injection Of Ivermectin At The Same Time In Goats
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "It is possible to give both oral and injectable forms of ivermectin at the same time. In fact, this can be a more effective way to treat parasites in your goats than just one form alone and also reduce the number of injections necessary."
+  text: "No, you should not give both oral and injectable ivermectin at the same time. Doing so effectively doubles the dose and puts your goat at serious risk of ivermectin toxicity, which can cause tremors, blindness, and death."
 toc:
   - label: "Can you do oral and injection of ivermectin at the same time in goats?"
     href: "#can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats"
-  - label: "What is the best way to give oral injections of ivermectin at the same time in goats?"
-    href: "#what-is-the-best-way-to-give-oral-injections-of-ivermectin-at-the-same-time-in-goats"
-  - label: "What is ivermectin and what does it treat in goats?"
-    href: "#what-is-ivermectin-and-what-does-it-treat-in-goats"
-  - label: "What are the benefits of administering ivermectin orally and via injection to goats?"
-    href: "#what-are-the-benefits-of-administering-ivermectin-orally-and-via-injection-to-goats"
-  - label: "What are the risks associated with giving ivermectin to goats?"
-    href: "#what-are-the-risks-associated-with-giving-ivermectin-to-goats"
-  - label: "How to give your goat an oral dose of ivermectin?"
+  - label: "Why doubling the dose is dangerous"
+    href: "#why-doubling-the-dose-is-dangerous"
+  - label: "Which route should you use for goats?"
+    href: "#which-route-should-you-use-for-goats"
+  - label: "How to give your goat an oral dose of ivermectin"
     href: "#how-to-give-your-goat-an-oral-dose-of-ivermectin"
-  - label: "How to give your goat an injection dose of ivermectin?"
-    href: "#how-to-give-your-goat-an-injection-dose-of-ivermectin"
-  - label: "Tips for ensuring that your goats receive the correct dosage of medication"
-    href: "#tips-for-ensuring-that-your-goats-receive-the-correct-dosage-of-medication"
+  - label: "When to follow up with a second treatment"
+    href: "#when-to-follow-up-with-a-second-treatment"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
   - question: "Can you do oral and injection of ivermectin at the same time in goats?"
-    answer: "It is possible to give both oral and injectable forms of ivermectin at the same time. In fact, this can be a more effective way to treat parasites in your goats than just one form alone and also reduce the number of injections necessary."
+    answer: "No, you should never give both oral and injectable ivermectin at the same time. This doubles the dose and creates a serious risk of toxicity that can cause tremors, blindness, and death in goats."
   - question: "What is the best way to give oral injections of ivermectin at the same time in goats?"
-    answer: "When giving oral injections of ivermectin at the same time in goats, it is best to use a syringe with two different size needles."
+    answer: "You should not give oral and injectable ivermectin simultaneously. Choose one route only. Oral dosing is the preferred method for goats because it provides better absorption against internal parasites."
   - question: "What is ivermectin and what does it treat in goats?"
-    answer: "Ivermectin is a medication that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body."
+    answer: "Ivermectin is a medication that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body."
   - question: "What are the benefits of administering ivermectin orally and via injection to goats?"
-    answer: "Ivermectin is a medication that is commonly used to treat parasitic infections in animals. When administered orally, ivermectin works by paralyzing the nerves of parasites, causing them to be expelled from the body."
+    answer: "Oral ivermectin is the preferred route for goats because it offers better bioavailability and is more effective against gastrointestinal parasites. Injectable ivermectin can be used but is generally less effective when given by injection in goats compared to oral dosing."
 ---
 
-Taking care of goats is an important part of any farm. To keep them healthy, it can be necessary to administer both oral and injectable medications.
-
-In particular, the drug ivermectin has long been used to treat parasites in goats. But can you give your goat both an oral and injection dose of ivermectin at the same time?
-
-And if so, what is the best way to do it?
-
-Here's what you need to know.we will answer those questions and provide you with advice on the best way to administer ivermectin to your goats.
+This is a question that comes up more than you'd expect, and the answer matters because getting it wrong can kill your goat. Do not give both oral and injectable ivermectin at the same time.
 
 ## Can you do oral and injection of ivermectin at the same time in goats?
 
-Keep in mind that various types and strengths of ivermectin are more effective against different parasites. To be safe, always talk to a vet before giving your goats any form of ivermectin.
+No. Giving both routes simultaneously doubles the dose your goat receives, and ivermectin toxicity is a real and serious risk. One dose through one route is all your goat needs.
 
-Your vet will be able to recommend the best option for your goats, as well as make sure that you are giving them the correct dose.
+Some people think that hitting the parasites from two directions at once will be more effective. It doesn't work that way. The drug enters the bloodstream regardless of whether you give it orally or by injection, and two doses means twice the drug circulating through your goat's system.
 
-## What is the best way to give oral injections of ivermectin at the same time in goats?
+## Why doubling the dose is dangerous
 
-When giving oral injections of ivermectin at the same time in goats, it is best to use a syringe with two different size needles.
+Ivermectin overdose in goats causes tremors, loss of coordination, difficulty standing, and blindness. In severe cases, goats go down and don't get back up. Death from respiratory failure can follow within hours of a significant overdose.
 
-The smaller needle should be used for the ivermectin and the larger needle should be used for the saline. It is important to inject the ivermectin into the goat's mouth at the back of the tongue.
+Young kids and small-breed goats are especially vulnerable because the margin between a therapeutic dose and a toxic dose is narrower. Even in full-sized adults, doubling up on ivermectin is playing with fire.
 
-The goat should then be given a drink of water. The goat should not eat or drink for two hours after the injection.
+If you suspect your goat has received too much ivermectin, contact your vet immediately. There is no antidote, but supportive care including IV fluids can help in some cases if you act fast.
 
-This will allow the ivermectin to be properly absorbed. If you have any questions about giving oral injections of ivermectin, please consult with your veterinarian.
+## Which route should you use for goats?
 
-## What is ivermectin and what does it treat in goats?
+Oral dosing is the preferred method for goats. When you give ivermectin orally, it passes through the digestive tract where most internal parasites live, giving it direct contact with the worms you're trying to kill.
 
-Ivermectin is a medication that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body.
+The standard oral dose is 1 ml of 1% ivermectin per 22 pounds of body weight. Always weigh your goats rather than guessing, because underdosing contributes to parasite resistance and overdosing is dangerous.
 
-Ivermectin is most commonly used to treat worms, but it can also be used to treat mites and lice. Goats can become infected with parasites through contact with contaminated soil or water.
+Injectable ivermectin given by injection in goats is actually less effective than oral dosing for internal parasites. Many experienced goat owners use the injectable product but give it orally for better results.
 
-They can also pick up parasites from other animals, such as sheep and cattle. Treatment with ivermectin will kill the existing parasites and help to prevent new infections from developing.
+## How to give your goat an oral dose of ivermectin
 
-## What are the benefits of administering ivermectin orally and via injection to goats?
+Use a syringe without a needle and draw up the correct amount based on your goat's weight. Place the tip of the syringe into the corner of the goat's mouth and slowly squirt the liquid onto the back of the tongue.
 
-Ivermectin is a medication that is commonly used to treat parasitic infections in animals. When administered orally, ivermectin works by paralyzing the nerves of parasites, causing them to be expelled from the body.
+Hold the goat's head up for a few seconds so they swallow rather than spit it out. Some goats fight this, so having a helper hold the goat steady makes the job easier.
 
-When given via injection, ivermectin can help to kill parasites that are living inside the body. Ivermectin is effective against a wide range of parasites, including worms, mites, and ticks.
+One oral dose of ivermectin treats both internal parasites like barber pole worm and external parasites like lice and mites. You don't need to add an injection on top of it.
 
-Goats are particularly susceptible to parasitic infections, so the administration of ivermectin can help to keep them healthy.
+## When to follow up with a second treatment
 
-In addition to preventing parasitic infections, ivermectin can also be used to treat certain types of skin conditions in goats. When used correctly, ivermectin is safe and effective for goats of all ages.
+If you're dealing with a heavy parasite load, a follow-up dose 10 to 14 days after the first treatment can catch any larvae that have since matured into adults. This is standard practice during bad worm seasons.
 
-## What are the risks associated with giving ivermectin to goats?
+Run a fecal egg count before the first treatment and again 10 to 14 days after to see if the ivermectin is actually working. If the egg count hasn't dropped significantly, you may be dealing with resistant parasites and need to switch to a different dewormer class.
 
-It is important to note that, while administering ivermectin can be beneficial for goats, there are some risks associated with using this medication.
+Never re-dose sooner than 10 days after the initial treatment. The drug needs time to clear the goat's system before you add more.
 
-Ivermectin can be toxic if given in too high of a dose, so consult with your veterinarian before giving any form of ivermectin to your goats.
+## Final Thoughts
 
-The correct dose and type of ivermectin should be used to make sure the safety of your animals. There is a risk that the parasites may become resistant to ivermectin over time, so it is important to discuss other parasite control methods with your veterinarian as well.
+Stick with one route per treatment, and oral is the best choice for goats. Doubling up on ivermectin doesn't make it work better. It just puts your goat in danger.
 
-Ivermectin can be safe for goats if used correctly. It will help protect them from parasitic infections, however, you should speak with your veterinarian about the right dosage and form to use before administering this medication.
-
-## How to give your goat an oral dose of ivermectin?
-
-To give your goat an oral dose of ivermectin, mix the drug with a small amount of sweetened condensed milk. (This will help mask the taste of the medication.)
-
-Then, using a syringe (without the needle), draw up the mixture and squirt it into the back of your goat's mouth. Be sure to aim for the area between the teeth and the gum line.
-
-Finally, rub your goat's throat to encourage swallowing. Repeat this process for each goat in your herd.
-
-giving them all the same dose. Ivermectin can be given orally to goats on a monthly basis to prevent heartworm disease and control parasites.
-
-It is important to follow the dosage instructions on the package insert, as overdoses can be fatal. If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
-
-## How to give your goat an injection dose of ivermectin?
-
-To give your goat an injection dose of ivermectin, you'll need a 1cc syringe and 23-gauge needle. Fill the syringe with the medication, then insert the needle into the side of the goat's neck between the shoulder and jawbone.
-
-Gently pull back on the plunger to make sure you haven't hit a blood vessel, then inject the medication slowly over a period of 10-15 seconds.
-
-Be sure to massage the area after injection to help disperse the medication and avoid abscesses. Ivermectin is an important part of preventing and treating parasites in goats, so it's important to know how to administer it properly.
-
-## Tips for ensuring that your goats receive the correct dosage of medication
-
-Administering medication to goats can be a tricky business. Not only do you have to make sure that they receive the correct dosage, but you also need to make sure that they actually consume the medication.
-
-One way to help make sure that your goats receive the correct dosage of medication is to mix it into their food. This way, they will eat the medication along with their normal diet and you won't have to worry about them picking around it.
-
-If you're having difficulty getting your goats to consume their medication, directly administering the dose into their mouths with a syringe can be more effective. Though it may take some practice at first, soon you'll be able to do it without any trouble.
-
-### Withdrawal Periods to Keep in Mind
-
-If you're milking your goats or plan to send them to slaughter, you need to know the withdrawal period for ivermectin. This is the amount of time you must wait after treatment before the milk or meat is safe for human consumption.
-
-For injectable ivermectin, the typical meat withdrawal is 35 days. Milk withdrawal varies but most vets recommend at least 9 days for dairy goats.
-
-Keep in mind that using both oral and injectable forms at the same time could extend these windows. Always ask your vet for specific guidance based on the products you're using.
-
-## 
-
-Ivermectin is a safe and effective way to treat parasites in goats. When used correctly, it can help protect your animals from the dangers of parasites while also providing them with relief from common symptoms.
-
-Just remember that it's important to consult with a veterinarian before giving any form of ivermectin to your goats, as overdoses can be fatal. With the right knowledge and a bit of practice, you'll be able to give your goats the medication they need with ease.
+Weigh your animals, dose accurately, and follow up with fecal testing to confirm the treatment is doing its job. That's the approach that keeps your goats healthy without unnecessary risk.

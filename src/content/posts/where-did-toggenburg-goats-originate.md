@@ -41,100 +41,46 @@ faq:
   - question: "What are the benefits of owning Toggenburg goats?"
     answer: "There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk. In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine."
 ---
-Managing goats well means knowing the basics inside and out. If you are thinking about getting goats, you may be wondering about their origins.
-
-Where did Toggenburg goats originate?
-
-we will answer those questions for you and provide some additional information about these popular goats.
+Toggenburg goats are one of the oldest and most recognizable dairy breeds in the world. Here's where they came from and what makes them worth owning.
 
 ## Where did Toggenburg goats originate?
 
-Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of milk per day, which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
+Toggenburgs come from the Toggenburg Valley in northeastern Switzerland. Written records of the breed go back to the 1600s, making them the oldest known registered dairy goat breed.
 
-In addition to their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
-
-If you are thinking about getting goats, Toggenburgs make an excellent choice. They are hardy animals that are well-suited to a variety of climates and conditions.
-
-With proper care, they can provide you with years of enjoyment.
+They were first imported to the United States in 1893. Swiss farmers bred them in the cold, mountainous Alpine terrain, which is why they do so well in cooler climates today.
 
 ## What are Toggenburg goats?
 
-Toggenburg goats are a species of dairy goat known for their distinctive appearance and high milk production.
+Toggenburgs are a medium-sized dairy breed, with does weighing around 120 pounds and bucks reaching 150 pounds or more. They produce an average of about 2,000 pounds of milk per lactation.
 
-These hardy animals were the first to be officially registered as a breed, and they have been used around the world for both commercial dairy production and small-scale farming purposes.
-
-With their long floppy ears, short snouts, and distinctive markings that can consist of patches of white and brown hair or completely solid-colored gray coats, Toggenburg goats are easily recognizable.
-
-They are known to be highly adaptable animals that are well suited to a range of different climates and environments. And because they produce a high volume of rich milk, they have long been one of the most important breeds in commercial dairy production.
-
-Toggenburg goats are an iconic breed that continues to play an important role in the agricultural world today.
+Their milk runs lower in butterfat than Nubian milk, typically around 3-4%. That makes it better for drinking and fluid milk products than for cheese or butter, though plenty of people use it for both.
 
 ## What do Toggenburg goats look like?
 
-Toggenburg goats are named after the Toggenburg region of Switzerland, where they were first bred in the late 1800s. With their impressive size and shaggy brown coats, Toggenburg goats are easily recognizable.
+You can spot a Toggenburg from across the pasture by their coloring. They're light brown to chocolate brown with white facial stripes running from above each eye to the muzzle.
 
-Their facial features are typically quite pronounced, with large beady eyes and long bushy eyebrows that give them a distinctly otherworldly appearance. In addition to their distinctive physical features, Toggenburg goats are also known for their strong and resilient personalities.
-
-They are hardy animals that can thrive in a variety of different climates and terrains, making them an excellent choice for farmers who need a versatile breed of goat.
+They also have white ears, white lower legs, and a white triangle on each side of the tail. Their ears are upright and medium-sized, and most have straight or slightly dished faces.
 
 ## What are the benefits of owning Toggenburg goats?
 
-There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk.
+Toggenburgs are consistent, reliable milkers that hold their production well through the entire lactation. A good doe will give you milk for 10 months or longer without dropping off much.
 
-In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine.
-
-On top of their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
-
-And because they are such versatile animals, Toggenburg goats can be easily adapted to a variety of different climates and conditions. Toggenburg goats make an excellent choice for anyone who is thinking about getting goats.
+They're also cold-hardy goats that handle winter weather better than most dairy breeds. If you live somewhere with real winters, Toggenburgs will outperform heat-loving breeds like Nubians during the cold months.
 
 ## What is the temperament of a Toggenburg goat?
 
-The temperament of a Toggenburg goat can be characterized as alert, curious, and somewhat stubborn. With an inquisitive nature and an inborn distrust of unfamiliar sounds, scents, or movements, these goats are always on the lookout for any possible threats or dangers.
+Toggenburgs are active, curious, and sometimes stubborn enough to test your patience. They're the kind of goat that will figure out how to open a gate latch if you give them enough time.
 
-At the same time, their stubborn streak means that they can be difficult to train or handle at times. However, once you build a trusting relationship with a Toggenburg goat, you will see just how intelligent and loyal they truly are.
-
-They are not generally aggressive animals and tend to get along well with other animals in their herd. If you want a lively and independent companion animal that can also be gentle and sweet when interacting with people, then a Toggenburg goat is the perfect choice for you.
-
-## How much does a Toggenburg goat cost?
-
-The cost of a Toggenburg goat can vary depending on a number of factors, including the age, gender, and health of the animal.
-
-Older goats may be more expensive than younger ones for example, as older animals tend to be more established in terms of their weight and body condition.
-
-It's also worth noting that does (female goats) typically cost more than wethers (gelded males), since does require specialized care during pregnancy and lactation.
-
-Finally, the condition of a goat will also impact its price, with well-cared-for animals typically commanding higher prices than those that are not in good health.
-
-A typical Toggenburg goat will typically cost between $300 and $500. However, this price may fluctuate depending on any individual factors that might affect the price tag.
-
-## What do you need to take into consideration before getting goats?
-
-There are a number of things that you need to take into consideration before getting goats. To start, it is important to consider your local zoning laws and regulations.
-
-Many areas have strict rules about livestock in residential areas, so check with your town or city before moving forward with this decision. You need to think about the right breed of goat for your needs and lifestyle.
-
-For example, if you have small children or pets and want a docile animal, a Nigerian dwarf might be more suitable than a larger breed such as an alpine goat.
-
-You also need to take into account things like fencing requirements and access to water, as well as herd management practices such as regular veterinary care and record-keeping. With proper planning and preparation, but, goats can make great additions to any homestead or farm.
+They bond well with their owners and are generally friendly, but they can be pushy with other goats in the herd. First-time goat owners sometimes find their strong personalities a bit much compared to calmer breeds like Saanens.
 
 ## How to take care of your Toggenburg goats?
 
-There are a few key things that you should always keep in mind. First and foremost, provide your goats with a clean, dry living space that is free from debris or other contaminants.
+Provide quality hay, fresh water, and a loose mineral supplement formulated for dairy goats. Toggenburgs in milk need grain on the milk stand to keep up body condition and production.
 
-This can be accomplished by regularly clearing out any waste materials from the pen, making sure not to leave food scraps lying around, and having proper ventilation to promote good air circulation.
+Trim hooves every 6-8 weeks, keep their shelter dry and well-ventilated, and deworm based on fecal egg counts rather than on a calendar schedule. Regular veterinary care and CDT vaccinations twice a year round out the basics.
 
-You should always make sure to provide your goats with fresh water at all times and plenty of high-quality food sources such as hay and grain.
+## Final Thoughts
 
-Finally, it is important to monitor the health of your goats on a regular basis, paying close attention for signs of illness or injury so that you can address issues promptly and get them back on their feet as soon as possible.
+Toggenburgs are a proven dairy breed with centuries of history behind them. They're hardy, productive, and full of personality.
 
-By following these simple tips for goat care, you can help make sure that your Toggenburgs are healthy, happy, and thriving.
-
-## Closing Notes
-
-Toggenburg goats are a great choice for those looking for an intelligent, independent, and affectionate companion animal.
-
-With their gentle personalities and easy-going dispositions, Toggenburgs make wonderful pets for families with small children or other animals.
-
-They are also relatively easy to care for, provided that you take the time to learn about their basic needs and understand how to properly care for them.
-
-Toggenburg goats are a great choice for anyone looking for a unique and rewarding pet.
+If you want a reliable milker that handles cold weather well and keeps things interesting around the barn, a Toggenburg is a solid choice. Just make sure your gate latches are goat-proof.

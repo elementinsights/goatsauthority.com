@@ -37,104 +37,50 @@ faq:
   - question: "What are the risks associated with goats jumping?"
     answer: "There are a few risks associated with goats jumping. One is that they could injure themselves. Goats have been known to break their legs or necks when they jump from high places."
 ---
-Good goat management starts with solid information. Goats are interesting animals with many unique behaviors.
+Yes, goats can jump high. If you've ever watched a goat clear a fence you thought was tall enough, you already know this firsthand.
 
-One question that often comes up is, can goats jump high? And if so, how high can they jump?
-
-Read on for the full breakdown.we will answer the question of how high can a goat jump. We'll also provide some information on why goats like to jump, and what you can do to keep your goats safe.
+Understanding how high different breeds can jump is the first step to keeping your herd where it belongs. Here's what you need to know about goats and their jumping ability.
 
 ## Can goats jump high?
 
-In addition to being able to jump high, goats are also good at climbing. They can climb steep hillsides and cliffs.
+Most goats can comfortably jump 4 to 5 feet from a standing position. Give them a running start or something to push off of, and they can clear even more. Their powerful hind legs and lightweight frames make them natural athletes.
 
-Goats have been known to climb trees as well.
-
-However, not all goats like to jump. Some goats may avoid jumping if they are afraid of heights.
-
-Others may not jump because they are not surefooted. If you have a goat that does not like to jump, you can provide them with a ramp or other means of getting over obstacles.
+Goats are also climbers, not just jumpers. They'll scale rock piles, lean against fences to bend them down, and squeeze through gaps you didn't know existed. Jumping is just one tool in their escape arsenal.
 
 ## What is the average height a goat can jump?
 
-The average height a goat can jump is between 30 and 36 inches. However, some breeds of goats, such as the Alpine and LaMancha, are capable of jumping higher, with heights of up to 48 inches reported.
+The average goat clears about 4 feet without much effort. Nigerian Dwarf goats and Alpine breeds are the most athletic jumpers and can hit 5 feet or higher when motivated.
 
-Goats are able to jump so high due to their strong hind legs and muscular build.
-
-Plus, goats have a natural inclination to climb, which helps them to scale heights that would be impossible for other animals. Their ability to jump also makes goats excellent escape artists, and they have been known to escape from even the most securely fenced enclosures.
-
- it is important to make sure that any fence designed to contain goats is tall enough to prevent them from jumping over.
+Boer goats are heavier and stockier, so they tend to jump less. But don't count on a Boer staying put either, because a bored Boer will still test your fencing.
 
 ## Why do goats like to jump?
 
-One theory is that goats jump because it helps them to escape predators. In the wild, goats are constantly on the lookout for danger, and jumping gives them a quick way to get out of harm's way.
+Goats jump for the same reasons they do most things: curiosity and survival instinct. In the wild, mountain goats navigate cliffs and ledges to escape predators, and that athletic drive carries over to domesticated breeds.
 
-Similarly, jumping helps goats to stay agile and nimble, making it easier for them to find food and avoid predators.
-
-Another theory is that goats jump because it gives them a way to release excess energy. Goats are very active creatures, and they often need to find ways to burn off some steam.
-
-Jumping is an enjoyable activity for goats, and it helps to keep them from getting bored or frustrated. Jumping helps goats to stay in shape and stay healthy.
-
-There are many reasons why goats like to jump, but ultimately it boils down to two things: safety and fun. Goats jump to escape predators and release excess energy, and in doing so, they help to keep themselves safe and healthy.
-
-So the next time you see a goat jumping around, remember that there's more to it than just playfulness; there's a survival instinct at work as well.
+Young goats especially love jumping as a form of play. Kids will bounce off rocks, stumps, and each other all day long, and it's how they build the muscle and coordination they need as adults.
 
 ## What are the risks associated with goats jumping?
 
-There are a few risks associated with goats jumping. One is that they could injure themselves.
+The biggest risk is escape. A goat that clears your fence is exposed to predators, traffic, toxic plants, and angry neighbors whose gardens just became a buffet.
 
-Goats have been known to break their legs or necks when they jump from high places.
-
-If a goat is not used to jumping, they could strain their muscles or joints. It is important to take these risks into consideration when letting your goats jump.
-
-Another risk is that goats could escape from their enclosures if they are able to jump over fences. This is why it is important to make sure that any fence designed to contain goats is tall enough to prevent them from jumping over.
-
-Finally, there is a risk of injury to people if they are standing close to a jumping goat. Goats can kick and butt people with their heads, and they have been known to do so when they are jumping.
-
-Therefore, it is important to be cautious around goats when they are jumping, and to keep children and other vulnerable people away from them.
-
-There are a few risks associated with goats jumping, but these can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
-
-The risks are outweighed by the benefits of goats being able to jump, which include their safety and health.
+Injuries can happen too. Goats can break legs landing on hard surfaces or get tangled in fence wire at the top of a jump. Horned goats sometimes catch their horns in fencing during a jump attempt, which can lead to neck injuries.
 
 ## How to prevent goats from jumping?
 
-If you're concerned about goats jumping, there are a few things you can do to prevent it. One is to provide them with a ramp or other means of getting over obstacles.
+Build your fences at least 4 feet tall, and go to 5 feet for agile breeds like Nigerians, Alpines, and Nubians. Cattle panels attached to sturdy T-posts are one of the most reliable and affordable options for most setups.
 
-This will help to minimize the risk of injury by giving them a safe way to jump.
+A strand of electric wire along the top of the fence works as a strong deterrent. Keep anything goats could use as a launching pad, like stumps, feeders, or rock piles, well away from fence lines.
 
-Another way to prevent goats from jumping is to provide them with plenty of enrichment. This includes things like toys, play areas, and social interaction.
-
-Goats that are bored or frustrated are more likely to jump, so by providing them with enrichment, you can help to keep them calm and happy.
-
-Finally, you can try training your goats not to jump. This can be done by using positive reinforcement, such as treats or praise, to encourage them to stay on the ground.
-
-It may take some time and patience, but with persistence, you can train your goats not to jump.
-
-There are a few ways to prevent goats from jumping. You can provide them with a ramp or other means of getting over obstacles, you can provide them with enrichment, or you can try training them not to jump.
-
-By taking these measures, you can help to keep your goats safe and happy.
+Bored goats jump more, so providing browse, toys, and companionship helps reduce escape attempts. Avoid chain-link fencing with horizontal rails because goats will use those rails as steps to climb over.
 
 ## What kind of goats jumps the most?
 
-While all goats are capable of jumping, some breeds are more prone to it than others. One of the most notorious jumping breeds is the Pygmy goat.
+Nigerian Dwarf goats and Pygmy goats are the worst offenders. They're small, light, and loaded with energy, which is the perfect recipe for fence clearing.
 
-Pygmy goats are small, compact creatures that are full of energy. They are known for their playful and mischievous nature, and they often jump and play around.
+Alpines and Nubians are strong jumpers too, despite their larger size. Boer goats are the least likely to jump thanks to their heavy build, but every herd has that one individual goat who treats fencing as a personal challenge.
 
-Other breeds that are known for their jumping ability include the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large, and they have a lot of energy.
+## Final Thoughts
 
-They often use their jumping ability to escape from predators or to release excess energy.
+Plan your fencing around the most athletic breed you own, not the laziest. A 5-foot woven wire fence with a hot wire on top will hold the vast majority of goats.
 
-Some of the most notorious jumping breeds include the Pygmy goat, the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large and full of energy, and they often use their jumping ability to escape from predators or to release excess energy.
-
-### Best Fencing Options for Jumping Goats
-
-If you've got jumpers, your fence choice matters a lot. A 5-foot woven wire fence is the minimum most goat owners recommend. For breeds like Nubians and Alpines, going up to 6 feet gives you extra peace of mind.
-
-Cattle panels attached to sturdy T-posts work well and are relatively affordable. You can also add a strand of electric wire along the top as a deterrent.
-
-Avoid using chain-link fencing with horizontal rails, since goats will use those rails as a step ladder. The same goes for any horizontal boards or structures near the fence line that goats could stand on to boost their jump height.
-
-## Key Takeaways
-
-Goats can jump high, but there are a few risks associated with this behavior. Even so, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
-
-The benefits of goats being able to jump, which include their safety and health, outweigh the risks.
+Some goats are just born escape artists no matter what you build. For those individuals, adding a strand of electric wire or switching to a taller panel setup is usually the final fix.

@@ -40,100 +40,48 @@ faq:
     answer: "Goat's milk is often recommended for kittens who are not able to nurse from their mothers. It's a nutritious alternative that can help them to grow and thrive."
 ---
 
-About raising baby kittens, one of the most common questions people have is whether or not they can drink goat's milk. And if so, is it good for them?
+Yes, goat milk is the best emergency substitute for orphaned kittens when you can't get your hands on kitten milk replacer (KMR). It's closer to cat milk in composition than cow milk, and most kittens tolerate it well.
 
-We will answer all of those questions for you as well as give you some tips on how to care for your baby kittens.
+That said, it's not a perfect long-term replacement. Here's what you need to know.
 
 ## Can baby kittens drink goats milk?
 
-However, goat's milk is not a replacement for kitten formula. Kittens should only drink goat's milk as a supplement to their diet.
+Goat milk is safer for kittens than cow milk because it has smaller fat globules and less lactose, making it easier on their tiny digestive systems. Many rescue groups and breeders reach for goat milk first when they find orphaned kittens and don't have KMR available.
 
-They still need to eat kitten food in order to get all the nutrients they need to grow and develop properly.
-
-If you are going to feed your kitten goat's milk, be sure to get it from a reputable source. You don't want to feed them milk that has been watered down or is of poor quality.
-
-Also, make sure to warm the milk before giving it to your kittens, as they may have trouble digesting it if it's cold.
+Warm the milk to body temperature (about 100 degrees Fahrenheit) before feeding. Cold milk can cause stomach cramps and the kitten may refuse to drink it.
 
 ## What is goat's milk and what are its benefits for kittens?
 
-Goat's milk is a popular choice for pet owners who are looking for an alternative to cow's milk. Goat's milk is naturally lower in lactose than cow's milk, making it easier for kittens to digest.
+Goat milk is naturally lower in lactose than cow milk, which is why kittens can handle it better. The protein and fat structure is closer to what a mother cat produces, giving newborns more of what they need to grow.
 
-Goat's milk is a good source of protein and essential nutrients like calcium and phosphorus. It can also help to soothe an upset stomach and promote healthy gut bacteria growth.
-
-When choosing goat's milk for your kitten, be sure to select a product that is specifically designed for kittens and contains no added sugar or artificial ingredients.
-
-Offer your kitten small amounts of goat's milk until you know how they tolerate it, and always consult with an animal expert if you have any concerns.
+It also contains probiotics and enzymes that support gut health in young animals. For a kitten that's just lost its mother, goat milk can be the difference between surviving and not making it through the first few days.
 
 ## How do you go about introducing goat's milk to a kitten?
 
-Goat's milk is a nutritious alternative to cow's milk for kittens. It's higher in protein and fat, which helps kittens grow, and it's also easier to digest.
+For newborn kittens under two weeks old, feed with a small pet nursing bottle or a 1ml syringe without the needle. Go slowly to prevent the kitten from aspirating milk into its lungs, which can cause pneumonia.
 
-Even so, before introducing goat's milk to a kitten, it's important to check with an animal expert to make sure that the milk is appropriate for the kitten's diet. Goat's milk can also be mixed with water to create a more diluted solution.
-
-When introducing goat's milk to a kitten, it's important to do so slowly, mixing it with the kitten's regular food or water over the course of several days. This will help the kitten get used to the new food and reduce the risk of gastrointestinal upset.
+Feed every two to three hours around the clock for the first week, then every three to four hours as the kitten grows. After each feeding, gently wipe the kitten's belly and rear with a warm, damp cloth to stimulate elimination, since young kittens can't go on their own.
 
 ## How much goat's milk should a kitten drink each day?
 
-Goat's milk is often recommended for kittens who are not able to nurse from their mothers. It's a nutritious alternative that can help them to grow and thrive.
+A newborn kitten needs about 2 to 4 ml of milk per feeding during the first few days. By one week old, that increases to about 5 to 8 ml per feeding, and it keeps going up from there as the kitten grows.
 
-But how much goat's milk should a kitten drink each day? The answer depends on several factors, including the kitten's age, weight, and overall health.
-
-A healthy kitten between the ages of six and eight weeks old should consume about three ounces of goat's milk per day.
-
-This can be increased to four or five ounces per day for kittens who are nine to twelve weeks old. Once a kitten reaches three months of age, they can start to transition to solid food.
-
-At this point, they will still need to drink goat's milk, but their daily intake can be reduced to two or three ounces.
-
-Of course, it's always best to consult with an animal expert before making any changes to your kitten's diet. They will be able to offer personalized guidance based on your individual pet's needs.
+Watch the kitten's belly. It should be round and full after a feeding but not tight like a drum. If the belly is distended or the kitten seems uncomfortable, you're probably overfeeding. Weigh the kitten daily to make sure it's gaining weight steadily.
 
 ## What are the potential risks associated with giving too much goat's milk to a kitten, and how can you avoid them?
 
-One of the potential risks associated with giving too much goat's milk to a kitten is dehydration. Goat's milk is high in sodium and potassium, which can lead to excessive thirst and urination.
+Goat milk lacks enough taurine for cats, and taurine is an essential amino acid that cats need for heart and eye health. This is why goat milk works as an emergency fix but shouldn't be the sole food source for weeks on end.
 
-If a kitten drinks too much goat's milk, they may not be able to replace the lost fluids, leading to dehydration.
-
-Another potential risk is digestive upset. Goat's milk is also high in lactose, which can be difficult for kittens to digest.
-
-Kittens who drink too much goat's milk may experience diarrhea, vomiting, and bloating.
-
-Finally, giving too much goat's milk to a kitten can cause weight gain. Goat's milk is very rich and calorie-dense, so kittens who drink too much of it may start to put on weight.
-
-To avoid these risks, it's important to only give kittens small amounts of goat's milk at a time and make sure they have access to plenty of fresh water.
+Too much goat milk can also cause diarrhea, which leads to dehydration fast in a tiny kitten. Get proper KMR (kitten milk replacer) as soon as possible, since it's specifically formulated with the right balance of nutrients, taurine, and calories for growing kittens.
 
 ## Tips for feeding goat's milk to a kitten
 
-- Start with small amounts and increase gradually over time
-- Mix goat's milk with water to create a more diluted solution
-- Offer milk several times per day rather than all at once
-- Make sure the kitten has access to fresh water at all times
-- Consult with an animal expert before making any changes to your kitten's diet
+Keep the kitten upright on its belly while feeding, never on its back like a human baby. Feeding a kitten on its back dramatically increases the risk of aspiration.
 
-If you have any concerns about giving goat's milk to your kitten, or if they are experiencing any digestive upset, be sure to contact an animal expert right away.
+Pasteurized goat milk from the store works fine, but if you have access to fresh raw goat milk from your own herd, warm it gently before use. Always sterilize bottles and syringes between feedings, because kittens have weak immune systems and bacterial infections can be deadly.
 
-## What are other milk options for kittens?
+## Final Thoughts
 
-In addition to goat's milk, there are a few other milk options that can be given to kittens. These include:
+Goat milk is the best emergency option for orphaned kittens when you don't have KMR. It'll keep them alive and growing until you can get the proper formula.
 
-Kitten formula: Kitten formula is designed to closely mimic the nutritional composition of a mother's milk. It's a good option for kittens who are not able to nurse from their mothers and can be found at most pet stores.
-
-Cow's milk: Cow's milk is another option for kittens, but it should only be given in small amounts. Like goat's milk, cow's milk is high in lactose and can cause digestive upset in kittens if they drink too much of it.
-
-Soy milk: Soy milk is a lactose-free alternative to cow's milk. But, it's not as nutritionally complete as other milk options and should only be given to kittens in small amounts.
-
-Rice milk: Rice milk is another lactose-free alternative to cow's milk. Then again, it's also not as nutritionally complete as other milk options and should only be given to kittens in small amounts.
-
-No matter which milk option you choose, it's important to start with small amounts and increase gradually over time. You should also consult with an animal expert before making any changes to your kitten's diet.
-
-### Raw vs. Pasteurized Goat's Milk for Kittens
-
-If you have access to fresh goat's milk straight from the farm, you might wonder whether raw or pasteurized is better for your kittens. Raw goat's milk contains beneficial enzymes and probiotics that are destroyed during pasteurization. Many breeders swear by raw milk for raising kittens.
-
-Raw milk also carries a small risk of containing harmful bacteria like Listeria or Salmonella. Kittens with weak immune systems are especially vulnerable to these pathogens.
-
-The safest approach is to use pasteurized goat's milk from a store or to gently warm raw milk to 145 degrees Fahrenheit for 30 minutes at home. This kills the dangerous bacteria while preserving more nutrients than commercial ultra-pasteurization does.
-
-## Key Takeaways
-
-Goat's milk is a nutritious option for kittens and can be given to them in small amounts as part of a well-rounded diet.
-
-However, it's important to start with small amounts and increase gradually over time. You should also consult with a veterinarian before making any changes to your kitten's diet.
+Get KMR from a pet store or vet as soon as you can, because it has everything a kitten needs that goat milk doesn't. In the meantime, warm goat milk fed carefully every few hours gives that kitten a fighting chance.

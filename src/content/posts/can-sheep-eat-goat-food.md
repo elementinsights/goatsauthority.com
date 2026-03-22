@@ -39,109 +39,40 @@ faq:
   - question: "What are some common problems associated with feeding goat food to sheep?"
     answer: "There are a number of potential problems that can arise when feeding goat food to sheep. One issue is that goat feed is typically higher in protein than sheep's food, which can result in dangerous overfeeding and weight gain in sheep."
 ---
-
-Many people are interested in whether sheep can eat goat food or not. And if so, what are the things you need to consider?
-
-Sheep require a lot of dedication and hard work. You need to think about their diet and how it affects their health and wool quality.
-
-Here's the short version.we will answer those questions for you and provide some tips on how to best take care of your sheep.
+This is one of those questions where the short answer is "yes, but" and the "but" can kill your sheep. If you keep both goats and sheep, you need to understand one critical difference in their nutritional needs before you share any feed between them.
 
 ## Can sheep eat goat food?
 
-There are a few things to keep in mind when feeding sheep goat food, however. First, make sure that the food is of good quality and free from toxins.
+Sheep can eat goat hay and most goat grain without any immediate problems. The basic ingredients in goat feed like oats, corn, and barley are perfectly fine for sheep.
 
-Second, remember that sheep have different nutritional needs than goats, so you'll need to adjust the amount of food accordingly.
-
-Keep in mind that sheep may not be able to digest all of the nutrients in goat food as efficiently as goats can. This means that they may not get all of the benefits from the food.
-
-Adding some goat food to a sheep's diet can be beneficial, but it's important to do so carefully and with consideration for their unique needs.
+The problem is copper. Goat feed and goat minerals almost always contain copper levels that are toxic to sheep, and this is not something you can afford to ignore.
 
 ## What is goat food and what are the benefits of feeding it to sheep?
 
-Goat food, also known as livestock feed, is a type of dry or moist mixture of grains, seeds, and plant fibers that is commonly fed to sheep.
+Goat feed is typically a grain mix combined with vitamins and minerals formulated for a goat's specific needs. The protein and energy content is similar to sheep feed, so the basic nutrition crosses over just fine.
 
-At its most basic level, goat food provides the nutritional building blocks necessary for healthy growth and development in sheep.
-
-In particular, goat food is rich in protein, carbohydrates, fat, vitamins, and minerals. In addition to these essential nutrients, feeding goat food to sheep can also have other benefits.
-
-For example, feeding goat food to lactating ewes has been shown to boost milk production. Beyond that, feeding goat food to young or elderly sheep can help them better withstand illnesses such as pneumonia or foot rot.
-
-Then, there are many good reasons for incorporating goat food into your herd management regimen.
+Hay is the one thing you can share without worry. Whether it's timothy, orchard grass, or alfalfa, both species eat the same forages without any issue.
 
 ## How much goat food should you feed your sheep?
 
-As with most aspects of raising sheep, there is no definitive answer depending on factors like age, size, and environmental conditions.
+If you're talking about plain grain with no added minerals, sheep can eat goat feed in the same quantities they'd eat their own grain ration. Follow the same guidelines you would for sheep feed based on their body weight and condition.
 
-As a general guideline, sheep should be fed about one percent of their body weight in goat food per week.
-
-So for example, if you have a group of 100 smaller sheep that weigh around 75 lbs each on average, you would need to provide roughly $2 worth of food per week for them to get the nutrients they need.
-
-Similarly, it's important to keep in mind that your goats' feeding needs may change over time based on things like pregnancy or growth spurts, so be sure to monitor their condition closely and adjust their diet accordingly.
-
-Whether you have dairy or meat goats or just use them for wool and secondary products, understanding how much they need to eat can help ensure they stay healthy and productive throughout their lives.
+The real question isn't how much but what's in it. Always check the feed tag for copper content before letting your sheep anywhere near goat feed.
 
 ## What are some common problems associated with feeding goat food to sheep?
 
-There are a number of potential problems that can arise when feeding goat food to sheep. One issue is that goat feed is typically higher in protein than sheep's food, which can result in dangerous overfeeding and weight gain in sheep.
+Copper toxicity is the big one. Sheep accumulate copper in their liver over time, and the levels that goats need to stay healthy will slowly poison a sheep.
 
-Beyond that, certain types of goat feed may be too rich for the sensitive digestive systems of sheep, causing upset stomachs and potentially leading to health issues such as diarrhea or bloating.
-
-Last thing to note: there is also the risk that some kinds of goat's food may contain substances that are toxic to sheep, such as specific herbs used as natural insect repellents or trace amounts of certain medications administered to sick goats.
-
-Therefore, when feeding goat food to sheep it is important to be mindful of these potential risks and take steps to avoid them where possible.
+The worst part is that copper toxicity doesn't show up right away. A sheep can eat goat minerals for months and seem perfectly fine, then one day the stored copper releases from the liver all at once and the sheep dies within 24 to 48 hours.
 
 ## How can you prevent those problems from occurring?
 
-There are a few things you can do to prevent problems when feeding goat food to sheep. First, be sure to choose a quality product that is designed specifically for sheep.
+The safest approach if you keep both species together is to use sheep-safe minerals for everyone. Sheep minerals have little to no copper, which won't hurt your goats in the short term.
 
-This will help make sure that the protein and other nutrient levels in the food are appropriate for your flock.
+Then supplement your goats separately with a copper bolus two to three times per year. You can give copper boluses individually, which keeps your sheep completely safe while making sure your goats get what they need.
 
-Second, start by slowly introducing the new food into their diet, gradually increasing the amount over time. This will help them adjust to the new food without experiencing any digestive upset.
+## Final Thoughts
 
-Finally, pay close attention to your goats' condition and monitor for any signs of health problems after changing their diet.
+Sharing hay between goats and sheep is no problem at all. Sharing grain can work if the feed doesn't contain added copper.
 
-If you notice anything out of the ordinary, be sure to consult with a veterinarian or other animal expert for guidance on how to proceed.
-
-## What are the treatments for problems that may occur?
-
-If you do notice any problems after feeding goat food to sheep, there are a few things you can do to treat them.
-
-For example, if your goats are experiencing digestive upset, you can try feeding them smaller meals more often or adding probiotics to their diet.
-
-If they are gaining too much weight, you may need to reduce the amount of food you're giving them or switch to a lower-protein option.
-
-And if you suspect they have ingested something toxic, it's important to seek professional medical help immediately.
-
-By taking steps to prevent and treat problems early on, you can help make sure that your goats stay healthy and happy even when their diet is changing.
-
-## What are the long-term benefits of feeding goat food to sheep?
-
-As for feeding livestock, there are many factors to consider. In the case of goats and sheep, for example, some farmers believe that feeding goat food to sheep can have long-term benefits.
-
-This is because goat food generally has a higher nutrient content than regular sheep feed, meaning that it provides more protein and other nutrients to help promote healthy growth in sheep.
-
-Since goat food tends to be lower in fiber than regular sheep feed, it can be easier for some types of sheep to digest as well.
-
-Then, giving goats grazing rights on areas where you keep your sheep seems like a good choice both for the short- and long-term health of your flocks.
-
-### Copper Toxicity: The Biggest Danger
-
-One thing that trips up a lot of people is copper. Goat feed often contains higher levels of copper because goats need it for proper health.
-
-Sheep, on the other hand, are extremely sensitive to copper. Even small amounts can build up in their liver over time and eventually cause copper toxicity, which can be fatal.
-
-If you're sharing feed between goats and sheep, look for formulas labeled "sheep-safe" or check the copper content on the tag. Anything above 20 ppm copper is risky for sheep.
-
-Some farmers get around this by buying separate mineral supplements for each species. It costs a bit more, but it could save you from losing animals down the road.
-
-## Key Takeaways
-
-Sheep can eat good food, but there are some risks associated with feeding them goat food.
-
-When feeding goat food to sheep, be sure to choose a quality product that is designed specifically for sheep.
-
-This will help make sure that the protein and other nutrient levels in the food are appropriate for your flock.
-
-Start by slowly introducing the new food into their diet, gradually increasing the amount over time. This will help them adjust to the new food without experiencing any digestive upset.
-
-Finally, pay close attention to your goats' condition and monitor for any signs of health problems after changing their diet. If you notice anything out of the ordinary, be sure to consult with a veterinarian or other animal expert for guidance on how to proceed.
+But never, ever share minerals between goats and sheep. Use sheep-safe minerals as the default for mixed herds and give your goats their copper separately through boluses.

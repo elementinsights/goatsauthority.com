@@ -38,108 +38,44 @@ faq:
     answer: "Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals."
 ---
 
-You may be wondering whether or not goats can get the bubonic plague. And if so, what are the things you need to consider before keeping goats as pets?
-
-We will answer all of your questions regarding goats and the bubonic plague in this article. And also we'll provide some tips on how to keep your goats healthy and safe from this disease.
+Bubonic plague in goats is something you'll probably never deal with in your entire life of keeping goats. It's technically possible, but the odds are about as slim as it gets.
 
 ## Can goats get the bubonic plague?
 
-If you live in an area where the bubonic plague is present, there are some things you can do to protect your goats. First, you should get them vaccinated against the disease.
+Goats are mammals, so they can theoretically be infected by Yersinia pestis, the bacterium that causes bubonic plague. In practice, though, cases in domestic goats are vanishingly rare.
 
-You should also avoid letting them roam free in areas where there is a risk of exposure to infected animals.
-
-So, it is important to take some precautions if you live in an area where the bubonic plague is present. But if you do, there is no reason why you can't enjoy having goats as pets.
+Plague primarily cycles through wild rodent populations, like prairie dogs and ground squirrels, and gets transmitted by their fleas. Goats are not a natural host for this disease and are considered dead-end hosts, meaning they don't efficiently spread it further.
 
 ## What is the bubonic plague and what are the symptoms of this disease in goats?
 
-The bubonic plague is a disease that affects both humans and animals. It is caused by the bacteria Yersinia pestis.
+Bubonic plague is caused by the bacterium Yersinia pestis and has been responsible for some of history's worst pandemics, including the Black Death of the 1300s. Today it still exists in parts of the American Southwest, Central Asia, and parts of Africa, but modern antibiotics make it treatable.
 
-Symptoms of the bubonic plague in goats include fever, lethargy, loss of appetite, and enlarged lymph nodes.
-
-In some cases, the lymph nodes may become pus-filled and bleed. The disease can be transmitted from animals to humans through contact with infected body fluids or tissues.
-
-If left untreated, the bubonic plague can be fatal. Early diagnosis and treatment are essential for both animals and humans who are infected.
-
-The three primary plague subtypes are bubonic, septicemic, and pneumonic. The most prevalent type of plague in both people and animals is bubonic.
-
-Septicemic plague happens when the bacteria enters the bloodstream and spreads throughout the body, marked by swollen lymph nodes, or "buboes." The most harmful variety of plague, pneumonic plague, is distinguished by a lung infection.
-
-This particular plague is frequently lethal and can spread through the air. All three plague varieties are dangerous illnesses that need to be treated very away.
-
-The bubonic plague was responsible for some of the deadliest pandemics in history, including the Black Death of the 14th century. Today, it is relatively rare due to advances in medicine and sanitation.
-
-However, it still occurs in parts of Africa, Asia, and South America.
-
-In recent years, there have been a few cases of bubonic plague in the United States, mostly in rural areas where rodents are common.
-
-If you think you or your animal has come into contact with someone or something that carries the bubonic plague, it’s important to see a doctor or a goat expert immediately.
-
-With early diagnosis and treatment, the disease can be successfully treated in most cases.
+If a goat did somehow contract it, symptoms would include sudden high fever, loss of appetite, lethargy, and swollen lymph nodes. These symptoms overlap with a dozen more common goat diseases, which is why plague in goats almost never gets considered as a diagnosis.
 
 ## How does the bubonic plague spread and can it be prevented or treated in goats?
 
-The bubonic plague is a bacterial infection that is spread by fleas. When an infected flea bites a goat, the bacteria enter the goat's bloodstream and begin to multiply.
+The disease spreads through flea bites from infected rodent fleas. A goat would need to be bitten by a flea that recently fed on an infected rodent, which is an unusual chain of events for most farm settings.
 
-The bacteria then travel to the lymph nodes, where they cause the nodes to swell and become painful. In some cases, the infection can spread from the lymph nodes to the lungs, causing pneumonia.
-
-There is no specific treatment for the bubonic plague, but antibiotics may be used to help control the infection. Vaccinated against the disease.
-
-There is no specific treatment for the bubonic plague, but antibiotics may be used to help control the infection. Vaccination is the best method of prevention.
+Prevention comes down to controlling rodent populations around your barn and feed storage areas. Keep grain in sealed containers, clear brush piles where rodents nest, and use appropriate rodent control measures around your property.
 
 ## What should goat owners do if they suspect their pet has contracted the bubonic plague?
 
-Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals.
+If your goat has sudden fever and swollen lymph nodes and you live in a plague-endemic region like parts of New Mexico, Arizona, or Colorado, contact your veterinarian and local public health department. This is one of those situations where you don't wait and see.
 
-Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and swollen lymph nodes. If you suspect that your goat has bubonic plague, it is important to seek veterinarian care immediately.
-
-The disease can be treated with antibiotics, but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
-
-By taking these steps, you can help to protect your goats from this deadly disease.
+Plague is treatable with antibiotics when caught early. It's also a reportable disease, meaning your vet is required to notify health authorities, which helps protect both your other animals and your family.
 
 ## Are there any other diseases that can affect goats and how can they be prevented/treated?
 
-There are a variety of diseases that can affect goats. Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease.
+The diseases you should actually worry about are far more common. Pneumonia, enterotoxemia (overeating disease), and caseous lymphadenitis (CL) are the ones that regularly show up in goat herds.
 
-Pneumonia is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
-
-Enterotoxemia is a bacterial infection that affects the digestive system. Johne's disease is a chronic bacterial infection that primarily affects the intestines.
-
-There are a variety of ways to prevent and treat these diseases.
-
-Pneumonia can be prevented by vaccination and treated with antibiotics. Enterotoxemia can be prevented by vaccination and treated with antibiotics.
-
-Johne's disease can be treated with antibiotics, but there is no effective vaccine available.
+A basic CDT vaccination covers clostridial diseases including enterotoxemia and tetanus. Good biosecurity practices, like quarantining new animals and keeping living areas clean and dry, go a long way toward preventing respiratory infections and other common problems.
 
 ## Tips on keeping your goats healthy and safe from all diseases.
 
-Keeping your goats healthy and safe from all diseases is important for several reasons. First, healthy goats are more productive and provide more milk, meat, and fiber than sick ones.
+Keep your goats on a regular vaccination and deworming schedule based on your vet's recommendations for your area. Clean, dry housing and access to fresh water are the foundation of a healthy herd.
 
-Second, healthy goats live longer and require less veterinarian care, which saves you money in the long run.
+Control rodents around your barn and hay storage, not because of plague, but because rodents contaminate feed and spread other diseases that are far more likely to affect your goats.
 
-Third, diseases can spread quickly among goats, so it is important to do everything you can to prevent them from getting sick in the first place. Fortunately, there are a few simple steps you can take to keep your goats healthy and disease-free.
+## Final Thoughts
 
-First, make sure they have access to clean water at all times. Goats are very fond of water and will drink a lot of it, so it is important to make sure their water source is clean and free of contaminants.
-
-Second, keep their living area clean and free of debris. Debris can harbor disease-causing parasites, so it is important to remove it on a regular basis.
-
-Finally, provide your goats with a balanced diet that includes plenty of fresh grass or hay. A healthy diet will help them stay strong and resistant to disease.
-
-By following these simple tips, you can help keep your goats healthy and safe from all diseases.
-
-### How Common Is Bubonic Plague in Domestic Goats?
-
-In reality, cases of bubonic plague in domestic goats are extremely rare. The vast majority of plague cases in animals are found in wild rodents, prairie dogs, and ground squirrels.
-
-Most domestic goats will never encounter the disease during their lifetime. The risk increases slightly if you live in areas where wild rodent populations are known to carry the plague, such as parts of the American Southwest, certain regions of Africa, and Central Asia.
-
-If your goats share pastureland near wild rodent habitats, that's when you should be most cautious. Keeping rodent populations under control around your barn and feed storage areas is one of the most practical steps you can take.
-
-## Quick Recap
-
-Goats can get the bubonic plague, but it is a rare disease that can be treated with antibiotics. Vaccination is the best method of prevention.
-
-If you suspect your goat has the bubonic plague, seek goat expert care immediately.
-
-In addition, take precautions to prevent your other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
-
-By taking these steps, you can help to protect your goats from this deadly disease.
+Don't lose sleep over bubonic plague in your goat herd. Focus your energy on the diseases that actually threaten goats every day, like parasites, pneumonia, and clostridial infections. Those are the battles worth fighting.

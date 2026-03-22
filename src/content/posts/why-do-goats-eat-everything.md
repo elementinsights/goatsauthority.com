@@ -37,104 +37,48 @@ faq:
   - question: "What to feed a goat?"
     answer: "Goats are interesting creatures. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses."
 ---
-Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners.
+Here's the truth: goats don't actually eat everything. That old image of a goat chomping on a tin can is mostly a myth.
 
-Goats will consume almost anything, including paper, plants, clothes, and even furniture. Some even refer to them as "the ultimate herbivores."
-
-What then makes goats so inclined to nibble on anything they can find? A more pressing question is if there's anything we can do to stop them.
-
-In order to get some answers, let's take a closer look at this intriguing creature.
+Goats are browsers, not garbage disposals. They're picky about what they swallow, even if they put their mouth on everything in sight.
 
 ## Why do goats eat everything?
 
-This explains why it's common to observe goats chewing on items of furniture, clothing, or even paper. They are merely looking for food; they are not acting in an obnoxious manner.
+They don't. Goats taste things with their lips and tongue as a way of exploring their environment, the same way a toddler picks up objects and puts them in their mouth.
+
+They'll mouth a shirt sleeve, a feed bag, or a piece of cardboard, but they spit out most of what they don't actually want to eat. When you see a goat "eating" a tin can label, it's going after the glue on the paper, not the metal.
 
 ## What makes goats eat everything?
 
-Goats are often called "the lawnmowers of the animal kingdom" because they will pretty much eat anything. Goats are browsers, not grazers like cows.
+Goats are browsers, not grazers like cattle. They prefer shrubs, bark, weeds, brambles, and leafy branches over flat pasture grass. Given the choice between a lush lawn and a brushy hillside, a goat will head for the brush every time.
 
-This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation.
-
-Because of this, goats will often chew on whatever is around them, including fence posts, trees, and even clothes. Some people think that goats will eat anything because they're curious or mischievous, but the reality is that goats simply have a very different diet than other animals.
-
-In order to stay healthy, they need to consume a wide variety of plants. So, if you see a goat munching on your jacket, don't be too alarmed - it's just trying to get its daily dose of greens.
-
-While goats will pretty much eat anything, there are some things that they should avoid. Goats are susceptible to copper toxicity, so they should not consume any food or water that contains high levels of copper.
-
-In addition, goats should not eat avocados, as the pits can cause stomach blockages.
-
-Finally, goats should not eat any food that has mold or other fungi growing on it, as these can cause health problems. Although goats are known for their ability to eat almost anything, there are still some limits to what they can digest.
+This browsing instinct means they're always sampling new plants and testing different textures. Their natural curiosity leads them to investigate anything new in their environment, which gives the appearance of eating everything when they're really just checking things out. Their mobile upper lips are incredibly sensitive and help them sort through vegetation before they bite.
 
 ## The dangers of letting goats eat everything
 
-One of the dangers of letting goats eat everything is that they can destroy your vegetation. Goats are known for their insatiable appetites, and they will usually eat anything that they can reach.
+The real danger isn't that goats eat everything. It's that many common plants and yard items are toxic to them.
 
-This can include the leaves, stems, and even the roots of your plants. If you have a lot of goats, they can quickly strip your entire garden or field bare.
-
-In addition to destroying your vegetation, goats can also cause soil erosion.
-
-Their constant grazing can damage the grass, exposing the soil beneath to wind and rain. Over time, this can lead to significant erosion, which can make it difficult for new plants to take root.
-
-In severe cases, erosion can also lead to landslides.
-
-For this reason, it's important to be careful about how many goats you allow to graze in one area. Otherwise, you run the risk of damaging your land.
+Azaleas, rhododendrons, wild cherry leaves, and yew are all deadly to goats. Loose baling twine, plastic bags, and rubber bands can cause intestinal blockages if swallowed. You need to walk your pasture and remove anything that could harm a curious goat.
 
 ## How to stop goats from eating everything?
 
-If you have goats, chances are good that at some point they will try to eat something they're not supposed to. Whether it's a favorite sweater or a well-tended flower garden, goats will nibble on just about anything.
+Give them plenty of good browse and they'll leave most other stuff alone. A goat with access to brush, hay, and a variety of weeds is a satisfied goat that isn't going to chew your jacket. Boredom is the real culprit behind most destructive mouthing behavior.
 
-While this can be cute or even funny in some cases, it can also be problematic if your goats start eating things that are poisonous or harmful. So how can you stop goats from eating everything?
-
-One of the best ways to stop goats from eating everything is to provide them with plenty of food and water. Goats are browsers, which means they like to nibble on a variety of different plants.
-
-If you provide them with hay, grass, and other fresh browse, they'll be less likely to nibble on something they're not supposed to. In addition, make sure they have plenty of fresh water to drink.
-
-Goats are very thirsty creatures and will often eat things simply because they're thirsty. By giving them plenty of food and water, you'll help them stay healthy and satisfied so they won't feel the need to nibble on everything in sight.
-
-Of course, there will still be times when your goats decide to sample something they're not supposed to. In these cases, you'll need to take corrective action.
-
-If possible, remove the item in question from their reach.
-
-If that's not possible or if the item is something like a flower bed or garden, you may need fencing to keep them out. You can also train your goats using positive reinforcement; give them a treat when they don't nibble on something they're not supposed to.
-
-With time and patience, you can train your goats to only eat what's good for them.
+Fencing off your garden, flower beds, and any areas with toxic plants is the most reliable solution. You can't train curiosity out of a goat, but you can manage their environment so there's nothing dangerous within reach. Store feed bags, tools, and chemicals behind solid doors that goats can't open.
 
 ## What to feed a goat?
 
-Goats are interesting creatures. Though they are often thought of as dirty and smelly animals, they can actually be quite clean and have a variety of uses.
+Good quality grass hay or mixed hay should be the foundation of any goat's diet. Alfalfa hay works well for pregnant or lactating does but is too rich for most other goats.
 
-For example, goats can be used for their milk, meat, and fiber. They can also be used as pack animals or as companions.
-
-Regardless of their use, all goats need a balanced diet in order to stay healthy.
-
-A basic goat diet should consist of hay, fresh vegetables, and a small amount of grain. Goat hay is different from other types of hay, so be sure to purchase hay specifically designed for goats.
-
-Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating fruits and berries, so feel free to offer these as treats.
-
-As for grain, goats only need a small amount each day.
-
-Too much grain can lead to health problems, so it's best to consult with a veterinarian before feeding grain to your goat.
-
-In addition to a balanced diet, goats also need access to clean water at all times. Water plays an important role in helping goats stay hydrated and maintain proper body temperature.
-
-It's also essential for digesting food properly.
-
-For these reasons, it's important to make sure that your goat always has access to clean water.
+Fresh browse is what goats love most: brush, weeds, tree branches, and shrubs. Offer a loose goat mineral mix free-choice and always provide clean water. Grain should be limited and used mainly for milking does, growing kids, or goats that need extra calories.
 
 ## What not to feed a goat
 
-There are a few things you should avoid feeding your goat. One is anything that contains high levels of copper.
+Avoid feeding moldy hay or grain, as mold can cause listeriosis which is often fatal. Dog food, cat food, and chicken feed are all harmful to goats because of the copper and other ingredients formulated for different species.
 
-While copper is an essential nutrient for goats, too much can be toxic. Signs of copper toxicity include loss of appetite, lethargy, and weakness.
+Never feed lawn clippings, as the fermentation that starts immediately after cutting can cause deadly bloat. Avocado, rhubarb leaves, and anything from the nightshade family should be kept well away from your goats.
 
-Another thing to avoid feeding your goat is anything that is high in fat. Goats are prone to obesity, and a high-fat diet can lead to health problems such as liver disease.
+## Final Thoughts
 
-Finally, you should also avoid feeding your goat any moldy or spoiled food, as this can cause digestive upset. If you're unsure whether something is safe to feed your goat, it's always best to err on the side of caution and consult with a veterinarian.
+Goats are curious, not indiscriminate. They taste and test their world through their mouths, but they're actually quite selective about what they swallow.
 
-## 
-
-Goats are interesting creatures with a reputation for eating just about anything. While they can eat a wide variety of items, there are still some things that they should avoid.
-
-By providing them with plenty of food and water, you can help them stay healthy and satisfied so they won't feel the need to nibble on everything in sight. And if they do try to eat something they're not supposed to, you can take corrective action to stop them.
-
-With a little care and understanding, you can keep your goats healthy and happy while preventing them from destroying your property.
+Give them quality forage, keep toxins out of reach, and let them browse the way nature intended. A well-fed goat with plenty of variety rarely causes trouble. Once you understand that goats explore with their mouths the way dogs explore with their noses, their behavior makes a lot more sense.

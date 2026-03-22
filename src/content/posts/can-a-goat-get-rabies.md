@@ -40,106 +40,52 @@ faq:
     answer: "Though rabies is more commonly associated with dogs, any mammal can contract the virus. This includes goats, which are particularly susceptible to the disease. There are two primary methods of treating rabies in goats."
 ---
 
-Goats are fascinating animals known for their independence and are frequently utilized as working animals due to their strength and agility.
-
-But there's one frequently asked question that has been asked since a long time ago: can a goat get rabies? we will answer that question in detail, discussing the signs and symptoms of rabies in goats, how the disease is transmitted, and what treatments are available.
+Yes, goats can get rabies. It doesn't happen often, but when it does, the outcome is always the same and it's never good.
 
 ## Can a goat get rabies?
 
-There are three main ways that a goat can contract rabies.
+Rabies spreads through the bite of an infected animal, and goats are just as vulnerable as any other mammal. The most common carriers in rural areas are skunks, raccoons, bats, and foxes.
 
-The first is through contact with another animal that has the virus. This can occur if a goat comes into contact with the saliva of an infected animal, either through a bite or through something like sharing food or water bowls.
-
-The second way is through contact with infected tissue, such as when a goat scavenges on carcasses that haven't been properly disposed of.
-
-The third way is through contact with infected bats, which can happen if a bat roosts in a goat's shelter.
-
-While all of these methods are possible, they are also relatively unlikely. Because of this, while it's important to be aware of the risks, there's no need to panic if your goat comes into contact with another animal or bat.
+A goat doesn't need to be attacked by a dog to get rabies. One bite from a rabid bat roosting in your barn is enough to transmit the virus through saliva.
 
 ## What are the signs and symptoms of rabies in goats?
 
-Rabies is a serious disease that can affect any mammal, including goats. The virus is typically spread through the bite of an infected animal, and it can cause inflammation of the brain and spinal cord.
+The earliest sign is usually a change in behavior. A friendly goat may become withdrawn, or a shy one may suddenly act aggressive and charge at you.
 
-Early signs and symptoms of rabies in goats may include behavior changes, loss of appetite, and weakness. As the disease progresses, goats may become more aggressive and exhibit neurological symptoms such as paralysis.
+As the disease progresses, you'll notice excessive drooling, difficulty swallowing, and a strange stiff-legged walk. Paralysis sets in during the later stages, often starting in the hind legs and moving forward.
 
-Rabies is always fatal, so it's important to contact a veterinarian if you suspect that your goat has been exposed to the virus. Prompt treatment can help to prevent the spread of the disease and protect other animals in your herd.
-
-There are several ways to prevent rabies in goats. Vaccinating your herd is the most effective method of protection.
-
-If you live in an area where rabies is prevalent, it's also a good idea to keep your goats confined to a secure area. This will help to reduce the risk of exposure to infected animals.
-
-Finally, prompt treatment of any wounds is essential. Any wound that bleeds should be cleaned with soap and water, and a professional opinion should be sought if there's any suspicion of rabies exposure.
-
-By taking these precautions, you can help to keep your goats safe from this deadly disease.
+Some goats will press their heads against walls or walk in circles. Within about 10 days of symptoms appearing, the animal will die.
 
 ## How long does it take for rabies to show up in goats?
 
-The incubation period is typically two to six weeks. However, there have been rare cases where symptoms have appeared as early as four days or as late as eight weeks after exposure.
+The incubation period runs anywhere from two to six weeks after the bite. In rare cases, symptoms have shown up as early as four days or as late as eight weeks.
 
-Early symptoms of rabies in goats may include fever, loss of appetite, weakness, and paralysis. As the disease progresses, goats may become more aggressive and exhibit strange behavior, such as walking in circles or trying to climb walls.
-
-While rabies is typically transmitted through the bite of an infected animal, it's possible for the virus to be spread through other means.
-
-For example, if an animal with rabies saliva comes into contact with an open wound or mucous membrane (such as the eyes or nose), there's a risk of infection.
-
-Transmission from mother to offspring is also possible, though it's uncommon. There's no cure for rabies once symptoms appear, but early treatment may help to prolong your goat's life.
+During this window, the virus is traveling along the nerves toward the brain. Your goat may look perfectly healthy the entire time, which is what makes rabies so dangerous.
 
 ## How is rabies treated in goats?
 
-Though rabies is more commonly associated with dogs, any mammal can contract the virus. This includes goats, which are particularly susceptible to the disease.
+Here's the hard truth: there is no treatment for rabies once symptoms appear. The disease is 100% fatal at that point, in goats and in every other mammal.
 
-There are two primary methods of treating rabies in goats.
+The only real defense is prevention through vaccination. A killed rabies vaccine is available for goats and should be given annually, especially if you live in an area with wildlife pressure.
 
-The first is to vaccinate all healthy animals in the herd. This creates what is known as "herd immunity," which helps to protect against the spread of the disease.
-
-The second method is to isolate any animal that shows signs of rabies and to put it down immediately. This helps to prevent the virus from spreading further.
-
-While there's no cure for rabies, these measures can help to control the disease and to protect both humans and animals from its deadly effects.
-
-## What are the side effects of rabies treatment in goats?
-
-Though rabies is rare in goats, it's still a serious concern for farmers and ranchers. If a goat is bitten by a rabid animal, there's a high risk of the disease being passed on.
-
-Treatment for rabies involves a series of injections, which can be costly and time-consuming. In addition, there are a number of side effects that can occur as a result of the treatment.
-
-These include fever, swelling at the injection site, and lethargy. In some cases, goats may also experience digestive problems or muscle weakness.
-
-While these side effects are typically mild, they can still be disruptive to the animal's health.
-
-Because of that, farmers must weigh the risks and benefits of rabies treatment before deciding whether or not to vaccinate their flock.
-
-Other side effects may include:
-
-- Allergic reactions
-- Neurological problems
-- Death
+If one of your goats gets bitten by a wild animal, call your vet immediately. They may recommend a booster shot and a quarantine period to watch for symptoms.
 
 ## What are the chances of a goat surviving rabies?
 
-The chances of a goat surviving rabies are very low. The virus attacks the nervous system and causes the animal to become agitated and aggressive.
+Zero. No goat has ever survived clinical rabies, and no treatment exists that can save one once neurological symptoms begin.
 
-Once symptoms appear, the disease is almost always fatal. There's no effective treatment for rabies, and the only way to prevent the disease is to vaccinate animals before they are exposed to the virus.
-
-Goats are particularly vulnerable to rabies because they often live in close proximity to other animals, such as dogs and bats, which can carry the virus.
-
-In addition, goats are often kept as livestock in areas where human populations are dense, increasing the chances that a sick animal will come into contact with people. The best way to protect goats from rabies is to make sure that they are vaccinated against the virus.
+That's why vaccination matters so much. It costs a few dollars per goat per year, and it's the only thing standing between your herd and a guaranteed death sentence from this virus.
 
 ## Can humans get rabies from goats?
 
-it's possible for humans to get rabies from goats. There are a few different ways this can happen.
+Yes, a rabid goat can transmit the virus to humans through a bite or through saliva contacting an open wound. This is rare, but it has happened.
 
-First, if a person is bitten by a goat that has rabies, the virus can be transmitted through the person's bloodstream.
+If you suspect a goat in your herd has rabies, do not handle it without gloves. Report any suspected rabid animal to your local animal control office right away.
 
-Second, if a person comes into contact with the saliva of a rabies-infected animal, they may be exposed to the virus.
-
-Finally, if a person eats the flesh of an infected animal, they may also contract rabies. Though it's possible to get rabies from goats, it's important to remember that this is not common.
-
-In most cases, humans only contract rabies after being exposed to the saliva or blood of an infected animal through a bite or open wound.
-
-As such, it's important to avoid contact with any animals that may be infected with rabies. If you must come into contact with an infected animal, be sure to wear gloves and wash your hands thoroughly afterward.
+Anyone who gets bitten by a potentially rabid animal needs to wash the wound thoroughly with soap and water and get to a doctor for post-exposure prophylaxis. For humans, rabies is treatable if you act fast before symptoms develop.
 
 ## Final Thoughts
 
-The best way to protect goats from rabies is to make sure that they are vaccinated against the virus. If a goat is bitten by a rabid animal, there's a high risk of the disease being passed on.
+Rabies is rare in goats, but it's 100% fatal once symptoms show. Vaccinate your herd every year, keep an eye out for wild animals acting strangely around your property, and call your vet if any goat gets bitten by wildlife.
 
-In the end, preventing rabies is the best way to protect both humans and animals from this deadly disease.
+Prevention is the only tool you have against this disease. There are no second chances with rabies.

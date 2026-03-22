@@ -40,92 +40,48 @@ faq:
     answer: "There are a few key things to keep in mind when taking care of goats for milk production. First and foremost, it is essential to provide your goats with a nutritious, high-quality diet."
 ---
 
-You may be wondering whether or not you can raise goats for milk protein. And if so, what are the things you need to consider before getting started?
+Yes, you can raise goats for milk protein. A single cup of goat milk packs about 8.7 grams of protein, and it's easier to digest than cow milk for most people.
 
-Here's what you need to know.we will answer those questions and provide you with additional information and resources on raising goats for milk protein.
+If you've got a little land and want a steady supply of fresh, protein-rich milk, a few dairy goats can get you there.
 
 ## Can I raise goats for milk protein?
 
-In addition, goats are a source of essential fatty acids, which are necessary for the proper development and function of the brain and nervous system, as well as for the production of hormones.
+Goat milk is a solid source of high-quality protein. The protein in goat milk is primarily casein, and most of it is the A2 type, which tends to sit easier in the stomach than the A1 casein found in most cow milk.
 
-Finally, goats are a good source of vitamins and minerals, including vitamin A, which is important for vision and immune function; vitamin D, which is necessary for bone health; and calcium, which is necessary for bone and teeth health.
+You can also make whey protein from goat milk if you're into fitness or homesteading. The fat globules in goat milk are smaller than in cow milk, which helps your body break down and absorb the protein more efficiently.
 
 ## What are the things you need to consider before getting started?
 
-There are a few things you need to consider before getting started with raising goats for milk protein.
+You'll need at least one acre for two to three does, which is the minimum herd size since goats are social animals. Each doe needs a dry shelter, access to pasture or quality hay, fresh water, and loose minerals formulated for goats.
 
-First, you need to make sure that you have enough space for the goats. They will need access to pasture or hay, and a shelter that is large enough for them to lie down in and move around freely.
-
-You will also need to have access to fresh, clean water, and a source of salt or minerals. Goats need to be fed a balanced diet of hay, pasture, and grain.
-
-You should talk to your veterinarian or a goat nutritionist to develop a feeding plan that is right for your goats.
-
-Finally, you will need to decide whether you want to milk your goats by hand or with a machine. If you are going to milk by hand, you will need to learn how to do it correctly so that you don't hurt the goat or yourself.
-
-If you are going to use a machine, you will need to purchase one that is designed for milking goats.
-
-Raising goats for milk protein is a rewarding experience, and with proper care and management, it can be a successful enterprise. Use the resources below to learn more about raising goats for milk protein.
+Dairy goats also need to be bred each year to keep producing milk. That means you'll either need a buck or access to one, and you'll need a plan for the kids that come along every spring.
 
 ## What is a goat milk protein and what are its benefits?
 
-At its most basic level, goat milk protein is simply the proteins that are found in goat milk. These proteins play a number of important functions within the body, from supporting the growth and development of new cells to helping to maintain proper muscle functioning.
+Goat milk protein contains all the essential amino acids your body needs to build and repair muscle. It's a complete protein source, similar to cow milk, but with a digestibility advantage thanks to those smaller fat and protein molecules.
 
-One of the biggest benefits of consuming goat milk proteins is that they are very easily absorbed by the body. Because they are smaller and less complex than cow milk proteins, they can be quickly broken down and used by our cells.
+People who struggle with cow milk often do fine with goat milk. The A2 beta-casein in goat milk causes less gut inflammation for many folks, and the lower lactose content helps too.
 
-This makes them especially beneficial for use in sports nutrition, as well as for individuals who have difficulty digesting larger protein molecules.
+## How to care for goats to ensure a healthy milk supply?
 
-In addition to their ability to support cellular health and aid in nutrient absorption, goat milk proteins also contain a number of important nutrients that play key roles in overall health and well-being.
+Good milk starts with good feed. Your does need quality hay, access to browse, fresh water, and a grain ration during milking season to keep up with the energy demands of milk production.
 
-These nutrients include minerals like selenium, zinc, magnesium, potassium, iron, and copper; as well as vitamins like A, D, B6, and riboflavin.
-
-By consuming these nutrients through goat milk proteins on a regular basis, we can support our bodies in a variety of ways including immune function, cardiovascular health, bone strength, cognitive function, and healthy skin and hair.
-
-So whether you are an athlete looking for an edge or just want to improve your overall wellness, adding goat milk protein to your diet may be an effective way to do so.
-
-## How to care for goats to make sure a healthy milk supply?
-
-There are a few key things to keep in mind when taking care of goats for milk production. First and foremost, provide your goats with a nutritious, high-quality diet.
-
-This should include plenty of high-fiber feeds like hay and grass, as well as fresh water and a variety of supplemental nutrients like vitamins, minerals, and probiotics.
-
-Similarly, regular veterinary checkups are important for ensuring the health and wellness of your herd.
-
-By keeping these factors in mind and providing attentive care to your goats, you can help make sure that they produce healthy, plentiful milk supplies well into the future.
+Regular hoof trimming, deworming, and annual vet checkups keep your herd healthy and producing well. Stressed or sick goats drop milk production fast, so staying on top of health issues pays off directly in the pail.
 
 ## Tips for milking goats and collecting their milk
 
-Regarding milking goats and collecting their milk, there are a few key things that you need to keep in mind. First and foremost, it is important to be gentle when working with your goats.
+Milk your does at the same time every day, ideally twice daily about 12 hours apart. Consistency matters because irregular milking schedules reduce output and can lead to mastitis.
 
-Whether you're petting them or taking their milk, always approach them in a calm and composed manner. Ideally, you should also use a milking bucket or other devices to collect the milk, rather than simply squeezing it out by hand.
-
-This helps to make the process quicker and more efficient, as well as reducing any risk of injury for you or the goat.
-
-It is important to be aware of any health issues that your goats may have so that you can avoid these areas when taking their milk. With proper care and attention, but, milking goats and collecting their milk should be an easy and enjoyable process.
+Keep everything clean. Wash the udder before milking, use a strip cup to check for abnormalities in the first few squirts, and strain the milk through a filter into a sanitized glass jar. Chill it immediately in ice water for the best flavor.
 
 ## How to store and use goat milk protein?
 
-There are a few different methods that can be used to store and use goat milk protein. The first thing to consider is the type of container in which you will be storing your goat milk protein.
+Fresh goat milk keeps about a week in the fridge when chilled quickly after milking. Store it in glass mason jars rather than plastic, which can absorb and transfer off-flavors.
 
-Generally, it is recommended to use glass or stainless steel containers, as these materials offer better protection from oxygen and other damaging elements.
-
-After choosing your container, you will need to decide how much goat milk protein to store at a time. Some people prefer making smaller batches that can be consumed quickly, while others like having larger quantities on hand for meal preparation or use in recipes.
-
-Once you have decided on a storage method, it is important to follow any specific storage instructions related to your particular goat milk protein product, such as refrigerating or freezing it.
-
-Whether using goat milk protein for drinking or for cooking, remember that this nutrient-rich resource should always be stored and used with care. With these tips in mind, you can enjoy all the benefits of this versatile and powerful food.
-
-## When is the best time to consume goat milk protein?
-
-There is no definitive answer to this question, as the best time to consume goat milk protein will vary depending on your individual needs and preferences.
-
-However, many people find that consuming goat milk protein in the morning provides them with sustained energy throughout the day. Some people prefer to drink it before or after exercise, as it can help to improve recovery time and reduce muscle soreness.
-
-So, the best time to consume goat milk protein is whenever you feel that you would benefit from its nutrients and properties. By experimenting with different times of day, you can find what works best for you and help make sure that you are getting the most out of this powerful food.
+You can freeze goat milk for up to six months if you need to stockpile it. For protein specifically, many homesteaders make yogurt, kefir, or soft cheese from their milk, all of which concentrate the protein content and add probiotics to boot.
 
 ## Final Thoughts
 
-You can raise goats for milk, meat, or fiber. Each goat breed has different characteristics that make it better suited for one purpose or another.
+Raising goats for milk protein is completely doable on a small homestead. Two or three good dairy does from breeds like Nigerian Dwarf, Nubian, LaMancha, or Alpine will give you one to three quarts of protein-rich milk per day each.
 
-However, all goats need proper care and attention in order to stay healthy and produce high-quality milk, meat, or fiber.
-
-It is important to be aware of the various health concerns that can affect goats so that you can take steps to prevent these issues. With proper care, raising goats can be a rewarding and enjoyable experience.
+Keep in mind that most states require licensing if you want to sell raw or pasteurized goat milk. For personal use, though, you just need the land, the goats, and the commitment to milk them every single day.

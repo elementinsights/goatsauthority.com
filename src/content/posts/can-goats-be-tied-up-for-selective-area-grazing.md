@@ -37,104 +37,48 @@ faq:
   - question: "What are the best ways to tie up goats?"
     answer: "The best way to tie up goats will depend on the situation. If you are trying to keep them in a specific area, then using a portable electric fence or tether system is a good option. If you just need to keep them away from something, then using a physical barrier is the best option."
 ---
-Goats are amazing animals, as we all know. They make excellent friends because they are intelligent and curious.
+Yes, you can tether goats for targeted grazing, and plenty of people do it. But tethering comes with real risks that you need to manage carefully.
 
-But is it possible to tie goats up for restricted area grazing? If so, what are the best ways to go about doing it?
-
-we'll examine the solutions to these and other concerns while also offering you some useful advice on how to tie up your goats.
+Here's how to do it right and when you should consider safer alternatives.
 
 ## Can goats be tied up for selective area grazing?
 
-Keep in mind, it's important to remember that goats are herd animals and they do not like to be left alone. So, if you are going to tie up your goats for grazing, it's best to do it in a way that allows them to still see and interact with their herd mates.
+Tethering works for clearing specific patches of brush, weeds, or overgrown areas where permanent fencing isn't practical. Many goat owners use this method to clean up fence lines, clear around buildings, or manage vegetation on steep slopes.
 
-One way to achieve this is to use a portable electric fence. You can set up the fence around the perimeter of the area you want them to graze in and then move it as needed.
-
-This will allow your goats to graze in a specific area while still being able to see and interact with their herd mates.
-
-Another way to tie up your goats for grazing is to use a tether system. This involves attaching a rope to each goat's collar and then staking the rope to the ground.
-
-The goat will then have a limited range of movement, but will still be able to see and interact with their herd mates.
-
-Whichever method you choose, it's important to make sure that your goats have access to food, water, and shelter. They should also be able to lie down and move around freely.
+The catch is that a tethered goat is a vulnerable goat. It can't run from dogs, coyotes, or other predators, and it can get tangled and choke if the setup isn't right.
 
 ## What is selective area grazing and why is it beneficial for goats?
 
-Selective area grazing is a management technique that involves carefully controlling the access of goats to pasture.
+Selective area grazing means controlling exactly where your goats eat rather than letting them roam a whole pasture. This gives overgrazed areas time to recover and lets you target problem spots like poison ivy patches or invasive brush.
 
-Goats are allowed to graze in a specific area for a set period of time, after which they are moved to another area.
-
-This rotation helps to make sure that the goats do not overgraze any one area, and it also gives the grazed areas time to recover.
-
-Selective area grazing can be an extremely effective way to manage pasture, and it has a number of benefits for goats.
-
-First, it can help to improve the quality of the pasture, as goats will only graze the tastiest and most nutritious plants.
-
-Second, it can help to reduce the spread of disease, as goats will not be able to contaminate the entire pasture with their saliva and feces.
-
-Finally, selective grazing can help to keep goats healthy and content, as they will have access to a variety of different plants.
+Goats prefer browse over grass, so they're naturally good at clearing shrubs and weeds that cattle and sheep won't touch. Rotating their grazing area also breaks parasite cycles by keeping them off contaminated ground.
 
 ## How do you go about tying up your goats for restricted area grazing?
 
-Goats are not particularly picky eaters. However, they can very quickly devastate a small area of land if left unchecked.
+Use a heavy-duty swivel stake driven deep into the ground and attach a 15 to 20 foot chain. Don't use rope because goats will chew through it within an hour.
 
-One way to help prevent this is to provide them with a restricted grazing area. This can be accomplished by tying them up or building a fence around the perimeter of the area.
-
-When tying up goats, it's important to use a strong rope or cord that is at least twice as long as the goat's body.
-
-The cord should be tied securely to a nearby tree or post, leaving enough slack for the goat to lie down and move around comfortably. It's also important that the goat has access to food and water.
-
-Once the goat has been secured, it will be able to graze safely without damaging the surrounding area.
+The chain should have a swivel at both ends, one at the stake and one at the collar, to prevent tangles. Walk the entire radius and remove any objects the chain could wrap around, including rocks, stumps, posts, and low branches.
 
 ## What are the best ways to tie up goats?
 
-The best way to tie up goats will depend on the situation. If you are trying to keep them in a specific area, then using a portable electric fence or tether system is a good option.
+A flat nylon or leather collar works better than a rope halter for tethering. The collar should fit snugly enough that the goat can't slip out but loose enough to fit two fingers underneath.
 
-If you just need to keep them away from something, then using a physical barrier is the best option.
-
-Here are some tips for tying up your goats:
-
-- Make sure the area is safe. There should be no sharp objects or anything that could hurt the goat.
-- Make sure the area is free of debris. Goats like to eat everything, so you don't want them eating something they shouldn't.
-- Make sure the area is big enough. Goats need room to move around and lie down.
-- Use a strong rope. Goats are strong animals and can pull hard.
-- Use a comfortable collar. Goats should be able to wear their collar for long periods of time.
-- Use a stake that is big and strong enough. Goats can pull hard, so the stake needs to be able to hold them.
-- Check the area regularly. Goats are curious animals and will try to escape if they can.
+Place shade and a water bucket within reach of the tether radius. Check on your goat every 30 minutes at minimum, and never tether a horned goat near wire fencing because the horns will get tangled.
 
 ## Can goats be tied up for milking?
 
-Goats can be tied up for milking. In fact, it's often necessary to tie them up in order to milk them effectively.
+A milking stand with a head stanchion is the standard setup, and it works far better than tying a goat to a post. The goat walks up the ramp, puts its head through the stanchion to reach the grain, and you close the latch.
 
-The best way to tie up a goat for milking is to use a tether system. This involves attaching a rope to the goat's collar and then staking the rope to the ground.
-
-The goat will then have a limited range of movement, but will still be able to see and interact with their herd mates.
-
-it's important to make sure that the area is safe and free of debris. You should also make sure that the goat has access to food, water, and shelter.
-
-They should also be able to lie down and move around freely.
+If you don't have a milking stand, you can tie a goat to a sturdy post or fence rail with a short lead while you milk. Keep some grain in a bucket to keep her occupied and calm during the process.
 
 ## Can goats be tied up for transport?
 
-While goats are not typically thought of as companion animals, in recent years they have become popular pets.
+Don't tie goats down during transport. They need to be able to shift their weight, brace themselves on turns, and lie down when they want to rest.
 
-Goats are intelligent and social creatures, and they can bond with their owners just like any other pet. However, goats need plenty of room to roam, and they are not well suited to life in a small enclosure.
-
-For this reason, you need to consider whether goats can be tied up for transport before bringing one home.
-
-Goats are naturally curious creatures, and they will often try to explore their surroundings. This can lead to them getting lost or wandering into unsafe areas.
-
-If a goat is tied up for transport, it will be unable to move around and explore its new surroundings.
-
-This could lead to the goat feeling stressed and anxious, which could negatively impact its health. In addition, tying up a goat for transport could also prevent it from being able to lie down or stand up properly, which could cause it discomfort.
-
-For these reasons, it's generally advisable to avoid tying up goats for transport. If you do need to transport a goat, it's best to do so in a secure enclosure where the animal has plenty of room to move around.
+Use a secure crate, dog kennel, or livestock trailer with solid sides instead. If you're hauling goats in a truck bed, use a topper or stock rack so they can't jump out, but leave them loose inside.
 
 ## Final Thoughts
 
-Goats are social creatures that need plenty of room to roam. They are curious about nature and will often try to explore their surroundings.
+Tethering works for short, supervised grazing sessions during daylight hours. Never tether overnight because predators are the number one risk, and a chained goat has zero ability to flee.
 
-For these reasons, it's generally not advisable to tie up goats for transport or for extended periods of time. If you do need to tie up a goat, it's important to make sure that the area is safe and free of debris.
-
-The goat should also have access to food, water, and shelter.
-
-If you have any further questions about goats, or if you would like to learn more about their care, please contact a local veterinarian or animal rescue organization.
+Portable electric fencing is a safer alternative for targeted grazing if you graze the same areas regularly. A couple of rolls of electric netting and a solar charger give you all the control of tethering without the predator and tangling risks.
