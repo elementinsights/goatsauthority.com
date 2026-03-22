@@ -37,116 +37,42 @@ faq:
   - question: "What are some common problems with goat nursing?"
     answer: "Nursing is a vital part of goat care, but it can also be one of the most challenging. There are several common problems that can occur, including poor milk production, mastitis, and sore nipples."
 ---
-It's easy to think of goats as just animals that provide milk and meat, but did you know that they also have an important role in agriculture? Goats are great for clearing brush and weeds, and they can even be used to clear landmines.
-
-They're also useful for their milk, meat, and hides.
-
-we'll answer some common questions about goats, including how many teats they have.
+Goats have 2 functional teats, and that's the standard across all breeds. You'll sometimes see goats with 3 or 4 teats, but there's more to the story than just counting them.
 
 ## How many teats do goats have?
 
-In addition to the number of teats, another factor that determines how much milk a goat can produce is the size of the teat. A large teat can hold more milk than a small teat, so a goat with four large teats will likely produce more milk than a goat with six small teats.
+The normal number is 2, located on the udder between the back legs. Both does and bucks have 2 teats, though on bucks and wethers the teats are small and rudimentary since males obviously don't produce milk.
 
-## What are goat teats used for?
+Supernumerary teats, which are extra teats beyond the standard pair, are actually pretty common. A goat might have 3 or even 4 teats, but the extras are usually non-functional little nubs with no working milk duct behind them.
 
-Goat teats are used for a variety of purposes, the most common of which is milking. Goats are often milked by hand, and their small teats make this an easy task.
+## What extra teats mean for dairy goats
 
-In addition to milking, goat teats can also be used to provide nourishment for young goats. When a goat is first born, its mother will clean its teats and then offer them to the kid to suckle on.
+In dairy breeds, extra teats are considered a fault. They interfere with machine milking because the milking cup can't get a proper seal when there's a stray teat in the way.
 
-This provides the kid with essential colostrum, which helps to boost immunity and protect against disease. Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats.
+Many dairy farmers have a vet clip off extra teats when kids are just a few days old. It's a quick snip at that age and prevents problems once the doe enters the milking string later on. If you're buying dairy kids, always check teat structure before you hand over money.
 
-Even so, goat teats can still play an important role in social interactions between goats.
+## Why teat structure and placement matter
 
-For example, adult goats will often gently nibble on each other's teats as part of their bonding ritual. Goat teats are thus multi-purpose organs that serve a variety of functions within the goat community.
+Not all teats are built the same, and if you plan to milk by hand, the shape matters more than you'd think. Teats that point straight down are ideal because your hand wraps around them naturally and you can get into a steady rhythm.
 
-## What is the average number of kids a goat can give birth to?
-
-Goats are experts at giving birth. A doe (female goat) can have anywhere from 1-4 kids in a single birth, with the average being 2.3.
-
-Some recorded cases show does giving birth to up to 7 kids, but this is very rare. Triplets and quads are much more common and often happen without any complications.
-
-While multiple births are the norm for goats, there are some does who only have a single kid. This is more common in first-time mothers or does over the age of 10.
-
-Does will also sometimes have twins, although this is less common than triplets or quads. Regardless of how many kids a doe has, they are all capable of producing plenty of milk to feed their young.
-
-So why do goats have so many kids? The answer lies in their evolution.
-
-Goats are members of the Caprinae family, which includes other small ruminants like sheep and deer. This family of animals is characterized by having multiple births, as it increases the chances of at least some of the offspring surviving to adulthood.
-
-In contrast, animals like cats and dogs usually only have one or two offspring at a time, as they can better care for a smaller number of young.
-
-While having multiple kids may be advantageous from an evolutionary standpoint, it can also be difficult for the mother goat. Multiple births put a lot of strain on the doe's body, and can sometimes lead to complications during labor.
-
-For this reason, it's important to make sure that does have access to plenty of food and water during pregnancy, as well as during the months after they give birth. With proper care, does can successfully raise large families year after year.
+Teats that point outward or forward are a headache. You'll tire out faster, and the doe will get antsy while you fumble around trying to get a grip. Teat size is another factor, especially with small breeds like Nigerian Dwarfs where the teats can be too tiny for big hands.
 
 ## What are some common problems with goat nursing?
 
-Nursing is a vital part of goat care, but it can also be one of the most challenging. There are several common problems that can occur, including poor milk production, mastitis, and sore nipples.
+Mastitis is the big one. It's a bacterial infection of the udder that causes swelling, heat, and sometimes clumpy or off-colored milk. If you catch it early and start treatment, most does recover fine.
 
-One of the most common problems is poor milk production. This can be due to a number of factors, including an inadequate diet, stress, or illness.
+Poor milk production is another common complaint, and it usually comes down to nutrition. A doe that isn't getting enough calories, protein, or water simply can't produce the volume of milk she's capable of. Making sure your milking does are on a quality grain ration and have unlimited access to fresh water fixes most production issues.
 
-Mastitis is another common problem that can occur during goat nursing. This is an infection of the udder that can cause pain, swelling, and reduced milk production.
+Cracked and chapped teats are another common issue, especially in winter. Dry, cracked skin creates an entry point for the bacteria that cause mastitis in the first place. A good teat balm or bag balm after each milking keeps the skin supple and helps prevent infections.
 
-If you think your goat may have mastitis, it's important to seek veterinary care as soon as possible.
+## How to keep teats healthy year-round
 
-Sore nipples are another common complaint among goat owners. This can be caused by several things, including improper nursing techniques or an underlying health condition.
+After every milking, dip each teat in a teat dip solution for about 30 seconds and let it air dry. You can buy commercial teat dip or make your own with diluted iodine. This simple step creates a barrier that keeps bacteria and flies out.
 
-## How do you milk a goat?
+In summer, flies are attracted to the moisture around the teat opening. In winter, the cold dries and cracks the skin. Either way, the post-milking routine stays the same: dip, dry, and apply balm if needed.
 
-To milk a goat, you will need to have a clean milk pail, a clean stool, and clean hands. The first step is to wash the goat's udder with warm water.
+## Final Thoughts
 
-Next, place the milk pail under the udder and allow the goat to get used to the sensation of being milked.
+Two functional teats is what you should expect on a goat. Extra teats pop up more often than people realize, but they're usually not functional and should be removed early on dairy kids.
 
-Once the goat is comfortable, gently squeeze the udders and release the milk into the pail. Continue milking until the flow of milk slows to a trickle.
-
-Be sure to wash your hands and equipment thoroughly after milking.
-
-## How often should you milk a goat?
-
-Goats produce milk for about ten months following kidding. During the peak production period, a doe will produce more milk than her kid(s) can consume, so milking is necessary in order to prevent the udder from becoming overloaded and uncomfortable.
-
-For this reason, most goat keepers choose to milk their does twice per day, morning and evening. However, some Milan once per day while others milk three times per day.
-
-The best milking schedule for your goats will depend on a number of factors, including your own schedule, the amount of milk your goats are producing, and the condition of their udders.
-
-If you are milking multiple goats, it's also important to consider the order in which you milk them. Goats who are milked first will typically have fuller udders than those who are milked last, so it's important to be consistent in order to avoid causing undue stress on any individual goat.
-
-There are a few things to keep in mind when deciding how often to milk your goats.
-
-First, consider your own schedule and milking routine. If you are only able to milk once per day, that's perfectly fine - just be sure to milk at the same time each day so that your goats can get into a regular rhythm.
-
-It's also important to think about the amount of milk your goats are producing. If they are consistently giving more milk than their kids can drink, you may need to increase the frequency of milking in order to prevent their udders from becoming overfull.
-
-Finally, take a close look at your goats' udders - if they seem red or swollen, milking more frequently may help to relieve some of the pressure and discomfort.
-
-Milking twice per day is a good rule of thumb for most goat keepers. When all is said and done, the best milking schedule for your herd will be one that works well for both you and your goats.
-
-### What Extra Teats Mean for Dairy Production
-
-Some goats are born with extra teats beyond the standard two. These are called supernumerary teats, and they pop up more often than you might expect. A goat with four teats is not uncommon, especially in certain dairy breeds.
-
-Extra teats do not always produce milk. Some are non-functional and are just small skin tags that never develop a working milk duct behind them. Others are fully functional and actually add to the total milk output.
-
-In the dairy world, extra teats can be a problem during machine milking because they interfere with the milking cup's seal. Many dairy farmers will have a vet remove extra teats from kids when they are just a few days old. It is a quick procedure that prevents headaches down the road.
-
-### How Teat Shape Affects Milking Ease
-
-Not all teats are shaped the same, and the shape matters more than most new goat owners realize. A teat that points straight down is ideal for hand milking because your hand can wrap around it naturally.
-
-Teats that point outward or forward are harder to grip and milk. You will tire out faster, and the goat will get impatient with you fumbling around under there.
-
-Teat size also plays a role. Very small teats, common in breeds like Nigerian Dwarfs, can be tough for people with large hands to grip. If you plan to milk by hand, pick a breed with teats that are proportional to your hand size.
-
-### Keeping Teats Healthy Year-Round
-
-Teat health is something every goat owner should monitor closely. Cracked or chapped teats are painful for the goat and create an entry point for bacteria that cause mastitis.
-
-During cold winter months, apply a teat balm or bag balm after each milking to keep the skin supple. In summer, flies are the bigger concern because they are attracted to the moisture around the teat opening.
-
-A teat dip solution applied after milking creates a barrier that keeps bacteria and flies out. You can buy commercial teat dip or make your own with diluted iodine. Dip each teat for about 30 seconds and let it air dry before releasing the goat back to her pen.
-
-## Closing Notes
-
-Goats have 2 -4 teats, with most having 2. There are a few things to keep in mind when milking a goat, including hygiene and the goat's comfort level.
-
-It's also important to consider your own schedule and milking routine. Most goat keepers milk their goats twice per day.
+Good teat structure makes the difference between milking being a smooth daily chore and a frustrating wrestling match. Whether you're milking by hand or machine, pay attention to teat placement, shape, and health, because those details add up over the life of a dairy doe.

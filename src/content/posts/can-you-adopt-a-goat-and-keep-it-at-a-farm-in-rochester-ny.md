@@ -40,132 +40,46 @@ faq:
     answer: "Goats are notoriously independent, so they don't need a lot of extra care. however, there are a few things you should keep in mind when you're taking care of your new goat friend."
 ---
 
-We all know that goats are incredibly cute, but did you know that they can also make great pets? If you're thinking about adopting a goat, you may be wondering if it's possible to keep one at a farm in Rochester NY.
-
-we will answer those questions and provide you with the information necessary to care for your new pet goat.
+Yes, you can adopt a goat and keep it in the Rochester, NY area. Several local farms, rescue organizations, and breeders have goats available, and Monroe County has agricultural-zoned land where goats are permitted. The most important thing to remember is that goats are herd animals, so always plan on getting at least two.
 
 ## Can you adopt a goat and keep it at a farm in Rochester NY?
 
-In addition, you will need to provide your goat with a shelter that is large enough for them to move around in and that has sufficient ventilation. The shelter should also be protected from the elements, such as wind, rain, and snow.
+Monroe County allows goats on land that is zoned for agriculture, which covers a good chunk of the areas surrounding the City of Rochester. Inside the city limits, restrictions are tighter, so check with your municipality before making any commitments.
 
-You will also need to have a fence that is high enough to keep your goat contained. Goats are known for their climbing abilities, so the fence will need to be made of materials that they cannot climb or jump over.
-
-Finally, you will need to provide your goat with food and water. Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation.
-
-You can either grow your own food for them or purchase hay from a local farm.
-
-Water should be available to them at all times, and it should be fresh and clean. Goats will also need access to minerals, such as salt blocks, which they can use to supplement their diet.
+If you do not have your own land, boarding your goat at a local farm is a solid option. Several small farms in the Rochester area offer goat boarding, and it gives you the fun of goat ownership without needing acreage of your own. Ask around at feed stores or check local farming Facebook groups to find options near you.
 
 ## What is the process of adopting a goat from a farm in Rochester NY?
 
-If you're interested in adopting a goat from a farm in Rochester, NY, there are a few things you need to know.
+Lollypop Farm, the Humane Society of Greater Rochester in Fairport, occasionally has goats available for adoption. They include a vet check as part of the process, which gives you peace of mind about the animal's health.
 
-First, you'll need to fill out an application and be approved by the farm. Once you've been approved, you'll be able to choose a goat from the farm's selection.
-
-The adoption fee is $75, and you'll also need to sign a contract agreeing to care for the goat properly.
-
-After the adoption is complete, you'll need to provide the farm with proof of insurance covering your new goat. Once all of that is taken care of, you'll be able to take your new goat home.
+You can also find goats on Petfinder, Craigslist's farm section, and through private breeders in Monroe and Ontario counties. Local breeders typically sell kids in the spring, and buying locally means you can see the parents and get a full health history. Always ask about vaccination records, deworming history, and whether the goat has been tested for CAE and CL.
 
 ## What are the benefits of owning a pet goat?
 
-Owning a pet goat comes with a number of benefits. First, goats are intelligent and resourceful animals.
+Goats are smart, social, and full of personality. They bond closely with their owners and will follow you around the yard like a dog once they trust you.
 
-They are known for their problem-solving skills, and they are quick learners.
-
-This means that they can be trained to do tricks, perform tasks, and even compete in agility trials. Second, goats are very social creatures.
-
-They form strong bonds with their owners and enjoy spending time with them. They are also very curious animals, which can make them great companions.
-
-Thirdly, goats are relatively low-maintenance pets. They don't require a lot of space, and they can live on a diet of hay and pellets.
-
-fourth, goats can provide dairy products such as milk and cheese.
-
-And finally, goats can be used for their fur or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
+They are also useful animals. Goats keep brush and weeds under control, some breeds produce milk, and they provide endless entertainment with their playful antics. Kids especially love having goats around because they are approachable, curious, and not intimidating.
 
 ## How to care for your new goat friend?
 
-Goats are notoriously independent, so they don't need a lot of extra care. However, there are a few things you should keep in mind when you're taking care of your new goat friend.
+Goats need a companion, fresh water, good hay, and a dry shelter. They are browsers, not grazers, so they prefer leaves, shrubs, and weeds over grass. Providing a varied diet keeps them healthy and happy.
 
-First of all, goats are very social creatures, so it's important to spend some time every day interacting with your goat. Whether it's brushing their fur or simply talking to them, goats enjoy having companionship.
-
-After that, goats need plenty of space to roam and play. If you confine them to a small space, they will quickly become bored and destructive.
-
-And finally, goats are browsers, not grazers like cows. This means that they prefer to eat shrubs and leaves rather than grass.
-
-so, make sure to provide your goat with plenty of fresh browse to munch on.
+Routine care includes hoof trimming every six to eight weeks, annual vet checkups, vaccinations for CDT, and regular deworming based on fecal egg counts. These basics are straightforward and do not take much time once you get into a rhythm.
 
 ## What kind of food and shelter do goats need?
 
-Goats are interesting creatures that are part of the Caprinae family, which includes antelopes, sheep, and deer.
+The shelter does not need to be fancy. A three-sided run-in shed that blocks wind and rain is enough for most of the year. Rochester winters are harsh though, so plan for a draft-free enclosed structure with thick bedding and heated water buckets to get through January and February.
 
-Goats are adaptable to a wide range of environments and can be found on every continent except Antarctica. One of the reasons goats are so successful is that they have a unique digestive system that allows them to digest food that other animals cannot.
-
-For example, goats can safely eat plants that are poisonous to other animals, such as rhododendrons and azaleas. In addition, goats are able to convert low-quality plants into high-quality milk and meat.
-
-Talking about shelter, goats do not need much. They are able to withstand cold temperatures and can even live in high altitudes.
-
-Goats are also relatively resistant to disease, although they can be susceptible to parasites if they do not have access to clean water and adequate shelter. Goats are hardy creatures that can thrive in a variety of conditions.
+Hay should make up the bulk of their diet, supplemented with a quality goat grain and free-choice minerals. Budget for about 30 percent more hay during winter months, because goats burn extra calories staying warm. A salt block and loose goat minerals should always be available.
 
 ## How to handle common problems that may occur while raising goats?
 
-Anyone who's considering raising goats likely has a lot of questions. Goats are interesting creatures with their own quirks and personalities, and they can make great pets.
+Parasites are the number one health challenge for goat owners. Run fecal egg counts every couple of months and deworm based on the results rather than on a fixed schedule. Overusing dewormers leads to resistant parasites, which is a growing problem in goat herds nationwide.
 
-But, there are a few things to keep in mind before taking the plunge into goat ownership. First, goats need plenty of space to roam and explore.
+Goats are also escape artists. Your fencing needs to be at least four feet tall with no gaps at the bottom. Use woven wire or cattle panels, and latch every gate with a clip or carabiner. If there is a weak spot in your fence, your goats will find it within the first week.
 
-They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
+## Final Thoughts
 
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. One more thing: goats require regular vet care, just like any other pet.
+Rochester is a great area for goat ownership if you have access to agricultural-zoned land or a local farm that offers boarding. Between Lollypop Farm, private breeders, and online listings, finding goats to adopt is not difficult.
 
-But with a little planning and preparation, raising goats can be a fun and rewarding experience.
-
-## Fun facts about goats
-
-Goats are intelligent creatures that have a reputation for being Stubborn. But, goats are also known to be gentle, curious, and affectionate animals.
-
-Here are a few fun facts about goats:
-
-- Goats were one of the first animals to be domesticated by humans.
-- Goats are able to climb mountains and live in high altitudes.
-- Goats have an excellent sense of smell and can be trained to be detection animals.
-- Goats are known for their distinctive "beards", which are actually long hairs that grow on the chin and throat.
-- Male goats are called "bucks" while female goats goats are called "does".
-- Young goats are called "kids".
-- A group of goats is known as a "flock" or a "herd".
-- Goats are proficient swimmers and have been known to swim for miles.
-- Goats are curious creatures and will often investigate anything new in their environment.
-
-### Rochester NY Winter Challenges for Goat Owners
-
-Rochester gets hit with serious lake-effect snow, and temperatures can drop well below zero in January and February. Your goats will need a draft-free shelter with thick bedding to stay warm through those months.
-
-Heated water buckets are a must. Goats will not drink enough if their water is frozen, and dehydration in winter leads to all sorts of health problems. Budget for the extra electricity cost during the cold months.
-
-You should also stock up on extra hay before winter hits. A goat's calorie needs go up significantly when they are burning energy to stay warm. Plan on about 30% more hay consumption from December through March.
-
-### Local Farms and Rescue Organizations Near Rochester
-
-Several farms in the Rochester area work with goat rescues and can help match you with a goat that fits your situation. Lollypop Farm in Fairport occasionally has goats available for adoption, and they include a vet check as part of the process.
-
-There are also private breeders throughout Monroe and Ontario counties who sell kids in the spring. Buying from a local breeder gives you the advantage of seeing the parents and getting health history.
-
-Check the Rochester Craigslist farm section too. People rehome goats more often than you might think, especially when they realize how much work two or three goats actually require.
-
-### What to Budget for Your First Year
-
-Between the adoption fee, fencing, shelter construction, feed, and vet visits, expect to spend somewhere between $1,500 and $3,000 in your first year of goat ownership. That might sound like a lot, but most of those costs are one-time setup expenses.
-
-Ongoing annual costs after the first year typically run about $500 to $800 per goat. That covers feed, hay, hoof trimming, annual vet checkups, and deworming.
-
-Do not forget to factor in emergency vet costs. Goats are tough animals, but they can get sick or injured when you least expect it. Setting aside a small emergency fund of $300 to $500 gives you peace of mind.
-
-## Quick Recap
-
-You can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
-
-However, there are a few things to keep in mind before taking the plunge into goat ownership. First, goats need plenty of space to roam and explore.
-
-They're curious by nature and will chew on just about anything, so it's important to have a safe area for them to play.
-
-Second, goats are social animals and do best when they have companions, so be prepared to get more than one. To wrap up, goats require regular vet care, just like any other pet.
-
-But with a little planning and preparation, raising goats can be a fun and rewarding experience.
+Budget somewhere between $1,500 and $3,000 for your first year including fencing, shelter, feed, and vet visits. After that, ongoing costs run about $500 to $800 per goat annually. Set aside a small emergency vet fund too, because goats have a talent for getting into trouble when you least expect it.

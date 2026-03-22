@@ -40,134 +40,44 @@ faq:
     answer: "If you're thinking about allowing your chickens to sleep with your pygmy goats, it's important to keep in mind a few key safety measures."
 ---
 
-You may be wondering whether or not pygmy goats can sleep with chickens. And if so, what are the things you need to consider?
-
-we will answer those questions so that you can make an informed decision about whether or not to allow your pygmy goat to sleep with your chickens.
+Pygmy goats and chickens can share the same property, but having them sleep together in the same building is a different story. It works for some farmers, but there are real health and safety concerns worth thinking through before you try it.
 
 ## Can pygmy goats sleep with chickens?
 
-Of course, there are a few things you need to consider before letting your pygmy goat sleep with your chickens.
+Technically, yes. Plenty of small farms run goats and chickens in the same barn without major problems.
 
-First, make sure that the chicken coop is big enough for both the chickens and the goats. There should be enough space for the goats to move around and lay down without being crowded.
-
-Second, you will need to provide the goats with their own food and water. Goats are browsers and need a diet that is high in fiber.
-
-They also require more water than chickens, so make sure there is a water source that they can access.
-
-Finally, you will need to keep an eye on the goats to make sure they are not bothering the chickens too much. Pygmy goats are curious by nature and may try to nibble on the feathers of the chickens or their eggs.
-
-## The benefits of having pygmy goats sleep with chickens
-
-It is well-known that chickens make excellent companions for pygmy goats. Not only do these animals get along really well, but they also benefit from each other's company.
-
-For example, chickens are very social and active creatures, which can keep pygmy goats engaged and entertained throughout the day.
-
-In addition, sleeping with chickens provides benefits for both species. Chickens seem to enjoy the warmth and comfort of sleeping next to their goat friends, while pygmy goats get a cozy place to snooze away in peace and quiet.
-
-Best of all, this close-knit pair helps to support one another in times of need; if a goat becomes ill or stressed out, having its loyal chicken friend by its side can help to soothe and calm it down.
-
-This means it seems clear that the benefits of having pygmy goats sleep with chickens outweigh any drawbacks by far.
+But "can" and "should" are two different questions. Chickens are messy roosters by nature, and they poop constantly, including all over any surface below where they perch. If your goats are sleeping underneath chicken roosts, they are getting covered in droppings every single night.
 
 ## The risks of having pygmy goats sleep with chickens
 
-There are many potential risks involved in allowing pygmy goats and chickens to share the same living space. For one, goats have a naturally aggressive nature, and they may easily injure or even kill their smaller chicken companions if they feel threatened.
+The biggest concern is respiratory health. Chicken manure produces ammonia as it breaks down, and goats are sensitive to ammonia fumes. In an enclosed barn with poor ventilation, those fumes build up fast and can lead to pneumonia.
 
-Also, both types of animals are known carriers of various diseases and parasites that can easily be transmitted between species.
+Chicken droppings also carry Histoplasma capsulatum, a fungus that causes respiratory illness. Goats breathing in dust from dried chicken poop are at risk, especially in dry weather when the spores become airborne.
 
-This can put the health of both your goats and chickens at serious risk. However, with careful management and regular monitoring, it may be possible to keep both sets of animals safe while still letting them live together.
+Then there is the size difference. A pygmy goat can accidentally step on a chicken in the dark, and a startled goat can kick or trample a bird without meaning to. Chickens roosting on the ground are especially vulnerable.
 
-For instance, you should carefully monitor your goat's interactions with the chickens, making sure that they are not hurting or trying to eat their coop mates.
+## The benefits of having pygmy goats sleep with chickens
 
-You should also take steps to make sure that your goats always have access to fresh food and water as well as clean bedding material for sleeping.
+It is not all bad news. Goats and chickens often get along well during the day, and housing them nearby can provide natural predator deterrence. A goat's size and alertness can scare off weasels, raccoons, and other small predators that target chickens at night.
 
-With diligence and care, it is possible to keep your beloved pygmy goats and chickens happy and healthy.
+Sharing a barn also saves money on building materials and reduces chore time. One structure to maintain beats two, especially on a small homestead with a tight budget.
 
 ## How to prevent your pygmy goat from bothering your chickens?
 
-Even the best-behaved pygmy goat can be a nuisance to chickens if not properly supervised.
+Keep goat feed and chicken feed completely separate. Chicken feed is high in calcium, which can cause urinary calculi in male goats. Mount chicken feeders at least three feet off the ground where only the birds can reach them.
 
-To prevent your goats from bothering the chickens, it is important to provide them with plenty of their own food and water so that they are not tempted to nibble on the chickens' feed or scratch at their coop.
-
-It is also a good idea to keep the goats' living area separate from the chickens' so that they cannot accidentally hurt them while playing.
-
-Finally, it is important to spend time with your goats every day to make sure that they are getting the attention and exercise they need.
-
-By following these simple tips, you can help to prevent your pygmy goats from becoming a nuisance to your chickens.
-
-## What are the treatments for sick goats?
-
-There are a number of possible treatments for sick goats, depending on the underlying cause of the illness.
-
-For example, if a goat is suffering from an infection, it may be treated with antibiotics. If a goat has an intestinal blockage, it may need to be surgically repaired.
-
-And if a goat is suffering from a nutritional deficiency, it may be necessary to supplement its diet. In most cases, sick goats will need to be seen by a veterinarian in order to receive the proper diagnosis and treatment.
-
-However, there are a few simple home remedies that can sometimes be used to help alleviate the symptoms of minor illnesses in goats.
-
-For example, warm compresses can be applied to sore muscles, and honey can be given to goats suffering from coughs. If you are concerned that your goat is sick, it is always best to consult with a veterinarian as soon as possible.
-
-## How to make sure your chickens are safe if you do allow them to sleep with pygmy goats?
-
-If you're thinking about allowing your chickens to sleep with your pygmy goats, it's important to keep in mind a few key safety measures.
-
-For starters, you'll want to make sure that the chickens are fully grown and can handle being in close quarters with the pygmy goats.
-
-It's a good idea to make sure that there are plenty of escape routes available for the chickens if they become stressed out or agitated by the presence of their goat friends.
-
-Other considerations include providing adequate space and enrichment to prevent boredom or aggressive tendencies, as well as keeping a close eye on any interactions between your chickens and pygmy goats.
-
-By taking these steps, you can help make sure that both your chickens and pygmy goats have a safe and joyful sleeping experience together.
+Give your goats enough hay and browse so they are not tempted to investigate the chicken area out of boredom. A bored pygmy goat will get into everything, including nest boxes and feeders.
 
 ## How to create a safe environment for pygmy goats and chickens to sleep in together?
 
-Creating a safe sleeping environment for pygmy goats and chickens can be a bit of a challenge since these animals are naturally quite active creatures.
+The best setup is adjacent housing with a shared outdoor run. Your goats get their own dry sleeping area, and the chickens get their own coop. During the day, they can roam the same yard together without any issues.
 
-The key to success is finding the right balance between giving the goats and chickens plenty of room to stretch their legs, while also ensuring that they stay protected from predators and extreme weather conditions.
+If you must house them in the same barn, install chicken roosts on one side and goat bedding on the opposite side. A low partition wall, even just two feet tall, keeps the sleeping zones separated. The chickens roost high, their droppings collect beneath them, and the goat bedding stays clean.
 
-One strategy that works well is to set up raised bedding areas where the goats and chickens can sleep comfortably.
-
-These beds should be surrounded by fencing or chicken wire to keep out any wandering predators, and ideally, they should be situated in a place where they enjoy protection from the elements.
-
-It's important to provide sufficient feed and water each day, as well as Plenty of fresh hay or other natural materials for the animals to nestle into at night.
-
-With some careful planning and attention to detail, you can help your goats and chickens sleep safely together in harmony.
-
-### Parasite Cross-Contamination Risks
-
-One of the biggest hidden dangers of housing pygmy goats with chickens is parasite cross-contamination. Chickens carry coccidiosis, and while the specific strain differs between species, a shared living space increases overall parasite loads in the bedding.
-
-Goats can pick up external parasites like poultry mites if they sleep in close contact with chickens. These mites cause itching, hair loss, and skin irritation in goats.
-
-Run fecal tests on both your goats and chickens every couple of months if they share a shelter. Catching a parasite problem early is much cheaper and easier than treating a full-blown infestation.
-
-### Setting Up Separate Sleeping Zones
-
-Even in a shared barn, you can create distinct sleeping zones for your pygmy goats and chickens. Chickens naturally want to roost up high, so install roosting bars at least three feet off the ground.
-
-Give the goats their own bedding area on the opposite side of the barn. A low partition wall, even just two feet tall, keeps the sleeping areas separated while still letting the animals see and hear each other.
-
-This arrangement reduces nighttime disturbances and keeps goat bedding cleaner. Chicken droppings accumulate under the roosts instead of in the goat sleeping area.
-
-### Feeding Challenges in a Shared Space
-
-Goats will eat chicken feed if they can reach it, and that is a real problem. Chicken feed contains high levels of calcium that can cause urinary calculi in male goats, a potentially fatal condition.
-
-Mount chicken feeders high enough that only the chickens can reach them. Three to four feet off the ground with a narrow perch works well.
-
-Keep goat feed in a separate area that chickens cannot access. Ground-level feeders with lids that goats can nudge open but chickens cannot figure out are a good investment.
-
-### Nighttime Predator Protection for Both Species
-
-Housing pygmy goats and chickens together can actually improve predator protection at night. The goats are larger and more alert, and their presence can deter smaller predators like weasels and raccoons that target chickens.
-
-Make sure the shared shelter has secure latches on all doors. Raccoons are smart enough to open simple hooks and slide bolts, so use carabiner clips or padlocks.
-
-Hardware cloth over any windows or ventilation openings keeps predators out while maintaining airflow. Chicken wire is not strong enough to stop a determined raccoon.
+Good ventilation is non-negotiable. Open eaves or windows covered with hardware cloth keep air moving and prevent ammonia buildup. If you can smell ammonia when you walk into the barn, it is already too much for your goats.
 
 ## What to Remember
 
-Pygmy goats can make great additions to any backyard flock of chickens.
+Pygmy goats and chickens can coexist on the same farm without trouble. Shared sleeping quarters work in some barns, but separate sleeping areas with a shared yard is the safer and cleaner approach.
 
-They are relatively low-maintenance animals that are known for being gentle and good-natured.
-
-Pygmy goats can help to keep your chickens healthy and active by providing them with companionship and exercise.
+If you go with a shared barn, give the chickens elevated roosts away from goat hay, keep ventilation strong, and clean out droppings regularly. Your goats and chickens will both be healthier for it.

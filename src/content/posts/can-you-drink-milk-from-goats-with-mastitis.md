@@ -15,7 +15,7 @@ quickAnswer:
 toc:
   - label: "Can you drink milk from goats with mastitis?"
     href: "#can-you-drink-milk-from-goats-with-mastitis"
-  - label: "What kind of care should I take when drinking goat’s milk?"
+  - label: "What kind of care should I take when drinking goat's milk?"
     href: "#what-kind-of-care-should-i-take-when-drinking-goats-milk"
   - label: "What is mastitis and what are the symptoms?"
     href: "#what-is-mastitis-and-what-are-the-symptoms"
@@ -25,7 +25,7 @@ toc:
     href: "#what-are-the-risks-of-drinking-milk-from-goats-with-mastitis"
   - label: "How to prevent mastitis in goats?"
     href: "#how-to-prevent-mastitis-in-goats"
-  - label: "How should you store goat’s milk?"
+  - label: "How should you store goat's milk?"
     href: "#how-should-you-store-goats-milk"
   - label: "Are there any special considerations for people with mastitis?"
     href: "#are-there-any-special-considerations-for-people-with-mastitis"
@@ -34,7 +34,7 @@ toc:
 faq:
   - question: "Can you drink milk from goats with mastitis?"
     answer: "You cannot drink milk from goats with mastitis. Mastitis is an infection of the mammary glands that causes pain, swelling, and milk to become discolored or contain pus. This makes it dangerous to consume milk containing these bacteria and viruses."
-  - question: "What kind of care should I take when drinking goat’s milk?"
+  - question: "What kind of care should I take when drinking goat's milk?"
     answer: "If you choose to drink goat's milk, it is crucial to take some basic precautions."
   - question: "What is mastitis and what are the symptoms?"
     answer: "Mastitis is a common infection of the breast tissue that affects women who are breastfeeding. The most common symptom is a painful, red, and swollen breast. Other symptoms can include a fever, chills, and a general feeling of malaise."
@@ -42,130 +42,48 @@ faq:
     answer: "Mastitis is a bacterial infection of the breast tissue that most commonly affects nursing mothers. The infection is usually caused by bacteria entering the breast through cracked or damaged skin."
 ---
 
-You may be wondering if it's safe to drink milk from goats with mastitis or not. And if so, what kind of care do you need to take when doing so?
-
-we will answer those questions and provide you with additional healthcare facts, FAQs, and more about drinking milk from goats with mastitis.
+No, you should not drink milk from a goat with active mastitis. The milk is contaminated with bacteria, loaded with white blood cells, and may contain antibiotic residues if the doe is being treated.
 
 ## Can you drink milk from goats with mastitis?
 
-In addition, it is illegal in many countries to sell or drink milk from goats with mastitis. So even if you could, it's not something you should do.
+Mastitis milk is not safe for human consumption. It contains bacteria like Staph, Strep, and E. coli that caused the infection in the first place, and drinking it can make you sick.
 
-## What kind of care should I take when drinking goat’s milk?
+Beyond the safety issue, mastitis milk is clumpy, off-color, and tastes terrible. You'll know something is wrong the moment you see it come out of the teat — it doesn't look or smell like normal milk.
 
-If you choose to drink goat's milk, it is important to take some basic precautions.
+## What kind of care should I take when drinking goat's milk?
 
-First and foremost, make sure the milk comes from healthy goats that have been tested for mastitis. Check with your local health department or veterinarian for more information about testing requirements in your area.
+Always make sure your milk comes from healthy does that have been tested for mastitis. A quick California Mastitis Test (CMT) takes less than a minute and costs just a few dollars per test.
 
-Second, never consume raw (unpasteurized) goat's milk. Pasteurization kills any pathogens and bacteria in the milk, making it safe for consumption.
-
-Finally, make sure you store your goat's milk properly to prevent spoiling or contamination. Keep it cold and away from heat sources, and use it within 2-3 days after opening.
+Pasteurize your milk if you're concerned about bacteria. Keep it refrigerated and use it within two to three days of milking for the best quality and safety.
 
 ## What is mastitis and what are the symptoms?
 
-Mastitis is a common infection of the breast tissue that affects women who are breastfeeding. The most common symptom is a painful, red, and swollen breast.
+Mastitis is an infection of the udder tissue, usually caused by bacteria entering through the teat canal. The affected udder half becomes hot, swollen, and painful to the touch.
 
-Other symptoms can include a fever, chills, and a general feeling of malaise.
-
-Mastitis is usually caused by bacteria that enter the breast through cracked or damaged nipples. The good news is that mastitis is usually easily treated with antibiotics and rest.
-
-Most women who develop mastitis make a full recovery and are able to continue breastfeeding without any problems. At the same time, some women may experience recurrent episodes of mastitis or may develop a more serious form of infection known as puerperal sepsis.
-
-Therefore, it is important to see your doctor if you think you might have mastitis. Treatment for mastitis is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
+The milk from that side will look abnormal — it may be watery, clumpy, or have a yellowish tint. The doe may also run a fever, go off her feed, or flinch when you try to milk her.
 
 ## How do you get mastitis and how is it treated?
 
-Mastitis is a bacterial infection of the breast tissue that most commonly affects nursing mothers. The infection is usually caused by bacteria entering the breast through cracked or damaged skin.
+Bacteria enter through the teat opening, usually from dirty bedding, unclean milking equipment, or teat injuries. Once inside, the infection takes hold fast and the udder starts to swell within a day or two.
 
-Symptoms of mastitis include pain, swelling, redness, and warmth in the affected area. In some cases, the mother may also experience fever, chills, and fatigue.
-
-Treatment for mastitis typically involves a course of antibiotics, as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
-
-In most cases, mastitis resolves without any lasting complications.
-
-However, if the infection is left untreated, it can lead to serious health problems, such as abscess formation or blood poisoning.
+Treatment typically involves intramammary antibiotic tubes inserted directly into the teat canal. Milk out the affected side completely before inserting the tube, and always finish the full course of antibiotics even if the milk looks normal after a couple of days. Most treatment protocols run three to five days, and skipping doses gives the bacteria a chance to bounce back stronger.
 
 ## What are the risks of drinking milk from goats with mastitis?
 
-Drinking milk from goats with mastitis is risky for several reasons. Most importantly, the bacteria and viruses present in a goat’s infected mammary glands can be transferred to humans through contaminated milk.
+The bacteria in mastitis milk can cause food poisoning with symptoms like nausea, vomiting, and diarrhea. In rare cases, certain strains can lead to more serious infections.
 
-This could lead to serious health problems, such as food poisoning or even blood poisoning if left untreated. In addition, it is illegal in many countries to sell or consume milk from goats with mastitis.
-
-Therefore, even if you could find and purchase such milk, it's not worth the risk of getting sick or facing legal consequences. In short, drinking milk from goats with mastitis is not recommended.
+If the doe is on antibiotics, the milk will contain drug residues that aren't safe to consume. You must observe the full withdrawal period listed on the medication before using the milk again.
 
 ## How to prevent mastitis in goats?
 
-Maintaining proper hygiene is the key to preventing mastitis in goats. Before milking, make sure your hands and equipment are clean and sanitized to reduce the risk of contamination.
+Clean your hands and equipment before every milking session. Dip each teat in a sanitizing solution after milking to seal the teat canal and prevent bacteria from entering.
 
-During milking, try to avoid touching any part of the udder or teats with your fingers, use a separate cloth or towel instead.
+Milk on a consistent schedule each day and don't skip sessions. Keep bedding clean and dry, since wet, dirty conditions are where mastitis-causing bacteria thrive.
 
-Make sure you milk your goats regularly and on the same schedule each day to reduce the risk of engorgement and infection.
+Run a CMT test on each milking doe at least once a week. Subclinical mastitis — where the milk looks normal but the somatic cell count is high — is easy to miss without testing, and it quietly destroys udder tissue over time.
 
-Finally, check for signs of infection in your goats and seek veterinary treatment immediately if any are detected. Taking these steps will help keep your goats healthy and free from mastitis.
+## Final Thoughts
 
-## How should you store goat’s milk?
+Don't drink milk from a goat with mastitis, and don't sell it either. Treat the infection, observe the antibiotic withdrawal period, and run a clean CMT test before putting that milk back in your kitchen.
 
-Goat’s milk should be stored in the refrigerator and consumed within 2-3 days of opening. It should not be left at room temperature for any extended period of time, as this increases the risk of bacteria growth.
-
-If possible, it is best to purchase pasteurized goat’s milk, as this will reduce your chances of getting sick from bacteria or viruses. If you have to store it for longer periods, goat’s milk can be frozen and kept in the freezer for up to six months.
-
-However, freezing affects the taste and texture of the milk, so it is not recommended if you plan on consuming it soon after thawing.
-
-Regardless, any remaining milk should be discarded after two hours of thawing at room temperature. Taking these steps will help make sure that you are consuming goat’s milk that is safe and free from contamination.
-
-## Are there any special considerations for people with mastitis?
-
-There are special considerations for people with mastitis. If you think you may have an infection, it is important to seek medical attention as soon as possible to prevent the spread of the bacteria or virus and minimize your risk of complications.
-
-Another thing to note is it is important to practice good hygiene while nursing or pumping, such as washing your hands before and after touching the infected area, using a separate pump for each breast, and avoiding soap or other harsh chemicals on the nipples.
-
-Make sure you drink plenty of fluids and get plenty of rest to help keep your body strong in fighting off infection. Following these tips will make sure that you are taking proper care of yourself and helping to ease pain and promote healing.
-
-The most important thing to remember when dealing with mastitis is that early detection and treatment are key to preventing complications. If you think you may have an infection, see a doctor right away for proper diagnosis and treatment.
-
-Good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
-
-### How to Test for Mastitis at Home
-
-You don't need a lab to catch mastitis early. A simple California Mastitis Test (CMT) kit costs just a few dollars and takes less than a minute to use.
-
-Squirt a small amount of milk into the test paddle and add the CMT reagent. Swirl it gently for about 10 seconds. If the mixture thickens into a gel-like consistency, that udder half is positive for mastitis.
-
-Testing each side separately is important because mastitis often affects just one half of the udder. Catching it early means you can start treatment sooner and get back to safe milking faster.
-
-Make it a habit to run a CMT test at least once a week on each milking doe, especially during hot and humid weather when bacterial infections spike.
-
-### Treating Mastitis With Intramammary Infusions
-
-Intramammary antibiotic tubes are one of the most common treatments your vet will recommend for clinical mastitis. These tubes are inserted directly into the teat canal, delivering medication straight to the infected tissue.
-
-Milk out the affected half completely before inserting the tube. This removes as much bacteria as possible before the antibiotic goes to work. Clean the teat end with an alcohol swab first to avoid pushing more bacteria into the udder.
-
-Most treatment protocols call for one tube per affected half, administered once or twice daily for three to five days. Always complete the full course even if the milk looks normal again after day two.
-
-### Subclinical Mastitis and Why You Might Miss It
-
-Subclinical mastitis is the sneaky version of the disease. The milk looks perfectly normal to the naked eye, but the somatic cell count is elevated and the udder is quietly losing productive tissue.
-
-You will not catch subclinical mastitis without testing. Regular CMT checks or sending samples to a lab for somatic cell counts is the only way to stay ahead of it.
-
-A doe with subclinical mastitis will gradually produce less milk over the course of a lactation. Many owners blame the drop on poor feed or aging when the real culprit is a low-grade infection that has been simmering for weeks.
-
-### When to Cull a Doe With Chronic Mastitis
-
-This is a tough call that every dairy goat owner eventually faces. If a doe has had three or more bouts of clinical mastitis in a single lactation despite proper treatment, she may be a chronic carrier.
-
-Chronic carriers shed bacteria into the milk even between visible flare-ups. They pose a constant reinfection risk to the rest of your milking string.
-
-Culling does not necessarily mean the animal has to leave the farm. Some owners retire chronic mastitis does to a pet or brush-clearing role. They just come off the milking line permanently.
-
-If the doe is a valuable genetic animal, talk to your vet about dry cow therapy and an extended dry period before making a final decision. Sometimes a long rest with proper treatment can clear a stubborn infection.
-
-## 
-
-Drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.
-
-Proper hygiene practices are essential for both humans and animals to keep them healthy and reduce the risk of infection.
-
-If you think you may have mastitis, it's important to seek medical attention right away in order to prevent any complications.
-
-With these tips and guidelines, you can keep your goats healthy and make sure that their milk is safe to consume.
+In a pinch, mastitis milk can be pasteurized and fed to bottle kids rather than dumped. But for your own table, wait until the doe tests clean and the milk looks, smells, and tastes normal again.

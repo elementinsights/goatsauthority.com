@@ -39,124 +39,47 @@ faq:
   - question: "How is strangles transmitted?"
     answer: "Strangles is a highly contagious disease that can affect horses and other equines. It is caused by the bacteria Streptococcus equi and is transmitted primarily through direct contact with infected animals."
 ---
-Taking care of goats and horses can be a challenging but rewarding experience. Both animals have unique needs and characteristics and have you ever wondered if strangles from horses can be passed to goats?
 
-And if so, what are the things you need to know?
-
-Here's what you need to know.we will answer those questions and provide you with additional information about strangles and their transmission.
+Strangles is primarily a horse disease caused by the bacterium Streptococcus equi. True cross-species transmission to goats is extremely rare, but it is not impossible on farms where horses and goats share close quarters and equipment.
 
 ## Can strangles from horse be passed to goats?
 
-There are some key differences between the two animals that need to be considered.
+The short answer is that it is very unlikely. Strangles is caused by Streptococcus equi, which is adapted to horses and other equines. Goats have their own species of Streptococcus bacteria that cause different diseases.
 
-For example, horses are more likely to develop severe cases of strangles and their symptoms tend to last longer. In contrast, goats usually have milder symptoms and recover more quickly.
-
-There are also some different strains of the bacteria that cause strangles, and not all of them can infect both horses and goats. So, while it is possible for strangles from a horse to be passed to goats, it is not always guaranteed.
-
-The best way to prevent the transmission of strangles from horse to goat (or vice versa) is to practice good hygiene and biosecurity measures.
-
-This includes quarantine procedures for new animals, regular cleaning and disinfection of stalls and equipment, and avoiding contact between sick and healthy animals.
-
-If you think your animal has been strangled, take them to the vet right away. Early diagnosis and treatment can help reduce the severity of the disease and stop it from spreading to other animals.
-
-## What are the symptoms of strangles in goats?
-
-The symptoms of strangles in goats can vary depending on the strain of bacteria involved and the animal's individual response to infection. However, some common signs include fever, lethargy, loss of appetite, and swollen lymph nodes (usually in the head and neck region).
-
-In some cases, goats may also develop a thick mucus discharge from their nose and/or abscesses on their skin. These abscesses can rupture and release the pus, which can spread the infection to other animals or people.
-
-If you see any of these symptoms in your goat, quickly call a veterinarian. They will tell you what to do and how to treat the infection before it gets worse.
-
-Early treatment is important for preventing sickness and avoiding the virus from spreading.
-
-Strangles is a serious disease that can be deadly in some cases, so it is important to take precautions to prevent its spread.
-
-If you have any questions or concerns, please contact your veterinarian. They will be able to provide you with more information and guidance specific to your situation.
+That said, the bacteria can theoretically survive on shared water troughs, feed buckets, and equipment for several days. On a mixed farm where a horse has active strangles, a goat drinking from the same contaminated water source could be exposed. The risk is low, but basic biosecurity eliminates it almost entirely.
 
 ## What are the symptoms of strangles in horses?
 
-Strangles, also known as equine distemper, is a bacterial infection that typically affects horses. It is characterized by a high fever, swelling around the throat or neck area due to enlarged lymph nodes, and sometimes a mouth infection called "scrumpox."
+In horses, strangles causes high fever, thick nasal discharge, and painfully swollen lymph nodes under the jaw and around the throat. The swelling can get severe enough to compress the airway, which is where the name "strangles" comes from.
 
-Other common symptoms of strangles include a runny nose and heavy breathing. In severe cases, the horse may suffer from extreme respiratory distress.
+Affected horses often stop eating because swallowing is painful. They may cough, stand with their head lowered, and seem generally miserable. The disease is highly contagious between horses and spreads fast through a barn.
 
-If you notice any of these symptoms in your horse, it is important to contact your vet right away. Depending on the severity of the infection and how quickly treatment is started, strangles can be easily treated with antibiotics or other medications prescribed by a veterinarian.
+## What are the symptoms of strangles in goats?
 
-So remember to keep an eye out for any signs of strangles in your horse and seek help right away if you suspect that your horse might be infected.
+If a goat does somehow contract a Streptococcus infection, the symptoms look different than they do in horses. You might see fever, lethargy, loss of appetite, and swollen lymph nodes in the head and neck area.
+
+Some goats develop abscesses that can rupture and drain pus. Nasal discharge and mild respiratory signs are also possible. These symptoms overlap with caseous lymphadenitis, which is a more common goat disease caused by a different bacterium, so a proper vet diagnosis matters.
 
 ## How is strangles transmitted?
 
-Strangles is a highly contagious disease that can affect horses and other equines. It is caused by the bacteria Streptococcus equi and is transmitted primarily through direct contact with infected animals.
+The bacteria spread through direct nose-to-nose contact between animals and through contaminated objects. Nasal discharge from a sick horse landing in a shared water trough is the single biggest risk factor on mixed farms.
 
-In addition to physical contact, the transmission of strangles can also occur through shared equipment or objects like grooming brushes or water buckets, as well as through airborne droplets from sneezing and coughing.
-
-Symptoms of strangles can vary from mild respiratory issues to severe malaise and even death in some cases.
-
-Fortunately, treatment for this disease is typically effective if it is caught early, which means it is important for owners to be aware of the risks and precautions necessary to keep their equine companions safe.
-
-## What are the signs of strangles in goats?
-
-One of the most common health concerns is strangles. This condition, which is caused by a bacterial infection in the lymph nodes of the throat, can cause a wide range of symptoms that vary in severity from mild to severe.
-
-Some of the key signs and symptoms to watch out for in your goats include lethargy, loss of appetite, fever, and swollen glands around the face and neck.
-
-Some infected goats may develop abscesses on the feet or legs, as well as respiratory problems such as labored breathing and coughing.
-
-If you notice any of these symptoms in your goats, be sure to take them to a vet right away for a full diagnosis and treatment plan. With proper care and timely intervention, strangles can usually be successfully treated in goats.
+Halters, lead ropes, grooming tools, and even your own boots and clothing can carry the bacteria from one animal to another. Streptococcus equi survives on surfaces longer than most people expect, especially in cool and damp conditions.
 
 ## Treatment for strangles in both horses and goats
 
-There are a number of different treatment options available for strangles, a highly contagious disease that affects both horses and goats. In most cases, the best approach is to take aggressive action right away to minimize the risk of further illness and infection.
+In horses, treatment depends on the stage of the disease. Some vets prefer to let mild cases run their course so the horse builds natural immunity, while more severe cases require antibiotics and supportive care. Abscesses are often hot-packed to encourage drainage.
 
-One commonly used strategy is medication, which helps to reduce swelling and suppress the immune response. Other treatment options include things like antibiotics and ointments to soothe irritated skin.
-
-So, the choice of treatment will depend on a variety of factors including the severity of the symptoms, cost-effectiveness, and safety considerations.
-
-Whatever route you choose, it's important to consult with a qualified veterinary professional to make sure the best possible outcomes for your equine or caprine companion.
+For goats showing signs of a Streptococcus infection, your vet will likely prescribe antibiotics after confirming the diagnosis with a culture. Supportive care includes keeping the goat hydrated, offering soft palatable feed, and isolating them from the rest of the herd until they recover.
 
 ## Prevention of strangles in both horses and goats
 
-Strangles are a serious and highly contagious bacterial infection that can affect both horses and goats.
+If your horse has active strangles, isolate it immediately in a separate stall or paddock with its own water and feed supply. Keep the quarantine in place for at least three weeks after symptoms resolve, because recovered horses can still shed bacteria.
 
-This condition is most commonly caused by the bacterium Streptococcus equi, which enters the body through the respiratory tract and then attacks the lymph nodes and glands.
+On mixed farms, use separate water troughs, feed buckets, and handling equipment for your horses and goats. Wear dedicated boots and clothing when entering the quarantine area, and change before going near your goat herd. A diluted chlorhexidine solution works well for disinfecting shared surfaces and tools.
 
-Symptoms of strangles include high fever, coughing, loss of appetite, nasal discharge, ulcers in the mouth, and palpable swollen lymph nodes.
+## Final Thoughts
 
-In many cases, this infection will resolve on its own with supportive care and antibiotics; but, if left untreated it can be fatal. Luckily, there are several ways to prevent this disease from spreading.
+Strangles jumping from horses to goats is extremely uncommon, but practicing basic biosecurity on a mixed farm protects both species. Separate water sources, clean equipment, and quick isolation of any sick animal are the simplest steps you can take.
 
-For example, you can quarantine any animals that are showing signs of illness until they have fully recovered. Another good strategy is to use proper biosecurity measures when working with new or unfamiliar animals.
-
-By taking these simple precautions, horse owners and goat herders can help protect their animals from strangles and keep them healthy for many years to come.
-
-### Quarantine Procedures When a Horse Shows Strangles Symptoms
-
-The moment you notice nasal discharge or swollen glands on a horse, pull it out of any shared area with goats immediately. Move the horse to an isolated stall or paddock that has its own water and feed supply.
-
-Keep the quarantine in place for at least three weeks after the horse's symptoms resolve. Strangles bacteria can shed from a recovered horse for several weeks, and one premature release can spark a new round of infections.
-
-Wear dedicated boots and clothing when entering the quarantine area. Change out of them before going near your goats. The bacteria ride on clothing, shoes, and hands just as easily as they spread through direct contact.
-
-### Shared Equipment That Poses the Highest Risk
-
-Water troughs are the single biggest risk factor for cross-species strangles transmission on a mixed farm. Nasal discharge from a sick horse lands in the water, and any goat drinking from the same trough is exposed.
-
-Halters, lead ropes, and grooming tools are next on the list. Never use the same brush or halter on a horse and a goat without disinfecting it first. A diluted chlorhexidine solution works well for quick equipment cleaning.
-
-Feed buckets, hay racks, and even fence rails can harbor the bacteria for days. Streptococcus equi survives on surfaces longer than most people realize, especially in cool and damp conditions. Wipe down any shared surfaces with disinfectant during an outbreak.
-
-### Building Separate Handling Areas for Horses and Goats
-
-If you keep both species long-term, investing in separate handling areas saves you headaches down the road. Separate water lines, feed storage, and grooming stations eliminate most of the cross-contamination risk.
-
-A physical barrier like a solid fence panel between the horse and goat areas prevents nose-to-nose contact. Mesh or wire fencing still allows nasal discharge to spray through the gaps.
-
-This setup does not have to be expensive. A few extra panels and a separate water hydrant can be installed over a weekend and will protect your herd for years.
-
-## To Wrap Things Up
-
-Strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.
-
-If left untreated, strangles can be fatal; however, with early intervention and proper treatment, most animals will make a full recovery.
-
-In order to prevent the spread of this disease, it's important to practice good biosecurity measures and quarantine any animals that are showing signs of illness.
-
-By taking these precautions, you can help keep your equine and caprine companions healthy and happy for many years to come.
+If you suspect strangles in any animal on your property, call your vet right away. Early action keeps the disease from spreading and gets your animals back to normal faster.
