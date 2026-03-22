@@ -84,7 +84,7 @@ So whether you are an athlete looking for an edge or just want to improve your o
 
 ## How to care for goats to make sure a healthy milk supply?
 
-There are a few key things to keep in mind when taking care of goats for milk production. First and foremost, it is essential to provide your goats with a nutritious, high-quality diet.
+There are a few key things to keep in mind when taking care of goats for milk production. First and foremost, provide your goats with a nutritious, high-quality diet.
 
 This should include plenty of high-fiber feeds like hay and grass, as well as fresh water and a variety of supplemental nutrients like vitamins, minerals, and probiotics.
 
@@ -112,7 +112,7 @@ After choosing your container, you will need to decide how much goat milk protei
 
 Once you have decided on a storage method, it is important to follow any specific storage instructions related to your particular goat milk protein product, such as refrigerating or freezing it.
 
-Whether using goat milk protein for drinking or for cooking, it is essential to remember that this nutrient-rich resource should always be stored and used with care. With these tips in mind, you can enjoy all the benefits of this versatile and powerful food.
+Whether using goat milk protein for drinking or for cooking, remember that this nutrient-rich resource should always be stored and used with care. With these tips in mind, you can enjoy all the benefits of this versatile and powerful food.
 
 ## When is the best time to consume goat milk protein?
 

@@ -60,7 +60,7 @@ Goats are known for their ability to eat just about anything, but that doesn't m
 
 Dandelion flowers are high in sugar, so they should only be given in moderation. Unlike honeysuckle, the flower heads can be a choking hazard, so make sure to remove them before feeding them to your goat.
 
-All in all, dandelion flowers are perfectly safe for goats to eat, but like all foods, they should be given in moderation.
+Dandelion flowers are perfectly safe for goats to eat, but like all foods, they should be given in moderation.
 
 ## Can goats eat dandelion leaves?
 
@@ -88,7 +88,7 @@ Therefore, it's important to monitor your goat's intake of dandelion seeds and m
 
 ## Can goats eat dandelion stems?
 
-Goats are known for their digestive prowess, able to eat a wide variety of plants and vegetation. That said, not all plants are safe for goats to consume.
+Goats are known for their digestive prowess, able to eat a wide variety of plants and vegetation. Not all plants are safe for goats to consume.
 
 Dandelion stems, for example, can be harmful to goats if eaten in large quantities.
 

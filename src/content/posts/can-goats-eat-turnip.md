@@ -83,7 +83,7 @@ Turnips can also be a choking hazard for goats if they are not cut into small pi
 
 Feeding turnips to goats is generally safe and can be a healthy addition to their diet. However, it is important to make sure that they are properly cleaned and cut into small pieces.
 
-Turnips can be fed to goats fresh, cooked, or canned. That said, goats prefer turnips that are fresh or cooked.
+Turnips can be fed to goats fresh, cooked, or canned. Goats prefer turnips that are fresh or cooked.
 
 If you have any concerns about feeding turnips to your goat, please consult with a goat expert before doing so.
 
@@ -181,7 +181,7 @@ Mixing different roots keeps your goats interested in the feed and delivers a wi
 
 Chop everything into similar-sized pieces so the goats eat evenly instead of picking out their favorites and leaving the rest.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats can eat turnips, but they should be fed in moderation. Too many turnips can cause stomach upset and diarrhea in goats.
 

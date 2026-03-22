@@ -43,7 +43,7 @@ Taking care of goats is a lot of fun, but it's also a big responsibility. Part o
 
 So, can you give your goats Omegablume?
 
-We'll cover everything below.we will answer those questions and more. We'll tell you all about the nutritional benefits of Omegablumeand how it can help your goats stay healthy.
+we will answer those questions and more. We'll tell you all about the nutritional benefits of Omegablumeand how it can help your goats stay healthy.
 
 We'll also give you some helpful tips on how to incorporate Omegablumeinto your goats' diet.
 
@@ -125,7 +125,7 @@ Another option is to feed them flaxseed, which is a rich source of these benefic
 
 These greens are packed with nutrients that can help keep your goats healthy and strong. No matter which option you choose, be sure to talk to a goat expert or other trusted healthcare professional before making any changes to your goats' diet or supplements.
 
-When it comes to the health and well-being of your goats, you want to be sure that you are doing everything you can to keep them happy and healthy.
+You want to be sure that you are doing everything you can to keep them happy and healthy.
 
 ### How Quickly Will You See Results?
 
@@ -143,7 +143,7 @@ For growing kids, start with a quarter of the adult dose and increase gradually 
 
 Always weigh your goats before calculating dosages. Guessing at body weight often leads to under-dosing or over-dosing, neither of which gives you the results you are looking for.
 
-## Our Take
+## 
 
 You can give your goats Omegablume to help make sure that they are getting all the nutrients they need to stay healthy and strong.
 

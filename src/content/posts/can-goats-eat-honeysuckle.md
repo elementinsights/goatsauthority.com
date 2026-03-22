@@ -65,7 +65,7 @@ Too much honeysuckle could upset this balance.
 
 But remember: keep portions small here as well just like with any other treat you give your goat because overeating anything isn’t healthy even if it’s safe otherwise.
 
-In conclusion whether or not your goat would actually eat the honeysuckle really comes down to personal preference however rest assured knowing it won’t hurt them unless consumed excessively
+In conclusion whether or not your goat would actually eat the honeysuckle really comes down to personal preference however knowing it won’t hurt them unless consumed excessively
 
 #### Are There Any Risks for Goats Eating Honeysuckle?
 
@@ -97,7 +97,7 @@ Some symptoms may include upset stomachs or even more serious conditions like ki
 
 So how do you know which honeysuckles your goat is eating? The key lies in observation and knowledge about local flora around your area where your goats graze freely.
 
-In general, it’s always best practice as a responsible goat owner to monitor what they’re munching on during grazing times.
+It’s always best practice as a goat owner to monitor what they’re munching on during grazing times.
 
 ### the Nutritional Value of Honeysuckle for Goats
 
@@ -143,9 +143,7 @@ Goats are known for their wide-ranging diet. They eat a variety of plants, inclu
 
 This plant is not only safe but also nutritious for them.
 
-Different goat breeds have different preferences when it comes to food. But most enjoy munching on honeysuckle leaves and flowers.
-
-Honeysuckles provide goats with vitamins and minerals they need to stay healthy. These include vitamin C, calcium, magnesium, and potassium among others.
+Different goat breeds have different preferences calcium, magnesium, and potassium among others.
 
 It’s important to note that while goats can eat honeysuckle in moderation, too much might cause stomach upset or other health issues due to its high sugar content.
 

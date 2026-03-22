@@ -68,7 +68,7 @@ Conversely, older goats tend to be larger, more agile, and more experienced in t
 
 They also exhibit certain behaviors that are rarely seen in young goats, such as herds forming top-down hierarchies or males competing with each other for mating opportunities.
 
-In general, the differences between newborns and older goats reflect their different stages of maturity and experience, which help to make sure the survival and success of both groups in the wild.
+The differences between newborns and older goats reflect their different stages of maturity and experience, which help to make sure the survival and success of both groups in the wild.
 
 ## Why mix them together?
 
@@ -100,7 +100,7 @@ The seventh reason is that it can help to improve the quality of the wool. If th
 
 This can be beneficial for making wool products.
 
-Overall, there are many reasons why you might want to mix different age groups of goats together. These reasons include preventing boredom and fighting, promoting learning, improving herd health, and improving the quality of the milk, meat, and wool.
+There are many reasons why you might want to mix different age groups of goats together. These reasons include preventing boredom and fighting, promoting learning, improving herd health, and improving the quality of the milk, meat, and wool.
 
 ## How to mix them together?
 
@@ -126,7 +126,7 @@ If one goat becomes sick, it is best to isolate it from the others.
 
 The third risk is that the goats may bully each other. To prevent this, it is important to monitor the goats closely and be prepared to separate them if necessary.
 
-Overall, there are a few risks associated with mixing different age groups of goats together.
+There are a few risks associated with mixing different age groups of goats together.
 
 Then again, these risks can be minimized by providing the goats with plenty of food and water and by monitoring them closely.
 

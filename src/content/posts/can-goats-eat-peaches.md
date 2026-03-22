@@ -60,7 +60,7 @@ While this sounds scary, don’t worry too much. Goats are smart and usually avo
 
 However, it’s always better to be safe than sorry when feeding your goat treats like peaches or other fruits with pits in them.
 
-All in all, yes, goats can enjoy eating peaches as long as you take out the pit before giving it to them.
+Yes, goats can enjoy eating peaches as long as you take out the pit before giving it to them.
 
 ### Beware of Pesticide on Grocery-Bought Peaches
 
@@ -164,7 +164,7 @@ Goats can eat fresh peaches just fine without any preparation needed. They love 
 
 Remember to remove the pit before feeding them a peach though. The pits contain small amounts of cyanide which could harm your goat if they ingest too many.
 
-In summary, you don’t need to cook peaches for your goats but do take out the pits first. Your goats will appreciate this tasty treat either way.
+You don’t need to cook peaches for your goats but do take out the pits first. Your goats will appreciate this tasty treat either way.
 
 ## Can Peaches Cause Problems for Goats?
 

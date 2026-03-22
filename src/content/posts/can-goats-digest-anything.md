@@ -100,7 +100,7 @@ The omasum, the third chamber, takes nutrients and water from the food.
 
 The food is entirely digested and absorbed into the bloodstream in the fourth chamber, called the abomasum.
 
-So next time you see a goat munching on something questionable, rest assured that they will be able to digest it without any problems.
+So next time you see a goat munching on something questionable, they will be able to digest it without any problems.
 
 ## What are the best food options for goats?
 
@@ -134,7 +134,7 @@ And finally, while goats can eat a variety of foods, they should not be given to
 
 ### How the Rumen Microbiome Affects Digestion
 
-The rumen contains billions of bacteria, protozoa, and fungi that do most of the heavy lifting when it comes to breaking down food. Without these microorganisms, a goat could not extract nutrients from plant matter at all.
+The rumen contains billions of bacteria, protozoa, and fungi that do most of the heavy lifting a goat could not extract nutrients from plant matter at all.
 
 This is why sudden diet changes are so dangerous for goats. When you switch feeds too quickly, the microbial population in the rumen does not have time to adjust. The wrong bacteria can overpopulate, producing excess gas and acid that leads to bloat or acidosis.
 

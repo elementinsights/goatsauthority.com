@@ -96,7 +96,7 @@ Third, the cubes are easy to store and transport, making them convenient for far
 
 To wrap up, some goats simply prefer the taste of hay cubes over loose hay.
 
-Overall, there are many benefits to feeding hay cubes to goats, and it's an important part of their diet.
+There are many benefits to feeding hay cubes to goats, and it's an important part of their diet.
 
 ## What are the risks of feeding hay cubes to goats?
 

@@ -45,133 +45,72 @@ faq:
   - question: "How is distemper treated in goats?"
     answer: "Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal."
 ---
+Distemper causes real confusion when it comes to goats. The short answer is that goats do not get canine distemper.
 
-You may be wondering if goats can carry distemper since it's such a contagious disease. And if so, what are the symptoms and treatment options?
-
-we will answer all of your questions so that you can be informed and prepared in the event that your goat does come down with distemper.
+There is a related disease called peste des petits ruminants (PPR) sometimes called "goat distemper," but it is a different virus entirely and mainly a concern in Africa, the Middle East, and parts of Asia.
 
 ## Can goats carry distemper?
 
-Of course, distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
+Goats cannot carry or contract canine distemper virus (CDV). This virus affects dogs, raccoons, ferrets, and other carnivores, not goats.
+
+Your goats are safe from CDV, and you do not need a canine distemper vaccine for them.
 
 ## What is distemper and how does it spread?
 
-Distemper is a highly contagious viral disease that affects a wide range of animals, including dogs, cats, ferrets, and even seals.
+Canine distemper is caused by a paramyxovirus that spreads through respiratory droplets from infected dogs, raccoons, and other carnivores. It attacks the respiratory, gastrointestinal, and nervous systems of susceptible animals.
 
-The disease is caused by a virus belonging to the family Paramyxoviridae, which also includes viruses that cause measles and mumps in humans.
-
-Distemper is typically spread through close contact with an infected animal, or contact with contaminated surfaces. There's no specific treatment for distemper, and it's often fatal, particularly in puppies and kittens.
-
-vaccination is the best way to prevent the disease.
+PPR, the actual goat concern, is caused by a different paramyxovirus. It spreads through direct contact and respiratory secretions, and is not present in North America, Europe, or Australia.
 
 ## What are the symptoms of distemper in goats?
 
-Distemper in goats is a highly contagious disease that can have serious consequences. Early symptoms include fever, runny nose, and watery eyes.
+Since goats do not get canine distemper, there are no CDV symptoms to watch for. If your goat is showing respiratory or neurological symptoms, the cause is something else entirely.
 
-As the disease progresses, goats may develop a cough, pneumonia, and diarrhea. In severe cases, distemper can lead to seizures and even death.
-
-vaccination is the best way to prevent goats from contracting distemper.
-
-However, if a goat does become infected, prompt treatment by a goat expert is essential. With prompt treatment, many goats will recover from distemper and go on to live healthy lives.
+PPR symptoms in goats include high fever, nasal discharge, mouth sores, severe diarrhea, and pneumonia. The disease progresses fast and can kill within a week. If you keep goats in a region where PPR is present, vaccination is available and highly effective.
 
 ## How is distemper treated in goats?
 
-Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal.
+There is no need to treat goats for canine distemper because they do not get it. If your goat is sick with respiratory or neurological symptoms, work with your vet to identify the actual cause.
 
-Be aware, early diagnosis and treatment of symptoms can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
-
-If your goat shows any of these signs, call a goat expert immediately.
-
-Treatment will focus on supportive care, such as hydration and nutrition. In severe cases, hospitalization may be necessary.
-
-Unfortunately, there's no vaccine available for goats, so the best way to prevent distemper is to maintain a clean and healthy environment.
+Common goat diseases that mimic what people imagine "distemper" looks like include pneumonia, listeriosis, polioencephalomalacia (goat polio), and meningeal worm infection. Each of these has its own specific treatment, so a proper diagnosis matters.
 
 ## Can goats recover from distemper?
 
-Many goats will recover from distemper if they receive prompt treatment. However, the disease can be fatal, particularly in young goats.
+This question does not apply to goats in the context of canine distemper. Goats never contract it in the first place, so there is nothing to recover from.
 
-If your goat has contracted a distemper, call a goat expert immediately and follow their instructions. With prompt treatment and supportive care, many goats will make a full recovery.
-
-Distemper is a highly contagious and potentially fatal disease that can affect goats. If your goat shows any signs of distemper, call a veterinarian immediately.
-
-With prompt treatment, many goats will make a full recovery.
+For PPR, goats that receive supportive care early and have a mild strain can survive. Recovered goats develop strong immunity. However, severe strains of PPR carry a mortality rate of 50 to 90 percent in unvaccinated herds.
 
 ## Can I vaccinate my goats against distemper?
 
-Distemper is a viral disease that affects several different mammals, including goats. The disease is highly contagious and can be fatal, making vaccination an important part of disease prevention.
+You do not need to vaccinate your goats against canine distemper. No such vaccine is made for goats because goats are not at risk for CDV.
 
-There are a number of different vaccines available for distemper, and most goats will need to be vaccinated annually.
-
-A goat expert can help you determine which vaccine is best for your goats, as well as when and how often they need to be vaccinated.
-
-In general, the vaccination process is relatively straightforward and can help to protect your goats from this serious disease.
+If you are in a region where PPR is a concern, effective PPR vaccines are available. Talk to your local veterinary authority about whether PPR vaccination is recommended in your area. In PPR-free countries, this vaccine is not needed or available.
 
 ## How can you prevent your goat from getting distemper?
 
-Distemper is a serious viral disease that can affect goats of all ages. Early symptoms include fever, watery diarrhea, runny nose, and lethargy.
+Since canine distemper is not a goat disease, no prevention steps are necessary for CDV. Your goats can safely share a property with vaccinated dogs without any risk of cross-infection.
 
-If left untreated, distemper can lead to pneumonia, encephalitis, and death. There's no cure for distemper, but it can be prevented through vaccination.
-
-All goats should be vaccinated against distemper at least once a year. Booster shots may be necessary depending on the goat's risk factors.
-
-n addition to vaccination, good hygiene practices can help to prevent the spread of distemper. Goats should be kept clean and dry, and their housing should be sanitized on a regular basis.
-
-Any sick goats should be isolated from the rest of the herd to prevent the disease from spreading. By taking these precautions, you can help to keep your goats healthy and free from distemper.
+Focus your disease prevention efforts on the conditions that actually threaten goats. Keep up with CDT vaccinations (clostridium perfringens types C and D plus tetanus), maintain good parasite management, and practice basic biosecurity when introducing new animals to your herd.
 
 ## Are there any other diseases that can affect goats?
 
-In addition to the diseases specifically mentioned above, there are several other conditions that can affect goats. These include everything from pneumonia and parasites to foot rot and bloating.
+Goats face many real health threats that deserve attention more than distemper. Pneumonia in kids, barber pole worm, and caseous lymphadenitis (CL) are far more common.
 
-To keep your goats healthy, it's important to be aware of the signs and symptoms of these various diseases.
-
-Pneumonia, for example, is characterized by coughing, difficulty breathing, and a loss of appetite. If not treated promptly, it can lead to death.
-
-Parasites, on the other hand, are often asymptomatic but can still cause serious damage to the animal over time. For this reason, it's important to have your goats checked regularly by a goat expert
-
-By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
+Regular vet checkups and testing for diseases like CAE and Johne's will do more for your herd than worrying about distemper.
 
 ## Can goat's distemper be transmissible to humans?
 
-Goat's distemper is a serious, contagious disease that primarily affects goats. But, it can also be transmissible to other animals, including humans.
+Canine distemper is not transmissible to humans, and goats do not carry it. PPR is also not a human health threat.
 
-The disease is caused by a virus, and symptoms include fever, runny nose, diarrhea, and vomiting. In severe cases, the virus can cause pneumonia and death.
-
-there's no specific treatment for goat's distemper, and the best way to prevent it's to vaccinate against it. But, even if you are vaccinated, you can still develop mild symptoms if you are exposed to the virus.
-
-Therefore, it's important to avoid contact with sick animals and practice good hygiene if you are around goats. If you think you may have been exposed to the virus, contact your doctor immediately.
-
-While a goat's distemper is not usually fatal in humans, it can still be a serious illness. Therefore, it's best to take precautions to avoid exposure to the virus.
+The zoonotic diseases worth worrying about are Q fever, chlamydiosis, and rabies. Those are the real risks when working closely with livestock.
 
 ## Are there any other diseases that can affect your goats?
 
-There are several other diseases that can affect your goats. These include everything from pneumonia and parasites to foot rot and bloating.
+Enterotoxemia (overeating disease) is one of the most common and preventable killers of goats. The CDT vaccine covers this along with tetanus and should be given annually to every goat on your farm.
 
-To keep your goats healthy, you need to be aware of the signs and symptoms of these various diseases.
+Foot rot, mastitis, and ketosis in late-pregnancy does are other conditions to stay on top of. A good relationship with a vet who knows small ruminants is worth its weight in gold for keeping your herd healthy year-round.
 
-Pneumonia, for example, is characterized by coughing, difficulty breathing, and a loss of appetite. If not treated promptly, it can lead to death.
+## Final Thoughts
 
-Parasites, on the other hand, are often asymptomatic but can still cause serious damage to the animal over time. For this reason, you need to have your goats checked regularly by a veterinarian.
+Goats do not get canine distemper, period. The virus that causes distemper in dogs does not affect goats, and there is no need to vaccinate your goats against it.
 
-By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
-
-### Quarantine Procedures for New Goats
-
-Any time you bring a new goat onto your property, quarantine it for a minimum of 30 days before introducing it to your existing herd. This gives you time to watch for symptoms of distemper and other contagious diseases.
-
-Set up the quarantine area at least 50 feet from your main herd if possible. Use separate feed buckets, water containers, and tools for the quarantined animal. Wash your hands and change your boots between caring for the new goat and handling your regular herd.
-
-During the quarantine period, have your vet run a basic health check and any recommended tests. This extra step costs a bit of money upfront but can save you from introducing a devastating disease into a healthy herd.
-
-### How to Disinfect Your Barn After a Distemper Outbreak
-
-If distemper does hit your herd, thorough disinfection of the barn and all equipment is critical before reintroducing healthy animals. Remove all bedding, hay, and feed from the affected area and dispose of it by burning or deep burial.
-
-Scrub every hard surface with a bleach solution mixed at 1 part bleach to 32 parts water. This includes walls, floors, feeders, water buckets, stanchions, and any tools that came in contact with sick animals.
-
-Let the barn air out and dry completely before adding fresh bedding. Distemper virus can survive on surfaces for several weeks in cool, shaded environments, so do not rush this step. Wait at least two weeks after disinfecting before putting goats back in the space.
-
-## Closing Notes
-
-Overall, goats are relatively resilient creatures that can withstand a lot of abuse and still remain healthy. But, they are susceptible to a number of diseases, some of which can be fatal.
-
-The best way to protect your goats is to vaccinate them against the most common diseases and to practice good hygiene. By taking these precautions, you can help to keep your goats healthy and free from disease.
+The disease sometimes called "goat distemper" is actually PPR, which is caused by a completely different virus and is mainly found in Africa and Asia. Spend your time and resources on the diseases that actually threaten your herd, like pneumonia, parasites, and enterotoxemia.

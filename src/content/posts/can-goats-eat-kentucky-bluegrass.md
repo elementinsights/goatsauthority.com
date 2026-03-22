@@ -44,7 +44,7 @@ faq:
 
 You might be unsure whether it's okay for your goats to eat Kentucky bluegrass. If so, what are the advantages, risks, and quantities of feeding this grass to your goats?
 
-We will answer all of your questions in this article so that you can decide for yourself whether or not to feed Kentucky bluegrass to your goats.
+We will answer all of your questions so that you can decide for yourself whether or not to feed Kentucky bluegrass to your goats.
 
 ## Can goats eat Kentucky bluegrass?
 
@@ -68,7 +68,7 @@ Goats are browsers, not grazers like cows. This means that they prefer to nibble
 
 This means not all goats will eat Kentucky bluegrass.
 
-That said, there are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
+There are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
 
 If you're unsure whether your goat will eat Kentucky bluegrass, it's always best to consult with an experienced goat breeder. They will be able to advise you on the best diet for your goat based on its breed, age, and health.
 
@@ -114,7 +114,7 @@ However, how much Kentucky bluegrass should be fed to goats on a daily basis?
 
 The answer depends on the age and weight of the goat, as well as the quality of the grass. For example, a young kid will need less grass than an adult goat.
 
-In general, adults should consume about 2-3% of their body weight in grass per day. So, if you have a 30 lb goat, they should eat around 1 lb of grass per day.
+Adults should consume about 2-3% of their body weight in grass per day. So, if you have a 30 lb goat, they should eat around 1 lb of grass per day.
 
 The best way to determine how much grass your goat needs is to consult with an experienced goat breeder. They will be able to give you specific recommendations based on your goat's individual needs.
 
@@ -158,7 +158,7 @@ Feed hay before turning goats out on lush pasture. A goat with a belly full of d
 
 Watch for a goat standing with its left side visibly distended and appearing uncomfortable. Mild bloat can sometimes be relieved by walking the goat around to encourage gas release. Serious cases require a vet or emergency stomach tube to relieve the pressure.
 
-## Our Take
+## 
 
 Goats can eat Kentucky bluegrass, but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.
 

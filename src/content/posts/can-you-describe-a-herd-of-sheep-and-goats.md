@@ -96,7 +96,7 @@ These dietary preferences can affect the way that these animals interact with th
 
 For predators, both sheep and goats can fall prey to a variety of different animals. Common predators of sheep include coyotes, foxes, wolves, and bears.
 
-Meanwhile, common predators of goats include coyotes, lynxes, mountain lions, and leopards. In general, smaller predators such as foxes and coyotes pose a greater threat to lambs than they do to adult sheep.
+Meanwhile, common predators of goats include coyotes, lynxes, mountain lions, and leopards. Smaller predators such as foxes and coyotes pose a greater threat to lambs than they do to adult sheep.
 
 However, coyotes will occasionally kill an adult sheep if they are desperate or if the opportunity presents itself. Similarly, mountain lions and leopards will sometimes kill a goat kid if they can catch one alone, but they typically avoid attacking adult goats.
 
@@ -114,7 +114,7 @@ Similarly, goats that live in a harsh environment with little shelter or food ma
 
 The cost of raising sheep and goats can vary depending on a number of factors, such as the type of animal, the climate, and the amount of land available.
 
-In general, sheep are more expensive to raise than goats. This is because they require more food and shelter, and they are also more susceptible to disease.
+Sheep are more expensive to raise than goats. This is because they require more food and shelter, and they are also more susceptible to disease.
 
 The cost of raising sheep and goats can differ depending on the region in which they are being raised. For example, it is typically more expensive to raise sheep and goats in a cold climate than it is in a warm climate.
 
@@ -156,6 +156,6 @@ On the sheep side, hair sheep breeds like Katahdins and Dorpers are a better fit
 
 ## To Wrap Things Up
 
-Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
+Both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
 
 If you are considering getting a sheep or goat, be sure to do your research and find an animal that is right for you.

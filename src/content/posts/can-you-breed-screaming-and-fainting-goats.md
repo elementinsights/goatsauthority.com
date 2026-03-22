@@ -170,7 +170,7 @@ First-generation crosses between screaming and fainting goats tend to be medium-
 
 Coat colors vary widely depending on the parents. Fainting goats come in almost every color pattern, and screaming goats are equally diverse. Expect a litter where every kid looks slightly different from its siblings.
 
-## Our Take
+## 
 
 You can breed screaming and fainting goats successfully by following the proper care and management techniques.
 

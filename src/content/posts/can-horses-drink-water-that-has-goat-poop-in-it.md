@@ -68,7 +68,7 @@ There are a number of different ways to prevent your horse from drinking contami
 
 Another option is to set up a system of hay nets, which allow horses to access hay without having direct contact with the water source. Of course, the most reliable approach is to filter or treat any standing water in order to make sure that it is safe for your horse to drink.
 
-By monitoring your horse's behavior, implementing one or more of these strategies, and providing frequent access to clean water, you can rest assured that your horse will stay hydrated and healthy even in times of high risk for contamination.
+By monitoring your horse's behavior, implementing one or more of these strategies, and providing frequent access to clean water, you can your horse will stay hydrated and healthy even in times of high risk for contamination.
 
 ## What should you do if your horse does drink contaminated water?
 
@@ -80,7 +80,7 @@ If you suspect that your horse has consumed contaminated water, it is important 
 
 Similarly, be sure to monitor their behavior and health closely so that you can evaluate whether more specialized care may be needed.
 
-In general, if your horse appears stable but has consumed questionable water, it is usually best not to take any unnecessary risks and instead opt for professional goat expert care.
+If your horse appears stable but has consumed questionable water, it is usually best not to take any unnecessary risks and instead opt for professional goat expert care.
 
 ## What are the signs of dehydration in horses?
 
@@ -112,11 +112,11 @@ When a horse drinks water, it uses its tongue to scoop up the liquid and move it
 
 The horse then uses a complex series of muscles that surround its jaw and head to create suction within its mouth, drawing the water into its throat. The horse uses these same muscles to close off its nose as it swallows, preventing any water from getting into its airways or lungs.
 
-Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. In general, this complex process helps make sure that horses can stay properly hydrated even in times of need.
+Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. This complex process helps make sure that horses can stay properly hydrated even in times of need.
 
 ## Closing Notes
 
-Overall, if you think your horse may have consumed water that was contaminated with goat feces, it is important to monitor their behavior and overall health closely.
+If you think your horse may have consumed water that was contaminated with goat feces, it is important to monitor their behavior and overall health closely.
 
 In most cases, horses will be able to drink water that has been contaminated with goat feces without any major health complications.
 

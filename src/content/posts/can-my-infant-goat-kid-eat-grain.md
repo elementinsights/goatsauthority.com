@@ -42,7 +42,7 @@ faq:
 
 You may be wondering whether you can feed grain to your infant goat kid or not. And if so, what are the things you need to consider before doing so?
 
-We'll cover everything below.we will answer those questions for you, as well as provide some useful information on goat kid nutrition and feeding in general.
+we will answer those questions for you, as well as provide some useful information on goat kid nutrition and feeding in general.
 
 ## Can my infant goat kid eat grain?
 
@@ -50,7 +50,7 @@ In addition, always choose a high-quality feed that is designed specifically fo
 
 Despite their small size, goats are able to eat a wide variety of food. This includes both plants and animals.
 
-That said, the majority of their diet should be made up of hay, fresh vegetables, and other green vegetation.
+The majority of their diet should be made up of hay, fresh vegetables, and other green vegetation.
 
 Grain can be fed to goats as well, but it should only make up a small part of their overall diet. This is because grain is generally high in carbohydrates and can cause digestive problems if goats eat too much of it.
 
@@ -62,9 +62,9 @@ It is also important to consult with a veterinarian before making any changes to
 
 ## What are the benefits of feeding grain to infant goats?
 
-When it comes to feeding infant goats, there are many different options available. Some people choose to give their young livestock a strictly vegetarian diet, while others opt for a mix of grains and vegetables.
+There are many different options available. Some people choose to give their young livestock a strictly vegetarian diet, while others opt for a mix of grains and vegetables.
 
-While there is no right or wrong choice when it comes to feeding baby goats, there are definitely some benefits of choosing to feed them grain.
+While there is no right or wrong choice there are definitely some benefits of choosing to feed them grain.
 
 For one thing, goat milk is higher in fat than cow's milk, making it an excellent source of energy and nutrition for growing goats.
 
@@ -132,9 +132,7 @@ By following these simple tips, you can help make sure that your goats get all o
 
 ### Best Grain Types for Infant Goats
 
-Not all grains are created equal when it comes to feeding young kids. Whole oats are one of the safest choices because they are easy to digest and have a good balance of fiber and energy.
-
-Cracked corn can be mixed in small amounts for extra calories, but too much corn leads to obesity and acidosis. Keep it under 20% of the total grain mix.
+Not all grains are created equal but too much corn leads to obesity and acidosis. Keep it under 20% of the total grain mix.
 
 Barley is another solid option that many goat breeders swear by. It has a higher protein content than corn and is less likely to cause digestive upsets in young animals.
 
@@ -162,7 +160,7 @@ Never store grain directly on a concrete floor, as moisture will wick up from be
 
 Buy grain in quantities you can use within two to three weeks. Stale grain loses nutritional value and can develop mold that produces toxins harmful to young goats.
 
-## Wrapping Up
+## Final Thoughts
 
 So, to sum up, there are a few things you can do to make sure your goat kids get the most out of their grain diet.
 

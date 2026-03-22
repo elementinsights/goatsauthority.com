@@ -154,7 +154,7 @@ Keep each goat's total vegetable intake to no more than a cup per day. The bulk 
 
 ## Closing Notes
 
-Overall, goats can safely eat bell peppers. Bell peppers are a good source of vitamins and minerals, and they can help boost the immune system.
+Goats can safely eat bell peppers. Bell peppers are a good source of vitamins and minerals, and they can help boost the immune system.
 
 Just be sure to introduce them slowly and in small amounts, as too much can cause gastrointestinal upset.
 

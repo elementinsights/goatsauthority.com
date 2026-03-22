@@ -46,7 +46,7 @@ Everything you need to know about goats and sweet potatoes will be covered in th
 
 ## Can goats eat sweet potatoes?
 
-That said, not all goats enjoy eating sweet potatoes. Some may find the taste to be too sweet.
+Not all goats enjoy eating sweet potatoes. Some may find the taste to be too sweet.
 
 If this is the case with your goat, you can try roasting the sweet potatoes to see if that makes them more palatable.
 
@@ -102,7 +102,7 @@ To avoid this, feed sweet potatoes to goats in moderation and monitor their stoo
 
 Finally, sweet potatoes can attract insects. To avoid this, store sweet potatoes in a cool, dry place.
 
-Overall, sweet potatoes are a portion of healthy food for goats. Be aware, there are a few risks to consider when feeding them to goats.
+Sweet potatoes are a portion of healthy food for goats. Be aware, there are a few risks to consider when feeding them to goats.
 
 by following these tips, you can help make sure that your goats stay healthy and happy.
 

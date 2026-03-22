@@ -106,7 +106,7 @@ There are both advantages and disadvantages to dehorning adult goats. On the plu
 
 It can also make it easier to handle the goats, as they will no longer have sharp horns that could potentially hurt you. On the downside, dehorning can be a stressful experience for the goat and it may take several weeks for them to recover from the procedure.
 
-There is also a risk of infection if the wound is not properly cared for. The bottom line is, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
+There is also a risk of infection if the wound is not properly cared for. Is, whether or not to dehorn your adult goats is a personal decision that depends on your individual circumstances.
 
 ## How to band an adult goat's horns for dehorning?
 
@@ -154,7 +154,7 @@ Banding should be reserved for situations where disbudding was missed and the ho
 
 If the horns are extremely thick or curved, banding may not work at all. In those cases, surgical removal by a vet is the safest path forward.
 
-## Wrapping Up
+## Final Thoughts
 
 The decision of whether or not to dehorn your goats is a personal one that depends on your individual circumstances.
 

@@ -50,7 +50,7 @@ Still, young kids are vulnerable. A fox might also steal pet goats for food.
 
 If a goat is sick or injured, a fox might attack it as well.
 
-In general, though, foxes pose little threat to healthy adult goats since they are not on the same level in the food chain. For perspective, you may want to know if a mountain goat can kill you to understand how strong goats truly are.
+Though, foxes pose little threat to healthy adult goats since they are not on the same level in the food chain. For perspective, you may want to know if a mountain goat can kill you to understand how strong goats truly are.
 
 ## What kind of fox can kill a goat?
 
@@ -130,10 +130,10 @@ There are a few things you should know about electric fences and goats.
 - Second, electric fences are relatively inexpensive and easy to install.
 - Third, goats are curious creatures and may try to test the fence by chewing on it or leaning against it.
 
-## Our Take
+## 
 
 Foxes can pose a serious threat to goats, but you can take precautions to keep them safe.
 
-In general, taking preventative measures is the best course of action to protect your goats from foxes.
+Taking preventative measures is the best course of action to protect your goats from foxes.
 
 You must also keep an eye on your goats and consider their surroundings. Learn whether a pygmy goat can live with a mini pig and how goat urine can kill trees to better manage your pasture.

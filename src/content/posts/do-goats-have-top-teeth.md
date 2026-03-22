@@ -73,7 +73,7 @@ The incisors are used for clipping off tender new growth, while the molars are p
 
 In addition to their role in eating, goat's top teeth also play an important role in communication. When a goat bares its teeth, it's often a sign of aggression.
 
-That said, goats will also show their teeth when they are content or curious. So, the next time you see a goat with its mouth open, try to interpret what it's trying to say.
+Goats will also show their teeth when they are content or curious. So, the next time you see a goat with its mouth open, try to interpret what it's trying to say.
 
 ## How can you take care of a goat's teeth?
 
@@ -141,4 +141,4 @@ Goats' diet plays a role in tooth loss. Goats are known for being able to eat ju
 
 This can cause wear and tear on their teeth, leading to tooth loss.
 
-Overall, it's not unusual for goats to lose some of their teeth as they age. However, it's still important to monitor their dental health and make sure that they are getting the proper nutrition and care.
+It's not unusual for goats to lose some of their teeth as they age. However, it's still important to monitor their dental health and make sure that they are getting the proper nutrition and care.

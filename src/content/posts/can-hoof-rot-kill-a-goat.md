@@ -102,7 +102,7 @@ You may also want to consider covering or wrapping your goat's hooves, especiall
 
 It's also worth noting that it is important to keep your goats' living spaces clean, both to minimize the spread of disease and improve hygiene and health.
 
-Finally, if you notice any symptoms of hoof rot in your goats, be sure to seek veterinarian assistance right away to make sure effective treatment and recovery. Overall, with proper care and attention, you can help keep your goats healthy and free from the impact of hoof rot.
+Finally, if you notice any symptoms of hoof rot in your goats, be sure to seek veterinarian assistance right away to make sure effective treatment and recovery. With proper care and attention, you can help keep your goats healthy and free from the impact of hoof rot.
 
 ## What are other things people should know about hoof rot?
 

@@ -59,7 +59,7 @@ Similarly, eating goat legs can help boost immune function and protect against c
 
 And because it is so nutrient-dense, eating goat legs can help make sure that both mom and baby get all of the vitamins and minerals they need to stay healthy throughout the course of pregnancy.
 
-Overall, there are many reasons why eating goat legs can be beneficial for pregnant women and their growing babies.
+There are many reasons why eating goat legs can be beneficial for pregnant women and their growing babies.
 
 ## What are the risks of not eating goat legs during pregnancy?
 
@@ -107,15 +107,13 @@ For example, certain types of fish can be harmful to the development of your bab
 
 In addition, it is also important to avoid raw and undercooked meat and eggs, as these foods may contain harmful bacteria that could put you and your baby at risk.
 
-Overall, it is best to speak with your healthcare provider if you have any questions or concerns about what you should or should not eat while pregnant.
+It is best to speak with your healthcare provider if you have any questions or concerns about what you should or should not eat while pregnant.
 
 They will be able to provide guidance and support to help make sure that you are getting the nutrients and energy that your body needs during this time.
 
 ## What should I do if I have questions about eating goat legs during pregnancy?
 
-Right off the bat, it is essential to understand that there is some uncertainty when it comes to eating goat legs during pregnancy.
-
-While some sources claim that goat meat is safe for consumption during pregnancy due to its high protein and low-fat content, others caution against consuming this type of meat altogether.
+Right off the bat, understand that there is some uncertainty others caution against consuming this type of meat altogether.
 
 If you are unsure about the safety of eating goat during your pregnancy and want to err on the side of caution, there are a few things that you can do. The first step is to speak with your doctor or a trusted healthcare professional about your concerns.
 

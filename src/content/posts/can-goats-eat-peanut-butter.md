@@ -124,7 +124,7 @@ A little bit of this calorie and nutrient-rich food goes a long way in helping k
 
 ### Using Peanut Butter for Medication Delivery
 
-One genuinely useful application for peanut butter on a goat farm is hiding medications in it. Goats are notoriously difficult when it comes to taking pills or liquid supplements, and a small smear of peanut butter can mask the taste.
+One genuinely useful application for peanut butter on a goat farm is hiding medications in it. Goats are notoriously difficult and a small smear of peanut butter can mask the taste.
 
 Wrap the pill in a thin layer of peanut butter and place it on the back of the goat's tongue. Most goats will swallow it without a fight because the peanut butter flavor overwhelms the medicine taste.
 

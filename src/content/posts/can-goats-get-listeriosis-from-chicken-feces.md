@@ -45,7 +45,7 @@ We all know that goats are curious creatures. They will pretty much put anything
 
 So, can goats get listeriosis from chicken feces? And if so, what are the symptoms?
 
-Let's break it down.we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
+we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
 
 ## Can goats get listeriosis from chicken feces?
 
@@ -179,7 +179,7 @@ Strip the bedding from any area the sick goat occupied and replace it with fresh
 
 Monitor every other goat in the herd for symptoms over the next three weeks. Listeriosis can have an incubation period of up to 21 days, so you are not in the clear just because the rest of the herd looks fine today.
 
-## Our Take
+## 
 
 Goats can get listeriosis from chicken feces. This is a serious bacterial infection that can be deadly in goats.
 

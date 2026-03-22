@@ -101,7 +101,7 @@ In high doses, these can upset their stomachs.
 
 Vines and leaves also contain small amounts of this substance but it’s usually not harmful if they’re eating a balanced diet otherwise. The same goes for peels too, just make sure they’re clean before feeding them to your goats.
 
-All in all, while some caution is needed with seeds especially, most elements of the squash plant are quite okay for your goat to munch on.
+While some caution is needed with seeds especially, most elements of the squash plant are quite okay for your goat to munch on.
 
 ## Can Goats Eat Different Types of Squash. Butternut, Pumpkin, Yellow, Acorn?
 
@@ -115,7 +115,7 @@ It’s also important not to feed them rotten or moldy squash as it could make t
 
 Before you serve up a tasty treat of butternut or acorn squash though, remember one thing: always remove the seeds first. Seeds from these squashes can be harmful if ingested by your goat.
 
-At the end of the day, yes. Goats love eating various kinds of squash just like we do.
+yes. Goats love eating various kinds of squash just like we do.
 
 They find it delicious and nutritious too.
 
@@ -185,7 +185,7 @@ Remember not all squashes taste alike so observe which ones they prefer more tha
 
 Always introduce new foods slowly though. Too much at once could upset their stomachs.
 
-All in all, yes, goats can eat squashes. It’s nutritious and safe if served properly following these steps above
+Yes, goats can eat squashes. It’s nutritious and safe if served properly following these steps above
 
 ### Make Sure You Clean Up After Feeding Squash to Your Goats
 

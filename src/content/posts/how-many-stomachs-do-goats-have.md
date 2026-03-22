@@ -150,6 +150,6 @@ Goats are interesting creatures with a lot of quirks. One of the most curious th
 
 While this may seem confusing, it actually helps them to digest their food more efficiently.
 
-If you have goats, it's important to be aware of the common stomach problems that can affect them. Overall, goats are relatively easy to care for animals.
+If you have goats, it's important to be aware of the common stomach problems that can affect them. Goats are relatively easy to care for animals.
 
 However, their stomachs can be delicate and require special care.

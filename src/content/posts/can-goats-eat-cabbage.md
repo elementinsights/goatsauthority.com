@@ -81,7 +81,7 @@ There are many different varieties of cabbage, including green, red, and Savoy. 
 
 One such type of cabbage is the black-seeded variety, which contains high levels of pyrrolizidine alkaloids. These alkaloids can be toxic to goats, causing liver damage and potentially death.
 
-This means it's essential to only feed cabbage to goats if you are sure that it's not the black-seeded variety. If you are unsure, it's best to err on the side of caution and avoid feeding cabbage to your goats altogether.
+This means only feed cabbage to goats if you are sure that it's not the black-seeded variety. If you are unsure, it's best to err on the side of caution and avoid feeding cabbage to your goats altogether.
 
 ## Risks associated with feeding cabbage to goats
 
@@ -107,7 +107,7 @@ When feeding cabbage to goats, you need to remember that they are not humans and
 
 Cabbage is a good source of vitamins A and C, as well as calcium and iron, but it also contains high levels of nitrates. When ingested by goats, these nitrates can convert into nitrites and cause health problems such as difficulty breathing, low blood pressure, and paralysis.
 
-For this reason, it's essential to limit the amount of cabbage that goats consume. A good rule of thumb is to offer no more than 1-2 pounds of cabbage per goat per day.
+For this reason, limit the amount of cabbage that goats consume. A good rule of thumb is to offer no more than 1-2 pounds of cabbage per goat per day.
 
 When feeding cabbage to goats, it's also essential to monitor them closely for signs of illness and contact an animal expert if any health concerns arise.
 
@@ -143,7 +143,7 @@ You can also shred the cabbage and mix it with their regular hay. This works esp
 
 Avoid feeding cabbage that has been cooked with salt, butter, or seasonings. Plain raw cabbage is always the safest option. Leftover coleslaw or sauerkraut is not appropriate either because of the added vinegar, sugar, and preservatives.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats can eat cabbage. Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
 

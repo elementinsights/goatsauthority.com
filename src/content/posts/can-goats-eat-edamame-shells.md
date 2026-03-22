@@ -45,7 +45,7 @@ It can be enjoyable and gratifying to care for goats. However, it's critical to 
 
 So, are edamame shells edible to goats?
 
-We will explore the advantages and dangers of feeding edamame shells to goats in this article, as well as the ideal serving size.
+We will explore the advantages and dangers of feeding edamame shells to goats as well as the ideal serving size.
 
 ## Can goats eat edamame shells?
 

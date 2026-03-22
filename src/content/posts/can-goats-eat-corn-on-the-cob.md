@@ -56,7 +56,7 @@ While most goats can eat small amounts of corn without any problems, it's import
 
 Corn is a starchy food that is high in carbohydrates, and it can cause digestive upset if your goat eats too much. And also, the kernels can be a choking hazard for baby goats.
 
-If you do feed corn to your pregnant goat, make sure to supervise her closely and remove any kernels that she drops. All in all, corn on the cob is a tasty treat that your pregnant goat can enjoy in moderation.
+If you do feed corn to your pregnant goat, make sure to supervise her closely and remove any kernels that she drops. Corn on the cob is a tasty treat that your pregnant goat can enjoy in moderation.
 
 ## Can a baby goat eat corn on the cob?
 
@@ -64,7 +64,7 @@ Baby goats can consume corn on the cob. In fact, corn on the cob is a good sourc
 
 At the same time, since corn on the cob is high in sugar, it should only be given to baby goats in moderation. And also, the kernels can be a choking hazard for baby goats.
 
-If you do feed corn to your baby goat, make sure to supervise him closely and remove any kernels that he drops. All in all, corn on the cob is a tasty treat that your baby goat can enjoy in moderation.
+If you do feed corn to your baby goat, make sure to supervise him closely and remove any kernels that he drops. Corn on the cob is a tasty treat that your baby goat can enjoy in moderation.
 
 ## What are the benefits of feeding goats corn on the cob?
 
@@ -90,7 +90,7 @@ Too much corn can lead to obesity and other health problems. When fed in moderat
 
 Although corn on the cob is a portion of healthy food for goats, there are a few risks to be aware of.
 
-First, as mentioned earlier, corn on the cob is a high-calorie food. This means that it should only be fed to goats in moderation.
+First, corn on the cob is a high-calorie food. This means that it should only be fed to goats in moderation.
 
 Too much corn can lead to obesity and other health problems. It's important to monitor your goat's intake of corn on the cob and make sure they are not eating too much.
 

@@ -45,7 +45,7 @@ While all animals need water to live, it is especially important for goats. Goat
 
 Is adding something to the goat's water bowl enough to treat coccidia?
 
-Let's break it down.we will answer those questions and more. We will discuss what coccidia are, the symptoms of coccidiosis in goats, and how to treat it effectively.
+we will answer those questions and more. We will discuss what coccidia are, the symptoms of coccidiosis in goats, and how to treat it effectively.
 
 ## Can I treat coccidia in goats in their water bowl?
 
@@ -65,13 +65,13 @@ One major benefit of treating coccidia is improved health among animals. By elim
 
 What's more, by protecting against more serious infections, coccidia treatment reduces the risk of illness among your herd. This can translate into smaller vet bills over time and reduced stress for you as a farmer or rancher.
 
-Another key benefit of treating coccidia in goats is increased productivity. In general, healthy livestock are more likely to produce higher yields than those that are sick or stressed.
+Another key benefit of treating coccidia in goats is increased productivity. Healthy livestock are more likely to produce higher yields than those that are sick or stressed.
 
 Therefore, by keeping your herd free from parasites like coccidia you can make sure that they remain at peak performance throughout the year.
 
 Whether you raise goats for meat or milk production, this can have a major impact on your bottom line and help your farm or ranch thrive in a competitive market.
 
-In general, investing in coccidia treatment for your herd is a decision that will pay dividends down the road in terms of both animal welfare and profitability.
+Investing in coccidia treatment for your herd is a decision that will pay dividends down the road in terms of both animal welfare and profitability.
 
 ## What are the risks of not treating coccidia in goats?
 
@@ -127,7 +127,7 @@ For example, you should make sure that they have plenty of fresh water and nutri
 
 You may also want to consider giving them vitamin supplements if they are experiencing significant weight loss or other symptoms as a result of their illness.
 
-Overall, it is important to maintain a close watch on your goat throughout the course of coccidia treatments and take whatever steps necessary to keep them comfortable and well-nourished during recovery.
+It is important to maintain a close watch on your goat throughout the course of coccidia treatments and take whatever steps necessary to keep them comfortable and well-nourished during recovery.
 
 ## Are there any other alternative treatments for coccidia in goats?
 

@@ -85,17 +85,7 @@ It doesn’t matter if it’s dark or milk chocolate either. Both types contain 
 
 The darker the chocolate, though, the more potent its effects on your pet goat will be.
 
-Remember: what works well with humans may not work at all with animals especially when it comes to food items so always double-check before feeding anything new.
-
-### Chocolate’s High Caloric and Sugary Content
-
-Goats have a sweet tooth. They love to munch on treats.
-
-But chocolate is not the best choice for them.
-
-Chocolate has high sugar and calorie content. This isn’t good for goats’ health.
-
-Too much can lead to obesity in goats, just like humans.
+Remember: what works well with humans may not work at all with animals especially just like humans.
 
 **The sugars in chocolate are hard for a goat’s stomach to digest properly** too. It can cause upset tummies or even more serious issues over time.
 
@@ -159,7 +149,7 @@ This leads to a buildup that can cause serious health issues or even death.
 
 How much chocolate causes harm? Even small amounts are risky because effects vary based on goat size and overall health status.
 
-In general, it’s best to avoid giving any amount of chocolate at all.
+It’s best to avoid giving any amount of chocolate at all.
 
 Remember: just because they will eat it doesn’t mean they should. Stick with approved foods like hay, grains and fresh fruits or vegetables instead.
 

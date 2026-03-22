@@ -42,7 +42,7 @@ faq:
 
 About raising baby kittens, one of the most common questions people have is whether or not they can drink goat's milk. And if so, is it good for them?
 
-We will answer all of those questions for you in this article, as well as give you some tips on how to care for your baby kittens.
+We will answer all of those questions for you as well as give you some tips on how to care for your baby kittens.
 
 ## Can baby kittens drink goats milk?
 
@@ -128,12 +128,12 @@ No matter which milk option you choose, it's important to start with small amoun
 
 If you have access to fresh goat's milk straight from the farm, you might wonder whether raw or pasteurized is better for your kittens. Raw goat's milk contains beneficial enzymes and probiotics that are destroyed during pasteurization. Many breeders swear by raw milk for raising kittens.
 
-That said, raw milk also carries a small risk of containing harmful bacteria like Listeria or Salmonella. Kittens with weak immune systems are especially vulnerable to these pathogens.
+Raw milk also carries a small risk of containing harmful bacteria like Listeria or Salmonella. Kittens with weak immune systems are especially vulnerable to these pathogens.
 
 The safest approach is to use pasteurized goat's milk from a store or to gently warm raw milk to 145 degrees Fahrenheit for 30 minutes at home. This kills the dangerous bacteria while preserving more nutrients than commercial ultra-pasteurization does.
 
 ## Key Takeaways
 
-Overall, goat's milk is a nutritious option for kittens and can be given to them in small amounts as part of a well-rounded diet.
+Goat's milk is a nutritious option for kittens and can be given to them in small amounts as part of a well-rounded diet.
 
 However, it's important to start with small amounts and increase gradually over time. You should also consult with a veterinarian before making any changes to your kitten's diet.

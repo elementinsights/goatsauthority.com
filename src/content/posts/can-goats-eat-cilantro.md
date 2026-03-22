@@ -47,7 +47,7 @@ If you grow cilantro in your garden, you have probably caught your goats eyeing 
 
 Yes, goats can eat cilantro. Every part of the plant is safe, including the leaves, stems, flowers, and seeds.
 
-There is no known toxic dose of cilantro for goats. That said, herbs and treats should still make up no more than 10% of their diet, with hay and pasture doing the heavy lifting.
+There is no known toxic dose of cilantro for goats. Herbs and treats should still make up no more than 10% of their diet, with hay and pasture doing the heavy lifting.
 
 Cilantro works well tossed into a feed bucket or offered as a handful straight from the garden. You can also mix it with other safe greens like spinach, lettuce, or kale for variety.
 

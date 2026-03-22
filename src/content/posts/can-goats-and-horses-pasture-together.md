@@ -64,7 +64,7 @@ There are several benefits to grazing goats and horses together. One benefit's t
 
 If your animals can graze together, you will not need to feed them as much hay.
 
-Another benefits that goats can help improve the quality of the pasture. As we mentioned before, goats will eat weeds and other plants that horses cannot reach.
+Another benefits that goats can help improve the quality of the pasture. Before, goats will eat weeds and other plants that horses cannot reach.
 
 This can help keep the pasture clean and free of harmful plants.
 

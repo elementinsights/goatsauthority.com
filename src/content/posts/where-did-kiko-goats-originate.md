@@ -174,9 +174,9 @@ Internal parasites are less of an issue with Kikos than with other breeds, but y
 
 Pneumonia can hit hard in late fall and winter if the barn is poorly ventilated. Kikos handle cold temperatures well, but damp, stagnant air in an enclosed barn creates the perfect conditions for respiratory infection. Keep air moving without creating a direct draft on the animals.
 
-## Wrapping Up
+## Final Thoughts
 
-Overall, Kiko goats are a great option for those looking for a hardy, adaptable, and social animal. They offer many benefits, including high milk yields, fast growth rates, and thick coats that protect against harsh weather conditions.
+Kiko goats are a great option for those looking for a hardy, adaptable, and social animal. They offer many benefits, including high milk yields, fast growth rates, and thick coats that protect against harsh weather conditions.
 
 However, there are also some risks associated with owning Kiko goats, the most significant of which is their potential aggression.
 

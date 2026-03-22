@@ -47,7 +47,7 @@ We all know that goats have a veracious appetite. They will try to eat anything 
 
 So, can goats eat henbit? And if so, what are the benefits and nutrition facts?
 
-Let's break it down.we will answer all of your questions regarding goats and henbit. We will also provide some tips on how to properly feed your goats this herb.
+we will answer all of your questions regarding goats and henbit. We will also provide some tips on how to properly feed your goats this herb.
 
 ## Can goats eat henbit?
 
@@ -71,7 +71,7 @@ The plant produces small purplish flowers from March to May. Goats are herbivore
 
 The leaves and stems are fine, but the flowers contain small amounts of poison that can be harmful in large quantities. This is why it's best to limit the number of henbit flowers that goats eat.
 
-Overall, though, henbit's a relatively harmless plant and goats can safely consume most of it.
+Though, henbit's a relatively harmless plant and goats can safely consume most of it.
 
 ## What are the benefits of feeding goats henbit?
 
@@ -113,7 +113,7 @@ The next step is to provide the goat with plenty of fresh water. This will help 
 
 Finally, if the goat is showing signs of Nitrate Poisoning, it should be seen by a goat expert immediately. Treatment options for Nitrate Poisoning include intravenous fluids and oxygen therapy.
 
-With prompt treatment, most goats will make a full recovery. That said, in severe cases, Nitrate Poisoning can be fatal.
+With prompt treatment, most goats will make a full recovery. In severe cases, Nitrate Poisoning can be fatal.
 
 ## How much henbit goats can eat per day?
 
@@ -129,7 +129,7 @@ Each of these options has its own set of benefits and drawbacks, so it's importa
 
 You can also supplement your goat's diet with minerals and vitamins to make sure that it's getting all of the nutrients it needs.
 
-When it comes to feeding goats, there's no one-size-fits-all solution. Every goat is different and will require a different diet depending on its age, weight, and health.
+There's no one-size-fits-all solution. Every goat is different and will require a different diet depending on its age, weight, and health.
 
 With that in mind, by exercising caution and consulting with a livestock specialist, you can make sure that your goat has a healthy and balanced diet that meets all of its nutritional needs.
 

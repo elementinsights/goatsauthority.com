@@ -137,7 +137,7 @@ For these reasons, it's important to be cautious when feeding pine trees to goat
 
 As for goats, there's no one-size-fits-all answer to the question of what constitutes an appropriate serving size. The amount of food that a goat needs will depend on a number of factors, including its age, weight, and activity level.
 
-For example, a young kid or a pregnant doe will require more food than an adult goat that is relatively inactive. In general, most experts recommend that goats be given 1 to 2 pounds of hay per day.
+For example, a young kid or a pregnant doe will require more food than an adult goat that is relatively inactive. Most experts recommend that goats be given 1 to 2 pounds of hay per day.
 
 For pasture-based goats, this can be supplemented with a small amount of grain, as well as fresh vegetables and fruits like carrots and watermelon. If you are unsure about how much to feed your goat, it's always best to consult with a vet or other animal expert.
 
@@ -175,6 +175,6 @@ This protects both the goats and the trees. Goats will strip bark right down to 
 
 ## To Wrap Things Up
 
-Overall, goats can benefit from eating pine trees. Pine trees provide goats with a source of food and shelter, and they can also help to improve the health of the soil.
+Goats can benefit from eating pine trees. Pine trees provide goats with a source of food and shelter, and they can also help to improve the health of the soil.
 
 However, you need to be cautious when feeding pine trees to goats, as they can be toxic if consumed in large quantities. Similarly, foods like chocolate should be avoided entirely. When feeding pine trees to goats, it's important to give them only small quantities at a time.

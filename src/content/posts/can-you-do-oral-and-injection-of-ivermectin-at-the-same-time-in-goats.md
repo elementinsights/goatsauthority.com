@@ -88,7 +88,7 @@ In addition to preventing parasitic infections, ivermectin can also be used to t
 
 It is important to note that, while administering ivermectin can be beneficial for goats, there are some risks associated with using this medication.
 
-Ivermectin can be toxic if given in too high of a dose, so it is essential to consult with your veterinarian before giving any form of ivermectin to your goats.
+Ivermectin can be toxic if given in too high of a dose, so consult with your veterinarian before giving any form of ivermectin to your goats.
 
 The correct dose and type of ivermectin should be used to make sure the safety of your animals. There is a risk that the parasites may become resistant to ivermectin over time, so it is important to discuss other parasite control methods with your veterinarian as well.
 
@@ -130,8 +130,8 @@ For injectable ivermectin, the typical meat withdrawal is 35 days. Milk withdraw
 
 Keep in mind that using both oral and injectable forms at the same time could extend these windows. Always ask your vet for specific guidance based on the products you're using.
 
-## Our Take
+## 
 
-Overall, ivermectin is a safe and effective way to treat parasites in goats. When used correctly, it can help protect your animals from the dangers of parasites while also providing them with relief from common symptoms.
+Ivermectin is a safe and effective way to treat parasites in goats. When used correctly, it can help protect your animals from the dangers of parasites while also providing them with relief from common symptoms.
 
 Just remember that it's important to consult with a veterinarian before giving any form of ivermectin to your goats, as overdoses can be fatal. With the right knowledge and a bit of practice, you'll be able to give your goats the medication they need with ease.

@@ -76,7 +76,7 @@ While there's no definitive answer to this question, it's generally believed tha
 
 In addition, cooked pasta is a good source of carbohydrates, which can be helpful for goats that are producing milk. But, you need to avoid feeding too much pasta to goats, as this can cause them to become overweight.
 
-Beyond that, you need to make sure that the pasta is not overcooked, as this can make it difficult for goats to digest. Overall, cooked pasta is generally considered to be a safe food for lactating goats, but it should be fed in moderation.
+Beyond that, you need to make sure that the pasta is not overcooked, as this can make it difficult for goats to digest. Cooked pasta is generally considered to be a safe food for lactating goats, but it should be fed in moderation.
 
 ## Can goats eat raw pasta?
 

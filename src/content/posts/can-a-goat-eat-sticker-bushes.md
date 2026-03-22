@@ -44,7 +44,7 @@ faq:
 
 There are a few factors you should be aware of while determining if goats can consume sticker bushes.
 
-The advantages and drawbacks of letting your goat munch on some sticker bushes will be discussed in this article, along with some frequently asked questions on the subject.
+The advantages and drawbacks of letting your goat munch on some sticker bushes will be discussed along with some frequently asked questions on the subject.
 
 ## Can a goat eat sticker bushes?
 
@@ -126,7 +126,7 @@ If you notice any of these changes in your goat, you need to take action immedia
 
 First and foremost, it's important to make sure that your goat has access to clean, fresh water at all times.
 
-Goats are susceptible to a variety of waterborne illnesses, so it's essential to clean and disinfect their water bowl on a regular basis.
+Goats are susceptible to a variety of waterborne illnesses, so clean and disinfect their water bowl on a regular basis.
 
 it's also important to provide your goat with a balanced diet that includes plenty of fresh hay, grass, and vegetables.
 
@@ -170,4 +170,4 @@ Many people are hesitant to let their goats eat sticker bushes because of the po
 
 Just be sure to provide plenty of fresh water, avoid chemical pesticides and herbicides, and supervise your goat while it's eating.
 
-Overall, sticker bushes are a great option for goats looking for a tasty and healthy snack.
+Sticker bushes are a great option for goats looking for a tasty and healthy snack.

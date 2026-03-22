@@ -74,7 +74,7 @@ Suturing, or the practice of sewing wounds closed is an essential procedure in t
 
 In addition, suturing also ensures that the wound heals properly and that scarring is minimized. Beyond these practical benefits, suturing also serves an important psychological function for many goats.
 
-By providing animals with this form of care, we can help to foster a sense of trust and security in our herds. Overall, then, it becomes clear that suturing is an important tool for keeping goats healthy and happy.
+By providing animals with this form of care, we can help to foster a sense of trust and security in our herds. Then, it becomes clear that suturing is an important tool for keeping goats healthy and happy.
 
 ## What supplies do you need to suture a goat effectively and safely?
 
@@ -88,7 +88,7 @@ Finally, having a strong pair of scissors or clippers can help you make quick wo
 
 ## How do you go about suturing a goat wound correctly and efficiently?
 
-With suturing a goat wound, there are several important things to consider. First and foremost, it is essential to be calm and focused during the process.
+With suturing a goat wound, there are several important things to consider. First and foremost, be calm and focused during the process.
 
 Quick movements and increased stress can cause the goat to become agitated, making it more difficult to treat the wound effectively.
 
@@ -98,7 +98,7 @@ Some wounds may require specially designed dressings or adhesives in order to pr
 
 Once you have assessed your patient and determined the best course of treatment, then it is time to get started on the actual suturing process itself.
 
-In general, you will want to start by carefully cleaning and disinfecting both the goat's skin around their wound and your hands as well. This will help reduce any risk of infection or irritation as you work.
+You will want to start by carefully cleaning and disinfecting both the goat's skin around their wound and your hands as well. This will help reduce any risk of infection or irritation as you work.
 
 Next, you will need to choose an appropriate suture needle based on your chosen technique (i.e., lengthwise vs crosswise) as well as the size and shape of your patients' wound opening.
 
@@ -112,7 +112,7 @@ By following these tips when suturing a goat wound, you can make sure that your 
 
 The timeframe for removing stitches from a goat wound will depend on several factors, including the location and severity of the injury.
 
-In general, but, most superficial wounds will need to have their stitches removed within 5-7 days after they are initially placed. For deeper or more complex wounds, it may be necessary to leave the stitches in for a longer period of time, typically around 10-14 days.
+But, most superficial wounds will need to have their stitches removed within 5-7 days after they are initially placed. For deeper or more complex wounds, it may be necessary to leave the stitches in for a longer period of time, typically around 10-14 days.
 
 Once the decision has been made to remove stitches, there are a few things that you will need to do in order to make sure a quick and easy removal process.
 
@@ -124,9 +124,9 @@ If done correctly, removing stitches from a goat wound should be a relatively qu
 
 ## The Bottom Line
 
-In general, suturing a goat wound is not much different than stitching up a human injury. However, there are a few key things to keep in mind in order to make sure a successful treatment.
+Suturing a goat wound is not much different than stitching up a human injury. However, there are a few key things to keep in mind in order to make sure a successful treatment.
 
-First and foremost, it is essential to be calm and focused during the process. Quick movements and increased stress can cause the goat to becoma agitated, making it more difficult to properly treat their wound.
+First and foremost, be calm and focused during the process. Quick movements and increased stress can cause the goat to becoma agitated, making it more difficult to properly treat their wound.
 
 It is important to take your time and be as precise as possible when placing stitches. This will help reduce the risk of infection or further injury, while also ensuring a quicker and more successful healing process for your patient.
 

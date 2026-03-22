@@ -107,7 +107,7 @@ They may also ask about your symptoms and any previous history of skin infection
 
 Depending on the severity of the infection and other factors, treatment may include prescription antibiotics or other medications, along with measures like keeping the infected area clean and avoiding contact with water.
 
-If you think you might have cellulitis, it's essential to take action quickly in order to prevent further complications and ensure optimal health.
+If you think you might have cellulitis, take action quickly in order to prevent further complications and ensure optimal health.
 
 ## When is the best time to see a doctor?
 
@@ -153,9 +153,9 @@ Do not let goats lie in dirty bedding right after milking. The teat opening stay
 
 Test your herd for mastitis-causing bacteria at least once a year through a milk culture. Your vet can send samples to a lab and tell you exactly which organisms are present so you can target your prevention strategy.
 
-## Wrapping Up
+## Final Thoughts
 
-In general, cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.
+Cellulitis is a serious condition that requires prompt medical treatment. Although there is no sure way to prevent cellulitis, there are certain things you can do to reduce your risk of developing this condition.
 
 Be sure to see a doctor as soon as possible if you think you might have cellulitis, and take steps to keep the affected area clean and protected from further irritation.
 

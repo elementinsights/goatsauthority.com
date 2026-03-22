@@ -47,7 +47,7 @@ Taking care of sheep can be a lot of fun. If you're thinking about getting sheep
 
 And if so, what are the things you need to consider?
 
-Let's break it down.we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
+we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
 
 ## Can sheep drink raw goats milk?
 
@@ -65,7 +65,7 @@ Regardless of its nutritional value, many people choose to drink raw goat's milk
 
 Some people believe that raw goat's milk helps to strengthen the immune system by supplying important nutrients like protein, calcium, phosphorous, selenium, and vitamins A and K2.
 
-And finally, many people enjoy drinking raw goat's milk simply because it tastes good! Overall, regardless of the reason for drinking this nutritious substance, there are definitely many benefits to drinking raw goat's milk.
+And finally, many people enjoy drinking raw goat's milk simply because it tastes good! Regardless of the reason for drinking this nutritious substance, there are definitely many benefits to drinking raw goat's milk.
 
 ## Are there any risks associated with feeding raw goat's milk to sheep?
 
@@ -73,7 +73,7 @@ There is currently some debate surrounding the use of raw goat's milk as a feed 
 
 Some people argue that goat's milk may contain pathogens that could potentially harm sheep, while others point to evidence indicating that raw goat's milk is beneficial and safe for these animals.
 
-Overall, it seems that the risks associated with feeding raw goat's milk to sheep may be relatively small. While there have been some isolated cases of sheep becoming ill after drinking this milk, these cases appear to be quite rare.
+It seems that the risks associated with feeding raw goat's milk to sheep may be relatively small. While there have been some isolated cases of sheep becoming ill after drinking this milk, these cases appear to be quite rare.
 
 And, research has shown that supplementing a herd's diet with raw goat's milk can actually help improve overall health and reduce parasites and other stress-related problems.
 
@@ -91,7 +91,7 @@ Once you've narrowed down your list of potential suppliers, you'll want to conta
 
 This can involve everything from discussing the requirements for obtaining a license if required by law, to arranging pick-up schedules.
 
-Overall, the key to success in getting raw goat's milk for your sheep is to be prepared, patient, and flexible as you handle this process.
+The key to success in getting raw goat's milk for your sheep is to be prepared, patient, and flexible as you handle this process.
 
 ## What are the things to consider before feeding raw goat's milk to your sheep?
 
@@ -101,7 +101,7 @@ You should look for a fresh and high-quality milk source so that your sheep get 
 
 Finally, you may also want to consult with your vet or another expert in order to determine whether raw goat's milk is recommended for your particular breed of sheep.
 
-In summary, taking these considerations into account before feeding your sheep raw goat's milk can help make sure that they receive the proper nutrition and stay healthy and happy.
+Taking these considerations into account before feeding your sheep raw goat's milk can help make sure that they receive the proper nutrition and stay healthy and happy.
 
 ## What are some of the nutritional facts and benefits of raw goat milk for sheep?
 
@@ -121,7 +121,7 @@ This is because raw goat milk contains all of the nutrients that sheep need in o
 
 Raw goat milk is less likely than other types of milk to cause digestive upset in sheep. However, if you are unable to obtain raw goat milk, there are a few other alternatives that can be used, such as raw cow's milk or soy milk.
 
-Ultimately, it is important to consult with your vet or another expert before feeding your sheep any alternative milk sources, as some of these options may not be suitable for all animals.
+It is important to consult with your vet or another expert before feeding your sheep any alternative milk sources, as some of these options may not be suitable for all animals.
 
 ## When is the best time to feed raw goat milk to sheep?
 
@@ -129,7 +129,7 @@ The best time to feed raw goat milk to sheep is generally in the morning, as thi
 
 However, you may also choose to feed them raw goat milk at other times of the day, such as in the evening before they go to bed.
 
-Overall, it is important to consult with your vet or another expert in order to determine the best feeding schedule for your particular sheep.
+It is important to consult with your vet or another expert in order to determine the best feeding schedule for your particular sheep.
 
 ## How often should raw goat milk be given to sheep?
 
@@ -169,4 +169,4 @@ The minerals present in raw goat milk can help reduce inflammation and pain asso
 
 So whether you have nursing sheep or ones suffering from joint issues, drinking raw goat milk can be an incredibly beneficial addition to their diet.
 
-Ultimately, it is important to consult with your vet or another expert in order to determine whether raw goat's milk is recommended for your particular breed of sheep.
+It is important to consult with your vet or another expert in order to determine whether raw goat's milk is recommended for your particular breed of sheep.

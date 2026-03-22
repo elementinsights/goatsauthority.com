@@ -78,7 +78,7 @@ By following these guidelines, goat breeders can successfully collect and store 
 
 ## The best methods for storing frozen semen
 
-When it comes to storing frozen semen, there are a few things to keep in mind.
+There are a few things to keep in mind.
 
 First, you need to store the semen at a temperature of -196 degrees Celsius. This can be accomplished by using liquid nitrogen.
 
@@ -118,7 +118,7 @@ Second, there's a risk that the semen will not be viable when it's thawed. Third
 
 Fourth, there's a risk that the offspring will not be healthy. However, these risks are relatively small and can be minimized by using high-quality semen and following proper storage and thawing procedures.
 
-Overall, the benefits of using frozen semen outweigh the risks.
+The benefits of using frozen semen outweigh the risks.
 
 ## What are the costs of using frozen semen?
 
@@ -126,7 +126,7 @@ The cost of using frozen semen will vary depending on the quality of the semen a
 
 However, the cost of using frozen semen is typically much lower than the cost of artificial insemination using fresh semen. Also, the use of frozen semen can allow you to inseminate more female animals, which can offset the cost.
 
-Overall, there are many benefits to using frozen semen. While there are some risks and costs associated with this process, the benefits far outweigh the drawbacks.
+There are many benefits to using frozen semen. While there are some risks and costs associated with this process, the benefits far outweigh the drawbacks.
 
 If you are interested in using frozen semen, be sure to purchase high-quality semen from a reputable source. What's more, be sure to follow proper storage and thawing procedures to make sure the viability of the semen.
 
@@ -168,7 +168,7 @@ The key factor is maintaining a consistent temperature. Any fluctuation, even br
 
 Most breeders recommend using frozen semen within 10 years for the best conception rates. After that, viability starts to decline slowly, though it doesn't drop to zero.
 
-## Our Take
+## 
 
 Goat's sperm can be saved by freezing it. This is a great way to preserve the genetics of your favorite animals.
 

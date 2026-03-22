@@ -149,13 +149,7 @@ In addition to being tasty treats, blackberries provide hydration as they are hi
 
 Also, feeding blackberries can be an effective way to bond with your pet goat since they enjoy eating this fruit so much.
 
-**However, remember less is more here when it comes to feeding any type of fruit or berry including blackberries due their sugar content**.
-
-So yes. Goats can eat blackberries but do monitor how many you give them daily for optimal health benefits without overdoing it on the sweet stuff.
-
-### Goat Breeds That Are Especially Fond of Blackberry Bushes
-
-**Some goat breeds show a special liking for blackberry bushes**. Nigerian Dwarf goats, for instance, are known to enjoy munching on these plants.
+**However, remember less is more here for instance, are known to enjoy munching on these plants.
 
 These small-sized goats can easily navigate through thickets of blackberries.
 
@@ -163,15 +157,7 @@ Pygmy goats also find blackberry leaves and fruits quite tasty. Despite their si
 
 Then there’s the Spanish Goat breed that doesn’t shy away from feasting on thorny plants like blackberries either. They have a reputation as excellent brush clearers because of this trait.
 
-Boer Goats too aren’t far behind when it comes to devouring berries off these prickly shrubs. Their strong jaws make quick work of any berry bush in sight.
-
-## Frequently Asked Questions (FAQs)
-
-**Let’s dive into some common questions about goats and blackberries**. We’ll explore whether these animals can safely enjoy this type of fruit.
-
-### 1. What Animals Can Eat Blackberries?
-
-Blackberries are a popular fruit that many animals can enjoy. This includes birds, deer and even some types of insects.
+Boer Goats too aren’t far behind deer and even some types of insects.
 
 **But what about goats? Can they eat blackberries too?**
 

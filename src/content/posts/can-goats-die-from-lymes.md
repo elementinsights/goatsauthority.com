@@ -50,7 +50,7 @@ Read on for the full breakdown.we will answer all of your questions regarding go
 
 ## Can goats die from Lymes?
 
-That said, not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
+Not all goats that are bitten by an infected tick will die from Lyme disease. In fact, most goats will not die from Lyme disease if they are treated promptly and properly.
 
 However, if a goat is not treated for Lyme disease, the infection can spread to the joints, heart, and nervous system, which can eventually lead to death.
 
@@ -146,7 +146,7 @@ A good practice is to check behind the ears, under the chin, around the udder, a
 
 ## Summary
 
-Overall, goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.
+Goats are relatively resistant to Lyme disease. However, they can still contract the disease if they are bitten by an infected tick.
 
 Lyme disease is a serious illness that can have a significant impact on both humans and animals.
 

@@ -60,7 +60,7 @@ However, there are a few things you need to take into consideration before bring
 
 ## What are the requirements for keeping goats in Warrenville?
 
-When it comes to keeping goats in Warrenville, there are a few key requirements that you need to be aware of.
+There are a few key requirements that you need to be aware of.
 
 First and foremost, your property must be at least one acre in size, and it must have both fencing and a shelter on the premises. In addition, you will need to make sure that your goats receive proper food, water, and veterinary care on a regular basis.
 

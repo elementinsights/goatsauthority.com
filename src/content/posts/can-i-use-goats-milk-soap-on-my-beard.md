@@ -75,7 +75,7 @@ These hormones could potentially disrupt normal hormonal processes in the body a
 
 However, more research is needed in this area before any definitive conclusions can be reached.
 
-Ultimately, whether or not it is appropriate to use goat's milk soap on your beard will depend on your individual health and skin sensitivities, as well as other factors such as where the goats were raised and what kinds of chemicals may have been used in their production.
+Whether or not it is appropriate to use goat's milk soap on your beard will depend on your individual health and skin sensitivities, as well as other factors such as where the goats were raised and what kinds of chemicals may have been used in their production.
 
 So while it is important to proceed with caution, there may still be benefits to using goat's milk soap on your beard if you take the necessary precautions.
 
@@ -129,4 +129,4 @@ In addition to using goat milk soap as a body wash, it can also be used as a dai
 
 Another popular option is to add a small amount of goat's milk soap to your regular shampoo or conditioner, as this can help to soften and moisturize your facial hair while also giving it some gentle cleansing power.
 
-Overall, the best way to use goat's milk soap for your beard will depend on your individual preferences and needs, so feel free to experiment with different methods until you find one that works best for you.
+The best way to use goat's milk soap for your beard will depend on your individual preferences and needs, so feel free to experiment with different methods until you find one that works best for you.

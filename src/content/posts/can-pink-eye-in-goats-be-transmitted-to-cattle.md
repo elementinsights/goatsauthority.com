@@ -44,7 +44,7 @@ we will answer those questions about the pink eye in goats and how it can affect
 
 ## Can pink eye in goats be transmitted to cattle?
 
-That said, it is difficult to say how often this happens. The transmission of pink eye from goats to cattle may depend on the strain of bacteria or virus that causes the pink eye, as well as the age and health of the animals.
+It is difficult to say how often this happens. The transmission of pink eye from goats to cattle may depend on the strain of bacteria or virus that causes the pink eye, as well as the age and health of the animals.
 
 So, it is safe to say that there is a risk of transmission, but it is difficult to determine how great that risk is.
 
@@ -76,7 +76,7 @@ Another option is to frequently disinfect items that are shared, such as food bo
 
 For example, wearing gloves when dumping out litter boxes or washing your hands thoroughly after bathing an animal with the pink eye can help reduce the risk of transmission.
 
-In general, these strategies can go a long way toward preventing the spread of this highly contagious condition.
+These strategies can go a long way toward preventing the spread of this highly contagious condition.
 
 ## What are the possible treatments for pink eye in both goats and cattle?
 

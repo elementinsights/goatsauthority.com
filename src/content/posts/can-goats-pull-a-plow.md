@@ -144,7 +144,7 @@ These are just some of the risks associated with having a goat pull a plow. If y
 
 ## Closing Notes
 
-Overall, goats can be very effective at pulling a plow. However, there are some things that you need to take into account.
+Goats can be very effective at pulling a plow. However, there are some things that you need to take into account.
 
 If you are not willing to put in the time and effort, it is best not to even start.
 

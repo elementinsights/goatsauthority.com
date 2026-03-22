@@ -38,7 +38,7 @@ faq:
 
 Building a goat barn involves many different considerations. How many goats you have, how big your property is, and where you reside will all affect how big your barn needs to be.
 
-The fundamentals of planning and building a goat barn will be covered in this article, along with some frequently asked questions about caring for goats.
+The fundamentals of planning and building a goat barn will be covered along with some frequently asked questions about caring for goats.
 
 ## Can a goat barn be 12x 2?
 
@@ -88,7 +88,7 @@ Goats are social creatures and need the company of other goats. A minimum of two
 
 Goats are curious and active animals, so they need plenty of space to roam and explore.
 
-Depending on the climate, goats may also need access to shelter from the sun, wind, and rain. In general, a goat barn should be clean, dry, and well-ventilated.
+Depending on the climate, goats may also need access to shelter from the sun, wind, and rain. A goat barn should be clean, dry, and well-ventilated.
 
 Goats are natural browsers and love to chew on things. As such, they need a variety of hay, grass, and other roughage to stay healthy.
 
@@ -156,6 +156,6 @@ Many people enjoy having goats as pets. If you are thinking about getting a goat
 
 Goats need a place to sleep, eat, and exercise. A goat barn provides shelter from the sun, wind, and rain, and helps keep them safe from predators.
 
-Overall, goats are relatively low-maintenance pets. However, they do require some care and attention.
+Goats are relatively low-maintenance pets. However, they do require some care and attention.
 
 By taking the time to build a goat barn, you can create a safe and comfortable environment for your goats.

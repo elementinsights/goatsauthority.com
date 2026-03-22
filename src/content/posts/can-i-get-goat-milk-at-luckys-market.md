@@ -124,7 +124,7 @@ They appreciate the subtle flavor and creamy, smooth texture of goat milk, highl
 
 Many customers also feel that goat milk has a lower environmental impact than other dairy products, as it requires less feed and land to produce and poses fewer health risks for those with sensitive stomachs.
 
-Overall, our customers see our selection of goat milk offerings as a great example of the type of high-quality products and sustainable practices we strive to offer at Lucky's Market.
+Our customers see our selection of goat milk offerings as a great example of the type of high-quality products and sustainable practices we strive to offer at Lucky's Market.
 
 ### Comparing Goat Milk Brands at Lucky's Market
 

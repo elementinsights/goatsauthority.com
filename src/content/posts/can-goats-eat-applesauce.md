@@ -47,7 +47,7 @@ Many people think that goats will only eat grass and hay, but the reality is tha
 
 So, can goats eat applesauce?
 
-We'll cover everything below.we will answer all of your questions about whether or not goats can eat applesauce, including the nutritional benefits and potential risks. We’ll also provide some helpful tips on how to best feed applesauce to your goat.
+we will answer all of your questions about whether or not goats can eat applesauce, including the nutritional benefits and potential risks. We’ll also provide some helpful tips on how to best feed applesauce to your goat.
 
 ## Can goats eat applesauce?
 
@@ -81,11 +81,7 @@ Be sure to check the label for suggested serving sizes, as some brands of apples
 
 ## How to feed applesauce to goats?
 
-Goats are notoriously finicky eaters, and they can be particularly picky when it comes to applesauce. The best way to feed applesauce to goats is to mix it with their regular food.
-
-This will help them to get used to the taste and texture of the applesauce. You can also try feeding them small amounts of applesauce on their own.
-
-Start with a tablespoon or two, and gradually increase the amount as they get used to it. But, it's important to keep an eye on your goats when they're eating applesauce.
+Goats are notoriously finicky eaters, and they can be particularly picky and gradually increase the amount as they get used to it. But, it's important to keep an eye on your goats when they're eating applesauce.
 
 Some goats may be allergic to apples, and others may develop diarrhea if they eat too much. If you notice any adverse reactions, stop feeding them applesauce immediately.
 
@@ -115,7 +111,7 @@ Many pregnant women crave applesauce, and it's usually considered a healthy snac
 
 Some people believe that the acidity in the applesauce can cause problems for the goat, while others believe that the natural sugars in the applesauce can provide a boost of energy for the pregnant goat.
 
-Ultimately, it's up to the owner of the goat to decide whether or not to give their pregnant goat applesauce. If you are concerned about potential problems, you can always consult with a goat expert before feeding your goat anything new.
+It's up to the owner of the goat to decide whether or not to give their pregnant goat applesauce. If you are concerned about potential problems, you can always consult with a goat expert before feeding your goat anything new.
 
 ## Can baby goats eat applesauce?
 

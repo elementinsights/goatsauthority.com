@@ -46,7 +46,7 @@ faq:
 
 it's difficult to determine whether or not goats can drink vinegar. And if so, what are the things you need to take into consideration?
 
-We will explore all of that in this article and the answer to all your questions and provide you with helpful tips.
+We will explore all of that and the answer to all your questions and provide you with helpful tips.
 
 ## Can goats drink vinegar?
 
@@ -154,6 +154,6 @@ Some farmers mix vinegar directly into grain or pour it over hay as a top dressi
 
 ## The Bottom Line
 
-Overall, goats can drink vinegar without any problems. In fact, vinegar can actually be beneficial for goats, as it provides them with additional nutrients and can help to balance the pH levels in their gut.
+Goats can drink vinegar without any problems. In fact, vinegar can actually be beneficial for goats, as it provides them with additional nutrients and can help to balance the pH levels in their gut.
 
 Keep in mind, it's important to use vinegar sparingly and only when necessary, as too much vinegar can cause digestive upset. If you do decide to give your goats vinegar, be sure to use raw, unfiltered vinegar for the best results.

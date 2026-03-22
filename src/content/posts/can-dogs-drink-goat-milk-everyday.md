@@ -114,7 +114,7 @@ Many pet stores sell cow's milk that is specifically designed for dogs, and this
 
 Talk to a dog expert about what option would be best for your pet, and remember that you can always supplement your dog's diet with other healthy foods, like fruits and vegetables, to make sure they're getting everything they need.
 
-## Our Take
+## 
 
 Dogs can drink goat milk every day, but there are some risks to consider before making the switch.
 

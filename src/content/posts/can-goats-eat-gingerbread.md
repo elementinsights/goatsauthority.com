@@ -154,7 +154,7 @@ Pumpkin pieces are another seasonal option that is both safe and nutritious. Goa
 
 You can also bake simple goat cookies using oats, a small amount of molasses, and shredded carrots. Skip the spices entirely and your goats will still be thrilled. They care more about the texture and sweetness than the flavor profile.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats can eat gingerbread, but there are both benefits and risks associated with feeding them this holiday treat.
 

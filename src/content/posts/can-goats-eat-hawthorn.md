@@ -73,7 +73,7 @@ In particular, hawthorn extract has been shown to dilate blood vessels, increase
 
 Hawthorn extract is also sometimes used as a natural treatment for anxiety and insomnia. The calming effects of hawthorn may help to promote relaxation and improve sleep quality.
 
-Overall, hawthorn is a safe and effective herbal remedy that offers many potential benefits for heart health and general well-being.
+Hawthorn is a safe and effective herbal remedy that offers many potential benefits for heart health and general well-being.
 
 ## What are the hazards of feeding Hawthorn to goats?
 
@@ -163,7 +163,7 @@ Offer small amounts of dried hawthorn as a supplemental treat alongside their re
 
 ## What to Remember
 
-Overall, Hawthorn is a safe and healthy herb for goats. It's high in protein and phosphorus, and low in calcium, making it an excellent browse plant.
+Hawthorn is a safe and healthy herb for goats. It's high in protein and phosphorus, and low in calcium, making it an excellent browse plant.
 
 However, there are a few things to keep in mind when feeding Hawthorn to goats.
 

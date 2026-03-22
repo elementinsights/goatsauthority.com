@@ -149,7 +149,7 @@ Shared equipment is another culprit. Brushes, halters, and blankets that have be
 
 Bringing new goats into your herd without quarantining them first is one of the fastest ways to introduce a mite problem. Keep any new arrivals separated for at least two weeks and inspect them thoroughly before mixing them with your existing goats.
 
-## Our Take
+## 
 
 Goats can get mites, but there are a few things you can do to treat and prevent them. With some care and attention, you can keep your goats healthy and free of pests.
 

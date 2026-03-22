@@ -83,7 +83,7 @@ Just make sure that they're not eating too many.
 
 Pine needles are a good source of nutrients for goats, and they can help to keep them healthy and strong. Pine needles are also known to have anti-inflammatory properties, which can help to reduce swelling and pain in goats.
 
-Pine needles can help to improve digestion and prevent gastrointestinal problems. Overall, goats that eat pine needles are likely to be healthier than those that do not.
+Pine needles can help to improve digestion and prevent gastrointestinal problems. Goats that eat pine needles are likely to be healthier than those that do not.
 
 Pine needles are also good for the environment. When goats consume pine needles, they help to reduce the amount of landfill waste.
 

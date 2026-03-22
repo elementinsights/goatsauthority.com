@@ -86,7 +86,7 @@ When it's hot, their metabolism slows down and they don't digest their food as w
 
 So, if you have goats in a hot climate, you need to be extra careful about their diet and make sure they have plenty of fresh water to stay hydrated. In the winter, goats don't have as much of a problem with digestion because they're able to keep themselves warm.
 
-But, if it's very cold, they can still get hypothermia and frostbite, so you need to be careful about that too. Overall, climate definitely has an effect on goat digestion and you need to be aware of that when raising them.
+But, if it's very cold, they can still get hypothermia and frostbite, so you need to be careful about that too. Climate definitely has an effect on goat digestion and you need to be aware of that when raising them.
 
 ## What are some of the benefits of raising goats?
 
@@ -104,7 +104,7 @@ There are some risk factors associated with goat ownership. Goats can be suscept
 
 They can also be escape artists, so you need to make sure your fence is secure since goats can climb fences. In addition, goats are social animals and need companionship, so you should plan on getting at least two goats.
 
-Overall, there are some risk factors associated with goat ownership, but if you're prepared for them, they can make excellent pets.
+There are some risk factors associated with goat ownership, but if you're prepared for them, they can make excellent pets.
 
 ## How to manage a goat farm in changing weather conditions?
 
@@ -164,7 +164,7 @@ In hot climates, shade structures and fans make a huge difference. A goat that c
 
 ## Closing Notes
 
-In general, goats can make excellent pets. They are relatively easy to care for and provide a number of benefits, such as clearing overgrown areas and providing manure for gardens and crops.
+Goats can make excellent pets. They are relatively easy to care for and provide a number of benefits, such as clearing overgrown areas and providing manure for gardens and crops.
 
 However, there are some risk factors associated with goat ownership, so it's important to do your research before you decide to get goats.
 

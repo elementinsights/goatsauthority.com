@@ -117,7 +117,7 @@ Regarding choosing milk, there are a few things to consider. One is taste - some
 
 Another is nutrition - Goat milk is higher in calcium and vitamin A than cow's milk, but it also contains more saturated fat. Last thing to note: there's suitability for different diets - Goat milk is naturally lactose-intolerant, making it a good choice for people with dairy sensitivities.
 
-So, what's the verdict? When it comes to goat milk vs cow's milk, there's no clear winner - it all comes down to personal preference.
+So, what's the verdict? There's no clear winner - it all comes down to personal preference.
 
 But, if you're looking for an alternative to cow's milk that is higher in nutrients, then goat milk could be a good option for you.
 

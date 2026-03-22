@@ -45,9 +45,7 @@ Everyone is aware that goats are social animals. They take delight in the compan
 
 Can they survive living with goats?
 
-we will explore the possibility of keeping miniature horses with goats as pets. We will cover everything you need to know, from their living arrangements to their compatible personalities.
-
-## Can mini horses live with goats?
+we will explore the possibility of keeping miniature horses with goats as pets. ## Can mini horses live with goats?
 
 It's also worth noting that mini horses and goats are both very curious animals and they share a similar diet. However, mini horses are much cleaner than goats and they will need a separate area to sleep and eat.
 
@@ -73,7 +71,7 @@ Just be sure to keep it away from hazards like fences and puddles where it could
 
 Finally, proper grooming is essential for maintaining your miniature horse's health and appearance. You should regularly brush its mane and coat to remove loose hairs and tangles, and take care not to over-bathe your horse since doing so can strip away its natural oils.
 
-Overall, with a little time and effort, you can help your miniature horse stay happy and healthy for years to come.
+With a little time and effort, you can help your miniature horse stay happy and healthy for years to come.
 
 ## What can miniature horses eat?
 
@@ -81,11 +79,11 @@ Miniature horses are popular pets because they are small, friendly, and easy to 
 
 Depending on their size and nutritional needs, miniature horses have somewhat different dietary requirements than full-size horses do.
 
-In general, miniature horses can eat a wide range of foods, including grasses, hay, oats and grains, bran mash, fruits and vegetables, and small amounts of treats like apples or carrots.
+Miniature horses can eat a wide range of foods, including grasses, hay, oats and grains, bran mash, fruits and vegetables, and small amounts of treats like apples or carrots.
 
 most goat owners recommend that owners give their miniature horses access to a clean source of water at all times.
 
-Overall, with a little research and some careful planning, it is easy to create a diet that meets the needs of these adorable little equines.
+With a little research and some careful planning, it is easy to create a diet that meets the needs of these adorable little equines.
 
 ## How to introduce a miniature horse to a goat?
 
@@ -111,7 +109,7 @@ In the end, having both of these animals in one space is an ideal way to make su
 
 ## Are there any risks associated with keeping these animals together?
 
-There are a number of risks associated with keeping certain animals together. For example, when it comes to primate species, there can be issues related to unfamiliarity and competition for resources.
+There are a number of risks associated with keeping certain animals together. For example, there can be issues related to unfamiliarity and competition for resources.
 
 In addition, there may also be health concerns associated with close contact, particularly if the individuals in question are carrying a contagious disease.
 
@@ -129,7 +127,7 @@ Generally speaking, it is likely to cost several hundred dollars each year in fo
 
 However, by taking proactive steps to make sure that both animals are well-fed and healthy, you can help to reduce these costs and keep your mini horse and goat happily coexisting side by side.
 
-Ultimately, this will be a worthwhile investment that can help to give you years of enjoyment with both your goats.
+This will be a worthwhile investment that can help to give you years of enjoyment with both your goats.
 
 ## Key Takeaways
 

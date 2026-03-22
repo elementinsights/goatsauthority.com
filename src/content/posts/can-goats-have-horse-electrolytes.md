@@ -99,7 +99,7 @@ When this happens, it's important to replenish their levels by giving them an el
 
 ## Which electrolytes are best for goats?
 
-There are many different types of electrolytes on the market, and it can be difficult to know which one is best for goats. In general, but, you should look for an electrolyte that is high in potassium and low in sodium.
+There are many different types of electrolytes on the market, and it can be difficult to know which one is best for goats. But, you should look for an electrolyte that is high in potassium and low in sodium.
 
 Potassium is essential for proper heart function and helps to prevent muscle cramps. Sodium, on the other hand, can cause water retention and may contribute to obesity in goats.
 
@@ -113,7 +113,7 @@ The answer may depend on a number of factors, including the age and health of yo
 
 For example, kids and does in hot climates may need more electrolytes than bucks in cool climates. If you're unsure how much to give your goats, it's best to consult with a goat expert.
 
-In general, however, there are a few standard guidelines you can follow. For powder electrolytes, mix 1-2 tablespoons per gallon of water.
+However, there are a few standard guidelines you can follow. For powder electrolytes, mix 1-2 tablespoons per gallon of water.
 
 For liquid electrolytes, give 1-2 ounces per day for kids and 3-4 ounces per day for adults.
 

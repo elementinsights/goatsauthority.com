@@ -40,7 +40,7 @@ faq:
     answer: "There are many different types of animals that you might find on a farm. Cattle, pigs, chickens, and horses are just a few of the most common. Each type of animal has its own unique needs in terms of food, shelter, and care."
 ---
 
-We all know that different animals have different needs when it comes to housing, but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?
+We all know that different animals have different needs but can goats, pigs, and chickens live in the same barn? And if so, what are the best ways to keep everyone healthy and happy?
 
 Read on for the full breakdown.we will answer those questions and give you some tips on how to house your mixed animal herd.
 
@@ -58,7 +58,7 @@ There are a few things you need to keep in mind before adding animals to your ba
 
 The temperaments of different species can vary greatly, and you don't want to find yourself in a situation where one animal is continually picking on or bothering another.
 
-You should also consider the size of the animals. It goes without saying that you won't be able to keep huge animals like cows or horses in a small barn.
+You should also consider the size of the animals. You won't be able to keep huge animals like cows or horses in a small barn.
 
 Finally, you should think about the climate where you live. Some creatures thrive in colder climates while others perform well in warmer ones.
 

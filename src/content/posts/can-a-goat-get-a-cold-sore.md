@@ -56,7 +56,7 @@ This virus can be spread through contact with infected goats, or through contact
 
 Whichever the cause, cold sores in goats are generally treated in the same way. The lesions will usually heal on their own within a week or two, but some topical ointments can speed up the healing process.
 
-In serious cases, antibiotics may be necessary to clear up any secondary Infections. Overall, though, most goats recover from cold sores without any lasting effects.
+In serious cases, antibiotics may be necessary to clear up any secondary Infections. Though, most goats recover from cold sores without any lasting effects.
 
 ## The symptoms of cold sores in goats
 

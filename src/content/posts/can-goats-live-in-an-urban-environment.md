@@ -99,7 +99,7 @@ With a little care and attention, goats can make great urban pets.
 
 ## The types of food that goats can eat and thrive on in an urban environment
 
-Goats are very versatile animals when it comes to their diet. They can thrive on a variety of different foods, both in an urban and rural environment.
+Goats are very versatile animals both in an urban and rural environment.
 
 In an urban environment, goats can eat a variety of different plants and weeds.
 
@@ -125,7 +125,7 @@ Another option is to connect a hose to an outdoor faucet and place a sprinkler i
 
 ## The Bottom Line
 
-Overall, goats can be a great addition to an urban environment. They are small and easy to care for, and their grazing habits can help to keep your yard tidy.
+Goats can be a great addition to an urban environment. They are small and easy to care for, and their grazing habits can help to keep your yard tidy.
 
 If you're considering adding a goat or two to your household, there are a few things you should keep in mind.
 

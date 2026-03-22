@@ -41,7 +41,7 @@ Ever had a goat munch on an acorn and wondered if it’s okay? You’re not alon
 
 I own goats myself, so this question has crossed my mind too.
 
-Goats are known for their hearty appetites and ability to eat just about anything. But when it comes to acorns, there’s more than meets the eye.
+Goats are known for their hearty appetites and ability to eat just about anything. But there’s more than meets the eye.
 
 This article will shed light on whether or not these woodland treats are safe for our goats. Stay tuned as we get down to the facts.
 
@@ -55,7 +55,7 @@ Tannins give the bitter taste in acorn that some animals dislike. More important
 
 It gets worse when the acorn consumption becomes habitual because it could cause kidney damage or even death due to poisoning from excessive tannin ingestion over time.
 
-So what should you do as a responsible owner? It’s simple: stick to small amounts here just like any other food item on their menu.
+So what should you do as a goat owner? It’s simple: stick to small amounts here just like any other food item on their menu.
 
 Make sure that eating acorns doesn’t become daily routine for your pet. Instead treat it as occasional snack only.
 

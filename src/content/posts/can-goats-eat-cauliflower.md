@@ -136,7 +136,7 @@ Cauliflower belongs to the brassica family of plants, which also includes brocco
 
 Keep in mind, these compounds are largely neutralized through cooking, so there's no need to worry if your goat nibbles on the odd-cooked vegetable.
 
-All in all, cauliflower is a healthy and nutritious treat for goats, but it should be given in moderation as part of a balanced diet.
+Cauliflower is a healthy and nutritious treat for goats, but it should be given in moderation as part of a balanced diet.
 
 ### Best Ways to Serve Cauliflower to Your Goats
 

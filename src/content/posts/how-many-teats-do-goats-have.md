@@ -41,7 +41,7 @@ It's easy to think of goats as just animals that provide milk and meat, but did 
 
 They're also useful for their milk, meat, and hides.
 
-Let's break it down.we'll answer some common questions about goats, including how many teats they have.
+we'll answer some common questions about goats, including how many teats they have.
 
 ## How many teats do goats have?
 
@@ -119,7 +119,7 @@ It's also important to think about the amount of milk your goats are producing. 
 
 Finally, take a close look at your goats' udders - if they seem red or swollen, milking more frequently may help to relieve some of the pressure and discomfort.
 
-In general, milking twice per day is a good rule of thumb for most goat keepers. When all is said and done, the best milking schedule for your herd will be one that works well for both you and your goats.
+Milking twice per day is a good rule of thumb for most goat keepers. When all is said and done, the best milking schedule for your herd will be one that works well for both you and your goats.
 
 ### What Extra Teats Mean for Dairy Production
 

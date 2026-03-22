@@ -161,8 +161,8 @@ Soybean meal mixed into a grain ration is another common way to boost protein fo
 
 Black oil sunflower seeds provide both protein and fat in a form that goats enjoy. A quarter cup per day per adult goat is a reasonable supplemental amount. These options keep your goat's protein intake up without any of the risks that come with feeding animal products.
 
-## Our Take
+## 
 
 Goats can eat meat, but there are several hazards and risks associated with doing so. If you decide to feed your goat meat, be sure to talk to an animal expert first to make sure that it's the right decision for your herd.
 
-Overall, it's best to stick to a diet of hay, grass, and grains for your goat. This will help them stay healthy and avoid any potential problems.
+It's best to stick to a diet of hay, grass, and grains for your goat. This will help them stay healthy and avoid any potential problems.

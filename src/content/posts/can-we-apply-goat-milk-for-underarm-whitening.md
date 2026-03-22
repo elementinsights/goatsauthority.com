@@ -42,13 +42,13 @@ faq:
 
 You may be wondering whether you can use goat milk for underarm whitening or not. And if so, what are the things you need to consider?
 
-We'll cover everything below.we will answer those questions and provide you with additional information on goat milk and its benefits for skin care. We will also share some tips on how to use goat milk for underarm whitening.
+we will answer those questions and provide you with additional information on goat milk and its benefits for skin care. We will also share some tips on how to use goat milk for underarm whitening.
 
 ## Can we apply goat milk for underarm whitening?
 
 So, if you are looking for a natural and gentle way to whiten your underarms, goat milk may be a good option for you.
 
-That said, there are a few things you need to consider before using goat milk for underarm whitening.
+There are a few things you need to consider before using goat milk for underarm whitening.
 
 First, it is important to choose pure and preferably organic goat milk. This will help to make sure that you are not exposing your skin to any harmful chemicals or additives.
 
@@ -158,7 +158,7 @@ Apply the paste evenly to your underarms and let it sit for 15 to 20 minutes. Th
 
 Rinse with lukewarm water and pat dry. Use this mask two to three times per week for best results.
 
-## Our Take
+## 
 
 You can use goat milk for underarm whitening by applying it to the area with a cotton ball or makeup brush.
 

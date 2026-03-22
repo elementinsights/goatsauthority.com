@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if goats and dogs can be friends or not. And if so, what are the best ways to introduce them?
 
-Let's break it down.we will answer all of your questions about goats and dogs. And also give you some tips on how to make sure they become friends.
+we will answer all of your questions about goats and dogs. And also give you some tips on how to make sure they become friends.
 
 ## Can goats and dogs be friends?
 
@@ -68,7 +68,7 @@ Once they seem comfortable with this, you can try letting them meet face to face
 
 With patience and gradual exposure, most pets will eventually learn to get along with each other. Even so, some animals simply don't mix well, so it's important to pay attention to your pet's body language and be prepared to intervene if necessary.
 
-Ultimately, the best way to make sure that your pets get along is to provide each of them with plenty of love, attention, and exercise.
+The best way to make sure that your pets get along is to provide each of them with plenty of love, attention, and exercise.
 
 By meeting their needs, you can minimize jealousy and territorial behavior, making it more likely that they will view each other as friends rather than rivals.
 

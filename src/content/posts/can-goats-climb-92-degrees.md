@@ -60,7 +60,7 @@ Nigerian dwarf goats are another option, as they are also small and dexterous. L
 
 Alpine goats are the fourth choice, as they are strong and agile with curved horns that help them grip surfaces.
 
-Ultimately, any breed of goat can be trainable for climbing, so the best option may depend on what other qualities are desired in a pet goat.
+Any breed of goat can be trainable for climbing, so the best option may depend on what other qualities are desired in a pet goat.
 
 For example, if friendly temperament is a priority, a Nigerian dwarf goat may be the best choice. If the size is of utmost importance, a pygmy goat would be the better selection.
 
@@ -68,7 +68,7 @@ Some goat owners even choose to keep multiple breeds so that they can enjoy the 
 
 ## What are the benefits of letting your goats climb?
 
-When it comes to goats, there are a few things they love more than climbing. Whether it’s a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces.
+There are a few things they love more than climbing. Whether it’s a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces.
 
 While this behavior may seem like simple mischief, there are actually several benefits to letting your goats climb. For starters, climbing is a great way for goats to stay active and exercise their muscles.
 

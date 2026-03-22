@@ -50,7 +50,7 @@ In addition to using Vaseline, you will need to have a bucket of warm water and 
 
 This will help to prevent the spread of infection.
 
-That said, there are other lubricants that are safe to use on goats, such as K-Y Jelly. If you're unsure about what to use, ask a goat expert for recommendations.
+There are other lubricants that are safe to use on goats, such as K-Y Jelly. If you're unsure about what to use, ask a goat expert for recommendations.
 
 ## What is vaseline and what are its uses for pregnant goats?
 
@@ -66,7 +66,7 @@ Vaseline can also be used to coat the ears of newborn kids, helping to prevent f
 
 Also, some farmers use vaseline to make an ointment or salve that can be applied directly to a birthing breach or malpositioned baby to help get it back on track.
 
-Overall, then, while most people associate vaseline with cosmetics or skincare products, its uses go far beyond these traditional applications in the world of animal husbandry as well.
+Then, while most people associate vaseline with cosmetics or skincare products, its uses go far beyond these traditional applications in the world of animal husbandry as well.
 
 ## What are the things you need to consider when using vaseline during goat births?
 
@@ -84,19 +84,13 @@ There is no one right way to use vaseline during goat births. Some people recomm
 
 Another popular technique is to mix the vaseline with powdered lubricant, which can help to reduce friction and increase slipperiness in the birthing canal.
 
-Ultimately, how you choose to use vaseline during goat births will depend heavily on your individual preferences, as well as the needs and circumstances of each specific birth.
+How you choose to use vaseline during goat births will depend heavily on your individual preferences, as well as the needs and circumstances of each specific birth.
 
-Whether you want to experiment and try out different methods or stick to tried-and-true techniques, staying informed about what works best for you and your goats will always be key when it comes to successful breeding and birthing.
-
-## What are the benefits of using vaseline during goat births?
-
-There are a number of benefits to using vaseline during goat births. Perhaps the most important is that it can help to reduce the risk of infection by creating a protective barrier between the delicate birth canal and potential pathogens in the environment.
-
-Vaseline also helps to keep the birth canal lubricated, making it easier for the baby to pass through and helping to minimize any potential damage or discomfort for both mom and a baby goat.
+Whether you want to experiment and try out different methods or stick to tried-and-true techniques, staying informed about what works best for you and your goats will always be key making it easier for the baby to pass through and helping to minimize any potential damage or discomfort for both mom and a baby goat.
 
 Vaseline can provide some relief from discomfort during birth by soothing sore muscles and helping to ease contractions.
 
-Overall, using vaseline during goat births is a smart choice for anyone looking to provide optimal care for their herd.
+Using vaseline during goat births is a smart choice for anyone looking to provide optimal care for their herd.
 
 ## What are the risks of using vaseline during goat births?
 
@@ -128,7 +122,7 @@ And above all else, it's important to have a calm presence throughout this whole
 
 With careful preparation and attention paid to every step along the way, you should be able to give your baby goats a safe and happy start in their new life on your farm.
 
-## Wrapping Up
+## Final Thoughts
 
 Vaseline can be a helpful tool during goat births, but it's important to weigh the risks and benefits before using it. In most cases, it's best to avoid using vaseline unless specifically recommended by a goat expert.
 

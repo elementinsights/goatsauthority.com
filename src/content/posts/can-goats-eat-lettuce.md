@@ -42,7 +42,7 @@ faq:
 
 Most people are aware that goats consume grass, but can they also consume lettuce?
 
-The answer to that question may be found in this article, along with information on the advantages and disadvantages of feeding lettuce to goats, the ideal portion size for a goat, and some frequently asked questions on the subject.
+The answer to that question may be found along with information on the advantages and disadvantages of feeding lettuce to goats, the ideal portion size for a goat, and some frequently asked questions on the subject.
 
 ## Can goats eat lettuce?
 
@@ -108,7 +108,7 @@ As a general rule of thumb, the recommended serving size of lettuce for goats is
 
 For example, baby goats or those who are pregnant or nursing will need more food than adult goats who are in good health. Likewise, iceberg lettuce contains fewer nutrients than other types of lettuce, such as romaine or kale, so it should be fed in smaller quantities.
 
-The bottom line is, use your best judgment when deciding how much lettuce to give your goat, and be sure to monitor their health closely. If they seem unhappy or unwell, adjust their diet accordingly.
+is, use your best judgment when deciding how much lettuce to give your goat, and be sure to monitor their health closely. If they seem unhappy or unwell, adjust their diet accordingly.
 
 ## What are the different kinds of lettuce?
 
@@ -128,6 +128,6 @@ In terms of feeding lettuce to your goat, any type is a good option. Even so, le
 
 ## Closing Notes
 
-Overall, lettuce is a safe and healthy food for goats. However, there are some risks to consider, such as enterotoxemia and bloat.
+Lettuce is a safe and healthy food for goats. However, there are some risks to consider, such as enterotoxemia and bloat.
 
 Be sure to introduce lettuce into the diet gradually and monitor your goat's health closely.

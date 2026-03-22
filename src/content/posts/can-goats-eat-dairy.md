@@ -90,7 +90,7 @@ For this reason, you need to introduce dairy products slowly into a goat's diet 
 
 Finally, dairy products can contain harmful bacteria that can make goats sick. Careful hygiene and storage practices can help to minimize this risk.
 
-Overall, dairy products can be a healthy and nutritious part of a Goat's diet, but you need to be aware of the potential risks involved.
+Dairy products can be a healthy and nutritious part of a Goat's diet, but you need to be aware of the potential risks involved.
 
 ## How can you prevent dairy-related problems in goats?
 
@@ -136,9 +136,9 @@ If you want to give your goats a dairy-based treat, try mixing a small amount of
 
 Another option is to freeze small portions of goat milk in ice cube trays and offer them on hot days. Goats enjoy the cool treat, and it keeps them hydrated at the same time.
 
-## Our Take
+## 
 
-Overall, Dairy is a healthy and nutritious part of a Goat's diet, but there are some risks associated with feeding dairy to goats. One of the biggest dangers is the risk of bloat.
+Dairy is a healthy and nutritious part of a Goat's diet, but there are some risks associated with feeding dairy to goats. One of the biggest dangers is the risk of bloat.
 
 Bloat occurs when the goat's stomach fills with gas, and it can be fatal if not treated immediately.
 

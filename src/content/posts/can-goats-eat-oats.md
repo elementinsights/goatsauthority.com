@@ -43,7 +43,7 @@ Let's take a closer look at some questions about goats. Can goats eat oats?
 
 What are the benefits and risks associated with feeding them oats, and what would be the appropriate serving size?
 
-We will answer all those questions in this article and provide you with some feed options for your goats as well.
+We will answer all those questions and provide you with some feed options for your goats as well.
 
 ## Can goats eat oats?
 

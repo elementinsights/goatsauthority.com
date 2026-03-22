@@ -124,7 +124,7 @@ Goat's milk is mostly water, so when it freezes, the water content expands and b
 
 Still, this does not affect the safety of the milk, and it will still be nutritionally complete. The flavor of frozen goat's milk may also be slightly different from fresh milk, but it will still be palatable.
 
-Overall, freezing goat's milk is a safe and easy way to extend its shelf life.
+Freezing goat's milk is a safe and easy way to extend its shelf life.
 
 ## Are there any benefits to drinking frozen goat's milk?
 
@@ -138,9 +138,7 @@ So, if you have a surplus of goat's milk, don't hesitate to freeze it for later.
 
 ### Best Containers for Freezing Goat's Milk
 
-Not all containers are created equal when it comes to freezing goat's milk. Wide-mouth mason jars with a good amount of headspace (at least 1 inch from the top) are a popular choice among homesteaders.
-
-Plastic freezer bags also work well and have the advantage of laying flat, which saves freezer space. Just make sure to squeeze out as much air as possible before sealing.
+Not all containers are created equal which saves freezer space. Just make sure to squeeze out as much air as possible before sealing.
 
 Avoid using narrow-necked glass bottles. When the milk expands during freezing, these bottles are prone to cracking or shattering. If you prefer glass, stick with jars specifically designed for freezing.
 
@@ -170,8 +168,8 @@ For drinking purposes, try to use it within 3 months. For cooking and soap makin
 
 If you milk daily and freeze regularly, a chest freezer dedicated to milk storage is a worthwhile investment. It keeps everything organized and gives you a serious stockpile for the dry months when your does are not producing.
 
-## Wrapping Up
+## Final Thoughts
 
-Overall, freezing goat's milk is a safe and easy way to extend its shelf life. However, it is important to be aware of the potential hazards of freezing goat's milk, as well as the proper storage methods to prevent freezer burn.
+Freezing goat's milk is a safe and easy way to extend its shelf life. However, it is important to be aware of the potential hazards of freezing goat's milk, as well as the proper storage methods to prevent freezer burn.
 
 When thawing goat's milk, you need to use it immediately and not refreeze it. By following these simple tips, you can enjoy fresh, flavorful goat's milk all winter long.

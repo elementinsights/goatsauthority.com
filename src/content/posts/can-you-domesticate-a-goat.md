@@ -45,7 +45,7 @@ We all know that dogs, cats, and parrots can be domesticated, but what about goa
 
 And if so, what are the things you need to consider before you take the plunge?
 
-We'll cover everything below.we will answer those questions about domesticating a goat and provide you with the information you need to make sure this is the right decision for you.
+we will answer those questions about domesticating a goat and provide you with the information you need to make sure this is the right decision for you.
 
 ## Can you domesticate a goat?
 
@@ -77,7 +77,7 @@ They can also be trained to do tricks and even pull carts or carry backpacks.
 
 Goats are good company and provide hours of entertainment with their unique personalities. They can be a great addition to any family and provide years of fun, companionship, and laughter.
 
-All in all, goats can make great pets if you’re willing to put in the time and effort necessary to properly care for them. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
+Goats can make great pets if you’re willing to put in the time and effort necessary to properly care for them. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 
 So, can you domesticate a goat? Yes, but like any pet, there are certain considerations to make before taking the plunge.
 
@@ -111,7 +111,7 @@ Many goats can be trained to pull carts or carry backpacks, which is a great way
 
 Goats can learn basic commands like “sit” and “stay”, as well as more complex behaviors like walking on a leash. With patience and dedication, you can create an exciting bond with your goat that will bring you both joy and companionship.
 
-Overall, goats can be great pets if given the proper care and attention. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
+Goats can be great pets if given the proper care and attention. With patience and dedication, you can create a lasting bond with your goat that will bring you both joy and companionship.
 
 Goats are intelligent creatures that form strong bonds with their owners, so make sure to spend plenty of time with them and get to know their personalities. With the right care, goats can make great pets that will reward your commitment with years of love and entertainment.
 
@@ -163,6 +163,6 @@ Remove any toxic plants from the area where your goats will roam. Rhododendron, 
 
 ## The Bottom Line
 
-Overall, goats can be wonderful companions when given the proper care and attention. If you are considering getting a pet goat, make sure to do your research into their needs and behavior.
+Goats can be wonderful companions when given the proper care and attention. If you are considering getting a pet goat, make sure to do your research into their needs and behavior.
 
 With the right knowledge and dedication, you can create a fulfilling relationship with your goat that will bring both of you joy for years to come.

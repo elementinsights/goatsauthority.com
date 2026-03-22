@@ -128,7 +128,7 @@ There are a few potential risks to consider when feeding goats rice. First, if t
 
 Second, uncooked rice can be hard for goats to digest, and it may cause digestive problems or even blockages.
 
-Finally, feeding goats too much rice can lead to obesity, as well as other health problems such as joint pain and respiratory issues. That said, as long as the rice is cooked properly and fed in moderation, it can be a healthy and nutritious part of a goat's diet.
+Finally, feeding goats too much rice can lead to obesity, as well as other health problems such as joint pain and respiratory issues. As long as the rice is cooked properly and fed in moderation, it can be a healthy and nutritious part of a goat's diet.
 
 ## How much rice should be fed to goats, and how often should it be given?
 
@@ -166,7 +166,7 @@ Rice is a good source of vitamins and minerals, and it's also high in carbohydra
 
 ## Summary
 
-Overall, rice can be a healthy and nutritious part of a goat's diet. Keep in mind, it's important to feed rice in moderation and to cook it properly before feeding it to goats.
+Rice can be a healthy and nutritious part of a goat's diet. Keep in mind, it's important to feed rice in moderation and to cook it properly before feeding it to goats.
 
 When feeding rice to goats, be sure to mix it with other high-fiber foods such as hay or pasture grass. Goats should also have access to fresh water at all times.
 

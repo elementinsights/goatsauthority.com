@@ -65,7 +65,7 @@ What's more, kohlrabi can help to keep goats cool in hot weather, as it helps to
 
 ## What do goats eat and are they able to eat Kohlrabi?
 
-Goats are actually very versatile eaters and can digest a wide variety of plant life. In general, they are browsers rather than grazers, which means that they prefer to eat leaves, twigs, and other foliage.
+Goats are actually very versatile eaters and can digest a wide variety of plant life. They are browsers rather than grazers, which means that they prefer to eat leaves, twigs, and other foliage.
 
 Goat stomachs are specifically designed to break down these types of tough plant materials. Kohlrabi is a type of cabbage that is characterized by its thick, bulbous stem.
 
@@ -149,7 +149,7 @@ Turnips are probably the most popular brassica for livestock feed because they s
 
 ## Closing Notes
 
-Overall, kohlrabi is a safe vegetable for goats to eat. However, there are a few potential hazards to be aware of, such as the high oxalate content and the possibility of contamination with harmful bacteria.
+Kohlrabi is a safe vegetable for goats to eat. However, there are a few potential hazards to be aware of, such as the high oxalate content and the possibility of contamination with harmful bacteria.
 
 When feeding kohlrabi to goats, always make sure that there's plenty of fresh water available for them to drink. In addition, kohlrabi should only be fed to goats in moderation, as it can cause digestive problems if they eat too much.
 

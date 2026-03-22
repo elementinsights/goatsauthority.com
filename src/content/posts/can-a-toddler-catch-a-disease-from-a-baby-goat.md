@@ -45,7 +45,7 @@ You may be wondering if it's safe for your toddler to play with baby goats. Afte
 
 But you may have also heard that goats can carry diseases. So, can a toddler catch a disease from a baby goat?
 
-We'll cover everything below.we will answer this question and give you all the information you need to know about letting your toddler play with goats.
+we will answer this question and give you all the information you need to know about letting your toddler play with goats.
 
 ## Can a toddler catch a disease from a baby goat?
 
@@ -61,13 +61,13 @@ For one thing, it can help to promote bonding between parent and child. Spending
 
 It can provide an opportunity for learning about responsibility and animal care. Toddlers who are given the chance to feed and care for baby goats may develop a stronger sense of empathy and compassion.
 
-At the end of the day, letting your toddler play with baby goats can be a beneficial experience in many different ways.
+letting your toddler play with baby goats can be a beneficial experience in many different ways.
 
 ## What are the risks of letting your toddler play with baby goats?
 
 While there are many benefits to letting your toddler play with baby goats, there are also some risks to consider. First and foremost, there's the risk of disease.
 
-As we mentioned before, baby goats can carry bacteria and viruses that can cause serious illnesses in people. This is why it's so important to make sure that the goats are healthy and up-to-date on their vaccinations before allowing your child to interact with them.
+before, baby goats can carry bacteria and viruses that can cause serious illnesses in people. This is why it's so important to make sure that the goats are healthy and up-to-date on their vaccinations before allowing your child to interact with them.
 
 Another risk to consider is the possibility of injury. Baby goats can be very active, and toddlers can easily get knocked over or stepped on.
 

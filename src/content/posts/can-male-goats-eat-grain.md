@@ -68,7 +68,7 @@ The best way to prevent your male goats from eating grain is to not have any gra
 
 You should also monitor their diet closely to make sure that they are not overeating or consuming too much grain.
 
-Overall, it is best to avoid feeding male goats grain if possible. But, if you must feed them this food, then you should take care to cook the grain first and only give them a small amount at a time.
+It is best to avoid feeding male goats grain if possible. But, if you must feed them this food, then you should take care to cook the grain first and only give them a small amount at a time.
 
 Monitor their diet closely to make sure that they are not overeating or consuming too much grain. This will help to prevent any health problems that could arise from feeding grain to male goats.
 

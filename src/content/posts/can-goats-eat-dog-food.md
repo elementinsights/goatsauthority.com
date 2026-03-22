@@ -191,7 +191,7 @@ One more thing: if you’re unsure about what foods are safe, consult with an ex
 
 #### What Can You Feed Your Goats?
 
-When it comes to feeding your goats, a balanced diet is key. You might wonder if dog food can be part of that balance.
+A balanced diet is key. You might wonder if dog food can be part of that balance.
 
 The short answer is no. Goats and dogs have different dietary needs.
 

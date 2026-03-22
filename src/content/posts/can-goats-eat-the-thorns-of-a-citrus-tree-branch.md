@@ -41,129 +41,60 @@ faq:
   - question: "How many citrus tree branches can a goat eat per day?"
     answer: "It really depends on the size of the goat and the amount of foliage on the branch. A general rule of thumb is that a Goat can consume about two-thirds of its body weight in food each day."
 ---
+If you have citrus trees on your property and goats nearby, chances are your goats have already been eyeing those branches. The good news is that citrus trees are safe browse for goats, thorns and all.
 
-You may be wondering whether or not goats can eat the thorns of a citrus tree branch. And if so, what are the things you need to know?
-
-Let's break it down.we will explore the answer to those questions and provide you with some key points that you need to remember.
+Goats are natural browsers and they handle thorny plants surprisingly well. Here is what you need to know about letting them at your citrus branches.
 
 ## Can goats eat the thorns of a citrus tree branch?
 
-In addition to being able to digest the thorns, goats are also able to extract nutrients from them. This is because goats are able to break down cellulose, which is a type of plant fiber.
+Yes, goats can eat citrus tree branches including the thorns. They are skilled at navigating around sharp points and will strip the leaves and bark while working around the pricklier parts.
 
-Of course, goats should not eat too many thorns. This is because the thorns can cause stomach and intestinal irritation.
-
-If a goat eats too many thorns, it may experience vomiting or diarrhea.
-
-So, it is important to monitor your goat's diet if you are feeding them thorns. Make sure that they are not eating too much and that they have access to plenty of water.
+Citrus trees are considered safe browse for goats. The leaves, bark, and small branches are all fair game, and the thorns themselves will pass through their digestive system without causing problems in most cases.
 
 ## The benefits of having goats eat the thorns of a citrus tree branch
 
-Goats are browsers, which means that they naturally eat a variety of plants and shrubs. This includes thorny plants, such as citrus trees.
+Goats are natural brush clearers and citrus trees are no exception. If you have overgrown citrus that needs pruning, turning your goats loose on the lower branches saves you a lot of work.
 
-Goats can quickly strip a tree of its thorns, leaving the branches smooth and safe to handle.
-
-It's also worth noting that goats' digestive systems are able to break down the thorns, which prevents them from regrowing. This is why goats can be an effective means of control for thorny trees.
-
-In addition to their browsing habits, goats also offer other benefits to citrus trees.
-
-Their manure is rich in nutrients, which can help to fertilize the soil and promote healthy growth. What's more, their presence can help to discourage pests and diseases.
-
-For all these reasons, goats can be a valuable asset to any citrus farm.
+Their manure is nutrient-rich and helps fertilize the soil around the trees. Many small orchard owners use goats for understory management, and citrus trees hold up well to goat browsing once they are mature enough to handle it.
 
 ## What are the risks of having goats eat the thorns of a citrus tree branch?
 
-There are a few risks associated with goats eating the thorns of a citrus tree branch. First, the thorns can puncture the goat's digestive tract, causing internal bleeding and potentially leading to death.
+The main risk is mouth or throat injuries from particularly long thorns. Grapefruit and certain orange varieties can grow thorns over 2 inches long, and those can poke or scratch the inside of a goat's mouth.
 
-Following that, if the thorns are covered in poison ivy or other poisonous plants, the goat could become sick or even die.
-
-Finally, if the thorns get caught in the goat's fur, they can be difficult to remove and may cause irritation or infection. Therefore, it is important to exercise caution when allowing goats to graze on citrus tree branches.
+The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once. Watch for soft droppings or reduced appetite as signs that they have overdone it on the citrus browse.
 
 ## Things you need to remember when it comes to goats eating citrus tree branches
 
-Regarding goats eating citrus tree branches, there are a few things you need to remember. First and foremost, goats are browsers, not grazers.
+Goats are browsers, not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
 
-They prefer to eat leaves, stems, and other soft plant parts rather than grass.
-
-This means that they are more likely to eat the leaves and branches of citrus trees than the fruit itself. Second, goats are very curious animals and will often try to nibble on anything that catches their eye.
-
-This includes branches, leaves, and even tree trunks. If you see a goat starting to nibble on a branch, it's important to give them something else to eat so they don't damage the tree.
-
-Finally, goats need to be supervised when around citrus trees. They should never be left alone with access to the branches, as they may end up eating too much and damaging the tree.
+A standard goat eats about 3 to 5 percent of its body weight daily, not two-thirds like some sources claim. A 150 pound goat will eat roughly 5 to 8 pounds of food per day, and citrus browse should only be a portion of that.
 
 ## How to take care of your goats if you have them eat citrus tree branches?
 
-If you have citrus trees on your property, you may be wondering if it's okay to let your goats eat the branches.
+Keep fresh water available whenever your goats are browsing citrus. The essential oils in the leaves can make them thirsty, and dehydration is always a concern with dry browse.
 
-After all, citrus fruits are known to be a good source of Vitamin C. That said, there are a few things you should keep in mind before letting your goats munch on citrus branches.
-
-First of all, the leaves and twigs of citrus trees can be quite sharp, so it's important to make sure that your goats have access to plenty of fresh, clean water. Sharp edges can damage a goat's mouth and tongue, so it's important to monitor their intake of citrus branches.
-
-Also, the excessive consumption of citrus can lead to diarrhea and other digestive issues in goats. So, it's important to limit their intake of citrus branches and provide them with plenty of hay and other fresh vegetables as well.
-
-With a little care and moderation, your goats can enjoy the occasional snack on citrus branches without any problems.
+Make sure the trees have not been sprayed with pesticides or herbicides before letting your goats graze around them. Any chemical residue on the leaves or bark can make your goats sick.
 
 ## How many citrus tree branches can a goat eat per day?
 
-It really depends on the size of the goat and the amount of foliage on the branch. A general rule of thumb is that a Goat can consume about two-thirds of its body weight in food each day.
+There is no exact number, but citrus browse should be a supplement to their regular diet of hay and pasture rather than the main course. A few branches per day alongside their normal feed is a reasonable amount.
 
-Therefore, a 200-pound Goat could theoretically eat 133 pounds of food in a single day. However, this is not always the case as goats typically only eat the leaves off of branches rather than eating an entire branch.
+If your goats have access to citrus trees all day long, the oils in the leaves can build up and cause digestive issues. Dairy goat owners should be especially careful because citrus oils can affect milk flavor.
 
 ## When is the best time to feed goats citrus tree branches?
 
-The best time to feed goats citrus tree branches is in the early morning or late evening when the temperature is cooler. Goats are more likely to eat in cooler temperatures as they are less active and have a slower metabolism.
+Morning or late afternoon is the best time for citrus browsing. Goats are most active during the cooler parts of the day and will eat more readily when they are not fighting the heat.
 
-Feeding them in the early morning or late evening will help to avoid any digestive issues that may occur from eating too much citrus.
-
-Finally, it's important to make sure that the branches you're feeding them are clean and free of any pesticides or herbicides.
+If you are pruning branches and tossing them to your goats, let the cut branches wilt slightly before offering them. Freshly cut citrus can be very strong, and slightly wilted branches are easier on their digestive system.
 
 ## Are there any other uses of citrus tree branches other than feeding goats?
 
-Citrus tree branches can also be used as bedding for goats. The leaves and twigs of the branches will provide a soft, comfortable surface for them to sleep on.
+Citrus branches make decent natural fencing material in a pinch. The thorns discourage predators, and stacking pruned branches around a pen adds an extra barrier.
 
-It's also worth noting that the branches can be used to build fences or pens for goats. The thorns on the branches can help to keep predators out and the goats in.
+You can also chip citrus branches for mulch around other plants in your garden. The wood breaks down slowly and the natural oils help deter some garden pests.
 
-On top of feeding and bedding, citrus tree branches can also be used for crafts. The leaves and twigs can be used to make wreaths or garlands.
+## Final Thoughts
 
-The branches can also be painted or carved into decorative pieces.
+Goats handle citrus tree branches well, thorns included. They are smart enough to navigate around the sharp parts and tough enough to digest whatever they swallow.
 
-So, as you can see, there are many uses for citrus tree branches other than just feeding goats. With a little creativity, you can find all sorts of ways to use them around your farm or homestead.
-
-### Which Citrus Trees Have the Largest Thorns?
-
-Not all citrus trees are created equal when it comes to thorns. Lemon trees, especially Meyer lemons, tend to have shorter, less aggressive thorns that goats can handle without much trouble.
-
-Grapefruit and orange trees, on the other hand, can develop thorns that are over 2 inches long. These longer thorns pose a greater risk of mouth and throat injuries.
-
-If you're specifically using goats to clear citrus branches, stick with the milder varieties first. Let your goats build up experience before introducing branches from more heavily thorned species.
-
-Trifoliata orange rootstock produces some of the sharpest thorns of any citrus. If your trees are grafted onto this rootstock, you may notice thorns growing below the graft line that are especially dangerous for goats.
-
-### Using Goats to Manage Overgrown Citrus Orchards
-
-If you have an overgrown citrus orchard that needs clearing, goats can do a lot of the heavy lifting for you. Turn a small group loose in a fenced section of the orchard and let them strip the lower branches clean over a few days.
-
-Rotate them through different sections so they do not stay too long in one area. Overgrazing a single spot can lead to soil compaction and root damage to the trees.
-
-Keep water stations close by because citrus browse is dry and the essential oils in the leaves can make goats thirsty. Check on them twice a day to make sure nobody has gotten tangled in branches or scratched by thorns.
-
-### How Citrus Oils Affect Goat Digestion
-
-The essential oils in citrus leaves and bark have antimicrobial properties that can affect the bacteria in a goat's rumen. In small doses, this is not a problem and may even be beneficial. Some farmers believe that occasional citrus browse helps reduce internal parasite loads.
-
-In large quantities, those same oils can irritate the lining of the digestive tract. You will notice the goat producing softer than normal droppings or showing less interest in its regular feed.
-
-If your goats have access to citrus trees all day every day, the oils can build up in the milk and give it an off flavor. Dairy goat owners should limit citrus access to a few hours per day if milk quality matters.
-
-### Protecting Young Citrus Trees From Goat Damage
-
-Goats will absolutely destroy a young citrus tree if they get the chance. They will strip the bark, eat every leaf, and snap thin branches without hesitation.
-
-If you have newly planted citrus trees in or near your goat pasture, protect them with wire cages made from cattle panels. The cage should extend at least 3 feet from the trunk in all directions.
-
-Once the tree is mature enough that its trunk bark is thick and its lowest branches are above goat reach, you can remove the cage. This usually takes 3 to 5 years depending on the tree variety and growth rate.
-
-## The Bottom Line
-
-Goats can eat the thorns of a citrus tree branch. However, it's important to monitor their intake and make sure they have access to plenty of fresh, clean water.
-
-The branches can be used for bedding or craft projects. With a little care and creativity, you can find all sorts of ways to use them around your farm or homestead.
+Just protect young trees, keep water handy, and make sure citrus browse stays a supplement rather than the whole diet. Your goats will enjoy the variety and your overgrown citrus trees will get a free pruning.

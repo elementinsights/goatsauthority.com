@@ -59,7 +59,7 @@ They also serve as a important shelter from the elements, protecting mountain go
 
 Plus, noches play an important role in social interactions within herds, allowing goats to bond with one another through grooming and sniffing activities.
 
-Overall, these sharp-clawed foot formations make essential tools for mountain goats in their rugged habitats, helping them to thrive and survive in the wild.
+These sharp-clawed foot formations make essential tools for mountain goats in their rugged habitats, helping them to thrive and survive in the wild.
 
 ## What are the benefits of mountain goat noches?
 
@@ -71,7 +71,7 @@ They also help to aerate soils with their hooves, increasing access to water and
 
 Also, the noches of valuable minerals in the soil that are excreted by mountain goats provide essential nutrients for surrounding flora.
 
-In general, the role of mountain goat noches in the ecosystem is essential and cannot be overstated.
+The role of mountain goat noches in the ecosystem is essential and cannot be overstated.
 
 Whether you're a casual hiker or a seasoned wilderness explorer, it's worth a trip up into the mountains to witness first-hand this fascinating phenomenon in action.
 
@@ -127,7 +127,7 @@ Not only do these sturdy animals spend most of their time trekking across rugged
 
 These hardy animals demonstrate a remarkable ability to discern smells, tastes, and textures, making them well-equipped to survive and thrive no matter where they happen to wander.
 
-Overall, mountain goats have shown that they are capable of doing much more than simply digging noches in challenging environments--they are truly adaptive masters of the natural world.
+Mountain goats have shown that they are capable of doing much more than simply digging noches in challenging environments--they are truly adaptive masters of the natural world.
 
 ## When is the best time to see mountain goats?
 

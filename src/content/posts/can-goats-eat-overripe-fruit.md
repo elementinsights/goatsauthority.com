@@ -62,7 +62,7 @@ The type of fruit: Not all fruits are good for goats. So, before giving any frui
 
 Some fruits that are safe for goats include apples, watermelons, cantaloupes, and mangoes.
 
-The ripeness of the fruit: As we mentioned earlier, overripe fruits are easier for goats to digest. So, if you are going to give your goats overripe fruit, make sure that it is soft and easy to chew.
+The ripeness of the fruit: earlier, overripe fruits are easier for goats to digest. So, if you are going to give your goats overripe fruit, make sure that it is soft and easy to chew.
 
 The amount of fruit: It is important to give your goats the right amount of fruit. This is because too much fruit can cause digestive problems and may lead to diarrhea.
 

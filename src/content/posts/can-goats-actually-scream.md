@@ -145,6 +145,6 @@ There are several things you can do to prevent your goat from screaming unnecess
 
 If your goat does scream occasionally, there are a few things you can do to help reduce the amount of screaming, such as providing them with plenty of space and a healthy diet.
 
-Overall, goats are relatively quiet animals and their screams are not something you need to be too concerned about. But, if you are ever concerned about the tone or frequency of your goat's screams, be sure to consult with a veterinarian.
+Goats are relatively quiet animals and their screams are not something you need to be too concerned about. But, if you are ever concerned about the tone or frequency of your goat's screams, be sure to consult with a veterinarian.
 
 They can help you determine if there's an underlying health issue that needs to be addressed.

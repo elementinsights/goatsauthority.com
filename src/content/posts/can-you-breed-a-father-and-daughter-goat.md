@@ -118,7 +118,7 @@ One option is outcrossing, which is breeding two animals from different lines. T
 
 Another option is cross-breeding, which is breeding two animals from different species. This can be effective in introducing new blood into the gene pool but it also carries the risk of producing offspring that are sterile or have other health problems.
 
-At the end of the day, there is no perfect solution when it comes to breeding goats (or any other animal). Each method has its own advantages and disadvantages, and it ultimately comes down to what you are looking for in your animals.
+there is no perfect solution and it ultimately comes down to what you are looking for in your animals.
 
 ## When is the best time to line-breed your goats?
 
@@ -128,7 +128,7 @@ However, it is important to carefully consider the risks and rewards of line bre
 
 It is important to consult with a veterinarian or other expert before line breeding your goats, as there are some health risks associated with this technique.
 
-The bottom line is, the best time to line-breed your goats is when you have done your research and you are confident that you understand the risks and rewards involved.
+is, the best time to line-breed your goats is when you have done your research and you are confident that you understand the risks and rewards involved.
 
 ### Keeping Detailed Breeding Records
 
@@ -158,6 +158,6 @@ Some goat associations run buck leasing programs specifically to help small bree
 
 You can breed your goats using different methods, each with its own advantages and disadvantages. Line breeding is a tool that can be used to improve desired traits in your herd but it comes with the risk of inbreeding.
 
-Outcrossing and cross-breeding are two alternative methods that come with their own set of risks and challenges. Overall, it is up to you to decide which breeding method is right for your goats.
+Outcrossing and cross-breeding are two alternative methods that come with their own set of risks and challenges. It is up to you to decide which breeding method is right for your goats.
 
 Whichever method you choose, it is important to consult with a veterinarian or other expert before getting started. This will help to make sure that you are using the best possible techniques and that your goats remain healthy and productive.

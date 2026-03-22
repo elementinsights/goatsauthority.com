@@ -159,7 +159,7 @@ These things can’t be found in cow’s milk or other types of milk.
 
 So what happens if you give a kid cow’s milk instead? They might get sick because it doesn’t have all the right stuff for them to grow properly.
 
-**The bottom line here is this: while goats can technically drink cow’s milk once they’re older, nothing beats momma goat’s natural supply at birth time**.
+**here is this: while goats can technically drink cow’s milk once they’re older, nothing beats momma goat’s natural supply at birth time**.
 
 ### What Can Baby Goats Eat?
 

@@ -44,7 +44,7 @@ faq:
 
 Taking care of goat waste, especially manure, is an essential component of keeping goats. If you're unsure whether you can utilize this manure effectively.
 
-Then, we'll respond to all of your questions in this article and give you a guide for farmers on how to use goat excrement as fertilizer.
+Then, we'll respond to all of your questions and give you a guide for farmers on how to use goat excrement as fertilizer.
 
 ## Can goat poop be used as fertilizer?
 
@@ -116,7 +116,7 @@ Next, if the manure is not properly composted, it could harbor harmful bacteria 
 
 Finally, goat manure can be quite smelly when used fresh, so be sure to compost it well before using it on your garden beds.
 
-Overall, goat manure can be an excellent fertilizer for your garden, but just be sure to take these potential risks into account.
+Goat manure can be an excellent fertilizer for your garden, but just be sure to take these potential risks into account.
 
 ## What are the alternative ways to use goat manure?
 
@@ -158,7 +158,7 @@ Compared to cow manure, goat pellets are drier and easier to handle. They break 
 
 Goat manure pellets also do not attract flies the way cow patties do. If you have ever dealt with a fly problem around a cow pasture, you know what a difference this makes during the summer months.
 
-## Our Take
+## 
 
 Goat manure can be used as fertilizer for your crops, but there are a few things to keep in mind.
 

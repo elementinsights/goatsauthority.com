@@ -42,7 +42,7 @@ faq:
 
 Raccoons get a lot of blame as goat killers, but the truth is more nuanced than most people think. They are not major predators of goats the way coyotes or stray dogs are.
 
-That said, raccoons do pose a real threat in specific situations. Understanding what that threat actually looks like will help you protect your herd without wasting effort on the wrong things.
+Raccoons do pose a real threat in specific situations. Understanding what that threat actually looks like will help you protect your herd without wasting effort on the wrong things.
 
 ## Can raccoons kill goats?
 

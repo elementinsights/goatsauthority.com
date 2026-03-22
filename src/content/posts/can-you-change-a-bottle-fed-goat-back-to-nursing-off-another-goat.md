@@ -55,7 +55,7 @@ Keep in mind, there are a few things you should keep in mind. Make sure the nurs
 
 In addition, it's important to monitor the situation closely at first, as bottle-fed goats may not know how to properly nurse and could end up hurting the nursing goat.
 
-Overall, changing a bottle-fed goat back to nursing is a great idea. There are many benefits that come with it, and it's really not that difficult to do.
+Changing a bottle-fed goat back to nursing is a great idea. There are many benefits that come with it, and it's really not that difficult to do.
 
 Just be sure to keep a few things in mind and you'll be fine.
 

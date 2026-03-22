@@ -90,7 +90,7 @@ There are several different types of wormers available for goats, each of which 
 
 Oral wormers, such as deworming pastes and tablets, typically work by either suppressing the parasite's appetite or expelling it from the gastrointestinal tract. Liquid wormers, on the other hand, work by destroying or weakening the parasite's protective surface layer.
 
-There are also injectable wormers that can be administered directly into a goat's bloodstream. In general, using a combination of these different worming methods and applying them at regular intervals throughout the year will keep your goats healthy and free from pests and parasites.
+There are also injectable wormers that can be administered directly into a goat's bloodstream. Using a combination of these different worming methods and applying them at regular intervals throughout the year will keep your goats healthy and free from pests and parasites.
 
 So if you're looking for effective ways to protect your livestock, choosing one or more of these wormers is definitely a good place to start.
 
@@ -132,7 +132,7 @@ You should regularly inspect your goat for signs of parasites, such as a change 
 
 Depending on the type of worm problem that you are dealing with, there may also be certain medications or treatments available to combat worms in goats.
 
-In general, by taking these proactive measures, you can help minimize your goat's chances of getting worms and make sure that they stay healthy and happy for years to come.
+By taking these proactive measures, you can help minimize your goat's chances of getting worms and make sure that they stay healthy and happy for years to come.
 
 ### The FAMACHA Scoring System
 

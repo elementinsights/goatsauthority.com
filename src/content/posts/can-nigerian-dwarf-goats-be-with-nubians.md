@@ -84,7 +84,7 @@ Another point: a diverse herd will have better odds of passing on exceptional tr
 
 Similarly, crossbreeding goats can also lead to improvements in milk production, especially when combined with other breeding techniques such as selective mutism or selective insemination.
 
-In general, there are many advantages to crossbreeding goats, making it a valuable technique for any dairy farmer looking to improve their herd.
+There are many advantages to crossbreeding goats, making it a valuable technique for any dairy farmer looking to improve their herd.
 
 ## What are the potential problems with crossbreeding goats?
 
@@ -124,7 +124,7 @@ For example, it can lead to lower fertility rates in female goats, as well as an
 
 Beyond that, while some crossbred animals may be more resistant to disease than purebred goats are, they could also have an increased risk of developing certain illnesses due to genetics from both parents.
 
-Overall, it is important for farmers to carefully consider the potential benefits and risks of crossbreeding before deciding whether or not it is right for them.
+It is important for farmers to carefully consider the potential benefits and risks of crossbreeding before deciding whether or not it is right for them.
 
 ## How to choose the right goat breeds for your farm?
 
@@ -140,7 +140,7 @@ With the right selection of goats, you can be sure that your herd will be produc
 
 ## Key Takeaways
 
-In general, crossbreeding goats can have both positive and negative consequences. However, with careful planning and consideration, farmers can successfully crossbreed goats to produce lines that are hardy, productive, and well-suited for their intended purposes.
+Crossbreeding goats can have both positive and negative consequences. However, with careful planning and consideration, farmers can successfully crossbreed goats to produce lines that are hardy, productive, and well-suited for their intended purposes.
 
 When all is said and done, the key to success is to choose the right goat breeds for your farm and to monitor the health of your herd closely.
 

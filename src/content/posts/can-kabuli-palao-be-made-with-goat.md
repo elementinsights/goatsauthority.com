@@ -68,19 +68,19 @@ Although this dish can be made with different types of meat, the goat has many d
 
 Unlike other meats, goat is not typically associated with high levels of cholesterol or fat. And because it is naturally leaner than other meats, the goat also tends to be more nutrient-rich.
 
-Finally, because goats are well-adapted to living in hot climates like Afghanistan, they yield flavorful meat that doesn't need to be heavily seasoned or marinated in order for it to taste good. All in all, the goat is the ideal meat for making a delicious and healthy version of Kabuli Palao.
+Finally, because goats are well-adapted to living in hot climates like Afghanistan, they yield flavorful meat that doesn't need to be heavily seasoned or marinated in order for it to taste good. The goat is the ideal meat for making a delicious and healthy version of Kabuli Palao.
 
 ## Are there any drawbacks to eating Kabuli Palao made with goat meat instead of lamb or beef?
 
 While goat meat may not be as popular as other meats, such as lamb or beef, it has many nutritional benefits that make it an attractive option for those looking to enjoy a hearty meal.
 
-This is particularly true when it comes to making Kabuli Palao, a popular Afghan dish made with long-grain rice and ground meat. Indeed, many cooks prefer goat meat for this dish due to its rich flavor and texture that holds up well under sautéing and simmering.
+This is particularly true a popular Afghan dish made with long-grain rice and ground meat. Indeed, many cooks prefer goat meat for this dish due to its rich flavor and texture that holds up well under sautéing and simmering.
 
 Of course, there are also some drawbacks associated with using goat meat instead of lamb or beef when preparing Kabuli Palao.
 
 For one thing, the goat can be tough and stringy, which can make it difficult to work with on a skillet or in the slow cooker. Some people may find the taste of goat to be too gamy or intense for their liking.
 
-That being said, these drawbacks aside, many people still prefer goat as an ingredient in Kabuli Palao due to the depth of flavor it lends to the dish overall.
+These drawbacks aside, many people still prefer goat as an ingredient in Kabuli Palao due to the depth of flavor it lends to the dish overall.
 
 And while sheep's milk cheese is often preferred as a garnish for this classic Afghan recipe, those who wish to try new spins on the meal may consider experimenting with feta or paneer cheese instead - each ingredient pairs wonderfully well with ground goat meat in this beloved dish.
 
@@ -118,7 +118,7 @@ So no matter what your preferences or skill level, you're sure to find a suitabl
 
 ## Closing Notes
 
-Overall, goat meat is a popular choice for Kabuli Palao among many people because of its rich flavor and versatility.
+Goat meat is a popular choice for Kabuli Palao among many people because of its rich flavor and versatility.
 
 However, there are also those who prefer lamb or beef in this dish. No matter what your personal preferences are, Kabuli Palao is sure to be a delicious and satisfying meal.
 

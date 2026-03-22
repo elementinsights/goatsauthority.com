@@ -74,7 +74,7 @@ What's more, many people find that goat milk butter has a more mild and pleasant
 
 Beyond its nutritional benefits, goat milk butter also has many culinary uses. It can be used as a spread on toast or bagels, or incorporated into sauces and dressings to add creaminess and flavor.
 
-Some chefs even like to use it as a substitute for traditional dairy products like heavy cream or even cheese in certain recipes. Overall, with its myriad health benefits and rich flavor profile, goat milk butter is definitely here to stay as an increasingly popular staple in kitchens around the world.
+Some chefs even like to use it as a substitute for traditional dairy products like heavy cream or even cheese in certain recipes. With its myriad health benefits and rich flavor profile, goat milk butter is definitely here to stay as an increasingly popular staple in kitchens around the world.
 
 ## How is goat milk butter made?
 
@@ -124,7 +124,7 @@ You will want to find appropriate packaging materials that can protect your prod
 
 If possible, it is also advisable to invest in some climate-controlled storage space, especially during the warm summer months when heat can negatively impact the quality and shelf life of your butter.
 
-Overall, there are many factors to consider when starting a goat milk butter business. But if you take the time to build a solid foundation by planning wisely and investing in quality equipment and products, you are sure to be successful in this endeavor.
+There are many factors to consider when starting a goat milk butter business. But if you take the time to build a solid foundation by planning wisely and investing in quality equipment and products, you are sure to be successful in this endeavor.
 
 ## The challenges of selling goat milk butter
 

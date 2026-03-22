@@ -45,7 +45,7 @@ Practical goat knowledge saves time, money, and heartache. Watching them grow an
 
 So, can goats eat wheat stalks?
 
-Let's break it down.we will answer all of your questions regarding goats and wheat stalks. We will also explore the nutrition facts and benefits of this food for goats.
+we will answer all of your questions regarding goats and wheat stalks. We will also explore the nutrition facts and benefits of this food for goats.
 
 ## Can goats eat wheat stalks?
 
@@ -97,7 +97,7 @@ A 150-pound goat could theoretically consume around 7000 stalks of wheat each da
 
 However, because they browse rather than graze, goats prefer to consume a wide variety of vegetation as opposed to vast numbers of any one kind. Beyond that, wheat straw is less nutrient-dense than other forms of fodder, thus goats normally only eat modest amounts of it.
 
-So it seems doubtful that a goat would truly consume 7,000 stalks of wheat in a single day. That said, this illustrates the fact that goats are able to consume large quantities of vegetation thanks to their four-chamber stomachs.
+So it seems doubtful that a goat would truly consume 7,000 stalks of wheat in a single day. This illustrates the fact that goats are able to consume large quantities of vegetation thanks to their four-chamber stomachs.
 
 ## Additional resources on feeding wheat stalks to goats
 

@@ -50,7 +50,7 @@ We will answer those questions in detail and provide you with additional informa
 
 Plus, pregnant goats should be dewormed at least six weeks before giving birth. This ensures that the baby goat has a healthy start in life and does not suffer from any health issues.
 
-However, it is essential to keep in mind that there are many different types of dewormers available, and not all of them can be safely used during pregnancy. Therefore, it is important to consult with a veterinarian before administering any type of dewormer.
+However, keep in mind that there are many different types of dewormers available, and not all of them can be safely used during pregnancy. Therefore, it is important to consult with a veterinarian before administering any type of dewormer.
 
 ## What is deworming and why is it important for pregnant goats?
 
@@ -164,7 +164,7 @@ Share your deworming records with your vet at each visit. They can use this info
 
 ## Quick Recap
 
-Overall, worms are a common problem for goats and can cause serious health issues if not treated properly. It's important to take preventative measures such as providing clean shelter and good quality feed, as well as having your goat checked by a goat expert regularly.
+Worms are a common problem for goats and can cause serious health issues if not treated properly. It's important to take preventative measures such as providing clean shelter and good quality feed, as well as having your goat checked by a goat expert regularly.
 
 If an infection does occur, it's important to talk to a veterinarian to determine the most effective treatment plan. There are also some alternative treatments that can be used, but these should not take the place of goat expert care.
 

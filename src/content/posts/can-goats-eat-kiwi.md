@@ -125,7 +125,7 @@ Kiwis are a nutritious snack for goats, offering a good source of vitamins, mine
 
 Feeding goats kiwi fruit's also a great way to keep them entertained and occupied. Goats are curious creatures by nature, and they will enjoy exploring the different textures and tastes of kiwis.
 
-In general, feeding goats kiwi fruit's a great way to provide them with a nutritious snack that can also help to keep them entertained.
+Feeding goats kiwi fruit's a great way to provide them with a nutritious snack that can also help to keep them entertained.
 
 ## What are the risks of feeding goats kiwi fruit?
 
@@ -141,7 +141,7 @@ Goats should only eat a small amount of kiwi fruit at a time. A good rule of thu
 
 When feeding goats kiwis, it's also important to make sure that the seeds are crushed or chewed before they are eaten. This will help to prevent them from choking on the seeds.
 
-In general, goats should only eat a small amount of kiwi fruit at a time. When feeding them kiwis, it's important to make sure that the seeds are crushed or chewed before they are eaten.
+Goats should only eat a small amount of kiwi fruit at a time. When feeding them kiwis, it's important to make sure that the seeds are crushed or chewed before they are eaten.
 
 ### How to Prepare Kiwi for Your Goats
 

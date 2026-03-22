@@ -38,7 +38,7 @@ faq:
 
 It is difficult to determine whether or not you can register your Nigerian dwarf to a goat if it doesn't have papers. And if so, what are the things you need to consider before doing so?
 
-We will answer those questions in this article and provide you with all the things you need to know about registering your Nigerian dwarf goat without papers.
+We will answer those questions and provide you with all the things you need to know about registering your Nigerian dwarf goat without papers.
 
 ## Can I register my Nigerian dwarf goat if it doesn't have papers?
 
@@ -74,7 +74,7 @@ Many Nigerians like to keep small livestock as a way of connecting with their h
 
 Also, having registered goats can help promote camaraderie among local farmers by bringing them together for livestock shows and other related events.
 
-In general, then, there are many good reasons for Nigerians to register their goats without papers. Whether we're talking about improving market value or building stronger bonds among farmers, this simple act can bring great benefits to all individuals involved.
+Then, there are many good reasons for Nigerians to register their goats without papers. Whether we're talking about improving market value or building stronger bonds among farmers, this simple act can bring great benefits to all individuals involved.
 
 ## Are there any risks associated with registering a Nigerian dwarf goat without papers?
 
@@ -86,7 +86,7 @@ Another potential risk is that an unregistered goat may not meet minimum health 
 
 Also, registering an animal without papers often requires additional fees and paperwork, which adds another layer of risk and expense.
 
-Overall, then, it is generally advisable to register any Nigerian dwarf goats that you own in order to mitigate these various risks and ensure their well-being and longevity.
+Then, it is generally advisable to register any Nigerian dwarf goats that you own in order to mitigate these various risks and ensure their well-being and longevity.
 
 ## What are the things you need to consider before registering your goat?
 
@@ -98,13 +98,11 @@ You should also think about how much time and effort you are willing to put into
 
 Another important consideration is getting the right veterinary care for your goat, including vaccinations and regular check-ups by a qualified veterinarian.
 
-In general, there are many factors to keep in mind when registering your goat, so it is important to do your research in order to make the best possible choice.
+There are many factors to keep in mind when registering your goat, so it is important to do your research in order to make the best possible choice.
 
 ## How to go about the registration process of Nigerian dwarf goats without papers?
 
-To start, it is important to understand what registration actually entails when it comes to Nigerian dwarf goats.
-
-At its simplest, registration refers to the process of documenting a goat's pedigree history and ensuring that the animal has no known genetic defects or other health problems.
+To start, it is important to understand what registration actually entails registration refers to the process of documenting a goat's pedigree history and ensuring that the animal has no known genetic defects or other health problems.
 
 Typically, this involves submitting DNA samples and milk tests in order to confirm the type of milk production that your goat exhibits, as well as verifying that they are purebred.
 

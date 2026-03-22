@@ -68,7 +68,7 @@ When choosing a breeding partner for your doeling, you need to select a buck tha
 
 it's also important to make sure that the buck is large enough to properly cover the doe; if he is too small, there's a risk of the doe being injured during breeding.
 
-Overall, the decision of when to breed a Nigerian Dwarf goat doeling will depend on the goals of the individual breeder. Some breeders choose to wait until the doeling is a bit older, while others breed theirs does as early as possible in order to maximize milk production.
+The decision of when to breed a Nigerian Dwarf goat doeling will depend on the goals of the individual breeder. Some breeders choose to wait until the doeling is a bit older, while others breed theirs does as early as possible in order to maximize milk production.
 
 ## What health concerns should be considered when breeding a Nigerian goat doeling?
 

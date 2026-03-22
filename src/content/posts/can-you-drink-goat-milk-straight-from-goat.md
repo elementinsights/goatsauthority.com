@@ -156,7 +156,7 @@ The key is speed. Get the milk from udder to refrigerator as fast as possible. S
 
 Keeping bucks housed away from the milking does also helps. The musky smell of a buck in rut can transfer to the milk and give it that "goaty" flavor that turns people off. Separating the buck pen from the milking area by at least 50 feet makes a big difference.
 
-## Wrapping Up
+## Final Thoughts
 
 You cannot drink raw goat milk because of the potential health risks associated with it. Pasteurizing the milk is the best way to make sure that harmful bacteria are killed and prevent any health issues related to drinking raw goat milk.
 

@@ -39,7 +39,7 @@ faq:
   - question: "How Much Potato Can a Goat Consume Safely? Quantity Control and Individual Goat Differences"
     answer: "Goats are known for their diverse diet. They can eat a variety of things, including potatoes. But the question is, how much potato is safe? The answer isn’t straightforward."
 ---
-Yes, goats can eat potatoes, but there are some important things you need to know before tossing a spud into the pen. Not all potatoes are created equal when it comes to goat safety, and getting this wrong can make your animals seriously sick.
+Yes, goats can eat potatoes, but there are some important things you need to know before tossing a spud into the pen. Not all potatoes are created equal and getting this wrong can make your animals seriously sick.
 
 I have been raising goats for years and have learned the hard way that what they eat matters more than most new owners realize. Here is the straightforward breakdown on potatoes and goats.
 
@@ -51,7 +51,7 @@ The real danger comes from solanine, a naturally occurring toxin found in the po
 
 A normal, ripe potato has very low solanine levels. But if that potato has been sitting in the sun and turned green, the solanine content spikes to levels that can poison your goat.
 
-**The bottom line is simple: ripe, non-green potatoes are okay as a treat.** Green potatoes, sprouted potatoes, and anything with eyes growing on it goes straight in the trash, not the feed bucket.
+**is simple: ripe, non-green potatoes are okay as a treat.** Green potatoes, sprouted potatoes, and anything with eyes growing on it goes straight in the trash, not the feed bucket.
 
 ## Potato Types: Can Goats Eat Sweet Potatoes and Raw Potato Peelings?
 
@@ -71,7 +71,7 @@ The potato tuber itself is the least toxic part of the plant. A ripe, properly s
 
 Potatoes do offer some nutritional value. They provide carbohydrates for energy, plus vitamins B6 and C and minerals like potassium.
 
-That said, potatoes should never replace hay, browse, or pasture in your goat’s diet. They are too starchy and too low in the protein and fiber that goats actually need to stay healthy.
+Potatoes should never replace hay, browse, or pasture in your goat’s diet. They are too starchy and too low in the protein and fiber that goats actually need to stay healthy.
 
 ### Caution: Potato Vines and Leaves Are Dangerous to Goats
 

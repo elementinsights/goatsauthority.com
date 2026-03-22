@@ -132,9 +132,7 @@ If all of these methods fail, you may need to shave the goat's coat. This should
 
 ### When to Put the Coat On and Take It Off
 
-Timing matters when it comes to coating your angora goat. Put the coat on right after shearing when the new fleece is just starting to grow in and is most vulnerable to damage.
-
-Remove the coat at least once a week to check the fleece underneath for matting, moisture buildup, or skin irritation. A quick visual inspection takes less than five minutes and can prevent bigger problems down the road.
+Timing matters moisture buildup, or skin irritation. A quick visual inspection takes less than five minutes and can prevent bigger problems down the road.
 
 Take the coat off entirely during the hottest summer months to prevent heat stress. Angora goats are already prone to overheating because of their dense fiber, and adding a coat on top of that can push them over the edge.
 

@@ -159,7 +159,7 @@ It’s not just kale though. Any food change can lead to this problem if it’s 
 
 So, always introduce new foods slowly into your goat’s diet.
 
-In fact, many plants rich in nutrients like kale have compounds that produce gas during digestion. That said, feeding your goat small amounts of kale should be fine.
+In fact, many plants rich in nutrients like kale have compounds that produce gas during digestion. Feeding your goat small amounts of kale should be fine.
 
 If you notice signs of discomfort after eating certain foods including excessive belly expansion or difficulty breathing, contact a vet immediately.
 

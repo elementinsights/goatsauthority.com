@@ -73,7 +73,7 @@ That's because this particular breed tends to be more delicate and can have trou
 
 On the other hand, older goats or those with a generally strong constitution may do better with more powerful treatments like Safeguard.
 
-Ultimately, it's important to be aware of both the pros and cons of each medication, taking into account your individual situation as well as any special considerations that might apply in your case.
+It's important to be aware of both the pros and cons of each medication, taking into account your individual situation as well as any special considerations that might apply in your case.
 
 With this information in mind, you can make an informed decision about which medication is best for your kid goats.
 
@@ -87,7 +87,7 @@ It is important to make sure that your kids have access to plenty of water while
 
 You should also be aware of any potential interactions with other drugs or medications that your kid goats may be taking, and avoid mixing Bimectin with these substances to protect their health.
 
-In general, when it comes to using Bimectin for your kid goats, the key is being informed and taking all of the necessary precautions to minimize any risks and maximize the benefits.
+The key is being informed and taking all of the necessary precautions to minimize any risks and maximize the benefits.
 
 ## How to worm your kid goats with Bimectin?
 
@@ -121,7 +121,7 @@ Antibiotics help to address many common infections including foot rot and pneumo
 
 Just like with any other type of medication though, antibiotics should only be prescribed after consulting with a licensed veterinarian who has the proper knowledge about which specific antibiotics will work best for each individual animal on your farm.
 
-Overall, there are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
+There are many factors that come into play when choosing a worming method for your livestock, but with some careful research and preparation ahead of time, it should be relatively simple to find the solution that works best for both you and your herd.
 
 ### How to Know When Your Kid Goat Needs Worming
 
@@ -141,7 +141,7 @@ Never underdose your goats. Goats metabolize dewormers faster than cattle or she
 
 After you treat with any dewormer, run a fecal egg count reduction test about 10 to 14 days later. If the egg count has not dropped by at least 90 percent, the dewormer may no longer be working against the worms in your herd.
 
-## Wrapping Up
+## Final Thoughts
 
 You can use Bimectin to worm your kid goats effectively and with few side effects.
 

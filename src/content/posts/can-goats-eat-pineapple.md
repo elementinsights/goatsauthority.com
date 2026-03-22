@@ -43,21 +43,7 @@ Have you ever looked at a pineapple and wondered if your goat can eat it? I have
 
 As an owner of goats, their diet is something that often crosses my mind.
 
-We all know how curious these animals are when it comes to food. It’s hard not to notice them nibbling on just about anything they come across in the yard.
-
-This raises the question: Can goats safely munch on pineapples? Let’s take a closer look into this matter together.
-
-## Can Goats Eat Pineapple: An Overview
-
-This fruit has high sugar content which isn’t good for their digestion if consumed excessively.
-
-Remember to remove the hard outer skin before feeding your goat pineapple. The rough texture could hurt their mouth or throat.
-
-Last thing to note: always monitor how your goat reacts after trying new food items like pineapples for any signs of discomfort or illness.
-
-### Understanding Goat Dietary Needs
-
-Goats are known for their wide-ranging diet. They eat a variety of plants, fruits and vegetables.
+We all know how curious these animals are fruits and vegetables.
 
 Pineapple is one fruit that goats can safely consume.
 
@@ -235,7 +221,7 @@ However, there is a ‘but’. Goats have sensitive stomachs and pineapples are 
 
 Too much acid could upset their tummies.
 
-That said, it doesn’t mean you should avoid feeding them pineapples completely. A small piece of fresh pineapple as an occasional treat would be fine.
+It doesn’t mean you should avoid feeding them pineapples completely. A small piece of fresh pineapple as an occasional treat would be fine.
 
 Also remember that like all treats, these shouldn’t make up more than 10% of your goat’s diet. The rest should consist mainly of hay or pasture grasses which provide necessary fiber for healthy digestion.
 

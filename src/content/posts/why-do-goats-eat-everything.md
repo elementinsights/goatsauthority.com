@@ -131,7 +131,7 @@ Another thing to avoid feeding your goat is anything that is high in fat. Goats 
 
 Finally, you should also avoid feeding your goat any moldy or spoiled food, as this can cause digestive upset. If you're unsure whether something is safe to feed your goat, it's always best to err on the side of caution and consult with a veterinarian.
 
-## Our Take
+## 
 
 Goats are interesting creatures with a reputation for eating just about anything. While they can eat a wide variety of items, there are still some things that they should avoid.
 

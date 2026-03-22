@@ -66,7 +66,7 @@ While these diseases may sound scary, they can be prevented with proper hygiene 
 
 Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool.
 
-That said, goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
+Goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
 
 While most of these diseases are relatively rare, they can still be dangerous, especially to young children or people with weakened immune systems.
 

@@ -120,7 +120,7 @@ Grain can be fed in the form of pellets, cracked corn, or whole kernels. Feeding
 
 Feeding pellets are more expensive but goats can eat them faster and there's less wasted feed.
 
-Cracked corn is somewhere in between the two in terms of price and feeding time. Ultimately, it's up to the individual goat owner to decide which form of grain to feed their goats.
+Cracked corn is somewhere in between the two in terms of price and feeding time. It's up to the individual goat owner to decide which form of grain to feed their goats.
 
 ## What is corn and what are the types of corn?
 

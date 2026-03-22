@@ -41,118 +41,60 @@ faq:
   - question: "What are the symptoms of transmittal diseases in goats?"
     answer: "The symptoms of transmittal diseases in goats can vary depending on the disease."
 ---
-There is always something to learn when you raise goats. But before you bring home your new goats, it's important to do your research.
+If you raise pigs and goats on the same farm, or even on neighboring properties, disease transmission between the two species is a legitimate concern. Yes, several diseases can spread from swine to goats, and some of them are serious.
 
-One thing you'll want to ask yourself is whether or not any diseases can spread from swine to goats.
-
-we will answer that question and provide you with some more information on diseases that can be transmitted between animals.
+Understanding which diseases cross between these species will help you manage your herd safely and avoid costly losses.
 
 ## Can any diseases spread from swine to goats?
 
-it's important to remember, nevertheless, that not all diseases can be passed from one species to another. For instance, the extremely contagious viral disease foot-and-mouth disease affects animals with cloven hooves like pigs, lambs, and cattle.
+Several diseases can jump from pigs to goats. Foot-and-mouth disease is one of the most significant, and contrary to what some sources claim, goats are absolutely susceptible to it. Both pigs and goats are cloven-hoofed animals, and the FMD virus readily infects both species.
 
-However, goats are immune to this illness.
+Other diseases that can spread between swine and goats include pseudorabies (Aujeszky's disease), salmonellosis, and various internal parasites. Pseudorabies is especially dangerous for goats because while pigs can carry it without showing symptoms, it is almost always fatal in goats.
 
 ## What are some diseases that can be transmitted between animals?
 
-There are a number of diseases that can be transmitted between animals, including both contagious and non-contagious diseases.
+Foot-and-mouth disease causes blisters on the mouth, feet, and teats. Pigs shed enormous amounts of the virus into the air, and goats grazing downwind can become infected without ever having direct contact.
 
-Contagious diseases are those that are passed from one animal to another through direct contact or through the sharing of contaminated food or water.
-
-Non-contagious diseases, on the other hand, are not passed from one animal to another but can still affect multiple animals within a population.
-
-Some examples of contagious diseases that can be transmitted between animals include rabies, distemper, and parvovirus.
-
-Non-contagious diseases that can affect animals include heartworm, Lyme disease, and cancer. In some cases, such as rabies, certain animals may be vaccinated against the disease in order to help prevent its spread.
-
-Then again, there's no guarantee that a vaccinated animal will not contract the disease, as vaccination does not provide 100% protection.
-
-Therefore, it's important for pet owners to be aware of the risks of both contagious and non-contagious diseases and to take steps to protect their pets accordingly.
+Salmonellosis spreads through contaminated feces and shared water sources. Pigs are frequent carriers of salmonella bacteria and can contaminate pastures, feed troughs, and water supplies that goats later use. Internal parasites like stomach worms and coccidia can also cross between the two species when they share the same ground.
 
 ## How do you protect your goats from these diseases?
 
-Goats are susceptible to a number of diseases, many of which can be fatal. For example, goats can contract chlamydia, salmonella, and E.
+The single most effective step is keeping your pigs and goats in separate housing and on separate pastures. Do not share feeders, water troughs, or equipment between the two species.
 
-coli from contact with contaminated water or food.
-
-They can also catch parasites such as worms and coccidia from coming into contact with infected feces.
-
-To protect your goats from these diseases, you need to provide them with clean water and food and to keep their living area clean and free of manure.
-
-Similarly, you should have your goats checked by a goat expert regularly and quarantine any new goats that you introduce to your herd.
-
-By taking these precautions, you can help keep your goats healthy and disease-free.
+Designate separate boots and clothing for working with each animal group. Pathogens travel easily on shoes and hands, so washing up between barn visits is not just being fussy. It is basic biosecurity that can prevent a disease outbreak in your herd.
 
 ## What are the symptoms of transmittal diseases in goats?
 
-The symptoms of transmittal diseases in goats can vary depending on the disease.
+Foot-and-mouth disease in goats shows up as drooling, lameness, and blisters on the lips, gums, and hooves. Affected goats often stop eating because their mouths are too sore.
 
-For example, sheep and goats infected with Q fever usually do not show any signs of illness. But, some animals may display symptoms such as poor appetite, weight loss, lethargy, and diarrhea.
-
-Goats infected with chlamydia may have a runny nose, watery eyes, and difficulty breathing. They may also experience weight loss, poor appetite, and diarrhea.
-
-Salmonella-infected goats may display symptoms such as fever, lethargy, diarrhea, and vomiting. In some cases, the infection can lead to death.
-
-E. Coli-infected goats may have bloody diarrhea, dehydration, and difficulty breathing.
-
-They may also go into shock and die.
-
-Finally, goats infected with worms may have a pot-bellied appearance, poor appetite, weight loss, and diarrhea. In severe cases, the worms can cause blockages in the intestines, which can be fatal.
-
-On top of that these symptoms, all sick animals may display general signs of illness such as a decrease in energy levels, listlessness, and a lack of interest in food and water. If you notice any of these symptoms in your goats, you need to contact a veterinarian immediately.
-
-Left untreated, transmittal diseases can be fatal for goats. Therefore, you need to be aware of the symptoms and to take steps to prevent your goats from coming into contact with diseased animals.
+Pseudorabies causes intense itching, fever, lack of coordination, and death within 48 hours in most cases. There is no treatment once symptoms appear. Salmonellosis shows up as watery diarrhea, fever, depression, and dehydration. Young kids and stressed animals are hit hardest.
 
 ## Can transmittal disease kill a goat?
 
-Transmittal diseases can kill a goat. For example, chlamydia, salmonella, and E.
+Yes, several of these diseases can be fatal. Pseudorabies is almost always deadly in goats, with death typically occurring within a day or two of the first symptoms.
 
-coli are all potentially fatal diseases that can be transmitted from animals to goats. Worms can also cause serious health problems in goats, including weight loss, diarrhea, and even death.
-
-Therefore, you need to take steps to protect your goats from these diseases, such as providing them with clean water and food and keeping their living area clean. If you suspect that your goat has a transmittal disease, you must seek veterinarian care immediately.
+Foot-and-mouth disease has a lower mortality rate in adult goats but can kill young kids. Severe salmonella infections can also be fatal, particularly in kids under three months old or in does that are already stressed from kidding or poor nutrition.
 
 ## How can you treat them if they're diagnosed in your herd?
 
-If you suspect that your goat has a transmittal disease, you must seek veterinarian care immediately.
+Treatment options depend on the disease. Salmonellosis can be treated with supportive care including fluids, electrolytes, and sometimes antibiotics under veterinary guidance.
 
-A veterinarian will be able to diagnose the disease and recommend the best course of treatment.
-
-For example, antibiotics may be prescribed for goats with chlamydia or salmonella. In some cases, surgery may be necessary to remove worms from the intestines.
-
-With prompt and proper treatment, most goats with transmittal diseases can recover. Still, some diseases, such as Q fever, do not have a cure and may be fatal.
-
-Therefore, you need to take steps to prevent these diseases by providing your goats with clean water and food and by quarantining new goats that you introduce to your herd.
+Foot-and-mouth disease has no specific treatment. Affected animals receive supportive care while the virus runs its course, and the focus shifts to preventing further spread. Pseudorabies has no treatment at all, which is why prevention through separation is so important.
 
 ## Are there any vaccinations I can give my goats?
 
-There are no currently available vaccines for Q fever, chlamydia, or E. Coli.
+Vaccines exist for foot-and-mouth disease in countries where the disease is present, though availability varies by region. In the United States, FMD vaccines are not routinely available because the country is considered FMD-free.
 
-However, there's a vaccine available for salmonella. This vaccine is not 100% effective, but it can help reduce the severity of symptoms and the risk of death in infected animals.
-
-In addition, there are vaccines available for some of the parasites that can infect goats, such as coccidia and worms. These vaccines can help prevent your goats from becoming infected in the first place.
-
-Talk to a veterinarian about which vaccines are right for your goats and make sure to follow their recommended vaccination schedule.
+There is no approved vaccine for pseudorabies in goats. The best protection is keeping your goats away from pigs that might carry the virus. For salmonella and parasites, good management practices do more than any vaccine can.
 
 ## What are some other ways I can protect my goats?
 
-In addition to vaccinations, there are other steps you can take to protect your goats from diseases. For example, you should provide them with clean water and food and keep their living area clean.
+Quarantine any new animals for at least two to three weeks before introducing them to your herd. This goes for both new goats and new pigs on the property.
 
-You should also quarantine any new goats that you introduce to your herd. By taking these precautions, you can help keep your goats healthy and free from disease.
+Run separate manure management for each species. Composting manure at high temperatures kills most pathogens, but mixing pig and goat waste before composting raises the risk. Keep your vet informed about which species you keep so they can advise on regional disease risks.
 
-### Keeping Swine and Goats on the Same Farm Safely
+## Final Thoughts
 
-If you raise both pigs and goats, there are some practical steps you can take to reduce cross-species disease transmission. The most important rule is to keep their living areas separate. Do not share feeders, water troughs, or bedding between the two species.
+Diseases absolutely can spread from swine to goats, and a few of them can kill your goats with little warning. Foot-and-mouth disease, pseudorabies, salmonellosis, and shared parasites are all real risks when these species live in close quarters.
 
-Designate separate boots and clothing for working with each animal group. Bacteria and parasites can hitch a ride on your shoes and travel from the pig pen to the goat barn in seconds.
-
-Run separate manure management systems if possible. Composting manure at high temperatures for several weeks kills most pathogens, but mixing pig and goat waste before composting increases the odds of spreading something harmful.
-
-## Summary
-
-Diseases can spread from swine to goats. Swine can carry and transmit a variety of diseases to goats, some of which are potentially fatal.
-
-Therefore, it's important to take steps to protect your goats from these diseases, such as providing them with clean water and food and keeping their living area clean. If you suspect that your goat has a transmittal disease, you must seek veterinary care immediately.
-
-Overall, the best way to protect your goats from disease is to practice good biosecurity measures. This includes quarantining any new goats that you introduce to your herd, providing them with clean water and food, and keeping their living area clean.
-
-By taking these precautions, you can help keep your goats healthy and free from disease.
+The best prevention is simple separation. Keep pigs and goats in different areas, use separate equipment, and practice good biosecurity between the two groups. A little extra effort in management goes a long way toward keeping your goat herd healthy.

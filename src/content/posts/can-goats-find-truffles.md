@@ -61,7 +61,7 @@ As a matter of fact, their sense of smell is so sensitive that they can often de
 
 Pigs are especially well-suited to the task, as they have a similar sense of smell to goats and are also relatively easy to control.
 
-However, dogs are generally considered to be the best truffle hunters, as they can be more easily taught specific commands and are less likely to eat the truffles they find. goats and dogs can be friends, so you could even pair them for truffle hunting.
+However, dogs are generally considered to be the best truffle hunters, as they can be more easily taught specific commands and are less likely to eat the truffles they find. Goats and dogs can be friends, so you could even pair them for truffle hunting.
 
 ## Tips for training your goat to find truffles
 

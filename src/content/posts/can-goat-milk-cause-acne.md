@@ -48,7 +48,7 @@ The short answer is that goat milk is actually less likely to cause acne than co
 
 For the majority of people, goat milk does not cause acne. In fact, many people who break out from cow milk find that switching to goat milk clears up their skin.
 
-That said, some individuals are sensitive to all dairy, and goat milk is no exception. If you're one of those people, even goat milk could trigger breakouts.
+Some individuals are sensitive to all dairy, and goat milk is no exception. If you're one of those people, even goat milk could trigger breakouts.
 
 ## What is acne and what are the signs and symptoms of it?
 
@@ -60,7 +60,7 @@ Hormones play a big role in acne, which is why dairy products sometimes get blam
 
 Dairy-related acne comes down to hormones and proteins in the milk. Cow milk contains high levels of A1 casein and IGF-1, both of which have been linked to increased oil production and inflammation in the skin.
 
-Goat milk has several advantages over cow milk when it comes to skin health. It contains mostly A2 casein instead of A1, has smaller fat globules that are easier to digest, and is lower in lactose. These differences mean your body processes it with less inflammation overall.
+Goat milk has several advantages over cow milk has smaller fat globules that are easier to digest, and is lower in lactose. These differences mean your body processes it with less inflammation overall.
 
 The people who still break out from goat milk are usually sensitive to dairy hormones in general. That sensitivity varies widely from person to person, and it doesn't mean goat milk is bad. It just means your body reacts to something present in all mammalian milk.
 
@@ -91,12 +91,10 @@ Sometimes the issue isn't the goat milk itself but how much you're consuming. A 
 
 ## Are there any other milk products that can cause acne?
 
-Cow milk is the biggest culprit when it comes to dairy-related acne. Studies have found a stronger link between cow milk and breakouts than any other dairy product.
-
-Goat milk and sheep milk tend to cause fewer problems because of their protein and fat structure. If you react to cow milk but want to keep dairy in your diet, goat milk is usually the best alternative to try first.
+Cow milk is the biggest culprit goat milk is usually the best alternative to try first.
 
 ## Final Thoughts
 
-Most people do better with goat milk than cow milk when it comes to acne. The smaller fat globules, different protein structure, and lower lactose content all work in its favor.
+Most people do better with goat milk than cow milk different protein structure, and lower lactose content all work in its favor.
 
 But everyone's body is different. If you're breaking out and suspect your goat milk is the cause, do a simple two to three week elimination test. And don't overlook goat milk soap as a skincare tool, because what might not work inside your body could work wonders on the outside.

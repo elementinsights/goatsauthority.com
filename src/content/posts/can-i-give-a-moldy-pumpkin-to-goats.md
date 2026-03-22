@@ -44,7 +44,7 @@ faq:
 
 It is difficult to determine whether or not you can give your goats a moldy pumpkin. And if so, what are the things you should consider?
 
-We will answer those questions in this article and provide you with some tips on how to keep your goats healthy and well-nourished.
+We will answer those questions and provide you with some tips on how to keep your goats healthy and well-nourished.
 
 ## Can I give a moldy pumpkin to goats?
 
@@ -70,7 +70,7 @@ Pumpkins can also be used as bedding for goats. Pumpkin leaves and pumpkin seeds
 
 Pumpkin seeds can also be used as a natural dewormer for goats.
 
-Overall, pumpkins are a good source of nutrition for goats and can provide many benefits for them.
+Pumpkins are a good source of nutrition for goats and can provide many benefits for them.
 
 ## What are some things to consider when giving goats pumpkins?
 
@@ -84,7 +84,7 @@ Third, you should remove the seeds from the pumpkin before giving them to the go
 
 Fourth, you should only give goats a small amount of pumpkin at first. You can gradually increase the amount of pumpkin you give them as they get used to it.
 
-In general, there are a few things you should consider when giving goats pumpkins. Make sure the pumpkin is fresh, cut it into small pieces, and remove the seeds before giving it to the goats.
+There are a few things you should consider when giving goats pumpkins. Make sure the pumpkin is fresh, cut it into small pieces, and remove the seeds before giving it to the goats.
 
 Only give goats a small amount of pumpkin at first and gradually increase the amount as they get used to it.
 
@@ -94,7 +94,7 @@ There is no definitive answer to this question, as there are many different fact
 
 Some experts argue that giving goats leftover pumpkins could be harmful, as the mold contains compounds that might cause nausea or liver damage. However, other experts believe that these concerns are overblown and largely unfounded.
 
-Ultimately, whether or not you decide to give your goats moldy pumpkins will likely depend on a variety of individual factors, such as the type and quantity of mold present on the pumpkins, as well as the general health of your goats.
+Whether or not you decide to give your goats moldy pumpkins will likely depend on a variety of individual factors, such as the type and quantity of mold present on the pumpkins, as well as the general health of your goats.
 
 Before making any decision about this issue, it is important to consult both scientific research and expert opinions in order to make sure that you make an informed decision that is best for your herd.
 
@@ -108,7 +108,7 @@ Finally, it is important to always provide your goats with plenty of space and o
 
 ## What are the treatment options for goats who have eaten moldy pumpkins?
 
-In general, there are a few treatment options that can be pursued when goats consume moldy pumpkins. The first step is to attempt to eliminate the source of the contamination, which often involves removing any rotting or damaged pumpkins from the area.
+There are a few treatment options that can be pursued when goats consume moldy pumpkins. The first step is to attempt to eliminate the source of the contamination, which often involves removing any rotting or damaged pumpkins from the area.
 
 It may be helpful to clean out and chlorinate any food buckets or feeders that were in contact with the moldy pumpkin. Once these steps have been taken, supportive care can be provided to help minimize any possible negative health effects on the goats.
 
@@ -126,7 +126,7 @@ Second, you should feed them a balanced diet that includes hay, fresh vegetables
 
 Fourth, you should give them regular check-ups and vaccinations.
 
-In general, there are a few things you can do to keep your goats healthy and well-nourished. Make sure they have access to fresh, clean water, feed them a balanced diet, provide them with plenty of space to roam and exercise, and give them regular check-ups and vaccinations.
+There are a few things you can do to keep your goats healthy and well-nourished. Make sure they have access to fresh, clean water, feed them a balanced diet, provide them with plenty of space to roam and exercise, and give them regular check-ups and vaccinations.
 
 ## Are there any other alternative foods I can give my goats?
 

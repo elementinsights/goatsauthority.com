@@ -108,7 +108,7 @@ There are several ways to test for Johne's disease in goats. The most common met
 
 This allows the bacteria to grow, allowing goat experts to confirm the presence of MAP. Blood tests are also available, though they are not as accurate as fecal cultures.
 
-However, they can be useful in cases where a goat is too young or sick to produce a feces sample. Ultimately, the best way to confirm a diagnosis of Johne's disease is through a combination of both fecal and blood testing.
+However, they can be useful in cases where a goat is too young or sick to produce a feces sample. The best way to confirm a diagnosis of Johne's disease is through a combination of both fecal and blood testing.
 
 With these tools, a veterinarian can accurately diagnose Johne's disease and begin appropriate treatment as soon as possible.
 

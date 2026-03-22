@@ -88,7 +88,7 @@ They love to explore their surroundings and will often climb on things that they
 
 Knowing the difference between wether goats and billy goats is important for a number of reasons.
 
-First, as we mentioned earlier, wether goats are more likely to be aggressive and escape from their pens. If you're planning on keeping goats as pets or farm animals, it's important to be aware of this and take steps to prevent it from happening.
+First, earlier, wether goats are more likely to be aggressive and escape from their pens. If you're planning on keeping goats as pets or farm animals, it's important to be aware of this and take steps to prevent it from happening.
 
 Second, wether goats produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
 

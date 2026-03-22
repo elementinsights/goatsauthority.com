@@ -82,7 +82,7 @@ Symptoms may vary from person to person, but some of the most common include pai
 
 In severe cases, rickets can also cause softening of the skull and reduced tooth mineralization.
 
-Ultimately, any persistent symptoms that suggest rickets should be evaluated by a medical professional to determine the appropriate course of treatment.
+Any persistent symptoms that suggest rickets should be evaluated by a medical professional to determine the appropriate course of treatment.
 
 While there is no one-size-fits-all approach to treating this condition, interventions may include supplemental vitamin D or osteoporosis medications in more severe cases.
 
@@ -94,7 +94,7 @@ Unfortunately, there is no specific cure for rickets in old goats; treatment ten
 
 This can involve administering supplements that contain key nutrients, such as vitamin D, calcium, and phosphorus. In addition, goat owners may also need to make adjustments to diet and exercise plans to encourage better bone health.
 
-Ultimately, though there is no single answer when it comes to treating rickets in old goats, there are many different options for supporting their overall well-being and helping them to manage this condition effectively.
+Though there is no single answer there are many different options for supporting their overall well-being and helping them to manage this condition effectively.
 
 ## Can old goats recover from rickets?
 
@@ -148,6 +148,6 @@ So, though, it's important to speak with a veterinarian about what might work be
 
 ## Quick Recap
 
-Overall, rickets is a serious condition that can have a profound impact on an old goat's health. However, it is important to remember that there are many different ways to treat and prevent this disease.
+Rickets is a serious condition that can have a profound impact on an old goat's health. However, it is important to remember that there are many different ways to treat and prevent this disease.
 
 By working closely with a veterinarian and providing plenty of love and care, you can help your old goat live a long and healthy life despite this condition.

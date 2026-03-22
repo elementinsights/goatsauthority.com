@@ -152,4 +152,4 @@ However, this may vary depending on the type of goat you have and your climate. 
 
 Goat juice is not widely available in stores, but it can be purchased online or at specialty food stores. Making goat juice at home is also an option, though it does require some specialized equipment.
 
-Overall, whether or not you choose to give your goats juice is up to you. However, it's important to be aware of the potential risks and benefits before making a decision.
+Whether or not you choose to give your goats juice is up to you. However, it's important to be aware of the potential risks and benefits before making a decision.

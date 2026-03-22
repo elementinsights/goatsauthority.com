@@ -94,7 +94,7 @@ These small goats are known for their high milk production, and they can maintai
 
 This is why Nigerian Dwarf goats make excellent pets for people who want to enjoy fresh goat's milk without the hassle of breeding and caring for kids.
 
-African Pygmy goats are another breed of goat that can sometimes produce milk without being pregnant. That said, they don't produce as much milk as Nigerian Dwarfs.
+African Pygmy goats are another breed of goat that can sometimes produce milk without being pregnant. They don't produce as much milk as Nigerian Dwarfs.
 
 Therefore, if you're looking for a goat that can provide you with a steady supply of milk, the Nigerian Dwarf is the best choice.
 

@@ -42,7 +42,7 @@ faq:
 
 it's difficult to determine whether or not goats and cows can graze in the same pasture without fighting because there are many variables to consider, such as the size of the pasture, the number of goats and cows, and the personalities of the individual animals.
 
-Let's break it down.we will answer all of your questions so that you can make an informed decision about whether or not it's safe to allow goats and cows to graze together.
+we will answer all of your questions so that you can make an informed decision about whether or not it's safe to allow goats and cows to graze together.
 
 ## Can goats and cows graze in the same field at the same time without fighting?
 
@@ -124,7 +124,7 @@ Farmers who practice rotational mixed grazing often report needing to deworm the
 
 ## What to Remember
 
-Overall, there are a number of benefits to grazing goats and cows together. Not only can this help to improve the quality of the land, but it can also lead to higher-quality milk and fewer problems with herd dynamics.
+There are a number of benefits to grazing goats and cows together. Not only can this help to improve the quality of the land, but it can also lead to higher-quality milk and fewer problems with herd dynamics.
 
 Of course, there are also some important differences between these two animals that you should be aware of, such as their size, diet, and temperament.
 

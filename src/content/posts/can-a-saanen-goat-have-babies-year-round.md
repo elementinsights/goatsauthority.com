@@ -59,7 +59,7 @@ Saanen goats are used primarily for milk production, but they can also be used f
 
 In terms of meat production, Saanen goats are not as popular as other breeds, but they can still provide a good source of lean protein.
 
-Finally, in terms of fiber production, Saanen goats produce a medium-quality fiber that is often used in making yarn and other textile products. In general, Saanen goats are a versatile breed that can be used for a variety of purposes.
+Finally, in terms of fiber production, Saanen goats produce a medium-quality fiber that is often used in making yarn and other textile products. Saanen goats are a versatile breed that can be used for a variety of purposes.
 
 Saanen goats are a hardy breed that is well-adapted to a variety of climates. They originally come from the Swiss Alps, which is a cold, mountainous region.
 
@@ -67,7 +67,7 @@ This means Saanen goats are very tolerant of cold weather and can even thrive in
 
 In addition, Saanen goats are also very tolerant of hot weather and can do well in more temperate regions.
 
-Overall, Saanen goats have a wide range of climate tolerances, which makes them one of the most versatile goat breeds in the world.
+Saanen goats have a wide range of climate tolerances, which makes them one of the most versatile goat breeds in the world.
 
 Saanen goats are known for their large size and milk production. On average, adult Saanen goats weigh between 150-200 pounds and stand about 3 feet tall at the shoulder.
 
@@ -77,7 +77,7 @@ This high level of productivity makes Saanen goats an ideal choice for dairy far
 
 In addition to their high milk production, Saanen goats are also known for their calm temperament and easy-going nature. This makes them well-suited for life on a farm or ranch, as they are generally easy to handle and care for.
 
-Overall, Saanen goats are a versatile and valuable breed that has many uses on both small farms and large dairy operations.
+Saanen goats are a versatile and valuable breed that has many uses on both small farms and large dairy operations.
 
 ## How to care for your Saanen goat's health and wellbeing?
 

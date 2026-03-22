@@ -88,7 +88,7 @@ If you want to give your baby goat a treat, there are other types of food that a
 
 A sick goat's diet will depend on the type of illness they are suffering from. If a goat is sick, it's best to consult with a veterinarian before giving them any food, including raisins.
 
-In general, sick goats should not eat raisins. Raisins are high in sugar and can make a goat's illness worse.
+Sick goats should not eat raisins. Raisins are high in sugar and can make a goat's illness worse.
 
 Raisins can be a choking hazard for sick goats.
 
@@ -116,7 +116,7 @@ Fiber also helps to keep the digestive system clean and free of toxins. Raisins 
 
 most goat owners recommend that goats eat a handful of raisins each day. However, overfeeding raisins can cause gas and bloat, so it's important to start with a small amount and increase gradually as needed.
 
-Overall, raisins offer many benefits for goats and make a healthy addition to their diet.
+Raisins offer many benefits for goats and make a healthy addition to their diet.
 
 ## Risks associated with feeding raisins to goats
 
@@ -138,7 +138,7 @@ Raisins are a fairly healthy treat for goats. Goats can eat up to 1/4 cup of rai
 
 Of course, if a goat eats more than that, it may start to experience gastrointestinal issues like bloating and diarrhea. Too many raisins can also lead to malnutrition, so it's important to make sure that your goat has a well-balanced diet.
 
-In general, raisins should only be given as an occasional treat, not as a regular part of your goat's diet.
+Raisins should only be given as an occasional treat, not as a regular part of your goat's diet.
 
 ### How to Safely Introduce Raisins to Your Goat
 

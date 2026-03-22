@@ -183,7 +183,7 @@ So yes, not only can your goats munch on those tasty seeds but they’ll happily
 
 ## Storage and Pesticide Considerations for Sunflower Seeds
 
-When it comes to feeding goats sunflower seeds, there are a few things you need to keep in mind. The first is storage.
+There are a few things you need to keep in mind. The first is storage.
 
 You should store the seeds in a cool and dry place. This helps prevent mold growth which can be harmful if ingested by your goat.
 

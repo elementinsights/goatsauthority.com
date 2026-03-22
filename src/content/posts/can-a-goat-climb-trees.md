@@ -44,7 +44,7 @@ faq:
 
 Can a goat climb trees? It's a valid question, considering that these animals are known for their ability to scale steep mountain slopes and reach heights that would make most humans queasy.
 
-So, it's no surprise that some people wonder if goats can climb trees. We'll look at why goats climb trees in this article, as well as whether they're genuinely able to do it or not.
+So, it's no surprise that some people wonder if goats can climb trees. We'll look at why goats climb trees as well as whether they're genuinely able to do it or not.
 
 ## Can a goat climb trees?
 
@@ -62,7 +62,7 @@ No, not all goats climb trees. In fact, most goats avoid climbing altogether.
 
 It's generally only the young ones who are curious enough to explore their surroundings in this way.
 
-That said, there are some breeds of goats that are more likely to climb than others. Pygmy goats and mountain goats, for instance, are known for their impressive climbing abilities.
+There are some breeds of goats that are more likely to climb than others. Pygmy goats and mountain goats, for instance, are known for their impressive climbing abilities.
 
 So, if you're wondering whether a goat can climb a tree, it really depends on the type of goat in question.
 

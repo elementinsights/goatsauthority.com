@@ -42,7 +42,7 @@ Making sure you and your baby are healthy during pregnancy is important. One con
 
 Goat milk has become a popular alternative to cow’s milk, but does it offer any additional benefits for pregnant women? And if so, can you drink goat milk while pregnant?
 
-Let's break it down.we will answer those questions and provide you with additional information about goat milk and its potential benefits. We will also discuss other factors that can affect your health while pregnant.
+we will answer those questions and provide you with additional information about goat milk and its potential benefits. We will also discuss other factors that can affect your health while pregnant.
 
 ## Can you drink goat milk while pregnant?
 
@@ -50,7 +50,7 @@ Plus, goat milk may contain higher levels of certain vitamins and minerals that 
 
 It’s important to note, however, that goat milk is not a replacement for prenatal vitamins or other supplements recommended by your doctor. You should always discuss any dietary changes with your healthcare provider, including the addition of goat milk.
 
-In general, it is recommended that pregnant women avoid raw or unpasteurized dairy products due to the potential for harmful bacteria. If you choose to consume goat milk during pregnancy, make sure that it’s properly pasteurized.
+It is recommended that pregnant women avoid raw or unpasteurized dairy products due to the potential for harmful bacteria. If you choose to consume goat milk during pregnancy, make sure that it’s properly pasteurized.
 
 Aside from drinking goat milk, there are other ways to get the nutrients you and your growing baby need.
 
@@ -128,9 +128,9 @@ Some women wonder if goat milk can replace their prenatal vitamins. The short an
 
 Think of goat milk as a complement to your prenatal care, not a substitute. It fills in some nutritional gaps and can be easier on your stomach than cow's milk, especially during the first trimester when nausea is at its worst.
 
-## Wrapping Up
+## Final Thoughts
 
-Overall, goat milk can be a great source of essential nutrients while pregnant. Make sure to discuss any dietary changes with your doctor before consuming goat milk, and always be sure to choose pasteurized varieties.
+Goat milk can be a great source of essential nutrients while pregnant. Make sure to discuss any dietary changes with your doctor before consuming goat milk, and always be sure to choose pasteurized varieties.
 
 Similarly, eating a balanced diet and staying hydrated is important for good health during pregnancy.
 

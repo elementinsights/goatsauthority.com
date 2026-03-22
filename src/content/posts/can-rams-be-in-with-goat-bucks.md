@@ -68,7 +68,7 @@ Grouping these animals together can help to reduce aggression and injuries. Both
 
 Finally, keeping rams and goat bucks together helps them to stay warm during the winter months by generating body heat through their many layers of fur.
 
-Overall, maintaining a tup enclosure is beneficial for rams, goat bucks, and the herd as a whole.
+Maintaining a tup enclosure is beneficial for rams, goat bucks, and the herd as a whole.
 
 ## What are the risks of keeping rams and goat bucks together?
 
@@ -82,7 +82,7 @@ Following that, rams and goat bucks have different nutritional needs that may no
 
 In particular, ram cuds tend to require higher levels of copper, which is toxic for most types of goats. Keeping these two animals together may increase their exposure to parasites like ticks and lice.
 
-Ultimately, the best solution is to keep them separate and provide individualized housing and feeding regimes for each species. This will help minimize the risks associated with keeping rams and goat bucks together.
+The best solution is to keep them separate and provide individualized housing and feeding regimes for each species. This will help minimize the risks associated with keeping rams and goat bucks together.
 
 ## How to prevent fighting between rams and goat bucks?
 
@@ -108,7 +108,7 @@ Another approach is to prescribe rest and immobilization in order to reduce any 
 
 Whatever treatment option you choose, it is important to work closely with your veterinarian in order to make sure a full recovery.
 
-Ultimately, your goal should be to get these combative animals back on their feet and ready for battle as quickly as possible.
+Your goal should be to get these combative animals back on their feet and ready for battle as quickly as possible.
 
 ## Tips for keeping rams and goat bucks together
 
@@ -126,17 +126,17 @@ There is no definitive answer to this question, as the needs of rams and goat bu
 
 However, most experts agree that both animals need plenty of space to move around and feel comfortable.
 
-In general, it is recommended that rams have access to at least 40-50 square feet of living space, and that goat bucks have access to at least 30-40 square feet.
+It is recommended that rams have access to at least 40-50 square feet of living space, and that goat bucks have access to at least 30-40 square feet.
 
 This allows them to engage in normal social behaviors such as foraging for food or interacting with other herd members without feeling crowded or stressed.
 
-Overall, it is important to remember that rams and goat bucks are happiest when they are able to live in an environment that feels natural and allows them to thrive.
+It is important to remember that rams and goat bucks are happiest when they are able to live in an environment that feels natural and allows them to thrive.
 
 ## What kind of housing do rams and goat bucks need?
 
 There is no one-size-fits-all answer to this question, as the housing needs of rams and goat bucks can vary depending on factors such as climate, geography, and availability of resources.
 
-In general, however, both animals need access to shelter that protects them from the elements and provides a comfortable place to rest.
+However, both animals need access to shelter that protects them from the elements and provides a comfortable place to rest.
 
 Rams and goat bucks also need access to plenty of fresh water and adequate space to move around and exercise.
 

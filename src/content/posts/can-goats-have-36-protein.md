@@ -82,9 +82,7 @@ For example, growing kids or pregnant does will need more energy than adult goat
 
 ## How many protein blocks should goats eat?
 
-Goats need to eat a variety of different plants in order to get all the nutrients they need. However, there are some basic guidelines that you can follow when it comes to feeding goats.
-
-For example, adult goats should consume about 2-3% of their body weight in dry food per day. This includes both hay and grain.
+Goats need to eat a variety of different plants in order to get all the nutrients they need. However, there are some basic guidelines that you can follow adult goats should consume about 2-3% of their body weight in dry food per day. This includes both hay and grain.
 
 As for protein, goats need around 14-18% protein in their diet. This can be provided by things like alfalfa hay, soybeans, or even cottonseeds.
 

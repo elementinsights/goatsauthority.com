@@ -43,7 +43,7 @@ faq:
 ---
 Have you wondered if spinach is good for goats? What are the benefits?
 
-Are there any risks? We will answer all that questions in this article, along with some frequently asked questions about feeding goats spinach.
+Are there any risks? We will answer all that questions along with some frequently asked questions about feeding goats spinach.
 
 ## Can goats eat spinach?
 
@@ -75,7 +75,7 @@ Baby goats are still developing and their stomachs are very sensitive. Because o
 
 Spinach is a healthy leafy green that is packed with vitamins and minerals. It can be a great addition to a baby goat's diet, but it should be introduced slowly to avoid upsetting their stomach.
 
-In general, baby goats should only be given a few leaves of spinach at a time mixed in with their regular food. If they seem to enjoy it and have no adverse reaction, then the amount can be increased gradually over time.
+Baby goats should only be given a few leaves of spinach at a time mixed in with their regular food. If they seem to enjoy it and have no adverse reaction, then the amount can be increased gradually over time.
 
 ## Can you feed spinach to a sick goat?
 

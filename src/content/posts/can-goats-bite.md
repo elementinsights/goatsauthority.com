@@ -135,7 +135,7 @@ This is especially true for young kids. Baby goats will mouth just about everyth
 
 Goats do not have upper front teeth. Instead, they have a hard dental pad on the top and lower incisors on the bottom. This setup is designed for ripping and grinding plant material, not for piercing skin the way a dog or cat bite would.
 
-That said, their back molars can generate serious pressure. A goat that clamps down on a finger near the back of its jaw can cause bruising or even break skin. Bucks during rut season are the most likely to bite hard enough to cause real injury.
+Their back molars can generate serious pressure. A goat that clamps down on a finger near the back of its jaw can cause bruising or even break skin. Bucks during rut season are the most likely to bite hard enough to cause real injury.
 
 ### When Biting Becomes a Behavioral Problem
 

@@ -73,7 +73,7 @@ Goats can eat mango, but it’s important to avoid feeding them any that has bee
 
 Mangoes mixed with sugar may also cause digestive issues in your goat due to the high sugar content. It is always best to give them fresh and ripe mangoes without any additives or preservatives.
 
-Remember this rule: when it comes to your goat’s diet, natural is better.
+Remember this rule: natural is better.
 
 ###### Are Enjoyed by People of All Ages, but Did You Know That These Sweet and Nutritious Fruits Can Also Be Fed to Goats?
 

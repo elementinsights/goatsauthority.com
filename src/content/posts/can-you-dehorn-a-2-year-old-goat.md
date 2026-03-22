@@ -62,7 +62,7 @@ They can also use their horns to defend themselves, which can result in injuries
 
 Horns can be used to damage property, so dehorned goats are less likely to cause collateral damage. Finally, many people simply prefer the look of dehorned goats, as it gives them a more traditional appearance.
 
-Dehorning is a fairly simple and low-risk procedure, so there are very few downsides to doing it. Overall, it is generally considered to be beneficial for both goats and their owners.
+Dehorning is a fairly simple and low-risk procedure, so there are very few downsides to doing it. It is generally considered to be beneficial for both goats and their owners.
 
 ## Are there any risks associated with dehorning a 2 year old goat?
 
@@ -116,9 +116,7 @@ First and foremost, is the safety of your animal. Dehorning can be a stressful a
 
 You'll also need to consider the cost of dehorning, as well as the potential risks associated with the procedure.
 
-Last thing to note: you'll need to decide whether or not dehorning is right for your particular goat. Each animal is unique, and there's no one-size-fits-all answer when it comes to deciding whether or not to dehorn.
-
-At the same time, by taking the time to weigh all of the factors involved, you can make an informed decision that's best for both you and your goat.
+Last thing to note: you'll need to decide whether or not dehorning is right for your particular goat. Each animal is unique, and there's no one-size-fits-all answer by taking the time to weigh all of the factors involved, you can make an informed decision that's best for both you and your goat.
 
 ## Are there any other options besides dehorning a 2 year old goat?
 
@@ -148,8 +146,8 @@ A two-year-old goat has thick, fully developed horns with a blood supply running
 
 Planning ahead makes all the difference. Talk to your vet or breeder before the kids are born so you have a disbudding plan in place from day one.
 
-## Wrapping Up
+## Final Thoughts
 
-Overall, dehorning a 2 year old goat is a decision that should be made carefully. There are a number of factors to consider, and there is no one-size-fits-all answer.
+Dehorning a 2 year old goat is a decision that should be made carefully. There are a number of factors to consider, and there is no one-size-fits-all answer.
 
 But, by taking the time to weigh all of the pros and cons, you can make an informed decision that's best for both you and your goat.

@@ -49,7 +49,7 @@ Many people are surprised to learn that goats will eat just about anything. If y
 
 And if so, are plums good for them?
 
-We will address these questions and more in this article and provide everything you need to know about goats and plums.
+We will address these questions and more and provide everything you need to know about goats and plums.
 
 ## Can goats eat plums?
 
@@ -63,7 +63,7 @@ Goats can eat plum leaves. In fact, they are a good source of nutrition for goat
 
 Plum leaves contain vitamins A and C, as well as minerals like calcium and phosphorus.
 
-Goats also enjoy the taste of plum leaves. That said, there are a few things to keep in mind when feeding plum leaves to goats.
+Goats also enjoy the taste of plum leaves. There are a few things to keep in mind when feeding plum leaves to goats.
 
 First, make sure that the leaves are fresh and free from pesticides. Second, only give a small number of leaves to goats at first, since they may not be used to eating them.
 
@@ -73,7 +73,7 @@ Finally, monitor goats closely when they are eating plum leaves, to make sure th
 
 Though potential health hazards are often at the forefront of pet owners' minds, you need to consider what foods are safe for animals to consume before allowing them access to them.
 
-This is particularly important when it comes to foreign objects, like plum seeds. Ingesting these seeds can pose a serious threat to goats, as they can get caught in the animal's digestive system and cause blockages.
+This is particularly important like plum seeds. Ingesting these seeds can pose a serious threat to goats, as they can get caught in the animal's digestive system and cause blockages.
 
 In addition, the seeds contain a compound called amygdalin, which releases cyanide when metabolized by the body. Though goats are able to metabolize small amounts of cyanide, consuming too many plum seeds can lead to poisoning.
 
@@ -105,7 +105,7 @@ Baby goats are generally able to eat plums and other fruits without any problems
 
 Similarly, baby goats should always have access to fresh water. Too much sugar can cause diarrhea.
 
-Therefore, you must monitor how many plums a baby goat eats in a day. Overall, plums can be a healthy and delicious treat for baby goats.
+Therefore, you must monitor how many plums a baby goat eats in a day. Plums can be a healthy and delicious treat for baby goats.
 
 ## Can a sick goat eat plums?
 

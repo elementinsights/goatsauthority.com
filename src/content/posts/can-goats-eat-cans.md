@@ -137,7 +137,7 @@ But is this really true?
 
 **In reality, while goats are known for their adventurous eating habits and curiosity towards new things in their environment, they cannot digest metal objects like cans**.
 
-It’s important then as a responsible goat owner not only knowing what foods are safe but also those which pose risks. In fact, diet plays an essential role in maintaining overall health and longevity of these animals.
+It’s important then as a goat owner not only knowing what foods are safe but also those which pose risks. In fact, diet plays an essential role in maintaining overall health and longevity of these animals.
 
 **A balanced diet for a goat should consist mainly of hay or pasture grasses along with some grains and vegetables**. These provide necessary nutrients without causing harm unlike non-edible materials like cans.
 
@@ -173,4 +173,4 @@ They may chew on them out of curiosity but they don’t swallow the metal.
 
 **So why do we see goats with cans in cartoons?** It might have started because goats explore things using their mouths, much like babies do.
 
-**All in all, while it seems funny and harmless in animations or comics, feeding your goat something like a can isn’t safe** nor advisable.
+**While it seems funny and harmless in animations or comics, feeding your goat something like a can isn’t safe** nor advisable.

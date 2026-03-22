@@ -43,7 +43,7 @@ We all know that goats can eat just about anything. This includes baking soda.
 
 But can this common household item cause urinary issues in goats? If so, what should you do about it?
 
-Let's break it down.we will answer all of your questions about feeding goats baking soda. We'll discuss the benefits and risks of doing so, as well as provide some tips on how to keep your goats healthy and happy.
+we will answer all of your questions about feeding goats baking soda. We'll discuss the benefits and risks of doing so, as well as provide some tips on how to keep your goats healthy and happy.
 
 ## Can baking soda cause urinary issues in goats?
 
@@ -85,7 +85,7 @@ Baking soda, or sodium bicarbonate, is a common household ingredient that can al
 
 Baking soda can help to prevent bloat, a potentially deadly condition that occurs when gas accumulates in the stomach. For these reasons, many goat owners choose to add baking soda to their goats' diets.
 
-However, it's important to use baking soda sparingly, as too much can cause health problems. most goat owners recommend to give goats baking soda once or twice a week at a dose of 1/2 teaspoon per goat per day.
+However, it's important to use baking soda sparingly, as too much can cause health problems. Most goat owners recommend to give goats baking soda once or twice a week at a dose of 1/2 teaspoon per goat per day.
 
 Mixing the baking soda with molasses or another sweetener can help to encourage goats to consume it. It's also important to offer plenty of fresh water so that goats can stay hydrated.
 

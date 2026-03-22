@@ -159,8 +159,8 @@ Apply a thin coat of wound spray once daily to keep flies away and reduce infect
 
 Watch for any swelling, pus, or foul smell around the burn sites. These are signs of infection that need veterinary attention. Most kids bounce back to their normal playful selves within 24 hours, which is always reassuring to see.
 
-## Our Take
+## 
 
-Overall, disbudding can be a simple and cost-effective way to remove horns from goats. However, it is important to understand the risks involved and take steps to minimize them.
+Disbudding can be a simple and cost-effective way to remove horns from goats. However, it is important to understand the risks involved and take steps to minimize them.
 
 Proper treatment and care should be provided after the procedure to make sure successful healing. With these steps, disbudding can be a safe and effective way to manage horn growth in goats.

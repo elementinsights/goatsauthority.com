@@ -117,7 +117,7 @@ People with ulcers or other digestive disorders may want to limit their intake o
 
 Finally, citrus fruits can interact with certain medications, so it's important to check with a healthcare provider before consuming large quantities of these fruits.
 
-In general, while there are a few potential risks associated with eating citrus fruits, these risks are generally minor and can be easily avoided by taking simple precautions.
+While there are a few potential risks associated with eating citrus fruits, these risks are generally minor and can be easily avoided by taking simple precautions.
 
 ## How to prevent risks when eating citrus fruits?
 

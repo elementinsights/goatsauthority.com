@@ -152,7 +152,7 @@ For example, you can mix equal parts baking soda and water to create a DIY retin
 
 You can also try using a banana mask or avocado mask to moisturize and nourish your skin. Both of these fruits are high in vitamins and minerals that can help to reduce the appearance of wrinkles.
 
-## Wrapping Up
+## Final Thoughts
 
 Goat's milk can reduce wrinkles because it's full of nutrients like protein, vitamin A, and fatty acids. These nutrients can help to nourish the skin and reduce the appearance of wrinkles.
 

@@ -71,11 +71,7 @@ What about chicken scratch then? This mixture of cracked corn, wheat and oats se
 
 ##### Reason #1: Different Digestive Systems
 
-Goats and chickens are different, especially when it comes to their digestive systems. Chickens have a crop where they store food before digesting it.
-
-Goats don’t have this feature.
-
-Instead, goats have a complex stomach made for breaking down plant material. It’s called the rumen and it uses bacteria to help with digestion.
+Goats and chickens are different, especially goats have a complex stomach made for breaking down plant material. It’s called the rumen and it uses bacteria to help with digestion.
 
 Chicken feed is designed for birds’ simple stomachs not ruminants like goats. Feeding your goat chicken feed could lead them to miss out on important nutrients or even cause health problems due to improper digestion.
 
@@ -201,7 +197,7 @@ The high carbohydrate content in the grain can upset their stomach and cause blo
 
 It’s important to monitor your goat’s diet closely. If you notice any changes in behavior or physical condition after they’ve eaten grain, contact your vet immediately.
 
-In general, it’s best to stick with hay and fresh vegetables for your goat’s meals.
+It’s best to stick with hay and fresh vegetables for your goat’s meals.
 
 ##### Cause Ruminal Acidosis or Laminitis-Founder
 

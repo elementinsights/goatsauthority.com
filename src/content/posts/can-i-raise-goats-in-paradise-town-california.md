@@ -44,7 +44,7 @@ faq:
 
 You may be wondering if it's possible to raise goats in Paradise Town, California. And if so, what are the things you need to know?
 
-We'll cover everything below.we will answer your questions about raising goats in Paradise Town, California. We will also provide some tips on how to get started.
+we will answer your questions about raising goats in Paradise Town, California. We will also provide some tips on how to get started.
 
 ## Can I raise goats in Paradise Town California?
 
@@ -138,7 +138,7 @@ Also, you should consider adding other comforting elements to their living space
 
 With careful planning and preparation ahead of time, getting started raising goats in Paradise Town can be an enjoyable process that provides many benefits both personally and professionally.
 
-## Our Take
+## 
 
 You can raise goats in Paradise Town, California as long as you take the proper precautions and follow the local regulations. There are a wide variety of breeds to choose from, each with its own set of characteristics.
 

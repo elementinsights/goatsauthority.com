@@ -76,11 +76,11 @@ Goat's milk is a rich source of vitamins, minerals, and enzymes that help to pro
 
 In addition, goat's milk contains higher levels of omega-3 fatty acids than cow's milk. These fatty acids are essential for maintaining a healthy coat and skin.
 
-Overall, goat's milk provides a range of benefits that can improve the health of cats.
+Goat's milk provides a range of benefits that can improve the health of cats.
 
 ## The risks of giving your cat goats milk
 
-There are a few risks associated with giving your cat goats' milk. First, as mentioned above, goat's milk does not contain any animal-based proteins, so it's not an ideal source of nutrition for cats.
+There are a few risks associated with giving your cat goats' milk. First, goat's milk does not contain any animal-based proteins, so it's not an ideal source of nutrition for cats.
 
 And also, goats' milk is higher in lactose than cows' milk, and many cats are unable to digest lactose properly. Consuming too much lactose can lead to gastrointestinal upset, including vomiting and diarrhea.
 
@@ -100,7 +100,7 @@ Nutrient-rich goat milk can be a nutritious addition to your cat's diet. It has 
 
 Compared to cow's milk, goat's milk is also simpler for cats with digestive problems to consume. It's also a good choice for those who are lactose intolerant.
 
-In general, you can give your cat goat's milk as often as you like. Just be sure to start slowly and increase the amount gradually over time to avoid any stomach upset.
+You can give your cat goat's milk as often as you like. Just be sure to start slowly and increase the amount gradually over time to avoid any stomach upset.
 
 ## How much goat's milk should I give my cat?
 
@@ -160,4 +160,4 @@ You should avoid giving your cat any products that are high in lactose, as this 
 
 Cats can drink goat's milk. Goat's milk is a good source of nutrition for cats, and it's easier to digest than cow's milk.
 
-Overall, goat's milk is a healthy option for cats, but it's important to use goat's milk that has been formulated specifically for cats.
+Goat's milk is a healthy option for cats, but it's important to use goat's milk that has been formulated specifically for cats.

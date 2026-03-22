@@ -56,7 +56,7 @@ In addition, you need to be careful about giving too much Nutri Drench to your g
 
 So, you need to give them the right amount and only when they need it.
 
-Overall, Nutri Drench is safe to give to lactating goats. Just make sure that you consider the things we mentioned above and give them to them in moderation.
+Nutri Drench is safe to give to lactating goats. Just make sure that you consider the things we mentioned above and give them to them in moderation.
 
 ## What is Nutri Drench?
 
@@ -108,7 +108,7 @@ With these tips in mind, you can effectively administer Nutri Drench to your lac
 
 When administering Nutri Drench to lactating goats, there are a few important factors to keep in mind.
 
-First, the dosage will depend on the size of the goat, as well as the number of kids that it is nursing. In general, you should try to administer approximately 1mL of Nutri Drench per 10 pounds of body weight every 12 hours.
+First, the dosage will depend on the size of the goat, as well as the number of kids that it is nursing. You should try to administer approximately 1mL of Nutri Drench per 10 pounds of body weight every 12 hours.
 
 However, if you have larger or more aggressive goats, you may need to increase the dose slightly. Similarly, you need to note that many types of goats require different dosages depending on their stage of lactation.
 
@@ -134,7 +134,7 @@ Finally, be sure to follow the recommended dosage for your particular herd. By t
 
 ## Summary
 
-In general, Nutri Drench is a safe and effective way to provide additional nutrients to lactating goats. However, it is important to keep in mind that there are a few risks associated with giving the supplement to goats.
+Nutri Drench is a safe and effective way to provide additional nutrients to lactating goats. However, it is important to keep in mind that there are a few risks associated with giving the supplement to goats.
 
 With these considerations in mind, be sure to consult with your vet or an experienced goat farmer before giving Nutri Drench to your herd.
 

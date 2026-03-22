@@ -66,7 +66,7 @@ There are several different factors to consider when deciding which types of goa
 
 On the other hand, larger goat breeds like Alpine or Saanen goats may have greater milk production potential, making them a better choice for families looking to raise their own dairy products.
 
-The bottom line is, which type of goat is best for city life will depend on your individual needs and preferences as well as your local climate and environmental conditions.
+is, which type of goat is best for city life will depend on your individual needs and preferences as well as your local climate and environmental conditions.
 
 So before you decide on which goats to bring home, it's important to do your research and assess all of the options carefully. With a little careful planning and forethought, you can make sure that your goats will thrive in their new urban home.
 
@@ -92,7 +92,7 @@ Then, you will need to consider how much purchasing, installation, and maintenan
 
 Finally, there are a variety of materials to choose from when building goat fencing for the city. Some of the most popular options include chain-link fences, wooden board fences, and welded wire mesh fences.
 
-At the end of the day, the best option for your situation will depend on a number of different factors and should be decided based on both practical and aesthetic considerations.
+the best option for your situation will depend on a number of different factors and should be decided based on both practical and aesthetic considerations.
 
 ## Are there any other considerations you need to take into account when keeping goats in the city?
 
@@ -156,7 +156,7 @@ Start calling around before you even buy your goats. Ask local farm supply store
 
 Build a basic first aid kit for your goats that includes a digital thermometer, hoof trimmers, antiseptic spray, and electrolyte powder. Handling minor issues yourself saves you emergency vet bills and keeps your goats healthier between checkups.
 
-## Our Take
+## 
 
 You can have a great time keeping goats in the city, but it's important to do your research first. Make sure you understand the challenges associated with this endeavor and take the time to plan and prepare accordingly.
 

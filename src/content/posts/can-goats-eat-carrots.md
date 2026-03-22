@@ -111,11 +111,11 @@ Carrots also provide vitamin K for proper blood clotting, plus potassium and die
 
 On the downside, carrots do contain natural sugars. That’s not a problem in normal amounts, but feeding excessive quantities over time could contribute to weight gain, especially in goats that aren’t getting much exercise.
 
-**The bottom line is that carrots are one of the safest treats you can feed**. Just keep them as a treat and not a staple, and your goats will do great.
+**carrots are one of the safest treats you can feed**. Just keep them as a treat and not a staple, and your goats will do great.
 
 ## Can Some Goats Be Allergic to Carrots?
 
-True carrot allergies in goats are extremely rare. That said, any time you introduce a new food to your herd, it’s worth keeping an eye on things for a day or two.
+True carrot allergies in goats are extremely rare. Any time you introduce a new food to your herd, it’s worth keeping an eye on things for a day or two.
 
 If a goat develops diarrhea or seems off after eating carrots for the first time, back off and try again in smaller amounts later. Most of the time, digestive upset from carrots comes from eating too many at once rather than an actual allergy.
 

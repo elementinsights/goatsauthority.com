@@ -45,7 +45,7 @@ We all know that goats are versatile creatures. They can be used for everything 
 
 But one of the most common questions people have about goats is whether or not they can climb fences.
 
-We'll cover everything below.we will answer all your questions about goats and fencing. We will discuss whether or not goats can climb fences, what type of fence is best for goats, and how to keep your goats safe and secure.
+we will answer all your questions about goats and fencing. We will discuss whether or not goats can climb fences, what type of fence is best for goats, and how to keep your goats safe and secure.
 
 ## Can goats climb fences?
 
@@ -110,7 +110,7 @@ One common method is to place a board horizontally along the top of the fence. T
 
 Even so, this method is not foolproof, as goats can sometimes find a way to climb around the board. Another method is to cover the top of the fence with barbed wire.
 
-This makes it very difficult for goats to climb the fence, but it also increases the risk of injury if they try. At the end of the day, there's no guaranteed way to keep goats from climbing fences, but using multiple methods can help to deter them.
+This makes it very difficult for goats to climb the fence, but it also increases the risk of injury if they try. There's no guaranteed way to keep goats from climbing fences, but using multiple methods can help to deter them.
 
 ## Are there any breeds of goats that are less likely to try and climb over fences?
 
@@ -124,7 +124,7 @@ To wrap up, Cashmere goats are also less likely to attempt to escape enclosures.
 
 This is why Cashmere goats are often used as companion animals.
 
-Ultimately, there are several breeds of goats that are less likely to try and climb over fences. By choosing one of these breeds, you can help to keep your goats safe and secure.
+There are several breeds of goats that are less likely to try and climb over fences. By choosing one of these breeds, you can help to keep your goats safe and secure.
 
 ## How much does it cost to build or buy a fence that will keep goats from climbing over it?
 
@@ -152,7 +152,7 @@ Solar-powered electric fence chargers work great for remote pastures where runni
 
 ## Summary
 
-Overall, goats are very curious animals and they will often test fences to see if they can escape. While there's no guaranteed way to keep them contained, using multiple methods can help to deter them.
+Goats are very curious animals and they will often test fences to see if they can escape. While there's no guaranteed way to keep them contained, using multiple methods can help to deter them.
 
 There are also certain breeds of goats that are less likely to try and climb over fences, so choosing one of these breeds may be a good option if you are concerned about escapees.
 

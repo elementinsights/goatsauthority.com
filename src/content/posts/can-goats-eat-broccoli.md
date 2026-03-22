@@ -103,7 +103,7 @@ The primary diet of a goat should be hay, hay, and more hay with supplemental gr
 
 A rule of thumb is that goats should have 1 to 2% of their body weight in dry matter available to them daily. About 60% of the dry matter should be good-quality hay.
 
-In general, an adult goat can eat approximately 4 to 5 lbs per day of dry matter. An average-sized adult male goat (Boer) weighs about 250 lbs; therefore, he can consume 10-12 lbs or 2-3 square bales of hay per day along with some grain mix (concentrate).
+An adult goat can eat approximately 4 to 5 lbs per day of dry matter. An average-sized adult male goat (Boer) weighs about 250 lbs; therefore, he can consume 10-12 lbs or 2-3 square bales of hay per day along with some grain mix (concentrate).
 
 Ideally, a goat's diet should consist mostly of roughage (60-80%) with the balance being made up of concentrated feed and fresh food items such as vegetables.
 

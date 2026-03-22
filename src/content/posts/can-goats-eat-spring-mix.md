@@ -57,7 +57,7 @@ This will help to minimize the risk of bloat.
 
 ## Benefits of feeding spring mix to goats
 
-There are many benefits that come along with feeding spring mix to goats. As we mentioned before, this greens mix is packed with nutrients that are essential for goat health.
+There are many benefits that come along with feeding spring mix to goats. Before, this greens mix is packed with nutrients that are essential for goat health.
 
 Some of the most important nutrients found in spring mix include Vitamins A, C, and K. Vitamin A is important for vision and immune health, while Vitamin C is an important antioxidant.
 
@@ -71,7 +71,7 @@ As you can see, there are many reasons why you should consider feeding spring mi
 
 ## Risks of feeding spring mix to goats
 
-As we mentioned before, there are some risks that come along with feeding spring mix to goats. The biggest risk is that of choking, as the leaves of the greens can be quite tough.
+before, there are some risks that come along with feeding spring mix to goats. The biggest risk is that of choking, as the leaves of the greens can be quite tough.
 
 For this reason, it is important to only give your goat a small amount of spring mix at a time.
 
@@ -85,7 +85,7 @@ This will help to minimize the risk of bloat.
 
 ## Serving size of spring mix to goats
 
-With feeding spring mix to goats, it is important to be aware of the appropriate serving size. As we mentioned before, goats are prone to developing bloat, so it is important to only give them a small amount of spring mix at a time.
+With feeding spring mix to goats, it is important to be aware of the appropriate serving size. Before, goats are prone to developing bloat, so it is important to only give them a small amount of spring mix at a time.
 
 A good rule of thumb is to start with 1-2 cups of spring mix per goat per day. If your goat seems to be doing well on this amount, you can gradually increase it over time.
 
@@ -137,8 +137,8 @@ This variety is one of the reasons spring mix works so well for goats. They natu
 
 When buying spring mix at the store, check the expiration date and avoid bags with excess moisture inside. Soggy greens can harbor bacteria that might upset your goat's stomach.
 
-## Our Take
+## 
 
-Overall, feeding spring mix to goats can be a great way to provide them with essential nutrients. Just be sure to be aware of the risks and take precautions to avoid them.
+Feeding spring mix to goats can be a great way to provide them with essential nutrients. Just be sure to be aware of the risks and take precautions to avoid them.
 
 If you do, your goat will be able to enjoy the taste and health benefits of this delicious greens mix.

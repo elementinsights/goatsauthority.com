@@ -45,7 +45,7 @@ Managing goats well means knowing the basics inside and out. If you are thinking
 
 Where did Toggenburg goats originate?
 
-We'll cover everything below.we will answer those questions for you and provide some additional information about these popular goats.
+we will answer those questions for you and provide some additional information about these popular goats.
 
 ## Where did Toggenburg goats originate?
 
@@ -67,7 +67,7 @@ With their long floppy ears, short snouts, and distinctive markings that can con
 
 They are known to be highly adaptable animals that are well suited to a range of different climates and environments. And because they produce a high volume of rich milk, they have long been one of the most important breeds in commercial dairy production.
 
-In general, Toggenburg goats are an iconic breed that continues to play an important role in the agricultural world today.
+Toggenburg goats are an iconic breed that continues to play an important role in the agricultural world today.
 
 ## What do Toggenburg goats look like?
 
@@ -85,7 +85,7 @@ In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, 
 
 On top of their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 
-And because they are such versatile animals, Toggenburg goats can be easily adapted to a variety of different climates and conditions. In general, Toggenburg goats make an excellent choice for anyone who is thinking about getting goats.
+And because they are such versatile animals, Toggenburg goats can be easily adapted to a variety of different climates and conditions. Toggenburg goats make an excellent choice for anyone who is thinking about getting goats.
 
 ## What is the temperament of a Toggenburg goat?
 
@@ -93,7 +93,7 @@ The temperament of a Toggenburg goat can be characterized as alert, curious, and
 
 At the same time, their stubborn streak means that they can be difficult to train or handle at times. However, once you build a trusting relationship with a Toggenburg goat, you will see just how intelligent and loyal they truly are.
 
-They are not generally aggressive animals and tend to get along well with other animals in their herd. Overall, if you want a lively and independent companion animal that can also be gentle and sweet when interacting with people, then a Toggenburg goat is the perfect choice for you.
+They are not generally aggressive animals and tend to get along well with other animals in their herd. If you want a lively and independent companion animal that can also be gentle and sweet when interacting with people, then a Toggenburg goat is the perfect choice for you.
 
 ## How much does a Toggenburg goat cost?
 
@@ -105,13 +105,13 @@ It's also worth noting that does (female goats) typically cost more than wethers
 
 Finally, the condition of a goat will also impact its price, with well-cared-for animals typically commanding higher prices than those that are not in good health.
 
-In general, a typical Toggenburg goat will typically cost between $300 and $500. However, this price may fluctuate depending on any individual factors that might affect the price tag.
+A typical Toggenburg goat will typically cost between $300 and $500. However, this price may fluctuate depending on any individual factors that might affect the price tag.
 
 ## What do you need to take into consideration before getting goats?
 
 There are a number of things that you need to take into consideration before getting goats. To start, it is important to consider your local zoning laws and regulations.
 
-Many areas have strict rules about livestock in residential areas, so it is essential to check with your town or city before moving forward with this decision. You need to think about the right breed of goat for your needs and lifestyle.
+Many areas have strict rules about livestock in residential areas, so check with your town or city before moving forward with this decision. You need to think about the right breed of goat for your needs and lifestyle.
 
 For example, if you have small children or pets and want a docile animal, a Nigerian dwarf might be more suitable than a larger breed such as an alpine goat.
 
@@ -119,7 +119,7 @@ You also need to take into account things like fencing requirements and access t
 
 ## How to take care of your Toggenburg goats?
 
-When it comes to taking care of your Toggenburg goats, there are a few key things that you should always keep in mind. First and foremost, it is essential to provide your goats with a clean, dry living space that is free from debris or other contaminants.
+There are a few key things that you should always keep in mind. First and foremost, provide your goats with a clean, dry living space that is free from debris or other contaminants.
 
 This can be accomplished by regularly clearing out any waste materials from the pen, making sure not to leave food scraps lying around, and having proper ventilation to promote good air circulation.
 
@@ -137,4 +137,4 @@ With their gentle personalities and easy-going dispositions, Toggenburgs make wo
 
 They are also relatively easy to care for, provided that you take the time to learn about their basic needs and understand how to properly care for them.
 
-Overall, Toggenburg goats are a great choice for anyone looking for a unique and rewarding pet.
+Toggenburg goats are a great choice for anyone looking for a unique and rewarding pet.

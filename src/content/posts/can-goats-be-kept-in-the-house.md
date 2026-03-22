@@ -141,9 +141,7 @@ Goat diapers are an option that some indoor goat owners swear by. These are esse
 
 ## Key Takeaways
 
-Goats can make great house pets, but there are a few things you need to keep in mind when it comes to their care and management.
-
-First, goats need plenty of space to roam and explore. They're very curious creatures, and they'll quickly become bored if they're confined to a small area.
+Goats can make great house pets, but there are a few things you need to keep in mind goats need plenty of space to roam and explore. They're very curious creatures, and they'll quickly become bored if they're confined to a small area.
 
 Second, goats are social animals and they need interaction with their fellow goats. If you're keeping them indoors, be sure to provide them with plenty of toys and enrichment activities to keep them occupied.
 

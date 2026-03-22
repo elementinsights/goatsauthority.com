@@ -42,7 +42,7 @@ faq:
 
 You might be wondering how many babies goats have at a time and how often they reproduce in a year.
 
-We will address all these questions, and more, in this article and provide you with general information about baby goats and their reproduction habits.
+We will address all these questions, and more, and provide you with general information about baby goats and their reproduction habits.
 
 **Trending Products For Goats**
 
@@ -118,7 +118,7 @@ They can also be born with deformities, such as crooked legs, which can make it 
 
 They are often born without coats of fur, so they are vulnerable to cold weather and sunburn. If not properly cared for, newborn goat kids can quickly become sick and die.
 
-Therefore, it's essential to be aware of the potential problems that they may face and to take steps to prevent them.
+Therefore, be aware of the potential problems that they may face and to take steps to prevent them.
 
 ## How to raise goats from kids to adults?
 
@@ -146,7 +146,7 @@ On the other end, breeds like the Saanen and Alpine typically have singles or tw
 
 If you're specifically looking for a breed that produces multiple kids per birth, Nigerian Dwarfs and Boers are your best bet. Just be prepared for the extra work that comes with bottle-feeding kids when a doe can't keep up with three or four hungry mouths.
 
-## Our Take
+## 
 
 Goats can have anywhere from one to twelve babies at a time, though the average is usually two or three. They generally give birth without any problems, but sometimes kids can be born with deformities or without fur coats.
 

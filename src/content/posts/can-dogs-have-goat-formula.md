@@ -115,7 +115,7 @@ Another breed of dog that can have goat formula without any problem is the golde
 
 Finally, the last type of dog that can have goat formula without any problem is the Australian Shepherd. This is because they are also a very versatile breed of dog and are able to adapt to different types of food.
 
-Overall, there are three main types of dogs that can have goat formula without any problem. These breeds are the Labrador Retriever, golden retriever, and Australian Shepherd.
+There are three main types of dogs that can have goat formula without any problem. These breeds are the Labrador Retriever, golden retriever, and Australian Shepherd.
 
 ## Final Thoughts
 

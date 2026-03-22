@@ -180,7 +180,7 @@ A sick goat may seem tired or not as playful as usual. It could refuse to eat it
 
 A more serious sign is diarrhea, a common symptom when goats consume foods outside their normal diet like tomatoes which contain solanine (a toxic substance). However, don’t panic right away because small amounts usually won’t harm them but large quantities certainly will.
 
-All in all, keep an eye on your goat after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
+Keep an eye on your goat after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
 
 ## What to Do if You Suspect That Your Goat Has Ingested a Tomato Plant
 
@@ -196,11 +196,7 @@ Next, contact a vet if needed. If the symptoms persist or worsen over time, it�
 
 It’s good practice to keep risky plants like tomatoes out of reach from goats’ pens and grazing areas.
 
-Lastly but importantly, educate yourself about what other common garden plants might pose risk for goats. Knowledge is power when it comes to keeping these animals healthy and happy.
-
-## Signs of Solanine Poisoning in Goats
-
-If your goat has eaten a tomato plant, you might be worried. The leaves and stems of the tomato plant contain solanine, which can harm goats.
+Lastly but importantly, educate yourself about what other common garden plants might pose risk for goats. Knowledge is power you might be worried. The leaves and stems of the tomato plant contain solanine, which can harm goats.
 
 Solanine is not in ripe tomatoes though.
 
@@ -214,11 +210,7 @@ You should always watch your goat after it eats something new for any signs of i
 
 A vet will need to treat severe cases of solanine poisoning so if you notice these symptoms call one right away.
 
-Remember that prevention is best when it comes to keeping your goats safe from harmful plants like tomatoes.
-
-### What Other Foods Are Toxic to Goats?
-
-Goats are known for their strong stomachs. They can eat a lot of things, but not everything is good for them.
+Remember that prevention is best but not everything is good for them.
 
 Some foods may even be toxic.
 
@@ -230,7 +222,7 @@ Chocolate also isn’t safe for goats. This sweet treat contains theobromine tha
 
 Another dangerous food item is coffee grounds or tea bags due its caffeine content which could potentially harm a goat’s digestive system.
 
-Rhododendron plants are another no-no when it comes to feeding your pet goat as they contain grayanotoxin, a compound poisonous for these animals causing severe illness or death
+Rhododendron plants are another no-no a compound poisonous for these animals causing severe illness or death
 
 Remember always: what seems tasty might not always be healthy.
 

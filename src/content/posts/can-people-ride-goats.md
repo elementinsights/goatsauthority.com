@@ -77,7 +77,7 @@ Just make sure you're gentle and take care of them.
 
 ## Are there any risks associated with riding a goat?
 
-There are a few risks associated with riding a goat. First, as we mentioned before, goats are not built to carry the weight of a human.
+There are a few risks associated with riding a goat. First, before, goats are not built to carry the weight of a human.
 
 They can easily get injured if you're too heavy or if you're not careful.
 
@@ -89,7 +89,7 @@ Finally, goats need a lot of exercises. If you're going to ride a goat, make sur
 
 Goats are very active creatures and they need to be able to run and play.
 
-Overall, riding a goat is a great experience. Just make sure you're careful and take care of your goat.
+Riding a goat is a great experience. Just make sure you're careful and take care of your goat.
 
 ## How to prevent the risks associated with riding a goat?
 
@@ -107,7 +107,7 @@ For example, specialized saddles can help to keep riders stable, while padding a
 
 Balancing techniques such as leaning or shifting weight can be helpful in preventing falls. Special exercises may also be recommended by health professionals to increase core strength, which is especially important for riders who encounter bumps and uneven terrain.
 
-Overall, there are many tools and strategies available to help minimize the risks associated with riding this popular and exciting animal. Keep in mind that a mountain goat can kill you if provoked, so always approach goats with caution.
+There are many tools and strategies available to help minimize the risks associated with riding this popular and exciting animal. Keep in mind that a mountain goat can kill you if provoked, so always approach goats with caution.
 
 ## What kind of goats makes the best riding goats?
 
@@ -117,7 +117,7 @@ most goat owners recommend that beginners start with smaller breeds like pygmy g
 
 More experienced riders may choose to work with larger breeds like Alpine goats or Saanen goats, which are typically more sturdy and have longer legs for better balance.
 
-At the end of the day, despite that, the best riding goat depends on a combination of individual preferences and specific needs.
+despite that, the best riding goat depends on a combination of individual preferences and specific needs.
 
 Regardless of breed type or size, despite that, all goats can be trained to carry a rider if given enough time and patience.
 

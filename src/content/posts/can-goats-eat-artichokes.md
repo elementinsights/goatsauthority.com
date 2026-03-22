@@ -51,7 +51,7 @@ we will answer all of the questions you may have about feeding artichokes to you
 
 ## Can goats eat artichokes?
 
-That being said, goats should not eat artichokes exclusively as they do not contain all of the nutrients that goats need to stay healthy. Goats should have a diet that is mostly hay, with some fresh vegetables and fruits as treats.
+Goats should not eat artichokes exclusively as they do not contain all of the nutrients that goats need to stay healthy. Goats should have a diet that is mostly hay, with some fresh vegetables and fruits as treats.
 
 ## What are artichokes and where do they come from?
 
@@ -135,7 +135,7 @@ Other vegetables such as carrots, cabbage, and Brussels sprouts can also be fed 
 
 For example, peppers and onions can be toxic to goats, so these should be avoided.
 
-In general, vegetables that are safe for human consumption are also safe for goats. As long as they are fed in moderation, goats can enjoy a variety of healthy vegetables.
+Vegetables that are safe for human consumption are also safe for goats. As long as they are fed in moderation, goats can enjoy a variety of healthy vegetables.
 
 ### Fresh vs. Canned Artichokes for Goats
 
@@ -155,6 +155,6 @@ Globe artichokes are softer and easier on the goat's mouth. If you have the opti
 
 ## What to Remember
 
-Overall, artichokes are a safe and nutritious food for goats. They are a good source of fiber and nutrients, and goats usually enjoy eating them.
+Artichokes are a safe and nutritious food for goats. They are a good source of fiber and nutrients, and goats usually enjoy eating them.
 
 However, it's important to avoid feeding artichokes to goats in excess as this can cause digestive problems. If you're unsure about whether a food is safe for goats, it's always best to err on the side of caution and avoid giving it to them.

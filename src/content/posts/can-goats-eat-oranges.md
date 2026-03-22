@@ -59,9 +59,7 @@ Remove the seeds before feeding if you can. A few seeds won’t cause harm, but 
 
 Once or twice per week is a good frequency. That gives your goats the vitamin boost without overloading them on sugar and citric acid.
 
-Each goat is different when it comes to citrus tolerance. Some will devour an entire orange in seconds while others won’t go near it because of the strong smell.
-
-Start with a couple of small wedges and see how your goat reacts. If there’s no loose stool or signs of discomfort the next day, you can offer a full orange next time.
+Each goat is different you can offer a full orange next time.
 
 ### Do Goats Like to Eat Orange Peels?
 

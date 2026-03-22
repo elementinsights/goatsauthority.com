@@ -57,7 +57,7 @@ You should always supervise your Nubian goat when they are climbing trees. This 
 
 ## What is the reason why Nubian goats climb trees?
 
-There are a few reasons why Nubian goats might climb trees. First, as we mentioned, they are curious creatures and love to explore.
+There are a few reasons why Nubian goats might climb trees. First, they are curious creatures and love to explore.
 
 Tree climbing is simply another way for them to do this.
 

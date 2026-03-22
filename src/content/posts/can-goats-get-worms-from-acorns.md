@@ -79,7 +79,7 @@ Tannins are also unpalatable to goats and other animals, so they are less likely
 
 There is no set amount of acorns that a goat should eat per day. However, you should consult with a veterinarian to make sure that your goat is getting enough to meet their nutritional needs.
 
-In general, goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage.
+Goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage.
 
 For a 100-pound goat, this would be 2-3 pounds of dry matter per day. If you are feeding your goat acorns, they can make up a significant portion of their diet.
 
@@ -137,7 +137,7 @@ Ripe, brown acorns that have fallen naturally are much safer. Soaking them in wa
 
 ## Closing Notes
 
-Overall, goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.
+Goats are relatively resistant to worm infections. However, they can still become infected, especially if they are not properly cared for.
 
 The best way to prevent worms in goats is to practice good hygiene and regularly deworm your animals.
 

@@ -140,7 +140,7 @@ Fencing allows goats to roam freely while still keeping them contained in a spec
 
 Penning involves placing goats in a small enclosure where they cannot wander off. This provides them with the opportunity to socialize with other goats while still having access to food and water.
 
-Ultimately, the best way to restrain goats will depend on the individual needs of the goat and the preferences of the owner.
+The best way to restrain goats will depend on the individual needs of the goat and the preferences of the owner.
 
 ### Setting Up a Tether Station the Right Way
 
@@ -170,6 +170,6 @@ Attach a breakaway link somewhere in the chain if you are worried about the goat
 
 Goats can be tethered, but it's important to do so safely and correctly. Tethering can be harmful to goats if they are not given enough space to move around comfortably, and it can also prevent them from socializing with other goats.
 
-There are some alternatives to tethering, such as fencing and penning, that may be more suitable for goats. Ultimately, the best way to restrain a goat will depend on the individual needs of the goat and the preferences of the owner.
+There are some alternatives to tethering, such as fencing and penning, that may be more suitable for goats. The best way to restrain a goat will depend on the individual needs of the goat and the preferences of the owner.
 
 If you have any further questions about tethering or restraining goats, be sure to consult with a veterinarian or experienced goat keeper.

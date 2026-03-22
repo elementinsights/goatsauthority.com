@@ -58,7 +58,7 @@ Powdered goat milk can offer a variety of benefits for sick baby goats. For one 
 
 In addition, powdered goat milk contains all of the nutrients that baby goats require for proper growth and development.
 
-And since powdered goat milk is shelf stable and easy to transport, it can be used in remote areas where fresh or raw goat milk may not be readily available. Ultimately, powdered goat milk plays an important role in helping newborn baby goats thrive and grow in challenging conditions.
+And since powdered goat milk is shelf stable and easy to transport, it can be used in remote areas where fresh or raw goat milk may not be readily available. Powdered goat milk plays an important role in helping newborn baby goats thrive and grow in challenging conditions.
 
 ## How to determine if your goat needs powdered goat milk?
 
@@ -82,9 +82,7 @@ This will give you a consistency that is similar to regular cow's milk, making i
 
 Alternatively, you can use a 1:1 ratio, which creates a thinner, more liquid formula that might be easier for smaller babies or children to drink.
 
-The bottom line is, it is up to you and your child's specific needs and preferences when it comes to deciding on the best ratio for your particular situation.
-
-No matter what method you choose, mixing powdered goat milk with water is an easy and straightforward way to make sure that your baby or child gets all of the nutrients they need in their diet.
+is, it is up to you and your child's specific needs and preferences mixing powdered goat milk with water is an easy and straightforward way to make sure that your baby or child gets all of the nutrients they need in their diet.
 
 ## The right dosage of powdered goat milk to give a sick baby goat
 
@@ -118,7 +116,7 @@ For example, if your baby goat is dehydrated, it is important to offer them flui
 
 However, if your baby goat is dealing with an upset stomach or diarrhea, it might be best to wait until they have had a chance to rest and recover before offering them any food or drink, including powdered goat milk.
 
-Ultimately, the best thing you can do is consult with a goat expert to determine the best course of action for your particular situation.
+The best thing you can do is consult with a goat expert to determine the best course of action for your particular situation.
 
 ## What to Remember
 

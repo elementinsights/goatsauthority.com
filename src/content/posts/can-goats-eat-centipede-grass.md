@@ -58,7 +58,7 @@ Centipede grass was first brought to the United States in 1916 and is a native o
 
 Centipede grass requires relatively little fertilizing or mowing and is tolerant of poor soils and low fertility. Centipede grass is additionally durable, making it a great option for high-traffic areas.
 
-In general, centipede grass is a resilient and adaptable turfgrass that can offer homeowners a number of advantages.
+Centipede grass is a resilient and adaptable turfgrass that can offer homeowners a number of advantages.
 
 ## Are there any risks associated with feeding goats centipede grass?
 
@@ -126,7 +126,7 @@ No matter what your needs are, there's sure to be a grass species that will suit
 
 All goats can eat centipede grass. However, you will need to take into account the different needs of each goat when deciding how much centipede grass to give them.
 
-Factors such as age, activity level, and time of year will all play a role in how much grass your goat needs. In general, adult goats will need 1-2% of their body weight in dry grass per day.
+Factors such as age, activity level, and time of year will all play a role in how much grass your goat needs. Adult goats will need 1-2% of their body weight in dry grass per day.
 
 This means that a 50 lb Goat will need between 0.5 and 1 lb of dry grass per day. For kids and pregnant or lactating does, the amount of dry grass needed will be higher.
 

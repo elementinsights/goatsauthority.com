@@ -71,7 +71,7 @@ Goats are able to digest the plant more easily than other animals, and they act
 
 The plant is also high in fiber, which helps keep goats healthy and prevents them from getting sick. Also, lambsquarter is a natural source of anti-bacterial properties, which can help protect goats from diseases.
 
-Overall, lambsquarter is an important part of a healthy diet for goats, and it can actually provide many benefits.
+Lambsquarter is an important part of a healthy diet for goats, and it can actually provide many benefits.
 
 ## How do goats eat lambsquarter weed?
 
@@ -129,9 +129,9 @@ Clover is a legume that is high in protein, and it can also help to improve the 
 
 There are many other types of plants that can be fed to goats, and goat owners should consult with a veterinarian or goat expert to determine which plants are best for their animals.
 
-## Wrapping Up
+## Final Thoughts
 
-Overall, lambsquarter weed is a valuable source of nutrition for goats. However, there are some risks associated with feeding this plant to goats.
+Lambsquarter weed is a valuable source of nutrition for goats. However, there are some risks associated with feeding this plant to goats.
 
 Because of that, it's important to monitor the quantity of lambsquarter that goats consume and to make sure that they have access to other sources of food as well. Lambsquarter can be fed to goats on a daily basis, and it can be used as an ingredient in many different recipes.
 

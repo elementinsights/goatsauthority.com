@@ -154,6 +154,6 @@ It is important to locate a different pet if you do not have access to browsing 
 
 ## The Bottom Line
 
-Overall, goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other goats.
+Goats can make great pets for those who are prepared to provide them with a proper home. They are social creatures that enjoy the company of their humans and other goats.
 
 They are also very curious and active, so they need plenty of space to run and play. If you cannot provide a proper home for a goat, then it is best to find another pet.

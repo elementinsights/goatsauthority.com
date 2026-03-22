@@ -46,7 +46,7 @@ Read on for the full breakdown.we will answer those questions and provide you wi
 
 ## Can I feed my goat leftovers?
 
-When it comes to feeding goats, there are a few things you need to keep in mind. Goats are browsers, not grazers.
+There are a few things you need to keep in mind. Goats are browsers, not grazers.
 
 This means that they prefer to eat leaves and twigs off of plants rather than grass. In their natural habitat, they would also eat a lot of fruit and nuts.
 
@@ -135,7 +135,7 @@ No matter how you choose to use your leftover goat food, one thing is certain: w
 
 ## To Wrap Things Up
 
-Overall, feeding your goat leftovers is a great way to provide them with extra nutrients and energy. However, it is important to be mindful of what types of foods you feed them and to avoid any that could potentially be harmful.
+Feeding your goat leftovers is a great way to provide them with extra nutrients and energy. However, it is important to be mindful of what types of foods you feed them and to avoid any that could potentially be harmful.
 
 You should take care to monitor portion sizes and chop up any leftover food into smaller pieces before giving it to your goats.
 

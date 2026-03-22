@@ -46,7 +46,7 @@ faq:
 
 Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and leaves to weeds.
 
-Let's break it down.we’re going to take a closer look at what kind of hay do goats eat, and how you can provide your goat with a healthy diet.
+we’re going to take a closer look at what kind of hay do goats eat, and how you can provide your goat with a healthy diet.
 
 **Trending Products For Goats**
 
@@ -92,7 +92,7 @@ Hay is a dry, grassy plant that is often used as fodder for livestock. It's an e
 
 However, hay can also be dangerous for young animals if it's not properly prepared. Baby goats, in particular, are at risk of choking on hay unless it's chopped into small pieces or soaked in water before feeding.
 
-Ultimately, whether or not to feed hay to baby goats is a decision that should be made by a qualified animal expert.
+Whether or not to feed hay to baby goats is a decision that should be made by a qualified animal expert.
 
 ## What are the different types of hay available for goats to eat?
 
@@ -164,7 +164,7 @@ Squeeze a handful and smell it. Good hay smells sweet and grassy. If it smells s
 
 Check the color too. Bright green hay is the freshest and most nutritious. Pale yellow or brown hay has been rained on or stored too long and has lost most of its nutritional value.
 
-## Wrapping Up
+## Final Thoughts
 
 Hay is an important part of a goat's diet, providing essential nutrients and fiber. There are a variety of different types of hay available, and it's important to choose one that is best suited for your goats' needs.
 

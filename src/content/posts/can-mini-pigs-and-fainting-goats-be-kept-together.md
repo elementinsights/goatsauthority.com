@@ -44,7 +44,7 @@ Here's what you need to know.we will answer those questions and provide you with
 
 ## Can mini pigs and fainting goats be kept together?
 
-That said, there are a few things you should keep in mind if you're planning on keeping mini pigs and fainting goats together.
+There are a few things you should keep in mind if you're planning on keeping mini pigs and fainting goats together.
 
 First, mini pigs are much cleaner than most other farm animals, so they will need a clean environment.
 
@@ -86,7 +86,7 @@ This can include both indoor and outdoor areas so that they can exercise regular
 
 What's more, you may wish to consider using temporary fencing or barriers in order to reduce tension between competing individuals or groups of animals.
 
-Overall, with a bit of thoughtful planning and regular maintenance, it is possible to care for mini pigs and fainting goats with minimal fuss and disruption on your farm or property.
+With a bit of thoughtful planning and regular maintenance, it is possible to care for mini pigs and fainting goats with minimal fuss and disruption on your farm or property.
 
 ## What are the benefits of keeping mini pigs and fainting goats together on the same farm or property?
 
@@ -130,7 +130,7 @@ Use a pig-specific feeder that sits low to the ground and a hay rack or elevated
 
 Goat feed often contains copper at levels that can be toxic to pigs over time. Keeping their meals separate protects both animals from accidentally eating something that could harm them.
 
-## Wrapping Up
+## Final Thoughts
 
 Mini pigs and fainting goats can make great companions for each other on the same farm or property. They have similar care requirements and can actually help to improve the productivity of the land they live on.
 

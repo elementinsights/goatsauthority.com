@@ -66,13 +66,13 @@ These requirements are put in place to protect both human residents and the loca
 
 ## What do you need to consider before getting goats in Medford, Oregon?
 
-Before getting any type of livestock, there are a few important things that you need to consider. In particular, when it comes to goats, you will need to think about things like where you will be keeping them and what their access to food and water will be like.
+Before getting any type of livestock, there are a few important things that you need to consider. In particular, you will need to think about things like where you will be keeping them and what their access to food and water will be like.
 
 It is important to take into account the local climate and weather patterns in your area, as this can play a significant role in the well-being of your animals.
 
 Other factors to consider include your own experience level with raising livestock and any potential concerns or objections from your neighbors.
 
-Overall, it is essential to do thorough research and make informed decisions before bringing home any animals like goats in Medford, Oregon.
+do thorough research and make informed decisions before bringing home any animals like goats in Medford, Oregon.
 
 ## How much work is involved in keeping goats in Medford, Oregon?
 
@@ -82,11 +82,11 @@ This means that the owner must regularly provide food, water, and bedding for th
 
 Another important consideration when keeping goats in Medford is fencing. Proper fencing is essential for protecting both the animals themselves as well as any surrounding vegetation from damage.
 
-In general, goat fencing should be strong and tall, made from materials like metal or concrete to withstand the nibbling of curious goats.
+Goat fencing should be strong and tall, made from materials like metal or concrete to withstand the nibbling of curious goats.
 
 Finally, managing goat herds requires regular monitoring and maintenance to keep up with breeding schedules, sorting groups of goats into manageable sizes for transportation or slaughter, etc.
 
-Overall, while there is certainly an investment of time and energy involved in keeping goats in Medford, doing so can be very rewarding for both hobbyists and professionals alike.
+While there is certainly an investment of time and energy involved in keeping goats in Medford, doing so can be very rewarding for both hobbyists and professionals alike.
 
 ## What kind of housing and fencing do you need for goats in Medford, Oregon?
 
@@ -96,7 +96,7 @@ Depending on your climate and the specific needs of your herd, this shelter migh
 
 You will also need to invest in sturdy fencing that will keep your goats appropriately contained but also give them plenty of room to roam and graze. Ideally, your goat enclosure should be at least six feet high, with no gaps or holes through which a goat could potentially escape.
 
-When it comes to providing the right housing and fencing for your goats in Medford, there are many factors to consider, but with careful planning and research, you can create the ideal environment for raising happy and healthy herds.
+There are many factors to consider, but with careful planning and research, you can create the ideal environment for raising happy and healthy herds.
 
 ## How to care for your goats in Medford, Oregon?
 
@@ -120,19 +120,7 @@ There may be local resources or organizations available that can offer support a
 
 In order to best care for and protect your goats, it is important to stay informed about the latest research, developments, and practices in the field of animal care.
 
-By establishing an ongoing dialogue with experts in the field and by regularly seeking out new information and resources, you will be well-equipped to handle whatever challenges may come your way when it comes to caring for your beloved goats.
-
-### Taking Advantage of Medford's Climate for Year-Round Grazing
-
-Medford's mild winters give goat owners a big advantage over colder parts of Oregon. Your goats can graze outdoors for most of the year without needing heavy supplemental feeding.
-
-The dry summers do require extra attention to water access and shade. Set up multiple water stations around your pasture so your goats always have a nearby source of clean drinking water.
-
-Spring is the best time to let your pastures recover. Rotate your goats between different paddocks every two to three weeks to prevent overgrazing and give the vegetation time to regrow.
-
-### Connecting With Other Goat Owners in the Rogue Valley
-
-The Rogue Valley has an active small-farm community, and goat owners are a big part of it. The Jackson County Extension Service hosts workshops on small ruminant care several times a year.
+By establishing an ongoing dialogue with experts in the field and by regularly seeking out new information and resources, you will be well-equipped to handle whatever challenges may come your way and goat owners are a big part of it. The Jackson County Extension Service hosts workshops on small ruminant care several times a year.
 
 Check out the Medford Farmers Market if you want to meet local goat cheese producers and dairy goat breeders. These folks are a goldmine of practical advice specific to the Medford area.
 

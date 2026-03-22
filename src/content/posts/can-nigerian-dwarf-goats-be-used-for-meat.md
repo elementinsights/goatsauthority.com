@@ -44,7 +44,7 @@ We all know that Nigerian dwarf goats are amazing little creatures. They're frie
 
 But can they also be used for meat? And if so, what are the things you need to consider before making this decision?
 
-Let's break it down.we will answer those questions about Nigerian dwarf goats and meat production. We will also provide some tips on how to raise healthy and happy Nigerian dwarf goats, whether you're raising them for pets or for meat production.
+we will answer those questions about Nigerian dwarf goats and meat production. We will also provide some tips on how to raise healthy and happy Nigerian dwarf goats, whether you're raising them for pets or for meat production.
 
 ## Can Nigerian dwarf goats be used for meat?
 
@@ -64,7 +64,7 @@ Nigerian dwarf goats are a unique breed of small livestock that have become incr
 
 They typically stand around 2 feet tall at the shoulder and are known for being bright and energetic, making them excellent foragers and family pets.
 
-Physically, they tend to be quite sturdy, with strong hooves that allow them to navigate uneven terrain easily. Overall, Nigerian dwarf goats are an enchanting breed that adds a lot of charm and personality to any farm or homestead.
+Physically, they tend to be quite sturdy, with strong hooves that allow them to navigate uneven terrain easily. Nigerian dwarf goats are an enchanting breed that adds a lot of charm and personality to any farm or homestead.
 
 Whether you're looking for some entertainment around the homestead or simply looking for a pet that fits in well with your other animals, Nigerian dwarf goats are a perfect choice.
 
@@ -154,9 +154,9 @@ A healthy Nigerian Dwarf doe can produce one to two quarts of rich, sweet milk p
 
 When you retire a doe from milking or have excess bucklings each spring, those animals can be raised for the freezer. This cycle of milk production and meat harvest makes Nigerian Dwarfs one of the most efficient breeds for small farms.
 
-## Our Take
+## 
 
-Overall, Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.
+Nigerian dwarf goats are a good choice for those who want to raise goats for meat. They're a smaller breed of goat, so they don't require as much food or space.
 
 Similarly, their meat is just as tasty as the meat from larger breeds.
 

@@ -96,7 +96,7 @@ Another concern is that engineered animals could escape and mate with wild popul
 
 Finally, some people simply object to the idea of manipulating genes, regardless of the potential benefits. They worry that it's a step towards "playing God" and that it could lead to unforeseen and dangerous consequences.
 
-Overall, there are both benefits and drawbacks to creating animals through genetic engineering techniques. It's important to weigh these carefully before deciding whether or not to proceed with this type of technology.
+There are both benefits and drawbacks to creating animals through genetic engineering techniques. It's important to weigh these carefully before deciding whether or not to proceed with this type of technology.
 
 ## What do you think about this process - is it something that should be pursued or not?
 
@@ -104,7 +104,7 @@ This is a difficult question to answer. On the one hand, there are potential ben
 
 On the other hand, there are also some potential drawbacks, such as the possibility of something going wrong during the process or the engineered animals escaping and mating with wild populations.
 
-At the end of the day, this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether a goat can bag up without being pregnant to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
+this is a decision that needs to be made on a case-by-case basis. You may also want to understand whether a goat can bag up without being pregnant to better distinguish genuine pregnancies. Weighing the potential benefits and drawbacks carefully is essential in order to make the best decision for each situation.
 
 In addition, it's important to consider the ethical implications of this process. Some people may object to the idea of manipulating genes, regardless of the potential benefits.
 

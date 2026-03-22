@@ -140,7 +140,7 @@ Further, go for brands that supplement their goat milk with essential vitamins a
 
 ## Can You Give Goat Milk To A Baby Who Is Allergic To Cow Milk?
 
-Babies who are unable to tolerate cow milk often hear about goat milk as a potential substitute. It's essential to remember, though, that although goat milk may cause fewer allergies, it still holds proteins that can induce an allergic reaction in some infants.
+Babies who are unable to tolerate cow milk often hear about goat milk as a potential substitute. Remember, though, that although goat milk may cause fewer allergies, it still holds proteins that can induce an allergic reaction in some infants.
 
 If goat milk proves to be a problem for a baby, other alternatives such as soy milk, almond milk, or specially formulated hypoallergenic options should be explored.
 
@@ -182,7 +182,7 @@ Goat milk has a distinct protein composition and is easier for some toddlers to 
 
 ## What to Remember
 
-So, what's the deal with goat milk for the little ones? If you're considering this option for your 1-year-old, it's essential to approach it with caution.
+So, what's the deal with goat milk for the little ones? If you're considering this option for your 1-year-old, approach it with caution.
 
 A pediatrician's guidance is important in this scenario. Introduce the milk gradually and pay close attention to your child's reaction.
 

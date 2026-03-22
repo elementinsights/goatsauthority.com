@@ -133,7 +133,7 @@ Finally, lentils contain phytochemicals, which have been linked to a number of h
 
 ### Red Lentils vs. Green Lentils for Goats
 
-Not all lentils are the same when it comes to feeding goats. Red lentils cook down faster and turn mushy, which makes them easier for goats to digest. They are a good choice if you are just starting to add lentils to the ration.
+Not all lentils are the same which makes them easier for goats to digest. They are a good choice if you are just starting to add lentils to the ration.
 
 Green lentils hold their shape better after cooking and provide a slightly firmer texture that some goats seem to enjoy more. They also have a bit more fiber than red lentils.
 
@@ -145,9 +145,9 @@ A safe starting amount is about a quarter cup of cooked lentils per adult goat p
 
 If the goat handles that amount without any issues, you can gradually increase to half a cup. Going beyond that is not necessary and could cause gas or loose stools from the high fiber content.
 
-## Our Take
+## 
 
-Overall, goats can eat lentils without any problems. Lentils are a nutritious and versatile food that can be easily added to a goat's diet.
+Goats can eat lentils without any problems. Lentils are a nutritious and versatile food that can be easily added to a goat's diet.
 
 When feeding lentils to goats, be sure to cook them until they are soft and offer hay or other roughage at the same time.
 

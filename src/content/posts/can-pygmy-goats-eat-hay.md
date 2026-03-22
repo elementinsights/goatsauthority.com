@@ -70,7 +70,7 @@ Specifically, hay is very high in fiber, which helps keep the digestive system h
 
 Finally, hay contains many vital vitamins and minerals that aid growth and development in young goats.
 
-Overall, hay plays a vital role in keeping pygmy goats healthy, strong, and full of energy. Whether they are kept as pets or bred for milk production, these tiny creatures depend on hay to thrive.
+Hay plays a vital role in keeping pygmy goats healthy, strong, and full of energy. Whether they are kept as pets or bred for milk production, these tiny creatures depend on hay to thrive.
 
 ## Are there any risks associated with feeding hay to pygmy goats?
 
@@ -82,7 +82,7 @@ Second, inspect your hay for mold or other toxins before feeding it to pygmy goa
 
 Avoid overfeeding your pygmy goats, as this can lead to obesity and other health problems. Instead, only give them the amount of hay they need based on their age, size, and activity level.
 
-Overall, pygmy goats can eat hay as part of a healthy diet. Hay provides goats with essential nutrients, such as fiber, protein, vitamins, and minerals.
+Pygmy goats can eat hay as part of a healthy diet. Hay provides goats with essential nutrients, such as fiber, protein, vitamins, and minerals.
 
 ## When is the best time to feed hay to pygmy goats?
 

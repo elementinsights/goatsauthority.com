@@ -130,7 +130,7 @@ Avoid making sudden feed changes right before breeding. Gradual adjustments over
 
 ### Advantages of Breeding an Older Doe vs. A Young Doe
 
-A 4-year-old doe has several advantages over a first-time yearling when it comes to breeding. Her skeletal frame is fully developed, which means she has a wider birth canal and is less likely to have trouble during delivery.
+A 4-year-old doe has several advantages over a first-time yearling which means she has a wider birth canal and is less likely to have trouble during delivery.
 
 She also has more body reserves to draw from during pregnancy and lactation. A younger doe is still growing herself, and the demands of pregnancy compete with her own development for nutrients and energy.
 
@@ -152,7 +152,7 @@ Stock your kidding kit with iodine for dipping navels, clean towels, dental flos
 
 Check on her every few hours as her due date approaches. Watch for signs of labor like restlessness, pawing at the ground, talking to her belly, and a swollen vulva with clear discharge. Most does deliver without help, but being there in case of trouble gives you the best chance at a healthy outcome.
 
-## Wrapping Up
+## Final Thoughts
 
 Breeding goats can be a fun and rewarding experience, but it's important to be aware of the risks. Make sure that your does are healthy and of breeding age, choose a compatible buck, and closely observe the does during the mating process.
 

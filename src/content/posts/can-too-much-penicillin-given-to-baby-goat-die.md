@@ -47,7 +47,7 @@ We all know that penicillin is an antibiotic. It's used to treat bacterial infec
 
 But have you ever wondered if it is safe for baby goats? And if so, can too much penicillin kill them?
 
-We'll cover everything below.we will answer those questions about penicillin and baby goats. We'll also tell you everything else you need to know about using this antibiotic on your little ones.
+we will answer those questions about penicillin and baby goats. We'll also tell you everything else you need to know about using this antibiotic on your little ones.
 
 ## Can too much penicillin given to baby goat die?
 
@@ -57,11 +57,11 @@ So, it's important to only give the recommended dosage of penicillin to your bab
 
 Penicillin is an antibiotic that helps to fight bacteria in the body. It can be used to treat a wide range of infections, including ear infections, skin infections, and respiratory infections.
 
-Penicillin is also sometimes used to prevent infection after surgery. When it comes to baby goats, penicillin can be used to treat bacterial infections, such as pneumonia.
+Penicillin is also sometimes used to prevent infection after surgery. Penicillin can be used to treat bacterial infections, such as pneumonia.
 
 It is important to talk to a veterinarian before giving any medication to a baby goat, as the wrong dosage could be harmful.
 
-In general, though, penicillin is a safe and effective way to treat bacterial infections in baby goats.
+Though, penicillin is a safe and effective way to treat bacterial infections in baby goats.
 
 ## Is penicillin safe for baby goats?
 
@@ -129,7 +129,7 @@ If your baby goat is allergic to penicillin, there are other antibiotics that ca
 
 Other options include tetracyclines, sulfonamides, and macrolides. A goat expert will be able to recommend the best antibiotic for your baby goat based on their individual needs.
 
-In general, it's important to be aware of the potential side effects of giving a baby goat too much penicillin. If you think your baby goat has been given too much medication, it is important to seek immediate goat expert care.
+It's important to be aware of the potential side effects of giving a baby goat too much penicillin. If you think your baby goat has been given too much medication, it is important to seek immediate goat expert care.
 
 With prompt treatment, the chances of a full recovery are excellent.
 

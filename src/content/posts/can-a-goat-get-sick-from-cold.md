@@ -120,9 +120,7 @@ The treatments for some common illnesses are:
 - **Pneumonia:** If your goat has pneumonia, it will need to see a vet for antibiotics.
 - **Hypothermia:** If your goat is suffering from hypothermia, it needs to be warmed up slowly. Wrap the goat in warm blankets and call your vet immediately.
 
-## Are there any other things that you need to consider when it comes to keeping your goats healthy in the winter months?
-
-Talking about keeping your goats healthy in the winter months, there are a few extra things you will need to consider.
+## Are there any other things that you need to consider there are a few extra things you will need to consider.
 
 First, you will need to make sure they have access to fresh, clean water at all times. Goats are more susceptible to dehydration in the winter months, so you need to make sure they are drinking enough water.
 
@@ -170,7 +168,7 @@ An insulated trough cover made from rigid foam board helps slow ice formation ov
 
 ## To Wrap Things Up
 
-Overall, goats are relatively hardy animals. However, they can still succumb to illness if they are not properly cared for.
+Goats are relatively hardy animals. However, they can still succumb to illness if they are not properly cared for.
 
 During the winter months, it's important to take extra care of your goats to make sure they stay healthy and happy. Be sure to provide them with plenty of fresh, clean water, good-quality hay or forage, and a warm, dry shelter.
 

@@ -91,9 +91,9 @@ Finally, there is a risk of injury to people if they are standing close to a jum
 
 Therefore, it is important to be cautious around goats when they are jumping, and to keep children and other vulnerable people away from them.
 
-In summary, there are a few risks associated with goats jumping, but these can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
+There are a few risks associated with goats jumping, but these can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
 
-In general, the risks are outweighed by the benefits of goats being able to jump, which include their safety and health.
+The risks are outweighed by the benefits of goats being able to jump, which include their safety and health.
 
 ## How to prevent goats from jumping?
 
@@ -109,7 +109,7 @@ Finally, you can try training your goats not to jump. This can be done by using 
 
 It may take some time and patience, but with persistence, you can train your goats not to jump.
 
-In general, there are a few ways to prevent goats from jumping. You can provide them with a ramp or other means of getting over obstacles, you can provide them with enrichment, or you can try training them not to jump.
+There are a few ways to prevent goats from jumping. You can provide them with a ramp or other means of getting over obstacles, you can provide them with enrichment, or you can try training them not to jump.
 
 By taking these measures, you can help to keep your goats safe and happy.
 
@@ -123,7 +123,7 @@ Other breeds that are known for their jumping ability include the Nubian goat, t
 
 They often use their jumping ability to escape from predators or to release excess energy.
 
-Overall, some of the most notorious jumping breeds include the Pygmy goat, the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large and full of energy, and they often use their jumping ability to escape from predators or to release excess energy.
+Some of the most notorious jumping breeds include the Pygmy goat, the Nubian goat, the Alpine goat, and the LaMancha goat. These breeds are all relatively large and full of energy, and they often use their jumping ability to escape from predators or to release excess energy.
 
 ### Best Fencing Options for Jumping Goats
 
@@ -137,4 +137,4 @@ Avoid using chain-link fencing with horizontal rails, since goats will use those
 
 Goats can jump high, but there are a few risks associated with this behavior. Even so, these risks can be minimized by taking precautions such as building tall fences and keeping children and vulnerable people away from jumping goats.
 
-Overall, the benefits of goats being able to jump, which include their safety and health, outweigh the risks.
+The benefits of goats being able to jump, which include their safety and health, outweigh the risks.

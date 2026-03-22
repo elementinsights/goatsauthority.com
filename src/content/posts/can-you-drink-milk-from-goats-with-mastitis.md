@@ -120,7 +120,7 @@ Another thing to note is it is important to practice good hygiene while nursing 
 
 Make sure you drink plenty of fluids and get plenty of rest to help keep your body strong in fighting off infection. Following these tips will make sure that you are taking proper care of yourself and helping to ease pain and promote healing.
 
-The most important thing to remember when dealing with mastitis is that early detection and treatment are key to preventing complications. If you think you may have an infection, it is essential to see a doctor right away for proper diagnosis and treatment.
+The most important thing to remember when dealing with mastitis is that early detection and treatment are key to preventing complications. If you think you may have an infection, see a doctor right away for proper diagnosis and treatment.
 
 Good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
 
@@ -160,9 +160,9 @@ Culling does not necessarily mean the animal has to leave the farm. Some owners 
 
 If the doe is a valuable genetic animal, talk to your vet about dry cow therapy and an extended dry period before making a final decision. Sometimes a long rest with proper treatment can clear a stubborn infection.
 
-## Our Take
+## 
 
-Overall, drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.
+Drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.
 
 Proper hygiene practices are essential for both humans and animals to keep them healthy and reduce the risk of infection.
 

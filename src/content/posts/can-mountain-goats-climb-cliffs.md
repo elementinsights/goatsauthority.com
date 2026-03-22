@@ -121,7 +121,7 @@ Some are adapted for life in rocky desert areas, while others thrive in lower el
 
 Regardless of their specific habitat or size, all mountain goats are well-equipped for life among the mountains, including sturdy hooves that allow them to move quickly and easily over rocky terrain.
 
-The bottom line is, these unique animals provide a fascinating glimpse into the complexities of biodiversity.
+is, these unique animals provide a fascinating glimpse into the complexities of biodiversity.
 
 ## What is the conservation status of the mountain goat?
 
@@ -175,7 +175,7 @@ The bottom of each hoof has a rough, rubbery pad that grips rock like a hiking b
 
 ## Final Thoughts
 
-Overall, the mountain goat is a versatile and hardy animal that has adapted to survive in some of the most extreme environments on Earth.
+The mountain goat is a versatile and hardy animal that has adapted to survive in some of the most extreme environments on Earth.
 
 These impressive creatures are sure to fascinate anyone who has the chance to see them in their natural habitat, whether it be in person or from afar.
 

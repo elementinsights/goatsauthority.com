@@ -31,7 +31,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I put safeguard in my goats milk?"
-    answer: "You can put a safeguard in goat's milk without any problem. In fact, it is often recommended to do so in order to protect the goat's milk from bacteria. They are also effective in protecting the milk from spoilage and other contaminants."
+    answer: "You can put a safeguard in goat's milk without any problem. In fact, it is often recommended to do so in order to protect the goat's milk from bacteria. They are also effective in protecting the milk from spoilage and other contaminants."
   - question: "What is goat's milk and why is it recommended for people who are lactose intolerant?"
     answer: "Goat's milk is a type of milk that is produced by domestic goats. Unlike cow's milk, which is commonly consumed by people around the world, goat's milk contains lower levels of lactose, making it a popular choice for those who are lactose intolerant."
   - question: "How does safeguard work and what are the benefits of using it in goat's milk?"
@@ -39,127 +39,54 @@ faq:
   - question: "Are there any risks associated with using Safeguard in goat's milk?"
     answer: "There are no known risks associated with using Safeguard in goat's milk. This probiotic supplement is safe for both goats and humans, and there have been no reports of adverse effects."
 ---
+Let me clear something up right away: SafeGuard is not a probiotic or a milk additive. SafeGuard is the brand name for fenbendazole, which is a dewormer (anthelmintic) used to kill intestinal parasites in livestock.
 
-Did you know that in addition to being cute and lovable, goats can also provide nutritious milk? Goat's milk is sometimes recommended as a healthy option for people who are lactose intolerant.
-
-But what about safeguarding goats? Can you put a safeguard in goat's milk?
-
-And if so, what are the things you need to consider before doing so?
-
-we will answer those questions and provide you with additional information about goats and their milk.
+The real question most goat owners are asking is whether they can drink or use the milk from a goat that has been treated with SafeGuard. That is a valid concern, and the answer comes down to withdrawal times.
 
 ## Can I put safeguard in my goats milk?
 
-However, there are a few things you need to consider before putting a safeguard in your goat's milk.
+You should not be adding SafeGuard directly to goat milk. SafeGuard is an oral medication given to the goat to kill worms like barber pole worm and lungworms. It is not something you mix into milk.
 
-First of all, you need to make sure that the safeguard you use is approved for use in goats. Some safes are not meant for use with goats and could potentially harm them.
-
-Make sure to read the labels carefully and consult with a veterinarian if you are unsure.
-
-Second, you need to be aware of the dosage. Too much safeguard can be just as harmful as too little.
-
-The general rule is to use 1-2 tablespoons per gallon of milk.
-
-Finally, you need to be sure to follow the directions on the label. Safeguarding goat's milk is not difficult, but it is important to do it correctly in order to make sure the safety of your goats.
+When your goat receives a dose of SafeGuard (fenbendazole), trace amounts of the drug pass into the milk for several days afterward. During this withdrawal period, the milk should not be consumed by humans. Most goat owners follow a withdrawal time of 4 to 6 days after the last dose before using the milk again.
 
 ## What is goat's milk and why is it recommended for people who are lactose intolerant?
 
-Goat's milk is a type of milk that is produced by domestic goats. Unlike cow's milk, which is commonly consumed by people around the world, goat's milk contains lower levels of lactose, making it a popular choice for those who are lactose intolerant.
+Goat milk is naturally lower in lactose than cow milk, and its fat globules are smaller, which makes it easier for many people to digest. A lot of folks who struggle with cow milk find they handle goat milk just fine.
 
-Aside from being easier to digest, goat's milk also boasts a range of nutritional benefits. It is high in calcium and protein, and it can even help to promote good gut health due to its high levels of probiotics.
-
-In addition, some studies have shown that goat's milk may be more easily absorbed by the body than other types of dairy products.
-
-Overall, whether you are looking for an alternative source of dairy or just want to reap the many health benefits of goat's milk, this nourishing beverage has much to offer.
+Beyond digestibility, goat milk is rich in calcium, phosphorus, and vitamin A. It makes excellent cheese, yogurt, and soap. If you are milking goats for your family, keeping that milk clean and free from drug residues is a top priority.
 
 ## How does safeguard work and what are the benefits of using it in goat's milk?
 
-Safeguard is a type of probiotic that is added to goat's milk to help improve gut health and support optimal digestion.
+SafeGuard (fenbendazole) works by disrupting the energy metabolism of parasitic worms, essentially starving them to death inside the goat's gut. It is effective against a range of gastrointestinal parasites including roundworms, hookworms, and some tapeworms.
 
-The beneficial bacteria in this supplement work by breaking down undigested food in the gut, helping to improve nutrient absorption and digestive function.
-
-Plus, Safeguard contains a range of nutrients that can support immune health, including vitamins A, B, K, and E as well as zinc.
-
-One major benefit of using Safeguard in goat's milk is its ability to promote well-being in animals. Studies have shown that goats fed with Safeguard on a regular basis exhibit less stress and anxiety, improved sleep cycles, and more.
-
-This makes Safeguard an ideal choice for farmers who want to keep their goats healthy and happy.
-
-In general, there are many benefits to using Safeguard in goat's milk. Whether you're looking for ways to help improve gut health or simply want to make sure your animals are healthy and thriving, this probiotic supplement is sure to be a great choice for your farm.
+The benefit is to the goat, not the milk. A doe with a heavy parasite load produces less milk and loses body condition. Deworming when needed keeps her healthy and her production up.
 
 ## Are there any risks associated with using Safeguard in goat's milk?
 
-There are no known risks associated with using Safeguard in goat's milk. This probiotic supplement is safe for both goats and humans, and there have been no reports of adverse effects.
+The main risk is consuming milk that still contains fenbendazole residues before the withdrawal period is up. While fenbendazole is considered low-toxicity for humans, it is still a medication that has no business being in milk you drink.
 
-That said, as with any supplement, it is always best to consult with a veterinarian before adding anything to your animal's diet. This is especially important if your goat has any underlying health conditions or is pregnant or nursing.
-
-Overall, Safeguard is a safe and effective way to improve gut health in goats and promote well-being. Still, as with any supplement, it is always best to consult with a veterinarian before adding anything to your animal's diet.
-
-This is especially important if your goat has any underlying health conditions or is pregnant or nursing.
+Fenbendazole is used off-label in goats because there is no FDA-approved formulation specifically for goats. Many goat owners extend their withdrawal to 6 or 7 days to be safe. When in doubt, dump the milk.
 
 ## What are some things to consider before putting safeguards on goat's milk?
 
-Before putting any safeguards on goat's milk, it is important to consider a few key factors. First, you should evaluate the quality of the milk itself.
+Before deworming a milking doe, think about timing. If you can plan your deworming for the dry period when you are not using the milk, you avoid the withdrawal issue entirely.
 
-Goat's milk contains significantly higher amounts of protein, calcium, and beneficial fatty acids than conventional cow's milk, making it an excellent choice for optimal health.
-
-However, as with any food product, there may be concerns about potential contaminants such as pesticides or herbicides in milk from goats that are raised in conventional farming environments.
-
-Another factor to consider is the handling practices that are used when collecting and transporting goat's milk. You should investigate how closely the farm follows hygiene guidelines to minimize potential risks from microbes or harmful bacteria.
-
-Plus, depending on your specific needs or preferences, you may want to explore the possibility of obtaining milk that has been fortified with additional vitamins or minerals to suit your needs more specifically.
-
-Ultimately, whether you choose to put safeguards on your goat's milk will depend largely on your individual circumstances and preferences.
-
-There are pros and cons to both raw and pasteurized milk options, so it is important to do your research and carefully weigh the unique benefits of each before making a final decision.
-
-Whatever path you choose, though, one thing is clear: goat's milk can be a powerful tool for improving health and vitality.
+If your doe needs deworming while she is in milk, you will need to dump milk for at least 4 to 6 days. Mark the date on your calendar so you do not lose track. You can still milk the doe on her regular schedule to keep her production up and prevent mastitis, but pour that milk out or feed it to barn cats.
 
 ## How to properly store goat's milk once you've added safeguard to it?
 
-There are a few key things to keep in mind when it comes to storing goat's milk after you've added a safeguard to it.
+Again, you should not be adding SafeGuard to goat milk. But once your doe has cleared the withdrawal period and her milk is safe to use, proper storage matters for keeping it fresh.
 
-First and foremost, it is essential to store the milk in an airtight container, as exposure to oxygen can compromise the quality of the milk. It is also important to keep your milk in a cool, dark place that is consistently at refrigerator temperature.
-
-This will help prevent harmful bacteria from spoiling the milk and; make sure that your goat's milk stays fresh for as long as possible.
-
-It is recommended that you use or drink your stored milk within about three weeks of adding the safeguard, as some toxins can begin to degrade over time.
-
-With these guidelines in mind, your stored goat's milk will remain safe and nutrient-rich for many months to come.
+Chill the milk as quickly as possible after milking. Straining it through a milk filter and getting it into the fridge within 30 minutes keeps bacteria counts low. Stored in clean, sealed glass jars in a cold fridge, goat milk stays fresh for 5 to 7 days.
 
 ## Recipes that include goat's milk with safeguard
 
-With cooking with goat's milk, there are many different recipes that you can try. One of the most popular and versatile options is to use goat's milk in sauces and dressings.
+There are no recipes that should include SafeGuard in goat milk because SafeGuard is a dewormer, not a food ingredient. This is worth repeating to avoid any confusion.
 
-The tangy flavor of goat's milk helps to balance out rich flavors like cream and butter, making it a great addition to a variety of creamy sauces.
+What you can do is use clean, withdrawal-cleared goat milk in all kinds of recipes. Goat milk makes outstanding chevre, cajeta, yogurt, and ice cream. Just make sure the doe has fully cleared any medication withdrawal period.
 
-Because goat's milk is often easier to digest than cow's milk, it can be a great option for those with food sensitivities or who are lactose intolerant.
+## Final Thoughts
 
-Whether you are making a creamy pasta dish or whipping up a batch of your favorite homemade dressing, chances are goat's milk will be the perfect ingredient.
+SafeGuard (fenbendazole) is a dewormer that kills intestinal parasites in goats. It is not a probiotic, not a milk supplement, and should never be added to milk intended for human consumption.
 
-### Milk Withdrawal Times After Using Safeguard
-
-One thing many new goat owners overlook is the withdrawal period after using Safeguard dewormer. If you are giving Safeguard (fenbendazole) orally to your goat, you should not use the milk for human consumption for at least four days after the last dose.
-
-Some goat keepers follow a stricter seven-day withdrawal just to be safe. The exact timing depends on the dosage and how often you administered the product.
-
-During the withdrawal period, you can still milk the doe to keep her on schedule. Just dump the milk or feed it to barn cats instead of using it for your family.
-
-### Keeping Your Milk Clean Without Chemical Additives
-
-Good milking hygiene is honestly the best safeguard for your goat's milk. Wash the udder with warm water and a clean cloth before every milking session.
-
-Use a strip cup to check the first few squirts from each teat. If you see clumps, strings, or off-color milk, set that milk aside and investigate for possible mastitis.
-
-Chill the milk as fast as possible after milking. Getting it into the fridge within 30 minutes keeps bacteria counts low and extends the shelf life by days. A stainless steel bucket set in ice water during milking is a simple trick that makes a real difference.
-
-## Key Takeaways
-
-You can put safeguards on goat's milk to protect it from contaminants and harmful bacteria. It is important to store the milk properly to maintain its freshness, and you can use it in a variety of recipes.
-
-Goat's milk is a nutritious and delicious option that can be enjoyed by everyone.
-
-In addition to all of the wonderful benefits that come from drinking goat's milk, it is also important to remember that goats themselves are intelligent and social animals that make great pets.
-
-If you are considering adding a goat to your family, be sure to do your research and find a reputable breeder who can provide you with a healthy and well-adjusted animal.
-
-With a bit of care and attention, your new goat friend will provide you with years of companionship and fresh milk for all of your favorite recipes.
+If your milking doe needs SafeGuard, give it to her orally at the proper goat dose, dump the milk for 4 to 6 days, and then resume using the milk once the withdrawal period is complete. Good milking hygiene and proper chilling are the real safeguards for clean, healthy goat milk.

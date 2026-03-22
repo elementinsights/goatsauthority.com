@@ -188,4 +188,4 @@ However, it's important to remember that they require a lot of care and attentio
 
 By understanding their needs and taking the time to provide them with a clean and safe environment, you can help to make sure that your baby goats are happy and healthy.
 
-Overall, baby goats are relatively easy to care for, but they do require some special attention. By providing them with a clean and safe environment and meeting their other needs, you can help to make sure that they are happy and healthy.
+Baby goats are relatively easy to care for, but they do require some special attention. By providing them with a clean and safe environment and meeting their other needs, you can help to make sure that they are happy and healthy.

@@ -191,4 +191,4 @@ The most common colors are white, black, and brown.
 
 it's important to only consume pasteurized goat milk or products made from pasteurized goat milk. This is because raw goat milk can contain harmful bacteria that can cause illness.
 
-Overall, dairy goats are a hardy breed and have a life expectancy of 12-14 years. They are relatively easy to care for and only require a balanced diet, fresh water, and access to shelter.
+Dairy goats are a hardy breed and have a life expectancy of 12-14 years. They are relatively easy to care for and only require a balanced diet, fresh water, and access to shelter.

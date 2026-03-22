@@ -47,7 +47,7 @@ Goats are known for having a wide range of food tolerance, but there are still s
 
 What should you keep in mind, if that's the case?
 
-We'll cover everything below.we will address each of these concerns and give you some fascinating information on the nutritional value of goats.
+we will address each of these concerns and give you some fascinating information on the nutritional value of goats.
 
 ## Can Goats Eat Rice Bran?
 
@@ -65,7 +65,7 @@ So, those are a few things to keep in mind if you're going to feed rice bran to 
 
 ## What are the benefits of feeding goats rice bran?
 
-There are several benefits of feeding goats rice bran. First of all, as we mentioned before, it's a great source of energy.
+There are several benefits of feeding goats rice bran. First of all, before, it's a great source of energy.
 
 Goats need a lot of energy, especially if they're active. So, if you're looking for a way to boost their energy levels, then feeding them rice bran is a great option.
 
@@ -79,7 +79,7 @@ And since we all know that a healthy digestive system is important for overall 
 
 ## Are there any risks associated with feeding goats rice bran?
 
-As we mentioned before, there are a few things you need to keep in mind if you're going to feed your goats rice bran.
+before, there are a few things you need to keep in mind if you're going to feed your goats rice bran.
 
 The first is that it's high in fat. So, if your goats eat too much of it, they could become obese.
 
@@ -161,6 +161,6 @@ You should also make sure that your goats have plenty of water available when th
 
 When feeding goats rice bran, it's generally best to start with a smaller amount and then increase it if necessary. You can also talk to a veterinarian for more specific recommendations.
 
-Overall, goats can safely eat rice bran as part of a healthy diet. Just make sure that you're aware of the potential risks and benefits, and that you're feeding them the right amount.
+Goats can safely eat rice bran as part of a healthy diet. Just make sure that you're aware of the potential risks and benefits, and that you're feeding them the right amount.
 
 With a little bit of care, you can make sure that your goats stay healthy and happy.

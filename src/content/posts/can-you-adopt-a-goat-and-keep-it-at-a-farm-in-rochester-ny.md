@@ -42,13 +42,13 @@ faq:
 
 We all know that goats are incredibly cute, but did you know that they can also make great pets? If you're thinking about adopting a goat, you may be wondering if it's possible to keep one at a farm in Rochester NY.
 
-We'll cover everything below.we will answer those questions and provide you with the information necessary to care for your new pet goat.
+we will answer those questions and provide you with the information necessary to care for your new pet goat.
 
 ## Can you adopt a goat and keep it at a farm in Rochester NY?
 
 In addition, you will need to provide your goat with a shelter that is large enough for them to move around in and that has sufficient ventilation. The shelter should also be protected from the elements, such as wind, rain, and snow.
 
-You will also need to have a fence that is high enough to keep your goat contained. goats are known for their climbing abilities, so the fence will need to be made of materials that they cannot climb or jump over.
+You will also need to have a fence that is high enough to keep your goat contained. Goats are known for their climbing abilities, so the fence will need to be made of materials that they cannot climb or jump over.
 
 Finally, you will need to provide your goat with food and water. Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation.
 
@@ -104,7 +104,7 @@ For example, goats can safely eat plants that are poisonous to other animals, su
 
 Talking about shelter, goats do not need much. They are able to withstand cold temperatures and can even live in high altitudes.
 
-Goats are also relatively resistant to disease, although they can be susceptible to parasites if they do not have access to clean water and adequate shelter. Overall, goats are hardy creatures that can thrive in a variety of conditions.
+Goats are also relatively resistant to disease, although they can be susceptible to parasites if they do not have access to clean water and adequate shelter. Goats are hardy creatures that can thrive in a variety of conditions.
 
 ## How to handle common problems that may occur while raising goats?
 
@@ -160,7 +160,7 @@ Do not forget to factor in emergency vet costs. Goats are tough animals, but the
 
 ## Quick Recap
 
-Overall, you can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
+You can adopt goats and keep them at a farm in  Rochester NY. They are interesting creatures with their own quirks and personalities, and they can make great pets.
 
 However, there are a few things to keep in mind before taking the plunge into goat ownership. First, goats need plenty of space to roam and explore.
 

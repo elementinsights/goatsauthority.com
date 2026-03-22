@@ -110,9 +110,7 @@ If you experience persistent bloating that is not relieved by changing your diet
 
 ## What kind of cheese is best for people with bloating?
 
-There are many different types of cheese, and each one has its own unique flavor and texture. But, not all cheese is created equal when it comes to bloating.
-
-For people who are prone to bloating, it's best to choose a cheese that is high in protein and low in fat. Hard cheeses like cheddar and Parmesan are generally easy on the stomach, while soft cheeses like Brie and Camembert can be more problematic.
+There are many different types of cheese, and each one has its own unique flavor and texture. But, not all cheese is created equal it's best to choose a cheese that is high in protein and low in fat. Hard cheeses like cheddar and Parmesan are generally easy on the stomach, while soft cheeses like Brie and Camembert can be more problematic.
 
 In addition, people with bloating should avoid cheeses that are high in sodium or have added preservatives. By choosing the right cheese, people with bloating can enjoy all the flavors without all the discomfort.
 

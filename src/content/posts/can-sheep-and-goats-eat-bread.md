@@ -44,11 +44,11 @@ faq:
 
 It is difficult to determine whether or not sheep and goats can eat bread. And if so, what are the things you need to consider before feeding them this type of food?
 
-Let's break it down.we will answer those questions and provide you with additional information about sheep and goats' diets.
+we will answer those questions and provide you with additional information about sheep and goats' diets.
 
 ## Can sheep and goats eat bread?
 
-Beyond that, confirm that the bread doesn't incorporate any poisonous chemicals. A few chemicals can be fatal to sheep and goats, so it is essential to scrutinize the ingredients list before feeding them any bread.
+Beyond that, confirm that the bread doesn't incorporate any poisonous chemicals. A few chemicals can be fatal to sheep and goats, so scrutinize the ingredients list before feeding them any bread.
 
 ## What are the benefits of feeding bread to sheep and goats?
 
@@ -58,7 +58,7 @@ In addition, bread is highly palatable, which encourages animals to eat more, fu
 
 By supplementing the animals' diet with bread instead of more expensive feed options, farmers can make sure that their livestock remains healthy while also keeping their expenses low.
 
-In general, then, there are many reasons why feeding bread to sheep and goats makes sense from both animal health and economic perspectives. In fact, many farmers have seen great success by incorporating this simple feeding strategy into their operations.
+Then, there are many reasons why feeding bread to sheep and goats makes sense from both animal health and economic perspectives. In fact, many farmers have seen great success by incorporating this simple feeding strategy into their operations.
 
 ## How much bread can you feed a sheep or goat?
 
@@ -68,7 +68,7 @@ Generally speaking, smaller animals like sheep will be more easily satisfied wit
 
 In addition, fresh, high-quality bread is more nutritious for the animal than stale or processed varieties, meaning that you may need to feed your livestock more bread in order to achieve the desired nutritional benefits.
 
-In general, it is safe to say that between two to four slices of bread per day would likely be sufficient to keep most sheep and goats healthy and happy.
+It is safe to say that between two to four slices of bread per day would likely be sufficient to keep most sheep and goats healthy and happy.
 
 However, it is always important to consult with a trusted veterinarian before adjusting your animal's diet in any way.
 
@@ -104,7 +104,7 @@ Keep in mind, more serious health problems may require medication or even surger
 
 Regardless, it is always best to seek professional medical help if you are concerned about the health of your animals.
 
-Overall, there are many reasons why feeding bread to sheep and goats makes sense from both animal health and economic perspectives.
+There are many reasons why feeding bread to sheep and goats makes sense from both animal health and economic perspectives.
 
 Many people have fed their animal's bread for centuries, and this practice is common in many parts of the world.
 
@@ -128,7 +128,7 @@ So, these differences make sheep and goats suited for very different environment
 
 Sheep and goats are both ruminants, meaning that they have a special digestive system that allows them to digest rough plant material like grass and leaves.
 
-In the wild, sheep and goats eat a variety of different plants, depending on their geographic location. In general, sheep favor grasses and other short vegetation while goats prefer weeds, bushes, and shrubs.
+In the wild, sheep and goats eat a variety of different plants, depending on their geographic location. Sheep favor grasses and other short vegetation while goats prefer weeds, bushes, and shrubs.
 
 Both species will also eat acacia leaves when they are available, as well as various seeds and flowers. Both sheep and goats are known to graze on cacti in some parts of the world.
 
@@ -136,7 +136,7 @@ Because they thrive under such diverse conditions, it is no surprise that these 
 
 ## Closing Notes
 
-Overall, feeding bread to sheep and goats can be a healthy and economical way to provide them with the nutrients they need.
+Feeding bread to sheep and goats can be a healthy and economical way to provide them with the nutrients they need.
 
 However, it is important to take some simple precautions to prevent health problems. Be sure to consult with a trusted veterinarian beforehand and monitor your animals closely for any changes in their health or behavior.
 

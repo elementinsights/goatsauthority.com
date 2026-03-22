@@ -54,7 +54,7 @@ Second, remember that sheep have different nutritional needs than goats, so you'
 
 Keep in mind that sheep may not be able to digest all of the nutrients in goat food as efficiently as goats can. This means that they may not get all of the benefits from the food.
 
-Overall, adding some goat food to a sheep's diet can be beneficial, but it's important to do so carefully and with consideration for their unique needs.
+Adding some goat food to a sheep's diet can be beneficial, but it's important to do so carefully and with consideration for their unique needs.
 
 ## What is goat food and what are the benefits of feeding it to sheep?
 
@@ -66,13 +66,13 @@ In particular, goat food is rich in protein, carbohydrates, fat, vitamins, and m
 
 For example, feeding goat food to lactating ewes has been shown to boost milk production. Beyond that, feeding goat food to young or elderly sheep can help them better withstand illnesses such as pneumonia or foot rot.
 
-Overall, then, there are many good reasons for incorporating goat food into your herd management regimen.
+Then, there are many good reasons for incorporating goat food into your herd management regimen.
 
 ## How much goat food should you feed your sheep?
 
-As with most aspects of raising sheep, there is no definitive answer when it comes to feeding your flock. Different types and breeds of goats will have different nutritional needs, depending on factors like age, size, and environmental conditions.
+As with most aspects of raising sheep, there is no definitive answer depending on factors like age, size, and environmental conditions.
 
-That said, as a general guideline, sheep should be fed about one percent of their body weight in goat food per week.
+As a general guideline, sheep should be fed about one percent of their body weight in goat food per week.
 
 So for example, if you have a group of 100 smaller sheep that weigh around 75 lbs each on average, you would need to provide roughly $2 worth of food per week for them to get the nutrients they need.
 
@@ -122,7 +122,7 @@ This is because goat food generally has a higher nutrient content than regular s
 
 Since goat food tends to be lower in fiber than regular sheep feed, it can be easier for some types of sheep to digest as well.
 
-Overall, then, giving goats grazing rights on areas where you keep your sheep seems like a good choice both for the short- and long-term health of your flocks.
+Then, giving goats grazing rights on areas where you keep your sheep seems like a good choice both for the short- and long-term health of your flocks.
 
 ### Copper Toxicity: The Biggest Danger
 

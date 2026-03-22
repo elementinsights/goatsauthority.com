@@ -71,7 +71,7 @@ Satsuma leaves are high in fiber, which helps goats to digest their food proper
 
 Vitamin A helps goats to maintain healthy skin and fur, while vitamin C helps them to fight off infection. Another thing to note is satsuma leaves contain calcium, which is necessary for strong bones and teeth.
 
-Overall, satsuma leaves are an excellent source of nutrition for goats and can help them to stay healthy and lively.
+Satsuma leaves are an excellent source of nutrition for goats and can help them to stay healthy and lively.
 
 ## What are some of the other benefits of feeding goats satsuma leaves?
 

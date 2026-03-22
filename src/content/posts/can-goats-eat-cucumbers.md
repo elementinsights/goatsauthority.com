@@ -51,7 +51,7 @@ Goats are known for eating almost anything. From bananas to pumpkin, the list of
 
 In my case, and perhaps yours too, the mystery revolves around cucumbers. Can goats eat them without any harm?
 
-It might seem like an odd question but as a responsible owner, it’s important to know what our goats can safely munch on.
+It might seem like an odd question but as a goat owner, it’s important to know what our goats can safely munch on.
 
 ## Can Goats Eat Cucumbers Raw?
 
@@ -97,7 +97,7 @@ The same rule applies to all types of veggies they eat.
 
 Cooked cucumbers are also okay for goats as long as no spices or oils were used in cooking it. Spices may upset their stomachs while oil is hard for them to digest.
 
-At the end of the day, feeding your goat with either wild or cooked cucumbers is fine but always ensure its freshness before giving it.
+feeding your goat with either wild or cooked cucumbers is fine but always ensure its freshness before giving it.
 
 ## Can Goats Eat Cucumber Plants and Leaves?
 
@@ -113,7 +113,7 @@ However, remember stick to small amounts when feeding any type of fresh produce 
 
 ## Are Cucumbers Safe for Baby Goats?
 
-When it comes to baby goats, their diet needs careful attention. Can they eat cucumbers?
+Their diet needs careful attention. Can they eat cucumbers?
 
 Yes, but with some rules in mind. Cucumbers are safe for them if given as a treat and not the main meal.
 
@@ -185,11 +185,7 @@ Cucumbers also contain essential vitamins like A and K. Vitamin A supports eye h
 
 This means fewer trips to the vet for you and better overall health for your goat.
 
-But remember, balance is key when it comes to feeding goats anything new or different from their regular diet of hay or grain-based feed. Too many cucumbers might upset their stomachs because they’re not used to such food items.
-
-## Precautions When Feeding Cucumbers to Goats
-
-**Feeding cucumbers to goats is generally safe**. However, there are a few things you should keep in mind.
+But remember, balance is key there are a few things you should keep in mind.
 
 For starters, make sure the cucumber isn’t spoiled or rotten. Goats have strong stomachs but they can still get sick from bad food.
 

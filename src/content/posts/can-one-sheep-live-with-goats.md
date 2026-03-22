@@ -43,7 +43,7 @@ We all know that sheep and goats are two separate species. But can they live tog
 
 And if so, what are the best practices?
 
-Let's break it down.we'll answer all of your questions about keeping sheep and goats together. We'll discuss their different needs and how to best accommodate both animals.
+we'll answer all of your questions about keeping sheep and goats together. We'll discuss their different needs and how to best accommodate both animals.
 
 ## Can one sheep live with goats?
 
@@ -59,7 +59,7 @@ The short answer to this question is no, goats and sheep require different types
 
 On the other hand, sheep tend to be smaller and less able to endure extreme weather conditions. For this reason, sheep require a more limited range of foods in order to thrive.
 
-In general, sheep do well on pasture or hay, while grass and browse make up the bulk of a goat's diet. However, both animals require access to clean water and some vitamin supplements to stay healthy.
+Sheep do well on pasture or hay, while grass and browse make up the bulk of a goat's diet. However, both animals require access to clean water and some vitamin supplements to stay healthy.
 
 So if you're looking for an animal that can thrive on a range of foods with minimal upkeep, then goats may be the right choice for you.
 
@@ -67,17 +67,17 @@ If you're after something quieter and easier to manage, however, then sheep migh
 
 ## What are the benefits of keeping sheep and goats together?
 
-When it comes to keeping sheep and goats together, there are a number of benefits to consider. For one thing, by housing these two types of animals together, you are able to better manage their feeding and care needs.
+There are a number of benefits to consider. For one thing, by housing these two types of animals together, you are able to better manage their feeding and care needs.
 
 Unlike sheep, which tend to graze on lower vegetation near the ground, goats prefer more foliage that is higher up in trees and bushes.
 
-By keeping them together, you can rest assured that your flock will get the nutrition that they need from different sources.
+By keeping them together, you can your flock will get the nutrition that they need from different sources.
 
 Plus, having both sheep and goats together allows for greater genetic diversity within your herd.
 
 This means that there is less risk of health issues due to interbreeding and more likelihood of getting offspring with valuable traits like high milk production and superior wool quality.
 
-Hence, when it comes to keeping sheep and goats together, the benefits clearly outweigh any potential drawbacks.
+Hence, the benefits clearly outweigh any potential drawbacks.
 
 ## Are there any risks associated with keeping sheep and goats together?
 
@@ -93,9 +93,9 @@ Of course, there are some risks associated with keeping these two species togeth
 
 In particular, while they often make good companions when allowed to graze together in a confined space, grazing time is short-lived as the goats quickly outpace the sheep in consuming most plant varieties.
 
-It's also worth noting that goats can be quite brutal when it comes to herding each other away from food sources; if the grass is scarce, they will shove and even stomp on weaker members of the herd in order to get to the best bits first.
+It's also worth noting that goats can be quite brutal they will shove and even stomp on weaker members of the herd in order to get to the best bits first.
 
-Ultimately, but, it seems that the benefits of having this dynamic duo in one group far outweigh any potential drawbacks.
+But, it seems that the benefits of having this dynamic duo in one group far outweigh any potential drawbacks.
 
 ## How to prevent sheep and goats from fighting?
 
@@ -123,7 +123,7 @@ It is important to provide any necessary nutritional support and hydration, sinc
 
 Other strategies for treating sick sheep or goats may include quarantine and antiviral medications, if appropriate.
 
-Overall, with the right treatment plan and supportive care, most sick sheep and goats should be able to recover successfully.
+With the right treatment plan and supportive care, most sick sheep and goats should be able to recover successfully.
 
 ## When is the best time to shear a sheep?
 

@@ -146,11 +146,7 @@ Proper nutrition is essential for all goats, but it's especially important for p
 
 ## Frequently asked questions (FAQs) about penicillin and pregnant goats
 
-Here are some commonly asked questions when it comes to penicillin and pregnant goats.
-
-### Can I give my pregnant goat penicillin if she's sick?
-
-When a pregnant goat is sick, it's important to consult with a veterinarian before giving her any medication, including penicillin. Penicillin is a common antibiotic that is used to treat a variety of bacterial infections in goats.
+Here are some commonly asked questions it's important to consult with a veterinarian before giving her any medication, including penicillin. Penicillin is a common antibiotic that is used to treat a variety of bacterial infections in goats.
 
 However, it's important to make sure that the infection is caused by bacteria before giving your goat penicillin. This is because penicillin will not work against viral infections.
 
@@ -178,14 +174,12 @@ After giving your goat penicillin, it's important to clean the injection site wi
 
 It's also important to make sure that she has access to plenty of clean water to drink.
 
-## Wrapping Up
+## Final Thoughts
 
-Pregnant goats require special care and attention, especially when it comes to their diet and nutrition.
-
-If your pregnant goat becomes sick, it's important to consult with a veterinarian before giving her any medication, including penicillin.
+Pregnant goats require special care and attention, especially it's important to consult with a veterinarian before giving her any medication, including penicillin.
 
 Penicillin is a common antibiotic that is used to treat bacterial infections in goats. Be sure to make sure that the infection is caused by bacteria before giving your goat penicillin.
 
 Penicillin can cause side effects in both pregnant goats and their unborn kids. Some of the most common side effects include diarrhea, vomiting, and allergic reactions.
 
-Overall, penicillin is safe to give to a pregnant goat if it's necessary and prescribed by a veterinarian. However, it's important to closely monitor your goat for any side effects.
+Penicillin is safe to give to a pregnant goat if it's necessary and prescribed by a veterinarian. However, it's important to closely monitor your goat for any side effects.

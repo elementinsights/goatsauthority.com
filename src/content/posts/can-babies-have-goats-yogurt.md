@@ -48,7 +48,7 @@ we will answer all your questions regarding goat's yogurt and whether or not it'
 
 ## Can babies have goat's yogurt?
 
-That said, there are a few things to keep in mind when feeding goat yogurt to infants. Goat's milk is lower in fat than cow's milk, so it's important to choose a full-fat variety of goat's yogurt.
+There are a few things to keep in mind when feeding goat yogurt to infants. Goat's milk is lower in fat than cow's milk, so it's important to choose a full-fat variety of goat's yogurt.
 
 You should also check the labels carefully to make sure that the yogurt does not contain any added sugar. If you are wondering whether infants can eat goat cheese as well, it follows similar guidelines.
 

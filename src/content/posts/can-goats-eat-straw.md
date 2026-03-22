@@ -145,7 +145,7 @@ Goats are creatures of habit and prefer to have the same routine every day. They
 
 ## Final Thoughts
 
-Overall, straw is a safe food for goats to eat. However, there are some risks associated with feeding it to them.
+Straw is a safe food for goats to eat. However, there are some risks associated with feeding it to them.
 
 The biggest danger is that goats may choke on the long, dry stalks. To prevent this, it's important to chop the straw into small pieces before feeding it to your goats.
 

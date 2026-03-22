@@ -166,7 +166,7 @@ If you are not sure which type you are dealing with, collect a fecal sample and 
 
 ## What to Remember
 
-Overall, scours are a common problem in goats but it can be prevented with some simple steps. Make sure to provide your goats with fresh, clean water and a balanced diet.
+Scours are a common problem in goats but it can be prevented with some simple steps. Make sure to provide your goats with fresh, clean water and a balanced diet.
 
 Keep their living area clean and free of debris. And, most importantly, if you see any signs of scours, isolate the affected goat and contact your veterinarian immediately.
 

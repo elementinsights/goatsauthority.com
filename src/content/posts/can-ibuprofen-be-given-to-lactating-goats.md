@@ -68,17 +68,15 @@ Interestingly, ibuprofen can also have an effect on lactating goats. Studies hav
 
 What's more, certain studies have found that ibuprofen may help to relieve some symptoms of mastitis in goats; but, more research is needed in this area before definitive conclusions can be made.
 
-Overall, while ibuprofen may not be appropriate as a long-term solution for treating diseases in lactating goats, it can be a useful tool to help relieve some of their associated symptoms.
+While ibuprofen may not be appropriate as a long-term solution for treating diseases in lactating goats, it can be a useful tool to help relieve some of their associated symptoms.
 
 ## Is ibuprofen safe to give to lactating goats?
 
-The question of whether or not ibuprofen is safe to give to lactating goats is a complex one. On the one hand, there is some evidence that ibuprofen can have harmful effects on animal fertility, particularly when it comes to goats and other ruminants.
-
-Be aware, other research suggests that ibuprofen may actually be beneficial for certain kinds of livestock, including goats.
+The question of whether or not ibuprofen is safe to give to lactating goats is a complex one. On the one hand, there is some evidence that ibuprofen can have harmful effects on animal fertility, particularly other research suggests that ibuprofen may actually be beneficial for certain kinds of livestock, including goats.
 
 Therefore, more studies are needed in order to get a clearer picture of the effects that ibuprofen has on lactating goats.
 
-Overall, it seems likely that ibuprofen should be used carefully if given to lactating goats and animals which produce meat or dairy products for human consumption.
+It seems likely that ibuprofen should be used carefully if given to lactating goats and animals which produce meat or dairy products for human consumption.
 
 Even so, in the right circumstances, ibuprofen could potentially be an effective tool for keeping these animals healthy and productive.
 
@@ -90,7 +88,7 @@ Generally speaking, though, it is recommended that ibuprofen doses should not ex
 
 Plus, trained goat experts must carefully monitor ibuprofen intake for goats to reduce the likelihood of harmful side effects.
 
-In general, while there is no easy answer to this question, it is clear that ibuprofen should be administered with caution when treating goats.
+While there is no easy answer to this question, it is clear that ibuprofen should be administered with caution when treating goats.
 
 ## What are the side effects of ibuprofen in goats?
 
@@ -104,7 +102,7 @@ So if you're a goat owner, it's important to take measures to minimize your goat
 
 ## How to administer ibuprofen to a goat?
 
-The first step in administering ibuprofen to a goat is to evaluate the situation. If the goat has been seriously injured and is in pain, it's vital that you act quickly to help limit its suffering.
+The first step in administering ibuprofen to a goat is to evaluate the situation. If the goat has been seriously injured and is in pain, you act quickly to help limit its suffering.
 
 You may need to use force if the goat refuses to eat or drink, so be sure to approach it gently but firmly.
 
@@ -132,7 +130,7 @@ Of course, other non-medicinal options are also available, including physical th
 
  the best way to determine which treatment is right for your goat will depend on a variety of factors, including the nature and severity of the pain and the individual animal's needs and preferences.
 
-So whether you choose traditional medication or explore alternative solutions, rest assured that there are a variety of options available to help your goat feel better.
+So whether you choose traditional medication or explore alternative solutions, there are a variety of options available to help your goat feel better.
 
 ### Milk Withdrawal Period After Ibuprofen
 
@@ -152,7 +150,7 @@ A good rule of thumb is this: if the problem lasts more than 24 hours or seems t
 
 ## What to Remember
 
-In general, while there is no easy answer to the question of whether or not ibuprofen is safe for goats, it is clear that this medication should be used with caution.
+While there is no easy answer to the question of whether or not ibuprofen is safe for goats, it is clear that this medication should be used with caution.
 
 There are a number of potential side effects associated with its use, so it's important to consult with a goat expert before giving it to your goat.
 

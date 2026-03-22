@@ -48,7 +48,7 @@ we'll discuss whether or not it's safe to feed your Nubian goat raw almonds, and
 
 ## Can I feed a small amount of raw almonds to my Nubian goats?
 
-That said, it's important to remember that goats are browsers, not grazers. This means that their stomachs are designed to digest a variety of different plant materials rather than just grass.
+It's important to remember that goats are browsers, not grazers. This means that their stomachs are designed to digest a variety of different plant materials rather than just grass.
 
 Therefore, they can't digest large amounts of any one thing.
 
@@ -138,7 +138,7 @@ Nubian goats are known for being some of the most food-motivated goats around. T
 
 Because Nubians tend to produce richer, higher-fat milk, the healthy fats in almonds can actually complement their nutritional needs. The extra calories support their milk production without loading them up on carbohydrates.
 
-That said, Nubians are also prone to obesity if overfed on high-calorie snacks. Stick to the 1-2 ounce daily limit and you'll keep them happy without packing on extra weight.
+Nubians are also prone to obesity if overfed on high-calorie snacks. Stick to the 1-2 ounce daily limit and you'll keep them happy without packing on extra weight.
 
 ### Almonds to Avoid Completely
 

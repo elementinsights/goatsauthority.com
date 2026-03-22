@@ -37,7 +37,7 @@ faq:
 ---
 Can a goat sustain a concussion? Many individuals have been perplexed by this question for a very long time.
 
-Let's break it down.we go over everything you need to know regarding its causes, symptoms, treatments, and prevention measures.
+we go over everything you need to know regarding its causes, symptoms, treatments, and prevention measures.
 
 Finally, we will provide you with some interesting facts about this animal that you probably never knew before.
 

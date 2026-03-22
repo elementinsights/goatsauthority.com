@@ -40,7 +40,7 @@ faq:
 
 You may be wondering whether or infant can eat goat cheese. And if so, what are the things you need to consider before feeding your infant goat cheese?
 
-We'll cover everything below.we will answer those questions about feeding goat cheese to infants, as well as provide some tips on how to choose and store goat cheese.
+we will answer those questions about feeding goat cheese to infants, as well as provide some tips on how to choose and store goat cheese.
 
 ## Can infants eat goat cheese?
 
@@ -76,7 +76,7 @@ Thanks to its high levels of calcium and protein, goat cheese can help with bone
 
 Some research has suggested that goat cheese may help protect infants from certain illnesses such as colds and influenza.
 
-In general, then, goat cheese is an excellent source of nutrition for young children and can give them the start they need on their journey to good health.
+Then, goat cheese is an excellent source of nutrition for young children and can give them the start they need on their journey to good health.
 
 ## How to choose and store goat cheese?
 
@@ -86,7 +86,7 @@ Goat cheeses come in a wide variety of textures, from creamy and spreadable to c
 
 When it comes time to actually select your cheese at the store or market, there are a few things you can look out for.
 
-First, since we all have different preferences when it comes to taste and texture, it's always best to choose a sample of the cheese before committing to buying a full wheel or wedge.
+First, since we all have different preferences it's always best to choose a sample of the cheese before committing to buying a full wheel or wedge.
 
 This way, you can assess the flavor and consistency for yourself rather than guessing based on feedback from others.
 
@@ -108,7 +108,7 @@ These nutrients are essential for healthy development, particularly in infants. 
 
 Finally, goat cheese may help combat certain allergies by introducing children to small amounts of common allergens at a young age.
 
-Overall, it is clear that feeding your infant small amounts of goat cheese could have a number of positive effects on their health and well-being.
+It is clear that feeding your infant small amounts of goat cheese could have a number of positive effects on their health and well-being.
 
 So if you're looking to give your child a nutritional boost, consider making some tasty goat cheese part of their diet.
 

@@ -47,7 +47,7 @@ Pygmy goats are a popular breed of goat that is known for being friendly and eas
 
 If you're thinking about getting a pygmy goat, you may be wondering if you can wash and groom them.
 
-Let's break it down.we will answer those questions for you and provide you with everything you need to know about washing and grooming a pygmy goat.
+we will answer those questions for you and provide you with everything you need to know about washing and grooming a pygmy goat.
 
 ## Can I wash and groom my pygmy goat?
 
@@ -89,9 +89,7 @@ Despite these risks, pygmy goats are generally very hardy animals and make great
 
 ## How to take care of a pygmy goat?
 
-There are a few key considerations when it comes to taking care of a pygmy goat. The first step is to make sure that you have the proper space and accommodations for your pet.
-
-This means providing a sturdy, safe enclosure with plenty of room for your goat to move around and graze on grass or other suitable plants.
+There are a few key considerations safe enclosure with plenty of room for your goat to move around and graze on grass or other suitable plants.
 
 You should also be sure to keep an eye on your pygmy's diet, making sure that they always have access to high-quality food as well as clean water.
 
@@ -101,7 +99,7 @@ By being vigilant and proactive in terms of goat care, you can make sure that yo
 
 ## What do I need to wash and groom my pygmy goat?
 
-When it comes to washing and grooming your pygmy goat, there are a few key things to keep in mind. For starters, you will want to make sure you have the right tools for the job.
+There are a few key things to keep in mind. For starters, you will want to make sure you have the right tools for the job.
 
 When grooming your goat, you will need a few items including a bucket or hose with a spray nozzle, and either a soft-bristled brush or comb.
 
@@ -109,7 +107,7 @@ Always start by haltering or leading your goat to make sure that he is secure an
 
 From there, you can begin to wash and groom her as needed, paying close attention to her coat and hooves in order to keep her looking and feeling her best.
 
-Overall, with the right combination of care and attention, your pygmy goat will be happy and healthy for years to come.
+With the right combination of care and attention, your pygmy goat will be happy and healthy for years to come.
 
 ## How to bathe and groom your pygmy goat?
 
@@ -123,7 +121,7 @@ Finally, use an old towel to gently dry your pygmy goat's coat, taking care to r
 
 ## Tips for bathing and grooming your pygmy goat
 
-When it comes to bathing and grooming your pygmy goat, there are a few important things to keep in mind.
+There are a few important things to keep in mind.
 
 First, goats generally prefer regular, short baths over single long ones. Start by trimming their hooves if necessary, then gently massage shampoo into their coats using your hands or a soft brush.
 

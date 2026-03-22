@@ -70,7 +70,7 @@ Mountain goats also carry a number of diseases that can be harmful to humans, in
 
 Giardiasis is a parasitic infection that causes diarrhea, vomiting, and cramping. Both diseases can be spread to humans through contact with mountain goat feces or contaminated water sources.
 
-Overall, mountain goats can pose a serious threat to human health and safety. If you encounter a mountain goat in the wild, it's important to stay calm and avoid making sudden movements.
+Mountain goats can pose a serious threat to human health and safety. If you encounter a mountain goat in the wild, it's important to stay calm and avoid making sudden movements.
 
 If the animal becomes aggressive, try to intimidate it by making yourself appear larger and using loud noises. If all else fails, use pepper spray or another type of self-defense weapon to defend yourself from an attack.
 

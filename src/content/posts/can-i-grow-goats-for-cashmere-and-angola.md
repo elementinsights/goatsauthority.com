@@ -77,7 +77,7 @@ Ideally, there should be enough space for each goat to lie down comfortably and 
 
 While some goat farmers may opt for outdoor housing, indoor housing offers better temperature regulation and protection from predators for young or sick goats.
 
-Overall, raising goats for cashmere and Angola fiber production requires careful attention to dietary and housing needs in order to make sure optimal productivity and animal welfare.
+Raising goats for cashmere and Angola fiber production requires careful attention to dietary and housing needs in order to make sure optimal productivity and animal welfare.
 
 ## What are the benefits and challenges of raising goats for fiber production?
 
@@ -133,7 +133,7 @@ With these considerations in mind, you can be sure to successfully raise healthy
 
 ## Final Thoughts
 
-Overall, there are many things to consider when deciding whether or not to raise goats for fiber production. However, if you do your research and plan ahead, you can be sure to set yourself up for success in this rewarding endeavor.
+There are many things to consider when deciding whether or not to raise goats for fiber production. However, if you do your research and plan ahead, you can be sure to set yourself up for success in this rewarding endeavor.
 
 Not only can you provide yourself with a valuable source of income, but you can also enjoy the satisfaction of knowing that you're helping to sustain a centuries-old tradition of using natural fibers to create beautiful textiles.
 

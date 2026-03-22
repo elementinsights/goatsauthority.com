@@ -79,7 +79,7 @@ it's also important to make sure that the cotton plants that you are feeding you
 
 The amount of cotton that goats can eat depends on the individual goat and the type of plants they are eating. Younger, smaller goats will likely not be able to eat as much as older, larger goats.
 
-In general, it's best to let goats graze on a variety of different plants rather than feeding them large quantities of one type of plant. This will help them to get the nutrients they need and avoid digestive problems.
+It's best to let goats graze on a variety of different plants rather than feeding them large quantities of one type of plant. This will help them to get the nutrients they need and avoid digestive problems.
 
 ## What else can goats eat?
 

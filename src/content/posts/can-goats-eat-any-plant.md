@@ -101,7 +101,7 @@ Keep them well away from any areas where poisonous plants are known to grow. By 
 
 Goats are curious creatures, and they will often nibble on anything that catches their eye, even if it's poisonous. While most goats are resistant to many common toxins, there are still some plants that can be harmful or even fatal if ingested.
 
-As a responsible goat owner, you need to be aware of which plants are poisonous to goats and take steps to keep them out of reach.
+as a goat owner, you need to be aware of which plants are poisonous to goats and take steps to keep them out of reach.
 
 One of the most common poisonous plants for goats is called "]lovage" (Levisticum officinale). Also known as "Italian celery," lovage is a tall herb with yellowish-green flowers and dark green foliage.
 
@@ -145,8 +145,8 @@ Willow branches are also safe and beneficial. Many goat owners keep a few willow
 
 ## Key Takeaways
 
-Overall, goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.
+Goats are relatively resistant to many common toxins. However, there are still some plants that can be harmful - or even fatal - if ingested.
 
-As a responsible goat owner, it's important to be aware of which plants are poisonous to goats and take steps to keep them out of reach. If a goat does eat a poisonous plant, it's important to seek professional medical help immediately.
+as a goat owner, it's important to be aware of which plants are poisonous to goats and take steps to keep them out of reach. If a goat does eat a poisonous plant, it's important to seek professional medical help immediately.
 
 With prompt and proper treatment, most goats will recover from plant poisoning without any long-term effects.

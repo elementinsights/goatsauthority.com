@@ -64,7 +64,7 @@ You should also take care to provide plenty of food and water, as well as regula
 
 What's more, you should make sure that your animal gets regular veterinary check-ups in order to catch any health problems early on.
 
-Overall, these tips will help you make sure that your pygmy goat and mini pig live healthy, happy lives.
+These tips will help you make sure that your pygmy goat and mini pig live healthy, happy lives.
 
 ## What are pygmy goats and mini pigs?
 
@@ -82,7 +82,7 @@ There are many reasons why it can be a good idea to keep pygmy goats and mini pi
 
 They both enjoy spending time outside and roaming around in the grass, so they can benefit from having room to explore and play together.
 
-This combination of herd animals also provides a sense of companionship for both species. In general, pygmy goats are fairly docile and calm animals, while mini pigs can sometimes be more combative.
+This combination of herd animals also provides a sense of companionship for both species. Pygmy goats are fairly docile and calm animals, while mini pigs can sometimes be more combative.
 
 By living among each other, these animals can balance each other's personalities, helping to create a peaceful living environment for all involved.
 

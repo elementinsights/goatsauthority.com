@@ -85,7 +85,7 @@ Many people are surprised to learn that goat meat is actually quite healthy for 
 
 This means that it is lower in saturated fat and cholesterol, which can help to reduce your risk of heart disease. In addition, goat meat is an excellent source of protein, Vitamin B12, and iron.
 
-It also contains higher levels of certain amino acids than other types of meat. goat meat can be a great option for those looking for a healthy and delicious way to fuel their bodies.
+It also contains higher levels of certain amino acids than other types of meat. Goat meat can be a great option for those looking for a healthy and delicious way to fuel their bodies.
 
 ## What are some recipes that include goat meat?
 
@@ -113,7 +113,7 @@ Goat meat is lower in fat and calories than beef, pork, and lamb. It is also a g
 
 One downside of eating goat meat is that it can be tough and chewy. It also has a strong flavor that some people find unpleasant.
 
-Another downside is that goat meat is not as widely available as other meats, so it can be more expensive. Overall, but, goat meat is a healthy and nutritious option for those who are looking for an alternative to traditional meats.
+Another downside is that goat meat is not as widely available as other meats, so it can be more expensive. But, goat meat is a healthy and nutritious option for those who are looking for an alternative to traditional meats.
 
 ## When is the best time to buy goat meat?
 

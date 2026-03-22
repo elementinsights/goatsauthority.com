@@ -70,7 +70,7 @@ Beyond that, the medicated feed can help prevent certain health conditions from 
 
 Finally, the medicated feed can also be used as a preventative measure for some common diseases that affect future offspring, such as tetanus or certain types of parasites.
 
-Overall, when it comes to supporting optimal health in pregnant goats, the medicated feed has an important role to play.
+The medicated feed has an important role to play.
 
 ## Are there any risks associated with feeding medicated feed to pregnant goats?
 
@@ -84,7 +84,7 @@ On the other hand, there are also several potential benefits to giving pregnant 
 
 Medicated feed eliminates any uncertainties about what exactly a sick goat is being treated for and can prevent overuse or misuse of certain types of medicines that may cause harm to animals or humans.
 
-Overall, while there are some risks associated with feeding medicated feed to pregnant goats, these risks must be weighed against any potential benefits in order to make an informed decision about treatment options.
+While there are some risks associated with feeding medicated feed to pregnant goats, these risks must be weighed against any potential benefits in order to make an informed decision about treatment options.
 
 ## How should you go about introducing medicated feed to your pregnant goats' diet?
 
@@ -130,7 +130,7 @@ Stop the medicated feed within a day or two of kidding if you plan to use the co
 
 After kidding, you can switch the doe to a standard lactation ration that supports milk production without the added medication.
 
-## Wrapping Up
+## Final Thoughts
 
 Pregnant goats can eat medicated feeds without any significant risks to their health, but it is important to consult with a professional first and monitor them closely after introducing the new feed.
 

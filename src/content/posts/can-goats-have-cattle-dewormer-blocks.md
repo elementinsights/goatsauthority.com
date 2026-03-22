@@ -33,106 +33,60 @@ faq:
   - question: "Can goats have cattle dewormer blocks?"
     answer: "Goats can have cattle dewormer blocks because they contain an active ingredient called fenbendazole. This ingredient is effective against various types of gastrointestinal parasites in both cattle and goats."
   - question: "What are cattle dewormer blocks and what do they do for goats?"
-    answer: "If you need to give your goat a medication called Bute, also known as phenylbutazone, there are some important things to keep in mind."
+    answer: "If you need to give your goat a medication called Bute, also known as phenylbutazone, there are some important things to keep in mind."
   - question: "What are the benefits of using cattle dewormer blocks on goats?"
     answer: "There are many benefits to using cattle dewormer blocks on goats. One of the most important benefits is that it helps to prevent parasites from infecting your goats. Deworming your goats on a regular basis can help to keep them healthy and free from disease."
   - question: "Are there any risks associated with using cattle dewormer blocks on goats?"
-    answer: "There are some risks associated with using cattle dewormer blocks on goats. One of the most serious risks is that goats can develop an allergic reaction to the medication."
+    answer: "There are some risks associated with using cattle dewormer blocks on goats. One of the most serious risks is that goats can develop an allergic reaction to the medication."
 ---
+Cattle dewormer blocks are tempting because they seem convenient. Just set one out and let the goats lick it when they want. But this approach is a bad idea for goats, and most experienced goat owners and veterinarians will tell you to avoid them.
 
-You may be wondering if you can use cattle dewormer blocks on your goats or not. And if so, what are the things you need to consider before using them?
-
-We'll cover everything below.we will answer all of your questions so that you can make an informed decision on whether to use cattle dewormer blocks on your goats or not.
+The core problem is that goats metabolize dewormers differently than cattle and need much higher doses to get an effective parasite kill.
 
 ## Can goats have cattle dewormer blocks?
 
-In addition, cattle dewormer blocks usually contain other ingredients that are beneficial for goats such as vitamins A, D, and E.
+Technically, a goat can lick a cattle dewormer block. But the real question is whether it will do any good, and the answer is almost always no.
 
-However, not all cattle dewormer blocks are created equal. Some products may contain ingredients that are harmful to goats so it is important to read the label carefully before purchasing.
+Goats process dewormers faster than cattle, so they need significantly higher doses per pound of body weight to achieve the same effect. A free-choice block cannot deliver a controlled, adequate dose to any individual goat. Some goats will barely touch it while others will lick it constantly, and neither scenario results in proper dosing.
 
 ## What are cattle dewormer blocks and what do they do for goats?
 
-If you need to give your goat a medication called Bute, also known as phenylbutazone, there are some important things to keep in mind.
+Cattle dewormer blocks are compressed mineral and medication blocks designed for cattle to lick over time. They typically contain a deworming agent like morantel tartrate or fenbendazole mixed into a salt or mineral base.
 
-First, always follow the dosage instructions provided by a goat expert. Second, since Bute can be hard on the stomach, it's best to give it with food or milk.
-
-To wrap up, be sure to have the proper supplies on hand, including a syringe and gloves.
-
-Here's a step-by-step guide to giving your goat Bute:
-
-- Fill the syringe with the correct amount of medication, based on a veterinarian's instructions.
-- Put on a pair of gloves to protect your hands from the medication.
-- Hold the goat still and insert the syringe into the side of its mouth.
-- Slowly push the plunger down, letting the medication enter the goat's mouth.
-- Remove the syringe and let the goat drink some water or milk to help swallow the medication.
-- Repeat steps 3-5 until all of the medication has been given.
-
-By following these simple steps, you can make sure that your goat receives the Bute it needs in a safe and effective manner.
+For cattle, the slow, steady intake from licking works reasonably well because cattle are consistent lickers and the dose rates are calibrated for their metabolism. Goats are a completely different animal in this regard. Their faster drug metabolism means the trickle of dewormer they get from a block is almost never enough to kill the parasites they are carrying.
 
 ## What are the benefits of using cattle dewormer blocks on goats?
 
-There are many benefits to using cattle dewormer blocks on goats. One of the most important benefits is that it helps to prevent parasites from infecting your goats.
+Honestly, there are very few benefits. The only real advantage is convenience for the farmer, but that convenience comes at a steep cost to herd health.
 
-Deworming your goats on a regular basis can help to keep them healthy and free from disease.
-
-In addition, using cattle dewormer blocks on goats can also help to improve their overall health. Goats that are free from parasites tend to have more energy and are better able to absorb nutrients from their food.
-
-This can lead to healthier goats that are less likely to get sick.
-
-Last but not least, using cattle dewormer blocks on goats can also save you money in the long run. By preventing parasites from infecting your goats, you will not have to spend money on treating them for parasitic infections.
-
-This can save you a significant amount of money over time.
+An underdosed goat is worse than an untreated goat in many cases. Subtherapeutic doses of dewormer kill off the weakest parasites while leaving the resistant ones alive to breed. Over time, this creates a population of drug-resistant worms in your pastures that no dewormer can touch. This is how you end up with goats dying from parasites even after treatment.
 
 ## Are there any risks associated with using cattle dewormer blocks on goats?
 
-There are some risks associated with using cattle dewormer blocks on goats. One of the most serious risks is that goats can develop an allergic reaction to the medication.
+The biggest risk is building parasite resistance through consistent underdosing. Once your worm population becomes resistant to a particular drug class, that drug is useless on your farm permanently.
 
-If a goat has an allergic reaction, it can experience difficulty breathing, swelling of the face and neck, and vomiting. In some cases, an allergic reaction can be life-threatening.
-
-Another risk associated with using cattle dewormer blocks on goats is that they may not be effective against all types of parasites. If your goats are infected with a type of parasite that is not affected by the medication, they will still have the infection and can spread it to other goats.
-
-Finally, there is a risk that cattle dewormer blocks can be toxic to goats if they are used incorrectly. If a goat ingests too much of the medication, it can suffer from liver damage or even death.
-
-Therefore, it is important to follow the dosage instructions carefully and to contact a veterinarian if you have any concerns.
+There is also a false sense of security. You might think your goats are being dewormed because the block is out there, but without consistent therapeutic doses, the parasites are thriving. Meanwhile, your goats could be developing dangerous worm loads while you assume they are protected.
 
 ## How to use cattle dewormer blocks on goats?
 
-Cattle dewormer blocks are an effective way to treat and prevent worms in goats. The active ingredients in the blocks are able to kill worms, and the block will continue to release small amounts of the medication over time.
+The straightforward recommendation is to not use them. Instead, deworm your goats individually using oral or injectable products at goat-specific dose rates.
 
-This allows the goat to receive a steady dose of the dewormer, which is especially important in areas where there is a high risk of worm contamination. When using cattle dewormer blocks on goats, it is important to follow the instructions on the package.
-
-The blocks should be placed in an area that is inaccessible to goats, such as in a pen or pasture. Goats should be closely monitored after they consume the block, and any goat that becomes sick should be removed from the herd and treated by a goat expert.
+Goats generally need about twice the cattle dose for most dewormers. Fenbendazole (SafeGuard), for example, is dosed at 5 mg per kg in cattle but needs 10 mg per kg in goats. Ivermectin needs to be given orally to goats at 0.4 mg per kg, double the cattle injectable dose. Always weigh your goats or use a weight tape rather than guessing.
 
 ## Things you need to consider before using cattle dewormer blocks on goats
 
-With deworming cattle, there are a few things to take into account before selecting a dewormer block.
+Consider whether you actually need to deworm at all. Many experienced goat owners have moved to targeted selective treatment, where only the goats that need deworming get it based on FAMACHA scoring or fecal egg counts.
 
-First, it's important to consider the age and weight of the cattle. Younger, smaller cattle are more susceptible to liver fluke, so a dewormer block that targets this parasite is ideal.
-
-It's also important to consider the environment in which the cattle live.
-
-If they graze in areas with a lot of standing water, for example, they're at a higher risk for contracting parasites that thrive in damp conditions.
-
-Finally, it's worth bearing in mind that resistance to dewormers is a growing problem in cattle herds. So, it's important to select a dewormer block that contains an active ingredient that your cattle haven't been exposed to before.
-
-By taking all of these factors into account, you can be sure to select the best possible dewormer block for your cattle.
+This approach preserves dewormer effectiveness by maintaining a population of drug-susceptible worms on the pasture (called refugia). It is the opposite philosophy from putting out a block and hoping every goat gets enough medication. Work with your vet to develop a parasite management plan that fits your herd.
 
 ## Are there any alternative options to using cattle dewormer blocks on goats?
 
-Yes, there are a few alternative options for deworming goats. One option is to use an oral ivermectin solution, which is available by prescription from a veterinarian.
+Oral drenching with a syringe is the gold standard for deworming goats. It delivers a precise dose directly into the goat's mouth, ensuring the animal actually receives the full amount.
 
-This option is safer than using cattle dewormer blocks, as it minimizes the risk of side effects and resistance. Another option is to use a topical ivermectin product, which is available over the counter.
-
-This option is also safe and effective, but it may be more expensive than using cattle dewormer blocks.
-
-Finally, you can also consider using a natural wormer such as diatomaceous earth or garlic. These options are safe and effective, but they may not be as potent as ivermectin-based products.
-
-Talk to a veterinarian to see if one of these options is right for your goats.
+Injectable dewormers like ivermectin or moxidectin can also be used, though many vets prefer oral administration for goats because oral delivery provides better parasite kill rates in the gut. Pasture rotation, avoiding overgrazing, and using the FAMACHA eyelid color chart to identify which goats actually need treatment are all part of a solid parasite management program.
 
 ## Final thoughts
 
-Goats can have cattle dewormer blocks, but there are a few things to consider before using them. The active ingredient in most blocks is ivermectin, which is not approved for use in goats by the FDA.
+Cattle dewormer blocks are not appropriate for goats. They deliver inconsistent, subtherapeutic doses that promote drug-resistant parasites rather than controlling them.
 
-Ivermectin can build up in the goat's system and may cause side effects such as tremors and seizures. Finally, using cattle dewormer blocks on goats may increase the risk of resistance to ivermectin, making it less effective for treating parasites in both cattle and goats.
-
-If you decide to use cattle dewormer blocks on your goats, be sure to talk to a veterinarian first and follow the directions carefully.
+Deworm your goats individually with the right products at the right doses. It takes a few more minutes per goat, but it is the difference between a deworming program that works and one that is quietly destroying your options for the future.

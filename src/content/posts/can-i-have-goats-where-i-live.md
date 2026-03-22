@@ -42,11 +42,11 @@ faq:
 
 More people are choosing to raise goats for their various benefits. If you're one of them or thinking about it, here's what you should know.
 
-Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first.
+Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so check with your local government first.
 
 ## Can I have goats where I live?
 
-If you live in a rural area, there may be more leniency when it comes to having goats. However, if you live in an urban or suburban area, it is likely that you will need to get a permit or special permission before keeping goats.
+If you live in a rural area, there may be more leniency if you live in an urban or suburban area, it is likely that you will need to get a permit or special permission before keeping goats.
 
 Check with your local government to see if goats are allowed in your area.
 
@@ -68,7 +68,7 @@ Goats also make great companion animals. They are social creatures and do best w
 
 ## What do I need to know before getting goats?
 
-Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so it is essential to check with your local government first.
+Before you get goats, consider if they are allowed where you live. Some areas do not allow livestock, so check with your local government first.
 
 You will also need to decide what type of goats you want. There are many different breeds of goats, each with their own unique characteristics.
 
@@ -88,19 +88,19 @@ Another important aspect of goat care is vaccinations, as most types of goats re
 
 One of the most important aspects of taking care of your goats is making sure that their living environment is clean and free from parasites. This means regularly checking for things like ticks, lice, and fleas and using appropriate repellents or chemicals if necessary.
 
-Overall, keeping your goats happy and healthy requires a lot of time and attention, but the rewards of knowing that you have provided them with an excellent home can be tremendously satisfying.
+Keeping your goats happy and healthy requires a lot of time and attention, but the rewards of knowing that you have provided them with an excellent home can be tremendously satisfying.
 
 So if you're thinking about getting some goats, just remember these tips and you will be on your way to being a great goat owner.
 
 ## What kind of housing do goats need?
 
-There are a number of important considerations when it comes to housing goats, including the size and layout of the barn or enclosure, as well as the quality of food and water provided.
+There are a number of important considerations including the size and layout of the barn or enclosure, as well as the quality of food and water provided.
 
 Generally speaking, goats need plenty of space in order to be comfortable, with room to move around freely and lay down. They also require access to fresh air, so housing should include lots of windows or openings for ventilation.
 
 Their diet is very important for their health and well-being. Goats typically eat grasses and hay and therefore need plenty of varied food that is high in nutrients such as protein, calcium, and vitamin B.
 
-Overall, providing a safe, clean environment for your goats is essential for fostering their health and happiness.
+Providing a safe, clean environment for your goats is essential for fostering their health and happiness.
 
 ## How to breed goats?
 

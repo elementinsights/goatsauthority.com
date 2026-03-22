@@ -42,7 +42,7 @@ faq:
 
 Goats are fascinating animals known for their independence and are frequently utilized as working animals due to their strength and agility.
 
-But there's one frequently asked question that has been asked since a long time ago: can a goat get rabies? We'll cover everything below.we will answer that question in detail, discussing the signs and symptoms of rabies in goats, how the disease is transmitted, and what treatments are available.
+But there's one frequently asked question that has been asked since a long time ago: can a goat get rabies? we will answer that question in detail, discussing the signs and symptoms of rabies in goats, how the disease is transmitted, and what treatments are available.
 
 ## Can a goat get rabies?
 

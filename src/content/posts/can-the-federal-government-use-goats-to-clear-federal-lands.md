@@ -44,7 +44,7 @@ faq:
 
 If you are a goats owner, you may be wondering whether your goats can help with the clearance of federal lands. And if so, what are the things you need to consider?
 
-Let's break it down.we will answer those questions and provide you with additional information about using goats for clearing federal lands.
+we will answer those questions and provide you with additional information about using goats for clearing federal lands.
 
 ## Can the federal government use goats to clear federal lands?
 
@@ -120,7 +120,7 @@ Second, goats are known to be very destructive grazers, and they could potential
 
 Finally, there is a cost associated with raising and maintaining a herd of goats, which could be prohibitive for some federal agencies.
 
-Overall, while the use of goats for land clearance has some appeal, there are also some significant risks that should be considered before moving forward with this plan.
+While the use of goats for land clearance has some appeal, there are also some significant risks that should be considered before moving forward with this plan.
 
 ## How much does it cost to use goats for federal land clearance, and who pays for it?
 
@@ -134,9 +134,9 @@ The cost of using goats for federal land clearance varies depending on the size 
 
 Generally speaking, it costs about $200 per acre to graze by a herd of goats. Given that most federal land projects involve hundreds or even thousands of acres, the total cost can reach the millions.
 
-Who pays for this? At the end of the day, taxpayers foot the bill.
+Who pays for this? taxpayers foot the bill.
 
-That said, there are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
+There are some programs in place that offset the cost by allowing private companies to donate their services in exchange for tax breaks.
 
 ### Real-World Success Stories
 
@@ -156,8 +156,8 @@ Building relationships with land managers takes time, so start small. Offer your
 
 ## Summary
 
-Overall, the use of goats for federal land clearance is a viable option with several benefits. But, there are also some potential drawbacks that should be considered before moving forward with this plan.
+The use of goats for federal land clearance is a viable option with several benefits. But, there are also some potential drawbacks that should be considered before moving forward with this plan.
 
-Ultimately, the decision of whether or not to use goats for federal land clearance will come down to a cost-benefit analysis. If the benefits outweigh the costs, then it may be worth pursuing.
+The decision of whether or not to use goats for federal land clearance will come down to a cost-benefit analysis. If the benefits outweigh the costs, then it may be worth pursuing.
 
 If not, then another method of land clearance will need to be explored.

@@ -78,7 +78,7 @@ With these considerations in mind, you can successfully use Germall Plus in your
 
 There are a few key things you need to remember when adding Germall Plus to goat milk lotion.
 
-It's vital to take the product's pH level into account first and foremost; since Germall Plus has such a low pH, it can irritate the skin if placed in products that have an acidic pH balance.
+take the product's pH level into account first and foremost; since Germall Plus has such a low pH, it can irritate the skin if placed in products that have an acidic pH balance.
 
 Consequently, before adding this preservative, always check the goat milk lotion's pH levels.
 
@@ -100,7 +100,7 @@ In addition to its antimicrobial properties, Germall Plus also has several other
 
 Plus, it can help to soothe irritations like dryness or flaking, as well as prevent breakouts caused by acne-causing bacteria.
 
-Overall, Germall Plus is an ideal preservative for any personal care product looking for long-lasting protection from the effects of bacteria and other microbes.
+Germall Plus is an ideal preservative for any personal care product looking for long-lasting protection from the effects of bacteria and other microbes.
 
 Whether you're making your own lotion or using store-bought products, using Germall Plus is a smart way to make sure your skin stays healthy and beautiful.
 
@@ -112,7 +112,7 @@ Unfortunately, finding an effective alternative preservative can be challenging.
 
 Some potential alternatives include aloe vera, vitamin E oil, and essential oils like tea tree oil or rosemary oil.
 
-That said, each of these options has its own pros and cons, making it difficult to settle on a single ideal solution.
+Each of these options has its own pros and cons, making it difficult to settle on a single ideal solution.
 
  the best approach may be to use multiple different preservatives in combination, balancing out any potential issues while providing optimal protection against bacterial growth and rancidity.
 

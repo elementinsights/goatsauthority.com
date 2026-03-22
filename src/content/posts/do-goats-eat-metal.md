@@ -41,7 +41,7 @@ Taking care of goats is hard work, but it can be very rewarding. And you might b
 
 Can they eat metal?
 
-We will address all of your questions regarding goats and metal consumption in this article and help you better understand your goat's nutritional needs.
+We will address all of your questions regarding goats and metal consumption and help you better understand your goat's nutritional needs.
 
 ## Do goats eat metal?
 
@@ -93,7 +93,7 @@ The amount of metal a goat can safely consume will vary depending on the type of
 
 For example, consuming small amounts of zinc is generally considered safe for goats, while consuming large amounts of lead can be deadly.
 
-In general, goats should only consume metal objects that are small enough to pass through their digestive system without causing any blockages or damage. Anything larger than that should be avoided, as it could lead to serious health problems.
+Goats should only consume metal objects that are small enough to pass through their digestive system without causing any blockages or damage. Anything larger than that should be avoided, as it could lead to serious health problems.
 
 goats should not be given large amounts of metal objects to eat regularly, as doing so could potentially lead to health problems.
 
@@ -123,11 +123,11 @@ Powder-coating is often used on outdoor furniture and playground equipment, as i
 
 Powder-coated steel is available in a variety of colors, which can make it an attractive option for Goat owners who want their enclosure to stand out. Even so, powder-coated steel can be more expensive than galvanized steel.
 
-In general, aluminum is considered to be safe for goats. This lightweight metal is often used in the construction of Goat enclosures due to its durability and affordability.
+Aluminum is considered to be safe for goats. This lightweight metal is often used in the construction of Goat enclosures due to its durability and affordability.
 
 Aluminum is also resistant to rust and corrosion, making it a low-maintenance option for Goat owners. Still, aluminum can conduct heat, so you need to avoid using aluminum products in hot climates.
 
-Overall, many different types of metal are safe for goats to consume. Owners should carefully consider their options before choosing a material for their Goat enclosure.
+Many different types of metal are safe for goats to consume. Owners should carefully consider their options before choosing a material for their Goat enclosure.
 
 ### Hardware Disease: A Real Threat
 

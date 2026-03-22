@@ -53,7 +53,7 @@ One question that comes up often is about popcorn.
 
 It’s a simple snack we humans enjoy, but can our goats partake too? It seems harmless enough for us, but how does it affect them?
 
-We'll cover everything below.we’ll look into whether or not goats can safely munch on popcorn. Let’s get started.
+we’ll look into whether or not goats can safely munch on popcorn. Let’s get started.
 
 ## Can Goats Eat Popcorn?
 

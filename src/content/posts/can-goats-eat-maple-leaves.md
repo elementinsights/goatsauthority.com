@@ -171,11 +171,7 @@ Next step is washing the leaves thoroughly under running water. This gets rid of
 
 To wrap up, serve the maple leaves in moderation with other foods in their diet plan such as hay or grains to maintain balance nutritionally.
 
-Remember, variety is key when it comes to feeding your herd healthy meals each day.
-
-## What to Do if You Suspect That Your Goat Has Eaten a Poisonous Leaf?
-
-**If you think your goat has eaten a poisonous leaf, don’t panic**. First, try to identify the plant they’ve consumed.
+Remember, variety is key don’t panic**. First, try to identify the plant they’ve consumed.
 
 Maple leaves can be harmful for goats when wilted or dried as they contain high amounts of gallic acid.
 

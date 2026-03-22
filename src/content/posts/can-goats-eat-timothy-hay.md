@@ -60,7 +60,7 @@ There are a variety of different types of hay that can be fed to goats, and timo
 
 Timothy hay is rich in fiber and nutrients, and it can help goats maintain a healthy digestive system. In addition, timothy hay is a good source of energy, which can be beneficial for goats that are active or growing.
 
-Still, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. At the end of the day, it's up to the goat owner to experiment with different types of feed and find what works best for their animals.
+Still, not all goats will eat timothy hay, and some may prefer other types of hay or even grass. It's up to the goat owner to experiment with different types of feed and find what works best for their animals.
 
 ## Can a pregnant goat eat timothy hay?
 
@@ -78,7 +78,7 @@ Even so, timothy hay can also be dusty and may contain mold spores, which can ca
 
 Therefore, you must choose timothy hay that is dust-free and free of mold. When feeding timothy hay to lactating goats, it's also important to offer plenty of fresh water to prevent dehydration.
 
-Overall, timothy hay is a good choice for lactating goats, but it's important to select high-quality hay to avoid respiratory problems.
+Timothy hay is a good choice for lactating goats, but it's important to select high-quality hay to avoid respiratory problems.
 
 ## Can a baby goat eat timothy hay?
 
@@ -126,7 +126,7 @@ For feeding goats, there's no one-size-fits-all answer. The amount of timothy ha
 
 For example, young goats need more protein and fat than mature goats, so they will require a different ratio.
 
-Likewise, larger goats will eat more than smaller goats. In general, most experts recommend feeding goats between 1 and 2% of their body weight in hay per day.
+Likewise, larger goats will eat more than smaller goats. Most experts recommend feeding goats between 1 and 2% of their body weight in hay per day.
 
 So, if you have a 10-pound goat, you should provide them with approximately 0.2 pounds of hay per day. Of course, you should always consult with an animal expert to determine the best diet for your specific goats.
 
@@ -146,7 +146,7 @@ Feel the texture between your fingers. Quality timothy hay is soft but firm, wit
 
 Store your timothy hay in a dry, covered area off the ground. Moisture is the enemy of good hay and can quickly lead to mold growth that's dangerous for goats.
 
-## Our Take
+## 
 
 Goats can eat timothy hay. This type of hay is a good source of fiber and nutrients for goats, and it can help keep their digestive system healthy.
 

@@ -75,7 +75,7 @@ Finally, selective grazing can help to keep goats healthy and content, as they w
 
 ## How do you go about tying up your goats for restricted area grazing?
 
-When it comes to grazing, goats are not particularly picky eaters. However, they can very quickly devastate a small area of land if left unchecked.
+Goats are not particularly picky eaters. However, they can very quickly devastate a small area of land if left unchecked.
 
 One way to help prevent this is to provide them with a restricted grazing area. This can be accomplished by tying them up or building a fence around the perimeter of the area.
 
@@ -131,7 +131,7 @@ For these reasons, it's generally advisable to avoid tying up goats for transpor
 
 ## Final Thoughts
 
-Overall, goats are social creatures that need plenty of room to roam. They are curious about nature and will often try to explore their surroundings.
+Goats are social creatures that need plenty of room to roam. They are curious about nature and will often try to explore their surroundings.
 
 For these reasons, it's generally not advisable to tie up goats for transport or for extended periods of time. If you do need to tie up a goat, it's important to make sure that the area is safe and free of debris.
 

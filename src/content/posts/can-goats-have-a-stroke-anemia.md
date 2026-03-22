@@ -126,7 +126,7 @@ Bright red or pink membranes indicate a healthy goat. Pale pink, light pink, or 
 
 Heavy parasite loads, especially from the barber pole worm (Haemonchus contortus), are the most common cause of anemia in goats. Regular fecal egg counts and targeted deworming can keep parasite levels in check and reduce the risk of anemia-related complications.
 
-## Our Take
+## 
 
 Goats can have a stroke due to many different factors, including head trauma, diseases of the brain or blood vessels, and toxins. Early recognition and treatment of strokes are essential to preventing serious health problems or even death.
 

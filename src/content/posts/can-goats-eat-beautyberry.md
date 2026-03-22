@@ -89,7 +89,7 @@ The plant has purple or white berries that are about the size of a grape. Beauty
 
 First, beautyberry is rich in vitamins and minerals, which help to keep goats healthy and improve their coat condition. The berries are also a good source of fiber, which aids in digestion.
 
-In addition, beautyberry has been shown to have anti-inflammatory and antibacterial properties, which can help to protect goats from illness. Ultimately, feeding beautyberry to goats can help to improve their overall health and well-being.
+In addition, beautyberry has been shown to have anti-inflammatory and antibacterial properties, which can help to protect goats from illness. Feeding beautyberry to goats can help to improve their overall health and well-being.
 
 ## How much beautyberry can goats eat without any adverse effects?
 

@@ -49,7 +49,7 @@ But there is a catch. They are one of the most polarizing treats you can offer b
 
 Goats can eat cranberries without any health concerns. The berries are non-toxic and pose no danger to ruminant digestive systems.
 
-That said, cranberries are extremely tart compared to most fruits. Many goats will sniff them, take a nibble, and walk away unimpressed. If your goat turns its nose up at cranberries, that is perfectly normal.
+Cranberries are extremely tart compared to most fruits. Many goats will sniff them, take a nibble, and walk away unimpressed. If your goat turns its nose up at cranberries, that is perfectly normal.
 
 For the goats that do enjoy them, a small handful makes a fine occasional treat. Fruits should stay around 10% of the diet, with hay and pasture making up the bulk.
 

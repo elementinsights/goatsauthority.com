@@ -42,7 +42,7 @@ faq:
 
 If you live in Wyoming, you may be wondering if you can own a goat or not. And if so, what are the things you need to consider?
 
-Let's break it down.we will answer those questions and provide you with more details about owning a goat in Wyoming.
+we will answer those questions and provide you with more details about owning a goat in Wyoming.
 
 ## Can you own a goat in Wyoming?
 
@@ -72,11 +72,11 @@ Whether you are looking for milk or meat, whether you want to use your goats for
 
 In order to own a goat in the state of Wyoming, you must meet certain requirements set by the Department of Agriculture.
 
-In general, you must be at least 18 years old, and you must have adequate facilities and land to house your goats. You must also be able to provide adequate care and veterinary treatment for your animals.
+You must be at least 18 years old, and you must have adequate facilities and land to house your goats. You must also be able to provide adequate care and veterinary treatment for your animals.
 
 It's also worth noting that in order to keep more than two goats on a single property, you must obtain a holding permit from the Department of Agriculture.
 
-Overall, owning a goat in Wyoming requires responsibility and dedication, but if you are committed and capable of meeting these requirements, then owning a goat can be an incredibly rewarding experience.
+Owning a goat in Wyoming requires responsibility and dedication, but if you are committed and capable of meeting these requirements, then owning a goat can be an incredibly rewarding experience.
 
 ## How much does it cost to own a goat in Wyoming?
 
@@ -92,7 +92,7 @@ Whether you're just starting out with your first fluffy kid or are looking to ad
 
 In order to thrive in the harsh climate of Wyoming, goats require special care and attention. The first thing that is essential for goat health is a good diet.
 
-In general, goats should be fed a balanced diet rich in nutrients like protein, fat, carbohydrates, and vitamins.
+Goats should be fed a balanced diet rich in nutrients like protein, fat, carbohydrates, and vitamins.
 
 This can include fresh fruits and vegetables, as well as nutritious grains and hay. Regular access to clean water is important for digestion and hydration.
 

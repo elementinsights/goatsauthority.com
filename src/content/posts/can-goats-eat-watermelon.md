@@ -94,7 +94,7 @@ To avoid these dangers, only give your goats watermelon that has been grown orga
 
 Many factors go into deciding when is the best time to feed watermelon to goats. The stage of the plant's growth, the weather, and the size and age of the goats are all important considerations.
 
-In general, watermelons should not be fed to goats until they are fully ripe. This is because unripe watermelons can cause digestive upset in goats.
+Watermelons should not be fed to goats until they are fully ripe. This is because unripe watermelons can cause digestive upset in goats.
 
 Besides that, watermelons that are not yet ripe may contain harmful chemicals that can be toxic to goats. Once a watermelon is ripe, it will be safe for goats to consume.
 
@@ -162,7 +162,7 @@ Bloating is another concern. If a goat's left side looks distended and feels tig
 
 Offer baking soda free-choice in a separate feeder. Many goats will self-medicate with it when their rumen feels off. Keep an eye on any goat showing discomfort and call your vet if bloating does not resolve within an hour or two.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats can eat watermelon. However, there are a few things to keep in mind.
 

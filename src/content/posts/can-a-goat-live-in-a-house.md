@@ -55,7 +55,7 @@ Second, goats are very active creatures and they need a lot of space to run and 
 
 Third, goats are known for being escape artists. If you decide to keep your goat indoors, you will need to make sure that your home is goat-proofed so that they can’t escape.
 
-Overall, goats can make great indoor pets if you are willing to put in the time and effort to take care of them properly.
+Goats can make great indoor pets if you are willing to put in the time and effort to take care of them properly.
 
 ## What breed of goat is best for a pet?
 
@@ -143,7 +143,7 @@ So next time you see a goat, take a moment to appreciate all that these fascinat
 
 ## To Wrap Things Up
 
-Overall, goats make great pets for those who are willing to put in the time and effort. They are intelligent, friendly animals that can provide a wide range of benefits, from milk and fiber to weed control.
+Goats make great pets for those who are willing to put in the time and effort. They are intelligent, friendly animals that can provide a wide range of benefits, from milk and fiber to weed control.
 
 Of course, there are also some risks to consider, such as escape attempts and health problems. But with proper care and preparation, these risks can be easily managed.
 

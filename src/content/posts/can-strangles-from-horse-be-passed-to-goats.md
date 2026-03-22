@@ -47,7 +47,7 @@ Here's what you need to know.we will answer those questions and provide you with
 
 ## Can strangles from horse be passed to goats?
 
-That said, there are some key differences between the two animals that need to be considered.
+There are some key differences between the two animals that need to be considered.
 
 For example, horses are more likely to develop severe cases of strangles and their symptoms tend to last longer. In contrast, goats usually have milder symptoms and recover more quickly.
 
@@ -95,7 +95,7 @@ Fortunately, treatment for this disease is typically effective if it is caught e
 
 ## What are the signs of strangles in goats?
 
-When it comes to goats, one of the most common health concerns is strangles. This condition, which is caused by a bacterial infection in the lymph nodes of the throat, can cause a wide range of symptoms that vary in severity from mild to severe.
+One of the most common health concerns is strangles. This condition, which is caused by a bacterial infection in the lymph nodes of the throat, can cause a wide range of symptoms that vary in severity from mild to severe.
 
 Some of the key signs and symptoms to watch out for in your goats include lethargy, loss of appetite, fever, and swollen glands around the face and neck.
 
@@ -153,7 +153,7 @@ This setup does not have to be expensive. A few extra panels and a separate wate
 
 ## To Wrap Things Up
 
-Overall, strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.
+Strangles are a serious and contagious disease that can affect both horses and goats. This condition is caused by a bacterial infection, which can lead to a variety of symptoms including fever, coughing, loss of appetite, and swollen lymph nodes.
 
 If left untreated, strangles can be fatal; however, with early intervention and proper treatment, most animals will make a full recovery.
 

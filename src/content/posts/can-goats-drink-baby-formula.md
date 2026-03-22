@@ -120,7 +120,7 @@ About baby formula, there's no one-size-fits-all answer. The amount of formula t
 
 For example, newborn goats will need to consume more formula than older goats, and larger goats will need more than smaller goats.
 
-In general, however, you should start by feeding your goat about 4 ounces of formula per day. This can be increased or decreased as needed based on the goat's individual needs.
+However, you should start by feeding your goat about 4 ounces of formula per day. This can be increased or decreased as needed based on the goat's individual needs.
 
 If you are unsure about how much formula to feed your goat, it's always best to consult with a veterinarian or other animal expert.
 
@@ -128,7 +128,7 @@ If you are unsure about how much formula to feed your goat, it's always best to 
 
 In addition to baby formula, there are a number of other milk products that can be fed to goats. These include cow's milk, sheep's milk, and buffalo milk.
 
-Each of these milk products has its own unique nutritional profile, so you need to choose one that is appropriate for the age and size of your goat. In general, however, all of these milk products can be a good source of nutrition for goats.
+Each of these milk products has its own unique nutritional profile, so you need to choose one that is appropriate for the age and size of your goat. However, all of these milk products can be a good source of nutrition for goats.
 
 ## What are the best baby formulas for goats?
 
@@ -138,6 +138,6 @@ These formulas are typically easier for goats to digest than those that are made
 
 ## To Wrap Things Up
 
-Overall, baby formula can be a great way to feed goats. But, it's important to consider the advantages and disadvantages of doing so before making a decision.
+Baby formula can be a great way to feed goats. But, it's important to consider the advantages and disadvantages of doing so before making a decision.
 
 In addition, you should choose a goat-specific formula that is appropriate for the age and size of your goat. If you have any questions about feeding baby formula to goats, it's always best to consult with a goat expert or other animal expert.

@@ -58,7 +58,7 @@ To keep goats in Monroe County, NY, you must have a physical address within the 
 
 For example, your goats must have access to shade at all times and be kept in an enclosed space where their waste can be easily disposed of or cleaned up. You must also make sure that your goats are properly fed and healthy, with regular veterinary care provided if necessary.
 
-Overall, keeping goats in Monroe County is not a simple process and requires a good amount of time and energy to maintain properly. However, for those who are dedicated to doing so, the benefits of raising these animals can be well worth the effort involved.
+Keeping goats in Monroe County is not a simple process and requires a good amount of time and energy to maintain properly. However, for those who are dedicated to doing so, the benefits of raising these animals can be well worth the effort involved.
 
 Whether you use your goat's milk for cheese-making or simply enjoy having them as pets, keeping these animals can be a truly rewarding experience.
 
@@ -80,7 +80,7 @@ While there are many benefits to keeping goats at home, there are also a few pot
 
 This can lead to safety issues, as goats may escape into neighboring yards or even on the roads. The risk of theft is another concern, as well as property damage caused by goats chewing or stepping on things like landscaping and furniture.
 
-That said, these risks can be mitigated by taking proper precautions such as investing in secure fencing and using adequate supervision when handling your pets.
+These risks can be mitigated by taking proper precautions such as investing in secure fencing and using adequate supervision when handling your pets.
 
 With careful planning and diligent management, keeping goats in Monroe County can be safe and rewarding for both you and your animals.
 
@@ -90,9 +90,7 @@ There are several different things that we can do to prevent the risks associate
 
 The first step is to make sure that you have a proper and safe enclosure for your goats. This includes taking into consideration things like the size of your herd, the terrain, and potential hazards like predators.
 
-It is important to always be aware of goat health, especially when it comes to nutrition and sanitation.
-
-Finally, it is important to consult with local goat experts or veterinarians if you have any questions or concerns about keeping your herd safe and healthy.
+It is important to always be aware of goat health, especially it is important to consult with local goat experts or veterinarians if you have any questions or concerns about keeping your herd safe and healthy.
 
 By following these simple tips for goat care, we can help minimize the risks associated with raising goats in our community.
 
@@ -136,9 +134,9 @@ Monroe County gets real winters with heavy snow and temperatures that drop well 
 
 Heated water buckets are a must. When temperatures stay below 20 degrees for days at a time, standard water buckets will freeze solid overnight. A goat that cannot drink will not eat, and a goat that does not eat is headed for trouble fast.
 
-## Our Take
+## 
 
-In general, goats are relatively easy animals to take care of. They are social creatures that enjoy being around other goats and humans.
+Goats are relatively easy animals to take care of. They are social creatures that enjoy being around other goats and humans.
 
 They also require a relatively simple diet of hay, grass, and pellets.
 

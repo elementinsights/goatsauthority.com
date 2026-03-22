@@ -45,7 +45,7 @@ The saying goes that the eyes are the windows to the soul. But what about goats?
 
 Do they have good eyesight? What kind of things do they see when they look around?
 
-We'll cover everything below.we'll explore everything you need to know about goat vision.
+we'll explore everything you need to know about goat vision.
 
 ## Do goats have good eyesight?
 
@@ -135,7 +135,7 @@ there's not much else you need to know about goats' vision. Goats have very good
 
 They are also able to see all colors, although they may not be as vibrant as we see them. Goats have very good night vision and can see in low light conditions better than many other animals.
 
-So, if you are ever in doubt about whether or not a goat can see something, rest assured that they probably can.
+So, if you are ever in doubt about whether or not a goat can see something, they probably can.
 
 ### Why Goats Have Rectangular Pupils
 
@@ -145,7 +145,7 @@ That wide-angle vision helps them spot predators approaching from almost any dir
 
 Interestingly, goats can rotate their eyes up to 50 degrees when they lower their heads to eat. This keeps the pupils parallel to the ground at all times, maintaining that panoramic view even with their heads down.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats do have good eyesight. They are able to see all colors, although they may not be as vibrant as we see them.
 

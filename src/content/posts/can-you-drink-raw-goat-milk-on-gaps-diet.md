@@ -54,7 +54,7 @@ It's advisable for individuals with weak immune systems, pregnant women, and you
 
 If you are lactose intolerant or have milk protein sensitivities, raw goat milk may not be the ideal option as it still contains lactose and milk proteins.
 
-While raw goat milk can offer potential health benefits, it's essential to weigh the potential risks and consult a healthcare professional before incorporating it into your GAPS diet. To support gut health, it's best to have a diverse range of nutritious foods in your diet.
+While raw goat milk can offer potential health benefits, weigh the potential risks and consult a healthcare professional before incorporating it into your GAPS diet. To support gut health, it's best to have a diverse range of nutritious foods in your diet.
 
 ## Gut and Psychology Syndrome Diet (GAPS): Understanding the GAPS
 

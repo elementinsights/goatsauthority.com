@@ -119,7 +119,7 @@ Some farmers and livestock owners choose to surgically remove these cloven hoove
 
 However, these procedures can be risky and can result in infection or complications if not done properly by a trained professional.
 
-At the end of the day, whether through natural birth or surgical removal, goats possess cloven hooves at birth and retain them throughout their lives.
+whether through natural birth or surgical removal, goats possess cloven hooves at birth and retain them throughout their lives.
 
 ## Do other animals have cloven hooves as well or are they unique to goats only?
 
@@ -129,9 +129,9 @@ These distinctive feet help these animals to walk on rough or uneven terrain mor
 
 Another thing to note is cloven hooves contain special joints that allow them to pivot and flex easily, which helps these animals to maintain their balance while they move around.
 
-Overall, while goat hooves may be famous for their unique structure, other animals also have cloven hooves that serve similar purposes.
+While goat hooves may be famous for their unique structure, other animals also have cloven hooves that serve similar purposes.
 
-## Our Take
+## 
 
 Goats have cloven hooves that are split into two sections, which helps them to grip the ground and walk on uneven surfaces.
 

@@ -80,7 +80,7 @@ When approached with care and consideration, however, pine chips can offer a sus
 
 ## How do you use pine chips as bedding for goats?
 
-When it comes to using pine chips as bedding for goats, there are a few key considerations to keep in mind.
+There are a few key considerations to keep in mind.
 
 First, you need to make sure that the chips are properly aged and dry so they will not rot or mildew.
 

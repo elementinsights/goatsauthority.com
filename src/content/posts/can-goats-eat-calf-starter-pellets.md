@@ -61,7 +61,7 @@ You should always consult with a goat expert before making any changes to your g
 
 ## Can all goats eat calf starter pellets?
 
-Calf starter pellets are a type of livestock feed that is designed for calves. That said, they can also be fed to other animals, such as goats.
+Calf starter pellets are a type of livestock feed that is designed for calves. They can also be fed to other animals, such as goats.
 
 The pellets are made from a variety of ingredients, including corn, soybeans, and Alfalfa. While all goats can eat calf starter pellets, you need to choose the right type of pellet based on the age and size of the goat.
 
@@ -101,7 +101,7 @@ When used as part of a balanced diet, but, starter pellets can provide essential
 
 ## How much should you feed your goat if it's eating calf starter pellets?
 
-In general, you should feed your goat around 1 to 2 pounds of calf starter pellets per day. Of course, there are a few things to keep in mind when determining how much to feed your goat.
+You should feed your goat around 1 to 2 pounds of calf starter pellets per day. Of course, there are a few things to keep in mind when determining how much to feed your goat.
 
 First, consider the size of your goat and its current stage of growth. A larger goat or one that is still growing will need more food than a smaller adult goat.
 

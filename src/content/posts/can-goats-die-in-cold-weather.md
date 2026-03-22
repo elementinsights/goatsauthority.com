@@ -131,7 +131,7 @@ No matter what breed of goat you choose, it's important to take steps to protect
 
 consider installing a heat lamp in the goat pen. By taking these precautions, you can help your goats stay warm and healthy all winter long.
 
-## Wrapping Up
+## Final Thoughts
 
 Goats can die in cold weather if they are not properly cared for. Farmers need to take steps to protect their goats from the cold, such as providing shelter and fresh hay.
 

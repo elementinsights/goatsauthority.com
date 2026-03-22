@@ -61,7 +61,7 @@ Bottom line: yes goats can eat certain kinds of mushrooms but exercise caution w
 
 ## Which Mushrooms Are Safe for Goats?
 
-**Goats are known for their adventurous eating habits**. But when it comes to mushrooms, not all types are safe.
+**Goats are known for their adventurous eating habits**. But not all types are safe.
 
 Some mushrooms can be toxic and harmful.
 
@@ -87,7 +87,7 @@ These store-bought varieties have been grown under controlled conditions making 
 
 But beware of wild mushrooms growing in pastures or forests where you let your goats graze freely. Many species could be poisonous causing severe illness or worse death if ingested by animals including goats.
 
-All in all, it’s best to stick with store-bought kinds when feeding your pet some fungi goodness while avoiding any wild ones at all costs due to safety concerns.
+It’s best to stick with store-bought kinds when feeding your pet some fungi goodness while avoiding any wild ones at all costs due to safety concerns.
 
 ## the Risks and Benefits of Feeding Mushrooms to Goats
 
@@ -175,13 +175,7 @@ Wild mushrooms though, should be avoided completely. Many of these can cause ser
 
 If you want to feed wild mushrooms, get an expert opinion first on whether it’s safe or not.
 
-Also remember that variety is key when it comes to a goat’s diet. Too much of anything isn’t good.
-
-## Nutritional Profile of Mushrooms for Goats
-
-Mushrooms can be a tricky food for goats. They’re not part of their usual diet in the wild.
-
-Some mushrooms are safe, but others aren’t.
+Also remember that variety is key but others aren’t.
 
 Let’s talk about the nutritional value first. Mushrooms have protein and fiber which goats need.
 

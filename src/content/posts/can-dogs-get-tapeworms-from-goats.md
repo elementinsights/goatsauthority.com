@@ -161,7 +161,7 @@ Collect a stool sample in a sealed plastic bag and bring it to your vet. A fecal
 
 ## To Wrap Things Up
 
-Overall, while there are some risks associated with allowing dogs and goats to interact, these can be easily mitigated with some simple precautions.
+While there are some risks associated with allowing dogs and goats to interact, these can be easily mitigated with some simple precautions.
 
 By keeping your dog's environment clean and free of contaminated food or water, you can help reduce the likelihood of them contracting a tapeworm or other parasite. And also, using flea and tick control products can help prevent the spread of disease.
 

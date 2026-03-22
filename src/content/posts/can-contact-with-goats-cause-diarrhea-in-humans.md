@@ -169,7 +169,7 @@ If you fall into one of these higher-risk categories, you can still enjoy being 
 
 ## To Wrap Things Up
 
-Overall, contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.
+Contact with goats is generally safe. Still, there are some risks associated with it, such as the contraction of diseases.
 
 it's important to practice good hygiene and see a doctor if you think you may have contracted an infection. Goat diarrhea can cause some short-term discomfort, but it's usually not serious.
 

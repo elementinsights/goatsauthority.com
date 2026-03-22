@@ -116,7 +116,7 @@ It's a good idea to make sure that there are plenty of escape routes available f
 
 Other considerations include providing adequate space and enrichment to prevent boredom or aggressive tendencies, as well as keeping a close eye on any interactions between your chickens and pygmy goats.
 
-Overall, by taking these steps, you can help make sure that both your chickens and pygmy goats have a safe and joyful sleeping experience together.
+By taking these steps, you can help make sure that both your chickens and pygmy goats have a safe and joyful sleeping experience together.
 
 ## How to create a safe environment for pygmy goats and chickens to sleep in together?
 
@@ -166,7 +166,7 @@ Hardware cloth over any windows or ventilation openings keeps predators out whil
 
 ## What to Remember
 
-Overall, pygmy goats can make great additions to any backyard flock of chickens.
+Pygmy goats can make great additions to any backyard flock of chickens.
 
 They are relatively low-maintenance animals that are known for being gentle and good-natured.
 

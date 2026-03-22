@@ -42,11 +42,11 @@ faq:
 
 One of the most frequent inquiries regarding goats is whether or not they can feed quads.
 
-We shall look into the subject of feeding goats in this article and respond to some of the most frequently posed queries.
+We shall look into the subject of feeding goats and respond to some of the most frequently posed queries.
 
 ## Can a goat feed Quads?
 
-Some goats with just two teats can produce more milk than a goat with four or more teats. That said, it's still possible for a goat to not have enough milk to feed all her quads.
+Some goats with just two teats can produce more milk than a goat with four or more teats. It's still possible for a goat to not have enough milk to feed all her quads.
 
 If this is the case, you will need to supplement with bottle-feeding.
 
@@ -100,7 +100,7 @@ Finally, it helps to keep their coat soft and healthy.
 
 ## How can you tell if a goat is malnourished or not getting enough to eat?
 
-One of the most important things to consider when it comes to raising goats is their diet. Goats are naturally curious creatures and will often put anything they can find into their mouths, including harmful plants and objects.
+One of the most important things to consider including harmful plants and objects.
 
  it's important to make sure that goats have access to a healthy diet that meets all their nutritional needs. If a goat is not getting enough to eat, it may become malnourished.
 

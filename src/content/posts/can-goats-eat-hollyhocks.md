@@ -45,7 +45,7 @@ Every goat owner faces different challenges depending on their setup. Part of th
 
 So, can goats eat hollyhocks? And if so, what are the benefits and risks?
 
-Let's break it down.we will answer these questions and more. We'll also give you some information on hollyhocks, including their nutritional content and the best way to feed them to your goats.
+we will answer these questions and more. We'll also give you some information on hollyhocks, including their nutritional content and the best way to feed them to your goats.
 
 ## Can goats eat hollyhocks?
 
@@ -141,7 +141,7 @@ By following these simple tips, you can help your goats stay healthy and happy.
 
 ## Key Takeaways
 
-Overall, hollyhocks can be a great addition to your goats' diet. They are an excellent source of nutrients, and they can also help to keep your goats' digestive system healthy.
+Hollyhocks can be a great addition to your goats' diet. They are an excellent source of nutrients, and they can also help to keep your goats' digestive system healthy.
 
 But, it's important to take some steps to prepare the plants before feeding them to your goats.
 

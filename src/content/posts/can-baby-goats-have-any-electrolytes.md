@@ -40,7 +40,7 @@ faq:
     answer: "The amount of electrolyte solution that baby goats should drink per day will depend on a few factors, including their age, weight, and activity level."
 ---
 
-When it comes to baby goats, many people are curious about their health and what they need in order to thrive.
+Many people are curious about their health and what they need in order to thrive.
 
 Read on for the full breakdown.we'll explore the topic of electrolytes and baby goats and how they can benefit from them. We'll also provide some helpful tips on breeding your own baby goats.
 
@@ -98,7 +98,7 @@ With proper treatment, most baby goats will make a full recovery.
 
 In addition to dehydration, baby goats may also experience other symptoms of electrolyte deficiency, such as weakness, tremors, and seizures. If you notice any of these symptoms in your baby goat, you need to seek goat expert care immediately.
 
-With proper treatment, most baby goats will make a full recovery from electrolyte deficiency. That said, if left untreated, electrolyte deficiency can lead to serious health problems, such as organ damage and death.
+With proper treatment, most baby goats will make a full recovery from electrolyte deficiency. If left untreated, electrolyte deficiency can lead to serious health problems, such as organ damage and death.
 
 ## How can you prevent electrolyte deficiency in baby goats?
 

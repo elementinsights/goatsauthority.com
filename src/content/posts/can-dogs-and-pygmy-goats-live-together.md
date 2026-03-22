@@ -124,7 +124,7 @@ Never leave them alone together unsupervised until you are completely confident 
 
 ## Key Takeaways
 
-Overall, there are both advantages and disadvantages to having a dog and a pygmy goat as pets. It's important to carefully consider all of the potential pitfalls before making a decision, as some of these drawbacks can be significant.
+There are both advantages and disadvantages to having a dog and a pygmy goat as pets. It's important to carefully consider all of the potential pitfalls before making a decision, as some of these drawbacks can be significant.
 
 However, if you do your research and choose the right breed of dog, the two animals can coexist peacefully and even form a strong bond.
 

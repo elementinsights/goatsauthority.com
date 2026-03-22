@@ -43,7 +43,7 @@ We all know that aspirin is a pain reliever, but did you know that it can also h
 
 But what about giving aspirin to baby goats? Is it safe?
 
-Let's break it down.we will answer the question: can I give baby aspirin to my baby goat? We will also provide everything you need to know about giving aspirin to your goat, including the proper dosage.
+we will answer the question: can I give baby aspirin to my baby goat? We will also provide everything you need to know about giving aspirin to your goat, including the proper dosage.
 
 ## Can I give baby aspirin to my baby goat?
 
@@ -133,7 +133,7 @@ These natural remedies can be highly effective at reducing inflammation and easi
 
 Other options include massage therapy and acupuncture, both of which can help to relieve stress and tension in baby goats andpromote better overall health.
 
-At the end of the day, the best approach will depend on the specific needs of each individual animal, so it is important to work with a trusted goat expert or other trusted medical professional when determining the most appropriate course of treatment.
+the best approach will depend on the specific needs of each individual animal, so it is important to work with a trusted goat expert or other trusted medical professional when determining the most appropriate course of treatment.
 
 ### How to Crush and Administer Aspirin to a Baby Goat
 

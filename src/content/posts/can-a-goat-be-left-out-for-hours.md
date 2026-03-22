@@ -61,7 +61,7 @@ While goats are generally hardy animals, they still need access to shelter and f
 
 Goats are most comfortable in temperatures between 32 and 85 degrees Fahrenheit, so they should be brought inside or given access to a sheltered area when the weather gets too extreme.
 
-In general, goats can spend several hours outside without issue, but they should always have access to shelter if they need it. With proper care and attention, goats can be a versatile and low-maintenance addition to any farm.
+Goats can spend several hours outside without issue, but they should always have access to shelter if they need it. With proper care and attention, goats can be a versatile and low-maintenance addition to any farm.
 
 ## What are the risks of leaving a goat out for too long?
 
@@ -87,7 +87,7 @@ Therefore, it's important to check on your goats regularly and make sure that th
 
 Goats are relatively low-maintenance animals, but they still require some care and attention.
 
-As mentioned before, goats need access to shelter, food, and water. They also need to be vaccinated against common diseases such as rabies, chlamydia, and tetanus.
+goats need access to shelter, food, and water. They also need to be vaccinated against common diseases such as rabies, chlamydia, and tetanus.
 
 Beyond that, goats should be groomed regularly to remove dirt, debris, and parasites. Grooming also helps to prevent mats and tangles from forming in their fur.
 
@@ -129,7 +129,7 @@ At the same time, there are also some drawbacks to owning a goat. Goats require 
 
 They also need access to shelter, food, and water. Finally, goats are susceptible to several diseases and parasites.
 
-Overall, goats can make wonderful pets or working animals. But, it's important to do your research before you decide to bring one home.
+Goats can make wonderful pets or working animals. But, it's important to do your research before you decide to bring one home.
 
 ## Goat-related facts that you didn't know before
 
@@ -175,7 +175,7 @@ If your goat seems disoriented or wobbly on its feet, dehydration could be setti
 
 During cold weather, shivering and huddling in a corner are signs that your goat needs to come inside. Frostbitten ears will look pale or waxy at the tips.
 
-## Our Take
+## 
 
 Goats can be left out for hours as long as they have access to shelter, food, and water. It's important to check on them regularly, but, as goats are social animals that thrive on companionship.
 

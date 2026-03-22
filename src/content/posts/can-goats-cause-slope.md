@@ -166,7 +166,7 @@ For steep slopes, keep stocking rates low and adjust based on what you see. If b
 
 ## Key Takeaways
 
-Overall, goats can be an effective tool for slope stabilization. Their ability to eat vegetation helps to keep the ground in place and their hooves compact the soil, making it less likely to erode.
+Goats can be an effective tool for slope stabilization. Their ability to eat vegetation helps to keep the ground in place and their hooves compact the soil, making it less likely to erode.
 
 Goats also create a natural barrier against weeds, which can further help to stabilize slopes. While there are some potential drawbacks to using goats for this purpose, on balance, they offer a number of potential benefits.
 

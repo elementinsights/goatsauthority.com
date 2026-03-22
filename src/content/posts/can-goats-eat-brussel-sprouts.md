@@ -91,7 +91,7 @@ These leaves are high in fiber and vitamins, making them a solid addition to you
 
 Brussels sprout seeds are safe for goats to eat. They’re small and digestible, and they don’t contain anything harmful.
 
-That said, seeds are tiny and offer minimal nutritional benefit compared to the actual sprout. You’re better off feeding the vegetable itself and saving your seeds for planting next season.
+Seeds are tiny and offer minimal nutritional benefit compared to the actual sprout. You’re better off feeding the vegetable itself and saving your seeds for planting next season.
 
 ## Health Benefits of Feeding Brussels Sprouts to Goats
 
