@@ -1,7 +1,7 @@
 export const categoryGuides: Record<string, {
   title: string;
   intro: string;
-  sections: { heading: string; content: string; links?: { text: string; href: string }[] }[];
+  sections: { heading: string; content: string; links?: { text: string; href: string }[]; tip?: string; table?: { headers: string[]; rows: string[][] } }[];
   faq: { question: string; answer: string }[];
 }> = {
   'what-do-goats-eat': {
@@ -11,6 +11,8 @@ export const categoryGuides: Record<string, {
       {
         heading: 'Hay, Forage, and Browse: Building the Foundation of Your Goat\'s Diet',
         content: 'Hay and forage should make up 75-80% of what your goats eat every single day. The rumen — that massive fermentation vat in your goat\'s belly — needs a steady supply of long-stem fiber to function properly.\n\nWithout a solid foundation of quality roughage, your goats will develop digestive problems, nutritional deficiencies, and behavioral issues from boredom. This is non-negotiable for any goat feeding program.\n\nTimothy hay is an excellent all-around choice for most goats. It\'s moderate in protein (around 7-11%), high in fiber, and most goats find it palatable.\n\nOrchard grass is another great option with a slightly softer texture that picky eaters often prefer. Bermuda grass hay works well in southern climates.\n\nFor goats with higher nutritional demands — pregnant does, lactating does, and growing kids — alfalfa hay provides significantly more protein (15-20%) and calcium. However, too much alfalfa in bucks or wethers can contribute to urinary calculi, so balance is key.\n\nBeyond hay, goats thrive when they have access to natural browse. This is what they\'d eat in the wild: leaves, twigs, bark, brambles, and weeds.\n\nGoats are one of the few livestock animals that will eagerly tackle brushy, overgrown areas. They\'ll strip the leaves off honeysuckle vines, munch on blackberry brambles thorns and all, and happily devour dandelions and other broadleaf weeds.\n\nMany goat owners use their herds specifically for land clearing, and the goats love every minute of it. One critical rule: never feed moldy hay.\n\nWhile goats are more resistant to mold than horses, moldy hay can still cause listeriosis — a deadly brain infection. If you open a bale and see white, blue, or black mold, or if it smells musty and off, toss it.\n\nThe cost of a bale of hay is nothing compared to losing a goat. Similarly, goats can eat straw for roughage, but it has almost zero nutritional value and should only supplement, never replace, quality hay.\n\nDuring winter months when natural browse is limited, you\'ll need to increase hay quantities. A standard adult goat eats 2-4 pounds of hay per day, but this can increase to 5+ pounds in cold weather when they\'re burning extra calories to stay warm.\n\nAlways provide hay free-choice so goats can eat when they need to.',
+        tip: 'Always smell hay before buying. Good hay smells fresh and sweet. If it smells musty or moldy, pass on it — moldy hay can cause listeriosis and kill goats.',
+        table: { headers: ['Hay Type', 'Protein %', 'Best For'], rows: [['Timothy', '7-11%', 'Adult wethers and bucks'], ['Orchard Grass', '10-12%', 'All goats, picky eaters'], ['Bermuda Grass', '8-10%', 'Southern climates'], ['Alfalfa', '15-20%', 'Pregnant/lactating does, growing kids']] },
         links: [
           { text: 'What Kind of Hay Do Goats Eat?', href: '/what-kind-of-hay-do-goats-eat/' },
           { text: 'Can Goats Eat Timothy Hay?', href: '/can-goats-eat-timothy-hay/' },
@@ -23,6 +25,7 @@ export const categoryGuides: Record<string, {
       {
         heading: 'Grains, Pellets, and Concentrates: When and How to Supplement',
         content: 'Grain is one of the most misunderstood parts of goat nutrition. Many new owners either overfeed grain (causing bloat, enterotoxemia, and obesity) or avoid it entirely when their goats actually need the extra calories.\n\nThe truth is somewhere in the middle, and it depends entirely on your goat\'s life stage, workload, and body condition. For most adult goats on good pasture with quality hay, grain is unnecessary.\n\nWethers (castrated males) and dry does in good body condition can thrive on hay, browse, and minerals alone. However, pregnant does in their last 6 weeks of gestation need supplemental grain — typically 1/2 to 1 pound per day — to support the rapid growth of their kids.\n\nLactating does need even more, often 1 pound of grain for every 3 pounds of milk they produce daily. Oats are one of the safest grains for goats because they\'re lower in starch than corn and less likely to cause acidosis if you accidentally overfeed.\n\nWhole oats are better than rolled or crimped oats because they slow down consumption. Corn provides excellent energy and is useful for putting weight on thin goats or during cold weather, but it runs hot and can cause problems in large amounts.\n\nMany goat owners use a commercial goat feed pellet, which blends grains with vitamins and minerals for a balanced ration. Alfalfa pellets are a convenient way to boost protein and calcium, especially for does in milk.\n\nHowever, they should not replace long-stem hay because pellets don\'t provide the same rumen stimulation. Some owners worry about alfalfa pellets causing bloat — and while any sudden dietary change can cause digestive upset, properly introduced alfalfa pellets are safe for most goats.\n\nA few important rules: never feed goats chicken feed (it often contains medications toxic to goats), be careful with cattle feed (the copper levels may be too low for goats, and medicated cattle feed can be dangerous). Always introduce new grains gradually over 7-10 days to let the rumen bacteria adjust.',
+        tip: 'Always introduce new grains gradually over 7-10 days. A sudden switch can cause deadly bloat or enterotoxemia within hours.',
         links: [
           { text: 'Can Goats Eat Oats?', href: '/can-goats-eat-oats/' },
           { text: 'Can Goats Eat Corn?', href: '/can-goats-eat-corn/' },
@@ -35,6 +38,7 @@ export const categoryGuides: Record<string, {
       {
         heading: 'Fruits Goats Love: Safe Options and How to Feed Them',
         content: 'Fruits are one of the best treats you can give your goats. They\'re packed with vitamins, natural sugars for quick energy, and most goats go absolutely crazy for them.\n\nThat said, fruits should always be treats — no more than 10% of your goat\'s daily intake. Too much fruit means too much sugar, which can disrupt rumen pH and cause digestive problems.\n\nApples are probably the most popular goat treat, and for good reason. They\'re affordable, widely available, and goats love them.\n\nCut them into quarters to reduce choking risk, and don\'t worry too much about seeds — a few apple seeds won\'t hurt a goat, though you shouldn\'t feed them apple seeds by the handful. Bananas are another huge hit, and you can feed the peel too.\n\nWatermelon is a fantastic summer treat that helps with hydration — goats will eat the rind, flesh, and seeds. Pumpkin is a superstar goat treat with an extra benefit: the seeds contain cucurbitacin, a compound that may help with intestinal parasites.\n\nMany goat owners feed pumpkins heavily in the fall when they\'re cheap and abundant. Just make sure any pumpkin you feed isn\'t moldy or rotting.\n\nBerries of all kinds — blueberries, blackberries, strawberries, and cranberries — are safe and nutritious, though they can be expensive to feed in quantity. Citrus fruits like oranges are a topic of debate among goat owners.\n\nMost goats can eat oranges safely, though some will refuse them because of the strong smell. The vitamin C is beneficial, but the acidity can cause loose stools if you overdo it.\n\nStone fruits like peaches and plums are safe, but always remove the pits first — they contain small amounts of cyanide compounds. Grapes and raisins are safe for goats (unlike dogs, goats can process them without kidney damage) and make excellent training treats.\n\nOne fruit to absolutely avoid: avocado. The skin, pit, and leaves contain persin, which is toxic to goats and can cause difficulty breathing, fluid accumulation around the heart, and death.\n\nKeep avocado trees fenced off from your goats entirely.',
+        table: { headers: ['Fruit', 'Safe?', 'Notes'], rows: [['Apples', 'Yes', 'Cut into quarters, seeds OK in small amounts'], ['Bananas', 'Yes', 'Peel is safe too'], ['Watermelon', 'Yes', 'Rind, flesh, and seeds all safe'], ['Pumpkin', 'Yes', 'Seeds may help with parasites'], ['Grapes/Raisins', 'Yes', 'Great training treats'], ['Avocado', 'NO', 'Persin is toxic — can be fatal']] },
         links: [
           { text: 'Can Goats Eat Apples?', href: '/can-goats-eat-apples/' },
           { text: 'Can Goats Eat Bananas?', href: '/can-goats-eat-bananas/' },
@@ -47,6 +51,7 @@ export const categoryGuides: Record<string, {
       {
         heading: 'Vegetables for Goats: From Garden Scraps to Nutritional Powerhouses',
         content: 'Vegetables are a nutritious addition to your goat\'s diet, and feeding garden scraps to your goats is one of the great perks of keeping a small herd. Most common garden vegetables are perfectly safe, but there are a few important exceptions you need to know about.\n\nCarrots are a top-tier goat vegetable. They\'re crunchy, sweet, and loaded with beta-carotene.\n\nMost goats will eat them whole, but cutting them into chunks reduces the (admittedly small) choking risk. Squash of all varieties — zucchini, butternut, acorn, yellow squash — is safe and goats seem to genuinely enjoy it.\n\nSweet potatoes are excellent and more nutritious than regular potatoes. Cucumbers are hydrating and safe, making them a great warm-weather treat.\n\nBrassicas like broccoli, cabbage, cauliflower, and brussel sprouts are safe in moderation. These vegetables can cause gas in large quantities, so introduce them slowly and keep portions reasonable.\n\nKale and spinach are nutritious but high in oxalates, which can interfere with calcium absorption if fed excessively. A handful here and there is fine; a wheelbarrow full every day is not.\n\nBell peppers are a great choice — goats can eat all colors. However, be cautious with hot peppers, as they can irritate the mouth and digestive tract.\n\nCelery is safe and most goats enjoy the crunch. Radishes and turnips, including their greens, are both safe options that many goats appreciate.\n\nHere are the vegetables to avoid or feed with extreme caution. Regular potatoes are risky because the green parts and sprouts contain solanine, which is toxic.\n\nIf you feed potatoes at all, make sure they\'re ripe with no green spots. Onions are toxic to goats in large amounts — they can cause hemolytic anemia.\n\nA small piece accidentally won\'t kill a goat, but never feed onions as a regular treat. Raw green beans are safe, and goats typically enjoy them as a crunchy snack.\n\nEggplant belongs to the nightshade family and the leaves and stems are toxic, though the fruit itself is generally safe in small amounts.',
+        tip: 'When feeding potatoes, always check for green spots first. Green potatoes contain solanine, which is toxic to goats even in small amounts.',
         links: [
           { text: 'Can Goats Eat Carrots?', href: '/can-goats-eat-carrots/' },
           { text: 'Can Goats Eat Squash?', href: '/can-goats-eat-squash/' },
@@ -59,6 +64,8 @@ export const categoryGuides: Record<string, {
       {
         heading: 'Toxic Plants and Dangerous Foods Every Goat Owner Must Know',
         content: 'This is the section that could save your goat\'s life. While goats have a reputation for eating anything, the reality is that dozens of common plants, trees, and household foods can sicken or kill them.\n\nKnowing what\'s toxic — and removing it from your pasture before it becomes a problem — is one of your most important responsibilities as a goat owner. Let\'s start with the most dangerous plants.\n\nPoison hemlock is one of the deadliest plants a goat can encounter. All parts of the plant are toxic, and ingestion can cause respiratory failure within hours.\n\nRhododendron and azalea contain grayanotoxins that cause vomiting, weakness, and cardiac failure. Laurel leaves are similarly dangerous.\n\nNightshade plants (the wild kind, not tomatoes) contain solanine and atropine, both of which can be fatal. Cherry trees are a sneaky danger — fresh leaves are generally safe, but wilted leaves (like after a storm breaks branches) concentrate cyanide compounds and can kill a goat quickly.\n\nSeveral common landscape trees and shrubs are also problematic. Yew is extremely toxic — even a small amount can stop a goat\'s heart.\n\nBlack walnut leaves and bark contain juglone, which can cause laminitis and other issues. Some goat owners report problems with cedar, though opinions are divided on whether cedar browse is truly dangerous or just unpalatable in large amounts.\n\nOn the food side, chocolate is toxic to goats (just like dogs). Avocado contains persin, which is dangerous.\n\nOnions can cause hemolytic anemia. Moldy or rotten food of any kind can harbor mycotoxins and cause listeriosis.\n\nMushrooms are a wildcard — while most are harmless, it\'s nearly impossible for a layperson to distinguish safe mushrooms from toxic ones in a pasture, so the safest approach is to remove any mushrooms you find. One surprising addition to the caution list: medicated feeds designed for other animals.\n\nChicken feed often contains monensin, which is fatal to goats even in small amounts. Some cattle feeds contain medications that goats can\'t tolerate.\n\nAlways use feed specifically formulated for goats, and store all animal feeds where goats can\'t access them. A goat that breaks into the feed room and gorges on grain or medicated feed is a veterinary emergency.',
+        tip: 'Walk your pasture at least twice a year — spring and fall — to identify and remove toxic plants before your goats find them.',
+        table: { headers: ['Toxic Plant', 'Toxic Part', 'Symptoms'], rows: [['Poison Hemlock', 'All parts', 'Respiratory failure, death within hours'], ['Rhododendron/Azalea', 'All parts', 'Vomiting, weakness, cardiac failure'], ['Yew', 'All parts', 'Sudden cardiac arrest'], ['Cherry (wilted leaves)', 'Wilted leaves', 'Cyanide poisoning, rapid death'], ['Nightshade', 'All parts', 'Neurological symptoms, death'], ['Avocado', 'Skin, pit, leaves', 'Breathing difficulty, heart fluid buildup']] },
         links: [
           { text: 'Can Goats Eat Poison Hemlock?', href: '/can-goats-eat-poison-hemlock/' },
           { text: 'Can Goats Eat Laurel Leaves?', href: '/can-goats-eat-laurel-leaves/' },
@@ -91,6 +98,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Eat Henbit?', href: '/can-goats-eat-henbit/' },
           { text: 'Can Goats Eat St. John\'s Wort?', href: '/can-goats-eat-st-johns-wort/' },
         ],
+        tip: 'Plant oregano, thyme, and rosemary along fence lines where goats can nibble freely. These herbs are natural antimicrobials and support gut health.',
       },
       {
         heading: 'Treats and Snacks: What Human Foods Can Goats Have?',
@@ -103,6 +111,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Have Peppermint Treats?', href: '/can-goats-have-peppermint-treats/' },
           { text: 'Can Goats Eat Popcorn?', href: '/can-goats-eat-popcorn-simple-guide-to-a-healthy-diet/' },
         ],
+        table: { headers: ['Treat', 'Safe?', 'Notes'], rows: [['Peanut butter', 'Yes', 'Great for hiding medication'], ['Sunflower seeds (BOSS)', 'Yes', 'Improves coat condition'], ['Raisins', 'Yes', 'Perfect training treats'], ['Plain popcorn', 'Yes', 'No salt, butter, or seasoning'], ['Chocolate', 'NO', 'Theobromine is toxic'], ['Processed snacks', 'NO', 'Too much salt and artificial ingredients']] },
       },
       {
         heading: 'Minerals, Supplements, and Nutritional Essentials',
@@ -113,6 +122,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can Pregnant Goats Eat Medicated Feed?', href: '/can-pregnant-goats-eat-medicated-feed/' },
           { text: 'Can Goats Eat Spelt?', href: '/can-goats-eat-spelt/' },
         ],
+        tip: 'If your black goats are turning reddish-brown, that is the classic sign of copper deficiency. Give a COWP bolus and check your mineral mix immediately.',
+        table: { headers: ['Mineral', 'Why It Matters', 'Deficiency Signs'], rows: [['Copper', 'Immune function, coat color, reproduction', 'Faded coat, fish tail, poor growth'], ['Selenium', 'Muscle development, immune health', 'White muscle disease in kids, weak newborns'], ['Zinc', 'Hoof health, skin integrity', 'Flaky skin, poor hoof quality'], ['Calcium', 'Bone growth, milk production', 'Milk fever in does, weak bones in kids']] },
       },
       {
         heading: 'Feeding Pregnant and Lactating Does: Nutrition That Matters Most',
@@ -204,6 +215,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Pregnant Goats Eat Medicated Feed?', href: '/can-pregnant-goats-eat-medicated-feed/' },
           { text: 'Can Pregnant Goats Have Injectable B12?', href: '/can-pregnant-goats-have-injectable-b12/' },
         ],
+        table: { headers: ['Vaccine', 'When to Give', 'Frequency'], rows: [['CDT (kids)', '4-8 weeks old', 'Booster 3-4 weeks later, then annual'], ['CDT (adults)', 'Annually', 'Once per year'], ['CDT (pregnant does)', '4 weeks before kidding', 'Each pregnancy'], ['Rabies (optional)', 'Per vet recommendation', 'Annual (off-label)'], ['CL (optional)', 'Per vet recommendation', 'Annual if used']] },
       },
       {
         heading: 'Internal Parasites and Deworming Strategies',
@@ -216,6 +228,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Worm My Three-Day-Old Goat?', href: '/can-i-worm-my-three-day-old-goat/' },
           { text: 'Can I Treat Coccidia in Goats Through Their Water Bowl?', href: '/can-i-treat-coccidia-in-goats-in-their-water-bowl/' },
         ],
+        tip: 'Check FAMACHA scores every 2 weeks during warm, wet months. A score of 4 or 5 means that goat needs immediate deworming.',
+        table: { headers: ['Dewormer', 'Active Ingredient', 'Dosage (oral)', 'Resistance Level'], rows: [['SafeGuard', 'Fenbendazole', '10 mg/kg for 3 days', 'High (often ineffective)'], ['Ivermectin', 'Ivermectin', '0.4 mg/kg', 'Moderate'], ['Cydectin', 'Moxidectin', '0.4 mg/kg', 'Low (reserve for heavy loads)'], ['Prohibit', 'Levamisole', '8 mg/kg', 'Low'], ['Corid (for coccidia)', 'Amprolium', '50 mg/kg for 5 days', 'Low']] },
       },
       {
         heading: 'External Parasites: Lice, Mites, and Ticks',
@@ -237,6 +251,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Bury a Goat with Johne\'s Disease?', href: '/can-i-bury-a-goat-with-johnes-disease/' },
           { text: 'Can Goats Get Listeriosis from Chicken Feces?', href: '/can-goats-get-listeriosis-from-chicken-feces/' },
         ],
+        tip: 'Listeriosis and goat polio look almost identical (circling, head tilt, depression). If you are unsure which it is, treat for both simultaneously with penicillin and thiamine injections.',
+        table: { headers: ['Disease', 'Key Symptoms', 'Treatment', 'Preventable?'], rows: [['Enterotoxemia', 'Sudden bloat, convulsions, death', 'Usually too late; antitoxin if caught early', 'Yes (CDT vaccine)'], ['Pneumonia', 'Coughing, nasal discharge, fever >104F', 'Antibiotics (oxytetracycline, nuflor)', 'Partly (ventilation, reduce stress)'], ['Listeriosis', 'Circling, head tilt, drooling', 'High-dose penicillin every 6 hrs, 2 weeks', 'Yes (avoid moldy feed)'], ['Goat Polio', 'Star-gazing, blindness, seizures', 'Thiamine (B1) injections', 'Yes (avoid sudden diet changes)'], ['CAE', 'Joint swelling, hard udder', 'No cure, manage and cull', 'Yes (test and separate at birth)']] },
       },
       {
         heading: 'Digestive Problems: Bloat, Scours, and Upset Stomachs',
@@ -248,6 +264,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Too Much Field Time Cause Scours in Goats?', href: '/can-too-much-field-time-cause-scours-in-goats/' },
           { text: 'Can Goats Drink Vinegar?', href: '/can-goats-drink-vinegar/' },
         ],
+        tip: 'Keep a bottle of vegetable oil in your barn at all times. For frothy bloat, drench 60-120 ml orally to break up the foam and it can save your goat\'s life in minutes.',
       },
       {
         heading: 'Hoof Care and Hoof Diseases in Goats',
@@ -256,6 +273,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Hoof Rot Kill a Goat?', href: '/can-hoof-rot-kill-a-goat/' },
           { text: 'Do Goats Have Cloven Hooves?', href: '/do-goats-have-cloven-hooves/' },
         ],
+        tip: 'Set a recurring reminder to trim hooves every 6 weeks. Overgrown hooves are the number one cause of foot rot, and prevention is far easier than treatment.',
       },
       {
         heading: 'Medications, Dosages, and the Goat Medicine Cabinet',
@@ -268,6 +286,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Give My Goats Human Fish Pills?', href: '/can-i-give-my-goats-human-fish-pills/' },
           { text: 'Can You Do Oral and Injection of Ivermectin at the Same Time in Goats?', href: '/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/' },
         ],
+        table: { headers: ['Medication', 'Use', 'Dosage', 'Route'], rows: [['Penicillin G Procaine', 'Bacterial infections', '1 ml per 25 lbs', 'IM, every 12 hrs, 5+ days'], ['Benadryl', 'Allergic reactions', '1 mg per lb', 'Oral'], ['Nutri-Drench', 'Energy/vitamin boost', 'Per label', 'Oral (absorbed through membranes)'], ['Ivermectin', 'Internal/external parasites', '1 ml per 50 lbs', 'Oral (most effective)'], ['Pepto-Bismol', 'Mild digestive upset', '1 ml per 5 lbs', 'Oral']] },
       },
       {
         heading: 'Cold Weather Health Risks and Winter Goat Care',
@@ -277,6 +296,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Be Outside in Winter?', href: '/can-goats-be-outside-in-winter/' },
           { text: 'Can Goats Die in Cold Weather?', href: '/can-goats-die-in-cold-weather/' },
         ],
+        tip: 'Never seal your barn completely in winter. Goats need fresh airflow above their heads to prevent ammonia buildup and pneumonia, even if it feels cold to you.',
+        table: { headers: ['Temperature Range', 'Risk Level', 'Action Needed'], rows: [['Above 32F (0C)', 'Low', 'Normal care, dry shelter available'], ['10F to 32F (-12C to 0C)', 'Moderate', 'Extra hay, check water for ice, shelter required'], ['-10F to 10F (-23C to -12C)', 'High', 'Increase hay 25-50%, heated water, watch ears for frostbite'], ['Below -10F (-23C)', 'Very High', 'Deep bedding, petroleum jelly on ears, monitor newborns constantly']] },
       },
       {
         heading: 'Reproductive Health: Pregnancy, Kidding, and Postpartum Issues',
@@ -300,6 +321,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Have Horse Electrolytes?', href: '/can-goats-have-horse-electrolytes/' },
           { text: 'Can I Give a Sick Goat Water Through a Syringe?', href: '/can-i-give-a-sick-goat-water-through-a-syringe/' },
         ],
+        tip: 'Keep frozen colostrum from your best does in the freezer at all times. If a kid is born and the dam cannot nurse, those first 2 hours are critical and you will not have time to go buy a replacement.',
       },
       {
         heading: 'Zoonotic Diseases: What Can Pass Between Goats and Humans',
@@ -335,6 +357,7 @@ export const categoryGuides: Record<string, {
           { text: 'Do Goats Have Udders?', href: '/do-goats-have-udders/' },
           { text: 'How Many Teats Do Goats Have?', href: '/how-many-teats-do-goats-have/' },
         ],
+        tip: 'Learn to take a rectal temperature as your first step for any sick goat. Normal is 101.5-103.5F. Anything above 104F means infection; below 100F means shock or hypothermia.',
       },
     ],
     faq: [
@@ -364,6 +387,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Breed Screaming and Fainting Goats?', href: '/can-you-breed-screaming-and-fainting-goats/' },
           { text: 'Can Male Pygmy Goats Have Long Hair?', href: '/can-male-pygmy-goats-have-long-hair/' },
         ],
+        tip: 'If you are a first-time goat owner, start with Nigerian Dwarf goats. They are small, friendly, produce rich milk, and their compact size makes them easier to handle during breeding and kidding.',
+        table: { headers: ['Breed', 'Primary Purpose', 'Avg Adult Weight', 'Key Advantage'], rows: [['Nigerian Dwarf', 'Dairy', '60-80 lbs', 'Highest butterfat (6-10%)'], ['Nubian', 'Dairy', '130-175 lbs', 'High volume + butterfat'], ['Saanen', 'Dairy', '130-175 lbs', 'Highest milk volume'], ['Boer', 'Meat', '200-340 lbs', 'Fastest growth rate'], ['Kiko', 'Meat', '120-175 lbs', 'Parasite resistance'], ['Angora', 'Fiber', '70-110 lbs', 'Mohair production'], ['Pygmy', 'Pet/Hobby', '40-75 lbs', 'Compact and friendly']] },
       },
       {
         heading: 'Understanding the Goat Heat Cycle and Signs of Estrus',
@@ -375,6 +400,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can a Saanen Goat Have Babies Year-Round?', href: '/can-a-saanen-goat-have-babies-year-round/' },
           { text: 'Can a Pygmy Goat Nanny Breed with a Nigerian Dwarf Billy?', href: '/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/' },
         ],
+        tip: 'Keep a buck rag in a sealed mason jar and present it to your does every morning. The doe that reacts with tail flagging and intense interest is in standing heat and ready to breed that day.',
       },
       {
         heading: 'Mating Strategies: Natural Breeding vs. Artificial Insemination',
@@ -385,6 +411,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Breed a 4-Year-Old Goat?', href: '/can-you-breed-a-4yr-old-goat/' },
           { text: 'Can You Breed a 6-Year-Old Goat for the First Time?', href: '/can-you-breed-a-6-yr-old-goat-for-first-time/' },
         ],
+        table: { headers: ['Method', 'Conception Rate', 'Cost', 'Best For'], rows: [['Hand Breeding', '85-95%', 'Low (own buck)', 'Small herds, exact due dates'], ['Pasture Breeding', '85-95%', 'Low (own buck)', 'Large herds, low labor'], ['Artificial Insemination', '40-60%', 'Medium (semen + equipment)', 'Access to top genetics'], ['Transcervical AI (vet)', '50-70%', 'High (vet fees + semen)', 'Premium genetics, no buck needed']] },
       },
       {
         heading: 'Crossbreeding, Genetics, and Avoiding Inbreeding',
@@ -397,6 +424,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can an Animal Made from Goat and Sheep DNA Reproduce?', href: '/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/' },
           { text: 'Can Nigerian Dwarf Goats Be with Nubians?', href: '/can-nigerian-dwarf-goats-be-with-nubians/' },
         ],
+        tip: 'When crossing breeds of different sizes, always breed the smaller buck to the larger doe. This keeps kid size manageable for safe delivery and avoids life-threatening birthing complications.',
       },
       {
         heading: 'Goat Pregnancy: The 150-Day Journey from Conception to Kidding',
@@ -408,6 +436,8 @@ export const categoryGuides: Record<string, {
           { text: 'How Many Babies Do Goats Have at a Time?', href: '/how-many-babies-do-goats-have-at-a-time/' },
           { text: 'Can a Goat Have Babies a Week Apart?', href: '/can-a-goat-have-babies-a-week-apart/' },
         ],
+        tip: 'Mark your calendar at day 100 of gestation to start increasing grain gradually, and at day 145 to begin checking ligaments twice daily. Does carrying multiples are at higher risk for pregnancy toxemia, so offer small, frequent meals in the final month.',
+        table: { headers: ['Gestation Stage', 'Days', 'Nutrition', 'Key Actions'], rows: [['Early Pregnancy', '1-100', 'Regular hay + minerals', 'Confirm pregnancy, maintain body condition'], ['Mid Pregnancy', '100-120', 'Increase hay quality', 'Begin gradual grain introduction'], ['Late Pregnancy', '120-140', 'Alfalfa hay + 0.5-1 lb grain/day', 'BoSe/selenium injection, watch for ketosis'], ['Pre-Kidding', '140-150', '1 lb grain/day + free-choice hay', 'Set up kidding stall, check ligaments daily'], ['Overdue', '155+', 'Continue feeding, contact vet', 'Monitor closely, consider induction']] },
       },
       {
         heading: 'Preparing for Kidding Day: Supplies, Signs, and the Birth Process',
@@ -416,6 +446,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Use Vaseline on Goat Birth?', href: '/can-i-use-vaseline-on-goat-birth/' },
           { text: 'Can a Goat Feed Quads?', href: '/can-a-goat-feed-quads/' },
         ],
+        table: { headers: ['Kidding Sign', 'Timing', 'What to Watch For'], rows: [['Udder fills and tightens', '2-4 weeks before', 'Udder becomes firm and shiny'], ['Tail ligaments soften', '12-48 hours before', 'Pinch beside tail; ligaments feel mushy or gone'], ['Mucous discharge', '12-24 hours before', 'Long, clear or amber string from vulva'], ['Restlessness and pawing', '6-12 hours before', 'Doe paws at bedding, gets up and lies down repeatedly'], ['Pushing and contractions', 'Active labor', 'Call vet if no progress after 30-45 minutes of hard pushing']] },
       },
       {
         heading: 'Raising Newborn Kids: The Critical First 24 Hours and Beyond',
@@ -425,6 +456,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Mix Newborn Goats and Older Goats?', href: '/can-i-mix-newborn-goats-and-older-goats/' },
           { text: 'Can a Goat Feed Quads?', href: '/can-a-goat-feed-quads/' },
         ],
+        tip: 'Weigh each kid at birth and again at 24 hours to make sure they are nursing. A kid that loses more than 10% of its birth weight in the first day is not getting enough colostrum and needs supplemental bottle feeding immediately.',
       },
       {
         heading: 'Disbudding, Banding, and Horn Removal in Goats',
@@ -434,6 +466,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Band a 2-Year-Old Buck Goat?', href: '/can-you-band-a-2-year-old-buck-goat/' },
           { text: 'Can You Band a Goat at 3 Years Old?', href: '/can-you-band-a-goat-at-3-years-old/' },
         ],
+        tip: 'Schedule disbudding within the first week of life and mark it on your calendar the day kids are born. Missing the window by even a few days makes the procedure harder and riskier.',
+        table: { headers: ['Procedure', 'Best Age', 'Method', 'Recovery Time'], rows: [['Disbudding (does)', '3-7 days old', 'Disbudding iron (8-10 sec per bud)', '1-2 weeks'], ['Disbudding (bucks)', '3-5 days old', 'Disbudding iron (8-10 sec per bud)', '1-2 weeks'], ['Banding (castration)', '8-12 weeks old', 'Elastrator band', '2-4 weeks (testicles fall off)'], ['Horn removal (adult)', 'Any age (avoid if possible)', 'Surgical by veterinarian', '4-6 weeks, risk of complications']] },
       },
       {
         heading: 'Registration, Record Keeping, and Building Your Breeding Program',
@@ -490,6 +524,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can My Goats Eat Horse Treats?', href: '/can-my-goats-eat-horse-treats/' },
           { text: 'Can Mountain Goats Dig Notches Out of Rocks?', href: '/can-mountian-goats-dig-noches-out-of-rocks/' },
         ],
+        tip: 'Keep your best milking does for at least 4-5 freshenings before deciding their genetic value. First-freshener production is typically 20-30% lower than peak production, which most does reach on their third or fourth lactation.',
       },
     ],
     faq: [
@@ -517,6 +552,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Drink Goat Milk Straight from the Goat?', href: '/can-you-drink-goat-milk-straight-from-goat/' },
           { text: 'Can I Get Goat Milk at Lucky\'s Market?', href: '/can-i-get-goat-milk-at-luckys-market/' },
         ],
+        tip: 'Freeze surplus goat milk in ice cube trays first, then transfer the frozen cubes to a zip-lock bag. This lets you thaw exactly the amount you need for recipes, smoothies, or pet supplements without wasting a full container.',
+        table: { headers: ['Nutrient (per cup)', 'Goat Milk', 'Cow Milk', 'Key Difference'], rows: [['Calories', '170', '150', 'Goat milk is slightly richer'], ['Fat', '10g', '8g', 'Smaller fat globules in goat milk'], ['Protein', '9g', '8g', 'A2 casein dominant in goat milk'], ['Calcium', '327mg (27% DV)', '276mg (23% DV)', 'Goat milk has more calcium'], ['Lactose', '4.1%', '4.7%', 'Goat milk is slightly lower'], ['Vitamin A', '483 IU', '395 IU', 'Goat milk is higher']] },
       },
       {
         heading: 'Raw Goat Milk: Safety, Benefits, and Special Diets',
@@ -526,6 +563,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Drink Goat Milk Straight from the Goat?', href: '/can-you-drink-goat-milk-straight-from-goat/' },
           { text: 'Can I Mix Goat Milk with Whey Protein?', href: '/can-i-mix-goat-milk-with-whey-protein/' },
         ],
+        tip: 'If you are selling or sharing raw goat milk, chill it to below 40 degrees Fahrenheit within 30 minutes of milking. A stainless steel milking pail placed in an ice bath during milking helps reach safe temperatures fast.',
       },
       {
         heading: 'Goat Milk for Babies, Toddlers, and Children',
@@ -536,6 +574,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Children Have Goat Milk (Ayurveda)?', href: '/can-children-have-goat-milk-ayurveda/' },
           { text: 'Can I Make Yogurt with Canned Goat Milk?', href: '/can-i-make-yogurt-with-canned-goat-milk/' },
         ],
+        table: { headers: ['Age', 'Goat Milk Product', 'Safe?', 'Notes'], rows: [['0-6 months', 'Whole goat milk', 'No', 'Lacks adequate folic acid and B12 for infants'], ['0-12 months', 'Goat milk formula (fortified)', 'Yes', 'Good option for cow milk-sensitive babies'], ['6+ months', 'Goat yogurt', 'Yes', 'Introduce with solids, start small amounts'], ['6-8+ months', 'Soft goat cheese', 'Yes', 'Use pasteurized, watch for allergic reactions'], ['12+ months', 'Whole goat milk', 'Yes', 'Nutritious alternative to cow milk for toddlers'], ['12+ months', 'Powdered goat milk', 'Yes', 'Shelf-stable option for smoothies and baking']] },
       },
       {
         heading: 'Goat Milk for Pets: Cats, Dogs, and Other Animals',
@@ -544,6 +583,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can a Cat Drink Goat Milk?', href: '/can-a-cat-drink-goats-milk/' },
           { text: 'Can I Mix Goat Milk Replacer with Cow Milk?', href: '/can-i-mix-goat-milk-replacer-with-cow-milk/' },
         ],
+        tip: 'Start dogs and cats with just 1-2 tablespoons of goat milk per day and gradually increase. Fermented goat milk kefir has even more probiotic benefit and is especially helpful for pets recovering from antibiotics.',
       },
       {
         heading: 'Goat Cheese: Types, Making, and Cooking',
@@ -554,6 +594,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can You Freeze Goat Cheese?', href: '/can-you-freeze-goat-cheese/' },
           { text: 'Can Infants Eat Goat Cheese?', href: '/can-infants-eat-goat-cheese/' },
         ],
+        tip: 'Fresh chevre is the easiest cheese to start with. You only need goat milk, vinegar or lemon juice, salt, and a cheesecloth. One gallon of milk yields about a pound of cheese in under an hour.',
+        table: { headers: ['Cheese Type', 'Difficulty', 'Aging Time', 'Equipment Needed'], rows: [['Chevre (fresh)', 'Beginner', 'None (eat same day)', 'Pot, cheesecloth, thermometer'], ['Fromage blanc', 'Beginner', 'None', 'Pot, cheesecloth, culture'], ['Feta', 'Intermediate', '1-4 weeks in brine', 'Pot, rennet, cheese mold, brine container'], ['Bucheron (bloomy rind)', 'Intermediate', '4-8 weeks', 'Mold, aging cave/fridge, penicillium candidum'], ['Goat Gouda', 'Advanced', '2-6 months', 'Cheese press, wax, rennet, aging space'], ['Cheddar-style', 'Advanced', '3-12 months', 'Cheese press, rennet, wax, temperature-controlled aging']] },
       },
       {
         heading: 'Goat Meat: Buying, Nutrition, and Cultural Dishes',
@@ -565,6 +607,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Eat Goat Legs During Pregnancy?', href: '/can-i-eat-goat-legs-during-pregnancy/' },
           { text: 'Can I Eat Goat Intestine During Pregnancy?', href: '/can-i-eat-goat-intestine-during-pregnancy/' },
         ],
+        table: { headers: ['Cut', 'Best Cooking Method', 'Calories (3 oz)', 'Protein (3 oz)'], rows: [['Leg/Shank', 'Braising, slow roasting', '122', '23g'], ['Shoulder', 'Stewing, braising', '130', '22g'], ['Loin Chops', 'Grilling, pan-searing', '120', '23g'], ['Ribs', 'Slow roasting, BBQ', '135', '20g'], ['Ground Goat', 'Burgers, curry, kebabs', '143', '21g'], ['Liver', 'Pan-frying, pate', '115', '18g']] },
       },
       {
         heading: 'Nigerian Dwarf Goats for Meat: Dual-Purpose Breeds and Small-Scale Production',
@@ -573,6 +616,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Nigerian Dwarf Goats Be Used for Meat?', href: '/can-nigerian-dwarf-goats-be-used-for-meat/' },
           { text: 'Can a Goat Produce Milk but Also Be a Pack Goat?', href: '/can-a-goat-produce-milk-but-also-be-a-pack-goat/' },
         ],
+        tip: 'If you raise Nigerian Dwarfs primarily for dairy, process excess bucklings at 6-8 months for the most tender, mild-flavored meat. Freezing the meat in meal-sized portions makes it easy to use throughout the year.',
       },
       {
         heading: 'Selling Goat Products: Milk, Butter, and Beyond',
@@ -581,6 +625,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can I Sell Goat Milk Butter?', href: '/can-i-sell-goat-milk-butter/' },
           { text: 'Can You Buy Goat Milk at the Grocery Store?', href: '/can-you-buy-goat-milk-at-the-grocery-store/' },
         ],
+        table: { headers: ['Product', 'Licensing Required', 'Startup Cost', 'Profit Margin'], rows: [['Goat milk soap', 'Cosmetic label only (most states)', 'Low ($50-200)', 'High ($5-8 per bar)'], ['Goat milk lotion/lip balm', 'Cosmetic label only', 'Low ($100-300)', 'High ($4-10 per item)'], ['Raw goat milk', 'Varies by state (many restrict sales)', 'Low (milking supplies)', 'Low-Medium ($8-15/gallon)'], ['Pasteurized goat milk', 'Dairy license + inspections', 'High ($5,000+)', 'Medium ($10-16/gallon)'], ['Goat cheese', 'Dairy license + commercial kitchen', 'High ($10,000+)', 'High ($15-30/lb)'], ['Breeding stock (registered)', 'None (livestock sale)', 'Medium (registration fees)', 'High ($200-1,500+ per animal)']] },
       },
       {
         heading: 'Digestive Health: Goat Milk, Bloating, and Dietary Concerns',
@@ -616,6 +661,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can a Goat Barn Be 12x2?', href: '/can-a-goat-barn-be-12x-2/' },
           { text: 'Can a Goat Live in a House?', href: '/can-a-goat-live-in-a-house/' },
         ],
+        tip: 'Hold a lit match or lighter near your barn\'s ventilation openings on a cold morning. If the flame flickers, you have airflow. If it does not move, your ventilation is inadequate and ammonia is building up.',
+        table: { headers: ['Goat Type', 'Indoor Space (sq ft)', 'Outdoor Space (sq ft)', 'Kidding Stall'], rows: [['Standard Breed', '15-20', '200-250', '5x5 ft'], ['Miniature Breed', '10-15', '130-200', '4x4 ft'], ['Buck (separate)', '20-25', '200+', 'N/A'], ['Doe + Kids', '25-30', '250+', '5x5 ft']] },
       },
       {
         heading: 'Fencing Options That Actually Keep Goats In',
@@ -623,6 +670,8 @@ export const categoryGuides: Record<string, {
         links: [
           { text: 'Can Goats Climb Fences?', href: '/can-goats-climb-fences/' },
         ],
+        tip: 'Test your electric fence weekly with a fence tester. Goats learn fast — if the fence is off even once, they will test it every day after that.',
+        table: { headers: ['Fence Type', 'Height', 'Cost/ft', 'Durability'], rows: [['Woven Wire', '4-5 ft', '$1.50-3', 'Excellent'], ['Cattle Panels', '4-5 ft', '$3-5', 'Excellent'], ['Electric (5-strand)', '4 ft', '$0.50-1', 'Good'], ['Board Fence', '4 ft', '$4-8', 'Fair']] },
       },
       {
         heading: 'Bedding Materials: Pine Shavings, Straw, and the Deep Litter Method',
@@ -631,6 +680,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Pine Chips Be Used as Bedding for Goats?', href: '/can-pine-chips-be-used-as-bedding-for-goats/' },
           { text: 'Can a Goat Pen Have Pine Trees in It?', href: '/can-a-goat-pen-have-pine-trees-in-it/' },
         ],
+        table: { headers: ['Bedding Type', 'Absorbency', 'Cost', 'Best Use'], rows: [['Pine Shavings (kiln-dried)', 'Excellent', 'Moderate', 'Kidding stalls, small pens'], ['Straw', 'Good', 'Low', 'Large barns, deep litter method'], ['Hay (waste)', 'Fair', 'Low', 'Supplement only'], ['Wood Pellets', 'Excellent', 'High', 'Small pens, odor control']] },
       },
       {
         heading: 'Multi-Species Housing: Goats with Chickens, Ducks, and Other Poultry',
@@ -649,6 +699,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Mini Pigs and Fainting Goats Be Kept Together?', href: '/can-mini-pigs-and-fainting-goats-be-kept-together/' },
           { text: 'Can One Sheep Live with Goats?', href: '/can-one-sheep-live-with-goats/' },
         ],
+        tip: 'When introducing a new dog to goats, keep the dog leashed and let the goats approach first. Watch the dog\'s body language closely — a stiff posture, fixed stare, or raised hackles are warning signs of prey drive.',
       },
       {
         heading: 'Keeping Goats Indoors: Can Goats Live in a House?',
@@ -665,6 +716,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Live in an Urban Environment?', href: '/can-goats-live-in-an-urban-environment/' },
           { text: 'Can I Claim Goats as a Lawn Maintenance Team?', href: '/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets/' },
         ],
+        tip: 'Before buying goats for a suburban lot, introduce yourself to every adjacent neighbor and ask about concerns. One supportive neighbor can defend you at a zoning hearing; one angry neighbor can shut you down.',
       },
       {
         heading: 'Baby Goat Housing and Kid Management',
@@ -712,6 +764,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Be Tamed?', href: '/can-goats-be-tamed/' },
           { text: 'Can You Domesticate a Goat?', href: '/can-you-domesticate-a-goat/' },
         ],
+        tip: 'Carry a small bag of raisins every time you visit your goats. Within a week, even the shyest goat will start walking toward you the moment you open the gate.',
       },
       {
         heading: 'Managing Aggressive Goats: Causes, Prevention, and Solutions',
@@ -719,6 +772,7 @@ export const categoryGuides: Record<string, {
         links: [
           { text: 'Can an Aggressive Goat Be Fixed?', href: '/can-an-aggressive-goat-be-fixed/' },
         ],
+        table: { headers: ['Aggression Type', 'Common Cause', 'Best Solution', 'Timeline'], rows: [['Hormonal (bucks)', 'Testosterone/rut', 'Wethering (castration)', '2-4 weeks to calm'], ['Bottle-baby dominance', 'Sees humans as peers', 'Boundary training, no rough play', 'Ongoing management'], ['Fear-based', 'Lack of socialization', 'Patient trust-building with treats', 'Days to weeks'], ['Pain-related', 'Injury or illness', 'Veterinary exam and treatment', 'Resolves with pain relief']] },
       },
       {
         heading: 'Halter and Leash Training for Goats',
@@ -726,6 +780,7 @@ export const categoryGuides: Record<string, {
         links: [
           { text: 'Can I Use a Rope Halter on a Goat?', href: '/can-i-use-a-rope-halter-on-a-goat/' },
         ],
+        tip: 'Never drag a goat forward by the halter. Instead, apply gentle steady pressure and reward the instant the goat takes one step forward. They learn pressure release much faster than force.',
       },
       {
         heading: 'House Training Baby Goats: What You Need to Know',
@@ -741,6 +796,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can a Goat Pull a Cart?', href: '/can-a-goat-pull-a-cart/' },
           { text: 'Can Goats Pull a Plow?', href: '/can-goats-pull-a-plow/' },
         ],
+        tip: 'Always end cart training sessions on a success. If the goat balks, back up to an easier task, let them succeed, reward them, and stop for the day.',
+        table: { headers: ['Breed', 'Avg Weight (lbs)', 'Max Pull Load (lbs)', 'Draft Suitability'], rows: [['Boer', '200-300', '300-450', 'Excellent'], ['Nubian', '150-250', '225-375', 'Very Good'], ['Alpine', '150-200', '225-300', 'Very Good'], ['Saanen', '150-200', '225-300', 'Good'], ['Nigerian Dwarf', '60-80', '90-120', 'Light duty only']] },
       },
       {
         heading: 'Goat Climbing, Jumping, and Their Natural Athleticism',
@@ -751,6 +808,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Jump High?', href: '/can-goats-jump-high/' },
           { text: 'Can Goats Climb 92 Degrees?', href: '/can-goats-climb-92-degrees/' },
         ],
+        table: { headers: ['Breed', 'Jump Height', 'Climbing Ability', 'Min Fence Height'], rows: [['Nigerian Dwarf', '3-4 ft', 'Very High', '4 ft'], ['Pygmy', '3-4 ft', 'High', '4 ft'], ['Nubian', '4-5 ft', 'High', '5 ft'], ['Alpine', '4-5 ft', 'Very High', '5 ft'], ['Boer', '3-4 ft', 'Moderate', '4 ft']] },
       },
       {
         heading: 'Goats and Water: Can Goats Swim?',
@@ -768,6 +826,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats and Dogs Be Friends?', href: '/can-goats-and-dogs-be-friends/' },
           { text: 'Can I Use a Cow Shell with Goat Liners?', href: '/can-i-use-a-cow-shell-with-goat-liners/' },
         ],
+        tip: 'Goats respond to your facial expressions. Research shows they prefer smiling faces and will approach a happy person faster than someone frowning. Smile at your goats — it actually works.',
       },
     ],
     faq: [
@@ -793,6 +852,8 @@ export const categoryGuides: Record<string, {
           { text: 'Can a Fox Kill a Goat?', href: '/can-a-fox-kill-a-goat/' },
           { text: 'Can Raccoons Kill a Goat?', href: '/can-raccoons-kill-goat/' },
         ],
+        tip: 'A livestock guardian dog is the single best investment for predator protection. One well-trained LGD can protect 30-50 goats around the clock.',
+        table: { headers: ['Predator', 'Threat Level', 'Active', 'Best Defense'], rows: [['Coyote', 'High', 'Dawn/dusk', 'LGD + secure night housing'], ['Domestic Dog', 'Very High', 'Anytime', 'Good fencing + LGD'], ['Fox', 'Moderate (kids)', 'Night', 'Secure kidding area'], ['Raccoon', 'Low-Moderate', 'Night', 'Enclosed shelter + hardware cloth']] },
       },
       {
         heading: 'Large Predator Threats: Mountain Lions, Bears, and Stray Dogs',
@@ -800,6 +861,7 @@ export const categoryGuides: Record<string, {
         links: [
           { text: 'Can a Mountain Goat Kill You?', href: '/can-a-mountain-goat-kill-you/' },
         ],
+        table: { headers: ['Guardian Animal', 'Effective Against', 'Cost (annual)', 'Notes'], rows: [['LGD (Great Pyrenees)', 'All predators', '$500-1,500', 'Best all-around; needs bonding time'], ['LGD (Anatolian)', 'All predators', '$500-1,500', 'More independent; hot climate suited'], ['Donkey', 'Dogs, coyotes, foxes', '$200-500', 'Low maintenance; may injure kids'], ['Llama', 'Dogs, coyotes, foxes', '$300-800', 'One per herd only; two will bond to each other']] },
       },
       {
         heading: 'Tethering, Tying, and Selective Area Grazing Safety',
@@ -808,6 +870,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats Be Tethered?', href: '/can-goats-be-tethered/' },
           { text: 'Can Goats Be Tied Up for Selective Area Grazing?', href: '/can-goats-be-tied-up-for-selective-area-grazing/' },
         ],
+        tip: 'Set a repeating 30-minute timer on your phone whenever you tether a goat. It is easy to lose track of time, and a tangled tethered goat can strangle itself in minutes.',
       },
       {
         heading: 'Leaving Goats Unattended: How Long Is Safe?',
@@ -823,6 +886,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goats and Cows Graze in the Same Field?', href: '/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting/' },
           { text: 'Can a Pygmy Goat Live with a Mini Pig?', href: '/can-a-pygmy-goat-live-with-a-mini-pig/' },
         ],
+        tip: 'Install a creep gate (a narrow opening only goats can fit through) in shared cattle-goat pastures so goats always have a safe escape route away from large animals.',
       },
       {
         heading: 'Rams, Bucks, and Male Animal Aggression',
@@ -848,6 +912,7 @@ export const categoryGuides: Record<string, {
           { text: 'Can Goat Urine Kill Trees?', href: '/can-goat-urine-kill-trees/' },
           { text: 'Can Goats Cause Slope Erosion?', href: '/can-goats-cause-slope/' },
         ],
+        table: { headers: ['Stocking Rate', 'Pasture Quality', 'Rotation Interval', 'Rest Period'], rows: [['6-8 goats/acre', 'Excellent (lush, mixed forage)', '5-7 days', '4-6 weeks'], ['4-6 goats/acre', 'Good (moderate growth)', '5-7 days', '6-8 weeks'], ['2-4 goats/acre', 'Fair (thin, dry climate)', '3-5 days', '8-12 weeks'], ['1-2 goats/acre', 'Poor (arid, sparse)', 'Continuous w/ hay supplement', 'N/A']] },
       },
     ],
     faq: [

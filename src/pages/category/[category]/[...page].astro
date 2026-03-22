@@ -90,6 +90,26 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
           {section.content.split('\n\n').map((para: string) => (
             <p>{para}</p>
           ))}
+          {section.tip && (
+            <div class="pillar-tip">
+              <span class="pillar-tip-label">Pro Tip</span>
+              <p>{section.tip}</p>
+            </div>
+          )}
+          {section.table && (
+            <div class="pillar-table-wrap">
+              <table class="pillar-table">
+                <thead>
+                  <tr>{section.table.headers.map((h: string) => <th>{h}</th>)}</tr>
+                </thead>
+                <tbody>
+                  {section.table.rows.map((row: string[]) => (
+                    <tr>{row.map((cell: string) => <td>{cell}</td>)}</tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
           {section.links && section.links.length > 0 && (
             <div class="pillar-links">
               <strong>Read more:</strong>
@@ -272,6 +292,67 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
   .pillar-links a:hover {
     text-decoration: underline;
   }
+
+  /* Pro Tip */
+  .pillar-tip {
+    background: #f0fdf4;
+    border-left: 4px solid #22c55e;
+    padding: 14px 18px;
+    border-radius: 0 8px 8px 0;
+    margin: 16px 0;
+  }
+  :root[data-theme="dark"] .pillar-tip {
+    background: #14532d20;
+  }
+  .pillar-tip-label {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #16a34a;
+    margin-bottom: 6px;
+  }
+  .pillar-tip p {
+    font-size: 14px;
+    line-height: 1.65;
+    color: var(--text-secondary);
+    margin: 0;
+  }
+
+  /* Table */
+  .pillar-table-wrap {
+    overflow-x: auto;
+    margin: 16px 0;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+  }
+  .pillar-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .pillar-table th {
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 14px;
+    white-space: nowrap;
+  }
+  .pillar-table td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    color: var(--text-secondary);
+  }
+  .pillar-table tr:last-child td {
+    border-bottom: none;
+  }
+  .pillar-table tr:nth-child(even) {
+    background: var(--accent-light, #f8f9fc);
+  }
+
   .pillar-faq {
     margin: 32px 0;
     border-top: 1px solid var(--border);

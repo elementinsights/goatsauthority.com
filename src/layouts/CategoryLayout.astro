@@ -57,13 +57,32 @@ const { title, description, subtitle, activeNav, schema, popularPosts = [], post
         <aside class="cat-sidebar">
           <SidebarAbout />
           {popularPosts.length > 0 && (
-            <SidebarPopular title={`Popular in ${title}`} posts={popularPosts} />
+            <SidebarPopular title="Popular Posts" posts={popularPosts} />
           )}
         </aside>
       </div>
     </div>
   </section>
 </BaseLayout>
+
+<script is:inline>
+(function() {
+  var sb = document.querySelector('.cat-sidebar');
+  if (!sb || window.innerWidth <= 1024) return;
+  function calc() {
+    var h = sb.offsetHeight;
+    var vh = window.innerHeight;
+    var offset = 80;
+    if (h > vh - offset - 20) {
+      sb.style.top = (vh - h - 20) + 'px';
+    } else {
+      sb.style.top = offset + 'px';
+    }
+  }
+  calc();
+  window.addEventListener('resize', calc);
+})();
+</script>
 
 <style>
   .category-hero {
@@ -164,6 +183,7 @@ const { title, description, subtitle, activeNav, schema, popularPosts = [], post
     gap: 30px;
     position: sticky;
     top: 80px;
+    align-self: start;
   }
 
   @media (max-width: 1024px) {
