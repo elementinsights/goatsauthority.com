@@ -19,8 +19,8 @@ toc:
     href: "#what-do-goats-see-when-they-look-around"
   - label: "Are there any benefits to having good eyesight for a goat farmer or pet owner?"
     href: "#are-there-any-benefits-to-having-good-eyesight-for-a-goat-farmer-or-pet-owner"
-  - label: "How can you help ensure your goat has good vision?"
-    href: "#how-can-you-help-ensure-your-goat-has-good-vision"
+  - label: "How to Protect Your Goat's Vision"
+    href: "#how-to-protect-your-goats-vision"
   - label: "What kind of eye care should be provided for goats, especially as they get older?"
     href: "#what-kind-of-eye-care-should-be-provided-for-goats-especially-as-they-get-older"
   - label: "What are some common myths about goats' vision that you may have heard before?"
@@ -38,8 +38,8 @@ faq:
     answer: "Goats are quadrupeds, meaning they have four legs. This gives them a wide range of vision, allowing them to see almost 360 degrees around them at all times."
   - question: "Are there any benefits to having good eyesight for a goat farmer or pet owner?"
     answer: "For farmers, goats with good eyesight are less likely to accidentally injure themselves. This is because they can see obstacles and predators coming, and they're less likely to walk into things."
-  - question: "How can you help ensure your goat has good vision?"
-    answer: "Vision is an important sense for goats and good vision is necessary for their safety and well-being. There are a few things you can do to help ensure your goat has a good vision."
+  - question: "How can you protect your goat's vision?"
+    answer: "Keep their living area free of sharp objects at eye level, feed adequate vitamin A through quality hay and minerals, and have your vet check their eyes during routine visits."
 ---
 
 If you've ever looked a goat in the eye, you've probably noticed something unusual. Those horizontal, rectangular pupils are unlike anything else in the barnyard.
@@ -70,7 +70,7 @@ Healthy eyes also mean less stress for the animal. A goat that can see its surro
 
 For farmers, good vision in the herd translates to fewer vet bills and injuries overall. It's one of those things you don't think about until something goes wrong.
 
-## How can you help ensure your goat has good vision?
+## How to Protect Your Goat's Vision
 
 Keep their living area clean and free of dust, cobwebs, and sharp objects at eye level. Eye injuries from protruding nails, wire, or thorny brush are more common than you'd think.
 

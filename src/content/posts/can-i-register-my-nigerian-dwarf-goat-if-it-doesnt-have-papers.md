@@ -11,7 +11,7 @@ imageAlt: "Can I Register My Nigerian Dwarf Goat If It Doesn't Have Papers?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can register your Nigerian dwarf goat if it doesn't have papers, but the process is a bit more complicated. In fact, there are a few things you need to take into consideration before you can register your goat, and we will go over those things in this article."
+  text: "You can register your Nigerian dwarf goat without papers through ADGA or AGS as a Recorded Grade animal, though it won't count as purebred. DNA testing is another option to verify breed if parentage records are unavailable."
 toc:
   - label: "Can I register my Nigerian dwarf goat if it doesn't have papers?"
     href: "#can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers"
@@ -27,7 +27,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can I register my Nigerian dwarf goat if it doesn't have papers?"
-    answer: "You can register your Nigerian dwarf goat if it doesn't have papers, but the process is a bit more complicated. In fact, there are a few things you need to take into consideration before you can register your goat, and we will go over those things in this article."
+    answer: "You can register your Nigerian dwarf goat without papers through ADGA or AGS as a Recorded Grade animal. This won't give you purebred status, but it does let you track lineage going forward and sell kids with documentation."
   - question: "What are the benefits of registering a Nigerian dwarf goat without papers?"
     answer: "The benefits of registering a Nigerian dwarf goat without papers can be both economic and social in nature."
   - question: "Are there any risks associated with registering a Nigerian dwarf goat without papers?"

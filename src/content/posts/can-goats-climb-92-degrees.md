@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Climb 92 Degrees? (Farmers Guide, Facts and More)"
-description: "it's impossible to tell whether goats can climb 92 degrees, and you might ask how they got their start or what exactly they are capable of. We will answer a few of the most frequently asked questions regarding goats in this article."
+description: "it's impossible to tell whether goats can climb 92 degrees, and you might ask how they got their start or what exactly they are capable of. We will answer a few of the most frequently asked questions regarding goats."
 category: "training"
 postType: "guide"
 publishDate: 2022-09-08

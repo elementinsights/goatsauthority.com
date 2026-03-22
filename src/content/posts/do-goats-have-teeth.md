@@ -1,6 +1,6 @@
 ---
 title: "Do Goats Have Teeth? (Everything That You Need To Know)"
-description: "Let us talk about goats in general. Do goats have teeth? How many teeth do they have? What kind of teeth do they have? All of these are valid questions that will be answered in this article."
+description: "Let us talk about goats in general. Do goats have teeth? How many teeth do they have? What kind of teeth do they have? All of these are valid questions that will be answered."
 category: "health"
 postType: "guide"
 publishDate: 2022-08-09

@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Everything? (Nutrition Facts, Benefits, FAQs & More)"
-description: "You might be wondering whether or not goats can actually consume anything. If so, what are the advantages and disadvantages of their diet in terms of nutrition? Everything you need to know about goats and their food will be covered in this article."
+description: "You might be wondering whether or not goats can actually consume anything. If so, what are the advantages and disadvantages of their diet in terms of nutrition? Everything you need to know about goats and their food will be covered."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-15
