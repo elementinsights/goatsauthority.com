@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Spelt? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of goats can be a fun and rewarding experience. They are interesting creatures with their own unique quirks and personalities. One of the questions you may have as a goat owner is what kind of food they can eat. Can goats eat spelt?"
+description: "Taking care of goats can be a fun and rewarding experience. They are animals with their own unique quirks and personalities. One of the questions you may have as a goat owner is what kind of food they can eat. Can goats eat spelt?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-26

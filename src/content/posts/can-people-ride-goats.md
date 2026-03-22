@@ -31,7 +31,7 @@ faq:
   - question: "What are the benefits of riding a goat?"
     answer: "There are no real benefits to riding a goat, as it causes stress and potential injury to the animal. Instead, train your goat as a pack animal or use a cart, which are safe alternatives that let you work alongside your goat."
   - question: "Are there any risks associated with riding a goat?"
-    answer: "There are a few risks associated with riding a goat. before, goats are not built to carry the weight of a human. They can easily get injured if you're too heavy or if you're not careful."
+    answer: "before, goats are not built to carry the weight of a human. They can easily get injured if you're too heavy or if you're not careful."
   - question: "How to prevent the risks associated with riding a goat?"
     answer: "The best prevention is simply not riding goats at all. If you want a working goat, train one as a pack goat with a properly fitted pack saddle, or use a goat cart that distributes load through a harness across the chest and shoulders."
 ---

@@ -33,7 +33,7 @@ faq:
   - question: "Can I give my cat goat's milk every day?"
     answer: "You can give your cat goat's milk every day, but it's not necessary. If your cat is not used to drinking milk, start by giving him a small amount and gradually increase the amount over time."
   - question: "How long can my cat drink goat's milk?"
-    answer: "Your cat can drink goat's milk as long as he wants. There's no need to switch to another type of milk unless he starts showing signs of lactose intolerance, such as diarrhea or vomiting."
+    answer: "Your cat can drink goat's milk as long as he wants. There's no need to switch to another type of milk unless he starts showing signs of lactose intolerance, such as diarrhea or digestive upset, ."
   - question: "Is there anything I should avoid giving my cat with goat's milk?"
     answer: "You should avoid giving your cat any products that are high in lactose, as this can lead to gastrointestinal upset."
 ---

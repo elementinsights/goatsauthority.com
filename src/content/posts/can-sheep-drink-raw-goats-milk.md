@@ -33,7 +33,7 @@ faq:
   - question: "Are there any risks associated with feeding raw goat's milk to sheep?"
     answer: "The main risk is overfeeding, which causes scours in bottle lambs. Feed small amounts at each session and watch for loose stools. Proper milk storage and hygiene are also important to prevent bacterial contamination."
   - question: "How do you go about getting raw goat's milk for your sheep?"
-    answer: "There are a few steps involved in getting raw goat's milk for your sheep. you'll need to identify local farms or businesses that produce and sell goat's milk."
+    answer: "you'll need to identify local farms or businesses that produce and sell goat's milk."
 ---
 
 Sheep can absolutely drink raw goat milk, and it is one of the best substitutes available when a ewe rejects her lamb or dies during lambing. Goat milk is closer in composition to sheep milk than cow milk is, making it easier on a lamb's digestive system.

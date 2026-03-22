@@ -31,7 +31,7 @@ faq:
   - question: "Can you band an adult goats horns to dehorn them?"
     answer: "No, you cannot band an adult goat's horns to dehorn them. A goat's horn has a bony core fused to the skull with blood vessels and nerves. A rubber band cannot cut through bone and will only cause extreme pain and infection. Surgical removal by a veterinarian is the only option for adults."
   - question: "What are the things you need to consider before dehorning a goat?"
-    answer: "There are a few things you need to consider before dehorning a goat. you need to decide if you want to do it yourself or have someone else do it. If you do it yourself, you need to be very careful and make sure you know what you are doing."
+    answer: "you need to decide if you want to do it yourself or have someone else do it. If you do it yourself, you need to be very careful and make sure you know what you are doing."
   - question: "What is dehorning and why is it done?"
     answer: "Dehorning is the process of removing horns from goats. It is typically done for two reasons: to prevent injuries to other animals and to make the goat easier to handle."
   - question: "How to band an adult goat's horns for dehorning?"

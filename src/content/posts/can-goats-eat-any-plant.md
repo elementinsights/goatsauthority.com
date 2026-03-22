@@ -33,7 +33,7 @@ faq:
   - question: "What are the plants that are edible to goats?"
     answer: "Goats thrive on a wide variety of browse including blackberry brambles, honeysuckle, willow, maple leaves, dandelions, plantain, and clover. They prefer woody browse and broadleaf plants over grass."
   - question: "What to do if your goat eats something it shouldn't have?"
-    answer: "If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as vomiting or difficulty breathing, then you need to seek professional medical help immediately."
+    answer: "If your goat eats something it shouldn't have, the first thing you should do is assess the situation. If the goat is showing signs of distress, such as digestive upset, or difficulty breathing, then you need to seek professional medical help immediately."
 ---
 No, goats cannot eat any plant they come across. There are dozens of common plants that are flat-out toxic to goats and can cause serious illness or death within hours.
 

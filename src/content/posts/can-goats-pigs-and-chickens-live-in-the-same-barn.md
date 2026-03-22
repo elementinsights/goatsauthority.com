@@ -31,7 +31,7 @@ faq:
   - question: "What do you need to consider before adding different types of animals to your barn?"
     answer: "The biggest concern is feed contamination. Goats need copper in their minerals, but copper is toxic to pigs. Chicken feed often contains monensin, which is fatal to goats. You must set up separate feeding stations for each species."
   - question: "Are there any risks to keeping pigs, and chickens in the same barn?"
-    answer: "There are a few risks to consider before keeping pigs and chickens together in the same barn. there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals."
+    answer: "there is the risk of disease. Pigs and chickens can both carry diseases that can be passed to other animals."
   - question: "How to manage the different types of animals in your barn?"
     answer: "Give each species its own zone and stick to a consistent daily routine. Feed at the same time each day with gates closed. Clean each section regularly and watch for illness spreading between groups. Install sturdy dividers if pigs start bullying goats."
 ---

@@ -33,7 +33,7 @@ faq:
   - question: "How effective is Ivermectin in treating sheep and goats?"
     answer: "There is no question that Ivermectin is a highly effective treatment option for sheep and goats."
   - question: "What are the possible side effects of using Ivermectin on sheep and goats?"
-    answer: "Some of the most common include digestive issues like diarrhea, nausea, and vomiting."
+    answer: "Some of the most common include digestive issues like diarrhea, nausea, and digestive upset, ."
 ---
 This is one of the most common questions I get from goat owners. You can use ivermectin pour-on (Ivomec) in sheep and goats, but not the way you might think.
 

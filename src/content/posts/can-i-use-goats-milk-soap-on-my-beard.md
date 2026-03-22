@@ -11,7 +11,7 @@ imageAlt: "Can I Use Goats Milk Soap On My Beard?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can use goat milk soap on your beard because it is packed with nutrients that are beneficial for both your skin and hair. This type of soap is also less likely to irritate the skin than other types of soap and is unlikely to clog pores."
+  text: "You can use goat milk soap on your beard because it is nutritiousare beneficial for both your skin and hair. This type of soap is also less likely to irritate the skin than other types of soap and is unlikely to clog pores."
 toc:
   - label: "Can I use goats milk soap on my beard?"
     href: "#can-i-use-goats-milk-soap-on-my-beard"

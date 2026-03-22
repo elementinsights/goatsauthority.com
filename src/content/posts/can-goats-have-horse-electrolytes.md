@@ -31,7 +31,7 @@ faq:
   - question: "What are the benefits of giving goats electrolytes?"
     answer: "Electrolytes help goats stay hydrated, which is important for their overall health. They also help prevent problems like heat stress, which can be dangerous for goats."
   - question: "What are the risks associated with giving goats electrolytes?"
-    answer: "There are a few risks associated with giving goats electrolytes. if you give your goat too much of an electrolyte supplement, it can cause problems like diarrhea."
+    answer: "if you give your goat too much of an electrolyte supplement, it can cause problems like diarrhea."
   - question: "How to prevent electrolyte imbalance in goats"
     answer: "Always provide clean, fresh water. Keep goat-specific electrolyte powder in your barn medicine kit. During hot weather, heavy lactation, or illness, monitor for dehydration by pinching the skin on the neck to check for tenting."
 ---

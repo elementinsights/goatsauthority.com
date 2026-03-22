@@ -1,6 +1,6 @@
 ---
 title: "Can I Put Neosporin On My Goats? (Healthcare Tips, Facts, FAQs, and More)"
-description: "Taking care of goats can be a rewarding experience. They are interesting creatures with their own unique behaviors and personalities."
+description: "Taking care of goats can be a rewarding experience. They are animals with their own unique behaviors and personalities."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-10

@@ -11,7 +11,7 @@ imageAlt: "Can I Give Powdered Goat Milk To Sick Baby Goats?"
 readTime: "7 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "You can give powdered goat milk to sick baby goats because it's easy to digest and is packed with nutrients. In fact, many goat milk powder brands are formulated specifically for kids and young goats, so you can be sure that your goat is getting all the nutrition it needs."
+  text: "You can give powdered goat milk to sick baby goats because it's easy to digest and is nutritious. In fact, many goat milk powder brands are formulated specifically for kids and young goats, so you can be sure that your goat is getting all the nutrition it needs."
 toc:
   - label: "Can I give powdered goat milk to sick baby goats?"
     href: "#can-i-give-powdered-goat-milk-to-sick-baby-goats"

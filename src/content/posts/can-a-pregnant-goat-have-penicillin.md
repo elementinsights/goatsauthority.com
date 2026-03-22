@@ -33,7 +33,7 @@ faq:
   - question: "How much penicillin should I give my pregnant goat?"
     answer: "The standard dose of Procaine Penicillin G is 1ml per 10 lbs of body weight, given as an intramuscular injection every 12 hours for 5 days. Don't skip doses or quit early even if she looks better."
   - question: "Can penicillin cause side effects in pregnant goats?"
-    answer: "Yes, penicillin can cause side effects in both pregnant goats and their unborn kids. Some of the most common side effects include diarrhea, vomiting, and allergic reactions. If you notice any of these side effects in your pregnant goat, stop giving her penicillin and contact your veterinarian immediately."
+    answer: "Yes, penicillin can cause side effects in both pregnant goats and their unborn kids. Some of the most common side effects include diarrhea, digestive upset, and allergic reactions. If you notice any of these side effects in your pregnant goat, stop giving her penicillin and contact your veterinarian immediately."
   - question: "How do I give my pregnant goat penicillin?"
     answer: "Give penicillin as an intramuscular injection in the neck muscle, never orally. Oral penicillin disrupts the rumen bacteria and can cause digestive problems in adult goats. Alternate sides of the neck with each dose."
   - question: "Is there anything I need to do after giving my pregnant goat penicillin?"

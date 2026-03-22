@@ -39,7 +39,7 @@ faq:
   - question: "What are the benefits of breeding angora goats with dairy goats for fiber?"
     answer: "There are a few benefits to breeding angora goats with dairy goats for fiber."
   - question: "What are the risks associated with breeding angora goats with dairy goats for fiber?"
-    answer: "There are a few risks associated with breeding angora goats with dairy goats for fiber."
+    answer: ""
 ---
 
 Crossing an Angora with a dairy goat sounds like a shortcut to getting milk and fiber from the same animal. It can work, but the results probably won't be what you're picturing.

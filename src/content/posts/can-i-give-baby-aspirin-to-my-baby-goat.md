@@ -37,7 +37,7 @@ faq:
   - question: "How much aspirin should you give to a baby goat, and how often should you give it to them?"
     answer: "The standard dose is 1 baby aspirin (81 mg) per 10 pounds of body weight, given every 12 hours. Crush the tablets and mix with applesauce or yogurt, and do not give aspirin for more than 3 days without consulting your vet."
   - question: "What are the side effects of giving baby aspirin to a goat, and what should you do if they experience any of them?"
-    answer: "Aspirin frequently causes gastrointestinal problems, such as diarrhea and vomiting. Stop administering the aspirin and get in touch with a goat expert if you experience any of these negative effects."
+    answer: "Aspirin frequently causes gastrointestinal problems, such as diarrhea and digestive upset, . Stop administering the aspirin and get in touch with a goat expert if you experience any of these negative effects."
 ---
 
 Yes, you can give baby aspirin to a baby goat for mild pain and inflammation. It is cheap, easy to find, and belongs in every barn medicine kit.

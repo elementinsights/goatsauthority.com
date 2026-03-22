@@ -11,7 +11,7 @@ imageAlt: "Can Children Have Goat Milk Ayurveda?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Children can have goat milk ayurveda because it's packed with nutrients and vitamins that are essential for their growth and development. Goat milk ayurveda is also easier to digest than cow's milk, making it a great option for kids who have trouble digesting lactose."
+  text: "Children can have goat milk ayurveda because it's nutritiousthat are essential for their growth and development. Goat milk ayurveda is also easier to digest than cow's milk, making it a great option for kids who have trouble digesting lactose."
 toc:
   - label: "Can children have goat milk ayurveda?"
     href: "#can-children-have-goat-milk-ayurveda"

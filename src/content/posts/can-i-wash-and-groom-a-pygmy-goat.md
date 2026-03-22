@@ -1,6 +1,6 @@
 ---
 title: "Can I Wash And Groom A Pygmy Goat? (Everything You Need To Know)"
-description: "Taking care of a goat is a challenging but rewarding task. Goats are interesting creatures that are known for their playful and curious nature. Pygmy goats are a popular breed of goat that is known for being friendly and easy to care for."
+description: "Taking care of a goat is a challenging but rewarding task. Goats are animals that are known for their playful and curious nature. Pygmy goats are a popular breed of goat that is known for being friendly and easy to care for."
 category: "health"
 postType: "guide"
 publishDate: 2022-11-29

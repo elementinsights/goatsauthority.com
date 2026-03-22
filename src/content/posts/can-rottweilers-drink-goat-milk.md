@@ -33,7 +33,7 @@ faq:
   - question: "How much goat milk should a rottweiler drink per day?"
     answer: "Start with a few tablespoons per day and see how your dog handles it. Most adult rottweilers can work up to one or two cups per day. If you notice loose stools or gas, cut back and increase more slowly."
   - question: "What are the potential risks of giving a rottweiler too much goat milk?"
-    answer: "The potential risks of giving a rottweiler excessive amounts of goat milk are many and varied. Chief among these is the fact that large quantities of goat milk can lead to digestive issues in dogs, including vomiting, diarrhea, and bloating."
+    answer: "The potential risks of giving a rottweiler excessive amounts of goat milk are many and varied. Chief among these is the fact that large quantities of goat milk can lead to digestive issues in dogs, including digestive upset, diarrhea, and bloating."
 ---
 
 Goat milk is safe for rottweilers and just about every other dog breed out there. Many dog owners have switched from cow milk to goat milk because it is gentler on a dog's digestive system.

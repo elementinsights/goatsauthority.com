@@ -33,7 +33,7 @@ faq:
   - question: "What is goat milk formula and what are the benefits of giving it to dogs?"
     answer: "Goat milk formula is a milk product made from goat's milk. It's a natural and nutritious alternative to cow's milk that can be beneficial for your dog's health. Goat's milk also contains less lactose than cow's milk, making it easier for your dog to digest."
   - question: "What are the risks of giving goat milk formula to dogs, and how can they be minimized?"
-    answer: "While goat milk is often touted as a healthy alternative to cow's milk, it's not necessarily safe for dogs. Goat milk formula can cause digestive upset in dogs, including diarrhea, vomiting, and gas."
+    answer: "While goat milk is often touted as a healthy alternative to cow's milk, it's not necessarily safe for dogs. Goat milk formula can cause digestive upset in dogs, including diarrhea, digestive upset, and gas."
   - question: "How much goat milk formula should be given to a dog, and how often should it be administered?"
     answer: "There's no one-size-fits-all answer to this question, as the amount of goat milk formula that should be given to a dog will vary depending on the individual animal's size, age, and health."
 ---

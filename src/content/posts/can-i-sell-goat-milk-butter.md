@@ -29,7 +29,7 @@ faq:
   - question: "Can I sell goat milk butter?"
     answer: "It depends on where you live and how you plan to sell it. Some states allow farm-gate sales with minimal licensing, while others require a fully inspected dairy facility. Federal law requires pasteurization for dairy products sold across state lines. Contact your state department of agriculture for specific rules."
   - question: "What do I need to consider when selling goat milk butter?"
-    answer: "There are a few things you need to consider when selling goat milk butter. you need to make sure that your product is safe. You can do this by testing your goat milk for bacteria before you make the butter."
+    answer: "you need to make sure that your product is safe. You can do this by testing your goat milk for bacteria before you make the butter."
   - question: "What is goat milk butter and why is it becoming so popular?"
     answer: "Goat milk butter, also known simply as goat butter, is a type of dairy product that is becoming increasingly popular in kitchens around the world."
   - question: "How is goat milk butter made?"

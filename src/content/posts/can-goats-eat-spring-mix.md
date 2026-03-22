@@ -11,7 +11,7 @@ imageAlt: "Can Goats Eat Spring Mix?"
 readTime: "6 min read"
 quickAnswer:
   title: "Quick Answer"
-  text: "Goats can eat spring mix. This greens mix is actually a great option to feed them, as it is packed with nutrients that are essential for their health."
+  text: "Goats can eat spring mix. This greens mix is actually a great option to feed them, as it is nutritiousare essential for their health."
 toc:
   - label: "Can goats eat spring mix?"
     href: "#can-goats-eat-spring-mix"

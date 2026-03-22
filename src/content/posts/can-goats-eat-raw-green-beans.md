@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Raw Green Beans? (Nutrition Facts, Benefits, FAQs & More)"
-description: "Taking care of a goat can be a fun and rewarding experience. As you probably know, goats are interesting creatures with unique dietary needs. So, what exactly can goats eat? One common question we get is: can goats eat raw green beans?"
+description: "Taking care of a goat can be a fun and rewarding experience. As you probably know, goats are animals with unique dietary needs. So, what exactly can goats eat? One common question we get is: can goats eat raw green beans?"
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-09-23

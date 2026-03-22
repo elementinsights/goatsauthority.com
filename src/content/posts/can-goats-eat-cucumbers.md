@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Cucumbers? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Do you have a goat? I do. They're interesting creatures, aren't they? Goats are known for eating almost anything. From bananas to pumpkin, the list of safe treats is long. But there's always that one food item we question whether it's safe or not."
+description: "Do you have a goat? I do. They're animals, aren't they? Goats are known for eating almost anything. From bananas to pumpkin, the list of safe treats is long. But there's always that one food item we question whether it's safe or not."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2023-11-21

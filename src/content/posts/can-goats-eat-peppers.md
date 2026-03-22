@@ -1,6 +1,6 @@
 ---
 title: "Can Goats Eat Peppers? (Benefits, Risks, Serving Size, and FAQs)"
-description: "Peppers are a popular vegetable that can be eaten raw or cooked. They come in a variety of colors and sizes and are packed with nutrients that provide health benefits. Peppers are also easy to grow, making them a popular choice for gardeners."
+description: "Peppers are a popular vegetable that can be eaten raw or cooked. They come in a variety of colors and sizes and are nutritiousprovide health benefits. Peppers are also easy to grow, making them a popular choice for gardeners."
 category: "what-do-goats-eat"
 postType: "guide"
 publishDate: 2022-08-18

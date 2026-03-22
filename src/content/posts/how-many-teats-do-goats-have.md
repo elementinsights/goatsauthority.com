@@ -1,6 +1,6 @@
 ---
 title: "How Many Teats Do Goats Have? (Nursing Facts, FAQs, and More)"
-description: "It's easy to think of goats as just animals that provide milk and meat, but did you know that they also have an important role in agriculture? Goats are great for clearing brush and weeds, and they can even be used to clear landmines."
+description: "It's easy to think of goats as just animals that provide milk and meat, but did you know that they also have an important role in agriculture? Goats are great for clearing brush and weeds, and "
 category: "health"
 postType: "guide"
 publishDate: 2022-08-08
