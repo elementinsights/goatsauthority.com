@@ -41,105 +41,48 @@ faq:
   - question: "Where can I get a permit to keep goats in Paradise Town, California?"
     answer: "There are many different places where you can get a permit to keep goats in Paradise Town, California. One option is to contact the local government directly, as they are responsible for managing livestock within the city limits."
 ---
-
-You may be wondering if it's possible to raise goats in Paradise Town, California. And if so, what are the things you need to know?
-
-we will answer your questions about raising goats in Paradise Town, California. We will also provide some tips on how to get started.
+If you are looking to raise goats in Paradise, California, the good news is that Butte County generally allows livestock on larger parcels. But regulations have shifted since the 2018 Camp Fire destroyed most of the town, so you need to verify the current rules before bringing animals home.
 
 ## Can I raise goats in Paradise Town California?
 
-In addition, you will need to obtain a permit from the California Department of Fish and Wildlife if you intend to keep goats in Paradise Town, California.
+Paradise is an unincorporated town in Butte County, which means county ordinances apply rather than city-level rules. Butte County has historically been friendly to livestock owners, especially on parcels over one acre.
 
-Be aware, raising goats in Paradise Town, California can be a great experience as long as you are prepared to do your research and take the necessary precautions.
+That said, the rebuilding process after the Camp Fire brought new zoning reviews and development standards. What was allowed on a property in 2017 may have changed, so do not assume the old rules still apply. Properties that were rezoned during reconstruction may have different livestock allowances now.
 
-## What are the local city ordinances for goats in Paradise Town, California?
+## What are the local ordinances for goats?
 
-The city of Paradise does not have any specific ordinances regarding raising goats. At the same time, you will need to follow the general animal husbandry ordinances set forth by the town.
+Butte County regulates livestock through its zoning code and animal control ordinances. The number of animals you can keep typically depends on your parcel size and zoning designation, with larger parcels generally allowing more animals.
 
-These ordinances include ensuring that your animals do not create a nuisance or health hazard and that they are properly cared for.
+Check with the Butte County Planning Department at (530) 538-7601 for current rules on your specific parcel. They can tell you what zone you are in, how many animals are allowed, and whether you need any permits or variances before getting started.
 
-You can find the general animal husbandry ordinances in the Paradise Municipal Code, Chapter 5.
+The county also has nuisance ordinances that require you to manage odor, noise, and waste properly. Even on a large parcel, a neighbor complaint about smell or noise can trigger an investigation.
 
-## Is there a limit to how many goats I can have in Paradise Town, California?
+## Key things to check before you start
 
-There is no limit to the number of goats you can have in Paradise Town, California. However, you will need to obtain a permit from the California Department of Fish and Wildlife if you intend to keep more than three goats.
+Find out your minimum acreage requirement for keeping goats. In many Butte County zones, you need at least half an acre for small livestock, with more acreage required as your herd size increases.
 
-In addition, you will need to follow the general animal husbandry ordinances set forth by the town, which include ensuring that your animals do not create a nuisance or health hazard and that they are properly cared for.
+Setback requirements matter too. Your goat shelter and fencing may need to be a certain distance from property lines, roads, and neighboring homes. Get these numbers from the planning department so you can design your setup correctly from day one without having to tear anything down later.
 
-## Where can I get a permit to keep goats in Paradise Town, California?
+Water rights and availability are another consideration in this part of California. Make sure your property has a reliable water source that can support livestock, especially during the dry summer months when well levels can drop.
 
-There are many different places where you can get a permit to keep goats in Paradise Town, California. One option is to contact the local government directly, as they are responsible for managing livestock within the city limits.
+## Raising goats in the Paradise climate
 
-Another potential source of information is your local landowner's association or homeowners' association.
+Paradise sits at about 1,700 feet elevation in the Sierra Nevada foothills, which means hot, dry summers and cool, wet winters. Goats handle this climate well as long as they have shade in summer and a dry shelter during the rainy season.
 
-These groups often have strict policies in place regarding the upkeep and maintenance of residential properties, and they may be able to provide detailed information about goat ownership in your area.
+The long dry season means you will likely need to supplement pasture with purchased hay from roughly June through October. Native grasses dry out and go dormant during summer, leaving little for goats to browse on without supplemental feeding.
 
-It's also worth noting that there are a number of online resources that can be helpful when looking for a permit for keeping goats.
+Fire risk is the elephant in the room for any livestock owner in this area. Have an evacuation plan for your animals, keep trailers accessible, and maintain defensible space around your barn and fencing per Cal Fire requirements. The 2018 fire proved that you need to be ready to move animals on short notice.
 
-For example, many state and local government websites have detailed information about licensing requirements for livestock owners, as well as general regulations around raising animals on private property.
+## Getting started with goats in Paradise
 
-Finally, you may also want to consult with a local expert or experienced goat owner who can offer advice on what it takes to maintain the health and welfare of your herd.
+Start by visiting the Butte County Planning Department website or calling their office to confirm your zoning and any required permits. Get everything in writing before you invest in fencing or animals.
 
-## What do I need to know before raising goats in Paradise Town, California?
+Choose a breed that suits your goals and climate. Nubians, Nigerian Dwarfs, and Boers all do well in the foothills. Buy from a local breeder who can give you animals already adapted to the dry summers and who knows the area well.
 
-Before you decide to raise goats in Paradise Town, there are a few key things that you need to know. First and foremost, it is important to have a proper goat-housing setup.
+Fence with the terrain in mind. Hilly parcels in the foothills may need extra reinforcement at low points where goats can jump from higher ground over the fence line. Woven wire at a minimum of 4 feet with T-posts every 8 feet is a solid starting point.
 
-This can include things like a sturdy barn or fenced pasture, as well as all of the necessary equipment such as feeders and water troughs.
+## Final Thoughts
 
-Not only do you have to remember to feed them, but you need to make sure the food is nutritious and that they're getting regular veterinary care.
+Paradise and the surrounding Butte County area can be a great place to raise goats, but you need to verify the current regulations before you start. The post-fire rebuilding changed the landscape in more ways than one.
 
-Plus, it is important to make sure that there are no known predators in the area where you plan to keep your goats.
-
-And finally, you will need to understand and follow all local regulations regarding livestock in order to keep yourself out of trouble with the law and avoid potential fines or legal action.
-
-With these considerations in mind, you can be sure that you are equipped with everything you need to successfully raise goats in Paradise Town.
-
-## The benefits of raising goats in Paradise Town, California?
-
-There are many benefits to raising goats in Paradise Town, California. For one, goat farming is a relatively low-cost, yet profitable venture.
-
-Goats require very little in the way of space and maintenance, making them ideal for small-scale farming operations in urban or suburban areas. Raising goats can be a great way to engage with your community and support local agriculture.
-
-A thriving herd of goats can help to beautify parks and green spaces by clearing away weeds and overgrowth, while also providing fresh milk and cheese for local residents.
-
-Keeping goats has been shown to have therapeutic benefits for both adults and children, helping people to connect with the natural world in a positive and meaningful way.
-
-So if you're looking for a sustainable and rewarding agricultural endeavor, raising goats in Paradise Town is certainly worth considering.
-
-## Are there any risks associated with raising goats in Paradise Town, California?
-
-For raising goats in Paradise Town, there are a few potential risks that should be considered.
-
-For starters, the town's climate can sometimes be quite extreme, with long periods of heat and humidity followed by sudden cold snaps. This can make it difficult for goats to stay comfortable and healthy, as they require moderate temperatures to thrive.
-
-Another potential risk is the presence of local predators, such as coyotes and wolves. Raising livestock in a rural area means that these animals may pose a threat to your herd, so it's important to take the necessary precautions to protect your goats from harm.
-
-However, with good management practices and careful planning, most people find that raising goats in Paradise Town is a rewarding and profitable experience.
-
-## How to get started raising goats in Paradise Town, California?
-
-To get started raising goats in Paradise Town, California, it is important to first do some research on the local regulations and zoning requirements for keeping livestock.
-
-Depending on where you live, there may be specific rules about the size and number of goats that you can have, as well as any required permits or licenses that you need to obtain before bringing your animals home.
-
-Once you have familiarized yourself with the local regulations, the next step is to select the perfect breed of goat for your needs. There are a wide variety of breeds available, each of which has its own unique set of characteristics and temperaments.
-
-Some popular options include Nubian goats, Nigerian dwarf goats, and Alpine goats. Each breed has its own advantages and drawbacks, so carefully consider your needs and pick a breed that will work best for you.
-
-For example, if you want a milk-producing animal, then Nubian or Nigerian dwarf goats may be good choices for you.
-
-Alternatively, if you are looking for an animal that will fare well in harsher climates or have a smaller ecological footprint, then Alpine goats might be more suitable for your purposes.
-
-Once you have selected your breed of goat, it is time to prepare your new home. Goats require plenty of space to roam and graze freely; ideally, they should have several acres or more to call their own.
-
-It is also important to provide adequate protection from the elements such as wind and rain by providing them with sturdy fencing and proper shelter.
-
-Also, you should consider adding other comforting elements to their living space like nutrient-rich grasses and shrubs, or any necessary medications or supplements they may need based on things like age or health conditions.
-
-With careful planning and preparation ahead of time, getting started raising goats in Paradise Town can be an enjoyable process that provides many benefits both personally and professionally.
-
-## 
-
-You can raise goats in Paradise Town, California as long as you take the proper precautions and follow the local regulations. There are a wide variety of breeds to choose from, each with its own set of characteristics.
-
-Be sure to pick a breed that will work best for your needs and provide them with plenty of space to roam and graze. With careful planning and preparation, raising goats can be an enjoyable and rewarding experience.
+Contact the Butte County Planning Department, check your zoning, and make sure you have a solid fire evacuation plan for your animals. Do your homework first and the goat-raising part will be the easy part.

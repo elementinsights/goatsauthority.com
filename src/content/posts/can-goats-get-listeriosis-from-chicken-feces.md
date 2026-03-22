@@ -41,152 +41,50 @@ faq:
   - question: "What is the treatment for listeriosis in goats and is it a serious illness?"
     answer: "Listeriosis is a serious bacterial infection that primarily affects goats. The bacteria typically enter the body through the nose and can cause severe respiratory illness. Listeriosis can also cause pneumonia, encephalitis, and meningitis."
 ---
-We all know that goats are curious creatures. They will pretty much put anything in their mouths, including chicken feces.
-
-So, can goats get listeriosis from chicken feces? And if so, what are the symptoms?
-
-we will answer those questions and provide you with some facts and FAQs about listeriosis in goats.
+Yes, goats can pick up listeriosis from chicken feces, though it is not the most common way they get it. The bigger culprit is usually moldy silage or haylage, but chicken droppings do carry Listeria monocytogenes and pose a real risk on mixed-species farms.
 
 ## Can goats get listeriosis from chicken feces?
 
-Also, listeriosis can be transmitted to goats through contact with infected animals, such as sheep or cattle. Once a goat is infected with the bacteria, it can spread the infection to other goats through close contacts, such as sharing food and water sources.
+Listeria monocytogenes lives in soil, water, and animal waste, including chicken droppings. When goats eat hay that chickens have roosted on or drink from water troughs contaminated with chicken feces, they can ingest the bacteria.
 
-So, it is important to be aware of the symptoms of listeriosis in goats and to take measures to prevent the disease from spreading.
+That said, the number one source of listeriosis in goats is poorly fermented silage or haylage with a pH above 5.5. Chicken feces is a secondary risk, but it is one you can control with good barn management. Farms that run chickens and goats in the same barn see higher rates of exposure simply because contamination is harder to avoid.
 
-## What is listeriosis in goats and what are the symptoms?
+The bacteria can survive for months in soil and bedding material, so even if you separate the species, residual contamination in shared spaces can still pose a threat. Cleaning and composting litter properly is not optional on a mixed farm.
 
-Listeriosis is a disease caused by the bacteria Listeria monocytogenes. This bacteria can infect goats, causing a range of symptoms including fever, diarrhea, and weakness.
+## What is listeriosis and what are the symptoms?
 
-In severe cases, listeriosis can lead to death.
+Listeriosis in goats most often shows up as the encephalitic form, commonly called circling disease. You will notice the goat walking in circles, tilting its head to one side, and drooling because the facial nerves stop working properly.
 
-The bacteria are usually found in contaminated food or water, and can also be spread through contact with infected animals. Goats can become infected if they eat contaminated hay or grass, or drink contaminated water.
+The other form causes abortions in pregnant does, usually in the last trimester. Affected goats may also run a fever, refuse food, and press their heads against walls or fence posts as the brain swells from infection.
 
-They can also contract the disease from other infected animals, such as sheep or cattle. Listeriosis is most common in young goats but can occur in any age group.
-
-Infected animals should be isolated from the rest of the herd to prevent the spread of the disease.
-
-Treatment typically involves antibiotics, and affected goats should be closely monitored for any signs of improvement. With prompt treatment, most goats will make a full recovery from listeriosis.
-
-Even so, the illness can be fatal in some cases, so it is important to seek veterinarian care as soon as possible if you suspect your goat may be infected.
+A goat with facial paralysis from listeriosis often cannot chew or swallow properly. Food falls out of the mouth while the goat stands at the feeder acting like it wants to eat. This is one of the earliest signs, and catching it at this stage gives you the best shot at saving the animal.
 
 ## How does listeriosis spread in goats?
 
-Listeriosis is a bacterial infection that can spread through the consumption of contaminated food. Goats can become infected with listeriosis by eating contaminated grass or hay.
+The bacteria enter through the mouth, often from contaminated feed or water. They can also get in through small cuts in the gums or cheek lining, which is why rough, stemmy hay sometimes increases the risk.
 
-The bacteria can also spread through contact with contaminated water.
+Once inside, Listeria travels along the nerves to the brain, which is why neurological symptoms develop. This nerve migration can take anywhere from a few days to several weeks, meaning a goat might not show symptoms until well after the initial exposure.
 
-Once a goat is infected, the bacteria can spread to other animals in the same herd. Listeriosis can also be spread to humans who consume unpasteurized milk or milk products from infected goats.
+Infected goats do not typically spread it directly to other goats through casual contact. But the contaminated environment, including bedding, feed, and water sources, stays dangerous until it is thoroughly cleaned and disinfected.
 
-In severe cases, listeriosis can lead to death. Therefore, it is important for goat owners to take measures to prevent the spread of this disease.
+## Treatment for listeriosis in goats
 
-## What is the treatment for listeriosis in goats and is it a serious illness?
+Time is everything with listeriosis. High-dose procaine penicillin G at 20,000 IU per pound of body weight, given every 6 hours, needs to start within hours of the first symptoms for the best chance of pulling a goat through.
 
-Listeriosis is a serious bacterial infection that primarily affects goats. The bacteria typically enter the body through the nose and can cause severe respiratory illness.
+Continue treatment for a minimum of 5 days, even if the goat starts looking better after 2 or 3 days. Stopping too early almost always leads to a relapse that is harder to treat the second time around.
 
-Listeriosis can also cause pneumonia, encephalitis, and meningitis.
+Supportive care matters too. Keep the goat hydrated with electrolytes, offer soft feed that is easy to swallow, and provide a quiet, sheltered space away from the rest of the herd. Recovery can take weeks even after the antibiotic course is finished.
 
-Treatment for listeriosis generally includes a course of antibiotics. In severe cases, hospitalization may be necessary.
+## How to prevent listeriosis on mixed farms
 
-goats suffering from listeriosis should be isolated from other animals to prevent the spread of the disease.
+Do not feed silage or haylage that smells off or has visible mold. Keep goat hay feeders elevated so chickens cannot roost on them and contaminate the hay with droppings. A keyhole-style feeder works well because chickens cannot squeeze through the narrow openings.
 
-## How can goat owners protect their animals from contracting listeriosis?
+Use separate water systems for chickens and goats, and compost chicken litter properly before spreading it on pastures. A compost pile that reaches 140 degrees Fahrenheit for several consecutive days will kill Listeria and most other harmful bacteria.
 
-Listeriosis is a serious bacterial infection that can be deadly in goats. The bacteria typically enter the goat's body through contaminated food or water.
+Clean shared barn spaces at least twice a week during warm months when bacterial growth is fastest. A diluted bleach solution on feeders and water troughs adds another layer of protection that takes just a few minutes.
 
-Once inside, the bacteria multiply and cause symptoms such as fever, diarrhea, and muscle stiffness. If left untreated, listeriosis can lead to organ failure and death.
+## Final Thoughts
 
-Fortunately, there are several steps that goat owners can take to protect their animals from this disease.
+Listeriosis is a serious disease that can kill a goat within days if you do not catch it early. While chicken feces can carry the bacteria, proper barn management and keeping feed and water clean will go a long way toward prevention.
 
-One of the most important things that goat owners can do is to practice good hygiene. This means washing hands thoroughly after handling goats or coming into contact with their food and bedding.
-
-It's also important to clean and disinfect any equipment that comes into contact with goats, such as brushes, collars, and feeders. In addition, goats should be vaccinated against listeriosis.
-
-This vaccine is typically given annually and is available from most veterinarians.
-
-Finally, if a goat does become sick, it's important to seek goat expert care immediately. With prompt treatment, most goats make a full recovery.
-
-## Are there any other measures that can be taken to prevent listeriosis in goats?
-
-In addition to practicing good hygiene and vaccinating goats against listeriosis, there are several other measures that goat owners can take to prevent their animals from contracting this disease. One is to feed goats a high-quality diet that includes plenty of fresh, clean water.
-
-Goats should also be kept in clean, dry housing. Their bedding should be changed regularly, and their living area should be cleaned and disinfected on a regular basis.
-
-Finally, sick goats should be isolated from healthy animals to prevent the spread of disease.
-
-Listeriosis is a serious bacterial infection that can be deadly in goats. However, by taking some simple precautions, goat owners can protect their animals from this disease.
-
-## What other diseases do goats commonly contract?
-
-Goats are susceptible to a variety of diseases, many of which can be deadly. Some of the most common diseases that affect goats include pneumonia, enterotoxemia, and coccidiosis.
-
-Therefore, it's important for goat owners to be aware of the signs and symptoms of these diseases and to seek expert care if their animal becomes sick.
-
-Pneumonia is a common respiratory disease in goats that can be caused by a variety of bacteria, viruses, and fungi. Symptoms include coughing, difficulty breathing, and a loss of appetite.
-
-If left untreated, pneumonia can lead to death.
-
-Enterotoxemia is a bacterial infection that affects the digestive system. Symptoms include diarrhea, vomiting, and bloating.
-
-If left untreated, enterotoxemia can be fatal.
-
-Coccidiosis is a parasitic infection that affects the intestine. Symptoms include diarrhea, weight loss, and anemia.
-
-Coccidiosis can be deadly if not treated promptly.
-
-These are just a few of the diseases that can affect goats. Therefore, it's important for goat owners to be aware of the signs and symptoms of these and other diseases.
-
-If a goat becomes sick, it's important to seek expert care immediately. With prompt treatment, most goats make a full recovery.
-
-## Are there any treatments available for sick goats?
-
-There are a variety of treatments available for sick goats. The type of treatment that is used will depend on the specific disease that the goat is suffering from.
-
-For example, pneumonia is typically treated with antibiotics. Enterotoxemia is usually treated with an antitoxin, and coccidiosis is often treated with a course of antibiotics.
-
-If a goat is suffering from any other type of disease, the best course of treatment will be determined by a Goat Expert.
-
-There are a variety of treatments available for sick goats. The type of treatment that is used will depend on the specific disease that the goat is suffering from.
-
-For example, pneumonia is typically treated with antibiotics. Enterotoxemia is usually treated with an antitoxin, and coccidiosis is often treated with a course of antibiotics.
-
-If a goat is suffering from any other type of disease, the best course of treatment will be determined by a goat expert.
-
-### Managing Shared Spaces Between Chickens and Goats
-
-Plenty of small farms run chickens and goats together in the same barn or pasture. It can work, but it takes extra management to keep everyone healthy.
-
-The biggest risk is goats eating feed or hay that chickens have contaminated with droppings. Elevate goat hay feeders so that chickens cannot roost on them and poop into the hay. A keyhole-style feeder works well because the openings are too narrow for chickens to squeeze through.
-
-Water troughs are another hotspot for contamination. Chickens love to perch on the edge of water buckets, and their droppings land right in the drinking water. Use nipple waterers for chickens and covered troughs for goats to keep the two systems separate.
-
-Clean the shared barn floor more frequently than you would for a single-species setup. Twice-weekly stall cleaning with fresh bedding goes a long way toward reducing the bacterial load in the environment.
-
-### Early Signs of Listeriosis Every Goat Owner Should Know
-
-Listeriosis in goats often starts with one eye drooping or the goat circling to one side. These neurological signs are easy to miss if you are not looking for them, especially in a large herd.
-
-A goat that presses its head against a wall or fence post is another early warning sign. Head pressing indicates brain swelling or discomfort, and it should send you straight to the phone to call your vet.
-
-The goat may also drool excessively because the facial nerves are affected by the bacteria. Food may fall out of its mouth while chewing, or the goat might stand in front of the hay feeder and act like it wants to eat but cannot.
-
-Treatment with high-dose penicillin needs to start within hours of the first symptoms for the best chance of recovery. Every hour you wait reduces the odds of pulling that goat through.
-
-### Cleaning Protocols After a Listeriosis Outbreak
-
-If one of your goats tests positive for listeriosis, immediately isolate it from the rest of the herd. Move it to a completely separate pen with its own water and feed supply.
-
-Strip the bedding from any area the sick goat occupied and replace it with fresh material. Spray all surfaces, including walls and feeders, with a diluted bleach solution and let it sit for at least 10 minutes before rinsing.
-
-Monitor every other goat in the herd for symptoms over the next three weeks. Listeriosis can have an incubation period of up to 21 days, so you are not in the clear just because the rest of the herd looks fine today.
-
-## 
-
-Goats can get listeriosis from chicken feces. This is a serious bacterial infection that can be deadly in goats.
-
-The bacteria typically enter the body through the nose and can cause severe respiratory illness.
-
-Listeriosis can also cause pneumonia, encephalitis, and meningitis. Treatment for listeriosis generally includes a course of antibiotics.
-
-In severe cases, hospitalization may be necessary. Goats suffering from listeriosis should be isolated from other animals to prevent the spread of the disease.
-
-Goat owners can protect their animals from contracting listeriosis by practicing good hygiene, vaccinating their goats against the disease, and feeding them a high-quality diet. Sick goats should be isolated from healthy animals to prevent the spread of disease.
+If you run chickens and goats together, elevate hay feeders, cover water troughs, and clean shared spaces more often than you would for a single species. The extra work is worth it when you never have to watch a goat circle its pen with a drooping face.

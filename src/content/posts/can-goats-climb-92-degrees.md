@@ -37,119 +37,47 @@ faq:
   - question: "What breed of goat is best for climbing?"
     answer: "Pygmy goats are known for their small size, but they are also agile and sure-footed, making them ideal for climbing."
   - question: "What are the benefits of letting your goats climb?"
-    answer: "When it comes to goats, there are a few things they love more than climbing. Whether it’s a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces."
+    answer: "When it comes to goats, there are a few things they love more than climbing. Whether it's a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces."
   - question: "Do you need special equipment for your goats to climb?"
     answer: "In most cases, no special equipment is necessary for goats to climb. However, there are a few products on the market that can help to make climbing more enjoyable for both goats and their owners."
 ---
 
-it's impossible to tell whether goats can climb 92 degrees, and you might ask how they got their start or what exactly they are capable of.
+You've probably seen those viral photos of mountain goats standing on what looks like a perfectly vertical cliff face. It's impressive stuff, but the claim that goats can climb 92 degrees is a stretch of the truth.
 
-We will answer a few of the most frequently asked questions regarding goats in this article. We'll talk about their functions, capabilities, and some unique information.
+Let's break down what goats can actually do on steep terrain, because the reality is still pretty remarkable without the exaggeration.
 
 ## Can goats climb 92 degrees?
 
-Then again, there are some things that goats can't do. For example, they can't jump very high.
+No, 92 degrees would be past vertical. That's an overhang, and no goat on earth can climb an overhang. The photos you see online are often shot at misleading angles that make slopes look steeper than they really are.
 
-Their legs are too short in comparison to their bodies.
+Wild mountain goats can reliably handle inclines up to about 60 degrees, and they can manage short bursts on near-vertical rock faces where cracks and tiny ledges give them something to grip. That's still incredibly steep, but it's not defying physics.
 
-## What breed of goat is best for climbing?
+## How goat hooves work on steep surfaces
 
-Pygmy goats are known for their small size, but they are also agile and sure-footed, making them ideal for climbing.
+A goat's hoof is split into two toes, and each toe has a hard outer edge with a soft, rubbery inner pad. The hard edge digs into rock and ice for grip while the soft pad conforms to uneven surfaces and provides traction, almost like a hiking boot sole.
 
-Nigerian dwarf goats are another option, as they are also small and dexterous. LaMancha goats are the third possibility, as they have longer legs in proportion to their bodies, which gives them good balance.
+They also have a dewclaw higher up on the leg that acts as a brake on steep descents. This combination of hard and soft, plus their low center of gravity, is what lets them move confidently on terrain that would send most animals tumbling.
 
-Alpine goats are the fourth choice, as they are strong and agile with curved horns that help them grip surfaces.
+## Wild mountain goats vs domestic goats
 
-Any breed of goat can be trainable for climbing, so the best option may depend on what other qualities are desired in a pet goat.
+Wild mountain goats (Oreamnos americanus) are a different animal from the domestic goats in your barn. They've evolved specifically for steep, rocky alpine environments and can handle terrain that domestic breeds simply can't match.
 
-For example, if friendly temperament is a priority, a Nigerian dwarf goat may be the best choice. If the size is of utmost importance, a pygmy goat would be the better selection.
+Domestic goats can still climb steep hillsides, rock piles, and even trees with low-hanging branches. Nigerian Dwarfs, Pygmies, and Alpine breeds are the best climbers among domestic goats, but none of them come close to what a wild mountain goat can do on a sheer cliff face.
 
-Some goat owners even choose to keep multiple breeds so that they can enjoy the best of all worlds.
+## Why climbing is good for domestic goats
 
-## What are the benefits of letting your goats climb?
+Climbing gives goats exercise that they can't get from flat ground alone. It works different muscle groups, builds balance, and keeps their hooves naturally worn down so you don't have to trim as often.
 
-There are a few things they love more than climbing. Whether it’s a rocky hillside or a stack of hay bales, goats seem to have a natural affinity for vertical surfaces.
+Goats that have access to climbing structures are less bored, less stressed, and less likely to test your fences. A few large rocks, a wooden platform, or some old cable spools inside their pen go a long way toward keeping them happy and contained.
 
-While this behavior may seem like simple mischief, there are actually several benefits to letting your goats climb. For starters, climbing is a great way for goats to stay active and exercise their muscles.
+## Keeping climbers safe on your property
 
-Climbing can help goats to develop balance and coordination.
+If you want to give your goats climbing opportunities, make sure the structures are stable and won't tip over under their weight. Avoid anything with gaps where a leg or head could get trapped, and check regularly for wear and rot on wooden platforms.
 
-Finally, climbing is simply fun for goats, and it can help to reduce boredom and stress levels. So, if you have a few goats on your property, be sure to give them plenty of opportunities to climb and play.
+Keep all climbing structures away from fence lines. A goat that can get 3 feet up on a rock pile next to a 4-foot fence just turned that fence into a 1-foot fence. Check for sharp edges, loose boards, and anything that could break under a goat's full weight when it lands from a jump.
 
-On top of that the benefits above, goats that are given the chance to climb often are also less likely to try and escape their enclosure. If they have an outlet for their climbing behaviors, they will be less likely to test the boundaries of their home.
+## Final Thoughts
 
-## Do you need special equipment for your goats to climb?
+The 92-degree claim is an exaggeration, but goats are still incredible climbers. Wild mountain goats handle slopes up to 60 degrees routinely, and domestic goats can manage steep hillsides and rock piles without breaking a sweat.
 
-In most cases, no special equipment is necessary for goats to climb. However, there are a few products on the market that can help to make climbing more enjoyable for both goats and their owners.
-
-For example, many goat owners choose to build hay bales towers for their animals. These structures provide a fun challenge for goats, and they can also be used as a source of food and bedding.
-
-If you are interested in giving your goats a hay bale tower of their own, be sure to build it with sturdy materials that can support the weight of your animals. Make sure the tower is tall enough to give your goats a good workout, but not so tall that they are in danger of injuring themselves.
-
-Another option for goat owners is to purchase a set of Goat Climbing Pads. These pads are specifically designed to help goats grip surfaces and stay steady on their feet.
-
-They can be placed on walls, fences, or other structures to create a fun climbing area for your animals.
-
-Goat climbing pads are made from a variety of materials, including rubber, carpet, and fabric. They are typically very durable and can withstand heavy use from even the most enthusiastic climbers.
-
-If you are interested in giving your goats a little help with their climbing, goat climbing pads may be a good option to consider.
-
-Do some research to figure out what will work best for your animals and your property. With a little effort, you can create a fun and challenging climbing area that your goats will love.
-
-## What are some things to consider before letting your goats climb?
-
-Before letting your goats climb, there are a few things you should take into consideration.
-
-First, goats are naturally curious animals and will likely want to explore any new heights they have access to. This can mean climbing on furniture, fences, or even trees.
-
-While goats are sure-footed creatures, there's always the potential for them to fall and injure themselves.
-
-If you have any concerns about your goat's safety, it's best to consult with a veterinarian or professional goat keeper before letting them climb.
-
-Second, consider the type of terrain your goat will be climbing. If the ground is uneven or unstable, it could pose a risk of injury for your goat.
-
-To wrap up, make sure that there are no sharp edges or objects that could hurt your goat while they are climbing.
-
-In addition, it's always a good idea to supervise your goat while they are climbing, just to be on the safe side.
-
-## What are the risks of letting goats climb?
-
-There are some risks associated with letting goats climb, such as injury. Goats can fall and break their legs or horns.
-
-They can also get caught on something and strangle themselves.
-
-Another risk is that of losing the goat. If a goat gets loose, it may be difficult to find it again, especially if it has climbed to a high place.
-
-One more thing: there's the risk of damaging property. Goats can cause damage to crops, gardens, and fences.
-
-Despite these risks, many goat owners feel that the benefits of letting their goats climb outweigh the dangers. Goats are natural climbers, and it gives them exercise and stimulation.
-
-It also helps them to socialize and bond with their owners.
-
-## How to prevent your goats from climbing?
-
-If you are concerned about the risks of letting your goats climb, there are some things you can do to prevent them from doing so.
-
-First, you can provide your goats with an alternate source of exercises, such as a playground or pasture. This will help to keep them active and reduce their boredom.
-
-Second, you can trim their hooves regularly. This will help to prevent them from getting caught on objects and injuring themselves.
-
-Finally, you can fence off any areas you don't want them to access. By taking these precautions, you can help keep your goats safe while still allowing them to enjoy their natural climbing behavior.
-
-## What else can goats do?
-
-Goats are intelligent animals and can be trained to perform a variety of tricks.
-
-They are also very social creatures and enjoy the company of both humans and other goats. In fact, they often become attached to their owners and may even follow them around like a dog.
-
-Goats are curious about nature and love to explore their surroundings. They are also known for their playful personalities and will often engage in "games" with each other, such as head-butting or chasing.
-
-In addition to being wonderful pets, goats can also provide milk, cheese, wool, and even meat. They are truly versatile animals that have a lot to offer.
-
-So, whether you're looking for a new pet or considering adding goats to your farm, there's a lot to love about these amazing creatures. We hope you've enjoyed learning a little bit more about them.
-
-## Closing Notes
-
-Goats can climb 92 degrees but there are some risks associated with letting them do so. However, many goat owners feel that the benefits of letting their goats climb outweigh the dangers.
-
-If you are concerned about the risks of letting your goats climb, there are some things you can do to prevent them from doing so. Finally, remember that goats are interesting and versatile animals that can make great pets.
+Give your domestic goats something to climb inside their pen, and they'll be healthier, happier, and far less interested in escaping. Just keep the climbing structures away from your fence line, or you'll find out exactly how athletic your goats really are.

@@ -41,132 +41,52 @@ faq:
   - question: "Are there any risks associated with mountain goats digging noches out of rocks?"
     answer: "The presence of mountain goats in some areas can lead to the formation and expansion of their characteristic noches, or pits, in rocky terrain."
 ---
-Mountain goats are well known for their climbing abilities, but how about digging? Can mountian goats dig noches out of rocks?
+Mountain goats are famous for standing on cliff ledges that look impossible, and people often wonder if they actually carve notches into the rock to get a foothold. It's a fair question when you see photos of them perched on sheer cliff faces.
 
-And if so, what do they use them for?
-
-Here's the short version.we'll explore the possibility of mountain goats digging noches out of rocks, and what they might use them for.
+The short answer is that mountain goats don't dig notches into rock the way you might imagine. What they actually do is far more interesting.
 
 ## Can mountain goats dig noches out of rocks?
 
-In addition to their hooves and horns, mountain goats have another tool that helps them break up rocks: their teeth. Mountain goats have very strong teeth that can bite through tough materials like wood and bone.
+Mountain goats don't carve or gouge notches into solid rock. They're strong animals, but rock is harder than hooves and horns. What they do is find and use existing natural features in the rock face.
 
-## What are the purposes of noches for mountain goats?
+Cracks, ledges, rough patches, and small depressions left by weathering and erosion give mountain goats all the footholds they need. They're incredibly skilled at spotting and using surfaces that look completely unusable to us.
 
-There are several different purposes of noches for mountain goats. For one thing, noches can help mountain goats to scale steep surfaces more easily by providing them with traction and better grip.
+The "notches" people see on cliff faces where mountain goats travel are natural erosion features, not goat-made carvings. Generations of goats find and use these same features over and over, which can make it look like the goats created them.
 
-They also serve as a important shelter from the elements, protecting mountain goats from extreme cold and precipitation.
+## How mountain goat hooves actually work
 
-Plus, noches play an important role in social interactions within herds, allowing goats to bond with one another through grooming and sniffing activities.
+The secret is in their hooves. Each hoof has two toes that spread apart independently, almost like a pair of pliers gripping the rock surface.
 
-These sharp-clawed foot formations make essential tools for mountain goats in their rugged habitats, helping them to thrive and survive in the wild.
+The outer edge of each hoof is hard and sharp, made of thick keratin that bites into ice and rough stone. The inner pad is soft and rubbery, giving them grip on smooth surfaces where other animals would slide right off.
 
-## What are the benefits of mountain goat noches?
+This combination lets mountain goats stand on ledges narrower than a bookshelf. No other large mammal in North America can match that level of agility on vertical rock faces.
 
-While mountain goats may seem like an odd choice for an animal, the infamous noche of these creatures provides a number of key benefits to their environments.
+## What mountain goats actually dig for
 
-For one thing, by grazing on less palatable plant species, mountain goats help to allow more nutritious plants and grasses to flourish.
+Mountain goats do paw at the ground, but they're digging into soil and snow, not solid rock. They scrape away snow to reach buried vegetation during winter months when food is scarce.
 
-They also help to aerate soils with their hooves, increasing access to water and nutrients for other organisms.
+They also dig at mineral licks to access salt and other trace minerals. High-altitude environments are naturally low in sodium, and mountain goats have an intense craving for it.
 
-Also, the noches of valuable minerals in the soil that are excreted by mountain goats provide essential nutrients for surrounding flora.
+Over time, entire herds return to the same mineral-rich spots again and again. These repeated visits can wear visible depressions into softer rock and soil that grow deeper across generations. Some mineral lick sites in the Rocky Mountains have depressions worn several inches deep from decades of use.
 
-The role of mountain goat noches in the ecosystem is essential and cannot be overstated.
+## How they navigate impossible terrain
 
-Whether you're a casual hiker or a seasoned wilderness explorer, it's worth a trip up into the mountains to witness first-hand this fascinating phenomenon in action.
+Mountain goats pick routes that look suicidal to humans but are actually carefully chosen paths. They test footholds before committing their full weight, and they remember routes they've used before.
 
-## Are there any risks associated with mountain goats digging noches out of rocks?
+Kids learn the safe paths by following their mothers from a very young age. By the time a young mountain goat is a few months old, it's already scrambling up cliff faces that would give a rock climber a serious challenge.
 
-The presence of mountain goats in some areas can lead to the formation and expansion of their characteristic noches, or pits, in rocky terrain.
+Their low center of gravity and compact muscular build help them balance on tiny ledges. They can also jump up to 12 feet in a single bound when they need to clear a gap between rock features.
 
-These noches play an important role for mountain goats by providing a safe place for them to rest and giving them easy access to nutrients found within the rocks. There are, however, some risks associated with this behavior.
+## When and where to see mountain goats
 
-For example, noches can fill with rainwater, which can make them unstable and potentially dangerous for goats that are resting inside.
+Mountain goats are most active during early morning and late afternoon hours. You'll find them in alpine and subalpine zones across the western mountains of North America, from Alaska down through the northern Rockies.
 
-As goats continue to excavate new holes, there is greater potential for rockslides or other accidents caused by destabilized terrain.
+Look for them on rocky slopes, cliff faces, and near natural mineral licks. National parks like Glacier, Mount Rainier, and Olympic are some of the best places to spot them.
 
-Despite these risks, mountain goat populations have continued to thrive in many regions around the world, demonstrating both their resilience and adaptability.
-
- then, it is clear that while there may be associated risks with goat-dug noches, they remain a key part of goat ecology and an important aspect of goat habitat management.
-
-## How can mountain goats dig noches out of rocks?
-
-Mountain goats have a distinctive adaptation that sets them apart from many other animals: their hooves.
-
-Unlike most animals that walk on hard surfaces, mountain goats have special hooves with thick keratin pads and sharp edges.
-
-These features make it easier for mountain goats to cling to rocky cliff faces and dig into the crevices of stone.
-
-They also help to provide protection for smaller goat noches, which are particularly vulnerable to being destroyed by other predators like coyotes or foxes.
-
-Some scientists have suggested that the unique shape of these hooves may even be a result of the goat's natural habitat since the barren landscape requires increased flexibility in the foot structure of these animals.
-
-Whatever the case may be, it is clear that mountain goats possess an incredible ability to navigate difficult terrain and dig into even the hardest rocks.
-
-And despite their tenacity in tough environments, these hearty creatures remain at risk due to human encroachment on their natural habitat.
-
-Hopefully, we can work together to protect this fascinating species and ensure their survival for generations to come.
-
-## Do all mountain goats dig noches?
-
-It is difficult to say for certain whether all mountain goats dig noches. There are a number of factors that could influence this, including the size and composition of the mountain goat herd, as well as their environment and feeding habits.
-
-Some scientists believe that large herds may be more likely to engage in noches digging, as there is greater competition for food sources on the mountainside.
-
-It is also possible that some mountain goats choose not to dig noches, perhaps due to environmental conditions or food availability.
-
-Even so, there have been no definitive studies on this topic, so conclusive answers about mountain goat noches-digging behaviors remain elusive for now.
-
-When all is said and done, further research will be necessary to gain a better understanding of this fascinating natural behavior.
-
-## What else can mountain goats do besides dig noches?
-
-There is no doubt that mountain goats are some of the most versatile creatures in the animal kingdom.
-
-Not only do these sturdy animals spend most of their time trekking across rugged mountain terrain and digging noches in the ice, but they are also known for their strong sense of balance and relative ease in adapting to drastic changes in weather conditions.
-
-These hardy animals demonstrate a remarkable ability to discern smells, tastes, and textures, making them well-equipped to survive and thrive no matter where they happen to wander.
-
-Mountain goats have shown that they are capable of doing much more than simply digging noches in challenging environments--they are truly adaptive masters of the natural world.
-
-## When is the best time to see mountain goats?
-
-Mountain goats are most active during the daytime, so the best time to see them is in the early morning or late afternoon.
-
-However, they can also be spotted at night, particularly during the summer months when they are more likely to be out feeding. If you're hoping to catch a glimpse of these sure-footed creatures, keep your eyes peeled for them on rocky mountain slopes or near bodies of water.
-
-And remember to give them plenty of space, as mountain goats are wild animals and can be unpredictable at times.
+Give them plenty of space if you do find them. Mountain goats are wild animals, and while they sometimes seem tolerant of humans, they can be unpredictable and aggressive, especially during breeding season.
 
 ## Final Thoughts
 
-### The Role of Salt Licks in Noche Digging
+Mountain goats don't actually dig notches out of rocks. They use natural ledges, cracks, and rough surfaces for footing, and their specially designed hooves give them grip that no other large animal can match.
 
-One of the main reasons mountain goats dig into rock is to access mineral deposits, especially sodium. High-altitude environments are naturally low in salt, and goats have an intense craving for it.
-
-Over time, entire herds will return to the same mineral-rich rock faces again and again. These repeated visits carve out visible depressions in the stone that can grow to several inches deep across generations of goats.
-
-Salt licks along cliff faces can actually become a problem for trail maintenance in national parks. The goats will stand on narrow ledges for hours, licking and scraping at the rock, which loosens debris and creates small rockfall hazards for hikers below.
-
-Park managers in places like Glacier National Park have experimented with providing artificial mineral supplements to redirect goats away from trails. The results have been mixed, but it shows just how strong the mineral drive is in these animals.
-
-### How Deep Can Mountain Goat Noches Actually Get?
-
-Individual noches are usually only a few inches deep, but when entire herds use the same rock face for decades, the cumulative effect is impressive. Some mineral lick sites in the Rocky Mountains have depressions worn several feet into the stone.
-
-The depth depends heavily on the rock type. Softer sedimentary rock gives way much faster under hooves and horns than granite or basite. Limestone in particular wears down quickly because it dissolves slightly when mixed with goat saliva.
-
-Researchers at Glacier National Park measured some noche sites that were over 8 inches deep. Those depressions likely took 50 years or more to form from repeated visits by multiple generations of goats.
-
-### Mountain Goat Hoof Structure and Why It Matters
-
-The secret to a mountain goat's digging ability is its split hoof. Each hoof has two toes that can spread apart independently, giving the goat a grip that works almost like a pair of pliers on rock surfaces.
-
-The outer edge of the hoof is hard and sharp for cutting into ice and stone. The inner pad is soft and rubbery, providing traction on smooth surfaces where other animals would slip.
-
-This combination lets mountain goats stand on ledges narrower than a bookshelf while they scrape and lick mineral deposits. No other large mammal in North America can match that level of agility on sheer rock.
-
-Mountain goats are some of the most fascinating creatures in the animal kingdom. These hardy animals have adapted to thrive in some of the most challenging environments, and they possess a variety of unique abilities that make them well-suited for life in the mountains.
-
-Whether you're marveling at their agility while they climb sheer cliff faces or watching them dig noches into the ice, there's no doubt that mountain goats are an impressive sight to behold.
-
-And with their populations rapidly diminishing due to human encroachment on their natural habitats, it is more important than ever to appreciate these amazing animals and work together to protect them.
+They do dig into soil and snow to access mineral licks and buried food, and those repeated visits can wear shallow depressions into softer ground over decades. It's the natural rock features and their remarkable hooves that let them live where nothing else can.

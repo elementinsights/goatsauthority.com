@@ -41,131 +41,48 @@ faq:
   - question: "What is Kentucky bluegrass and what are its benefits to goats?"
     answer: "Kentucky bluegrass is a perennial grass that is native to Europe and Asia. It was introduced to North America in the early 1800s and has since become one of the most popular grasses for both turf and pasture."
 ---
-
-You might be unsure whether it's okay for your goats to eat Kentucky bluegrass. If so, what are the advantages, risks, and quantities of feeding this grass to your goats?
-
-We will answer all of your questions so that you can decide for yourself whether or not to feed Kentucky bluegrass to your goats.
+Yes, Kentucky bluegrass is safe for goats and it shows up in countless goat pastures across the country. It is a solid cool-season grass that provides decent nutrition, especially during spring and fall growth flushes.
 
 ## Can goats eat Kentucky bluegrass?
 
-However, Kentucky bluegrass is not a very nutrient-dense food source, so it should not be the only thing that goats eat. It's best to use this grass as a supplement to other, more nutritious foods in their diet.
+Kentucky bluegrass is completely safe for goats. It is not toxic, it is easy to digest, and it provides a reasonable source of fiber and protein when it is actively growing.
 
-## Can all parts of Kentucky bluegrass be edible to goats?
-
-Kentucky bluegrass is a perennial grass that is common in lawns and pastures. It's characterized by its blue-green color and thick, coarse blades.
-
-Kentucky bluegrass is also known for being tolerant of cold weather and drought.
-
-While Kentucky bluegrass is not typically consumed by humans, goats are known to eat all parts of the plant, including the roots, stems, leaves, and flowers. In fact, goats will often choose to eat
-
-Kentucky bluegrass over other types of vegetation. This is likely due to the high nutrient content of the grass.
-
-Kentucky bluegrass is high in protein, fiber, and minerals, making it an ideal food source for goats.
-
-## Can all kinds of goats eat Kentucky bluegrass?
-
-Goats are browsers, not grazers like cows. This means that they prefer to nibble on leaves and woody vegetation rather than grazing on grasses.
-
-This means not all goats will eat Kentucky bluegrass.
-
-There are some breeds of goats, such as the Cashmere goat, that have a more diverse diet and will happily eat Kentucky bluegrass.
-
-If you're unsure whether your goat will eat Kentucky bluegrass, it's always best to consult with an experienced goat breeder. They will be able to advise you on the best diet for your goat based on its breed, age, and health.
+Goats prefer browse over grass as a general rule, but they will graze on bluegrass, particularly when it is mixed with clover or other legumes. A diverse pasture that includes bluegrass alongside other plants gives goats the variety their rumen thrives on.
 
 ## What is Kentucky bluegrass and what are its benefits to goats?
 
-Kentucky bluegrass is a perennial grass that is native to Europe and Asia. It was introduced to North America in the early 1800s and has since become one of the most popular grasses for both turf and pasture.
+Kentucky bluegrass is a cool-season perennial that originally came from Europe and Asia. It was introduced to North America in the early 1800s and is now one of the most common pasture and lawn grasses in the northern half of the country.
 
-Kentucky bluegrass is known for its dense, deep-green foliage and its ability to tolerate heavy foot traffic. It's also a fairly drought-resistant grass, making it a good choice for areas that experience periods of dry weather.
+Protein content runs around 12 to 15 percent when the grass is actively growing in spring and fall. During those growth flushes, bluegrass is a solid forage that can support lactating does and growing kids.
 
-As far as goats are concerned, Kentucky bluegrass is an excellent source of nutrition. Goats are able to digest the grass easily, and it provides them with a balanced diet of proteins, carbohydrates, and fats.
-
-The grass is high in fiber, which helps to keep the goat's digestive system healthy. Kentucky bluegrass is a versatile grass that can be used for both grazing and hay production.
-
-it's also relatively easy to maintain, making it a good choice for farmers who are looking for low-maintenance pasture grass.
-
-## How do goats eat Kentucky bluegrass?
-
-Goats are known for their ability to eat just about anything, but how do they eat Kentucky bluegrass? Unlike cows and other grazers, goats are able to stand on their hind legs and reach high into the grass to pull down the blades.
-
-They then use their long tongues to strip off the leaves and flowers. The remaining stems are discarded.
-
-This unique form of grazing helps goats to get the most out of each bite of grass.
-
-In addition, it allows them to better control the amount of grass they consume. Goats can maintain a healthy diet while still enjoying a tasty treat.
+The grass is winter-hardy and recovers well from grazing, which makes it a reliable base for pastures in cooler climates. It also handles foot traffic better than most grasses, so high-traffic areas near gates and water troughs hold up reasonably well.
 
 ## Are there any risks associated with feeding Kentucky bluegrass to goats?
 
-Kentucky bluegrass is a type of forage grass that is commonly fed to livestock. It's high in protein and fiber, and it can be used to supplement a diet or as the sole source of food.
+The main risk is bloat during the lush spring growth flush. Thick, fast-growing bluegrass is high in moisture and low in structural fiber, which can cause rapid gas buildup in the rumen if a goat gorges on it.
 
-But, there are some risks associated with feeding Kentucky bluegrass to goats.
+Feed hay before turning goats out on lush spring pasture. A belly full of dry hay slows down their intake of wet grass and gives the rumen more fiber to work with.
 
-The main concern is bloat, which is a condition that can occur when animals consume too much grass. Bloat can cause the stomach to fill with gas, and it can be fatal if left untreated.
-
-Other risks include intestinal blockages and diuretic effects.
-
-While Kentucky bluegrass is generally safe for goats, it's important to consult with an experienced goat breeder before feeding it to your animals.
+During summer, bluegrass goes semi-dormant in hot weather and its nutritional value drops off significantly. If your pasture is mostly bluegrass, you will need to step up hay supplementation during the summer months so your goats do not lose condition.
 
 ## How much Kentucky bluegrass should be fed to goats on a daily basis?
 
-Kentucky bluegrass is a type of grass that is commonly found in pastures. It's known for its ability to withstand heavy grazing, and it's a popular choice for feeding goats.
+Let your goats graze bluegrass as part of a mixed pasture rather than trying to measure out a specific daily amount. As long as they have access to hay and browse alongside the grass, they will self-regulate.
 
-However, how much Kentucky bluegrass should be fed to goats on a daily basis?
+Goats need 2 to 4 percent of their body weight in dry matter each day. Bluegrass can contribute a good portion of that during spring and fall, but it should not be the only forage on offer.
 
-The answer depends on the age and weight of the goat, as well as the quality of the grass. For example, a young kid will need less grass than an adult goat.
-
-Adults should consume about 2-3% of their body weight in grass per day. So, if you have a 30 lb goat, they should eat around 1 lb of grass per day.
-
-The best way to determine how much grass your goat needs is to consult with an experienced goat breeder. They will be able to give you specific recommendations based on your goat's individual needs.
+Planting bluegrass alongside orchard grass, white clover, or other forages creates a more balanced pasture. The clover adds nitrogen to the soil and boosts the overall protein content, while different grass species mature at different rates to extend the productive grazing window.
 
 ## What are some recipes that include Kentucky bluegrass that goat owners can make for their animals?
 
-There are many different recipes that goat owners can make for their animals that include Kentucky bluegrass.
+There are no special recipes needed. Bluegrass works best as a living pasture that goats graze on naturally, and it can also be cut and dried into hay if you have enough acreage.
 
-Some of these recipes include Kentucky bluegrass hay cubes, Kentucky bluegrass pellets, and Kentucky bluegrass haylage.
+Bluegrass hay should be cut before the seed heads mature for the best nutritional value. Once it goes to seed, the protein content drops and the stems become coarse and less palatable.
 
-All of these recipes are designed to provide goats with the nutrients they need to stay healthy and thrive.
+Fall brings a second flush of growth that is nearly as nutritious as spring. Take advantage of this by rotating goats onto rested bluegrass paddocks in September and October to get the most out of that late-season nutrition.
 
-### Mixing Kentucky Bluegrass With Other Forages
+## Final Thoughts
 
-Goats do best when they have access to a variety of forage types rather than just one species of grass. Planting Kentucky bluegrass alongside orchard grass or white clover creates a more balanced pasture.
+Kentucky bluegrass is a safe, reliable pasture grass for goats. It hits its peak nutritional value in spring and fall and provides a good base for mixed-species pastures in cooler climates.
 
-Clover adds nitrogen to the soil and provides a higher protein source that complements the fiber in bluegrass. Orchard grass matures at a different rate, so the pasture stays productive over a longer window each season.
-
-This type of mixed pasture also reduces the chance of bloat. When goats eat a single species exclusively, the rumen bacteria become specialized and less adaptable. A diverse pasture keeps the microbial population flexible and better equipped to handle whatever the goat eats.
-
-### How to Establish a Kentucky Bluegrass Pasture for Goats
-
-Start by soil testing your pasture area before seeding. Kentucky bluegrass prefers a soil pH between 6.0 and 7.0. If your soil is too acidic, apply agricultural lime according to the test recommendations.
-
-Seed in early fall for the best results. Fall seeding gives the grass time to establish roots before winter dormancy, and spring growth will be vigorous. Spread seed at a rate of two to three pounds per thousand square feet for a thick stand.
-
-Keep goats off the new pasture until the grass is at least four inches tall and has been mowed once. Grazing too early pulls young plants out by the roots before they are established. Most new bluegrass pastures need at least one full growing season before they can handle regular grazing.
-
-### Seasonal Changes in Bluegrass Nutritional Value
-
-Kentucky bluegrass hits its peak nutritional value in spring when new growth is lush and green. Protein content can reach 15 to 20 percent during this flush, which is excellent for growing kids and lactating does.
-
-By midsummer, the grass goes semi-dormant in hot weather and its nutritional value drops significantly. This is when supplemental hay becomes more important. Do not rely on dormant bluegrass as your goats' sole food source during the summer slump.
-
-Fall brings a second flush of growth that is nearly as nutritious as spring. Take advantage of this by rotating goats onto rested bluegrass paddocks in September and October to get the most out of the fall growth.
-
-### Managing Bloat Risk on Lush Bluegrass
-
-Bloat is the biggest risk when goats graze on thick, lush bluegrass, especially in spring. The fast-growing grass is high in moisture and low in fiber, which can cause rapid gas buildup in the rumen.
-
-Feed hay before turning goats out on lush pasture. A goat with a belly full of dry hay is less likely to gorge on wet grass. Make hay available in the pasture at all times so goats can self-regulate.
-
-Watch for a goat standing with its left side visibly distended and appearing uncomfortable. Mild bloat can sometimes be relieved by walking the goat around to encourage gas release. Serious cases require a vet or emergency stomach tube to relieve the pressure.
-
-## 
-
-Goats can eat Kentucky bluegrass, but there are some risks associated with feeding it to them. The main concern is bloat, which is a condition that can occur when animals consume too much grass.
-
-Bloat can cause the stomach to fill with gas, and it can be fatal if left untreated. Other risks include intestinal blockages and diuretic effects.
-
-While Kentucky bluegrass is generally safe for goats, it's important to consult with an experienced goat breeder before feeding it to your animals.
-
-In addition, you should only feed Kentucky bluegrass to goats that are over the age of six months. Kids younger than six months old are not able to digest grass properly and may experience health problems if they eat too much of it.
-
-If you do decide to feed Kentucky bluegrass to your goats, make sure to only give them a small amount on a daily basis. Too much grass can lead to health problems, so it's important to be cautious when feeding it to your animals.
+Watch for bloat during lush spring growth, supplement with hay during the summer slump, and mix in clover or other forages for a more balanced pasture. Do that, and bluegrass will serve your herd well year after year.

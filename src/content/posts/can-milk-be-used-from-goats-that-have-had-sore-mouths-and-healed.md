@@ -41,121 +41,50 @@ faq:
   - question: "When should you not use milk from a goat with a sore mouth?"
     answer: "There are some circumstances when you should not use milk from a goat with a sore mouth. First, if the goat is showing signs of infection, such as bad odor, changed color, or clumping, the milk should be discarded."
 ---
+Sore mouth, also called orf or contagious ecthyma, is one of those diseases that makes goat owners nervous about their milk supply. The good news is that once your goat has fully healed, the milk is safe to use.
 
-It is difficult to determine whether or not milk from a goat that has had a sore mouth can be used, as the disease can persist in the animal for some time after healing. And if so, what are the things you need to consider?
-
-we will answer those questions and provide you with additional information on the topic. We will also share some tips on how to properly care for a goat with a sore mouth.
+But there are some important things to understand about timing and safety before you start drinking or selling that milk again.
 
 ## Can milk be used from goats that have had sore mouths and healed?
 
-When a goat has a sore mouth, you should clean its udder and teats before milking it. This will help stop the infection from spreading.
+Yes, once a goat has completely healed from sore mouth, the milk is safe for human consumption. Orf is a skin virus that causes blisters and scabs around the mouth, nose, and sometimes the udder and teats.
 
-You should also milk the goat in a clean container.
+The virus itself doesn't get into the milk supply. It stays in the skin tissues and scabs. Once those scabs have fallen off naturally and the skin underneath looks healthy and smooth, the milk is fine.
 
-You should always discard milk from a goat with a sore mouth if you notice any signs of infection, such as bad odor, changed color, or clumping.
+## What is sore mouth and why does it matter for milking?
 
-Despite the fact that milk from a goat with a sore mouth can be used, you should use it with caution. If you are not sure about the quality of the milk, it is best to discard it.
+Sore mouth is caused by a parapoxvirus, not a bacteria. It spreads through direct contact with infected animals or contaminated equipment like feeders and fence posts.
 
-## Tips for caring for a goat with a sore mouth
+The reason it matters for dairy goat owners is that lesions can form on the udder and teats. When a doe has active sores on her teats, milking is painful for her and the scabs can harbor bacteria that contaminate the milk.
 
-If you have a goat with a sore mouth, there are some things you can do to help the animal feel better.
+While the sores are active, you should not use that milk for drinking. The scabs crack and bleed during milking, and secondary bacterial infections are common in those open wounds.
 
-To start, it is important to clean the udder and teats before milking. This way, you can stop the infection from continuing to spread.
+## When is it safe to start using the milk again?
 
-Second, you will want to milk the goat in a clean container.
+Wait until all the scabs have fallen off on their own and the skin is fully healed. Don't pick at the scabs or try to speed up the process because that just spreads the virus to new areas.
 
-Third, it is important to watch for signs of infection in the milk. These include bad odor, changed color, or clumping.
+Most cases of sore mouth resolve within 3 to 4 weeks. Give it another week or two after the last scab falls off before you use the milk for human consumption, just to be safe.
 
-If you notice any of these signs, it is best to discard the milk.
+During the healing period, keep milking the doe on her regular schedule to maintain production. Dump the milk or feed it to kids that have already been exposed and are building immunity.
 
-Fourth, you may want to give the goat some pain relief medication. This can help the animal to feel more comfortable.
+## Pasteurization and extra safety measures
 
-Finally, it is important to provide the goat with plenty of fresh water. This will help to keep the animal hydrated and will also help to flush out any bacteria that may be present in the mouth.
+If you want an extra layer of protection, pasteurize the milk from a recently healed doe. Heat it to 145 degrees Fahrenheit and hold it there for 30 minutes using a double boiler setup.
 
-## What is a sore mouth and what are the symptoms in goats?
+This kills the parapoxvirus along with most other harmful organisms. Let the milk cool quickly in an ice bath before refrigerating.
 
-A sore mouth is a disease that affects goats, primarily young kids, and adult dairy cows. It is caused by a bacteria called parapoxvirus ovis, which can be transmitted between animals by direct contact.
+Raw milk fans might not love hearing this, but pasteurization is the responsible call when you're dealing with milk from a goat that recently had an active infection.
 
-Symptoms of a sore mouth include swelling and open sores in the mouth and on the tongue. In addition, affected animals may show signs of weakness and lethargy, along with difficulty eating and drinking.
+## Protecting yourself during milking
 
-If left untreated, a sore mouth can have serious consequences for the health and productivity of goats. However, with early diagnosis and appropriate treatment, most cases can be successfully managed.
+Sore mouth is zoonotic, which means you can catch it from your goats. It shows up on humans as painful blisters on the hands and fingers, and it's no fun at all.
 
-Goats can get sore mouths from time to time, and it's important for goat owners to be aware of the symptoms so that they can take action as soon as possible if they see any sign of this condition in their herd.
+Wear latex or nitrile gloves every time you milk a goat with active orf lesions. Wash your hands thoroughly after handling any infected animal, even if you wore gloves.
 
-## What are the benefits of using milk from a goat with a sore mouth?
+The virus can live in dried scabs on the ground and on equipment for months. Disinfect your milking supplies, stanchion, and any surfaces the infected goat touches regularly.
 
-There are several benefits of using milk from a goat with a sore mouth. First, it is a good source of nutrition for the animal.
+## Final Thoughts
 
-Second, it can help to speed up the healing process. Third, it can help to prevent the spread of infection.
+Milk from goats that have healed from sore mouth is safe to use. The virus lives in the skin, not the milk, so once those scabs are gone and the skin looks healthy, you're good to go.
 
-To wrap up, it can provide relief from pain.
-
-The main thing you need to consider when using milk from a goat with a sore mouth is the quality of the milk. If you are unsure about the quality of the milk, it is best to discard it.
-
-It is best to err on the side of caution when using milk from a goat with a sore mouth. If you are unsure about the quality of the milk, it is best to discard it.
-
-## When should you not use milk from a goat with a sore mouth?
-
-There are some circumstances when you should not use milk from a goat with a sore mouth. First, if the goat is showing signs of infection, such as bad odor, changed color, or clumping, the milk should be discarded.
-
-Second, if you are unsure about the quality of the milk, it is best to discard it. Third, if the goat is in pain, it is best to give the animal some pain relief medication before milking.
-
-Finally, if the goat is not drinking plenty of fresh water, it is best to provide the animal with additional water before milking.
-
-## How to prevent the spread of sore mouth in goats?
-
-The best way to prevent the spread of sore mouth is to isolate any animals that show signs of the disease.
-
-And, it is key to practice good hygiene when working with goats. After coming into contact with an affected animal, you should wash your hands before coming into contact with any healthy animals.
-
-It is also important to avoid sharing equipment between goats that are sick and those that are healthy. This includes items such as buckets, feeders, water troughs, and brushes.
-
-If you must share equipment, it should be thoroughly cleaned and disinfected between use.
-
-And finally, it is important to vaccinate all goats against sore mouths. There are two types of vaccines available, and both are effective in protecting goats from the disease.
-
-The first is a live vaccine, which is given as an injection. The second is a killed vaccine, which is given as an intranasal spray.
-
-Your veterinarian can help you to choose the best vaccine for your herd based on factors such as the age and health of your animals, as well as the risk of exposure to the virus.
-
-## Are there any other treatments for goats with sore mouths?
-
-On top of vaccination, there are a number of other treatment options available for goats with sore mouths. These include the use of antibiotics, as well as topical treatments such as ointments and gels.
-
-The most important thing to remember is that early diagnosis and treatment are essential for the successful management of this condition.
-
-If you think that your goat may have a sore mouth, it is important to contact your veterinarian as soon as possible so that appropriate treatment can be started.
-
-## Are there any other uses for goat's milk?
-
-Goat's milk is often used in infant formula, as it is similar to human breast milk. It is also commonly used in cheese and ice cream production.
-
-Goat's milk has a higher fat content than cow's milk, making it richer and more creamy. It is also lower in lactose, making it easier to digest for some people.
-
-In addition to its culinary uses, goat's milk is also used in a number of cosmetic and skincare products. This includes soaps, lotions, and shampoos.
-
-Goat's milk is thought to be beneficial for the skin due to its high-fat content and the presence of lactic acid. It is also believed to have anti-inflammatory properties.
-
-### How Long After Healing Before the Milk Is Fully Safe
-
-Most veterinarians recommend waiting at least two to three weeks after all visible sores have healed before using the milk for human consumption. The virus can linger on the teat surface even after the scabs fall off.
-
-During this waiting period, continue milking the doe on her regular schedule to maintain production. Dump the milk or feed it to bottle kids that are already exposed and building immunity.
-
-A visual check is not always reliable. Sore mouth scabs can harbor live virus underneath even when the surface looks healed. Wearing gloves during milking protects you from catching orf, which is the human form of sore mouth.
-
-### Pasteurization and Sore Mouth Milk
-
-If you absolutely must use milk from a recently healed doe, pasteurization adds an extra layer of safety. Heat the milk to 145 degrees Fahrenheit and hold it there for 30 minutes using a double boiler setup.
-
-This temperature kills the parapoxvirus along with most other harmful organisms. Let the milk cool quickly by placing the container in an ice bath before storing it in the fridge.
-
-Raw milk enthusiasts may not love this advice, but it is the responsible choice when dealing with milk from a goat that recently had an active infection. Safety comes first.
-
-## The Bottom Line
-
-Milk can be used from a goat with a sore mouth, but there are certain circumstances when it is best to discard it. If you are unsure about the quality of the milk, it is best to err on the side of caution and discard it.
-
-It is also important to practice good hygiene when working with goats, as this will help to prevent the spread of sore mouth.
-
-Finally, all goats should be vaccinated against the disease. Early diagnosis and treatment are essential for the successful management of sore mouths in goats.
+Wear gloves when handling goats with active lesions, pasteurize the milk if you want extra peace of mind, and give the doe a couple of weeks after full healing before you start using the milk again. Sore mouth is a nuisance, but it doesn't have to shut down your dairy operation permanently.

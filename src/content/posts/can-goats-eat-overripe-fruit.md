@@ -15,20 +15,14 @@ quickAnswer:
 toc:
   - label: "Can goats eat overripe fruit?"
     href: "#can-goats-eat-overripe-fruit"
-  - label: "What are the things to consider when feeding overripe fruit to goats?"
-    href: "#what-are-the-things-to-consider-when-feeding-overripe-fruit-to-goats"
-  - label: "What are overripe fruit and what do they look like?"
-    href: "#what-are-overripe-fruit-and-what-do-they-look-like"
-  - label: "What are the benefits of overripe fruit for goats?"
-    href: "#what-are-the-benefits-of-overripe-fruit-for-goats"
-  - label: "What are the consequences of goats eating overripe fruit?"
-    href: "#what-are-the-consequences-of-goats-eating-overripe-fruit"
-  - label: "How to prevent your goats from eating overripe fruit?"
-    href: "#how-to-prevent-your-goats-from-eating-overripe-fruit"
-  - label: "What are the treatments for goats that have eaten overripe fruit?"
-    href: "#what-are-the-treatments-for-goats-that-have-eaten-overripe-fruit"
-  - label: "How to care for overripe fruit?"
-    href: "#how-to-care-for-overripe-fruit"
+  - label: "The difference between overripe and fermented"
+    href: "#the-difference-between-overripe-and-fermented"
+  - label: "Which overripe fruits are safe for goats?"
+    href: "#which-overripe-fruits-are-safe-for-goats"
+  - label: "Risks of feeding overripe fruit to goats"
+    href: "#risks-of-feeding-overripe-fruit-to-goats"
+  - label: "Managing fallen orchard fruit"
+    href: "#managing-fallen-orchard-fruit"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -41,111 +35,50 @@ faq:
   - question: "What are the benefits of overripe fruit for goats?"
     answer: "Overripe fruit can be a valuable food source for goats. Not only is it high in sugar, but it also contains important vitamins and minerals."
 ---
+If you have fruit trees on your property and goats in the pasture, this question comes up every harvest season. The short answer is that mildly overripe fruit is fine, but fermented fruit is a real danger.
 
-Many people are wondering if goats can eat overripe fruit or not. And if so, what are the things to consider?
-
-we will answer those questions and give you more information about goats and their diet. We will also discuss the nutritional value of overripe fruit for goats and the benefits that they can get from it.
+Knowing the difference between "a little soft" and "starting to turn into wine" can save you a trip to the vet. Here is what you need to know.
 
 ## Can goats eat overripe fruit?
 
-Additionally, goats are able to digest cellulose, which is a type of plant fiber. This allows them to eat plants that other animals cannot digest, such as overripe fruits.
+Slightly overripe fruit that is soft, bruised, or a little mushy is perfectly safe for goats. They actually prefer it that way since the softer texture is easier to chew and the flavor is sweeter.
 
-However, goats should not eat too much overripe fruit. This is because it can cause digestive problems and may lead to diarrhea.
+The key word here is "slightly." A banana with brown spots, a peach that is past its prime, or an apple with a soft side are all fine. These are treats, not problems.
 
-So, if you are planning to give your goats overripe fruit, make sure to do so in moderation.
+## The difference between overripe and fermented
 
-## What are the things to consider when feeding overripe fruit to goats?
+This is where most people get confused, and it matters a lot. Overripe fruit is just soft and extra sweet. Fermented fruit has started producing alcohol, and that is where the danger begins.
 
-When feeding overripe fruit to goats, there are a few things that you need to consider:
+As fruit sits on the ground in warm weather, natural yeasts break down the sugars and produce ethanol. A goat that gorges on fermenting fallen fruit can develop alcohol toxicity, which causes staggering, depression, and in severe cases respiratory failure.
 
-The type of fruit: Not all fruits are good for goats. So, before giving any fruit to your goats, make sure that it is safe for them to eat.
+If the fruit smells like alcohol or has a fizzy, yeasty quality to it, keep your goats away from it. Use your nose as your guide. If it smells boozy, it is not safe.
 
-Some fruits that are safe for goats include apples, watermelons, cantaloupes, and mangoes.
+## Which overripe fruits are safe for goats?
 
-The ripeness of the fruit: earlier, overripe fruits are easier for goats to digest. So, if you are going to give your goats overripe fruit, make sure that it is soft and easy to chew.
+Apples, pears, peaches, watermelon, cantaloupe, and bananas are all safe when they are just past their peak. Cut larger fruits into smaller pieces to reduce choking risk, especially for younger goats.
 
-The amount of fruit: It is important to give your goats the right amount of fruit. This is because too much fruit can cause digestive problems and may lead to diarrhea.
+Remove any pits or large seeds before feeding. Peach and cherry pits contain cyanogenic compounds that release cyanide when crushed, so do not let goats chew on those.
 
-So, make sure to give your goats fruit in moderation.
+Avoid any fruit that has visible mold growing on it. Mold produces mycotoxins that can cause liver damage and neurological problems in goats, so fuzzy spots of any color mean it goes in the trash.
 
-## What are overripe fruit and what do they look like?
+## Risks of feeding overripe fruit to goats
 
-Overripe fruit is a fruit that has been left on the vine or tree for too long and has begun to deteriorate. The skin may be wrinkled, the color may have faded, and the flesh may be softer than usual.
+The high sugar content is the main concern even with non-fermented overripe fruit. Too much sugar at once can cause digestive upset, bloating, and diarrhea in goats.
 
-While overripe fruit may not be as visually appealing as ripe fruit, it can still be used in many recipes. When cooked, overripe fruit will often give off more flavor than ripe fruit.
+Fruit should be a treat, not a meal. A few pieces per goat is plenty, and you should not let them fill up on fruit instead of eating their hay and browse.
 
-Plus, overripe fruit is often easier to puree and can be used to make sauces, jams, and pies. While it may not be suitable for raw consumption, overripe fruit can still be enjoyed in a variety of cooked dishes.
+Goats that eat large amounts of sweet fruit in one sitting are at risk for enterotoxemia, especially if they are not accustomed to sugary foods. Introduce fruit slowly and keep portions small.
 
-## What are the benefits of overripe fruit for goats?
+## Managing fallen orchard fruit
 
-Overripe fruit can be a valuable food source for goats. Not only is it high in sugar, but it also contains important vitamins and minerals.
+If your goats have access to areas under fruit trees, you need to pick up fallen fruit regularly. Do not let it sit on the ground for days where it can ferment and attract your goats.
 
-Plus, overripe fruit is easier for goats to digest than fresh fruit. As a result, it can provide a nutritious snack that can help keep goats healthy and happy.
+Fence off orchard areas during heavy fruit drop if you cannot keep up with the cleanup. A goat that discovers a pile of fermenting apples will eat until it makes itself sick.
 
-There are a few things to keep in mind when feeding overripe fruit to goats. First, make sure that the fruit is free of mold or other contaminants.
+During peak season, check under your trees at least once a day. Collect anything that has fallen and either feed the fresh stuff to your goats in controlled portions or dispose of anything that has started to turn.
 
-Moldy fruit can make goats sick and should be avoided.
+## Final Thoughts
 
-Second, avoid giving too much overripe fruit to goats at one time. Too much sugar can cause stomach upset and diarrhea.
+A little overripe fruit is a welcome treat for your goats. The trouble starts when fruit crosses the line from soft and sweet to fermented and alcoholic.
 
-Instead, offer a small amount of fruit as part of a balanced diet.
-
-By following these guidelines, you can safely feed overripe fruit to your goats and enjoy all the benefits that it has to offer.
-
-## What are the consequences of goats eating overripe fruit?
-
-When goats eat overripe fruit, they can experience a number of consequences. For one, the high sugar content in the fruit can cause digestive problems.
-
-Goats are particularly susceptible to diarrhea when they consume large quantities of sugar.
-
-In addition, the fermentation process that occurs in overripe fruit can produce alcohol, which can cause intoxication and neurological problems in goats.
-
-Finally, eating overripe fruit can also lead to weight gain and obesity, as the fruits are often high in calories. Given the potential risks, you need goat owners to be mindful of what their animals are eating.
-
-Overripe fruit should be avoided if possible, or given in moderation to minimize the chances of health problems.
-
-## How to prevent your goats from eating overripe fruit?
-
-One way to keep your goats from eating overripe fruit is to feed them a diet that is high in fiber. Fiber helps to fill them up and provides them with essential nutrients, so they are less likely to be interested in snacking on fruit.
-
-You can also try training your goats to stay away from the fruit trees. If you catch them eating fruit, make a loud noise or spray them with water to startle them.
-
-With enough repetition, they will learn that they should avoid the area.
-
-Finally, you can try putting up a fence around the fruit trees. Goats are creatures of habit, so if they cannot see the fruit, they are less likely to think about eating it.
-
-By taking these measures, you can help to prevent your goats from eating overripe fruit.
-
-## What are the treatments for goats that have eaten overripe fruit?
-
-If a goat has eaten overripe fruit, the first step is to remove any uneaten fruit from their enclosure. Next, the goat should be given a small amount of corn oil to help them pass the fruit through their system.
-
-In some cases, the goat may also need to be given a laxative. If the goat is showing signs of distress, such as bloating or abdominal pain, then it should be seen by a veterinarian.
-
-Goats that have eaten overripe fruit are also at risk of developing enterotoxemia, so you need to monitor them closely and seek goat expert care if they start to show any signs of illness.
-
-## How to care for overripe fruit?
-
-Overripe fruit can be difficult to work with, as it can be mushy, bruised, and hard to peel. However, there are some ways to salvage overripe fruit and make it usable.
-
-For example, overripe bananas can be used in baking recipes such as banana bread.
-
-Overripe avocados can be mashed and used as a spread or dip. And overripe tomatoes can be roasted and used in a sauce or soup.
-
-While overripe fruit may not be ideal for fresh eating, with a little creativity, it can still be used in a variety of dishes.
-
-### How to Tell if Fruit Is Too Far Gone for Goats
-
-There is a difference between overripe and rotten. Overripe fruit that is soft, mushy, and overly sweet is fine for goats in small amounts. Rotten fruit that has visible mold, a fermented smell, or slimy patches should be thrown away.
-
-Mold produces mycotoxins that can cause liver damage and neurological problems in goats. If you see fuzzy spots of any color growing on the fruit, toss it in the trash rather than the goat pen.
-
-## The Bottom Line
-
-Goats can eat overripe fruit, but there are some risks to consider. Overripe fruit is high in sugar, which can cause digestive problems in goats.
-
-In addition, the fermentation process that occurs in overripe fruit can produce alcohol, which can be toxic to goats.
-
-Given the potential risks, it is important for goat owners to be mindful of what their animals are eating. Overripe fruit should be avoided if possible, or given in moderation to minimize the chances of health problems.
-
-If you have any questions about goats and overripe fruit, please consult with a veterinarian or other animal expert.
+Use common sense, keep portions small, toss anything moldy, and clean up fallen fruit before it starts to ferment. Follow those rules and your goats can enjoy the occasional bruised apple without any problems.

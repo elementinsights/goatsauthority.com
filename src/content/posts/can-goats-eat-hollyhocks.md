@@ -33,7 +33,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can goats eat hollyhocks?"
-    answer: "Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits. Hollyhocks are a type of flower that is safe for goats to eat."
+    answer: "Goats can eat hollyhocks because they are herbivores. This means that their diet consists mostly of plants, including leaves, flowers, and fruits. Hollyhocks are a type of flower that is safe for goats to eat."
   - question: "What are hollyhocks and what do they look like?"
     answer: "Hollyhocks are a type of flowering plant that belongs to the mallow family. They are tall plants with thin stems, and their leaves are broad and oval-shaped. Hollyhocks usually bloom in the summer, and their flowers come in a variety of colors, including white, pink, purple, and red."
   - question: "What are the benefits of feeding hollyhocks to goats?"
@@ -41,108 +41,46 @@ faq:
   - question: "What are the risks of feeding hollyhocks to goats?"
     answer: "Hollyhocks are a type of flowering plant that is commonly found in gardens. While they are not poisonous to goats, hollyhocks can cause digestive problems if they are eaten in large quantities."
 ---
-Every goat owner faces different challenges depending on their setup. Part of this is knowing what kinds of foods they can and cannot eat.
-
-So, can goats eat hollyhocks? And if so, what are the benefits and risks?
-
-we will answer these questions and more. We'll also give you some information on hollyhocks, including their nutritional content and the best way to feed them to your goats.
+Yes, hollyhocks are safe for goats to eat. They belong to the mallow family (Malvaceae), which is generally non-toxic to livestock, so you do not need to worry if your goats wander over and start munching on them.
 
 ## Can goats eat hollyhocks?
 
-Keep in mind, hollyhocks are not a necessary part of a goat's diet. Goats can live without eating hollyhocks.
+Goats can eat hollyhocks without any health concerns. The leaves, stems, and flowers are all safe, and no part of the plant is toxic to goats.
 
-In fact, feeding goats hollyhocks is more for your benefit than theirs.
-
-This is because hollyhocks are a source of food that is high in sugar and calories. As a result, feeding goats hollyhocks can lead to weight gain and other health problems.
+That said, hollyhocks are not typically a goat's first choice when they have other browse options available. They will eat them if the plants are within reach, but do not expect the same level of excitement you would see with a fresh branch of willow or mulberry.
 
 ## What are hollyhocks and what do they look like?
 
-Hollyhocks are a type of flowering plant that belongs to the mallow family. They are tall plants with thin stems, and their leaves are broad and oval-shaped.
+Hollyhocks are tall flowering plants that can reach 3 to 6 feet in height. They produce large, showy flowers in colors ranging from white and pink to deep purple and red, usually blooming during mid to late summer.
 
-Hollyhocks usually bloom in the summer, and their flowers come in a variety of colors, including white, pink, purple, and red.
-
-The flowers are often double-bloomed, meaning that they have multiple petals. Hollyhocks typically grow to be about 3-6 feet tall, although some varieties can grow even taller.
-
-When hollyhocks are not in bloom, they can be used as ornamental plants. Some people also use hollyhocks for medicinal purposes; for example, they have been known to be effective in treating skin conditions such as psoriasis and eczema.
+They belong to the mallow family, which also includes marshmallow and hibiscus. The leaves are broad and slightly rough-textured, and the stems are sturdy but not woody.
 
 ## What are the benefits of feeding hollyhocks to goats?
 
-The Alcea genus of flowering plants includes hollyhocks as a subspecies. These plants have been domesticated for many years; they are native to Asia.
+Hollyhocks provide some fiber and a small amount of vitamins, though they are not a powerhouse compared to quality hay or browse. The mallow family in general has mild mucilaginous properties, which means the plant material can have a soothing effect on the digestive tract.
 
-Hollyhocks have a number of purposes in conventional medicine in addition to being frequently grown as aesthetic plants.
+Many goat owners let their goats clean up hollyhock stalks after the flowering season is over. It is a good way to clear garden waste while giving the goats something different to chew on.
 
-Hollyhocks, for instance, have both leaves and blossoms that can be used to make tea as well as therapeutic ointments. Hollyhocks are also a well-liked food source for goats.
-
-Since they are herbivores, goats primarily eat grasses and other types of plants.
-
-Goats will, however, also consume other foods, including fruits, vegetables, and even flowers. Due to their high vitamin and fiber content, hollyhocks are a particularly beneficial food source for goats.
-
-Goats need both of these things in their diet in order to stay healthy. What's more, hollyhocks can help goats to keep their digestive system clean and free from parasites.
-
-For all these reasons, it's beneficial to feed hollyhocks to goats.
+The biggest practical benefit is that hollyhocks are safe and readily available in many gardens and yards. If your goats have access to them, there is no need to fence the plants off.
 
 ## What are the risks of feeding hollyhocks to goats?
 
-Hollyhocks are a type of flowering plant that is commonly found in gardens. While they are not poisonous to goats, hollyhocks can cause digestive problems if they are eaten in large quantities.
+There are no significant toxicity risks with hollyhocks. They are not poisonous to goats in any amount you would realistically encounter.
 
-The leaves and flowers of the hollyhock contain high levels of oxalates, which can bind with calcium and other minerals in the goat's digestive system and cause deficiencies.
+The only consideration is that eating large quantities of any one plant can cause digestive upset simply because the rumen prefers variety. If a goat gorges on hollyhock stalks and nothing else for a day, you might see some loose stools, but that would happen with almost any single food fed in excess.
 
-Beyond that, hollyhocks contain small, hard seeds that can damage a goat's intestines if they are swallowed.
-
-For these reasons, it's best to avoid feeding hollyhocks to goats. If you have hollyhocks in your garden, make sure to keep them out of reach of your goats so that they cannot eat them.
-
-## How much should you feed your goats hollyhocks?
-
-Regardless of the type of hollyhock you are growing, the amount of feed your goats will need will vary depending on the age and size of your goats, as well as the quality of the feed.
-
-Adult goats require 2-3% of their body weight in dry matter per day. For example, an 80 lb adult goat would need 1.6-2.4 lbs of dry matter per day.
-
-The best way to determine how much to feed your goats is to offer them hay and fresh water first, then supplement with grain or other concentrates as needed.
-
-If you are unsure whether your goats are getting enough to eat, consult with a veterinarian or livestock extension agent. They will be able to help you develop a feeding plan that meets the unique needs of your goats.
-
-## Where can you find hollyhocks?
-
-Hollyhocks are a species of flowering plant that is native to Asia. However, they have been introduced to other parts of the world and can now be found in North America, Europe, and Australia.
-
-Hollyhocks typically grow in sunny locations and prefer moist soil. They can reach a height of six feet and produce large flowers that range in color from white to pink to purple.
-
-Hollyhocks are often used as ornamental plants, and their flowers are popular with bees and butterflies.
-
-While hollyhocks can be grown from seed, they are also commonly propagated by division. This involves digging up an existing plant and dividing its roots into several sections.
-
-Each section can then be replanted to create a new hollyhock plant. Hollyhocks are relatively easy to care for and make an excellent addition to any garden.
+Make sure any hollyhocks you offer have not been treated with pesticides or herbicides. Garden plants are more likely to have chemical residues than wild forage, so wash them or know your spray history before feeding.
 
 ## How to prepare hollyhocks for feeding goats?
 
-Hollyhocks are a type of flowering plant that can reach up to six feet in height. They have large, showy flowers that come in a variety of colors, including white, pink, purple, and red.
+No special preparation is needed. You can cut the stalks down and lay them in the pen, or just let your goats browse on standing plants if they have access to the garden area.
 
-Hollyhocks are relatively easy to grow, and they make an excellent addition to any garden.
+If the stalks are tall and thick, chopping them into shorter sections makes it easier for goats to handle. Goats can eat both the leaves and the flowers, so there is nothing to remove before feeding.
 
-Still, before you can feed them to your goats, you will need to take some steps to prepare the plants.
+Wash the plants if you suspect any chemical treatment. Otherwise, just cut and serve.
 
-First, it's important to make sure that the hollyhocks are free of pesticides and other chemicals. If you are not sure whether or not the plants have been treated with chemicals, it's best to err on the side of caution and choose another feed source.
+## Final Thoughts
 
-Once you have selected chemically-free hollyhocks, you will need to cut the plants down to a manageable size. Goats are able to eat both the leaves and the flowers of hollyhocks, so there's no need to remove anything before feeding.
+Hollyhocks are a safe, non-toxic plant that goats can eat without any worries. They are not the most nutritious forage option, but they are perfectly fine as an occasional nibble or as a way to clean up your garden beds at the end of summer.
 
-Finally, it's important to wash the plants thoroughly to remove any dirt or debris. Once you have completed these steps, your hollyhocks will be ready for feeding.
-
-## Additional tips for taking care of goats
-
-In addition to providing shelter and food, there are a few other important things to keep in mind when taking care of goats.
-
-First, you need to provide them with plenty of fresh water. Goats are very thirsty animals and can drink up to four gallons of water per day.
-
-They also like to nibble on grass, so you need to have a well-grazed pasture for them to graze on.
-
-One more thing: goats need to have their hooves trimmed regularly. This helps to prevent problems like overgrown hooves and foot rot.
-
-By following these simple tips, you can help your goats stay healthy and happy.
-
-## Key Takeaways
-
-Hollyhocks can be a great addition to your goats' diet. They are an excellent source of nutrients, and they can also help to keep your goats' digestive system healthy.
-
-But, it's important to take some steps to prepare the plants before feeding them to your goats.
-
-Be sure to choose hollyhocks that are free of pesticides and other chemicals, and wash them thoroughly before feeding. If you follow these simple tips, you can help your goats enjoy a healthy and nutritious meal.
+If your goats have access to hollyhocks, let them eat what they want. Just make sure the plants are free of pesticides and that the goats still have their regular hay and browse available as their main diet.

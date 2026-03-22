@@ -41,119 +41,43 @@ faq:
   - question: "What is the point of fences, if goats can just climb over them anyway?"
     answer: "Fences are often used to keep animals contained in a specific area. For example, farmers may use fences to keep cattle from roaming onto other property or to keep predators out of a pasture."
 ---
-We all know that goats are versatile creatures. They can be used for everything from providing milk to making cheese and even serving as loyal pets.
 
-But one of the most common questions people have about goats is whether or not they can climb fences.
+If you keep goats, you already know the answer to this one. Yes, goats can and will climb fences, and they're shockingly good at it.
 
-we will answer all your questions about goats and fencing. We will discuss whether or not goats can climb fences, what type of fence is best for goats, and how to keep your goats safe and secure.
+They use horizontal rails as steps, stand on their hind legs to reach the top, and squeeze through gaps you'd swear were too small. Fencing for goats is less about keeping them in and more about outsmarting them.
 
 ## Can goats climb fences?
 
-However, not all goats are good climbers. Some goats may be too heavy or uncoordinated to climb a fence, and others may simply be scared of heights.
+Goats are notorious fence climbers, and they treat every fence like a puzzle to solve. They'll test every inch of your fence line looking for weak spots, loose panels, and gaps they can exploit.
 
-If you have a goat that is reluctant to climb, you can try training it to climb by providing incentives such as treats.
+Not every goat is an escape artist, though. Heavier breeds like Boers rarely bother trying, while lighter, more athletic breeds like Nigerian Dwarfs and Alpines seem to view fencing as a personal challenge.
 
-## What type of fence is best for goats?
+## Best fence types for goats
 
-Regarding fencing for goats, there are a few things to keep in mind.
+Woven wire fencing is your best option because it gives goats nothing to grip with their hooves. The small mesh openings prevent them from getting footholds, and the wire is strong enough that they can't push through it.
 
-First, goats are adept climbers, so the fence will need to be tall enough to discourage them from scaling it.
+Cattle panels are another solid choice since they're heavy-gauge welded wire that goats can't bend or break. Board fences with horizontal rails are the worst thing you can put up because the horizontal boards act as a ladder that goats will walk right up. If you already have board fencing, add woven wire to the inside.
 
-Second, goats are curious creatures and will try to stick their heads through any opening they can find. Naturally, the fence will need to be free of any holes or gaps.
+## How tall does your fence need to be?
 
-Finally, goats are notorious for chewing on anything within reach, so the fence will need to be made of material that is resistant to chewing.
+Four feet is the minimum for calm breeds and older does. For agile breeds like Nigerian Dwarfs, Alpines, or any young, energetic goat, you need at least 5 feet.
 
-With these factors in mind, many goat owners find that a wire mesh fence is the best option. It's tall enough to deter climbing, has no openings that could injure a goat's head, and is made of durable material that can withstand chewing.
+Some persistent escape artists need 6-foot fencing, but that's rare. If you have one goat that keeps clearing a 5-foot fence, adding a single strand of electric wire along the top is cheaper than replacing the whole fence and works just as well.
 
-If you are using a wire mesh fence, it's important to make sure that the mesh is small enough so that a goat's head cannot get stuck.
+## Where goats find the weak spots
 
-A common mistake is to use chicken wire, which has larger openings that can allow a goat's head to slip through. If you are unsure about the size of the mesh, you can always ask a professional at your local farm supply store.
+Goats always test corners first because that's where fences meet and gaps tend to form. They'll lean against corner posts, push on panels where they join, and work at any connection point until something gives.
 
-## How to keep your goats safe and secure?
+Gates are the other big weakness. Goats learn to work latches, push gate frames, and squeeze through the gap between a gate and its post. Use heavy-duty latches that require a lifting motion to open, and make sure your gate sits flush against the post with no wiggle room.
 
-Goats are curious creatures, and they will often try to escape their enclosure if given the chance. As expected, it's important to make sure that your goat fence is secure.
+## Preventing escapes with enrichment and electric wire
 
-Here are a few tips:
+A bored goat is an escaping goat. If there's nothing to eat, nothing to climb on, and no company inside the fence, a goat will find a reason to go looking for something better on the other side. Give your goats browse, companionship, and things to climb inside the pen like large rocks, wooden platforms, and old cable spools.
 
-- Inspect the fence regularly for holes or gaps.
-- Make sure the fence is tall enough to discourage climbing.
-- Use a wire mesh fence with small openings to prevent injury.
-- Check the fence regularly for signs of chewing.
+For the persistent climbers that still won't quit, a single strand of electric wire along the top and middle of your existing fence stops even the most determined goat. Goats learn fast after one or two zaps. Solar-powered chargers cost between $50 and $150, work great for remote pastures, and are the cheapest anti-climbing solution available.
 
-By following these tips, you can help make sure that your goats are safe and secure.
+## Final Thoughts
 
-## What is the point of fences, if goats can just climb over them anyway?
+Goats are smart, athletic fence climbers that will find every weak point in your setup. Woven wire and cattle panels with no footholds are your best materials, and 5 feet is the safe minimum height for agile breeds.
 
-Fences are often used to keep animals contained in a specific area. For example, farmers may use fences to keep cattle from roaming onto other property or to keep predators out of a pasture.
-
-In some cases, the fence may not be tall enough to completely deter the animal, but it will still provide some measure of protection.
-
-For example, if a goat is trying to escape from a pen, it may be able to climb over a low fence. But, the height of the fence will still slow down the goat and make it easier for the farmer to catch.
-
-In addition, even if the goat does manage to escape, it will be more likely to stay close to the fence since it's familiar with the area. Understandably, fences can still be effective even if they are not tall enough to completely block an animal's path.
-
-## How high do goats usually climb when trying to get over a fence?
-
-Goats are not known for their climbing abilities, but they are surprisingly adept at getting over fences. On average, goats can jump heights of about five feet.
-
-This means that they can easily clear most standard fences. But, if the fence is particularly tall or has barbed wire, goats may have more difficulty getting over it.
-
-In these cases, goats will often try to climb the fence by using their hooves and horns to get a foothold. If all else fails, they will sometimes try to squeeze under the fence.
-
-goats are relatively nimble animals, so it's not surprising that they are able to get over most fences.
-
-## What are some methods people have used to keep goats from climbing fences?
-
-Goats are notorious for their climbing abilities, and this can pose a problem for farmers who want to keep them contained. There are several methods that have been used to keep goats from climbing fences, but not all of them are equally effective.
-
-One common method is to place a board horizontally along the top of the fence. The board makes it more difficult for goats to get a grip on the fence, and it also provides a wider surface for them to stand on.
-
-Even so, this method is not foolproof, as goats can sometimes find a way to climb around the board. Another method is to cover the top of the fence with barbed wire.
-
-This makes it very difficult for goats to climb the fence, but it also increases the risk of injury if they try. There's no guaranteed way to keep goats from climbing fences, but using multiple methods can help to deter them.
-
-## Are there any breeds of goats that are less likely to try and climb over fences?
-
-Goats are known for their inquisitive and playful nature, and they often test fences to see if they can escape. But, there are certain breeds of goats that are less likely to try and climb over fences.
-
-Pygmy goats, for example, are a small breed that is not known for being particularly agile. This means they are less likely to test fences and try to escape.
-
-Another breed of goat that is less likely to climb fences is the Nubian goat. These goats are large and heavy, and they prefer to stay on the ground rather than try to climb.
-
-To wrap up, Cashmere goats are also less likely to attempt to escape enclosures. This breed is known for its docile temperament, and they are content to stay in one place.
-
-This is why Cashmere goats are often used as companion animals.
-
-There are several breeds of goats that are less likely to try and climb over fences. By choosing one of these breeds, you can help to keep your goats safe and secure.
-
-## How much does it cost to build or buy a fence that will keep goats from climbing over it?
-
-there's no definitive answer to this question as it will depend on a number of factors, including the type and size of the fence you require, as well as the number of goats you need to keep contained.
-
-However, as a general guideline, you can expect to pay anywhere from $200 to $1,000 for a decent quality fence that will deter climbing goats.
-
-Of course, if you have the time and patience, it's also possible to build your own fence using materials such as chicken wire or welded wire mesh.
-
-Whichever option you choose, be sure to include an overhang at the top of the fence to help prevent goats from scaling it. With a little planning and effort, you can create a safe and effective goat-proof fence without breaking the bank.
-
-### The Boredom Factor Behind Fence Climbing
-
-Most goats that escape are bored. A goat with plenty of browse, companionship, and things to climb inside the fence has far less motivation to test the boundaries.
-
-Adding climbing structures like large rocks, wooden platforms, or old cable spools inside the pen gives your goats a safe outlet for their natural climbing instinct. A busy goat is a goat that stays put.
-
-If your goats keep targeting one particular section of fence, look at what is on the other side. There might be a tasty bush or a neighbor's garden pulling them in that direction. Remove the temptation and you remove the escape attempts.
-
-### Electric Fence as a Goat Deterrent
-
-A single strand of electric wire along the top and middle of your existing fence can stop even the most persistent climbers. Goats learn fast after one or two zaps, and most will stay well clear of the fence after that.
-
-Solar-powered electric fence chargers work great for remote pastures where running power is not practical. They cost between $50 and $150 and are easy to install yourself.
-
-## Summary
-
-Goats are very curious animals and they will often test fences to see if they can escape. While there's no guaranteed way to keep them contained, using multiple methods can help to deter them.
-
-There are also certain breeds of goats that are less likely to try and climb over fences, so choosing one of these breeds may be a good option if you are concerned about escapees.
-
-Finally, remember that it's possible to build your own goat-proof fence without spending a lot of money. By taking the time to plan and design an effective fence, you can help to keep your goats safe and secure.
+Check your corners, reinforce your gates, and give your goats reasons to stay inside. Between good fencing and plenty of enrichment, you can keep even the most creative escape artist where it belongs.

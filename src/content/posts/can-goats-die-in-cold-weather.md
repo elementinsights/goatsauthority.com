@@ -41,100 +41,43 @@ faq:
   - question: "What are some common problems that occur when goats are exposed to the cold?"
     answer: "When goats are exposed to the cold, they are susceptible to a number of problems. One common issue is frostbite, which occurs when the tissue freezes. Goats are particularly prone to frostbite on their ears since they have a large surface area and a lot of blood vessels."
 ---
-Taking care of goats means being prepared for all kinds of weather, including cold weather. But can goats die in cold weather?
 
-And if so, what can farmers do to prevent it?
+Yes, goats can die from cold weather, but it's usually not the cold alone that kills them. The real danger is wet cold, meaning rain, sleet, or snow combined with wind that soaks through their coat and drops their body temperature.
 
-Here's what you need to know.we will answer all of your questions about goats and cold weather. We'll start by discussing how cold weather can affect goats, and then we'll offer some tips for keeping your goats healthy and happy in the winter months.
+A dry goat with shelter can handle surprisingly cold temperatures. A wet goat in the wind can be in trouble even at 40 degrees.
 
 ## Can goats die in cold weather?
 
-However, goats are fairly resilient animals, and they can withstand cold weather better than some other animals. With that said, there are still some things that farmers need to do in order to make sure that their goats are safe and healthy in the winter months.
+Goats can absolutely die from cold exposure, and it happens more often than most new goat owners expect. The combination of rain, wind, and cold is what creates the deadly conditions, because a wet coat loses its insulating ability.
 
-## What is the coldest temperature that goats can survive in?
+Kids are the most vulnerable since they have very little body fat and can't regulate their own temperature well in the first few days of life. A kid born on a cold, wet night can go hypothermic within an hour if you're not watching.
 
-Goats are incredibly resilient animals, and they can survive in a wide range of climates. However, they do have a lower tolerance for cold weather than some other farm animals.
+## How cold is too cold?
 
-When the temperature starts to drop, goats will begin to grow more insulation in the form of thicker fur. They will also huddle together for warmth and may spend more time lying down.
+Healthy adult goats with a full winter coat and dry shelter can handle temperatures down to 0 degrees Fahrenheit without much trouble. They grow a thick undercoat in the fall that provides solid insulation as long as it stays dry.
 
-In very cold weather, goats may even start to shiver in order to generate heat.
+Where things get dangerous is when temperatures drop below about 10 degrees with wind or moisture. Wind chill strips heat away faster than a goat can produce it, and wet conditions make everything worse. A goat standing in freezing rain at 35 degrees is in more danger than a dry goat at 10 degrees.
 
-Despite these adaptations, goats can only withstand temperatures as low as 15 degrees Fahrenheit before they start to experience health problems. At this temperature, their metabolism slows down and they become more susceptible to frostbite and hypothermia.
+## Shelter, bedding, and winter feeding
 
-For this reason, it's important to provide shelter for goats in cold weather. A simple three-sided shed can provide enough protection from the elements, and it's important to make sure that there's adequate ventilation to prevent the build-up of dangerous levels of carbon dioxide.
+A three-sided shelter with the open side facing away from the prevailing wind is all most goats need. It doesn't have to be fancy or heated, just dry, draft-free, and big enough that all your goats can get inside at once. Good ventilation matters even in winter because a sealed-up barn traps moisture that's actually worse than cold air.
 
-By taking these steps, you can help make sure that your goats remain healthy and happy in even the coldest weather.
+Pack the floor with deep straw bedding to insulate goats from the frozen ground, which is where they lose the most body heat while lying down. Feed more hay than usual during cold snaps because digesting forage generates internal heat, and keep unfrozen water available at all times. Goats won't eat enough if they can't drink, and winter dehydration is more common than most people realize.
 
-## How do farmers protect their goats from the cold weather?
+## Why you should never heat a barn with a heat lamp
 
-When the cold weather set in, many farmers took steps to protect their goats from the elements. Some simply moved their goats into warmer shelters, while others took more extreme measures, such as shaving the goats' fur and providing them with blankets.
+Heat lamps in goat barns are a fire waiting to happen. Goats bump into things, straw is everywhere, and one knocked-over lamp can burn down your entire barn and kill every animal inside.
 
-Still, other farmers fed their goat's special supplements that helped to keep them warm. Regardless of the approach, the goal was always the same: to keep the goats comfortable and healthy during the coldest months of the year.
+If you have a newborn kid that needs extra warmth, bring it inside the house or use a warming box away from flammable bedding. For adult goats, if your shelter is dry and draft-free with deep bedding, they don't need supplemental heat even in severe cold.
 
-## What are some common problems that occur when goats are exposed to the cold?
+## Signs of hypothermia and frostbite
 
-When goats are exposed to the cold, they are susceptible to a number of problems. One common issue is frostbite, which occurs when the tissue freezes.
+A hypothermic goat will shiver first, then stop shivering as it gets worse. It will become lethargic, stiff, and its ears and legs will feel ice cold to the touch. If you find a goat in this condition, get it into a warm, dry area and call your vet immediately.
 
-Goats are particularly prone to frostbite on their ears since they have a large surface area and a lot of blood vessels.
-
-Another problem that can occur is hypothermia, which happens when the body's core temperature drops. This can be fatal if not treated quickly.
-
-To prevent these problems, it's important to provide goats with shelter from the elements and make sure they have access to plenty of food and water.
-
-By taking these precautions, you can help keep your goats healthy and happy all winter long.
-
-## How can farmers keep their goats warm during extreme weather conditions?
-
-When the temperature starts to drop, farmers need to take extra care to keep their goats warm. Goats are particularly susceptible to cold weather, as they have a thinner coat of fur than other animals.
-
-Due to this, they are more likely to experience hypothermia and frostbite. Farmers can take several steps to protect their goats from the cold.
-
-First, they should make sure that the goats have access to shelter from wind and rain. The shelter should be well-ventilated, dry, and clean, as damp conditions can promote the growth of pathogens.
-
-Second, farmers should provide the goats with plenty of hay or straw, as this will help them stay warm. Third, farmers should consider installing a heat lamp in the goat pen, as this can provide additional warmth during extreme weather conditions.
-
-By taking these precautions, farmers can help make sure that their goats stay warm and healthy during the winter months.
-
-## Are there any other ways to help keep goats warm during the winter months?
-
-In addition to providing shelter, there are several other ways to help keep goats warm during the winter months.
-
-First, it's important to make sure that they have access to clean, fresh water. Frozen water can be dangerous for goats, so water troughs should be checked regularly and cleared of ice as needed.
-
-Similarly, goats should be fed high-quality hay or grass to help them maintain their body temperature. It's also a good idea to provide them with a salt lick, as this will help them stay hydrated and prevent frostbite.
-
-Finally, regular grooming will help to remove any dead hair that could insulate the goat's body and trap it in heat. By taking these simple steps, you can help make sure that your goats stay healthy and happy all winter long.
-
-## What should farmers do if they notice one of their goats is not doing well in the cold weather?
-
-If farmers notice that one of their goats is not doing well in the cold weather, they should take steps to make sure the goat is healthy and comfortable.
-
-One way to do this is to provide the goat with additional bedding, such as straw or hay. This will help insulate the goat from the cold ground and keep it warm.
-
-Farmers should also make sure the goat has access to fresh, clean water. Goats are susceptible to dehydration, and the cold weather can make it even more difficult for them to stay hydrated.
-
-Finally, farmers should check the goat for signs of frostbite, such as discolored skin or wobbly legs. If frostbite is present, farmers should contact a veterinarian for treatment.
-
-By taking these steps, farmers can help their goats survive and thrive in the cold weather.
-
-## What breed of goats are best suited for cold weather?
-
-There are numerous goat breeds that thrive in cold climates. The Alpine, Nubian, Oberhasli, Saanen, and Toggenburg are a few of the most well-liked cold-resistant breeds.
-
-These varieties are distinguished by their dense coats of fur, which keep them warm during the winter. They are all rather large breeds, which also aids in heat retention.
-
-When selecting a breed for cold climates, farmers should also take the type of goat into account. For instance, dairy goats often have more body fat than meat goats.
-
-The additional body fat acts as insulation, keeping the goat warm during cold weather.
-
-No matter what breed of goat you choose, it's important to take steps to protect them from the cold weather. This includes providing shelter, hay, straw, and fresh water.
-
-consider installing a heat lamp in the goat pen. By taking these precautions, you can help your goats stay warm and healthy all winter long.
+Frostbite shows up most often on ears, teats, and the scrotum because these areas have less blood flow. Frostbitten tissue turns white or gray at first and then becomes dark and crusty as it dies. Mild frostbite can heal, but severe cases may result in tissue loss.
 
 ## Final Thoughts
 
-Goats can die in cold weather if they are not properly cared for. Farmers need to take steps to protect their goats from the cold, such as providing shelter and fresh hay.
+Goats handle dry cold far better than most people expect, but wet cold is a killer. Provide a dry, draft-free shelter with deep bedding, increase hay during cold snaps, and keep water unfrozen.
 
-Farmers should make sure the goats have access to clean water and are groomed regularly. If a goat shows signs of frostbite or hypothermia, farmers should contact a veterinarian for treatment.
-
-By taking these simple steps, farmers can help make sure that their goats stay healthy and happy all winter long.
+Never use heat lamps in a goat barn, and pay close attention to kids, older goats, and any animal that seems off during cold weather. The biggest winter danger isn't the temperature on the thermometer; it's the combination of moisture and wind.
