@@ -52,7 +52,7 @@ Even though there are no specific laws against owning goats, there are some thin
 
 If you live in a small home or apartment, a goat is probably not the right pet for you.
 
-Goats also require special care and attention. They need to be [vaccinated and dewormed](/can-i-have-goats-where-i-live/) regularly, and their hooves need to be trimmed every few months.
+Goats also require special care and attention. They need to be vaccinated and dewormed regularly, and their hooves need to be trimmed every few months.
 
 If you're not up for the challenge of caring for a goat, you might want to reconsider getting one.
 
@@ -66,7 +66,7 @@ Housing can range from simple outdoor shelters to more elaborate indoor barns, d
 
 Costs for feed, medical care, and other necessities will also vary depending on things like climate conditions and the size of your herd. For these reasons, it is difficult to give a single estimate for the cost of raising goats in Foothill Farms.
 
-At the same time, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, [goats](/can-goats-make-money/) are an excellent choice for anyone looking to build a sustainable agricultural business.
+At the same time, one thing is clear: whether you are looking to start a small homestead with a few family pets or run a large commercial operation with hundreds of heads, goats are an excellent choice for anyone looking to build a sustainable agricultural business.
 
 So if you're considering getting into the goat-farming game, just be sure to do your research ahead of time and plan accordingly, with careful planning and management, you too can turn your love for goats into a profitable venture.
 
@@ -78,17 +78,17 @@ In addition, goats should ideally be accompanied by a companion animal, such as 
 
 Finally, anyone looking to own a goat in Foothill Farms must obtain an official permit from the city government. So if you are considering bringing a goat into this thriving urban community, make sure that you meet all of the necessary requirements first.
 
-After all, your furry friend will depend on you to take care of its needs and ensure its happiness and well-being.
+After all, your goat will depend on you to take care of its needs and ensure its happiness and well-being.
 
 ## What kind of goats are allowed in Foothill Farms?
 
-Foothill Farms is home to many different types of goats, each with their own unique traits and characteristics. Some of the most common [breeds found in Foothill Farms include Angora goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/), dairy goats, and meat goats.
+Foothill Farms is home to many different types of goats, each with their own unique traits and characteristics. Some of the most common breeds found in Foothill Farms include Angora goats, dairy goats, and meat goats.
 
-Each of these breeds is prized for their ability to [produce high-quality milk](/can-a-female-goat-produce-milk-without-being-pregnant/) or meat, making them an important part of the farming community here in Foothill Farms.
+Each of these breeds is prized for their ability to produce high-quality milk or meat, making them an important part of the farming community here in Foothill Farms.
 
-While all of these [goat breeds](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) are allowed on the farms here, some do require special care and attention, such as Angora goats, which need regular grooming and clipping to keep their fine coats healthy and under control.
+While all of these goat breeds are allowed on the farms here, some do require special care and attention, such as Angora goats, which need regular grooming and clipping to keep their fine coats healthy and under control.
 
-Regardless of the breed, however, [goat farming](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) is a major part of life in this region, and we take great pride in our ability to raise healthy herds that produce high-quality products for both local consumption and export.
+Regardless of the breed, however, goat farming is a major part of life in this region, and we take great pride in our ability to raise healthy herds that produce high-quality products for both local consumption and export.
 
 So if you're looking for great goat cheese or fresh eggs, be sure to come to visit us here at Foothill Farms. We'd love to show you around our beautiful farms and share our expertise with you.
 
@@ -108,7 +108,7 @@ There are many benefits to having a goat in Foothill Farms, including increased 
 
 Due to their naturally curious and affectionate disposition, goats are excellent foragers, and they can be used to clear the land of unwanted vegetation and weeds.
 
-Additionally, because [goats consume vastly different types of food than humans](/can-i-give-my-goats-human-fish-pills/) do, they have the unique ability to transform neglected land into fertile soil that is rich in nutrients.
+Because goats consume vastly different types of food than humans do, they have the unique ability to transform neglected land into fertile soil that is rich in nutrients.
 
  whether you are a farmer looking for a more sustainable way of maintaining your property or simply a hobbyist who enjoys the company of these adorable animals, having a goat in Foothill Farms can be highly beneficial for anyone seeking to improve their quality of life.
 
@@ -116,9 +116,9 @@ Additionally, because [goats consume vastly different types of food than humans]
 
 While there are many benefits to having a goat in Foothill Farms, there are also certain drawbacks that must be considered. For one thing, goats can be quite destructive, especially when they are allowed to roam freely in an urban or suburban setting.
 
-During their daily foraging activities, goats may knock down fences or chew through garden plants. Additionally, [goats can carry various diseases and parasites](/can-goats-carry-distemper/), which means that close contact with humans should be avoided.
+During their daily foraging activities, goats may knock down fences or chew through garden plants. Additionally, goats can carry various diseases and parasites, which means that close contact with humans should be avoided.
 
-And, [goats require specialized care and feeding](/can-a-goat-feed-quads/), which can be difficult for someone without prior experience or knowledge of animal husbandry.
+And, goats require specialized care and feeding, which can be difficult for someone without prior experience or knowledge of animal husbandry.
 
 Overall, while a goat can certainly be a valuable addition to any community, prospective owners must understand the challenges and responsibilities that go along with keeping such an animal.
 
@@ -144,4 +144,4 @@ Avoid Boer goats unless you have a large property. They are big animals bred for
 
 Overall, there are many things to consider before getting a goat in Foothill Farms. However, if you are prepared to take on the challenges and responsibilities that come with owning a goat, then this can be a highly rewarding experience.
 
-Just be sure to do your research beforehand and consult with experts if you have any [questions or concerns](/can-i-own-goats-in-medford-oregon/).
+Just be sure to do your research beforehand and consult with experts if you have any questions or concerns.

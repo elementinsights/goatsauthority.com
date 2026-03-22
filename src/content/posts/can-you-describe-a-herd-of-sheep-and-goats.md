@@ -56,7 +56,7 @@ When describing a flock of sheep and goats, you can use words like grazing, feed
 
 A herd of sheep and goats is a group of animals that includes both sheep and goats. Sheep are a domesticated species of mammal that is kept for their milk, meat, and wool.
 
-[Goats are also a domesticated](/can-domestic-goats-jump/) species of mammal, but they are primarily kept for their milk and meat. Both sheep and goats are browsers, meaning that they feed on leaves, twigs, and other vegetation.
+Goats are also a domesticated species of mammal, but they are primarily kept for their milk and meat. Both sheep and goats are browsers, meaning that they feed on leaves, twigs, and other vegetation.
 
 They are both social animals that live in groups, which are called herds. Herds of sheep and goats usually consist of several dozen animals, but they can occasionally reach into the hundreds.
 
@@ -64,11 +64,11 @@ They are both social animals that live in groups, which are called herds. Herds 
 
 A herd is a group of sheep and goats that live together. The size of a herd can vary depending on the amount of food and water available, as well as the amount of space.
 
-A typical herd usually consists of between 10 and 100 animals, although some herds can be much larger. Herds are typically led by a [dominant male](/can-you-band-a-2-year-old-buck-goat/), who will mate with the females in the group.
+A typical herd usually consists of between 10 and 100 animals, although some herds can be much larger. Herds are typically led by a dominant male, who will mate with the females in the group.
 
 The rest of the herd members will typically be made up of females and their young offspring. While sheep and goats are often kept together in a herd, they do have some differences.
 
-Sheep are generally larger and have thicker wool coats, while goats are sleeker and have [longer horns](/can-i-remove-my-goat-full-grown-horns/). Then again, both animals are social creatures that prefer to live in groups.
+Sheep are generally larger and have thicker wool coats, while goats are sleeker and have longer horns. Then again, both animals are social creatures that prefer to live in groups.
 
 By living in a herd, sheep and goats can benefit from mutual protection against predators and the elements.
 
@@ -78,7 +78,7 @@ Sheep and goats are both members of the animal family known as bovids, which inc
 
 All bovids are herbivores, which means that they only eat plants. This includes leaves, grass, flowers, and fruits.
 
-Sheep and goats are able to digest a wide variety of plant material, thanks to their four-chamber stomachs. [Goats prefer to eat the leaves of bushes and trees](/can-goats-eat-gum-tree-leaves/), while sheep-like eating the leaves of grasses better.
+Sheep and goats are able to digest a wide variety of plant material, thanks to their four-chamber stomachs. Goats prefer to eat the leaves of bushes and trees, while sheep-like eating the leaves of grasses better.
 
 Both sheep and goats play an important role in the ecosystem by eating plants that other animals cannot digest. In addition, their grazing habits help to keep grasslands healthy by preventing the overgrowth of vegetation.
 
@@ -106,17 +106,17 @@ As a result, both sheep and goats need to be protected from predators in order t
 
 The average lifespan of a sheep is 10-12 years, while the average lifespan of a goat is 8-10 years. However, these are just averages and some individual animals may live longer or shorter lives.
 
-Factors such as diet, environment, and predation can all [affect the lifespan of a sheep or goat](/can-weather-affect-goats-poop/). For example, sheep that are well-fed and protected from predators will typically live longer than sheep that are malnourished or constantly under threat.
+Factors such as diet, environment, and predation can all affect the lifespan of a sheep or goat. For example, sheep that are well-fed and protected from predators will typically live longer than sheep that are malnourished or constantly under threat.
 
-Similarly, [goats that live in a harsh environment](/can-goats-live-in-an-urban-environment/) with little shelter or food may not live as long as goats that have access to abundant resources. So, the lifespan of a sheep or goat depends on a variety of individual factors.
+Similarly, goats that live in a harsh environment with little shelter or food may not live as long as goats that have access to abundant resources. So, the lifespan of a sheep or goat depends on a variety of individual factors.
 
 ## How much does it cost to raise them?
 
-The cost of [raising sheep and goats](/can-goats-make-money/) can vary depending on a number of factors, such as the type of animal, the climate, and the amount of land available.
+The cost of raising sheep and goats can vary depending on a number of factors, such as the type of animal, the climate, and the amount of land available.
 
 In general, sheep are more expensive to raise than goats. This is because they require more food and shelter, and they are also more susceptible to disease.
 
-Additionally, the cost of raising sheep and goats can differ depending on the region in which they are being raised. For example, it is typically more expensive to raise sheep and goats in a cold climate than it is in a warm climate.
+The cost of raising sheep and goats can differ depending on the region in which they are being raised. For example, it is typically more expensive to raise sheep and goats in a cold climate than it is in a warm climate.
 
 In the end, the cost of raising these animals will vary depending on the specific circumstances.
 
@@ -126,7 +126,7 @@ There are a few health concerns that sheep and goats can experience. For example
 
 In addition, sheep are also susceptible to a condition called scrapie, which is a fatal neurological disease. Goats can also contract Johne's disease, which is a bacterial infection that affects the digestive system.
 
-These diseases can cause serious health problems in sheep and goats, so it is important to be aware of them. Additionally, both of these animals can also experience [health problems due to poor diet](/can-you-drink-raw-goat-milk-on-gaps-diet/) or living conditions.
+These diseases can cause serious health problems in sheep and goats, so it is important to be aware of them. Both of these animals can also experience health problems due to poor diet or living conditions.
 
 For example, if a sheep or goat does not have access to enough food or shelter, they may become malnourished or develop respiratory problems.
 
@@ -158,4 +158,4 @@ On the sheep side, hair sheep breeds like Katahdins and Dorpers are a better fit
 
 Overall, both sheep and goats are interesting animals that can make great pets. They have a variety of unique characteristics, and they can provide many benefits to their owners.
 
-If you are considering getting a sheep or goat, be sure to do your research and find an [animal that is right for you](/where-did-kiko-goats-originate/).
+If you are considering getting a sheep or goat, be sure to do your research and find an animal that is right for you.

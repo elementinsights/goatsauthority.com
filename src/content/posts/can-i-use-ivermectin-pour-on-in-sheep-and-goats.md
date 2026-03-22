@@ -50,15 +50,15 @@ we will answer those questions about ivermectin and provide some valuable insigh
 
 Beyond that, ivermectin can be used to prevent certain parasites, such as heartworm, from infecting your sheep or goats.
 
-However, please note that ivermectin should not be used on [pregnant animals or young lambs and kids](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/).
+However, please note that ivermectin should not be used on pregnant animals or young lambs and kids.
 
-Additionally, some strains of resistant parasites have developed over time, so it is always important to consult a veterinarian about the best course of treatment for your animals.
+Some strains of resistant parasites have developed over time, so it is always important to consult a veterinarian about the best course of treatment for your animals.
 
 ## What is Ivermectin and what does it treat?
 
 Ivermectin is a broad-spectrum antiparasitic drug that is used to treat various conditions and diseases.
 
-One of its main uses is in the treatment of parasitic worms, including those that [can cause serious infections or illness in humans](/can-contact-with-goats-cause-diarrhea-in-humans/) and animals.
+One of its main uses is in the treatment of parasitic worms, including those that can cause serious infections or illness in humans and animals.
 
 Ivermectin works by blocking certain chemical signaling pathways in the nervous system of parasitic worms, causing muscle paralysis and ultimately death.
 
@@ -70,11 +70,11 @@ Overall, it is an incredibly versatile drug that holds great potential to improv
 
 There is no question that Ivermectin is a highly effective treatment option for sheep and goats.
 
-This drug works by targeting parasites such as worms and [mites](/can-goats-get-mites/), eliminating them from the body and reducing the risk of infection.
+This drug works by targeting parasites such as worms and mites, eliminating them from the body and reducing the risk of infection.
 
 Not only does this help to maintain the health and well-being of individual animals, but it also improves animal productivity by minimizing missed days at work due to illness.
 
-Not only is Ivermectin effective, it also has several key advantages over other [treatments for sheep and goats](/can-a-goat-get-a-cold-sore/). One advantage is easy administration-- it can be given orally in a single dose or through injection.
+Not only is Ivermectin effective, it also has several key advantages over other treatments for sheep and goats. One advantage is easy administration-- it can be given orally in a single dose or through injection.
 
 In addition, it has low toxicity levels compared to some other drugs in its class, making it safe for use in even young or vulnerable animals.
 
@@ -92,7 +92,7 @@ And, animals that are particularly sensitive to Ivermectin may develop sensitivi
 
 While these side effects are relatively rare, it is important for farmers and herders to be vigilant when using this medication and monitor their animals closely for any signs of discomfort or changes in behavior.
 
-Ultimately, the [benefits of using Ivermectin far outweigh the risks](/can-benadryl-hurt-a-goat/), and it is one of the most widely-used medications to prevent and treat parasites in both livestock and pets.
+Ultimately, the benefits of using Ivermectin far outweigh the risks, and it is one of the most widely-used medications to prevent and treat parasites in both livestock and pets.
 
 ## When should you not use Ivermectin on sheep and goats?
 
@@ -104,9 +104,9 @@ Similarly, Ivermectin is not recommended for very young or very old animals, as 
 
 It's also worth noting that its use needs to be carefully considered when treating animals that are already sick or harboring other medical conditions.
 
-When in doubt, it is always best to consult with a qualified goat expert prior to administering any medication to your livestock. This will help ensure that they receive the proper treatment and care they need.
+When in doubt, it is always best to consult with a qualified goat expert prior to administering any medication to your livestock. This will help make sure that they receive the proper treatment and care they need.
 
-In the end, by [carefully considering each animal's individual circumstances](/can-goats-drink-baby-formula/) and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
+In the end, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
 ## How to administer Ivermectin to sheep and goats?
 
@@ -114,11 +114,11 @@ There are a few different methods for administering Ivermectin to sheep and goat
 
 For young or small animals, one option is to mix the Ivermectin with a sugar water solution and inject it directly into their bloodstream via a syringe.
 
-This method is relatively easy to perform and carries a [low risk of side effects](/can-a-cdt-shot-kill-a-goat/). Alternatively, larger or older livestock can be given oral doses of Ivermectin mixed with food or water by hand.
+This method is relatively easy to perform and carries a low risk of side effects. Alternatively, larger or older livestock can be given oral doses of Ivermectin mixed with food or water by hand.
 
 However, certain factors must be taken into consideration when determining the appropriate dosage amount for each individual animal.
 
-In general, administering Ivermectin to sheep and goats requires careful consideration of the animal's unique needs and characteristics in order to ensure safe and effective treatment.
+In general, administering Ivermectin to sheep and goats requires careful consideration of the animal's unique needs and characteristics in order to make sure safe and effective treatment.
 
 ## What are the dosage rates for different weights of animals?
 
@@ -126,21 +126,21 @@ The recommended dosage rates for Ivermectin vary depending on the weight of the 
 
 For example, the standard dosage rate for sheep is 1mL per 50kg, while the dosage rate for goats is 1mL per 33kg. At the same time, these rates may differ depending on the animal's age, health status, and other factors.
 
-It is always best to [consult with a qualified goat expert prior to administering any medication to your livestock](/can-you-debloat-a-goat/), as they will be able to determine the best course of treatment for each individual animal.
+It is always best to consult with a qualified goat expert prior to administering any medication to your livestock, as they will be able to determine the best course of treatment for each individual animal.
 
 ## What are the precautions for using Ivermectin on sheep and goats?
 
 When using Ivermectin on sheep and goats, there are a few important precautions that must be taken into consideration.
 
-First and foremost, it is crucial to follow the recommended dosage rates for each individual animal, as overdoses can lead to serious side effects.
+First and foremost, it is important to follow the recommended dosage rates for each individual animal, as overdoses can lead to serious side effects.
 
-Additionally, Ivermectin should never be used on pregnant animals, as it can cause harm to develop fetuses.
+Ivermectin should never be used on pregnant animals, as it can cause harm to develop fetuses.
 
 Similarly, the medication is not recommended for very young or very old animals, as their immune systems may not be able to cope with the drug. Ivermectin is also not recommended for animals that are already sick or harbor other medical conditions.
 
 When in doubt, it is always best to consult with a qualified goat expert prior to administering any medication to your livestock.
 
-This will help ensure that they receive the proper treatment and care they need. Ultimately, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
+This will help make sure that they receive the proper treatment and care they need. Ultimately, by carefully considering each animal's individual circumstances and following appropriate safety protocols, we can help keep our sheep and goats safe and healthy.
 
 ### Pour-On vs. Oral vs. Injectable: Which Works Best?
 
@@ -176,6 +176,6 @@ Always document the date of treatment and the product used. Keeping good records
 
 ## Quick Recap
 
-You can protect your sheep and goats against parasites by using Ivermectin, but it's important to follow the proper [dosage](/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats/) and safety protocols.
+You can protect your sheep and goats against parasites by using Ivermectin, but it's important to follow the proper dosage and safety protocols.
 
 Ivermectin is a medication that is used to treat parasitic infections in animals. It can be administered to sheep and goats in a variety of ways, depending on the animal's age, size, and health status.

@@ -54,17 +54,17 @@ Be aware, alfalfa pellets can be a part of a healthy diet for goats, as long as 
 
 Goats are curious and intelligent animals, and they enjoy having a variety of things to eat. In addition to fresh hay and grass, goats can also benefit from eating alfalfa pellets.
 
-Alfalfa pellets are a nutritious food source that is high in protein and calcium. Goat owners often find that [feeding alfalfa pellets](/can-a-goat-feed-quads/) helps to promote healthy growth and development in their animals.
+Alfalfa pellets are a nutritious food source that is high in protein and calcium. Goat owners often find that feeding alfalfa pellets helps to promote healthy growth and development in their animals.
 
-Additionally, alfalfa pellets can help to keep goats hydrated, as they contain a high level of water. Alfalfa pellets are also thought to have a calming effect on goats, which is why they are sometimes given to animals that are anxious or stressed.
+Alfalfa pellets can help to keep goats hydrated, as they contain a high level of water. Alfalfa pellets are also thought to have a calming effect on goats, which is why they are sometimes given to animals that are anxious or stressed.
 
 Overall, there are many benefits to feeding alfalfa pellets to goats, making it an important part of their diet.
 
 ## What are the risks of feeding alfalfa pellets to goats?
 
-Alfalfa is a nutrient-rich forage that is [often fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/). However, there are some risks associated with feeding alfalfa pellets to goats.
+Alfalfa is a nutrient-rich forage that is often fed to goats. However, there are some risks associated with feeding alfalfa pellets to goats.
 
-One of the biggest concerns is the potential for gastrointestinal blockage. Alfalfa pellets are larger and harder than hay, and they can potentially cause an obstruction in the [goat's digestive tract](/can-goats-digest-anything/).
+One of the biggest concerns is the potential for gastrointestinal blockage. Alfalfa pellets are larger and harder than hay, and they can potentially cause an obstruction in the goat's digestive tract.
 
 Another concern is the possibility of bloat. Bloat is a condition that occurs when gas accumulates in the goat's stomach, and it can be fatal if not treated quickly.
 
@@ -72,13 +72,13 @@ For these reasons, you need to talk to a veterinarian before feeding alfalfa pel
 
 ## What is bloat and what are the symptoms in goats?
 
-Bloat is a condition that can [affect goats](/can-weather-affect-goats-poop/) of all ages, though it's most common in kids and adults. It occurs when the stomach fills with gas, causing the goat to become bloated and uncomfortable.
+Bloat is a condition that can affect goats of all ages, though it's most common in kids and adults. It occurs when the stomach fills with gas, causing the goat to become bloated and uncomfortable.
 
-In severe cases, bloat can be fatal. There are several possible [causes of bloat in goats](/can-contact-with-goats-cause-diarrhea-in-humans/), including overeating, eating too much lush green grass, or drinking water too rapidly.
+In severe cases, bloat can be fatal. There are several possible causes of bloat in goats, including overeating, eating too much lush green grass, or drinking water too rapidly.
 
 Symptoms of bloat include a swollen abdomen, an increased heart rate, and difficulty breathing. If you suspect your goat is suffering from bloat, you need to seek a goat expert assistance immediately.
 
-With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+With prompt treatment, many goats make a full recovery.
 
 ## What causes bloat in goats?
 
@@ -90,13 +90,13 @@ Regardless of the cause, bloat can be a very serious condition and may even be f
 
 If you suspect that your goat is suffering from bloat, you need to take action immediately. The first step is to try to relieve the gas pressure by gently massaging the goat's stomach.
 
-If this does not work, you may [need to insert a tube into the goat's stomach](/how-many-stomachs-do-goats-have/) in order to release the gas. In severe cases, surgery may be necessary.
+If this does not work, you may need to insert a tube into the goat's stomach in order to release the gas. In severe cases, surgery may be necessary.
 
 However, even with prompt treatment, bloat can still be deadly, so it's important to do everything you can to prevent it.
 
 Some measures you can take include feeding hay instead of fresh grass, avoiding sudden changes in diet, and ensuring that your goats have access to clean water at all times.
 
-By taking these precautions, you can help keep your [goats healthy and safe from this potentially fatal condition](/can-a-plastic-bag-hurt-a-goat/).
+By taking these precautions, you can help keep your goats healthy and safe from this potentially fatal condition.
 
 ## How to prevent bloat in goats?
 
@@ -104,9 +104,9 @@ One of the most important things is to make sure that they have access to plenty
 
  their stomachs can become bloated with gas. To avoid this, clean the water trough regularly and make sure that there's always fresh water available.
 
-It's also important to [feed your goats](/can-baking-soda-cause-urinary-issues-in-goats/) a balanced diet. [Goats are known for being able to digest](/can-goats-digest-cotton/) a wide variety of foods, but certain foods can cause them to bloat.
+It's also important to feed your goats a balanced diet. Goats are known for being able to digest a wide variety of foods, but certain foods can cause them to bloat.
 
-For example, alfalfa hay is high in protein and can [cause gas buildup in goats](/can-goats-cause-slope/). As a general rule, you should avoid feeding your goats any food that contains more than 10% protein.
+For example, alfalfa hay is high in protein and can cause gas buildup in goats. As a general rule, you should avoid feeding your goats any food that contains more than 10% protein.
 
 Finally, you should provide your goats with plenty of exercises. Goats are very active animals, and if they're confined to a small space, they may become restless and start pacing back and forth.
 
@@ -114,9 +114,9 @@ This can cause their stomachs to fill with gas, so it's important to provide the
 
 ## What to do if your goat bloats?
 
-There are several [things that you can do to help prevent bloat in your goats](/can-a-dog-get-sick-from-a-goat/).
+There are several things that you can do to help prevent bloat in your goats.
 
-First, make sure that they have plenty of fresh, clean water available at all times. [Goats need to drink about two gallons of water](/can-horses-drink-water-that-has-goat-poop-in-it/) per day, so provide them with a clean water source and check it regularly to ensure that it's full.
+First, make sure that they have plenty of fresh, clean water available at all times. Goats need to drink about two gallons of water per day, so provide them with a clean water source and check it regularly to make sure that it's full.
 
 Second, feed your goats a high-quality diet that is low in grain and rich in fiber. Goats are natural foragers, so they do best on a diet that mimics their natural diet as closely as possible.
 

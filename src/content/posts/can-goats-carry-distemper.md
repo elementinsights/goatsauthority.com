@@ -52,7 +52,7 @@ we will answer all of your questions so that you can be informed and prepared in
 
 ## Can goats carry distemper?
 
-Of course, it's important to note that distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
+Of course, distemper is not as common in goats as it's in other animals. This is likely because of their strong immune system and ability to fight off the virus.
 
 ## What is distemper and how does it spread?
 
@@ -68,17 +68,17 @@ vaccination is the best way to prevent the disease.
 
 Distemper in goats is a highly contagious disease that can have serious consequences. Early symptoms include fever, runny nose, and watery eyes.
 
-As the disease progresses, [goats may develop a cough](/can-old-goats-develop-rickets/), pneumonia, and diarrhea. In severe cases, distemper can lead to seizures and even death.
+As the disease progresses, goats may develop a cough, pneumonia, and diarrhea. In severe cases, distemper can lead to seizures and even death.
 
 vaccination is the best way to prevent goats from contracting distemper.
 
-However, if a goat does become infected, prompt treatment by a goat expert is essential. With prompt treatment, many [goats will recover from distemper](/can-goats-recover-from-polio-without-medication/) and go on to live healthy lives.
+However, if a goat does become infected, prompt treatment by a goat expert is essential. With prompt treatment, many goats will recover from distemper and go on to live healthy lives.
 
 ## How is distemper treated in goats?
 
 Distemper in goats is a serious viral disease that affects the respiratory, nervous, and gastrointestinal systems. There's no specific treatment for distemper, and it's often fatal.
 
-Be aware, early diagnosis and [treatment of symptoms](/can-a-goat-get-rabies/) can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
+Be aware, early diagnosis and treatment of symptoms can improve the chances of survival. Symptoms of distemper include fever, runny nose, coughing, lethargy, and diarrhea.
 
 If your goat shows any of these signs, call a goat expert immediately.
 
@@ -90,9 +90,9 @@ Unfortunately, there's no vaccine available for goats, so the best way to preven
 
 Many goats will recover from distemper if they receive prompt treatment. However, the disease can be fatal, particularly in young goats.
 
-If your goat has contracted a distemper, call a goat expert immediately and follow their instructions. With prompt treatment and supportive care, many [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+If your goat has contracted a distemper, call a goat expert immediately and follow their instructions. With prompt treatment and supportive care, many goats will make a full recovery.
 
-Distemper is a highly contagious and potentially fatal disease that can [affect goats](/can-weather-affect-goats-poop/). If your goat shows any signs of distemper, call a veterinarian immediately.
+Distemper is a highly contagious and potentially fatal disease that can affect goats. If your goat shows any signs of distemper, call a veterinarian immediately.
 
 With prompt treatment, many goats will make a full recovery.
 
@@ -112,21 +112,21 @@ Distemper is a serious viral disease that can affect goats of all ages. Early sy
 
 If left untreated, distemper can lead to pneumonia, encephalitis, and death. There's no cure for distemper, but it can be prevented through vaccination.
 
-All goats should be vaccinated against distemper at least once a year. booster [shots may be necessary depending on the goat's risk factors](/can-a-cdt-shot-kill-a-goat/).
+All goats should be vaccinated against distemper at least once a year. Booster shots may be necessary depending on the goat's risk factors.
 
 n addition to vaccination, good hygiene practices can help to prevent the spread of distemper. Goats should be kept clean and dry, and their housing should be sanitized on a regular basis.
 
-Any [sick goats](/can-i-give-a-sick-goat-water-through-a-syringe/) should be isolated from the rest of the herd to prevent the disease from spreading. By taking these precautions, you can help to keep your goats healthy and free from distemper.
+Any sick goats should be isolated from the rest of the herd to prevent the disease from spreading. By taking these precautions, you can help to keep your goats healthy and free from distemper.
 
 ## Are there any other diseases that can affect goats?
 
 In addition to the diseases specifically mentioned above, there are several other conditions that can affect goats. These include everything from pneumonia and parasites to foot rot and bloating.
 
-To keep your goats healthy, it's crucial to be aware of the [signs and symptoms](/can-goat-lice-live-on-humans/) of these various diseases.
+To keep your goats healthy, it's important to be aware of the signs and symptoms of these various diseases.
 
 Pneumonia, for example, is characterized by coughing, difficulty breathing, and a loss of appetite. If not treated promptly, it can lead to death.
 
-Parasites, on the other hand, are often asymptomatic but can still [cause serious damage to the animal over time](/can-too-much-field-time-cause-scours-in-goats/). For this reason, it's crucial to have your goats checked regularly by a goat expert
+Parasites, on the other hand, are often asymptomatic but can still cause serious damage to the animal over time. For this reason, it's important to have your goats checked regularly by a goat expert
 
 By being aware of the potential health concerns facing your goats, you can take steps to prevent them from becoming sick in the first place.
 
@@ -140,13 +140,13 @@ there's no specific treatment for goat's distemper, and the best way to prevent 
 
 Therefore, it's important to avoid contact with sick animals and practice good hygiene if you are around goats. If you think you may have been exposed to the virus, contact your doctor immediately.
 
-While a [goat's distemper is not usually fatal in humans](/can-i-give-my-goats-human-fish-pills/), it can still be a serious illness. Therefore, it's best to take precautions to avoid exposure to the virus.
+While a goat's distemper is not usually fatal in humans, it can still be a serious illness. Therefore, it's best to take precautions to avoid exposure to the virus.
 
 ## Are there any other diseases that can affect your goats?
 
 There are several other diseases that can affect your goats. These include everything from pneumonia and parasites to foot rot and bloating.
 
-To keep your goats healthy, you need to be aware of the [signs and symptoms](/can-goat-milk-cause-acne/) of these various diseases.
+To keep your goats healthy, you need to be aware of the signs and symptoms of these various diseases.
 
 Pneumonia, for example, is characterized by coughing, difficulty breathing, and a loss of appetite. If not treated promptly, it can lead to death.
 

@@ -35,15 +35,15 @@ Take kale, for instance. This leafy vegetable is popular among humans due to its
 
 But can goats enjoy it too?
 
-As a goat owner myself, I’ve often had this question in mind while feeding my furry friends.
+As a goat owner myself, I’ve often had this question in mind while feeding my goats.
 
 ## Can Goats Eat Kale?
 
 However, too much can lead to problems such as urinary stones or hypocalcemia.
 
-The key is balance when feeding your goat kale along with other food items. Try mixing the kale into a varied diet including [hay](/can-goats-eat-timothy-hay/) and grains.
+The key is balance when feeding your goat kale along with other food items. Try mixing the kale into a varied diet including hay and grains.
 
-Remember not to feed them wilted or rotten vegetables as this could make them sick. Always provide fresh produce to ensure they’re getting the best nutrition possible.
+Remember not to feed them wilted or rotten vegetables as this could make them sick. Always provide fresh produce to make sure they’re getting the best nutrition possible.
 
 ### Can Goats Eat Kale Raw?
 
@@ -61,7 +61,7 @@ So yes, you can give your goat some raw kale as a treat now and then. Just remem
 
 Goats can indeed eat kale stems. These leafy greens are packed with nutrients that goats need for their overall health.
 
-However, moderation is key here.
+However, stick to small amounts here.
 
 Feeding your goat too much kale might upset its stomach. Goats have a unique digestive system and sudden changes in diet could cause problems.
 
@@ -75,7 +75,7 @@ Pygmy goats can indeed eat kale. It’s a green leafy vegetable packed with nutr
 
 They enjoy the taste too.
 
-But remember, moderation is key here. Too much of anything isn’t good and that applies to feeding kale as well.
+But remember, keep portions small here. Too much of anything isn’t good and that applies to feeding kale as well.
 
 Kale should be given in small amounts mixed with other feedstuff like hay or grains. This helps balance out their diet nicely.
 
@@ -93,7 +93,7 @@ Kale is packed with vitamins that are good for your baby goat’s health. These 
 
 However, don’t feed them only kale. Goats need a varied diet to stay healthy and happy.
 
-This should consist mostly of hay or [pasture grasses](/can-goats-eat-kentucky-bluegrass/) along with some grains.
+This should consist mostly of hay or pasture grasses along with some grains.
 
 One more thing: make sure the kale isn’t sprayed with pesticides or chemicals before feeding it to your kid goats because these substances could harm their delicate systems.
 
@@ -127,11 +127,11 @@ Goats love to munch on leafy greens. Kale is a great choice for them.
 
 It’s packed with nutrients that are good for their health.
 
-But kale isn’t the only green food you can give your goats. [Spinach](/can-goats-eat-spinach/) and [lettuce](/can-goats-eat-lettuce/) are also safe options they will enjoy eating.
+But kale isn’t the only green food you can give your goats. Spinach and lettuce are also safe options they will enjoy eating.
 
-You might be wondering about [cabbage](/can-goats-eat-cabbage/), too? Yes, it’s fine in small amounts but avoid giving too much as it may cause bloating issues in goats.
+You might be wondering about cabbage, too? Yes, it’s fine in small amounts but avoid giving too much as it may cause bloating issues in goats.
 
-[Turnip](/can-goats-eat-turnip/) and beet greens should be given sparingly because of high calcium content which could lead to urinary problems if fed excessively over time.
+Turnip and beet greens should be given sparingly because of high calcium content which could lead to urinary problems if fed excessively over time.
 
 Remember, variety is key when feeding your goat leafy vegetables along with their regular diet.
 
@@ -141,13 +141,13 @@ Kale is not harmful or toxic to goats. In fact, it’s quite the opposite.
 
 This leafy green vegetable can be a healthy addition to your goat’s diet.
 
-Goats are known for their ability to [eat almost anything](/can-goats-eat-everything/). But that doesn’t mean all foods are good for them.
+Goats are known for their ability to eat almost anything. But that doesn’t mean all foods are good for them.
 
 Some plants and vegetables can harm goats.
 
 However, kale isn’t one of those dangerous foods. It contains many nutrients beneficial for a goat’s health such as vitamins A and C, calcium, iron and fiber.
 
-But remember moderation is key in feeding kale to your goats just like with any other food item you give them outside their regular hay or grain feedings.
+But remember don't overdo it in feeding kale to your goats just like with any other food item you give them outside their regular hay or grain feedings.
 
 ### Will Kale Cause Bloating in Goats?
 
@@ -173,7 +173,7 @@ Another issue with kale is its goitrogen content. Goitrogens are substances that
 
 In goats, this could cause health problems over time.
 
-Finally, too much kale might upset a goat’s stomach causing bloating or gas pains. The sudden change in diet may disrupt their [digestive system](/can-goats-digest-anything/) leading to discomfort.
+Finally, too much kale might upset a goat’s stomach causing bloating or gas pains. The sudden change in diet may disrupt their digestive system leading to discomfort.
 
 While it won’t harm them if eaten occasionally and in small amounts, feeding your goats large quantities of kale regularly isn’t recommended due to these potential risks.
 
@@ -183,13 +183,13 @@ Goats eating kale can affect the flavor of their milk. Kale is a type of leafy g
 
 When goats eat this plant, it adds a unique taste to their milk.
 
-The change isn’t drastic but noticeable. Some people describe it as slightly sweet and earthy, like fresh-cut [grass](/can-goats-eat-centipede-grass/) or spinach juice.
+The change isn’t drastic but noticeable. Some people describe it as slightly sweet and earthy, like fresh-cut grass or spinach juice.
 
 It’s not unpleasant at all; many actually find it refreshing.
 
 But remember: diet changes should be gradual for your goat’s comfort and health safety. Too much kale too soon might upset its stomach.
 
-Also, always ensure that your goats have access to plenty of clean water along with their food.
+Also, always make sure that your goats have access to plenty of clean water along with their food.
 
 ### What to Feed Goats From the Garden
 
@@ -199,9 +199,9 @@ This leafy green is safe for them and provides essential nutrients.
 
 Kale has vitamins A, C, K and minerals such as calcium which goats need. It’s also high in fiber that aids their digestion process.
 
-However, remember moderation is key when feeding your goat with kale or any other food from your garden. Too much of anything can upset a goat’s stomach.
+However, remember a little goes a long way when feeding your goat with kale or any other food from your garden. Too much of anything can upset a goat’s stomach.
 
-So next time you’re harvesting fresh [produce from your garden](/can-goats-eat-squash/) and wonder what to feed your goats, yes they can enjoy some healthy kale too! Just be sure not to overdo it.
+So next time you’re harvesting fresh produce from your garden and wonder what to feed your goats, yes they can enjoy some healthy kale too! Just be sure not to overdo it.
 
 ### Growing and Storing Crops for Goat Feed
 
@@ -215,4 +215,4 @@ To grow kale for goat feed, plant the seeds in well-drained soil under full sun 
 
 Once harvested, store kale properly to retain its nutritional value. Keep it cool and dry to prevent spoilage.
 
-Remember though, while nutritious, too much kale may cause [bloating in goats](/can-alfalfa-pellets-cause-goats-to-bloat/) so mix it up with other feeds.
+Remember though, while nutritious, too much kale may cause bloating in goats so mix it up with other feeds.

@@ -54,23 +54,23 @@ Here's what you need to know.we will answer those questions and provide you with
 
 Keep in mind that various types and strengths of ivermectin are more effective against different parasites. To be safe, always talk to a vet before giving your goats any form of ivermectin.
 
-Your vet will be able to recommend the best option for your goats, as well as ensure that you are giving them the correct dose.
+Your vet will be able to recommend the best option for your goats, as well as make sure that you are giving them the correct dose.
 
 ## What is the best way to give oral injections of ivermectin at the same time in goats?
 
 When giving oral injections of ivermectin at the same time in goats, it is best to use a syringe with two different size needles.
 
-The smaller needle should be used for the ivermectin and the larger needle should be used for the saline. It is crucial to inject the ivermectin into the goat's mouth at the back of the tongue.
+The smaller needle should be used for the ivermectin and the larger needle should be used for the saline. It is important to inject the ivermectin into the goat's mouth at the back of the tongue.
 
-The [goat should then be given a drink of water](/can-horses-drink-water-that-has-goat-poop-in-it/). The [goat should not eat](/can-a-goat-eat-too-many-dewormer-pellets/) or drink for two hours after the injection.
+The goat should then be given a drink of water. The goat should not eat or drink for two hours after the injection.
 
 This will allow the ivermectin to be properly absorbed. If you have any questions about giving oral injections of ivermectin, please consult with your veterinarian.
 
 ## What is ivermectin and what does it treat in goats?
 
-[Ivermectin is a medication](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body.
+Ivermectin is a medication that is used to treat a variety of parasitic infections in goats. It works by killing the parasites that live inside the goat's body.
 
-Ivermectin is most commonly used to treat worms, but it can also be used to treat [mites](/can-goats-get-mites/) and [lice](/can-goat-lice-go-into-a-dormant-stage/). Goats can become infected with parasites through contact with contaminated soil or water.
+Ivermectin is most commonly used to treat worms, but it can also be used to treat mites and lice. Goats can become infected with parasites through contact with contaminated soil or water.
 
 They can also pick up parasites from other animals, such as sheep and cattle. Treatment with ivermectin will kill the existing parasites and help to prevent new infections from developing.
 
@@ -82,15 +82,15 @@ When given via injection, ivermectin can help to kill parasites that are living 
 
 Goats are particularly susceptible to parasitic infections, so the administration of ivermectin can help to keep them healthy.
 
-In addition to preventing [parasitic infections](/can-goats-get-worms-from-acorns/), ivermectin can also be used to treat certain types of skin conditions in goats. When used correctly, ivermectin is safe and effective for goats of all ages.
+In addition to preventing parasitic infections, ivermectin can also be used to treat certain types of skin conditions in goats. When used correctly, ivermectin is safe and effective for goats of all ages.
 
 ## What are the risks associated with giving ivermectin to goats?
 
-It is crucial to note that, while administering ivermectin can be beneficial for goats, there are some risks associated with using this medication.
+It is important to note that, while administering ivermectin can be beneficial for goats, there are some risks associated with using this medication.
 
-Ivermectin can be [toxic](/can-a-goat-get-poisoned-on-clover-that-has-been-frosted-on/) if given in too high of a dose, so it is essential to consult with your veterinarian before giving any form of ivermectin to your goats.
+Ivermectin can be toxic if given in too high of a dose, so it is essential to consult with your veterinarian before giving any form of ivermectin to your goats.
 
-The correct dose and type of ivermectin should be used to ensure the safety of your animals. Additionally, there is a risk that the parasites may become resistant to ivermectin over time, so it is important to discuss other parasite control methods with your veterinarian as well.
+The correct dose and type of ivermectin should be used to make sure the safety of your animals. There is a risk that the parasites may become resistant to ivermectin over time, so it is important to discuss other parasite control methods with your veterinarian as well.
 
 Ivermectin can be safe for goats if used correctly. It will help protect them from parasitic infections, however, you should speak with your veterinarian about the right dosage and form to use before administering this medication.
 
@@ -104,7 +104,7 @@ Finally, rub your goat's throat to encourage swallowing. Repeat this process for
 
 giving them all the same dose. Ivermectin can be given orally to goats on a monthly basis to prevent heartworm disease and control parasites.
 
-It is important to follow the dosage instructions on the package insert, as [overdoses can be fatal](/can-too-much-penicillin-given-to-baby-goat-die/). If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
+It is important to follow the dosage instructions on the package insert, as overdoses can be fatal. If you have any questions or concerns, be sure to consult with a veterinarian who is familiar with goats.
 
 ## How to give your goat an injection dose of ivermectin?
 
@@ -116,9 +116,9 @@ Be sure to massage the area after injection to help disperse the medication and 
 
 ## Tips for ensuring that your goats receive the correct dosage of medication
 
-Administering medication to goats can be a tricky business. Not only do you have to make sure that they receive the correct dosage, but you also need to ensure that they actually consume the medication.
+Administering medication to goats can be a tricky business. Not only do you have to make sure that they receive the correct dosage, but you also need to make sure that they actually consume the medication.
 
-One way to help ensure that your goats receive the correct dosage of medication is to mix it into their food. This way, they will [eat the medication](/can-pregnant-goats-eat-medicated-feed/) along with their normal diet and you won't have to worry about them picking around it.
+One way to help make sure that your goats receive the correct dosage of medication is to mix it into their food. This way, they will eat the medication along with their normal diet and you won't have to worry about them picking around it.
 
 If you're having difficulty getting your goats to consume their medication, directly administering the dose into their mouths with a syringe can be more effective. Though it may take some practice at first, soon you'll be able to do it without any trouble.
 

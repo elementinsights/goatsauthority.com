@@ -47,7 +47,7 @@ Here's the short version.we will answer all these questions so that you will kno
 
 ## Can goats eat St Johns Wort?
 
-Similarly, St. John's Wort can also interfere with the effectiveness of certain [medications](/can-goats-eat-mushrooms/). So, if your goat is taking any medication, it's best to avoid giving them this herb.
+Similarly, St. John's Wort can also interfere with the effectiveness of certain medications. So, if your goat is taking any medication, it's best to avoid giving them this herb.
 
 Now that you know that goats shouldn't eat St. John's Wort, let's talk about what you can feed them instead.
 
@@ -59,11 +59,11 @@ St. John's wort is generally considered safe for most people when taken by mouth
 
 In addition, St. John's wort can interact with other medications, including antidepressants, birth control pills, and blood thinners.
 
-While St. John's wort is generally considered safe for humans, the same cannot be said for goats. Goats are known to be very sensitive to the herb, and even [small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) can cause serious health problems.
+While St. John's wort is generally considered safe for humans, the same cannot be said for goats. Goats are known to be very sensitive to the herb, and even small amounts can cause serious health problems.
 
 The most common symptom of St. John's wort poisoning in goats is photosensitivity, which can lead to painful blistering of the skin. In severe cases, goats may also experience neurological problems, such as seizures and paralysis.
 
-In some cases, [feeding goats](/can-a-goat-feed-quads/) St. John's wort can be fatal. Therefore, it is important to avoid giving this herb to goats.
+In some cases, feeding goats St. John's wort can be fatal. Therefore, it is important to avoid giving this herb to goats.
 
 ## How to prevent your goats from eating St Johns Wort?
 
@@ -71,7 +71,7 @@ Goats are notorious for their ability to eat just about anything. This can be a 
 
 One plant that is particularly attractive to goats is St. Johns wort.
 
-This herb is actually toxic to goats and [can cause serious health problems](/can-alfalfa-pellets-cause-goats-to-bloat/) if consumed in large quantities. Thankfully, there are a few things you can do to prevent your goats from eating St. Johns wort.
+This herb is actually toxic to goats and can cause serious health problems if consumed in large quantities. Thankfully, there are a few things you can do to prevent your goats from eating St. Johns wort.
 
 One of the most effective methods is to simply remove the plant from their environment. If you have St. Johns wort growing in your pasture, consider fencing it off or physically removing it.
 
@@ -83,25 +83,25 @@ Spray this mixture around the perimeter of your pasture, and be sure to reapply 
 
 ## What should you do if your goat eats St Johns Wort?
 
-If your goat eats St Johns Wort, the first [thing you should do is consult a goat expert](/can-a-dog-get-sick-from-a-goat/). St Johns Wort is a plant that is poisonous to goats and [can cause serious health problems](/can-contact-with-goats-cause-diarrhea-in-humans/).
+If your goat eats St Johns Wort, the first thing you should do is consult a goat expert. St Johns Wort is a plant that is poisonous to goats and can cause serious health problems.
 
 Symptoms of poisoning include loss of appetite, depression, diarrhea, and tremors. If left untreated, St Johns Wort poisoning can be fatal.
 
 Treatment typically involves providing supportive care and administering detoxifying drugs.
 
-With prompt treatment, [most goats recover](/can-goats-recover-from-polio-without-medication/) from St Johns Wort poisoning. Of course, it is important to prevent future exposure to the plant to avoid further health complications.
+With prompt treatment, most goats recover from St Johns Wort poisoning. Of course, it is important to prevent future exposure to the plant to avoid further health complications.
 
 ## What to feed goats instead of St Johns Wort?
 
 Most goats enjoy eating St. Johns Wort, but there are a few things to consider before feeding it to them.
 
-First, St. Johns Wort can [cause photosensitivity in goats](/can-goats-cause-slope/), so they should only be given small amounts of it and should not be allowed to graze in areas where the plant is growing.
+First, St. Johns Wort can cause photosensitivity in goats, so they should only be given small amounts of it and should not be allowed to graze in areas where the plant is growing.
 
-After that, St. Johns Wort can interfere with the absorption of other nutrients, so it should not be the only thing that [goats are fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/). There are many other plants that goats like to eat, so it is best to provide them with a variety of options.
+After that, St. Johns Wort can interfere with the absorption of other nutrients, so it should not be the only thing that goats are fed. There are many other plants that goats like to eat, so it is best to provide them with a variety of options.
 
 If you want to feed your goat St Johns wort make sure they don't graze on it and only give them a little bit.
 
-Also, make sure it isn't the only thing you're feeding them as it can stop them from being able to absorb other nutrients. There are plenty of other [plants goats like to eat](/can-goats-eat-any-plant/) so try and mix up their diet as much as possible.
+Also, make sure it isn't the only thing you're feeding them as it can stop them from being able to absorb other nutrients. There are plenty of other plants goats like to eat so try and mix up their diet as much as possible.
 
 ## Are there any uses for St Johns Wort?
 
@@ -111,7 +111,7 @@ St. John's Wort is most commonly used for treating depression, but it is also so
 
 Of course, the evidence is not conclusive, and more research is needed. Some side effects of St. John's Wort include gastrointestinal upset, dry mouth, and fatigue.
 
-More serious side effects are rare but can include liver damage and interaction with other medications. Therefore, it is crucial to talk to a healthcare provider before taking St. John's Wort.
+More serious side effects are rare but can include liver damage and interaction with other medications. Therefore, it is important to talk to a healthcare provider before taking St. John's Wort.
 
 In addition to its use as a medication, St. John's Wort is also sometimes used as a dye. The plant can give fabric and yarn a yellow or orange hue.
 
@@ -123,13 +123,13 @@ You should always talk to a healthcare provider before taking St Johns Wort. As 
 
 ## What are the things that you should remember when taking care of goats?
 
-When taking care of goats, there are a few important things to remember. First, [goats need access to fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) and hay at all times.
+When taking care of goats, there are a few important things to remember. First, goats need access to fresh water and hay at all times.
 
 After that, they need a clean and dry environment in which to live. Goats are also very social animals, so they should be kept in pairs or groups.
 
-Finally, goats are susceptible to a variety of health problems, so it is crucial to monitor their health closely and consult a goat expert if any problems arise.
+Finally, goats are susceptible to a variety of health problems, so it is important to monitor their health closely and consult a goat expert if any problems arise.
 
-By following these simple guidelines, you can ensure that your goats stay healthy and happy.
+By following these simple guidelines, you can make sure that your goats stay healthy and happy.
 
 ### How Photosensitivity From St Johns Wort Works
 

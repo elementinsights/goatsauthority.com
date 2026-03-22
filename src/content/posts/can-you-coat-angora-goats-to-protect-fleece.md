@@ -62,7 +62,7 @@ An ill-fitting coat can be uncomfortable for the goat and can also cause the coa
 
 Second, you need to choose a coat that is made from a breathable fabric. Angora goats are very sensitive to heat and can easily overheat if they are wearing a coat that is not made from a breathable fabric.
 
-Finally, you need to make sure that the coat does not restrict the goat's movement. A coat that is too tight can inhibit the goat's ability to [move freely](/can-mini-horses-live-with-goats/), which can lead to joint problems.
+Finally, you need to make sure that the coat does not restrict the goat's movement. A coat that is too tight can inhibit the goat's ability to move freely, which can lead to joint problems.
 
 ## What is fleece and why do angora goats have it?
 
@@ -70,11 +70,11 @@ Fleece is the coat of wool that angora goats have. The main purpose of fleece is
 
 Coats of wool are also used to make clothes and other items. The angora goat is a type of goat that is bred for its fleece.
 
-[Angora goats](/can-i-grow-goats-for-cashmere-and-angola/) are usually white, but they can also be black, brown, or grey.
+Angora goats are usually white, but they can also be black, brown, or grey.
 
 They have long, dense coats of wool that are soft and silky. Angora goats are native to Turkey, but they are now found all over the world.
 
-In addition to their fleece, angora [goats also produce milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and meat.
+In addition to their fleece, angora goats also produce milk and meat.
 
 ## How does the coat protect the fleece from damage?
 
@@ -86,7 +86,7 @@ The coat also helps to reduce the risk of fleece staining. To wrap up, the coat 
 
 ## What are the benefits of coating an angora goat to protect its fleece?
 
-Many people are familiar with the soft, luxurious fibers used to make angora sweaters and other garments. What they may not know is that these [fibers come from the coats of angora goats](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/).
+Many people are familiar with the soft, luxurious fibers used to make angora sweaters and other garments. What they may not know is that these fibers come from the coats of angora goats.
 
 And in order to protect the goats' valuable fleece, they must be regularly coated with special oil. This process not only helps to keep the coat healthy and free of tangles, but it also protects against pests and parasites.
 
@@ -94,7 +94,7 @@ In addition, the coating helps to repel water, keeping the goat's coat dry and w
 
 ## How often should you coat an angora goat?
 
-Angora goats need to be coated regularly to keep their [fur from matting](/can-male-pygmy-goats-have-long-hair/). The frequency of coatings will depend on the type of angora goat you have.
+Angora goats need to be coated regularly to keep their fur from matting. The frequency of coatings will depend on the type of angora goat you have.
 
 If you have a French angora goat, you should coat it every three to four weeks. If you have a German angora goat, you should coat it every six to eight weeks.
 
@@ -110,25 +110,25 @@ If the coat is not brushed frequently, the individual hairs can start to knot to
 
 Another potential problem is that the coat may provide too much insulation, causing the goat to overheat. In warm weather, it is important to make sure that the goat has access to shade and fresh water so that it can stay cool.
 
-Finally, the coat can also attract [predators](/can-you-describe-a-herd-of-sheep-and-goats/), such as coyotes and foxes. To help protect your goats, consider fencing them in or keeping them in a barn at night.
+Finally, the coat can also attract predators, such as coyotes and foxes. To help protect your goats, consider fencing them in or keeping them in a barn at night.
 
 ## How can you prevent risks associated with coating an angora goat?
 
-There are a few steps you can take to prevent [risks associated with coating an angora goat](/can-a-cdt-shot-kill-a-goat/). First, it's important to brush the coat regularly to prevent matting and tangling.
+There are a few steps you can take to prevent risks associated with coating an angora goat. First, it's important to brush the coat regularly to prevent matting and tangling.
 
 Second, in warm weather, make sure the goat has access to shade and fresh water to avoid overheating.
 
-Finally, consider fencing the goat in or [keeping it in a barn](/can-a-goat-barn-be-12x-2/) at night to help protect it from predators.
+Finally, consider fencing the goat in or keeping it in a barn at night to help protect it from predators.
 
-By taking these precautions, you can help ensure that your angora goat stays healthy and its coat remains in good condition.
+By taking these precautions, you can help make sure that your angora goat stays healthy and its coat remains in good condition.
 
 ## What are the treatments for an angora goat with a matted coat?
 
 There are a few treatments for an angora goat with a matted coat. First, you can try to brush out the mats and tangles.
 
-If this doesn't work, you can try using a detangling spray or conditioner. You can also try [cutting out the mats](/can-i-remove-my-goat-full-grown-horns/) with scissors.
+If this doesn't work, you can try using a detangling spray or conditioner. You can also try cutting out the mats with scissors.
 
-If all of these methods fail, you may [need to shave the goat's coat](/can-goats-eat-potato-shavings/). This should only be done as a last resort, as it can be painful for the goat and may damage its skin.
+If all of these methods fail, you may need to shave the goat's coat. This should only be done as a last resort, as it can be painful for the goat and may damage its skin.
 
 ### When to Put the Coat On and Take It Off
 

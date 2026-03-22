@@ -48,9 +48,9 @@ We'll cover everything below.we will answer those questions and provide you with
 
 In addition, you will need to provide your goat with a shelter that is large enough for them to move around in and that has sufficient ventilation. The shelter should also be protected from the elements, such as wind, rain, and snow.
 
-You will also need to have a fence that is high enough to keep your goat contained. It is important to note that [goats are known for their climbing abilities](/can-a-goat-climb-trees/), so the fence will need to be made of materials that they cannot climb or jump over.
+You will also need to have a fence that is high enough to keep your goat contained. goats are known for their climbing abilities, so the fence will need to be made of materials that they cannot climb or jump over.
 
-Finally, you will [need to provide your goat with food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation.
+Finally, you will need to provide your goat with food and water. Goats are browsers, which means that they prefer to eat leaves, twigs, and other vegetation.
 
 You can either grow your own food for them or purchase hay from a local farm.
 
@@ -58,13 +58,13 @@ Water should be available to them at all times, and it should be fresh and clean
 
 ## What is the process of adopting a goat from a farm in Rochester NY?
 
-If you're interested in adopting a goat from a farm in Rochester, NY, there are a few [things you need to know](/can-a-dog-get-sick-from-a-goat/).
+If you're interested in adopting a goat from a farm in Rochester, NY, there are a few things you need to know.
 
 First, you'll need to fill out an application and be approved by the farm. Once you've been approved, you'll be able to choose a goat from the farm's selection.
 
 The adoption fee is $75, and you'll also need to sign a contract agreeing to care for the goat properly.
 
-After the adoption is complete, you'll need to provide the farm with proof of insurance covering your new goat. Once all of that is taken care of, you'll be able to take your new furry friend home.
+After the adoption is complete, you'll need to provide the farm with proof of insurance covering your new goat. Once all of that is taken care of, you'll be able to take your new goat home.
 
 ## What are the benefits of owning a pet goat?
 
@@ -78,19 +78,19 @@ They form strong bonds with their owners and enjoy spending time with them. They
 
 Thirdly, goats are relatively low-maintenance pets. They don't require a lot of space, and they can live on a diet of hay and pellets.
 
-fourth, goats can provide dairy products such as [milk](/can-i-raise-goats-for-milk-protein/) and cheese.
+fourth, goats can provide dairy products such as milk and cheese.
 
-And finally, goats can be used for their [fur](/can-male-pygmy-goats-have-long-hair/) or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
+And finally, goats can be used for their fur or leather, which can be made into clothing or other items. As you can see, there are many benefits to owning a pet goat.
 
 ## How to care for your new goat friend?
 
-Goats are notoriously independent, so they don't need a lot of extra care. however, there are a few things you should keep in mind when you're taking care of your new goat friend.
+Goats are notoriously independent, so they don't need a lot of extra care. However, there are a few things you should keep in mind when you're taking care of your new goat friend.
 
-First of all, goats are very social creatures, so it's important to spend some time every day interacting with your goat. whether it's brushing their fur or simply talking to them, goats enjoy having companionship.
+First of all, goats are very social creatures, so it's important to spend some time every day interacting with your goat. Whether it's brushing their fur or simply talking to them, goats enjoy having companionship.
 
-After that, goats need plenty of space to roam and play. if you confine them to a small space, they will quickly become bored and destructive.
+After that, goats need plenty of space to roam and play. If you confine them to a small space, they will quickly become bored and destructive.
 
-And finally, goats are browsers, not grazers like cows. this means that they prefer to eat shrubs and leaves rather than grass.
+And finally, goats are browsers, not grazers like cows. This means that they prefer to eat shrubs and leaves rather than grass.
 
 so, make sure to provide your goat with plenty of fresh browse to munch on.
 
@@ -100,7 +100,7 @@ Goats are interesting creatures that are part of the Caprinae family, which incl
 
 Goats are adaptable to a wide range of environments and can be found on every continent except Antarctica. One of the reasons goats are so successful is that they have a unique digestive system that allows them to digest food that other animals cannot.
 
-For example, [goats can safely eat plants](/can-goats-eat-any-plant/) that are poisonous to other animals, such as rhododendrons and azaleas. In addition, goats are able to convert low-quality plants into high-quality milk and meat.
+For example, goats can safely eat plants that are poisonous to other animals, such as rhododendrons and azaleas. In addition, goats are able to convert low-quality plants into high-quality milk and meat.
 
 Talking about shelter, goats do not need much. They are able to withstand cold temperatures and can even live in high altitudes.
 
@@ -124,14 +124,14 @@ Goats are intelligent creatures that have a reputation for being Stubborn. But, 
 
 Here are a few fun facts about goats:
 
-- [Goats were one of the first animals to be domesticated by humans](/can-domestic-goats-jump/).
-- [Goats are able to climb mountains](/can-mountain-goats-climb-cliffs/) and live in high altitudes.
+- Goats were one of the first animals to be domesticated by humans.
+- Goats are able to climb mountains and live in high altitudes.
 - Goats have an excellent sense of smell and can be trained to be detection animals.
 - Goats are known for their distinctive "beards", which are actually long hairs that grow on the chin and throat.
-- Male goats are called "bucks" while female goats goats are called "[does](/can-i-have-goats-where-i-live/)".
+- Male goats are called "bucks" while female goats goats are called "does".
 - Young goats are called "kids".
 - A group of goats is known as a "flock" or a "herd".
-- [Goats are proficient swimmers](/can-a-goat-swim-everything-you-need-to-know/) and have been known to swim for miles.
+- Goats are proficient swimmers and have been known to swim for miles.
 - Goats are curious creatures and will often investigate anything new in their environment.
 
 ### Rochester NY Winter Challenges for Goat Owners

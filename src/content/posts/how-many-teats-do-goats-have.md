@@ -45,7 +45,7 @@ Let's break it down.we'll answer some common questions about goats, including ho
 
 ## How many teats do goats have?
 
-In addition to the number of teats, another factor that determines how much [milk a goat can produce](/can-a-female-goat-produce-milk-without-being-pregnant/) is the size of the teat. A large teat can hold more milk than a small teat, so a goat with four large teats will likely produce more milk than a goat with six small teats.
+In addition to the number of teats, another factor that determines how much milk a goat can produce is the size of the teat. A large teat can hold more milk than a small teat, so a goat with four large teats will likely produce more milk than a goat with six small teats.
 
 ## What are goat teats used for?
 
@@ -53,7 +53,7 @@ Goat teats are used for a variety of purposes, the most common of which is milki
 
 In addition to milking, goat teats can also be used to provide nourishment for young goats. When a goat is first born, its mother will clean its teats and then offer them to the kid to suckle on.
 
-This provides the kid with essential colostrum, which helps to boost immunity and [protect against disease](/can-you-catch-diseases-from-goats/). Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats.
+This provides the kid with essential colostrum, which helps to boost immunity and protect against disease. Once a kid is old enough to eat solid food, it will no longer need to suckle on its mother's teats.
 
 Even so, goat teats can still play an important role in social interactions between goats.
 
@@ -61,7 +61,7 @@ For example, adult goats will often gently nibble on each other's teats as part 
 
 ## What is the average number of kids a goat can give birth to?
 
-Goats are experts at giving birth. A doe (female goat) can have anywhere from [1-4 kids in a single birth](/how-many-babies-do-goats-have-at-a-time/), with the average being 2.3.
+Goats are experts at giving birth. A doe (female goat) can have anywhere from 1-4 kids in a single birth, with the average being 2.3.
 
 Some recorded cases show does giving birth to up to 7 kids, but this is very rare. Triplets and quads are much more common and often happen without any complications.
 
@@ -75,17 +75,17 @@ Goats are members of the Caprinae family, which includes other small ruminants l
 
 In contrast, animals like cats and dogs usually only have one or two offspring at a time, as they can better care for a smaller number of young.
 
-While having multiple kids may be advantageous from an evolutionary standpoint, it can also be difficult for the mother goat. Multiple births put a lot of strain on the doe's body, and can sometimes lead to [complications during labor](/can-an-over-due-goat-be-induced-to-labor/).
+While having multiple kids may be advantageous from an evolutionary standpoint, it can also be difficult for the mother goat. Multiple births put a lot of strain on the doe's body, and can sometimes lead to complications during labor.
 
-For this reason, it's crucial to make sure that does have access to plenty of food and water during pregnancy, as well as during the months after they give birth. With proper care, does can successfully raise large families year after year.
+For this reason, it's important to make sure that does have access to plenty of food and water during pregnancy, as well as during the months after they give birth. With proper care, does can successfully raise large families year after year.
 
 ## What are some common problems with goat nursing?
 
 Nursing is a vital part of goat care, but it can also be one of the most challenging. There are several common problems that can occur, including poor milk production, mastitis, and sore nipples.
 
-One of the most common problems is poor milk production. This can be due to a number of factors, including an [inadequate diet](/can-goats-eat-alfalfa/), stress, or illness.
+One of the most common problems is poor milk production. This can be due to a number of factors, including an inadequate diet, stress, or illness.
 
-[Mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) is another common problem that can occur during goat nursing. This is an infection of the [udder](/can-a-dairy-goats-udder-skin-have-varying-colors/) that can cause pain, swelling, and reduced milk production.
+Mastitis is another common problem that can occur during goat nursing. This is an infection of the udder that can cause pain, swelling, and reduced milk production.
 
 If you think your goat may have mastitis, it's important to seek veterinary care as soon as possible.
 
@@ -93,17 +93,17 @@ Sore nipples are another common complaint among goat owners. This can be caused 
 
 ## How do you milk a goat?
 
-To [milk a goat](/can-you-drink-goat-milk-straight-from-goat/), you will need to have a clean milk pail, a clean stool, and clean hands. The first step is to wash the goat's udder with warm water.
+To milk a goat, you will need to have a clean milk pail, a clean stool, and clean hands. The first step is to wash the goat's udder with warm water.
 
 Next, place the milk pail under the udder and allow the goat to get used to the sensation of being milked.
 
 Once the goat is comfortable, gently squeeze the udders and release the milk into the pail. Continue milking until the flow of milk slows to a trickle.
 
-Be sure to wash your hands and equipment thoroughly after [milking](/can-someone-allergic-to-milk-use-goats-milk/).
+Be sure to wash your hands and equipment thoroughly after milking.
 
 ## How often should you milk a goat?
 
-Goats produce milk for about ten months following [kidding](/can-a-pygmy-goat-take-care-of-triplets/). During the peak production period, a doe will produce more milk than her kid(s) can consume, so milking is necessary in order to prevent the udder from becoming overloaded and uncomfortable.
+Goats produce milk for about ten months following kidding. During the peak production period, a doe will produce more milk than her kid(s) can consume, so milking is necessary in order to prevent the udder from becoming overloaded and uncomfortable.
 
 For this reason, most goat keepers choose to milk their does twice per day, morning and evening. However, some Milan once per day while others milk three times per day.
 

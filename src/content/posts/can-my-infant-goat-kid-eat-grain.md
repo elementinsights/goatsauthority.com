@@ -46,17 +46,17 @@ We'll cover everything below.we will answer those questions for you, as well as 
 
 ## Can my infant goat kid eat grain?
 
-In addition, always choose a [high-quality feed that is designed specifically for goats](/can-a-goat-feed-quads/). This will ensure that your kid gets the proper nutrition and does not ingest any harmful substances.
+In addition, always choose a high-quality feed that is designed specifically for goats. This will make sure that your kid gets the proper nutrition and does not ingest any harmful substances.
 
-Despite their small size, [goats are able to eat a wide variety of food](/can-goats-eat-dog-food/). This includes both plants and animals.
+Despite their small size, goats are able to eat a wide variety of food. This includes both plants and animals.
 
-That said, the majority of their diet should be made up of [hay](/what-kind-of-hay-do-goats-eat/), fresh vegetables, and other green vegetation.
+That said, the majority of their diet should be made up of hay, fresh vegetables, and other green vegetation.
 
 Grain can be fed to goats as well, but it should only make up a small part of their overall diet. This is because grain is generally high in carbohydrates and can cause digestive problems if goats eat too much of it.
 
 Another thing to note is grain should always be cooked before feeding it to goats, as uncooked grain can be difficult for them to digest.
 
-When introducing grain into a goat's diet, it is crucial to do so slowly and in [small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/). This will help them to adjust to the new food and avoid any digestive issues.
+When introducing grain into a goat's diet, it is important to do so slowly and in small amounts. This will help them to adjust to the new food and avoid any digestive issues.
 
 It is also important to consult with a veterinarian before making any changes to a goat's diet, especially if the goat has any health conditions.
 
@@ -64,13 +64,13 @@ It is also important to consult with a veterinarian before making any changes to
 
 When it comes to feeding infant goats, there are many different options available. Some people choose to give their young livestock a strictly vegetarian diet, while others opt for a mix of grains and vegetables.
 
-While there is no right or wrong choice when it comes to [feeding baby goats](/can-i-use-regular-milk-to-feed-a-baby-goat/), there are definitely some benefits of choosing to feed them grain.
+While there is no right or wrong choice when it comes to feeding baby goats, there are definitely some benefits of choosing to feed them grain.
 
 For one thing, goat milk is higher in fat than cow's milk, making it an excellent source of energy and nutrition for growing goats.
 
-[Grain](/can-goats-eat-oats/) also helps to stimulate digestion and regulate the metabolic process, leading to healthier growth rates overall.
+Grain also helps to stimulate digestion and regulate the metabolic process, leading to healthier growth rates overall.
 
-And perhaps most importantly, feeding grain can help ensure that your infant goats get all the nutrients they need for healthy development and a strong immune system.
+And perhaps most importantly, feeding grain can help make sure that your infant goats get all the nutrients they need for healthy development and a strong immune system.
 
 So if you're looking for ways to keep your baby goats healthy and happy, consider giving them a little bit more grain!​
 
@@ -84,7 +84,7 @@ Generally speaking, most kids should start with small amounts of food when they 
 
 What's more, it's recommended that you feed your goat kid at regular intervals throughout the day, perhaps once or twice per day, rather than in one or two large meals.
 
-By following these guidelines, you can help to ensure that your kid gets all of the nutrients it needs to live a happy and healthy life.
+By following these guidelines, you can help to make sure that your kid gets all of the nutrients it needs to live a happy and healthy life.
 
 ## What are some common mistakes people make when feeding goat kids grain?
 
@@ -94,19 +94,19 @@ Many people mistakenly believe that pellets and mash have the same nutritional c
 
 Plus, some people will choose to over-supplement the grain with extra minerals or vitamins, thinking that more is better.
 
-And finally, it is important to remember that goat kids have very [sensitive digestive systems](/can-goats-eat-everything/), so it is crucial to be careful not to overload them with food or introduce new feeds too quickly.
+And finally, it is important to remember that goat kids have very sensitive digestive systems, so it is important to be careful not to overload them with food or introduce new feeds too quickly.
 
-By avoiding these common mistakes, you can help ensure that your goat kids grow up healthy and strong.
+By avoiding these common mistakes, you can help make sure that your goat kids grow up healthy and strong.
 
 ## How to prevent digestive problems when feeding grain to goats
 
-One of the best ways to prevent [digestive problems](/can-goats-digest-anything/) when feeding grain to goats is to slowly introduce the new food into their diet.
+One of the best ways to prevent digestive problems when feeding grain to goats is to slowly introduce the new food into their diet.
 
 This can be done by starting with small amounts of grain and gradually increasing the amount over time.
 
-Also, it is crucial to cook the grain before feeding it to goats, as this will help to break down some of the complex carbohydrates and make them easier to digest.
+Also, it is important to cook the grain before feeding it to goats, as this will help to break down some of the complex carbohydrates and make them easier to digest.
 
-One more thing: be sure to provide plenty of fresh [water for your goats](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times, as this will help to keep their digestive system working properly.
+One more thing: be sure to provide plenty of fresh water for your goats at all times, as this will help to keep their digestive system working properly.
 
 By following these simple tips, you can help keep your goats healthy and happy.
 
@@ -114,7 +114,7 @@ By following these simple tips, you can help keep your goats healthy and happy.
 
 Bloat is a common affliction among kid goats, especially those that are fed grass-heavy diets. The condition is caused by a buildup of gas in the belly of the animal, which results in swelling and discomfort.
 
-However, there are several treatments for bloat in [kid goats](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat/). In mild cases, you can give the goat an over-the-counter antacid medication to help relieve stomach cramps and bring down the volume of air inside its body.
+However, there are several treatments for bloat in kid goats. In mild cases, you can give the goat an over-the-counter antacid medication to help relieve stomach cramps and bring down the volume of air inside its body.
 
 In more severe cases, you may also want to consider administering an enema to help expel some of that excess air.
 
@@ -122,13 +122,13 @@ When all is said and done, though, it is best to consult with your local veterin
 
 ## When is the best time to give grain to goats?
 
-The best time to give grain to goats is in the morning after they have had a chance to eat and drink. This will help ensure that they are able to digest the food properly and prevent any digestive problems.
+The best time to give grain to goats is in the morning after they have had a chance to eat and drink. This will help make sure that they are able to digest the food properly and prevent any digestive problems.
 
-Additionally, it is important to make sure that the grain is fresh and free from any mold or other contaminants.
+It is important to make sure that the grain is fresh and free from any mold or other contaminants.
 
 Finally, be sure to cook the grain before feeding it to your goats, as this will help to break down some of the complex carbohydrates and make them easier to digest.
 
-By following these simple tips, you can help ensure that your goats get all of the nutrients they need to stay healthy and happy.
+By following these simple tips, you can help make sure that your goats get all of the nutrients they need to stay healthy and happy.
 
 ### Best Grain Types for Infant Goats
 
@@ -168,8 +168,8 @@ So, to sum up, there are a few things you can do to make sure your goat kids get
 
 First and foremost, be sure to mix up the types of feed so that they get the right balance of nutrients.
 
-Additionally, cook the grain before feeding it to them in order to help with digestion, and make sure they have plenty of fresh water available at all times.
+Cook the grain before feeding it to them in order to help with digestion, and make sure they have plenty of fresh water available at all times.
 
 Finally, remember to introduce new feeds slowly so as not to upset their delicate digestive systems.
 
-By following these simple guidelines, you can help ensure that your goats stay healthy and happy while eating grain.
+By following these simple guidelines, you can help make sure that your goats stay healthy and happy while eating grain.

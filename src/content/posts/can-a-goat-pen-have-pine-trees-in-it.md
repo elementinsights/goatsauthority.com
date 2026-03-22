@@ -46,15 +46,15 @@ We will answer all of these questions for you so that you can be sure whether or
 
 ## Can a goat pen have pine trees in it?
 
-However, it's important to make sure that the [pine trees are not poisonous to goats](/can-pine-chips-be-used-as-bedding-for-goats/). Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
+However, it's important to make sure that the pine trees are not poisonous to goats. Some types of pine trees, such as the lodgepole pine, can be toxic to goats if they eat the needles or bark.
 
-it's also important to make sure that the pine trees are not too close together. If they are, the [goats may not be able to move around freely and could get stuck between the trees](/can-a-nubian-goat-climb-trees/).
+it's also important to make sure that the pine trees are not too close together. If they are, the goats may not be able to move around freely and could get stuck between the trees.
 
 Finally, you will need to prune the pine trees regularly to keep them from getting too big and blocking out the sunlight.
 
 ## How many pine trees should be in a goat pen?
 
-Depending on the size of your [goat pen](/can-a-goat-barn-be-12x-2/), you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
+Depending on the size of your goat pen, you will need to plant a certain number of pine trees. If you have a small pen, then you will only need to plant one or two trees.
 
 Still, if you have a larger pen, then you will need to plant more trees. The number of pine trees that you will need to plant will also depend on the climate.
 
@@ -64,7 +64,7 @@ Planting the right number of pine trees in your goat pen is essential for the he
 
 ## What are some benefits of having pine trees in a goat pen?
 
-[Goats are browsers and enjoy eating the needles of pine trees](/can-goats-eat-pine-trees/). Goats will also rub on the pine trees to scratch their backs.
+Goats are browsers and enjoy eating the needles of pine trees. Goats will also rub on the pine trees to scratch their backs.
 
 Pine trees provide goats with a source of entertainment and enrichment, which can help to keep them healthy and happy.
 
@@ -78,11 +78,11 @@ There are many different types of pine trees, and each has its own set of charac
 
 For example, the eastern white pine is a popular choice for goat pens because it's strong and durable. Eastern white pines also have thick bark that can help protect goats from predators.
 
-Additionally, these trees are known for their ability to withstand heavy browsing from goats. Other good choices for goat pens include the Scotch pine and the Austrian black pine.
+These trees are known for their ability to withstand heavy browsing from goats. Other good choices for goat pens include the Scotch pine and the Austrian black pine.
 
 Both of these species are known for their strength and stability.
 
-Additionally, they are both relatively resistant to browsing by goats. When choosing a type of pine tree for a goat pen, it's important to consider the specific needs of the goats.
+They are both relatively resistant to browsing by goats. When choosing a type of pine tree for a goat pen, it's important to consider the specific needs of the goats.
 
 Some pine trees may be more aesthetically pleasing than others, but not all types of pine will provide the necessary support and protection for a healthy goat pen.
 
@@ -100,7 +100,7 @@ Bundling helps to protect the seedlings from being trampled, and it also makes i
 
 ## What kind of maintenance is required for pine trees in a goat pen?
 
-Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and [shelter for goats](/can-goats-be-kept-in-the-house/).
+Pine trees are one of the most popular types of trees to use in a goat pen. They are sturdy and provide plenty of shade and shelter for goats.
 
 Then again, pine trees do require some maintenance in order to stay healthy and look their best.
 
@@ -115,13 +115,13 @@ By following these simple tips, you can help keep your pine trees healthy and lo
 
 ## Are there any risks associated with having pine trees in a goat pen?
 
-There are a few risks associated with having pine trees in a goat pen. The first is that the [goats may eat the pine needles](/can-goats-eat-pine-needles/), which can cause digestive issues.
+There are a few risks associated with having pine trees in a goat pen. The first is that the goats may eat the pine needles, which can cause digestive issues.
 
-Pine needles are also sharp, so they may scratch the goats or get caught in their fur. In addition, [pine trees can drop branches](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/), which could injure the goats.
+Pine needles are also sharp, so they may scratch the goats or get caught in their fur. In addition, pine trees can drop branches, which could injure the goats.
 
 Finally, pine trees produce sap, which can be sticky and attract insects. If the sap gets on the goats, it could cause skin irritations.
 
-For these reasons, it's crucial to monitor goats carefully if there are [pine trees in their pen](/can-goats-climb-fences/).
+For these reasons, it's important to monitor goats carefully if there are pine trees in their pen.
 
 ### Protecting Young Pine Trees From Goat Damage
 
@@ -135,7 +135,7 @@ You can also build a small fence ring around each young tree. Once the tree is f
 
 A goat pen can have pine trees in it, but there are a few things to consider before planting them. First, make sure to choose a type of pine tree that is strong and durable.
 
-Some good choices include the Eastern white pine, the Scotch pine, and the Austrian black pine. Second, [consider the specific needs of the goats when choosing a type of pine tree](/can-a-goat-climb-trees/).
+Some good choices include the Eastern white pine, the Scotch pine, and the Austrian black pine. Second, consider the specific needs of the goats when choosing a type of pine tree.
 
 Some goats may need more shade, while others may prefer a type of pine tree that is more resistant to browsing.
 

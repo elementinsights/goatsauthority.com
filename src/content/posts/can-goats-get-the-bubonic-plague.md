@@ -44,7 +44,7 @@ We will answer all of your questions regarding goats and the bubonic plague in t
 
 ## Can goats get the bubonic plague?
 
-If you live in an area where the bubonic plague is present, there are some [things you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/). First, you should get them vaccinated against the disease.
+If you live in an area where the bubonic plague is present, there are some things you can do to protect your goats. First, you should get them vaccinated against the disease.
 
 You should also avoid letting them roam free in areas where there is a risk of exposure to infected animals.
 
@@ -78,11 +78,11 @@ With early diagnosis and treatment, the disease can be successfully treated in m
 
 ## How does the bubonic plague spread and can it be prevented or treated in goats?
 
-The bubonic plague is a bacterial infection that is spread by fleas. When an infected flea [bites a goat](/can-goats-bite/), the bacteria enter the goat's bloodstream and begin to multiply.
+The bubonic plague is a bacterial infection that is spread by fleas. When an infected flea bites a goat, the bacteria enter the goat's bloodstream and begin to multiply.
 
 The bacteria then travel to the lymph nodes, where they cause the nodes to swell and become painful. In some cases, the infection can spread from the lymph nodes to the lungs, causing pneumonia.
 
-There is no specific treatment for the bubonic plague, but antibiotics may be used to help control the infection. vaccinated against the disease.
+There is no specific treatment for the bubonic plague, but antibiotics may be used to help control the infection. Vaccinated against the disease.
 
 There is no specific treatment for the bubonic plague, but antibiotics may be used to help control the infection. Vaccination is the best method of prevention.
 
@@ -90,17 +90,17 @@ There is no specific treatment for the bubonic plague, but antibiotics may be us
 
 Though it may sound like something out of a medieval fairy tale, the bubonic plague is a serious disease that can affect both humans and animals.
 
-Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and [swollen lymph nodes](/can-a-goat-get-a-cold-sore/). If you suspect that your goat has bubonic plague, it is crucial to seek veterinarian care immediately.
+Goats are particularly susceptible to the disease, and owners should be on the lookout for symptoms such as fever, lethargy, and swollen lymph nodes. If you suspect that your goat has bubonic plague, it is important to seek veterinarian care immediately.
 
-The disease can be treated with [antibiotics](/can-pregnant-goats-eat-medicated-feed/), but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
+The disease can be treated with antibiotics, but it is often fatal if left untreated. In addition, owners should take precautions to prevent their other animals from contracting the disease, such as quarantining any sick animals and preventing contact between sick and healthy animals.
 
 By taking these steps, you can help to protect your goats from this deadly disease.
 
 ## Are there any other diseases that can affect goats and how can they be prevented/treated?
 
-There are a variety of diseases that can [affect goats](/can-weather-affect-goats-poop/). Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease.
+There are a variety of diseases that can affect goats. Some of the more common diseases include pneumonia, enterotoxemia, and Johne's disease.
 
-[Pneumonia](/can-goats-be-outside-in-winter/) is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
+Pneumonia is a respiratory infection that can be caused by a number of different viruses, bacteria, or fungi.
 
 Enterotoxemia is a bacterial infection that affects the digestive system. Johne's disease is a chronic bacterial infection that primarily affects the intestines.
 
@@ -116,13 +116,13 @@ Keeping your goats healthy and safe from all diseases is important for several r
 
 Second, healthy goats live longer and require less veterinarian care, which saves you money in the long run.
 
-Third, diseases can [spread quickly among goats](/can-goats-spread-lice-to-llamas/), so it is crucial to do everything you can to prevent them from getting sick in the first place. Fortunately, there are a few simple steps you can take to keep your goats healthy and disease-free.
+Third, diseases can spread quickly among goats, so it is important to do everything you can to prevent them from getting sick in the first place. Fortunately, there are a few simple steps you can take to keep your goats healthy and disease-free.
 
-First, make sure they have access to clean water at all times. [Goats are very fond of water and will drink a lot](/can-horses-drink-water-that-has-goat-poop-in-it/) of it, so it is crucial to make sure their water source is clean and free of contaminants.
+First, make sure they have access to clean water at all times. Goats are very fond of water and will drink a lot of it, so it is important to make sure their water source is clean and free of contaminants.
 
-Second, keep their living area clean and free of debris. Debris can harbor disease-causing parasites, so it is crucial to remove it on a regular basis.
+Second, keep their living area clean and free of debris. Debris can harbor disease-causing parasites, so it is important to remove it on a regular basis.
 
-Finally, provide your goats with a [balanced diet](/how-many-stomachs-do-goats-have/) that includes plenty of fresh grass or hay. A healthy diet will help them stay strong and resistant to disease.
+Finally, provide your goats with a balanced diet that includes plenty of fresh grass or hay. A healthy diet will help them stay strong and resistant to disease.
 
 By following these simple tips, you can help keep your goats healthy and safe from all diseases.
 

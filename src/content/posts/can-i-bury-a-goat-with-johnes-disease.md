@@ -48,7 +48,7 @@ Read on for the full breakdown.we will discuss everything you need to know about
 
 ## Can you bury a goat with Johne's disease?
 
-When burying a [goat with Johne's disease](/can-goats-carry-distemper/), it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
+When burying a goat with Johne's disease, it is important to bury the goat at least 3 feet deep. This will help to prevent other animals from digging up the carcass and becoming infected with the disease.
 
 It is also important to use a heavy-duty tarp when burying a goat with Johne's disease. The tarp will help to prevent the spread of the disease if the carcass should happen to leak fluids.
 
@@ -56,13 +56,13 @@ If you have other animals on your property, you need to keep them away from the 
 
 Johne's disease is a serious disease that can be fatal in goats. If you think that your goat may have Johne's disease, you need to contact a veterinarian right away.
 
-Johne's disease is a contagious disease that [affects goats](/can-weather-affect-goats-poop/). The disease is caused by a bacteria called Mycobacterium avium paratuberculosis.
+Johne's disease is a contagious disease that affects goats. The disease is caused by a bacteria called Mycobacterium avium paratuberculosis.
 
-This bacteria is found in the environment, and it can [infect goats through contaminated food or water](/can-i-give-a-sick-goat-water-through-a-syringe/).
+This bacteria is found in the environment, and it can infect goats through contaminated food or water.
 
-The bacteria can also be [spread from goat to goat](/can-goats-spread-lice-to-llamas/) through contact with contaminated fecal matter. Once a goat is infected with the bacteria, it can take months or even years for the disease to develop.
+The bacteria can also be spread from goat to goat through contact with contaminated fecal matter. Once a goat is infected with the bacteria, it can take months or even years for the disease to develop.
 
-Johne's disease is a serious disease that can be fatal in goats. The [symptoms](/can-goats-have-a-stroke-anemia/) of Johne's disease include weight loss, diarrhea, and loss of appetite.
+Johne's disease is a serious disease that can be fatal in goats. The symptoms of Johne's disease include weight loss, diarrhea, and loss of appetite.
 
 If you think that your goat may have Johne's disease, you need to contact a goat expert right away.
 
@@ -72,9 +72,9 @@ Johne's disease, also known as paratuberculosis, is a serious illness that affec
 
 Paratuberculosis, or MAP for short.
 
-This type of bacteria is highly contagious and can be transmitted through [direct contact with infected animals](/can-you-catch-diseases-from-goats/) as well as through indirect contact via contaminated water or food sources.
+This type of bacteria is highly contagious and can be transmitted through direct contact with infected animals as well as through indirect contact via contaminated water or food sources.
 
-The main symptoms of Johne's disease include persistent diarrhea, weight loss, [reduced milk production](/can-goat-milk-reduce-wrinkles/), and weakness and lethargy in the afflicted animal. If left untreated, this disease can have severe consequences for both individual animals and the wider goat population.
+The main symptoms of Johne's disease include persistent diarrhea, weight loss, reduced milk production, and weakness and lethargy in the afflicted animal. If left untreated, this disease can have severe consequences for both individual animals and the wider goat population.
 
 To prevent the spread of Johne's disease, you need to monitor herd health closely and follow strict biosecurity protocols to avoid infection from outside sources.
 
@@ -88,9 +88,9 @@ There are several steps that can be taken to help prevent Johne's disease in goa
 
 This means ensuring that their pens and enclosures are kept free of dirt, manure, and other debris that could harbor harmful bacteria or parasites.
 
-And also, you need to provide your goats with regular [vaccinations](/can-a-cdt-shot-kill-a-goat/) and checkups with a licensed veterinarian. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
+And also, you need to provide your goats with regular vaccinations and checkups with a licensed veterinarian. This will allow them to receive any necessary treatments or medications as needed, helping them stay healthy and strong.
 
-Finally, another key component to preventing Johne's disease is the quality of their food. [Feeding your goats](/can-baking-soda-cause-urinary-issues-in-goats/) a high-quality diet that includes plenty of fresh fruits, vegetables, and protein will help boost their immune system, making them less susceptible to infection from disease-causing pathogens.
+Finally, another key component to preventing Johne's disease is the quality of their food. Feeding your goats a high-quality diet that includes plenty of fresh fruits, vegetables, and protein will help boost their immune system, making them less susceptible to infection from disease-causing pathogens.
 
 With these simple tips in mind, you can help ensure long and happy lives for your beloved herd of goats.
 
@@ -98,15 +98,15 @@ With these simple tips in mind, you can help ensure long and happy lives for you
 
 Treatments for Johne's disease in goats vary depending on the severity of the infection and the health of the affected animal. In some cases, medication may be prescribed in order to help clear the bacteria from the goat's system.
 
-And also, you need to provide supportive care during this time, which may include [supplemental feeding](/can-a-goat-feed-quads/) and extra bedding to help keep the goat comfortable.
+And also, you need to provide supportive care during this time, which may include supplemental feeding and extra bedding to help keep the goat comfortable.
 
-In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease. Keep in mind, with early diagnosis and treatment, most [goats can recover from Johne's disease](/can-goats-recover-from-polio-without-medication/) and go on to lead happy and healthy lives.
+In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease. Keep in mind, with early diagnosis and treatment, most goats can recover from Johne's disease and go on to lead happy and healthy lives.
 
 ## How to test for Johne's disease in goats?
 
 There are several ways to test for Johne's disease in goats. The most common method is the fecal culture test, which involves taking a sample of the goat's feces and incubating it in a special culture medium.
 
-This allows the bacteria to grow, allowing goat experts to confirm the presence of MAP. [Blood tests](/can-any-diseases-spread-from-swine-to-goats/) are also available, though they are not as accurate as fecal cultures.
+This allows the bacteria to grow, allowing goat experts to confirm the presence of MAP. Blood tests are also available, though they are not as accurate as fecal cultures.
 
 However, they can be useful in cases where a goat is too young or sick to produce a feces sample. Ultimately, the best way to confirm a diagnosis of Johne's disease is through a combination of both fecal and blood testing.
 
@@ -118,7 +118,7 @@ The best time to test for Johne's disease in goats is when they are between 6 an
 
 paratuberculosis (MAP), can take several months to incubate in an animal's system.
 
-Therefore, testing too early could result in false negatives, while waiting too long could mean that the disease has already progressed to a more advanced stage. Additionally, you need to note that [not all goats will test positive for Johne's disease](/can-goats-eat-st-johns-wort/) even if they are infected with MAP.
+Therefore, testing too early could result in false negatives, while waiting too long could mean that the disease has already progressed to a more advanced stage. You need to note that not all goats will test positive for Johne's disease even if they are infected with MAP.
 
 This is because bacteria can cause different levels of infection, with some animals being asymptomatic carriers while others may develop more severe symptoms. For this reason, it is important to consult with a goat expert if you have any concerns about the health of your goats.
 
@@ -130,6 +130,6 @@ You can bury a goat with Johne's disease, but you should consult with a veterina
 
 Treatment for Johne's disease in goats varies depending on the severity of the infection and the health of the affected animal. In some cases, medication may be prescribed in order to help clear the bacteria from the goat's system.
 
-Additionally, you need to provide supportive care during this time, which may include supplemental feeding and extra bedding to help keep the goat comfortable. In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease.
+You need to provide supportive care during this time, which may include supplemental feeding and extra bedding to help keep the goat comfortable. In severe cases, it may be necessary to euthanize the affected animal in order to prevent the further spread of disease.
 
-However, with early diagnosis and treatment, most goats can recover from Johne's disease and go on to [lead happy and healthy lives](/can-dogs-and-pygmy-goats-live-together/).
+However, with early diagnosis and treatment, most goats can recover from Johne's disease and go on to lead happy and healthy lives.

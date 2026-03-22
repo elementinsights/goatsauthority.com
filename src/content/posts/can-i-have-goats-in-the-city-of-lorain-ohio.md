@@ -46,7 +46,7 @@ Here's the short version.we will go over the things you need to consider before 
 
 ## Can I have goats in the city of Lorain Ohio?
 
-You will also need to get a [livestock permit](/can-i-have-goats-where-i-live/) from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
+You will also need to get a livestock permit from the city if you plan on having more than two goats. The cost of the permit is $50 per year.
 
 In addition to the city ordinances, there are also some state laws that you need to be aware of. The Ohio Department of Agriculture requires that all goats have a Rabies Vaccination Certificate.
 
@@ -54,7 +54,7 @@ You will need to get this certificate from a licensed veterinarian.
 
 The State also has a law that requires all goats to be registered with the Ohio Division of Animal Health. The registration fee is $10 per goat.
 
-Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of [hay](/can-my-goats-eat-horse-treats/) and other tough vegetation.
+Keep in mind that goats are browsers, not grazers. Consequently, their diet should largely consist of hay and other tough vegetation.
 
 They will also require easy access to freshwater constantly.
 
@@ -64,11 +64,11 @@ If you are considering getting goats in the City of Lorain, Ohio, be sure to do 
 
 There are several different factors to consider when deciding which types of goats are best suited for a city environment. On the one hand, smaller goat breeds like pygmy goats may be more suitable due to their lower space requirements and smaller overall size.
 
-On the other hand, larger goat breeds like Alpine or [Saanen goats](/can-i-raise-goats-for-milk-protein/) may have greater milk production potential, making them a better choice for families looking to raise their own dairy products.
+On the other hand, larger goat breeds like Alpine or Saanen goats may have greater milk production potential, making them a better choice for families looking to raise their own dairy products.
 
-The bottom line is, [which type of goat is best for city life](/can-i-have-goats-in-the-city-of-lincoln-city-oregon/) will depend on your individual needs and preferences as well as your local climate and environmental conditions.
+The bottom line is, which type of goat is best for city life will depend on your individual needs and preferences as well as your local climate and environmental conditions.
 
-So before you decide on which goats to bring home, it's crucial to do your research and assess all of the options carefully. With a little careful planning and forethought, you can ensure that your goats will thrive in their new urban home.
+So before you decide on which goats to bring home, it's important to do your research and assess all of the options carefully. With a little careful planning and forethought, you can make sure that your goats will thrive in their new urban home.
 
 ## How much space do you need to keep goats in the city?
 
@@ -80,7 +80,7 @@ For many people, this means that keeping goats in urban areas can be difficult o
 
 For example, you could build a small shelter or pen in your backyard using recycled materials or built-up dirt from a nearby vacant lot.
 
-You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to [keep goats successfully](/can-i-have-goats-in-monroe-county-ny/) in the city, despite their reputation for being hard to handle.
+You might also consider investing in portable fencing panels that can be set up temporarily as needed. With careful planning and creativity, it is possible to keep goats successfully in the city, despite their reputation for being hard to handle.
 
 ## What kind of goat fencing is needed in the city?
 
@@ -102,7 +102,7 @@ The first is location. Within the city, it's important to carefully choose a spa
 
 Depending on the size of your herd, you may also want to consider zoning regulations and safety measures such as fencing.
 
-Additionally, you need to make sure that you have access to proper veterinary care in case of illness or injury, as well as [reliable source of feed for your goats](/can-a-goat-feed-quads/).
+You need to make sure that you have access to proper veterinary care in case of illness or injury, as well as reliable source of feed for your goats.
 
 Ensuring the well-being of your herd is key when keeping goats in the city, and taking all of these considerations into account is essential for making this endeavor a success.
 
@@ -110,9 +110,9 @@ Ensuring the well-being of your herd is key when keeping goats in the city, and 
 
 There are always risks associated with keeping animals, regardless of whether you live in the city or the country. However, there are a few risks that are specific to city living.
 
-For example, because goats are often kept in [small spaces](/can-i-have-goats-in-warrenville/), they can be more susceptible to disease and injury. Additionally, if your goats [escape their enclosure](/can-i-walk-a-goat-in-skippack-pa/), they may be at risk of being hit by a car or getting lost.
+For example, because goats are often kept in small spaces, they can be more susceptible to disease and injury. If your goats escape their enclosure, they may be at risk of being hit by a car or getting lost.
 
-Finally, because goats are social animals, they [need interaction and contact with other goats](/can-contact-with-goats-cause-diarrhea-in-humans/) in order to stay healthy and happy.
+Finally, because goats are social animals, they need interaction and contact with other goats in order to stay healthy and happy.
 
 If you live in the city and don't have any other goats for your herd to interact with, you may need to consider finding a nearby farm where they can socialize on a regular basis. Despite these risks, there are many ways to mitigate them through careful planning and preparation.
 
@@ -124,7 +124,7 @@ There are a few key things you can do to prevent the risks associated with keepi
 
 The first is to carefully choose a location for your goats. It's important to find a space where they will have plenty of room to graze and roam, and where they won't be at risk of escaping.
 
-In addition to access to proper veterinary care, you'll need a reliable source of feed and water. Socializing your goats is also [key to their development](/can-old-goats-develop-rickets/).
+In addition to access to proper veterinary care, you'll need a reliable source of feed and water. Socializing your goats is also key to their development.
 
 If you live in the city and don't have any other goats for them to interact with, you may need to consider finding a nearby farm where they can socialize on a regular basis.
 

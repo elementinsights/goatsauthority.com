@@ -51,13 +51,13 @@ Goats are very curious about nature and will want to explore everything. This in
 
 So it's important to keep an eye on them and make sure they don't eat too much of the sheep's wool.
 
-Sheep are very social animals and need to be around other sheep. So if you're only going to have one sheep, it's best to get another [animal for company](/can-dogs-and-pygmy-goats-live-together/), like a goat.
+Sheep are very social animals and need to be around other sheep. So if you're only going to have one sheep, it's best to get another animal for company, like a goat.
 
 ## Do goats and sheep need the same food?
 
 The short answer to this question is no, goats and sheep require different types of food in their diets. Goats are generally more hardy and adaptive than sheep, so they can survive on a wider variety of feedstuffs.
 
-On the other hand, sheep tend to be smaller and less able to endure [extreme weather conditions](/can-weather-affect-goats-poop/). For this reason, sheep require a more limited range of foods in order to thrive.
+On the other hand, sheep tend to be smaller and less able to endure extreme weather conditions. For this reason, sheep require a more limited range of foods in order to thrive.
 
 In general, sheep do well on pasture or hay, while grass and browse make up the bulk of a goat's diet. However, both animals require access to clean water and some vitamin supplements to stay healthy.
 
@@ -69,7 +69,7 @@ If you're after something quieter and easier to manage, however, then sheep migh
 
 When it comes to keeping sheep and goats together, there are a number of benefits to consider. For one thing, by housing these two types of animals together, you are able to better manage their feeding and care needs.
 
-Unlike sheep, which tend to graze on lower vegetation near the ground, goats prefer more foliage that is higher up in [trees and bushes](/can-a-goat-pen-have-pine-trees-in-it/).
+Unlike sheep, which tend to graze on lower vegetation near the ground, goats prefer more foliage that is higher up in trees and bushes.
 
 By keeping them together, you can rest assured that your flock will get the nutrition that they need from different sources.
 
@@ -83,11 +83,11 @@ Hence, when it comes to keeping sheep and goats together, the benefits clearly o
 
 While it may seem like an unusual pairing, there are actually several benefits to keeping sheep and goats together in the same herd.
 
-For one thing, [goats have voracious appetites and can eat through huge quantities of plant](/can-goats-eat-any-plant/) matter almost overnight, making them ideal for clearing weeds or invasive plants from a pasture.
+For one thing, goats have voracious appetites and can eat through huge quantities of plant matter almost overnight, making them ideal for clearing weeds or invasive plants from a pasture.
 
-They are also quite agile, allowing them to easily [navigate rough terrain](/can-goats-climb-fences/) or steep hillsides that might be too hazardous for larger animals.
+They are also quite agile, allowing them to easily navigate rough terrain or steep hillsides that might be too hazardous for larger animals.
 
-In addition, both sheep and goats are typically docile creatures, which makes handling and working with them easier than with [other types of livestock](/can-goats-pigs-and-chickens-live-in-the-same-barn/).
+In addition, both sheep and goats are typically docile creatures, which makes handling and working with them easier than with other types of livestock.
 
 Of course, there are some risks associated with keeping these two species together.
 
@@ -101,29 +101,29 @@ Ultimately, but, it seems that the benefits of having this dynamic duo in one gr
 
 There are a few different strategies that farmers can use to prevent their sheep and goats from fighting. For one, creating good living conditions for your herd is essential.
 
-This means keeping hutches or [pens clean and spacious](/can-pine-chips-be-used-as-bedding-for-goats/), as well as ensuring that there is adequate food and water for all of your animals.
+This means keeping hutches or pens clean and spacious, as well as ensuring that there is adequate food and water for all of your animals.
 
 You should also be mindful of an animal's temperament when introducing new additions to the flock or herd so that you can keep potential conflicts to a minimum.
 
-Additionally, many farmers choose to use a method known as "baiting," where they introduce an unfamiliar animal into the flock or herd and let the animals work out any potential conflicts on their own.
+Many farmers choose to use a method known as "baiting," where they introduce an unfamiliar animal into the flock or herd and let the animals work out any potential conflicts on their own.
 
 While this method may seem harsh at first, it has been shown to be quite effective in preventing fights between sheep and goats.
 
-In any case, there is no single strategy that will guarantee success; it is crucial to be prepared for some trial and error when learning how to prevent sheep and goat fights.
+In any case, there is no single strategy that will guarantee success; it is important to be prepared for some trial and error when learning how to prevent sheep and goat fights.
 
 And remember - with patience and persistence, you'll have happy, healthy hoofed friends in no time.
 
 ## What are the treatments for sheep and goats that get sick?
 
-There are a variety of different treatments available for sheep and [goats that get sick](/can-i-give-a-sick-goat-water-through-a-syringe/). The most common approach is to administer antibiotics to help treat any infections or diseases.
+There are a variety of different treatments available for sheep and goats that get sick. The most common approach is to administer antibiotics to help treat any infections or diseases.
 
 In some cases, supportive care such as IV fluids or oxygen may be necessary to help the animal recover.
 
-Additionally, it is important to provide any necessary nutritional support and hydration, since poor nutrition and dehydration can make it more difficult for an animal to recover.
+It is important to provide any necessary nutritional support and hydration, since poor nutrition and dehydration can make it more difficult for an animal to recover.
 
 Other strategies for treating sick sheep or goats may include quarantine and antiviral medications, if appropriate.
 
-Overall, with the right treatment plan and supportive care, most sick sheep and [goats should be able to recover successfully](/can-goats-recover-from-polio-without-medication/).
+Overall, with the right treatment plan and supportive care, most sick sheep and goats should be able to recover successfully.
 
 ## When is the best time to shear a sheep?
 
@@ -147,4 +147,4 @@ A sheep can live with goats with some considerations. They are different species
 
 If you have the space, time, and resources, it may be worth considering keeping sheep and goats together.
 
-Then again, if you are new to [farming or raising livestock](/can-goats-live-in-an-urban-environment/), it may be best to start with just one species so that you can learn the ropes before taking on additional animals.
+Then again, if you are new to farming or raising livestock, it may be best to start with just one species so that you can learn the ropes before taking on additional animals.

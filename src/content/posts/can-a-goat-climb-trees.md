@@ -54,7 +54,7 @@ But in other instances, it could be out of necessity.
 
 For example, if a goat is trying to escape from a predator, he may climb up into a tree to safety. Or if a goat is trying to reach food that's out of his grazing range, he may use a tree as a ladder.
 
-Whatever the reason, there's no doubt that goats are capable climbers. Their physical abilities also extend to water, and you might be surprised to learn that [a goat can swim](/can-a-goat-swim-everything-you-need-to-know/). So if you see one scaling a tree, don't be too surprised.
+Whatever the reason, there's no doubt that goats are capable climbers. Their physical abilities also extend to water, and you might be surprised to learn that a goat can swim. So if you see one scaling a tree, don't be too surprised.
 
 ## Do all goats climb trees?
 
@@ -72,7 +72,7 @@ Goats are known for their ability to climb mountains, but did you know that they
 
 For one thing, it helps them to stay cool in hot weather. The shade provided by the leaves and branches can be a welcome relief from the heat of the sun.
 
-In addition, climbing trees gives goats a chance to graze on leaves and branches that they might not otherwise have access to. This can help them to get the nutrients they need, and it can also provide them with an interesting change of scenery. Beyond climbing, goats have other impressive physical skills, such as the ability to [pull a cart](/can-a-goat-pull-a-cart/).
+In addition, climbing trees gives goats a chance to graze on leaves and branches that they might not otherwise have access to. This can help them to get the nutrients they need, and it can also provide them with an interesting change of scenery. Beyond climbing, goats have other impressive physical skills, such as the ability to pull a cart.
 
 ## Are there any dangers associated with goats climbing trees?
 
@@ -132,7 +132,7 @@ One of the most interesting things about goat tree-climbing is that it's a relat
 
 However, in recent years, there has been a growing trend of goats climbing trees. This is likely due to the fact that goats are inquisitive creatures and are always looking for new things to explore.
 
-Additionally, as the world becomes increasingly urbanized, there are fewer opportunities for goats to roam freely and explore. So, they are turning to trees as a way to satisfy their curiosity.
+As the world becomes increasingly urbanized, there are fewer opportunities for goats to roam freely and explore. So, they are turning to trees as a way to satisfy their curiosity.
 
 While the exact future of goat tree-climbing is impossible to predict, it seems likely that this trend will continue. As goats become more and more accustomed to living in close proximity to humans, they will likely find new ways to adapt and explore their surroundings.
 

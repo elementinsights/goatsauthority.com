@@ -52,11 +52,11 @@ Then again, it's generally not recommended to breed does more than once per year
 
 ## How often do goats breed?
 
-[Goats normally have one breeding season](/can-puppies-have-normal-goats-milk/) in the fall, which lasts for the entire year. However, certain goats might reproduce more frequently, particularly if they are housed in a suitable environment.
+Goats normally have one breeding season in the fall, which lasts for the entire year. However, certain goats might reproduce more frequently, particularly if they are housed in a suitable environment.
 
 A goat will go into heat when she is ready to reproduce, which is indicated by the development of a mucus discharge from her vulva. She will be open to mating with a buck during this time (a male goat).
 
-The gestation period for a goat is roughly 150 days after she has been bred. Most does will continue to [produce milk](/can-a-female-goat-produce-milk-without-being-pregnant/) for several months after giving birth, however, this will eventually start to drop.
+The gestation period for a goat is roughly 150 days after she has been bred. Most does will continue to produce milk for several months after giving birth, however, this will eventually start to drop.
 
 ## What are some common birthing complications?
 
@@ -76,7 +76,7 @@ The goat may also become more restless and may start to build a nest in which to
 
 Another sign that a goat is about to give birth is that its milk production will decrease. This is due to the fact that the goat's body is redirecting nutrients to the developing kids.
 
-Finally, the [goat's teats may become swollen and Engorged with milk](/can-goats-milk-be-frozen/) in the days leading up to delivery. If you see any of these signs, it's important to provide the goat with a clean and quiet place to give birth.
+Finally, the goat's teats may become swollen and Engorged with milk in the days leading up to delivery. If you see any of these signs, it's important to provide the goat with a clean and quiet place to give birth.
 
 Once delivery begins, it usually takes between two and four hours for the entire process to be completed.
 
@@ -90,13 +90,13 @@ Next, check the vulva for any swelling or discharge and clean it if necessary. F
 
 ## How long does it take for a baby goat to be weaned?
 
-It takes about two months for a [baby goat](/can-8-week-old-baby-goats-be-in-with-each-other/) to be weaned. The process usually begins when the kid is around six weeks old.
+It takes about two months for a baby goat to be weaned. The process usually begins when the kid is around six weeks old.
 
 The first step is to introduce the kid to solid food.
 
-This can be done by offering it a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of hay or grain. The kid will likely be hesitant at first, but it will eventually start to nibble on the food.
+This can be done by offering it a small amount of hay or grain. The kid will likely be hesitant at first, but it will eventually start to nibble on the food.
 
-Once the kid is eating solid food, the next step is to slowly [reduce its milk intake](/can-goat-milk-reduce-wrinkles/).
+Once the kid is eating solid food, the next step is to slowly reduce its milk intake.
 
 This can be done by gradually mixing less and less milk into its feed. After a few weeks, the kid should be able to survive on solid food alone.
 
@@ -106,7 +106,7 @@ The weaning process can be stressful for both the mother and the kid. The mother
 
 To make the transition as smooth as possible, it's important to provide both the mother and the kid with plenty of food and water. The kid should also have access to a safe place to sleep, such as a pen or a barn.
 
-Weaning can be a difficult time for both [goats and humans](/can-i-give-my-goats-human-fish-pills/), but it's an essential part of life on a farm.
+Weaning can be a difficult time for both goats and humans, but it's an essential part of life on a farm.
 
 ## Can a goat have babies more than once a year?
 
@@ -114,19 +114,19 @@ A goat can have babies more than once a year. In fact, many goats will have two 
 
 This is possible because goats are polyestrous, meaning that they can go into heat multiple times throughout the year.
 
-Of course, the length of each [heat cycle varies depending on the breed of goat](/can-a-goat-get-pregnant-when-not-in-heat/) and the time of year.
+Of course, the length of each heat cycle varies depending on the breed of goat and the time of year.
 
-For example, Alpine goats tend to have longer heat cycles during the winter months, while Saanen goats have shorter heat cycles all year round. For this reason, it's important to consult with a veterinarian before breeding goats to ensure that they are able to produce healthy offspring.
+For example, Alpine goats tend to have longer heat cycles during the winter months, while Saanen goats have shorter heat cycles all year round. For this reason, it's important to consult with a veterinarian before breeding goats to make sure that they are able to produce healthy offspring.
 
 ## Are there any other things that you need to know about breeding goats?
 
-There are a few other things that you [need to know about breeding goats](/can-you-breed-a-4yr-old-goat/). First, it's important to understand the difference between bucks and does.
+There are a few other things that you need to know about breeding goats. First, it's important to understand the difference between bucks and does.
 
-Bucks are male goats that are used for breeding purposes. They usually reach sexual maturity at around [six months of age](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/).
+Bucks are male goats that are used for breeding purposes. They usually reach sexual maturity at around six months of age.
 
 Bucks typically have larger horns and a more muscular build than does.
 
-Does are [female goats that are used for breeding purposes](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/). They usually reach sexual maturity at around six months of age.
+Does are female goats that are used for breeding purposes. They usually reach sexual maturity at around six months of age.
 
 Does typically have smaller horns and a more slender build than bucks.
 
@@ -134,7 +134,7 @@ It's also important to understand the different types of goat breeds. There are 
 
 Dairy goats are used for milk production, meat goats are used for meat production, and fiber goats are used for fiber production. Each type of goat has its own unique set of characteristics that makes it well-suited for a specific purpose.
 
-For example, dairy [goats are bred for their high milk production](/can-a-cat-drink-goats-milk/), while meat goats are bred for their large body size. When choosing a goat breed, it's important to consider your specific needs and goals.
+For example, dairy goats are bred for their high milk production, while meat goats are bred for their large body size. When choosing a goat breed, it's important to consider your specific needs and goals.
 
 And finally, it's important to understand the basics of goat reproductive anatomy. The female reproductive tract includes the ovaries, Fallopian tubes, uterus, cervix, and vulva.
 
@@ -164,4 +164,4 @@ Staying calm during these moments makes all the difference. The doe can sense yo
 
 ## Quick Recap
 
-Goats can have babies a week apart and they can have babies more than once a year. However, there are a few things that you [need to know about breeding goats](/can-you-breed-a-6-yr-old-goat-for-first-time/), such as the difference between bucks and does, the different types of goat breeds, and the basics of goat reproductive anatomy.
+Goats can have babies a week apart and they can have babies more than once a year. However, there are a few things that you need to know about breeding goats, such as the difference between bucks and does, the different types of goat breeds, and the basics of goat reproductive anatomy.

@@ -46,7 +46,7 @@ Feeding your goats is an important part of keeping them healthy and happy. While
 
 One plant that you may have heard of is mimosa. But can goats eat mimosa?
 
-And if so, what are the [benefits and hazards](/do-goats-eat-meat/)?
+And if so, what are the benefits and hazards?
 
 Here's the short version.we'll take a look at everything you need to know about feeding your goats mimosa. We will also provide you with a handy serving-size guide.
 
@@ -70,7 +70,7 @@ They are planted between rows of other crops, where they help to add nitrogen to
 
 As for whether all parts of the mimosa plant can be eaten by goats, the answer is YES and NO. All parts of the plant contain these nitrogen-fixing bacteria, so eating any part of the plant will provide some benefit in terms of increasing the nitrogen content of the soil.
 
-Keep in mind, not all parts of the plant are equally palatable to goats. The leaves and stems are the most nutritious parts of the plant, and [goats will usually eat them](/can-a-goat-eat-sticker-bushes/) quite readily.
+Keep in mind, not all parts of the plant are equally palatable to goats. The leaves and stems are the most nutritious parts of the plant, and goats will usually eat them quite readily.
 
 The flowers and seed pods are not as high in protein and are typically only eaten by goats when other food sources are scarce. So, while all parts of the mimosa plant can technically be eaten by goats, some parts are better than others.
 
@@ -90,33 +90,33 @@ The plant is also known as wattle or silver wattle. It has bright green fern-lik
 
 Flowers are often used in bouquets and perfumes. Mimosa is also the national flower of Haiti.
 
-[Goats are browsers and prefer to eat plants](/can-goats-eat-any-plant/) that are high in protein. They will also eat other plants if they are hungry enough.
+Goats are browsers and prefer to eat plants that are high in protein. They will also eat other plants if they are hungry enough.
 
-Mimosa leaves contain 10-16% protein which makes them a good source of food for goats. But, too much mimosa can [cause digestive problems for goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Mimosa leaves contain 10-16% protein which makes them a good source of food for goats. But, too much mimosa can cause digestive problems for goats.
 
 It is best to introduce mimosa into their diet gradually. Goats can eat both the leaves and the flowers of the plant.
 
 ## What are the hazards of feeding goats mimosa?
 
-There are several hazards to consider when [feeding goats mimosa](/can-a-goat-feed-quads/). First, the plant is highly toxic to goats and can cause serious health problems.
+There are several hazards to consider when feeding goats mimosa. First, the plant is highly toxic to goats and can cause serious health problems.
 
 Symptoms of poisoning include vomiting, diarrhea, weakness, and seizures.
 
 In severe cases, it can lead to death.
 
-Then, mimosa is incredibly sticky and can quickly clog a [goat's digestive system](/can-goats-digest-anything/). If not treated promptly, this can cause a fatal blockage.
+Then, mimosa is incredibly sticky and can quickly clog a goat's digestive system. If not treated promptly, this can cause a fatal blockage.
 
-Finally, mimosa leaves contain a large number of tannins, which can reduce the amount of nutrients that a goat absorbs from its food. For these reasons, it is important to be very careful when [feeding goats mimosa](/can-baking-soda-cause-urinary-issues-in-goats/).
+Finally, mimosa leaves contain a large number of tannins, which can reduce the amount of nutrients that a goat absorbs from its food. For these reasons, it is important to be very careful when feeding goats mimosa.
 
 ## How can you prevent the hazards of feeding goats mimosa?
 
 Though many plants are safe for goats to eat, there are a few that can be dangerous. One such plant is the mimosa tree.
 
-Though the [leaves of the mimosa tree](/can-goats-eat-gum-tree-leaves/) are not poisonous, the seeds and pods contain cyanogenic glycosides, which release cyanide when ingested.
+Though the leaves of the mimosa tree are not poisonous, the seeds and pods contain cyanogenic glycosides, which release cyanide when ingested.
 
-Cyanide is a toxic substance that can cause difficulty breathing, dizziness, and even death. you [need to take care when feeding goats](/can-i-feed-my-goat-leftovers/) around mimosa trees.
+Cyanide is a toxic substance that can cause difficulty breathing, dizziness, and even death. You need to take care when feeding goats around mimosa trees.
 
-If you must feed them in an area where there are mimosa trees, be sure to remove all seed pods and leaves from the feed first. Additionally, you need to monitor your goats closely after they eat, in case they experience any adverse effects.
+If you must feed them in an area where there are mimosa trees, be sure to remove all seed pods and leaves from the feed first. You need to monitor your goats closely after they eat, in case they experience any adverse effects.
 
 By taking these precautions, you can help to prevent the hazards of feeding goats mimosa leaves or seed pods.
 
@@ -124,15 +124,15 @@ By taking these precautions, you can help to prevent the hazards of feeding goat
 
 There are several treatment options for feeding goats mimosa. The most common is to simply give them access to the plant.
 
-Goats will naturally be attracted to the leaves and flowers, and they will typically consume a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) each day.
+Goats will naturally be attracted to the leaves and flowers, and they will typically consume a small amount each day.
 
 This is generally considered to be the safest option, as it allows the goats to regulate their own intake. With that in mind, you need to monitor their consumption, as too much can lead to digestive issues.
 
 Another option is to feed them mimosa leaves that have been dried and powdered. This can be mixed into their regular feed, or it can be given as a supplement.
 
-This method is often used when goats are not able to graze on fresh leaves, and it helps to ensure that they are getting the nutrients they need.
+This method is often used when goats are not able to graze on fresh leaves, and it helps to make sure that they are getting the nutrients they need.
 
-To wrap up, some people choose to extract the juice from the leaves and add it to the [goats' water](/can-i-give-a-sick-goat-water-through-a-syringe/). This is thought to be one of the most effective methods, as it allows for a greater concentration of nutrients.
+To wrap up, some people choose to extract the juice from the leaves and add it to the goats' water. This is thought to be one of the most effective methods, as it allows for a greater concentration of nutrients.
 
 However, it is also important to be careful with this method, as too much juice can cause digestive upset.
 
@@ -144,9 +144,9 @@ This is a good source of protein and other nutrients, and it is also relatively 
 
 Another option is to feed them clover hay. This is also a good source of protein, and it has a similar nutritional profile to alfalfa hay.
 
-And finally, you could also try feeding them [timothy hay](/can-goats-eat-timothy-hay/). This is a good source of fiber, and it is also low in tannins.
+And finally, you could also try feeding them timothy hay. This is a good source of fiber, and it is also low in tannins.
 
-All of these options are good alternatives to feeding goats mimosa, and they can help to ensure that your goats are getting the nutrients they need.
+All of these options are good alternatives to feeding goats mimosa, and they can help to make sure that your goats are getting the nutrients they need.
 
 ### Managing Mimosa Trees on Your Property
 

@@ -61,7 +61,7 @@ Ducks will eat the bugs and parasites that can infest goat herds, and goats will
 
 In addition, the two species can help to aerate and fertilize the soil, improving its quality for both grazing and raising crops.
 
-Additionally, having both [goats and ducks can provide a steady source of income from selling their products](/can-i-sell-goat-milk-butter/), such as milk, cheese, eggs, and meat.
+Having both goats and ducks can provide a steady source of income from selling their products, such as milk, cheese, eggs, and meat.
 
 And finally, keeping them together can provide valuable companionship for both species, something that is especially important for goats, who are social creatures.
 
@@ -71,15 +71,15 @@ And finally, keeping them together can provide valuable companionship for both s
 
 Before deciding to keep goats and ducks together on your farmstead, there are a few things you need to take into consideration.
 
-One is the [amount of space](/can-a-goat-barn-be-12x-2/) you have available. Both goats and ducks need a certain amount of space to roam and stay healthy, so you'll need to make sure you have enough room for both species.
+One is the amount of space you have available. Both goats and ducks need a certain amount of space to roam and stay healthy, so you'll need to make sure you have enough room for both species.
 
-Another thing to consider is whether or not you have enough time to [care for both types of animals](/can-goats-die-from-lymes/).
+Another thing to consider is whether or not you have enough time to care for both types of animals.
 
 Goats are very high-maintenance, and ducks can be as well. If you don't think you can handle the responsibility of caring for both, it might be best to just stick with one or the other.
 
 To wrap up, you need to think about what kinds of foods each animal needs. Goats are browsers and need access to fresh vegetation, while ducks are mostly herbivores but also require a diet that includes some insects.
 
-If you can provide both kinds of food and meet all the other requirements, then keeping [goats and ducks together on your farmstead can be a great way to diversify your livestock](/can-too-much-field-time-cause-scours-in-goats/).
+If you can provide both kinds of food and meet all the other requirements, then keeping goats and ducks together on your farmstead can be a great way to diversify your livestock.
 
 ## How can you make sure that your goats and ducks get along well and live harmoniously together?
 
@@ -95,7 +95,7 @@ To wrap up, be sure to keep an eye on their interactions and intervene if necess
 
 ## Are there any risks associated with keeping these animals together in one space?
 
-When animals are kept in captivity, there are several [potential risks](/can-a-pregnant-goat-have-penicillin/) that need to be considered.
+When animals are kept in captivity, there are several potential risks that need to be considered.
 
 One of the most important factors is the size of the enclosure. If the space is too small, the animals may become stressed and aggressive, which can lead to injury or even death.
 
@@ -103,7 +103,7 @@ Another risk to consider is the introduction of new animals into the group. If t
 
 Finally, it's important to monitor the health of all the animals in the group, as diseases can spread quickly when they are in close quarters.
 
-By understanding these risks, [animal keepers can take steps to minimize them and create a safe environment for all the creatures in their care](/can-goats-drink-baby-formula/).
+By understanding these risks, animal keepers can take steps to minimize them and create a safe environment for all the creatures in their care.
 
 ## How does this compare to keeping other livestock combinations on your property?
 
@@ -111,15 +111,15 @@ There are a number of different livestock combinations that farmers and ranchers
 
 One of the main benefits of this combination is that it requires less space than other types of livestock.
 
-This is because both goats and ducks are relatively [small animals](/can-pygmy-goats-sleep-with-chickens/). In addition, they can be kept in the same enclosure, which further reduces the amount of space that is needed.
+This is because both goats and ducks are relatively small animals. In addition, they can be kept in the same enclosure, which further reduces the amount of space that is needed.
 
 Another advantage of this combination is that it can provide a good source of income.
 
-This is because [goats can be sold for their meat](/can-dogs-eat-goat-meat/), milk, and fiber, while ducks can be sold for their meat and eggs.
+This is because goats can be sold for their meat, milk, and fiber, while ducks can be sold for their meat and eggs.
 
 ## Have others in the community had success with this type of livestock combination?
 
-There are a number of [farmers and ranchers who have had success with keeping goats and ducks](/can-pine-chips-be-used-as-bedding-for-goats/) together on their property.
+There are a number of farmers and ranchers who have had success with keeping goats and ducks together on their property.
 
 One of the keys to their success is having a well-thought-out plan for the care and management of the animals.
 
@@ -131,9 +131,9 @@ By following these simple guidelines, you can create a safe and harmonious envir
 
 If you're thinking about keeping goats and ducks together on your farmstead, there are a few things that you should keep in mind.
 
-First, it's crucial to have a well-thought-out plan for the care and management of the animals. This includes providing each animal with its own space, giving them plenty of opportunities to socialize, and monitoring their health closely.
+First, it's important to have a well-thought-out plan for the care and management of the animals. This includes providing each animal with its own space, giving them plenty of opportunities to socialize, and monitoring their health closely.
 
-Second, you need to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-goat/) associated with this type of livestock combination. This includes the risk of disease, aggression, and injury.
+Second, you need to be aware of the potential risks associated with this type of livestock combination. This includes the risk of disease, aggression, and injury.
 
 By understanding these risks and taking steps to minimize them, you can create a safe and harmonious environment for your goats and ducks.
 

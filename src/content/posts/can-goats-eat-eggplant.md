@@ -48,9 +48,9 @@ Let me share some insights from my own experience and research on this topic.
 
 ## Can Goats Eat Eggplant Raw or Cooked?
 
-They contain many nutrients that can be beneficial for your goat’s health. These include [vitamins A and C](/can-goats-eat-kale/), as well as dietary fiber which aids digestion.
+They contain many nutrients that can be beneficial for your goat’s health. These include vitamins A and C, as well as dietary fiber which aids digestion.
 
-However, like with all foods, moderation is key when feeding eggplants to your goats. Too much could lead to digestive issues due to the high fiber content.
+However, like with all foods, stick to small amounts when feeding eggplants to your goats. Too much could lead to digestive issues due to the high fiber content.
 
 So next time you have leftover eggplant from dinner don’t throw it away, consider giving a small portion of either the cooked or uncooked leftovers to your goat instead.
 
@@ -60,11 +60,11 @@ Eggplants, also known as aubergines, are part of the nightshade family. They’r
 
 Eggplant is rich in fiber and vitamins which can be beneficial to your goat’s health.
 
-However, it should not make up the majority of their diet. Goats need a balanced meal plan with [hay](/can-goats-eat-timothy-hay/) or pasture grass at its core.
+However, it should not make up the majority of their diet. Goats need a balanced meal plan with hay or pasture grass at its core.
 
 While eggplant has nutrients like potassium and vitamin C that can help boost your goat’s immune system, too much could lead to digestive issues. It’s because eggplants have small amounts of solanine, a substance harmful if consumed excessively.
 
-Remember that each goat may react differently when introduced new foods into their diets including eggplant so always monitor them closely after [feeding any new food item](/can-goats-eat-spinach/).
+Remember that each goat may react differently when introduced new foods into their diets including eggplant so always monitor them closely after feeding any new food item.
 
 ## Are Any Parts of an Eggplant Safe for Goats to Eat?
 
@@ -72,9 +72,9 @@ Goats can eat many things, but what about eggplant? Yes, goats can safely munch 
 
 It’s not harmful to them at all.
 
-Eggplants are rich in nutrients that benefit a goat’s health. They contain [fiber which aids digestion](/can-goats-eat-celery/) and keeps the gut healthy.
+Eggplants are rich in nutrients that benefit a goat’s health. They contain fiber which aids digestion and keeps the gut healthy.
 
-But remember moderation is key when feeding your goats with eggplant.
+But remember keep portions small when feeding your goats with eggplant.
 
 You might wonder if any part of an eggplant should be avoided for your goat’s safety. The answer is no.
 
@@ -86,9 +86,9 @@ All in all, feel free to add some variety into their diet by including small amo
 
 Can goats eat eggplant leaves? This is a question many goat owners often ask.
 
-The simple answer is yes, they can. Goats are known for their diverse diet and ability to [consume various plants](/can-goats-eat-any-plant/).
+The simple answer is yes, they can. Goats are known for their diverse diet and ability to consume various plants.
 
-**Eggplant leaves fall into the category of safe foods for your furry friends**. These animals have strong digestive systems that handle different types of vegetation well.
+**Eggplant leaves fall into the category of safe foods for your goats**. These animals have strong digestive systems that handle different types of vegetation well.
 
 So you don’t need to worry about them eating these specific leaves.
 
@@ -96,7 +96,7 @@ In short, while goats can safely munch on eggplant leaves, always ensure variety
 
 ## Nightshade Plants, Including Eggplant, Are Dangerous for Goats
 
-Goats are known for their ability to [eat almost anything](/can-goats-eat-everything/). But not all foods are safe for them.
+Goats are known for their ability to eat almost anything. But not all foods are safe for them.
 
 One such food is eggplant, a member of the nightshade family.
 
@@ -120,7 +120,7 @@ Eggplants have lower levels compared to other nightshades but the risk still exi
 
 When your goat eats an excessive amount of solanine, it could lead to serious health problems or even death in severe cases. Symptoms include weakness, difficulty breathing and digestive issues among others.
 
-It’s crucial then as a responsible goat owner not only feed them healthy food but also monitor what they’re eating on their own time out in the field.
+It’s important then as a responsible goat owner not only feed them healthy food but also monitor what they’re eating on their own time out in the field.
 
 ### Baby Goats Are Especially Vulnerable to Solanine in Eggplants
 
@@ -134,11 +134,11 @@ Eggplant has enough solanine that could lead to issues if consumed by your kid g
 
 Symptoms include upset stomachs or more serious conditions like heart problems. You might notice your baby goat looking weak or sick after eating eggplant.
 
-In general, it’s best not to feed them this vegetable at all because of these risks involved with its consumption. Instead opt for safer food options such as hay and [grains](/can-goats-eat-oats/) which provide necessary nutrients without any risk.
+In general, it’s best not to feed them this vegetable at all because of these risks involved with its consumption. Instead opt for safer food options such as hay and grains which provide necessary nutrients without any risk.
 
 ### the Danger of Feeding Solanine Stems and Leaves to Goats
 
-Feeding goats eggplant is a topic that raises questions. Goats are known for their robust diet, but some foods can harm them.
+Feeding goats eggplant is a topic that raises questions. Goats are known for their strong diet, but some foods can harm them.
 
 One of these is the solanine found in eggplant stems and leaves.
 
@@ -172,9 +172,9 @@ It is rich in nutrients that are beneficial for their health.
 
 Eggplants contain fiber which aids digestion in goats. They also provide vitamins and minerals essential for goat growth and development.
 
-However, moderation is key when feeding eggplants to your goats. While they’re not harmful, too much of anything isn’t good either.
+However, don't overdo it when feeding eggplants to your goats. While they’re not harmful, too much of anything isn’t good either.
 
-It’s best if you mix the eggplant with other foods or [vegetables](/can-goats-eat-carrots/) that your goat usually eats. This way, it won’t just be eating one type of food all the time.
+It’s best if you mix the eggplant with other foods or vegetables that your goat usually eats. This way, it won’t just be eating one type of food all the time.
 
 Remember always observe how your goat reacts after trying a new food like an eggplant for the first time.
 
@@ -182,7 +182,7 @@ In case you notice any unusual behavior from them such as diarrhea or loss of ap
 
 ## Eggplants Are Members of the Nightshade Family
 
-Eggplants, also known as aubergines, are part of the nightshade family. This group includes [tomatoes](/can-goats-eat-tomatoes/) and [potatoes](/can-goats-eat-potatoes/) too.
+Eggplants, also known as aubergines, are part of the nightshade family. This group includes tomatoes and potatoes too.
 
 You might be wondering if your goat can eat these.
 
@@ -190,6 +190,6 @@ Goats have strong stomachs but they’re not garbage disposals. They need a bala
 
 Some foods may harm them even though we humans enjoy those same foods without any problem.
 
-It’s important to know that eggplant leaves contain solanine, it’s toxic for goats in large amounts. So [avoid feeding them](/can-goats-eat-avocado/) with this part of the plant.
+It’s important to know that eggplant leaves contain solanine, it’s toxic for goats in large amounts. So avoid feeding them with this part of the plant.
 
 As for the fruit itself? Yes, goats can safely nibble on an eggplant or two from time to time as long as you make sure it’s ripe and clean.

@@ -43,37 +43,37 @@ We all know that goats are pretty tough animals. But can they actually die from 
 
 And if so, what are the symptoms?
 
-Let's break it down.we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you [think your goat may be at risk](/can-a-cdt-shot-kill-a-goat/).
+Let's break it down.we will answer all of your questions about whether goats can die from their horns growing into their head. We will also provide some information on the symptoms to look out for if you think your goat may be at risk.
 
 ## Can goats die from their own horns growing into heads?
 
-However, it's important to note that this is relatively rare. Goats usually only die from this condition if they are not properly cared for and their horns are allowed to grow unchecked.
+However, this is relatively rare. Goats usually only die from this condition if they are not properly cared for and their horns are allowed to grow unchecked.
 
 ## What are the symptoms of a goat dying from its own horn?
 
-One of the most common [ways for a goat to die](/can-goats-die-in-cold-weather/) is by getting its own horn caught on something and then strangling itself. This is particularly a problem for young goats, who are still growing and have not yet developed fully strong muscles and bones.
+One of the most common ways for a goat to die is by getting its own horn caught on something and then strangling itself. This is particularly a problem for young goats, who are still growing and have not yet developed fully strong muscles and bones.
 
-If a goat's horn gets caught on a fence, for example, the animal may try to pull away and end up choking itself. In addition to strangulation, other common [causes of death for goats](/can-contact-with-goats-cause-diarrhea-in-humans/) include infection, predation, and exposure.
+If a goat's horn gets caught on a fence, for example, the animal may try to pull away and end up choking itself. In addition to strangulation, other common causes of death for goats include infection, predation, and exposure.
 
-[Infectious diseases](/can-you-catch-diseases-from-goats/) are always a risk for livestock animals, and goats are no exception. They can also be killed by predators such as coyotes or dogs, or simply by being left out in the cold without shelter.
+Infectious diseases are always a risk for livestock animals, and goats are no exception. They can also be killed by predators such as coyotes or dogs, or simply by being left out in the cold without shelter.
 
 ## How to prevent your goat from dying from its own horn?
 
 The best way to prevent your goat from dying from its own horn is to make sure that you regularly trim its horns. This will help to keep them at a safe length and prevent them from growing into the goat's skull.
 
-If you are not comfortable trimming your goat's horns yourself, you can always take it to a veterinarian or a professional [hoof trimmer](/can-hoof-rot-kill-a-goat/). Just be sure to do it regularly, as horns can grow back quickly.
+If you are not comfortable trimming your goat's horns yourself, you can always take it to a veterinarian or a professional hoof trimmer. Just be sure to do it regularly, as horns can grow back quickly.
 
-On top of that trimming their horns, you should also make sure that your goats have access to clean water and plenty of food. A [healthy diet](/can-goats-eat-alfalfa/) will help to keep them strong and less susceptible to disease.
+On top of that trimming their horns, you should also make sure that your goats have access to clean water and plenty of food. A healthy diet will help to keep them strong and less susceptible to disease.
 
 Finally, keep an eye on your goats and look for any signs of illness or injury. If you think something is wrong, don't hesitate to call a goat expert.
 
-By following these simple steps, you can help to ensure that your goat lives a long and healthy life.
+By following these simple steps, you can help to make sure that your goat lives a long and healthy life.
 
 ## How big do goat horns get, and can they cause injury to the goat or other animals?
 
-Goat horns can grow to be quite large, and they can [cause injury to the goat](/can-alfalfa-pellets-cause-goats-to-bloat/) or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
+Goat horns can grow to be quite large, and they can cause injury to the goat or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
 
-Horns can grow to be quite large, and they can [cause injury to the goat](/can-goats-cause-slope/) or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
+Horns can grow to be quite large, and they can cause injury to the goat or other animals. Horns are made of a protein called keratin, and they grow from the base of the skull.
 
 They are used for protection, but they can also be used for digging or climbing. When horns get too big, they can cause problems for the goat.
 
@@ -117,13 +117,13 @@ Goats will typically shed their horns once per year. During this time, their hor
 
 This is the best time to clean or trim them, if necessary.
 
-Once the shed Horns are removed, new ones will typically grow back within a few months. Goat owners should inspect their goats' horns on a regular basis to ensure that they are healthy and free of dirt and debris.
+Once the shed Horns are removed, new ones will typically grow back within a few months. Goat owners should inspect their goats' horns on a regular basis to make sure that they are healthy and free of dirt and debris.
 
 By taking proper care of a goat's horns, owners can help to keep their goats healthy and safe.
 
 ## What breed of goats are best for those who want to avoid horns?
 
-There are a number of [breeds of goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) that are naturally hornless. These include the Nubian, Nigerian Dwarf, and Pygmy goat.
+There are a number of breeds of goats that are naturally hornless. These include the Nubian, Nigerian Dwarf, and Pygmy goat.
 
 There are also several mixed-breed goats that may be hornless. Breeding two hornless goats together will typically result in offspring that are also hornless.
 
@@ -131,9 +131,9 @@ If you are interested in owning a goat but want to avoid horns, consider choosin
 
 No matter what breed of goat you choose, you need to remember that all goats require proper care and attention. Goats are social animals and need regular interaction with their owners.
 
-They also need a clean and safe environment, plenty of [food and water](/can-goats-drink-vinegar/), and regular exercise.
+They also need a clean and safe environment, plenty of food and water, and regular exercise.
 
-By providing your goat with everything they need, you can help to ensure a long and happy life.
+By providing your goat with everything they need, you can help to make sure a long and happy life.
 
 ### How to Trim Overgrown Horns at Home
 
@@ -171,6 +171,6 @@ Small scurs can often be knocked off by a vet during a routine visit. Larger one
 
 Overall, goats are relatively low-maintenance animals. But, those who are new to goat ownership may be surprised to learn that some goats can have horns.
 
-While horns are not always a problem, they can pose a risk of injury to the goat or other animals. Because of that, it's crucial to know how to properly care for a goat with horns.
+While horns are not always a problem, they can pose a risk of injury to the goat or other animals. Because of that, it's important to know how to properly care for a goat with horns.
 
-Those who are interested in owning a goat but want to avoid horns can choose from a number of breeds that are naturally hornless. No matter what breed of goat you choose, it's crucial to remember that all goats require proper care and attention.
+Those who are interested in owning a goat but want to avoid horns can choose from a number of breeds that are naturally hornless. No matter what breed of goat you choose, it's important to remember that all goats require proper care and attention.

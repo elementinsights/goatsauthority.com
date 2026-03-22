@@ -45,9 +45,9 @@ If you keep goats, you already know they need consistent care. They are curious,
 
 Goats are also relatively easy to take care of, as they require less space and food than other livestock animals.
 
-One question that many goat owners have is what [kind of plants their goats can eat](/what-kind-of-hay-do-goats-eat/). Rhus ovata, or sugar bush, is a common plant in many parts of the world.
+One question that many goat owners have is what kind of plants their goats can eat. Rhus ovata, or sugar bush, is a common plant in many parts of the world.
 
-Here we will discuss whether or not goats can eat Rhus ovata, as well as the [nutritional benefits and risks of this plant](/can-goats-eat-indian-tobacco-plants/).
+Here we will discuss whether or not goats can eat Rhus ovata, as well as the nutritional benefits and risks of this plant.
 
 ## Can Goats Eat Rhus Ovata?
 
@@ -57,11 +57,11 @@ The first is that Rhus ovata can be a choking hazard for goats. This plant has v
 
 To prevent this, make sure to only feed Rhus ovata to goats that are supervised and have access to clean water.
 
-The second thing to keep in mind is that Rhus ovata can be a laxative for goats. This means that it can [cause diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/) if too much is eaten.
+The second thing to keep in mind is that Rhus ovata can be a laxative for goats. This means that it can cause diarrhea if too much is eaten.
 
-To prevent this, introduce Rhus ovata into your goat's diet slowly. Start by only giving them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), and then increase the amount over time.
+To prevent this, introduce Rhus ovata into your goat's diet slowly. Start by only giving them a small amount, and then increase the amount over time.
 
-Rhus ovata is a nutritious food for goats and can be a part of their diet. But, there are a few [things to keep in mind when feeding this plant to goats](/can-a-dog-get-sick-from-a-goat/).
+Rhus ovata is a nutritious food for goats and can be a part of their diet. But, there are a few things to keep in mind when feeding this plant to goats.
 
 Make sure to only feed Rhus ovata to supervised goats, and introduce it into their diet slowly to prevent diarrhea.
 
@@ -71,9 +71,9 @@ Rhus ovata, also known as sugar bush or mountain mahogany, is a shrub that is na
 
 The plant is abundant in the foothills of the Sierra Nevada mountains, and it has been used for generations by Native Americans as a food source for both humans and animals.
 
-The leaves and twigs of Rhus ovata are high in protein and nutrients, making them an excellent [food source for goats](/can-sheep-eat-goat-food/). In addition, the plant is known to have a calming effect on goats, which can be beneficial for farmers who are looking to reduce stress levels in their herds.
+The leaves and twigs of Rhus ovata are high in protein and nutrients, making them an excellent food source for goats. In addition, the plant is known to have a calming effect on goats, which can be beneficial for farmers who are looking to reduce stress levels in their herds.
 
-Rhus ovata is also known to promote healthy digestive function in goats, and it can help to prevent problems such as bloat. feeding Rhus ovata to goats can have a number of benefits for both the animals and the farmers who raise them.
+Rhus ovata is also known to promote healthy digestive function in goats, and it can help to prevent problems such as bloat. Feeding Rhus ovata to goats can have a number of benefits for both the animals and the farmers who raise them.
 
 ## What are the risks of feeding Rhus ovata to goats?
 
@@ -95,13 +95,13 @@ The best way to prevent the risks of feeding Rhus ovata to goats is to limit the
 
 Similarly, goats should always have access to clean water. This will help to prevent the risk of bloat, as well as the other risks associated with Rhus ovata.
 
-Finally, farmers should always consult with a veterinarian before feeding Rhus ovata to their goats. This will ensure that the goats are healthy and able to safely consume Rhus ovata.
+Finally, farmers should always consult with a veterinarian before feeding Rhus ovata to their goats. This will make sure that the goats are healthy and able to safely consume Rhus ovata.
 
 ## What are the treatments for the risks of feeding Rhus ovata to goats?
 
 If a goat consumes too much Rhus ovata, the first step is to remove the plant from their environment. This will help to prevent further consumption.
 
-If the [goat is showing signs of digestive upset](/can-goats-digest-anything/), such as diarrhea or vomiting, you need to seek veterinarian care immediately.
+If the goat is showing signs of digestive upset, such as diarrhea or vomiting, you need to seek veterinarian care immediately.
 
 Similarly, if the goat is showing signs of bloat, you need to seek emergency veterinarian care. Bloat can be fatal if not treated promptly.
 
@@ -113,9 +113,9 @@ If you have any questions or concerns about the risks of feeding Rhus ovata to g
 
 Rhus ovata is not the only option for feeding goats. There are many other plants that can be used as forage for goats.
 
-Some of these include [alfalfa](/can-goats-eat-alfalfa/), clover, and grasses.
+Some of these include alfalfa, clover, and grasses.
 
-Plus, there are many commercial goat [feeds available that are designed to meet the nutritional needs](/can-goats-eat-cattle-feed/) of goats. When choosing a [goat feed](/can-a-goat-feed-quads/), you need to consult with a goat expert or livestock specialist to ensure that the feed is appropriate for the goats.
+Plus, there are many commercial goat feeds available that are designed to meet the nutritional needs of goats. When choosing a goat feed, you need to consult with a goat expert or livestock specialist to make sure that the feed is appropriate for the goats.
 
 ## How much Rhus ovata should goats eat?
 
@@ -125,7 +125,7 @@ What's more, goats should always have access to clean water.
 
 This will help to prevent the risk of bloat, as well as the other risks associated with Rhus ovata. To wrap up, farmers should always consult with a goat expert before feeding Rhus ovata to their goats.
 
-This will ensure that the goats are healthy and able to safely consume Rhus ovata.
+This will make sure that the goats are healthy and able to safely consume Rhus ovata.
 
 ## When is the best time to feed goats Rhus ovata?
 
@@ -137,7 +137,7 @@ Goats should only consume small amounts of Rhus ovata, and it should be introduc
 
 This will help to prevent the risk of bloat, as well as the other risks associated with Rhus ovata.
 
-Finally, farmers should always consult with a goat expert before feeding Rhus ovata to their goats. This will ensure that the goats are healthy and able to safely consume Rhus ovata.
+Finally, farmers should always consult with a goat expert before feeding Rhus ovata to their goats. This will make sure that the goats are healthy and able to safely consume Rhus ovata.
 
 ### Identifying Rhus Ovata on Your Property
 
@@ -153,4 +153,4 @@ Knowing what you're dealing with helps you decide how much to let your goats gra
 
 Goats can eat Rhus ovata, but there are some risks associated with doing so. It is important to be aware of these risks and take steps to prevent them.
 
-In addition, you need to consult with a veterinarian before feeding Rhus ovata to goats. This will ensure that the goats are healthy and able to safely consume Rhus ovata.
+In addition, you need to consult with a veterinarian before feeding Rhus ovata to goats. This will make sure that the goats are healthy and able to safely consume Rhus ovata.

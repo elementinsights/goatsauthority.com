@@ -45,7 +45,7 @@ We all know that goats are versatile animals. They can be used for their milk, m
 
 But one question always comes up: can goats swim?
 
-we will answer this question in full detail. We will [also look at some interesting facts about goats](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and their swimming abilities.
+we will answer this question in full detail. We will also look at some interesting facts about goats and their swimming abilities.
 
 ## Can a goat swim?
 
@@ -53,13 +53,13 @@ However, there are some goats who do not like to swim and will avoid it if they 
 
 ## Do all goats swim?
 
-Most [goats are excellent swimmers and love to play in the water](/can-i-give-a-sick-goat-water-through-a-syringe/). They are often seen swimming in ponds and lakes, and will even jump in if given the chance.
+Most goats are excellent swimmers and love to play in the water. They are often seen swimming in ponds and lakes, and will even jump in if given the chance.
 
 Even so, there are a few goats who do not like the water and will avoid it if possible.
 
-These goats usually have no problem crossing small streams or walking through dewy grass, but they will not go near larger bodies of water. It's believed that this aversion to water is due to a genetic mutation that [affects a small minority of the goat](/can-weather-affect-goats-poop/) population.
+These goats usually have no problem crossing small streams or walking through dewy grass, but they will not go near larger bodies of water. It's believed that this aversion to water is due to a genetic mutation that affects a small minority of the goat population.
 
-Regardless of their feelings towards the water, all goats are sure-footed climbers and can easily [scale steep hillsides and cliffs](/can-a-goat-climb-trees/). Their agile bodies and sharp hooves make them well-suited for life in mountainous regions.
+Regardless of their feelings towards the water, all goats are sure-footed climbers and can easily scale steep hillsides and cliffs. Their agile bodies and sharp hooves make them well-suited for life in mountainous regions.
 
 ## What kind of goat is the best swimmer?
 
@@ -67,9 +67,9 @@ There are many different types of goats, but not all of them are good swimmers. 
 
 Other breeds, such as the Alpine and the Pygmy, have shorter legs that make it difficult for them to stay afloat. But, there are a few breeds that are known for their swimming ability.
 
-The [Boer goat is a South African breed](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) that is often used for meat production. They are known for their strong swimming abilities, and they are often used to cross-breed with other breeds to create animals with improved swimming skills.
+The Boer goat is a South African breed that is often used for meat production. They are known for their strong swimming abilities, and they are often used to cross-breed with other breeds to create animals with improved swimming skills.
 
-The [Saanen goat](/can-a-saanen-goat-have-babies-year-round/) is another good swimmer, and this Swiss breed is often used for dairy production. Goat owners who live in areas where there's a risk of flooding often choose these breeds for their ability to swim to safety.
+The Saanen goat is another good swimmer, and this Swiss breed is often used for dairy production. Goat owners who live in areas where there's a risk of flooding often choose these breeds for their ability to swim to safety.
 
 ## What is the reason why goats like to swim?
 
@@ -89,7 +89,7 @@ That's right - swimming can help to improve your cardiovascular health, strength
 
 And what's more, swimming is a low-impact activity, which means that it's gentle on your joints and muscles.
 
-But what about goats? Well, it turns out that [goats can benefit from swimming](/can-benadryl-hurt-a-goat/) too.
+But what about goats? Well, it turns out that goats can benefit from swimming too.
 
 Just like people, goats need to exercise to stay healthy and fit.
 
@@ -121,7 +121,7 @@ With time and practice, your goat will be swimming like a pro.
 
 ## What to do if your goat swims in your pool?
 
-If your goat swims in your pool, there are a few things you should do to ensure its safety.
+If your goat swims in your pool, there are a few things you should do to make sure its safety.
 
 First, make sure that the pool is clean and free of any toxic chemicals.
 
@@ -133,7 +133,7 @@ If you take these precautions, your goat will be able to enjoy a refreshing swim
 
 ## Fun facts about swimming goats
 
-One of the more unusual [things that you can find on a farm](/can-a-dog-get-sick-from-a-goat/) is swimming goats. That’s right, these furry creatures love to take a dip in the pool and even do some underwater acrobatics.
+One of the more unusual things that you can find on a farm is swimming goats. That’s right, these furry creatures love to take a dip in the pool and even do some underwater acrobatics.
 
 While it may seem like a strange hobby for a goat, there are actually several benefits to swimming.
 
@@ -169,4 +169,4 @@ Goats can swim, and they often enjoy doing so. Swimming is a great way for goats
 
 It can also be a lot of fun.
 
-If you have a goat, you may want to consider teaching it how to swim. With a little patience and some positive reinforcement, you can help your goat enjoy the water.
+If you have a goat, consider teaching it how to swim. With a little patience and some positive reinforcement, you can help your goat enjoy the water.

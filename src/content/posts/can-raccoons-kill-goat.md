@@ -40,126 +40,78 @@ faq:
     answer: "There are many things that you can do to prevent raccoons from targeting your goats. For starters, it's a good idea to make sure that your fences are in good condition and tall enough to keep the animals safe."
 ---
 
-Protecting your goat herd from predators is an important part of being a responsible goats owner.
+Raccoons get a lot of blame as goat killers, but the truth is more nuanced than most people think. They are not major predators of goats the way coyotes or stray dogs are.
 
-But what do you do when the predator is something as small and seemingly harmless as a raccoon? Can raccoons kill goats?
-
-And if so, how can you protect your animals?
-
-we will answer those questions and provide you with additional information about raccoons and other predators that may threaten your goats.
+That said, raccoons do pose a real threat in specific situations. Understanding what that threat actually looks like will help you protect your herd without wasting effort on the wrong things.
 
 ## Can raccoons kill goats?
 
-There are a few [things that you can do to protect your goats](/can-a-dog-get-sick-from-a-goat/) from raccoons. First, make sure that their living area is well-lit and free of hiding places for predators.
+A healthy adult goat has very little to fear from a raccoon. Raccoons weigh 10 to 30 pounds, and they are not built to take down an animal that outweighs them several times over.
 
-Second, keep them in a [secure enclosure](/can-a-goat-be-left-out-for-hours/) at night. And lastly, consider installing an electric fence around their pasture.
-
-With a little bit of effort, you can keep your goats safe from raccoons and other predators.
+Newborn kids and very young goats are a different story. A raccoon will absolutely go after a vulnerable kid, especially one born at night in an unsecured area. They are opportunistic feeders that target easy meals, not organized hunters that stalk adult livestock.
 
 ## What is a raccoon and what do they look like?
 
-A raccoon is a medium-sized mammal that is found throughout much of North America and parts of Europe. They have thick, gray fur, with lighter coloring around the eyes, muzzle, and chin.
+Raccoons are medium-sized mammals found across North America. They have thick gray fur, a black mask across the eyes, and a bushy ringed tail.
 
-They typically weigh between 10 and 30 pounds, depending on gender and species. In addition to their recognizable appearance, raccoons are also known for their distinctive canine snout and long bushy tail.
+Adults typically weigh between 10 and 30 pounds. They are nocturnal, have extremely dexterous front paws, and can climb just about anything.
 
-These animals are nocturnal creatures, typically emerging at night to search for food like insects, small animals, fruits, nuts, and berries.
-
-Though they typically stay off the ground, raccoons are excellent climbers and tend to make their homes in trees or other high spaces.
-
-Whether you're an outdoor enthusiast or simply looking for an interesting animal friend to observe up close, a raccoon is sure to be a fascinating addition to any backyard.
+Raccoons eat whatever is available, from insects and fruit to garbage and pet food. This opportunistic diet is exactly why they show up around goat operations looking for grain, scraps, and easy pickings.
 
 ## How do raccoons kill goats?
 
-Raccoons are notorious predators of goats, with a wide variety of strategies for killing and consuming their prey.
+Raccoons do not chase down goats or set up ambushes. They go after the easiest target they can find, which means newborn kids, injured animals, or afterbirth during kidding season.
 
-One common method that raccoons use is to simply crush their victims to death by leaping onto their backs or necks and biting down hard with their [powerful jaws](/can-goats-bite/).
+A raccoon will bite and claw at a small kid, usually targeting the head, neck, or abdomen. If a doe kids overnight in a pasture with no shelter, the newborn is at risk before the mother can fully clean it and get it on its feet.
 
-In some cases, a group of raccoons may even work together to take down a much larger animal, such as a full-grown goat.
+It is worth noting that raccoons are far from the biggest predator threat to goats. Stray dogs, coyotes, and in some regions mountain lions account for far more goat losses than raccoons ever will.
 
-Additionally, raccoons have been known to chase after running goats at high speeds and pounce on the animals when they're exhausted.
+## The real danger: disease
 
-Last but not least, raccoons can also orchestrate complex ambushes to surprise unsuspecting goats and deliver a fatal blow before the goats have time to react.
+The biggest raccoon threat to your goats is not physical attack. It is disease.
 
-Whether by strength, speed, or cunning, raccoons are devastating predators of this unsuspecting prey. That's why [goat farmers](/can-people-ride-goats/) should always be aware of any potential threats and take appropriate precautions to protect their herds.
+Raccoons carry rabies, and a single bite during a scuffle near the barn can expose your entire herd. They also carry leptospirosis, which spreads through contaminated urine and water and can cause kidney failure in goats.
+
+Raccoon roundworm (Baylisascaris procyonis) is another serious concern. Raccoons shed roundworm eggs in their feces, and goats can pick them up while grazing or eating contaminated feed. Baylisascaris infections can be fatal and there is no reliable treatment once symptoms appear.
+
+If raccoons are defecating in or near your feed areas, that is a bigger problem than any physical threat they pose.
 
 ## What are some preventative measures you can take to protect your goats from raccoons?
 
-There are many things that you can do to prevent raccoons from targeting your goats. For starters, it's a good idea to make sure that your fences are in good condition and [tall enough to keep the animals safe](/can-goats-be-tethered/).
+Store all goat feed in sealed metal containers or bins with secure lids. Open feed bags in a barn are an open invitation for raccoons, and every visit means more contaminated droppings near your goats.
 
-You should also consider installing lighting in your pastures at night, as this can help to discourage raccoons from hanging around.
+Lock up does and newborn kids at night, especially during kidding season. A simple enclosed stall with a solid door will keep raccoons out.
 
-What's more, it may be helpful to remove access points where the animals could slip through, such as downspouts or [tree branches](/can-goats-eat-the-thorns-of-a-citrus-tree-branch/).
+Keep trash cans sealed and away from your barn and pasture areas. Raccoons follow food sources, so removing the attraction is half the battle.
 
-Finally, it's important to be aware of any trouble signs that may indicate an attack is imminent, such as strange noises or eating habits.
-
-By taking these preventative measures, you can protect your goats from deer and other predators and ensure the safety of your flock.
+Seal gaps in your barn walls and roof larger than 4 inches. Use hardware cloth rather than chicken wire, because raccoons can tear through chicken wire with their paws. Install spring-loaded latches on doors since raccoons can figure out simple slide bolts.
 
 ## What should you do if you find a raccoon attacking your goats?
 
-If you find that a raccoon is attacking your goats, there are several steps you should take to protect your livestock.
+Make loud noise to scare it off and get between the raccoon and your goats if you can do so safely. A raccoon that is cornered or rabid may become aggressive, so do not try to handle it with bare hands.
 
-First, try to scare away the animal using loud noises or bright lights. For example, try setting off loud firecrackers or turning on brightly-colored spotlights in the area where the raccoon is present.
+Check your goats for bite wounds immediately. Any goat that has been bitten or scratched by a raccoon should be examined by a vet as soon as possible due to the rabies risk.
 
-These strategies can be effective at chasing the animal away, as it may associate the loud noises or bright lights with danger and avoid returning to your property in the future.
-
-Plus, consider investing in security cameras or motion-sensor lights to monitor and deter raccoons from approaching your goats' enclosure.
-
-Finally, if none of these solutions work to discourage the raccoon from coming back, it may be necessary to physically trap and remove it from your property.
-
-As long as you remain vigilant and take steps to [protect your goats from potential threats](/can-a-plastic-bag-hurt-a-goat/) like raccoons, you can help ensure their long-term safety and well-being.
+If raccoons keep coming back, set up live traps and contact your local animal control or wildlife agency. In many areas, relocated raccoons just find their way back, so check your local regulations on removal options.
 
 ## Additional information about raccoons and other predators that may threaten your goats
 
-Raccoons and other predators can be a serious threat to your goats since they can easily harm or even kill your flock.
+Raccoons are a nuisance predator, but they are not in the same league as the animals that actually kill the most goats. Domestic dogs running loose are the number one killer of goats in most areas, followed closely by coyotes.
 
-Raccoons are particularly notorious for their hunting skills, often targeting weaker or younger goats. They are most active at night, and will typically use stealthy movements and sharp claws to make quick work of their prey.
+Foxes will take young kids, similar to raccoons. In western states, mountain lions and bears are serious threats that require much more robust fencing and guardian animals.
 
-Other common goat predators include weasels, [foxes](/can-a-fox-kill-a-goat/), and coyotes, all of which can cause serious damage if left unchecked.
-
-Fortunately, there are several strategies that you can use to protect your goats from these predators. For example, you may wish to invest in sturdy fencing that prevents animals from entering your property or pen.
-
-This can also help deter smaller predators like snakes or cats from accessing your goats. What's more, it is crucial to keep an eye out for any signs of predator activity on your property, such as paw prints in the mud or scratch marks on fences and trees.
-
-By staying vigilant and implementing preventative measures like these, you can successfully safeguard your goats against the scourge of raccoons and other predators.
+The key thing with raccoons is managing what draws them in. If they have no access to feed, water troughs, or vulnerable young kids, most raccoons will move on to easier pickings elsewhere.
 
 ## What animals can protect goats from predators?
 
-There are several animals that can help protect goats from predators. One common option is to keep a dog on your property, as they will often bark and chase away any animals that come near your goats.
+A livestock guardian dog is your best defense against raccoons and just about every other predator. Breeds like Great Pyrenees, Anatolian Shepherds, and Maremmas will patrol at night when raccoons are active. Their scent alone keeps most raccoons away from the property.
 
-Another solution is to purchase a guardian animal, such as a llama or an alpaca, which can serve as an effective deterrent against predators.
+Llamas and donkeys also work well as guardian animals. They are naturally aggressive toward small predators and will stomp or chase raccoons, coyotes, and foxes out of the pasture.
 
-These animals are often larger and more [aggressive than goats](/can-an-aggressive-goat-be-fixed/), making them less likely to be targeted by predators.
+If you get a guardian dog, raise it with your goats from puppyhood so it bonds with the herd. A dog that sees the goats as its family will be far more protective than one introduced as an adult.
 
-Additionally, they can provide an early warning system against potential threats, as they will often [make noise](/can-goats-actually-scream/) or run toward predators when they are nearby. By taking these steps, you can help ensure the safety of your goats from predators.
+## Final Thoughts
 
-### Using Guard Dogs to Protect Against Raccoons
+Raccoons are not the goat-killing machines they are sometimes made out to be. A full-grown goat in decent health is not in real danger from a raccoon.
 
-A well-trained livestock guardian dog is one of the most effective defenses against raccoons. Breeds like Great Pyrenees, Anatolian Shepherds, and Maremmas have strong protective instincts and will patrol your property at night when raccoons are most active.
-
-A guardian dog does not need to catch every raccoon. Their scent alone is often enough to keep raccoons from entering the area. Raccoons are cautious animals and will avoid territories where large dogs are present.
-
-If you decide to get a guardian dog, introduce it to your goats as a puppy. A dog raised alongside goats from a young age will bond with the herd and treat them as family rather than prey.
-
-### What Time of Year Raccoon Attacks Increase
-
-Raccoon attacks on goats spike during spring and early summer. This is when mother raccoons are feeding their kits and are desperate for easy protein sources.
-
-Late fall is another high-risk period. Raccoons bulk up before winter and become bolder about approaching barns and pens to scavenge food.
-
-During these peak seasons, double-check your barn security and consider running a motion-activated trail camera near your goat pen. Knowing when raccoons are visiting helps you target your prevention efforts.
-
-### Raccoon-Proofing Your Goat Barn at Night
-
-Raccoons are nocturnal and do most of their damage after dark. A few simple upgrades to your barn can make a big difference.
-
-Start by sealing any gaps larger than 4 inches in the walls, roof, or foundation. Raccoons can squeeze through surprisingly tight spaces. Hardware cloth (not chicken wire) is the best material for covering vents and windows since raccoons can tear through chicken wire with their hands.
-
-Install a secure latch on the barn door. Raccoons are smart enough to figure out simple slide bolts and lift latches. A spring-loaded latch or a carabiner clip will keep them out.
-
-Motion-activated lights outside the barn entrance also help. Raccoons prefer to operate in darkness, and a sudden bright light will spook most of them.
-
-## The Bottom Line
-
-Overall, it is important to be aware of the dangers that predators can pose to your goats. By taking steps to protect your livestock, you can help ensure their long-term safety and well-being.
-
-Additionally, it is important to remain vigilant and keep an eye out for any signs of predator activity on your property. If you take these measures, you can successfully safeguard your goats against the threat of predators.
+The genuine risks are to newborn kids left unprotected at night and to the whole herd through disease exposure. Keep your feed locked up, secure your barn, bring does inside during kidding season, and clean up any raccoon droppings you find near feeding areas. Do those things and raccoons will be the least of your worries.

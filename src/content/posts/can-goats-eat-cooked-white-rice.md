@@ -52,31 +52,31 @@ You can be curious about a certain dish, such as rice. Is cooked white rice safe
 
 If so, what are the health advantages and nutritional details?
 
-we will answer those questions and provide more information about [goats and their eating habits](/can-a-goat-eat-sticker-bushes/).
+we will answer those questions and provide more information about goats and their eating habits.
 
 ## Can goats eat cooked white rice?
 
-While cooked white rice is safe for goats to eat, there are a few things to keep in mind. [Goats should not eat large amounts of rice](/can-goats-eat-rice-bran/) at one time, as it can cause digestive issues. For a more fiber-rich grain alternative, consider feeding your goats [oats](/can-goats-eat-oats/).
+While cooked white rice is safe for goats to eat, there are a few things to keep in mind. Goats should not eat large amounts of rice at one time, as it can cause digestive issues. For a more fiber-rich grain alternative, consider feeding your goats oats.
 
-Additionally, cooked white rice should be fed to goats in moderation and as part of a balanced diet.
+Cooked white rice should be fed to goats in moderation and as part of a balanced diet.
 
 ## Can a pregnant goat eat cooked white rice?
 
-While most [goats will happily eat cooked rice](/can-goats-eat-cooked-chicken/), it's not recommended for pregnant does. The reason for this is that cooked rice breaks down more quickly in the [goat's digestive system](/can-goats-digest-anything/), and can cause an increase in blood sugar levels.
+While most goats will happily eat cooked rice, it's not recommended for pregnant does. The reason for this is that cooked rice breaks down more quickly in the goat's digestive system, and can cause an increase in blood sugar levels.
 
 This can be dangerous for pregnant does, as it can lead to a condition known as ketosis. Ketosis is a serious metabolic disorder that can cause the death of both the doe and her offspring.
 
-For this reason, it's best to avoid [feeding cooked rice to pregnant goats](/can-pregnant-goats-eat-medicated-feed/). Instead, opt for a more slowly digested food such as hay or pasture grass.
+For this reason, it's best to avoid feeding cooked rice to pregnant goats. Instead, opt for a more slowly digested food such as hay or pasture grass.
 
 ## Can a baby goat eat cooked white rice?
 
 A baby goat's diet consists mostly of milk, either from its mother or from a bottle. However, as the goat matures, it will gradually start to eat more solid food.
 
-At around [6 weeks old](/can-8-week-old-baby-goats-be-in-with-each-other/), a goat kid can start to nibble on hay and grass. And by 3 months old, the goat should be eating a pound or two of dry food per day.
+At around 6 weeks old, a goat kid can start to nibble on hay and grass. And by 3 months old, the goat should be eating a pound or two of dry food per day.
 
 While goats are generally pretty hardy creatures, there are some foods that they should not eat.
 
-Cooked white rice is one of these foods. White rice is low in fiber and nutrients, and it can [cause digestion problems for goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Cooked white rice is one of these foods. White rice is low in fiber and nutrients, and it can cause digestion problems for goats.
 
 So, while a little cooked white rice might not hurt your baby goat, it's best to stick to hay, grass, and dry food.
 
@@ -84,9 +84,9 @@ So, while a little cooked white rice might not hurt your baby goat, it's best to
 
 it's generally safe for a lactating goat to eat cooked white rice. Rice is a good source of energy and essential nutrients, and it can help to increase milk production.
 
-Then again, it's important to cook the rice thoroughly before feeding it to goats, as uncooked rice can contain bacteria that can cause illness. Additionally, [goats should not eat too much rice](/can-goats-eat-grapes/), as it can cause stomach upset.
+Then again, it's important to cook the rice thoroughly before feeding it to goats, as uncooked rice can contain bacteria that can cause illness. Additionally, goats should not eat too much rice, as it can cause stomach upset.
 
-When feeding rice to goats, it's best to mix it with other food items such as hay or pellets. This will help ensure that the goat gets a balanced diet and prevents them from overheating.
+When feeding rice to goats, it's best to mix it with other food items such as hay or pellets. This will help make sure that the goat gets a balanced diet and prevents them from overheating.
 
 ## What kind of goats can eat cooked white rice?
 
@@ -94,7 +94,7 @@ Not all goats can eat cooked white rice. In fact, most goats should not eat cook
 
 With that in mind, there are a few goat breeds that are known to be able to digest cooked white rice without any problems. These breeds include the Alpine, LaMancha, Nubian, and Oberhasli.
 
-While all other goat breeds should avoid eating cooked white rice, these four breeds can safely consume it as part of their diet. Regardless of breed, all goats can enjoy safer treats like [carrots](/can-goats-eat-carrots/) and [watermelon](/can-goats-eat-watermelon/).
+While all other goat breeds should avoid eating cooked white rice, these four breeds can safely consume it as part of their diet. Regardless of breed, all goats can enjoy safer treats like carrots and watermelon.
 
 ## What is white rice and what are its nutritional benefits?
 
@@ -106,7 +106,7 @@ While white rice is not as nutritious as brown rice, it's still a healthy food f
 
 ## What are the risks associated with feeding goats cooked white rice?
 
-While there are some health benefits associated with feeding goats cooked white rice, there are also some risks. The biggest risk is that goats can develop digestive issues [if they eat too much rice](/can-goats-eat-rice/) at one time.
+While there are some health benefits associated with feeding goats cooked white rice, there are also some risks. The biggest risk is that goats can develop digestive issues if they eat too much rice at one time.
 
 Another risk is that white rice has a high glycemic index, which means it can cause a rapid rise in blood sugar levels. This can be dangerous for goats, as they are prone to developing diabetes.
 
@@ -114,23 +114,23 @@ Finally, cooked white rice should be fed to goats in moderation and as part of a
 
 ## How to prevent the risks associated with feeding goats cooked white rice?
 
-The best way to prevent the risks associated with feeding goats cooked white rice is to feed them in moderation. [Goats should not eat large amounts of rice](/can-goats-eat-watermelon/) at one time, as this can cause digestive issues.
+The best way to prevent the risks associated with feeding goats cooked white rice is to feed them in moderation. Goats should not eat large amounts of rice at one time, as this can cause digestive issues.
 
-White rice can be a part of a goat's diet, but it should not be the only [grain they eat](/can-male-goats-eat-grain/). A diet that is too high in carbohydrates can lead to weight gain and other problems. For this reason, some owners also explore whether [goats can eat lentils](/can-goats-eat-lentils/) as a protein-rich alternative.
+White rice can be a part of a goat's diet, but it should not be the only grain they eat. A diet that is too high in carbohydrates can lead to weight gain and other problems. For this reason, some owners also explore whether goats can eat lentils as a protein-rich alternative.
 
-it's also important to [feed goats a variety of other foods](/can-a-goat-feed-quads/), such as hay, vegetables, and fruits. This will help them get the nutrients they need and prevent them from becoming bored with their food.
+it's also important to feed goats a variety of other foods, such as hay, vegetables, and fruits. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 
 ## How many cups of cooked white rice should I feed my goat per day?
 
 The amount of cooked white rice you should feed your goat will depend on its age, size, and activity level. For example, a 14-pound (6.4-kilogram) kid or yearling needs about 1/2 cup of grain per day.
 
-An [adult goat](/can-i-use-kid-feeding-tube-to-drench-adult-goat/) needs about 1 to 2 cups of grain per day.
+An adult goat needs about 1 to 2 cups of grain per day.
 
-You should also [feed goats](/can-baking-soda-cause-urinary-issues-in-goats/) a variety of other foods, such as hay, vegetables, and fruits. This will help them get the nutrients they need and prevent them from becoming bored with their food.
+You should also feed goats a variety of other foods, such as hay, vegetables, and fruits. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 
 ## Are there any alternative food options for goats?
 
-There are a variety of food options for goats, including [hay](/what-kind-of-hay-do-goats-eat/), vegetables, and fruits. Some popular options include [bananas](/can-goats-eat-bananas/), [cucumbers](/can-goats-eat-cucumbers/), and [squash](/can-goats-eat-squash/). You can also feed them grain mixes, which are specially formulated to meet their nutritional needs.
+There are a variety of food options for goats, including hay, vegetables, and fruits. Some popular options include bananas, cucumbers, and squash. You can also feed them grain mixes, which are specially formulated to meet their nutritional needs.
 
 When feeding goats, it's important to give them a variety of different foods. This will help them get the nutrients they need and prevent them from becoming bored with their food.
 

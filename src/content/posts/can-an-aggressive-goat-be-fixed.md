@@ -44,7 +44,7 @@ we will discuss what aggression is, what causes it, and how it can be corrected.
 
 ## Can an aggressive goat be fixed?
 
-However, it's important to note that not all aggression can be corrected. If a goat is aggressive due to a medical condition, such as a hormonal imbalance, then the aggression may not be able to be completely eliminated.
+However, not all aggression can be corrected. If a goat is aggressive due to a medical condition, such as a hormonal imbalance, then the aggression may not be able to be completely eliminated.
 
 In these cases, the best you can do is manage the aggression and try to make your goat as comfortable as possible.
 
@@ -52,13 +52,13 @@ In these cases, the best you can do is manage the aggression and try to make you
 
 Some breeds of goats, such as the Alpine breed, are known for being more aggressive than others. With that in mind, any goat can become aggressive if it'sn't properly socialized or if it feels threatened.
 
-If you're concerned about aggression in your goat, it's crucial to keep an eye on its behavior and to correct any aggressive behaviors immediately.
+If you're concerned about aggression in your goat, it's important to keep an eye on its behavior and to correct any aggressive behaviors immediately.
 
-With proper care and training, you can help prevent aggression in any [breed of goat](/can-a-goat-breed-with-sheep/).
+With proper care and training, you can help prevent aggression in any breed of goat.
 
 ## How can you tell if your goat is aggressive?
 
-One of the most important [things to consider when raising goats](/can-a-dog-get-sick-from-a-goat/) is their temperament. Some goats are naturally more docile than others, while some may be more prone to aggression.
+One of the most important things to consider when raising goats is their temperament. Some goats are naturally more docile than others, while some may be more prone to aggression.
 
 There are a few telltale signs that can help you determine whether or not your goat is aggressive.
 
@@ -74,19 +74,19 @@ Aggression can be dangerous for both you and your goat, so you need to nip it in
 
 By rewarding your goat for good behavior, you can help teach them that aggression is not acceptable and reinforce the fact that they should only interact with you in a calm and gentle manner.
 
-With time and patience, you can [train even the most aggressive goats](/can-baby-goats-be-house-trained/) to be more docile and easy-going animals.
+With time and patience, you can train even the most aggressive goats to be more docile and easy-going animals.
 
 ## What to do if your goat is aggressive?
 
 If you have a goat that is acting aggressively, there are a few things you can do to help improve the situation.
 
-First, make sure that the goat has enough space to roam and explore. A cramped living area can be very stressful for [goats](/can-goats-jump-high/) and may lead to aggressive behavior.
+First, make sure that the goat has enough space to roam and explore. A cramped living area can be very stressful for goats and may lead to aggressive behavior.
 
 Second, provide plenty of food and water. Goats are very active animals and need a diet that is high in nutrients.
 
 If they are not getting enough to eat, they may become aggressive in order to compete for food.
 
-Finally, make sure to spend time interacting with your goat each day. [Goats are social creatures](/can-goats-love-humans/) and need regular contact with their owners in order to stay happy and healthy.
+Finally, make sure to spend time interacting with your goat each day. Goats are social creatures and need regular contact with their owners in order to stay happy and healthy.
 
 If you follow these guidelines, you should see a decrease in your goat's aggressive behavior.
 
@@ -104,7 +104,7 @@ Another method is called negative reinforcement, which involves punishing your g
 
 For example, if your goat acts aggressively, you could remove him from the situation or spray him with water. Finally, you can also try using a combination of both positive and negative reinforcement to help train your goat more effectively.
 
-Whichever method you choose, it's crucial to be consistent with your training. Goats are smart creatures and they will quickly catch on to any inconsistencies in your treatment of them.
+Whichever method you choose, it's important to be consistent with your training. Goats are smart creatures and they will quickly catch on to any inconsistencies in your treatment of them.
 
 With consistent and effective training, you can help reduce or even eliminate aggression in your goat.
 
@@ -112,11 +112,11 @@ With consistent and effective training, you can help reduce or even eliminate ag
 
 One of the most important things to do when trying to prevent aggression in goats is to provide them with plenty of space.
 
-Goats are naturally curious and social creatures, so they will often try to [approach other animals](/can-goats-and-dogs-be-friends/) - even those that they don't know - out of curiosity. But, if they feel like they're being crowded, they may become aggressive.
+Goats are naturally curious and social creatures, so they will often try to approach other animals - even those that they don't know - out of curiosity. But, if they feel like they're being crowded, they may become aggressive.
 
 That's why you must provide them with plenty of space to roam, as well as plenty of hiding places where they can go to escape from other animals.
 
-Another important [tip is to avoid feeding goats](/can-a-goat-feed-quads/) by hand. [Goats are very smart and can quickly learn to associate people with food](/can-sheep-eat-goat-food/).
+Another important tip is to avoid feeding goats by hand. Goats are very smart and can quickly learn to associate people with food.
 
 If they start begging for food, it may lead to aggression if they don't get what they want.
 
@@ -136,7 +136,7 @@ Does can also become aggressive around kidding time. A protective mama goat may 
 
 ## Key Takeaways
 
-Goats are intelligent, social creatures that can make [great pets](/can-goats-be-tamed/). However, like all animals, they can sometimes exhibit aggressive behavior.
+Goats are intelligent, social creatures that can make great pets. However, like all animals, they can sometimes exhibit aggressive behavior.
 
 If your goat is showing signs of aggression, it's important to take action to correct the behavior. There are a few different training methods you can use to help reduce or eliminate aggression in your goat.
 

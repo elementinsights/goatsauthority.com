@@ -52,13 +52,13 @@ In addition, it is illegal in many countries to sell or drink milk from goats wi
 
 ## What kind of care should I take when drinking goat’s milk?
 
-If you choose to drink goat's milk, it is crucial to take some basic precautions.
+If you choose to drink goat's milk, it is important to take some basic precautions.
 
-First and foremost, make sure the [milk comes from healthy goats](/can-i-give-puppy-canned-goats-milk/) that have been tested for mastitis. Check with your local health department or veterinarian for more information about testing requirements in your area.
+First and foremost, make sure the milk comes from healthy goats that have been tested for mastitis. Check with your local health department or veterinarian for more information about testing requirements in your area.
 
-Second, never consume raw (unpasteurized) [goat's milk](/can-goat-milk-cause-acne/). Pasteurization kills any pathogens and bacteria in the milk, making it safe for consumption.
+Second, never consume raw (unpasteurized) goat's milk. Pasteurization kills any pathogens and bacteria in the milk, making it safe for consumption.
 
-Finally, make sure you [store your goat's milk properly](/can-you-buy-goat-milk-at-the-grocery-store/) to prevent spoiling or contamination. Keep it cold and away from heat sources, and use it within 2-3 days after opening.
+Finally, make sure you store your goat's milk properly to prevent spoiling or contamination. Keep it cold and away from heat sources, and use it within 2-3 days after opening.
 
 ## What is mastitis and what are the symptoms?
 
@@ -70,7 +70,7 @@ Mastitis is usually caused by bacteria that enter the breast through cracked or 
 
 Most women who develop mastitis make a full recovery and are able to continue breastfeeding without any problems. At the same time, some women may experience recurrent episodes of mastitis or may develop a more serious form of infection known as puerperal sepsis.
 
-Therefore, it is crucial to see your doctor if you think you might have mastitis. Treatment for [mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis/) is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
+Therefore, it is important to see your doctor if you think you might have mastitis. Treatment for mastitis is typically started as soon as possible to prevent the spread of the infection and to minimize the risk of complications.
 
 ## How do you get mastitis and how is it treated?
 
@@ -78,7 +78,7 @@ Mastitis is a bacterial infection of the breast tissue that most commonly affect
 
 Symptoms of mastitis include pain, swelling, redness, and warmth in the affected area. In some cases, the mother may also experience fever, chills, and fatigue.
 
-Treatment for mastitis typically involves a course of [antibiotics](/can-ibuprofen-be-given-to-lactating-goats/), as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
+Treatment for mastitis typically involves a course of antibiotics, as well as rest and plenty of fluids. Applying warm compresses to the affected area can also help to ease pain and promote healing.
 
 In most cases, mastitis resolves without any lasting complications.
 
@@ -98,7 +98,7 @@ Maintaining proper hygiene is the key to preventing mastitis in goats. Before mi
 
 During milking, try to avoid touching any part of the udder or teats with your fingers, use a separate cloth or towel instead.
 
-Additionally, make sure you [milk your goats regularly](/can-i-use-regular-milk-to-feed-a-baby-goat/) and on the same schedule each day to reduce the risk of engorgement and infection.
+Make sure you milk your goats regularly and on the same schedule each day to reduce the risk of engorgement and infection.
 
 Finally, check for signs of infection in your goats and seek veterinary treatment immediately if any are detected. Taking these steps will help keep your goats healthy and free from mastitis.
 
@@ -106,11 +106,11 @@ Finally, check for signs of infection in your goats and seek veterinary treatmen
 
 Goat’s milk should be stored in the refrigerator and consumed within 2-3 days of opening. It should not be left at room temperature for any extended period of time, as this increases the risk of bacteria growth.
 
-If possible, it is best to purchase pasteurized goat’s milk, as this will reduce your chances of getting sick from bacteria or viruses. If you have to store it for longer periods, [goat’s milk can be frozen](/can-goats-milk-be-frozen/) and kept in the freezer for up to six months.
+If possible, it is best to purchase pasteurized goat’s milk, as this will reduce your chances of getting sick from bacteria or viruses. If you have to store it for longer periods, goat’s milk can be frozen and kept in the freezer for up to six months.
 
 However, freezing affects the taste and texture of the milk, so it is not recommended if you plan on consuming it soon after thawing.
 
-Regardless, any remaining milk should be discarded after two hours of thawing at room temperature. Taking these steps will help ensure that you are consuming [goat’s milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) that is safe and free from contamination.
+Regardless, any remaining milk should be discarded after two hours of thawing at room temperature. Taking these steps will help make sure that you are consuming goat’s milk that is safe and free from contamination.
 
 ## Are there any special considerations for people with mastitis?
 
@@ -118,11 +118,11 @@ There are special considerations for people with mastitis. If you think you may 
 
 Another thing to note is it is important to practice good hygiene while nursing or pumping, such as washing your hands before and after touching the infected area, using a separate pump for each breast, and avoiding soap or other harsh chemicals on the nipples.
 
-Additionally, make sure you drink plenty of fluids and get plenty of rest to help keep your body strong in fighting off infection. Following these tips will ensure that you are taking proper care of yourself and helping to ease pain and promote healing.
+Make sure you drink plenty of fluids and get plenty of rest to help keep your body strong in fighting off infection. Following these tips will make sure that you are taking proper care of yourself and helping to ease pain and promote healing.
 
 The most important thing to remember when dealing with mastitis is that early detection and treatment are key to preventing complications. If you think you may have an infection, it is essential to see a doctor right away for proper diagnosis and treatment.
 
-Additionally, good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
+Good hygiene practices are necessary for both humans and animals to reduce the risk of infection. With proper care and treatment, you can help keep your goats healthy and reduce your risk for mastitis-related illnesses.
 
 ### How to Test for Mastitis at Home
 
@@ -164,8 +164,8 @@ If the doe is a valuable genetic animal, talk to your vet about dry cow therapy 
 
 Overall, drinking milk from goats with mastitis is not recommended due to the risk of serious illness and potential legal consequences.
 
-Moreover, proper hygiene practices are essential for both humans and animals to keep them healthy and reduce the risk of infection.
+Proper hygiene practices are essential for both humans and animals to keep them healthy and reduce the risk of infection.
 
 If you think you may have mastitis, it's important to seek medical attention right away in order to prevent any complications.
 
-With these tips and guidelines, you can keep your goats healthy and [ensure that their milk is safe](/can-i-put-safeguard-in-my-goats-milk/) to consume.
+With these tips and guidelines, you can keep your goats healthy and make sure that their milk is safe to consume.

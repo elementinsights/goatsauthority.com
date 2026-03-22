@@ -42,7 +42,7 @@ faq:
 
 As for a pregnant goat, making sure that it has the proper nutrition is extremely important. This means that you need to pay attention to what you feed her and how much of it.
 
-You also need to ensure that she gets the appropriate amount of exercise. But, what about when your [pregnant goat](/can-a-goat-get-pregnant-when-not-in-heat/) becomes sick?
+You also need to make sure that she gets the appropriate amount of exercise. But, what about when your pregnant goat becomes sick?
 
 Is it safe to give her penicillin?
 
@@ -66,7 +66,7 @@ Without protein synthesis, the bacteria cannot grow and reproduce.
 
 Penicillin is most effective against gram-positive bacteria, such as Staphylococcus aureus and Streptococcus pyogenes. It's also active against certain gram-negative bacteria, such as Neisseria gonorrhoeae and Haemophilus influenzae.
 
-Penicillin is typically used to treat respiratory tract infections, blood poisoning, and toxemia in goats. It's important to note that penicillin is not effective against viral infections or fungal infections.
+Penicillin is typically used to treat respiratory tract infections, blood poisoning, and toxemia in goats. Penicillin is not effective against viral infections or fungal infections.
 
 When used properly, penicillin can be a very effective antibiotic in the treatment of bacterial infections in goats.
 
@@ -128,7 +128,7 @@ To properly administer penicillin to a pregnant goat, the health and weight of t
 
 The veterinarian may additionally recommend an intramuscular injection of 50-100cc of penicillin G crystalline suspension. For a pregnant goat weighing between 180-200 pounds, this would equal approximately 3 mL.
 
-Next, the neck muscle is located and the needle is inserted into the center of the muscle mass. The penicillin is then injected slowly, allowing the [animal time to absorb it](/can-i-use-vaseline-on-goat-birth/).
+Next, the neck muscle is located and the needle is inserted into the center of the muscle mass. The penicillin is then injected slowly, allowing the animal time to absorb it.
 
 Finally, the site is cleaned with alcohol and a bandage is applied to prevent infection. With proper care, the pregnant goat should make a full recovery.
 
@@ -136,9 +136,9 @@ Finally, the site is cleaned with alcohol and a bandage is applied to prevent in
 
 Just like humans, goats require a well-balanced diet to stay healthy and produce milk. When a goat is pregnant, her nutritional needs increase significantly in order to support the growth of her unborn kid.
 
-Without proper nutrition, a pregnant goat may experience health problems, give birth to a weak or underweight baby, or even [miscarry](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/).
+Without proper nutrition, a pregnant goat may experience health problems, give birth to a weak or underweight baby, or even miscarry.
 
-During pregnancy, a pregnant goat needs more energy, protein, calcium, and other minerals than she does when she's not pregnant. To meet her increased needs, she'll need access to [high-quality hay](/can-a-saanen-goat-have-babies-year-round/), fresh pasture, and a variety of grains and minerals.
+During pregnancy, a pregnant goat needs more energy, protein, calcium, and other minerals than she does when she's not pregnant. To meet her increased needs, she'll need access to high-quality hay, fresh pasture, and a variety of grains and minerals.
 
 It's also important to make sure that she has plenty of clean water to drink. If you're unsure about what your pregnant goat needs, consult with a veterinarian or livestock nutritionist.
 

@@ -47,9 +47,9 @@ we will address all of your questions regarding goats and tobacco plants. We wil
 
 ## Can goats eat Indian tobacco plants?
 
-Of course, as with any food, it's important to introduce tobacco plants slowly into your goat's diet. Start by giving them a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/), and then gradually increase the amount over time.
+Of course, as with any food, it's important to introduce tobacco plants slowly into your goat's diet. Start by giving them a small amount, and then gradually increase the amount over time.
 
-This will help to ensure that your [goat does not experience any digestive issues](/can-goats-digest-cotton/).
+This will help to make sure that your goat does not experience any digestive issues.
 
 As long as you introduce tobacco plants slowly and in moderation, they can be a healthy and nutritious part of your goat's diet.
 
@@ -57,21 +57,21 @@ As long as you introduce tobacco plants slowly and in moderation, they can be a 
 
 All parts of the Indian tobacco plant are not edible to goats. The leaves and flowers are the most toxic, followed by the stem, root, and berries.
 
-The toxins found in all parts of the plant are pyrrolizidine alkaloids (PAs). PAs can [cause liver damage and death in goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+The toxins found in all parts of the plant are pyrrolizidine alkaloids (PAs). PAs can cause liver damage and death in goats.
 
 Symptoms of PA toxicity include loss of appetite, lethargy, weakness, jaundice, bloody diarrhea, abortions, and death. There's no specific antidote for PA toxicity.
 
 Prevention is the best medicine.
 
-Do not allow your goats to graze in areas where Indian tobacco plants are growing. If you suspect your goat has ingested any part of this plant, [contact a veterinarian](/contact/) immediately.
+Do not allow your goats to graze in areas where Indian tobacco plants are growing. If you suspect your goat has ingested any part of this plant, contact a veterinarian immediately.
 
 Time is of the essence when it comes to treating PA toxicity. Early intervention may save your goat's life.
 
 ## Can all kinds of goats eat Indian tobacco plants?
 
-There are many different types of goats, ranging from the common [dairy goat to the angora goat](/can-you-breed-angora-goats-with-dairy-goats-for-fiber/). While all goats are herbivores, their exact diet depends on the specific species.
+There are many different types of goats, ranging from the common dairy goat to the angora goat. While all goats are herbivores, their exact diet depends on the specific species.
 
-Some goats, such as the Cashmere goat, are primarily grazers and prefer to eat grasses and other low-growing plants. Other goats, like the [Pygmy goat](/can-pygmy-goats-eat-brown-sugar/), are browsers and prefer to eat twigs, leaves, and other vegetation that is higher off the ground.
+Some goats, such as the Cashmere goat, are primarily grazers and prefer to eat grasses and other low-growing plants. Other goats, like the Pygmy goat, are browsers and prefer to eat twigs, leaves, and other vegetation that is higher off the ground.
 
 Indian tobacco plants (Nicotiana glauca) are a type of shrub that typically grows to a height of about six feet. The leaves of this plant are toxic to many animals, including goats.
 
@@ -81,7 +81,7 @@ For this reason, it's not recommended to feed Indian tobacco plants to any type 
 
 While it may seem strange that goats would eat tobacco, there are actually several benefits to this behavior.
 
-First of all, Indian tobacco plants are known to be toxic to many animals, including horses, cows, and sheep. However, [goats are not affected by the toxins](/can-weather-affect-goats-poop/) in the plants, and they can safely consume large quantities of leaves and stems.
+First of all, Indian tobacco plants are known to be toxic to many animals, including horses, cows, and sheep. However, goats are not affected by the toxins in the plants, and they can safely consume large quantities of leaves and stems.
 
 Following that, grazing on Indian tobacco plants can help to prevent wildfires. The plants are highly flammable, and they are often responsible for starting wildfires in desert regions.
 
@@ -107,13 +107,13 @@ Because of the risks associated with feeding Indian tobacco plants to goats, it'
 
 Indian tobacco plants should not be fed to goats on a daily basis. The plants are highly toxic, and even a small amount can cause serious health problems.
 
-If you must feed Indian tobacco plants to your goat, do so sparingly and only as a treat. This will help to minimize the [risk of adverse effects](/can-a-cdt-shot-kill-a-goat/).
+If you must feed Indian tobacco plants to your goat, do so sparingly and only as a treat. This will help to minimize the risk of adverse effects.
 
 ## What are some recipes that include Indian tobacco plants that goat owners can make for their animals?
 
 There are no recipes that specifically include Indian tobacco plants for goats. However, there are a few general recipes that could be adapted to include plants.
 
-One such recipe is for [goat feed](/can-a-goat-feed-quads/) cake. To make this cake, you will need 2 cups of wheat flour, 1 cup of Indian tobacco leaves, 1 cup of water, and 1 cup of molasses.
+One such recipe is for goat feed cake. To make this cake, you will need 2 cups of wheat flour, 1 cup of Indian tobacco leaves, 1 cup of water, and 1 cup of molasses.
 
 Simply combine all of the ingredients in a bowl and mix well. Then, spread the mixture into an 8x8 inch baking dish and bake at 350 degrees Fahrenheit for 30 minutes.
 
@@ -127,7 +127,7 @@ Bake at 350 degrees Fahrenheit for 20 minutes. These haystacks can be stored in 
 
 If you choose to feed your goat Indian tobacco plants, do so sparingly and only as a treat. The plants are highly toxic, and even a small amount can cause serious health problems.
 
-When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first. This will help to ensure that your goat stays healthy and safe.
+When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first. This will help to make sure that your goat stays healthy and safe.
 
 ### How to Identify Indian Tobacco in Your Pasture
 
@@ -159,6 +159,6 @@ Bracken fern is another one to watch for, especially in wooded pastures. It caus
 
 Overall, it's not recommended that you feed Indian tobacco plants to your goat. The plants are highly toxic and can cause serious health problems.
 
-If you must [feed the plants to your goat](/can-baking-soda-cause-urinary-issues-in-goats/), do so sparingly and only as a treat. When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first.
+If you must feed the plants to your goat, do so sparingly and only as a treat. When feeding Indian tobacco plants to goats, it's best to consult with a veterinarian first.
 
-This will help to ensure that your goat stays healthy and safe.
+This will help to make sure that your goat stays healthy and safe.

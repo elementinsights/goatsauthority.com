@@ -45,11 +45,11 @@ Feeding your goats can be tricky- you want to make sure they're getting enough n
 
 And if so, what are the things you should keep in mind?
 
-Here's the short version.we will answer all those questions for you and provide more information on the [benefits and hazards of feeding lambsquarter weed to your goats](/can-goats-milk-be-frozen/) as well as what serving size is appropriate.
+Here's the short version.we will answer all those questions for you and provide more information on the benefits and hazards of feeding lambsquarter weed to your goats as well as what serving size is appropriate.
 
 ## Can goats eat lambsquarter weed?
 
-Even so, it's crucial to keep in mind that lambsquarter weed should not be the only [thing you feed your goats](/can-a-dog-get-sick-from-a-goat/). They still [need to eat hay](/what-kind-of-hay-do-goats-eat/), grass, and other vegetables to get all the nutrients they need.
+Even so, it's important to keep in mind that lambsquarter weed should not be the only thing you feed your goats. They still need to eat hay, grass, and other vegetables to get all the nutrients they need.
 
 ## Can all parts of lambsquarter weed be edible to goats?
 
@@ -61,13 +61,13 @@ The stems can be used as fodder, and the seeds can be ground into flour.
 
 It's also worth noting that lambsquarter is known to have medicinal properties, and it has been used traditionally to treat various ailments such as fevers and indigestion.
 
-Thus, while lambsquarter may be considered a weed by some, it's actually a highly nutritious [food source that can provide many benefits for goats](/can-goats-eat-dog-food/).
+Thus, while lambsquarter may be considered a weed by some, it's actually a highly nutritious food source that can provide many benefits for goats.
 
 ## What is lambsquarter weed and what are its benefits to goats?
 
 Lambsquarter is a common weed that is found in gardens and fields. It's often considered a nuisance, but it can actually be quite beneficial to goats.
 
-[Goats are able to digest the plant](/can-goats-digest-cotton/) more easily than other animals, and they actually get a lot of nutrients from it.
+Goats are able to digest the plant more easily than other animals, and they actually get a lot of nutrients from it.
 
 The plant is also high in fiber, which helps keep goats healthy and prevents them from getting sick. Also, lambsquarter is a natural source of anti-bacterial properties, which can help protect goats from diseases.
 
@@ -75,7 +75,7 @@ Overall, lambsquarter is an important part of a healthy diet for goats, and it c
 
 ## How do goats eat lambsquarter weed?
 
-[Goats are known for their ability to eat](/can-a-goat-eat-sticker-bushes/) just about anything, but they are especially fond of weeds. Lambsquarter is a common weed that often grows in areas where other plants cannot thrive.
+Goats are known for their ability to eat just about anything, but they are especially fond of weeds. Lambsquarter is a common weed that often grows in areas where other plants cannot thrive.
 
 It's a hardy plant that can withstand harsh conditions, and it's also high in nutrients.
 
@@ -83,7 +83,7 @@ For goats, lambsquarter is an irresistible treat. The leaves are tender and juic
 
 When goats eat lambsquarter, they strip the leaves from the stem and then swallow them whole.
 
-The plant's small seeds pass through the [goat's digestive system](/can-goats-digest-anything/) and are eventually deposited on the ground, where they can take root and grow new plants. In this way, [goats help to control the spread of lambsquarter weed](/can-goats-spread-lice-to-llamas/).
+The plant's small seeds pass through the goat's digestive system and are eventually deposited on the ground, where they can take root and grow new plants. In this way, goats help to control the spread of lambsquarter weed.
 
 ## Are there any risks associated with feeding lambsquarter weed to goats?
 
@@ -91,7 +91,7 @@ Lambsquarter weed ( Chenopodium album) is a common weed in North America. It's o
 
 However, lambsquarter is actually a valuable source of food for goats.
 
-The plant is high in protein and minerals and can help goats to maintain a healthy diet. But, there are some [risks associated with feeding lambsquarter to goats](/can-goats-eat-chicken-feed/).
+The plant is high in protein and minerals and can help goats to maintain a healthy diet. But, there are some risks associated with feeding lambsquarter to goats.
 
 The plant contains saponins, which can cause digestive problems if consumed in large quantities.
 
@@ -99,23 +99,23 @@ Similarly, lambsquarter can accumulate high levels of nitrates, which can be har
 
 ## How much lambsquarter weed should be fed to goats on a daily basis?
 
-Lambsquarter is a type of weed that is often found in gardens and fields. While it can be a nuisance to gardeners, [goats actually enjoy eating this plant](/can-goats-eat-any-plant/).
+Lambsquarter is a type of weed that is often found in gardens and fields. While it can be a nuisance to gardeners, goats actually enjoy eating this plant.
 
-And also, lambsquarter is a good source of nutrients for goats, and they should be fed a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of this weed on a daily basis.
+And also, lambsquarter is a good source of nutrients for goats, and they should be fed a small amount of this weed on a daily basis.
 
-While there's no set amount of lambsquarter that goats should eat, a good rule of thumb is to provide them with enough to make up 10% of their diet. So, if a [goat is eating 2 pounds of food](/can-sheep-eat-goat-food/) per day, then they should be given 1/5 pound of lambsquarter.
+While there's no set amount of lambsquarter that goats should eat, a good rule of thumb is to provide them with enough to make up 10% of their diet. So, if a goat is eating 2 pounds of food per day, then they should be given 1/5 pound of lambsquarter.
 
 In addition to being nutritious, lambsquarter can also help to keep goats healthy by preventing parasites from taking up residence in their gastrointestinal tract. As such, this weed can play an important role in the health of your goat herd.
 
 ## What are some recipes that include lambsquarter weed that goat owners can make for their animals?
 
-Lambsquarter weed is a common type of weed that is often found in gardens and yards. Although it's considered a nuisance by many people, lambsquarter weed is actually a valuable source of [nutrition for goats](/can-i-give-a-moldy-pumpkin-to-goats/).
+Lambsquarter weed is a common type of weed that is often found in gardens and yards. Although it's considered a nuisance by many people, lambsquarter weed is actually a valuable source of nutrition for goats.
 
-Goats are able to extract a high level of nutrients from the leaves and stems of the plant, and they can also eat the seeds. In fact, lambsquarter weed is so nutritious that it's often used as fodder in [goat farms](/can-a-goat-produce-milk-but-also-be-a-pack-goat/).
+Goats are able to extract a high level of nutrients from the leaves and stems of the plant, and they can also eat the seeds. In fact, lambsquarter weed is so nutritious that it's often used as fodder in goat farms.
 
 There are many different recipes that goat owners can use to make food for their animals. For example, Lambsquarter Weed Grains can be made by boiling the leaves and stems of the plant in water.
 
-The resulting mixture can then be [fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) as a healthy and nutritious treat. There are also many recipes that use lambsquarter weed as an ingredient in hay or pellets.
+The resulting mixture can then be fed to goats as a healthy and nutritious treat. There are also many recipes that use lambsquarter weed as an ingredient in hay or pellets.
 
 By including lambsquarter weed in their diet, goat owners can provide their animals with a healthy and nutritious meal.
 
@@ -131,7 +131,7 @@ There are many other types of plants that can be fed to goats, and goat owners s
 
 ## Wrapping Up
 
-Overall, lambsquarter weed is a valuable source of [nutrition for goats](/can-i-use-regular-milk-to-feed-a-baby-goat/). However, there are some risks associated with feeding this plant to goats.
+Overall, lambsquarter weed is a valuable source of nutrition for goats. However, there are some risks associated with feeding this plant to goats.
 
 Because of that, it's important to monitor the quantity of lambsquarter that goats consume and to make sure that they have access to other sources of food as well. Lambsquarter can be fed to goats on a daily basis, and it can be used as an ingredient in many different recipes.
 

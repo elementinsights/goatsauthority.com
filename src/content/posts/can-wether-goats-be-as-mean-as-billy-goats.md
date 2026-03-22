@@ -50,19 +50,19 @@ we will answer those questions and provide you with additional information about
 
 ## Can wether goats be as mean as billy goats?
 
-In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to [jump over fences](/can-goats-be-tethered/).
+In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to jump over fences.
 
 If they are successful in escaping, they can quickly become a nuisance to farmers and homeowners alike.
 
 ## What are wether goats and what distinguishes them from billy goats?
 
-Goats are members of the Caprae subfamily, which includes all wild and [domestic goats](/can-domestic-goats-jump/). There are around 200 different goat breeds, although most people are familiar with the domesticated variety.
+Goats are members of the Caprae subfamily, which includes all wild and domestic goats. There are around 200 different goat breeds, although most people are familiar with the domesticated variety.
 
 Goats are hardy creatures that can survive in a wide range of climates, and they are known for their sure-footedness.
 
 They are also versatile animals, and their milk, meat, and fiber can all be used by humans. Billy goats are male goats over the age of one year, while wether goats are neutered males or females.
 
-But, the term “billy goat” is often used to refer to any [male goat](/can-male-goats-eat-grain/), regardless of age.
+But, the term “billy goat” is often used to refer to any male goat, regardless of age.
 
 ## How do you tell the difference between a male and a female goat?
 
@@ -88,9 +88,9 @@ They love to explore their surroundings and will often climb on things that they
 
 Knowing the difference between wether goats and billy goats is important for a number of reasons.
 
-First, as we mentioned earlier, wether [goats are more likely to be aggressive and escape from their pens](/can-a-goat-pen-have-pine-trees-in-it/). If you're planning on [keeping goats as pets or farm animals](/can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny/), it's important to be aware of this and take steps to prevent it from happening.
+First, as we mentioned earlier, wether goats are more likely to be aggressive and escape from their pens. If you're planning on keeping goats as pets or farm animals, it's important to be aware of this and take steps to prevent it from happening.
 
-Second, [wether goats produce less milk than female goats](/can-a-female-goat-produce-milk-without-being-pregnant/), so if you're looking for a dairy animal, you'll want to choose a doe instead.
+Second, wether goats produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
 
 Last but not least, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
 
@@ -102,13 +102,13 @@ Not only will this mean you have to spend more time herding them back in, but it
 
 Similarly, weather goats are attracted to shiny objects and have been known to chew on electric fencing and other equipment. This can cause serious damage and even pose a safety hazard.
 
-Finally, because they are such avid explorers, [wether goats can also end up spreading invasive plants](/can-goats-spread-lice-to-llamas/) invasive plants and weeds around your property.
+Finally, because they are such avid explorers, wether goats can also end up spreading invasive plants invasive plants and weeds around your property.
 
 While they can certainly be a fun addition to any farm, it's important to be aware of the potential challenges that come along with keeping wether goats.
 
 ## How can you prevent those problems from occurring?
 
-There are a few [things you can do to prevent the problems associated with keeping wether goats](/can-a-dog-get-sick-from-a-goat/). First, it's important to build a secure pen or enclosure that they can't escape from.
+There are a few things you can do to prevent the problems associated with keeping wether goats. First, it's important to build a secure pen or enclosure that they can't escape from.
 
 This may require some trial and error, but eventually, you should be able to find a design that works for your goats. Second, you can try using dog or cat repellent to keep them away from your equipment.
 
@@ -118,23 +118,23 @@ By taking these precautions, you should be able to successfully keep wether goat
 
 ## When is the best time to breed a female goat?
 
-The best time to [breed a female goat](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) is during the fall season. This is because the days are shorter and the weather is cooler, which can help reduce the risk of heat stress.
+The best time to breed a female goat is during the fall season. This is because the days are shorter and the weather is cooler, which can help reduce the risk of heat stress.
 
 Another thing to note is there will be plenty of food available for the goats during this time of year. However, it's important to consult with a veterinarian or livestock specialist before breeding any animals.
 
-They will be able to help you determine the [best time to breed based on the specific needs of your goats](/can-you-breed-a-6-yr-old-goat-for-first-time/).
+They will be able to help you determine the best time to breed based on the specific needs of your goats.
 
 ## What kind of housing do goats need?
 
 Goats need a clean, dry place to sleep and shelter from the elements. A three-sided shed is typically sufficient, but they will also need access to a pasture or paddock.
 
-Goats are social animals, so it's important to provide them with enough space to move around and interact with other goats. Additionally, you'll need to provide them with fresh water and hay on a daily basis.
+Goats are social animals, so it's important to provide them with enough space to move around and interact with other goats. You'll need to provide them with fresh water and hay on a daily basis.
 
 ## What to Remember
 
 There are a few things to consider before deciding whether or not to keep wether goats on your farm. They are known to be curious and can easily escape from their pens, which could lead to them getting lost or injured.
 
-Additionally, they produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
+They produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
 
 Finally, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
 

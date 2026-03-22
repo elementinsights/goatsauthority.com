@@ -67,7 +67,7 @@ Other things to keep in mind include the size of the goat and its nutritional ne
 
 Goats are entertaining and active animals, so they need plenty of space to run and play. They also need a diet that is high in fiber and low in sugar.
 
-Taking all of these factors into account will help you choose the best [breed of goat](/can-a-goat-breed-with-sheep/) for a pet.
+Taking all of these factors into account will help you choose the best breed of goat for a pet.
 
 ## How to train your goat?
 
@@ -75,13 +75,13 @@ Training your goat can be a rewarding experience. With a little patience and pos
 
 Here are a few tips to get you started.
 
-When [training your goat](/can-baby-goats-be-house-trained/), it's important to use positive reinforcement. This means rewarding your goat for good behavior with treats or other forms of praise.
+When training your goat, it's important to use positive reinforcement. This means rewarding your goat for good behavior with treats or other forms of praise.
 
 goats are very food-motivated, so treats are often an effective way to encourage desired behaviors.
 
 However, be sure to only give treats sparingly, as too many can lead to weight gain.
 
-It's also important to keep your expectations reasonable. goats are intelligent animals, but they don't learn as quickly as some other species.
+It's also important to keep your expectations reasonable. Goats are intelligent animals, but they don't learn as quickly as some other species.
 
 So, don't expect your goat to master complex tricks overnight.
 
@@ -93,13 +93,13 @@ If you only give rewards occasionally, your goat will become frustrated and less
 
 ## The benefits of owning a pet goat
 
-There are many benefits to owning a pet goat. [Goats are social creatures and enjoy the company of humans](/can-i-give-my-goats-human-fish-pills/), making them great companions.
+There are many benefits to owning a pet goat. Goats are social creatures and enjoy the company of humans, making them great companions.
 
-They are also very intelligent and can be trained to perform tricks or even help with farm chores. In addition, [goats are relatively low-maintenance animals and can be easily cared](/can-goats-die-from-lymes/) for with minimal effort.
+They are also very intelligent and can be trained to perform tricks or even help with farm chores. In addition, goats are relatively low-maintenance animals and can be easily cared for with minimal effort.
 
-As browsers, goats also help to control weeds and brush in your yard or pasture. And finally, [goats can provide milk](/can-a-baby-have-powdered-goats-milk/), meat, and fiber which can be used for products like cheese, soap, and clothing.
+As browsers, goats also help to control weeds and brush in your yard or pasture. And finally, goats can provide milk, meat, and fiber which can be used for products like cheese, soap, and clothing.
 
-Whether you're looking for a new farm animal or a unique pet, [goats offer a wide range of benefits](/can-benadryl-hurt-a-goat/) that make them an excellent choice.
+Whether you're looking for a new farm animal or a unique pet, goats offer a wide range of benefits that make them an excellent choice.
 
 ## What are the risks of owning a goat?
 
@@ -121,13 +121,13 @@ And the rewards of owning a goat - companionship, milk, fiber, and more - make i
 
 ## What to do if your goat gets sick or injured?
 
-If your [goat becomes sick](/can-i-give-a-sick-goat-water-through-a-syringe/) or injured, there are a few things you can do to help them feel better.
+If your goat becomes sick or injured, there are a few things you can do to help them feel better.
 
 First, consult with a veterinarian to get a diagnosis and treatment plan. They will likely recommend some basic care measures, such as providing extra warmth or preventing them from getting too cold, dry, or wet.
 
 You should also provide plenty of fresh water and food. If your goat is injured, you will need to clean and dress the wound, and possibly give them pain relief medication.
 
-In some cases, you may need to confine them to a smaller area to prevent them from moving around too much and causing further damage. With proper care, most [goats will recover quickly](/can-goats-recover-from-polio-without-medication/) from illness or injury.
+In some cases, you may need to confine them to a smaller area to prevent them from moving around too much and causing further damage. With proper care, most goats will recover quickly from illness or injury.
 
 ## Fun facts about goats
 
@@ -135,7 +135,7 @@ Although they are often maligned, goats are actually very interesting creatures.
 
 This unique morphology helps them to better see predators and forage for food. In addition, goats are also proficient climbers and can scale steep slopes with ease.
 
-This is due partly to their sharp hooves, which grip the ground like mountain climbing shoes. [Goats are also surprisingly strong and can carry heavy loads](/can-goats-carry-distemper/) for long distances.
+This is due partly to their sharp hooves, which grip the ground like mountain climbing shoes. Goats are also surprisingly strong and can carry heavy loads for long distances.
 
 It's also worth noting that in many parts of the world, they are used as pack animals to transport goods to market.
 

@@ -45,13 +45,13 @@ Taking care of goats is a lot of fun and a great way to get outside, but you nee
 
 And if so, what are the benefits, hazards, and serving size?
 
-Here's the short version.we will answer the question: can goats eat hawthorn? We'll also discuss the benefits, hazards, and [serving size of this food for goats](/can-goats-eat-dog-food/).
+Here's the short version.we will answer the question: can goats eat hawthorn? We'll also discuss the benefits, hazards, and serving size of this food for goats.
 
 ## Can goats eat hawthorn?
 
 However, it's important to be careful with hawthorn. It's a poisonous plant, and eating too much can make goats sick.
 
-You should only give your goats a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of hawthorn at first to see how they react. If they seem to have no negative reaction, then you can give them more.
+You should only give your goats a small amount of hawthorn at first to see how they react. If they seem to have no negative reaction, then you can give them more.
 
 ## Can all kinds of goats eat hawthorn?
 
@@ -59,9 +59,9 @@ Though goats are known for their ability to eat just about anything, there are s
 
 All parts of the hawthorn plant - including the leaves, berries, and branches - contain toxic compounds that can cause digestive problems, difficulty breathing, and irregular heartbeat in goats. In severe cases, hawthorn poisoning can even be fatal.
 
-As a result, you need to make sure that goats have access to other sources of food and to keep them away from hawthorn bushes. If you suspect that your goat has ingested hawthorn, [contact a veterinarian](/contact/) immediately.
+As a result, you need to make sure that goats have access to other sources of food and to keep them away from hawthorn bushes. If you suspect that your goat has ingested hawthorn, contact a veterinarian immediately.
 
-With prompt treatment, most [goats will make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+With prompt treatment, most goats will make a full recovery.
 
 ## What is Hawthorn and what are its benefits?
 
@@ -69,7 +69,7 @@ Hawthorn is a small tree or shrub that is native to Europe, Asia, and North Amer
 
 Hawthorn leaves, flowers, and berries are all rich in compounds that have been shown to improve heart health.
 
-In particular, hawthorn extract has been shown to dilate blood vessels, increase blood flow, and reduce stress on the cardiovascular system. Similar to how [honeysuckle](/can-goats-eat-honeysuckle/) provides browse benefits, hawthorn offers nutritional value as a shrub. Additionally, hawthorn extract is known to be a powerful antioxidant that can help protect cells from damage.
+In particular, hawthorn extract has been shown to dilate blood vessels, increase blood flow, and reduce stress on the cardiovascular system. Similar to how honeysuckle provides browse benefits, hawthorn offers nutritional value as a shrub. Hawthorn extract is known to be a powerful antioxidant that can help protect cells from damage.
 
 Hawthorn extract is also sometimes used as a natural treatment for anxiety and insomnia. The calming effects of hawthorn may help to promote relaxation and improve sleep quality.
 
@@ -79,9 +79,9 @@ Overall, hawthorn is a safe and effective herbal remedy that offers many potenti
 
 Hawthorn (Crataegus spp.) is a common shrub that is often used in landscaping and as a hedge plant. But, hawthorn can also be found growing in the wild, and goats may be tempted to eat the leaves or branches if they are hungry.
 
-While hawthorn is not considered toxic to goats, it can cause gastrointestinal upset and should not be fed in large quantities. In addition, the thorns on hawthorn branches [can cause injury to goats if they try to eat the plant](/can-goats-eat-any-plant/).
+While hawthorn is not considered toxic to goats, it can cause gastrointestinal upset and should not be fed in large quantities. In addition, the thorns on hawthorn branches can cause injury to goats if they try to eat the plant.
 
-And also, it's best to avoid [feeding hawthorn to goats](/can-baking-soda-cause-urinary-issues-in-goats/).
+And also, it's best to avoid feeding hawthorn to goats.
 
 If you have goats on your property, make sure to remove any hawthorn plants that are within reach so that your animals stay safe and healthy.
 
@@ -89,23 +89,23 @@ If you have goats on your property, make sure to remove any hawthorn plants that
 
 When feeding hawthorn to goats, there are a few things to keep in mind in order to prevent health hazards.
 
-First of all, it's crucial to make sure that the hawthorn is free from pesticides and other chemicals. Goats are very sensitive to these substances and can become sick if they ingest them.
+First of all, it's important to make sure that the hawthorn is free from pesticides and other chemicals. Goats are very sensitive to these substances and can become sick if they ingest them.
 
-Second, only feed hawthorn to [goats that are over the age of six months](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/). Younger goats have not yet developed the [digestive system](/can-goats-digest-cotton/) necessary to properly process hawthorn.
+Second, only feed hawthorn to goats that are over the age of six months. Younger goats have not yet developed the digestive system necessary to properly process hawthorn.
 
-Finally, avoid [feeding goats](/can-a-goat-feed-quads/) moldy or spoiled hawthorn. This can cause digestive issues and make the goat sick.
+Finally, avoid feeding goats moldy or spoiled hawthorn. This can cause digestive issues and make the goat sick.
 
-By following these simple guidelines, you can [prevent health hazards when feeding hawthorn to goats](/can-goats-milk-be-frozen/).
+By following these simple guidelines, you can prevent health hazards when feeding hawthorn to goats.
 
 ## What is the best way to feed Hawthorn to goats?
 
 Hawthorn is a type of shrub that is commonly found in hedgerows and woodlands. Its small, pinkish-white flowers blooming in early summer, followed by red berries in autumn, make it a popular choice for gardens.
 
-Be aware, hawthorn is also an important food source for livestock, particularly goats. Goats are browsers, meaning that they prefer to eat leaves and shoots rather than grass. They also enjoy browsing on other hedgerow plants like [bamboo](/can-goats-eat-bamboo/) and [cedar trees](/can-goats-eat-cedar-trees/).
+Be aware, hawthorn is also an important food source for livestock, particularly goats. Goats are browsers, meaning that they prefer to eat leaves and shoots rather than grass. They also enjoy browsing on other hedgerow plants like bamboo and cedar trees.
 
 Hawthorn is an excellent browse plant for goats, as it's high in protein and phosphorus, and low in calcium. But, there are a few things to consider when feeding Hawthorn to goats.
 
-First, the thorns on the branches can [cause injury to goats](/can-alfalfa-pellets-cause-goats-to-bloat/) if they are not trimmed properly.
+First, the thorns on the branches can cause injury to goats if they are not trimmed properly.
 
 Second, Hawthorn contains a compound called tannin, which can lead to digestive problems if consumed in large quantities.
 
@@ -117,13 +117,13 @@ When fed properly, Hawthorn can be an excellent addition to the diet of your goa
 
 Goats are browsers, which means they naturally eat a variety of foliage. In the wild, they would graze on young shoots and leaves, as well as the occasional fruit or flower.
 
-Of course, when kept as livestock, goats need to be given a more balanced diet in order to stay healthy. This includes providing them with [hay](/what-kind-of-hay-do-goats-eat/) or pasture, as well as supplemented feed.
+Of course, when kept as livestock, goats need to be given a more balanced diet in order to stay healthy. This includes providing them with hay or pasture, as well as supplemented feed.
 
-With supplemented feed, there are a variety of options available, including Hawthorn. Other browse options include [blackberries](/can-goats-eat-blackberries/) and [pine trees](/can-goats-eat-pine-trees/). Hawthorn is a shrub that is native to Europe, and its leaves and berries are often used in herbal medicine.
+With supplemented feed, there are a variety of options available, including Hawthorn. Other browse options include blackberries and pine trees. Hawthorn is a shrub that is native to Europe, and its leaves and berries are often used in herbal medicine.
 
-It [should be fed to goats](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) in moderation, as too much can cause stomach upset.
+It should be fed to goats in moderation, as too much can cause stomach upset.
 
-When fed in appropriate amounts, but, Hawthorn can provide a number of [benefits for goats](/can-benadryl-hurt-a-goat/), including aiding in digestion and helping to prevent arthritis.
+When fed in appropriate amounts, but, Hawthorn can provide a number of benefits for goats, including aiding in digestion and helping to prevent arthritis.
 
 ## Additional tips for feeding Hawthorn to goats
 
@@ -135,7 +135,7 @@ Second, be sure to purchase Hawthorn from a reputable source, as some providers 
 
 Third, only give Hawthorn to healthy goats, as it can worsen digestive problems in animals that are already ill.
 
-By following these simple tips, you can ensure that your goats reap the maximum benefits from Hawthorn supplementation.
+By following these simple tips, you can make sure that your goats reap the maximum benefits from Hawthorn supplementation.
 
 ### How to Trim Hawthorn Thorns Before Feeding
 

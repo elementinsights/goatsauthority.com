@@ -50,17 +50,17 @@ You can also use negative reinforcement, such as electric shocks or loud noises,
 
 The most important thing to remember when training a goat to pull a plow is to be consistent with your commands and punishments. If you are not consistent, the goat will not understand what you want it to do and will become confused and stressed.
 
-It is also important to start training goats at a young age. Goats that are younger are usually more willing to learn new things and are less set in their ways than [older goats](/can-i-mix-newborn-goats-and-older-goats/).
+It is also important to start training goats at a young age. Goats that are younger are usually more willing to learn new things and are less set in their ways than older goats.
 
 ## Things to consider before you start training your goats to pull a plow
 
 Before you begin teaching your goats to pull a plow, there are a few things to keep in mind.
 
-To begin with, you must confirm that the goats are strong and healthy enough to withstand the pressure of dragging a plow. The [goats risk hurting themselves](/can-a-plastic-bag-hurt-a-goat/) while pulling the plow if they are not in good physical condition.
+To begin with, you must confirm that the goats are strong and healthy enough to withstand the pressure of dragging a plow. The goats risk hurting themselves while pulling the plow if they are not in good physical condition.
 
-Second, you need to make sure that the area where the [goats will be pulling the plow](/can-a-goat-pull-a-cart/) is free of hazards. There should be no sharp objects or holes in the ground that the goats could hurt themselves on.
+Second, you need to make sure that the area where the goats will be pulling the plow is free of hazards. There should be no sharp objects or holes in the ground that the goats could hurt themselves on.
 
-Third, you need to make sure that you have the time and patience to train the goats. [Training goats](/can-baby-goats-be-house-trained/) takes a lot of time and patience.
+Third, you need to make sure that you have the time and patience to train the goats. Training goats takes a lot of time and patience.
 
 If you do not have the time or patience to train them, it is best to not even start.
 
@@ -78,17 +78,17 @@ Goats are also very intelligent animals and they can be trained to do many diffe
 
 Goats are also very good at following commands and directions. This means that, if you give them the right commands, they will be able to pull the plow in the direction that you want them to go.
 
-Finally, [goats are very versatile animals](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) and they can be used for other purposes on the farm, such as providing milk or meat. This means that, if you have goats pulling a plow, they can also be used for other things, which can make your farm more efficient.
+Finally, goats are very versatile animals and they can be used for other purposes on the farm, such as providing milk or meat. This means that, if you have goats pulling a plow, they can also be used for other things, which can make your farm more efficient.
 
 ## How do you train a goat to pull a plow?
 
 Training a goat to pull a plow is not as difficult as it may seem. With the right training, goats can be very effective at pulling a plow.
 
-The first step in training a goat to pull a plow is to get the goat used to being around humans. This means that you will [need to spend time with the goat](/how-many-babies-do-goats-have-at-a-time/) and get it accustomed to your presence.
+The first step in training a goat to pull a plow is to get the goat used to being around humans. This means that you will need to spend time with the goat and get it accustomed to your presence.
 
 Once the goat is comfortable around you, you can start working on training it.
 
-The next step is to get the goat used to [wearing a harness](/can-i-use-a-cow-shell-with-goat-liners/). You can do this by putting the harness on the goat and letting it wear it for short periods of time.
+The next step is to get the goat used to wearing a harness. You can do this by putting the harness on the goat and letting it wear it for short periods of time.
 
 Once the goat is comfortable wearing the harness, you can start working on attaching it to the plow.
 
@@ -108,7 +108,7 @@ First, you need to make sure that the plow is the right size for the goat. If th
 
 If the plow is too small, it could hurt the goat.
 
-Second, you [need to make sure that the goat has enough food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). Goats need to eat a lot of food and[they need to drink a lot of water](/can-horses-drink-water-that-has-goat-poop-in-it/).
+Second, you need to make sure that the goat has enough food and water. Goats need to eat a lot of food andthey need to drink a lot of water.
 
 If you do not provide them with enough of these things, they will not be able to pull the plow effectively.
 
@@ -134,7 +134,7 @@ If the plow is too big or if the goat is not comfortable, it could get injured.
 
 Second, the goat could get sick. If the goat does not have enough food or water, it could get sick.
 
-Third, the [goat could die](/can-goats-die-from-lymes/). If the goat is not healthy or if does not have enough space, it could die.
+Third, the goat could die. If the goat is not healthy or if does not have enough space, it could die.
 
 Fourth, the plow could break. If the plow is not the right size or if it is not maintained properly, it could break.
 

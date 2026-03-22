@@ -39,7 +39,7 @@ faq:
 ---
 Taking care of goats is a lot of work. Goats are social creatures and need companionship, so you would need to have at least two.
 
-They also need a lot of [space to roam](/can-a-goat-live-in-a-house/) and explore. If you're thinking of keeping goats as pets, you need to be prepared for the extra work involved.
+They also need a lot of space to roam and explore. If you're thinking of keeping goats as pets, you need to be prepared for the extra work involved.
 
 But, have you ever wondered if you could claim goats as a lawn maintenance team instead of pets? And if so, would it be cheaper?
 
@@ -47,7 +47,7 @@ we'll explore the possibility of using goats as a lawn maintenance team. We'll l
 
 ## Can you claim goats as a lawn maintenance team instead of pets?
 
-In addition to their food, goats also consume grass, [weeds, and brush](/can-the-federal-government-use-goats-to-clear-federal-lands/). This can help keep your lawn clear of unwanted growth.
+In addition to their food, goats also consume grass, weeds, and brush. This can help keep your lawn clear of unwanted growth.
 
 And, since they're browsers rather than grazers, they don't tend to destroy the grassroots like some other animals.
 
@@ -55,11 +55,11 @@ And, since they're browsers rather than grazers, they don't tend to destroy the 
 
 There are a number of benefits to using goats as a lawn maintenance team. For one thing, these hard-working animals are able to tackle even the toughest and most unruly grasses and weeds, quickly clearing large areas of unwanted vegetation with minimal effort.
 
-In addition, goats can easily adapt to different types of terrain, including steep slopes and [rocky hilltops](/can-goats-climb-fences/), making them an ideal choice for any landscaping project.
+In addition, goats can easily adapt to different types of terrain, including steep slopes and rocky hilltops, making them an ideal choice for any landscaping project.
 
 Plus, these hardy animals require very little in terms of food or water, and they generally require far less care than traditional lawn maintenance tools like lawnmowers or power trimmers.
 
-And perhaps best of all, using goats as a lawn maintenance team is great for the environment; their grazing helps to minimize soil erosion while returning valuable [nutrients back into the soil](/can-goat-poop-be-used-as-fertilizer/).
+And perhaps best of all, using goats as a lawn maintenance team is great for the environment; their grazing helps to minimize soil erosion while returning valuable nutrients back into the soil.
 
 All in all, using goats as a lawn maintenance team is a win-win choice for both homeowners and the planet.
 
@@ -67,11 +67,11 @@ All in all, using goats as a lawn maintenance team is a win-win choice for both 
 
 The primary drawback of using goats to maintain a lawn is that they can be quite destructive to the grass itself. Because of their hooves, goats are adept at scraping away the tops of blades and gouging deep holes in the soil.
 
-This leaves behind unsightly patches on the lawn and puts stress on [plants](/can-a-goat-pen-have-pine-trees-in-it/), making it more difficult for them to grow and thrive.
+This leaves behind unsightly patches on the lawn and puts stress on plants, making it more difficult for them to grow and thrive.
 
 And also, because goats eat primarily grass, they may not be able to provide effective maintenance for other types of plants that are commonly found in lawns, like flowers or shrubs.
 
-The bottom line is, while using [goats as a lawn maintenance team may have some benefits](/can-benadryl-hurt-a-goat/), there are also several drawbacks that should be considered when making this important decision.
+The bottom line is, while using goats as a lawn maintenance team may have some benefits, there are also several drawbacks that should be considered when making this important decision.
 
 ## Would it be cheaper to use goats as a lawn maintenance team than traditional methods?
 
@@ -83,9 +83,9 @@ Plus, since goats are smaller and more agile than larger machinery like lawnmowe
 
 At the same time, however, there are also some drawbacks to using goats as part of your lawn maintenance routine.
 
-In particular, using goats for this purpose could potentially be more expensive in some cases, since you would need to provide adequate food and [shelter](/can-a-goat-barn-be-12x-2/) for your herd to thrive.
+In particular, using goats for this purpose could potentially be more expensive in some cases, since you would need to provide adequate food and shelter for your herd to thrive.
 
-Additionally, goats may not be able to complete all aspects of the job that traditional methods handle well; for example, it may be difficult for them to aerate the soil properly or ensure that all areas are evenly covered with grass seed.
+Goats may not be able to complete all aspects of the job that traditional methods handle well; for example, it may be difficult for them to aerate the soil properly or make sure that all areas are evenly covered with grass seed.
 
 Ultimately, whether goats would be a good choice for your lawn depends on a range of factors including your budget and preferences as a homeowner.
 
@@ -95,7 +95,7 @@ There are a few key steps that would be necessary for setting up a goat lawn mai
 
 Once these factors have been assessed, it would be necessary to develop a plan for housing and feeding the animals, as well as managing them while they are working on the lawns.
 
-This might involve training the goats to [work in teams](/can-goats-pigs-and-chickens-live-in-the-same-barn/) or with specific tools, or it might simply involve properly structuring their grazing periods and ensuring they have plenty of open space to roam.
+This might involve training the goats to work in teams or with specific tools, or it might simply involve properly structuring their grazing periods and ensuring they have plenty of open space to roam.
 
 Finally, it would be important to develop a communication strategy for connecting with potential customers and informing them about how this service works. Once these foundational elements have been laid out, the program could be launched and scaled up over time as needed.
 
@@ -103,9 +103,9 @@ Overall, setting up a goat lawn maintenance program takes careful planning and a
 
 ## Are there any other options for using goats other than as a lawn maintenance team?
 
-There are other potential uses for goats beyond serving as a lawn maintenance team. For example, some people [keep goats as pets](/can-i-buy-a-goat-as-a-pet/), while others use them for their milk or meat.
+There are other potential uses for goats beyond serving as a lawn maintenance team. For example, some people keep goats as pets, while others use them for their milk or meat.
 
-Additionally, goats can also be used for their hair, which is often used to make clothing and other [textile products](/can-pine-chips-be-used-as-bedding-for-goats/). Finally, goats can also be used as working animals in a variety of settings, such as on farms or in Rocky Mountain Rescue operations.
+Goats can also be used for their hair, which is often used to make clothing and other textile products. Finally, goats can also be used as working animals in a variety of settings, such as on farms or in Rocky Mountain Rescue operations.
 
 Ultimately, the best way to use goats depends on the specific needs and preferences of the individual or organization involved.
 

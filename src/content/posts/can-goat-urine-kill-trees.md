@@ -63,7 +63,7 @@ Goat urine contains high levels of nitrogen, phosphorus, and potassium, making i
 
 Although goat urine can be beneficial to plants, it should be used sparingly as too much can burn and damage vegetation. When using goat urine as a fertilizer, you need to dilute it with water to reduce its concentration.
 
-Similarly, [goat urine should never be allowed to come into direct contact with plant leaves](/can-contact-with-goats-cause-diarrhea-in-humans/) as this could cause them to wilt and die.
+Similarly, goat urine should never be allowed to come into direct contact with plant leaves as this could cause them to wilt and die.
 
 ## How to use goat urine as a fertilizer?
 
@@ -85,7 +85,7 @@ It can lead to excessive leaf growth, which makes the tree more vulnerable to wi
 
 Also, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
-Understandably, you [need to use goat urine sparingly on trees](/can-a-goat-climb-trees/) and to avoid using it near waterways.
+Understandably, you need to use goat urine sparingly on trees and to avoid using it near waterways.
 
 ## Other ways to take care of your trees and goats
 
@@ -95,13 +95,13 @@ But, trees can also be a liability if they are not properly cared for.
 
 Storms can topple them, and overgrown roots can damage sidewalks and foundations. To keep your trees healthy and safe, you need to prune them regularly and remove any dead or damaged branches.
 
-Additionally, you should have your trees inspected by a certified arborist every few years to ensure that they are in good health.
+You should have your trees inspected by a certified arborist every few years to make sure that they are in good health.
 
-Goats are another important part of many ecosystems. They are browsers, which means that they eat a variety of plants, including grasses, shrubs, and [tree leaves](/can-goats-eat-gum-tree-leaves/).
+Goats are another important part of many ecosystems. They are browsers, which means that they eat a variety of plants, including grasses, shrubs, and tree leaves.
 
-This helps to keep vegetation regrowth in check and prevents overgrazing. Additionally, goats’ manure is a rich source of nutrients that can help to fertilize the soil.
+This helps to keep vegetation regrowth in check and prevents overgrazing. Goats’ manure is a rich source of nutrients that can help to fertilize the soil.
 
-To keep your goats healthy and safe, you need to provide them with plenty of fresh water and adequate shelter from the elements. Additionally, you should have them vaccinated against common diseases such as rabies and tetanus.
+To keep your goats healthy and safe, you need to provide them with plenty of fresh water and adequate shelter from the elements. You should have them vaccinated against common diseases such as rabies and tetanus.
 
 ## Is there any other use for goat urine?
 
@@ -113,17 +113,17 @@ You need to take note that this method should only be used as a last resort, as 
 
 Biogas is a type of renewable energy that can be used to power homes and businesses. It's made by breaking down organic matter, such as manure, in the absence of oxygen.
 
-[Goat urine can be added to a biogas digester](/can-goats-digest-anything/) to help speed up the process.
+Goat urine can be added to a biogas digester to help speed up the process.
 
 ## What happens if goat urine kills a tree?
 
-If [goat urine kills a tree](/can-a-mountain-goat-kill-you/), it's most likely due to the high levels of nitrogen. Nitrogen is an essential nutrient for plants, but too much can be harmful.
+If goat urine kills a tree, it's most likely due to the high levels of nitrogen. Nitrogen is an essential nutrient for plants, but too much can be harmful.
 
 High levels of nitrogen can lead to excessive leaf growth, which makes the tree more vulnerable to wind damage.
 
 In addition, high levels of nitrogen can cause the tree to produce less fruit or flowers. Nitrogen can also encourage the growth of algae and other aquatic plants, which can compete with trees for water and sunlight.
 
-As a result, you [need to use goat urine sparingly on trees](/can-a-nubian-goat-climb-trees/) and avoid using it near waterways.
+As a result, you need to use goat urine sparingly on trees and avoid using it near waterways.
 
 ## Why do goats pee on trees?
 
@@ -131,7 +131,7 @@ There are a few reasons why goats might pee on trees. One reason is that they ar
 
 Goats have a strong sense of smell and they use their urine to communicate with other goats.
 
-Another reason is that [goats like to eat the bark of trees](/can-goats-eat-cedar-trees/). This can be harmful to the tree, so the goat urine might deter other goats from eating the bark.
+Another reason is that goats like to eat the bark of trees. This can be harmful to the tree, so the goat urine might deter other goats from eating the bark.
 
 One more thing: some people believe that the ammonia in goat urine can kill insects or help to fertilize the soil.
 
@@ -139,13 +139,13 @@ However, you need to use caution when using goat urine on trees, as too much can
 
 ## How can I keep my goats from peeing on my trees?
 
-If you want to keep your goats from peeing on your trees, you can try a few different things. One option is to [provide them with plenty of fresh water so that they don't need to drink from puddles](/can-horses-drink-water-that-has-goat-poop-in-it/) or streams.
+If you want to keep your goats from peeing on your trees, you can try a few different things. One option is to provide them with plenty of fresh water so that they don't need to drink from puddles or streams.
 
 Another option is to build a fence around your trees. This will prevent the goats from getting to the trees and will also deter other animals from entering your property.
 
 Finally, you can try training your goats not to pee on the trees.
 
-This can be done by rewarding them with treats when they stay away from the trees. However, you [need to remember that goats are naturally curious creatures](/how-many-babies-do-goats-have-at-a-time/) and they might still try to pee on the trees from time to time.
+This can be done by rewarding them with treats when they stay away from the trees. However, you need to remember that goats are naturally curious creatures and they might still try to pee on the trees from time to time.
 
 ### Dilution Methods for Using Goat Urine Safely
 

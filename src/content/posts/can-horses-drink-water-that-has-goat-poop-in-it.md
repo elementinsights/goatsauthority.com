@@ -48,7 +48,7 @@ we will answer those questions and more so you can keep your horse healthy and h
 
 ## Can horses drink water that has goat poop in it?
 
-In addition to bacteria, goat poop can also contain [parasites](/can-dogs-get-tapeworms-from-goats/) that can infect your horse. These parasites can cause severe health problems including colic, diarrhea, and weight loss.
+In addition to bacteria, goat poop can also contain parasites that can infect your horse. These parasites can cause severe health problems including colic, diarrhea, and weight loss.
 
 If you think your horse has ingested any water contaminated with goat poop, contact a goat expert immediately.
 
@@ -64,9 +64,9 @@ Given these potential dangers, it is important for horse owners to always make s
 
 ## How can you prevent your horse from drinking contaminated water?
 
-There are a number of different ways to prevent your horse from drinking contaminated water. One strategy is to keep a close eye on your horse's hydration levels, and only [give it clean water](/can-i-give-a-sick-goat-water-through-a-syringe/) when necessary.
+There are a number of different ways to prevent your horse from drinking contaminated water. One strategy is to keep a close eye on your horse's hydration levels, and only give it clean water when necessary.
 
-Another option is to set up a system of hay nets, which allow horses to access hay without having direct contact with the water source. Of course, the most reliable approach is to filter or [treat any standing water](/can-i-treat-coccidia-in-goats-in-their-water-bowl/) in order to make sure that it is safe for your horse to drink.
+Another option is to set up a system of hay nets, which allow horses to access hay without having direct contact with the water source. Of course, the most reliable approach is to filter or treat any standing water in order to make sure that it is safe for your horse to drink.
 
 By monitoring your horse's behavior, implementing one or more of these strategies, and providing frequent access to clean water, you can rest assured that your horse will stay hydrated and healthy even in times of high risk for contamination.
 
@@ -74,19 +74,19 @@ By monitoring your horse's behavior, implementing one or more of these strategie
 
 The first thing to keep in mind when your horse has been exposed to contaminated water is to remain calm. In most cases, horses are able to build up their natural resistance to contaminated water and recover from the effects with no long-term health consequences.
 
-But, in situations where the contamination is severe or if the animal shows [signs of illness](/can-a-goat-get-sick-from-cold/), you may need to seek medical attention for your horse. Some potential symptoms of waterborne illness in horses include vomiting, diarrhea, and weakness.
+But, in situations where the contamination is severe or if the animal shows signs of illness, you may need to seek medical attention for your horse. Some potential symptoms of waterborne illness in horses include vomiting, diarrhea, and weakness.
 
-If you suspect that your horse has consumed contaminated water, it is crucial that you ensure that they stay well hydrated by providing them with plenty of clean drinking water.
+If you suspect that your horse has consumed contaminated water, it is important that you make sure that they stay well hydrated by providing them with plenty of clean drinking water.
 
 Similarly, be sure to monitor their behavior and health closely so that you can evaluate whether more specialized care may be needed.
 
-In general, if your horse appears stable but has consumed questionable water, it is usually best not to take any [unnecessary risks](/can-a-cdt-shot-kill-a-goat/) and instead opt for professional goat expert care.
+In general, if your horse appears stable but has consumed questionable water, it is usually best not to take any unnecessary risks and instead opt for professional goat expert care.
 
 ## What are the signs of dehydration in horses?
 
 One of the most common signs of dehydration in horses is a lack of energy or low motivation. Horses that are dehydrated typically appear tired or fatigued, and may also have trouble performing their normal activities.
 
-Other signs to look out for include dry mucous membranes, [sunken eyes](/do-goats-have-good-eyesight/), and dark or tacky-looking gums. Additionally, if the horse has stopped sweating and urinating, as usual, this can be an indication that they are experiencing dehydration.
+Other signs to look out for include dry mucous membranes, sunken eyes, and dark or tacky-looking gums. If the horse has stopped sweating and urinating, as usual, this can be an indication that they are experiencing dehydration.
 
 Other symptoms can include rapid breathing and an elevated heart rate, decreased response to stimuli such as your voice or touch, lowered body temperature, and confirmed observations from tests such as blood work or a fecal test.
 
@@ -94,7 +94,7 @@ By recognizing the early warning signs of dehydration in horses, you can take ac
 
 ## What is the difference between a horse and a goat?
 
-At first glance, it might seem that horses and goats have a lot in common. Both are [hoofed mammals](/do-goats-have-cloven-hooves/), and they both have long, graceful legs that are well-suited to running over uneven terrain.
+At first glance, it might seem that horses and goats have a lot in common. Both are hoofed mammals, and they both have long, graceful legs that are well-suited to running over uneven terrain.
 
 However, when we look more closely at their bodies, we can see some key differences between these two animals.
 
@@ -102,7 +102,7 @@ For one thing, horses tend to be much larger than goats. Compared to the average
 
 In addition, horses tend to be faster than goats, due to their long legs and powerful muscles.
 
-Finally, while both horses and [goats have beautiful coats that vary in color](/can-a-dairy-goats-udder-skin-have-varying-colors/) depending on their breed or species, only the mane of a horse is truly notable; unlike goats who tend to go bareheaded, horses are often seen with flowing, majestic manes that help to set them apart as elegant and regal creatures.
+Finally, while both horses and goats have beautiful coats that vary in color depending on their breed or species, only the mane of a horse is truly notable; unlike goats who tend to go bareheaded, horses are often seen with flowing, majestic manes that help to set them apart as elegant and regal creatures.
 
 In short, though these two animals may share some superficial similarities, there are some key differences between them that make them each unique in their own way.
 
@@ -112,16 +112,16 @@ When a horse drinks water, it uses its tongue to scoop up the liquid and move it
 
 The horse then uses a complex series of muscles that surround its jaw and head to create suction within its mouth, drawing the water into its throat. The horse uses these same muscles to close off its nose as it swallows, preventing any water from getting into its airways or lungs.
 
-Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. In general, this complex process helps ensure that horses can stay properly hydrated even in times of need.
+Once the water reaches the stomach, it is reabsorbed by the body via osmosis and enters other tissues where it is needed for hydration and nutrient delivery. In general, this complex process helps make sure that horses can stay properly hydrated even in times of need.
 
 ## Closing Notes
 
 Overall, if you think your horse may have consumed water that was contaminated with goat feces, it is important to monitor their behavior and overall health closely.
 
-In most cases, horses will be able to drink water that has been contaminated with goat feces without any major [health complications](/can-strangles-from-horse-be-passed-to-goats/).
+In most cases, horses will be able to drink water that has been contaminated with goat feces without any major health complications.
 
-However, if your horse appears to be dehydrated or is showing other signs of illness, it is crucial to [contact a goat expert](/can-contact-with-goats-cause-diarrhea-in-humans/) for further guidance.
+However, if your horse appears to be dehydrated or is showing other signs of illness, it is important to contact a goat expert for further guidance.
 
-Additionally, it is always a good idea to take measures to prevent your horse from consuming contaminated water in the first place, such as by providing them with a clean and reliable source of water that is free from any goat feces.
+It is always a good idea to take measures to prevent your horse from consuming contaminated water in the first place, such as by providing them with a clean and reliable source of water that is free from any goat feces.
 
-By taking these precautions, you can help ensure that your horse stays healthy and hydrated, even in times of need.
+By taking these precautions, you can help make sure that your horse stays healthy and hydrated, even in times of need.

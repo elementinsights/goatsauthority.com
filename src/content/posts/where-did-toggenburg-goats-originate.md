@@ -49,7 +49,7 @@ We'll cover everything below.we will answer those questions for you and provide 
 
 ## Where did Toggenburg goats originate?
 
-Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of [milk per day](/can-i-raise-goats-for-milk-protein/), which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
+Toggenburg goats are known for their excellent milk production. They can produce up to 3 gallons of milk per day, which is more than other popular dairy goat breeds such as the Saanen and the Alpine.
 
 In addition to their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 
@@ -65,7 +65,7 @@ These hardy animals were the first to be officially registered as a breed, and t
 
 With their long floppy ears, short snouts, and distinctive markings that can consist of patches of white and brown hair or completely solid-colored gray coats, Toggenburg goats are easily recognizable.
 
-They are known to be highly adaptable animals that are well suited to a range of different climates and environments. And because they [produce a high volume of rich milk](/can-a-goat-produce-milk-but-also-be-a-pack-goat/), they have long been one of the most important breeds in commercial dairy production.
+They are known to be highly adaptable animals that are well suited to a range of different climates and environments. And because they produce a high volume of rich milk, they have long been one of the most important breeds in commercial dairy production.
 
 In general, Toggenburg goats are an iconic breed that continues to play an important role in the agricultural world today.
 
@@ -79,9 +79,9 @@ They are hardy animals that can thrive in a variety of different climates and te
 
 ## What are the benefits of owning Toggenburg goats?
 
-There are many [benefits to owning Toggenburg goats](/can-benadryl-hurt-a-goat/). As a dairy breed, they are capable of producing large quantities of milk.
+There are many benefits to owning Toggenburg goats. As a dairy breed, they are capable of producing large quantities of milk.
 
-In fact, Toggenburg [goats are known to produce up to 3 gallons of milk per day](/can-a-female-goat-produce-milk-without-being-pregnant/), which is more than other popular dairy breeds such as the Saanen and the Alpine.
+In fact, Toggenburg goats are known to produce up to 3 gallons of milk per day, which is more than other popular dairy breeds such as the Saanen and the Alpine.
 
 On top of their high milk production, Toggenburg goats are also known for their friendly and docile personalities. They are a popular choice for families with children who want to experience the joy of owning goats.
 
@@ -99,7 +99,7 @@ They are not generally aggressive animals and tend to get along well with other 
 
 The cost of a Toggenburg goat can vary depending on a number of factors, including the age, gender, and health of the animal.
 
-[Older goats](/can-i-mix-newborn-goats-and-older-goats/) may be more expensive than younger ones for example, as older animals tend to be more established in terms of their weight and body condition.
+Older goats may be more expensive than younger ones for example, as older animals tend to be more established in terms of their weight and body condition.
 
 It's also worth noting that does (female goats) typically cost more than wethers (gelded males), since does require specialized care during pregnancy and lactation.
 
@@ -109,11 +109,11 @@ In general, a typical Toggenburg goat will typically cost between $300 and $500.
 
 ## What do you need to take into consideration before getting goats?
 
-There are a number of [things that you need to take into consideration before getting goats](/can-a-dog-get-sick-from-a-goat/). To start, it is important to consider your [local zoning laws](/can-i-have-goats-where-i-live/) and regulations.
+There are a number of things that you need to take into consideration before getting goats. To start, it is important to consider your local zoning laws and regulations.
 
-Many areas have strict rules about livestock in residential areas, so it is essential to check with your town or city before moving forward with this decision. Additionally, you need to think about the right breed of goat for your needs and lifestyle.
+Many areas have strict rules about livestock in residential areas, so it is essential to check with your town or city before moving forward with this decision. You need to think about the right breed of goat for your needs and lifestyle.
 
-For example, if you have small children or pets and want a docile animal, a [Nigerian dwarf](/can-nigerian-dwarf-goats-be-with-nubians/) might be more suitable than a larger breed such as an alpine goat.
+For example, if you have small children or pets and want a docile animal, a Nigerian dwarf might be more suitable than a larger breed such as an alpine goat.
 
 You also need to take into account things like fencing requirements and access to water, as well as herd management practices such as regular veterinary care and record-keeping. With proper planning and preparation, but, goats can make great additions to any homestead or farm.
 
@@ -123,11 +123,11 @@ When it comes to taking care of your Toggenburg goats, there are a few key thing
 
 This can be accomplished by regularly clearing out any waste materials from the pen, making sure not to leave food scraps lying around, and having proper ventilation to promote good air circulation.
 
-Additionally, you should always make sure to [provide your goats with fresh water](/can-i-give-a-sick-goat-water-through-a-syringe/) at all times and plenty of high-quality food sources such as hay and grain.
+You should always make sure to provide your goats with fresh water at all times and plenty of high-quality food sources such as hay and grain.
 
 Finally, it is important to monitor the health of your goats on a regular basis, paying close attention for signs of illness or injury so that you can address issues promptly and get them back on their feet as soon as possible.
 
-By following these simple tips for goat care, you can help ensure that your Toggenburgs are healthy, happy, and thriving.
+By following these simple tips for goat care, you can help make sure that your Toggenburgs are healthy, happy, and thriving.
 
 ## Closing Notes
 

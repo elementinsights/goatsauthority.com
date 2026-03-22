@@ -47,21 +47,21 @@ Many people are curious about the dietary habits of goats. Can they eat citrus f
 
 What other types of food do they enjoy? If so, what are the nutritional benefits, and what are the risks?
 
-we will explore the [nutritional value of citrus fruits for goats](/can-goats-eat-overripe-fruit/), as well as some common questions people have about their diet.
+we will explore the nutritional value of citrus fruits for goats, as well as some common questions people have about their diet.
 
 ## Can goats eat citrus fruits?
 
-Still, there are a few [things to consider when feeding citrus fruits to goats](/can-a-dog-get-sick-from-a-goat/). The biggest concern is the acidity of the fruit, which can [cause digestive problems for goats](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Still, there are a few things to consider when feeding citrus fruits to goats. The biggest concern is the acidity of the fruit, which can cause digestive problems for goats.
 
-If you do [feed citrus fruits to goats](/can-a-goat-feed-quads/), make sure to do so in moderation and offer other types of food as well.
+If you do feed citrus fruits to goats, make sure to do so in moderation and offer other types of food as well.
 
 ## Can all kinds of goats eat citrus fruits?
 
 Goats are members of the ruminant family, which includes cows, sheep, and deer. Ruminants have a four-chamber stomach that helps them digest plants more efficiently.
 
-[Goats are known for being able to eat](/can-a-goat-eat-sticker-bushes/) a wide variety of plants, including some that are poisonous to other animals. However, there are some [plants that goats should not eat](/can-goats-eat-any-plant/), including citrus fruits.
+Goats are known for being able to eat a wide variety of plants, including some that are poisonous to other animals. However, there are some plants that goats should not eat, including citrus fruits.
 
-Citrus fruits contain compounds that can be toxic to goats, causing digestive problems and potentially leading to death. For this reason, it's best to avoid [feeding citrus fruits to goats](/can-baking-soda-cause-urinary-issues-in-goats/).
+Citrus fruits contain compounds that can be toxic to goats, causing digestive problems and potentially leading to death. For this reason, it's best to avoid feeding citrus fruits to goats.
 
 ## What are citrus fruits and what do they look like?
 
@@ -111,7 +111,7 @@ Citrus fruits are also a good source of dietary fiber and plant compounds that h
 
 Citrus fruits are a rich source of vitamin C and other nutrients, and they are generally considered to be healthy foods. However, there are a few potential risks associated with eating citrus fruits.
 
-First, the acid in citrus fruits can damage tooth enamel, making teeth more susceptible to cavities. Additionally, citrus fruits may contribute to heartburn or indigestion.
+First, the acid in citrus fruits can damage tooth enamel, making teeth more susceptible to cavities. Citrus fruits may contribute to heartburn or indigestion.
 
 People with ulcers or other digestive disorders may want to limit their intake of citrus fruits.
 
@@ -123,19 +123,19 @@ In general, while there are a few potential risks associated with eating citrus 
 
 There are a few potential risks associated with eating citrus fruits, but these risks are generally minor and can be easily avoided by taking simple precautions.
 
-First, it's crucial to brush your teeth after consuming citrus fruits to protect against tooth enamel damage. Additionally, you may want to avoid eating citrus fruits on an empty stomach or before bedtime to prevent heartburn or indigestion.
+First, it's important to brush your teeth after consuming citrus fruits to protect against tooth enamel damage. You may want to avoid eating citrus fruits on an empty stomach or before bedtime to prevent heartburn or indigestion.
 
-Finally, if you are taking any medications, it's important to check with a healthcare provider before consuming large quantities of citrus fruits. By taking these simple precautions, you can enjoy the delicious taste and [health benefits](/can-goats-eat-gum-tree-leaves/) of citrus fruits without worry.
+Finally, if you are taking any medications, it's important to check with a healthcare provider before consuming large quantities of citrus fruits. By taking these simple precautions, you can enjoy the delicious taste and health benefits of citrus fruits without worry.
 
 ## How many citrus fruits can a goat eat per day?
 
 While goats are known for being able to eat just about anything, there are some foods that are better for them than others. Citrus fruits, for example, are a source of vitamin C, which is essential for goats.
 
-However, too much citrus can cause digestive problems. As a general rule, a [goat can eat](/can-goats-eat-carrots/) about one medium-sized citrus fruit per day.
+However, too much citrus can cause digestive problems. As a general rule, a goat can eat about one medium-sized citrus fruit per day.
 
 But, it's best to introduce citrus slowly into a goat's diet and to offer a variety of other fruits and vegetables as well.
 
-By doing so, you can ensure that your goat stays healthy and gets the nutrients it needs.
+By doing so, you can make sure that your goat stays healthy and gets the nutrients it needs.
 
 ## What other types of food do goats enjoy?
 
@@ -143,7 +143,7 @@ In addition to hay and grass, goats also enjoy a variety of other greens, such a
 
 In fact, goats will often browse just about anything they can get their mouths on.
 
-This nutritional diversity is one of the things that makes goats such versatile animals. Whether they are being raised for milk, meat, or fiber, [goats can thrive on a wide range of food sources](/can-sheep-eat-goat-food/).
+This nutritional diversity is one of the things that makes goats such versatile animals. Whether they are being raised for milk, meat, or fiber, goats can thrive on a wide range of food sources.
 
 As long as they have access to fresh water, goats can make do with surprisingly little.
 
@@ -153,4 +153,4 @@ Citrus fruits are a good source of nutrients like vitamin C, folate, and potassi
 
 As a general rule, a goat can eat about one medium-sized citrus fruit per day.
 
-If you're introducing citrus into a goat's diet, it's best to do so slowly and to offer a variety of other fruits and vegetables as well. [Goats are known for being able to eat](/can-goats-eat-watermelon/) just about anything, but a varied diet is still the best way to ensure that your goat gets all the nutrients it needs.
+If you're introducing citrus into a goat's diet, it's best to do so slowly and to offer a variety of other fruits and vegetables as well. Goats are known for being able to eat just about anything, but a varied diet is still the best way to make sure that your goat gets all the nutrients it needs.

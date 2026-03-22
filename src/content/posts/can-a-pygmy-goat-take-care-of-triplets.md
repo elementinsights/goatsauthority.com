@@ -41,11 +41,11 @@ Many people think pygmy goats make great pets because they are so small and easy
 
 Can a pygmy goat take care of triplets?
 
-we will answer all of your questions about [pygmy goat](/can-i-wash-and-groom-a-pygmy-goat/) triplets, including whether or not they can take care of them and how to best take care of them.
+we will answer all of your questions about pygmy goat triplets, including whether or not they can take care of them and how to best take care of them.
 
 ## Can a pygmy goat take care of triplets?
 
-At the same time, it's crucial to [give the mother goat plenty of food and water](/can-i-give-a-sick-goat-water-through-a-syringe/). She will need extra energy to produce milk for her babies.
+At the same time, it's important to give the mother goat plenty of food and water. She will need extra energy to produce milk for her babies.
 
 It's also important to make sure she has access to a clean, dry place to sleep. Otherwise, she may become stressed and her milk production could suffer.
 
@@ -53,19 +53,19 @@ It's also important to make sure she has access to a clean, dry place to sleep. 
 
 Pygmy goat nursing is all about providing milk for baby pygmy goats. Pygmy goats are not able to produce enough milk on their own to support their young, so they must nurse from another source.
 
-There are a few different options for [pygmy goat](/can-dogs-and-pygmy-goats-live-together/) nursing, including artificial feeding, wet nursing, and cross-nursing. Each option has its own benefits and drawbacks, so you need to choose the right method for your situation.
+There are a few different options for pygmy goat nursing, including artificial feeding, wet nursing, and cross-nursing. Each option has its own benefits and drawbacks, so you need to choose the right method for your situation.
 
-Artificial feeding is the most common method of [pygmy goat](/can-pygmy-goats-eat-eucalyptus/) nursing. This involves using a bottle or special cup to [feed the baby goat milk replacer](/can-i-use-regular-milk-to-feed-a-baby-goat/).
+Artificial feeding is the most common method of pygmy goat nursing. This involves using a bottle or special cup to feed the baby goat milk replacer.
 
-Milk replacer is a powder that is mixed with water to create a formula that closely resembles real goat milk. It's crucial to choose a high-quality milk replacer that contains all of the necessary nutrients for growing [baby goats](/can-a-toddler-catch-a-disease-from-a-baby-goat/).
+Milk replacer is a powder that is mixed with water to create a formula that closely resembles real goat milk. It's important to choose a high-quality milk replacer that contains all of the necessary nutrients for growing baby goats.
 
-One advantage of artificial feeding is that it allows you to control exactly how much [milk the baby goat](/can-i-give-powdered-goat-milk-to-sick-baby-goats/) is getting. But, it can be time-consuming and expensive, and it requires you to have a reliable source of clean water.
+One advantage of artificial feeding is that it allows you to control exactly how much milk the baby goat is getting. But, it can be time-consuming and expensive, and it requires you to have a reliable source of clean water.
 
-Wet nursing is another option for [pygmy goat](/can-pygmy-goats-eat-hay/) nursing. This involves finding another female goat who has recently [given birth and letting her lactate in order to feed the baby goat](/can-too-much-penicillin-given-to-baby-goat-die/).
+Wet nursing is another option for pygmy goat nursing. This involves finding another female goat who has recently given birth and letting her lactate in order to feed the baby goat.
 
 The advantages of wet nursing include that it's more natural than artificial feeding and it does not require you to purchase any special supplies. Even so, it can be difficult to find a willing wet nurse, and there's always the risk of disease transmission.
 
-Cross-nursing is the third option for [pygmy goat](/can-pygmy-goats-eat-milkweed/) nursing. This involves letting the baby goat nurse from a female sheep or cow.
+Cross-nursing is the third option for pygmy goat nursing. This involves letting the baby goat nurse from a female sheep or cow.
 
 The advantage of cross-nursing is that it's usually easy to find a willing mother animal.
 
@@ -77,9 +77,9 @@ Make sure to consult with a veterinarian if you have any concerns about your pyg
 
 ## How do I go about getting a pygmy goat to nurse triplets?
 
-If you have a [female pygmy goat](/can-pygmy-goats-sleep-with-chickens/) that has given birth to triplets, you may be wondering how to go about getting her to nurse them.
+If you have a female pygmy goat that has given birth to triplets, you may be wondering how to go about getting her to nurse them.
 
-The first [thing you need to do is make sure that the goat is healthy](/can-a-dog-get-sick-from-a-goat/) and has enough milk to feed the triplets. If she does not have enough milk, you will need to supplement with formula or another food source.
+The first thing you need to do is make sure that the goat is healthy and has enough milk to feed the triplets. If she does not have enough milk, you will need to supplement with formula or another food source.
 
 Once you have confirmed that the goat has enough milk, you need to make sure that she is comfortable nursing the triplets. You can do this by placing a stool in front of her so that she does not have to bend down too far.
 
@@ -101,7 +101,7 @@ Pygmy goats are small, hardy animals that are well-suited to a life of dairy pro
 
 This makes them an ideal choice for small-scale dairy operations. In addition, pygmy goats are less prone to disease and parasites than other breeds of goat, making them easier to keep healthy.
 
-One more thing: the small size of pygmy [goats means that they require less space than other dairy animals](/can-a-dairy-goats-udder-skin-have-varying-colors/), making them a good choice for farms with limited land resources. All of these factors make pygmy goats an excellent choice for use as wet nurses.
+One more thing: the small size of pygmy goats means that they require less space than other dairy animals, making them a good choice for farms with limited land resources. All of these factors make pygmy goats an excellent choice for use as wet nurses.
 
 ## What are some common problems with pygmy goat nursing?
 
@@ -109,11 +109,11 @@ Pygmy goats are a popular choice for petting zoos and small farms. However, the
 
 There are a few common problems that can occur when pygmy goats are nursing.
 
-One problem is that the goats may not get enough milk. To ensure that your [goat is getting enough milk](/can-i-give-puppy-canned-goats-milk/), you will need to supplement its diet with goat formula or whole milk.
+One problem is that the goats may not get enough milk. To make sure that your goat is getting enough milk, you will need to supplement its diet with goat formula or whole milk.
 
-Another problem is that the [goats may become stressed and stop eating](/can-a-goat-eat-too-many-dewormer-pellets/). This can happen if the goats are separated from their mothers for too long, or if they are introduced to new environments too frequently.
+Another problem is that the goats may become stressed and stop eating. This can happen if the goats are separated from their mothers for too long, or if they are introduced to new environments too frequently.
 
-Finally, some goats may have difficulty digesting milk because of a lack of enzymes. If your [goat is having trouble digesting milk](/can-i-put-safeguard-in-my-goats-milk/), you will need to give it enzymes before each feeding.
+Finally, some goats may have difficulty digesting milk because of a lack of enzymes. If your goat is having trouble digesting milk, you will need to give it enzymes before each feeding.
 
 ### Bottle Feeding the Third Kid as a Backup Plan
 
@@ -155,6 +155,6 @@ Creep feeding is especially important for triplets because the doe simply cannot
 
 A pygmy goat can make a great wet nurse for triplets, but there are a few things you need to keep in mind.
 
-First, you [need to make sure that the goat has enough milk](/can-goat-milk-reduce-wrinkles/). Second, you need to make sure that she is comfortable nursing.
+First, you need to make sure that the goat has enough milk. Second, you need to make sure that she is comfortable nursing.
 
 And finally, you may need to help position the triplets so they can latch on correctly.

@@ -48,7 +48,7 @@ We will discuss the answer to the question along with the benefits, risks, servi
 
 ## Can goats eat corn?
 
-Corn is also a good source of energy for goats. Like [oats](/can-goats-eat-oats/) and [alfalfa](/can-goats-eat-alfalfa/), corn helps provide the energy goats need to maintain their activity levels.
+Corn is also a good source of energy for goats. Like oats and alfalfa, corn helps provide the energy goats need to maintain their activity levels.
 
 Corn is also a good source of vitamins and minerals for goats.
 
@@ -66,9 +66,9 @@ Corn is also a good source of vitamins and minerals for pregnant goats.
 
 ## Can a baby goat eat corn?
 
-Corn is a type of grain that is safe for baby goats to eat. You can give your goat corn kernels, [corn on the cob](/can-goats-eat-corn-on-the-cob/), or even [popcorn](/can-goats-eat-popcorn-simple-guide-to-a-healthy-diet/).
+Corn is a type of grain that is safe for baby goats to eat. You can give your goat corn kernels, corn on the cob, or even popcorn.
 
-Baby goats need a diet that includes both [hay](/what-kind-of-hay-do-goats-eat/) and grain in order to get all the nutrients they need. Corn is a good source of carbohydrates, which are an important energy source for baby goats.
+Baby goats need a diet that includes both hay and grain in order to get all the nutrients they need. Corn is a good source of carbohydrates, which are an important energy source for baby goats.
 
 You can either offer corn as a treat or mix it into your goat's hay. Either way, your goat will enjoy munching on this delicious grain.
 
@@ -78,7 +78,7 @@ Corn is a staple feed for goats and there are many benefits to feeding them this
 
 This is especially important for lactating does or those that are being used for meat production. Corn is also a good source of protein, which is essential for proper growth and development.
 
-Additionally, corn contains essential vitamins and minerals, such as vitamin A, thiamine, and niacin. These nutrients are necessary for the overall health of goats.
+Corn contains essential vitamins and minerals, such as vitamin A, thiamine, and niacin. These nutrients are necessary for the overall health of goats.
 
 Finally, corn is a relatively inexpensive feed option, making it a good choice for those on a budget. When fed in moderation, corn can be a healthy and nutritious part of a goat's diet.
 
@@ -96,7 +96,7 @@ Another issue with feeding corn to goats is that it can cause them to become ove
 
 In fact, too much corn can lead to obesity and other health problems in goats. If you do decide to feed your goats corn, be sure to do so in moderation and monitor their weight closely.
 
-One more thing: it's important to note that corn is not a natural part of a goat's diet. Goats are grazing animals, and they should primarily eat [grasses](/can-goats-eat-kentucky-bluegrass/) and other plants.
+One more thing: corn is not a natural part of a goat's diet. Goats are grazing animals, and they should primarily eat grasses and other plants.
 
 Feeding them large quantities of corn can upset their digestive system and cause health problems.
 
@@ -110,7 +110,7 @@ When first adding grain to a goat's diet, start with a small amount and graduall
 
 This will help prevent digestive upset. If fed too much grain, goats may also develop manure that is soft or runny.
 
-The best way to avoid these problems is to only feed a small amount of grain per day and supplement with [hay](/can-goats-eat-timothy-hay/) and/or pasture.
+The best way to avoid these problems is to only feed a small amount of grain per day and supplement with hay and/or pasture.
 
 Adult goats only require 2-3 lbs of grain per day while kids need 6-8% of their body weight in grain per day. For example, if you have a doe that weighs 100lbs, she would need 10lbs of grain per day.
 
@@ -128,7 +128,7 @@ You may not realize it, but corn is actually grass. Its scientific name is Zea m
 
 Corn is native to the Americas, and it was first domesticated by Native Americans over 7,000 years ago. Today, it's one of the most widely-grown crops in the world.
 
-There are three main types of corn: sweet corn, field corn, and popcorn. You may also wonder whether goats can eat [sweet potatoes](/can-goats-eat-sweet-potatoes/) or [potatoes](/can-goats-eat-potatoes/) as alternative energy sources. Sweet corn is the type that you usually eat as a vegetable.
+There are three main types of corn: sweet corn, field corn, and popcorn. You may also wonder whether goats can eat sweet potatoes or potatoes as alternative energy sources. Sweet corn is the type that you usually eat as a vegetable.
 
 It has a high sugar content, and it's often used in salads or boiled as a side dish.
 
@@ -154,6 +154,6 @@ A goat that gets too much corn can develop acidosis, which is a dangerous drop i
 
 Goats can eat corn, However, there are some risks to consider before adding it to their diet. Corn is high in sugar and can lead to blackheads if not fed in moderation.
 
-Additionally, corn can cause goats to become overweight if they eat too much of it.
+Corn can cause goats to become overweight if they eat too much of it.
 
-Finally, corn is not a natural part of a goat's diet and can upset their digestive system if not fed in moderation. If you do choose to feed your goats corn, make sure to do so sparingly and only as part of a well-rounded diet that includes [vegetables](/can-goats-eat-carrots/) and quality forage.
+Finally, corn is not a natural part of a goat's diet and can upset their digestive system if not fed in moderation. If you do choose to feed your goats corn, make sure to do so sparingly and only as part of a well-rounded diet that includes vegetables and quality forage.

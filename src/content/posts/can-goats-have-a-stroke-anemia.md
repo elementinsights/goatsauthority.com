@@ -36,13 +36,13 @@ We all know that goats are resilient creatures. But even the heartiest of goats 
 
 One common question that goat owners ask is: can goats have a stroke? And if so, what are the things that you need to look out for?
 
-we will answer all your questions about strokes in goats, including the [symptoms to look out for and the best course of treatment](/can-a-goat-get-rabies/).
+we will answer all your questions about strokes in goats, including the symptoms to look out for and the best course of treatment.
 
 ## Can goats have a stroke anemia?
 
 In addition to stroke anemia, goats can also suffer from heart attacks, which are when the heart muscle is damaged due to a lack of blood flow.
 
-If you think that your goat may be suffering from a stroke or a [heart attack](/can-a-cdt-shot-kill-a-goat/), it is important to get them to a goat expert as soon as possible.
+If you think that your goat may be suffering from a stroke or a heart attack, it is important to get them to a goat expert as soon as possible.
 
 ## What is a stroke in goats and what are the symptoms to look out for?
 
@@ -52,7 +52,7 @@ When the brain doesn't get the oxygen it needs, damage can occur.
 
 Symptoms of a stroke can include weakness, paralysis, seizures, and changes in mental status. If you suspect your goat is having a stroke, you need to seek a veterinarian care immediately.
 
-With prompt treatment, many [goats make a full recovery](/can-i-remove-my-goat-full-grown-horns/).
+With prompt treatment, many goats make a full recovery.
 
 Then again, if the brain is without oxygen for too long, permanent damage can occur. If you are raising goats, you need to be aware of the signs of a stroke so that you can get your animal the help it needs as quickly as possible.
 
@@ -60,11 +60,11 @@ Then again, if the brain is without oxygen for too long, permanent damage can oc
 
 A stroke is a serious medical condition that can have devastating consequences. While strokes are relatively rare in goats, they can occur due to a variety of causes.
 
-One of the most common [causes of strokes in goats](/can-alfalfa-pellets-cause-goats-to-bloat/) is head trauma. If a goat hits its head hard enough, it can damage the blood vessels and cause them to bleed.
+One of the most common causes of strokes in goats is head trauma. If a goat hits its head hard enough, it can damage the blood vessels and cause them to bleed.
 
 This can lead to a build-up of pressure in the brain, which can eventually result in a stroke.
 
-Another common [cause of strokes in goats](/can-goats-cause-slope/) is infection. If a goat is infected with a virus or bacteria, it can damage the blood vessels and lead to a stroke.
+Another common cause of strokes in goats is infection. If a goat is infected with a virus or bacteria, it can damage the blood vessels and lead to a stroke.
 
 Finally, strokes can also be caused by nutritional deficiencies. If a goat doesn't get enough vitamins and minerals, it can lead to problems with blood flow and eventually a stroke.
 
@@ -74,7 +74,7 @@ While strokes are dangerous, they can often be treated if caught early enough. I
 
 When a goat has a stroke, you need to seek treatment as quickly as possible. A stroke is a medical emergency and can be fatal if not treated promptly.
 
-There are three main types of strokes that can [affect goats](/can-weather-affect-goats-poop/): cerebral, cerebellar, and brainstem.
+There are three main types of strokes that can affect goats: cerebral, cerebellar, and brainstem.
 
 Each type of stroke requires different treatment, so you need to receive a diagnosis from a veterinarian as soon as possible. Treatment for a cerebral stroke may include surgery to remove the clot or relieve pressure on the brain.
 
@@ -96,9 +96,9 @@ Prevention of strokes in goats is best achieved through early detection and trea
 
 For example, if your goat has a disease of the brain or blood vessels, you need to monitor them closely and treat any potential problems promptly.
 
-Head trauma can also be prevented by ensuring that your [goat has a safe environment to live](/can-goats-live-in-an-urban-environment/) in and avoiding situations that could put them at risk for injury.
+Head trauma can also be prevented by ensuring that your goat has a safe environment to live in and avoiding situations that could put them at risk for injury.
 
-One more thing: keeping your goat up-to-date on their [vaccinations](/can-goats-recover-from-polio-without-medication/) can help to protect them from certain diseases that could lead to strokes.
+One more thing: keeping your goat up-to-date on their vaccinations can help to protect them from certain diseases that could lead to strokes.
 
 ### When is it time to see a veterinarian?
 
@@ -114,7 +114,7 @@ Treatment for a brainstem stroke may include supporting the goat's respiratory a
 
 Goats are susceptible to many of the same health problems as other livestock animals. However, due to their small size and unique anatomy, there are some conditions that are more common in goats than in other animals.
 
-Pregnancy toxemia, for example, is a condition that can occur in [pregnant goats](/can-pregnant-goats-eat-medicated-feed/) and can be fatal if not treated promptly. Another common problem in goats is parasite infestation, which can cause a variety of health problems if left untreated.
+Pregnancy toxemia, for example, is a condition that can occur in pregnant goats and can be fatal if not treated promptly. Another common problem in goats is parasite infestation, which can cause a variety of health problems if left untreated.
 
 If you have any concerns about your goat's health, it is always best to consult with a goat expert. They will be able to provide you with the most up-to-date information on how to keep your goat healthy and happy.
 

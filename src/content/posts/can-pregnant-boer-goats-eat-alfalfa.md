@@ -49,9 +49,9 @@ We will answer those questions in this article and provide you with additional i
 
 ## Can pregnant Boer goats eat alfalfa?
 
-Still, you should still be cautious when [feeding alfalfa to your goats](/can-a-goat-feed-quads/). Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume.
+Still, you should still be cautious when feeding alfalfa to your goats. Alfalfa is a very high-energy food, so it's important to limit the amount your goats consume.
 
-Too much alfalfa can lead to obesity and other health problems. Be aware that [alfalfa pellets can also cause bloating](/can-alfalfa-pellets-cause-goats-to-bloat/).
+Too much alfalfa can lead to obesity and other health problems. Be aware that alfalfa pellets can also cause bloating.
 
 ## What is alfalfa and what are its benefits for pregnant Boer goats?
 
@@ -59,17 +59,17 @@ Alfalfa, also known as lucerne, is a type of legume that is commonly used to fee
 
 In addition to its nutritional benefits, alfalfa is also beneficial for pregnant Boer goats. Not only does it promote healthy growth in the developing offspring, but it can also help boost milk production in lactating goats.
 
-Plus, studies have shown that feeding alfalfa to [Boer goats](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) can improve gut health and reduce inflammation.
+Plus, studies have shown that feeding alfalfa to Boer goats can improve gut health and reduce inflammation.
 
 Overall, if you're looking for an effective and nutritious feed for your pregnant Boer goats, alfalfa is certainly worth considering.
 
 ## How much alfalfa should pregnant Boer goats eat?
 
-Generally speaking, [pregnant goats](/can-a-pregnant-goat-have-penicillin/) will require more nutrients in order to support the growth of their young and satisfy the demands of milk production.
+Generally speaking, pregnant goats will require more nutrients in order to support the growth of their young and satisfy the demands of milk production.
 
-This can include an increased need for protein, minerals such as calcium and phosphorus, and fiber from sources like alfalfa or [timothy hay](/can-goats-eat-timothy-hay/).
+This can include an increased need for protein, minerals such as calcium and phosphorus, and fiber from sources like alfalfa or timothy hay.
 
-Therefore, a good starting point for determining the ideal amount of alfalfa for [pregnant goats](/can-pregnant-goats-have-injectable-b12/) would be to first consult with a goat expert or a certified animal nutritionist.
+Therefore, a good starting point for determining the ideal amount of alfalfa for pregnant goats would be to first consult with a goat expert or a certified animal nutritionist.
 
 From there, you can tailor your diet based on your goat's age and breed, her health, and condition before she became pregnant, and whether there are other animals in the herd who might benefit from eating more alfalfa as well.
 
@@ -79,7 +79,7 @@ At the end of the day, though, it is important to remember that every animal is 
 
 There is no clear answer to the question of when to feed alfalfa to pregnant Boer goats, as different types of goats and different stages of pregnancy will require different levels of nutrition.
 
-Be aware, it is typically recommended that [pregnant goats](/can-you-deworm-a-pregnant-goat/) be given alfalfa between 2-4 weeks before their due date, in order to ensure both their own nutrition and the health of the developing offspring.
+Be aware, it is typically recommended that pregnant goats be given alfalfa between 2-4 weeks before their due date, in order to make sure both their own nutrition and the health of the developing offspring.
 
 This timing will vary based on factors such as the size and stage of pregnancy for each individual goat, so it is best to consult with a trusted veterinarian or another experienced professional in order to determine the best feeding schedule for your herd.
 
@@ -97,9 +97,9 @@ At the end of the day, the best way to determine whether or not there are any ne
 
 ## How to prevent health problems in Boer goats?
 
-One of the best ways to prevent health problems in Boer goats is to ensure that they are receiving a balanced diet.
+One of the best ways to prevent health problems in Boer goats is to make sure that they are receiving a balanced diet.
 
-This means providing them with access to fresh, clean water at all times, as well as a variety of nutritious foods like [oats](/can-goats-eat-oats/) and vegetables that will meet their individual needs.
+This means providing them with access to fresh, clean water at all times, as well as a variety of nutritious foods like oats and vegetables that will meet their individual needs.
 
 Also, it is important to keep an eye on the goats for any signs of illness or injury and to consult with a goat expert if any problems arise.
 
@@ -117,7 +117,7 @@ The most important thing is to catch the problem early and to get professional h
 
 There are a few key signs that can indicate whether your pregnant goat is getting enough nutrition from her food.
 
-For starters, it's important to look at the quality of the goat's coat and skin. A nutritious diet will result in healthy, shiny fur, while a malnourished animal may have dull, dry skin and hair. Supplementing with [sunflower seeds](/can-goats-eat-sunflower-seeds/) can help improve coat quality.
+For starters, it's important to look at the quality of the goat's coat and skin. A nutritious diet will result in healthy, shiny fur, while a malnourished animal may have dull, dry skin and hair. Supplementing with sunflower seeds can help improve coat quality.
 
 In addition, you should check for weight loss or weight gain, as this can be an indicator of whether the goat is getting adequate nutrition from its food.
 
@@ -149,4 +149,4 @@ However, overall, feeding alfalfa to these goats at some point during pregnancy 
 
 There is some debate among farmers about whether or not there are any negative side effects of doing so, but ultimately the decision should be based on the individual needs of each goat.
 
-If you have any concerns, be sure to speak with a veterinarian about the best way to proceed. You may also want to learn about [what kind of hay goats eat](/what-kind-of-hay-do-goats-eat/). By following their advice and taking care of your goats, you can help them stay healthy and happy for many years to come.
+If you have any concerns, be sure to speak with a veterinarian about the best way to proceed. You may also want to learn about what kind of hay goats eat. By following their advice and taking care of your goats, you can help them stay healthy and happy for many years to come.

@@ -50,7 +50,7 @@ Here's the short version.we will answer those questions about ibuprofen and goat
 
 Also, ibuprofen may decrease milk production in some lactating goats. If you are considering giving ibuprofen to a lactating goat, be sure to consult with a veterinarian first.
 
-Despite the fact that ibuprofen can be given to lactating goats, it is important to remember that it is a medication. As with any medication, there are [risks and side effects](/can-a-cdt-shot-kill-a-goat/) associated with its use.
+Despite the fact that ibuprofen can be given to lactating goats, it is important to remember that it is a medication. As with any medication, there are risks and side effects associated with its use.
 
 Be sure to talk to a goat expert about the risks and benefits of giving ibuprofen to a lactating goat before doing so.
 
@@ -66,7 +66,7 @@ By blocking these chemicals, ibuprofen reduces the severity of these symptoms, m
 
 Interestingly, ibuprofen can also have an effect on lactating goats. Studies have shown that the drug can slightly decrease milk production in lactating goats from 2-10%, though this reduction is generally dose-dependent and does not occur at low doses.
 
-What's more, certain studies have found that ibuprofen may help to relieve some symptoms of [mastitis](/can-you-drink-milk-from-goats-with-mastitis/) in goats; but, more research is needed in this area before definitive conclusions can be made.
+What's more, certain studies have found that ibuprofen may help to relieve some symptoms of mastitis in goats; but, more research is needed in this area before definitive conclusions can be made.
 
 Overall, while ibuprofen may not be appropriate as a long-term solution for treating diseases in lactating goats, it can be a useful tool to help relieve some of their associated symptoms.
 
@@ -88,17 +88,17 @@ The dosage depends on factors such as the size and age of the goat, as well as t
 
 Generally speaking, though, it is recommended that ibuprofen doses should not exceed 200 milligrams per kilogram of body weight or about 22 milligrams per pound.
 
-Plus, trained goat experts must carefully monitor ibuprofen intake for goats to [reduce the likelihood of harmful side effects](/can-a-cdt-shot-kill-a-goat/).
+Plus, trained goat experts must carefully monitor ibuprofen intake for goats to reduce the likelihood of harmful side effects.
 
 In general, while there is no easy answer to this question, it is clear that ibuprofen should be administered with caution when treating goats.
 
 ## What are the side effects of ibuprofen in goats?
 
-There are several side effects associated with ibuprofen when it is consumed by goats. For starters, it has been shown to [cause damage to the kidneys and other urinary organs](/can-baking-soda-cause-urinary-issues-in-goats/) in these animals.
+There are several side effects associated with ibuprofen when it is consumed by goats. For starters, it has been shown to cause damage to the kidneys and other urinary organs in these animals.
 
-Additionally, it can lead to digestive issues like diarrhea, as well as changes in blood pressure and heart rate.
+It can lead to digestive issues like diarrhea, as well as changes in blood pressure and heart rate.
 
-In rare cases, ibuprofen can even cause [bleeding in the stomach or intestines of goats](/can-contact-with-goats-cause-diarrhea-in-humans/). Because of these potential complications, ibuprofen should be administered cautiously and only under close supervision from a goat expert.
+In rare cases, ibuprofen can even cause bleeding in the stomach or intestines of goats. Because of these potential complications, ibuprofen should be administered cautiously and only under close supervision from a goat expert.
 
 So if you're a goat owner, it's important to take measures to minimize your goat's exposure to this drug whenever possible.
 
@@ -106,7 +106,7 @@ So if you're a goat owner, it's important to take measures to minimize your goat
 
 The first step in administering ibuprofen to a goat is to evaluate the situation. If the goat has been seriously injured and is in pain, it's vital that you act quickly to help limit its suffering.
 
-You may [need to use force if the goat refuses to eat or drink](/can-goats-drink-vinegar/), so be sure to approach it gently but firmly.
+You may need to use force if the goat refuses to eat or drink, so be sure to approach it gently but firmly.
 
 Once you have determined that an ibuprofen dose is appropriate for the situation, you can begin preparing the medication for administration.
 
@@ -114,7 +114,7 @@ The easiest way to do this is by crushing several pills using a mortar and pestl
 
 It's important that none of the powder comes into contact with your skin, so be sure to wear gloves when handling it.
 
-Once it's fully crushed, [mix the powder with a small amount of food or water and give it directly to the goat](/can-i-give-powdered-goat-milk-to-sick-baby-goats/).
+Once it's fully crushed, mix the powder with a small amount of food or water and give it directly to the goat.
 
 If possible, watch the goat closely after administering the medication. This will help you to make sure that your treatment has been effective, as well as provide valuable insight into how much ibuprofen your goat needs in future situations where pain relief may be required.
 
@@ -124,7 +124,7 @@ With careful attention and a little luck, you should be able to successfully tre
 
 There are a number of alternative treatments for pain in goats, many of which can be just as effective as ibuprofen.
 
-For example, some herbal supplements such as eucalyptus oil or turmeric have been shown to provide relief from [inflammation](/can-i-put-neosporin-on-my-goats/) and reduce pain.
+For example, some herbal supplements such as eucalyptus oil or turmeric have been shown to provide relief from inflammation and reduce pain.
 
 In addition, techniques like acupressure or massage can be effective tools for alleviating both acute and chronic pain.
 

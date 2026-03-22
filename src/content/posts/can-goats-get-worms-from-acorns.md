@@ -47,9 +47,9 @@ we will answer the question, can goats get worms from acorns. We will also discu
 
 ## Can goats get worms from acorns?
 
-Beyond that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when [goats were fed](/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat/) a diet of 80% acorns, they did not develop any parasites.
+Beyond that, goats are resistant to the parasites that live in acorns. A study conducted in Spain found that when goats were fed a diet of 80% acorns, they did not develop any parasites.
 
-So, if your [goat is eating acorns](/can-postpartum-women-eat-goats/), there is no need to worry about them getting worms. But, you should still consult with a veterinarian to make sure that your goat
+So, if your goat is eating acorns, there is no need to worry about them getting worms. But, you should still consult with a veterinarian to make sure that your goat
 
 ## What do goats eat, and why they might be interested in acorns?
 
@@ -57,33 +57,33 @@ Goats are herbivores, which means that they primarily eat plants. In the wild, g
 
 They are especially fond of young, tender growth, and they will often strip the leaves off of a plant before moving on to the next one. This behavior can be detrimental to the health of the plant, and it can also lead to soil erosion.
 
-In addition to plants, [goats will also consume small amounts](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of sand and stone. This helps them to digest their food properly and provides them with important minerals.
+In addition to plants, goats will also consume small amounts of sand and stone. This helps them to digest their food properly and provides them with important minerals.
 
-Although goats will consume practically any kind of plant, they particularly enjoy acorns. Acorns are actually a nutritious [food source for goats](/can-sheep-eat-goat-food/), which may seem surprising to say.
+Although goats will consume practically any kind of plant, they particularly enjoy acorns. Acorns are actually a nutritious food source for goats, which may seem surprising to say.
 
-They are rich in protein and fat and have important vitamins and minerals. Acorns can also [benefit the condition of a goat's coat](/can-benadryl-hurt-a-goat/).
+They are rich in protein and fat and have important vitamins and minerals. Acorns can also benefit the condition of a goat's coat.
 
 Because of these factors, goats frequently seek out acorns when they are there.
 
 ## What are the benefits of feeding goats acorns?
 
-[Goats can benefit greatly from eating acorns](/can-goats-eat-acorns/) because they are a healthy food source. Acorns are rich in protein and fat, as we already stated.
+Goats can benefit greatly from eating acorns because they are a healthy food source. Acorns are rich in protein and fat, as we already stated.
 
-Additionally, they provide important vitamins and minerals like calcium, phosphorus, potassium, and magnesium. A [goat's coat can benefit from eating acorns](/can-a-goat-eat-too-many-dewormer-pellets/) as well.
+They provide important vitamins and minerals like calcium, phosphorus, potassium, and magnesium. A goat's coat can benefit from eating acorns as well.
 
-One of the most important [benefits of feeding goats](/can-goats-eat-chicken-feed/) acorns is that they can help to reduce parasites. This is due to the fact that acorns contain tannins, which have anti-parasitic properties.
+One of the most important benefits of feeding goats acorns is that they can help to reduce parasites. This is due to the fact that acorns contain tannins, which have anti-parasitic properties.
 
 Tannins are also unpalatable to goats and other animals, so they are less likely to eat them.
 
 ## How many acorns should a goat eat per day?
 
-There is no set amount of acorns that a [goat should eat](/can-a-goat-eat-sticker-bushes/) per day. However, you should consult with a veterinarian to make sure that your goat is getting enough to meet their nutritional needs.
+There is no set amount of acorns that a goat should eat per day. However, you should consult with a veterinarian to make sure that your goat is getting enough to meet their nutritional needs.
 
 In general, goats should consume 2-3% of their body weight in dry matter per day. This includes hay, grain, and other roughage.
 
-For a 100-pound goat, this would be 2-3 pounds of dry matter per day. If you are [feeding your goat](/can-baking-soda-cause-urinary-issues-in-goats/) acorns, they can make up a significant portion of their diet.
+For a 100-pound goat, this would be 2-3 pounds of dry matter per day. If you are feeding your goat acorns, they can make up a significant portion of their diet.
 
-If you are unsure about how many acorns to [feed your goat](/can-a-goat-feed-quads/), it is best to start with a small amount and increase it gradually. This will help you to avoid overfeeding, which can lead to health problems.
+If you are unsure about how many acorns to feed your goat, it is best to start with a small amount and increase it gradually. This will help you to avoid overfeeding, which can lead to health problems.
 
 ## Symptoms of worms in goats
 

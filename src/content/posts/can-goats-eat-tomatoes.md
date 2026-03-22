@@ -44,7 +44,7 @@ faq:
     answer: "Can goats eat tomatoes, whether raw or cooked? This is a question many goat owners ask. The simple answer is yes. Goats can safely consume both raw and cooked tomatoes."
 ---
 
-I’m a goat owner, just like many of you. We all want what’s best for our four-legged friends.
+I’m a goat owner, just like many of you. We all want what’s best for our goats.
 
 One common question I hear is about goats and tomatoes. It might seem odd, but it comes up more than you’d think.
 
@@ -54,11 +54,11 @@ So let’s get into it, can goats really eat tomatoes? Stick around to find out 
 
 However, not everything is good for them to consume.
 
-Tomatoes fall under the category of safe foods for goats. These animals have [strong digestive systems](/can-goats-digest-anything/) that handle tomatoes well without causing any harm.
+Tomatoes fall under the category of safe foods for goats. These animals have strong digestive systems that handle tomatoes well without causing any harm.
 
 It’s important to note though that while the fruit part of tomato plants is safe, other parts aren’t as friendly to our goat friends’ stomachs. The leaves and stems contain solanine, a harmful substance if ingested by goats in large amounts.
 
-So when feeding your goat tomatoes, make sure you’re only giving them ripe fruits and avoiding green ones or those still attached to vines with leaves and stems intact. Safer fruit options include [apples](/can-goats-eat-apples/) and [watermelon](/can-goats-eat-watermelon/).
+So when feeding your goat tomatoes, make sure you’re only giving them ripe fruits and avoiding green ones or those still attached to vines with leaves and stems intact. Safer fruit options include apples and watermelon.
 
 In moderation, these juicy treats can be beneficial too. Tomatoes offer nutrients like vitamin C which boosts immunity among others benefits.
 
@@ -76,9 +76,9 @@ Vitamin C boosts their immune system while vitamin K is essential for blood clot
 
 Minerals such as potassium contribute to nerve function and muscle control. Manganese plays a role in bone development, metabolism, and enzyme functions.
 
-Remember too that green parts of tomato plants like leaves or stems should never be fed to goats as they contain toxins harmful for them. Stick to safe vegetables like [carrots](/can-goats-eat-carrots/) or [celery](/can-goats-eat-celery/).
+Remember too that green parts of tomato plants like leaves or stems should never be fed to goats as they contain toxins harmful for them. Stick to safe vegetables like carrots or celery.
 
-So yes, you can feed ripe tomatoes but moderation is key here just like any other food item added into their diet beyond regular [hay](/what-kind-of-hay-do-goats-eat/) or grain ration.
+So yes, you can feed ripe tomatoes but stick to small amounts here just like any other food item added into their diet beyond regular hay or grain ration.
 
 ## Can Goats Eat Tomato Plants, Leaves, Vines, and Roots?
 
@@ -122,9 +122,9 @@ Tomatoes are not harmful to goats in any way. They contain nutrients that are be
 
 However, it’s important to note that the green parts of the tomato plant should be avoided. These include stems and leaves which have solanine, a toxic substance for most animals including goats.
 
-Cooked tomatoes might seem like an unusual food choice for your furry friend but they’re safe too if prepared properly. Make sure you remove all seasonings before feeding them to your goat because some spices could upset their stomachs.
+Cooked tomatoes might seem like an unusual food choice for your goat but they’re safe too if prepared properly. Make sure you remove all seasonings before feeding them to your goat because some spices could upset their stomachs.
 
-Remember moderation is key when introducing new foods into your goat’s diet even if it’s something as harmless as tomatoes.
+Remember keep portions small when introducing new foods into your goat’s diet even if it’s something as harmless as tomatoes.
 
 So next time you find yourself with extra ripe or overcooked tomatoes don’t hesitate to share them with your beloved pet goat.
 
@@ -138,13 +138,13 @@ However, there are some important points to remember. First off, the tomato shou
 
 Green parts of the plant contain solanine which can harm your kid.
 
-Also, moderation is key when feeding any treat to your goats including tomatoes. Too much could lead to stomach upset in young ones especially if they’re still nursing or just starting on solid foods.
+Also, don't overdo it when feeding any treat to your goats including tomatoes. Too much could lead to stomach upset in young ones especially if they’re still nursing or just starting on solid foods.
 
-Remember that while treats like fruits and vegetables add variety into their diet it’s essential for them also get balanced nutrition from hay, [oats](/can-goats-eat-oats/), and other sources too
+Remember that while treats like fruits and vegetables add variety into their diet it’s essential for them also get balanced nutrition from hay, oats, and other sources too
 
 Lastly never feed rotten spoiled food as this may cause serious health problems even death so always ensure freshness before giving anything new
 
-So go ahead share those juicy red orbs with your furry friends but do it wisely.
+So go ahead share those juicy red orbs with your goats but do it wisely.
 
 ## Preparing Tomatoes for Your Herd
 
@@ -180,7 +180,7 @@ A sick goat may seem tired or not as playful as usual. It could refuse to eat it
 
 A more serious sign is diarrhea, a common symptom when goats consume foods outside their normal diet like tomatoes which contain solanine (a toxic substance). However, don’t panic right away because small amounts usually won’t harm them but large quantities certainly will.
 
-All in all, keep an eye on your furry friend after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
+All in all, keep an eye on your goat after suspecting ingestion of tomatoes and consult with a vet if needed just to be safe.
 
 ## What to Do if You Suspect That Your Goat Has Ingested a Tomato Plant
 
@@ -222,11 +222,11 @@ Goats are known for their strong stomachs. They can eat a lot of things, but not
 
 Some foods may even be toxic.
 
-One food to avoid is [avocado](/can-goats-eat-avocado/). The skin and pit contain persin, which is harmful to goats.
+One food to avoid is avocado. The skin and pit contain persin, which is harmful to goats.
 
 It’s best to keep avocados away from your goat friends.
 
-[Chocolate](/can-goats-eat-chocolate/) also isn’t safe for goats. This sweet treat contains theobromine that can lead to serious health problems in goats if consumed in large amounts.
+Chocolate also isn’t safe for goats. This sweet treat contains theobromine that can lead to serious health problems in goats if consumed in large amounts.
 
 Another dangerous food item is coffee grounds or tea bags due its caffeine content which could potentially harm a goat’s digestive system.
 
@@ -246,8 +246,8 @@ So if your goat munches on whole tomato plants, it could get sick.
 
 Preventing this isn’t too hard though. First off, you need good fencing around your garden or farm area where you grow tomatoes.
 
-Goats are smart animals that can easily [jump over](/can-goats-jump-high/) low fences so make sure yours is high enough.
+Goats are smart animals that can easily jump over low fences so make sure yours is high enough.
 
 Then, train your goats not to go near these areas by guiding them away whenever they approach it. It might take some time but with patience and consistency in training, most goats will learn what’s off-limits quickly.
 
-And finally, provide plenty of other safe foods like [pumpkin](/can-goats-eat-pumpkin/) for your goat so they won’t feel tempted by those tempting red fruits hanging from forbidden branches.
+And finally, provide plenty of other safe foods like pumpkin for your goat so they won’t feel tempted by those tempting red fruits hanging from forbidden branches.

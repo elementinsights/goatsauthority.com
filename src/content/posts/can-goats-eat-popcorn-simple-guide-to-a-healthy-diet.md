@@ -51,15 +51,15 @@ I’m a goat owner, just like you. Over the years, I’ve had many questions abo
 
 One question that comes up often is about popcorn.
 
-It’s a simple snack we humans enjoy, but can our furry friends partake too? It seems harmless enough for us, but how does it affect them?
+It’s a simple snack we humans enjoy, but can our goats partake too? It seems harmless enough for us, but how does it affect them?
 
 We'll cover everything below.we’ll look into whether or not goats can safely munch on popcorn. Let’s get started.
 
 ## Can Goats Eat Popcorn?
 
-They need foods rich in nutrients like fresh [vegetables](/can-goats-eat-carrots/), [hay](/can-goats-eat-timothy-hay/) or grains. So while they might enjoy the occasional popcorn snack, don’t make it a habit.
+They need foods rich in nutrients like fresh vegetables, hay or grains. So while they might enjoy the occasional popcorn snack, don’t make it a habit.
 
-Remember that moderation is key when feeding treats to your goat. Too much of anything can lead to health problems down the line.
+Remember that stick to small amounts when feeding treats to your goat. Too much of anything can lead to health problems down the line.
 
 ### What Other Grains Can Goats Eat Apart From Popcorn?
 
@@ -67,7 +67,7 @@ Goats can eat more than just popcorn. They enjoy a variety of grains, such as oa
 
 These provide essential nutrients that keep them healthy.
 
-[Corn](/can-goats-eat-corn/) is another favorite among goats. It’s rich in energy, making it an excellent choice for their diet.
+Corn is another favorite among goats. It’s rich in energy, making it an excellent choice for their diet.
 
 Wheat is also safe for goats to consume. But remember not to overfeed them with any grain including popcorn because too much could cause health problems like bloating or obesity.
 
@@ -89,7 +89,7 @@ This could lead to health issues like bloating or indigestion.
 
 It’s best to stick with plain, air-popped popcorn if you want to give your goat a treat. Remember though, treats should only make up about 10% of their diet.
 
-The rest should consist of hay, [grains](/can-goats-eat-oats/) and fresh water for optimal health.
+The rest should consist of hay, grains and fresh water for optimal health.
 
 ## Are Popcorn Kernels Safe for Goats?
 
@@ -99,7 +99,7 @@ It’s best to avoid giving them popcorn at all.
 
 But if you must share, only give popped corn. The fluffy part is easier on their system and less likely to harm them.
 
-Remember though, treats should be a small part of their diet. **Goats need proper food like [hay and grains](/can-goats-eat-alfalfa/) to stay healthy**.
+Remember though, treats should be a small part of their diet. **Goats need proper food like hay and grains to stay healthy**.
 
 Popcorn doesn’t offer much nutritionally so it shouldn’t replace regular meals.
 
@@ -113,7 +113,7 @@ The problem with popcorn for goats lies in the additives we humans love, salt an
 
 Too much can lead to health issues like obesity or heart problems.
 
-So, while an occasional piece won’t hurt your goat, don’t make it a habit. Stick to [healthier treats](/can-goats-eat-blueberries/) instead.
+So, while an occasional piece won’t hurt your goat, don’t make it a habit. Stick to healthier treats instead.
 
 ## How Often Can Goats Eat Popcorn?
 
@@ -127,13 +127,13 @@ Remember, their main diet should be hay, grains and fresh water with occasional 
 
 ## How Much Popcorn Should I Feed My Goat or Alpaca?
 
-Regarding feeding your goat or alpaca popcorn, moderation is key. A handful of popcorn can be a fun treat every now and then.
+Regarding feeding your goat or alpaca popcorn, keep portions small. A handful of popcorn can be a fun treat every now and then.
 
 But remember, too much of anything isn’t good for them. Popcorn should never replace their regular diet which consists mainly of hay and grains.
 
 Popcorn contains fiber but lacks the nutrients they need daily. It’s best used as an occasional reward rather than a staple food item in their diet.
 
-Always ensure that any popcorn given is plain without salt or butter as these ingredients can harm goats and alpacas.
+Always make sure that any popcorn given is plain without salt or butter as these ingredients can harm goats and alpacas.
 
 ## Can Baby Goats Have Popcorn, Too?
 
@@ -141,7 +141,7 @@ Baby goats, also known as kids, have a different diet than adult goats. Their st
 
 Popcorn isn’t harmful to them but it’s not the best choice either. It doesn’t offer much nutrition for growing bodies.
 
-It is better to stick with [goat feed](/can-sheep-eat-goat-food/) and fresh hay when feeding your baby goat. You can give popcorn as an occasional treat only in small amounts though.
+It is better to stick with goat feed and fresh hay when feeding your baby goat. You can give popcorn as an occasional treat only in small amounts though.
 
 Remember, always provide plenty of clean water for your kid alongside their food.
 
@@ -187,9 +187,9 @@ Treats should be less than 10% of their diet.
 
 It’s high in calories and low in nutritional value.
 
-Over time, this can lead to weight gain and health problems like obesity or heart disease. Goats need a [balanced diet](/can-goats-eat-everything/) full of vitamins, minerals, fiber for good digestion.
+Over time, this can lead to weight gain and health problems like obesity or heart disease. Goats need a balanced diet full of vitamins, minerals, fiber for good digestion.
 
-So while an occasional piece won’t hurt them, it’s best to limit how often you give your goat popcorn. Stick with fresh [fruits and vegetables](/can-goats-eat-strawberries/) instead.
+So while an occasional piece won’t hurt them, it’s best to limit how often you give your goat popcorn. Stick with fresh fruits and vegetables instead.
 
 ### Clean Up Any Leftover Popcorn When Your Goats Are Done
 
@@ -217,11 +217,11 @@ Feeding popcorn to goats has its ups and downs. On the plus side, it’s a treat
 
 It can also be used as an occasional reward for good behavior.
 
-But there are negatives too. Popcorn isn’t nutritionally rich like fresh [greens](/can-goats-eat-kale/) or hay that goats need daily.
+But there are negatives too. Popcorn isn’t nutritionally rich like fresh greens or hay that goats need daily.
 
-If eaten in large amounts, it may cause [digestive issues](/can-goats-digest-anything/) due to lack of fiber.
+If eaten in large amounts, it may cause digestive issues due to lack of fiber.
 
-So while your goat might love the taste of popcorn, moderation is key here, just like with humans and junk food.
+So while your goat might love the taste of popcorn, don't overdo it here, just like with humans and junk food.
 
 ## What to Do if Your Goat Eats Too Much Popcorn
 

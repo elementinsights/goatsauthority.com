@@ -39,7 +39,7 @@ faq:
 ---
 Why do goats eat everything? It has been a long-standing mystery to farmers and goat owners.
 
-Goats will consume almost anything, including paper, [plants](/can-goats-eat-any-plant/), clothes, and even furniture. Some even refer to them as "the ultimate omnivores."
+Goats will consume almost anything, including paper, plants, clothes, and even furniture. Some even refer to them as "the ultimate herbivores."
 
 What then makes goats so inclined to nibble on anything they can find? A more pressing question is if there's anything we can do to stop them.
 
@@ -51,9 +51,9 @@ This explains why it's common to observe goats chewing on items of furniture, cl
 
 ## What makes goats eat everything?
 
-Goats are often called "the lawnmowers of the animal kingdom" because they will pretty much [eat anything](/can-goats-eat-everything/). Goats are browsers, not grazers like cows.
+Goats are often called "the lawnmowers of the animal kingdom" because they will pretty much eat anything. Goats are browsers, not grazers like cows.
 
-This means that instead of eating grass, goats prefer to nibble on [leaves](/can-goats-eat-maple-leaves/), twigs, and other vegetation.
+This means that instead of eating grass, goats prefer to nibble on leaves, twigs, and other vegetation.
 
 Because of this, goats will often chew on whatever is around them, including fence posts, trees, and even clothes. Some people think that goats will eat anything because they're curious or mischievous, but the reality is that goats simply have a very different diet than other animals.
 
@@ -61,9 +61,9 @@ In order to stay healthy, they need to consume a wide variety of plants. So, if 
 
 While goats will pretty much eat anything, there are some things that they should avoid. Goats are susceptible to copper toxicity, so they should not consume any food or water that contains high levels of copper.
 
-In addition, goats should not eat [avocados](/can-goats-eat-avocado/), as the pits can cause stomach blockages.
+In addition, goats should not eat avocados, as the pits can cause stomach blockages.
 
-Finally, goats should not eat any food that has [mold](/can-goats-eat-moldy-hay/) or other fungi growing on it, as these can cause health problems. Although goats are known for their ability to eat almost anything, there are still some limits to what they can digest.
+Finally, goats should not eat any food that has mold or other fungi growing on it, as these can cause health problems. Although goats are known for their ability to eat almost anything, there are still some limits to what they can digest.
 
 ## The dangers of letting goats eat everything
 
@@ -87,7 +87,7 @@ While this can be cute or even funny in some cases, it can also be problematic i
 
 One of the best ways to stop goats from eating everything is to provide them with plenty of food and water. Goats are browsers, which means they like to nibble on a variety of different plants.
 
-If you provide them with [hay](/what-kind-of-hay-do-goats-eat/), grass, and other fresh browse, they'll be less likely to nibble on something they're not supposed to. In addition, make sure they have plenty of fresh water to drink.
+If you provide them with hay, grass, and other fresh browse, they'll be less likely to nibble on something they're not supposed to. In addition, make sure they have plenty of fresh water to drink.
 
 Goats are very thirsty creatures and will often eat things simply because they're thirsty. By giving them plenty of food and water, you'll help them stay healthy and satisfied so they won't feel the need to nibble on everything in sight.
 
@@ -107,9 +107,9 @@ For example, goats can be used for their milk, meat, and fiber. They can also be
 
 Regardless of their use, all goats need a balanced diet in order to stay healthy.
 
-A basic goat diet should consist of hay, fresh [vegetables](/can-goats-eat-cabbage/), and a small amount of [grain](/can-goats-eat-oats/). Goat hay is different from other types of hay, so be sure to purchase hay specifically designed for goats.
+A basic goat diet should consist of hay, fresh vegetables, and a small amount of grain. Goat hay is different from other types of hay, so be sure to purchase hay specifically designed for goats.
 
-Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating [fruits](/can-goats-eat-apples/) and berries, so feel free to offer these as treats.
+Fresh vegetables are an important part of a goat's diet because they provide essential vitamins and minerals. Goats also enjoy eating fruits and berries, so feel free to offer these as treats.
 
 As for grain, goats only need a small amount each day.
 
@@ -119,7 +119,7 @@ In addition to a balanced diet, goats also need access to clean water at all tim
 
 It's also essential for digesting food properly.
 
-For these reasons, it's important to ensure that your goat always has access to clean water.
+For these reasons, it's important to make sure that your goat always has access to clean water.
 
 ## What not to feed a goat
 
@@ -127,9 +127,9 @@ There are a few things you should avoid feeding your goat. One is anything that 
 
 While copper is an essential nutrient for goats, too much can be toxic. Signs of copper toxicity include loss of appetite, lethargy, and weakness.
 
-Another thing to avoid feeding your goat is anything that is high in fat. Goats are prone to obesity, and a [high-fat diet](/can-goats-eat-peanuts/) can lead to health problems such as liver disease.
+Another thing to avoid feeding your goat is anything that is high in fat. Goats are prone to obesity, and a high-fat diet can lead to health problems such as liver disease.
 
-Finally, you should also avoid feeding your goat any [moldy or spoiled food](/can-goats-eat-overripe-fruit/), as this can cause digestive upset. If you're unsure whether something is safe to feed your goat, it's always best to err on the side of caution and consult with a veterinarian.
+Finally, you should also avoid feeding your goat any moldy or spoiled food, as this can cause digestive upset. If you're unsure whether something is safe to feed your goat, it's always best to err on the side of caution and consult with a veterinarian.
 
 ## Our Take
 

@@ -45,7 +45,7 @@ faq:
   - question: "Are there any risks associated with having a long-haired male pygmy goat?"
     answer: "There are some risks associated with having a long-haired male pygmy goat. One risk is that they are more susceptible to parasites. This is because their long hair provides a perfect place for parasites to hide."
 ---
-We all know that goats are pretty amazing creatures. But did you know that there are [different types of goats](/can-you-describe-a-herd-of-sheep-and-goats/)?
+We all know that goats are pretty amazing creatures. But did you know that there are different types of goats?
 
 One type is the male pygmy goat.
 
@@ -53,15 +53,15 @@ Male pygmy goats are usually smaller than their female counterparts. They also h
 
 But what about their hair? Can male pygmy goats have long hair?
 
-we will discuss [everything you need to know about the hair of male pygmy goats](/can-i-wash-and-groom-a-pygmy-goat/). We will also talk about how they are different from other types of goats, and what makes them so special.
+we will discuss everything you need to know about the hair of male pygmy goats. We will also talk about how they are different from other types of goats, and what makes them so special.
 
 ## Can male pygmy goats have long hair?
 
-Male [pygmy goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) are different from other types of goats in many ways. One way is that they have shorter horns.
+Male pygmy goats are different from other types of goats in many ways. One way is that they have shorter horns.
 
 They also have shorter hair coats. But, their most distinguishing feature is their beards.
 
-[Male pygmy goats](/can-you-band-a-2-year-old-buck-goat/) have long, thick beards that reach down to their chests.
+Male pygmy goats have long, thick beards that reach down to their chests.
 
 ## What are the benefits of having a long-haired male pygmy goat?
 
@@ -69,7 +69,7 @@ There are many benefits of having a long-haired male pygmy goat. One benefit is 
 
 They are also very social creatures and enjoy being around people.
 
-Another benefit of having a long-haired male pygmy goat is that they are very hardy creatures. They are able to withstand [cold weather](/can-goats-die-in-cold-weather/) better than their shorter-haired counterparts.
+Another benefit of having a long-haired male pygmy goat is that they are very hardy creatures. They are able to withstand cold weather better than their shorter-haired counterparts.
 
 This is because their long hair keeps them warm.
 
@@ -77,7 +77,7 @@ And finally, long-haired male pygmy goats are simply more aesthetically pleasing
 
 ## How do I care for my long-haired male pygmy goat?
 
-[Caring for your long-haired male pygmy goat](/can-a-pygmy-goat-take-care-of-triplets/) is not difficult. The most important thing you need to do is brush and comb their hair regularly.
+Caring for your long-haired male pygmy goat is not difficult. The most important thing you need to do is brush and comb their hair regularly.
 
 This will help to prevent knots and tangles.
 
@@ -101,7 +101,7 @@ Despite these risks, long-haired male pygmy goats are still gentle, social creat
 
 ## How to prevent my long-haired male pygmy goat from getting parasites?
 
-There are a few things you can do to [prevent your long-haired male pygmy goat from getting parasites](/can-a-dog-get-sick-from-a-goat/). One thing you can do is to regularly brush and comb their hair.
+There are a few things you can do to prevent your long-haired male pygmy goat from getting parasites. One thing you can do is to regularly brush and comb their hair.
 
 This will help to remove any parasites that are hiding in their fur.
 
@@ -139,13 +139,13 @@ If you are looking for a goat that does not shed its hair, then a male pygmy goa
 
 ## Do male pygmy goats need to be vaccinated?
 
-All goats, including male pygmy goats, need to be [vaccinated](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/) against rabies and other diseases. Goats are susceptible to a variety of diseases, so it is important to keep them up-to-date on their vaccinations.
+All goats, including male pygmy goats, need to be vaccinated against rabies and other diseases. Goats are susceptible to a variety of diseases, so it is important to keep them up-to-date on their vaccinations.
 
-Male pygmy goats are also susceptible to parasites. This is why it is important to [deworm them](/can-i-raise-goats-for-milk-protein/) on a regular basis.
+Male pygmy goats are also susceptible to parasites. This is why it is important to deworm them on a regular basis.
 
 ## How much do male pygmy goats cost?
 
-The cost of a male pygmy goat varies depending on many factors, such as age, health, and coat type. Generally, [male pygmy goats cost](/can-goats-make-money/) between $75 and $250.
+The cost of a male pygmy goat varies depending on many factors, such as age, health, and coat type. Generally, male pygmy goats cost between $75 and $250.
 
 If you are looking for a gentle, social creature that is also aesthetically pleasing, then a male pygmy goat is the perfect choice for you. They are easy to care for and make great companions.
 

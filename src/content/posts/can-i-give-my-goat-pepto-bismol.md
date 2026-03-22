@@ -50,7 +50,7 @@ We will answer all of your questions about giving Pepto Bismol to goats in this 
 
 ## Can I give my goat Pepto Bismol?
 
-However, you should only give your goat Pepto Bismol if they are actually experiencing [gastrointestinal distress](/can-too-much-field-time-cause-scours-in-goats/). If they are not exhibiting any symptoms, there is no need to give them the medication.
+However, you should only give your goat Pepto Bismol if they are actually experiencing gastrointestinal distress. If they are not exhibiting any symptoms, there is no need to give them the medication.
 
 Giving your goat too much Pepto Bismol can lead to constipation and other gastrointestinal problems. So, it's important to only give them the recommended dosage and to talk to a goat expert first if you are unsure about anything.
 
@@ -70,23 +70,23 @@ And while there are many types of over-the-counter medications available on the 
 
 There are numerous benefits to giving Pepto Bismol to goats. For one, this over-the-counter medication can help alleviate digestive issues by soothing the stomach and reducing inflammation.
 
-Additionally, it can help to promote optimal [gut health](/can-you-debloat-a-goat/) by boosting the production of beneficial gut bacteria. What's more, Pepto Bismol has been shown to be effective in speeding up recovery time after an illness or injury.
+It can help to promote optimal gut health by boosting the production of beneficial gut bacteria. What's more, Pepto Bismol has been shown to be effective in speeding up recovery time after an illness or injury.
 
 And finally, this medication is generally very well tolerated by goats, with few side effects when administered at recommended doses.
 
-Overall, there are many reasons to consider using Pepto Bismol for your goats, making it a valuable addition to any farm or [animal care regimen](/can-goats-die-from-lymes/).
+Overall, there are many reasons to consider using Pepto Bismol for your goats, making it a valuable addition to any farm or animal care regimen.
 
 ## How much Pepto Bismol should you give a goat?
 
 Regarding administering Pepto Bismol to goats, there is no one-size-fits-all answer. The amount of Pepto that a particular goat needs will depend on a variety of factors, including the size and age of the animal, as well as the severity of its symptoms.
 
-Generally speaking, younger and smaller goats will typically require less [medicine](/can-benadryl-hurt-a-goat/) than larger or older animals. And also, goats that are experiencing more severe signs of illness, such as diarrhea or vomiting, will likely require higher doses than those with milder symptoms.
+Generally speaking, younger and smaller goats will typically require less medicine than larger or older animals. And also, goats that are experiencing more severe signs of illness, such as diarrhea or vomiting, will likely require higher doses than those with milder symptoms.
 
-So, when in doubt, it is best to consult a goat expert to determine the appropriate dosing for your individual goat. With proper care and treatment, but, most [goats can make a full recovery](/can-i-remove-my-goat-full-grown-horns/) from even quite serious cases of indigestion and other gastrointestinal issues.
+So, when in doubt, it is best to consult a goat expert to determine the appropriate dosing for your individual goat. With proper care and treatment, but, most goats can make a full recovery from even quite serious cases of indigestion and other gastrointestinal issues.
 
 ## What are the side effects of giving too much Pepto Bismol to a goat?
 
-There are several potential side effects that can occur as a result of giving too much Pepto Bismol to a goat. These can include gastrointestinal distress, changes in heart rate and blood pressure, and an increased risk of [dehydration](/can-goats-have-horse-electrolytes/).
+There are several potential side effects that can occur as a result of giving too much Pepto Bismol to a goat. These can include gastrointestinal distress, changes in heart rate and blood pressure, and an increased risk of dehydration.
 
 Also, the excessive drug levels found in the blood and urine of goats who have been given high doses of Pepto Bismol may have toxic effects on other organs like the liver and kidneys.
 
@@ -94,7 +94,7 @@ The bottom line is, it is important to be vigilant when administering Pepto Bism
 
 ## How to administer Pepto Bismol to a goat?
 
-There are a few key things to keep in mind when administering Pepto Bismol to a goat. First, it is crucial to determine whether the [goat really needs treatment for ingested toxins or stomach upset](/how-many-stomachs-do-goats-have/).
+There are a few key things to keep in mind when administering Pepto Bismol to a goat. First, it is important to determine whether the goat really needs treatment for ingested toxins or stomach upset.
 
 If there is any doubt about a potential medical issue, it is best to consult with a veterinarian Once you have determined that your goat does indeed need some assistance, the next step is to consider the proper dosage and delivery method for Pepto Bismol.
 
@@ -108,7 +108,7 @@ With this in mind, the best approach is always to follow the instructions provid
 
 There are a number of alternative options to Pepto Bismol that can be used for goats. These include other over-the-counter medications, such as antacids and anti-diarrhea, as well as prescription medications.
 
-Plus, there are several home remedies that can be used to treat goats with [stomach upset](/can-baking-soda-cause-urinary-issues-in-goats/) or indigestion. Some of the most popular options include offering small amounts of plain yogurt, ginger, or molasses.
+Plus, there are several home remedies that can be used to treat goats with stomach upset or indigestion. Some of the most popular options include offering small amounts of plain yogurt, ginger, or molasses.
 
 When all is said and done, the best approach is to consult with a goat expert to determine the best course of treatment for your individual goat. With proper care and treatment, most goats can make a full recovery from gastrointestinal issues.
 
@@ -116,9 +116,9 @@ When all is said and done, the best approach is to consult with a goat expert to
 
 The best time to deworm a goat is typically in the early spring and fall. This is because the weather is cooler and dryer during these times of the year, which creates less favorable conditions for parasites.
 
-Similarly, goats are typically less likely to contract [parasites](/can-goats-get-worms-from-acorns/) when they are grazing on fresh, green pasture.
+Similarly, goats are typically less likely to contract parasites when they are grazing on fresh, green pasture.
 
-Ultimately, it is crucial to consult with a veterinarian to determine the best deworming schedule for your individual goat. With proper care and treatment, most goats can stay healthy and free of parasites.
+Ultimately, it is important to consult with a veterinarian to determine the best deworming schedule for your individual goat. With proper care and treatment, most goats can stay healthy and free of parasites.
 
 ### What to Watch for After Giving Pepto Bismol
 

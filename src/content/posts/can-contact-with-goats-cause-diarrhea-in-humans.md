@@ -52,7 +52,7 @@ we will answer all of your questions regarding goats and diarrhea, including the
 
 However, it's important to remember that not all humans who come into contact with these animals will develop diarrhea. In fact, most people will not experience any symptoms at all.
 
-it's only when a person's immune system is weak or they have another [underlying health condition](/can-goats-have-a-stroke-anemia/) that they may be more susceptible to developing diarrhea after coming into contact with goats.
+it's only when a person's immune system is weak or they have another underlying health condition that they may be more susceptible to developing diarrhea after coming into contact with goats.
 
 ## What are the symptoms of diarrhea caused by contact with goats?
 
@@ -75,7 +75,7 @@ If you experience any of these symptoms after coming into contact with goats, it
 
 You should contact your doctor if you experience any of the above symptoms after coming into contact with goats. They will be able to confirm whether or not you have contracted a bacterial infection and prescribe the appropriate course of treatment.
 
-They may also recommend that you stay hydrated by drinking plenty of fluids and eating small, frequent meals. In severe cases, hospitalization may be necessary in order to receive [intravenous fluids](/can-baby-goats-have-any-electrolytes/) and other treatment.
+They may also recommend that you stay hydrated by drinking plenty of fluids and eating small, frequent meals. In severe cases, hospitalization may be necessary in order to receive intravenous fluids and other treatment.
 
 ## How can you prevent diarrhea from goats?
 
@@ -85,7 +85,7 @@ This means washing your hands thoroughly after coming into contact with goats or
 
 You should also avoid consuming raw milk or unpasteurized dairy products from goats. Pasteurization kills the bacteria that can cause diarrhea.
 
-it's also a good idea to have your goats checked for parasites on a regular basis. Your veterinarian can prescribe [deworming medication](/can-you-deworm-a-pregnant-goat/) that will help to keep the animals healthy and free of parasites.
+it's also a good idea to have your goats checked for parasites on a regular basis. Your veterinarian can prescribe deworming medication that will help to keep the animals healthy and free of parasites.
 
 Finally, you should make sure that your goats have access to clean food and water. This will help to prevent them from becoming infected with bacteria or parasites.
 
@@ -107,7 +107,7 @@ In most cases, diarrhea caused by contact with goats will resolve on its own wit
 
 If you have any concerns about the long-term effects of diarrhea, you need to speak with your doctor. They will be able to provide you with more information and help you to make a plan for managing your symptoms.
 
-[Goat diarrhea can cause some short-term discomfort](/can-goats-cause-slope/), but it's usually not serious. Even so, you need to practice good hygiene and see a doctor if you think you may have contracted an infection.
+Goat diarrhea can cause some short-term discomfort, but it's usually not serious. Even so, you need to practice good hygiene and see a doctor if you think you may have contracted an infection.
 
 ## What are some other diseases that can be contracted from contact with goats?
 
@@ -115,15 +115,15 @@ There are a few other diseases that can be contracted from contact with goats, s
 
 Q fever is a bacterial infection that can cause symptoms such as fever, chills, and headaches. Brucellosis is another bacterial infection that can cause flu-like symptoms, such as fever, muscle aches, and fatigue.
 
-If you think you may have contracted either of these diseases, it's crucial to see a doctor as soon as possible. Both of these conditions can be treated with antibiotics.
+If you think you may have contracted either of these diseases, it's important to see a doctor as soon as possible. Both of these conditions can be treated with antibiotics.
 
-Q fever can also be prevented by vaccinating goats against the [bacteria that causes the disease](/can-alfalfa-pellets-cause-goats-to-bloat/). Brucellosis can be prevented by following strict hygiene guidelines when handling goats.
+Q fever can also be prevented by vaccinating goats against the bacteria that causes the disease. Brucellosis can be prevented by following strict hygiene guidelines when handling goats.
 
-[Goat contact](/contact/) can sometimes lead to the contraction of other diseases, such as Q fever and brucellosis. If you think you may have contracted either of these diseases, you need to see a doctor as soon as possible.
+Goat contact can sometimes lead to the contraction of other diseases, such as Q fever and brucellosis. If you think you may have contracted either of these diseases, you need to see a doctor as soon as possible.
 
 ## How can you protect yourself against these diseases when interacting with goats?
 
-There are a few [things you can do to protect yourself against diseases when interacting with goats](/can-a-dog-get-sick-from-a-goat/). First, you need to practice good hygiene.
+There are a few things you can do to protect yourself against diseases when interacting with goats. First, you need to practice good hygiene.
 
 This means washing your hands thoroughly after coming into contact with goats or their feces.
 
@@ -135,11 +135,11 @@ By following these simple tips, you can help to protect yourself from diseases w
 
 ## Is it safe to eat meat and milk products from goats that have diarrhea disease?
 
-it's not safe to [eat meat or milk products from goats](/do-goats-eat-meat/) that have diarrhea disease. Diarrhea disease is a highly contagious disease that can affect both [goats and humans](/can-i-give-my-goats-human-fish-pills/).
+it's not safe to eat meat or milk products from goats that have diarrhea disease. Diarrhea disease is a highly contagious disease that can affect both goats and humans.
 
 The disease is caused by a bacteria called Campylobacter jejuni, which is found in the intestines of infected animals. When these animals shed the bacteria in their feces, it can contaminate the soil and water where they live.
 
-People can become infected with the disease if they eat contaminated food or [drink contaminated water](/can-horses-drink-water-that-has-goat-poop-in-it/). Symptoms of the disease include severe diarrhea, abdominal cramps, and fever.
+People can become infected with the disease if they eat contaminated food or drink contaminated water. Symptoms of the disease include severe diarrhea, abdominal cramps, and fever.
 
 In severe cases, the disease can lead to dehydration and even death. If you think you may have consumed contaminated meat or milk, please seek medical attention immediately.
 
@@ -173,4 +173,4 @@ Overall, contact with goats is generally safe. Still, there are some risks assoc
 
 it's important to practice good hygiene and see a doctor if you think you may have contracted an infection. Goat diarrhea can cause some short-term discomfort, but it's usually not serious.
 
-Still, it's crucial to practice good hygiene and see a doctor if you think you may have contracted an infection.
+Still, it's important to practice good hygiene and see a doctor if you think you may have contracted an infection.

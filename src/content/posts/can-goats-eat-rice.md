@@ -48,13 +48,13 @@ faq:
 
 Rice is a staple food in many parts of the world, and for good reason. It’s filling, nutritious, and affordable.
 
-But can rice be eaten by goats? And if so, what are the [benefits and risks](/can-goats-eat-potatoes/)?
+But can rice be eaten by goats? And if so, what are the benefits and risks?
 
 This article will explore those questions and more.
 
 ## Can goats eat rice?
 
-However, there are some risks to [feeding rice to goats](/can-goats-eat-cooked-white-rice/). Rice can contain high levels of arsenic, which can be poisonous to goats.
+However, there are some risks to feeding rice to goats. Rice can contain high levels of arsenic, which can be poisonous to goats.
 
 You must only feed goats rice that has been cooked properly and is free of arsenic.
 
@@ -62,7 +62,7 @@ You must only feed goats rice that has been cooked properly and is free of arsen
 
 Raw rice, like other grains, is hard for goats to digest. It can also contain toxins that can be harmful to goats.
 
-For these reasons, it's best to cook rice before feeding it to goats. Cooking helps to soften the grain and make the [nutrients more available](/can-goats-eat-rice-bran/) for absorption.
+For these reasons, it's best to cook rice before feeding it to goats. Cooking helps to soften the grain and make the nutrients more available for absorption.
 
 It also kills any harmful bacteria that may be present. When cooked properly, rice can be a healthy and nutritious food for goats.
 
@@ -74,7 +74,7 @@ While goats do need carbohydrates for energy, they also require other nutrients 
 
 She will also need additional calories to maintain her own body temperature and keep up her milk production.
 
-For these reasons, it's crucial to supplement a diet of rice with other foods that provide the necessary nutrients. Grains, [hay](/can-goats-eat-timothy-hay/), vegetables, and fruit are all good options.
+For these reasons, it's important to supplement a diet of rice with other foods that provide the necessary nutrients. Grains, hay, vegetables, and fruit are all good options.
 
 As long as a pregnant goat has a balanced diet, she can safely eat rice.
 
@@ -94,9 +94,9 @@ Baby goats, like all baby animals, have very specific dietary needs. They requir
 
 For this reason, baby goats should not eat rice. Rice is a starchy grain that is high in carbohydrates, and it does not provide the nutrients that baby goats need to grow and thrive.
 
-Additionally, because goats are naturally curious creatures, they may try to eat anything they can get their hands on.
+Because goats are naturally curious creatures, they may try to eat anything they can get their hands on.
 
-If you suspect that your goat has eaten rice, it's crucial to watch for signs of gastrointestinal distress, such as bloating, diarrhea, or vomiting. If you notice any of these symptoms, contact a livestock expert immediately.
+If you suspect that your goat has eaten rice, it's important to watch for signs of gastrointestinal distress, such as bloating, diarrhea, or vomiting. If you notice any of these symptoms, contact a livestock expert immediately.
 
 ## What are the benefits of rice for goats?
 
@@ -132,11 +132,11 @@ Finally, feeding goats too much rice can lead to obesity, as well as other healt
 
 ## How much rice should be fed to goats, and how often should it be given?
 
-[Goats are able to digest a wide variety of foods](/can-goats-eat-oats/), but they require a diet that is high in fiber and low in sugar.
+Goats are able to digest a wide variety of foods, but they require a diet that is high in fiber and low in sugar.
 
 While goats can eat small quantities of grains, they should not be the mainstay of their diet. Rice is a grain that is often given to goats, but it's important to be mindful of how much is fed and how often it's given.
 
-Rice should be fed to goats in moderation, as it's high in carbohydrates and can cause digestive issues if fed in large quantities. When feeding rice to goats, it's best to mix it with other fiber-rich foods such as [hay or pasture grass](/what-kind-of-hay-do-goats-eat/).
+Rice should be fed to goats in moderation, as it's high in carbohydrates and can cause digestive issues if fed in large quantities. When feeding rice to goats, it's best to mix it with other fiber-rich foods such as hay or pasture grass.
 
 Goats should also have access to fresh water at all times.
 
@@ -154,13 +154,13 @@ When cooking rice for goats, be sure to use clean water and cook the rice until 
 
 ## What is rice, and where does it come from?
 
-Rice is a type of grain that is harvested from wet, muddy fields. It's the seed of the grass species Oryza sativa and is related to [wheat](/can-goats-eat-wheat-stalks/) and barley.
+Rice is a type of grain that is harvested from wet, muddy fields. It's the seed of the grass species Oryza sativa and is related to wheat and barley.
 
-Rice is a primary food in many parts of the world, and it's one of the most widely consumed crops. In fact, it's the third most consumed crop after wheat and [corn](/can-goats-eat-corn/).
+Rice is a primary food in many parts of the world, and it's one of the most widely consumed crops. In fact, it's the third most consumed crop after wheat and corn.
 
 There are over 40,000 varieties of rice, and it comes in many different colors, including white, brown, black, and red.
 
-Rice is a versatile grain that can be used in a variety of dishes, from savory stews to [sweet](/can-goats-eat-sweet-potatoes/) desserts. It can be cooked in many different ways, including boiling, steaming, and baking.
+Rice is a versatile grain that can be used in a variety of dishes, from savory stews to sweet desserts. It can be cooked in many different ways, including boiling, steaming, and baking.
 
 Rice is a good source of vitamins and minerals, and it's also high in carbohydrates. One cup of cooked rice contains approximately 50 grams of carbs.
 
@@ -168,6 +168,6 @@ Rice is a good source of vitamins and minerals, and it's also high in carbohydra
 
 Overall, rice can be a healthy and nutritious part of a goat's diet. Keep in mind, it's important to feed rice in moderation and to cook it properly before feeding it to goats.
 
-When feeding rice to goats, be sure to mix it with other high-fiber foods such as hay or [pasture grass](/can-goats-eat-kentucky-bluegrass/). Goats should also have access to fresh water at all times.
+When feeding rice to goats, be sure to mix it with other high-fiber foods such as hay or pasture grass. Goats should also have access to fresh water at all times.
 
 If you have any questions about feeding rice to goats, be sure to consult with an experienced goat keeper for guidance.

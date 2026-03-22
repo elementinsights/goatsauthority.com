@@ -52,7 +52,7 @@ By doing so, you will help ensure a safer and healthier pregnancy for both your 
 
 ## What is a Nigerian Goat Doeling?
 
-A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturity. Once she reaches 6 months of age, she will be considered a doe and will be [able to breed](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat/).
+A Nigerian Goat Doeling is a female goat that has not yet reached sexual maturity. Once she reaches 6 months of age, she will be considered a doe and will be able to breed.
 
 Nigerian Goat Doelings are usually born weighing between 2-4 pounds (0.9-1.8 kg). They are able to stand and walk on their own within a few hours after birth and will be fully weaned by 8 weeks of age.
 
@@ -64,7 +64,7 @@ Nigerian Dwarf goats are a relatively small breed of dairy goat. Does (females) 
 
 One of the benefits of Nigerian Dwarf goats is that they can be bred at a young age. Does can be safely bred as early as five months old, while bucks can be safely bred as early as six months old.
 
-When choosing a breeding partner for your doeling, you need to select a buck that is from a different bloodline in order to [avoid inbreeding](/can-the-same-litter-of-goats-have-different-fathers/).
+When choosing a breeding partner for your doeling, you need to select a buck that is from a different bloodline in order to avoid inbreeding.
 
 it's also important to make sure that the buck is large enough to properly cover the doe; if he is too small, there's a risk of the doe being injured during breeding.
 
@@ -80,7 +80,7 @@ Be sure to have your doeling tested for chlamydia before breeding her. Nigerian 
 
 there's no cure for CAE, so it's important to have your doeling tested for the virus before breeding her.
 
-Finally, Nigerian Dwarf [goats are at risk](/can-a-cdt-shot-kill-a-goat/) for developing ketosis, which is a metabolic condition that can occur when they're pregnant or lactating. If not treated promptly, ketosis can be fatal.
+Finally, Nigerian Dwarf goats are at risk for developing ketosis, which is a metabolic condition that can occur when they're pregnant or lactating. If not treated promptly, ketosis can be fatal.
 
 ## How to prevent health concerns when breeding a Nigerian goat doeling?
 
@@ -92,35 +92,35 @@ it's also important to make sure that the buck is large enough to properly cover
 
 Be sure to have your doeling tested for chlamydia before breeding her, and consult with a veterinarian about how to best manage ketosis in your Nigerian Dwarf doeling.
 
-By taking these precautions, you can help ensure that your doeling has a healthy and productive life.
+By taking these precautions, you can help make sure that your doeling has a healthy and productive life.
 
 ## Tips for breeding Nigerian goat doelings
 
-[Breeding Nigerian dwarf goats](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) can be a rewarding experience, but it's crucial to do your research beforehand to ensure that you are raising healthy and vibrant animals.
+Breeding Nigerian dwarf goats can be a rewarding experience, but it's important to do your research beforehand to make sure that you are raising healthy and vibrant animals.
 
-One of the most important things to consider when breeding Nigerian dwarf goats is the health of the doelings or baby goats. To ensure that your doelings are healthy, you must start with a good diet and exercise regimen.
+One of the most important things to consider when breeding Nigerian dwarf goats is the health of the doelings or baby goats. To make sure that your doelings are healthy, you must start with a good diet and exercise regimen.
 
-A healthy diet for a Nigerian dwarf goat doeling should include plenty of hay, fresh vegetables, and a [small amount](/can-i-feed-a-small-amount-of-raw-almonds-to-my-nubian-goats/) of grain.
+A healthy diet for a Nigerian dwarf goat doeling should include plenty of hay, fresh vegetables, and a small amount of grain.
 
 it's also important to make sure that the doeling has access to fresh water at all times. In terms of exercise, you need to allow the doeling ample opportunities to play and run around.
 
 This will help to keep the doeling muscles and bones strong.
 
-Finally, it's also important to provide the doeling with plenty of socialization opportunities. This will help to ensure that the doeling grows up to be a well-rounded and social animal.
+Finally, it's also important to provide the doeling with plenty of socialization opportunities. This will help to make sure that the doeling grows up to be a well-rounded and social animal.
 
-By following these tips, you can help to ensure that your Nigerian dwarf goat doelings are healthy and happy animals.
+By following these tips, you can help to make sure that your Nigerian dwarf goat doelings are healthy and happy animals.
 
 ## What to do after the breeding process is complete?
 
-After the breeding process is complete, it's crucial to keep a close eye on the doeling to make sure that she is healthy and comfortable.
+After the breeding process is complete, it's important to keep a close eye on the doeling to make sure that she is healthy and comfortable.
 
 The doeling may experience some discomfort after breeding, so you need to provide her with a quiet and calm environment where she can recover.
 
 it's also important to continue to provide the doeling with a healthy diet and plenty of exercises during this time.
 
-If everything goes well, the doeling should [give birth to healthy baby goats](/can-a-goat-have-babies-a-week-apart/) within 150 days.
+If everything goes well, the doeling should give birth to healthy baby goats within 150 days.
 
-After the [baby goats](/can-8-week-old-baby-goats-be-in-with-each-other/) are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
+After the baby goats are born, it's important to continue to provide the doeling with a healthy diet and plenty of exercises. The doeling will also need to continue to be milked during this time.
 
 ### How to Tell When Your Doeling Is Ready
 
@@ -140,10 +140,10 @@ Going forward, separate your bucklings from doelings by 8 weeks of age. Young bu
 
 ## To Wrap Things Up
 
-it's possible to breed Nigerian Dwarf goats as early as 4 months of age, but it's important to consult with a veterinarian beforehand to ensure that the doeling is healthy enough for breeding.
+it's possible to breed Nigerian Dwarf goats as early as 4 months of age, but it's important to consult with a veterinarian beforehand to make sure that the doeling is healthy enough for breeding.
 
 The doeling should also be from a reputable breeder and have a healthy diet and exercise regimen.
 
 After the breeding process is complete, you must keep a close eye on the doeling to make sure that she is healthy and comfortable.
 
-If everything goes well, the doeling should give birth to [healthy baby goats](/can-a-goat-feed-quads/) within 150 days.
+If everything goes well, the doeling should give birth to healthy baby goats within 150 days.

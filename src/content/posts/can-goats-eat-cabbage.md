@@ -43,7 +43,7 @@ faq:
   - question: "What kind of cabbage is poisonous to goats?"
     answer: "There are many different varieties of cabbage, including green, red, and Savoy. Though cabbage is safe for most animals to eat, there are some types that can be poisonous to goats."
 ---
-Cabbage is a popular vegetable that has many benefits for humans. But [can goats eat cabbage](/can-goats-eat-broccoli/)?
+Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage?
 
 What are the risks? And how much should be served at once?
 
@@ -51,7 +51,7 @@ This article will answer all of those questions and more.
 
 ## Can goats eat cabbage?
 
-Cabbage is a leafy green vegetable that is part of the Brassica genus. This genus also includes [broccoli](/can-goats-eat-broccoli/), Brussels sprouts, and [kale](/can-goats-eat-kale/).
+Cabbage is a leafy green vegetable that is part of the Brassica genus. This genus also includes broccoli, Brussels sprouts, and kale.
 
 However, it's important to feed cabbage in moderation, as too much can cause digestive problems. When feeding cabbage to goats, it's best to chop or shred it into small pieces to prevent choking.
 
@@ -59,7 +59,7 @@ However, it's important to feed cabbage in moderation, as too much can cause dig
 
 Cabbage is a leafy green vegetable that is often used in salads and slaws. Still, it can also be a portion of valuable food for goats.
 
-Goats are browsing animals, which means that they prefer to eat [leaves and other foliage](/can-goats-eat-lettuce/) rather than grasses.
+Goats are browsing animals, which means that they prefer to eat leaves and other foliage rather than grasses.
 
 Cabbage is an excellent source of nutrients for goats, and it can help to boost their overall health. And also, cabbage is a relatively low-maintenance crop, and it can be easily grown in most climates.
 
@@ -69,11 +69,11 @@ As a result, cabbage can be a valuable addition to any goat diet.
 
 There are many different types of cabbage, and each has its own distinct flavor and texture. The most common type of cabbage is green cabbage, which has a crunchy texture and a slightly sweet flavor.
 
-Red cabbage is another popular variety, and it has a slightly peppery taste and a softer texture. Savoy cabbage is another type of cabbage that is often used in [salads](/can-goats-eat-spring-mix/) and stir-fries.
+Red cabbage is another popular variety, and it has a slightly peppery taste and a softer texture. Savoy cabbage is another type of cabbage that is often used in salads and stir-fries.
 
 It has a crinkly appearance and a mild, slightly sweet flavor.
 
-Finally, there's the [Brussels sprout](/can-goats-eat-brussel-sprouts/), which is actually a type of mini cabbage. Brussels sprouts have a nutty flavor and a firm texture.
+Finally, there's the Brussels sprout, which is actually a type of mini cabbage. Brussels sprouts have a nutty flavor and a firm texture.
 
 ## What kind of cabbage is poisonous to goats?
 
@@ -89,23 +89,23 @@ Cabbage is a brassica and as such, contains high levels of oxalates. When ingest
 
 These crystals can cause blockages in the intestine, leading to digestive issues and even death. In addition, brassicas are also high in goitrogens, which can interfere with the thyroid's ability to produce hormones.
 
-This can lead to a condition known as goiter, characterized by an enlarged thyroid gland. For these reasons, it's crucial to feed cabbage to goats only in moderation, as part of a varied diet.
+This can lead to a condition known as goiter, characterized by an enlarged thyroid gland. For these reasons, it's important to feed cabbage to goats only in moderation, as part of a varied diet.
 
-Goats should also have access to plenty of fresh water, as this will help to flush any [harmful substances](/can-goats-eat-onions/) out of their system.
+Goats should also have access to plenty of fresh water, as this will help to flush any harmful substances out of their system.
 
 ### Other risks to consider
 
 When feeding cabbage to goats, you must be aware of some other potential risks. For example, if the cabbage leaves are treated with pesticides, these chemicals can be harmful to goats.
 
-it's, therefore, best to choose organic cabbage when possible, or wash the leaves thoroughly before feeding them to goats. Besides, it's also crucial to ensure that the cabbage is chopped or shredded into small pieces, as large pieces can cause choking.
+it's, therefore, best to choose organic cabbage when possible, or wash the leaves thoroughly before feeding them to goats. Besides, it's also important to make sure that the cabbage is chopped or shredded into small pieces, as large pieces can cause choking.
 
-In the end, it's worth noting that brassicas such as cabbage are high in sugar. The outcome is that they should only be fed to goats in moderation, as too much sugar can lead to health problems such as obesity and diabetes.
+In the end, brassicas such as cabbage are high in sugar. The outcome is that they should only be fed to goats in moderation, as too much sugar can lead to health problems such as obesity and diabetes.
 
 ## How much cabbage should I serve to goats?
 
 When feeding cabbage to goats, you need to remember that they are not humans and cannot digest all the nutrients in the cabbage leaves.
 
-Cabbage is a good source of [vitamins A and C](/can-goats-eat-carrots/), as well as calcium and iron, but it also contains high levels of nitrates. When ingested by goats, these nitrates can convert into nitrites and cause health problems such as difficulty breathing, low blood pressure, and paralysis.
+Cabbage is a good source of vitamins A and C, as well as calcium and iron, but it also contains high levels of nitrates. When ingested by goats, these nitrates can convert into nitrites and cause health problems such as difficulty breathing, low blood pressure, and paralysis.
 
 For this reason, it's essential to limit the amount of cabbage that goats consume. A good rule of thumb is to offer no more than 1-2 pounds of cabbage per goat per day.
 
@@ -119,9 +119,9 @@ These nitrates can convert into nitrites in the goat's body and cause health pro
 
 ## Can baby goats eat cabbage?
 
-Baby goats can eat cabbage. Even so, it's important to feed them only [small amounts of cabbage](/can-goats-eat-spinach/), as their digestive systems are not yet fully developed.
+Baby goats can eat cabbage. Even so, it's important to feed them only small amounts of cabbage, as their digestive systems are not yet fully developed.
 
-In addition, baby goats should only eat shredded or chopped cabbage, as large pieces can cause choking. It's also crucial to monitor baby goats closely when they first start eating cabbage, as they may be more susceptible to health problems such as diarrhea.
+In addition, baby goats should only eat shredded or chopped cabbage, as large pieces can cause choking. It's also important to monitor baby goats closely when they first start eating cabbage, as they may be more susceptible to health problems such as diarrhea.
 
 ## What breed of goat usually loves to eat cabbage?
 
@@ -133,7 +133,7 @@ WhilePygmy goats will eat just about anything, they seem to have a particular li
 
 This may be due to the fact that cabbage is rich in nutrients and minerals, which are essential for the health of Pygmy goats.
 
-Cabbage is also a good source of [fiber](/can-goats-eat-timothy-hay/), which helps keep the digestive system of Pygmy goats functioning properly. For these reasons, it's not surprising that Pygmy goats often enjoy munching on cabbage leaves.
+Cabbage is also a good source of fiber, which helps keep the digestive system of Pygmy goats functioning properly. For these reasons, it's not surprising that Pygmy goats often enjoy munching on cabbage leaves.
 
 ### How to Prepare Cabbage for Your Goats
 
@@ -145,7 +145,7 @@ Avoid feeding cabbage that has been cooked with salt, butter, or seasonings. Pla
 
 ## Wrapping Up
 
-[Goats can eat cabbage](/can-goats-eat-cauliflower/). Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
+Goats can eat cabbage. Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
 
 The outcome is that it should only be fed to goats in moderation.
 

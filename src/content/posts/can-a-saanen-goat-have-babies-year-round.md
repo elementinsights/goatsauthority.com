@@ -47,13 +47,13 @@ we will answer that question, and we'll also give you some tips on how to care f
 
 ## Can a Saanen goat have babies year round?
 
-However, it's important to note that [goats are seasonal breeders](/can-a-goat-get-pregnant-when-not-in-heat/). This means that their bodies are designed to [give birth](/can-i-use-vaseline-on-goat-birth/) during the spring and early summer months when food is plentiful.
+However, goats are seasonal breeders. This means that their bodies are designed to give birth during the spring and early summer months when food is plentiful.
 
 If you choose to breed your Saanen goat year-round, you will need to provide them with extra food and care.
 
 ## What is a Saanen goat and what is its purpose?
 
-Saanen goats are a dairy breed that originated in the Swiss Alps. They are known for their large size and milk production, and they are also one of the most popular [breeds of goats](/can-a-goat-breed-with-sheep/) in the world.
+Saanen goats are a dairy breed that originated in the Swiss Alps. They are known for their large size and milk production, and they are also one of the most popular breeds of goats in the world.
 
 Saanen goats are used primarily for milk production, but they can also be used for meat and fiber production. In terms of milk production, Saanen goats are some of the most productive animals in the world, with an average yield of 3-4 gallons per day.
 
@@ -85,13 +85,13 @@ Goats are hardy animals, and with proper care, they can live healthy lives. But,
 
 One of the most pressing health concerns is parasites. Internal parasites, such as stomach worms, can cause weight loss, diarrhea, and anemia.
 
-External parasites, such as lice and mites, can cause irritation and restlessness. To help prevent these problems, it's crucial to [deworm your goats](/can-a-pregnant-goat-have-penicillin/) on a regular basis and to routinely check them for signs of infestation.
+External parasites, such as lice and mites, can cause irritation and restlessness. To help prevent these problems, it's important to deworm your goats on a regular basis and to routinely check them for signs of infestation.
 
 Another health concern for Saanen goats is a respiratory disease. Because they are prone to allergies, they are at an increased risk for developing problems like pneumonia.
 
-To help reduce the likelihood of respiratory disease, it's crucial to keep your goats' environment clean and free of dust and mold.
+To help reduce the likelihood of respiratory disease, it's important to keep your goats' environment clean and free of dust and mold.
 
-Additionally, you should avoid exposing them to extremes of temperature, both hot and cold. If you notice any signs of respiratory distress, such as coughing or difficulty breathing, be sure to contact your veterinarian immediately.
+You should avoid exposing them to extremes of temperature, both hot and cold. If you notice any signs of respiratory distress, such as coughing or difficulty breathing, be sure to contact your veterinarian immediately.
 
 ## How many kids can a Saanen goat have at one time?
 
@@ -99,13 +99,13 @@ Saanen goats are a medium-sized breed of dairy goat that originates from the wes
 
 Then again, Saanen goats can also make excellent pets, and they are often kept on small farms or homesteads. One of the most common questions about Saanen goats is how many kids they can have at one time.
 
-Saanen goats usually have twins or triplets, although they may occasionally have [single births](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/). Most does will [produce between 2 and 3 quarts of milk](/can-a-female-goat-produce-milk-without-being-pregnant/) per day, which is enough to feed two or three kids.
+Saanen goats usually have twins or triplets, although they may occasionally have single births. Most does will produce between 2 and 3 quarts of milk per day, which is enough to feed two or three kids.
 
 Even so, some does may produce more milk, and in these cases, it may be necessary to supplement the kids with bottle feedings.
 
 The kidding rate for Saanen goats is typically between 150 and 200 percent. This means that for every 100 does, there will be between 150 and 200 offspring born each year.
 
-With such a high reproductive potential, it's important to manage the breeding of Saanen goats carefully to [prevent overpopulation](/can-an-over-due-goat-be-induced-to-labor/).
+With such a high reproductive potential, it's important to manage the breeding of Saanen goats carefully to prevent overpopulation.
 
 ## What do Saanen goat kids eat?
 
@@ -115,17 +115,17 @@ For the first few weeks of their lives, Saanen goat kids will nurse from their m
 
 Goat milk is still an important part of their diet, but it will make up a smaller percentage as they eat more solid foods. By the time they are two months old, Saanen goat kids should be eating mostly hay and grass.
 
-However, it's important to make sure that they have access to fresh water at all times. Kids that are allowed to nurse from their mothers will continue to do so until they are weaned, which typically occurs between four and [six months of age](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/).
+However, it's important to make sure that they have access to fresh water at all times. Kids that are allowed to nurse from their mothers will continue to do so until they are weaned, which typically occurs between four and six months of age.
 
 Saanen goat kids are born with a thick coat of fur that helps protect them from the cold weather. As they get older, their fur will thin out and turn into the characteristic white coat of an adult Saanen goat.
 
-The coat helps to protect them from predators and the elements, and it also insulates their bodies to keep them warm in [cold weather](/can-goats-die-in-cold-weather/).
+The coat helps to protect them from predators and the elements, and it also insulates their bodies to keep them warm in cold weather.
 
-Adult Saanen goats typically weigh between 120 and 200 pounds. bucks (males) tend to be larger than does (females), but there's some overlap in size between the two genders.
+Adult Saanen goats typically weigh between 120 and 200 pounds. Bucks (males) tend to be larger than does (females), but there's some overlap in size between the two genders.
 
 Bucks also have larger horns than does.
 
-Saanen goats can live for 10-12 years in captivity, but their lifespan is usually shorter in the wild due to [predation](/can-a-fox-kill-a-goat/) and other risks.
+Saanen goats can live for 10-12 years in captivity, but their lifespan is usually shorter in the wild due to predation and other risks.
 
 ## The Bottom Line
 

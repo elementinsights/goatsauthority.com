@@ -52,15 +52,15 @@ In addition to being a good source of fiber, hay also provides pygmy goats with 
 
 ## What are some things to consider when feeding hay to pygmy goats?
 
-There are two primary types of hay: legume hay and grass hay. Legume hay, for example, [alfalfa](/can-goats-eat-alfalfa/), consists of more protein than grass hay does.
+There are two primary types of hay: legume hay and grass hay. Legume hay, for example, alfalfa, consists of more protein than grass hay does.
 
-On the other hand, grasses like [timothy](/can-goats-eat-timothy-hay/) or Bermuda contain less protein but greater fiber.
+On the other hand, grasses like timothy or Bermuda contain less protein but greater fiber.
 
 The amount of hay you feed your pygmy goats will depend on their age, size, and activity level. Adult pygmy goats need about 2% of their body weight in hay per day.
 
 For example, if you have a 10-pound (4.5 kg) pygmy goat, they should eat about 0.2 pounds (90 grams) of hay per day.
 
-If you are feeding hay to [pygmy goats](/can-pygmy-goats-sleep-with-chickens/), it is also important to provide them with fresh water and a source of salt. [Goats need salt to help them absorb the nutrients in the hay](/what-kind-of-hay-do-goats-eat/).
+If you are feeding hay to pygmy goats, it is also important to provide them with fresh water and a source of salt. Goats need salt to help them absorb the nutrients in the hay.
 
 ## What are the nutritional benefits of hay for pygmy goats?
 
@@ -68,7 +68,7 @@ Hay is a critical part of the diet for pygmy goats, as it provides important nut
 
 Specifically, hay is very high in fiber, which helps keep the digestive system healthy and promotes regular pooping. In addition, hay is a great source of protein, particularly when it comes from grassy fields.
 
-Finally, hay contains many vital vitamins and minerals that aid [growth and development in young goats](/can-old-goats-develop-rickets/).
+Finally, hay contains many vital vitamins and minerals that aid growth and development in young goats.
 
 Overall, hay plays a vital role in keeping pygmy goats healthy, strong, and full of energy. Whether they are kept as pets or bred for milk production, these tiny creatures depend on hay to thrive.
 
@@ -78,7 +78,7 @@ Although pygmy goats require hay in their diet, feeding them too much can be har
 
 In order to avoid this, you should pick a hay variety that is free of debris and clean.
 
-Second, inspect your hay for [mold](/can-goats-eat-moldy-hay/) or other toxins before feeding it to pygmy goats as these can be harmful. If you see any sign of mold or discoloration, don't feed it to the goats.
+Second, inspect your hay for mold or other toxins before feeding it to pygmy goats as these can be harmful. If you see any sign of mold or discoloration, don't feed it to the goats.
 
 Avoid overfeeding your pygmy goats, as this can lead to obesity and other health problems. Instead, only give them the amount of hay they need based on their age, size, and activity level.
 
@@ -92,21 +92,21 @@ If you give them all their hay at once, they are likely to gorge themselves and 
 
 In the morning, give your pygmy goats enough hay to last them until the evening. In the evening, give them enough hay to last until the next morning.
 
-If you are feeding hay to pygmy goats more than twice a day, it is crucial to provide them with access to fresh water and a source of salt.
+If you are feeding hay to pygmy goats more than twice a day, it is important to provide them with access to fresh water and a source of salt.
 
 ## How to prevent common health problems in pygmy goats?
 
-The best way to prevent common health problems in pygmy goats is to ensure they have a balanced diet that includes hay, fresh water, and a source of salt.
+The best way to prevent common health problems in pygmy goats is to make sure they have a balanced diet that includes hay, fresh water, and a source of salt.
 
-It is crucial to give your pygmy goats plenty of space to walk around and play. You should also frequently look for signs that they might be sick, like sudden weight loss, being sluggish, or having diarrhea.
+It is important to give your pygmy goats plenty of space to walk around and play. You should also frequently look for signs that they might be sick, like sudden weight loss, being sluggish, or having diarrhea.
 
 If you see any of these red flags, take them to the vet right away. Following these easy suggestions will help keep your pygmy goats in good health and spirits.
 
 ## What are the treatments for common health problems in pygmy goats?
 
-There are several treatments for common health problems in pygmy goats. For example, if a goat is dehydrated, the treatment is to provide them with fluids, either through an IV or by offering them [water or electrolytes to drink](/can-horses-drink-water-that-has-goat-poop-in-it/).
+There are several treatments for common health problems in pygmy goats. For example, if a goat is dehydrated, the treatment is to provide them with fluids, either through an IV or by offering them water or electrolytes to drink.
 
-If a [goat has an intestinal blockage](/can-i-eat-goat-intestine-during-pregnancy/), the treatment is to remove the blockage surgically. Finally, if a goat has an infection, the treatment is provided with antibiotics.
+If a goat has an intestinal blockage, the treatment is to remove the blockage surgically. Finally, if a goat has an infection, the treatment is provided with antibiotics.
 
 By following these simple tips, you can help keep your pygmy goats healthy and happy.
 
@@ -120,9 +120,9 @@ For a richer source of protein, some goat farmers turn to fermentation-based fod
 
 This feed has a long shelf life and is packed full of essential nutrients that help to support the health and growth of pygmy goats.
 
-Additionally, coarse grains like barley and [oats](/can-goats-eat-oats/) can be added to a goat's diet either as supplements or as the main feed source.
+Coarse grains like barley and oats can be added to a goat's diet either as supplements or as the main feed source.
 
-Choosing the right alternative food source for [pygmy goats often comes down to the specific dietary needs](/can-i-wash-and-groom-a-pygmy-goat/) of the animal, so it's important to do your research and consult a veterinarian before making any changes to their diet.
+Choosing the right alternative food source for pygmy goats often comes down to the specific dietary needs of the animal, so it's important to do your research and consult a veterinarian before making any changes to their diet.
 
 Ultimately though, any alternative food source for pygmy goats should be carefully selected to maintain the health of these small but resilient animals.
 
@@ -150,4 +150,4 @@ Pygmy goats are a hardy and versatile breed that can thrive in a variety of envi
 
 A diet for pygmy goats should consist of hay, fresh water, and a source of salt, as well as plenty of space to roam and exercise.
 
-Additionally, it is important to regularly check for signs of illness and consult a veterinarian if any problems arise. By following these simple tips, you can help keep your pygmy goats healthy and happy.
+It is important to regularly check for signs of illness and consult a veterinarian if any problems arise. By following these simple tips, you can help keep your pygmy goats healthy and happy.

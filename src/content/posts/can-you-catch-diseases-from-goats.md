@@ -50,27 +50,27 @@ We will also provide some tips on how to prevent any diseases you may be suscept
 
 ## Can you catch diseases from goats?
 
-Not only can [goats carry bacteria, viruses, and parasites](/can-goats-carry-distemper/), but they can also spread other diseases that are fatal to other animals. Goats may be carriers of brucellosis, for instance, which is transmitted to sheep and causes death.
+Not only can goats carry bacteria, viruses, and parasites, but they can also spread other diseases that are fatal to other animals. Goats may be carriers of brucellosis, for instance, which is transmitted to sheep and causes death.
 
 ## What are some common diseases that can be caught from goats?
 
 Goats are commonly associated with barnyards and farms, but these versatile animals can actually make great pets.
 
-At the same time, before you snuggle up to your new furry friend, it's important to be aware of the [potential risks](/can-a-plastic-bag-hurt-a-goat/). Goats can carry a number of diseases that can be passed on to humans, including giardiasis, brucellosis, and cryptosporidiosis.
+At the same time, before you snuggle up to your new goat, it's important to be aware of the potential risks. Goats can carry a number of diseases that can be passed on to humans, including giardiasis, brucellosis, and cryptosporidiosis.
 
-Giardiasis is caused by a [parasite that can lead to diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans/), nausea, and vomiting. Brucellosis is a bacterial infection that can cause flu-like symptoms, and cryptosporidiosis is a parasitic infection that can cause severe dehydration.
+Giardiasis is caused by a parasite that can lead to diarrhea, nausea, and vomiting. Brucellosis is a bacterial infection that can cause flu-like symptoms, and cryptosporidiosis is a parasitic infection that can cause severe dehydration.
 
 While these diseases may sound scary, they can be prevented with proper hygiene and by avoiding contact with sick animals. So enjoy your goats, but be sure to clean up after them carefully.
 
 ## What are the risks of catching diseases from goats?
 
-[Goats are interesting creatures](/can-domestic-goats-jump/) that have been domesticated for centuries. In addition to providing milk and meat, [goats can also be used as pack animals](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) or for their wool.
+Goats are interesting creatures that have been domesticated for centuries. In addition to providing milk and meat, goats can also be used as pack animals or for their wool.
 
 That said, goats can also pose a health risk to humans if they are not properly cared for. Goats can carry a variety of diseases that can be transmitted to humans, including brucellosis, salmonellosis, and toxoplasmosis.
 
 While most of these diseases are relatively rare, they can still be dangerous, especially to young children or people with weakened immune systems.
 
-To reduce the [risk of catching a disease from a goat](/can-a-cdt-shot-kill-a-goat/), it is important to practice good hygiene when handling them and to make sure that they are properly vaccinated.
+To reduce the risk of catching a disease from a goat, it is important to practice good hygiene when handling them and to make sure that they are properly vaccinated.
 
 ## How do you prevent yourself from catching those diseases?
 
@@ -102,11 +102,11 @@ If you're thinking about adding a goat or two to your farm, there are a few thin
 
 First, goats are social animals and do best when they have companions, so you'll need to plan on getting at least two.
 
-Following that, goats are escape artists and will need a [sturdy fence](/can-goats-climb-fences/) to keep them contained.
+Following that, goats are escape artists and will need a sturdy fence to keep them contained.
 
 Thirdly, goats are browsers and not grazers, so they'll need a diet of hay, fresh browse, and grain to stay healthy.
 
-Last thing to note: goats are susceptible to a number of [diseases](/can-any-diseases-spread-from-swine-to-goats/), so you'll need to make sure you have a good veterinarian on hand.
+Last thing to note: goats are susceptible to a number of diseases, so you'll need to make sure you have a good veterinarian on hand.
 
 But if you're willing to put in the work, goats can be rewarding and entertaining animals that will add a lot of character to your farm.
 
@@ -124,7 +124,7 @@ If you think you may have caught a disease from a goat, it's important to see a 
 
 Early diagnosis and treatment are key to avoiding serious complications from diseases like giardiasis, brucellosis, and cryptosporidiosis. So if you think you may have been exposed to a disease, don't wait - see a doctor right away.
 
-In addition to the diseases mentioned above, there are also other conditions that can be caught from goats, such as ringworm and [lice](/can-goat-lice-live-on-humans/).
+In addition to the diseases mentioned above, there are also other conditions that can be caught from goats, such as ringworm and lice.
 
 However, these conditions are not as serious and can be treated with over-the-counter medications. If you think you may have contracted a condition from a goat, it's always best to err on the side of caution and to see a doctor.
 
@@ -142,4 +142,4 @@ Goats can carry diseases that can be passed on to humans, so it's important to p
 
 If you think you may have caught a disease from a goat, it's important to see a doctor as soon as possible so that you can receive the proper treatment.
 
-Goats require space, regular vet check-ups, and [vaccinations](/can-strangles-from-horse-be-passed-to-goats/), so be prepared to take on the responsibility of owning a goat before getting one.
+Goats require space, regular vet check-ups, and vaccinations, so be prepared to take on the responsibility of owning a goat before getting one.
