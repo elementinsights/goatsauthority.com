@@ -44,130 +44,46 @@ faq:
     answer: "You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help them stay in good condition and to ensure that their kids get the best start in life."
 ---
 
-Did you know that goats are one of the most versatile animals on the planet? Goats can eat pretty much anything, from hay to branches and leaves to weeds.
-
-we’re going to take a closer look at what kind of hay do goats eat, and how you can provide your goat with a healthy diet.
-
-**Trending Products For Goats**
+Goats eat several types of hay, and the right one depends on the animal's age, sex, and what you're asking its body to do. Not all hay is created equal, and picking the wrong type can cause real problems.
 
 ## What kind of hay do goats eat?
 
-However, goats prefer alfalfa hay over all other types of hay. Alfalfa hay is higher in protein and calcium, which are two essential nutrients for goats.
+Alfalfa is the gold standard for lactating does and growing kids because of its high protein and calcium content. It gives milking does the energy they need to keep production up and helps kids build strong bones during their fastest growth period.
 
-If you can, try to find alfalfa hay that’s been grown without the use of pesticides or herbicides.
+Timothy hay works well for bucks and wethers who don't need the extra protein and calories. It's a solid maintenance hay that keeps the rumen working without packing on excess weight.
 
-## What is hay, and why do goats eat it?
+## The different types of hay and when to use them
 
-Hay is a type of animal feed that is made from dried grass or other plants. It's typically fed to livestock, such as cattle, horses, sheep, and goats.
+Orchard grass is a great all-around option that most goats find palatable. It has a good balance of protein and fiber, and it's softer than Timothy, which means less waste from picky eaters.
 
-Goats are particularly fond of hay, and it can make up a large part of their diet.
+Bermuda grass hay is common in southern states and works fine as a base forage, though it's lower in protein than the other options. Avoid fescue hay for pregnant does because endophyte-infected fescue can cause serious problems during late pregnancy, including retained placentas and poor milk production.
 
-Hay is an important source of nutrition for goats, providing them with essential vitamins and minerals. In addition, hay helps to keep goats' digestive systems healthy and prevents boredom.
+## First cutting vs. second cutting
 
-This is why hay is an essential part of Goat care.
+First cutting hay is stemmier and higher in fiber but lower in protein. It's fine for maintenance animals that just need something to chew on and keep their rumen healthy.
 
-## Do all goats eat hay?
+Second cutting is leafier, softer, and packed with more nutrition. It costs more per bale, but it's worth the investment for does in milk and growing kids who need the extra protein and energy.
 
-All goats are herbivores, which means they only eat plant material. Be aware, not all goats eat hay.
+## How to spot bad hay
 
-Some goats may prefer other types of plants, such as grass or leaves. Hay is a type of dried grass that is often fed to livestock.
+Always smell hay before you buy it. Good hay smells sweet and grassy, while moldy hay has a sour, musty, or ammonia-like odor that you can't miss.
 
-it's a good source of nutrition and can help to keep animals healthy. Even so, it can also be expensive, so not all farmers choose to feed their goat's hay.
+Check the color too. Bright green hay is fresh and nutritious, while pale yellow or brown bales have either been rained on or stored too long. Moldy hay can cause respiratory infections and digestive problems that lead to expensive vet visits.
 
-Instead, they may provide other types of plants or even food scraps.
+## How much hay does a goat need?
 
-In the end, it's up to the farmer to decide what type of food to give their goats, but all goats are capable of eating hay if it's available.
+A standard adult goat eats roughly 3 to 4 pounds of hay per day, which works out to about 2 to 4 percent of its body weight. Heavy milkers may go through 5 pounds a day because their bodies are burning through calories to produce milk.
 
-## Can you feed hay to pregnant goats?
+Stock up before winter because goats eat more hay in cold weather to generate body heat. Running out in January when your local supplier is sold out is a bad spot to be in.
 
-You can feed hay to pregnant goats. Pregnant goats need plenty of hay to help them stay in good condition and to make sure that their kids get the best start in life.
+## Reducing hay waste
 
-Hay is an excellent source of nutrients and roughage, and it can help pregnant goats to maintain their body condition and improve the health of their kids.
+Goats are messy eaters and will waste a shocking amount of hay if you toss it on the ground. A keyhole-style hay feeder with narrow slots forces them to pull hay out one mouthful at a time instead of dragging whole flakes onto the floor and stomping on them.
 
-With that in mind, it's important to choose good-quality hay and to avoid feeding too much, as this can lead to digestive problems. When feeding hay to pregnant goats, always offer fresh, clean water as well.
-
-## Can you feed hay to baby goats?
-
-Hay is a dry, grassy plant that is often used as fodder for livestock. It's an excellent source of nutrients and can help keep animals healthy and well-fed.
-
-However, hay can also be dangerous for young animals if it's not properly prepared. Baby goats, in particular, are at risk of choking on hay unless it's chopped into small pieces or soaked in water before feeding.
-
-Whether or not to feed hay to baby goats is a decision that should be made by a qualified animal expert.
-
-## What are the different types of hay available for goats to eat?
-
-There are many different types of hay available for goats to eat, and each type has its own set of benefits.
-
-One of the most popular types of hay is alfalfa hay, which is rich in protein and calcium. Goat owners often use alfalfa hay as a supplement for pregnant or nursing goats, as it can help them to produce more milk.
-
-Another popular type of hay is timothy hay, which is lower in protein but higher in fiber. Timothy hay is a good choice for goats who are prone to digestive problems, as the extra fiber can help to keep their gut healthy.
-
-Orchard grass hay is another option that offers a balance of protein and fiber, making it a good all-around choice for most goats.
-
-Regardless of which type of hay you choose, be sure to offer your goats plenty of fresh water to drink. Hay can be dusty, and drinking water will help to keep your goats' respiratory systems healthy.
-
-## How can you tell if your goat is getting enough hay in its diet?
-
-Hay is an important part of a goat's diet, providing essential nutrients and fiber that help keep the animal healthy and happy.
-
-But how can you tell if your goat is getting enough hay? One way to gauge whether or not your goat is getting enough hay is to observe its eating habits.
-
-If your goat is leaving large amounts of hay uneaten, it's likely that it's not getting enough of the nutrient-rich food.
-
-Another way to tell if your goat isn't getting enough hay is by evaluating its behavior. A goat that isn't getting enough hay may become agitated or irritable, as well as start chewing on non-food items like fence posts or branches.
-
-If you suspect that your goat isn't getting enough hay, talk to a veterinarian or experienced goat owner to get more advice on how to improve the animal's diet.
-
-## How should you store hay to keep it fresh and nutritious for your goat herd?
-
-One way to store hay is in a covered hayloft or shed. This helps to protect the hay from the elements and keeps it out of the reach of goats, which can damage the hay if left unchecked.
-
-Another option is to store the hay in a tightly sealed container, such as a PVC pipe. This helps to keep moisture and pests out, preventing the hay from deteriorating.
-
-Whichever method you choose, it's important to monitor the condition of the hay regularly. Mold and other signs of degradation can spread quickly, so it's important to take action as soon as possible if you notice any problems.
-
-By taking these steps, you can help make sure that your goats have access to fresh, nutritious hay all year round.
-
-## What are some other things you can feed your goats besides hay?
-
-In addition to hay, there are a number of other things that you can feed your goats. Grain, for example, is a good source of protein and essential nutrients.
-
-You can also give your goats leftover fruits and vegetables from your kitchen. Just be sure to avoid anything that is moldy or spoiled.
-
-Goat minerals are also an important part of their diet. A good mineral supplement will provide your goats with the calcium, phosphorus, and other minerals they need to stay healthy.
-
-Finally, don't forget about water. Goats need access to clean, fresh water at all times.
-
-By offering your goats a variety of food and water options, you can help them stay healthy and happy.
-
-### How Much Hay Does a Goat Need Per Day?
-
-A standard-sized adult goat will eat roughly 3 to 4 pounds of hay per day. That works out to about 2 to 4% of their body weight, depending on the breed and activity level.
-
-Lactating does need more hay than dry does or wethers because their bodies are working overtime to produce milk. Expect a heavy milker to go through closer to 5 pounds per day.
-
-During winter, goats will eat more hay to generate body heat. Stock up before the cold months hit so you do not run short when your local supplier sells out.
-
-### How to Build a Simple Hay Feeder
-
-Goats are messy eaters and will waste a shocking amount of hay if you just toss it on the ground. A keyhole-style hay feeder solves this problem by forcing them to pull hay through narrow slots.
-
-You can build one from scrap lumber and a few pieces of livestock panel in about an hour. Make the openings wide enough for a goat to fit its head through but narrow enough that they cannot drag out whole flakes and stomp on them.
-
-Hang the feeder at head height or slightly above so the hay stays clean and off the ground. This one simple change can cut your hay waste in half overnight.
-
-### Signs You Are Buying Bad Hay
-
-Bad hay can do more harm than good. Moldy hay can cause respiratory infections and digestive problems that lead to expensive vet bills.
-
-Squeeze a handful and smell it. Good hay smells sweet and grassy. If it smells sour, dusty, or like ammonia, walk away from that batch.
-
-Check the color too. Bright green hay is the freshest and most nutritious. Pale yellow or brown hay has been rained on or stored too long and has lost most of its nutritional value.
+Hang feeders at head height or slightly above to keep hay clean and dry. This one change alone can cut your hay waste in half.
 
 ## Final Thoughts
 
-Hay is an important part of a goat's diet, providing essential nutrients and fiber. There are a variety of different types of hay available, and it's important to choose one that is best suited for your goats' needs.
+The right hay for your goats depends on what each animal needs. Feed alfalfa to does and kids who need the protein, and use grass hays for bucks and wethers on maintenance diets.
 
-Be sure to store the hay properly to keep it fresh and nutritious, and monitor it regularly for signs of degradation.
-
-And also hay, there are a number of other things that you can feed your goats, such as grain, vegetables, and minerals. By offering a variety of food and water options, you can help your goats stay healthy and happy.
+Buy the best quality hay you can find, store it in a dry covered area, and always give it a smell test before feeding. Good hay is the foundation of a healthy goat herd.

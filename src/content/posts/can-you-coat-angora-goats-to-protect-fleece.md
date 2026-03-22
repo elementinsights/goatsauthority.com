@@ -44,114 +44,46 @@ faq:
     answer: "A coat protects the fleece from damage by providing a barrier between the fleece and the outside environment."
 ---
 
-We all know that angora goats have the most beautiful and softest fleece. But did you know that this gorgeous coat can actually be a burden to the goat?
-
-And have you ever wondered whether you can coat an angora goat to protect its fleece? And if so, what are the things you need to take into account?
-
-Read on for the full breakdown.we'll discuss everything you need to know about coating angora goats to protect their fleece. We will also answer some of the most frequently asked questions about this topic.
+Yes, you can coat Angora goats to protect their fleece, and plenty of serious fiber producers do exactly that. A goat blanket or cover acts as a shield against vegetable matter, sun bleaching, and weather damage that would otherwise ruin months of mohair growth.
 
 ## Can you coat angora goats to protect fleece?
 
-Also, coating an angora goat can also help protect the fleece from damage. For example, if an angora goat rubs its coat against a fence, the coat will protect the fleece from getting scratched or tangled.
+Goat coats work by creating a physical barrier between the fleece and everything that wants to trash it. Burrs, seeds, sticks, and hay chaff are the biggest enemies of clean mohair, and a well-fitted coat keeps all of that out.
+
+Sun bleaching is another concern, especially for colored Angora goats headed to shows. A coat blocks UV exposure and preserves the natural color and luster that judges and hand spinners look for.
 
 ## What are the things you need to take into account when coating an angora goat?
 
-When coating an angora goat, there are a few things you need to take into account. First, you need to make sure that the coat is properly fitted.
+Fit is the single most important factor. A coat that's too tight will rub against the fleece and cause matting, while one that's too loose will shift around and let debris in through the gaps.
 
-An ill-fitting coat can be uncomfortable for the goat and can also cause the coat to rub against the fleece, which can damage it.
+Choose a breathable fabric like canvas or ripstop nylon. Angora goats already carry a dense fiber load, and a non-breathable coat will trap moisture and heat against the skin, which can lead to fungal infections or heat stress.
 
-Second, you need to choose a coat that is made from a breathable fabric. Angora goats are very sensitive to heat and can easily overheat if they are wearing a coat that is not made from a breathable fabric.
-
-Finally, you need to make sure that the coat does not restrict the goat's movement. A coat that is too tight can inhibit the goat's ability to move freely, which can lead to joint problems.
-
-## What is fleece and why do angora goats have it?
-
-Fleece is the coat of wool that angora goats have. The main purpose of fleece is to protect the goat from predators and the environment.
-
-Coats of wool are also used to make clothes and other items. The angora goat is a type of goat that is bred for its fleece.
-
-Angora goats are usually white, but they can also be black, brown, or grey.
-
-They have long, dense coats of wool that are soft and silky. Angora goats are native to Turkey, but they are now found all over the world.
-
-In addition to their fleece, angora goats also produce milk and meat.
+Make sure no buckles or velcro patches sit directly against the fleece. These hardware pieces will snag and break fibers every time the goat moves, defeating the whole purpose of the coat.
 
 ## How does the coat protect the fleece from damage?
 
-A coat protects the fleece from damage by providing a barrier between the fleece and the outside environment.
+The coat keeps vegetable matter from embedding in the mohair. Anyone who has spent hours picking burrs out of a fleece before shearing knows how valuable this protection is.
 
-The coat helps to keep the fleece clean and free from debris, and it also provides insulation against extreme temperatures. Similarly, the coat helps to protect the fleece from physical damage such as abrasions and cuts.
+It also shields the fleece from rain and mud that cause felting and staining. Clean, bright mohair brings a significantly better price at market than fleece that's been weathered and contaminated.
 
-The coat also helps to reduce the risk of fleece staining. To wrap up, the coat can help to increase the lifespan of the fleece by protecting it from wear and tear.
+## When to put the coat on and take it off
 
-## What are the benefits of coating an angora goat to protect its fleece?
+Most breeders put coats on right after shearing, once the fleece has grown out about an inch. This timing lets you get the coat fitted properly without it sliding around on short fiber.
 
-Many people are familiar with the soft, luxurious fibers used to make angora sweaters and other garments. What they may not know is that these fibers come from the coats of angora goats.
+Remove the coat before shearing so the shearer has clear access to the fleece. Some producers only coat during the worst burr season rather than year-round, which cuts down on management time while still protecting the fiber during the highest-risk months.
 
-And in order to protect the goats' valuable fleece, they must be regularly coated with special oil. This process not only helps to keep the coat healthy and free of tangles, but it also protects against pests and parasites.
+Check underneath the coat at least once a week for signs of skin irritation, moisture buildup, or parasites hiding against the warm fleece. A five-minute inspection prevents problems that could cost you an entire clip.
 
-In addition, the coating helps to repel water, keeping the goat's coat dry and warm in even the harshest conditions. This is why coating an angora goat is essential for both protecting its valuable fleece and ensuring its well-being.
+## Choosing the right coat material
 
-## How often should you coat an angora goat?
+Look for coats with adjustable straps at the chest and belly. You want a snug fit that doesn't restrict movement or rub on the legs.
 
-Angora goats need to be coated regularly to keep their fur from matting. The frequency of coatings will depend on the type of angora goat you have.
-
-If you have a French angora goat, you should coat it every three to four weeks. If you have a German angora goat, you should coat it every six to eight weeks.
-
-And if you have a Tibetan angora goat, you should coat it every ten to twelve weeks. Angora goats also need to be sheared twice a year to keep their fur from getting too long.
-
-So if you're thinking of getting an angora goat, be prepared to put in some regular grooming time.
-
-## What are some of the potential problems associated with coating an angora goat?
-
-One potential problem associated with coating an angora goat is that the coat can become matted and tangled.
-
-If the coat is not brushed frequently, the individual hairs can start to knot together, which can be painful for the goat and make it difficult for them to move around.
-
-Another potential problem is that the coat may provide too much insulation, causing the goat to overheat. In warm weather, it is important to make sure that the goat has access to shade and fresh water so that it can stay cool.
-
-Finally, the coat can also attract predators, such as coyotes and foxes. To help protect your goats, consider fencing them in or keeping them in a barn at night.
-
-## How can you prevent risks associated with coating an angora goat?
-
-There are a few steps you can take to prevent risks associated with coating an angora goat. First, it's important to brush the coat regularly to prevent matting and tangling.
-
-Second, in warm weather, make sure the goat has access to shade and fresh water to avoid overheating.
-
-Finally, consider fencing the goat in or keeping it in a barn at night to help protect it from predators.
-
-By taking these precautions, you can help make sure that your angora goat stays healthy and its coat remains in good condition.
-
-## What are the treatments for an angora goat with a matted coat?
-
-There are a few treatments for an angora goat with a matted coat. First, you can try to brush out the mats and tangles.
-
-If this doesn't work, you can try using a detangling spray or conditioner. You can also try cutting out the mats with scissors.
-
-If all of these methods fail, you may need to shave the goat's coat. This should only be done as a last resort, as it can be painful for the goat and may damage its skin.
-
-### When to Put the Coat On and Take It Off
-
-Timing matters moisture buildup, or skin irritation. A quick visual inspection takes less than five minutes and can prevent bigger problems down the road.
-
-Take the coat off entirely during the hottest summer months to prevent heat stress. Angora goats are already prone to overheating because of their dense fiber, and adding a coat on top of that can push them over the edge.
-
-### Choosing the Right Coat Material
-
-Not all goat coats are created equal. Look for coats made from breathable canvas or ripstop nylon that allow air circulation while still blocking rain and debris.
-
-Avoid anything made from heavy wool or fleece-lined material, as these can trap moisture against the mohair and actually cause more matting than going without a coat.
-
-The coat should have adjustable straps at the chest and belly so you can get a snug fit without restricting movement. Check that no buckles or velcro patches sit directly against the fleece, since these will snag and damage fibers over time.
+Avoid heavy wool-lined or fleece-lined materials, since these trap moisture against the mohair and cause more matting than going without a coat. Check your coats regularly for torn seams or loose straps that could snag on fencing.
 
 ## What to Remember
 
-You can goat coat your angora goat to protect it from weather and predators, but you need to be careful to avoid matting and tangling.
+Coating Angora goats is a proven way to protect mohair quality for show and fiber sales. The key is getting the right fit with breathable material and checking it regularly.
 
-Make sure to brush regularly and provide shade and fresh water in warm weather. If all else fails, you may need to shave the coat.
+Take coats off during the hottest summer months to prevent heat stress. Angora goats are already prone to overheating with their dense fiber, and adding a coat on top of that in hot weather can push them into dangerous territory.
 
-Coating an angora goat helps protect its valuable fleece while also keeping the goat healthy and free of pests and parasites.
-
-It is important to coat the goat regularly, depending on the type of angora goat you have, and to also shear the goat twice a year.
-
-Some potential problems associated with coating an angora goat include matting, overheating, and attracting predators.
+With a little management, a good goat coat will pay for itself many times over in cleaner, higher-value fleece at shearing time. Most fiber producers who start coating their Angoras never go back to leaving them uncovered.

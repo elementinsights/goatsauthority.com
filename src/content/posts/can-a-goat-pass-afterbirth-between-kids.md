@@ -42,136 +42,40 @@ faq:
     answer: "Afterbirth is the placenta and accompanying fluids that are expelled from the uterus after an animal gives birth. In goats, the afterbirth typically consists of two large, flat discs of tissue known as cotyledons."
 ---
 
-Breeding goats can be a lucrative and enjoyable endeavor, but it's important to remember that there are many things to consider before starting down this path.
+Yes, a doe can pass partial placental material between delivering multiple kids. This is completely normal during kidding and not something to panic about if the doe is otherwise acting fine.
 
-One such issue is the question of afterbirth, specifically, can a goat pass afterbirth between kids? This article will explore the answer to that question as well as provide tips on how to care for newborn goats.
+## Can a Goat Pass Afterbirth Between Kids?
 
-## Can a goat pass afterbirth between kids?
+Each kid has its own amniotic sac and its own placental attachment inside the uterus. When a doe carries twins or triplets, the placental tissue for one kid can detach and pass before the next kid is delivered.
 
-However, it's important to keep an eye on the doe and make sure that she doesn't pass too much afterbirth. If a doe passes more than about two-thirds of her afterbirth, she may be at risk for complications such as hemorrhage or retained placenta.
+This doesn't mean the doe is done kidding. If she still has a tight belly and shows signs of more contractions, there's likely another kid on the way. Wait and watch before assuming she's finished. I've seen new goat owners think kidding was over, only to find another kid on the ground an hour later.
 
-## What is afterbirth and what happens to a goat's afterbirth?
+## What Normal Afterbirth Looks Like
 
-Afterbirth is the placenta and fetal membranes that are expelled from the mother during childbirth. In goats, the afterbirth consists of two parts: the allantochorion and the amnion.
+A healthy afterbirth is dark reddish-brown with a slightly slimy texture. You should be able to see the cotyledons, which look like small round buttons attached to the membrane. Each kid typically has its own set of cotyledons, so comparing the count to the number of kids born helps you figure out if any placental tissue was retained.
 
-The allantochorion is the outermost layer of the placenta and helps to protect the fetus from infection. The amnion is a sac that surrounds the fetus and contains fluid to keep it moist.
+The full placenta should pass within 12 hours of the last kid being born. Some does eat the afterbirth, which is normal mammalian behavior. Whether you let them or clean it up is your call, but either way, account for it so you know it passed. If the afterbirth looks green, black, or smells unusually foul, contact your vet because that can signal infection or a dead kid still inside.
 
-The afterbirth is typically expelled within 30 minutes to two hours after the birth of the kid. It's important for the farmer to check the afterbirth to make sure that it's complete and that there are no pieces left inside the goat.
+## When Retained Afterbirth Becomes a Problem
 
-If any part of the afterbirth is left inside, it can lead to serious health problems for the goat. After the afterbirth has been checked, it can be removed from the pen and disposed of.
+Retained afterbirth happens when the placenta or parts of it don't come out within 12 to 24 hours after the last kid. This is one of the more common postpartum complications in goats and can turn serious fast.
 
-## How do you care for a newborn goat kid?
+A doe with a retained placenta may develop metritis, which is an infection of the uterus. Signs include fever, foul-smelling discharge, loss of appetite, and lethargy. Don't pull on a hanging placenta because tearing it leaves pieces inside that rot and cause worse infection. Your vet may prescribe antibiotics and oxytocin to help the doe expel the remaining tissue on her own.
 
-Here are a few things you should know about caring for your new addition.
+## How to Prevent Retained Afterbirth
 
-First, you need to make sure that the kid has access to fresh, clean water at all times. A bowl or bucket placed in the pen will suffice, but make sure to check it regularly to make sure that it hasn't been tipped over or contaminated.
+Good nutrition during pregnancy goes a long way toward preventing this problem. Does that are well-fed with proper mineral supplementation, especially selenium and vitamin E, have fewer afterbirth complications. A quality loose mineral mix designed for goats should be available free-choice throughout pregnancy.
 
-Second, kids need a source of nutritious food. A commercial kid feed is ideal, but if you're unable to get your hands on some, a mixture of whole milk, powdered milk replacer, and plain yogurt will do in a pinch.
+Keep the kidding area clean and dry so the doe isn't fighting off bacteria during her most vulnerable time. Fresh straw or shavings in the kidding stall make a big difference. Reducing stress during labor also helps because a calm doe contracts more effectively and expels everything more completely.
 
-Third, kids need a place to sleep. A small box or kiddie pool filled with straw makes a perfect bed.
+## Caring for Kids Right After Birth
 
-Just be sure to place it in a draught-free area to keep your kid warm and comfortable.
+Clear the mucus from each kid's nose and mouth as soon as it's born. Make sure the kid is breathing well and place it near the doe's head so she can start cleaning it and bonding. Dip the navel cord in a 7% iodine solution to prevent bacteria from entering through the umbilical stump.
 
-To wrap up, keep an eye out for signs of illness, such as lethargy, diarrhea, or excessive crying. If you notice any of these symptoms, consult a goat expert immediately.
+Colostrum intake within the first hour is critical. That first milk is packed with antibodies the kid can't get any other way. If the doe rejects a kid or can't nurse, have frozen colostrum or a colostrum replacer on hand as backup. Keep a few bottles and nipples in your kidding kit because you never know when you'll need to step in.
 
-Caring for a newborn goat kid may seem daunting at first, but with a little knowledge and patience, you'll be a pro in no time.
+## Final Thoughts
 
-## What are the common problems associated with afterbirth in goats?
+Passing some afterbirth between kids during a multiple birth is normal and not a cause for alarm. The real concern is a retained placenta that doesn't pass within 24 hours of the last delivery.
 
-Afterbirth is the placenta and accompanying fluids that are expelled from the uterus after an animal gives birth. In goats, the afterbirth typically consists of two large, flat discs of tissue known as cotyledons.
-
-These cotyledons are attached to the placenta by a thick, rope-like cord known as the funis. The cotyledons and funis are encased in a sac-like structure known as the chorioallantois.
-
-Afterbirth is normally expelled within 12 hours of kidding (giving birth). Still, retained afterbirth is a common problem in goats.
-
-Retained afterbirth occurs when all or part of the placenta and fluids are not expelled within 12 hours after kidding.
-
-Retained afterbirth can lead to a number of health problems in goats, including metritis (infection of the uterus), septicemia (blood poisoning), and mastitis (infection of the mammary glands). Retained afterbirth can also cause reduced milk production, weight loss, and death.
-
-There are several factors that can contribute to retained afterbirth in goats. One factor is dystocia, which is difficulty giving birth.
-
-Dystocia can be caused by a number of things, including fetal malpositioning, maternal obesity, and pelvic abnormalities.
-
-Another factor that can contribute to retained afterbirth is poor nutrition. Goats that are malnourished are more likely to experience uterine prolapse, which can make it difficult for them to expel the afterbirth properly.
-
-Finally, retained afterbirth is more likely to occur in first-time kidders or does that have had the previous difficulty kidding.
-
-## How to prevent retained afterbirth in goats?
-
-After a goat gives birth, it's important to check that the afterbirth has been completely expelled. If any part of the afterbirth is retained, it can lead to serious health problems for the goat.
-
-The most common symptom of retained afterbirth is a foul-smelling discharge from the vulva. Other signs include lethargy, lack of appetite, and fever.
-
-Treatment typically involves manually removing the remaining portion of the afterbirth and administering antibiotics to prevent infection. With prompt treatment, most goats make a full recovery.
-
-But, if left untreated, retained afterbirth can be fatal.
-
-As a goat owner, there are some things you can do to help prevent this condition. First, make sure that the birthing area is clean and dry.
-
-It's also important to provide plenty of fresh water and hay during the last few weeks of pregnancy.
-
-Finally, do not allow the goat to become too stressed during labor. If everything goes smoothly, there's a much lower risk of retained afterbirth.
-
-By taking these precautions, you can help keep your goat healthy and avoid this potentially deadly condition.
-
-## How often do goats give birth?
-
-Goats are able to produce offspring more frequently than many other animals. They typically have an estrus cycle of about 21 days, which means they can ovulate and be receptive to mating every three weeks or so.
-
-This high fertility rate is one of the reasons goats have been such successful livestock animals; they can quickly produce large numbers of offspring. On average, does (female goats) will give birth to two kids at a time, though triplets and even quadruplets are not uncommon.
-
-Kidding (giving birth) usually occurs once a year, though some does may have two kidding seasons in a year if conditions are favorable.
-
-Consequently, it's not unusual for a doe to produce eight offspring over the course of two years. Given the high reproductive potential of goats, breeders must take care to avoid inbreeding and maintain genetic diversity within herds.
-
-## How many kids do goats usually have?
-
-On average, goats usually have two kids at a time. Even so, it's not uncommon for them to have more.
-
-In fact, it's not uncommon for them to have up to six kids at a time.
-
-Goats are able to have multiple kids because they are able to store sperm in their reproductive system. This means that they can mate multiple times and still produce offspring.
-
-The number of kids a goat has is also determined by the breed. Some breeds of goats are known to have more kids than others.
-
-For example, the Alpine breed is known to have up to six kids at a time.
-
-So, if you're wondering how many kids goats usually have, the answer is two, but they can have up to six.
-
-## What is the weight of a newborn goat kid?
-
-A newborn goat kid can weigh anywhere from 6 to 10 pounds. Bucks, or male goats, tend to be on the heavier end of this range, while does, or female goats, are usually on the lighter side.
-
-However, there's quite a bit of variation between individual animals, so it's not unusual for a doe to give birth to a buck that weighs more than she does. On average, kids gain about a pound per week during their first few months of life.
-
-Keep in mind, they may put on weight more quickly or slowly depending on factors such as their breed, diet, and activity level. So, an adult goat will weigh anywhere from 150 to 250 pounds.
-
-### What Does Normal Afterbirth Look Like?
-
-A healthy afterbirth is dark reddish-brown and has a slightly slimy texture. You should be able to see the cotyledons, which look like small, round buttons attached to the membrane.
-
-If the afterbirth is green, black, or has a foul smell, that is a warning sign of infection or a dead kid still inside the doe. Contact your vet immediately if you notice anything unusual about the color or odor.
-
-Count the cotyledons if you can. Each kid typically has its own set, so comparing the count to the number of kids born can help you determine whether any placental tissue was retained.
-
-### When to Intervene During Kidding
-
-Most does handle the birthing process just fine on their own, but there are moments when you need to step in. If a doe has been pushing hard for more than 30 minutes without producing a kid, something may be wrong.
-
-Wash your hands thoroughly and apply lubricant before doing a gentle internal check. Feel for the position of the kid. Two front hooves with a nose resting on top is the ideal presentation.
-
-If you feel a tail or only one leg, the kid is likely malpositioned and may need to be repositioned before delivery. This is one of those situations where having your vet's emergency number saved in your phone pays off.
-
-### Cleaning Up After Kidding
-
-Once all the kids are delivered and the afterbirth has passed, clean the kidding stall thoroughly. Remove all soiled bedding and replace it with fresh straw or shavings.
-
-Some does will try to eat the afterbirth, which is normal mammalian behavior. Most goat owners let them have at it, though a few prefer to remove it right away to keep the area clean.
-
-Disinfect any equipment you used during the delivery and wash your clothes promptly. Kidding can be messy business, but a clean environment goes a long way toward preventing postpartum infections.
-
-## Closing Notes
-
-Goats can pass afterbirth between kids, but it's important to take care of the afterbirth and make sure that it does not become infected. It's also important to keep an eye on the goat kid for signs of illness.
-
-If you notice any problems, consult your veterinarian immediately. Caring for a newborn goat kid may seem daunting at first, but with a little bit of knowledge and patience, you'll be a pro in no time.
+Keep your kidding kit stocked with OB gloves, lubricant, iodine for navels, and your vet's phone number. A clean barn, good prenatal nutrition, and a watchful eye will get you through most kidding seasons without trouble.

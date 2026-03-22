@@ -43,112 +43,51 @@ faq:
   - question: "What kind of cabbage is poisonous to goats?"
     answer: "There are many different varieties of cabbage, including green, red, and Savoy. Though cabbage is safe for most animals to eat, there are some types that can be poisonous to goats."
 ---
-Cabbage is a popular vegetable that has many benefits for humans. But can goats eat cabbage?
 
-What are the risks? And how much should be served at once?
+Yes, goats can eat cabbage. It is a brassica vegetable like broccoli and kale, and most goats go after it with enthusiasm.
 
-This article will answer all of those questions and more.
+The main thing to watch out for is feeding too much at once. Cabbage can cause gas and bloat if a goat eats a large amount in one sitting, so introduce it gradually and keep portions reasonable.
 
 ## Can goats eat cabbage?
 
-Cabbage is a leafy green vegetable that is part of the Brassica genus. This genus also includes broccoli, Brussels sprouts, and kale.
+Cabbage is safe for goats and provides a nice nutritional boost on top of their regular hay diet. It is high in vitamins A and C, contains fiber and potassium, and the sulfur compounds in cabbage have natural antibacterial properties.
 
-However, it's important to feed cabbage in moderation, as too much can cause digestive problems. When feeding cabbage to goats, it's best to chop or shred it into small pieces to prevent choking.
+All varieties work fine. Green, red, napa, and savoy cabbage are all safe to feed. Most goats seem to prefer the loose outer leaves over the dense inner head, but every goat has its own preferences.
 
-## What are the benefits of feeding cabbage to goats?
+## The bloat risk with brassicas
 
-Cabbage is a leafy green vegetable that is often used in salads and slaws. Still, it can also be a portion of valuable food for goats.
+Brassicas like cabbage produce gas during digestion, and goats are prone to bloat when gas builds up faster than they can release it. A bloated rumen puts pressure on the diaphragm and makes it hard for the goat to breathe.
 
-Goats are browsing animals, which means that they prefer to eat leaves and other foliage rather than grasses.
+The fix is simple. Do not dump a whole head of cabbage in the feeder the first time. Start with a few leaves and work up to larger amounts over a week or so, giving the rumen bacteria time to adjust.
 
-Cabbage is an excellent source of nutrients for goats, and it can help to boost their overall health. And also, cabbage is a relatively low-maintenance crop, and it can be easily grown in most climates.
+If your goats have never eaten cabbage before, offer a couple of leaves and watch how they handle it. Once their digestive system adapts, they can eat more without any trouble.
 
-As a result, cabbage can be a valuable addition to any goat diet.
+## How to prepare and serve cabbage
 
-## What are the different kinds of cabbage?
+Quarter a head of cabbage and toss it in the feeder. Goats will tear into it with no help from you. For smaller or younger goats, shred or chop the cabbage to reduce any choking risk.
 
-There are many different types of cabbage, and each has its own distinct flavor and texture. The most common type of cabbage is green cabbage, which has a crunchy texture and a slightly sweet flavor.
+You can also mix shredded cabbage into their regular hay. The strong cabbage smell tends to make the whole meal more interesting for picky eaters.
 
-Red cabbage is another popular variety, and it has a slightly peppery taste and a softer texture. Savoy cabbage is another type of cabbage that is often used in salads and stir-fries.
+Always feed cabbage raw and plain. Cooked cabbage with salt, butter, or seasonings is off limits. Leftover coleslaw and sauerkraut are also bad choices because of the vinegar, sugar, and preservatives. Stick to plain, fresh cabbage straight from the garden or grocery store.
 
-It has a crinkly appearance and a mild, slightly sweet flavor.
+## How much cabbage to feed
 
-Finally, there's the Brussels sprout, which is actually a type of mini cabbage. Brussels sprouts have a nutty flavor and a firm texture.
+One to two pounds of cabbage per adult goat per day is a reasonable limit. That is roughly a quarter to half a head, depending on the size.
 
-## What kind of cabbage is poisonous to goats?
+Baby kids should only get a few small pieces until their rumens are more developed. Pregnant and nursing does can have cabbage too, but keep portions on the smaller side since their digestive systems are already under extra stress.
 
-There are many different varieties of cabbage, including green, red, and Savoy. Though cabbage is safe for most animals to eat, there are some types that can be poisonous to goats.
+If you grow cabbage in your garden, your goats make excellent cleanup crew for the outer leaves and trimmings you do not want to use in the kitchen.
 
-One such type of cabbage is the black-seeded variety, which contains high levels of pyrrolizidine alkaloids. These alkaloids can be toxic to goats, causing liver damage and potentially death.
+## What about pesticides on cabbage?
 
-This means only feed cabbage to goats if you are sure that it's not the black-seeded variety. If you are unsure, it's best to err on the side of caution and avoid feeding cabbage to your goats altogether.
+If you are buying cabbage from the store, give it a good rinse before feeding it to your goats. Conventionally grown cabbage can carry pesticide residue on the outer leaves.
 
-## Risks associated with feeding cabbage to goats
+Organic cabbage or cabbage from your own garden is the safest bet. If you spray anything on your garden, double check that it is safe for livestock before letting your goats near those plants.
 
-Cabbage is a brassica and as such, contains high levels of oxalates. When ingested in large quantities, oxalates can bind to calcium in the goat's gut, forming insoluble calcium oxalate crystals.
-
-These crystals can cause blockages in the intestine, leading to digestive issues and even death. In addition, brassicas are also high in goitrogens, which can interfere with the thyroid's ability to produce hormones.
-
-This can lead to a condition known as goiter, characterized by an enlarged thyroid gland. For these reasons, it's important to feed cabbage to goats only in moderation, as part of a varied diet.
-
-Goats should also have access to plenty of fresh water, as this will help to flush any harmful substances out of their system.
-
-### Other risks to consider
-
-When feeding cabbage to goats, you must be aware of some other potential risks. For example, if the cabbage leaves are treated with pesticides, these chemicals can be harmful to goats.
-
-it's, therefore, best to choose organic cabbage when possible, or wash the leaves thoroughly before feeding them to goats. Besides, it's also important to make sure that the cabbage is chopped or shredded into small pieces, as large pieces can cause choking.
-
-In the end, brassicas such as cabbage are high in sugar. The outcome is that they should only be fed to goats in moderation, as too much sugar can lead to health problems such as obesity and diabetes.
-
-## How much cabbage should I serve to goats?
-
-When feeding cabbage to goats, you need to remember that they are not humans and cannot digest all the nutrients in the cabbage leaves.
-
-Cabbage is a good source of vitamins A and C, as well as calcium and iron, but it also contains high levels of nitrates. When ingested by goats, these nitrates can convert into nitrites and cause health problems such as difficulty breathing, low blood pressure, and paralysis.
-
-For this reason, limit the amount of cabbage that goats consume. A good rule of thumb is to offer no more than 1-2 pounds of cabbage per goat per day.
-
-When feeding cabbage to goats, it's also essential to monitor them closely for signs of illness and contact an animal expert if any health concerns arise.
-
-## Can all goats eat cabbage?
-
-Not all goats can eat cabbage. In particular, pregnant and nursing goats should avoid brassicas such as cabbage, as they contain high levels of nitrates.
-
-These nitrates can convert into nitrites in the goat's body and cause health problems such as difficulty breathing, low blood pressure, and paralysis. For this reason, it's best to limit the amount of cabbage that pregnant and nursing goats consume.
-
-## Can baby goats eat cabbage?
-
-Baby goats can eat cabbage. Even so, it's important to feed them only small amounts of cabbage, as their digestive systems are not yet fully developed.
-
-In addition, baby goats should only eat shredded or chopped cabbage, as large pieces can cause choking. It's also important to monitor baby goats closely when they first start eating cabbage, as they may be more susceptible to health problems such as diarrhea.
-
-## What breed of goat usually loves to eat cabbage?
-
-There are many different breeds of goats, and each one has its own unique set of dietary preferences. However, there's one breed of goat that is particularly fond of cabbage: the Pygmy goat.
-
-Pygmy goats are a small breed of domestic goat native to Africa. They are known for their lively personalities and their love of eating foliage.
-
-WhilePygmy goats will eat just about anything, they seem to have a particular liking for cabbage.
-
-This may be due to the fact that cabbage is rich in nutrients and minerals, which are essential for the health of Pygmy goats.
-
-Cabbage is also a good source of fiber, which helps keep the digestive system of Pygmy goats functioning properly. For these reasons, it's not surprising that Pygmy goats often enjoy munching on cabbage leaves.
-
-### How to Prepare Cabbage for Your Goats
-
-The easiest method is to quarter a head of cabbage and toss it into the feeder. Goats will tear into it with enthusiasm. Smaller pieces reduce the choking risk for younger or smaller goats.
-
-You can also shred the cabbage and mix it with their regular hay. This works especially well for picky eaters because the strong cabbage smell tends to make the whole meal more appealing to them.
-
-Avoid feeding cabbage that has been cooked with salt, butter, or seasonings. Plain raw cabbage is always the safest option. Leftover coleslaw or sauerkraut is not appropriate either because of the added vinegar, sugar, and preservatives.
+Wilted or slightly yellowed outer leaves are fine to feed. Just toss anything that is slimy or has mold growing on it.
 
 ## Final Thoughts
 
-Goats can eat cabbage. Cabbage is a good source of vitamins and minerals, but it's also high in sugar and nitrates.
+Cabbage is a healthy treat that most goats love. Start slow to avoid bloat, serve it raw and plain, and keep portions within reason.
 
-The outcome is that it should only be fed to goats in moderation.
-
-Pregnant and nursing goats should avoid cabbage altogether, as nitrates can be harmful to their health. Baby goats can eat cabbage, but only in small quantities.
-
-If you are unsure about what kind of cabbage to feed your goats, it's best to consult with a veterinarian.
+Your goats will be happy, and you will have a good use for all those extra outer leaves from the garden.

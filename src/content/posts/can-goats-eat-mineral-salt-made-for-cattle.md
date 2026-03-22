@@ -15,22 +15,14 @@ quickAnswer:
 toc:
   - label: "Can goats eat mineral salt made for cattle?"
     href: "#can-goats-eat-mineral-salt-made-for-cattle"
-  - label: "What are the health benefits of feeding mineral salt to goats?"
-    href: "#what-are-the-health-benefits-of-feeding-mineral-salt-to-goats"
-  - label: "What are the risks associated with feeding mineral salt to goats?"
-    href: "#what-are-the-risks-associated-with-feeding-mineral-salt-to-goats"
-  - label: "How can you prevent your goats from overeating salt?"
-    href: "#how-can-you-prevent-your-goats-from-overeating-salt"
-  - label: "What are the treatments for salt toxicity in goats?"
-    href: "#what-are-the-treatments-for-salt-toxicity-in-goats"
-  - label: "How can you introduce mineral salt into my goat's diet?"
-    href: "#how-can-you-introduce-mineral-salt-into-my-goats-diet"
-  - label: "Are there any alternative options to feeding mineral salt to goats?"
-    href: "#are-there-any-alternative-options-to-feeding-mineral-salt-to-goats"
-  - label: "How much mineral salt can goats consume per day?"
-    href: "#how-much-mineral-salt-can-goats-consume-per-day"
-  - label: "When is the best time to give mineral salt to goats?"
-    href: "#when-is-the-best-time-to-give-mineral-salt-to-goats"
+  - label: "The copper problem"
+    href: "#the-copper-problem"
+  - label: "Never use sheep minerals for goats"
+    href: "#never-use-sheep-minerals-for-goats"
+  - label: "What goats actually need"
+    href: "#what-goats-actually-need"
+  - label: "Using cattle minerals in a pinch"
+    href: "#using-cattle-minerals-in-a-pinch"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
@@ -44,108 +36,48 @@ faq:
     answer: "There are a few things you can do to prevent your goats from overeating salt. First, provide them with a salt block or mineral lick that is specifically designed for goats. This will help ensure that they are getting the right amount of salt in their diet."
 ---
 
-You may be wondering if your goats can enjoy the same mineral salt lick that you give to your cattle or note. And if so, what are the health benefits and risks associated with doing so?
+This is one of those questions that comes up a lot, especially on farms where goats and cattle share space. The mineral block is right there, so why not let the goats use it too?
 
-we will answer all of your questions related to feeding mineral salt to goats. We will also provide some valuable tips on how to properly introduce this supplement into their diet.
+The short answer is that cattle minerals aren't a good long-term solution for goats. Here's why.
 
 ## Can goats eat mineral salt made for cattle?
 
-In addition, goats are much more likely to overeat salt than cattle. This is because they have a higher sodium requirement per body weight than cattle.
+Cattle mineral salt won't poison your goats if they lick it a few times. It's not going to cause an emergency. But it's not formulated for what goats actually need, and using it as their primary mineral source will leave gaps in their nutrition.
 
-As such, you will need to provide them with a salt block or mineral lick that is specifically designed for goats.
+The biggest issue isn't the salt itself. Plain salt is fine for goats, and they need it. The problem is what's in the mineral blend alongside that salt, and more importantly, what's missing from it.
 
-So, if you are planning on giving your goats a mineral salt lick, make sure to get one that is specifically made for them. You can find these at most feed stores or online.
+## The copper problem
 
-## What are the health benefits of feeding mineral salt to goats?
+Goats need significantly more copper than cattle, and most cattle mineral formulas reflect that difference. Cattle minerals typically contain lower copper levels because cattle are less prone to deficiency and more sensitive to excess.
 
-There are many health benefits associated with feeding mineral salt to goats. For one, it helps them properly digest their food and absorb nutrients.
+A goat relying on cattle minerals as its only supplement will often develop a copper deficiency over time. Signs include a rough, faded coat (black goats turning reddish-brown is a classic tell), a fish-tail appearance at the end of their tail hair, poor immune function, and fertility problems.
 
-And also, salt helps regulate fluid levels in the body, which is important for overall health and proper kidney function.
+If you notice these symptoms in your herd, copper is usually the first thing to check. A goat-specific loose mineral with adequate copper levels is the simplest fix.
 
-Salt also provides goats with essential minerals, such as sodium, potassium, and chloride. These minerals are necessary for proper muscle function, nerve transmission, and hydration.
+## Never use sheep minerals for goats
 
-In addition, salt helps promote healthy skin and coat. It can also help reduce stress levels and improve overall well-being.
+This is even more important than the cattle mineral issue. Sheep are highly sensitive to copper toxicity, so sheep minerals contain little to no copper at all.
 
-## What are the risks associated with feeding mineral salt to goats?
+Feeding sheep minerals to goats is a recipe for serious copper deficiency. If you run a mixed flock of sheep and goats, you'll need to provide separate mineral stations. Goats need their copper, and sheep can't tolerate it. There's no single product that works safely for both.
 
-While there are many health benefits associated with feeding mineral salt to goats, there are also some risks. The most common risk is dehydration.
+## What goats actually need
 
-This can occur if the goats consume too much salt or do not have access to fresh, clean water.
+Goats do best on a loose mineral supplement formulated specifically for goats. Loose minerals are better than blocks because goats have smooth tongues and can't lick enough off a hard block to meet their daily requirements.
 
-Other risks include gut irritation, bloating, and constipation. If you notice any of these symptoms in your goats, discontinue the use of the salt lick and consult with a veterinarian.
+Look for a goat mineral that provides at least 1,500 ppm of copper, along with adequate selenium, zinc, and other trace minerals. Offer it free-choice in a covered feeder so the goats can take what they need. Most goats will self-regulate their intake pretty well when given the option.
 
-It's also worth noting that it is important to supervise your goats when they are using the salt lick. This will help make sure that they do not consume too much salt.
+Keep fresh water available at all times when providing any mineral supplement. Salt drives thirst, and goats need to be able to drink whenever they want.
 
-## How can you prevent your goats from overeating salt?
+## Using cattle minerals in a pinch
 
-There are a few things you can do to prevent your goats from overeating salt. First, provide them with a salt block or mineral lick that is specifically designed for goats.
+If cattle minerals are all you have available right now, they'll work as a temporary solution. Just plan on supplementing copper separately until you can switch to a goat-specific product.
 
-This will help make sure that they are getting the right amount of salt in their diet.
+Copper boluses are the most common way to fill that gap. These are small copper oxide wire particles in a gel capsule that you give orally. They release copper slowly over several weeks and are a reliable way to prevent deficiency.
 
-You can also try adding some fresh greens to their diet. This will help them get the nutrients they need without consuming too much salt.
-
-Finally, make sure that they have access to fresh, clean water at all times. This will help prevent dehydration and other health problems associated with Salt toxicity.
-
-## What are the treatments for salt toxicity in goats?
-
-Salt toxicity is a serious condition that can occur when goats consume too much salt. Symptoms of salt toxicity include excessive thirst, lethargy, incoordination, and muscle weakness.
-
-If left untreated, salt toxicity can lead to death.
-
-There are two main treatment options for salt toxicity in goats. The first is to Administer oral fluids to help flush the excess salt from the goat's system.
-
-The second is to provide the goat with a low-sodium diet.
-
-This can be accomplished by feeding the goat foods that are naturally low in sodium or by adding a sodium-free supplement to their diet. With prompt treatment, most goats make a full recovery from salt toxicity.
-
-## How can you introduce mineral salt into my goat's diet?
-
-If you are planning on feeding mineral salt to your goats, it is important to introduce it slowly into their diet. Start by giving them a small amount of salt and gradually increase the amount over time.
-
-It is also important to provide fresh, clean water at all times. Goats need access to water to help them properly digest their food and absorb nutrients.
-
-Too much salt can lead to dehydration and other health problems.
-
-You should make sure that the goats have access to a mineral salt lick that is specifically made for them. You can find these at most feed stores or online.
-
-Feeding mineral salt to goats can have many health benefits. But, it is important to introduce it slowly into their diet and make sure that they have access to fresh, clean water at all times.
-
-## Are there any alternative options to feeding mineral salt to goats?
-
-There are some alternative options to feeding mineral salt to goats. One option is to provide them with a balanced diet that includes fresh greens and other nutrient-rich foods.
-
-This will help them get the nutrients they need without consuming too much salt.
-
-Another option is to add a sodium-free supplement to their diet. This can be found at most health food stores or online.
-
-Finally, you can try feeding the goats foods that are naturally low in sodium. This includes fruits, vegetables, and grains.
-
-## How much mineral salt can goats consume per day?
-
-The amount of mineral salt that goats can consume per day will vary depending on their age, size, and health. With that in mind, a general rule of thumb is to give them no more than 1 ounce (28 grams) of salt per day.
-
-It is also important to make sure that the goats have access to fresh, clean water at all times. This will help prevent dehydration and other health problems associated with Salt toxicity.
-
-If you have any concerns about the amount of salt your goats are consuming, it is best to consult with a veterinarian.
-
-## When is the best time to give mineral salt to goats?
-
-Mineral salt is an important part of a goat's diet. Goats need salt to help them absorb nutrients and to maintain proper fluid balance.
-
-mineral salt also helps goats stay warm in cold weather and cool in hot weather.
-
-While goats can get some salt from their food, they will also need to have a salt lick or mineral block available at all times.
-
-The best time to give goats a salt lick or mineral block is during the winter months. Goats are more likely to overheat during the summer, so they do not need as much salt during this time.
-
-During the winter, however, goats may not get enough salt from their food and may start to eat snow or ice to get the salt they need.
-
-If you live in an area where snow and ice are not available, it is even more important to provide your goats with a salt lick or mineral block during the winter months.
+Talk to your vet about the right dosage based on your goats' size and your local forage conditions. Some areas are naturally low in copper, which makes supplementation even more important.
 
 ## Final Thoughts
 
-Goats can eat mineral salt made for cattle. However, it is important to introduce it slowly into their diet and make sure that they have access to fresh, clean water at all times.
+Cattle mineral salt won't hurt your goats in the short term, but it's not meeting their needs. Goats require more copper than cattle formulas provide, and sheep minerals are even worse because they contain almost none.
 
-You should provide the goats with a balanced diet that includes fresh greens and other nutrient-rich foods.
-
-If you have any concerns about feeding mineral salt to your goats, it is best to consult with a goat expert.
+Invest in a goat-specific loose mineral and offer it free-choice. It's one of the simplest things you can do to keep your herd healthy, and it costs very little compared to treating the problems that mineral deficiency causes down the road.

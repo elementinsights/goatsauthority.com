@@ -43,140 +43,47 @@ faq:
   - question: "What breed of goat has more than two udders?"
     answer: "There are many goat breeds that have more than two udders. These include the Alpine, LaMancha, Nubian, Oberhasli, Toggenburg, and Saanen."
 ---
-Do goats have udders? It's a question that has baffled farmers and pet owners for a long time.
 
-It turns out that the solution is a little more intricate than you initially thought.
-
-The solution to this question will be thoroughly examined along with community feedback and frequently asked questions.
+Yes, female goats have udders. It's one of those questions that sounds silly until you actually stop and think about goat anatomy, and then it gets more interesting than you'd expect.
 
 ## Do goats have udders?
 
-At the same time, there's another type of goat that does not have udders, and that is the Cashmere goat. These goats are bred for their soft, luxurious wool, which is often used in high-end clothing.
+Female goats, called does, have an udder with two teats. The udder develops during pregnancy and fills with colostrum before kidding so the newborns can nurse right away.
 
-For this reason, they do not produce milk and do not need udders.
+Bucks and wethers have two small, non-functional teats but no udder. These rudimentary teats don't produce milk and serve no real purpose. Occasionally a buck will have slightly enlarged teats, but that's just a cosmetic oddity.
 
 ## What do udders look like?
 
-Udders typically have two teats, which can be either long or short. Each teat is surrounded by an area of thickened skin called the "bag." The bag helps to hold milk and keep the teat from being chafed by the goat's clothing.
+A healthy udder sits high and tight against the body with two teats pointing straight down. The skin can be pink, brown, black, spotted, or any combination of colors regardless of the goat's body coat color.
 
-The udder may be any color, including black, tan, pink, or spotted. Some goats have hair on their udders, while others do not.
+Udder shape and attachment matter a lot in dairy breeds. A well-attached, globular udder makes milking easy and stays cleaner because it's up off the ground. A pendulous udder that hangs low gets stepped on, dragged through mud, and is much harder to milk by hand or machine.
 
-## Do all females have udders?
+## Supernumerary teats
 
-Not all females have udders. Udders are a secondary sex characteristic in mammals, meaning they only develop in animals that are sexually mature.
+Some goats are born with extra teats, called supernumerary teats. This is a fairly common fault that shows up across all breeds, and it's something to check for when buying dairy stock.
 
-In order for a female to develop udders, she must first reach sexual maturity and produce the hormone estrogen.
-
-Not all females reach sexual maturity. Despite that.
-
-Some animals are born without functioning ovaries and can never produce estrogen. These animals will never develop udders, even if they mate.
-
-## What breed of goat has more than two udders?
-
-There are many goat breeds that have more than two udders. These include the Alpine, LaMancha, Nubian, Oberhasli, Toggenburg, and Saanen.
-
-All of these breeds are known for their large milk production. However, they also have a number of other distinguishing features.
-
-For example, the Alpine is a hardy breed that can thrive in cold climates.
-
-The LaMancha is known for its long ears, which help to protect it from predators. The Nubian is a very social breed that enjoys interacting with humans.
-
-The Oberhasli is a calm and docile breed that is easy to handle.
-
-The Toggenburg is a vigorous and energetic breed that loves to play. Finally, the Saanen is a gentle and affectionate breed that makes an excellent pet.
-
-As you can see, there are many different types of goats that have more than two udders. Each one has its own unique personality and set of characteristics.
-
-## What are the benefits of udders to goats?
-
-Goats are one of the most popular domesticated animals in the world, and their milk is a key source of nutrition for both humans and other animals.
-
-While goats can live without udders, they are a vital part of the animal's anatomy, and there are several benefits that they provide.
-
-One of the most important benefits of udders is that they help to regulate the temperature of goat milk. The milk is stored in an intricate system of tubes and sacs, and the udder helps to keep the milk at a consistent temperature.
-
-This is especially important in hot climates, where milk can quickly spoil if it gets too warm. In addition, udders help to protect the goat's internal organs from injury.
-
-The udder is located near the goat's hind legs, and it acts as a cushion that absorbs impact if the animal falls or is hit by something.
-
-Finally, udders serve as reservoirs of nutrients for newborn goats. Goats typically give birth to two kids at a time, and the mother's milk is rich in fats, proteins, and other nutrients that are essential for the baby's growth and development.
-
-For all these reasons, udders are an essential part of the goat anatomy.
-
-## What are the different types of udders that goats can have?
-
-There are two different types of udders that goats can have: double and single. Double udders are the most common, and they're characterized by two separate compartments for milk production.
-
-Single udders, on the other hand, have just one large compartment. While both types of udders are functional, some goat breeders prefer double udders because they tend to be more symmetrical and evenly proportioned.
-
-Double udders often produce more milk overall. Even so, single udders are less likely to become infected and are easier to clean, so they may be a better choice for some farmers.
-
-is, the best type of udder for a particular goat depends on the animal's individual needs and preferences.
-
-## Can goats produce milk without udders?
-
-Though often considered a humorous topic, the science behind why goats produce milk without udders is actually quite interesting. To understand how this occurs, one must first understand a bit about goat anatomy.
-
-Rather than having teats, goats have two mammary glands located in their groin area. Each gland is divided into several compartments, each of which contains a teat.
-
-When a goat is milked, the milk flows from the compartments and out through the teats.
-
-Though goats lack udders, they do have a small amount of breast tissue. This tissue is located just behind the mammary glands and is used to produce milk for their young.
-
-However, this milk is not suitable for human consumption and so is not generally collected.
-
-When milking a goat, one must be careful not to damage the breast tissue, as this can cause serious health problems for the animal.
-
-So, while it may seem like goats are producing milk without udders, they are actually just using a different method to store and release their milk. This unique anatomy allows them to remain relatively clean while still providing milk for their offspring.
+Extra teats can interfere with milking and may leak milk, creating a mess and inviting bacteria. Most breeders note supernumerary teats on registration papers, and some remove them surgically when the kid is young.
 
 ## What are the common diseases of goat udders?
 
-One of the most common diseases of goat udders is mastitis, which is an inflammation of the tissue. Mastitis can be caused by bacteria, fungi, or viruses, and it's often accompanied by swelling, pain, and redness.
+Mastitis is the big one. It's a bacterial infection of the udder tissue that causes swelling, heat, pain, and changes in the milk. You'll notice clumps, strings, or a watery consistency when you strip milk into a cup.
 
-In severe cases, the udder may become hard and hot to the touch, and the milk may contain pus or blood. If left untreated, mastitis can lead to sepsis, which is a potentially fatal condition.
-
-Another common disease of goat udders is hyperkeratosis, which is characterized by the thickening and hardening of the skin.
-
-Hyperkeratosis can make it difficult for the goat to urinate, and it may also lead to inflammation and infection. Treatment typically involves using topical creams or ointments to reduce the thickness of the skin.
+Severe mastitis can turn the udder blue or purple, which signals gangrene and is a veterinary emergency. Catching it early makes the difference between a round of antibiotics and losing the udder entirely.
 
 ## How to prevent udder diseases in goats
 
-Keeping your goat's udders clean and free from debris is the best way to prevent udder diseases. Be sure to clean their udders after milking and before allowing them to rest.
+Clean milking hygiene is your best defense against mastitis. Wash the udder before milking, use clean equipment, and dip the teats in an iodine-based teat dip after every milking session.
 
-You can use a soft cloth or brush to gently remove any dirt or manure that may have accumulated on their skin. Udder diseases can also be prevented by ensuring that your goats have access to fresh, clean water.
+Check the udder daily, even on days you're not milking. Feel for heat, hardness, or lopsided swelling that wasn't there before. A five-minute check takes almost no time and can save you from a serious problem down the road.
 
-Goats should have access to water at all times, and you should provide them with a clean source of water that is free from contaminants.
+## Udder care during dry off
 
-Providing your goats with a nutritious diet is also important for preventing udder diseases. Goats need a balanced diet that includes plenty of hay, grass, and fresh vegetables.
+Drying off a doe means gradually stopping milking so her body stops producing milk before the next kidding. Drop to once-a-day milking for a week, then skip days until she dries up on her own.
 
-### How Udder Shape Affects Milking Ease
+Watch for engorgement during this transition. If the udder gets rock hard and the doe seems uncomfortable, milk out just enough to relieve pressure but don't empty her completely. A teat sealant applied after the final milking helps keep bacteria out of the teat canal during the dry period.
 
-Not all udders are created equal making it easy to get a clean milk stream without bending over too far.
+## Final Thoughts
 
-A pendulous udder that hangs low is much harder to milk and far more prone to injury. Goats with low-hanging udders can step on their own teats or drag them through mud and manure, which invites infection.
+All female goats have udders, and udder health is one of the most important things to manage on a dairy operation. Good conformation, clean milking practices, and daily monitoring keep problems small before they turn into expensive vet bills.
 
-When selecting dairy does for your herd, pay close attention to udder conformation. A globular udder with teats that point straight down is ideal. Teats that splay outward make hand milking frustrating and machine milking nearly impossible.
-
-### What to Do If You Notice Udder Swelling
-
-Swelling in the udder right before kidding is completely normal. The doe is bagging up as her body prepares to produce colostrum for the newborns.
-
-Swelling that happens outside of the kidding window is a different story. Hot, hard, or lopsided swelling usually points to mastitis or some other infection. Press on the swollen area gently and check for heat compared to the other side.
-
-If the milk from the affected side looks watery, clumpy, or has a pink tinge to it, pull that doe off the milk line immediately. Start her on treatment as directed by your vet and milk that side out separately into a strip cup until the infection clears.
-
-### Udder Care During Dry Off Periods
-
-Drying off a doe means gradually stopping milking so her body stops producing milk before she kids again. This rest period is important for udder health and gives the tissue time to regenerate.
-
-Start by dropping to once-a-day milking for a week. Then skip a day between milkings. Within two to three weeks, most does will stop producing on their own.
-
-Watch for signs of engorgement during dry off. If the udder gets rock hard and the doe seems uncomfortable, milk out just enough to relieve the pressure. Do not milk her completely empty or you will signal the body to keep making milk.
-
-A teat sealant can be applied after the final milking to keep bacteria from entering the teat canal during the dry period. Ask your vet which product they recommend for your herd.
-
-## Summary
-
-Not all goats have udders, but those that do can produce milk without them. The best way to prevent udder diseases is to keep your goat's udders clean and free from debris.
-
-Providing your goats with a nutritious diet is also important for their overall health. If you have any concerns about your goat's health, be sure to consult with a veterinarian.
+Whether you're milking twice a day or just raising goats as pets, knowing what a healthy udder looks like helps you spot trouble early. Check for heat, swelling, and milk changes regularly, and your does will stay productive for years.

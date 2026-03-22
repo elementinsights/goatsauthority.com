@@ -43,130 +43,45 @@ faq:
   - question: "How do you go about getting raw goat's milk for your sheep?"
     answer: "There are a few steps involved in getting raw goat's milk for your sheep. First, you'll need to identify local farms or businesses that produce and sell goat's milk."
 ---
-Taking care of sheep can be a lot of fun. If you're thinking about getting sheep, you may be wondering if they can drink raw goat's milk or not.
 
-And if so, what are the things you need to consider?
-
-we will answer those questions for you, as well as provide some nutritional facts and benefits of raw goat's milk for sheep.
+Sheep can absolutely drink raw goat milk, and it is one of the best substitutes available when a ewe rejects her lamb or dies during lambing. Goat milk is closer in composition to sheep milk than cow milk is, making it easier on a lamb's digestive system.
 
 ## Can sheep drink raw goats milk?
 
-In addition, raw goat's milk is easier for sheep to digest than cow's milk. This is because sheep have a different type of stomach than cows.
+Yes, sheep can drink raw goat milk safely. Many farmers who keep both goats and sheep rely on their milking does to feed orphaned lambs every kidding and lambing season.
 
-Sheep stomachs are more similar to human stomachs, so they can better digest the fat and proteins in raw goat's milk.
+Goat milk has a fat and protein profile that is much closer to ewe milk than cow milk. This matters because a lamb's stomach is built to handle a specific type of milk, and the closer you can match it, the fewer digestive problems you will deal with.
 
-## What is raw goat's milk and what are the benefits for sheep?
+## Bottle feeding orphan lambs with goat milk
 
-Raw goat's milk is milk that has not been pasteurized or processed in any other way, straight from the goat.
+Warm the milk to body temperature, around 101 degrees Fahrenheit, before offering it in a lamb bottle with a Pritchard teat. Newborn lambs need to eat every three to four hours for the first week of life.
 
-While many people believe raw milk to be more nutritious than its pasteurized counterpart, research on the subject is inconclusive; some studies suggest raw milk contains more nutrients while others claim there is no difference between pasteurized and unpasteurized dairy products.
+Feed small amounts at each session rather than stuffing the lamb full. Overfeeding is the fastest way to cause scours in a bottle lamb, and cleaning up after a scouring lamb is no fun for anybody.
 
-Regardless of its nutritional value, many people choose to drink raw goat's milk because it is thought to have anti-inflammatory properties that can help to reduce joint pain and swelling.
+As the lamb grows, gradually space out feedings. By two weeks old, most lambs can go four to five hours between bottles, and by four weeks they are usually down to three feedings per day.
 
-Some people believe that raw goat's milk helps to strengthen the immune system by supplying important nutrients like protein, calcium, phosphorous, selenium, and vitamins A and K2.
+## Nutritional benefits for sheep
 
-And finally, many people enjoy drinking raw goat's milk simply because it tastes good! Regardless of the reason for drinking this nutritious substance, there are definitely many benefits to drinking raw goat's milk.
+Raw goat milk contains easily digestible fats and proteins along with calcium, phosphorus, and vitamins A and D. These nutrients support bone growth, immune function, and healthy weight gain in growing lambs.
 
-## Are there any risks associated with feeding raw goat's milk to sheep?
+The natural probiotics found in raw goat milk also help establish a healthy gut in young lambs. A lamb with good gut bacteria is less likely to develop scours and will absorb nutrients from solid feed more efficiently as it transitions off milk.
 
-There is currently some debate surrounding the use of raw goat's milk as a feed supplement for sheep.
+## Transitioning sheep off goat milk
 
-Some people argue that goat's milk may contain pathogens that could potentially harm sheep, while others point to evidence indicating that raw goat's milk is beneficial and safe for these animals.
+Lambs should not stay on milk forever. Start offering small amounts of creep feed alongside the goat milk around two weeks of age so they begin nibbling on solid food.
 
-It seems that the risks associated with feeding raw goat's milk to sheep may be relatively small. While there have been some isolated cases of sheep becoming ill after drinking this milk, these cases appear to be quite rare.
+By six to eight weeks, most lambs are eating enough hay and grain that you can start dropping one milk feeding per day each week. A gradual weaning schedule prevents the digestive upset that comes with sudden dietary changes.
 
-And, research has shown that supplementing a herd's diet with raw goat's milk can actually help improve overall health and reduce parasites and other stress-related problems.
+## Storing raw goat milk for your lambs
 
-Thus, while more research is needed on this subject, it seems likely that feeding raw goat's milk to sheep is generally safe and may even provide certain health benefits.
+Fresh raw goat milk should be refrigerated right after milking and used within three to five days. Strain it through a milk filter to catch any debris or hair that fell in during milking.
 
-## How do you go about getting raw goat's milk for your sheep?
+For longer storage, freeze portions in clean plastic containers or zip-lock bags. Frozen goat milk keeps well for about three months and thaws quickly in warm water when you need it.
 
-There are a few steps involved in getting raw goat's milk for your sheep. First, you'll need to identify local farms or businesses that produce and sell goat's milk.
+Label everything with the date it was milked and frozen. Use the oldest supply first to keep your rotation fresh and avoid waste.
 
-You'll then want to evaluate each potential supplier based on factors like price, quality, and availability.
+## Final thoughts
 
-Depending on your needs, you may also want to factor in things like whether the farm is certified organic, if it has a state license for selling raw goat's milk products, and so on.
+Raw goat milk is one of the best foster milk options you can offer an orphaned lamb. It is close to ewe milk in composition, easy to source if you already keep goats, and most lambs take to it without trouble.
 
-Once you've narrowed down your list of potential suppliers, you'll want to contact them directly and discuss your specific needs with them.
-
-This can involve everything from discussing the requirements for obtaining a license if required by law, to arranging pick-up schedules.
-
-The key to success in getting raw goat's milk for your sheep is to be prepared, patient, and flexible as you handle this process.
-
-## What are the things to consider before feeding raw goat's milk to your sheep?
-
-There are several important things to consider before feeding raw goat's milk to your sheep. First, you will want to make sure that the milk is properly pasteurized, or else it could contain dangerous bacteria that could make your sheep ill.
-
-You should look for a fresh and high-quality milk source so that your sheep get all of the nutrients they need from their food.
-
-Finally, you may also want to consult with your vet or another expert in order to determine whether raw goat's milk is recommended for your particular breed of sheep.
-
-Taking these considerations into account before feeding your sheep raw goat's milk can help make sure that they receive the proper nutrition and stay healthy and happy.
-
-## What are some of the nutritional facts and benefits of raw goat milk for sheep?
-
-Goat milk is a highly nutritious beverage that offers a range of health benefits for sheep, including improved digestion and stronger bones.
-
-This milk contains easily-digestible fats and proteins that are easier for sheep to processing, making it an ideal choice for nursing lambs or for animals recovering from illness.
-
-Goat milk is also rich in calcium and other important nutrients, helping to keep sheep healthy and strong. The minerals present in goat milk can help reduce inflammation and pain associated with joint disorders, such as arthritis.
-
-So whether you have nursing sheep or ones suffering from joint issues, drinking raw goat milk can be an incredibly beneficial addition to their diet.
-
-## Are there any other alternative milk sources that can be used for sheep?
-
-While there are many alternative milk sources that can be used for sheep, raw goat milk is generally considered to be the best option.
-
-This is because raw goat milk contains all of the nutrients that sheep need in order to stay healthy, including easily-digestible fats and proteins, calcium, and other minerals.
-
-Raw goat milk is less likely than other types of milk to cause digestive upset in sheep. However, if you are unable to obtain raw goat milk, there are a few other alternatives that can be used, such as raw cow's milk or soy milk.
-
-It is important to consult with your vet or another expert before feeding your sheep any alternative milk sources, as some of these options may not be suitable for all animals.
-
-## When is the best time to feed raw goat milk to sheep?
-
-The best time to feed raw goat milk to sheep is generally in the morning, as this will give them the nutrients they need to start their day.
-
-However, you may also choose to feed them raw goat milk at other times of the day, such as in the evening before they go to bed.
-
-It is important to consult with your vet or another expert in order to determine the best feeding schedule for your particular sheep.
-
-## How often should raw goat milk be given to sheep?
-
-There is no set answer for how often raw goat milk should be given to sheep, as this will depend on a number of factors, such as their age, health, and activity level.
-
-However, most goat owners recommend that sheep should have access to fresh milk every day. So if you are feeding your sheep raw goat milk, you will likely need to provide them with a fresh supply on a daily basis.
-
-### Bottle Feeding Orphan Lambs with Goat Milk
-
-Raw goat milk is one of the best substitutes for ewe milk when you are raising orphan lambs. It is closer in fat and protein content to sheep milk than cow milk is, which makes the transition easier on the lamb's digestive system.
-
-Warm the milk to body temperature (about 101 degrees Fahrenheit) before offering it in a lamb bottle with a Pritchard teat. Feed small amounts every three to four hours for the first week, then gradually space out feedings as the lamb grows.
-
-Keep a close eye on the lamb's stool consistency. If it becomes runny, you may be feeding too much at once or the milk may be too rich. Diluting it slightly with warm water for a day or two usually clears things up.
-
-### Transitioning Sheep Off Goat Milk
-
-Sheep should not rely on goat milk indefinitely. As lambs grow, they need to transition to solid feed including hay, grain, and fresh pasture.
-
-Start offering small amounts of creep feed alongside the goat milk around two weeks of age. By six to eight weeks, most lambs are eating enough solid food that you can begin reducing milk feedings.
-
-A gradual weaning schedule prevents the digestive upset that comes with sudden dietary changes. Cut out one milk feeding per day each week until the lamb is fully weaned onto dry feed and water.
-
-### Storing Raw Goat Milk for Sheep
-
-Fresh raw goat milk should be refrigerated immediately after milking and used within three to five days. Always strain it through a milk filter to remove any debris or hair that may have fallen in during milking.
-
-For longer storage, you can freeze raw goat milk in clean plastic containers or zip-lock bags. Frozen goat milk keeps well for up to three months and thaws quickly in warm water when you need it.
-
-Label each container with the date it was milked and frozen. Use the oldest milk first to keep your supply rotating and fresh.
-
-## To Wrap Things Up
-
-Raw goat milk is a highly nutritious beverage that can offer a range of health benefits for sheep. This milk is rich in easily-digestible fats and proteins, calcium, and other important nutrients, making it an ideal choice for nursing lambs or for animals recovering from illness.
-
-The minerals present in raw goat milk can help reduce inflammation and pain associated with joint disorders, such as arthritis.
-
-So whether you have nursing sheep or ones suffering from joint issues, drinking raw goat milk can be an incredibly beneficial addition to their diet.
-
-It is important to consult with your vet or another expert in order to determine whether raw goat's milk is recommended for your particular breed of sheep.
+Keep a few bags in the freezer during lambing season so you are ready if a ewe rejects a lamb or does not produce enough milk. That little bit of preparation can save a lamb's life.

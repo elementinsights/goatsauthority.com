@@ -43,108 +43,55 @@ faq:
   - question: "Can pregnant goats eat applesauce?"
     answer: "Many pregnant women crave applesauce, and it's usually considered a healthy snack option. Despite that, there's some debate about whether or not pregnant goats can eat applesauce."
 ---
-Many people think that goats will only eat grass and hay, but the reality is that goats are actually very versatile eaters. Goats can eat a variety of different foods, including applesauce.
 
-So, can goats eat applesauce?
+Yes, goats can eat applesauce. It is just pureed apples, and apples are perfectly safe for goats.
 
-we will answer all of your questions about whether or not goats can eat applesauce, including the nutritional benefits and potential risks. We’ll also provide some helpful tips on how to best feed applesauce to your goat.
+The catch is that not all applesauce is created equal. Plain, unsweetened applesauce is fine as an occasional treat, but the flavored stuff loaded with sugar and additives is not worth the risk.
 
 ## Can goats eat applesauce?
 
-However, applesauce should not be fed to goats on a regular basis. Applesauce is high in sugar and calories, so it should only be given to goats as an occasional treat.
+Plain unsweetened applesauce is safe for goats in small amounts. It is soft, easy to eat, and most goats love the sweet taste. A few spoonfuls as a treat once in a while will not cause any problems.
 
-Too much applesauce can lead to weight gain and other health problems in goats.
+The natural sugars in apples give goats a quick burst of energy, which makes it a decent pick-me-up for a goat that is a little off its feed. Just do not make it a daily habit because the sugar content adds up.
 
-## What is applesauce and where does it come from?
+## What to avoid in store-bought applesauce
 
-Applesauce is a type of food made from apples. It's often used as a condiment or as a dessert.
+Stay away from applesauce with added sugar, high fructose corn syrup, or artificial sweeteners. Goats do not need extra sugar, and sweeteners like xylitol can be harmful to animals.
 
-Applesauce can be made from any type of apple, but it's typically made from tart apples such as Granny Smith apples.
+Cinnamon-flavored and spiced varieties should also stay off the menu. While a tiny amount of cinnamon probably will not hurt, the concentrated spice blends in commercial applesauce can irritate a goat's digestive system.
 
-The apples are peeled and then diced or pureed. Sugar and spices may also be added to the applesauce.
+Look for applesauce that lists apples and water as the only ingredients. Homemade applesauce from your own kitchen is even better because you know exactly what went into it.
 
-Applesauce is a popular food in many parts of the world, and it has been consumed for centuries.
+## Using applesauce to give goats medicine
 
-it's thought to have originated in China, and it was introduced to Europe by the Romans. Today, applesauce is produced commercially in many parts of the world, and it's also a popular homemade food.
+This is where applesauce really shines. Goats are notorious for spitting out pills, powders, and anything that tastes bitter.
 
-## Nutritional value of applesauce
+Mix a crushed tablet or deworming powder into a spoonful of applesauce and the sweetness masks the bitter flavor. Use a syringe without the needle to squeeze the mixture into the side of the goat's mouth for the cleanest delivery.
 
-Applesauce is a popular food made from stewed apples. It's commonly used as a condiment, side dish, or ingredient in other recipes.
+This trick works well with vitamin supplements too. Just make sure the dose is small enough that the goat swallows it all in one go.
 
-Applesauce is a good source of vitamins and minerals, including vitamin C, potassium, and dietary fiber.
+## How much applesauce to feed
 
-It's low in calories and fat-free. Because of its nutritional value, applesauce can be a healthy addition to any diet.
+A couple of spoonfuls is plenty for an adult goat. Think of applesauce as a treat, not a food group.
 
-When choosing an applesauce, look for one that is made with 100% fruit and contains no added sugars or artificial ingredients.
+Too much applesauce in one sitting can cause loose droppings because of the sugar and moisture content. If you are using it to hide medication, you only need enough to coat the medicine, which is usually a tablespoon or less.
 
-Be sure to check the label for suggested serving sizes, as some brands of applesauce can contain more than one serving per container.
+Baby kids should skip the applesauce until they are eating solid food regularly. Their developing rumen handles hay and grain better than sugary purees.
 
-## How to feed applesauce to goats?
+Pregnant does can have a spoonful as a treat, but do not overdo it. The extra sugar is not something a pregnant goat needs in large amounts.
 
-Goats are notoriously finicky eaters, and they can be particularly picky and gradually increase the amount as they get used to it. But, it's important to keep an eye on your goats when they're eating applesauce.
+## Homemade vs. store-bought
 
-Some goats may be allergic to apples, and others may develop diarrhea if they eat too much. If you notice any adverse reactions, stop feeding them applesauce immediately.
+Making your own applesauce for the goats takes about 20 minutes and you can skip all the junk ingredients. Core and chop a few apples, simmer them in a pot with a little water until soft, then mash them up.
 
-## Benefits of feeding goats applesauce
+No need to peel the apples since goats do not care about skin texture. You can make a batch and keep it in the fridge for a week or freeze portions for later.
 
-Applesauce is a healthy and delicious treat that can be enjoyed by both people and goats. Goats are naturally curious animals, and they will often eat anything that they can get their mouths on.
+Store-bought unsweetened applesauce works perfectly fine too. Just read the label and skip anything with a long ingredient list.
 
-This includes applesauce. While it may seem like a strange food for a goat, applesauce actually has a number of benefits for these animals.
+If you have apple trees on your property, windfall apples that are bruised but not rotten make great applesauce. It is a good way to use up fruit that is too beat up for human eating but still perfectly fine for goats.
 
-For example, applesauce is a good source of fiber, which can help to keep goats' digestive systems healthy. Applesauce is rich in vitamins and minerals, including vitamin C, which can help to boost goats' immune systems.
+## Final Thoughts
 
-Finally, the sweetness of applesauce can help to keep goats calm and content. So, if you're looking for a way to spoil your favorite goat, consider giving them a few spoonfuls of applesauce.
+Applesauce is a safe, simple treat for goats as long as you stick to the plain unsweetened kind. Its best use is hiding medication that your goats would otherwise spit across the barn.
 
-Just be sure to supervise them while they eat to avoid any potential messes.
-
-## Potential risks associated with feeding goats applesauce
-
-Although goats are typically associated with eating grass and hay, they will also consume fruits and vegetables on occasion. One popular treat for goats is applesauce.
-
-Be aware, there are potential risks associated with feeding goats applesauce. The sugar content in applesauce can cause gastrointestinal upset in goats, leading to diarrhea or vomiting.
-
-In addition, the seeds in applesauce contain cyanide, which can be toxic to goats if consumed in large quantities. For this reason, it's important to feed goats applesauce in moderation and to remove the seeds before giving them to them.
-
-## Can pregnant goats eat applesauce?
-
-Many pregnant women crave applesauce, and it's usually considered a healthy snack option. Of course, there's some debate about whether or not pregnant goats can eat applesauce.
-
-Some people believe that the acidity in the applesauce can cause problems for the goat, while others believe that the natural sugars in the applesauce can provide a boost of energy for the pregnant goat.
-
-It's up to the owner of the goat to decide whether or not to give their pregnant goat applesauce. If you are concerned about potential problems, you can always consult with a goat expert before feeding your goat anything new.
-
-## Can baby goats eat applesauce?
-
-Baby goats are very curious creatures and will often try to eat anything they can get their mouths on. This includes items that are not necessarily good for them, such as applesauce.
-
-While a small amount of applesauce is not likely to harm a baby goat, it's not an ideal food for them. Applesauce is high in sugar and can lead to weight gain and other health problems.
-
-In addition, the texture of applesauce can be hard for baby goats to digest.
-
-For these reasons, it's best to avoid feeding applesauce to baby goats. If you must give them a treat, there are plenty of other options that are more nutritious and better suited for their delicate digestive system.
-
-## Can lactating goats eat applesauce?
-
-Lactating goats can eat applesauce without any problems. Applesauce is a good source of nutrition for them and helps to increase their milk production.
-
-However, there are a few things to keep in mind when feeding goats applesauce.
-
-First, make sure that the applesauce is unsweetened. Too much sugar can cause digestive issues for goats.
-
-Second, avoid giving them very spicy applesauce. Goats are sensitive to spices and can get indigestion from them.
-
-And finally, remember that goats are attractive creatures and will usually prefer hay or other greens over fruits and vegetables. So, don't be surprised if they don't eat all of the applesauce you give them.
-
-### Using Applesauce to Give Goats Medicine
-
-One of the best uses for applesauce is hiding medication in it. Goats are notorious for spitting out pills and powders, but mixing a crushed tablet into a spoonful of applesauce often does the trick.
-
-The sweetness masks bitter flavors that goats would otherwise reject. Squeeze the applesauce mixture into the side of the goat's mouth using a syringe (without the needle) for the cleanest delivery.
-
-This method works particularly well with deworming powders and vitamin supplements. Just make sure the dose is small enough that the goat swallows it in one go.
-
-## Closing Notes
-
-Goats can eat applesauce, but there are potential risks associated with it. The sugar content in applesauce can cause gastrointestinal upset in goats, and the seeds contain cyanide, which can be toxic to goats if consumed in large quantities.
-
-For this reason, it's important to feed goats applesauce in moderation and to remove the seeds before giving them to them. If you are concerned about potential problems, you can always consult with a veterinarian before feeding your goat anything new.
+Keep portions small, skip the flavored varieties, and your goats will enjoy it without any digestive issues.

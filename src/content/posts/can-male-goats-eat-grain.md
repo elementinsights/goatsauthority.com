@@ -44,128 +44,48 @@ faq:
     answer: "There are a few different treatment options for male goats with urinary calculi. The most common treatment is to have the goat undergo surgery to remove the stones."
 ---
 
-It is difficult to determine whether or not male goats can eat grain. And if so, what are the things you need to consider before feeding them this food?
-
-we will answer those questions and provide you with additional information about goat nutrition and the benefits of grain for goats.
+Male goats can eat grain, but you need to be careful about how much they get. The biggest risk with feeding grain to bucks and wethers is a painful and potentially fatal condition called urinary calculi.
 
 ## Can male goats eat grain?
 
-In addition, you should only feed your male goat a small amount of grain at a time. Too much grain can also lead to digestive problems and weight gain.
+Yes, male goats can have grain in limited amounts. The problem is that grain is loaded with phosphorus, and too much phosphorus throws off the mineral balance that keeps the urinary tract healthy.
 
-If you want to feed your male goat grain as part of a balanced diet, then cook and soften the grain first. Only give him a small amount at one time.
+Wethers are at the highest risk because their urethra is narrower than an intact buck's. Even a small stone can cause a complete blockage in a wether, and a blocked goat can die within 24 to 48 hours if left untreated.
 
-## What are the risks of feeding male goats grain?
+## The 2:1 calcium-to-phosphorus ratio rule
 
-While feeding male goats a grain-rich diet may seem like a good idea, there are certain risks that should be considered. For one thing, grain is highly caloric, and can lead to obesity in goats if consumed in excess.
+The single most important thing you can do is maintain a 2:1 calcium-to-phosphorus ratio in your male goat's diet. Grain tips that ratio the wrong direction because it is heavy on phosphorus and light on calcium.
 
-And, too much grain can cause digestive problems and other health issues. In addition, overfeeding male goats has been shown to compromise the effectiveness of their breeding processes, which could have far-reaching consequences for animal populations.
+Adding ammonium chloride to the feed at 0.5% to 1% of the total ration helps acidify the urine and dissolve stones before they become a blockage. You can pick it up in powder form from most livestock supply stores.
 
-With all of this in mind, it is clear that feeding male goats grain should be done carefully and only after careful consideration of their individual health needs.
+Loose goat minerals formulated for bucks and wethers are another easy way to keep that ratio in check. Skip the mineral blocks because goats cannot lick enough off them to get what they actually need.
 
-## How to prevent your male goats from eating grain?
+## Signs your buck is getting too much grain
 
-The best way to prevent your male goats from eating grain is to not have any grain in their diet. Be aware, if you must feed them grain, then you should cook the grain first and only give them a small amount at a time.
+Bucks will act like they are starving no matter how much you feed them, so do not let the begging fool you. Watch for a distended belly that does not go down after a few hours, which usually means the rumen is overwhelmed.
 
-You should also monitor their diet closely to make sure that they are not overeating or consuming too much grain.
+If your buck starts straining to urinate, hunching his back, or dribbling small amounts of urine, that is an emergency. Get your vet on the phone immediately because a complete blockage can kill him fast.
 
-It is best to avoid feeding male goats grain if possible. But, if you must feed them this food, then you should take care to cook the grain first and only give them a small amount at a time.
+Crystals sometimes show up on the hair around the prepuce, looking like tiny white or yellowish grains of sand. A buck that suddenly goes off feed after weeks of eating grain is another red flag worth investigating right away.
 
-Monitor their diet closely to make sure that they are not overeating or consuming too much grain. This will help to prevent any health problems that could arise from feeding grain to male goats.
+## What to feed bucks instead of grain
 
-## What are the treatments for male goats with urinary calculi?
+Good quality grass hay should be the backbone of any buck's diet. Orchard grass and timothy hay give them plenty of fiber without the phosphorus overload that grain delivers.
 
-There are a few different treatment options for male goats with urinary calculi. The most common treatment is to have the goat undergo surgery to remove the stones.
+Browse is even better if you have it available. Bucks love brush, tree branches, and weeds, and letting them clear overgrown areas keeps them fed while keeping your property clean.
 
-In some cases, the goat may also be placed on a special diet that is low in protein and calcium. In severe cases, male goats may need to be euthanized.
+If your buck needs extra calories during breeding season or cold weather, try beet pulp soaked in water. It provides energy without the phosphorus spike, and most bucks take to it quickly.
 
-If your male goat experiences urinary calculi, be sure to speak with a veterinarian about the ideal treatment solution for your goat's particular case.
+## Treating urinary calculi in male goats
 
-Surgery is usually the most effective treatment, but in some cases, a special diet may be necessary. In severe cases, euthanasia may be the only option.
+If a stone does form, the most common treatment is surgery to remove the blockage. Your vet may also try flushing the urethra or amputating the urethral process if the stone is lodged near the tip.
 
-## When is the best time to neuter a male goat?
+In mild cases, a vet might put the goat on a special diet and administer fluids to help pass smaller stones. Severe cases where the bladder has already ruptured are usually fatal, and euthanasia becomes the kindest option at that point.
 
-The best time to neuter a male goat is between the ages of 4 and 6 months. This will help to prevent the goat from developing urinary calculi later in life.
+Prevention is always cheaper and less painful than treatment. Keep the calcium-to-phosphorus ratio right, add ammonium chloride, provide plenty of fresh water, and limit grain to only what is truly necessary.
 
-It is also important to note that neutering does not guarantee that the goat will not develop urinary calculi. But, it is still the best prevention method available.
+## Final thoughts
 
-The best time to neuter your male goat is typically between the ages of 4 and 6 months, according to most goat experts. By doing this, you can help stave off urinary calculi formation later on in life.
+Male goats can have small amounts of grain, but the risk of urinary calculi makes it a food you should use sparingly. Wethers and bucks both do best on a hay-based diet with proper mineral supplementation.
 
-## Do all male goats need to be neutered?
-
-Not all male goats need to be neutered. Even so, most goat owners recommend for male goats that are at risk for developing urinary calculi.
-
-Neutering helps to prevent the goat from developing urinary calculi later in life. It is also important to note that neutering does not guarantee that the goat will not develop urinary calculi.
-
-But, it is still the best prevention method available.
-
-If you have a male goat, talk to a veterinarian about whether or not he should be neutered. In most cases, it is recommended for male goats that are at risk for developing urinary calculi.
-
-Neutering helps to prevent the goat from developing urinary calculi later in life.
-
-## Are there any alternative methods to prevent urinary calculi in male goats?
-
-There are a few alternative methods that may help to prevent urinary calculi in male goats. One method is to feed the goat a diet that is low in protein and calcium.
-
-Another method is to have the goat undergo surgery to remove the stones. In some cases, the goat may also be placed on a special diet that is low in protein and calcium.
-
-In severe cases, male goats may need to be euthanized.
-
-If your male goat has urinary calculi, it is best to consult a goat expert about the ideal treatment option for your individual case.
-
-More often than not, surgery is the most reliable form of treatment; however, certainly, cases may require a unique diet. In extenuating circumstances, euthanasia might be the only course of action available.
-
-## What are some of the complications that can arise from feeding grain to male goats?
-
-Some of the complications that can arise from feeding grain to male goats include digestive problems, health issues, and breeding problems.
-
-Grain can also cause urinary calculi in some male goats. Therefore, it is important to talk to a veterinarian about the best way to feed grain to your male goat.
-
-Grain can cause some serious complications for male goats, including digestive problems, health issues, and breeding problems.
-
-In some cases, grain can also cause urinary calculi. It's important to talk to a goat expert about the best way to feed grain to your male goat in order to avoid these complications.
-
-## Are there any benefits to feeding grain to male goats?
-
-There are a few benefits to feeding grain to male goats. One benefit is that it can help to put weight on the goat.
-
-Another benefit is that grain can provide the goat with extra energy. However, there are also some risks associated with feeding grain to male goats.
-
-These risks include digestive problems, health issues, and breeding problems. Therefore, it is important to talk to a goat expert about the best way to feed grain to your male goat.
-
-### The 2:1 Calcium-to-Phosphorus Ratio Rule
-
-One of the most practical things you can do for your male goat is to maintain a 2:1 calcium-to-phosphorus ratio in his diet. Grain is heavy on phosphorus and light on calcium, which is exactly why it causes urinary stones.
-
-Adding ammonium chloride to the feed at 0.5% to 1% of total ration is a common strategy goat farmers use to acidify the urine and dissolve stones before they become a blockage. You can buy it in powder form from most livestock supply stores.
-
-Loose goat minerals that are formulated specifically for bucks and wethers are another easy way to keep that calcium-to-phosphorus ratio in check. Avoid mineral blocks since goats cannot lick enough off them to get what they need.
-
-### Signs Your Buck Is Getting Too Much Grain
-
-I have seen plenty of new goat owners accidentally overfeed grain to their bucks because the goats act like they are starving. Bucks are drama queens about food, plain and simple.
-
-Watch for a distended belly that does not go down after a few hours. If your buck starts straining to urinate or you notice him hunching his back and dribbling small amounts of urine, that is an emergency situation.
-
-Crystals can sometimes be spotted on the hair around the prepuce. They look like tiny white or yellowish grains of sand. If you see that, get your vet on the phone before the blockage becomes complete.
-
-A buck that goes off feed suddenly after weeks of eating grain is another red flag. The rumen might be overwhelmed, or a stone could already be forming in the urinary tract.
-
-### What to Feed Bucks Instead of Grain
-
-Good quality grass hay should be the backbone of any buck's diet. Orchard grass and timothy hay are solid choices that give them plenty of fiber without the excess phosphorus.
-
-Browse is even better if you have it available. Bucks love brush, tree branches, and weeds. Letting them clear overgrown areas keeps them fed and keeps your property looking clean at the same time.
-
-If your buck truly needs extra calories during breeding season or cold weather, try beet pulp soaked in water. It provides energy without the phosphorus spike that grain delivers.
-
-Alfalfa pellets in small amounts can round out the diet, but they are high in calcium so you still need to watch the overall mineral balance. Talk to your vet about what works best for your specific herd.
-
-## Final Thoughts
-
-Male goats can develop a condition called urinary calculi, which can be very painful and potentially life-threatening.
-
-Neutering is the best prevention method available, but not all male goats need to be neutered. If you have a male goat, talk to a goat expert about whether or not he should be neutered.
-
-There are a few alternative methods that may help to prevent urinary calculi in male goats, but the most effective treatment is usually surgery.
-
-In some cases, euthanasia may be the only option. Grain can cause urinary calculi in some male goats, so it is important to talk to a goat expert about the best way to feed grain to your male goat.
+If you must feed grain, keep it to a minimum and always make sure ammonium chloride is part of the program. A little prevention on the front end saves you from emergency vet bills and heartbreak down the road.

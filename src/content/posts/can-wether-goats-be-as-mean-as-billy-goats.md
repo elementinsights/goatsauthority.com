@@ -35,7 +35,7 @@ toc:
     href: "#final-thoughts"
 faq:
   - question: "Can wether goats be as mean as billy goats?"
-    answer: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered. They are also more likely to butt heads and fight with other goats and animals, and may even try to attack humans."
+    answer: "Wether goats are as cruel as Billy goats. In fact, they may even be more aggressive since they are not neutered."
   - question: "What are wether goats and what distinguishes them from billy goats?"
     answer: "Goats are members of the Caprae subfamily, which includes all wild and domestic goats. There are around 200 different goat breeds, although most people are familiar with the domesticated variety."
   - question: "How do you tell the difference between a male and a female goat?"
@@ -44,98 +44,44 @@ faq:
     answer: "Billy goats are very aggressive compared to wether goats. They will paw the ground, bare their teeth, and even butt heads with each other."
 ---
 
-You may be wondering whether or not wether goats can be as mean as billy goats. And if so, what are the things you need to watch out for?
-
-we will answer those questions and provide you with additional information about wether goats you may find useful.
+Wethers and billy goats are not in the same league when it comes to aggression. A wether is a castrated male, and without testosterone driving his behavior, he is generally one of the calmest animals on the farm.
 
 ## Can wether goats be as mean as billy goats?
 
-In addition, wether goats are known to be escape artists. They are constantly trying to find ways to get out of their pens, and may even try to jump over fences.
+In most cases, no. Intact bucks have testosterone fueling territorial behavior, aggression during rut, and that famous buck stink that makes them hard to be around. Wethers lack those hormones entirely, which is why they tend to be easygoing and friendly.
 
-If they are successful in escaping, they can quickly become a nuisance to farmers and homeowners alike.
+That said, there are two situations where a wether can develop pushy or aggressive habits. A wether castrated late, after he has already reached sexual maturity, may retain some buck behaviors even without the hormones. Bottle-raised wethers can also become pushy because they lose their natural wariness of humans.
 
-## What are wether goats and what distinguishes them from billy goats?
+## The difference between pushy and aggressive
 
-Goats are members of the Caprae subfamily, which includes all wild and domestic goats. There are around 200 different goat breeds, although most people are familiar with the domesticated variety.
+A pushy wether that nudges you for treats or tries to climb on you is not the same thing as an aggressive buck that charges and slams into you during rut. The motivation behind the behavior matters.
 
-Goats are hardy creatures that can survive in a wide range of climates, and they are known for their sure-footedness.
+Bucks get aggressive because their hormones tell them to defend territory and compete for does. A pushy wether is just being rude because nobody taught him boundaries. The fix for a pushy wether is consistent training, not fear.
 
-They are also versatile animals, and their milk, meat, and fiber can all be used by humans. Billy goats are male goats over the age of one year, while wether goats are neutered males or females.
+## Why timing of castration matters
 
-But, the term “billy goat” is often used to refer to any male goat, regardless of age.
+Wethers castrated at a young age, around 8 to 12 weeks, rarely show any buck-like behavior as adults. Their bodies never developed under the influence of testosterone, so they grow up calm and social.
 
-## How do you tell the difference between a male and a female goat?
+Wethers castrated after 6 months of age may have already started developing the neural pathways associated with buck behavior. They might still try to mount does, display territorial posturing, or act more aggressive than early-castrated wethers, even though their testosterone levels are near zero.
 
-Male goats are called bucks or billies, while female goats are called does or nannies. The easiest way to tell the difference between a male and a female goat is by looking at their horns.
+If you plan to wether a buckling, doing it on the early side produces the friendliest companion animal. Just be aware that very early castration, before 8 weeks, increases the risk of urinary calculi because the urethra does not fully develop.
 
-Bucks have longer, thicker horns that curve slightly outward, while the horns of does are shorter and thinner. Bucks also tend to be larger and more muscular than does, with wider skulls and heavier bones.
+## Handling a pushy wether
 
-In addition, bucks tend to have a strong, musky odor, while does typically have a sweeter, more delicate scent. Of course, the best way to tell the difference between a male and female goat is to consult with a veterinarian or experienced goat breeder.
+Never play head-butting games with a wether kid, even when it seems cute. What is funny from a 10-pound kid becomes dangerous from a 150-pound adult that thinks ramming into your legs is a game.
 
-But by taking note of these physical differences, you should be able to tell the difference between a buck and a doe with relative ease.
+When a wether pushes into your space, push him back firmly and say no. Be consistent every single time. If you let it slide sometimes and correct it other times, the goat gets confused and the behavior sticks.
 
-## What are some of the behavioral differences between wether goats and billy goats?
+Wethers that are part of a herd with other goats tend to be better behaved around humans because they learn social boundaries from the other animals. A lone wether with only human company is the one most likely to develop bad manners.
 
-Billy goats are very aggressive compared to wether goats. They will paw the ground, bare their teeth, and even butt heads with each other.
+## What wethers are good for
 
-On the other hand, wether goats are much more laid back. They are usually content to just eat and hang out with their goat buddies.
+Wethers make excellent companion animals for does that need a buddy, and they are great for 4-H projects and pack goat training. Their calm temperament makes them easy to handle and safe around children.
 
-But, both types of goats are known for being curious and adventurous.
+Many farmers keep a wether or two as pasture companions for horses, donkeys, or other livestock that need company. They are also useful for clearing brush since they eat with enthusiasm and do not bring the smell and breeding complications of an intact buck.
 
-They love to explore their surroundings and will often climb on things that they're not supposed to. So, if you're looking for a pet goat, it's important to consider both the personality traits and the behaviors of each type before making your decision.
+## Final thoughts
 
-## Why is it important to know the difference between these two types of goats?
+Wethers are nowhere near as mean as billy goats under normal circumstances. They are calm, friendly, and one of the easiest goats to keep on a farm.
 
-Knowing the difference between wether goats and billy goats is important for a number of reasons.
-
-First, earlier, wether goats are more likely to be aggressive and escape from their pens. If you're planning on keeping goats as pets or farm animals, it's important to be aware of this and take steps to prevent it from happening.
-
-Second, wether goats produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
-
-Last but not least, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
-
-## What are some of the potential problems with keeping wether goats on your farm?
-
-There are a few potential problems to consider before keeping weather goats on your farm. For one, they are known to be very curious and can easily escape their pen or enclosure.
-
-Not only will this mean you have to spend more time herding them back in, but it could also lead to them getting lost or injured.
-
-Similarly, weather goats are attracted to shiny objects and have been known to chew on electric fencing and other equipment. This can cause serious damage and even pose a safety hazard.
-
-Finally, because they are such avid explorers, wether goats can also end up spreading invasive plants invasive plants and weeds around your property.
-
-While they can certainly be a fun addition to any farm, it's important to be aware of the potential challenges that come along with keeping wether goats.
-
-## How can you prevent those problems from occurring?
-
-There are a few things you can do to prevent the problems associated with keeping wether goats. First, it's important to build a secure pen or enclosure that they can't escape from.
-
-This may require some trial and error, but eventually, you should be able to find a design that works for your goats. Second, you can try using dog or cat repellent to keep them away from your equipment.
-
-Finally, it's a good idea to do some research on the plants and weeds that are common in your area so you can be sure to avoid them.
-
-By taking these precautions, you should be able to successfully keep wether goats on your farm without too much trouble.
-
-## When is the best time to breed a female goat?
-
-The best time to breed a female goat is during the fall season. This is because the days are shorter and the weather is cooler, which can help reduce the risk of heat stress.
-
-Another thing to note is there will be plenty of food available for the goats during this time of year. However, it's important to consult with a veterinarian or livestock specialist before breeding any animals.
-
-They will be able to help you determine the best time to breed based on the specific needs of your goats.
-
-## What kind of housing do goats need?
-
-Goats need a clean, dry place to sleep and shelter from the elements. A three-sided shed is typically sufficient, but they will also need access to a pasture or paddock.
-
-Goats are social animals, so it's important to provide them with enough space to move around and interact with other goats. You'll need to provide them with fresh water and hay on a daily basis.
-
-## What to Remember
-
-There are a few things to consider before deciding whether or not to keep wether goats on your farm. They are known to be curious and can easily escape from their pens, which could lead to them getting lost or injured.
-
-They produce less milk than female goats, so if you're looking for a dairy animal, you'll want to choose a doe instead.
-
-Finally, male goats can be very smelly, so if you're looking for a pet that won't stink up your house, a wether goat might be a better option.
-
-However, if you take the necessary precautions, such as building a secure pen and doing your research on the plants and weeds in your area, you should be able to successfully keep wether goats on your farm.
+The rare pushy wether is a training problem, not an aggression problem. Handle it early, set boundaries, and you will have a well-mannered goat that is a pleasure to be around for years.

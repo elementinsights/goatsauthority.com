@@ -43,133 +43,49 @@ faq:
   - question: "How much cotton can goats eat?"
     answer: "The amount of cotton that goats can eat depends on the individual goat and the type of plants they are eating. Younger, smaller goats will likely not be able to eat as much as older, larger goats."
 ---
-You may have heard that goats can digest cotton, but is this true? What other things can goats eat?
 
-How do they digest food?
+Cotton is a plant fiber, and goats are built to digest plant fiber. So technically, yes, a goat can break down raw cotton in its rumen.
 
-we will explore the dietary habits of goats and answer all of your questions about their ability to digest cotton and other plants. We will also discuss some of the benefits of having goats as pets or farm animals.
+The problem is that most cotton your goat will encounter is not raw cotton bolls from a field. It is t-shirts, rags, towels, and baling twine blends hanging around the barn.
 
 ## Can goats digest cotton?
 
-However, just because goats can eat something, doesn't mean that they should. Goats are browsers, not grazers like cows.
+Raw cotton fiber is cellulose, and the bacteria in a goat's rumen break down cellulose as their primary job. A goat that munches on cotton plants in a field will digest them just fine, the same way it handles any other fibrous plant material.
 
-This means that their diet should be mostly made up of plants and grasses. Eating too much cotton or other tough plants can actually cause digestive problems for goats.
+Cotton plants can even serve as supplemental forage in areas where cotton is grown. Goats will eat the leaves, stems, and leftover bolls after harvest without any digestive trouble.
 
-it's also important to make sure that the cotton plants that you are feeding your goats are free of pesticides and other chemicals. Eating chemically treated plants can make goats very sick.
+## The danger of processed cotton and textiles
 
-## What are the benefits of goats eating cotton?
+Processed cotton fabric is a completely different story. Clothing, rags, and towels contain dyes, chemical treatments, and often synthetic fiber blends mixed in with the cotton.
 
-Goats are versatile animals that can provide a variety of benefits to farmers. One lesser-known use for goats is as cotton eaters.
+Long threads and fabric strips can tangle inside the intestines and create a blockage. A blockage stops food from moving through the digestive tract, and if you do not catch it fast, it can be fatal. Keep all clothing, rags, and cotton-based materials well out of reach.
 
-Cotton plants are often treated with dangerous pesticides and herbicides, which can contaminate the soil and water.
+## How to tell if your goat ate something it should not have
 
-Goats can help to mitigate this problem by eating cotton plants, thus reducing the number of chemicals in the environment. It's also worth noting that goats can also help to control weeds, as they will eat just about anything.
+The first sign is a goat that stops eating. If your goat was enthusiastic at feeding time yesterday and turns its nose up today, pay attention right away.
 
-This can save farmers money on herbicide costs and reduce the need for tilling, which can further damage the soil. Understandably, using goats for cotton control can provide a number of benefits for farmers and the environment.
+Check for cud chewing. A healthy goat chews cud throughout the day, and a goat that has stopped may have something stuck in its digestive tract. Press your ear against the goat's left side and listen for rumen sounds. Silence or a tight, drum-like feel on that left side means trouble.
 
-## What are the risks of goats eating cotton?
+Bloating, lethargy, and straining without producing droppings are all red flags. Call your vet if you see any combination of these signs.
 
-Although goats can digest cotton, it's important to note that just because they can eat something, doesn't mean that they should. Goats are browsers, not grazers like cows.
+## Goat-proofing your property against fabric
 
-This means that their diet should be mostly made up of plants and grasses. Eating too much cotton or other tough plants can actually cause digestive problems for goats.
+Walk your property and pick up any fabric, ropes, old tarps, or forgotten towels within goat reach. Old t-shirts used as rags and loose baling twine are common culprits that end up in a goat's stomach.
 
-it's also important to make sure that the cotton plants that you are feeding your goats are free of pesticides and other chemicals. Eating chemically treated plants can make goats very sick.
+Close your laundry room or garage door if your goats roam near the house. Goats will pull clothes off a drying line without a second thought, and a mouthful of polyester blend can cause real damage.
 
-## How much cotton can goats eat?
+Store feed bags and grain sacks in sealed containers or a room the goats cannot enter. The residual grain smell on these materials makes them irresistible.
 
-The amount of cotton that goats can eat depends on the individual goat and the type of plants they are eating. Younger, smaller goats will likely not be able to eat as much as older, larger goats.
+## Safer fiber sources for your goats
 
-It's best to let goats graze on a variety of different plants rather than feeding them large quantities of one type of plant. This will help them to get the nutrients they need and avoid digestive problems.
+If your goats want something to chew on, give them what their rumen was built for. Woody branches from willow, apple, or mulberry trees are great options that goats love and digest easily.
 
-## What else can goats eat?
+Hay should be available at all times. Timothy hay and orchard grass provide the long-stem fiber that keeps the rumen working right. A goat that always has hay in front of it is far less likely to start chewing on random materials out of boredom or hunger.
 
-Goats are very versatile eaters and can digest a wide variety of plants. In addition to cotton, they can also eat grass, hay, leaves, berries, and twigs.
+Bark strips from fallen trees also work well as chew material. Just make sure the tree species is safe before you toss a branch in the pen.
 
-They will also consume small amounts of meat and dairy if it's available. But, their diet should be mostly plant-based in order to stay healthy.
+## Final Thoughts
 
-One of the benefits of goats is that they can help to clear overgrown areas on your property. They will eat weeds, briars, and other plants that you may not want on your land.
+Goats can digest raw cotton fiber without any issues. The rumen is built for exactly that kind of work.
 
-Goats are also known for their ability to climb. This means that they can reach high places where other animals cannot go.
-
-This can be helpful if you have a problem with overgrown plants in hard-to-reach areas.
-
-## How do goats digest food?
-
-Goats have a four-chamber stomach that helps them to break down tough plants. The first chamber is where the goat chews its food.
-
-The second chamber stores the food until it's ready to be digested. The third and fourth chambers are where the food is actually broken down and turned into nutrients that the goat can use.
-
-The goat's liver also plays an important role in digesting food. It helps to detoxify plants that might be poisonous to other animals.
-
-One of the benefits of having a four-chamber stomach is that goats can digest food that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.
-
-## What are the benefits of having goats?
-
-Goats make great pets or farm animals because they are versatile eaters and have a four-chamber stomach. They can help to clear overgrown areas on your property and are known for their ability to climb.
-
-Goats are also relatively easy to take care of. They don't require a lot of space and can be fed a variety of plants.
-
-If you are considering adding a goat to your farm or petting zoo, make sure to do your research first. Goats can be a lot of work, but they can also be a fun and rewarding addition to your family.
-
-## What are common diseases associated with goats?
-
-Goats are susceptible to several different diseases, many of which can be passed on to humans. Some of the most common diseases associated with goats include:
-
-- Brucellosis: A bacterial disease that can cause abortion in pregnant animals and infertility in both male and female animals.
-- Cryptosporidiosis: A parasitic disease that can cause diarrhea, weight loss, and dehydration.
-- Erysipelas: A bacterial disease that causes fever, lethargy, and skin lesions.
-- Johne's Disease: A bacterial disease that affects the intestines and causes weight loss and diarrhea.
-
-Goats can also contract several viral diseases, such as foot-and-mouth disease, which can be devastating to livestock. As a result, it's important to vaccinate goats against common diseases and to practice good hygiene when handling them.
-
-## What are some tips for caring for goats?
-
-Caring for goats is not difficult, but there are a few things you need to keep in mind. Goats need access to fresh water and plenty of grass or hay to eat.
-
-They also need a safe place to sleep and shelter from the elements.
-
-In addition, goats need to be vaccinated against common diseases and should be wormed regularly. Finally, it's important to handle goats with care, as they can easily become injured.
-
-By following these simple tips, you can make sure that your goats stay healthy and happy.
-
-### What About Cotton Clothing and Fabric?
-
-Goats will chew on cotton clothing, towels, and rags if they get the chance. This does not mean you should let them. Processed cotton fabric often contains dyes, chemical treatments, and synthetic blends that can irritate the digestive tract.
-
-If a goat swallows a large piece of fabric, it can cause a blockage in the intestines. Keep laundry, rags, and cotton-based materials out of reach whenever goats are roaming freely.
-
-### How to Tell If Your Goat Ate Something It Should Not Have
-
-The first sign of a digestive blockage is a goat that stops eating. If your goat was enthusiastic about breakfast yesterday and turns its nose up today, start paying attention immediately.
-
-Check for cud chewing. A healthy goat chews its cud throughout the day, and a goat that has stopped chewing cud may have something stuck in its digestive tract. Listen for rumen sounds by pressing your ear against the goat's left side. Silence is a bad sign.
-
-Bloating on the left side is another warning flag. If the rumen feels tight and drum-like, the goat may have a blockage that is preventing gas from escaping normally.
-
-### Safer Fiber Sources for Your Goats
-
-If you want to provide fiber-rich material for your goats to chew on, stick with natural browse. Woody branches from willow, apple, or mulberry trees are excellent options that goats love.
-
-Hay is the foundation of any goat's fiber intake. Timothy hay and orchard grass provide the long-stem fiber that keeps the rumen working properly. Keep hay available at all times so your goats are never hungry enough to start chewing on random materials.
-
-Bark strips from fallen trees make great chew toys. They satisfy the goat's urge to gnaw without any risk of intestinal blockage. Just make sure the tree species is non-toxic before offering it.
-
-### Goat-Proofing Your Property Against Fabric and Textiles
-
-Walk your property and remove any fabric, ropes, tarps, or clothing within goat reach. Old t-shirts used as rags, forgotten towels, and even loose baling twine can all end up in a goat's stomach.
-
-Close your laundry room door if your goats have any access to the house or garage. Goats will pull clothes off a drying line without hesitation, and a mouthful of polyester blend can cause serious problems.
-
-Store feed bags, grain sacks, and burlap in sealed containers or a room the goats cannot enter. The residual grain smell on these materials makes them irresistible targets for a curious goat.
-
-## Key Takeaways
-
-Goats can digest cotton and other plant-based materials that other animals cannot. This means that they can eat plants that are tough or poisonous to other animals.
-
-Goats also have a four-chamber stomach, which helps them to break down tough plants.
-
-The benefits of having goats include their ability to clear overgrown areas and their versatility as eaters. However, goats can also be susceptible to a number of diseases, many of which can be passed on to humans.
-
-So, it's important to vaccinate goats against common diseases and to practice good hygiene when handling them.
-
-By following these simple tips, you can make sure that your goats stay healthy and happy.
+What they cannot handle safely is processed cotton fabric, clothing, and textiles. Keep those materials away from your herd, give them plenty of hay and browse, and you will not have to worry about a blockage.

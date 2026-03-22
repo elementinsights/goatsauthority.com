@@ -42,132 +42,44 @@ faq:
     answer: "Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them."
 ---
 
-There are a few factors you should be aware of while determining if goats can consume sticker bushes.
-
-The advantages and drawbacks of letting your goat munch on some sticker bushes will be discussed along with some frequently asked questions on the subject.
+Yes, goats eat sticker bushes and thorny plants without hesitation. In fact, this is one of the things goats do better than any other livestock, and it's a big reason people hire goat herds for land clearing.
 
 ## Can a goat eat sticker bushes?
 
-However, goats are resistant to the poisonous effects of these plants thanks to a special enzyme in their gut. This enzyme breaks down the toxic compounds in the plants, making them safe for goats to consume.
+Goats have tough, thick mouths and incredibly mobile lips that let them navigate around thorns and prickles to get at the leaves and tender stems. They actually prefer browse like this over grass, which makes them the opposite of cattle and sheep.
 
-Goats will often eat sticker bushes when other food sources are scarce. Still, it's important to provide goats with a balanced diet and not let them graze on sticker bushes all the time.
+Blackberry, multiflora rose, thistle, honey locust, and burdock are all goat favorites. These are plants that other livestock won't touch, but goats will strip them down to nothing given enough time.
 
-Over-consumption of these plants can lead to health problems such as liver damage.
+## Why goats are so good at eating thorny plants
 
-## What are sticker bushes and what do they look like?
+A goat's mouth is built differently from a cow's or a horse's. Their lips are narrow and dexterous, allowing them to pick individual leaves from between thorns rather than grabbing mouthfuls like a cow does.
 
-Sticker bushes, also known as Arctium lappa or burdock, are a common type of weed that can be found in many gardens and yards. The plant gets its name from the sharp, barbed seeds that cling to clothing and fur.
+Their palates and gums are also tougher than you'd expect. While they do occasionally get poked, they rarely suffer real injuries from thorns. Years of selective pressure made goats naturally suited for eating the rough, woody, thorny browse that other animals avoid.
 
-Sticker bushes are often considered to be a nuisance because they are difficult to remove and can spread quickly. And also, the plant does have some redeeming qualities.
+## Benefits of using goats for brush clearing
 
-For example, sticker bushes are known to attract bees and other pollinators. The plants also provide food for birds and small animals.
+Goats are an environmentally friendly alternative to herbicides and heavy equipment for clearing overgrown land. They don't compact the soil, they don't leave chemical residue, and they fertilize as they go.
 
-Sticker bushes are large, prickly plants that can grow up to six feet tall. The leaves are large and lobed, and the flowers are small and purple.
+Landowners, municipalities, and utility companies increasingly hire goat herds to clear brush, poison ivy, and invasive species from areas where machines can't reach or chemicals aren't appropriate. A herd of 30 goats can clear an acre of heavy brush in about a week.
 
-The plant is native to Europe and Asia and has also been introduced to North America. Sticker bushes prefer full sun but will tolerate some shade.
+This is actually a growing business in many parts of the country. Goat rental services charge by the acre, and the demand keeps climbing as more people look for non-chemical land management options.
 
-They are relatively drought-tolerant but will need more water if they are growing in dry conditions. Sticker bushes can be propagated by seed, division, or cuttings.
+## Are there any risks?
 
-## What are the benefits of goats eating sticker bushes?
+The main risk isn't from the thorns themselves but from any pesticides or herbicides that may have been sprayed on the plants. Always confirm that an area hasn't been treated with chemicals before turning goats loose on it.
 
-Goats are very versatile creatures. They can be used for their milk, meat, hair, and skin.
+Goats that gorge on a single plant species can sometimes develop digestive upset, especially with high-tannin plants. Providing access to fresh water, hay, and minerals alongside the browse keeps their rumen balanced and functioning properly.
 
-They can also be used as pack animals and for agricultural purposes such as clearing land.
+## Tips for managed browsing
 
-One way that goats are particularly useful is their ability to eat sticker bushes. Sticker bushes are a type of plant that is not palatable to most animals, so it's considered a nuisance by many farmers and landowners.
+Start goats on thorny browse gradually rather than dropping them into a solid wall of blackberry on day one. Let them build up to heavy browsing over a few days so their rumen can adjust to the new forage.
 
-Even so, goats will readily consume sticker bushes, making them an effective means of control. There are several benefits to using goats to control sticker bushes.
+Make sure they always have clean water available. Browse is drier than pasture grass, and goats need extra water to process the woody, fibrous material.
 
-First, it's a natural method of control that does not require the use of harmful chemicals.
+Check them daily for any eye injuries from thorns, though this is rare. Keep loose minerals available too, since a browse-heavy diet may not provide everything they need on its own. Offering hay alongside the browse gives them a balanced rumen and prevents digestive upset.
 
-Second, it's an effective way to keep the sticker bushes from spreading.
+## Final Thoughts
 
-Third, it helps to improve the health of the soil by adding organic matter.
+Goats and sticker bushes are a natural match. Their mouths are built for it, they prefer it over grass, and they're one of the most effective tools available for clearing overgrown thorny land without chemicals.
 
-Fourth, it provides an alternative source of income for farmers and landowners who are willing to rent out their goats.
-
-Consequently, there are many reasons why goats eating sticker bushes can be advantageous.
-
-## What are the risks of goats eating sticker bushes?
-
-Goats are known for their ability to eat just about anything, but that doesn't mean that everything is good for them.
-
-One type of plant that can be particularly dangerous for goats is the sticker bush. Sticker bushes are common in many parts of the world, and they can be found in both cultivated and wild areas.
-
-The plants are easily recognizable by their sharp, thin leaves.
-
-While sticker bushes aren't poisonous, they can cause a number of problems for goats who consume them. The sharp leaves can cut the inside of a goat's mouth and throat, causing pain and irritation.
-
-In addition, the leaves can also get caught in a goat's digestive tract, leading to an obstruction. If not treated promptly, an obstruction can be fatal.
-
-Sticker bushes contain high levels of tannins, which can lead to gastrointestinal distress when consumed in large quantities.
-
-For these reasons, it's best to keep goats away from sticker bushes whenever possible.
-
-## How can I tell if my goat is sick?
-
-One of the most important aspects of goat care is knowing how to tell if your goat is sick. Even if you are vigilant about keeping your goats healthy, they can still become ill.
-
-Often, the early signs of illness are subtle and can be easily missed. If you know what to look for, you can catch sick goats early and get them the treatment they need.
-
-Here are some signs that your goat may be sick:
-
-- Loss of appetite
-- Lethargy or listlessness
-- Lack of interest in their surroundings
-- Unusual vocalizations
-- Sudden weight loss
-- Discharge from the nose or eyes
-- Changes in urination or defecation habits
-
-If you notice any of these changes in your goat, you need to take action immediately. Goats are susceptible to a wide range of diseases and illnesses, many of which can be fatal if left untreated.
-
-## How can I prevent my goat from getting sick?
-
-First and foremost, it's important to make sure that your goat has access to clean, fresh water at all times.
-
-Goats are susceptible to a variety of waterborne illnesses, so clean and disinfect their water bowl on a regular basis.
-
-it's also important to provide your goat with a balanced diet that includes plenty of fresh hay, grass, and vegetables.
-
-Goats are notoriously curious creatures, so be sure to keep them away from any potential hazards, such as chemicals or sharp objects.
-
-To wrap up, make sure to have your goat vaccinated against common diseases such as rabies and tetanus.
-
-By taking these simple precautions, you can help keep your goat healthy and happy for years to come.
-
-## Can all goats eat sticker bushes?
-
-There are over 300 different types of sticker bushes, and not all of them are safe for goats to eat. Some sticker bushes contain toxins that can cause liver damage or even death in goats.
-
-There are also many types of sticker bushes that are perfectly safe for goats to consume. These plants are a valuable source of nutrients for goats, and they can help to improve the health of the animal's coat.
-
-When selecting sticker bushes for goats, it's important to choose ones that are known to be safe for the animal. Otherwise, you run the risk of causing serious health problems.
-
-Can all goats eat sticker bushes? The answer is no, only some types of these bushes are safe for consumption by goats.
-
-The rest can pose a serious health hazard to the animal.
-
-When choosing sticker bushes for your goat, be sure to select ones that are known to be safe for the animal. This will help to make sure that your goat remains healthy and happy.
-
-## Tips on how to care for your goat if you decide to let it eat sticker bushes
-
-If you decide to let your goat eat sticker bushes, there are a few things you should keep in mind in order to make sure your goat stays healthy and happy.
-
-First, it's important to provide your goat with plenty of fresh water. Goats are attracted to the salt and minerals in the water, so they will drink more if the water is fresh.
-
-Second, you should make sure the sticker bushes are free of chemical pesticides or herbicides. These can be toxic to goats and other animals.
-
-Third, you should regularly check the sticker bushes for thorns or other sharp objects that could injure your goat.
-
-Finally, you should supervise your goat while it's eating the sticker bushes to make sure it doesn't gorge itself and become sick.
-
-By following these simple tips, you can make sure that your goat stays safe and healthy while enjoying its favorite food.
-
-## To Wrap Things Up
-
-Many people are hesitant to let their goats eat sticker bushes because of the possible risks. However, as long as you take the proper precautions, there's no reason why your goat can't enjoy this delicious and nutritious treat.
-
-Just be sure to provide plenty of fresh water, avoid chemical pesticides and herbicides, and supervise your goat while it's eating.
-
-Sticker bushes are a great option for goats looking for a tasty and healthy snack.
+If you've got a property overrun with blackberry, rose, or thistle, goats will happily solve that problem for you while getting a free meal out of the deal. Just make sure they have water, minerals, and supplemental hay available, and they'll work that brush line until there's nothing left but stumps.

@@ -44,100 +44,48 @@ faq:
     answer: "Goat's milk is very similar to human milk and is often used as a substitute for infant formula. So, it stands to reason that lactating goats could also drink baby formula. But, there are a few important things to keep in mind."
 ---
 
-It can be enjoyable and gratifying to care for goats. But there are a few things you should be aware of before bringing your new pet home.
+Human baby formula is not the best option for goats, but it can work in a pinch. If you have a kid that needs milk and no goat milk replacer on hand, formula can bridge the gap for a day or two.
 
-What to feed your goat is among the most important factors to take into account. Because they are browsers, goats like eating a wide variety of plants and leaves.
-
-But what if you are unable to locate any new browse? Can goats consume infant formula?
-
-This article will provide you with the answer to that question as well as some advice on how to take care of your goat. We will give you instructions on what to do if your goat is unable to obtain fresh browse.
+The real answer depends on the situation. A dying kid at 2 AM needs something, and formula in the pantry beats nothing at all.
 
 ## Can goats drink baby formula?
 
-it's important to note, but, that baby formula is not a substitute for a fresh browse. Goats still need to consume fresh leaves and plants in order to stay healthy.
+Human baby formula contains protein, fat, and carbohydrates that a goat kid can absorb. The problem is the ratios are wrong for goats. Goat milk has roughly twice the fat content of human milk, so formula-fed kids often fall behind on weight gain.
 
-If you are unable to provide your goat with fresh browse, you should supplement their diet with hay or pasture.
+Formula also lacks some of the specific minerals and vitamins that goat kids need in higher concentrations. It will keep a kid alive for a short stretch, but it should not be the long-term plan.
 
-## Can pregnant goats drink baby formula?
+## Better alternatives to baby formula
 
-While goats are generally able to give birth without any complications, there are occasions when a pregnant goat may need a little extra help.
+Goat milk replacer from brands like Manna Pro or Land O Lakes is the best substitute when the dam cannot nurse. These products are formulated to match the fat and protein profile of actual goat milk.
 
-One way to provide this help is to give the goat supplemental nutrition in the form of baby formula. Baby formula is designed to provide all the nutrients a growing baby needs, and it can also be beneficial for pregnant goats.
+Whole cow milk mixed with a tablespoon of buttermilk per quart is another option that works better than human formula. The buttermilk adds fat and beneficial cultures that help the kid's developing rumen.
 
-The additional nutrients can help the goat to produce more milk, and it can also help to prevent problems during pregnancy such as twins or triplets being born too early.
+If you can find a nursing doe willing to take on an extra kid, that is always the best solution. Some does will adopt an orphan kid without much fuss, while others need a little coaxing.
 
-With that in mind, it's important to talk to a veterinarian before giving any supplemental nutrition to a pregnant goat, as there are potential risks involved.
+## Feeding schedule for bottle kids
 
-## Can baby goats drink baby formula?
+Newborn kids need colostrum within the first few hours of life. If the dam is not available, frozen colostrum from another doe or colostrum replacer from the feed store will work.
 
-Baby goats, like all other baby animals, need milk to survive. Keep in mind, goat's milk is very different from cow's milk or human milk.
+After colostrum, feed 2 to 4 ounces of milk replacer every 3 to 4 hours for the first week. By the second week, you can bump that up to 4 to 6 ounces and stretch feedings to every 4 to 5 hours.
 
-It's much higher in fat and protein, and it also has a different balance of minerals.
+At around 2 weeks old, start offering hay and a small amount of grain alongside the bottle. Kids will start nibbling on solid food and their rumen will begin developing. Most kids can be fully weaned by 8 to 12 weeks.
 
-For this reason, baby goats cannot digest cow's milk or human baby formula. They will often become sick if they drink these products, and they can even die.
+## When to use formula as a last resort
 
-Instead, baby goats must consume goat's milk or a specially formulated milk replacer.
+If it is the middle of the night and you have a cold, hungry kid with no milk replacer available, mix up some human baby formula at the recommended strength on the can. Warm it to about 101 to 103 degrees Fahrenheit, which matches a goat's natural body temperature.
 
-These products are designed to more closely match the composition of goat's milk and provide the nutrients that baby goats need to grow and thrive.
+Feed small amounts at a time and do not overfeed. A kid's stomach is tiny, and too much formula at once can cause scours. Get proper goat milk replacer the next morning and switch over.
 
-So while you might be tempted to give a cute little kid a bottle of baby formula, you need to remember that it's not appropriate for their dietary needs.
+Do not use soy-based formula if you have a choice. Milk-based formula is closer to what the kid needs.
 
-## Can lactating goats drink baby formula?
+## Signs of trouble in bottle-fed kids
 
-Goat's milk is very similar to human milk and is often used as a substitute for infant formula. So, it stands to reason that lactating goats could also drink baby formula.
+Watch the kid's droppings closely. Normal kid droppings are small, yellowish, and pasty during the milk-only stage. Watery or white diarrhea means something is off with the feeding, and you need to adjust the formula concentration or switch products.
 
-But, there are a few important things to keep in mind.
+A kid that refuses the bottle, feels cold to the touch, or stands hunched up needs veterinary attention. Dehydration can set in fast with young kids, and a few hours can make the difference.
 
-First of all, baby formula is designed for human babies and may not provide all the nutrients a goat needs.
+## Final Thoughts
 
-Then, baby formula is typically made with cow's milk, which can be difficult for goats to digest. For these reasons, it's best to consult with a goat expert before giving baby formula to a lactating goat.
+Human baby formula is an emergency stopgap, not a feeding plan. It will keep a kid going for a day or two while you get proper goat milk replacer.
 
-Last but not least, goat's milk is much higher in fat and protein than baby formula, so it's important to only give small amounts of baby formula to a lactating goat.
-
-## What are the benefits of feeding baby formula to goats?
-
-Baby formula is a highly nutritious food that is designed to meet the needs of human infants. But, it can also be fed to goats with great success.
-
-Formula-fed goats tend to grow faster and achieve greater body weights than those that are not fed formula.
-
-It's also worth noting that formula-fed goats are less likely to develop nutritional deficiencies, and their coat condition is often better than that of goats that are not fed formula.
-
-Finally, baby formula can help to reduce the incidence of scours, a common goat illness that can be fatal. While Formula-fed goats may require more care and attention than those that are not fed formula, the benefits of doing so are well worth the effort.
-
-## What are the disadvantages of feeding baby formula to goats?
-
-While baby formula can be a convenient way to feed goats, there are several disadvantages to consider.
-
-First of all, baby formula is designed for human babies, and as such, it may not provide all the nutrients that goats need.
-
-Similarly, baby formula is often very expensive, and it can be difficult to find a brand that is compatible with goat milk.
-
-Finally, baby formula can be hard to digest for some goats, causing stomach upset and diarrhea. For these reasons, it's important to consider the disadvantages of feeding baby formula to goats before making a decision.
-
-## How much baby formula should I feed my goat?
-
-About baby formula, there's no one-size-fits-all answer. The amount of formula that you need to feed your goat will depend on several factors, including the age and size of the goat, as well as the type of formula that you are using.
-
-For example, newborn goats will need to consume more formula than older goats, and larger goats will need more than smaller goats.
-
-However, you should start by feeding your goat about 4 ounces of formula per day. This can be increased or decreased as needed based on the goat's individual needs.
-
-If you are unsure about how much formula to feed your goat, it's always best to consult with a veterinarian or other animal expert.
-
-## Are there any alternative milk products that I can feed my goat?
-
-In addition to baby formula, there are a number of other milk products that can be fed to goats. These include cow's milk, sheep's milk, and buffalo milk.
-
-Each of these milk products has its own unique nutritional profile, so you need to choose one that is appropriate for the age and size of your goat. However, all of these milk products can be a good source of nutrition for goats.
-
-## What are the best baby formulas for goats?
-
-The best baby formula for goats is one that is designed specifically for them. There are a number of goat-specific formulas on the market, and they are typically made with goat milk or a combination of goat milk and cow's milk.
-
-These formulas are typically easier for goats to digest than those that are made with cow's milk alone, and they can provide all the nutrients that goats need. If you are unsure about which baby formula to choose, it's always best to consult with a veterinarian or other animal expert.
-
-## To Wrap Things Up
-
-Baby formula can be a great way to feed goats. But, it's important to consider the advantages and disadvantages of doing so before making a decision.
-
-In addition, you should choose a goat-specific formula that is appropriate for the age and size of your goat. If you have any questions about feeding baby formula to goats, it's always best to consult with a goat expert or other animal expert.
+Your best options in order are a nursing doe, goat milk replacer, whole cow milk with buttermilk, and then human formula as a distant last resort. Keep a bag of milk replacer in your barn at all times so you are never caught without it during kidding season.

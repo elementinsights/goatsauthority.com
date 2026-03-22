@@ -41,112 +41,45 @@ faq:
   - question: "What is the best dog breed to guard your goats?"
     answer: "When it comes to guarding your goats, there are a number of different dog breeds that can get the job done. But there are some breeds that are better suited for the task than others."
 ---
-Dogs have been used to herd goats, and both animals have benefited from the relationship. But can a dog get sick from a goat?
 
-we'll cover the basics of what you need to know about dog-goat interactions, including how to prevent your dog from getting sick from a goat.
-
-And also, we'll tell you how to choose the right dog breed for your goats, in case you're thinking about getting both animals.
+Yes, dogs can catch certain diseases from goats, though it doesn't happen often. If you're running livestock guardian dogs with your herd or have a farm dog that hangs around the goat pen, it's worth knowing the risks.
 
 ## Can a dog get sick from a goat?
 
-Second, if the dog eats something that the goat has eaten, there's a chance that the dog could become ill. This could happen if the goat has been eating spoiled food or if the dog has a weak immune system.
+Dogs can pick up infections from goat feces, urine, and shared water sources. The risk goes up when the dog is living full-time with the goats, eating near them, or drinking from the same troughs.
 
-Finally, if the dog comes into contact with the goat's feces, there's a chance that the dog could contract an illness from the goat. This could happen if the feces are contaminated with bacteria or parasites.
+The reverse is also true. Dogs can make goats sick by chasing them and causing stress injuries, or by transmitting Neospora, a parasite that can cause abortions in pregnant does.
 
-## What disease can a dog get from a goat?
+## What diseases can a dog get from a goat?
 
-There are a number of diseases that can affect both dogs and goats, but some are more common than others. One of the most common diseases is parvovirus, which is highly contagious and can be deadly.
+Leptospirosis is one of the main concerns. Dogs can contract it from contact with goat urine, especially in wet areas where the bacteria survive longer in standing water or mud. Vaccination against lepto is available and worth discussing with your vet if your dog lives around livestock.
 
-Dogs can also contract rabies from goats, although this is relatively rare.
+Cryptosporidium and Giardia are parasites found in goat feces that can infect dogs and cause diarrhea. Rabies is always a risk with any mammal-to-mammal contact, though it's uncommon in well-managed herds. Dogs can also pick up external parasites like ticks and certain mites from shared pasture areas.
 
-Other diseases that can be passed from goats to dogs include leptospirosis, giardia, and salmonella.
+## Keeping your guardian dog healthy
 
-Fortunately, most of these diseases can be prevented with proper vaccination. By keeping up-to-date on their shots and taking other precautions, such as avoiding contact with sick animals, dogs and their owners can minimize the risk of contracting a serious disease.
+Livestock guardian dogs that live with the herd need to stay current on all vaccinations, including rabies, distemper, and leptospirosis. Talk to your vet about a deworming schedule that accounts for the dog's constant exposure to livestock parasites.
 
-## How do dogs and goats interact with each other?
+Feed the dog separately from the goats. Dogs that eat from the same trough or snack on goat grain are more likely to pick up gastrointestinal parasites, and goats that eat dog food can get seriously sick from the protein levels.
 
-Though they are both four-legged animals with fur, dogs and goats are vastly different creatures. Dogs are carnivores while goats are herbivores, meaning that their diets vary greatly.
+## Best guardian dog breeds for goats
 
-Dogs typically eat meat and crunchy dog biscuits while goats prefer to graze on grass, leaves, and other vegetation.
+Great Pyrenees, Anatolian Shepherds, and Maremma Sheepdogs are the most common guardian breeds used with goat herds. These dogs bond with the herd and will defend the goats from coyotes, stray dogs, and other predators.
 
-In terms of personality, dogs are often seen as loyal and friendly companions while goats are more independent and inquisitive.
+Kuvasz and Pyrenean Mountain Dogs are also solid choices. Whatever breed you pick, the dog needs to be raised with goats from a young age so it bonds to them rather than seeing them as something to chase.
 
-Despite these differences, however, dogs and goats can get along quite well. Goats are social creatures and enjoy the company of other animals, including dogs.
+## Precautions when dogs and goats live together
 
-In fact, a dog can provide a goat with valuable protection from predators.
+Keep the dog's food and water separate from the goat area. Dogs eating goat feed and goats eating dog food causes problems for both animals. Goat feed doesn't meet a dog's nutritional needs, and dog food protein levels can make goats seriously ill.
 
-In return, the goat will often serve as a friend and companion to the dog. Though they have different personality traits and dietary needs, dogs and goats can form strong bonds with one another.
+Monitor the dog for any signs of illness, including lethargy, diarrhea, loss of appetite, or unusual behavior. A guardian dog that's off its game won't protect the herd effectively, and an untreated infection can spread to the rest of your animals.
 
-## What is the best dog breed to guard your goats?
+Make sure your dog has a clean, dry place to rest away from goat manure. Constant exposure to wet, contaminated bedding increases the risk of skin infections and internal parasites for both species.
 
-There are a number of different dog breeds that can get the job done. But there are some breeds that are better suited for the task than others.
+## Final Thoughts
 
-Here are a few of the best dog breeds to consider if you're looking for a good guard dog for your goats:
+Dogs and goats can live together successfully, and millions of farms operate that way. The key is keeping the dog vaccinated, dewormed on schedule, and fed separately from the herd.
 
-- **Anatolian Shepherd**: The Anatolian Shepherd is a large, powerful breed that was originally developed in Turkey to protect sheep from predators. With their strong build and protective nature, Anatolian Shepherds make excellent guard dogs.
+Know the signs of cross-species disease transmission so you can catch problems early. A healthy guardian dog is your goat herd's best protection against predators, so keeping that dog in top shape benefits everyone.
 
-- **Kuvasz**: The Kuvasz is another large breed that makes an excellent guard dog. Originally from Hungary, Kuvaszok were used to protect flocks of sheep from predators such as wolves and bears. Today, they are still known for their guardian instincts and their loyalty to their family.
-
-- **Greater Swiss Mountain Dog**: The Greater Swiss Mountain Dog is a large, fluffy breed that originates from Switzerland. These dogs were traditionally used as working dogs on farms, but their size and strength also make them excellent guardians.
-
-- **Maremma Sheepdog**: The Maremma Sheepdog is another large breed that was originally developed in Italy to protect sheep from predators. These dogs are fiercely protective of their charges and will do whatever it takes to keep them safe.
-
-- **Pyrenean Mountain Dog**: The Pyrenean Mountain Dog is a large breed that hails from the mountains of France and Spain. These dogs were traditionally used as working dogs on farms, but their size, strength, and intelligence make them well-suited for guarding goats.
-
-No matter which breed you choose, always remember that all dogs have the potential to be good guard dogs for your goats. The most important thing is to select a dog that is compatible with your goats and that you feel comfortable working with.
-
-## What are the benefits of having a dog herd goat?
-
-One of the benefits of having a dog herd goats is that the dog can help protect the goats from predators. Goats are often targeted by predators such as coyotes, foxes, and even dogs.
-
-Having a herding dog can help to keep the goats safe from these predators. The dog will bark and chase away any predators that come too close to the goats.
-
-Another benefit of having a herding dog is that the dog can help to keep the goats moving. Goats are notoriously independent creatures and they often prefer to wander off on their own.
-
-This can lead to problems such as getting lost or being stuck in places they can't get out of. A herding dog can help to keep the goats together and moving in the right direction.
-
-Finally, having a herding dog can also be a great way to bond with your goats. Goats are social creatures and they enjoy being around other animals.
-
-By spending time with your goats and working together as a team, you and your goat will develop a strong bond.
-
-## What are some common health problems that can occur in dogs who herd goats?
-
-Dogs who herd goats may suffer from multiple health problems. One common issue is hip and elbow dysplasia, which occurs when the joints do not develop properly.
-
-This can lead to pain and arthritis later in life. Another issue that can affect herding dogs is heatstroke, as they are often working in hot weather without access to shade or water.
-
-Without proper hydration, dogs can quickly overheat, leading to organ damage or even death.
-
-Eventually, herding dogs may also suffer from anxiety or stress due to the demanding nature of their job. If not properly managed, this stress can lead to serious health problems such as ulcers or heart disease.
-
-By understanding the potential health risks, owners of herding dogs can take steps to help prevent these problems from occurring.
-
-## How can I prevent my dog from getting sick while herding goats?
-
-Dogs are susceptible to a number of diseases and parasites that can be passed on to goats. To help prevent your dog from getting sick, it's important to practice good hygiene and to keep your dog up-to-date on its vaccinations.
-
-When herding goats, your dog will come into contact with a variety of potential sources of infection, including the animals themselves, their feces, and their food and water.
-
-All of these can harbor disease-causing organisms that your dog can contract. Good hygiene practices, such as regular hand-washing and disinfecting all surfaces that come into contact with the goats, can help reduce the risk of disease transmission.
-
-Keeping your dog vaccinated against common diseases, such as rabies and distemper, will also help to reduce the risk of illness.
-
-By following these simple recommendations, you can help keep your dog healthy while it enjoys the activity of herding goats.
-
-## What are the precautions when goats and dogs are living together?
-
-When goats and dogs are living together, there are a few precautions that should be taken in order to make sure the safety of both animals.
-
-First, you need to make sure that the goats have plenty of space to roam and that the area is free of potential hazards such as sharp objects or poisonous plants.
-
-Second, it's necessary to monitor the goats closely for signs of illness or injury, as dogs can sometimes be rough when playing.
-
-In the end, you need to keep an eye on the dog's food and water bowls, as goats may try to drink from them. By taking these precautions, you can help to keep both goats and dogs safe and healthy.
-
-## To Wrap Things Up
-
-Many people enjoy the companionship of both dogs and goats. However, it's important to be aware of the potential health risks that can occur when these two animals interact.
-
-Goats and dogs can get sick of each other if they are not properly cared for. It's important to practice good hygiene, keep up-to-date on vaccinations, and monitor both animals closely for signs of illness.
-
-By taking these precautions, you can help to keep both goats and dogs safe and healthy.
+Schedule regular vet checkups for your farm dogs just like you do for your goats. Catching a parasite load or infection early is always cheaper and easier than dealing with a full-blown illness later.
