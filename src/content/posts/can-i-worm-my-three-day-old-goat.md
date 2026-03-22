@@ -33,7 +33,7 @@ faq:
   - question: "What is worming and why is it important for goats?"
     answer: "Worming, or deworming, is an important part of maintaining the health of your goats. Worms are parasitic organisms that live inside the digestive system of goats and other livestock."
   - question: "What are the different types of wormers available for goats and what do they each do?"
-    answer: ""
+    answer: "The main dewormer classes for goats are benzimidazoles like fenbendazole (SafeGuard), macrocyclic lactones like ivermectin (Ivomec), and levamisole (Prohibit). Each targets different types of internal parasites, and rotating between classes helps prevent drug-resistant worms from building up on your farm."
 ---
 
 No, you should not deworm a 3-day-old kid. At that age, internal parasites aren't even on the radar yet, and giving dewormer to a newborn does more harm than good.

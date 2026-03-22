@@ -31,7 +31,7 @@ faq:
   - question: "What is the difference between a newborn and older goats?"
     answer: "there are many differences between newborns and older animals. For one thing, newborns are much smaller and more vulnerable than their adult counterparts."
   - question: "Why mix them together?"
-    answer: ""
+    answer: "Goats are social animals, and a kid raised in isolation too long will have a harder time integrating into the herd later. Kids also learn what to eat, where to drink, and how to handle the pasture by watching and following the older goats."
   - question: "How to mix them together?"
     answer: "Goats of different ages shouldn't be mixed together all at once. Ease them into it by putting them into separate pens and letting them get comfortable with each other."
 ---

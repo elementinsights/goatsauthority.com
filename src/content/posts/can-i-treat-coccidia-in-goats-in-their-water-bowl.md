@@ -29,7 +29,7 @@ faq:
   - question: "Can I treat coccidia in goats in their water bowl?"
     answer: "No, adding medication to a shared water bowl is not effective because each goat drinks a different amount, making accurate dosing impossible. Drench each goat individually with a syringe using Corid (amprolium) or Baycox (toltrazuril) at the correct weight-based dose."
   - question: "What are the benefits of treating coccidia in goats?"
-    answer: ""
+    answer: "Treating coccidia early prevents permanent damage to the intestinal lining, which is responsible for nutrient absorption. Prompt treatment keeps kids growing on schedule and can save their lives, since coccidia is the number one killer of young goats between 3 weeks and 5 months of age."
   - question: "What are the risks of not treating coccidia in goats?"
     answer: "Coccidia are a common parasitic infection in goats, affecting both young and adult animals alike. Without proper treatment, coccidia can cause severe digestive issues, weight loss, and even death in extreme cases."
   - question: "How to Prevent Coccidiosis in Goats?"

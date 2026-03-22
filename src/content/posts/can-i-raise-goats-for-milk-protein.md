@@ -33,7 +33,7 @@ faq:
   - question: "Can I raise goats for milk protein?"
     answer: "You can raise goats for milk protein because they are a source of high-quality, easily digestible protein. Goats are also a good source of essential amino acids, which are necessary for the body to build and repair tissues, and for the proper functioning of enzymes and hormones."
   - question: "What are the things you need to consider before getting started?"
-    answer: ""
+    answer: "You'll need at least one acre for two to three does, a dry shelter, access to pasture or quality hay, fresh water, and loose minerals formulated for goats. Dairy goats also need to be bred each year to keep producing milk, so you'll need a buck or access to one and a plan for the kids."
   - question: "What is a goat milk protein and what are its benefits?"
     answer: "At its most basic level, goat milk protein is simply the proteins that are found in goat milk. These proteins play a number of important functions within the body, from supporting the growth and development of new cells to helping to maintain proper muscle functioning."
   - question: "How to care for goats to ensure a healthy milk supply?"

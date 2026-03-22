@@ -63,7 +63,9 @@ The main risk is mouth or throat injuries from particularly long thorns. Grapefr
 
 The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once. Watch for soft droppings or reduced appetite as signs that they have overdone it on the citrus browse.
 
-## Things you need to remember not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
+## Things You Need to Remember
+
+Goats are browsers, not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
 
 A standard goat eats about 3 to 5 percent of its body weight daily, not two-thirds like some sources claim. A 150 pound goat will eat roughly 5 to 8 pounds of food per day, and citrus browse should only be a portion of that.
 

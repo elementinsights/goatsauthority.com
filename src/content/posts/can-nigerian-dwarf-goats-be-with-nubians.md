@@ -35,7 +35,7 @@ faq:
   - question: "What are Nigerian dwarf Goats and Nubian goats?"
     answer: "Nigerian dwarf goats and Nubian goats are both types of dairy goats that are commonly raised on small farms and in backyards."
   - question: "What are the benefits of crossbreeding goats?"
-    answer: ""
+    answer: "A Nigerian Dwarf buck bred to a Nubian doe produces a Mini Nubian, which combines smaller size with decent milk production and has become a recognized breed. Mini Nubians are a solid option for small homesteads that want good milk volume without housing full-sized goats."
   - question: "What are the potential problems with crossbreeding goats?"
     answer: "The size difference creates concerns at the feeder since a 170-pound Nubian can easily push a 65-pound Nigerian Dwarf off the hay rack. A Nubian buck should also never be put with Nigerian Dwarf does, as the resulting kids could be too large for a small doe to deliver safely."
 ---

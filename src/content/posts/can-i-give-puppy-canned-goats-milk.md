@@ -33,7 +33,7 @@ faq:
   - question: "What are the benefits of giving my puppy canned goat milk?"
     answer: "First and foremost, goat milk is an excellent source of nutrients that can help to promote healthy growth and development in puppies."
   - question: "How much-canned goat milk should I give my puppy?"
-    answer: ""
+    answer: "Start with small amounts and feed every 2 to 3 hours for newborns, increasing the volume per feeding as the puppy grows. Watch the puppy's stool closely, and if you notice loose stools, reduce the amount slightly until things firm up."
 ---
 
 If you've got an orphaned puppy or one whose mother can't produce enough milk, canned goat milk can be a real lifesaver in a pinch. It's easier to digest than cow milk and widely available at most grocery stores.

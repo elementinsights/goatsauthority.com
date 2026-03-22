@@ -37,7 +37,7 @@ faq:
   - question: "How can you use Germall Plus in goat milk lotion?"
     answer: "When using Germall Plus in goat milk lotion, keep a few key things in mind."
   - question: "What are the things you need to consider before using Germall Plus in goat milk lotion?"
-    answer: ""
+    answer: "Check the pH of your finished lotion because Germall Plus works best in products with a pH between 3 and 8. You should also do a small patch test on the inside of your wrist before using any new batch, since some people are sensitive to diazolidinyl urea."
 ---
 
 Yes, you can use Germall Plus in goat milk lotion, and it is one of the most reliable preservatives for keeping homemade lotion shelf-stable. It protects against bacteria and fungi, which is exactly what you need when working with a water-based product that contains milk.
