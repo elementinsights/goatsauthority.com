@@ -44,7 +44,7 @@ The short answer is yes, goats can drink vinegar safely when it is diluted prope
 
 Goats can drink diluted apple cider vinegar without any problems. The standard dose most farmers use is about 1 tablespoon per gallon of water, though some go up to 2 tablespoons per gallon.
 
-The acidity is mild enough at that dilution that goats will drink it readily. Some goats actually seem to prefer water with a splash of ACV over plain water, while others need a few days to get used to the taste.
+The acidity is mild enough at that dilution that goats will drink it readily. Some goats actually seem to prefer water with a splash of ACV over plain water, while others need a few days to get used to the taste. ACV is a much better daily supplement than [baking soda](/can-baking-soda-cause-urinary-issues-in-goats), which can cause urinary problems when left out free-choice.
 
 ## Reported benefits of apple cider vinegar
 
@@ -52,7 +52,7 @@ Many goat owners report improved digestion, shinier coats, and better parasite r
 
 Raw, unfiltered ACV with the "mother" still in it contains live bacteria and enzymes that white vinegar does not have. Some farmers also use it as a natural fly deterrent, claiming that goats who drink ACV regularly attract fewer flies.
 
-The scientific research on these claims is thin, but decades of anecdotal evidence from working goat farms carry some weight.
+The scientific research on these claims is thin, but decades of anecdotal evidence from working goat farms carry some weight. Parasite management is important year-round since [goat lice cycle seasonally](/can-goat-lice-go-into-a-dormant-stage) and require proactive treatment regardless of vinegar use.
 
 ## Apple cider vinegar vs. White vinegar
 
@@ -68,15 +68,15 @@ Start with just a small splash in a full water bucket so the goats barely notice
 
 Gradually work up to 2 tablespoons per gallon over the next couple of weeks. Always keep a second bucket of plain water available so the goats have a choice. Forcing vinegar water as the only option can lead to dehydration if a picky goat refuses to drink.
 
-Some farmers pour ACV directly over grain or drizzle it on hay as a top dressing. This works well for goats that turn their nose up at vinegar water.
+Some farmers pour ACV directly over grain or drizzle it on hay as a top dressing. This works well for goats that turn their nose up at vinegar water. Just be sure your goats [don't eat too many dewormer pellets](/can-a-goat-eat-too-many-dewormer-pellets) at the same time you're introducing new supplements.
 
 ## When to skip the vinegar
 
 Do not add vinegar to the water of a goat that already has diarrhea. The extra acidity can irritate an already upset digestive system and make things worse.
 
-Dehydrated goats should get plain water only. Vinegar can pull moisture from cells and compound the dehydration problem. Baby kids under 4 weeks old do not need vinegar in their water either, as their rumen is not developed enough to benefit from it.
+Dehydrated goats should get plain water only. Vinegar can pull moisture from cells and compound the dehydration problem. Baby kids under 4 weeks old do not need vinegar in their water either, as their rumen is not developed enough to benefit from it. Dehydrated kids need [electrolyte solutions](/can-baby-goats-have-any-electrolytes) rather than acidic additives.
 
-If a goat is actively sick, talk to your vet before adding anything new to its diet. Vinegar is a supplement for healthy animals, not a treatment for sick ones.
+If a goat is actively sick, talk to your vet before adding anything new to its diet. Vinegar is a supplement for healthy animals, not a treatment for sick ones. A goat [getting sick from cold weather](/can-a-goat-get-sick-from-cold) needs veterinary care, not home remedies like ACV.
 
 ## Final Thoughts
 

@@ -43,11 +43,11 @@ You may have heard that wilted red maple leaves are toxic. That is true for hors
 
 There is no need to cook maple leaves before feeding them to your goats. Fresh, raw maple leaves straight off the branch are exactly how goats prefer them.
 
-Goats are natural browsers and they have been eating maple leaves in the wild for thousands of years. Tossing fresh-cut maple branches into the pen is one of the easiest treats you can offer.
+Goats are natural browsers and they have been eating maple leaves in the wild for thousands of years. Tossing fresh-cut maple branches into the pen is one of the easiest treats you can offer alongside [hay cubes](/can-goats-eat-hay-cubes/) for variety.
 
 ## Health Benefits and Risks of Maple Leaves for Goats
 
-Maple leaves contain fiber and some vitamins that make them a decent addition to a goat’s browse. They are not a complete food source on their own, but they work well as part of a varied diet alongside hay and pasture.
+Maple leaves contain fiber and some vitamins that make them a decent addition to a goat’s browse, similar to [pine needles](/can-goats-eat-pine-needles/) and acorns. They are not a complete food source on their own, but they work well as part of a varied diet alongside hay and pasture.
 
 The main concern people raise is the toxicity issue with wilted red maple leaves. While this is a real and documented danger for horses, goats process these compounds differently and handle them without trouble. Maple leaves should still be a supplement to their regular diet, not the main course.
 
@@ -55,16 +55,16 @@ The main concern people raise is the toxicity issue with wilted red maple leaves
 
 The best way to offer maple leaves is to cut fresh branches and let your goats strip the leaves right off. They will eat the leaves, the small twigs, and even chew on the bark.
 
-Make sure any branches you cut have not been sprayed with pesticides or herbicides. If you are gathering from trees outside your own property, you have no way of knowing what was sprayed, so stick to your own trees.
+Make sure any branches you cut have not been sprayed with pesticides or herbicides, the same precaution that applies when [feeding grapes](/can-goats-eat-grapes/) from unknown sources. If you are gathering from trees outside your own property, you have no way of knowing what was sprayed, so stick to your own trees.
 
 ## What to Do if You Suspect That Your Goat Has Eaten a Poisonous Leaf?
 
 If a goat eats something toxic, the first signs are usually lethargy, loss of appetite, and a change in droppings. With maple leaves specifically, goats are unlikely to have a reaction, but it is always worth paying attention.
 
-If your goat shows signs of distress after eating any unfamiliar plant material, call your vet right away. Keep the goat hydrated and comfortable while you wait, and try to identify what the goat actually ate so the vet knows what they are dealing with.
+If your goat shows signs of distress after eating any unfamiliar plant material, call your vet right away. Plants like [poison hemlock](/can-goats-eat-poison-hemlock/) and onions require immediate veterinary attention. Keep the goat hydrated and comfortable while you wait, and try to identify what the goat actually ate so the vet knows what they are dealing with.
 
 ## Managing Maple Trees in Your Goat Pasture
 
-If you have maple trees growing in or near your pasture, there is no need to fence them off from your goats. Most goats will happily browse on maple saplings and lower branches without any health issues.
+If you have maple trees growing in or near your pasture, there is no need to fence them off from your goats. Most goats will happily browse on maple saplings and lower branches without any health issues, and they make great year-round browse alongside [honeysuckle](/can-goats-eat-honeysuckle/) and dandelions.
 
 Sugar maples are the safest variety, but red and silver maples are fine for goats too. If you are planting new shade trees near the pasture, maples are a solid choice that your goats will appreciate.

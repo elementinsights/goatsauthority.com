@@ -41,7 +41,7 @@ Yes, goats can pick up listeriosis from chicken feces, though it is not the most
 
 Listeria monocytogenes lives in soil, water, and animal waste, including chicken droppings. When goats eat hay that chickens have roosted on or drink from water troughs contaminated with chicken feces, they can ingest the bacteria.
 
-The number one source of listeriosis in goats is poorly fermented silage or haylage with a pH above 5.5. Chicken feces is a secondary risk, but it is one you can control with good barn management. Farms that run chickens and goats in the same barn see higher rates of exposure simply because contamination is harder to avoid.
+The number one source of listeriosis in goats is poorly fermented silage or haylage with a pH above 5.5, and [moldy hay](/posts/can-goats-eat-moldy-hay) presents similar risks. Chicken feces is a secondary risk, but it is one you can control with good barn management. Farms that run chickens and goats in the same barn see higher rates of exposure simply because contamination is harder to avoid.
 
 The bacteria can survive for months in soil and bedding material, so even if you separate the species, residual contamination in shared spaces can still pose a threat. Cleaning and composting litter properly is not optional on a mixed farm.
 
@@ -51,13 +51,13 @@ Listeriosis in goats most often shows up as the encephalitic form, commonly call
 
 The other form causes abortions in pregnant does, usually in the last trimester. Affected goats may also run a fever, refuse food, and press their heads against walls or fence posts as the brain swells from infection.
 
-A goat with facial paralysis from listeriosis often cannot chew or swallow properly. Food falls out of the mouth while the goat stands at the feeder acting like it wants to eat. This is one of the earliest signs, and catching it at this stage gives you the best shot at saving the animal.
+A goat with facial paralysis from listeriosis often cannot chew or swallow properly. The symptoms can look similar to [goat polio](/posts/can-goats-recover-from-polio-without-medication) or [stroke-like episodes from anemia](/posts/can-goats-have-a-stroke-anemia). Food falls out of the mouth while the goat stands at the feeder acting like it wants to eat. This is one of the earliest signs, and catching it at this stage gives you the best shot at saving the animal.
 
 ## How does listeriosis spread in goats?
 
 The bacteria enter through the mouth, often from contaminated feed or water. They can also get in through small cuts in the gums or cheek lining, which is why rough, stemmy hay sometimes increases the risk.
 
-Once inside, Listeria travels along the nerves to the brain, which is why neurological symptoms develop. This nerve migration can take anywhere from a few days to several weeks, meaning a goat might not show symptoms until well after the initial exposure.
+Once inside, Listeria travels along the nerves to the brain, which is why neurological symptoms develop. A proper [CDT vaccination schedule](/posts/can-a-cdt-shot-kill-a-goat) won't prevent listeriosis, but it protects against other deadly infections. This nerve migration can take anywhere from a few days to several weeks, meaning a goat might not show symptoms until well after the initial exposure.
 
 Infected goats do not typically spread it directly to other goats through casual contact. But the contaminated environment, including bedding, feed, and water sources, stays dangerous until it is thoroughly cleaned and disinfected.
 
@@ -65,13 +65,13 @@ Infected goats do not typically spread it directly to other goats through casual
 
 Time is everything with listeriosis. High-dose procaine penicillin G at 20,000 IU per pound of body weight, given every 6 hours, needs to start within hours of the first symptoms for the best chance of pulling a goat through.
 
-Continue treatment for a minimum of 5 days, even if the goat starts looking better after 2 or 3 days. Stopping too early almost always leads to a relapse that is harder to treat the second time around.
+Continue treatment for a minimum of 5 days, even if the goat starts looking better after 2 or 3 days, just as [ivermectin treatments for mites](/posts/can-goats-get-mites) require a follow-up dose. Stopping too early almost always leads to a relapse that is harder to treat the second time around.
 
 Supportive care matters too. Keep the goat hydrated with electrolytes, offer soft feed that is easy to swallow, and provide a quiet, sheltered space away from the rest of the herd. Recovery can take weeks even after the antibiotic course is finished.
 
 ## How to prevent listeriosis on mixed farms
 
-Do not feed silage or haylage that smells off or has visible mold. Keep goat hay feeders elevated so chickens cannot roost on them and contaminate the hay with droppings. A keyhole-style feeder works well because chickens cannot squeeze through the narrow openings.
+Do not feed silage or haylage that smells off or has visible mold. Keep goat [hay feeders](/posts/what-kind-of-hay-do-goats-eat) elevated so chickens cannot roost on them and contaminate the hay with droppings. A keyhole-style feeder works well because chickens cannot squeeze through the narrow openings.
 
 Use separate water systems for chickens and goats, and compost chicken litter properly before spreading it on pastures. A compost pile that reaches 140 degrees Fahrenheit for several consecutive days will kill Listeria and most other harmful bacteria.
 

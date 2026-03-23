@@ -44,17 +44,17 @@ Bimectin and SafeGuard are both dewormers, but they belong to completely differe
 
 You can use Bimectin on kid goats, but it's not a direct replacement for SafeGuard. Bimectin contains ivermectin, which belongs to the avermectin class and targets roundworms plus external parasites like lice and mites.
 
-SafeGuard contains fenbendazole, a benzimidazole that targets roundworms and tapeworms. If your kid has tapeworms, Bimectin won't touch them. You need to know what parasites you're dealing with before choosing which product to reach for.
+SafeGuard contains fenbendazole, a benzimidazole that targets roundworms and tapeworms. If you're milking the doe, be aware of [withdrawal times when using SafeGuard](/can-i-put-safeguard-in-my-goats-milk) before consuming the milk. If your kid has tapeworms, Bimectin won't touch them. You need to know what parasites you're dealing with before choosing which product to reach for.
 
 ## What is Bimectin and how does it work on your kid goats?
 
 Bimectin works by paralyzing the nervous system of parasites, which kills them. It's effective against barber pole worms, brown stomach worms, lungworms, and several types of external parasites.
 
-For goats, ivermectin products are typically given orally rather than by injection, even though the bottle may say injectable. Oral dosing in goats gives better absorption and effectiveness against gut parasites than the injectable route does.
+For goats, ivermectin products are typically given orally rather than by injection, even though the bottle may say injectable. The same rule applies when [using ivermectin pour-on in sheep and goats](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) — always give it by mouth for better results. Oral dosing in goats gives better absorption and effectiveness against gut parasites than the injectable route does.
 
 ## When should you use Bimectin instead of Safeguard on your kid goats?
 
-Choose Bimectin when your kid goat has a confirmed roundworm load and you also need to knock out lice or mites at the same time. It handles both internal and external parasites in one dose, which is a real advantage.
+Choose Bimectin when your kid goat has a confirmed roundworm load and you also need to knock out [lice or mites](/can-goats-get-mites) at the same time. It handles both internal and external parasites in one dose, which is a real advantage.
 
 Stick with SafeGuard when you're dealing with tapeworms or when you want a dewormer with a wider safety margin for very young or weak kids. SafeGuard is one of the hardest dewormers to overdose, which makes it a safer choice for small or underweight animals.
 
@@ -62,13 +62,13 @@ Stick with SafeGuard when you're dealing with tapeworms or when you want a dewor
 
 Both Bimectin and SafeGuard are used off-label in goats, meaning there's no FDA-approved goat dosage on the bottle. You need to use goat-specific dosing, not the cattle dose printed on the label.
 
-For ivermectin given orally to goats, the standard dose is 1ml per 50 lbs of body weight using the 1% injectable solution given by mouth. Weigh your kids on a scale rather than guessing, because underdosing is the fastest road to building drug-resistant parasites in your herd.
+For ivermectin given orally to goats, the standard dose is 1ml per 50 lbs of body weight using the 1% injectable solution given by mouth. Weigh your kids on a scale rather than guessing, because underdosing is the fastest road to building drug-resistant parasites in your herd. If the doe is expecting, confirm whether you [can safely deworm a pregnant goat](/can-you-deworm-a-pregnant-goat) with your chosen product.
 
 ## How to worm your kid goats with Bimectin?
 
 Run a fecal egg count before you treat. Pull down the lower eyelid and check the FAMACHA score too. If the membrane is bright red or dark pink, your kid probably doesn't need deworming at all.
 
-When treatment is needed, draw up the correct dose and squirt it over the back of the tongue using a syringe without a needle. Follow up with another fecal egg count 10 to 14 days later to confirm the dewormer actually worked.
+When treatment is needed, draw up the correct dose and squirt it over the back of the tongue using a syringe without a needle, the same [syringe technique used for giving water to sick goats](/can-i-give-a-sick-goat-water-through-a-syringe). Follow up with another fecal egg count 10 to 14 days later to confirm the dewormer actually worked.
 
 ## Additional information on worming your goats
 

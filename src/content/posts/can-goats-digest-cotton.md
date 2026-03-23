@@ -44,7 +44,7 @@ The problem is that most cotton your goat will encounter is not raw cotton bolls
 
 Raw cotton fiber is cellulose, and the bacteria in a goat's rumen break down cellulose as their primary job. A goat that munches on cotton plants in a field will digest them just fine, the same way it handles any other fibrous plant material.
 
-Cotton plants can even serve as supplemental forage in areas where cotton is grown. Goats will eat the leaves, stems, and leftover bolls after harvest without any digestive trouble.
+Cotton plants can even serve as supplemental forage in areas where cotton is grown. Goats will eat the leaves, stems, and leftover bolls after harvest without any digestive trouble. Their four-chamber system handles all sorts of fibrous plants, which is why learning [whether goats can digest anything](/can-goats-digest-anything) is such a common question.
 
 ## The danger of processed cotton and textiles
 
@@ -56,7 +56,7 @@ Long threads and fabric strips can tangle inside the intestines and create a blo
 
 The first sign is a goat that stops eating. If your goat was enthusiastic at feeding time yesterday and turns its nose up today, pay attention right away.
 
-Check for cud chewing. A healthy goat chews cud throughout the day, and a goat that has stopped may have something stuck in its digestive tract. Press your ear against the goat's left side and listen for rumen sounds. Silence or a tight, drum-like feel on that left side means trouble.
+Check for cud chewing. A healthy goat chews cud throughout the day, and a goat that has stopped may have something stuck in its digestive tract. Press your ear against the goat's left side and listen for rumen sounds. Silence or a tight, drum-like feel on that left side means trouble. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) helps you locate the rumen and check for problems.
 
 Bloating, lethargy, and straining without producing droppings are all red flags. Call your vet if you see any combination of these signs.
 
@@ -64,7 +64,7 @@ Bloating, lethargy, and straining without producing droppings are all red flags.
 
 Walk your property and pick up any fabric, ropes, old tarps, or forgotten towels within goat reach. Old t-shirts used as rags and loose baling twine are common culprits that end up in a goat's stomach.
 
-Close your laundry room or garage door if your goats roam near the house. Goats will pull clothes off a drying line without a second thought, and a mouthful of polyester blend can cause real damage.
+Close your laundry room or garage door if your goats roam near the house. Goats will pull clothes off a drying line without a second thought, and a mouthful of polyester blend can cause real damage. [Goats can also drink cow milk](/can-goats-drink-cow-milk) safely, but keeping them away from other household items is just as important.
 
 Store feed bags and grain sacks in sealed containers or a room the goats cannot enter. The residual grain smell on these materials makes them irresistible.
 
@@ -72,9 +72,9 @@ Store feed bags and grain sacks in sealed containers or a room the goats cannot 
 
 If your goats want something to chew on, give them what their rumen was built for. Woody branches from willow, apple, or mulberry trees are great options that goats love and digest easily.
 
-Hay should be available at all times. Timothy hay and orchard grass provide the long-stem fiber that keeps the rumen working right. A goat that always has hay in front of it is far less likely to start chewing on random materials out of boredom or hunger.
+Hay should be available at all times. Timothy hay and orchard grass provide the long-stem fiber that keeps the rumen working right. A goat that always has hay in front of it is far less likely to start chewing on random materials out of boredom or hunger. Providing proper forage also ensures your goats [don't eat meat](/do-goats-eat-meat), which their rumen simply cannot process.
 
-Bark strips from fallen trees also work well as chew material. Just make sure the tree species is safe before you toss a branch in the pen.
+Bark strips from fallen trees also work well as chew material. Just make sure the tree species is safe before you toss a branch in the pen. Keeping [goats away from juice](/can-goats-drink-juice) and other sugary beverages is equally important for maintaining healthy rumen function.
 
 ## Final Thoughts
 

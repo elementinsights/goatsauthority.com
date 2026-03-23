@@ -43,7 +43,7 @@ Most small goat operations supplement income rather than replace a full-time job
 
 ## Can goats make money?
 
-Selling registered breeding stock is one of the most profitable options. Quality registered does can sell for $200 to $500 or more, and a proven buck from strong bloodlines can command even higher prices.
+Selling registered breeding stock is one of the most profitable options. Knowing [how many kids goats typically have](/posts/how-many-babies-do-goats-have-at-a-time) helps you plan production. Quality registered does can sell for $200 to $500 or more, and a proven buck from strong bloodlines can command even higher prices.
 
 Dairy products are another strong revenue stream if you're willing to deal with licensing requirements in your state. Raw goat milk, cheese, yogurt, and goat milk soap all have dedicated markets with loyal customers. A gallon of goat milk might sell for $8 to $12 at a farmers market, but turning that same gallon into soap bars could be worth $60 or more.
 
@@ -63,19 +63,19 @@ Goats also have low startup costs compared to cattle. You can get started with a
 
 Pick one focus before you buy your first goat. Trying to do dairy, meat, and breeding stock all at once spreads you too thin and none of it gets done well.
 
-If you want dairy, start with Nubians, LaManchas, or Saanens. For meat, Boer and Kiko crosses are your best bet. For breeding stock, invest in registered animals with documented pedigrees because that's what serious buyers are looking for.
+If you want dairy, start with Nubians, LaManchas, or Saanens. For meat, Boer and [Kiko](/posts/where-did-kiko-goats-originate) crosses are your best bet. For breeding stock, invest in registered animals with documented pedigrees because that's what serious buyers are looking for.
 
 ## Tips for success in the goat-rearing business
 
-Know your local market before you invest. Visit farmers markets, contact local restaurants, and check what goat products are selling in your area. Talk to other goat farmers about what's working for them and what buyers are looking for.
+Know your local market before you invest. Visit farmers markets, contact local restaurants, and check what goat products are selling in your area. Some cities even allow [urban goat keeping](/posts/can-goats-live-in-an-urban-environment), opening up suburban markets. Talk to other goat farmers about what's working for them and what buyers are looking for.
 
 Keep your overhead low in the first year. Good fencing and a basic three-sided shelter are the essentials. Fancy barns and equipment can come later once revenue is flowing. Build a social media presence early because buyers for breeding stock and goat products often find sellers through Facebook groups and Instagram.
 
 ## Are there any risks associated with goat-rearing?
 
-Parasites are the number one health challenge in goats and can wipe out profits fast if you're not managing them with rotational grazing and targeted deworming. Vet bills add up quickly when you're not staying ahead of health issues.
+Parasites are the number one health challenge in goats and can wipe out profits fast if you're not managing them with rotational grazing and [targeted deworming](/posts/can-you-deworm-a-pregnant-goat). Vet bills add up quickly when you're not staying ahead of health issues like [hoof rot](/posts/can-hoof-rot-kill-a-goat).
 
-Goats are also escape artists, and bad fencing means lost animals and angry neighbors. Budget for quality fencing from day one because cheap fence wire and goats don't mix.
+[Goats are also escape artists](/posts/can-goats-climb-fences), and bad fencing means lost animals and angry neighbors. Budget for quality fencing from day one because cheap fence wire and goats don't mix.
 
 ## Final Thoughts
 

@@ -46,7 +46,7 @@ Cook them until they are soft, then mix a small handful into your goat's grain r
 
 ## The benefits of feeding lentils to goats
 
-Lentils are high in protein and fiber. For a doe in late pregnancy or heavy lactation, a handful of cooked lentils mixed into her grain can give her an extra nutritional boost when she needs it most.
+Lentils are high in protein and fiber. For a doe in late pregnancy or heavy lactation, a handful of cooked lentils mixed into her [oats](/can-goats-eat-oats/) can give her an extra nutritional boost when she needs it most.
 
 They also contain iron, folate, and manganese. These nutrients support healthy blood production and overall immune function, which matters most during times of stress like kidding season.
 
@@ -54,19 +54,19 @@ They also contain iron, folate, and manganese. These nutrients support healthy b
 
 The biggest risk is feeding too many at once. Lentils are high in fiber, and a sudden large serving can throw off the rumen and cause gas, loose stools, or bloat.
 
-Raw or undercooked lentils are harder to digest and can contain compounds that irritate the gut. Always cook lentils thoroughly before offering them, and introduce them gradually over several days so the rumen bacteria can adjust.
+Raw or undercooked lentils are harder to digest and can contain compounds that irritate the gut, unlike [peanuts](/can-goats-eat-peanuts/) which can be fed raw without issue. Always cook lentils thoroughly before offering them, and introduce them gradually over several days so the rumen bacteria can adjust.
 
 ## Additional tips for feeding lentils to goats
 
 Start with about a quarter cup of cooked lentils per adult goat per day. Watch their droppings for the next couple of days to make sure everything stays firm and pellet-shaped.
 
-If they handle that amount fine, you can bump it up to half a cup. There is no need to go beyond that since goats get their protein from alfalfa, browse, and quality feed, and lentils are just a supplement.
+If they handle that amount fine, you can bump it up to half a cup. There is no need to go beyond that since goats get their protein from [alfalfa](/can-goats-eat-alfalfa/), browse, and quality feed, and lentils are just a supplement.
 
 ## A recipe for a goat feed mix that includes lentils
 
 Mix together equal parts oats and barley, then stir in a smaller portion of cooked lentils. A ratio of about 4 parts grain to 1 part lentils works well for most adult goats.
 
-You can also just toss leftover cooked lentils from the kitchen into their grain bucket. This is one of the easiest ways to use up lentils that did not get finished at dinner, and the goats will not complain about the seasoning.
+You can also just toss [leftover](/can-i-feed-my-goat-leftovers/) cooked lentils from the kitchen into their grain bucket. This is one of the easiest ways to use up lentils that did not get finished at dinner, and the goats will not complain about the seasoning.
 
 ## What are lentils and what do they offer nutritionally?
 
@@ -78,4 +78,4 @@ Red lentils break down the most during cooking, which makes them the easiest for
 
 Goats can eat cooked lentils as an occasional treat or supplement. They are a good source of protein and fiber, but they should not replace hay, browse, or a balanced goat feed.
 
-Cook them thoroughly, start with small amounts, and mix them into grain rather than feeding them straight. Lentil plants and vines from the garden are also safe for goats to browse on if you grow your own.
+Cook them thoroughly, start with small amounts, and mix them into grain rather than feeding them straight. Lentil plants and vines from the garden are also safe for goats to browse on if you grow your own, much like [pumpkin](/can-goats-eat-pumpkin/) vines and squash plants.

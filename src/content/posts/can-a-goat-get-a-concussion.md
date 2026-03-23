@@ -37,13 +37,13 @@ Yes, goats can absolutely get concussions. Any time a goat takes a hard blow to 
 
 Goats get concussions the same way any animal does. A sudden impact to the head rattles the brain inside the skull, and the resulting bruising or swelling causes neurological symptoms.
 
-The most common causes are falls from elevated surfaces, running full speed into gates or walls, and getting hit by a larger animal. Older goats and kids are at higher risk because their skulls are either more brittle or not fully developed yet.
+The most common causes are falls from elevated surfaces, running full speed into gates or walls, and getting hit by a larger animal. In rare cases, [horns growing into a goat's head](/can-goats-die-from-their-own-horns-grow-into-heads/) can also cause chronic head pain and confusion. Older goats and kids are at higher risk because their skulls are either more brittle or not fully developed yet.
 
 ## What are the symptoms of a concussion in goats?
 
 The first thing you will notice is disorientation. The goat may stagger, walk in circles, press its head against a wall, or stand in one spot staring at nothing.
 
-A head tilt is another dead giveaway, especially if it showed up right after the injury. Unequal pupil size, loss of appetite, and grinding teeth are all red flags too.
+A head tilt is another dead giveaway, especially if it showed up right after the injury. Similar neurological symptoms can also appear in goats suffering from [polio](/can-goats-recover-from-polio-without-medication/), so a vet needs to rule that out. Unequal pupil size, loss of appetite, and grinding teeth are all red flags too.
 
 In more serious cases, you might see seizures or a complete inability to stand. If any of those show up, you need a vet out there immediately.
 
@@ -51,7 +51,7 @@ In more serious cases, you might see seizures or a complete inability to stand. 
 
 Mild concussions usually resolve on their own within 24 to 48 hours. Move the goat to a quiet, dimly lit stall away from the rest of the herd and keep noise and activity to a minimum.
 
-Offer small amounts of water frequently and watch to see if the goat starts nibbling hay on its own. Appetite returning within the first day is a strong sign the goat is on the mend.
+Offer small amounts of water frequently and watch to see if the goat starts nibbling hay on its own. You can also give [Pepto Bismol](/can-i-give-my-goat-pepto-bismol/) if the goat shows signs of nausea. Appetite returning within the first day is a strong sign the goat is on the mend.
 
 For anything beyond mild symptoms, call your vet. They may prescribe an anti-inflammatory like banamine to reduce brain swelling, and they can rule out a skull fracture or other serious damage.
 
@@ -59,7 +59,7 @@ For anything beyond mild symptoms, call your vet. They may prescribe an anti-inf
 
 Walk your barn and pen area looking for anything a goat could hit its head on. Low-hanging beams, protruding bolts, gates that swing too fast, and stacked pallets are all common culprits.
 
-Give your goats enough space so they are not constantly bumping into each other or the walls. Overcrowded pens lead to more shoving, more falls, and more head injuries.
+Give your goats enough space so they are not constantly bumping into each other or the walls. Overcrowded pens lead to more shoving, more falls, and more head injuries. Keeping a well-stocked first aid kit with supplies like [Neosporin](/can-i-put-neosporin-on-my-goats/) helps you treat any cuts from impact quickly.
 
 When introducing new goats to an established herd, keep them separated by a fence for a few days first. This lets the pecking order start to sort itself out without the full-contact head butting that happens when strangers meet face to face.
 
@@ -67,7 +67,7 @@ When introducing new goats to an established herd, keep them separated by a fenc
 
 Regular head-butting between goats almost never causes a concussion. Their skulls are built for it, with thick frontal bones and a honeycomb structure that absorbs impact.
 
-The danger comes when there is a major size mismatch. A full-grown buck slamming into a young doeling or a small breed can cause real damage that an even matchup would not.
+The danger comes when there is a major size mismatch. A full-grown buck slamming into a young doeling or a small breed can cause real damage that an even matchup would not, and the [stress from cold weather](/can-a-goat-get-sick-from-cold/) can make recovering from any injury harder.
 
 Separate goats with big size differences until the hierarchy settles down. Once the pecking order is established, the butting drops off and everybody calms down.
 

@@ -31,7 +31,7 @@ Yes, goats can eat honeysuckle, and they absolutely love it. Honeysuckle is one 
 
 ## Can Goats Eat Honeysuckle Berries?
 
-Goats will eat honeysuckle berries along with the leaves, flowers, and vines. The berries are safe and goats tend to strip them right off the plant without hesitation.
+Goats will eat honeysuckle berries along with the leaves, flowers, and vines. Unlike [acorns which need moderation](/can-goats-eat-acorns/), the berries are safe and goats tend to strip them right off the plant without hesitation.
 
 There is no need to worry about limiting honeysuckle berry intake. Goats self-regulate well with this plant and will move on to other browse when they have had enough.
 
@@ -39,23 +39,23 @@ There is no need to worry about limiting honeysuckle berry intake. Goats self-re
 
 Bush honeysuckle is a favorite target for goats. They will strip the leaves off every branch they can reach and come back for more the next day.
 
-Many landowners actually bring goats in specifically to clear bush honeysuckle from overgrown areas. The goats are happy to do the work, and the honeysuckle provides decent nutrition with some fiber, calcium, and potassium along the way.
+Many landowners actually bring goats in specifically to clear bush honeysuckle from overgrown areas, much like using them to manage [pine tree](/can-goats-eat-pine-trees/) undergrowth. The goats are happy to do the work, and the honeysuckle provides decent nutrition with some fiber, calcium, and potassium along the way.
 
 ## Can Goats Eat Japanese Honeysuckle?
 
 Japanese honeysuckle is an invasive species in much of the eastern United States, and goats are one of the best ways to control it. They eat the leaves, flowers, and vines right down to the stems.
 
-If you have Japanese honeysuckle taking over a fence line or woodlot, turning your goats loose on it is a win for everybody. The goats get a food source they prefer over most other browse, and you get free land clearing without chemicals or manual labor.
+If you have Japanese honeysuckle taking over a fence line or woodlot, turning your goats loose on it is a win for everybody. The goats get a food source they prefer over most other browse, and you get free land clearing without chemicals or manual labor. Just make sure there are no [poison hemlock](/can-goats-eat-poison-hemlock/) plants mixed in along the fence line.
 
 ## Why honeysuckle is great browse for goats
 
 Goats are browsers by nature, meaning they prefer leaves, twigs, and vines over grass. Honeysuckle fits perfectly into what they naturally want to eat, which is why they go after it so hard.
 
-The nutritional value is decent but not outstanding. Honeysuckle provides fiber, some vitamins, and trace minerals, but it should not be the only thing your goats eat. Keep good hay and a proper mineral mix available alongside whatever browse they find in the pasture.
+The nutritional value is decent but not outstanding. Honeysuckle provides fiber, some vitamins, and trace minerals, but it should not be the only thing your goats eat. Keep good [hay](/what-kind-of-hay-do-goats-eat/) and a proper mineral mix available alongside whatever browse they find in the pasture.
 
 ## Using goats to clear honeysuckle
 
-Conservation groups and municipalities across the country hire goat herds to clear invasive honeysuckle from parks and nature preserves. A small herd of goats can clear an acre of thick honeysuckle in a few weeks.
+Conservation groups and municipalities across the country hire goat herds to clear invasive honeysuckle from parks and nature preserves. Goats will also tackle [blackberry brambles](/can-goats-eat-blackberries/) and dandelions along the way. A small herd of goats can clear an acre of thick honeysuckle in a few weeks.
 
 If you have honeysuckle on your property, you do not need to spray it or pull it by hand. Just fence the goats into the area and let them go at it. They will eat it down to the ground, and repeated grazing over a season or two will kill most of the root systems.
 

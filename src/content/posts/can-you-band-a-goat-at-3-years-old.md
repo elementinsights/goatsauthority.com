@@ -43,7 +43,7 @@ Banding is one of the most common ways to castrate young goats, but doing it on 
 
 You can, but most experienced goat keepers and vets would strongly advise against it. Banding is a castration method where a small rubber band is placed around the scrotum using an elastrator tool. The band cuts off blood flow, and the scrotum eventually dries up and falls off.
 
-On a young kid, this process goes smoothly with minimal stress. On a 3-year-old buck with a fully developed scrotum and large blood vessels, banding is extremely painful and carries serious risks. The bigger the tissue, the harder it is for a simple rubber band to do the job safely. Most vets recommend surgical castration for any goat over 6 months old.
+On a young kid, this process goes smoothly with minimal stress. [Banding a 2-year-old is already risky enough](/posts/can-you-band-a-2-year-old-buck-goat), and on a 3-year-old buck with a fully developed scrotum and large blood vessels, the pain and complications increase even further. The bigger the tissue, the harder it is for a simple rubber band to do the job safely. Most vets recommend surgical castration for any goat over 6 months old.
 
 ## What is the right time to band a goat?
 
@@ -55,25 +55,25 @@ At this age, the scrotum is small, the procedure takes seconds, and the kid boun
 
 Banding done at the right age is cheap, fast, and doesn't require a vet visit. An elastrator tool and a bag of bands costs just a few dollars from any farm supply store.
 
-Castrating male goats you don't plan to breed makes herd management much easier. Wethers (castrated males) are calmer, don't develop the strong buck smell, and can be housed with does without worrying about unplanned pregnancies. For meat goats, wethers also tend to put on weight more evenly than intact bucks.
+Castrating male goats you don't plan to breed makes herd management much easier. Wethers (castrated males) are calmer, don't develop the strong buck smell, and can be housed with does without worrying about unplanned pregnancies. An unbanded buck will breed any doe in heat, including [half-siblings and daughters](/posts/can-you-breed-a-father-and-daughter-goat), which leads to inbreeding problems. For meat goats, wethers also tend to put on weight more evenly than intact bucks.
 
 ## What are the risks of banding a goat?
 
 On an older goat like a 3-year-old, the risks are serious. The larger blood supply in a mature scrotum means the band may not fully cut off circulation, leading to incomplete castration or tissue that doesn't dry up properly.
 
-Tetanus is a major concern with banding at any age, and a CDT vaccination should be current before the procedure. Infection at the banding site can set in fast, especially in warm weather when flies are active. An older goat will also experience significant pain that can cause them to go off feed, lose weight, and become depressed for days or even weeks.
+Tetanus is a major concern with banding at any age, and a CDT vaccination should be current before the procedure. Even hardy [breeds like Kikos](/posts/where-did-kiko-goats-originate) are not exempt from this risk. Infection at the banding site can set in fast, especially in warm weather when flies are active. An older goat will also experience significant pain that can cause them to go off feed, lose weight, and become depressed for days or even weeks.
 
 ## How do you band a goat?
 
 For young kids at the proper age, you use an elastrator tool to stretch open a small rubber band. You pull both testicles down into the scrotum, slip the band over the scrotum above the testicles, and release. Both testicles need to be below the band or the castration won't work.
 
-The kid will be uncomfortable for about 15 to 20 minutes and may lie down, cry, or walk stiffly. After that initial discomfort, they usually go back to acting normal. The scrotum dries up and falls off within 2 to 4 weeks. Keep the area clean and watch for any swelling, discharge, or foul smell during that time.
+The kid will be uncomfortable for about 15 to 20 minutes and may lie down, cry, or walk stiffly. After that initial discomfort, they usually go back to acting normal. Most goats [have twins or triplets](/posts/how-many-babies-do-goats-have-at-a-time), so you may need to band multiple bucklings from the same kidding. The scrotum dries up and falls off within 2 to 4 weeks. Keep the area clean and watch for any swelling, discharge, or foul smell during that time.
 
 ## Are there any other alternative procedures to banding?
 
 For a 3-year-old buck, surgical castration by a veterinarian is the safest choice. The vet sedates or anesthetizes the goat, makes an incision, removes the testicles, and manages the wound properly. Recovery is faster and more predictable than banding on an older animal.
 
-A Burdizzo clamp is another bloodless method that crushes the spermatic cords without breaking the skin. It works better on older goats than banding does, but it takes experience to use correctly. If the clamp doesn't fully crush the cords, the goat stays fertile. For any castration method on an adult goat, talk to your vet first.
+A Burdizzo clamp is another bloodless method that crushes the spermatic cords without breaking the skin. If you are keeping the buck for breeding, knowing that a [4-year-old goat is in prime breeding condition](/posts/can-you-breed-a-4yr-old-goat) may change your mind about castrating altogether. The Burdizzo works better on older goats than banding does, but it takes experience to use correctly. If the clamp doesn't fully crush the cords, the goat stays fertile. For any castration method on an adult goat, talk to your vet first.
 
 ## Final Thoughts
 

@@ -42,13 +42,13 @@ Sheep can absolutely drink raw goat milk, and it is one of the best substitutes 
 
 Yes, sheep can drink raw goat milk safely. Many farmers who keep both goats and sheep rely on their milking does to feed orphaned lambs every kidding and lambing season.
 
-Goat milk has a fat and protein profile that is much closer to ewe milk than cow milk. This matters because a lamb's stomach is built to handle a specific type of milk, and the closer you can match it, the fewer digestive problems you will deal with.
+Goat milk has a fat and protein profile that is much closer to ewe milk than cow milk. [Puppies can also have goat milk](/can-puppies-have-normal-goats-milk) as a foster milk substitute for the same digestibility reasons. This matters because a lamb's stomach is built to handle a specific type of milk, and the closer you can match it, the fewer digestive problems you will deal with.
 
 ## Bottle feeding orphan lambs with goat milk
 
 Warm the milk to body temperature, around 101 degrees Fahrenheit, before offering it in a lamb bottle with a Pritchard teat. Newborn lambs need to eat every three to four hours for the first week of life.
 
-Feed small amounts at each session rather than stuffing the lamb full. Overfeeding is the fastest way to cause scours in a bottle lamb, and cleaning up after a scouring lamb is no fun for anybody.
+Feed small amounts at each session rather than stuffing the lamb full. Overfeeding is the fastest way to cause scours in a bottle lamb, and cleaning up after a scouring lamb is no fun for anybody. [Sheep and goats can eat bread](/can-sheep-and-goats-eat-bread) as a treat once they are weaned, but only in small amounts.
 
 As the lamb grows, gradually space out feedings. By two weeks old, most lambs can go four to five hours between bottles, and by four weeks they are usually down to three feedings per day.
 
@@ -56,11 +56,11 @@ As the lamb grows, gradually space out feedings. By two weeks old, most lambs ca
 
 Raw goat milk contains easily digestible fats and proteins along with calcium, phosphorus, and vitamins A and D. These nutrients support bone growth, immune function, and healthy weight gain in growing lambs.
 
-The natural probiotics found in raw goat milk also help establish a healthy gut in young lambs. A lamb with good gut bacteria is less likely to develop scours and will absorb nutrients from solid feed more efficiently as it transitions off milk.
+The natural probiotics found in raw goat milk also help establish a healthy gut in young lambs. [Rottweilers and other dogs](/can-rottweilers-drink-goat-milk) benefit from the same probiotics in goat milk. A lamb with good gut bacteria is less likely to develop scours and will absorb nutrients from solid feed more efficiently as it transitions off milk.
 
 ## Transitioning sheep off goat milk
 
-Lambs should not stay on milk forever. Start offering small amounts of creep feed alongside the goat milk around two weeks of age so they begin nibbling on solid food.
+Lambs should not stay on milk forever. Start offering small amounts of creep feed alongside the goat milk around two weeks of age so they begin nibbling on solid food. If you keep both species, learning [whether sheep can eat goat food](/can-sheep-eat-goat-food) is essential for safe feeding practices.
 
 By six to eight weeks, most lambs are eating enough hay and grain that you can start dropping one milk feeding per day each week. A gradual weaning schedule prevents the digestive upset that comes with sudden dietary changes.
 
@@ -68,7 +68,7 @@ By six to eight weeks, most lambs are eating enough hay and grain that you can s
 
 Fresh raw goat milk should be refrigerated right after milking and used within three to five days. Strain it through a milk filter to catch any debris or hair that fell in during milking.
 
-For longer storage, freeze portions in clean plastic containers or zip-lock bags. Frozen goat milk keeps well for about three months and thaws quickly in warm water when you need it.
+For longer storage, freeze portions in clean plastic containers or zip-lock bags. Frozen goat milk keeps well for about three months and thaws quickly in warm water when you need it. Our guide on [freezing goat milk](/can-goats-milk-be-frozen) covers the best storage practices in detail.
 
 Label everything with the date it was milked and frozen. Use the oldest supply first to keep your rotation fresh and avoid waste.
 

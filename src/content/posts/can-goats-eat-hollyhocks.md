@@ -41,7 +41,7 @@ Yes, hollyhocks are safe for goats to eat. They belong to the mallow family (Mal
 
 Goats can eat hollyhocks without any health concerns. The leaves, stems, and flowers are all safe, and no part of the plant is toxic to goats.
 
-Hollyhocks are not typically a goat's first choice when they have other browse options available. They will eat them if the plants are within reach, but do not expect the same level of excitement you would see with a fresh branch of willow or mulberry.
+Hollyhocks are not typically a goat's first choice when they have other browse options available. They will eat them if the plants are within reach, but do not expect the same level of excitement you would see with [honeysuckle](/can-goats-eat-honeysuckle/) or a fresh branch of willow or mulberry.
 
 ## What are hollyhocks and what do they look like?
 
@@ -53,7 +53,7 @@ They belong to the mallow family, which also includes marshmallow and hibiscus. 
 
 Hollyhocks provide some fiber and a small amount of vitamins, though they are not a powerhouse compared to quality hay or browse. The mallow family in general has mild mucilaginous properties, which means the plant material can have a soothing effect on the digestive tract.
 
-Many goat owners let their goats clean up hollyhock stalks after the flowering season is over. It is a good way to clear garden waste while giving the goats something different to chew on.
+Many goat owners let their goats clean up hollyhock stalks after the flowering season is over, much like sharing [pumpkin](/can-goats-eat-pumpkin/) or squash from the fall harvest. It is a good way to clear garden waste while giving the goats something different to chew on.
 
 The biggest practical benefit is that hollyhocks are safe and readily available in many gardens and yards. If your goats have access to them, there is no need to fence the plants off.
 
@@ -61,13 +61,13 @@ The biggest practical benefit is that hollyhocks are safe and readily available 
 
 There are no significant toxicity risks with hollyhocks. They are not poisonous to goats in any amount you would realistically encounter.
 
-The only consideration is that eating large quantities of any one plant can cause digestive upset simply because the rumen prefers variety. If a goat gorges on hollyhock stalks and nothing else for a day, you might see some loose stools, but that would happen with almost any single food fed in excess.
+The only consideration is that eating large quantities of any one plant can cause digestive upset simply because the rumen prefers variety. If a goat gorges on hollyhock stalks and nothing else for a day, you might see some loose stools, but that would happen with almost any single food fed in excess. This is the same principle that applies to feeding large amounts of [lettuce](/can-goats-eat-lettuce/) or celery.
 
-Make sure any hollyhocks you offer have not been treated with pesticides or herbicides. Garden plants are more likely to have chemical residues than wild forage, so wash them or know your spray history before feeding.
+Make sure any hollyhocks you offer have not been treated with pesticides or herbicides. Garden plants are more likely to have chemical residues than wild forage, so wash them or know your spray history before feeding. The same precaution applies to [broccoli](/can-goats-eat-broccoli/) and cabbage from the garden.
 
 ## How to prepare hollyhocks for feeding goats?
 
-No special preparation is needed. You can cut the stalks down and lay them in the pen, or just let your goats browse on standing plants if they have access to the garden area.
+No special preparation is needed, unlike [potatoes which require some caution](/can-goats-eat-potatoes/) due to solanine content. You can cut the stalks down and lay them in the pen, or just let your goats browse on standing plants if they have access to the garden area.
 
 If the stalks are tall and thick, chopping them into shorter sections makes it easier for goats to handle. Goats can eat both the leaves and the flowers, so there is nothing to remove before feeding.
 

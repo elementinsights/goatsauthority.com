@@ -44,7 +44,7 @@ But there's one big exception you need to know about. Here's the full picture.
 
 Yes, most pine needles are safe for goats, and many goats actively seek them out. They seem to enjoy the flavor and texture, and you'll often see them stripping needles right off low-hanging branches.
 
-Pine needles are a natural browse item that fits well into a goat's diet. They don't need to make up a large portion of what your goats eat, but as a supplement to hay and pasture, they're perfectly fine.
+Pine needles are a natural browse item that fits well into a goat's diet alongside [honeysuckle](/can-goats-eat-honeysuckle/) and dandelions. They don't need to make up a large portion of what your goats eat, but as a supplement to hay and pasture, they're perfectly fine.
 
 ## Benefits of pine needles for goats
 
@@ -52,7 +52,7 @@ Pine needles are a good source of vitamin C, which supports immune health. They 
 
 The tannins in pine needles can also support gut health by reducing the impact of intestinal parasites like barber pole worm. This doesn't replace a proper deworming program, but it's a useful addition to your overall parasite management strategy.
 
-Pine needles also give goats something to do. Browse keeps goats mentally stimulated and satisfies their natural urge to forage. A bored goat is a destructive goat, so anything that keeps them busy and interested is a plus.
+Pine needles also give goats something to do, similar to [pine tree](/can-goats-eat-pine-trees/) bark and maple branches. Browse keeps goats mentally stimulated and satisfies their natural urge to forage. A bored goat is a destructive goat, so anything that keeps them busy and interested is a plus.
 
 ## The ponderosa pine warning
 
@@ -68,16 +68,16 @@ White pine, eastern red cedar, spruce, and fir are all safe for goats, including
 
 Most of the pines you'll find on typical farmland in the eastern United States fall into the safe category. If you're not sure what species of pine you have, take a sample to your local extension office for identification. It's worth the effort to know for certain.
 
-Christmas trees are also fine for goats as long as they haven't been sprayed with fire retardant, artificial snow, or preservatives. A plain, untreated tree makes a great post-holiday goat treat.
+Christmas trees are also fine for goats as long as they haven't been sprayed with fire retardant, artificial snow, or preservatives. A plain, untreated tree makes a great post-holiday goat treat alongside leftover [pumpkin](/can-goats-eat-pumpkin/) from the season.
 
 ## How much is okay to eat?
 
 There's no strict limit for safe pine species. Goats will self-regulate their intake and won't typically gorge themselves on pine needles to the exclusion of other feed.
 
-Let them browse naturally and make sure they still have access to hay, pasture, and minerals. Pine needles should be part of a varied diet, not the whole diet. As long as your goats have other feed options available, they'll eat an appropriate amount on their own.
+Let them browse naturally and make sure they still have access to [hay](/what-kind-of-hay-do-goats-eat/), pasture, and minerals. Pine needles should be part of a varied diet, not the whole diet. As long as your goats have other feed options available, they'll eat an appropriate amount on their own.
 
 ## Final Thoughts
 
 Most pine needles are safe and even beneficial for goats. They provide vitamin C, tannins that may help with parasites, and good mental enrichment through natural browsing.
 
-The one rule you can't break is keeping pregnant does away from ponderosa pine. That species contains isocupressic acid, which causes abortion. Know your trees, manage your pastures, and your goats can enjoy pine needles without any worries.
+The one rule you can't break is keeping pregnant does away from ponderosa pine. That species contains isocupressic acid, which causes abortion. Know your trees, manage your pastures, and make sure pregnant does have plenty of safe browse like [blackberries](/can-goats-eat-blackberries/) and acorns instead.

@@ -43,11 +43,11 @@ The catch is that spinach contains oxalates, so you need to be smart about how m
 
 Yes, goats can eat spinach and it is not toxic to them. A handful of fresh spinach as a treat is perfectly fine for goats of any age.
 
-Spinach is one of those foods that is good in moderation but can cause problems if overfed. It should not be a dietary staple, but it makes a nice addition to the mix when you rotate through different leafy greens.
+Spinach is one of those foods that is good in moderation but can cause problems if overfed. Despite the myth that [goats eat everything](/posts/can-goats-eat-everything), some foods need careful portioning. It should not be a dietary staple, but it makes a nice addition to the mix when you rotate through different leafy greens.
 
 ## Nutritional benefits of spinach for goats
 
-Spinach is loaded with iron, which is important for healthy blood cell function. Goats that get enough iron-rich foods are less likely to deal with anemia, especially after a heavy parasite load.
+Spinach is loaded with iron, which is important for healthy blood cell function. Goats that get enough iron-rich foods are less likely to deal with [anemia](/posts/can-goats-have-a-stroke-anemia), especially after a heavy parasite load.
 
 It is also a strong source of vitamins A and K. Vitamin A supports vision, reproduction, and immune health, while vitamin K is needed for proper blood clotting.
 
@@ -59,7 +59,7 @@ Spinach contains oxalates, which can bind to calcium in the digestive system and
 
 Over time, heavy oxalate intake can lead to calcium deficiency and kidney issues. This is not something that happens from an occasional handful, but it is a real concern with prolonged heavy feeding over weeks or months.
 
-The easy solution is to keep spinach as a treat rather than a staple. Mix it with other leafy greens like kale, romaine lettuce, or dandelion greens so your goats get variety without too much of any one thing.
+The easy solution is to keep spinach as a treat rather than a staple. Mix it with other leafy greens like [kale](/posts/can-goats-eat-kale), romaine lettuce, or [dandelion greens](/posts/can-goats-eat-dandelions) so your goats get variety without too much of any one thing.
 
 ## How much spinach should goats eat?
 
@@ -73,9 +73,9 @@ Baby goats can have a few leaves mixed in with their regular food once they are 
 
 Fresh spinach straight from the garden is the best option. Rinse the leaves under cool water to remove any dirt, bugs, or pesticide residue before offering them.
 
-You can hand-feed spinach during bonding time or toss a handful into the hay feeder so goats can pick through it at their own pace. Mixing spinach with other leafy greens adds variety and prevents your goats from eating too much of any single green.
+You can hand-feed spinach during bonding time or toss a handful into the hay feeder so goats can pick through it at their own pace. Mixing spinach with other leafy greens like [blueberry](/posts/can-goats-eat-blueberries) leaves or [blackberry](/posts/can-goats-eat-blackberries) brambles adds variety and prevents your goats from eating too much of any single green.
 
-Avoid feeding wilted or slimy spinach, as it may have started developing harmful bacteria. If you would not eat it yourself, do not give it to your goats. Plain steamed spinach is also fine in small amounts, but skip any seasoning, butter, or oil.
+Avoid feeding wilted or slimy spinach, as it may have started developing harmful bacteria, just like [moldy hay](/posts/can-goats-eat-moldy-hay) should always be discarded. If you would not eat it yourself, do not give it to your goats. Plain steamed spinach is also fine in small amounts, but skip any seasoning, butter, or oil.
 
 ## Final Thoughts
 

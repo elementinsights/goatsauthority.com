@@ -47,13 +47,13 @@ Pineapple contains vitamin C, which supports immune function, and manganese, whi
 
 One standout nutrient in pineapple is bromelain, a natural enzyme that helps break down proteins. Bromelain is concentrated in the stem and core of the fruit.
 
-The sugar content is the main nutritional downside. A cup of pineapple chunks has about 16 grams of sugar, which is a lot for an animal whose digestive system is built for fiber.
+The sugar content is the main nutritional downside. A cup of pineapple chunks has about 16 grams of sugar, which is a lot for an animal whose digestive system is built for fiber from [hay](/what-kind-of-hay-do-goats-eat/) and browse.
 
 ## Health Benefits of Feeding Pineapples to Goats
 
 The bromelain in pineapple may support digestion by helping break down proteins in the gut. Some livestock owners swear by it as a natural digestive aid during feed transitions.
 
-The high water content in pineapple makes it a useful treat during hot summer months when goats need extra hydration. A few cold chunks on a scorching afternoon is a treat any goat appreciates.
+The high water content in pineapple makes it a useful treat during hot summer months when goats need extra hydration, alongside [watermelon](/can-goats-eat-watermelon/) and cucumbers. A few cold chunks on a scorching afternoon is a treat any goat appreciates.
 
 Vitamin C gives the immune system a small boost, though healthy goats produce their own vitamin C naturally. The real benefit is variety, which keeps goats interested in eating and reduces boredom-related behaviors.
 
@@ -63,7 +63,7 @@ Too much pineapple can cause digestive upset because of the high sugar and acid 
 
 The acidity of pineapple can irritate the mouth and lips if a goat eats a large amount at once. You might notice drooling or reluctance to eat hay for a few hours afterward.
 
-Stick to fresh pineapple only. Canned pineapple is packed in syrup with added sugars that goats do not need, and the preservatives are not doing them any favors either.
+Stick to fresh pineapple only, the same rule that applies to [peaches](/can-goats-eat-peaches/) and oranges. Canned pineapple is packed in syrup with added sugars that goats do not need, and the preservatives are not doing them any favors either.
 
 ## Parts of the Pineapple That Are Safe for Goats
 
@@ -79,8 +79,8 @@ Slice off the top and bottom, then stand the pineapple upright and cut away the 
 
 Cut the flesh into small bite-sized pieces, roughly one inch, especially for younger goats. A few chunks per goat is plenty for a single treat session.
 
-Feed pineapple no more than once or twice a week. It is a treat, not a staple, and hay and browse should always make up the bulk of their diet.
+Feed pineapple no more than once or twice a week, rotating with treats like [bananas](/can-goats-eat-bananas/) and blueberries. It is a treat, not a staple, and [hay](/what-kind-of-hay-do-goats-eat/) and browse should always make up the bulk of their diet.
 
 Avoid canned pineapple entirely. The added syrup and preservatives are unnecessary sugar that goats do not need and can upset their rumen balance.
 
-Baby goats that are already eating solid food can have a small piece or two. Wait until they are at least 3 to 4 weeks old and nibbling hay before offering any fruit treats.
+Baby goats that are already eating solid food can have a small piece or two. Wait until they are at least 3 to 4 weeks old and nibbling hay before offering any fruit treats, starting with gentle options like [apples](/can-goats-eat-apples/) or grapes first.

@@ -44,17 +44,17 @@ There is one situation where a small amount of juice can be useful. Let's talk a
 
 Goats can physically drink juice, but that doesn't mean they should. Juice is high in sugar, and a goat's rumen is not built to handle large amounts of sugar at once.
 
-Too much sugar can throw off the delicate balance of bacteria in the rumen and lead to rumen acidosis. In serious cases, excess sugar can trigger enterotoxemia, which can kill a goat fast. So while a goat won't drop dead from a sip of apple juice, making it a regular part of their diet is asking for trouble.
+Too much sugar can throw off the delicate balance of bacteria in the rumen and lead to rumen acidosis. In serious cases, excess sugar can trigger enterotoxemia, which can kill a goat fast. So while a goat won't drop dead from a sip of apple juice, making it a regular part of their diet is asking for trouble. Understanding [what goats can and cannot digest](/can-goats-digest-anything) helps you see why their rumen needs fiber, not sugar.
 
 ## The one time juice is actually useful
 
 A small splash of apple juice mixed into water can help get medication down a stubborn goat. The sweetness masks the taste of electrolyte supplements or dewormer that the goat would otherwise refuse.
 
-This trick also works for getting dehydrated or sick goats to drink more fluids. Mix about one part juice to ten parts water to keep the sugar content low. It's a temporary tool for a specific problem, not a daily drink.
+This trick also works for getting dehydrated or sick goats to drink more fluids. Mix about one part juice to ten parts water to keep the sugar content low. It's a temporary tool for a specific problem, not a daily drink. [Apple cider vinegar](/can-goats-drink-vinegar) is a much better daily water additive if you want to support rumen health.
 
 ## Juices you should never give to goats
 
-Citrus juices like orange and grapefruit are too acidic for goats and can cause mouth sores or stomach irritation. Tomato juice falls in the same category and should be avoided for the same reason.
+Citrus juices like orange and grapefruit are too acidic for goats and can cause mouth sores or stomach irritation. Tomato juice falls in the same category and should be avoided for the same reason. Similarly, [goats should not eat meat](/do-goats-eat-meat) or other non-plant foods that their rumen cannot process.
 
 Grape juice is another one to be cautious with because of its extremely high sugar content. Any juice that contains artificial sweeteners is flat-out dangerous. Xylitol in particular is toxic to many animals. Always read the label on store-bought juice before offering it to your goats, because even "sugar-free" products can contain harmful additives that weren't made with livestock in mind.
 
@@ -62,13 +62,13 @@ Grape juice is another one to be cautious with because of its extremely high sug
 
 Fresh, clean water is the only liquid goats need. An adult goat drinks between half a gallon and a full gallon of water per day depending on the temperature, their size, and whether they're lactating. Does in full milk production can drink even more than that.
 
-Goats are picky about their water too. They'll refuse water that's dirty, warm, or smells off. Keep their water troughs clean and scrubbed regularly. In winter make sure the water isn't frozen over because a goat that can't drink will stop eating, and that creates a whole chain of health problems.
+Goats are picky about their water too. They'll refuse water that's dirty, warm, or smells off. Keep their water troughs clean and scrubbed regularly. In winter make sure the water isn't frozen over because a goat that can't drink will stop eating, and that creates a whole chain of health problems. [Goats can drink cow milk](/can-goats-drink-cow-milk) as kids, but adults should get all their hydration from plain water.
 
 ## Where goats get their nutrients
 
 Goats get their vitamins from forage, browse, and quality hay. They don't need juice to supplement their diet any more than a cow needs soda. A good loose mineral mix designed for goats covers the gaps that forage alone might miss.
 
-If you're worried about your goat's nutrition, the answer is better forage and proper mineral supplementation, not fruit juice. Talk to your vet about what your specific herd needs rather than trying to fix nutrient deficiencies with sugar water.
+If you're worried about your goat's nutrition, the answer is better forage and proper mineral supplementation, not fruit juice. Talk to your vet about what your specific herd needs rather than trying to fix nutrient deficiencies with sugar water. If your goats share pasture with horses, knowing [whether goats and horses can graze together](/can-goats-and-horses-pasture-together) safely helps you manage shared feed resources.
 
 ## Final Thoughts
 

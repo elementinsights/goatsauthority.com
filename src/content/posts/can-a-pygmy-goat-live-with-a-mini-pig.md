@@ -42,7 +42,7 @@ Yes, a pygmy goat can live with a mini pig. Both are social animals that enjoy c
 
 These two species can share space and even form genuine bonds with each other. Both pygmy goats and mini pigs are herd-minded animals that get lonely when kept alone, so having a companion of another species is better than having no companion at all.
 
-They're not the same animal and they don't have the same needs. The biggest mistakes happen when owners treat them identically and don't account for their differences in diet, behavior, and housing preferences. Getting those details right from the start prevents most of the problems people run into.
+They're not the same animal and they don't have the same needs. Neither a pygmy goat nor a mini pig will protect the other from predators like [foxes](/can-a-fox-kill-a-goat/) or [raccoons](/can-raccoons-kill-goat/), so you still need secure fencing and shelter. The biggest mistakes happen when owners treat them identically and don't account for their differences in diet, behavior, and housing preferences. Getting those details right from the start prevents most of the problems people run into.
 
 ## The Feeding Challenge
 
@@ -54,19 +54,19 @@ Pig feed, on the other hand, contains ingredients that aren't appropriate for go
 
 Pigs can be pushy at feeding time and may bully a goat away from food or water. A mini pig that outweighs your pygmy goat can throw its weight around, and goats aren't always equipped to stand their ground against a determined pig snout.
 
-Watch how they interact during the first few weeks. If the pig is consistently aggressive around resources, you may need to adjust the setup with separate water buckets in different spots. Most of the time they sort out a pecking order on their own and settle into a routine within a couple of weeks.
+Watch how they interact during the first few weeks. Goats [can bite](/can-goats-bite/) when provoked, so monitor any confrontations closely. If the pig is consistently aggressive around resources, you may need to adjust the setup with separate water buckets in different spots. Most of the time they sort out a pecking order on their own and settle into a routine within a couple of weeks.
 
 ## Housing and Space Requirements
 
 A shared shelter works fine as long as it's big enough for both animals to have their own space. Pygmy goats like to climb and perch on elevated surfaces, while pigs prefer to burrow into bedding on the ground. Giving each species its preferred sleeping setup reduces nighttime squabbles.
 
-Provide a raised sleeping platform for the goats and a ground-level bedding area for the pig. Mini pigs root, and they'll tear up pasture and dig holes wherever they can. Give the pig a designated rooting area where you don't mind holes, or bury treats in a sandbox to keep it occupied and away from the goat's grazing ground.
+Provide a raised sleeping platform for the goats and a ground-level bedding area for the pig. Goats naturally enjoy [being left outside for hours](/can-a-goat-be-left-out-for-hours/) during pleasant weather, while pigs are more sun-sensitive. Mini pigs root, and they'll tear up pasture and dig holes wherever they can. Give the pig a designated rooting area where you don't mind holes, or bury treats in a sandbox to keep it occupied and away from the goat's grazing ground.
 
 ## Introducing Them Safely
 
 Start with a fence between them so they can see and smell each other without direct contact. After a few days, let them share space under close supervision for short periods and gradually increase the time together.
 
-Don't rush the introduction. Some pairs hit it off right away, while others need a couple of weeks to stop being suspicious of each other. Keep sessions short and positive, and separate them at the first sign of real aggression rather than hoping they'll work it out on their own.
+Don't rush the introduction. Some pairs hit it off right away, while others need a couple of weeks to stop being suspicious of each other. You wouldn't want anyone to [try riding a goat](/can-people-ride-goats/) during this period since extra stress only makes introductions harder. Keep sessions short and positive, and separate them at the first sign of real aggression rather than hoping they'll work it out on their own.
 
 ## Final Thoughts
 

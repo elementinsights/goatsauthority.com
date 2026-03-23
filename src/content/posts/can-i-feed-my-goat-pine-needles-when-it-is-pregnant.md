@@ -53,25 +53,25 @@ Ponderosa pine is the biggest offender. Isocupressic acid has been linked to lat
 
 Pine needles are the long, thin leaves that grow in clusters on pine tree branches. They contain vitamin C and have been used for centuries to make tea, mulch, and natural dyes.
 
-Goats that are not pregnant will often browse on pine branches during winter when other forage is scarce. The needles provide some roughage and nutrients, and most goats enjoy the taste of common varieties like white pine and Scots pine.
+Goats that are not pregnant will often browse on pine branches during winter when other forage is scarce. [Timothy hay](/can-goats-eat-timothy-hay) is a much safer source of winter roughage. The needles provide some roughage and nutrients, and most goats enjoy the taste of common varieties like white pine and Scots pine.
 
 ## Is it safe to feed pregnant goats pine needles?
 
 The honest answer is that it depends entirely on the pine species, and most goat owners cannot reliably identify every tree on their land. Ponderosa pine contains isocupressic acid, which can trigger abortion in late-term pregnant animals.
 
-Other species like white pine, Scots pine, and Austrian pine are considered lower risk. But since a mistake here could cost you kids, the smartest approach is to fence pregnant does away from all pine trees during the last trimester of pregnancy.
+Other species like white pine, Scots pine, and Austrian pine are considered lower risk. But since a mistake here could cost you kids, the smartest approach is to fence pregnant does away from all pine trees during the last trimester of pregnancy. You can also [safely deworm pregnant does](/can-you-deworm-a-pregnant-goat) during this time with the right products.
 
 ## What are the benefits of feeding pine needles to pregnant goats?
 
 Pine needles do contain vitamin C and some trace minerals, and they provide browse during winter months. For non-pregnant goats, they can be a reasonable supplement when pasture is dormant.
 
-However, those benefits do not outweigh the risks for pregnant does. There are plenty of safer winter feed options like quality hay, alfalfa, and root vegetables that provide the same nutrients without the risk of abortion.
+However, those benefits do not outweigh the risks for pregnant does. There are plenty of safer winter feed options like quality hay, [alfalfa](/can-goats-eat-alfalfa), and root vegetables that provide the same nutrients without the risk of abortion.
 
 ## How much should you feed your pregnant goat pine needles per day?
 
 The answer here is none. During pregnancy, especially the last two months, keep your does away from pine trees and pine branches entirely.
 
-If a pregnant goat nibbles a few needles from a low-risk species like white pine, it is probably not a crisis. But actively feeding pine needles to pregnant goats is a risk you do not need to take when safer feed options are readily available.
+If a pregnant goat nibbles a few needles from a low-risk species like white pine, it is probably not a crisis. Stick with safe treats like [oats](/can-goats-eat-oats) or fresh vegetables instead. Actively feeding pine needles to pregnant goats is a risk you do not need to take when safer feed options are readily available.
 
 ## Are there any side effects of feeding pregnant goats pine needles?
 
@@ -83,7 +83,7 @@ Even with lower-risk pine species, the needles can cause mild digestive upset if
 
 If your pregnant doe has eaten pine needles, call your vet immediately. Time matters, especially if the needles came from a Ponderosa pine or an unidentified species.
 
-Your vet may want to monitor the doe closely for signs of early labor, including restlessness, discharge, or udder changes. Keep the goat calm, well-hydrated, and away from any further pine access while you wait for professional guidance.
+Your vet may want to monitor the doe closely for signs of early labor, including restlessness, discharge, or udder changes. Know [how many kids goats usually deliver](/how-many-babies-do-goats-have-at-a-time) so you can prepare for an early birth if it comes to that. Keep the goat calm, well-hydrated, and away from any further pine access while you wait for professional guidance.
 
 ## Final Thoughts
 

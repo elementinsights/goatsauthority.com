@@ -52,7 +52,7 @@ Beyond the safety issue, mastitis milk is clumpy, off-color, and tastes terrible
 
 ## What kind of care should I take when drinking goat's milk?
 
-Always make sure your milk comes from healthy does that have been tested for mastitis. A quick California Mastitis Test (CMT) takes less than a minute and costs just a few dollars per test.
+Always make sure your milk comes from healthy does with [properly maintained udders and teats](/posts/do-goats-have-udders) that have been tested for mastitis. A quick California Mastitis Test (CMT) takes less than a minute and costs just a few dollars per test.
 
 Pasteurize your milk if you're concerned about bacteria. Keep it refrigerated and use it within two to three days of milking for the best quality and safety.
 
@@ -66,21 +66,21 @@ The milk from that side will look abnormal — it may be watery, clumpy, or have
 
 Bacteria enter through the teat opening, usually from dirty bedding, unclean milking equipment, or teat injuries. Once inside, the infection takes hold fast and the udder starts to swell within a day or two.
 
-Treatment typically involves intramammary antibiotic tubes inserted directly into the teat canal. Milk out the affected side completely before inserting the tube, and always finish the full course of antibiotics even if the milk looks normal after a couple of days. Most treatment protocols run three to five days, and skipping doses gives the bacteria a chance to bounce back stronger.
+Treatment typically involves intramammary antibiotic tubes inserted directly into the teat canal. Proper dosing matters just as much here as when [giving penicillin to a kid](/posts/can-too-much-penicillin-given-to-baby-goat-die). Milk out the affected side completely before inserting the tube, and always finish the full course of antibiotics even if the milk looks normal after a couple of days. Most treatment protocols run three to five days, and skipping doses gives the bacteria a chance to bounce back stronger.
 
 ## What are the risks of drinking milk from goats with mastitis?
 
 The bacteria in mastitis milk can cause food poisoning with symptoms like nausea, vomiting, and diarrhea. In rare cases, certain strains can lead to more serious infections.
 
-If the doe is on antibiotics, the milk will contain drug residues that aren't safe to consume. You must observe the full withdrawal period listed on the medication before using the milk again.
+If the doe is on antibiotics, the milk will contain drug residues that aren't safe to consume. This is especially important for [pregnant women considering goat milk](/posts/can-you-drink-goat-milk-while-pregnant). You must observe the full withdrawal period listed on the medication before using the milk again.
 
 ## How to prevent mastitis in goats?
 
 Clean your hands and equipment before every milking session. Dip each teat in a sanitizing solution after milking to seal the teat canal and prevent bacteria from entering.
 
-Milk on a consistent schedule each day and don't skip sessions. Keep bedding clean and dry, since wet, dirty conditions are where mastitis-causing bacteria thrive.
+Milk on a consistent schedule each day and don't skip sessions. Keep bedding clean and dry, since wet, dirty conditions are where mastitis-causing bacteria thrive and are also responsible for [many zoonotic diseases](/posts/can-you-catch-diseases-from-goats) that can pass to humans.
 
-Run a CMT test on each milking doe at least once a week. Subclinical mastitis — where the milk looks normal but the somatic cell count is high — is easy to miss without testing, and it quietly destroys udder tissue over time.
+Run a CMT test on each milking doe at least once a week, and also understand that she has [two functional teats](/posts/how-many-teats-do-goats-have), so test both sides independently. Subclinical mastitis, where the milk looks normal but the somatic cell count is high, is easy to miss without testing, and it quietly destroys udder tissue over time.
 
 ## Final Thoughts
 

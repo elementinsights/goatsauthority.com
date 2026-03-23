@@ -46,21 +46,21 @@ There are two situations where a wether can develop pushy or aggressive habits. 
 
 ## The difference between pushy and aggressive
 
-A pushy wether that nudges you for treats or tries to climb on you is not the same thing as an aggressive buck that charges and slams into you during rut. The motivation behind the behavior matters.
+A pushy wether that nudges you for treats or tries to climb on you is not the same thing as an aggressive buck that charges and slams into you during rut. Knowing whether [goats can actually bite hard enough to hurt](/posts/can-goats-bite) helps put wether behavior in perspective. The motivation behind the behavior matters.
 
 Bucks get aggressive because their hormones tell them to defend territory and compete for does. A pushy wether is just being rude because nobody taught him boundaries. The fix for a pushy wether is consistent training, not fear.
 
 ## Why timing of castration matters
 
-Wethers castrated at a young age, around 8 to 12 weeks, rarely show any buck-like behavior as adults. Their bodies never developed under the influence of testosterone, so they grow up calm and social.
+Wethers castrated at a young age, around 8 to 12 weeks, rarely show any buck-like behavior as adults. Their bodies never developed under the influence of testosterone, so they grow up calm and social. Even [foxes pose a bigger threat](/posts/can-a-fox-kill-a-goat) to your herd than a wether does to you.
 
 Wethers castrated after 6 months of age may have already started developing the neural pathways associated with buck behavior. They might still try to mount does, display territorial posturing, or act more aggressive than early-castrated wethers, even though their testosterone levels are near zero.
 
-If you plan to wether a buckling, doing it on the early side produces the friendliest companion animal. Just be aware that very early castration, before 8 weeks, increases the risk of urinary calculi because the urethra does not fully develop.
+If you plan to wether a buckling, doing it on the early side produces the friendliest companion animal. [Raccoons are another safety concern](/posts/can-raccoons-kill-goat) that requires proper fencing regardless of whether you keep wethers or bucks. Just be aware that very early castration, before 8 weeks, increases the risk of urinary calculi because the urethra does not fully develop.
 
 ## Handling a pushy wether
 
-Never play head-butting games with a wether kid, even when it seems cute. What is funny from a 10-pound kid becomes dangerous from a 150-pound adult that thinks ramming into your legs is a game.
+Never play head-butting games with a wether kid, even when it seems cute. A [goat that has been left unsupervised for hours](/posts/can-a-goat-be-left-out-for-hours) without correction can develop bad habits fast, and what is funny from a 10-pound kid becomes dangerous from a 150-pound adult that thinks ramming into your legs is a game.
 
 When a wether pushes into your space, push him back firmly and say no. Be consistent every single time. If you let it slide sometimes and correct it other times, the goat gets confused and the behavior sticks.
 
@@ -70,7 +70,7 @@ Wethers that are part of a herd with other goats tend to be better behaved aroun
 
 Wethers make excellent companion animals for does that need a buddy, and they are great for 4-H projects and pack goat training. Their calm temperament makes them easy to handle and safe around children.
 
-Many farmers keep a wether or two as pasture companions for horses, donkeys, or other livestock that need company. They are also useful for clearing brush since they eat with enthusiasm and do not bring the smell and breeding complications of an intact buck.
+Many farmers keep a wether or two as pasture companions for horses, donkeys, or other livestock that need company. They are also useful for clearing brush since they eat with enthusiasm and do not bring the smell and breeding complications of an intact buck. Just make sure [goats and cows can share the same grazing field](/posts/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting) peacefully if you run a mixed operation.
 
 ## Final thoughts
 

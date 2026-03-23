@@ -42,17 +42,17 @@ Yes, dogs can get tapeworms from goats. If you keep both animals on the same pro
 
 The tapeworm lifecycle involves two hosts. Goats serve as the intermediate host, carrying tapeworm cysts (usually Taenia species) in their muscle tissue and organs. Dogs are the definitive host, where the adult tapeworm lives and reproduces in the intestines.
 
-A dog gets infected by eating raw goat tissue that contains these cysts. Farm dogs that scavenge afterbirth during kidding season, eat raw meat scraps, or chew on organs from butchered goats are at the highest risk. The adult tapeworm then grows inside the dog's gut, sometimes reaching several feet in length, and sheds egg-filled segments back into the environment to continue the cycle.
+A dog gets infected by eating raw goat tissue that contains these cysts. Farm dogs that scavenge afterbirth during kidding season, eat raw meat scraps, or chew on organs from butchered goats are at the highest risk. The adult tapeworm then grows inside the dog's gut, sometimes reaching several feet in length, and sheds egg-filled segments back into the environment to continue the cycle. It's also good to know whether [a dog can get sick from a goat](/can-a-dog-get-sick-from-a-goat) through other transmission routes.
 
 ## Symptoms to Watch For
 
 The most telltale sign is small, white, rice-like segments in your dog's stool or stuck to the fur around its rear end. These are tapeworm proglottids, and they may still be moving when you first spot them. Once they dry out, they shrink and turn yellowish, making them harder to notice.
 
-Other symptoms include scooting the rear on the ground, weight loss despite a good appetite, and a dull coat. Heavy infections can cause vomiting, diarrhea, and visible discomfort. If you notice any of these signs, collect a fresh stool sample in a sealed bag and get it to your vet for testing.
+Other symptoms include scooting the rear on the ground, weight loss despite a good appetite, and a dull coat. Heavy infections can cause vomiting, diarrhea, and visible discomfort. If you notice any of these signs, collect a fresh stool sample in a sealed bag and get it to your vet for testing. Goats also deal with their own parasite challenges, including [lice that cycle seasonally](/can-goat-lice-go-into-a-dormant-stage) through the herd.
 
 ## Diagnosis and Treatment
 
-Your vet will confirm a tapeworm infection through a fecal exam or by identifying the segments you've found. The treatment is straightforward: praziquantel, given either as a pill or injection, kills tapeworms effectively and works fast.
+Your vet will confirm a tapeworm infection through a fecal exam or by identifying the segments you've found. The treatment is straightforward: praziquantel, given either as a pill or injection, kills tapeworms effectively and works fast. While treating your dog, check your goats for [signs of mites](/can-goats-get-mites) and other external parasites that may be circulating on the farm.
 
 Most dogs recover completely with a single dose. Your vet may recommend a follow-up dose two to three weeks later to catch any worms that were in an immature stage during the first treatment. Side effects from praziquantel are rare and usually mild.
 
@@ -60,13 +60,13 @@ Most dogs recover completely with a single dose. Your vet may recommend a follow
 
 The number one rule is don't let your dogs eat raw goat meat, organs, or afterbirth. During kidding season, clean up placentas before the dogs get to them. During butchering, dispose of offal in a sealed container or location where dogs absolutely cannot access it.
 
-Keep your dog on a regular deworming schedule recommended by your vet. Farm dogs that live around livestock should be dewormed every three months rather than the twice-yearly schedule used for house pets. Praziquantel-based dewormers specifically target tapeworms, so make sure your deworming product actually contains it.
+Keep your dog on a regular deworming schedule recommended by your vet. Farm dogs that live around livestock should be dewormed every three months rather than the twice-yearly schedule used for house pets. Praziquantel-based dewormers specifically target tapeworms, so make sure your deworming product actually contains it. For your goats, understanding [whether you can use ivermectin pour-on for sheep and goats](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) helps keep both species parasite-free.
 
 ## Keeping Dogs and Goats on the Same Property
 
 Set up separate feeding areas so your dogs aren't scavenging around the goat pen. Pick up goat manure regularly from shared spaces, because tapeworm eggs can survive in droppings for weeks and a dog that sniffs or eats feces is putting itself at risk.
 
-A clean pasture and a well-fenced goat area go a long way toward keeping your dog safe. Good farm management means thinking about how parasites cycle between your animals rather than just treating infections after they show up. Check your dog's stool regularly so you catch any problems early.
+A clean pasture and a well-fenced goat area go a long way toward keeping your dog safe. Good farm management means thinking about how parasites cycle between your animals rather than just treating infections after they show up. Check your dog's stool regularly so you catch any problems early. Zoonotic risks also extend to humans, as [contact with goats can cause diarrhea](/can-contact-with-goats-cause-diarrhea-in-humans) through similar fecal-oral transmission.
 
 ## Final Thoughts
 

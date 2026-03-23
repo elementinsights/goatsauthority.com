@@ -48,7 +48,7 @@ The one thing to keep in mind is withdrawal periods. If a goat was recently trea
 
 A typical 3-ounce serving of cooked goat liver delivers about 120 calories and 18 grams of protein. It provides over 100% of your daily vitamin A and B12 needs in a single serving.
 
-The iron content is especially impressive, and it is heme iron, which your body absorbs much more efficiently than the plant-based iron found in spinach or beans. This makes goat liver a great option for anyone dealing with anemia or low energy from iron deficiency.
+The iron content is especially impressive, and it is heme iron, which your body absorbs much more efficiently than the plant-based iron found in spinach or beans. You can find [goat meat at Walmart and other retailers](/posts/can-you-buy-goat-meat-at-walmart), but liver is typically easier to source from local farms. This makes goat liver a great option for anyone dealing with anemia or low energy from iron deficiency.
 
 Folate, copper, and selenium round out the nutrient profile. Few foods on the planet pack this much nutrition into such a small portion.
 
@@ -58,13 +58,13 @@ Start by rinsing the liver under cold water and trimming away any connective tis
 
 For pan-frying, dust the pieces lightly with flour and cook in a hot skillet with a little oil for just a couple of minutes per side. Overcooked liver turns tough and chalky, so pull it off the heat while it still has a slight pink center.
 
-Goat liver also works well in stews where it simmers in a spiced broth with onions, garlic, and tomatoes. The longer cooking time softens the texture and mellows out the strong flavor that turns some people off.
+Goat liver also works well in stews where it simmers in a spiced broth with onions, garlic, and tomatoes, similar to how goat meat is prepared in dishes like [Kabuli palao](/posts/can-kabuli-palao-be-made-with-goat). The longer cooking time softens the texture and mellows out the strong flavor that turns some people off.
 
 ## Best spices and seasonings
 
 Cumin, coriander, and turmeric are popular choices in Indian and Middle Eastern preparations. Fresh herbs like parsley and cilantro help brighten the flavor and cut through the richness.
 
-A squeeze of lemon juice right before serving does wonders for balancing the taste. Keep it simple and let the natural flavor of the liver come through rather than drowning it in heavy sauces.
+A squeeze of lemon juice right before serving does wonders for balancing the taste. Goat liver pairs well with [goat cheese that can be frozen](/posts/can-you-freeze-goat-cheese) and crumbled over the finished dish. Keep it simple and let the natural flavor of the liver come through rather than drowning it in heavy sauces.
 
 If you are new to organ meats, cook the liver with plenty of caramelized onions. The sweetness of the onions helps mask the gaminess while you get used to the flavor.
 
@@ -72,9 +72,9 @@ If you are new to organ meats, cook the liver with plenty of caramelized onions.
 
 Buy from a butcher who can tell you where the animal was raised and what it was fed. Pasture-raised goats produce liver with a cleaner taste and fewer accumulated toxins than goats raised in confinement.
 
-Farmers markets are a solid option for finding locally raised goat liver. You can talk directly with the farmer about their practices, and the meat is usually fresher than what you find at a grocery store.
+Farmers markets are a solid option for finding locally raised goat liver. You can talk directly with the farmer about their practices, and the meat is usually fresher than what you find at a grocery store. While you are there, you can often pick up [fresh goat milk](/posts/can-you-buy-goat-milk-at-the-grocery-store) as well.
 
-Because vitamin A levels in liver are very high, eating it every day is not a good idea. Once or twice a week is the sweet spot for most people who want the nutritional benefits without overdoing it.
+Because vitamin A levels in liver are very high, eating it every day is not a good idea. For people on the [GAPS diet who also drink raw goat milk](/posts/can-you-drink-raw-goat-milk-on-gaps-diet), liver is a complementary nutrient source. Once or twice a week is the sweet spot for most people who want the nutritional benefits without overdoing it.
 
 ## Final thoughts
 

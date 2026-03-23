@@ -45,7 +45,7 @@ No, goats are not riding animals. Even a large Boer buck that weighs 250 to 300 
 
 A horse's spine is designed to bear weight across its back. A goat's spine is not. The vertebrae are smaller, the muscles along the back are thinner, and the legs are positioned differently. Putting a person on a goat's back puts pressure in all the wrong places.
 
-Children sometimes sit on large goats for a quick photo at fairs or petting zoos. Even that brief moment of weight can cause discomfort, and repeated riding will lead to back injuries over time.
+Children sometimes sit on large goats for a quick photo at fairs or petting zoos. Even that brief moment of weight can cause discomfort, and repeated riding will lead to back injuries over time. Keeping goats safe also means understanding [whether goats should be tethered](/can-goats-be-tethered) and the risks involved.
 
 ## Why goats can't support a rider
 
@@ -59,13 +59,13 @@ Goats that are ridden regularly develop sway backs, joint problems, and spinal d
 
 If you want a goat that works alongside you, train one as a pack goat. Breeds like Alpines, Oberhaslis, and large-framed wethers make excellent pack animals.
 
-A well-conditioned pack goat can carry up to 25% of its body weight in a properly fitted pack saddle. For a 200 lb wether, that's 50 lbs of gear split evenly between two panniers.
+A well-conditioned pack goat can carry up to 25% of its body weight in a properly fitted pack saddle. Training a pack goat starts with building trust, and understanding [whether goats can love humans](/can-goats-love-humans) shows how strong those bonds can be. For a 200 lb wether, that's 50 lbs of gear split evenly between two panniers.
 
-Pack goats are popular with backcountry hikers. They're quieter than horses on the trail, easier to transport in a truck, and can navigate narrow paths that horses can't handle. Training starts young with an empty saddle around 6 months of age, and most goats are ready for full loads by age 2 or 3.
+Pack goats are popular with backcountry hikers. They're quieter than horses on the trail, easier to transport in a truck, and can navigate narrow paths that horses can't handle. Even [mountain goats navigate cliff faces](/can-mountain-goats-climb-cliffs) that would stop any horse in its tracks, showing how naturally sure-footed these animals are. Training starts young with an empty saddle around 6 months of age, and most goats are ready for full loads by age 2 or 3.
 
 ## Goat carts are another option
 
-Goats have been pulling carts for centuries, and this is a perfectly safe way for goats to haul weight. A properly built goat cart distributes the load through a harness across the chest and shoulders rather than pressing down on the spine.
+Goats have been pulling carts for centuries, and this is a perfectly safe way for goats to haul weight. Our detailed guide on [training goats to pull a cart](/can-a-goat-pull-a-cart) covers the process from start to finish. A properly built goat cart distributes the load through a harness across the chest and shoulders rather than pressing down on the spine.
 
 Medium to large breeds can pull surprisingly heavy loads in a cart. A pair of trained wethers can pull a small cart with a child sitting in it, which is as close to "riding a goat" as you should get.
 
@@ -77,7 +77,7 @@ If you see goats being ridden at fairs, petting zoos, or on social media, unders
 
 Responsible goat ownership means finding other ways to interact with these animals. Walking with them on a lead, teaching them tricks, or working them as pack animals are all great options that don't risk hurting the goat.
 
-Talk to the operator politely if you see goat riding at a public event. Many people genuinely don't know that it's harmful.
+Talk to the operator politely if you see goat riding at a public event. Many people genuinely don't know that it's harmful. Predator protection is another safety concern, and knowing [whether foxes can kill goats](/can-a-fox-kill-a-goat) helps you plan for outdoor events.
 
 ## Final Thoughts
 

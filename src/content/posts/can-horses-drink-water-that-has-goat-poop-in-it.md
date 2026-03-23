@@ -42,19 +42,19 @@ If you keep horses and goats on the same property, this question comes up fast. 
 
 Horses should not be drinking water contaminated with goat feces if you can help it. Goat droppings can carry parasites like Cryptosporidium and Giardia, plus bacteria such as E. Coli and Salmonella.
 
-In practice, plenty of farms run shared water troughs between horses and goats without obvious problems. But just because a horse doesn't get sick every time doesn't mean the risk isn't real.
+In practice, plenty of farms run shared water troughs between horses and goats without obvious problems. But just because a horse doesn't get sick every time doesn't mean the risk isn't real. Goats themselves can also [pick up mites](/can-goats-get-mites) and other parasites from shared environments, so contamination risks go both ways.
 
 ## What happens if a horse drinks water that has goat poop in it?
 
 The most common result is mild digestive upset, including loose stool and temporary loss of appetite. Internal parasites are the bigger concern because a horse can pick up a parasite load without showing symptoms right away.
 
-Over time, repeated exposure to contaminated water can lead to chronic weight loss, poor coat condition, and colic. Young horses and older horses with weaker immune systems are more vulnerable than healthy adults in their prime.
+Over time, repeated exposure to contaminated water can lead to chronic weight loss, poor coat condition, and colic. Goats can also [suffer from strokes and anemia](/can-goats-have-a-stroke-anemia) when parasite loads go unchecked, so both species are at risk from poor water hygiene. Young horses and older horses with weaker immune systems are more vulnerable than healthy adults in their prime.
 
 If your horse shows signs of diarrhea, lethargy, or refuses to eat after drinking from a shared trough, call your vet. A fecal test can identify whether parasites are the problem, and treatment is straightforward when caught early.
 
 ## How can you prevent your horse from drinking contaminated water?
 
-The simplest fix is elevating water troughs so goats can't stand in them. Goats love to climb into troughs, and that's how most of the contamination happens in the first place.
+The simplest fix is elevating water troughs so goats can't stand in them. Goats are natural climbers that [scale fences and structures](/can-goats-climb-fences) without much trouble, and that's how most of the contamination happens in the first place.
 
 Automatic waterers with float valves stay much cleaner than open troughs. They refill with fresh water constantly and give goats less opportunity to foul the supply.
 
@@ -66,13 +66,13 @@ Don't panic. One drink from a dirty trough is unlikely to cause a serious proble
 
 Offer fresh, clean water right away and monitor your horse for the next 24 to 48 hours. Watch for runny stool, loss of energy, or any change in eating habits.
 
-If symptoms show up or persist beyond a couple of days, get your vet involved. They can run a fecal egg count and prescribe a dewormer if parasites are present.
+If symptoms show up or persist beyond a couple of days, get your vet involved. They can run a fecal egg count and prescribe a dewormer if parasites are present. For goats sharing the same pasture, knowing [how to properly deworm pregnant does](/can-you-deworm-a-pregnant-goat) is just as important for keeping the whole farm healthy.
 
 ## What are the signs of dehydration in horses?
 
-A dehydrated horse will have dry, tacky gums and skin that stays tented when you pinch it on the neck. Sunken eyes and dark-colored urine are also reliable warning signs.
+A dehydrated horse will have dry, tacky gums and skin that stays tented when you pinch it on the neck. Sunken eyes and dark-colored urine are also reliable warning signs, and the same [skin tent test works on goats](/can-i-give-a-sick-goat-water-through-a-syringe) when you suspect dehydration in your herd.
 
-Horses that stop sweating during work or refuse water entirely need immediate attention. Severe dehydration can lead to colic, kidney damage, and collapse if left untreated.
+Horses that stop sweating during work or refuse water entirely need immediate attention. Severe dehydration can lead to colic, kidney damage, and collapse if left untreated. Goats face similar dangers, especially [during cold weather](/can-goats-die-in-cold-weather) when water sources freeze and animals stop drinking enough.
 
 The pinch test is the fastest check you can do in the field. Grab a fold of skin on the horse's neck, release it, and see how fast it snaps back. If it takes more than two seconds, your horse needs water and possibly a vet visit.
 

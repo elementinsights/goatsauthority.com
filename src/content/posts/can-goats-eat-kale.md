@@ -38,21 +38,21 @@ A handful per goat is the right amount as a treat or garden surplus. Think of it
 
 ## Nutritional Value and Preparation of Kale for Goats
 
-Vitamin A supports vision and immune function, vitamin K plays a role in blood clotting, and the calcium content is higher than most other leafy greens. It is a solid all-around addition to any goat’s diet.
+Vitamin A supports vision and immune function, vitamin K plays a role in blood clotting, and the calcium content is higher than most other leafy greens like [lettuce](/can-goats-eat-lettuce/). It is a solid all-around addition to any goat’s diet.
 
-Wash kale before feeding to remove dirt or pesticide residue, especially store-bought kale. You can feed it whole or tear it into pieces, stems and all. Goats are not picky about presentation and will grab a full stalk right out of your hand.
+Wash kale before feeding to remove dirt or pesticide residue, especially store-bought kale. You can feed it whole or tear it into pieces, stems and all, similar to how you would serve [carrots](/can-goats-eat-carrots/) or celery. Goats are not picky about presentation and will grab a full stalk right out of your hand.
 
 ## Is Kale Harmful or Toxic to Goats?
 
-Kale is not toxic, but like all brassicas, it can cause gas and bloating if you feed too much at once. The compounds in brassica plants produce gas during digestion, and a goat that eats a big pile of kale may end up with a distended rumen.
+Kale is not toxic, but like all brassicas including [broccoli](/can-goats-eat-broccoli/) and cabbage, it can cause gas and bloating if you feed too much at once. The compounds in brassica plants produce gas during digestion, and a goat that eats a big pile of kale may end up with a distended rumen.
 
-Introduce it gradually if your goats have never had it before. Start with a small amount and increase over a few days, since sudden diet changes are harder on a goat’s gut than the food itself. Kale does contain goitrogens that can affect thyroid function, but only if fed in massive amounts daily for weeks, which is not a concern at treat-level quantities.
+Introduce it gradually if your goats have never had it before, just as you would with [spinach](/can-goats-eat-spinach/) or other leafy greens. Start with a small amount and increase over a few days, since sudden diet changes are harder on a goat’s gut than the food itself. Kale does contain goitrogens that can affect thyroid function, but only if fed in massive amounts daily for weeks, which is not a concern at treat-level quantities.
 
 ## Impact of Goat Diet on Milk Flavor
 
 If you keep dairy goats, brassicas can affect the taste of the milk. Heavy kale feeding may give the milk a slightly stronger, earthier flavor that some people notice.
 
-Feed kale after the morning milking rather than before. By the next milking, the impact on flavor is usually minimal. If you sell milk or make cheese, test with small amounts first and taste for yourself.
+Feed kale after the morning milking rather than before, and avoid strong-flavored foods like [onions](/can-goats-eat-onions/) which should be kept away from dairy goats entirely. By the next milking, the impact on flavor is usually minimal. If you sell milk or make cheese, test with small amounts first and taste for yourself.
 
 ## Final Thoughts
 

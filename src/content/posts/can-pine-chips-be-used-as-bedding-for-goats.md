@@ -50,7 +50,7 @@ The key is to use kiln-dried pine. Fresh pine straight from a sawmill has higher
 
 ## What should you consider before using pine chips as bedding for goats?
 
-Never use cedar shavings for goat bedding. Cedar contains aromatic oils called plicatic acid and thujone that cause respiratory irritation, especially in enclosed barns. Prolonged exposure has been linked to liver problems in small livestock. Cedar smells great to us, but it is not worth the risk to your herd.
+Never use cedar shavings for goat bedding. Cedar contains aromatic oils called plicatic acid and thujone that cause respiratory irritation, especially in enclosed barns. Goat barn size matters too, and knowing [whether a 12x12 barn is enough](/can-a-goat-barn-be-12x-2) helps you plan bedding needs accurately. Prolonged exposure has been linked to liver problems in small livestock. Cedar smells great to us, but it is not worth the risk to your herd.
 
 Also make sure your pine chips come from untreated wood. Chips from painted, stained, or pressure-treated lumber contain chemicals that are toxic to goats. If you are buying in bulk from a sawmill or tree service company, ask where the wood came from before dumping it in your barn.
 
@@ -58,7 +58,7 @@ Also make sure your pine chips come from untreated wood. Chips from painted, sta
 
 Pine chips hold their structure better than straw. Straw compresses flat under goat hooves within a few days, but wood chips stay fluffy and keep doing their job longer between cleanings. That saves you time and labor.
 
-The natural pine oils help control odor by neutralizing ammonia from urine. Ammonia buildup is one of the biggest threats to goat respiratory health, so anything that keeps it in check is a real advantage. Pine chips also provide decent insulation from cold concrete or dirt floors during the winter months.
+The natural pine oils help control odor by neutralizing ammonia from urine. Ammonia buildup is one of the biggest threats to goat respiratory health, so anything that keeps it in check is a real advantage. This is especially important when [pygmy goats sleep with chickens](/can-pygmy-goats-sleep-with-chickens) in shared barns where ammonia from both species compounds quickly. Pine chips also provide decent insulation from cold concrete or dirt floors during the winter months.
 
 ## How do you use pine chips as bedding for goats?
 
@@ -70,13 +70,13 @@ Pine pellets are another great option. They come compressed and expand when they
 
 Pine chips are generally very safe, but avoid anything with sharp splinters or large jagged pieces. Fine to medium shavings work better than coarse chunks for goat bedding. Large chips can poke into hooves or get wedged between hoof walls.
 
-Make sure the bedding stays dry. Wet pine chips lose their absorbency and can grow mold, which is a respiratory hazard. Spot-clean wet areas daily and add a fresh layer of dry shavings on top.
+Make sure the bedding stays dry. Wet pine chips lose their absorbency and can grow mold, which is a respiratory hazard. Damp bedding also creates conditions for [hoof rot](/can-hoof-rot-kill-a-goat), which thrives in wet environments. Spot-clean wet areas daily and add a fresh layer of dry shavings on top.
 
 ## How Often to Replace Pine Chip Bedding
 
-The deep litter method works well with pine shavings. Instead of cleaning the entire stall every week, you add fresh shavings on top of the old layer and let the bottom decompose slowly. This generates a small amount of heat in winter, which your goats will appreciate. Do a full cleanout two to four times per year.
+The deep litter method works well with pine shavings. Instead of cleaning the entire stall every week, you add fresh shavings on top of the old layer and let the bottom decompose slowly. This generates a small amount of heat in winter, which your goats will appreciate. Proper bedding insulation is critical because [goats can die in cold weather](/can-goats-die-in-cold-weather) if their shelter does not protect them adequately. Do a full cleanout two to four times per year.
 
-Between full cleanouts, remove any visible wet spots or manure piles daily. If you walk into the barn and smell ammonia, the bedding is overdue for a change. Ammonia fumes can lead to pneumonia in goats faster than most people realize.
+Between full cleanouts, remove any visible wet spots or manure piles daily. If you walk into the barn and smell ammonia, the bedding is overdue for a change. Ammonia fumes can lead to pneumonia in goats faster than most people realize. Multi-species barns where [goats, pigs, and chickens share space](/can-goats-pigs-and-chickens-live-in-the-same-barn) need even more frequent bedding changes.
 
 For buying in bulk, check with local sawmills and tree service companies. They often sell pine chips by the truckload for a fraction of what bagged shavings cost at the feed store. Some will even deliver a load for free just to get rid of it.
 

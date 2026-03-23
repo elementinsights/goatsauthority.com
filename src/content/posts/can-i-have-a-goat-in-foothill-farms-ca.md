@@ -46,11 +46,11 @@ Foothill Farms is an unincorporated community in Sacramento County, California. 
 
 Because Foothill Farms falls under Sacramento County jurisdiction, you need to check the county's zoning code for your specific parcel. Sacramento County allows livestock on parcels zoned for agriculture, but standard residential zones often come with restrictions or outright prohibitions on keeping goats.
 
-Your parcel's zoning designation determines what animals you can keep and how many. You can look up your zoning on the Sacramento County Assessor's website or call the Sacramento County Planning and Environmental Review department directly.
+Your parcel's zoning designation determines what animals you can keep and how many. The same zoning research applies [wherever you live](/can-i-have-goats-where-i-live), so always check before buying. You can look up your zoning on the Sacramento County Assessor's website or call the Sacramento County Planning and Environmental Review department directly.
 
 ## How much does it cost to have a goat in Foothill Farms?
 
-Buying a goat runs anywhere from $75 for a pet-quality wether to $500 or more for registered breeding stock. The animal itself is the cheap part compared to fencing, shelter, and ongoing feed costs.
+Buying a goat runs anywhere from $75 for a pet-quality wether to $500 or more for [registered breeding stock](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers). The animal itself is the cheap part compared to fencing, shelter, and ongoing feed costs.
 
 Plan on spending $200 to $400 for basic fencing materials on a small lot. Monthly feed costs typically run $20 to $40 per goat depending on hay prices in the Sacramento Valley, plus annual vet bills for vaccinations and hoof trimming.
 
@@ -64,17 +64,17 @@ Contact Sacramento County Animal Care at (916) 368-7387 for specific questions a
 
 Sacramento County does not restrict specific goat breeds, but the size of your property limits what makes sense. Nigerian Dwarf and Pygmy goats work well on smaller lots because they stay under 75 pounds and need less space than full-sized breeds.
 
-Larger breeds like Boer, Nubian, or Alpine goats need more room and more feed. If you have a standard suburban lot, stick with miniature breeds that can handle the Sacramento Valley heat without needing acres of pasture.
+Larger breeds like Boer, Nubian, or Alpine goats need more room and more feed. A [Nigerian Dwarf buck can even breed with a Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat), so mixing breeds on a smaller lot is possible. If you have a standard suburban lot, stick with miniature breeds that can handle the Sacramento Valley heat without needing acres of pasture.
 
 ## How to get a permit for a goat in Foothill Farms?
 
 Start by contacting the Sacramento County Planning and Environmental Review office to confirm whether your parcel's zoning allows livestock. If a conditional use permit or variance is required, they will walk you through the application process.
 
-You should also check with Sacramento County Animal Care about any animal registration or health requirements. Keep your goats current on CDT vaccinations and have a vet relationship established before you bring animals home.
+You should also check with Sacramento County Animal Care about any animal registration or health requirements. Keep your goats current on CDT vaccinations and have a vet relationship established before you bring animals home. Understanding [how many babies goats have](/how-many-babies-do-goats-have-at-a-time) helps you plan for herd growth if you get does.
 
 ## What are the benefits of having a goat in Foothill Farms?
 
-Goats are excellent brush clearers, which is a real advantage in fire-prone Sacramento County. They will eat poison oak, star thistle, and blackberry brambles that would take you all day to clear by hand.
+Goats are excellent brush clearers, which is a real advantage in fire-prone Sacramento County. You can also [raise goats for milk protein](/can-i-raise-goats-for-milk-protein) if dairy production appeals to you. They will eat poison oak, star thistle, and blackberry brambles that would take you all day to clear by hand.
 
 Fresh goat milk is another draw for many Foothill Farms residents. A single Nigerian Dwarf doe can produce a quart or more of rich milk per day, which is plenty for a family that wants fresh dairy without a full-sized cow.
 

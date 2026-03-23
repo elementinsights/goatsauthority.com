@@ -50,7 +50,7 @@ The biggest issue isn't the salt itself. Plain salt is fine for goats, and they 
 
 Goats need significantly more copper than cattle, and most cattle mineral formulas reflect that difference. Cattle minerals typically contain lower copper levels because cattle are less prone to deficiency and more sensitive to excess.
 
-A goat relying on cattle minerals as its only supplement will often develop a copper deficiency over time. Signs include a rough, faded coat (black goats turning reddish-brown is a classic tell), a fish-tail appearance at the end of their tail hair, poor immune function, and fertility problems.
+A goat relying on cattle minerals as its only supplement will often develop a copper deficiency over time, which can make them more susceptible to [moldy hay issues](/can-goats-eat-moldy-hay/) and other feed-related problems. Signs include a rough, faded coat (black goats turning reddish-brown is a classic tell), a fish-tail appearance at the end of their tail hair, poor immune function, and fertility problems.
 
 If you notice these symptoms in your herd, copper is usually the first thing to check. A goat-specific loose mineral with adequate copper levels is the simplest fix.
 
@@ -62,7 +62,7 @@ Feeding sheep minerals to goats is a recipe for serious copper deficiency. If yo
 
 ## What goats actually need
 
-Goats do best on a loose mineral supplement formulated specifically for goats. Loose minerals are better than blocks because goats have smooth tongues and can't lick enough off a hard block to meet their daily requirements.
+Goats do best on a loose mineral supplement formulated specifically for goats alongside quality [hay](/what-kind-of-hay-do-goats-eat/) and browse. Loose minerals are better than blocks because goats have smooth tongues and can't lick enough off a hard block to meet their daily requirements.
 
 Look for a goat mineral that provides at least 1,500 ppm of copper, along with adequate selenium, zinc, and other trace minerals. Offer it free-choice in a covered feeder so the goats can take what they need. Most goats will self-regulate their intake pretty well when given the option.
 
@@ -70,14 +70,14 @@ Keep fresh water available at all times when providing any mineral supplement. S
 
 ## Using cattle minerals in a pinch
 
-If cattle minerals are all you have available right now, they'll work as a temporary solution. Just plan on supplementing copper separately until you can switch to a goat-specific product.
+If cattle minerals are all you have available right now, they'll work as a temporary solution. Pair them with copper-rich foods like [sunflower seeds](/can-goats-eat-sunflower-seeds/) and plan on supplementing copper separately until you can switch to a goat-specific product.
 
 Copper boluses are the most common way to fill that gap. These are small copper oxide wire particles in a gel capsule that you give orally. They release copper slowly over several weeks and are a reliable way to prevent deficiency.
 
-Talk to your vet about the right dosage based on your goats' size and your local forage conditions. Some areas are naturally low in copper, which makes supplementation even more important.
+Talk to your vet about the right dosage based on your goats' size and your local forage conditions. Goats eating primarily [alfalfa](/can-goats-eat-alfalfa/) or other legume-based feeds may need different copper levels than those on grass hay. Some areas are naturally low in copper, which makes supplementation even more important.
 
 ## Final Thoughts
 
 Cattle mineral salt won't hurt your goats in the short term, but it's not meeting their needs. Goats require more copper than cattle formulas provide, and sheep minerals are even worse because they contain almost none.
 
-Invest in a goat-specific loose mineral and offer it free-choice. It's one of the simplest things you can do to keep your herd healthy, and it costs very little compared to treating the problems that mineral deficiency causes down the road.
+Invest in a goat-specific loose mineral and offer it free-choice alongside [oats](/can-goats-eat-oats/) and quality forage. It's one of the simplest things you can do to keep your herd healthy, and it costs very little compared to treating the problems that mineral deficiency causes down the road.

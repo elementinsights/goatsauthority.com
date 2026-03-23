@@ -50,13 +50,13 @@ Between the two toes is a soft, fleshy area called the interdigital space. This 
 
 The two-toed design lets goats spread their weight across a wider surface area on flat ground and grip narrow ledges with individual toes on steep terrain. It's like having built-in hiking boots.
 
-The soft sole acts as a shock absorber on hard surfaces, while the hard outer wall provides protection against sharp rocks. This combination is what makes goats one of the most sure-footed animals on the planet.
+The soft sole acts as a shock absorber on hard surfaces, while the hard outer wall provides protection against sharp rocks. Combined with their [panoramic eyesight that covers 340 degrees](/posts/do-goats-have-good-eyesight), this is what makes goats one of the most sure-footed animals on the planet.
 
 ## What are cloven hooves and what do they do for goats?
 
 Each hoof toe can move independently, which lets goats adjust their footing on uneven surfaces in real time. When a goat walks across a rocky slope, each toe grips and flexes separately to find the best hold.
 
-Hooves grow continuously, just like your fingernails. In the wild, rocky terrain wears them down naturally. On a farm with soft ground, hooves overgrow and need regular trimming to stay healthy.
+Hooves grow continuously, just like your fingernails or the keratin in goat [teeth and dental pads](/posts/do-goats-have-teeth). In the wild, rocky terrain wears them down naturally. On a farm with soft ground, hooves overgrow and need regular trimming to stay healthy.
 
 ## How do goats use their hooves to navigate their environment?
 
@@ -66,15 +66,15 @@ On flat pasture, the hooves work differently. The soft sole provides traction on
 
 ## What happens when a goat's hoof becomes injured or infected?
 
-Foot rot is the most common hoof problem, caused by bacteria that thrive in wet, muddy conditions. You'll notice the goat limping, and the area between the toes will smell terrible and look raw or gray.
+Foot rot is the most common hoof problem, caused by bacteria that thrive in wet, muddy conditions. These are the same kinds of environments that increase [parasite loads in pregnant does](/posts/can-you-deworm-a-pregnant-goat). You will notice the goat limping, and the area between the toes will smell terrible and look raw or gray.
 
-Untrimmed hooves are the other major issue. When hooves grow too long, they curl under the foot and trap moisture and manure against the sole. This leads to abscesses, white line disease, and severe lameness that can take months to correct.
+Untrimmed hooves are the other major issue, and they create an entry point for [diseases that can pass between goats and humans](/posts/can-you-catch-diseases-from-goats). When hooves grow too long, they curl under the foot and trap moisture and manure against the sole. This leads to abscesses, white line disease, and severe lameness that can take months to correct.
 
 ## How to prevent hoof injuries and infections in goats?
 
 Trim hooves every 6-8 weeks with a sharp pair of hoof trimmers. The goal is a flat sole with walls even with or slightly above the sole level. It takes about 5 minutes per goat once you get the hang of it.
 
-Keep your goat areas as dry as possible. Standing in mud and manure all day is the number one cause of foot rot. Providing a dry loafing area with gravel or concrete, along with clean bedding in shelters, goes a long way toward healthy hooves.
+Keep your goat areas as dry as possible, and make sure your doe's [udder](/posts/do-goats-have-udders) stays clean when lying down in bedding too. Standing in mud and manure all day is the number one cause of foot rot. Providing a dry loafing area with gravel or concrete, along with clean bedding in shelters, goes a long way toward healthy hooves.
 
 ## Final Thoughts
 

@@ -69,13 +69,13 @@ Walk your fence lines and pastures regularly, and pull or spray any plants you f
 
 Move the goat into a dark barn or deeply shaded area immediately. Keeping them out of direct sunlight is the most important first step because hypericin needs UV light to cause the skin damage.
 
-Call your vet right away. The goat may need fluids, anti-inflammatory treatment, and supportive care. Keep them out of sunlight for at least 2 to 3 weeks while the compound clears their system, and watch any blistered skin for signs of infection.
+Call your vet right away, just as you would with any [serious goat illness like polio](/posts/can-goats-recover-from-polio-without-medication). The goat may need fluids, anti-inflammatory treatment, and supportive care. Keep them out of sunlight for at least 2 to 3 weeks while the compound clears their system, and watch any blistered skin for signs of infection.
 
 ## What to feed goats instead of St Johns Wort?
 
-Stick with safe, proven browse and forage options instead. Good quality hay, pasture grasses, blackberry brambles, and safe woody browse like willow and maple are all excellent choices that provide real nutrition.
+Stick with safe, proven browse and forage options instead. Good quality [hay](/posts/what-kind-of-hay-do-goats-eat), pasture grasses, [blackberry](/posts/can-goats-eat-blackberries) brambles, and safe woody browse like willow and maple are all excellent choices that provide real nutrition.
 
-Goats also enjoy treats like apple slices, carrots, and pumpkin. There is absolutely no reason to let goats near St. John's Wort when so many safe and nutritious alternatives exist.
+Goats also enjoy treats like [apple slices](/posts/can-goats-eat-apples), [carrots](/posts/can-goats-eat-carrots), and [pumpkin](/posts/can-goats-eat-pumpkin). There is absolutely no reason to let goats near St. John's Wort when so many safe and nutritious alternatives exist.
 
 ## Are there any uses for St Johns Wort?
 
@@ -85,9 +85,9 @@ None of those human uses translate into benefits for goats. What helps people ca
 
 ## What are the things that you should remember when taking care of goats?
 
-Good goat care starts with knowing your pastures. Walk your land regularly and learn to identify toxic plants like St. John's Wort, yew, and rhododendron so you can remove them before your goats find them.
+Good goat care starts with knowing your pastures. Walk your land regularly and learn to identify toxic plants like St. John's Wort, yew, [poison hemlock](/posts/can-goats-eat-poison-hemlock), and rhododendron so you can remove them before your goats find them.
 
-Beyond pasture management, make sure your goats always have clean water, quality hay, proper minerals, and shelter from weather extremes. Goats are social animals that do best in pairs or groups, and regular vet checkups help you catch problems early.
+Beyond pasture management, make sure your goats always have clean water, quality hay, proper minerals, and shelter from weather extremes. [Goats are social animals](/posts/can-goats-love-humans) that do best in pairs or groups, and regular vet checkups help you catch problems early.
 
 ## Final Thoughts
 

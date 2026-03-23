@@ -47,7 +47,7 @@ Do not take legal advice from social media or goat forums on this one. Dairy reg
 
 ## State dairy laws you need to know
 
-Raw milk sales are outright banned in about 20 states as of 2026. In states that do allow raw milk sales, many limit it to on-farm purchases only, meaning the customer has to physically come to your farm to buy it.
+Raw milk sales are outright banned in about 20 states as of 2026. You can also [freeze goat milk](/can-goats-milk-be-frozen) for later processing, which helps with batch production. In states that do allow raw milk sales, many limit it to on-farm purchases only, meaning the customer has to physically come to your farm to buy it.
 
 Butter and other processed dairy products usually face stricter regulations than fluid milk. In most states, selling butter commercially requires a licensed dairy, pasteurization equipment, and regular inspections by the state dairy board.
 
@@ -59,23 +59,23 @@ At a minimum, most states require a dairy license, a Grade A or equivalent facil
 
 The startup costs for a licensed dairy operation can run from $10,000 to $50,000 or more depending on your state requirements and the scale you are aiming for. This includes pasteurization equipment, stainless steel work surfaces, separate processing and storage areas, and handwashing stations.
 
-Many small goat farms find the licensing burden too heavy for butter alone. The margins on goat butter are thin, and the regulatory overhead can eat up any profit unless you are producing at a larger scale.
+Many small goat farms find the licensing burden too heavy for butter alone. People often wonder if [goat cheese can substitute for feta](/can-i-substitute-goat-cheese-for-feta-cheese) in recipes, and cheese production sometimes offers a simpler licensing path than butter. The margins on goat butter are thin, and the regulatory overhead can eat up any profit unless you are producing at a larger scale.
 
 ## Cottage food laws and alternatives
 
 Some states have cottage food exemptions that cover certain homemade food products, but fluid milk and butter are usually excluded from these laws. Cottage food exemptions typically apply to baked goods, jams, pickles, and other shelf-stable items that do not require refrigeration.
 
-If selling butter feels too complicated, consider value-added products like goat milk soap, lotion, or candles. These products often face far fewer regulations than edible dairy because they fall under cosmetics rules rather than food safety laws, and they command higher prices per unit.
+If selling butter feels too complicated, consider value-added products like goat milk soap, lotion, or candles. Using a preservative like [Germall Plus in goat milk lotion](/can-i-use-germall-plus-in-goat-milk-lotion) keeps your skincare products shelf-stable. These products often face far fewer regulations than edible dairy because they fall under cosmetics rules rather than food safety laws, and they command higher prices per unit.
 
 Farmstead cheesemaking is another option in states that allow it. Aged cheeses that meet minimum aging requirements sometimes have a simpler licensing path than fluid dairy products, and they carry higher profit margins than butter.
 
 ## Making goat milk butter at home
 
-Goat milk butter is trickier to make than cow milk butter because goat milk is naturally homogenized, meaning the fat does not separate as easily. You will need to chill the cream to near freezing and churn it longer than you would with cow cream.
+Goat milk butter is trickier to make than cow milk butter because goat milk is naturally homogenized, meaning the fat does not separate as easily. This same property is why [goat cheese can cause less bloating](/can-goat-cheese-make-you-bloated) than cow dairy for many people. You will need to chill the cream to near freezing and churn it longer than you would with cow cream.
 
 Expect lower yields too. Goat milk averages around 3.5 percent butterfat compared to 4 percent or higher for most cow breeds, so it takes more cream to produce the same amount of butter. Many producers add a culture to the cream and let it ripen overnight before churning to improve both yield and flavor.
 
-The resulting butter has a whiter color and tangier flavor than cow butter. Some customers love it, others find it unusual, so sampling your market before scaling up production is a smart move.
+The resulting butter has a whiter color and tangier flavor than cow butter. You can also [make yogurt with canned goat milk](/can-i-make-yogurt-with-canned-goat-milk) as another value-added product to sell alongside butter. Some customers love it, others find it unusual, so sampling your market before scaling up production is a smart move.
 
 ## Final Thoughts
 

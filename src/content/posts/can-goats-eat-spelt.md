@@ -47,11 +47,11 @@ You can feed spelt whole, cracked, or even sprouted. The tough hull does not bot
 
 ## Nutritional benefits of spelt for goats
 
-Spelt is a good source of protein, which helps with muscle development, milk production, and overall growth. The fiber content supports healthy digestion and keeps the rumen working properly.
+Spelt is a good source of protein, which helps with muscle development, milk production, and overall growth. Combined with a solid [hay](/posts/what-kind-of-hay-do-goats-eat) foundation, the fiber content supports healthy digestion and keeps the rumen working properly.
 
-It also contains iron, B vitamins, and manganese. The iron is particularly helpful for preventing anemia, and the B vitamins support energy metabolism.
+It also contains iron, B vitamins, and manganese. The iron is particularly helpful for preventing [anemia](/posts/can-goats-have-a-stroke-anemia), and the B vitamins support energy metabolism.
 
-The nutritional profile is similar to oats, which makes spelt a natural fit in most grain mixes. The complex carbohydrates break down slowly, giving your goats steady energy throughout the day rather than a quick sugar spike.
+The nutritional profile is similar to [oats](/posts/can-goats-eat-oats), which makes spelt a natural fit in most grain mixes. The complex carbohydrates break down slowly, giving your goats steady energy throughout the day rather than a quick sugar spike.
 
 ## How to feed spelt to goats
 
@@ -71,11 +71,11 @@ Spelt also contains lignin, which is harder for goats to digest than other plant
 
 ## Mixing spelt into a grain ration
 
-Spelt works best as part of a balanced grain mix rather than the sole grain in your goat's diet. A good ratio is about 25% spelt combined with oats, barley, and a small amount of corn.
+Spelt works best as part of a balanced grain mix rather than the sole grain in your goat's diet. A good ratio is about 25% spelt combined with oats, barley, and a small amount of [corn](/posts/can-goats-eat-corn).
 
 This blend gives your goats a wider range of amino acids and keeps the overall carbohydrate load manageable. Adjust the proportions based on your goats' body condition and activity level.
 
-Spelt straw, which is what remains after threshing, also makes acceptable bedding for goat shelters. It is not as soft as wheat straw but it works fine and your goats may nibble on it without any harm.
+Spelt straw, which is what remains after threshing, also makes acceptable bedding for goat shelters, similar to how [pine chips can serve as goat bedding](/posts/can-pine-chips-be-used-as-bedding-for-goats). It is not as soft as wheat straw but it works fine and your goats may nibble on it without any harm.
 
 ## Final Thoughts
 

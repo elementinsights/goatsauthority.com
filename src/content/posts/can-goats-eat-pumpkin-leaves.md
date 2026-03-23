@@ -41,7 +41,7 @@ Despite what you might read elsewhere, pumpkin leaves are not toxic to goats. Le
 
 ## Can goats eat pumpkin leaves?
 
-Yes, without question. Pumpkin leaves are safe, nutritious, and a treat that most goats will devour happily. There is nothing toxic about pumpkin leaves for goats or most other livestock.
+Yes, without question. Pumpkin leaves are safe, nutritious, and a treat that most goats will devour happily. Unlike [some plants that are genuinely dangerous](/posts/can-goats-eat-poison-hemlock), there is nothing toxic about pumpkin leaves for goats or most other livestock.
 
 If you've got a pumpkin patch and goats on the same property, you've already discovered that keeping them apart is the real challenge. Goats will strip pumpkin vines clean if given the chance. That's not a health problem for the goats, but it can be a problem for your pumpkin harvest.
 
@@ -49,25 +49,25 @@ If you've got a pumpkin patch and goats on the same property, you've already dis
 
 Pumpkin leaves are packed with good stuff. They contain vitamins A and C, iron, calcium, and a decent amount of fiber that works well with a goat's rumen.
 
-The leaves also have a high water content, which can help with hydration during hot months. As a supplemental browse item, pumpkin leaves are about as good as it gets. They're a garden byproduct that most people toss in the compost, so feeding them to your goats means nothing goes to waste.
+The leaves also have a high water content, which can help with hydration during hot months. As a supplemental browse item, pumpkin leaves are about as good as it gets alongside [kale](/posts/can-goats-eat-kale) and other leafy greens. They're a garden byproduct that most people toss in the compost, so feeding them to your goats means nothing goes to waste.
 
 ## Other parts of the pumpkin plant goats can eat
 
 The whole pumpkin plant is fair game for goats. Leaves, vines, flowers, and the pumpkin fruit itself are all safe. Goats will chew through the tough vines, munch on the big yellow flowers, and gnaw on pumpkins of all sizes.
 
-Pumpkin flesh is rich in beta-carotene and vitamin A, both of which support a healthy immune system. Many goat owners save leftover jack-o-lanterns after Halloween, as long as they haven't been painted or coated with candle wax, and let the herd go to town on them. It's one of the best seasonal treats you can give your goats.
+Pumpkin flesh is rich in beta-carotene and vitamin A, both of which support a healthy immune system. [Feeding whole pumpkins to goats](/posts/can-goats-eat-pumpkin) is one of the best seasonal treats you can offer. Many goat owners save leftover jack-o-lanterns after Halloween, as long as they haven't been painted or coated with candle wax, and let the herd go to town on them.
 
 ## How to feed pumpkin to your goats
 
 You can toss pumpkin leaves and vines directly to your goats without any special preparation. For whole pumpkins, smash them open or cut them into chunks so the goats can get to the flesh and seeds inside.
 
-Small pumpkins are fine to give whole since goats are surprisingly good at breaking them apart. If you've got a large pumpkin, splitting it with a knife or dropping it on a hard surface saves your goats the trouble. There's no need to remove the seeds. Goats eat them without any issues, and the seeds actually have some nutritional benefits of their own.
+Small pumpkins are fine to give whole since goats are surprisingly good at breaking them apart. If you've got a large pumpkin, splitting it with a knife or dropping it on a hard surface saves your goats the trouble. There's no need to remove the seeds. Goats eat them without any issues, much like they happily crunch through [sunflower seeds](/posts/can-goats-eat-sunflower-seeds), and the pumpkin seeds actually have some nutritional benefits of their own.
 
 ## Pumpkins as a natural dewormer
 
 Pumpkin seeds have a long history as a folk remedy for intestinal parasites, and there's some science behind it. The seeds contain cucurbitin, an amino acid compound that may help paralyze certain types of worms.
 
-Now, pumpkin seeds shouldn't replace a proper deworming program managed by your vet. But feeding pumpkins and their seeds as part of a varied diet doesn't hurt, and it may give your goats a small extra edge against parasite loads. At the very least, it's a healthy snack they enjoy.
+Now, pumpkin seeds shouldn't replace a proper deworming program managed by your vet. But feeding pumpkins and their seeds as part of a varied diet alongside other safe vegetables like [squash](/posts/can-goats-eat-squash) and [watermelon](/posts/can-goats-eat-watermelon) doesn't hurt, and it may give your goats a small extra edge against parasite loads.
 
 ## Final Thoughts
 

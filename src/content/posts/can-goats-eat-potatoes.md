@@ -44,7 +44,7 @@ A ripe, firm potato with no green spots is safe for goats as an occasional treat
 
 Potatoes belong to the nightshade family, which makes people nervous for good reason. The toxin solanine is what you need to watch for, and it concentrates in very specific parts of the plant.
 
-A plain potato that's been stored properly in a cool, dark place is fine. But if that same potato has been sitting in the sun and turned green, it goes in the trash, not the feed bucket.
+A plain potato that's been stored properly in a cool, dark place is fine. The same solanine concern applies to [tomatoes](/posts/can-goats-eat-tomatoes), another nightshade family member. But if that same potato has been sitting in the sun and turned green, it goes in the trash, not the feed bucket.
 
 ## Green Potatoes and Sprouts Are Toxic
 
@@ -60,11 +60,11 @@ Cooking breaks down solanine, which makes cooked potatoes safer than raw ones. B
 
 Raw potatoes from the store that are firm and free of green spots are okay in small pieces. But cooking eliminates most of the remaining solanine concern and makes the starch easier for goats to digest.
 
-Never give your goats potato chips, fries, or any processed potato product. The added salt and oil cause digestive problems that aren't worth the trouble.
+Never give your goats potato chips, fries, or any processed potato product. The added salt and oil cause digestive problems that aren't worth the trouble, much like how [chocolate is toxic to goats](/posts/can-goats-eat-chocolate) due to its processing.
 
 ## Sweet Potatoes Are a Different Story
 
-Sweet potatoes are not part of the nightshade family at all. They don't contain solanine, and they're one of the safest treats you can give your goats.
+[Sweet potatoes](/posts/can-goats-eat-sweet-potatoes) are not part of the nightshade family at all. They don't contain solanine, and they're one of the safest treats you can give your goats.
 
 They're packed with vitamins A and C, and most goats love the taste. You can feed sweet potatoes raw or cooked, and the vines and leaves are safe too.
 
@@ -74,14 +74,14 @@ Don't let the name confuse you. Regular potatoes and sweet potatoes are complete
 
 A few small pieces once or twice a week is plenty for a full-grown goat. Think of potatoes the way you'd think of candy for a kid: fine as a rare treat, terrible as a regular meal.
 
-Start with a small piece and watch how your goat reacts over 24 hours. If there's no digestive upset or loose stool, you can offer a little more next time.
+Start with a small piece and watch how your goat reacts over 24 hours. Safer alternatives like [pumpkin](/posts/can-goats-eat-pumpkin) or [carrots](/posts/can-goats-eat-carrots) make better everyday treats. If there's no digestive upset or loose stool, you can offer a little more next time.
 
-Potatoes are high in starch and low in the protein and fiber that goats actually need. They should never replace hay, browse, or pasture in your goat's diet.
+Potatoes are high in starch and low in the protein and fiber that goats actually need. They should never replace [hay](/posts/what-kind-of-hay-do-goats-eat), browse, or pasture in your goat's diet.
 
 ## Potato Plants, Vines, and Leaves Are Off Limits
 
 The green, above-ground parts of the potato plant contain far higher solanine levels than the tuber itself. A goat browsing on potato vines can take in enough toxin to cause serious illness or death.
 
-If you grow potatoes in your garden, make sure your goats can't access that area. Fence the garden off completely, because goats will find a way in if there's a gap.
+If you grow potatoes in your garden, make sure your goats can't access that area. Fence the garden off completely, because [goats can climb and jump fences](/posts/can-goats-climb-fences) and will find a way in if there's a gap.
 
 After harvest, don't throw old potato vines on a compost pile where goats can reach them. Bag them up and dispose of them separately to keep your herd safe.

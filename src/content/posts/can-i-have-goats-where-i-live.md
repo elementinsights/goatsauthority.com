@@ -44,7 +44,7 @@ Before you load up the truck with a pair of kids, you need to know exactly what 
 
 Every property in the United States falls under a zoning classification, and that classification dictates what animals you can keep. Rural and agricultural zones are the easiest since livestock is generally permitted by default.
 
-Suburban and urban residential zones are where things get tricky. Many cities classify goats as livestock and ban them outright in R-1 or R-2 residential zones.
+Suburban and urban residential zones are where things get tricky. Even [keeping goats in an urban environment](/can-goats-live-in-an-urban-environment) is possible in some cities, but many classify goats as livestock and ban them outright in R-1 or R-2 residential zones.
 
 Pull up your city or county planning department's website and search for your zoning code. Look for sections on livestock, agricultural animals, or hobby farming. If the language is confusing, call the planning office directly and ask.
 
@@ -54,7 +54,7 @@ A five-minute phone call beats a code enforcement fine every single time.
 
 City zoning is only part of the picture. County ordinances can add extra restrictions on top of municipal code, especially regarding animal density and waste management.
 
-If you live in an HOA-governed neighborhood, read your covenants before doing anything else. Even if your city technically allows goats, your HOA can still ban them. Get any approval in writing so you have proof if a neighbor files a complaint later.
+If you live in an HOA-governed neighborhood, read your covenants before doing anything else. Some people try to [claim goats as lawn maintenance](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets) to get around restrictions, but this rarely holds up. Even if your city technically allows goats, your HOA can still ban them. Get any approval in writing so you have proof if a neighbor files a complaint later.
 
 Some counties also require specific permits for keeping any livestock, regardless of the number. Missing a permit can result in fines and forced removal of your animals.
 
@@ -64,13 +64,13 @@ Zoning classification is the big one, but several other factors come into play. 
 
 Animal limits matter too. Many municipalities cap goat ownership at two or three animals on residential lots. Setback distances require your shelter and fencing to be a certain number of feet from property lines.
 
-Noise ordinances are another consideration. Goats are quieter than dogs, but does in heat and bucks during rut can get vocal. Your best move is to talk with your neighbors before you bring goats home so everyone knows what to expect.
+Noise ordinances are another consideration. Goats are quieter than dogs, but does in heat and [bucks during rut](/can-you-breed-a-4yr-old-goat) can get vocal. Your best move is to talk with your neighbors before you bring goats home so everyone knows what to expect.
 
 ## Miniature breeds for restricted areas
 
 Some cities that ban standard-sized goats make exceptions for miniature breeds. Pygmy goats and Nigerian Dwarf goats are the two most commonly allowed in suburban and urban areas.
 
-Nigerian Dwarfs stand about 17 to 21 inches tall and weigh 40 to 60 pounds. Pygmies are stocky, friendly, and easy to handle. Both breeds produce less waste than full-sized goats and need less pasture.
+Nigerian Dwarfs stand about 17 to 21 inches tall and weigh 40 to 60 pounds. If you're considering one, know that you can still [register a Nigerian Dwarf without papers](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers) through grade-up programs. Pygmies are stocky, friendly, and easy to handle. Both breeds produce less waste than full-sized goats and need less pasture.
 
 A pair of Nigerian Dwarfs can do well on as little as a quarter acre if you supplement with hay. They also produce good milk for their size, so they pull double duty on small homesteads.
 
@@ -78,7 +78,7 @@ A pair of Nigerian Dwarfs can do well on as little as a quarter acre if you supp
 
 This is the part where a lot of people stumble. They bring goats home, a neighbor complains, and then they scramble to get permits after the fact. That approach almost always ends in fines or forced removal.
 
-Apply for any required permits or variances before purchasing your animals. Some municipalities want to inspect your property for adequate fencing and shelter before granting approval. Others require annual renewals.
+Apply for any required permits or variances before purchasing your animals. States like [Wyoming](/can-i-own-a-goat-in-wyoming) and [Oregon](/can-i-own-goats-in-medford-oregon) tend to be more goat-friendly than heavily urbanized areas. Some municipalities want to inspect your property for adequate fencing and shelter before granting approval. Others require annual renewals.
 
 Keep copies of all permits, inspection reports, and correspondence with local officials. If you ever get a knock on the door from code enforcement, having paperwork in hand makes the whole conversation a lot shorter.
 

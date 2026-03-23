@@ -48,11 +48,11 @@ Wethers tend to make the best cart goats because they're calmer and grow larger 
 
 Large breeds like Boers, Nubians, and Alpines are your best options for pulling carts. These breeds have the body mass and muscle structure to handle the weight without straining themselves. Saanens and LaMancha crosses also work well because they tend to have calm temperaments and solid builds.
 
-Smaller breeds like Pygmies and Nigerian Dwarfs aren't suited for cart work. They simply don't have the frame or strength for it, and asking them to pull loads puts unfair stress on their joints and back. Stick with goats that weigh at least 150 pounds as adults if you want a reliable cart animal.
+Smaller breeds like Pygmies and Nigerian Dwarfs aren't suited for cart work. They simply don't have the frame or strength for it, and asking them to pull loads puts unfair stress on their joints and back. These smaller breeds are better suited for activities like [climbing and jumping](/can-goats-jump-high/) that match their build. Stick with goats that weigh at least 150 pounds as adults if you want a reliable cart animal.
 
 ## How to Train a Goat to Pull a Cart
 
-Start harness training when the goat is around 6 to 12 months old, but don't attach a cart until it's physically mature, usually around 2 years of age. Let the young goat wear the harness around the pasture so it gets used to the feel of straps on its body. Teaching basic commands like "walk," "whoa," and "stand" during this phase makes everything easier later.
+Start harness training when the goat is around 6 to 12 months old, but don't attach a cart until it's physically mature, usually around 2 years of age. Let the young goat wear the harness around the pasture so it gets used to the feel of straps on its body. Teaching basic commands like "walk," "whoa," and "stand" during this phase makes everything easier later. Goats that [love their humans](/can-goats-love-humans/) respond especially well to this kind of training because they want to please.
 
 Once the goat walks calmly in a harness, introduce an empty cart behind it. The noise and feel of something rolling behind them spooks most goats at first. Use treats and a calm voice to build confidence, and keep your first sessions to about 10 minutes. Gradually add light weight to the cart over several weeks as the goat builds strength and trust.
 
@@ -64,12 +64,12 @@ The cart should have two wheels and sit low to the ground for stability. Make su
 
 ## Safety Tips and Risks
 
-Never leave a harnessed goat unattended, even for a minute. Goats are curious animals that will investigate anything nearby, and a panicked goat dragging a cart can injure itself or others. Always have someone walking alongside or holding the lead rope.
+Never leave a harnessed goat unattended, even for a minute. Goats are curious animals that will investigate anything nearby, and a panicked or [aggressive goat](/can-an-aggressive-goat-be-fixed/) dragging a cart can injure itself or others. Always have someone walking alongside or holding the lead rope.
 
-Watch for signs of fatigue like heavy breathing, stumbling, or refusing to move forward. On hot days, keep cart work to early mornings and always provide water breaks. Hills are harder on a goat than flat ground, so build up to inclines slowly. Cart goats are popular in 4-H programs for a reason: they teach kids responsibility and animal handling skills in a hands-on way.
+Watch for signs of fatigue like heavy breathing, stumbling, or refusing to move forward. On hot days, keep cart work to early mornings and always provide water breaks. While goats [can swim if they fall into water](/can-a-goat-swim-everything-you-need-to-know/), avoid cart routes near deep ponds or streams. Hills are harder on a goat than flat ground, so build up to inclines slowly. Cart goats are popular in 4-H programs for a reason: they teach kids responsibility and animal handling skills in a hands-on way.
 
 ## Final Thoughts
 
 Goat carting is a fun and practical activity when done right. Pick a large breed wether, invest in a proper harness, and take the training slow over several months.
 
-Your goat isn't a horse, so keep the loads reasonable and the sessions short. A well-trained cart goat is a joy to work with and a real crowd-pleaser at fairs, parades, and farm events.
+Your goat isn't a horse, so keep the loads reasonable and the sessions short. Goats that enjoy [climbing trees](/can-a-goat-climb-trees/) often take well to cart training because they already have the muscle development and coordination. A well-trained cart goat is a joy to work with and a real crowd-pleaser at fairs, parades, and farm events.

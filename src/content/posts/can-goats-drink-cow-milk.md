@@ -37,7 +37,7 @@ Baby goats can absolutely drink cow milk, and plenty of farmers have raised heal
 
 The first thing every newborn kid needs is colostrum from its mother within the first few hours of life. Colostrum is packed with antibodies that no substitute can replicate, so get that into the kid before you switch to anything else.
 
-Once colostrum is handled, whole cow milk from the store is a solid backup. It has less fat and protein than goat milk, but the difference is not dramatic enough to cause problems for most kids.
+Once colostrum is handled, whole cow milk from the store is a solid backup. It has less fat and protein than goat milk, but the difference is not dramatic enough to cause problems for most kids. [Goat formula for dogs](/can-dogs-have-goat-formula) uses similar goat milk products, showing how versatile goat dairy is across species.
 
 ## How Much Milk to Feed a Baby Goat?
 
@@ -45,7 +45,7 @@ During the first week, feed about 4 ounces every 4 hours, roughly 4 to 5 feeding
 
 From 3 weeks to 8 weeks, gradually increase bottle size while reducing frequency to 3 times a day. Most kids are ready to wean between 8 and 12 weeks once they are eating hay and grain consistently.
 
-Watch your kid's body condition as you go. If ribs are showing, increase the amount; if stools get loose, back off a little.
+Watch your kid's body condition as you go. If ribs are showing, increase the amount; if stools get loose, back off a little. If the kid develops scours, having [electrolyte solutions ready](/can-baby-goats-have-any-electrolytes) can prevent dehydration from becoming life-threatening.
 
 ## Nutrition of the Young Goat: Birth to Breeding
 
@@ -61,7 +61,7 @@ Use a Pritchard nipple on a standard soda bottle for the best results. These nip
 
 Some kids take to the bottle immediately, while others fight it for a day or two. Hold the kid on your lap, tilt its head slightly up, and gently squeeze a few drops onto its tongue to get it started.
 
-Start introducing hay around 2 weeks old and offer grain by 3 to 4 weeks. The sooner kids start eating solid food, the smoother the weaning process goes.
+Start introducing hay around 2 weeks old and offer grain by 3 to 4 weeks. The sooner kids start eating solid food, the smoother the weaning process goes. As their rumen develops, understanding [what goats can digest](/can-goats-digest-anything) helps you introduce the right solid foods at the right time.
 
 ## Proper Care and Preparation of Cow's Milk
 
@@ -69,12 +69,12 @@ Warm the milk to about 101 degrees Fahrenheit before each feeding. Cold milk can
 
 Never microwave milk in the bottle because it creates hot spots that can burn the kid's mouth. Heat it in a pot of warm water or use a bottle warmer instead.
 
-Keep bottles and nipples clean between feedings. A quick wash with hot soapy water and a thorough rinse is all it takes to prevent bacterial growth.
+Keep bottles and nipples clean between feedings. A quick wash with hot soapy water and a thorough rinse is all it takes to prevent bacterial growth. [Baby kittens can also drink goat milk](/can-baby-kittens-drink-goats-milk) in emergencies, and the same hygiene practices apply when bottle-feeding any young animal.
 
 ## Growth Period After Weaning
 
 Adult goats have zero need for milk of any kind. They are ruminants that thrive on hay, browse, pasture, and supplemental grain.
 
-Once a kid is weaned and eating solid food, fresh water is the only liquid it needs. Provide a loose mineral supplement formulated for goats, not cattle, since goats need copper and other trace minerals in different ratios.
+Once a kid is weaned and eating solid food, fresh water is the only liquid it needs. Provide a loose mineral supplement formulated for goats, not cattle, since goats need copper and other trace minerals in different ratios. Some owners add a splash of [apple cider vinegar to the water](/can-goats-drink-vinegar) for digestive support once kids are fully weaned.
 
 The bottom line is straightforward: cow milk works as a temporary replacement for motherless kids when goat milk is not available. Keep it warm, keep it whole fat, and wean them onto solid feed as soon as they are ready.

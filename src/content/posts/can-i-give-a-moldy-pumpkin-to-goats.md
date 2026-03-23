@@ -41,7 +41,7 @@ No, do not feed moldy pumpkins to your goats. Mold produces mycotoxins that can 
 
 If a pumpkin has visible mold growth, whether it is white, green, or black fuzz, the entire thing needs to go in the trash or compost pile. Mycotoxins produced by molds like Aspergillus and Penicillium can spread throughout the flesh even if you only see mold on the surface.
 
-A pumpkin with a small soft spot is a different story. Cut it open, inspect the inside, and if the rest of the flesh is firm and bright orange with no fuzzy patches or slimy areas, you can feed the good portions and toss the bad section.
+A pumpkin with a small soft spot is a different story. The same caution applies when [feeding goats leftovers](/can-i-feed-my-goat-leftovers) from the kitchen. Cut it open, inspect the inside, and if the rest of the flesh is firm and bright orange with no fuzzy patches or slimy areas, you can feed the good portions and toss the bad section.
 
 The tricky part is that mycotoxins are invisible. By the time you see mold on the outside, the toxins have likely penetrated deeper into the flesh than the visible growth suggests. That is why the safe move is always to toss the whole pumpkin if mold is present.
 
@@ -49,7 +49,7 @@ The tricky part is that mycotoxins are invisible. By the time you see mold on th
 
 The molds that grow on pumpkins produce mycotoxins, including aflatoxins and zearalenone, that attack the liver and reproductive system. Even small amounts of aflatoxin can cause permanent liver damage in goats, and the effects are cumulative over time.
 
-Zearalenone mimics estrogen and can cause false heats, early abortions, and fertility problems in does. A doe that keeps cycling without settling may have been exposed to this mycotoxin through contaminated feed earlier in the season.
+Zearalenone mimics estrogen and can cause false heats, early abortions, and fertility problems in does. This is especially dangerous for pregnant does, much like [pine needles from Ponderosa trees](/can-i-feed-my-goat-pine-needles-when-it-is-pregnant). A doe that keeps cycling without settling may have been exposed to this mycotoxin through contaminated feed earlier in the season.
 
 Black mold, often Rhizopus, grows fast on the bottom of pumpkins where they sit on the ground. It produces toxins that cause severe gastrointestinal inflammation, leading to diarrhea, loss of appetite, and dehydration that can turn dangerous in young kids.
 
@@ -57,7 +57,7 @@ Black mold, often Rhizopus, grows fast on the bottom of pumpkins where they sit 
 
 Give every pumpkin a good sniff before tossing it to your herd. A musty or sour smell means mold has already started developing inside, even if the outside looks clean and firm.
 
-Press your thumb against the rind in several spots, paying special attention to the bottom where the pumpkin sat on the ground. Any area that feels soft or gives way easily is likely compromised and not worth the risk.
+Press your thumb against the rind in several spots, paying special attention to the bottom where the pumpkin sat on the ground. Apply the same scrutiny when checking [what kind of hay](/what-kind-of-hay-do-goats-eat) you're buying for mold or dust. Any area that feels soft or gives way easily is likely compromised and not worth the risk.
 
 When in doubt, cut the pumpkin open and examine the interior. Healthy pumpkin flesh should be firm and bright orange all the way through. Dark spots, fuzzy patches, or slimy texture means that pumpkin belongs in the compost pile, not in the feed trough.
 
@@ -65,9 +65,9 @@ When in doubt, cut the pumpkin open and examine the interior. Healthy pumpkin fl
 
 Fresh, firm pumpkins are a great treat for goats and provide vitamins A, C, and E along with fiber. Smash them open or cut them into chunks and let your goats go to town. Most goats love pumpkin and will clean up a whole one in a single afternoon.
 
-The seeds are safe too, and they contain cucurbitacin, a compound that may help reduce intestinal parasite loads. Feed a handful of raw seeds daily during peak worm season as a supplement alongside your regular deworming program.
+The seeds are safe too, and they contain cucurbitacin, a compound that may help reduce intestinal parasite loads. [Sunflower seeds](/can-goats-eat-sunflower-seeds) are another seed treat that goats love. Feed a handful of raw pumpkin seeds daily during peak worm season as a supplement alongside your regular deworming program.
 
-Pumpkin is a treat, not a meal replacement. Keep it to a reasonable portion alongside their regular hay and grain, and remove any uneaten pieces from the pen before they start to soften and attract flies.
+Pumpkin is a treat, not a meal replacement. Keep it to a reasonable portion alongside their regular [alfalfa or timothy hay](/can-goats-eat-alfalfa) and grain, and remove any uneaten pieces from the pen before they start to soften and attract flies.
 
 ## Proper pumpkin storage
 

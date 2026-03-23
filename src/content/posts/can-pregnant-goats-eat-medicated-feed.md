@@ -48,7 +48,7 @@ You need to know exactly what active ingredient you're dealing with before putti
 
 The answer is: it depends on the medication. Not all medicated feeds are created equal, and the active ingredient makes all the difference for a pregnant doe.
 
-Feed containing monensin (sold as Rumensin) is toxic to goats at any stage of life, pregnant or not. Even small amounts can cause heart failure and death. This is a cattle feed additive that has no safe dose for goats.
+Feed containing monensin (sold as Rumensin) is toxic to goats at any stage of life, pregnant or not. Even small amounts can cause heart failure and death. This is the same toxin risk that applies when [mini horses and goats share feed](/can-mini-horses-live-with-goats), since many horse feeds contain monensin. This is a cattle feed additive that has no safe dose for goats.
 
 ## What is medicated feed, and why would you want to give it to pregnant goats?
 
@@ -60,23 +60,23 @@ Some medicated feeds contain antibiotics like chlortetracycline for controlling 
 
 The biggest benefit is coccidia prevention. A doe on decoquinate-medicated feed passes lower levels of coccidia oocysts in her droppings, which means her newborn kids face less exposure in those critical first weeks.
 
-Pregnant does are also more vulnerable to illness in late gestation because their immune systems naturally suppress to avoid rejecting the kids. Medicated feed can help bridge that gap and keep the doe healthy through kidding.
+Pregnant does are also more vulnerable to illness in late gestation because their immune systems naturally suppress to avoid rejecting the kids. Supplementing with [injectable B12](/can-pregnant-goats-have-injectable-b12) during this period helps keep their energy and immunity up. Medicated feed can help bridge that gap and keep the doe healthy through kidding.
 
 ## Are there any risks associated with feeding medicated feed to pregnant goats?
 
 The main risk is using the wrong medication. Monensin is the one that kills goats, and it shows up in many cattle feeds and some horse feeds too. Always read the tag and verify the active ingredient before feeding.
 
-Some medications also have withdrawal periods that affect milk safety. If you plan to use the colostrum or milk the doe after kidding, check the label for milk withdrawal times. When in doubt, call your vet before starting any medicated feed on a pregnant doe.
+Some medications also have withdrawal periods that affect milk safety. If you plan to use the colostrum or milk the doe after kidding, check the label for milk withdrawal times. The same withdrawal concern applies when giving [ibuprofen to lactating goats](/can-ibuprofen-be-given-to-lactating-goats). When in doubt, call your vet before starting any medicated feed on a pregnant doe.
 
 ## How should you go about introducing medicated feed to your pregnant goats' diet?
 
 Start by checking the feed tag for the active ingredient and confirming it's safe for goats. Decoquinate is the most widely used and safest coccidiostat for pregnant does.
 
-Introduce the medicated feed gradually over three to five days, mixing it with her regular grain. Most breeders start medicated feed about four to six weeks before the due date, when nutritional demands spike as the kids grow rapidly in the final stretch.
+Introduce the medicated feed gradually over three to five days, mixing it with her regular grain. Most breeders start medicated feed about four to six weeks before the due date, when nutritional demands spike as the kids grow rapidly in the final stretch. This is also when [pregnant Boer goats benefit most from alfalfa](/can-pregnant-boer-goats-eat-alfalfa) to meet the increased energy needs.
 
 ## What should you do if you notice any side effects after giving your pregnant goats medicated feed?
 
-Pull the medicated feed immediately and switch back to her regular ration. Watch for signs like loss of appetite, lethargy, diarrhea, or labored breathing, and call your vet right away.
+Pull the medicated feed immediately and switch back to her regular ration. Watch for signs like loss of appetite, lethargy, diarrhea, or labored breathing, and call your vet right away. Diarrhea in particular can escalate quickly, and knowing [how to treat scours in goats](/can-too-much-field-time-cause-scours-in-goats) helps you respond while waiting for the vet.
 
 If you suspect your doe ate feed containing monensin, treat it as an emergency. There is no antidote for monensin toxicity, but early veterinary intervention with supportive care can sometimes save the animal.
 

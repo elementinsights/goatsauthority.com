@@ -47,19 +47,19 @@ The big rule with any potato product and goats is the same: avoid anything green
 
 Goats can eat potato shavings as long as the shavings are not green. Small amounts of regular potato peelings or shavings are fine as an occasional treat alongside their normal diet.
 
-The concern with potatoes is solanine, a toxic compound that concentrates in green-skinned potatoes and in the eyes and sprouts. If the shavings come from a normal, non-green potato, your goats will handle them without any trouble.
+The concern with potatoes is solanine, a toxic compound that concentrates in green-skinned potatoes and in the eyes and sprouts. The same solanine risk applies when [feeding whole potatoes to goats](/posts/can-goats-eat-potatoes), so always inspect for green coloring. If the shavings come from a normal, non-green potato, your goats will handle them without any trouble.
 
 ## Why goats can eat potato shavings?
 
 Goats have a four-chamber ruminant stomach that is built to break down plant material. The rumen ferments food and breaks down tough fibers that a simple stomach could not handle.
 
-This digestive setup lets goats process potato shavings without much difficulty. Cooked potato shavings are even easier on their system because cooking breaks down some of the starch and eliminates trace amounts of solanine.
+This digestive setup lets goats process potato shavings without much difficulty, just like they handle other starchy treats such as [sweet potatoes](/posts/can-goats-eat-sweet-potatoes). Cooked potato shavings are even easier on their system because cooking breaks down some of the starch and eliminates trace amounts of solanine.
 
 ## What are the benefits of goat-eating potato shavings?
 
 Potato shavings offer a decent amount of starch and energy, which can be a nice supplement during colder months. They also contain some potassium and vitamin C, though the amounts are small.
 
-Potato shavings are not a nutritional powerhouse for goats. They are best thought of as a kitchen scrap treat rather than a feed supplement, and they should never replace hay, pasture, or proper grain in your goat's diet.
+Potato shavings are not a nutritional powerhouse for goats. They are best thought of as a kitchen scrap treat rather than a feed supplement, and they should never replace [quality hay](/posts/what-kind-of-hay-do-goats-eat), pasture, or proper grain in your goat's diet.
 
 ## What are the risks associated with goats eating potato shavings?
 
@@ -75,13 +75,13 @@ Start with a small amount and watch how your goat handles it over the next 24 ho
 
 ## What goats can and cannot eat?
 
-Goats are herbivores that do best on hay, pasture, browse, and a balanced mineral supplement. They enjoy fruit and vegetable treats like apples, carrots, squash, and pumpkin.
+Goats are herbivores that do best on hay, pasture, browse, and a balanced mineral supplement. They enjoy fruit and vegetable treats like [apples](/posts/can-goats-eat-apples), [carrots](/posts/can-goats-eat-carrots), squash, and pumpkin.
 
-Keep them away from anything toxic including azaleas, rhododendrons, yew, and green potatoes. Avoid processed human foods, chocolate, and anything with added sugar or salt as a general rule.
+Keep them away from anything toxic including azaleas, rhododendrons, yew, and green potatoes. Avoid processed human foods, [chocolate](/posts/can-goats-eat-chocolate), and anything with added sugar or salt as a general rule.
 
 ## How to take care of your goat's diet?
 
-Good hay should be available at all times since it makes up the foundation of a healthy goat diet. A balanced grain ration designed for goats provides additional energy and essential vitamins.
+Good hay should be available at all times since it makes up the foundation of a healthy goat diet. Many owners rely on [timothy hay](/posts/can-goats-eat-timothy-hay) or alfalfa as their primary forage. A balanced grain ration designed for goats provides additional energy and essential vitamins.
 
 Fresh, clean water is non-negotiable. Goats dehydrate faster than you might think, especially lactating does or goats in hot weather. A proper loose mineral supplement formulated for goats rounds out the dietary basics.
 

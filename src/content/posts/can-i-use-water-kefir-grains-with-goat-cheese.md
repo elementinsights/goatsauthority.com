@@ -45,37 +45,37 @@ If you want to make a kefir-style cheese from goat milk, you need milk kefir gra
 
 Water kefir grains are designed to ferment sugar water, not dairy. They contain bacteria and yeast cultures that feed on sugar, and they will not properly culture milk of any kind.
 
-If you drop water kefir grains into goat milk, they will not produce cheese or even a drinkable kefir. The grains will likely become slimy and damaged because they are not equipped to break down lactose. You need milk kefir grains for any dairy fermentation project.
+If you are curious about [where to buy goat milk at a grocery store](/can-you-buy-goat-milk-at-the-grocery-store), that is a good starting point for experimenting with milk kefir grains. If you drop water kefir grains into goat milk, they will not produce cheese or even a drinkable kefir. The grains will likely become slimy and damaged because they are not equipped to break down lactose. You need milk kefir grains for any dairy fermentation project.
 
 ## What are water kefir grains and what are their benefits?
 
 Water kefir grains are small, translucent clumps of bacteria and yeast that ferment sugar water into a mildly fizzy probiotic drink. They look like tiny crystals and thrive in a solution of water and sugar.
 
-The finished water kefir tastes slightly tangy and can be flavored with fruit juice or ginger. It is a dairy-free probiotic option that works well for people who cannot tolerate milk products.
+The finished water kefir tastes slightly tangy and can be flavored with fruit juice or ginger. It is a dairy-free probiotic option that works well for people who cannot tolerate milk products. People with dairy sensitivities should also explore [whether goat milk works for those allergic to cow milk](/can-someone-allergic-to-milk-use-goats-milk).
 
 ## What is goat cheese and what are its benefits?
 
 Goat cheese is made by curdling goat milk with an acid or rennet, then draining and pressing the curds. It ranges from soft and spreadable to firm and crumbly depending on how long it ages.
 
-Many people find goat cheese easier to digest than cow milk cheese because the fat globules are smaller. It is also a good source of protein, calcium, and healthy fats, making it a solid choice for anyone raising dairy goats.
+Many people find goat cheese easier to digest than cow milk cheese because the fat globules are smaller. It is also a good source of protein, calcium, and healthy fats, making it a solid choice for anyone raising dairy goats. If you have extra cheese on hand, you may want to know [how to freeze goat cheese](/can-you-freeze-goat-cheese) for long-term storage.
 
 ## How to make water kefir with goat cheese?
 
 The real question here is how to make kefir cheese from goat milk using milk kefir grains. Start by adding about a tablespoon of milk kefir grains to a quart of fresh goat milk in a clean glass jar.
 
-Cover the jar with a cloth or coffee filter and let it sit at room temperature for 24 to 48 hours until the milk thickens and becomes tangy. Once it has set, strain out the grains and pour the thickened kefir into cheesecloth draped over a bowl. Let it drain in the fridge for 12 to 24 hours, and you will end up with a soft, spreadable cheese.
+Cover the jar with a cloth or coffee filter and let it sit at room temperature for 24 to 48 hours until the milk thickens and becomes tangy. Once it has set, strain out the grains and pour the thickened kefir into cheesecloth draped over a bowl. Fresh goat milk from your own does is ideal for this, and you can learn about [freezing goat milk](/can-goats-milk-be-frozen) to always have a supply ready. Let it drain in the fridge for 12 to 24 hours, and you will end up with a soft, spreadable cheese.
 
 ## Recipes that include both water kefir grains and goat cheese
 
 While water kefir grains and goat cheese serve different purposes, you can enjoy both products side by side. A glass of fruit-flavored water kefir pairs nicely with crackers topped with herbed goat cheese.
 
-You can also use finished water kefir as a base for salad dressings and add crumbled goat cheese to the salad itself. The tangy flavors complement each other well, even though the two are made through completely different fermentation processes.
+You can also use finished water kefir as a base for salad dressings and add crumbled goat cheese to the salad itself. Parents introducing dairy to babies might appreciate that [infants can eat goat cheese](/can-infants-eat-goat-cheese) as an early solid food. The tangy flavors complement each other well, even though the two are made through completely different fermentation processes.
 
 ## Are there any alternative uses for water kefir grains?
 
 Beyond making the standard fizzy water kefir drink, you can use the grains to ferment coconut water or fruit juice. Coconut water kefir has become popular as a dairy-free probiotic with a milder flavor.
 
-Some folks also use extra water kefir grains as a natural supplement for their animals or blend them into smoothies. If your grains are multiplying faster than you can use them, sharing extras with other homesteaders is common practice.
+Some folks also use extra water kefir grains as a natural supplement for their animals or blend them into smoothies. Homesteaders who also sell dairy products might be interested in [selling goat milk butter](/can-i-sell-goat-milk-butter) as another income stream. If your grains are multiplying faster than you can use them, sharing extras with other homesteaders is common practice.
 
 ## Final Thoughts
 

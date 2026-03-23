@@ -50,13 +50,13 @@ The best time to deworm is 2 to 4 weeks before her expected kidding date. This k
 
 Deworming kills internal parasites living in the goat's digestive tract. The biggest threat in most herds is the barber pole worm (Haemonchus contortus), a blood-sucking parasite that causes severe anemia.
 
-A pregnant doe carrying a heavy worm load cannot absorb enough nutrients for herself and her growing kids. She loses weight, her future milk production drops, and in bad cases she can die from anemia before kidding day arrives.
+A pregnant doe carrying a heavy worm load cannot absorb enough nutrients for herself and her growing kids. She loses weight, her [udder development](/posts/do-goats-have-udders) suffers, her future milk production drops, and in bad cases she can die from anemia before kidding day arrives.
 
 ## How do you know if your goat needs to be dewormed?
 
 Use FAMACHA scoring rather than deworming on a calendar. Pull down the lower eyelid and compare the color to a FAMACHA card. Bright red or dark pink means she is fine, while pale pink or white means she needs treatment now.
 
-Other warning signs include weight loss despite good appetite, rough coat, bottle jaw (swelling under the chin), and loose stool. Any of these in a pregnant doe should prompt a fecal egg count from your vet. Only treat the goats that actually need it, because unnecessary deworming speeds up resistance.
+Other warning signs include weight loss despite good appetite, rough coat, bottle jaw (swelling under the chin), and loose stool. A goat's [teeth should also be checked](/posts/do-goats-have-teeth) since poor dental health can mimic symptoms of parasitism. Any of these in a pregnant doe should prompt a fecal egg count from your vet. Only treat the goats that actually need it, because unnecessary deworming speeds up resistance.
 
 ## What are the signs of worm infection in goats?
 
@@ -68,13 +68,13 @@ Barber pole worms cause anemia without necessarily changing stool consistency, w
 
 Fenbendazole (SafeGuard) is the safest choice for pregnant does. It has a wide safety margin and works at all stages of pregnancy. Ivermectin is also considered safe when dosed correctly.
 
-Always weigh your doe before calculating the dose. Eyeballing weight leads to underdosing, which fails to kill the worms and helps them build resistance. Avoid levamisole (Prohibit) in early pregnancy, as it has a narrower safety margin and has been linked to birth defects in other livestock.
+Always weigh your doe before calculating the dose, just as you would when [giving ivermectin orally](/posts/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats). Eyeballing weight leads to underdosing, which fails to kill the worms and helps them build resistance. Avoid levamisole (Prohibit) in early pregnancy, as it has a narrower safety margin and has been linked to birth defects in other livestock.
 
 ## Tips for keeping your goats healthy and free of parasites
 
-Rotational grazing does more for parasite control than any dewormer. Divide your pasture into at least three paddocks and let each one rest for 6 weeks or longer so sunlight can kill larvae in the grass.
+Rotational grazing does more for parasite control than any dewormer. Goats' [panoramic eyesight](/posts/do-goats-have-good-eyesight) helps them survey new paddocks quickly and settle in. Divide your pasture into at least three paddocks and let each one rest for 6 weeks or longer so sunlight can kill larvae in the grass.
 
-Keep shelters clean and dry, and raise hay feeders off the ground so goats are not eating off contaminated soil. A loose mineral supplement with copper supports the immune system's natural ability to keep worm loads in check.
+Keep shelters clean and dry, and raise hay feeders off the ground so goats are not eating off contaminated soil. Maintaining healthy [cloven hooves through regular trimming](/posts/do-goats-have-cloven-hooves) also reduces stress and supports stronger immune function. A loose mineral supplement with copper supports the immune system's natural ability to keep worm loads in check.
 
 ## Final Thoughts
 

@@ -41,19 +41,19 @@ No, goats cannot eat any plant they come across. There are dozens of common plan
 
 Goats are browsers and they will nibble on just about anything to test it. Most of the time they are pretty good at avoiding plants that will hurt them, but not always.
 
-Hungry goats, goats new to a property, or goats with limited forage options are the most at risk. They will eat things they would normally pass up when they do not have enough good browse available. Walk your pasture and identify everything growing there before you ever turn goats out on it.
+Hungry goats, goats new to a property, or goats with limited forage options are the most at risk. They will eat things they would normally pass up when they do not have enough good browse available, which is why the myth that [goats can eat everything](/can-goats-eat-everything/) persists. Walk your pasture and identify everything growing there before you ever turn goats out on it.
 
 ## What are the plants that are poisonous to goats?
 
 Several common plants can kill a goat quickly. Rhododendron, azalea, mountain laurel, yew, and oleander are all extremely toxic, and it does not take much to cause fatal poisoning.
 
-Wilted cherry and plum leaves produce cyanide and are one of the most common causes of sudden goat death on farms. A storm that drops branches into the pasture can create a deadly situation overnight. Nightshade family plants including tomato leaves, potato leaves, and eggplant leaves contain solanine, which causes digestive and neurological problems.
+Wilted cherry and plum leaves produce cyanide and are one of the most common causes of sudden goat death on farms. A storm that drops branches into the pasture can create a deadly situation overnight. [Poison hemlock is another lethal threat](/can-goats-eat-poison-hemlock/) that every goat owner should learn to identify. Nightshade family plants including [tomato leaves](/can-goats-eat-tomatoes/), potato leaves, and eggplant leaves contain solanine, which causes digestive and neurological problems.
 
 ## What are the plants that are edible to goats?
 
-Goats thrive on a wide variety of browse including blackberry brambles, honeysuckle, willow, maple leaves, dandelions, plantain, and clover. They prefer woody browse and broadleaf plants over grass.
+Goats thrive on a wide variety of browse including blackberry brambles, [honeysuckle](/can-goats-eat-honeysuckle/), willow, maple leaves, dandelions, plantain, and clover. They prefer woody browse and broadleaf plants over grass.
 
-Legumes like clover and alfalfa are high in protein and make great forage. Brambles are a particular favorite because goats strip the leaves right off thorny canes without any trouble, and the tannins in the leaves may even help with natural parasite control.
+Legumes like clover and [alfalfa](/can-goats-eat-alfalfa/) are high in protein and make great forage. Brambles are a particular favorite because goats strip the leaves right off thorny canes without any trouble, and the tannins in the leaves may even help with natural parasite control.
 
 ## What to do if your goat eats something it shouldn't have?
 
@@ -71,4 +71,4 @@ Fence off any areas where toxic plants are growing or remove them entirely. Do n
 
 Goats eat a huge variety of plants, but they are not immune to everything out there. A few common species like rhododendron, yew, oleander, and wilted cherry leaves can kill a goat with just a few mouthfuls.
 
-The best defense is knowing what is growing in your pasture and keeping your goats away from anything dangerous. Provide plenty of good quality forage so your goats are never hungry enough to eat something they would normally avoid.
+The best defense is knowing what is growing in your pasture and keeping your goats away from anything dangerous. Provide plenty of good quality forage like [timothy hay](/can-goats-eat-timothy-hay/) so your goats are never hungry enough to eat something they would normally avoid.

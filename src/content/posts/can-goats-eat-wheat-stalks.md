@@ -43,7 +43,7 @@ Goats will nibble on wheat stalks and straw without any safety concerns. The pro
 
 Think of wheat straw like cardboard for goats. They will chew on it and it fills the rumen, but it will not keep weight on a doe in milk or a growing kid. Most goats will pick through a pile of wheat straw, eat a few bites, and then walk away looking for something better.
 
-If you toss wheat straw into the feeder as your primary forage, expect your goats to waste most of it. They are browsers by nature and they know the difference between low-value roughage and real feed.
+If you toss wheat straw into the feeder as your primary forage, expect your goats to waste most of it. They are browsers by nature, and despite what some people think about [goats eating anything](/posts/can-goats-eat-everything), they know the difference between low-value roughage and real feed.
 
 ## Wheat straw vs. Wheat hay
 
@@ -55,7 +55,7 @@ If someone offers you "wheat hay," make sure it was actually cut green. If it is
 
 ## The benefits of feeding wheat stalks to goats
 
-Wheat straw does have a place on the farm even if it is not a nutritional powerhouse. It works well as a filler alongside richer hays like alfalfa or orchard grass, and it gives goats something to chew on between meals.
+Wheat straw does have a place on the farm even if it is not a nutritional powerhouse. It works well as a filler alongside richer hays like [alfalfa](/posts/can-goats-eat-alfalfa) or orchard grass, and it gives goats something to chew on between meals.
 
 The high fiber content can actually help settle a rumen that has been thrown off by too much grain. Straw also makes excellent bedding, and goats will pick through their bedding and eat a few stalks here and there on their own terms.
 
@@ -65,15 +65,15 @@ During winter when hay prices spike, mixing wheat straw into the ration at a 20 
 
 If you are going to feed wheat straw, mix it with a higher-quality hay at about a 30/70 ratio. Chopping the stalks into 3 to 4 inch pieces and tossing them in with alfalfa keeps goats from sorting through and wasting the straw.
 
-Always check that straw is dry and free of mold before offering it. Damp straw grows mold fast, and moldy feed can cause serious digestive problems or even listeriosis. Give every bale a sniff before you break it open, and toss anything that smells musty or sour.
+Always check that straw is dry and free of mold before offering it. Damp straw grows mold fast, and [moldy feed can cause serious problems](/posts/can-goats-eat-moldy-hay) including listeriosis. Give every bale a sniff before you break it open, and toss anything that smells musty or sour.
 
-Some goat owners use wheat straw exclusively as bedding, which does double duty. The goats have a warm, dry place to sleep, and they will munch on a few stalks throughout the day without you having to manage portion sizes.
+Some goat owners use wheat straw exclusively as bedding, while others prefer [pine chips](/posts/can-pine-chips-be-used-as-bedding-for-goats) for the added absorbency. Either way, the goats have a warm, dry place to sleep, and with straw they will munch on a few stalks throughout the day without you having to manage portion sizes.
 
 ## Wheat grain as a supplement
 
 The grain itself, the actual wheat berries, can be fed to goats in small amounts as part of their concentrate ration. Whole wheat grain provides good energy and around 12 to 14 percent protein, making it a solid feed ingredient when used correctly.
 
-Too much wheat grain can cause acidosis because it ferments rapidly in the rumen, dropping the pH dangerously low. Limit wheat grain to no more than a quarter of the total grain ration and introduce it gradually over a week or two.
+Too much wheat grain can cause acidosis because it ferments rapidly in the rumen, dropping the pH dangerously low. Mixing it with safer options like [oats](/posts/can-goats-eat-oats) helps balance the ration. Limit wheat grain to no more than a quarter of the total grain ration and introduce it gradually over a week or two.
 
 Cracking or rolling the grain helps goats digest it more efficiently and get more value from each feeding. Whole berries can pass through the digestive tract without being fully broken down, so processing the grain is worth the extra step.
 

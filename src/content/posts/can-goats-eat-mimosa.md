@@ -61,25 +61,25 @@ The seed pods are the area where you want to be a bit more cautious. In large qu
 
 Mimosa (Albizia julibrissin) is a fast-growing deciduous tree originally from Asia that has naturalized throughout much of the southeastern United States. It's known for its fern-like compound leaves and showy pink, silky flower clusters that bloom in summer.
 
-As a member of the legume family (Fabaceae), mimosa foliage runs roughly 10 to 16 percent crude protein. That makes it a decent protein source as supplemental browse. The leaves are palatable and most goats eat them willingly, which is more than you can say for some tree species.
+As a member of the legume family (Fabaceae), mimosa foliage runs roughly 10 to 16 percent crude protein, comparable to [timothy hay](/can-goats-eat-timothy-hay/). That makes it a decent protein source as supplemental browse. The leaves are palatable and most goats eat them willingly, which is more than you can say for some tree species.
 
 ## How much mimosa can goats eat?
 
 There's no need to strictly ration mimosa leaves for your goats. As part of normal browsing alongside other forage, goats can eat mimosa freely.
 
-The key, as with any browse, is variety. Mimosa shouldn't be the only thing your goats are eating. Make sure they have access to quality hay, fresh water, and minerals in addition to whatever browse is available. A balanced diet with diverse forage is always the goal.
+The key, as with any browse, is variety. Mimosa shouldn't be the only thing your goats are eating. Make sure they have access to quality [hay](/what-kind-of-hay-do-goats-eat/), fresh water, and minerals in addition to whatever browse is available. A balanced diet with diverse forage is always the goal.
 
 ## What are the hazards of feeding goats mimosa?
 
 The hazards are relatively minor with mimosa compared to truly toxic plants. The seeds and pods are the only part that could potentially cause issues, and even then, only in large quantities.
 
-If a goat eats a large number of mimosa seed pods, it might experience mild digestive upset like loose stools or temporary decreased appetite. This usually resolves on its own within a day or two. Mimosa is not a highly toxic plant for goats, and the risk is nowhere near what you'd face with something like poison hemlock or cherry leaves.
+If a goat eats a large number of mimosa seed pods, it might experience mild digestive upset like loose stools or temporary decreased appetite. This usually resolves on its own within a day or two. Mimosa is not a highly toxic plant for goats, and the risk is nowhere near what you'd face with something like [poison hemlock](/can-goats-eat-poison-hemlock/) or cherry leaves.
 
 ## How can you prevent the hazards of feeding goats mimosa?
 
 If you're concerned about the seed pods, you can rake them up from under the tree periodically during fall when they drop. This is a simple way to reduce any potential risk.
 
-Beyond that, there's not much you need to do. Make sure your goats have plenty of other browse and forage available so they're not relying heavily on any single plant. A well-fed goat with diverse options will naturally regulate its intake of any one species.
+Beyond that, there's not much you need to do. Make sure your goats have plenty of other browse and forage available so they're not relying heavily on any single plant. A well-fed goat with diverse options, from [blackberry](/can-goats-eat-blackberries/) brambles to pine trees, will naturally regulate its intake of any one species.
 
 ## What are the treatments for feeding goats mimosa?
 
@@ -91,7 +91,7 @@ Most goats bounce back from mild digestive upset within 24 to 48 hours. If a goa
 
 Mimosa doesn't need to be replaced since it's a safe browse option. But if you want to plant additional browse trees for your goats, there are lots of good choices.
 
-Willow is excellent and goats love it. Mulberry trees produce leaves that goats find irresistible, plus the fruit is safe for them. Alfalfa hay provides a similar protein punch to mimosa foliage if you're looking for a high-protein feed option. Blackberry and raspberry canes are also great browse that most goats will devour.
+Willow is excellent and goats love it. Mulberry trees produce leaves that goats find irresistible, plus the fruit is safe for them. [Alfalfa hay](/can-goats-eat-alfalfa/) provides a similar protein punch to mimosa foliage if you're looking for a high-protein feed option. Blackberry and raspberry canes are also great browse that most goats will devour.
 
 ## Final Thoughts
 

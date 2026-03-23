@@ -47,25 +47,25 @@ This climbing ability isn't just showing off. Steep terrain is their primary def
 
 ## What are mountain goats, really?
 
-Despite the name, mountain goats aren't true goats at all. They belong to the genus Oreamnos and are more closely related to antelopes and chamois than to the domestic goats you'd find on a farm.
+Despite the name, mountain goats aren't true goats at all. They belong to the genus Oreamnos and are more closely related to antelopes and chamois than to the domestic goats you'd find on a farm. Domestic goats can still be impressive climbers too, and many people wonder [whether they can climb trees](/can-a-goat-climb-trees).
 
-They're native to North America, found across the Rocky Mountains, Cascades, and parts of Alaska. Adults weigh between 100 and 300 pounds and sport thick, woolly white coats that insulate them against brutal alpine winters. Both males and females grow black, slightly curved horns that they keep for life.
+They're native to North America, found across the Rocky Mountains, Cascades, and parts of Alaska. Adults weigh between 100 and 300 pounds and sport thick, woolly white coats that insulate them against brutal alpine winters. Both males and females grow black, slightly curved horns that they keep for life. For a closer look at domestic goat anatomy, you might find it interesting to learn [whether goats have teeth](/do-goats-have-teeth) and how their dental structure differs.
 
 ## How their hooves make it possible
 
 The real secret to their climbing is in their hooves. Each hoof is split into two toes that can spread apart and move independently, giving the goat a wider, more flexible base on narrow ledges.
 
-The bottom of each hoof has a rough, rubbery inner pad that grips rock the way a good hiking boot sole does. The outer edges are hard and sharp, digging into ice and cracks for extra traction. This combination of soft center and hard edge is something no man-made climbing shoe has fully replicated.
+The bottom of each hoof has a rough, rubbery inner pad that grips rock the way a good hiking boot sole does. Some people also wonder [whether mountain goats can dig notches out of rocks](/can-mountian-goats-dig-noches-out-of-rocks), but their hooves are designed for gripping, not carving. The outer edges are hard and sharp, digging into ice and cracks for extra traction. This combination of soft center and hard edge is something no man-made climbing shoe has fully replicated.
 
 ## Where mountain goats live and what they eat
 
 Mountain goats spend most of their time at elevations between 8,000 and 13,000 feet. They prefer areas with rocky outcrops and steep cliffs where they can escape predators quickly.
 
-Their diet consists mostly of grasses, sedges, herbs, and lichens found in alpine meadows. During winter, they move to lower elevations and wind-swept ridges where snow is thinner and food is easier to reach. They're built to handle the cold, but finding enough calories during long mountain winters is always a challenge.
+Their diet consists mostly of grasses, sedges, herbs, and lichens found in alpine meadows. Domestic goats have a broader palate, and many owners wonder [whether goats can eat alfalfa](/can-goats-eat-alfalfa) as a staple hay. During winter, they move to lower elevations and wind-swept ridges where snow is thinner and food is easier to reach. They're built to handle the cold, but finding enough calories during long mountain winters is always a challenge.
 
 ## How young mountain goats learn to climb
 
-Mountain goat kids start practicing on rocky terrain within days of being born. Their mothers guide them to progressively steeper surfaces over the first few weeks, and the kids follow closely behind.
+Mountain goat kids start practicing on rocky terrain within days of being born. Their mothers guide them to progressively steeper surfaces over the first few weeks, and the kids follow closely behind. On the domestic side, understanding [how many babies goats have at a time](/how-many-babies-do-goats-have-at-a-time) helps breeders prepare for the demands of raising kids.
 
 By a few months old, the young goats can handle ledges that would make most humans dizzy. This learning period is critical to survival since cliffs are their main escape route from predators. Kids that fall during this stage rarely survive, which is one reason mountain goat populations grow slowly compared to other large mammals.
 

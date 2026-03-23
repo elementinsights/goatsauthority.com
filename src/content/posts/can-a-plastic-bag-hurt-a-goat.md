@@ -43,13 +43,13 @@ If your goats have access to areas where plastic can blow in or get left behind,
 
 Goats are curious animals that chew on just about anything they come across. Plastic bags, baling twine, feed sacks, and plastic wrap are all fair game in a goat's mind.
 
-The problem is that goats can't digest plastic. Unlike the plant fiber their rumen is built to break down, plastic just sits there. A swallowed plastic bag can ball up in the rumen or intestines and create a blockage that stops food from passing through. Left untreated, a blockage like that can be fatal.
+The problem is that goats can't digest plastic. Unlike the plant fiber their [multi-chambered stomach](/how-many-stomachs-do-goats-have/) is built to break down, plastic just sits there. A swallowed plastic bag can ball up in the rumen or intestines and create a blockage that stops food from passing through. Left untreated, a blockage like that can be fatal.
 
 ## Signs your goat has eaten plastic
 
 The tricky part is that symptoms don't always show up right away. A goat might swallow a piece of plastic bag and seem perfectly fine for a day or two before things go downhill.
 
-Watch for loss of appetite, bloating, straining to pass manure, grinding teeth (a sign of pain), and general depression or lethargy. If your goat suddenly stops eating and her belly looks distended, that's a red flag. Check her mouth for any remaining bits of plastic stuck to her teeth or gums.
+Watch for loss of appetite, bloating, straining to pass manure, grinding teeth (a sign of pain), and general depression or lethargy. Knowing [how to debloat a goat](/can-you-debloat-a-goat/) is essential if distension develops quickly. If your goat suddenly stops eating and her belly looks distended, that's a red flag. Check her mouth for any remaining bits of plastic stuck to her [teeth](/do-goats-have-teeth/) or gums.
 
 ## Can a plastic bag kill a goat?
 
@@ -61,13 +61,13 @@ Plastic bags can also cause choking if a goat tries to swallow a large piece. Ba
 
 First, check the mouth and remove any plastic you can reach. Don't try to pull anything that's already been partially swallowed, as you could cause more damage.
 
-Call your vet right away. They may want to examine the goat and potentially take an X-ray to see if there's a blockage forming. In some cases, the goat can pass small pieces on her own. But if she stops eating, shows signs of pain, or develops bloat within the next 48 hours, surgery may be the only option.
+Call your vet right away. They may want to examine the goat and potentially take an X-ray to see if there's a blockage forming. You can offer [Pepto Bismol for mild stomach upset](/can-i-give-my-goat-pepto-bismol/) while waiting for the vet, but don't delay the call. In some cases, the goat can pass small pieces on her own. But if she stops eating, shows signs of pain, or develops bloat within the next 48 hours, surgery may be the only option.
 
 ## How to keep plastic away from your goats
 
 Prevention is the whole game here. Walk your pastures and pens regularly to pick up any plastic bags, feed sacks, or baling twine that might have blown in or been left behind.
 
-Store all feed in goat-proof containers in a separate area. Use hay nets or feeders instead of leaving bales wrapped in plastic where goats can reach the wrapping. If your property borders a road or neighbors who aren't careful with their trash, consider adding a fence line that blocks windblown debris from reaching your goat areas.
+Store all feed in goat-proof containers in a separate area, and keep [dewormer pellets](/can-a-goat-eat-too-many-dewormer-pellets/) locked up too since goats will gorge on those as well. Use hay nets or feeders instead of leaving bales wrapped in plastic where goats can reach the wrapping. If your property borders a road or neighbors who aren't careful with their trash, consider adding a fence line that blocks windblown debris from reaching your goat areas.
 
 ## Final Thoughts
 

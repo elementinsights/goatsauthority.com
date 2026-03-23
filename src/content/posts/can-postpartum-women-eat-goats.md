@@ -43,7 +43,7 @@ Cultures around the world have been feeding goat meat to new mothers for centuri
 
 Yes, goat meat is completely safe and very nutritious for postpartum women. It's high in iron and protein, which are two nutrients that new mothers need most after delivery.
 
-A 3-ounce serving of cooked goat meat has roughly 122 calories and 2.6 grams of fat. Compare that to beef at 179 calories and 7.9 grams of fat for the same serving size. That lower fat content means less strain on a digestive system that's still recovering from childbirth.
+A 3-ounce serving of cooked goat meat has roughly 122 calories and 2.6 grams of fat. Compare that to beef at 179 calories and 7.9 grams of fat for the same serving size. Starting babies on goat dairy is also beneficial, and [infants can eat goat cheese](/can-infants-eat-goat-cheese) once they begin solid foods. That lower fat content means less strain on a digestive system that's still recovering from childbirth.
 
 ## Nutritional benefits for new mothers
 
@@ -51,13 +51,13 @@ Iron is the big one. Many women are iron-deficient after delivery due to blood l
 
 Goat meat has more iron per serving than chicken, making it a strong choice for rebuilding iron stores naturally. The protein content supports tissue repair and helps your body heal from delivery.
 
-Goat milk is also worth considering for postpartum nutrition. It's easier to digest than cow milk, higher in calcium, and many women who have trouble with cow milk find they tolerate goat milk just fine.
+Goat milk is also worth considering for postpartum nutrition. It's easier to digest than cow milk, higher in calcium, and many women who have trouble with cow milk find they tolerate goat milk just fine. If you have a cow milk allergy, [goat milk may be a safe alternative](/can-someone-allergic-to-milk-use-goats-milk) depending on the type of sensitivity.
 
 ## Traditional postpartum goat dishes around the world
 
 In many West African countries, new mothers are served pepper soup made with goat meat within hours of giving birth. The spicy broth is believed to help contract the uterus and stimulate milk production.
 
-In the Caribbean, curried goat is a common postpartum meal. The turmeric in the curry has anti-inflammatory properties that may support healing after delivery.
+In the Caribbean, curried goat is a common postpartum meal. The turmeric in the curry has anti-inflammatory properties that may support healing after delivery. [Kabuli palao made with goat](/can-kabuli-palao-be-made-with-goat) is another traditional dish that is perfect for recovery nutrition.
 
 Chinese postpartum traditions sometimes include goat bone soup cooked with goji berries and dates. South Asian cultures serve goat stews with warming spices like ginger, garlic, and black pepper. These traditions exist because generations of mothers found real benefit in goat meat after childbirth.
 
@@ -67,13 +67,13 @@ Slow cooking is the best approach for postpartum meals. A slow-cooked goat stew 
 
 Avoid deep frying or heavy seasoning. Fried goat can trigger heartburn and digestive discomfort, especially if you're breastfeeding. Keep it simple with salt, garlic, ginger, and a little black pepper.
 
-Goat bone broth is another excellent option. It's rich in collagen and minerals that support tissue repair after delivery. Sip it warm between meals or use it as a base for soups. If cooking feels impossible in those first weeks, ask a family member to prepare a big batch of stew that you can reheat throughout the week.
+Goat bone broth is another excellent option. It's rich in collagen and minerals that support tissue repair after delivery. [Goat liver is also safe to eat](/can-we-eat-goat-liver) and provides concentrated iron that is ideal for postpartum recovery. Sip it warm between meals or use it as a base for soups. If cooking feels impossible in those first weeks, ask a family member to prepare a big batch of stew that you can reheat throughout the week.
 
 ## Food safety tips
 
 Cook goat meat thoroughly to an internal temperature of at least 160 degrees Fahrenheit. Undercooked meat carries a risk of foodborne illness that's especially dangerous for women whose immune systems are still recovering from childbirth.
 
-Buy your goat meat from a trusted butcher or farm. Store it properly in the refrigerator or freezer, and don't leave cooked meat sitting out for more than 2 hours.
+Buy your goat meat from a trusted butcher or farm. Store it properly in the refrigerator or freezer, and don't leave cooked meat sitting out for more than 2 hours. If you raise your own goats, even [Nigerian Dwarf goats can be used for meat](/can-nigerian-dwarf-goats-be-used-for-meat) on a small homestead.
 
 Wash your hands after handling raw meat, and use separate cutting boards for raw meat and other foods. These basics apply to all meat, not just goat.
 

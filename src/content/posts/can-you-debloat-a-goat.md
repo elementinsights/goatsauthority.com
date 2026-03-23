@@ -50,7 +50,7 @@ Bloat is one of the scariest emergencies in goat keeping because it can kill wit
 
 Yes, bloat is treatable. There are two types, and knowing which one you're dealing with determines the treatment.
 
-Frothy bloat happens when gas gets trapped in foam inside the rumen, usually from too much lush pasture, clover, or grain. Free gas bloat occurs when gas builds up but can't escape, often due to an obstruction or the goat being unable to belch.
+Frothy bloat happens when gas gets trapped in foam inside the rumen, usually from too much lush pasture, clover, or grain. Understanding how the goat's [four stomach compartments](/posts/how-many-stomachs-do-goats-have) work together helps you see why bloat is so dangerous. Free gas bloat occurs when gas builds up but can't escape, often due to an obstruction or the goat being unable to belch.
 
 ## What is the best way to debloat a goat?
 
@@ -62,7 +62,7 @@ For free gas bloat, pass a stomach tube to release the trapped gas directly. If 
 
 The clearest sign is a swollen left flank that feels drum-tight and sounds hollow when you thump it. The goat may be restless, grinding her teeth, kicking at her belly, or standing with front legs uphill trying to relieve pressure.
 
-In severe cases, the goat will struggle to breathe, her gums may turn bluish, and she may go down. If you see these signs, start treatment immediately and call your vet.
+In severe cases, the goat will struggle to breathe, her gums may turn bluish, and she may go down. Checking the color of the [lower eyelid is a useful health indicator](/posts/can-you-deworm-a-pregnant-goat) that works for spotting several different conditions. If you see these signs, start treatment immediately and call your vet.
 
 ## What to do after debloating your goat?
 
@@ -78,7 +78,7 @@ Simethicone, the same infant gas drops you'd find at the pharmacy, works well on
 
 ## How often should I debloat my goat?
 
-Bloat should not be a regular thing. If it keeps happening, something in your management needs to change.
+Bloat should not be a regular thing. If it keeps happening, something in your management needs to change, and the goat's [teeth should be checked](/posts/do-goats-have-teeth) to make sure it is chewing cud properly.
 
 Introduce new pastures gradually over a week or two instead of turning goats out onto lush fields all at once. Limit grain to measured amounts twice daily, and never let goats gorge on concentrate feeds. Prevention is always easier than treatment.
 
@@ -86,13 +86,13 @@ Introduce new pastures gradually over a week or two instead of turning goats out
 
 Call your vet immediately if the goat is severely distended, having trouble breathing, or has gone down. These signs mean the bloat has hit a life-threatening stage. Don't wait to see if home remedies work first in these situations.
 
-For mild cases you've treated successfully at home, a follow-up vet visit within a day or two is still smart. The vet can check for underlying issues like a rumen obstruction or displaced abomasum that may have triggered the bloat.
+For mild cases you have treated successfully at home, a follow-up vet visit within a day or two is still smart. Be aware of the [zoonotic risks of handling sick goats](/posts/can-you-catch-diseases-from-goats) and always wash your hands after drenching. The vet can check for underlying issues like a rumen obstruction or displaced abomasum that may have triggered the bloat.
 
 ## Can you debloat all kinds of goats?
 
 Bloat affects any breed, age, or sex of goat. Dairy goats, meat goats, fiber goats, kids, and adults are all susceptible.
 
-Young kids transitioning from milk to solid feed are particularly vulnerable because their rumens are still developing. Adjust your oil and simethicone doses based on the goat's body weight, and keep your vet's number handy for severe cases.
+Young kids transitioning from milk to solid feed are particularly vulnerable because their rumens are still developing, and overdosing any treatment at this stage, whether it is [penicillin](/posts/can-too-much-penicillin-given-to-baby-goat-die) or simethicone, carries greater risk. Adjust your oil and simethicone doses based on the goat's body weight, and keep your vet's number handy for severe cases.
 
 ## Final Thoughts
 

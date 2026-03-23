@@ -50,7 +50,7 @@ The key to good-tasting frozen goat milk is speed. The faster you cool it down a
 
 ## What is goat's milk and what are its benefits?
 
-Goat milk has a higher fat content and lower lactose levels than cow milk, which makes it easier to digest for a lot of folks. It's a solid source of protein, calcium, potassium, and vitamins A and B2.
+Goat milk has a higher fat content and lower lactose levels than cow milk, which makes it easier to digest for a lot of folks. It's a solid source of protein, calcium, potassium, and vitamins A and B2. Dairy goats are one of the best ways [goats can make money](/posts/can-goats-make-money) for a small homestead.
 
 The fat globules in goat milk are smaller than in cow milk, so your body absorbs them more easily. Many people who struggle with cow milk find they handle goat milk without any issues.
 
@@ -58,7 +58,7 @@ The fat globules in goat milk are smaller than in cow milk, so your body absorbs
 
 Use clean glass mason jars or BPA-free plastic containers. Leave about an inch of headspace at the top since the milk expands as it freezes, and a too-full jar will crack.
 
-Freeze in portions you'll actually use — quart jars work great for most families. Freezer bags laid flat are another option that saves space and thaws faster.
+Freeze in portions you'll actually use — quart jars work great for most families. Understanding [where Kiko goats originated](/posts/where-did-kiko-goats-originate) and other breed histories helps you pick the right dairy breed. Freezer bags laid flat are another option that saves space and thaws faster.
 
 Label every container with the freeze date so you can rotate your stock and use the oldest milk first. Thaw in the refrigerator, never in the microwave, since microwaving kills beneficial bacteria and heats unevenly.
 
@@ -78,15 +78,15 @@ If you're using freezer bags, squeeze out as much air as possible before sealing
 
 Thawed goat milk works perfectly fine for drinking, cooking, baking, cheese-making, and soap-making. The flavor may be slightly different from fresh milk, but most people can't tell the difference in recipes.
 
-If the taste bothers you for drinking straight, use thawed milk in smoothies, soups, or baked goods where other flavors cover it. Don't refreeze milk after thawing — use it within 24 hours for the best quality.
+If the taste bothers you for drinking straight, use thawed milk in smoothies, soups, or baked goods where other flavors cover it. Does that produce the richest milk need a strong diet including [alfalfa](/posts/can-goats-eat-alfalfa) and quality feed. Don't refreeze milk after thawing — use it within 24 hours for the best quality.
 
 ## Are there any benefits to drinking frozen goat's milk?
 
 The nutritional profile stays largely intact through freezing. You still get all the protein, calcium, and vitamins that fresh milk provides.
 
-Freezing is also the best way to build a stockpile for the months when your does aren't producing. A chest freezer dedicated to milk storage pays for itself fast if you're milking daily during peak season.
+Freezing is also the best way to build a stockpile for the months when your does aren't producing. Does that [nurse multiple kids](/posts/how-many-babies-do-goats-have-at-a-time) may have less surplus milk to freeze. A chest freezer dedicated to milk storage pays for itself fast if you're milking daily during peak season.
 
-Many homesteaders freeze goat milk in ice cube trays for soap-making. The small frozen cubes are perfect for cold-process soap since the lye reacts more slowly with frozen milk and prevents the sugars from scorching.
+Many homesteaders freeze goat milk in ice cube trays for soap-making, which is yet another way to [earn income from your goats](/posts/can-goats-make-money). The small frozen cubes are perfect for cold-process soap since the lye reacts more slowly with frozen milk and prevents the sugars from scorching.
 
 ## Final Thoughts
 

@@ -45,7 +45,7 @@ Supernumerary teats, which are extra teats beyond the standard pair, are actuall
 
 ## What extra teats mean for dairy goats
 
-In dairy breeds, extra teats are considered a fault. They interfere with machine milking because the milking cup can't get a proper seal when there's a stray teat in the way.
+In dairy breeds, extra teats are considered a fault. They interfere with machine milking because the milking cup cannot get a proper seal when there is a stray teat in the way, and this poor seal also increases the risk of [mastitis infections](/posts/can-you-drink-milk-from-goats-with-mastitis).
 
 Many dairy farmers have a vet clip off extra teats when kids are just a few days old. It's a quick snip at that age and prevents problems once the doe enters the milking string later on. If you're buying dairy kids, always check teat structure before you hand over money.
 
@@ -53,21 +53,21 @@ Many dairy farmers have a vet clip off extra teats when kids are just a few days
 
 Not all teats are built the same, and if you plan to milk by hand, the shape matters more than you'd think. Teats that point straight down are ideal because your hand wraps around them naturally and you can get into a steady rhythm.
 
-Teats that point outward or forward are a headache. You'll tire out faster, and the doe will get antsy while you fumble around trying to get a grip. Teat size is another factor, especially with small breeds like Nigerian Dwarfs where the teats can be too tiny for big hands.
+Teats that point outward or forward are a headache. You'll tire out faster, and the doe will get antsy while you fumble around trying to get a grip. Teat size is another factor, especially with small breeds like Nigerian Dwarfs where the teats can be too tiny for big hands. Understanding a doe's full [udder anatomy and conformation](/posts/do-goats-have-udders) helps you evaluate milking potential before you buy.
 
 ## What are some common problems with goat nursing?
 
 Mastitis is the big one. It's a bacterial infection of the udder that causes swelling, heat, and sometimes clumpy or off-colored milk. If you catch it early and start treatment, most does recover fine.
 
-Poor milk production is another common complaint, and it usually comes down to nutrition. A doe that isn't getting enough calories, protein, or water simply can't produce the volume of milk she's capable of. Making sure your milking does are on a quality grain ration and have unlimited access to fresh water fixes most production issues.
+Poor milk production is another common complaint, and it usually comes down to nutrition. A doe that is not getting enough calories, protein, or water simply cannot produce the volume of milk she is capable of. Ensuring her [four-compartment digestive system](/posts/how-many-stomachs-do-goats-have) is functioning well through proper feeding is the foundation of good milk production. Making sure your milking does are on a quality grain ration and have unlimited access to fresh water fixes most production issues.
 
-Cracked and chapped teats are another common issue, especially in winter. Dry, cracked skin creates an entry point for the bacteria that cause mastitis in the first place. A good teat balm or bag balm after each milking keeps the skin supple and helps prevent infections.
+Cracked and chapped teats are another common issue, especially in winter when the [hooves also need extra attention](/posts/do-goats-have-cloven-hooves) due to wet conditions. Dry, cracked skin creates an entry point for the bacteria that cause mastitis in the first place. A good teat balm or bag balm after each milking keeps the skin supple and helps prevent infections.
 
 ## How to keep teats healthy year-round
 
 After every milking, dip each teat in a teat dip solution for about 30 seconds and let it air dry. You can buy commercial teat dip or make your own with diluted iodine. This simple step creates a barrier that keeps bacteria and flies out.
 
-In summer, flies are attracted to the moisture around the teat opening. In winter, the cold dries and cracks the skin. Either way, the post-milking routine stays the same: dip, dry, and apply balm if needed.
+In summer, flies are attracted to the moisture around the teat opening. In winter, the cold dries and cracks the skin, and you should also be aware that [deworming your milking does](/posts/can-you-deworm-a-pregnant-goat) requires careful attention to withdrawal periods before consuming the milk. Either way, the post-milking routine stays the same: dip, dry, and apply balm if needed.
 
 ## Final Thoughts
 

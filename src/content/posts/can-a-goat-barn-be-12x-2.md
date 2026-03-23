@@ -48,11 +48,11 @@ You need at least 15 to 20 square feet per goat for sleeping and shelter space. 
 
 A good barn protects your goats from rain, wind, snow, and extreme sun. Goats hate getting wet more than almost anything, and a dry shelter keeps them from developing respiratory problems and foot rot.
 
-The barn also gives them a safe place to sleep away from predators. Even if you have good fencing around your property, a solid shelter at night adds another layer of protection against coyotes, dogs, and other threats.
+The barn also gives them a safe place to sleep away from predators. Even if you have good fencing around your property, goats are notorious for [climbing over fences](/can-goats-climb-fences/), so a solid shelter at night adds another layer of protection against coyotes, dogs, and other threats.
 
 ## What factors go into deciding how big a goat barn needs to be?
 
-Start with the number of goats you have and plan 15 to 20 square feet per standard-sized goat. For smaller breeds like Nigerian Dwarfs and Pygmies, you can get away with 10 to 15 square feet each.
+Start with the number of goats you have and plan 15 to 20 square feet per standard-sized goat. If you're considering [getting a goat as a pet](/can-i-buy-a-goat-as-a-pet/), plan the barn size before you bring one home. For smaller breeds like Nigerian Dwarfs and Pygmies, you can get away with 10 to 15 square feet each.
 
 A 12x12 foot barn (144 square feet) is a solid starting point for a small herd of 4 to 6 goats. Make the barn wide enough for goats to lie down side by side and still leave room for you to walk through for feeding and cleaning.
 
@@ -66,13 +66,13 @@ A three-sided shelter works well in mild climates. Face the open side away from 
 
 Every barn needs a hay feeder mounted off the ground, a water bucket or trough, and a mineral feeder with loose goat minerals. Hay feeders should be the keyhole type or mounted at chest height to keep goats from wasting half their hay on the floor.
 
-Use straw, wood shavings, or pine pellets for bedding. Deep bedding can be built up over winter and cleaned out in spring, which actually generates a small amount of heat as it composts underneath the top layer.
+Use straw, wood shavings, or [pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats/). Deep bedding can be built up over winter and cleaned out in spring, which actually generates a small amount of heat as it composts underneath the top layer.
 
 ## How often should I clean my goat barn?
 
-Pick out wet spots and manure piles daily. A full cleanout depends on your bedding system, but once a week is a good rule for most small barns.
+Pick out wet spots and manure piles daily, and the waste makes [excellent garden fertilizer](/can-goat-poop-be-used-as-fertilizer/) once composted. A full cleanout depends on your bedding system, but once a week is a good rule for most small barns.
 
-If you use the deep litter method, you add fresh bedding on top and only do a full cleanout a few times a year. This works well in colder climates because the composting bedding produces warmth, but you need to watch for ammonia buildup and add more bedding whenever you start to smell it.
+If you use the deep litter method, you add fresh bedding on top and only do a full cleanout a few times a year. Having [pine trees nearby in the pen](/can-a-goat-pen-have-pine-trees-in-it/) provides natural shade and windbreak to complement the barn. This works well in colder climates because the composting bedding produces warmth, but you need to watch for ammonia buildup and add more bedding whenever you start to smell it.
 
 ## Final Thoughts
 

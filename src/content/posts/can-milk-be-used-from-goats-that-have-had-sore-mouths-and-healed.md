@@ -43,7 +43,7 @@ But there are some important things to understand about timing and safety before
 
 Yes, once a goat has completely healed from sore mouth, the milk is safe for human consumption. Orf is a skin virus that causes blisters and scabs around the mouth, nose, and sometimes the udder and teats.
 
-The virus itself doesn't get into the milk supply. It stays in the skin tissues and scabs. Once those scabs have fallen off naturally and the skin underneath looks healthy and smooth, the milk is fine.
+The virus itself doesn't get into the milk supply. It stays in the skin tissues and scabs. This is different from medications like [ibuprofen, which does pass into the milk](/can-ibuprofen-be-given-to-lactating-goats) and requires a withdrawal period. Once those scabs have fallen off naturally and the skin underneath looks healthy and smooth, the milk is fine.
 
 ## What is sore mouth and why does it matter for milking?
 
@@ -51,7 +51,7 @@ Sore mouth is caused by a parapoxvirus, not a bacteria. It spreads through direc
 
 The reason it matters for dairy goat owners is that lesions can form on the udder and teats. When a doe has active sores on her teats, milking is painful for her and the scabs can harbor bacteria that contaminate the milk.
 
-While the sores are active, you should not use that milk for drinking. The scabs crack and bleed during milking, and secondary bacterial infections are common in those open wounds.
+While the sores are active, you should not use that milk for drinking. The scabs crack and bleed during milking, and secondary bacterial infections are common in those open wounds. Handling infected udders also raises the risk of [developing cellulitis from a goat with mastitis](/can-someone-get-cellulitis-from-a-goat-with-mastitis).
 
 ## When is it safe to start using the milk again?
 
@@ -59,13 +59,13 @@ Wait until all the scabs have fallen off on their own and the skin is fully heal
 
 Most cases of sore mouth resolve within 3 to 4 weeks. Give it another week or two after the last scab falls off before you use the milk for human consumption, just to be safe.
 
-During the healing period, keep milking the doe on her regular schedule to maintain production. Dump the milk or feed it to kids that have already been exposed and are building immunity.
+During the healing period, keep milking the doe on her regular schedule to maintain production. Dump the milk or feed it to kids that have already been exposed and are building immunity. A doe that is losing condition during this time may benefit from [Nutri-Drench supplementation](/can-nutri-drench-be-given-to-lactating-goats) to keep her energy up.
 
 ## Pasteurization and extra safety measures
 
 If you want an extra layer of protection, pasteurize the milk from a recently healed doe. Heat it to 145 degrees Fahrenheit and hold it there for 30 minutes using a double boiler setup.
 
-This kills the parapoxvirus along with most other harmful organisms. Let the milk cool quickly in an ice bath before refrigerating.
+This kills the parapoxvirus along with most other harmful organisms. Let the milk cool quickly in an ice bath before refrigerating. You can also [freeze goat milk](/can-goats-milk-be-frozen) in portions for later use once you are confident the supply is clean.
 
 Raw milk fans might not love hearing this, but pasteurization is the responsible call when you're dealing with milk from a goat that recently had an active infection.
 
@@ -73,9 +73,9 @@ Raw milk fans might not love hearing this, but pasteurization is the responsible
 
 Sore mouth is zoonotic, which means you can catch it from your goats. It shows up on humans as painful blisters on the hands and fingers, and it's no fun at all.
 
-Wear latex or nitrile gloves every time you milk a goat with active orf lesions. Wash your hands thoroughly after handling any infected animal, even if you wore gloves.
+Wear latex or nitrile gloves every time you milk a goat with active orf lesions. Wash your hands thoroughly after handling any infected animal, even if you wore gloves. Applying [Neosporin to minor cuts on your hands](/can-i-put-neosporin-on-my-goats) before they heal also reduces the risk of infection during milking.
 
-The virus can live in dried scabs on the ground and on equipment for months. Disinfect your milking supplies, stanchion, and any surfaces the infected goat touches regularly.
+The virus can live in dried scabs on the ground and on equipment for months. Diseases like [pink eye can also spread through contaminated equipment](/can-pink-eye-in-goats-be-transmitted-to-cattle), so disinfection is a year-round habit worth maintaining. Disinfect your milking supplies, stanchion, and any surfaces the infected goat touches regularly.
 
 ## Final Thoughts
 

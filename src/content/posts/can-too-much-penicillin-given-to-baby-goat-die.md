@@ -42,13 +42,13 @@ Yes, too much penicillin can kill a baby goat. Penicillin is one of the most com
 
 It absolutely can. Overdosing on penicillin can cause seizures, respiratory distress, and anaphylactic shock in baby goats, any of which can be fatal.
 
-Baby goats are small, and even a slight miscalculation in dosage can push them over the edge. This is why weighing the kid before every treatment is not optional. Guessing weight by looking at a kid is how overdoses happen.
+Baby goats are small, and even a slight miscalculation in dosage can push them over the edge. This is why weighing the kid before every treatment is not optional, especially since [goats have four stomach compartments](/posts/how-many-stomachs-do-goats-have) that process medications differently than single-stomached animals. Guessing weight by looking at a kid is how overdoses happen.
 
 ## Proper dosage and how to give it
 
 The standard dose of Procaine Penicillin G for goats is 1 ml per 10 pounds of body weight, given intramuscularly. Treatments should be given every 12 hours for a minimum of five days, even if the kid seems better after a couple of days.
 
-Stopping the antibiotic early is one of the most common mistakes new goat owners make. It does not just let the infection come back stronger; it also contributes to antibiotic resistance that makes future treatments less effective.
+Stopping the antibiotic early is one of the most common mistakes new goat owners make. It does not just let the infection come back stronger; it also contributes to antibiotic resistance that makes future treatments less effective, which is a problem when you may also need to [deworm a pregnant doe](/posts/can-you-deworm-a-pregnant-goat) down the road.
 
 Use a clean 20-gauge needle and inject into the muscle of the rear leg or the neck. Rotate injection sites each time to reduce the chance of abscesses forming.
 
@@ -58,13 +58,13 @@ Watch the kid closely for the first 30 minutes after each injection. Swelling at
 
 Any of these signs mean you need to stop treatment and call your vet immediately. Do not try to wait it out because minutes matter when a baby goat is reacting badly to an antibiotic.
 
-An allergic reaction can happen on the first dose or the fifth dose, so never assume a kid that tolerated penicillin yesterday will be fine today. Keep epinephrine on hand in case of anaphylaxis.
+An allergic reaction can happen on the first dose or the fifth dose, so never assume a kid that tolerated penicillin yesterday will be fine today. Keep epinephrine on hand in case of anaphylaxis, and know how to [recognize other diseases goats can carry](/posts/can-you-catch-diseases-from-goats) while treating them.
 
 ## Keeping a medication log
 
 Write down the date, time, dosage, and which kid received the injection every single time. A simple notebook hung on a nail in the barn works perfectly for this.
 
-On a busy farm with multiple sick kids, it is easy to accidentally double-dose because you forgot you already treated one earlier that morning. This happens more often than people admit, and it is completely preventable with a written log.
+On a busy farm with multiple sick kids, it is easy to accidentally double-dose because you forgot you already treated one earlier that morning. This happens more often than people admit and is completely preventable with a written log, similar to how you should track [ivermectin dosing carefully](/posts/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats) to avoid dangerous overlaps.
 
 Snap a photo of each entry with your phone as a backup. If your vet needs treatment records later, you will have them ready.
 
@@ -72,9 +72,9 @@ Snap a photo of each entry with your phone as a backup. If your vet needs treatm
 
 If a kid has a known allergy to penicillin, other antibiotics like oxytetracycline or sulfa drugs can be used instead. Your vet can recommend the right alternative based on what infection you are treating.
 
-Not every illness requires an antibiotic in the first place. Viral infections will not respond to penicillin at all, so giving it "just in case" wastes money and puts the kid at unnecessary risk.
+Not every illness requires an antibiotic in the first place. Viral infections will not respond to penicillin at all, so giving it "just in case" wastes money and puts the kid at unnecessary risk. Something like [bloat requires a completely different treatment approach](/posts/can-you-debloat-a-goat) that no antibiotic will fix.
 
-Always get a diagnosis before reaching for the medicine cabinet. A quick call to your vet can save you from treating the wrong problem with the wrong drug.
+Always get a diagnosis before reaching for the medicine cabinet. A quick call to your vet can save you from treating the wrong problem with the wrong drug, and healthy [cloven hooves](/posts/do-goats-have-cloven-hooves) combined with bright eyelids are two quick checks you can do before picking up the phone.
 
 ## Final thoughts
 

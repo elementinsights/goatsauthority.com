@@ -58,7 +58,7 @@ If someone is selling you straw and calling it hay, walk away. The color alone t
 
 ## When Straw Has a Place
 
-Straw makes excellent bedding for goat shelters. It's absorbent, cheap, widely available, and goats don't find it appetizing enough to eat large quantities of their bedding.
+Straw makes excellent bedding for goat shelters, alongside options like [pine chips](/posts/can-pine-chips-be-used-as-bedding-for-goats). It's absorbent, cheap, widely available, and goats don't find it appetizing enough to eat large quantities of their bedding.
 
 Some goat keepers use straw as a roughage filler alongside quality hay, especially during winter when hay supplies run low. In that context, a little straw mixed in won't cause harm as long as good hay or browse makes up the bulk of the diet.
 
@@ -66,7 +66,7 @@ Straw can also help with teeth wear and give goats something to sort through whe
 
 ## The Danger of a Straw-Only Diet
 
-If your goat is eating straw because that's all that's available, you've got a serious problem. A goat on straw alone will lose weight, become mineral-deficient, and eventually develop health issues.
+If your goat is eating straw because that's all that's available, you've got a serious problem. A goat on straw alone will lose weight, become mineral-deficient, and eventually develop [serious health issues](/posts/can-goats-have-a-stroke-anemia).
 
 Pregnant and lactating does are especially vulnerable. They need high-protein forage and extra calories, and straw provides neither.
 
@@ -76,11 +76,11 @@ Kids, pregnant does, and lactating does are especially at risk because they need
 
 ## What to Feed Instead
 
-Quality grass hay or alfalfa is the foundation of a good goat diet. Pair that with access to browse -- weeds, brush, tree leaves -- and a mineral supplement formulated for goats.
+Quality grass hay like [timothy](/posts/can-goats-eat-timothy-hay) or [alfalfa](/posts/can-goats-eat-alfalfa) is the foundation of a good goat diet. Pair that with access to browse -- weeds, brush, tree leaves -- and a mineral supplement formulated for goats.
 
-Grain can supplement the diet for pregnant does, lactating does, and growing kids. Fresh vegetables and fruits make great treats on top of that foundation.
+Grain like [oats](/posts/can-goats-eat-oats) can supplement the diet for pregnant does, lactating does, and growing kids. Fresh vegetables and fruits like [pumpkin](/posts/can-goats-eat-pumpkin) and [carrots](/posts/can-goats-eat-carrots) make great treats on top of that foundation.
 
-If hay is expensive or hard to find in your area, look into alternatives like beet pulp, hay cubes, or locally available forage crops. All of these are nutritionally superior to straw by a wide margin.
+If hay is expensive or hard to find in your area, look into alternatives like beet pulp, [hay cubes](/posts/can-goats-eat-hay-cubes), or locally available forage crops. All of these are nutritionally superior to straw by a wide margin.
 
 ## Final Thoughts
 

@@ -46,7 +46,7 @@ Best practice today is to use a local anesthetic like lidocaine to numb the area
 
 ## What is disbudding and why is it necessary?
 
-Disbudding is the removal of horn buds before they develop into full horns. It's done because horned goats can injure other goats, get their heads stuck in fences, and hurt the people who handle them.
+Disbudding is the removal of horn buds before they develop into full horns. It is done because horned goats can injure other goats, get their heads stuck in fences, and hurt the people who handle them. Waiting too long and trying to [dehorn a fully grown 2-year-old](/posts/can-you-dehorn-a-2-year-old-goat) turns a simple procedure into major surgery.
 
 Most dairy operations disbud every kid as a standard practice. Horns in a milking parlor are a serious safety hazard for both the handler and the other does on the milk line.
 
@@ -54,9 +54,9 @@ Most dairy operations disbud every kid as a standard practice. Horns in a milkin
 
 The ideal window is between 3 and 7 days old for most dairy breeds. At this age the horn buds are small, the burn is quick, and the kid recovers fast.
 
-Nigerian Dwarf and Pygmy kids may need to be done even earlier because their buds develop quickly. Run your thumb over the top of the kid's head daily starting at birth, and once you feel a hard nub poking through, it's time.
+Nigerian Dwarf and Pygmy kids may need to be done even earlier because their buds develop quickly, and since these breeds often [deliver triplets or quadruplets](/posts/how-many-babies-do-goats-have-at-a-time), you need to be prepared for multiple disbuddings at once. Run your thumb over the top of the kid's head daily starting at birth, and once you feel a hard nub poking through, it's time.
 
-Waiting too long is a common mistake. Once the bud attaches firmly to the skull, a standard disbudding iron can't get a complete burn, and you end up with scurs that curl and cause problems for years.
+Waiting too long is a common mistake, and you certainly cannot [band adult horns off](/posts/can-you-band-an-adult-goats-horns-to-dehorn-them) once they have fully developed. Once the bud attaches firmly to the skull, a standard disbudding iron can't get a complete burn, and you end up with scurs that curl and cause problems for years.
 
 ## What equipment do you need?
 
@@ -64,7 +64,7 @@ A quality disbudding iron is the most important tool. The Rhinehart X30 is popul
 
 You also need a kid holding box to keep the animal still during the procedure. You can buy one or build it from scrap lumber in about thirty minutes.
 
-Have antiseptic spray, clean towels, and any vet-prescribed pain medication ready before you start. Getting everything laid out ahead of time makes the whole process faster and less stressful for you and the kid.
+Have antiseptic spray, clean towels, and any vet-prescribed pain medication ready before you start. Know the proper [penicillin dosage for kids](/posts/can-too-much-penicillin-given-to-baby-goat-die) in case an infection develops afterward. Getting everything laid out ahead of time makes the whole process faster and less stressful for you and the kid.
 
 ## Aftercare and preventing infection
 
@@ -72,10 +72,10 @@ The burn sites will look raw and crusty for the first few days, and that's norma
 
 Apply wound spray once a day to keep flies off and reduce infection risk. Keep the kid on clean, dry bedding for at least three days after the procedure.
 
-Watch for swelling, pus, or a foul smell around the burn sites. These are signs of infection that need veterinary attention right away.
+Watch for swelling, pus, or a foul smell around the burn sites. These are signs of infection that need veterinary attention right away, and remember that working with sick animals means you should also be aware of [zoonotic disease risks](/posts/can-you-catch-diseases-from-goats).
 
 ## Final Thoughts
 
 Disbudding is a necessary procedure on most goat operations, but doing it without any pain relief is harder to justify as better options become available. Talk to your vet about a simple pain management protocol before your next kidding season.
 
-Most kids bounce back to their normal playful selves within 24 hours of the procedure. Get the timing right, use proper equipment, and provide good aftercare, and you'll have clean, well-healed horn sites with no scur regrowth.
+Most kids bounce back to their normal playful selves within 24 hours of the procedure. Get the timing right, use proper equipment, and provide good aftercare, and you will have clean, well-healed horn sites with no scur regrowth.

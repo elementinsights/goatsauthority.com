@@ -45,19 +45,19 @@ The key concern during pregnancy isn't the intestine itself. It's making sure ha
 
 Goat intestine (also called offal or tripe) is safe to eat during pregnancy when it reaches an internal temperature of at least 165 degrees Fahrenheit. That temperature kills the harmful pathogens that pose the biggest risk to pregnant women and their developing babies.
 
-Buy from a trusted butcher who processes animals on-site whenever possible. Fresh intestines should have a mild smell and a pinkish color. Avoid anything with a strong ammonia odor or slimy texture, as these are signs the product has been sitting too long.
+Buy from a trusted butcher who processes animals on-site whenever possible. You can also find goat products at stores that [carry goat milk](/can-you-buy-goat-milk-at-the-grocery-store), as they often stock goat meat as well. Fresh intestines should have a mild smell and a pinkish color. Avoid anything with a strong ammonia odor or slimy texture, as these are signs the product has been sitting too long.
 
 ## What is goat intestine and what are its benefits?
 
 Goat intestine is high in protein and zinc, both of which are important during pregnancy. It also provides iron, B vitamins, and selenium in meaningful amounts.
 
-Many cultures have eaten goat offal for generations as an affordable source of dense nutrition. It's not a trendy superfood. It's a practical, nutrient-rich food that's been around for centuries.
+Many cultures have eaten goat offal for generations as an affordable source of dense nutrition. [Goat liver](/can-we-eat-goat-liver) is another organ meat packed with similar nutritional benefits. It's not a trendy superfood. It's a practical, nutrient-rich food that's been around for centuries.
 
 ## What are the risks associated with eating goat intestines during pregnancy?
 
 The biggest risk is consuming undercooked or improperly cleaned intestine. Raw or undercooked offal can carry Toxoplasma gondii and Listeria monocytogenes, both of which can cause serious complications during pregnancy.
 
-Pregnant women have a weaker immune response, which makes them more susceptible to foodborne illness. Always err on the side of overcooking rather than undercooking during pregnancy.
+Pregnant women have a weaker immune response, which makes them more susceptible to foodborne illness. [Goat legs](/can-i-eat-goat-legs-during-pregnancy) are a safer cut to prepare since they're easier to cook thoroughly than offal. Always err on the side of overcooking rather than undercooking during pregnancy.
 
 ## How to prepare goat intestine for consumption?
 
@@ -67,7 +67,7 @@ Boil the intestines for at least 30 minutes before using them in any recipe. Thi
 
 ## Recipes that include goat intestine
 
-In Caribbean cooking, goat tripe goes into mannish water, a hearty soup seasoned with scotch bonnet peppers and root vegetables. West African and South Asian cuisines feature goat intestine in spiced stews and curries that simmer for hours.
+In Caribbean cooking, goat tripe goes into mannish water, a hearty soup seasoned with scotch bonnet peppers and root vegetables. [Kabuli palao with goat](/can-kabuli-palao-be-made-with-goat) is another traditional dish that works well with various cuts including offal. West African and South Asian cuisines feature goat intestine in spiced stews and curries that simmer for hours.
 
 Stir-frying cleaned, pre-boiled intestine with onions, peppers, and garlic is another popular method. The long pre-boil followed by a high-heat sear gives you a safe product with a crispy outside and tender inside.
 
@@ -75,7 +75,7 @@ Stir-frying cleaned, pre-boiled intestine with onions, peppers, and garlic is an
 
 Use a meat thermometer every time you cook goat intestine during pregnancy. Don't rely on appearance alone to judge whether the intestine is fully cooked, because the outside can look done while the inside is still undercooked.
 
-If you can't find goat intestines at your regular grocery store, check ethnic markets. West African, Caribbean, and South Asian markets often carry fresh or frozen goat offal at reasonable prices. Talk to your doctor before making major changes to your diet during pregnancy, especially if you haven't eaten offal before.
+If you can't find goat intestines at your regular grocery store, check ethnic markets. West African, Caribbean, and South Asian markets often carry fresh or frozen goat offal at reasonable prices. While you're there, you might also find [goat cheese](/can-goat-cheese-make-you-bloated) and other dairy products worth trying. Talk to your doctor before making major changes to your diet during pregnancy, especially if you haven't eaten offal before.
 
 ## Final Thoughts
 

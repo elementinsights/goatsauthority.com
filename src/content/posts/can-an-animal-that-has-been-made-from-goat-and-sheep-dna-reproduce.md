@@ -50,7 +50,7 @@ When an animal has a mismatched chromosome count, its cells can't split evenly t
 
 There are two ways goat-sheep combinations happen. A chimera is created in a lab by physically merging embryo cells from both species into a single developing animal.
 
-A hybrid results from natural mating between a goat and a sheep. These pregnancies usually fail, and the few offspring that survive to birth are almost always stillborn or die within days.
+A hybrid results from [natural mating between a goat and a sheep](/can-a-goat-breed-with-sheep/). These pregnancies usually fail, and the few offspring that survive to birth are almost always stillborn or die within days.
 
 ## What is genetic engineering and how does it work?
 
@@ -62,22 +62,22 @@ The resulting animal is a patchwork of cells. Some carry goat DNA and some carry
 
 The first goat-sheep chimera was produced in 1984 by researchers in Cambridge, England. They fused goat and sheep embryos at the 8-cell stage and implanted them into surrogate ewes.
 
-These chimeras grew to adulthood and appeared healthy. Whether they could reproduce depended entirely on which species' cells happened to form their reproductive organs during development.
+These chimeras grew to adulthood and appeared healthy. Whether they could reproduce depended entirely on which species' cells happened to form their reproductive organs during development. Research into whether [goats can save sperm](/can-goats-save-sperm/) has also contributed to understanding reproductive biology in these animals.
 
 ## What are the benefits and drawbacks of creating animals through genetic engineering techniques?
 
 If a chimera's gonads developed from goat cells, it would produce goat-type offspring when bred. If the gonads came from sheep cells, you'd get sheep-type offspring instead. In practice, fertility was unpredictable and often absent altogether.
 
-A handful of natural goat-sheep hybrids have been reported as fertile over the decades. One well-known case came from Botswana in 2000, where a hybrid buck sired offspring, but these are extraordinary exceptions rather than the rule.
+A handful of natural [goat-lamb hybrids](/can-a-goat-and-lamb-breed/) have been reported as fertile over the decades. One well-known case came from Botswana in 2000, where a hybrid buck sired offspring, but these are extraordinary exceptions rather than the rule.
 
 ## What do you think about this process - is it something that should be pursued or not?
 
 For the average farmer, this doesn't come up in daily life. You're not going to accidentally create a chimera in your barn, but if you run goats and sheep together, a mating attempt can happen.
 
-The vast majority of cross-species pregnancies between goats and sheep end in miscarriage or stillbirth. Keeping bucks and rams separated during breeding season is the simplest way to avoid the issue entirely.
+The vast majority of cross-species pregnancies between goats and sheep end in miscarriage or stillbirth. Knowing [when your does are in heat](/can-a-goat-get-pregnant-when-not-in-heat/) helps you manage breeding groups properly. Keeping bucks and rams separated during breeding season is the simplest way to avoid the issue entirely.
 
 ## Final Thoughts
 
 A goat-sheep hybrid is almost always sterile because of the chromosome mismatch between the two species. Lab-created chimeras have a slim chance at fertility depending on which cells built their reproductive organs, but natural hybrids rarely survive birth at all.
 
-It's a fascinating piece of biology, but not something most goat owners will ever encounter firsthand. If you keep both species on your farm, just manage your breeding groups and you won't run into problems.
+It's a fascinating piece of biology, but not something most goat owners will ever encounter firsthand. If you keep both species on your farm, just manage your breeding groups and you won't run into problems. Focus on productive within-species crosses like a [Nigerian Dwarf with a Boer](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) if crossbreeding interests you.

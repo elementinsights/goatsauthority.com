@@ -46,7 +46,7 @@ It's not a perfect long-term replacement. Here's what you need to know.
 
 ## Can baby kittens drink goats milk?
 
-Goat milk is safer for kittens than cow milk because it has smaller fat globules and less lactose, making it easier on their tiny digestive systems. Many rescue groups and breeders reach for goat milk first when they find orphaned kittens and don't have KMR available.
+Goat milk is safer for kittens than cow milk because it has smaller fat globules and less lactose, making it easier on their tiny digestive systems. Many rescue groups and breeders reach for goat milk first when they find orphaned kittens and don't have KMR available. Interestingly, [dogs can also drink goat milk every day](/can-dogs-drink-goat-milk-everyday) with similar digestive benefits.
 
 Warm the milk to body temperature (about 100 degrees Fahrenheit) before feeding. Cold milk can cause stomach cramps and the kitten may refuse to drink it.
 
@@ -54,7 +54,7 @@ Warm the milk to body temperature (about 100 degrees Fahrenheit) before feeding.
 
 Goat milk is naturally lower in lactose than cow milk, which is why kittens can handle it better. The protein and fat structure is closer to what a mother cat produces, giving newborns more of what they need to grow.
 
-It also contains probiotics and enzymes that support gut health in young animals. For a kitten that's just lost its mother, goat milk can be the difference between surviving and not making it through the first few days.
+It also contains probiotics and enzymes that support gut health in young animals. For a kitten that's just lost its mother, goat milk can be the difference between surviving and not making it through the first few days. On the farm, orphaned baby goats face similar challenges and benefit from understanding [whether goats can drink cow milk](/can-goats-drink-cow-milk) as a substitute.
 
 ## How do you go about introducing goat's milk to a kitten?
 
@@ -70,15 +70,15 @@ Watch the kitten's belly. It should be round and full after a feeding but not ti
 
 ## What are the potential risks associated with giving too much goat's milk to a kitten, and how can you avoid them?
 
-Goat milk lacks enough taurine for cats, and taurine is an essential amino acid that cats need for heart and eye health. This is why goat milk works as an emergency fix but shouldn't be the sole food source for weeks on end.
+Goat milk lacks enough taurine for cats, and taurine is an essential amino acid that cats need for heart and eye health. This is why goat milk works as an emergency fix but shouldn't be the sole food source for weeks on end. Similarly, [dogs can have goat formula](/can-dogs-have-goat-formula) as a short-term option but still need species-appropriate nutrition long term.
 
 Too much goat milk can also cause diarrhea, which leads to dehydration fast in a tiny kitten. Get proper KMR (kitten milk replacer) as soon as possible, since it's specifically formulated with the right balance of nutrients, taurine, and calories for growing kittens.
 
 ## Tips for feeding goat's milk to a kitten
 
-Keep the kitten upright on its belly while feeding, never on its back like a human baby. Feeding a kitten on its back dramatically increases the risk of aspiration.
+Keep the kitten upright on its belly while feeding, never on its back like a human baby. Feeding a kitten on its back dramatically increases the risk of aspiration. Fermented goat milk products work well for older pets too, and [dogs can have goat yogurt](/can-dogs-have-goat-yogurt) as a probiotic-rich treat.
 
-Pasteurized goat milk from the store works fine, but if you have access to fresh raw goat milk from your own herd, warm it gently before use. Always sterilize bottles and syringes between feedings, because kittens have weak immune systems and bacterial infections can be deadly.
+Pasteurized goat milk from the store works fine, but if you have access to fresh raw goat milk from your own herd, warm it gently before use. Always sterilize bottles and syringes between feedings, because kittens have weak immune systems and bacterial infections can be deadly. If you raise goats, knowing [whether goats can digest anything](/can-goats-digest-anything) helps you keep both your herd and your other animals safe.
 
 ## Final Thoughts
 

@@ -44,13 +44,13 @@ Yes, female goats have udders. It's one of those questions that sounds silly unt
 
 Female goats, called does, have an udder with two teats. The udder develops during pregnancy and fills with colostrum before kidding so the newborns can nurse right away.
 
-Bucks and wethers have two small, non-functional teats but no udder. These rudimentary teats don't produce milk and serve no real purpose. Occasionally a buck will have slightly enlarged teats, but that's just a cosmetic oddity.
+Bucks and wethers have two small, non-functional teats but no udder. Understanding [how many teats goats have](/posts/how-many-teats-do-goats-have) matters when evaluating dairy stock. These rudimentary teats don't produce milk and serve no real purpose. Occasionally a buck will have slightly enlarged teats, but that's just a cosmetic oddity.
 
 ## What do udders look like?
 
 A healthy udder sits high and tight against the body with two teats pointing straight down. The skin can be pink, brown, black, spotted, or any combination of colors regardless of the goat's body coat color.
 
-Udder shape and attachment matter a lot in dairy breeds. A well-attached, globular udder makes milking easy and stays cleaner because it's up off the ground. A pendulous udder that hangs low gets stepped on, dragged through mud, and is much harder to milk by hand or machine.
+Udder shape and attachment matter a lot in dairy breeds, and goats' [wide-angle eyesight](/posts/do-goats-have-good-eyesight) means they are constantly aware of who approaches from any direction during milking. A well-attached, globular udder makes milking easy and stays cleaner because it's up off the ground. A pendulous udder that hangs low gets stepped on, dragged through mud, and is much harder to milk by hand or machine.
 
 ## Supernumerary teats
 
@@ -62,17 +62,17 @@ Extra teats can interfere with milking and may leak milk, creating a mess and in
 
 Mastitis is the big one. It's a bacterial infection of the udder tissue that causes swelling, heat, pain, and changes in the milk. You'll notice clumps, strings, or a watery consistency when you strip milk into a cup.
 
-Severe mastitis can turn the udder blue or purple, which signals gangrene and is a veterinary emergency. Catching it early makes the difference between a round of antibiotics and losing the udder entirely.
+Severe mastitis can turn the udder blue or purple, which signals gangrene and is a veterinary emergency. You should never [drink milk from a doe with active mastitis](/posts/can-you-drink-milk-from-goats-with-mastitis). Catching it early makes the difference between a round of antibiotics and losing the udder entirely.
 
 ## How to prevent udder diseases in goats
 
 Clean milking hygiene is your best defense against mastitis. Wash the udder before milking, use clean equipment, and dip the teats in an iodine-based teat dip after every milking session.
 
-Check the udder daily, even on days you're not milking. Feel for heat, hardness, or lopsided swelling that wasn't there before. A five-minute check takes almost no time and can save you from a serious problem down the road.
+Check the udder daily, even on days you're not milking, and while you are at it check her [cloven hooves for signs of foot rot](/posts/do-goats-have-cloven-hooves). Feel for heat, hardness, or lopsided swelling that wasn't there before. A five-minute check takes almost no time and can save you from a serious problem down the road.
 
 ## Udder care during dry off
 
-Drying off a doe means gradually stopping milking so her body stops producing milk before the next kidding. Drop to once-a-day milking for a week, then skip days until she dries up on her own.
+Drying off a doe means gradually stopping milking so her body stops producing milk before the next kidding, especially since [pregnant does are more susceptible to parasites](/posts/can-you-deworm-a-pregnant-goat) and need their energy directed toward growing kids. Drop to once-a-day milking for a week, then skip days until she dries up on her own.
 
 Watch for engorgement during this transition. If the udder gets rock hard and the doe seems uncomfortable, milk out just enough to relieve pressure but don't empty her completely. A teat sealant applied after the final milking helps keep bacteria out of the teat canal during the dry period.
 

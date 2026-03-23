@@ -52,7 +52,7 @@ Male goats are at the highest risk. Their narrow urethra means even a small ston
 
 Baking soda neutralizes acids in the rumen, which is why goat owners have used it for decades. A goat with a tight, gassy rumen gets real relief from a dose of baking soda because it brings the rumen pH back toward normal.
 
-It also helps with bloat in a pinch. A tablespoon mixed with water and drenched into a bloating goat can buy you time while you call the vet. The problem is not the occasional therapeutic dose; it is the constant free-choice access that causes trouble.
+It also helps with bloat in a pinch. A tablespoon mixed with water and drenched into a bloating goat can buy you time while you call the vet. Knowing [how to debloat a goat](/can-you-debloat-a-goat) quickly is a critical skill every owner should have. The problem is not the occasional therapeutic dose; it is the constant free-choice access that causes trouble.
 
 ## How much baking soda should you give your goats?
 
@@ -64,25 +64,25 @@ Free-choice baking soda bowls used to be standard advice, but many goats overind
 
 Give it when you see symptoms, not on a schedule. If a goat's left side looks tight and drum-like after eating, a dose of baking soda can help settle the rumen.
 
-Apple cider vinegar added to water at one tablespoon per gallon is a gentler daily alternative. It supports rumen health while slightly acidifying the urine, which actually helps prevent stones rather than promote them.
+[Apple cider vinegar added to water](/can-goats-drink-vinegar) at one tablespoon per gallon is a gentler daily alternative. It supports rumen health while slightly acidifying the urine, which actually helps prevent stones rather than promote them.
 
 ## What are some of the potential side effects of giving your goats too much baking soda?
 
 The biggest concern is urinary calculi in male goats. Baking soda raises urine pH, and alkaline urine allows crystals to form that would dissolve in acidic conditions.
 
-Excess sodium intake can also cause increased thirst, electrolyte imbalances, and digestive upset. A goat that is consuming large amounts of baking soda daily is putting unnecessary stress on its kidneys.
+Excess sodium intake can also cause increased thirst, electrolyte imbalances, and digestive upset. A goat that is consuming large amounts of baking soda daily is putting unnecessary stress on its kidneys. Using the wrong [dewormer products](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) can also compound kidney stress in goats already dealing with mineral imbalances.
 
 ## How can you tell if your goats have a urinary issue caused by baking soda?
 
 Watch for straining to urinate, dribbling small amounts, or producing no urine at all. A male goat that keeps stretching out, humping his back, and crying out may have a blockage.
 
-Complete urinary blockage is a life-threatening emergency that can kill a goat within 24 to 48 hours if the bladder ruptures. This is not a wait-and-see situation. Call your vet immediately or drive the goat to an emergency large-animal clinic.
+Complete urinary blockage is a life-threatening emergency that can kill a goat within 24 to 48 hours if the bladder ruptures. This is not a wait-and-see situation. Call your vet immediately or drive the goat to an emergency large-animal clinic. It's one of those conditions where [Pepto Bismol](/can-i-give-my-goat-pepto-bismol) won't help and you need professional intervention.
 
 ## What should you do if you think your goat has a urinary issue caused by baking soda?
 
 Remove all baking soda from the goat's environment immediately. Increase water access and add ammonium chloride to the feed at the rate your vet recommends, as it maintains acidic urine that dissolves crystals before they become stones.
 
-Make sure the calcium-to-phosphorus ratio in your feed is 2:1. When phosphorus gets too high relative to calcium, crystals form in the urinary tract regardless of baking soda use. Your vet can help you evaluate the overall diet and correct any mineral imbalances.
+Make sure the calcium-to-phosphorus ratio in your feed is 2:1. When phosphorus gets too high relative to calcium, crystals form in the urinary tract regardless of baking soda use. Your vet can help you evaluate the overall diet and correct any mineral imbalances. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) and how their digestive system works is key to managing mineral balance.
 
 ## Final Thoughts
 

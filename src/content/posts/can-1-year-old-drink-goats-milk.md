@@ -48,7 +48,7 @@ Here's what you need to know about goat milk for toddlers.
 
 Yes, goat milk is generally considered safe for children over 12 months old. Many pediatricians recommend it as a solid alternative for toddlers who struggle with cow milk.
 
-However, goat milk should never be used as a formula replacement for infants under 12 months. It doesn't contain enough folic acid or vitamin B12 to meet an infant's nutritional needs, and the high mineral content can strain developing kidneys.
+However, goat milk should never be used as a formula replacement for infants under 12 months. It doesn't contain enough folic acid or vitamin B12 to meet an infant's nutritional needs, and the high mineral content can strain developing kidneys. This is also why [cow milk has its own considerations](/can-goats-drink-cow-milk) when it comes to young animals and children alike.
 
 For toddlers age one and up, pasteurized goat milk is a fine option. Always choose pasteurized over raw milk for young children since their immune systems are still developing.
 
@@ -56,7 +56,7 @@ For toddlers age one and up, pasteurized goat milk is a fine option. Always choo
 
 For babies under one year old, plain goat milk is not recommended. Their digestive systems aren't mature enough to handle the protein structure, and the nutritional gaps can cause real problems with growth and development.
 
-Commercially prepared goat milk formula is different from plain goat milk. These formulas are fortified with the missing nutrients and are designed to meet infant nutritional standards.
+Commercially prepared goat milk formula is different from plain goat milk. These formulas are fortified with the missing nutrients and are designed to meet infant nutritional standards. Interestingly, even adult goats benefit from [nutrient-dense feeds like alfalfa](/can-goats-eat-alfalfa) to support lactation and milk quality.
 
 Once your child turns one and is eating a varied solid food diet, whole goat milk can safely be introduced as a drink alongside meals.
 
@@ -68,7 +68,7 @@ After the first birthday, you can start introducing goat milk gradually. Begin w
 
 ## Is goat milk formula a good alternative?
 
-Goat milk formula can work well for babies who don't tolerate cow milk formula. The protein structure in goat milk is different from cow milk, and some babies digest it more easily.
+Goat milk formula can work well for babies who don't tolerate cow milk formula. The protein structure in goat milk is different from cow milk, and some babies digest it more easily. Of course, the quality of the milk starts with what the goat eats, and [oats are one grain](/can-goats-eat-oats) that dairy farmers rely on for healthy milk production.
 
 Keep in mind that goat milk formula is not hypoallergenic. It still contains proteins that can trigger allergies in sensitive babies, so it's not a guaranteed solution for cow milk protein allergy.
 
@@ -78,7 +78,7 @@ Always talk to your pediatrician before switching formulas. They can help you fi
 
 Goat milk has smaller fat globules than cow milk, which makes it easier to digest for some people. It also contains primarily A2 casein protein, while most cow milk contains A1 casein, which is harder for some stomachs to process.
 
-Cow milk provides more folic acid and vitamin B12 than goat milk. It's also more widely available and usually cheaper, which matters when you're buying multiple gallons per week for a growing toddler.
+Cow milk provides more folic acid and vitamin B12 than goat milk. It's also more widely available and usually cheaper, which matters when you're buying multiple gallons per week for a growing toddler. Goats raised on a well-rounded diet that includes [quality hay](/what-kind-of-hay-do-goats-eat) tend to produce richer, more nutritious milk overall.
 
 Neither one is clearly "better" across the board. The right choice depends on your child's individual digestive needs, any sensitivities they may have, and what your pediatrician recommends.
 
@@ -86,7 +86,7 @@ Neither one is clearly "better" across the board. The right choice depends on yo
 
 Goat milk offers several real benefits for toddlers who can tolerate it. The smaller fat globules and different protein structure make it gentler on sensitive stomachs.
 
-It's a good source of calcium, phosphorus, and vitamin A. The essential fatty acids in goat milk also support healthy growth and brain development in young children.
+It's a good source of calcium, phosphorus, and vitamin A. The essential fatty acids in goat milk also support healthy growth and brain development in young children. Many goat owners boost these fat-soluble vitamins by supplementing their herd's diet with [sunflower seeds](/can-goats-eat-sunflower-seeds), which are naturally rich in vitamin E and healthy fats.
 
 Many parents report that their toddlers have fewer digestive complaints after switching from cow milk to goat milk. Less gas, less bloating, and fewer episodes of upset stomach are the most common improvements.
 

@@ -51,7 +51,7 @@ Fresh goat milk from your own does will give you the best flavor. But canned wor
 
 ## What is canned goat milk and where can I find it?
 
-Canned goat milk is pasteurized, homogenized goat milk sold in cans at most grocery stores. Meyenberg is the most common brand, and you can find it in the baking aisle or near the evaporated milk.
+Canned goat milk is pasteurized, homogenized goat milk sold in cans at most [grocery stores that carry goat products](/can-you-buy-goat-milk-at-the-grocery-store). Meyenberg is the most common brand, and you can find it in the baking aisle or near the evaporated milk.
 
 You can also order it online in bulk, which brings the cost down. Some stores carry evaporated goat milk too, but you'll need to dilute that with water before making yogurt.
 
@@ -59,7 +59,7 @@ You can also order it online in bulk, which brings the cost down. Some stores ca
 
 It's a solid substitute, not a perfect one. The canning process changes the protein structure slightly, which can affect how well the cultures set up.
 
-Plenty of people make great yogurt from canned goat milk every week. The convenience and year-round availability make it a practical choice, especially if you don't have milking does.
+Plenty of people make great yogurt from canned goat milk every week. If you have extra milk, you can also [freeze it](/can-goats-milk-be-frozen) for future batches. The convenience and year-round availability make it a practical choice, especially if you don't have milking does.
 
 ## How do I make yogurt with canned goat milk?
 
@@ -71,7 +71,7 @@ Incubate at 110 degrees for 6 to 12 hours. A yogurt maker, Instant Pot, or even 
 
 ## What are the benefits of making yogurt with canned goat milk?
 
-Goat milk yogurt is easier to digest than cow milk yogurt for many people. The smaller fat globules and different casein proteins break down faster in your gut.
+Goat milk yogurt is easier to digest than cow milk yogurt for many people. Unlike some dairy products, [goat cheese rarely causes bloating](/can-goat-cheese-make-you-bloated) for the same reasons. The smaller fat globules and different casein proteins break down faster in your gut.
 
 The finished yogurt is packed with calcium, protein, vitamin B12, and beneficial probiotics. Add honey or fresh fruit after culturing rather than before, since sugar can interfere with the cultures during incubation.
 
@@ -79,11 +79,11 @@ The finished yogurt is packed with calcium, protein, vitamin B12, and beneficial
 
 Fresh goat milk has a clean flavor that canned milk can't quite match. The pasteurization and canning process mutes some of those natural flavors.
 
-Canned goat milk yogurt tends to be thinner than fresh. Strain it through cheesecloth for two to three hours to get a thick, Greek-style consistency that works great as a dip or spread.
+Canned goat milk yogurt tends to be thinner than fresh. Strain it through cheesecloth for two to three hours to get a thick, Greek-style consistency that works great as a dip or spread alongside crumbled [goat cheese as a feta substitute](/can-i-substitute-goat-cheese-for-feta-cheese).
 
 ## Are there any other substitutes for fresh goat milk that can be used when making yogurt at home?
 
-Powdered goat milk reconstituted with water works well and is easy to store long-term. You can also mix canned goat milk with a tablespoon of powdered milk per cup to boost the protein content and get a thicker set.
+Powdered goat milk reconstituted with water works well and is easy to store long-term. You can also [mix goat milk with whey protein](/can-i-mix-goat-milk-with-whey-protein) for a high-protein shake, or mix canned goat milk with a tablespoon of powdered milk per cup to boost the protein content and get a thicker set.
 
 Cow milk is the most common alternative if goat milk isn't available. Plant-based milks like coconut milk can also be cultured, but they require different starters and produce a very different result.
 

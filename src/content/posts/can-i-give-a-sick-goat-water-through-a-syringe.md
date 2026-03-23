@@ -44,7 +44,7 @@ Knowing how to do this correctly can be the difference between losing an animal 
 
 Absolutely. Syringe-feeding water is one of the most basic emergency interventions any goat owner should know. Sick goats often refuse to drink, and waiting for them to come around on their own can cost you the animal.
 
-Use room-temperature water, never cold. A sick goat's system is already stressed, and cold water can cause additional digestive upset.
+Use room-temperature water, never cold. A sick goat's system is already stressed, and cold water can cause additional digestive upset. If the goat also has diarrhea, a dose of [Pepto-Bismol](/can-i-give-my-goat-pepto-bismol) alongside fluids can help settle things down.
 
 Give small amounts at a time. Flooding a sick goat's mouth with water too fast creates an aspiration risk, where fluid enters the lungs instead of the stomach. That turns a dehydration problem into pneumonia.
 
@@ -54,13 +54,13 @@ The skin tent test is the fastest way to check. Pull up a small fold of skin on 
 
 Other signs include sunken eyes, dry or sticky gums, dark-colored urine, and lethargy. A dehydrated goat will also refuse to eat, which compounds the problem since they're losing fluids and not replacing them.
 
-Don't wait until the symptoms are obvious. By the time a goat's eyes look sunken, it's already significantly dehydrated and needs aggressive fluid replacement.
+Don't wait until the symptoms are obvious. By the time a goat's eyes look sunken, it's already significantly dehydrated and needs aggressive fluid replacement. Goats are especially prone to dehydration [during winter](/can-goats-die-in-cold-weather) when they avoid cold water sources.
 
 ## The right syringe and technique
 
 For adult goats, a 60 mL catheter-tip syringe works best. It holds enough water to make each session productive without being so large that it's hard to handle. A turkey baster also works in a pinch.
 
-For kids or smaller breeds, drop down to a 20 mL or 35 mL syringe. The smaller size reduces the chance of accidentally squirting too much water into their mouth at once.
+For kids or smaller breeds, drop down to a 20 mL or 35 mL syringe. The smaller size reduces the chance of accidentally squirting too much water into their mouth at once. If you're dealing with a newborn, you may also want to know about [using a feeding tube to drench goats](/can-i-use-kid-feeding-tube-to-drench-adult-goat) when syringe feeding isn't enough.
 
 Always aim the syringe toward the side of the mouth, never straight down the throat. Squirt small amounts and let the goat swallow at its own pace between each dose. For a moderately dehydrated adult goat, aim for 30 to 60 mL every two hours during the daytime.
 
@@ -68,7 +68,7 @@ Always aim the syringe toward the side of the mouth, never straight down the thr
 
 Plain water is fine for mild dehydration, but a goat that's been sick with diarrhea or fever for more than a day has lost electrolytes along with fluids. Replacing just the water without the minerals slows recovery.
 
-Pick up a goat-specific electrolyte powder from your local farm supply store. Follow the mixing instructions on the package and administer the solution at room temperature through the syringe the same way you would plain water.
+Pick up a goat-specific electrolyte powder from your local farm supply store. A [baby aspirin](/can-i-give-baby-aspirin-to-my-baby-goat) can also help reduce fever alongside electrolytes if your goat is running a temperature. Follow the mixing instructions on the package and administer the solution at room temperature through the syringe the same way you would plain water.
 
 Do not use sports drinks made for humans. They contain too much sugar and artificial flavoring that can upset a goat's already compromised digestive system. Stick with products formulated for livestock.
 
@@ -76,9 +76,9 @@ Do not use sports drinks made for humans. They contain too much sugar and artifi
 
 If oral syringe feeding isn't keeping up with the fluid loss, subcutaneous fluids are the next step. This means injecting fluid under the skin, usually in the loose skin over the shoulder or along the neck.
 
-Your vet can teach you how to do this at home with a bag of lactated Ringer's solution and a large-gauge needle. The fluid absorbs slowly through the tissue and provides steady hydration over several hours.
+Your vet can teach you how to do this at home with a bag of lactated Ringer's solution and a large-gauge needle. For sick baby goats, [powdered goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats) mixed with electrolytes can provide both nutrition and hydration at the same time. The fluid absorbs slowly through the tissue and provides steady hydration over several hours.
 
-Subcutaneous fluids are especially useful for severely dehydrated goats that are too weak to swallow safely. If your goat can't hold its head up or keeps choking on syringe water, call your vet and get started on sub-Q fluids immediately.
+Subcutaneous fluids are especially useful for severely dehydrated goats that are too weak to swallow safely. Conditions like [bloat](/can-you-debloat-a-goat) can also cause goats to stop drinking, so figuring out the root cause matters just as much as pushing fluids. If your goat can't hold its head up or keeps choking on syringe water, call your vet and get started on sub-Q fluids immediately.
 
 ## Final Thoughts
 

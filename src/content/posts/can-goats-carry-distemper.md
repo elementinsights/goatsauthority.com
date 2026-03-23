@@ -53,7 +53,7 @@ There is a related disease called peste des petits ruminants (PPR) sometimes cal
 
 Goats cannot carry or contract canine distemper virus (CDV). This virus affects dogs, raccoons, ferrets, and other carnivores, not goats.
 
-Your goats are safe from CDV, and you do not need a canine distemper vaccine for them.
+Your goats are safe from CDV, and you do not need a canine distemper vaccine for them. However, goats face other disease risks including [zoonotic pathogens that cause diarrhea in humans](/can-contact-with-goats-cause-diarrhea-in-humans).
 
 ## What is distemper and how does it spread?
 
@@ -71,7 +71,7 @@ PPR symptoms in goats include high fever, nasal discharge, mouth sores, severe d
 
 There is no need to treat goats for canine distemper because they do not get it. If your goat is sick with respiratory or neurological symptoms, work with your vet to identify the actual cause.
 
-Common goat diseases that mimic what people imagine "distemper" looks like include pneumonia, listeriosis, polioencephalomalacia (goat polio), and meningeal worm infection. Each of these has its own specific treatment, so a proper diagnosis matters.
+Common goat diseases that mimic what people imagine "distemper" looks like include pneumonia, listeriosis, polioencephalomalacia (goat polio), and meningeal worm infection. Each of these has its own specific treatment, so a proper diagnosis matters. Goat polio in particular is worth learning about since [goats can recover from polio without medication](/can-goats-recover-from-polio-without-medication) in mild cases.
 
 ## Can goats recover from distemper?
 
@@ -89,11 +89,11 @@ If you are in a region where PPR is a concern, effective PPR vaccines are availa
 
 Since canine distemper is not a goat disease, no prevention steps are necessary for CDV. Your goats can safely share a property with vaccinated dogs without any risk of cross-infection.
 
-Focus your disease prevention efforts on the conditions that actually threaten goats. Keep up with CDT vaccinations (clostridium perfringens types C and D plus tetanus), maintain good parasite management, and practice basic biosecurity when introducing new animals to your herd.
+Focus your disease prevention efforts on the conditions that actually threaten goats. Keep up with CDT vaccinations (clostridium perfringens types C and D plus tetanus), maintain good parasite management, and practice basic biosecurity when introducing new animals to your herd. Be aware that [CDT shots can occasionally cause reactions](/can-a-cdt-shot-kill-a-goat), so keep Benadryl on hand during vaccination day.
 
 ## Are there any other diseases that can affect goats?
 
-Goats face many real health threats that deserve attention more than distemper. Pneumonia in kids, barber pole worm, and caseous lymphadenitis (CL) are far more common.
+Goats face many real health threats that deserve attention more than distemper. Pneumonia in kids, barber pole worm, and caseous lymphadenitis (CL) are far more common. Tick-borne illnesses are another concern, and [goats can die from Lyme disease](/can-goats-die-from-lymes) in severe untreated cases.
 
 Regular vet checkups and testing for diseases like CAE and Johne's will do more for your herd than worrying about distemper.
 
@@ -101,7 +101,7 @@ Regular vet checkups and testing for diseases like CAE and Johne's will do more 
 
 Canine distemper is not transmissible to humans, and goats do not carry it. PPR is also not a human health threat.
 
-The zoonotic diseases worth worrying about are Q fever, chlamydiosis, and rabies. Those are the real risks when working closely with livestock.
+The zoonotic diseases worth worrying about are Q fever, chlamydiosis, and rabies. Those are the real risks when working closely with livestock. Understanding [whether goats can get rabies](/can-a-goat-get-rabies) is important for anyone handling livestock in areas where wildlife carries the virus.
 
 ## Are there any other diseases that can affect your goats?
 

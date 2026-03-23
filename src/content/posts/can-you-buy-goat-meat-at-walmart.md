@@ -42,31 +42,31 @@ Walmart does carry goat meat in some locations, but don't count on finding it at
 
 Some Walmart locations stock goat meat in the meat department, usually in areas with large Caribbean, African, or Middle Eastern communities. Availability is hit or miss depending on where you live.
 
-Call your local store before making the trip. If they don't carry it on the shelf, they may be able to special order it for you, though that isn't guaranteed either.
+Call your local store before making the trip. People following the [GAPS diet](/posts/can-you-drink-raw-goat-milk-on-gaps-diet) often prefer sourcing goat meat from small farms alongside their raw dairy. If Walmart doesn't carry it on the shelf, they may be able to special order it for you, though that isn't guaranteed either.
 
 ## What is goat meat and where does it come from?
 
 Goat meat goes by different names depending on who you're talking to. Chevon refers to adult goat meat, cabrito is young milk-fed goat, and in some regions people just call it "goat."
 
-It's the most widely consumed red meat in the world, popular across Africa, the Middle East, the Caribbean, South Asia, and Latin America. In the US, demand has been climbing steadily as immigrant communities grow and more Americans discover it.
+It's the most widely consumed red meat in the world, popular across Africa, the Middle East, the Caribbean, South Asia, and Latin America. Another goat product gaining popularity in US stores is [goat milk](/posts/can-you-buy-goat-milk-at-the-grocery-store), which is now widely available. In the US, demand has been climbing steadily as immigrant communities grow and more Americans discover it.
 
 ## How does goat meat taste compared to other meats?
 
 Goat meat tastes similar to lamb but a bit leaner and with a mild gamey flavor. Young goat (cabrito) is more tender and milder, while older goat has a stronger taste and needs slow cooking to break down the tougher fibers.
 
-The best cooking methods are braising, stewing, and slow roasting. Goat meat doesn't have a lot of intramuscular fat, so it dries out fast if you try to grill it like a beef steak.
+The best cooking methods are braising, stewing, and slow roasting. Goat meat does not have a lot of intramuscular fat, so it dries out fast if you try to grill it like a beef steak. If you enjoy [drinking raw goat milk straight from the farm](/posts/can-you-drink-goat-milk-straight-from-goat), pairing it with slow-cooked goat is a complete farm-to-table experience.
 
 ## Is goat meat healthy for you?
 
 Goat meat is one of the leanest red meats available. It has less fat and fewer calories per serving than beef, pork, lamb, and even chicken, while still packing plenty of protein.
 
-It's also a strong source of iron, vitamin B12, and zinc. For people watching their saturated fat intake, goat meat is a solid choice that doesn't sacrifice flavor or nutrition.
+It's also a strong source of iron, vitamin B12, and zinc. [Goat liver is even more nutrient-dense](/posts/can-we-eat-goat-liver) than the muscle meat and is considered a delicacy in many cuisines. For people watching their saturated fat intake, goat meat is a solid choice that doesn't sacrifice flavor or nutrition.
 
 ## Where else can you buy goat meat?
 
 Ethnic grocery stores are your most reliable source. Halal markets, Caribbean grocery stores, and African markets almost always carry goat meat, and the prices are usually fair at around $8 to $15 per pound depending on the cut.
 
-Online retailers like Shepherd Song Farm and US Wellness Meats ship goat meat directly to your door. You can also check with local goat farms and farmers markets, where you can often buy in bulk for a better per-pound price.
+Online retailers like Shepherd Song Farm and US Wellness Meats ship goat meat directly to your door. You can also check with local goat farms and farmers markets, where you can often buy in bulk for a better per-pound price. Some farms also sell [goat cheese that freezes well](/posts/can-you-freeze-goat-cheese) for stocking up.
 
 ## Final Thoughts
 

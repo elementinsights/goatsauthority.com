@@ -43,7 +43,7 @@ The answer is yes, Nutri-Drench is safe and commonly given to lactating does. He
 
 Absolutely. Nutri-Drench is safe for lactating does and won't affect the quality or safety of their milk. Plenty of goat farmers keep a bottle on hand specifically for freshening does.
 
-It's designed to deliver a fast boost of energy and nutrition when a goat's body is under stress. Kidding and the start of heavy milk production put major demands on a doe's system, and that's exactly when Nutri-Drench shines.
+It's designed to deliver a fast boost of energy and nutrition when a goat's body is under stress. Kidding and the start of heavy milk production put major demands on a doe's system, and that's exactly when Nutri-Drench shines. Pairing it with [injectable B12](/can-pregnant-goats-have-injectable-b12) can provide an even stronger recovery boost for struggling does.
 
 ## What is Nutri-Drench and what's in it?
 
@@ -55,11 +55,11 @@ The product was originally formulated for multiple livestock species. The goat-s
 
 ## When to use Nutri-Drench for lactating does
 
-The most common time to reach for Nutri-Drench is right after kidding when a doe looks weak, shaky, or refuses to eat. Does that carry multiples are especially prone to energy crashes after delivery.
+The most common time to reach for Nutri-Drench is right after kidding when a doe looks weak, shaky, or refuses to eat. Does that carry multiples are especially prone to energy crashes after delivery. Knowing [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) helps you prepare the right amount of supplements ahead of kidding.
 
 It's also useful for does showing early signs of ketosis or pregnancy toxemia. Symptoms include poor appetite, sweet-smelling breath, grinding teeth, and a general look of being "off." If you catch it early, Nutri-Drench can turn things around fast.
 
-You can also give it to any lactating doe that's losing condition faster than she should be. Heavy milkers sometimes can't eat enough to keep up with production, and a daily dose of Nutri-Drench helps bridge the gap while you adjust her ration.
+You can also give it to any lactating doe that's losing condition faster than she should be. If the doe's eyelids look pale, she may also have a parasite issue, and understanding [anemia and stroke symptoms in goats](/can-goats-have-a-stroke-anemia) helps you tell the difference. Heavy milkers sometimes can't eat enough to keep up with production, and a daily dose of Nutri-Drench helps bridge the gap while you adjust her ration.
 
 ## Dosage and how to give it
 
@@ -71,9 +71,9 @@ For a doe that's in rough shape, you can give this dose daily for 3 to 5 days. F
 
 ## Common mistakes to avoid
 
-The biggest mistake is using Nutri-Drench as a substitute for proper nutrition. It's a supplement, not a feed. If your doe is losing weight, fix her ration first and use the Nutri-Drench as a bridge.
+The biggest mistake is using Nutri-Drench as a substitute for proper nutrition. It's a supplement, not a feed. If your doe is losing weight, fix her ration first and use the Nutri-Drench as a bridge. Ensuring she has access to quality [alfalfa hay](/can-goats-eat-alfalfa) alongside the supplement is often the real solution.
 
-Don't skip fresh water access when giving Nutri-Drench. The molasses and propylene glycol make does thirsty, and dehydration will make things worse, not better.
+Don't skip fresh water access when giving Nutri-Drench. The molasses and propylene glycol make does thirsty, and dehydration will make things worse, not better. If you are also managing pain in a lactating doe, read about [whether ibuprofen is safe for lactating goats](/can-ibuprofen-be-given-to-lactating-goats) before reaching for any medication.
 
 Also, check the expiration date on your bottle. Nutri-Drench loses potency over time, and a bottle that's been sitting in your barn for 2 years isn't going to do much good.
 

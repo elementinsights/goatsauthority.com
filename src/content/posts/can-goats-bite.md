@@ -44,13 +44,13 @@ Goats can definitely bite, and if you've spent any time around them, you've prob
 
 Yes, goats can and do bite. But here's the thing most people don't realize — goats only have bottom front teeth (incisors) and a hard dental pad on top where the upper incisors would be.
 
-This setup means their bite is more like a strong pinch than a real chomp. They can bruise you and occasionally break skin, but it's nothing like a dog or cat bite.
+This setup means their bite is more like a strong pinch than a real chomp. They can bruise you and occasionally break skin, but it's nothing like a dog or cat bite. Learning about [goat dental anatomy and whether goats have teeth](/do-goats-have-teeth) explains why their bites feel the way they do.
 
 ## What are the risks of being bitten by a goat?
 
 Most goat bites are harmless pinches that leave a small bruise at worst. The back molars are where the real pressure is, so a goat that clamps down on a finger near the back of its jaw can cause actual injury.
 
-If a goat does break skin, wash the wound with soap and water and keep an eye on it. Tetanus is a concern with any animal bite that breaks the skin, so make sure your tetanus shot is current.
+If a goat does break skin, wash the wound with soap and water and keep an eye on it. Tetanus is a concern with any animal bite that breaks the skin, so make sure your tetanus shot is current. A [mountain goat poses a much greater danger](/can-a-mountain-goat-kill-you) with aggressive charges than a domestic goat's pinch.
 
 ## What should you do if you're bitten by a goat?
 
@@ -62,7 +62,7 @@ Watch the area for 48 hours. If you see redness spreading outward, increasing sw
 
 Breed matters less than how the goat was raised. Bottle-raised goats are the most likely to nip because they learned to associate human hands with food from day one and never developed proper boundaries.
 
-Bucks in rut are another story entirely. Hormones make them pushy and aggressive, and a rutting buck will bite, headbutt, and generally make himself a nuisance. Any breed of buck can get nippy during breeding season.
+Bucks in rut are another story entirely. Hormones make them pushy and aggressive, and a rutting buck will bite, headbutt, and generally make himself a nuisance. Any breed of buck can get nippy during breeding season. If a buck's behavior escalates beyond nipping, understanding whether [rams can be housed with goat bucks](/can-rams-be-in-with-goat-bucks) helps you manage aggressive males.
 
 ## How to deal with a biting goat?
 
@@ -70,7 +70,7 @@ Most of the time, what people call biting is really just mouthing. Goats explore
 
 When a goat does nip, push its head away firmly and say "no" in a sharp voice. Walk away immediately and don't offer any treats. The goat needs to learn that biting ends all interaction — period.
 
-Never hit a goat that bites. Physical punishment makes them fearful and often increases aggression over time. Consistent redirection works much better.
+Never hit a goat that bites. Physical punishment makes them fearful and often increases aggression over time. Consistent redirection works much better. Goats left [tethered for long periods](/can-goats-be-tethered) are more likely to bite out of frustration and stress.
 
 ## How to prevent goat biting?
 
@@ -78,7 +78,7 @@ Don't hand-feed treats from your fingers. Offer food in a bucket or on a flat, o
 
 Keep young children supervised around goats, even friendly ones. A playful nip that barely registers on an adult can terrify a small kid and break their soft skin. Teach children the flat-palm method for offering treats.
 
-A headbutt is far more dangerous than any goat bite, so keep an eye on body language. If a goat stiffens up, lowers its head, or starts grunting, back off — that goat isn't playing around.
+A headbutt is far more dangerous than any goat bite, so keep an eye on body language. If a goat stiffens up, lowers its head, or starts grunting, back off — that goat isn't playing around. Understanding how [goats actually scream](/can-goats-actually-scream) helps you distinguish between playful vocalization and genuine warning signals.
 
 ## Final Thoughts
 

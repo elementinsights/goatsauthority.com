@@ -54,7 +54,7 @@ The fainting behavior is caused by a genetic condition called myotonia congenita
 
 Myotonic (fainting) goats are typically small to medium-sized with stocky, muscular builds. They come in just about every color and pattern you can think of, and they originated in Tennessee in the early 1800s.
 
-Their temperament tends to be calm and docile compared to other breeds. Because their muscles stiffen under stress, they're generally easier to handle and less likely to climb fences.
+Their temperament tends to be calm and docile compared to other breeds. Because their muscles stiffen under stress, they are generally easier to handle and less likely to climb fences. Compare that to [hardy Kiko goats from New Zealand](/posts/where-did-kiko-goats-originate) that are active, independent foragers.
 
 Loud goats can be any breed at all. Nubians are famous for being vocal, but individual goats in any breed might turn out to be screamers. It's a personality trait, not a genetic condition.
 
@@ -62,7 +62,7 @@ Loud goats can be any breed at all. Nubians are famous for being vocal, but indi
 
 Breeding works the same way it does with any other goats. You need a healthy buck and a doe in heat, and nature takes care of the rest.
 
-Make sure both animals are free from genetic diseases and in good overall health before breeding. The gestation period is around 150 days, and Myotonic goats commonly have twins or triplets.
+Make sure both animals are free from genetic diseases and in good overall health before breeding. The gestation period is around 150 days, and Myotonic goats commonly [have twins or triplets](/posts/how-many-babies-do-goats-have-at-a-time).
 
 If you specifically want the fainting trait in the offspring, both parents need to carry the myotonia gene since it's inherited as a dominant trait. Crossing a Myotonic goat with a non-carrier will produce kids that carry the gene but may or may not show the classic stiffening behavior.
 
@@ -78,17 +78,17 @@ The offspring from crossbreeding often pick up the best traits of both parents. 
 
 The main consideration is temperament matching. If you're using a large, aggressive buck with a smaller Myotonic doe, make sure he's not too rough with her since the stiffening response can make it harder for her to move away from an overly pushy buck.
 
-Watch the kids closely during the first few weeks. Kids born to crossbred parents can land anywhere on the temperament spectrum, and some may be jumpier than others.
+Watch the kids closely during the first few weeks. If a doe cannot feed all of her kids, you may need to [switch a bottle-fed kid to another nursing doe](/posts/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat). Kids born to crossbred parents can land anywhere on the temperament spectrum, and some may be jumpier than others.
 
 Health-wise, the myotonia condition itself doesn't cause pain or health problems. But like any breeding program, you should have both parents tested for common goat diseases like CAE and CL before mating them.
 
 ## How can you care for pregnant and lactating goats?
 
-Pregnant does need increased nutrition during the last six weeks of gestation when the kids are growing fastest. Bump up their grain ration and make sure they have access to quality alfalfa hay.
+Pregnant does need increased nutrition during the last six weeks of gestation when the kids are growing fastest. A doe [at 4 years old handles pregnancy best](/posts/can-you-breed-a-4yr-old-goat) because her body is fully mature. Bump up their grain ration and make sure they have access to quality alfalfa hay.
 
 Provide a clean, dry kidding area well before the due date. Keep fresh water available at all times since pregnant and lactating does drink significantly more than usual.
 
-After kidding, lactating does need extra calories and calcium to keep up with milk production. Watch for signs of ketosis or milk fever, especially in does carrying multiples.
+After kidding, lactating does need extra calories and calcium to keep up with milk production. If you have bucklings you will not keep for breeding, [decide on castration timing early](/posts/can-you-band-a-2-year-old-buck-goat) to avoid complications. Watch for signs of ketosis or milk fever, especially in does carrying multiples.
 
 ## Final Thoughts
 

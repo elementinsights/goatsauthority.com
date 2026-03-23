@@ -54,7 +54,7 @@ There is a catch that trips people up. Silent heats are real, and they fool a lo
 
 Does are seasonally polyestrous, meaning they cycle repeatedly during breeding season. For most dairy and meat breeds, that season runs from roughly August through January, triggered by shorter daylight hours.
 
-Each heat cycle lasts about 18 to 21 days, with the doe only standing for the buck during a 12 to 36 hour window within that cycle. Some breeds break the seasonal rule entirely. Nigerian Dwarfs and Boer goats can cycle year-round, which is one reason they are so popular with small farms.
+Each heat cycle lasts about 18 to 21 days, with the doe only standing for the buck during a 12 to 36 hour window within that cycle. Some breeds break the seasonal rule entirely. Nigerian Dwarfs and Boer goats can cycle year-round, unlike [Saanens that are strictly seasonal breeders](/can-a-saanen-goat-have-babies-year-round/), which is one reason they are so popular with small farms.
 
 ## How do you know when a goat is in heat?
 
@@ -72,25 +72,25 @@ Hand breeding is more involved but gives you better control. You bring the doe t
 
 Keep a breeding journal and write down every heat you observe for each doe. After a few months you will know each doe’s individual cycle length, which takes the guesswork out of timing.
 
-Make sure both the buck and doe are in good body condition before breeding season. A doe that is too thin may not cycle at all, and an overweight doe can have trouble conceiving. Flush your does with extra grain about two weeks before introducing the buck to boost ovulation rates.
+Make sure both the buck and doe are in good body condition before breeding season. A doe that is too thin may not cycle at all, and an overweight doe can have trouble conceiving. [Breeding a 4-year-old doe](/can-you-breed-a-4yr-old-goat/) is perfectly fine as long as she's healthy and in good condition. Flush your does with extra grain about two weeks before introducing the buck to boost ovulation rates.
 
 ## What are some common issues with breeding goats?
 
 The number one issue I see is people thinking their doe is not cycling when she is just having silent heats. A buck or teaser buck with a marking harness is the most reliable way to catch heats you would otherwise miss.
 
-Poor nutrition is another big one. Does need adequate protein and minerals, especially copper and selenium, to maintain a healthy reproductive cycle. Stress from overcrowding, sudden feed changes, or introducing new herd members during breeding season can also suppress heat cycles.
+Poor nutrition is another big one. Does need adequate protein and minerals, especially copper and selenium, to maintain a healthy reproductive cycle. Be careful about [inbreeding father-daughter pairings](/can-you-breed-a-father-and-daughter-goat/) since genetic diversity affects fertility too. Stress from overcrowding, sudden feed changes, or introducing new herd members during breeding season can also suppress heat cycles.
 
 ## How can you prevent common issues with breeding goats?
 
 Start with a good FAMACHA check and fecal egg count before breeding season. A heavy parasite load will wreck a doe’s fertility faster than almost anything else.
 
-Keep your buck separate from the does until you are ready to breed. This lets you control the timing and know exactly when to expect kids. It also prevents the buck from running himself ragged chasing does all season, which can lower his sperm quality when you actually need him to perform.
+Keep your buck separate from the does until you are ready to breed, and make sure [young doelings are separated by 8 weeks](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/) to prevent accidental early pregnancies. This lets you control the timing and know exactly when to expect kids. It also prevents the buck from running himself ragged chasing does all season, which can lower his sperm quality when you actually need him to perform.
 
 ## What is the best time to breed goats?
 
 For most breeds, breeding in September through November gives you kids born in February through April. This timing works well because the weather is warming up and spring pasture is coming in to support the lactating doe.
 
-If you are running Nigerian Dwarfs or another year-round breed, you have more flexibility. Just avoid breeding for summer kidding in hot climates, because heat stress is tough on both the doe and newborn kids.
+If you are running Nigerian Dwarfs or another year-round breed, you have more flexibility. A [Nigerian buck can even mount a larger Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) successfully with a little creative pen setup. Just avoid breeding for summer kidding in hot climates, because heat stress is tough on both the doe and newborn kids.
 
 ## Final Thoughts
 

@@ -50,11 +50,11 @@ Gingerbread offers zero nutritional value for goats. It's loaded with sugar, flo
 
 Standard gingerbread recipes include flour, sugar, molasses, butter, and a blend of spices like ginger, cinnamon, and nutmeg. For humans, it's a tasty seasonal treat. For goats, it's basically junk food.
 
-The sugar and molasses are the main nutritional concern. A large dose of sugar can cause a rapid shift in rumen pH, leading to acidosis. The flour provides empty calories and can feed harmful bacteria in the gut when consumed in big portions.
+The sugar and molasses are the main nutritional concern. A large dose of sugar can cause a rapid shift in rumen pH, leading to acidosis, much like the risks associated with [feeding bread to goats](/can-goats-eat-bread/). The flour provides empty calories and can feed harmful bacteria in the gut when consumed in big portions.
 
 ## Which ingredients are the biggest concern?
 
-Nutmeg is the real red flag here. It contains a compound called myristicin that is toxic to goats in moderate amounts. One cookie probably won't cause trouble, but a goat that gets into a whole batch of heavily spiced gingerbread could be in serious danger.
+Nutmeg is the real red flag here. It contains a compound called myristicin that is toxic to goats in moderate amounts, unlike [chocolate which carries its own toxicity risks](/can-goats-eat-chocolate/). One cookie probably won't cause trouble, but a goat that gets into a whole batch of heavily spiced gingerbread could be in serious danger.
 
 Molasses on its own isn't toxic in small quantities. The problem is how much sugar it packs into a small volume. Too much at once and you're looking at digestive upset or worse.
 
@@ -68,11 +68,11 @@ The issue with gingerbread isn't the ginger. It's everything else that comes alo
 
 ## Healthier holiday treat alternatives
 
-If you want to give your goats something festive without the risks, sliced apples with a tiny drizzle of molasses work great. Most goats love them, and you get the holiday spirit without the sugar bomb.
+If you want to give your goats something festive without the risks, [sliced apples](/can-goats-eat-apples/) with a tiny drizzle of molasses work great. Most goats love them, and you get the holiday spirit without the sugar bomb.
 
-Pumpkin pieces are another solid seasonal option. Goats can eat the flesh, seeds, and skin with no problems at all.
+[Pumpkin pieces](/can-goats-eat-pumpkin/) are another solid seasonal option. Goats can eat the flesh, seeds, and skin with no problems at all.
 
-You can also make simple goat cookies using oats, a small amount of molasses, and shredded carrots. Skip the spices entirely and your goats won't care one bit. They're after the texture and sweetness, not the flavor profile.
+You can also make simple goat cookies using [oats](/can-goats-eat-oats/), a small amount of molasses, and shredded carrots. Skip the spices entirely and your goats won't care one bit. They're after the texture and sweetness, not the flavor profile.
 
 ## Final Thoughts
 

@@ -47,7 +47,7 @@ The key word is ripe. Once a tomato has turned its full color and softened up, t
 
 ## The danger of tomato plants
 
-Tomato plants are part of the nightshade family and contain solanine and tomatine in the leaves, stems, vines, and roots. Both compounds are toxic to goats and can cause serious illness.
+Tomato plants are part of the nightshade family and contain solanine and tomatine in the leaves, stems, vines, and roots. The same solanine risk applies to [green potatoes](/posts/can-goats-eat-potatoes). Both compounds are toxic to goats and can cause serious illness.
 
 The green parts of the plant are where the danger is concentrated. Even wilted or dried tomato vines can retain enough toxins to make a goat sick, so do not toss garden trimmings into the goat pen.
 
@@ -67,7 +67,7 @@ Remove the stem and any attached leaves or vine before giving a tomato to your g
 
 Cut larger tomatoes into smaller pieces to prevent choking, especially for younger goats. Cherry tomatoes are a good size for treats since goats can eat them whole without much risk.
 
-Keep tomato treats to a few pieces per goat at a time. Tomatoes are acidic and high in water content, so too many can cause loose stools. A couple of cherry tomatoes or a few slices of a larger one is plenty.
+Keep tomato treats to a few pieces per goat at a time. [Sweet potatoes](/posts/can-goats-eat-sweet-potatoes), which are not nightshades despite the name, are a safer everyday treat option. Tomatoes are acidic and high in water content, so too many can cause loose stools. A couple of cherry tomatoes or a few slices of a larger one is plenty.
 
 ## Signs of solanine poisoning
 
@@ -75,12 +75,12 @@ If your goat gets into the tomato garden and eats leaves or vines, watch for dro
 
 More serious cases can include weakness, staggering, confusion, and rapid breathing. The severity depends on how much the goat ate relative to its body size, with kids being at much greater risk than full-grown adults.
 
-If you notice any of these symptoms and suspect your goat ate tomato plant material, call your vet immediately. Do not wait to see if it gets worse. Early treatment makes a significant difference in outcomes.
+If you notice any of these symptoms and suspect your goat ate tomato plant material, call your vet immediately. Other toxic plants like [avocado](/posts/can-goats-eat-avocado) and [onions](/posts/can-goats-eat-onions) require the same urgency. Do not wait to see if it gets worse. Early treatment makes a significant difference in outcomes.
 
 ## Keeping goats out of the tomato garden
 
-Fence off your garden with sturdy fencing that your goats cannot jump over or push through. Goats are smart and persistent, so make sure the barrier is solid.
+Fence off your garden with sturdy fencing that your goats cannot jump over or push through. Since [goats can jump 4 to 5 feet high](/posts/can-goats-jump-high), make sure the barrier is solid and tall enough.
 
 Never toss tomato plant trimmings, pulled vines, or end-of-season plants into areas where goats can reach them. Compost piles near goat pastures are a common source of accidental tomato plant ingestion.
 
-Provide your goats with plenty of quality hay, browse, and safe treats so they are less tempted to sample garden plants. A well-fed goat with good forage options is far less likely to go looking for trouble in your tomato patch.
+Provide your goats with plenty of quality [hay](/posts/what-kind-of-hay-do-goats-eat), browse, and safe treats like [carrots](/posts/can-goats-eat-carrots) and [watermelon](/posts/can-goats-eat-watermelon) so they are less tempted to sample garden plants. A well-fed goat with good forage options is far less likely to go looking for trouble in your tomato patch.

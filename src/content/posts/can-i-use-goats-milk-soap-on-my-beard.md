@@ -45,23 +45,23 @@ A lot of bearded guys have made the switch and noticed a real difference in how 
 
 Goat milk soap is one of the best things you can use on a beard. The natural fats in goat milk moisturize both the hair and the skin underneath, which is where most beard problems actually start.
 
-The lactic acid in the milk acts as a gentle exfoliant that clears away dead skin cells. This is why so many men report less itching, less flaking, and softer facial hair after switching to goat milk soap.
+The lactic acid in the milk acts as a gentle exfoliant that clears away dead skin cells. Some people also find that [goat milk can reduce wrinkles](/can-goat-milk-reduce-wrinkles) thanks to the same properties. This is why so many men report less itching, less flaking, and softer facial hair after switching to goat milk soap.
 
 ## What is goat's milk soap and what are the benefits of using it on your beard?
 
 Goat milk soap is made by combining fresh goat milk with lye and natural oils like coconut or olive oil through a cold process method. The milk adds vitamins A, D, and B6 along with natural fats that commercial soaps don't have.
 
-For beards specifically, the moisturizing properties are the big win. Beard hair is coarser than head hair and needs more hydration to stay soft, and goat milk soap delivers that without leaving a waxy residue.
+For beards specifically, the moisturizing properties are the big win. If you're making your own soap, using [Germall Plus as a preservative](/can-i-use-germall-plus-in-goat-milk-lotion) in any accompanying lotion products keeps them shelf-stable. Beard hair is coarser than head hair and needs more hydration to stay soft, and goat milk soap delivers that without leaving a waxy residue.
 
 ## Are there any risks associated with using goat's milk soap on your beard?
 
-The main risk is an allergic reaction, but it's uncommon. If you have a known dairy allergy, do a patch test on your inner wrist before rubbing it all over your face.
+The main risk is an allergic reaction, but it's uncommon. People who are [allergic to cow milk](/can-someone-allergic-to-milk-use-goats-milk) usually tolerate goat milk products better, but if you have a known dairy allergy, do a patch test on your inner wrist before rubbing it all over your face.
 
 Fragranced goat milk soaps can irritate sensitive facial skin. Stick with unscented bars if you're prone to redness or breakouts, and rinse thoroughly so no soap residue sits against your skin all day.
 
 ## How to make your own goat's milk soap for beards?
 
-You need fresh or frozen goat milk, lye (sodium hydroxide), and a carrier oil like coconut or olive oil. Freeze the milk into cubes first, then slowly add the lye to the frozen milk to prevent the mixture from scorching and turning brown.
+You need fresh or frozen goat milk, lye (sodium hydroxide), and a carrier oil like coconut or olive oil. You can [freeze goat milk](/can-goats-milk-be-frozen) ahead of time and keep it on hand for soap making. Freeze the milk into cubes first, then slowly add the lye to the frozen milk to prevent the mixture from scorching and turning brown.
 
 Once the lye and milk are combined, blend in your melted oils and pour into a mold. The soap needs to cure for four to six weeks before it's ready to use, so this is a plan-ahead project, not a weekend one.
 
@@ -73,7 +73,7 @@ Rinse thoroughly with warm water and pat dry. Use it once a day as your regular 
 
 ## Tips for keeping your beard healthy and luxurious using goat's milk soap
 
-Buy soap from a small-batch maker who uses real goat milk, not powdered milk. The ingredient list should be short: goat milk, lye, and natural oils. If the list reads like a chemistry textbook, skip it.
+Buy soap from a small-batch maker who uses real goat milk, not powdered milk. If you can't find a local maker, [goat milk is available at most grocery stores](/can-you-buy-goat-milk-at-the-grocery-store) for DIY batches. The ingredient list should be short: goat milk, lye, and natural oils. If the list reads like a chemistry textbook, skip it.
 
 Pair the soap with a boar bristle brush to distribute natural oils through your beard after washing. Brush daily to prevent tangles and train the hair to lay flat. The combination of goat milk soap and regular brushing will keep your beard softer and more manageable than any drugstore product.
 

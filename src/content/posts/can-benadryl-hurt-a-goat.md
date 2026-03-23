@@ -56,13 +56,13 @@ The only real danger comes from giving way too much. Stick to the dosing guideli
 
 Benadryl is the brand name for diphenhydramine, an antihistamine that blocks the body's allergic response. It works in goats the same way it works in people.
 
-When a goat has an allergic reaction, their body releases histamine, which causes swelling, itching, and sometimes trouble breathing. Benadryl blocks that response and brings the swelling down fast.
+When a goat has an allergic reaction, their body releases histamine, which causes swelling, itching, and sometimes trouble breathing. Benadryl blocks that response and brings the swelling down fast. Allergic reactions can look similar to early symptoms of [goat lice infestations](/can-goat-lice-go-into-a-dormant-stage), so it's important to identify the actual cause.
 
 ## What are the risks of giving Benadryl to goats?
 
 The most common side effect is drowsiness. Your goat might act sleepy for a few hours after a dose, and that's completely normal.
 
-A massive overdose can cause excessive sedation or respiratory depression. If your goat can't stand or is breathing very slowly after taking Benadryl, call your vet immediately.
+A massive overdose can cause excessive sedation or respiratory depression. If your goat can't stand or is breathing very slowly after taking Benadryl, call your vet immediately. Similar neurological symptoms can occur when [goats get rabies](/can-a-goat-get-rabies), so always rule out other causes.
 
 ## How to give Benadryl to a goat?
 
@@ -74,17 +74,17 @@ Start at the lower end (1 mg per pound) and see how your goat responds. Crush ta
 
 If your goat is on other medications, call your vet before dosing. Drug interactions are uncommon with Benadryl, but it's worth checking.
 
-For very young kids, pregnant does near kidding, or goats with existing health problems, get your vet's guidance on the right amount. These animals may need adjusted doses or a different medication altogether.
+For very young kids, pregnant does near kidding, or goats with existing health problems, get your vet's guidance on the right amount. These animals may need adjusted doses or a different medication altogether. Pregnant does require extra care since you also need to know [whether you can deworm a pregnant goat](/can-you-deworm-a-pregnant-goat) safely.
 
 ## Why might a goat need Benadryl?
 
 Bee stings and wasp stings are the most common reason. These can cause rapid swelling around the face and neck that needs fast treatment.
 
-Vaccine reactions are another big one. Some goats swell up or develop hives after their CDT shot, and a dose of Benadryl before or right after vaccination helps prevent that. Snake bites, fly bites, and contact with irritating plants are also situations where Benadryl earns its place in the barn.
+Vaccine reactions are another big one. Some goats swell up or develop hives after their CDT shot, and a dose of Benadryl before or right after vaccination helps prevent that. It's worth knowing whether [a CDT shot can harm a goat](/can-a-cdt-shot-kill-a-goat) to manage vaccination risks properly. Snake bites, fly bites, and contact with irritating plants are also situations where Benadryl earns its place in the barn.
 
 ## Alternatives to Benadryl for treating goat health issues
 
-For severe anaphylactic reactions, epinephrine from your vet is the real lifesaver. Benadryl won't cut it when a goat is going into shock.
+For severe anaphylactic reactions, epinephrine from your vet is the real lifesaver. Benadryl won't cut it when a goat is going into shock. You can also apply [Neosporin on minor wounds](/can-i-put-neosporin-on-my-goats) while waiting for more serious treatment.
 
 Dexamethasone is a prescription steroid that vets commonly use for serious allergic reactions and inflammation. If your goats are prone to reactions, ask your vet about keeping some on hand. For minor skin irritation from bug bites, a simple saline wash can soothe the area without any medication.
 
@@ -92,7 +92,7 @@ Dexamethasone is a prescription steroid that vets commonly use for serious aller
 
 At normal doses, no. You'd have to give many times the recommended amount to reach dangerous levels.
 
-The bigger risk is not having Benadryl when you need it. A severe allergic reaction without treatment is far more dangerous than a properly dosed antihistamine.
+The bigger risk is not having Benadryl when you need it. A severe allergic reaction without treatment is far more dangerous than a properly dosed antihistamine. Venomous bites from [black widow spiders](/can-black-widow-spider-kill-a-goat) are another emergency where having supplies on hand makes all the difference.
 
 ## Final thoughts
 

@@ -44,7 +44,7 @@ Most domestic goats can clear about 4 to 5 feet from a standing position. That n
 
 Domestic goats are natural jumpers. Their ancestors spent thousands of years scrambling up rocky hillsides across central Asia, and that athletic ability hasn't gone anywhere.
 
-Not every goat is a jumper. Some goats never leave the ground unless they have a reason to, and others start testing fences on day one. Personality plays a huge role in whether you end up with an escape artist or a couch potato.
+Not every goat is a jumper. Some goats never leave the ground unless they have a reason to, and others start testing fences on day one. Personality plays a huge role in whether you end up with an escape artist or a couch potato. Some goats are athletic enough to [climb steep hillsides at extreme angles](/can-goats-climb-92-degrees), which gives you a sense of their natural ability.
 
 ## How high can different breeds jump?
 
@@ -56,19 +56,19 @@ Pygmy goats are nimble and playful, but their short legs limit how high they can
 
 Goats jump because they need exercise, stimulation, and honestly because it's fun for them. A bored goat stuck in a small pen with nothing to do will test every boundary it can find.
 
-Jumping also helps goats stretch their muscles and keep their joints loose. Young goats especially will bounce around constantly as part of normal play, and it's actually a good sign of health when kids are leaping off everything in sight.
+Jumping also helps goats stretch their muscles and keep their joints loose. Young goats especially will bounce around constantly as part of normal play, and it's actually a good sign of health when kids are leaping off everything in sight. That same energy is why [house training baby goats](/can-baby-goats-be-house-trained) is nearly impossible.
 
 ## Fencing that actually keeps goats in
 
 A standard 4-foot fence works for calm breeds like Boers and older does. For agile breeds like Nigerian Dwarfs, Alpines, or any determined jumper, you need at least 5 feet.
 
-Woven wire and cattle panels are your best options because they don't give goats any footholds. Board fences with horizontal rails are basically ladders for goats. Adding a single strand of electric wire along the top is a cheap fix that teaches most goats to stay away from the fence line after one or two zaps.
+Woven wire and cattle panels are your best options because they don't give goats any footholds. Board fences with horizontal rails are basically ladders for goats. Adding a single strand of electric wire along the top is a cheap fix that teaches most goats to stay away from the fence line after one or two zaps. Understanding [how goats can be tamed](/can-goats-be-tamed) also helps, since a well-socialized goat is less motivated to escape.
 
 ## They don't just jump, they climb
 
-Jumping isn't even the main escape method for most goats. Climbing is the real problem. Goats will stand on hind legs, wedge hooves into gaps, and use anything nearby as a step stool to get over or onto structures.
+Jumping isn't even the main escape method for most goats. Climbing is the real problem. Goats will stand on hind legs, wedge hooves into gaps, and use anything nearby as a step stool to get over or onto structures. You can redirect this energy by [training a goat to pull a cart](/can-a-goat-pull-a-cart) or teaching other commands.
 
-Keep hay bales, equipment, and dog houses away from fence lines. Anything a goat can stand on near a fence becomes a launchpad, and they're smart enough to figure that out fast. I've watched a goat use a turned-over water trough as a stepping stone to clear a fence that had held her for months.
+Keep hay bales, equipment, and dog houses away from fence lines. Anything a goat can stand on near a fence becomes a launchpad, and they're smart enough to figure that out fast. I've watched a goat use a turned-over water trough as a stepping stone to clear a fence that had held her for months. A goat with the right temperament may also [become friends with your dog](/can-goats-and-dogs-be-friends), giving it a companion that reduces the urge to escape.
 
 ## Final Thoughts
 

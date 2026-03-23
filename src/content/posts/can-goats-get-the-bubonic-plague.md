@@ -50,13 +50,13 @@ Plague primarily cycles through wild rodent populations, like prairie dogs and g
 
 Bubonic plague is caused by the bacterium Yersinia pestis and has been responsible for some of history's worst pandemics, including the Black Death of the 1300s. Today it still exists in parts of the American Southwest, Central Asia, and parts of Africa, but modern antibiotics make it treatable.
 
-If a goat did somehow contract it, symptoms would include sudden high fever, loss of appetite, lethargy, and swollen lymph nodes. These symptoms overlap with a dozen more common goat diseases, which is why plague in goats almost never gets considered as a diagnosis.
+If a goat did somehow contract it, symptoms would include sudden high fever, loss of appetite, lethargy, and swollen lymph nodes. These symptoms overlap with a dozen more common goat diseases like [anemia](/posts/can-goats-have-a-stroke-anemia) and [polio](/posts/can-goats-recover-from-polio-without-medication), which is why plague in goats almost never gets considered as a diagnosis.
 
 ## How does the bubonic plague spread and can it be prevented or treated in goats?
 
 The disease spreads through flea bites from infected rodent fleas. A goat would need to be bitten by a flea that recently fed on an infected rodent, which is an unusual chain of events for most farm settings.
 
-Prevention comes down to controlling rodent populations around your barn and feed storage areas. Keep grain in sealed containers, clear brush piles where rodents nest, and use appropriate rodent control measures around your property.
+Prevention comes down to controlling rodent populations around your barn and feed storage areas. Using [proper bedding](/posts/can-pine-chips-be-used-as-bedding-for-goats) and keeping grain in sealed containers helps reduce rodent attraction. Clear brush piles where rodents nest, and use appropriate rodent control measures around your property.
 
 ## What should goat owners do if they suspect their pet has contracted the bubonic plague?
 
@@ -68,13 +68,13 @@ Plague is treatable with antibiotics when caught early. It's also a reportable d
 
 The diseases you should actually worry about are far more common. Pneumonia, enterotoxemia (overeating disease), and caseous lymphadenitis (CL) are the ones that regularly show up in goat herds.
 
-A basic CDT vaccination covers clostridial diseases including enterotoxemia and tetanus. Good biosecurity practices, like quarantining new animals and keeping living areas clean and dry, go a long way toward preventing respiratory infections and other common problems.
+A basic [CDT vaccination](/posts/can-a-cdt-shot-kill-a-goat) covers clostridial diseases including enterotoxemia and tetanus. Good biosecurity practices, like quarantining new animals and keeping living areas clean and dry, go a long way toward preventing respiratory infections and other common problems.
 
 ## Tips on keeping your goats healthy and safe from all diseases.
 
-Keep your goats on a regular vaccination and deworming schedule based on your vet's recommendations for your area. Clean, dry housing and access to fresh water are the foundation of a healthy herd.
+Keep your goats on a regular vaccination and [deworming schedule](/posts/can-you-deworm-a-pregnant-goat) based on your vet's recommendations for your area. Clean, dry housing and access to fresh water are the foundation of a healthy herd.
 
-Control rodents around your barn and hay storage, not because of plague, but because rodents contaminate feed and spread other diseases that are far more likely to affect your goats.
+Control rodents around your barn and hay storage, not because of plague, but because rodents contaminate feed and spread other diseases. [Mite infestations](/posts/can-goats-get-mites) and [hoof rot](/posts/can-hoof-rot-kill-a-goat) are far more likely to affect your goats.
 
 ## Final Thoughts
 

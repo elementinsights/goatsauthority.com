@@ -48,7 +48,7 @@ Garrick and Anne Batten developed the breed by crossing feral New Zealand goats 
 
 The Battens started with thousands of feral goats captured from the New Zealand bush country. These feral goats were tough and self-sufficient, but they were small and slow-growing.
 
-By crossing them with larger dairy breeds and then selecting the offspring strictly for growth rate, hardiness, and survivability, they produced a goat that put on muscle fast without needing a lot of coddling. The first Kikos arrived in the United States in the early 1990s, and American meat goat producers took notice quickly.
+By crossing them with larger dairy breeds including [Toggenburgs from Switzerland](/posts/where-did-toggenburg-goats-originate) and then selecting the offspring strictly for growth rate, hardiness, and survivability, they produced a goat that put on muscle fast without needing a lot of coddling. The first Kikos arrived in the United States in the early 1990s, and American meat goat producers took notice quickly.
 
 ## What are the characteristics of Kiko goats?
 
@@ -56,15 +56,15 @@ Kikos are muscular, medium to large goats with strong legs and a sturdy frame. T
 
 What really sets them apart is their parasite resistance. Kikos handle internal parasites far better than most meat breeds, which means fewer vet bills and less deworming. They're also excellent foragers that prefer browsing brush and weeds over standing around waiting for grain.
 
-Kiko does are known for being great mothers with strong kidding instincts. Most will deliver and clean their kids without any help, even in cold weather. Kid survival rates tend to be high because the babies are born vigorous and up nursing within 30 minutes.
+Kiko does are known for being great mothers with strong kidding instincts. Most will [deliver twins or triplets](/posts/how-many-babies-do-goats-have-at-a-time) and clean their kids without any help, even in cold weather. Kid survival rates tend to be high because the babies are born vigorous and up nursing within 30 minutes.
 
 ## Kiko goats vs. Boer goats
 
 This is the debate every meat goat producer eventually has. Boer goats grow faster, reach market weight sooner, and have more muscling in the hindquarters — if you're selling by the pound at auction, Boers have an edge.
 
-Kikos win on maintenance costs and parasite resistance. They need fewer vet visits, less deworming, and less supplemental feed than Boers. For a small operation where you can't be hands-on every day, Kikos are often the smarter pick.
+Kikos win on maintenance costs and parasite resistance. They need fewer vet visits, less deworming, and less supplemental feed than Boers. Some producers also [cross Kikos with Myotonic (fainting) goats](/posts/can-you-breed-screaming-and-fainting-goats) for a calm, hardy meat animal. For a small operation where you can't be hands-on every day, Kikos are often the smarter pick.
 
-A lot of producers now cross the two breeds. A Kiko-Boer cross gives you decent growth rates with better hardiness than a purebred Boer, which is a sweet spot for many farms.
+A lot of producers now cross the two breeds, and avoiding [inbreeding between related animals](/posts/can-you-breed-a-father-and-daughter-goat) is essential when managing a crossbreeding program. A Kiko-Boer cross gives you decent growth rates with better hardiness than a purebred Boer, which is a sweet spot for many farms.
 
 ## How to take care of your Kiko goats?
 
@@ -72,7 +72,7 @@ Kikos are low-maintenance, but they're not no-maintenance. Give them access to q
 
 Fencing needs to be solid — at least four feet of woven wire, five feet for bucks. A hot wire at nose height teaches most Kikos to respect the boundary after one or two shocks. Avoid barbed wire, as their coats can tangle in it and cause injuries.
 
-Run FAMACHA checks monthly and fecal egg counts quarterly even though Kikos handle parasites better than other breeds. Good ventilation in the barn matters too — Kikos tolerate cold fine, but damp, stagnant air sets the stage for pneumonia.
+Run FAMACHA checks monthly and fecal egg counts quarterly even though Kikos handle parasites better than other breeds. When selling bucklings you do not need for breeding, [castrating them early](/posts/can-you-band-a-2-year-old-buck-goat) makes them easier to place as companions or meat animals. Good ventilation in the barn matters too — Kikos tolerate cold fine, but damp, stagnant air sets the stage for pneumonia.
 
 ## Final Thoughts
 

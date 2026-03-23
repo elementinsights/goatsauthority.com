@@ -43,7 +43,7 @@ Yes, goats can absolutely be outside in winter. Their thick winter coats grow in
 
 The catch is that they must have access to a dry shelter where they can get out of wind and rain whenever they choose. A goat that's dry and out of the wind can handle temperatures well below freezing without any trouble.
 
-What kills goats in winter isn't cold air alone. It's being wet and cold at the same time, because a soaked coat loses all its insulating ability and the goat's body temperature drops dangerously.
+What kills goats in winter isn't cold air alone. It's being wet and cold at the same time, because a soaked coat loses all its insulating ability and the goat's body temperature drops dangerously. For detailed information on when cold becomes lethal, see our guide on [whether goats can die in cold weather](/can-goats-die-in-cold-weather).
 
 ## Shelter is the key to winter survival
 
@@ -51,7 +51,7 @@ Your winter shelter doesn't need to be fancy, but it does need to be dry and blo
 
 One common mistake is sealing the barn up too tight. Goats produce a lot of moisture and ammonia from their urine, and a closed-up space traps those fumes at floor level where they breathe them in all night. You want good airflow overhead while blocking drafts at goat height.
 
-The deep litter method works well in winter barns. Instead of cleaning bedding every few days, add fresh straw on top of the old layers. The decomposing material underneath actually generates heat, keeping the floor 10 to 15 degrees warmer than the air temperature.
+The deep litter method works well in winter barns. Instead of cleaning bedding every few days, add fresh straw on top of the old layers. The decomposing material underneath actually generates heat, keeping the floor 10 to 15 degrees warmer than the air temperature. Winter is also when [goat lice populations explode](/can-goat-lice-go-into-a-dormant-stage), so check your herd regularly during the cold months.
 
 ## Feeding goats in cold weather
 
@@ -59,7 +59,7 @@ Goats need extra hay in winter, and that's not just because there's no pasture a
 
 Offer free-choice grass hay and make sure hay feeders stay stocked, especially in the evening before temperatures drop. A goat that runs out of hay at midnight on a 10-degree night is in trouble.
 
-Water is just as critical as food. Goats won't drink enough if the water is ice cold or frozen over, and dehydration in winter is more common than people realize. A heated water bucket or stock tank heater is one of the best winter investments you can make.
+Water is just as critical as food. Goats won't drink enough if the water is ice cold or frozen over, and dehydration in winter is more common than people realize. A heated water bucket or stock tank heater is one of the best winter investments you can make. Some owners add [apple cider vinegar to the water](/can-goats-drink-vinegar) during winter for digestive support.
 
 ## Which breeds handle cold best?
 
@@ -67,11 +67,11 @@ Fiber breeds like Cashmere and Angora goats are built for cold weather. Their de
 
 Standard dairy breeds like Nubians, with their thin coats and long ears, are more sensitive to freezing temperatures. They'll need a more protected shelter and might benefit from extra bedding during deep cold snaps.
 
-Regardless of breed, any healthy adult goat with a full winter coat and access to shelter, hay, and unfrozen water will get through winter just fine. Kids and elderly goats need closer monitoring since they have less body mass to maintain heat.
+Regardless of breed, any healthy adult goat with a full winter coat and access to shelter, hay, and unfrozen water will get through winter just fine. Kids and elderly goats need closer monitoring since they have less body mass to maintain heat. Keeping [Benadryl stocked in the barn](/can-benadryl-hurt-a-goat) alongside winter supplies ensures you're ready for unexpected allergic reactions year-round.
 
 ## Signs your goat is too cold
 
-A cold goat will hunch up and stand with its back arched, trying to conserve body heat. If you see a goat standing alone and shivering, that's a clear sign it needs to get somewhere warmer and drier.
+A cold goat will hunch up and stand with its back arched, trying to conserve body heat. If you see a goat standing alone and shivering, that's a clear sign it needs to get somewhere warmer and drier. A goat [getting sick from cold](/can-a-goat-get-sick-from-cold) is a real possibility if these warning signs are ignored.
 
 Check their ears. Cold ears are normal in winter, but ears that feel like ice or look pale and waxy could mean frostbite is setting in. Short-eared breeds handle this better than breeds like Nubians with long, drooping ears.
 

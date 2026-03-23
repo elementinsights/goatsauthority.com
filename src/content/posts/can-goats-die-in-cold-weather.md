@@ -44,31 +44,31 @@ A dry goat with shelter can handle surprisingly cold temperatures. A wet goat in
 
 Goats can absolutely die from cold exposure, and it happens more often than most new goat owners expect. The combination of rain, wind, and cold is what creates the deadly conditions, because a wet coat loses its insulating ability.
 
-Kids are the most vulnerable since they have very little body fat and can't regulate their own temperature well in the first few days of life. A kid born on a cold, wet night can go hypothermic within an hour if you're not watching.
+Kids are the most vulnerable since they have very little body fat and can't regulate their own temperature well in the first few days of life. A kid born on a cold, wet night can go hypothermic within an hour if you're not watching. Having [electrolyte solutions ready](/can-baby-goats-have-any-electrolytes) is critical for cold-stressed kids that become dehydrated.
 
 ## How cold is too cold?
 
 Healthy adult goats with a full winter coat and dry shelter can handle temperatures down to 0 degrees Fahrenheit without much trouble. They grow a thick undercoat in the fall that provides solid insulation as long as it stays dry.
 
-Where things get dangerous is when temperatures drop below about 10 degrees with wind or moisture. Wind chill strips heat away faster than a goat can produce it, and wet conditions make everything worse. A goat standing in freezing rain at 35 degrees is in more danger than a dry goat at 10 degrees.
+Where things get dangerous is when temperatures drop below about 10 degrees with wind or moisture. Wind chill strips heat away faster than a goat can produce it, and wet conditions make everything worse. A goat standing in freezing rain at 35 degrees is in more danger than a dry goat at 10 degrees. Knowing [whether goats can be outside in winter](/can-goats-be-outside-in-winter) helps you set up appropriate shelter before the cold hits.
 
 ## Shelter, bedding, and winter feeding
 
 A three-sided shelter with the open side facing away from the prevailing wind is all most goats need. It doesn't have to be fancy or heated, just dry, draft-free, and big enough that all your goats can get inside at once. Good ventilation matters even in winter because a sealed-up barn traps moisture that's actually worse than cold air.
 
-Pack the floor with deep straw bedding to insulate goats from the frozen ground, which is where they lose the most body heat while lying down. Feed more hay than usual during cold snaps because digesting forage generates internal heat, and keep unfrozen water available at all times. Goats won't eat enough if they can't drink, and winter dehydration is more common than most people realize.
+Pack the floor with deep straw bedding to insulate goats from the frozen ground, which is where they lose the most body heat while lying down. Feed more hay than usual during cold snaps because digesting forage generates internal heat, and keep unfrozen water available at all times. Goats won't eat enough if they can't drink, and winter dehydration is more common than most people realize. Winter is also peak season for [goat lice](/can-goat-lice-live-on-humans), which thrive in thick coats and crowded shelters.
 
 ## Why you should never heat a barn with a heat lamp
 
 Heat lamps in goat barns are a fire waiting to happen. Goats bump into things, straw is everywhere, and one knocked-over lamp can burn down your entire barn and kill every animal inside.
 
-If you have a newborn kid that needs extra warmth, bring it inside the house or use a warming box away from flammable bedding. For adult goats, if your shelter is dry and draft-free with deep bedding, they don't need supplemental heat even in severe cold.
+If you have a newborn kid that needs extra warmth, bring it inside the house or use a warming box away from flammable bedding. For adult goats, if your shelter is dry and draft-free with deep bedding, they don't need supplemental heat even in severe cold. A sick goat in cold weather may also benefit from [Benadryl](/can-benadryl-hurt-a-goat) if allergic reactions compound their stress.
 
 ## Signs of hypothermia and frostbite
 
 A hypothermic goat will shiver first, then stop shivering as it gets worse. It will become lethargic, stiff, and its ears and legs will feel ice cold to the touch. If you find a goat in this condition, get it into a warm, dry area and call your vet immediately.
 
-Frostbite shows up most often on ears, teats, and the scrotum because these areas have less blood flow. Frostbitten tissue turns white or gray at first and then becomes dark and crusty as it dies. Mild frostbite can heal, but severe cases may result in tissue loss.
+Frostbite shows up most often on ears, teats, and the scrotum because these areas have less blood flow. Frostbitten tissue turns white or gray at first and then becomes dark and crusty as it dies. Mild frostbite can heal, but severe cases may result in tissue loss. Diseases like [Lyme disease from tick bites](/can-goats-die-from-lymes) can also weaken goats heading into winter, making proper fall health checks essential.
 
 ## Final Thoughts
 

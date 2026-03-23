@@ -41,7 +41,7 @@ Yes, Kentucky bluegrass is safe for goats and it shows up in countless goat past
 
 Kentucky bluegrass is completely safe for goats. It is not toxic, it is easy to digest, and it provides a reasonable source of fiber and protein when it is actively growing.
 
-Goats prefer browse over grass as a general rule, but they will graze on bluegrass, particularly when it is mixed with clover or other legumes. A diverse pasture that includes bluegrass alongside other plants gives goats the variety their rumen thrives on.
+Goats prefer browse over grass as a general rule, but they will graze on bluegrass, particularly when it is mixed with clover or other legumes like [alfalfa](/can-goats-eat-alfalfa/). A diverse pasture that includes bluegrass alongside other plants gives goats the variety their rumen thrives on.
 
 ## What is Kentucky bluegrass and what are its benefits to goats?
 
@@ -55,15 +55,15 @@ The grass is winter-hardy and recovers well from grazing, which makes it a relia
 
 The main risk is bloat during the lush spring growth flush. Thick, fast-growing bluegrass is high in moisture and low in structural fiber, which can cause rapid gas buildup in the rumen if a goat gorges on it.
 
-Feed hay before turning goats out on lush spring pasture. A belly full of dry hay slows down their intake of wet grass and gives the rumen more fiber to work with.
+Feed [hay](/what-kind-of-hay-do-goats-eat/) before turning goats out on lush spring pasture. A belly full of dry hay slows down their intake of wet grass and gives the rumen more fiber to work with.
 
-During summer, bluegrass goes semi-dormant in hot weather and its nutritional value drops off significantly. If your pasture is mostly bluegrass, you will need to step up hay supplementation during the summer months so your goats do not lose condition.
+During summer, bluegrass goes semi-dormant in hot weather and its nutritional value drops off significantly. If your pasture is mostly bluegrass, you will need to step up supplementation with [hay cubes](/can-goats-eat-hay-cubes/) or straw during the summer months so your goats do not lose condition.
 
 ## How much Kentucky bluegrass should be fed to goats on a daily basis?
 
 Let your goats graze bluegrass as part of a mixed pasture rather than trying to measure out a specific daily amount. As long as they have access to hay and browse alongside the grass, they will self-regulate.
 
-Goats need 2 to 4 percent of their body weight in dry matter each day. Bluegrass can contribute a good portion of that during spring and fall, but it should not be the only forage on offer.
+Goats need 2 to 4 percent of their body weight in dry matter each day. Bluegrass can contribute a good portion of that during spring and fall, supplemented with treats like [sunflower seeds](/can-goats-eat-sunflower-seeds/) or oats for extra energy, but it should not be the only forage on offer.
 
 Planting bluegrass alongside orchard grass, white clover, or other forages creates a more balanced pasture. The clover adds nitrogen to the soil and boosts the overall protein content, while different grass species mature at different rates to extend the productive grazing window.
 
@@ -71,7 +71,7 @@ Planting bluegrass alongside orchard grass, white clover, or other forages creat
 
 There are no special recipes needed. Bluegrass works best as a living pasture that goats graze on naturally, and it can also be cut and dried into hay if you have enough acreage.
 
-Bluegrass hay should be cut before the seed heads mature for the best nutritional value. Once it goes to seed, the protein content drops and the stems become coarse and less palatable.
+Bluegrass hay should be cut before the seed heads mature for the best nutritional value, and always stored properly to avoid [mold contamination](/can-goats-eat-moldy-hay/). Once it goes to seed, the protein content drops and the stems become coarse and less palatable.
 
 Fall brings a second flush of growth that is nearly as nutritious as spring. Take advantage of this by rotating goats onto rested bluegrass paddocks in September and October to get the most out of that late-season nutrition.
 

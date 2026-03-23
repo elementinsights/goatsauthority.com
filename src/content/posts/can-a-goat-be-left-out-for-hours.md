@@ -48,17 +48,17 @@ The catch is that they need three things no matter how long they're out: shelter
 
 Healthy adult goats can stay outside all day long from sunrise to sunset. They're most comfortable in temperatures between 32 and 85 degrees Fahrenheit, and they'll naturally seek shade or shelter when conditions get uncomfortable.
 
-Baby kids need more supervision, especially in the first few weeks. They can't regulate body temperature as well as adults, and they're easy targets for predators. Keep young kids closer to the barn and check on them every couple of hours.
+Baby kids need more supervision, especially in the first few weeks. They can't regulate body temperature as well as adults, and they're easy targets for predators like [foxes](/can-a-fox-kill-a-goat/) and [raccoons](/can-raccoons-kill-goat/). Keep young kids closer to the barn and check on them every couple of hours.
 
 ## What are the risks of leaving a goat out for too long?
 
 Weather is the biggest risk factor. Goat coats are not waterproof like sheep wool, so rain combined with wind can drop a goat's body temperature fast. Thunderstorms with lightning are another reason to bring them in, since the loud thunder alone can cause enough panic for them to run through fences.
 
-Predators are the other major concern, especially at night. Coyotes, stray dogs, and mountain lions are all threats depending on where you live. Goats should always be locked in a secure shelter once the sun goes down.
+Predators are the other major concern, especially at night. Coyotes, stray dogs, and [mountain lions](/can-a-mountain-goat-kill-you/) are all threats depending on where you live. Goats should always be locked in a secure shelter once the sun goes down.
 
 ## Setting up a safe outdoor area
 
-Start with sturdy perimeter fencing — at least four feet tall for standard breeds, three feet for miniatures. Walk the fence line regularly and check for gaps, loose wire, and sharp edges, because goats will find every weakness within the first week.
+Start with sturdy perimeter fencing — at least four feet tall for standard breeds, three feet for miniatures. Remember that goats [can bite through](/can-goats-bite/) weaker fencing materials, so use quality wire. Walk the fence line regularly and check for gaps, loose wire, and sharp edges, because goats will find every weakness within the first week.
 
 Put a water station in the shade and refill it at least twice a day during warm months. Automatic waterers are worth the investment if your goats spend long hours outside regularly.
 
@@ -68,7 +68,7 @@ In hot weather above 90 degrees, shade is non-negotiable. If your pasture has no
 
 Excessive panting or open-mouth breathing means they're overheated and need shade and water right now. A goat that seems wobbly or disoriented is probably dehydrated — check for sunken eyes and dry gums.
 
-In cold weather, shivering and huddling in a corner are your cues to bring them inside. Frostbitten ear tips will look pale or waxy, and by the time you see that, the damage is already done.
+In cold weather, shivering and huddling in a corner are your cues to bring them inside. If you keep a [pygmy goat with a mini pig](/can-a-pygmy-goat-live-with-a-mini-pig/), both species need shelter access since neither handles cold rain well. Frostbitten ear tips will look pale or waxy, and by the time you see that, the damage is already done.
 
 ## Final Thoughts
 

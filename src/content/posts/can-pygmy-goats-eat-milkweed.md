@@ -55,19 +55,19 @@ Pygmy goats are especially at risk because of their small body size. A dose that
 
 Milkweed (Asclepias species) is a perennial flowering plant found across North America in pastures, roadsides, and open meadows. It gets its name from the thick, milky white sap that bleeds from broken stems and leaves.
 
-While milkweed is important for monarch butterflies, it has zero benefits for goats. Every part of the plant is toxic, including the leaves, stems, flowers, and seed pods. The milky sap itself is loaded with cardiac glycosides that remain dangerous even after the plant dries out.
+While milkweed is important for monarch butterflies, it has zero benefits for goats. Every part of the plant is toxic, including the leaves, stems, flowers, and seed pods. [Eucalyptus is another plant](/can-pygmy-goats-eat-eucalyptus) that pygmy goat owners should keep out of reach. The milky sap itself is loaded with cardiac glycosides that remain dangerous even after the plant dries out.
 
 ## The nutritional value of milkweed for pygmy goats
 
 There is no safe nutritional value in milkweed for pygmy goats. This plant should never be considered a feed source or supplement, no matter what you might read elsewhere.
 
-The cardiac glycosides are present in all milkweed species, though some varieties like tropical milkweed and whorled milkweed carry higher concentrations. Even common milkweed has enough toxin to cause serious problems for a small goat.
+The cardiac glycosides are present in all milkweed species, though some varieties like tropical milkweed and whorled milkweed carry higher concentrations. Stick with safe feed like [quality hay](/can-pygmy-goats-eat-hay) and approved treats instead of allowing goats to browse unknown plants. Even common milkweed has enough toxin to cause serious problems for a small goat.
 
 ## Are there any risks associated with feeding milkweed to pygmy goats?
 
 The risks are severe and can be fatal. Cardiac glycosides from milkweed interfere with the sodium-potassium pump in heart cells, which leads to irregular heartbeat and cardiac arrest.
 
-Symptoms of milkweed poisoning include drooling, dilated pupils, rapid or irregular heartbeat, staggering, labored breathing, and seizures. Death can follow within hours if enough plant material was consumed, and there is no home remedy for this kind of poisoning. Call your vet immediately.
+Symptoms of milkweed poisoning include drooling, dilated pupils, rapid or irregular heartbeat, staggering, labored breathing, and seizures. Some of these signs overlap with [goat polio](/can-goats-recover-from-polio-without-medication), so getting a proper diagnosis from your vet is crucial. Death can follow within hours if enough plant material was consumed, and there is no home remedy for this kind of poisoning. Call your vet immediately.
 
 ## How to identify milkweed plants?
 
@@ -79,13 +79,13 @@ The leaves are large, oval-shaped, and arranged in opposite pairs along a sturdy
 
 I would not recommend growing milkweed anywhere near your goat pastures. If you want to grow it for monarch butterflies, plant it in a separate fenced area that your goats cannot reach.
 
-Walk your pastures at least once a month during the growing season and pull any milkweed you find. Wear gloves because the sap can irritate skin, and dig out roots when possible since milkweed grows back from root fragments.
+Walk your pastures at least once a month during the growing season and pull any milkweed you find. [Good fencing](/can-goats-climb-fences) is also essential to keep goats from wandering into areas where milkweed grows wild. Wear gloves because the sap can irritate skin, and dig out roots when possible since milkweed grows back from root fragments.
 
 ## The importance of milking your goat regularly
 
 If you milk pygmy goats, keeping a consistent milking schedule matters for udder health. A doe that goes too long between milkings can develop mastitis, which is painful and can permanently damage the udder.
 
-Milking time is also your best chance to check each doe over for health issues. You can feel for lumps, look at her eyes for signs of anemia, and spot problems early before they turn serious.
+Milking time is also your best chance to check each doe over for health issues. You can feel for lumps, look at her eyes for signs of anemia, and spot problems early before they turn serious. Pale eyelids can signal [anemia severe enough to cause stroke-like symptoms](/can-goats-have-a-stroke-anemia), so the FAMACHA check during milking is important.
 
 ## Final Thoughts
 

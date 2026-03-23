@@ -52,13 +52,13 @@ They do have upper and lower molars and premolars in the back of their mouth. Th
 
 ## Do all goats have top teeth?
 
-Every breed of goat, whether it's a Nigerian Dwarf or a full-size Boer, has the same basic dental setup. No upper incisors in front, and molars in the back on both jaws.
+Every breed of goat, whether it's a Nigerian Dwarf or a full-size Boer, has the same basic dental setup. All [32 adult teeth](/posts/do-goats-have-teeth) follow the same pattern: no upper incisors in front, and molars in the back on both jaws.
 
 This is the same across all domestic and wild goat species. It's a trait shared with other ruminants like sheep, cattle, and deer. The dental pad is standard equipment on any animal that chews cud.
 
 ## What are the uses of goat's top teeth?
 
-The back molars do the heavy lifting not grazers, so they spend a lot of time crunching through woody plants, bark, and rough forage that would wear down weaker teeth fast.
+The back molars do the heavy lifting because goats are browsers, not grazers, so they spend a lot of time crunching through woody plants, bark, and rough forage that would wear down weaker teeth fast. All that chewed material passes into the [four-compartment stomach](/posts/how-many-stomachs-do-goats-have) for fermentation.
 
 The lower incisors and dental pad work together like a pinch grip. That's why a goat bite feels more like a hard pinch than an actual bite. They can strip bark off a tree or snap off a branch tip with that setup, but they can't really chomp down the way a horse or dog can.
 
@@ -66,7 +66,7 @@ The lower incisors and dental pad work together like a pinch grip. That's why a 
 
 You don't need to brush a goat's teeth. Their natural diet of hay, browse, and rough forage keeps their teeth worn down to the right length on its own.
 
-What you do need to watch for is broken, loose, or missing teeth, especially in older goats. A goat that's dropping feed, losing weight, or drooling excessively might have dental problems. Have your vet check their teeth if you notice any of these signs.
+What you do need to watch for is broken, loose, or missing teeth, especially in older goats. Poor dental health can even contribute to [bloat](/posts/can-you-debloat-a-goat) when food is not chewed thoroughly enough. A goat that's dropping feed, losing weight, or drooling excessively might have dental problems. Have your vet check their teeth if you notice any of these signs.
 
 ## How strong are goat's teeth?
 
@@ -78,13 +78,13 @@ Kids are born with baby teeth (deciduous teeth) that start getting replaced by p
 
 No. Goats can chew on a lot of things, but they can't break rocks with their teeth. They sometimes lick or mouth rocks for mineral content, which gives people the wrong impression.
 
-If a goat is chewing on rocks, metal, or other non-food items, it usually means they're mineral-deficient. Check that they have access to a good loose mineral supplement and adjust their diet before a cracked tooth sends you to the vet.
+If a goat is chewing on rocks, metal, or other non-food items, it usually means they are mineral-deficient. Their [cloven hooves](/posts/do-goats-have-cloven-hooves) can also show signs of mineral deficiency through poor growth or cracking. Check that they have access to a good loose mineral supplement and adjust their diet before a cracked tooth sends you to the vet.
 
 ## What are the reasons why goats' teeth are falling out?
 
 The most common reason is age. Older goats, typically over seven or eight years, start losing teeth naturally as the roots weaken. This is often called being "broken-mouthed" and it affects their ability to eat properly.
 
-Goats can also lose teeth from injury, such as getting hit by another goat during head-butting. Poor nutrition over time weakens teeth as well. If a younger goat is losing teeth, have your vet take a look because it could signal a nutritional deficiency or infection in the jaw.
+Goats can also lose teeth from injury, such as getting hit by another goat during head-butting, which is why [disbudding kids early](/posts/can-you-disbud-a-goat-without-medication) prevents horn-related injuries later. Poor nutrition over time weakens teeth as well. If a younger goat is losing teeth, have your vet take a look because it could signal a nutritional deficiency or infection in the jaw.
 
 ## Final Thoughts
 

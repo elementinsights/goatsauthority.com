@@ -59,13 +59,13 @@ The roots are crunchy and mildly peppery, which most goats seem to enjoy. You ca
 
 Absolutely. The leafy green tops of radish plants are safe for goats and actually pack more nutrition than the roots themselves.
 
-Radish greens are a good source of calcium, iron, and vitamin C. If you grow radishes in your garden, toss the whole plant to your goats rather than throwing the tops in the compost pile.
+Radish greens are a good source of calcium, iron, and vitamin C, similar in nutritional value to [spinach](/posts/can-goats-eat-spinach) and [kale](/posts/can-goats-eat-kale). If you grow radishes in your garden, toss the whole plant to your goats rather than throwing the tops in the compost pile.
 
 ## Can a pregnant goat eat radishes?
 
 Pregnant does can eat radishes safely. The fiber and vitamins in radishes make them a reasonable treat during pregnancy.
 
-Just keep the portions moderate and make sure radishes are supplementing a balanced diet of hay, grain, and proper minerals. Pregnant goats have higher nutritional demands, and treats should never crowd out their main feed.
+Just keep the portions moderate and make sure radishes are supplementing a balanced diet of [hay](/posts/what-kind-of-hay-do-goats-eat), grain, and proper minerals. Pregnant goats have higher nutritional demands, and treats should never crowd out their main feed.
 
 ## Can a lactating goat eat radishes?
 
@@ -89,7 +89,7 @@ If your goat is off its feed entirely, focus on getting it hydrated and call you
 
 Not every goat likes radishes. Goats are individuals with their own taste preferences, and some will turn their nose up at the peppery flavor.
 
-If your goat is not interested, do not force it. There are plenty of other safe vegetables like carrots, squash, and pumpkin that they might prefer instead.
+If your goat is not interested, do not force it. There are plenty of other safe vegetables like [carrots](/posts/can-goats-eat-carrots), [squash](/posts/can-goats-eat-squash), and [pumpkin](/posts/can-goats-eat-pumpkin) that they might prefer instead.
 
 ## What are the benefits of feeding radishes to goats?
 
@@ -101,13 +101,13 @@ The greens are especially nutritious, providing calcium and iron that the roots 
 
 The risks are minimal with radishes. Being a brassica vegetable, they can cause mild gas if a goat eats a large quantity, similar to how cabbage or broccoli might affect digestion.
 
-This is not dangerous, just uncomfortable. Keep portions reasonable, start with small amounts, and your goats will handle radishes just fine.
+This is not dangerous, just uncomfortable. If bloating does occur, knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) can help. Keep portions reasonable, start with small amounts, and your goats will handle radishes just fine.
 
 ## How many radishes should be fed to goats?
 
 Two or three radishes per goat makes a good treat size. You can offer them a few times per week without any concerns.
 
-Wash them well to remove dirt and any pesticide residue. Chop larger radishes into pieces for smaller goats, and always make sure treats like radishes are a supplement to their regular diet rather than a replacement.
+Wash them well to remove dirt and any pesticide residue. Chop larger radishes into pieces for smaller goats, and always make sure treats like radishes are a supplement to their regular diet of [timothy hay](/posts/can-goats-eat-timothy-hay) or alfalfa rather than a replacement.
 
 ## Final Thoughts
 

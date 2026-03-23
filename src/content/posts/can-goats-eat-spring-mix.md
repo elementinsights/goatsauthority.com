@@ -43,17 +43,17 @@ All of these greens are safe for goats to eat. Your goats will probably gobble i
 
 ## What's actually in spring mix?
 
-Most of what you'll find in a bag of spring mix is lettuce varieties. These are mostly water with very little nutritional value for a goat.
+Most of what you'll find in a bag of spring mix is lettuce varieties. These are mostly water with very little nutritional value for a goat, which is why [quality hay](/posts/what-kind-of-hay-do-goats-eat) should remain the dietary foundation.
 
-The arugula and chard are the real standouts. Arugula is high in calcium and vitamin K, while chard brings iron and a decent amount of fiber to the table.
+The arugula and chard are the real standouts. Arugula is high in calcium and vitamin K, while chard brings iron and a decent amount of fiber to the table, similar to what you get from feeding [kale](/posts/can-goats-eat-kale).
 
-Spinach adds some folate and iron as well. None of these greens exist in large enough quantities in a typical bag to make a meaningful difference in your goat's overall nutrition.
+[Spinach](/posts/can-goats-eat-spinach) adds some folate and iron as well. None of these greens exist in large enough quantities in a typical bag to make a meaningful difference in your goat's overall nutrition.
 
 ## Benefits of feeding spring mix to goats
 
 Spring mix works great as a kitchen scrap treat or a way to use up greens that are getting a little wilted for your own salad. Your goats get a small vitamin boost, and nothing goes to waste.
 
-The variety in spring mix is something goats actually appreciate. They're browsers by nature and prefer eating a mix of different plants rather than the same thing over and over.
+The variety in spring mix is something goats actually appreciate. They're browsers by nature and prefer eating a mix of different plants rather than the same thing over and over, which is also why they enjoy foraging on [dandelions](/posts/can-goats-eat-dandelions) and other wild greens.
 
 ## Risks of feeding spring mix to goats
 
@@ -65,7 +65,7 @@ The only thing I'd watch for is feeding large amounts at once to a goat that's n
 
 Don't think of spring mix as a food source for your goats. It's a treat, plain and simple.
 
-A handful or two per goat is plenty. If you've got leftover salad greens going bad in the fridge, toss them in the pen and let your goats pick through them.
+A handful or two per goat is plenty. If you've got [leftover food from the kitchen](/posts/can-i-feed-my-goat-leftovers) going bad in the fridge, toss them in the pen and let your goats pick through them.
 
 ## Final Thoughts
 

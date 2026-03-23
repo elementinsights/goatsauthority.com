@@ -45,7 +45,7 @@ If you're milking goats and wondering whether you can use a cow shell with goat 
 
 A cow shell (the outer teat cup housing) is significantly larger in diameter than a goat shell. When you try to fit a goat liner inside a cow shell, it won't seat properly against the goat's teat.
 
-The liner needs to collapse and open inside the shell in a precise rhythm during pulsation. If the shell is oversized, the liner can't form a tight seal, and you get air leaks that destroy your vacuum levels.
+The liner needs to collapse and open inside the shell in a precise rhythm during pulsation. If the shell is oversized, the liner can't form a tight seal, and you get air leaks that destroy your vacuum levels. Using a [rope halter](/can-i-use-a-rope-halter-on-a-goat) to secure does at the milking stand helps, but it won't fix equipment problems.
 
 ## What are cow shells and goat liners?
 
@@ -55,7 +55,7 @@ Cow shells are designed for teats that average 25-30mm in diameter. Goat teats a
 
 ## How do farmers use cow shells with goat liners?
 
-Some farmers try this combination when they're switching from cows to goats and want to reuse existing equipment. It's understandable from a cost standpoint, but it doesn't work well in practice.
+Some farmers try this combination when they're switching from cows to goats and want to reuse existing equipment. If you're [raising goats for milk protein](/can-i-raise-goats-for-milk-protein), investing in the right equipment from day one saves money in the long run. It's understandable from a cost standpoint, but it doesn't work well in practice.
 
 The oversized shell allows the liner to move around during milking instead of staying snug against the teat. That movement creates vacuum fluctuations that push milk back toward the teat opening, which is one of the fastest paths to introducing bacteria into the udder.
 
@@ -67,13 +67,13 @@ Some manufacturers do make universal shells that accept both cow and goat liners
 
 ## Are there any risks associated with using cow shells with goat liners?
 
-The biggest risk is mastitis from air leaks and irregular vacuum at the teat end. Poor-fitting equipment is one of the top causes of udder infections in dairy goats.
+The biggest risk is mastitis from air leaks and irregular vacuum at the teat end. A doe with mastitis will need treatment, and you'll have to be mindful of [milk withdrawal times with any dewormers](/can-i-put-safeguard-in-my-goats-milk) used during recovery. Poor-fitting equipment is one of the top causes of udder infections in dairy goats.
 
-You'll also see teat-end damage over time. The teats can become swollen, bruised, or develop rings at the base where the liner fails to seal properly. Does will start kicking off the milking units, and your milk yield will drop.
+You'll also see teat-end damage over time. The teats can become swollen, bruised, or develop rings at the base where the liner fails to seal properly. [Goats can be trained to stand calmly](/can-goats-be-tamed) on the milking stand, but even a well-trained doe will kick off units that pinch. Does will start kicking off the milking units, and your milk yield will drop.
 
 ## How to prevent common problems when using cow shells with goat liners
 
-The best prevention is simply using goat-specific equipment from the start. Companies like Hamby Dairy, Parts Dept, and Melasty all carry teat cups sized for goats.
+The best prevention is simply using goat-specific equipment from the start. Just like using the right [drench syringe size matters](/can-i-use-kid-feeding-tube-to-drench-adult-goat) for medications, proper teat cup sizing matters for milking. Companies like Hamby Dairy, Parts Dept, and Melasty all carry teat cups sized for goats.
 
 If you're on a tight budget, look for used goat milking equipment from farmers who are selling out of their herds. A properly sized used shell will outperform a brand-new cow shell every time does that are restless on the stand, and a noticeable drop in milk production. If you're seeing any of these, swap out your equipment right away before udder damage sets in.
 

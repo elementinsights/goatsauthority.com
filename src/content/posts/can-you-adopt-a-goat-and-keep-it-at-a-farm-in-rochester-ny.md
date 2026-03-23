@@ -58,25 +58,25 @@ You can also find goats on Petfinder, Craigslist's farm section, and through pri
 
 Goats are smart, social, and full of personality. They bond closely with their owners and will follow you around the yard like a dog once they trust you.
 
-They are also useful animals. Goats keep brush and weeds under control, some breeds produce milk, and they provide endless entertainment with their playful antics. Kids especially love having goats around because they are approachable, curious, and not intimidating.
+They are also useful animals. Goats keep brush and weeds under control, some breeds produce milk, and they provide endless entertainment with their playful antics. Several [heritage breeds like Toggenburgs](/posts/where-did-toggenburg-goats-originate) make excellent choices for first-time owners looking for a reliable dairy animal. Kids especially love having goats around because they are approachable, curious, and not intimidating.
 
 ## How to care for your new goat friend?
 
 Goats need a companion, fresh water, good hay, and a dry shelter. They are browsers, not grazers, so they prefer leaves, shrubs, and weeds over grass. Providing a varied diet keeps them healthy and happy.
 
-Routine care includes hoof trimming every six to eight weeks, annual vet checkups, vaccinations for CDT, and regular deworming based on fecal egg counts. These basics are straightforward and do not take much time once you get into a rhythm.
+Routine care includes hoof trimming every six to eight weeks, annual vet checkups, vaccinations for CDT, and regular deworming based on fecal egg counts. Knowing [how many babies your doe could deliver](/posts/how-many-babies-do-goats-have-at-a-time) is also helpful if you plan on breeding. These basics are straightforward and do not take much time once you get into a rhythm.
 
 ## What kind of food and shelter do goats need?
 
 The shelter does not need to be fancy. A three-sided run-in shed that blocks wind and rain is enough for most of the year. Rochester winters are harsh though, so plan for a draft-free enclosed structure with thick bedding and heated water buckets to get through January and February.
 
-Hay should make up the bulk of their diet, supplemented with a quality goat grain and free-choice minerals. Budget for about 30 percent more hay during winter months, because goats burn extra calories staying warm. A salt block and loose goat minerals should always be available.
+Hay should make up the bulk of their diet, supplemented with a quality goat grain and free-choice minerals. If you plan to breed, understanding [linebreeding risks like father-daughter pairings](/posts/can-you-breed-a-father-and-daughter-goat) will help you make smart decisions when selecting stock. Budget for about 30 percent more hay during winter months, because goats burn extra calories staying warm. A salt block and loose goat minerals should always be available.
 
 ## How to handle common problems that may occur while raising goats?
 
-Parasites are the number one health challenge for goat owners. Run fecal egg counts every couple of months and deworm based on the results rather than on a fixed schedule. Overusing dewormers leads to resistant parasites, which is a growing problem in goat herds nationwide.
+Parasites are the number one health challenge for goat owners. If you don't intend to breed your buck, [banding him at the right age](/posts/can-you-band-a-2-year-old-buck-goat) makes him a calmer, easier companion. Run fecal egg counts every couple of months and deworm based on the results rather than on a fixed schedule. Overusing dewormers leads to resistant parasites, which is a growing problem in goat herds nationwide.
 
-Goats are also escape artists. Your fencing needs to be at least four feet tall with no gaps at the bottom. Use woven wire or cattle panels, and latch every gate with a clip or carabiner. If there is a weak spot in your fence, your goats will find it within the first week.
+Goats are also escape artists, and [breeds like Kikos](/posts/where-did-kiko-goats-originate) are especially hardy but still need secure fencing. Your fencing needs to be at least four feet tall with no gaps at the bottom. Use woven wire or cattle panels, and latch every gate with a clip or carabiner. If there is a weak spot in your fence, your goats will find it within the first week.
 
 ## Final Thoughts
 

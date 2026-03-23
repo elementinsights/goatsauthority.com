@@ -44,11 +44,11 @@ Goat milk formula is safe for dogs and puppies in most situations. It's actually
 
 Yes, dogs can have goat milk formula. Products like Meyenberg canned goat milk are commonly used by breeders and rescue groups for puppies that can't nurse from their mother.
 
-Goat milk is easier for dogs to digest than cow milk because it has smaller fat globules and slightly less lactose. It won't cause the same stomach upset that cow milk often triggers in puppies and adult dogs.
+Goat milk is easier for dogs to digest than cow milk because it has smaller fat globules and slightly less lactose. It won't cause the same stomach upset that cow milk often triggers in puppies and adult dogs. Adult dogs can also benefit from [drinking goat milk every day](/can-dogs-drink-goat-milk-everyday) as a regular supplement.
 
 ## What is goat milk formula and what are the benefits of giving it to dogs?
 
-Goat milk formula is pasteurized goat milk, sometimes evaporated or powdered, that you can mix and feed through a puppy bottle. It contains protein, fat, calcium, and potassium that growing puppies need.
+Goat milk formula is pasteurized goat milk, sometimes evaporated or powdered, that you can mix and feed through a puppy bottle. It contains protein, fat, calcium, and potassium that growing puppies need. If you raise goats and horses on the same property, [goats and horses can pasture together](/can-goats-and-horses-pasture-together) while giving you a ready supply of milk.
 
 The main benefit is digestibility. Many dogs that get diarrhea from cow milk handle goat milk just fine. It's also a good way to keep an orphaned or rejected puppy hydrated and fed while you get your hands on a proper puppy milk replacer.
 
@@ -56,7 +56,7 @@ The main benefit is digestibility. Many dogs that get diarrhea from cow milk han
 
 Goat milk is not a complete replacement for puppy milk replacer. It's lower in protein and has a different vitamin profile than what puppies need for long-term growth.
 
-If you're using goat milk for more than a few days, add a puppy vitamin supplement to cover the nutritional gaps. Watch for loose stools, which can signal you're feeding too much at once, and always warm the milk to about 101 degrees before bottle feeding.
+If you're using goat milk for more than a few days, add a puppy vitamin supplement to cover the nutritional gaps. Watch for loose stools, which can signal you're feeding too much at once, and always warm the milk to about 101 degrees before bottle feeding. [Baby kittens can also drink goat milk](/can-baby-kittens-drink-goats-milk) in emergencies with similar precautions.
 
 ## How much goat milk formula should be given to a dog, and how often should it be administered?
 
@@ -68,13 +68,13 @@ Adult dogs can have a couple tablespoons of goat milk as a treat or food topper.
 
 Start with a small amount mixed into their regular food or offered on its own. Watch for any signs of stomach upset like gas, loose stools, or vomiting over the next 12 hours.
 
-For orphaned puppies, use a puppy nursing bottle with a small nipple. Feed with the puppy on its belly, never on its back, to prevent milk from getting into the lungs. Transition to a proper puppy milk replacer as soon as one becomes available.
+For orphaned puppies, use a puppy nursing bottle with a small nipple. Feed with the puppy on its belly, never on its back, to prevent milk from getting into the lungs. Transition to a proper puppy milk replacer as soon as one becomes available. As your puppy grows, you can introduce [goat meat as a protein source](/can-dogs-eat-goat-meat) for a nutritious homemade diet.
 
 ## Are there any alternative milk products that are safe for dogs?
 
 Commercial puppy milk replacer like Esbilac is the gold standard for orphaned puppies. It's specifically formulated to match the protein and fat content of dog milk.
 
-For adult dogs that enjoy a dairy treat, plain goat milk or plain kefir in small amounts are both well tolerated. Avoid flavored milks, anything with xylitol or artificial sweeteners, and large quantities of any dairy product.
+For adult dogs that enjoy a dairy treat, plain goat milk or plain kefir in small amounts are both well tolerated. [Goat yogurt is another safe dairy option](/can-dogs-have-goat-yogurt) that adds probiotics to your dog's diet. Avoid flavored milks, anything with xylitol or artificial sweeteners, and large quantities of any dairy product.
 
 ## Final Thoughts
 

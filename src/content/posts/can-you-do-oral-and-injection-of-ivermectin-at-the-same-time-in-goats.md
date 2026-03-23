@@ -48,7 +48,7 @@ Some people think that hitting the parasites from two directions at once will be
 
 Ivermectin overdose in goats causes tremors, loss of coordination, difficulty standing, and blindness. In severe cases, goats go down and don't get back up. Death from respiratory failure can follow within hours of a significant overdose.
 
-Young kids and small-breed goats are especially vulnerable because the margin between a therapeutic dose and a toxic dose is narrower. Even in full-sized adults, doubling up on ivermectin is playing with fire.
+Young kids and small-breed goats are especially vulnerable because the margin between a therapeutic dose and a toxic dose is narrower, much like the risks of [penicillin overdose in baby goats](/posts/can-too-much-penicillin-given-to-baby-goat-die). Even in full-sized adults, doubling up on ivermectin is playing with fire.
 
 If you suspect your goat has received too much ivermectin, contact your vet immediately. There is no antidote, but supportive care including IV fluids can help in some cases if you act fast.
 
@@ -56,7 +56,7 @@ If you suspect your goat has received too much ivermectin, contact your vet imme
 
 Oral dosing is the preferred method for goats. When you give ivermectin orally, it passes through the digestive tract where most internal parasites live, giving it direct contact with the worms you're trying to kill.
 
-The standard oral dose is 1 ml of 1% ivermectin per 22 pounds of body weight. Always weigh your goats rather than guessing, because underdosing contributes to parasite resistance and overdosing is dangerous.
+The standard oral dose is 1 ml of 1% ivermectin per 22 pounds of body weight. Always weigh your goats rather than guessing, because underdosing contributes to parasite resistance and overdosing is dangerous. Proper deworming is especially critical when you need to [deworm a pregnant doe](/posts/can-you-deworm-a-pregnant-goat) safely.
 
 Injectable ivermectin given by injection in goats is actually less effective than oral dosing for internal parasites. Many experienced goat owners use the injectable product but give it orally for better results.
 
@@ -66,15 +66,15 @@ Use a syringe without a needle and draw up the correct amount based on your goat
 
 Hold the goat's head up for a few seconds so they swallow rather than spit it out. Some goats fight this, so having a helper hold the goat steady makes the job easier.
 
-One oral dose of ivermectin treats both internal parasites like barber pole worm and external parasites like lice and mites. You don't need to add an injection on top of it.
+One oral dose of ivermectin treats both internal parasites like barber pole worm and external parasites like lice and mites. Healthy [teeth and dental structure](/posts/do-goats-have-teeth) make oral drenching easier since you can slide the syringe into the gap between the incisors and molars. You don't need to add an injection on top of it.
 
 ## When to follow up with a second treatment
 
 If you're dealing with a heavy parasite load, a follow-up dose 10 to 14 days after the first treatment can catch any larvae that have since matured into adults. This is standard practice during bad worm seasons.
 
-Run a fecal egg count before the first treatment and again 10 to 14 days after to see if the ivermectin is actually working. If the egg count hasn't dropped significantly, you may be dealing with resistant parasites and need to switch to a different dewormer class.
+Run a fecal egg count before the first treatment and again 10 to 14 days after to see if the ivermectin is actually working. The goat's [complex rumen system](/posts/how-many-stomachs-do-goats-have) means oral drugs are absorbed differently than in single-stomach animals, which is why the oral route works better. If the egg count hasn't dropped significantly, you may be dealing with resistant parasites and need to switch to a different dewormer class.
 
-Never re-dose sooner than 10 days after the initial treatment. The drug needs time to clear the goat's system before you add more.
+Never re-dose sooner than 10 days after the initial treatment. The drug needs time to clear the goat's system before you add more, and watching for signs of [bloat](/posts/can-you-debloat-a-goat) during this period is important since a stressed rumen can develop gas buildup.
 
 ## Final Thoughts
 

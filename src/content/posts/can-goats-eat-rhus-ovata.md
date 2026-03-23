@@ -42,7 +42,7 @@ Good news — they can eat it. Here's what you should know about goats and sugar
 
 ## Can Goats Eat Rhus Ovata?
 
-Yes, goats can eat Rhus ovata without any problems. It's not toxic to them, and goats in the wild regularly browse on it alongside other native shrubs.
+Yes, goats can eat Rhus ovata without any problems. It's not toxic to them, and goats in the wild regularly browse on it alongside other native shrubs and [acorns](/posts/can-goats-eat-acorns).
 
 Rhus ovata is related to poison oak and poison sumac, which understandably makes some owners nervous. But sugar bush does not contain urushiol, the oil that causes skin reactions in those plants, so your goats are in the clear.
 
@@ -52,19 +52,19 @@ Rhus ovata, commonly called sugar bush, is an evergreen shrub native to the sout
 
 The sticky, reddish berries have a tart, sugary coating that goats seem to enjoy. Native Americans historically used these berries to make a lemonade-like drink, so they're perfectly safe to eat.
 
-As browse, sugar bush adds variety to a goat's diet and gives them something to work on between hay feedings. It's not a complete feed by any means, but it's a solid supplement when it's growing in the pasture.
+As browse, sugar bush adds variety to a goat's diet and gives them something to work on between [hay feedings](/posts/what-kind-of-hay-do-goats-eat). It's not a complete feed by any means, but it's a solid supplement when it's growing in the pasture.
 
 ## What are the risks of feeding Rhus ovata to goats?
 
 The biggest concern is bloat if a goat gorges on too much at once. Rhus ovata contains tannins, and a goat that suddenly eats a large amount of tannin-rich browse can develop gas buildup in the rumen.
 
-Digestive upset is the other risk, but this mostly happens when goats eat a lot of it without being introduced gradually. If your goats have been nibbling on it freely in the pasture, their rumens are already adapted and you likely won't see any issues.
+Digestive upset is the other risk, and knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) is handy if it happens. This mostly occurs when goats eat a lot of it without being introduced gradually. If your goats have been nibbling on it freely in the pasture, their rumens are already adapted and you likely won't see any issues.
 
 ## How to prevent the risks of feeding Rhus ovata to goats?
 
 If your goats haven't had access to Rhus ovata before, introduce it slowly. Let them browse for short periods at first rather than giving them unlimited access to a big stand of it.
 
-Keep clean water available at all times, as this helps buffer the tannins and supports proper digestion. If you notice loose stool or signs of bloat after they've been browsing, pull them off the sugar bush for a few days and let their rumens settle.
+Keep clean water available at all times, as this helps buffer the tannins and supports proper digestion. [Pine needles](/posts/can-goats-eat-pine-needles) are another tannin-rich browse item to offer in moderation. If you notice loose stool or signs of bloat after they've been browsing, pull them off the sugar bush for a few days and let their rumens settle.
 
 ## How to identify Rhus ovata on your property
 
@@ -72,7 +72,7 @@ Rhus ovata grows as an evergreen shrub, usually reaching 8 to 15 feet tall. The 
 
 In spring it produces clusters of small pink to white flowers. By late summer, you'll spot sticky, reddish berries coated in a sugary substance, which is where the name "sugar bush" comes from.
 
-If you're not sure whether a shrub on your property is Rhus ovata, snip a branch and bring it to your local agricultural extension office. Knowing exactly what's growing in your pasture takes the guesswork out of whether it's safe for your herd.
+If you're not sure whether a shrub on your property is Rhus ovata, snip a branch and bring it to your local agricultural extension office. Some plants like [poison hemlock](/posts/can-goats-eat-poison-hemlock) are genuinely deadly, so knowing exactly what's growing in your pasture takes the guesswork out of whether it's safe for your herd.
 
 ## Final Thoughts
 

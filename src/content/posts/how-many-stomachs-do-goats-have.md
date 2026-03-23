@@ -52,15 +52,15 @@ The rumen is the largest compartment and holds about 4 to 6 gallons in an adult 
 
 When a goat eats, the food goes first to the rumen where bacteria start fermenting it. After a while, the goat regurgitates this partially digested material as cud and chews it again to break it down further.
 
-The chewed cud then passes to the reticulum, which acts like a filter. This compartment catches hardware like wire, nails, or rocks that goats accidentally swallow, which is why it is sometimes called the "hardware stomach."
+The chewed cud then passes to the reticulum, which acts like a filter. The food is first broken down by the goat's [teeth and dental pad](/posts/do-goats-have-teeth) before reaching this stage. This compartment catches hardware like wire, nails, or rocks that goats accidentally swallow, which is why it is sometimes called the "hardware stomach."
 
 From the reticulum, food moves to the omasum where water and nutrients get absorbed. Finally it reaches the abomasum, which works just like a human stomach with acid and enzymes that handle the final digestion.
 
 ## What are some common problems with goats' stomachs?
 
-Bloat is the most dangerous stomach problem goats face. It happens when gas builds up in the rumen faster than the goat can belch it out, and the rumen swells up tight like a balloon.
+Bloat is the most dangerous stomach problem goats face and knowing [how to debloat a goat quickly](/posts/can-you-debloat-a-goat) can save its life. It happens when gas builds up in the rumen faster than the goat can belch it out, and the rumen swells up tight like a balloon.
 
-Acidosis is another common issue, usually caused by a goat eating too much grain at once. The rumen pH drops, beneficial bacteria die off, and the goat gets sick fast. Enterotoxemia, caused by Clostridium bacteria, can kill a goat within hours if the animal overeats grain or lush pasture.
+Acidosis is another common issue, usually caused by a goat eating too much grain at once. The rumen pH drops, beneficial bacteria die off, and the goat gets sick fast. Proper [deworming of pregnant does](/posts/can-you-deworm-a-pregnant-goat) is also critical for keeping the rumen microbiome balanced. Enterotoxemia, caused by Clostridium bacteria, can kill a goat within hours if the animal overeats grain or lush pasture.
 
 ## How can you prevent problems with your goat's stomach?
 
@@ -70,9 +70,9 @@ Keep baking soda available free-choice so goats can self-medicate minor rumen ac
 
 ## How can you keep your goat's stomach healthy?
 
-Watch your goats chew their cud. Healthy goats spend several hours each day chewing cud, and a goat that stops chewing for more than 12 hours has a serious problem brewing.
+Watch your goats chew their cud. Healthy goats spend several hours each day chewing cud using their [unique dental setup of lower incisors and back molars](/posts/do-goats-have-top-teeth), and a goat that stops chewing for more than 12 hours has a serious problem brewing.
 
-Press your fist into the goat's left side just behind the last rib. You should feel the rumen contracting 1 to 2 times per minute and hear gurgling sounds. If the area feels rock-hard or drum-tight with no movement, call your vet right away.
+Press your fist into the goat's left side just behind the last rib while also checking their [eyelid color for parasite anemia](/posts/can-you-do-oral-and-injection-of-ivermectin-at-the-same-time-in-goats). You should feel the rumen contracting 1 to 2 times per minute and hear gurgling sounds. If the area feels rock-hard or drum-tight with no movement, call your vet right away.
 
 Keep your goats on a consistent feeding schedule and vaccinate annually with CDT to prevent enterotoxemia and tetanus. A healthy rumen full of good bacteria is your goat's best defense against digestive trouble.
 

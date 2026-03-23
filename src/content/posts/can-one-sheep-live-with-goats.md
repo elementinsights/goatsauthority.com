@@ -48,19 +48,19 @@ There's one critical management detail you need to get right, though, and it inv
 
 Sheep and goats get along well together in most situations. They're both social herd animals, and a sheep living with goats will often adopt goat behaviors over time, like climbing on things and browsing instead of grazing.
 
-A single sheep will view the goat herd as its flock. It'll eat with them, sleep near them, and follow them around the pasture. The sheep won't be as stressed as it would be living completely alone, which matters because isolation stress can make sheep sick.
+A single sheep will view the goat herd as its flock. It'll eat with them, sleep near them, and follow them around the pasture. Many small farms also house [mini pigs alongside fainting goats](/can-mini-pigs-and-fainting-goats-be-kept-together) with similar success. The sheep won't be as stressed as it would be living completely alone, which matters because isolation stress can make sheep sick.
 
 ## Do goats and sheep need the same food?
 
 They eat differently, and that actually works in your favor. Sheep are grazers that prefer grass and low-growing plants. Goats are browsers that go after shrubs, weeds, bark, and leaves.
 
-Because they target different plants, a mixed group uses your pasture more efficiently than either species alone. They both need quality hay in winter and access to fresh water year-round. The big difference is minerals, which I'll get to below.
+Because they target different plants, a mixed group uses your pasture more efficiently than either species alone. Choosing the right bedding also matters, and [pine chips work well for goat and sheep barns](/can-pine-chips-be-used-as-bedding-for-goats). They both need quality hay in winter and access to fresh water year-round. The big difference is minerals, which I'll get to below.
 
 ## What are the benefits of keeping sheep and goats together?
 
 The pasture benefits are real. Your goats will eat the brushy stuff your sheep ignore, and your sheep will mow down the grass your goats walk past. This gives you better overall pasture management without extra work.
 
-They also provide safety in numbers. A mixed herd is more alert to predators than either species alone because goats and sheep watch for threats in slightly different ways. Some farmers also keep a single sheep with goats specifically to have a wool-producing animal without committing to a full flock.
+They also provide safety in numbers. A mixed herd is more alert to predators than either species alone because goats and sheep watch for threats in slightly different ways. Some farmers also keep a single sheep with goats specifically to have a wool-producing animal without committing to a full flock. Others run [pygmy goats with chickens](/can-pygmy-goats-sleep-with-chickens) for a similar multi-species setup on small homesteads.
 
 ## Are there any risks associated with keeping sheep and goats together?
 
@@ -72,11 +72,11 @@ You must use sheep-safe minerals (copper-free) for the entire group. Then give y
 
 Give them enough space. Most conflicts between sheep and goats happen when they're crowded around feeders or in tight quarters. Multiple feeding stations spread far apart reduce competition at mealtime.
 
-Introduce new animals gradually by putting them in an adjacent pen for a few days first. Horned goats can injure a sheep, so be cautious mixing horned goats with polled (hornless) sheep. Bucks and rams should be separated from the group unless you want accidental crossbreeding attempts, which won't produce viable offspring but can injure the animals.
+Introduce new animals gradually by putting them in an adjacent pen for a few days first. Horned goats can injure a sheep, so be cautious mixing horned goats with polled (hornless) sheep. The same caution applies to keeping [rams with goat bucks](/can-rams-be-in-with-goat-bucks), where the fighting style mismatch creates serious injury risks. Bucks and rams should be separated from the group unless you want accidental crossbreeding attempts, which won't produce viable offspring but can injure the animals.
 
 ## What are the treatments for sheep and goats that get sick?
 
-The deworming protocols differ between sheep and goats. Goats metabolize dewormers faster than sheep and often need higher doses, while sheep are more susceptible to certain parasites. Work with a vet who knows both species.
+The deworming protocols differ between sheep and goats. Goats metabolize dewormers faster than sheep and often need higher doses, while sheep are more susceptible to certain parasites. If you are housing goats in urban areas, [urban goat keeping](/can-goats-live-in-an-urban-environment) brings additional health management challenges worth reviewing. Work with a vet who knows both species.
 
 If your sheep develops copper toxicity from accidentally eating goat minerals, get to a vet immediately. Symptoms include weakness, dark urine, and jaundice. There's no easy home treatment for copper poisoning, and without veterinary intervention, it's usually fatal.
 

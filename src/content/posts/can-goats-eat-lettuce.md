@@ -53,17 +53,17 @@ The problem is that lettuce provides almost nothing in terms of calories, protei
 
 Pregnant does can eat lettuce without any concerns. It won't provide the extra calories and minerals a pregnant doe needs, but it's not harmful either.
 
-Romaine lettuce has slightly more folic acid and nutrients than iceberg, making it the better choice for pregnant goats if you're going to offer lettuce at all.
+Romaine lettuce has slightly more folic acid and nutrients than iceberg, making it the better choice for pregnant goats if you're going to offer lettuce at all. For real nutritional impact during pregnancy, [alfalfa](/can-goats-eat-alfalfa/) is a far better option.
 
 ## Can baby goats eat lettuce?
 
-Kids that are old enough to eat solid food can nibble on lettuce, but it shouldn't be a significant part of their diet. Growing kids need calorie-dense feed like grain and quality hay to develop properly.
+Kids that are old enough to eat solid food can nibble on lettuce, but it shouldn't be a significant part of their diet. Growing kids need calorie-dense feed like [oats](/can-goats-eat-oats/) and quality hay to develop properly.
 
 Lettuce is too low in nutritional value to be useful for growing animals. Stick with hay, grain, and good browse as the foundation of a young goat's diet.
 
 ## Benefits associated with feeding lettuce to goats
 
-The main benefit of lettuce is hydration. On a hot summer day, tossing a few heads of lettuce into the pen gives goats some extra water intake along with a bit of stimulation from a different food texture.
+The main benefit of lettuce is hydration, similar to [watermelon](/can-goats-eat-watermelon/) and cucumbers. On a hot summer day, tossing a few heads of lettuce into the pen gives goats some extra water intake along with a bit of stimulation from a different food texture.
 
 Romaine is the most nutritious lettuce variety, offering some vitamin A and vitamin K. Iceberg lettuce is essentially crunchy water, so don't expect much from it nutritionally.
 
@@ -83,10 +83,10 @@ Don't replace any portion of their actual diet with lettuce. It should be treate
 
 Romaine has the most nutritional value of any common lettuce variety and is the best choice for goats if you're going to offer lettuce at all. It has more fiber, vitamins, and minerals than other types.
 
-Butterhead and green leaf lettuce fall in the middle nutritionally. Iceberg is the least nutritious option, though it's perfectly safe to feed. If you want to give your goats leafy greens with actual nutritional value, consider kale, dandelion greens, or Swiss chard in moderation instead. Those pack far more vitamins and minerals per bite than any lettuce variety out there.
+Butterhead and green leaf lettuce fall in the middle nutritionally. Iceberg is the least nutritious option, though it's perfectly safe to feed. If you want to give your goats leafy greens with actual nutritional value, consider [kale](/can-goats-eat-kale/), dandelion greens, or Swiss chard in moderation instead. Those pack far more vitamins and minerals per bite than any lettuce variety out there.
 
 ## Final Thoughts
 
 Lettuce is a safe but mostly useless food for goats from a nutrition standpoint. It's fine as a treat, a way to use up garden extras, or a hydration booster on hot days.
 
-For leafy greens that actually contribute something to your goats' diet, reach for kale, dandelion greens, or Swiss chard instead. Your goats will probably prefer those over lettuce anyway.
+For leafy greens that actually contribute something to your goats' diet, reach for kale, dandelion greens, or [spinach](/can-goats-eat-spinach/) instead. Your goats will probably prefer those over lettuce anyway.

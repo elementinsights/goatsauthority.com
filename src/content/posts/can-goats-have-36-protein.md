@@ -47,13 +47,13 @@ The key word here is supplement. These blocks are designed to be licked, not dev
 
 Yes, goats can have access to 36% protein blocks. These are concentrated protein supplements that work best for goats on low-quality forage who need a nutritional boost.
 
-If your goats are already eating alfalfa hay or getting a good grain ration, they probably don't need a 36% protein block at all. Alfalfa alone runs around 15-20% protein, which covers most goats' needs without any supplementation.
+If your goats are already eating [alfalfa](/posts/can-goats-eat-alfalfa) hay or getting a good grain ration, they probably don't need a 36% protein block at all. Alfalfa alone runs around 15-20% protein, which covers most goats' needs without any supplementation.
 
 ## What is a protein block and why do goats need them?
 
 A protein block is a compressed supplement made from ingredients like cottonseed meal, molasses, urea, and minerals. The hard compressed form forces animals to lick rather than bite off chunks.
 
-Goats need protein for muscle growth, milk production, and overall body maintenance. Growing kids, pregnant does, and lactating does have higher protein requirements than adult wethers or dry does just hanging out on pasture.
+Goats need protein for muscle growth, milk production, and overall body maintenance. Does that are [feeding quads](/posts/can-a-goat-feed-quads) or large litters have especially high protein demands. Growing kids, pregnant does, and lactating does have higher protein requirements than adult wethers or dry does just hanging out on pasture.
 
 ## The nutritional value of protein blocks in goats
 
@@ -65,7 +65,7 @@ Most goats will consume about 0.5 to 1 pound per head per day from a lick block.
 
 Place one block per 10-15 goats in your pasture or loafing area. The goats will take turns visiting it throughout the day and self-regulate their intake based on what their bodies need.
 
-Too much concentrated protein can stress the kidneys, especially in wethers that are already prone to urinary calculi. Monitor consumption closely and pull the block if any individual goat seems to be hogging it or if you notice changes in urination habits. Wethers on high-protein diets are at higher risk for urinary stones, so be extra careful with them.
+Too much concentrated protein can stress the kidneys, especially in wethers that are already prone to urinary calculi. [Timothy hay](/posts/can-goats-eat-timothy-hay) is a better choice for wethers because its lower protein reduces stone risk. Monitor consumption closely and pull the block if any individual goat seems to be hogging it or if you notice changes in urination habits.
 
 ## What are some common brands of goat protein blocks?
 
@@ -77,13 +77,13 @@ Manna Pro also makes protein blocks designed for small ruminants. When comparing
 
 Tractor Supply, local feed mills, and agricultural co-ops all carry protein blocks. You can also order them online, though shipping costs on a 33-pound block can be steep.
 
-Make sure you're buying a block labeled for goats or small ruminants. Cattle blocks may contain additives like monensin (Rumensin) that are toxic to goats even in small doses.
+Make sure you're buying a block labeled for goats or small ruminants. [Cattle dewormer blocks](/posts/can-goats-have-cattle-dewormer-blocks) and cattle mineral blocks may contain additives like monensin (Rumensin) that are toxic to goats even in small doses.
 
 ## How to store goat protein blocks?
 
 Keep them in a cool, dry location off the ground. If moisture gets into the block, it will soften and the goats will eat through it way too fast.
 
-A wet block also grows mold, which can cause digestive upset. Once you set a block out in the pasture, check it after rain and replace any block that's turned mushy or shows mold growth.
+A wet block also grows mold, which can cause digestive upset just like [moldy hay](/posts/can-goats-eat-moldy-hay). Once you set a block out in the pasture, check it after rain and replace any block that's turned mushy or shows mold growth.
 
 ## Final Thoughts
 

@@ -42,7 +42,7 @@ Male goats can eat grain, but you need to be careful about how much they get. Th
 
 Yes, male goats can have grain in limited amounts. The problem is that grain is loaded with phosphorus, and too much phosphorus throws off the mineral balance that keeps the urinary tract healthy.
 
-Wethers are at the highest risk because their urethra is narrower than an intact buck's. Even a small stone can cause a complete blockage in a wether, and a blocked goat can die within 24 to 48 hours if left untreated.
+Wethers are at the highest risk because their urethra is narrower than an intact buck's. Even a small stone can cause a complete blockage in a wether, and a blocked goat can die within 24 to 48 hours if left untreated. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) helps explain why their digestive system handles grain differently than single-stomached animals.
 
 ## The 2:1 calcium-to-phosphorus ratio rule
 
@@ -50,7 +50,7 @@ The single most important thing you can do is maintain a 2:1 calcium-to-phosphor
 
 Adding ammonium chloride to the feed at 0.5% to 1% of the total ration helps acidify the urine and dissolve stones before they become a blockage. You can pick it up in powder form from most livestock supply stores.
 
-Loose goat minerals formulated for bucks and wethers are another easy way to keep that ratio in check. Skip the mineral blocks because goats cannot lick enough off them to get what they actually need.
+Loose goat minerals formulated for bucks and wethers are another easy way to keep that ratio in check. Skip the mineral blocks because goats cannot lick enough off them to get what they actually need. A poor mineral balance can even contribute to [rickets and bone problems](/can-old-goats-develop-rickets) as goats age.
 
 ## Signs your buck is getting too much grain
 
@@ -58,15 +58,15 @@ Bucks will act like they are starving no matter how much you feed them, so do no
 
 If your buck starts straining to urinate, hunching his back, or dribbling small amounts of urine, that is an emergency. Get your vet on the phone immediately because a complete blockage can kill him fast.
 
-Crystals sometimes show up on the hair around the prepuce, looking like tiny white or yellowish grains of sand. A buck that suddenly goes off feed after weeks of eating grain is another red flag worth investigating right away.
+Crystals sometimes show up on the hair around the prepuce, looking like tiny white or yellowish grains of sand. Keeping the area clean through regular [grooming and washing](/can-i-wash-and-groom-a-pygmy-goat) helps you spot these warning signs early. A buck that suddenly goes off feed after weeks of eating grain is another red flag worth investigating right away.
 
 ## What to feed bucks instead of grain
 
-Good quality grass hay should be the backbone of any buck's diet. Orchard grass and timothy hay give them plenty of fiber without the phosphorus overload that grain delivers.
+Good quality grass hay should be the backbone of any buck's diet. Orchard grass and [timothy hay](/can-goats-eat-timothy-hay) give them plenty of fiber without the phosphorus overload that grain delivers.
 
 Browse is even better if you have it available. Bucks love brush, tree branches, and weeds, and letting them clear overgrown areas keeps them fed while keeping your property clean.
 
-If your buck needs extra calories during breeding season or cold weather, try beet pulp soaked in water. It provides energy without the phosphorus spike, and most bucks take to it quickly.
+If your buck needs extra calories during breeding season or cold weather, try beet pulp soaked in water. It provides energy without the phosphorus spike, and most bucks take to it quickly. Adding a handful of [sunflower seeds](/can-goats-eat-sunflower-seeds) to the ration also boosts healthy fats without upsetting the mineral balance.
 
 ## Treating urinary calculi in male goats
 
@@ -74,7 +74,7 @@ If a stone does form, the most common treatment is surgery to remove the blockag
 
 In mild cases, a vet might put the goat on a special diet and administer fluids to help pass smaller stones. Severe cases where the bladder has already ruptured are usually fatal, and euthanasia becomes the kindest option at that point.
 
-Prevention is always cheaper and less painful than treatment. Keep the calcium-to-phosphorus ratio right, add ammonium chloride, provide plenty of fresh water, and limit grain to only what is truly necessary.
+Prevention is always cheaper and less painful than treatment. Keep the calcium-to-phosphorus ratio right, add ammonium chloride, provide plenty of fresh water, and limit grain to only what is truly necessary. If your goat seems bloated from overeating, knowing [how to debloat a goat](/can-you-debloat-a-goat) could save its life.
 
 ## Final thoughts
 

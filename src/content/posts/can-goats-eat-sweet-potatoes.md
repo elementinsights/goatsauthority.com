@@ -42,7 +42,7 @@ Yes, sweet potatoes are safe and nutritious for goats. Despite the name, they ar
 
 ## Can goats eat sweet potatoes?
 
-Sweet potatoes are in the morning glory family, not the nightshade family. This is an important distinction because regular white potatoes contain solanine, which is toxic to goats, while sweet potatoes do not.
+Sweet potatoes are in the morning glory family, not the nightshade family. This is an important distinction because [regular white potatoes](/posts/can-goats-eat-potatoes) contain solanine, which is toxic to goats, while sweet potatoes do not.
 
 You can feed sweet potatoes raw or cooked. Chop them into pieces about 1 to 2 inches across so your goats can chew them easily and you reduce any choking risk.
 
@@ -50,7 +50,7 @@ You can feed sweet potatoes raw or cooked. Chop them into pieces about 1 to 2 in
 
 The vines and leaves are completely safe and most goats go crazy for them. If you grow sweet potatoes in your garden, the vines make fantastic supplemental forage throughout the growing season.
 
-Sweet potato leaves are rich in vitamins and minerals, including vitamin A and copper. They are one of the few garden plants you can freely share with your herd without worrying about toxicity.
+Sweet potato leaves are rich in vitamins and minerals, including vitamin A and copper. Unlike nightshade plants like [tomatoes](/posts/can-goats-eat-tomatoes) where the leaves are toxic, sweet potato vines are one of the few garden plants you can freely share with your herd without worrying about toxicity.
 
 ## Can goats eat sweet potato roots?
 
@@ -62,19 +62,19 @@ Chop the roots into smaller chunks rather than handing a whole sweet potato to a
 
 Sweet potatoes are rich in beta-carotene, which the body converts to vitamin A. Vitamin A supports immune function, vision, and reproductive health in goats.
 
-They also provide vitamin C, fiber, and potassium. The natural sugars give goats a quick energy boost, which makes sweet potatoes a great treat during cold weather or for does in late pregnancy that need extra calories.
+They also provide vitamin C, fiber, and potassium. The natural sugars give goats a quick energy boost, which makes sweet potatoes a great treat during cold weather alongside other favorites like [pumpkin](/posts/can-goats-eat-pumpkin), or for does in late pregnancy that need extra calories.
 
 ## Are there any risks associated with feeding sweet potatoes to goats?
 
 The main risk is overfeeding. Sweet potatoes are high in sugar compared to hay, and too much sugar at once can upset the rumen and cause loose stools.
 
-Avoid feeding sweet potatoes that have started to sprout or show signs of mold. Sprouted sweet potatoes can contain compounds that are harder on a goat's stomach, and moldy food of any kind is a no-go for ruminants.
+Avoid feeding sweet potatoes that have started to sprout or show signs of mold. The same caution applies to [moldy hay](/posts/can-goats-eat-moldy-hay) and any other spoiled feed. Sprouted sweet potatoes can contain compounds that are harder on a goat's stomach, and moldy food of any kind is a no-go for ruminants.
 
 ## What is the recommended serving size for sweet potatoes?
 
 A few chopped pieces per goat is plenty as a treat. Think of it as a supplement to their regular hay and feed, not a replacement.
 
-For a standard-sized goat, half a medium sweet potato per day is a reasonable upper limit. Pygmy and Nigerian Dwarf goats should get proportionally less since their smaller rumens fill up faster.
+For a standard-sized goat, half a medium sweet potato per day is a reasonable upper limit. Pygmy and Nigerian Dwarf goats, popular choices for those [keeping goats in urban environments](/posts/can-goats-live-in-an-urban-environment), should get proportionally less since their smaller rumens fill up faster.
 
 ## Final Thoughts
 

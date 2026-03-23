@@ -44,7 +44,7 @@ Yes, pinkeye can spread between goats and cattle. If you run both species on the
 
 Pinkeye, also called infectious keratoconjunctivitis, can absolutely jump between goats and cattle. The organisms that cause it, mainly Mycoplasma and Chlamydia species, don't care which ruminant they infect.
 
-The biggest carrier is face flies. These pests feed on the moisture around an animal's eyes and carry bacteria from one animal to the next as they move through your herd.
+The biggest carrier is face flies. These pests feed on the moisture around an animal's eyes and carry bacteria from one animal to the next as they move through your herd. External parasites like [mites](/can-goats-get-mites) are another concern that spreads through close herd contact.
 
 ## What is pink eye and what are the symptoms of this disease in goats and cattle?
 
@@ -56,23 +56,23 @@ As it progresses, the cornea turns cloudy or bluish-white. In severe cases, an u
 
 Fly control is your first line of defense. Use fly tags, pour-on treatments, or fly traps around your barn and pasture, especially from late spring through early fall when fly pressure peaks.
 
-Isolate any animal showing symptoms immediately. Shared water troughs, feed bunks, and even your own hands can transfer the bacteria between animals, so disinfect equipment and wash up after handling a sick animal.
+Isolate any animal showing symptoms immediately. Shared water troughs, feed bunks, and even your own hands can transfer the bacteria between animals, so disinfect equipment and wash up after handling a sick animal. The same biosecurity applies to [strangles transmission from horses to goats](/can-strangles-from-horse-be-passed-to-goats) on mixed farms.
 
 ## What are the possible treatments for pink eye in both goats and cattle?
 
 For mild cases, terramycin eye ointment applied directly to the eye twice a day usually does the job. Squeeze a strip across the eyeball and under the lower lid, and keep at it for five to seven days even if the eye looks better.
 
-For more severe infections with corneal ulcers, an injection of LA-200 (oxytetracycline) can help fight the infection systemically. Your vet may also recommend a patch over the eye to protect it from sunlight and flies while it heals.
+For more severe infections with corneal ulcers, an injection of LA-200 (oxytetracycline) can help fight the infection systemically. For topical wound care on other parts of the body, many farmers ask [whether Neosporin is safe for goats](/can-i-put-neosporin-on-my-goats). Your vet may also recommend a patch over the eye to protect it from sunlight and flies while it heals.
 
 ## When should you seek veterinary help for this condition?
 
 Call your vet if the eye isn't improving after three days of treatment, or if you see a deep ulcer forming on the cornea. A ruptured eye is a real possibility with advanced pinkeye, and that's not something you want to deal with on your own.
 
-Also get professional help if multiple animals go down with it at once. A full herd outbreak needs aggressive treatment and possibly prescription medications beyond what you can get at the feed store.
+Also get professional help if multiple animals go down with it at once. A full herd outbreak needs aggressive treatment and possibly prescription medications beyond what you can get at the feed store. Untreated infections can also contribute to [goat polio](/can-goats-recover-from-polio-without-medication), another condition where early vet intervention is critical.
 
 ## Are there any other diseases that can cause similar symptoms?
 
-Dust, tall grass, and seed heads can scratch the cornea and mimic early pinkeye symptoms. Foreign bodies in the eye, like hay chaff or foxtails, cause similar tearing and squinting.
+Dust, tall grass, and seed heads can scratch the cornea and mimic early pinkeye symptoms. [Sore mouth is another disease](/can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed) that affects visible areas of a goat's face and is sometimes confused with eye issues. Foreign bodies in the eye, like hay chaff or foxtails, cause similar tearing and squinting.
 
 Listeriosis can sometimes cause facial drooping that looks like an eye problem at first glance. If you're not sure what you're dealing with, get your vet involved so you treat the right thing from the start.
 

@@ -53,13 +53,13 @@ But let's clear something up: Pop Tarts are loaded with sugar. A single pastry c
 
 Pop Tarts are a pre-packaged breakfast pastry made from refined flour, sugar, and artificial flavoring. One pastry packs around 200 calories, 38 grams of sugar, and very little else of nutritional value.
 
-For goats, there's nothing here that helps. Goats need fiber to keep their rumen working, minerals for bone and coat health, and quality protein for muscle. Pop Tarts deliver sugar, refined carbs, and artificial ingredients. That's it.
+For goats, there's nothing here that helps. Goats need fiber from [hay](/what-kind-of-hay-do-goats-eat/) to keep their rumen working, minerals for bone and coat health, and quality protein for muscle. Pop Tarts deliver sugar, refined carbs, and artificial ingredients. That's it.
 
 ## Are there any other benefits that goats can enjoy from eating pop tarts?
 
 There are no real nutritional benefits. The sugar provides a quick burst of energy, but that's the same kind of empty energy spike that causes problems in the long run.
 
-Some goat owners use small pieces of sweet treats as training rewards, and a tiny fragment of a Pop Tart could work in a pinch. But there are far better training treats out there, like raisins or apple slices, that actually contain vitamins and minerals.
+Some goat owners use small pieces of sweet treats as training rewards, and a tiny fragment of a Pop Tart could work in a pinch. But there are far better training treats out there, like [raisins](/can-goats-eat-raisins/) or apple slices, that actually contain vitamins and minerals.
 
 ## How should you give pop tarts to your goats?
 
@@ -77,16 +77,16 @@ In more serious scenarios, the sugar overload can trigger enterotoxemia, a poten
 
 Consider that your goat's rumen depends on a consistent diet of fiber-rich foods. Any sudden introduction of sugary, processed food disrupts the microbial balance that keeps digestion running.
 
-Young kids under six months are especially sensitive to sugar and artificial ingredients. Pregnant and lactating does also need clean, quality nutrition rather than empty calories. If you want to treat your goats, there are dozens of options that are both safer and more enjoyable for them.
+Young kids under six months are especially sensitive to sugar and artificial ingredients. Pregnant and lactating does also need clean, quality nutrition from [alfalfa](/can-goats-eat-alfalfa/) and oats rather than empty calories. If you want to treat your goats, there are dozens of options that are both safer and more enjoyable for them.
 
 ## How to store and serve pop tarts to your goats?
 
 Honestly, the best advice is to store Pop Tarts where your goats can't reach them. Goats are notorious escape artists and food thieves, and a box left within reach will get demolished.
 
-If your goat does raid the pantry and eat several Pop Tarts at once, offer plenty of fresh water and quality hay immediately. The fiber will help buffer the rumen against the sugar load. Watch for signs of distress like bloating, refusing food, or lethargy over the next 12 to 24 hours. If symptoms appear, call your vet.
+If your goat does raid the pantry and eat several Pop Tarts at once, offer plenty of fresh water and quality hay or [hay cubes](/can-goats-eat-hay-cubes/) immediately. The fiber will help buffer the rumen against the sugar load. Watch for signs of distress like bloating, refusing food, or lethargy over the next 12 to 24 hours. If symptoms appear, call your vet.
 
 ## Final Thoughts
 
 A small bite of a Pop Tart on a rare occasion won't hurt your goat. But Pop Tarts are pure junk food with nearly 40 grams of sugar per serving and zero nutritional value for livestock.
 
-Treat your goats with apple slices, carrots, raisins, or watermelon rinds instead. They'll be just as excited, and their rumens will handle it without any trouble.
+Treat your goats with apple slices, [carrots](/can-goats-eat-carrots/), raisins, or watermelon rinds instead. They'll be just as excited, and their rumens will handle it without any trouble.

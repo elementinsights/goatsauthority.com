@@ -52,7 +52,7 @@ This is normal goat behavior, not a sign of distress by itself. Goats vocalize t
 
 ## What are the reasons goats might scream?
 
-Does in heat are the loudest screamers you'll ever hear on a farm. They can keep it up for hours, and there's not much you can do about it except wait for the cycle to pass or breed them.
+Does in heat are the loudest screamers you'll ever hear on a farm. They can keep it up for hours, and there's not much you can do about it except wait for the cycle to pass or breed them. This vocalization is also why keeping goats [tethered for extended periods](/can-goats-be-tethered) creates noise complaints with neighbors.
 
 Bucks during rut make their own category of bizarre noise, often described as blubbering or gargling. Kids bleat constantly when separated from their mothers, which is their way of calling out until mom responds. Goats also scream when they're hungry, bored, want attention, or spot you carrying a feed bucket from 200 yards away.
 
@@ -66,19 +66,19 @@ A distress scream sounds different. It's more frantic, continuous, and the goat 
 
 First, check the basics. Make sure they have food, water, and that no predator is lurking around the pen. A quick visual check of your goat can rule out obvious problems like limping, bloat, or injuries.
 
-If your goat is screaming and showing signs of pain, call your vet. Conditions like urinary calculi in bucks, difficult labor in does, or bloat can be life-threatening and need fast attention.
+If your goat is screaming and showing signs of pain, call your vet. Conditions like urinary calculi in bucks, difficult labor in does, or bloat can be life-threatening and need fast attention. [Baking soda misuse can contribute to urinary calculi](/can-baking-soda-cause-urinary-issues-in-goats), so proper diet management prevents these painful episodes.
 
 ## Are there any other sounds goats make that might be mistaken for screams?
 
 Goats have a whole vocabulary beyond screaming. Normal bleating is softer and more rhythmic, kind of like a conversation between herd mates. Mother goats and their kids have specific calls they use to find each other.
 
-Bucks make a deep, rumbling blubber during breeding season that sounds nothing like a bleat. Some goats also snort or sneeze loudly, which can startle you if you're not expecting it. Nubians are widely considered the noisiest breed, so keep that in mind if you have close neighbors.
+Bucks make a deep, rumbling blubber during breeding season that sounds nothing like a bleat. Some goats also snort or sneeze loudly, which can startle you if you're not expecting it. Nubians are widely considered the noisiest breed, so keep that in mind if you have close neighbors. Understanding [whether goats can bite](/can-goats-bite) alongside their vocal behaviors gives you a complete picture of goat communication.
 
 ## How can you prevent your goat from screaming unnecessarily?
 
-You can't completely stop a goat from being vocal, but you can reduce the frequency. Make sure your goats always have companions, because a lonely goat is a screaming goat. They're herd animals and should never be kept alone.
+You can't completely stop a goat from being vocal, but you can reduce the frequency. Make sure your goats always have companions, because a lonely goat is a screaming goat. They're herd animals and should never be kept alone. Goats that [graze alongside cows](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting) or other species tend to be calmer and less vocal.
 
-Keep a consistent feeding schedule so they're not screaming at you every time you walk outside. Bored goats are loud goats, so give them things to climb on, play with, and explore. Also, check your local noise ordinances before bringing goats home, because your neighbors may not find the screaming as charming as you do.
+Keep a consistent feeding schedule so they're not screaming at you every time you walk outside. Bored goats are loud goats, so give them things to climb on, play with, and explore. Also, check your local noise ordinances before bringing goats home, because your neighbors may not find the screaming as charming as you do. A [fox or other predator nearby](/can-a-fox-kill-a-goat) will also trigger intense screaming, so investigate when nighttime noise erupts suddenly.
 
 ## Final Thoughts
 

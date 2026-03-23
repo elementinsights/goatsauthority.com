@@ -52,7 +52,7 @@ Bucks at 4 are also at peak fertility. Fully grown, physically mature, and ready
 
 Breeding a 4-year-old doe is about as easy as it gets. Her pelvis is fully developed for easy kidding, and her body has the reserves to carry kids without getting run down.
 
-Compare that to a yearling that is still growing while pregnant. A young doe splits nutrients between her own development and the demands of pregnancy. At 4, all her growth is finished and every calorie goes toward healthy kids.
+Compare that to a yearling that is still growing while pregnant, or a [6-year-old maiden doe](/posts/can-you-breed-a-6-yr-old-goat-for-first-time) that faces higher dystocia risk. A young doe splits nutrients between her own development and the demands of pregnancy. At 4, all her growth is finished and every calorie goes toward healthy kids.
 
 ## How to determine if your goat is ready for breeding?
 
@@ -66,19 +66,19 @@ Watch for heat signs: tail flagging, swollen vulva, clear discharge, and louder 
 
 Bump up her nutrition about a month before breeding season. An extra half pound of grain per day plus free-choice quality hay and a loose mineral with selenium and zinc will support strong fertility.
 
-Trim her hooves, update vaccinations, and run a fecal egg count to see if she needs deworming. You want her in top shape going into pregnancy. If you are bringing in a buck from another farm, quarantine him for two weeks before he meets your does.
+Trim her hooves, update vaccinations, and run a fecal egg count to see if she needs deworming. You want her in top shape going into pregnancy. If you are bringing in a buck from another farm, quarantine him for two weeks before he meets your does. Bringing in unrelated genetics also prevents the [risks of breeding close relatives](/posts/can-you-breed-a-half-brother-and-sister-goat) that plague small herds.
 
 ## The process of breeding a 4-year-old goat
 
 Put her in with the buck when she comes into standing heat. You will know she is ready when she stands still and lets him mount instead of running off.
 
-Breeding usually happens within a few hours. Mark the date on your calendar so you can calculate the due date, roughly 145 to 155 days out. A healthy 4-year-old doe has excellent conception rates, so needing a second cycle is uncommon.
+Breeding usually happens within a few hours. Mark the date on your calendar so you can calculate the due date, roughly 145 to 155 days out. Most does at this age will deliver [twins as the most common outcome](/posts/how-many-babies-do-goats-have-at-a-time). A healthy 4-year-old doe has excellent conception rates, so needing a second cycle is uncommon.
 
 ## Common problems that can occur during and after breeding goats
 
-If she has never been bred before, her first kidding deserves extra attention. Set up a clean kidding stall with fresh straw at least two weeks before her due date and stock a basic kidding kit with iodine, clean towels, and a bulb syringe.
+If she has never been bred before, her first kidding deserves extra attention. Consider [breeding Myotonic goats](/posts/can-you-breed-screaming-and-fainting-goats) if you want calmer, easier-to-manage stock for your operation. Set up a clean kidding stall with fresh straw at least two weeks before her due date and stock a basic kidding kit with iodine, clean towels, and a bulb syringe.
 
-Watch for pregnancy toxemia in the last month, especially with multiples. Signs include lethargy, loss of appetite, and a sweet smell on the breath. That needs a vet right away.
+Watch for pregnancy toxemia in the last month, especially with multiples. Signs include lethargy, loss of appetite, and a sweet smell on the breath. If you are not planning to breed a buckling from this kidding, [banding him early](/posts/can-you-band-a-2-year-old-buck-goat) at the proper age is far safer than waiting. Pregnancy toxemia needs a vet right away.
 
 ## Final Thoughts
 

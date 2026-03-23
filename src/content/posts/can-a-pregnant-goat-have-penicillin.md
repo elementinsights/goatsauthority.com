@@ -46,13 +46,13 @@ When a pregnant doe gets sick, you need to act fast. Penicillin is one of the sa
 
 Procaine Penicillin G is the standard form used in goats and is safe during pregnancy. There's no evidence that it causes birth defects or harms developing kids in the womb.
 
-The standard dose is 1ml per 10 lbs of body weight, given as an intramuscular injection every 12 hours for 5 days. Don't skip doses or quit early just because she looks better after a couple of days, or the infection can come roaring back.
+The standard dose is 1ml per 10 lbs of body weight, given as an intramuscular injection every 12 hours for 5 days. Knowing [how many babies she's carrying](/how-many-babies-do-goats-have-at-a-time/) helps you gauge how much stress her body is under. Don't skip doses or quit early just because she looks better after a couple of days, or the infection can come roaring back.
 
 ## Benefits of Penicillin for Pregnant Goats
 
-Penicillin treats the bacterial infections that pregnant does are most prone to, including respiratory infections, foot rot, and uterine infections. Left untreated, these infections can cause miscarriage or produce weak kids at birth.
+Penicillin treats the bacterial infections that pregnant does are most prone to, including respiratory infections, foot rot, and uterine infections. Left untreated, these infections can [cause the doe to miscarry one or more kids](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/) or produce weak kids at birth.
 
-The drug has a wide margin of safety, meaning there's a big gap between the effective dose and a harmful dose. That makes it hard to accidentally overdose a pregnant goat, which is a real comfort when you're treating a valuable doe carrying kids.
+The drug has a wide margin of safety, meaning there's a big gap between the effective dose and a harmful dose. That makes it hard to accidentally overdose a pregnant goat, which is a real comfort when you're treating a valuable doe carrying kids. [Saanen does](/can-a-saanen-goat-have-babies-year-round/) and other large dairy breeds may need higher total doses due to their body weight.
 
 ## Risks associated with giving penicillin to a pregnant goat
 
@@ -70,13 +70,13 @@ Inject slowly and pull the needle straight out. Wipe the injection site with an 
 
 A pregnant doe fighting an infection needs extra nutritional support. Make sure she has free-choice grass hay, clean water, and a loose goat mineral available at all times.
 
-During the last 6 weeks of pregnancy, increase her grain ration gradually. This is when the kids are growing fastest and her energy needs jump significantly. Good nutrition supports her immune system and helps the antibiotics do their job.
+During the last 6 weeks of pregnancy, increase her grain ration gradually. This is when the kids are growing fastest and her energy needs jump significantly, especially if she's carrying [quads that need feeding](/can-a-goat-feed-quads/) after birth. Good nutrition supports her immune system and helps the antibiotics do their job.
 
 ## Frequently asked questions (FAQs) about penicillin and pregnant goats
 
 Penicillin only works against bacterial infections. If your goat has a virus, penicillin won't help, so talk to your vet before starting treatment.
 
-Don't give penicillin orally to adult goats because it disrupts the rumen bacteria and can cause digestive problems. Always use the injectable form given intramuscularly. If your goat has ever had an allergic reaction to penicillin before, use a different antibiotic and consult your vet for alternatives.
+Don't give penicillin orally to adult goats because it disrupts the rumen bacteria and can cause digestive problems. Always use the injectable form given intramuscularly. If your goat has ever had an allergic reaction to penicillin before, use a different antibiotic and consult your vet for alternatives. If the doe goes past [day 155 without labor signs](/can-an-over-due-goat-be-induced-to-labor/), the vet may need to intervene regardless of the infection status.
 
 ## Final Thoughts
 

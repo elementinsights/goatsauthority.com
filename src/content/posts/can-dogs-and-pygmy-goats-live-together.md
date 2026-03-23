@@ -44,13 +44,13 @@ Dogs and pygmy goats can absolutely live together, and many farms have both side
 
 Yes, but it depends heavily on the dog's breed and temperament. Livestock guardian dogs like Great Pyrenees, Anatolian Shepherds, and Maremmas are bred to live with and protect small livestock, making them ideal companions for pygmy goats.
 
-Pet dogs are a different story. Herding breeds like Border Collies and Australian Shepherds tend to chase goats, which stresses the goats out even if the dog means no harm. Terriers and other high-prey-drive breeds may nip at or injure a small pygmy goat.
+Pet dogs are a different story. Herding breeds like Border Collies and Australian Shepherds tend to chase goats, which stresses the goats out even if the dog means no harm. Terriers and other high-prey-drive breeds may nip at or injure a small pygmy goat. If you're keeping goats indoors or in close quarters, you should also understand [whether goats can be kept in the house](/can-goats-be-kept-in-the-house) alongside pets.
 
 ## How to make dogs and pygmy goats live together peacefully?
 
 Start with a fence-line introduction where both animals can see and smell each other without physical contact. Keep the dog on a leash for the first face-to-face meeting, and watch both animals closely for signs of stress or aggression.
 
-Supervise every interaction for at least two to three weeks before you even think about leaving them alone together. Some dogs take months to fully accept a goat as a herdmate rather than something to chase, so do not rush this process.
+Supervise every interaction for at least two to three weeks before you even think about leaving them alone together. Some dogs take months to fully accept a goat as a herdmate rather than something to chase, so do not rush this process. Adding other species can also work well, since [ducks and goats coexist](/can-ducks-and-goats-coexist) peacefully with minimal effort.
 
 ## What are the benefits of having a dog and a pygmy goat?
 
@@ -62,19 +62,19 @@ Pygmy goats and dogs can also become genuine companions once they bond. I have s
 
 The right breed of dog absolutely can protect pygmy goats from predators. Livestock guardian breeds are raised with the herd from puppyhood and view the goats as part of their pack to defend.
 
-A Chihuahua or a Yorkie is not going to stop a coyote though. You need a large, confident breed that was developed for guarding livestock. Great Pyrenees and Anatolian Shepherds are the two most popular choices among goat owners in the United States.
+A Chihuahua or a Yorkie is not going to stop a coyote though. You need a large, confident breed that was developed for guarding livestock. Great Pyrenees and Anatolian Shepherds are the two most popular choices among goat owners in the United States. You can also use [goat poop as fertilizer](/can-goat-poop-be-used-as-fertilizer) in shared spaces to keep the property productive.
 
 ## Are there any disadvantages to having a dog and a pygmy goat?
 
 The biggest risk is a dog with prey drive going after your pygmy goat. Even a friendly dog can injure a small goat during rough play, and one bad incident can traumatize a goat permanently.
 
-You also need separate feeding areas because dogs will eat goat feed and goats will get into dog food. Both situations can cause digestive problems, and goat minerals containing copper can be toxic to some dog breeds.
+You also need separate feeding areas because dogs will eat goat feed and goats will get into dog food. Both situations can cause digestive problems, and goat minerals containing copper can be toxic to some dog breeds. Good fencing is essential too, since [goats can climb fences](/can-goats-climb-fences) and may wander into areas with dog food.
 
 ## What breed of dogs get along best with pygmy goats?
 
 Livestock guardian breeds are the gold standard for goat-dog compatibility. Great Pyrenees are calm, gentle, and naturally protective. Anatolian Shepherds are more independent but equally effective as guardians.
 
-For pet dogs that will share space with goats, Labrador Retrievers and Golden Retrievers tend to do well because of their gentle temperament. Avoid any breed with a strong prey drive, including most terriers, greyhounds, and huskies. Never leave an untested dog alone with your pygmy goats no matter what breed it is.
+For pet dogs that will share space with goats, Labrador Retrievers and Golden Retrievers tend to do well because of their gentle temperament. Avoid any breed with a strong prey drive, including most terriers, greyhounds, and huskies. Never leave an untested dog alone with your pygmy goats no matter what breed it is. When building shared housing, consider whether the [goat barn size like 12x12](/can-a-goat-barn-be-12x-2) is adequate for both species.
 
 ## Final Thoughts
 

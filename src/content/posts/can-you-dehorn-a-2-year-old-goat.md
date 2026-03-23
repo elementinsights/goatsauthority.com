@@ -47,7 +47,7 @@ The horns at this age are thick and vascularized, meaning there will be signific
 
 ## What are the benefits of dehorning a 2 year old goat?
 
-Hornless goats are safer to handle and less likely to injure other goats, children, or you when you are working in close quarters. Horns get caught in fences, hay feeders, and gates, which can lead to broken necks and strangulation.
+Hornless goats are safer to handle and less likely to injure other goats, children, or you when you are working in close quarters. Horns get caught in fences, hay feeders, and gates, which can lead to broken necks and strangulation, even for a sure-footed animal with [cloven hooves designed for climbing](/posts/do-goats-have-cloven-hooves).
 
 If you show goats or sell them, many buyers and show rings require hornless animals. Dehorning also reduces the damage that dominant goats can inflict on lower-ranking herd members during head-butting.
 
@@ -55,7 +55,7 @@ If you show goats or sell them, many buyers and show rings require hornless anim
 
 The risks are significant at this age. Heavy bleeding is expected because the horn core has a major blood supply running through it. There is also the risk of opening the frontal sinus, which leaves a hole into the skull that must heal from the inside out.
 
-Sinusitis is the most common post-surgical complication. Bacteria, flies, and debris can get into the open sinus cavity and cause a nasty infection. Recovery takes 4 to 6 weeks, and the goat needs daily wound care during that time.
+Sinusitis is the most common post-surgical complication, and the risk of [catching diseases from your goats](/posts/can-you-catch-diseases-from-goats) increases when you are managing open wounds. Bacteria, flies, and debris can get into the open sinus cavity and cause a nasty infection. Recovery takes 4 to 6 weeks, and the goat needs daily wound care during that time.
 
 ## How to prevent the risks when dehorning a 2 year old goat?
 
@@ -65,15 +65,15 @@ After surgery, keep the goat in a clean, dry stall with fresh bedding. Check the
 
 ## Are there any other options besides dehorning a 2 year old goat?
 
-Horn tipping is a much simpler and less painful option. This involves cutting just the insensitive tip of the horn, removing the sharp point without opening the blood supply or sinus cavities. It does not fully remove the horn but makes it much safer.
+Horn tipping is a much simpler and less painful option, and many owners find it adequate since [goats already have excellent eyesight](/posts/do-goats-have-good-eyesight) for avoiding obstacles. This involves cutting just the insensitive tip of the horn, removing the sharp point without opening the blood supply or sinus cavities. It does not fully remove the horn but makes it much safer.
 
-You can also leave the horns and manage around them by using horn-safe fencing and feeders. Some owners file down sharp edges or cap the horn tips with rubber or tennis balls to blunt them.
+You can also leave the horns and manage around them by using horn-safe fencing and feeders, which is similar to how [banding adult goat horns](/posts/can-you-band-an-adult-goats-horns-to-dehorn-them) is not viable and management is the better choice. Some owners file down sharp edges or cap the horn tips with rubber or tennis balls to blunt them.
 
 ## Why disbudding early is always better
 
-The best time to deal with horns is disbudding at 3 to 7 days old. At that age, the horn buds are tiny nubs that can be destroyed in seconds with a hot disbudding iron. There is minimal bleeding, fast healing, and almost no risk of complications.
+The best time to deal with horns is [disbudding at 3 to 7 days old](/posts/can-you-disbud-a-goat-without-medication). At that age, the horn buds are tiny nubs that can be destroyed in seconds with a hot disbudding iron. There is minimal bleeding, fast healing, and almost no risk of complications.
 
-If you know you want hornless goats, plan for disbudding before the kids are even born. Talk to your vet or an experienced breeder and have the iron ready. Waiting until a goat is 2 years old turns a 10 second procedure into a full surgical operation.
+If you know you want hornless goats, plan for disbudding before the kids are even born. Knowing [how many babies your doe will have](/posts/how-many-babies-do-goats-have-at-a-time) helps you prepare the right number of supplies. Talk to your vet or an experienced breeder and have the iron ready. Waiting until a goat is 2 years old turns a 10 second procedure into a full surgical operation.
 
 ## Final Thoughts
 

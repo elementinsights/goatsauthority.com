@@ -58,27 +58,27 @@ Pigmented udder skin is actually a plus in many climates. Dark skin is more resi
 
 The main driver is melanin distribution, which is genetic. Some does inherit heavy pigmentation on their udders while others don't, and it can even change slightly between lactations as the skin stretches and recovers.
 
-The important thing is knowing which color changes are normal and which signal a problem. Redness and heat usually mean mastitis. A blue or purple tint is a veterinary emergency that can indicate gangrene. Normal variation in pigmentation is cosmetic, not a health concern.
+The important thing is knowing which color changes are normal and which signal a problem. Redness and heat usually mean mastitis. A blue or purple tint is a veterinary emergency that can indicate gangrene, and a goat dealing with [anemia or stroke-like symptoms](/can-goats-have-a-stroke-anemia/) may also show unusual tissue discoloration. Normal variation in pigmentation is cosmetic, not a health concern.
 
 ## What are dairy goats and what do they provide?
 
 Dairy goats are breeds specifically selected for high milk production. The most common dairy breeds in the U.S. Are Nubians, Saanens, Alpines, LaManchas, Toggenburgs, and Oberhaslis, each with their own strengths in milk volume and butterfat content.
 
-A good dairy doe produces 2 to 3 quarts of milk per day for about 10 months after kidding. That milk gets used for drinking, cheesemaking, soap, yogurt, and dozens of other products on small farms and homesteads across the country.
+A good dairy doe produces 2 to 3 quarts of milk per day for about 10 months after kidding. Some people wonder whether [goat milk can cause acne](/can-goat-milk-cause-acne/) or even [help reduce wrinkles](/can-goat-milk-reduce-wrinkles/), and both are worth understanding. That milk gets used for drinking, cheesemaking, soap, yogurt, and dozens of other products on small farms and homesteads across the country.
 
 ## Common dairy goat breeds
 
 Saanens are the highest-volume producers and are sometimes called the Holsteins of the goat world. They're big, white, and put out a lot of mild-flavored milk with lighter-colored udders.
 
-Nubians produce less volume but their milk has the highest butterfat content, which makes it ideal for cheese and ice cream. Their udders often show the most color variation since the breed comes in nearly every coat pattern.
+Nubians produce less volume but their milk has the highest butterfat content, which makes it ideal for cheese and ice cream. Their udders often show the most color variation since the breed comes in nearly every coat pattern. Keeping an eye out for [external parasites like lice](/can-goat-lice-live-on-humans/) during milking is also smart, since udder handling gives you a close look at skin health.
 
 Alpines are hardy, consistent milkers that do well in a variety of climates. LaManchas are recognizable by their tiny ears and are known for being calm on the milk stand. Both breeds can have udder skin that ranges from solid pink to heavily pigmented black.
 
 ## Monitoring udder health
 
-Check your does' udders every time you milk. Feel for heat, hardness, or lopsided swelling that wasn't there the day before. Strip the first few squirts into a dark-bottomed cup and look for clumps, strings, or discoloration.
+Check your does' udders every time you milk. Feel for heat, hardness, or lopsided swelling that wasn't there the day before. If you notice sores forming near the teats, have them checked since [orf can spread to the udder](/can-a-goat-get-a-cold-sore/) from nursing kids. Strip the first few squirts into a dark-bottomed cup and look for clumps, strings, or discoloration.
 
-Mastitis caught early responds well to treatment. Mastitis caught late can permanently damage the udder tissue and end a doe's milking career. Daily vigilance takes less than a minute per goat and saves you from much bigger problems.
+Mastitis caught early responds well to treatment. Mastitis caught late can permanently damage the udder tissue and end a doe's milking career. A [CDT vaccination program](/can-a-cdt-shot-kill-a-goat/) and routine health monitoring, including daily udder checks, take less than a minute per goat and save you from much bigger problems.
 
 ## Final Thoughts
 

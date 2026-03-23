@@ -44,13 +44,13 @@ They use horizontal rails as steps, stand on their hind legs to reach the top, a
 
 Goats are notorious fence climbers, and they treat every fence like a puzzle to solve. They'll test every inch of your fence line looking for weak spots, loose panels, and gaps they can exploit.
 
-Not every goat is an escape artist, though. Heavier breeds like Boers rarely bother trying, while lighter, more athletic breeds like Nigerian Dwarfs and Alpines seem to view fencing as a personal challenge.
+Not every goat is an escape artist, though. Heavier breeds like Boers rarely bother trying, while lighter, more athletic breeds like Nigerian Dwarfs and Alpines seem to view fencing as a personal challenge. These same athletic breeds can [jump surprisingly high](/can-domestic-goats-jump) from a standing position.
 
 ## Best fence types for goats
 
 Woven wire fencing is your best option because it gives goats nothing to grip with their hooves. The small mesh openings prevent them from getting footholds, and the wire is strong enough that they can't push through it.
 
-Cattle panels are another solid choice since they're heavy-gauge welded wire that goats can't bend or break. Board fences with horizontal rails are the worst thing you can put up because the horizontal boards act as a ladder that goats will walk right up. If you already have board fencing, add woven wire to the inside.
+Cattle panels are another solid choice since they're heavy-gauge welded wire that goats can't bend or break. Board fences with horizontal rails are the worst thing you can put up because the horizontal boards act as a ladder that goats will walk right up. If you already have board fencing, add woven wire to the inside. Proper fencing is especially important if [dogs and pygmy goats live together](/can-dogs-and-pygmy-goats-live-together) on your property.
 
 ## How tall does your fence need to be?
 
@@ -62,13 +62,13 @@ Some persistent escape artists need 6-foot fencing, but that's rare. If you have
 
 Goats always test corners first because that's where fences meet and gaps tend to form. They'll lean against corner posts, push on panels where they join, and work at any connection point until something gives.
 
-Gates are the other big weakness. Goats learn to work latches, push gate frames, and squeeze through the gap between a gate and its post. Use heavy-duty latches that require a lifting motion to open, and make sure your gate sits flush against the post with no wiggle room.
+Gates are the other big weakness. Goats learn to work latches, push gate frames, and squeeze through the gap between a gate and its post. Use heavy-duty latches that require a lifting motion to open, and make sure your gate sits flush against the post with no wiggle room. Even [goats kept in the house](/can-goats-be-kept-in-the-house) will test barriers and find escape routes with the same determination.
 
 ## Preventing escapes with enrichment and electric wire
 
-A bored goat is an escaping goat. If there's nothing to eat, nothing to climb on, and no company inside the fence, a goat will find a reason to go looking for something better on the other side. Give your goats browse, companionship, and things to climb inside the pen like large rocks, wooden platforms, and old cable spools.
+A bored goat is an escaping goat. If there's nothing to eat, nothing to climb on, and no company inside the fence, a goat will find a reason to go looking for something better on the other side. Give your goats browse, companionship, and things to climb inside the pen like large rocks, wooden platforms, and old cable spools. Multi-species setups help with boredom, and [ducks coexisting with goats](/can-ducks-and-goats-coexist) adds activity without adding escape risk.
 
-For the persistent climbers that still won't quit, a single strand of electric wire along the top and middle of your existing fence stops even the most determined goat. Goats learn fast after one or two zaps. Solar-powered chargers cost between $50 and $150, work great for remote pastures, and are the cheapest anti-climbing solution available.
+For the persistent climbers that still won't quit, a single strand of electric wire along the top and middle of your existing fence stops even the most determined goat. Goats learn fast after one or two zaps. Solar-powered chargers cost between $50 and $150, work great for remote pastures, and are the cheapest anti-climbing solution available. [Using pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats) keeps the barn area dry, which also reduces a goat's motivation to seek dryer ground outside the fence.
 
 ## Final Thoughts
 

@@ -52,19 +52,19 @@ Use only the original formula. Do not use Neosporin with pain relief because it 
 
 Neosporin is a topical antibiotic ointment that kills bacteria on the skin's surface. In goats, it works well on small cuts from fencing, scrapes from rough brush, dehorning sites, and minor wounds picked up during play or feeding.
 
-It's an over-the-counter product you can pick up at any pharmacy or grocery store. Having a tube in your barn first aid kit is just good practice since minor wounds happen constantly when you keep goats.
+It's an over-the-counter product you can pick up at any pharmacy or grocery store. Having a tube in your barn first aid kit alongside [Pepto-Bismol](/can-i-give-my-goat-pepto-bismol) and electrolytes is just good practice since minor wounds happen constantly when you keep goats.
 
 ## What are the benefits of using Neosporin on goats?
 
 The biggest benefit is preventing infection before it starts. A minor cut that gets infected can turn into an abscess or a serious systemic infection if bacteria get into the bloodstream.
 
-Neosporin also keeps the wound moist, which promotes faster healing. Dry, cracked wounds take longer to close and are more likely to scar or reopen when the goat moves around.
+Neosporin also keeps the wound moist, which promotes faster healing. Goats with [hoof rot](/can-hoof-rot-kill-a-goat) benefit from a similar approach where keeping the affected area treated prevents the infection from spreading. Dry, cracked wounds take longer to close and are more likely to scar or reopen when the goat moves around.
 
 ## Are there any risks associated with using Neosporin on goats?
 
 The main risk is that the goat will lick it off before it has time to work. If the wound is in a spot the goat can reach with its tongue, you may need to cover it with a bandage or use a wound spray like Blu-Kote instead.
 
-For deep puncture wounds, large lacerations, or injuries that expose muscle or bone, Neosporin alone is not enough. These need veterinary attention, possibly stitches, and likely a systemic antibiotic rather than just a topical one.
+For deep puncture wounds, large lacerations, or injuries that expose muscle or bone, Neosporin alone is not enough. These need veterinary attention, possibly [suturing](/can-i-suture-my-goat), and likely a systemic antibiotic rather than just a topical one.
 
 ## What are some other things to keep in mind when caring for goats?
 
@@ -76,13 +76,13 @@ Blu-Kote spray is another popular wound treatment for livestock. It's an antifun
 
 Check the wound closely before you treat it. If it's deeper than the skin, actively bleeding and won't stop, or was caused by a rusty object or animal bite, skip the Neosporin and call your vet.
 
-For wounds caused by wire, nails, or anything rusty, tetanus is a real concern. Make sure your goats are up to date on their CD&T vaccine, which covers tetanus along with clostridial diseases.
+For wounds caused by wire, nails, or anything rusty, tetanus is a real concern. Make sure your goats are up to date on their [CD&T vaccine](/can-a-cdt-shot-kill-a-goat), which covers tetanus along with clostridial diseases.
 
 ## How to properly care for your goats?
 
-Apply Neosporin twice a day for the first 3 to 4 days, or until a good scab forms. Once the wound has scabbed over, stop applying and let it heal naturally underneath.
+Apply Neosporin twice a day for the first 3 to 4 days, or until a good scab forms. You can also give [baby aspirin for pain](/can-i-give-baby-aspirin-to-my-baby-goat) while the wound heals if the goat seems uncomfortable. Once the wound has scabbed over, stop applying and let it heal naturally underneath.
 
-Reapply after rain or if the goat gets the wound wet or dirty. Check the wound daily for signs of infection like swelling, heat, redness spreading outward from the edges, or a bad smell. Any of those signs mean it's time for a vet visit.
+Reapply after rain or if the goat gets the wound wet or dirty, which is more common when [goats are outside in winter](/can-goats-be-outside-in-winter) weather. Check the wound daily for signs of infection like swelling, heat, redness spreading outward from the edges, or a bad smell. Any of those signs mean it's time for a vet visit.
 
 ## Final Thoughts
 

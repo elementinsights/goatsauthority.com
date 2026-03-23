@@ -48,13 +48,13 @@ Banding a 2-year-old buck comes up more often than you'd think. You can do it, b
 
 You can, but it's riskier than banding a kid that's a few days or weeks old. At two years, the scrotum is much larger, the blood supply is well established, and the chance of complications goes up considerably.
 
-Many vets recommend surgical castration for bucks over six months old. It's faster, more reliable, and allows for better pain management. If you're set on banding an older buck, talk to your vet first.
+Many vets recommend surgical castration for bucks over six months old. It's faster, more reliable, and allows for better pain management. Waiting until a buck is 3 years old makes things even more complicated, as the [risks of banding at that age](/posts/can-you-band-a-goat-at-3-years-old) increase dramatically. If you're set on banding an older buck, talk to your vet first.
 
 ## What is banding a goat and why would you do it?
 
 Banding uses a thick rubber ring placed around the base of the scrotum to cut off blood flow. The testicles dry up and fall off within two to four weeks.
 
-An intact buck has a strong musky odor, can be aggressive, and will breed any doe within reach. Castrating him eliminates the smell, calms the behavior, and prevents unwanted pregnancies in your herd.
+An intact buck has a strong musky odor, can be aggressive, and will breed any doe within reach, even [impregnating his own daughters](/posts/can-you-breed-a-father-and-daughter-goat) if given the chance. Castrating him eliminates the smell, calms the behavior, and prevents unwanted pregnancies in your herd.
 
 ## How to band a goat - the process?
 
@@ -66,13 +66,13 @@ Restrain the buck securely. Open the band with the elastrator, slide both testic
 
 A wether is a completely different animal to live with compared to an intact buck. The smell disappears within weeks, the aggression calms down, and you don't have to worry about separating him from does during breeding season.
 
-Wethers make great companion animals. They're calm, friendly, and easy to manage, which is perfect if you're keeping goats as pets or brush clearers rather than for breeding.
+Wethers make great companion animals. They are calm, friendly, and easy to manage, which is perfect if you are keeping goats as pets or brush clearers rather than for breeding. Many people who [adopt goats for the first time](/posts/can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny) choose wethers for exactly this reason.
 
 ## What are the risks of not banding a goat?
 
 An intact buck that isn't being used for breeding is a liability. He'll constantly try to escape to reach does, he'll stink up everything around him, and he can become dangerously aggressive during rut.
 
-If he gets loose and reaches your does, you'll end up with unplanned kids from pairings you never intended. Unwanted pregnancies in young or unhealthy does can put them at serious risk.
+If he gets loose and reaches your does, you'll end up with unplanned kids from pairings you never intended, including [half-sibling crosses](/posts/can-you-breed-a-half-brother-and-sister-goat) that weaken your herd genetics. Unwanted pregnancies in young or unhealthy does can put them at serious risk.
 
 ## How to prevent your goat from getting loose?
 
@@ -84,7 +84,7 @@ Bucks will ram, climb, and dig under fences when motivated. Cattle panels reinfo
 
 If banding feels too risky for a 2-year-old, surgical castration with a vet is the safest route. The vet uses anesthesia, removes the testicles surgically, and manages pain properly through recovery.
 
-Recovery from surgery is usually faster and carries fewer complications than banding a mature buck. The cost is higher upfront, but you avoid the risk of infection, incomplete castration, and weeks of discomfort.
+Recovery from surgery is usually faster and carries fewer complications than banding a mature buck. A doe at [4 years old is in prime breeding age](/posts/can-you-breed-a-4yr-old-goat), so deciding which bucks to keep intact and which to castrate is a timing decision worth getting right. The cost is higher upfront, but you avoid the risk of infection, incomplete castration, and weeks of discomfort.
 
 ## Final Thoughts
 

@@ -50,17 +50,17 @@ Mites spread through direct contact between goats and through shared bedding, br
 
 Mites are tiny arthropods that feed on skin, blood, or lymph fluid depending on the species. You usually cannot see them with the naked eye, so by the time you notice symptoms, the infestation has already taken hold.
 
-They cause intense irritation that drives goats to scratch, rub, and bite at their skin constantly. This leads to hair loss, raw patches, scabs, and secondary bacterial infections in the damaged skin.
+They cause intense irritation that drives goats to scratch, rub, and bite at their skin constantly. Untreated mite infestations can lead to [hoof rot](/posts/can-hoof-rot-kill-a-goat) and other secondary issues as the goat's immune system becomes stressed. This leads to hair loss, raw patches, scabs, and secondary bacterial infections in the damaged skin.
 
 ## Signs that your goat may have a mite infestation
 
 The first thing most people notice is excessive scratching and rubbing against fences, posts, and feeders. If a goat is losing hair in patches, especially on the legs, face, or ears, mites should be high on your list of suspects.
 
-Crusty or scabby skin is another telltale sign. Ear mites cause head shaking, dark waxy debris in the ear canal, and sometimes a tilted head. If you see several of these symptoms in one goat, check the rest of the herd immediately because mites do not stay on one animal.
+Crusty or scabby skin is another telltale sign. Ear mites cause head shaking, dark waxy debris in the ear canal, and sometimes a tilted head. A goat dealing with mites is also more vulnerable to [anemia](/posts/can-goats-have-a-stroke-anemia) from blood-sucking varieties. If you see several of these symptoms in one goat, check the rest of the herd immediately because mites do not stay on one animal.
 
 ## How to treat a goat for mites?
 
-Ivermectin injection is the most common and effective treatment. Give it subcutaneously at the proper dose for your goat's weight, then repeat 10 to 14 days later to catch any mites that hatched after the first dose.
+[Ivermectin](/posts/can-i-use-ivermectin-pour-on-in-sheep-and-goats) injection is the most common and effective treatment. Give it subcutaneously at the proper dose for your goat's weight, then repeat 10 to 14 days later to catch any mites that hatched after the first dose.
 
 Permethrin spray can be applied directly to affected areas for quick relief. You also need to strip out all bedding from the barn, clean the stall thoroughly, and put down fresh bedding. Treat every goat in the herd at the same time, even the ones that look fine, because they are likely carrying mites without showing symptoms yet.
 
@@ -68,13 +68,13 @@ Permethrin spray can be applied directly to affected areas for quick relief. You
 
 Quarantine any new goats for at least two weeks before mixing them with your existing herd. Inspect them thoroughly for signs of mites, lice, or other skin problems during that quarantine period.
 
-Keep your barn clean and dry, and avoid overcrowding. Mites thrive in damp, crowded conditions where goats are in constant close contact. A preventive ivermectin treatment in early fall, before cold weather pushes everyone into the barn, can head off winter mite outbreaks.
+Keep your barn clean and dry with fresh [bedding](/posts/can-pine-chips-be-used-as-bedding-for-goats), and avoid overcrowding. Mites thrive in damp, crowded conditions where goats are in constant close contact. A preventive ivermectin treatment in early fall, before cold weather pushes everyone into the barn, can head off winter mite outbreaks.
 
 ## What kind of mites do goats get?
 
 There are three main types. Sarcoptes mites burrow into the skin and cause severe mange with intense itching and thick, crusty lesions. This is the most serious type and can spread to humans temporarily.
 
-Chorioptes mites affect the lower legs and feet, causing scaly, itchy skin that is sometimes called "foot rot mites." Psoroptes mites target the ears and body, causing scabby patches and ear infections. All three types respond to ivermectin treatment, but knowing which one you are dealing with helps you focus your efforts.
+Chorioptes mites affect the lower legs and feet, causing scaly, itchy skin that is sometimes called "foot rot mites." Psoroptes mites target the ears and body, causing scabby patches and ear infections. All three types respond to ivermectin treatment, and a vet experienced with treating conditions like [goat polio](/posts/can-goats-recover-from-polio-without-medication) and mite infestations can help you identify the right approach.
 
 ## Final Thoughts
 

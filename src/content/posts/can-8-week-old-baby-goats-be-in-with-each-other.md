@@ -42,7 +42,7 @@ Yes, 8-week-old baby goats can absolutely be housed together, and they should be
 
 Kids this age need socialization with other goats to develop normal herd behavior. They learn how to establish pecking order, share food, and communicate through play-fighting and head butting.
 
-The one big rule is to separate bucklings from doelings by 8 weeks old. Bucklings can breed much earlier than most people realize, and an accidental pregnancy on a doeling that young is dangerous for her. Same-sex groups are the safest setup at this age.
+The one big rule is to separate bucklings from doelings by 8 weeks old. Bucklings can breed much earlier than most people realize, and an accidental pregnancy on a doeling that young is dangerous for her. Their [pen or barn needs to be properly sized](/can-a-goat-barn-be-12x-2/) for the number of kids you're housing. Same-sex groups are the safest setup at this age.
 
 ## What are they eating at 8 weeks?
 
@@ -56,7 +56,7 @@ Give kids at least 10 to 12 square feet of space per animal. Crowding leads to b
 
 Set up multiple feed stations so smaller or less dominant kids can eat without getting pushed around. One feeder per two or three kids is a good ratio, and spacing them apart forces the bossy ones to pick a spot instead of guarding everything.
 
-Use small-opening fencing or cattle panels rather than standard field fence. Kids at this age can squeeze through openings that you'd never think possible, and a loose kid is a lost kid. Make sure their shelter stays dry with fresh bedding, especially during wet weather.
+Use small-opening fencing or cattle panels rather than standard field fence, since even adult goats are known for [climbing over fences](/can-goats-climb-fences/) when motivated. Kids at this age can squeeze through openings that you'd never think possible, and a loose kid is a lost kid. Make sure their shelter stays dry with fresh bedding, especially during wet weather, and consider whether [pine chips make good bedding](/can-pine-chips-be-used-as-bedding-for-goats/) for your setup.
 
 ## How to tell if a kid is sick
 
@@ -66,9 +66,9 @@ Check for runny eyes, nasal discharge, coughing, or diarrhea. Scours are especia
 
 ## Common diseases at this age
 
-Coccidiosis is the biggest threat to kids in group housing. It causes bloody or watery diarrhea, weight loss, and can kill quickly if left untreated. A preventive coccidiostat in their feed or water starting around 3 weeks old helps keep it in check.
+Coccidiosis is the biggest threat to kids in group housing. It causes bloody or watery diarrhea, weight loss, and can kill quickly if left untreated. Cleaning the pen regularly and [using the composted manure as fertilizer](/can-goat-poop-be-used-as-fertilizer/) is a practical way to manage waste. A preventive coccidiostat in their feed or water starting around 3 weeks old helps keep it in check.
 
-Pneumonia is another common problem, especially in damp or poorly ventilated housing. Keep bedding dry, make sure the pen has good airflow without direct drafts on the kids, and watch for coughing or labored breathing.
+Pneumonia is another common problem, especially in damp or poorly ventilated housing. If you have [pine trees in the pen area](/can-a-goat-pen-have-pine-trees-in-it/), the natural airflow around them can help, but you still need proper shelter design. Keep bedding dry, make sure the pen has good airflow without direct drafts on the kids, and watch for coughing or labored breathing.
 
 ## Final Thoughts
 
@@ -76,4 +76,4 @@ Keeping 8-week-old kids together is not only fine, it's the best thing for their
 
 Watch them closely for signs of illness during this transition period, and make sure they're eating enough solid food before you pull the milk. Kids that are active, eating well, and playing with their pen mates are doing exactly what they should be.
 
-Healthy, well-socialized kids grow into easier-to-handle adult goats. The effort you put into proper group management now pays off for years down the road.
+If you're considering raising kids indoors temporarily, know that [keeping a goat in a house](/can-a-goat-live-in-a-house/) long-term is not practical. Healthy, well-socialized kids grow into easier-to-handle adult goats. The effort you put into proper group management now pays off for years down the road.

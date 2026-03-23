@@ -54,19 +54,19 @@ Peanut butter cake is a sugary human dessert. It is not a health food, it will n
 
 Peanut butter cake brings almost nothing useful to your goat nutritionally. The peanut butter itself has some protein and fat, but once you mix it with sugar, flour, eggs, and butter, you have a dessert and nothing more.
 
-Goats get what they need from hay, pasture, browse, and a proper mineral supplement. A slice of cake is just empty calories compared to the feed they should actually be eating.
+Goats get what they need from [hay](/what-kind-of-hay-do-goats-eat/), pasture, browse, and a proper mineral supplement. A slice of cake is just empty calories compared to the feed they should actually be eating.
 
 ## What are the benefits of feeding peanut butter cake to goats?
 
 There are no real nutritional benefits here, so let's not pretend otherwise. Cake will not boost immunity, fight worms, or do anything medicinal for your goat.
 
-The only upside is that goats love the taste, and it can work as a bonding treat during handling or training. If you want to give a peanut-based treat, plain unsalted peanuts are a much better choice than cake.
+The only upside is that goats love the taste, and it can work as a bonding treat during handling or training. If you want to give a peanut-based treat, plain unsalted [peanuts](/can-goats-eat-peanuts/) are a much better choice than cake.
 
 ## What are some things to keep in mind when feeding peanut butter cake to goats?
 
 Keep portions tiny. A thumb-sized piece is plenty for an adult goat because the sugar and fat can throw off their rumen balance quickly.
 
-Check the ingredients before sharing. Chocolate, xylitol, and raisins are all toxic to goats, so avoid any cake that contains those ingredients.
+Check the ingredients before sharing. [Chocolate](/can-goats-eat-chocolate/), xylitol, and raisins in excessive amounts can all be problematic for goats, so avoid any cake that contains those ingredients.
 
 ## What are the risks associated with feeding peanut butter cake to goats?
 
@@ -78,7 +78,7 @@ You might see loose stools, bloating, or a goat going off its regular feed. Regu
 
 Keep it rare and keep it small. One tiny piece every now and then is fine, but this should never become a weekly habit.
 
-Watch your goat for a few hours after they eat cake for the first time. If you see soft droppings or they refuse their regular feed, skip the cake next time and stick to apple slices or carrots instead.
+Watch your goat for a few hours after they eat cake for the first time. If you see soft droppings or they refuse their regular feed, skip the cake next time and stick to [apple slices](/can-goats-eat-apples/) or carrots instead.
 
 ## What are the treatments for anaphylactic shock in goats?
 
@@ -96,4 +96,4 @@ If your goat tries cake for the first time, monitor them for the next 12 to 24 h
 
 Peanut butter cake is a harmless occasional treat in very small amounts, but that is all it should ever be. Do not fall for the idea that baked goods offer real nutrition for goats.
 
-Plain peanuts, apple slices, and carrot sticks are healthier treats that goats enjoy just as much. Save the cake for yourself and keep your herd on the diet they actually need.
+Plain peanuts, apple slices, and [sunflower seeds](/can-goats-eat-sunflower-seeds/) are healthier treats that goats enjoy just as much. Save the cake for yourself and keep your herd on the diet they actually need.

@@ -54,17 +54,17 @@ A pygmy goat's rumen needs a steady supply of long-stem fiber to function proper
 
 Grass hay is the best everyday option for pygmy goats. Timothy, orchard grass, and Bermuda hay all work well and provide the fiber these little goats need without being too rich.
 
-Alfalfa hay is higher in protein and calcium, which is great for pregnant or lactating does. However, feeding alfalfa to wethers and bucks long-term can lead to urinary calculi because of the excess calcium, so stick with grass hay for them.
+Alfalfa hay is higher in protein and calcium, which is great for pregnant or lactating does. However, feeding [alfalfa to wethers and bucks](/can-goats-eat-alfalfa) long-term can lead to urinary calculi because of the excess calcium, so stick with grass hay for them.
 
 ## What are the nutritional benefits of hay for pygmy goats?
 
 Hay keeps the rumen healthy and moving. The fiber content promotes proper digestion and prevents the buildup of gas that causes bloat.
 
-Good quality grass hay also provides vitamins, minerals, and a moderate amount of protein. It is a low-calorie food compared to grain, which matters because pygmy goats are prone to getting fat if you let them.
+Good quality grass hay also provides vitamins, minerals, and a moderate amount of protein. It is a low-calorie food compared to grain, which matters because pygmy goats are prone to getting fat if you let them. [Timothy hay](/can-goats-eat-timothy-hay) and [oats](/can-goats-eat-oats) are both solid choices to include in a well-rounded feeding program.
 
 ## Are there any risks associated with feeding hay to pygmy goats?
 
-Moldy hay is the biggest risk. If your hay smells musty, looks brown, or has visible white or gray patches, throw it out. Moldy hay causes respiratory infections and can make a goat seriously sick.
+Moldy hay is the biggest risk. If your hay smells musty, looks brown, or has visible white or gray patches, throw it out. Be equally careful about toxic plants mixed into hay bales, since [milkweed](/can-pygmy-goats-eat-milkweed) and [eucalyptus](/can-pygmy-goats-eat-eucalyptus) can end up in poorly sorted cuttings. Moldy hay causes respiratory infections and can make a goat seriously sick.
 
 Dusty hay is another concern. Shake out your hay before putting it in the feeder, and store it in a dry place off the ground. Pygmy goats have small lungs and are more sensitive to dust than larger breeds.
 
@@ -76,9 +76,9 @@ Use a keyhole feeder or hay net to cut down on waste. Pygmy goats are notorious 
 
 ## How to prevent common health problems in pygmy goats?
 
-Let hay do the heavy lifting in their diet and go easy on the grain. Pygmy goats gain weight quickly, and an overweight goat is at risk for pregnancy toxemia, joint problems, and fatty liver disease.
+Let hay do the heavy lifting in their diet and go easy on the grain. Pygmy goats gain weight quickly, and an overweight goat is at risk for pregnancy toxemia, joint problems, and fatty liver disease. Skip treats like [brown sugar](/can-pygmy-goats-eat-brown-sugar), which is empty calories that contribute to obesity.
 
-Provide loose goat minerals and fresh water alongside the hay. These three things together cover the basics of pygmy goat nutrition and prevent the most common deficiencies.
+Provide loose goat minerals and fresh water alongside the hay. These three things together cover the basics of pygmy goat nutrition and prevent the most common deficiencies. Adding a few [sunflower seeds](/can-goats-eat-sunflower-seeds) to their daily ration can improve coat condition without adding excess calories.
 
 ## Final Thoughts
 

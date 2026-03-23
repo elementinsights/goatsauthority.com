@@ -56,7 +56,7 @@ Some goats will also swallow the whole capsule if you pop it in their mouth, tho
 
 Not every goat needs a fish oil supplement. Goats that graze on fresh, diverse pasture usually get enough essential fatty acids from their diet alone.
 
-The goats most likely to benefit are those with dull coats, dry flaky skin, or stiff joints. Does in late pregnancy or heavy milk production often do well with the extra fat content too.
+The goats most likely to benefit are those with dull coats, dry flaky skin, or stiff joints. Skin problems can sometimes point to a [mite infestation](/can-goats-get-mites) rather than a nutritional gap, so rule that out first. Does in late pregnancy or heavy milk production often do well with the extra fat content too.
 
 If you're unsure whether your goat actually needs supplementation, a simple blood panel from your vet can confirm any deficiencies before you start adding things to their diet.
 
@@ -64,7 +64,7 @@ If you're unsure whether your goat actually needs supplementation, a simple bloo
 
 Omega-3 fatty acids help reduce inflammation, which can ease joint stiffness in older goats. You'll often see a noticeable improvement in coat quality within a few weeks of starting supplementation.
 
-Fish oil can also support immune function and has been linked to better reproductive health in breeding does. For goats dealing with dry, cracked skin during harsh winters, the extra fat makes a visible difference.
+Fish oil can also support immune function and has been linked to better reproductive health in breeding does. For goats dealing with dry, cracked skin during [harsh winters](/can-goats-be-outside-in-winter), the extra fat makes a visible difference.
 
 Another practical benefit is the cost savings. Human fish oil capsules are much cheaper than livestock-specific omega-3 supplements, and they work just as well.
 
@@ -72,7 +72,7 @@ Another practical benefit is the cost savings. Human fish oil capsules are much 
 
 Most goat owners give 1-2 standard fish oil capsules per day for an adult goat. Start with one capsule and increase to two if you don't see improvement after a couple of weeks.
 
-For smaller breeds or kids, stick to half a capsule or one capsule at most. There's no need to overdo it since more isn't always better with fat supplements.
+For smaller breeds or kids, stick to half a capsule or one capsule at most. There's no need to overdo it since more isn't always better with fat supplements, and understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) helps explain why gradual introduction matters.
 
 If you're using a high-concentration fish oil (like those labeled "triple strength"), cut the dose in half since those contain significantly more omega-3s per capsule.
 
@@ -80,13 +80,13 @@ If you're using a high-concentration fish oil (like those labeled "triple streng
 
 Side effects are uncommon when you stick to the recommended dose. The most common issue is loose stools, which usually means you've given too much too fast.
 
-If you notice diarrhea after starting fish oil, cut back to half the dose for a week and then gradually increase. Some goats are also put off by the fish smell, so mixing it well into grain usually solves that problem.
+If you notice diarrhea after starting fish oil, cut back to half the dose for a week and then gradually increase. A dose of [Pepto-Bismol](/can-i-give-my-goat-pepto-bismol) can help settle the stomach while the rumen adjusts. Some goats are also put off by the fish smell, so mixing it well into grain usually solves that problem.
 
 Stop supplementing and talk to your vet if you see vomiting, loss of appetite, or any other unusual symptoms.
 
 ## Are there any alternative options for giving my goats omega-3s?
 
-Flaxseed is a popular plant-based alternative that many goat owners use. You can grind whole flaxseed and mix it into grain, or buy pre-ground flaxseed meal.
+Flaxseed is a popular plant-based alternative that many goat owners use, and products like [OmegaBlume](/can-i-give-my-goat-omegablume) are built around this ingredient. You can grind whole flaxseed and mix it into grain, or buy pre-ground flaxseed meal.
 
 Black oil sunflower seeds are another option that goats tend to love. They're high in healthy fats and also add a nice shine to the coat.
 

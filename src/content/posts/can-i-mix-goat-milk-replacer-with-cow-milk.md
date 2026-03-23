@@ -48,7 +48,7 @@ The easiest approach is to start with mostly replacer and gradually increase the
 
 ## What is a goat milk replacer and why do people use it?
 
-Goat milk replacer is a powdered formula designed to mimic the nutritional profile of natural goat milk. Farmers use it when a doe dies, rejects her kid, has mastitis, or simply can't produce enough milk for multiples.
+Goat milk replacer is a powdered formula designed to mimic the nutritional profile of natural goat milk. [Powdered goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats) like Meyenberg is another option that's closer to natural doe's milk. Farmers use replacer when a doe dies, rejects her kid, has mastitis, or simply can't produce enough milk for multiples.
 
 It's more expensive than cow milk, which is why so many people look for ways to mix or substitute. A good replacer should contain at least 20% protein and 20% fat to support healthy kid growth.
 
@@ -56,25 +56,25 @@ It's more expensive than cow milk, which is why so many people look for ways to 
 
 Start the first 3 days with a mix of 75% replacer and 25% whole cow milk. Over the next week, shift to a 50/50 ratio and watch for any signs of digestive upset like loose stools.
 
-If everything looks good, you can move to 25% replacer and 75% cow milk by the end of the second week. Some farms run a permanent half-and-half mix for bottle kids all the way through weaning and have good results with it.
+If everything looks good, you can move to 25% replacer and 75% cow milk by the end of the second week. You can also [use straight whole cow milk](/can-i-use-regular-milk-to-feed-a-baby-goat) as a standalone option in emergencies. Some farms run a permanent half-and-half mix for bottle kids all the way through weaning and have good results with it.
 
 ## The pros and cons of mixing the two types of milk
 
 The biggest advantage is cost. Whole cow milk runs a fraction of the price of quality goat milk replacer, and mixing the two can cut your feed bill in half during bottle-feeding season.
 
-The downside is that cow milk has larger fat globules and a slightly different protein structure than goat milk. Most kids handle it fine, but a small number may develop loose stools until their gut adjusts. If scours persist after a few days, back off the cow milk ratio.
+The downside is that cow milk has larger fat globules and a slightly different protein structure than goat milk. Most kids handle it fine, but a small number may develop loose stools until their gut adjusts. [Goat milk can be frozen](/can-goats-milk-be-frozen) too, so stock up when fresh supply is available. If scours persist after a few days, back off the cow milk ratio.
 
 ## Which type of milk is better for baby goats - goat milk or cow milk?
 
 Fresh goat milk straight from the doe is always the best option. It has the right fat, protein, and antibody profile that kid goats are built to digest.
 
-When fresh goat milk isn't available, whole cow milk is a perfectly acceptable substitute that thousands of goat farmers have used for generations. Kids raised on whole cow milk grow just as well as those raised on replacer in most cases.
+When fresh goat milk isn't available, whole cow milk is a perfectly acceptable substitute that thousands of goat farmers have used for generations. For babies who [have powdered goat milk available](/can-a-baby-have-powdered-goats-milk), that's a step closer to the real thing. Kids raised on whole cow milk grow just as well as those raised on replacer in most cases.
 
 ## How to choose the right goat milk replacer for your needs?
 
 Look for a replacer made with milk-based proteins rather than soy-based ones. Soy proteins are harder for young ruminants to digest and can cause more scours.
 
-Check that the fat and protein percentages are both at least 20%. Avoid replacers designed for calves or lambs since the nutritional ratios are different enough to cause problems in goat kids over time.
+Check that the fat and protein percentages are both at least 20%. You can also [mix goat milk with whey protein](/can-i-mix-goat-milk-with-whey-protein) for human consumption, but for goat kids stick with dedicated formulas. Avoid replacers designed for calves or lambs since the nutritional ratios are different enough to cause problems in goat kids over time.
 
 ## Final Thoughts
 

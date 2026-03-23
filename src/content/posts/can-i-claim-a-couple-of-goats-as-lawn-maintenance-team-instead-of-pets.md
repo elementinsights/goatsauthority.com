@@ -44,7 +44,7 @@ Let's break down what's actually going on here and whether this approach has any
 
 Goats are legitimate vegetation management tools. This isn't some fringe idea. Cities, counties, fire departments, and private companies hire goat herds to clear brush, manage invasive species, and reduce wildfire fuel loads.
 
-Google famously used goats to mow the grass at their Mountain View headquarters. Municipalities across the western United States contract with professional goat herders to clear hillsides that machinery can't reach.
+Google famously used goats to mow the grass at their Mountain View headquarters. Municipalities across the western United States contract with professional goat herders to clear hillsides that machinery can't reach. Their [climbing ability](/can-goats-climb-fences) makes them ideal for steep terrain that mowers can't handle.
 
 So the concept of goats as working animals rather than pets is well established. The question is whether you can apply that same logic to a couple of goats in your backyard.
 
@@ -54,7 +54,7 @@ Here's where it gets tricky. If your area bans livestock on residential property
 
 A zoning officer isn't going to look at two goats in your yard and say, "Oh, those are lawn mowers, carry on." They're going to see livestock on a property that doesn't allow livestock, and you'll get a citation.
 
-Some folks have tried arguing their goats serve an agricultural or land management purpose on residential property. This sometimes works in areas with agricultural exemptions, but it usually requires minimum acreage and documentation that you're running a legitimate operation.
+Some folks have tried arguing their goats serve an agricultural or land management purpose on residential property. Before going down this road, find out whether your area even [allows goats](/can-i-have-goats-where-i-live) at all. This sometimes works in areas with agricultural exemptions, but it usually requires minimum acreage and documentation that you're running a legitimate operation.
 
 ## Tax implications of classifying goats as working animals
 
@@ -62,21 +62,21 @@ If you do live in an area where goats are allowed and you classify them as worki
 
 Talk to a tax professional before claiming any deductions. The IRS looks closely at agricultural exemptions, and you need to show that the goats serve a legitimate business purpose rather than being pets with a fancy title.
 
-Keep detailed records of all expenses related to your goats. Receipts for feed, hay, and vet bills become your best friends if you ever get audited.
+Keep detailed records of all expenses related to your goats. Even the [goat poop can count as fertilizer](/can-goat-poop-be-used-as-fertilizer) production if you're documenting agricultural use. Receipts for feed, hay, and vet bills become your best friends if you ever get audited.
 
 ## What zoning officers actually look at
 
 Zoning enforcement is complaint-driven in most areas. Nobody from the city is driving around looking for goats in backyards. But when a neighbor complains, an officer shows up and evaluates the situation based on the local code.
 
-They look at the zoning classification of your property, the number and type of animals present, and whether you have the required permits. They don't care what you call the goats.
+They look at the zoning classification of your property, the number and type of animals present, and whether you have the required permits. [Urban goat keeping](/can-goats-live-in-an-urban-environment) is becoming more common, but the legal framework hasn't caught up everywhere. They don't care what you call the goats.
 
 If your property is zoned residential and the code says no livestock, you'll be told to remove the animals. It doesn't matter if they're mowing your lawn beautifully while they do it.
 
 ## Better alternatives to get around restrictions
 
-Instead of trying to relabel your goats, look into whether your municipality offers a variance or special-use permit. Some cities have started loosening livestock rules for miniature breeds like Pygmy goats and Nigerian Dwarfs.
+Instead of trying to relabel your goats, look into whether your municipality offers a variance or special-use permit. Some cities have started loosening livestock rules for miniature breeds like Pygmy goats and Nigerian Dwarfs, and the right breed makes a big difference if you're looking to [buy a goat as a pet](/can-i-buy-a-goat-as-a-pet).
 
-You can also check if there's a community garden or urban farm program in your area that allows livestock on shared parcels. Another option is leasing or renting goats from a professional grazing service for specific clearing jobs.
+You can also check if there's a community garden or urban farm program in your area that allows livestock on shared parcels. Good [bedding like pine chips](/can-pine-chips-be-used-as-bedding-for-goats) and proper shelter go a long way toward keeping neighbors happy. Another option is leasing or renting goats from a professional grazing service for specific clearing jobs.
 
 If you want goats badly enough, moving to a property zoned for agricultural use is the most straightforward path. It eliminates the legal gymnastics entirely.
 

@@ -45,13 +45,13 @@ Here's how to do it right and when you should consider safer alternatives.
 
 Tethering works for clearing specific patches of brush, weeds, or overgrown areas where permanent fencing isn't practical. Many goat owners use this method to clean up fence lines, clear around buildings, or manage vegetation on steep slopes.
 
-The catch is that a tethered goat is a vulnerable goat. It can't run from dogs, coyotes, or other predators, and it can get tangled and choke if the setup isn't right.
+The catch is that a tethered goat is a vulnerable goat. It can't run from dogs, coyotes, or other predators, and it can get tangled and choke if the setup isn't right. For a deeper look at all the risks involved, see our guide on [whether goats can be tethered](/can-goats-be-tethered) safely.
 
 ## What is selective area grazing and why is it beneficial for goats?
 
 Selective area grazing means controlling exactly where your goats eat rather than letting them roam a whole pasture. This gives overgrazed areas time to recover and lets you target problem spots like poison ivy patches or invasive brush.
 
-Goats prefer browse over grass, so they're naturally good at clearing shrubs and weeds that cattle and sheep won't touch. Rotating their grazing area also breaks parasite cycles by keeping them off contaminated ground.
+Goats prefer browse over grass, so they're naturally good at clearing shrubs and weeds that cattle and sheep won't touch. Rotating their grazing area also breaks parasite cycles by keeping them off contaminated ground. This approach works especially well when [cows and goats share the same field](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting), as each species targets different vegetation.
 
 ## How do you go about tying up your goats for restricted area grazing?
 
@@ -63,7 +63,7 @@ The chain should have a swivel at both ends, one at the stake and one at the col
 
 A flat nylon or leather collar works better than a rope halter for tethering. The collar should fit snugly enough that the goat can't slip out but loose enough to fit two fingers underneath.
 
-Place shade and a water bucket within reach of the tether radius. Check on your goat every 30 minutes at minimum, and never tether a horned goat near wire fencing because the horns will get tangled.
+Place shade and a water bucket within reach of the tether radius. Check on your goat every 30 minutes at minimum, and never tether a horned goat near wire fencing because the horns will get tangled. Be careful tethering near valuable trees, since [goat urine can damage and kill trees](/can-goat-urine-kill-trees) when concentrated in one spot.
 
 ## Can goats be tied up for milking?
 
@@ -75,10 +75,10 @@ If you don't have a milking stand, you can tie a goat to a sturdy post or fence 
 
 Don't tie goats down during transport. They need to be able to shift their weight, brace themselves on turns, and lie down when they want to rest.
 
-Use a secure crate, dog kennel, or livestock trailer with solid sides instead. If you're hauling goats in a truck bed, use a topper or stock rack so they can't jump out, but leave them loose inside.
+Use a secure crate, dog kennel, or livestock trailer with solid sides instead. If you're hauling goats in a truck bed, use a topper or stock rack so they can't jump out, but leave them loose inside. On steep properties, managing [goats to prevent slope erosion](/can-goats-cause-slope) requires careful rotation rather than tethering.
 
 ## Final Thoughts
 
 Tethering works for short, supervised grazing sessions during daylight hours. Never tether overnight because predators are the number one risk, and a chained goat has zero ability to flee.
 
-Portable electric fencing is a safer alternative for targeted grazing if you graze the same areas regularly. A couple of rolls of electric netting and a solar charger give you all the control of tethering without the predator and tangling risks.
+Portable electric fencing is a safer alternative for targeted grazing if you graze the same areas regularly. A couple of rolls of electric netting and a solar charger give you all the control of tethering without the predator and tangling risks. [Raccoons can kill goats](/can-raccoons-kill-goat) too, making predator-proof fencing far superior to tethering for overnight grazing.

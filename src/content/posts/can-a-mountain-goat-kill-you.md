@@ -49,7 +49,7 @@ That particular goat had a history of aggressive behavior toward hikers. Park of
 
 Mountain goats that live near popular hiking trails can become habituated to humans over time. They stop running away and start approaching people instead, often seeking salt from sweat, urine, or pack straps.
 
-During the fall rut, males become especially aggressive. They're pumped full of hormones and looking for a fight. A 200- to 300-pound billy with sharp, dagger-like horns is not something you want coming at you on a narrow trail. Even outside of rut season, a mother protecting her kid can be surprisingly confrontational.
+During the fall rut, males become especially aggressive. They're pumped full of hormones and looking for a fight. A 200- to 300-pound billy with sharp, dagger-like horns is not something you want coming at you on a narrow trail. Even domestic goats [can bite](/can-goats-bite/) when feeling threatened, so wild mountain goats are considerably more dangerous. Even outside of rut season, a mother protecting her kid can be surprisingly confrontational.
 
 ## How to stay safe around mountain goats
 
@@ -61,11 +61,11 @@ Never let a mountain goat lick your sweat or urine. They crave salt and minerals
 
 Despite their name, mountain goats aren't true goats. They belong to the genus Oreamnos and are more closely related to antelopes than to the domestic goats on your farm.
 
-They're native to the steep alpine terrain of western North America, living at elevations between 8,000 and 13,000 feet across the Rockies, Cascades, and parts of Alaska. Males weigh between 150 and 300 pounds, and both sexes grow black, slightly curved horns that can reach 12 inches long. Those horns are sharp enough to puncture skin and muscle with a single thrust.
+They're native to the steep alpine terrain of western North America, living at elevations between 8,000 and 13,000 feet across the Rockies, Cascades, and parts of Alaska. Males weigh between 150 and 300 pounds, and both sexes grow black, slightly curved horns that can reach 12 inches long. Unlike domestic goats that [can safely be left out in pasture](/can-a-goat-be-left-out-for-hours/), mountain goats are fully wild and unpredictable. Those horns are sharp enough to puncture skin and muscle with a single thrust.
 
 ## Predators and natural threats
 
-Mountain goats have few natural predators because of the extreme terrain they call home. Mountain lions are their biggest threat, along with wolves, bears, and golden eagles that sometimes take young kids.
+Mountain goats have few natural predators because of the extreme terrain they call home. Mountain lions are their biggest threat, along with wolves, bears, and golden eagles that sometimes take young kids. Domestic goats face different predators like [foxes](/can-a-fox-kill-a-goat/) and [raccoons](/can-raccoons-kill-goat/), which are easier to manage with proper fencing.
 
 Their real dangers are environmental. Avalanches, rockslides, and harsh winter conditions kill far more mountain goats than predators do. In the wild, most mountain goats live 12 to 15 years, though some have reached 18 or older.
 
@@ -73,4 +73,4 @@ Their real dangers are environmental. Avalanches, rockslides, and harsh winter c
 
 Mountain goats deserve respect and distance. The vast majority of encounters between humans and mountain goats end without incident, but the potential for a serious or fatal attack is real.
 
-Stay at least 50 yards away, don't feed them or let them lick your gear, and take aggressive behavior seriously. If a mountain goat is approaching you and won't back off, get loud and assertive. They're wild animals, and treating them like anything else is a mistake that can cost you. Report any aggressive mountain goat encounters to park rangers so they can track problem animals before someone gets hurt.
+Stay at least 50 yards away, don't feed them or let them lick your gear, and take aggressive behavior seriously. Nobody should try to [ride a mountain goat](/can-people-ride-goats/) or any goat, for that matter. If a mountain goat is approaching you and won't back off, get loud and assertive. They're wild animals, and treating them like anything else is a mistake that can cost you. Report any aggressive mountain goat encounters to park rangers so they can track problem animals before someone gets hurt.

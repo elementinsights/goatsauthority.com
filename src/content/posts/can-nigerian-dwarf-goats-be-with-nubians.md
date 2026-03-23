@@ -45,7 +45,7 @@ Yes, Nigerian Dwarf goats and Nubians can absolutely live together. I've seen pl
 
 These two breeds get along well because they share similar temperaments. Both are dairy breeds known for being friendly, social, and people-oriented.
 
-The main thing you need to think about is the size difference between them. Nubians typically weigh 130 to 175 pounds, while Nigerian Dwarfs come in around 60 to 80 pounds.
+The main thing you need to think about is the size difference between them. Nubians typically weigh 130 to 175 pounds, while Nigerian Dwarfs come in around 60 to 80 pounds. The same size considerations apply when thinking about [whether a Nigerian buck can mount a Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat).
 
 ## What are Nigerian dwarf Goats and Nubian goats?
 
@@ -57,7 +57,7 @@ Nigerian Dwarfs are a miniature dairy breed that originally came from West Afric
 
 When you keep these breeds together, crossbreeding can happen if you're not careful with your bucks. A Nigerian Dwarf buck bred to a Nubian doe produces what's called a Mini Nubian, which has become a recognized breed in its own right.
 
-Mini Nubians combine the smaller size of the Nigerian Dwarf with the milk production and ear type of the Nubian. They're a solid option for small homesteads that want decent milk volume without housing full-sized goats.
+Mini Nubians combine the smaller size of the Nigerian Dwarf with the milk production and ear type of the Nubian. With any cross, the [same litter can have different fathers](/can-the-same-litter-of-goats-have-different-fathers) if multiple bucks had access during heat. They're a solid option for small homesteads that want decent milk volume without housing full-sized goats.
 
 ## What are the potential problems with crossbreeding goats?
 
@@ -65,15 +65,15 @@ The size difference creates real concerns at the feeder. A 170-pound Nubian can 
 
 Set up multiple feeding stations so your smaller goats can eat in peace. I use at least two hay feeders and separate grain dishes placed far enough apart that the bigger goats can't guard both at once.
 
-Breeding is the other concern. A Nubian buck should never be put with Nigerian Dwarf does, as the resulting kids could be too large for a small doe to deliver safely.
+Breeding is the other concern. A Nubian buck should never be put with Nigerian Dwarf does, as the resulting kids could be too large for a small doe to deliver safely. Understanding [how many babies goats have at a time](/how-many-babies-do-goats-have-at-a-time) also helps you predict whether a smaller doe can manage multiples.
 
 ## How to choose the right goat breeds for your farm?
 
-If you're running both breeds, make sure your housing gives everyone enough room. Plan for at least 15 to 20 square feet of barn space per goat and 200 square feet of outdoor space per animal.
+If you're running both breeds, make sure your housing gives everyone enough room. Plan for at least 15 to 20 square feet of barn space per goat and 200 square feet of outdoor space per animal. A well-designed [goat barn as small as 12x12](/can-a-goat-barn-be-12x-2) can house a small mixed herd if the layout is efficient.
 
 Watch for bullying during the first few days when you introduce new animals. Most herds sort out their pecking order within a week, but keep an eye on any Dwarf that's getting pushed around badly.
 
-Both breeds do well in most climates across the US. Nubians handle heat a bit better, while Nigerian Dwarfs tend to be hardier overall due to their smaller body size and efficient metabolism.
+Both breeds do well in most climates across the US. Nubians handle heat a bit better, while Nigerian Dwarfs tend to be hardier overall due to their smaller body size and efficient metabolism. In cold climates, it is worth reviewing [whether goats can die in cold weather](/can-goats-die-in-cold-weather) and how to protect both breeds.
 
 ## Final Thoughts
 

@@ -53,7 +53,7 @@ Citrus trees are considered safe browse for goats. The leaves, bark, and small b
 
 ## The benefits of having goats eat the thorns of a citrus tree branch
 
-Goats are natural brush clearers and citrus trees are no exception. If you have overgrown citrus that needs pruning, turning your goats loose on the lower branches saves you a lot of work.
+Goats are natural brush clearers and citrus trees are no exception. This is one reason [goats can make money](/posts/can-goats-make-money) through brush clearing services. If you have overgrown citrus that needs pruning, turning your goats loose on the lower branches saves you a lot of work.
 
 Their manure is nutrient-rich and helps fertilize the soil around the trees. Many small orchard owners use goats for understory management, and citrus trees hold up well to goat browsing once they are mature enough to handle it.
 
@@ -61,11 +61,11 @@ Their manure is nutrient-rich and helps fertilize the soil around the trees. Man
 
 The main risk is mouth or throat injuries from particularly long thorns. Grapefruit and certain orange varieties can grow thorns over 2 inches long, and those can poke or scratch the inside of a goat's mouth.
 
-The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once. Watch for soft droppings or reduced appetite as signs that they have overdone it on the citrus browse.
+The essential oils in citrus leaves can also cause mild digestive upset if a goat eats too much at once, and [pine needles](/posts/can-goats-eat-pine-needles) carry similar concerns when overfed. Watch for soft droppings or reduced appetite as signs that they have overdone it on the citrus browse.
 
 ## Things You Need to Remember
 
-Goats are browsers, not grazers, so they naturally prefer leaves and bark over fruit or grass. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
+Goats are browsers, not grazers, so they naturally prefer leaves and bark over fruit or grass. Despite the common misconception that [goats eat everything](/posts/can-goats-eat-everything), they have definite preferences. They will strip a citrus tree clean if you let them, which is fine for mature trees but can kill young ones.
 
 A standard goat eats about 3 to 5 percent of its body weight daily, not two-thirds like some sources claim. A 150 pound goat will eat roughly 5 to 8 pounds of food per day, and citrus browse should only be a portion of that.
 
@@ -79,7 +79,7 @@ Make sure the trees have not been sprayed with pesticides or herbicides before l
 
 There is no exact number, but citrus browse should be a supplement to their regular diet of hay and pasture rather than the main course. A few branches per day alongside their normal feed is a reasonable amount.
 
-If your goats have access to citrus trees all day long, the oils in the leaves can build up and cause digestive issues. Dairy goat owners should be especially careful because citrus oils can affect milk flavor.
+If your goats have access to citrus trees all day long, the oils in the leaves can build up and cause digestive issues. Safer everyday treats include [apples](/posts/can-goats-eat-apples) or [bananas](/posts/can-goats-eat-bananas). Dairy goat owners should be especially careful because citrus oils can affect milk flavor.
 
 ## When is the best time to feed goats citrus tree branches?
 
@@ -91,7 +91,7 @@ If you are pruning branches and tossing them to your goats, let the cut branches
 
 Citrus branches make decent natural fencing material in a pinch. The thorns discourage predators, and stacking pruned branches around a pen adds an extra barrier.
 
-You can also chip citrus branches for mulch around other plants in your garden. The wood breaks down slowly and the natural oils help deter some garden pests.
+You can also chip citrus branches for mulch around other plants in your garden, or let your goats browse on safer treats like [dandelions](/posts/can-goats-eat-dandelions) that grow throughout your yard. The wood breaks down slowly and the natural oils help deter some garden pests.
 
 ## Final Thoughts
 

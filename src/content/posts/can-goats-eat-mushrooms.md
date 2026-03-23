@@ -52,13 +52,13 @@ Wild mushrooms are where the real danger lies. There are over 10,000 mushroom sp
 
 Stick with what you would buy at the grocery store. White button mushrooms, cremini, portobello, and shiitake are all fine in small amounts. These make decent occasional treats but should never replace hay, browse, or grain in your goat’s diet.
 
-Goats generally have good instincts about avoiding wild mushrooms while grazing. But mistakes happen, especially with younger goats who are still learning what to eat and what to leave alone. Damp weather after rain is when wild mushrooms pop up fastest in pastures, so keep an extra close eye on your herd during those stretches.
+Goats generally have good instincts about avoiding wild mushrooms while grazing. But mistakes happen, especially with younger goats who are still learning what to eat and what to leave alone. Damp weather after rain is when wild mushrooms pop up fastest in pastures, so keep an extra close eye on your herd during those stretches. This is also the time to watch for [moldy hay](/can-goats-eat-moldy-hay/) in your storage areas.
 
 ## the Risks and Benefits of Feeding Mushrooms to Goats
 
 On the benefit side, mushrooms contain some protein, fiber, and B vitamins. They are a fine treat to mix things up now and then.
 
-The risk side is entirely about wild mushrooms. Death cap and destroying angel mushrooms cause liver failure and are often fatal. Other species attack the kidneys or nervous system. The tricky part is that many toxic species look harmless, with plain white caps and ordinary stems that blend right in with the safe ones.
+The risk side is entirely about wild mushrooms, making them as dangerous as [poison hemlock](/can-goats-eat-poison-hemlock/) in some cases. Death cap and destroying angel mushrooms cause liver failure and are often fatal. Other species attack the kidneys or nervous system. The tricky part is that many toxic species look harmless, with plain white caps and ordinary stems that blend right in with the safe ones.
 
 ## Signs and Symptoms of Mushroom Poisoning in Goats
 
@@ -72,10 +72,10 @@ Liver-damaging mushrooms are the most dangerous because the goat can seem fine f
 
 Kids are curious little animals who will taste just about anything they find on the ground. Store-bought mushrooms are safe for kids who are already eating solid food, but keep portions tiny since their digestive systems are still developing.
 
-Wild mushrooms are even more dangerous for kids than for adult goats. A smaller body weight means it takes less toxin to cause serious damage. Supervise your kids closely in pastures, especially after rainy spells when fungi sprout overnight.
+Wild mushrooms are even more dangerous for kids than for adult goats, much like [onion toxicity](/can-goats-eat-onions/) hits smaller animals harder. A smaller body weight means it takes less toxin to cause serious damage. Supervise your kids closely in pastures, especially after rainy spells when fungi sprout overnight.
 
 ## How to Serve Mushrooms to Your Goat Herd
 
-If you want to offer store-bought mushrooms as a treat, chop them into small pieces so they are easy to chew. A handful once a week is plenty, and most goats honestly prefer apple slices or carrots over mushrooms anyway.
+If you want to offer store-bought mushrooms as a treat, chop them into small pieces so they are easy to chew. A handful once a week is plenty, and most goats honestly prefer [apple slices](/can-goats-eat-apples/) or carrots over mushrooms anyway.
 
-The best thing you can do about wild mushrooms is keep your pastures mowed. Short grass dries out faster and gives mushrooms less cover to grow. Walk your fence lines and grazing areas regularly, and pull up any wild mushrooms you spot before your goats find them first.
+The best thing you can do about wild mushrooms is keep your pastures mowed and provide plenty of safe browse like [honeysuckle](/can-goats-eat-honeysuckle/) and blackberries so goats aren't tempted by unfamiliar growths. Short grass dries out faster and gives mushrooms less cover to grow. Walk your fence lines and grazing areas regularly, and pull up any wild mushrooms you spot before your goats find them first.

@@ -54,23 +54,23 @@ Here's something most people don't realize: traditional feta is actually made fr
 
 Goat cheese, also called chevre, is made from goat's milk that's been curdled with an acid or bacterial cultures. Fresh chevre is soft, spreadable, and has a mild tangy flavor that gets stronger as the cheese ages.
 
-People have been making goat cheese for thousands of years across Europe and the Middle East. Today you can find it in everything from grocery store logs to artisan aged varieties at farmer's markets.
+People have been making goat cheese for thousands of years across Europe and the Middle East. Today you can find it in everything from [grocery store logs](/can-you-buy-goat-milk-at-the-grocery-store) to artisan aged varieties at farmer's markets.
 
 ## What are the benefits of eating goat cheese?
 
 Goat cheese is lower in calories and fat than most cow milk cheeses. It's also easier to digest because the fat globules are smaller and the protein structure breaks down more readily in your stomach.
 
-It's a solid source of protein, calcium, and vitamin A. People who are sensitive to cow dairy often tolerate goat cheese well, though it still contains lactose, so it's not a safe choice for someone with a true lactose intolerance.
+It's a solid source of protein, calcium, and vitamin A. People who are sensitive to cow dairy often tolerate goat cheese well since it [rarely causes bloating](/can-goat-cheese-make-you-bloated), though it still contains lactose, so it's not a safe choice for someone with a true lactose intolerance.
 
 ## What is feta cheese and where does it come from?
 
 Feta originates from Greece, where it's been made for centuries from sheep's milk or a sheep-goat milk blend. True Greek feta is brined, which gives it that characteristic salty, tangy bite.
 
-In the European Union, feta has a protected designation of origin, meaning only cheese made in certain regions of Greece from specific milk types can legally be called feta. What you find labeled as "feta" in American grocery stores is often made from cow milk.
+In the European Union, feta has a protected designation of origin, meaning only cheese made in certain regions of Greece from specific milk types can legally be called feta. You can also [freeze goat cheese](/can-you-freeze-goat-cheese) for longer storage, which is handy when you buy in bulk. What you find labeled as "feta" in American grocery stores is often made from cow milk.
 
 ## How do goat cheese and feta cheese compare in terms of flavor, texture, and nutrition?
 
-Goat cheese is milder and creamier than feta. It melts smoothly when heated, making it better for warm dishes like pasta, pizza, or baked eggs.
+Goat cheese is milder and creamier than feta. If you want to try making your own goat dairy products, [goat milk yogurt](/can-i-make-yogurt-with-canned-goat-milk) is a great starting point. It melts smoothly when heated, making it better for warm dishes like pasta, pizza, or baked eggs.
 
 Feta holds its shape better when crumbled and has a stronger, saltier punch. Nutritionally, they're similar in protein and calcium content, but feta is higher in sodium because of the brining process. If you're watching your salt intake, goat cheese is the better pick.
 
@@ -78,7 +78,7 @@ Feta holds its shape better when crumbled and has a stronger, saltier punch. Nut
 
 For cold dishes like Greek salads or grain bowls, crumbled goat cheese works just as well as feta. The texture is slightly different, but the flavor fits right in.
 
-For baked dishes where you want the cheese to melt and spread, goat cheese actually works better than feta. Feta can dry out and turn rubbery in the oven, while goat cheese gets creamy and golden. For stuffed peppers, flatbreads, or quiches, goat cheese is the stronger choice.
+For baked dishes where you want the cheese to melt and spread, goat cheese actually works better than feta. Goat cheese pairs beautifully with dishes like [kabuli palao made with goat meat](/can-kabuli-palao-be-made-with-goat) for a full goat-centric meal. Feta can dry out and turn rubbery in the oven, while goat cheese gets creamy and golden. For stuffed peppers, flatbreads, or quiches, goat cheese is the stronger choice.
 
 ## Final Thoughts
 

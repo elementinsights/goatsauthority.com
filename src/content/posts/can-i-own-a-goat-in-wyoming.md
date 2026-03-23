@@ -50,7 +50,7 @@ Towns and cities have their own ordinances, though, so check with your city cler
 
 ## What are the benefits of owning a goat in Wyoming?
 
-Goats are tough animals that handle Wyoming's climate better than a lot of people expect. They can be used for milk, meat, fiber, packing, or just keeping the brush under control on your property.
+Goats are tough animals that handle Wyoming's climate better than a lot of people expect. They can be used for milk, meat, [fiber like cashmere and mohair](/can-i-grow-goats-for-cashmere-and-angola), packing, or just keeping the brush under control on your property.
 
 Wyoming has strong 4-H goat programs throughout the state, which makes it a great place for kids to get involved with raising animals. The ranching culture also means you'll have no trouble finding vets, feed suppliers, and other goat owners to learn from.
 
@@ -58,7 +58,7 @@ Wyoming has strong 4-H goat programs throughout the state, which makes it a grea
 
 Start by checking your local zoning ordinances. In rural unincorporated areas, you can usually just buy goats and bring them home without any special permits.
 
-If you're in town, you may need a livestock permit from your city or county. You should also check whether Wyoming requires you to register as a livestock premises and look into brand inspection requirements if you plan to sell or transport goats across state lines.
+If you're in town, you may need a livestock permit from your city or county. The [general rules for keeping goats](/can-i-have-goats-where-i-live) apply here too. You should also check whether Wyoming requires you to register as a livestock premises and look into brand inspection requirements if you plan to sell or transport goats across state lines.
 
 ## What are the requirements for owning a goat in Wyoming?
 
@@ -68,15 +68,15 @@ A three-sided shelter that blocks the prevailing wind is enough for most of the 
 
 ## How much does it cost to own a goat in Wyoming?
 
-For smaller breeds like Nigerian Dwarfs or Pygmies, plan on around $200 to $400 for initial supplies including feed, bedding, shelter materials, and basic equipment. Larger breeds like Alpines or Nubians can run $1,000 to $1,500 to get started.
+For smaller breeds like Nigerian Dwarfs or Pygmies, plan on around $200 to $400 for initial supplies including feed, bedding, shelter materials, and basic equipment. [Registered breeding stock](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers) costs more but holds better resale value. Larger breeds like Alpines or Nubians can run $1,000 to $1,500 to get started.
 
 Ongoing costs include hay, grain, minerals, veterinary care, and hoof trimming. Hay quality varies by region in Wyoming — the western part of the state tends to have better alfalfa, while the eastern plains produce more grass hay.
 
 ## What kind of care do goats need in Wyoming?
 
-Wyoming winters are the biggest management challenge. Increase hay portions during cold months since goats burn more calories just staying warm. Check water troughs twice a day for ice because goats won't drink enough if the water is frozen over.
+Wyoming winters are the biggest management challenge. Understanding [whether goats can die in cold weather](/can-goats-die-in-cold-weather) helps you take winter preparation seriously. Increase hay portions during cold months since goats burn more calories just staying warm. Check water troughs twice a day for ice because goats won't drink enough if the water is frozen over.
 
-Predators are a serious concern out here. Wyoming has coyotes, wolves, mountain lions, and bears, all of which will go after goats. A good livestock guardian dog is worth every penny, and electric fencing adds another solid layer of protection.
+Predators are a serious concern out here. Wyoming has coyotes, wolves, mountain lions, and bears, all of which will go after goats. If you're [raising goats for milk protein](/can-i-raise-goats-for-milk-protein), protecting your milking does is especially important. A good livestock guardian dog is worth every penny, and electric fencing adds another solid layer of protection.
 
 Buy hay in bulk during late summer when local ranchers sell direct from their fields. Keep at least a two-week supply on hand at all times since the nearest feed store could be an hour away depending on where you live.
 

@@ -44,31 +44,31 @@ There's real science behind why goat cheese sits better in your stomach. The dif
 
 Goat cheese can cause bloating in some people, but it's far less common than bloating from cow milk cheese. The main reason is that goat milk contains A2 casein protein, while most cow milk contains A1 casein, which is harder for many people to digest.
 
-If you've had problems with cow cheese but never tried goat cheese, there's a good chance your stomach will handle it much better. The fat globules in goat milk are physically smaller than those in cow milk, which means your body breaks them down faster and with less effort.
+If you've had problems with cow cheese but never tried goat cheese, there's a good chance your stomach will handle it much better. The fat globules in goat milk are physically smaller than those in cow milk, which means your body breaks them down faster and with less effort. If you'd like to stock up, it's helpful to know that [goat cheese can be frozen](/can-you-freeze-goat-cheese) without losing much quality.
 
 ## Why goat cheese is easier to digest than cow cheese
 
 Goat milk has about 10% less lactose than cow milk to start with. On top of that, the aging process breaks down even more lactose, so a well-aged goat cheese like goat gouda has very little lactose left at all.
 
-The smaller fat globules in goat milk are a big deal for digestion. Your stomach doesn't have to work as hard to break them apart, which means less gas production and less of that heavy, bloated feeling after eating.
+The smaller fat globules in goat milk are a big deal for digestion. Your stomach doesn't have to work as hard to break them apart, which means less gas production and less of that heavy, bloated feeling after eating. Those same properties make [goat yogurt safe for babies](/can-babies-have-goats-yogurt) as an early solid food.
 
 ## How to avoid bloating from goat cheese
 
 Start with aged goat cheese rather than fresh chevre if you're worried about bloating. Aged varieties have had most of their lactose consumed during the aging process, so there's less sugar left to ferment in your gut.
 
-Eat it in moderate portions and don't combine it with other high-fat foods in the same meal. If you take a lactase supplement about 30 minutes before eating, that can also help break down whatever small amount of lactose remains.
+Eat it in moderate portions and don't combine it with other high-fat foods in the same meal. If you take a lactase supplement about 30 minutes before eating, that can also help break down whatever small amount of lactose remains. In Ayurvedic tradition, [goat milk is recommended for children](/can-children-have-goat-milk-ayurveda) partly because of its gentle digestibility.
 
 ## When bloating means something more serious
 
 If goat cheese still causes bloating, you may have a true casein allergy rather than lactose intolerance. A casein allergy means your immune system reacts to the milk protein itself, and switching from cow to goat won't fix that since both contain casein.
 
-Persistent bloating that doesn't respond to dietary changes could also point to conditions like IBS, SIBO, or celiac disease. If you're bloating after every meal regardless of what you eat, it's worth talking to your doctor rather than just switching cheese types.
+Persistent bloating that doesn't respond to dietary changes could also point to conditions like IBS, SIBO, or celiac disease. If you're bloating after every meal regardless of what you eat, it's worth talking to your doctor rather than just switching cheese types. Families exploring goat dairy might also want to know whether [powdered goat milk](/can-a-baby-have-powdered-goats-milk) is a convenient alternative for cooking and baking.
 
 ## Best cheeses for sensitive stomachs
 
 Hard aged cheeses are your safest bet across the board. Parmesan, aged cheddar, and aged goat gouda all have very low lactose content because the bacteria used in aging consume most of the milk sugar.
 
-Soft fresh cheeses like brie, camembert, and fresh chevre have more lactose and are more likely to cause trouble. If you're going to experiment, start with the hardest, most aged variety you can find and work your way toward softer options over time.
+Soft fresh cheeses like brie, camembert, and fresh chevre have more lactose and are more likely to cause trouble. If you're going to experiment, start with the hardest, most aged variety you can find and work your way toward softer options over time. Excess goat milk from your own herd [can be frozen for later](/can-goats-milk-be-frozen) and used in cheese making when you're ready.
 
 ## Final Thoughts
 

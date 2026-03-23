@@ -51,25 +51,25 @@ A goat in anaphylaxis will show sudden weakness, difficulty breathing, swelling 
 
 CDT stands for Clostridium perfringens types C and D, plus Tetanus. These are bacterial diseases that can kill a goat within hours of symptoms showing up.
 
-Clostridium perfringens type C causes hemorrhagic enteritis, most often in young kids. Type D is the one people call "overeating disease" because it flares up when a goat eats too much grain and the bacteria in the gut explode in numbers. Tetanus enters through wounds and causes fatal muscle spasms. The CDT vaccine is a toxoid, meaning it teaches the goat's immune system to fight the toxins these bacteria produce.
+Clostridium perfringens type C causes hemorrhagic enteritis, most often in young kids. Type D is the one people call "overeating disease" because it flares up when a goat eats too much grain and the bacteria in the gut explode in numbers. Tetanus enters through wounds and causes fatal muscle spasms, which is why keeping [Neosporin on hand for wound care](/can-i-put-neosporin-on-my-goats/) matters alongside vaccination. The CDT vaccine is a toxoid, meaning it teaches the goat's immune system to fight the toxins these bacteria produce.
 
 ## Risks Associated with the CDT Vaccine on goat
 
 The most common side effect is a small lump at the injection site. This is normal and usually goes away within a couple of weeks. Some goats get a bit sluggish for a day after vaccination, and that's nothing to worry about either.
 
-The serious risk is anaphylaxis, and it's rare. Having a dose of epinephrine ready before you start vaccinating is the smart play. Diphenhydramine (Benadryl) can also help with mild allergic reactions. If a goat shows any sign of swelling, labored breathing, or wobbliness right after the shot, treat it as an emergency.
+The serious risk is anaphylaxis, and it's rare. Having a dose of epinephrine ready before you start vaccinating is the smart play. [Benadryl is generally safe for goats](/can-benadryl-hurt-a-goat/) and can help with mild allergic reactions. If a goat shows any sign of swelling, labored breathing, or wobbliness right after the shot, treat it as an emergency.
 
 ## Effects of the CDT Shot on Goats
 
 The whole point of the CDT shot is to build immunity against three deadly conditions. A properly vaccinated goat has a much stronger defense if it encounters Clostridium bacteria or gets a puncture wound that could lead to tetanus.
 
-Most goats handle the vaccine with zero fuss. They might flinch at the needle and go right back to eating. The small injection site lump that sometimes forms is just the immune system doing its job. It's a mild and temporary reaction compared to the diseases the vaccine prevents, which can kill a healthy goat in less than 24 hours.
+Most goats handle the vaccine with zero fuss. They might flinch at the needle and go right back to eating. The small injection site lump that sometimes forms is just the immune system doing its job, and you may need to [know when suturing is appropriate](/can-i-suture-my-goat/) if an abscess develops at the site. It's a mild and temporary reaction compared to the diseases the vaccine prevents, which can kill a healthy goat in less than 24 hours.
 
 ## Recommended Vaccination Schedule for Goats
 
-Kids should get their first CDT shot at around 4 to 6 weeks of age, followed by a booster 3 to 4 weeks later. After that initial series, an annual booster keeps protection strong.
+Kids should get their first CDT shot at around 4 to 6 weeks of age, followed by a booster 3 to 4 weeks later. Some owners also give [baby aspirin to young kids](/can-i-give-baby-aspirin-to-my-baby-goat/) if they seem sore after the injection. After that initial series, an annual booster keeps protection strong.
 
-Pregnant does should receive a booster about 4 weeks before their due date. This passes antibodies through the colostrum to the newborn kids and gives them some protection until they're old enough for their own shots. The vaccine is given subcutaneously, usually in the armpit area or over the ribs. Use a clean needle for each goat to prevent spreading any infections.
+Pregnant does should receive a booster about 4 weeks before their due date, and you can safely [deworm a pregnant goat](/can-you-deworm-a-pregnant-goat/) around the same time if fecal counts warrant it. This passes antibodies through the colostrum to the newborn kids and gives them some protection until they're old enough for their own shots. The vaccine is given subcutaneously, usually in the armpit area or over the ribs. Use a clean needle for each goat to prevent spreading any infections.
 
 ## Final Thoughts
 

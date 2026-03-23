@@ -47,7 +47,7 @@ Understanding which diseases cross between these species will help you manage yo
 
 ## Can any diseases spread from swine to goats?
 
-Several diseases can jump from pigs to goats. Foot-and-mouth disease is one of the most significant, and contrary to what some sources claim, goats are absolutely susceptible to it. Both pigs and goats are cloven-hoofed animals, and the FMD virus readily infects both species.
+Several diseases can jump from pigs to goats. Foot-and-mouth disease is one of the most significant, and contrary to what some sources claim, goats are absolutely susceptible to it. Both pigs and goats are cloven-hoofed animals, and the FMD virus readily infects both species. Goats are also vulnerable to [diseases spread by ticks](/can-goats-die-from-lymes), making biosecurity even more important on multi-species farms.
 
 Other diseases that can spread between swine and goats include pseudorabies (Aujeszky's disease), salmonellosis, and various internal parasites. Pseudorabies is especially dangerous for goats because while pigs can carry it without showing symptoms, it is almost always fatal in goats.
 
@@ -55,19 +55,19 @@ Other diseases that can spread between swine and goats include pseudorabies (Auj
 
 Foot-and-mouth disease causes blisters on the mouth, feet, and teats. Pigs shed enormous amounts of the virus into the air, and goats grazing downwind can become infected without ever having direct contact.
 
-Salmonellosis spreads through contaminated feces and shared water sources. Pigs are frequent carriers of salmonella bacteria and can contaminate pastures, feed troughs, and water supplies that goats later use. Internal parasites like stomach worms and coccidia can also cross between the two species when they share the same ground.
+Salmonellosis spreads through contaminated feces and shared water sources. Pigs are frequent carriers of salmonella bacteria and can contaminate pastures, feed troughs, and water supplies that goats later use. Internal parasites like stomach worms and coccidia can also cross between the two species when they share the same ground. Even [contact with goats can cause diarrhea in humans](/can-contact-with-goats-cause-diarrhea-in-humans) through some of these same pathogens.
 
 ## How do you protect your goats from these diseases?
 
 The single most effective step is keeping your pigs and goats in separate housing and on separate pastures. Do not share feeders, water troughs, or equipment between the two species.
 
-Designate separate boots and clothing for working with each animal group. Pathogens travel easily on shoes and hands, so washing up between barn visits is not just being fussy. It is basic biosecurity that can prevent a disease outbreak in your herd.
+Designate separate boots and clothing for working with each animal group. Pathogens travel easily on shoes and hands, so washing up between barn visits is not just being fussy. It is basic biosecurity that can prevent a disease outbreak in your herd. This is especially critical if your goats are also dealing with [external parasites like lice](/can-goat-lice-go-into-a-dormant-stage), which thrive in crowded conditions.
 
 ## What are the symptoms of transmittal diseases in goats?
 
 Foot-and-mouth disease in goats shows up as drooling, lameness, and blisters on the lips, gums, and hooves. Affected goats often stop eating because their mouths are too sore.
 
-Pseudorabies causes intense itching, fever, lack of coordination, and death within 48 hours in most cases. There is no treatment once symptoms appear. Salmonellosis shows up as watery diarrhea, fever, depression, and dehydration. Young kids and stressed animals are hit hardest.
+Pseudorabies causes intense itching, fever, lack of coordination, and death within 48 hours in most cases. There is no treatment once symptoms appear. Salmonellosis shows up as watery diarrhea, fever, depression, and dehydration. Young kids and stressed animals are hit hardest, and [cold weather can compound these risks](/can-goats-die-in-cold-weather) by weakening their immune systems.
 
 ## Can transmittal disease kill a goat?
 
@@ -77,7 +77,7 @@ Foot-and-mouth disease has a lower mortality rate in adult goats but can kill yo
 
 ## How can you treat them if they're diagnosed in your herd?
 
-Treatment options depend on the disease. Salmonellosis can be treated with supportive care including fluids, electrolytes, and sometimes antibiotics under veterinary guidance.
+Treatment options depend on the disease. Salmonellosis can be treated with supportive care including fluids, electrolytes, and sometimes antibiotics under veterinary guidance. Having [Benadryl on hand](/can-benadryl-hurt-a-goat) is also useful for managing allergic reactions that can accompany some illnesses.
 
 Foot-and-mouth disease has no specific treatment. Affected animals receive supportive care while the virus runs its course, and the focus shifts to preventing further spread. Pseudorabies has no treatment at all, which is why prevention through separation is so important.
 
@@ -89,7 +89,7 @@ There is no approved vaccine for pseudorabies in goats. The best protection is k
 
 ## What are some other ways I can protect my goats?
 
-Quarantine any new animals for at least two to three weeks before introducing them to your herd. This goes for both new goats and new pigs on the property.
+Quarantine any new animals for at least two to three weeks before introducing them to your herd. This goes for both new goats and new pigs on the property. Understanding [whether goats can carry distemper](/can-goats-carry-distemper) and other viral diseases helps you prioritize which tests to run on new arrivals.
 
 Run separate manure management for each species. Composting manure at high temperatures kills most pathogens, but mixing pig and goat waste before composting raises the risk. Keep your vet informed about which species you keep so they can advise on regional disease risks.
 

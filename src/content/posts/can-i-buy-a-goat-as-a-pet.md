@@ -48,19 +48,19 @@ Goats are herd animals. A single goat will be stressed, loud, and miserable no m
 
 ## What do you need to know before buying a pet goat?
 
-Check your local zoning laws before you do anything else. Many towns and suburbs have ordinances that restrict or prohibit keeping livestock, and getting fined after you have already bought goats is a rough way to learn that lesson.
+Check your [local zoning laws](/can-i-have-goats-where-i-live) before you do anything else. Many towns and suburbs have ordinances that restrict or prohibit keeping livestock, and getting fined after you have already bought goats is a rough way to learn that lesson.
 
-You need outdoor space with solid fencing at least 4 to 5 feet tall. Goats are escape artists, and a cheap fence will cost you more in the long run when you are constantly chasing goats out of your neighbor's garden. Budget for a shelter, hay, loose goat minerals, fresh water, and regular vet visits before you commit.
+You need outdoor space with solid fencing at least 4 to 5 feet tall. Goats are escape artists that [can climb fences](/can-goats-climb-fences) without much trouble, and a cheap fence will cost you more in the long run when you are constantly chasing goats out of your neighbor's garden. Budget for a shelter, hay, loose goat minerals, fresh water, and regular vet visits before you commit.
 
 ## How to choose the right goat for your family?
 
 Nigerian Dwarf and Pygmy goats are the most popular pet breeds. Nigerian Dwarfs top out around 75 pounds and can also provide a surprising amount of milk if you are interested in that.
 
-Pygmies are stocky, compact, and easygoing. Mini breeds in general are easier to handle, need less space, and are gentler with kids. Avoid buying goats on impulse at a county fair or petting zoo since you have no idea about their health history or temperament.
+Pygmies are stocky, compact, and easygoing. Mini breeds in general are easier to handle, need less space, and [can thrive in an urban environment](/can-goats-live-in-an-urban-environment) where larger breeds struggle. Avoid buying goats on impulse at a county fair or petting zoo since you have no idea about their health history or temperament.
 
 ## What to feed your pet goat?
 
-Hay is the foundation of every goat's diet. Grass hay like timothy or orchard grass should be available at all times, with loose goat minerals and fresh water on the side.
+Hay is the foundation of every goat's diet. Grass hay like timothy or orchard grass should be available at all times, and [pine chips work well as bedding](/can-pine-chips-be-used-as-bedding-for-goats) in their shelter. Keep loose goat minerals and fresh water on the side.
 
 Grain is only necessary for pregnant or lactating does and growing kids. Pet wethers and dry does can get fat quickly on grain, and an overweight goat is at risk for serious health problems including urinary calculi in males. Treats like apple slices, carrot pieces, and the occasional handful of animal crackers are fine in small amounts.
 
@@ -68,11 +68,11 @@ Grain is only necessary for pregnant or lactating does and growing kids. Pet wet
 
 A goat drinks roughly half a gallon to a full gallon of water per day depending on the weather and how much fresh browse they are eating. Lactating does drink considerably more.
 
-Keep the water bucket clean and filled at all times. Goats are picky drinkers and will refuse dirty or algae-filled water even when they are thirsty, which can lead to dehydration fast.
+Keep the water bucket clean and filled at all times. Goats are picky drinkers and will refuse dirty or algae-filled water even when they are thirsty, which can lead to dehydration fast. Their [manure actually makes great fertilizer](/can-goat-poop-be-used-as-fertilizer), so consider composting it for your garden.
 
 ## How to care for a sick or injured pet goat?
 
-Find a vet who treats goats before you need one. Not all veterinarians work with livestock, and you do not want to be scrambling to find one at 2 AM during a kidding emergency.
+Find a vet who treats goats before you need one. Not all veterinarians work with livestock, and you do not want to be scrambling to find one at 2 AM during a kidding emergency. Some people try to [claim goats as lawn maintenance](/can-i-claim-a-couple-of-goats-as-lawn-maintenance-team-instead-of-pets) to get around pet restrictions, but this rarely works legally.
 
 Hoof trimming should be done every 6 to 8 weeks, and deworming should follow fecal egg count results rather than a fixed schedule. Vaccinate with CDT (Clostridium perfringens types C and D plus tetanus) annually, and keep a basic goat first aid kit on hand with items like Nutri-Drench, electrolytes, iodine, and a digital thermometer.
 

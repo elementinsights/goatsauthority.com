@@ -44,13 +44,13 @@ Can you get milk from a goat and also use it to carry gear on the trail? The sho
 
 A goat can do both jobs, but probably not at the same time. A doe in heavy lactation with a full udder is going to be uncomfortable under a pack saddle, and she won't perform well on the trail.
 
-The best approach is to use your dairy does for packing during their dry period, when they aren't producing milk. Some owners milk in the morning and do short pack trips during the day, but that only works for light loads and easy terrain.
+The best approach is to use your dairy does for packing during their dry period, when they aren't producing milk. During milking season, you can [freeze the milk](/can-goats-milk-be-frozen/) to build up supply for when she's on trail duty. Some owners milk in the morning and do short pack trips during the day, but that only works for light loads and easy terrain.
 
 ## What is a pack goat and what are its uses?
 
 A pack goat carries supplies and gear for hikers, hunters, and backcountry campers. They can handle 20-25% of their body weight over rough mountain trails that would give a horse trouble.
 
-Goats are more sure-footed than horses or mules on narrow ledges and steep switchbacks. They also browse on whatever vegetation is available along the trail, so you don't have to pack feed for them on most trips.
+Goats are more sure-footed than horses or mules on narrow ledges and steep switchbacks. Even [cats can safely drink goat milk](/can-a-cat-drink-goats-milk/) that you pack in from the trail if you bring a small portable milking setup. They also browse on whatever vegetation is available along the trail, so you don't have to pack feed for them on most trips.
 
 ## What to look for when choosing a pack goat?
 
@@ -62,7 +62,7 @@ If you want a dual-purpose animal, pick a large-framed dairy breed and plan your
 
 Alpine and LaMancha crosses are popular choices for packing because of their size and steady dispositions. A large wether from one of these breeds can weigh 200 pounds and carry 50 pounds of gear without breaking a sweat.
 
-For dual-purpose milk and pack use, Saanens and Alpines work well. They produce good milk volume and have the frame to carry a reasonable load during the off-season.
+For dual-purpose milk and pack use, Saanens and Alpines work well. They produce good milk volume and have the frame to carry a reasonable load during the off-season. Excess milk can be turned into [butter for sale](/can-i-sell-goat-milk-butter/) or [cheese that freezes well](/can-you-freeze-goat-cheese/).
 
 ## How to train your goat to be a pack animal?
 
@@ -74,7 +74,7 @@ Begin with an empty pack saddle around 6 months of age and gradually add weight 
 
 Balance the load evenly on both sides of the pack saddle. An uneven load will shift on steep terrain and can cause saddle sores or throw the goat off balance.
 
-If you're using a dairy doe for packing, manage her udder size through selective breeding. Does with smaller, tight udders are far more comfortable under a saddle than does with pendulous udders that swing and chafe.
+If you're using a dairy doe for packing, manage her udder size through selective breeding. [Powdered goat milk](/can-a-baby-have-powdered-goats-milk/) is another option for preserving your output during trail season. Does with smaller, tight udders are far more comfortable under a saddle than does with pendulous udders that swing and chafe.
 
 ## Final Thoughts
 

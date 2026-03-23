@@ -50,7 +50,7 @@ Do not intentionally feed meat to goats. It disrupts the microbial balance in th
 
 ## Why goats can't properly digest meat
 
-The rumen is the largest of a goat's four stomach chambers, and it holds billions of microorganisms that specialize in breaking down plant material. These microbes ferment cellulose and extract nutrients from forage that most animals can't use.
+The rumen is the largest of a goat's [four stomach compartments](/posts/how-many-stomachs-do-goats-have), and it holds billions of microorganisms that specialize in breaking down plant material. These microbes ferment cellulose and extract nutrients from forage that most animals can't use.
 
 Animal protein doesn't ferment the same way in the rumen. The bacteria living in there are not equipped to handle it efficiently. Feeding meat throws off the microbial population and can lead to acidosis, bloat, and other digestive problems.
 
@@ -60,7 +60,7 @@ A goat that accidentally eats a small amount of meat will usually pass it throug
 
 You'll occasionally see stories of a goat eating a baby chick, a mouse, or some other small animal. These incidents are real, but they're opportunistic behavior, not dietary preference.
 
-Goats are curious animals that explore the world with their mouths. If a chick wanders into the feed trough and a goat scoops it up, that's not predatory behavior. It's more like a toddler putting random objects in their mouth.
+Goats are curious animals that explore the world with their mouths, which is also [why people think goats eat everything](/posts/why-do-goats-eat-everything). If a chick wanders into the feed trough and a goat scoops it up, that's not predatory behavior. It's more like a toddler putting random objects in their mouth.
 
 These events are rare and don't change the fact that goats are herbivores. No goat actively hunts for animal protein, and these isolated incidents shouldn't be taken as evidence that meat belongs in their diet.
 
@@ -70,15 +70,15 @@ If you catch your goat chewing on a bone left behind by the farm dog, pay attent
 
 The goat is instinctively seeking out minerals that are missing from its regular diet. It's not trying to eat meat. It's trying to correct a nutritional imbalance.
 
-Check your mineral feeder and make sure it's stocked with a quality goat-specific loose mineral mix. If the bone chewing continues, ask your vet to run a blood panel to identify exactly which minerals are running low.
+Check your mineral feeder and make sure it's stocked with a quality goat-specific loose mineral mix. Similarly, goats that chew on [metal objects are also signaling a deficiency](/posts/do-goats-eat-metal), not a preference. If the bone chewing continues, ask your vet to run a blood panel to identify exactly which minerals are running low.
 
 ## Safe protein sources for goats that need them
 
-If your goat needs extra protein, there are options that actually work with their digestive system. Alfalfa hay is one of the best natural protein sources for goats and is completely compatible with rumen function.
+If your goat needs extra protein, there are options that actually work with their digestive system. Alfalfa hay is one of the best natural protein sources for goats and is completely compatible with rumen function. Understanding [what kind of hay goats eat](/posts/what-kind-of-hay-do-goats-eat) helps you choose the right forage for your herd's needs.
 
 Soybean meal mixed into a grain ration is another common way to boost protein for growing kids or lactating does. It's digestible, available at most feed stores, and goats take to it without issues.
 
-Black oil sunflower seeds provide both protein and fat in a form goats enjoy. A quarter cup per day per adult goat is a reasonable supplement. These options keep protein intake up without any of the risks that come with feeding animal products.
+Black oil sunflower seeds provide both protein and fat in a form goats enjoy. A quarter cup per day per adult goat is a reasonable supplement, and goats can consume these easily since [they have no upper front teeth](/posts/do-goats-have-top-teeth) to interfere with the shells. These options keep protein intake up without any of the risks that come with feeding animal products.
 
 ## Final Thoughts
 

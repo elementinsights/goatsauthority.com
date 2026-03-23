@@ -47,19 +47,19 @@ The real question most goat owners are asking is whether they can drink or use t
 
 You should not be adding SafeGuard directly to goat milk. SafeGuard is an oral medication given to the goat to kill worms like barber pole worm and lungworms. It is not something you mix into milk.
 
-When your goat receives a dose of SafeGuard (fenbendazole), trace amounts of the drug pass into the milk for several days afterward. During this withdrawal period, the milk should not be consumed by humans. Most goat owners follow a withdrawal time of 4 to 6 days after the last dose before using the milk again.
+When your goat receives a dose of SafeGuard (fenbendazole), trace amounts of the drug pass into the milk for several days afterward. Some owners also wonder about using [Bimectin instead of SafeGuard](/can-i-use-bimectin-instead-of-safeguard-to-worm-my-kid-goat), which is a different drug class with its own withdrawal considerations. During this withdrawal period, the milk should not be consumed by humans. Most goat owners follow a withdrawal time of 4 to 6 days after the last dose before using the milk again.
 
 ## What is goat's milk and why is it recommended for people who are lactose intolerant?
 
 Goat milk is naturally lower in lactose than cow milk, and its fat globules are smaller, which makes it easier for many people to digest. A lot of folks who struggle with cow milk find they handle goat milk just fine.
 
-Beyond digestibility, goat milk is rich in calcium, phosphorus, and vitamin A. It makes excellent cheese, yogurt, and soap. If you are milking goats for your family, keeping that milk clean and free from drug residues is a top priority.
+Beyond digestibility, goat milk is rich in calcium, phosphorus, and vitamin A. It makes excellent cheese, yogurt, and soap. You can even [freeze goat milk](/can-goats-milk-be-frozen) for later use without losing much nutritional value. If you are milking goats for your family, keeping that milk clean and free from drug residues is a top priority.
 
 ## How does safeguard work and what are the benefits of using it in goat's milk?
 
 SafeGuard (fenbendazole) works by disrupting the energy metabolism of parasitic worms, essentially starving them to death inside the goat's gut. It is effective against a range of gastrointestinal parasites including roundworms, hookworms, and some tapeworms.
 
-The benefit is to the goat, not the milk. A doe with a heavy parasite load produces less milk and loses body condition. Deworming when needed keeps her healthy and her production up.
+The benefit is to the goat, not the milk. A doe with a heavy parasite load produces less milk and loses body condition. You can also [use ivermectin pour-on orally](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) for different parasite species. Deworming when needed keeps her healthy and her production up.
 
 ## Are there any risks associated with using Safeguard in goat's milk?
 
@@ -69,7 +69,7 @@ Fenbendazole is used off-label in goats because there is no FDA-approved formula
 
 ## What are some things to consider before putting safeguards on goat's milk?
 
-Before deworming a milking doe, think about timing. If you can plan your deworming for the dry period when you are not using the milk, you avoid the withdrawal issue entirely.
+Before deworming a milking doe, think about timing. If she is [pregnant, you can still deworm her safely](/can-you-deworm-a-pregnant-goat) with proper product selection. If you can plan your deworming for the dry period when you are not using the milk, you avoid the withdrawal issue entirely.
 
 If your doe needs deworming while she is in milk, you will need to dump milk for at least 4 to 6 days. Mark the date on your calendar so you do not lose track. You can still milk the doe on her regular schedule to keep her production up and prevent mastitis, but pour that milk out or feed it to barn cats.
 
@@ -83,7 +83,7 @@ Chill the milk as quickly as possible after milking. Straining it through a milk
 
 There are no recipes that should include SafeGuard in goat milk because SafeGuard is a dewormer, not a food ingredient. This is worth repeating to avoid any confusion.
 
-What you can do is use clean, withdrawal-cleared goat milk in all kinds of recipes. Goat milk makes outstanding chevre, cajeta, yogurt, and ice cream. Just make sure the doe has fully cleared any medication withdrawal period.
+What you can do is use clean, withdrawal-cleared goat milk in all kinds of recipes. Goat milk makes outstanding chevre, cajeta, yogurt, and ice cream, and you can even [sell goat milk butter](/can-i-sell-goat-milk-butter) if your state allows it. Just make sure the doe has fully cleared any medication withdrawal period.
 
 ## Final Thoughts
 

@@ -49,25 +49,25 @@ Natural food stores and health food sections tend to have the widest selection. 
 
 Fresh goat milk is sold in the refrigerated dairy section, just like cow milk. UHT goat milk comes in shelf-stable cartons that don’t need refrigeration until you open them, which is handy for stocking up.
 
-Powdered goat milk is another option and lasts for months in the pantry. Goat cheese and goat yogurt are even more widely available than liquid goat milk, and you’ll find those at pretty much any grocery store with a decent cheese section.
+Powdered goat milk is another option and lasts for months in the pantry. [Goat cheese](/posts/can-you-freeze-goat-cheese) and goat yogurt are even more widely available than liquid goat milk, and you’ll find those at pretty much any grocery store with a decent cheese section.
 
 ## Where to find raw goat milk
 
 Raw goat milk is a different story. You won’t find it at a regular grocery store because raw milk sales laws vary by state.
 
-In some states, you can buy raw goat milk at farmers markets or directly from the farm. Other states ban retail raw milk sales entirely. If raw goat milk is important to you, check your state’s regulations and look for farm-gate sales or herdshare programs in your area.
+In some states, you can buy raw goat milk at farmers markets or directly from the farm. Many people who prefer [drinking raw milk straight from the goat](/posts/can-you-drink-goat-milk-straight-from-goat) go this route. Other states ban retail raw milk sales entirely. If raw goat milk is important to you, check your state’s regulations and look for farm-gate sales or herdshare programs in your area.
 
 ## How to read goat milk labels
 
 Not all goat milk on the shelf is the same. Pure goat milk should list just one ingredient: goat milk, possibly with added vitamins A and D.
 
-Watch for brands that add thickeners, stabilizers, or artificial flavors. Also pay attention to the pasteurization method, because ultra-pasteurized goat milk has a longer shelf life but loses some of the beneficial enzymes that make goat milk special in the first place.
+Watch for brands that add thickeners, stabilizers, or artificial flavors. [Pregnant women should always choose pasteurized](/posts/can-you-drink-goat-milk-while-pregnant) over raw to protect against foodborne illness. Also pay attention to the pasteurization method, because ultra-pasteurized goat milk has a longer shelf life but loses some of the beneficial enzymes that make goat milk special in the first place.
 
 ## How does goat milk compare to cow milk?
 
 Goat milk contains less lactose than cow milk, and the fat globules are naturally smaller. That combination means your body breaks it down faster, which is why many people who bloat on cow milk do fine with goat milk.
 
-Nutritionally, goat milk is higher in calcium, vitamin A, and potassium than cow milk. It also has a slightly higher fat content, which gives it a creamier texture that works great in cooking and baking.
+Nutritionally, goat milk is higher in calcium, vitamin A, and potassium than cow milk. [Goat liver](/posts/can-we-eat-goat-liver) is another nutrient powerhouse from the same animal, packed with iron and B12. Goat milk also has a slightly higher fat content, which gives it a creamier texture that works great in cooking and baking.
 
 The taste is slightly tangy compared to cow milk, and some people notice a stronger flavor in goat milk from certain breeds. If you're trying it for the first time, start with a pasteurized brand from the store rather than raw milk, since the flavor is milder and more approachable.
 
@@ -75,7 +75,7 @@ The taste is slightly tangy compared to cow milk, and some people notice a stron
 
 Expect to pay anywhere from $5 to $9 per quart depending on the brand and whether it’s organic. That’s more than cow milk, but the price has come down as demand has grown.
 
-Powdered goat milk is usually the most cost-effective option if you go through a lot of it. Buying in bulk online can also save you money compared to picking up a single carton at the store.
+Powdered goat milk is usually the most cost-effective option if you go through a lot of it. You can also stock up on [goat meat at Walmart](/posts/can-you-buy-goat-meat-at-walmart) while picking up your dairy products. Buying in bulk online can also save you money compared to picking up a single carton at the store.
 
 ## Final Thoughts
 

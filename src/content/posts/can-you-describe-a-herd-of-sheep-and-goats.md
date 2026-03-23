@@ -50,13 +50,13 @@ When they share a pasture, the group usually takes on a look that's easy to spot
 
 A mixed flock is simply a group that includes both species living and grazing on the same ground. Plenty of small farms run them together because it makes good use of pasture.
 
-Sheep keep the grass trimmed down since they're grazers that eat close to the ground. Goats browse on brush, weeds, and low-hanging branches that sheep ignore completely, so the two species complement each other well on the same piece of land.
+Sheep keep the grass trimmed down since they are grazers that eat close to the ground. Goats browse on brush, weeds, and low-hanging branches that sheep ignore completely, so the two species complement each other well on the same piece of land. Keeping [an unrelated buck for breeding](/posts/can-you-breed-a-half-brother-and-sister-goat) is easier when your herd has enough space for separate groups.
 
 ## How sheep and goats behave differently together
 
 Sheep are followers by nature. When one moves, the rest follow, and they feel safest packed shoulder to shoulder.
 
-Goats are the opposite. They're curious, independent, and will spend their day testing fences, standing on top of things, and wandering off to explore. When you put both species together, the goats almost always end up dominating the sheep at feeding time and around water troughs.
+Goats are the opposite. They are curious, independent, and will spend their day testing fences, standing on top of things, and wandering off to explore. [Hardy breeds like Kikos](/posts/where-did-kiko-goats-originate) are especially active foragers in mixed-species pastures. When you put both species together, the goats almost always end up dominating the sheep at feeding time and around water troughs.
 
 ## The copper problem in mixed flocks
 
@@ -64,19 +64,19 @@ This is the one thing that trips up most people who run sheep and goats together
 
 You have to set up separate mineral feeders and make sure the sheep cannot get into the goat minerals. Some farmers use a creep feeder with openings sized so only goats can reach in, since goats have narrower heads than most sheep breeds.
 
-There's no way around this issue. If your sheep are eating goat minerals, they will eventually develop copper toxicity, and by the time symptoms show up the damage is often already done.
+There is no way around this issue. If your sheep are eating goat minerals, they will eventually develop copper toxicity, and by the time symptoms show up the damage is often already done. This is one of many management details that people who [adopt goats for the first time](/posts/can-you-adopt-a-goat-and-keep-it-at-a-farm-in-rochester-ny) need to learn.
 
 ## Do they establish a pecking order?
 
 Absolutely. When sheep and goats live together, they sort out a combined social hierarchy within the first few days. Goats tend to rank higher because they're more aggressive and willing to headbutt for position.
 
-The dominant animal in a mixed group is almost always a goat, usually an older doe or a wether with attitude. Sheep generally accept their lower rank and stay out of the way, which is part of why the arrangement usually works without too much conflict.
+The dominant animal in a mixed group is almost always a goat, usually an older doe or a wether with attitude. Wethers that were [banded at the right age](/posts/can-you-band-a-2-year-old-buck-goat) tend to be pushy without being dangerously aggressive. Sheep generally accept their lower rank and stay out of the way, which is part of why the arrangement usually works without too much conflict.
 
 ## Benefits of running them together
 
 The biggest advantage is pasture diversity. Sheep graze and goats browse, so together they manage vegetation more thoroughly than either species could alone.
 
-Goats will clean up the brushy areas and invasive weeds while sheep keep the grass in check. This combination reduces the need for mowing and herbicides, and the pasture stays healthier overall because no single plant type gets overgrazed.
+Goats will clean up the brushy areas and invasive weeds while sheep keep the grass in check. This combination reduces the need for mowing and herbicides, and the pasture stays healthier overall because no single plant type gets overgrazed. If you run [Angora goats in the mix](/posts/can-you-coat-angora-goats-to-protect-fleece), protecting their fleece from the pasture debris becomes an added consideration.
 
 ## Final Thoughts
 

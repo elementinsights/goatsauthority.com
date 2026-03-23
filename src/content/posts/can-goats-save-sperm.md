@@ -42,7 +42,7 @@ Let's clear up the confusion.
 
 ## Can goats save sperm internally?
 
-No, goats cannot store sperm internally for later use. This is a common myth in the goat world, and it's not how reproduction works in any mammal.
+No, goats cannot store sperm internally for later use. This is a common myth in the goat world, much like the myth that [goats can eat everything](/posts/can-goats-eat-everything). It's simply not how reproduction works in any mammal.
 
 Once a doe is bred, the sperm either fertilizes available eggs within about 12-24 hours or it dies. There's no biological mechanism in goats that allows a doe to hold onto sperm and use it at some future date. The idea that a doe "saved" sperm from a previous breeding to produce kids months later simply isn't possible.
 
@@ -50,13 +50,13 @@ Once a doe is bred, the sperm either fertilizes available eggs within about 12-2
 
 When a buck breeds a doe that's in standing heat, the sperm travels through the reproductive tract and reaches the eggs fairly quickly. Fertilization typically happens within 12-24 hours of breeding.
 
-Does come into heat roughly every 18-21 days during the breeding season. If a doe doesn't conceive on one cycle, she'll come back into heat about three weeks later and can be bred again. Each heat cycle is a fresh start with no carryover from previous breedings.
+Does come into heat roughly every 18-21 days during the breeding season. If a doe doesn't conceive on one cycle, she'll come back into heat about three weeks later and can be bred again. Knowing [how many babies goats typically have](/posts/how-many-babies-do-goats-have-at-a-time) helps with breeding planning. Each heat cycle is a fresh start with no carryover from previous breedings.
 
 ## Can a doe have kids from two different bucks?
 
 Yes, this actually can happen, and it's probably where some of the "saving sperm" confusion comes from. The phenomenon is called superfecundation, and it occurs when a doe is bred by two different bucks during the same heat cycle.
 
-If a doe releases multiple eggs (which is common since goats frequently have twins and triplets), one egg could be fertilized by sperm from one buck and another egg by sperm from a second buck. The result is twins or triplets with different fathers.
+If a doe releases multiple eggs (which is common since goats frequently have twins and triplets), one egg could be fertilized by sperm from one buck and another egg by sperm from a second buck. Does that [produce quads](/posts/can-a-goat-feed-quads) release even more eggs during ovulation. The result is twins or triplets with different fathers.
 
 This only works within the same heat cycle, though. The doe isn't storing anything for later. Both matings have to happen within a short window while she's in standing heat and has viable eggs available.
 
@@ -66,7 +66,7 @@ Now, if you're talking about preserving buck semen through freezing, that's abso
 
 Semen collection is typically done at a specialized facility by trained technicians using an artificial vagina or electroejaculation. The semen is mixed with an extender solution that protects the sperm cells during freezing, then packaged in straws and submerged in liquid nitrogen.
 
-Most collection facilities charge between $200 and $500 per session depending on the number of straws produced. Annual storage fees typically run $50 to $150 per year. Have your buck tested for CAE, CL, and Johne's disease before collection, as reputable facilities require a clean health certificate.
+Most collection facilities charge between $200 and $500 per session depending on the number of straws produced. Annual storage fees typically run $50 to $150 per year. For breeders looking to [make money from goats](/posts/can-goats-make-money), preserving top genetics is a smart long-term investment. Have your buck tested for CAE, CL, and Johne's disease before collection, as reputable facilities require a clean health certificate.
 
 ## Tips for using frozen semen
 
@@ -74,7 +74,7 @@ Timing is everything with artificial insemination using frozen semen. The doe ne
 
 Thaw the straw properly following the facility's instructions. Usually this means placing it in warm water (around 95-98 degrees Fahrenheit) for 30-60 seconds. Use the semen immediately after thawing since viability drops fast once it's out of the nitrogen tank.
 
-Conception rates with frozen semen tend to be lower than with natural breeding, usually around 50-65% compared to 85-95% with a live buck. Plan accordingly and be prepared for the possibility that it may take more than one attempt.
+Conception rates with frozen semen tend to be lower than with natural breeding, usually around 50-65% compared to 85-95% with a live buck. Breeds like [Kiko goats](/posts/where-did-kiko-goats-originate) and other hardy breeds are popular choices for AI programs. Plan accordingly and be prepared for the possibility that it may take more than one attempt.
 
 ## Final Thoughts
 

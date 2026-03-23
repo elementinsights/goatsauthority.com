@@ -45,7 +45,7 @@ Goats handle dry cold much better than most people expect. A healthy adult goat 
 
 The trouble starts when a goat gets wet. Rain, sleet, or snow soaks through their coat and strips away its insulating ability almost instantly. Add wind to that equation and hypothermia can set in within hours.
 
-Kids under 2 weeks old are the most vulnerable because they have not developed enough body fat or a thick enough coat to regulate their temperature. A wet, cold newborn kid can die in under an hour without intervention.
+Kids under 2 weeks old are the most vulnerable because they have not developed enough body fat or a thick enough coat to regulate their temperature. Having [electrolytes for baby goats](/can-baby-goats-have-any-electrolytes/) on hand is critical during cold snaps. A wet, cold newborn kid can die in under an hour without intervention.
 
 ## What effects does cold weather have on goats?
 
@@ -53,7 +53,7 @@ Pneumonia is the biggest cold-weather killer of goats. It starts with exposure t
 
 Hypothermia happens when a goat's core body temperature drops below normal. Normal goat temperature runs between 101.5 and 103.5 degrees Fahrenheit, and anything below 100 degrees is a serious emergency.
 
-Frostbite hits the ears, teats, and scrotum first because those areas have the least hair coverage and the most exposed skin. You will see the tissue turn white or gray, and in severe cases the tips of the ears will eventually fall off.
+Frostbite hits the ears, teats, and scrotum first because those areas have the least hair coverage and the most exposed skin. You can apply [Neosporin to frostbitten tissue](/can-i-put-neosporin-on-my-goats/) to prevent secondary infection. You will see the tissue turn white or gray, and in severe cases the tips of the ears will eventually fall off.
 
 Signs of cold stress to watch for include shivering, a hunched-up posture, ears curled inward, and standing off alone away from the rest of the herd.
 
@@ -63,7 +63,7 @@ Provide a three-sided shelter at minimum, with the open side facing away from th
 
 Deep bedding is your best friend in winter. Straw works better than wood shavings because it traps air between the stems and creates an insulating layer between the goat and the cold ground.
 
-Make sure water does not freeze. Goats will not break through ice to drink, and dehydration in winter leads to impaction, which can be fatal. Heated water buckets are a worthwhile investment.
+Make sure water does not freeze. Some owners add a splash of [apple cider vinegar to the water](/can-goats-drink-vinegar/) to encourage drinking during cold spells. Goats will not break through ice to drink, and dehydration in winter leads to impaction, which can be fatal. Heated water buckets are a worthwhile investment.
 
 Increase hay rations during cold snaps. The act of digesting fiber generates heat inside the rumen, which is essentially a built-in furnace. More hay in equals more warmth generated.
 
@@ -77,9 +77,9 @@ A goat that is standing with an arched back, grinding its teeth, or refusing to 
 
 ## What are some common illnesses that goats can get during the winter months?
 
-Pneumonia is by far the most common and most deadly winter illness in goats. Early treatment with antibiotics prescribed by your vet gives the best chance of recovery.
+Pneumonia is by far the most common and most deadly winter illness in goats. A weakened goat is also more susceptible to [parasite infestations like lice](/can-goat-lice-go-into-a-dormant-stage/) that thrive in thick winter coats. Early treatment with antibiotics prescribed by your vet gives the best chance of recovery.
 
-Hypothermia requires slow, careful warming. Wrap the goat in dry towels or blankets and offer warm water with a splash of molasses for quick calories. Never use a heat lamp directly on a hypothermic goat because rapid warming can cause cardiac arrest.
+Hypothermia requires slow, careful warming. Wrap the goat in dry towels or blankets and offer warm water with a splash of molasses for quick calories. You can also give [horse electrolytes in a pinch](/can-goats-have-horse-electrolytes/) if you don't have goat-specific products on hand. Never use a heat lamp directly on a hypothermic goat because rapid warming can cause cardiac arrest.
 
 Frostbite damage is permanent, but the affected tissue does not need to be removed unless infection sets in. Keep frostbitten ears or teats clean and dry, and let the dead tissue separate on its own.
 

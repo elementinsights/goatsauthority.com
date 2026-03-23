@@ -45,7 +45,7 @@ Whether you can keep goats in Medford depends on where exactly your property sit
 
 Medford allows livestock including goats in certain zoning designations. If you're in a rural residential or agricultural zone within Jackson County's surrounding areas, you'll have fewer restrictions than someone living on a standard residential lot inside city limits.
 
-Your first step is to check the City of Medford municipal code for your specific zone. Contact the Medford Planning Department or visit their website to look up your property's zoning designation and find out what livestock rules apply to your lot.
+Your first step is to check the City of Medford municipal code for your specific zone. The [same zoning research process applies everywhere](/can-i-have-goats-where-i-live). Contact the Medford Planning Department or visit their website to look up your property's zoning designation and find out what livestock rules apply to your lot.
 
 ## What are the requirements for owning goats in Medford, Oregon?
 
@@ -57,11 +57,11 @@ Oregon is generally a small-farm-friendly state, and many properties in the Rogu
 
 Talk to your neighbors before you bring goats home. Even if it's legal on your property, keeping good relationships with the people next door will save you headaches down the road.
 
-Medford's climate works well for goats. The dry summers are easy on hooves, though the wet winters mean you'll need covered shelter to keep your animals dry and healthy.
+Medford's climate works well for goats. The dry summers are easy on hooves, reducing the risk of [hoof rot](/can-hoof-rot-kill-a-goat), though the wet winters mean you'll need covered shelter to keep your animals dry and healthy.
 
 ## How much work is involved in keeping goats in Medford, Oregon?
 
-Goats need daily feeding, fresh water, and regular health maintenance. Plan on trimming hooves every six to eight weeks, deworming on a schedule your vet recommends, and keeping up with annual vaccinations.
+Goats need daily feeding, fresh water, and regular health maintenance. Plan on trimming hooves every six to eight weeks, [deworming based on fecal egg counts](/can-i-use-ivermectin-pour-on-in-sheep-and-goats), and keeping up with annual vaccinations.
 
 You'll spend about 30 minutes to an hour per day on basic chores for a small herd. Add time for fence repairs, because goats are escape artists and they will find every weak spot in your fencing.
 
@@ -69,11 +69,11 @@ You'll spend about 30 minutes to an hour per day on basic chores for a small her
 
 Goats need a dry shelter they can get into during rain and cold weather. A three-sided loafing shed works fine for Medford's climate, though a fully enclosed barn is better for kidding season in late winter.
 
-Fencing should be at least four feet tall, and woven wire or cattle panels work best. Don't rely on barbed wire alone, as goats will squeeze right through it.
+Fencing should be at least four feet tall, and woven wire or cattle panels work best. Goats [can climb fences](/can-goats-climb-fences) surprisingly well, so don't rely on barbed wire alone, as they will squeeze right through it.
 
 ## How to care for your goats in Medford, Oregon?
 
-The Rogue Valley has an active goat community, which is a huge advantage for new owners. Connect with the Jackson County Extension Service for workshops on small ruminant care, and check out local 4-H or FFA chapters for hands-on support.
+The Rogue Valley has an active goat community, which is a huge advantage for new owners. If you're interested in dairy, you can [raise goats for milk protein](/can-i-raise-goats-for-milk-protein) right on your Medford property. Connect with the Jackson County Extension Service for workshops on small ruminant care, and check out local 4-H or FFA chapters for hands-on support.
 
 The Medford Farmers Market is another great place to meet local goat cheese producers and dairy goat breeders. These folks are a goldmine of practical advice specific to the Medford area's climate, forage availability, and veterinary resources.
 

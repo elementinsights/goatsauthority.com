@@ -50,13 +50,13 @@ Goats tend to nibble henbit along with whatever else is growing in the field. Yo
 
 Henbit (Lamium amplexicaule) is a low-growing annual weed in the mint family. You'll recognize it by its square stems, scalloped leaves that clasp directly to the stem, and small purple tubular flowers that appear in early spring.
 
-It grows across most of the United States, especially in the South and Midwest. Henbit pops up in pastures, gardens, roadsides, and anywhere the soil has been disturbed. Most people consider it a nuisance weed, but for goat owners it's free forage.
+It grows across most of the United States, especially in the South and Midwest. Henbit pops up in pastures, gardens, roadsides, and anywhere the soil has been disturbed, often right alongside [honeysuckle](/can-goats-eat-honeysuckle/) and other browse plants. Most people consider it a nuisance weed, but for goat owners it's free forage.
 
 ## Nutritional value for goats
 
-Henbit is a decent source of protein, fiber, and vitamins A and C. It also contains calcium and phosphorus, both of which goats need for bone health and milk production.
+Henbit is a decent source of protein, fiber, and vitamins A and C. It also contains calcium and phosphorus, both of which goats need for bone health and milk production, much like [dandelions](/can-goats-eat-dandelions/) which offer similar nutritional benefits.
 
-It's not going to replace hay or quality browse as a primary feed source. But as part of a mixed pasture, henbit adds variety and nutrients to your goats' diet without any downside. The leaves, stems, and flowers are all edible and safe.
+It's not going to replace [hay](/what-kind-of-hay-do-goats-eat/) or quality browse as a primary feed source. But as part of a mixed pasture, henbit adds variety and nutrients to your goats' diet without any downside. The leaves, stems, and flowers are all edible and safe.
 
 ## Henbit vs. Purple deadnettle
 
@@ -70,9 +70,9 @@ Either way, your goats can eat both without any concerns.
 
 Henbit is one of the first green plants to appear in late winter and early spring, often popping up while pastures are still brown and dormant. This makes it valuable as early-season forage when there's not much else growing.
 
-During that gap between winter hay feeding and the start of spring grass, henbit and other cool-season weeds give goats something fresh to browse. It won't sustain them on its own, but it adds variety and fresh nutrients during a time when options are limited.
+During that gap between winter hay feeding and the start of spring grass, henbit and other cool-season weeds give goats something fresh to browse. Supplementing with [hay cubes](/can-goats-eat-hay-cubes/) during this period helps bridge the nutritional gap. It won't sustain them on its own, but it adds variety and fresh nutrients during a time when options are limited.
 
-By late spring, summer grasses take over and henbit dies back on its own. Goats will have moved on to other browse long before that happens.
+By late spring, summer grasses take over and henbit dies back on its own. Goats will have moved on to other browse like [blackberries](/can-goats-eat-blackberries/) and kale long before that happens.
 
 ## Final Thoughts
 

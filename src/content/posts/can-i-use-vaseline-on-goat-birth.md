@@ -48,25 +48,25 @@ There are better options if you have time to prepare ahead of kidding season.
 
 Vaseline (petroleum jelly) is a common lubricant that many goat owners keep in their kidding kit. When a doe is having trouble delivering and you need to go in to help, a generous coat of Vaseline on your gloved hand reduces friction and makes it easier to work inside the birth canal.
 
-KY Jelly and sterile OB lube are better choices if you have them available. OB lube is specifically designed for livestock births, washes off easier, and is water-soluble, which makes cleanup simpler for both you and the doe.
+KY Jelly and sterile OB lube are better choices if you have them available. OB lube is specifically designed for livestock births, washes off easier, and is water-soluble, which makes cleanup simpler for both you and the doe. Having everything prepared ahead of time matters even more when your doe is [carrying quads and needs extra support](/can-a-goat-feed-quads) after delivery.
 
 ## What is vaseline and what are its uses for pregnant goats?
 
 Vaseline is a thick, petroleum-based jelly that creates a slippery barrier on skin. For goat births, its main purpose is lubrication when you need to assist with a difficult delivery.
 
-Some farmers also use a thin coat of Vaseline on newborn kids' ears during freezing weather to help prevent frostbite. It creates a moisture barrier that offers a bit of protection against extreme cold in those critical first hours after birth.
+Some farmers also use a thin coat of Vaseline on newborn kids' ears during freezing weather to help prevent frostbite. It creates a moisture barrier that offers a bit of protection against extreme cold in those critical first hours after birth. Breeding older does requires extra attention during kidding, so understanding [whether you can breed a 4-year-old goat](/can-you-breed-a-4yr-old-goat) is worth reviewing beforehand.
 
 ## What are the things you need to consider when using vaseline during goat births?
 
 Always wear long OB gloves when assisting a birth. Apply the Vaseline generously to the outside of the glove before reaching into the birth canal, because going in dry can tear delicate tissue and cause infection.
 
-Keep the Vaseline away from the kid's nose and mouth during delivery. A newborn kid needs to take its first breath immediately after being born, and any substance blocking the airways can cause serious problems.
+Keep the Vaseline away from the kid's nose and mouth during delivery. A newborn kid needs to take its first breath immediately after being born, and any substance blocking the airways can cause serious problems. If the doe was [overdue and had to be induced](/can-an-over-due-goat-be-induced-to-labor), extra caution during delivery is essential.
 
 ## How to use vaseline during goat births?
 
 When you need to assist, put on a shoulder-length OB glove and coat it heavily with Vaseline from fingertips to elbow. Go in slowly and carefully, feeling for the kid's position. You're looking for two front hooves and a nose in normal presentation.
 
-If the kid is malpresented, the lubrication lets you gently push the kid back and reposition it without causing unnecessary trauma to the doe. Apply more Vaseline as needed if you lose lubrication during the process. Work slowly and let the doe rest between contractions.
+If the kid is malpresented, the lubrication lets you gently push the kid back and reposition it without causing unnecessary trauma to the doe. Apply more Vaseline as needed if you lose lubrication during the process. Work slowly and let the doe rest between contractions. Keep in mind that [the same litter can have different fathers](/can-the-same-litter-of-goats-have-different-fathers), which sometimes results in varying kid sizes that affect delivery.
 
 ## What are the risks of using vaseline during goat births?
 
@@ -76,9 +76,9 @@ If you use Vaseline, keep everything else as clean as possible. Wash the doe's b
 
 ## Additional information on goat births
 
-Most goats kid without any help at all. The average gestation is about 150 days, and a normal delivery takes 30 minutes to an hour once active labor starts.
+Most goats kid without any help at all. The average gestation is about 150 days, and a normal delivery takes 30 minutes to an hour once active labor starts. Knowing [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) helps you gauge how long the process should take.
 
-Have your kidding kit packed and ready at least two weeks before the due date. It should include OB gloves, lubricant (Vaseline or OB lube), clean towels, iodine for dipping the umbilical cord, a bulb syringe for clearing airways, and your vet's phone number. Being prepared makes all the difference when things don't go according to plan.
+Have your kidding kit packed and ready at least two weeks before the due date. It should include OB gloves, lubricant (Vaseline or OB lube), clean towels, iodine for dipping the umbilical cord, a bulb syringe for clearing airways, and your vet's phone number. You can [use temperature monitoring](/can-i-use-temperature-to-tell-if-my-goat-is-in-heat) in the final days to predict when labor is imminent. Being prepared makes all the difference when things don't go according to plan.
 
 ## Final Thoughts
 

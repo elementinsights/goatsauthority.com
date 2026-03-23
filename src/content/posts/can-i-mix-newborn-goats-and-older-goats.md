@@ -46,27 +46,27 @@ After that first week, put the dam and kids in a pen next to the main herd where
 
 ## What is the difference between a newborn and older goats?
 
-Newborns rely entirely on colostrum antibodies and have not built up any disease resistance of their own. Exposure to parasites or bacteria that adult goats carry without symptoms can overwhelm a newborn's immune system.
+Newborns rely entirely on colostrum antibodies and have not built up any disease resistance of their own. [Coccidia treatment](/can-i-treat-coccidia-in-goats-in-their-water-bowl) becomes critical during this vulnerable window. Exposure to parasites or bacteria that adult goats carry without symptoms can overwhelm a newborn's immune system.
 
 Older goats also live by a strict pecking order. Every new animal gets tested, and a tiny kid has zero ability to defend itself in that hierarchy.
 
 ## Why mix them together?
 
-Goats are social animals, and a kid raised in isolation too long will have a harder time integrating later. Kids also learn what to eat, where to drink, and how to handle the pasture by watching and following the older goats.
+Goats are social animals, and a kid raised in isolation too long will have a harder time integrating later. Does typically [have multiple babies](/how-many-babies-do-goats-have-at-a-time), so kids usually have siblings to keep them company early on. Kids also learn what to eat, where to drink, and how to handle the pasture by watching and following the older goats.
 
 The goal is not permanent separation. It is waiting until the kids are big enough and quick enough to handle life in the group without getting hurt.
 
 ## How to mix them together?
 
-Set up a creep area before releasing kids into the main herd. This is a small fenced space with openings just wide enough for kids to slip through but too narrow for adults.
+Set up a creep area before releasing kids into the main herd. Since goats [can climb fences](/can-goats-climb-fences), make sure adult goats can't get over or through the creep barriers. This is a small fenced space with openings just wide enough for kids to slip through but too narrow for adults.
 
 Put kid-specific grain and fine hay inside the creep area so the little ones eat without competing against goats three times their size. Supervise the first few days of full mixing closely, and pull out any adult that repeatedly charges or headbutts the kids.
 
 ## Are there any risks associated with mixing different age groups of goats together?
 
-Injury is the biggest risk. An adult goat can break a kid's ribs or legs with a single hard headbutt, and this happens most often at feeding time when older goats get competitive around the grain bucket.
+Injury is the biggest risk. An adult goat can break a kid's ribs or legs with a single hard headbutt, and keeping [Neosporin on hand](/can-i-put-neosporin-on-my-goats) for minor wounds is good practice. This happens most often at feeding time when older goats get competitive around the grain bucket.
 
-Coccidia is especially dangerous for young kids and spreads through contaminated bedding and soil. Watch for kids that hang back while the rest of the herd eats, because starvation from bullying is a quieter risk that sneaks up on you.
+Coccidia is especially dangerous for young kids and spreads through contaminated bedding and soil. If a rejected kid won't eat, [feeding it powdered goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats) by bottle can keep it alive. Watch for kids that hang back while the rest of the herd eats, because starvation from bullying is a quieter risk that sneaks up on you.
 
 ## Final Thoughts
 

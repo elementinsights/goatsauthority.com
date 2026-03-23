@@ -42,19 +42,19 @@ Yes, goats can swim. Most of them won't choose to do it for fun, but they're phy
 
 Goats have the body mechanics to stay afloat and paddle forward. Their legs are strong enough to keep them moving through water, and they'll swim instinctively to escape danger or cross a flooded area.
 
-Most goats would rather stay dry. Unlike dogs or horses, goats generally avoid water unless they're forced into it or they stumble in by accident. You'll rarely see a goat voluntarily jump into a pond the way a Labrador would. It's just not in their nature to seek out water for recreation.
+Most goats would rather stay dry. Unlike dogs or horses, goats generally avoid water unless they're forced into it or they stumble in by accident. They'd much rather be [climbing trees](/can-a-goat-climb-trees/) or exploring elevated terrain. You'll rarely see a goat voluntarily jump into a pond the way a Labrador would. It's just not in their nature to seek out water for recreation.
 
 ## Do All Goats Like Water?
 
 Individual personality matters a lot here. Some goats will happily wade into a shallow creek on a hot summer day to cool off, while others won't go near a puddle. It really comes down to the individual animal.
 
-Young kids tend to be more curious about water than older goats. If you raise a goat around a pond from an early age, it may grow up more comfortable around water than one that's never seen it. Breed doesn't seem to matter much as it's more about personality than genetics.
+Young kids tend to be more curious about water than older goats. If you raise a goat around a pond from an early age, it may grow up more comfortable around water than one that's never seen it. The same is true for [domesticating and taming goats](/can-you-domesticate-a-goat/) in general, as early exposure shapes their comfort level. Breed doesn't seem to matter much as it's more about personality than genetics.
 
 ## Risks of Goats in Water
 
 A waterlogged coat is the biggest danger. Goat hair soaks up water and gets heavy fast, which can pull a tired goat under the surface. Smaller breeds like Pygmies and Nigerian Dwarfs are especially vulnerable because it takes less weight to drag them down.
 
-Cold water poses a hypothermia risk, particularly in spring when ponds look warm but aren't. Panic is the other killer because a frightened goat will thrash instead of swimming calmly, burning through energy in seconds. Even a strong swimmer can drown in a fast-moving creek if it gets swept off its feet and can't find footing.
+Cold water poses a hypothermia risk, particularly in spring when ponds look warm but aren't. Panic is the other killer because a frightened goat will thrash instead of swimming calmly, burning through energy in seconds. An [aggressive goat](/can-an-aggressive-goat-be-fixed/) may push herdmates into water during a confrontation, creating a drowning risk. Even a strong swimmer can drown in a fast-moving creek if it gets swept off its feet and can't find footing.
 
 ## Water Safety on Your Property
 
@@ -66,10 +66,10 @@ Stagnant water with blue-green algae blooms is toxic and can kill a goat within 
 
 Goats don't enjoy being wet for long. Their thick undercoat holds moisture close to the skin, which can lead to fungal issues and skin irritation if it doesn't dry out within a reasonable time.
 
-On warm, sunny days they'll dry off naturally in a couple of hours. On cooler or overcast days, towel them off and keep them in a dry shelter until their coat is fully dry. Never force a goat into deep water for any reason, and always supervise them around any body of water deep enough to cover their belly.
+On warm, sunny days they'll dry off naturally in a couple of hours. On cooler or overcast days, towel them off and keep them in a dry shelter until their coat is fully dry. Goats that [love being around their humans](/can-goats-love-humans/) will often follow you near water, so stay aware of the surroundings. Never force a goat into deep water for any reason, and always supervise them around any body of water deep enough to cover their belly.
 
 ## Final Thoughts
 
 Goats can swim, but most of them aren't fans of it. Respect your goat's comfort level and don't push them into water to see what happens.
 
-Keep your property safe by providing easy exits from any water source, fencing off stagnant or fast-moving water, and supervising around ponds. A little common sense goes a long way toward keeping your herd safe and dry.
+Keep your property safe by providing easy exits from any water source, fencing off stagnant or fast-moving water, and supervising around ponds. Given that [domestic goats can jump](/can-domestic-goats-jump/) several feet, make sure pond fencing is tall enough to keep them out. A little common sense goes a long way toward keeping your herd safe and dry.

@@ -44,31 +44,31 @@ The key is understanding that they have very different needs water, and shelter.
 
 Yes, ducks and goats can share the same space without issues. Goats browse on leaves, brush, and weeds while ducks go after bugs, slugs, and grasses down at ground level, so they aren't competing for the same food.
 
-The two species generally leave each other alone throughout the day. Goats might bump a duck out of the way at feeding time, but actual aggression between them is rare and usually nothing to worry about.
+The two species generally leave each other alone throughout the day. Goats might bump a duck out of the way at feeding time, but actual aggression between them is rare and usually nothing to worry about. If you're also considering adding dogs to the mix, [pygmy goats and dogs can live together](/can-dogs-and-pygmy-goats-live-together) with the right introduction.
 
 ## Why ducks are actually helpful around goats
 
 Ducks provide a real benefit to goat herds that most people don't think about. They eat fly larvae in and around goat manure, which cuts down on the fly population in your barn and pasture during the summer months when flies are at their worst.
 
-They also go after slugs, ticks, and other parasites that hang around the pasture. Having ducks working the ground around your goat pen is like having a natural pest control crew on the payroll, and they do it for free as long as you keep them fed.
+They also go after slugs, ticks, and other parasites that hang around the pasture. Having ducks working the ground around your goat pen is like having a natural pest control crew on the payroll, and they do it for free as long as you keep them fed. Proper fencing is important for any multi-species setup, especially since [goats can climb fences](/can-goats-climb-fences) and escape into areas meant for ducks only.
 
 ## Feeding them in the same area
 
 This is where you need to pay close attention. Medicated goat feed contains coccidiostats like monensin that can be toxic to ducks, so you must keep ducks away from the goat feeder at all times.
 
-Set up separate feeding stations far enough apart that the ducks can't wander over and pick through spilled goat grain. Ducks need their own feed formulated for waterfowl, and goats need their own mineral mix that would be harmful to ducks in large amounts. A simple barrier or separate feeding room solves this problem.
+Set up separate feeding stations far enough apart that the ducks can't wander over and pick through spilled goat grain. Ducks need their own feed formulated for waterfowl, and goats need their own mineral mix that would be harmful to ducks in large amounts. A simple barrier or separate feeding room solves this problem. Multi-species setups work even better with [goat poop used as fertilizer](/can-goat-poop-be-used-as-fertilizer) for your garden beds.
 
 ## Managing the water situation
 
 Water is the trickiest part of this setup. Ducks need water deep enough to dip their whole head in so they can clean their nostrils and eyes, but they'll turn any water source into a muddy mess within hours.
 
-Goats refuse to drink dirty water and will dehydrate before touching a trough that ducks have been splashing in. Run two separate water stations and keep the duck bathing area on a gravel pad away from the goat sleeping area, because wet ground causes hoof rot fast.
+Goats refuse to drink dirty water and will dehydrate before touching a trough that ducks have been splashing in. Run two separate water stations and keep the duck bathing area on a gravel pad away from the goat sleeping area, because wet ground causes hoof rot fast. Speaking of bedding, [pine chips work well as goat bedding](/can-pine-chips-be-used-as-bedding-for-goats) and help absorb excess moisture from duck splashing.
 
 ## Shared housing tips
 
 Ducks and goats can sleep in the same barn as long as ventilation is good. Ducks produce a lot of moisture from their droppings and feathers, and that dampness can cause respiratory problems in goats if the air gets stale.
 
-Keep the duck sleeping area on one side of the barn with its own bedding. Make sure the goat side stays dry and draft-free, with deep straw bedding that doesn't get soaked by duck water spills.
+Keep the duck sleeping area on one side of the barn with its own bedding. Make sure the goat side stays dry and draft-free, with deep straw bedding that doesn't get soaked by duck water spills. You may also be wondering whether [goats, pigs, and chickens can share a barn](/can-goats-pigs-and-chickens-live-in-the-same-barn) for even more multi-species efficiency.
 
 ## Final Thoughts
 

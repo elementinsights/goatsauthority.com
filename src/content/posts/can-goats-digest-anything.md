@@ -44,7 +44,7 @@ They are actually picky browsers with a specialized digestive system built for p
 
 No. Goats cannot digest metal, plastic, rubber, or processed materials of any kind. The famous image of a goat chewing a tin can is misleading because the goat is after the paper label and the glue holding it on, not the metal itself.
 
-Goats are browsers, not grazers. They prefer woody plants, leaves, bark, and brush over grass. Their digestive system is built to handle plant material and plant material only.
+Goats are browsers, not grazers. They prefer woody plants, leaves, bark, and brush over grass. Their digestive system is built to handle plant material and plant material only. Understanding [how the four-chamber stomach works](/how-many-stomachs-do-goats-have) helps explain their impressive plant-processing abilities.
 
 ## How the four-chamber stomach works
 
@@ -58,7 +58,7 @@ The reticulum catches foreign objects like rocks and wire before they move deepe
 
 Goats lack the ability to digest meat, dairy, or any animal protein. They also cannot handle large amounts of grain because their rumen is designed for slow fermentation of fibrous plants, not quick-digesting starches.
 
-Too much grain throws off the microbial balance in the rumen and can cause acidosis, a condition where acid levels spike and damage the rumen wall. Bloat is another risk when goats eat the wrong foods, and it can kill quickly if you do not catch it.
+Too much grain throws off the microbial balance in the rumen and can cause acidosis, a condition where acid levels spike and damage the rumen wall. Bloat is another risk when goats eat the wrong foods, and it can kill quickly if you do not catch it. [Goats can also eat cotton](/can-goats-digest-cotton) in its raw form, but processed fabrics are dangerous.
 
 Processed textiles, baling twine, plastic bags, and hardware cloth are all things goats will mouth out of curiosity. None of these pass through their system safely.
 
@@ -66,15 +66,15 @@ Processed textiles, baling twine, plastic bags, and hardware cloth are all thing
 
 The rumen microbiome needs time to adjust whenever you switch feeds. If you swap from hay to a grain-heavy ration overnight, the wrong bacteria can overpopulate and produce excess gas and acid.
 
-Make any feed change over 7 to 10 days by mixing the new feed in gradually. Increase the ratio a little each day so the microbial population has time to shift without crashing.
+Make any feed change over 7 to 10 days by mixing the new feed in gradually. Increase the ratio a little each day so the microbial population has time to shift without crashing. Adding [apple cider vinegar to their water](/can-goats-drink-vinegar) can help support healthy rumen pH during transitions.
 
 ## Best foods for healthy digestion
 
 Good quality hay should be the foundation of every goat's diet. Timothy, orchard grass, and bermuda grass hay all provide the long-stem fiber that keeps the rumen moving properly.
 
-Browse is the other big one. Woody branches from willow, mulberry, and apple trees give goats the kind of fibrous chewing material their system was built for. Fresh leafy greens like dandelion, plantain, and clover round out the diet nicely.
+Browse is the other big one. Woody branches from willow, mulberry, and apple trees give goats the kind of fibrous chewing material their system was built for. Fresh leafy greens like dandelion, plantain, and clover round out the diet nicely. [Baby goats can drink cow milk](/can-goats-drink-cow-milk) as a substitute when their mothers aren't available, but adults should stick to water and forage.
 
-Goat-specific pellets work fine as a supplement, but pick one with high fiber and low sugar. Pellets should never replace hay and browse as the main diet.
+Goat-specific pellets work fine as a supplement, but pick one with high fiber and low sugar. Pellets should never replace hay and browse as the main diet. [Juice should also be avoided](/can-goats-drink-juice) as a regular supplement since the sugar content disrupts rumen balance.
 
 ## Final Thoughts
 

@@ -53,7 +53,7 @@ Sweetgum isn't a tree that most goats go out of their way to eat. They'll sample
 
 Liquidambar styraciflua, commonly called sweetgum or American sweetgum, is a deciduous tree native to the eastern United States. It's easy to identify by its star-shaped leaves with five pointed lobes and its spiky, golf-ball-sized seed pods that litter the ground in fall.
 
-For goats, the leaves provide basic fiber and some trace minerals similar to other deciduous tree leaves. The tree also produces a fragrant resin that has been used in traditional medicine, but goats aren't going to get any special health benefits from it. It's simply a safe tree that happens to be growing in their pasture.
+For goats, the leaves provide basic fiber and some trace minerals similar to other deciduous tree leaves like [maple](/can-goats-eat-maple-leaves/). The tree also produces a fragrant resin that has been used in traditional medicine, but goats aren't going to get any special health benefits from it. It's simply a safe tree that happens to be growing in their pasture.
 
 ## The potential risks of feeding liquid amber to goats
 
@@ -65,25 +65,25 @@ The spiky seed balls that sweetgum trees drop everywhere are not toxic either, b
 
 Since sweetgum trees are safe for goats, there's not much you need to do to prevent problems. Just make sure your goats have access to a balanced diet that includes quality hay, fresh water, and a mineral supplement.
 
-If your pasture has sweetgum trees, your goats will browse on the leaves occasionally and move on to other things. That's perfectly normal browsing behavior. The only situation that might call for concern is if sweetgum is the ONLY browse available, in which case you need to supplement with hay and other forage.
+If your pasture has sweetgum trees, your goats will browse on the leaves occasionally and move on to [honeysuckle](/can-goats-eat-honeysuckle/) or whatever else catches their attention. That's perfectly normal browsing behavior. The only situation that might call for concern is if sweetgum is the ONLY browse available, in which case you need to supplement with hay and other forage.
 
 ## What are the treatments for goats that have eaten too much liquid amber?
 
 In the rare event that a goat eats an unusually large amount of sweetgum leaves and develops mild digestive upset, the treatment is straightforward. Offer plenty of fresh water and quality hay, and give the goat time to recover.
 
-Mild diarrhea or loose stools should resolve within a day or two as the goat's rumen rebalances. If symptoms persist beyond 48 hours or your goat shows signs of serious distress like refusing all food or becoming lethargic, call your vet. But this scenario is unlikely with sweetgum since it's not a toxic tree.
+Mild diarrhea or loose stools should resolve within a day or two as the goat's rumen rebalances. Offering some [hay cubes](/can-goats-eat-hay-cubes/) can help provide the fiber needed for recovery. If symptoms persist beyond 48 hours or your goat shows signs of serious distress like refusing all food or becoming lethargic, call your vet. But this scenario is unlikely with sweetgum since it's not a toxic tree.
 
 ## How much liquid amber can a goat eat per day?
 
 There's no strict limit since the tree isn't toxic. Let your goats browse naturally and they'll self-regulate their intake.
 
-Most goats will take a few bites of sweetgum leaves, then move on to something they prefer more. It's just one of many plants they'll sample throughout the day as they browse. Don't worry about counting leaves or restricting access.
+Most goats will take a few bites of sweetgum leaves, then move on to something they prefer more like [dandelions](/can-goats-eat-dandelions/) or pine needles. It's just one of many plants they'll sample throughout the day as they browse. Don't worry about counting leaves or restricting access.
 
 ## Are there any alternative options to liquid amber for goats?
 
 If you're looking to plant browse-friendly trees in your goat pasture, there are options that goats tend to prefer over sweetgum. Willow trees are a favorite, and the bark and leaves contain natural salicin that can help with minor inflammation.
 
-Mulberry trees are another excellent choice since goats love the leaves and the fruit is safe for them too. Blackberry and raspberry bushes provide great browse and goats will keep them trimmed back naturally. Any of these combined with quality hay and minerals will keep your herd well-fed and happy.
+Mulberry trees are another excellent choice since goats love the leaves and the fruit is safe for them too. [Blackberry](/can-goats-eat-blackberries/) and raspberry bushes provide great browse and goats will keep them trimmed back naturally. Any of these combined with quality hay and minerals will keep your herd well-fed and happy.
 
 ## Final Thoughts
 

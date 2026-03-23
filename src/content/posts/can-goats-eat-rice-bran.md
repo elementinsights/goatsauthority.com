@@ -44,7 +44,7 @@ Rice bran isn't something you dump into the feeder without thinking. There are r
 
 Rice bran is the outer layer of the rice kernel that gets removed during milling. It's rich in oil, protein, and several B vitamins, which makes it a valuable addition to a goat's grain ration.
 
-Most goats take to it without any fuss. The slightly sweet, nutty flavor makes it more appealing than plain grain to picky eaters.
+Most goats take to it without any fuss, and despite the popular belief that [goats eat everything](/posts/can-goats-eat-everything), some can be surprisingly picky. The slightly sweet, nutty flavor makes it more appealing than plain grain to those choosy eaters.
 
 You can feed it raw or cooked. Some folks prefer to cook it, but raw rice bran works fine as long as you introduce it gradually over the course of a week.
 
@@ -54,13 +54,13 @@ Rice bran is a good source of phosphorus, which supports bone development and me
 
 The fat content runs around 15 to 20 percent, which is significantly higher than most grains. This makes rice bran particularly useful for underweight goats, does recovering from kidding, and animals heading into cold weather.
 
-Many goat owners notice coat improvements within two to three weeks of adding rice bran to the diet. The oils condition the skin and hair from the inside out, which is why show breeders often include it in their conditioning programs.
+Many goat owners notice coat improvements within two to three weeks of adding rice bran to the diet, similar to the effect of feeding [sunflower seeds](/posts/can-goats-eat-sunflower-seeds). The oils condition the skin and hair from the inside out, which is why show breeders often include it in their conditioning programs.
 
 ## Risks of feeding too much rice bran
 
 The high phosphorus content is the biggest concern. In male goats, excess phosphorus throws off the calcium-to-phosphorus ratio and can contribute to urinary calculi, which are painful bladder stones that can be fatal.
 
-You need to maintain a calcium-to-phosphorus ratio of at least 2:1 in the overall diet. If you're feeding rice bran, make sure you're also providing plenty of alfalfa or a calcium supplement to keep things balanced.
+You need to maintain a calcium-to-phosphorus ratio of at least 2:1 in the overall diet. If you're feeding rice bran, make sure you're also providing plenty of [alfalfa](/posts/can-goats-eat-alfalfa) or a calcium supplement to keep things balanced.
 
 Too much fat in the diet can also cause loose stools and weight gain. Watch your goats' droppings closely after adding rice bran, and cut back if things get runny.
 
@@ -68,9 +68,9 @@ Too much fat in the diet can also cause loose stools and weight gain. Watch your
 
 Start with a quarter cup per day for a standard-sized goat and work up to half a cup over a week. Rice bran should make up no more than 10 to 15 percent of the total grain ration.
 
-The best approach is to mix it right into the regular grain. Combine it with oats, barley, or a commercial goat pellet so the fat content stays balanced. Pregnant and lactating does benefit the most from this kind of supplementation since their calorie needs are much higher.
+The best approach is to mix it right into the regular grain. Combine it with [oats](/posts/can-goats-eat-oats), barley, or a commercial goat pellet so the fat content stays balanced. Pregnant and lactating does benefit the most from this kind of supplementation since their calorie needs are much higher.
 
-You can also sprinkle it over hay to encourage picky eaters to finish their roughage. That nutty flavor seems to make plain grass hay more interesting to goats that normally turn their noses up.
+You can also sprinkle it over [timothy hay](/posts/can-goats-eat-timothy-hay) to encourage picky eaters to finish their roughage. That nutty flavor seems to make plain grass hay more interesting to goats that normally turn their noses up.
 
 ## Storing rice bran properly
 

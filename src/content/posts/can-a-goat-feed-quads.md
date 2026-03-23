@@ -54,7 +54,7 @@ Most experienced breeders pull the smallest one or two kids and raise them on bo
 
 Dairy breeds are the most likely to throw quads. Saanens, Nubians, Alpines, and LaManchas all have higher rates of multiple births, especially in older does who've kidded several times before.
 
-Boer goats occasionally have quads too, but twins and triplets are far more common in meat breeds. Genetics play a big role, so if a doe's mother or grandmother regularly had large litters, expect the same from her.
+Boer goats occasionally have quads too, but twins and triplets are far more common in meat breeds. Understanding [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time/) helps set your expectations for each breed. Genetics play a big role, so if a doe's mother or grandmother regularly had large litters, expect the same from her.
 
 ## What do goats eat and how much should they be fed each day?
 
@@ -66,22 +66,22 @@ Unlimited fresh water is critical because milk production requires a lot of flui
 
 Proper nutrition directly impacts milk production. A well-fed doe produces more milk with higher fat and protein content, which means her kids grow faster and stronger.
 
-Good nutrition also helps the doe recover from the physical toll of carrying and delivering four kids. Without enough calories and minerals, she'll burn through her own body reserves and lose condition rapidly.
+Good nutrition also helps the doe recover from the physical toll of carrying and delivering four kids. If she goes [overdue](/can-an-over-due-goat-be-induced-to-labor/), the nutritional demands get even heavier with quads growing inside her. Without enough calories and minerals, she'll burn through her own body reserves and lose condition rapidly.
 
 ## How can you tell if a goat is malnourished or not getting enough to eat?
 
 Weigh your quad kids daily for the first two weeks. A healthy kid should gain about half a pound per day, and any kid falling behind that pace likely isn't getting enough milk.
 
-On the doe's side, watch for a sharp or bony spine, visible ribs, and a dull rough coat. Lethargy and dropping milk production are also warning signs that she needs more feed or may have an underlying health issue.
+On the doe's side, watch for a sharp or bony spine, visible ribs, and a dull rough coat. If the doe [miscarries one kid but still carries the rest](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/), she may need a vet checkup to ensure the remaining kids are developing normally. Lethargy and dropping milk production are also warning signs that she needs more feed or may have an underlying health issue.
 
 ## How can you prevent your goat from becoming malnourished in the first place?
 
 Start increasing the doe's grain ration during the last six weeks of pregnancy when the kids are growing fastest inside her. By kidding day, she should be eating about a pound of grain per kid she's carrying.
 
-After kidding, gradually increase grain to match her milk output. Keep loose goat minerals available free-choice and make sure she has a calm, stress-free eating environment away from pushy herd mates who might steal her feed.
+After kidding, gradually increase grain to match her milk output. [Saanen does](/can-a-saanen-goat-have-babies-year-round/) are especially known for producing enough milk for large litters when given proper nutrition. Keep loose goat minerals available free-choice and make sure she has a calm, stress-free eating environment away from pushy herd mates who might steal her feed.
 
 ## Final Thoughts
 
 Most does with quads successfully raise two or three kids on their own while the owner bottle-feeds the rest. It's extra work, but bottle babies bond closely with their humans and are often the friendliest goats in the herd.
 
-Watch those kids closely in the first two weeks, keep the doe well-fed, and don't hesitate to pull a kid onto a bottle if it's falling behind. Catching it early makes all the difference.
+Watch those kids closely in the first two weeks, keep the doe well-fed, and don't hesitate to pull a kid onto a bottle if it's falling behind. Some does even [have babies a week apart](/can-a-goat-have-babies-a-week-apart/) in rare circumstances, so stay vigilant well after delivery. Catching it early makes all the difference.

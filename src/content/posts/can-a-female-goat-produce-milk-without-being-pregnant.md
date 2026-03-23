@@ -43,31 +43,31 @@ It catches a lot of new goat owners off guard, but it's more common than you'd t
 
 A doe typically starts producing milk after she kids, and most goat owners breed their does annually to keep the milk flowing. But some does develop a functional udder and begin lactating without ever being bred or giving birth.
 
-This is most often caused by hormonal fluctuations. The doe's body essentially mimics the hormonal signals of pregnancy and lactation, triggering milk production on its own. It's not a health problem and doesn't mean anything is wrong with your goat.
+This is most often caused by hormonal fluctuations. The doe's body essentially mimics the hormonal signals of pregnancy and lactation, triggering milk production on its own. It's not a health problem and doesn't mean anything is wrong with your goat, though monitoring for [udder skin changes](/can-a-dairy-goats-udder-skin-have-varying-colors/) is always wise once milk production starts.
 
 ## What causes a precocious udder?
 
 Genetics play the biggest role. Does from high-production dairy lines are far more likely to develop a precocious udder than meat or fiber breeds. If a doe's mother or grandmother had the trait, there's a good chance she will too.
 
-Nutrition and body condition can also be factors. A well-fed doe in excellent health has more hormonal activity, which can sometimes push her body into milk production without the pregnancy trigger. Some does even respond to the presence of a buck nearby, with the hormonal stimulation from his scent enough to get things started.
+Nutrition and body condition can also be factors. A well-fed doe in excellent health has more hormonal activity, which can sometimes push her body into milk production without the pregnancy trigger. Keeping her on the right [deworming schedule](/can-you-deworm-a-pregnant-goat/) ensures parasites don't drag down her condition. Some does even respond to the presence of a buck nearby, with the hormonal stimulation from his scent enough to get things started.
 
 ## Which breeds are most likely to do this?
 
 Nigerian Dwarf goats are probably the most well-known breed for precocious udders. Their genetics have been heavily selected for milk production, and it's fairly common to see unbred Nigerian Dwarf does come into milk.
 
-Nubians, LaManchas, and other dairy breeds can also produce milk without pregnancy, though it's less frequent. Some experienced dairy goat owners actually prefer does with this trait because it means they can be "milked through" for two or more years without needing to rebreed. That saves the wear and tear of annual pregnancies on the doe's body.
+Nubians, LaManchas, and other dairy breeds can also produce milk without pregnancy, though it's less frequent. Some experienced dairy goat owners actually prefer does with this trait because it means they can be "milked through" for two or more years without needing to rebreed. Whether the milk might [cause acne](/can-goat-milk-cause-acne/) or [help reduce wrinkles](/can-goat-milk-reduce-wrinkles/) depends on how you use it. That saves the wear and tear of annual pregnancies on the doe's body.
 
 ## How much milk will she produce?
 
 A doe with a precocious udder won't produce as much milk as one that has freshened after kidding. You might get a quart or two a day instead of the half gallon or more you'd expect from a doe in full lactation.
 
-The milk itself is perfectly fine to drink and use. Some owners report the flavor is slightly different than post-kidding milk, but most people can't tell the difference. The key is to milk her on a consistent schedule so production stays steady. If you skip milkings or let her go too long, she'll dry up.
+The milk itself is perfectly fine to drink and use, and [toddlers can safely drink goat milk](/can-a-toddler-catch-a-disease-from-a-baby-goat/) as long as proper hygiene is followed. Some owners report the flavor is slightly different than post-kidding milk, but most people can't tell the difference. The key is to milk her on a consistent schedule so production stays steady. If you skip milkings or let her go too long, she'll dry up.
 
 ## Can you milk a doe through without rebreeding?
 
 Yes, and many dairy goat owners do exactly that. Once a doe is in milk, whether from kidding or a precocious udder, you can keep milking her for extended periods as long as you maintain a consistent schedule.
 
-Some does have been milked through for two years or even longer without being rebred. Production will gradually decline over time, but a good dairy doe on quality feed can maintain respectable output for a surprisingly long stretch. This approach also gives the doe's body a break from the demands of pregnancy and nursing.
+Some does have been milked through for two years or even longer without being rebred. Production will gradually decline over time, but a good dairy doe on quality feed can maintain respectable output for a surprisingly long stretch. Making sure she has a [solid vaccination schedule including CDT](/can-a-cdt-shot-kill-a-goat/) keeps her healthy through the extended lactation. This approach also gives the doe's body a break from the demands of pregnancy and nursing.
 
 ## Final Thoughts
 

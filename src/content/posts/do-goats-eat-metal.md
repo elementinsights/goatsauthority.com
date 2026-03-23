@@ -45,13 +45,13 @@ The classic picture of a goat chomping on a tin can is misleading. What the goat
 
 Goats explore everything with their mouths the way humans use their hands. They will mouth, lick, and chew on just about any object in their environment to figure out what it is.
 
-When a goat chews on a metal fence rail or a tin can, it tastes the material, decides it is not food, and spits out whatever it cannot swallow. The problem is that small pieces of metal like nails, wire, and staples can be swallowed accidentally during this process.
+When a goat chews on a metal fence rail or a tin can, it tastes the material, decides it is not food, and spits out whatever it cannot swallow. This same curiosity is [why people think goats eat everything](/posts/why-do-goats-eat-everything). The problem is that small pieces of metal like nails, wire, and staples can be swallowed accidentally during this process.
 
 ## Do all goats eat metal?
 
 Most goats do not seek out metal on purpose. The goats that chew on metal objects more aggressively are often dealing with a mineral deficiency, boredom, or both.
 
-A goat that is constantly licking or chewing on metal fencing may be short on minerals like iron or zinc. Providing a quality loose mineral supplement often stops this behavior.
+A goat that is constantly licking or chewing on metal fencing may be short on minerals like iron or zinc, and this same deficiency can lead to a goat [chewing on bones as a form of pica](/posts/do-goats-eat-meat). Providing a quality loose mineral supplement often stops this behavior.
 
 Boredom is the other driver. Goats that are confined to small pens without enough browse or stimulation will chew on anything within reach, including metal hardware.
 
@@ -65,7 +65,7 @@ If your goat needs minerals, give it a proper loose mineral supplement designed 
 
 ## What are the risks of goats eating metal?
 
-Swallowed metal causes a veterinary condition called hardware disease, which is the common name for traumatic reticulopericarditis. A sharp object like a nail, screw, or piece of fence wire punctures the wall of the reticulum and can work its way toward the heart.
+Swallowed metal causes a veterinary condition called hardware disease, which is the common name for traumatic reticulopericarditis. The reticulum is the second of the goat's [four stomach compartments](/posts/how-many-stomachs-do-goats-have), and a sharp object like a nail, screw, or piece of fence wire punctures its wall and can work its way toward the heart.
 
 Symptoms of hardware disease include sudden loss of appetite, grunting when walking, an arched back, and reluctance to move. If you see these signs, get to a vet immediately because the sharp object can migrate toward the heart within hours.
 
@@ -83,9 +83,9 @@ Some farmers place a cow magnet in each goat's rumen as a preventive measure. Th
 
 No type of metal is safe for goats to eat. The question itself is based on the false idea that metal is a food source, which it is not.
 
-The best thing you can do is metal-proof your goat areas. Remove old machinery, scrap piles, and junk from anywhere your goats can reach. Check fence lines carefully for broken wire and rusted staples.
+The best thing you can do is metal-proof your goat areas. Making sure goats have access to [the right kind of hay](/posts/what-kind-of-hay-do-goats-eat) and proper minerals also reduces their drive to chew on inappropriate objects. Remove old machinery, scrap piles, and junk from anywhere your goats can reach. Check fence lines carefully for broken wire and rusted staples.
 
-Keep a simple emergency kit in the barn that includes a digital thermometer, a stethoscope for gut sounds, and your vet's phone number. If you suspect a goat has swallowed something sharp, time matters and a fast call to the vet can save the animal's life.
+Keep a simple emergency kit in the barn that includes a digital thermometer, a stethoscope for gut sounds, and your vet's phone number. Knowing how to [treat bloat quickly](/posts/can-you-debloat-a-goat) is another barn skill that can save a goat's life. If you suspect a goat has swallowed something sharp, time matters and a fast call to the vet can save the animal's life.
 
 ## Final Thoughts
 

@@ -46,7 +46,7 @@ Yes, goats can eat pears, and most of them will go wild for the taste. Pears are
 
 Pears are safe for goats of all ages. They're a good source of fiber, vitamin C, and potassium, and goats find them delicious.
 
-Remove the core and seeds before feeding, since pear seeds contain small amounts of amygdalin, which breaks down into cyanide. A few seeds won't kill a goat, but there's no reason to take the chance when it takes two seconds to cut the core out.
+Remove the core and seeds before feeding, since pear seeds contain small amounts of amygdalin, which breaks down into cyanide, the same compound found in [peach](/can-goats-eat-peaches/) pits. A few seeds won't kill a goat, but there's no reason to take the chance when it takes two seconds to cut the core out.
 
 ## Can goats eat pear skin?
 
@@ -58,11 +58,11 @@ If you're using store-bought pears, give them a quick rinse to wash off any pest
 
 Pear tree leaves are safe for goats to browse on. If your goats have access to a pear tree, they'll eat the leaves along with any low-hanging fruit, and that's fine.
 
-Some sources claim pear leaves contain harmful levels of oxalates, but goats browse pear trees regularly without any issues. The leaves are not in the same category as truly toxic plants like rhododendron or yew.
+Some sources claim pear leaves contain harmful levels of oxalates, but goats browse pear trees regularly without any issues. The leaves are not in the same category as truly toxic plants like rhododendron, yew, or [poison hemlock](/can-goats-eat-poison-hemlock/).
 
 ## What are the benefits of feeding pears to goats?
 
-Pears provide natural sugars for quick energy along with fiber that supports healthy rumen function. They're also a great source of hydration, since pears are about 84% water.
+Pears provide natural sugars for quick energy along with fiber that supports healthy rumen function. They're also a great source of hydration, much like [watermelon](/can-goats-eat-watermelon/) and cucumbers, since pears are about 84% water.
 
 The real benefit is behavioral. Pears make an excellent training treat and a good way to bribe a stubborn goat into a pen or onto a milk stand. A goat that associates you with pears is a goat that comes when you call.
 
@@ -70,13 +70,13 @@ The real benefit is behavioral. Pears make an excellent training treat and a goo
 
 The main risk is overfeeding. Too many pears at once can cause loose stools or mild bloat because of the sugar and sorbitol content.
 
-Don't feed pears that have been sitting on the ground long enough to ferment. Fermented fruit contains alcohol, and a goat that eats too much of it can get genuinely drunk and sick. Ripe, bruised, and even slightly overripe pears are all fine, but draw the line at anything that smells boozy.
+Don't feed pears that have been sitting on the ground long enough to ferment, the same warning that applies to [grapes](/can-goats-eat-grapes/) and other sugary fruits. Fermented fruit contains alcohol, and a goat that eats too much of it can get genuinely drunk and sick. Ripe, bruised, and even slightly overripe pears are all fine, but draw the line at anything that smells boozy.
 
 ## How many pears should be fed to goats each day?
 
 A couple of pears per adult goat is plenty as an occasional treat. This isn't a daily staple, and pears should never replace hay, browse, or balanced feed.
 
-For kids, half a pear cut into small pieces is enough. Treats of any kind should make up less than 10% of a goat's total daily intake, with the rest coming from forage and appropriate grain or minerals.
+For kids, half a pear cut into small pieces is enough. Treats of any kind should make up less than 10% of a goat's total daily intake, with the rest coming from [hay](/what-kind-of-hay-do-goats-eat/) and appropriate grain like [oats](/can-goats-eat-oats/) or minerals.
 
 ## Final Thoughts
 

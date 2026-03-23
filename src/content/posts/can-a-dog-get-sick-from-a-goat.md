@@ -42,17 +42,17 @@ Yes, dogs can catch certain diseases from goats, though it doesn't happen often.
 
 Dogs can pick up infections from goat feces, urine, and shared water sources. The risk goes up when the dog is living full-time with the goats, eating near them, or drinking from the same troughs.
 
-The reverse is also true. Dogs can make goats sick by chasing them and causing stress injuries, or by transmitting Neospora, a parasite that can cause abortions in pregnant does.
+The reverse is also true. Dogs can make goats sick by chasing them and causing stress injuries, or by transmitting Neospora, a parasite that can cause abortions in pregnant does. There are also other [diseases that spread between species](/can-any-diseases-spread-from-swine-to-goats/), so cross-contamination is always worth monitoring on a mixed farm.
 
 ## What diseases can a dog get from a goat?
 
 Leptospirosis is one of the main concerns. Dogs can contract it from contact with goat urine, especially in wet areas where the bacteria survive longer in standing water or mud. Vaccination against lepto is available and worth discussing with your vet if your dog lives around livestock.
 
-Cryptosporidium and Giardia are parasites found in goat feces that can infect dogs and cause diarrhea. Rabies is always a risk with any mammal-to-mammal contact, though it's uncommon in well-managed herds. Dogs can also pick up external parasites like ticks and certain mites from shared pasture areas.
+Cryptosporidium and Giardia are parasites found in goat feces that can infect dogs and cause diarrhea, similar to how [contact with goats can cause diarrhea in humans](/can-contact-with-goats-cause-diarrhea-in-humans/). [Rabies is always a risk](/can-a-goat-get-rabies/) with any mammal-to-mammal contact, though it's uncommon in well-managed herds. Dogs can also [pick up tapeworms from goats](/can-dogs-get-tapeworms-from-goats/) and external parasites like ticks and certain mites from shared pasture areas.
 
 ## Keeping your guardian dog healthy
 
-Livestock guardian dogs that live with the herd need to stay current on all vaccinations, including rabies, distemper, and leptospirosis. Talk to your vet about a deworming schedule that accounts for the dog's constant exposure to livestock parasites.
+Livestock guardian dogs that live with the herd need to stay current on all vaccinations, including rabies, distemper, and leptospirosis. Your goats should also be on a regular [deworming program](/can-a-goat-eat-too-many-dewormer-pellets/) to reduce the parasite load the dog is exposed to. Talk to your vet about a deworming schedule that accounts for the dog's constant exposure to livestock parasites.
 
 Feed the dog separately from the goats. Dogs that eat from the same trough or snack on goat grain are more likely to pick up gastrointestinal parasites, and goats that eat dog food can get seriously sick from the protein levels.
 
@@ -68,7 +68,7 @@ Keep the dog's food and water separate from the goat area. Dogs eating goat feed
 
 Monitor the dog for any signs of illness, including lethargy, diarrhea, loss of appetite, or unusual behavior. A guardian dog that's off its game won't protect the herd effectively, and an untreated infection can spread to the rest of your animals.
 
-Make sure your dog has a clean, dry place to rest away from goat manure. Constant exposure to wet, contaminated bedding increases the risk of skin infections and internal parasites for both species.
+Make sure your dog has a clean, dry place to rest away from goat manure. Goats themselves can [get mites](/can-goats-get-mites/) that sometimes transfer to dogs in shared housing. Constant exposure to wet, contaminated bedding increases the risk of skin infections and internal parasites for both species.
 
 ## Final Thoughts
 

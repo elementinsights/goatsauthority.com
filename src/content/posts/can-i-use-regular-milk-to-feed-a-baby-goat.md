@@ -43,7 +43,7 @@ It's not a perfect match for goat milk, but it'll keep a hungry kid alive and gr
 
 Yes, you can use regular whole cow milk to feed a baby goat. It's lower in fat and protein than goat milk, but kids do just fine on it as an emergency replacement.
 
-The key word here is whole milk. Don't grab skim or 2% off the shelf. Baby goats need every bit of that fat for energy and brain development during those first few weeks.
+The key word here is whole milk. Don't grab skim or 2% off the shelf. [Powdered goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats) is a better option if you can find it, but whole cow milk works in a pinch. Baby goats need every bit of that fat for energy and brain development during those first few weeks.
 
 Warm the milk to about 101 degrees Fahrenheit before feeding. That matches a doe's body temperature and helps the kid's stomach digest it properly.
 
@@ -51,7 +51,7 @@ Warm the milk to about 101 degrees Fahrenheit before feeding. That matches a doe
 
 Use a Pritchard nipple on a standard water or soda bottle. These red nipples are designed for small livestock and fit perfectly in a kid's mouth.
 
-Cut a small X in the tip of the nipple so milk flows when the kid sucks but doesn't pour out on its own. Hold the bottle at a slight upward angle and let the kid nurse at its own pace.
+Cut a small X in the tip of the nipple so milk flows when the kid sucks but doesn't pour out on its own. If the kid is too weak to suckle, you may need to [use a feeding tube](/can-i-use-kid-feeding-tube-to-drench-adult-goat) designed for kid goats. Hold the bottle at a slight upward angle and let the kid nurse at its own pace.
 
 For the first few days, feed every 3 to 4 hours, including one middle-of-the-night feeding. After the first week, you can stretch feedings to every 5 to 6 hours. By 3 weeks old, most kids are down to 3 feedings a day.
 
@@ -61,7 +61,7 @@ Here's a trick that old-timers swear by. Add a tablespoon of buttermilk per quar
 
 You can also stir in a raw egg yolk to boost the fat content closer to what goat milk provides. This makes a real difference in growth rate during the first couple of weeks.
 
-If you have access to a farm store, pick up some goat milk replacer powder and transition over to that within the first few days. It's formulated specifically for goat kids and will give them better nutrition than straight cow milk long-term.
+If you have access to a farm store, pick up some goat milk replacer powder and transition over to that within the first few days. You can also [mix goat milk replacer with cow milk](/can-i-mix-goat-milk-replacer-with-cow-milk) to stretch your supply while still improving nutrition. It's formulated specifically for goat kids and will give them better nutrition than straight cow milk long-term.
 
 ## How much milk does a baby goat need?
 
@@ -69,13 +69,13 @@ A newborn kid should get about 4 ounces per feeding for the first couple of days
 
 By 2 to 3 weeks old, healthy kids can handle 10 to 12 ounces at each feeding. Watch their belly after feeding. It should feel full but not tight or bloated like a drum.
 
-Overfeeding is a real risk with bottle babies and can cause bloat or diarrhea. If the kid develops loose stools, cut back the amount per feeding and add an extra feeding to spread the same total volume across the day.
+Overfeeding is a real risk with bottle babies and can cause [bloat](/can-you-debloat-a-goat) or diarrhea. If the kid develops loose stools, cut back the amount per feeding and add an extra feeding to spread the same total volume across the day.
 
 ## When to wean off the bottle
 
 Most bottle-raised kids can start nibbling hay and grain by 2 to 3 weeks old. Encourage this by putting fresh hay and a little kid feed in their pen where they can explore it.
 
-You can start reducing bottle feedings around 6 to 8 weeks as the kid eats more solid food. Most kids are fully weaned by 10 to 12 weeks, though some stubborn ones will try to hang onto that bottle a bit longer.
+You can start reducing bottle feedings around 6 to 8 weeks as the kid eats more solid food. Be careful about [mixing newborn goats with older goats](/can-i-mix-newborn-goats-and-older-goats) during this transition period since bottle babies need extra protection. Most kids are fully weaned by 10 to 12 weeks, though some stubborn ones will try to hang onto that bottle a bit longer.
 
 Make sure the kid is eating at least a cup of grain and a good handful of hay daily before you cut that last bottle. A kid that's weaned too early without solid food intake will fall behind on growth fast.
 

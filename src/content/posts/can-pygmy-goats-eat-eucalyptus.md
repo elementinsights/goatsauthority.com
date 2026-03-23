@@ -65,9 +65,9 @@ In larger amounts, eucalyptus can cause vomiting, diarrhea, and lethargy. Severe
 
 ## How to prevent your pygmy goat from getting sick?
 
-Start with the basics: clean water available at all times, quality hay as the foundation of the diet, and a proper loose mineral supplement designed for goats. These three things prevent the majority of health issues.
+Start with the basics: clean water available at all times, quality [hay as the foundation of the diet](/can-pygmy-goats-eat-hay), and a proper loose mineral supplement designed for goats. These three things prevent the majority of health issues.
 
-Keep your pastures clear of toxic plants including eucalyptus, azaleas, rhododendrons, and yew. Regular vet visits, a solid parasite management program, and clean living quarters go a long way toward keeping your pygmy goats healthy year round.
+Keep your pastures clear of toxic plants including eucalyptus, azaleas, rhododendrons, and yew. [Milkweed is another highly toxic plant](/can-pygmy-goats-eat-milkweed) that must be removed from any area where goats graze. Regular vet visits, a solid parasite management program, and clean living quarters go a long way toward keeping your pygmy goats healthy year round.
 
 ## What are the treatments for a sick pygmy goat?
 
@@ -83,15 +83,15 @@ If your pygmy goat nibbles a leaf or two while wandering past a eucalyptus tree,
 
 ## How to know if your goat is getting the right nutrition?
 
-A well-nourished pygmy goat has a shiny coat, bright eyes, and maintains a healthy weight. You should be able to feel the ribs with light pressure but not see them.
+A well-nourished pygmy goat has a shiny coat, bright eyes, and maintains a healthy weight. Regular [grooming and washing](/can-i-wash-and-groom-a-pygmy-goat) also helps you monitor coat quality and spot health issues early. You should be able to feel the ribs with light pressure but not see them.
 
 Watch for warning signs like dull coat, flaky skin, weight loss, or changes in energy level. These often point to nutritional deficiencies or underlying health issues that need attention from your vet.
 
 ## Additional food sources for pygmy goats
 
-Pygmy goats thrive on quality grass hay with occasional alfalfa for extra protein and calcium. A grain ration formulated for goats provides energy and essential vitamins.
+Pygmy goats thrive on quality grass hay with occasional [alfalfa](/can-goats-eat-alfalfa) for extra protein and calcium. A grain ration formulated for goats provides energy and essential vitamins.
 
-Safe treats include carrots, apples, pumpkin, squash, and leafy greens. Stick with these proven options rather than experimenting with plants like eucalyptus that carry unnecessary risk.
+Safe treats include carrots, apples, pumpkin, squash, and leafy greens. Stick with these proven options rather than experimenting with plants like eucalyptus that carry unnecessary risk. Treats like [brown sugar should also be avoided](/can-pygmy-goats-eat-brown-sugar) since they offer no nutritional value.
 
 ## Final Thoughts
 

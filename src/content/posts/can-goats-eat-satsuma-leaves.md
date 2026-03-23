@@ -49,15 +49,15 @@ Most goats find the taste a bit off-putting because of the essential oils in cit
 
 Satsuma leaves contain fiber, vitamin C, and small amounts of calcium. The fiber is helpful for digestion, and the vitamin C supports the immune system.
 
-The leaves are not a powerhouse food compared to alfalfa or other high-quality browse, but they are a decent addition to a varied diet. Think of them as one more plant in the rotation rather than a primary feed source.
+The leaves are not a powerhouse food compared to [alfalfa](/posts/can-goats-eat-alfalfa) or other high-quality browse, but they are a decent addition to a varied diet. Think of them as one more plant in the rotation rather than a primary feed source.
 
-The vitamin A content helps maintain healthy skin and coat condition. Goats that have access to a variety of leafy plants tend to have shinier coats and fewer skin issues overall.
+The vitamin A content helps maintain healthy skin and coat condition. Goats that have access to a variety of leafy plants like [dandelions](/posts/can-goats-eat-dandelions) tend to have shinier coats and fewer skin issues overall.
 
 ## What about the fruit itself?
 
 Satsuma fruit is also safe for goats. The flesh is sweet and most goats will eat it readily if you peel it and offer a few segments.
 
-Remove the seeds before feeding, as they can be a minor choking concern for smaller goats. The peel is edible too, though many goats will leave it behind because of the bitter taste.
+Remove the seeds before feeding, as they can be a minor choking concern for smaller goats. Goats tend to be more enthusiastic about sweeter fruits like [apples](/posts/can-goats-eat-apples) and [bananas](/posts/can-goats-eat-bananas). The peel is edible too, though many goats will leave it behind because of the bitter taste.
 
 Do not overdo it with the fruit since it is high in sugar and acid. A segment or two per goat as an occasional treat is plenty.
 
@@ -65,7 +65,7 @@ Do not overdo it with the fruit since it is high in sugar and acid. A segment or
 
 Citrus peels contain limonene, a compound that has mild natural deworming properties. Some goat owners offer citrus peels as a supplement to their regular deworming program.
 
-This is not a replacement for proper parasite management with fecal testing and targeted deworming. But as part of an overall approach, a little citrus here and there does not hurt.
+This is not a replacement for proper parasite management with fecal testing and [targeted deworming](/posts/can-goats-have-cattle-dewormer-blocks). But as part of an overall approach, a little citrus here and there does not hurt.
 
 If your goats will eat the peels, you can offer small pieces mixed in with their regular feed. Do not force it though, because plenty of goats want nothing to do with citrus peels.
 
@@ -73,7 +73,7 @@ If your goats will eat the peels, you can offer small pieces mixed in with their
 
 The easiest method is to let your goats browse directly from low-hanging branches on the tree. Just make sure the tree has not been sprayed with pesticides or fungicides recently.
 
-For a more controlled approach, pick fresh leaves in the morning and offer a handful to each goat alongside their regular hay and browse. You can also dry the leaves and crumble them into feed for added variety.
+For a more controlled approach, pick fresh leaves in the morning and offer a handful to each goat alongside their regular [hay](/posts/what-kind-of-hay-do-goats-eat) and browse. You can also dry the leaves and crumble them into feed for added variety.
 
 Dried satsuma leaves keep well in a sealed container for about a month. Mix them with hay or grain for an easy way to add a little extra nutrition to your goat's daily meals.
 

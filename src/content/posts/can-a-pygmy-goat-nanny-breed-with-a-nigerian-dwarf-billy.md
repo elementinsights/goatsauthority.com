@@ -42,7 +42,7 @@ Yes, a Pygmy goat doe can breed with a Nigerian Dwarf buck without any problems.
 
 Pygmy and Nigerian Dwarf goats are both under 100 pounds, making them size-compatible for breeding. A Pygmy doe can safely carry kids sired by a Nigerian Dwarf buck because the offspring will be small enough for an easy delivery.
 
-The cross works the other direction too, though breeding a Nigerian Dwarf doe to a large Pygmy buck is slightly riskier if the buck throws big kids. Either way, this is one of the most common mini goat crosses in the hobby goat world.
+The cross works the other direction too, though breeding a Nigerian Dwarf doe to a large Pygmy buck is slightly riskier if the buck throws big kids. Make sure any [doeling is old enough before breeding](/can-a-nigerian-goat-doeling-get-breed-at-4-month-age/) to avoid dangerous early pregnancies. Either way, this is one of the most common mini goat crosses in the hobby goat world.
 
 ## What is a pygmy goat nanny and what is a nigerian dwarf billy goat?
 
@@ -54,19 +54,19 @@ Nigerian Dwarf goats came from West Africa as well but were developed as dairy g
 
 The Pygmy-Nigerian Dwarf cross gives you a compact goat that combines the hardiness of a Pygmy with the milking ability of a Nigerian Dwarf. Many hobby farmers keep these crosses specifically for small-scale milk production on properties where full-sized dairy goats would be too much.
 
-The offspring, sometimes called "Pygerian" goats in casual circles, tend to be friendly and easy to handle. They are good pets, produce more milk than a purebred Pygmy, and stay small enough for suburban lots where space is limited.
+The offspring, sometimes called "Pygerian" goats in casual circles, tend to be friendly and easy to handle. They are good pets, produce more milk than a purebred Pygmy, and stay small enough for suburban lots where space is limited. Just [check your local zoning laws](/can-i-have-goats-where-i-live/) before bringing any goats home.
 
 ## What are some tips for successful goat breeding?
 
-Make sure both animals are healthy and up to date on vaccinations before breeding. Have a vet check the doe for any reproductive issues, and confirm the buck is in good body condition. Breeding unhealthy animals leads to weak kids and complications during delivery.
+Make sure both animals are healthy and up to date on vaccinations before breeding. Have a vet check the doe for any reproductive issues, and confirm the buck is in good body condition. Avoid [breeding half-siblings](/can-you-breed-a-half-brother-and-sister-goat/) in your mini goat program unless you have a clear genetic plan. Breeding unhealthy animals leads to weak kids and complications during delivery.
 
-Keep records of breeding dates so you know when to expect kids. Goat gestation is about 150 days, and knowing the due date lets you prepare a clean kidding area and be on hand in case the doe needs help. Watch for signs of heat in the doe, which include tail flagging, increased vocalization, and swelling around the vulva.
+Keep records of breeding dates so you know when to expect kids. Goat gestation is about 150 days, and knowing the due date lets you prepare a clean kidding area and be on hand in case the doe needs help. If she goes past her due date, a vet can [safely induce labor](/can-an-over-due-goat-be-induced-to-labor/) when necessary. Watch for signs of heat in the doe, which include tail flagging, increased vocalization, and swelling around the vulva.
 
 ## What are the potential consequences of breeding a pygmy goat nanny with a Nigerian dwarf billy goat?
 
 The kids from this cross are usually compact and healthy, weighing 2 to 3 pounds at birth. Coat colors vary widely since both parent breeds carry multiple color genes, so you might get solid, spotted, or multicolored kids from the same litter.
 
-One thing to keep in mind is that these crossbred kids cannot be registered as purebred with either breed registry. If you are breeding for show or for registered stock, this matters. For pet owners and small-scale homesteaders who just want a friendly, manageable goat, the lack of registration papers is no concern at all.
+One thing to keep in mind is that these crossbred kids cannot be registered as purebred with either breed registry. If you want purebred stock, you'll need to [register your Nigerian Dwarf properly](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/) with the right documentation. For pet owners and small-scale homesteaders who just want a friendly, manageable goat, the lack of registration papers is no concern at all.
 
 ## Final Thoughts
 

@@ -47,25 +47,25 @@ One important fact to clear up: goat horns are permanent bone structures covered
 
 Ingrown horns happen when a horn curves back toward the skull instead of growing outward. Over time, the tip presses into the skin, then the bone, and eventually can penetrate the skull itself.
 
-This is most common in bucks with tightly curling horns, but it can happen in any horned goat. By the time you notice swelling or infection, the horn tip may already be embedded in flesh or bone.
+This is most common in bucks with tightly curling horns, but it can happen in any horned goat. By the time you notice swelling or infection, the horn tip may already be embedded in flesh or bone. Knowing [whether goats can get a concussion](/can-a-goat-get-a-concussion) from head impacts helps you understand the vulnerability of the skull area.
 
 ## What are the symptoms of a goat dying from its own horn?
 
 The first sign is usually the goat rubbing its head against fences, posts, or the ground more than normal. You might also notice swelling or redness where the horn tip is pressing against the skin.
 
-As it gets worse, you may see discharge or a foul smell from the contact point where infection has set in. The goat may stop eating, become lethargic, or hold its head at an odd angle. In severe cases where the horn has penetrated the skull, neurological symptoms like circling, stumbling, or seizures can develop.
+As it gets worse, you may see discharge or a foul smell from the contact point where infection has set in. The goat may stop eating, become lethargic, or hold its head at an odd angle. In severe cases where the horn has penetrated the skull, neurological symptoms like circling, stumbling, or seizures can develop. You can apply [Neosporin to minor horn wounds](/can-i-put-neosporin-on-my-goats) to prevent infection before it spreads.
 
 ## How to prevent your goat from dying from its own horn?
 
 Regular horn checks are the single best prevention. Once a month, run your hands along each horn and look at the curve to see if the tip is growing toward the skull, the cheek, or the eye.
 
-If you notice a horn starting to curve dangerously close, a vet can trim the tip with a wire saw or horn saw. Trimming should be done at least an inch away from the skull to avoid the blood supply that runs through the horn core. Keep styptic powder on hand in case of bleeding.
+If you notice a horn starting to curve dangerously close, a vet can trim the tip with a wire saw or horn saw. Trimming should be done at least an inch away from the skull to avoid the blood supply that runs through the horn core. Keep styptic powder on hand in case of bleeding. Understanding [goat dental anatomy and teeth structure](/do-goats-have-teeth) alongside horn anatomy gives you a complete picture of goat head health.
 
 ## How big do goat horns get, and can they cause injury to the goat or other animals?
 
 Horn size varies by breed. Some dairy goats grow modest horns of a few inches, while Boer bucks can develop horns that curl a foot or more. They are made of a bony core covered in keratin and grow continuously from the base.
 
-Large horns can injure other goats during head-butting, get caught in fences, or cause the ingrown problems we are talking about. A sudden head swing from a horned goat can also leave you with a nasty bruise.
+Large horns can injure other goats during head-butting, get caught in fences, or cause the ingrown problems we are talking about. A sudden head swing from a horned goat can also leave you with a nasty bruise. Goats [can also bite](/can-goats-bite), but their horns pose a much greater injury risk to both handlers and herd mates.
 
 ## Are there any health benefits to goats with horns?
 
@@ -77,7 +77,7 @@ Horns also provide defense against predators and help establish herd hierarchy. 
 
 Inspect horns monthly by looking at them from multiple angles and running your fingers along the curve. Pay special attention to the tips and where they are pointing relative to the skull and face.
 
-Use fencing with openings that are either too small or too large for a horn to get stuck in. The worst fencing for horned goats is the kind with gaps that a head can fit through but a horned head cannot pull back out of. Cattle panels and field fencing with small openings are safer choices.
+Use fencing with openings that are either too small or too large for a horn to get stuck in. The worst fencing for horned goats is the kind with gaps that a head can fit through but a horned head cannot pull back out of. Cattle panels and field fencing with small openings are safer choices. This is the same type of fencing recommended to prevent goats from [climbing over fences](/can-goats-climb-fences) and escaping.
 
 ## What breed of goats are best for those who want to avoid horns?
 

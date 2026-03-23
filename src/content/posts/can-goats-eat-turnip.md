@@ -42,17 +42,17 @@ Goats are famous for nibbling on just about anything, but that doesn't mean ever
 
 Yes, goats can eat turnips safely. Both the root and the greens are non-toxic, and most goats will go after them without any convincing.
 
-Wash the turnips and chop the roots into pieces small enough that your goats won't choke on them. You can feed them raw, which goats prefer, or cooked if you have leftovers from the kitchen.
+Wash the turnips and chop the roots into pieces small enough that your goats won't choke on them. You can feed them raw, which goats prefer, or cooked if you have [leftovers from the kitchen](/posts/can-i-feed-my-goat-leftovers).
 
 ## What are the benefits of feeding goats turnips?
 
-Turnips are packed with vitamin C, fiber, and calcium, which makes them a solid supplement to a hay-based diet. They're also low in sugar compared to treats like apples or carrots, so you don't have to worry about overdoing it on the sweet stuff.
+Turnips are packed with vitamin C, fiber, and calcium, which makes them a solid supplement to a hay-based diet. They're also low in sugar compared to treats like [apples](/posts/can-goats-eat-apples) or [carrots](/posts/can-goats-eat-carrots), so you don't have to worry about overdoing it on the sweet stuff.
 
 The greens are actually more nutritious than the root itself. Turnip greens are loaded with vitamin K, vitamin C, and folate, and goats tend to prefer the softer leaves over the harder root anyway.
 
 ## Do turnips have any drawbacks to goats?
 
-The main risk is gas. Turnips belong to the brassica family (same as cabbage, broccoli, and kale), and feeding too many at once can cause bloating.
+The main risk is gas. Turnips belong to the brassica family (same as cabbage, broccoli, and [kale](/posts/can-goats-eat-kale)), and feeding too many at once can cause bloating.
 
 Choking is the other concern, especially with whole turnips. Always cut the root into chunks — about the size of a golf ball works well for full-sized goats, smaller pieces for kids.
 
@@ -60,13 +60,13 @@ Choking is the other concern, especially with whole turnips. Always cut the root
 
 An adult goat can handle one to two cups of chopped turnip per day without any issues. Start with a small amount if your goats haven't had them before and work up from there over a few days.
 
-Pregnant and nursing does can eat turnips too, but keep the portions modest. Turnips should be a supplement to hay and browse, not a meal replacement.
+Pregnant and nursing does can eat turnips too, but keep the portions modest. Turnips should be a supplement to [hay](/posts/what-kind-of-hay-do-goats-eat) and browse, not a meal replacement.
 
 ## Are all parts of the turnip safe for goats to eat?
 
 Every part of the turnip plant is safe for goats, from the root to the greens to the stems. The greens are the most nutritious part and goats usually eat those first.
 
-Just be aware that feeding a big pile of greens at once can cause mild bloating. Mix them in with hay rather than offering a whole heap, and your goats will get the nutritional benefit without the digestive trouble.
+Just be aware that feeding a big pile of greens at once can cause mild bloating, and knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) is important. Mix them in with hay rather than offering a whole heap, and your goats will get the nutritional benefit without the digestive trouble.
 
 ## Final Thoughts
 

@@ -48,11 +48,11 @@ Timothy hay typically runs between 8-11% protein, which is lower than alfalfa bu
 
 ## Timothy hay vs. Alfalfa for goats
 
-This is where it gets important. Alfalfa hay runs 15-22% protein, which is nearly double what timothy provides. For does in milk, pregnant does in their last trimester, and growing kids, that extra protein matters a lot.
+This is where it gets important. [Alfalfa](/posts/can-goats-eat-alfalfa) hay runs 15-22% protein, which is nearly double what timothy provides. For does in milk, pregnant does in their last trimester, and growing kids, that extra protein matters a lot.
 
-Timothy hay alone won't give pregnant or lactating does enough protein to maintain body condition and produce milk. If you're feeding timothy to these animals, you'll need to supplement with grain or mix in alfalfa hay to make up the difference.
+Timothy hay alone won't give pregnant or lactating does enough protein to maintain body condition and produce milk, especially does [nursing multiple kids](/posts/how-many-babies-do-goats-have-at-a-time). If you're feeding timothy to these animals, you'll need to supplement with grain or mix in alfalfa hay to make up the difference.
 
-For adult wethers and bucks not in breeding season, timothy is actually the better choice. Too much protein from alfalfa can contribute to urinary calculi in wethers, which is a painful and potentially fatal blockage. Timothy's lower protein and calcium levels make it a safer everyday hay for these animals.
+For adult wethers and bucks not in breeding season, timothy is actually the better choice. Too much protein from alfalfa can contribute to urinary calculi in wethers, which is a painful and potentially fatal blockage. You can also offer [hay cubes](/posts/can-goats-eat-hay-cubes) as a convenient alternative. Timothy's lower protein and calcium levels make it a safer everyday hay for these animals.
 
 ## Which goats do best on timothy hay?
 
@@ -68,7 +68,7 @@ Before you buy a bale, crack it open and look at the color. Good timothy hay is 
 
 Feel the texture between your fingers. Quality timothy is firm but not brittle, and you should see seed heads throughout the bale. Hay that crumbles to dust when you handle it was cut too late and has lost most of its nutritional value.
 
-Store your timothy hay off the ground in a dry, covered area. Moisture leads to mold, and moldy hay can cause serious respiratory problems in goats. A well-stored bale of timothy will keep for months without losing much nutritional value.
+Store your timothy hay off the ground in a dry, covered area. Moisture leads to mold, and [moldy hay can cause serious health problems](/posts/can-goats-eat-moldy-hay) in goats including respiratory issues. A well-stored bale of timothy will keep for months without losing much nutritional value.
 
 ## Mixing hay types for a balanced diet
 
@@ -76,7 +76,7 @@ Many experienced goat owners don't rely on a single hay type. A blend of two or 
 
 Timothy mixed with orchard grass is a popular combination. Orchard grass is softer and more palatable, so picky eaters tend to prefer it. The two together provide a nice balance of fiber and flavor.
 
-For herds with mixed needs, keeping both timothy and alfalfa on hand lets you adjust each animal's ration based on their life stage. Wethers get straight timothy, does in milk get mostly alfalfa, and everyone else gets a blend. It's more work, but it keeps every goat in the herd properly fed.
+For herds with mixed needs, keeping both timothy and alfalfa on hand lets you adjust each animal's ration based on their life stage. Wethers get straight timothy, does in milk get mostly alfalfa, and everyone else gets a blend. Supplementing with [oats](/posts/can-goats-eat-oats) or [sunflower seeds](/posts/can-goats-eat-sunflower-seeds) can further customize each animal's nutrition. It's more work, but it keeps every goat in the herd properly fed.
 
 ## Final Thoughts
 

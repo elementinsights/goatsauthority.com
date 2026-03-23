@@ -42,13 +42,13 @@ No, you should not deworm a 3-day-old kid. At that age, internal parasites aren'
 
 A 3-day-old kid has not been exposed to worms yet. Parasites like barber pole worm take 3 to 4 weeks to develop inside a goat after the larvae are ingested from pasture, so there's nothing to treat at 3 days old.
 
-What you should be focused on at that age is making sure the kid got enough colostrum in the first 24 hours, dipping the navel in iodine to prevent infection, and keeping the kidding area clean and dry. Those three things matter far more than any dewormer right now.
+What you should be focused on at that age is making sure the kid got enough colostrum in the first 24 hours, dipping the navel in iodine to prevent infection, and keeping the kidding area clean and dry. Using quality [pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats) in the kidding stall helps keep things sanitary. Those three things matter far more than any dewormer right now.
 
 ## When should you first deworm a kid?
 
 Most experienced goat farmers don't deworm kids until 4 to 8 weeks of age at the earliest, and only if there's a reason to. A fecal egg count from your vet is the best way to know whether treatment is actually needed.
 
-Blanket deworming every kid on a set schedule is outdated thinking. It breeds drug-resistant parasites on your farm, and that's a problem that's getting worse across the country.
+Blanket deworming every kid on a set schedule is outdated thinking. It breeds drug-resistant parasites on your farm, and that's a problem that's getting worse across the country. If you are also wondering about [deworming pregnant does](/can-you-deworm-a-pregnant-goat), the same targeted approach applies.
 
 Coccidia is usually a bigger concern than worms for young kids. Coccidia prevention with a product like Corid typically starts around 3 to 4 weeks of age, especially if you've had coccidia problems in your herd before.
 
@@ -56,21 +56,21 @@ Coccidia is usually a bigger concern than worms for young kids. Coccidia prevent
 
 The classic signs of a worm load include pale inner eyelids, a rough dull coat, weight loss despite eating well, a pot-bellied appearance, and diarrhea. The FAMACHA scoring system is the quickest field test you can do.
 
-Pull down the lower eyelid and compare the color of the inner membrane to a FAMACHA color chart. Deep red means the goat is healthy. Pale pink or white means there's a serious parasite load and the goat needs treatment right away.
+Pull down the lower eyelid and compare the color of the inner membrane to a FAMACHA color chart. Deep red means the goat is healthy. Pale pink or white means there's a serious parasite load and the goat needs treatment right away. Severe anemia from parasites can even lead to [stroke-like symptoms in goats](/can-goats-have-a-stroke-anemia) if left unchecked.
 
 ## Always weigh before dosing
 
 This is critical with kids because they grow fast and their weight changes week to week. Underdosing a dewormer doesn't kill the parasites and instead breeds drug-resistant worms on your farm.
 
-Get a hanging scale or a bathroom scale and weigh every kid before you give any medication. Dose for the actual weight, not a guess. A 10-pound kid and a 20-pound kid need very different amounts, and getting it wrong in either direction causes problems.
+Get a hanging scale or a bathroom scale and weigh every kid before you give any medication. Dose for the actual weight, not a guess. Some farmers also ask about [using ivermectin pour-on for goats](/can-i-use-ivermectin-pour-on-in-sheep-and-goats), but oral drenching is generally more effective in goats. A 10-pound kid and a 20-pound kid need very different amounts, and getting it wrong in either direction causes problems.
 
 ## How can you prevent worms in the first place?
 
-Pasture rotation is the single most effective tool for reducing parasite exposure. Moving your herd to fresh ground every 2 to 3 weeks breaks the worm life cycle by separating goats from the larvae hatching in their old droppings.
+Pasture rotation is the single most effective tool for reducing parasite exposure. Moving your herd to fresh ground every 2 to 3 weeks breaks the worm life cycle by separating goats from the larvae hatching in their old droppings. Be aware that [too much field time on lush pasture](/can-too-much-field-time-cause-scours-in-goats) can cause scours, so introduce new pasture gradually.
 
 Keeping the kidding area clean and dry also matters. Parasites thrive in warm, moist, manure-heavy environments. If your kids are born on clean bedding and moved to fresh pasture, you'll have far fewer parasite problems before deworming ever enters the picture.
 
-Raising hay feeders off the ground helps too. Goats that eat hay off the dirt are picking up parasite larvae with every bite. A feeder that keeps hay at chest height eliminates that problem entirely.
+Raising hay feeders off the ground helps too. Goats that eat hay off the dirt are picking up parasite larvae with every bite. Keeping your goats on clean, dry ground also helps prevent [bloating issues](/can-you-debloat-a-goat) that come from eating contaminated feed. A feeder that keeps hay at chest height eliminates that problem entirely.
 
 ## Final Thoughts
 

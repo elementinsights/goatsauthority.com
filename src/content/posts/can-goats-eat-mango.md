@@ -44,19 +44,19 @@ Mangoes are one of those treats that goats absolutely go nuts for. The sweet fle
 
 Yes, mango flesh is perfectly safe for goats. It's rich in vitamins A, C, and E, plus it has a good amount of fiber that helps with digestion.
 
-The big thing to watch out for is the pit. That large seed in the center is a choking hazard, and the hard shell around it contains small amounts of cyanogenic compounds, so always remove it before feeding mango to your herd.
+The big thing to watch out for is the pit, just like you would remove pits from [peaches](/can-goats-eat-peaches/). That large seed in the center is a choking hazard, and the hard shell around it contains small amounts of cyanogenic compounds, so always remove it before feeding mango to your herd.
 
 ## Can Goats Eat Mango Raw?
 
 Raw mango is the best way to feed it. Goats love the sweet flavor, and the soft texture of ripe mango makes it easy for them to chew and swallow.
 
-Cut the flesh into chunks rather than giving them a whole fruit. This keeps pieces small enough that even younger goats can handle them safely without choking on a big hunk. Wash the mango before cutting to remove any dirt or chemical residues from the skin.
+Cut the flesh into chunks rather than giving them a whole fruit, similar to how you would prepare [apples](/can-goats-eat-apples/) or oranges. This keeps pieces small enough that even younger goats can handle them safely without choking on a big hunk. Wash the mango before cutting to remove any dirt or chemical residues from the skin.
 
 ## Is Mango Healthy for Goats?
 
 Mango is a solid source of nutrition as a treat. The vitamin A supports eye health and immune function, while vitamin C gives their immune system an extra boost.
 
-The fiber in the fruit aids digestion, and the natural sugars provide a quick bit of energy. Those same sugars are why you need to keep portions small — too much can cause stomach upset or loose stools.
+The fiber in the fruit aids digestion, and the natural sugars provide a quick bit of energy. Those same sugars are why you need to keep portions small — too much can cause stomach upset or loose stools, just as when [feeding watermelon](/can-goats-eat-watermelon/) in excess.
 
 ## Can Goats Eat Unripe Mango?
 
@@ -72,12 +72,12 @@ Mango leaves are safe in small amounts. Peels are fine too, but wash them well f
 
 ## How Often Can Goats Have Mangoes?
 
-Treats like mango should make up less than 10 percent of your goat's daily intake. A few chunks two or three times a week is plenty for an adult goat.
+Treats like mango should make up less than 10 percent of your goat's daily intake, just as with [grapes](/can-goats-eat-grapes/) and bananas. A few chunks two or three times a week is plenty for an adult goat.
 
 The sugar content is the limiting factor here. Too much fruit on a regular basis can lead to weight gain and digestive problems, so keep it as an occasional reward rather than a daily staple. If you want to stock up when mangoes are in season, peel and pit them, cut the flesh into chunks, and freeze them on a baking sheet before transferring to freezer bags. Thaw a handful at a time for treat day and your goats will think it's summer all over again.
 
 ## Are Mangoes Bad for Goats in Any Way?
 
-Mangoes themselves aren't bad for goats at all when fed in moderation. The only real dangers are the pit and overfeeding.
+Unlike [chocolate](/can-goats-eat-chocolate/) or avocado which are genuinely toxic, mangoes themselves aren't bad for goats at all when fed in moderation. The only real dangers are the pit and overfeeding.
 
 If a goat somehow swallows a whole pit, watch closely for signs of choking or digestive distress over the next 24 to 48 hours. Most adult goats can pass one without trouble, but smaller breeds and kids are at higher risk for a blockage, so call your vet if you notice loss of appetite, straining, or a bloated belly.

@@ -43,7 +43,7 @@ There are two main threats here: bloat from lush or frosted red and white clover
 
 ## Can a goat get poisoned on clover that has been frosted on?
 
-When frost damages clover, the cell walls in the plant break down and release sugars rapidly. This makes the clover much more likely to cause frothy bloat when a goat eats a large amount of it at once.
+When frost damages clover, the cell walls in the plant break down and release sugars rapidly. This makes the clover much more likely to cause frothy bloat when a goat eats a large amount of it at once, and knowing [how to debloat a goat](/can-you-debloat-a-goat/) quickly becomes essential.
 
 Sweet clover presents an even more serious threat. When sweet clover gets frosted, wilts, and then becomes damp or moldy, it produces a compound called dicoumarol. Dicoumarol is a powerful anticoagulant that prevents blood from clotting, and it can cause fatal internal bleeding in goats that eat enough of it.
 
@@ -57,23 +57,23 @@ Sweet clover is the one that demands the most caution. It grows tall with small 
 
 Fresh, healthy clover is actually good feed for goats in moderation. It is high in protein, rich in minerals, and goats tend to like the taste enough that they will seek it out in a mixed pasture.
 
-Red and white clover are excellent sources of calcium and phosphorus. When mixed in with grass hay or pasture grasses, they can boost the overall nutritional quality of your goats' diet without any added cost.
+Red and white clover are excellent sources of calcium and phosphorus, though too much calcium can contribute to [urinary issues](/can-baking-soda-cause-urinary-issues-in-goats/) in bucks and wethers. When mixed in with grass hay or pasture grasses, they can boost the overall nutritional quality of your goats' diet without any added cost.
 
 ## What are the signs of clover poisoning in goats, and what should you do if you think your goat has been poisoned by clover?
 
-Bloat from frosted clover shows up fast. You will notice the goat's left side swelling up like a balloon, and the animal will look uncomfortable, stamp its feet, and may grind its teeth. Severe bloat can kill a goat within hours if the gas pressure is not relieved.
+Bloat from frosted clover shows up fast. You will notice the goat's left side swelling up like a balloon, and the animal will look uncomfortable, stamp its feet, and may grind its teeth. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have/) helps explain why bloat is so dangerous. Severe bloat can kill a goat within hours if the gas pressure is not relieved.
 
 Sweet clover disease is sneakier. The dicoumarol builds up over days or weeks, so symptoms may not appear right away. Watch for nosebleeds, blood in the stool, swelling under the skin, weakness, and pale gums. Get your vet involved immediately because the goat will likely need vitamin K injections to restore clotting.
 
 ## How can you prevent your goats from eating clover that has been frosted on, and how can you tell if the clover is safe to eat or not?
 
-The simplest prevention is to keep your goats off clover-heavy pastures after a hard frost. Wait until the frosted plants have either dried out completely or been grazed down by cattle, which handle frosted clover better than goats.
+The simplest prevention is to keep your goats off clover-heavy pastures after a hard frost, especially since goats that are already [sick from cold weather](/can-a-goat-get-sick-from-cold/) are more vulnerable to bloat complications. Wait until the frosted plants have either dried out completely or been grazed down by cattle, which handle frosted clover better than goats.
 
 For sweet clover, never feed baled sweet clover hay that smells musty or shows any signs of mold. If you grow sweet clover as a cover crop, mow it before frost and let it dry thoroughly in the sun before your goats have access to the area. A quick sniff test on hay can tell you a lot: sweet clover hay should smell fresh and sweet, not sour or moldy.
 
 ## Additional tips for keeping your goats safe from potential poisoning risks.
 
-Keep your pastures diverse. A pasture with a mix of grasses, forbs, and only a moderate amount of clover is much safer than one that is dominated by clover alone.
+Keep your pastures diverse. A pasture with a mix of grasses, forbs, and only a moderate amount of clover is much safer than one that is dominated by clover alone. Removing any [plastic bags or debris](/can-a-plastic-bag-hurt-a-goat/) from the pasture during your walkthrough is another simple step that prevents emergencies.
 
 Stock bloat treatment supplies in your barn before frost season arrives. A bottle of bloat drench or even mineral oil can save a goat's life in an emergency. Knowing how to pass a stomach tube is a skill every goat owner should learn, because bloat waits for nobody.
 

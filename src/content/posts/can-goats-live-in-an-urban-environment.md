@@ -51,25 +51,25 @@ You'll typically need a permit, a minimum lot size, and setback distances from n
 
 The main benefits are free lawn maintenance, fresh milk (from dairy breeds), and companionship. Nigerian Dwarf goats produce a surprising amount of rich milk for their size and fit comfortably in a backyard setting.
 
-Goat manure composts beautifully and makes excellent garden fertilizer. Many urban goat owners find that their goats become the neighborhood's favorite attraction, which can actually help build community.
+Goat manure composts beautifully and makes excellent garden fertilizer. Some urban goat owners even find ways to [make money from their goats](/posts/can-goats-make-money) through milk sales and brush clearing. Many find that their goats become the neighborhood's favorite attraction, which can actually help build community.
 
 ## What are the risks of keeping goats in an urban environment?
 
 Noise is the biggest issue with urban goats. Does can be loud when they're in heat, cycling every 21 days during breeding season, and bucks smell terrible, which is why most cities ban them entirely.
 
-Finding a goat vet in an urban area can be surprisingly difficult since most large-animal vets are located in rural communities. You may need to drive a long distance for routine care and emergencies, so plan this out before you get your first goat. Zoning enforcement is another concern because neighbors who complain can trigger inspections and fines.
+Finding a goat vet in an urban area can be surprisingly difficult since most large-animal vets are located in rural communities. You may need to drive a long distance for routine care like [Benadryl dosing](/posts/can-benadryl-hurt-a-goat) or emergency treatment, so plan this out before you get your first goat. Zoning enforcement is another concern because neighbors who complain can trigger inspections and fines.
 
 ## What are some tips for keeping goats in an urban environment?
 
-You need at least 200 square feet of outdoor space per goat, plus a weatherproof shelter. Goats hate rain, so a solid three-sided shelter with a dry floor is a must.
+You need at least 200 square feet of outdoor space per goat, plus a weatherproof shelter with [proper bedding](/posts/can-pine-chips-be-used-as-bedding-for-goats). Goats hate rain, so a solid three-sided shelter with a dry floor is a must.
 
-Always keep at least two goats because they're herd animals and a single goat will be stressed and noisy. Good fencing is non-negotiable in an urban setting. A four-foot fence with a secure gate will keep miniature breeds contained, but test it because goats are creative escape artists.
+Always keep at least two goats because they're herd animals and a single goat will be stressed and noisy. Good fencing is non-negotiable in an urban setting since [goats can jump surprisingly high](/posts/can-goats-jump-high). A four-foot fence with a secure gate will keep miniature breeds contained, but test it because goats are creative escape artists.
 
 ## The types of food that goats can eat and thrive on in an urban environment
 
 Goats will happily eat your weeds, rose bushes, and most ornamental shrubs. They're browsers, not grazers, so they prefer leafy material over lawn grass.
 
-Supplement with good quality hay and a small amount of grain daily. Make sure they have access to a goat-specific mineral block, since urban browse alone won't provide all the minerals they need.
+Supplement with good quality [hay](/posts/what-kind-of-hay-do-goats-eat) and a small amount of grain daily. Make sure they have access to a goat-specific mineral block, since urban browse alone won't provide all the minerals they need.
 
 ## How to provide water for your goats in an urban environment?
 

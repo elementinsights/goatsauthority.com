@@ -53,13 +53,13 @@ The plant contains piperidine alkaloids, primarily coniine and gamma-coniceine, 
 
 No breed or type of goat is immune to poison hemlock. This is a myth that has gotten animals killed.
 
-Every goat, regardless of breed, age, or size, is vulnerable to hemlock poisoning. Some goats may avoid it naturally because of the unpleasant smell, but hunger, curiosity, or limited forage can override that instinct. Never assume your goats know better than to eat it.
+Every goat, regardless of breed, age, or size, is vulnerable to hemlock poisoning. Some goats may avoid it naturally because of the unpleasant smell, but hunger, curiosity, or limited forage can override that instinct. Make sure your goats always have access to quality [hay](/what-kind-of-hay-do-goats-eat/) and browse so they are never desperate enough to sample dangerous plants.
 
 ## What are the benefits of goats eating poison hemlock?
 
 There are zero benefits. None. Poison hemlock provides nothing of value to your goats and can only cause harm.
 
-Some people have heard that goats can be used to control hemlock growth in pastures. While goats can tolerate many plants that other livestock cannot, poison hemlock is not one of them. Do not use your goats as hemlock control. The risk of losing animals is far too high.
+Some people have heard that goats can be used to control hemlock growth in pastures. While goats can tolerate many plants that other livestock cannot, like [honeysuckle](/can-goats-eat-honeysuckle/) and [blackberries](/can-goats-eat-blackberries/), poison hemlock is not one of them. Do not use your goats as hemlock control. The risk of losing animals is far too high.
 
 ## What are the risks of goats eating poison hemlock?
 
@@ -77,13 +77,13 @@ Walk your pastures regularly and pull or dig up any hemlock you find, wearing gl
 
 If you suspect your goat has eaten poison hemlock, call your vet immediately. Time is everything with hemlock poisoning.
 
-There is no antidote for coniine poisoning. Treatment is purely supportive: IV fluids, respiratory support, and keeping the goat as calm and still as possible. If the goat can be kept alive through the worst of the respiratory depression, recovery is possible since the alkaloids do eventually clear the system. But many goats don't survive without aggressive veterinary intervention.
+There is no antidote for coniine poisoning, unlike [onion toxicity](/can-goats-eat-onions/) which can be managed with supportive care. Treatment is purely supportive: IV fluids, respiratory support, and keeping the goat as calm and still as possible. If the goat can be kept alive through the worst of the respiratory depression, recovery is possible since the alkaloids do eventually clear the system. But many goats don't survive without aggressive veterinary intervention.
 
 ## How much poison hemlock can a goat eat?
 
 Any amount is too much. The lethal dose varies depending on the goat's size, the part of the plant eaten, and the time of year, but even a few mouthfuls can be enough to cause serious poisoning or death.
 
-The plant is most toxic in spring when new growth is tender and alkaloid concentrations are at their peak. Young hemlock shoots are also more palatable to goats than mature plants, which makes early spring the most dangerous time. Seeds and roots remain toxic even after the plant dries out, so dead hemlock stalks left in the field are still a threat.
+The plant is most toxic in spring when new growth is tender and alkaloid concentrations are at their peak, coinciding with the time goats are hungriest for fresh browse like [dandelions](/can-goats-eat-dandelions/) and [pine needles](/can-goats-eat-pine-needles/). Young hemlock shoots are also more palatable to goats than mature plants, which makes early spring the most dangerous time. Seeds and roots remain toxic even after the plant dries out, so dead hemlock stalks left in the field are still a threat.
 
 ## Final Thoughts
 

@@ -44,7 +44,7 @@ The real question isn't whether you can eat them. It's whether the meat yield ma
 
 Nigerian Dwarfs are classified as a dairy breed, but that doesn't mean the meat goes to waste. Many breeders process excess bucklings each spring rather than trying to find homes for every single one.
 
-The meat is perfectly good. Nigerian Dwarfs produce tender, mild-flavored meat that most people enjoy, especially folks who find full-sized goat meat too strong or gamey.
+The meat is perfectly good. Nigerian Dwarfs produce tender, mild-flavored meat that most people enjoy, especially folks who find full-sized goat meat too strong or gamey. The mild flavor works well in traditional dishes like [Kabuli palao made with goat](/can-kabuli-palao-be-made-with-goat).
 
 For a family that already keeps Nigerian Dwarfs for milk, processing a few extra kids each year is a practical way to fill the freezer without raising a separate meat herd.
 
@@ -62,19 +62,19 @@ Nigerian Dwarf meat is leaner and more tender than meat from larger breeds. Many
 
 Low and slow cooking methods work best. Braising, stewing, and slow roasting bring out the natural richness without drying things out. Aim for 160 degrees internal temperature for stews and 145 degrees for roasts.
 
-Marinating overnight in yogurt or citrus juice breaks down the fibers and adds another layer of flavor. Pair it with bold spices like cumin, paprika, and garlic for a meal that's hard to beat.
+Marinating overnight in yogurt or citrus juice breaks down the fibers and adds another layer of flavor. [Goat liver is also edible](/can-we-eat-goat-liver) and packed with nutrients if you want to use every part of the animal. Pair it with bold spices like cumin, paprika, and garlic for a meal that's hard to beat.
 
 ## The dual-purpose advantage
 
 One of the best reasons to choose Nigerian Dwarfs for a small homestead is that you get both milk and meat from the same breed. A healthy doe can produce one to two quarts of rich, sweet milk per day during her lactation period.
 
-That milk is prized for cheese making because of its high butterfat content, often running 6 to 10 percent. You can make chevre, feta, and even hard cheeses with Nigerian Dwarf milk.
+That milk is prized for cheese making because of its high butterfat content, often running 6 to 10 percent. You can make chevre, feta, and even hard cheeses with Nigerian Dwarf milk. If you end up with more cheese than you can use fresh, learning [how to freeze goat cheese](/can-you-freeze-goat-cheese) extends its shelf life significantly.
 
-When you retire a doe from milking or have extra bucklings in the spring, those animals go to the freezer. This cycle of milk production and meat harvest makes Nigerian Dwarfs one of the most efficient breeds for small operations.
+When you retire a doe from milking or have extra bucklings in the spring, those animals go to the freezer. Dairy farmers can also [sell goat milk butter](/can-i-sell-goat-milk-butter) as an additional revenue stream alongside the meat. This cycle of milk production and meat harvest makes Nigerian Dwarfs one of the most efficient breeds for small operations.
 
 ## Crossing with Boer goats for larger kids
 
-Some homesteaders breed their Nigerian Dwarf does to a Boer buck to get larger meat kids. The cross produces a meatier animal while keeping the smaller frame that's easier to manage on limited acreage.
+Some homesteaders breed their Nigerian Dwarf does to a Boer buck to get larger meat kids. If you already keep Nigerian Dwarfs, knowing [whether they can live with Nubians](/can-nigerian-dwarf-goats-be-with-nubians) opens up additional crossbreeding possibilities. The cross produces a meatier animal while keeping the smaller frame that's easier to manage on limited acreage.
 
 These crosses grow faster and put on more muscle than purebred Nigerian Dwarfs. The dressed weight can jump to 40 to 50 pounds, which makes a noticeable difference in the freezer.
 

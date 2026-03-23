@@ -44,13 +44,13 @@ The breed of dog matters a lot, and so does the individual personality of both a
 
 Yes, many goats and dogs form strong bonds. Livestock guardian dogs like Great Pyrenees, Anatolian Shepherds, and Maremmas were literally bred to live with and protect goats and sheep from predators.
 
-Pet dogs can coexist with goats too, but it takes more work. The dog needs solid obedience training and a calm temperament, and you need to supervise every interaction until you're completely confident in how they behave together.
+Pet dogs can coexist with goats too, but it takes more work. The dog needs solid obedience training and a calm temperament, and you need to supervise every interaction until you're completely confident in how they behave together. If you're considering smaller goats, [pygmy goats and dogs can live together](/can-dogs-and-pygmy-goats-live-together) with the right breed pairing.
 
 ## How to introduce a dog to your goats
 
 Start with the dog on a leash and let the goats approach on their own terms. Don't force the meeting or hold a goat in place while the dog sniffs it, because a panicked goat will make the dog's prey drive kick in.
 
-Keep these supervised sessions short at first, maybe 10 to 15 minutes. If the dog stays calm and shows no signs of fixating, lunging, or stiffening up, you can gradually increase the time together. This process can take anywhere from a few days to several weeks depending on the dog.
+Keep these supervised sessions short at first, maybe 10 to 15 minutes. If the dog stays calm and shows no signs of fixating, lunging, or stiffening up, you can gradually increase the time together. This process can take anywhere from a few days to several weeks depending on the dog. The same gradual approach works when [taming goats](/can-goats-be-tamed) that are skittish around new people.
 
 ## Dog breeds that work well with goats
 
@@ -62,13 +62,13 @@ Some pet breeds do fine around goats with proper training, especially calm breed
 
 Herding breeds like Australian Cattle Dogs and Border Collies may chase and nip at goats. They're not trying to hurt them, but the constant harassment stresses goats out and can cause injuries if a goat panics and runs into a fence.
 
-Terriers and sighthounds like greyhounds were bred to chase and catch small animals. Even after months of peaceful coexistence, a running goat can trigger their prey drive in an instant. Never leave these breeds alone with goats unsupervised.
+Terriers and sighthounds like greyhounds were bred to chase and catch small animals. Even after months of peaceful coexistence, a running goat can trigger their prey drive in an instant. Never leave these breeds alone with goats unsupervised. Even well-behaved [domestic goats that jump](/can-domestic-goats-jump) and run can accidentally trigger a dog's chase instinct.
 
 ## Signs the friendship is working or failing
 
-Good signs include the dog lying calmly near the goats, loose body language from both animals, and the goats not flinching or running when the dog moves. Some goats will even seek out the dog and rest next to it.
+Good signs include the dog lying calmly near the goats, loose body language from both animals, and the goats not flinching or running when the dog moves. Some goats will even seek out the dog and rest next to it. This kind of bond shows that [goats can love humans](/can-goats-love-humans) and other species once they feel safe and comfortable.
 
-Red flags include the dog staring intensely at the goats, crouching low, or getting stiff when a goat moves quickly. Any of these behaviors mean you need to separate them and go back to supervised leash introductions.
+Red flags include the dog staring intensely at the goats, crouching low, or getting stiff when a goat moves quickly. Any of these behaviors mean you need to separate them and go back to supervised leash introductions. On the other hand, [an aggressive goat can sometimes be corrected](/can-an-aggressive-goat-be-fixed) through proper behavioral management if it's causing problems with the dog.
 
 ## Final Thoughts
 

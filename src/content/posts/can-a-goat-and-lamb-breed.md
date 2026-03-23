@@ -46,7 +46,7 @@ If you keep both goats and sheep, you have probably wondered whether they can ac
 
 Goats and sheep are related but separate species within the Bovidae family. A goat has 60 chromosomes while a sheep has 54, and that mismatch is the core reason crossbreeding almost never works.
 
-When a buck goat mates with a ewe (or a ram with a doe), fertilization can technically happen. But those mismatched chromosomes struggle to pair up during cell division, so the vast majority of embryos fail within the first few weeks. Successful live births have been documented only a handful of times worldwide.
+When a buck goat mates with a ewe (or a ram with a doe), fertilization can technically happen. This is a very different situation from [goats breeding with sheep](/can-a-goat-breed-with-sheep/) of the same species, where healthy offspring are guaranteed. But those mismatched chromosomes struggle to pair up during cell division, so the vast majority of embryos fail within the first few weeks. Successful live births have been documented only a handful of times worldwide.
 
 ## Are geeps rare?
 
@@ -58,13 +58,13 @@ Most reported geeps came from farms where goats and sheep shared the same pastur
 
 A geep's dietary needs fall somewhere between a goat and a sheep. They tend to both browse woody plants like a goat and graze on grass like a sheep.
 
-The tricky part is copper. Goats need copper in their mineral mix, but sheep are extremely sensitive to copper toxicity. If you end up caring for a geep, work with your vet to test blood levels and figure out where the animal falls on that spectrum before choosing a mineral supplement.
+The tricky part is copper. Goats need copper in their mineral mix, but sheep are extremely sensitive to copper toxicity. If you end up caring for a geep, work with your vet to test blood levels and figure out where the animal falls on that spectrum before choosing a mineral supplement. Scientists have studied whether [animals made from goat and sheep DNA can reproduce](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/), and the results are similar to what we see in natural hybrids.
 
 ## Do geeps make good pets?
 
 The few geeps that have survived tend to be docile and curious animals. They often display a blend of goat playfulness and sheep calmness, which can make them entertaining to be around.
 
-A geep is not a pet you can plan on owning. You cannot buy one from a breeder or order one online. They only appear by chance or through rare research breeding, and most do not survive to adulthood.
+A geep is not a pet you can plan on owning. You cannot buy one from a breeder or order one online. If you want a friendly small goat as a companion, pairing a [Pygmy nanny with a Nigerian Dwarf billy](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) gives you a far more reliable and healthy outcome. They only appear by chance or through rare research breeding, and most do not survive to adulthood.
 
 ## Do geeps reproduce?
 
@@ -76,7 +76,7 @@ There have been a few scattered reports of fertile female geeps, but these cases
 
 The biggest risk is losing the offspring entirely. Most crossbred embryos are reabsorbed or miscarried early in the pregnancy, and many of those that make it to full term are stillborn.
 
-The surviving geeps often face health challenges. Their immune systems may be weaker than purebreds, organ development can be compromised, and their overall lifespan tends to be shorter. The parent animals can also face complications during pregnancy and delivery because the fetus may develop abnormally.
+The surviving geeps often face health challenges. Their immune systems may be weaker than purebreds, organ development can be compromised, and their overall lifespan tends to be shorter. A doe carrying a hybrid may even [miscarry one kid while still carrying another](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/), making the pregnancy unpredictable. The parent animals can also face complications during pregnancy and delivery because the fetus may develop abnormally.
 
 ## What is the life expectancy of a geep?
 
@@ -88,4 +88,4 @@ Their hybrid genetics make them more vulnerable to health issues over time. Regu
 
 Goat-sheep crossbreeding is biologically possible but extremely unlikely to produce a healthy, living offspring. The chromosome mismatch between the two species (60 vs. 54) is a massive barrier that nature rarely overcomes.
 
-If you keep goats and sheep on the same property, separate intact males from the opposite species during breeding season. A good fence solves the problem entirely. And if you are curious about geeps, appreciate them from a distance rather than attempting to breed one yourself, because the odds are stacked heavily against a good outcome for the animals involved.
+If you keep goats and sheep on the same property, separate intact males from the opposite species during breeding season. A good fence solves the problem entirely, and understanding [how many babies goats normally have](/how-many-babies-do-goats-have-at-a-time/) helps you plan for legitimate breeding outcomes. And if you are curious about geeps, appreciate them from a distance rather than attempting to breed one yourself, because the odds are stacked heavily against a good outcome for the animals involved.

@@ -45,7 +45,7 @@ Yes, goats have teeth, but their dental setup is nothing like what most people e
 
 Adult goats have 32 teeth total. That includes 8 incisors across the bottom front, a hard dental pad on top where you'd expect upper front teeth, 12 premolars, and 12 molars.
 
-The part that surprises people most is that goats have zero upper incisors and zero canine teeth. Instead of upper front teeth, they have a thick, tough pad of tissue called the dental pad. They press their lower incisors against this pad to rip and tear plants.
+The part that surprises people most is that goats have [no upper front teeth at all](/posts/do-goats-have-top-teeth) and zero canine teeth. Instead of upper front teeth, they have a thick, tough pad of tissue called the dental pad. They press their lower incisors against this pad to rip and tear plants.
 
 ## How many teeth does a newborn goat have?
 
@@ -57,7 +57,7 @@ Those 20 teeth include 8 small sharp incisors on the bottom front and 12 premola
 
 Goats have three types of teeth, each built for their plant-based diet. The 8 incisors on the lower jaw are flat and chisel-shaped for biting off grass and leaves against the dental pad.
 
-The 12 premolars sit behind a gap called the diastema, 3 on each side of both jaws. They break food into smaller pieces. The 12 molars at the very back are the heavy-duty grinders that crush fibrous plant material into a consistency the rumen can process.
+The 12 premolars sit behind a gap called the diastema, 3 on each side of both jaws. They break food into smaller pieces. The 12 molars at the very back are the heavy-duty grinders that crush fibrous plant material into a consistency the [four-chambered rumen system](/posts/how-many-stomachs-do-goats-have) can process.
 
 ## Why are goat's teeth important?
 
@@ -69,17 +69,17 @@ If the back teeth wear unevenly or develop sharp edges, food passes through part
 
 Teeth are one of the biggest factors in how long a goat stays productive. Poor teeth mean less chewing, less nutrition, weight loss, lower milk production, and difficulty maintaining pregnancy.
 
-Older goats with worn or missing teeth often need supplemental feed like soaked hay pellets. If you notice a goat losing weight, dropping cuds, or drooling heavily, check the teeth first.
+Older goats with worn or missing teeth often need supplemental feed like soaked hay pellets. Dental issues can also contribute to [bloat](/posts/can-you-debloat-a-goat) since poorly chewed food ferments abnormally in the rumen. If you notice a goat losing weight, dropping cuds, or drooling heavily, check the teeth first.
 
 ## What are the common diseases of goat's teeth?
 
-Broken teeth happen a lot, especially in goats that chew on fencing or metal feeders. Tooth root abscesses show up as hard lumps along the jawline and usually need veterinary treatment with draining and antibiotics.
+Broken teeth happen a lot, especially in goats that chew on fencing or metal feeders. Their [cloven hooves](/posts/do-goats-have-cloven-hooves) are inspected regularly by most owners, but teeth deserve the same attention. Tooth root abscesses show up as hard lumps along the jawline and usually need veterinary treatment with draining and antibiotics.
 
 Overgrown or uneven molars create sharp points that make chewing painful. A vet can file these down, which is called "floating," to restore a level grinding surface.
 
 ## How to prevent common diseases in goat's teeth?
 
-Feed plenty of long-stem hay and browse. The natural grinding motion keeps molars wearing evenly and incisors at a healthy length.
+Feed plenty of long-stem hay and browse. Keeping parasite loads low through [proper deworming schedules](/posts/can-you-deworm-a-pregnant-goat) also supports overall condition including dental health. The natural grinding motion keeps molars wearing evenly and incisors at a healthy length.
 
 Check your goats' teeth at least twice a year, especially on older animals. Look for missing incisors, jaw lumps, bad breath, or signs of difficulty eating.
 

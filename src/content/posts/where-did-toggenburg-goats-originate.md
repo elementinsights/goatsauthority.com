@@ -53,7 +53,7 @@ They were first imported to the United States in 1893. Swiss farmers bred them i
 
 Toggenburgs are a medium-sized dairy breed, with does weighing around 120 pounds and bucks reaching 150 pounds or more. They produce an average of about 2,000 pounds of milk per lactation.
 
-Their milk runs lower in butterfat than Nubian milk, typically around 3-4%. That makes it better for drinking and fluid milk products than for cheese or butter, though plenty of people use it for both.
+Their milk runs lower in butterfat than Nubian milk, typically around 3-4%. That makes it better for drinking and fluid milk products than for cheese or butter, though plenty of people use it for both. Proper [udder care and teat health](/posts/how-many-teats-do-goats-have) directly impacts how much milk you can collect.
 
 ## What do Toggenburg goats look like?
 
@@ -63,21 +63,21 @@ They also have white ears, white lower legs, and a white triangle on each side o
 
 ## What are the benefits of owning Toggenburg goats?
 
-Toggenburgs are consistent, reliable milkers that hold their production well through the entire lactation. A good doe will give you milk for 10 months or longer without dropping off much.
+Toggenburgs are consistent, reliable milkers that hold their production well through the entire lactation. A good doe [at prime breeding age](/posts/can-you-breed-a-4yr-old-goat) will give you milk for 10 months or longer without dropping off much.
 
-They're also cold-hardy goats that handle winter weather better than most dairy breeds. If you live somewhere with real winters, Toggenburgs will outperform heat-loving breeds like Nubians during the cold months.
+They're also cold-hardy goats that handle winter weather better than most dairy breeds. If you are looking for a meat breed instead of dairy, [Kiko goats from New Zealand](/posts/where-did-kiko-goats-originate) are the top contender. If you live somewhere with real winters, Toggenburgs will outperform heat-loving breeds like Nubians during the cold months.
 
 ## What is the temperament of a Toggenburg goat?
 
 Toggenburgs are active, curious, and sometimes stubborn enough to test your patience. They're the kind of goat that will figure out how to open a gate latch if you give them enough time.
 
-They bond well with their owners and are generally friendly, but they can be pushy with other goats in the herd. First-time goat owners sometimes find their strong personalities a bit much compared to calmer breeds like Saanens.
+They bond well with their owners and are generally friendly, but they can be pushy with other goats in the herd. In [mixed flocks with sheep](/posts/can-you-describe-a-herd-of-sheep-and-goats), Toggenburgs typically end up as the dominant animals. First-time goat owners sometimes find their strong personalities a bit much compared to calmer breeds like Saanens.
 
 ## How to take care of your Toggenburg goats?
 
 Provide quality hay, fresh water, and a loose mineral supplement formulated for dairy goats. Toggenburgs in milk need grain on the milk stand to keep up body condition and production.
 
-Trim hooves every 6-8 weeks, keep their shelter dry and well-ventilated, and deworm based on fecal egg counts rather than on a calendar schedule. Regular veterinary care and CDT vaccinations twice a year round out the basics.
+Trim hooves every 6-8 weeks, keep their shelter dry and well-ventilated, and deworm based on fecal egg counts rather than on a calendar schedule. Keeping good breeding records prevents [accidental inbreeding between relatives](/posts/can-you-breed-a-half-brother-and-sister-goat) as your herd grows. Regular veterinary care and CDT vaccinations twice a year round out the basics.
 
 ## Final Thoughts
 

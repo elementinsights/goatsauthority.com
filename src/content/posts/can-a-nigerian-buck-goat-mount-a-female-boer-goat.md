@@ -48,7 +48,7 @@ This is one of the most common crossbreeding questions I get from goat owners. T
 
 Yes, a Nigerian Dwarf buck can absolutely breed a Boer doe. Both breeds are the same species, Capra aegagrus hircus, so there are zero genetic barriers to producing healthy offspring.
 
-The obvious challenge is the size difference. A Nigerian Dwarf buck weighs 28 to 40 pounds while a Boer doe can tip the scales at 200 pounds or more. Many breeders solve this by placing a small mound of packed dirt or a low platform in the breeding pen so the buck can reach. It sounds funny, but it works.
+The obvious challenge is the size difference. A Nigerian Dwarf buck weighs 28 to 40 pounds while a Boer doe can tip the scales at 200 pounds or more. Make sure you [confirm the doe is in heat](/can-a-goat-get-pregnant-when-not-in-heat/) before attempting the pairing. Many breeders solve this by placing a small mound of packed dirt or a low platform in the breeding pen so the buck can reach. It sounds funny, but it works.
 
 ## What are the results of a Nigerian buck goat and female Boer goat pairing?
 
@@ -58,7 +58,7 @@ These crossbred kids are often vigorous at birth and quick to stand and nurse. B
 
 ## Do Nigerian buck goats make good fathers?
 
-Nigerian Dwarf bucks are eager breeders despite their small size. They are known for being persistent and attentive when a doe is in heat, and they can successfully cover does much larger than themselves.
+Nigerian Dwarf bucks are eager breeders despite their small size. They are known for being persistent and attentive when a doe is in heat, and they can successfully cover does much larger than themselves. If you're wondering whether to [register your Nigerian Dwarf](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/), crossbred offspring won't qualify for purebred papers.
 
 Like most bucks, Nigerian Dwarfs do not play a direct role in raising kids after birth. Their contribution is genetic. They tend to pass along good milk production traits and a friendly temperament, which makes them popular in crossbreeding programs.
 
@@ -70,7 +70,7 @@ Their larger body size means kidding a Nigerian Dwarf cross is typically easy on
 
 ## What are the benefits of a Nigerian buck goat mounting a female boer goat?
 
-The biggest benefit is hybrid vigor. Crossbred kids often show improved hardiness, better disease resistance, and stronger immune systems compared to purebreds. This is a well-documented phenomenon in livestock breeding.
+The biggest benefit is hybrid vigor. Crossbred kids often show improved hardiness, better disease resistance, and stronger immune systems compared to purebreds. This is the opposite of what happens when you [breed half-brothers and sisters](/can-you-breed-a-half-brother-and-sister-goat/), where inbreeding can weaken the offspring. This is a well-documented phenomenon in livestock breeding.
 
 You also get a versatile animal. Nigerian Dwarfs are dairy goats with high butterfat content, while Boers are meat goats known for fast growth. The cross can give you an animal that produces decent milk and has a meatier frame than a purebred Nigerian Dwarf.
 
@@ -78,7 +78,7 @@ You also get a versatile animal. Nigerian Dwarfs are dairy goats with high butte
 
 The risks with this particular cross are low because the doe is the larger breed. The real danger in size-mismatched breeding is the reverse: a large buck breeding a small doe, which can result in kids too big for the doe to deliver safely.
 
-The main practical concern is simply getting the breeding done. The height difference can be frustrating for the buck, and some breeders use artificial insemination instead of natural breeding to avoid the logistical headache.
+The main practical concern is simply getting the breeding done. The height difference can be frustrating for the buck, and some breeders use artificial insemination instead of natural breeding to avoid the logistical headache. A similar size-compatible cross is the [Pygmy nanny with a Nigerian Dwarf billy](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/), which is much easier logistically.
 
 ## What do you call the offspring of a Nigerian buck goat and a female boer goat?
 
@@ -90,7 +90,7 @@ Some goat registries do offer recording services for crossbred animals, which is
 
 These crossbred goats typically live 10 to 15 years with proper care. That is comparable to both parent breeds, and some crossbreds may even outlive their purebred counterparts thanks to hybrid vigor.
 
-Good nutrition, regular deworming, and routine hoof trimming are the basics that keep any goat healthy long-term. Crossbreds are generally hardy animals that do not require any special care beyond what you would give any other goat on your farm.
+Good nutrition, regular deworming, and routine hoof trimming are the basics that keep any goat healthy long-term. Raising goats can even [be a profitable venture](/can-goats-make-money/) whether you're selling crossbred kids or milk. Crossbreds are generally hardy animals that do not require any special care beyond what you would give any other goat on your farm.
 
 ## Final Thoughts
 

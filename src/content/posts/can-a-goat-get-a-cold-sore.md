@@ -52,31 +52,31 @@ What goats do get is orf, also called sore mouth or contagious ecthyma. Orf look
 
 Orf is caused by a parapoxvirus, not a herpesvirus. It spreads through direct contact with infected animals or contaminated equipment like feeders, water buckets, and fencing.
 
-The virus can survive in dried scabs on the ground for months, even through harsh weather. Once orf gets into your herd, it tends to cycle through and hit every goat that hasn't built immunity yet, with kids being the hardest hit.
+The virus can survive in dried scabs on the ground for months, even through harsh weather. Much like how [lice can persist in a herd](/can-goat-lice-go-into-a-dormant-stage/), once orf gets into your herd, it tends to cycle through and hit every goat that hasn't built immunity yet, with kids being the hardest hit.
 
 ## The symptoms of cold sores in goats
 
 The first sign is usually small red bumps around the lips and nostrils. Within a few days, these bumps turn into blisters that break open and form thick, crusty scabs.
 
-Kids can develop sores severe enough to make nursing painful, which leads to weight loss and dehydration. Does nursing infected kids sometimes develop sores on their teats and udder, creating a cycle of reinfection between mother and baby.
+Kids can develop sores severe enough to make nursing painful, which leads to weight loss and dehydration. Providing [electrolytes to baby goats](/can-baby-goats-have-any-electrolytes/) during this time helps prevent dangerous dehydration. Does nursing infected kids sometimes develop sores on their teats and udder, creating a cycle of reinfection between mother and baby.
 
 ## How to treat cold sores in goats
 
 Orf is self-limiting, meaning it runs its course and heals on its own in about 3 to 4 weeks. Keep the sores clean with a dilute chlorhexidine or betadine solution and apply an antibiotic ointment to prevent secondary bacterial infection.
 
-For kids that stop nursing because of mouth pain, you may need to bottle-feed until the sores heal enough for them to latch comfortably. Make sure affected goats can still eat and drink, and soften hay if needed.
+For kids that stop nursing because of mouth pain, you may need to bottle-feed until the sores heal enough for them to latch comfortably. Applying [Neosporin to the surrounding skin](/can-i-put-neosporin-on-my-goats/) can help prevent secondary bacterial infection. Make sure affected goats can still eat and drink, and soften hay if needed.
 
 ## How is a cold sore in goats diagnosed?
 
 Your vet can usually diagnose orf just by looking at it since the crusty, raised scabs in a ring pattern are fairly distinct. If there's any doubt, a lab can test a scab sample to confirm the parapoxvirus.
 
-It's worth getting a diagnosis because orf looks similar to other conditions like ringworm, dermatitis, and actual caprine herpesvirus. Knowing exactly what you're dealing with changes how you manage the outbreak.
+It's worth getting a diagnosis because orf looks similar to other conditions like ringworm, dermatitis, and actual caprine herpesvirus. A vet visit is also a good time to check for [mites](/can-goats-get-mites/) or other skin conditions that might be complicating the picture. Knowing exactly what you're dealing with changes how you manage the outbreak.
 
 ## Prevention tips for avoiding cold sores in goats
 
 A vaccine exists for orf, but it's a live virus vaccine. That means if your herd has never had orf, vaccinating will actually introduce the virus to your property for the first time.
 
-Only vaccinate if orf is already a recurring problem on your farm. Quarantine any new animals for at least 3 weeks before mixing them with your herd, and wear gloves when handling infected goats because orf is zoonotic and can spread to humans through broken skin.
+Only vaccinate if orf is already a recurring problem on your farm. Quarantine any new animals for at least 3 weeks before mixing them with your herd, and wear gloves when handling infected goats because orf is zoonotic and [can spread to humans](/can-a-toddler-catch-a-disease-from-a-baby-goat/) through broken skin.
 
 ## Is a cold sore in goats contagious to humans?
 

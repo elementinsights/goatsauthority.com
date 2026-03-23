@@ -46,7 +46,7 @@ Yes, most pine trees are safe for goats to eat. They'll happily strip bark, chew
 
 White pine, spruce, and fir are all fine for goats. The needles contain vitamin C and provide some fiber, and the act of browsing keeps goats mentally stimulated.
 
-Pine is especially valuable as winter browse when pasture is dormant and other forage is scarce. A few pine branches tossed into the pen give your goats something productive to work on during long cold days.
+Pine is especially valuable as winter browse when pasture is dormant and other forage is scarce. Pair it with [hay cubes](/can-goats-eat-hay-cubes/) for a complete winter feeding program. A few pine branches tossed into the pen give your goats something productive to work on during long cold days.
 
 ## The Ponderosa Pine Exception
 
@@ -54,11 +54,11 @@ This is the critical piece of information every goat owner needs. Ponderosa pine
 
 If you have ponderosa pine on your property, fence your goats completely away from it. This isn't a "moderation" situation -- pregnant does should have zero access to ponderosa pine at any point during gestation.
 
-Other species like Scotch pine and Austrian pine are lower risk, but ponderosa is the one that's genuinely dangerous. Know what's growing on your land before you let your herd browse freely.
+Other species like Scotch pine and Austrian pine are lower risk, but ponderosa is the one that's genuinely dangerous, right alongside [poison hemlock](/can-goats-eat-poison-hemlock/) on the list of deadly plants. Know what's growing on your land before you let your herd browse freely.
 
 ## Benefits of Pine Browse
 
-Pine provides more than just something to chew on. The tannins in pine bark and needles may help with internal parasite control, which is a constant battle for goat owners.
+Pine provides more than just something to chew on, much like [honeysuckle](/can-goats-eat-honeysuckle/) and other preferred browse plants. The tannins in pine bark and [needles](/can-goats-eat-pine-needles/) may help with internal parasite control, which is a constant battle for goat owners.
 
 The vitamin C in pine needles gives a small immune boost, and the fiber content supports healthy rumen function. Pine bark also helps wear down teeth naturally, which keeps them from getting overgrown.
 
@@ -68,7 +68,7 @@ Beyond nutrition, pine browse is one of the best boredom busters you can offer. 
 
 Think of pine as a supplemental browse, not a primary feed source. One or two small branches per goat per week is a reasonable amount.
 
-Too many pine needles at once can irritate the digestive tract, thanks to the resin and aromatic oils they contain. Signs of overconsumption include loss of appetite, greenish diarrhea, and a turpentine smell on the goat's breath.
+Too many pine needles at once can irritate the digestive tract, thanks to the resin and aromatic oils they contain. Offer [alfalfa](/can-goats-eat-alfalfa/) or timothy hay as the dietary foundation to keep pine as a supplement. Signs of overconsumption include loss of appetite, greenish diarrhea, and a turpentine smell on the goat's breath.
 
 If you notice any of those symptoms, pull your goat off pasture with pine access and call your vet. Most goats naturally self-regulate and won't eat enough pine to cause trouble, but it's good to keep an eye on things.
 
@@ -78,7 +78,7 @@ Here's the flip side of this equation. Goats will absolutely kill a pine tree if
 
 They'll strip the bark right down to the cambium layer, which is fatal to the tree. If you want to keep your pine trees alive, fence them off with a ring of woven wire about three feet out from the trunk.
 
-You can still cut branches and offer them to your goats as browse. This way you control the amount, protect the trees, and keep your herd happy all at the same time.
+You can still cut branches and offer them to your goats as browse alongside [maple leaves](/can-goats-eat-maple-leaves/) and other safe trimmings. This way you control the amount, protect the trees, and keep your herd happy all at the same time.
 
 ## Final Thoughts
 

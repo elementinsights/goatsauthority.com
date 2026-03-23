@@ -44,7 +44,7 @@ Yes, powdered goat milk works well for sick kids that can't nurse from their dam
 
 Powdered goat milk like Meyenberg is a solid option for sick kids that have been rejected by their mother, are too weak to nurse, or whose dam isn't producing enough milk. It's closer in composition to what the kid would naturally be drinking.
 
-Cow-based milk replacers can be hard on a compromised kid's gut. Powdered goat milk is gentler and more digestible, which matters a lot when you're dealing with a baby that's already struggling.
+Cow-based milk replacers can be hard on a compromised kid's gut. You can also [use regular whole cow milk in a pinch](/can-i-use-regular-milk-to-feed-a-baby-goat), but powdered goat milk is gentler and more digestible, which matters a lot when you're dealing with a baby that's already struggling.
 
 ## What is powdered goat milk and what are its benefits for sick baby goats?
 
@@ -54,7 +54,7 @@ The fat globules in goat milk are naturally smaller than those in cow's milk, wh
 
 ## How to determine if your goat needs powdered goat milk?
 
-A kid that won't nurse, can't stand to reach the udder, or has been rejected by its dam needs supplemental feeding right away. If the kid's mouth feels cold to the touch, that's a sign its body temperature has dropped and it needs warming before you even try to feed.
+A kid that won't nurse, can't stand to reach the udder, or has been rejected by its dam needs supplemental feeding right away. Goats that [die in cold weather](/can-goats-die-in-cold-weather) are often kids that got chilled and stopped nursing. If the kid's mouth feels cold to the touch, that's a sign its body temperature has dropped and it needs warming before you even try to feed.
 
 Watch for sunken eyes, a tucked-up belly, and lethargy. These are signs of dehydration and hunger that tell you the kid isn't getting enough milk on its own.
 
@@ -62,17 +62,17 @@ Watch for sunken eyes, a tucked-up belly, and lethargy. These are signs of dehyd
 
 Follow the mixing directions on the package. For Meyenberg, the standard ratio is about one cup of powder to three cups of warm water, but always check the label for exact measurements.
 
-Warm the mixed milk to about 101 degrees Fahrenheit, which is close to a goat's natural body temperature. Use a Pritchard nipple on a bottle, as these work better for goat kids than the nipples that come with most lamb feeding kits.
+Warm the mixed milk to about 101 degrees Fahrenheit, which is close to a goat's natural body temperature. You can also [mix goat milk replacer with cow milk](/can-i-mix-goat-milk-replacer-with-cow-milk) to stretch your supply during a long bottle-feeding season. Use a Pritchard nipple on a bottle, as these work better for goat kids than the nipples that come with most lamb feeding kits.
 
 ## The right dosage of powdered goat milk to give a sick baby goat
 
 A newborn kid needs about two to three ounces every two to three hours for the first few days. As the kid gets stronger, you can gradually increase the amount and stretch the time between feedings.
 
-For very weak kids, add a dose of Nutri-Drench to the first few feedings for an energy boost. If the kid is too weak to suckle from a bottle, you'll need to tube feed, so have your vet show you how to do this safely before you're in an emergency.
+For very weak kids, add a dose of Nutri-Drench to the first few feedings for an energy boost. If the kid is too weak to suckle from a bottle, you'll need to [tube feed](/can-i-use-kid-feeding-tube-to-drench-adult-goat), so have your vet show you how to do this safely before you're in an emergency.
 
 ## Tips on keeping your sick baby goat hydrated
 
-Dehydration kills sick kids faster than almost anything else. Offer an electrolyte solution like Sav-A-Kid between milk feedings to keep fluid levels up.
+Dehydration kills sick kids faster than almost anything else. You can [syringe-feed water or electrolytes](/can-i-give-a-sick-goat-water-through-a-syringe) to a kid that won't drink on its own. Offer an electrolyte solution like Sav-A-Kid between milk feedings to keep fluid levels up.
 
 If a kid's skin stays tented when you pinch it (the skin on the neck is easiest to check), it's dehydrated and needs fluids immediately. In severe cases, your vet can give subcutaneous fluids to get hydration levels back up fast.
 

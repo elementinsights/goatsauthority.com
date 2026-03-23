@@ -50,7 +50,7 @@ Prunes, which are just dried plums, are also safe in small amounts. They're high
 
 ## Always Remove the Pit
 
-Plum pits contain amygdalin, the same compound found in cherry and peach pits. When digested, amygdalin breaks down into cyanide, which is toxic to goats.
+Plum pits contain amygdalin, the same compound found in cherry and [peach](/can-goats-eat-peaches/) pits. When digested, amygdalin breaks down into cyanide, which is toxic to goats.
 
 One pit probably won't cause a crisis, but it's a choking hazard on top of the cyanide risk. The pits are hard enough to crack teeth and large enough to cause a blockage.
 
@@ -68,7 +68,7 @@ If you have plum trees near your goat pasture, clean up fallen branches immediat
 
 If your plum tree drops fruit into the pasture, you've got a potential problem. Goats will eat every fallen plum they can find, and that much sugar hitting the rumen at once can cause bloat.
 
-Fermenting fruit on the ground can also produce enough alcohol to make goats sick. A goat that's eaten too many fallen plums may act disoriented, bloated, or refuse to eat hay.
+Fermenting fruit on the ground can also produce enough alcohol to make goats sick, a risk that applies to all fallen fruit from [grapes](/can-goats-eat-grapes/) to apples. A goat that's eaten too many fallen plums may act disoriented, bloated, or refuse to eat hay.
 
 Either fence off the tree during fruiting season or pick up fallen fruit daily. Controlled portions are fine, but a goat buffet of fallen plums is asking for trouble.
 
@@ -76,11 +76,11 @@ Either fence off the tree during fruiting season or pick up fallen fruit daily. 
 
 Plums bring some real nutrition as a treat. The vitamin C supports immune function, vitamin A is good for eye and skin health, and potassium helps with muscle function.
 
-The fiber content supports healthy digestion, and the natural antioxidants in the dark skin can help reduce inflammation. For a fruit treat, plums rank well above many other options.
+The fiber content supports healthy digestion, and the natural antioxidants in the dark skin can help reduce inflammation, similar to the benefits of [blueberries](/can-goats-eat-blueberries/) and blackberries. For a fruit treat, plums rank well above many other options.
 
-As always, treats are supplements, not a substitute for hay, browse, and proper minerals. A couple of plums a few times a week is the sweet spot.
+As always, treats are supplements, not a substitute for [hay](/what-kind-of-hay-do-goats-eat/), browse, and proper minerals. A couple of plums a few times a week is the sweet spot.
 
-Kids and older goats both enjoy plums, but cut them into smaller pieces for young goats to reduce any choking risk. Introduce plums gradually if your goats haven't tried them before, and watch for any digestive changes over the first day or two.
+Kids and older goats both enjoy plums, but cut them into smaller pieces for young goats to reduce any choking risk. Introduce plums gradually if your goats haven't tried them before, just as you would with [watermelon](/can-goats-eat-watermelon/) or oranges, and watch for any digestive changes over the first day or two.
 
 ## Final Thoughts
 

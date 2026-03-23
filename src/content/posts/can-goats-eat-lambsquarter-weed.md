@@ -47,11 +47,11 @@ This weed is not toxic and poses no danger when eaten as part of a normal varied
 
 ## What is lambsquarter and why do goats love it?
 
-Lambsquarter is a common weed found across North America and Europe. It is related to quinoa and spinach, which tells you something about its nutritional value right off the bat.
+Lambsquarter is a common weed found across North America and Europe. It is related to quinoa and [spinach](/can-goats-eat-spinach/), which tells you something about its nutritional value right off the bat.
 
 The leaves are tender and easy to chew, which makes them appealing to goats of all ages. All parts of the plant are edible, from the leaves and stems to the flowers and seeds.
 
-Most goats will seek out lambsquarter before they touch the grass around it. The plant thrives in disturbed soil, garden edges, and open fields, so you will likely find plenty of it without even trying to grow it.
+Most goats will seek out lambsquarter before they touch the grass around it, right alongside [honeysuckle](/can-goats-eat-honeysuckle/) as a preferred browse. The plant thrives in disturbed soil, garden edges, and open fields, so you will likely find plenty of it without even trying to grow it.
 
 ## Nutritional benefits of lambsquarter for goats
 
@@ -59,11 +59,11 @@ Lambsquarter packs a serious nutritional punch for a weed. The leaves are rich i
 
 It is also a surprisingly good source of protein compared to most pasture weeds. The fiber content helps keep digestion moving smoothly, which is always a plus for ruminants.
 
-The calcium and phosphorus support strong bones and healthy milk production in does. Iron helps prevent anemia, especially in younger animals or those recovering from a heavy parasite load.
+The calcium and phosphorus support strong bones and healthy milk production in does, similar to the minerals found in [alfalfa](/can-goats-eat-alfalfa/). Iron helps prevent anemia, especially in younger animals or those recovering from a heavy parasite load.
 
 ## Risks to watch for
 
-Lambsquarter contains oxalates, similar to spinach. In small to moderate amounts this is not a problem, but if a goat ate nothing but lambsquarter for days on end the oxalates could bind calcium and cause kidney trouble.
+Lambsquarter contains oxalates, similar to spinach. In small to moderate amounts this is not a problem, but if a goat ate nothing but lambsquarter for days on end the oxalates could bind calcium and cause kidney trouble. This is nothing like the dangers of truly toxic plants such as [onions](/can-goats-eat-onions/) or poison hemlock.
 
 The plant can also accumulate nitrates from the soil, particularly after heavy fertilization. High nitrate levels can cause breathing difficulty and weakness if goats consume large quantities in a short period.
 
@@ -75,7 +75,7 @@ There is no strict limit, but a reasonable guideline is to keep lambsquarter at 
 
 In practice, most goats self-regulate just fine when they have access to mixed pasture. They will eat some lambsquarter, move on to other browse, and come back to it later.
 
-If you are hand-feeding it, offer a couple of handfuls per goat and let them have their hay and grain as usual. You can also mix fresh-cut lambsquarter into their hay feeder for added variety.
+If you are hand-feeding it, offer a couple of handfuls per goat and let them have their [hay](/what-kind-of-hay-do-goats-eat/) and grain as usual. You can also mix fresh-cut lambsquarter into their hay feeder for added variety alongside [dandelion greens](/can-goats-eat-dandelions/).
 
 ## Final Thoughts
 

@@ -47,7 +47,7 @@ Store-bought and homegrown zucchini are both fine to feed. Here is what you need
 
 ## Can goats eat zucchini?
 
-Yes, goats can eat zucchini including the skin and seeds. It is a summer squash that provides vitamins A and C, potassium, and copper, all wrapped in a low-calorie, high-water package.
+Yes, goats can eat zucchini including the skin and seeds. Like other [squash varieties](/posts/can-goats-eat-squash), it is a summer squash that provides vitamins A and C, potassium, and copper, all wrapped in a low-calorie, high-water package.
 
 You do not need to peel it or scoop out the seeds before offering it. Just slice it into chunks and let your goats go to town.
 
@@ -55,7 +55,7 @@ You do not need to peel it or scoop out the seeds before offering it. Just slice
 
 Pregnant does can eat zucchini safely. It is mostly water with some vitamins, so it makes a light, hydrating treat during pregnancy.
 
-It should not replace the higher-calorie, nutrient-dense feeds that pregnant goats need though. Keep zucchini as a supplement alongside quality hay, grain, and a good mineral program to support the demands of pregnancy.
+It should not replace the higher-calorie, nutrient-dense feeds that pregnant goats need though. Keep zucchini as a supplement alongside quality [hay](/posts/what-kind-of-hay-do-goats-eat), grain, and a good mineral program to support the demands of pregnancy.
 
 ## Can a baby goat eat zucchini?
 
@@ -67,13 +67,13 @@ Start with just a small piece or two and watch how they handle it. Their rumen i
 
 Not all of them. Goats have individual preferences just like people do, and some will walk right past a zucchini without a second look.
 
-If your goat is not interested, do not worry about it. Offer other safe treats like carrots, apples, or pumpkin instead.
+If your goat is not interested, do not worry about it. Offer other safe treats like [carrots](/posts/can-goats-eat-carrots), [apples](/posts/can-goats-eat-apples), or [pumpkin](/posts/can-goats-eat-pumpkin) instead.
 
 ## What are the benefits of feeding zucchini to goats?
 
 The biggest benefit is hydration. Zucchini is about 95 percent water, which makes it a fantastic supplemental moisture source during hot summer months.
 
-It also provides fiber, vitamins A and C, and potassium without adding many calories. On scorching afternoons when your goats are less interested in the water trough, a few cold zucchini chunks can help bridge the gap.
+It also provides fiber, vitamins A and C, and potassium without adding many calories, making it similar to [watermelon](/posts/can-goats-eat-watermelon) as a hydration treat. On scorching afternoons when your goats are less interested in the water trough, a few cold zucchini chunks can help bridge the gap.
 
 ## What are the risks of feeding zucchini to goats?
 
@@ -91,7 +91,7 @@ If everything looks normal, gradually increase the amount over the next week. Th
 
 About half a pound of zucchini per adult goat is a reasonable serving size. Smaller breeds and kids should get less.
 
-You can offer zucchini a few times per week as part of a rotation with other vegetable treats. Those giant overgrown zucchinis that are too tough for your dinner table are perfect for your goats since they do not care about tenderness.
+You can offer zucchini a few times per week as part of a rotation with other vegetable treats like [cucumbers](/posts/can-goats-eat-cucumbers) and [sweet potatoes](/posts/can-goats-eat-sweet-potatoes). Those giant overgrown zucchinis that are too tough for your dinner table are perfect for your goats since they do not care about tenderness.
 
 ## Final Thoughts
 

@@ -42,7 +42,7 @@ Every goat owner has dealt with lice at some point. You treat your herd in winte
 
 Goat lice don't truly go dormant the way some insects do, but their populations drop so low in summer that they seem to vanish. A few stragglers hang on in the coat, barely reproducing, and then explode in numbers once the conditions favor them again.
 
-So while calling it "dormancy" isn't technically accurate, the practical result is the same. The lice appear to go away and then come back, which catches a lot of new goat owners off guard.
+So while calling it "dormancy" isn't technically accurate, the practical result is the same. The lice appear to go away and then come back, which catches a lot of new goat owners off guard. Many owners also worry about [whether goat lice can live on humans](/can-goat-lice-live-on-humans), but thankfully they are species-specific parasites.
 
 ## Why lice populations cycle with the seasons
 
@@ -54,21 +54,21 @@ By late spring, goats shed their winter coats and spend more time in direct sunl
 
 There are two types of lice that affect goats, and knowing which one you're dealing with changes how you treat them. Biting lice feed on dead skin, hair, and surface debris. They cause intense itching and rough, damaged coats, but they don't drain blood.
 
-Sucking lice pierce the skin and feed on blood directly. These are the dangerous ones. A heavy sucking lice load can cause anemia — you'll see pale mucous membranes inside the lower eyelid when you pull it down for a FAMACHA check. Young kids and already-weak goats can die from a severe sucking lice infestation.
+Sucking lice pierce the skin and feed on blood directly. These are the dangerous ones. A heavy sucking lice load can cause anemia — you'll see pale mucous membranes inside the lower eyelid when you pull it down for a FAMACHA check. Young kids and already-weak goats can die from a severe sucking lice infestation, and severe anemia can even lead to [strokes in goats](/can-goats-have-a-stroke-anemia).
 
 ## What are the symptoms of a goat lice infestation?
 
 Excessive scratching is the first sign you'll notice. Goats rubbing against fence posts, walls, and feeders more than usual are telling you something's bugging them — literally.
 
-Look for bald patches, scabs, and rough-looking coats, especially around the neck, shoulders, and along the topline. Weight loss and lethargy show up in heavy infestations. If you part the hair near the skin, you can often see the lice crawling around or spot the nits (eggs) glued to hair shafts.
+Look for bald patches, scabs, and rough-looking coats, especially around the neck, shoulders, and along the topline. Weight loss and lethargy show up in heavy infestations. If you part the hair near the skin, you can often see the lice crawling around or spot the nits (eggs) glued to hair shafts. Goats can also develop [mite infestations](/can-goats-get-mites) with similar symptoms, so getting a proper diagnosis matters.
 
 ## How can you treat an infestation of goat lice?
 
-Permethrin dust is the go-to topical treatment for biting lice. Work it into the coat along the back, neck, and belly. For sucking lice, injectable ivermectin is more effective since it gets into the bloodstream where the sucking lice feed.
+Permethrin dust is the go-to topical treatment for biting lice. Work it into the coat along the back, neck, and belly. For sucking lice, injectable ivermectin is more effective since it gets into the bloodstream where the sucking lice feed. Learn more about [using ivermectin pour-on for sheep and goats](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) before choosing your deworming approach.
 
 No matter which treatment you use, you need to treat twice — once now, and again 10 to 14 days later. The first treatment kills the adults and nymphs, but it won't kill the eggs. The second round catches the newly hatched lice before they can lay eggs of their own.
 
-Clean the bedding in the barn after each treatment. Lice can survive off the host for a short time, and dirty bedding becomes a reinfection source.
+Clean the bedding in the barn after each treatment. Lice can survive off the host for a short time, and dirty bedding becomes a reinfection source. Lice problems are worse in winter when goats have thick coats and are [kept outside in cold weather](/can-goats-be-outside-in-winter) with limited shelter.
 
 ## Final Thoughts
 

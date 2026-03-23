@@ -46,7 +46,7 @@ Whether you can keep goats in Monroe County depends on exactly where you live wi
 
 The City of Rochester restricts livestock within city limits. If you live inside the city, goats are generally not allowed on residential properties.
 
-Suburban towns like Pittsford, Penfield, Brighton, and Henrietta each have their own zoning rules. Some allow small livestock on larger lots while others prohibit them entirely. The rural towns in the southern and eastern parts of the county tend to be more permissive.
+Suburban towns like Pittsford, Penfield, Brighton, and Henrietta each have their own zoning rules. The same [zoning research applies no matter where you live](/can-i-have-goats-where-i-live). Some allow small livestock on larger lots while others prohibit them entirely. The rural towns in the southern and eastern parts of the county tend to be more permissive.
 
 ## What are the requirements for keeping goats in Monroe County, NY
 
@@ -56,13 +56,13 @@ Some towns require a special use permit or variance for keeping livestock on res
 
 ## What are the benefits of keeping goats in Monroe County, NY?
 
-Goats are versatile animals that can provide milk, meat, fiber, or simply companionship depending on the breed you choose. They're also excellent brush clearers and can help manage overgrown property without chemicals.
+Goats are versatile animals that can provide milk, meat, [fiber](/can-i-grow-goats-for-cashmere-and-angola), or simply companionship depending on the breed you choose. They're also excellent brush clearers and can help manage overgrown property without chemicals.
 
 Monroe County has an active 4-H program with goat projects that can connect you with experienced local breeders and resources. It's a good community to tap into whether you're raising dairy goats, meat goats, or just keeping a couple of pet wethers.
 
 ## Are there any risks associated with keeping goats in Monroe County, NY?
 
-Goats are escape artists, and a loose goat in a suburban neighborhood will eat your neighbor's landscaping and cause problems fast. Noise from bucks in rut or does in heat can also create friction with nearby homeowners.
+Goats are escape artists that [can climb fences](/can-goats-climb-fences) with surprising ease, and a loose goat in a suburban neighborhood will eat your neighbor's landscaping and cause problems fast. Noise from bucks in rut or does in heat can also create friction with nearby homeowners.
 
 Predators are a real concern even in suburban Monroe County. Coyotes are present throughout the area, and an unsecured goat pen is an open invitation. You'll need secure fencing and potentially a livestock guardian animal.
 
@@ -70,7 +70,7 @@ Predators are a real concern even in suburban Monroe County. Coyotes are present
 
 Invest in quality woven wire fencing at least 4 to 5 feet tall. Goats will test every weak spot, so inspect your fence line regularly and reinforce any areas where the wire sags or the posts lean.
 
-Always buy at least two goats because they're herd animals and a single goat will become stressed, loud, and destructive. A lonely goat screaming all day is the fastest way to get a complaint from your neighbors and a visit from code enforcement.
+Always buy at least two goats because they're herd animals and a single goat will become stressed, loud, and destructive. If you're interested in breeding, know [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) so you can plan for growing numbers. A lonely goat screaming all day is the fastest way to get a complaint from your neighbors and a visit from code enforcement.
 
 ## What are the fencing requirements for keeping goats in Monroe County, NY?
 
@@ -80,7 +80,7 @@ Avoid barbed wire since goats get tangled in it and can injure themselves badly.
 
 ## Are there any other options for goat care in Monroe County, NY?
 
-If your zoning doesn't allow goats at home, look into leasing pasture space from a nearby rural landowner. Some towns on the edges of the county have agricultural land available for exactly this kind of arrangement.
+If your zoning doesn't allow goats at home, look into leasing pasture space from a nearby rural landowner. [Wyoming](/can-i-own-a-goat-in-wyoming) and other rural states offer much more relaxed livestock rules if you're willing to relocate. Some towns on the edges of the county have agricultural land available for exactly this kind of arrangement.
 
 The Genesee Valley area has regional livestock auctions, breeders, and farm stores that cater to small ruminant owners. Monroe County 4-H clubs are another strong resource for learning the ropes before you commit to your own herd.
 

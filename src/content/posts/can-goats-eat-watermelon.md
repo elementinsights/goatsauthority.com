@@ -44,11 +44,11 @@ Yes, goats can eat watermelon and most of them go crazy for it. The flesh, rind,
 
 Watermelon is perfectly safe and doubles as a hydration boost since it is about 92% water. On hot days when goats are not drinking enough on their own, a few chunks of watermelon can make a real difference.
 
-The flesh contains vitamins A and C along with some lycopene. None of these are present in huge amounts, but as a treat on top of a hay-based diet, watermelon is a winner.
+The flesh contains vitamins A and C along with some lycopene. None of these are present in huge amounts, but as a treat on top of a [hay-based diet](/posts/what-kind-of-hay-do-goats-eat), watermelon is a winner.
 
 ## What is watermelon and what are its health benefits to goats?
 
-The rind is actually the most nutritious part for goats. It has far less sugar than the pink flesh and contains more fiber, which supports healthy rumen function.
+The rind is actually the most nutritious part for goats, similar to how [pumpkin](/posts/can-goats-eat-pumpkin) skin is perfectly edible for them. It has far less sugar than the pink flesh and contains more fiber, which supports healthy rumen function.
 
 Cut the rind into strips or wedges so the goats can grab them easily. Seeds are fine too. Goats chew thoroughly and pass seeds through their digestive system without any trouble.
 
@@ -56,13 +56,13 @@ Cut the rind into strips or wedges so the goats can grab them easily. Seeds are 
 
 Start with a few small chunks and see how your goats react. Most will dive in immediately, but some are suspicious of new foods and need a couple tries.
 
-Cut it into manageable pieces rather than tossing a whole melon in the pen. Offer it after the goats have already eaten their hay, because filling up on sugary fruit before roughage can upset the rumen.
+Cut it into manageable pieces rather than tossing a whole melon in the pen. Other great summer treats to rotate in include [cucumbers](/posts/can-goats-eat-cucumbers) and [strawberries](/posts/can-goats-eat-strawberries). Offer it after the goats have already eaten their hay, because filling up on sugary fruit before roughage can upset the rumen.
 
 ## Possible dangers of feeding watermelon to goats
 
-The only real danger is overfeeding. Watermelon has more sugar than hay and browse, so too much at once can cause loose stool or bloating. A few slices per goat is plenty.
+The only real danger is overfeeding. Watermelon has more sugar than hay and browse, so too much at once can cause loose stool or bloating. If bloating occurs, knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) is critical. A few slices per goat is plenty.
 
-Never feed moldy or fermented watermelon. A melon that has been sitting in the sun for days can harbor bacteria and mold that cause serious digestive problems. If it smells off, throw it out.
+Never feed moldy or fermented watermelon, just as [moldy hay should always be avoided](/posts/can-goats-eat-moldy-hay). A melon that has been sitting in the sun for days can harbor bacteria and mold that cause serious digestive problems. If it smells off, throw it out.
 
 ## When is the best time to feed watermelon to goats?
 

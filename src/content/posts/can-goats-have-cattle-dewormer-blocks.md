@@ -39,7 +39,7 @@ faq:
   - question: "Are there any risks associated with using cattle dewormer blocks on goats?"
     answer: "The biggest risk is building parasite resistance through consistent underdosing. Once your worm population becomes resistant to a drug class, that drug is useless on your farm permanently. There is also a false sense of security while parasites thrive."
 ---
-Cattle dewormer blocks are tempting because they seem convenient. Just set one out and let the goats lick it when they want. But this approach is a bad idea for goats, and most experienced goat owners and veterinarians will tell you to avoid them.
+Cattle dewormer blocks are tempting because they seem convenient. Just set one out and let the goats lick it when they want. But this approach is a bad idea for goats, and most experienced goat owners and veterinarians will tell you to avoid them. Much like knowing the [right medications to use](/posts/can-benadryl-hurt-a-goat), proper dosing matters enormously with dewormers.
 
 The core problem is that goats metabolize dewormers differently than cattle and need much higher doses to get an effective parasite kill.
 
@@ -59,7 +59,7 @@ For cattle, the slow, steady intake from licking works reasonably well because c
 
 Honestly, there are very few benefits. The only real advantage is convenience for the farmer, but that convenience comes at a steep cost to herd health.
 
-An underdosed goat is worse than an untreated goat in many cases. Subtherapeutic doses of dewormer kill off the weakest parasites while leaving the resistant ones alive to breed. Over time, this creates a population of drug-resistant worms in your pastures that no dewormer can touch. This is how you end up with goats dying from parasites even after treatment.
+An underdosed goat is worse than an untreated goat in many cases. Subtherapeutic doses of dewormer kill off the weakest parasites while leaving the resistant ones alive to breed. The resulting [anemia from resistant worms](/posts/can-goats-have-a-stroke-anemia) can be devastating. Over time, this creates a population of drug-resistant worms in your pastures that no dewormer can touch.
 
 ## Are there any risks associated with using cattle dewormer blocks on goats?
 
@@ -71,11 +71,11 @@ There is also a false sense of security. You might think your goats are being de
 
 The straightforward recommendation is to not use them. Instead, deworm your goats individually using oral or injectable products at goat-specific dose rates.
 
-Goats generally need about twice the cattle dose for most dewormers. Fenbendazole (SafeGuard), for example, is dosed at 5 mg per kg in cattle but needs 10 mg per kg in goats. Ivermectin needs to be given orally to goats at 0.4 mg per kg, double the cattle injectable dose. Always weigh your goats or use a weight tape rather than guessing.
+Goats generally need about twice the cattle dose for most dewormers. Fenbendazole (SafeGuard), for example, is dosed at 5 mg per kg in cattle but needs 10 mg per kg in goats. [Ivermectin](/posts/can-i-use-ivermectin-pour-on-in-sheep-and-goats) needs to be given orally to goats at 0.4 mg per kg, double the cattle injectable dose. Always weigh your goats or use a weight tape rather than guessing.
 
 ## Things you need to consider before using cattle dewormer blocks on goats
 
-Consider whether you actually need to deworm at all. Many experienced goat owners have moved to targeted selective treatment, where only the goats that need deworming get it based on FAMACHA scoring or fecal egg counts.
+Consider whether you actually need to deworm at all. You should also understand the [guidelines for deworming pregnant goats](/posts/can-you-deworm-a-pregnant-goat) before treating does in late gestation. Many experienced goat owners have moved to targeted selective treatment, where only the goats that need deworming get it based on FAMACHA scoring or fecal egg counts.
 
 This approach preserves dewormer effectiveness by maintaining a population of drug-susceptible worms on the pasture (called refugia). It is the opposite philosophy from putting out a block and hoping every goat gets enough medication. Work with your vet to develop a parasite management plan that fits your herd.
 
@@ -83,7 +83,7 @@ This approach preserves dewormer effectiveness by maintaining a population of dr
 
 Oral drenching with a syringe is the gold standard for deworming goats. It delivers a precise dose directly into the goat's mouth, ensuring the animal actually receives the full amount.
 
-Injectable dewormers like ivermectin or moxidectin can also be used, though many vets prefer oral administration for goats because oral delivery provides better parasite kill rates in the gut. Pasture rotation, avoiding overgrazing, and using the FAMACHA eyelid color chart to identify which goats actually need treatment are all part of a solid parasite management program.
+Injectable dewormers like ivermectin or moxidectin can also be used, though many vets prefer oral administration for goats because oral delivery provides better parasite kill rates in the gut. Pasture rotation, avoiding overgrazing, keeping [hoof rot](/posts/can-hoof-rot-kill-a-goat) in check, and using the FAMACHA eyelid color chart to identify which goats actually need treatment are all part of a solid herd management program.
 
 ## Final thoughts
 

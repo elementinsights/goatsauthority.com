@@ -44,7 +44,7 @@ The difference comes down to stocking rate, grazing rotation, and how much veget
 
 Goats contribute to slope failure when they overgraze vegetation that holds soil in place. Once those root systems die off, rain washes loose soil downhill and you get gullies forming fast.
 
-Their hooves also create narrow trails along hillsides. These packed-down paths channel water during storms instead of letting it soak into the ground, which speeds up erosion even more.
+Their hooves also create narrow trails along hillsides. These packed-down paths channel water during storms instead of letting it soak into the ground, which speeds up erosion even more. [Tethering goats](/can-goats-be-tethered) concentrates this hoof damage in a small radius, making erosion worse in that specific area.
 
 Sheep and cattle cause similar problems on slopes, but goats tend to concentrate their grazing in specific areas rather than spreading out evenly. That concentrated pressure creates bare patches faster than uniform grazing would.
 
@@ -54,7 +54,7 @@ Here is where it gets interesting. Goats are excellent at clearing invasive brus
 
 When goats remove that brush, the native plants get more sunlight and water. Those native grasses and shrubs have root systems that reach several feet deep and hold soil far better than shallow-rooted weeds ever could.
 
-Municipalities across the western U.S. Hire goat herds specifically for slope management and wildfire fuel reduction. The goats eat the brush, native plants rebound, and the hillside stabilizes over the following growing season.
+Municipalities across the western U.S. Hire goat herds specifically for slope management and wildfire fuel reduction. The goats eat the brush, native plants rebound, and the hillside stabilizes over the following growing season. [Tying goats for selective area grazing](/can-goats-be-tied-up-for-selective-area-grazing) is one method for targeting specific brush patches on slopes.
 
 A well-managed goat herd on a brushy slope actually leaves the land in better shape than it was before. The key word there is well-managed.
 
@@ -64,7 +64,7 @@ The number of goats per acre makes or breaks your slope management. Too many goa
 
 For sloped pastures, run fewer animals per acre than you would on flat ground. A steep hillside might handle half the stocking rate of a similar-sized flat pasture. If you start seeing bare patches forming, you have too many goats on too little land and need to pull some off immediately.
 
-Watch the ground after rainstorms for signs of erosion channels forming. Small rills in the soil are your early warning system that the slope is losing ground cover faster than it can recover.
+Watch the ground after rainstorms for signs of erosion channels forming. Small rills in the soil are your early warning system that the slope is losing ground cover faster than it can recover. [Goat urine buildup](/can-goat-urine-kill-trees) compounds the damage by killing vegetation around shade trees where goats congregate.
 
 ## Rotational grazing is the key
 
@@ -72,7 +72,7 @@ Rotational grazing is the single best tool for managing goats on hillsides. Divi
 
 A solid rule of thumb is to move goats before they graze vegetation below 3 to 4 inches. As long as you see green stubble, the roots are healthy enough to hold the soil together through a rainstorm.
 
-Temporary electric fencing makes this easy and inexpensive to set up. You can create 4 to 6 paddocks on a hillside and cycle through them, giving each section 3 to 4 weeks of rest before the goats come back.
+Temporary electric fencing makes this easy and inexpensive to set up. You can create 4 to 6 paddocks on a hillside and cycle through them, giving each section 3 to 4 weeks of rest before the goats come back. Running [goats alongside cows](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting) in rotational paddocks distributes grazing pressure more evenly.
 
 ## Repairing slopes goats have already damaged
 
@@ -80,7 +80,7 @@ If your goats have already caused erosion, plant deep-rooted species like native
 
 Fence goats off newly planted areas for at least one full growing season. Use temporary electric fencing to block access until the root systems are strong enough to handle grazing pressure again.
 
-Laying down straw or jute netting on bare spots helps hold the soil while new plants get established. Without some kind of cover, the next heavy rain will wash away your seeds before they have a chance to sprout.
+Laying down straw or jute netting on bare spots helps hold the soil while new plants get established. Without some kind of cover, the next heavy rain will wash away your seeds before they have a chance to sprout. Any area with goats also needs a [goat bite-proof fence](/can-goats-bite) to keep them from destroying newly planted vegetation.
 
 ## Final Thoughts
 

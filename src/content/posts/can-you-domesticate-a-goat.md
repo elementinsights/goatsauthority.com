@@ -54,17 +54,17 @@ Bottle-fed kids become as friendly as dogs within days. They bond to whoever fee
 
 Taming an adult feral or wild-caught goat takes real patience. Start by keeping the goat in a small pen where it cannot run far from you. Sit quietly in the pen every day without making sudden movements or trying to grab the animal.
 
-Offer treats by hand, things like raisins, apple slices, or animal crackers. Let the goat come to you on its own terms. Some adults tame up within a few weeks, while others take months. A few never fully trust people, and you have to accept that possibility going in.
+Offer treats by hand, things like raisins, apple slices, or animal crackers. Once a goat trusts you, it can even learn to [love humans deeply](/posts/can-goats-love-humans). Let the goat come to you on its own terms. Some adults tame up within a few weeks, while others take months. A few never fully trust people, and you have to accept that possibility going in.
 
 ## What are the benefits of domesticating a goat?
 
 Goats are intelligent, social animals that form strong bonds with their owners. Once a goat trusts you, it will follow you around the property, come when called, and genuinely enjoy your company.
 
-They are also practical animals. Goats clear brush, produce milk, and provide natural weed control. Many goat owners train their animals to walk on a lead, jump on a milk stand, or even carry packs on hiking trails. The bond you build through that training is rewarding for both you and the goat.
+They are also practical animals. Goats clear brush, produce milk, and provide natural weed control. With patience, some owners have even [tamed previously wild goats](/posts/can-goats-be-tamed) that were never handled as kids. Many goat owners train their animals to walk on a lead, jump on a milk stand, or even carry packs on hiking trails. The bond you build through that training is rewarding for both you and the goat.
 
 ## Are there any risks to domesticating a goat?
 
-Goats are escape artists. They will test every fence, gate, and latch you put up. If there is a weakness anywhere in your setup, they will find it within the first few days.
+Goats are escape artists that can even [climb trees](/posts/can-a-goat-climb-trees) when motivated. They will test every fence, gate, and latch you put up. If there is a weakness anywhere in your setup, they will find it within the first few days.
 
 Feral or untamed goats can also cause injury with their hooves and horns if they panic. Handle them calmly, use slow movements, and never corner a scared goat. Give them space to retreat and they will calm down faster than if you try to force contact.
 
@@ -76,9 +76,9 @@ Check your local zoning laws before bringing a goat home. Some municipalities re
 
 ## What type of training can I do with my goat?
 
-Goats respond well to food-based training. Keep treats in your pocket and reward behaviors you want to encourage, like jumping on the milk stand, following on a lead, or standing still for hoof trimming.
+Goats respond well to food-based training, and [dogs and goats can become friends](/posts/can-goats-and-dogs-be-friends) when introduced properly. Keep treats in your pocket and reward behaviors you want to encourage, like jumping on the milk stand, following on a lead, or standing still for hoof trimming.
 
-Most goats learn basic commands within a few sessions. They are food-motivated animals and they catch on quickly when a specific action earns them something tasty. Consistency matters more than anything. Work with your goat for ten minutes a day rather than one long session per week.
+Most goats learn basic commands within a few sessions. Young kids can even be [house trained](/posts/can-baby-goats-be-house-trained) to some degree. They are food-motivated animals and they catch on quickly when a specific action earns them something tasty. Consistency matters more than anything. Work with your goat for ten minutes a day rather than one long session per week.
 
 ## Final Thoughts
 

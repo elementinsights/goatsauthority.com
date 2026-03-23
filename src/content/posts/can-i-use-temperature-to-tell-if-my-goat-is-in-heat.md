@@ -52,35 +52,35 @@ The temperature fluctuations that do occur during estrus overlap with normal dai
 
 This is where a lot of confusion comes from. We are talking about the goat's internal body temperature, not the air temperature outside. A doe in heat may run slightly above her normal baseline, maybe half a degree or so, but this is not consistent enough across individual animals to be useful.
 
-If you want to track temperature for breeding purposes, take your doe's rectal temperature at the same time every morning for at least two full cycles. You might spot a slight pattern, but you will still need to rely on behavioral signs to confirm what you are seeing.
+If you want to track temperature for breeding purposes, take your doe's rectal temperature at the same time every morning for at least two full cycles. You might spot a slight pattern, but you will still need to rely on behavioral signs to confirm what you are seeing. Understanding [whether a goat can get pregnant when not in heat](/can-a-goat-get-pregnant-when-not-in-heat) also helps you interpret what you are observing.
 
 ## What are some of the signs that a goat is in heat?
 
 Behavioral signs are far more reliable than a thermometer. Tail flagging is the classic giveaway, where the doe wags her tail rapidly and almost constantly. She may also become unusually vocal, bleating loudly and frequently throughout the day.
 
-Look for a swollen, slightly reddened vulva and a clear or whitish mucus discharge. Many does will stand at the fence closest to the buck pen, and some will mount other does. A decreased appetite during heat is common too. The single most reliable detection method is using a buck or teaser buck with a marking harness.
+Look for a swollen, slightly reddened vulva and a clear or whitish mucus discharge. Many does will stand at the fence closest to the buck pen, and some will mount other does. If you are running [a Nigerian buck with a Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat), these behavioral cues become even more important to watch for. A decreased appetite during heat is common too. The single most reliable detection method is using a buck or teaser buck with a marking harness.
 
 ## Are there risks associated with breeding goats?
 
 Every breeding carries some risk. Injuries during mating can happen, especially with an aggressive buck or a doe that is not truly in standing heat. Pregnancy brings its own set of concerns, including toxemia, hypocalcemia, and kidding complications.
 
-The best way to minimize risk is to breed healthy, well-conditioned animals at the right time. Make sure your doe is at a good body weight, up to date on vaccinations, and has a low parasite load before breeding season starts.
+The best way to minimize risk is to breed healthy, well-conditioned animals at the right time. Make sure your doe is at a good body weight, up to date on vaccinations, and has a low parasite load before breeding season starts. Knowing [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) helps you prepare for the outcome of each breeding.
 
 ## How can you tell if your goat is pregnant or not, based on temperature changes alone?
 
 You really cannot. Temperature is not a reliable pregnancy indicator in goats. Some breeders claim a slight temperature rise around day 21 if the doe did not settle, but this is anecdotal and inconsistent.
 
-The most practical method for confirming pregnancy is to watch for a return to heat. If the doe does not come back into heat 18 to 21 days after breeding, there is a good chance she is pregnant. For confirmation, your vet can do an ultrasound as early as 30 days or a blood test for pregnancy hormones around day 50.
+The most practical method for confirming pregnancy is to watch for a return to heat. If the doe does not come back into heat 18 to 21 days after breeding, there is a good chance she is pregnant. Some breeders wonder [whether goats can store sperm](/can-goats-save-sperm) from a previous encounter, but that is not how goat reproduction works. For confirmation, your vet can do an ultrasound as early as 30 days or a blood test for pregnancy hormones around day 50.
 
 ## Can you use a thermometer to determine when your goat is ready to give birth?
 
 This is actually one area where temperature monitoring does work. In the final 24 hours before kidding, a doe's temperature typically drops below 101 degrees Fahrenheit. This drop is a well-known predictor of imminent labor.
 
-Start taking her temperature twice daily when she gets close to her due date. A consistent drop of a degree or more from her normal baseline, combined with loose ligaments at the tail head and a tight udder, means kids are on the way soon.
+Start taking her temperature twice daily when she gets close to her due date. A consistent drop of a degree or more from her normal baseline, combined with loose ligaments at the tail head and a tight udder, means kids are on the way soon. If she is overdue and showing no progress, you may need to learn about [inducing labor in goats](/can-an-over-due-goat-be-induced-to-labor).
 
 ## How do you care for a newborn kid goat?
 
-Make sure the kid is breathing and clear any mucus from its nose and mouth right after birth. Dip the navel in iodine to prevent infection, and make sure the kid nurses colostrum within the first hour. That first milk is packed with antibodies that the kid cannot get any other way.
+Make sure the kid is breathing and clear any mucus from its nose and mouth right after birth. Dip the navel in iodine to prevent infection, and make sure the kid nurses colostrum within the first hour. Does that deliver quads may struggle to keep up, so it helps to know [whether a goat can feed quads](/can-a-goat-feed-quads) on her own. That first milk is packed with antibodies that the kid cannot get any other way.
 
 Keep the kidding area clean, dry, and draft-free. In cold weather, a heat lamp hung safely out of reach can help the kid maintain body temperature during its first few days. Watch for signs of weakness, refusal to nurse, or scours in the first week.
 

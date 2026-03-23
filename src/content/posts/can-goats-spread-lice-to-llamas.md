@@ -48,17 +48,17 @@ Both biting lice and sucking lice follow this rule. Goat biting lice (Bovicola c
 
 ## What parasites CAN they share?
 
-While lice aren't a cross-species concern, goats and llamas can share some other parasites when housed together. Mange mites are the most common external parasite that can move between the two species.
+While lice aren't a cross-species concern, goats and llamas can share some other parasites when housed together. [Mange mites](/posts/can-goats-get-mites) are the most common external parasite that can move between the two species.
 
-Internal parasites are actually the bigger worry. The barber pole worm (Haemonchus contortus) thrives in both goats and llamas, and sharing pasture means sharing worm larvae. This is worth monitoring closely, especially during warm, wet weather when worm burdens tend to spike.
+Internal parasites are actually the bigger worry. The barber pole worm (Haemonchus contortus) thrives in both goats and llamas, and sharing pasture means sharing worm larvae. Knowing the [safe deworming protocols for pregnant goats](/posts/can-you-deworm-a-pregnant-goat) is especially important in a mixed herd. This is worth monitoring closely during warm, wet weather when worm burdens tend to spike.
 
-Keep both species on a regular deworming schedule and run fecal egg counts every few months to stay ahead of any problems. Your vet can help you set up a rotation that works for a mixed herd.
+Keep both species on a regular deworming schedule using [proper ivermectin dosing](/posts/can-i-use-ivermectin-pour-on-in-sheep-and-goats) and run fecal egg counts every few months to stay ahead of any problems. Your vet can help you set up a rotation that works for a mixed herd.
 
 ## Treating lice in goats
 
 Signs of lice in goats include excessive scratching, rubbing against fences and posts, dull or patchy coat, and visible crawling insects when you part the hair. Lice are most common in winter when goats have thick coats and are housed in close quarters.
 
-An insecticide pour-on or spray labeled for livestock is the most common treatment. Permethrin-based products work well and are widely available at farm supply stores. Apply according to the label directions and retreat in 10-14 days to catch any lice that hatched after the first treatment.
+An insecticide pour-on or spray labeled for livestock is the most common treatment. Permethrin-based products work well and are widely available at farm supply stores. Keep in mind that [cattle-specific dewormer products](/posts/can-goats-have-cattle-dewormer-blocks) are not always appropriate for goats. Apply according to the label directions and retreat in 10-14 days to catch any lice that hatched after the first treatment.
 
 Dusting powders are another option, especially for smaller herds. Work the powder into the coat thoroughly, paying extra attention to the neck, shoulders, and along the back where lice tend to concentrate.
 
@@ -74,7 +74,7 @@ Shearing before treatment can make products more effective by removing the thick
 
 Whether you're bringing home a new goat or a new llama, a quarantine period is one of the smartest things you can do. Keep any new animal in a separate pen for at least 14 days before introducing them to the rest of your herd.
 
-During that time, check them daily for scratching, bald patches, scabs, and any other skin issues. Run your fingers through their coat, especially around the ears, along the back, and under the belly where parasites tend to congregate.
+During that time, check them daily for scratching, bald patches, scabs, and any other skin issues. Unchecked parasites can lead to [severe anemia](/posts/can-goats-have-a-stroke-anemia) that mimics stroke-like symptoms. Run your fingers through their coat, especially around the ears, along the back, and under the belly where parasites tend to congregate.
 
 After two weeks of looking clean, you can start introducing them through a fence line so the existing animals can adjust without direct physical contact. This simple step can save you from dealing with a full-blown lice outbreak across your entire herd.
 

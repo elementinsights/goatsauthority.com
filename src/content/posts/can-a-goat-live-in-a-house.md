@@ -54,7 +54,7 @@ They also chew everything. Electrical cords, drywall, furniture legs, curtains, 
 
 If you want a goat as a pet, Nigerian Dwarfs and Pygmy goats are the most popular choices because of their small size and friendly personalities. They're easier to handle than full-size breeds and do well on smaller properties.
 
-Even as pets, goats need outdoor space, shelter, and at least one other goat companion. A single goat living alone will be stressed, loud, and destructive. They're herd animals down to their bones and shouldn't be kept solo.
+Even as pets, goats need outdoor space, shelter, and at least one other goat companion. If you're thinking about [buying a goat as a pet](/can-i-buy-a-goat-as-a-pet/), plan for at least two. A single goat living alone will be stressed, loud, and destructive. They're herd animals down to their bones and shouldn't be kept solo.
 
 ## How to train your goat?
 
@@ -66,11 +66,11 @@ Use small treats like raisins or animal crackers and keep training sessions shor
 
 Goats are entertaining and affectionate animals. They'll follow you around the yard, play with your kids, and develop distinct personalities that make them genuinely fun to be around.
 
-They also do a great job clearing brush and weeds from your property. A few goats can strip an overgrown area down to bare ground faster than you'd believe, and they'll have a blast doing it.
+They also do a great job clearing brush and weeds from your property. A few goats can strip an overgrown area down to bare ground faster than you'd believe, and they'll have a blast doing it. You can even [pair them with pygmy goats and dogs](/can-dogs-and-pygmy-goats-live-together/) on the same property if you manage the introductions carefully.
 
 ## What are the risks of owning a goat?
 
-Goats are escape artists. If there's a weak spot in your fence, they'll find it and they'll exploit it. You need sturdy fencing at least four feet tall, and some goats will still test it.
+Goats are escape artists that are skilled at [climbing over fences](/can-goats-climb-fences/). If there's a weak spot in your fence, they'll find it and they'll exploit it. You need sturdy fencing at least four feet tall, and some goats will still test it.
 
 They're also prone to parasites, especially in humid climates. Regular deworming, fecal testing, and pasture management are part of responsible goat ownership. Vet bills for a sick goat can add up quickly if you're not staying on top of preventive care.
 
@@ -84,10 +84,10 @@ Keep a basic goat first aid kit in your barn with electrolytes, a thermometer (n
 
 Goats have rectangular pupils, which give them nearly 340-degree vision. They can see predators approaching from almost any direction without turning their heads.
 
-Some people do use goat diapers for indoor visits, but they need changing every couple of hours and most goats hate wearing them. If you want your goat nearby, an attached barn or covered pen right off the house is always a better long-term setup than inside the living room.
+Some people do use goat diapers for indoor visits, but they need changing every couple of hours and most goats hate wearing them. People in cities sometimes wonder whether [goats can live in an urban environment](/can-goats-live-in-an-urban-environment/), and the answer depends heavily on local zoning. If you want your goat nearby, an attached barn or covered pen right off the house is always a better long-term setup than inside the living room.
 
 ## Final Thoughts
 
 A goat doesn't belong inside your house as a permanent resident. The constant droppings, chewing, and need for outdoor space and sunshine make indoor living a bad fit for both you and the goat.
 
-Bring sick or orphaned kids inside temporarily when they need warmth and bottle feeding. For everything else, give your goats a good shelter, a pasture to roam, and a buddy to hang out with. They'll be happier, and so will your furniture.
+Bring sick or orphaned kids inside temporarily when they need warmth and bottle feeding. Even [8-week-old baby goats do better together](/can-8-week-old-baby-goats-be-in-with-each-other/) in a proper outdoor pen than alone indoors. For everything else, give your goats a good shelter, a pasture to roam, and a buddy to hang out with. They'll be happier, and so will your furniture.

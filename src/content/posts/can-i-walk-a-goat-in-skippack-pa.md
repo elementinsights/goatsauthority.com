@@ -52,7 +52,7 @@ Check Skippack Township's livestock-at-large ordinances before heading out. Most
 
 Skippack is zoned partly agricultural and partly residential. If your property is in an agricultural zone, keeping goats is generally permitted. Residential zones may have minimum lot size requirements or outright restrictions on livestock.
 
-Goats need basic care regardless of where you live: fresh water, hay, shelter from weather, regular hoof trimming, and annual CDT vaccinations. Montgomery County has several large-animal veterinarians who can handle routine goat care and emergencies.
+Goats need basic care regardless of where you live: fresh water, hay, shelter from weather, regular hoof trimming, and annual CDT vaccinations. If you are concerned about [whether a CDT shot can harm a goat](/can-a-cdt-shot-kill-a-goat), the answer is that serious reactions are rare but worth understanding. Montgomery County has several large-animal veterinarians who can handle routine goat care and emergencies.
 
 ## What is the law in Skippack PA concerning goats and walking them in public areas?
 
@@ -68,21 +68,21 @@ Bring treats in your pocket to redirect your goat's attention if it gets spooked
 
 ## What are some things to consider before taking your goat for a walk in Skippack PA?
 
-Make sure your goat is halter-trained before you attempt a public walk. A goat that has never worn a halter will panic and fight the lead, which is stressful for both of you and dangerous near traffic.
+Make sure your goat is halter-trained before you attempt a public walk. A goat that has never worn a halter will panic and fight the lead, which is stressful for both of you and dangerous near traffic. The process is similar to [taming a goat](/can-goats-be-tamed), which requires patience and positive reinforcement.
 
-Check your goat's hooves before heading out because walking on pavement can be uncomfortable if the hooves are overgrown or cracked. Also make sure your goat is current on rabies vaccination, as some municipalities require proof of vaccination for any animal in public spaces.
+Check your goat's hooves before heading out because walking on pavement can be uncomfortable if the hooves are overgrown or cracked. Neglected hooves can also develop [hoof rot, which can become serious](/can-hoof-rot-kill-a-goat) if left untreated. Also make sure your goat is current on rabies vaccination, as some municipalities require proof of vaccination for any animal in public spaces.
 
 ## What are some of the benefits of taking your goat for a walk in Skippack PA?
 
-Walking your goat is great exercise for both of you and it strengthens the bond between owner and animal. Goats that are handled regularly and exposed to new environments become calmer and easier to manage.
+Walking your goat is great exercise for both of you and it strengthens the bond between owner and animal. Goats that are handled regularly and exposed to new environments become calmer and easier to manage. Building this kind of trust is a big part of [whether goats can love humans](/can-goats-love-humans).
 
-It also socializes your goat to traffic, dogs, and strangers, which makes veterinary visits and hoof trims less stressful down the road. Skippack has quiet residential streets and nearby trails along the Perkiomen Creek that are well-suited for a goat walk.
+It also socializes your goat to traffic, dogs, and strangers, which makes veterinary visits and hoof trims less stressful down the road. Some owners even train their goats [to pull a cart](/can-a-goat-pull-a-cart), which takes the bond even further. Skippack has quiet residential streets and nearby trails along the Perkiomen Creek that are well-suited for a goat walk.
 
 ## Are there any risks associated with taking your goat for a walk in Skippack PA?
 
 The biggest risk is your goat eating something toxic along the way. Goats sample everything, and suburban landscapes are full of ornamental plants that are poisonous to livestock.
 
-Dogs running loose are another concern. Even a friendly dog can chase or injure a goat, and a scared goat may pull free from its lead and run into traffic. Stay alert, keep your goat on a short lead, and choose routes where you can see approaching dogs with enough time to react.
+Dogs running loose are another concern. Even a friendly dog can chase or injure a goat, and a scared goat may pull free from its lead and run into traffic. Understanding whether [a fox can kill a goat](/can-a-fox-kill-a-goat) or other predator threats helps you choose safer walking routes. Stay alert, keep your goat on a short lead, and choose routes where you can see approaching dogs with enough time to react.
 
 ## Final Thoughts
 

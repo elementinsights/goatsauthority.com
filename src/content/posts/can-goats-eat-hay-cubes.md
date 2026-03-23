@@ -50,7 +50,7 @@ Hay cubes work well for goats that waste a lot of loose hay by trampling it or d
 
 Hay cubes are simply dried hay that has been chopped and compressed into rectangular blocks, usually about 2 inches square. The compression process preserves the nutritional content of the original hay, so you're not losing vitamins or minerals.
 
-Alfalfa hay cubes run around 15-22% protein, which makes them a solid choice for does in milk or growing kids. Timothy hay cubes come in lower at 8-11% protein, which is better suited for adult wethers and bucks that don't need as much protein in their diet.
+[Alfalfa](/can-goats-eat-alfalfa/) hay cubes run around 15-22% protein, which makes them a solid choice for does in milk or growing kids. [Timothy hay](/can-goats-eat-timothy-hay/) cubes come in lower at 8-11% protein, which is better suited for adult wethers and bucks that don't need as much protein in their diet.
 
 ## Benefits of hay cubes for goats
 
@@ -58,7 +58,7 @@ The biggest advantage is reduced waste. Goats are messy eaters, and loose hay of
 
 Storage is another win. Cubes stack neatly and take up far less barn space than hay bales. They're also easier to haul if you're traveling with goats or don't have a truck for bale pickup.
 
-Hay cubes tend to resist mold better than loose hay because the compression squeezes out air. They still need to be stored in a dry, covered area to stay in good shape. They do cost more per pound than baled hay, but the reduced waste usually makes up for the price difference.
+Hay cubes tend to resist mold better than loose hay because the compression squeezes out air, which means less risk of the [dangers associated with moldy hay](/can-goats-eat-moldy-hay/). They still need to be stored in a dry, covered area to stay in good shape. They do cost more per pound than baled hay, but the reduced waste usually makes up for the price difference.
 
 ## Choking risk and how to prevent it
 
@@ -66,7 +66,7 @@ The main concern with hay cubes is choking, especially with goats that eat fast 
 
 Soaked cubes soften up and break apart easily, which makes them much safer for aggressive eaters. The soaking water turns into a light tea that goats will often drink, which is a sneaky way to get extra hydration into an animal that isn't drinking enough.
 
-During winter, soak the cubes in warm water. Goats appreciate the warmth and tend to eat and drink more during cold weather when intake usually drops.
+During winter, soak the cubes in warm water. Goats appreciate the warmth and tend to eat and drink more during cold weather when intake usually drops. Mixing in a few [oats](/can-goats-eat-oats/) adds extra energy during the coldest months.
 
 ## Hay cubes vs. Hay pellets
 
@@ -74,10 +74,10 @@ These two feeds look similar but they're not the same thing. Cubes are larger ch
 
 Pellets are much smaller and get eaten quickly without much jaw work. They pass through the rumen faster and may not provide the same long-stem fiber benefit that goats need for proper digestion.
 
-If you have the choice, cubes are generally the better option for adult goats as a primary roughage source. Pellets work fine as a supplement but shouldn't replace loose hay or cubes entirely.
+If you have the choice, cubes are generally the better option for adult goats as a primary roughage source. You can also supplement with [straw](/can-goats-eat-straw/) for bedding and light roughage. Pellets work fine as a supplement but shouldn't replace loose hay or cubes entirely.
 
 ## Final Thoughts
 
 Hay cubes are a practical, nutritious feed option for goats of all ages. They offer the same nutrition as loose hay with less waste and easier storage.
 
-Soak them before feeding to prevent choking, and use them alongside browse or pasture when possible. Your goats will do well on them, and your feed bill might even come out ahead once you factor in the hay you're no longer throwing away.
+Soak them before feeding to prevent choking, and use them alongside browse or pasture when possible. Pair them with [sunflower seeds](/can-goats-eat-sunflower-seeds/) for a protein boost during lactation. Your goats will do well on them, and your feed bill might even come out ahead once you factor in the hay you're no longer throwing away.

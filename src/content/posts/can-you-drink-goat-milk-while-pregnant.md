@@ -48,7 +48,7 @@ The key word here is pasteurized. Raw goat milk carries a small risk of Listeria
 
 ## What is goat milk and where does it come from?
 
-Goat milk comes from dairy goat breeds like Nubians, Saanens, and Alpines. Around the world, more people actually drink goat milk than cow milk, especially in Africa, Asia, and the Middle East.
+Goat milk comes from dairy goat breeds like Nubians, Saanens, and Alpines. Does produce this milk through their [two functional teats](/posts/how-many-teats-do-goats-have), and around the world, more people actually drink goat milk than cow milk, especially in Africa, Asia, and the Middle East.
 
 The fat globules in goat milk are smaller than those in cow milk, which is why many people find it easier on the stomach. It also has slightly less lactose, making it a better option for women with mild lactose sensitivity.
 
@@ -56,17 +56,17 @@ The fat globules in goat milk are smaller than those in cow milk, which is why m
 
 Goat milk is rich in calcium and phosphorus, which support your baby’s bone development. It also contains more vitamin A than cow milk, along with potassium and magnesium.
 
-Many pregnant women deal with nausea and digestive issues, especially in the first trimester. Goat milk’s smaller fat particles and softer curd make it gentler on a sensitive stomach than regular cow milk.
+Many pregnant women deal with nausea and digestive issues, especially in the first trimester. The nutritional density of goat milk is partly because the goat’s [four-chamber stomach system](/posts/how-many-stomachs-do-goats-have) extracts so much from plant fiber. Goat milk’s smaller fat particles and softer curd make it gentler on a sensitive stomach than regular cow milk.
 
 ## Are there any risks associated with drinking goat milk?
 
-The biggest risk is drinking it raw. Unpasteurized goat milk can harbor bacteria like Listeria monocytogenes, which causes listeriosis and can lead to miscarriage or stillbirth.
+The biggest risk is drinking it raw. Never consume [milk from a goat with mastitis](/posts/can-you-drink-milk-from-goats-with-mastitis) under any circumstances, as it is loaded with bacteria. Unpasteurized goat milk can also harbor bacteria like Listeria monocytogenes, which causes listeriosis and can lead to miscarriage or stillbirth.
 
 One nutritional gap to watch: goat milk is naturally low in folic acid and vitamin B12 compared to cow milk. Folic acid is critical for preventing neural tube defects, so don’t skip your prenatal vitamins just because you’re drinking goat milk.
 
 ## How to incorporate goat milk into your diet while pregnant?
 
-Start with a small glass to see how your body handles it. Some women love the slightly tangy flavor right away, while others prefer to blend it into smoothies with fruit.
+Start with a small glass to see how your body handles it. Healthy goats with [well-maintained udders](/posts/do-goats-have-udders) produce cleaner, better-tasting milk. Some women love the slightly tangy flavor right away, while others prefer to blend it into smoothies with fruit.
 
 Goat milk yogurt and goat cheese are also good options if straight milk isn’t your thing. Just make sure any cheese you eat is made from pasteurized milk, and avoid soft-ripened varieties like chevre until after delivery.
 
@@ -74,7 +74,7 @@ Goat milk yogurt and goat cheese are also good options if straight milk isn’t 
 
 Goat milk is a supplement to your diet, not a replacement for prenatal care. Keep taking your prenatal vitamins, since goat milk alone won’t cover your iron and folic acid needs.
 
-If you have a confirmed dairy allergy (not just lactose intolerance), goat milk proteins are similar enough to cow milk proteins that you may still react. Talk to your doctor before adding any new dairy source during pregnancy.
+If you have a confirmed dairy allergy (not just lactose intolerance), goat milk proteins are similar enough to cow milk proteins that you may still react. Be mindful that [certain diseases can pass between goats and humans](/posts/can-you-catch-diseases-from-goats), so always source from a tested herd. Talk to your doctor before adding any new dairy source during pregnancy.
 
 ## Final Thoughts
 

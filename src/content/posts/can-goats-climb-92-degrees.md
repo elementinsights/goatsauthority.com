@@ -50,25 +50,25 @@ Wild mountain goats can reliably handle inclines up to about 60 degrees, and the
 
 A goat's hoof is split into two toes, and each toe has a hard outer edge with a soft, rubbery inner pad. The hard edge digs into rock and ice for grip while the soft pad conforms to uneven surfaces and provides traction, almost like a hiking boot sole.
 
-They also have a dewclaw higher up on the leg that acts as a brake on steep descents. This combination of hard and soft, plus their low center of gravity, is what lets them move confidently on terrain that would send most animals tumbling.
+They also have a dewclaw higher up on the leg that acts as a brake on steep descents. This combination of hard and soft, plus their low center of gravity, is what lets them move confidently on terrain that would send most animals tumbling. Those same athletic abilities are why [baby goats are nearly impossible to house train](/can-baby-goats-be-house-trained) — they're simply too active and mobile.
 
 ## Wild mountain goats vs domestic goats
 
 Wild mountain goats (Oreamnos americanus) are a different animal from the domestic goats in your barn. They've evolved specifically for steep, rocky alpine environments and can handle terrain that domestic breeds simply can't match.
 
-Domestic goats can still climb steep hillsides, rock piles, and even trees with low-hanging branches. Nigerian Dwarfs, Pygmies, and Alpine breeds are the best climbers among domestic goats, but none of them come close to what a wild mountain goat can do on a sheer cliff face.
+Domestic goats can still climb steep hillsides, rock piles, and even trees with low-hanging branches. Nigerian Dwarfs, Pygmies, and Alpine breeds are the best climbers among domestic goats, but none of them come close to what a wild mountain goat can do on a sheer cliff face. Those same athletic breeds are also the most likely to [jump over fences](/can-domestic-goats-jump) and escape from enclosures.
 
 ## Why climbing is good for domestic goats
 
 Climbing gives goats exercise that they can't get from flat ground alone. It works different muscle groups, builds balance, and keeps their hooves naturally worn down so you don't have to trim as often.
 
-Goats that have access to climbing structures are less bored, less stressed, and less likely to test your fences. A few large rocks, a wooden platform, or some old cable spools inside their pen go a long way toward keeping them happy and contained.
+Goats that have access to climbing structures are less bored, less stressed, and less likely to test your fences. A few large rocks, a wooden platform, or some old cable spools inside their pen go a long way toward keeping them happy and contained. A content goat that gets plenty of exercise is also easier to [tame and handle](/can-goats-be-tamed) during daily farm chores.
 
 ## Keeping climbers safe on your property
 
-If you want to give your goats climbing opportunities, make sure the structures are stable and won't tip over under their weight. Avoid anything with gaps where a leg or head could get trapped, and check regularly for wear and rot on wooden platforms.
+If you want to give your goats climbing opportunities, make sure the structures are stable and won't tip over under their weight. Avoid anything with gaps where a leg or head could get trapped, and check regularly for wear and rot on wooden platforms. Motivated goats can even be [trained to pull a cart](/can-a-goat-pull-a-cart) using their natural strength and coordination.
 
-Keep all climbing structures away from fence lines. A goat that can get 3 feet up on a rock pile next to a 4-foot fence just turned that fence into a 1-foot fence. Check for sharp edges, loose boards, and anything that could break under a goat's full weight when it lands from a jump.
+Keep all climbing structures away from fence lines. A goat that can get 3 feet up on a rock pile next to a 4-foot fence just turned that fence into a 1-foot fence. Check for sharp edges, loose boards, and anything that could break under a goat's full weight when it lands from a jump. Companion animals like [dogs can be friends with goats](/can-goats-and-dogs-be-friends) and help keep them from getting bored enough to escape.
 
 ## Final Thoughts
 

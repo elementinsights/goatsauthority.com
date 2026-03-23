@@ -54,7 +54,7 @@ Bottle-raised kids form especially strong attachments. A kid you've fed from day
 
 Goats need company, so never keep just one. They're herd animals and should always have at least one companion goat.
 
-You'll need a secure enclosure with sturdy fencing because goats are escape artists. They climb, jump, and test every weak spot in a fence line, so plan on at least 200 square feet per goat.
+You'll need a secure enclosure with sturdy fencing because [goats can jump 4 to 5 feet high](/posts/can-goats-jump-high). They climb, jump, and test every weak spot in a fence line, so plan on at least 200 square feet per goat.
 
 Regular hoof trimming, deworming, and vaccinations are part of the deal. Budget for a good livestock vet and be ready for the daily work of feeding, watering, and cleaning.
 
@@ -62,7 +62,7 @@ Regular hoof trimming, deworming, and vaccinations are part of the deal. Budget 
 
 Goats bring a lot of personality to a homestead. They're entertaining, curious, and each one has a distinct temperament that keeps things interesting around the farm.
 
-They're excellent browsers and will happily clear brush, poison ivy, and overgrown weeds from your property. If you keep dairy breeds, fresh goat milk is a real bonus for the family.
+They're excellent browsers and will happily clear brush, poison ivy, and overgrown weeds from your property. If you keep dairy breeds, fresh goat milk is a real bonus, and [goats can actually make money](/posts/can-goats-make-money) through milk sales and brush clearing services.
 
 The bond you build with your goats is genuinely rewarding. Those morning and evening chore routines become something most owners look forward to every single day.
 
@@ -70,7 +70,7 @@ The bond you build with your goats is genuinely rewarding. Those morning and eve
 
 Goats are loud, especially during breeding season. If you have close neighbors, the noise can become an issue fast.
 
-They require daily care that you can't skip, even on holidays or sick days. Hoof trimming, parasite management, and fence maintenance add up in both time and money.
+They require daily care that you can't skip, even on holidays or sick days. [Hoof trimming](/posts/can-hoof-rot-kill-a-goat), parasite management, and fence maintenance add up in both time and money.
 
 Goats will also eat things you don't want them to eat. They'll strip bark off your fruit trees, chew on wiring, and destroy landscaping if given the chance.
 
@@ -78,13 +78,13 @@ Goats will also eat things you don't want them to eat. They'll strip bark off yo
 
 Bored goats are destructive goats. They'll chew on fences, barn walls, and anything else they can reach if they don't have enough to do.
 
-Give them things to climb on like old wooden spools, large rocks, and sturdy platforms. Rotate toys such as balls and buckets to keep things fresh.
+Give them things to climb on like old wooden spools, large rocks, and sturdy platforms. [Goats that can be tamed](/posts/can-goats-be-tamed) respond well to enrichment activities. Rotate toys such as balls and buckets to keep things fresh.
 
 The best boredom buster is your time. Spend a few minutes each day brushing them, talking to them, or just sitting in the pen, and that social interaction goes a long way toward keeping a goat happy and well-adjusted.
 
 ## Are there any other things you need to know about goats?
 
-Goats are browsers, not grazers. They prefer leaves, twigs, bark, and weeds over grass, so make sure they have access to browse or quality hay.
+Goats are browsers, not grazers. They prefer leaves, twigs, bark, and weeds over grass, so make sure they have access to browse or quality [hay](/posts/what-kind-of-hay-do-goats-eat).
 
 Always keep a mineral block available and provide fresh water daily. A salt and mineral supplement designed for goats helps prevent deficiencies that lead to health problems down the road.
 

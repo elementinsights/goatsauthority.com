@@ -43,11 +43,11 @@ Here's what every goat owner needs to know about this plant.
 
 No. Indian tobacco is poisonous to goats and should never be fed to them or allowed to grow in their pasture. The plant contains lobeline, a toxic alkaloid that affects the nervous system and can cause serious harm or death.
 
-Goats will sometimes browse on plants they shouldn't, especially if good forage is scarce. But Indian tobacco is not something their bodies can safely process. Even small amounts can cause noticeable symptoms, and larger amounts can be fatal.
+Goats will sometimes browse on plants they shouldn't, especially if good forage is scarce. Much like [chocolate](/can-goats-eat-chocolate/) and avocado, Indian tobacco is not something their bodies can safely process. Even small amounts can cause noticeable symptoms, and larger amounts can be fatal.
 
 ## Why Indian tobacco is toxic to goats
 
-The main toxin in Indian tobacco is lobeline, which acts on the nervous system in ways similar to nicotine. When a goat ingests the plant, lobeline interferes with nerve signaling and can cause muscles to stop working properly.
+The main toxin in Indian tobacco is lobeline, which acts on the nervous system in ways similar to nicotine. This makes it comparably dangerous to [poison hemlock](/can-goats-eat-poison-hemlock/), though the mechanism differs. When a goat ingests the plant, lobeline interferes with nerve signaling and can cause muscles to stop working properly.
 
 All parts of the plant carry this toxin, including the leaves, stems, flowers, and the distinctive inflated seed pods. The concentration of lobeline varies depending on the plant's growth stage, but no part of it is safe. Young plants and flowers tend to have the highest concentrations.
 
@@ -61,16 +61,16 @@ As the toxin takes hold, you may see vomiting or retching, labored breathing, we
 
 If you suspect your goat has eaten Indian tobacco, call your vet right away. There's no specific antidote for lobeline poisoning, but supportive care can make the difference between life and death.
 
-Your vet may administer activated charcoal to absorb remaining toxins in the gut, along with IV fluids to keep the goat hydrated. Keep the goat calm and in a quiet area while you wait for veterinary help. The less the goat moves around, the slower the toxin spreads through its system. Time matters here, so don't take a wait-and-see approach.
+Your vet may administer activated charcoal to absorb remaining toxins in the gut, along with IV fluids to keep the goat hydrated. Keep the goat calm and in a quiet area while you wait for veterinary help. Offer [hay](/what-kind-of-hay-do-goats-eat/) and fresh water once the vet clears it. The less the goat moves around, the slower the toxin spreads through its system. Time matters here, so don't take a wait-and-see approach.
 
 ## How to identify and remove Indian tobacco from your pasture
 
 Indian tobacco grows 1 to 3 feet tall with a hairy stem and small, pale blue or violet flowers that bloom from midsummer through fall. The leaves are oval-shaped with toothed edges, and the plant produces distinctive balloon-shaped seed pods that make it easy to identify once you know what to look for.
 
-It tends to pop up in open fields, along roadsides, and at the edges of wooded areas, especially in poor or acidic soils. Pull it up by the roots and dispose of it away from your goats. Mowing alone won't kill it since it regrows from the root system. Repeated pulling over a couple of seasons is usually needed to eliminate it from a pasture.
+It tends to pop up in open fields, along roadsides, and at the edges of wooded areas, especially in poor or acidic soils where [mushrooms](/can-goats-eat-mushrooms/) also commonly appear after rain. Pull it up by the roots and dispose of it away from your goats. Mowing alone won't kill it since it regrows from the root system. Repeated pulling over a couple of seasons is usually needed to eliminate it from a pasture.
 
 ## Final Thoughts
 
 Indian tobacco is a genuinely dangerous plant for goats. No part of it is safe, and there's no amount that qualifies as a healthy treat.
 
-Walk your pastures regularly, learn what this plant looks like, and pull it up whenever you find it. Replacing it with clover, chicory, or plantain gives your goats something beneficial to browse on instead of something that could kill them.
+Walk your pastures regularly, learn what this plant looks like, and pull it up whenever you find it. Replacing it with clover, chicory, or [dandelions](/can-goats-eat-dandelions/) gives your goats something beneficial to browse on instead of something that could kill them.

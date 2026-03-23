@@ -42,23 +42,23 @@ Rickets is a condition most people associate with young, growing animals, and fo
 
 Technically, rickets is a disease of growing bones, so it is far more common in kids than in mature goats. Old goats whose bones have already finished developing are much more likely to end up with osteoporosis or arthritis than true rickets.
 
-A severe vitamin D or mineral deficiency in an older goat can still cause significant bone problems. The symptoms just look different than what you would see in a young kid.
+A severe vitamin D or mineral deficiency in an older goat can still cause significant bone problems. The symptoms just look different than what you would see in a young kid. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) helps explain why mineral absorption can be impaired by digestive issues.
 
 ## What causes rickets in goats?
 
 Rickets develops when a goat does not get enough vitamin D, calcium, or phosphorus, or when the ratio between those minerals is off. Kids raised indoors without access to sunlight are the most common cases because sunlight is how goats produce vitamin D naturally.
 
-Poor quality hay, lack of loose minerals, and diets heavy in grain without proper supplementation all contribute to the problem. Does that are heavily milking can also pass a deficiency on to their nursing kids if their own mineral intake falls short.
+Poor quality hay, lack of loose minerals, and diets heavy in grain without proper supplementation all contribute to the problem. [Male goats eating too much grain](/can-male-goats-eat-grain) face additional risks like urinary calculi on top of mineral imbalances. Does that are heavily milking can also pass a deficiency on to their nursing kids if their own mineral intake falls short.
 
 ## Symptoms to watch for
 
 In young goats, the classic signs are bowed legs, swollen joints, and a general weakness that makes them reluctant to move around. You might also notice the kid walking stiffly or struggling to stand up after lying down.
 
-Older goats with bone mineral problems tend to show lameness, stiffness, and a hunched posture. Their bones may fracture more easily than normal, and you might see them lose condition even when they are eating well.
+Older goats with bone mineral problems tend to show lameness, stiffness, and a hunched posture. Severe cases can mimic [stroke-like symptoms caused by anemia](/can-goats-have-a-stroke-anemia), so proper diagnosis from a vet is essential. Their bones may fracture more easily than normal, and you might see them lose condition even when they are eating well.
 
 ## Treatment and recovery
 
-For kids with rickets, the treatment is straightforward. Injectable vitamin D, proper loose minerals, and access to sunlight will usually turn things around within a few weeks if you catch it early.
+For kids with rickets, the treatment is straightforward. Injectable vitamin D, proper loose minerals, and access to sunlight will usually turn things around within a few weeks if you catch it early. [Injectable B12](/can-pregnant-goats-have-injectable-b12) is another safe supplement that supports overall recovery alongside vitamin D.
 
 Older goats with bone mineral deficiencies benefit from the same approach, though recovery takes longer and some joint damage may be permanent. Your vet can run bloodwork to confirm whether the problem is vitamin D, calcium, phosphorus, or a combination.
 
@@ -68,7 +68,7 @@ Make sure every goat in your herd has access to sunlight for at least a few hour
 
 Keep quality loose minerals available free-choice at all times. A good goat mineral mix will contain the right balance of calcium, phosphorus, and vitamin D to keep bones strong throughout life.
 
-Feed decent hay and avoid relying too heavily on grain, which can throw off mineral absorption. Does in late pregnancy and heavy lactation need extra attention to their mineral intake because they are pulling from their own reserves to feed their kids.
+Feed decent hay and avoid relying too heavily on grain, which can throw off mineral absorption. Knowing [what kind of hay is best for goats](/what-kind-of-hay-do-goats-eat) makes a real difference in long-term bone health. Does in late pregnancy and heavy lactation need extra attention to their mineral intake because they are pulling from their own reserves to feed their kids.
 
 ## Final thoughts
 

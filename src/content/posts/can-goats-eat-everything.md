@@ -47,27 +47,27 @@ The "goats eat anything" myth comes from the way they use their mouths to explor
 
 Goats are browsers by nature, which means they eat the leaves, twigs, and bark of trees and shrubs rather than just grazing on grass. This gives them an advantage because they can pull nutrients from tougher plant material that cattle and sheep would pass up.
 
-Their four-chambered rumen breaks down fibrous plant matter more thoroughly than most livestock stomachs can manage. Browse is also generally lower in harmful toxins than some lush pasture grasses, which helps goats avoid the bloat issues that plague cattle on rich spring growth.
+Their four-chambered rumen breaks down fibrous plant matter more thoroughly than most livestock stomachs can manage. Browse is also generally lower in harmful toxins than some lush pasture grasses, which helps goats avoid the bloat issues that plague cattle on rich spring growth. Safe treats like [apples](/can-goats-eat-apples/) can supplement their browse diet nicely.
 
 ## What plants are poisonous to goats?
 
 Despite their reputation, plenty of plants are toxic to goats. Azaleas, rhododendrons, and mountain laurel can all cause fatal poisoning, sometimes from just a few mouthfuls.
 
-Foxglove, hemlock, and nightshade are also on the no-go list. Avocado leaves and fruit can cause heart failure, and wild cherry leaves release cyanide when they wilt after a storm breaks branches into the pasture.
+Foxglove, [hemlock](/can-goats-eat-poison-hemlock/), and nightshade are also on the no-go list. Avocado leaves and fruit can cause heart failure, and wild cherry leaves release cyanide when they wilt after a storm breaks branches into the pasture.
 
 Walk your fence line regularly and learn what is growing within reach. If a goat does eat something toxic, the symptoms can include drooling, staggering, labored breathing, and diarrhea, and you will need a vet fast.
 
 ## What are the nutritional requirements of goats?
 
-Goats need a diet built on quality hay or browse as the foundation, with supplemental grain for animals that are growing, pregnant, or lactating. Their rumen needs a steady supply of fiber to function properly.
+Goats need a diet built on quality [hay](/what-kind-of-hay-do-goats-eat/) or browse as the foundation, with supplemental grain like oats for animals that are growing, pregnant, or lactating. Their rumen needs a steady supply of fiber to function properly.
 
-A loose mineral mix formulated for goats should be available free-choice at all times. This mineral should contain copper, selenium, and zinc at levels appropriate for your region since deficiencies in any of these can cause serious health problems over time.
+A loose mineral mix formulated for goats should be available free-choice at all times, and you should never substitute [cattle mineral salt](/can-goats-eat-mineral-salt-made-for-cattle/) as a permanent replacement. This mineral should contain copper, selenium, and zinc at levels appropriate for your region since deficiencies in any of these can cause serious health problems over time.
 
 Fresh, clean water is non-negotiable. A goat will refuse to drink from a dirty bucket faster than almost any other livestock animal, and dehydration sneaks up quickly in hot weather.
 
 ## What are common health problems in terms of feeding goats?
 
-Bloat is the most immediate feeding-related danger. It happens when gas builds up in the rumen faster than the goat can release it, often after gorging on rich grain or lush wet pasture.
+Bloat is the most immediate feeding-related danger. It happens when gas builds up in the rumen faster than the goat can release it, often after gorging on rich grain or lush wet pasture. Even [moldy hay can trigger serious digestive problems](/can-goats-eat-moldy-hay/) if it goes undetected.
 
 Grain overload is another common emergency. A goat that breaks into the feed room and eats its fill of grain can develop acidosis, which throws off the pH in the rumen and can be fatal within hours.
 

@@ -50,21 +50,21 @@ Give the grapes a quick wash to rinse off any pesticide residue from the store. 
 
 About 5 to 10 grapes per adult goat is a good serving size. That gives them a satisfying treat without overloading them on sugar.
 
-Grapes are high in natural sugar, and too many on a regular basis can lead to weight gain and digestive upset. Two to three times per week is a solid frequency for grape treats.
+Grapes are high in natural sugar, and too many on a regular basis can lead to weight gain and digestive upset. Two to three times per week is a solid frequency for grape treats, similar to other sweet fruits like [watermelon](/can-goats-eat-watermelon/) and strawberries.
 
 For kids, cut each grape in half and limit them to 2 or 3 halves. Their digestive systems are still developing, and the smaller size reduces any choking risk.
 
 ## Nutritional Benefits of Grapes for Goats
 
-Grapes provide vitamins C and K, potassium, and antioxidants that support immune health. The high water content also helps with hydration on hot summer days.
+Grapes provide vitamins C and K, potassium, and antioxidants that support immune health. The high water content also helps with hydration on hot summer days, much like [cucumbers](/can-goats-eat-cucumbers/) do.
 
 One cup of grapes has about 104 calories and 1.4 grams of fiber. For goats, the real value is in those vitamins and the hydration boost rather than calories.
 
-Grapes work best as a supplement to the core diet of hay, pasture, and grain. They're dessert, not dinner.
+Grapes work best as a supplement to the core diet of [hay](/what-kind-of-hay-do-goats-eat/), pasture, and grain. They're dessert, not dinner.
 
 ## Can Goats Eat Raisins?
 
-Raisins are just dried grapes, and they're safe for goats in small amounts. The sugar is more concentrated, so give fewer raisins than you would fresh grapes.
+[Raisins](/can-goats-eat-raisins/) are just dried grapes, and they're safe for goats in small amounts. The sugar is more concentrated, so give fewer raisins than you would fresh grapes.
 
 A small handful of about 8 to 10 raisins makes a great training treat. They're easy to carry in your pocket and goats find them hard to resist.
 
@@ -84,4 +84,4 @@ If you don't know where the grapes or vines came from, think twice before feedin
 
 Symptoms of chemical exposure include drooling, stomach pain, diarrhea, and lethargy. In serious cases, it can cause lasting organ damage.
 
-Stick with grapes from your own garden or a source you trust. Wash everything thoroughly, and when in doubt, leave it out of the feed bucket.
+Stick with grapes from your own garden or a source you trust. Wash everything thoroughly, and when in doubt, leave it out of the feed bucket. Safe alternatives like [blueberries](/can-goats-eat-blueberries/) and blackberries from your own bushes are always a reliable choice.

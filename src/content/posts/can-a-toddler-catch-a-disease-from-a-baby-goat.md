@@ -42,13 +42,13 @@ Yes, a toddler can catch a disease from a baby goat. Young children are at highe
 
 The short answer is yes. Goats carry bacteria and parasites in their feces that can make young children sick. The most common culprits are E. Coli, Cryptosporidium, and Salmonella, all of which spread through contact with goat droppings.
 
-Toddlers are especially vulnerable because they touch everything and then touch their faces. A baby goat might look perfectly healthy and still be shedding harmful organisms in its stool. You can't tell by looking at a goat whether it's carrying something that could make your child sick.
+Toddlers are especially vulnerable because they touch everything and then touch their faces. A baby goat might look perfectly healthy and still be shedding harmful organisms in its stool. You can't tell by looking at a goat whether it's carrying something that could make your child sick. Even adults can experience [diarrhea from contact with goats](/can-contact-with-goats-cause-diarrhea-in-humans/) if hygiene isn't followed.
 
 ## Which Diseases Are the Biggest Concern?
 
 E. Coli and Salmonella cause diarrhea, vomiting, fever, and stomach cramps that can land a toddler in the hospital. In severe cases, certain strains of E. Coli can cause kidney failure in young children. Cryptosporidium is a parasite that causes watery diarrhea lasting up to two weeks, and it's particularly tough to treat because most anti-parasitic medications don't work against it.
 
-Orf, also called sore mouth, is a viral skin infection that spreads through direct contact with an infected goat's mouth or udder. It causes painful blisters on a child's hands and can take several weeks to clear up on its own. Petting zoos are one of the most common exposure points for all of these diseases, which is why the CDC has specific guidelines for animal contact events.
+[Orf, also called sore mouth](/can-a-goat-get-a-cold-sore/), is a viral skin infection that spreads through direct contact with an infected goat's mouth or udder. It causes painful blisters on a child's hands and can take several weeks to clear up on its own. Petting zoos are one of the most common exposure points for all of these diseases, which is why the CDC has specific guidelines for animal contact events.
 
 ## Hand Washing Is Non-Negotiable
 
@@ -64,9 +64,9 @@ Supervise every second of the interaction. Baby goats are bouncy and can knock a
 
 ## When to Keep Kids Away Entirely
 
-Children with weakened immune systems, whether from illness, medication, or a chronic condition, should avoid direct contact with goats altogether. The risk of serious infection is too high for a child whose body can't fight off bacteria effectively.
+Children with weakened immune systems, whether from illness, medication, or a chronic condition, should avoid direct contact with goats altogether. Goats can carry [various diseases including those from other livestock](/can-any-diseases-spread-from-swine-to-goats/), and the risk of serious infection is too high for a child whose body can't fight off bacteria effectively.
 
-If you're visiting a farm, check that the animals look healthy and the pens are clean before letting your child anywhere near them. A well-run operation will have hand-washing stations with soap, clear rules about food and drinks in animal areas, and staff actively supervising interactions between children and animals.
+If you're visiting a farm, check that the animals look healthy and the pens are clean before letting your child anywhere near them. [Goat lice can even transfer to humans](/can-goat-lice-live-on-humans/) in rare cases, so keeping physical contact brief and supervised matters. A well-run operation will have hand-washing stations with soap, clear rules about food and drinks in animal areas, and staff actively supervising interactions between children and animals.
 
 ## Final Thoughts
 

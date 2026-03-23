@@ -52,7 +52,7 @@ At that age, her pelvis has not widened enough for kidding. A pregnancy in a doe
 
 A doeling is simply a young female goat that has not yet had her first kids. Nigerian Dwarfs are a small dairy breed, with adults typically weighing between 24 and 40 pounds.
 
-They are popular on small homesteads because of their manageable size and high butterfat milk. Despite being small, they mature quickly compared to standard-sized breeds, and that early maturity catches a lot of new owners off guard.
+They are popular on small homesteads because of their manageable size and high butterfat milk. If you're thinking of getting one, [check your local zoning laws first](/can-i-have-goats-where-i-live/) to make sure goats are allowed. Despite being small, they mature quickly compared to standard-sized breeds, and that early maturity catches a lot of new owners off guard.
 
 ## When can a Nigerian goat doeling be bred?
 
@@ -60,13 +60,13 @@ Most experienced breeders wait until a Nigerian Dwarf doeling is at least 7 to 8
 
 Check her body condition before breeding. You want to see her hips widening and a healthy layer of flesh over her ribs without being overweight.
 
-If she is showing strong, regular heat cycles every 21 days, her reproductive system is likely ready. Some breeders wait until a full year old just to be on the safe side, and there is nothing wrong with that approach.
+If she is showing strong, regular heat cycles every 21 days, her reproductive system is likely ready. Understanding [how goat heat cycles work](/can-a-goat-get-pregnant-when-not-in-heat/) will help you time the breeding correctly. Some breeders wait until a full year old just to be on the safe side, and there is nothing wrong with that approach.
 
 ## What health concerns should be considered when breeding a Nigerian goat doeling?
 
 Breeding too young is the biggest risk. A doeling under 40 pounds can struggle to deliver kids, and a C-section on a goat that size is expensive and stressful for everyone involved.
 
-Have your doeling tested for CAE (caprine arthritis encephalitis) and CL (caseous lymphadenitis) before breeding. Both diseases can be passed to offspring and there is no cure for CAE.
+Have your doeling tested for CAE (caprine arthritis encephalitis) and CL (caseous lymphadenitis) before breeding. Both diseases can be passed to offspring and there is no cure for CAE. You should also avoid [father-daughter pairings](/can-you-breed-a-father-and-daughter-goat/) that can concentrate genetic weaknesses.
 
 Pregnancy toxemia is another concern, especially in does carrying multiples. Nigerian Dwarfs are known for having triplets and quads, which puts extra strain on a young doe's body.
 
@@ -80,9 +80,9 @@ Keep up with regular hoof trimming and deworming throughout pregnancy. A parasit
 
 ## Tips for breeding Nigerian goat doelings
 
-Separate bucklings from doelings by 8 weeks of age. Young bucks can become fertile as early as 7 weeks old, and accidental breedings at that age are dangerous.
+Separate bucklings from doelings by 8 weeks of age. Young bucks can become fertile as early as 7 weeks old, and accidental breedings at that age are dangerous. If you plan to [register your Nigerian Dwarf](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers/), keeping detailed breeding records from the start is essential.
 
-If you suspect a 4-month-old doeling got bred accidentally, call your vet immediately. A hormone injection given early enough can prevent the pregnancy from progressing, which is far safer than letting a tiny doeling try to deliver.
+If you suspect a 4-month-old doeling got bred accidentally, call your vet immediately. A hormone injection given early enough can prevent the pregnancy from progressing, which is far safer than letting a tiny doeling try to deliver. Nigerian Dwarf does that are bred at the proper age often carry [multiples including quads](/how-many-babies-do-goats-have-at-a-time/), so size and maturity matter.
 
 Watch for clear signs of estrus before you plan a breeding. A doe in standing heat will flag her tail, get vocal, and stand still when a buck is near her. Regular 21-day cycles tell you her system is mature and functioning properly.
 

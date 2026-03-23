@@ -49,13 +49,13 @@ The problem is copper. Goat feed and goat minerals almost always contain copper 
 
 ## What is goat food and what are the benefits of feeding it to sheep?
 
-Goat feed is typically a grain mix combined with vitamins and minerals formulated for a goat's specific needs. The protein and energy content is similar to sheep feed, so the basic nutrition crosses over just fine.
+Goat feed is typically a grain mix combined with vitamins and minerals formulated for a goat's specific needs. The protein and energy content is similar to sheep feed, so the basic nutrition crosses over just fine. [Oats](/can-goats-eat-oats) are a common ingredient in both goat and sheep feeds and are safe for both species.
 
-Hay is the one thing you can share without worry. Whether it's timothy, orchard grass, or alfalfa, both species eat the same forages without any issue.
+Hay is the one thing you can share without worry. Whether it's [timothy](/can-goats-eat-timothy-hay), orchard grass, or [alfalfa](/can-goats-eat-alfalfa), both species eat the same forages without any issue.
 
 ## How much goat food should you feed your sheep?
 
-If you're talking about plain grain with no added minerals, sheep can eat goat feed in the same quantities they'd eat their own grain ration. Follow the same guidelines you would for sheep feed based on their body weight and condition.
+If you're talking about plain grain with no added minerals, sheep can eat goat feed in the same quantities they'd eat their own grain ration. Follow the same guidelines you would for sheep feed based on their body weight and condition. Both sheep and goats enjoy [bread as an occasional treat](/can-sheep-and-goats-eat-bread), but moderation is key.
 
 The real question isn't how much but what's in it. Always check the feed tag for copper content before letting your sheep anywhere near goat feed.
 
@@ -63,13 +63,13 @@ The real question isn't how much but what's in it. Always check the feed tag for
 
 Copper toxicity is the big one. Sheep accumulate copper in their liver over time, and the levels that goats need to stay healthy will slowly poison a sheep.
 
-The worst part is that copper toxicity doesn't show up right away. A sheep can eat goat minerals for months and seem perfectly fine, then one day the stored copper releases from the liver all at once and the sheep dies within 24 to 48 hours.
+The worst part is that copper toxicity doesn't show up right away. A sheep can eat goat minerals for months and seem perfectly fine, then one day the stored copper releases from the liver all at once and the sheep dies within 24 to 48 hours. This same copper issue applies when [a single sheep lives with goats](/can-one-sheep-live-with-goats) and accidentally accesses goat minerals.
 
 ## How can you prevent those problems from occurring?
 
 The safest approach if you keep both species together is to use sheep-safe minerals for everyone. Sheep minerals have little to no copper, which won't hurt your goats in the short term.
 
-Then supplement your goats separately with a copper bolus two to three times per year. You can give copper boluses individually, which keeps your sheep completely safe while making sure your goats get what they need.
+Then supplement your goats separately with a copper bolus two to three times per year. You can give copper boluses individually, which keeps your sheep completely safe while making sure your goats get what they need. [Sheep can also drink raw goat milk](/can-sheep-drink-raw-goats-milk) without any copper concerns, making it a safe cross-species supplement.
 
 ## Final Thoughts
 

@@ -54,19 +54,19 @@ Goats absolutely love pumpkin, and it's one of the safest treats you can toss th
 
 Yes, goats can eat pumpkin without any problems. Most goats go crazy for the stuff and will demolish a whole pumpkin in no time if you let them.
 
-Pumpkin is packed with vitamin A, potassium, and fiber, all of which are good for your herd. It also has a high water content that helps keep goats hydrated, especially during dry fall weather.
+Pumpkin is packed with vitamin A, potassium, and fiber, all of which are good for your herd. Other [squash varieties](/posts/can-goats-eat-squash) share similar nutritional benefits. It also has a high water content that helps keep goats hydrated, especially during dry fall weather.
 
 ## What is pumpkin and what are its benefits for goats?
 
 Pumpkin is a winter squash loaded with beta-carotene, which converts to vitamin A in your goat's body. That vitamin A supports good eyesight, a strong immune system, and healthy skin.
 
-The seeds are the real bonus. They contain cucurbitin, a compound that has mild natural deworming properties, and while pumpkin seeds won't replace a proper dewormer, they can help reduce parasite loads as part of your overall management plan.
+The seeds are the real bonus. They contain cucurbitin, a compound that has mild natural deworming properties. Other seeds like [sunflower seeds](/posts/can-goats-eat-sunflower-seeds) also make excellent dietary supplements, though pumpkin seeds won't replace a proper dewormer. They can help reduce parasite loads as part of your overall management plan.
 
 ## How many pumpkins can a goat eat without any risks?
 
 Treat pumpkin as a supplement, not a main course. A few chunks per goat per day is plenty, and pumpkin shouldn't make up more than about 10% of their total diet.
 
-Too much pumpkin can cause loose stools because of the high moisture and fiber content. Stick to reasonable portions and your goats will get the nutritional benefits without any gut upset.
+Too much pumpkin can cause loose stools because of the high moisture and fiber content. If you notice bloating, knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) is essential. Stick to reasonable portions and your goats will get the nutritional benefits without any gut upset.
 
 ## How to serve pumpkins to goats?
 
@@ -78,7 +78,7 @@ Some folks just toss a whole pumpkin on the ground and let the goats bash it ope
 
 ### Can baby goats eat pumpkins?
 
-Yes, but cut the pieces small so they don't choke. Kids that are still nursing should only get tiny amounts as a taste, not a full serving.
+Yes, but cut the pieces small so they don't choke. Does nursing [quads or large litters](/posts/can-a-goat-feed-quads) have higher nutritional demands, and pumpkin can be a nice supplement. Kids that are still nursing should only get tiny amounts as a taste, not a full serving.
 
 ### Can goats eat leftover Halloween pumpkins?
 
@@ -86,7 +86,7 @@ Plain, undecorated pumpkins are perfectly fine after Halloween. Do not feed pump
 
 ### What about moldy pumpkins?
 
-Never feed moldy pumpkins to goats. Mold can produce mycotoxins that cause serious digestive problems and even liver damage.
+Never feed moldy pumpkins to goats. The same rule applies to [moldy hay](/posts/can-goats-eat-moldy-hay) and any other feed. Mold can produce mycotoxins that cause serious digestive problems and even liver damage.
 
 ### Can goats eat pumpkin pie?
 

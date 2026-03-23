@@ -45,13 +45,13 @@ That means they cannot establish themselves on humans, feed on us, or reproduce 
 
 No, goat lice cannot live on humans. Lice are host-specific parasites, which means each species of louse has evolved to survive on one particular type of animal. Goat lice need goat blood, goat skin temperature, and goat hair to complete their life cycle.
 
-A goat louse might crawl onto your arm while you are handling an infested goat. But it cannot feed on your blood, cannot lay eggs on you, and will die within hours without a goat host.
+A goat louse might crawl onto your arm while you are handling an infested goat. But it cannot feed on your blood, cannot lay eggs on you, and will die within hours without a goat host. The real human health risk from goats is not lice but rather [diarrhea from zoonotic bacteria](/can-contact-with-goats-cause-diarrhea-in-humans) found in their feces.
 
 ## What are goat lice, and how do they differ from human lice?
 
 Goats deal with two main categories of lice: chewing lice (Bovicola caprae) that feed on skin debris and hair, and sucking lice (Linognathus stenopsis) that pierce the skin and feed on blood. Both types are tiny, wingless insects that spend their entire life on the goat.
 
-Human lice are a completely separate group of species. Head lice, body lice, and pubic lice are all adapted specifically to humans. They cannot survive on goats any more than goat lice can survive on people. The two groups are built for different hosts, different hair types, and different skin conditions.
+Human lice are a completely separate group of species. Head lice, body lice, and pubic lice are all adapted specifically to humans. They cannot survive on goats any more than goat lice can survive on people. The two groups are built for different hosts, different hair types, and different skin conditions. Farm dogs face their own parasite risks and should be monitored for [tapeworms from goats](/can-dogs-get-tapeworms-from-goats) as well.
 
 ## What are the signs and symptoms of a goat lice infestation in humans?
 
@@ -61,13 +61,13 @@ This irritation usually goes away on its own after you shower and change clothes
 
 ## What treatments are available for both goat and human lice infestations?
 
-For your goats, the standard treatments include pour-on products containing permethrin or cypermethrin, injectable or oral ivermectin, and dust treatments with permethrin powder. You need to treat the entire herd at once and repeat the treatment in 10 to 14 days to catch any lice that hatch from eggs after the first round.
+For your goats, the standard treatments include pour-on products containing permethrin or cypermethrin, injectable or oral ivermectin, and dust treatments with permethrin powder. You need to treat the entire herd at once and repeat the treatment in 10 to 14 days to catch any lice that hatch from eggs after the first round. Be careful not to [overfeed dewormer pellets](/can-a-goat-eat-too-many-dewormer-pellets) when treating for internal and external parasites simultaneously.
 
 For humans who are itchy after handling lousy goats, a regular shower with soap and water is all you need. Wash the clothes you were wearing in hot water and dry them on high heat. That will kill any stray lice that hitched a ride on your sleeves.
 
 ## How can you prevent your family from getting infected with goat lice in the first place?
 
-Since goat lice cannot actually infest humans, prevention is more about keeping your goats healthy and reducing the ick factor. Treat your goats for lice at the first sign of scratching, hair loss, or rough coats, especially in late fall and winter when lice populations explode.
+Since goat lice cannot actually infest humans, prevention is more about keeping your goats healthy and reducing the ick factor. Treat your goats for lice at the first sign of scratching, hair loss, or rough coats, especially in late fall and winter when [lice populations cycle seasonally](/can-goat-lice-go-into-a-dormant-stage) and explode in cold weather.
 
 Wear long sleeves and gloves when handling goats you suspect are lousy. Change your clothes and wash up before coming inside. These steps will not prevent a human lice infestation, because that cannot happen, but they will keep you from bringing stray lice into your house where they might creep out your family members before they die on their own.
 
@@ -75,7 +75,7 @@ Wear long sleeves and gloves when handling goats you suspect are lousy. Change y
 
 Take a breath and remember that goat lice cannot establish on humans. If someone in your house is itching after goat contact, a hot shower and clean clothes will resolve it.
 
-Focus your energy on treating the actual problem, which is the lice on your goats. Check every goat in your herd by parting the hair along the neck, behind the ears, and along the topline. Treat the entire herd at once with an appropriate product and repeat in two weeks. Once the goats are clean, the human itching problem goes away on its own.
+Focus your energy on treating the actual problem, which is the lice on your goats. Check every goat in your herd by parting the hair along the neck, behind the ears, and along the topline. Treat the entire herd at once with an appropriate product and repeat in two weeks. Once the goats are clean, the human itching problem goes away on its own. While checking your goats, also look for [signs of mite infestations](/can-goats-get-mites) which require different treatment approaches.
 
 ## Final Thoughts
 

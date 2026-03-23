@@ -44,7 +44,7 @@ A pygmy doe can nurse triplets, but it's a stretch for most of them. With small 
 
 Some pygmy does handle triplets just fine, especially if they're experienced mothers with good milk production. Others simply don't have enough milk to keep all three kids growing at the same rate.
 
-The key is watching closely during the first two weeks. Weigh each kid daily — a bathroom scale works fine for pygmy kids. Any kid not gaining at least two to four ounces per day needs a supplemental bottle.
+The key is watching closely during the first two weeks. Weigh each kid daily — a bathroom scale works fine for pygmy kids. Having [electrolytes on hand for baby goats](/can-baby-goats-have-any-electrolytes/) is also important during this period. Any kid not gaining at least two to four ounces per day needs a supplemental bottle.
 
 ## What is pygmy goat nursing all about anyways?
 
@@ -60,7 +60,7 @@ If one kid keeps getting pushed aside, hold the doe steady and help the weakest 
 
 ## How to take care of a pygmy goat while they are nursing triplets?
 
-The doe needs extra nutrition to keep up with three kids. Feed her high-quality alfalfa hay, which has more calcium and protein than grass hay, and add about half a cup of grain formulated for lactating does twice a day.
+The doe needs extra nutrition to keep up with three kids. Feed her high-quality alfalfa hay, which has more calcium and protein than grass hay, and add about half a cup of grain formulated for lactating does twice a day. Keep an eye on her [udder skin for any color changes](/can-a-dairy-goats-udder-skin-have-varying-colors/) that might signal mastitis from the extra nursing demand.
 
 Fresh water has to be available at all times. A doe nursing triplets drinks a surprising amount, and dehydration will tank her milk supply faster than anything else.
 
@@ -70,15 +70,15 @@ Black oil sunflower seeds mixed into her grain ration add healthy fats that supp
 
 Pygmy does have strong maternal instincts and will often accept kids that aren't even their own. Their small size makes them easy to handle and they don't require as much space or feed as larger dairy breeds.
 
-Their milk has a higher butterfat content than most standard breeds, which means the kids get more calories per ounce. For a small farm or homestead, that's a real advantage when you're trying to raise healthy babies.
+Their milk has a higher butterfat content than most standard breeds, which means the kids get more calories per ounce. Some people even wonder whether [goat milk can reduce wrinkles](/can-goat-milk-reduce-wrinkles/) because of its rich fat content. For a small farm or homestead, that's a real advantage when you're trying to raise healthy babies.
 
 ## What are some common problems with pygmy goat nursing?
 
 The most common problem is simply not enough milk. If you notice one kid is always crying, restless, or has a hollow-looking belly after nursing sessions, it's time to supplement with a bottle.
 
-Use a high-quality goat milk replacer warmed to about 101 degrees. Feed the weakest kid every three to four hours for the first two weeks, and keep it with its siblings so it still bonds with the herd.
+Use a high-quality goat milk replacer warmed to about 101 degrees. You can also use [baby formula in an emergency](/can-goats-drink-baby-formula/) if you run out of milk replacer, though a goat-specific product is always better. Feed the weakest kid every three to four hours for the first two weeks, and keep it with its siblings so it still bonds with the herd.
 
-Set up a creep feeder by the time the kids are about a week old. Put some kid-formulated grain and fine leafy hay where the babies can reach it but the doe can't. Every bite of solid food takes pressure off her milk supply and gets the kids' rumens developing earlier.
+Set up a creep feeder by the time the kids are about a week old. Put some kid-formulated grain and fine leafy hay where the babies can reach it but the doe can't. Be mindful that [too much protein in the diet](/can-goats-have-36-protein/) can cause problems, so stick with age-appropriate formulations. Every bite of solid food takes pressure off her milk supply and gets the kids' rumens developing earlier.
 
 ## Final Thoughts
 

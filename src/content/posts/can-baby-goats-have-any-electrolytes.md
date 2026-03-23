@@ -52,29 +52,29 @@ The key rule is to give electrolytes between milk feedings, not mixed into the m
 
 Electrolytes are dissolved minerals like sodium, potassium, and chloride that keep the body's fluid balance in check. They drive muscle contractions, nerve signals, and nutrient absorption at the cellular level.
 
-When a kid gets diarrhea, it loses these minerals along with water. Plain water alone won't fix a dehydrated kid — you need to replace the salts and sugars too.
+When a kid gets diarrhea, it loses these minerals along with water. Plain water alone won't fix a dehydrated kid — you need to replace the salts and sugars too. Dehydration is also a serious concern when [goats get sick from cold weather](/can-goats-die-in-cold-weather), since they stop drinking when water freezes over.
 
 ## How can you make sure that your baby goats get enough electrolytes?
 
 The easiest route is a commercial goat electrolyte product like Sav-A-Kid or Bounce Back. Mix it with warm water according to the label and offer it through a bottle or syringe between regular milk feedings.
 
-If you can't get to the feed store, make a homemade solution: one quart of warm water, two tablespoons of sugar or honey, half a teaspoon of salt, and a quarter teaspoon of baking soda. It's not perfect, but it can keep a kid alive until you get the real thing.
+If you can't get to the feed store, make a homemade solution: one quart of warm water, two tablespoons of sugar or honey, half a teaspoon of salt, and a quarter teaspoon of baking soda. It's not perfect, but it can keep a kid alive until you get the real thing. Be careful with baking soda amounts though, since [baking soda can cause urinary issues in goats](/can-baking-soda-cause-urinary-issues-in-goats) when overused.
 
 ## How much electrolyte solution should baby goats drink per day?
 
 A good rule of thumb is about 4 ounces of electrolyte solution per 10 pounds of body weight per day. So a 20-pound kid would get roughly 8 ounces spread across several small feedings.
 
-On hot days or during a bad scours episode, you may need to bump that amount up. Always offer it separately from milk, and toss any unused solution after 12 hours since bacteria multiply fast in sugar water at room temperature.
+On hot days or during a bad scours episode, you may need to bump that amount up. Always offer it separately from milk, and toss any unused solution after 12 hours since bacteria multiply fast in sugar water at room temperature. If you suspect the scours are caused by parasites, it's worth knowing that [dogs can spread tapeworms to goats](/can-dogs-get-tapeworms-from-goats) and vice versa on shared properties.
 
 ## What are some common symptoms of electrolyte deficiency in baby goats?
 
 The skin tent test is your best friend here. Pinch the skin on the kid's neck and let go — if it stays tented for more than two seconds, that kid is dehydrated.
 
-Sunken eyes, a dry mouth, and lethargy are other dead giveaways. In severe cases you'll see weakness, tremors, or even seizures, and at that point the kid needs a vet, not just a bottle of electrolytes.
+Sunken eyes, a dry mouth, and lethargy are other dead giveaways. In severe cases you'll see weakness, tremors, or even seizures, and at that point the kid needs a vet, not just a bottle of electrolytes. Similar symptoms can appear from [black widow spider bites](/can-black-widow-spider-kill-a-goat), so rule out venomous bites if symptoms appear suddenly.
 
 ## How can you prevent electrolyte deficiency in baby goats?
 
-Keep fresh, clean water available at all times, even for young kids still on milk. On hot days or during any bout of loose stool, offer an electrolyte solution proactively rather than waiting for symptoms to show up.
+Keep fresh, clean water available at all times, even for young kids still on milk. On hot days or during any bout of loose stool, offer an electrolyte solution proactively rather than waiting for symptoms to show up. Adding a tablespoon of [apple cider vinegar to their water](/can-goats-drink-vinegar) can also support healthy digestion in older kids.
 
 If the skin tent test shows tenting of three seconds or more, oral electrolytes alone won't cut it. Your vet can give subcutaneous fluids with lactated Ringer's solution, which delivers hydration far faster than anything you can get into a kid by mouth.
 
@@ -82,7 +82,7 @@ If the skin tent test shows tenting of three seconds or more, oral electrolytes 
 
 Most kids get everything they need from their mother's milk for the first few weeks. Bottle babies on a quality milk replacer are usually covered too, though they may benefit from a vitamin E and selenium supplement in selenium-deficient areas.
 
-Kids that are only eating hay should get a vitamin A supplement, and all kids need access to a loose goat mineral mix once they start nibbling solid food. Pedialyte works in a pinch for emergency hydration, but it was made for human infants and doesn't have the right mineral ratios for goats long-term.
+Kids that are only eating hay should get a vitamin A supplement, and all kids need access to a loose goat mineral mix once they start nibbling solid food. Pedialyte works in a pinch for emergency hydration, but it was made for human infants and doesn't have the right mineral ratios for goats long-term. You should also have [Benadryl in your barn kit](/can-benadryl-hurt-a-goat) for allergic reactions, alongside your electrolyte supplies.
 
 ## Final Thoughts
 

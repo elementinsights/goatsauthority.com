@@ -60,7 +60,7 @@ Q fever is caused by the bacterium Coxiella burnetii and spreads primarily throu
 
 Orf, also called sore mouth or contagious ecthyma, causes painful blisters on the hands and fingers after skin-to-skin contact with an infected goat. It heals on its own but takes a few weeks and it's genuinely uncomfortable.
 
-Cryptosporidiosis and E. Coli spread through fecal contact. Handling baby goats with scours and then touching your face is the most common way this happens. Rabies is rare in goats but possible through bites from infected animals.
+Cryptosporidiosis and E. Coli spread through fecal contact. Handling baby goats with scours and then touching your face is the most common way this happens. Knowing how the goat's [four-chamber digestive system](/posts/how-many-stomachs-do-goats-have) works helps you understand why kids with immature rumens are especially prone to these infections. Rabies is rare in goats but possible through bites from infected animals.
 
 ## What are the risks of catching diseases from goats?
 
@@ -68,7 +68,7 @@ For most healthy adults, the risk is genuinely low. Your immune system can handl
 
 The risk increases significantly during kidding season. Birthing fluids carry the highest concentration of bacteria like Brucella and Chlamydia, making this the most dangerous time to skip protective gear.
 
-People who drink unpasteurized goat milk also face higher exposure. Raw milk can carry Listeria, Salmonella, and E. Coli, so immunocompromised individuals should stick to pasteurized products.
+People who drink unpasteurized goat milk also face higher exposure. Raw milk can carry Listeria, Salmonella, and E. Coli, and you should never consume [milk from a goat with mastitis](/posts/can-you-drink-milk-from-goats-with-mastitis), so immunocompromised individuals should stick to pasteurized products.
 
 ## How do you prevent yourself from catching those diseases?
 
@@ -76,13 +76,13 @@ Wash your hands with soap and warm water for at least 20 seconds after every int
 
 Wear disposable gloves during kidding and when handling any goat that's visibly sick. Change your barn clothes and shoes before going inside your house, especially if you have young children at home.
 
-Keep dedicated barn clothes that stay in the mudroom or garage. Don't eat, drink, or smoke while working with your goats, and make sure any cuts or scrapes on your hands are covered before handling animals.
+Keep dedicated barn clothes that stay in the mudroom or garage. Don't eat, drink, or smoke while working with your goats, and make sure any cuts or scrapes on your hands are covered before handling animals, especially during routine tasks like trimming [cloven hooves](/posts/do-goats-have-cloven-hooves) where you are in close contact.
 
 ## What are the treatments for the diseases?
 
 Treatment depends on the specific disease. Q fever is treated with antibiotics like doxycycline, and most people recover fully within a few weeks.
 
-Orf runs its course on its own since there's no specific medication for it. Keep the blisters clean and dry, and avoid touching other people until the lesions heal.
+Orf runs its course on its own since there is no specific medication for it. Keep the blisters clean and dry, and avoid touching other people until the lesions heal. Understanding proper medication like [penicillin dosing for baby goats](/posts/can-too-much-penicillin-given-to-baby-goat-die) is just as important as protecting yourself.
 
 Cryptosporidiosis is usually treated with fluids and rest, though severe cases may need hospitalization. If you develop flu-like symptoms, persistent diarrhea, or skin lesions after handling goats, see a doctor right away and mention your livestock exposure.
 
@@ -90,9 +90,9 @@ Cryptosporidiosis is usually treated with fluids and rest, though severe cases m
 
 Don't wait for symptoms to get bad. If you develop a fever, persistent diarrhea, or unusual skin blisters within a few weeks of handling goats, get to a doctor promptly.
 
-Tell your doctor that you work with livestock. Many zoonotic diseases mimic the flu, and doctors who don't know about your animal exposure might not test for the right things.
+Tell your doctor that you work with livestock. The fact that goats can carry parasites is why [proper deworming protocols](/posts/can-you-deworm-a-pregnant-goat) matter for both animal and human health. Many zoonotic diseases mimic the flu, and doctors who don't know about your animal exposure might not test for the right things.
 
-Early diagnosis makes a huge difference in treatment outcomes. Diseases like Q fever respond well to antibiotics when caught early but can cause serious complications if left untreated.
+Early diagnosis makes a huge difference in treatment outcomes. Learning to [check your goat's dental pad and teeth](/posts/do-goats-have-teeth) regularly gives you one more opportunity to notice signs of illness during routine handling. Diseases like Q fever respond well to antibiotics when caught early but can cause serious complications if left untreated.
 
 ## Final Thoughts
 

@@ -58,9 +58,9 @@ The catch is that linebreeding concentrates bad genetics just as effectively as 
 
 ## The genetic risks of father-daughter pairing
 
-A father-daughter cross has a 25 percent inbreeding coefficient. That means each offspring has a 25 percent chance of inheriting two copies of any recessive gene the sire carries, including harmful ones.
+A father-daughter cross has a 25 percent inbreeding coefficient. [Half-sibling crosses](/posts/can-you-breed-a-half-brother-and-sister-goat) have a lower coefficient but still carry real risks. That means each offspring has a 25 percent chance of inheriting two copies of any recessive gene the sire carries, including harmful ones.
 
-Common problems that show up from close inbreeding include jaw deformities, undescended testicles, crooked legs, and reduced immune function. Fertility often drops too, with higher rates of stillbirths and smaller litter sizes.
+Common problems that show up from close inbreeding include jaw deformities, undescended testicles, crooked legs, and reduced immune function. Even [crossbreeding Angora goats with dairy breeds](/posts/can-you-breed-angora-goats-with-dairy-goats-for-fiber) is preferable to tight inbreeding when expanding your herd's genetic base. Fertility often drops too, with higher rates of stillbirths and smaller litter sizes.
 
 These issues don't always appear in the first generation. Sometimes the first cross looks perfectly healthy, and the problems don't surface until the second or third generation when you continue to breed within the same line.
 
@@ -70,15 +70,15 @@ Inbreeding depression shows up gradually. You might notice kids that are smaller
 
 Weaker immune systems are one of the first signs. Inbred kids tend to pick up parasites and respiratory infections more easily than their outcrossed counterparts.
 
-Physical deformities are the more obvious red flags. If you start seeing jaw problems, leg issues, or reproductive abnormalities, take a hard look at your breeding records and consider bringing in outside genetics immediately.
+Physical deformities are the more obvious red flags. If you start seeing jaw problems, leg issues, or reproductive abnormalities, take a hard look at your breeding records and consider bringing in outside genetics immediately. Healthy breeds like [Kiko goats with their strong parasite resistance](/posts/where-did-kiko-goats-originate) are excellent for introducing unrelated bloodlines.
 
 ## Why bringing in an unrelated buck is the better move
 
 For most goat owners, the simplest solution is to buy or lease a buck from an unrelated line. Fresh genetics can reverse the effects of inbreeding in just one generation.
 
-Look for a buck from a breeder at least 50 miles away to reduce the chance of shared bloodlines. Ask for registration papers and health records before you buy.
+Look for a buck from a breeder at least 50 miles away to reduce the chance of shared bloodlines. [Toggenburg goats](/posts/where-did-toggenburg-goats-originate) are one breed with well-documented pedigrees going back centuries, making it easy to verify bloodlines. Ask for registration papers and health records before you buy.
 
-Some goat associations run buck leasing programs that let small breeders access new genetics without the full cost of purchasing and maintaining a buck year-round. Track all breeding records in a spreadsheet so you always know which animals are related.
+Some goat associations run buck leasing programs that let small breeders access new genetics without the full cost of purchasing and maintaining a buck year-round. If you do not need him for breeding, [banding the buck](/posts/can-you-band-a-2-year-old-buck-goat) makes management much simpler. Track all breeding records in a spreadsheet so you always know which animals are related.
 
 ## Final Thoughts
 

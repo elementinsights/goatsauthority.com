@@ -46,7 +46,7 @@ Some owners report partial success using puppy pads or litter boxes in a confine
 
 ## Why Full House Training Doesn't Work
 
-Dogs evolved alongside humans for thousands of years and developed an instinct to keep their living space clean. Goats never had that selection pressure. In the wild, goats walk and graze constantly, dropping pellets wherever they happen to be standing.
+Dogs evolved alongside humans for thousands of years and developed an instinct to keep their living space clean. Goats never had that selection pressure. In the wild, goats walk and graze constantly, dropping pellets wherever they happen to be standing. Understanding [whether goats can be tamed](/can-goats-be-tamed) helps set realistic expectations for what training can actually accomplish.
 
 Their digestive system runs nonstop, processing browse and hay around the clock. You can't train a goat to wait until it reaches a designated spot because the urge and the action happen almost simultaneously. It's not a matter of stubbornness or lack of intelligence; their bodies simply aren't built for it.
 
@@ -54,19 +54,19 @@ Their digestive system runs nonstop, processing browse and hay around the clock.
 
 Most "house goats" are temporary situations. A bottle-fed orphan kid, a sick kid that needs round-the-clock nursing, or a newborn rejected by its mother might live inside for a few days or weeks until it's strong enough for the barn.
 
-In these situations, diapers designed for goats can help manage the mess. But goat diapers need changing every few hours, and the goat needs regular diaper-free time to prevent skin irritation and rashes. It's a lot of work, but for a kid that needs constant monitoring, sometimes it's the only option.
+In these situations, diapers designed for goats can help manage the mess. But goat diapers need changing every few hours, and the goat needs regular diaper-free time to prevent skin irritation and rashes. It's a lot of work, but for a kid that needs constant monitoring, sometimes it's the only option. Many people who consider indoor goats also wonder if [goats and dogs can be friends](/can-goats-and-dogs-be-friends) and share living space.
 
 ## Managing a Goat Indoors Short-Term
 
 If you're bringing a kid inside temporarily, confine it to a small, easy-to-clean area with hard flooring. Tile or linoleum works best because you can wipe it down quickly. Cover the floor with puppy pads or old towels you don't mind throwing away.
 
-Keep the kid's area stocked with hay, fresh water, and a warm sleeping spot. Baby goats are active and curious, so remove anything breakable or chewable from their reach. They will climb on furniture, chew electrical cords, and eat houseplants if given the chance. Goat-proofing a room is a lot like baby-proofing, except goats can jump onto counters.
+Keep the kid's area stocked with hay, fresh water, and a warm sleeping spot. Baby goats are active and curious, so remove anything breakable or chewable from their reach. They will climb on furniture, chew electrical cords, and eat houseplants if given the chance. Goat-proofing a room is a lot like baby-proofing, except [domestic goats can jump](/can-domestic-goats-jump) high enough to reach counters and shelves.
 
 ## A Better Alternative to House Training
 
-Instead of trying to house train a goat, build a comfortable shelter close to your house where you can visit often. A small barn or three-sided shed with deep straw bedding gives the goat a clean, warm space without destroying your floors or furniture.
+Instead of trying to house train a goat, build a comfortable shelter close to your house where you can visit often. A small barn or three-sided shed with deep straw bedding gives the goat a clean, warm space without destroying your floors or furniture. If you want a close bond, focus on [whether goats can love humans](/can-goats-love-humans) through daily outdoor interaction instead.
 
-If companionship is the goal, spend time with your goat outside rather than bringing it inside. Goats bond strongly with their owners and will follow you around the yard like a dog. You get all the affection without any of the indoor mess. A bench or chair near the goat pen gives you a comfortable spot to sit and hang out with your herd.
+If companionship is the goal, spend time with your goat outside rather than bringing it inside. Goats bond strongly with their owners and will follow you around the yard like a dog. You get all the affection without any of the indoor mess. A bench or chair near the goat pen gives you a comfortable spot to sit and hang out with your herd. You might even [train a goat to pull a cart](/can-a-goat-pull-a-cart) as a fun outdoor activity that strengthens your bond.
 
 ## Final Thoughts
 

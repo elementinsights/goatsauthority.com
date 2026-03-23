@@ -41,7 +41,7 @@ If you are looking to raise goats in Paradise, California, the good news is that
 
 Paradise is an unincorporated town in Butte County, which means county ordinances apply rather than city-level rules. Butte County has historically been friendly to livestock owners, especially on parcels over one acre.
 
-The rebuilding process after the Camp Fire brought new zoning reviews and development standards. What was allowed on a property in 2017 may have changed, so do not assume the old rules still apply. Properties that were rezoned during reconstruction may have different livestock allowances now.
+The rebuilding process after the Camp Fire brought new zoning reviews and development standards. The [general process for checking whether you can have goats](/can-i-have-goats-where-i-live) applies here too. What was allowed on a property in 2017 may have changed, so do not assume the old rules still apply. Properties that were rezoned during reconstruction may have different livestock allowances now.
 
 ## What are the local ordinances for goats?
 
@@ -49,7 +49,7 @@ Butte County regulates livestock through its zoning code and animal control ordi
 
 Check with the Butte County Planning Department at (530) 538-7601 for current rules on your specific parcel. They can tell you what zone you are in, how many animals are allowed, and whether you need any permits or variances before getting started.
 
-The county also has nuisance ordinances that require you to manage odor, noise, and waste properly. Even on a large parcel, a neighbor complaint about smell or noise can trigger an investigation.
+The county also has nuisance ordinances that require you to manage odor, noise, and waste properly. Composting [goat manure as fertilizer](/can-goat-poop-be-used-as-fertilizer) helps with waste management. Even on a large parcel, a neighbor complaint about smell or noise can trigger an investigation.
 
 ## Key things to check before you start
 
@@ -63,7 +63,7 @@ Water rights and availability are another consideration in this part of Californ
 
 Paradise sits at about 1,700 feet elevation in the Sierra Nevada foothills, which means hot, dry summers and cool, wet winters. Goats handle this climate well as long as they have shade in summer and a dry shelter during the rainy season.
 
-The long dry season means you will likely need to supplement pasture with purchased hay from roughly June through October. Native grasses dry out and go dormant during summer, leaving little for goats to browse on without supplemental feeding.
+The long dry season means you will likely need to supplement pasture with purchased hay from roughly June through October. Good quality [alfalfa](/can-goats-eat-alfalfa) or timothy hay works well for supplemental feeding. Native grasses dry out and go dormant during summer, leaving little for goats to browse on without supplemental feeding.
 
 Fire risk is the elephant in the room for any livestock owner in this area. Have an evacuation plan for your animals, keep trailers accessible, and maintain defensible space around your barn and fencing per Cal Fire requirements. The 2018 fire proved that you need to be ready to move animals on short notice.
 
@@ -71,9 +71,9 @@ Fire risk is the elephant in the room for any livestock owner in this area. Have
 
 Start by visiting the Butte County Planning Department website or calling their office to confirm your zoning and any required permits. Get everything in writing before you invest in fencing or animals.
 
-Choose a breed that suits your goals and climate. Nubians, Nigerian Dwarfs, and Boers all do well in the foothills. Buy from a local breeder who can give you animals already adapted to the dry summers and who knows the area well.
+Choose a breed that suits your goals and climate. Nubians, Nigerian Dwarfs, and Boers all do well in the foothills. A [Nigerian Dwarf can even cross with a Boer](/can-a-nigerian-buck-goat-mount-a-female-boer-goat) if you're looking for a smaller meat goat. Buy from a local breeder who can give you animals already adapted to the dry summers and who knows the area well.
 
-Fence with the terrain in mind. Hilly parcels in the foothills may need extra reinforcement at low points where goats can jump from higher ground over the fence line. Woven wire at a minimum of 4 feet with T-posts every 8 feet is a solid starting point.
+Fence with the terrain in mind. Goats [can climb fences](/can-goats-climb-fences) with ease, and hilly parcels in the foothills may need extra reinforcement at low points where goats can jump from higher ground over the fence line. Woven wire at a minimum of 4 feet with T-posts every 8 feet is a solid starting point.
 
 ## Final Thoughts
 

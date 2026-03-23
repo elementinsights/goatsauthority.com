@@ -48,7 +48,7 @@ Most goat farmers give B12 as a subcutaneous injection in the loose skin over th
 
 B12 plays a direct role in red blood cell production and proper neurological function. A doe carrying multiple kids has a much higher demand for these nutrients, and her body can run through B12 reserves faster than normal.
 
-Pregnancy toxemia and ketosis, which tend to hit does in late pregnancy, can deplete B12 levels even further. A doe dealing with a heavy parasite load on top of pregnancy is also at higher risk for B12 deficiency because parasites destroy red blood cells.
+Pregnancy toxemia and ketosis, which tend to hit does in late pregnancy, can deplete B12 levels even further. A doe dealing with a heavy parasite load on top of pregnancy is also at higher risk for B12 deficiency because parasites destroy red blood cells. If you are wondering about parasite treatment timing, [deworming pregnant goats](/can-you-deworm-a-pregnant-goat) can be done safely with the right products.
 
 ## Dosage and how to give it
 
@@ -62,17 +62,17 @@ Many farmers give B12 alongside an iron supplement like iron dextran when dealin
 
 The last six weeks of pregnancy is when does need the most nutritional support. This is when the kids are growing fastest and putting the biggest demand on the doe's body.
 
-If your doe looks pale around the eyelids, seems tired, or has lost her appetite in late pregnancy, a B12 injection can help perk her up. You do not need to wait for a crisis to give it since many farmers include B12 as part of their standard late-pregnancy care routine.
+If your doe looks pale around the eyelids, seems tired, or has lost her appetite in late pregnancy, a B12 injection can help perk her up. Pale eyelids can also signal [anemia serious enough to cause stroke-like symptoms](/can-goats-have-a-stroke-anemia), so do not ignore that sign. You do not need to wait for a crisis to give it since many farmers include B12 as part of their standard late-pregnancy care routine.
 
-Does that have had pregnancy toxemia or ketosis in past pregnancies benefit from a preventative B12 shot around day 120 of gestation. It is cheap insurance against a problem that can kill a doe fast.
+Does that have had pregnancy toxemia or ketosis in past pregnancies benefit from a preventative B12 shot around day 120 of gestation. Feeding [medicated feed during pregnancy](/can-pregnant-goats-eat-medicated-feed) is another preventative measure to discuss with your vet. It is cheap insurance against a problem that can kill a doe fast.
 
 ## Alternatives to injectable B12
 
 Oral B12 supplements exist, but they are not absorbed as well as injectable forms. A goat with a functioning rumen produces some B12 on its own through bacterial fermentation, but sick or stressed goats often cannot keep up with demand.
 
-B-complex vitamin pastes and drenches can provide a small amount of B12 along with other B vitamins. These are fine for maintenance but are not a substitute for an injection when a doe is genuinely deficient.
+B-complex vitamin pastes and drenches can provide a small amount of B12 along with other B vitamins. These are fine for maintenance but are not a substitute for an injection when a doe is genuinely deficient. [Nutri-Drench](/can-nutri-drench-be-given-to-lactating-goats) is another common drench that pairs well with B12 for does in rough shape.
 
-Good nutrition is the best long-term prevention. Quality hay, proper loose minerals, and a clean pasture with low parasite pressure will keep most does from ever needing a B12 shot in the first place.
+Good nutrition is the best long-term prevention. Quality hay, proper loose minerals, and a clean pasture with low parasite pressure will keep most does from ever needing a B12 shot in the first place. [Pregnant Boer goats benefit from alfalfa](/can-pregnant-boer-goats-eat-alfalfa) as a high-protein hay option during late gestation.
 
 ## Final thoughts
 

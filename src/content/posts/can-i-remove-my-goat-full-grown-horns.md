@@ -43,13 +43,13 @@ Here's what you need to know before making that decision.
 
 Technically yes, but it's a major surgery. Goat horns aren't just keratin shells sitting on the skull. They connect directly to the sinus cavities, and in adult goats, they have a blood supply running through them and are fused to the bone.
 
-Removing full-grown horns means cutting through living bone and opening up the sinus cavity. This causes heavy bleeding, leaves an open wound into the skull, and carries a high risk of infection. It requires a veterinarian, general anesthesia, and a recovery period that can stretch for weeks.
+Removing full-grown horns means cutting through living bone and opening up the sinus cavity. This causes heavy bleeding, leaves an open wound into the skull, and carries a high risk of infection. If you do proceed, knowing [how to suture goat wounds](/can-i-suture-my-goat) is a useful skill for aftercare. It requires a veterinarian, general anesthesia, and a recovery period that can stretch for weeks.
 
 ## What do goats use their horns for?
 
 Horns serve goats in more ways than most people realize. They use them to defend against predators, settle disputes within the herd, and establish pecking order.
 
-Horns also help regulate body temperature. Blood flows through the horn core, and as air passes over the horns, it cools the blood before it circulates back through the body. This is especially useful in hot climates. Removing horns takes away a natural cooling system that goats have relied on for thousands of years.
+Horns also help regulate body temperature. Blood flows through the horn core, and as air passes over the horns, it cools the blood before it circulates back through the body. This is especially useful in hot climates where goats are [kept outside year-round](/can-goats-be-outside-in-winter). Removing horns takes away a natural cooling system that goats have relied on for thousands of years.
 
 ## How and when are goat horns removed?
 
@@ -61,11 +61,11 @@ A disbudding iron burns the horn bud and destroys the cells that would grow into
 
 If a vet determines that adult dehorning is necessary, the goat goes under general anesthesia. The vet uses a dehorning wire or surgical saw to cut through the horn at its base.
 
-Because the horn connects to the sinus cavity, the vet has to manage heavy bleeding and then cover the open sinus to prevent debris and bacteria from entering. Pain management with anti-inflammatories and antibiotics is standard aftercare. The healing process takes several weeks, and the goat needs to stay in a clean, dry area during recovery.
+Because the horn connects to the sinus cavity, the vet has to manage heavy bleeding and then cover the open sinus to prevent debris and bacteria from entering. [Baby aspirin](/can-i-give-baby-aspirin-to-my-baby-goat) can supplement prescription pain management during recovery. The healing process takes several weeks, and the goat needs to stay in a clean, dry area during recovery.
 
 ## The benefits of removing goat horns
 
-There are legitimate reasons some farmers choose to remove horns. Horned goats can injure other goats, get their heads stuck in fences, and accidentally hurt the people handling them.
+There are legitimate reasons some farmers choose to remove horns. Horned goats can injure other goats, get their heads stuck in fences, and accidentally hurt the people handling them. This is particularly dangerous when [mixing newborn goats with older goats](/can-i-mix-newborn-goats-and-older-goats) since a headbutt from a horned adult can be fatal to a kid.
 
 In dairy operations, horned goats at the milking stand can be a real hazard. Goats without horns are easier to manage in close quarters and tend to cause fewer injuries during feeding time or when being loaded for transport.
 
@@ -73,7 +73,7 @@ In dairy operations, horned goats at the milking stand can be a real hazard. Goa
 
 For adult goats, the risks usually outweigh the benefits. The surgery itself can be fatal if bleeding isn't controlled, and infection of the open sinus cavity is a real threat.
 
-Many experienced goat keepers skip dehorning entirely and instead manage their horned goats with proper fencing, wider feed spaces, and careful handling. Horn tipping, which is trimming just the sharp points off the horns without cutting into the blood supply, is a much safer option that reduces injury risk without any surgical trauma.
+Many experienced goat keepers skip dehorning entirely and instead manage their horned goats with proper fencing, wider feed spaces, and [a rope halter](/can-i-use-a-rope-halter-on-a-goat) for careful handling. Horn tipping, which is trimming just the sharp points off the horns without cutting into the blood supply, is a much safer option that reduces injury risk without any surgical trauma.
 
 ## Final Thoughts
 

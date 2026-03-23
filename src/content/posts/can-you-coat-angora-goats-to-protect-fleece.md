@@ -42,7 +42,7 @@ Yes, you can coat Angora goats to protect their fleece, and plenty of serious fi
 
 Goat coats work by creating a physical barrier between the fleece and everything that wants to trash it. Burrs, seeds, sticks, and hay chaff are the biggest enemies of clean mohair, and a well-fitted coat keeps all of that out.
 
-Sun bleaching is another concern, especially for colored Angora goats headed to shows. A coat blocks UV exposure and preserves the natural color and luster that judges and hand spinners look for.
+Sun bleaching is another concern, especially for colored Angora goats headed to shows. If you are [crossbreeding Angoras with dairy goats](/posts/can-you-breed-angora-goats-with-dairy-goats-for-fiber), coating becomes less critical since the crossbred fiber is already lower grade. A coat blocks UV exposure and preserves the natural color and luster that judges and hand spinners look for.
 
 ## What are the things you need to take into account when coating an angora goat?
 
@@ -56,7 +56,7 @@ Make sure no buckles or velcro patches sit directly against the fleece. These ha
 
 The coat keeps vegetable matter from embedding in the mohair. Anyone who has spent hours picking burrs out of a fleece before shearing knows how valuable this protection is.
 
-It also shields the fleece from rain and mud that cause felting and staining. Clean, bright mohair brings a significantly better price at market than fleece that's been weathered and contaminated.
+It also shields the fleece from rain and mud that cause felting and staining. The same wet conditions that ruin fleece also increase [foot rot risk in the cloven hooves](/posts/do-goats-have-cloven-hooves) of your herd. Clean, bright mohair brings a significantly better price at market than fleece that's been weathered and contaminated.
 
 ## When to put the coat on and take it off
 
@@ -64,18 +64,18 @@ Most breeders put coats on right after shearing, once the fleece has grown out a
 
 Remove the coat before shearing so the shearer has clear access to the fleece. Some producers only coat during the worst burr season rather than year-round, which cuts down on management time while still protecting the fiber during the highest-risk months.
 
-Check underneath the coat at least once a week for signs of skin irritation, moisture buildup, or parasites hiding against the warm fleece. A five-minute inspection prevents problems that could cost you an entire clip.
+Check underneath the coat at least once a week for signs of skin irritation, moisture buildup, or parasites hiding against the warm fleece. Goats kept in [mixed herds with sheep](/posts/can-you-describe-a-herd-of-sheep-and-goats) need separate mineral management as well. A five-minute inspection prevents problems that could cost you an entire clip.
 
 ## Choosing the right coat material
 
 Look for coats with adjustable straps at the chest and belly. You want a snug fit that doesn't restrict movement or rub on the legs.
 
-Avoid heavy wool-lined or fleece-lined materials, since these trap moisture against the mohair and cause more matting than going without a coat. Check your coats regularly for torn seams or loose straps that could snag on fencing.
+Avoid heavy wool-lined or fleece-lined materials, since these trap moisture against the mohair and cause more matting than going without a coat. [Kiko goats](/posts/where-did-kiko-goats-originate) with their shorter coats obviously do not need this kind of management. Check your coats regularly for torn seams or loose straps that could snag on fencing.
 
 ## What to Remember
 
 Coating Angora goats is a proven way to protect mohair quality for show and fiber sales. The key is getting the right fit with breathable material and checking it regularly.
 
-Take coats off during the hottest summer months to prevent heat stress. Angora goats are already prone to overheating with their dense fiber, and adding a coat on top of that in hot weather can push them into dangerous territory.
+Take coats off during the hottest summer months to prevent heat stress. Angora goats are already prone to overheating with their dense fiber, and adding a coat on top of that in hot weather can push them into dangerous territory. Breeding decisions also matter, since a doe [at prime age](/posts/can-you-breed-a-4yr-old-goat) produces the healthiest kids while maintaining good fleece quality.
 
 With a little management, a good goat coat will pay for itself many times over in cleaner, higher-value fleece at shearing time. Most fiber producers who start coating their Angoras never go back to leaving them uncovered.

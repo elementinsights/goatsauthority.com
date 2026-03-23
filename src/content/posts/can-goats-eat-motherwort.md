@@ -44,7 +44,7 @@ Yes, goats can eat motherwort without problems. It's a member of the mint family
 
 Motherwort is not a preferred browse plant for most goats. They'll eat it here and there but generally won't gorge on it when other forage is available. In normal pasture grazing situations, the amounts they consume are not harmful.
 
-Goats are selective browsers by nature. They instinctively rotate through different plants in a pasture rather than eating large amounts of any single species, which is part of why motherwort rarely causes issues.
+Goats are selective browsers by nature, which is why the idea that [goats eat everything](/can-goats-eat-everything/) is really a myth. They instinctively rotate through different plants in a pasture rather than eating large amounts of any single species, which is part of why motherwort rarely causes issues.
 
 ## What is motherwort and what do they look like?
 
@@ -54,7 +54,7 @@ You can identify it by its deeply lobed leaves with 3 to 5 pointed sections grow
 
 ## What are the benefits of motherwort for goats?
 
-Some herbalists and old-time goat keepers use motherwort as a uterine tonic for does around kidding time. The plant contains leonurine and stachydrine, two compounds that have been studied for their effects on uterine muscle.
+Some herbalists and old-time goat keepers use motherwort as a uterine tonic for does around kidding time, often alongside supplemental [alfalfa](/can-goats-eat-alfalfa/) for extra calcium. The plant contains leonurine and stachydrine, two compounds that have been studied for their effects on uterine muscle.
 
 Whether it actually helps goats during labor is debatable, and there's limited veterinary research to back it up. What we do know is that the plant is not toxic in the amounts a goat would normally eat while browsing, and it adds variety to their forage.
 
@@ -64,11 +64,11 @@ In normal browsing amounts, there are no negative consequences. Goats self-regul
 
 Motherwort does contain small amounts of alkaloids, including leonurine and stachydrine. In very large quantities these could theoretically cause loose stools or mild digestive upset, but a goat would have to eat an unusual amount for that to happen.
 
-The diuretic properties of motherwort are sometimes mentioned as a concern. In practice, goats that nibble on it while browsing don't consume enough to notice any difference in their urination or hydration levels.
+The diuretic properties of motherwort are sometimes mentioned as a concern. In practice, goats that nibble on it while browsing don't consume enough to notice any difference in their urination or hydration levels. This is completely different from truly harmful plants like [onions](/can-goats-eat-onions/) which can damage red blood cells even in moderate amounts.
 
 ## How to identify motherwort in your pasture
 
-Walk your pasture during the growing season and look for that distinctive square stem with deeply lobed leaves. The flowers bloom from June through August and are small, fuzzy, and pink to purple.
+Walk your pasture during the growing season and look for that distinctive square stem with deeply lobed leaves. You might find it growing near [dandelions](/can-goats-eat-dandelions/) and honeysuckle, all of which are safe pasture plants. The flowers bloom from June through August and are small, fuzzy, and pink to purple.
 
 If you want to manage it, pull plants up by the roots because cutting them back just encourages regrowth. Most goat owners don't bother removing it though, since the plant isn't dangerous to their animals.
 
@@ -76,4 +76,4 @@ If you want to manage it, pull plants up by the roots because cutting them back 
 
 Motherwort is one of those plants you don't need to lose sleep over. It's safe for goats in normal browsing amounts, and they'll generally regulate their own intake without you having to do anything.
 
-The original article on this topic had some conflicting information about motherwort being deadly to goats, and that's simply not accurate for the amounts a goat encounters in a pasture. If you're interested in using herbs for your goats, raspberry leaf for pregnant does and chamomile for calming nervous animals are more proven options. But if motherwort is growing in your pasture, there's no need to fence it off or pull it out on your goats' account.
+The original article on this topic had some conflicting information about motherwort being deadly to goats, and that's simply not accurate for the amounts a goat encounters in a pasture. If you're interested in using herbs for your goats, raspberry leaf for pregnant does and [pine needles for vitamin C](/can-goats-eat-pine-needles/) are more proven options. But if motherwort is growing in your pasture, there's no need to fence it off or pull it out on your goats' account.

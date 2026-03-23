@@ -44,13 +44,13 @@ Goats eat several types of hay, and the right one depends on the animal's age, s
 
 Alfalfa is the gold standard for lactating does and growing kids because of its high protein and calcium content. It gives milking does the energy they need to keep production up and helps kids build strong bones during their fastest growth period.
 
-Timothy hay works well for bucks and wethers who don't need the extra protein and calories. It's a solid maintenance hay that keeps the rumen working without packing on excess weight.
+Timothy hay works well for bucks and wethers who don't need the extra protein and calories. Goats are strict herbivores that [should never be fed meat](/posts/do-goats-eat-meat), so hay is the foundation of their diet. It is a solid maintenance hay that keeps the rumen working without packing on excess weight.
 
 ## The different types of hay and when to use them
 
 Orchard grass is a great all-around option that most goats find palatable. It has a good balance of protein and fiber, and it's softer than Timothy, which means less waste from picky eaters.
 
-Bermuda grass hay is common in southern states and works fine as a base forage, though it's lower in protein than the other options. Avoid fescue hay for pregnant does because endophyte-infected fescue can cause serious problems during late pregnancy, including retained placentas and poor milk production.
+Bermuda grass hay is common in southern states and works fine as a base forage, though it's lower in protein than the other options. Avoid fescue hay for pregnant does because endophyte-infected fescue can cause serious problems during late pregnancy, including retained placentas and poor milk production. Feeding goats the wrong hay can also cause [bloat that requires emergency treatment](/posts/can-you-debloat-a-goat).
 
 ## First cutting vs. Second cutting
 
@@ -62,17 +62,17 @@ Second cutting is leafier, softer, and packed with more nutrition. It costs more
 
 Always smell hay before you buy it. Good hay smells sweet and grassy, while moldy hay has a sour, musty, or ammonia-like odor that you can't miss.
 
-Check the color too. Bright green hay is fresh and nutritious, while pale yellow or brown bales have either been rained on or stored too long. Moldy hay can cause respiratory infections and digestive problems that lead to expensive vet visits.
+Check the color too. Bright green hay is fresh and nutritious, while pale yellow or brown bales have either been rained on or stored too long. Goats are browsers, not grazers, which is [why they seem to eat everything](/posts/why-do-goats-eat-everything) even though they are actually quite selective. Moldy hay can cause respiratory infections and digestive problems that lead to expensive vet visits.
 
 ## How much hay does a goat need?
 
-A standard adult goat eats roughly 3 to 4 pounds of hay per day, which works out to about 2 to 4 percent of its body weight. Heavy milkers may go through 5 pounds a day because their bodies are burning through calories to produce milk.
+A standard adult goat eats roughly 3 to 4 pounds of hay per day, which works out to about 2 to 4 percent of its body weight. Heavy milkers may go through 5 pounds a day because their bodies are burning through calories to produce milk. Their [four-compartment rumen system](/posts/how-many-stomachs-do-goats-have) ferments this hay into usable energy far more efficiently than a simple stomach could.
 
 Stock up before winter because goats eat more hay in cold weather to generate body heat. Running out in January when your local supplier is sold out is a bad spot to be in.
 
 ## Reducing hay waste
 
-Goats are messy eaters and will waste a shocking amount of hay if you toss it on the ground. A keyhole-style hay feeder with narrow slots forces them to pull hay out one mouthful at a time instead of dragging whole flakes onto the floor and stomping on them.
+Goats are messy eaters and will waste a shocking amount of hay if you toss it on the ground. A keyhole-style hay feeder with narrow slots forces them to pull hay out one mouthful at a time instead of dragging whole flakes onto the floor and stomping on them. This also prevents goats from accidentally ingesting [metal debris like nails and wire](/posts/do-goats-eat-metal) that may end up on the ground.
 
 Hang feeders at head height or slightly above to keep hay clean and dry. This one change alone can cut your hay waste in half.
 

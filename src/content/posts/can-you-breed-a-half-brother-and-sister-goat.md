@@ -48,13 +48,13 @@ One generation of half-sibling breeding with two strong, healthy animals is unli
 
 Linebreeding and inbreeding are the same thing genetically. The only real difference is the intent behind it. Breeders call it linebreeding when they are doing it on purpose to fix desirable traits, and inbreeding when it happens by accident or produces bad results.
 
-Professional breeders sometimes linebreed to lock in traits like milk production, body conformation, or coat quality. They cull hard when offspring do not meet the standard, which is the part most backyard breeders skip.
+Professional breeders sometimes linebreed to lock in traits like milk production, body conformation, or coat quality. [Breeding Angora goats with dairy breeds](/posts/can-you-breed-angora-goats-with-dairy-goats-for-fiber) is one example of using crossbreeding to introduce diversity. They cull hard when offspring do not meet the standard, which is the part most backyard breeders skip.
 
-Without that willingness to remove animals that carry defects from the breeding program, linebreeding just concentrates problems instead of fixing traits. That is the honest truth of it.
+Without that willingness to remove animals that carry defects from the breeding program, linebreeding just concentrates problems instead of fixing traits. [Castrating bucklings you will not keep](/posts/can-you-band-a-goat-at-3-years-old) is part of responsible herd management. That is the honest truth of it.
 
 ## Risks of breeding close relatives
 
-Close inbreeding doubles the chance of recessive genetic defects showing up in offspring. Defects that both parents carry silently can suddenly appear in kids as underbites, weak legs, poor immune systems, or reproductive problems.
+Close inbreeding doubles the chance of recessive genetic defects showing up in offspring. [Father-daughter pairings](/posts/can-you-breed-a-father-and-daughter-goat) carry even higher risk with a 25 percent inbreeding coefficient. Defects that both parents carry silently can suddenly appear in kids as underbites, weak legs, poor immune systems, or reproductive problems.
 
 These issues sometimes do not show up until the second or third inbred generation, by which point the damage is already embedded in your herd. Cleaning up the genetics after that takes years of introducing outside bloodlines.
 
@@ -64,13 +64,13 @@ Inbreeding depression is the term for the gradual decline in health and vigor th
 
 The simplest fix is to bring in a new, unrelated buck every two to three years. A fresh buck from a completely different bloodline will immediately improve genetic diversity in your next kid crop.
 
-If buying a buck is not in the budget, consider artificial insemination with semen from a proven sire in another state. AI gives you access to top genetics from anywhere in the country at a fraction of the cost.
+If buying a buck is not in the budget, consider artificial insemination with semen from a proven sire in another state. Hardy meat breeds like [Kikos](/posts/where-did-kiko-goats-originate) or cold-hardy dairy breeds like [Toggenburgs](/posts/where-did-toggenburg-goats-originate) are both available through AI programs. AI gives you access to top genetics from anywhere in the country at a fraction of the cost.
 
 Some breeders arrange buck swaps with nearby farms. You send your buck to their place for a season and they send theirs to you. Both herds benefit from new bloodlines without spending extra money.
 
 ## Tracking bloodlines in your herd
 
-Keep a simple record for every goat with its name, date of birth, sire, and dam. A notebook or spreadsheet is all you need to avoid accidentally breeding related animals.
+Keep a simple record for every goat with its name, date of birth, sire, and dam. Knowing [how many kids each doe delivers](/posts/how-many-babies-do-goats-have-at-a-time) helps you track which animals share parents. A notebook or spreadsheet is all you need to avoid accidentally breeding related animals.
 
 When you bring in a new buck, write down his lineage as far back as you can get it. Many breeders use color-coded ear tags to quickly identify family groups at a glance in the pasture.
 

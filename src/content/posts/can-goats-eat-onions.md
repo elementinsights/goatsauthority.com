@@ -67,18 +67,18 @@ Garlic belongs to the same plant family as onions and contains the same type of 
 
 Any allium in large quantities poses a risk. Leeks, chives, and shallots all carry the same compounds and should not be fed to goats as a regular part of their diet.
 
-If you want to add flavor or variety to your goat's feed, skip the allium family entirely. Dried herbs like oregano, thyme, and rosemary are much safer options and most goats enjoy them.
+If you want to add flavor or variety to your goat's feed, skip the allium family entirely. Safe treats like [carrots](/can-goats-eat-carrots/), apples, and pumpkin are much better choices that goats enjoy just as much.
 
 ## Keeping goats away from onions
 
-Fence off your garden if you grow onions, garlic, or any other alliums. Goats are curious and will sample just about anything they can reach, so a physical barrier is the most reliable prevention.
+Fence off your garden if you grow onions, garlic, or any other alliums. This is just as important as keeping goats away from [poison hemlock](/can-goats-eat-poison-hemlock/) or avocado. Goats are curious and will sample just about anything they can reach, so a physical barrier is the most reliable prevention.
 
-Do not toss onion scraps or peels into areas where goats can get to them. Compost bins near goat pens are a common way goats end up eating things they should not.
+Do not toss onion scraps or peels into areas where goats can get to them. Unlike [leftover vegetables](/can-i-feed-my-goat-leftovers/) that are often safe to share, allium scraps are always a risk. Compost bins near goat pens are a common way goats end up eating things they should not.
 
-If you suspect your goat has eaten onions, remove the source right away and watch for symptoms over the next few days. Recovery from mild onion toxicity takes about two weeks once the onion is removed from the diet, but the goat needs plenty of fresh water and good-quality hay during that time.
+If you suspect your goat has eaten onions, remove the source right away and watch for symptoms over the next few days. Recovery from mild onion toxicity takes about two weeks once the onion is removed from the diet, but the goat needs plenty of fresh water and good-quality [hay](/what-kind-of-hay-do-goats-eat/) during that time.
 
 ## Final Thoughts
 
 Onions are one of those foods that you should simply keep away from your goats. The risk of hemolytic anemia is real, and the damage builds up over time even with small amounts.
 
-A stray nibble from the garden is not an emergency, but do not make a habit of feeding onions to your herd. There are plenty of safer treats out there that will not put your goats' health at risk.
+A stray nibble from the garden is not an emergency, but do not make a habit of feeding onions to your herd. There are plenty of safer treats like [peppers](/can-goats-eat-peppers/), celery, and bananas that will not put your goats' health at risk.

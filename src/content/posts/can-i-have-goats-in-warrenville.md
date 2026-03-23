@@ -41,11 +41,11 @@ If you are thinking about keeping goats in Warrenville, Illinois, you need to ch
 
 The answer depends entirely on your zoning classification and property size. Warrenville has different rules for residential, agricultural, and mixed-use zones, and what flies on a 5-acre lot will not work on a quarter-acre subdivision lot.
 
-Your first step is to call the Warrenville City Clerk or visit the city website to look up your specific zoning designation. Do this before you build a pen, buy fencing, or put a deposit on goats. Getting caught with unpermitted livestock can mean fines and forced removal of your animals.
+Your first step is to call the Warrenville City Clerk or visit the city website to look up your specific zoning designation. The [same zoning research applies everywhere](/can-i-have-goats-where-i-live). Do this before you build a pen, buy fencing, or put a deposit on goats. Getting caught with unpermitted livestock can mean fines and forced removal of your animals.
 
 ## What to look for in the municipal code
 
-Check for livestock or animal ordinances that specifically mention goats, small ruminants, or farm animals. Many suburban cities distinguish between miniature breeds like Nigerian Dwarfs and full-size breeds like Nubians or Boers, and some allow the smaller breeds while banning the larger ones.
+Check for livestock or animal ordinances that specifically mention goats, small ruminants, or farm animals. Many suburban cities distinguish between miniature breeds like [Nigerian Dwarfs](/can-i-register-my-nigerian-dwarf-goat-if-it-doesnt-have-papers) and full-size breeds like Nubians or Boers, and some allow the smaller breeds while banning the larger ones.
 
 Pay attention to setback requirements, which dictate how far animal shelters must be from property lines and neighboring homes. Noise ordinances also matter because goats, especially bucks in rut and does calling for their kids, can be loud enough to generate complaints fast.
 
@@ -61,17 +61,17 @@ Bringing your neighbors a dozen eggs or a jar of goat milk soap every now and th
 
 ## Practical considerations for Warrenville
 
-Warrenville gets cold, with winter temperatures regularly dropping below zero in January and February. Your goats need a solid three-sided shelter facing south, deep straw bedding, and 25 percent more hay during freezing weather since rumen fermentation generates body heat.
+Warrenville gets cold, with winter temperatures regularly dropping below zero in January and February. Knowing [whether goats can die in cold weather](/can-goats-die-in-cold-weather) makes proper shelter planning essential. Your goats need a solid three-sided shelter facing south, deep straw bedding, and 25 percent more hay during freezing weather since rumen fermentation generates body heat.
 
 Manure management is the number one source of neighbor complaints in suburban settings. Two goats produce a wheelbarrow of manure per week, so plan for a compost system in the farthest corner of your property and clean the pen every other day in summer to control flies and odor.
 
-Fencing needs to be goat-proof, which is harder than it sounds. Five-foot chain link with no gaps at the bottom and carabiner-style latches on every gate is the minimum. Goats are escape artists, and a loose goat in a Warrenville neighborhood is going to cause problems fast.
+Fencing needs to be goat-proof, which is harder than it sounds. Five-foot chain link with no gaps at the bottom and carabiner-style latches on every gate is the minimum. Goats [can climb fences](/can-goats-climb-fences) that would stop most other animals, and a loose goat in a Warrenville neighborhood is going to cause problems fast.
 
 ## Getting started the right way
 
 Contact the Warrenville City Clerk at (630) 393-9427 or visit warrenville.il.us to request information on livestock permits and zoning. Get everything in writing before you spend money on fencing or animals.
 
-Buy your goats from a reputable breeder who can show you health records and CAE test results. Always start with at least two since goats are herd animals that do not do well alone. Spring is the best time to buy because kidding season puts plenty of young stock on the market at reasonable prices.
+Buy your goats from a reputable breeder who can show you health records and CAE test results. Always start with at least two since goats are herd animals that do not do well alone. Knowing [how many babies goats have](/how-many-babies-do-goats-have-at-a-time) helps you plan for kidding season, which is the best time to buy because plenty of young stock hits the market at reasonable prices.
 
 ## Final Thoughts
 

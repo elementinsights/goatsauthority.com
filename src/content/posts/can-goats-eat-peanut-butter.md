@@ -44,7 +44,7 @@ Here's what you need to know before you crack open that jar.
 
 Peanut butter is not toxic to goats, and a small amount won't cause any harm. Smooth or crunchy both work fine. Goats tend to love the taste, which is exactly why it's useful in certain situations.
 
-The main concern is quantity. Peanut butter is calorie-dense and high in fat, which goats don't need much of in their regular diet. A tablespoon here and there is fine, but making it a daily habit will lead to weight gain.
+The main concern is quantity. Peanut butter is calorie-dense and high in fat, which goats don't need much of in their regular diet when they already get fats from treats like [peanuts](/can-goats-eat-peanuts/). A tablespoon here and there is fine, but making it a daily habit will lead to weight gain.
 
 One thing to watch for is large globs sticking to the roof of the goat's mouth. Smear it thin on a cracker or mix a small amount into grain rather than giving a big spoonful straight from the jar.
 
@@ -54,7 +54,7 @@ This is where peanut butter really earns its place on the farm. Goats are notori
 
 Wrap the pill in a small amount of peanut butter and place it on the back of the goat's tongue. Most goats swallow it without a fight because the peanut butter flavor overwhelms the medicine taste.
 
-This trick saves a lot of wrestling and frustration at dosing time. Just keep the amount of peanut butter tiny so you're not adding unnecessary fat to their diet every time you give medication.
+This trick saves a lot of wrestling and frustration at dosing time, similar to using [bread](/can-goats-eat-bread/) as a pill wrapper. Just keep the amount of peanut butter tiny so you're not adding unnecessary fat to their diet every time you give medication.
 
 ## Watch out for xylitol
 
@@ -74,9 +74,9 @@ If you're offering peanut butter for the first time, start with a pea-sized amou
 
 ## Better treat alternatives
 
-Compared to peanut butter, fresh fruits and vegetables are almost always the better choice for regular treats. Apple slices, carrot chunks, and banana pieces are lower in calories and easier to portion out for a whole herd.
+Compared to peanut butter, fresh fruits and vegetables are almost always the better choice for regular treats. [Apple slices](/can-goats-eat-apples/), carrot chunks, and banana pieces are lower in calories and easier to portion out for a whole herd.
 
-Black oil sunflower seeds offer a similar protein and fat boost without the sticky mess. They're cheaper per serving and goats love them just as much.
+[Black oil sunflower seeds](/can-goats-eat-sunflower-seeds/) offer a similar protein and fat boost without the sticky mess. They're cheaper per serving and goats love them just as much.
 
 Save the peanut butter for those times when you actually need it, like hiding a pill or coaxing a stubborn goat into a pen. For everyday treats, stick to produce and seeds.
 
@@ -84,4 +84,4 @@ Save the peanut butter for those times when you actually need it, like hiding a 
 
 Peanut butter is safe for goats in small amounts and shines as a medication delivery tool. Avoid brands with xylitol, keep portions to a tablespoon or less, and don't give it to kids under six months.
 
-For regular treating, fruits, vegetables, and sunflower seeds are better options. But when you need to get a pill down a stubborn goat's throat, peanut butter is hard to beat.
+For regular treating, fruits like [watermelon](/can-goats-eat-watermelon/) and grapes, vegetables, and sunflower seeds are better options. But when you need to get a pill down a stubborn goat's throat, peanut butter is hard to beat.

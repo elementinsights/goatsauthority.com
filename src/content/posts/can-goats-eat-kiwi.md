@@ -45,7 +45,7 @@ Yes, goats can eat kiwi without any problems. The flesh, the skin, and the seeds
 
 Kiwi is loaded with vitamin C and also contains potassium, folate, and fiber. As far as fruit treats go, it's one of the more nutritious options you can offer.
 
-A couple of kiwis per goat is a reasonable treat amount. Like any fruit, it's got sugar in it, so moderation matters.
+A couple of kiwis per goat is a reasonable treat amount, similar to how you would portion [peaches](/can-goats-eat-peaches/) or [bananas](/can-goats-eat-bananas/). Like any fruit, it's got sugar in it, so moderation matters.
 
 ## The Skin and Seeds Are Fine
 
@@ -59,15 +59,15 @@ Just slice the kiwi in half and hand it over. For kids or smaller breeds, you ca
 
 If you grow kiwi vines on your property, you don't need to worry about your goats nibbling the leaves or stems. The kiwi plant itself is non-toxic to goats.
 
-Goats will absolutely destroy a young kiwi vine if they get access to it. They'll strip the bark and eat every leaf in sight, killing the plant in the process.
+Goats will absolutely destroy a young kiwi vine if they get access to it, much like they would with [grape vines](/can-goats-eat-grapes/) given the chance. They'll strip the bark and eat every leaf in sight, killing the plant in the process.
 
 If you want to grow kiwi for your herd, plant it behind a fence where they can't reach. Hardy kiwi varieties can survive in USDA Zone 4 and produce smaller, smooth-skinned fruit that goats find even easier to eat.
 
 ## Nutritional Benefits
 
-The vitamin C content in kiwi is the standout benefit. A single kiwi has more vitamin C than most citrus fruits, and that extra immune support is helpful during stressful times like weaning, transport, or extreme weather.
+The vitamin C content in kiwi is the standout benefit. A single kiwi has more vitamin C than most citrus fruits like [oranges](/can-goats-eat-oranges/), and that extra immune support is helpful during stressful times like weaning, transport, or extreme weather.
 
-Kiwi also provides potassium for proper muscle function and folate, which is particularly valuable for pregnant does. The fiber content supports healthy digestion as well.
+Kiwi also provides potassium for proper muscle function and folate, which is particularly valuable for pregnant does. The fiber content supports healthy digestion as well, just like [apples](/can-goats-eat-apples/) and watermelon do.
 
 None of this makes kiwi a dietary staple. But as an occasional treat, it's bringing real nutrition to the table alongside the fun.
 
@@ -77,7 +77,7 @@ The easiest method is slicing the kiwi in half and letting your goats scoop out 
 
 For first-timers or picky eaters, you can mash the flesh and mix it into their grain. This gets them used to the flavor without the unfamiliar texture of the fuzzy skin.
 
-Always remove any stickers or labels from store-bought kiwi before offering it. Goats will eat the sticker without hesitation, and you don't want adhesive in their gut.
+Always remove any stickers or labels from store-bought kiwi before offering it, and wash thoroughly to remove pesticide residue just as you would with [strawberries](/can-goats-eat-strawberries/). Goats will eat the sticker without hesitation, and you don't want adhesive in their gut.
 
 You can also mash kiwi flesh and mix it into grain for picky eaters or kids that are trying it for the first time. This reduces any texture concerns and lets them get used to the flavor gradually.
 

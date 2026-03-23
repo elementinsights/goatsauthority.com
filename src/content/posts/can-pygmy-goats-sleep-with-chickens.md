@@ -46,7 +46,7 @@ But "can" and "should" are two different questions. Chickens are messy roosters 
 
 ## The risks of having pygmy goats sleep with chickens
 
-The biggest concern is respiratory health. Chicken manure produces ammonia as it breaks down, and goats are sensitive to ammonia fumes. In an enclosed barn with poor ventilation, those fumes build up fast and can lead to pneumonia.
+The biggest concern is respiratory health. Chicken manure produces ammonia as it breaks down, and goats are sensitive to ammonia fumes. In an enclosed barn with poor ventilation, those fumes build up fast and can lead to pneumonia. Using [pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats) helps neutralize ammonia and keep the air cleaner.
 
 Chicken droppings also carry Histoplasma capsulatum, a fungus that causes respiratory illness. Goats breathing in dust from dried chicken poop are at risk, especially in dry weather when the spores become airborne.
 
@@ -54,19 +54,19 @@ Then there is the size difference. A pygmy goat can accidentally step on a chick
 
 ## The benefits of having pygmy goats sleep with chickens
 
-It is not all bad news. Goats and chickens often get along well during the day, and housing them nearby can provide natural predator deterrence. A goat's size and alertness can scare off weasels, raccoons, and other small predators that target chickens at night.
+It is not all bad news. Goats and chickens often get along well during the day, and housing them nearby can provide natural predator deterrence. [Raccoons pose a threat to both species](/can-raccoons-kill-goat), so a shared barn with solid doors protects everyone. A goat's size and alertness can scare off weasels, raccoons, and other small predators that target chickens at night.
 
 Sharing a barn also saves money on building materials and reduces chore time. One structure to maintain beats two, especially on a small homestead with a tight budget.
 
 ## How to prevent your pygmy goat from bothering your chickens?
 
-Keep goat feed and chicken feed completely separate. Chicken feed is high in calcium, which can cause urinary calculi in male goats. Mount chicken feeders at least three feet off the ground where only the birds can reach them.
+Keep goat feed and chicken feed completely separate. Chicken feed is high in calcium, which can cause [urinary calculi in male goats](/can-male-goats-eat-grain). Mount chicken feeders at least three feet off the ground where only the birds can reach them.
 
-Give your goats enough hay and browse so they are not tempted to investigate the chicken area out of boredom. A bored pygmy goat will get into everything, including nest boxes and feeders.
+Give your goats enough [hay](/can-pygmy-goats-eat-hay) and browse so they are not tempted to investigate the chicken area out of boredom. A bored pygmy goat will get into everything, including nest boxes and feeders.
 
 ## How to create a safe environment for pygmy goats and chickens to sleep in together?
 
-The best setup is adjacent housing with a shared outdoor run. Your goats get their own dry sleeping area, and the chickens get their own coop. During the day, they can roam the same yard together without any issues.
+The best setup is adjacent housing with a shared outdoor run. Your goats get their own dry sleeping area, and the chickens get their own coop. Some farms successfully house [goats, pigs, and chickens in the same barn](/can-goats-pigs-and-chickens-live-in-the-same-barn) with proper separation. During the day, they can roam the same yard together without any issues.
 
 If you must house them in the same barn, install chicken roosts on one side and goat bedding on the opposite side. A low partition wall, even just two feet tall, keeps the sleeping zones separated. The chickens roost high, their droppings collect beneath them, and the goat bedding stays clean.
 

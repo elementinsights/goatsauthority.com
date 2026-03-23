@@ -47,7 +47,7 @@ Goats have strong jaws and teeth that handle peanut shells without any trouble. 
 
 ## How to feed peanuts to goats
 
-Stick with plain, unsalted peanuts. Salted, flavored, honey-roasted, or candy-coated peanuts have no place in a goat's diet because the added salt, sugar, and seasonings can upset their stomachs.
+Stick with plain, unsalted peanuts. Salted, flavored, honey-roasted, or candy-coated peanuts have no place in a goat's diet because the added salt, sugar, and seasonings can upset their stomachs, unlike plain [oats](/can-goats-eat-oats/) which goats handle easily.
 
 Raw peanuts from a feed store are the best option. If you only have roasted peanuts available, make sure they are unsalted and have no added oil or seasoning.
 
@@ -59,23 +59,23 @@ Peanuts are a solid source of protein, which helps with muscle development and m
 
 The vitamin and mineral profile is decent too. Peanuts contain niacin, manganese, copper, and vitamin E, all of which support overall health in goats.
 
-Peanut hay, which is the dried plant left after the peanuts are harvested, is also safe and nutritious for goats. It is high in protein and makes good supplemental forage if you can get your hands on it.
+Peanut hay, which is the dried plant left after the peanuts are harvested, is also safe and nutritious for goats. It is high in protein, similar to [alfalfa](/can-goats-eat-alfalfa/), and makes good supplemental forage if you can get your hands on it.
 
 ## Risks and things to avoid
 
 The main concern with peanuts is their high fat content. Too many peanuts can lead to weight gain and digestive problems, so you need to keep portions reasonable.
 
-Watch out for aflatoxin contamination. Peanuts are one of the crops most likely to carry aflatoxins, which are produced by fungi that grow in warm, humid storage conditions. Aflatoxin poisoning can cause liver damage and reduced milk production, so always buy from a reputable supplier and toss any peanuts that look moldy or smell musty.
+Watch out for aflatoxin contamination, the same toxin that makes [moldy hay](/can-goats-eat-moldy-hay/) so dangerous. Peanuts are one of the crops most likely to carry aflatoxins, which are produced by fungi that grow in warm, humid storage conditions. Aflatoxin poisoning can cause liver damage and reduced milk production, so always buy from a reputable supplier and toss any peanuts that look moldy or smell musty.
 
-Store your peanuts in a cool, dry place and keep them in a sealed container where goats cannot help themselves. A goat that discovers an unattended bag of peanuts will eat the whole thing and make itself sick.
+Store your peanuts in a cool, dry place and keep them in a sealed container where goats cannot help themselves, the same advice that applies to corn and other grains. A goat that discovers an unattended bag of peanuts will eat the whole thing and make itself sick.
 
 ## How many peanuts can goats have?
 
 A small handful per goat a few times a week is plenty. Think of peanuts as a training treat or a reward during handling and hoof trimming, not a dietary staple.
 
-For a rough guideline, about a quarter cup per 100 pounds of body weight is a safe serving. A smaller goat gets less, and a bigger goat can have a bit more.
+For a rough guideline, about a quarter cup per 100 pounds of body weight is a safe serving, similar to how you would portion [sunflower seeds](/can-goats-eat-sunflower-seeds/). A smaller goat gets less, and a bigger goat can have a bit more.
 
-Pregnant does can have peanuts in moderation, and the extra protein and fat can actually be helpful in late gestation. Baby goats should wait until they are eating solid food regularly before you introduce peanuts, and even then start very small.
+Pregnant does can have peanuts in moderation alongside [hay cubes](/can-goats-eat-hay-cubes/), and the extra protein and fat can actually be helpful in late gestation. Baby goats should wait until they are eating solid food regularly before you introduce peanuts, and even then start very small.
 
 ## Final Thoughts
 

@@ -51,7 +51,7 @@ Free-choice alfalfa for pregnant does is standard practice on many Boer goat far
 
 Alfalfa hay typically runs between 15 and 22% crude protein, compared to 8 to 10% for most grass hays. That protein difference matters a lot when a doe is building muscle, bone, and tissue in developing kids.
 
-The calcium content in alfalfa also helps prevent milk fever after kidding. Does that don't get enough calcium during late pregnancy are more likely to crash right after delivery when milk production starts pulling calcium from their bones.
+The calcium content in alfalfa also helps prevent milk fever after kidding. Does that don't get enough calcium during late pregnancy are more likely to crash right after delivery when milk production starts pulling calcium from their bones. Pairing alfalfa with [timothy hay](/can-goats-eat-timothy-hay) provides a balanced mix of protein and fiber.
 
 Alfalfa also provides more energy per pound than grass hay. A pregnant doe in late gestation needs about 50% more energy than a doe that isn't bred, and alfalfa helps meet that demand.
 
@@ -59,7 +59,7 @@ Alfalfa also provides more energy per pound than grass hay. A pregnant doe in la
 
 The one thing you need to watch for is bloat. Switching from grass hay to alfalfa too quickly can cause digestive upset and bloat, which is dangerous for any goat and especially risky for a pregnant one.
 
-Introduce alfalfa gradually over 7 to 10 days. Start by mixing about 25% alfalfa with 75% grass hay, then increase the alfalfa portion every couple of days until you reach your target ratio.
+Introduce alfalfa gradually over 7 to 10 days. Start by mixing about 25% alfalfa with 75% grass hay, then increase the alfalfa portion every couple of days until you reach your target ratio. Sudden diet changes can cause [scours from too much rich feed](/can-too-much-field-time-cause-scours-in-goats), so patience matters here.
 
 A good starting mix is about 60% grass hay and 40% alfalfa. If the doe is carrying multiples, bump the alfalfa up closer to 50% during the last 6 weeks. Pellets work well too since they're easy to measure and goats waste less compared to loose hay.
 
@@ -69,13 +69,13 @@ Loose, clumpy droppings are one of the first signs that a doe is getting more al
 
 If her belly looks unusually distended or she seems uncomfortable after eating, she may be dealing with mild bloat. Back off the alfalfa and increase her grass hay for a few days to let things settle.
 
-Urinary calculi can also become a concern when calcium intake from alfalfa is too high relative to phosphorus. Keep a 2:1 calcium-to-phosphorus ratio in her overall diet to avoid this problem.
+Urinary calculi can also become a concern when calcium intake from alfalfa is too high relative to phosphorus. This is especially relevant for [male goats eating grain](/can-male-goats-eat-grain), where the calcium-to-phosphorus ratio is critical. Keep a 2:1 calcium-to-phosphorus ratio in her overall diet to avoid this problem.
 
 ## How to tell if your doe is getting enough nutrition
 
-Check her body condition regularly by feeling along her spine and ribs. You should be able to feel the ribs with light pressure but not see them. A doe that's too thin going into the last month of pregnancy is headed for trouble.
+Check her body condition regularly by feeling along her spine and ribs. You should be able to feel the ribs with light pressure but not see them. A doe that's too thin going into the last month of pregnancy is headed for trouble. [Nutri-Drench is a safe supplement](/can-nutri-drench-be-given-to-lactating-goats) that can help bridge nutritional gaps for does losing condition.
 
-Look at her coat quality too. A nutritious diet shows up in shiny, healthy fur. A doe with dull, dry, rough-looking hair is probably not getting enough protein or energy.
+Look at her coat quality too. A nutritious diet shows up in shiny, healthy fur. Adding [sunflower seeds](/can-goats-eat-sunflower-seeds) to the ration is a popular trick for improving coat condition during pregnancy. A doe with dull, dry, rough-looking hair is probably not getting enough protein or energy.
 
 Watch her energy level and appetite. A doe that's eating well and moving around normally is probably doing fine. One that's lethargic, grinding her teeth, or off feed needs attention right away.
 

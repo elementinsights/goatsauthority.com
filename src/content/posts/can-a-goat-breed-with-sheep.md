@@ -45,7 +45,7 @@ Goats carry 60 chromosomes and sheep carry 54. When mating does occur, the resul
 
 Most of these pregnancies end in early miscarriage or a stillborn offspring. The handful of confirmed live births over the years have made headlines precisely because they are so uncommon.
 
-Natural mating between the two species does happen occasionally on farms where goats and sheep run together. Bucks in rut are not picky, and rams can be equally opportunistic when they share space with does.
+Natural mating between the two species does happen occasionally on farms where goats and sheep run together. Bucks in rut are not picky, and rams can be equally opportunistic when they share space with does. Understanding [when a doe is in heat](/can-a-goat-get-pregnant-when-not-in-heat/) helps you manage breeding timing to prevent unwanted cross-species encounters.
 
 ## What is a goat-sheep hybrid and how are they created?
 
@@ -53,7 +53,7 @@ A goat-sheep hybrid is usually called a geep or a shoat, depending on who you as
 
 Most documented geeps are the result of a buck (male goat) breeding a ewe (female sheep). The reverse cross, a ram with a doe, is less common and even less likely to produce a surviving offspring.
 
-These hybrids are not created through any deliberate breeding program. They are accidents that happen when intact males of one species have access to females of the other.
+These hybrids are not created through any deliberate breeding program. Research into whether [goat-sheep DNA hybrids can reproduce](/can-an-animal-that-has-been-made-from-goat-and-sheep-dna-reproduce/) has confirmed that sterility is the norm. They are accidents that happen when intact males of one species have access to females of the other.
 
 ## What are the benefits of goat-sheep hybrids?
 
@@ -65,7 +65,7 @@ Researchers have studied geep genetics to better understand how closely related 
 
 ## What are the drawbacks of goat-sheep hybrids?
 
-The biggest drawback is the near-certain failure of the pregnancy. Stillbirths and miscarriages are the most common outcomes, which puts unnecessary stress on the mother.
+The biggest drawback is the near-certain failure of the pregnancy. Stillbirths and miscarriages are the most common outcomes, much like how a doe can [miscarry one kid while still carrying others](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/) in a normal pregnancy, except here the loss rate is nearly total. This puts unnecessary stress on the mother.
 
 Geeps that do survive often face health problems later in life. Their skeletal structure falls somewhere between a goat and a sheep, and neither set of genes fully dominates, leading to joint issues and chronic lameness.
 
@@ -83,9 +83,9 @@ The appearance varies widely from one geep to the next. Some look almost entirel
 
 There is no future for geeps as production animals. The sterility, health problems, and unpredictable genetics make them impractical for any farming operation.
 
-The main takeaway for farmers who run mixed flocks is to prevent accidental crossbreeding. Keep intact bucks separated from ewes and rams separated from does, especially during the fall breeding season from September through December.
+The main takeaway for farmers who run mixed flocks is to prevent accidental crossbreeding. Keep intact bucks separated from ewes and rams separated from does, especially during the fall breeding season from September through December. If you want productive crosses, stick with within-species pairings like a [Nigerian buck with a Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) that produce healthy, vigorous offspring.
 
-If you do not intend to breed a male, castrate him. A wether can live peacefully with either species without any risk of accidental crossbreeding attempts or injuries from aggressive mating behavior.
+If you do not intend to breed a male, castrate him. A wether can live peacefully with either species without any risk of accidental crossbreeding attempts or injuries from aggressive mating behavior. Many farms also find that [horses form strong bonds with goats](/can-a-horse-get-attached-to-a-goat/) as pasture companions.
 
 ## Final Thoughts
 

@@ -44,37 +44,37 @@ Goat cheese can be a great early food for babies once they start solids. It's pa
 
 Yes, goat cheese can be introduced when your baby starts eating solid foods, generally around six months of age. Start with a small amount of soft, mild chevre and watch for any reactions over the next few days.
 
-One important thing to know is that goat milk proteins and cow milk proteins cross-react in roughly 90% of cases. If your baby has a confirmed cow's milk allergy, goat cheese is likely off the table too, so talk to your pediatrician first.
+One important thing to know is that goat milk proteins and cow milk proteins cross-react in roughly 90% of cases. Adults dealing with this issue can learn more about [whether people allergic to cow milk can use goat milk](/can-someone-allergic-to-milk-use-goats-milk). If your baby has a confirmed cow's milk allergy, goat cheese is likely off the table too, so talk to your pediatrician first.
 
 ## What is goat cheese and where does it come from?
 
 Goat cheese is made from goat's milk and has been produced for thousands of years across Europe, the Middle East, and Africa. It ranges from soft, creamy chevre to hard aged varieties depending on how it's made.
 
-Compared to cow's milk cheese, goat cheese has smaller fat globules and a different protein structure. That's part of why many people, including babies, find it easier to digest.
+Compared to cow's milk cheese, goat cheese has smaller fat globules and a different protein structure. That's part of why many people, including babies, find it easier to digest. If you are interested in making your own, learning [how to freeze goat cheese](/can-you-freeze-goat-cheese) helps you stock up.
 
 ## What are the nutritional benefits of goat cheese in infants?
 
 Goat cheese is an excellent source of protein, calcium, and healthy fats, all of which growing babies need. The full-fat versions are best for infants because babies need dietary fat for brain development during that first year.
 
-It also contains phosphorus, vitamin A, and B vitamins. The calcium-to-phosphorus ratio in goat cheese supports healthy bone growth during the stage when babies are building their skeletal foundation.
+It also contains phosphorus, vitamin A, and B vitamins. The calcium-to-phosphorus ratio in goat cheese supports healthy bone growth during the stage when babies are building their skeletal foundation. If you have extra goat milk, you can also [freeze it for later use](/can-goats-milk-be-frozen) in recipes and baby food.
 
 ## How to choose and store goat cheese?
 
 Always choose pasteurized goat cheese for infants. Unpasteurized or raw milk cheeses carry a risk of harmful bacteria like Listeria, which is dangerous for babies.
 
-Stick with plain, fresh chevre that has no added salt, herbs, or spices. Store it in the fridge and use it within the timeframe on the package, as soft goat cheese spoils faster than harder varieties.
+Stick with plain, fresh chevre that has no added salt, herbs, or spices. Store it in the fridge and use it within the timeframe on the package, as soft goat cheese spoils faster than harder varieties. You can find pasteurized goat milk and cheese products at most stores, and knowing [where to buy goat milk](/can-you-buy-goat-milk-at-the-grocery-store) makes the shopping easier.
 
 ## The health benefits of feeding goat cheese to infants
 
 Goat cheese contains less lactose than cow's milk cheese, which can make it gentler on a baby's developing digestive system. Some parents find their babies tolerate goat cheese well even when cow's milk cheese causes fussiness or spit-up.
 
-The protein in goat cheese also forms a softer curd in the stomach. This means it breaks down faster during digestion, which is a real advantage for tiny stomachs that are still learning to handle solid foods.
+The protein in goat cheese also forms a softer curd in the stomach. This means it breaks down faster during digestion, which is a real advantage for tiny stomachs that are still learning to handle solid foods. [Postpartum women also benefit from goat products](/can-postpartum-women-eat-goats) thanks to the high iron and protein content.
 
 ## Tips for preparing goat cheese for infants
 
 For babies aged six to eight months, mix a small amount of soft goat cheese into pureed vegetables like sweet potato or butternut squash. The creamy texture blends right in and adds a mild tangy flavor.
 
-Once your baby is comfortable with finger foods around nine to twelve months, you can put small crumbles of goat cheese on their tray. Avoid aged or strong-flavored goat cheeses until your child is at least a year old.
+Once your baby is comfortable with finger foods around nine to twelve months, you can put small crumbles of goat cheese on their tray. Some families use [Nigerian Dwarf goats for both milk and meat](/can-nigerian-dwarf-goats-be-used-for-meat), making them a great source of fresh dairy for the whole household. Avoid aged or strong-flavored goat cheeses until your child is at least a year old.
 
 ## Final Thoughts
 

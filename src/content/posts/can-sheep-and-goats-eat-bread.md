@@ -48,7 +48,7 @@ Both sheep and goats can eat small amounts of plain bread as an occasional treat
 
 Yes, both species can eat bread without any immediate harm. The bread needs to be plain, fresh, and free of mold or any seasoning like garlic or onion, which are toxic to both animals.
 
-Whole wheat bread is a better choice than white bread because it has more fiber and less processed starch. Either way, bread should never replace hay, pasture, or proper feed in their diet.
+Whole wheat bread is a better choice than white bread because it has more fiber and less processed starch. Either way, bread should never replace hay, pasture, or proper feed in their diet. Understanding [what kind of hay goats eat](/what-kind-of-hay-do-goats-eat) helps you build a proper foundation before adding any treats.
 
 ## What are the benefits of feeding bread to sheep and goats?
 
@@ -60,23 +60,23 @@ Whole grain varieties do provide some B vitamins and a small amount of fiber. Bu
 
 Keep it to a slice or two per animal, a few times a week at most. Bread is high in starch and low in the fiber that ruminants actually need.
 
-Too much bread can throw off the rumen's pH balance and lead to acidosis, which is a serious and sometimes fatal digestive condition. Sheep are especially prone to bloat from grain-based foods, so be even more conservative with them.
+Too much bread can throw off the rumen's pH balance and lead to acidosis, which is a serious and sometimes fatal digestive condition. If your goat does develop digestive upset, knowing [how to debloat a goat](/can-you-debloat-a-goat) can be lifesaving. Sheep are especially prone to bloat from grain-based foods, so be even more conservative with them.
 
 ## Are there any risks associated with feeding bread to sheep and goats?
 
 Moldy bread is the biggest danger. Mold produces mycotoxins that can cause listeriosis, a brain infection that often kills goats and sheep within days.
 
-One critical rule if you keep both species together: never share goat minerals with sheep. Goat minerals contain copper levels that are toxic to sheep. This doesn't directly relate to bread, but it comes up whenever people feed mixed flocks and start sharing supplements.
+One critical rule if you keep both species together: never share goat minerals with sheep. Goat minerals contain copper levels that are toxic to sheep. Our complete guide on [whether sheep can eat goat food](/can-sheep-eat-goat-food) covers the copper issue in detail. This doesn't directly relate to bread, but it comes up whenever people feed mixed flocks and start sharing supplements.
 
 ## How to prevent health problems when feeding bread to sheep and goats?
 
 Only offer fresh bread that you'd be willing to eat yourself. If there's even a spot of mold on the loaf, throw the whole thing away because mold spreads through bread internally before it shows on the surface.
 
-Break the bread into smaller pieces to reduce the risk of choking, especially for younger animals. Watch your flock for 30 minutes afterward the first few times to make sure nobody is showing signs of bloat or discomfort.
+Break the bread into smaller pieces to reduce the risk of choking, especially for younger animals. [Infant goat kids can start eating grain](/can-my-infant-goat-kid-eat-grain) at just one to two weeks old, so even bread scraps should be sized appropriately. Watch your flock for 30 minutes afterward the first few times to make sure nobody is showing signs of bloat or discomfort.
 
 ## What do sheep and goats eat in the wild?
 
-Sheep are grazers that prefer short grasses and clover close to the ground. Goats are browsers that go after weeds, shrubs, bark, and leaves at all heights.
+Sheep are grazers that prefer short grasses and clover close to the ground. Goats are browsers that go after weeds, shrubs, bark, and leaves at all heights. [Oats](/can-goats-eat-oats) and [timothy hay](/can-goats-eat-timothy-hay) are both staple feeds that work well for goats.
 
 Both are ruminants with four-chambered stomachs designed to break down tough plant fiber. Hay and forage should always be the foundation of their diet, with bread and other treats making up no more than 5-10% of daily intake.
 

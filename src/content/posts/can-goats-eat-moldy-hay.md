@@ -41,7 +41,7 @@ Mold produces compounds called mycotoxins, and these are the real danger. The tw
 
 Aflatoxin targets the liver and can cause permanent liver damage over time. Zearalenone disrupts reproductive hormones and can cause does to abort, fail to breed, or produce stillborn kids.
 
-A single vet bill from mycotoxin poisoning will cost you far more than a bale of hay, and some goats don’t survive it.
+A single vet bill from mycotoxin poisoning will cost you far more than a bale of hay, and some goats don’t survive it. Unlike [mushrooms](/can-goats-eat-mushrooms/) where the danger is limited to wild varieties, any mold on hay is a serious threat.
 
 ## How to Spot Moldy Hay
 
@@ -69,7 +69,7 @@ In severe cases, mycotoxin exposure can cause listeriosis, which attacks the ner
 
 If you discover your goats have been eating moldy hay, remove it immediately and replace it with clean feed. Don’t wait to see if symptoms develop.
 
-Watch your herd closely for the next 48-72 hours. Look for any goat that stops eating, acts sluggish, has loose stool, or shows breathing difficulty.
+Watch your herd closely for the next 48-72 hours. Offer safe treats like [apples](/can-goats-eat-apples/) or carrots to monitor appetite. Look for any goat that stops eating, acts sluggish, has loose stool, or shows breathing difficulty.
 
 Call your vet if you notice any of these signs. Early treatment with supportive care, fluids, and sometimes activated charcoal can make a real difference in outcomes. Waiting too long is what turns a treatable situation into a fatal one.
 
@@ -83,7 +83,7 @@ Good airflow around your hay stack is critical. Leave gaps between the stack and
 
 Cover your hay to keep rain and snow off, but don’t wrap it in tarps that trap moisture. An open-sided hay barn with a solid roof is the gold standard.
 
-Buy hay in quantities you can use within a reasonable timeframe. A year’s supply stacked in a damp barn is a recipe for moldy feed by month three.
+Buy hay in quantities you can use within a reasonable timeframe. Supplementing with [straw](/can-goats-eat-straw/) for bedding and oats for grain keeps your overall feed program flexible. A year’s supply stacked in a damp barn is a recipe for moldy feed by month three.
 
 ## How Much Mold Is Too Much?
 
@@ -95,10 +95,10 @@ When in doubt, throw it out. Your goat’s health is worth more than any bale of
 
 ## Alternatives If Mold Is a Recurring Problem
 
-If you live in a humid climate or struggle with hay storage, consider hay cubes or pelleted hay. These processed forms are dried to very low moisture content during manufacturing, which makes mold growth nearly impossible.
+If you live in a humid climate or struggle with hay storage, consider [hay cubes](/can-goats-eat-hay-cubes/) or pelleted hay. These processed forms are dried to very low moisture content during manufacturing, which makes mold growth nearly impossible.
 
 Hay cubes and pellets store more compactly and last longer than baled hay. They cost more per pound, but you lose far less to spoilage.
 
 Another option is buying smaller quantities more frequently. Keeping only a few weeks’ supply on hand reduces the chance of mold developing in storage.
 
-Whatever approach you take, always prioritize clean, quality forage and alfalfa. Your goats depend on you to keep their feed safe.
+Whatever approach you take, always prioritize clean, quality forage and [alfalfa](/can-goats-eat-alfalfa/). Choosing the right [type of hay](/what-kind-of-hay-do-goats-eat/) is just as important as storing it properly. Your goats depend on you to keep their feed safe.

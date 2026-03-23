@@ -46,19 +46,19 @@ The term for her is a "maiden doe" — a mature female that has never kidded. He
 
 ## What are the benefits of breeding a 6 yr old goat?
 
-A 6-year-old doe is physically mature and done growing, so her body won't be splitting energy between growth and pregnancy like a yearling would. She's also settled in temperament, which makes her easier to manage through the breeding and kidding process.
+A 6-year-old doe is physically mature and done growing, so her body won't be splitting energy between growth and pregnancy like a yearling would. A [4-year-old doe is considered prime breeding age](/posts/can-you-breed-a-4yr-old-goat) with none of the special concerns that come at 6. She's also settled in temperament, which makes her easier to manage through the breeding and kidding process.
 
-If she has strong genetics, breeding her lets you pass those traits along to the next generation. That's especially valuable if she's from a line with good milk production, parasite resistance, or desirable conformation.
+If she has strong genetics, breeding her lets you pass those traits along to the next generation. That's especially valuable if she's from a line with good milk production, parasite resistance, or desirable conformation. Just avoid [breeding her to closely related bucks](/posts/can-you-breed-a-half-brother-and-sister-goat) to keep the gene pool healthy.
 
 ## What are the risks of breeding a 6 yr old goat?
 
 The biggest concern is her birth canal. A doe that has never kidded has a narrow, unstretched pelvis, and that raises the chance of dystocia (a difficult delivery). Kids can get stuck, and she's more likely to need hands-on assistance or even a vet during labor.
 
-She may also produce less colostrum and milk than a doe that's been through the process before, since her udder has never been "primed" by a previous pregnancy. Have a colostrum replacement on hand just in case her supply is short for the newborns.
+She may also produce less colostrum and milk than a doe that's been through the process before, since her udder has never been "primed" by a previous pregnancy. If the kid cannot nurse, you may need to consider [switching a bottle-fed kid to a nursing doe](/posts/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat) as a backup plan. Have a colostrum replacement on hand just in case her supply is short for the newborns.
 
 ## How do you know when your goat is ready to breed?
 
-Watch for signs of heat: tail flagging, increased vocalization, a swollen vulva, and standing still when you press down on her back. Most does cycle every 18 to 21 days during breeding season, which typically runs from September through February.
+Watch for signs of heat: tail flagging, increased vocalization, a swollen vulva, and standing still when you press down on her back. If you are running a mixed herd, hardy meat breeds like [Kiko goats](/posts/where-did-kiko-goats-originate) are also bred successfully at this age. Most does cycle every 18 to 21 days during breeding season, which typically runs from September through February.
 
 For a maiden doe, make sure she's in good body condition before breeding — not too thin, not too fat. A body condition score of 3 to 3.5 on a 5-point scale is ideal. Have your vet do a general health check and make sure she's up to date on vaccinations, especially CDT.
 
@@ -66,7 +66,7 @@ For a maiden doe, make sure she's in good body condition before breeding — not
 
 Pregnancy toxemia (ketosis) can hit does in the last month of pregnancy, especially if they're carrying multiples. You'll see lethargy, loss of appetite, and a sweet or fruity smell on the breath. Keeping her nutrition steady through late pregnancy helps prevent this.
 
-Dystocia is the other big one, and it's more likely with maiden does. Kids can be positioned wrong, or the doe's narrow pelvis may not allow them to pass. Have your vet's number saved in your phone and know the signs of a delivery that's stalling — if she's been pushing hard for over 30 minutes with no progress, it's time to intervene.
+Dystocia is the other big one, and it's more likely with maiden does. Most goats [deliver between one and three kids](/posts/how-many-babies-do-goats-have-at-a-time), and with multiples the chance of a malpresentation increases. Kids can be positioned wrong, or the doe's narrow pelvis may not allow them to pass. Have your vet's number saved in your phone and know the signs of a delivery that's stalling — if she's been pushing hard for over 30 minutes with no progress, it's time to intervene.
 
 ## Final Thoughts
 

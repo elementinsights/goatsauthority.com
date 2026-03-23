@@ -52,7 +52,7 @@ Newborn kids are a different story. A raccoon will absolutely go after a vulnera
 
 Raccoons don't chase down goats or set up ambushes. They go after the easiest target available, which means newborn kids, injured animals, or afterbirth during kidding season.
 
-A raccoon will bite and claw at a small kid, usually going for the head, neck, or abdomen. If a doe kids overnight in an open pasture, that newborn is at risk before the mother can clean it and get it on its feet.
+A raccoon will bite and claw at a small kid, usually going for the head, neck, or abdomen. If a doe kids overnight in an open pasture, that newborn is at risk before the mother can clean it and get it on its feet. Knowing [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) helps you prepare adequate protection for each kid.
 
 ## The real danger: disease
 
@@ -64,7 +64,7 @@ Raccoon roundworm (Baylisascaris procyonis) is another serious concern. Raccoons
 
 ## What are some preventative measures you can take to protect your goats from raccoons?
 
-Store all goat feed in sealed metal containers with secure lids. Open feed bags are an invitation for raccoons, and every visit means contaminated droppings near your goats.
+Store all goat feed in sealed metal containers with secure lids. Open feed bags are an invitation for raccoons, and every visit means contaminated droppings near your goats. Good [fencing that goats cannot climb over](/can-goats-climb-fences) also helps keep predators out.
 
 Lock up does and newborn kids at night during kidding season. A simple enclosed stall with a solid door keeps raccoons out. Use hardware cloth instead of chicken wire on any openings, because raccoons tear through chicken wire easily.
 
@@ -72,17 +72,17 @@ Lock up does and newborn kids at night during kidding season. A simple enclosed 
 
 Make loud noise to scare it off and get between the raccoon and your goats if you can do it safely. Don't try to handle it with bare hands since a cornered or rabid raccoon will fight back.
 
-Check your goats for bite wounds immediately. Any goat bitten or scratched by a raccoon needs a vet exam as soon as possible due to the rabies risk. If raccoons keep coming back, set live traps and contact your local wildlife agency about removal options.
+Check your goats for bite wounds immediately. Any goat bitten or scratched by a raccoon needs a vet exam as soon as possible due to the rabies risk. For minor wounds, you can [apply Neosporin](/can-i-put-neosporin-on-my-goats) as a first aid measure while waiting for the vet. If raccoons keep coming back, set live traps and contact your local wildlife agency about removal options.
 
 ## Additional information about raccoons and other predators that may threaten your goats
 
 Raccoons are a nuisance predator, but they're not in the same league as the animals that kill the most goats. Domestic dogs running loose are the number one killer of goats in most areas, followed closely by coyotes.
 
-Foxes will take young kids, similar to raccoons. In western states, mountain lions and bears are serious threats that need much more strong fencing and guardian animals. The key with raccoons is managing what draws them in. If they have no access to feed, water troughs, or vulnerable kids, most will move on to easier pickings.
+[Foxes will also take young kids](/can-a-fox-kill-a-goat), similar to raccoons. In western states, mountain lions and bears are serious threats that need much more strong fencing and guardian animals. The key with raccoons is managing what draws them in. If they have no access to feed, water troughs, or vulnerable kids, most will move on to easier pickings.
 
 ## What animals can protect goats from predators?
 
-A livestock guardian dog is your best defense against raccoons and most other predators. Great Pyrenees, Anatolian Shepherds, and Maremmas will patrol at night when raccoons are active, and their scent alone keeps most raccoons away.
+Keeping [rams away from goat bucks](/can-rams-be-in-with-goat-bucks) is also important for overall herd safety, though that is an internal threat rather than a predator one. A livestock guardian dog is your best defense against raccoons and most other predators. Great Pyrenees, Anatolian Shepherds, and Maremmas will patrol at night when raccoons are active, and their scent alone keeps most raccoons away.
 
 Llamas and donkeys also work well as guardians. They're naturally aggressive toward small predators and will chase raccoons, coyotes, and foxes out of the pasture without hesitation. If you get a guardian dog, raise it with your goats from puppyhood so it bonds with the herd.
 

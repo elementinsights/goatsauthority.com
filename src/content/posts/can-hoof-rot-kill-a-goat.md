@@ -39,7 +39,7 @@ Hoof rot itself rarely kills a goat directly, but a severe untreated case can le
 
 ## Can hoof rot kill a goat?
 
-In most cases, hoof rot causes pain, limping, and weight loss because the goat stops walking to the feeder. A goat that hurts every time it takes a step will spend most of its time lying down, and that means less eating, less drinking, and a slow decline in body condition.
+In most cases, hoof rot causes pain, limping, and weight loss because the goat stops walking to the feeder. A goat that hurts every time it takes a step will spend most of its time lying down, and that means less eating, less drinking, and a slow decline that can lead to [anemia and further complications](/posts/can-goats-have-a-stroke-anemia).
 
 Left alone for weeks or months, the infection can spread into deeper tissue and eventually reach the bloodstream. Once bacteria enter the blood, sepsis sets in, and that is a life-threatening emergency that requires immediate veterinary intervention.
 
@@ -51,7 +51,7 @@ Hoof rot is a bacterial infection caused primarily by Dichelobacter nodosus, oft
 
 Overgrown hooves trap moisture and manure against the sole, creating the perfect environment for infection to take hold. Goats on soft, wet ground are far more susceptible than those on rocky, dry terrain where hooves wear down naturally.
 
-Poor nutrition can also play a role, since goats deficient in zinc or other trace minerals tend to grow weaker hoof tissue that is more prone to cracking and infection. A good loose mineral mix goes a long way toward hoof health.
+Poor nutrition can also play a role, since goats deficient in zinc or other trace minerals tend to grow weaker hoof tissue that is more prone to cracking and infection. Feeding a proper diet including [quality hay](/posts/what-kind-of-hay-do-goats-eat) and a good loose mineral mix goes a long way toward hoof health.
 
 ## The symptoms of hoof rot in goats
 
@@ -59,7 +59,7 @@ The first thing you will notice is limping, often on one or more feet. Pick up t
 
 In more advanced cases, you may see a gray or greenish discharge between the toes. The goat will spend more time lying down and less time eating, which leads to rapid weight loss if you do not step in quickly.
 
-Heat and swelling around the coronary band, the area where the hoof meets the skin, is another red flag. If you see swelling creeping up the leg above the hoof, the infection may be spreading deeper and you need a vet involved.
+Heat and swelling around the coronary band, the area where the hoof meets the skin, is another red flag. A goat dealing with hoof issues is also more susceptible to [mite infestations](/posts/can-goats-get-mites) since their weakened immune system invites secondary problems. If you see swelling creeping up the leg above the hoof, the infection may be spreading deeper and you need a vet involved.
 
 ## How to treat hoof rot in goats?
 
@@ -67,15 +67,15 @@ Start by trimming away all the damaged, underrun hoof tissue with a sharp pair o
 
 After trimming, stand the goat in a copper sulfate or zinc sulfate footbath at a 10 percent solution for 5 to 10 minutes. Repeat the footbath daily for at least a week, keeping the goat on dry ground between treatments.
 
-For severe cases, your vet may prescribe injectable antibiotics like oxytetracycline or penicillin to fight the infection from the inside. Keep the goat in a clean, dry pen with fresh bedding until the hoof tissue firms up and new growth appears.
+For severe cases, your vet may prescribe injectable antibiotics like oxytetracycline or penicillin to fight the infection from the inside, similar to the aggressive treatment needed for [listeriosis](/posts/can-goats-recover-from-polio-without-medication). Keep the goat in a clean, dry pen with fresh bedding until the hoof tissue firms up and new growth appears.
 
 ## Prevention tips for hoof rot in goats
 
 Trim hooves every 6 to 8 weeks without exception. Regular trimming keeps hooves short and allows air to reach the sole, which makes the environment hostile to the bacteria that cause rot.
 
-Keep bedding dry and clean out wet, muddy areas where goats congregate. A weekly footbath near the barn entrance using zinc sulfate solution is one of the most effective preventive measures, especially during rainy seasons or in areas with clay soil that holds water.
+Keep [bedding dry](/posts/can-pine-chips-be-used-as-bedding-for-goats) and clean out wet, muddy areas where goats congregate. A weekly footbath near the barn entrance using zinc sulfate solution is one of the most effective preventive measures, especially during rainy seasons or in areas with clay soil that holds water.
 
-Check hooves during every trimming session for early signs of softening or separation. Catching a problem when it is the size of a dime is a whole lot easier than dealing with one that has taken over the entire sole.
+Check hooves during every trimming session for early signs of softening or separation. A proper [CDT vaccination](/posts/can-a-cdt-shot-kill-a-goat) schedule and regular hoof care go hand in hand as the basics of preventive medicine. Catching a problem when it is the size of a dime is a whole lot easier than dealing with one that has taken over the entire sole.
 
 ## Final Thoughts
 

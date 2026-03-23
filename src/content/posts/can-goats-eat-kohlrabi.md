@@ -49,7 +49,7 @@ The leaves are actually more nutritious than the bulb itself. They are packed wi
 
 ## What is Kohlrabi and what are its benefits?
 
-Kohlrabi is a cool-season vegetable in the brassica family. It grows a round, swollen stem above the ground that looks like a turnip, with large leafy greens sprouting from the top.
+Kohlrabi is a cool-season vegetable in the brassica family, related to [kale](/can-goats-eat-kale/), broccoli, and cabbage. It grows a round, swollen stem above the ground that looks like a turnip, with large leafy greens sprouting from the top.
 
 The flavor is mild and slightly sweet, similar to broccoli stems. For goats, the main nutritional benefits are vitamin C, vitamin B6, potassium, and fiber. It also has a high water content, which makes it a refreshing treat on warm days.
 
@@ -57,13 +57,13 @@ The flavor is mild and slightly sweet, similar to broccoli stems. For goats, the
 
 Goats are browsers, not grazers. They prefer to eat leaves, twigs, bark, and a variety of plants rather than just mowing down grass like cattle do.
 
-Kohlrabi fits right into a browser's diet. The leafy greens are the type of forage goats naturally seek out, and the crunchy bulb gives them something to work on that keeps them entertained while they eat.
+Kohlrabi fits right into a browser's diet alongside other garden treats like [carrots](/can-goats-eat-carrots/) and sweet potatoes. The leafy greens are the type of forage goats naturally seek out, and the crunchy bulb gives them something to work on that keeps them entertained while they eat.
 
 ## How much Kohlrabi can a goat eat at one time?
 
 Start with a small amount and see how your goat handles it. A few chunks of chopped bulb and a handful of leaves per goat is a reasonable serving.
 
-Like all brassicas, kohlrabi can cause gas if goats eat too much at once. Introduce it gradually over a few days, and do not let it replace their hay. Kohlrabi is a treat and a supplement, not a main food source.
+Like all brassicas, kohlrabi can cause gas if goats eat too much at once, similar to the bloating risk with [spinach](/can-goats-eat-spinach/) and other nutrient-dense greens. Introduce it gradually over a few days, and do not let it replace their hay. Kohlrabi is a treat and a supplement, not a main food source.
 
 ## Are there any hazards associated with feeding Kohlrabi to goats?
 
@@ -75,10 +75,10 @@ Chop the bulb into small pieces to reduce the choking risk. The bulb is dense an
 
 Wash the whole plant and chop the bulb into pieces roughly the size of a golf ball or smaller. You can feed it raw, which is easiest, and most goats seem to prefer the crunch.
 
-Toss the leaves right into their feeder or hang them from a branch for some enrichment. Goats enjoy working for their food, and a bundle of kohlrabi greens tied up at head height will keep them busy and happy.
+Toss the leaves right into their feeder or hang them from a branch for some enrichment. Goats enjoy working for their food, and a bundle of kohlrabi greens tied up at head height will keep them busy and happy. You can do the same thing with [lettuce](/can-goats-eat-lettuce/) leaves or cucumber slices for variety.
 
 ## Final Thoughts
 
 Kohlrabi is a safe, nutritious treat for goats. Both the bulb and leaves are edible, and most goats take to it quickly.
 
-Feed it in moderation like any brassica, chop the bulb to prevent choking, and introduce it gradually. If you grow your own garden, kohlrabi is one of the easiest crops to grow specifically for your herd.
+Feed it in moderation like any brassica, chop the bulb to prevent choking, and introduce it gradually. If you grow your own garden, kohlrabi is one of the easiest crops to grow specifically for your herd alongside [pumpkin](/can-goats-eat-pumpkin/) and squash.

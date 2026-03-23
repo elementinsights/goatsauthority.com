@@ -48,13 +48,13 @@ If you've got a little land and want a steady supply of fresh, protein-rich milk
 
 Goat milk is a solid source of high-quality protein. The protein in goat milk is primarily casein, and most of it is the A2 type, which tends to sit easier in the stomach than the A1 casein found in most cow milk.
 
-You can also make whey protein from goat milk if you're into fitness or homesteading. The fat globules in goat milk are smaller than in cow milk, which helps your body break down and absorb the protein more efficiently.
+You can also [mix goat milk with whey protein](/can-i-mix-goat-milk-with-whey-protein) for a powerful post-workout shake. The fat globules in goat milk are smaller than in cow milk, which helps your body break down and absorb the protein more efficiently.
 
 ## What are the things you need to consider before getting started?
 
 You'll need at least one acre for two to three does, which is the minimum herd size since goats are social animals. Each doe needs a dry shelter, access to pasture or quality hay, fresh water, and loose minerals formulated for goats.
 
-Dairy goats also need to be bred each year to keep producing milk. That means you'll either need a buck or access to one, and you'll need a plan for the kids that come along every spring.
+Dairy goats also need to be bred each year to keep producing milk. Knowing [how many babies goats typically have](/how-many-babies-do-goats-have-at-a-time) helps you plan for the kids that come along every spring. That means you'll either need a buck or access to one.
 
 ## What is a goat milk protein and what are its benefits?
 
@@ -66,19 +66,19 @@ People who struggle with cow milk often do fine with goat milk. The A2 beta-case
 
 Good milk starts with good feed. Your does need quality hay, access to browse, fresh water, and a grain ration during milking season to keep up with the energy demands of milk production.
 
-Regular hoof trimming, deworming, and annual vet checkups keep your herd healthy and producing well. Stressed or sick goats drop milk production fast, so staying on top of health issues pays off directly in the pail.
+Regular hoof trimming, [deworming with products like ivermectin](/can-i-use-ivermectin-pour-on-in-sheep-and-goats), and annual vet checkups keep your herd healthy and producing well. Stressed or sick goats drop milk production fast, so staying on top of health issues pays off directly in the pail.
 
 ## Tips for milking goats and collecting their milk
 
 Milk your does at the same time every day, ideally twice daily about 12 hours apart. Consistency matters because irregular milking schedules reduce output and can lead to mastitis.
 
-Keep everything clean. Wash the udder before milking, use a strip cup to check for abnormalities in the first few squirts, and strain the milk through a filter into a sanitized glass jar. Chill it immediately in ice water for the best flavor.
+Keep everything clean. Wash the udder before milking, use a strip cup to check for abnormalities in the first few squirts, and strain the milk through a filter into a sanitized glass jar. If you're selling milk products, understanding [the regulations for selling goat milk butter](/can-i-sell-goat-milk-butter) in your state is essential. Chill it immediately in ice water for the best flavor.
 
 ## How to store and use goat milk protein?
 
 Fresh goat milk keeps about a week in the fridge when chilled quickly after milking. Store it in glass mason jars rather than plastic, which can absorb and transfer off-flavors.
 
-You can freeze goat milk for up to six months if you need to stockpile it. For protein specifically, many homesteaders make yogurt, kefir, or soft cheese from their milk, all of which concentrate the protein content and add probiotics to boot.
+You can [freeze goat milk](/can-goats-milk-be-frozen) for up to six months if you need to stockpile it. For protein specifically, many homesteaders make yogurt, kefir, or soft cheese from their milk, all of which concentrate the protein content and add probiotics to boot.
 
 ## Final Thoughts
 

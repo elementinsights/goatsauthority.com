@@ -45,23 +45,23 @@ Ibuprofen is not the go-to pain reliever for goats, and using it in a lactating 
 
 Technically yes, but it is not commonly used in goat medicine. Banamine (flunixin meglumine) and meloxicam are the preferred NSAIDs for goats because they have established dosing guidelines and known withdrawal periods for livestock.
 
-If you are using ibuprofen because it is the only thing you have on hand in an emergency, it can work as a short-term stopgap. But get your vet on the phone as soon as possible to switch to something more appropriate.
+Goats with open wounds may benefit more from [topical Neosporin](/can-i-put-neosporin-on-my-goats) than systemic pain relief. If you are using ibuprofen because it is the only thing you have on hand in an emergency, it can work as a short-term stopgap. But get your vet on the phone as soon as possible to switch to something more appropriate.
 
 ## What is ibuprofen and what does it do to lactating goats?
 
 Ibuprofen is a non-steroidal anti-inflammatory drug that reduces pain, fever, and inflammation by blocking prostaglandin production. It works the same way in goats as it does in people.
 
-The problem with lactating does is that ibuprofen passes into the milk. There is no established milk withdrawal period for ibuprofen in goats, so if you are drinking the milk or feeding it to kids, you have no way of knowing when it is safe.
+The problem with lactating does is that ibuprofen passes into the milk. There is no established milk withdrawal period for ibuprofen in goats, so if you are drinking the milk or feeding it to kids, you have no way of knowing when it is safe. A similar concern applies when considering [whether milk from sore-mouth goats is safe](/can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed) to use.
 
 ## Is ibuprofen safe to give to lactating goats?
 
 It is not considered unsafe in a single emergency dose, but it is not ideal for repeated use. Prolonged ibuprofen use can cause GI ulceration in ruminants, and goats are more sensitive to this than cattle.
 
-For a lactating doe, the milk withdrawal issue is the bigger concern. If you give ibuprofen, plan on dumping the milk for at least 48 to 72 hours to be safe. Keep milking on schedule to prevent engorgement, but do not use or sell that milk.
+For a lactating doe, the milk withdrawal issue is the bigger concern. If you give ibuprofen, plan on dumping the milk for at least 48 to 72 hours to be safe. [Nutri-Drench is a safer support option](/can-nutri-drench-be-given-to-lactating-goats) for does that need a boost without medication concerns. Keep milking on schedule to prevent engorgement, but do not use or sell that milk.
 
 ## How much ibuprofen can be given to a goat?
 
-The commonly referenced dose for goats is approximately 4 to 5 mg per pound of body weight, given orally. For a 100 lb doe, that works out to around 400 to 500 mg, which is roughly two regular-strength human ibuprofen tablets.
+The commonly referenced dose for goats is approximately 4 to 5 mg per pound of body weight, given orally. For a 100 lb doe, that works out to around 400 to 500 mg, which is roughly two regular-strength human ibuprofen tablets. Some owners wonder [whether Pepto-Bismol is safe for goats](/can-i-give-my-goat-pepto-bismol) too, but each medication has its own considerations.
 
 Do not repeat the dose more than once or twice without talking to your vet. Ibuprofen is hard on the stomach lining and can cause ulcers with prolonged use, especially in a goat that is not eating well.
 
@@ -69,13 +69,13 @@ Do not repeat the dose more than once or twice without talking to your vet. Ibup
 
 The main risk is gastrointestinal damage. Ibuprofen can cause stomach ulcers, diarrhea, and loss of appetite in goats, particularly if given on an empty stomach or for more than a day or two.
 
-In rare cases, ibuprofen can also affect kidney function. A dehydrated goat or one that is already sick is at higher risk for kidney problems from NSAIDs, so make sure the goat is drinking well before and after dosing.
+In rare cases, ibuprofen can also affect kidney function. A dehydrated goat or one that is already sick is at higher risk for kidney problems from NSAIDs, so make sure the goat is drinking well before and after dosing. You might also want to know [whether Benadryl is safe for goats](/can-benadryl-hurt-a-goat) as an alternative for certain conditions.
 
 ## Alternatives to ibuprofen for treating pain in goats
 
 Banamine (flunixin meglumine) is the most widely used pain reliever in goat medicine. It is available by prescription, has established dosing for goats, and works faster than ibuprofen. Your vet can supply it and show you how to administer it.
 
-Meloxicam is another good option that is longer-acting and gentler on the stomach. Many vets now prefer it for ongoing pain management in goats. Both of these drugs have better-known withdrawal periods for milk than ibuprofen does.
+Meloxicam is another good option that is longer-acting and gentler on the stomach. Many vets now prefer it for ongoing pain management in goats. For does struggling after kidding, [injectable B12](/can-pregnant-goats-have-injectable-b12) paired with proper pain management can make a real difference in recovery. Both of these drugs have better-known withdrawal periods for milk than ibuprofen does.
 
 ## What to remember
 

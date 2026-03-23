@@ -48,7 +48,7 @@ Crossing an Angora with a dairy goat sounds like a shortcut to getting milk and 
 
 Yes, they're the same species and will breed without any trouble. The offspring will grow some fiber, but it won't be the same quality mohair you'd get from a purebred Angora.
 
-Angora mohair is prized for its fineness, luster, and softness. Cross it with a Nubian or Saanen and the fiber comes out coarser, shorter in staple length, and less uniform. You get fiber, just not the premium stuff.
+Angora mohair is prized for its fineness, luster, and softness. Dairy breeds like the [Toggenburg from Switzerland](/posts/where-did-toggenburg-goats-originate) are one option for crossing, and the fiber comes out coarser, shorter in staple length, and less uniform. You get fiber, just not the premium stuff.
 
 ## What should you consider if you breed angora goats with dairy goats for fiber?
 
@@ -60,7 +60,7 @@ Feeding gets tricky too. Angoras need high-protein diets for fleece growth while
 
 The main benefit is versatility on a small homestead. If you only have room for a few goats and want both milk and fiber, one crossbred herd beats maintaining two separate purebred herds.
 
-Crossbreds often show hybrid vigor, meaning they tend to be hardier than either parent breed. Purebred Angoras are notoriously fragile in wet, cold weather, so adding dairy genetics can produce a tougher animal that still grows a usable fleece.
+Crossbreds often show hybrid vigor, meaning they tend to be hardier than either parent breed, much like [Kiko goats that were developed through similar crossbreeding](/posts/where-did-kiko-goats-originate) in New Zealand. Purebred Angoras are notoriously fragile in wet, cold weather, so adding dairy genetics can produce a tougher animal that still grows a usable fleece.
 
 ## What are the risks associated with breeding angora goats with dairy goats for fiber?
 
@@ -72,17 +72,17 @@ There's also the chance you end up with an animal that doesn't do either job wel
 
 Your startup costs are the same as any goat operation: breeding stock, fencing, shelter, and feed. A quality Angora buck or doe runs $200 to $500 depending on bloodline and fiber quality.
 
-You'll still need to shear twice a year, and mill processing costs the same regardless of fiber quality. The difference is that crossbred fiber sells for less than purebred mohair once it's processed. If you're selecting for better fiber over multiple generations, keep the offspring with the best fleece and cull the rest from your breeding program.
+You'll still need to shear twice a year, and mill processing costs the same regardless of fiber quality. The difference is that crossbred fiber sells for less than purebred mohair once it's processed. If you are selecting for better fiber over multiple generations, keep the offspring with the best fleece and cull the rest from your breeding program. Avoid [breeding closely related animals](/posts/can-you-breed-a-father-and-daughter-goat) in the process or you will concentrate defects along with the traits you want.
 
 ## When is the best time to breed angora goats with dairy goats for fiber?
 
-Breed in the fall during the natural breeding season, typically September through November. This puts kidding in late winter or early spring, which works well for both milk production and fiber growth.
+Breed in the fall during the natural breeding season, typically September through November. Does at [4 years old are in ideal condition for breeding](/posts/can-you-breed-a-4yr-old-goat). This puts kidding in late winter or early spring, which works well for both milk production and fiber growth.
 
 Spring-born kids get the advantage of warm weather during their first months. Angora crosses can be sensitive to cold and wet conditions early on, so timing the birth for milder weather gives them the best start.
 
 ## What are the best practices for breeding angora goats with dairy goats for fiber?
 
-Start with the best Angora genetics you can afford. The quality of your fiber stock matters more than anything else in this cross. A mediocre Angora crossed with a dairy goat gives you mediocre fiber.
+Start with the best Angora genetics you can afford, and consider [protecting their fleece with goat coats](/posts/can-you-coat-angora-goats-to-protect-fleece) to maximize fiber quality. The quality of your fiber stock matters more than anything else in this cross. A mediocre Angora crossed with a dairy goat gives you mediocre fiber.
 
 Look into Cashgora goats if you want a proven blueprint. They're a recognized cross between Cashmere and Angora genetics that produce fiber falling between mohair and cashmere in quality. They've got a track record in the fiber community worth studying.
 

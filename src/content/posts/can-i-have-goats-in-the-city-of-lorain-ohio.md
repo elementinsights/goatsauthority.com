@@ -46,13 +46,13 @@ Whether you can keep goats in Lorain, Ohio depends entirely on the city's munici
 
 Your first step is to check the Lorain municipal code for anything related to livestock, zoning, and animal control. Look for how the city classifies goats, because whether they fall under "livestock" or "pets" changes the rules completely.
 
-Contact Lorain City Hall directly if you cannot find the code online. Ask about animal limits per household, setback requirements from property lines, and whether there are breed or size restrictions. Some Ohio cities allow miniature breeds but ban full-size dairy goats.
+Contact Lorain City Hall directly if you cannot find the code online. The general process for [figuring out if you can have goats](/can-i-have-goats-where-i-live) is the same in any municipality. Ask about animal limits per household, setback requirements from property lines, and whether there are breed or size restrictions. Some Ohio cities allow miniature breeds but ban full-size dairy goats.
 
 ## What types of goats are best suited for a city environment?
 
 If the code allows it, smaller breeds are your best option for a city lot. Nigerian Dwarf goats are quiet, compact, and still give a surprising amount of milk for their size.
 
-Pygmy goats are another solid choice. They eat less, produce less waste, and need less room than standard breeds. Stay away from full-size dairy goats like Saanens or Alpines unless you have a big backyard to work with.
+Pygmy goats are another solid choice. They eat less, produce less waste, and need less room than standard breeds. [Toggenburg goats](/where-did-toggenburg-goats-originate) and other full-size dairy breeds like Saanens or Alpines need too much space unless you have a big backyard to work with.
 
 ## How much space do you need to keep goats in the city?
 
@@ -62,7 +62,7 @@ Goats are herd animals and need a companion, so always keep at least two. That m
 
 ## What kind of goat fencing is needed in the city?
 
-Goats are escape artists, and a loose goat in a neighborhood means a call to animal control. Four-foot welded wire with sturdy posts works for small breeds, and five-foot fencing handles standard-size goats.
+Goats are escape artists that [can climb fences](/can-goats-climb-fences) you'd think would hold them, and a loose goat in a neighborhood means a call to animal control. Four-foot welded wire with sturdy posts works for small breeds, and five-foot fencing handles standard-size goats.
 
 Make sure every gate latches securely. Goats figure out simple latches fast, so use carabiner clips or snap bolts that require opposable thumbs to open.
 
@@ -74,9 +74,9 @@ Find a large-animal vet before you buy your first goat. Most city vets only hand
 
 ## Are there any risks associated with keeping goats in the city?
 
-Parasites are harder to manage on small city lots because you cannot rotate pasture. Worm larvae build up in the soil fast when goats use the same pen day after day. Plan on more frequent fecal testing than you would need on acreage.
+Parasites are harder to manage on small city lots because you cannot rotate pasture. Worm larvae build up in the soil fast when goats use the same pen day after day, and you may need to [deworm more frequently](/can-you-deworm-a-pregnant-goat) than on acreage. Plan on more frequent fecal testing than you would need on a larger property.
 
-Waste management matters too. Two goats fill a wheelbarrow with manure every week. Composting in a bin system works well, and sharing the finished compost with neighbors builds goodwill that keeps complaints at bay.
+Waste management matters too. Two goats fill a wheelbarrow with manure every week. The good news is [goat poop makes excellent fertilizer](/can-goat-poop-be-used-as-fertilizer), and sharing the finished compost with neighbors builds goodwill that keeps complaints at bay.
 
 ## Final Thoughts
 

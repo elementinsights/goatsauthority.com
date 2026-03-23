@@ -56,17 +56,17 @@ You also need the right equipment sized for goats. A standard horse harness will
 
 Goats are more practical for pulling small carts and garden cultivators than actual plows. A team of two large wethers can move a loaded garden cart, haul firewood, or drag a lightweight cultivator through a raised bed garden.
 
-The real benefit is on small homesteads where a tractor is overkill. If you just need to work a small kitchen garden, a trained goat team can scratch the surface well enough to mix in compost or prepare a seedbed. They also fertilize as they go, which is a nice bonus.
+The real benefit is on small homesteads where a tractor is overkill, and it's yet another way [goats can earn their keep](/posts/can-goats-make-money). If you just need to work a small kitchen garden, a trained goat team can scratch the surface well enough to mix in compost or prepare a seedbed. They also fertilize as they go, which is a nice bonus.
 
 ## How do you train a goat to pull a plow?
 
-Start by halter-training your goat so it leads reliably and responds to voice commands. This foundation takes a few weeks and is the most important step. A goat that will not lead calmly has no business being hooked to any kind of equipment.
+Start by halter-training your goat so it leads reliably and responds to voice commands. The process is similar to [taming goats](/posts/can-goats-be-tamed) from scratch. This foundation takes a few weeks and is the most important step. A goat that will not lead calmly has no business being hooked to any kind of equipment.
 
-Once the goat leads well, introduce the harness gradually. Let the goat wear it around the pasture for a few days before attaching any drag weight. Start with a light log or tire and slowly increase the load over several weeks until the goat pulls steadily without balking.
+Once the goat leads well, introduce the harness gradually. Building trust matters because [goats do form genuine bonds with their handlers](/posts/can-goats-love-humans). Let the goat wear it around the pasture for a few days before attaching any drag weight. Start with a light log or tire and slowly increase the load over several weeks until the goat pulls steadily without balking.
 
 ## Are there any special considerations when goats pull a plow?
 
-Keep work sessions short, especially in warm weather. Goats overheat faster than horses, and a draft goat working hard in summer sun can get heat stress within 30 minutes. Provide water breaks and shade between passes.
+Keep work sessions short, especially in warm weather. Goats overheat faster than horses, and a draft goat working hard in summer sun can get heat stress within 30 minutes. Provide water breaks, shade, and consider [electrolytes](/posts/can-goats-have-horse-electrolytes) between passes.
 
 Watch the goat's shoulders and chest for rub marks from the harness. Poorly fitted equipment causes sores fast, and a sore goat will refuse to work. Check the fit before every session and adjust padding as needed.
 
@@ -74,7 +74,7 @@ Watch the goat's shoulders and chest for rub marks from the harness. Poorly fitt
 
 The biggest risk is overloading the goat. Asking a 200-pound goat to pull a full-sized plow through compacted clay is a recipe for pulled muscles, joint injuries, or worse. Match the load to the animal's size and strength.
 
-Goats can also spook and bolt with equipment attached, which is dangerous for both the goat and anyone nearby. Always work in a fenced area, and never leave a harnessed goat unattended with a plow or cultivator hooked up behind it.
+Goats can also spook and bolt with equipment attached, which is dangerous for both the goat and anyone nearby. Their [natural jumping ability](/posts/can-goats-jump-high) means they can lunge with surprising force. Always work in a fenced area, and never leave a harnessed goat unattended with a plow or cultivator hooked up behind it.
 
 ## Final Thoughts
 

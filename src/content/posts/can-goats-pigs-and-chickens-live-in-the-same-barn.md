@@ -41,7 +41,7 @@ Can goats, pigs, and chickens share a barn? They can, but it takes planning. The
 
 Yes, all three species can live under the same roof if each one has its own clearly defined area. The barn needs solid dividers between species, not just wire mesh, to cut down on disease transfer and territorial scuffles.
 
-Goats need tall fencing because they climb everything. Pigs need low, sturdy barriers with a concrete or packed-earth floor since they root and dig constantly. Chickens are the easiest to contain as long as they have roosting bars and nesting boxes.
+Goats need tall fencing because [they climb everything](/posts/can-goats-climb-fences). Pigs need low, sturdy barriers with a concrete or packed-earth floor since they root and dig constantly. Chickens are the easiest to contain as long as they have roosting bars and nesting boxes.
 
 ## What do you need to consider before adding different types of animals to your barn?
 
@@ -51,7 +51,7 @@ You must set up feeding stations so that each species can only reach its own foo
 
 ## The benefits of keeping, pigs, and chickens in the same barn
 
-Sharing a barn saves space and cuts costs on a small farm. One building with good ventilation is cheaper to maintain than three separate structures, and you only need one water line and one electrical run.
+Sharing a barn saves space and cuts costs on a small farm, especially for owners looking to [make money from goats](/posts/can-goats-make-money). One building with good ventilation is cheaper to maintain than three separate structures, and you only need one water line and one electrical run.
 
 The animals can also benefit from each other. Chickens scratch through pig and goat bedding looking for bugs and grain, which helps break down manure and keeps fly populations lower. Goats and chickens generally get along well and ignore each other.
 
@@ -59,16 +59,16 @@ The animals can also benefit from each other. Chickens scratch through pig and g
 
 Pigs are the wild card in a mixed barn. They root through bedding and destroy it within hours, which means more cleanup and more bedding costs. They have also been known to eat chicken eggs and can injure or kill small birds if they catch them.
 
-Disease transfer is a real concern with all three species in close quarters. Pigs and chickens can both carry bacteria like salmonella that spreads through shared water or contaminated bedding. Keep the barn clean, vaccinations current, and water sources separate.
+Disease transfer is a real concern with all three species in close quarters. Chickens can spread [listeriosis to goats through fecal contamination](/posts/can-goats-get-listeriosis-from-chicken-feces), and pigs and chickens can both carry salmonella. Keep the barn clean, vaccinations current, and water sources separate.
 
 ## How to manage the different types of animals in your barn?
 
-Give each species its own zone and stick to a consistent daily routine. Feed at the same time each day with gates closed so nobody raids another animal's trough. Clean each section regularly and watch for any signs of illness spreading between groups.
+Give each species its own zone and stick to a consistent daily routine. Feed at the same time each day with gates closed so nobody raids another animal's trough. External parasites like [mites](/posts/can-goats-get-mites) can thrive in crowded conditions, so clean each section regularly and watch for any signs of illness spreading between groups.
 
 If one species starts bullying the others, add more space or install better barriers. Pigs pushing goats around is the most common problem, and the fix is usually a sturdier divider that the pigs cannot knock over or root under.
 
 ## Key Takeaways
 
-A mixed-species barn works when each animal has its own pen, its own feeder, and enough room to stay out of the others' way. The single most dangerous mistake is letting animals access each other's feed, since copper, monensin, and protein levels vary widely between species.
+A mixed-species barn works when each animal has its own pen, its own feeder, and enough room to stay out of the others' way. Good [bedding like pine chips](/posts/can-pine-chips-be-used-as-bedding-for-goats) keeps each section clean and dry. The single most dangerous mistake is letting animals access each other's feed, since copper, monensin, and protein levels vary widely between species.
 
 Start with good solid dividers, feed each group separately behind closed gates, and keep the whole place clean. Do those three things and goats, pigs, and chickens can share a barn without major problems.

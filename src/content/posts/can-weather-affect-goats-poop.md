@@ -54,15 +54,15 @@ If you see droppings that look like a continuous log, that usually points to too
 
 ## How different weather conditions affect droppings
 
-Hot weather causes goats to drink less and eat less, which slows everything down in the rumen. You will often see smaller, harder pellets during heat waves.
+Hot weather causes goats to drink less and eat less, which slows everything down in the rumen. Proper shelter makes a huge difference, and even a [12x2 barn setup](/posts/can-a-goat-barn-be-12x-2) can provide enough shade for a small herd. You will often see smaller, harder pellets during heat waves.
 
-Wet, warm conditions are when parasites thrive, and a heavy worm load is one of the most common causes of diarrhea in goats. If your herd gets loose stools after a stretch of warm rain, run a fecal egg count before blaming it entirely on the weather.
+Wet, warm conditions are when parasites thrive, and a heavy worm load is one of the most common causes of diarrhea in goats. Using [pine chips as bedding](/posts/can-pine-chips-be-used-as-bedding-for-goats) helps keep the living area drier during wet spells. If your herd gets loose stools after a stretch of warm rain, run a fecal egg count before blaming it entirely on the weather.
 
 Cold snaps can cause kids and weaker goats to scour from the stress alone. The energy they burn trying to stay warm pulls resources away from normal digestion.
 
 ## Adjusting feed during weather extremes
 
-During heat waves, cut back on grain and increase access to loose hay and fresh water. Grain generates more internal heat during digestion than roughage does, and you do not want to add to an already stressed goat.
+During heat waves, cut back on grain and increase access to loose hay and fresh water. [Urban goat keepers](/posts/can-goats-live-in-an-urban-environment) with limited shade options need to be especially careful during extreme heat. Grain generates more internal heat during digestion than roughage does, and you do not want to add to an already stressed goat.
 
 In cold weather, bump up the hay ration. The fermentation process in the rumen produces body heat, so a goat with a full rumen stays warmer overnight than one that was shorted on evening hay.
 
@@ -70,9 +70,9 @@ Always have fresh water available, especially in freezing temperatures. Goats dr
 
 ## Shelter and management tips
 
-A three-sided shelter open to the south blocks cold north winds and rain while still allowing airflow. Goats that stay dry and out of the wind handle temperature swings much better than those left exposed.
+A three-sided shelter open to the south blocks cold north winds and rain while still allowing airflow. Goats are [surprisingly good at climbing fences](/posts/can-goats-climb-fences) to escape weather they dislike, so make sure the enclosure is secure. Goats that stay dry and out of the wind handle temperature swings much better than those left exposed.
 
-Keep bedding deep and dry. Goats lying in wet, cold bedding burn extra calories staying warm, and that diverts energy away from digestion. Deep straw bedding insulates from the cold ground and keeps the animals comfortable.
+Keep bedding deep and dry. If you are thinking about [buying a goat as a pet](/posts/can-i-buy-a-goat-as-a-pet), understanding bedding management is one of the basics you need to learn. Goats lying in wet, cold bedding burn extra calories staying warm, and that diverts energy away from digestion. Deep straw bedding insulates from the cold ground and keeps the animals comfortable.
 
 In hot climates, shade structures and fans make a big difference. A goat that can escape the midday sun will eat more, drink more, and maintain healthier digestion than one baking in an open field.
 

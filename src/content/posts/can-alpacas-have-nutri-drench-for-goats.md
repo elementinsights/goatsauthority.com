@@ -51,28 +51,28 @@ The standard dose is 1 oz per 25 lbs of body weight, which is the same guideline
 
 Nutri-Drench is a concentrated liquid supplement packed with vitamins, minerals, and energy. It is designed to be absorbed quickly, which makes it useful for animals that are too weak to eat or drink on their own.
 
-Goat owners reach for it during kidding season, after illness, or anytime a goat is looking run down. The same properties that make it work for goats are what make it a reasonable option for alpacas in a crisis.
+Goat owners reach for it during kidding season, after illness, or anytime a goat is looking run down. Pairing it with a solid base diet of [alfalfa](/can-goats-eat-alfalfa) keeps does in top condition through lactation. The same properties that make it work for goats are what make it a reasonable option for alpacas in a crisis.
 
 ## How much Nutri Drench should you give an alpaca per day?
 
 Nutri-Drench is not meant to be a daily supplement for alpacas. It is an emergency energy and vitamin boost, not a replacement for proper camelid nutrition.
 
-Give it once or twice when the animal is down, then switch to a camelid-specific supplement for ongoing support. If your alpaca needs daily nutritional help, talk to your vet about products formulated specifically for camelids.
+Give it once or twice when the animal is down, then switch to a camelid-specific supplement for ongoing support. For goats recovering alongside alpacas, offering easy-to-digest foods like [sweet potatoes](/can-goats-eat-sweet-potatoes) can help rebuild their strength without stressing the gut. If your alpaca needs daily nutritional help, talk to your vet about products formulated specifically for camelids.
 
 ## What are the side effects of Nutri Drench for goats?
 
 At the recommended dose, side effects are rare. The biggest risk comes from overuse or daily dosing, which can lead to digestive upset and too much copper intake over time.
 
-Alpacas are more sensitive to copper than goats are. Goat Nutri-Drench contains copper because goats need it, but repeated doses can build up to a problem for camelids. Keep it to emergency use only and you will be fine.
+Alpacas are more sensitive to copper than goats are. Goat Nutri-Drench contains copper because goats need it, but repeated doses can build up to a problem for camelids. Similarly, certain goat-safe foods like [chocolate are outright toxic](/can-goats-eat-chocolate) even for goats themselves, so species-specific nutrition always matters. Keep it to emergency use only and you will be fine.
 
 ## Is it okay to give your alpaca leftovers from your goat's food bowl?
 
 Alpacas and goats have different nutritional needs despite both being herbivores. Goats need higher protein and higher copper levels than alpacas, so sharing feed on a regular basis is not a good idea.
 
-An alpaca nibbling from a goat feeder once or twice is not going to cause harm. But making it a habit could lead to copper accumulation and kidney stress in the alpaca over time.
+An alpaca nibbling from a goat feeder once or twice is not going to cause harm. Goat feeds often include ingredients like [corn](/can-goats-eat-corn) and other grains that are fine for goats but can throw off an alpaca's mineral balance over time.
 
 ## How do I know if my alpaca is getting enough nutrients?
 
 The first thing to check is the fiber. Healthy alpacas have a dense, shiny coat with good crimp, while dull or thinning fiber usually points to a nutritional gap.
 
-Weight loss despite access to adequate forage is another warning sign. If your alpaca looks thin or is slow to recover from illness, a blood panel from your vet will tell you exactly what is missing and what supplement to reach for.
+Weight loss despite access to adequate forage is another warning sign. For goats sharing pasture with alpacas, supplementing with [carrots](/can-goats-eat-carrots) and other vitamin-rich vegetables is an easy way to round out their nutrition without overcomplicating things. If your alpaca looks thin or is slow to recover from illness, a blood panel from your vet will tell you exactly what is missing and what supplement to reach for.

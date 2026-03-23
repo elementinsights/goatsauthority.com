@@ -52,7 +52,7 @@ Yes, too much time on rich pasture can absolutely cause scours in goats. The mai
 
 Spring is the highest risk time because the grass is young, high in moisture, and loaded with sugars. A goat that's been eating hay all winter and then gets turned loose on that rich growth is a prime candidate for diarrhea.
 
-Wet pasture also carries heavier parasite loads. Worm larvae thrive in the moist grass close to the ground, and goats that graze the same patch repeatedly ingest more larvae with every bite.
+Wet pasture also carries heavier parasite loads. Worm larvae thrive in the moist grass close to the ground, and goats that graze the same patch repeatedly ingest more larvae with every bite. Knowing [when to deworm your goats](/can-you-deworm-a-pregnant-goat) is essential for managing pasture-related parasite problems.
 
 ## What is scours and what are the symptoms of scours in goats?
 
@@ -60,13 +60,13 @@ Scours is just the livestock term for diarrhea. It can range from soft, clumpy d
 
 Watch for watery droppings, loss of appetite, lethargy, and weight loss. Young kids and older goats are most vulnerable because they dehydrate faster.
 
-A goat with scours that's still alert and eating is usually dealing with something mild. But if you see blood or mucus in the stool, a temperature above 103 degrees, or a goat that won't get up, that's an emergency.
+A goat with scours that's still alert and eating is usually dealing with something mild. But if you see blood or mucus in the stool, a temperature above 103 degrees, or a goat that won't get up, that's an emergency. Severe diarrhea alongside pale eyelids could point to [anemia or even stroke-like symptoms](/can-goats-have-a-stroke-anemia) from heavy parasite loads.
 
 ## Causes of scours in goats
 
 The most common causes are sudden diet changes, parasites, bacterial infections, and stress. Moving goats to a new location, introducing new herd members, or switching feeds too quickly can all trigger it.
 
-Coccidiosis is a major culprit in young kids. It's caused by a protozoan parasite that attacks the intestinal lining, and it can be fatal if left untreated.
+Coccidiosis is a major culprit in young kids. It's caused by a protozoan parasite that attacks the intestinal lining, and it can be fatal if left untreated. Using [medicated feed for pregnant does](/can-pregnant-goats-eat-medicated-feed) before kidding helps reduce coccidia exposure for newborn kids.
 
 Bacterial infections like E. Coli and Clostridium can also cause severe scours. These tend to come on fast and hit hard, especially in kids under two weeks old.
 
@@ -76,13 +76,13 @@ The single best prevention strategy is gradual pasture introduction. Start with 
 
 Rotate your pastures if possible. Moving goats to a fresh section every three to four days and letting the previous section rest for at least three weeks kills off a significant number of worm larvae.
 
-Keep water troughs clean, provide a consistent base diet of quality hay, and avoid sudden feed changes. A good loose mineral supplement also supports gut health and overall immunity.
+Keep water troughs clean, provide a consistent base diet of quality [hay](/what-kind-of-hay-do-goats-eat), and avoid sudden feed changes. A good loose mineral supplement also supports gut health and overall immunity.
 
 ## Treatment of scours in goats
 
 Start by identifying whether you're dealing with stress scours or something infectious. Stress scours usually produce soft but somewhat formed droppings and clear up within a day or two on their own.
 
-For mild cases, make sure the goat has access to plenty of fresh water and electrolytes. You can buy livestock electrolyte powder at most farm supply stores, or mix your own with water, salt, and a small amount of baking soda.
+For mild cases, make sure the goat has access to plenty of fresh water and electrolytes. You can buy livestock electrolyte powder at most farm supply stores, or mix your own with water, salt, and a small amount of baking soda. Some owners wonder [whether Pepto-Bismol is safe for goats](/can-i-give-my-goat-pepto-bismol) with digestive upset, which your vet can advise on.
 
 For anything that lasts more than 48 hours, involves blood or mucus, or hits a young kid, get a fecal sample to your vet. A simple fecal float test can tell you whether parasites are the problem, and your vet can prescribe the right treatment from there.
 
@@ -92,7 +92,7 @@ Call the vet if scours last more than two days, if the goat stops eating or drin
 
 A fever above 103 degrees combined with diarrhea points toward an infection that likely needs antibiotics. Don't try to guess at treatment on your own when a young goat's life might be at stake.
 
-Collect a fecal sample before the vet visit if you can. It speeds up diagnosis and helps your vet choose the right medication the first time around.
+Collect a fecal sample before the vet visit if you can. It speeds up diagnosis and helps your vet choose the right medication the first time around. Understanding [the dewormer options like ivermectin pour-on](/can-i-use-ivermectin-pour-on-in-sheep-and-goats) helps you have an informed conversation with your vet about treatment.
 
 ## Final Thoughts
 

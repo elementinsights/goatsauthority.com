@@ -46,7 +46,7 @@ Yes, you can use Germall Plus in goat milk lotion, and it is one of the most rel
 
 Germall Plus is a combination of diazolidinyl urea and iodopropynyl butylcarbamate. Together, these two ingredients provide broad-spectrum protection against bacteria, mold, and yeast in water-based cosmetic products.
 
-Goat milk lotion absolutely needs a preservative because any product containing water or milk will grow bacteria within days without one. Germall Plus is the go-to choice for many goat milk soap and lotion makers because it works reliably at low concentrations.
+Goat milk lotion absolutely needs a preservative because any product containing water or milk will grow bacteria within days without one. If you're also making [goat milk soap for skin care](/can-i-use-goats-milk-soap-on-my-beard), the cold process method has different preservation needs. Germall Plus is the go-to choice for many goat milk soap and lotion makers because it works reliably at low concentrations.
 
 ## What is Germall Plus and what does it do?
 
@@ -58,19 +58,19 @@ The diazolidinyl urea component handles bacteria, while the iodopropynyl butylca
 
 Add Germall Plus to the water phase of your lotion during the cool-down stage, after the mixture drops below 120 degrees Fahrenheit. It is water-soluble, so it dissolves easily when stirred into the liquid phase.
 
-Use a concentration between 0.1% and 0.5% of the total batch weight. For a 16-ounce batch of lotion, that works out to roughly 0.5 to 2.4 grams. A digital jewelry scale that measures in tenths of a gram makes accurate measuring easy.
+Use a concentration between 0.1% and 0.5% of the total batch weight. For a 16-ounce batch of lotion, that works out to roughly 0.5 to 2.4 grams. If you're sourcing milk from your own does, knowing whether [goat milk can reduce wrinkles](/can-goat-milk-reduce-wrinkles) helps you market your products effectively. A digital jewelry scale that measures in tenths of a gram makes accurate measuring easy.
 
 ## What are the things you need to consider before using Germall Plus in goat milk lotion?
 
 Check the pH of your finished lotion because Germall Plus works best in products with a pH between 3 and 8. Most goat milk lotions fall within this range naturally, but it is worth testing with pH strips to be sure.
 
-Do a small patch test on your skin before using any new batch on your whole body. Some people are sensitive to diazolidinyl urea, and a patch test on the inside of your wrist will reveal any irritation within 24 hours.
+Do a small patch test on your skin before using any new batch on your whole body. People who are [allergic to cow milk](/can-someone-allergic-to-milk-use-goats-milk) may also react differently to topical goat milk products. Some people are sensitive to diazolidinyl urea, and a patch test on the inside of your wrist will reveal any irritation within 24 hours.
 
 ## Tips and facts about Germall Plus
 
 Too little Germall Plus and your lotion will grow bacteria within weeks. Too much and you risk skin irritation for anyone using the product. Stick to the recommended 0.1% to 0.5% range and measure carefully with a precise scale.
 
-If you sell your lotion at farmers markets or online, keep a batch log of your preservative measurements for every batch. This documentation protects you if a customer ever raises a safety concern. A properly preserved goat milk lotion with Germall Plus should last about 6 to 12 months at room temperature.
+If you sell your lotion at farmers markets or online, keep a batch log of your preservative measurements for every batch. You might also consider [selling goat milk butter](/can-i-sell-goat-milk-butter) alongside your skincare products if your state regulations allow it. This documentation protects you if a customer ever raises a safety concern. A properly preserved goat milk lotion with Germall Plus should last about 6 to 12 months at room temperature.
 
 ## Are there any alternative preservatives that can be used in goat milk lotion?
 
@@ -82,7 +82,7 @@ Optiphen and Phenonip are two synthetic alternatives that some lotion makers use
 
 Add it during the cool-down phase after you have combined your oil and water phases and the mixture has cooled below 120 degrees. Adding it too early when the lotion is still hot can reduce its effectiveness.
 
-Stir thoroughly for at least 2 minutes to make sure the preservative is evenly distributed throughout the entire batch. Store finished lotion away from direct sunlight and heat, as both can degrade the preservative faster than expected.
+Stir thoroughly for at least 2 minutes to make sure the preservative is evenly distributed throughout the entire batch. If you plan to [freeze leftover goat milk](/can-goats-milk-be-frozen) for future batches, thaw it completely before using in your lotion recipe. Store finished lotion away from direct sunlight and heat, as both can degrade the preservative faster than expected.
 
 ## Final Thoughts
 

@@ -43,7 +43,7 @@ Keeping a goat inside your house is technically possible, but it's not something
 
 Yes, goats can physically live inside a house. People do it, especially with small breeds like Pygmy goats and Nigerian Dwarfs.
 
-The problem is that goats aren't wired for indoor life the way dogs or cats are. They need room to run, things to climb, herd companions, and access to browse and forage throughout the day.
+The problem is that goats aren't wired for indoor life the way dogs or cats are. They need room to run, things to climb, herd companions, and access to browse and forage throughout the day. Successful [house training for baby goats](/can-baby-goats-be-house-trained) is extremely difficult due to their constant elimination habits.
 
 A goat stuck in a living room all day will get bored, stressed, and destructive fast. Short-term indoor stays for bottle babies, sick goats, or during extreme weather are perfectly reasonable, but permanent indoor housing creates more problems than it solves.
 
@@ -51,7 +51,7 @@ A goat stuck in a living room all day will get bored, stressed, and destructive 
 
 Most folks who bring a goat inside are dealing with a newborn kid that needs bottle feeding every few hours. That's completely normal and honestly the best thing you can do for a weak or rejected kid during its first couple of weeks.
 
-Sick or injured goats sometimes need indoor recovery too, where you can monitor them closely and keep them warm. Some people also keep goats indoors because they treat them as companion animals, particularly the miniature breeds that weigh under 50 pounds.
+Sick or injured goats sometimes need indoor recovery too, where you can monitor them closely and keep them warm. Some people also keep goats indoors because they treat them as companion animals, particularly the miniature breeds that weigh under 50 pounds. Be aware that [goats can climb fences](/can-goats-climb-fences) and indoor barriers with equal enthusiasm.
 
 ## The bathroom problem
 
@@ -65,7 +65,7 @@ Goat diapers exist, but they need changing multiple times a day. Leave them on t
 
 Goats explore the world with their mouths. Inside a house, that means electrical cords, curtains, furniture legs, shoes, books, and houseplants are all fair game.
 
-Many common houseplants like azaleas, philodendrons, and poinsettias are actually toxic to goats. One curious nibble on the wrong plant can turn into a veterinary emergency.
+Many common houseplants like azaleas, philodendrons, and poinsettias are actually toxic to goats. One curious nibble on the wrong plant can turn into a veterinary emergency. If you also have dogs, [pygmy goats and dogs can live together](/can-dogs-and-pygmy-goats-live-together) but need separate indoor spaces to prevent cross-feeding.
 
 You'd need to goat-proof your house the same way you'd baby-proof it for a toddler. Cover all wiring, remove anything fragile below four feet, and lock cabinets with childproof latches because goats can figure out simple handles.
 
@@ -75,13 +75,13 @@ Goats are herd animals and keeping a single goat alone leads to anxiety, constan
 
 They also need physical space to move, climb, and play. A small pen or dog crate won't cut it. Bored goats get loud, and their bleating will carry through walls and bother everyone in the house.
 
-On top of that, goats produce a musky smell that builds up quickly in an enclosed space. Bucks especially have a strong odor that's nearly impossible to manage indoors.
+On top of that, goats produce a musky smell that builds up quickly in an enclosed space. Bucks especially have a strong odor that's nearly impossible to manage indoors. Using [pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats) can help absorb odors in temporary indoor setups.
 
 ## Better alternatives to indoor living
 
 If you want your goats close by, a three-sided shelter or small barn attached to your house works far better than keeping them in the living room. They get the protection from weather they need while still having outdoor access for grazing and exercise.
 
-A setup with a covered pen and a small pasture gives goats everything they actually need. You can still spend plenty of time with them, bring them treats, and bond with them without turning your house into a barnyard.
+A setup with a covered pen and a small pasture gives goats everything they actually need. You can still spend plenty of time with them, bring them treats, and bond with them without turning your house into a barnyard. [Goat poop from outside pens](/can-goat-poop-be-used-as-fertilizer) even makes excellent fertilizer for your garden.
 
 For those temporary situations with baby goats or sick animals, set up a dedicated area in a mudroom, garage, or laundry room with easy-to-clean floors. That keeps the mess contained and gives you quick access for feedings and monitoring.
 

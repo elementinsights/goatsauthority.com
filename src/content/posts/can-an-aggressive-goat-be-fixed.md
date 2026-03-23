@@ -49,7 +49,7 @@ Once you know what's driving the behavior, you can pick the right approach to de
 
 No breed is inherently aggressive, but intact bucks of any breed can be dangerous during rut. Testosterone makes even friendly bucks unpredictable, and a 200-pound buck in breeding season can seriously hurt you.
 
-Castrating an aggressive buck usually calms him down within a few weeks. If you're not planning to breed him, making him a wether is one of the most reliable solutions you've got.
+Castrating an aggressive buck usually calms him down within a few weeks. If you're not planning to breed him, making him a wether is one of the most reliable solutions you've got. A wether can even be trained to [pull a cart](/can-a-goat-pull-a-cart/) or serve as a pack goat once his temperament settles.
 
 ## How can you tell if your goat is aggressive?
 
@@ -59,7 +59,7 @@ Grunting and snorting when you approach is another red flag. Some goats also do 
 
 ## What to do if your goat is aggressive?
 
-First, rule out pain or illness. A goat that's suddenly aggressive when it wasn't before might have an injury, hoof problem, or internal parasite load that's making it irritable.
+First, rule out pain or illness. A goat that's suddenly aggressive when it wasn't before might have an injury, hoof problem, or internal parasite load that's making it irritable. Even [wild goats can be tamed](/can-goats-be-tamed/) with patience once health issues are ruled out.
 
 If the goat is a bottle baby that was raised by humans, you're probably dealing with bottle-baby syndrome. These goats never learned to fear people because they were handled so much as kids, and they treat their human owners like another goat in the herd that needs to be dominated.
 
@@ -71,12 +71,12 @@ When an adult goat charges or headbutts you, stand your ground and firmly push t
 
 ## Tips for preventing aggression in goats
 
-Let dam-raised kids learn manners from their mothers and herdmates. A doe will teach her kids where they rank in the pecking order far better than any human can.
+Let dam-raised kids learn manners from their mothers and herdmates. A doe will teach her kids where they rank in the pecking order far better than any human can. Goats that develop a healthy [bond with humans](/can-goats-love-humans/) early on are far less likely to become aggressive adults.
 
-Give your goats enough space, multiple feeding stations, and adequate shelter so they're not competing for basic resources. Crowding and resource competition are two of the fastest ways to turn a calm herd into a group of fighters.
+Give your goats enough space, multiple feeding stations, and adequate shelter so they're not competing for basic resources. Providing [climbing structures and activities](/can-a-goat-climb-trees/) gives them a healthy outlet for energy that might otherwise become aggression. Crowding and resource competition are two of the fastest ways to turn a calm herd into a group of fighters.
 
 ## Final Thoughts
 
 An aggressive goat is usually a goat with a fixable problem. Castrate bucks you're not breeding, train bottle babies early, treat any underlying pain, and give your herd enough room to coexist peacefully.
 
-Some individual goats are just dominant personalities that need firm management rather than a cure. Knowing the difference between a goat that can be trained and one that needs to be managed is half the battle.
+Some individual goats are just dominant personalities that need firm management rather than a cure. With persistence, even the toughest goats can be [domesticated and worked with](/can-you-domesticate-a-goat/) over time. Knowing the difference between a goat that can be trained and one that needs to be managed is half the battle.

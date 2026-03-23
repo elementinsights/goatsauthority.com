@@ -46,31 +46,31 @@ Yes, you can give baby aspirin to a baby goat for mild pain and inflammation. It
 
 The standard dose is 1 baby aspirin (81 mg) per 10 pounds of body weight, given every 12 hours. A 20-pound kid gets 2 tablets, and a 10-pound newborn gets 1.
 
-Aspirin works well for mild pain from sore hooves after a trim, minor bumps, or low-grade fevers. It brings down inflammation and temperature, which makes a hurting kid noticeably more comfortable while you figure out what is going on.
+Aspirin works well for mild pain from sore hooves after a trim, minor bumps, or low-grade fevers. For open cuts and scrapes, [applying Neosporin](/can-i-put-neosporin-on-my-goats) alongside pain management helps prevent infection. It brings down inflammation and temperature, which makes a hurting kid noticeably more comfortable while you figure out what is going on.
 
 ## What is baby aspirin and what are its benefits for goats?
 
 Baby aspirin is a low-dose form of acetylsalicylic acid. Each tablet contains 81 mg compared to 325 mg in regular adult aspirin, which makes dosing small animals much easier.
 
-It reduces pain, lowers fever, and decreases inflammation by blocking prostaglandin production. You can pick up a bottle at any drugstore for under $5, which is why experienced goat owners keep one on the shelf at all times.
+It reduces pain, lowers fever, and decreases inflammation by blocking prostaglandin production. You can pick up a bottle at any drugstore for under $5, which is why experienced goat owners keep one on the shelf alongside [Pepto-Bismol](/can-i-give-my-goat-pepto-bismol) and other barn essentials at all times.
 
 ## How much aspirin should you give to a baby goat, and how often should you give it to them?
 
 Weigh your kid before dosing rather than guessing. With very small or very young goats, a little extra medication makes a bigger difference than it does with an adult.
 
-Crush the tablets into powder and mix with a small amount of applesauce, yogurt, or molasses. Use a dosing syringe to squirt the mixture into the side of the kid's mouth. Do not give aspirin for more than 3 days in a row without talking to your vet, because extended use can cause stomach ulcers.
+Crush the tablets into powder and mix with a small amount of applesauce, yogurt, or molasses. Use a dosing syringe to squirt the mixture into the side of the kid's mouth, the same technique you'd use when [syringe-feeding water to a sick goat](/can-i-give-a-sick-goat-water-through-a-syringe). Do not give aspirin for more than 3 days in a row without talking to your vet, because extended use can cause stomach ulcers.
 
 ## What are the side effects of giving baby aspirin to a goat, and what should you do if they experience any of them?
 
 Stomach upset is the most common side effect. Loose stools, decreased appetite, or general discomfort after dosing are all signs. Giving aspirin with food helps prevent this.
 
-Aspirin is a blood thinner, so never give it to a goat that is actively bleeding or about to go through a procedure. If you notice unusual bleeding from gums, wounds, or the nose while using aspirin, stop immediately and contact your vet.
+Aspirin is a blood thinner, so never give it to a goat that is actively bleeding or about to go through a procedure like [suturing a wound](/can-i-suture-my-goat). If you notice unusual bleeding from gums, wounds, or the nose while using aspirin, stop immediately and contact your vet.
 
 ## How to prevent gastrointestinal upset when giving baby aspirin to a goat?
 
 Always give aspirin with food rather than on an empty stomach. The food acts as a buffer and protects the stomach lining from irritation.
 
-If the kid is not eating well enough to take aspirin with a meal, mix the crushed tablet into a small amount of yogurt or milk. This coats the stomach and reduces the chance of digestive upset.
+If the kid is not eating well enough to take aspirin with a meal, mix the crushed tablet into a small amount of yogurt or [powdered goat milk](/can-i-give-powdered-goat-milk-to-sick-baby-goats). This coats the stomach and reduces the chance of digestive upset.
 
 ## Where can you buy baby aspirin for your goat, and how much will it cost you?
 
@@ -82,7 +82,7 @@ Buy the plain, uncoated tablets without added flavors or coatings when possible.
 
 Banamine (flunixin meglumine) is a much stronger anti-inflammatory that works faster than aspirin. It requires a vet prescription and precise dosing, but it is the go-to for serious pain from injuries, infections, or tough births.
 
-Meloxicam is another prescription option that lasts longer than aspirin with once-daily dosing and is gentler on the stomach. For your barn first aid kit, keep baby aspirin alongside a digital thermometer, dosing syringes, electrolyte powder, and iodine spray.
+Meloxicam is another prescription option that lasts longer than aspirin with once-daily dosing and is gentler on the stomach. Some goat owners also use [human fish oil pills](/can-i-give-my-goats-human-fish-pills) as an anti-inflammatory supplement for ongoing joint issues. For your barn first aid kit, keep baby aspirin alongside a digital thermometer, dosing syringes, electrolyte powder, and iodine spray.
 
 ## Final Thoughts
 

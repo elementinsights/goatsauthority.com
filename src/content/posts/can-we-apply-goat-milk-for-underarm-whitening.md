@@ -56,29 +56,29 @@ Do this once or twice a week for best results. Follow up with a gentle moisturiz
 
 ## What is goat milk and what are its benefits for skin care?
 
-Goat milk has been used as a skincare ingredient for centuries. It has smaller fat globules than cow milk, which means it absorbs into the skin more easily.
+Goat milk has been used as a skincare ingredient for centuries. Produced by [does with two functional teats](/posts/how-many-teats-do-goats-have), it has smaller fat globules than cow milk, which means it absorbs into the skin more easily.
 
 Beyond lactic acid, goat milk is rich in vitamins A and D, plus minerals that nourish the skin. The fat content also acts as a natural moisturizer that keeps your skin from drying out during the exfoliation process.
 
-Goat milk soap and goat milk lotion are popular products for overall skin softness, and plenty of people with sensitive or eczema-prone skin swear by them.
+Goat milk soap and goat milk lotion are popular products for overall skin softness, and plenty of people with sensitive or eczema-prone skin swear by them. The milk from healthy [does with well-maintained udders](/posts/do-goats-have-udders) tends to produce the cleanest products.
 
 ## Are there any risks associated with using goat milk for underarm whitening?
 
 Goat milk is gentle enough for most skin types, but it's not completely risk-free. Some people experience mild irritation, especially if they have a dairy allergy or very sensitive skin.
 
-Always do a patch test on a small area of skin first and wait 24 hours before applying it to your underarms. The lactic acid can also increase sun sensitivity, so wear sunscreen if your underarms are exposed.
+Always do a patch test on a small area of skin first and wait 24 hours before applying it to your underarms. Make sure the milk comes from a healthy goat that has not been [treated for mastitis](/posts/can-you-drink-milk-from-goats-with-mastitis), as infected milk is contaminated and unsafe for any use. The lactic acid can also increase sun sensitivity, so wear sunscreen if your underarms are exposed.
 
 ## How long before you see results?
 
 Most people who stick with it consistently notice a difference after 3 to 4 weeks. By the 6-week mark, the improvement in skin tone and texture is usually more noticeable.
 
-If you haven't seen any change after 8 weeks of regular use, the darkening may be caused by something goat milk can't address. Hormonal changes, friction from tight clothing, or certain medications can all cause underarm hyperpigmentation, and those situations need a dermatologist, not a home remedy.
+If you have not seen any change after 8 weeks of regular use, the darkening may be caused by something goat milk cannot address. Hormonal changes, friction from tight clothing, or certain medications can all cause underarm hyperpigmentation, and those situations need a dermatologist, not a home remedy.
 
 ## Additional tips on using goat milk for skin care
 
-You don't have to limit goat milk to just your underarms. Adding 2 to 3 cups of fresh goat milk to a warm bath gives your whole body the same gentle exfoliation.
+You do not have to limit goat milk to just your underarms. The nutritional richness of this milk comes from the goat's [four-chamber digestive system](/posts/how-many-stomachs-do-goats-have) that extracts vitamins from plant fiber so efficiently. Adding 2 to 3 cups of fresh goat milk to a warm bath gives your whole body the same gentle exfoliation.
 
-For a targeted mask, mix 2 tablespoons of goat milk with a teaspoon of honey and a pinch of turmeric. Apply it to your underarms for 15 to 20 minutes, then rinse. The honey moisturizes while the turmeric adds its own mild brightening properties.
+Handling goats regularly for milking also means being aware of [diseases you can catch from them](/posts/can-you-catch-diseases-from-goats), so always wash your hands thoroughly after contact. For a targeted mask, mix 2 tablespoons of goat milk with a teaspoon of honey and a pinch of turmeric. Apply it to your underarms for 15 to 20 minutes, then rinse. The honey moisturizes while the turmeric adds its own mild brightening properties.
 
 ## Final Thoughts
 

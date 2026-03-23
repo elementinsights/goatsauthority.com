@@ -42,7 +42,7 @@ A tiny pinch of brown sugar won't kill your pygmy goat, but it's not something y
 
 Technically, yes. A small taste of brown sugar won't cause immediate harm to a healthy pygmy goat.
 
-Brown sugar is not goat feed. It offers nothing your goat actually needs, and feeding it regularly sets you up for health problems down the road.
+Brown sugar is not goat feed. It offers nothing your goat actually needs, and feeding it regularly sets you up for health problems down the road. The foundation of any goat's diet should be [quality hay like timothy](/can-goats-eat-timothy-hay), not sugar-based treats.
 
 ## Are there any risks associated with feeding brown sugar to pygmy goats?
 
@@ -50,25 +50,25 @@ The biggest risk is rumen acidosis. When a goat eats too much sugar at once, the
 
 Symptoms of sugar overload include watery diarrhea, bloating, excessive thirst, and lethargy. In severe cases, a goat that gets into a whole bag of brown sugar could go down fast and need emergency vet care. If your goat is listless, has a distended belly, or refuses to eat for more than 12 hours after eating sugar, call your vet right away.
 
-Pygmy goats are already prone to obesity because of their small frames and efficient metabolisms. Adding concentrated sugar on top of their regular diet is asking for weight problems, joint issues, and pregnancy complications. Run your hands along your goat's ribs once a month. If you have to push hard to feel them, your goat is carrying too much weight.
+Pygmy goats are already prone to obesity because of their small frames and efficient metabolisms. Adding concentrated sugar on top of their regular diet is asking for weight problems, joint issues, and pregnancy complications. Feeding the right foundation of [hay to your pygmy goats](/can-pygmy-goats-eat-hay) is far more important than any treat. Run your hands along your goat's ribs once a month. If you have to push hard to feel them, your goat is carrying too much weight.
 
 ## What are the benefits of feeding brown sugar to pygmy goats?
 
 Honestly, there are almost none. Brown sugar delivers quick energy and nothing else.
 
-Some old-timers mix a spoonful of molasses into warm water for a weak or chilled kid, and brown sugar is similar in composition. That's a specific emergency situation though, not a daily feeding practice.
+Some old-timers mix a spoonful of molasses into warm water for a weak or chilled kid, and brown sugar is similar in composition. [Oats](/can-goats-eat-oats) mixed with a drizzle of molasses make a much better energy supplement for goats than straight sugar. That's a specific emergency situation though, not a daily feeding practice.
 
 ## Brown sugar vs. Molasses for goats
 
 Many goat owners confuse the two since brown sugar contains a small percentage of molasses. Pure blackstrap molasses is actually used in commercial livestock feeds because it makes dry feed more palatable while adding iron, calcium, and magnesium.
 
-Straight brown sugar delivers those same concentrated calories without any of the mineral benefits. If you want to add sweetness to your goat's feed, a tablespoon of unsulfured blackstrap molasses drizzled over hay is the better choice every time.
+Straight brown sugar delivers those same concentrated calories without any of the mineral benefits. If you want to add healthy fats to your goat's diet, [sunflower seeds](/can-goats-eat-sunflower-seeds) are a much better option. If you want to add sweetness to your goat's feed, a tablespoon of unsulfured blackstrap molasses drizzled over hay is the better choice every time.
 
 ## Are there any alternative treats can pygmy goat eat?
 
 Skip the brown sugar and reach for treats that satisfy your goat's sweet tooth while providing actual nutrition. Apple slices, raisins, banana pieces, carrots, and watermelon rind are all solid options.
 
-These natural treats contain fiber, vitamins, and minerals alongside their sugar content. Your pygmy goats will go just as wild for a handful of raisins as they would for brown sugar, and you won't have to worry about rumen problems afterward.
+These natural treats contain fiber, vitamins, and minerals alongside their sugar content. Your pygmy goats will go just as wild for a handful of raisins as they would for brown sugar, and you won't have to worry about rumen problems afterward. Avoid toxic plants like [eucalyptus](/can-pygmy-goats-eat-eucalyptus) and [milkweed](/can-pygmy-goats-eat-milkweed) when choosing browse options for your pygmies.
 
 Pygmy goats have a natural craving for sweet foods because their ancestors sought out ripe fruits for quick energy. Work with that instinct instead of fighting it by offering naturally sweet options rather than refined sugar.
 

@@ -57,7 +57,7 @@ Orange tree leaves provide extra fiber and goats enjoy browsing on them like any
 
 A single orange provides about 70 mg of vitamin C, which supports immune function and helps goats recover from stress faster. The vitamin A content promotes healthy skin and good eyesight.
 
-The fiber in both flesh and peel keeps the rumen working efficiently. The water content gives a hydration boost, especially useful during summer. Oranges also contain folate and thiamine, B vitamins that support energy metabolism.
+The fiber in both flesh and peel keeps the rumen working efficiently, much like [watermelon](/can-goats-eat-watermelon/) does. The water content gives a hydration boost, especially useful during summer. Oranges also contain folate and thiamine, B vitamins that support energy metabolism.
 
 ### The Peel as a Natural Dewormer
 
@@ -71,19 +71,19 @@ Wash the orange thoroughly to remove any wax or chemical residue. Cut it into qu
 
 Leave the peel on for adult goats. For kids, peel the orange since the tough rind is harder for their developing digestive systems to break down.
 
-Don’t be surprised if your goats hesitate the first time you offer one. The strong citrus smell is unfamiliar to most goats, but they usually warm up to it after a taste or two.
+Don’t be surprised if your goats hesitate the first time you offer one. The strong citrus smell is unfamiliar to most goats, but they usually warm up to it after a taste or two. If they refuse, try [strawberries](/can-goats-eat-strawberries/) or peaches instead since those are more universally loved.
 
 ## Can Baby Goats (Kids) Eat Oranges?
 
 Kids can have oranges once they’re eating solid food regularly. Start with one or two small pieces to see how their stomach handles the acidity.
 
-Keep portions smaller than what you’d give an adult since their developing rumen is more sensitive to acidic foods. As they get older and their digestive system matures, you can gradually increase the amount.
+Keep portions smaller than what you’d give an adult since their developing rumen is more sensitive to acidic foods, much like introducing [corn](/can-goats-eat-corn/) or oats to young kids. As they get older and their digestive system matures, you can gradually increase the amount.
 
 ## What Other Fruits Can Goats Eat Apart From Oranges?
 
 Lemons, limes, grapefruit, tangerines, and clementines are all safe in small amounts. The same rules apply: limit quantities because of the sugar and acidity. One or two pieces per goat is plenty for any citrus variety.
 
-Apples, pears, bananas, grapes, and berries are all great treats too. Goats will eat banana peels, and grapes make perfect bite-sized rewards for training.
+[Apples](/can-goats-eat-apples/), pears, bananas, grapes, and berries are all great treats too. Goats will eat banana peels, and grapes make perfect bite-sized rewards for training.
 
 The one fruit to absolutely avoid is avocado, which contains persin that’s toxic to goats and can cause serious respiratory and cardiac problems. Cherry pits and leaves also contain cyanide compounds, so keep those away from your herd.
 
@@ -91,6 +91,6 @@ The one fruit to absolutely avoid is avocado, which contains persin that’s tox
 
 ### What Fruit Can Goats Not Eat?
 
-Avocados are the big one. Every part of the avocado plant, from fruit to bark, contains persin which is toxic to goats.
+[Avocados](/can-goats-eat-avocado/) are the big one. Every part of the avocado plant, from fruit to bark, contains persin which is toxic to goats.
 
 Apple seeds have trace cyanide too, so core your apples before feeding. Stick with proven safe fruits and always introduce new foods one at a time.

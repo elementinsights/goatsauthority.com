@@ -41,7 +41,7 @@ Goats can absolutely be tamed, and most domestic breeds take to people pretty na
 
 Yes, goats can be tamed. Domestic goats have been living alongside humans for roughly 10,000 years, so the tendency to bond with people is already there in their DNA.
 
-There's a big range in how tame individual goats are. A bottle-fed kid raised in your kitchen will follow you around like a dog. A feral goat pulled off a mountainside might take months before it lets you within arm's reach.
+There's a big range in how tame individual goats are. A bottle-fed kid raised in your kitchen will follow you around like a dog. A feral goat pulled off a mountainside might take months before it lets you within arm's reach. Some owners try [house training baby goats](/can-baby-goats-be-house-trained), though it's rarely successful due to their biology.
 
 The good news is that food is the universal motivator for goats. Given enough time and enough treats, almost any goat will come around.
 
@@ -51,7 +51,7 @@ The fastest way to ruin progress with a skittish goat is to chase it, grab it, o
 
 Instead, just sit quietly in their pen for 15 to 20 minutes a day. Bring a bucket of grain or some animal crackers and set them near you. Let the goat come to you on its own terms, even if it takes several days before it gets close enough to eat from your hand.
 
-Once a goat takes food from you, start gently touching its chin and chest while it eats. Avoid reaching over the top of its head at first since that's a dominant gesture that makes nervous goats flinch.
+Once a goat takes food from you, start gently touching its chin and chest while it eats. Avoid reaching over the top of its head at first since that's a dominant gesture that makes nervous goats flinch. A well-tamed goat may even [become friends with your dog](/can-goats-and-dogs-be-friends), creating a bond between the two species.
 
 ## Kids vs. Adult goats
 
@@ -59,7 +59,7 @@ Young kids tame faster than adults, and it's not even close. A kid that's handle
 
 Adult goats that have had limited human contact take more patience. Plan on a few weeks of daily visits before a standoffish adult will eat from your hand. Rescue goats or goats that have been mistreated can take six months or longer.
 
-If you're buying goats and want tame animals, ask the breeder whether the goats were handled regularly as kids. That early socialization makes all the difference.
+If you're buying goats and want tame animals, ask the breeder whether the goats were handled regularly as kids. That early socialization makes all the difference. Tame goats are also easier to manage when they need to [jump over obstacles](/can-domestic-goats-jump) during routine farm activities.
 
 ## Signs your goat is warming up to you
 
@@ -67,7 +67,7 @@ You'll know your goat is making progress when it stops bolting to the far corner
 
 The next step is when the goat approaches you at feeding time without hesitation. Look at the ears: relaxed, forward-facing ears mean the goat feels comfortable. Ears pinned flat against the head mean fear or irritation.
 
-A truly tame goat will bleat when it sees you coming, nuzzle your hands looking for treats, and may even give you a gentle headbutt. That headbutt isn't aggression. It's how goats show affection and establish social bonds within their herd, and it means the goat considers you part of its group.
+A truly tame goat will bleat when it sees you coming, nuzzle your hands looking for treats, and may even give you a gentle headbutt. That headbutt isn't aggression. It's how goats show affection and establish social bonds within their herd, and it means the goat considers you part of its group. This affectionate behavior proves that [goats can love humans](/can-goats-love-humans) in their own way.
 
 ## Common mistakes when taming goats
 
@@ -75,7 +75,7 @@ The biggest mistake is trying to tame a single goat in isolation. Goats are herd
 
 Another mistake is inconsistency. If you visit the pen every day for a week and then skip two weeks, you'll lose most of your progress. Short, daily sessions beat long occasional ones every time.
 
-Avoid using a goat's horns as handles. Grabbing horns is uncomfortable and feels threatening. If you need to restrain a goat, use a collar and lead, and always pair restraint with a food reward so the goat doesn't associate your hands with negative experiences.
+Avoid using a goat's horns as handles. Grabbing horns is uncomfortable and feels threatening. If you need to restrain a goat, use a collar and lead, and always pair restraint with a food reward so the goat doesn't associate your hands with negative experiences. Building trust is also how you successfully [domesticate a goat](/can-you-domesticate-a-goat) from a wilder background.
 
 ## Final Thoughts
 

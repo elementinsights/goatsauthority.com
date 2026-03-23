@@ -43,31 +43,31 @@ If you're milking goats anyway, you might as well put some of that milk to work 
 
 Goat milk contains lactic acid, which is a natural alpha hydroxy acid (AHA). AHAs are the same active ingredient found in many commercial anti-aging products because they promote cell turnover by gently dissolving dead skin cells on the surface.
 
-When dead skin cells are cleared away, the fresher skin underneath looks smoother and more even-toned. Over time, regular use of lactic acid can reduce the appearance of fine lines and give skin a brighter look. It won't reverse deep wrinkles, but the improvement in skin texture is real.
+When dead skin cells are cleared away, the fresher skin underneath looks smoother and more even-toned. Over time, regular use of lactic acid can reduce the appearance of fine lines and give skin a brighter look. It won't reverse deep wrinkles, but the improvement in skin texture is real. Some people worry that [goat milk might cause acne](/can-goat-milk-cause-acne), but topical use actually helps clear skin rather than clog it.
 
 ## What makes goat milk good for skin?
 
 Beyond lactic acid, goat milk is packed with vitamins A and E, both of which support skin health. Vitamin A helps repair damaged skin tissue, while vitamin E acts as an antioxidant that protects against further damage from sun and environmental exposure.
 
-The natural fat content in goat milk is what makes it such an effective moisturizer. Those fatty acids penetrate the skin and help lock in moisture without leaving a greasy residue. Well-hydrated skin naturally looks plumper, which softens the appearance of fine lines.
+The natural fat content in goat milk is what makes it such an effective moisturizer. Those fatty acids penetrate the skin and help lock in moisture without leaving a greasy residue. Well-hydrated skin naturally looks plumper, which softens the appearance of fine lines. The same fat composition is why [baking soda should be used carefully](/can-baking-soda-cause-urinary-issues-in-goats) with goats, as their digestion and body chemistry differ from ours.
 
 ## How to use goat milk on your skin
 
 The simplest approach is goat milk soap, which you can buy or make yourself with milk from your own goats. Use it as your daily face wash and let it sit on your skin for 30 seconds or so before rinsing to give the lactic acid time to work.
 
-For a more concentrated treatment, apply raw goat milk directly to your face as a mask. Leave it on for 10 to 15 minutes, then rinse with warm water. You can also mix goat milk with a teaspoon of honey for extra moisturizing and antibacterial benefits.
+For a more concentrated treatment, apply raw goat milk directly to your face as a mask. Leave it on for 10 to 15 minutes, then rinse with warm water. You can also mix goat milk with a teaspoon of honey for extra moisturizing and antibacterial benefits. Ayurvedic traditions have long recognized [goat milk benefits for children and adults](/can-children-have-goat-milk-ayurveda), including topical skin applications.
 
 ## Are there any side effects?
 
 Goat milk is gentle enough for most skin types, which is one of its biggest advantages over harsher chemical exfoliants. People with sensitive skin often find that goat milk products cause less irritation than commercial retinoids or glycolic acid treatments.
 
-The lactic acid can cause mild redness or tingling in some people, especially on the first few uses. If you have a dairy allergy, you could have a skin reaction, so do a patch test on your wrist before applying it to your face. Stop using it if you notice any persistent redness, itching, or breakouts.
+The lactic acid can cause mild redness or tingling in some people, especially on the first few uses. If you have a dairy allergy, you could have a skin reaction, so do a patch test on your wrist before applying it to your face. Stop using it if you notice any persistent redness, itching, or breakouts. People with dairy sensitivities may find that [goat cheese causes less bloating](/can-goat-cheese-make-you-bloated) than cow dairy even if topical products irritate their skin.
 
 ## Where to find goat milk skincare products
 
 If you don't keep goats yourself, goat milk soap and lotions are widely available at farmers markets, health food stores, and online. A bar of goat milk soap typically runs between $4 and $8, and a bottle of goat milk lotion costs around $10 to $15.
 
-Look for products made with real goat milk rather than goat milk powder, as the fresh version retains more of the beneficial vitamins and enzymes. If you do keep goats, making your own soap is a fun side project, and you'll know exactly what's going into it.
+Look for products made with real goat milk rather than goat milk powder, as the fresh version retains more of the beneficial vitamins and enzymes. If you do keep goats, making your own soap is a fun side project, and you'll know exactly what's going into it. Keeping your dairy goats healthy with proper care, including knowing [whether they can be outside in winter](/can-goats-be-outside-in-winter), ensures the highest quality milk for skincare.
 
 ## Final Thoughts
 

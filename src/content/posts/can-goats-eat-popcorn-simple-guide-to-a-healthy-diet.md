@@ -42,7 +42,7 @@ Popcorn isn’t going to hurt your goat, but it’s about as nutritious for them
 
 ## Can Goats Eat Popcorn?
 
-Plain, air-popped popcorn is safe for goats to eat. It’s just corn that’s been heated until it pops, and corn itself is a common part of goat feed.
+Plain, air-popped popcorn is safe for goats to eat. It’s just [corn](/can-goats-eat-corn/) that’s been heated until it pops, and corn itself is a common part of goat feed.
 
 The key word here is plain. No butter, no salt, no cheese powder, no caramel, nothing but the popped kernel itself. All those toppings we love can cause serious digestive trouble for goats.
 
@@ -60,7 +60,7 @@ If you’re going to share popcorn with your herd, sift out the unpopped kernels
 
 Microwave popcorn bags are loaded with artificial butter flavoring, salt, and chemicals like diacetyl that you don’t want anywhere near your goats. Even the "natural" varieties have way too much sodium and fat.
 
-The coating inside the bag itself contains compounds that aren’t great for any animal. Stick to popping plain kernels on the stovetop or in an air popper if you want to share with your herd.
+The coating inside the bag itself contains compounds that aren’t great for any animal, unlike wholesome treats such as [peanuts](/can-goats-eat-peanuts/) or oats. Stick to popping plain kernels on the stovetop or in an air popper if you want to share with your herd.
 
 If someone at the house makes a bag of movie popcorn, just keep it away from the barn. It’s not worth the risk.
 
@@ -70,11 +70,11 @@ A small handful of plain popped corn per goat is more than enough. Think of it l
 
 Once a week or less is a reasonable frequency. Popcorn should never become a regular part of their diet because it simply doesn’t provide what goats need nutritionally.
 
-Their rumen is built to break down fibrous forage like hay, browse, and pasture grass. Starchy, airy snacks don’t really fit into that system.
+Their rumen is built to break down fibrous forage like [hay](/what-kind-of-hay-do-goats-eat/), browse, and pasture grass. Starchy, airy snacks don’t really fit into that system.
 
 ## Better Treat Options
 
-If you’re looking for treats your goats will love just as much, there are far more nutritious choices. Apple slices, carrot pieces, and sunflower seeds all provide real vitamins and minerals on top of the fun factor.
+If you’re looking for treats your goats will love just as much, there are far more nutritious choices. [Apple slices](/can-goats-eat-apples/), carrot pieces, and sunflower seeds all provide real vitamins and minerals on top of the fun factor.
 
 Fresh herbs like basil or mint are another winner that most goats enjoy. These treats give your goats something to look forward to without filling them up on empty calories.
 
@@ -84,6 +84,6 @@ Save the popcorn for movie night and grab a handful of baby carrots for the barn
 
 If your goat somehow gets into a big bag of popcorn, don’t panic. Popcorn isn’t toxic, so you’re not dealing with a poisoning situation.
 
-Watch for bloating, loose stool, or loss of appetite over the next 12 to 24 hours. A bloated goat with a tight, distended left side needs attention, so offer baking soda mixed in water and call your vet if it doesn’t resolve within an hour.
+Watch for bloating, loose stool, or loss of appetite over the next 12 to 24 hours. Offer [hay cubes](/can-goats-eat-hay-cubes/) to help restore fiber balance. A bloated goat with a tight, distended left side needs attention, so offer baking soda mixed in water and call your vet if it doesn’t resolve within an hour.
 
 Going forward, just keep popcorn stored where curious goats can’t reach it. They’ll eat the whole bag if given the chance, and dealing with the aftermath isn’t worth it.

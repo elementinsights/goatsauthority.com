@@ -50,7 +50,7 @@ For children 12 months and older, reconstituted powdered goat milk is fine as a 
 
 Powdered goat milk is made by spray-drying fresh goat milk until all the water is removed. The resulting powder is shelf-stable for 6 to 12 months and reconstitutes easily with water.
 
-It is a good source of calcium, protein, and potassium. Many people find goat milk easier to digest than cow milk because the fat globules are naturally smaller. Powdered goat milk works well for cooking, baking, and adding to smoothies for toddlers and older children.
+It is a good source of calcium, protein, and potassium. Many people find goat milk easier to digest than cow milk because the fat globules are naturally smaller. You can even [freeze goat milk](/can-goats-milk-be-frozen/) before powdering it to extend its usefulness. Powdered goat milk works well for cooking, baking, and adding to smoothies for toddlers and older children.
 
 ## What are the disadvantages of giving your baby powdered goat's milk?
 
@@ -62,7 +62,7 @@ Goat milk also has a higher concentration of sodium and potassium than infant fo
 
 The most serious risk is nutritional deficiency. Approved infant formulas are fortified with every vitamin and mineral a baby needs, and powdered goat milk simply does not meet those standards.
 
-There is also a contamination risk with powdered goat milk that is not produced under strict food safety standards. Always buy from a reputable brand, and never use raw goat milk powder for an infant or toddler. If your baby has a cow milk allergy, talk to your pediatrician about approved alternatives rather than switching to goat milk on your own.
+There is also a contamination risk with powdered goat milk that is not produced under strict food safety standards. Always buy from a reputable brand, and never use raw goat milk powder for an infant or toddler. Interestingly, [cats can also drink goat milk](/can-a-cat-drink-goats-milk/) as an occasional treat since they tolerate it better than cow milk. If your baby has a cow milk allergy, talk to your pediatrician about approved alternatives rather than switching to goat milk on your own.
 
 ## Can babies be allergic to goat's milk?
 
@@ -80,7 +80,7 @@ Use clean, cool water and whisk until the powder is fully dissolved. Prepared go
 
 ### Is goat's milk healthier than cow's milk?
 
-Neither one is strictly healthier than the other. Goat milk has slightly more calcium and potassium, while cow milk typically has more B12 and folic acid. The "easier to digest" claim has some truth to it because of the smaller fat globules in goat milk.
+Neither one is strictly healthier than the other. Goat milk has slightly more calcium and potassium, while cow milk typically has more B12 and folic acid. The "easier to digest" claim has some truth to it because of the smaller fat globules in goat milk. If you produce your own, you can even [sell goat milk butter](/can-i-sell-goat-milk-butter/) as a value-added product.
 
 ### How is powdered goat milk made?
 
@@ -88,10 +88,10 @@ Fresh goat milk is pasteurized and then spray-dried at high temperatures to remo
 
 ### How to preserve goat's milk?
 
-Fresh goat milk lasts about 3 to 5 days in the refrigerator and can be frozen for up to 3 months. Powdered goat milk is shelf-stable for 6 to 12 months in a cool, dry place. Once reconstituted, treat it like fresh milk and use it within 24 hours.
+Fresh goat milk lasts about 3 to 5 days in the refrigerator and [can be frozen](/can-goats-milk-be-frozen/) for up to 3 months. Powdered goat milk is shelf-stable for 6 to 12 months in a cool, dry place. You can also [freeze goat cheese](/can-you-freeze-goat-cheese/) made from the milk for longer storage. Once reconstituted, treat it like fresh milk and use it within 24 hours.
 
 ## Final Thoughts
 
 Powdered goat milk is not safe as a primary food for babies under 12 months because it lacks folic acid, vitamin B12, and iron. For infants, always use an approved infant formula or breast milk.
 
-For toddlers and older children, powdered goat milk is a perfectly fine option for drinking, cooking, and baking. Just make sure to buy a quality brand and follow the preparation instructions on the package.
+For toddlers and older children, powdered goat milk is a perfectly fine option for drinking, cooking, and baking. Some goat owners even use their [dairy goats as pack animals](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) during the dry season, getting double duty from the same animal. Just make sure to buy a quality brand and follow the preparation instructions on the package.

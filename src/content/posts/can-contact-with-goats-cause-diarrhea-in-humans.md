@@ -43,19 +43,19 @@ It's not something to panic about, but it is something every goat owner and pett
 
 Goats can carry Cryptosporidium, E. Coli, Campylobacter, and Salmonella, all of which are shed in their feces. A goat can look perfectly healthy and still be shedding these organisms.
 
-You pick them up by touching a goat, a fence, a water bucket, or anything else that has come in contact with goat manure. Then you eat a snack, rub your eye, or touch your mouth without washing your hands first. That's all it takes.
+You pick them up by touching a goat, a fence, a water bucket, or anything else that has come in contact with goat manure. Then you eat a snack, rub your eye, or touch your mouth without washing your hands first. That's all it takes. Some of these same pathogens can [spread between swine and goats](/can-any-diseases-spread-from-swine-to-goats) on mixed-species farms.
 
 ## Who is most at risk?
 
 Not everyone faces the same level of danger. Young children under five, elderly adults, pregnant women, and anyone with a weakened immune system are the most vulnerable groups.
 
-Petting zoos are one of the most common exposure points because kids pet the animals and then put their fingers in their mouths before anyone can stop them. People on immunosuppressive medications or undergoing chemotherapy should avoid direct contact with goat feces entirely, as these infections can lead to severe complications in high-risk individuals.
+Petting zoos are one of the most common exposure points because kids pet the animals and then put their fingers in their mouths before anyone can stop them. People on immunosuppressive medications or undergoing chemotherapy should avoid direct contact with goat feces entirely, as these infections can lead to severe complications in high-risk individuals. One common concern is whether [goat lice can live on humans](/can-goat-lice-live-on-humans), but thankfully those parasites are species-specific.
 
 ## Symptoms to watch for
 
 Most cases show up within two to five days after exposure. You'll typically get watery diarrhea, stomach cramps, nausea, and sometimes a low-grade fever.
 
-The first couple of days are usually the worst, with frequent trips to the bathroom and cramping that can be pretty uncomfortable. Most healthy adults recover on their own within five to seven days without needing antibiotics.
+The first couple of days are usually the worst, with frequent trips to the bathroom and cramping that can be pretty uncomfortable. Most healthy adults recover on their own within five to seven days without needing antibiotics. Goats themselves can suffer from similar digestive issues, and knowing [whether goats can have a stroke from anemia](/can-goats-have-a-stroke-anemia) helps you monitor their health alongside your own.
 
 During recovery, stick to bland foods like toast, rice, and bananas, and stay well hydrated. If you notice blood in your stool or symptoms stretch past ten days, get to a doctor right away.
 
@@ -63,13 +63,13 @@ During recovery, stick to bland foods like toast, rice, and bananas, and stay we
 
 The single most important thing you can do is wash your hands with soap and warm water for at least 20 seconds after handling goats. Hand sanitizer alone won't cut it because it doesn't kill Cryptosporidium.
 
-Don't eat, drink, or smoke while you're around goats or in their pens. If you have young children, wash their hands for them after any contact with animals. Keep your goats on a regular deworming schedule, and always pasteurize any milk before drinking it, as raw goat milk can also transmit these pathogens.
+Don't eat, drink, or smoke while you're around goats or in their pens. If you have young children, wash their hands for them after any contact with animals. Keep your goats on a regular deworming schedule, and always pasteurize any milk before drinking it, as raw goat milk can also transmit these pathogens. Farm dogs sharing space with goats face similar risks, as [dogs can get tapeworms from goats](/can-dogs-get-tapeworms-from-goats) through contaminated material.
 
 ## Other diseases you can catch from goats
 
 Diarrheal illness isn't the only zoonotic risk with goats. Q fever, caused by the bacterium Coxiella burnetii, can spread through contact with birthing fluids and cause fever, chills, and headaches in humans.
 
-Brucellosis is another bacterial infection that causes flu-like symptoms and can become chronic if untreated. Both of these are more serious than a bout of diarrhea and require antibiotic treatment. If you're regularly handling goats during kidding season, wearing gloves and a mask around birthing does is a smart precaution.
+Brucellosis is another bacterial infection that causes flu-like symptoms and can become chronic if untreated. Both of these are more serious than a bout of diarrhea and require antibiotic treatment. If you're regularly handling goats during kidding season, wearing gloves and a mask around birthing does is a smart precaution. It's also worth knowing that [goats cannot carry canine distemper](/can-goats-carry-distemper), so that's one disease you don't need to worry about catching.
 
 ## Final Thoughts
 

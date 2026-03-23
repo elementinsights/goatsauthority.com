@@ -56,7 +56,7 @@ Fenbendazole (SafeGuard) has a wide safety margin, and goats can tolerate severa
 
 Dewormer pellets are medicated feed designed to kill internal parasites like barber pole worm and brown stomach worm. The pellets contain a measured amount of active ingredient mixed into a palatable feed base.
 
-They work by either paralyzing the worms so they pass out of the gut or by disrupting the worm's ability to absorb nutrients. Different active ingredients target different parasites, which is why knowing what your goat is carrying matters.
+They work by either paralyzing the worms so they pass out of the gut or by disrupting the worm's ability to absorb nutrients. Different active ingredients target different parasites, which is why knowing what your goat is carrying matters. Some owners also consider whether [ivermectin pour-on products](/can-i-use-ivermectin-pour-on-in-sheep-and-goats/) are a better fit for their herd.
 
 ## How many dewormer pellets should a goat eat per day, week, or month?
 
@@ -68,11 +68,11 @@ Most goat owners now deworm only when fecal egg counts show a problem, not on a 
 
 Immediate overdose risks include digestive upset, diarrhea, and loss of appetite. With ivermectin products, neurological symptoms like stumbling, head pressing, and blindness can show up within hours.
 
-Long-term overuse, even at the correct dose, builds drug-resistant parasites on your farm. Once resistance develops, that dewormer becomes useless for your entire herd.
+Long-term overuse, even at the correct dose, builds drug-resistant parasites on your farm. Once resistance develops, that dewormer becomes useless for your entire herd. You might also wonder whether [cattle dewormer blocks are safe for goats](/can-goats-have-cattle-dewormer-blocks/), and the answer requires careful attention to dosing differences.
 
 ## What are the benefits of feeding a goat the right amount of dewormer pellets?
 
-Used correctly, dewormer pellets keep parasite loads in check so your goats maintain good body condition and strong immune function. A goat carrying a heavy worm burden will lose weight, develop anemia, and become vulnerable to secondary infections.
+Used correctly, dewormer pellets keep parasite loads in check so your goats maintain good body condition and strong immune function. A goat carrying a heavy worm burden will lose weight, develop [anemia that mimics stroke symptoms](/can-goats-have-a-stroke-anemia/), and become vulnerable to secondary infections.
 
 The FAMACHA scoring system pairs well with targeted deworming. Checking the color of your goat's lower eyelid lets you estimate barber pole worm severity and only treat the animals that actually need it.
 
@@ -84,9 +84,9 @@ Check expiration dates before each use. Expired dewormers lose potency, which me
 
 ## Are there any alternative methods of deworming goats?
 
-Pasture rotation is the best long-term defense. Keeping stocking rates reasonable, not grazing fields too short, and running cattle or horses on the same ground all reduce the worm larvae your goats pick up.
+Pasture rotation is the best long-term defense. Keeping stocking rates reasonable, not grazing fields too short, and running cattle or horses on the same ground all reduce the worm larvae your goats pick up. Be aware that [goats can also get worms from acorns](/can-goats-get-worms-from-acorns/) in pastures with oak trees.
 
-Some owners try herbal dewormers or diatomaceous earth, but the evidence for those is limited. Fecal egg counts are the only reliable way to know if any deworming method is actually working.
+Some owners try herbal dewormers or diatomaceous earth, but the evidence for those is limited. If a goat is dealing with digestive upset from worms, [Pepto Bismol may help settle the stomach](/can-i-give-my-goat-pepto-bismol/) while you wait for the dewormer to work. Fecal egg counts are the only reliable way to know if any deworming method is actually working.
 
 ## Final Thoughts
 

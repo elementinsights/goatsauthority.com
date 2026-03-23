@@ -48,25 +48,25 @@ This doesn't mean the doe is done kidding. If she still has a tight belly and sh
 
 A healthy afterbirth is dark reddish-brown with a slightly slimy texture. You should be able to see the cotyledons, which look like small round buttons attached to the membrane. Each kid typically has its own set of cotyledons, so comparing the count to the number of kids born helps you figure out if any placental tissue was retained.
 
-The full placenta should pass within 12 hours of the last kid being born. Some does eat the afterbirth, which is normal mammalian behavior. Whether you let them or clean it up is your call, but either way, account for it so you know it passed. If the afterbirth looks green, black, or smells unusually foul, contact your vet because that can signal infection or a dead kid still inside.
+The full placenta should pass within 12 hours of the last kid being born. Some does eat the afterbirth, which is normal mammalian behavior. Whether you let them or clean it up is your call, but either way, account for it so you know it passed. If the afterbirth looks green, black, or smells unusually foul, contact your vet because that can signal infection or a dead kid still inside. A [CDT booster given before kidding](/can-a-cdt-shot-kill-a-goat/) helps protect both the doe and newborns during this vulnerable time.
 
 ## When Retained Afterbirth Becomes a Problem
 
 Retained afterbirth happens when the placenta or parts of it don't come out within 12 to 24 hours after the last kid. This is one of the more common postpartum complications in goats and can turn serious fast.
 
-A doe with a retained placenta may develop metritis, which is an infection of the uterus. Signs include fever, foul-smelling discharge, loss of appetite, and lethargy. Don't pull on a hanging placenta because tearing it leaves pieces inside that rot and cause worse infection. Your vet may prescribe antibiotics and oxytocin to help the doe expel the remaining tissue on her own.
+A doe with a retained placenta may develop metritis, which is an infection of the uterus. Signs include fever, foul-smelling discharge, loss of appetite, and lethargy. Don't pull on a hanging placenta because tearing it leaves pieces inside that rot and cause worse infection. Your vet may prescribe antibiotics and oxytocin to help the doe expel the remaining tissue on her own. If the doe is still nursing, make sure kids are getting [adequate electrolytes](/can-baby-goats-have-any-electrolytes/) during any period the doe is off feed.
 
 ## How to Prevent Retained Afterbirth
 
-Good nutrition during pregnancy goes a long way toward preventing this problem. Does that are well-fed with proper mineral supplementation, especially selenium and vitamin E, have fewer afterbirth complications. A quality loose mineral mix designed for goats should be available free-choice throughout pregnancy.
+Good nutrition during pregnancy goes a long way toward preventing this problem. Does that are well-fed with proper mineral supplementation, especially selenium and vitamin E, have fewer afterbirth complications. You should also make sure you [deworm pregnant does](/can-you-deworm-a-pregnant-goat/) appropriately so parasites don't drain her reserves. A quality loose mineral mix designed for goats should be available free-choice throughout pregnancy.
 
 Keep the kidding area clean and dry so the doe isn't fighting off bacteria during her most vulnerable time. Fresh straw or shavings in the kidding stall make a big difference. Reducing stress during labor also helps because a calm doe contracts more effectively and expels everything more completely.
 
 ## Caring for Kids Right After Birth
 
-Clear the mucus from each kid's nose and mouth as soon as it's born. Make sure the kid is breathing well and place it near the doe's head so she can start cleaning it and bonding. Dip the navel cord in a 7% iodine solution to prevent bacteria from entering through the umbilical stump.
+Clear the mucus from each kid's nose and mouth as soon as it's born. Make sure the kid is breathing well and place it near the doe's head so she can start cleaning it and bonding. Dip the navel cord in a 7% iodine solution to prevent bacteria from entering through the umbilical stump. Young kids are especially vulnerable to [diseases that can spread to humans](/can-a-toddler-catch-a-disease-from-a-baby-goat/), so practice good hygiene during the birthing process.
 
-Colostrum intake within the first hour is critical. That first milk is packed with antibodies the kid can't get any other way. If the doe rejects a kid or can't nurse, have frozen colostrum or a colostrum replacer on hand as backup. Keep a few bottles and nipples in your kidding kit because you never know when you'll need to step in.
+Colostrum intake within the first hour is critical. That first milk is packed with antibodies the kid can't get any other way. A [pygmy doe nursing triplets](/can-a-pygmy-goat-take-care-of-triplets/) will need even more attention to make sure every kid gets enough. If the doe rejects a kid or can't nurse, have frozen colostrum or a colostrum replacer on hand as backup. Keep a few bottles and nipples in your kidding kit because you never know when you'll need to step in.
 
 ## Final Thoughts
 

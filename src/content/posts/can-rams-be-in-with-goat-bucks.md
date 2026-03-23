@@ -44,7 +44,7 @@ If you're short on space and thinking about housing them together, read this fir
 
 Rams are more aggressive than goat bucks, plain and simple. A ram's natural instinct is to settle disputes by slamming its head into whatever is in front of it, and it does this with tremendous force.
 
-Goat bucks butt heads too, but they're lighter and less committed to the fight. A ram will keep driving forward long after a goat buck has tried to back off. The ram doesn't recognize the goat's submission signals because they're different species with different body language.
+Goat bucks butt heads too, but they're lighter and less committed to the fight. Understanding [whether people can ride goats](/can-people-ride-goats) highlights just how different their skeletal structure is from larger animals. A ram will keep driving forward long after a goat buck has tried to back off. The ram doesn't recognize the goat's submission signals because they're different species with different body language.
 
 This mismatch in fighting style and intensity is what leads to serious injuries. The goat buck ends up taking hits it was never built to absorb.
 
@@ -54,7 +54,7 @@ This is the part most people don't realize. Rams have a thick, bony plate at the
 
 Goat skulls are lighter and more narrow. They don't have the same dense bone structure in the frontal area. When a ram hits a goat buck with a full head-on charge, the goat's skull can fracture.
 
-Internal injuries are the real danger. A goat buck can take a hit from a ram and look fine on the outside, then stop eating a day later because of internal bruising or cracked ribs. By the time you notice something is wrong, the damage may already be severe.
+Internal injuries are the real danger. A goat buck can take a hit from a ram and look fine on the outside, then stop eating a day later because of internal bruising or cracked ribs. [Raccoons also pose a different type of threat](/can-raccoons-kill-goat) to goats, particularly vulnerable kids. By the time you notice something is wrong, the damage may already be severe.
 
 ## What happens during breeding season
 
@@ -62,13 +62,13 @@ If you think things are manageable outside of rut, breeding season changes every
 
 Bucks in rut are aggressive too, but a rutting ram is on another level. A 250-pound ram running at full speed can generate enough force to kill a goat buck with a single hit to the side.
 
-Even outside of breeding season, hormonal surges can trigger sparring sessions that escalate quickly. The safest approach is to keep rams and bucks separated year-round.
+Even outside of breeding season, hormonal surges can trigger sparring sessions that escalate quickly. A protective [fox-proof enclosure](/can-a-fox-kill-a-goat) doubles as good separation between combative males. The safest approach is to keep rams and bucks separated year-round.
 
 ## If you must keep them together
 
 Some small farms genuinely don't have the fencing or space for separate pens. If you absolutely must house a ram with goat bucks, take precautions.
 
-Introduce them outside of breeding season in a neutral space where neither animal has established territory. Give them as much room as possible so the goat buck can retreat from confrontations. Have a large piece of plywood or a feed panel nearby to step between them if things escalate.
+Introduce them outside of breeding season in a neutral space where neither animal has established territory. Tethering either animal is not a safe alternative, and [there are good reasons to avoid tethering goats](/can-goats-be-tethered). Give them as much room as possible so the goat buck can retreat from confrontations. Have a large piece of plywood or a feed panel nearby to step between them if things escalate.
 
 Watch them closely for the first several days. Check both animals daily for cuts, limping, or swelling around the head and rib area. Separate them immediately during rut, no exceptions.
 
@@ -76,7 +76,7 @@ Watch them closely for the first several days. Check both animals daily for cuts
 
 Beyond the fighting issue, rams and goat bucks have different mineral needs that can cause real problems. Sheep are extremely sensitive to copper, and most goat minerals contain copper levels that are toxic to rams.
 
-Set up separate feeding stations at least 10 feet apart. If possible, use headlocking stanchions so each animal eats only its own ration.
+Set up separate feeding stations at least 10 feet apart. If possible, use headlocking stanchions so each animal eats only its own ration. The copper issue is also covered in our guide on [whether sheep can eat goat food](/can-sheep-eat-goat-food).
 
 If separate stations aren't practical, use a sheep-safe mineral for the shared group and supplement your goat bucks individually with copper boluses under your vet's guidance. Getting the copper balance wrong can be fatal for the ram.
 

@@ -48,13 +48,13 @@ Some leftovers make great treats while others can put your goats in serious trou
 
 You can feed your goats certain leftovers, but you need to check every item individually. Goats have sensitive rumens, and the wrong food can cause anything from mild digestive upset to a genuine emergency.
 
-The biggest rule is simple: if you wouldn't compost it, don't feed it to your goats. Anything moldy, spoiled, or heavily processed should go straight in the trash.
+The biggest rule is simple: if you wouldn't compost it, don't feed it to your goats. [Moldy pumpkins](/can-i-give-a-moldy-pumpkin-to-goats) and other spoiled produce should go straight in the trash, not the feed trough.
 
 ## What are some things I need to consider before feeding my goat leftovers?
 
 First, ask yourself whether the food is plain and unprocessed. Seasoned leftovers are a problem because many common seasonings contain garlic and onion powder, both of which are toxic to goats.
 
-Second, consider portion size. Leftovers should be a small supplement to your goats' regular diet of hay and minerals, never a replacement.
+Second, consider portion size. Leftovers should be a small supplement to your goats' regular diet of [hay](/what-kind-of-hay-do-goats-eat) and minerals, never a replacement.
 
 Third, introduce new foods slowly. A goat's rumen needs time to adjust, and dumping a big pile of unfamiliar scraps can cause bloat or scours.
 
@@ -62,7 +62,7 @@ Third, introduce new foods slowly. A goat's rumen needs time to adjust, and dump
 
 Safe leftovers include plain vegetable scraps like carrot peels, squash ends, lettuce, and celery. Fruit scraps such as apple cores, pear slices, watermelon rinds, and banana peels are also fine in moderation.
 
-Plain cooked rice, oats, and stale bread are acceptable in small amounts. Leftover hay or garden trimmings from non-toxic plants work well too.
+Plain cooked rice, [oats](/can-goats-eat-oats), and stale bread are acceptable in small amounts. Leftover hay or garden trimmings from non-toxic plants work well too.
 
 Foods you should never feed your goats include onions, garlic, chocolate, avocado, and anything containing caffeine. Meat, dairy products, and heavily seasoned or fried foods are also off limits.
 
@@ -70,7 +70,7 @@ Foods you should never feed your goats include onions, garlic, chocolate, avocad
 
 Sharing safe kitchen scraps with your goats is a good way to cut down on food waste. Instead of tossing those carrot tops and apple cores in the compost, you're putting them to use.
 
-It also gives you extra bonding time with your herd. Goats learn to associate you with good things, and hand-feeding scraps builds trust fast.
+It also gives you extra bonding time with your herd. Goats learn to associate you with good things, and hand-feeding scraps builds trust fast. [Sunflower seeds](/can-goats-eat-sunflower-seeds) are another affordable treat that goats go wild for.
 
 You'll save a little on feed costs too, though leftovers should never make up more than about 10% of their overall diet.
 
@@ -80,7 +80,7 @@ The biggest risk is accidentally feeding something toxic. Onions and garlic can 
 
 Moldy food is another serious concern. Mold produces mycotoxins that can cause liver damage, miscarriage in pregnant does, and even death in severe cases.
 
-Overfeeding scraps high in sugar or starch can throw off the rumen's pH balance and lead to acidosis. Stick to small amounts and keep the diet anchored in quality hay.
+Overfeeding scraps high in sugar or starch can throw off the rumen's pH balance and lead to acidosis. Stick to small amounts and keep the diet anchored in quality [timothy or alfalfa hay](/can-goats-eat-timothy-hay).
 
 ## How to feed your goat leftovers safely?
 

@@ -54,21 +54,21 @@ Pepper seeds are completely harmless to goats. They're small, soft, and pass thr
 
 The stem on top of the pepper should be removed before feeding. It's tough, woody, and not particularly pleasant for goats to eat.
 
-Chop your peppers into chunks and toss them in the feed trough. Raw is best since canned peppers are loaded with sodium and preservatives that goats don't need.
+Chop your peppers into chunks and toss them in the feed trough alongside [carrots](/can-goats-eat-carrots/) or celery for a vegetable mix. Raw is best since canned peppers are loaded with sodium and preservatives that goats don't need.
 
 ## Be Careful With the Pepper Plant
 
 Here's where things get a little more complicated. Peppers belong to the nightshade family, and the leaves, stems, and green parts of the plant contain solanine.
 
-Solanine can cause digestive upset in goats if they eat large amounts. A few nibbles probably won't cause issues, but you shouldn't let your goats graze freely on pepper plants.
+Solanine can cause digestive upset in goats if they eat large amounts, the same compound that makes [potato](/can-goats-eat-potatoes/) and tomato plants risky. A few nibbles probably won't cause issues, but you shouldn't let your goats graze freely on pepper plants.
 
-If you grow peppers in your garden, fence them off from the herd. Goats will eat the entire plant down to the roots if given access, and that much nightshade plant material isn't good for them.
+If you grow peppers in your garden, fence them off from the herd just as you would with [onions](/can-goats-eat-onions/). Goats will eat the entire plant down to the roots if given access, and that much nightshade plant material isn't good for them.
 
 ## The Vitamin C Benefit
 
 The biggest nutritional perk of feeding peppers to goats is the vitamin C content. A single red bell pepper contains more vitamin C than an orange, and goats can use that extra support during stressful times.
 
-Weaning, transport, herd changes, and extreme weather all take a toll on the immune system. Offering peppers during these periods gives your goats an extra line of defense.
+Weaning, transport, herd changes, and extreme weather all take a toll on the immune system. Offering peppers alongside [oranges](/can-goats-eat-oranges/) during these periods gives your goats an extra line of defense.
 
 Vitamin C also supports collagen production, which keeps joints, skin, and connective tissue healthy. Older goats and pregnant does benefit the most from this.
 
@@ -78,7 +78,7 @@ Chop bell peppers into bite-sized chunks before offering them. This makes it eas
 
 You can feed peppers raw or mix them into grain. One to two bell peppers per day split among your herd is a good guideline.
 
-Always wash peppers before feeding, especially store-bought ones that may carry pesticide residue. And remember that peppers are a treat, not a replacement for hay, browse, and proper minerals.
+Always wash peppers before feeding, especially store-bought ones that may carry pesticide residue. And remember that peppers are a treat, not a replacement for [hay](/what-kind-of-hay-do-goats-eat/), browse, and proper minerals.
 
 If you grow your own peppers, you can harvest extras specifically for your herd. A couple of chopped bell peppers split among four or five goats is the perfect portion size.
 

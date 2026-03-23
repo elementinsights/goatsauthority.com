@@ -42,31 +42,31 @@ If you raise goats and have dogs on the property, you've probably wondered wheth
 
 Dogs can absolutely eat goat meat. It's lean, high in protein, and easy for most dogs to digest. Vets actually recommend it as a "novel protein" for dogs on elimination diets trying to pinpoint food allergies.
 
-The one rule is to keep it plain. No seasoning, no garlic, no onion — just straight meat. If you're feeding bones, they need to be raw. Cooked goat bones splinter and can puncture a dog's digestive tract.
+The one rule is to keep it plain. No seasoning, no garlic, no onion — just straight meat. If you're feeding bones, they need to be raw. Cooked goat bones splinter and can puncture a dog's digestive tract. [Dogs can also drink goat milk daily](/can-dogs-drink-goat-milk-everyday) alongside meat for a well-rounded diet.
 
 ## What is goat meat and where does it come from?
 
 Goat meat comes from the domestic goat (Capra aegagrus hircus) and is the most widely consumed red meat in the world. In the U.S. It's sometimes labeled as "chevon" for adult goat meat or "cabrito" for young kid meat.
 
-It's leaner than beef, pork, and even chicken, with less fat and cholesterol per serving. The flavor is similar to lamb but milder, and young goat meat is tender enough to roast or grill while older goat is better stewed low and slow.
+It's leaner than beef, pork, and even chicken, with less fat and cholesterol per serving. The flavor is similar to lamb but milder, and young goat meat is tender enough to roast or grill while older goat is better stewed low and slow. Goats and horses can share pasture space too, and knowing [whether goats and horses can graze together](/can-goats-and-horses-pasture-together) helps manage a multi-species property.
 
 ## The benefits of feeding dog goat meat
 
 Goat meat is a strong protein source that's packed with iron, vitamin B12, and selenium. It also has a solid dose of omega-3 fatty acids, which are good for a dog's skin and coat.
 
-The biggest advantage is digestibility. Dogs with sensitive stomachs or food allergies to common proteins like chicken and beef often do well on goat. Because most commercial dog foods don't use goat, the dog's immune system hasn't built up a reaction to it, which is why vets reach for it during elimination diets.
+The biggest advantage is digestibility. Dogs with sensitive stomachs or food allergies to common proteins like chicken and beef often do well on goat. Because most commercial dog foods don't use goat, the dog's immune system hasn't built up a reaction to it, which is why vets reach for it during elimination diets. For a dairy-based supplement, [goat yogurt is another excellent option](/can-dogs-have-goat-yogurt) that supports gut health.
 
 ## The risks of feeding dog goat meat
 
 Raw goat meat carries the same food safety risks as any raw protein — bacteria like Salmonella or E. Coli can be present. If you feed raw, source your meat from a clean, trusted butcher and handle it with the same care you'd use for your own food.
 
-Avoid seasoned or marinated goat meat from the kitchen. Garlic, onion, and heavy spices are toxic or irritating to dogs. Cooked bones are the other big hazard — they become brittle and can splinter into sharp fragments that tear up the mouth, throat, or intestines.
+Avoid seasoned or marinated goat meat from the kitchen. Garlic, onion, and heavy spices are toxic or irritating to dogs. Cooked bones are the other big hazard — they become brittle and can splinter into sharp fragments that tear up the mouth, throat, or intestines. If you raise goats, understanding [whether goats can digest cotton](/can-goats-digest-cotton) and other materials helps you keep potentially dangerous items away from both your goats and dogs.
 
 ## How to introduce goat meat to your dog's diet?
 
 Start small. Mix a tablespoon or two of plain cooked goat meat into your dog's regular food and watch for any reaction over the next 48 hours. If there's no vomiting, diarrhea, or itching, gradually increase the amount over a week or two.
 
-If you're raw feeding, the same slow introduction applies. Start with a small portion of raw goat alongside their regular meals and build up. Raw goat is actually easier to digest for most dogs than cooked, since the cooking process can alter some of the protein structures.
+If you're raw feeding, the same slow introduction applies. Start with a small portion of raw goat alongside their regular meals and build up. Raw goat is actually easier to digest for most dogs than cooked, since the cooking process can alter some of the protein structures. Puppies too young for solid food can benefit from [goat formula](/can-dogs-have-goat-formula) until they're ready for meat.
 
 ## Final Thoughts
 

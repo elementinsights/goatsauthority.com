@@ -41,7 +41,7 @@ Losing a goat to Johne's disease is tough, and figuring out what to do with the 
 
 ## Can you bury a goat with Johne's disease?
 
-You can bury a goat with Johne's disease, but you need to do it right. The bacteria that causes Johne's, Mycobacterium avium paratuberculosis, can survive in soil for over a year.
+You can bury a goat with Johne's disease, but you need to do it right. The bacteria that causes Johne's, Mycobacterium avium paratuberculosis, can survive in soil for over a year. This is one of the more dangerous diseases goats face, though they're also vulnerable to conditions like [Lyme disease](/can-goats-die-from-lymes) carried by ticks.
 
 Dig at least four feet deep and choose a spot well away from any water sources, wells, or drainage areas. Spread agricultural lime generously over the carcass before filling the hole back in, as this helps speed up decomposition and reduce bacterial survival.
 
@@ -49,17 +49,17 @@ Dig at least four feet deep and choose a spot well away from any water sources, 
 
 Johne's disease is caused by a tough little bacterium called MAP that attacks the intestinal lining. Infected goats shed the bacteria in their manure, and other goats pick it up by eating contaminated feed or drinking contaminated water.
 
-Kids are most vulnerable to infection in the first few months of life. An infected doe can pass MAP to her kids through her milk or even before birth, which is why Johne's is so hard to eliminate from a herd once it's established.
+Kids are most vulnerable to infection in the first few months of life. An infected doe can pass MAP to her kids through her milk or even before birth, which is why Johne's is so hard to eliminate from a herd once it's established. Understanding [how goat stomachs work](/how-many-stomachs-do-goats-have) helps explain why gut diseases like Johne's are so devastating to their digestive system.
 
 ## How to prevent Johne's disease in goats?
 
-The best prevention is keeping it out of your herd in the first place. Test any new animals before bringing them onto your property, and quarantine them for at least 30 days regardless of test results.
+The best prevention is keeping it out of your herd in the first place. Test any new animals before bringing them onto your property, and quarantine them for at least 30 days regardless of test results. A [CDT vaccination](/can-a-cdt-shot-kill-a-goat) won't prevent Johne's, but keeping your herd current on standard vaccines reduces overall disease pressure.
 
-Keep kidding areas clean, pull kids from infected does at birth, and feed pasteurized milk or milk replacer. Johne's spreads primarily through the fecal-oral route, so keeping manure out of feed and water goes a long way.
+Keep kidding areas clean, pull kids from infected does at birth, and feed pasteurized milk or milk replacer. You can even [deworm pregnant does safely](/can-you-deworm-a-pregnant-goat) to reduce the overall parasite burden in your kidding pen. Johne's spreads primarily through the fecal-oral route, so keeping manure out of feed and water goes a long way.
 
 ## Treatment for Johne's disease in goats
 
-There is no cure for Johne's disease. Once a goat is clinically sick with weight loss and chronic diarrhea, the disease has progressed too far for any treatment to reverse it.
+There is no cure for Johne's disease. Once a goat is clinically sick with weight loss and chronic diarrhea, the disease has progressed too far for any treatment to reverse it. While [Pepto-Bismol can help with mild stomach upset](/can-i-give-my-goat-pepto-bismol), it won't address the underlying bacterial infection in Johne's cases.
 
 Some vets will try long-term antibiotic therapy to slow the disease down, but it doesn't eliminate the bacteria. Most clinically affected goats are euthanized to prevent further spread to the rest of the herd.
 
@@ -67,7 +67,7 @@ Some vets will try long-term antibiotic therapy to slow the disease down, but it
 
 The most common test is a fecal culture, where a manure sample is incubated to see if MAP bacteria grow. This test is accurate but slow, often taking 8 to 16 weeks for results.
 
-Blood tests like the ELISA are faster but less reliable, especially in early-stage infections. Your vet may recommend using both tests together for the most complete picture of your herd's status.
+Blood tests like the ELISA are faster but less reliable, especially in early-stage infections. Your vet may recommend using both tests together for the most complete picture of your herd's status. Some conditions like [hoof rot can also be fatal](/can-hoof-rot-kill-a-goat) if left unchecked, so routine health monitoring across the board is essential.
 
 ## Final Thoughts
 

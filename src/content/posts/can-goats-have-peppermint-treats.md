@@ -49,13 +49,13 @@ The key word here is moderation. Peppermint itself is not harmful to goats, but 
 
 Yes, goats can have peppermint treats as an occasional snack. A few peppermint candies or candy canes here and there will not hurt a healthy goat.
 
-Fresh peppermint leaves from the plant are even better since they have the flavor goats enjoy without the added sugar. Either way, keep it to small amounts and you will have no issues.
+Fresh peppermint leaves from the plant are even better since they have the flavor goats enjoy without the added sugar, similar to how fresh [dandelions](/posts/can-goats-eat-dandelions) from the yard make a healthier option than processed treats. Either way, keep it to small amounts and you will have no issues.
 
 ## What are the benefits of giving goats peppermint treats?
 
 Peppermint has mild digestive benefits that many goat owners swear by. The menthol can help soothe an upset stomach, and some farmers offer peppermint tea to goats that seem gassy or uncomfortable after eating.
 
-Many goat owners also believe that the strong scent of peppermint helps repel flies and other insects. Whether you are using it for digestive support or just as a fun treat, peppermint is a safe choice in reasonable quantities.
+Many goat owners also believe that the strong scent of peppermint helps repel flies and other insects, which can help reduce the risk of [mite infestations](/posts/can-goats-get-mites). Whether you are using it for digestive support or just as a fun treat, peppermint is a safe choice in reasonable quantities.
 
 ## How do you give goats peppermint treats?
 
@@ -67,7 +67,7 @@ For a healthier option, plant some peppermint near your barn and offer fresh lea
 
 The peppermint itself is not the problem. The sugar in candy is what you need to limit, since too much sugar can disrupt the microbial balance in a goat's rumen and lead to digestive upset.
 
-Excessive sugar over time also contributes to obesity, which causes joint problems and complications during kidding. Stick to one or two candies at a time and you will stay well within safe limits.
+Excessive sugar over time also contributes to obesity, which causes joint problems and complications during kidding. Healthier treat alternatives include [blueberries](/posts/can-goats-eat-blueberries) and [strawberries](/posts/can-goats-eat-strawberries). Stick to one or two candies at a time and you will stay well within safe limits.
 
 ## How to prevent health problems associated with giving goats peppermint treats?
 
@@ -85,11 +85,11 @@ The two you should avoid are pennyroyal and wintergreen. Pennyroyal can be toxic
 
 A small handful of fresh mint leaves or one to two candies per goat per day is plenty. For a small herd of three or four goats, a few sprigs of mint from the garden is more than enough.
 
-Mint treats should make up a tiny fraction of the overall diet. Hay, pasture, grain, and minerals are doing the real nutritional work, and treats like peppermint are just for enrichment and bonding.
+Mint treats should make up a tiny fraction of the overall diet. [Hay](/posts/what-kind-of-hay-do-goats-eat), pasture, grain, and minerals are doing the real nutritional work, and treats like peppermint are just for enrichment and [bonding with your goats](/posts/can-goats-love-humans).
 
 ## When is the best time to give goats peppermint treats?
 
-Morning and evening work best since goats are most active during cooler parts of the day. Many owners use peppermint as a reward during handling, hoof trimming, or vet visits.
+Morning and evening work best since goats are most active during cooler parts of the day. Many owners use peppermint as a reward during handling, [hoof trimming](/posts/can-hoof-rot-kill-a-goat), or vet visits.
 
 Avoid giving treats right before or after a big meal. Spacing treats away from regular feeding times helps prevent digestive upset and keeps your goats eager to cooperate when you need them to.
 

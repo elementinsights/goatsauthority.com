@@ -42,7 +42,7 @@ Saanens are the big white dairy goats you see on farms everywhere, and they're h
 
 Saanens are seasonal breeders. In the Northern Hemisphere, they typically come into heat between August and January as the days get shorter. Outside that window, most Saanen does won't cycle at all.
 
-This is different from breeds like Nigerian Dwarfs, which can breed year-round. Saanens evolved in the Swiss Alps where seasonal breeding made sense for kid survival, and that trait stuck even though they've been domesticated for centuries.
+This is different from breeds like Nigerian Dwarfs, which can breed year-round. A doe that seems to [conceive outside her normal heat cycle](/can-a-goat-get-pregnant-when-not-in-heat/) likely had a silent heat you missed. Saanens evolved in the Swiss Alps where seasonal breeding made sense for kid survival, and that trait stuck even though they've been domesticated for centuries.
 
 In tropical climates closer to the equator, where day length stays more consistent throughout the year, some Saanens will cycle outside the normal season. But for most of North America and Europe, count on fall and early winter breeding.
 
@@ -60,21 +60,21 @@ Light manipulation is the most common method for getting Saanens to breed out of
 
 The standard protocol involves keeping the doe under 16 hours of light per day for several weeks, then dropping to natural light or shorter days. This mimics the decreasing daylight that triggers heat cycles in seasonal breeders.
 
-Some breeders have had success selecting for extended breeding seasons over several generations. If you breed does that cycle earlier or later than average, their offspring tend to have slightly wider breeding windows over time.
+Some breeders have had success selecting for extended breeding seasons over several generations. Be careful to avoid [inbreeding father-daughter pairs](/can-you-breed-a-father-and-daughter-goat/) in this selective process. If you breed does that cycle earlier or later than average, their offspring tend to have slightly wider breeding windows over time.
 
 ## How many kids can a Saanen goat have at one time?
 
-Saanens most commonly have twins. Triplets are not unusual, and first-time does are more likely to have a single kid.
+Saanens most commonly have twins, consistent with [typical goat litter sizes](/how-many-babies-do-goats-have-at-a-time/). Triplets are not unusual, and first-time does are more likely to have a single kid.
 
 Gestation runs about 150 days, give or take a few. You'll want to start drying off the doe about two months before her due date so her body can put energy into growing those kids rather than making milk.
 
-Does carrying triplets need extra feed during the last six weeks of pregnancy. The kids take up so much space that the doe can't physically eat enough at each feeding, so offer hay and grain in smaller, more frequent meals.
+Does carrying triplets need extra feed during the last six weeks of pregnancy. If a doe goes past day 155, she may need to be [induced to labor](/can-an-over-due-goat-be-induced-to-labor/) by a vet. The kids take up so much space that the doe can't physically eat enough at each feeding, so offer hay and grain in smaller, more frequent meals.
 
 ## What do Saanen goat kids eat?
 
 Kids nurse from their mothers for the first few weeks and start nibbling on hay and grain as early as one week old. By two months, they should be eating solid food as the main part of their diet.
 
-Most breeders wean Saanen kids between 8 and 12 weeks. If you're bottle-feeding, you can start weaning once the kid is eating at least a half pound of grain and plenty of hay each day.
+Most breeders wean Saanen kids between 8 and 12 weeks. A doe with [quads will need supplemental feeding](/can-a-goat-feed-quads/) for at least one or two kids. If you're bottle-feeding, you can start weaning once the kid is eating at least a half pound of grain and plenty of hay each day.
 
 Fresh water should be available from birth, even though kids won't drink much at first. A shallow pan works better than a deep bucket for young kids who might fall in.
 

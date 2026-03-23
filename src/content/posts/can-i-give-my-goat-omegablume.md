@@ -52,17 +52,17 @@ Most goats like the taste when it's mixed into their daily grain ration. You can
 
 OmegaBlume delivers omega-3 fatty acids, which support skin health, reduce inflammation, and can improve coat condition. In dairy goats, omega-3 supplementation has been linked to better milk quality and higher butterfat content.
 
-The product also contains vitamins and minerals that support immune function. Goats dealing with dry skin, dull coats, or joint stiffness in older age tend to show the most visible improvement from omega-3 supplementation.
+The product also contains vitamins and minerals that support immune function. Goats dealing with dry skin, dull coats, or joint stiffness in older age tend to show the most visible improvement from omega-3 supplementation. If your goat is also struggling with [mites](/can-goats-get-mites), omega-3s can help the skin recover faster alongside proper treatment.
 
 ## What are the risks associated with giving goats Omegablume?
 
 The risks are minimal when you follow the label dosing. Flaxseed is a natural feed ingredient that ruminants digest without problems.
 
-The only real concern is overfeeding it. Too much fat from any source can throw off rumen function and lead to loose stools or digestive upset. Stick to the recommended amount and you won't run into trouble.
+The only real concern is overfeeding it. Too much fat from any source can throw off rumen function and lead to loose stools or digestive upset, and understanding [how goat stomachs work](/how-many-stomachs-do-goats-have) helps you appreciate why balance matters. Stick to the recommended amount and you won't run into trouble.
 
 ## How to prevent the risks associated with giving goats Omegablume?
 
-Start with half the recommended dose for the first week and work up to the full amount. This gives the rumen microbes time to adjust to the added fat in the diet.
+Start with half the recommended dose for the first week and work up to the full amount. This gives the rumen microbes time to adjust to the added fat in the diet, much like you'd [slowly introduce Benadryl](/can-benadryl-hurt-a-goat) or any new substance.
 
 Weigh your goats before calculating dosages. Standard-sized dairy breeds like Alpines and Saanens get the full dose, while smaller breeds like Nigerian Dwarfs and Pygmies should get about half. Growing kids need even less, roughly a quarter of the adult amount.
 
@@ -74,7 +74,7 @@ If a goat won't eat it in grain, try mixing it with a small amount of warm water
 
 ## Tips for keeping your goats healthy and happy with the help of Omegablume
 
-Give the supplement time to work. You'll usually notice shinier coats within 2 to 3 weeks, but improvements in hoof quality and joint mobility take 4 to 6 weeks to show up.
+Give the supplement time to work. You'll usually notice shinier coats within 2 to 3 weeks, but improvements in hoof quality and joint mobility take 4 to 6 weeks to show up. Good hoof condition also depends on preventing problems like [hoof rot](/can-hoof-rot-kill-a-goat), which can undo any supplement gains fast.
 
 OmegaBlume is a supplement, not a replacement for good nutrition. Your goats still need quality hay, a balanced loose mineral, clean water, and appropriate grain rations for their age and production level.
 
@@ -82,7 +82,7 @@ OmegaBlume is a supplement, not a replacement for good nutrition. Your goats sti
 
 Plain ground flaxseed is a cheaper alternative that delivers the same omega-3 benefits. You can buy it in bulk from feed stores or even in the baking aisle of your grocery store.
 
-Black oil sunflower seeds are another popular option. They're high in fat, vitamin E, and selenium, and most goats go crazy for them. A quarter to half cup per goat per day mixed into grain gives a solid nutritional boost at a lower cost.
+Black oil sunflower seeds are another popular option. They're high in fat, vitamin E, and selenium, and most goats go crazy for them. [Human fish oil pills](/can-i-give-my-goats-human-fish-pills) are another affordable omega-3 source that works well for goats. A quarter to half cup of sunflower seeds per goat per day mixed into grain gives a solid nutritional boost at a lower cost.
 
 ## Final Thoughts
 

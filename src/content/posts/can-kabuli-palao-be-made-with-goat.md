@@ -44,7 +44,7 @@ Goat meat is not just acceptable in Kabuli pulao. It's one of the most tradition
 
 Absolutely. In Afghanistan, goat meat is one of the original proteins used in Kabuli pulao, right alongside lamb. Western recipes often call for lamb because it's easier to find in grocery stores, but goat is the more authentic choice in many Afghan households.
 
-The dish works because the meat cooks low and slow with the rice, allowing the flavors to meld together. Goat shoulder or leg pieces on the bone are the best cuts for this.
+The dish works because the meat cooks low and slow with the rice, allowing the flavors to meld together. Goat shoulder or leg pieces on the bone are the best cuts for this. Some homesteaders even raise [Nigerian Dwarf goats for meat](/can-nigerian-dwarf-goats-be-used-for-meat), which produces tender cuts perfect for dishes like this.
 
 ## What is Kabuli Palao and how is it made?
 
@@ -54,7 +54,7 @@ The meat is browned first, then simmered in seasoned water until tender. The ric
 
 ## What are the benefits of eating Kabuli Palao made with goat meat instead of lamb or beef?
 
-Goat meat is leaner than both lamb and beef. A 3-ounce serving of goat has about 122 calories and 2.6 grams of fat, compared to lamb's 175 calories and 8 grams of fat.
+Goat meat is leaner than both lamb and beef. A 3-ounce serving of goat has about 122 calories and 2.6 grams of fat, compared to lamb's 175 calories and 8 grams of fat. Knowing [whether goat liver is safe to eat](/can-we-eat-goat-liver) opens up even more options for using every part of the animal.
 
 The flavor of goat also holds up well against the warm spices in Kabuli pulao. It absorbs the cardamom, cumin, and cinnamon without getting lost, and bone-in pieces release collagen into the broth that makes the rice extra rich.
 
@@ -62,11 +62,11 @@ The flavor of goat also holds up well against the warm spices in Kabuli pulao. I
 
 Goat can turn tough and stringy if you rush the cooking. This isn't a quick weeknight meal, so plan for at least 90 minutes of simmering time for the meat to become fork-tender.
 
-Some people find goat's flavor too gamy for their taste. If that's you, soaking the meat in salted water or yogurt for a few hours before cooking mellows out the gaminess considerably.
+Some people find goat's flavor too gamy for their taste. If that's you, soaking the meat in salted water or yogurt for a few hours before cooking mellows out the gaminess considerably. You can also pair the meal with [goat cheese as an appetizer](/can-infants-eat-goat-cheese) for a full goat-centric spread.
 
 ## How do people feel about Kabuli Palao made with goat meat instead of lamb or beef?
 
-Afghan cooks who grew up with the dish will tell you goat is the real deal. Lamb has become the more common substitute in restaurants outside of Afghanistan, but many traditional family recipes call for goat specifically.
+Afghan cooks who grew up with the dish will tell you goat is the real deal. Lamb has become the more common substitute in restaurants outside of Afghanistan, but many traditional family recipes call for goat specifically. [Postpartum women in many cultures](/can-postpartum-women-eat-goats) also rely on slow-cooked goat dishes for recovery nutrition.
 
 In the end, it comes down to what you can get your hands on and what your family enjoys. Both goat and lamb make excellent Kabuli pulao, and neither one is wrong.
 
@@ -74,7 +74,7 @@ In the end, it comes down to what you can get your hands on and what your family
 
 Afghan food blogs and YouTube channels run by Afghan home cooks are your best resources. Search for "Kabuli pulao with goat" and you'll find authentic recipes with step-by-step instructions.
 
-The basic method is the same regardless of meat: brown the meat, simmer it until tender, cook the rice in the broth, and top with fried carrots and raisins. Once you have the technique down, you can swap between goat and lamb any time you make it.
+The basic method is the same regardless of meat: brown the meat, simmer it until tender, cook the rice in the broth, and top with fried carrots and raisins. If you raise your own goats, you can [sell goat milk butter](/can-i-sell-goat-milk-butter) as a side product while using the meat for dishes like this. Once you have the technique down, you can swap between goat and lamb any time you make it.
 
 ## Final Thoughts
 

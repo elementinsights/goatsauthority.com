@@ -46,7 +46,7 @@ Yes, the bacteria responsible for goat mastitis can infect humans. This is a zoo
 
 The route of infection is almost always through broken skin. A small cut on your finger, a hangnail, or cracked skin from dry winter weather can all provide an entry point for bacteria during milking.
 
-Healthy, intact skin is a strong barrier. If your hands have no cuts or abrasions, the risk drops to near zero even when handling an infected udder.
+Healthy, intact skin is a strong barrier. If your hands have no cuts or abrasions, the risk drops to near zero even when handling an infected udder. [Sore mouth is another zoonotic disease](/can-milk-be-used-from-goats-that-have-had-sore-mouths-and-healed) that can transmit from goats to humans through skin contact.
 
 ## How the bacteria transfer happens
 
@@ -54,7 +54,7 @@ During milking, your hands come into direct contact with the udder and the milk 
 
 Those bacteria can enter your body through any break in the skin, no matter how small. A paper cut that you forgot about or a rough patch of skin around a fingernail is enough.
 
-Once inside, the bacteria multiply in the soft tissue beneath the skin, which is what causes cellulitis. The infection spreads through the tissue layers and can move quickly if left untreated.
+Once inside, the bacteria multiply in the soft tissue beneath the skin, which is what causes cellulitis. The infection spreads through the tissue layers and can move quickly if left untreated. Applying [Neosporin to minor cuts](/can-i-put-neosporin-on-my-goats) before they heal reduces the risk of bacteria entering through those openings.
 
 ## Symptoms of cellulitis to watch for
 
@@ -70,15 +70,15 @@ Wear gloves every time you milk a goat that shows any signs of udder infection. 
 
 Cover any open wounds on your hands and forearms with waterproof bandages before you start milking. Wash your hands thoroughly with antibacterial soap and warm water after every milking session, even when wearing gloves.
 
-Keep a bottle of hand sanitizer in the milking area for quick clean-ups between animals. These simple steps take less than a minute and eliminate most of the risk.
+Keep a bottle of hand sanitizer in the milking area for quick clean-ups between animals. These simple steps take less than a minute and eliminate most of the risk. Other diseases like [pink eye also spread through contaminated equipment](/can-pink-eye-in-goats-be-transmitted-to-cattle), so consistent hygiene protects both you and your herd.
 
 ## Catching mastitis in your goats early
 
 The sooner you identify mastitis in your herd, the sooner you can take precautions. Check the udder before every milking by feeling for heat, swelling, or hardness in either half.
 
-Do a strip test by squirting the first few streams of milk onto a dark surface or into a strip cup. Healthy milk should be smooth and white. Clumps, strings, or a watery texture mean that udder half is likely infected.
+Do a strip test by squirting the first few streams of milk onto a dark surface or into a strip cup. Healthy milk should be smooth and white. Understanding [how many teats goats have](/how-many-teats-do-goats-have) helps you know what a normal udder looks and feels like during these checks. Clumps, strings, or a watery texture mean that udder half is likely infected.
 
-The California Mastitis Test is a cheap on-farm test you can run yourself in about 30 seconds. Mix a squirt of milk with the test reagent on a paddle, and the gel reaction tells you whether the somatic cell count is elevated. Catching mastitis early protects both your goat and you.
+A doe that is losing condition from mastitis may also benefit from [Nutri-Drench supplementation](/can-nutri-drench-be-given-to-lactating-goats) to keep her energy up while recovering. The California Mastitis Test is a cheap on-farm test you can run yourself in about 30 seconds. Mix a squirt of milk with the test reagent on a paddle, and the gel reaction tells you whether the somatic cell count is elevated. Catching mastitis early protects both your goat and you.
 
 ## Final Thoughts
 

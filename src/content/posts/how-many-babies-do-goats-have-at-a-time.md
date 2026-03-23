@@ -47,7 +47,7 @@ Gestation runs about 150 days regardless of how many kids a doe is carrying. Whe
 
 First-time does almost always have singles. Their bodies are still maturing, and a single kid is the norm for that first freshening.
 
-By the second and third pregnancies, twins become the standard. Nigerian Dwarf goats are the overachievers of the goat world and frequently deliver triplets or even quadruplets. Boer goats tend toward twins and triplets as well.
+By the second and third pregnancies, twins become the standard. Nigerian Dwarf goats are the overachievers of the goat world and frequently deliver triplets or even quadruplets. A doe in [prime breeding age around 4 years old](/posts/can-you-breed-a-4yr-old-goat) is most likely to produce strong multiples. Boer goats tend toward twins and triplets as well.
 
 ## How do you know when your goat is ready to give birth?
 
@@ -59,11 +59,11 @@ The udder will fill and become tight, and the doe may pace, paw at the ground, o
 
 Dystocia (a difficult birth) is the most common complication. This happens when a kid is positioned wrong, such as coming out with a leg back or presenting breech.
 
-Pregnancy toxemia (ketosis) can strike does carrying multiples in late pregnancy if they aren't getting enough calories. Symptoms include poor appetite, teeth grinding, and stumbling. If you catch it early, you can treat it with propylene glycol, but prevention through proper nutrition is far better.
+Pregnancy toxemia (ketosis) can strike does carrying multiples in late pregnancy if they are not getting enough calories. [Breeding a 6-year-old maiden doe](/posts/can-you-breed-a-6-yr-old-goat-for-first-time) for the first time carries additional risks on top of this. Symptoms include poor appetite, teeth grinding, and stumbling. If you catch it early, you can treat it with propylene glycol, but prevention through proper nutrition is far better.
 
 ## How do you care for a nursing goat and her baby?
 
-Make sure each kid nurses colostrum within the first two hours of life. Colostrum provides antibodies the kid can't get any other way, and the gut's ability to absorb those antibodies drops off sharply after the first 12 hours.
+Make sure each kid nurses colostrum within the first two hours of life. If a doe has more kids than she can feed, [switching a bottle-fed kid to another nursing doe](/posts/can-you-change-a-bottle-fed-goat-back-to-nursing-off-another-goat) is worth attempting. Colostrum provides antibodies the kid can't get any other way, and the gut's ability to absorb those antibodies drops off sharply after the first 12 hours.
 
 Dip the navel cord in 7% iodine right after birth to prevent infection. Keep the doe's water bucket full because she'll drink heavily while producing milk, and watch to make sure every kid in the litter is getting a turn at the udder.
 
@@ -77,13 +77,13 @@ Most kids are fully weaned between six and eight weeks of age. By then they shou
 
 Hypothermia is the number one killer of newborn kids, especially in cold weather or when a doe has triplets and can't dry them all off fast enough. Have clean towels ready and a heat lamp available if you're kidding in winter.
 
-Weak kids that can't stand or nurse within the first hour need help. A bottle of warm colostrum replacer can save a kid's life if the doe isn't cooperating or the kid is too weak to latch on its own.
+Weak kids that can't stand or nurse within the first hour need help. A bottle of warm colostrum replacer can save a kid's life if the doe isn't cooperating or the kid is too weak to latch on its own. If you plan to keep bucklings, know that [banding at the right age](/posts/can-you-band-a-goat-at-3-years-old) is far easier than dealing with a mature buck later.
 
 ## How to raise goats from kids to adults?
 
 Have a kidding kit ready at least two weeks before the due date. Stock it with clean towels, iodine, a bulb syringe for clearing airways, dental floss for tying off cords, and a bottle with nipple in case you need to supplement.
 
-Once kids are eating solid food, gradually increase their grain and make sure they have access to good hay and clean water at all times. Goats are social animals, so always raise at least two together. A single kid raised alone will be stressed and harder to manage.
+Once kids are eating solid food, gradually increase their grain and make sure they have access to good hay and clean water at all times. Goats are social animals, so always raise at least two together. A single kid raised alone will be stressed and harder to manage. Avoiding [inbreeding between siblings](/posts/can-you-breed-a-half-brother-and-sister-goat) starts with good record keeping from birth.
 
 ## Final Thoughts
 

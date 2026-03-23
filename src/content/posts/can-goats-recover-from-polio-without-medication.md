@@ -51,7 +51,7 @@ Goat polio, properly called polioencephalomalacia (PEM), is caused by a thiamine
 
 In most cases, no. A goat with full-blown PEM that does not receive thiamine injections will likely die or suffer permanent brain damage.
 
-Occasionally a very mild case might resolve on its own, but banking on that is a gamble you do not want to take. Thiamine is cheap, widely available, and can save your goat's life if given promptly.
+Occasionally a very mild case might resolve on its own, but banking on that is a gamble you do not want to take. Thiamine is cheap, widely available alongside other essentials like [CDT vaccines](/posts/can-a-cdt-shot-kill-a-goat), and can save your goat's life if given promptly.
 
 ## What is polio and what are the symptoms in goats?
 
@@ -63,13 +63,13 @@ Symptoms come on fast and are hard to miss. You will see stargazing (the goat ti
 
 PEM is not contagious. It develops when something disrupts the normal balance of rumen bacteria that produce thiamine. The most common triggers are sudden changes in diet, especially switching to high-grain rations too quickly.
 
-Other causes include sulfur-rich feeds, plants like bracken fern that contain thiaminase, or medications like amprolium that interfere with thiamine metabolism.
+Other causes include sulfur-rich feeds, plants like bracken fern that contain thiaminase, or medications like amprolium that interfere with thiamine metabolism. Always be cautious about what medications you give goats, including common ones like [Benadryl](/posts/can-benadryl-hurt-a-goat) and [Pepto-Bismol](/posts/can-i-give-my-goat-pepto-bismol).
 
 ## What are the treatments for polio in goats?
 
 The treatment is thiamine (vitamin B1) injections, and speed matters. The standard emergency dose is 500 mg given intramuscularly (or about 5 mg per pound of body weight) every 6 hours for the first 24 hours.
 
-Keep a bottle of injectable thiamine in your medicine cabinet at all times. After the first day, reduce to twice daily for another two to three days. Most goats that get thiamine within the first few hours show dramatic improvement within 12 to 24 hours.
+Keep a bottle of injectable thiamine in your medicine cabinet at all times alongside other essentials for treating conditions like [anemia](/posts/can-goats-have-a-stroke-anemia) and [mites](/posts/can-goats-get-mites). After the first day, reduce to twice daily for another two to three days. Most goats that get thiamine within the first few hours show dramatic improvement within 12 to 24 hours.
 
 ## Are there any side effects to the polio treatments in goats?
 
@@ -81,7 +81,7 @@ The real risk is not treating at all. Every hour you wait, more brain tissue is 
 
 The number one prevention is managing diet changes carefully. Any time you switch feeds or introduce grain, do it gradually over at least seven to ten days.
 
-Avoid excessively high-grain diets. Goats do best with quality hay and browse, with grain used sparingly and kept consistent.
+Avoid excessively high-grain diets. Goats do best with quality [hay](/posts/what-kind-of-hay-do-goats-eat) and browse, with grain used sparingly and kept consistent.
 
 ## Are there any other steps you can take to prevent your goats from getting polio?
 
@@ -93,7 +93,7 @@ Adding a B-vitamin supplement to your goats' feed or water can provide extra ins
 
 Yes, every breed of goat can develop PEM. It is not breed-specific because it is a nutritional deficiency, not a genetic condition.
 
-Young goats between 2 and 6 months of age seem most vulnerable, especially during the transition from milk to solid feed. Any goat experiencing a sudden diet change should be watched closely.
+Young goats between 2 and 6 months of age seem most vulnerable, especially during the transition from milk to solid feed. Does [raising multiple kids](/posts/how-many-babies-do-goats-have-at-a-time) should pay extra attention during weaning. Any goat experiencing a sudden diet change should be watched closely.
 
 ## What are the chances of a goat recovering from polio?
 

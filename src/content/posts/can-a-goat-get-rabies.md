@@ -46,13 +46,13 @@ Yes, goats can get rabies. It doesn't happen often, but when it does, the outcom
 
 Rabies spreads through the bite of an infected animal, and goats are just as vulnerable as any other mammal. The most common carriers in rural areas are skunks, raccoons, bats, and foxes.
 
-A goat doesn't need to be attacked by a dog to get rabies. One bite from a rabid bat roosting in your barn is enough to transmit the virus through saliva.
+A goat doesn't need to be attacked by a dog to get rabies. One bite from a rabid bat roosting in your barn is enough to transmit the virus through saliva. Even a [black widow spider bite](/can-black-widow-spider-kill-a-goat/) is less dangerous than rabies because at least spider bites are treatable.
 
 ## What are the signs and symptoms of rabies in goats?
 
 The earliest sign is usually a change in behavior. A friendly goat may become withdrawn, or a shy one may suddenly act aggressive and charge at you.
 
-As the disease progresses, you'll notice excessive drooling, difficulty swallowing, and a strange stiff-legged walk. Paralysis sets in during the later stages, often starting in the hind legs and moving forward.
+As the disease progresses, you'll notice excessive drooling, difficulty swallowing, and a strange stiff-legged walk. These neurological symptoms can resemble [goat polio](/can-goats-recover-from-polio-without-medication/), so a vet needs to differentiate between the two quickly. Paralysis sets in during the later stages, often starting in the hind legs and moving forward.
 
 Some goats will press their heads against walls or walk in circles. Within about 10 days of symptoms appearing, the animal will die.
 
@@ -66,7 +66,7 @@ During this window, the virus is traveling along the nerves toward the brain. Yo
 
 Here's the hard truth: there is no treatment for rabies once symptoms appear. The disease is 100% fatal at that point, in goats and in every other mammal.
 
-The only real defense is prevention through vaccination. A killed rabies vaccine is available for goats and should be given annually, especially if you live in an area with wildlife pressure.
+The only real defense is prevention through vaccination. A killed rabies vaccine is available for goats and should be given annually alongside your regular [CDT shots](/can-a-cdt-shot-kill-a-goat/), especially if you live in an area with wildlife pressure.
 
 If one of your goats gets bitten by a wild animal, call your vet immediately. They may recommend a booster shot and a quarantine period to watch for symptoms.
 
@@ -78,11 +78,11 @@ That's why vaccination matters so much. It costs a few dollars per goat per year
 
 ## Can humans get rabies from goats?
 
-Yes, a rabid goat can transmit the virus to humans through a bite or through saliva contacting an open wound. This is rare, but it has happened.
+Yes, a rabid goat can transmit the virus to humans through a bite or through saliva contacting an open wound. Rabies is just one of several [diseases that can pass between goats and humans](/can-contact-with-goats-cause-diarrhea-in-humans/), though it is by far the most deadly. This is rare, but it has happened.
 
 If you suspect a goat in your herd has rabies, do not handle it without gloves. Report any suspected rabid animal to your local animal control office right away.
 
-Anyone who gets bitten by a potentially rabid animal needs to wash the wound thoroughly with soap and water and get to a doctor for post-exposure prophylaxis. For humans, rabies is treatable if you act fast before symptoms develop.
+Anyone who gets bitten by a potentially rabid animal needs to wash the wound thoroughly with soap and water and get to a doctor for post-exposure prophylaxis. Dogs living with the herd are also at risk, since a [dog can get sick from a goat](/can-a-dog-get-sick-from-a-goat/) through various disease pathways including rabies. For humans, rabies is treatable if you act fast before symptoms develop.
 
 ## Final Thoughts
 

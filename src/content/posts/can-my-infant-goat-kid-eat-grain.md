@@ -46,13 +46,13 @@ Yes, goat kids can start nibbling on grain as early as one to two weeks old. The
 
 Kids are born with an undeveloped rumen, which is why they survive on milk for the first few weeks. But the rumen needs solid food to start developing properly, and grain is one of the best ways to kick-start that process.
 
-You will notice your kids mouthing at their mom's feed within the first week or two. That is normal behavior and a good sign. Set out a small amount of kid-specific textured feed or goat grain where the kids can reach it, and let them explore at their own pace.
+You will notice your kids mouthing at their mom's feed within the first week or two. That is normal behavior and a good sign. Adding some [sunflower seeds](/can-goats-eat-sunflower-seeds) to the doe's ration can also improve milk quality for the nursing kids. Set out a small amount of kid-specific textured feed or goat grain where the kids can reach it, and let them explore at their own pace.
 
 ## What are the benefits of feeding grain to infant goats?
 
 Grain provides the concentrated energy and protein that growing kids need to build muscle and bone. Milk alone does a great job for the first couple of weeks, but grain fills in the nutritional gaps as the kid's body demands more.
 
-Eating grain also stimulates rumen development by introducing the microbes that ferment fiber. The sooner those microbes get established, the sooner your kid can efficiently digest hay and browse like an adult goat.
+Eating grain also stimulates rumen development by introducing the microbes that ferment fiber. The sooner those microbes get established, the sooner your kid can efficiently digest [hay](/can-pygmy-goats-eat-hay) and browse like an adult goat.
 
 ## How much grain should you feed your goat kid, and how often should you do so?
 
@@ -64,19 +64,19 @@ By weaning age, around eight to twelve weeks, healthy kids should be eating roug
 
 The biggest mistake is giving too much grain too fast. Overloading a kid's rumen with grain before it has developed enough can cause bloat, acidosis, or enterotoxemia. Start small and increase gradually over weeks, not days.
 
-Another common mistake is using feed designed for other livestock. If you are raising bucklings or wethers, make sure the grain contains ammonium chloride. This additive prevents urinary calculi, a painful and potentially fatal blockage that male goats are prone to when eating grain. Check the feed tag before you buy.
+Another common mistake is using feed designed for other livestock. The question of [whether sheep can eat goat food](/can-sheep-eat-goat-food) comes up often on mixed farms, and the answer involves important differences in mineral needs. If you are raising bucklings or wethers, make sure the grain contains ammonium chloride. This additive prevents urinary calculi, a painful and potentially fatal blockage that male goats are prone to when eating grain. Check the feed tag before you buy.
 
 ## How to prevent digestive problems when feeding grain to goats
 
 A creep feeder is the best setup for feeding kids. Build a small enclosure with openings just big enough for kids to squeeze through but too small for adult goats. Place a shallow pan of grain inside and let the kids eat at their own pace without competing with bigger animals.
 
-Always make sure fresh water and hay are available alongside the grain. Hay provides the long-stem fiber that keeps the rumen functioning properly. Grain without fiber is a recipe for digestive trouble.
+Always make sure fresh water and hay are available alongside the grain. Hay provides the long-stem fiber that keeps the rumen functioning properly. [Alfalfa hay](/can-goats-eat-alfalfa) is a great option for growing kids because of its higher protein and calcium content. Grain without fiber is a recipe for digestive trouble.
 
 ## When is the best time to give grain to goats?
 
-Feed grain in the morning and evening at consistent times. Kids thrive on routine, and regular feeding schedules help their digestive systems stay on track.
+Feed grain in the morning and evening at consistent times. Kids thrive on routine, and regular feeding schedules help their digestive systems stay on track. Pregnant does carrying those kids also need extra nutrition, and [alfalfa is especially beneficial for pregnant Boer goats](/can-pregnant-boer-goats-eat-alfalfa).
 
-Make sure your grain is fresh and stored in an airtight container off the ground. Stale or moldy grain can cause serious illness in young kids whose immune systems are not fully developed yet. Buy grain in quantities you can use within two to three weeks, and toss anything that smells off or shows signs of mold.
+Make sure your grain is fresh and stored in an airtight container off the ground. Stale or moldy grain can cause serious illness in young kids whose immune systems are not fully developed yet. You can also supplement with [oats](/can-goats-eat-oats) as part of a varied diet once kids are comfortable with solid food. Buy grain in quantities you can use within two to three weeks, and toss anything that smells off or shows signs of mold.
 
 ## Final Thoughts
 

@@ -36,7 +36,7 @@ True strokes are actually rare in goats. Most of the time, what looks like a str
 
 ## Can goats have a stroke anemia?
 
-While strokes can technically happen in goats, they're uncommon. What most goat owners see and call a "stroke" is usually listeriosis (circling disease) or goat polio (polioencephalomalacia), which is caused by a thiamine deficiency.
+While strokes can technically happen in goats, they're uncommon. What most goat owners see and call a "stroke" is usually listeriosis (circling disease) or goat polio (polioencephalomalacia), which is caused by a thiamine deficiency. Having [Pepto-Bismol](/posts/can-i-give-my-goat-pepto-bismol) and other basic medications on hand helps you respond quickly to any emergency.
 
 Anemia is a separate issue altogether. Severe anemia in goats is most often caused by the barber pole worm (Haemonchus contortus), a blood-sucking stomach parasite that can drain a goat's blood supply fast if left unchecked.
 
@@ -48,7 +48,7 @@ Both conditions come on fast and need immediate treatment. If your goat is stumb
 
 ## Causes of strokes in goats
 
-Listeriosis comes from the bacteria Listeria monocytogenes, which often shows up in spoiled silage or moldy hay. Goat polio happens when something disrupts the thiamine production in the rumen, like a sudden feed change or too much grain.
+Listeriosis comes from the bacteria Listeria monocytogenes, which often shows up in spoiled silage or [moldy hay](/posts/can-goats-eat-moldy-hay). [Goat polio](/posts/can-goats-recover-from-polio-without-medication) happens when something disrupts the thiamine production in the rumen, like a sudden feed change or too much grain.
 
 Severe anemia from barber pole worm causes its own set of neurological-looking symptoms. A goat that's lost enough blood will be weak, stumbling, and lethargic, which can mimic what a stroke looks like to someone who hasn't seen it before.
 
@@ -56,13 +56,13 @@ Severe anemia from barber pole worm causes its own set of neurological-looking s
 
 For listeriosis, high doses of penicillin or oxytetracycline given early and aggressively offer the best chance of recovery. Treatment needs to start within the first 24 hours and continue for at least five days.
 
-For goat polio, thiamine (vitamin B1) injections can turn a goat around fast, sometimes within hours. For severe anemia, deworm the goat immediately with an effective product, give an iron supplement and B12, and in critical cases your vet may need to do a blood transfusion.
+For goat polio, thiamine (vitamin B1) injections can turn a goat around fast, sometimes within hours. For severe anemia, [deworm the goat immediately](/posts/can-you-deworm-a-pregnant-goat) with an effective product using proper goat-specific dosing, give an iron supplement and B12, and in critical cases your vet may need to do a blood transfusion.
 
 ## Prevention of strokes in goats
 
-Check your goats' inner eyelid color regularly using the FAMACHA scoring system. Bright red or dark pink means healthy blood levels, while pale pink or white tells you the goat is anemic and needs deworming right away.
+Check your goats' inner eyelid color regularly using the FAMACHA scoring system. Bright red or dark pink means healthy blood levels, while pale pink or white tells you the goat is anemic and needs deworming right away. Avoid [cattle dewormer blocks](/posts/can-goats-have-cattle-dewormer-blocks) that deliver inadequate doses and instead use individual oral drenching.
 
-Keep hay and silage storage clean and dry to prevent Listeria growth. Make any feed changes gradually over a week or more, and make sure your goats always have access to good quality forage to keep their rumen bacteria balanced.
+Keep hay and silage storage clean and dry to prevent Listeria growth. A proper [CDT vaccination](/posts/can-a-cdt-shot-kill-a-goat) schedule also protects against other common fatal diseases. Make any feed changes gradually over a week or more, and make sure your goats always have access to good quality forage to keep their rumen bacteria balanced.
 
 ## Final Thoughts
 

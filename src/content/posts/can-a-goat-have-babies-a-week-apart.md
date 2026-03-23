@@ -48,23 +48,23 @@ The other possibility is uterine inertia, where the doe delivers one or more kid
 
 More often than not, the "second birth" a week later is actually a retained or mummified kid being expelled. The doe delivered her live kids normally, but a kid that died earlier in gestation stayed inside and came out later as the uterus continued to clean itself out.
 
-If your doe kids and still looks pregnant days afterward, that's a red flag. Get your vet involved right away because a retained kid can cause serious infection and put the doe's life at risk. A mummified kid is usually dried out and smaller than expected, and it may come out with minimal effort from the doe.
+If your doe kids and still looks pregnant days afterward, that's a red flag. A doe can [miscarry one kid while still carrying others](/can-a-goat-miscarry-one-kid-and-still-be-pregnant/) in some cases. Get your vet involved right away because a retained kid can cause serious infection and put the doe's life at risk. A mummified kid is usually dried out and smaller than expected, and it may come out with minimal effort from the doe.
 
 ## How Goat Breeding Cycles Work
 
 Goats are seasonally polyestrous, meaning most breeds cycle every 18 to 21 days during the fall breeding season. After breeding, gestation runs about 145 to 155 days depending on the breed and number of kids. Some breeds like Boers and Nigerian Dwarfs can cycle year-round, which gives breeders more flexibility on timing.
 
-A doe can breed again fairly quickly after kidding, though most responsible breeders give her body at least two to three months to recover. Breeding back too soon puts strain on the doe and often leads to smaller, weaker kids in the next pregnancy. First-time mothers especially need that recovery window.
+A doe can breed again fairly quickly after kidding, though most responsible breeders give her body at least two to three months to recover. Whether you should [breed an older doe](/can-you-breed-a-4yr-old-goat/) depends on her overall health and breeding history. Breeding back too soon puts strain on the doe and often leads to smaller, weaker kids in the next pregnancy. First-time mothers especially need that recovery window.
 
 ## Signs a Doe Needs Help During Labor
 
 A doe in active labor that hasn't produced a kid within 30 minutes of hard pushing likely needs assistance. Look for a water bag that broke with nothing following, repeated straining with no progress, or a doe that simply gives up and lies flat.
 
-Feel for the kid's position at the vulva. Two front hooves with a nose resting on top means everything is lined up correctly. If you feel one leg, a tail, or just a head with no hooves, the kid is malpresented and needs repositioning before delivery can continue. Keep OB gloves and lubricant in your kidding kit at all times so you're ready when these situations come up.
+Feel for the kid's position at the vulva. Two front hooves with a nose resting on top means everything is lined up correctly. If you feel one leg, a tail, or just a head with no hooves, the kid is malpresented and needs repositioning before delivery can continue. If a doe goes past her due date with no progress, your vet may need to [induce labor](/can-an-over-due-goat-be-induced-to-labor/). Keep OB gloves and lubricant in your kidding kit at all times so you're ready when these situations come up.
 
 ## What to Do After Kidding
 
-Check that all kids are breathing and clear any mucus from their noses and mouths. Make sure each kid nurses within the first hour to get that critical colostrum, which is loaded with antibodies they need to survive. Kids that don't get colostrum in the first few hours are far more likely to get sick and die in the first week.
+Check that all kids are breathing and clear any mucus from their noses and mouths. Make sure each kid nurses within the first hour to get that critical colostrum, which is loaded with antibodies they need to survive. If the doe has [quads and can't feed them all](/can-a-goat-feed-quads/), be ready with bottles. Kids that don't get colostrum in the first few hours are far more likely to get sick and die in the first week.
 
 Watch for the placenta to pass within 12 hours of the last kid. Don't pull on it if it's hanging, because tearing it can leave pieces inside and cause infection. If it hasn't passed within 24 hours, call your vet. Dip each kid's navel cord in iodine to prevent bacteria from entering through the umbilical stump.
 

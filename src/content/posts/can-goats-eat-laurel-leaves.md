@@ -47,7 +47,7 @@ The one exception is bay laurel (Laurus nobilis), which is the herb you use in c
 
 ## Which laurel species are toxic to goats?
 
-Mountain laurel (Kalmia latifolia) contains grayanotoxin, which attacks the heart and nervous system. Even a small handful of leaves can cause heart failure in a goat, and symptoms show up fast.
+Mountain laurel (Kalmia latifolia) contains grayanotoxin, which attacks the heart and nervous system. Along with [poison hemlock](/can-goats-eat-poison-hemlock/), it is one of the most lethal plants a goat can encounter. Even a small handful of leaves can cause heart failure in a goat, and symptoms show up fast.
 
 Cherry laurel (Prunus laurocerasus) is just as dangerous but for a different reason. It contains cyanogenic glycosides that release cyanide when the leaves are chewed or wilted. A goat can go from looking fine to critical condition in under an hour after eating cherry laurel.
 
@@ -59,13 +59,13 @@ With mountain laurel, you will see drooling, weakness, and an irregular heartbea
 
 Cherry laurel poisoning moves even faster. Watch for bright red gums, rapid breathing, staggering, and collapse. The cyanide prevents cells from using oxygen, so the goat essentially suffocates from the inside.
 
-In both cases, the severity depends on how much the goat ate and its body size. A kid is at far greater risk than a full-grown doe from the same amount of leaves.
+In both cases, the severity depends on how much the goat ate and its body size. A kid is at far greater risk than a full-grown doe from the same amount of leaves, just as with [mushroom poisoning](/can-goats-eat-mushrooms/) where smaller animals are more vulnerable.
 
 ## What to do if your goat eats laurel
 
 Remove any remaining plant material from the goat's mouth immediately. Rinse the mouth with clean water if the goat will cooperate.
 
-If you have activated charcoal on hand, mix it with water and give it to the goat right away. The standard dose is about one gram per kilogram of body weight, but call your vet before administering it.
+If you have activated charcoal on hand, mix it with water and give it to the goat right away. This same treatment applies if your goat eats [avocado](/can-goats-eat-avocado/) or other toxic plants. The standard dose is about one gram per kilogram of body weight, but call your vet before administering it.
 
 Do not wait for symptoms to appear before calling the vet. Cyanide poisoning from cherry laurel can go from "seems fine" to "life-threatening" in less than an hour, and early treatment makes all the difference.
 
@@ -73,9 +73,9 @@ Do not wait for symptoms to appear before calling the vet. Cyanide poisoning fro
 
 The safest approach is to remove all toxic laurel plants from anywhere your goats can reach. If that is not possible, fence off the area with sturdy fencing that your goats cannot jump or push through.
 
-If you need hedge plants near your pasture, go with safe alternatives. Hawthorn makes a dense, goat-safe hedge, and willow is another option that goats can safely browse on.
+If you need hedge plants near your pasture, go with safe alternatives. Hawthorn makes a dense, goat-safe hedge, and [honeysuckle](/can-goats-eat-honeysuckle/) is another option that goats love to browse on.
 
-Keep your goats well-fed with plenty of hay and good browse so they are less tempted to sample unfamiliar plants. A bored, hungry goat is far more likely to nibble on something dangerous than one with a full belly.
+Keep your goats well-fed with plenty of [hay](/what-kind-of-hay-do-goats-eat/) and good browse so they are less tempted to sample unfamiliar plants. A bored, hungry goat is far more likely to nibble on something dangerous than one with a full belly. Treats like [apples](/can-goats-eat-apples/) and carrots help keep them satisfied and distracted from hazardous plants.
 
 ## Final Thoughts
 

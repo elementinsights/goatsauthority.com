@@ -44,7 +44,7 @@ No, you cannot band an adult goat’s horns off. I see this question come up all
 
 A goat’s horn is not dead tissue like a fingernail. By adulthood, each horn has a bony core fused directly to the skull with blood vessels and nerves running through it.
 
-A rubber band cannot cut through bone. All it does is dig into living tissue, cause extreme pain, and open the door to infection. There is no scenario where banding an adult horn ends well.
+A rubber band cannot cut through bone. All it does is dig into living tissue, cause extreme pain, and open the door to infection. If you are considering [dehorning a 2-year-old goat](/posts/can-you-dehorn-a-2-year-old-goat), surgical removal is the only realistic path. There is no scenario where banding an adult horn ends well.
 
 ## What are the things you need to consider before dehorning a goat?
 
@@ -52,13 +52,13 @@ If you truly need the horns gone, surgical removal by a veterinarian is the only
 
 It is a serious procedure. Heavy blood loss, sinus exposure, and infection are all real risks. Most vets will only do it when the horns are causing genuine safety problems for the goat or the people handling it.
 
-Expect to pay $150 to $500 depending on your area. Recovery means weeks of wound care, fly prevention, and pain management.
+Expect to pay $150 to $500 depending on your area. Recovery means weeks of wound care, fly prevention, and pain management, and you should know how to [recognize signs of infection or disease](/posts/can-you-catch-diseases-from-goats) in your goat during the healing process.
 
 ## What is dehorning and why is it done?
 
 Dehorning removes the entire horn down to the skull. Owners do it to prevent injuries during handling, stop goats from goring each other, and keep heads from getting stuck in fences.
 
-Dairy farms dehorn more often because does on milk stands can injure handlers with a quick head toss. The critical thing to understand is that dehorning gets exponentially harder as a goat ages. What takes seconds on a 5-day-old kid becomes full surgery on an adult.
+Dairy farms dehorn more often because does on milk stands can injure handlers with a quick head toss, and a clean [udder](/posts/do-goats-have-udders) is hard to milk when horns are swinging. The critical thing to understand is that dehorning gets exponentially harder as a goat ages. What takes seconds on a 5-day-old kid becomes full surgery on an adult.
 
 ## Methods of dehorning adult goats
 
@@ -70,7 +70,7 @@ Horn tipping is a much safer alternative that most owners prefer. You saw off ju
 
 A dehorned goat cannot gore another animal, hook a child, or catch you in the ribs during hoof trimming. That safety factor is the main reason people consider it.
 
-The downsides are significant though. Horns help goats regulate body temperature by dissipating heat, so removing them adds stress in hot climates. The surgery itself carries real risk, and the open sinus cavity requires weeks of careful management afterward.
+The downsides are significant though. Horns help goats regulate body temperature by dissipating heat, and their [excellent panoramic eyesight](/posts/do-goats-have-good-eyesight) works together with horns as part of their natural defense system, so removing them adds stress in hot climates. The surgery itself carries real risk, and the open sinus cavity requires weeks of careful management afterward.
 
 Most experienced goat keepers will tell you to just live with the horns. Learning to manage around them is almost always easier and safer than putting an adult through surgery.
 
@@ -78,9 +78,9 @@ Most experienced goat keepers will tell you to just live with the horns. Learnin
 
 Do not do it. Banding only works on very young scurs, the small horn regrowth after a failed disbudding, where the tissue is thin enough for a band to cut through.
 
-The proper window for horn removal is disbudding at 3 to 7 days old. At that age, the horn bud is a small nub that a disbudding iron can burn flat in seconds. Once you miss that window, your options shrink dramatically.
+The proper window for horn removal is [disbudding at 3 to 7 days old](/posts/can-you-disbud-a-goat-without-medication). At that age, the horn bud is a small nub that a disbudding iron can burn flat in seconds. Once you miss that window, your options shrink dramatically.
 
-If you have an adult with horns, horn tipping is the practical compromise. Talk to your vet about surgical removal only if the horns are creating a genuine safety hazard.
+If you have an adult with horns, horn tipping is the practical compromise. Understanding the goat's [cloven hoof structure](/posts/do-goats-have-cloven-hooves) and maintaining regular trims is far more impactful for daily handling safety than horn removal. Talk to your vet about surgical removal only if the horns are creating a genuine safety hazard.
 
 ## Final Thoughts
 

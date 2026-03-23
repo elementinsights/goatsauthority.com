@@ -43,7 +43,7 @@ It's not a perfect replacement for puppy milk replacer, but it works well as a s
 
 Yes, puppies can have regular goat milk. It's easier for them to digest than cow milk because goat milk has smaller fat globules and a different protein structure that's gentler on a puppy's stomach.
 
-Goat milk is lower in lactose than cow milk, which means less chance of diarrhea and digestive upset. Fresh, pasteurized, or canned goat milk all work fine for puppies.
+Goat milk is lower in lactose than cow milk, which means less chance of diarrhea and digestive upset. Fresh, pasteurized, or canned goat milk all work fine for puppies. You can find it at most stores, and our guide on [where to buy goat milk](/can-you-buy-goat-milk-at-the-grocery-store) covers your options.
 
 Make sure you're using whole goat milk, not a reduced-fat version. Puppies need the calories and fat for proper growth and brain development.
 
@@ -51,9 +51,9 @@ Make sure you're using whole goat milk, not a reduced-fat version. Puppies need 
 
 Goat milk is closer in composition to dog milk than cow milk is. It's higher in fat and has a nutrient profile that puppies can actually use.
 
-The smaller fat molecules in goat milk break down more easily in a puppy's digestive system. This matters a lot for newborn puppies whose guts are still developing and can't handle heavy, hard-to-digest proteins.
+The smaller fat molecules in goat milk break down more easily in a puppy's digestive system. [Rottweilers can also drink goat milk](/can-rottweilers-drink-goat-milk) safely and benefit from the same easy digestibility. This matters a lot for newborn puppies whose guts are still developing and can't handle heavy, hard-to-digest proteins.
 
-Goat milk also contains natural probiotics and enzymes that support gut health. Many breeders use it as a supplement even for puppies that are still nursing from their mother, especially in large litters where some pups might not be getting enough.
+Goat milk also contains natural probiotics and enzymes that support gut health. Many breeders use it as a supplement even for puppies that are still nursing from their mother, especially in large litters where some pups might not be getting enough. If you have extra milk, knowing [how to freeze goat milk](/can-goats-milk-be-frozen) ensures nothing goes to waste.
 
 ## How to feed goat milk to puppies
 
@@ -67,7 +67,7 @@ Feed slowly and hold the puppy in a natural belly-down position, never on its ba
 
 Start with small amounts to make sure the puppy tolerates it. For a newborn puppy, that's about 1 to 2 ml per ounce of body weight per feeding, with feedings every 2 to 3 hours.
 
-As the puppy grows, increase the amount per feeding and stretch the time between feedings. By 2 to 3 weeks old, most puppies can go 4 hours between feedings during the day.
+As the puppy grows, increase the amount per feeding and stretch the time between feedings. By 2 to 3 weeks old, most puppies can go 4 hours between feedings during the day. [Sheep can also drink raw goat milk](/can-sheep-drink-raw-goats-milk) as a foster milk option when ewe milk is not available.
 
 Watch the puppy's stool closely. Firm, yellowish stools mean things are going well. Loose or watery stools mean you're either feeding too much at once or the puppy needs a slower transition.
 
@@ -75,7 +75,7 @@ Watch the puppy's stool closely. Firm, yellowish stools mean things are going we
 
 Goat milk has less protein than dog milk, so it's not a complete long-term replacement for puppies. If you're raising an orphaned litter, pick up a commercial puppy milk replacer as soon as you can.
 
-You can mix goat milk with puppy milk replacer to stretch your supply or help puppies transition between the two. Some breeders add a raw egg yolk to goat milk to boost the protein and fat content closer to what dog milk provides.
+You can mix goat milk with puppy milk replacer to stretch your supply or help puppies transition between the two. People with cow milk sensitivities often find that [goat milk is a good alternative](/can-someone-allergic-to-milk-use-goats-milk) for the same reasons it works for dogs. Some breeders add a raw egg yolk to goat milk to boost the protein and fat content closer to what dog milk provides.
 
 For a single orphaned puppy or a few days of supplementing until mom's milk comes in stronger, straight goat milk works just fine. But for weeks of bottle feeding an entire litter, the commercial replacer is worth the investment.
 

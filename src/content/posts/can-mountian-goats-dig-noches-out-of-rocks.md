@@ -43,7 +43,7 @@ The short answer is that mountain goats don't dig notches into rock the way you 
 
 Mountain goats don't carve or gouge notches into solid rock. They're strong animals, but rock is harder than hooves and horns. What they do is find and use existing natural features in the rock face.
 
-Cracks, ledges, rough patches, and small depressions left by weathering and erosion give mountain goats all the footholds they need. They're incredibly skilled at spotting and using surfaces that look completely unusable to us.
+Cracks, ledges, rough patches, and small depressions left by weathering and erosion give mountain goats all the footholds they need. Their ability to navigate [near-vertical cliff faces](/can-mountain-goats-climb-cliffs) is one of the most remarkable feats in the animal kingdom. They're incredibly skilled at spotting and using surfaces that look completely unusable to us.
 
 The "notches" people see on cliff faces where mountain goats travel are natural erosion features, not goat-made carvings. Generations of goats find and use these same features over and over, which can make it look like the goats created them.
 
@@ -51,13 +51,13 @@ The "notches" people see on cliff faces where mountain goats travel are natural 
 
 The secret is in their hooves. Each hoof has two toes that spread apart independently, almost like a pair of pliers gripping the rock surface.
 
-The outer edge of each hoof is hard and sharp, made of thick keratin that bites into ice and rough stone. The inner pad is soft and rubbery, giving them grip on smooth surfaces where other animals would slide right off.
+The outer edge of each hoof is hard and sharp, made of thick keratin that bites into ice and rough stone. Domestic goats also have [specialized hooves that need regular trimming](/can-hoof-rot-kill-a-goat) to stay healthy, though they are built for very different terrain. The inner pad is soft and rubbery, giving them grip on smooth surfaces where other animals would slide right off.
 
 This combination lets mountain goats stand on ledges narrower than a bookshelf. No other large mammal in North America can match that level of agility on vertical rock faces.
 
 ## What mountain goats actually dig for
 
-Mountain goats do paw at the ground, but they're digging into soil and snow, not solid rock. They scrape away snow to reach buried vegetation during winter months when food is scarce.
+Mountain goats do paw at the ground, but they're digging into soil and snow, not solid rock. They scrape away snow to reach buried vegetation during winter months when food is scarce. Domestic goats face similar cold-weather challenges, and many owners wonder [whether goats can survive outside in winter](/can-goats-be-outside-in-winter).
 
 They also dig at mineral licks to access salt and other trace minerals. High-altitude environments are naturally low in sodium, and mountain goats have an intense craving for it.
 
@@ -67,7 +67,7 @@ Over time, entire herds return to the same mineral-rich spots again and again. T
 
 Mountain goats pick routes that look suicidal to humans but are actually carefully chosen paths. They test footholds before committing their full weight, and they remember routes they've used before.
 
-Kids learn the safe paths by following their mothers from a very young age. By the time a young mountain goat is a few months old, it's already scrambling up cliff faces that would give a rock climber a serious challenge.
+Kids learn the safe paths by following their mothers from a very young age. By the time a young mountain goat is a few months old, it's already scrambling up cliff faces that would give a rock climber a serious challenge. Even domestic goats are natural climbers, and farm owners often deal with [goats climbing over fences](/can-goats-climb-fences).
 
 Their low center of gravity and compact muscular build help them balance on tiny ledges. They can also jump up to 12 feet in a single bound when they need to clear a gap between rock features.
 
@@ -75,7 +75,7 @@ Their low center of gravity and compact muscular build help them balance on tiny
 
 Mountain goats are most active during early morning and late afternoon hours. You'll find them in alpine and subalpine zones across the western mountains of North America, from Alaska down through the northern Rockies.
 
-Look for them on rocky slopes, cliff faces, and near natural mineral licks. National parks like Glacier, Mount Rainier, and Olympic are some of the best places to spot them.
+Look for them on rocky slopes, cliff faces, and near natural mineral licks. The Kiko breed is one domestic goat known for hardiness in rugged terrain, and learning [where Kiko goats originated](/where-did-kiko-goats-originate) reveals their connection to mountainous landscapes. National parks like Glacier, Mount Rainier, and Olympic are some of the best places to spot them.
 
 Give them plenty of space if you do find them. Mountain goats are wild animals, and while they sometimes seem tolerant of humans, they can be unpredictable and aggressive, especially during breeding season.
 

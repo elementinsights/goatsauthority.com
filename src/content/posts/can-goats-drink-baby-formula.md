@@ -48,15 +48,15 @@ Formula also lacks some of the specific minerals and vitamins that goat kids nee
 
 ## Better alternatives to baby formula
 
-Goat milk replacer from brands like Manna Pro or Land O Lakes is the best substitute when the dam cannot nurse. These products are formulated to match the fat and protein profile of actual goat milk.
+Goat milk replacer from brands like Manna Pro or Land O Lakes is the best substitute when the dam cannot nurse. These products are formulated to match the fat and protein profile of actual goat milk. [Cow milk is another viable option](/can-goats-drink-cow-milk) for bottle-feeding orphaned kids when goat milk replacer isn't available.
 
 Whole cow milk mixed with a tablespoon of buttermilk per quart is another option that works better than human formula. The buttermilk adds fat and beneficial cultures that help the kid's developing rumen.
 
-If you can find a nursing doe willing to take on an extra kid, that is always the best solution. Some does will adopt an orphan kid without much fuss, while others need a little coaxing.
+If you can find a nursing doe willing to take on an extra kid, that is always the best solution. Some does will adopt an orphan kid without much fuss, while others need a little coaxing. Knowing [whether a CDT shot is safe](/can-a-cdt-shot-kill-a-goat) for young kids helps you time vaccinations alongside formula feeding.
 
 ## Feeding schedule for bottle kids
 
-Newborn kids need colostrum within the first few hours of life. If the dam is not available, frozen colostrum from another doe or colostrum replacer from the feed store will work.
+Newborn kids need colostrum within the first few hours of life. If the dam is not available, frozen colostrum from another doe or colostrum replacer from the feed store will work. You should also have [electrolyte solutions on hand](/can-baby-goats-have-any-electrolytes) for kids that develop scours during the transition from colostrum to milk.
 
 After colostrum, feed 2 to 4 ounces of milk replacer every 3 to 4 hours for the first week. By the second week, you can bump that up to 4 to 6 ounces and stretch feedings to every 4 to 5 hours.
 
@@ -68,13 +68,13 @@ If it is the middle of the night and you have a cold, hungry kid with no milk re
 
 Feed small amounts at a time and do not overfeed. A kid's stomach is tiny, and too much formula at once can cause scours. Get proper goat milk replacer the next morning and switch over.
 
-Do not use soy-based formula if you have a choice. Milk-based formula is closer to what the kid needs.
+Do not use soy-based formula if you have a choice. Milk-based formula is closer to what the kid needs. Understanding [how goat stomachs work](/how-many-stomachs-do-goats-have) helps you appreciate why the right nutrition matters so much in those early weeks.
 
 ## Signs of trouble in bottle-fed kids
 
 Watch the kid's droppings closely. Normal kid droppings are small, yellowish, and pasty during the milk-only stage. Watery or white diarrhea means something is off with the feeding, and you need to adjust the formula concentration or switch products.
 
-A kid that refuses the bottle, feels cold to the touch, or stands hunched up needs veterinary attention. Dehydration can set in fast with young kids, and a few hours can make the difference.
+A kid that refuses the bottle, feels cold to the touch, or stands hunched up needs veterinary attention. Dehydration can set in fast with young kids, and a few hours can make the difference. Cold weather adds urgency since [goats can die in cold weather](/can-goats-die-in-cold-weather) much faster when they're young and malnourished.
 
 ## Final Thoughts
 

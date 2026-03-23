@@ -43,7 +43,7 @@ Proper fencing is always the safer choice. But if you're going to tether, here's
 
 Tethering is one of the most dangerous ways to confine a goat. Goats can wrap the tether around posts, trees, or their own legs and strangle themselves. A panicked goat pulling against a tether can break its neck in seconds.
 
-Tethered goats are also completely defenseless against predators. A coyote or stray dog can attack, and the goat has nowhere to run. This is why you should never tether a goat overnight. Even during the day, a tethered goat is an easy target if you're not checking on it regularly.
+Tethered goats are also completely defenseless against predators. A coyote or stray dog can attack, and the goat has nowhere to run. This is why you should never tether a goat overnight. Even during the day, a tethered goat is an easy target if you're not checking on it regularly. A [fox can easily kill a tethered goat](/can-a-fox-kill-a-goat) that has no way to flee or fight back.
 
 ## How to tether safely if you must
 
@@ -55,19 +55,19 @@ Keep the tether radius completely clear of obstacles, including fence posts, wat
 
 Lightweight chain is the best tether material because goats will chew through rope in minutes. Frayed rope also creates a choking hazard that chain avoids entirely.
 
-A 15- to 20-foot chain gives the goat enough room to move and graze without creating too much slack that could tangle. Consider adding a breakaway link somewhere in the chain so that if the goat gets caught on something, the link snaps under heavy pressure and frees the goat before it can injure itself.
+A 15- to 20-foot chain gives the goat enough room to move and graze without creating too much slack that could tangle. Consider adding a breakaway link somewhere in the chain so that if the goat gets caught on something, the link snaps under heavy pressure and frees the goat before it can injure itself. Goats sharing pasture with cattle is safer than tethering, and [cows and goats graze together](/can-goats-and-cows-graze-in-the-same-field-at-the-same-time-without-fighting) peacefully in most situations.
 
 ## Special situations to consider
 
-Never tether pregnant does, kid goats, or sick goats. Pregnant does need the ability to move freely and lie down comfortably, and the stress of tethering can cause complications. Kid goats are too active and fragile, and their small legs can get tangled in even a short chain.
+Never tether pregnant does, kid goats, or sick goats. Pregnant does need the ability to move freely and lie down comfortably, and the stress of tethering can cause complications. Kid goats are too active and fragile, and their small legs can get tangled in even a short chain. [Tying goats for selective area grazing](/can-goats-be-tied-up-for-selective-area-grazing) follows many of the same safety principles outlined here.
 
 Sick goats need companionship and the ability to access food and water without restriction. Isolating a sick goat on a tether adds stress that slows recovery. If you need to separate a sick goat, use a small pen instead.
 
 ## Better alternatives to tethering
 
-Portable electric fencing is the best alternative for most situations. You can set up a section of electric net fencing in minutes, move it to fresh pasture whenever you need to, and the goats are safe from predators and tangling.
+Portable electric fencing is the best alternative for most situations. You can set up a section of electric net fencing in minutes, move it to fresh pasture whenever you need to, and the goats are safe from predators and tangling. Managing [goat urine impact on trees](/can-goat-urine-kill-trees) is easier with portable fencing that lets you rotate grazing areas.
 
-Permanent fencing with woven wire or cattle panels is the gold standard if your budget allows it. Even a small paddock gives a goat more freedom and safety than any tether. If fencing isn't an option at all, a covered pen or small corral is still far safer than tethering.
+Permanent fencing with woven wire or cattle panels is the gold standard if your budget allows it. Even a small paddock gives a goat more freedom and safety than any tether. If fencing isn't an option at all, a covered pen or small corral is still far safer than tethering. Keeping [goats from causing slope erosion](/can-goats-cause-slope) is also much easier with proper fencing than with tethers.
 
 ## Final Thoughts
 

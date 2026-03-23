@@ -42,19 +42,19 @@ Yes, many people drink goat milk straight from the goat without any processing a
 
 Raw goat milk has been consumed for thousands of years, and plenty of small-farm families drink it daily without issue. The milk comes out warm, and some folks drink it right there in the barn.
 
-The risk is real though. Raw milk can carry Listeria, E. Coli, Campylobacter, and the organism that causes Q fever. Pasteurization kills these pathogens, which is why public health agencies consistently recommend it over raw consumption.
+The risk is real though. Raw milk can carry Listeria, E. Coli, Campylobacter, and the organism that causes Q fever. [Pregnant women should always stick with pasteurized goat milk](/posts/can-you-drink-goat-milk-while-pregnant) to be safe. Pasteurization kills these pathogens, which is why public health agencies consistently recommend it over raw consumption.
 
 ## What are the benefits of drinking goat milk?
 
 Goat milk is naturally easier to digest than cow milk because the fat globules are smaller and it contains less of the A1 casein protein that bothers many people. It's also higher in calcium, potassium, and vitamin A than cow milk.
 
-Many people who can't tolerate cow milk do just fine with goat milk because of the lower lactose levels and different protein structure. Raw milk supporters also point to the beneficial enzymes and probiotics that pasteurization destroys. Whether those benefits outweigh the bacterial risks is something each person has to weigh for themselves.
+Many people who cannot tolerate cow milk do just fine with goat milk because of the lower lactose levels and different protein structure. If you do not have access to a farm, [grocery stores now carry goat milk](/posts/can-you-buy-goat-milk-at-the-grocery-store) from brands like Meyenberg. Raw milk supporters also point to the beneficial enzymes and probiotics that pasteurization destroys. Whether those benefits outweigh the bacterial risks is something each person has to weigh for themselves.
 
 ## What are the risks associated with drinking raw goat milk?
 
 The bacteria in raw milk can cause severe food poisoning with symptoms like vomiting, diarrhea, and fever. Pregnant women, young children, elderly people, and anyone with a compromised immune system face the highest risk of serious illness.
 
-Laws around raw milk sales vary widely by state. Some states allow on-farm sales, a few permit retail sales, and others ban raw milk sales entirely. Check your state's regulations before buying or selling.
+Laws around raw milk sales vary widely by state. Some states allow on-farm sales, a few permit retail sales, and others ban raw milk sales entirely. People following the [GAPS diet often seek out raw goat milk](/posts/can-you-drink-raw-goat-milk-on-gaps-diet) specifically for its natural enzymes. Check your state's regulations before buying or selling.
 
 ## How to keep raw milk as safe as possible
 
@@ -62,11 +62,11 @@ Clean milking practices are your first line of defense. Wash the udder with warm
 
 Filter the milk through a dairy filter immediately after milking and chill it below 40 degrees within an hour. Speed is everything here. The faster you cool that milk, the less time bacteria have to multiply.
 
-Use stainless steel equipment rather than plastic because it sanitizes much more thoroughly. Wash everything in hot soapy water right after milking and follow up with a dairy sanitizer rinse.
+Use stainless steel equipment rather than plastic because it sanitizes much more thoroughly. Any excess milk can be turned into [goat cheese that freezes well](/posts/can-you-freeze-goat-cheese) for later use. Wash everything in hot soapy water right after milking and follow up with a dairy sanitizer rinse.
 
 ## Home pasteurization methods
 
-The batch method involves heating milk to 145 degrees Fahrenheit and holding it there for 30 minutes. A double boiler on your stove works well for this, and it's the most forgiving approach for beginners.
+If you are serving the milk alongside [goat meat or liver](/posts/can-we-eat-goat-liver), pasteurization adds an extra layer of food safety to the entire meal. The batch method involves heating milk to 145 degrees Fahrenheit and holding it there for 30 minutes. A double boiler on your stove works well for this, and it's the most forgiving approach for beginners.
 
 The flash method heats the milk to 161 degrees for just 15 seconds. It's faster but requires a reliable dairy thermometer and close attention to temperature. Always cool pasteurized milk rapidly in an ice bath and get it into the refrigerator within two hours.
 

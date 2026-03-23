@@ -46,7 +46,7 @@ Cow milk contains higher levels of a protein called alpha-s1 casein that trigger
 
 ## Benefits of goat milk for dogs
 
-Goat milk is packed with calcium, probiotics, and healthy fats that support strong bones, a healthy gut, and a shiny coat. It also contains vitamins A, D, and E, which contribute to immune function and skin health.
+Goat milk is packed with calcium, probiotics, and healthy fats that support strong bones, a healthy gut, and a shiny coat. [Puppies can also have goat milk](/can-puppies-have-normal-goats-milk) as a nursing supplement with equally good results. It also contains vitamins A, D, and E, which contribute to immune function and skin health.
 
 The natural probiotics in raw goat milk are especially useful for dogs with sensitive stomachs. Many breeders use goat milk as a supplement for puppies during weaning because it provides easy-to-absorb calories and nutrients during a critical growth stage.
 
@@ -54,17 +54,17 @@ The natural probiotics in raw goat milk are especially useful for dogs with sens
 
 Start with a few tablespoons per day and see how your dog handles it. Most adult rottweilers can work up to one or two cups per day without any issues, but every dog is different.
 
-Pour it over their regular kibble as a topper or offer it in a separate bowl as a treat. If you notice any loose stools or gas, cut back the amount for a few days and increase again more slowly.
+Pour it over their regular kibble as a topper or offer it in a separate bowl as a treat. You can find pasteurized goat milk at most grocery stores, and knowing [where to buy it](/can-you-buy-goat-milk-at-the-grocery-store) saves time. If you notice any loose stools or gas, cut back the amount for a few days and increase again more slowly.
 
 ## Signs your dog is benefiting from goat milk
 
-After a few weeks of adding goat milk to the diet, you should notice some positive changes. The coat often looks shinier and feels softer, and dogs with dry, flaky skin tend to improve.
+After a few weeks of adding goat milk to the diet, you should notice some positive changes. The coat often looks shinier and feels softer, and dogs with dry, flaky skin tend to improve. [Sheep can also drink raw goat milk](/can-sheep-drink-raw-goats-milk) as a foster milk when ewe milk is unavailable.
 
 Firmer, more consistent stools are another good sign that the probiotics are doing their job. Many owners also report that their rottweilers seem more energetic and eager during walks and play sessions.
 
 ## How to store goat milk
 
-Fresh raw goat milk should be kept refrigerated and used within five to seven days. If you buy in bulk from a local farm, freeze portions in ice cube trays so you can thaw just what you need for each serving.
+Fresh raw goat milk should be kept refrigerated and used within five to seven days. For longer storage, you can [freeze goat milk](/can-goats-milk-be-frozen) and thaw portions as needed. If you buy in bulk from a local farm, freeze portions in ice cube trays so you can thaw just what you need for each serving.
 
 Once thawed, use the milk within 24 hours and do not refreeze it. Bacteria multiply quickly in thawed dairy, and feeding spoiled milk is a fast way to give your rottweiler an upset stomach.
 
@@ -74,4 +74,4 @@ Frozen goat milk keeps well for about three months. Label each container with th
 
 Goat milk is a simple, nutritious addition to your rottweiler's diet that most dogs take to right away. Start small, watch for any digestive changes, and increase gradually.
 
-If your dog has been struggling with cow milk products, goat milk is worth trying before cutting out dairy altogether. Talk to your vet if you have any concerns about fitting it into your dog's existing meal plan.
+If your dog has been struggling with cow milk products, goat milk is worth trying before cutting out dairy altogether. People face the same decision, and [those allergic to cow milk often do well with goat milk](/can-someone-allergic-to-milk-use-goats-milk). Talk to your vet if you have any concerns about fitting it into your dog's existing meal plan.

@@ -52,7 +52,7 @@ Think of rice the same way you'd think of pasta for goats. It's not harmful, but
 
 Raw, uncooked rice is the one to avoid. It's hard for goats to digest because the starch hasn't been broken down by cooking.
 
-Uncooked rice can expand in the gut and cause discomfort or bloating. It can also sit in the rumen without fermenting properly, which throws off the microbial balance.
+Uncooked rice can expand in the gut and cause discomfort or bloating, and knowing [how to debloat a goat](/posts/can-you-debloat-a-goat) is critical in those situations. It can also sit in the rumen without fermenting properly, which throws off the microbial balance.
 
 If your goat happens to eat a few grains of dry rice off the ground, it's not an emergency. But intentionally feeding uncooked rice is asking for digestive trouble.
 
@@ -62,13 +62,13 @@ If you're looking to add a rice product to your goats' diet, rice bran is a much
 
 Rice bran is commonly used as a feed supplement for livestock. It provides energy without the pure starch overload that plain rice delivers.
 
-You can mix a small scoop of rice bran into their regular grain ration. It's especially useful during cold months when goats need extra calories to maintain body heat.
+You can mix a small scoop of rice bran into their regular grain ration alongside [sunflower seeds](/posts/can-goats-eat-sunflower-seeds) for added fat and coat benefits. It's especially useful during cold months when goats need extra calories to maintain body heat.
 
 ## How Much Is Safe
 
 A small handful of cooked rice per goat is plenty. That's roughly a quarter cup mixed into their feed, offered once or twice a week at most.
 
-Anything beyond that starts tipping the carbohydrate balance in the rumen. Too many carbs cause the pH to drop, which kills off the beneficial bacteria that help goats digest fiber.
+Anything beyond that starts tipping the carbohydrate balance in the rumen. The same risk applies to [oats](/posts/can-goats-eat-oats) and other grains when overfed. Too many carbs cause the pH to drop, which kills off the beneficial bacteria that help goats digest fiber.
 
 If you notice loose stool or reduced appetite after feeding rice, you gave too much. Cut back or skip it entirely.
 
@@ -76,11 +76,11 @@ Both white and brown rice are safe. Brown rice has a slight edge nutritionally t
 
 ## Why Rice Isn't a Dietary Staple
 
-Goats are browsers built to eat fibrous forage -- hay, browse, weeds, and tree bark. Their four-chamber stomach is designed to ferment and extract nutrients from tough plant material.
+Goats are browsers built to eat fibrous forage -- [hay](/posts/what-kind-of-hay-do-goats-eat), browse, weeds, and tree bark. Their four-chamber stomach is designed to ferment and extract nutrients from tough plant material.
 
 Rice is the opposite of that. It's soft, starchy, and breaks down quickly, which doesn't give the rumen much to work with.
 
-There's nothing wrong with sharing a little leftover rice from dinner. But if you're looking for a real feed supplement, stick with hay, quality goat pellets, and minerals that were formulated for ruminants.
+There's nothing wrong with sharing a little leftover rice from dinner, and [feeding goats kitchen leftovers](/posts/can-i-feed-my-goat-leftovers) is something many owners do in moderation. But if you're looking for a real feed supplement, stick with hay, quality goat pellets, and minerals that were formulated for ruminants.
 
 ## Final Thoughts
 

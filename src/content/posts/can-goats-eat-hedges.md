@@ -45,7 +45,7 @@ The problem is that "hedge" isn't one plant. It's a landscaping term that covers
 
 ## Safe hedges for goats
 
-Several common hedge plants are perfectly safe and even nutritious for goats. Hawthorn, blackthorn, beech, and bramble hedges are all fine and provide good browse with fiber, vitamins, and minerals.
+Several common hedge plants are perfectly safe and even nutritious for goats. Hawthorn, blackthorn, beech, and bramble hedges are all fine and provide good browse with fiber, vitamins, and minerals. [Honeysuckle hedges](/can-goats-eat-honeysuckle/) are another favorite that goats will strip clean with enthusiasm.
 
 Elderberry hedges are generally safe once the berries are ripe, though the leaves and stems contain small amounts of cyanide compounds. Most goats won't eat enough to cause a problem, but it's worth noting.
 
@@ -57,15 +57,15 @@ Privet hedge is one of the most common ornamental hedges, and it's toxic to goat
 
 Boxwood is another popular landscape hedge that's poisonous. The leaves contain steroidal alkaloids that affect the nervous system. Even a small amount can cause vomiting, tremors, and breathing problems in goats.
 
-Yew is the most dangerous of all. Nearly every part of the yew plant is lethal to goats, and death can come suddenly without any warning signs. If you have yew hedges on your property, fence them off completely. There's no safe amount of yew for a goat.
+Yew is the most dangerous of all, right alongside [poison hemlock](/can-goats-eat-poison-hemlock/) as one of the deadliest plants for goats. Nearly every part of the yew plant is lethal to goats, and death can come suddenly without any warning signs. If you have yew hedges on your property, fence them off completely. There's no safe amount of yew for a goat.
 
 ## Using goats for hedge management
 
 Some property owners use goat herds to manage overgrown hedgerows, and it can work well with proper planning. Goats will strip the soft new growth first and then work on older stems and bark.
 
-Before turning goats loose on any hedge, walk the entire row and identify every plant species growing in it. Mixed hedges are tricky because a safe species might be growing right next to a toxic one.
+Before turning goats loose on any hedge, walk the entire row and identify every plant species growing in it. Mixed hedges are tricky because a safe species might be growing right next to a toxic one, and even [mushrooms popping up at the base](/can-goats-eat-mushrooms/) can pose a threat after wet weather.
 
-Limit goats to two or three days on any section of hedge, then rotate them off to let the plants recover. Left too long, goats will strip a hedge down to bare wood and kill the plants entirely.
+Limit goats to two or three days on any section of hedge, then rotate them off to let the plants recover. Supplement with [hay cubes](/can-goats-eat-hay-cubes/) during rotation periods when browse is limited. Left too long, goats will strip a hedge down to bare wood and kill the plants entirely.
 
 ## Pesticides and other hazards
 
@@ -73,7 +73,7 @@ Many ornamental hedges in residential areas have been treated with herbicides, p
 
 If you're thinking about letting goats browse on hedges that aren't on your own property, ask the owner what chemicals have been applied. Some pesticides persist on plant surfaces for weeks after application.
 
-Even on your own property, keep goats away from any hedges you've recently sprayed or fertilized. Wait at least two weeks after the last application, or longer if the product label recommends it, before allowing goats access.
+Even on your own property, keep goats away from any hedges you've recently sprayed or fertilized. Wait at least two weeks after the last application, or longer if the product label recommends it, before allowing goats access. Safe treats like [apples](/can-goats-eat-apples/) or carrots can keep your herd occupied while hedge areas are off-limits.
 
 ## Final Thoughts
 

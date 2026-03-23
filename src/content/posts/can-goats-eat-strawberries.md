@@ -54,9 +54,9 @@ Strawberries pack a solid nutritional punch for their size. They're a good sourc
 
 They also contain antioxidants that help protect cells from damage. On top of that, strawberries provide dietary fiber, which supports healthy digestion in ruminants.
 
-The natural sugars in strawberries give goats a quick energy boost. This can be useful during colder months or after a long day of browsing.
+The natural sugars in strawberries give goats a quick energy boost. This can be useful during colder months or after a long day of browsing, and they pair well with other fruit treats like [blueberries](/posts/can-goats-eat-blueberries) and [blackberries](/posts/can-goats-eat-blackberries).
 
-Strawberries also contain small amounts of potassium, manganese, and folate. These minerals all contribute to keeping your goats in good shape.
+Strawberries also contain small amounts of potassium, manganese, and folate. Pairing them with [sunflower seeds](/posts/can-goats-eat-sunflower-seeds) in the grain ration gives your goats an even broader range of nutrients.
 
 ## Risks associated with feeding strawberries to goats
 
@@ -66,13 +66,13 @@ Loose stool is the most common sign that your goat has had too many. If you noti
 
 Always wash strawberries before feeding them to your goats. Store-bought berries can carry pesticide residue that you don't want in your animals.
 
-Avoid feeding moldy or rotten strawberries. Mold can cause serious digestive illness in goats, so toss anything that looks past its prime.
+Avoid feeding moldy or rotten strawberries. Just as [moldy hay is dangerous for goats](/posts/can-goats-eat-moldy-hay), mold on fruit can cause serious digestive illness, so toss anything that looks past its prime.
 
 ## How many strawberries should be fed to goats?
 
 A good rule of thumb is 3 to 5 strawberries per adult goat as an occasional treat. For kids and smaller breeds, stick to 1 or 2 berries at a time.
 
-Strawberries should never replace a goat's regular diet of hay, browse, and forage. Think of them the way you'd think of dessert -- a nice extra, not the main course.
+Strawberries should never replace a goat's regular diet of [hay](/posts/what-kind-of-hay-do-goats-eat), browse, and forage. Think of them the way you'd think of dessert -- a nice extra, not the main course.
 
 If your goat hasn't had strawberries before, start with just one or two. Watch for any signs of digestive upset before offering more.
 
@@ -104,7 +104,7 @@ Yes, goats can eat strawberry tops, leaves, and stems. In fact, many goats prefe
 
 Strawberry leaves contain tannins, which can actually help settle mild digestive issues. The entire strawberry plant is safe for goats to browse on.
 
-If your goats have access to a strawberry patch, they'll likely eat the whole plant -- fruit, leaves, runners, and all. Just be aware they can strip a bed bare in a single afternoon, so fence off any plants you want to keep for yourself.
+If your goats have access to a strawberry patch, they'll likely eat the whole plant -- fruit, leaves, runners, and all. Since [goats can jump surprisingly high](/posts/can-goats-jump-high), just be aware they can strip a bed bare in a single afternoon, so fence off any plants you want to keep for yourself.
 
 ## Final Thoughts
 

@@ -44,7 +44,7 @@ This is one of those fun questions that pops up more than you would expect. The 
 
 ## Can goats find truffles?
 
-Goats have a strong sense of smell, so in theory they could detect the scent of underground fungi. A few goat owners have mentioned their animals showing interest in areas where truffles grew, but that is about as far as the evidence goes.
+Goats have a strong sense of smell, so in theory they could detect the scent of underground fungi. Their [natural jumping and climbing ability](/posts/can-goats-jump-high) makes them agile in wooded terrain. A few goat owners have mentioned their animals showing interest in areas where truffles grew, but that is about as far as the evidence goes.
 
 No research papers, established training programs, or commercial truffle operations use goats. This falls squarely into novelty territory rather than anything practical.
 
@@ -52,13 +52,13 @@ No research papers, established training programs, or commercial truffle operati
 
 Pigs are the traditional truffle hunters. They are naturally drawn to truffles because the fungi produce a compound similar to a boar pheromone, so pigs need zero training to find them.
 
-Dogs have taken over as the preferred choice in most of the world. They are easier to train, easier to handle in the field, and they do not try to eat every truffle they locate. Goats have a decent nose, but they have not been bred for scent work the way hound breeds have, which makes reliable training much harder.
+Dogs have taken over as the preferred choice in most of the world. They are easier to train, easier to handle in the field, and they do not try to eat every truffle they locate. While [goats can be tamed](/posts/can-goats-be-tamed) and trained for many tasks, they have not been bred for scent work the way hound breeds have, which makes reliable truffle training much harder.
 
 ## Tips for training your goat to find truffles
 
 If you want to try it as a backyard experiment, start by hiding a piece of truffle or a rag with truffle oil in your yard. Reward the goat with a treat when she sniffs out the right spot.
 
-The real problem is getting a goat to alert without eating the truffle. Goats are not known for impulse control around food. You would need a rock-solid "leave it" command before heading to the woods, and even then your odds are slim.
+The real problem is getting a goat to alert without eating the truffle. [Goats do form strong bonds with humans](/posts/can-goats-love-humans), but they are not known for impulse control around food. You would need a rock-solid "leave it" command before heading to the woods, and even then your odds are slim.
 
 ## Can goats eat truffles?
 
@@ -70,11 +70,11 @@ The issue is cost. Black truffles sell for $300 to $800 per pound, and white tru
 
 Truffle prices depend on species, season, and market. European black truffles bring $300 to $800 per pound wholesale, while Oregon black truffles run $50 to $150 per pound.
 
-Finding them consistently is the hard part. Truffles grow underground near the roots of specific trees like oak, hazelnut, and beech. Without a trained animal to pinpoint the exact spot, you are just guessing and digging random holes.
+Finding them consistently is the hard part, so if you want to [make money from goats](/posts/can-goats-make-money), breeding stock and brush clearing are far more realistic options. Truffles grow underground near the roots of specific trees like oak, hazelnut, and beech. Without a trained animal to pinpoint the exact spot, you are just guessing and digging random holes.
 
 ## What are truffles and what do they taste like?
 
-Truffles are fungi that grow underground in a symbiotic relationship with certain tree roots. Black truffles taste earthy with hints of chocolate and mushroom, while white truffles are more pungent and garlicky.
+Truffles are fungi that grow underground in a symbiotic relationship with certain tree roots, often near the same oaks that drop [acorns](/posts/can-goats-eat-acorns) your goats love. Black truffles taste earthy with hints of chocolate and mushroom, while white truffles are more pungent and garlicky.
 
 They cannot be farmed like regular mushrooms, which is why they cost so much. Some growers have planted inoculated tree seedlings and harvested truffles years later, but the process is slow and unpredictable.
 

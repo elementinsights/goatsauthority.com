@@ -42,7 +42,7 @@ Yes, mini pigs and fainting goats can live together, and they often get along gr
 
 ## Can mini pigs and fainting goats be kept together?
 
-These two species can share a pasture and even a shelter without major problems. Both are social creatures that benefit from having companions around, and many farmers run them together successfully.
+These two species can share a pasture and even a shelter without major problems. Both are social creatures that benefit from having companions around, and many farmers run them together successfully. If you are also thinking about mixed-species housing, our guide on [keeping a sheep with goats](/can-one-sheep-live-with-goats) covers additional considerations.
 
 The fainting goats' myotonia (the muscle stiffness that makes them "faint") doesn't create any issues when living with pigs. The goats recover in seconds and the pigs learn to ignore it pretty quickly.
 
@@ -50,13 +50,13 @@ The fainting goats' myotonia (the muscle stiffness that makes them "faint") does
 
 Mini pigs are smaller domestic pigs that typically weigh between 50 and 150 pounds as adults, though some grow larger depending on the breed. They're intelligent, curious, and can form strong bonds with their owners and other animals.
 
-Fainting goats, also called myotonic goats, have a genetic condition that causes their muscles to stiffen when they're startled. They don't actually faint or lose consciousness. They're a hardy, smaller breed that's popular on hobby farms.
+Fainting goats, also called myotonic goats, have a genetic condition that causes their muscles to stiffen when they're startled. They don't actually faint or lose consciousness. You can even [breed screaming and fainting goats together](/can-you-breed-screaming-and-fainting-goats) if you want to explore the genetics further. They're a hardy, smaller breed that's popular on hobby farms.
 
 ## How do you care for mini pigs and fainting goats separately or together on the same farm or property?
 
 The biggest challenge is feeding. Goat minerals contain copper at levels that are toxic to pigs over time, and pig feed is too high in salt and too low in fiber for goats.
 
-Set up completely separate feeding stations and make sure each animal only has access to its own feed. A pig-height feeder that goats can't reach and a hay rack that pigs can't get into solves most of the problem.
+Set up completely separate feeding stations and make sure each animal only has access to its own feed. A pig-height feeder that goats can't reach and a hay rack that pigs can't get into solves most of the problem. Using [pine chips as bedding](/can-pine-chips-be-used-as-bedding-for-goats) in shared shelters helps manage odor from both species.
 
 ## What are the benefits of keeping mini pigs and fainting goats together on the same farm or property?
 
@@ -66,13 +66,13 @@ They also use pasture differently. Goats browse on brush and weeds while pigs ro
 
 ## What are the risks of keeping mini pigs and fainting goats together on the same farm or property?
 
-Pigs are rooters by nature and will tear up pasture and destroy goat bedding if you don't manage them. Providing the pigs with a designated rooting area helps protect your pasture and keeps the goat shelter clean.
+Pigs are rooters by nature and will tear up pasture and destroy goat bedding if you don't manage them. Providing the pigs with a designated rooting area helps protect your pasture and keeps the goat shelter clean. Some homesteaders also wonder about housing [pygmy goats with chickens](/can-pygmy-goats-sleep-with-chickens), which presents its own set of challenges.
 
-Disease transmission between the two species is low, but it's not zero. Keep both animals current on their vaccinations and have your vet check any new additions before introducing them to the group.
+Disease transmission between the two species is low, but it's not zero. Keep both animals current on their vaccinations and have your vet check any new additions before introducing them to the group. On farms with mixed livestock, [goats and chickens can even share a barn](/can-goats-pigs-and-chickens-live-in-the-same-barn) with the right management.
 
 ## When is the best time to introduce mini pigs and fainting goats to each other?
 
-Young animals adjust to each other faster than adults. If you can raise them together from a young age, they'll form bonds naturally and there's usually no conflict.
+Young animals adjust to each other faster than adults. If you can raise them together from a young age, they'll form bonds naturally and there's usually no conflict. This approach mirrors the way [goats can live in urban environments](/can-goats-live-in-an-urban-environment) when they are socialized early to new surroundings.
 
 If you're introducing adults, do it through a fence first so they can see and smell each other without direct contact. Give them a week or two of fence-line introduction before letting them share the same space, and always supervise the first few days together.
 

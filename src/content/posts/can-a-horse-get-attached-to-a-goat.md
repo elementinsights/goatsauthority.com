@@ -58,23 +58,23 @@ Mutual grooming is one of the strongest signs of attachment. The horse will nibb
 
 Start by housing them in adjacent stalls or pens where they can see and smell each other through a fence. Give them a few days to get used to each other before sharing the same space.
 
-Feed them near each other but at separate stations. Horse feed often contains monensin, which is toxic to goats, so a creep feeder that only the goat can access is essential. Once they are comfortable eating near each other, turn them out in the same pasture and let the relationship develop naturally.
+Feed them near each other but at separate stations. Horse feed often contains monensin, which is toxic to goats, so a creep feeder that only the goat can access is essential. Before you bring home a companion goat, [check your local regulations](/can-i-have-goats-where-i-live/) to make sure goats are allowed on your property. Once they are comfortable eating near each other, turn them out in the same pasture and let the relationship develop naturally.
 
 ## What are the benefits of a horse-goat bond?
 
 The biggest benefit is reduced stress and anxiety, especially for horses that are stalled alone or prone to weaving and cribbing. A calm goat presence in the barn can settle a nervous horse better than almost anything else.
 
-Goats are also practical companions for horses that cannot be turned out with other horses due to aggression or injury recovery. They provide social interaction without the risk of getting kicked or bitten by another horse. Many show barns and racing stables keep goats specifically for this purpose.
+Goats are also practical companions for horses that cannot be turned out with other horses due to aggression or injury recovery. They provide social interaction without the risk of getting kicked or bitten by another horse. Some farms even [make money from goats](/can-goats-make-money/) while using them as horse companions. Many show barns and racing stables keep goats specifically for this purpose.
 
 ## Are there any risks associated with bonding your horses and goats?
 
 The main risk is separation anxiety. Once these two bond, pulling them apart for vet visits, shows, or travel can cause real distress in both animals. Some horse owners bring the companion goat along to events just to keep the horse settled.
 
-On the practical side, goats can be pushy. A large goat that head-butts a horse's legs can cause bruising or injury. You also need to be aware that horses and goats share some parasites, so rotating pastures and maintaining separate deworming schedules is important.
+On the practical side, goats can be pushy. A large goat that head-butts a horse's legs can cause bruising or injury. Some breeds like [Nubians](/can-a-nubian-goat-climb-trees/) are large enough that their head-butting can be particularly forceful. You also need to be aware that horses and goats share some parasites, so rotating pastures and maintaining separate deworming schedules is important.
 
 ## How can you prevent or break up an unwanted bond between your horses and goats?
 
-If you need to separate them permanently, do it gradually. Introduce the goat to another companion, whether that is a second goat, a sheep, or a donkey, before removing the horse from the picture.
+If you need to separate them permanently, do it gradually. Introduce the goat to another companion, whether that is a second goat, a sheep, or a donkey, before removing the horse from the picture. You could even pair a [Pygmy nanny with a Nigerian Dwarf billy](/can-a-pygmy-goat-nanny-breed-with-a-nigerian-dwarf-billy/) to give the goat a same-species friend.
 
 Cold turkey separations can lead to days of screaming, pacing, and refusal to eat from both animals. A slow transition over a week or two, with decreasing time together and increasing time apart, is much easier on everyone involved.
 

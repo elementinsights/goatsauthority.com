@@ -56,23 +56,23 @@ Nubians also like being up high because it gives them a better view of their sur
 
 Nubians are one of the most popular dairy breeds in the United States. They are known for their long pendulous ears, Roman nose, and loud personalities.
 
-Their milk has the highest butterfat content of any standard dairy breed, which makes it great for cheese and soap. Nubians were originally developed from crosses between English dairy goats and lop-eared breeds from North Africa and the Middle East.
+Their milk has the highest butterfat content of any standard dairy breed, which makes it great for cheese and soap. Unlike [Saanens that breed only seasonally](/can-a-saanen-goat-have-babies-year-round/), Nubians have a slightly extended breeding window. Nubians were originally developed from crosses between English dairy goats and lop-eared breeds from North Africa and the Middle East.
 
 ## What are the dangers of letting your Nubian goat climb trees?
 
 The biggest danger is falling. A Nubian that slips off a branch from even a few feet up can break a leg or injure her udder, and either one can be a career-ending injury for a dairy doe.
 
-Heavy goats also snap branches that would easily hold a smaller breed. A broken branch under a 150-pound goat means a sudden drop with no warning, and the goat has no time to brace herself.
+Heavy goats also snap branches that would easily hold a smaller breed. A broken branch under a 150-pound goat means a sudden drop with no warning, and the goat has no time to brace herself. Even a small [Nigerian Dwarf buck mounted on a Boer doe](/can-a-nigerian-buck-goat-mount-a-female-boer-goat/) weighs a fraction of what a Nubian does, showing how much breed size matters for climbing safety.
 
 ## How to safely allow your Nubian goat to climb trees?
 
 If you have a low-branching tree in your pasture, let them browse the lower limbs but discourage climbing higher than a few feet off the ground. Trimming upper branches removes the temptation to go higher.
 
-A better option is to build dedicated climbing structures in their pen. Old wooden cable spools stacked at different heights make a great multi-level playground, and you can usually pick them up for free from utility companies or construction sites. Bolt them together so they cannot tip under the weight of a full-grown Nubian.
+A better option is to build dedicated climbing structures in their pen. If you're wondering whether [goats can be profitable](/can-goats-make-money/), offering a stimulating environment keeps them healthier and more productive. Old wooden cable spools stacked at different heights make a great multi-level playground, and you can usually pick them up for free from utility companies or construction sites. Bolt them together so they cannot tip under the weight of a full-grown Nubian.
 
 ## Tips for taking care of a Nubian goat that likes to climb trees
 
-Keep your fencing at least 5 feet tall. Nubians that enjoy climbing are also the ones most likely to go over a fence when they are bored or see something interesting on the other side.
+Keep your fencing at least 5 feet tall. Nubians that enjoy climbing are also the ones most likely to go over a fence when they are bored or see something interesting on the other side. Providing a [horse companion](/can-a-horse-get-attached-to-a-goat/) can reduce fence-testing behavior by keeping them socially engaged.
 
 Provide rocks, stumps, and platforms inside their pen so they can satisfy their climbing urge safely. A goat that has plenty to climb on in her own space is far less motivated to escape or scale a dangerous tree.
 

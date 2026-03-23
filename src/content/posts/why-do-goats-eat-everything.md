@@ -45,19 +45,19 @@ Goats are browsers, not garbage disposals. They're picky about what they swallow
 
 They don't. Goats taste things with their lips and tongue as a way of exploring their environment, the same way a toddler picks up objects and puts them in their mouth.
 
-They'll mouth a shirt sleeve, a feed bag, or a piece of cardboard, but they spit out most of what they don't actually want to eat. When you see a goat "eating" a tin can label, it's going after the glue on the paper, not the metal.
+They'll mouth a shirt sleeve, a feed bag, or a piece of cardboard, but they spit out most of what they don't actually want to eat. When you see a goat "eating" a tin can label, it is going after the glue on the paper, [not the metal itself](/posts/do-goats-eat-metal).
 
 ## What makes goats eat everything?
 
 Goats are browsers, not grazers like cattle. They prefer shrubs, bark, weeds, brambles, and leafy branches over flat pasture grass. Given the choice between a lush lawn and a brushy hillside, a goat will head for the brush every time.
 
-This browsing instinct means they're always sampling new plants and testing different textures. Their natural curiosity leads them to investigate anything new in their environment, which gives the appearance of eating everything when they're really just checking things out. Their mobile upper lips are incredibly sensitive and help them sort through vegetation before they bite.
+This browsing instinct means they are always sampling new plants and testing different textures. Despite the myth, goats [do not eat meat](/posts/do-goats-eat-meat) and are strict herbivores. Their natural curiosity leads them to investigate anything new in their environment, which gives the appearance of eating everything when they are really just checking things out. Their mobile upper lips are incredibly sensitive and help them sort through vegetation before they bite.
 
 ## The dangers of letting goats eat everything
 
 The real danger isn't that goats eat everything. It's that many common plants and yard items are toxic to them.
 
-Azaleas, rhododendrons, wild cherry leaves, and yew are all deadly to goats. Loose baling twine, plastic bags, and rubber bands can cause intestinal blockages if swallowed. You need to walk your pasture and remove anything that could harm a curious goat.
+Azaleas, rhododendrons, wild cherry leaves, and yew are all deadly to goats. Loose baling twine, plastic bags, and rubber bands can cause intestinal blockages if swallowed. You need to walk your pasture and remove anything that could harm a curious goat. Their [four-compartment digestive system](/posts/how-many-stomachs-do-goats-have) can handle tough plant fiber but not toxic plants or foreign objects.
 
 ## How to stop goats from eating everything?
 
@@ -67,7 +67,7 @@ Fencing off your garden, flower beds, and any areas with toxic plants is the mos
 
 ## What to feed a goat?
 
-Good quality grass hay or mixed hay should be the foundation of any goat's diet. Alfalfa hay works well for pregnant or lactating does but is too rich for most other goats.
+Good quality grass hay or mixed hay should be the foundation of any goat's diet. Understanding [what kind of hay goats actually need](/posts/what-kind-of-hay-do-goats-eat) prevents both waste and health issues. Alfalfa hay works well for pregnant or lactating does but is too rich for most other goats.
 
 Fresh browse is what goats love most: brush, weeds, tree branches, and shrubs. Offer a loose goat mineral mix free-choice and always provide clean water. Grain should be limited and used mainly for milking does, growing kids, or goats that need extra calories.
 
@@ -75,7 +75,7 @@ Fresh browse is what goats love most: brush, weeds, tree branches, and shrubs. O
 
 Avoid feeding moldy hay or grain, as mold can cause listeriosis which is often fatal. Dog food, cat food, and chicken feed are all harmful to goats because of the copper and other ingredients formulated for different species.
 
-Never feed lawn clippings, as the fermentation that starts immediately after cutting can cause deadly bloat. Avocado, rhubarb leaves, and anything from the nightshade family should be kept well away from your goats.
+Never feed lawn clippings, as the fermentation that starts immediately after cutting can cause deadly [bloat that needs emergency treatment](/posts/can-you-debloat-a-goat). Avocado, rhubarb leaves, and anything from the nightshade family should be kept well away from your goats.
 
 ## Final Thoughts
 

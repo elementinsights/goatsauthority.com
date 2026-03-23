@@ -57,7 +57,7 @@ Several conservation programs in the mid-Atlantic states have successfully used 
 
 Mile-a-minute weed gets its other common name, Asiatic tearthumb, from the small barbed thorns along its stems. These thorns can scratch the inside of a goat's mouth and lips.
 
-In practice, most goats handle this just fine. Their mouths are tougher than you'd expect, and they've been eating thorny plants like blackberry and multiflora rose for thousands of years. The scratches are minor and heal quickly.
+In practice, most goats handle this just fine. Their mouths are tougher than you'd expect, and they've been eating thorny plants like blackberry and [pine needles](/can-goats-eat-pine-needles/) for thousands of years. The scratches are minor and heal quickly.
 
 If you notice any goats avoiding the plant or showing signs of mouth irritation, pull them off the patch and let them browse on something else for a few days. This is uncommon, but some individual goats are more sensitive than others.
 
@@ -65,17 +65,17 @@ If you notice any goats avoiding the plant or showing signs of mouth irritation,
 
 If you're dealing with a mile-a-minute infestation and want to use goats to manage it, start by fencing off the affected area with temporary electric netting. This keeps the goats focused on the target area and prevents them from wandering off to eat your garden instead.
 
-Let the goats browse the area until they've eaten the vine down to the stems. Then move them to a different section or back to their regular pasture. The vine will try to regrow, so plan to rotate goats back through the same area several times during the growing season.
+Let the goats browse the area until they've eaten the vine down to the stems. Then move them to a different section or back to their regular pasture with [hay](/what-kind-of-hay-do-goats-eat/) and their normal feed routine. The vine will try to regrow, so plan to rotate goats back through the same area several times during the growing season.
 
 It usually takes two to three growing seasons of repeated grazing to seriously weaken a well-established mile-a-minute infestation. Don't expect overnight results, but the progress each year is noticeable.
 
 ## Other plants goats can safely browse
 
-If you've got goats clearing invasive weeds, they'll probably encounter other plants in the process. Multiflora rose, Japanese honeysuckle, kudzu, and poison ivy are all safe for goats and are commonly targeted in managed grazing programs.
+If you've got goats clearing invasive weeds, they'll probably encounter other plants in the process. Multiflora rose, Japanese [honeysuckle](/can-goats-eat-honeysuckle/), kudzu, and poison ivy are all safe for goats and are commonly targeted in managed grazing programs.
 
-Goats also eat blackberry brambles, thistles, and dandelions without any problems. They actually prefer browse and weedy plants over grass, which is why they're so well-suited for vegetation management.
+Goats also eat [blackberry](/can-goats-eat-blackberries/) brambles, thistles, and dandelions without any problems. They actually prefer browse and weedy plants over grass, which is why they're so well-suited for vegetation management.
 
-Just make sure the area you're clearing doesn't contain any plants that are toxic to goats, like yew, rhododendron, or mountain laurel. Walk the site first and remove or fence off anything dangerous before turning the goats loose.
+Just make sure the area you're clearing doesn't contain any plants that are toxic to goats, like yew, rhododendron, or [poison hemlock](/can-goats-eat-poison-hemlock/). Walk the site first and remove or fence off anything dangerous before turning the goats loose.
 
 ## Final Thoughts
 

@@ -59,19 +59,19 @@ In spring, the shrub produces clusters of bright yellow flowers. By late summer,
 
 The primary concern is berberine, which is concentrated throughout the plant, especially in the roots and bark. In large amounts, berberine can disrupt the rumen bacteria that goats depend on for digestion.
 
-When rumen bacteria get thrown off balance, goats can't properly ferment their food. This leads to gas buildup, reduced nutrient absorption, diarrhea, and general digestive distress. The berries are mildly toxic as well. A goat that eats a small amount of Oregon grape likely won't show any symptoms, but repeated or heavy consumption could cause noticeable problems.
+When rumen bacteria get thrown off balance, goats can't properly ferment their food. This is similar to how [moldy hay](/can-goats-eat-moldy-hay/) disrupts digestion. This leads to gas buildup, reduced nutrient absorption, diarrhea, and general digestive distress. The berries are mildly toxic as well. A goat that eats a small amount of Oregon grape likely won't show any symptoms, but repeated or heavy consumption could cause noticeable problems.
 
 ## How to prevent your goats from eating Oregon grapes?
 
 Most goats steer clear of Oregon grape naturally due to its bitter taste and spiny leaves. If you've got goats that seem interested in it anyway, the best prevention is making sure they have plenty of other browse options available.
 
-A well-fed goat with diverse forage is unlikely to eat enough Oregon grape to cause problems. If you have a lot of Oregon grape growing in your pasture and limited other browse, consider fencing it off or removing some of the plants. Planting goat-friendly alternatives like blackberry, willow, or raspberry nearby gives your herd better options.
+A well-fed goat with diverse forage is unlikely to eat enough Oregon grape to cause problems. If you have a lot of Oregon grape growing in your pasture and limited other browse, consider fencing it off or removing some of the plants. Planting goat-friendly alternatives like [blackberry](/can-goats-eat-blackberries/), willow, or [honeysuckle](/can-goats-eat-honeysuckle/) nearby gives your herd better options.
 
 ## What are the treatments for goats that have eaten Oregon grapes?
 
 If your goat ate a small amount, just keep an eye on it. Watch for signs of digestive upset like loose stools, decreased appetite, or unusual lethargy over the next 24 hours.
 
-For a goat that ate a larger quantity, offer plenty of fresh water and quality hay to help the rumen recover. The fiber from hay helps buffer the digestive system and restore normal function. If symptoms like persistent diarrhea, dark urine, or loss of coordination develop, contact your vet. These could indicate that the berberine is affecting the liver or kidneys and veterinary intervention may be needed.
+For a goat that ate a larger quantity, offer plenty of fresh water and quality [hay](/what-kind-of-hay-do-goats-eat/) to help the rumen recover. The fiber from hay helps buffer the digestive system and restore normal function. If symptoms like persistent diarrhea, dark urine, or loss of coordination develop, contact your vet. These could indicate that the berberine is affecting the liver or kidneys and veterinary intervention may be needed.
 
 ## How to care for Oregon grapes?
 
@@ -81,7 +81,7 @@ Oregon grape thrives in partial shade with well-drained soil and requires very l
 
 ## Are there any benefits to eating Oregon grapes?
 
-For goats, no. There are no meaningful nutritional benefits that would justify letting your goats eat Oregon grape when there are so many safer options available.
+For goats, no. There are no meaningful nutritional benefits that would justify letting your goats eat Oregon grape when there are so many safer options like [dandelions](/can-goats-eat-dandelions/) and pine needles available.
 
 The berries are edible for humans and can be made into jelly or wine. The roots have been used in traditional herbal medicine. But none of that applies to your goat herd. There are plenty of browse options that provide actual nutrition without the berberine risk.
 
@@ -89,4 +89,4 @@ The berries are edible for humans and can be made into jelly or wine. The roots 
 
 Oregon grape isn't going to kill your goats, but it's not a plant you want them eating regularly. The berberine content can cause digestive problems in significant amounts, though most goats avoid it naturally because of the bitter taste and spiny leaves.
 
-If you've got Oregon grape growing in your pasture, make sure your goats have plenty of better browse available. Remove the plants from the grazing area if your goats seem persistently interested in them, and replace them with safe alternatives like blackberry, willow, or mulberry.
+If you've got Oregon grape growing in your pasture, make sure your goats have plenty of better browse available. Remove the plants from the grazing area if your goats seem persistently interested in them, and replace them with safe alternatives like [blackberry](/can-goats-eat-blackberries/), willow, or maple trees.

@@ -51,7 +51,7 @@ What actually happens is that goats pick up worm larvae from contaminated pastur
 
 ## What do goats eat, and why they might be interested in acorns?
 
-Goats are browsers by nature, meaning they prefer leaves, bark, and woody plants over plain grass. They'll happily strip oak branches and munch on whatever drops to the ground.
+Goats are browsers by nature, meaning they prefer leaves, bark, and woody plants over plain grass. Despite the reputation that [goats eat everything](/posts/can-goats-eat-everything), they have definite preferences. They'll happily strip oak branches and munch on whatever drops to the ground.
 
 Acorns are high in fat and carbohydrates, which makes them appealing to goats in the fall. Most goats will seek them out if oak trees are anywhere near their pasture.
 
@@ -59,7 +59,7 @@ Acorns are high in fat and carbohydrates, which makes them appealing to goats in
 
 In moderate amounts, acorns can be a decent seasonal supplement. The tannins in acorns have been studied for anti-parasitic properties and may actually help reduce worm egg counts in goat feces.
 
-Oak browse and acorns also provide variety in the diet, which keeps goats interested in foraging. Just don't let acorns make up more than about 25% of their total intake, or you're asking for trouble.
+Oak browse and [acorns](/posts/can-goats-eat-acorns) also provide variety in the diet, which keeps goats interested in foraging. Just don't let acorns make up more than about 25% of their total intake, or you're asking for trouble.
 
 ## How many acorns should a goat eat per day?
 
@@ -69,9 +69,9 @@ Green, unripe acorns have the highest tannin concentrations and are the most dan
 
 ## Symptoms of worms in goats
 
-Goats with a heavy worm load will show pale inner eyelids (check using the FAMACHA scoring system), a rough coat, weight loss, and sometimes a swollen jaw called "bottle jaw." Diarrhea and general weakness are also common signs.
+Goats with a heavy worm load will show pale inner eyelids (check using the FAMACHA scoring system), a rough coat, weight loss, and sometimes a swollen jaw called "bottle jaw." Severe cases can lead to [stroke-like symptoms from anemia](/posts/can-goats-have-a-stroke-anemia). Diarrhea and general weakness are also common signs.
 
-Young goats and does in late pregnancy are the most vulnerable to parasite problems. A healthy adult goat can carry a moderate worm burden without showing major symptoms, but kids can go downhill fast.
+Young goats and does in late pregnancy are the most vulnerable to parasite problems. If you need to treat a pregnant doe, there are [safe ways to deworm pregnant goats](/posts/can-you-deworm-a-pregnant-goat). A healthy adult goat can carry a moderate worm burden without showing major symptoms, but kids can go downhill fast.
 
 ## How to prevent goats from getting worms?
 
@@ -81,7 +81,7 @@ FAMACHA scoring lets you check each goat's anemia level by examining the color o
 
 ## How to treat worms in goats?
 
-When deworming is necessary, work with your vet to choose the right product and dose. Common options include fenbendazole, ivermectin, and moxidectin, but resistance varies by region and farm.
+When deworming is necessary, work with your vet to choose the right product and dose. Avoid shortcuts like [cattle dewormer blocks](/posts/can-goats-have-cattle-dewormer-blocks) which promote resistance. Common options include fenbendazole, [ivermectin](/posts/can-i-use-ivermectin-pour-on-in-sheep-and-goats), and moxidectin, but resistance varies by region and farm.
 
 Always dose by weight using a livestock scale rather than guessing. Underdosing is one of the main drivers of dewormer resistance, and once your local worm population becomes resistant to a drug class, that product stops working entirely.
 

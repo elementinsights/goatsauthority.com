@@ -61,7 +61,7 @@ Sweetgum trees (Liquidambar styraciflua) are native to North America and look co
 
 ## What are the health benefits of eating gum tree leaves?
 
-Sweetgum leaves offer basic nutritional value as browse. They provide fiber and trace minerals that supplement a goat's regular diet, similar to most deciduous tree leaves.
+Sweetgum leaves offer basic nutritional value as browse. They provide fiber and trace minerals that supplement a goat's regular diet, similar to most deciduous tree leaves like [acorns and oak foliage](/can-goats-eat-acorns/).
 
 Eucalyptus leaves have very limited value for goats. The high oil content makes them less digestible, and the smell deters most animals from eating much.
 
@@ -75,11 +75,11 @@ Eucalyptus carries more risk. The eucalyptol oil can cause drooling, loss of coo
 
 First, identify exactly which gum tree species you have. If it's sweetgum, you don't need to worry at all.
 
-If you have eucalyptus, fence those trees off or make sure your goats have plenty of other browse available. A goat with diverse forage options is far less likely to eat enough eucalyptus to cause problems. Your local ag extension office can help with identification if you're unsure.
+If you have eucalyptus, fence those trees off or make sure your goats have plenty of other browse available, such as [honeysuckle](/can-goats-eat-honeysuckle/) or dandelions. A goat with diverse forage options is far less likely to eat enough eucalyptus to cause problems. Your local ag extension office can help with identification if you're unsure.
 
 ## Are there any side effects to eating gum tree leaves regularly?
 
-Goats that browse on sweetgum leaves regularly won't have any side effects. It's just another part of a varied diet, similar to maple or oak leaves.
+Goats that browse on sweetgum leaves regularly won't have any side effects. It's just another part of a varied diet, similar to [maple leaves](/can-goats-eat-maple-leaves/) or oak leaves.
 
 Regular eucalyptus consumption is more concerning. The volatile oils can accumulate and cause chronic digestive irritation over time. If your goats keep eating eucalyptus because nothing else is available, that's a sign you need to provide better forage options.
 
@@ -93,11 +93,11 @@ For eucalyptus, less is better. A few leaves here and there won't hurt, but it s
 
 All goat breeds can browse on sweetgum leaves without any concerns. It's safe across the board for adults, kids, pregnant does, and everything in between.
 
-With eucalyptus, young kids and pregnant does are more sensitive to the oils. Be extra cautious with these groups if you have eucalyptus on your property and make sure they have plenty of alternative browse.
+With eucalyptus, young kids and pregnant does are more sensitive to the oils. Be extra cautious with these groups if you have eucalyptus on your property and make sure they have plenty of alternative browse like [pine trees](/can-goats-eat-pine-trees/) or blackberries.
 
 ## Are there any alternative ways to feed goats gum tree leaves?
 
-Rather than going out of your way to offer gum tree leaves, focus on providing a variety of quality browse. Willow, mulberry, blackberry, and raspberry leaves are all excellent options that goats love and that provide real nutritional value.
+Rather than going out of your way to offer gum tree leaves, focus on providing a variety of quality browse. Willow, mulberry, blackberry, and raspberry leaves are all excellent options that goats love and that provide real nutritional value. A diet built on [alfalfa](/can-goats-eat-alfalfa/) or timothy hay alongside browse gives your herd the best foundation.
 
 The best thing you can do is give your goats access to diverse browse alongside their regular hay and minerals. Sweetgum can be part of that mix if you have it on your property, but it shouldn't be anyone's main feeding strategy.
 

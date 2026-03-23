@@ -58,7 +58,7 @@ Their pupils also rotate up to 50 degrees to stay level with the ground, even wh
 
 Because their eyes sit on the sides of their head, goats have strong peripheral vision but limited depth perception directly in front of them. They can watch for threats from almost any angle while still keeping an eye on what they're eating.
 
-Goats also have a tapetum lucidum, a reflective layer behind the retina that amplifies available light. This gives them solid night vision, which is why they can navigate around the pasture even after dark.
+Goats also have a tapetum lucidum, a reflective layer behind the retina that amplifies available light. This gives them solid night vision, which is why they can navigate around the pasture even after dark thanks to a combination of those eyes and their [split cloven hooves that grip uneven terrain](/posts/do-goats-have-cloven-hooves).
 
 Their color vision is limited compared to ours. Goats can see blues and yellows but likely see reds and greens as muted shades, similar to a person with red-green color blindness.
 
@@ -74,17 +74,17 @@ For farmers, good vision in the herd translates to fewer vet bills and injuries 
 
 Keep their living area clean and free of dust, cobwebs, and sharp objects at eye level. Eye injuries from protruding nails, wire, or thorny brush are more common than you'd think.
 
-Feed a balanced diet that includes adequate vitamin A, which plays a direct role in eye health. Quality hay, fresh browse, and a good loose mineral supplement usually cover the bases.
+Feed a balanced diet that includes adequate vitamin A, which plays a direct role in eye health. The goat's [four-compartment stomach](/posts/how-many-stomachs-do-goats-have) does an excellent job extracting these nutrients from quality hay, fresh browse, and a good loose mineral supplement.
 
 Have your vet check your goats' eyes during routine visits, especially as they get older. Catching problems like pinkeye, cataracts, or entropion early makes treatment much easier.
 
 ## What kind of eye care should be provided for goats, especially as they get older?
 
-Pinkeye is the most common eye issue in goats, caused by bacteria or irritants like dust and flies. If you notice watery, red, or cloudy eyes, isolate the goat and consult your vet since pinkeye spreads fast through a herd.
+Pinkeye is the most common eye issue in goats, caused by bacteria or irritants like dust and flies. Knowing how [goat teeth work](/posts/do-goats-have-teeth) can help you assess overall health alongside eye checks. If you notice watery, red, or cloudy eyes, isolate the goat and consult your vet since pinkeye spreads fast through a herd.
 
 Older goats can develop cataracts, which show up as a white clouding in the lens. Cataracts can sometimes be surgically removed, but many older goats adapt surprisingly well to reduced vision since they rely on their herd mates for guidance.
 
-Entropion, where the eyelid rolls inward and the lashes scratch the eye, is more common in certain breeds and in newborn kids. It needs veterinary attention quickly to prevent permanent damage to the cornea.
+Entropion, where the eyelid rolls inward and the lashes scratch the eye, is more common in certain breeds and in newborn kids. It needs veterinary attention quickly to prevent permanent damage to the cornea, and knowing [how many kids your doe will deliver](/posts/how-many-babies-do-goats-have-at-a-time) helps you prepare for checking each one at birth.
 
 ## What are some common myths about goats' vision that you may have heard before?
 
@@ -92,7 +92,7 @@ The biggest myth is that goats are nearly blind. In reality, their vision is far
 
 Another common myth is that goats see only in black and white. They do see colors, just not the full spectrum that humans enjoy. Blues and yellows come through clearly while reds and greens are more muted.
 
-Some people also believe goats have poor night vision, but the opposite is true. That reflective tapetum lucidum gives them much better low-light vision than humans have.
+Some people also believe goats have poor night vision, but the opposite is true. That reflective tapetum lucidum gives them much better low-light vision than humans have, and understanding [how goats lack upper front teeth](/posts/do-goats-have-top-teeth) is another common area where misconceptions spread.
 
 ## Final Thoughts
 

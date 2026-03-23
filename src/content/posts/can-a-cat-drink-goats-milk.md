@@ -45,7 +45,7 @@ There are a few things worth knowing before you start pouring a saucer for your 
 
 Yes, cats can drink goat's milk, and many cat owners actually prefer it over cow's milk. Goat's milk has smaller fat globules and lower lactose levels than cow's milk, which makes it easier for cats to digest.
 
-That doesn't make it a meal replacement, though. Cats are obligate carnivores, meaning they need meat-based protein to thrive. Goat's milk should only be offered as an occasional treat or supplement, never as a substitute for water or proper cat food.
+That doesn't make it a meal replacement, though. Cats are obligate carnivores, meaning they need meat-based protein to thrive. If you have excess milk, consider [making and selling goat milk butter](/can-i-sell-goat-milk-butter/) rather than giving it all to the cat. Goat's milk should only be offered as an occasional treat or supplement, never as a substitute for water or proper cat food.
 
 ## Why goat's milk is easier on cats than cow's milk
 
@@ -55,7 +55,7 @@ The fat structure is different too. Goat's milk fat globules are smaller and mor
 
 ## When goat's milk can be helpful for cats
 
-Goat's milk is most commonly used as an emergency supplement for orphaned kittens when proper kitten formula isn't available. It's closer to cat's milk in composition than cow's milk, making it a better short-term stand-in.
+Goat's milk is most commonly used as an emergency supplement for orphaned kittens when proper kitten formula isn't available. Similarly, [powdered goat milk](/can-a-baby-have-powdered-goats-milk/) can serve as a backup for human babies over 12 months. It's closer to cat's milk in composition than cow's milk, making it a better short-term stand-in.
 
 For adult cats, a tablespoon or two can work as a tasty treat or a way to encourage a picky eater to take in more fluids. Some cat owners also use it to help cats recover from illness, since the extra calories and easy digestibility can be helpful when a cat isn't eating well.
 
@@ -63,13 +63,13 @@ For adult cats, a tablespoon or two can work as a tasty treat or a way to encour
 
 Even though goat's milk is easier to digest, it still contains lactose. Cats that are severely lactose intolerant can still get diarrhea, vomiting, or bloating from even small amounts.
 
-Goat's milk is also calorie-dense. Giving too much on a regular basis can lead to weight gain, especially in indoor cats that don't get much exercise. Keep portions small, a tablespoon or two at a time is plenty for most cats.
+Goat's milk is also calorie-dense. Giving too much on a regular basis can lead to weight gain, especially in indoor cats that don't get much exercise. Some goat owners use their [dairy does as dual-purpose pack goats](/can-a-goat-produce-milk-but-also-be-a-pack-goat/) to get extra value from the animals producing this milk. Keep portions small, a tablespoon or two at a time is plenty for most cats.
 
 ## How to introduce goat's milk to your cat
 
 Start with a very small amount, maybe a teaspoon mixed into their food or offered in a shallow dish. Watch for any signs of stomach upset over the next 12 to 24 hours before offering more.
 
-If your cat handles it fine, you can offer a small amount a few times a week as a treat. Always use pasteurized goat's milk to avoid any risk of harmful bacteria. Raw milk straight from your goat might seem more natural, but it can carry pathogens that are dangerous for cats.
+If your cat handles it fine, you can offer a small amount a few times a week as a treat. You can also [freeze goat milk](/can-goats-milk-be-frozen/) in ice cube trays for convenient single-serving portions. Always use pasteurized goat's milk to avoid any risk of harmful bacteria. Raw milk straight from your goat might seem more natural, but it can carry pathogens that are dangerous for cats.
 
 No particular breed of cat needs goat's milk more than another. Some owners of Siamese, Persians, and Maine Coons report their cats enjoy it more, but that's individual preference rather than a breed requirement.
 
@@ -77,4 +77,4 @@ No particular breed of cat needs goat's milk more than another. Some owners of S
 
 Goat's milk is a safer option for cats than cow's milk, and most cats enjoy the taste. Just remember it's a treat, not a dietary staple.
 
-Keep portions small, choose pasteurized milk, and watch for any digestive issues the first few times you offer it. Fresh water should always be your cat's main source of hydration, with goat's milk as an occasional bonus.
+Keep portions small, choose pasteurized milk, and watch for any digestive issues the first few times you offer it. If you make cheese from your goat milk, know that you can [freeze goat cheese](/can-you-freeze-goat-cheese/) for later use too. Fresh water should always be your cat's main source of hydration, with goat's milk as an occasional bonus.

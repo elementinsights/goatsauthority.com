@@ -44,13 +44,13 @@ Yes, goats can and do climb trees. Anyone who's kept goats for more than a week 
 
 Goats are natural climbers built for rough terrain. Their hooves have a hard outer shell and a soft inner pad that grips surfaces like a rubber sole, which is why they can navigate rocky mountain faces, fence posts, and yes, tree trunks.
 
-They climb for several reasons. Sometimes it's to reach leaves and bark they can't get from the ground. Other times it's pure curiosity or play, especially with younger goats that treat everything as a jungle gym.
+They climb for several reasons. Sometimes it's to reach leaves and bark they can't get from the ground. Other times it's pure curiosity or play, especially with younger goats that treat everything as a jungle gym. This same energy is why goats [jump surprisingly high](/can-goats-jump-high/) and need tall fencing.
 
 ## Do all goats climb trees?
 
 Not all breeds are equally interested in climbing. Smaller, lighter breeds like Nigerian Dwarfs and Pygmies are the most agile climbers because their compact build and low center of gravity give them an advantage on angled surfaces.
 
-Heavier dairy breeds like Saanens and Nubians are less likely to attempt tree climbing simply because of their size. Age matters too. Younger goats between 6 months and 2 years old are the most adventurous, while older, heavier goats tend to keep their hooves on the ground.
+Heavier dairy breeds like Saanens and Nubians are less likely to attempt tree climbing simply because of their size. Age matters too. Younger goats between 6 months and 2 years old are the most adventurous, while older, heavier goats tend to keep their hooves on the ground. Even [domestic goats that don't climb trees](/can-domestic-goats-jump/) still need outlets for their natural athleticism.
 
 ## The famous tree-climbing goats of Morocco
 
@@ -60,7 +60,7 @@ These goats have been climbing argan trees for centuries because the trees are o
 
 ## Benefits of climbing for goats
 
-Climbing provides physical exercise and mental stimulation that keeps goats from getting bored. Bored goats are destructive goats, so giving them something to climb on can save your fences, vehicles, and equipment from damage.
+Climbing provides physical exercise and mental stimulation that keeps goats from getting bored. Bored goats are destructive goats that can also become [aggressive toward humans and herdmates](/can-an-aggressive-goat-be-fixed/), so giving them something to climb on can save your fences, vehicles, and equipment from damage.
 
 Access to browse in trees also adds variety to their diet. Leaves, bark, and twigs from safe tree species provide minerals and roughage that complement their regular hay and grain.
 
@@ -74,10 +74,10 @@ Pruning lower branches removes the on-ramp that goats need to start their climb.
 
 If your goats love to climb, giving them a dedicated structure keeps them off your trees, fences, and vehicles. Cable spools from utility companies make excellent platforms. They're cheap or free, incredibly sturdy, and come in different sizes.
 
-Stack a few rocks, pallets, or wooden platforms in the pen for added variety. Make sure anything you build is stable enough that it won't tip over, because a toppling structure can crush a smaller goat underneath it.
+Stack a few rocks, pallets, or wooden platforms in the pen for added variety. Goats that enjoy climbing can also be trained to [pull a cart](/can-a-goat-pull-a-cart/) since they have the strength and coordination for it. Make sure anything you build is stable enough that it won't tip over, because a toppling structure can crush a smaller goat underneath it.
 
 ## Final Thoughts
 
 Goats are natural climbers, and trying to stop the behavior entirely is fighting their instincts. Give them safe outlets like climbing platforms and sturdy play structures, and protect any trees you don't want them in.
 
-A goat with things to climb on is a happy, well-exercised goat that's less likely to test your fencing or destroy your property looking for a challenge.
+A goat with things to climb on is a happy, well-exercised goat that's less likely to test your fencing or destroy your property looking for a challenge. Goats that [bond with their owners](/can-goats-love-humans/) tend to be even easier to manage in enriched environments.

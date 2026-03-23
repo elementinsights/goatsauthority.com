@@ -50,7 +50,7 @@ Feed about 1/4 to 1/2 cup per goat per day mixed into their grain ration. That's
 
 ## Are Sunflower Seeds Safe for Goats Raw?
 
-Raw sunflower seeds are perfectly safe and actually preferred over roasted or salted varieties. Never feed your goats salted sunflower seeds because the sodium content can cause problems over time.
+Raw sunflower seeds are perfectly safe and actually preferred over roasted or salted varieties. Never feed your goats salted sunflower seeds because the sodium content can cause problems over time, just like [bread](/posts/can-goats-eat-bread) and other processed foods should be limited.
 
 The shells are safe too. Goats crunch right through them without any trouble, and their ruminant digestive system handles the hulls just fine. No need to shell them first.
 
@@ -64,25 +64,25 @@ The hulls provide a small amount of fiber. Striped sunflower seeds have thicker,
 
 The easiest way to serve them is mixed right into the daily grain ration. Just scoop the seeds into the grain and stir, and the goats will eat every last one.
 
-Black oil sunflower seeds are the better choice over striped varieties because they have thinner shells and a higher oil content. If you're introducing sunflower seeds for the first time, start with a small handful per goat and increase gradually over a week.
+Black oil sunflower seeds are the better choice over striped varieties because they have thinner shells and a higher oil content. You can mix them right into the grain ration alongside [oats](/posts/can-goats-eat-oats). If you're introducing sunflower seeds for the first time, start with a small handful per goat and increase gradually over a week.
 
 ## Health and Nutritional Benefits of Sunflower Seeds for Goats
 
 BOSS are loaded with fat, vitamin E, and selenium. The fat improves coat shine noticeably within a couple of weeks, and dairy goat owners often report higher butterfat percentages in the milk.
 
-Vitamin E and selenium work together to support immune function, muscle health, and fertility. In areas where the soil is low in selenium, adding BOSS to the diet provides a natural dietary source that complements a good loose mineral program.
+Vitamin E and selenium work together to support immune function, muscle health, and fertility. For breeding herds looking to [make money from goats](/posts/can-goats-make-money), healthy coats and high fertility are essential selling points. In areas where the soil is low in selenium, adding BOSS to the diet provides a natural dietary source that complements a good loose mineral program.
 
 ## Potential Risks and Problems of Feeding Sunflower Seeds to Goats
 
 The only real risk is feeding too many. Sunflower seeds are high in fat, and too much fat in a ruminant's diet can disrupt the rumen microbes and lead to loose stools or weight gain.
 
-Stick to the 1/4 to 1/2 cup daily limit per goat. Also make sure your seeds are stored in a cool, dry place because moldy sunflower seeds can contain aflatoxins that damage the liver.
+Stick to the 1/4 to 1/2 cup daily limit per goat. Also make sure your seeds are stored in a cool, dry place because [moldy feed of any kind](/posts/can-goats-eat-moldy-hay) can contain aflatoxins that damage the liver.
 
 ## Can Goats Eat Other Parts of the Sunflower Plant?
 
 Goats will happily eat sunflower leaves, stalks, and flower heads. The entire plant is safe and many farmers grow sunflowers specifically as forage for their goats.
 
-Sunflower plants make excellent supplemental browse during the summer months. The leaves are nutritious and the goats seem to enjoy tearing apart the thick stalks as much as eating the seeds themselves.
+Sunflower plants make excellent supplemental browse during the summer months alongside other garden plants like [squash vines](/posts/can-goats-eat-squash). The leaves are nutritious and the goats seem to enjoy tearing apart the thick stalks as much as eating the seeds themselves.
 
 ## Storage and Pesticide Considerations for Sunflower Seeds
 

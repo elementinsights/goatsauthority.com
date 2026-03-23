@@ -45,17 +45,17 @@ Ayurveda has long considered goat milk one of the best milks for children. If yo
 
 Yes, children over 12 months old can have goat milk, and Ayurvedic tradition actively recommends it. In Ayurveda, goat milk is classified as "sattvic," meaning pure and light, which makes it one of the preferred milks for young children.
 
-Goat milk should never replace breast milk or formula for infants under one year old. It doesn't have the right balance of nutrients that babies need in their first year of life.
+Goat milk should never replace breast milk or formula for infants under one year old. It doesn't have the right balance of nutrients that babies need in their first year of life. Once your child is old enough, [goat yogurt is another nutritious option](/can-babies-have-goats-yogurt) that's gentle on developing digestive systems.
 
 ## What is goat milk ayurveda and what are the benefits?
 
 In Ayurvedic medicine, goat milk has been used for centuries to help children with respiratory issues, allergies, and digestive complaints. Practitioners consider it cooling and easy on the stomach compared to cow milk.
 
-Modern science actually backs up some of these traditional claims. Goat milk has smaller fat globules than cow milk, which makes it physically easier to digest, and its protein structure is less allergenic for many children.
+Modern science actually backs up some of these traditional claims. Goat milk has smaller fat globules than cow milk, which makes it physically easier to digest, and its protein structure is less allergenic for many children. Those same properties explain why [goat cheese is less likely to cause bloating](/can-goat-cheese-make-you-bloated) than cow milk cheese in adults.
 
 ## What are the risks of giving goat milk ayurveda to children?
 
-The main risk comes from unpasteurized goat milk, which can carry bacteria like brucellosis, salmonella, and listeria. Always use pasteurized goat milk or boil raw milk thoroughly before giving it to a child.
+The main risk comes from unpasteurized goat milk, which can carry bacteria like brucellosis, salmonella, and listeria. Always use pasteurized goat milk or boil raw milk thoroughly before giving it to a child. Pet owners should also know that [cats can drink goat milk](/can-a-cat-drink-goats-milk) safely as an occasional treat.
 
 Goat milk is also naturally low in folic acid and vitamin B12. If goat milk makes up a large part of your child's diet, talk to your pediatrician about whether supplementation is needed.
 
@@ -63,13 +63,13 @@ Goat milk is also naturally low in folic acid and vitamin B12. If goat milk make
 
 Start with small amounts and watch for any signs of allergic reaction or digestive upset. Most children tolerate goat milk well, but every kid is different.
 
-Choose pasteurized goat milk from a reputable source. If you're buying raw milk directly from a farm, boil it for at least five minutes before serving it to your child.
+Choose pasteurized goat milk from a reputable source. If you're buying raw milk directly from a farm, boil it for at least five minutes before serving it to your child. Families with extra goat milk can also [freeze it for later use](/can-goats-milk-be-frozen) without losing most of its nutritional value.
 
 ## Tips for incorporating goat milk ayurveda into your child's diet
 
 One traditional Ayurvedic preparation is warm goat milk with a pinch of turmeric and a little honey before bedtime. This is believed to support the immune system and help children sleep.
 
-You can also use goat milk in porridge, smoothies, or anywhere you'd normally use cow milk. Ayurvedic practitioners suggest serving it warm rather than cold, as they believe warm milk is easier to digest.
+You can also use goat milk in porridge, smoothies, or anywhere you'd normally use cow milk. Ayurvedic practitioners suggest serving it warm rather than cold, as they believe warm milk is easier to digest. Even [powdered goat milk](/can-a-baby-have-powdered-goats-milk) works well in recipes when fresh milk isn't available.
 
 ## Final Thoughts
 

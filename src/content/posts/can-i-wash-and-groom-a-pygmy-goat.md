@@ -43,7 +43,7 @@ You don't need to bathe them often, but regular brushing and hoof care will keep
 
 Yes, you can absolutely wash and groom your pygmy goat. Most pygmy goats only need a full bath 2 to 3 times per year, or before shows if you're in the show ring.
 
-Don't over-bathe them though. Too many baths strip the natural oils from their coat and leave the skin dry and itchy. Their coat produces oils that help repel water and regulate body temperature, so you want to keep those oils intact.
+Don't over-bathe them though. Too many baths strip the natural oils from their coat and leave the skin dry and itchy. Understanding [how many stomachs goats have](/how-many-stomachs-do-goats-have) also helps explain why a healthy diet directly impacts coat quality. Their coat produces oils that help repel water and regulate body temperature, so you want to keep those oils intact.
 
 ## How to bathe your pygmy goat
 
@@ -59,21 +59,21 @@ Brush your pygmy goat once a week with a slicker brush or stiff-bristled livesto
 
 During spring and fall shedding seasons, you may need to brush every couple of days. Pygmy goats can grow a thick winter coat that sheds out in clumps, and regular brushing keeps the mess under control.
 
-Check their ears for mites or wax buildup while you're grooming. A quick look inside each ear takes 2 seconds and catches problems before they get serious.
+Check their ears for mites or wax buildup while you're grooming. A quick look inside each ear takes 2 seconds and catches problems before they get serious. Mites are a common issue for goats, and learning [whether goats can get mites](/can-goats-get-mites) helps you spot the early signs.
 
 ## Hoof trimming and other maintenance
 
-Trim hooves every 6 to 8 weeks. Overgrown hooves cause foot problems, lameness, and can lead to hoof rot if moisture gets trapped in the folds.
+Trim hooves every 6 to 8 weeks. Overgrown hooves cause foot problems, lameness, and can lead to [hoof rot, which can kill a goat](/can-hoof-rot-kill-a-goat) if moisture gets trapped in the folds.
 
 Use a pair of sharp hoof trimmers and take thin slices until you see a pinkish color starting to show through. That's the quick, and you want to stop before you hit it. If you draw blood, apply some blood stop powder and the goat will be fine.
 
-While you have the goat restrained for hoof work, check for any lumps, bumps, or skin issues you might have missed. This is also a good time to check their body condition by feeling along the spine and ribs.
+While you have the goat restrained for hoof work, check for any lumps, bumps, or skin issues you might have missed. This is also a good time to check their body condition by feeling along the spine and ribs. If you notice any wounds, you can [apply Neosporin to minor cuts](/can-i-put-neosporin-on-my-goats) as a quick first aid measure.
 
 ## Dealing with matted fur
 
 Pygmy goats that spend time outdoors can develop mats in their coat, especially behind the ears and under the belly. Don't grab scissors and try to cut them out because you'll nick the skin before you know it.
 
-Work a little detangling spray or even cooking oil into the mat and tease it apart with your fingers. A slicker brush helps once the mat starts loosening up.
+Work a little detangling spray or even cooking oil into the mat and tease it apart with your fingers. A slicker brush helps once the mat starts loosening up. Regular grooming sessions also let you [deworm your goats on schedule](/can-you-deworm-a-pregnant-goat) and spot parasite problems early.
 
 The best approach is prevention. Brushing 2 to 3 times a week keeps mats from forming in the first place, especially during the thicker winter coat season.
 

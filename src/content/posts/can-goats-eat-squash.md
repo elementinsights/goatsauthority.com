@@ -48,7 +48,7 @@ Raw or cooked, it doesn't matter. Goats can handle squash either way. Raw is the
 
 ## Which squash varieties are safe?
 
-Pretty much every squash you'd grow in a home garden or buy at a grocery store is safe for goats. Butternut, acorn, spaghetti, pumpkin, zucchini, yellow crookneck, and delicata are all fair game.
+Pretty much every squash you'd grow in a home garden or buy at a grocery store is safe for goats. Butternut, acorn, spaghetti, [pumpkin](/posts/can-goats-eat-pumpkin), zucchini, yellow crookneck, and delicata are all fair game.
 
 The only squash to be cautious about is ornamental gourds and wild squash varieties. These can contain high levels of cucurbitacin, a bitter compound that can cause digestive upset. If a squash tastes extremely bitter to you, don't give it to your goats. Stick with varieties grown for eating and you won't have any problems.
 
@@ -56,7 +56,7 @@ The only squash to be cautious about is ornamental gourds and wild squash variet
 
 The whole thing. Flesh, skin, seeds, and the stringy guts are all edible and safe for goats.
 
-The seeds are actually worth mentioning specifically. Squash seeds contain a compound called cucurbitin that may have mild natural deworming properties. The research on this in goats is limited, but it's been documented in other livestock species. At the very least, the seeds are a good source of protein and healthy fats.
+The seeds are actually worth mentioning specifically. Squash seeds contain a compound called cucurbitin that may have mild natural deworming properties. For proper parasite management though, you should understand [why cattle dewormer blocks are not appropriate for goats](/posts/can-goats-have-cattle-dewormer-blocks). At the very least, the seeds are a good source of protein and healthy fats.
 
 Goats can also eat squash vines and leaves if they have access to the plants in your garden. The vines are safe, though most goats won't seek them out when there's better browse available.
 
@@ -64,13 +64,13 @@ Goats can also eat squash vines and leaves if they have access to the plants in 
 
 Squash is packed with vitamins A, C, and E, all of which support immune function. The beta-carotene that gives orange squash its color converts to vitamin A, which is important for vision, reproduction, and overall health.
 
-The fiber content helps support healthy rumen function. Squash also provides potassium and magnesium, both of which contribute to muscle and bone health.
+The fiber content helps support healthy rumen function, much like [timothy hay](/posts/can-goats-eat-timothy-hay) does. Squash also provides potassium and magnesium, both of which contribute to muscle and bone health.
 
-Squash is mostly water, which makes it a good option for sneaking extra hydration into goats during hot weather. It's not a replacement for fresh water, but every bit of extra moisture helps.
+Squash is mostly water, which makes it a good option for sneaking extra hydration into goats during hot weather, similar to how [watermelon](/posts/can-goats-eat-watermelon) works as a summer treat. It's not a replacement for fresh water, but every bit of extra moisture helps.
 
 ## How to prepare and serve squash
 
-For soft summer squash like zucchini, you can toss it out whole and let the goats go at it. They'll tear it apart themselves without any help.
+For soft summer squash like zucchini, you can toss it out whole and let the goats go at it. They'll tear it apart themselves without any help, and pairing it with other treats like [strawberries](/posts/can-goats-eat-strawberries) makes for a great garden surplus snack.
 
 Hard winter squash is a different story. Butternut and acorn squash have tough shells that can be difficult for goats to break into. Chop them into manageable pieces so your goats can actually get to the flesh. You don't need to peel them, just make the pieces small enough to eat safely.
 

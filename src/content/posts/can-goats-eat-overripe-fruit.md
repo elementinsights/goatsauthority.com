@@ -55,11 +55,11 @@ If the fruit smells like alcohol or has a fizzy, yeasty quality to it, keep your
 
 ## Which overripe fruits are safe for goats?
 
-Apples, pears, peaches, watermelon, cantaloupe, and bananas are all safe when they are just past their peak. Cut larger fruits into smaller pieces to reduce choking risk, especially for younger goats.
+[Apples](/can-goats-eat-apples/), pears, peaches, watermelon, cantaloupe, and bananas are all safe when they are just past their peak. Cut larger fruits into smaller pieces to reduce choking risk, especially for younger goats.
 
 Remove any pits or large seeds before feeding. Peach and cherry pits contain cyanogenic compounds that release cyanide when crushed, so do not let goats chew on those.
 
-Avoid any fruit that has visible mold growing on it. Mold produces mycotoxins that can cause liver damage and neurological problems in goats, so fuzzy spots of any color mean it goes in the trash.
+Avoid any fruit that has visible mold growing on it, just as you would avoid [moldy hay](/can-goats-eat-moldy-hay/). Mold produces mycotoxins that can cause liver damage and neurological problems in goats, so fuzzy spots of any color mean it goes in the trash.
 
 ## Risks of feeding overripe fruit to goats
 
@@ -67,13 +67,13 @@ The high sugar content is the main concern even with non-fermented overripe frui
 
 Fruit should be a treat, not a meal. A few pieces per goat is plenty, and you should not let them fill up on fruit instead of eating their hay and browse.
 
-Goats that eat large amounts of sweet fruit in one sitting are at risk for enterotoxemia, especially if they are not accustomed to sugary foods. Introduce fruit slowly and keep portions small.
+Goats that eat large amounts of sweet fruit in one sitting are at risk for enterotoxemia, especially if they are not accustomed to sugary foods. Introduce fruit slowly, just as you would with [grapes](/can-goats-eat-grapes/) or raisins, and keep portions small.
 
 ## Managing fallen orchard fruit
 
 If your goats have access to areas under fruit trees, you need to pick up fallen fruit regularly. Do not let it sit on the ground for days where it can ferment and attract your goats.
 
-Fence off orchard areas during heavy fruit drop if you cannot keep up with the cleanup. A goat that discovers a pile of fermenting apples will eat until it makes itself sick.
+Fence off orchard areas during heavy fruit drop if you cannot keep up with the cleanup. Keep your goats occupied with safe treats like [pumpkin](/can-goats-eat-pumpkin/) or sweet potatoes instead. A goat that discovers a pile of fermenting apples will eat until it makes itself sick.
 
 During peak season, check under your trees at least once a day. Collect anything that has fallen and either feed the fresh stuff to your goats in controlled portions or dispose of anything that has started to turn.
 
@@ -81,4 +81,4 @@ During peak season, check under your trees at least once a day. Collect anything
 
 A little overripe fruit is a welcome treat for your goats. The trouble starts when fruit crosses the line from soft and sweet to fermented and alcoholic.
 
-Use common sense, keep portions small, toss anything moldy, and clean up fallen fruit before it starts to ferment. Follow those rules and your goats can enjoy the occasional bruised apple without any problems.
+Use common sense, keep portions small, toss anything moldy, and clean up fallen fruit before it starts to ferment. Safer everyday treats like [carrots](/can-goats-eat-carrots/) and blueberries don't carry any fermentation risk. Follow those rules and your goats can enjoy the occasional bruised apple without any problems.

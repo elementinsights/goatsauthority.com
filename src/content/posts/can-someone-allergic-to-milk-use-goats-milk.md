@@ -53,7 +53,7 @@ The only reliable way to know which group you fall into is allergy testing super
 
 Goat milk has smaller fat globules than cow milk, which makes it naturally easier to digest. The fat does not separate and rise to the top the way cow milk does.
 
-It contains slightly less lactose than cow milk, which is why some lactose-intolerant people tolerate it better. The difference is not huge, roughly 4.1% lactose in goat milk versus 4.7% in cow milk, but for some people that margin matters.
+It contains slightly less lactose than cow milk, which is why some lactose-intolerant people tolerate it better. You can find pasteurized goat milk at most retailers, and our guide on [where to buy goat milk](/can-you-buy-goat-milk-at-the-grocery-store) covers all your options. The difference is not huge, roughly 4.1% lactose in goat milk versus 4.7% in cow milk, but for some people that margin matters.
 
 Goat milk is rich in calcium, phosphorus, and vitamin A. It also contains higher levels of certain short and medium-chain fatty acids that are absorbed more easily by the human digestive system.
 
@@ -63,11 +63,11 @@ The protein profiles are the biggest difference. Cow milk has high levels of alp
 
 Goat milk fat is naturally homogenized because the fat globules are so small. This means your body does not have to work as hard to break it down, and many people report less bloating and stomach discomfort.
 
-The taste is different too. Goat milk has a slightly tangy, earthy flavor that some people love and others need time to get used to.
+The taste is different too. Goat milk has a slightly tangy, earthy flavor that some people love and others need time to get used to. If you enjoy goat dairy, you can also [freeze goat cheese](/can-you-freeze-goat-cheese) and [freeze goat milk](/can-goats-milk-be-frozen) to always have a supply available.
 
 ## How do you make goat milk more accessible for people with cow's milk allergies?
 
-Start with goat milk yogurt or cheese if drinking straight goat milk feels like too big of a leap. Fermentation breaks down some of the proteins and lactose, making these products gentler on a sensitive system.
+Start with goat milk yogurt or cheese if drinking straight goat milk feels like too big of a leap. Fermentation breaks down some of the proteins and lactose, making these products gentler on a sensitive system. [Infants can eat goat cheese](/can-infants-eat-goat-cheese) as one of their first solid foods for the same reason.
 
 Check your local grocery stores for pasteurized goat milk in the specialty dairy section. Health food stores like Whole Foods and Sprouts almost always carry at least one brand.
 
@@ -79,11 +79,11 @@ Goat milk is lower in folic acid and vitamin B12 than cow milk. If you switch en
 
 The flavor takes some getting used to for people raised on cow milk. Mixing goat milk into smoothies or cereal is a good way to ease into it.
 
-Goat milk can also be more expensive than cow milk depending on where you live. Supply is smaller, so prices tend to run higher at retail.
+Goat milk can also be more expensive than cow milk depending on where you live. Supply is smaller, so prices tend to run higher at retail. If you raise your own goats, you can [sell goat milk butter](/can-i-sell-goat-milk-butter) as an additional income stream.
 
 ## How can you make sure that you're getting all the nutrients that you need from goat milk?
 
-Pair goat milk with a varied diet that includes leafy greens, eggs, and meat to cover any nutritional gaps. Folic acid from dark leafy vegetables fills in the one area where goat milk falls short.
+Pair goat milk with a varied diet that includes leafy greens, eggs, and meat to cover any nutritional gaps. [Postpartum women](/can-postpartum-women-eat-goats) particularly benefit from combining goat milk with goat meat for maximum nutrition. Folic acid from dark leafy vegetables fills in the one area where goat milk falls short.
 
 ## Who should avoid drinking goat milk?
 

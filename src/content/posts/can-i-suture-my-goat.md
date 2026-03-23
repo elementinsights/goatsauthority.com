@@ -45,11 +45,11 @@ Here's what you need to know about when to stitch, when to call the vet, and how
 
 You can suture clean, fresh skin wounds on a goat if they're not too deep. Simple lacerations from barbed wire, sharp feeders, or fence catches are the most common candidates for at-home stitching.
 
-The critical rule is timing. Only suture wounds that are less than six hours old and free of contamination. Anything older, infected, or packed with dirt and debris needs veterinary attention because closing it up will trap bacteria inside.
+The critical rule is timing. Only suture wounds that are less than six hours old and free of contamination. For smaller scrapes that don't need stitching, [Neosporin works well as a topical treatment](/can-i-put-neosporin-on-my-goats). Anything older, infected, or packed with dirt and debris needs veterinary attention because closing it up will trap bacteria inside.
 
 ## What are the risks of suturing my goat?
 
-Infection is the biggest risk. If you close a dirty wound, you're sealing bacteria inside the tissue where it can form an abscess or go systemic. This is why wound cleaning matters more than the stitching itself.
+Infection is the biggest risk. If you close a dirty wound, you're sealing bacteria inside the tissue where it can form an abscess or go systemic. Goats can [suffer from strokes and anemia](/can-goats-have-a-stroke-anemia) from systemic infections, so wound cleaning matters more than the stitching itself.
 
 The other risk is stitching something that shouldn't be stitched at home. Deep wounds near joints, eyes, or tendons need a vet because they involve structures you can't see from the surface. If muscle or bone is visible, call the vet.
 
@@ -57,17 +57,17 @@ The other risk is stitching something that shouldn't be stitched at home. Deep w
 
 Suturing is stitching a wound closed to hold the skin edges together while they heal. It speeds up healing time, reduces infection risk compared to leaving a wound gaping open, and results in less scarring.
 
-For goats living in dusty barns and pastures full of flies, a closed wound is far less likely to get contaminated than an open one. Stitching also reduces the amount of proud flesh (excess granulation tissue) that can form in wounds that heal by secondary intention.
+For goats living in dusty barns and pastures full of flies, a closed wound is far less likely to get contaminated than an open one. Open wounds can also attract [mites](/can-goats-get-mites) and other parasites that compound the problem. Stitching also reduces the amount of proud flesh (excess granulation tissue) that can form in wounds that heal by secondary intention.
 
 ## What supplies do you need to suture a goat effectively and safely?
 
-Keep a basic suture kit in your goat first-aid box. You need a curved cutting needle, absorbable suture material like Vicryl (or nylon if you prefer to remove stitches later), sterile gloves, and dilute Betadine solution for wound cleaning.
+Keep a basic suture kit in your goat first-aid box alongside [baby aspirin](/can-i-give-baby-aspirin-to-my-baby-goat) for pain management. You need a curved cutting needle, absorbable suture material like Vicryl (or nylon if you prefer to remove stitches later), sterile gloves, and dilute Betadine solution for wound cleaning.
 
 Clippers or a razor to shave hair around the wound, sterile gauze, and a pair of sharp scissors round out the kit. Practice threading the needle and tying knots before you ever need to use it on a live animal. A banana peel makes a surprisingly good practice surface.
 
 ## How do you go about suturing a goat wound correctly and efficiently?
 
-Restrain the goat securely with a helper holding it still. Clip the hair around the wound, then flush the entire wound thoroughly with dilute Betadine or saline solution to remove all dirt and debris.
+Restrain the goat securely with a helper holding it still. Make sure your goats are current on their [CDT vaccination](/can-a-cdt-shot-kill-a-goat) so tetanus isn't a concern with any open wound. Clip the hair around the wound, then flush the entire wound thoroughly with dilute Betadine or saline solution to remove all dirt and debris.
 
 Start stitching from the center of the wound outward, placing simple interrupted sutures about a quarter inch apart. Pull the skin edges together snugly but don't crank them tight, because over-tightened stitches cut through the skin and make things worse. Tie each stitch separately so that if one pulls out, the rest still hold.
 
@@ -75,7 +75,7 @@ Start stitching from the center of the wound outward, placing simple interrupted
 
 Non-absorbable sutures (nylon) should come out in 10 to 14 days for most body wounds. Facial wounds heal faster and can have stitches removed at 7 days.
 
-If you used absorbable suture material like Vicryl, you don't need to remove anything. The body breaks it down on its own over several weeks. Check the wound daily for signs of infection like swelling, heat, discharge, or a bad smell, and contact your vet if any of those appear.
+If you used absorbable suture material like Vicryl, you don't need to remove anything. The body breaks it down on its own over several weeks. Check the wound daily for signs of infection like swelling, heat, discharge, or a bad smell, and keep [Pepto-Bismol on hand](/can-i-give-my-goat-pepto-bismol) in case the stress causes digestive upset. Contact your vet if any signs of infection appear.
 
 ## Final Thoughts
 

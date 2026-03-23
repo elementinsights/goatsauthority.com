@@ -48,7 +48,7 @@ Log-style chevre holds up better than pre-crumbled goat cheese because the intac
 
 Always thaw goat cheese slowly in the refrigerator. Pull it out of the freezer and let it sit in the fridge overnight, or at least 6 to 8 hours.
 
-Thawing at room temperature causes uneven moisture loss that wrecks the texture. Microwaving is even worse because it melts the outside while the center stays frozen solid.
+Thawing at room temperature causes uneven moisture loss that wrecks the texture. Microwaving is even worse because it melts the outside while the center stays frozen solid. If you [buy goat milk at the grocery store](/posts/can-you-buy-goat-milk-at-the-grocery-store), you can make your own cheese at home and freeze it in batches.
 
 Once it's fully thawed, give soft chevre a gentle stir to smooth out any wateriness before you use it. Hard goat cheese can go straight from the fridge to a grater or cutting board with no extra steps needed.
 
@@ -58,21 +58,21 @@ Double-wrapped goat cheese stays good in the freezer for about 6 months. After t
 
 Hard aged goat cheese can push past that 6-month mark and still taste decent at 8 or even 10 months. Soft chevre is more sensitive and really should be used within 4 to 6 months for the best results.
 
-Label every package with the date you froze it. This sounds obvious, but it saves you from guessing three months later when you pull an unlabeled foil lump out of the back of the freezer.
+Label every package with the date you froze it. You can also [freeze goat milk](/posts/can-goats-milk-be-frozen) using the same labeling approach. This sounds obvious, but it saves you from guessing three months later when you pull an unlabeled foil lump out of the back of the freezer.
 
 ## How Can You Tell if Goat Cheese Has Gone Bad?
 
 A strong sour smell or bitter taste means the cheese is past its prime. Fresh goat cheese should smell mild and tangy, not sharp or ammonia-like.
 
-Any visible mold that wasn't there when you bought it is another clear sign. Discoloration, a slimy surface, or a dried-out cracked appearance all tell you the cheese has gone too far.
+Any visible mold that wasn't there when you bought it is another clear sign. This is different from cheese made with [raw milk from the farm](/posts/can-you-drink-goat-milk-straight-from-goat), which may develop beneficial cultures. Discoloration, a slimy surface, or a dried-out cracked appearance all tell you the cheese has gone too far.
 
 ## Making Food With Frozen Goat Cheese
 
 Frozen goat cheese works great for cooking even if the texture has changed a bit after thawing. Crumble it into pasta sauces, stir it into soups, or sprinkle it over roasted vegetables and pizza.
 
-The slightly crumbly texture that comes from freezing is actually an advantage in recipes where you want the cheese distributed evenly. It breaks apart more naturally than fresh chevre when you toss it into a salad or fold it into an omelet.
+The slightly crumbly texture that comes from freezing is actually an advantage in recipes where you want the cheese distributed evenly. Frozen goat cheese pairs well with [goat liver dishes](/posts/can-we-eat-goat-liver) where a crumble of tangy cheese brightens the rich meat. It breaks apart more naturally than fresh chevre when you toss it into a salad or fold it into an omelet.
 
-You can also freeze fresh chevre in ice cube trays to create perfectly portioned cooking amounts. Pop out a cube whenever a recipe calls for goat cheese, and it melts right into whatever you're making. This trick is especially handy if you buy goat cheese in bulk or make it at home from your own herd's milk.
+You can also freeze fresh chevre in ice cube trays to create perfectly portioned cooking amounts. Pop out a cube whenever a recipe calls for goat cheese, and it melts right into whatever you're making. This trick is especially handy if you buy goat cheese in bulk, pick up [goat meat at Walmart](/posts/can-you-buy-goat-meat-at-walmart) to go with it, or make cheese at home from your own herd's milk.
 
 ## Final Thoughts
 

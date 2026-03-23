@@ -51,11 +51,11 @@ They provide a nice crunch that goats enjoy, and you can toss a handful into the
 
 Green beans are packed with fiber, which supports healthy digestion in goats. They also contain vitamins A, C, and K, plus minerals like iron and potassium.
 
-The calorie count is low, making green beans a treat you can offer without worrying about weight gain. They are a solid choice for goat owners who want to supplement their herd's diet with fresh vegetables from the garden.
+The calorie count is low, making green beans a treat you can offer without worrying about weight gain. They are a solid choice for goat owners who want to supplement their herd's diet with fresh vegetables from the garden, alongside options like [cucumbers](/posts/can-goats-eat-cucumbers) and [watermelon](/posts/can-goats-eat-watermelon).
 
 ## Are there any risks associated with feeding goats raw green beans?
 
-There are very few risks with green beans. They are not toxic, they do not contain solanine (that is a common myth, since green beans are legumes, not nightshade vegetables), and they digest well in a goat's rumen.
+There are very few risks with green beans. They are not toxic, they do not contain solanine (that is a common myth, since green beans are legumes, not nightshade vegetables like [potatoes](/posts/can-goats-eat-potatoes) or [tomatoes](/posts/can-goats-eat-tomatoes)), and they digest well in a goat's rumen.
 
 The only thing to watch for is overfeeding. Too many green beans at once can cause mild gas or loose stools, just like overdoing any treat. Stick to moderate amounts and your goats will be fine.
 
@@ -63,19 +63,19 @@ The only thing to watch for is overfeeding. Too many green beans at once can cau
 
 Wash the beans thoroughly before feeding them to remove any dirt or pesticide residue from the garden. This simple step prevents the most common issue with feeding fresh produce.
 
-Introduce green beans gradually if your goats have never had them before. Start with a small handful and see how they handle it over the next day before increasing the amount.
+Introduce green beans gradually if your goats have never had them before, since [goats cannot digest just anything](/posts/can-goats-digest-anything) despite their reputation. Start with a small handful and see how they handle it over the next day before increasing the amount.
 
 ## What are the treatments for anorexia in goats?
 
 If a goat stops eating entirely, the problem is almost certainly not green beans. Loss of appetite in goats usually points to illness, parasites, dental problems, or stress.
 
-The first step is to call your vet and figure out the underlying cause. Offer fresh water and tempting feeds like warm molasses water while you wait for professional advice. Electrolyte solutions can help keep a goat hydrated until it starts eating again.
+The first step is to call your vet and figure out the underlying cause. Conditions like [anemia from parasites](/posts/can-goats-have-a-stroke-anemia) can cause loss of appetite. Offer fresh water and tempting feeds like warm molasses water while you wait for professional advice. Electrolyte solutions can help keep a goat hydrated until it starts eating again.
 
 ## How often can you feed goats raw green beans?
 
 A few times per week is a good frequency for green bean treats. A handful of beans per goat per feeding session is enough to add variety without overdoing it.
 
-Green beans pair well with other safe vegetables like carrots, squash, and pumpkin if you want to make a mixed treat. Just remember that treats should make up a small part of the overall diet, with hay and proper minerals doing the heavy lifting.
+Green beans pair well with other safe vegetables like [carrots](/posts/can-goats-eat-carrots), [squash](/posts/can-goats-eat-squash), and [pumpkin](/posts/can-goats-eat-pumpkin) if you want to make a mixed treat. Just remember that treats should make up a small part of the overall diet, with hay and proper minerals doing the heavy lifting.
 
 ## Final Thoughts
 

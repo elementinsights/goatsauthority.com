@@ -44,31 +44,31 @@ The nutrient profile is solid too. Goat manure runs roughly 0.7% nitrogen, 0.3% 
 
 Yes, goat manure makes excellent fertilizer. It's one of the mildest animal manures available, which means you can apply it closer to planting time than hot manures like chicken or horse without worrying about burning tender roots.
 
-You can even apply it directly to established garden beds without composting first, though composting is still the better practice. Fresh manure can carry weed seeds and pathogens that composting kills off, so taking the extra step gives you a cleaner end product.
+You can even apply it directly to established garden beds without composting first, though composting is still the better practice. Fresh manure can carry weed seeds and pathogens that composting kills off, so taking the extra step gives you a cleaner end product. If you also keep dogs, make sure [pygmy goats and dogs live together](/can-dogs-and-pygmy-goats-live-together) in separate areas from your garden to prevent contamination.
 
 ## Why goat manure beats other animal manures
 
 Goat pellets are drier and easier to handle than cow patties. They break down faster in a compost pile, they smell less during decomposition, and they don't attract flies the way cow manure does.
 
-Compared to chicken manure, goat manure is much cooler and safer for direct application. Chicken manure is extremely high in nitrogen and will fry plant roots if you don't compost it thoroughly first. Goat manure gives you nutrients without that risk.
+Compared to chicken manure, goat manure is much cooler and safer for direct application. Chicken manure is extremely high in nitrogen and will fry plant roots if you don't compost it thoroughly first. Goat manure gives you nutrients without that risk. If you raise multiple species, [ducks and goats coexist well](/can-ducks-and-goats-coexist) and the duck manure adds additional nitrogen to your compost.
 
 ## How to compost goat manure
 
 The easiest setup is four pallets wired together in a square. Pile your goat manure and soiled bedding inside, and layer brown material like dried leaves or straw every few inches of manure to balance the carbon-to-nitrogen ratio.
 
-Turn the pile with a pitchfork every two weeks. A well-managed pile hits 130 to 150 degrees, which kills weed seeds and harmful bacteria. Most goat manure compost is ready in two to three months, and you'll know it's done when it looks dark, crumbly, and smells like earth instead of a barn.
+Turn the pile with a pitchfork every two weeks. A well-managed pile hits 130 to 150 degrees, which kills weed seeds and harmful bacteria. Most goat manure compost is ready in two to three months, and you'll know it's done when it looks dark, crumbly, and smells like earth instead of a barn. Keep in mind that [goat urine can kill trees](/can-goat-urine-kill-trees) if concentrated in one spot, so manage your compost location carefully.
 
 ## How to apply it to your garden
 
 For established garden beds, spread composted goat manure about an inch thick and work it into the top few inches of soil. Do this in early spring before planting or in late fall after harvest to give it time to break down further.
 
-You can also side-dress plants during the growing season by spreading composted manure in a ring around the base of each plant. Mix about 1 part manure to 10 parts soil, and keep it a few inches away from stems to prevent rot.
+You can also side-dress plants during the growing season by spreading composted manure in a ring around the base of each plant. Mix about 1 part manure to 10 parts soil, and keep it a few inches away from stems to prevent rot. Using [pine chips as goat bedding](/can-pine-chips-be-used-as-bedding-for-goats) makes composting easier since the wood chips add carbon to the mix.
 
 ## Making manure tea for a quick nutrient boost
 
 Fill a burlap sack or old pillowcase with aged goat manure and drop it into a 5-gallon bucket of water. Let it steep for three to five days, stirring once a day, until the water turns a rich brown color.
 
-Dilute the finished tea at a ratio of one part tea to four parts water before applying. Pour it around the base of your plants or spray it on leaves for fast absorption. This works great for giving a quick mid-season feeding to heavy producers like tomatoes and peppers.
+Dilute the finished tea at a ratio of one part tea to four parts water before applying. Pour it around the base of your plants or spray it on leaves for fast absorption. This works great for giving a quick mid-season feeding to heavy producers like tomatoes and peppers. A well-designed [goat barn](/can-a-goat-barn-be-12x-2) makes manure collection and composting much more efficient.
 
 ## Final Thoughts
 

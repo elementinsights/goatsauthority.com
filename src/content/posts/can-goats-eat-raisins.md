@@ -51,15 +51,15 @@ Raisins are small, portable, and do not spoil quickly, which makes them perfect 
 
 Many goat owners use raisins to lure stubborn goats into carriers, onto milking stands, or through gates. A few raisins in your palm will convince most goats to cooperate with just about anything.
 
-They also work well for bonding with new or skittish goats. Offering raisins by hand is a quick way to build trust with an animal that does not know you yet.
+They also work well for bonding with new or skittish goats, since [goats can genuinely love their human caregivers](/posts/can-goats-love-humans). Offering raisins by hand is a quick way to build trust with an animal that does not know you yet.
 
 ## Nutritional benefits of raisins for goats
 
 Raisins contain iron, potassium, calcium, and some B vitamins. The iron and potassium are particularly useful for goats, supporting healthy blood and proper muscle function.
 
-The fiber in raisins can help with digestion in small amounts. They also provide a quick energy boost since dried fruit concentrates the natural sugars from grapes.
+The fiber in raisins can help with digestion in small amounts. They also provide a quick energy boost since dried fruit concentrates the natural sugars from [grapes](/posts/can-goats-eat-grapes).
 
-Raisins are a treat, not a supplement. Your goats should be getting their real nutrition from hay, browse, and grain, with raisins as an occasional bonus.
+Raisins are a treat, not a supplement. Your goats should be getting their real nutrition from [quality hay](/posts/what-kind-of-hay-do-goats-eat), browse, and grain, with raisins as an occasional bonus.
 
 ## Risks of feeding too many raisins
 
@@ -67,7 +67,7 @@ The biggest concern is sugar. Raisins are concentrated dried fruit, so the sugar
 
 Male goats, especially wethers, face an additional risk. Sugary treats can throw off the calcium-to-phosphorus ratio and increase the chance of urinary calculi, which is essentially kidney stones. If you keep bucks or wethers, go easy on the raisins or skip them entirely.
 
-Store your raisins in a sealed container inside a latched cabinet. Goats have a strong sense of smell and will sniff out an unattended bag from across the barn. An unsupervised goat that gets into a full bag can eat enough to make itself seriously sick.
+Store your raisins in a sealed container inside a latched cabinet. Goats have a strong sense of smell and will sniff out an unattended bag from across the barn, especially since [goats can climb and escape easily](/posts/can-goats-climb-fences). An unsupervised goat that gets into a full bag can eat enough to make itself seriously sick.
 
 ## How many raisins can goats eat?
 
@@ -75,7 +75,7 @@ A small handful per adult goat is plenty, and you should not offer raisins more 
 
 Start with just two or three raisins if your goat has never had them before, and watch for any changes in stool or appetite over the next 24 hours. If everything looks normal, you can offer a small handful the next time.
 
-Always have fresh water available when feeding raisins. The high sugar content makes goats thirsty, and staying hydrated helps their kidneys handle the extra sugar.
+Always have fresh water available when feeding raisins. Lower-sugar alternatives like [blueberries](/posts/can-goats-eat-blueberries) or [strawberries](/posts/can-goats-eat-strawberries) are worth rotating in. The high sugar content makes goats thirsty, and staying hydrated helps their kidneys handle the extra sugar.
 
 ## Final Thoughts
 

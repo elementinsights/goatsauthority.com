@@ -42,7 +42,7 @@ Yes, the federal government already uses goats to clear federal land, and they'v
 
 ## Can the federal government use goats to clear federal lands?
 
-This is not some fringe idea. Goat grazing is an established vegetation management tool that federal land managers use alongside mowing, prescribed burns, and herbicide application.
+This is not some fringe idea. Goat grazing is an established vegetation management tool that federal land managers use alongside mowing, prescribed burns, and herbicide application. Some farms even house [goats, pigs, and chickens together](/can-goats-pigs-and-chickens-live-in-the-same-barn) to maximize their land-clearing workforce.
 
 Goats clear invasive species, reduce wildfire fuel loads, and manage brush in areas that are too steep or rocky for machinery. Companies like Goats on the Go and other commercial herders provide herds under contract specifically for government land clearing projects.
 
@@ -50,11 +50,11 @@ Goats clear invasive species, reduce wildfire fuel loads, and manage brush in ar
 
 The biggest advantage is that goats work without chemicals. They eat the invasive plants and brush, fertilize the soil as they go, and cause minimal ground disturbance compared to bulldozers or mowers.
 
-Goats can also reach terrain that machinery can't. Steep hillsides, rocky slopes, and environmentally sensitive areas are all fair game for a herd of goats. They're lighter on the land than heavy equipment, which matters in areas where soil compaction and erosion are concerns.
+Goats can also reach terrain that machinery can't. Steep hillsides, rocky slopes, and environmentally sensitive areas are all fair game for a herd of goats. Their natural climbing ability, similar to how [mountain goats scale cliff faces](/can-mountain-goats-climb-cliffs), lets them work slopes that would stop any machine. They're lighter on the land than heavy equipment, which matters in areas where soil compaction and erosion are concerns.
 
 ## How does the process of clearing federal land with goats work?
 
-A commercial herder brings in anywhere from a few hundred to over a thousand goats, depending on the size of the project. Temporary electric fencing contains the herd in the target area, and a herder stays with them around the clock, often with guard dogs to keep predators away.
+A commercial herder brings in anywhere from a few hundred to over a thousand goats, depending on the size of the project. Temporary electric fencing contains the herd in the target area, and a herder stays with them around the clock, often with guard dogs to keep predators away. Proper fencing is critical since [goats are known for climbing over fences](/can-goats-climb-fences).
 
 The goats eat their way through the designated zone over days or weeks, then the fencing gets moved to the next section. It's a methodical process that can cover hundreds of acres in a single season.
 
@@ -68,13 +68,13 @@ The Bureau of Land Management has funded multiple pilot programs across Nevada a
 
 The going rate is roughly $200 per acre, though that varies based on terrain, vegetation density, and herd size. Federal projects often cover hundreds or thousands of acres, so costs can add up.
 
-Taxpayer dollars fund most federal grazing contracts, though some programs allow private companies to donate services in exchange for tax breaks. Compared to repeated herbicide applications or heavy equipment operations, goat grazing is often cost-competitive over the long term because the goats also fertilize and reseed as they work.
+Taxpayer dollars fund most federal grazing contracts, though some programs allow private companies to donate services in exchange for tax breaks. Even smaller operations that keep goats for other purposes, like [urban goat keeping](/can-goats-live-in-an-urban-environment), can explore local brush-clearing contracts. Compared to repeated herbicide applications or heavy equipment operations, goat grazing is often cost-competitive over the long term because the goats also fertilize and reseed as they work.
 
 ## How to get your goats hired for federal work
 
 If you own a herd and want to bid on contracts, start by connecting with your local BLM office. They'll walk you through the contracting process and let you know about upcoming projects.
 
-You'll need liability insurance, proof of current vaccinations, and documentation that your herd is free of contagious diseases. Start small with a local municipality project to build a track record before going after bigger federal contracts.
+You'll need liability insurance, proof of current vaccinations, and documentation that your herd is free of contagious diseases. Keeping [pine chip bedding](/can-pine-chips-be-used-as-bedding-for-goats) clean at your home farm helps maintain herd health between contract jobs. Start small with a local municipality project to build a track record before going after bigger federal contracts.
 
 ## Final Thoughts
 

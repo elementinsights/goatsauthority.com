@@ -51,31 +51,31 @@ Your best chance of success is within the first week of the kid's life. After th
 
 A kid nursing off a doe gets fresh, warm milk on demand at the right temperature every time. The doe's milk also contains antibodies that help the kid fight off disease, something you can't replicate with milk replacer.
 
-It also saves you a ton of time and money. Bottle feeding every four to six hours is exhausting, and milk replacer adds up fast.
+It also saves you a ton of time and money. Bottle feeding every four to six hours is exhausting, and milk replacer adds up fast. Since most does [deliver twins or triplets](/posts/how-many-babies-do-goats-have-at-a-time), finding a foster mom with only a single kid is often your best option.
 
 ## Are there any risks associated with changing a bottle fed goat back to nursing off another goat?
 
 The biggest risk is that the foster doe rejects the kid aggressively. Does recognize their own babies by smell, and some will kick, headbutt, or even injure a strange kid that tries to nurse.
 
-Bottle kids also struggle with the switch because a doe's teat feels nothing like a rubber nipple. The kid has to learn a completely different sucking position and technique, which can be frustrating for both the kid and whoever is supervising.
+Bottle kids also struggle with the switch because a doe's [two functional teats](/posts/how-many-teats-do-goats-have) feel nothing like a rubber nipple. The kid has to learn a completely different sucking position and technique, which can be frustrating for both the kid and whoever is supervising.
 
 ## How to prevent risks when changing a bottle fed goat back to nursing?
 
 The classic trick is to rub the doe's own birth fluids or afterbirth on the bottle kid to mask its scent. If the doe just kidded, this works surprisingly well because her maternal hormones are running high.
 
-Pen the doe and kid together in a small space where the doe can't easily move away from the kid. Supervise every nursing attempt for the first few days and be ready to step in if the doe gets rough.
+Pen the doe and kid together in a small space where the doe cannot easily move away from the kid. If you are managing a [mixed herd of sheep and goats](/posts/can-you-describe-a-herd-of-sheep-and-goats), make sure the grafting pen is separated from the flock. Supervise every nursing attempt for the first few days and be ready to step in if the doe gets rough.
 
 ## What are the treatments for a bottle fed goat that is rejected by the nursing goat?
 
 If the doe won't accept the kid after several days of trying, you may need to restrain her in a stanchion during nursing sessions. Hold her still and guide the kid to the udder two to three times per day until the doe gives up fighting it.
 
-Some does come around within a few days of this routine, while others never accept the foreign kid. If she's still actively trying to hurt the kid after a week, it's safer to go back to the bottle.
+Some does come around within a few days of this routine, while others never accept the foreign kid. Calm [breeds like fainting goats](/posts/can-you-breed-screaming-and-fainting-goats) tend to be more accepting foster mothers. If she's still actively trying to hurt the kid after a week, it's safer to go back to the bottle.
 
 ## When is the best time to change a bottle fed goat back to nursing?
 
 The first 48 hours of life give you the best odds by far. During this window, both the kid's instincts and the doe's hormones are at their strongest.
 
-Grafting works best when the foster doe has just lost a kid of her own. Her udder is full, her hormones are primed, and she's looking for something to mother.
+Grafting works best when the foster doe has just lost a kid of her own. Her [udder](/posts/do-goats-have-udders) is full, her hormones are primed, and she's looking for something to mother.
 
 ## Final Thoughts
 

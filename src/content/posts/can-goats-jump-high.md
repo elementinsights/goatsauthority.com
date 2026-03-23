@@ -45,7 +45,7 @@ Understanding how high different breeds can jump is the first step to keeping yo
 
 Most goats can comfortably jump 4 to 5 feet from a standing position. Give them a running start or something to push off of, and they can clear even more. Their powerful hind legs and lightweight frames make them natural athletes.
 
-Goats are also climbers, not just jumpers. They'll scale rock piles, lean against fences to bend them down, and squeeze through gaps you didn't know existed. Jumping is just one tool in their escape arsenal.
+Goats are also climbers, not just jumpers. They'll scale rock piles, lean against fences to bend them down, and [squeeze through any gap they can find](/posts/can-goats-climb-fences). Jumping is just one tool in their escape arsenal.
 
 ## What is the average height a goat can jump?
 
@@ -55,13 +55,13 @@ Boer goats are heavier and stockier, so they tend to jump less. But don't count 
 
 ## Why do goats like to jump?
 
-Goats jump for the same reasons they do most things: curiosity and survival instinct. In the wild, mountain goats navigate cliffs and ledges to escape predators, and that athletic drive carries over to domesticated breeds.
+Goats jump for the same reasons they do most things: curiosity and survival instinct. In the wild, mountain goats navigate cliffs and ledges to escape predators, and [goats can even be tamed](/posts/can-goats-be-tamed) while retaining that athletic drive in domesticated breeds.
 
 Young goats especially love jumping as a form of play. Kids will bounce off rocks, stumps, and each other all day long, and it's how they build the muscle and coordination they need as adults.
 
 ## What are the risks associated with goats jumping?
 
-The biggest risk is escape. A goat that clears your fence is exposed to predators, traffic, toxic plants, and angry neighbors whose gardens just became a buffet.
+The biggest risk is escape. A goat that clears your fence is exposed to [predators like foxes](/posts/can-a-fox-kill-a-goat), traffic, toxic plants, and angry neighbors whose gardens just became a buffet.
 
 Injuries can happen too. Goats can break legs landing on hard surfaces or get tangled in fence wire at the top of a jump. Horned goats sometimes catch their horns in fencing during a jump attempt, which can lead to neck injuries.
 
@@ -71,11 +71,11 @@ Build your fences at least 4 feet tall, and go to 5 feet for agile breeds like N
 
 A strand of electric wire along the top of the fence works as a strong deterrent. Keep anything goats could use as a launching pad, like stumps, feeders, or rock piles, well away from fence lines.
 
-Bored goats jump more, so providing browse, toys, and companionship helps reduce escape attempts. Avoid chain-link fencing with horizontal rails because goats will use those rails as steps to climb over.
+Bored goats jump more, so providing browse, toys, and companionship helps reduce escape attempts. [Goats that bond with their owners](/posts/can-goats-love-humans) and have enrichment are less likely to test boundaries. Avoid chain-link fencing with horizontal rails because goats will use those rails as steps to climb over.
 
 ## What kind of goats jumps the most?
 
-Nigerian Dwarf goats and Pygmy goats are the worst offenders. They're small, light, and loaded with energy, which is the perfect recipe for fence clearing.
+Nigerian Dwarf goats and Pygmy goats are the worst offenders. These are the same breeds popular for [urban goat keeping](/posts/can-goats-live-in-an-urban-environment), so fencing is especially important in city settings. They're small, light, and loaded with energy, which is the perfect recipe for fence clearing.
 
 Alpines and Nubians are strong jumpers too, despite their larger size. Boer goats are the least likely to jump thanks to their heavy build, but every herd has that one individual goat who treats fencing as a personal challenge.
 
