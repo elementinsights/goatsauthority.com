@@ -49,7 +49,7 @@ Yes, goats can eat cilantro. Every part of the plant is safe, including the leav
 
 There is no known toxic dose of cilantro for goats. Herbs and treats should still make up no more than 10% of their diet, with hay and pasture doing the heavy lifting.
 
-Cilantro works well tossed into a feed bucket or offered as a handful straight from the garden. You can also mix it with other safe greens like spinach, lettuce, or kale for variety.
+Cilantro works well tossed into a feed bucket or offered as a handful straight from the garden. You can also mix it with other safe greens like [spinach](/can-goats-eat-spinach/), [lettuce](/can-goats-eat-lettuce/), or [kale](/can-goats-eat-kale/) for variety.
 
 ## Nutritional Benefits of Cilantro for Goats
 
@@ -73,7 +73,7 @@ In humans, there is a genetic component that makes cilantro taste like soap. Goa
 
 If your goat sniffs cilantro and walks away, do not force it. Freshness also matters since goats are much more likely to eat cilantro that is bright green and fragrant rather than wilted.
 
-Be aware that cilantro has a passing resemblance to toxic plants like poison hemlock. Always make sure you are offering the right plant.
+Be aware that cilantro has a passing resemblance to toxic plants like [poison hemlock](/can-goats-eat-poison-hemlock/). Always make sure you are offering the right plant.
 
 ## Fresh vs Dried Cilantro for Goats
 
@@ -89,7 +89,7 @@ You can plant cilantro directly in areas where your goats browse. It grows quick
 
 Cilantro bolts fast in the heat and goes to seed, but that is fine since goats eat the whole plant anyway. A patch near the fence line gives your herd something to nibble on between feedings.
 
-Make sure the plants have not been treated with pesticides or herbicides. You can pair cilantro with other goat-friendly plants like dandelions for a natural browse garden.
+Make sure the plants have not been treated with pesticides or herbicides. You can pair cilantro with other goat-friendly plants like [dandelions](/can-goats-eat-dandelions/) for a natural browse garden.
 
 ## How to Feed Cilantro to Goats
 
@@ -97,7 +97,7 @@ Feeding cilantro is about as simple as it gets. Rinse off any dirt, tear or chop
 
 You do not need to remove stems or separate leaves. Goats will work through the whole plant without trouble.
 
-A good serving size is a small handful per goat, offered a few times a week. Mix it with cabbage or banana peels for a treat that covers a range of nutrients.
+A good serving size is a small handful per goat, offered a few times a week. Mix it with [cabbage](/can-goats-eat-cabbage/) or banana peels for a treat that covers a range of nutrients.
 
 ## Can Baby Goats Eat Cilantro?
 
@@ -109,7 +109,7 @@ If a kid shows any loose stool after trying cilantro, back off and try again in 
 
 ## Other Herbs Goats Can Eat
 
-Cilantro is far from the only herb goats enjoy. Basil is another favorite that provides vitamins A and K.
+Cilantro is far from the only herb goats enjoy. [Basil](/can-goats-eat-basil/) is another favorite that provides vitamins A and K.
 
 Mint tends to be a hit with most herds and can help settle an upset stomach. Parsley offers vitamin C and is widely available in most gardens.
 

@@ -45,19 +45,19 @@ Yes, goats can eat corn, but you need to feed it carefully. Corn is high in star
 
 Corn is safe for goats as part of a balanced diet. It provides quick energy and is commonly used as a grain supplement alongside hay and pasture.
 
-The important thing is moderation. Corn should make up no more than about 50% of the grain portion of the ration, and grain itself should only be a small part of the overall diet. The bulk of what a goat eats should always be forage.
+The important thing is moderation. Corn should make up no more than about 50% of the grain portion of the ration, and grain itself should only be a small part of the overall diet. Mixing corn with [oats](/can-goats-eat-oats/) reduces the starch concentration and is easier on the rumen. The bulk of what a goat eats should always be forage.
 
 ## The benefits of feeding corn to goats
 
 Corn is one of the cheapest grain options available, which is why so many goat owners use it. It is a solid energy source for lactating does, growing kids, and meat goats being finished for market.
 
-It also provides some protein, fiber, and B vitamins. Dried corn on the cob makes a good treat that keeps goats busy, and cornhusks and cornstalks are safe for goats to chew on and enjoy.
+It also provides some protein, fiber, and B vitamins. Dried [corn on the cob](/can-goats-eat-corn-on-the-cob/) makes a good treat that keeps goats busy, and cornhusks and cornstalks are safe for goats to chew on and enjoy.
 
 ## The risks of feeding corn to goats
 
 The biggest danger with corn is acidosis, also called grain overload. When a goat eats too much corn at once, the starch ferments rapidly in the rumen, dropping the pH to dangerous levels. Symptoms include grinding teeth, refusing to move, kicking at the belly, and bloating.
 
-Acidosis is a veterinary emergency that can kill a goat in hours. Never let goats have free access to a corn bin or feed room, because a goat that gorges on corn can be dead by the next morning. Always measure out portions and store grain behind a secure, goat-proof door.
+Acidosis is a veterinary emergency that can kill a goat in hours. The same risk applies with [cattle feed](/can-goats-eat-cattle-feed/) and [chicken feed](/can-goats-eat-chicken-feed/), which should always be locked away. Never let goats have free access to a corn bin or feed room, because a goat that gorges on corn can be dead by the next morning. Always measure out portions and store grain behind a secure, goat-proof door.
 
 ## The serving size for corn when feeding goats
 
@@ -69,7 +69,7 @@ Whole corn is safer than cracked corn because it ferments more slowly in the rum
 
 Pregnant does can eat corn, and many breeders increase grain during the last six weeks of pregnancy when the kids are growing fastest. A small amount of corn mixed with their regular feed gives them the extra calories they need.
 
-Do not overdo it with pregnant does. Too much grain in late pregnancy can lead to oversized kids and difficult deliveries. A handful of corn twice a day on top of good quality hay is plenty for most pregnant goats.
+Do not overdo it with pregnant does. Too much grain in late pregnancy can lead to oversized kids and difficult deliveries. Pregnant does benefit more from [alfalfa hay](/can-goats-eat-alfalfa/) than from extra corn. A handful of corn twice a day on top of good quality hay is plenty for most pregnant goats.
 
 ## Can a baby goat eat corn?
 
@@ -81,4 +81,4 @@ A kid's rumen is still developing, so go slow. Too much corn too early can cause
 
 Corn is a fine feed for goats when you control the amount. Keep it as a supplement to hay and pasture, not the main course. Store all corn and grain securely so goats cannot break in and eat themselves sick.
 
-If you see soft, clumpy droppings instead of firm pellets, you are feeding too much grain. Back off the corn, increase the hay, and the droppings should firm back up within a day or two.
+If you see soft, clumpy droppings instead of firm pellets, you are feeding too much grain. Back off the corn, increase the [hay](/what-kind-of-hay-do-goats-eat/), and the droppings should firm back up within a day or two.

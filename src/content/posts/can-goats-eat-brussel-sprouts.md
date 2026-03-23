@@ -36,7 +36,7 @@ faq:
     answer: "Goats can eat Brussels sprout leaves. They are safe and nutritious for them. These leaves contain vitamins that help the goat's health."
 ---
 
-Brussels sprouts are safe for goats, and most of them actually enjoy the taste. They belong to the brassica family alongside cabbage, broccoli, and kale, all of which goats can eat.
+Brussels sprouts are safe for goats, and most of them actually enjoy the taste. They belong to the brassica family alongside [cabbage](/can-goats-eat-cabbage/), [broccoli](/can-goats-eat-broccoli/), and [kale](/can-goats-eat-kale/), all of which goats can eat.
 
 The one thing you need to know upfront is that brassicas produce gas during digestion. Feed too many at once and you're looking at a bloated goat, which can turn serious fast.
 
@@ -50,7 +50,7 @@ Most goats take to Brussels sprouts right away. The slightly bitter, earthy flav
 
 ## Are Brussels Sprouts Safe for Goats?
 
-Brussels sprouts contain no toxins or harmful compounds for goats. They're one of the safer vegetable treats you can offer alongside carrots, pumpkins, and squash.
+Brussels sprouts contain no toxins or harmful compounds for goats. They're one of the safer vegetable treats you can offer alongside [carrots](/can-goats-eat-carrots/), [pumpkins](/can-goats-eat-pumpkin/), and [squash](/can-goats-eat-squash/).
 
 The only real concern is quantity. Brassica vegetables produce sulfur compounds during digestion that create gas in the rumen, and a goat's digestive system can trap that gas.
 
@@ -84,6 +84,6 @@ Keep the bulk of a kid's diet on hay, grain, and fresh water. Vegetable treats s
 
 Two to three times per week is a good frequency. That gives your goats the nutritional benefits without risking gas buildup or digestive trouble.
 
-If your goats have never had Brussels sprouts before, start with one sprout per goat and work up to 2 or 3 over the course of a week. Slow introduction prevents almost all digestive issues.
+If your goats have never had Brussels sprouts before, start with one sprout per goat and work up to 2 or 3 over the course of a week. The same gradual approach works when introducing [lettuce](/can-goats-eat-lettuce/) or any other new vegetable. Slow introduction prevents almost all digestive issues.
 
-Rotate Brussels sprouts with other vegetable treats so your goats get variety. Carrots, pumpkins, celery, and cucumbers are all solid options to mix into the rotation.
+Rotate Brussels sprouts with other vegetable treats so your goats get variety. Carrots, pumpkins, [celery](/can-goats-eat-celery/), and [cucumbers](/can-goats-eat-cucumbers/) are all solid options to mix into the rotation.

@@ -41,9 +41,9 @@ The real-world scenario is usually a goat that breaks into a bag of dog food or 
 
 ## the Dangers of Feeding Goats Dog Food
 
-The biggest concern is the animal protein content. Goat rumens are populated with microbes that specialize in breaking down plant fiber, not meat-based proteins and animal fats.
+The biggest concern is the animal protein content. Goats are [strict herbivores that do not eat meat](/do-goats-eat-meat/), and their rumens are populated with microbes that specialize in breaking down plant fiber, not meat-based proteins and animal fats.
 
-Dog food also has mineral ratios that are wrong for goats. Many dog foods contain high levels of copper, which is fine for dogs but can build up in a goat's liver and eventually cause copper toxicity.
+Dog food also has mineral ratios that are wrong for goats, similar to how [cattle feed](/can-goats-eat-cattle-feed/) and [chicken feed](/can-goats-eat-chicken-feed/) are dangerous for the same reason. Many dog foods contain high levels of copper, which is fine for dogs but can build up in a goat's liver and eventually cause copper toxicity.
 
 The fat content in most dog foods runs between 12% and 20%, which is far higher than what goats need. Too much fat disrupts rumen function and can lead to bloating, diarrhea, and long-term weight problems.
 
@@ -51,7 +51,7 @@ Wet dog food is even worse than dry kibble. The concentrated meat content and hi
 
 ## Are There Any Benefits to Goats Eating Dog Food?
 
-There are no real benefits to feeding goats dog food. Some people point to the protein content, but goats get all the protein they need from quality hay, alfalfa, and goat-specific grain mixes.
+There are no real benefits to feeding goats dog food. Some people point to the protein content, but goats get all the protein they need from quality hay, [alfalfa](/can-goats-eat-alfalfa/), and goat-specific grain mixes.
 
 The minerals in dog food are not formulated for ruminants. Even if a particular nutrient is present, the ratios and forms may not be what a goat can absorb or use safely.
 
@@ -59,7 +59,7 @@ If you are looking for a way to boost protein for a lactating doe or a growing k
 
 ## What a Goat's Diet Normally Consists Of
 
-A goat's diet should be about 80% hay or pasture browse. Good grass hay or alfalfa provides the fiber their rumen needs to function properly.
+A goat's diet should be about 80% [hay or pasture browse](/what-kind-of-hay-do-goats-eat/). Good grass hay or alfalfa provides the fiber their rumen needs to function properly.
 
 Grain mixes formulated for goats can make up about 10% to 15% of the diet, depending on the animal's age and production needs. Lactating does and growing kids need more grain than dry does or wethers.
 
@@ -69,4 +69,4 @@ The simplest way to prevent your goats from eating dog food is to store it in a 
 
 If you have both dogs and goats on the same property, feed the dogs in a separate fenced area or inside the house. Goats are clever escape artists and will find their way to any unattended food source.
 
-A goat that has gotten into dog food once will remember where it is and try again. Prevention is the only reliable strategy here, since you cannot explain to a goat why kibble is off the menu.
+A goat that has gotten into dog food once will remember where it is and try again. Redirect their curiosity with safe treats like [pumpkin](/can-goats-eat-pumpkin/) or [sunflower seeds](/can-goats-eat-sunflower-seeds/) instead. Prevention is the only reliable strategy here, since you cannot explain to a goat why kibble is off the menu.

@@ -47,7 +47,7 @@ The eggplant fruit itself is safe for goats in small amounts. But the leaves, st
 
 The purple eggplant fruit that you'd slice up for dinner is safe for goats to eat, whether raw or cooked. It contains some fiber, vitamins A and C, and a small amount of potassium.
 
-Eggplant isn't something goats typically go crazy for. Most will nibble a piece or two and move on. If you have leftover eggplant from the kitchen, offering a small amount as a treat is perfectly fine.
+Eggplant isn't something goats typically go crazy for. Most will nibble a piece or two and move on. Goats tend to prefer sweeter treats like [apples](/can-goats-eat-apples/) and [bananas](/can-goats-eat-bananas/). If you have leftover eggplant from the kitchen, offering a small amount as a treat is perfectly fine.
 
 ## Are Any Parts of an Eggplant Safe for Goats to Eat?
 
@@ -59,13 +59,13 @@ The leaves, stems, and flowers of the eggplant plant are NOT safe. Eggplant belo
 
 No, and this is where many goat owners get tripped up. Eggplant leaves contain significant amounts of solanine, and goats should not eat them.
 
-If your goats have access to your garden, fence off the eggplant rows. Goats are curious browsers and might sample the leaves just because they're there. Even if a goat takes a few bites and walks away, it's better to prevent access entirely than to risk it.
+If your goats have access to your garden, fence off the eggplant rows. Also keep them away from [mushrooms](/can-goats-eat-mushrooms/) growing in the pasture, as many varieties are toxic. Goats are curious browsers and might sample the leaves just because they're there. Even if a goat takes a few bites and walks away, it's better to prevent access entirely than to risk it.
 
 ## Nightshade Plants, Including Eggplant, Are Dangerous for Goats
 
-The nightshade family includes eggplant, tomatoes, potatoes, peppers, and several wild plants like deadly nightshade and horse nettle. The green parts of these plants, leaves, stems, unripe fruit, and flowers, all contain varying levels of solanine and related alkaloids.
+The nightshade family includes eggplant, [tomatoes](/can-goats-eat-tomatoes/), [potatoes](/can-goats-eat-potatoes/), [peppers](/can-goats-eat-peppers/), and several wild plants like deadly nightshade and horse nettle. The green parts of these plants, leaves, stems, unripe fruit, and flowers, all contain varying levels of solanine and related alkaloids.
 
-Goats are more resistant to plant toxins than many other livestock species, but that resistance has limits. A goat that eats a significant amount of nightshade plant material can get seriously sick. Young kids and pregnant does are especially vulnerable because their bodies can't handle the toxic load as well as a healthy adult.
+Goats are more resistant to plant toxins than many other livestock species, but that resistance has limits. Other toxic plants like [avocado](/can-goats-eat-avocado/) and [chocolate](/can-goats-eat-chocolate/) pose similar dangers. A goat that eats a significant amount of nightshade plant material can get seriously sick. Young kids and pregnant does are especially vulnerable because their bodies can't handle the toxic load as well as a healthy adult.
 
 ## Solanine in Nightshade Plants Can Be Fatal to Goats
 
@@ -83,7 +83,7 @@ Symptoms usually appear within a few hours of ingestion. If you see any of these
 
 If your goat ate the fruit (the purple part), relax. A few bites of ripe eggplant won't cause any problems. Just monitor them briefly and move on.
 
-If your goat ate the leaves, stems, or flowers, that's a different situation. Remove the goat from the area immediately, offer fresh water and quality hay, and watch closely for any symptoms. If you notice anything unusual within the first few hours, contact your vet. Quick action can prevent a minor exposure from becoming a serious problem.
+If your goat ate the leaves, stems, or flowers, that's a different situation. Remove the goat from the area immediately, offer fresh water and [quality hay](/what-kind-of-hay-do-goats-eat/), and watch closely for any symptoms. If you notice anything unusual within the first few hours, contact your vet. Quick action can prevent a minor exposure from becoming a serious problem.
 
 ## Eggplants Are Members of the Nightshade Family
 

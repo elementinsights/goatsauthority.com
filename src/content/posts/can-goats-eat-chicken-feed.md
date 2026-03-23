@@ -45,13 +45,13 @@ A one-time nibble probably won't cause a crisis. The real danger comes from repe
 
 The biggest danger is monensin, also sold under the brand name Rumensin. Many medicated chicken feeds contain monensin as a coccidiostat, and it is fatal to goats even in very small amounts. There is no antidote and no treatment once a goat has ingested a lethal dose.
 
-Beyond the monensin risk, chicken feed has way too much calcium for goats. Excess calcium can cause urinary calculi, especially in male goats, which creates painful and potentially fatal kidney stones. Chicken feed also lacks adequate copper, which goats need but chickens don't, leading to copper deficiency over time.
+Beyond the monensin risk, chicken feed has way too much calcium for goats. The same calcium issue exists with [cattle feed](/can-goats-eat-cattle-feed/) and [calf starter pellets](/can-goats-eat-calf-starter-pellets/). Excess calcium can cause urinary calculi, especially in male goats, which creates painful and potentially fatal kidney stones. Chicken feed also lacks adequate copper, which goats need but chickens don't, leading to copper deficiency over time.
 
 ## What Is the Best Thing to Feed Goats
 
-Goats do best on a diet built around quality hay or browse, which gives their rumen the long-stem fiber it needs to function properly. Good grass hay or alfalfa should make up the bulk of their daily intake.
+Goats do best on a diet built around [quality hay](/what-kind-of-hay-do-goats-eat/) or browse, which gives their rumen the long-stem fiber it needs to function properly. Good grass hay or [alfalfa](/can-goats-eat-alfalfa/) should make up the bulk of their daily intake.
 
-A goat-specific grain mix can be offered in small amounts for extra energy, especially for lactating does or growing kids. Loose minerals formulated for goats are also important since they contain the right balance of copper, selenium, and zinc that goats need. Fresh, clean water available at all times rounds out a solid feeding program.
+A goat-specific grain mix can be offered in small amounts for extra energy, especially for lactating does or growing kids. Safe grain supplements like [oats](/can-goats-eat-oats/) and [corn](/can-goats-eat-corn/) work well when properly portioned. Loose minerals formulated for goats are also important since they contain the right balance of copper, selenium, and zinc that goats need. Fresh, clean water available at all times rounds out a solid feeding program.
 
 ## Top Reasons Why Not to Give Goats Chicken Feed
 
@@ -65,4 +65,4 @@ Store all chicken feed in a goat-proof area. Metal trash cans with locking lids 
 
 Feed your chickens in an enclosed coop or a fenced section that goats can't enter. Timing your feeding so chickens eat while goats are in a separate paddock also helps. It takes a little extra planning, but keeping feeds completely separate is the only way to guarantee your goats never get into something that could hurt or kill them.
 
-If your goat does manage to get into the chicken feed, watch her closely for the next 48 hours. Signs of trouble include bloating, diarrhea, loss of appetite, and grinding teeth. If the feed was medicated with monensin, contact your vet immediately because time is critical.
+If your goat does manage to get into the chicken feed, watch her closely for the next 48 hours. Offering [timothy hay](/can-goats-eat-timothy-hay/) helps buffer the rumen and restore normal digestion. Signs of trouble include bloating, diarrhea, loss of appetite, and grinding teeth. If the feed was medicated with monensin, contact your vet immediately because time is critical.

@@ -57,7 +57,7 @@ Most goats will eat asparagus willingly. The tender tips tend to be their favori
 
 Asparagus stands out for its folate content, which supports cell growth and is especially valuable for pregnant does. It also delivers a solid dose of vitamin K for blood clotting and vitamin A for eye health and skin condition.
 
-The fiber in asparagus supports healthy rumen function and keeps digestion moving smoothly. It’s a low-calorie vegetable too, so you don’t need to worry about it adding excess sugar the way some fruits do.
+The fiber in asparagus supports healthy rumen function and keeps digestion moving smoothly. It’s a low-calorie vegetable too, so you don’t need to worry about it adding excess sugar the way [grapes](/can-goats-eat-grapes/) or [bananas](/can-goats-eat-bananas/) might.
 
 Asparagus also contains chromium, a trace mineral that helps regulate blood sugar. For a simple garden vegetable, it brings a lot to the table nutritionally.
 
@@ -83,13 +83,13 @@ Every breed of goat, including Nigerian Dwarfs, can eat asparagus safely. Just a
 
 Kids can eat asparagus once they’re eating solid food, usually around 2-3 weeks old. Cut it into smaller pieces for them and introduce it gradually alongside their regular hay and grain.
 
-Don’t overdo it with young goats. Their rumens are still developing, and new foods should be introduced slowly to avoid digestive upset.
+Don’t overdo it with young goats. Their rumens are still developing, and new foods should be introduced slowly to avoid digestive upset. Safe starter treats like [blueberries](/can-goats-eat-blueberries/) work well for kids just learning to eat solids.
 
 ## How Much Asparagus Can Goats Eat?
 
 A few stalks per goat a couple of times per week is a reasonable amount. Asparagus should be a supplement to their core diet of hay, browse, and pasture, not a replacement for it.
 
-Mix it in with other safe vegetables to keep their diet varied. Variety is what goats are built for, and rotating different treats keeps them interested.
+Mix it in with other safe vegetables like [bell peppers](/can-goats-eat-bell-peppers/) and [broccoli](/can-goats-eat-broccoli/) to keep their diet varied. Variety is what goats are built for, and rotating different treats keeps them interested.
 
 ## Can Goats Eat Asparagus Ferns?
 
@@ -97,10 +97,10 @@ This is where you need to pay attention. The ornamental asparagus fern, the hous
 
 Ornamental asparagus fern contains sapogenin, a toxic compound that can cause serious harm to your goat’s digestive system. Keep these plants well out of reach of your herd.
 
-It may seem like goats will eat anything, but this is one of those cases where the wrong plant can make them genuinely sick. Know the difference between your garden asparagus and the decorative fern, and you won’t have a problem.
+It may seem like [goats eat everything](/can-goats-eat-everything/), but this is one of those cases where the wrong plant can make them genuinely sick. Know the difference between your garden asparagus and the decorative fern, and you won’t have a problem.
 
 ## Can Goats Eat Asparagus Stems?
 
 Absolutely. The stalks are the most common part to feed, and they’re full of fiber and vitamins A and C.
 
-The thicker, woodier stems that humans tend to discard are actually great for goats. They enjoy the texture and the chewing action is good for their teeth. Next time you’re trimming asparagus for dinner, toss the leftovers to your goats instead of the compost bin.
+The thicker, woodier stems that humans tend to discard are actually great for goats. They enjoy the texture and the chewing action is good for their teeth, much like how they love gnawing on [celery stalks](/can-goats-eat-celery/). Next time you’re trimming asparagus for dinner, toss the leftovers to your goats instead of the compost bin.

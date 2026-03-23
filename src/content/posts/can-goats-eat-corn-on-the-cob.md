@@ -39,7 +39,7 @@ Goats can eat corn on the cob, and most of them love it. The kernels, the cob, t
 
 Yes, corn on the cob is safe for goats. It's a good source of energy and carbohydrates, and goats will usually go after it with enthusiasm.
 
-The important thing to understand is that corn is high in starch, so it needs to be treated as a treat or supplement rather than a dietary staple. Too much corn too quickly is one of the most common ways goats end up with digestive trouble.
+The important thing to understand is that [corn](/can-goats-eat-corn/) is high in starch, so it needs to be treated as a treat or supplement rather than a dietary staple. Too much corn too quickly is one of the most common ways goats end up with digestive trouble.
 
 A couple of ears per adult goat as an occasional treat is perfectly fine. Just don't dump a bushel of corn in the pen and walk away.
 
@@ -49,15 +49,15 @@ Every part of an ear of corn is safe for goats. The kernels are the part with th
 
 The husks and silk are actually the safest parts because they're high in fiber and low in starch. Many goats enjoy stripping the husks off and chewing through them before they even get to the kernels.
 
-If you're tossing leftover corn from a summer cookout, make sure it hasn't been seasoned with butter, salt, or spices. Plain corn only for your goats.
+If you're tossing leftover corn from a summer cookout, make sure it hasn't been seasoned with butter, salt, or spices. Plain corn only for your goats. [Watermelon rinds](/can-goats-eat-watermelon/) and [pumpkin](/can-goats-eat-pumpkin/) are safer cookout leftovers to share.
 
 ## Risks of feeding too much corn
 
 The main danger with corn is acidosis, which happens when a goat eats too much starch too fast. The pH in the rumen drops, beneficial gut bacteria die off, and the goat can get seriously sick within hours.
 
-Signs of a goat that's eaten too much corn include a bloated belly, grinding teeth, reluctance to move, and going off feed. If you suspect corn overload, pull all grain immediately, offer plenty of hay and fresh water, and call your vet if symptoms don't improve within a few hours.
+Signs of a goat that's eaten too much corn include a bloated belly, grinding teeth, reluctance to move, and going off feed. The same symptoms appear with [alfalfa](/can-goats-eat-alfalfa/) bloat if goats gorge on it. If you suspect corn overload, pull all grain immediately, offer plenty of hay and fresh water, and call your vet if symptoms don't improve within a few hours.
 
-Chronic overfeeding of corn can also lead to obesity and urinary calculi in bucks and wethers. The high phosphorus content in corn without enough calcium to balance it creates the perfect conditions for bladder stones.
+Chronic overfeeding of corn can also lead to obesity and urinary calculi in bucks and wethers. Balancing with [timothy hay](/can-goats-eat-timothy-hay/) helps maintain the correct calcium-to-phosphorus ratio. The high phosphorus content in corn without enough calcium to balance it creates the perfect conditions for bladder stones.
 
 ## Fresh corn vs. Dried corn
 
@@ -73,7 +73,7 @@ For adult goats, you can toss a whole ear of fresh corn into the pen and let the
 
 For kids, break the cob into smaller sections so they can handle it without choking. Supervise young goats the first few times they eat corn to make sure they're chewing it properly.
 
-Store your corn supply in a locked, heavy-duty container that goats can't get into. Goats are notorious for breaking into feed rooms and gorging themselves. One unsecured bag of corn can turn into a veterinary emergency.
+Store your corn supply in a locked, heavy-duty container that goats can't get into. Goats are notorious for [breaking into feed rooms](/can-goats-eat-everything/) and gorging themselves. One unsecured bag of corn can turn into a veterinary emergency.
 
 ## Final Thoughts
 

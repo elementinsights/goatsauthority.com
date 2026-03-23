@@ -49,7 +49,7 @@ A handful of cooked rice mixed in with their grain now and then won't cause any 
 
 Goats are ruminants with a four-chambered stomach designed to break down tough, fibrous plant matter. White rice is the opposite of tough and fibrous. It's soft, starchy, and breaks down almost immediately.
 
-Too much starch too quickly can throw off the pH balance in the rumen, which can lead to acidosis in severe cases. This is the same reason you limit corn and other high-starch grains. A little is fine, but a lot can make a goat sick.
+Too much starch too quickly can throw off the pH balance in the rumen, which can lead to acidosis in severe cases. This is the same reason you limit [corn](/can-goats-eat-corn/) and other high-starch grains. A little is fine, but a lot can make a goat sick.
 
 White rice also has a high glycemic index, meaning it spikes blood sugar quickly. For pregnant does, this rapid blood sugar change can be problematic and increase the risk of ketosis.
 
@@ -59,7 +59,7 @@ There's one situation where cooked white rice can be genuinely useful: when a go
 
 Mix about half a cup of cooked rice with their regular grain to help bind things up. This is a short-term fix, not a long-term feeding strategy.
 
-If the diarrhea lasts more than a day or two, skip the home remedies and call your vet. Persistent loose stools in goats usually point to parasites, infection, or something else that rice won't solve.
+If the diarrhea lasts more than a day or two, skip the home remedies and call your vet. Offering [blackberry leaves](/can-goats-eat-blackberries/), which have natural astringent properties, may also help firm up mild loose stools. Persistent problems usually point to parasites, infection, or something else that rice won't solve.
 
 ## Raw rice vs. Cooked rice
 
@@ -67,15 +67,15 @@ Don't feed raw rice to goats. Uncooked rice absorbs moisture and expands in the 
 
 Cooked rice has already absorbed its water and expanded, so it doesn't pose the same risk. If you're going to offer rice at all, always cook it first and let it cool to room temperature before feeding.
 
-Keep it plain too. No butter, salt, soy sauce, or seasonings of any kind. Goats don't need added sodium, and many common seasonings can irritate their stomachs.
+Keep it plain too. No butter, salt, soy sauce, or seasonings of any kind. Goats don't need added sodium, and many common seasonings can irritate their stomachs. The same plain-only rule applies when sharing [bread](/can-goats-eat-bread/) or [cooked pasta](/can-goats-eat-cooked-pasta/).
 
 ## Better grain options for goats
 
-If you want to supplement your goats' diet with grain, there are much better options than rice. Oats are a solid choice because they're lower in starch and higher in fiber, making them easier on the rumen.
+If you want to supplement your goats' diet with grain, there are much better options than rice. [Oats](/can-goats-eat-oats/) are a solid choice because they're lower in starch and higher in fiber, making them easier on the rumen.
 
 Barley is another good option that provides energy without the sharp starch spike of rice or corn. Many goat owners use a commercial goat feed pellet that's already balanced with the right mix of grains, minerals, and vitamins.
 
-Whatever grain you choose, remember that hay and forage should always make up the foundation of a goat's diet. Grain is a supplement, and it should never be more than a small portion of their daily intake.
+Whatever grain you choose, remember that [hay and forage](/what-kind-of-hay-do-goats-eat/) should always make up the foundation of a goat's diet. Grain is a supplement, and it should never be more than a small portion of their daily intake.
 
 ## Final Thoughts
 

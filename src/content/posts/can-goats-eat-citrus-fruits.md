@@ -52,13 +52,13 @@ Citrus fruits are packed with vitamin C, which supports immune function in goats
 
 The peels are where the real value is. Citrus peels contain limonene, a compound that has shown natural deworming properties in some studies. Several goat farmers feed citrus peels specifically for this reason, using them as a supplement alongside their regular deworming program.
 
-Peels are also higher in fiber than the fruit flesh, which means they contribute to healthy rumen function rather than just adding sugar.
+Peels are also higher in fiber than the fruit flesh, which means they contribute to healthy rumen function rather than just adding sugar. [Watermelon rinds](/can-goats-eat-watermelon/) offer a similar high-fiber, low-sugar treat option.
 
 ## How to introduce citrus to your goats
 
 Start with a few small pieces and see if your goats are interested. Some goats take one sniff of a lemon and walk away, while others will eat citrus right out of your hand.
 
-Do not force it. If your goats refuse citrus, they are not missing anything they cannot get from other parts of their diet. Plenty of goats just do not like the strong scent.
+Do not force it. If your goats refuse citrus, they are not missing anything they cannot get from [apples](/can-goats-eat-apples/) or [blueberries](/can-goats-eat-blueberries/) instead. Plenty of goats just do not like the strong scent.
 
 For goats that do enjoy citrus, offer a piece or two per day as a treat. There is no need to go overboard since the acidity can cause loose droppings if a goat eats too much at once.
 
@@ -68,13 +68,13 @@ Citrus seeds are not toxic to goats, but they can be a mild choking hazard for s
 
 Leave the peels on. Most goats prefer to eat the peel along with the fruit, and that is where the best nutrients live. Just make sure the fruit has been washed to remove any wax coating or pesticide residue from store-bought citrus.
 
-If you have citrus trees on your property, fallen fruit is fair game for your goats. Let them clean up the ground under the trees and you both benefit.
+If you have citrus trees on your property, fallen fruit is fair game for your goats. Just make sure they are not also getting into anything toxic like [avocado](/can-goats-eat-avocado/) trees nearby. Let them clean up the ground under the trees and you both benefit.
 
 ## How much citrus per day
 
 One medium-sized citrus fruit per adult goat per day is a reasonable amount. That could be one orange, a couple of tangerines, or half a grapefruit.
 
-Baby kids should skip citrus until they are eating solid food regularly and their rumen is more developed. The acidity can be rough on a young, developing digestive system.
+Baby kids should skip citrus until they are eating solid food regularly and their rumen is more developed. Gentler treats like [bananas](/can-goats-eat-bananas/) or [carrots](/can-goats-eat-carrots/) are better for young kids. The acidity can be rough on a young, developing digestive system.
 
 Citrus works best as a supplement to a hay-based diet, not as a significant portion of their daily intake. A piece or two adds variety and nutrition without overdoing the sugar and acid.
 

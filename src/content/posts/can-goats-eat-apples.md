@@ -53,9 +53,9 @@ The sweetness makes apples a top-tier training treat too. If you’re trying to 
 
 #### What Other Fruits Can Goats Eat?
 
-Apples aren’t the only fruit on the menu. Pears, peaches, and bananas are all safe options that most goats eat without hesitation.
+Apples aren’t the only fruit on the menu. Pears, [peaches](/can-goats-eat-peaches/), and [bananas](/can-goats-eat-bananas/) are all safe options that most goats eat without hesitation.
 
-Watermelon is a fantastic summer treat for hydration. Oranges are fine in moderation, though some goats aren’t fans of the citrus taste.
+[Watermelon](/can-goats-eat-watermelon/) is a fantastic summer treat for hydration. [Oranges](/can-goats-eat-oranges/) are fine in moderation, though some goats aren’t fans of the citrus taste.
 
 **Keep total fruit treats under 10% of their daily diet.** The rest should come from quality hay, browse, and grain.
 
@@ -91,13 +91,13 @@ Will a handful of seeds kill an adult goat? Almost certainly not. But there’s 
 
 Yes, apple tree leaves and bark are both safe for goats. Goats are natural browsers and will happily strip leaves from apple trees if given access.
 
-Apple leaves provide fiber and micronutrients that support digestion. If you have apple trees on your property, you’ve probably already noticed your goats going after them.
+Apple leaves provide fiber and micronutrients that support digestion. Goats enjoy browsing on all kinds of trees, including [pine trees](/can-goats-eat-pine-trees/) and [blackberry bushes](/can-goats-eat-blackberries/). If you have apple trees on your property, you’ve probably already noticed your goats going after them.
 
 Just be aware that goats can damage young trees if they strip too much bark. Fence the trees off and bring pruned branches to the goats instead.
 
 ## Foods to Avoid Feeding Your Goat
 
-While apples are safe, not everything in your kitchen is. Avocados contain persin, which damages the heart muscle. Chocolate has theobromine that goats can’t metabolize, and onions cause hemolytic anemia.
+While apples are safe, not everything in your kitchen is. [Avocados](/can-goats-eat-avocado/) contain persin, which damages the heart muscle. [Chocolate](/can-goats-eat-chocolate/) has theobromine that goats can’t metabolize, and [onions](/can-goats-eat-onions/) cause hemolytic anemia.
 
 **Never feed rotten or fermented apples to your goats.** Apples that have been sitting on the ground fermenting contain alcohol, and alcohol toxicity in goats can cause serious neurological problems and even death.
 
@@ -115,4 +115,4 @@ Both goats and chickens can eat apples safely. Remove the seeds for both animals
 
 ### 3. What Is a Goat’s Favorite Treat?
 
-It varies by individual, but apples consistently rank near the top. Other popular options include carrots, banana peels, and animal crackers. Keep treats under 10% of the total diet and make sure hay and browse stay front and center.
+It varies by individual, but apples consistently rank near the top. Other popular options include [carrots](/can-goats-eat-carrots/), banana peels, and animal crackers. Keep treats under 10% of the total diet and make sure hay and browse stay front and center.

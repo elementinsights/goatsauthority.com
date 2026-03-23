@@ -41,7 +41,7 @@ Calf starter pellets are formulated for cattle, not goats, and feeding them to y
 
 Calf starter pellets are not ideal for goats. They are designed around a calf’s nutritional needs, which differ from what goats require in several important ways.
 
-A small amount of monensin-free calf starter probably will not hurt a goat in a pinch. But making it a regular part of their diet is setting yourself up for problems down the road.
+A small amount of monensin-free calf starter probably will not hurt a goat in a pinch. Safe grain alternatives like [oats](/can-goats-eat-oats/) or [corn](/can-goats-eat-corn/) are always better choices. But making calf starter a regular part of their diet is setting yourself up for problems down the road.
 
 ## What are calf starter pellets and what do they contain?
 
@@ -55,7 +55,7 @@ The biggest danger is monensin, also sold under the brand name Rumensin. Many ca
 
 A goat that eats monensin-contaminated feed can develop heart failure and die within days. There is no antidote, and by the time you notice symptoms it is usually too late.
 
-Beyond monensin, the copper levels in calf feed can be too high for goats over time. Copper toxicity builds up silently in the liver and then triggers a sudden, often fatal crisis with symptoms like dark urine and jaundice.
+Beyond monensin, the copper levels in calf feed can be too high for goats over time. The same danger exists with [cattle feed](/can-goats-eat-cattle-feed/) and [chicken feed](/can-goats-eat-chicken-feed/), which also contain wrong mineral ratios. Copper toxicity builds up silently in the liver and then triggers a sudden, often fatal crisis with symptoms like dark urine and jaundice.
 
 Always read the feed tag before offering any cattle product to your goats. If it lists monensin, lasalocid, salinomycin, or any other ionophore, do not feed it to goats under any circumstances.
 
@@ -65,7 +65,7 @@ If you are in an emergency situation where calf starter is all you have, and you
 
 This is strictly a short-term fix. Get goat-specific feed as soon as you can and make the switch.
 
-When transitioning off calf pellets, do it gradually over about a week. Mix the old feed with the new in shifting ratios so the rumen bacteria have time to adjust without causing digestive upset.
+When transitioning off calf pellets, do it gradually over about a week. You can also supplement with [alfalfa](/can-goats-eat-alfalfa/) during the transition to boost protein intake safely. Mix the old feed with the new in shifting ratios so the rumen bacteria have time to adjust without causing digestive upset.
 
 ## Should you supplement your goat’s diet with other foods in addition to calf starter pellets?
 
@@ -73,7 +73,7 @@ The better question is whether you should be feeding calf starter at all when go
 
 If you keep both cattle and goats on the same property, store feeds separately and use locked feeders. Goats getting into cattle feed is one of the most common causes of accidental goat death on mixed farms.
 
-A proper goat diet starts with quality hay and browse, supplemented with a goat-formulated grain mix and a loose mineral designed for goats. That combination covers everything they need without the risks that come with cattle products.
+A proper goat diet starts with [quality hay](/what-kind-of-hay-do-goats-eat/) and browse, supplemented with a goat-formulated grain mix and a loose mineral designed for goats. That combination covers everything they need without the risks that come with cattle products.
 
 ## Final Thoughts
 

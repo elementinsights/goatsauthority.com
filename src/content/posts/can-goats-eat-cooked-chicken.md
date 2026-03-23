@@ -53,7 +53,7 @@ Meat doesn't belong in that system. A goat that grabs a small piece off the grou
 
 ## Are there any benefits to feeding cooked chicken to goats?
 
-There really aren't any meaningful benefits. While chicken does contain protein, goats get all the protein they need from quality hay, alfalfa, browse, and supplemental grain.
+There really aren't any meaningful benefits. While chicken does contain protein, goats get all the protein they need from quality hay, [alfalfa](/can-goats-eat-alfalfa/), browse, and supplemental grain.
 
 A goat's rumen bacteria are specialized for breaking down cellulose from plants. Throwing meat into that system doesn't help anything and could actually disrupt the microbial balance that keeps digestion running smoothly.
 
@@ -61,13 +61,13 @@ A goat's rumen bacteria are specialized for breaking down cellulose from plants.
 
 The biggest risk is digestive upset. Goat rumens aren't equipped to handle meat, and feeding it regularly could throw off the delicate balance of rumen bacteria that your goat depends on.
 
-Cooked chicken bones can splinter and create choking hazards or cause internal injuries. Seasoned chicken brings additional problems like excess salt, garlic, and onion, all of which can be harmful to goats. There's also a bacterial contamination risk if the chicken has been sitting out.
+Cooked chicken bones can splinter and create choking hazards or cause internal injuries. Seasoned chicken brings additional problems like excess salt, garlic, and [onion](/can-goats-eat-onions/), all of which can be harmful to goats. There's also a bacterial contamination risk if the chicken has been sitting out.
 
 ## How to prevent the risks associated with feeding cooked chicken to goats
 
 The simplest prevention is to just not feed chicken to your goats. Keep kitchen scraps that contain meat away from the barn and pasture areas.
 
-If you process poultry on your farm, clean up thoroughly afterward. Goats are curious and will investigate anything with a novel smell. Secure your compost bins and keep pet food bowls out of reach since dog and cat food often contains chicken.
+If you process poultry on your farm, clean up thoroughly afterward. Goats are curious and will investigate anything with a novel smell. Secure your compost bins and keep [dog food](/can-goats-eat-dog-food/) bowls out of reach since dog and cat food often contains chicken.
 
 ## How much-cooked chicken can a goat eat in one day?
 
@@ -89,9 +89,9 @@ Whether you're raising Boers, Nubians, Nigerian Dwarfs, or any other breed, the 
 
 ## Are there any alternative options to feeding goats cooked chicken?
 
-If you're looking to boost your goat's protein intake, there are plenty of plant-based options that actually work with their digestive system. Alfalfa hay runs 15 to 20 percent crude protein and goats love it.
+If you're looking to boost your goat's protein intake, there are plenty of plant-based options that actually work with their digestive system. [Alfalfa hay](/can-goats-eat-alfalfa/) runs 15 to 20 percent crude protein and goats love it.
 
-Soybean meal, whole roasted soybeans, and dried peas are all excellent high-protein supplements you can mix into a grain ration. Black oil sunflower seeds are another popular choice that provides protein, fat, and a nice coat shine. These options give your goats everything they need without fighting against their natural biology.
+Soybean meal, whole roasted soybeans, and dried peas are all excellent high-protein supplements you can mix into a grain ration. [Black oil sunflower seeds](/can-goats-eat-sunflower-seeds/) are another popular choice that provides protein, fat, and a nice coat shine. These options give your goats everything they need without fighting against their natural biology.
 
 ## Final Thoughts
 

@@ -62,7 +62,7 @@ The fermentation and aging process changes the composition of the milk in ways a
 
 ## Dangers of Eating Cheese in Goats
 
-Cheese is high in fat, sodium, and concentrated calories that goats don’t need. Too much fat can slow down fermentation in the rumen, and when fermentation stalls, gas builds up and bloating follows.
+Cheese is high in fat, sodium, and concentrated calories that goats don’t need. Too much fat can slow down fermentation in the rumen, and when fermentation stalls, gas builds up and bloating follows. Even [bread](/can-goats-eat-bread/) can cause similar rumen issues when fed in excess.
 
 The salt content is another concern. A single ounce of cheddar contains around 180 mg of sodium, which is a lot for an animal that weighs 60 to 150 pounds. Over time, excess sodium puts strain on a goat’s kidneys.
 
@@ -70,14 +70,14 @@ Never feed moldy or aged cheeses to goats. Blue cheese, sharp cheddar, and other
 
 ## the Misconception That Goats Can Eat Cheese
 
-This ties into the old myth that goats eat everything. They don’t. Goats are actually picky browsers that prefer leaves, bark, and weeds over most of what people try to hand-feed them.
+This ties into the old myth that [goats eat everything](/can-goats-eat-everything/). They don’t. Goats are actually picky browsers that prefer leaves, bark, and weeds over most of what people try to hand-feed them.
 
 Their attraction to cheese is purely about the smell. Goats have a strong sense of smell, and the pungent aroma of cheese grabs their attention fast. That doesn’t mean their body needs it or can handle it well.
 
 ## What Other Foods Can Goats Eat Apart From Cheese?
 
-If you want to treat your goats, reach for something their rumen can actually use. Apple slices, carrot sticks, banana pieces, and watermelon rind are all safe and popular choices.
+If you want to treat your goats, reach for something their rumen can actually use. [Apple slices](/can-goats-eat-apples/), [carrot sticks](/can-goats-eat-carrots/), [banana pieces](/can-goats-eat-bananas/), and [watermelon rind](/can-goats-eat-watermelon/) are all safe and popular choices.
 
-Hay and browse should make up the bulk of their diet, with grain as a supplement for does in milk or growing kids. A loose goat mineral with copper is also important for overall health.
+[Hay](/what-kind-of-hay-do-goats-eat/) and browse should make up the bulk of their diet, with grain as a supplement for does in milk or growing kids. A loose goat mineral with copper is also important for overall health.
 
 Keep treats to a small handful per day and skip the processed human foods entirely. Your goats will be healthier for it, and they won't know the difference between a cheese crumb and a raisin anyway.

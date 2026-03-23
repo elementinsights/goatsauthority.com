@@ -45,7 +45,7 @@ Goats browsing through a pasture with scattered oak trees will naturally pick up
 
 The concern with raw acorns is their tannin content. Tannins are bitter compounds that plants produce as a natural defense, and they are concentrated most heavily in green, immature acorns.
 
-Mature brown acorns that have dried on the ground contain less tannin than fresh green ones. If your goats are going to snack on acorns, brown ones are the safer bet.
+Mature brown acorns that have dried on the ground contain less tannin than fresh green ones. If your goats are going to snack on acorns, brown ones are the safer bet. The same caution applies to [moldy hay](/can-goats-eat-moldy-hay/), where quality matters just as much as quantity.
 
 ## Can Goats Eat Acorns Cooked?
 
@@ -57,7 +57,7 @@ Cooking acorns makes them safer, but most farmers do not bother with this step. 
 
 A good rule of thumb is to keep acorn intake under 10% of a goat's daily diet. For an average adult goat eating around 6 pounds of food per day, that means no more than half a pound of acorns.
 
-Problems show up when goats have unrestricted access to fallen acorns during autumn. A heavy acorn crop year combined with short pasture grass creates the perfect storm for overconsumption.
+Problems show up when goats have unrestricted access to fallen acorns during autumn. A heavy acorn crop year combined with short pasture grass creates the perfect storm for overconsumption. Providing [quality timothy hay](/can-goats-eat-timothy-hay/) alongside pasture helps curb the temptation.
 
 Watch your herd closely during October and November. If you see goats spending more time under the oaks than out grazing, it is time to limit their access to those areas.
 
@@ -67,7 +67,7 @@ Acorns do contain useful nutrients. They run about 6% protein and 18% fat, and t
 
 The risk is tannin poisoning, which veterinarians call oak toxicity. When goats eat too many tannin-rich acorns, the tannins damage the kidneys and the lining of the digestive tract.
 
-Green acorns, oak leaves, and oak bark all contain tannins. Young oak shoots in spring can be just as dangerous as acorns in fall, so keep an eye on your goats around oak trees year-round.
+Green acorns, oak leaves, and oak bark all contain tannins. Young oak shoots in spring can be just as dangerous as acorns in fall, so keep an eye on your goats around oak trees year-round. Other trees like [pine](/can-goats-eat-pine-trees/) are much safer browsing options.
 
 ## Preventing and Treating Acorn Poisoning in Goats
 
@@ -77,12 +77,12 @@ As the condition worsens, constipation gives way to bloody diarrhea and dark-col
 
 If you spot these signs, pull the goat off the pasture immediately and call your vet. Treatment involves IV fluids and supportive care, but there is no antidote for tannin poisoning once kidney damage has occurred.
 
-The best prevention is fencing off heavy oak areas during peak acorn drop. You can also provide plenty of good hay so goats are less tempted to fill up on acorns out of hunger.
+The best prevention is fencing off heavy oak areas during peak acorn drop. You can also provide plenty of good hay so goats are less tempted to fill up on acorns out of hunger. Safe treats like [apples](/can-goats-eat-apples/) or [carrots](/can-goats-eat-carrots/) give them something enjoyable to eat instead.
 
 ## Preparing and Feeding Acorns for Goats
 
 If you want to offer acorns as a treat, collect mature brown ones and let them dry in the sun for a few days. Avoid any that are moldy, green, or still in their caps.
 
-Crush or crack the shells before offering them so goats can get to the meat inside without struggling. Mixing a handful of cracked acorns into their grain is a safe way to let them enjoy the flavor without overdoing it.
+Crush or crack the shells before offering them so goats can get to the meat inside without struggling. Mixing a handful of cracked acorns into their grain is a safe way to let them enjoy the flavor without overdoing it. You can also mix in some [oats](/can-goats-eat-oats/) to round out the nutritional value.
 
-There is no need to make acorns a regular part of their diet. Hay, browse, and a balanced goat feed provide everything they need nutritionally.
+There is no need to make acorns a regular part of their diet. Hay, browse, and a balanced goat feed provide everything they need nutritionally. If you want to offer safe treats, [pumpkin](/can-goats-eat-pumpkin/) and [sunflower seeds](/can-goats-eat-sunflower-seeds/) are much better options.

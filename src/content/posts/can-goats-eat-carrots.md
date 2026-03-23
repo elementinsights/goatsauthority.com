@@ -53,7 +53,7 @@ Carrots are loaded with beta-carotene, which converts to vitamin A in the body. 
 
 Carrots are completely safe for goats. There’s nothing toxic about any part of the carrot plant, including the roots, stems, and greens.
 
-The only concern is choking if you give large chunks to smaller goats. Always make sure the carrots are fresh and free of mold, since moldy vegetables can cause serious digestive upset in any livestock.
+The only concern is choking if you give large chunks to smaller goats. Always make sure the carrots are fresh and free of mold, since [moldy feed](/can-goats-eat-moldy-hay/) can cause serious digestive upset in any livestock.
 
 ## Can Goats Eat Raw and Cooked Carrots?
 
@@ -65,7 +65,7 @@ Leftover steamed carrots from dinner are fine to share as long as they’ve cool
 
 Treats of any kind should make up no more than about 10% of your goat’s daily diet. For most adults, a couple of carrots per day is a reasonable amount.
 
-The bulk of their nutrition still needs to come from quality hay, pasture, and whatever grain ration you’re running. If you’ve got a pile of garden carrots to use up, spread them out over the week since too many at once can cause loose stool.
+The bulk of their nutrition still needs to come from [quality hay](/what-kind-of-hay-do-goats-eat/), pasture, and whatever grain ration you’re running. If you’ve got a pile of garden carrots to use up, spread them out over the week since too many at once can cause loose stool.
 
 ## Best Ways to Feed Carrots to Goats
 
@@ -73,7 +73,7 @@ Wash your carrots first to remove dirt or pesticide residue. For adult goats, yo
 
 For kids and smaller breeds, chop carrots into 2 to 3 inch pieces to reduce choking risk. Young goats are eager eaters and sometimes try to swallow pieces too big for them.
 
-Carrots also make a fantastic training treat. They’re easy to break into small pieces and most goats will follow you anywhere for one.
+Carrots also make a fantastic training treat, right up there with [apple slices](/can-goats-eat-apples/) and [banana pieces](/can-goats-eat-bananas/). They’re easy to break into small pieces and most goats will follow you anywhere for one.
 
 ## Can Baby Goats (Kids) Eat Carrots?
 
@@ -85,13 +85,13 @@ Once a kid is regularly eating solids, introduce small pieces of carrot as a tre
 
 Carrot tops are perfectly safe and nutritious. Despite what you might read elsewhere, carrot greens contain no harmful alkaloids or toxins of any kind.
 
-Many goats actually prefer the leafy green tops over the carrot itself. The greens are rich in vitamin C, potassium, and calcium. If you grow your own carrots, hand the tops to your goats instead of throwing them away.
+Many goats actually prefer the leafy green tops over the carrot itself, much like they prefer [celery leaves](/can-goats-eat-celery/) over stalks. The greens are rich in vitamin C, potassium, and calcium. If you grow your own carrots, hand the tops to your goats instead of throwing them away.
 
 ## Health Benefits and Downsides of Carrots for Goats
 
 The biggest benefit is beta-carotene, which converts to vitamin A for vision, reproduction, and immune health. Carrots also provide vitamin K for blood clotting, plus potassium and dietary fiber that supports rumen function.
 
-The only downside is natural sugars. That’s not a problem in normal amounts, but excessive quantities over time could contribute to weight gain in goats that aren’t getting much exercise.
+The only downside is natural sugars. That’s not a problem in normal amounts, but excessive quantities over time could contribute to weight gain in goats that aren’t getting much exercise. For overweight goats, lower-calorie treats like [cucumbers](/can-goats-eat-cucumbers/) are a smarter choice.
 
 ## Can Some Goats Be Allergic to Carrots?
 

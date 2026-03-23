@@ -54,7 +54,7 @@ Winter brush is less nutritious than summer browse since the leaves have dropped
 
 Multiflora rose is one of the best winter browse options because it holds its stems and rosehips well into the cold months. Goats strip the bark and eat the rosehips, which are loaded with vitamin C.
 
-Honeysuckle is another solid choice since it stays semi-evergreen in many climates. Goats will also go after sumac, autumn olive, blackberry canes, and most dormant hardwood saplings without any trouble.
+[Honeysuckle](/can-goats-eat-honeysuckle/) is another solid choice since it stays semi-evergreen in many climates. Goats will also go after sumac, autumn olive, [blackberry canes](/can-goats-eat-blackberries/), and most dormant hardwood saplings without any trouble.
 
 ## What are the benefits of goats eating brushes in winter?
 
@@ -66,21 +66,21 @@ You can target specific invasive species like multiflora rose and honeysuckle wi
 
 A healthy adult goat can eat roughly 3 percent of its body weight in vegetation per day. For a 150-pound goat, that's about 4.5 pounds of browse daily.
 
-In winter, goats tend to spend more time browsing because they're burning extra calories staying warm. They'll work a brushy area hard, but don't count on browse alone to meet all their nutritional needs during cold months.
+In winter, goats tend to spend more time browsing because they're burning extra calories staying warm. Offering [pine needles](/can-goats-eat-pine-needles/) and [straw](/can-goats-eat-straw/) alongside dormant brush adds variety to their cold-weather foraging. They'll work a brushy area hard, but don't count on browse alone to meet all their nutritional needs during cold months.
 
 ## Are there any risks associated with goats eating brushes in winter?
 
 The biggest risk is toxic plants that hold their foliage through winter. Yew is the most dangerous — every part of that plant contains a lethal toxin called taxine, and a goat can die within hours of eating just a few ounces.
 
-Rhododendron and azalea also keep their leaves through cold months and contain grayanotoxins that cause drooling, vomiting, and heart problems. Wild cherry leaves are most toxic after a frost when the wilting process releases cyanide compounds, so clear any fallen branches before turning goats out.
+Rhododendron and azalea also keep their leaves through cold months and contain grayanotoxins that cause drooling, vomiting, and heart problems. Toxic plants like [poison hemlock](/can-goats-eat-poison-hemlock/) are another danger to watch for. Wild cherry leaves are most toxic after a frost when the wilting process releases cyanide compounds, so clear any fallen branches before turning goats out.
 
 ## How to make sure your goats are getting the right nutrition during the winter months?
 
 Brush alone won't meet your goats' needs when temperatures drop. Dormant woody plants have far less protein than summer browse, so you need to fill the gap with hay.
 
-Aim for three to five pounds of quality grass hay per adult goat per day during cold months. Alfalfa hay two or three times a week gives an extra protein boost, and a free-choice loose mineral mix with copper, selenium, and zinc is a must year-round.
+Aim for three to five pounds of quality grass hay per adult goat per day during cold months. [Alfalfa hay](/can-goats-eat-alfalfa/) two or three times a week gives an extra protein boost, and a free-choice loose mineral mix with copper, selenium, and zinc is a must year-round.
 
-Goats burn 20 to 30 percent more calories in winter just staying warm. Fresh water needs to be available at all times too, since dehydrated goats won't eat well no matter how much browse is sitting in front of them.
+Goats burn 20 to 30 percent more calories in winter just staying warm. Adding [sunflower seeds](/can-goats-eat-sunflower-seeds/) to their grain provides healthy fats for extra warmth. Fresh water needs to be available at all times too, since dehydrated goats won't eat well no matter how much browse is sitting in front of them.
 
 ## Final Thoughts
 

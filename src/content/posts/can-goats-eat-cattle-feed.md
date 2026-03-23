@@ -57,23 +57,23 @@ A goat that eats monensin-containing feed can develop heart failure and die with
 
 The second major risk is copper levels. Cattle feed often contains more copper than goats can safely handle over the long term. Copper toxicity builds up silently in the liver and then triggers a sudden, often fatal crisis marked by jaundice, dark urine, and collapse.
 
-Non-medicated cattle feed still has the wrong calcium-to-phosphorus ratio for goats, which can cause urinary calculi in bucks and wethers over time.
+Non-medicated cattle feed still has the wrong calcium-to-phosphorus ratio for goats, which can cause urinary calculi in bucks and wethers over time. Too much [alfalfa](/can-goats-eat-alfalfa/) in male goats poses a similar calcium imbalance risk.
 
 ## How can you prevent the risks associated with feeding goats cattle feed?
 
 If you keep cattle and goats on the same property, store all feeds separately in locked containers. Goats are clever and will break into feed rooms and bins if given even a small opening.
 
-Use separate feeders for each species and make sure goats cannot access the cattle feeder at any point during the day. A goat only needs to eat medicated cattle feed once for the consequences to be fatal.
+Use separate feeders for each species and make sure goats cannot access the cattle feeder at any point during the day. The same precautions apply to [chicken feed](/can-goats-eat-chicken-feed/), which also contains deadly ionophores. A goat only needs to eat medicated cattle feed once for the consequences to be fatal.
 
-Read the feed tag on every bag of cattle feed you bring onto your property. If it lists monensin, lasalocid, salinomycin, or any other ionophore, treat that bag like poison around your goats.
+Read the feed tag on every bag of cattle feed you bring onto your property. [Calf starter pellets](/can-goats-eat-calf-starter-pellets/) carry the exact same monensin risk. If it lists monensin, lasalocid, salinomycin, or any other ionophore, treat that bag like poison around your goats.
 
 ## Are there any other options for providing your goats with a balanced diet?
 
 Always use a feed that is formulated specifically for goats. Goat feeds are designed with the correct copper levels, the right mineral ratios, and no ionophores.
 
-A solid goat diet starts with quality hay and access to browse like brush, weeds, and woody shrubs. Supplement with a goat-formulated grain mix and offer a loose mineral designed for goats free-choice.
+A solid goat diet starts with [quality hay](/what-kind-of-hay-do-goats-eat/) and access to browse like brush, weeds, and woody shrubs. Supplement with a goat-formulated grain mix and offer a loose mineral designed for goats free-choice.
 
-If you run a mixed operation and want to buy feed in bulk, the safest approach is plain whole grains like oats or corn with no additives. Pair that with a goat-specific loose mineral on the side to fill in the nutritional gaps.
+If you run a mixed operation and want to buy feed in bulk, the safest approach is plain whole grains like [oats](/can-goats-eat-oats/) or [corn](/can-goats-eat-corn/) with no additives. Pair that with a goat-specific loose mineral on the side to fill in the nutritional gaps.
 
 ## Final Thoughts
 

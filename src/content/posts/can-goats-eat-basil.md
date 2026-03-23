@@ -44,7 +44,7 @@ It's one of those herbs that doubles as a tasty treat and a small nutritional bo
 
 Yes, goats can eat basil without any problems. It's a non-toxic herb that most goats find appealing thanks to its strong aroma and flavor.
 
-Basil is rich in vitamins A and K, and it contains decent amounts of calcium and iron. It also has natural anti-inflammatory properties, which can be a nice bonus for older goats dealing with joint stiffness.
+Basil is rich in vitamins A and K, and it contains decent amounts of calcium and iron. It also has natural anti-inflammatory properties, which can be a nice bonus for older goats dealing with joint stiffness. Pairing basil with other herbs like [cilantro](/can-goats-eat-cilantro/) gives your herd a flavorful variety.
 
 All parts of the basil plant are safe, including the leaves, stems, and flowers. You can offer it fresh from the garden or dried, and your goats will happily munch on either form.
 
@@ -60,7 +60,7 @@ Most goats seem to prefer the more aromatic varieties like Thai basil or lemon b
 
 Basil is more than just a vitamin source for your herd. It's a great enrichment herb that adds variety to an otherwise predictable diet of hay and grain.
 
-The anti-inflammatory compounds in basil can support goats with minor digestive discomfort. Some goat keepers also report that basil helps stimulate appetite in picky eaters, which can be helpful when a goat is recovering from illness.
+The anti-inflammatory compounds in basil can support goats with minor digestive discomfort. Some goat keepers also report that basil helps stimulate appetite in picky eaters, which can be helpful when a goat is recovering from illness. [Dandelions](/can-goats-eat-dandelions/) offer similar digestive support and grow freely in most pastures.
 
 For lactating does, basil has a reputation as a mild galactagogue, meaning it may support milk production. It's not a substitute for proper nutrition, but it's a nice supplement.
 
@@ -70,15 +70,15 @@ A couple tablespoons of fresh basil per goat per day is a good guideline. For ki
 
 You can toss basil into the feed trough, mix it with grain, or let your goats browse a basil patch directly. There's no need to chop it up since goats are perfectly capable of tearing leaves off stems on their own.
 
-Like any treat, basil should complement their regular diet of hay, browse, and minerals. It's not a meal replacement, just a welcome addition.
+Like any treat, basil should complement their regular diet of [quality hay](/what-kind-of-hay-do-goats-eat/), browse, and minerals. It's not a meal replacement, just a welcome addition.
 
 ## Growing Basil for Your Herd
 
 If you want a steady supply, growing a dedicated basil patch for your goats is cheap and easy. Plant seeds after the last frost and keep the soil moist, and you'll have more basil than your herd can eat within six to eight weeks.
 
-Pinch off flower buds as they appear to keep the plants producing leaves longer. Once basil bolts and goes to seed, the leaves turn bitter and most goats will pass on them.
+Pinch off flower buds as they appear to keep the plants producing leaves longer. Once basil bolts and goes to seed, the leaves turn bitter and most goats will pass on them. You can also grow [spinach](/can-goats-eat-spinach/) and [kale](/can-goats-eat-kale/) nearby for additional green treats.
 
-You can also dry summer basil for winter feeding. Hang bundles upside down in a warm spot with good airflow, then crumble the dried leaves into grain during the cold months when pasture variety is limited.
+You can also dry summer basil for winter feeding. Hang bundles upside down in a warm spot with good airflow, then crumble the dried leaves into grain during the cold months when pasture variety is limited. [Pumpkin](/can-goats-eat-pumpkin/) is another excellent fall harvest treat you can store for winter.
 
 ## Final Thoughts
 

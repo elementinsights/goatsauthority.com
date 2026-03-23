@@ -53,7 +53,7 @@ The one exception is small amounts of plain yogurt or kefir. The fermentation pr
 
 There really aren't significant benefits to feeding dairy products to adult goats. Their rumen is designed to ferment plant material, and adding dairy doesn't improve their nutrition in any meaningful way.
 
-Goats get their protein from browse, hay, and grain. They get calcium from alfalfa and mineral supplements. There's no nutritional gap that dairy fills better than proper forage and feed.
+Goats get their protein from browse, hay, and grain. They get calcium from [alfalfa](/can-goats-eat-alfalfa/) and mineral supplements. There's no nutritional gap that dairy fills better than proper forage and feed.
 
 ## How much dairy should goats eat each day for optimal health benefits?
 
@@ -69,15 +69,15 @@ Diarrhea and loose stools are also common when goats eat dairy. Their digestive 
 
 ## How can you prevent dairy-related problems in goats?
 
-Keep dairy products out of the feed area entirely. Don't dump leftover milk, yogurt, or cheese into the grain bucket thinking it's a nice treat.
+Keep dairy products out of the feed area entirely. If you want to give treats, stick with [apples](/can-goats-eat-apples/), [carrots](/can-goats-eat-carrots/), or [bananas](/can-goats-eat-bananas/) instead. Don't dump leftover milk, yogurt, or [cheese](/can-goats-eat-cheese/) into the grain bucket thinking it's a nice treat.
 
-If you're bottle-feeding a kid, use goat milk or a proper goat milk replacer rather than cow's milk. Cow's milk has a different fat and protein composition that can cause digestive issues in young goats.
+If you're bottle-feeding a kid, use goat milk or a proper goat milk replacer rather than [cow's milk](/can-goats-drink-cow-milk/). Cow's milk has a different fat and protein composition that can cause digestive issues in young goats.
 
 ## How can you tell if your goat is getting enough dairy in its diet each day?
 
 This isn't really the right question because goats don't need dairy in their diet at all after weaning. If your goat has a dull coat, low energy, or sunken eyes, the issue is almost certainly related to parasites, mineral deficiency, or inadequate forage.
 
-Focus on providing quality hay, clean water, a balanced grain ration, and free-choice goat minerals. Those are the building blocks of good goat nutrition, not dairy products.
+Focus on providing [quality hay](/what-kind-of-hay-do-goats-eat/), clean water, a balanced grain ration, and free-choice goat minerals. Those are the building blocks of good goat nutrition, not dairy products.
 
 ## What are some alternative dairy products for goats?
 

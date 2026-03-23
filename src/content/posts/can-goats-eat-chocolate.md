@@ -50,7 +50,7 @@ A tiny nibble of milk chocolate from a kid’s hand probably will not cause a cr
 
 Dark chocolate and baking chocolate contain the highest concentrations of theobromine and are the most dangerous. Milk chocolate has less, and white chocolate has almost none, but all forms of chocolate also contain caffeine, which adds to the toxic load.
 
-Goats metabolize both theobromine and caffeine much more slowly than humans do. What your body processes in a couple of hours can linger in a goat’s system for over a day, building up to harmful levels with even moderate amounts.
+Goats metabolize both theobromine and caffeine much more slowly than humans do. [Avocado](/can-goats-eat-avocado/) is another common food that’s safe for humans but deadly for goats. What your body processes in a couple of hours can linger in a goat’s system for over a day, building up to harmful levels with even moderate amounts.
 
 ## Symptoms of Theobromine Poisoning in Goats
 
@@ -62,7 +62,7 @@ As poisoning progresses, you will see vomiting, diarrhea, rapid heart rate, and 
 
 There is no established safe dose, and the danger varies based on the type of chocolate, the size of your goat, and its overall health. A 100-pound goat eating a single milk chocolate chip is probably fine. That same goat eating a handful of dark baking chocolate squares is in real trouble.
 
-Because there is no reliable safe threshold, the smartest approach is to keep all chocolate products completely out of reach. Store candy, baking supplies, and cocoa powder where your goats cannot get to them.
+Because there is no reliable safe threshold, the smartest approach is to keep all chocolate products completely out of reach. Offer safe treats like [blueberries](/can-goats-eat-blueberries/) or [strawberries](/can-goats-eat-strawberries/) when you want to share something sweet. Store candy, baking supplies, and cocoa powder where your goats cannot get to them.
 
 ## What to Do if Your Goat Eats Chocolate
 
@@ -70,10 +70,10 @@ Stay calm and figure out how much chocolate your goat ate and what kind. Dark ch
 
 Call your vet right away. There is no antidote for theobromine poisoning, so treatment is supportive care, including IV fluids to prevent dehydration and medications to control heart rate and seizures. The sooner your vet gets involved, the better the outcome.
 
-While waiting for help, keep your goat in a quiet space and offer fresh water. Watch for any signs of restlessness, tremors, or rapid breathing and report them to the vet when they arrive.
+While waiting for help, keep your goat in a quiet space and offer fresh water and [hay](/what-kind-of-hay-do-goats-eat/). Watch for any signs of restlessness, tremors, or rapid breathing and report them to the vet when they arrive.
 
 ## the Dangers of Chocolate for Baby Goats
 
 Baby goats are at even greater risk than adults because of their small body weight. A piece of chocolate that might cause mild symptoms in a 150-pound doe could be fatal to a 15-pound kid.
 
-Keep chocolate, candy wrappers, and baked goods away from anywhere your kids can reach. Goats are curious animals that will mouth anything they find, and a kid does not know the difference between a safe treat and a dangerous one. Stick with apple slices, pumpkin, or small amounts of grain if you want to spoil your goats.
+Keep chocolate, candy wrappers, and baked goods away from anywhere your kids can reach. Goats are curious animals that will mouth anything they find, and a kid does not know the difference between a safe treat and a dangerous one. Stick with [apple slices](/can-goats-eat-apples/), [pumpkin](/can-goats-eat-pumpkin/), or small amounts of grain if you want to spoil your goats.

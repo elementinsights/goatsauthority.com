@@ -56,7 +56,7 @@ Never feed your goats celery with ranch dressing, peanut butter, salt, or any ot
 
 ## Celery Leaves vs. Stalks
 
-Here's something most goat owners figure out fast: goats prefer the celery leaves over the stalks. Nearly every goat I've offered leaves to has gobbled them up without hesitation.
+Here's something most goat owners figure out fast: goats prefer the celery leaves over the stalks, much like they prefer [dandelion](/can-goats-eat-dandelions/) leaves over stems. Nearly every goat I've offered leaves to has gobbled them up without hesitation.
 
 The leaves actually contain higher concentrations of vitamins than the stalks themselves. So if your goats are picky about the crunchy part, just give them the leafy tops instead.
 
@@ -66,9 +66,9 @@ Both parts are equally safe. Whether your goats eat the stalks, the leaves, or t
 
 A few chopped stalks per goat is plenty. Treats of any kind should make up no more than about 10% of your goat's daily food intake.
 
-You can feed celery a few times per week without any problems. Mix it in with grain, toss it in a feeder, or hand-feed it as a reward during handling sessions.
+You can feed celery a few times per week without any problems. Mix it in with grain alongside [bell pepper](/can-goats-eat-bell-peppers/) chunks or [cucumber](/can-goats-eat-cucumbers/) slices, toss it in a feeder, or hand-feed it as a reward during handling sessions.
 
-Don't let celery crowd out more nutritious feeds like hay and grain. Your goats need those calorie-dense foods to maintain body condition, especially in colder months when energy demands are higher.
+Don't let celery crowd out more nutritious feeds like [hay](/what-kind-of-hay-do-goats-eat/) and grain. Your goats need those calorie-dense foods to maintain body condition, especially in colder months when energy demands are higher.
 
 ## Can Baby Goats Eat Celery?
 
@@ -82,6 +82,6 @@ Start with just one small piece and watch how they handle it. If you notice diar
 
 The biggest benefit is hydration. On hot days, that 95% water content gives your goats an extra moisture boost on top of their regular water supply.
 
-Vitamin A supports eye and immune health, vitamin K helps with blood clotting, and vitamin C gives the immune system a hand. The potassium supports proper muscle and nerve function.
+Vitamin A supports eye and immune health, vitamin K helps with blood clotting, and vitamin C gives the immune system a hand. [Carrots](/can-goats-eat-carrots/) deliver even more vitamin A through beta-carotene if you want to boost eye health. The potassium supports proper muscle and nerve function.
 
-Celery is also a low-calorie treat, which makes it a better option than sugary fruits for goats that are already carrying extra weight. You get the variety and enrichment without the calorie overload.
+Celery is also a low-calorie treat, which makes it a better option than sugary fruits like [grapes](/can-goats-eat-grapes/) or [bananas](/can-goats-eat-bananas/) for goats that are already carrying extra weight. You get the variety and enrichment without the calorie overload.

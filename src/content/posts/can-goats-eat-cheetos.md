@@ -55,7 +55,7 @@ Cheetos have absolutely zero nutritional value for goats. They're processed corn
 
 Cheetos are a fried or baked corn snack coated in artificial cheese powder. A single serving packs around 250 calories, loads of sodium, and plenty of fat from the frying process.
 
-For goats, there's nothing useful here. Goats need fiber, minerals, and plant-based nutrition to keep their rumen functioning properly. Cheetos deliver none of that. Think of them like candy for goats, all empty calories.
+For goats, there's nothing useful here. Goats need fiber, minerals, and plant-based nutrition to keep their rumen functioning properly. Even [bread](/can-goats-eat-bread/) offers more value than Cheetos, and that is saying something. Think of them like candy for goats, all empty calories.
 
 ## What benefits do goats get from eating Cheetos?
 
@@ -79,19 +79,19 @@ Never make it a regular thing. Your goat's diet should be built around quality h
 
 Absolutely not. Cheetos are junk food for humans, and they're even worse for goats. Regular feeding could lead to obesity, mineral imbalances, and chronic digestive issues.
 
-A goat's rumen depends on a steady supply of fiber to stay healthy. Filling it with processed corn and cheese powder is a recipe for problems. Stick with hay, browse, and the occasional fruit or vegetable treat instead.
+A goat's rumen depends on a steady supply of fiber to stay healthy. Filling it with processed corn and cheese powder is a recipe for problems. Stick with [hay](/what-kind-of-hay-do-goats-eat/), browse, and the occasional fruit or vegetable treat instead.
 
 ## Are there any other snack foods that are good for goats?
 
-If you want to treat your goats, there are much better options. Apple slices, carrots, raisins, banana pieces, and plain Cheerios are all safe and goats love them.
+If you want to treat your goats, there are much better options. [Apple slices](/can-goats-eat-apples/), [carrots](/can-goats-eat-carrots/), [raisins](/can-goats-eat-raisins/), [banana pieces](/can-goats-eat-bananas/), and plain Cheerios are all safe and goats love them.
 
-Watermelon rinds are another favorite that most goats go wild for. These treats still have actual vitamins and fiber, so they're doing your goat some good while making treat time fun. Just keep all treats to small amounts and don't let them replace proper feed.
+[Watermelon](/can-goats-eat-watermelon/) rinds are another favorite that most goats go wild for. These treats still have actual vitamins and fiber, so they're doing your goat some good while making treat time fun. Just keep all treats to small amounts and don't let them replace proper feed.
 
 ## How can you keep your goat healthy and well-fed?
 
 Good goat nutrition starts with quality hay or pasture browse available at all times. Goats are browsers by nature, so they do best when they can pick at leaves, twigs, bark, and weeds throughout the day.
 
-Always keep fresh water and a loose mineral supplement available. If you're feeding grain, measure it carefully since overfeeding grain causes more problems than most new goat owners realize. A well-fed goat with a properly functioning rumen doesn't need junk food treats to be happy.
+Always keep fresh water and a loose mineral supplement available. If you're feeding grain, measure it carefully since overfeeding [corn](/can-goats-eat-corn/) or other grains causes more problems than most new goat owners realize. A well-fed goat with a properly functioning rumen doesn't need junk food treats to be happy.
 
 ## Final Thoughts
 

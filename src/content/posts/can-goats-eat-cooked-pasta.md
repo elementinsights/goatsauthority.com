@@ -52,7 +52,7 @@ Think of it as junk food for goats. A small handful as an occasional treat is fi
 
 This is the most important rule. Plain noodles are one thing, but pasta with marinara, alfredo, garlic butter, or any other sauce is off-limits.
 
-Garlic and onion are both toxic to goats. Salt and fat in most sauces can cause serious digestive problems, from bloat to diarrhea.
+Garlic and [onion](/can-goats-eat-onions/) are both toxic to goats. Salt and fat in most sauces can cause serious digestive problems, from bloat to diarrhea.
 
 If you're going to share your leftovers, separate out a few plain noodles before you add the sauce. Or better yet, just give your goats a carrot instead.
 
@@ -76,13 +76,13 @@ If your goat's droppings go from firm pellets to clumpy or runny after eating pa
 
 ## Better Treat Options
 
-There are dozens of treats that give your goats actual nutrition along with the fun factor. Carrot pieces, apple slices with seeds removed, and sweet potato chunks are all favorites that bring real vitamins to the table.
+There are dozens of treats that give your goats actual nutrition along with the fun factor. [Carrot](/can-goats-eat-carrots/) pieces, [apple slices](/can-goats-eat-apples/) with seeds removed, and [sweet potato](/can-goats-eat-sweet-potatoes/) chunks are all favorites that bring real vitamins to the table.
 
-Sunflower seeds are a great high-energy option during cold months. Fresh herbs like basil and mint are also popular and provide anti-inflammatory benefits.
+[Sunflower seeds](/can-goats-eat-sunflower-seeds/) are a great high-energy option during cold months. Fresh herbs like [basil](/can-goats-eat-basil/) and mint are also popular and provide anti-inflammatory benefits.
 
 Your goats don't know the difference between pasta and a carrot chunk. They'll be just as excited about something that's actually good for them.
 
-Whole grains like oats and barley are another step up from pasta. They provide energy your goats can actually use, along with protein and minerals that plain noodles lack entirely.
+Whole grains like [oats](/can-goats-eat-oats/) and barley are another step up from pasta. They provide energy your goats can actually use, along with protein and minerals that plain noodles lack entirely.
 
 ## Final Thoughts
 

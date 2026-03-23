@@ -44,7 +44,7 @@ They spit out the metal part. Goats are browsers, not garbage disposals, and the
 
 This myth probably started because goats are incredibly curious. They'll mouth just about anything, from your shirt zipper to a fence post, but mouthing something and actually eating it are two different things.
 
-Goats are actually picky eaters bark, and weeds over even the best hay, and they'll turn their nose up at feed that's been on the ground for more than a few minutes.
+Goats are actually picky eaters that prefer bark, weeds, and browse over even the best hay. Despite the common belief that [goats eat everything](/can-goats-eat-everything/), they'll turn their nose up at feed that's been on the ground for more than a few minutes.
 
 ## Health Implications of Feeding Cans to Goats
 
@@ -54,12 +54,12 @@ Hardware disease, technically called traumatic reticulopericarditis, happens whe
 
 ## the Truth About What Goats Can and Cannot Eat
 
-Keep your pastures clear of metal debris, wire, nails, old fencing staples, and anything else a goat might accidentally swallow. Walk your fence lines weekly if your property borders a road since people throw all kinds of trash out of car windows.
+Keep your pastures clear of metal debris, wire, nails, old fencing staples, and anything else a goat might accidentally swallow. Instead, fill their pasture with safe browse like [dandelions](/can-goats-eat-dandelions/) and [blackberry bushes](/can-goats-eat-blackberries/). Walk your fence lines weekly if your property borders a road since people throw all kinds of trash out of car windows.
 
-Feed magnets, also called rumen magnets, are a cheap insurance policy. You give the goat a small magnet in a bolus, it sits in the reticulum, and any small metal pieces the goat swallows stick to it instead of poking through the stomach wall.
+Feed magnets, also called rumen magnets, are a cheap insurance policy. You give the goat a small magnet in a bolus, it sits in the reticulum, and any small [metal](/do-goats-eat-metal/) pieces the goat swallows stick to it instead of poking through the stomach wall.
 
 ## Debunking Myths: Do Goats Actually Eat Anything?
 
 Goats are browsers, not grazers. They'd rather eat the bark off a tree than graze low grass, and they naturally prefer to eat at chest height or above.
 
-Their reputation for eating everything comes from their willingness to investigate with their lips and tongue. But investigation is not consumption, and a goat left in a clean pasture with good browse and quality hay won't go looking for tin cans to snack on.
+Their reputation for eating everything comes from their willingness to investigate with their lips and tongue. But investigation is not consumption. Goats are actually [browsers that cannot digest just anything](/can-goats-digest-anything/), and a goat left in a clean pasture with good browse and quality hay won't go looking for tin cans to snack on.

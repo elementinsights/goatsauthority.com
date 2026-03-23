@@ -44,7 +44,7 @@ The catch is that not all applesauce is created equal. Plain, unsweetened apples
 
 Plain unsweetened applesauce is safe for goats in small amounts. It is soft, easy to eat, and most goats love the sweet taste. A few spoonfuls as a treat once in a while will not cause any problems.
 
-The natural sugars in apples give goats a quick burst of energy, which makes it a decent pick-me-up for a goat that is a little off its feed. Just do not make it a daily habit because the sugar content adds up.
+The natural sugars in apples give goats a quick burst of energy, which makes it a decent pick-me-up for a goat that is a little off its feed. For a more nutritious treat, [fresh apples](/can-goats-eat-apples/) are always the better choice. Just do not make it a daily habit because the sugar content adds up.
 
 ## What to avoid in store-bought applesauce
 
@@ -60,7 +60,7 @@ This is where applesauce really shines. Goats are notorious for spitting out pil
 
 Mix a crushed tablet or deworming powder into a spoonful of applesauce and the sweetness masks the bitter flavor. Use a syringe without the needle to squeeze the mixture into the side of the goat's mouth for the cleanest delivery.
 
-This trick works well with vitamin supplements too. Just make sure the dose is small enough that the goat swallows it all in one go.
+This trick works well with vitamin supplements too. Some owners also use [bananas](/can-goats-eat-bananas/) to mask the taste of bitter medication. Just make sure the dose is small enough that the goat swallows it all in one go.
 
 ## How much applesauce to feed
 
@@ -68,9 +68,9 @@ A couple of spoonfuls is plenty for an adult goat. Think of applesauce as a trea
 
 Too much applesauce in one sitting can cause loose droppings because of the sugar and moisture content. If you are using it to hide medication, you only need enough to coat the medicine, which is usually a tablespoon or less.
 
-Baby kids should skip the applesauce until they are eating solid food regularly. Their developing rumen handles hay and grain better than sugary purees.
+Baby kids should skip the applesauce until they are eating solid food regularly. Their developing rumen handles hay and grain better than sugary purees. Stick with solid treats like [carrot pieces](/can-goats-eat-carrots/) once they are old enough.
 
-Pregnant does can have a spoonful as a treat, but do not overdo it. The extra sugar is not something a pregnant goat needs in large amounts.
+Pregnant does can have a spoonful as a treat, but do not overdo it. Pregnant goats benefit more from [alfalfa hay](/can-goats-eat-alfalfa/) and proper minerals than from sugary snacks.
 
 ## Homemade vs. Store-bought
 
@@ -80,7 +80,7 @@ No need to peel the apples since goats do not care about skin texture. You can m
 
 Store-bought unsweetened applesauce works perfectly fine too. Just read the label and skip anything with a long ingredient list.
 
-If you have apple trees on your property, windfall apples that are bruised but not rotten make great applesauce. It is a good way to use up fruit that is too beat up for human eating but still perfectly fine for goats.
+If you have apple trees on your property, windfall apples that are bruised but not rotten make great applesauce. You could also offer those bruised apples alongside [watermelon rinds](/can-goats-eat-watermelon/) or [pumpkin chunks](/can-goats-eat-pumpkin/) for variety. It is a good way to use up fruit that is too beat up for human eating but still perfectly fine for goats.
 
 ## Final Thoughts
 

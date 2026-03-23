@@ -40,13 +40,13 @@ Thorns that would tear up your hands do not bother goats one bit. Their mouths a
 
 The main thing to keep in mind is moderation with the berries themselves. Blackberries are high in natural sugars, and too many at once can cause digestive upset, especially loose stools.
 
-If you are feeding store-bought blackberries, wash them first to remove any pesticide residue. Wild blackberry bushes growing on your property are generally safer since you know what has and has not been sprayed on them. Introduce blackberries gradually if your goats have never had them before, just like you would with any new food.
+If you are feeding store-bought blackberries, wash them first to remove any pesticide residue. Wild blackberry bushes growing on your property are generally safer since you know what has and has not been sprayed on them. The same [herbicide caution applies to dandelions](/can-goats-eat-dandelions/) growing in treated lawns. Introduce blackberries gradually if your goats have never had them before, just like you would with any new food.
 
-Baby goats can nibble on blackberries once they are eating solid food, usually around two to three weeks old. Keep portions small for kids since their digestive systems are still developing. A few berries at a time is plenty for the little ones.
+Baby goats can nibble on blackberries once they are eating solid food, usually around two to three weeks old. Other safe starter treats include [strawberries](/can-goats-eat-strawberries/) and small [apple slices](/can-goats-eat-apples/). Keep portions small for kids since their digestive systems are still developing. A few berries at a time is plenty for the little ones.
 
 ## the Benefits of Eating Blackberries for Goats
 
-Blackberries are packed with vitamin C, vitamin K, and antioxidants that support your goat’s immune system. The fiber content in the leaves and canes also helps keep the digestive tract moving properly.
+Blackberries are packed with vitamin C, vitamin K, and antioxidants that support your goat’s immune system. [Blueberries](/can-goats-eat-blueberries/) offer similar antioxidant benefits if you want to rotate berries. The fiber content in the leaves and canes also helps keep the digestive tract moving properly.
 
 Blackberry leaves have natural astringent properties that can help firm up loose stools during mild bouts of diarrhea. Old-time goat keepers used to dry blackberry leaves and keep them on hand for exactly this purpose. It is one of those simple remedies that actually works.
 
@@ -54,13 +54,13 @@ Blackberry leaves have natural astringent properties that can help firm up loose
 
 Goats are commonly used as living brush clearers for overgrown blackberry patches. Farmers and land managers bring in herds specifically to mow down invasive blackberry thickets that would cost thousands to remove by machine.
 
-A small herd of goats can clear an acre of blackberry bramble in a few weeks. They eat it down to the roots and come back for more when new growth sprouts. Breeds like Spanish goats, Boer goats, and Kikos are especially popular for brush clearing because of their size and appetite for rough browse.
+A small herd of goats can clear an acre of blackberry bramble in a few weeks. They eat it down to the roots and come back for more when new growth sprouts, just like they strip [honeysuckle](/can-goats-eat-honeysuckle/) and [bamboo](/can-goats-eat-bamboo/) in overgrown areas. Breeds like Spanish goats, Boer goats, and Kikos are especially popular for brush clearing because of their size and appetite for rough browse.
 
 ## How Often Should Goats Eat Blackberries?
 
 Let your goats browse blackberry bushes a few times a week if the bushes are available in their pasture. There is no need to limit access to the canes and leaves, since goats naturally rotate between different plants and will not overeat one thing.
 
-For the berries themselves, a handful per goat a couple of times a week is a reasonable treat amount. Their main diet should still be hay or pasture grass, which makes up about 80 percent of what they eat. Blackberries are a supplement, not a meal replacement.
+For the berries themselves, a handful per goat a couple of times a week is a reasonable treat amount. Their main diet should still be [quality hay](/what-kind-of-hay-do-goats-eat/) or pasture grass, which makes up about 80 percent of what they eat. Blackberries are a supplement, not a meal replacement.
 
 ## Final Thoughts
 

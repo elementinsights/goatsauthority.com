@@ -41,7 +41,7 @@ Yes, centipede grass is safe for goats to eat. It will not cause them any harm, 
 
 Centipede grass is completely safe for goats. If it is growing in your pasture, your goats can graze on it without any concerns about toxicity.
 
-Goats are browsers by nature and generally prefer shrubs, weeds, and woody plants over grass. They will eat centipede grass, but do not expect them to get excited about it the way they do when you toss them a branch of mulberry.
+Goats are browsers by nature and generally prefer shrubs, weeds, and woody plants over grass. They will eat centipede grass, but do not expect them to get excited about it the way they do when you toss them some [blackberry canes](/can-goats-eat-blackberries/) or [dandelions](/can-goats-eat-dandelions/).
 
 ## What is centipede grass and what are its benefits?
 
@@ -49,7 +49,7 @@ Centipede grass is a warm-season turfgrass that is common throughout the southea
 
 It grows well in poor, acidic soils and does not need much fertilizer or mowing. For goat owners in the Southeast, it often shows up naturally in pastures and yards whether you planted it or not.
 
-The main advantage for goats is that centipede grass is lower in fructans than ryegrass or fescue. This makes it a safer option for goats that are prone to bloat or digestive sensitivity from high-sugar grasses.
+The main advantage for goats is that centipede grass is lower in fructans than ryegrass or fescue. This makes it a safer option for goats that are prone to bloat, which can also happen from eating too much [corn](/can-goats-eat-corn/) or rich [alfalfa](/can-goats-eat-alfalfa/) too quickly.
 
 ## Are there any risks associated with feeding goats centipede grass?
 
@@ -63,7 +63,7 @@ The shallow root system of centipede grass also means goats can pull it up easil
 
 Centipede grass is fine as part of a mixed pasture, but it should not be the sole forage source. Goats need 2 to 4 percent of their body weight in dry matter each day, and centipede grass alone does not have the protein or mineral content to meet that need.
 
-Supplement with quality hay, browse opportunities, and a goat-formulated loose mineral. If your pasture is heavy on centipede grass, adding clover or another legume to the mix will boost the overall protein content of the forage.
+Supplement with [quality hay](/what-kind-of-hay-do-goats-eat/), browse opportunities, and a goat-formulated loose mineral. Adding some [alfalfa](/can-goats-eat-alfalfa/) to the diet helps compensate for the low protein. If your pasture is heavy on centipede grass, adding clover or another legume to the mix will boost the overall protein content of the forage.
 
 ## Are there any alternative grasses to centipede grass?
 
@@ -71,7 +71,7 @@ If you are looking for more nutritious pasture options for your goats, bermuda g
 
 Bahia grass is tough and drought-tolerant, making it a good fit for sandy soils. Endophyte-free fescue works well in cooler climates and transition zones where centipede grass would struggle during cold winters.
 
-Planting a mix of grasses alongside some clover gives your goats the variety their rumen needs to function at its best. A diverse pasture is always better than a monoculture, no matter which grass species you start with.
+Planting a mix of grasses alongside some clover gives your goats the variety their rumen needs to function at its best. Including browse plants like [honeysuckle](/can-goats-eat-honeysuckle/) and [pine trees](/can-goats-eat-pine-trees/) along the fence line adds even more diversity. A diverse pasture is always better than a monoculture, no matter which grass species you start with.
 
 ## Final Thoughts
 

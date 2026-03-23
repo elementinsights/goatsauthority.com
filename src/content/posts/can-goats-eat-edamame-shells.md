@@ -41,7 +41,7 @@ Edamame shells are safe for goats to eat. They're basically soybean pods, and go
 
 Yes, goats can eat edamame shells. The pods are high in fiber, and the beans inside are a decent source of plant protein. Both the shell and the bean are safe for goats to consume.
 
-Goats are browsers by nature and they're used to eating all kinds of plant material, including pods, stems, and leaves. Edamame shells fit right into the category of things goats naturally handle well.
+Goats are browsers by nature and they're used to eating all kinds of plant material, including pods, stems, and leaves. They handle everything from [peanut shells](/can-goats-eat-peanuts/) to [corn husks](/can-goats-eat-corn/) without trouble. Edamame shells fit right into the category of things goats naturally handle well.
 
 As with any treat or supplemental food, edamame shells should be a small part of the diet, not a main course. A handful tossed in with their regular feeding is plenty.
 
@@ -49,7 +49,7 @@ As with any treat or supplemental food, edamame shells should be a small part of
 
 Edamame pods are a good source of fiber, which supports healthy digestion in goats. The beans inside contain protein, iron, calcium, and vitamins A and C, all of which contribute to a goat's overall nutrition.
 
-The fiber content in the shells is actually the biggest benefit. Goats need plenty of roughage to keep their rumen working properly, and fibrous pods like edamame shells help with that.
+The fiber content in the shells is actually the biggest benefit. Goats need plenty of roughage to keep their rumen working properly, and fibrous pods like edamame shells help with that. [Straw](/can-goats-eat-straw/) and [hay cubes](/can-goats-eat-hay-cubes/) are other good sources of supplemental fiber.
 
 Soy-based feeds are commonly used in livestock nutrition, so there's nothing unusual about goats eating soybean products. Edamame is just young soybeans harvested before they fully mature.
 
@@ -65,9 +65,9 @@ Raw or cooked edamame shells both work fine. The shells soften a bit when cooked
 
 The biggest concern with edamame shells is seasoning. Many packaged edamame products come loaded with salt, garlic, or other flavorings that are bad for goats. Excess sodium can cause serious health problems, and garlic in large amounts is toxic to livestock.
 
-Always rinse store-bought edamame thoroughly before feeding it to your goats, even if it says unsalted on the package. Better yet, use plain, unseasoned pods whenever possible.
+Always rinse store-bought edamame thoroughly before feeding it to your goats, even if it says unsalted on the package. The same rinsing rule applies to store-bought [blueberries](/can-goats-eat-blueberries/) and other produce. Better yet, use plain, unseasoned pods whenever possible.
 
-Don't go overboard with the quantity either. A quarter cup of shells per adult goat per day is more than enough as a treat. Too much soy at once can cause digestive upset, especially if the goat isn't used to it.
+Don't go overboard with the quantity either. A quarter cup of shells per adult goat per day is more than enough as a treat. Supplement with other vegetables like [bell peppers](/can-goats-eat-bell-peppers/) and [broccoli](/can-goats-eat-broccoli/) for variety. Too much soy at once can cause digestive upset, especially if the goat isn't used to it.
 
 ## Fresh vs. Frozen edamame
 
@@ -75,7 +75,7 @@ If you grow soybeans, fresh edamame shells straight from the garden are the best
 
 Frozen edamame from the store works fine too. Let the shells thaw completely to room temperature before offering them. Cold or partially frozen pods can be uncomfortable in a goat's mouth and may slow down digestion.
 
-Check the ingredient list on frozen packages. Some brands add salt or preservatives during processing, and you want to avoid those. Plain frozen edamame that lists only soybeans as an ingredient is what you're looking for.
+Check the ingredient list on frozen packages. Some brands add salt or preservatives during processing, and you want to avoid those. The same label-checking habit applies when buying [dried cranberries](/can-goats-eat-cranberries/) or other packaged treats. Plain frozen edamame that lists only soybeans as an ingredient is what you're looking for.
 
 ## Final Thoughts
 

@@ -43,29 +43,29 @@ Let's talk about what's really going on.
 
 Goats will chew on bones if they find them, but that doesn't mean they should. Bone chewing in goats is almost always a sign of mineral deficiency, not a dietary preference. This behavior has a name: osteophagia. It shows up in ruminants that aren't getting enough calcium, phosphorus, or other minerals from their regular diet.
 
-A goat gnawing on a bone is trying to get minerals its body is craving. It's not normal grazing or browsing behavior. If you see it happening, treat it as a red flag that something is off with your herd's nutrition.
+A goat gnawing on a bone is trying to get minerals its body is craving. It's not normal grazing or browsing behavior. Providing [dandelions](/can-goats-eat-dandelions/), which are rich in calcium and iron, can help satisfy some mineral cravings naturally. If you see bone chewing happening, treat it as a red flag that something is off with your herd's nutrition.
 
 ## Why goats chew on bones
 
 Goats instinctively seek out calcium and phosphorus sources when their diet falls short. In the wild, ruminants have been observed chewing on bones and antlers to fill mineral gaps. Domestic goats do the same thing when their loose minerals or feed aren't meeting their needs.
 
-This is especially common in herds that rely heavily on grass hay without mineral supplementation. Grass hay is lower in calcium than alfalfa, and if the soil in your area is mineral-poor, the hay grown on it will be too. Pregnant and lactating does are the most likely to show bone-chewing behavior because their mineral demands skyrocket during late pregnancy and milk production.
+This is especially common in herds that rely heavily on grass hay without mineral supplementation. Grass hay is lower in calcium than [alfalfa](/can-goats-eat-alfalfa/), and if the soil in your area is mineral-poor, the hay grown on it will be too. Pregnant and lactating does are the most likely to show bone-chewing behavior because their mineral demands skyrocket during late pregnancy and milk production.
 
 ## Are there any risks involved in feeding bones to goats?
 
 Letting goats chew on bones or, worse, intentionally feeding them bones carries real risks. Sharp bone fragments can cut the inside of a goat's mouth, causing pain and opening the door to infection.
 
-Bone pieces that are swallowed can lodge in the throat and cause choking. Larger fragments that make it past the throat can cause blockages in the digestive tract. Chicken bones are especially dangerous because they splinter into sharp shards when chewed. There's no safe way to feed bones to goats, and there's no good reason to try when proper mineral supplements exist.
+Bone pieces that are swallowed can lodge in the throat and cause choking. Larger fragments that make it past the throat can cause blockages in the digestive tract. Chicken bones are especially dangerous because they splinter into sharp shards when chewed. Goats are [herbivores that should never eat meat](/do-goats-eat-meat/) of any kind, so there's no safe way to feed bones to goats, and there's no good reason to try when proper mineral supplements exist.
 
 ## How to fix the real problem
 
 If your goats are chewing on bones, the fix isn't more bones. It's better mineral supplementation. A quality loose mineral mix formulated specifically for goats should be available free-choice at all times. Loose minerals are better than mineral blocks because goats can't lick enough off a block to meet their needs.
 
-Look for a goat-specific mineral mix rather than an all-purpose livestock mineral. Goats need a higher copper-to-molybdenum ratio than sheep and cattle. If you're feeding mostly grass hay, consider adding some alfalfa to the diet as well. Alfalfa is naturally high in calcium and can help fill the gap while the mineral supplement handles the rest.
+Look for a goat-specific mineral mix rather than an all-purpose livestock mineral. Goats need a higher copper-to-molybdenum ratio than sheep and cattle. If you're feeding mostly grass hay, consider adding some alfalfa to the diet as well. Understanding [what kind of hay your goats need](/what-kind-of-hay-do-goats-eat/) is crucial for preventing mineral deficiencies. Alfalfa is naturally high in calcium and can help fill the gap while the mineral supplement handles the rest.
 
 ## Signs of mineral deficiency in goats
 
-Bone chewing is one sign, but there are others to watch for. A rough, dull coat is often the first visible indicator that minerals are lacking. You might also notice a goat eating dirt or licking rocks, which is the same instinct driving the bone-chewing behavior.
+Bone chewing is one sign, but there are others to watch for. A rough, dull coat is often the first visible indicator that minerals are lacking. You might also notice a goat eating dirt, licking rocks, or [chewing on metal objects](/do-goats-eat-metal/), which is the same instinct driving the bone-chewing behavior.
 
 Pregnant and lactating does are the most vulnerable. Watch for muscle tremors, a stiff gait, and weakness after kidding. A doe that seems wobbly or reluctant to stand after giving birth may be experiencing milk fever, which is a severe calcium deficiency that needs immediate veterinary attention. Regular blood panels through your vet can catch deficiencies before symptoms show up.
 

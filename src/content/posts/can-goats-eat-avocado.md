@@ -51,7 +51,7 @@ Persin causes damage to the heart muscle and mammary tissue in goats. In lactati
 
 Persin is a fungicidal toxin that exists in every part of the avocado plant. The highest concentrations are found in the leaves, bark, and skin of the fruit. The pit carries a heavy dose too. Even the flesh, the part humans eat, contains persin in smaller amounts.
 
-What makes persin so dangerous for goats is how it attacks the heart and mammary glands. The toxin damages heart muscle cells, leading to irregular heartbeat and eventual heart failure. In dairy goats, it can cause severe inflammation of the udder that comes on fast and hard. Horses, cattle, and birds are also highly sensitive to persin, but goats are among the most vulnerable livestock species.
+What makes persin so dangerous for goats is how it attacks the heart and mammary glands. The toxin damages heart muscle cells, leading to irregular heartbeat and eventual heart failure. In dairy goats, it can cause severe inflammation of the udder that comes on fast and hard. Avocado is just as dangerous as [chocolate](/can-goats-eat-chocolate/), which contains theobromine that goats cannot metabolize. Horses, cattle, and birds are also highly sensitive to persin, but goats are among the most vulnerable livestock species.
 
 ## Symptoms of avocado poisoning in goats
 
@@ -69,13 +69,13 @@ Keep the goat calm and in a quiet, shaded area. Physical exertion makes heart da
 
 Avocado belongs on the "never feed" list alongside other toxic plants like oleander, rhododendron, and azalea. It's not a treat that just needs moderation. It's a poison for goats.
 
-This also means no guacamole, no avocado scraps from the kitchen, and no letting goats browse near avocado trees. If you have an avocado tree on your property, make sure your fencing keeps goats far enough away that they can't reach fallen leaves or fruit through the fence.
+This also means no guacamole, no avocado scraps from the kitchen, and no letting goats browse near avocado trees. Be equally cautious about [onions](/can-goats-eat-onions/), which destroy red blood cells and should never be fed to goats. If you have an avocado tree on your property, make sure your fencing keeps goats far enough away that they can't reach fallen leaves or fruit through the fence.
 
 ## Safe fruit alternatives for goats
 
-If you want to give your goats a fruity treat, there are plenty of safe options. Apples, pears, watermelon, and bananas are all goat favorites that won't cause any harm.
+If you want to give your goats a fruity treat, there are plenty of safe options. [Apples](/can-goats-eat-apples/), pears, [watermelon](/can-goats-eat-watermelon/), and [bananas](/can-goats-eat-bananas/) are all goat favorites that won't cause any harm.
 
-Cut larger fruits into manageable chunks so your goats can chew them easily. Berries of all kinds are safe too. Many goat owners toss garden-surplus tomatoes, squash, and cucumbers to their herd as well. Just stick to fruits and vegetables you know are safe and skip anything from the avocado family entirely.
+Cut larger fruits into manageable chunks so your goats can chew them easily. Berries like [blueberries](/can-goats-eat-blueberries/) and [strawberries](/can-goats-eat-strawberries/) are safe too. Many goat owners toss garden-surplus [tomatoes](/can-goats-eat-tomatoes/), [squash](/can-goats-eat-squash/), and [cucumbers](/can-goats-eat-cucumbers/) to their herd as well. Just stick to fruits and vegetables you know are safe and skip anything from the avocado family entirely.
 
 ## Final Thoughts
 

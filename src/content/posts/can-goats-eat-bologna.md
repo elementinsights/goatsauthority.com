@@ -47,7 +47,7 @@ A goat won't die from swiping a bite of bologna off your plate. But it's not foo
 
 ## Why goats shouldn't eat processed meat
 
-A goat's rumen works like a fermentation vat specifically tuned for breaking down cellulose from hay, leaves, bark, and other plant fiber. When you introduce something like bologna, the rumen bacteria can't process it efficiently. The result is a digestive backup that can cause gas, bloating, and discomfort.
+A goat's rumen works like a fermentation vat specifically tuned for breaking down cellulose from hay, leaves, bark, and other plant fiber. Despite the myth that [goats eat everything](/can-goats-eat-everything/), their digestive system is highly specialized. When you introduce something like bologna, the rumen bacteria can't process it efficiently. The result is a digestive backup that can cause gas, bloating, and discomfort.
 
 The preservatives in bologna add another layer of concern. Nitrates and sodium nitrite, which give bologna its pink color and shelf life, are chemicals that a goat's system isn't built to handle. Repeated exposure to processed meats over time could disrupt the delicate balance of microbes in the rumen and lead to chronic digestive issues.
 
@@ -55,19 +55,19 @@ The preservatives in bologna add another layer of concern. Nitrates and sodium n
 
 If your goat got into a package of bologna when you weren't looking, watch for a few signs over the next 24 hours. Loose stools are the most common reaction since all that sodium and fat hits the rumen hard.
 
-You might also notice the goat drinking more water than usual. The salt content makes them very thirsty. If the goat seems bloated, stops eating hay, or acts lethargic for more than a day, give your vet a call. A one-time bologna binge probably won't cause lasting damage, but it's better to check than to guess.
+You might also notice the goat drinking more water than usual. The salt content makes them very thirsty. Offering [watermelon](/can-goats-eat-watermelon/) can help with rehydration in a pinch. If the goat seems bloated, stops eating hay, or acts lethargic for more than a day, give your vet a call. A one-time bologna binge probably won't cause lasting damage, but it's better to check than to guess.
 
 ## Why goats try to eat human food
 
 Goats investigate their world with their mouths. When they reach for your sandwich, they're not telling you they need meat in their diet. They're curious about the smell, the texture, and the salt.
 
-This same impulse makes them chew on zippers, shoelaces, paper, and empty cans. They're browsers by nature, and they taste-test everything they encounter. It's normal goat behavior, but it doesn't mean they should actually eat whatever they grab. Just because a goat will eat bologna doesn't mean a goat should eat bologna.
+This same impulse makes them chew on zippers, shoelaces, paper, and [empty cans](/can-goats-eat-cans/). They're browsers by nature, and they taste-test everything they encounter. It's normal goat behavior, but it doesn't mean they should actually eat whatever they grab. Just because a goat will eat bologna doesn't mean a goat should eat bologna.
 
 ## Better protein sources for goats
 
-If you're looking to boost the protein in your goat's diet, there are much safer options than processed deli meat. Alfalfa hay is one of the best natural protein sources for goats, and most of them love the taste.
+If you're looking to boost the protein in your goat's diet, there are much safer options than processed deli meat. [Alfalfa hay](/can-goats-eat-alfalfa/) is one of the best natural protein sources for goats, and most of them love the taste.
 
-Soybean meal, which is already included in many commercial goat feeds, provides high-quality plant protein without sodium, nitrates, or preservatives. Black oil sunflower seeds are a favorite treat among goat owners. They're high in protein and healthy fats, and goats go wild for them. A small handful per goat per day is plenty.
+Soybean meal, which is already included in many commercial goat feeds, provides high-quality plant protein without sodium, nitrates, or preservatives. [Black oil sunflower seeds](/can-goats-eat-sunflower-seeds/) are a favorite treat among goat owners. They're high in protein and healthy fats, and goats go wild for them. A small handful per goat per day is plenty.
 
 ## Final Thoughts
 

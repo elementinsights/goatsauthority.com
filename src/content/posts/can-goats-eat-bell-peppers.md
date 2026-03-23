@@ -52,11 +52,11 @@ The seeds inside a bell pepper are perfectly fine for goats to eat. Go ahead and
 
 Bell pepper plants belong to the nightshade family, which makes some folks nervous. The leaves and stems do contain small amounts of solanine, but the levels are low enough that a goat nibbling on a few leaves isn't going to keel over.
 
-The leaves aren't very nutritious either. If your goats have access to a pepper garden, a little nibbling is fine, but don't let them strip the plants bare or make a habit of it.
+The leaves aren't very nutritious either. Goats are much better off browsing on safe greens like [kale](/can-goats-eat-kale/) or [dandelions](/can-goats-eat-dandelions/). If your goats have access to a pepper garden, a little nibbling is fine, but don't let them strip the plants bare or make a habit of it.
 
 ## What are the benefits of feeding bell peppers to goats?
 
-Bell peppers are loaded with vitamin C, which supports a goat's immune system. Red peppers have nearly twice the vitamin C of green ones, plus more beta-carotene for eye health.
+Bell peppers are loaded with vitamin C, which supports a goat's immune system. Red peppers have nearly twice the vitamin C of green ones, plus more beta-carotene for eye health. [Carrots](/can-goats-eat-carrots/) are another excellent source of beta-carotene that pairs well with peppers.
 
 The fiber content helps with digestion, and the water content gives a little hydration boost on hot days. They're also low in calories, so you don't have to worry about overweight goats packing on extra pounds from a few pepper slices.
 
@@ -64,19 +64,19 @@ The fiber content helps with digestion, and the water content gives a little hyd
 
 The main risk is simply feeding too many at once. Like any treat, bell peppers can cause loose stools if a goat eats a large amount in one sitting.
 
-Bell peppers do contain trace amounts of solanine since they're in the nightshade family. The levels in the ripe fruit are so low that it's not a real concern, but green peppers have the highest concentration of the bunch.
+Bell peppers do contain trace amounts of solanine since they're in the nightshade family. Other nightshade vegetables like [tomatoes](/can-goats-eat-tomatoes/) and [potatoes](/can-goats-eat-potatoes/) carry similar concerns. The levels in the ripe fruit are so low that it's not a real concern, but green peppers have the highest concentration of the bunch.
 
 ## What is the appropriate serving size for bell peppers and goats?
 
 One or two bell peppers per adult goat is a reasonable treat portion. Chop them into chunks for younger or smaller goats so they can chew them easily without any risk of choking.
 
-Keep total veggie treats to no more than about 10 percent of a goat's daily intake. The bulk of their diet should still come from hay, browse, and a balanced grain ration.
+Keep total veggie treats to no more than about 10 percent of a goat's daily intake. The bulk of their diet should still come from [good hay](/what-kind-of-hay-do-goats-eat/), browse, and a balanced grain ration.
 
 ## How can I add bell peppers to my goat's diet safely and effectively?
 
 Start with a small piece or two and see how your goat reacts before offering a full pepper. Most goats take to the sweet crunch right away, but some are pickier than others.
 
-You can mix diced bell peppers with other safe vegetables like carrots, celery, or cucumber slices for a varied treat bucket. If you grow your own peppers, stick with sweet varieties and skip the hot ones since capsaicin can irritate a goat's mouth and digestive tract.
+You can mix diced bell peppers with other safe vegetables like carrots, [celery](/can-goats-eat-celery/), or [cucumber](/can-goats-eat-cucumbers/) slices for a varied treat bucket. If you grow your own peppers, stick with sweet varieties and skip the hot ones since capsaicin can irritate a goat's mouth and digestive tract.
 
 Red, yellow, and orange peppers are fully ripe and have lower solanine levels than green. Most goats prefer the sweeter taste of ripe peppers anyway.
 

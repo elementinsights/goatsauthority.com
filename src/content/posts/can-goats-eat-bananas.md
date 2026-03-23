@@ -53,7 +53,7 @@ Banana peels are not just safe, they are actually nutritious. Peels are loaded w
 
 There is no need to remove the peel before feeding. In fact, some goats prefer the peel over the fruit itself, which is just how goats are about things.
 
-If your bananas come from a regular grocery store, give the peel a quick rinse under water first. This washes off any pesticide residue that might be on the surface.
+If your bananas come from a regular grocery store, give the peel a quick rinse under water first. This washes off any pesticide residue that might be on the surface. The same rinse routine applies when feeding [strawberries](/can-goats-eat-strawberries/) or [blueberries](/can-goats-eat-blueberries/) from the store.
 
 ## What About Banana Peels?
 
@@ -71,21 +71,21 @@ The broad leaves are actually a decent source of fiber, and goats in tropical re
 
 Cooked bananas are fine, but there is really no reason to cook them. Goats do not need their food cooked, and the raw banana has all the nutrition intact.
 
-Never feed goats bananas that have been prepared with sugar, butter, cinnamon, or any other human recipe ingredients. Banana bread, banana pudding, and similar items are off limits.
+Never feed goats bananas that have been prepared with sugar, butter, cinnamon, or any other human recipe ingredients. Banana bread, banana pudding, and similar items are off limits. Even plain [bread](/can-goats-eat-bread/) should only be an occasional treat at best.
 
 ## the Benefits of Bananas in a Goat's Diet
 
 Bananas are high in potassium, which supports proper heart function and muscle contraction. They also provide vitamin B6, vitamin C, and natural energy from their sugar content.
 
-The fiber in bananas supports healthy digestion, though goats get far more fiber from their hay and browse. Think of bananas as a vitamin-packed bonus, not a dietary staple.
+The fiber in bananas supports healthy digestion, though goats get far more fiber from their [hay](/what-kind-of-hay-do-goats-eat/) and browse. Think of bananas as a vitamin-packed bonus, not a dietary staple.
 
-The natural sugars in bananas make them a useful training reward. If you are working on halter training or need to coax a stubborn goat into a trailer, a banana works wonders.
+The natural sugars in bananas make them a useful training reward. [Apple slices](/can-goats-eat-apples/) and [carrot sticks](/can-goats-eat-carrots/) work just as well for training sessions. If you are working on halter training or need to coax a stubborn goat into a trailer, a banana works wonders.
 
 ## How Often Can Goats Have Bananas?
 
 One or two bananas per adult goat a few times a week is plenty. Treats of any kind should make up no more than 10% of a goat's total daily intake.
 
-The sugar content is the limiting factor. Too many bananas too often can lead to weight gain and throw off the microbial balance in the rumen.
+The sugar content is the limiting factor. Too many bananas too often can lead to weight gain and throw off the microbial balance in the rumen. Low-calorie options like [cucumbers](/can-goats-eat-cucumbers/) are a better choice for overweight goats.
 
 Hay and browse should always be the foundation of the diet. Bananas and other fruits are the dessert, not the main course.
 

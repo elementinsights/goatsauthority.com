@@ -47,7 +47,7 @@ About 96% of a cucumber is water, which makes it a natural way to help keep your
 
 The entire cucumber plant is safe for goats. Leaves, vines, and stems are all fair game, and goats will happily browse through cucumber plants if they get access to your garden.
 
-Cucumber leaves contain vitamin A, which supports immune health. If you grow cucumbers, letting the goats clean up the spent vines at the end of the season is a great way to clear the garden and give them a treat at the same time.
+Cucumber leaves contain vitamin A, which supports immune health. If you grow cucumbers alongside [squash](/can-goats-eat-squash/) and [pumpkins](/can-goats-eat-pumpkin/), letting the goats clean up the spent vines at the end of the season is a great way to clear the garden and give them a treat at the same time.
 
 ## Are Cucumbers Safe for Baby Goats?
 
@@ -59,7 +59,7 @@ Keep portions small for young goats since their rumens are still developing. A f
 
 Think of cucumbers as a treat, not a meal replacement. They are mostly water with small amounts of vitamins A, C, and K, so they do not provide enough nutrition to serve as a significant part of the diet.
 
-A few cucumbers per goat a couple of times a week is a reasonable amount. There is no strict limit since cucumbers are so low in calories and sugar, but common sense applies.
+A few cucumbers per goat a couple of times a week is a reasonable amount. [Celery](/can-goats-eat-celery/) is another low-calorie, high-water treat with similar benefits. There is no strict limit since cucumbers are so low in calories and sugar, but common sense applies.
 
 Chop them into manageable pieces for easier eating. One thing to keep in mind: never feed your goats pickles, because the salt and vinegar content is far too high for their systems.
 
@@ -67,9 +67,9 @@ Always make sure the cucumbers are fresh and not rotten or moldy. If you are fee
 
 ## Comprehensive Benefits of Feeding Cucumbers to Goats
 
-The biggest benefit of cucumbers is hydration. On a scorching July afternoon, a cold cucumber from the garden can help keep your goats drinking and eating when the heat would otherwise slow them down.
+The biggest benefit of cucumbers is hydration. [Watermelon](/can-goats-eat-watermelon/) offers a similar hydration boost during the summer months. On a scorching July afternoon, a cold cucumber from the garden can help keep your goats drinking and eating when the heat would otherwise slow them down.
 
-Cucumbers also provide vitamins A, C, and K along with small amounts of potassium and magnesium. Vitamin K supports proper blood clotting, while potassium helps with muscle function.
+Cucumbers also provide vitamins A, C, and K along with small amounts of potassium and magnesium. For even more vitamin A, pair cucumbers with [carrots](/can-goats-eat-carrots/) in the treat bucket. Vitamin K supports proper blood clotting, while potassium helps with muscle function.
 
 Some dairy goat owners have noticed a slight bump in milk production when their does stay well-hydrated through treats like cucumbers during summer months. This is likely due to the hydration boost rather than any special property of the cucumber itself.
 

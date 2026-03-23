@@ -48,9 +48,9 @@ Every part of the dandelion is edible for goats. The flowers, leaves, stems, and
 
 ## Why dandelions are so good for goats
 
-Dandelion leaves are rich in calcium, which is especially valuable for lactating does who need extra minerals to support milk production. The vitamin A content supports healthy eyesight and skin.
+Dandelion leaves are rich in calcium, which is especially valuable for lactating does who need extra minerals to support milk production. [Alfalfa hay](/can-goats-eat-alfalfa/) is another calcium-rich feed that pairs well with dandelions for nursing does. The vitamin A content supports healthy eyesight and skin.
 
-Dandelions are also natural diuretics, which means they promote healthy kidney function and urinary tract health. Some goat owners specifically encourage dandelion growth in their pastures because of these benefits.
+Dandelions are also natural diuretics, which means they promote healthy kidney function and urinary tract health. [Cilantro](/can-goats-eat-cilantro/) and [basil](/can-goats-eat-basil/) are other herbs that provide digestive benefits. Some goat owners specifically encourage dandelion growth in their pastures because of these benefits.
 
 The deep taproot of the dandelion pulls minerals up from the subsoil that other shallow-rooted plants cannot reach. When goats eat dandelions, they get access to those deeper mineral reserves.
 
@@ -58,7 +58,7 @@ The deep taproot of the dandelion pulls minerals up from the subsoil that other 
 
 Dandelions are safe enough that you do not really need to limit them the way you would with other treats. If your goats are grazing a pasture with dandelions mixed in among grasses and other plants, let them eat as many as they want.
 
-The only time to be cautious is if dandelions are the only thing available. A diet of nothing but dandelions would lack the long-stem fiber that goats need from hay and woody browse to keep their rumen functioning properly.
+The only time to be cautious is if dandelions are the only thing available. A diet of nothing but dandelions would lack the long-stem fiber that goats need from [hay](/what-kind-of-hay-do-goats-eat/) and woody browse to keep their rumen functioning properly.
 
 As part of a mixed pasture or alongside regular hay, dandelions are a free nutritional bonus. There is no need to ration them.
 
@@ -74,7 +74,7 @@ If you are not sure whether an area has been treated, keep your goats away from 
 
 You can actually buy dandelion seeds and scatter them in your goat pasture. They establish fast, spread on their own, and come back year after year without any effort from you.
 
-Dandelions thrive in poor soil where other plants struggle, which makes them perfect for filling in bare patches in your pasture. The deep taproot also helps break up compacted soil over time.
+Dandelions thrive in poor soil where other plants struggle, which makes them perfect for filling in bare patches in your pasture. Planting [blackberry bushes](/can-goats-eat-blackberries/) and [honeysuckle](/can-goats-eat-honeysuckle/) along the edges adds even more variety to the browsing options. The deep taproot also helps break up compacted soil over time.
 
 Some goat farmers let a section of pasture go uncut in spring specifically so the dandelions can bloom and spread. The goats get fresh forage and the pasture gets a natural soil conditioner.
 

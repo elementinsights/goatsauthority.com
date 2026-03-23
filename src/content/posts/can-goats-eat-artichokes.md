@@ -44,7 +44,7 @@ Artichokes are actually related to thistles, which are plants goats naturally br
 
 Goats can eat the leaves, heart, stem, and even the tough outer bracts of globe artichokes. Most goats will go after the leaves first and then work their way into the softer parts.
 
-Jerusalem artichokes are a different plant entirely but equally safe. These are tubers that grow underground, similar to potatoes, and goats will munch on both the tubers and the tall sunflower-like stalks above ground.
+Jerusalem artichokes are a different plant entirely but equally safe. These are tubers that grow underground, similar to [sweet potatoes](/can-goats-eat-sweet-potatoes/), and goats will munch on both the tubers and the tall sunflower-like stalks above ground.
 
 ## Nutritional value for goats
 
@@ -68,17 +68,17 @@ Artichokes should be a treat or supplement, not a staple. A quarter cup of chopp
 
 If you are feeding artichokes for the first time, start with a smaller amount and watch for any digestive changes. Goats that eat too many artichokes at once can get loose droppings from the high fiber content.
 
-Do not let artichokes replace hay and browse as the foundation of the diet. They are a nice addition to the feed routine, not a replacement for it.
+Do not let artichokes replace hay and browse as the foundation of the diet. Knowing [what kind of hay goats need](/what-kind-of-hay-do-goats-eat/) is more important than any treat you can offer.
 
 Jerusalem artichoke tubers are starchier than globe artichokes, so keep those portions even smaller. A couple of tubers per goat is plenty.
 
 ## Other safe vegetables to pair with artichokes
 
-If your goats enjoy artichokes, they will probably like other vegetables too. Carrots, cabbage, beets, and squash are all safe options that add variety to the diet.
+If your goats enjoy artichokes, they will probably like other vegetables too. [Carrots](/can-goats-eat-carrots/), [cabbage](/can-goats-eat-cabbage/), beets, and [squash](/can-goats-eat-squash/) are all safe options that add variety to the diet.
 
-Avoid onions, garlic, and peppers since these can cause digestive irritation in goats. Stick to mild, fiber-rich vegetables and introduce new foods one at a time so you can spot any problems quickly.
+Avoid [onions](/can-goats-eat-onions/), garlic, and peppers since these can cause digestive irritation in goats. Stick to mild, fiber-rich vegetables and introduce new foods one at a time so you can spot any problems quickly.
 
-Mixing a few different vegetables into the feeder alongside hay gives your goats something interesting to pick through. Goats are browsers by nature and they enjoy having choices.
+Mixing a few different vegetables into the feeder alongside hay gives your goats something interesting to pick through. Tossing in some [celery](/can-goats-eat-celery/) or [cucumbers](/can-goats-eat-cucumbers/) keeps things interesting. Goats are browsers by nature and they enjoy having choices.
 
 If you grow artichokes in your garden, your goats will happily clean up the spent plants at the end of the season. Just pull up the old stalks and toss them in the pen.
 

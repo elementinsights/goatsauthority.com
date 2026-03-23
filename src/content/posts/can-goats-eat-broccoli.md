@@ -46,17 +46,17 @@ Broccoli is a good source of vitamins C and K, along with fiber and a handful of
 
 ## What is broccoli and what are its benefits to goats?
 
-Broccoli is a member of the brassica family, which also includes cabbage, cauliflower, and Brussels sprouts. Goats have been eating brassicas in pastures and gardens for as long as people have been growing them.
+Broccoli is a member of the brassica family, which also includes [cabbage](/can-goats-eat-cabbage/), cauliflower, and Brussels sprouts. Goats have been eating brassicas in pastures and gardens for as long as people have been growing them.
 
 The vitamin C in broccoli supports immune function, and vitamin K plays a role in proper blood clotting. It also provides dietary fiber that keeps the rumen working the way it should.
 
-The leaves are actually packed with more nutrients than the florets themselves. If you grow broccoli in your garden, tossing the trimmed outer leaves to your goats is a great way to cut down on waste.
+The leaves are actually packed with more nutrients than the florets themselves, similar to how [kale](/can-goats-eat-kale/) leaves deliver concentrated vitamins. If you grow broccoli in your garden, tossing the trimmed outer leaves to your goats is a great way to cut down on waste.
 
 ## What are the risks of feeding broccoli to goats?
 
 The main risk with broccoli is gas. Like all brassicas, broccoli contains sulfur compounds that produce gas during digestion, and a goat that eats too much at once can end up bloated and uncomfortable.
 
-If your goat starts pacing, kicking at its belly, or standing with its left side looking puffy, it is likely dealing with gas buildup. Offer baking soda free-choice and keep the goat moving until the discomfort passes.
+If your goat starts pacing, kicking at its belly, or standing with its left side looking puffy, it is likely dealing with gas buildup. You see the same bloat risk with [alfalfa](/can-goats-eat-alfalfa/) when goats eat too much too fast. Offer baking soda free-choice and keep the goat moving until the discomfort passes.
 
 Stick to small portions and you will not run into this problem. A few florets and some leaves as a treat is plenty for one feeding.
 
@@ -66,11 +66,11 @@ Chop the stems into bite-sized chunks before offering them to your goats. Thick 
 
 You can feed broccoli raw or cooked, though raw is simpler and retains more vitamins. There is no need to add salt, sugar, or any seasoning at all.
 
-For baby goats, cut everything into small pieces to prevent choking. Introduce broccoli slowly and watch how their stomachs handle it before making it a regular part of the rotation.
+For baby goats, cut everything into small pieces to prevent choking. The same prep applies when feeding kids [carrots](/can-goats-eat-carrots/) or [cucumbers](/can-goats-eat-cucumbers/). Introduce broccoli slowly and watch how their stomachs handle it before making it a regular part of the rotation.
 
 ## How much broccoli can goats eat?
 
-Treats like broccoli should make up no more than about 10% of a goat's daily diet. The bulk of their food should still come from hay, browse, and any supplemental grain they need.
+Treats like broccoli should make up no more than about 10% of a goat's daily diet. The bulk of their food should still come from [quality hay](/what-kind-of-hay-do-goats-eat/), browse, and any supplemental grain they need.
 
 A handful of florets and leaves per goat is a reasonable serving. You can offer broccoli a few times a week without any concern, but feeding a whole head of broccoli to one goat in a single sitting is asking for digestive trouble.
 

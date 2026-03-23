@@ -73,7 +73,7 @@ Cantaloupe is a natural source of vitamins A and C. Vitamin A supports healthy v
 
 The melon also provides potassium, which helps with muscle function and hydration. The fiber content supports healthy digestion when fed in reasonable amounts.
 
-Compared to treats like bananas, cantaloupe has fewer calories per serving. That makes it a solid choice if you want to offer treats without adding extra weight.
+Compared to treats like [bananas](/can-goats-eat-bananas/), cantaloupe has fewer calories per serving. That makes it a solid choice if you want to offer treats without adding extra weight.
 
 ## Cantaloupe as a Summer Treat
 
@@ -81,7 +81,7 @@ The high water content in cantaloupe makes it a perfect hot weather snack. On da
 
 Think of it as a supplement to their water supply, not a replacement. Goats still need constant access to fresh drinking water regardless of how much melon they eat.
 
-You can freeze cantaloupe chunks for an extra refreshing treat. Watermelon works the same way if you want to rotate between melons.
+You can freeze cantaloupe chunks for an extra refreshing treat. [Watermelon](/can-goats-eat-watermelon/) works the same way if you want to rotate between melons.
 
 ## How to Prepare Cantaloupe for Goats
 
@@ -89,7 +89,7 @@ Wash the outside of the cantaloupe thoroughly before cutting into it. The rough,
 
 Cut the melon into chunks about two to three inches across. This size is easy for goats to pick up and chew comfortably.
 
-Serve the flesh and rind together by tossing pieces into a feed trough or dropping them on clean ground. Never offer moldy or spoiled cantaloupe since mold toxins can make goats seriously ill.
+Serve the flesh and rind together by tossing pieces into a feed trough or dropping them on clean ground. Never offer moldy or spoiled cantaloupe since [mold toxins](/can-goats-eat-moldy-hay/) can make goats seriously ill.
 
 ## How Much Cantaloupe Can Goats Eat?
 
@@ -105,12 +105,12 @@ Kids can try cantaloupe once they are eating solid foods regularly. Cut it into 
 
 Go easy on the amount. A few small bites are plenty for a young goat. Their digestive systems are still developing, and too much fruit sugar can throw things off quickly.
 
-Their primary nutrition should come from mother’s milk until weaning, then from hay and age-appropriate feed. Cantaloupe is a treat, not a meal replacement.
+Their primary nutrition should come from mother’s milk until weaning, then from [hay](/what-kind-of-hay-do-goats-eat/) and age-appropriate feed. Cantaloupe is a treat, not a meal replacement.
 
 ## Other Fruits Goats Can Eat
 
 Cantaloupe is just one option in a long list of goat-safe fruits. Pears and peaches are both popular with most herds, though you should remove the pits first.
 
-Strawberries make a great small treat, and most goats enjoy apples cut into slices. Bananas are another winner, and goats will even eat the peels.
+[Strawberries](/can-goats-eat-strawberries/) make a great small treat, and most goats enjoy [apples](/can-goats-eat-apples/) cut into slices. Bananas are another winner, and goats will even eat the peels.
 
 Keep all fruit treats in moderation and rotate through different options to give your goats a range of nutrients. Hay and pasture should always remain the foundation of their diet with fruits serving as the occasional bonus.

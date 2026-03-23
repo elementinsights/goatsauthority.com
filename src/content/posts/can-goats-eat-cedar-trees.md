@@ -51,7 +51,7 @@ Not all trees called "cedar" are created equal. Here's what you need to know bef
 
 Yes, goats can eat most cedar trees without any problems. Eastern red cedar (Juniperus virginiana), the most common cedar species in North American pastures, is generally safe and goats enjoy browsing on it.
 
-Goats will strip the bark, chew the needles, and work their way through cedar branches like it's an all-you-can-eat buffet. The tannins in cedar foliage can actually help with internal parasite control, which is one reason goats seem drawn to it naturally.
+Goats will strip the bark, chew the needles, and work their way through cedar branches like it's an all-you-can-eat buffet. They show the same enthusiasm for [pine trees](/can-goats-eat-pine-trees/) and [blackberry thickets](/can-goats-eat-blackberries/). The tannins in cedar foliage can actually help with internal parasite control, which is one reason goats seem drawn to it naturally.
 
 ## Can a pregnant goat eat cedar trees?
 
@@ -63,7 +63,7 @@ For pregnant does, it's best to limit cedar access as a precaution. Thujone in l
 
 Lactating does can safely browse on Eastern red cedar and similar species. It won't affect milk quality or production in normal browsing amounts.
 
-Just keep their diet balanced with quality hay, fresh water, and minerals. Cedar browsing should be a supplement to their regular feed, not a replacement for it.
+Just keep their diet balanced with [quality hay](/what-kind-of-hay-do-goats-eat/), fresh water, and minerals. Cedar browsing should be a supplement to their regular feed, not a replacement for it.
 
 ## Can a baby goat eat cedar trees?
 
@@ -75,7 +75,7 @@ Young kids naturally take small bites and move on, so they're unlikely to overea
 
 A sick goat can browse on cedar, and some farmers believe the tannins and natural oils provide a mild health benefit. Cedar browsing shouldn't replace veterinary care, though.
 
-If your goat is dealing with a heavy parasite load, the tannins in cedar may offer some support alongside proper deworming. But if a goat is truly ill, focus on getting a diagnosis and proper treatment first.
+If your goat is dealing with a heavy parasite load, the tannins in cedar may offer some support alongside proper deworming. [Pine needles](/can-goats-eat-pine-needles/) contain similar tannin compounds that goats seek out. But if a goat is truly ill, focus on getting a diagnosis and proper treatment first.
 
 ## Do all goats eat cedar trees?
 
@@ -99,7 +99,7 @@ If you're not sure which cedar species you have on your property, take a branch 
 
 You don't really need to "introduce" cedar if it's already growing in your pasture. Goats will find it and decide for themselves how much they want.
 
-If you're bringing in cedar branches from elsewhere, start with a small amount and let your goats get used to it. Make sure they always have access to quality hay, fresh water, and a mineral block so they're not relying on cedar as a primary food source. A well-fed goat with diverse browse options will naturally regulate its own cedar intake.
+If you're bringing in cedar branches from elsewhere, start with a small amount and let your goats get used to it. Make sure they always have access to quality hay, fresh water, and a mineral block so they're not relying on cedar as a primary food source. Offering treats like [dandelions](/can-goats-eat-dandelions/) and [honeysuckle](/can-goats-eat-honeysuckle/) alongside cedar creates the kind of diverse browse goats thrive on. A well-fed goat with diverse browse options will naturally regulate its own cedar intake.
 
 ## Final Thoughts
 

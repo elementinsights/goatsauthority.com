@@ -44,7 +44,7 @@ Yes, goats can eat alfalfa hay, and it's one of the most nutrient-dense feeds av
 
 Alfalfa is the go-to for pregnant does, nursing does, and growing kids. These animals have higher nutritional demands, and alfalfa delivers the protein, calcium, and calories they need to thrive.
 
-For dry does, bucks, and wethers, alfalfa shouldn't be the primary hay. The high calcium content creates a lopsided calcium-to-phosphorus ratio that causes serious health problems in males over time.
+For dry does, bucks, and wethers, alfalfa shouldn't be the primary hay. The high calcium content creates a lopsided calcium-to-phosphorus ratio that causes serious health problems in males over time. A [timothy hay](/can-goats-eat-timothy-hay/) base works much better for these animals.
 
 ## Why Alfalfa Is the Best Hay for Some Goats
 
@@ -52,13 +52,13 @@ A lactating doe on alfalfa will produce noticeably more milk than one eating onl
 
 Growing kids benefit from the extra protein for muscle development and the calcium for building strong bones. First-cutting alfalfa tends to be stemmy with more fiber, while second and third cuttings are leafier and higher in protein.
 
-Alfalfa also provides vitamins A, D, E, and K, which support immune function and reproductive health. In late pregnancy and early lactation, no other single hay comes close to meeting a doe's nutritional needs.
+Alfalfa also provides vitamins A, D, E, and K, which support immune function and reproductive health. In late pregnancy and early lactation, no other single hay comes close to meeting a doe's nutritional needs. Pairing it with treats like [carrots](/can-goats-eat-carrots/) adds even more vitamin A to the diet.
 
 ## The Bloat Risk With Alfalfa
 
 Alfalfa ferments faster in the rumen than grass hay, and that rapid fermentation produces gas. If a goat gorges on alfalfa before its rumen adapts, the gas can build up faster than the animal can belch it off.
 
-This is called frothy bloat, and it can kill a goat in a matter of hours if not treated. The left side of the abdomen swells visibly, and the goat becomes restless, stops eating, and may grind its teeth.
+This is called frothy bloat, and it can kill a goat in a matter of hours if not treated. The left side of the abdomen swells visibly, and the goat becomes restless, stops eating, and may grind its teeth. You can see similar bloat risks with [corn](/can-goats-eat-corn/) if goats eat too much too fast.
 
 The fix is simple: introduce alfalfa gradually over 7 to 10 days. Start by mixing a small amount into their regular grass hay and increase the proportion slowly until their rumen bacteria adjusts.
 
@@ -68,7 +68,7 @@ Urinary calculi are mineral deposits that form in the urinary tract, and they hi
 
 Alfalfa's calcium-to-phosphorus ratio runs about 5:1 or higher. A healthy ratio for male goats is closer to 2:1. Feeding straight alfalfa to males over time is a recipe for stones.
 
-Wethers are at the highest risk because castration reduces urethral diameter. If you keep wethers, use grass hay as their primary forage and add ammonium chloride to their mineral mix to help acidify the urine and prevent stone formation.
+Wethers are at the highest risk because castration reduces urethral diameter. If you keep wethers, use grass hay as their primary forage and add ammonium chloride to their mineral mix to help acidify the urine and prevent stone formation. Supplementing with [oats](/can-goats-eat-oats/) instead of high-calcium feeds is a safer energy source for males.
 
 ## How Much Alfalfa to Feed Your Goats
 
@@ -76,7 +76,7 @@ A mature goat eats roughly 2 to 4 pounds of total hay per day. Pregnant and lact
 
 For bucks and wethers, limit alfalfa to about 25-30% of their total hay intake. Fill the rest with timothy, orchard grass, or bermuda hay.
 
-Alfalfa pellets and cubes are convenient when you want to control portions precisely. They let you add measured protein and calcium without giving unlimited access to loose alfalfa.
+Alfalfa pellets and cubes are convenient when you want to control portions precisely. They let you add measured protein and calcium without giving unlimited access to loose alfalfa. You can also look into [hay cubes](/can-goats-eat-hay-cubes/) as another way to manage portion sizes.
 
 ## Mixing Alfalfa With Grass Hay
 
@@ -84,4 +84,4 @@ A 50/50 mix of alfalfa and grass hay works well for most adult goats outside of 
 
 Grass hay like timothy or orchard grass provides the long-stem fiber that keeps the rumen working efficiently. It also slows fermentation speed compared to straight alfalfa, which reduces the bloat risk significantly.
 
-In winter, when pasture is dormant and browse is gone, a higher proportion of alfalfa helps goats maintain body condition and generate body heat. Think of grass hay as the foundation and alfalfa as the protein boost you add on top.
+In winter, when pasture is dormant and browse is gone, a higher proportion of alfalfa helps goats maintain body condition and generate body heat. Adding [sunflower seeds](/can-goats-eat-sunflower-seeds/) to the grain ration provides healthy fats for extra warmth. Think of grass hay as the foundation and alfalfa as the protein boost you add on top.

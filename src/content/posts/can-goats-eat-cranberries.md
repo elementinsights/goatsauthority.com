@@ -81,13 +81,13 @@ If you have leftover cranberry sauce after Thanksgiving, put it in the compost p
 
 Cranberries are a solid source of vitamin C, which supports immune health in goats. They also contain vitamin E and a range of antioxidants that help the body handle cellular stress.
 
-The fiber content in cranberries supports healthy digestion. A handful of berries mixed into their regular feed adds both nutrition and variety to their routine.
+The fiber content in cranberries supports healthy digestion. A handful of berries mixed into their regular feed alongside some [oats](/can-goats-eat-oats/) adds both nutrition and variety to their routine.
 
 Cranberries also have natural compounds that support urinary tract health, which is well documented in human nutrition and may offer similar benefits to livestock.
 
 ## Why Many Goats Refuse Cranberries
 
-Do not be surprised if your goats want nothing to do with cranberries. The tartness is strong, and goats generally prefer sweeter fruits like apples or watermelon.
+Do not be surprised if your goats want nothing to do with cranberries. The tartness is strong, and goats generally prefer sweeter fruits like [apples](/can-goats-eat-apples/) or [watermelon](/can-goats-eat-watermelon/).
 
 Some goats will eat them mixed into grain but refuse them offered alone. Others will not touch them no matter what.
 
@@ -103,15 +103,15 @@ Limit servings to a small handful per goat, offered once or twice a week at most
 
 ## Other Berries Goats Can Eat
 
-Cranberries are not the only berry option for your herd. Strawberries and blueberries are both safe and tend to be more popular with goats since they are sweeter.
+Cranberries are not the only berry option for your herd. [Strawberries](/can-goats-eat-strawberries/) and [blueberries](/can-goats-eat-blueberries/) are both safe and tend to be more popular with goats since they are sweeter.
 
-Raspberries and blackberries are also fine in moderation. Goats will even eat the leaves and canes of berry bushes without any problems.
+Raspberries and [blackberries](/can-goats-eat-blackberries/) are also fine in moderation. Goats will even eat the leaves and canes of berry bushes without any problems.
 
 Not all berries are safe though. Mistletoe and holly berries are toxic and should never be accessible to your goats. Know what is growing in and around your pasture.
 
 ## Fruits to Avoid
 
-While cranberries get a green light, some fruits are genuinely dangerous. Avocados contain persin, which is toxic to goats and can cause serious illness.
+While cranberries get a green light, some fruits are genuinely dangerous. [Avocados](/can-goats-eat-avocado/) contain persin, which is toxic to goats and can cause serious illness.
 
 Cherry pits and leaves contain compounds that release cyanide. Citrus fruits like oranges can upset a goat’s stomach if fed in any real quantity.
 

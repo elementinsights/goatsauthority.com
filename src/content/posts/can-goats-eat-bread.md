@@ -57,17 +57,17 @@ The real risk with bread is feeding too much at once. A large amount of bread ca
 
 Skip the bread for kids under three months old. Their rumens are still developing and they need mother’s milk, hay, and a quality kid feed to grow properly.
 
-Older kids can have a small piece here and there, but there are much better treat options. Apple slices, carrot pieces, and even a few raisins give them something to enjoy without the empty carbs.
+Older kids can have a small piece here and there, but there are much better treat options. [Apple slices](/can-goats-eat-apples/), [carrot pieces](/can-goats-eat-carrots/), and even a few [raisins](/can-goats-eat-raisins/) give them something to enjoy without the empty carbs.
 
 ## Which Bread Is Healthier for Goats?
 
 Whole wheat or whole grain bread is the best option if you are going to feed bread at all. It has more fiber and nutrients than white bread, though it is still nowhere close to what hay provides.
 
-Avoid any bread with raisins, garlic, onion, or heavy seasonings. Garlic and onion in large amounts can damage a goat’s red blood cells, so flavored breads are not worth the risk.
+Avoid any bread with raisins, garlic, [onion](/can-goats-eat-onions/), or heavy seasonings. Garlic and onion in large amounts can damage a goat’s red blood cells, so flavored breads are not worth the risk.
 
 ## Can Goats Eat Moldy Bread?
 
-Never feed moldy bread to goats. Mold produces mycotoxins that can cause serious digestive and neurological problems, and some types of mold can be fatal.
+Never feed moldy bread to goats. The same goes for [moldy hay](/can-goats-eat-moldy-hay/), which is equally dangerous. Mold produces mycotoxins that can cause serious digestive and neurological problems, and some types of mold can be fatal.
 
 Stale bread is fine as long as there is no visible mold on it. But the moment you see any fuzzy spots, white, green, or black, toss the whole thing. Do not try to cut around the mold and feed the clean parts.
 
@@ -75,10 +75,10 @@ Stale bread is fine as long as there is no visible mold on it. But the moment yo
 
 Bread itself is not toxic. The harm comes from feeding too much of it or feeding it in the wrong form.
 
-Never give goats raw bread dough. The yeast will continue to ferment inside the rumen, producing gas and alcohol that can cause bloat or even enterotoxemia. Baked bread in small amounts is the only safe way to share it.
+Never give goats raw bread dough. The yeast will continue to ferment inside the rumen, producing gas and alcohol that can cause bloat or even enterotoxemia. Baked bread in small amounts is the only safe way to share it. For better grain-based treats, consider offering a handful of [oats](/can-goats-eat-oats/) instead.
 
 ## Final Thoughts
 
 A few pieces of plain bread make a fine occasional treat for your goats. Whole wheat is better than white, and stale is fine as long as there is no mold.
 
-Keep bread to a minimum and let hay, browse, and quality feed do the real work of keeping your herd healthy. There are better treats out there like fruit and vegetables, but bread in moderation will not cause any harm.
+Keep bread to a minimum and let hay, browse, and quality feed do the real work of keeping your herd healthy. There are better treats out there like [pumpkin](/can-goats-eat-pumpkin/) and [sweet potatoes](/can-goats-eat-sweet-potatoes/), but bread in moderation will not cause any harm.

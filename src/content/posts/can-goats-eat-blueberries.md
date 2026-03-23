@@ -57,7 +57,7 @@ They also contain small amounts of iron, phosphorus, and potassium. For a tiny b
 
 ## Benefits of Blueberries for Goat Health
 
-The antioxidant content in blueberries helps support your goat’s immune system during stressful periods like kidding season, extreme weather, or after transport. Vitamin K also aids proper blood clotting, which matters if your goats are prone to scrapes from browsing thorny brush.
+The antioxidant content in blueberries helps support your goat’s immune system during stressful periods like kidding season, extreme weather, or after transport. Vitamin K also aids proper blood clotting, which matters if your goats are prone to scrapes from [browsing thorny blackberry canes](/can-goats-eat-blackberries/).
 
 The fiber content helps keep things moving through the rumen. A handful of blueberries mixed into their regular feed adds variety without disrupting their gut bacteria.
 
@@ -67,13 +67,13 @@ Blueberries also make outstanding training treats. They’re small, easy to carr
 
 Every breed from Boers to Nigerian Dwarfs to Pygmies can eat blueberries without any issues. Kids can have them too once they’re eating solid food, though start with just a few berries at a time.
 
-The bulk of your goat’s diet should still be hay and browse, with pasture grasses making up the foundation. Blueberries are a supplement, not a replacement for proper forage.
+The bulk of your goat’s diet should still be [quality hay](/what-kind-of-hay-do-goats-eat/) and browse, with pasture grasses making up the foundation. Blueberries are a supplement, not a replacement for proper forage.
 
 ## How to Properly Feed Blueberries to Goats
 
 You don’t need to do anything fancy. Wash them if they’re store-bought to remove pesticide residue, then toss them to your goats whole.
 
-Scattering blueberries on the ground or hiding them in a slow feeder gives your goats something to forage for. This kind of enrichment keeps them busy and mimics natural browsing behavior, which is good for their mental health.
+Scattering blueberries on the ground or hiding them in a slow feeder gives your goats something to forage for. Mixing in some [sunflower seeds](/can-goats-eat-sunflower-seeds/) adds protein to the enrichment. This kind of enrichment keeps them busy and mimics natural browsing behavior, which is good for their mental health.
 
 A handful per goat per day is plenty. Blueberries do contain natural sugars, and too many can cause digestive upset or loose stool.
 
@@ -95,7 +95,7 @@ Remember that treats of any kind should make up only a small fraction of your go
 
 ### What Fruit Can Goats Not Eat?
 
-A few fruits are genuinely dangerous for goats. Avocado pits and skin contain persin, which can cause serious digestive and cardiac problems.
+A few fruits are genuinely dangerous for goats. [Avocado](/can-goats-eat-avocado/) pits and skin contain persin, which can cause serious digestive and cardiac problems.
 
 Cherry leaves and seeds contain cyanide compounds that are toxic to goats. Rhubarb leaves are also harmful due to high oxalic acid content.
 
@@ -103,7 +103,7 @@ Blueberries are not on the danger list. But even with safe fruits, keep portions
 
 ### What Fruit Treats Are Good for Goats?
 
-Beyond blueberries, goats enjoy apples and pears with the seeds removed. Watermelon, strawberries, and raspberries are also safe options.
+Beyond blueberries, goats enjoy [apples](/can-goats-eat-apples/) and pears with the seeds removed. [Watermelon](/can-goats-eat-watermelon/), [strawberries](/can-goats-eat-strawberries/), and raspberries are also safe options.
 
 The key with any fruit treat is keeping it occasional. A few pieces here and there won’t hurt, but fruit should never replace their regular forage.
 

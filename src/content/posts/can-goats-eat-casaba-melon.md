@@ -47,13 +47,13 @@ Casaba melons are part of the same family as cantaloupe, honeydew, and watermelo
 
 Casaba melons are high in water content, which makes them a solid hydration boost during warm weather. They also provide vitamins A and C along with potassium, all of which support a goat's overall health.
 
-The sugar content is lower in casaba melons compared to cantaloupe or watermelon, which actually makes them one of the better melon options for goats. The rind has some fiber in it too, which goats will happily chew through.
+The sugar content is lower in casaba melons compared to cantaloupe or watermelon, which actually makes them one of the better melon options for goats. The rind has some fiber in it too, which goats will happily chew through. [Pumpkin](/can-goats-eat-pumpkin/) is another low-sugar option with similar hydration benefits.
 
-Melons are a treat, not a meal replacement. Goats get the bulk of their nutrition from hay, browse, and pasture. Think of casaba melon like a snack rather than a staple.
+Melons are a treat, not a meal replacement. Goats get the bulk of their nutrition from [hay](/what-kind-of-hay-do-goats-eat/), browse, and pasture. Think of casaba melon like a snack rather than a staple.
 
 ## How to feed casaba melon to goats
 
-Cut the melon into chunks that your goats can manage easily. For adult goats, pieces about the size of your fist work fine. For kids, chop it smaller to reduce any choking risk.
+Cut the melon into chunks that your goats can manage easily. For adult goats, pieces about the size of your fist work fine. For kids, chop it smaller to reduce any choking risk, just like you would with [carrots](/can-goats-eat-carrots/) or [cucumbers](/can-goats-eat-cucumbers/).
 
 You don't need to remove the seeds. Goats chew their food thoroughly and melon seeds pass through their digestive system without causing issues.
 
@@ -63,7 +63,7 @@ The rind is perfectly edible for goats and many actually prefer it to the flesh.
 
 The main risk with any melon is feeding too much at once. A goat that gorges on melon can develop loose stools or mild bloat from the sudden influx of water and sugar. A few chunks per goat is plenty as a treat.
 
-Never feed moldy or fermented melon to your goats. Once a melon starts to go bad, it can harbor bacteria and mold that cause digestive problems. If you wouldn't eat it yourself, don't give it to your goats.
+Never feed moldy or fermented melon to your goats. Once a melon starts to go bad, it can harbor bacteria and mold that cause digestive problems. Other treats like [apples](/can-goats-eat-apples/) and [blueberries](/can-goats-eat-blueberries/) store longer if you need shelf life. If you wouldn't eat it yourself, don't give it to your goats.
 
 Avoid any melon that's been treated with pesticides or herbicides unless you've washed it thoroughly. Store-bought melons are generally fine, but if you're getting them from a neighbor's garden, ask about what they sprayed.
 
@@ -71,7 +71,7 @@ Avoid any melon that's been treated with pesticides or herbicides unless you've 
 
 Pretty much every common melon is safe for goats. Watermelon, cantaloupe, honeydew, and Crenshaw melons all follow the same rules as casaba.
 
-Watermelon rinds are probably the most popular goat treat during summer. Goats go crazy for them, and the thick rind gives them something satisfying to chew on for a while.
+[Watermelon](/can-goats-eat-watermelon/) rinds are probably the most popular goat treat during summer. Goats go crazy for them, and the thick rind gives them something satisfying to chew on for a while.
 
 Just keep the same guidelines in mind for all melons: cut into manageable pieces, feed in moderation, and skip anything that's gone soft or moldy.
 

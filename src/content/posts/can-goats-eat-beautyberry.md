@@ -44,31 +44,31 @@ The bright purple berry clusters are the most recognizable part of the plant, bu
 
 Yes, beautyberry is non-toxic to goats. Both the berries and leaves are safe, and goats that have access to beautyberry bushes will browse on them when they feel like it.
 
-It's a browse plant, not a staple food. Goats shouldn't rely on beautyberry as a major part of their diet because it doesn't have the nutritional density they need. Think of it more like a snack they'll grab while moving through the pasture.
+It's a browse plant, not a staple food. Goats shouldn't rely on beautyberry as a major part of their diet because it doesn't have the nutritional density they need. For primary nutrition, focus on [quality hay](/what-kind-of-hay-do-goats-eat/) and proper minerals. Think of beautyberry more like a snack they'll grab while moving through the pasture.
 
 ## Beautyberry as a natural insect repellent
 
 One of the most interesting things about beautyberry is that the leaves contain a compound called callicarpenal. USDA research has found that this compound repels mosquitoes, ticks, and fire ants.
 
-Some goat owners crush beautyberry leaves and rub them on their goats' coats as a natural fly repellent during the summer months. It's not as strong as commercial products, but it does cut down on biting insects. Planting beautyberry bushes along fence lines or near the barn can help reduce the insect population in the general area too.
+Some goat owners crush beautyberry leaves and rub them on their goats' coats as a natural fly repellent during the summer months. [Citrus peels](/can-goats-eat-citrus-fruits/) contain limonene, which has similar natural pest-repelling properties. Planting beautyberry bushes along fence lines or near the barn can help reduce the insect population in the general area too.
 
 ## Nutritional value and benefits
 
 Beautyberry leaves contain vitamins A and C, along with minerals like iron and potassium. The leaves are also a decent source of fiber, which supports healthy rumen function and keeps digestion moving smoothly.
 
-The tannins in beautyberry may provide some natural resistance to internal parasites like stomach worms. This isn't a replacement for a proper deworming program, but tannin-rich browse as part of a varied diet can contribute to overall parasite management. Several studies have shown that goats with access to diverse browse tend to carry lower parasite loads.
+The tannins in beautyberry may provide some natural resistance to internal parasites like stomach worms. [Pine needles](/can-goats-eat-pine-needles/) also contain tannins that goats seek out for similar reasons. This isn't a replacement for a proper deworming program, but tannin-rich browse as part of a varied diet can contribute to overall parasite management. Several studies have shown that goats with access to diverse browse tend to carry lower parasite loads.
 
 ## How much beautyberry is safe?
 
 Goats can safely eat about 0.5% of their body weight in beautyberry per day. For a 100-pound goat, that's about half a pound of plant material.
 
-Eating too much at once can cause loose stools because of the tannin content. If your goats have free access to beautyberry bushes, they'll typically self-regulate and move on to other browse before overdoing it. Most goats don't gorge themselves on any single plant species when they have variety available.
+Eating too much at once can cause loose stools because of the tannin content. If your goats have free access to beautyberry bushes, they'll typically self-regulate and move on to other browse like [blackberry bushes](/can-goats-eat-blackberries/) or [honeysuckle](/can-goats-eat-honeysuckle/) before overdoing it. Most goats don't gorge themselves on any single plant species when they have variety available.
 
 ## When beautyberry is in season
 
 Beautyberry produces its signature bright purple berries from late summer through early fall, typically August through October depending on your region. This is when goats will be the most interested in the plant.
 
-During the rest of the year, the shrub is fairly plain-looking and goats will mostly ignore it. The leaves are available for browsing from spring through fall, and they're the part of the plant that goats eat most often. If you want to control how much your goats consume, prune the bushes before the berries ripen and offer the clippings in measured portions.
+During the rest of the year, the shrub is fairly plain-looking and goats will mostly ignore it. The leaves are available for browsing from spring through fall, and they're the part of the plant that goats eat most often. In winter when beautyberry is dormant, [acorns](/can-goats-eat-acorns/) from nearby oak trees may catch your goats' attention instead. If you want to control how much your goats consume, prune the bushes before the berries ripen and offer the clippings in measured portions.
 
 ## Final Thoughts
 
